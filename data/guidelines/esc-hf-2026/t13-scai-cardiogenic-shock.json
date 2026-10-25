@@ -1,0 +1,136 @@
+{
+  "schemaVersion": 1,
+  "id": "esc-hf-2026.t13-scai-cardiogenic-shock",
+  "guidelineId": "esc-hf-2026",
+  "number": "13",
+  "type": "grid",
+  "title": {
+    "en": "SCAI classification for cardiogenic shock",
+    "ru": "Классификация кардиогенного шока по шкале SCAI"
+  },
+  "tags": [
+    "cardiogenic-shock",
+    "scai",
+    "shock-stages",
+    "hypoperfusion",
+    "acute-heart-failure",
+    "inotropes",
+    "vasopressors",
+    "mcs",
+    "cpr"
+  ],
+  "source": {
+    "expectedRows": 5
+  },
+  "i18nStatus": {
+    "ru": "reviewed"
+  },
+  "columns": [
+    {
+      "id": "stage",
+      "title": {
+        "en": "SCAI stage",
+        "ru": "Стадия по SCAI"
+      }
+    },
+    {
+      "id": "description",
+      "title": {
+        "en": "Description",
+        "ru": "Описание"
+      }
+    }
+  ],
+  "rows": [
+    {
+      "id": "r01-stage-a",
+      "cells": [
+        {
+          "text": {
+            "en": "**STAGE A**\n'At risk'",
+            "ru": "**СТАДИЯ A**\n«Группа риска» ('At risk')"
+          },
+          "tone": "green"
+        },
+        {
+          "text": {
+            "en": "A patient who is not currently experiencing signs or symptoms of CS but is at risk for development of CS.",
+            "ru": "Пациент, у которого в настоящее время отсутствуют симптомы или признаки кардиогенного шока (КШ), но имеется риск развития КШ."
+          }
+        }
+      ]
+    },
+    {
+      "id": "r02-stage-b",
+      "cells": [
+        {
+          "text": {
+            "en": "**STAGE B**\n'Beginning/pre-shock'\ncardiogenic shock",
+            "ru": "**СТАДИЯ B**\n«Начальный / прешок» ('Beginning/pre-shock')"
+          },
+          "tone": "yellow"
+        },
+        {
+          "text": {
+            "en": "A patient who has clinical evidence of hemodynamic instability (including relative hypotension or tachycardia) without hypoperfusion.",
+            "ru": "Пациент с клиническими признаками гемодинамической нестабильности (включая относительную гипотонию или тахикардию) без признаков гипоперфузии."
+          }
+        }
+      ]
+    },
+    {
+      "id": "r03-stage-c",
+      "cells": [
+        {
+          "text": {
+            "en": "**STAGE C**\n'Classic' cardiogenic\nshock",
+            "ru": "**СТАДИЯ C**\n«Классический» КШ ('Classic' CS)"
+          },
+          "tone": "orange"
+        },
+        {
+          "text": {
+            "en": "A patient that manifests with hypoperfusion requiring intervention (inotrope, vasopressor, or mechanical support).",
+            "ru": "Пациент с клиническими проявлениями гипоперфузии, требующими лечебного вмешательства (инотропы, вазопрессоры или механическая поддержка кровообращения)."
+          }
+        }
+      ]
+    },
+    {
+      "id": "r04-stage-d",
+      "cells": [
+        {
+          "text": {
+            "en": "**STAGE D**\n'Deteriorating'",
+            "ru": "**СТАДИЯ D**\n«Ухудшение» ('Deteriorating')"
+          },
+          "tone": "red"
+        },
+        {
+          "text": {
+            "en": "A patient that is similar to stage C but deteriorating with failure to respond to initial interventions.",
+            "ru": "Пациент, аналогичный стадии C, но с прогрессирующим ухудшением состояния и отсутствием ответа на начальную терапию."
+          }
+        }
+      ]
+    },
+    {
+      "id": "r05-stage-e",
+      "cells": [
+        {
+          "text": {
+            "en": "**STAGE E**\n'Extremis'",
+            "ru": "**СТАДИЯ E**\n«Крайняя тяжесть / агония» ('Extremis')"
+          },
+          "tone": "red"
+        },
+        {
+          "text": {
+            "en": "A patient with refractory shock or cardiac arrest requiring multiple simultaneous acute interventions, including CPR.",
+            "ru": "Пациент с рефрактерным шоком или остановкой кровообращения, требующий одновременного проведения множественных экстренных вмешательств, включая СЛР."
+          }
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,57 @@
+{
+  "schemaVersion": 1,
+  "id": "esc-hf-2026.rt26-long-term-follow-up-palliative",
+  "guidelineId": "esc-hf-2026",
+  "number": "Recommendation Table 26",
+  "type": "recommendations",
+  "title": {
+    "en": "Recommendation Table 26 — Recommendations for long-term follow-up",
+    "ru": "Таблица рекомендаций 26 — Рекомендации по долгосрочному наблюдению"
+  },
+  "tags": [
+    "long-term-follow-up",
+    "palliative-care",
+    "advanced-hf",
+    "advance-care-planning",
+    "end-of-life",
+    "qol",
+    "symptom-burden"
+  ],
+  "source": {
+    "expectedRows": 2
+  },
+  "i18nStatus": {
+    "ru": "reviewed"
+  },
+  "sections": [
+    {
+      "id": "sec-long-term-follow-up",
+      "title": {
+        "en": "Recommendations for long-term follow-up (see Evidence Tables 101 and 102)",
+        "ru": "Рекомендации по долгосрочному наблюдению (см. Доказательные таблицы 101 и 102)"
+      },
+      "rows": [
+        {
+          "id": "r01",
+          "text": {
+            "en": "Proactive discussion regarding HF trajectory, goals of care, and advance care planning is recommended in patients with advanced HF to facilitate communication on end of life and QoL.",
+            "ru": "Проактивное обсуждение траектории развития СН, целей оказания помощи и заблаговременное планирование медицинской помощи рекомендуются пациентам с терминальной СН для облегчения взаимодействия по вопросам завершения жизни и качества жизни."
+          },
+          "class": "I",
+          "level": "B1",
+          "refs": [627]
+        },
+        {
+          "id": "r02",
+          "text": {
+            "en": "Access to an integrated HF palliative care multidisciplinary team is recommended for patients in an advanced HF stage to improve QoL and reduce symptom burden.",
+            "ru": "Обеспечение доступа к интегрированной мультидисциплинарной команде паллиативной помощи при СН рекомендуется пациентам на стадии терминальной СН для улучшения качества жизни и уменьшения бремени симптомов."
+          },
+          "class": "I",
+          "level": "B2",
+          "refs": [1066, 1067, 1068]
+        }
+      ]
+    }
+  ]
+}

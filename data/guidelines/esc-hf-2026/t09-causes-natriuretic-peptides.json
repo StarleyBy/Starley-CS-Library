@@ -1,0 +1,403 @@
+{
+  "schemaVersion": 1,
+  "id": "esc-hf-2026.t09-causes-natriuretic-peptides",
+  "guidelineId": "esc-hf-2026",
+  "number": "9",
+  "type": "grid",
+  "title": {
+    "en": "Causes for increase or decrease in natriuretic peptide levels",
+    "ru": "Причины повышения и снижения уровня натрийуретических пептидов"
+  },
+  "tags": [
+    "natriuretic-peptides",
+    "bnp",
+    "nt-probnp",
+    "biomarkers",
+    "differential-diagnosis",
+    "heart-failure",
+    "arni",
+    "obesity",
+    "renal-failure"
+  ],
+  "source": {
+    "expectedRows": 32
+  },
+  "i18nStatus": {
+    "ru": "reviewed"
+  },
+  "columns": [
+    {
+      "id": "cause",
+      "title": {
+        "en": "Causes for change in natriuretic peptide levels",
+        "ru": "Причины изменения уровня натрийуретических пептидов"
+      }
+    }
+  ],
+  "rows": [
+    {
+      "id": "sec-increased",
+      "kind": "section",
+      "cells": [
+        {
+          "text": {
+            "en": "**Causes for increased natriuretic peptide levels**",
+            "ru": "**Причины повышения уровня натрийуретических пептидов**"
+          }
+        }
+      ]
+    },
+    {
+      "id": "r01-acs",
+      "cells": [
+        {
+          "text": {
+            "en": "Acute coronary syndrome",
+            "ru": "Острый коронарный синдром"
+          }
+        }
+      ]
+    },
+    {
+      "id": "r02-age",
+      "cells": [
+        {
+          "text": {
+            "en": "Advanced age^[a]",
+            "ru": "Пожилой и старческий возраст^[a]"
+          }
+        }
+      ]
+    },
+    {
+      "id": "r03-af",
+      "cells": [
+        {
+          "text": {
+            "en": "Atrial fibrillation",
+            "ru": "Фибрилляция предсердий"
+          }
+        }
+      ]
+    },
+    {
+      "id": "r04-contusion",
+      "cells": [
+        {
+          "text": {
+            "en": "Cardiac contusion",
+            "ru": "Ушиб сердца"
+          }
+        }
+      ]
+    },
+    {
+      "id": "r05-copd",
+      "cells": [
+        {
+          "text": {
+            "en": "COPD",
+            "ru": "ХОБЛ"
+          }
+        }
+      ]
+    },
+    {
+      "id": "r06-critical-illness",
+      "cells": [
+        {
+          "text": {
+            "en": "Critical illness",
+            "ru": "Критические состояния"
+          }
+        }
+      ]
+    },
+    {
+      "id": "r07-female-sex",
+      "cells": [
+        {
+          "text": {
+            "en": "Female sex",
+            "ru": "Женский пол"
+          }
+        }
+      ]
+    },
+    {
+      "id": "r08-kidney-dysfunction",
+      "cells": [
+        {
+          "text": {
+            "en": "Kidney dysfunction",
+            "ru": "Почечная дисфункция"
+          }
+        }
+      ]
+    },
+    {
+      "id": "r09-lvh",
+      "cells": [
+        {
+          "text": {
+            "en": "LV hypertrophy",
+            "ru": "Гипертрофия левого желудочка"
+          }
+        }
+      ]
+    },
+    {
+      "id": "r10-myocarditis",
+      "cells": [
+        {
+          "text": {
+            "en": "Myocarditis",
+            "ru": "Миокардит"
+          }
+        }
+      ]
+    },
+    {
+      "id": "r11-osa",
+      "cells": [
+        {
+          "text": {
+            "en": "Obstructive sleep apnoea",
+            "ru": "Обструктивное апноэ сна"
+          }
+        }
+      ]
+    },
+    {
+      "id": "r12-paraneoplastic",
+      "cells": [
+        {
+          "text": {
+            "en": "Paraneoplastic syndrome",
+            "ru": "Паранеопластический синдром"
+          }
+        }
+      ]
+    },
+    {
+      "id": "r13-pe",
+      "cells": [
+        {
+          "text": {
+            "en": "Pulmonary embolism",
+            "ru": "Тромбоэмболия легочной артерии"
+          }
+        }
+      ]
+    },
+    {
+      "id": "r14-ph",
+      "cells": [
+        {
+          "text": {
+            "en": "Pulmonary hypertension",
+            "ru": "Легочная гипертензия"
+          }
+        }
+      ]
+    },
+    {
+      "id": "r15-rv-pacing",
+      "cells": [
+        {
+          "text": {
+            "en": "RV pacing",
+            "ru": "Правожелудочковая стимуляция"
+          }
+        }
+      ]
+    },
+    {
+      "id": "r16-anaemia",
+      "cells": [
+        {
+          "text": {
+            "en": "Severe anaemia",
+            "ru": "Тяжелая анемия"
+          }
+        }
+      ]
+    },
+    {
+      "id": "r17-endocrine",
+      "cells": [
+        {
+          "text": {
+            "en": "Severe endocrine dysfunction",
+            "ru": "Тяжелая эндокринная дисфункция"
+          }
+        }
+      ]
+    },
+    {
+      "id": "r18-infections",
+      "cells": [
+        {
+          "text": {
+            "en": "Severe infections (including pneumonia and sepsis)",
+            "ru": "Тяжелые инфекции (включая пневмонию и сепсис)"
+          }
+        }
+      ]
+    },
+    {
+      "id": "r19-liver-disease",
+      "cells": [
+        {
+          "text": {
+            "en": "Severe liver disease",
+            "ru": "Тяжелые заболевания печени"
+          }
+        }
+      ]
+    },
+    {
+      "id": "r20-acidosis-dka",
+      "cells": [
+        {
+          "text": {
+            "en": "Severe metabolic acidosis and diabetic ketoacidosis",
+            "ru": "Тяжелый метаболический ацидоз и диабетический кетоацидоз"
+          }
+        }
+      ]
+    },
+    {
+      "id": "r21-sah",
+      "cells": [
+        {
+          "text": {
+            "en": "Subarachnoid haemorrhage",
+            "ru": "Субарахноидальное кровоизлияние"
+          }
+        }
+      ]
+    },
+    {
+      "id": "r22-hypertension",
+      "cells": [
+        {
+          "text": {
+            "en": "Systemic hypertension",
+            "ru": "Артериальная гипертензия"
+          }
+        }
+      ]
+    },
+    {
+      "id": "r23-vhd",
+      "cells": [
+        {
+          "text": {
+            "en": "Valvular heart disease",
+            "ru": "Клапанные пороки сердца"
+          }
+        }
+      ]
+    },
+    {
+      "id": "sec-decreased",
+      "kind": "section",
+      "cells": [
+        {
+          "text": {
+            "en": "**Causes for decreased natriuretic peptide levels**",
+            "ru": "**Причины снижения уровня натрийуретических пептидов**"
+          }
+        }
+      ]
+    },
+    {
+      "id": "r24-african",
+      "cells": [
+        {
+          "text": {
+            "en": "African ancestry",
+            "ru": "Афроамериканское происхождение"
+          }
+        }
+      ]
+    },
+    {
+      "id": "r25-arni-acei-arb",
+      "cells": [
+        {
+          "text": {
+            "en": "ARNI^[b]/ACE-I/ARB",
+            "ru": "АРНИ^[b] / иАПФ / БРА"
+          }
+        }
+      ]
+    },
+    {
+      "id": "r26-beta-blockers",
+      "cells": [
+        {
+          "text": {
+            "en": "Beta-blockers",
+            "ru": "Бета-блокаторы"
+          }
+        }
+      ]
+    },
+    {
+      "id": "r27-constrictive-pericarditis",
+      "cells": [
+        {
+          "text": {
+            "en": "Constrictive pericarditis",
+            "ru": "Констриктивный перикардит"
+          }
+        }
+      ]
+    },
+    {
+      "id": "r28-mra",
+      "cells": [
+        {
+          "text": {
+            "en": "MRA",
+            "ru": "АМКР"
+          }
+        }
+      ]
+    },
+    {
+      "id": "r29-obesity",
+      "cells": [
+        {
+          "text": {
+            "en": "Obesity",
+            "ru": "Ожирение"
+          }
+        }
+      ]
+    },
+    {
+      "id": "r30-sglt2i",
+      "cells": [
+        {
+          "text": {
+            "en": "SGLT2-I",
+            "ru": "Ингибиторы SGLT2"
+          }
+        }
+      ]
+    }
+  ],
+  "footnotes": {
+    "a": {
+      "en": "See Figure 4 for age-adjusted cut-offs.",
+      "ru": "См. Рисунок 4 для возрастных пороговых значений."
+    },
+    "b": {
+      "en": "ARNI may raise BNP levels.",
+      "ru": "АРНИ могут повышать уровень BNP (в то время как уровень NT-proBNP снижается)."
+    }
+  }
+}

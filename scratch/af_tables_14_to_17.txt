@@ -1,0 +1,1468 @@
+Table 14 Non-cardiac conditions associated with 
+trigger-induced AF
+Acute conditions
+Infections (bacterial and viral)
+Pericarditis, myocarditis
+Emergency conditions (burn injury, severe trauma, shock)
+Binge alcohol consumption
+Drug use, including methamphetamines, cocaine, opiates, and cannabis
+Acute interventions, procedures, and surgery
+Endocrine disorders (thyroid, adrenal, pituitary, others)
+Chronic conditions with inflammation and enhanced AF 
+substrate
+Immune-mediated diseases (rheumatoid arthritis, systemic lupus 
+erythematosus, inflammatory bowel disease, coeliac disease, psoriasis, 
+others)
+Obesity
+Chronic obstructive airways disease
+Obstructive sleep apnoea
+Cancer
+Fatty liver disease
+Stress
+Endocrine disorders (see Section 9.10)
+© ESC 2024
+ESC Guidelines                                                                                                                                                                                          3367
+Downloaded from https://academic.oup.com/eurheartj/article/45/36/3314/7738779 by guest on 31 March 2026
+
+
+=== PAGE 55 ===
+
+9.6. AF-CARE in post-operative patients
+Peri-operative AF describes the onset of the arrhythmia during an 
+ongoing intervention. Post-operative AF (POAF), defined as new- 
+onset AF in the immediate post-operative period, is a common com­
+plication with clinical impact that occurs in 30%–50% of patients 
+undergoing cardiac surgery,816–818 and in 5%–30% of patients under­
+going non-cardiac surgery. Intra- and post-operative changes and 
+specific AF triggers (including peri-operative complications) and 
+pre-existing AF-related risk factors and comorbidities increase the 
+susceptibility to POAF.819 Although POAF episodes may be self- 
+terminating, POAF is associated with 4–5 times increase in recurrent 
+AF during the next 5 years,820,821 and is a risk factor for stroke, MI, 
+heart failure, and death.822–827 Other adverse events associated 
+with POAF include haemodynamic instability, prolonged hospital 
+stay, infections, renal complications, bleeding, increased in-hospital 
+death, and greater healthcare cost.828–830
+While multiple strategies to prevent POAF with pre-treatment or acute 
+drug treatment have been described, there is a lack of evidence from large 
+RCTs. Pre-operative use of propranolol or carvedilol plus N-acetyl 
+cysteine in cardiac and non-cardiac surgery is associated with a reduced 
+incidence of POAF,831–834 but not major adverse events.835 An umbrella 
+review of 89 RCTs from 23 meta-analyses (19 211 patients, but not neces­
+sarily in AF) showed no benefit from beta-blockers in cardiac surgery for 
+mortality, MI, or stroke. In non-cardiac surgery, beta-blockers were asso­
+ciated with reduced rates of MI after surgery (RR range, 0.08–0.92), but 
+higher mortality (RR range, 1.03–1.31), and increased risk of stroke (RR 
+range, 1.33–7.72).836 Prevention of peri-operative AF can also be achieved 
+with amiodarone. In a meta-analyses, amiodarone (oral or intravenous 
+[i.v.]) and beta-blockers were equally effective in reducing post-operative 
+AF,837 but their combination was better than beta-blockers alone.838
+Lower cumulative doses of amiodarone (<3000 mg during the 
+loading phase) could be effective, with fewer adverse events.837,839,840
+Withdrawal of beta-blockers should be avoided due to increased risk 
+of POAF.841 Other treatment strategies (steroids, magnesium, sotalol, 
+(bi)atrial pacing, and botulium injection into the epicardial fat pad) lack 
+scientific evidence for the prevention of peri-operative AF.842,843
+Peri-operative posterior pericardiotomy, due to the reduction of post- 
+operative pericardial effusion, showed a significant decrease in POAF 
+in patients undergoing cardiac surgery (OR, 0.44; 95% CI, 0.27–0.70; 
+P = .0005).844–846 In 3209 patients undergoing non-cardiac thoracic sur­
+gery, colchicine did not lead to any significant reduction in AF compared 
+with placebo (HR, 0.85; 95% CI, 0.65–1.10; P = .22).847
+The evidence for prevention of ischaemic stroke in POAF by OAC 
+is limited.822,827 Oral anticoagulant therapy is associated with a high 
+bleeding risk soon after cardiac surgery or major non-cardiac inter­
+ventions.827 Conversely, meta-analyses of observational cohort stud­
+ies suggest a possible protective impact of OAC in POAF for all-cause 
+mortality848 and a lower risk of thromboembolic events following car­
+diac surgery, accompanied by higher rates of bleeding.849 This task 
+force recommends to treat post-operative AF according to the 
+AF-CARE pathway as discussed for trigger-induced AF (with the [R] 
+pathway the same as for first-diagnosed AF). Ongoing RCTs in cardiac 
+surgery (NCT04045665) and non-cardiac surgery (NCT03968393) 
+will inform optimal long-term OAC use among patients with POAF. 
+While awaiting the results of these trials, this task force recommends 
+that after acute bleeding risk has settled, long-term OAC should be 
+considered in patients with POAF according to their thromboembolic 
+risk factors.
+9.7. AF-CARE in embolic stroke of 
+unknown source
+The term ‘embolic stroke of undetermined source’ (ESUS) was introduced 
+to identify non-lacunar strokes whose mechanism is likely to be embolic, 
+but the source remains unidentified.856 Of note, these patients have a re­
+current risk of stroke of 4%–5% per year.856 The main embolic sources as­
+sociated with ESUS are concealed AF, atrial cardiomyopathy, left 
+ventricular disease, atherosclerotic plaques, patent foramen ovale (PFO), 
+valvular diseases, and cancer. Atrial cardiomyopathy and left ventricular dis­
+ease are the most prevalent causes.856 AF is reported to be the underlying 
+mechanism in 30% of ESUS patients.857–859 The detection of AF among 
+ESUS patients increases the longer cardiac monitoring is provided (see 
+Supplementary data online, Additional Evidence Table S29).857,860–864 This 
+also holds for the duration of implantable cardiac monitoring, with prob­
+ability of AF detection ranging from 2% with 1 week to over 20% by 3 
+years.865 In patients with ESUS, factors associated with an increased detec­
+tion of AF are increasing age,866,867 left atrial enlargement,866 cortical loca­
+tion of stroke,868 large or small vessel disease,863 an increased number of 
+Recommendation Table 26 — Recommendations for 
+management of post-operative AF (see also Evidence 
+Table 26)
+Recommendations
+Classa
+Levelb
+Peri-operative amiodarone therapy is recommended 
+where drug therapy is desired to prevent 
+post-operative AF after cardiac surgery.838,839,850,851
+I
+A
+Concomitant posterior peri-cardiotomy should be 
+considered in patients undergoing cardiac surgery to 
+prevent post-operative AF.845,846
+IIa
+B
+Long-term oral anticoagulation should be considered 
+in patients with post-operative AF after cardiac and 
+non-cardiac surgery at elevated thromboembolic 
+risk, to prevent ischaemic stroke and 
+thromboembolism.811,852–854
+IIa
+B
+Routine use of beta-blockers is not recommended in 
+patients undergoing non-cardiac surgery for the 
+prevention of post-operative AF.836,855
+III
+B
+© ESC 2024
+AF, atrial fibrillation. 
+aClass of recommendation. 
+bLevel of evidence.
+Recommendation Table 25 — Recommendations for 
+trigger-induced AF (see also Evidence Table 25)
+Recommendation
+Classa
+Levelb
+Long-term oral anticoagulation should be considered 
+in suitable patients with trigger-induced AF at 
+elevated thromboembolic risk to prevent ischaemic 
+stroke and systemic thromboembolism.13,800,806,807,815
+IIa
+C
+© ESC 2024
+AF, atrial fibrillation. 
+aClass of recommendation. 
+bLevel of evidence.
+3368                                                                                                                                                                                         
+ESC Guidelines
+Downloaded from https://academic.oup.com/eurheartj/article/45/36/3314/7738779 by guest on 31 March 2026
+
+
+=== PAGE 56 ===
+
+atrial premature beats per 24 h,868 rhythm irregularity,859 and risk stratifi­
+cation scores (such as CHA2DS2-VASc,869
+Brown ESUS-AF,870
+HAVOC,871 and C2HEST872). This task force recommends prolonged 
+monitoring depending on the presence of the above-mentioned risk 
+markers.865,873,874
+Currently available evidence, including two completed RCTs and one 
+stopped for futility, do not support the use of DOACs compared with 
+aspirin in patients with acute ESUS without documented AF.875–877
+Ongoing trials will provide further guidance (NCT05134454, 
+NCT05293080, NCT04371055).
+9.8. AF-CARE during pregnancy
+Atrial fibrillation is one of the most common arrhythmias during preg­
+nancy, with prevalence increasing due to higher maternal age and 
+changes in lifestyle, and because more women with congenital heart dis­
+ease survive to childbearing age.878–881 Rapid atrioventricular conduc­
+tion of AF may have serious haemodynamic consequences for 
+mother and foetus. AF during pregnancy is associated with an increased 
+risk of death.882 A multidisciplinary approach is essential to prevent ma­
+ternal and foetal complications, bringing together gynaecologists, neo­
+natologists, anaesthesiologists, and cardiologists experienced in 
+maternal medicine.883
+Pregnancy is associated with a hypercoagulable state and increased 
+thromboembolic risk.884 The same rules for risk assessment of 
+thromboembolism should be used as in non-pregnant women, as de­
+tailed in the 2018 ESC Guidelines for the management of cardiovascular 
+diseases during pregnancy.885 The preferred agents for anticoagulation 
+of AF during pregnancy are unfractionated or low molecular weight he­
+parins (LMWHs), which do not cross the placenta. Vitamin K antago­
+nists should be avoided in the first trimester (risk of miscarriage, 
+teratogenicity) and from week 36 onwards (risk of foetal intracranial 
+bleeding if early unexpected delivery). Direct oral anticoagulants are 
+not recommended during pregnancy due to concerns about safety.886
+However, an accidental exposure during pregnancy should not lead to a 
+recommendation for termination of the pregnancy.887 Vaginal delivery 
+should be advised for most women, but is contraindicated during VKA 
+treatment because of the risk of foetal intracranial bleeding.885
+Intravenous selective beta-1 receptor blockers are recommended as 
+first choice for acute heart rate control of AF.888 This does not include 
+atenolol, which can lead to intrauterine growth retardation.889 If beta- 
+blockers fail, digoxin and verapamil can be considered for rate control 
+(verapamil should be avoided in the first trimester). Rhythm control is 
+the preferred strategy during pregnancy. Electrical cardioversion is re­
+commended if there is haemodynamic instability, considerable risk to 
+mother or foetus, or with concomitant HCM. Electrical cardioversion 
+can be performed safely without compromising foetal blood flow, 
+and the consequent risk for foetal arrhythmias or pre-term labour is 
+low. The foetal heart rate should be closely monitored throughout 
+and after cardioversion, which should generally be preceded by anticoa­
+gulation.885 In haemodynamically stable women without structural 
+heart disease, intravenous ibutilide or flecainide may be considered 
+for termination of AF, but experience is limited.890 Catheter ablation 
+is normally avoided during pregnancy,883 but is technically feasible with­
+out radiation in refractory symptomatic cases with a minimal/zero 
+fluoroscopy approach.883
+Counselling is important in women of childbearing potential prior to 
+pregnancy, highlighting the potential risks of anticoagulation and rate or 
+rhythm control drugs (including teratogenic risk, where relevant). 
+Contraception and timely switch to safe drugs should be proactively 
+discussed.
+Recommendation Table 27 — Recommendations for 
+patients with embolic stroke of unknown source (see 
+also Evidence Table 27)
+Recommendations
+Classa
+Levelb
+Prolonged monitoring for AF is recommended in 
+patients with ESUS to inform on AF treatment 
+decisions.861–863
+I
+B
+Initiation of oral anticoagulation in ESUS patients 
+without documented AF is not recommended due to 
+lack of efficacy in preventing ischaemic stroke and 
+thromboembolism.875,876
+III
+A
+© ESC 2024
+AF, atrial fibrillation; ESUS, embolic stroke of undetermined source. 
+aClass of recommendation. 
+bLevel of evidence.
+Recommendation Table 28 — Recommendations for 
+patients with AF during pregnancy (see also Evidence 
+Table 28)
+Recommendations
+Classa
+Levelb
+Immediate electrical cardioversion is recommended 
+in patients with AF during pregnancy and 
+haemodynamic instability or pre-excited AF to 
+improve maternal and foetal outcomes.885,891–893
+I
+C
+Therapeutic anticoagulation with LMWHs or VKAs 
+(except VKAs for the first trimester or beyond 
+Week 36) is recommended for pregnant patients 
+with AF at elevated thromboembolic risk to prevent 
+ischaemic stroke and thromboembolism.885
+I
+C
+Beta-1 selective blockers are recommended for 
+heart rate control of AF in pregnancy to reduce 
+symptoms and improve maternal and foetal 
+outcomes, excluding atenolol.888
+I
+C
+Electrical cardioversion should be considered for 
+persistent AF in pregnant women with HCM to 
+improve maternal and foetal outcomes.885,894
+IIa
+C
+Digoxin should be considered for heart rate control 
+of AF in pregnancy, if beta-blockers are ineffective or 
+not tolerated, to reduce symptoms and improve 
+maternal and foetal outcomes.885
+IIa
+C
+Intravenous ibutilide or flecainide may be considered 
+for termination of AF in stable pregnant patients with 
+a structurally normal heart to improve maternal and 
+foetal outcomes.895,896
+IIb
+C
+Flecainide or propafenone may be considered for 
+longer-term rhythm control in pregnancy, if rate 
+controlling drugs are ineffective or not tolerated, to 
+reduce symptoms and improve maternal and foetal 
+outcomes.885
+IIb
+C
+© ESC 2024
+AF, atrial fibrillation; HCM, hypertrophic cardiomyopathy; LMWH, low molecular weight 
+heparin; VKA, vitamin K antagonist. 
+aClass of recommendation. 
+bLevel of evidence.
+ESC Guidelines                                                                                                                                                                                          3369
+Downloaded from https://academic.oup.com/eurheartj/article/45/36/3314/7738779 by guest on 31 March 2026
+
+
+=== PAGE 57 ===
+
+9.9. AF-CARE in congenital heart disease
+Survival of patients with congenital heart disease has increased over 
+time, but robust data on the management of AF are missing and avail­
+able evidence is derived mainly from observational studies. Oral anti­
+coagulants are recommended for all patients with AF and intracardiac 
+repair, cyanotic congenital heart disease, Fontan palliation, or systemic 
+right ventricle irrespective of the individuals’ thromboembolic risk 
+factors.897 Patients with AF and other congenital heart diseases should 
+follow the general risk stratification for OAC use in AF (i.e. depending 
+on the thromboembolic risk or CHA2DS2-VA score). Direct oral 
+anticoagulants are contraindicated in patients with mechanical heart 
+valves,331 but appear safe in patients with congenital heart dis­
+ease,898,899 or those with a valvular bioprosthesis.900,901
+Rate control drugs such as selective beta-1 receptor blockers, 
+verapamil, diltiazem, and digoxin can be used with caution, with moni­
+toring for bradycardia and hypotension. Rhythm control strategies such 
+as amiodarone may be effective, but warrant monitoring for bradycar­
+dia. When cardioversion is planned, both 3 weeks of OAC and TOE 
+should be considered because thrombi are common in patients with 
+congenital heart disease and atrial arrhythmias.902,903 Ablation ap­
+proaches can be successful in patients with congenital heart disease, 
+but AF recurrence rates may be high (see Supplementary data online, 
+Additional Evidence Table S30).
+In patients with atrial septal defect, closure may be performed be­
+fore the fourth decade of life to decrease the risk of AF or AFL.904
+Patients with stroke who underwent closure of their PFO may have 
+an increased risk of AF,905 but in patients with PFO and AF, PFO clos­
+ure is not recommended for stroke prevention. AF surgery or cath­
+eter ablation can be considered at the time of closure of the atrial 
+septal defect within a multidisciplinary team.906–908 AF catheter 
+ablation of late atrial arrhythmias is likely to be effective after surgical 
+atrial septal closure.909
+9.10. AF-CARE in endocrine disorders
+Endocrine dysfunction is closely related to AF, both as the direct action 
+of endocrine hormones and as a consequence of treatments for endo­
+crine disease. Optimal management of endocrine disorders is therefore 
+part of the AF-CARE pathway.910,911
+Clinical and subclinical hyperthyroidism, as well as subclinical hypo­
+thyroidism, are associated with an increased risk of AF.912,913 Patients 
+presenting with new-onset or recurrent AF should be tested for 
+thyroid-stimulating hormone (TSH) levels. The risk of AF is enhanced 
+in vulnerable patients, including the elderly and those with structural 
+atrial diseases,914,915 as well as cancer patients on immune checkpoint 
+inhibitors.916,917 In hyperthyroidism, and even in the euthyroid range, 
+the risk of AF increases according to the reduction in TSH and elevated 
+levels of thyroxine.918,919 Moreover, the risk of stroke is higher in 
+patients with hyperthyroidism, which can be mitigated by treating the 
+thyroid disorder.920,921 Amiodarone induces thyroid dysfunction in 
+15%–20% of treated patients, leading to both hypo- and hyperthyroid­
+ism,922,923 which warrants referral to an endocrinologist (see 
+Supplementary data online for further details).
+Hypercalcaemia may also induce arrhythmias, but the role of primary 
+hyperparathyroidism in incident AF is poorly studied. Surgical para­
+thyroidectomy has been found to reduce both supraventricular and ven­
+tricular premature beats.924–926 Primary aldosteronism is related to an 
+increased risk of AF through direct actions and vascular effects,927,928
+with a three-fold higher rate of incident AF compared with patients 
+with essential hypertension.929 Increases in genetically predicted plasma 
+cortisol are associated with greater risk of AF, and patients with adrenal 
+incidentalomas with subclinical cortisol secretion have a higher preva­
+lence of AF.930,931 Acromegaly may predispose to an increased sub­
+strate for AF, with incident AF rates significantly higher than controls 
+in long-term follow-up, even after adjusting for AF risk factors.932
+The association between type 2 diabetes and AF is discussed in 
+Sections 5.3 (AF recurrence) and Section 10.5 (incident AF). In addition 
+to insulin-resistance mechanisms typical of type 2 diabetes, the loss of 
+insulin signalling has recently been associated with electrical changes 
+that can lead to AF. Type 1 diabetes is associated with an increased 
+risk of several cardiovascular diseases including AF.933–937
+9.11. AF-CARE in inherited 
+cardiomyopathies and primary 
+arrhythmia syndromes
+A higher incidence and prevalence of AF have been described in pa­
+tients with inherited cardiomyopathies and primary arrhythmia syn­
+dromes.271,938–970 AF can be the presenting or only clinically overt 
+feature.969,971–975 AF in these patients is associated with adverse clinical 
+outcomes,947,954,959,963,965,976–978 and has important implications on 
+management (see Supplementary data online, Additional Evidence 
+Table S31). When AF presents at a young age, there should be a careful 
+interrogation about family history and a search for underlying 
+disease.979
+Rhythm control approaches may be challenging in patients with inher­
+ited cardiomyopathies and primary arrhythmia syndromes. For example, 
+many drugs have a higher risk of adverse events or may be contraindicated 
+(e.g. amiodarone and sotalol in congenital long QT syndrome, and Class IC 
+AADs in Brugada syndrome) (see Supplementary Data online, Table S6). 
+Owing to long-term adverse effects, chronic use of amiodarone is prob­
+lematic in these typically young individuals. In patients with an implantable 
+cardioverter defibrillator, AF is a common cause of inappropriate 
+shocks.959,966,980,981 Programming a single high-rate ventricular fibrillation 
+zone ≥210–220 b.p.m. with long detection time is safe,950,953,982 and is 
+suggested in patients without documented slow monomorphic ventricu­
+lar tachycardia. Implantation of an atrial lead may be considered in the case 
+of significant bradycardia with beta-blocker treatment.
+Patients with Wolff–Parkinson–White syndrome and AF are at risk 
+of fast ventricular rates from rapid conduction of atrial electrical activity 
+to the ventricles via the accessory pathway, potentially leading to ven­
+tricular fibrillation and sudden death.983,984 Immediate electrical cardi­
+oversion is needed for haemodynamically compromised patients with 
+Recommendation Table 29 — Recommendations for 
+patients with AF and congenital heart disease (see also 
+Evidence Table 29)
+Recommendation
+Classa
+Levelb
+Oral anticoagulation should be considered in all adult 
+congenital heart disease patients with AF/AFL and 
+intracardiac repair, cyanosis, Fontan palliation, or 
+systemic right ventricle to prevent ischaemic stroke 
+and thromboembolism, regardless of other 
+thromboembolic risk factors.897
+IIa
+C
+© ESC 2024
+AF, atrial fibrillation; AFL, atrial flutter. 
+aClass of recommendation. 
+bLevel of evidence.
+3370                                                                                                                                                                                         
+ESC Guidelines
+Downloaded from https://academic.oup.com/eurheartj/article/45/36/3314/7738779 by guest on 31 March 2026
+
+
+=== PAGE 58 ===
+
+pre-excited AF, and atrioventricular node-modulating drugs should be 
+avoided.985,986 Pharmacological cardioversion can be attempted using 
+ibutilide987 or flecainide, while propafenone should be used with cau­
+tion due to effects on the atrioventricular node.988,989 Amiodarone 
+should be avoided in pre-excited AF due to its delayed action. 
+Further details on inherited cardiomyopathies can be found in the 
+2023 ESC Guidelines for the management of cardiomyopathies.990
+9.12. AF-CARE in cancer
+All types of cancer show an increased risk of AF, with prevalence vary­
+ing from 2% to 28%.991–995 The occurrence of AF may often be related 
+to a pre-existing atrial substrate with vulnerability to AF. AF may be an 
+indicator of an occult cancer, but also can appear in the context of con­
+comitant surgery, chemotherapy, or radiotherapy.916,994,996 Risk of AF 
+is dependent on, among other factors, the cancer type and stage,997 and 
+is greater in older patients with pre-existing cardiovascular dis­
+ease.991,993,994 Some procedures are associated with higher incidence 
+of AF, including lung surgery (from 6% to 32%) and non-thoracic sur­
+gery such as a colectomy (4%–5%).994
+Atrial fibrillation in the context of cancer is associated with a two- 
+fold higher risk of systemic thromboembolism and stroke, and six-fold 
+increased risk of heart failure.991,994 On the other hand, the coexistence 
+of cancer increases the risk of all-cause mortality and major bleeding in 
+patients with AF.998 Bleeding in those receiving OAC can also unmask 
+the presence of cancer.999
+Stroke risk scores may underestimate thromboembolic risk in cancer 
+patients.1000 The association between cancer, AF, and ischaemic stroke 
+also differs between cancer types. In some types of cancer, the risk of 
+bleeding seems to exceed the risk of thromboembolism.998 Risk strati­
+fication is therefore complex in this population, and should be per­
+formed on an individual basis considering cancer type, stage, 
+prognosis, bleeding risk, and other risk factors. These aspects can 
+change within a short period of time, requiring dynamic assessment 
+and management.
+As with non-cancer patients, DOACs in those with cancer have simi­
+lar efficacy and better safety compared with VKAs.1001–1010 Low 
+molecular weight heparin is a short-term anticoagulation option, mostly 
+during some cancer treatments, recent active bleeding, or thrombo­
+cytopaenia.1011 Decision-making on AF management, including on 
+rhythm control, is best performed within a cardio-oncology multi­
+disciplinary team.916,1012 Attention is required on interactions with can­
+cer treatments, in particular QT-interval prolongation with AADs.
+9.13. AF-CARE in older, multimorbid, or 
+frail patients
+Atrial fibrillation increases with age, and older patients more frequently 
+have multimorbidity and frailty which are associated with worse clinical 
+outcomes.1013–1016 Multimorbidity is the coexistence of two or more 
+medically diagnosed diseases in the same individual. Frailty is defined 
+as a person more vulnerable and less able to respond to a stressor 
+or acute event, increasing the risk of adverse outcomes.1016,1017 The 
+prevalence of frailty in AF varies due to different methods of assess­
+ment from 4.4% to 75.4%, and AF prevalence in the frail population 
+ranges from 48.2% to 75.4%.1018 Frailty status is a strong independent 
+risk factor for new-onset AF among older adults with hypertension.1019
+Atrial fibrillation in frail patients is associated with less use of 
+OAC and lower rates of management with a rhythm control 
+strategy.1015,1018,1020 Oral anticoagulation initiation in older, frail 
+multimorbid AF patients has improved since the introduction of 
+DOACs, but is still lower in AF patients at older age (OR, 0.98 per 
+year; 95% CI, 0.98–0.98), with dementia (OR, 0.57; 95% CI, 
+0.55–0.58), or frailty (OR, 0.74; 95% CI, 0.72–0.76).1021 The value of 
+observational data which show potential benefit from OAC (in particu­
+lar, DOACs) is limited due to prescription biases.1022–1027 Frail patients 
+aged ≥75 years with polypharmacy and stable on a VKA may remain on 
+the VKA rather than switching to a DOAC (Section 6.2).309
+9.14. AF-CARE in atrial flutter
+Due to the association between AFL and thromboembolic outcomes, 
+and the frequent development of AF in patients with AFL, the manage­
+ment of comorbidities and risk factors in AFL should mirror that for AF 
+(see Section 5). Similarly, the approach to prevent thromboembolism in 
+AFL includes peri-procedural and long-term OAC (see Section 6). Rate 
+control can be difficult to achieve in AFL, despite combination therapy. 
+Rhythm control is often the first-line approach,983 with small rando­
+mized trials showing that cavo-tricuspid isthmus (CTI) ablation is super­
+ior to AADs.1028,1029 Recurrence of AFL is uncommon after achieving 
+and confirming bidirectional block in typical CTI-dependent AFL. 
+However, the majority of patients (50%–70%) have manifested AF 
+during long-term follow-up in observational studies after AFL 
+ablation.1030,1031 Hence the necessity for long-term dynamic re- 
+evaluation in all patients with AFL in keeping with the AF-CARE 
+approach. More detail on the management of AFL and other atrial ar­
+rhythmias is described in the 2019 ESC Guidelines for the management of 
+patients with supraventricular tachycardia.983
+10. Screening and prevention of AF
+10.1. Epidemiology of AF
+Atrial fibrillation is the most common sustained arrhythmia worldwide, 
+with an estimated global prevalence in 2019 of 59.7 million persons 
+with AF.1033 Incident cases of AF are doubling every few decades.1034
+Future increases are anticipated, in particular in middle-income coun­
+tries.1034 In community-based individuals, the prevalence of AF in a 
+United States of America cohort was up to 5.9%.1035
+The 
+age-standardized prevalence and incidence rates have remained con­
+stant over time.1033,1036 The increase in overall prevalence is largely at­
+tributable to population growth, ageing, and survival from other cardiac 
+conditions. In parallel, increases in risk factor burden, better awareness, 
+and improved detection of AF have been observed.1037 The lifetime risk 
+Recommendation Table 30 — Recommendations for 
+prevention of thromboembolism in atrial flutter (see 
+also Evidence Table 30)
+Recommendation
+Classa
+Levelb
+Oral anticoagulation is recommended in patients 
+with atrial flutter at elevated thromboembolic risk to 
+prevent ischaemic stroke and 
+thromboembolism.86,1032
+I
+B
+© ESC 2024
+AF, atrial fibrillation; AFL, atrial flutter. 
+aClass of recommendation. 
+bLevel of evidence.
+ESC Guidelines                                                                                                                                                                                          3371
+Downloaded from https://academic.oup.com/eurheartj/article/45/36/3314/7738779 by guest on 31 March 2026
+
+
+=== PAGE 59 ===
+
+of AF has been estimated to be as high as 1 in 3 for older individuals,1038
+with age-standardized incidence rates higher for men than women. 
+Populations of European ancestry are typically found to have higher 
+AF prevalence, individuals of African ancestry have worse outcomes, 
+and other groups may have less access to interventions.1039–1041
+Socioeconomic and other factors likely play a role in racial and ethnic 
+differences in AF, but studies are also limited due to differences in 
+how groups access healthcare. Greater deprivation in socioeconomic 
+and living status is associated with higher AF incidence.1042
+10.2. Screening tools for AF
+In recent years, an abundance of novel devices that can monitor heart 
+rhythm have come to the market, including fitness bands and smart­
+watches. Although the evidence for clinical effectiveness of digital de­
+vices is limited, they may be useful in detecting AF, and their clinical, 
+economic, legal, and policy implications merit further investiga­
+tion.1043,1044 Devices for AF detection can broadly be divided into those 
+that provide an ECG, and those with non-ECG approaches such as 
+photoplethysmography (Figure 15 and Table 15).
+Diagnostic for AF if diagnosis is confirmed by a physician
+(Class I)
+Not diagnostic (may be indicative for AF)
+No of leads
+Tracing
+1 or 2
+ECG-based methods
+Non ECG-based methods
+6
+>6
+Method
+Tracing
+Pulse
+palpation
+Oscillometry
+Contact
+Contactless
+Contactless
+PPG
+Smart
+speaker
+Mechano-
+cardiography
+Figure 15 Non-invasive diagnostic methods for AF screening. AF, atrial fibrillation; BP, blood pressure; ECG, electrocardiogram; PPG, 
+photoplethysmography.
+3372                                                                                                                                                                                         
+ESC Guidelines
+Downloaded from https://academic.oup.com/eurheartj/article/45/36/3314/7738779 by guest on 31 March 2026
+
+
+=== PAGE 60 ===
+
+Most consumer-based devices use photoplethysmography, and 
+several large studies have been performed typically in low-risk indi­
+viduals.633,1076,1117,1118 In an RCT of 5551 participants invited by 
+their health insurer, smartphone-based photoplethysmography in­
+creased the odds of OAC-treated new AF by 2.12 (95% CI, 
+1.19–3.76; P = .01) compared with usual care.633 RCTs powered 
+for assessment of clinical outcomes are still lacking for consumer- 
+based AF screening. Further head-to-head comparisons between 
+novel digital devices and those commonly used in healthcare set­
+tings are needed to establish their comparative effectiveness in 
+the clinical setting and account for different populations and set­
+tings.1119 In a systematic review of smartphone-based photo­
+plethysmography compared with a reference ECG, unrealistically 
+high sensitivity and specificity were noted, likely due to small, low- 
+quality studies with a high degree of patient selection bias.1120
+Hence, when AF is suggested by a photoplethysmography device 
+or any other screening tool, a single-lead or continuous ECG tra­
+cing of >30 s or 12-lead ECG showing AF analysed by a physician 
+with expertise in ECG rhythm interpretation is recommended to 
+establish a definitive diagnosis of AF.1091,1121–1125
+The combination of big data and artificial intelligence (AI) is hav­
+ing an increasing impact on the field of electrophysiology. 
+Algorithms have been created to improve automated AF diagnosis 
+and several algorithms to aid diagnostics are being investigated.1046
+However, the clinical performance and broad applicability of these 
+solutions are not yet known. The use of AI may enable future 
+treatment changes to be assessed with dynamic and continuous 
+patient-directed monitoring using wearable devices.1126 There are 
+still challenges in the field that need clarification, such as data acqui­
+sition, model performance, external validity, clinical implementation, 
+algorithm interpretation, and confidence, as well as the ethical 
+aspects.1127
+10.3. Screening strategies for AF
+Screening can be performed systematically, with an invitation issued to 
+a patient, or opportunistically, at the time of an ad hoc meeting with a 
+healthcare professional. Regardless of the mode of invitation, screening 
+should be part of a structured programme1128 and is not the same as 
+identification of AF during a routine healthcare visit or secondary to ar­
+rhythmia symptoms.
+Screening can be done at a single timepoint (snapshot of the heart 
+rhythm), e.g. using pulse palpation or a 12-lead ECG. Screening can 
+also be of an extended duration, i.e. prolonged, using either intermittent 
+or continuous monitoring of heart rhythm. Most studies using an oppor­
+tunistic strategy have screened for AF at a single timepoint with short 
+duration (such as a single timepoint ECG), compared with systematic 
+screening studies that have mainly used prolonged (repeated or continu­
+ous) rhythm assessment.1129 The optimal screening method will vary de­
+pending on the population being studied (Figure 16) (see Supplementary 
+data online, Additional Evidence Table S32). More sensitive methods will 
+detect more AF but may lead to an increased risk of false positives and 
+an increased detection of low burden AF, whereas more specific meth­
+ods result in less false positives, at the risk of missing AF.
+Invasive monitoring of heart rhythm in high-risk populations ex­
+tended for several years has been shown to result in device-detected 
+AF prevalence of around 30%, albeit most of whom have a low burden 
+of AF.5,857,1130,1131 Pacemaker studies have shown that patients with a 
+low burden of device-detected subclinical AF have a lower risk of is­
+chaemic stroke.5,24,1131,1132 This has been confirmed in RCTs assessing 
+DOAC use in patients with device-detected subclinical AF (see Section 
+6.1.1).5,281,282 The burden needed for device-detected subclinical AF to 
+translate into stroke risk is not known, and further studies are clearly 
+needed.1133,1134 Benefit and cost-effectiveness of screening are dis­
+cussed in the Supplementary data online.
+Table 15 Tools for AF screening
+Tools for AF screening
+(i) Pulse palpation1045
+(ii) Use of artificial intelligence algorithms to identify patients at risk1046
+(iii) ECG-based devices 
+(a) Conventional ECG devices 
+(1) Classic 12-lead ECG 1047
+(2) Holter monitoring (from 24 h to a week or more)1048
+(3) Mobile cardiac telemetry (during hospitalization)1049
+(4) Handheld devices1050–1052
+(5) Wearable patches (up to 14 days)1053–1067
+(6) Biotextiles (up to 30 days)1068–1072
+(7) Smart devices (30 s)1073–1091
+(b) Implantable loop recorders (3–5 years)1092–1099
+(iv) Non-ECG-based devices 
+(a) Photoplethysmography and automatic algorithms: contact (fingertip, smart device, band) and contactless (video)1100–1106
+(b) Oscillometry (blood pressure monitors that derive heart rhythm regularity algorithmically)1107–1110
+(c) Mechanocardiography (accelerometers and gyroscopes to sense the mechanical activity of the heart)1111
+(d) Contactless video plethysmography (through video monitoring)1112–1115
+(e) Smart speakers (through the identification of abnormal heart rate patterns)1116
+© ESC 2024
+ECG, electrocardiogram.
+ESC Guidelines                                                                                                                                                                                          3373
+Downloaded from https://academic.oup.com/eurheartj/article/45/36/3314/7738779 by guest on 31 March 2026
+
+
+=== PAGE 61 ===
+
+10.3.1. Single timepoint screening ‘snapshot’
+Several cluster RCTs in primary care settings have explored whether 
+screening performed as a snapshot of the heart rhythm at one time­
+point can detect more AF compared with usual care in individuals 
+aged ≥65 years.1138–1140 No increased detection of AF was seen in 
+groups randomized to single timepoint screening.1138–1140 These find­
+ings were confirmed in a meta-analysis of RCTs showing that screening 
+as a one-time event did not increase detection of AF compared with 
+usual care.1135 Notably, these studies were performed in healthcare 
+settings where the detection of AF in the population might be high, 
+hence the results might not be generalizable to healthcare settings 
+with a lower spontaneous AF detection. There are no RCTs addressing 
+clinical outcomes in patients with AF detected by single timepoint 
+screening.1123,1135
+10.3.2. Prolonged screening
+Studies using prolonged screening have shown an increased detection 
+of AF leading to initiation of OAC.1129,1135,1141 Two RCTs have inves­
+tigated the effect on clinical outcomes in prolonged screening for AF.5,6
+In the STROKESTOP trial (Systematic ECG Screening for Atrial 
+Fibrillation Among 75 Year Old Subjects in the Region of Stockholm 
+Recommendation Table 31 — Recommendations for 
+screening for AF (see also Evidence Table 31)
+Recommendations
+Classa
+Levelb
+Review of an ECG (12-lead, single, or multiple leads) 
+by a physician is recommended to provide a definite 
+diagnosis of AF and commence appropriate 
+management.1091,1121–1123,1125
+I
+B
+Routine heart rhythm assessment during healthcare 
+contact is recommended in all individuals aged ≥65 
+years for earlier detection of AF.
+I
+C
+Population-based screening for AF using a prolonged 
+non-invasive ECG-based approach should be 
+considered in individuals aged ≥75 years, or ≥65 
+years with additional CHA2DS2-VA risk factors to 
+ensure earlier detection of AF.6,1135–1137
+IIa
+B
+© ESC 2024
+AF, atrial fibrillation; CHA2DS2-VA, congestive heart failure, hypertension, age ≥75 years 
+(2 
+points), 
+diabetes 
+mellitus, 
+prior 
+stroke/transient 
+ischaemic 
+attack/arterial 
+thromboembolism (2 points), vascular disease, age 65–74 years; ECG, electrocardiogram. 
+aClass of recommendation. 
+bLevel of evidence.
+Screening
+approach
+Population
+example
+Setting for 
+AF detection
+Type of
+screening
+Follow
+AF-CARE
+After
+thromboembolic
+event
+Patients with
+embolic stroke of
+unknown source
+Age ≥65 years,
+or risk of
+thromboembolism
+Age ≥75 years,
+or ≥65 years plus
+other
+CHA2DS2-VA
+factors
+Initiated after
+index event
+At the time of
+routine healthcare
+contact
+Structured national
+or regional
+screening
+programmes
+Ad-hoc to
+catch AF
+In patients with
+risk factors
+Patient
+informed
+about
+implications
+of AF
+detection
+C
+Comorbidity and risk
+factor management
+A
+Avoid stroke and
+thromboembolism
+R
+Reduce symptoms by
+rate and rhythm control
+E
+Evaluation and 
+dynamic reassessment
+Any rhythm check,
+confirmed by ECG
+Routine heart
+rhythm assessment
+(Class I)
+Invasive or
+non-invasive ECG
+Prolonged
+monitoring
+(Class I)
+Population-based 
+Non-invasive ECG
+(Class IIa)
+Figure 16 Approaches to screening for AF. AF, atrial fibrillation; AF-CARE, atrial fibrillation—[C] Comorbidity and risk factor management, [A] Avoid 
+stroke and thromboembolism, [R] Reduce symptoms by rate and rhythm control, [E] Evaluation and dynamic reassessment; CHA2DS2-VA, congestive 
+heart failure, hypertension, age ≥75 years (2 points), diabetes mellitus, prior stroke/TIA/arterial thromboembolism (2 points), vascular disease, age 65– 
+74 years; ECG, electrocardiogram. See Figure 15 for non-invasive ECG methods.
+3374                                                                                                                                                                                         
+ESC Guidelines
+Downloaded from https://academic.oup.com/eurheartj/article/45/36/3314/7738779 by guest on 31 March 2026
+
+
+=== PAGE 62 ===
+
+and Halland, Sweden), 75- and 76-year-olds were randomized to be in­
+vited to prolonged screening for AF using single-lead ECGs twice daily 
+for 2 weeks, or to standard of care. After a median of 6.9 years there 
+was a small reduction in the primary combined endpoint of all-cause 
+mortality, stroke, systematic embolism, and severe bleeding in favour 
+of prolonged screening (HR, 0.96; 95% CI, 0.92–1.00; P = .045).6 In 
+the LOOP (Atrial Fibrillation Detected by Continuous ECG 
+Monitoring) trial, individuals at increased risk of stroke were rando­
+mized to receive an implantable loop recorder that monitored heart 
+rhythm for an average of 3.3 years, or to a control group receiving 
+standard of care. Although there was a higher detection of AF 
+(31.8%) and subsequent initiation of OAC in the loop recorder 
+group compared with standard of care (12.2%), this was not accom­
+panied by a difference in the primary outcome of stroke or systemic 
+embolism.5 In a meta-analysis of recent RCTs on the outcome of 
+stroke, a small but significant benefit was seen in favour of prolonged 
+screening (RR, 0.91; 95% CI, 0.84–0.99).1136 This was not repeated 
+in a second meta-analysis including older RCTs, where no risk reduc­
+tion was seen with regard to mortality or stroke.1135 Notably, both 
+these meta-analyses are likely underpowered to assess clinical 
+outcomes.
+10.4. Factors associated with incident AF
+The most common risk predictors for incident (new-onset) AF are 
+shown in Table 16. While the factors listed are robustly associated 
+with incident AF in observational studies, it is not known whether 
+the relationships are causal. Studies using Mendelian randomization 
+(genetic proxies for risk factors to estimate causal effects) robustly im­
+plicate systolic BP and higher BMI as causal risk factors for incident 
+AF.1142
+A high degree of interaction occurs between all factors related to AF 
+development (see Supplementary data online, Additional Evidence 
+Table S33).1038,1039,1143–1145 For ease of clinical application, risk predic­
+tion tools have combined various factors, and have recently employed 
+machine learning algorithms for prediction.1146,1147 Classical risk scores 
+are also available with variable predictive ability and model performance 
+(see Supplementary data online, Table S7).1148 Improved outcomes 
+when using these risk scores have yet to be demonstrated. Although 
+knowledge is rapidly increasing about the genetic basis for AF in 
+some patients, the value of genetic screening is limited at the present 
+time (see Supplementary data online).
+10.5. Primary prevention of AF
+Preventing the onset of AF before clinical manifestation has clear 
+potential to improve the lives of the general population and reduce 
+the considerable health and social care costs associated with 
+development of AF. Whereas the [C] in AF-CARE is focused on the 
+effective management of risk factors and comorbidities to limit AF 
+recurrence and progression, there is also evidence they can be targeted 
+to prevent AF. Available data are presented below for hypertension, 
+heart failure, type 2 diabetes mellitus, obesity, sleep apnoea syndrome, 
+Table 16 Factors associated with incident AF
+Demographic factors
+Age1149–1151
+Male sex1149–1152
+European ancestry1149,1150
+Lower socioeconomic status1150
+Lifestyle behaviours
+Smoking/tobacco use1149–1151
+Alcohol intake1149,1150
+Physical inactivity1149,1150
+Vigorous exercise1153–1156
+Competitive or athlete-level endurance 
+sports1151,1157
+Caffeine1158–1160
+Continued 
+Comorbidities and risk 
+factors
+Hypertension1149–1151
+Heart failure178,1149–1151,1161
+Valvular disease1149,1151,1162–1164
+Coronary artery disease1149,1151,1161,1165
+Peripheral arterial disease785
+Congenital heart disease1149,1166
+Heart rate, heart rate variability1167,1168
+Total cholesterol1149,1150
+Low-density lipoprotein cholesterol1150
+High-density lipoprotein cholesterol1150
+Triglycerides1150
+Impaired glucose tolerance,1169–1172diabetes 
+mellitus1149–1151,1169
+Renal dysfunction/CKD1149–1151,1173,1174
+Obesity1149–1151,1175,1176
+Body mass index, weight1149–1151
+Height1150
+Sleep apnoea1149,1151,1177,1178
+Chronic obstructive pulmonary disease1179
+Subclinical 
+atherosclerosis
+Coronary artery calcification1149,1151,1180
+Carotid IMT and carotid plaque1149,1151,1181,1182
+ECG abnormalities
+PR interval prolongation1149,1151,1183
+Sick sinus syndrome1149,1184,1185
+Wolff–Parkinson–White1149,1186
+Genetic factors
+Family history of AF1149,1151,1187–1190
+AF-susceptible loci identified by 
+GWAS1149,1151,1191,1192
+Short QT syndrome1149
+Genetic cardiomyopathies990,1193
+Biomarkers
+C-reactive protein1150,1151
+Fibrinogen1150
+Growth differentiation factor-151194
+Natriuretic peptides (atrial and B-type)1195–1200
+Cardiac troponins1199
+Inflammatory biomarkers 1149,1151
+Others
+Thyroid dysfunction912,1149–1151
+Autoimmune diseases1150
+Air pollution1149,1201
+Sepsis1149,1202
+Psychological factors 1203,1204
+© ESC 2024
+AF, atrial fibrillation; CKD, chronic kidney disease; GWAS, genome-wide association 
+studies; HF, heart failure; IMT, intima-media thickness.
+ESC Guidelines                                                                                                                                                                                          3375
+Downloaded from https://academic.oup.com/eurheartj/article/45/36/3314/7738779 by guest on 31 March 2026
+
+
+=== PAGE 63 ===
+
+physical activity, and alcohol, although many other risk markers can 
+also be targeted. Further information on each factor’s attributable 
+risk for AF is provided in the Supplementary data online (see 
+Supplementary data online, Evidence Table 32 and additional Evidence 
+Tables S34–S39).
+10.5.1. Hypertension
+Management of hypertension has been associated with a reduction in 
+incident AF.1205–1207,1232 In the LIFE (Losartan Intervention for End 
+point reduction in hypertension) trial, a 10 mmHg reduction in systolic 
+BP was associated with a 17% reduction in incident AF.1207 Secondary 
+analysis of RCTs and observational studies suggest that ACE inhibitors 
+or ARBs may be superior to beta-blockers, calcium channel blockers, or 
+diuretics for the prevention of incident AF.1233–1236
+10.5.2. Heart failure
+Long-standing established pharmacological treatments for HFrEF have 
+been associated with a reduction in incident AF. The use of ACE inhi­
+bitors or ARBs in patients with known HFrEF was associated with a 
+44% reduction in incidence of AF.1208 Similarly, beta-blockers in 
+HFrEF led to a 33% reduction in the odds of incident AF.133
+Mineralocorticoid receptor antagonists have also been shown to re­
+duce the risk of new-onset AF by 42% in patients with HFrEF.1209
+Although there have been variable effects of SGLT2 inhibitors on 
+incident AF, several meta-analyses have demonstrated that there is 
+an 18%–37% reduction in incident AF.136,1210,1211,1237 However, treat­
+ment of HFrEF with sacubitril/valsartan has not yet been shown to con­
+fer any adjunctive benefit in reducing new-onset AF when compared 
+with ACE inhibitors/ARBs alone.1238 There is some evidence to suggest 
+that effective CRT in eligible patients with HFrEF reduces the risk of in­
+cident AF.1239 To date, no treatments in HFpEF have been shown to 
+reduce incident AF.
+10.5.3. Type 2 diabetes mellitus
+The integrated care of type 2 diabetes, based on lifestyle and pharma­
+cological treatments for comorbidities such as obesity, hypertension, 
+and dyslipidaemia, are useful steps in preventing atrial remodelling 
+and subsequent AF. Intensive glucose-lowering therapy targeting an 
+HbA1c level of <6.0% (<42 mmol/mol) failed to show a protective ef­
+fect on incident AF.1240 More than glycaemic control per se, the class of 
+glucose-lowering agent may influence the risk of AF.1240 Insulin pro­
+motes adipogenesis and cardiac fibrosis, and sulfonylureas have been 
+consistently associated with an increased risk of AF.193 Observational 
+studies have associated metformin with lower rates of incident 
+AF.1224,1225,1241–1243 Various recent studies and meta-analyses point 
+to the positive role of SGLT2 inhibitors to reduce the risk of incident 
+AF in diabetic and non-diabetic patients.136,1226,1244–1246 Pooled 
+data from 22 trials including 52 951 patients with type 2 diabetes and 
+heart failure showed that SGLT2 inhibitors compared with placebo 
+can significantly reduce the incidence of AF by 18% in studies on dia­
+betes, and up to 37% in heart failure with or without type 2 
+diabetes.1210,1211
+10.5.4. Obesity
+Management of weight is important in the prevention of AF. In a large 
+population-based cohort study, normal weight was associated with a 
+reduced risk of incident AF compared with those who were obese 
+(4.7% increase in the risk of incident AF for each 1 kg/m2 increase of 
+BMI).208 In the Women’s Health Study, participants who became obese 
+had a 41% increased risk of incident AF compared with those who 
+maintained their BMI <30 kg/m2.1212 Similarly, observational studies 
+in populations using bariatric surgery for weight loss in morbidly obese 
+individuals (BMI ≥40 kg/m2) have observed a lower risk of incident 
+AF.1227–1231
+10.5.5. Sleep apnoea syndrome
+Although it would seem rational to optimize sleep habits, to date there 
+is no conclusive evidence to support this for the primary prevention of 
+AF. The SAVE (Sleep Apnea cardioVascular Endpoints) trial failed to 
+demonstrate a difference in clinical outcomes in those randomized to 
+CPAP therapy or placebo.230 There was no difference in incident AF, 
+albeit the analysis of AF was not based on systematic screening but ra­
+ther on clinically documented AF.
+10.5.6. Physical activity
+Several studies have demonstrated beneficial effects of moderate phys­
+ical activity on cardiovascular health.1247 Moderate aerobic exercise 
+may also reduce the risk of new-onset AF.1214–1219 It should be noted 
+that the incidence of AF appears to be increased among athletes, with a 
+meta-analysis of observational studies showing a 2.5-fold increased risk 
+of AF compared with non-athlete controls.1248
+Recommendation Table 32 — Recommendations for 
+primary prevention of AF (see also Evidence Table 32)
+Recommendation
+Classa
+Levelb
+Maintaining optimal blood pressure is recommended 
+in the general population to prevent AF, with ACE 
+inhibitors or ARBs as first-line therapy.1205–1207
+I
+B
+Appropriate medical HF therapy is recommended in 
+individuals with HFrEF to prevent AF.133,136,1208–1211
+I
+B
+Maintaining normal weight (BMI 20–25 kg/m2) is 
+recommended for the general population to prevent 
+AF.208,1212,1213
+I
+B
+Maintaining an active lifestyle is recommended to 
+prevent AF, with the equivalent of 150–300 min 
+per week of moderate intensity or 75–150 min per 
+week of vigorous intensity aerobic physical 
+activity.1214–1219
+I
+B
+Avoidance of binge drinking and alcohol excess is 
+recommended in the general population to prevent 
+AF.1220–1223
+I
+B
+Metformin or SGLT2 inhibitors should be considered 
+for individuals needing pharmacological management 
+of diabetes mellitus to prevent AF.1210,1211,1224–1226
+IIa
+B
+Weight reduction should be considered in obese 
+individuals to prevent AF.1212,1227–1231
+IIa
+B
+© ESC 2024
+ACE, angiotensin-converting enzyme; AF, atrial fibrillation; ARB, angiotensin receptor 
+blocker; BMI, body mass index; HF, heart failure; HFrEF, heart failure with reduced 
+ejection fraction; SGLT2, sodium-glucose cotransporter-2. 
+aClass of recommendation. 
+bLevel of evidence.
+3376                                                                                                                                                                                         
+ESC Guidelines
+Downloaded from https://academic.oup.com/eurheartj/article/45/36/3314/7738779 by guest on 31 March 2026
+
+
+=== PAGE 64 ===
+
+10.5.7. Alcohol intake
+The premise that reducing alcohol intake can prevent AF is based on 
+observational studies linking alcohol to an excess risk of incident AF 
+in a dose-dependent manner (see Supplementary data online).1220–1222
+In addition, a population cohort study of those with high alcohol con­
+sumption (>60 g/day for men and >40 g/day for women) found that ab­
+stinence from alcohol was associated with a lower incidence of AF 
+compared with patients who continued heavy drinking.1223
+11. Key messages
+(1) General management: optimal treatment according to the 
+AF-CARE pathway, which includes: [C] Comorbidity and risk fac­
+tor management; [A] Avoid stroke and thromboembolism; [R] 
+Reduce symptoms by rate and rhythm control; and [E] 
+Evaluation and dynamic reassessment.
+(2) Shared care: patient-centred AF management with joint decision- 
+making and a multidisciplinary team.
+(3) Equal care: avoid health inequalities based on gender, ethnicity, 
+disability, and socioeconomic factors.
+(4) Education: for patients, family members, caregivers, and health­
+care professionals to aid shared decision-making.
+(5) Diagnosis: clinical AF requires confirmation on an ECG device to 
+initiate risk stratification and AF management.
+(6) Initial evaluation: medical history, assessment of symptoms and 
+their impact, blood tests, echocardiography/other imaging, 
+patient-reported outcome measures, and risk factors for 
+thromboembolism and bleeding.
+(7) Comorbidities and risk factors: thorough evaluation and manage­
+ment critical to all aspects of care for patients with AF to avoid 
+recurrence and progression of AF, improve success of AF treat­
+ments, and prevent AF-related adverse outcomes.
+(8) Focus on conditions associated with AF: including hypertension, 
+heart failure, diabetes mellitus, obesity, obstructive sleep apnoea, 
+physical inactivity, and high alcohol intake.
+(9) Assessing the risk of thromboembolism: use locally validated risk 
+tools or the CHA2DS2-VA score and assessment of other risk fac­
+tors, with reassessment at periodic intervals to assist in decisions 
+on anticoagulant prescription.
+(10) Oral anticoagulants: recommended for all eligible patients, except 
+those at low risk of incident stroke or thromboembolism 
+(CHA2DS2-VA = 1 anticoagulation should be considered; 
+CHA2DS2-VA ≥2 anticoagulation recommended).
+(11) Choice of anticoagulant: DOACs (apixaban, dabigatran, edoxa­
+ban, and rivaroxaban) are preferred over VKAs (warfarin and 
+others), except in patients with mechanical heart valves and mitral 
+stenosis.
+(12) Dose/range of anticoagulant: use full standard doses for DOACs 
+unless the patient meets specific dose-reduction criteria; for 
+VKAs, keep INR generally 2.0–3.0, and in range for >70% of the 
+time.
+(13) Switching anticoagulants: switch from a VKA to DOAC if risk of 
+intracranial haemorrhage or poor control of INR levels.
+(14) Bleeding risk: modifiable bleeding risk factors should be managed 
+to improve safety; bleeding risk scores should not be used to de­
+cide on starting or withdrawing anticoagulants.
+(15) Antiplatelet therapy: avoid combining anticoagulants and antipla­
+telet agents, unless the patient has an acute vascular event or 
+needs interim treatment for procedures.
+(16) Rate control therapy: use beta-blockers (any ejection fraction), di­
+goxin (any ejection fraction), or diltiazem/verapamil (LVEF >40%) 
+as initial therapy in the acute setting, an adjunct to rhythm control 
+therapies, or as a sole treatment strategy to control heart rate and 
+symptoms.
+(17) Rhythm control: consider in all suitable AF patients, explicitly dis­
+cussing with patients all potential benefits and risks of cardiover­
+sion, antiarrhythmic drugs, and catheter or surgical ablation to 
+reduce symptoms and morbidity.
+(18) Safety first: keep safety and anticoagulation in mind when consid­
+ering rhythm control; e.g. delay cardioversion and provide at least 
+3 weeks of anticoagulation beforehand if AF duration >24 h, and 
+consider toxicity and drug interactions for antiarrhythmic 
+therapy.
+(19) Cardioversion: use electrical cardioversion in cases of haemo­
+dynamic instability; otherwise choose electrical or pharmacologic­
+al cardioversion based on patient characteristics and preferences.
+(20) Indication for long-term rhythm control: the primary indication 
+should be reduction in AF-related symptoms and improvement 
+in quality of life; for selected patient groups, sinus rhythm main­
+tenance can be pursued to reduce morbidity and mortality.
+(21) Success or failure of rhythm control: continue anticoagulation ac­
+cording to the patient’s individual risk of thromboembolism, irre­
+spective of whether they are in AF or sinus rhythm.
+(22) Catheter ablation: consider as second-line option if antiarrhyth­
+mic drugs fail to control AF, or first-line option in patients with 
+paroxysmal AF.
+(23) Endoscopic or hybrid ablation: consider if catheter ablation fails, 
+or an alternative to catheter ablation in persistent AF despite anti­
+arrhythmic drugs.
+(24) Atrial fibrillation ablation during cardiac surgery: perform in cen­
+tres with experienced teams, especially for patients undergoing 
+mitral valve surgery.
+(25) Dynamic evaluation: periodically reassess therapy and give atten­
+tion to new modifiable risk factors that could slow/reverse the 
+progression of AF, increase quality of life, and prevent adverse 
+outcomes.
+12. Gaps in evidence
+The following bullet list gives the most important gaps in evidence 
+where new clinical trials could substantially aid the patient pathway:
+Definition and clinical impact of AF 
+• Paroxysmal AF is not one entity, and patterns of AF progression and 
+regression are highly variable. It is uncertain what the relevance is for 
+treatment strategies and management decisions.
+• Thirty seconds as definition for clinical AF needs validation and evalu­
+ation whether it is related to AF-related outcomes.
+• Definition, clinical features, diagnosis, and implementation for treat­
+ment choices of atrial cardiomyopathy in patients with AF is 
+unsettled.
+• Diversity in AF presentation, underlying pathophysiological mechan­
+isms, and associated comorbidities is incompletely understood with 
+regard to differences in sex, gender, race/ethnicity, socioeconomic 
+state, education, and differences between low-, moderate-, and high- 
+income countries.
+• Personalized risk prediction for AF incidence, AF progression, and as­
+sociated outcomes remains challenging.
+ESC Guidelines                                                                                                                                                                                          3377
+Downloaded from https://academic.oup.com/eurheartj/article/45/36/3314/7738779 by guest on 31 March 2026
+
+
+=== PAGE 65 ===
+
+• Insights into psychosocial and environmental factors and risk of AF 
+and adverse outcomes in AF are understudied.
+Patient-centred, multidisciplinary AF management 
+• The benefit of additional education directed to patients, to family 
+members, and to healthcare professionals in order to optimize 
+shared decision-making still needs to be proved.
+• Access to patient-centred management according to the AF-CARE 
+principles to ensure equality in healthcare provision and improve out­
+comes warrants evidence.
+• The place of remote monitoring and telemedicine for identification 
+and follow-up of patients with AF, or its subgroups is non-established, 
+though widely applied.
+[C] Comorbidity and risk factor management 
+• Methods to achieve consistent and reproducible weight loss in pa­
+tients with AF requires substantial improvement. Despite some evi­
+dence demonstrating the benefits of weight loss, widespread 
+adoption has been limited by the need for reproducible strategies.
+• The importance of sleep apnoea syndrome and its treatment on 
+AF-related outcomes remains to be elucidated.
+[A] Avoid stroke and thromboembolism 
+• Data are lacking on how to treat patients with low risk of stroke (with 
+a CHA2DS2-VA score of 0 or 1), as these patients were excluded 
+from large RCTs.
+• Not enough evidence is available for OAC in elderly patients, frail 
+polypharmacy patients, those with cognitive impairment/dementia, 
+recent bleeding, previous ICH, severe end-stage renal failure, liver im­
+pairment, cancer, or severe obesity.
+• In elderly patients, routinely switching VKAs to DOACs is associated 
+with increased bleeding risk; however, the reasons why this happens 
+are unclear.
+• The selection of which patients with asymptomatic device-detected 
+subclinical AF benefit from OAC therapy needs to be defined.
+• There is a lack of evidence whether and when to (re)start anticoagu­
+lation after intracranial haemorrhage.
+• There is lack of evidence about optimal anticoagulation in patients 
+with ischaemic stroke or left atrial thrombus while being treated 
+with OAC.
+• There is uncertainty about the place of LAA closure and how to man­
+age antithrombotic post-procedural management when LAAO is 
+performed.
+• Balance of thromboembolism and bleeding is unclear in patients with 
+AF and incidental cerebral artery aneurysms identified on brain MRI.
+[R] Reduce symptoms by rate and rhythm control 
+• In some patients, AF can be benign in terms of symptoms and out­
+comes. In which patients rhythm control is not needed warrants 
+investigation.
+• Application of antiarrhythmic drugs has been hampered by poor ef­
+fectiveness and side effects; however, new antiarrhythmic drugs are 
+needed to increase the therapeutic arsenal for AF patients.
+• The amount of AF reduction obtained by rhythm control to improve 
+outcomes is unknown.
+• Large catheter ablation studies showed no improved outcome of 
+patients with AF. Some small studies in specific subpopulations 
+have observed an improved outcome. This warrants further inves­
+tigation to provide each patient with AF with personalized treat­
+ment goals.
+• Uncertainty exists on the time of duration of AF and risk of stroke 
+when performing a cardioversion.
+• The value of diagnostic cardioversion for persistent AF in steering 
+management of AF is unknown.
+• Decisions on continuation of OAC are completely based on stroke 
+risk scores and irrespective of having (episodes) of AF; whether 
+this holds for patients undergoing successful catheter ablation is 
+uncertain.
+• Large variability in ablation strategies and techniques exist for pa­
+tients with persistent AF, or after first failed catheter ablation for par­
+oxysmal AF. The optimal catheter ablation strategy and techniques, 
+however, are unknown.
+• Sham-controlled intervention studies are lacking to determine the ef­
+fects on AF symptoms, quality of life, and PROMS, accounting for the 
+placebo effect that is associated with interventions.
+The AF-CARE pathway in specific clinical settings 
+• The optimal duration of triple therapy in patients with AF at high risk 
+of recurrent coronary events after acute coronary syndrome is 
+unclear.
+• The role of the coronary vessel involved and whether this should im­
+pact on the duration of combined OAC and antiplatelet treatment 
+needs further study.
+• The role of antiplatelet therapy in patients with AF and peripheral ar­
+tery disease on OAC is uncertain.
+• The use of DOACs in patients with congenital heart disease, particu­
+larly in patients with complex corrected congenital defects, is poorly 
+studied.
+• Improved risk stratification for stroke in patients with AF and cancer, 
+or with post-operative or trigger-induced AF is needed to inform on 
+OAC treatment decisions.
+Screening and prevention of AF 
+• There are a lack of adequately powered randomized controlled stud­
+ies on ischaemic stroke rate in patients screened for AF, both in the 
+primary prevention setting and in secondary prevention (post- 
+stroke), and its cost-effectiveness.
+• Population selection that might benefit the most from screening, the 
+optimal duration of screening, and the burden of AF that might in­
+crease the risk for patients with screening-detected AF are uncertain.
+• Evaluation of strategies to support longer-term use of technologies 
+for AF detection are awaited.
+• The role of photoplethysmography technology for AF screening in an 
+effort to assess AF burden and reduce stroke is still unclear.
+• How new consumer devices and wearable technology can be used 
+for diagnostic and monitoring purposes in routine clinical practice 
+needs to be clarified.
+3378                                                                                                                                                                                         
+ESC Guidelines
+Downloaded from https://academic.oup.com/eurheartj/article/45/36/3314/7738779 by guest on 31 March 2026
+
+
+=== PAGE 66 ===
+
+13. ‘What to do’ and ‘What not to do’ messages from the guidelines
+Table 17 lists all Class I and Class III recommendations from the text alongside their level of evidence.
+Table 17 ‘What to do’ and ‘what not to do’
+Recommendations
+Classa
+Levelb
+Recommendations for the diagnosis of AF
+Confirmation by an electrocardiogram (12-lead, multiple, or single leads) is recommended to establish the diagnosis of clinical AF and 
+commence risk stratification and treatment.
+I
+A
+Recommendations for symptom evaluation in patients with AF
+Evaluating the impact of AF-related symptoms is recommended before and after major changes in treatment to inform shared 
+decision-making and guide treatment choices.
+I
+B
+Recommendations for diagnostic evaluation in patients with new AF
+A transthoracic echocardiogram is recommended in patients with an AF diagnosis where this will guide treatment decisions.
+I
+C
+Recommendations for patient-centred care and education
+Education directed to patients, family members, caregivers, and healthcare professionals is recommended to optimize shared 
+decision-making, facilitating open discussion of both the benefit and risk associated with each treatment option.
+I
+C
+Access to patient-centred management according to the AF-CARE principles is recommended in all patients with AF, regardless of gender, 
+ethnicity, and socioeconomic status, to ensure equality in healthcare provision and improve outcomes.
+I
+C
+Recommendations for comorbidity and risk factor management in AF
+Identification and management of risk factors and comorbidities is recommended as an integral part of AF care.
+I
+B
+Blood pressure lowering treatment is recommended in patients with AF and hypertension to reduce recurrence and progression of AF and 
+prevent adverse cardiovascular events.
+I
+B
+Diuretics are recommended in patients with AF, HF, and congestion to alleviate symptoms and facilitate better AF management.
+I
+C
+Appropriate medical therapy for HF is recommended in AF patients with HF and impaired LVEF to reduce symptoms and/or HF 
+hospitalization and prevent AF recurrence.
+I
+B
+Sodium-glucose cotransporter-2 inhibitors are recommended for patients with HF and AF regardless of left ventricular ejection fraction to 
+reduce the risk of HF hospitalization and cardiovascular death.
+I
+A
+Effective glycaemic control is recommended as part of comprehensive risk factor management in individuals with diabetes mellitus and AF, 
+to reduce burden, recurrence, and progression of AF.
+I
+C
+Weight loss is recommended as part of comprehensive risk factor management in overweight and obese individuals with AF to reduce 
+symptoms and AF burden, with a target of 10% or more reduction in body weight.
+I
+B
+A tailored exercise programme is recommended in individuals with paroxysmal or persistent AF to improve cardiorespiratory fitness and 
+reduce AF recurrence.
+I
+B
+Reducing alcohol consumption to ≤3 standard drinks (≤30 grams of alcohol) per week is recommended as part of comprehensive risk 
+factor management to reduce AF recurrence.
+I
+B
+When screening for obstructive sleep apnoea in individuals with AF, using only symptom-based questionnaires is not recommended.
+III
+B
+Recommendations to assess and manage thromboembolic risk in AF
+Oral anticoagulation is recommended in patients with clinical AF at elevated thromboembolic risk to prevent ischaemic stroke and 
+thromboembolism.
+I
+A
+A CHA2DS2-VA score of 2 or more is recommended as an indicator of elevated thromboembolic risk for decisions on initiating oral 
+anticoagulation.
+I
+C
+Oral anticoagulation is recommended in all patients with AF and hypertrophic cardiomyopathy or cardiac amyloidosis, regardless of 
+CHA2DS2-VA score, to prevent ischaemic stroke and thromboembolism.
+I
+B
+Individualized reassessment of thromboembolic risk is recommended at periodic intervals in patients with AF to ensure anticoagulation is 
+started in appropriate patients.
+I
+B
+Antiplatelet therapy is not recommended as an alternative to anticoagulation in patients with AF to prevent ischaemic stroke and 
+thromboembolism.
+III
+A
+Using the temporal pattern of clinical AF (paroxysmal, persistent, or permanent) is not recommended to determine the need for oral 
+anticoagulation.
+III
+B
+Continued 
+ESC Guidelines                                                                                                                                                                                          3379
+Downloaded from https://academic.oup.com/eurheartj/article/45/36/3314/7738779 by guest on 31 March 2026
+
+
+=== PAGE 67 ===
+
+Recommendations for oral anticoagulation in AF
+Direct oral anticoagulants are recommended in preference to VKAs to prevent ischaemic stroke and thromboembolism, except in patients 
+with mechanical heart valves or moderate-to-severe mitral stenosis.
+I
+A
+A target INR of 2.0–3.0 is recommended for patients with AF prescribed a VKA for stroke prevention to ensure safety and effectiveness.
+I
+B
+Switching to a DOAC is recommended for eligible patients that have failed to maintain an adequate time in therapeutic range on a VKA 
+(TTR <70%) to prevent thromboembolism and intracranial haemorrhage.
+I
+B
+A reduced dose of DOAC therapy is not recommended, unless patients meet DOAC-specific criteria, to prevent underdosing and 
+avoidable thromboembolic events.
+III
+B
+Recommendations for combining antiplatelet drugs with anticoagulants for stroke prevention
+Adding antiplatelet treatment to oral anticoagulation is not recommended in AF patients for the goal of preventing ischaemic stroke or 
+thromboembolism.
+III
+B
+Recommendations for thromboembolism despite anticoagulation
+Adding antiplatelet treatment to anticoagulation is not recommended in patients with AF to prevent recurrent embolic stroke.
+III
+B
+Switching from one DOAC to another, or from a DOAC to a VKA, without a clear indication is not recommended in patients with AF to 
+prevent recurrent embolic stroke.
+III
+B
+Recommendations for surgical left atrial appendage occlusion
+Surgical closure of the left atrial appendage is recommended as an adjunct to oral anticoagulation in patients with AF undergoing cardiac 
+surgery to prevent ischaemic stroke and thromboembolism.
+I
+B
+Recommendations for assessment of bleeding risk
+Assessment and management of modifiable bleeding risk factors is recommended in all patients eligible for oral anticoagulation, as part of 
+shared decision-making to ensure safety and prevent bleeding.
+I
+B
+Use of bleeding risk scores to decide on starting or withdrawing oral anticoagulation is not recommended in patients with AF to avoid 
+under-use of anticoagulation.
+III
+B
+Recommendations for management of bleeding in anticoagulated patients
+Interrupting anticoagulation and performing diagnostic or treatment interventions is recommended in AF patients with active bleeding until 
+the cause of bleeding is identified and resolved.
+I
+C
+Recommendations for heart rate control in patients with AF
+Rate control therapy is recommended in patients with AF, as initial therapy in the acute setting, an adjunct to rhythm control therapies, or as 
+a sole treatment strategy to control heart rate and reduce symptoms.
+I
+B
+Beta-blockers, diltiazem, verapamil, or digoxin are recommended as first-choice drugs in patients with AF and LVEF >40% to control heart 
+rate and reduce symptoms.
+I
+B
+Beta-blockers and/or digoxin are recommended in patients with AF and LVEF ≤40% to control heart rate and reduce symptoms.
+I
+B
+Recommendations for general concepts in rhythm control
+Electrical cardioversion is recommended in AF patients with acute or worsening haemodynamic instability to improve immediate patient 
+outcomes.
+I
+C
+Direct oral anticoagulants are recommended in preference to VKAs in eligible patients with AF undergoing cardioversion for 
+thromboembolic risk reduction.
+I
+A
+Therapeutic oral anticoagulation for at least 3 weeks (adherence to DOACs or INR ≥2.0 for VKAs) is recommended before scheduled 
+cardioversion of AF and atrial flutter to prevent procedure-related thromboembolism.
+I
+B
+Transoesophageal echocardiography is recommended if 3 weeks of therapeutic oral anticoagulation has not been provided, for exclusion of 
+car

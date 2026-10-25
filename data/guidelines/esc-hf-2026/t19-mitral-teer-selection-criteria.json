@@ -1,0 +1,173 @@
+{
+  "schemaVersion": 1,
+  "id": "esc-hf-2026.t19-mitral-teer-selection-criteria",
+  "guidelineId": "esc-hf-2026",
+  "number": "19",
+  "type": "grid",
+  "title": {
+    "en": "Selection criteria for mitral transcatheter edge-to-edge repair in heart failure with reduced ejection fraction",
+    "ru": "Критерии отбора для транскатетерной пластики митрального клапана створка-в-створку при сердечной недостаточности со сниженной фракцией выброса"
+  },
+  "tags": [
+    "valvular-heart-disease",
+    "mitral-regurgitation",
+    "teer",
+    "m-teer",
+    "hfref",
+    "fmt",
+    "crt",
+    "nyha",
+    "lvef",
+    "lvesd",
+    "spap"
+  ],
+  "source": {
+    "expectedRows": 12
+  },
+  "i18nStatus": {
+    "ru": "reviewed"
+  },
+  "columns": [
+    {
+      "id": "criteria",
+      "title": {
+        "en": "Clinical and echocardiographic criteria",
+        "ru": "Клинические и эхокардиографические критерии"
+      }
+    }
+  ],
+  "rows": [
+    {
+      "id": "r01-fmt-gdit",
+      "cells": [
+        {
+          "text": {
+            "en": "Optimized FMT and other GDIT (i.e. CRT) if needed",
+            "ru": "Оптимизированная базовая медикаментозная терапия (FMT) и другая аппаратно-интервенционная терапия (GDIT; например, СРТ / CRT), при наличии показаний"
+          }
+        }
+      ]
+    },
+    {
+      "id": "r02-nyha",
+      "cells": [
+        {
+          "text": {
+            "en": "NYHA class ≥II",
+            "ru": "Функциональный класс по NYHA ≥II"
+          }
+        }
+      ]
+    },
+    {
+      "id": "r03-hfh-np",
+      "cells": [
+        {
+          "text": {
+            "en": "At least one HFH within the last year\nOR\nIncreased natriuretic peptide levels (BNP ≥300 pg/mL or NT-proBNP ≥1000 pg/mL)",
+            "ru": "Как минимум одна госпитализация по поводу СН (HFH) за последний год\nИЛИ\nПовышенный уровень натрийуретических пептидов (BNP ≥300 пг/мл или NT-proBNP ≥1000 пг/мл)"
+          }
+        }
+      ]
+    },
+    {
+      "id": "r04-no-stage-d",
+      "cells": [
+        {
+          "text": {
+            "en": "No stage D (advanced) HF",
+            "ru": "Отсутствие терминальной (стадия D) сердечной недостаточности"
+          }
+        }
+      ]
+    },
+    {
+      "id": "r05-no-revasc-cad",
+      "cells": [
+        {
+          "text": {
+            "en": "No CAD requiring revascularization",
+            "ru": "Отсутствие ИБС, требующей реваскуляризации"
+          }
+        }
+      ]
+    },
+    {
+      "id": "r06-no-cmp",
+      "cells": [
+        {
+          "text": {
+            "en": "No hypertrophic, restrictive, or infiltrative cardiomyopathies",
+            "ru": "Отсутствие гипертрофической, рестриктивной или инфильтративной кардиомиопатии"
+          }
+        }
+      ]
+    },
+    {
+      "id": "r07-lvef",
+      "cells": [
+        {
+          "text": {
+            "en": "LVEF 20%–50%",
+            "ru": "ФВЛЖ 20%–50%"
+          }
+        }
+      ]
+    },
+    {
+      "id": "r08-lvesd",
+      "cells": [
+        {
+          "text": {
+            "en": "LVESD ≤70 mm",
+            "ru": "КСР ЛЖ (LVESD) ≤70 мм"
+          }
+        }
+      ]
+    },
+    {
+      "id": "r09-anatomy-teer",
+      "cells": [
+        {
+          "text": {
+            "en": "Anatomy deemed suitable for mitral TEER",
+            "ru": "Анатомические параметры, признанные подходящими для транскатетерной пластики створка-в-створку (TEER) митрального клапана"
+          }
+        }
+      ]
+    },
+    {
+      "id": "r10-spap",
+      "cells": [
+        {
+          "text": {
+            "en": "sPAP ≤70 mmHg",
+            "ru": "СДЛА (sPAP) ≤70 мм рт. ст."
+          }
+        }
+      ]
+    },
+    {
+      "id": "r11-no-rv-dysfunction",
+      "cells": [
+        {
+          "text": {
+            "en": "No severe RV dysfunction",
+            "ru": "Отсутствие тяжелой дисфункции правого желудочка (ПЖ)"
+          }
+        }
+      ]
+    },
+    {
+      "id": "r12-no-severe-valve",
+      "cells": [
+        {
+          "text": {
+            "en": "No severe aortic and/or tricuspid valve disease",
+            "ru": "Отсутствие тяжелого порока аортального и/или трикуспидального клапана"
+          }
+        }
+      ]
+    }
+  ]
+}

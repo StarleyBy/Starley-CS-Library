@@ -1,0 +1,119 @@
+{
+  "schemaVersion": 1,
+  "id": "esc-hf-2026.t10-hfpef-echocardiographic-criteria",
+  "guidelineId": "esc-hf-2026",
+  "number": "10",
+  "type": "grid",
+  "title": {
+    "en": "Simplified echocardiographic criteria for supporting objective evidence of heart failure with preserved ejection fraction",
+    "ru": "Упрощенные эхокардиографические критерии объективного подтверждения сердечной недостаточности с сохраненной фракцией выброса"
+  },
+  "tags": [
+    "hfpef",
+    "echocardiography",
+    "lv-hypertrophy",
+    "la-dilatation",
+    "filling-pressure",
+    "pulmonary-hypertension",
+    "tr-velocity",
+    "e-e-ratio"
+  ],
+  "source": {
+    "expectedRows": 4
+  },
+  "i18nStatus": {
+    "ru": "reviewed"
+  },
+  "columns": [
+    {
+      "id": "criteria",
+      "title": {
+        "en": "Criteria",
+        "ru": "Критерии"
+      }
+    },
+    {
+      "id": "threshold",
+      "title": {
+        "en": "Echocardiographic threshold",
+        "ru": "Эхокардиографический порог"
+      }
+    }
+  ],
+  "rows": [
+    {
+      "id": "r01-lvh",
+      "cells": [
+        {
+          "text": {
+            "en": "LV hypertrophy",
+            "ru": "Гипертрофия левого желудочка (ГЛЖ)"
+          }
+        },
+        {
+          "text": {
+            "en": "LV mass index\n≥95 g/m² (female)\n≥115 g/m² (male)\nOR\nRelative wall thickness >0.42",
+            "ru": "Индекс массы миокарда ЛЖ\n≥95 г/м² (женщины)\n≥115 г/м² (мужчины)\nИЛИ\nОтносительная толщина стенок (ОТС) >0,42"
+          }
+        }
+      ]
+    },
+    {
+      "id": "r02-la-dilatation",
+      "cells": [
+        {
+          "text": {
+            "en": "LA dilatation (volume indexed by BSA)",
+            "ru": "Дилатация левого предсердия (индексированный по ППТ объем ЛП)"
+          }
+        },
+        {
+          "text": {
+            "en": ">34 mL/m² (sinus rhythm)\n>40 mL/m² (AF)",
+            "ru": ">34 мл/м² (синусовый ритм)\n>40 мл/м² (ФП)"
+          }
+        }
+      ]
+    },
+    {
+      "id": "r03-filling-pressure",
+      "cells": [
+        {
+          "text": {
+            "en": "Increased likelihood of elevated LV filling pressure",
+            "ru": "Повышенная вероятность повышенного давления наполнения ЛЖ"
+          }
+        },
+        {
+          "text": {
+            "en": "E/e′ >9 at rest^[a]",
+            "ru": "E/e′ >9 в покое^[a]"
+          }
+        }
+      ]
+    },
+    {
+      "id": "r04-pa-pressure",
+      "cells": [
+        {
+          "text": {
+            "en": "Raised estimated systolic PA pressure",
+            "ru": "Повышенное расчетное систолическое давление в легочной артерии (СДЛА)"
+          }
+        },
+        {
+          "text": {
+            "en": ">35 mmHg\nOR\nTR velocity at rest >2.8 m/s",
+            "ru": ">35 мм рт. ст.\nИЛИ\nСкорость трикуспидальной регургитации в покое >2,8 м/с"
+          }
+        }
+      ]
+    }
+  ],
+  "footnotes": {
+    "a": {
+      "en": "E/e′ ≥15 is more specific, but less sensitive, for the diagnosis of HFpEF. Note: The probability for an HFpEF diagnosis increases with the number of parameters in the pathological range.",
+      "ru": "Значение E/e′ ≥15 более специфично, но менее чувствительно для диагностики СНсФВ. Примечание: вероятность диагноза СНсФВ возрастает с увеличением числа параметров в патологическом диапазоне."
+    }
+  }
+}

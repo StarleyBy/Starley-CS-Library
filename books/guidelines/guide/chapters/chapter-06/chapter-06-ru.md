@@ -1,4 +1,4 @@
-# Руководство ESC 2023 по ведению пациентов с острыми коронарными синдромами
+# ⚡ <span class="luminous-red">Острый коронарный синдром</span> <span class="luminous-amber">2023</span> (<span class="luminous-blue">ESC</span>)
 
 <details class="med-details"><summary>
 

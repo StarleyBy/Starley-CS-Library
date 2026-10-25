@@ -1,0 +1,821 @@
+<details class="med-details"><summary>
+
+## 6. Aneurysms of the Thoracic and Abdominal Aorta</summary><div class="details-content">
+
+An aortic aneurysm represents a permanent localized dilation $\ge 50\%$ greater than the expected normal diameter for a given anatomic segment. Etiology, natural history, rupture risk, and intervention thresholds vary substantially between thoracic and abdominal aortic segments and between sporadic and heritable disease.
+
+### 6.1 Thoracic Aortic Aneurysm (TAA) Causes and Genetic Aortopathies
+
+#### 6.1.1 Sporadic and Degenerative TAA
+Sporadic aneurysms predominantly involve elderly patients with hypertension, atherosclerosis, and smoking history, commonly affecting the ascending or descending aorta.
+
+#### 6.1.2 Heritable Thoracic Aortic Diseases (HTAD)
+Up to 20% of patients with thoracic aortic aneurysm or dissection have a genetic basis, either as part of a recognized syndromic disorder or as non-syndromic familial thoracic aortic aneurysm and dissection (FTAAD):
+* **Genetic Counseling and Multi-Gene Panel Testing (Class 1, Level of Evidence B-NR):** In patients with thoracic aortic disease presenting at age $< 60$ years, or with a family history of aortic disease, or with physical features suggestive of a connective tissue disorder, genetic counseling and testing with a comprehensive multi-gene panel (including *FBN1*, *TGFBR1*, *TGFBR2*, *SMAD3*, *TGFB2*, *TGFB3*, *ACTA2*, *MYH11*, *COL3A1*, *PRKG1*, *MYLK*, *LOX*) is recommended.
+* **Cascade Clinical and Genetic Screening:** First-degree relatives of affected patients should undergo genetic testing for the identified pathogenic variant or periodic imaging surveillance if genetic testing is negative or uninformative (Class 1, Level B-NR).
+
+![Figure 16: Recommendations for Management of Aneurysms of the Aortic Root and Ascending Aorta](images/fig16_management_aneurysms_root_ascending.jpg)
+
+![Figure 17: Evaluation and Genetic Testing Protocol for Patients With Thoracic Aortic Disease](images/fig17_evaluation_genetic_testing_protocol.jpg)
+
+
+
+#### Table 6: Cause of TAA^[a]
+
+| Etiology and Causes of TAA |
+|---|
+| **HTAD (see Table 7): syndromic**<br>• Marfan syndrome<br>• Loeys-Dietz syndrome<br>• Vascular Ehlers-Danlos syndrome<br>• Smooth muscle dysfunction syndrome<br>• Others: attributable to pathogenic variants in FLNA, BGN, LOX |
+| **HTAD (see Table 7): nonsyndromic**<br>• ACTA2, MYH11, PRKG1, MYLK, and others<br>• Familial thoracic aortic aneurysm without identified pathogenic variants in a known gene for HTAD |
+| **Congenital conditions**<br>• Bicuspid aortic valve<br>• Turner syndrome<br>• Coarctation of the aorta<br>• Complex congenital heart defects (tetralogy of Fallot, transposition of the great vessels, truncus arteriosus) |
+| Hypertension |
+| Atherosclerosis |
+| Degenerative |
+| Previous aortic dissection |
+| **Inflammatory aortitis**<br>• Giant cell arteritis<br>• Takayasu arteritis<br>• Behçet disease<br>• Immunoglobulin G4-related disease, antineutrophil cytoplasmic antibody-related, sarcoidosis |
+| **Infectious aortitis**<br>• Bacterial, fungal, syphilitic |
+| Previous traumatic aortic injury |
+
+
+#### Table 7: TAA Syndromes and Conditions Attributable to a Heritable or Genetic Cause^[c]
+
+| Condition | Gene | Clinical Features |
+|---|---|---|
+| **Syndromic HTAD** |
+| Marfan syndrome | FBN1 | Aortic root aneurysm, aortic dissection, TAA, MVP, long bone overgrowth, arachnodactyly, dolichostenomelia, scoliosis, pectus deformities, ectopia lentis, myopia, tall stature, pneumothorax, dural ectasia |
+| Loeys-Dietz syndrome | TGFBR1, TGFBR2, SMAD3, TGFB2, TGFB3 | TAA, branch vessel aneurysms, aortic dissection, arterial tortuosity, MVP, craniosynostosis, hypertelorism, bluish sclera, bifid/broad uvula, translucent skin, visible veins, club feet, dural ectasia, and premature osteoarthritis and peripheral neuropathy |
+| Vascular Ehlers-Danlos syndrome | COL3A1 | TAA, AAA, arterial rupture, aortic dissection, MVP, bowel and uterine rupture, pneumothorax, translucent skin, atrophic scars, small joint hypermobility, easy bruising, carotid-cavernous fistula |
+| Arterial tortuosity syndrome | SLC2A10 | Tortuous large and medium sized arteries, aortic dilation, craniofacial, skin and skeletal features |
+| Shprintzen-Goldberg syndrome | SKI | Craniosynostosis, skeletal features, aortic dilation |
+| Ehlers-Danlos syndrome with periventricular nodular heterotopia | FLNA | X-linked, periventricular nodular heterotopia, TAA, BAV, MV disease, PDA, VSD, seizures, joint hypermobility |
+| Meester-Loeys syndrome | BGN | X-linked, TAA, aortic dissection, MV disease |
+| LOX-related TAA | LOX | TAA, BAV, aortic dissection, Marfanoid habitus in some |
+| Smooth muscle dysfunction syndrome | ACTA2 | TAA, moyamoya-like cerebrovascular disease, pulmonary hypertension, pulmonary disease, hypoperistalsis, hypotonic bladder, congenital mydriasis |
+| **Nonsyndromic HTAD (Familial TAA)** |
+| FTAA | ACTA2 | TAA, aortic dissection, premature CAD and moyamoya-like cerebrovascular disease, livedo reticularis, iris flocculi |
+| FTAA | MYH11 | TAA, aortic dissection, PDA |
+| FTAA | MYLK | Aortic dissection at relatively small aortic size |
+| FTAA | PRKG1 | Aortic dissection at young ages at small aortic sizes |
+| FTAA | MAT2A | TAA, aortic dissection, BAV |
+| FTAA | MFAP5 | TAA, aortic dissection, skeletal features may be present |
+| FTAA | FOXE3 | TAA, aortic dissection |
+| FTAA | THSD4 | TAA, aortic dissection |
+| **Bicuspid Aortic Valve–Associated Ascending Aortic Aneurysm** |
+| Familial BAV/AS and TAA | NOTCH1 | Aortic valve stenosis, TAA |
+| BAV with TAA | TGFBR2, MAT2A, GATA5, SMAD6, LOX, ROBO4, TBX20 | Syndromic and nonsyndromic HTAD and FTAA with an increased frequency of BAV |
+| Turner syndrome | XO, Xp | BAV, CoA, TAA, aortic dissection, short stature, lymphedema, webbed neck, premature ovarian failure |
+
+
+#### Table 8: Risk Factors for Familial TAD^[a]
+
+| Risk Factor |
+|---|
+| TAD and syndromic features of Marfan syndrome, Loeys-Dietz syndrome, or vascular Ehlers-Danlos syndrome |
+| TAD presenting at age <60 y |
+| A family history of either TAD or peripheral/intracranial aneurysms in a first- or second-degree relative |
+| A history of unexplained sudden death at a relatively young age in a first- or second-degree relative |
+
+
+#### Table 9: Features Associated With an Increased Risk of Aortic Dissection in Patients With Heritable Thoracic Aortic Aneurysms
+
+| Heritable Thoracic Aortic Aneurysms and No Identified Genetic Cause |
+|---|
+| Family history of aortic dissection at an aortic diameter <5.0 cm |
+| Family history of unexplained sudden death at age <50 y |
+| Rapid aortic growth (≥0.5 cm in 1 y or ≥0.3 cm/y in 2 consecutive y) |
+
+
+### Recommendation Table 4 — Recommendations for HTAD: Genetic Testing and Screening of Family Members for TAD
+
+**HTAD: Genetic Testing and Screening of Family Members**
+
+| Recommendations | Class | Level |
+|---|:---:|:---:|
+| In patients with aortic root/ascending aortic aneurysms or aortic dissection, obtaining a multigenerational family history of TAD, unexplained sudden deaths, and peripheral and intracranial aneurysms is recommended. | **I** | **B-NR** |
+| In patients with aortic root/ascending aortic aneurysms or aortic dissection and risk factors for HTAD (Table 8, Figure 17), genetic testing to identify pathogenic/likely pathogenic variants (ie, mutations) is recommended. | **I** | **B-NR** |
+| In patients with an established pathogenic or likely pathogenic variant in a gene predisposing to HTAD, it is recommended that genetic counseling be provided and the patient's clinical management be informed by the specific gene and variant in the gene. | **I** | **B-NR** |
+| In patients with TAD who have a pathogenic/likely pathogenic variant, genetic testing of at-risk biological relatives (ie, cascade testing) is recommended. In family members who are found by genetic screening to have inherited the pathogenic/likely pathogenic variant, aortic imaging with TTE (if aortic root and ascending aorta are adequately visualized, otherwise with CT or MRI) is recommended. | **I** | **B-NR** |
+| In a family with aortic root/ascending aortic aneurysms or aortic dissection, if the disease-causing variant is not identified with genetic testing, screening aortic imaging (as per recommendation 4) of at-risk biological relatives (ie, cascade testing) is recommended. | **I** | **B-NR** |
+| In patients with aortic root/ascending aortic aneurysms or aortic dissection, in the absence of either a known family history of TAD or pathogenic/likely pathogenic variant, screening aortic imaging (as per recommendation 4) of first-degree relatives is recommended. | **I** | **C-LD** |
+| In patients with acute type A aortic dissection, the diameter of the aortic root and ascending aorta should be recorded in the operative note and medical record to inform the management of affected relatives. | **I** | **C-EO** |
+
+
+### Recommendation Table 5 — Recommendations for Surgical Considerations for Nonsyndromic Heritable TAA and No Identified Genetic Cause
+
+**Surgical Considerations for Nonsyndromic Heritable TAA**
+
+| Recommendations | Class | Level |
+|---|:---:|:---:|
+| In asymptomatic patients with aneurysms of the aortic root or ascending aorta with nonsyndromic heritable thoracic aortic disease (nsHTAD) and no identified genetic cause, determining the timing of surgical repair requires shared decision-making and is informed by known aortic diameters at the time of aortic dissection, TAA repair, or both in affected family members. | **I** | **C-LD** |
+| In asymptomatic patients with aneurysms of the aortic root or ascending aorta with nsHTAD and no identified genetic cause but no information on aortic diameters at the time of dissection or aneurysm repair in affected family members and who have no high-risk features for adverse aortic events (Table 9) it is recommended to repair the aorta when the maximal diameter reaches ≥5.0 cm. | **I** | **C-LD** |
+| In patients with aneurysms of the aortic root or ascending aorta with nsHTAD and no identified genetic cause and a maximal aortic diameter of ≥4.5 cm, who have high-risk features for adverse aortic events (Table 9), or who are undergoing cardiac surgery for other indications, aortic repair is reasonable when performed by experienced surgeons in a Multidisciplinary Aortic Team. | **IIa** | **C-LD** |
+
+
+#### 6.1.2.1 Marfan Syndrome (MFS)
+* Caused by pathogenic variants in *FBN1* encoding fibrillin-1, inherited in an autosomal dominant manner with pleiotropic manifestations (ocular lens dislocation, skeletal overgrowth, dural ectasia, mitral valve prolapse).
+* **Imaging Surveillance (Class 1, Level B-NR):** Baseline echocardiography followed by imaging 6 months later to establish stability, then annually if stable. MRA or CTA from head to pelvis at diagnosis to screen for extra-cardiac aneurysms.
+* **Medical Therapy (Class 1, Level A):** Maximally tolerated beta-blockers or angiotensin receptor blockers (losartan, irbesartan) are recommended to reduce hemodynamic stress and slow aortic root dilation.
+* **Surgical Thresholds (Class 1, Level B-NR):** Prophylactic aortic root replacement is recommended at an external diameter **$\ge 5.0\text{ cm}$**, or **$\ge 4.5\text{ cm}$** in the presence of high-risk features (family history of dissection, rapid growth $\ge 0.3\text{ cm/year}$, severe aortic regurgitation, or desire for pregnancy).
+* **Valve-Sparing Root Replacement (VSRR):** Valve-sparing root reimplantation (David procedure) is preferred over composite mechanical valved conduit (Bentall) in experienced centers when aortic valve leaflets are morphologically normal or repairable (Class 1, Level B-NR).
+
+
+
+#### Table 10: Features Associated With Increased Risk of Aortic Complications in Marfan Syndrome
+
+| Risk Feature |
+|---|
+| Family history of aortic dissection |
+| Rapid aortic growth (≥0.3 cm/y) |
+| Diffuse aortic root and ascending aortic dilation |
+| Marked vertebral arterial tortuosity |
+
+
+### Recommendation Table 6 — Recommendations for Diagnostic and Surveillance Aortic Imaging in Marfan Syndrome
+
+**Initial Diagnosis and Surveillance Imaging**
+
+| Recommendations | Class | Level |
+|---|:---:|:---:|
+| In patients with Marfan syndrome, a TTE is recommended at the time of initial diagnosis, to determine the diameters of the aortic root and ascending aorta, and 6 months thereafter, to determine the rate of aortic growth; if the aortic diameters are stable, an annual surveillance TTE is recommended. If the aortic root, ascending aorta, or both are not adequately visualized on TTE, a CT or MRI of the thoracic aorta is recommended. | **I** | **C-EO** |
+| In adults with Marfan syndrome, after the initial TTE, a CT or MRI of the thoracic aorta is reasonable to confirm the aortic diameters and assess the remainder of the thoracic aorta. | **IIa** | **C-EO** |
+
+**Imaging After Aortic Root Replacement**
+
+| Recommendations | Class | Level |
+|---|:---:|:---:|
+| In patients with Marfan syndrome who have undergone aortic root replacement, surveillance imaging of the thoracic aorta by MRI (or CT) is recommended to evaluate for distal TAD, initially annually and then, if normal in diameter and unchanged after 2 years, every other year. | **I** | **C-LD** |
+| In patients with Marfan syndrome who have undergone aortic root replacement, surveillance imaging every 3 to 5 years for potential AAA is reasonable. | **IIa** | **C-LD** |
+
+
+### Recommendation Table 7 — Recommendations for Medical Therapy in Marfan Syndrome
+
+**Medical Therapy in Marfan Syndrome**
+
+| Recommendations | Class | Level |
+|---|:---:|:---:|
+| In patients with Marfan syndrome, treatment with either a beta blocker or an ARB, in maximally tolerated doses (unless contraindicated), is recommended to reduce the rate of aortic dilation. | **I** | **A** |
+| In patients with Marfan syndrome, the use of both a beta blocker and an ARB, in maximally tolerated doses (unless contraindicated), is reasonable to reduce the rate of aortic dilation. | **IIa** | **C-LD** |
+
+
+### Recommendation Table 8 — Recommendations for Marfan Syndrome Interventions: Replacement of the Aortic Root in Patients With Marfan Syndrome
+
+**Replacement of the Aortic Root in Patients With Marfan Syndrome**
+
+| Recommendations | Class | Level |
+|---|:---:|:---:|
+| In patients with Marfan syndrome and an aortic root diameter of ≥5.0 cm, surgery to replace the aortic root and ascending aorta is recommended. | **I** | **B-NR** |
+| In patients with Marfan syndrome, an aortic root diameter of ≥4.5 cm, and features associated with an increased risk of aortic dissection (see Table 10), surgery to replace the aortic root and ascending aorta is reasonable, when performed by experienced surgeons in a Multidisciplinary Aortic Team. | **IIa** | **B-NR** |
+| In patients with Marfan syndrome and a maximal cross-sectional aortic root area (cm2) to patient height (m) ratio of ≥10, surgery to replace the aortic root and ascending aorta is reasonable, when performed by experienced surgeons in a Multidisciplinary Aortic Team. | **IIa** | **C-LD** |
+| In patients with Marfan syndrome and an aortic diameter approaching surgical threshold, who are candidates for valve-sparing root replacement (VSRR) and have a very low surgical risk, surgery to replace the aortic root and ascending aorta may be reasonable when performed by experienced surgeons in a Multidisciplinary Aortic Team. | **IIb** | **C-LD** |
+
+
+### Recommendation Table 9 — Recommendation for Replacement of Primary (Nondissected) Aneurysms of the Aortic Arch, Descending, and Abdominal Aorta in Patients With Marfan Syndrome
+
+**Replacement of Primary Aneurysms of the Arch, Descending, and Abdominal Aorta**
+
+| Recommendations | Class | Level |
+|---|:---:|:---:|
+| In patients with Marfan syndrome and a nondissected aneurysm of the aortic arch, descending thoracic aorta, or abdominal aorta of ≥5.0 cm, surgical intervention to replace the aneurysmal segment is reasonable. | **IIa** | **C-EO** |
+
+
+#### 6.1.2.2 Loeys-Dietz Syndrome (LDS)
+* Characterized by mutations in transforming growth factor-beta (TGF-$\beta$) pathway genes (*TGFBR1*, *TGFBR2*, *SMAD3*, *TGFB2*, *TGFB3*), with aggressive clinical course and dissection at smaller aortic diameters and younger ages than Marfan syndrome.
+* Prophylactic root replacement thresholds are tailored to the specific pathogenic gene and risk profile, ranging from **$4.0\text{ to }4.5\text{ cm}$** for severe phenotypes (*TGFBR1/2* with extra-aortic craniofacial features) to $4.5\text{ to }5.0\text{ cm}$ for milder forms (*TGFB2/3*).
+
+
+
+#### Table 11: Surgical Thresholds for Prophylactic Aortic Root and Ascending Aortic Replacement in Loeys-Dietz Syndrome Based on Genetic Variant^[d]
+
+| COR | LOE | Genetic Variant | Presence of High-Risk Features | Aortic Diameter (cm) |
+|---|---|---|---|---|
+| 1 | C-LD | TGFBR1 | No | ≥4.5 |
+| 1 | C-LD | TGFBR2 | No | ≥4.5 |
+| 2b | C-EO | TGFBR1 | Yes | ≥4.0 |
+| 2a | C-LD | TGFBR2 | Yes | ≥4.0 |
+| 2a | C-EO | SMAD3 | — | ≥4.5 |
+| 2b | C-EO | TGFB2 | — | ≥4.5 |
+| 2b | C-EO | TGFB3 | — | ≥5.0 |
+
+
+### Recommendation Table 10 — Recommendations for Imaging in Loeys-Dietz Syndrome
+
+**Imaging in Loeys-Dietz Syndrome**
+
+| Recommendations | Class | Level |
+|---|:---:|:---:|
+| In patients with Loeys-Dietz syndrome, a baseline TTE is recommended to determine the diameters of the aortic root and ascending aorta, and 6 months thereafter to determine the rate of aortic growth; if the aortic diameters are stable, annual surveillance TTE is recommended. | **I** | **C-EO** |
+| In patients with Loeys-Dietz syndrome and a dilated or dissected aorta and/or arterial branches at baseline, annual surveillance imaging of the affected aorta and arteries with MRI or CT is recommended. | **I** | **C-EO** |
+| In patients with Loeys-Dietz syndrome, a baseline MRI or CT from head to pelvis is recommended to evaluate the entire aorta and its branches for aneurysm, dissection, and tortuosity. | **I** | **C-LD** |
+| In patients with Loeys-Dietz syndrome without dilation of the aorta distal to the aortic root or ascending aorta and without dilated or dissected arterial branches, surveillance imaging from chest to pelvis with MRI (or CT) every 2 years is reasonable, but imaging may be more frequent depending on family history. | **IIa** | **C-EO** |
+| In patients with Loeys-Dietz syndrome without dilation of the cerebral arteries on initial screening, periodic imaging surveillance for cerebral aneurysms with MRI or CT every 2 to 3 years is reasonable. | **IIa** | **C-EO** |
+
+
+### Recommendation Table 11 — Recommendation for Medical Therapy in Loeys-Dietz Syndrome
+
+**Medical Therapy in Loeys-Dietz Syndrome**
+
+| Recommendations | Class | Level |
+|---|:---:|:---:|
+| In patients with Loeys-Dietz syndrome, treatment with a beta blocker or an ARB (unless contraindicated), or both, in maximally tolerated doses, is reasonable. | **IIa** | **C-EO** |
+
+
+### Recommendation Table 12 — Recommendations for Replacement of the Aorta in Patients With Loeys-Dietz Syndrome
+
+**Replacement of the Aorta in Loeys-Dietz Syndrome**
+
+| Recommendations | Class | Level |
+|---|:---:|:---:|
+| In patients with Loeys-Dietz syndrome and aortic dilation, the surgical threshold for prophylactic aortic root and ascending aortic replacement should be informed by the specific genetic variant, aortic diameter, aortic growth rate, extra-aortic features, family history, patient age and sex, and physician and patient preferences (Table 11). | **I** | **C-LD** |
+| In patients with Loeys-Dietz syndrome attributable to a pathogenic variant in TGFBR1, TGFBR2, or SMAD3, surgery to replace the intact aortic arch, descending aorta, or abdominal aorta at a diameter of ≥4.5 cm may be considered, with the specific genetic variant, patient age, aortic growth rate, family history, presence of high-risk features (Table 11), and surgical risk informing the decision. | **IIb** | **C-EO** |
+
+
+#### 6.1.2.3 Non-Syndromic HTAD and Turner Syndrome
+* **Non-Syndromic Genes (*ACTA2*, *MYH11*, *PRKG1*, *MYLK*):** Specific thresholds depend on gene mutation (e.g., $4.5\text{ cm}$ for *ACTA2*, $\ge 4.5\text{ cm}$ for *MYH11*, even smaller for *PRKG1* gain-of-function variants).
+* **Turner Syndrome (45,X):** Increased risk of aortic root/ascending dilation, coarctation, and dissection. Aortic size must be indexed to body surface area (Aortic Size Index, ASI: diameter in $\text{cm}/\text{BSA in m}^2$) or height. An **$\text{ASI} \ge 2.5\text{ cm/m}^2$** or diameter $\ge 4.0\text{ cm}$ denotes high dissection risk warranting surgical intervention.
+
+![Figure 18: Suggested Aortic Monitoring Protocol for Girls and Women With Turner Syndrome](images/fig18_monitoring_turner_syndrome.jpg)
+
+
+
+#### Table 13: Surgical Thresholds for Prophylactic Aortic Root and Ascending Aortic Replacement in Nonsyndromic Heritable Thoracic Aortic Disease Based on the Genetic Variant and Additional Risk Factors for Aortic Dissection^[a]
+
+| COR | LOE | Genetic Variant | Risk Factors | Aortic Diameter (cm) |
+|---|---|---|---|---|
+| 2a | C-LD | ACTA2 | No | ≥4.5 |
+| 2b | C-EO | ACTA2 | Yes | ≥4.2 |
+| 2b | C-LD | PRKG1 | No | ≥4.2 |
+| 2b | C-EO | PRKG1 | Yes | ≥4.0 |
+
+
+### Recommendation Table 13 — Recommendations for Diagnostic Testing, Surveillance, and Surgical Intervention for Aortic Dilation in Turner Syndrome
+
+**Turner Syndrome: Testing, Surveillance, and Surgery**
+
+| Recommendations | Class | Level |
+|---|:---:|:---:|
+| In patients with Turner syndrome, TTE and cardiac MRI are recommended at the time of diagnosis to evaluate for BAV, aortic root and ascending aortic dilation, aortic coarctation, and other congenital heart defects. | **I** | **B-NR** |
+| In patients with Turner syndrome who are ≥15 years old, the use of the ASI (ratio of aortic diameter [cm] to BSA [m2]) is recommended to define the degree of aortic dilation and assess the risk of aortic dissection. | **I** | **B-NR** |
+| In patients with Turner syndrome without risk factors for aortic dissection (Table 12), surveillance imaging with TTE or MRI to evaluate the aorta is recommended every 5 years in children and every 10 years in adults, as well as before planning a pregnancy. | **I** | **C-LD** |
+| In patients with Turner syndrome and an ASI >2.3 cm/m2, surveillance imaging of the aorta is recommended at least annually. | **I** | **C-EO** |
+| In patients with Turner syndrome and risk factors for aortic dissection (Table 12), surveillance aortic imaging at an interval depending on the aortic diameter, ASI, and aortic growth rate is recommended (Figure 18). | **I** | **C-EO** |
+| In patients with Turner syndrome who are ≥15 years old and have an ASI of ≥2.5 cm/m2 plus risk factors for aortic dissection (Table 12), surgical intervention to replace the aortic root, ascending aorta, or both is reasonable. | **IIa** | **C-LD** |
+| In those without risk factors for aortic dissection, surgical intervention to replace the aortic root, ascending aorta, or both may be considered. | **IIb** | **C-EO** |
+
+
+#### 6.1.3 Bicuspid Aortic Valve (BAV) Aortopathy
+Bicuspid aortic valve occurs in 1% to 2% of the population and is complicated by ascending aortic aneurysm in up to 50% of individuals due to intrinsic matrix disruption and altered hemodynamics:
+* **Imaging Surveillance (Class 1, Level B-NR):** Baseline measurement of aortic root and ascending aorta by echocardiography, CTA, or MRA, with serial follow-up based on diameter.
+* **Surgical Intervention Thresholds:**
+  - In patients with BAV undergoing surgical aortic valve replacement (SAVR) for severe stenosis or regurgitation, replacement of the ascending aorta is recommended if diameter **$\ge 4.5\text{ cm}$** (Class 1, Level B-NR).
+  - In asymptomatic patients with BAV without severe valve dysfunction, elective aortic surgery is recommended at **$\ge 5.0\text{ cm}$** when performed by a Multidisciplinary Aortic Team with low operative mortality (Class 2a, Level B-NR; otherwise $\ge 5.5\text{ cm}$).
+  - In patients with BAV and high-risk features (family history of dissection, rapid expansion $\ge 0.5\text{ cm/year}$, coarctation, or uncontrolled hypertension), elective surgery is reasonable at **$\ge 5.0\text{ cm}$** (Class 2a, Level B-NR).
+
+
+
+#### Table 14: Risk Factors for Aortic Dissection
+
+| Risk Factors for Aortic Dissection |
+|---|
+| Family history of aortic dissection |
+| Aortic growth rate ≥0.3 cm/y |
+| Aortic coarctation |
+| "Root phenotype" aortopathy |
+
+
+### Recommendation Table 14 — Recommendations for BAV Aortopathy
+
+**BAV Aortopathy**
+
+| Recommendations | Class | Level |
+|---|:---:|:---:|
+| In patients with a BAV, TTE is indicated to evaluate valve morphology and function, to evaluate the diameter of the aortic root and ascending aorta, and to evaluate for aortic coarctation and other associated cardiovascular defects. | **I** | **B-NR** |
+| In patients with a BAV, CT or MRI of the thoracic aorta is indicated when the diameter and morphology of the aortic root, ascending aorta, or both cannot be assessed accurately or completely by TTE. | **I** | **C-LD** |
+| In patients with a BAV and either HTAD or phenotypic features concerning for Loeys-Dietz syndrome, a medical genetics evaluation is recommended. | **I** | **C-LD** |
+| In patients with a BAV and a dilated aortic root or ascending aorta, screening of all first-degree relatives by TTE is recommended to evaluate for the presence of a BAV, dilation of the aortic root and ascending aorta, or both; if the diameter and morphology of the aortic root, ascending aorta, or both cannot be assessed accurately or completely by TTE, a cardiac-gated CT or MRI of the thoracic aorta is indicated. | **I** | **C-LD** |
+| In patients with a BAV, screening of all first-degree relatives by TTE is reasonable to evaluate for the presence of a BAV, dilation of the aortic root and ascending aorta, or both. | **IIa** | **B-NR** |
+
+
+### Recommendation Table 15 — Recommendations for Routine Follow-Up of BAV Disease Aortopathy
+
+**Routine Follow-Up of BAV Disease Aortopathy**
+
+| Recommendations | Class | Level |
+|---|:---:|:---:|
+| In patients with a BAV who have undergone previous aortic valve repair or replacement and have a diameter of the aortic root, ascending aortic, or both of ≥4.0 cm, lifelong surveillance imaging of the aortic root and ascending aorta by TTE, CT, or MRI is recommended at an interval dependent on aortic diameter and rate of growth. | **I** | **B-NR** |
+| In patients with a BAV and a diameter of the aortic root, ascending aorta, or both of ≥4.0 cm, lifelong surveillance imaging of the aortic root and ascending aorta by TTE, CT, or MRI is recommended at an interval dependent on aortic diameter and rate of growth. | **I** | **C-LD** |
+
+
+### Recommendation Table 16 — Recommendations for BAV Aortopathy Interventions: Replacement of the Aorta in Patients With BAV
+
+**Replacement of the Aorta in Patients With BAV**
+
+| Recommendations | Class | Level |
+|---|:---:|:---:|
+| In patients with a BAV and a diameter of the aortic root, ascending aorta, or both of ≥5.5 cm, surgery to replace the aortic root, ascending aorta, or both is recommended. | **I** | **B-NR** |
+| In patients with a BAV and a cross-sectional aortic root or ascending aortic area (cm2) to height (m) ratio of ≥10 cm2/m, surgery to replace the aortic root, ascending aorta, or both is reasonable, when performed by experienced surgeons in a Multidisciplinary Aortic Team. | **IIa** | **B-NR** |
+| In patients with a BAV, a diameter of the aortic root or ascending aorta of 5.0 cm to 5.4 cm, and an additional risk factor for aortic dissection (Table 14), surgery to replace the aortic root, ascending aorta, or both is reasonable, when performed by experienced surgeons in a Multidisciplinary Aortic Team. | **IIa** | **B-NR** |
+| In patients with a BAV who are undergoing surgical aortic valve repair or replacement, and who have a diameter of the aortic root or ascending aorta of ≥4.5 cm, concomitant replacement of the aortic root, ascending aorta, or both is reasonable, when performed by experienced surgeons in a Multidisciplinary Aortic Team. | **IIa** | **B-NR** |
+| In patients with a BAV, a diameter of the aortic root or ascending aorta of 5.0 cm to 5.4 cm, no other risk factors for aortic dissection (Table 14), and at low surgical risk, surgery to replace the aortic root, ascending aorta, or both may be reasonable, when performed by experienced surgeons in a Multidisciplinary Aortic Team. | **IIb** | **B-NR** |
+
+
+### 6.2 Abdominal Aortic Aneurysm (AAA): Causes, Risk Factors, and Screening
+* Abdominal aortic aneurysm is defined as an infrarenal aortic diameter $\ge 3.0\text{ cm}$.
+* **Ultrasound Screening Recommendations:**
+  - One-time screening duplex ultrasound is recommended for all **men aged 65 to 75 who have ever smoked** ($\ge 100$ cigarettes in lifetime) (Class 1, Level of Evidence A).
+  - Screening duplex ultrasound is reasonable for **men aged 65 to 75 who have never smoked** but have a first-degree relative with AAA (Class 2a, Level B-NR).
+  - Screening is reasonable for **women aged 65 to 75 who have ever smoked** and/or have a family history of AAA (Class 2a, Level B-NR).
+
+![Figure 19: Algorithm for Identifying Patients to Screen for Abdominal Aortic Aneurysm](images/fig19_screening_algorithm_aaa.jpg)
+
+
+
+#### Table 15: Risk Factors for Abdominal Aortic Aneurysm
+
+| Strong Risk Factors | Additional Risk Factors |
+|---|---|
+| Smoking history | Hypertension |
+| Older age | Hyperlipidemia |
+| Male sex | White race |
+| Family history of abdominal aortic aneurysm | Inherited vascular connective tissue disorder |
+| — | Atherosclerotic cardiovascular disease |
+
+
+### Recommendation Table 17 — Recommendations for AAA: Cause, Risk Factors, and Screening
+
+**AAA: Cause, Risk Factors, and Screening**
+
+| Recommendations | Class | Level |
+|---|:---:|:---:|
+| In men who are ≥65 years of age who have ever smoked, ultrasound screening for detection of AAA is recommended. | **I** | **B-R** |
+| In men or women who are ≥65 years of age and who are first-degree relatives of patients with AAA, ultrasound screening for detection of AAA is recommended. | **I** | **C-LD** |
+| In women who are ≥65 years of age who have ever smoked, ultrasound screening for detection of AAA is reasonable. | **IIa** | **C-EO** |
+| In men or women <65 years of age and who have multiple risk factors (Table 15) or a first-degree relative with AAA, ultrasound screening for AAA may be considered. | **IIb** | **C-LD** |
+| In asymptomatic men or women >75 years who have had a negative initial ultrasound screen, repeat screening for detection of AAA is not recommended. | **III-no-benefit** | **B-NR** |
+
+
+### 6.3 & 6.4 Medical Therapy and Surveillance for Aortic Aneurysms
+* **Blood Pressure Control:** Antihypertensive therapy targeting blood pressure **$< 130/80\text{ mm Hg}$** is recommended in all patients with thoracic or abdominal aortic aneurysms to reduce wall shear stress (Class 1, Level B-NR). Beta-blockers are preferred first-line agents in TAA.
+* **Statin Therapy:** Moderate-to-high intensity statins are recommended for all patients with degenerative TAA or AAA to reduce cardiovascular events (Class 1, Level A).
+* **Smoking Cessation:** Smoking is the strongest modifiable risk factor for aneurysm growth and rupture; aggressive cessation interventions are mandatory (Class 1, Level A).
+* **Antiplatelet Therapy:** Low-dose aspirin ($81\text{ to }100\text{ mg/day}$) is recommended in patients with atherosclerotic aneurysm disease (Class 1, Level A).
+* **Surveillance Intervals:**
+  - **Thoracic Aorta:** Diameter $4.0\text{ to }4.9\text{ cm}$: annual imaging (CTA or MRA); diameter $\ge 5.0\text{ cm}$: imaging every 6 months.
+  - **Abdominal Aorta:** Diameter $3.0\text{ to }3.9\text{ cm}$: ultrasound every 3 years; diameter $4.0\text{ to }4.9\text{ cm}$: ultrasound annually; diameter $5.0\text{ to }5.4\text{ cm}$: ultrasound or CTA every 6 months.
+
+
+
+### Recommendation Table 18 — Recommendations for BP Management in TAA
+
+**BP Management in TAA**
+
+| Recommendations | Class | Level |
+|---|:---:|:---:|
+| In patients with TAA and an average systolic BP (SBP) of ≥130 mm Hg or an average diastolic BP (DBP) of ≥80 mm Hg, the use of antihypertensive medications is recommended to reduce risk of cardiovascular events. | **I** | **B-NR** |
+| In patients with TAA, regardless of cause and in the absence of contraindications, use of beta blockers to achieve target BP goals is reasonable. | **IIa** | **C-LD** |
+| In patients with TAA, regardless of etiology and in the absence of contraindications, ARB therapy is a reasonable adjunct to beta-blocker therapy to achieve target BP goals. | **IIa** | **C-EO** |
+
+
+### Recommendation Table 19 — Recommendations for Treatment of TAA With Statins
+
+**Treatment of TAA With Statins**
+
+| Recommendations | Class | Level |
+|---|:---:|:---:|
+| In patients with TAA and imaging or clinical evidence of atherosclerosis, statin therapy at moderate or high intensity is reasonable. | **IIa** | **C-LD** |
+| In patients with TAA who have no evidence of atherosclerosis, the use of statin therapy may be considered. | **IIb** | **C-LD** |
+
+
+### Recommendation Table 20 — Recommendation for Smoking Cessation in TAA
+
+**Smoking Cessation in TAA**
+
+| Recommendations | Class | Level |
+|---|:---:|:---:|
+| In patients with TAA who smoke cigarettes, smoking cessation efforts are recommended. | **I** | **C-LD** |
+
+
+### Recommendation Table 21 — Recommendation for Antiplatelet Therapy in TAA
+
+**Antiplatelet Therapy in TAA**
+
+| Recommendations | Class | Level |
+|---|:---:|:---:|
+| In patients with atherosclerotic TAA and concomitant aortic atheroma or PAU, the use of low-dose aspirin is reasonable, unless contraindicated. | **IIa** | **C-EO** |
+
+
+### Recommendation Table 22 — Recommendation for BP Management in AAA
+
+**BP Management in AAA**
+
+| Recommendations | Class | Level |
+|---|:---:|:---:|
+| In patients with AAA and an average SBP of ≥130 mm Hg, or an average DBP of ≥80 mm Hg, the use of antihypertensive medication is recommended to reduce risk of cardiovascular events. | **I** | **B-NR** |
+
+
+### Recommendation Table 23 — Recommendations for Treatment of AAA With Statins
+
+**Treatment of AAA With Statins**
+
+| Recommendations | Class | Level |
+|---|:---:|:---:|
+| In patients with AAA and evidence of aortic atherosclerosis, statin therapy at moderate or high intensity is recommended. | **I** | **B-NR** |
+| In patients with AAA but no evidence of atherosclerosis, statin therapy may be considered. | **IIb** | **C-LD** |
+
+
+### Recommendation Table 24 — Recommendation for Smoking Cessation in AAA
+
+**Smoking Cessation in AAA**
+
+| Recommendations | Class | Level |
+|---|:---:|:---:|
+| In patients with AAA who smoke cigarettes, smoking cessation efforts are recommended. | **I** | **C-LD** |
+
+
+### Recommendation Table 25 — Recommendation for Antithrombotic Therapy in AAA
+
+**Antithrombotic Therapy in AAA**
+
+| Recommendations | Class | Level |
+|---|:---:|:---:|
+| In patients with AAA with concomitant atheroma and/or PAU, the use of low-dose aspirin may be considered, unless contraindicated. | **IIb** | **C-LD** |
+
+
+### Recommendation Table 26 — Recommendations for Surveillance of Thoracic Aortic Dilation and Aneurysm
+
+**Surveillance of Thoracic Aortic Dilation and Aneurysm**
+
+| Recommendations | Class | Level |
+|---|:---:|:---:|
+| In patients with a dilated thoracic aorta, a TTE is recommended at the time of diagnosis to assess aortic valve anatomy, aortic valve function, and thoracic aortic diameters. | **I** | **C-LD** |
+| In patients with a dilated thoracic aorta, a CT or MRI at the time of diagnosis is reasonable to assess thoracic aortic anatomy and diameters. | **IIa** | **C-LD** |
+| In patients with a dilated thoracic aorta, follow-up imaging (with TTE, CT, or MRI, as appropriate based on individual anatomy) in 6 to 12 months is reasonable to determine the rate of aortic enlargement; if stable, surveillance imaging every 6 to 24 months (depending on aortic diameter) is reasonable. | **IIa** | **C-LD** |
+
+
+### Recommendation Table 27 — Recommendations for Surveillance of Abdominal Aortic Dilation and Aneurysm
+
+**Surveillance of Abdominal Aortic Dilation and Aneurysm**
+
+| Recommendations | Class | Level |
+|---|:---:|:---:|
+| In patients with an AAA of 3.0 cm to 3.9 cm, surveillance ultrasound is recommended every 3 years to assess for interval change. | **I** | **B-NR** |
+| In men with an AAA of 4.0 cm to 4.9 cm and in women with an AAA of 4.0 cm to 4.4 cm, surveillance ultrasound is recommended annually to assess for interval change. | **I** | **B-NR** |
+| In men with an AAA of ≥5.0 cm and women with an AAA of ≥4.5 cm, surveillance ultrasound is recommended every 6 months to assess for interval change. | **I** | **B-NR** |
+| In patients with an AAA that is inadequately defined with ultrasound, surveillance CT is recommended. | **I** | **C-EO** |
+| In such patients, when there is a contraindication to CT or to lower cumulative radiation risk, surveillance MRI is reasonable. | **IIa** | **C-LD** |
+| In patients with an AAA that meets criteria for repair, CT is recommended for preoperative planning. | **I** | **C-EO** |
+
+
+### 6.5 Surgical and Endovascular Management of Aortic Aneurysms
+
+#### 6.5.1 Surgery for Sporadic Aneurysms of Root and Ascending Aorta
+* **Elective Surgical Thresholds:**
+  - In asymptomatic patients with sporadic root or ascending aneurysm, elective surgery is recommended at **$\ge 5.5\text{ cm}$** (Class 1, Level of Evidence B-NR).
+  - In centers with a Multidisciplinary Aortic Team and documented low operative mortality ($< 1\%$), elective repair is reasonable at **$\ge 5.0\text{ cm}$** in selected low-risk patients (Class 2a, Level B-NR).
+  - Rapid growth rate **$\ge 0.5\text{ cm/year}$** or **$\ge 0.3\text{ cm/year}$** for 2 consecutive years warrants surgery (Class 2a, Level B-NR).
+  - When undergoing cardiac surgery for valve or coronary disease, concomitant ascending aortic repair is recommended at **$\ge 4.5\text{ cm}$** (Class 1, Level B-NR).
+
+
+
+### Recommendation Table 28 — Recommendations for Surgery for Sporadic Aneurysms of the Aortic Root and Ascending Aorta
+
+**Surgery for Sporadic Aneurysms of the Aortic Root and Ascending Aorta**
+
+| Recommendations | Class | Level |
+|---|:---:|:---:|
+| In patients with aneurysms of the aortic root and ascending aorta who have symptoms attributable to the aneurysm, surgery is indicated. | **I** | **C-LD** |
+| In asymptomatic patients with aneurysms of the aortic root or ascending aorta who have a maximum diameter of ≥5.5 cm, surgery is indicated. | **I** | **B-NR** |
+| In patients with an aneurysm of the aortic root or ascending aorta of <5.5 cm, whose growth rate confirmed by tomographic imaging is ≥0.3 cm/y in 2 consecutive years, or ≥0.5 cm in 1 year, surgery is indicated. | **I** | **C-LD** |
+| In asymptomatic patients with aneurysms of the aortic root or ascending aorta who have a maximum diameter of ≥5.0 cm, surgery is reasonable when performed by experienced surgeons in a Multidisciplinary Aortic Team. | **IIa** | **B-NR** |
+| In patients undergoing repair or replacement of a tricuspid aortic valve who have a concomitant aneurysm of the ascending aorta with a maximum diameter of ≥4.5 cm, ascending aortic replacement is reasonable when performed by experienced surgeons in a Multidisciplinary Aortic Team. | **IIa** | **B-NR** |
+| In patients undergoing repair or replacement of a tricuspid aortic valve who have a concomitant aneurysm of the ascending aorta with a maximum diameter of ≥5.0 cm, ascending aortic replacement is reasonable. | **IIa** | **B-NR** |
+| In patients undergoing cardiac surgery for indications other than aortic valve repair or replacement who have a concomitant aneurysm of ascending aorta with a maximum diameter of ≥5.0 cm, ascending aortic replacement may be reasonable. | **IIb** | **C-LD** |
+| In patients with a height >1 standard deviation above or below the mean who have an asymptomatic aneurysm of the aortic root or ascending aorta and a maximal cross-sectional aortic area/height ratio of ≥10 cm2/m, surgery is reasonable when performed by experienced surgeons in a Multidisciplinary Aortic Team. | **IIa** | **C-LD** |
+| In asymptomatic patients with aneurysms of the aortic root or ascending aorta who have either an ASI of ≥3.08 cm/m2 or AHI of ≥3.21 cm/m, surgery may be reasonable when performed by experienced surgeons in a Multidisciplinary Aortic Team. | **IIb** | **C-LD** |
+
+
+### Recommendation Table 29 — Recommendations for Surgical Approach for Patients With Sporadic Aneurysms of the Aortic Root and Ascending Aorta Meeting Criteria for Surgery
+
+**Surgical Approach for Sporadic Aneurysms of the Aortic Root and Ascending Aorta**
+
+| Recommendations | Class | Level |
+|---|:---:|:---:|
+| In patients with an aneurysm isolated to the ascending aorta who meet criteria for surgery, aneurysm resection and replacement with an interposition graft should be performed. | **I** | **B-NR** |
+| In patients undergoing aortic valve repair or replacement with a concomitant ascending aortic aneurysm, a separate aortic valve intervention and ascending aortic graft is recommended. | **I** | **B-NR** |
+| In patients undergoing aortic root replacement with an aortic valve that is unsuitable for sparing or repair, a mechanical or biological valved conduit aortic root replacement is indicated. | **I** | **B-NR** |
+| In patients undergoing aortic root replacement, valve-sparing aortic root replacement is reasonable if the aortic valve is suitable for sparing or repair and when performed by experienced surgeons in a Multidisciplinary Aortic Team. | **IIa** | **B-NR** |
+
+
+#### 6.5.2 Aortic Arch Aneurysms
+* Elective surgical repair of isolated arch aneurysms is reasonable at an external diameter **$\ge 5.5\text{ cm}$** (Class 2a, Level B-NR).
+* Total arch replacement with hypothermic circulatory arrest, selective antegrade cerebral perfusion, and frozen elephant trunk (FET) technique provides a stable landing zone for subsequent downstream endovascular extension.
+
+
+
+### Recommendation Table 30 — Recommendations for Aortic Arch Aneurysms
+
+**Aortic Arch Aneurysms**
+
+| Recommendations | Class | Level |
+|---|:---:|:---:|
+| In patients with an aortic arch aneurysm who have symptoms attributable to the aneurysm and are at low or intermediate operative risk, open surgical replacement is recommended. | **I** | **C-EO** |
+| In patients with an isolated aortic arch aneurysm who are asymptomatic and have a low operative risk, open surgical replacement at an arch diameter of ≥5.5 cm is reasonable. | **IIa** | **B-NR** |
+| In patients undergoing open surgical repair of an ascending aortic aneurysm, if the aneurysmal disease extends into the proximal aortic arch, it is reasonable to extend the repair with a hemiarch replacement. | **IIa** | **C-LD** |
+| In patients undergoing open surgical repair of an aortic arch aneurysm, if the aneurysmal disease extends into the proximal descending thoracic aorta, an elephant trunk procedure may be considered. | **IIb** | **C-LD** |
+| In patients with an aortic arch aneurysm who are asymptomatic but meet criteria for intervention, but have a high risk from open surgical repair, a hybrid or endovascular approach may be reasonable. | **IIb** | **C-EO** |
+
+
+#### 6.5.3 Descending Thoracic Aorta (DTAA)
+* **TEVAR as Primary Intervention:** Thoracic endovascular aortic repair (TEVAR) is the preferred intervention over open thoracotomy in patients with suitable anatomy (adequate proximal and distal seal zones $\ge 20\text{ mm}$ and access vessel diameter) (Class 1, Level of Evidence B-NR).
+* **Intervention Thresholds:**
+  - TEVAR is recommended for degenerative DTAA at **$\ge 5.5\text{ cm}$** (Class 1, Level B-NR).
+  - Open surgical repair is recommended at **$\ge 6.0\text{ cm}$** (or $\ge 5.5\text{ cm}$ in connective tissue disorders) when anatomy is unsuitable for TEVAR (Class 1, Level B-NR).
+* **Left Subclavian Artery (LSA) Revascularization (Class 1, Level B-NR):** When TEVAR coverage of the LSA origin is required to achieve an adequate proximal landing zone (Zone 2), elective prophylactic revascularization (carotid-subclavian bypass or transposition) is recommended to prevent posterior circulation stroke, left arm ischemia, and spinal cord ischemia.
+
+
+
+#### Table 16: Adverse Aortic Events at 1 Year, Based on Baseline Aortic Diameter, Among Patients With Descending TAA
+
+| Aortic Diameter (cm) | Definite Aortic Event (%) | Probable Aortic Event (%) |
+|---|---|---|
+| 5.0 | 5.5 | 8.0 |
+| 5.5 | 7.2 | 11.2 |
+| 6.0 | 9.3 | 15.6 |
+| 7.0 | 15.4 | 28.1 |
+
+
+#### Table 17: Risk Factors for Aortic Rupture Among Patients With Descending TAA
+
+| High-Risk Features for Rupture |
+|---|
+| Aneurysm growth of ≥0.5 cm/y |
+| Symptomatic aneurysm |
+| Marfan, Loeys-Dietz, or vascular Ehlers-Danlos syndrome, or HTAD (see Section 6.1.2, "Genetic Aortopathies") |
+| Saccular aneurysm |
+| Female sex |
+| Infectious aneurysm |
+
+
+#### Table 18: Patient Characteristics Associated With Increased Perioperative Morbidity and Mortality After Open and Endovascular Repair of Descending TAA
+
+| Open Surgical Repair | Endovascular Repair |
+|---|---|
+| Advanced age<br>• 65–74 y (OR, 1.8; 95% CI, 1.4–2.4; *P*<0.001)<br>• ≥75 y (OR, 2.6; 95% CI, 2.0–3.5; *P*<0.001) | Functional dependence |
+| Preoperative renal insufficiency (stage 3 or greater CKD) or hemodialysis | Thoracoabdominal aortic aneurysm extent |
+| COPD and FEV1 ≤50% predicted | Pulmonary disease |
+| Previous stroke | Need for iliac access |
+| — | Zone 1/2 landing for thoracic stent graft |
+
+
+### Recommendation Table 31 — Recommendations for Size Thresholds for Repair of Descending TAA
+
+**Size Thresholds for Repair of Descending TAA**
+
+| Recommendations | Class | Level |
+|---|:---:|:---:|
+| In patients with intact descending TAA, repair is recommended when the diameter is ≥5.5 cm. | **I** | **B-NR** |
+| In patients with intact descending TAA and risk factors for rupture (Table 17), repair may be considered at a diameter of <5.5 cm. | **IIb** | **B-NR** |
+| In patients at increased risk for perioperative morbidity and mortality (Table 18), it may be reasonable to increase the size threshold for surgery accordingly. | **IIb** | **B-NR** |
+
+
+### Recommendation Table 32 — Recommendations for Endovascular Versus Open Repair of Descending TAA
+
+**Endovascular Versus Open Repair of Descending TAA**
+
+| Recommendations | Class | Level |
+|---|:---:|:---:|
+| In patients without Marfan syndrome, Loeys-Dietz syndrome, or vascular Ehlers-Danlos syndrome, who have a descending TAA that meets criteria for intervention and anatomy suitable for endovascular repair, TEVAR is recommended over open surgery. | **I** | **B-NR** |
+| In patients with a descending TAA that meets criteria for repair with TEVAR, who have smaller or diseased access vessels, considerations for alternative vascular access are recommended. | **I** | **B-NR** |
+| In patients with a descending TAA that meets criteria for intervention, who have anatomy unsuitable for endovascular repair, and who are without significant comorbidities and have a life expectancy of at least 10 years, open surgical repair is reasonable. | **IIa** | **B-NR** |
+
+
+### Recommendation Table 33 — Recommendations for Left Subclavian Artery Management
+
+**Left Subclavian Artery Management**
+
+| Recommendations | Class | Level |
+|---|:---:|:---:|
+| In patients with descending TAA who undergo TEVAR with planned left subclavian artery coverage, revascularization of the left subclavian artery before TEVAR is recommended to prevent spinal cord injury (SCI) and potentially to reduce stroke risk and prevent other ischemic complications. | **I** | **B-NR** |
+| In patients with descending TAA who have undergone TEVAR with left subclavian coverage and develop SCI that is unresponsive to an increase in BP or a cerebrospinal fluid drain, left subclavian artery revascularization may be considered. | **IIb** | **C-LD** |
+
+
+### Recommendation Table 34 — Recommendations for Ruptured Descending TAA
+
+**Ruptured Descending TAA**
+
+| Recommendations | Class | Level |
+|---|:---:|:---:|
+| In patients with ruptured descending TAA who are anatomic candidates for endovascular repair, TEVAR is recommended over open repair because of decreased perioperative death and morbidity. | **I** | **B-NR** |
+| In patients with ruptured descending TAA undergoing TEVAR, intentional coverage of the left subclavian artery, celiac artery, or both may be considered to increase the landing zone for endovascular repair. | **IIb** | **B-NR** |
+
+
+### Recommendation Table 35 — Recommendation for Celiac Artery Management
+
+**Celiac Artery Management**
+
+| Recommendations | Class | Level |
+|---|:---:|:---:|
+| In patients with descending TAA undergoing TEVAR in whom celiac artery coverage is being considered, it is reasonable to first confirm adequate collateralization. | **IIa** | **B-NR** |
+
+
+### Recommendation Table 36 — Recommendations for Access Issues for TEVAR in Descending TAA
+
+**Access Issues for TEVAR in Descending TAA**
+
+| Recommendations | Class | Level |
+|---|:---:|:---:|
+| In patients with descending TAA undergoing TEVAR, review of preoperative CTA of the iliofemoral vessels should be performed to evaluate access. | **I** | **B-NR** |
+| In patients with descending TAA undergoing TEVAR, if iliac access is marginal or inadequate to prevent access-related complications, the use of alternative conduits is recommended. | **I** | **B-NR** |
+| In patients with descending TAA undergoing TEVAR who have suitable anatomy, total percutaneous femoral access is a reasonable alternative to open surgical cutdown to avoid access-related complications. | **IIa** | **B-NR** |
+
+
+#### 6.5.4 Thoracoabdominal Aortic Aneurysms (TAAA)
+* **Intervention Thresholds:** Open or complex endovascular repair (fenestrated/branched EVAR, F/B-EVAR) is recommended for TAAA at **$\ge 6.0\text{ cm}$** (or $\ge 5.5\text{ cm}$ in connective tissue disorders or rapid expansion) (Class 1, Level B-NR).
+* **Spinal Cord Ischemia (SCI) Protection Bundle (Class 1, Level B-NR):**
+  - Cerebrospinal fluid (CSF) drainage targeting CSF pressure $\le 10\text{ mm Hg}$.
+  - Mean arterial pressure maintenance $> 80\text{--}90\text{ mm Hg}$.
+  - Intraoperative motor evoked potentials (MEP) and somatosensory evoked potentials (SSEP) neuromonitoring.
+  - Distal aortic perfusion during open clamp (left heart bypass or CPB).
+  - Re-implantation of critical segmental intercostal arteries (T9–T12).
+
+
+
+#### Table 19: Features Associated With an Increased Risk of TAAA Rupture
+
+| High-Risk Features for Rupture |
+|---|
+| Rapid growth (confirmed increase in diameter of ≥0.5 cm/y) |
+| Symptomatic aneurysm |
+| Significant change in aneurysm appearance |
+| Saccular aneurysm or presence of penetrating atherosclerotic ulcers |
+
+
+#### Table 20: Measures to Optimize Spinal Cord and End-Organ Perfusion
+
+| Measures to Optimize Spinal Cord and End-Organ Perfusion |
+|---|
+| Cardioversion for tachyarrhythmias |
+| Insertion of cerebrospinal fluid drain |
+| Increase mean arterial pressure to >100 mm Hg |
+| Transfuse to a hemoglobin >10 g/dL |
+| Volume resuscitation |
+
+
+### Recommendation Table 37 — Recommendations for Size Thresholds for Open Surgical Repair of TAAA
+
+**Size Thresholds for Open Surgical Repair of TAAA**
+
+| Recommendations | Class | Level |
+|---|:---:|:---:|
+| In patients with intact degenerative TAAA, repair is recommended when the diameter is ≥6.0 cm. | **I** | **B-NR** |
+| In patients with intact degenerative TAAA, repair is reasonable when the diameter is ≥5.5 cm and the repair is performed by experienced surgeons in a Multidisciplinary Aortic Team. | **IIa** | **B-NR** |
+| In patients with intact degenerative TAAA who have features associated with an increased risk of rupture (Table 19), repair is reasonable when the diameter is <5.5 cm. | **IIa** | **B-NR** |
+
+
+### Recommendation Table 38 — Recommendations for Open Versus Endovascular Repair of TAAA
+
+**Ruptured TAAA**
+
+| Recommendations | Class | Level |
+|---|:---:|:---:|
+| In patients with ruptured TAAA requiring intervention, open repair is recommended. | **I** | **B-NR** |
+| In patients with ruptured TAAA requiring intervention, provided that the patient is hemodynamically stable, endovascular repair may be reasonable in centers with endovascular expertise and access to appropriate endovascular stent grafts. | **IIb** | **C-LD** |
+
+**Intact TAAA**
+
+| Recommendations | Class | Level |
+|---|:---:|:---:|
+| In patients with Marfan syndrome, Loeys-Dietz syndrome, or vascular Ehlers-Danlos syndrome and intact TAAA requiring intervention, open repair is recommended over endovascular repair. | **I** | **C-LD** |
+| In patients with intact degenerative TAAA and suitable anatomy, endovascular repair with fenestrated stent grafts, branched stent grafts, or both may be considered in centers with endovascular expertise and access to appropriate endovascular stent grafts. | **IIb** | **B-NR** |
+
+
+### Recommendation Table 39 — Recommendations for TAAA Spinal Cord Protection
+
+**TAAA Spinal Cord Protection**
+
+| Recommendations | Class | Level |
+|---|:---:|:---:|
+| In patients undergoing open TAAA repair who are at high risk for SCI, cerebrospinal fluid drainage is recommended to reduce the incidence of temporary SCI, permanent SCI, or both. | **I** | **A** |
+| In patients who experience delayed spinal cord dysfunction after either open or endovascular TAAA repair, timely measures to optimize spinal cord perfusion and decrease intrathecal pressure are recommended (Table 20). | **I** | **B-NR** |
+
+
+### Recommendation Table 40 — Recommendations for TAAA Renal and Visceral Organ Protection
+
+**TAAA Renal and Visceral Organ Protection**
+
+| Recommendations | Class | Level |
+|---|:---:|:---:|
+| In patients undergoing open repair of TAAA involving the renal arteries, cold blood or crystalloid renal perfusion is recommended to provide effective protection against renal injury. | **I** | **A** |
+| In patients undergoing open or endovascular TAAA repair who have end-organ ischemia or significant stenoses from atherosclerotic visceral or renal artery disease, additional revascularization procedures are recommended. | **I** | **B-NR** |
+
+
+#### 6.5.5 Abdominal Aortic Aneurysms (AAA)
+* **Elective Repair Thresholds:**
+  - In men with asymptomatic infrarenal AAA, elective repair is recommended at **$\ge 5.5\text{ cm}$** (Class 1, Level of Evidence A).
+  - In women with asymptomatic AAA, elective repair is reasonable at **$\ge 5.0\text{ cm}$** due to significantly higher rupture risk at smaller diameters (Class 2a, Level B-NR).
+  - Rapid expansion **$\ge 0.5\text{ cm}$ within 6 months** warrants intervention (Class 2a, Level B-NR).
+* **EVAR Versus Open Surgical Repair:**
+  - Both EVAR and open surgical repair are effective strategies; choice of approach should be guided by arterial anatomy, patient comorbidities, and life expectancy. EVAR confers lower 30-day perioperative morbidity and mortality, but requires lifelong surveillance (Class 1, Level A).
+* **Ruptured AAA Management (Class 1, Level of Evidence B-NR):**
+  - Emergency protocol activation with **permissive hypotension** (target systolic $\text{BP } 70\text{--}90\text{ mm Hg}$ or $\text{MAP } 50\text{--}70\text{ mm Hg}$) while avoiding excessive crystalloid resuscitation.
+  - Immediate transfer to an operating room equipped for both endovascular and open surgical repair; EVAR is preferred over open repair if anatomically suitable.
+
+
+
+### Recommendation Table 41 — Recommendation for Access During Endovascular Repair of AAA
+
+**Access During Endovascular Repair of AAA**
+
+| Recommendations | Class | Level |
+|---|:---:|:---:|
+| In patients undergoing endovascular repair of AAA who have suitable common femoral artery anatomy, ultrasound-guided percutaneous access and closure is recommended over open cutdown to reduce operative time, blood loss, length of stay, time to wound healing, and pain. | **I** | **B-R** |
+
+
+### Recommendation Table 42 — Recommendations for Repair of Ruptured AAA
+
+**Repair of Ruptured AAA**
+
+| Recommendations | Class | Level |
+|---|:---:|:---:|
+| In patients presenting with ruptured AAA who are hemodynamically stable, CT imaging is recommended to evaluate whether the AAA is amenable to endovascular repair. | **I** | **B-R** |
+| In patients presenting with ruptured AAA who have suitable anatomy, endovascular repair is recommended over open repair to reduce the risk of morbidity and mortality. | **I** | **B-R** |
+| In patients undergoing endovascular repair for ruptured AAA, local anesthesia is preferred to general anesthesia to reduce risk of perioperative mortality. | **IIa** | **B-NR** |
+| In patients with ruptured AAA, permissive hypotension can be beneficial to decrease the rate of bleeding. | **IIa** | **C-LD** |
+
+
+### Recommendation Table 43 — Recommendations for the Threshold for AAA Repair
+
+**Threshold for AAA Repair**
+
+| Recommendations | Class | Level |
+|---|:---:|:---:|
+| In patients with unruptured AAA, repair is recommended in those with a maximal aneurysm diameter of ≥5.5 cm in men or ≥5.0 cm in women. | **I** | **A** |
+| In patients with unruptured AAA who have symptoms that are attributable to the aneurysm, repair is recommended to reduce the risk of rupture. | **I** | **B-NR** |
+| In patients with unruptured saccular AAA, intervention to reduce the risk of rupture may be reasonable. | **IIb** | **C-LD** |
+| In patients with unruptured AAA and aneurysm growth of ≥0.5 cm in 6 months, repair to reduce the risk of rupture may be reasonable. | **IIb** | **C-LD** |
+
+
+### Recommendation Table 44 — Recommendations for Open Versus Endovascular Repair of AAA
+
+**Open Versus Endovascular Repair of AAA**
+
+| Recommendations | Class | Level |
+|---|:---:|:---:|
+| In patients with nonruptured AAA with low to moderate operative risk and who have anatomy suitable for either open or EVAR, a shared decision-making process weighing the risks and benefits of each approach is recommended. | **I** | **A** |
+| In patients undergoing elective endovascular repair for nonruptured AAA, adherence to manufacturer's instructions for use is recommended. | **I** | **B-NR** |
+| In patients with nonruptured AAA and a high perioperative risk, EVAR is reasonable to reduce the risk of 30-day morbidity, mortality, or both. | **IIa** | **B-NR** |
+| For patients with nonruptured AAA, a moderate to high perioperative risk, and anatomy suitable for an FDA-approved fenestrated endovascular device, endovascular repair is reasonable over open repair to reduce the risk of perioperative complications. | **IIa** | **B-NR** |
+
+
+### Recommendation Table 45 — Recommendations for the Treatment of Concomitant Common Iliac Aneurysms
+
+**Treatment of Concomitant Common Iliac Aneurysms**
+
+| Recommendations | Class | Level |
+|---|:---:|:---:|
+| For patients with asymptomatic small AAA and concomitant common iliac artery aneurysm(s) ≥3.5 cm, elective repair of both abdominal and iliac aneurysms is recommended. | **I** | **C-LD** |
+| When treating common iliac artery aneurysms or ectasia as part of AAA repair, preservation of at least 1 hypogastric artery is recommended, if anatomically feasible, to decrease the risk of pelvic ischemia. | **I** | **B-NR** |
+
+
+#### 6.5.6 Surveillance After Aneurysm Repair
+* **Post-EVAR Surveillance:** Contrast CTA or duplex ultrasound at **1 month and 12 months** postoperatively; if no endoleak and sac is stable/shrinking, annual duplex ultrasound is recommended (Class 1, Level B-NR).
+* **Post-TEVAR Surveillance:** Baseline CTA at 1 month, 12 months, and annually thereafter (Class 1, Level B-NR).
+* **Post-Open Repair Surveillance:** Imaging at 1 year, then every 5 years to detect pseudoaneurysms or adjacent segment aneurysms (Class 1, Level C-LD).
+
+
+
+#### Table 21: Abnormal Findings on Duplex Imaging After EVAR That Should Prompt Additional Imaging
+
+| Abnormal Findings on Duplex Imaging After EVAR That Should Prompt Additional Imaging |
+|---|
+| Aneurysm sac enlargement |
+| Any endoleak |
+| Stent graft fracture |
+| Stent graft migration |
+| Stent graft separation |
+
+
+### Recommendation Table 46 — Recommendations for Surveillance After TAA Repair
+
+**Surveillance After TAA Repair**
+
+| Recommendations | Class | Level |
+|---|:---:|:---:|
+| In patients treated with TEVAR, surveillance imaging with CT is recommended after 1 month and 12 months and, if stable, annually thereafter. | **I** | **B-NR** |
+| In patients treated with TEVAR, longitudinal surveillance with MRI is a reasonable alternative to CT for reduction of long-term radiation exposure or avoidance of an iodinated contrast allergy. | **IIa** | **B-NR** |
+| In patients treated with open repair of the thoracic aorta without residual aortopathy, surveillance imaging with a CT or MRI within 1 year postoperatively and then every 5 years thereafter is reasonable. | **IIa** | **B-NR** |
+| In patients treated with open repair of the thoracic aorta who have residual aortopathy or abnormal findings on surveillance imaging, annual surveillance imaging is reasonable. | **IIa** | **C-EO** |
+
+
+### Recommendation Table 47 — Recommendations for Surveillance After AAA Repair
+
+**Surveillance After AAA Repair**
+
+| Recommendations | Class | Level |
+|---|:---:|:---:|
+| In patients with AAA treated with EVAR, baseline surveillance imaging with CT is recommended at 1 month postoperatively; if there is no evidence of endoleak or sac enlargement, continued surveillance with duplex ultrasound at 12 months and then annually thereafter is recommended. | **I** | **B-NR** |
+| In patients with AAA treated with EVAR who are undergoing annual surveillance imaging duplex ultrasound, additional cross-sectional imaging with CT or MRI of the abdomen and pelvis every 5 years postoperatively is reasonable. | **IIa** | **C-LD** |
+| In patients with AAA treated with EVAR and abnormal findings (Table 21) on any surveillance duplex ultrasound, additional cross-sectional imaging with CT or MRI is reasonable. | **IIa** | **C-LD** |
+| In patients with AAA treated with complex EVAR, a modified surveillance imaging plan that combines cross-sectional imaging and duplex ultrasound of target vessels is reasonable. | **IIa** | **C-LD** |
+| In patients with AAA who have undergone open repair, surveillance imaging with CT or MRI of the abdominopelvic aorta within 1 year postoperatively and then every 5 years thereafter is reasonable. | **IIa** | **C-LD** |
+
+
+</div></details>

@@ -1,0 +1,217 @@
+{
+  "schemaVersion": 1,
+  "id": "esc-hf-2026.t18-cha2ds2-va-score",
+  "guidelineId": "esc-hf-2026",
+  "number": "18",
+  "type": "grid",
+  "title": {
+    "en": "Updated definitions for the CHA2DS2-VA score",
+    "ru": "Обновленные критерии шкалы оценки риска CHA₂DS₂-VA"
+  },
+  "tags": [
+    "cha2ds2-va",
+    "atrial-fibrillation",
+    "stroke-risk",
+    "thromboembolism",
+    "anticoagulation",
+    "risk-stratification"
+  ],
+  "source": {
+    "expectedRows": 7
+  },
+  "i18nStatus": {
+    "ru": "reviewed"
+  },
+  "columns": [
+    {
+      "id": "acronym",
+      "title": {
+        "en": "Letter",
+        "ru": "Буква"
+      }
+    },
+    {
+      "id": "description",
+      "title": {
+        "en": "Description^[a]",
+        "ru": "Описание^[a]"
+      }
+    },
+    {
+      "id": "point",
+      "title": {
+        "en": "Points",
+        "ru": "Баллы"
+      }
+    }
+  ],
+  "rows": [
+    {
+      "id": "r01-c",
+      "cells": [
+        {
+          "text": {
+            "en": "**C**",
+            "ru": "**C**"
+          }
+        },
+        {
+          "text": {
+            "en": "Chronic HF stage B, C, D",
+            "ru": "Хроническая СН (стадии B, C, D)"
+          }
+        },
+        {
+          "text": {
+            "en": "1",
+            "ru": "1"
+          }
+        }
+      ]
+    },
+    {
+      "id": "r02-h",
+      "cells": [
+        {
+          "text": {
+            "en": "**H**",
+            "ru": "**H**"
+          }
+        },
+        {
+          "text": {
+            "en": "Hypertension",
+            "ru": "Артериальная гипертензия"
+          }
+        },
+        {
+          "text": {
+            "en": "1",
+            "ru": "1"
+          }
+        }
+      ]
+    },
+    {
+      "id": "r03-a2",
+      "cells": [
+        {
+          "text": {
+            "en": "**A**",
+            "ru": "**A**"
+          }
+        },
+        {
+          "text": {
+            "en": "Age ≥75 years",
+            "ru": "Возраст ≥75 лет"
+          }
+        },
+        {
+          "text": {
+            "en": "2",
+            "ru": "2"
+          }
+        }
+      ]
+    },
+    {
+      "id": "r04-d",
+      "cells": [
+        {
+          "text": {
+            "en": "**D**",
+            "ru": "**D**"
+          }
+        },
+        {
+          "text": {
+            "en": "Diabetes mellitus",
+            "ru": "Сахарный диабет"
+          }
+        },
+        {
+          "text": {
+            "en": "1",
+            "ru": "1"
+          }
+        }
+      ]
+    },
+    {
+      "id": "r05-s2",
+      "cells": [
+        {
+          "text": {
+            "en": "**S**",
+            "ru": "**S**"
+          }
+        },
+        {
+          "text": {
+            "en": "Stroke/transient ischaemic attack/arterial thromboembolism",
+            "ru": "Инсульт / транзиторная ишемическая атака / артериальная тромбоэмболия в анамнезе"
+          }
+        },
+        {
+          "text": {
+            "en": "2",
+            "ru": "2"
+          }
+        }
+      ]
+    },
+    {
+      "id": "r06-v",
+      "cells": [
+        {
+          "text": {
+            "en": "**V**",
+            "ru": "**V**"
+          }
+        },
+        {
+          "text": {
+            "en": "Vascular disease (CAD and/or PAD)",
+            "ru": "Сосудистые заболевания (ИБС и/или заболевания периферических артерий)"
+          }
+        },
+        {
+          "text": {
+            "en": "1",
+            "ru": "1"
+          }
+        }
+      ]
+    },
+    {
+      "id": "r07-a",
+      "cells": [
+        {
+          "text": {
+            "en": "**A**",
+            "ru": "**A**"
+          }
+        },
+        {
+          "text": {
+            "en": "Age 65–74 years",
+            "ru": "Возраст 65–74 года"
+          }
+        },
+        {
+          "text": {
+            "en": "1",
+            "ru": "1"
+          }
+        }
+      ]
+    }
+  ],
+  "footnotes": {
+    "a": {
+      "en": "A CHA2DS2-VA score of ≥2 is recommended, and a score of 1 should be considered, as an indicator of elevated thromboembolic risk for decisions on initiating oral anticoagulation.",
+      "ru": "Оценка по шкале CHA₂DS₂-VA ≥2 рекомендуется, а оценка в 1 балл должна рассматриваться как показатель повышенного тромбоэмболического риска для принятия решения о начале приема пероральных антикоагулянтов."
+    }
+  }
+}

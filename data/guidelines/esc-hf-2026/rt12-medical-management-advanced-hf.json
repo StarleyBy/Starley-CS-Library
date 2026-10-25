@@ -1,0 +1,79 @@
+{
+  "schemaVersion": 1,
+  "id": "esc-hf-2026.rt12-medical-management-advanced-hf",
+  "guidelineId": "esc-hf-2026",
+  "number": "Recommendation Table 12",
+  "type": "recommendations",
+  "title": {
+    "en": "Recommendations for medical management of advanced heart failure",
+    "ru": "Рекомендации по медикаментозному ведению терминальной (тяжелой) сердечной недостаточности"
+  },
+  "tags": [
+    "advanced-hf",
+    "hfref",
+    "beta-blockers-downtitration",
+    "ivabradine",
+    "inotropes",
+    "krt",
+    "kidney-replacement",
+    "ultrafiltration",
+    "btd",
+    "btt"
+  ],
+  "source": {
+    "expectedRows": 4
+  },
+  "i18nStatus": {
+    "ru": "reviewed"
+  },
+  "sections": [
+    {
+      "id": "sec-medical-management-advanced-hf",
+      "title": {
+        "en": "Recommendations for medical management of advanced heart failure (see Evidence Tables 72 and 73)",
+        "ru": "Рекомендации по медикаментозному ведению терминальной (тяжелой) сердечной недостаточности (см. Доказательные таблицы 72 и 73)"
+      },
+      "rows": [
+        {
+          "id": "r01",
+          "text": {
+            "en": "Down-titration or discontinuation of beta-blockers or ivabradine should be considered in selected patients with advanced HFrEF and evidence of organ hypoperfusion, despite initial treatment, to increase cardiac output and improve symptoms.",
+            "ru": "Снижение дозы или отмена бета-блокаторов либо ивабрадина должны рассматриваться у отдельных пациентов с терминальной СНнФВ и признаками гипоперфузии органов, сохраняющимися несмотря на стартовую терапию, для увеличения сердечного выброса и облегчения симптомов."
+          },
+          "class": "IIa",
+          "level": "C"
+        },
+        {
+          "id": "r02",
+          "text": {
+            "en": "Continuous inotropes should be considered in patients with advanced HFrEF, low cardiac output, and evidence of hypoperfusion or end-organ dysfunction, as BTD, BTT or as bridge to durable MCS, to increase cardiac output and improve symptoms.",
+            "ru": "Постоянная инфузия инотропных препаратов должна рассматриваться у пациентов с терминальной СНнФВ, низким сердечным выбросом и признаками гипоперфузии или дисфункции органов-мишеней в качестве BTD, BTT или моста к длительной МПК для увеличения сердечного выброса и облегчения симптомов."
+          },
+          "class": "IIa",
+          "level": "C",
+          "refs": [598, 599]
+        },
+        {
+          "id": "r03",
+          "text": {
+            "en": "Kidney replacement therapy should be considered in patients with refractory volume overload and end-stage kidney failure to improve symptoms.",
+            "ru": "Заместительная почечная терапия должна рассматриваться у пациентов с рефрактерной перегрузкой объемом и терминальной почечной недостаточностью для облегчения симптомов."
+          },
+          "class": "IIa",
+          "level": "C",
+          "refs": [600]
+        },
+        {
+          "id": "r04",
+          "text": {
+            "en": "Ultrafiltration may be considered in patients with refractory volume overload unresponsive to escalation of diuretic therapy to reduce the risk of rehospitalization.",
+            "ru": "Ультрафильтрация может быть рассмотрена у пациентов с рефрактерной перегрузкой объемом, не отвечающих на эскалацию диуретической терапии, для снижения риска повторной госпитализации."
+          },
+          "class": "IIb",
+          "level": "C",
+          "refs": [601]
+        }
+      ]
+    }
+  ]
+}

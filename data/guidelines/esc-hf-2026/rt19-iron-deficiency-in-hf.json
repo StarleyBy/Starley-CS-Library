@@ -1,0 +1,57 @@
+{
+  "schemaVersion": 1,
+  "id": "esc-hf-2026.rt19-iron-deficiency-in-hf",
+  "guidelineId": "esc-hf-2026",
+  "number": "Recommendation Table 19",
+  "type": "recommendations",
+  "title": {
+    "en": "Recommendations for iron deficiency in patients with heart failure",
+    "ru": "Рекомендации по дефициту железа у пациентов с сердечной недостаточностью"
+  },
+  "tags": [
+    "iron-deficiency",
+    "iv-iron",
+    "ferric-carboxymaltose",
+    "ferric-derisomaltose",
+    "hfref",
+    "qol",
+    "hfh"
+  ],
+  "source": {
+    "expectedRows": 2
+  },
+  "i18nStatus": {
+    "ru": "reviewed"
+  },
+  "sections": [
+    {
+      "id": "sec-iron-deficiency",
+      "title": {
+        "en": "Recommendations for iron deficiency in patients with heart failure (see Evidence Tables 87 and 88)",
+        "ru": "Рекомендации по дефициту железа у пациентов с сердечной недостаточностью (см. Доказательные таблицы 87 и 88)"
+      },
+      "rows": [
+        {
+          "id": "r01",
+          "text": {
+            "en": "Intravenous iron supplementation is recommended in patients with symptomatic HFrEF and iron deficiency to alleviate HF symptoms and improve QoL.",
+            "ru": "Внутривенное восполнение дефицита железа рекомендуется пациентам с симптомной СНнФВ (HFrEF) и дефицитом железа для облегчения симптомов СН и улучшения качества жизни."
+          },
+          "class": "I",
+          "level": "B1",
+          "refs": [875, 876, 877, 878, 879]
+        },
+        {
+          "id": "r02",
+          "text": {
+            "en": "Intravenous iron supplementation should be considered in patients with symptomatic HFrEF and iron deficiency to reduce the risk of HFH.",
+            "ru": "Внутривенное восполнение дефицита железа следует рассматривать у пациентов с симптомной СНнФВ (HFrEF) и дефицитом железа для снижения риска госпитализаций по поводу СН (HFH)."
+          },
+          "class": "IIa",
+          "level": "B1",
+          "refs": [872, 873, 874, 879, 881, 885, 886, 888]
+        }
+      ]
+    }
+  ]
+}

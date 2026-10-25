@@ -1,0 +1,201 @@
+<details class="med-details"><summary>
+
+## 5. [C] Comorbidity and Risk Factor Management</summary><div class="details-content">
+
+### 5.1 Systemic Pathophysiology and Upstream Modulation
+Atrial fibrillation is rarely an isolated electrical disorder; it represents the clinical manifestation of progressive atrial structural, electrophysiological, and autonomic remodelling driven by underlying cardiovascular disease, systemic comorbidities, and metabolic derangements. Chronic mechanical stretch, neurohormonal activation, microvascular ischaemia, systemic inflammation, and interstitial atrial fibrosis foster a substrate prone to electrical re-entry and ectopic firing.
+
+Aggressive, structured identification and treatment of upstream risk factors is a non-negotiable pillar of the AF-CARE pathway. Comprehensive lifestyle modification and target-driven medical management have been demonstrated to reduce AF symptom burden, lower episode frequency and duration, halt progression from paroxysmal to persistent AF, enhance success rates of catheter ablation, and significantly reduce cardiovascular hospitalizations and mortality.
+
+![Figure 8: Management of key comorbidities to reduce AF recurrence and progression](images/fig08_management_key_comorbidities.jpg)
+
+### 5.2 Arterial Hypertension
+Hypertension is the most prevalent predisposing comorbidity for AF, affecting over $70\text{--}80\%$ of AF cohorts. Elevated systolic and pulse pressures augment left ventricular afterload, promoting left ventricular hypertrophy, impaired diastolic relaxation, elevated left ventricular filling pressures, and secondary left atrial enlargement and stretch.
+* **Target Blood Pressure:** Blood pressure lowering treatment is recommended to achieve a resting office blood pressure $< 130/80\text{ mmHg}$ (specifically systolic $120\text{--}129\text{ mmHg}$ and diastolic $70\text{--}79\text{ mmHg}$ if tolerated, but avoiding SBP $< 120\text{ mmHg}$).
+* **Preferred Pharmacotherapy:** Renin-angiotensin-aldosterone system (RAAS) inhibitors (ACE inhibitors or ARBs) combined with dihydropyridine calcium channel blockers or thiazide/thiazide-like diuretics represent the first-line therapeutic foundation. RAAS blockade confers supplementary anti-fibrotic and anti-remodelling benefits in atrial tissue.
+
+### 5.3 Heart Failure
+Heart failure (HF) and AF share a bidirectional vicious circle: AF predisposes to HF through loss of atrial kick, rapid irregular ventricular response, and tachycardiomyopathy, while HF predisposes to AF through chronic atrial hypertension, stretch-mediated fibrosis, and neurohumoral activation.
+* **Guideline-Directed Medical Therapy (GDMT):** In AF patients with HF and reduced ejection fraction (HFrEF, LVEF $\le 40\%$) or mildly reduced ejection fraction (HFmrEF, LVEF $41\text{--}49\%$), four-pillar neurohormonal therapy (ARNI/ACEi, evidence-based beta-blocker, MRA, and SGLT2 inhibitor) is recommended to reduce mortality, HF hospitalizations, and AF recurrence.
+* **SGLT2 Inhibitor Breakthrough:** Sodium-glucose cotransporter-2 inhibitors (dapagliflozin, empagliflozin) are recommended across the entire spectrum of HF (HFrEF, HFmrEF, and HFpEF) in patients with AF, based on overwhelming evidence from DAPA-HF, DELIVER, EMPEROR-Reduced, and EMPEROR-Preserved trials demonstrating consistent reductions in cardiovascular death and worsening HF.
+* **Congestion Relief:** Loop diuretics are recommended to relieve congestion, optimize volume status, and facilitate safe uptitration of GDMT and rate-controlling medications.
+
+### 5.4 Diabetes Mellitus and Glycaemic Control
+Type 2 diabetes mellitus is an independent predictor of incident AF, thromboembolism, and cardiovascular death. Diabetic autonomic neuropathy, advanced glycation end-products, and epicardial adipose tissue inflammation promote atrial arrhythmogenesis. Structured glycaemic optimization (targeting HbA1c $< 7.0\%$ / $< 53\text{ mmol/mol}$) using modern agents with proven cardiovascular benefits (SGLT2 inhibitors and GLP-1 receptor agonists) is recommended as part of comprehensive risk factor management.
+
+### 5.5 Obesity and Weight Reduction
+Obesity (BMI $\ge 30\text{ kg/m}^2$) significantly expands epicardial fat volume, precipitates left atrial diastolic overload, promotes fibro-fatty infiltration of the atrial myocardium, and doubles the risk of post-ablation arrhythmia recurrence.
+* **Target Weight Loss:** A structured, multidisciplinary weight reduction programme aiming for $\ge 10\%$ body weight reduction (or BMI $< 27\text{ kg/m}^2$) is recommended in overweight and obese AF patients. Such weight loss yields sustained reductions in AF burden, reversal of atrial remodelling, and improved symptom control.
+* **Bariatric Surgery:** In morbidly obese individuals (BMI $\ge 40\text{ kg/m}^2$ or BMI $\ge 35\text{ kg/m}^2$ with obesity-related comorbidities) scheduled for rhythm control, metabolic/bariatric surgery may be considered when medical and lifestyle measures fail.
+
+### 5.6 Physical Activity and Cardiorespiratory Fitness
+Physical inactivity promotes systemic vascular stiffness, obesity, and hypertension. Conversely, regular, moderate-intensity aerobic exercise enhances autonomic balance, improves cardiorespiratory fitness ($VO_{2\text{peak}}$), and decreases AF recurrence:
+* A structured aerobic exercise programme of at least $150\text{ minutes/week}$ of moderate-intensity exercise (or $75\text{ minutes/week}$ of vigorous exercise) is recommended.
+* **Caution Regarding Extreme Endurance Sports:** High-volume, chronic lifetime endurance sports (marathon running, ultra-distance cycling) confer an elevated risk of incident AF due to chronic bi-atrial dilatation, heightened vagal tone, and localized micro-fibrosis.
+
+### 5.7 Alcohol Restriction
+Alcohol exerts direct electrophysiological cardiotoxicity, shortening atrial refractory periods, impairing intracellular calcium handling, and precipitating nocturnal vagal/adrenergic surges. Prospective randomized trials (such as the Australian Alcohol-AF trial) demonstrate that complete abstinence or substantial reduction in drinking dramatically cuts AF recurrences.
+* **Guideline Threshold:** Restricting alcohol consumption to $\le 3$ standard drinks per week ($\le 30\text{ g}$ of pure ethanol per week), or ideally complete abstinence, is recommended.
+
+### 5.8 Obstructive Sleep Apnoea (OSA)
+OSA affects up to $50\%$ of AF patients and is characterized by repetitive nocturnal upper airway collapses generating severe negative intrathoracic pressure swings, hypoxaemia, hypercapnia, and autonomic surges that trigger nocturnal AF paroxysms and attenuate ablation efficacy:
+* Formal diagnostic testing (overnight polysomnography or home polygraphy) is recommended in patients with suspected OSA. Symptom-based questionnaires alone (e.g. Epworth, STOP-Bang) exhibit poor specificity in AF populations and should not be relied upon exclusively.
+* Continuous positive airway pressure (CPAP) therapy should be considered to reduce nocturnal desaturation, improve quality of life, and reduce post-ablation AF recurrence.
+
+### Recommendation Table 5 — Recommendations for Comorbidity and Risk Factor Management in AF
+| Recommendations | Class | Level |
+|---|---|---|
+| Identification and management of risk factors and comorbidities is recommended as an integral part of AF care. | **I** | **B** |
+| Blood pressure lowering treatment is recommended in patients with AF and hypertension to reduce recurrence and progression of AF and prevent adverse cardiovascular events. | **I** | **B** |
+| Diuretics are recommended in patients with AF, HF, and congestion to alleviate symptoms and facilitate better AF management. | **I** | **C** |
+| Appropriate medical therapy for HF is recommended in AF patients with HF and impaired LVEF to reduce symptoms and/or HF hospitalization and prevent AF recurrence. | **I** | **B** |
+| Sodium-glucose cotransporter-2 inhibitors are recommended for patients with HF and AF regardless of left ventricular ejection fraction to reduce the risk of HF hospitalization and cardiovascular death. | **I** | **A** |
+| Effective glycaemic control is recommended as part of comprehensive risk factor management in individuals with diabetes mellitus and AF, to reduce burden, recurrence, and progression of AF. | **I** | **C** |
+| Weight loss is recommended as part of comprehensive risk factor management in overweight and obese individuals with AF to reduce symptoms and AF burden, with a target of $10\%$ or more reduction in body weight. | **I** | **B** |
+| A tailored exercise programme is recommended in individuals with paroxysmal or persistent AF to improve cardiorespiratory fitness and reduce AF recurrence. | **I** | **B** |
+| Reducing alcohol consumption to $\le 3$ standard drinks ($\le 30\text{ g}$ of alcohol) per week is recommended as part of comprehensive risk factor management to reduce AF recurrence. | **I** | **B** |
+| Bariatric surgery may be considered in conjunction with lifestyle changes and medical management in individuals with AF and body mass index $\ge 40\text{ kg/m}^2$ where a rhythm control strategy is planned, to reduce recurrence and progression of AF. | **IIb** | **C** |
+| Management of obstructive sleep apnoea may be considered as part of comprehensive management of risk factors in individuals with AF to reduce recurrence and progression. | **IIb** | **B** |
+| When screening for obstructive sleep apnoea in individuals with AF, using only symptom-based questionnaires is not recommended. | **III** | **C** |
+
+</div></details>
+
+<details class="med-details"><summary>
+
+## 6. [A] Avoid Stroke and Thromboembolism</summary><div class="details-content">
+
+### 6.1 Pathophysiology of Thromboembolism in AF
+Atrial fibrillation fulfills all components of Virchow's triad:
+1. **Endothelial Dysfunction:** Loss of normal endocardial shear stress, subendothelial collagen exposure, and elevated von Willebrand factor.
+2. **Stasis of Blood:** Ineffective mechanical atrial contraction and blood pooling, predominantly localized within the trabeculated left atrial appendage (LAA), where over $90\%$ of cardiac thrombi originate in non-rheumatic AF.
+3. **Hypercoagulability:** Systemic platelet activation, elevated prothrombin fragments F1+2, and circulating D-dimer.
+
+Without anticoagulation, clinical AF confers a 5-fold increase in the risk of ischaemic stroke. AF-related strokes are characteristically larger, more disabling, more frequently fatal, and prone to early hemorrhagic transformation compared to non-cardioembolic strokes.
+
+### 6.2 Modernized Stroke Risk Assessment: The CHA2DS2-VA Score
+Previous guidelines utilized the CHA2DS2-VASc score, which allocated 1 point for female sex ('Sc'). Extensive contemporary epidemiological data confirm that female sex is an age-dependent risk modifier that amplifies stroke risk only in the presence of $\ge 1$ other non-sex risk factor; in the absence of other risk factors (age $< 65$ and no comorbidities), women do not exhibit an increased risk of stroke compared to men. To eliminate clinical confusion and establish unified risk thresholds, the 2024 ESC Guidelines adopted the **CHA2DS2-VA score**, removing female sex from the point tally.
+
+#### Table 10: Updated Definitions for the CHA2DS2-VA Score
+| Score Component | Clinical Definition and Criteria | Points |
+|---|---|:---:|
+| **C — Chronic Heart Failure** | Symptoms and signs of heart failure (irrespective of LVEF, including HFpEF, HFmrEF, and HFrEF), or presence of asymptomatic LVEF $\le 40\%$. | **1** |
+| **H — Hypertension** | Resting blood pressure $> 140/90\text{ mmHg}$ on at least two separate occasions, or current antihypertensive treatment. (Target BP $120\text{--}129/70\text{--}79\text{ mmHg}$). | **1** |
+| **A2 — Age $\ge 75$ Years** | Age is the single most powerful continuous determinant of stroke risk. | **2** |
+| **D — Diabetes Mellitus** | Type 1 or type 2 diabetes mellitus, or current treatment with oral glucose-lowering drugs or insulin. | **1** |
+| **S2 — Prior Stroke, TIA, or Thromboembolism** | History of ischaemic stroke, transient ischaemic attack, or systemic arterial embolism. | **2** |
+| **V — Vascular Disease** | Clinically documented coronary artery disease (prior MI, angina, PCI, CABG), peripheral artery disease, or complex aortic atherosclerotic plaque. | **1** |
+| **A — Age 65–74 Years** | Intermediate age category conferring independent elevated thromboembolic risk. | **1** |
+| **Total Maximum Score** | | **9** |
+
+*Thresholds for Anticoagulation Initiation:*
+* **CHA2DS2-VA $\ge 2$:** Oral anticoagulation is **recommended** (Class I, Level A).
+* **CHA2DS2-VA = 1:** Oral anticoagulation **should be considered** (Class IIa, Level B), weighing individual stroke risk against bleeding risk.
+* **CHA2DS2-VA = 0:** Oral anticoagulation is **not recommended** (Class III, Level A).
+
+### Recommendation Table 6 — Recommendations to Assess and Manage Thromboembolic Risk in AF
+| Recommendations | Class | Level |
+|---|---|---|
+| Oral anticoagulation is recommended in patients with clinical AF at elevated thromboembolic risk to prevent ischaemic stroke and thromboembolism. | **I** | **A** |
+| In patients with clinical AF and an elevated thromboembolic risk ($\text{CHA2DS2-VA score} \ge 2$), oral anticoagulation is recommended. | **I** | **A** |
+| In patients with clinical AF and an intermediate thromboembolic risk ($\text{CHA2DS2-VA score} = 1$), oral anticoagulation should be considered. | **IIa** | **B** |
+| In patients with clinical AF and low thromboembolic risk ($\text{CHA2DS2-VA score} = 0$), oral anticoagulation is not recommended. | **III** | **A** |
+| For the assessment of stroke risk, the CHA2DS2-VA score is recommended. | **I** | **A** |
+
+### 6.3 Oral Anticoagulation: Direct Oral Anticoagulants (DOACs) vs VKAs
+Direct oral anticoagulants (apixaban, dabigatran, edoxaban, rivaroxaban) have fundamentally supplanted Vitamin K Antagonists (VKAs) across all non-valvular AF clinical trials. In a pooled meta-analysis of pivotal Phase III trials ($> 71,000$ patients), DOACs demonstrated:
+* $19\%$ significant reduction in stroke and systemic embolism.
+* $51\%$ reduction in haemorrhagic stroke.
+* $52\%$ reduction in intracranial haemorrhage.
+* $10\%$ reduction in all-cause mortality, with similar rates of major bleeding compared to well-managed warfarin.
+
+*Valvular AF Exception:* VKAs (target INR 2.0–3.0 or higher depending on valve prosthesis position) remain the mandatory standard of care in patients with mechanical prosthetic heart valves or moderate-to-severe mitral stenosis. In all other patients, DOACs are recommended in preference to VKAs (Class I, Level A).
+
+#### Table 11: Recommended Doses for Direct Oral Anticoagulant (DOAC) Therapy
+| DOAC | Standard Full Dose | Criteria for Dose Reduction | Reduced Dose |
+|---|---|---|---|
+| **Apixaban** | 5 mg twice daily | Two out of three criteria met:<br>• Age $\ge 80$ years<br>• Body weight $\le 60\text{ kg}$<br>• Serum creatinine $\ge 133\ \mu\text{mol/L}$ ($1.5\text{ mg/dL}$) | 2.5 mg twice daily |
+| **Dabigatran** | 150 mg twice daily | Recommended if:<br>• Age $\ge 80$ years<br>• Concomitant verapamil<br>Considered if:<br>• Age 75–79 years<br>• CrCl $30\text{--}50\text{ mL/min}$<br>• High bleeding risk / gastritis | 110 mg twice daily |
+| **Edoxaban** | 60 mg once daily | If any apply:<br>• CrCl $15\text{--}50\text{ mL/min}$<br>• Body weight $\le 60\text{ kg}$<br>• Concomitant potent P-gp inhibitors (ciclosporin, dronedarone, erythromycin, ketoconazole) | 30 mg once daily |
+| **Rivaroxaban** | 20 mg once daily | If:<br>• CrCl $15\text{--}49\text{ mL/min}$ | 15 mg once daily |
+
+![Figure 9: Common drug interactions with oral anticoagulants](images/fig09_drug_interactions_oac.jpg)
+
+### Recommendation Table 7 — Recommendations for Oral Anticoagulation in AF
+| Recommendations | Class | Level |
+|---|---|---|
+| Direct oral anticoagulants are recommended in preference to VKAs to prevent ischaemic stroke and thromboembolism, except in patients with mechanical heart valves or moderate-to-severe mitral stenosis. | **I** | **A** |
+| When VKAs are used, maintaining an international normalized ratio between 2.0 and 3.0 with time in therapeutic range $\ge 70\%$ is recommended. | **I** | **A** |
+| In patients with AF treated with a DOAC, adherence to recommended full dosing and dose reduction criteria according to the summary of product characteristics is recommended. | **I** | **B** |
+
+### Recommendation Table 8 — Recommendations for Combining Antiplatelet Drugs with Anticoagulants
+| Recommendation | Class | Level |
+|---|---|---|
+| Adding antiplatelet treatment to oral anticoagulation is not recommended in AF patients for the goal of preventing ischaemic stroke, due to increased bleeding risk without additional stroke protection. | **III** | **A** |
+
+### Recommendation Table 9 — Recommendations for Thromboembolism Despite Anticoagulation
+| Recommendation | Class | Level |
+|---|---|---|
+| A thorough diagnostic work-up should be considered in patients taking an oral anticoagulant and presenting with ischaemic stroke or thromboembolism to prioritize treatment adherence, evaluate other stroke mechanisms (e.g. carotid stenosis), and review risk factors. | **IIa** | **C** |
+
+### 6.4 Bleeding Risk Assessment and Clinical Management
+Evaluation of bleeding risk must be performed in all patients initiating or receiving OAC. The **HAS-BLED score** (Hypertension, Abnormal renal/liver function, Stroke, Bleeding history, Labile INR, Elderly [$> 65$], Drugs/alcohol) remains the validated clinical tool to systematically identify and correct modifiable bleeding risk factors:
+* **Modifiable Factors:** Uncontrolled hypertension ($SBP \ge 160\text{ mmHg}$), labile INR, co-prescription of NSAIDs or antiplatelet agents, heavy alcohol abuse, and anemia.
+* **Clinical Principle:** A high HAS-BLED score ($\ge 3$) indicates the need for aggressive mitigation of modifiable risks and closer follow-up (e.g. every 1–3 months), but must **never** be used to withhold or discontinue OAC, as patients at highest bleeding risk derive the greatest absolute reduction in ischaemic stroke and mortality from anticoagulation.
+
+![Figure 10: Modifying the risk of bleeding associated with OAC](images/fig10_modifying_bleeding_risk_oac.jpg)
+
+#### Management of Active Bleeding Under OAC
+Management depends on bleeding severity:
+* **Minor Bleeding:** Delay or omit one dose of DOAC; apply local haemostatic measures.
+* **Moderate-to-Severe Bleeding:** Discontinue OAC; perform mechanical compression, endoscopic, or surgical haemostasis; administer fluid resuscitation and blood products.
+* **Life-Threatening / Critical Organ Bleeding:**
+  * For Dabigatran: Administer specific reversal agent **Idarucizumab** ($5\text{ g}$ IV in two $2.5\text{ g}$ boluses) (Class I, Level B).
+  * For Factor Xa Inhibitors (apixaban, rivaroxaban): Administer specific antidote **Andexanet alfa** (or 4-factor prothrombin complex concentrate [4F-PCC] $25\text{--}50\text{ IU/kg}$) (Class IIa, Level B).
+  * For VKAs: Administer 4F-PCC ($25\text{--}50\text{ IU/kg}$) and intravenous Vitamin K ($5\text{--}10\text{ mg}$) (Class I, Level A).
+
+![Figure 11: Management of oral anticoagulant-related bleeding in patients with AF](images/fig11_management_oac_bleeding.jpg)
+
+### Recommendation Table 12 — Recommendations for Assessment of Bleeding Risk
+| Recommendations | Class | Level |
+|---|---|---|
+| Assessment and management of modifiable bleeding risk factors is recommended in all patients eligible for oral anticoagulation, as part of shared decision-making to minimize bleeding complications. | **I** | **B** |
+| Formal bleeding risk score assessment (e.g. HAS-BLED) is recommended to identify modifiable bleeding risk factors and identify patients at higher bleeding risk who warrant early and frequent clinical review. | **I** | **B** |
+| Withholding oral anticoagulation based solely on a high bleeding risk score is not recommended in patients with an elevated thromboembolic risk. | **III** | **A** |
+
+### Recommendation Table 13 — Recommendations for Management of Bleeding in Anticoagulated Patients
+| Recommendations | Class | Level |
+|---|---|---|
+| Interrupting anticoagulation and performing diagnostic or treatment interventions is recommended in AF patients with active bleeding until the bleeding source is controlled. | **I** | **C** |
+| Specific reversal agents are recommended in patients with life-threatening or critical organ bleeding receiving dabigatran (idarucizumab) or should be considered in those receiving factor Xa inhibitors (andexanet alfa or 4-factor prothrombin complex concentrate). | **I** | **B** |
+| In patients receiving VKAs with life-threatening bleeding, 4-factor prothrombin complex concentrate and intravenous vitamin K are recommended. | **I** | **A** |
+
+### 6.5 Subclinical Atrial Fibrillation / Atrial High-Rate Episodes (AHRE)
+Cardiac implantable electronic devices (CIEDs) with atrial leads detect asymptomatic subclinical atrial tachyarrhythmias (AHRE, typically rate $> 175\text{--}220\text{ b.p.m.}$). Landmark randomized trials—**NOAH-AFNET 6** (edoxaban vs placebo/aspirin) and **ARTESiA** (apixaban vs aspirin)—demonstrated that:
+1. In AHRE lasting $< 24\text{ hours}$, the absolute stroke rate is low ($\approx 1\%/\text{year}$), and DOAC therapy produces an excess in major bleeding without a statistically significant reduction in cardiovascular mortality.
+2. In AHRE with continuous episode duration $\ge 24\text{ hours}$ in patients with multiple thromboembolic risk factors ($\text{CHA2DS2-VA} \ge 2$), stroke rates rise markedly, and the benefit-risk ratio favours anticoagulation.
+
+### Recommendation Table 10 — Recommendations for Subclinical AF / AHRE
+| Recommendation | Class | Level |
+|---|---|---|
+| In patients with device-detected subclinical AF (AHRE), oral anticoagulation should be considered if the total daily duration of AHRE is $\ge 24\text{ hours}$ and the patient has an elevated baseline stroke risk (CHA2DS2-VA $\ge 2$). | **IIa** | **B** |
+| In patients with device-detected subclinical AF (AHRE) lasting $< 24\text{ hours}$, routine oral anticoagulation is not recommended. | **III** | **B** |
+
+### 6.6 Percutaneous Left Atrial Appendage Occlusion (LAAO)
+Percutaneous transcatheter LAA occlusion (using Watchman or Amulet devices) isolates the LAA mechanically from the systemic circulation. Current RCTs (PROTECT AF, PREVAIL, PRAGUE-17) compared LAAO with VKA or DOAC in patients who were eligible for anticoagulation, but not in patients with absolute contraindications.
+* **Guideline Position:** Percutaneous LAAO is restricted to a **Class IIb** recommendation only in patients with AF and elevated stroke risk who possess documented, irreversible contraindications to long-term oral anticoagulation (e.g. intractable life-threatening intracranial or GI bleeding from an uncorrectable vascular lesion).
+
+### Recommendation Table 11 — Recommendations for Percutaneous LAA Occlusion
+| Recommendation | Class | Level |
+|---|---|---|
+| Percutaneous LAA occlusion may be considered in patients with AF and clear, irreversible contraindications for long-term oral anticoagulant treatment to prevent ischaemic stroke. | **IIb** | **B** |
+
+### 6.7 Surgical Left Atrial Appendage Exclusion
+The landmark **LAAOS III** randomized trial ($4,770$ patients undergoing cardiac surgery with AF and CHA2DS2-VASc $\ge 2$) definitively proved that concomitant surgical exclusion of the LAA (via surgical amputation and oversewing, or approved epicardial clip devices) added to standard oral anticoagulation produced a $33\%$ relative risk reduction in ischaemic stroke or systemic embolism (HR 0.67, $P = 0.006$) over a 3.8-year median follow-up, without increasing peri-operative complications.
+
+### Recommendation Table 12 — Recommendations for Surgical Left Atrial Appendage Exclusion
+| Recommendations | Class | Level |
+|---|---|---|
+| Surgical closure of the left atrial appendage is recommended as an adjunct to oral anticoagulation in patients with AF undergoing cardiac surgery to reduce stroke and thromboembolism. | **I** | **A** |
+| In patients with AF who have undergone surgical left atrial appendage closure, continuing long-term oral anticoagulation is recommended based on the patient's CHA2DS2-VA score. | **I** | **A** |
+
+</div></details>

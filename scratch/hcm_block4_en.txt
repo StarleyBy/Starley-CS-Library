@@ -1,0 +1,116 @@
+<details class="med-details"><summary>
+
+## 9. Lifestyle Considerations for Patients With HCM</summary><div class="details-content">
+
+### 9.1 Recreational Physical Activity and Competitive Sports
+Historically, individuals diagnosed with HCM were broadly restricted from vigorous exercise due to concerns about exercise-triggered sudden cardiac death. Contemporary evidence demonstrates that physical inactivity carries substantial adverse cardiovascular and metabolic risks, and that individualized exercise prescriptions are safe and beneficial:
+* **Mild-to-Moderate Recreational Exercise:** Regular, low-to-moderate intensity physical activity (e.g., brisk walking, cycling, lap swimming, light jogging) is strongly recommended for all patients with HCM to maintain cardiorespiratory fitness, improve quality of life, and reduce metabolic morbidity (Class 1, Level of Evidence B-NR).
+* **Vigorous Recreational Exercise and Competitive Sports:**
+  - In individuals with HCM, participation in competitive sports or high-intensity athletic activities may be considered after a comprehensive clinical evaluation by an expert HCM specialist and a structured shared decision-making dialogue (Class 2a, Level of Evidence B-NR).
+  - Landmark registry data (e.g., the prospective LIVE-HCM study of $> 1{,}600$ patients) demonstrated that individuals engaging in vigorous exercise or competitive sports had rates of death or life-threatening ventricular arrhythmias comparable to those engaging in moderate or non-vigorous exercise.
+  - An individualized risk assessment must evaluate: history of syncope, dynamic LVOT obstruction, presence of an ICD, high-risk genetic mutations, and degree of myocardial hypertrophy.
+* **Genotype-Positive, Phenotype-Negative (G+/P-):** Individuals who carry a pathogenic sarcomeric variant but exhibit no clinical or imaging signs of hypertrophy should not be restricted from competitive sports or vigorous physical activities (Class 3: No Benefit / Restriction Not Recommended, Level B-NR).
+
+
+
+### Recommendation Table 22 — Recommendations for Recreational Physical Activity and Competitive Sports
+
+**Recreational Physical Activity and Competitive Sports**
+
+| Recommendations | Class | Level |
+|---|:---:|:---:|
+| For patients with HCM, mild- to moderate-intensity recreational exercise is beneficial to improve cardiorespiratory fitness, physical functioning, and quality of life, and for overall health in keeping with physical activity guidelines for the general population. | **I** | **B-R** |
+| For athletes with HCM, a comprehensive evaluation and shared decision-making about sports participation with an expert professional is recommended. | **I** | **C-EO** |
+| In individuals who are genotype-positive, phenotype-negative for HCM, participation in competitive sports of any intensity is reasonable. | **IIa** | **B-NR** |
+| For patients with HCM, participation in vigorous recreational activities is reasonable after an annual comprehensive evaluation and shared decision-making with an expert professional who balances potential benefits and risks, with this process being repeated annually. | **IIa** | **B-NR** |
+| For patients with HCM who are capable of a high level of physical performance, participation in competitive sports may be considered after review by an expert provider with experience managing athletes with HCM who conducts an annual comprehensive evaluation and shared decision-making that balances potential benefits and risks. | **IIb** | **B-NR** |
+| For most patients with HCM, universal restriction from vigorous physical activity or competitive sports is not indicated. | **III-no-benefit** | **B-NR** |
+| In patients with HCM, ICD placement for the sole purpose of participation in competitive sports should not be performed. | **III-harm** | **C-EO** |
+
+
+### 9.2 Occupation in Patients With HCM
+* **Individualized Occupational Assessment:** Most individuals with HCM can safely pursue their chosen professions. Comprehensive evaluation of functional capacity, dynamic symptoms, and arrhythmic risk should guide employment fitness (Class 1, Level of Evidence B-NR).
+* **High-Risk Safety-Critical Occupations:** Specific regulatory restrictions apply to commercial airline pilots, commercial motor vehicle operators, military combat personnel, and high-hazard industrial positions:
+  - Regulatory standards (e.g., Federal Aviation Administration [FAA], Federal Motor Carrier Safety Administration [FMCSA]) must be adhered to.
+  - Patients should be counseled that heavy manual labor involving extreme burst isometric straining, rapid dehydration, or heat stress can exacerbate dynamic LVOT obstruction and provoke presyncope or syncope.
+
+
+
+### Recommendation Table 23 — Recommendations for Occupation in Patients With HCM
+
+**Occupation in Patients With HCM**
+
+| Recommendations | Class | Level |
+|---|:---:|:---:|
+| For patients with HCM, it is reasonable to follow Federal Motor Carrier Safety Administration cardiovascular disease guidelines that permit driving commercial motor vehicles, if they do not have an ICD or any major risk factors for SCD and are using a GDMT plan. | **IIa** | **C-EO** |
+| For pilot aircrew with a diagnosis of HCM, it is reasonable to follow Federal Aviation Administration guidelines that permit consideration of multicrew flying duties, provided they are asymptomatic, are deemed low risk for SCD, and can complete a maximal treadmill stress test at 85% peak heart rate. | **IIa** | **C-EO** |
+| It is reasonable for patients with HCM to consider occupations that require manual labor, heavy lifting, or a high level of physical performance after a comprehensive clinical evaluation, risk stratification for SCD, and implementation of GDMT in the context of shared decision-making. | **IIb** | **C-EO** |
+
+
+### 9.3 Pregnancy in Patients With HCM
+Most women with HCM have favorable maternal and fetal outcomes when managed by a multidisciplinary Cardio-Obstetrics team:
+* **Preconceptional Counseling:** Women of childbearing potential should receive comprehensive preconception counseling regarding maternal cardiac risks, inheritable genetic transmission (50% risk of transmitting autosomal dominant sarcomeric variants), and teratogenic medications (Class 1, Level of Evidence B-NR).
+* **Multidisciplinary Team Care:** Pregnant patients with HCM should be managed collaboratively by cardiologists with HCM expertise, maternal-fetal medicine specialists, and obstetric anesthesiologists (Class 1, Level B-NR).
+* **High-Risk Features:** Women with pre-existing severe symptoms (NYHA class III–IV), resting LVOT gradients $> 50\text{ mm Hg}$, LVEF $< 50\%$, or active atrial/ventricular arrhythmias have elevated risks of pulmonary edema and heart failure decompensation during late pregnancy and delivery.
+* **Pharmacological Safety in Pregnancy:**
+  - **Beta-Blockers:** Metoprolol or propranolol are the preferred agents for symptom management and rate control. **Atenolol must be avoided** due to documented associations with fetal growth restriction.
+  - **Contraindicated Medications (Class 3: Harm):** ACE inhibitors, ARBs, ARNIs, and mineralocorticoid receptor antagonists are strictly contraindicated due to fetal fetopathy and renal agenesis.
+  - **Cardiac Myosin Inhibitors (Mavacamten):** Teratogenic in animal models; mavacamten **must not be administered during pregnancy or breastfeeding**, and effective contraception is mandatory in women of childbearing potential.
+* **Labor and Delivery:** Vaginal delivery with effective regional (epidural) anesthesia is recommended as the preferred mode of delivery, reserving cesarean section for standard obstetric indications (Class 1, Level B-NR). Epidural anesthesia must be carefully titrated to avoid abrupt vasodilation and hypotension.
+
+
+
+### Recommendation Table 24 — Recommendations for Pregnancy in Patients With HCM
+
+**Pregnancy in Patients With HCM**
+
+| Recommendations | Class | Level |
+|---|:---:|:---:|
+| For pregnant women with HCM and AF or other indications for anticoagulation, low-molecular-weight heparin or vitamin K antagonists (at maximum therapeutic dose of <5 mg daily) are recommended for stroke prevention. | **I** | **B-NR** |
+| In pregnant women with HCM, selected beta blockers should be administered for symptoms related to outflow tract obstruction or arrhythmias, with monitoring of fetal growth. | **I** | **C-LD** |
+| In most pregnant women with HCM, vaginal delivery is recommended as the first-choice delivery option. | **I** | **C-LD** |
+| In affected families with HCM, preconceptional and prenatal reproductive and genetic counseling should be offered. | **I** | **B-NR** |
+| For pregnant women with HCM, care should be coordinated between their cardiologist and an obstetrician. For patients with HCM who are deemed high risk, consultation is advised with an expert in maternal-fetal medicine. | **I** | **C-EO** |
+| For women with clinically stable HCM who wish to become pregnant, it is reasonable to advise that pregnancy is generally safe as part of a shared discussion regarding potential maternal and fetal risks, and initiation of GDMT. | **IIa** | **C-LD** |
+| In pregnant women with HCM, cardioversion for new or recurrent AF, particularly if symptomatic, is reasonable. | **IIa** | **C-LD** |
+| In pregnant women with HCM, general or epidural anesthesia is reasonable, with precautions to avoid hypotension. | **IIa** | **C-LD** |
+| In pregnant women with HCM, it is reasonable to perform serial echocardiography, particularly during the second or third trimester when hemodynamic load is highest, or if clinical symptoms develop. | **IIa** | **C-EO** |
+| In pregnant women with HCM, fetal echocardiography may be considered for diagnosis of fetal HCM in the context of prenatal counseling. | **IIb** | **C-EO** |
+| In pregnant women, use of mavacamten is contraindicated due to potential teratogenic effects. | **III-harm** | **C-EO** |
+
+
+### 9.4 Patients With Comorbidities
+Concurrent medical comorbidities interact synergistically with HCM pathology and require aggressive optimization:
+* **Systemic Hypertension:** Present in $> 50\%$ of adult patients with HCM. Uncontrolled hypertension accelerates secondary concentric hypertrophy, worsens diastolic dysfunction, and increases stroke risk. First-line antihypertensive therapy should utilize beta-blockers or non-dihydropyridine calcium channel blockers. If additional agents are required, ACE inhibitors, ARBs, or mineralocorticoid receptor antagonists can be carefully introduced in nonobstructive patients. Vasodilating agents (dihydropyridines, nitrates) should be avoided in obstructive physiology.
+* **Obesity:** Excess adiposity dramatically increases left ventricular mass, worsens exertional dyspnea, and markedly escalates the incidence of atrial fibrillation and dynamic LVOTO. Structured lifestyle interventions, dietary counseling, and supervised exercise are recommended (Class 1, Level B-NR).
+* **Obstructive Sleep Apnea (OSA):** Highly prevalent in patients with HCM. OSA increases nocturnal sympathetic surges, promotes systemic hypertension, and triggers atrial and ventricular arrhythmias. Routine screening for snoring, daytime somnolence, and nocturnal gasping, with subsequent polysomnography and continuous positive airway pressure (CPAP) therapy, is recommended (Class 1, Level B-NR).
+
+
+
+### Recommendation Table 25 — Recommendations for Patients With Comorbidities
+
+**Patients With Comorbidities**
+
+| Recommendations | Class | Level |
+|---|:---:|:---:|
+| In patients with HCM, adherence to the ACC/AHA primary prevention guideline is recommended to reduce risk of cardiovascular events. | **I** | **C-EO** |
+| In patients with HCM who are overweight or obese, counseling and comprehensive lifestyle interventions are recommended for achieving and maintaining weight loss and possibly lowering the risk of developing LVOTO, HF, and AF. | **I** | **B-NR** |
+| In patients with HCM and hypertension, lifestyle modifications and medical therapy for hypertension are recommended, with preference for beta blockers and nondihydropyridine calcium channel blockers in patients with obstructive HCM. | **I** | **C-LD** |
+| In patients with HCM, assessment for symptoms of sleep-disordered breathing is recommended, and, if present, referral to a sleep medicine specialist for evaluation and treatment is recommended. | **I** | **C-LD** |
+
+
+</div></details>
+
+<details class="med-details"><summary>
+
+## 10. Evidence Gaps and Future Directions</summary><div class="details-content">
+
+Despite transformative advancements in the understanding and management of hypertrophic cardiomyopathy, several pivotal clinical and biological questions remain unanswered:
+1. **Refining the Diagnosis of HCM:** Developing machine learning algorithms and advanced automated echocardiographic/CMR strain metrics to distinguish early sarcomeric HCM from physiological athlete's heart and non-sarcomeric phenocopies with high specificity.
+2. **Developing Disease-Modifying Therapies:** Determining whether early initiation of cardiac myosin inhibitors or next-generation small-molecule allosteric modulators in young patients or genotype-positive, phenotype-negative individuals can prevent the development or progression of hypertrophy, interstitial fibrosis, and diastolic dysfunction (e.g., ongoing gene-silencing, CRISPR base-editing, and AAV-mediated gene therapy platforms).
+3. **Improving Care for Nonobstructive HCM:** While obstructive HCM has effective medical and surgical options, nonobstructive HCM remains an area of significant unmet therapeutic need. Novel therapies targeting myocardial energetics, microvascular ischemia, and advanced antifibrotic pathways are urgently needed.
+4. **Improving and Expanding SCD Risk Stratification:** Enhancing risk algorithms in intermediate-risk adults and pediatric populations by integrating polygenic risk scores, serum circulating biomarkers, high-resolution CMR parametric mapping (ECV and diffuse interstitial fibrosis), and artificial intelligence-augmented electrocardiography.
+5. **Arrhythmia Management:** Refining catheter ablation strategies for atrial fibrillation and ventricular tachycardia in structurally abnormal, fibrotic ventricles; determining the role of left atrial appendage closure devices in stroke prevention; and identifying optimal pharmacotherapies for preventing post-ablation recurrent arrhythmias.
+6. **Expanding Understanding of Genetic Architecture:** Deciphering the genetic and epigenetic determinants of incomplete penetrance, variable phenotypic expression, and non-sarcomeric disease; identifying protective genetic modifiers that prevent severe hypertrophy in individuals harboring high-risk sarcomeric mutations.
+
+</div></details>

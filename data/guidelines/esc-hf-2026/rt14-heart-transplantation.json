@@ -1,0 +1,51 @@
+{
+  "schemaVersion": 1,
+  "id": "esc-hf-2026.rt14-heart-transplantation",
+  "guidelineId": "esc-hf-2026",
+  "number": "Recommendation Table 14",
+  "type": "recommendations",
+  "title": {
+    "en": "Recommendations for heart transplantation",
+    "ru": "Рекомендации по трансплантации сердца"
+  },
+  "tags": [
+    "heart-transplantation",
+    "advanced-hf",
+    "refractory-hf",
+    "qol",
+    "survival"
+  ],
+  "source": {
+    "expectedRows": 1
+  },
+  "i18nStatus": {
+    "ru": "reviewed"
+  },
+  "sections": [
+    {
+      "id": "sec-heart-transplantation",
+      "title": {
+        "en": "Recommendations for heart transplantation (see Evidence Tables 75 and 76)",
+        "ru": "Рекомендации по трансплантации сердца (см. Доказательные таблицы 75 и 76)"
+      },
+      "rows": [
+        {
+          "id": "r01",
+          "text": {
+            "en": "Heart transplantation is recommended in selected^[c] patients with advanced HF refractory to FMT and GDIT, and without contraindications, to improve QoL and survival.",
+            "ru": "Трансплантация сердца рекомендуется отобранным^[c] пациентам с терминальной СН, рефрактерной к FMT и GDIT, при отсутствии противопоказаний, для улучшения качества жизни и выживаемости."
+          },
+          "class": "I",
+          "level": "C",
+          "refs": [622, 626]
+        }
+      ]
+    }
+  ],
+  "footnotes": {
+    "c": {
+      "en": "Eligibility criteria are reported in Table 17.",
+      "ru": "Критерии отбора приведены в Таблице 17."
+    }
+  }
+}

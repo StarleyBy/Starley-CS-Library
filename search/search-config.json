@@ -1,5 +1,5 @@
 {
-  "generated": "2026-10-21T17:42:14.772Z",
+  "generated": "2026-10-24T19:48:46.620Z",
   "categories": {
     "quiz": {
       "title": "Quiz Questions",
@@ -150,6 +150,11 @@
       "category": "cardiac echo",
       "author": ""
     },
+    "books/cardiac echo/eacvi-echo-handbook": {
+      "title": "The EACVI Echo Handbook (Lancellotti & Cosyns)",
+      "category": "cardiac echo",
+      "author": ""
+    },
     "books/ecg/ECG_Interpretation_for_Everyone": {
       "title": "ECG Interpretation for Everyone",
       "category": "ecg",
@@ -188,6 +193,11 @@
     "books/work/examen": {
       "title": "Board Exam Questions",
       "category": "work",
+      "author": ""
+    },
+    "books/cardiac-echo/eacvi-echo-handbook": {
+      "title": "The EACVI Echo Handbook (Lancellotti & Cosyns)",
+      "category": "cardiac_echo",
       "author": ""
     },
     "books/cardiac-echo/Echo6": {

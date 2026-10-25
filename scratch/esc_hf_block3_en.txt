@@ -1,0 +1,363 @@
+## 7. Decompensated Heart Failure
+
+<details class="med-details" open>
+<summary>7.1. Definition, Epidemiology, and Clinical Presentations</summary>
+<div class="details-content">
+
+Decompensated heart failure (DHF) represents a life-threatening clinical syndrome defined by the rapid onset or worsening of symptoms and signs of heart failure that require urgent medical attention and hospitalization. DHF may present as acute decompensation of pre-existing chronic heart failure (worsening heart failure, accounting for ~75%–80% of presentations) or as *de novo* heart failure (accounting for ~20%–25% of presentations, frequently triggered by acute myocardial infarction, acute myocarditis, or acute valvular disruption).
+
+#### Clinical Categories of Decompensated Heart Failure
+
+Patients with DHF present along a continuum of fluid overload and tissue perfusion. Four major clinical presentations are recognized:
+1. **Acute Decompensated Left-Sided Heart Failure:** Characterized predominantly by pulmonary congestion, dyspnoea, orthopnoea, and elevated left ventricular filling pressures, with or without systemic congestion.
+2. **Acute Decompensated Right-Sided Heart Failure:** Characterized predominantly by systemic venous congestion, elevated jugular venous pressure, hepatomegaly, ascites, and peripheral pitting oedema, frequently complicated by cardio-hepatic and cardiorenal syndromes.
+3. **Acute Pulmonary Oedema:** Severe respiratory distress, tachypnoea, orthopnoea, bilateral diffuse pulmonary rales, and hypoxaemia resulting from rapid hydrostatic fluid shift into lung alveoli.
+4. **Cardiogenic Shock:** Severe tissue and end-organ hypoperfusion (hypotension with SBP <90 mmHg or MAP <65 mmHg, cold clammy extremities, oliguria <0.5 mL/kg/h, elevated serum lactate >2.0 mmol/L, altered mental status) resulting from primary cardiac dysfunction.
+
+![Diagnosing decompensated heart failure](images/fig11_diagnosing_decompensated_hf.jpg)
+
+#### Diagnostic Evaluation in the Emergency Setting
+
+All patients presenting with suspected DHF require immediate diagnostic evaluation:
+- **12-lead ECG:** To assess rhythm (atrial fibrillation, sustained ventricular tachycardia), ischaemic changes (ST-elevation, pathological Q waves), conduction delay (QRS duration, bundle branch block), or signs of chamber hypertrophy.
+- **Continuous Pulse Oximetry and Blood Pressure:** Immediate assessment of respiratory compromise and haemodynamic stability.
+- **Laboratory Testing:** Plasma natriuretic peptides (BNP or NT-proBNP) to exclude non-cardiac causes of dyspnoea, cardiac troponin (high-sensitivity), serum creatinine, blood urea nitrogen, electrolytes (sodium, potassium), liver function tests, complete blood count, and arterial/venous blood gases in distressed or shocked patients.
+- **Transthoracic Echocardiography:** Mandatory bedside echocardiography in haemodynamically unstable patients or *de novo* presentation to evaluate LV/RV systolic function, chamber dimensions, regional wall motion abnormalities, valvular structure/regurgitation/stenosis, pericardial effusion/tamponade, and estimated pulmonary artery pressures.
+- **Chest Radiography and Lung Ultrasound:** To assess pulmonary venous congestion, alveolar interstitial oedema (B-lines on lung ultrasound), pleural effusions, and exclude non-cardiovascular pulmonary pathology (pneumothorax, pneumonia).
+
+#### Table 12: Signs, Symptoms, and Altered Laboratory Tests in Congestion and Hypoperfusion Profiles
+
+| Clinical Profile | Signs and Symptoms | Laboratory & Diagnostic Findings |
+| :--- | :--- | :--- |
+| **Left-Sided Congestion** | Dyspnoea on exertion, orthopnoea, paroxysmal nocturnal dyspnoea, tachypnoea, cough, bibasilar or diffuse crackles/rales, third heart sound (S3 gallop) | Elevated NT-proBNP/BNP, pulmonary venous congestion and interstitial/alveolar infiltrates on chest X-ray, multiple bilateral B-lines on lung ultrasound, elevated E/e' ratio on echocardiography |
+| **Right-Sided Congestion** | Bilateral lower extremity pitting oedema, elevated jugular venous pulse (JVP), hepatojugular reflux, hepatomegaly, right upper quadrant abdominal tenderness, ascites, early satiety | Elevated central venous pressure, dilated non-collapsing inferior vena cava (IVC), elevated serum bilirubin, transaminases, alkaline phosphatase, impaired renal venous return (congestive nephropathy) |
+| **Tissue Hypoperfusion** | Cold, clammy, mottled extremities, peripheral cyanosis, narrow pulse pressure, resting tachycardia, daytime somnolence, confusion, lightheadedness, oliguria (<0.5 mL/kg/h) | Elevated arterial blood lactate (>2.0 mmol/L), metabolic acidosis, acute rise in serum creatinine, elevated BUN/creatinine ratio, elevated transaminases ("shock liver"), mixed venous oxygen saturation ($SvO_2$) <60% |
+
+#### Table 13: SCAI Classification for Cardiogenic Shock
+
+| Stage | Designation | Clinical Definition & Characteristics |
+| :--- | :--- | :--- |
+| **Stage A** | **At Risk** | Patient not currently experiencing signs or symptoms of cardiogenic shock, but at substantial risk (e.g. large acute myocardial infarction, severe acute myocarditis, decompensated cardiomyopathy with severe LV dysfunction). |
+| **Stage B** | **Beginning / Pre-Shock** | Clinical evidence of haemodynamic instability, relative hypotension (SBP <90 mmHg or MAP <65 mmHg, or >30 mmHg drop from baseline), or resting sinus tachycardia without manifest tissue hypoperfusion; normal serum lactate. |
+| **Stage C** | **Classic Shock** | Manifest tissue hypoperfusion requiring inotropic, vasopressor, or mechanical circulatory support; elevated serum lactate (>2.0 mmol/L), oliguria, cool extremities, altered sensorium, cardiac index <2.2 L/min/m². |
+| **Stage D** | **Deteriorating** | Failure to respond to initial inotropic, vasopressor, or mechanical interventions; escalating requirements for inotropes/pressors or worsening organ failure. |
+| **Stage E** | **Extremis** | Refractory circulatory collapse, cardiac arrest with active CPR or mechanical chest compressions, severe refractory metabolic acidosis and multiorgan failure despite multiple simultaneous interventions. |
+
+</div>
+</details>
+
+<details class="med-details" open>
+<summary>7.2. In-Hospital Phases and Management Pathways</summary>
+<div class="details-content">
+
+In-hospital care of DHF is structured into three continuous phases:
+- **Phase 1: Urgent / Initial Management (First 0–6 Hours):** Immediate triage, stabilization of airway, oxygenation, haemodynamic support, relief of congestion, and identification of life-threatening precipitants (*CHAMPIT*: Coronary syndrome, Hypertensive emergency, Arrhythmia, Acute Mechanical cause, Pulmonary embolism, Infection, Tamponade).
+- **Phase 2: In-Hospital Stabilization (Days 1–5):** Continued decongestion, daily monitoring of volume status, monitoring renal function and electrolytes, initiation and uptitration of foundational medical therapy (FMT).
+- **Phase 3: Pre-Discharge and Early Post-Discharge (Days to Weeks):** Formal assessment of complete decongestion, safety-guided uptitration of GDMT to target doses, patient education, planning early outpatient follow-up within 1–2 weeks, and enrollment in multidisciplinary disease management programmes.
+
+![Phases and goals of in-hospital management of decompensated heart failure](images/fig12_phases_goals_inhospital_management.jpg)
+
+![Initial management of decompensated heart failure](images/fig13_initial_management_dhf.jpg)
+
+### Recommendation Table 8 — Recommendations for Pre-Discharge and Early Post-Discharge Follow-up of Patients Hospitalized for Heart Failure
+
+| Recommendations | Class | Level |
+| :--- | :---: | :---: |
+| An intensive strategy of rapid initiation and uptitration of foundational medical therapy (FMT) before discharge and during frequent follow-up visits in the first 6 weeks following an HF hospitalization is recommended to reduce the risk of HF rehospitalization or death. | **I** | **B1** |
+
+</div>
+</details>
+
+<details class="med-details" open>
+<summary>7.3. Pharmacological and Interventional Treatments in Decompensated Heart Failure</summary>
+<div class="details-content">
+
+#### Oxygen and Ventilatory Support
+Oxygen therapy is indicated only when hypoxaemia is documented ($SpO_2 <90\%$ or $PaO_2 <60	ext{ mmHg}$). Routine oxygen therapy in non-hypoxaemic patients causes hyperoxia-induced vasoconstriction and reduction in coronary blood flow. Non-invasive positive pressure ventilation (CPAP or BiPAP) should be initiated early in patients with acute pulmonary oedema and respiratory distress (respiratory rate >25/min, $SpO_2 <90\%$) to reduce work of breathing, improve lung compliance, and avoid endotracheal intubation.
+
+#### Loop Diuretics and Decongestion Protocols
+Intravenous loop diuretics (furosemide, bumetanide, or torasemide) remain the cornerstone of decongestion therapy:
+- For loop diuretic-naïve patients: Initial starting dose is 20–40 mg intravenous furosemide.
+- For patients on chronic oral loop diuretics: Initial intravenous dose should be at least 1–2 times the daily oral home dose administered as intravenous boluses or continuous infusion.
+- Early assessment of diuretic response at 2 hours (spot urinary sodium content, target $\ge 70	ext{ mEq/L}$) and at 6 hours (hourly urine output, target $\ge 100	ext{ mL/h}$) is recommended to identify diuretic resistance early.
+- If diuretic response is inadequate, the intravenous loop diuretic dose should be doubled, and combination nephron blockade (addition of intravenous acetazolamide 500 mg daily or oral hydrochlorothiazide 25–50 mg daily) should be considered.
+
+![Tools for assessment of decongestion](images/fig14_tools_assessment_decongestion.jpg)
+
+![Management of decongestion: diuretic protocols](images/fig15_management_decongestion.jpg)
+
+#### Vasodilators, Inotropes, and Vasopressors
+- **Vasodilators (Nitroglycerin, Isosorbide Dinitrate, Nitroprusside):** May be considered in patients with SBP >110 mmHg to reduce cardiac filling pressures, systemic vascular resistance, and pulmonary congestion.
+- **Inotropes (Dobutamine, Levosimendan, Milrinone):** Reserved strictly for patients with marked peripheral hypoperfusion, symptomatic hypotension (SBP <90 mmHg), or low cardiac output despite adequate filling pressures. Routine use in non-hypoperfused patients increases myocardial oxygen demand, tachyarrhythmias, and mortality.
+- **Vasopressors (Norepinephrine):** Recommended as the vasopressor of first choice in cardiogenic shock to maintain coronary and cerebral perfusion pressure while minimizing tachyarrhythmias compared to dopamine or epinephrine.
+
+### Recommendation Table 9 — Recommendations for the Immediate and Intermediate Treatment of Decompensated Heart Failure
+
+| Recommendations | Class | Level |
+| :--- | :---: | :---: |
+| **Oxygen and Ventilatory Support** | | |
+| Oxygen is recommended in patients with $SpO_2 <90\%$ or $PaO_2 <60	ext{ mmHg}$ to correct hypoxaemia. | **I** | **C** |
+| Intubation is recommended in patients with DHF and persistent and progressive respiratory failure despite oxygen administration or non-invasive ventilation to correct hypoxaemia and respiratory acidosis. | **I** | **C** |
+| Non-invasive positive pressure ventilation should be considered in patients with respiratory distress (respiratory rate >25 breaths/min, $SpO_2 <90\%$) and started as soon as possible in order to decrease respiratory distress and reduce the risk of endotracheal intubation. | **IIa** | **B2** |
+| **Diuretics** | | |
+| Intravenous loop diuretics are recommended for all patients with DHF admitted with fluid overload to improve symptoms. | **I** | **A** |
+| The addition of short-term intravenous acetazolamide or oral hydrochlorothiazide should be considered in patients with fluid overload previously treated with loop diuretics, to reduce congestion. | **IIa** | **B1** |
+| Urinary $Na^+$-guided diuretic therapy may be considered during the first days of treatment of patients with DHF to improve natriuresis and diuresis. | **IIb** | **B1** |
+| **SGLT2 Inhibitors** | | |
+| In-hospital initiation of SGLT2 inhibitors is recommended in patients with DHF after initial stabilization to improve QoL and congestion symptoms and reduce the risk of HF hospitalization. | **I** | **B1** |
+| **Vasodilators** | | |
+| Intravenous vasodilators may be considered as initial therapy in patients with DHF and systolic blood pressure >110 mmHg to improve symptoms and reduce congestion. | **IIb** | **C** |
+| **Inotropic Agents** | | |
+| Inotropic agents may be considered in patients with systolic blood pressure <90 mmHg and evidence of hypoperfusion who do not respond to standard treatment, including fluid challenge, to improve perfusion. | **IIb** | **C** |
+| **Vasopressors** | | |
+| Vasopressors, preferably norepinephrine, may be considered in patients with cardiogenic shock to increase blood pressure and vital organ perfusion. | **IIb** | **C** |
+| **Opiates** | | |
+| Routine use of opiates is not recommended in patients with DHF unless severe/intractable pain or anxiety, due to risk of harm and respiratory depression. | **III** | **C** |
+
+</div>
+</details>
+
+<details class="med-details" open>
+<summary>7.4. Temporary Mechanical Circulatory Support in Cardiogenic Shock</summary>
+<div class="details-content">
+
+Temporary mechanical circulatory support (tMCS) devices are indicated to maintain systemic perfusion, reduce cardiac filling pressures, and unload the failing ventricle in patients with refractory cardiogenic shock. Device options include:
+- **Microaxial Flow Pumps (Impella):** Provide transvalvular LV unloading, reduce LV end-diastolic pressure, and increase systemic forward flow up to 3.5–5.5 L/min. The DanGer Shock trial demonstrated that microaxial flow pumps significantly reduce 180-day all-cause mortality in selected patients with STEMI-related cardiogenic shock without anoxic brain injury.
+- **Venoarterial Extracorporeal Life Support (VA-ECLS / VA-ECMO):** Provides biventricular circulatory and pulmonary support; however, retrograde aortic inflow increases LV afterload, requiring proactive LV venting (e.g., ECPELLA with concomitant Impella or atrial septostomy).
+- **Intra-Aortic Balloon Pump (IABP):** Provides counterpulsation with modest afterload reduction and diastolic coronary augmentation, but does not actively pump blood. Multiple randomized trials (IABP-SHOCK II) demonstrated no mortality benefit for routine IABP in post-MI cardiogenic shock (Class III: Not Recommended).
+
+### Recommendation Table 10 — Recommendations for the Use of Temporary Mechanical Circulatory Support in Patients with Cardiogenic Shock
+
+| Recommendations | Class | Level |
+| :--- | :---: | :---: |
+| A multidisciplinary Shock Team is recommended in potential candidates for temporary MCS to guide the device selection (modality and type) based on patient and HF characteristics. | **I** | **C** |
+| **Cardiogenic Shock Caused by Acute MI** | | |
+| Temporary MCS with a microaxial flow pump should be considered in selected patients with cardiogenic shock caused by ST-elevation MI with left ventricular systolic dysfunction and no risk of hypoxic brain injury in order to reduce the risk of death. | **IIa** | **B1** |
+| Temporary MCS is not recommended in unselected patients with cardiogenic shock caused by acute MI, due to risk of harm. | **III** | **B1** |
+| IABP is not recommended in unselected patients with cardiogenic shock, due to the lack of effect. | **III** | **B1** |
+| **MI-Related Mechanical Complications** | | |
+| Temporary MCS should be considered in patients with mechanical complications related to MI as a bridge to definitive surgical or percutaneous treatment. | **IIa** | **C** |
+| **Advanced HF Cardiogenic Shock** | | |
+| Temporary MCS should be considered in selected patients with HF-related haemodynamic instability as a bridge to recovery (BTR), bridge to decision (BTD), bridge to bridge (BTB), bridge to candidacy (BTC), or bridge to transplantation (BTT). | **IIa** | **C** |
+
+</div>
+</details>
+
+## 8. Advanced Heart Failure
+
+<details class="med-details" open>
+<summary>8.1. Definition, Triage, and Evaluation of Advanced Heart Failure</summary>
+<div class="details-content">
+
+Advanced heart failure (Stage D) is characterized by persistent, severe symptoms (NYHA class III–IV) and recurrent decompensation despite maximum tolerated guideline-directed medical therapy (FMT), cardiac resynchronization therapy, and surgical/interventional procedures. Timely identification and referral to a specialized Advanced Heart Failure Center are vital before the onset of irreversible end-organ damage (severe renal failure, cirrhosis, fixed pulmonary hypertension).
+
+![Triage and timely referral for advanced heart failure](images/fig16_triage_timely_referral_advanced_hf.jpg)
+
+![INTERMACS clinical profiles](images/fig17_intermacs_classification.jpg)
+
+#### Table 14: Criteria for Definition of Advanced Heart Failure (HFA-ESC Criteria)
+
+All the following criteria must be present despite optimal medical and device therapy:
+1. **Severe and Persistent Symptoms:** NYHA class III (advanced) or class IV dyspnoea and/or fatigue at rest or on minimal exertion.
+2. **Severe Cardiac Dysfunction:** Severe impairment documented by at least one of the following:
+   - Severely reduced LVEF ($\le 30\%$).
+   - Isolated right ventricular systolic failure (e.g. TAPSE <14 mm, FAC <35%).
+   - Inoperable severe valvular disease or severe congenital heart disease.
+   - Persistent severe diastolic dysfunction or structural abnormalities with elevated filling pressures.
+3. **Severe Episodes of Congestion and/or Hypoperfusion:** At least one of the following within the past 12 months:
+   - $\ge 2$ hospitalizations or emergency department visits for decompensated heart failure requiring intravenous therapy.
+   - Requirement for continuous or repeated outpatient inotropic support.
+   - Need for temporary mechanical circulatory support.
+   - Malignant ventricular arrhythmias triggering ICD shocks.
+4. **Severe Exercise Impairment:** Inability to perform cardiopulmonary exercise testing (CPET) or objective demonstration of severely reduced peak oxygen consumption:
+   - Peak $VO_2 <12	ext{ mL/kg/min}$ (or $<14	ext{ mL/kg/min}$ in patients on beta-blockers), or $<50\%$ predicted.
+   - 6-minute walk distance <300 m.
+
+#### Table 15: Criteria for High Risk of Advanced Heart Failure (Referral Triggers)
+
+| Clinical Screening Tool | Key Trigger Criteria (Presence of $\ge 1$ Warrant Urgent Referral) |
+| :--- | :--- |
+| **"Rule of Three" Criteria** | • Heart failure hospitalizations: $\ge 2$ within the past 12 months, or $\ge 1$ requiring inotropes.<br>• Diuretic resistance requiring high-dose or combination diuretics.<br>• Progressive intolerance to neurohormonal antagonists with cardiorenal syndrome. |
+| **"I NEED HELP" Mnemonic** | • **I:** Inotropes (previous or current requirement for inotropic support)<br>• **N:** NYHA class III/IV symptoms or persistently elevated natriuretic peptides<br>• **E:** End-organ dysfunction (progressive renal or hepatic impairment)<br>• **E:** Ejection fraction $\le 20\%$ or severe RV dysfunction<br>• **D:** Defibrillator shocks (recurrent ICD therapies)<br>• **H:** Hospitalizations (>1 HF hospitalization in past 12 months)<br>• **E:** Escalating diuretic doses (furosemide $>160	ext{ mg/day}$ or combination therapy)<br>• **L:** Low blood pressure (systolic BP $<90	ext{ mmHg}$) or persistent resting tachycardia<br>• **P:** Prognostic medication down-titration or discontinuation due to hypotension/hyperkalaemia |
+
+### Recommendation Table 11 — Recommendations for Diagnosis and Evaluation of Advanced Heart Failure
+
+| Recommendations | Class | Level |
+| :--- | :---: | :---: |
+| Early consultation with an advanced HF centre is recommended in patients with advanced HF or at risk of advanced HF, who are motivated and do not have absolute contraindications for heart transplantation or durable MCS, in order to evaluate candidacy. | **I** | **A** |
+| Cardiopulmonary exercise testing is recommended in patients with advanced HF, as part of the evaluation for heart transplantation and durable MCS. | **I** | **C** |
+| Right heart catheterization is recommended in patients with advanced HF, as part of the evaluation for heart transplantation and durable MCS to assess pulmonary vascular resistance and filling pressures. | **I** | **C** |
+
+</div>
+</details>
+
+<details class="med-details" open>
+<summary>8.2. Medical and Surgical Management of Advanced Heart Failure</summary>
+<div class="details-content">
+
+In patients with advanced heart failure, progressive end-stage haemodynamic deterioration frequently causes intolerance to neurohormonal inhibitors (hypotension, worsening renal function, hyperkalaemia). Management requires individualized adjustments, judicious use of inotropes as a bridge to definitive therapies, durable mechanical circulatory support (LVAD), or orthotopic heart transplantation.
+
+![Treatment pathway for advanced heart failure](images/fig18_treatment_advanced_hf.jpg)
+
+### Recommendation Table 12 — Recommendations for Medical Management of Advanced Heart Failure
+
+| Recommendations | Class | Level |
+| :--- | :---: | :---: |
+| Down-titration or discontinuation of beta-blockers or ivabradine should be considered in selected patients with advanced HFrEF and evidence of organ hypoperfusion, despite initial treatment, to increase cardiac output and improve symptoms. | **IIa** | **C** |
+| Continuous inotropes should be considered in patients with advanced HFrEF, low cardiac output, and evidence of hypoperfusion or end-organ dysfunction, as bridge to decision (BTD), bridge to transplantation (BTT) or as bridge to durable MCS, to increase cardiac output and improve symptoms. | **IIa** | **C** |
+| Kidney replacement therapy should be considered in patients with refractory volume overload and end-stage kidney failure to improve symptoms. | **IIa** | **C** |
+| Ultrafiltration may be considered in patients with refractory volume overload unresponsive to escalation of diuretic therapy to reduce the risk of rehospitalization. | **IIb** | **C** |
+
+#### Table 16: Indications and Contraindications for Implantation of a Left Ventricular Assist Device (LVAD)
+
+| Category | Clinical Criteria |
+| :--- | :--- |
+| **Indications** | Heart failure with severely reduced LVEF and one of the following despite optimal FMT and GDIT:<br>• INTERMACS profile 1–2 with neurological and end-organ recovery but no cardiac recovery on temporary MCS;<br>• INTERMACS profile 2–4;<br>• Severe symptoms and signs (NYHA class III/IV, INTERMACS >4) and at least one of: (i) inability to exercise or peak $VO_2 <12	ext{--}14	ext{ mL/kg/min}$ ($<50\%$ predicted); (ii) end-organ hypoperfusion (cardiac index $\le 2.0	ext{ L/min/m}^2$, progressive cardiorenal/cardiohepatic syndrome); (iii) repeated HF hospitalizations within previous 12 months. |
+| **Absolute Contraindications** | • Severe irreversible right ventricular dysfunction despite euvolaemic status.<br>• Severe irreversible end-organ failure (end-stage cirrhosis, irreversible renal failure without combined transplant).<br>• Severe irreversible neurological damage or severe dementia.<br>• Severe chronic obstructive pulmonary disease or fixed pulmonary hypertension.<br>• Active systemic infection or chronic non-curable sepsis.<br>• Absolute contraindication to long-term systemic anticoagulation.<br>• Severe medical non-adherence, active substance abuse, or psychological instability.<br>• Insufficient social/caregiver support system. |
+| **Relative Contraindications** | Extreme obesity ($BMI >40	ext{ kg/m}^2$) or severe cardiac cachexia; advanced age (>75–80 years); severe musculoskeletal disease impairing rehabilitation. |
+
+### Recommendation Table 13 — Recommendations for Durable Mechanical Circulatory Support in Advanced Heart Failure
+
+| Recommendations | Class | Level |
+| :--- | :---: | :---: |
+| Durable MCS (LVAD) is recommended in selected patients with advanced HFrEF, despite FMT and GDIT, as bridge to transplantation (BTT), bridge to candidacy (BTC), bridge to recovery (BTR), or as destination therapy (DT) to improve symptoms, functional capacity, and reduce the risk of death. | **I** | **C** |
+| Histopathological examination of explanted heart tissue from LVAD or heart transplantation surgery should be considered in patients with non-ischaemic HF to identify an aetiological diagnosis that may be treatable or facilitate family screening. | **IIa** | **C** |
+
+#### Table 17: Indications and Contraindications for Heart Transplantation
+
+| Category | Clinical Criteria |
+| :--- | :--- |
+| **Indications** | End-stage heart failure refractory to medical, device, and surgical therapies with severe limitation of functional capacity, poor 1-year prognosis, and no other therapeutic alternative (except durable MCS as BTT). |
+| **Absolute Contraindications** | • Active systemic infection or active malignancy with poor prognosis.<br>• Severe irreversible multi-organ dysfunction (cirrhosis, irreversible nephropathy with GFR <30 mL/min/1.73 m² without combined organ transplantation).<br>• Fixed pulmonary hypertension with elevated pulmonary vascular resistance (PVR >4–5 Wood units and transpulmonary gradient >15 mmHg despite pharmacological vasodilators).<br>• Inability to comply with complex immunosuppressive therapy (e.g. severe cognitive impairment, active severe psychiatric illness).<br>• Active alcohol or illicit drug abuse, or active tobacco smoking within past 6 months.<br>• Severe peripheral arterial or cerebrovascular disease. |
+| **Relative Contraindications** | Age >65–70 years; extreme obesity ($BMI >35	ext{ kg/m}^2$); active diabetes mellitus with advanced microvascular complications. |
+
+### Recommendation Table 14 — Recommendations for Heart Transplantation
+
+| Recommendation | Class | Level |
+| :--- | :---: | :---: |
+| Heart transplantation is recommended in selected patients with advanced HF refractory to FMT and GDIT, and without contraindications, to improve quality of life and survival. | **I** | **C** |
+
+</div>
+</details>
+
+## 9. Cardiovascular Comorbidities
+
+<details class="med-details" open>
+<summary>9.1. Atrial Fibrillation and Arrhythmias</summary>
+<div class="details-content">
+
+Atrial fibrillation (AF) is the most common sustained arrhythmia in patients with heart failure, affecting up to 30%–50% of individuals depending on disease severity. AF and HF share common risk factors and promote each other through adverse structural and electrical remodeling ("AF begets HF, and HF begets AF").
+
+#### Anticoagulation in Atrial Fibrillation
+Patients with AF and heart failure are at elevated risk of stroke and systemic thromboembolism. In the 2026 ESC Guidelines, thromboembolic risk assessment has been streamlined using the updated **$CHA_2DS_2	ext{-}VA$ score**, which removes the female sex category as an independent risk modifier.
+
+#### Table 18: Updated Definitions for the $CHA_2DS_2	ext{-}VA$ Score
+
+| Acronym | Clinical Risk Factor | Points |
+| :--- | :--- | :---: |
+| **C** | Chronic Heart Failure (Stage B, C, or D; symptomatic or asymptomatic LV dysfunction) | 1 |
+| **H** | Hypertension (or current antihypertensive therapy) | 1 |
+| **$A_2$** | Age $\ge 75$ years | 2 |
+| **D** | Diabetes mellitus (type 1 or type 2, or fasting glucose >7.0 mmol/L) | 1 |
+| **$S_2$** | Prior Stroke, transient ischaemic attack (TIA), or systemic thromboembolism | 2 |
+| **V** | Vascular disease (prior MI, peripheral artery disease, or complex aortic plaque) | 1 |
+| **A** | Age 65–74 years | 1 |
+
+*Risk thresholds:*
+- $CHA_2DS_2	ext{-}VA$ score $\ge 2$: Oral anticoagulation is **recommended (Class I)**.
+- $CHA_2DS_2	ext{-}VA$ score = 1: Oral anticoagulation **should be considered (Class IIa)**.
+- Direct-acting oral anticoagulants (DOACs: apixaban, dabigatran, edoxaban, rivaroxaban) are recommended in preference to Vitamin K Antagonists (VKAs) in all non-valvular AF patients.
+
+#### Rate vs Rhythm Control Strategies
+- **Rate Control:** Recommended first-line approach in stable patients. Beta-blockers are the first choice in HFrEF. Digoxin or digitoxin is indicated when ventricular rates remain elevated despite beta-blockers or when beta-blockers are contraindicated. Lenient resting heart rate target (<110 bpm) is appropriate initially, with tighter control (<80 bpm) if symptoms persist.
+- **Rhythm Control:** Urgent electrical cardioversion is mandatory in haemodynamically unstable patients or acute decompensation with rapid ventricular rate. Amiodarone is the only safe antiarrhythmic drug for pharmacological cardioversion and sinus rhythm maintenance in HFrEF. Class IC antiarrhythmics (flecainide, propafenone) and dronedarone increase mortality and are strictly contraindicated in HFrEF.
+- **Catheter Ablation:** Catheter ablation for AF should be considered in selected HFrEF patients (high AF burden, paroxysmal or short-duration persistent AF <1 year, and clear tachycardiomyopathy) to restore LV function, improve QoL, and reduce hospitalizations.
+- **AV Node Ablation + CRT ("Abate and Pace"):** Should be considered in severely symptomatic permanent AF with refractory rapid ventricular rates despite maximal medical therapy.
+
+### Recommendation Table 15 — Recommendations for Management of Atrial Fibrillation in Patients with Heart Failure
+
+| Recommendations | Class | Level |
+| :--- | :---: | :---: |
+| **Anticoagulation** | | |
+| Oral anticoagulation is recommended in patients with clinical AF at elevated thromboembolic risk, as determined by $CHA_2DS_2	ext{-}VA$ score, to prevent ischaemic stroke and thromboembolism. | **I** | **A** |
+| DOACs are recommended in preference to VKAs in patients with HF to prevent stroke and thromboembolism (except in moderate-to-severe mitral stenosis or mechanical prosthetic valves). | **I** | **B1** |
+| **Rate Control** | | |
+| Beta-blockers are recommended in stable patients with HFrEF and AF as first-line therapy for short- and long-term rate control. | **I** | **C** |
+| Digoxin should be considered in stable patients with HFrEF and AF when the ventricular rate remains high despite beta-blockers, or when beta-blockers are contraindicated/not tolerated, in order to obtain short- and long-term rate control. | **IIa** | **C** |
+| Atrioventricular node ablation combined with CRT should be considered in patients with severely symptomatic permanent AF and poor rate control despite medical therapy and at least one HF hospitalization to reduce symptoms, physical limitations, recurrent HF hospitalizations, and death. | **IIa** | **B1** |
+| Intravenous amiodarone or digoxin may be considered in haemodynamically unstable patients with HFrEF and AF to stabilize the patient and achieve acute control of heart rate. | **IIb** | **C** |
+| **Cardioversion** | | |
+| Urgent cardioversion is recommended in the setting of DHF in patients presenting with rapid ventricular rates and haemodynamic instability to restore sinus rhythm. | **I** | **C** |
+| **Catheter Ablation** | | |
+| Catheter ablation for AF should be considered in selected patients with symptomatic AF and HFrEF (high burden AF, <1-year duration of continuous persistent AF, clear cause–effect relationship) to improve QoL and reduce the risk of HF hospitalization or death. | **IIa** | **C** |
+
+</div>
+</details>
+
+<details class="med-details" open>
+<summary>9.2. Chronic Coronary Syndromes and Revascularization</summary>
+<div class="details-content">
+
+Obstructive coronary artery disease (CAD) is the underlying aetiology in over 50%–60% of patients with HFrEF. The management of CAD in patients with heart failure encompasses optimal medical antianginal therapy integrated with foundational HF medications, alongside selective myocardial revascularization evaluated by a multidisciplinary Heart Team.
+
+![Management of coronary artery disease in heart failure](images/fig19_management_cad_in_hf.jpg)
+
+#### Medical Therapy for Angina in Heart Failure
+- **First-Line:** Guideline-directed beta-blockers (bisoprolol, carvedilol, metoprolol succinate) provide dual benefit for prognosis and angina relief.
+- **Second-Line:** Ivabradine is indicated for persistent angina in sinus rhythm with resting heart rate $\ge 70	ext{ bpm}$ despite beta-blockers. Oral nitrates, amlodipine, and trimetazidine may be added for symptom control.
+- **Contraindicated Drugs:** Non-dihydropyridine calcium channel blockers (verapamil, diltiazem) have negative inotropic effects and worsen heart failure outcomes in HFrEF.
+
+#### Myocardial Revascularization: CABG vs PCI
+Long-term data from the STICH trial (10-year follow-up) demonstrated that in patients with severe LV systolic dysfunction (LVEF $\le 35\%$) and multivessel CAD suitable for surgery, Coronary Artery Bypass Grafting (CABG) added to medical therapy produces a significant reduction in all-cause mortality and cardiovascular death compared to medical therapy alone. In the REVIVED-BCIS2 trial, routine PCI did not reduce all-cause mortality or HF hospitalizations in patients with ischaemic cardiomyopathy (LVEF $\le 35\%$) and extensive CAD without refractory angina. Therefore, CABG is the preferred revascularization modality when outcome improvement is pursued in multivessel CAD suitable for surgery.
+
+### Recommendation Table 16 — Recommendations for Revascularization in Chronic Coronary Syndrome in Patients with Heart Failure
+
+| Recommendations | Class | Level |
+| :--- | :---: | :---: |
+| **Revascularization for Symptom Improvement (HFpEF and HFrEF)** | | |
+| Coronary revascularization is recommended in patients with HF, obstructive CAD, and persistent angina, despite FMT for HF and antianginal drugs, to relieve symptoms. | **I** | **C** |
+| **Revascularization for Outcome Improvement (HFrEF)** | | |
+| If revascularization is planned after assessment by a Heart Team, CABG should be considered as the preferred revascularization strategy, in patients with LVEF $\le 35\%$ and multivessel CAD suitable for surgery, to improve long-term survival. | **IIa** | **B1** |
+
+</div>
+</details>
+
+<details class="med-details" open>
+<summary>9.3. Valvular Heart Disease in Heart Failure</summary>
+<div class="details-content">
+
+Valvular heart disease can be either the primary cause of heart failure or a secondary consequence of LV/RV remodeling and dilatation.
+
+#### Severe Aortic Stenosis
+Severe aortic stenosis imposes chronic pressure overload, inducing LV hypertrophy, fibrosis, and eventual systolic and diastolic failure. Aortic valve intervention is strongly recommended in all patients with severe symptomatic aortic stenosis and heart failure:
+- **Transcatheter Aortic Valve Implantation (TAVI):** Preferred in older patients ($\ge 75$ years), patients with high surgical risk, or transfemoral anatomical suitability.
+- **Surgical Aortic Valve Replacement (SAVR):** Preferred in younger patients (<75 years), low surgical risk, or those requiring concomitant CABG or aortic root surgery.
+- **Low-Flow, Low-Gradient Aortic Stenosis:** Low-dose dobutamine stress echocardiography is indicated in patients with reduced LVEF and low transvalvular gradient to distinguish true severe aortic stenosis (valve area remains $\le 1.0	ext{ cm}^2$ with increasing flow) from pseudo-severe stenosis, and to assess contractile flow reserve.
+
+#### Secondary (Functional) Mitral Regurgitation
+Secondary mitral regurgitation (SMR) develops due to LV chamber dilatation, papillary muscle displacement, and tethering of structurally normal mitral leaflets. Medical therapy with FMT and CRT must be optimized first:
+- **Mitral Transcatheter Edge-to-Edge Repair (TEER / MitraClip):** In the COAPT trial, mitral TEER added to maximal GDMT significantly reduced HF hospitalizations and all-cause mortality. Strict selection criteria must be fulfilled to achieve outcome benefit (disproportionate MR).
+
+![Management of secondary mitral regurgitation](images/fig20_management_secondary_mr.jpg)
+
+#### Table 19: Selection Criteria for Mitral Transcatheter Edge-to-Edge Repair (TEER) in HFrEF
+
+| Category | Selection Criteria for Outcome Improvement (COAPT Criteria) |
+| :--- | :--- |
+| **Medical Optimization** | Maximally tolerated guideline-directed medical therapy (FMT) and CRT (if indicated) for at least 3 months |
+| **Clinical Status** | Symptomatic NYHA class II–IV (ambulatory); at least 1 HF hospitalization within the previous 12 months OR elevated BNP $\ge 300	ext{ pg/mL}$ / NT-proBNP $\ge 1000	ext{ pg/mL}$; absence of stage D advanced HF |
+| **Echocardiographic Parameters** | • LVEF between 20% and 50%<br>• Left ventricular end-systolic diameter (LVESD) $\le 70	ext{ mm}$<br>• Severe secondary mitral regurgitation: Effective Regurgitant Orifice Area (EROA) $\ge 30	ext{ mm}^2$ or Regurgitant Volume $\ge 45	ext{ mL}$<br>• Systolic pulmonary artery pressure (sPAP) $\le 70	ext{ mmHg}$<br>• Absence of severe RV systolic dysfunction or severe tricuspid regurgitation<br>• Anatomy deemed suitable for mitral edge-to-edge repair by echocardiography core lab |
+
+### Recommendation Table 17 — Recommendations for Valvular Heart Disease in Patients with Heart Failure
+
+| Recommendations | Class | Level |
+| :--- | :---: | :---: |
+| **Aortic Stenosis** | | |
+| Aortic valve intervention, SAVR or TAVI, is recommended in patients with severe aortic stenosis and HF to improve symptoms and reduce the risk of death. | **I** | **B1** |
+| **Secondary Mitral Regurgitation** | | |
+| Mitral transcatheter edge-to-edge repair is recommended in haemodynamically stable, symptomatic patients with HFrEF and persistent severe secondary mitral regurgitation despite optimized FMT and CRT if indicated, who fulfil specific clinical and echocardiographic criteria, in order to reduce the risk of HF hospitalization and improve QoL. | **I** | **B1** |
+| Mitral transcatheter edge-to-edge repair may be considered in selected symptomatic patients with HFrEF and persistent severe secondary mitral regurgitation despite optimized FMT and CRT if indicated (after excluding the option of LVAD or heart transplantation) who do not fulfil the clinical and echocardiographic criteria for outcome improvement, in order to improve symptoms. | **IIb** | **C** |
+
+</div>
+</details>
+

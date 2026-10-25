@@ -1,0 +1,714 @@
+{
+  "schemaVersion": 1,
+  "id": "esc-hf-2026.t06-revised-recommendations",
+  "guidelineId": "esc-hf-2026",
+  "number": "6",
+  "type": "grid",
+  "title": {
+    "en": "Revised recommendations",
+    "ru": "Пересмотренные рекомендации"
+  },
+  "tags": [
+    "revised-recommendations",
+    "heart-failure",
+    "prevention",
+    "diagnosis",
+    "cmr",
+    "angiography",
+    "mra",
+    "digoxin",
+    "vericiguat",
+    "crt",
+    "diuretics",
+    "iabp",
+    "tmcs",
+    "lvad",
+    "af",
+    "revascularization",
+    "as",
+    "teer",
+    "amyloidosis",
+    "tafamidis"
+  ],
+  "columns": [
+    {
+      "id": "rec_2021",
+      "title": {
+        "en": "Recommendations in 2021 version",
+        "ru": "Рекомендации в версии 2021 г."
+      }
+    },
+    {
+      "id": "class_2021",
+      "title": {
+        "en": "Class (2021)",
+        "ru": "Класс (2021)"
+      }
+    },
+    {
+      "id": "level_2021",
+      "title": {
+        "en": "Level (2021)",
+        "ru": "Уровень (2021)"
+      }
+    },
+    {
+      "id": "rec_2026",
+      "title": {
+        "en": "Recommendations in 2026 version",
+        "ru": "Рекомендации в версии 2026 г."
+      }
+    },
+    {
+      "id": "class_2026",
+      "title": {
+        "en": "Class (2026)",
+        "ru": "Класс (2026)"
+      }
+    },
+    {
+      "id": "level_2026",
+      "title": {
+        "en": "Level (2026)",
+        "ru": "Уровень (2026)"
+      }
+    }
+  ],
+  "rows": [
+    {
+      "id": "sec-prevention",
+      "kind": "section",
+      "cells": [
+        {
+          "colspan": 6,
+          "text": {
+            "en": "**Prevention of heart failure—Section 4**",
+            "ru": "**Профилактика сердечной недостаточности — Раздел 4**"
+          }
+        }
+      ]
+    },
+    {
+      "id": "r01-hypertension",
+      "cells": [
+        {
+          "text": {
+            "en": "Treatment of hypertension is recommended to prevent or delay the onset of HF, and to prevent HF hospitalizations.",
+            "ru": "Лечение артериальной гипертензии рекомендуется для предотвращения или отсрочки развития СН, а также для предотвращения госпитализаций по поводу СН."
+          }
+        },
+        { "text": { "en": "I", "ru": "I" }, "tone": "green" },
+        { "text": { "en": "A", "ru": "A" }, "tone": "blue" },
+        {
+          "text": {
+            "en": "Strict blood pressure control (systolic blood pressure target <130 mmHg) is recommended in patients with hypertension or stage B HF to reduce the risk of HF.",
+            "ru": "Строгий контроль артериального давления (целевое систолическое АД <130 мм рт. ст.) рекомендуется пациентам с артериальной гипертензией или стадией B СН для снижения риска развития СН."
+          }
+        },
+        { "text": { "en": "I", "ru": "I" }, "tone": "green" },
+        { "text": { "en": "A", "ru": "A" }, "tone": "blue" }
+      ]
+    },
+    {
+      "id": "sec-diagnosis",
+      "kind": "section",
+      "cells": [
+        {
+          "colspan": 6,
+          "text": {
+            "en": "**Diagnosis of chronic heart failure—Section 5**",
+            "ru": "**Диагностика хронической сердечной недостаточности — Раздел 5**"
+          }
+        }
+      ]
+    },
+    {
+      "id": "r02a-cmr-windows",
+      "cells": [
+        {
+          "text": {
+            "en": "CMR is recommended for the assessment of myocardial structure and function in those with poor echocardiographic acoustic windows.",
+            "ru": "МРТ сердца рекомендуется для оценки структуры и функции миокарда у лиц с неудовлетворительными эхокардиографическими акустическими окнами."
+          }
+        },
+        { "text": { "en": "I", "ru": "I" }, "tone": "green" },
+        { "text": { "en": "C", "ru": "C" }, "tone": "blue" },
+        {
+          "text": {
+            "en": "Contrast-enhanced CMR is recommended in patients with suspected cardiomyopathy, or where the underlying aetiology of HF is uncertain if further characterization is likely to add value to patient care.",
+            "ru": "МРТ сердца с контрастированием рекомендуется пациентам с подозрением на кардиомиопатию либо при неуточненной этиологии СН, если дальнейшая тканевая характеристика миокарда способна повлиять на тактику ведения пациента."
+          }
+        },
+        { "text": { "en": "I", "ru": "I" }, "tone": "green" },
+        { "text": { "en": "C", "ru": "C" }, "tone": "blue" }
+      ]
+    },
+    {
+      "id": "r02b-cmr-tissue",
+      "cells": [
+        {
+          "text": {
+            "en": "CMR is recommended for the characterization of myocardial tissue in suspected infiltrative disease, Fabry disease, inflammatory disease (myocarditis), LV non-compaction, amyloid, sarcoidosis, iron overload/haemochromatosis.",
+            "ru": "МРТ сердца рекомендуется для характеристики ткани миокарда при подозрении на инфильтративные заболевания, болезнь Фабри, воспалительные заболевания (миокардит), некомпактный миокард ЛЖ, амилоидоз, саркоидоз, перегрузку железом/гемохроматоз."
+          }
+        },
+        { "text": { "en": "I", "ru": "I" }, "tone": "green" },
+        { "text": { "en": "C", "ru": "C" }, "tone": "blue" },
+        {
+          "text": {
+            "en": "Contrast-enhanced CMR is recommended in patients with suspected cardiomyopathy, or where the underlying aetiology of HF is uncertain if further characterization is likely to add value to patient care.",
+            "ru": "МРТ сердца с контрастированием рекомендуется пациентам с подозрением на кардиомиопатию либо при неуточненной этиологии СН, если дальнейшая тканевая характеристика миокарда способна повлиять на тактику ведения пациента."
+          }
+        },
+        { "text": { "en": "I", "ru": "I" }, "tone": "green" },
+        { "text": { "en": "C", "ru": "C" }, "tone": "blue" }
+      ]
+    },
+    {
+      "id": "r02c-cmr-lge-dcm",
+      "cells": [
+        {
+          "text": {
+            "en": "CMR with LGE should be considered in DCM to distinguish between ischaemic and non-ischaemic myocardial damage.",
+            "ru": "МРТ сердца с отсроченным контрастированием (LGE) следует рассмотреть при ДКМП для дифференциации ишемического и неишемического повреждения миокарда."
+          }
+        },
+        { "text": { "en": "IIa", "ru": "IIa" }, "tone": "yellow" },
+        { "text": { "en": "C", "ru": "C" }, "tone": "blue" },
+        {
+          "text": {
+            "en": "Contrast-enhanced CMR is recommended in patients with suspected cardiomyopathy, or where the underlying aetiology of HF is uncertain if further characterization is likely to add value to patient care.",
+            "ru": "МРТ сердца с контрастированием рекомендуется пациентам с подозрением на кардиомиопатию либо при неуточненной этиологии СН, если дальнейшая тканевая характеристика миокарда способна повлиять на тактику ведения пациента."
+          }
+        },
+        { "text": { "en": "I", "ru": "I" }, "tone": "green" },
+        { "text": { "en": "C", "ru": "C" }, "tone": "blue" }
+      ]
+    },
+    {
+      "id": "r03-coronary-angiography-angina",
+      "cells": [
+        {
+          "text": {
+            "en": "Invasive coronary angiography is recommended in patients with angina despite pharmacological therapy or symptomatic ventricular arrhythmias.",
+            "ru": "Инвазивная коронарография рекомендуется пациентам со стенокардией, сохраняющейся несмотря на медикаментозную терапию, или симптоматическими желудочковыми аритмиями."
+          }
+        },
+        { "text": { "en": "I", "ru": "I" }, "tone": "green" },
+        { "text": { "en": "B", "ru": "B" }, "tone": "blue" },
+        {
+          "text": {
+            "en": "Invasive coronary angiography is recommended in patients with HF, angina, and high probability of obstructive CAD who are potential candidates for revascularization.",
+            "ru": "Инвазивная коронарография рекомендуется пациентам с СН, стенокардией и высокой вероятностью обструктивной ИБС, являющимся потенциальными кандидатами на реваскуляризацию."
+          }
+        },
+        { "text": { "en": "I", "ru": "I" }, "tone": "green" },
+        { "text": { "en": "C", "ru": "C" }, "tone": "blue" }
+      ]
+    },
+    {
+      "id": "r04-coronary-angiography-hfref",
+      "cells": [
+        {
+          "text": {
+            "en": "Invasive coronary angiography may be considered in patients with HFrEF with an intermediate to high pre-test probability of CAD and the presence of ischaemia in non-invasive stress tests.",
+            "ru": "Инвазивную коронарографию можно рассмотреть у пациентов с СНнФВ с промежуточной или высокой предтестовой вероятностью ИБС и наличием ишемии при неинвазивных стресс-тестах."
+          }
+        },
+        { "text": { "en": "IIb", "ru": "IIb" }, "tone": "orange" },
+        { "text": { "en": "B", "ru": "B" }, "tone": "blue" },
+        {
+          "text": {
+            "en": "Invasive coronary angiography should be considered in patients with HFrEF and high pre-test likelihood of obstructive CAD, taking into account the risk-to-benefit ratio of the procedures and potential revascularization strategies.",
+            "ru": "Инвазивную коронарографию следует рассмотреть у пациентов с СНнФВ и высокой предтестовой вероятностью обструктивной ИБС с учетом соотношения пользы и риска процедур и потенциальных стратегий реваскуляризации."
+          }
+        },
+        { "text": { "en": "IIa", "ru": "IIa" }, "tone": "yellow" },
+        { "text": { "en": "C", "ru": "C" }, "tone": "blue" }
+      ]
+    },
+    {
+      "id": "sec-management-chronic-hf",
+      "kind": "section",
+      "cells": [
+        {
+          "colspan": 6,
+          "text": {
+            "en": "**Management of chronic heart failure—Section 6**",
+            "ru": "**Лечение хронической сердечной недостаточности — Раздел 6**"
+          }
+        }
+      ]
+    },
+    {
+      "id": "r05a-mra-hfref",
+      "cells": [
+        {
+          "text": {
+            "en": "An MRA is recommended for patients with HFrEF to reduce the risk of HF hospitalization and death.",
+            "ru": "АМКР рекомендуются пациентам с СНнФВ для снижения риска госпитализации по поводу СН и смерти."
+          }
+        },
+        { "text": { "en": "I", "ru": "I" }, "tone": "green" },
+        { "text": { "en": "A", "ru": "A" }, "tone": "blue" },
+        {
+          "text": {
+            "en": "An MRA (sMRA for HFrEF and sMRA/nsMRA for HFpEF) is recommended in patients with symptomatic HF independent of LVEF to reduce the risk of HFH or CV death.",
+            "ru": "АМКР (стероидные АМКР при СНнФВ и стероидные/нестероидные АМКР при СНсФВ) рекомендуются пациентам с симптомной СН независимо от ФВЛЖ для снижения риска госпитализации по поводу СН или сердечно-сосудистой смерти."
+          }
+        },
+        { "text": { "en": "I", "ru": "I" }, "tone": "green" },
+        { "text": { "en": "A", "ru": "A" }, "tone": "blue" }
+      ]
+    },
+    {
+      "id": "r05b-mra-hfmref",
+      "cells": [
+        {
+          "text": {
+            "en": "An MRA may be considered for patients with HFmrEF to reduce the risk of HF hospitalization and death.",
+            "ru": "АМКР можно рассмотреть у пациентов с СН с умеренно сниженной ФВ (HFmrEF) для снижения риска госпитализации по поводу СН и смерти."
+          }
+        },
+        { "text": { "en": "IIb", "ru": "IIb" }, "tone": "orange" },
+        { "text": { "en": "C", "ru": "C" }, "tone": "blue" },
+        {
+          "text": {
+            "en": "An MRA (sMRA for HFrEF and sMRA/nsMRA for HFpEF) is recommended in patients with symptomatic HF independent of LVEF to reduce the risk of HFH or CV death.",
+            "ru": "АМКР (стероидные АМКР при СНнФВ и стероидные/нестероидные АМКР при СНсФВ) рекомендуются пациентам с симптомной СН независимо от ФВЛЖ для снижения риска госпитализации по поводу СН или сердечно-сосудистой смерти."
+          }
+        },
+        { "text": { "en": "I", "ru": "I" }, "tone": "green" },
+        { "text": { "en": "A", "ru": "A" }, "tone": "blue" }
+      ]
+    },
+    {
+      "id": "r06-cardiac-glycoside",
+      "cells": [
+        {
+          "text": {
+            "en": "Digoxin may be considered in patients with symptomatic HFrEF in sinus rhythm despite treatment with an ACE-I (or ARNI), a beta-blocker and an MRA, to reduce the risk of hospitalization (both all-cause and HF hospitalizations).",
+            "ru": "Дигоксин можно рассмотреть у пациентов с симптомной СНнФВ с синусовым ритмом, несмотря на терапию иАПФ (или АРНИ), бета-блокатором и АМКР, для снижения риска госпитализаций (как по любым причинам, так и по поводу СН)."
+          }
+        },
+        { "text": { "en": "IIb", "ru": "IIb" }, "tone": "orange" },
+        { "text": { "en": "B", "ru": "B" }, "tone": "blue" },
+        {
+          "text": {
+            "en": "A cardiac glycoside (digoxin or digitoxin) should be considered in patients with symptomatic HFrEF with LVEF ≤40%, despite optimal FMT, to reduce the risk of HFH.",
+            "ru": "Сердечные гликозиды (дигоксин или дигитоксин) следует рассмотреть у пациентов с симптомной СНнФВ и ФВЛЖ ≤40%, несмотря на оптимальную терапию FMT, для снижения риска госпитализации по поводу СН."
+          }
+        },
+        { "text": { "en": "IIa", "ru": "IIa" }, "tone": "yellow" },
+        { "text": { "en": "B1", "ru": "B1" }, "tone": "blue" }
+      ]
+    },
+    {
+      "id": "r07-vericiguat",
+      "cells": [
+        {
+          "text": {
+            "en": "Vericiguat may be considered in patients in NYHA classes II–IV who have had worsening HF despite treatment with an ACE-I (or ARNI), a beta-blocker and an MRA to reduce the risk of CV mortality and HF hospitalization. [In patients with HFrEF according to the 2021 classification.]",
+            "ru": "Верицигуат можно рассмотреть у пациентов II–IV ФК по NYHA с прогрессированием СН, несмотря на терапию иАПФ (или АРНИ), бета-блокатором и АМКР, для снижения риска сердечно-сосудистой смертности и госпитализаций по поводу СН [у пациентов с СНнФВ согласно классификации 2021 г.]."
+          }
+        },
+        { "text": { "en": "IIb", "ru": "IIb" }, "tone": "orange" },
+        { "text": { "en": "B", "ru": "B" }, "tone": "blue" },
+        {
+          "text": {
+            "en": "Vericiguat may be considered in patients with symptomatic HFrEF and LVEF <45% despite treatment with optimal FMT to reduce the risk of HFH and CV death.",
+            "ru": "Верицигуат можно рассмотреть у пациентов с симптомной СНнФВ и ФВЛЖ <45%, несмотря на оптимальную терапию FMT, для снижения риска госпитализации по поводу СН и сердечно-сосудистой смерти."
+          }
+        },
+        { "text": { "en": "IIb", "ru": "IIb" }, "tone": "orange" },
+        { "text": { "en": "B1", "ru": "B1" }, "tone": "blue" }
+      ]
+    },
+    {
+      "id": "r08-crt-av-block",
+      "cells": [
+        {
+          "text": {
+            "en": "CRT rather than RV pacing is recommended for patients with HFrEF regardless of NYHA class or QRS width who have an indication for ventricular pacing for high degree AV block in order to reduce morbidity. This includes patients with AF.",
+            "ru": "СРТ, а не стимуляция ПЖ, рекомендуется пациентам с СНнФВ независимо от ФК по NYHA или ширины QRS, имеющим показания к стимуляции желудочков по поводу АВ-блокады высокой степени, для снижения заболеваемости. Это относится и к пациентам с ФП."
+          }
+        },
+        { "text": { "en": "I", "ru": "I" }, "tone": "green" },
+        { "text": { "en": "A", "ru": "A" }, "tone": "blue" },
+        {
+          "text": {
+            "en": "CRT, rather than RV pacing, should be considered in patients with HFrEF regardless of NYHA class or QRS width who have an indication for ventricular pacing for high-degree AV block in order to reduce the risk of HFH and death.",
+            "ru": "СРТ, а не стимуляцию ПЖ, следует рассмотреть у пациентов с СНнФВ независимо от ФК по NYHA или ширины QRS, имеющих показания к желудочковой стимуляции по поводу АВ-блокады высокой степени, для снижения риска госпитализации по поводу СН и смерти."
+          }
+        },
+        { "text": { "en": "IIa", "ru": "IIa" }, "tone": "yellow" },
+        { "text": { "en": "B1", "ru": "B1" }, "tone": "blue" }
+      ]
+    },
+    {
+      "id": "sec-decompensated-hf",
+      "kind": "section",
+      "cells": [
+        {
+          "colspan": 6,
+          "text": {
+            "en": "**Decompensated heart failure—Section 7**",
+            "ru": "**Декомпенсированная сердечная недостаточность — Раздел 7**"
+          }
+        }
+      ]
+    },
+    {
+      "id": "r09-diuretics-combination",
+      "cells": [
+        {
+          "text": {
+            "en": "Combination of a loop diuretic with thiazide-type diuretic should be considered in patients with resistant oedema who do not respond to an increase in loop diuretic doses.",
+            "ru": "Комбинацию петлевого диуретика с тиазидоподобным диуретиком следует рассмотреть у пациентов с резистентными отеками, не отвечающих на увеличение доз петлевых диуретиков."
+          }
+        },
+        { "text": { "en": "IIa", "ru": "IIa" }, "tone": "yellow" },
+        { "text": { "en": "B", "ru": "B" }, "tone": "blue" },
+        {
+          "text": {
+            "en": "The addition of short-term intravenous acetazolamide or oral hydrochlorothiazide should be considered in patients with fluid overload previously treated with loop diuretics, to reduce congestion.",
+            "ru": "Добавление кратковременного внутривенного введения ацетазоламида или перорального гидрохлоротиазида следует рассмотреть у пациентов с гиперволемией, ранее получавших петлевые диуретики, для устранения застоя."
+          }
+        },
+        { "text": { "en": "IIa", "ru": "IIa" }, "tone": "yellow" },
+        { "text": { "en": "B1", "ru": "B1" }, "tone": "blue" }
+      ]
+    },
+    {
+      "id": "r10-iabp-shock",
+      "cells": [
+        {
+          "text": {
+            "en": "IABP is not routinely recommended in post-MI cardiogenic shock.",
+            "ru": "ВАБК не рекомендуется рутинно при кардиогенном шоке после инфаркта миокарда."
+          }
+        },
+        { "text": { "en": "III", "ru": "III" }, "tone": "red" },
+        { "text": { "en": "B", "ru": "B" }, "tone": "blue" },
+        {
+          "text": {
+            "en": "IABP is not recommended in unselected patients with cardiogenic shock, due to the lack of effect.",
+            "ru": "ВАБК не рекомендуется у неселективных пациентов с кардиогенным шоком из-за отсутствия эффекта."
+          }
+        },
+        { "text": { "en": "III", "ru": "III" }, "tone": "red" },
+        { "text": { "en": "B1", "ru": "B1" }, "tone": "blue" }
+      ]
+    },
+    {
+      "id": "r11-tmcs-shock",
+      "cells": [
+        {
+          "text": {
+            "en": "Short-term MCS should be considered in patients with cardiogenic shock as a BTR, BTD, BTB. Further indications include treatment of the cause of cardiogenic shock or long-term MCS or transplantation",
+            "ru": "Кратковременную МПК следует рассмотреть у пациентов с кардиогенным шоком как мост к восстановлению (BTR), мост к решению (BTD), мост к другому мосту (BTB). Дополнительные показания включают лечение причины кардиогенного шока или долговременную МПК или трансплантацию."
+          }
+        },
+        { "text": { "en": "IIa", "ru": "IIa" }, "tone": "yellow" },
+        { "text": { "en": "C", "ru": "C" }, "tone": "blue" },
+        {
+          "text": {
+            "en": "Temporary MCS should be considered in selected patients with HF-related haemodynamic instability as a BTR, BTD, BTB, BTC, or BTT.",
+            "ru": "Временную МПК следует рассмотреть у отобранных пациентов с гемодинамической нестабильностью, обусловленной СН, как BTR, BTD, BTB, BTC или BTT."
+          }
+        },
+        { "text": { "en": "IIa", "ru": "IIa" }, "tone": "yellow" },
+        { "text": { "en": "C", "ru": "C" }, "tone": "blue" }
+      ]
+    },
+    {
+      "id": "sec-advanced-hf",
+      "kind": "section",
+      "cells": [
+        {
+          "colspan": 6,
+          "text": {
+            "en": "**Advanced heart failure—Section 8**",
+            "ru": "**Терминальная (тяжелая) сердечная недостаточность — Раздел 8**"
+          }
+        }
+      ]
+    },
+    {
+      "id": "r12-continuous-inotropes",
+      "cells": [
+        {
+          "text": {
+            "en": "Continuous inotropes and/or vasopressors may be considered in patients with low cardiac output and evidence of organ hypoperfusion as bridge to MCS or heart transplantation.",
+            "ru": "Длительную инфузию инотропов и/или вазопрессоров можно рассмотреть у пациентов с низким сердечным выбросом и признаками гипоперфузии органов как мост к МПК или трансплантации сердца."
+          }
+        },
+        { "text": { "en": "IIb", "ru": "IIb" }, "tone": "orange" },
+        { "text": { "en": "C", "ru": "C" }, "tone": "blue" },
+        {
+          "text": {
+            "en": "Continuous inotropes should be considered in patients with advanced HFrEF, low cardiac output, and evidence of hypoperfusion or end-organ dysfunction, as BTD, BTT, or as bridge to durable MCS, to increase cardiac output and improve symptoms.",
+            "ru": "Длительную инфузию инотропов следует рассмотреть у пациентов с терминальной СНнФВ, низким сердечным выбросом и признаками гипоперфузии или полиорганной дисфункции как BTD, BTT или мост к постоянной МПК для увеличения сердечного выброса и облегчения симптомов."
+          }
+        },
+        { "text": { "en": "IIa", "ru": "IIa" }, "tone": "yellow" },
+        { "text": { "en": "C", "ru": "C" }, "tone": "blue" }
+      ]
+    },
+    {
+      "id": "r13a-durable-mcs-non-transplant",
+      "cells": [
+        {
+          "text": {
+            "en": "Long-term MCS should be considered in patients with advanced HFrEF despite optimal medical and device therapy, not eligible for heart transplantation or other surgical options, and without severe right ventricular dysfunction, to reduce the risk of death and improve symptoms.",
+            "ru": "Длительную МПК следует рассмотреть у пациентов с терминальной СНнФВ, несмотря на оптимальную медикаментозную и аппаратно-интервенционную терапию, не подходящих для трансплантации сердца или других хирургических опций и без тяжелой дисфункции ПЖ, для снижения риска смерти и облегчения симптомов."
+          }
+        },
+        { "text": { "en": "IIa", "ru": "IIa" }, "tone": "yellow" },
+        { "text": { "en": "A", "ru": "A" }, "tone": "blue" },
+        {
+          "text": {
+            "en": "Durable MCS (LVAD) is recommended in selected patients with advanced HFrEF, despite FMT and GDIT, as BTT, BTC, BTR, or as destination therapy to improve symptoms and reduce the risk of death.",
+            "ru": "Постоянная МПК (LVAD) рекомендуется отобранным пациентам с терминальной СНнФВ, несмотря на FMT и GDIT, как BTT, BTC, BTR или в качестве пожизненной терапии (destination therapy) для облегчения симптомов и снижения риска смерти."
+          }
+        },
+        { "text": { "en": "I", "ru": "I" }, "tone": "green" },
+        { "text": { "en": "C", "ru": "C" }, "tone": "blue" }
+      ]
+    },
+    {
+      "id": "r13b-durable-mcs-bridge",
+      "cells": [
+        {
+          "text": {
+            "en": "Long-term MCS should be considered in patients with advanced HFrEF refractory to optimal medical and device therapy as a bridge to cardiac transplantation in order to improve symptoms, reduce the risk of HF hospitalization and the risk of premature death.",
+            "ru": "Длительную МПК следует рассмотреть у пациентов с терминальной СНнФВ, рефрактерной к оптимальной медикаментозной и аппаратно-интервенционной терапии, как мост к трансплантации сердца для облегчения симптомов, снижения риска госпитализации по поводу СН и преждевременной смерти."
+          }
+        },
+        { "text": { "en": "IIa", "ru": "IIa" }, "tone": "yellow" },
+        { "text": { "en": "B", "ru": "B" }, "tone": "blue" },
+        {
+          "text": {
+            "en": "Durable MCS (LVAD) is recommended in selected patients with advanced HFrEF, despite FMT and GDIT, as BTT, BTC, BTR, or as destination therapy to improve symptoms and reduce the risk of death.",
+            "ru": "Постоянная МПК (LVAD) рекомендуется отобранным пациентам с терминальной СНнФВ, несмотря на FMT и GDIT, как BTT, BTC, BTR или в качестве пожизненной терапии (destination therapy) для облегчения симптомов и снижения риска смерти."
+          }
+        },
+        { "text": { "en": "I", "ru": "I" }, "tone": "green" },
+        { "text": { "en": "C", "ru": "C" }, "tone": "blue" }
+      ]
+    },
+    {
+      "id": "sec-cv-comorbidities",
+      "kind": "section",
+      "cells": [
+        {
+          "colspan": 6,
+          "text": {
+            "en": "**Cardiovascular comorbidities—Section 9**",
+            "ru": "**Сердечно-сосудистые коморбидные состояния — Раздел 9**"
+          }
+        }
+      ]
+    },
+    {
+      "id": "r14-beta-blockers-af",
+      "cells": [
+        {
+          "text": {
+            "en": "Beta-blockers should be considered for short- and long-term rate control in patients with HF and AF.",
+            "ru": "Бета-блокаторы следует рассмотреть для краткосрочного и долгосрочного контроля ЧСС у пациентов с СН и ФП."
+          }
+        },
+        { "text": { "en": "IIa", "ru": "IIa" }, "tone": "yellow" },
+        { "text": { "en": "B", "ru": "B" }, "tone": "blue" },
+        {
+          "text": {
+            "en": "Beta-blockers are recommended in stable patients with HFrEF and AF as first-line therapy for short- and long-term rate control.",
+            "ru": "Бета-блокаторы рекомендуются стабильным пациентам с СНнФВ и ФП в качестве терапии первой линии для краткосрочного и долгосрочного контроля ЧСС."
+          }
+        },
+        { "text": { "en": "I", "ru": "I" }, "tone": "green" },
+        { "text": { "en": "C", "ru": "C" }, "tone": "blue" }
+      ]
+    },
+    {
+      "id": "r15-catheter-ablation-af",
+      "cells": [
+        {
+          "text": {
+            "en": "In cases of a clear association between paroxysmal or persistent AF and worsening of HF symptoms, which persist despite MT, catheter ablation should be considered for the prevention or treatment of AF.",
+            "ru": "При четкой связи между пароксизмальной или персистирующей ФП и ухудшением симптомов СН, сохраняющимся несмотря на медикаментозную терапию, следует рассмотреть катетерную аблацию для профилактики или лечения ФП."
+          }
+        },
+        { "text": { "en": "IIa", "ru": "IIa" }, "tone": "yellow" },
+        { "text": { "en": "B", "ru": "B" }, "tone": "blue" },
+        {
+          "text": {
+            "en": "Catheter ablation for AF should be considered in selected patients with symptomatic AF and HFrEF to improve QoL and reduce the risk of HFH or death.",
+            "ru": "Катетерную аблацию при ФП следует рассмотреть у отобранных пациентов с симптомной ФП и СНнФВ для улучшения качества жизни и снижения риска госпитализации по поводу СН или смерти."
+          }
+        },
+        { "text": { "en": "IIa", "ru": "IIa" }, "tone": "yellow" },
+        { "text": { "en": "C", "ru": "C" }, "tone": "blue" }
+      ]
+    },
+    {
+      "id": "r16-coronary-revasc-angina",
+      "cells": [
+        {
+          "text": {
+            "en": "Coronary revascularization should be considered to relieve persistent symptoms of angina (or an angina-equivalent) in patients with HFrEF, CCS, and coronary anatomy suitable for revascularization, despite OMT including antianginal drugs.",
+            "ru": "Реваскуляризацию миокарда следует рассмотреть для облегчения персистирующих симптомов стенокардии (или эквивалента стенокардии) у пациентов с СНнФВ, ХКС и анатомией коронарных артерий, подходящей для реваскуляризации, несмотря на ОМТ, включая антиангинальные препараты."
+          }
+        },
+        { "text": { "en": "IIa", "ru": "IIa" }, "tone": "yellow" },
+        { "text": { "en": "C", "ru": "C" }, "tone": "blue" },
+        {
+          "text": {
+            "en": "Coronary revascularization is recommended in patients with HF, obstructive CAD, and persistent angina, despite FMT for HF and antianginal drugs, to relieve symptoms.",
+            "ru": "Реваскуляризация миокарда рекомендуется пациентам с СН, обструктивной ИБС и персистирующей стенокардией, несмотря на терапию FMT по поводу СН и антиангинальные препараты, для облегчения симптомов."
+          }
+        },
+        { "text": { "en": "I", "ru": "I" }, "tone": "green" },
+        { "text": { "en": "C", "ru": "C" }, "tone": "blue" }
+      ]
+    },
+    {
+      "id": "r17-aortic-stenosis-intervention",
+      "cells": [
+        {
+          "text": {
+            "en": "Aortic valve intervention, TAVI or SAVR, is recommended in patients with HF and severe high-gradient aortic stenosis to reduce mortality and improve symptoms.",
+            "ru": "Вмешательство на аортальном клапане (TAVI или SAVR) рекомендуется пациентам с СН и тяжелым высокоградиентным аортальным стенозом для снижения смертности и облегчения симптомов."
+          }
+        },
+        { "text": { "en": "I", "ru": "I" }, "tone": "green" },
+        { "text": { "en": "B", "ru": "B" }, "tone": "blue" },
+        {
+          "text": {
+            "en": "Aortic valve intervention, SAVR or TAVI, is recommended in patients with severe aortic stenosis and HF to improve symptoms and reduce the risk of death.",
+            "ru": "Вмешательство на аортальном клапане (SAVR или TAVI) рекомендуется пациентам с тяжелым аортальным стенозом и СН для облегчения симптомов и снижения риска смерти."
+          }
+        },
+        { "text": { "en": "I", "ru": "I" }, "tone": "green" },
+        { "text": { "en": "B1", "ru": "B1" }, "tone": "blue" }
+      ]
+    },
+    {
+      "id": "r18-mitral-teer",
+      "cells": [
+        {
+          "text": {
+            "en": "Percutaneous edge-to-edge mitral valve repair should be considered in carefully selected patients with secondary mitral regurgitation, not eligible for surgery and not needing coronary revascularization, who are symptomatic despite OMT and who fulfil criteria for achieving a reduction in HF hospitalizations.",
+            "ru": "Чрескожную пластику митрального клапана «край-в-край» следует рассмотреть у тщательно отобранных пациентов со вторичной митральной регургитацией, не подходящих для хирургии и не нуждающихся в коронарной реваскуляризации, у которых сохраняются симптомы несмотря на ОМТ и которые соответствуют критериям снижения госпитализаций по поводу СН."
+          }
+        },
+        { "text": { "en": "IIa", "ru": "IIa" }, "tone": "yellow" },
+        { "text": { "en": "B", "ru": "B" }, "tone": "blue" },
+        {
+          "text": {
+            "en": "Mitral transcatheter edge-to-edge repair is recommended in haemodynamically stable, symptomatic patients with HFrEF and persistent severe secondary mitral regurgitation despite optimized FMT and CRT if indicated, who fulfil specific clinical and echocardiographic criteria, in order to reduce the risk of HFH and improve QoL.",
+            "ru": "Транскатетерная пластика митрального клапана «край-в-край» (TEER) рекомендуется гемодинамически стабильным симптомным пациентам с СНнФВ и персистирующей тяжелой вторичной митральной регургитацией, несмотря на оптимизированную терапию FMT и СРТ при наличии показаний, соответствующим специальным клиническим и эхокардиографическим критериям, для снижения риска госпитализации по поводу СН и улучшения качества жизни."
+          }
+        },
+        { "text": { "en": "I", "ru": "I" }, "tone": "green" },
+        { "text": { "en": "B1", "ru": "B1" }, "tone": "blue" }
+      ]
+    },
+    {
+      "id": "sec-multidisciplinary",
+      "kind": "section",
+      "cells": [
+        {
+          "colspan": 6,
+          "text": {
+            "en": "**Multidisciplinary management—Section 11**",
+            "ru": "**Мультидисциплинарное ведение — Раздел 11**"
+          }
+        }
+      ]
+    },
+    {
+      "id": "r19-remote-pa-monitoring",
+      "cells": [
+        {
+          "text": {
+            "en": "Monitoring of pulmonary artery pressure using a wireless haemodynamic monitoring system may be considered in symptomatic patients with HF in order to improve clinical outcomes.",
+            "ru": "Мониторинг давления в легочной артерии с помощью беспроводной системы гемодинамического мониторинга можно рассмотреть у симптомных пациентов с СН для улучшения клинических исходов."
+          }
+        },
+        { "text": { "en": "IIb", "ru": "IIb" }, "tone": "orange" },
+        { "text": { "en": "B", "ru": "B" }, "tone": "blue" },
+        {
+          "text": {
+            "en": "Remote haemodynamic monitoring of PA pressure should be considered in symptomatic patients with HF, NYHA class III and an HFH in the past 12 months in order to reduce the risk of HFH.",
+            "ru": "Дистанционный гемодинамический мониторинг давления в ЛА следует рассмотреть у симптомных пациентов с СН, III ФК по NYHA и госпитализацией по поводу СН за последние 12 месяцев для снижения риска повторной госпитализации по поводу СН."
+          }
+        },
+        { "text": { "en": "IIa", "ru": "IIa" }, "tone": "yellow" },
+        { "text": { "en": "B1", "ru": "B1" }, "tone": "blue" }
+      ]
+    },
+    {
+      "id": "sec-specific-conditions",
+      "kind": "section",
+      "cells": [
+        {
+          "colspan": 6,
+          "text": {
+            "en": "**Specific conditions—Section 12**",
+            "ru": "**Особенные клинические состояния — Раздел 12**"
+          }
+        }
+      ]
+    },
+    {
+      "id": "r20a-tafamidis-httr-ca",
+      "cells": [
+        {
+          "text": {
+            "en": "Tafamidis is recommended in patients with genetic testing proven hTTR-CA and NYHA class I or II symptoms to reduce symptoms, CV hospitalization and mortality.",
+            "ru": "Тафамидис рекомендуется пациентам с подтвержденным генетическим тестированием наследственным амилоидозом сердца (hTTR-CA) и симптомами I или II ФК по NYHA для облегчения симптомов, снижения сердечно-сосудистых госпитализаций и смертности."
+          }
+        },
+        { "text": { "en": "I", "ru": "I" }, "tone": "green" },
+        { "text": { "en": "B", "ru": "B" }, "tone": "blue" },
+        {
+          "text": {
+            "en": "Treatment with a TTR silencer (vutrisiran) or stabilizer (tafamidis or acoramidis) for patients with variant or wild-type transthyretin cardiac amyloidosis and NYHA class I–III is recommended to reduce progression of symptoms and the risk of CV hospitalization and all-cause death.",
+            "ru": "Терапия сайленсером транстиретина (вутрисиран) или стабилизатором (тафамидис или акорамидис) рекомендуется пациентам с мутантным (наследственным) или диким типом транстиретинового амилоидоза сердца и I–III ФК по NYHA для замедления прогрессирования симптомов и снижения риска сердечно-сосудистых госпитализаций и смерти от любых причин."
+          }
+        },
+        { "text": { "en": "I", "ru": "I" }, "tone": "green" },
+        { "text": { "en": "A", "ru": "A" }, "tone": "blue" }
+      ]
+    },
+    {
+      "id": "r20b-tafamidis-wtttr-ca",
+      "cells": [
+        {
+          "text": {
+            "en": "Tafamidis is recommended in patients with wtTTR-CA and NYHA class I or II symptoms to reduce symptoms, CV hospitalization and mortality.",
+            "ru": "Тафамидис рекомендуется пациентам с транстиретиновым амилоидозом сердца дикого типа (wtTTR-CA) и симптомами I или II ФК по NYHA для облегчения симптомов, снижения сердечно-сосудистых госпитализаций и смертности."
+          }
+        },
+        { "text": { "en": "I", "ru": "I" }, "tone": "green" },
+        { "text": { "en": "B", "ru": "B" }, "tone": "blue" },
+        {
+          "text": {
+            "en": "Treatment with a TTR silencer (vutrisiran) or stabilizer (tafamidis or acoramidis) for patients with variant or wild-type transthyretin cardiac amyloidosis and NYHA class I–III is recommended to reduce progression of symptoms and the risk of CV hospitalization and all-cause death.",
+            "ru": "Терапия сайленсером транстиретина (вутрисиран) или стабилизатором (тафамидис или акорамидис) рекомендуется пациентам с мутантным (наследственным) или диким типом транстиретинового амилоидоза сердца и I–III ФК по NYHA для замедления прогрессирования симптомов и снижения риска сердечно-сосудистых госпитализаций и смерти от любых причин."
+          }
+        },
+        { "text": { "en": "I", "ru": "I" }, "tone": "green" },
+        { "text": { "en": "A", "ru": "A" }, "tone": "blue" }
+      ]
+    }
+  ],
+  "source": {
+    "expectedRows": 33
+  },
+  "i18nStatus": {
+    "ru": "reviewed"
+  }
+}

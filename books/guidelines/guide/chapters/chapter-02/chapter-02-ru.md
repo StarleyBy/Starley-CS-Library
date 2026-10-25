@@ -1,4 +1,4 @@
-# Рекомендации ESC/EACTS 2018 по реваскуляризации миокарда
+# 🔀 <span class="luminous-green">Реваскуляризация миокарда</span> и <span class="luminous-green">SYNTAX</span> <span class="luminous-amber">2018</span> (<span class="luminous-blue">ESC</span>/<span class="luminous-blue">EACTS</span>)
 
 <details class="med-details"><summary>
 

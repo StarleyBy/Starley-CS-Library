@@ -1,0 +1,376 @@
+
+=== PAGE 2 ===
+CLINICAL STATEMENTS  
+AND GUIDELINES
+June 4, 2024 Circulation. 2024;149:e1239–e1311. DOI: 10.1161/CIR.0000000000001250e1240
+Ommen et al 2024 Hypertrophic Cardiomyopathy Guideline
+TABLE OF CONTENTS
+What Is New .................................. e1240
+Top 10 Take-Home Messages .................. e1242
+Preamble ..................................... e1243
+ 1. Introduction ............................... e1244
+ 1.1. Methodology and Evidence Review ... e1244
+ 1.2. Composition of the Writing  
+Committee .......................... e1244
+ 1.3. Document Review and Approval ...... e1244
+ 1.4. Scope of the Guideline ............... e1244
+ 1.5. Class of Recommendations and  
+Level of Evidence .................... e1244
+ 1.6. Abbreviations ........................ e1245
+ 2. Definition, Etiology, Clinical Course, and  
+Natural History ............................ e1245
+ 2.1. Prevalence .......................... e1245
+ 2.2. Nomenclature/Differential  
+Diagnosis ........................... e1246
+ 2.3. Definition, Clinical Diagnosis, and  
+Phenotype .......................... e1247
+ 2.4. Etiology ............................. e1247
+ 2.5. Natural History/Clinical Course ....... e1248
+ 3. Pathophysiology ........................... e1248
+ 3.1. Left Ventricular Outflow Tract  
+Obstruction ......................... e1249
+ 3.2. Diastolic Dysfunction ................ e1249
+ 3.3. Mitral Regurgitation .................. e1249
+ 3.4. Myocardial Ischemia ................. e1249
+ 3.5. Autonomic Dysfunction .............. e1249
+ 4. Shared Decision-Making ................... e1250
+ 5. Multidisciplinary HCM Centers  ............. e1250
+ 6. Diagnosis, Initial Evaluation, and  
+Follow-Up ................................. e1251
+ 6.1. Clinical Diagnosis .................... e1251
+ 6.2. Echocardiography ................... e1253
+ 6.3. CMR Imaging  ....................... e1255
+ 6.4. Cardiac CT .......................... e1256
+ 6.5. Heart Rhythm Assessment ........... e1256
+ 6.6. Angiography and Invasive  
+Hemodynamic Assessment ........... e1257
+ 6.7 . Exercise Stress Testing .............. e1258
+ 6.8. Genetics and Family Screening ....... e1259
+ 6.9. Individuals Who Are Genotype-Positive, 
+Phenotype-Negative ................. e1263
+ 7 . SCD Risk Assessment and Prevention ...... e1264
+ 7 .1. SCD Risk Assessment ............... e1264
+ 7 .1.1. SCD Risk Assessment in  
+Adults With HCM ............. e1264
+ 7 .1.2. SCD Risk Assessment in  
+Children and Adolescents  
+With HCM ................... e1266
+ 7 .2. Patient Selection for ICD Placement .. e1267
+ 7 .3. Device Selection Considerations ...... e1269
+ 8. Management of HCM ...................... e1270
+ 8.1. Management of Symptomatic  
+Patients With Obstructive HCM ....... e1270
+ 8.1.1. Pharmacological Management 
+of Symptomatic Patients With 
+Obstructive HCM ............. e1270
+ 8.1.2. Invasive Treatment of  
+Symptomatic Patients With 
+Obstructive HCM ............. e1272
+ 8.2. Management of Patients with  
+Nonobstructive HCM With  
+Preserved EF ........................ e1274
+ 8.3. Management of Patients With HCM  
+and Advanced HF ................... e1275
+ 8.4. Management of Patients With  
+HCM and AF ........................ e1279
+ 8.5. Management of Patients With  
+HCM and Ventricular Arrhythmias ..... e1282
+ 9. Lifestyle Considerations for Patients  
+With HCM  ................................ e1283
+ 9.1. Recreational Physical Activity and 
+Competitive Sports .................. e1283
+ 9.2. Occupation in Patients With HCM .... e1285
+ 9.3. Pregnancy in Patients With HCM ..... e1285
+ 9.4. Patients With Comorbidities .......... e1287
+ 10. Evidence Gaps and Future Directions ....... e1288
+ 10.1. Refining the Diagnosis of HCM ....... e1288
+ 10.2. Developing Therapies to Attenuate  
+or Prevent Disease Progression ...... e1288
+ 10.3. Improving Care for Nonobstructive  
+HCM  ............................... e1288
+ 10.4. Improving and Expanding Risk  
+Stratification  ........................ e1288
+ 10.5. Arrhythmia Management ............. e1288
+ 10.6. Expanding Understanding of the  
+Genetic Architecture of HCM ......... e1289
+References .................................... e1290
+Appendix 1
+Author Relationships With Industry and  
+Other Entities . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .e1307
+Appendix 2
+Reviewer Relationships With Industry and  
+Other Entities (Comprehensive) . . . . . . . . . . . . .e1309
+WHAT IS NEW
+Table 1 reflects recommendations that are substantially 
+revised from the 2020 Hypertrophic Cardiomyopathy 
+Guidelines or were drafted as new recommendations in 
+the 2024 Hypertrophic Cardiomyopathy Guidelines.
+Downloaded from http://ahajournals.org by on May 30, 2026
+=== PAGE 3 ===
+CLINICAL STATEMENTS 
+AND GUIDELINES
+Circulation. 2024;149:e1239–e1311. DOI: 10.1161/CIR.0000000000001250 June 4, 2024 e1241
+Ommen et al 2024 Hypertrophic Cardiomyopathy Guideline
+Table 1. What Is New: New and Substantially Revised Recommendations in the 2024 HCM Guideline*
+New or 
+Revised
+2024  
+Section Title Recommendation in 2020 HCM Guideline
+COR in 2020 
+Guideline Recommendation in 2024 HCM Guideline
+COR in 2024 
+Guideline
+Revised 6.5 Heart Rhythm 
+Assessment
+In patients with HCM who have additional 
+risk factors for AF, such as left atrial dilatation, 
+advanced age, and NYHA functional class III 
+to class IV HF, and who are eligible for  
+anticoagulation, extended ambulatory  
+monitoring is reasonable to screen for AF as 
+part of initial evaluation and periodic follow-up.
+2a In patients with HCM who are deemed to be 
+at high risk for developing AF based on the 
+presence of risk factors or as determined by 
+a validated risk score, and who are eligible for 
+anticoagulation, extended ambulatory  
+monitoring is recommended to screen for AF as 
+part of initial evaluation and annual follow-up.
+1
+New 6.7 Exercise 
+Stress Testing
+N/A N/A In pediatric patients with HCM, regardless 
+of symptom status, exercise stress testing is 
+recommended to determine functional  
+capacity and to provide prognostic information.
+1
+Revised 7 .2 Patient  
+Selection for ICD 
+Placement
+For patients ≥16 years of age with HCM and 
+with ≥1 major SCD risk factors, discussion 
+of the estimated 5-year sudden death risk 
+and mortality rates can be useful during the 
+shared decision-making process for ICD 
+placement.
+2a For patients with HCM with ≥1 major SCD 
+risk factor, discussion of the estimated 5-year 
+sudden death risk and mortality rates can 
+be useful during the shared decision-making 
+process for ICD placement.
+2a
+Revised 8.1.1  
+Pharmacological 
+Management of 
+Symptomatic 
+Patients with  
+Obstructive HCM
+For patients with obstructive HCM who have 
+persistent severe symptoms attributable  
+to LVOTO despite beta blockers or  
+nondihydropyridine calcium channel blockers, 
+either adding disopyramide in combination 
+with 1 of the other drugs, or SRT performed 
+at experienced centers, is recommended.
+1 For patients with obstructive HCM who have 
+persistent symptoms attributable to LVOTO 
+despite beta blockers or nondihydropyridine 
+calcium channel blockers, adding a  
+myosin inhibitor (adult patients only), or  
+disopyramide (in combination with an  
+atrioventricular nodal blocking agent), or  
+SRT performed at experienced centers, is  
+recommended.
+1
+New 8.2 Management 
+of Patients With 
+Nonobstructive 
+HCM With  
+Preserved EF
+N/A N/A For younger (eg, ≤45 years of age) patients 
+with nonobstructive HCM due to a  
+pathogenic or likely pathogenic cardiac  
+sarcomere genetic variant, and a mild  
+phenotype, valsartan may be beneficial to 
+slow adverse cardiac remodeling.
+2b
+New 8.3 Management 
+of Patients With 
+HCM and Ad-
+vanced HF
+N/A N/A In patients with HCM who develop persistent 
+systolic dysfunction (LVEF <50%), cardiac 
+myosin inhibitors should be discontinued.
+1
+Revised 9.1 Recreational 
+Physical Activity 
+and Competitive 
+Sports
+For patients with HCM, participation in  
+high-intensity recreational activities or  
+moderate- to high-intensity competitive sports 
+activities may be considered after a  
+comprehensive evaluation and shared  
+discussion, repeated annually with an expert 
+provider who conveys that the risk of sudden 
+death and ICD shocks may be increased, and 
+with the understanding that eligibility  
+decisions for competitive sports participation 
+often involve third parties (eg, team  
+physicians, consultants, and other institutional 
+leadership) acting on behalf of the schools 
+or teams.
+2b For patients with HCM, participation in  
+vigorous recreational activities is reasonable 
+after an annual comprehensive evaluation and 
+shared decision-making with an expert  
+professional who balances potential benefits 
+and risks.
+2a
+For patients with HCM who are capable of  
+a high level of physical performance,  
+participation in competitive sports may be 
+considered after review by an expert  
+provider with experience managing athletes 
+with HCM who conducts an annual  
+comprehensive evaluation and shared  
+decision-making that balances potential ben-
+efits and risks.
+2b
+New 9.1 Recreational 
+Physical Activity 
+and Competitive 
+Sports
+N/A N/A For most patients with HCM, universal  
+restriction from vigorous physical activity or 
+competitive sports is not indicated.
+3: No Benefit
+New 9.3 Pregnancy 
+in Patients With 
+HCM
+N/A N/A In pregnant women, use of mavacamten is 
+contraindicated due to potential teratogenic 
+effects.
+3: Harm
+*Table 1 highlights new and substantially revised practice-changing recommendations since 2020 and is not a comprehensive list of all updates in this guideline.
+AF indicates atrial fibrillation; COR, Class of Recommendation; EF, ejection fraction; HCM, hypertrophic cardiomyopathy; HF, heart failure; ICD, implantable cardioverter- 
+defibrillator; L VEF, left ventricular ejection fraction; L VOTO, left ventricular outflow tract obstruction; N/A, not applicable; NYHA, New York Heart Association; SCD,  
+sudden cardiac death; and SRT, septal reduction therapy.
+Downloaded from http://ahajournals.org by on May 30, 2026
+=== PAGE 4 ===
+CLINICAL STATEMENTS  
+AND GUIDELINES
+June 4, 2024 Circulation. 2024;149:e1239–e1311. DOI: 10.1161/CIR.0000000000001250e1242
+Ommen et al 2024 Hypertrophic Cardiomyopathy Guideline
+TOP 10 TAKE-HOME MESSAGES
+ 1. Shared decision-making is essential to provide the 
+best clinical care. This involves thoughtful dialogue 
+among patients, families, and their care team in 
+which health care professionals present all avail-
+able testing and treatment options; discuss the 
+risks, benefits, and applicability of those options 
+to the individual patient; and ensure the patient 
+expresses their personal preferences and goals to 
+develop their treatment plan.
+ 2. Although the primary cardiology team can initiate 
+evaluation, treatment, and longitudinal care, refer-
+ral to multidisciplinary hypertrophic cardiomyopa-
+thy (HCM) centers with appropriate expertise can 
+be important to optimizing care for patients with 
+HCM. Challenging treatment decisions—where 
+reasonable alternatives exist, where the strength of 
+recommendation is weak (eg, any decision relying 
+on a Class of Recommendation 2b) or is particu-
+larly nuanced (eg, interpretation of genetic testing;  
+primary prevention implantable cardioverter- 
+defibrillator decision-making), and for HCM-
+specific invasive procedures—may critically benefit 
+from involving specialized HCM centers.
+ 3. Careful ascertainment of family history, counseling 
+patients with HCM about the potential for genetic 
+transmission of HCM, and options for genetic 
+testing are cornerstones of care. Screening first-
+degree family members of patients with HCM, 
+using either genetic testing, serial imaging, or elec-
+trocardiographic surveillance as appropriate, can 
+begin at any age and can be influenced by spe-
+cifics of the patient and family history and family 
+preference. Because screening recommendations 
+for family members hinge on the pathogenicity of 
+any detected variants, the reported pathogenic-
+ity should be reconfirmed every 2 to 3 years, and 
+input from specialized HCM centers with genetics 
+expertise may be valuable.
+ 4. Assessing a patient’s risk for sudden cardiac 
+death is an important component of management. 
+Integrating the presence or absence of established 
+risk markers with tools to estimate individual risk 
+score will facilitate the patient’s ability to par-
+ticipate in decision-making regarding implantable  
+cardioverter-defibrillator placement. These discus-
+sions should incorporate a patient’s personal level 
+of risk tolerance and their specific treatment goals.
+ 5. The risk factors for sudden cardiac death in children 
+with HCM carry different weights and components 
+than those used in adult patients. Pediatric risk 
+stratification also varies with age and must account 
+for different body sizes. Coupled with the complex-
+ity of placing implantable cardioverter-defibrillators 
+in young patients with anticipated growth and a 
+higher risk of device complications, the threshold 
+for implantable cardioverter-defibrillator implan-
+tation in children often differs from adults. These 
+differences are best addressed at comprehensive 
+HCM centers with expertise in caring for children 
+with HCM. New risk calculators, specific to chil-
+dren and adolescents, have been validated and can 
+help young patients and their families contextualize 
+their estimated risk of sudden cardiac death.
+ 6. Cardiac myosin inhibitors are now available to 
+treat patients with symptomatic obstructive HCM. 
+This new class of medication inhibits actin-myosin 
+interaction, thus decreasing cardiac contractility 
+and reducing left ventricular outflow tract obstruc-
+tion. Mavacamten is currently the only US Food 
+and Drug Administration–approved agent. These 
+agents can be beneficial for patients with obstruc-
+tive HCM who do not derive adequate symptomatic 
+relief from first-line drug therapy.
+ 7 . Invasive septal reduction therapies (surgical septal 
+myectomy and alcohol septal ablation), when per-
+formed by experienced HCM teams at dedicated 
+centers, can provide safe and effective symp-
+tomatic relief for patients with drug-refractory or 
+severe outflow tract obstruction. Given the data on 
+the significantly improved outcomes at compre-
+hensive HCM centers, these decisions represent 
+an optimal opportunity for referral.
+ 8. Patients with HCM and persistent or paroxysmal 
+atrial fibrillation have a sufficiently increased risk 
+of stroke such that oral anticoagulation with direct-
+acting oral anticoagulants (or alternatively warfarin) 
+should be considered the default treatment option 
+irrespective of the CHA2DS2-VASc score. New tools 
+to stratify risk for incident atrial fibrillation have been 
+developed and may assist in determining the fre-
+quency of screening patients with ambulatory telem-
+etry. Because rapid atrial fibrillation is often poorly 
+tolerated in patients with HCM, maintenance of sinus 
+rhythm and rate control are key treatment goals.
+ 9. Exercise stress testing is particularly helpful in 
+determining overall exercise tolerance and for 
+latent exercise provoked left ventricular out-
+flow tract obstruction. Because children may not 
+describe symptoms readily, routine exercise testing 
+can be particularly important for young patients.
+ 10. Increasingly, data affirm that the beneficial effects 
+of exercise on general health are extended to 
+patients with HCM. Healthy recreational exercise 
+(light [<3 metabolic equivalents], moderate [3-6 
+metabolic equivalents], and vigorous [>6 metabolic 
+equivalents] intensity levels) has not been associ-
+ated with increased risk of ventricular arrhythmia 
+events in short-term studies. If patients pursue rig-
+orous exercise training for the purpose of perfor-
+mance or competition, it is important to engage in 
+Downloaded from http://ahajournals.org by on May 30, 2026

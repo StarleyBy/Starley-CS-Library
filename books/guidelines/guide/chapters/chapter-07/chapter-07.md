@@ -1,4 +1,4 @@
-# 2024 ESC Guidelines for the management of chronic coronary syndromes
+# 🩺 <span class="luminous-amber">Chronic Coronary Syndromes</span> <span class="luminous-amber">2024</span> (<span class="luminous-blue">ESC</span>)
 
 ##### Developed by the task force for the management of chronic coronary syndromes of the European Society of Cardiology (ESC). Endorsed by the European Association for Cardio-Thoracic Surgery (EACTS).
 

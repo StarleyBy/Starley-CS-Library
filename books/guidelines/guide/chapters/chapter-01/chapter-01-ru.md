@@ -1,4 +1,4 @@
-# Рекомендации ESC/EACTS 2025 по ведению пациентов с клапанными пороками сердца
+# 🫀 <span class="luminous-purple">Клапанные пороки сердца</span> <span class="luminous-amber">2025</span> (<span class="luminous-blue">ESC</span>/<span class="luminous-blue">EACTS</span>)
 
 <details class="med-details"><summary>
 

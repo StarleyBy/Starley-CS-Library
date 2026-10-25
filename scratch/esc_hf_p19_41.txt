@@ -1,0 +1,2039 @@
+
+--- Page 19 ---
+4. Prevention of heart failure 
+4.1. Patients at risk of heart failure (stage A 
+heart failure) 
+4.1.1. Cardiometabolic risk factors 
+Diabetes, hypertension, obesity, and smoking account for 
+approximately 50% of all HF events on a population-based 
+level, ranging from 30%–40% among the oldest individuals 
+(over 75 years) to 75%–80% among individuals aged <55 
+years, and are similar for HFpEF and HFrEF.50–52 These 
+risk factors often cluster within the same individuals and 
+tend to be stable over the life course unless intervened 
+upon.53–56 Unhealthy lifestyle changes have led to a rising 
+incidence and prevalence of obesity, hypertension, and 
+type 2 diabetes over the past decades in many regions 
+across Europe, particularly among young to middle-aged 
+adults.57–59 Concomitantly, increases have been observed 
+in the incidence rates of HF among young adults, underscor-
+ing the need for earlier and better prevention strategies on 
+a population-based level.16,19,20 As the risk of HF is related 
+to both risk-factor burden (intensity) and risk-factor dur-
+ation (exposure time), early risk-factor management should 
+be considered for younger people with longer anticipated 
+exposure time. Personalized HF risk estimations (see 
+Section 4.1.2) may aid clinicians and patients in discussions, 
+management, and treatment decisions. 
+Specific recommendations on the management of obesity, 
+hypertension, and diabetes are outlined in the ESC guidelines 
+on prevention of CV disease (CVD), hypertension, and dia-
+betes, respectively.60–62 For hypertension, most evidence 
+supports targeting a blood pressure <130 mmHg to reduce 
+HF risk, although there are likely additional benefits of 
+achieving lower treatment targets if tolerated.63–69 For dia-
+betes, glucose-lowering drugs without proven HF safety 
+should be avoided,70 and among those at particular risk of 
+HF [especially in the presence of atherosclerotic CVD 
+(ASCVD)], SGLT2-Is and GLP-1 RAs have been shown to low-
+er risk of HFH and CV death.71–73 For obesity, declines in fat 
+mass and waist circumference, but not lean mass, lowers HF 
+risk and should be targeted.74 High cholesterol levels increase 
+the risk of HF mainly through CAD, and the use of statins has 
+shown to modestly lower HF events in people at high risk of 
+ASCVD and HF.75,76 
+4.1.2. Risk scores for individuals without heart  
+failure 
+To assist in more individualized HF risk estimation, the use of risk 
+scores may be considered. In addition to risk scores to predict 
+HFH and mortality among ambulatory patients with established 
+HF77–80 several risk scores for primary HF prevention have been 
+developed81–83. The American Heart Association (AHA) 
+PREVENT-HF risk score81 and the ESC SCORE2-HF82 were 
+both derived to estimate risk in people without pre-existing HF 
+over a 10-and 30-year horizon. The ESC risk scores have been 
+calibrated for low-, moderate-, high-, and very high-risk countries 
+to fit the European population. The ESC SMART2-HF risk 
+score83 was derived to estimate 10-year risk of HF in people 
+with pre-existing ASCVD. These risk scores are described in  
+Supplementary data online, Section S1 and Figure S1.  
+4.1.3. Lifestyle-related factors 
+4.1.3.1. Diet and physical activity 
+Epidemiological studies have shown that diets high in sugars, sa-
+turated fats, refined grains, and processed food are associated 
+with increased HF risk (especially HFpEF).84–90 In contrast, ad-
+herence to a diet rich in vegetables, nuts, whole grains, fish, 
+and unsaturated fats have been associated with lowered HF 
+risk.84,87 However, a secondary analysis of the PREDIMED trial 
+comparing a Mediterranean diet (with olive oil vs nuts) to a low- 
+fat diet in individuals at high risk of CVD did not show a signifi-
+cant difference in HF incidence between the groups over a me-
+dian follow-up of 4.8 years.89 Similarly, sedentary behaviour and 
+physical inactivity are strong risk factors for especially HFpEF 
+development60,91, but no randomized controlled trials (RCTs) 
+have investigated the role of physical activity for the prevention 
+of HF.91–93 Recommendations on exercise type and intensity to 
+promote general CV health are outlined in the 2020 ESC 
+Guidelines on sports cardiology and exercise in patients with cardio-
+vascular disease.94 
+4.1.3.2. Smoking, alcohol, and substance abuse 
+Smoking cessation has been shown to reduce HF risk over 
+time in epidemiological studies and should be encouraged 
+in all individuals. 95–97 Similarly, heavy alcohol use is asso-
+ciated with increased risk of HF and is discouraged, whereas 
+light-to-moderate intake has shown more mixed data with 
+regard to HF risk.98 Any form of substance abuse, recre-
+ational or continuous, with drugs such as cocaine, amphet-
+amine, and anabolic steroids is associated with increased 
+risk of cardiomyopathy and HF.99–101 If use is suspected, 
+this should be addressed with the patient and advised 
+against. 
+Recommendation Table 1 — Recommendations for preven-
+tion of heart failure (see Evidence Tables 1–15) 
+Recommendations Classa Levelb  
+Strict blood pressure control (systolic blood 
+pressure target <130 mmHg) is recommended in 
+patients with hypertension or stage B HF to 
+reduce the risk of HF.63–69,102 
+I A 
+An SGLT2-I is recommended in patients with 
+T2DM at risk of HF (multiple ASCVD risk factors 
+or established ASCVD) to reduce the risk of HF 
+and CV death.103 
+I A 
+An SGLT2-I is recommended in patients with 
+T2DM and CKDc to reduce the risk of HF or CV 
+death.104 
+I A 
+Finerenone is recommended in patients with 
+T2DM and CKDd to reduce the risk of HF.105–108 I A                                                                                                 
+Continued  
+5364                                                                                                                                                                                       ESC Guidelines 
+Downloaded from academic.oup.com/eurheartj/article/47/38/5346/8766302 by guest on 22 October 2026
+
+--- Page 20 ---
+4.1.4. Specific populations at risk 
+4.1.4.1. Arrhythmias 
+Atrial fibrillation (AF) and other supraventricular tachyarrhyth-
+mias, as well as frequent ventricular ectopy and conduction dis-
+ease, can all lead to HF. Prevention of HF in these conditions 
+mainly relates to treatment of the underlying condition, which 
+is covered in the 2024 ESC Guidelines for the management of at-
+rial fibrillation118 and the 2022 ESC Guidelines for the manage-
+ment of patients with ventricular arrhythmias and the prevention 
+of sudden cardiac death.119 
+Investigation of LV systolic dysfunction and for underlying 
+causes driving the arrhythmia should be considered based on 
+clinical presentation (e.g. genetic, infiltrative, or inflammatory 
+cardiomyopathy). In some patients, AF may be a marker of espe-
+cially subclinical HFpEF, and evaluation and treatment of com-
+mon cardiometabolic and lifestyle-related risk factors is 
+warranted in such patients. 
+4.1.4.2. Myocardial infarction 
+Patients with MI are at high risk of HF even in absence of wall mo-
+tion abnormalities or structural dysfunction. Treatment of cardio-
+metabolic risk factors should be optimized. In post-MI patients 
+with preserved LVEF (>50%), no difference in the risk of HF was 
+shown for beta-blocker therapy vs placebo in the REDUCE-AMI 
+trial, arguing against routine use of beta-blockers in this setting.120 
+A meta-analysis of BETAMI–DANBLOCK and the REBOOT-CNIC 
+trials showed no difference in major CV outcomes.121 
+4.1.4.3. Chronic kidney disease 
+Chronic kidney disease is a strong risk marker for future HF risk, 
+and efforts should be undertaken to optimize the control of con-
+comitant risk factors (diabetes, hypertension, ASCVD) to pre-
+vent or delay HF onset.76 There is strong evidence that both 
+SGLT2-Is and finerenone lower HF risk in patients with type 2 
+diabetes mellitus (T2DM) and CKD.104–108 Recommendations 
+on specific preventive treatments for patients with CKD and 
+CVD are outlined in the 2026 ESC Guidelines on cardiovascular 
+disease and chronic kidney disease.122 
+4.1.4.4. Cancer survivors 
+Cancer survivors, especially those with prior radiation or expos-
+ure to cardiotoxic agents (anthracycline, cyclophosphamide, im-
+mune checkpoint inhibitors, trastuzumab) are at higher risk of 
+asymptomatic LV systolic dysfunction and HF. The prevention 
+of HF in these patients, as well as surveillance and risk modifica-
+tion strategies among those undergoing active cancer treatment, 
+are outlined in the 2022 ESC Guidelines on cardio-oncology.6 
+4.1.4.5. Familial and genetic predisposition but no overt 
+clinical disease 
+Because modifiable risk factors are likely to be significant contri-
+butors to disease onset in many genetically predisposed indivi-
+duals, optimal risk-factor control is recommended in individuals 
+with familial or genetic predisposition to HF, but without clinical 
+disease.123 In carriers of dilated cardiomyopathy (DCM), non- 
+dilated LV cardiomyopathy, or ARVC-related variants, regular 
+follow-up and cardiac screening is suggested, according to the 
+specific recommendations provided in the 2023 ESC Guidelines 
+for the management of cardiomyopathies.124 
+4.1.4.6. Pulmonary disorders and sleep-disordered breathing 
+Poor sleep quality, sleep-disordered breathing (SDB), sleep ap-
+noea, and chronic obstructive pulmonary disease (COPD) 
+are all associated with a higher incidence of HF.125–127 
+Recommendations for screening and treatment of these condi-
+tions are outlined in the 2021 ESC Guidelines on cardiovascular 
+disease prevention in clinical practice.61 
+4.1.4.7. Endocrine disorders 
+Thyroid disorders, acromegaly, and pheochromocytoma are all 
+associated with increased risk of HF.61,128 Prevention of HF is 
+primarily related to correction of the underlying hormonal dys-
+function and should otherwise follow the general principles out-
+lined in this section. 
+4.1.4.8. Congenital heart disease 
+Advances in surgical repair and life expectancy for patients with 
+congenital heart disease have led to an increasing burden of HF 
+in this population.129,130 Patients with congenital heart disease 
+have an eight-fold overall increased relative risk of developing 
+HF and are on average 20–25 years younger at the time of HF 
+onset, compared with age- and sex-matched controls.131 The 
+risk is greatest in complex lesions such as conotruncal defects  
+Counselling on healthy lifestyle choices 
+including maintaining a healthy weight, 
+consuming a well-balanced diet, avoiding 
+sedentary behaviour, abstaining from smoking 
+and heavy alcohol consumption as well as 
+counselling against the use of drugs such as 
+cocaine, amphetamines, and anabolic steroids is 
+recommended for all patients with stage A or B 
+HF to reduce the risk of HF 
+progression.74,84,85,87,91,95–100,109–112 
+I C 
+Treatment with a statin should be considered in 
+people at high risk of, or with established 
+ASCVD, to reduce the risk of HF.75 
+IIa A 
+A GLP-1 RA should be considered in patients 
+with T2DM and at least one other additional CV 
+risk factor to reduce the risk of HF or CV 
+death.71,113,114 
+IIa A 
+© ESC 2026
+ASCVD, atherosclerotic cardiovascular disease; CKD, chronic kidney disease; CV, 
+cardiovascular; eGFR, estimated glomerular filtration rate; GLP-1 RA, 
+glucagon-like peptide-1 receptor agonist; HF, heart failure; SGLT2-I, sodium– 
+glucose co-transporter 2 inhibitor; T2DM, type 2 diabetes mellitus. 
+aClass of recommendation. 
+bLevel of evidence. 
+cCKD was defined as follows: an eGFR 25–75 mL/min/1.73 m2 and a urinary albumin- 
+to-creatinine ratio ≥200–5000 mg/g in DAPA-CKD; an eGFR 20–45 mL/min/1.73 m2 
+or an eGFR 45–90 mL/min/1.73 m2 with a urinary albumin-to-creatinine ratio ≥200 
+mg/g in EMPA-KIDNEY; and eGFR 30–<90 mL/min/1.73 m2 with a urinary 
+albumin-to-creatinine ratio >300 to ≤5000 mg/g in CREDENCE.115–117 
+dCKD was defined as follows: an eGFR 25–60 mL/min/1.73 m2, a urinary albumin-to- 
+creatinine ratio 30–300 mg/g, and diabetic retinopathy, or an eGFR 25–75 mL/min/ 
+1.73 m2 and a urinary albumin-to-creatinine ratio 300–5000 mg/g, in FIDELIO- 
+DKD106; and an eGFR 25–90 mL/min/1.73 m2 and a urinary albumin-to-creatinine 
+ratio 30 to <300 mg/g, or an eGFR >60 mL/min/1.73 m2 and a urinary albumin-to- 
+creatinine ratio 300–5000 mg/g, in FIGARO-DKD107.   
+ESC Guidelines                                                                                                                                                                                        5365 
+Downloaded from academic.oup.com/eurheartj/article/47/38/5346/8766302 by guest on 22 October 2026
+
+--- Page 21 ---
+(e.g. tetralogy of Fallot, transposition of the great arteries, trun-
+cus arteriosus, double-outlet right or left ventricle, with up to 
+42-fold risk), and severe non-conotruncal defects (e.g. atrioven-
+tricular septal defects, single ventricle and hypoplastic left heart 
+syndrome, with up to 21-fold increased risk).131 Conventional 
+HF risk factors (e.g. CAD, hypertension, diabetes, and obesity) 
+are common in patients with congenital heart disease and con-
+tribute significantly to HF risk.132–134 Careful attention to risk- 
+factor modification is warranted as they are likely to contribute 
+to the risk of developing HF. 
+4.2. Patients with stage B heart failure 
+4.2.1. Asymptomatic left ventricular dysfunction 
+Based on normal reference values of LVEF in adult population- 
+based samples, LV systolic dysfunction should be considered pre-
+sent if patients are asymptomatic and have an LVEF <50% in 
+the absence of alternative explanations (e.g. athlete’s heart) for 
+both men and women and regardless of age. Treatment with an 
+ACE-I (or ARB if intolerant) if LVEF  ≤40% and a beta-blocker if 
+LVEF <50% are recommended to reduce the risk of HF and mor-
+tality. The evidence behind these recommendations are derived 
+from the SOLVD-Prevention trial,135,136 which randomized pa-
+tients with asymptomatic LV systolic dysfunction (LVEF ≤35%) 
+to enalapril or placebo, and the TRACE137 and SAVE138 trials, 
+which randomized patients post-MI with LVEF ≤35%–40% to 
+trandolapril or placebo (TRACE) and captopril vs placebo 
+(SAVE). These studies were conducted in the 1990s and contem-
+porary management of multiple comorbidities (MI, diabetes, 
+CKD) has since changed. One RCT, CAPRICORN, published in 
+2001, investigated beta-blockers post-MI in patients with LV sys-
+tolic dysfunction, where patients were randomized to carvedilol 
+or placebo.139 It should be noted that this trial allowed patients 
+to receive intravenous (i.v.) diuretics for acute HF, but excluded 
+those with continuous need for i.v. diuretics, meaning not all 
+had truly asymptomatic LV systolic dysfunction. The hazard ratio 
+(HR) for all-cause mortality was 0.77 [95% confidence interval (CI) 
+0.60–0.98] in the group receiving carvedilol vs placebo. 
+Additional observational data from SOLVD and SAVE suggested 
+similar improved outcomes with a beta-blocker.140–142 Further, 
+the REVERT trial, which randomized asymptomatic patients 
+with LVEF <40% to metoprolol extended release or placebo, 
+showed that metoprolol reversed LV remodelling.142 The role 
+of these drugs for asymptomatic individuals with mildly reduced 
+LVEF (41%–49%) is not well studied, but their use is reasonable 
+also in this range of LVEF given the shared pathophysiology 
+with more depressed LV systolic function. A meta-analysis of 
+BETAMI–DANBLOCK and REBOOT-CNIC showed a significant 
+reduction in the combined endpoint of mortality, MI and HF 
+with beta-blockers vs placebo in post-MI patients with stage B 
+HF and mildly reduced LVEF.121 Careful follow-up to assess for 
+progressive decline in LVEF is otherwise warranted for patients 
+without treatment. Based on the results of the EPHESUS trial, 
+eplerenone is recommended in patients after MI with LVEF 
+≤40% and diabetes to reduce the risk of HFH or death.143 
+4.2.2. Valvular heart disease 
+Prevention of HF in patients with valvular disease should follow 
+the recommendations outlined in the 2025 ESC/EACTS 
+Guidelines for the management of valvular heart disease.9 
+4.3. Risk prediction in patients with 
+established heart failure 
+Several risk scores have been developed to predict HFH and 
+mortality among ambulatory patients with established HF, in-
+cluding e.g. the MAGGIC risk score,77 the Seattle Heart Failure 
+Model,78 and the more recent ESC initiated LIFE-HF79 (HFrEF) 
+and LIFE-Preserved (HFpEF).80 It should be noted that LIFE-HF 
+included patients with LVEF ≤40% and LIFE-Preserved patients 
+with LVEF ≥50%. The ESC scores therefore need to be validated 
+for HFrEF patients in the upper range of LVEF (>40%–49%) and, 
+ideally, in external samples across the entire LVEF spectrum be-
+fore widespread implementation (see Supplementary data 
+online, Section S1 and Figure S1). Although pharmacological treat-
+ments are indicated in patients with established HF regardless of 
+estimated risks (as outlined in Section 6), these risk scores may be 
+helpful in identifying high-risk patients that may benefit from 
+closer follow-up and to facilitate discussions around patient 
+goals of care. 
+5. Diagnosis of chronic heart failure 
+5.1. Key steps in the diagnosis of chronic 
+heart failure 
+The failing heart causes a clinical syndrome with a wide array of 
+signs and symptoms, which vary in sensitivity and specificity 
+(Table 7), and none of which are entirely characteristic. The se-
+verity of HF symptoms can be classified according to the 
+New York Heart Association (NYHA) functional class (Table 8). 
+Specialist assessment relies on clinical evaluation, the examin-
+ation of individual risk factors, and previous medical history as 
+well as 12-lead ECG and chest X-ray evaluation. Clinical suspi-
+cion should be followed by testing of natriuretic peptides and 
+echocardiography (Figure 4). In the very elderly patients, suspi-
+cion should be raised even with an atypical presentation. A re-
+cent HFA consensus paper provides a diagnostic framework 
+for general practice and non–cardiology-based physicians.145 
+Recommendation Table 2 — Recommendations for stage B 
+heart failure and left ventricular dysfunction (see Evidence 
+Table 16) 
+Recommendations Classa Levelb  
+An ACE-I or ARB (if intolerant to ACE-I) is 
+recommended in patients with stage B HF and 
+LVEF ≤40% to reduce the risk of HFH and 
+death.135–138,144 
+I A 
+A beta-blocker is recommended in patients with 
+stage B HF and LVEF <50% to reduce the risk of 
+HFH or death.35,139,140 
+I B1 
+Eplerenone is recommended in patients with 
+LVEF ≤40% after myocardial infarction with 
+signs of HF or diabetes to reduce the risk of HFH 
+and death.143 
+I B1 
+© ESC 2026
+ACE-I, angiotensin-converting enzyme inhibitor; ARB, angiotensin II receptor 
+blocker; HF, heart failure; HFH, heart failure hospitalization; LVEF, left 
+ventricular ejection fraction. 
+aClass of recommendation. 
+bLevel of evidence.   
+5366                                                                                                                                                                                       ESC Guidelines 
+Downloaded from academic.oup.com/eurheartj/article/47/38/5346/8766302 by guest on 22 October 2026
+
+--- Page 22 ---
+5.1.1. Natriuretic peptides 
+Adverse clinical events often occur soon after a new presenta-
+tion of HF in the community; therefore, timely diagnosis and ini-
+tiation of treatment are essential. Natriuretic peptide testing is 
+recommended to support the diagnosis of HF and improves ef-
+ficiency by avoiding unnecessary echocardiography and/or spe-
+cialist assessment.146–150 N-terminal pro-B-type natriuretic 
+peptide (NT-proBNP) is the most widely used natriuretic peptide 
+in the management of HF in Europe and has two key advan-
+tages: better stability at room temperature, enabling reliable 
+testing in both hospital and community settings; and unaltered 
+results despite treatment with ARNIs, which affect B-type natri-
+uretic peptide (BNP) degradation.149,150 
+However, testing for NT-proBNP is not universally available, 
+and some regions employ BNP or mid-regional pro-atrial natri-
+uretic peptide (MR-proANP) testing. 
+The 2021 ESC Guidelines for the diagnosis and treatment 
+of acute and chronic heart failure recommended a single natriuretic 
+peptide threshold to ‘rule out’ HF (<125 pg/mL for NT-proBNP, 
+<35 pg/mL; for BNP, <40 pg/mL; for MR-proANP). Single natri-
+uretic peptide rule-out thresholds have the advantage of simpli-
+city; however, natriuretic peptide levels are strongly related to 
+age and lack specificity in older people.151 More than 75% of a 
+healthy population >80 years were found to exceed the 
+125 pg/mL NT-proBNP threshold.152–156 The HFA-ESC consen-
+sus statement on NT-proBNP testing recommends introducing 
+age-related thresholds determined from the 95th percentile of 
+the Generation Scotland cohort to improve specificity and reduce 
+unnecessary demand on echocardiography and HF services.157 
+The suggested age-adjusted NT-proBNP levels, above which 
+HF is ‘likely’ in the outpatient setting, were  ≥125 pg/mL for those 
+aged <50 years, ≥250 pg/mL between 50 and 75 years, and 
+≥500 pg/mL over 75 years.151,157 Currently there are insufficient 
+data for determining age-specific BNP cut-offs. For the diagnosis 
+of HFpEF, natriuretic peptide interpretation may be challenging 
+as a variety of conditions associated with HFpEF affect natriuretic 
+peptide levels (Table 9).158 Especially obesity is associated with 
+lower cut-off values for natriuretic peptides, and caution is ad-
+vised when interpreting natriuretic peptide levels in obese pa-
+tients.158–160 Reduced kidney function has been shown to be 
+associated with higher NT-proBNP levels, although NT-proBNP 
+measurements should not be disregarded in the setting of kidney 
+dysfunction.161,162 Furthermore, many other factors can elevate 
+natriuretic peptide levels (Table 9). Clinicians must consider these 
+factors in conjunction with clinical assessment and investigation 
+findings when interpreting natriuretic peptide measurements; 
+however, the higher the natriuretic peptide level the greater 
+the likelihood of HF as the diagnosis. 
+Natriuretic peptides also provide important prognostic infor-
+mation, enabling rapid triage of high-risk patients. Primary care 
+data from England demonstrate that patients with HF and 
+NT-proBNP levels exceeding 2000 pg/mL exhibit a two-fold in-
+creased risk of early HFH. Accordingly, expedited specialist as-
+sessment of this high-risk cohort is warranted.163 
+Table 7 Symptoms and signs of heart failure 
+Symptoms Signs  
+Typical More specific 
+Dyspnoea Elevated jugular venous pressure 
+Orthopnoea Hepatojugular reflux 
+Paroxysmal nocturnal 
+dyspnoea 
+Third heart sound (gallop rhythm) 
+Reduced exercise 
+tolerance 
+Laterally displaced apical impulse 
+Fatigue, tiredness, increased 
+time to recover after exercise  
+Ankle oedema  
+Less typical Less specific 
+Nocturnal cough Weight gain (>2 kg/week) 
+Wheezing Weight loss (in advanced HF) 
+Bloated feeling Tissue wasting (cachexia) 
+Loss of appetite Cardiac murmur 
+Confusion (especially in the 
+elderlya) 
+Peripheral oedema (ankle, sacral, 
+scrotal) 
+Depression Pulmonary crepitations 
+Palpitations Pleural effusion 
+Dizziness Tachycardia 
+Syncope Irregular pulse 
+Bendopnoeab Tachypnoea  
+Cheyne–Stokes respiration  
+Hepatomegaly  
+Ascites  
+Cold extremities  
+Oliguria  
+Narrow pulse pressure 
+© ESC 2026
+HF, heart failure. 
+aElderly patients may present with more atypical symptoms of HF. 
+bBreathlessness on bending forward/flexing the body.  
+Table 8 New York Heart Association functional classifica-
+tion based on severity of symptoms and physical activity 
+NYHA 
+class 
+Severity of symptoms and physical activity  
+Class I No limitation of physical activity. Ordinary physical 
+activity does not cause undue breathlessness, fatigue, 
+or palpitations. 
+Class II Slight limitation of physical activity. Comfortable at 
+rest, but ordinary physical activity results in undue 
+breathlessness, fatigue, or palpitations. 
+Class III Marked limitation of physical activity. Comfortable at 
+rest, but less than ordinary activity results in undue 
+breathlessness, fatigue, or palpitations. 
+Class IV Unable to carry on any physical activity without 
+discomfort. Symptoms at rest can be present. If any 
+physical activity is undertaken, discomfort is 
+increased. 
+© ESC 2026
+NYHA, New York Heart Association.   
+ESC Guidelines                                                                                                                                                                                        5367 
+Downloaded from academic.oup.com/eurheartj/article/47/38/5346/8766302 by guest on 22 October 2026
+
+--- Page 23 ---
+Figure 4 Diagnostic algorithm for chronic heart failure presenting in the outpatient or community setting. BNP, B-type natriuretic pep-
+tide; CXR, chest X-ray; ECG, electrocardiogram; HbA1c, glycated haemoglobin; HF, heart failure; HFpEF, heart failure with preserved 
+ejection fraction; HFrEF, heart failure with reduced ejection fraction; LVEF, left ventricular ejection fraction; NT-proBNP, N-terminal 
+pro-B-type natriuretic peptide; POCUS, point-of-care ultrasound; TSAT, transferrin saturation; UACR, urine albumin-to-creatinine ratio. 
+aFull blood count, kidney function, electrolytes, UACR, liver function, thyroid function, HbA1c, lipids, and iron status (TSAT and ferritin). 
+bExamination by POCUS may aid in diagnosis although echocardiography is recommended. cNatriuretic peptides may be false low in 
+certain settings (Table 9). dPreferable performed within 2 weeks if NT-proBNP >2000 pg/mL.   
+5368                                                                                                                                                                                       ESC Guidelines 
+Downloaded from academic.oup.com/eurheartj/article/47/38/5346/8766302 by guest on 22 October 2026
+
+--- Page 24 ---
+5.1.2. Other laboratory tests 
+Basic investigations, such as serum urea and electrolytes, cre-
+atinine, full blood count, glycated haemoglobin, lipids, iron sta-
+tus [transferrin saturation (TSAT) and ferritin], liver and 
+thyroid function tests, are recommended to assess for and 
+evaluate comorbidities, to provide prognostic information, 
+and to guide potential therapy. 
+Urine albumin-to-creatinine ratio (UACR) has been added to 
+the initial baseline investigations, because the Kidney Disease: 
+Improving Global Outcomes (KDIGO) guidelines advise that 
+both estimated glomerular filtration rate (eGFR) and UACR 
+(graded A1, <30 mg/g; A2, 30–300 mg/g; A3, >300 mg/g) are 
+required in the assessment of kidney function.164 UACR is inde-
+pendent of glomerular filtration rate (GFR), and severe albumin-
+uria (grade A3) may be present despite GFR ≥90 mL/min/ 
+1.73 m2. UACR has strong independent prognostic value for pa-
+tients with HF.165,166 Albuminuria is a potentially treatable and 
+reversible disorder, amenable to medications also used in HF, in-
+cluding ACE-Is/ARNIs/ARBs, MRAs, and SGLT2-Is.167 
+5.2. Heart failure phenotypes based on left 
+ventricular ejection fraction 
+Echocardiography provides evaluations of both systolic and dia-
+stolic function and valvular function and enables the distinction 
+between HF (stage C) phenotypes based on LVEF. 
+5.2.1. Heart failure with reduced ejection fraction 
+The diagnosis of HFrEF requires the following criteria:  
+(i) Presence of current or prior symptoms and/or signs of HF 
+(Table 7)  
+(ii) LVEF <50%.  
+Elevated natriuretic peptides strongly support the diagnosis 
+of HFrEF in the presence of symptoms, and may aid in the 
+Table 9 Causes for increase or decrease in natriuretic 
+peptide levels 
+Causes for increased natriuretic peptide levels  
+Acute coronary syndrome 
+Advanced agea 
+Atrial fibrillation 
+Cardiac contusion  
+COPD 
+Critical illness 
+Female sex 
+Kidney dysfunction 
+LV hypertrophy 
+Myocarditis 
+Obstructive sleep apnoea 
+Paraneoplastic syndrome 
+Pulmonary embolism 
+Pulmonary hypertension 
+RV pacing 
+Severe anaemia 
+Severe endocrine dysfunction  
+Severe infections (including pneumonia and sepsis) 
+Severe liver disease  
+Severe metabolic acidosis and diabetic ketoacidosis 
+Subarachnoid haemorrhage 
+Systemic hypertension 
+Valvular heart disease 
+Causes for decreased natriuretic peptide levels 
+African ancestry 
+ARNIb/ACE-I/ARB 
+Beta-blockers 
+Constrictive pericarditis 
+MRA 
+Obesity 
+SGLT2-I 
+© ESC 2026
+ACE-I, angiotensin-converting enzyme inhibitor; ARB, angiotensin II receptor 
+blocker; ARNI, angiotensin receptor–neprilysin inhibitor; BNP, B-type 
+natriuretic peptide; COPD, chronic obstructive pulmonary disease; LV, left 
+ventricular; MRA, mineralocorticoid receptor antagonist; RV, right ventricular; 
+SGLT2-I, sodium–glucose co-transporter 2 inhibitor. 
+aSee Figure 4. 
+bARNI may raise BNP levels.  
+Recommendation Table 3 — Recommendations for diagnos-
+tic investigations in all patients with suspected heart failure 
+(see Evidence Tables 17–19) 
+Recommendations Classa Levelb  
+In patients with suspected HF, the following 
+laboratory tests are recommended when 
+screening for comorbidities: full blood count, 
+kidney function (eGFR and UACR), electrolytes, 
+liver function, thyroid function, HbA1c, lipids, 
+and iron status (TSAT and ferritin).168 
+I C 
+Natriuretic peptide measurement is 
+recommended in patients with suspected HF 
+(interpreted in relation to patient age, obesity, 
+and other factors known to affect natriuretic 
+peptide levelc).146–148,151–153,169 
+I C 
+A 12-lead ECG is recommended in patients with 
+suspected HF. I C 
+Chest radiography (X-ray) is recommended in 
+patients with suspected HF. I C 
+Transthoracic echocardiogram is recommended 
+in patients with suspected HF to confirm the 
+diagnosis, differentiate between HF phenotypes 
+and aid in identifying the underlying aetiology of 
+HF. 
+I C 
+© ESC 2026
+ECG, electrocardiogram; eGFR, estimated glomerular filtration rate; HbA1c, 
+glycated haemoglobin; HF, heart failure; NT-proBNP, N-terminal pro-B-type 
+natriuretic peptide; TSAT, transferrin saturation; UACR, urine 
+albumin-to-creatinine ratio. 
+aClass of recommendation. 
+bLevel of evidence. 
+cSee Figure 4 for age-adjusted cut-offs for NT-proBNP levels, and Table 9 for 
+factors affecting natriuretic peptide levels.   
+ESC Guidelines                                                                                                                                                                                        5369 
+Downloaded from academic.oup.com/eurheartj/article/47/38/5346/8766302 by guest on 22 October 2026
+
+--- Page 25 ---
+diagnostic pathway, especially if echocardiography is not readily 
+available. However, many factors may cause false positive or 
+false negative results, which should be considered when evalu-
+ating natriuretic peptide (Table 9). LVEF is a continuous measure 
+and may differ between methods used as well as sex. For this 
+reason, a precise value is only given as guidance. 
+Aetiology assessment is important, as it may result in finding 
+potential treatable and/or reversible causes. The major aetiolo-
+gies of HFrEF are illustrated in Figure 5. 
+5.2.2. Heart failure with preserved ejection fraction 
+The diagnosis of HFpEF is more challenging and should start 
+with the assessment of pre-test probability.170 Several clinical 
+factors may contribute to or be associated with HFpEF, as illu-
+strated in Figure 6. The more factors present the higher the like-
+lihood of HFpEF. 
+The following criteria must all be present for the diagnosis of 
+HFpEF:  
+(i) Presence of current or prior symptoms and/or signs of HF 
+(Table 7)  
+(ii) LVEF ≥50% (requires that LVEF has not previously been 
+<50%)  
+(iii) Objective evidence of cardiac structural and/or functional 
+abnormalities consistent with the presence of LV diastolic 
+dysfunction/raised LV filling pressures (Table 10), supported 
+by raised natriuretic peptides (Figure 4). 
+Testing for elevated levels of natriuretic peptides may in most pa-
+tients support the diagnosis of HFpEF. However, diagnostic 
+thresholds for HFpEF should be critically evaluated based on pa-
+tient characteristics, especially in the presence of obesity and other 
+factors that may cause reduced natriuretic peptide levels 
+(Table 9).158 
+A pragmatic approach to the diagnosis of HFpEF is advised to 
+facilitate access to diagnosis for the large population of elderly 
+patients potentially affected. More complicated scoring sys-
+tems171,172 have shown conflicting results in the community 
+setting, but a meta-analysis indicates acceptable specificity 
+and sensitivity for detection of HFpEF.173–175 If employed, diag-
+nostic scoring systems should be interpreted with caution and 
+used primarily to raise clinical suspicion of HFpEF rather than 
+to establish a definitive diagnosis. In cases of diagnostic uncer-
+tainty, further investigations—such as cardiopulmonary exercise 
+testing (CPET) [including measurement of peak oxygen con-
+sumption (VO2) to confirm reduced exercise capacity and eluci-
+date the underlying cause of dyspnoea], exercise stress 
+echocardiography, or invasive haemodynamic assessment— 
+may be considered.176 
+The gold standard, confirmatory test for the diagnosis of 
+HFpEF is invasive haemodynamic exercise testing. An inva-
+sively measured pulmonary capillary wedge pressure of 
+≥15 mmHg (at rest), or ≥25 mmHg (with exercise), or an LV 
+end-diastolic pressure ≥16 mmHg (at rest) is generally consid-
+ered diagnostic. In recognition that invasive haemodynamic 
+exercise testing is expensive and is not available in many cen-
+tres worldwide, its main use should be limited to research set-
+tings or to patients with diagnostic uncertainty despite 
+non-invasive testing. In most patients, the diagnosis of 
+HFpEF can be made based on clinical history and echocardio-
+graphic signs (Table 10). Thus, invasive testing is indicated in 
+only a minority of patients where the diagnosis is uncertain 
+and where establishing the diagnosis or an alternative cause 
+of signs or symptoms is likely to affect patient management. 
+Therefore, current guidelines do not mandate invasive 
+haemodynamic testing in every patient with suspected 
+HFpEF to make the diagnosis. 
+5.3. Aetiology and subtypes of heart failure 
+Assessment of aetiology is fundamental for the management 
+of HF, as treatment should, if possible, address the 
+underlying cause. Some treatments may be aetiology depend-
+ent, and some causes of HF are potentially reversible. 
+Disease-modifying therapies are increasingly available, and 
+early identification and treatment can improve survival. 
+Targeted therapies for specific cardiomyopathies are under in-
+vestigation, and precise aetiological assessment will become 
+increasingly important in the future. Aetiology assessment 
+also determines prognosis,177 is relevant to the patient, and 
+imperative for care planning. 
+Common causes of HF include ischaemic heart 
+disease, hypertension, and valvular heart disease, although a 
+multitude of other causes and contributing factors exist 
+(Figures 5 and 6) and often more than one possible cause 
+may be present. 
+Determining the aetiology often involves a multipara-
+metric evaluation beginning with obtaining a medical history 
+from the patient, continuing through patient examination 
+and clinical tests (Figure 7). Often non-invasive testing ac-
+companied by medical history will be sufficient to determine 
+aetiology. Characteristic findings indicating the underlying 
+Table 10 Simplified echocardiographic criteria for sup-
+porting objective evidence of heart failure with preserved 
+ejection fraction 
+Criteria Echocardiographic 
+threshold  
+LV hypertrophy LV mass index 
+≥95 g/m2 (female) 
+≥115 g/m2 (male) 
+OR 
+Relative wall thickness 
+>0.42 
+LA dilatation (volume indexed by BSA) >34 mL/m2 (sinus rhythm) 
+>40 mL/m2 (AF) 
+Increased likelihood of elevated LV 
+filling pressure 
+E/e′ >9 at resta 
+Raised estimated systolic PA pressure >35 mmHg 
+OR 
+TR velocity at rest 
+>2.8 m/s 
+© ESC 2026
+The probability for an HFpEF diagnosis increases with the number of parameters 
+in the pathological range. 
+AF, atrial fibrillation; BSA, body surface area; HFpEF, heart failure with preserved 
+ejection fraction; LA, left atrial; LV, left ventricular; PA, pulmonary artery; TR, 
+tricuspid regurgitation. 
+aE/e′ ≥15 is more specific, but less sensitive, for the diagnosis of HFpEF.   
+5370                                                                                                                                                                                       ESC Guidelines 
+Downloaded from academic.oup.com/eurheartj/article/47/38/5346/8766302 by guest on 22 October 2026
+
+--- Page 26 ---
+aetiology are noted in many patients at the time of echocar-
+diography. Patients with ischaemic aetiology may have re-
+gions of akinesis/dyskinesis and thinning/aneurysm 
+formation in the myocardial areas affected by coronary dis-
+ease. Valvular disease is detected, often also with character-
+istic valvular findings dependent on cause (e.g. rheumatic or 
+ischaemic), and the long-term sequelae of untreated hyper-
+tension may be observed (LV hypertrophy, aortic dilatation 
+with or without central aortic regurgitation). Findings con-
+sistent with other cardiomyopathies, cardiac amyloidosis 
+(CA), or ventricular dyssynchrony in left bundle branch block 
+(LBBB) may also be noted. 
+When considering further investigation for CAD, non- 
+invasive assessment is often sufficient, and before proceeding 
+to invasive assessment the risks and benefits should be consid-
+ered.178–180 
+/gid00042/gid00082/gid00066/gid00071/gid00064/gid00068/gid00076/gid00072/gid00066
+/gid00071/gid00068/gid00064/gid00081/gid00083/gid00001/gid00067/gid00072/gid00082/gid00068/gid00064/gid00082/gid00068
+/gid00041/gid00088/gid00079/gid00068/gid00081/gid00083/gid00068/gid00077/gid00082/gid00072/gid00078/gid00077
+/gid00034/gid00081/gid00081/gid00071/gid00088/gid00083/gid00071/gid00076/gid00072/gid00064/gid00082
+/gid00034/gid00065/gid00077/gid00078/gid00081/gid00076/gid00064/gid00075
+/gid00066/gid00064/gid00081/gid00067/gid00072/gid00064/gid00066
+/gid00066/gid00078/gid00077/gid00067/gid00084/gid00066/gid00083/gid00072/gid00078/gid00077
+/gid00040/gid00068/gid00077/gid00068/gid00083/gid00072/gid00066
+/gid00048/gid00083/gid00071/gid00068/gid00081/gid00001
+/gid00066/gid00064/gid00084/gid00082/gid00068/gid00082
+/gid00052/gid00083/gid00078/gid00081/gid00064/gid00070/gid00068/gid00016
+/gid00072/gid00077/gid00195/gid00075/gid00083/gid00081/gid00064/gid00083/gid00072/gid00085/gid00068
+/gid00067/gid00072/gid00082/gid00068/gid00064/gid00082/gid00068
+/gid00042/gid00077/gid00069/gid00068/gid00066/gid00083/gid00072/gid00078/gid00084/gid00082/gid00016
+/gid00072/gid00077/gid00197/gid00064/gid00076/gid00076/gid00064/gid00083/gid00078/gid00081/gid00088
+/gid00036/gid00078/gid00077/gid00070/gid00068/gid00077/gid00072/gid00083/gid00064/gid00075
+/gid00071/gid00068/gid00064/gid00081/gid00083
+/gid00067/gid00072/gid00082/gid00068/gid00064/gid00082/gid00068
+/gid00053/gid00078/gid00087/gid00072/gid00066/gid00064
+/gid00055/gid00064/gid00075/gid00085/gid00084/gid00075/gid00064/gid00081
+/gid00071/gid00068/gid00064/gid00081/gid00083
+/gid00067/gid00072/gid00082/gid00068/gid00064/gid00082/gid00068
+/gid00041/gid00039/gid00081/gid00038/gid00039
+/gid00048/gid00083/gid00071/gid00068/gid00081
+/gid00066/gid00064/gid00081/gid00067/gid00072/gid00078/gid00076/gid00088/gid00078/gid00079/gid00064/gid00083/gid00071/gid00072/gid00068/gid00082
+/gid00037/gid00072/gid00075/gid00064/gid00083/gid00068/gid00067
+/gid00066/gid00064/gid00081/gid00067/gid00072/gid00078/gid00076/gid00088/gid00078/gid00079/gid00064/gid00083/gid00071/gid00088
+Figure 5 Major contributing causes of heart failure with reduced ejection fraction. HFrEF, heart failure with reduced ejection fraction. 
+aToxic may include both drug-related and chemotherapy-related causes.   
+ESC Guidelines                                                                                                                                                                                        5371 
+Downloaded from academic.oup.com/eurheartj/article/47/38/5346/8766302 by guest on 22 October 2026
+
+--- Page 27 ---
+If an underlying cardiomyopathy is suspected or the aetiology 
+is unclear, further imaging with cardiac magnetic resonance 
+(CMR) imaging is recommended. We refer to the 2023 ESC 
+Guidelines for the management of cardiomyopathies regarding 
+specific recommendations and approaches for investigations 
+into specific cardiomyopathies.124 An approach with laboratory 
+and imaging tests chosen according to the five subtypes 
+[hypertrophic cardiomyopathy (HCM), DCM, restrictive 
+cardiomyopathy, ARVC, and non-dilated LV cardiomyopathy] 
+has been recommended.124 
+In patients with unexplained dyspnoea, CPET may be used to 
+identify the cause of unexplained dyspnoea and/or exercise 
+intolerance. 
+When a specific aetiology is suspected, further investiga-
+tions may be required, such as 18F-fluorodeoxyglucose- 
+positron emission tomography (18F-FDG-PET) for suspected 
+/gid00042/gid00082/gid00066/gid00071/gid00064/gid00068/gid00076/gid00072/gid00066
+/gid00071/gid00068/gid00064/gid00081/gid00083
+/gid00067/gid00072/gid00082/gid00068/gid00064/gid00082/gid00068
+/gid00041/gid00088/gid00079/gid00068/gid00081/gid00083/gid00068/gid00077/gid00082/gid00072/gid00078/gid00077
+/gid00048/gid00065/gid00068/gid00082/gid00072/gid00083/gid00088
+/gid00053/gid00088/gid00079/gid00068/gid00001/gid00019
+/gid00067/gid00072/gid00064/gid00065/gid00068/gid00083/gid00068/gid00082
+/gid00052/gid00068/gid00067/gid00068/gid00077/gid00083/gid00064/gid00081/gid00088
+/gid00075/gid00072/gid00069/gid00068/gid00082/gid00083/gid00088/gid00075/gid00068
+/gid00052/gid00075/gid00068/gid00068/gid00079
+/gid00064/gid00079/gid00077/gid00078/gid00068/gid00064
+/gid00036/gid00044/gid00037
+/gid00034/gid00077/gid00064/gid00068/gid00076/gid00072/gid00064
+/gid00048/gid00083/gid00071/gid00068/gid00081
+/gid00066/gid00064/gid00084/gid00082/gid00068/gid00082
+/gid00049/gid00084/gid00075/gid00076/gid00078/gid00077/gid00064/gid00081/gid00088
+/gid00067/gid00072/gid00082/gid00068/gid00064/gid00082/gid00068
+/gid00055/gid00064/gid00075/gid00085/gid00084/gid00075/gid00064/gid00081
+/gid00071/gid00068/gid00064/gid00081/gid00083
+/gid00067/gid00072/gid00082/gid00068/gid00064/gid00082/gid00068 /gid00041/gid00039/gid00079/gid00038/gid00039
+/gid00042/gid00077/gid00197/gid00064/gid00076/gid00076/gid00064/gid00083/gid00078/gid00081/gid00088/gid00016
+/gid00072/gid00077/gid00195/gid00075/gid00083/gid00081/gid00064/gid00083/gid00072/gid00085/gid00068
+/gid00067/gid00072/gid00082/gid00068/gid00064/gid00082/gid00068
+/gid00039/gid00068/gid00076/gid00064/gid00075/gid00068
+/gid00082/gid00068/gid00087
+/gid00034/gid00067/gid00085/gid00064/gid00077/gid00066/gid00068/gid00067
+/gid00064/gid00070/gid00068
+/gid00034/gid00083/gid00081/gid00072/gid00064/gid00075
+/gid00195/gid00065/gid00081/gid00072/gid00075/gid00075/gid00064/gid00083/gid00072/gid00078/gid00077
+Figure 6 Major risk factors of heart failure with preserved ejection fraction. CKD, chronic kidney disease; HFpEF, heart failure with pre-
+served ejection fraction.   
+5372                                                                                                                                                                                       ESC Guidelines 
+Downloaded from academic.oup.com/eurheartj/article/47/38/5346/8766302 by guest on 22 October 2026
+
+--- Page 28 ---
+cardiac sarcoidosis (see Supplementary data online,  
+Table S2).181,182 Genetic testing may be appropriate when a 
+genetic cause is suspected and the results may provide man-
+agement and prognostic guidance, result in cascade family 
+screening or reproductive management. For more specific 
+guidance on genetic testing in specific cardiomyopathies, we 
+refer to the 2023 ESC Guidelines for the management of 
+cardiomyopathies. 48,124 
+5.3.1. Cardiac imaging in heart failure: a multimodality 
+approach 
+Multimodal cardiac imaging plays a pivotal role in the diagnosis, 
+management, and prognostic assessment of HF, enabling pre-
+cise subtyping to aid in disease-specific therapy selection and 
+is supported by a growing body of evidence (Figure 7). 
+Echocardiography is considered the first-line imaging mo-
+dality in HF and remains the cornerstone of assessment. 
+Echocardiography has widespread availability, is non- 
+invasive, and provides the ability for real-time dynamic 
+evaluation of cardiac structures, dimensions, volumes, filling 
+patterns, haemodynamics, and function. Tissue Doppler 
+imaging and speckle-tracking echocardiography have al-
+lowed clinicians to quantify myocardial global longitudinal 
+strain, offering more sensitive measures of early systolic 
+dysfunction even before LVEF declines, which is of particu-
+lar value in patients undergoing chemotherapy, or specific 
+strain patterns that may be suggestive of amyloidosis or 
+HCM.183–185 In patients with HFpEF, diastolic stress testing 
+is emerging as an important tool to unmask diastolic dys-
+function that may not be apparent at rest. Depending on 
+echocardiography findings, additional imaging modalities or 
+/gid00041/gid00072/gid00082/gid00083/gid00078/gid00081/gid00088
+/gid00042/gid00077/gid00067/gid00072/gid00085/gid00072/gid00067/gid00084/gid00064/gid00075/gid00001/gid00064/gid00082/gid00082/gid00068/gid00082/gid00082/gid00076/gid00068/gid00077/gid00083
+/gid00038/gid00087/gid00064/gid00076/gid00072/gid00077/gid00064/gid00083/gid00072/gid00078/gid00077
+/gid00036/gid00053/gid00036/gid00034/gid00016/gid00042/gid00036/gid00034
+/gid00036/gid00046/gid00051
+/gid00018/gid00025/gid00039/gid00014/gid00039/gid00037/gid00040/gid00014/gid00049/gid00038/gid00053
+/gid00037/gid00049/gid00037/gid00016/gid00049/gid00058/gid00049/gid00016/gid00041/gid00046/gid00037/gid00049
+/gid00082/gid00066/gid00072/gid00077/gid00083/gid00072/gid00070/gid00081/gid00064/gid00079/gid00071/gid00088
+/gid00040/gid00068/gid00077/gid00068/gid00083/gid00072/gid00066/gid00082
+/gid00051/gid00041/gid00036
+/gid00038/gid00046/gid00035
+/gid00038/gid00036/gid00040 /gid00045/gid00064/gid00065/gid00078/gid00081/gid00064/gid00083/gid00078/gid00081/gid00088/gid00001/gid00083/gid00068/gid00082/gid00083
+/gid00038/gid00066/gid00071/gid00078/gid00066/gid00064/gid00081/gid00067/gid00072/gid00078/gid00070/gid00081/gid00064/gid00079/gid00071/gid00088
+/gid00034/gid00067/gid00067/gid00072/gid00083/gid00072/gid00078/gid00077/gid00064/gid00075/gid00001/gid00083/gid00068/gid00082/gid00083/gid00082/gid00001/gid00065/gid00064/gid00082/gid00068/gid00067/gid00001/gid00078/gid00077/gid00001/gid00079/gid00081/gid00068/gid00085/gid00072/gid00078/gid00084/gid00082/gid00001/gid00195/gid00077/gid00067/gid00072/gid00077/gid00070/gid00082/gid00001/gid00064/gid00077/gid00067/gid00001/gid00072/gid00077/gid00067/gid00072/gid00085/gid00072/gid00067/gid00084/gid00064/gid00075/gid00001/gid00064/gid00082/gid00082/gid00068/gid00082/gid00082/gid00076/gid00068/gid00077/gid00083
+Figure 7 Multiparametric approach to aetiology assessment in heart failure. 18F-FDG-PET, 18F-fluorodeoxyglucose-positron emission 
+tomography; CMR, cardiac magnetic resonance; CTCA, computed tomography coronary angiography; DPD, 3,3-diphosphono- 
+1,2-propanodicarboxylic acid; ECG, electrocardiogram; EMB, endomyocardial biopsy; HMPD, hydroxymethylene diphosphonate; ICA, in-
+vasive coronary angiography; PYP, pyrophosphate; RHC, right heart catheterization.   
+ESC Guidelines                                                                                                                                                                                        5373 
+Downloaded from academic.oup.com/eurheartj/article/47/38/5346/8766302 by guest on 22 October 2026
+
+--- Page 29 ---
+testing may be needed (see Supplementary data online,  
+Table S2). 
+Advances in multimodal imaging, including CMR, stress test-
+ing, and computed tomography (CT), have significantly en-
+hanced our capacity to comprehensively assess HF, offering 
+complementary information that is crucial in complex 
+cases.183–185 CMR is considered the gold standard for assessing 
+LV volumes and mass, owing to its high spatial resolution and re-
+producibility. Late gadolinium enhancement (LGE) provides de-
+tailed insights into fibrosis and scarring and is useful in 
+distinguishing ischaemic from non-ischaemic aetiology as well 
+as certain cardiomyopathies.124 CMR myocardial tissue charac-
+terization with parametric mapping [T1, T2, T2* (longitudinal, 
+transverse, and observed transverse relaxation times), LGE 
+and extracellular volume (ECV) expansion] enables classification 
+of cardiomyopathies124,186–193 and of cardiac amyloid.194 An 
+overview of typical CMR findings in cardiomyopathies can be 
+found in the 2023 ESC Guidelines for the management of cardio-
+myopathies.124 Description of other specific imaging modalities 
+is provided in the Sections on specific comorbidities. 
+5.3.2. Investigations for coronary artery disease 
+Coronary artery disease is highly prevalent in HF and the 
+most common cause of HFrEF.13,33,195 Even though assess-
+ment of aetiology is essential in HF, investigations for CAD 
+should be tailored to the individual patient’s risks and benefits 
+(Figure 8). For frail patients, a typical medical history of angina 
+accompanied by echocardiography showing coronary terri-
+tory scarring or regional wall motion abnormalities may suf-
+fice. In patients with potential for revascularization, further 
+examinations may be needed, considering individual risks 
+and benefits. 
+Computed tomography coronary angiography (CTCA) has a 
+high negative predictive value and should be considered in pa-
+tients with HF when the likelihood of CAD is low to moder-
+ate.196 If patients are possible candidates for revascularization, 
+invasive coronary angiography (ICA) is indicated in patients 
+with HFrEF with a high likelihood of CAD and in patients with 
+angina, regardless of LVEF. 
+Computed tomography coronary angiography and ICA 
+should be used with caution in patients with eGFR <30 mL/ 
+min/1.73 m2 and/or contraindication for contrast medium ad-
+ministration. Evidence supporting the efficacy of viability test-
+ing to identify suitable patients for revascularization is 
+lacking.178,179 
+5.3.3. Heart failure caused by arrhythmia or conduction 
+disease 
+Arrhythmia-associated HF is a broad term that encompasses HF 
+caused by tachyarrhythmias, including AF, atrial flutter, other 
+supraventricular tachycardias, ventricular tachycardia, and pre-
+mature ventricular contraction (PVC).197,198 The identification 
+Figure 8 Diagnosis of heart failure due to ischaemic aetiology. CAD, coronary artery disease; CMR, cardiac magnetic resonance; CTCA, 
+computed tomography coronary angiography; CV, cardiovascular; HF, heart failure; LV, left ventricular. aStress tests include stress echo-
+cardiography, stress CMR, or nuclear imaging. Electrocardiographic exercise test has not been shown to properly assess coronary stress.   
+5374                                                                                                                                                                                       ESC Guidelines 
+Downloaded from academic.oup.com/eurheartj/article/47/38/5346/8766302 by guest on 22 October 2026
+
+--- Page 30 ---
+of arrhythmia-associated HF is important in patients with HFrEF, 
+in whom a rhythm strategy for AF may potentially be beneficial. 
+The diagnostic work-up may include an ECG and ambulatory 
+ECG to characterize the electrical subtype, and CMR imaging to 
+characterize the morphological/functional subtype. Arrhythmias 
+may be the sole cause of HFrEF or merely a bystander in the con-
+text of other causes of HF. 
+Heart failure associated with abnormal cardiac conduction is 
+defined as LV dysfunction due to abnormal electrical conduction 
+and should be suspected in patients with LV dysfunction and a 
+QRS duration ≥130 ms, without evidence of other causes for 
+HF.199 It should also be considered in patients with implanted 
+pacemakers or implantable cardioverter-defibrillators (ICDs) de-
+livering RV pacing (see Section 6.2.2.2).200–203 
+The diagnosis is a diagnosis of elimination, and it may 
+only be reached retrospectively, if LV function improves 
+following cardiac resynchronization therapy (CRT) 
+implantation.204 
+In terms of likelihood of response, there is a spectrum. At 
+one end, abnormal cardiac conduction may be the sole culprit, 
+whereas at the other, it may be a bystander in the context of 
+HF due to other causes (Figure 9). CMR may be useful in iden-
+tifying myocardial scar and morphological abnormalities 
+pointing to other aetiologies of HF. Abnormal cardiac conduc-
+tion, as the sole cause of HFrEF, is most likely in patients 
+with HFrEF, LBBB, wide QRS duration, with no myocardial 
+scarring on CMR and in patients with RV pacing-induced 
+HF.199 
+Recommendation Table 4 — Recommendations for specialized diagnostic investigations in patients with established heart fail-
+ure to detect reversible/treatable causes of heart failure (see Evidence Tables 20–28) 
+Recommendations Classa Levelb  
+Investigations for underlying aetiology in patients with HFpEF or HFrEF 
+Contrast-enhanced CMR is recommended in patients with suspected cardiomyopathy, or where the underlying aetiology of 
+HF is uncertain if further characterization is likely to add value to patient care.205–215 I C 
+Initial diagnostic testing with serum and urine immunofixation, serum free light chains assay, and DPD/PYP/HMDP bone 
+scintigraphy is recommended in patients with HF and a suspicion of cardiac amyloidosis.216–222 I B 
+Genetic testing is recommended in patients fulfilling diagnostic criteria for cardiomyopathy in cases where it enables diagnosis, 
+prognostication, therapeutic stratification, or reproductive management of the patient, or where it enables cascade genetic 
+evaluation of their relatives who would otherwise be enrolled into long-term surveillance.223–227 
+I C 
+Invasive coronary angiography is recommended in patients with HF, angina, and high probabilityc of obstructive CAD who are 
+potential candidates for revascularizationd. I C 
+18F-FDG-PET scanning should be considered for the diagnostic work-up in patients with cardiomyopathy in whom cardiac 
+sarcoidosis is suspected.181,182 IIa C 
+Endomyocardial biopsy should be considered to aid in diagnosis and management in patients with rapidly progressive HF 
+despite standard therapy or when the results of other clinical investigations suggest myocardial inflammation, infiltration, or 
+storage that cannot be identified by other means.228 
+IIa C 
+Right heart catheterizatione should be considered in patients where HF is thought to be due to constrictive pericarditis or 
+congenital heart disease.229 IIa C 
+Right heart catheterizationf may be considered in selected patients with suspected HFpEF or structural heart disease to 
+confirm the diagnosis, or when clinical examination and non-invasive testing are insufficient to understand the haemodynamic 
+state.230,231 
+IIb C 
+Investigations for patients with HFrEF 
+Invasive coronary angiography should be considered in patients with HFrEF and high pre-test likelihoodc of obstructive CAD, 
+taking into account the risk-to-benefit ratio of the procedures and potential revascularization strategies.178–180 IIa C 
+CTCA should be considered in patients with HFrEF and low-moderate pre-test likelihoodc of obstructive CAD.196,232–234 IIa C 
+Review of the proportion of RV pacing should be considered in all patients with CIED and de novo or worsening  
+HFrEF.202,235–239 IIa C 
+Electrical cardioversion as a diagnostic tool may be considered in patients with persistent AF where there is uncertainty about 
+the value of sinus rhythm restoration on symptoms or to assess improvement in left ventricular function.240 IIb C 
+© ESC 2026
+18F-FDG-PET, 18F-fluorodeoxyglucose-positron emission tomography; AF, atrial fibrillation; CAD, coronary artery disease; CIED, cardiac implantable electronic device; 
+CMR, cardiac magnetic resonance; CTCA, computed tomography coronary angiography; DPD, 3,3-diphosphono-1,2-propanodicarboxylic acid; HF, heart failure; HFpEF, 
+heart failure with preserved ejection fraction; HFrEF, heart failure with reduced ejection fraction; HMDP, hydroxymethylene diphosphonate; PYP, pyrophosphate; RV, 
+right ventricular. 
+aClass of recommendation. 
+bLevel of evidence. 
+cBased on cardiovascular risk factors and clinical history. 
+dExclude frailty, multiple severe comorbidities, limited life expectancy. 
+eRight and left heart catheterization needed for the differential diagnosis of constrictive pericarditis and restrictive cardiomyopathy. 
+fPotentially including exercise right heart catheterization.   
+ESC Guidelines                                                                                                                                                                                        5375 
+Downloaded from academic.oup.com/eurheartj/article/47/38/5346/8766302 by guest on 22 October 2026
+
+--- Page 31 ---
+6. Management of chronic heart 
+failure 
+6.1. Guideline-directed medical therapy for 
+heart failure 
+The Task Force have decided to introduce the terms FMT 
+and AMT, as described in Section 3 (Figure 3). Together 
+FMT and AMT cover GDMT. For HFrEF, FMT currently 
+includes beta-blockers, ACE-Is/ARNIs/ARBs, MRAs, and 
+SGLT2-Is, whereas for HFpEF it includes SGLT2-Is and 
+MRAs. 
+Importantly, AMT and GDIT based on the underlying cause 
+of HF, phenotypical characteristics, and comorbidities are dis-
+cussed in other sections.  
+6.1.1. Goals of pharmacotherapy for patients with heart 
+failure 
+Pharmacotherapy remains the cornerstone of treatment for stage 
+C HF and should be implemented at doses used in RCTs in pa-
+tients with HF before considering device therapy, and alongside 
+non-pharmacological interventions (Figure 1 and Table 11). 
+There are three major goals of treatment for patients with 
+HF: (i) reduction in mortality; (ii) prevention of recurrent 
+Figure 9 Diagnosing arrhythmia-associated heart failure and heart failure with abnormal cardiac conduction. AF, atrial fibrillation; CIED, 
+cardiac implantable electronic device; CMR, cardiac magnetic resonance; ECG, electrocardiogram; HFrEF, heart failure with reduced 
+ejection fraction; LBBB, left bundle branch block; PET, positron emission tomography; PMT, pacemaker tachycardia; PVC, premature 
+ventricular contraction; RBBB, right bundle branch block; RV, right ventricular; SVT, supraventricular tachycardia; VT, ventricular tachy-
+cardia; WHF, worsening heart failure.   
+5376                                                                                                                                                                                       ESC Guidelines 
+Downloaded from academic.oup.com/eurheartj/article/47/38/5346/8766302 by guest on 22 October 2026
+
+--- Page 32 ---
+hospitalizations due to worsening HF (WHF); and (iii) improve-
+ments in clinical status, functional capacity and QoL. The recom-
+mendations for each treatment depending on LVEF are 
+summarized below. Overall, there are no sex differences in re-
+commendations for HF pharmacotherapy. 
+In this section, we address the management of predominantly 
+left-sided HF. Management of right-sided HF is covered com-
+prehensively in a recent HFA consensus paper.48 
+6.1.2. Foundational medical therapy in all patients with 
+heart failure, independent of left ventricular ejection 
+fraction 
+Mineralocorticoid receptor antagonists and SGLT2-Is are re-
+commended for all symptomatic patients with HF, regardless 
+of LVEF, as these drugs reduce mortality and the risk of HFH. 
+The recommended doses of these drugs are given in Table 11. 
+Other agents can be used in selected patients. 
+6.1.2.1. Sodium–glucose co-transporter 2 inhibitors 
+The SGLT2-Is dapagliflozin and empagliflozin have been shown 
+to reduce the composite endpoint of HFH or CV mortality in 
+symptomatic ambulatory patients with HF.241–245 Although 
+there were consistent reductions in the primary endpoint 
+across the LVEF ranges studied, the individual endpoint of 
+CV mortality was only reduced in HFrEF.44,241,246 Thus, it is re-
+cognized that in HFpEF the reduction in the primary endpoint 
+is driven by a reduction in HFH. The guideline Task Force has 
+decided to base recommendations on the primary endpoints. 
+SGLT2-Is also improve QoL.247,248 Common side effects in-
+clude genital and urinary infections. A mild initial decline in 
+eGFR is expected, but long-term kidney function is im-
+proved.249–253 
+Practical guidance in the use and initiation of SGLT2-Is are 
+provided in Supplementary material online, Table S9. 
+The use of SGLT2-Is in DHF is discussed in Section 7. 
+6.1.2.2. Mineralocorticoid receptor antagonists 
+Mineralocorticoid receptor antagonists have been shown to re-
+duce the composite endpoint of HFH or death in patients with 
+HF.43,254–257 The guideline Task Force decided to base recom-
+mendations on the primary endpoints. Although there were con-
+sistent reductions in the primary endpoint across the LVEF ranges 
+studied, the individual endpoint of mortality was only reduced in 
+HFrEF.43,254,256 There were differences in the mortality end-
+points used in HFrEF and HFpEF trials, with all-cause mortality 
+used in HFrEF trials and CV mortality used in HFpEF trials. 
+Furthermore, different RCTs have included patients with differ-
+ent LVEF ranges not entirely consistent with the distinction be-
+tween HFrEF and HFpEF. Whereas spironolactone was studied 
+across LVEF ranges, eplerenone was only studied in HFrEF 
+(LVEF up to 35%) and finerenone in patients with LVEF >40%. 
+Although finerenone reduced the composite endpoint of HFH 
+and CV mortality in the FINEARTS-HF trial, spironolactone did 
+not in the overall results of the TOPCAT trial.255,257 However, a 
+meta-analysis demonstrated a significant effect of the MRAs 
+used in FINEARTS-HF and TOPCAT on the primary endpoint of 
+HFH and CV mortality in patients with LVEF >40%.43 
+Mineralocorticoid receptor antagonists are chemically and 
+structurally different; they block the receptors that bind aldos-
+terone with different affinity and distribution in the heart and 
+kidneys and also block other steroid hormones with different 
+degrees of affinity (e.g. corticosterone blockade) (see  
+Supplementary data online, Table S3).258 Eplerenone and the 
+non-steroidal MRA finerenone are more mineralocorticoid 
+receptor-specific and therefore induce less gynaecomastia. 
+Caution should be exercised when MRAs are started in patients 
+with impaired kidney function (MRAs have not been tested in pa-
+tients with eGFR <25 mL/min/1.73 m2) and in those with potas-
+sium levels ≥5.0 mmol/L.259 In patients taking MRAs whose 
+serum potassium is >5.5 mEq/L, there might be an indication for 
+dose reduction of the MRA or temporary discontinuation of the 
+MRA to avoid life-threatening hyperkalaemia. The first step would 
+be to recheck potassium levels. If the MRA dose is reduced or tem-
+porarily discontinued, the drug should be restarted if hyperkalae-
+mia resolves. Practical guidance in the use and uptitration of 
+MRAs are provided in Supplementary material online, Table S8. 
+6.1.3. Additional medical therapy in all patients with 
+heart failure, independent of left ventricular ejection 
+fraction 
+6.1.3.1. Loop diuretics 
+Loop diuretics are recommended to reduce signs and/or symp-
+toms of congestion in patients with HF and volume overload. 
+Their effects on morbidity and mortality have not been studied 
+in adequately powered RCTs. However, the major disease- 
+modifying treatment trials for HF were always conducted with a 
+high background use of loop diuretic therapy. One meta-analysis 
+has shown that in patients with HF, diuretics appear to reduce the 
+risk of death and WHF compared with a placebo, and compared 
+with an active control, diuretics improved exercise capacity.260 
+Several observational studies have linked loop diuretic use to 
+higher mortality, even after adjustment or propensity match-
+ing.261 However, several biases remain as sicker patients are gen-
+erally prescribed higher doses of loop diuretics. Clearly, patients 
+benefit from maintenance therapy with a loop diuretic to prevent 
+or control congestion. However, the use of loop diuretics may re-
+sult in electrolyte disturbances, further neurohormonal activation, 
+accelerated kidney function decline, and symptomatic hypoten-
+sion. The latter may be especially relevant as it could result in 
+treatment with lower doses of FMT. It is generally advised to 
+use the lowest possible dose of diuretics to maintain euvolaemia. 
+Importantly, the individual diuretic dose may change significantly 
+over time.262 Therefore, dynamic and individualized dosing of 
+loop diuretic is recommended.263,264 The use of a multiparameter- 
+based evaluation to assess congestion, using clinical assessment at 
+rest and during dynamic manoeuvres, as well as biomarkers (eGFR, 
+electrolytes, natriuretic peptides), supplemented with imaging as-
+sessment according to local expertise, is probably the best con-
+temporary strategy to optimize diuretic dosing.265 Optimal FMT 
+and GDIT often results in less need for diuretic treatment.266,267 
+The chronic use of thiazide diuretics in stable patients should be 
+avoided, as this often induces severe electrolyte disturbances 
+that could go undetected in the ambulatory setting. 
+Treatment of DHF and approach to diuretic treatment in this 
+setting is covered in Section 7. 
+6.1.3.2. Potassium binders 
+Hyperkalaemia is common in HF, often as a result of comorbidities 
+(e.g., diabetes, CKD), concomitant use of renin–angiotensin– 
+aldosterone system inhibitors (ACE-Is/ARNIs/ARBs and MRAs),  
+ESC Guidelines                                                                                                                                                                                        5377 
+Downloaded from academic.oup.com/eurheartj/article/47/38/5346/8766302 by guest on 22 October 2026
+
+--- Page 33 ---
+and because of HF itself. Hyperkalaemia may increase the risk for 
+arrhythmias and death.268 Hyperkalaemia, and the fear of indu-
+cing it, often results in under-utilization, dose reductions, or dis-
+continuation of ACE-Is/ARNIs/ARBs and MRAs compromising 
+their cardio-kidney benefit in HF. The gastrointestinal potassium 
+binders patiromer and sodium zirconium cyclosilicate remove po-
+tassium by exchanging cations, leading to increased faecal excre-
+tion. Both agents have shown favourable results to treat and/or 
+prevent hyperkalaemia in patients receiving ACE-Is/ARNIs/ 
+ARBs and MRAs, therefore facilitating the continuation or upti-
+tration of ACE-Is/ARNIs/ARBs and MRAs.269–272 Whether po-
+tassium binders improve clinical outcomes is still unclear. In the 
+REALIZE-K trial, there was a signal towards more HF deterior-
+ation with sodium zirconium cyclosilicate as compared with pla-
+cebo, although the trial was not powered to detect clinical 
+outcomes.272 Potential adverse effects for the potassium binders 
+include gastrointestinal symptoms (nausea, constipation, diar-
+rhoea), hypomagnesaemia (for patiromer), and oedema (for so-
+dium zirconium cyclosilicate). 
+No specific recommendations for the use of potassium bin-
+ders are included in the guideline at current time, due to insuffi-
+cient evidence for clinical benefit. 
+6.1.4. Foundational medical therapy for heart failure 
+with reduced ejection fraction 
+Modulation of the renin–angiotensin–aldosterone system, sym-
+pathetic nervous systems, and sodium–glucose co-transporter 
+(SGLT2) inhibition has been shown to improve survival, reduce 
+the risk of HFH, and reduce symptoms in patients with HFrEF. 
+Treatment with optimal FMT, including ACE-Is/ARNIs/ARBs, 
+beta-blockers, MRAs, and SGLT2-Is, is recommended as the 
+foundation of treatment for all patients with HFrEF. There is 
+no evidence favouring any particular sequencing during initi-
+ation and uptitration. Therefore, the consensus is that FMT 
+can be commenced together with individual variations based 
+on clinical assessment as soon as the diagnosis of HFrEF is es-
+tablished. Drugs should be uptitrated and continued at the 
+doses used in the RCTs (or to the highest tolerated doses). 
+Misinterpretation of changes in kidney function is a leading 
+cause of insufficient dosing or inappropriate discontinuation of 
+FMT and should be avoided (Section 6.1.6).273 
+Additional medical therapy may be used in selected patients 
+with HFrEF (see Section 6.1.5). 
+No large prospective RCT has been performed exclusively in pa-
+tients with LVEF 41%–49%. Patients with LVEF 41%–49% appear 
+to respond to FMT, similar to patients with LVEF <40%.36,38–41 
+Many patients with LVEF 41%–49% may already be on ACE-Is 
+or ARBs and beta-blockers for other CV indications such as 
+CAD, hypertension, or post-MI LV systolic dysfunction. 
+Sodium–glucose co-transporter 2 inhibitors and MRAs are re-
+commended for all ranges of LVEF, as covered in Section 6.1.2. 
+The recommended doses of FMT and AMT are provided in  
+Table 11. Practical guidance in the use and uptitration of FMT 
+are provided in Supplementary material online, Tables S4–S9. 
+6.1.4.1. Angiotensin-converting enzyme inhibitors and 
+angiotensin receptor–neprilysin inhibitor 
+Angiotensin-converting enzyme inhibitors were the first class of 
+drugs shown to reduce mortality and morbidity and to improve 
+symptoms in patients with HFrEF.137,138,274–277 They are 
+recommended in all patients with HFrEF unless contraindicated 
+or not tolerated and should be uptitrated to the highest recom-
+mended doses. If these doses are not tolerated, intermediate 
+doses should be tried. In the higher end of LVEF, evidence is lim-
+ited. The PEP-CHF trial (perindopril) was conducted in patients 
+with an LVEF >40%, but it did not report outcomes according to 
+LVEF.39 The PEACE trial reported a subgroup analysis showing a 
+reduction in mortality with trandolapril in patients with LVEF 
+from 40% to 50%.38 
+An ARNI is composed of an ARB and an inhibitor of neprilysin, 
+an enzyme that degrades natriuretic peptides, bradykinin, 
+adrenomedullin, and other vasoactive peptides. In the 
+PARADIGM-HF trial, the ARNI, sacubitril–valsartan, was com-
+pared with enalapril in symptomatic patients with HFrEF who al-
+ready tolerated an adequate dose of either an ACE-I or an 
+ARB.278 ARNI significantly reduced the composite endpoint of 
+CV death or HFH by 20% as compared with enalapril.278 
+Additional benefits included improvement in QoL, reduction in 
+decline of eGFR, a reduction in loop diuretic dose, and lower 
+risk of hyperkalaemia.279,280 If patients continue to have chronic 
+symptomatic HFrEF and they tolerate an ACE-I or an ARB, it is 
+recommended that they be switched to an ARNI to reduce mor-
+bidity and mortality. Pre- and post-discharge initiation of ARNIs 
+in HFrEF patients have shown similar efficacy and safety, and 
+larger NT-proBNP reductions compared with ACE-I treatment 
+in ACE-I/ARB naïve patients.281–283 As such, the use of an 
+ARNI may be efficacious as de novo treatment in patients with 
+symptomatic chronic HFrEF to simplify management and main-
+tain eGFR and QoL. 
+Use of an ARNI is more frequently associated with symptomat-
+ic hypotension, and a washout period of at least 36 h after ACE-I 
+therapy is required to minimize the risk of angio-oedema. 
+Treatment with ACE-Is or ARNIs is indicated, but should be given 
+with caution, to patients with low blood pressures (systolic blood 
+pressure <100 mmHg), kidney insufficiency (eGFR <30 mL/min/ 
+1.73 m2), or elevated serum potassium (>5.2 mEq/L). Abrupt 
+withdrawal of ACE-Is or ARNIs can lead to clinical deterioration 
+and should be avoided, and in those patients for whom treatment 
+with an ARNIs is not possible, continued use of an ACE-I remains 
+strongly advised. 
+6.1.4.2. Angiotensin II type 1 receptor blockers 
+Angiotensin II receptor blockers are recommended for HFrEF 
+patients who cannot tolerate ACE-Is or ARNIs due to side ef-
+fects. Unlike ACE-Is, ARBs do not inhibit kininases and are asso-
+ciated with a much lower incidence of cough and angio-oedema. 
+In the CHARM-Alternative study, candesartan reduced CV 
+death and HFH in patients who were not receiving an ACE-I 
+due to previous intolerance.284 In the HEAAL study, high-dose 
+losartan reduced HFH compared with low-dose losartan in 
+ACE-I intolerant patients.285 Valsartan, in addition to usual ther-
+apy, including ACE-Is, reduced HFH in the Val-HeFT trial.286 
+However, no ARB has reduced all-cause mortality in any trial, 
+and combination with an ACE-I increases adverse effects. 
+Also, in patients with higher LVEF, evidence is limited. The 
+CHARM-Preserved trial did not show a reduction in its primary 
+endpoint of CV death or HFH, but a retrospective analysis 
+showed that candesartan reduced the number of patients hospi-
+talized for HF among those with LVEF 40%–49%.40,41  
+5378                                                                                                                                                                                       ESC Guidelines 
+Downloaded from academic.oup.com/eurheartj/article/47/38/5346/8766302 by guest on 22 October 2026
+
+--- Page 34 ---
+6.1.4.3. Beta-blockers 
+Beta-blockers have been shown to reduce morbidity and mor-
+tality in patients with HFrEF in addition to treatment with an 
+ACE-I and diuretics.36,287–292 Bisoprolol, sustained-release 
+metoprolol (succinate), and carvedilol have been shown to re-
+duce the risk of death in patients with HFrEF, whereas nebivolol 
+only reduced the combined endpoint of all-cause mortality and 
+CV hospitalization. An individual patient meta-analysis of RCTs 
+of beta-blockers suggested similar reductions in CV and all- 
+cause mortality for patients in sinus rhythm with HFrEF who 
+had LVEF <40% and LVEF 40%–50%.36 Beta-blockers should 
+be initiated early in clinically stable patients, at low doses and 
+gradually uptitrated to the highest tolerated dose. In patients 
+admitted with DHF, beta-blockers should be cautiously initiated 
+in hospital, once the patient is haemodynamically stabilized. 
+Every effort should be made to achieve the target doses of 
+the beta-blockers shown to be effective in major clinical trials 
+(Table 11). Even if symptoms do not improve, long-term treat-
+ment should be maintained to reduce the risk of major CV 
+events. 
+The effect of beta-blockers in patients with HFrEF and AF re-
+mains uncertain. A retrospective subgroup individual-patient 
+data meta-analysis of all major beta-blocker trials in HFrEF 
+showed no benefit on hospital admissions and mortality in the 
+subgroup of patients with HFrEF with AF.36,293 However, to 
+date no RCT has ever been conducted investigating the effect 
+of beta-blockers specifically in patients with AF and HFrEF, des-
+pite beta-blockers being potentially useful for rate control of AF. 
+6.1.5. Additional medical therapy for heart failure with 
+reduced ejection fraction 
+6.1.5.1. If-channel inhibitor (ivabradine) 
+Ivabradine should be considered in patients with symptomatic 
+HFrEF who at rest are in sinus rhythm with heart rate 
+≥70 b.p.m., LVEF ≤35%, and recent HFH, despite stable FMT in-
+cluding optimized beta-blocker therapy.294 Ivabradine slows 
+heart rate by inhibition of the If current. In the SHIFT trial, the 
+primary composite endpoint of CV death or HFH was reduced, 
+mainly driven by a reduction in HFH.294 Importantly, only 25% 
+of patients studied in the trial were on optimal doses of beta- 
+blockers.294 As beta-blockers have well-proven morbidity and 
+mortality benefits, they should be initiated and uptitrated to tar-
+get doses first, before assessing the resting heart rate for consid-
+eration of adding ivabradine. 
+6.1.5.2. Vericiguat 
+The oral soluble guanylate cyclase stimulator vericiguat may be 
+considered in patients with symptomatic HFrEF and LVEF <45% 
+despite optimal FMT. 
+The VICTORIA study assessed the efficacy and safety of ver-
+iciguat in patients with LVEF <45% and with recent episodes of 
+WHF, who were already on the highest tolerated FMT. The in-
+cidence of the primary endpoint of CV death or HFH was lower 
+among those who received vericiguat than among those who re-
+ceived placebo.295 There was no reduction in either all-cause or 
+CV death. The much higher event rate in VICTORIA compared 
+with other RCTs in patients with HFrEF was associated with a 
+shorter median follow-up to acquire the total number of events 
+needed, which may explain why HFH were reduced, but CV 
+mortality was not significantly reduced.296 There was also het-
+erogeneity in a subgroup analysis, with less benefit in patients 
+with the highest NT-proBNP levels. The VICTOR study evalu-
+ated vericiguat in ambulatory patients with HFrEF (LVEF 
+≤40%) who did not have a recent WHF event and who were 
+on contemporary FMT. VICTOR was neutral for the primary 
+composite endpoint of time to CV death or HFH (HR 0.93; 
+95% CI 0.83–1.04; P = .22).297 Over a median follow-up of 
+∼18.5 months, CV death was numerically lower with vericiguat 
+(9.6% vs 11.3%; HR 0.83; 95% CI 0.71–0.97), whereas HFH was 
+similar between groups (11.4% vs 11.9%; HR 0.95; 95% CI 0.82– 
+1.10). The trial therefore did not confirm a primary composite 
+benefit in a stable, well-treated ambulatory HFrEF population, 
+although pooled analyses combining VICTOR and VICTORIA 
+suggest benefit across the broader HFrEF spectrum. Also, there 
+was a reduction in all-cause mortality, a secondary endpoint in 
+the trials.298,299 
+6.1.5.3. Hydralazine and isosorbide dinitrate 
+There is no clear evidence to recommend the use of hydralazine 
+and isosorbide dinitrate in all patients with HFrEF. In a small RCT 
+conducted in self-identified black patients the addition of the 
+combination of hydralazine and isosorbide dinitrate to conven-
+tional therapy at that time (an ACE-I, a beta-blocker, and an 
+MRA) reduced mortality and HFH, and improved QoL in patients 
+with symptomatic HFrEF.300 It is unclear if a benefit of hydrala-
+zine and isosorbide dinitrate exists for non-black patients with 
+HFrEF. Additionally, a combination of hydralazine and isosor-
+bide dinitrate may be considered in symptomatic patients with 
+HFrEF who cannot tolerate any of an ACE-I, an ARNI, or an 
+ARB (or if they are contraindicated) to potentially reduce HFH 
+and mortality. This recommendation is based on the results of 
+the Veterans Administration Cooperative Study, which included 
+only male patients with symptomatic HFrEF who were treated 
+with only digoxin and diuretics.301 
+6.1.5.4. Cardiac glycosides 
+Cardiac glycosides, digoxin or digitoxin, should be considered in 
+patients with HFrEF to reduce the risk of HFH.302–304 In the DIG 
+trial, the overall effect on mortality with digoxin was neutral but 
+there was a reduction in HFH.303 Moreover, the effects of di-
+goxin in patients with HFrEF and AF have not been studied in 
+RCTs, but digoxin may be useful for the treatment of AF with ra-
+pid ventricular rate when other therapies cannot be used.305–307 
+A serum digoxin concentration <1.2 ng/mL should be used as a 
+target during ongoing therapy.308 The DIGIT-HF trial examined 
+whether low-dose digitoxin added to contemporary FMT im-
+proves outcomes in patients with chronic symptomatic HFrEF 
+(LVEF ≤40% and NYHA class III/IV or LVEF ≤30% and NYHA 
+class II).304 The trial included most patients in NYHA class III 
+and, contrary to the DIG trial, also included patients with AF. 
+They were randomized to digitoxin [starting 0.07 mg daily, 
+then titrated to target serum concentrations (10.5–23.6 nmol/L)] 
+vs placebo. Over a median follow-up of 36 months, the 
+primary composite endpoint—death from any cause or HFH— 
+occurred in 39.5% of the digitoxin group vs 44.1% of the placebo 
+group (HR 0.82; 95% CI 0.69–0.98; P = .03). There was no signifi-
+cant reduction in all-cause mortality alone (27.2% vs 29.5%; 
+HR 0.86; 95% CI 0.69–1.07) or in HFH alone (28.1% vs 30.4%;  
+ESC Guidelines                                                                                                                                                                                        5379 
+Downloaded from academic.oup.com/eurheartj/article/47/38/5346/8766302 by guest on 22 October 2026
+
+--- Page 35 ---
+HR 0.85; 95% CI 0.69–1.05).304 Taken together, available evi-
+dence suggests that cardiac glycosides (digoxin or digitoxin), 
+when added to FMT, can reduce the risk of HFH in patients 
+with chronic symptomatic HFrEF. Both agents share a narrow 
+therapeutic window and require careful monitoring but differ 
+in their metabolic elimination: digoxin is primarily eliminated 
+through the kidneys, whereas digitoxin undergoes hepatic 
+elimination. 
+6.1.5.5. Cardiac myosin activator 
+Omecamtiv mecarbil, a cardiac myosin activator, reduced the 
+risk of HF events modestly in the GALACTIC-HF trial, but with-
+out a significant mortality benefit. The drug is not currently ap-
+proved for clinical use in HF.309 
+6.1.6. The importance of uptitrating foundational 
+medical therapy and maintaining adherence in heart 
+failure with reduced ejection fraction 
+Foundational medical therapy is essential in HFrEF and must be 
+initiated and uptitrated to target (Table 11) or highest tolerated 
+doses.306,307 A practical guidance for the use of medical therap-
+ies is available in Supplementary data online, Tables S4–S9. 
+Randomized controlled trials of medical therapy in HF in-
+itiated therapy at low doses, with protocol-driven uptitration, ir-
+respective of symptomatic improvement, unless limited by 
+intolerance. The target doses used in these trials established 
+the efficacy and safety of these therapies and therefore form 
+the basis of guideline recommendations. When target doses 
+are not achievable or tolerated, the maximal tolerated dose is 
+recommended. 
+Registry and real-life data have shown significant under- 
+implementation of FMT in HFrEF, both with regard to number 
+of drugs and doses used. Importantly, misinterpretation of 
+changes in kidney function, leading to inappropriate discontinu-
+ation or down-regulation of doses of FMT, is a leading cause of 
+insufficient FMT and should be avoided, both in decompensated 
+and chronic HF.273,310 
+Many classes of FMT can safely be initiated in patients with 
+lower eGFR (Supplementary data online, Tables S4–S9 and 
+2026 ESC Guidelines on cardiovascular disease and chronic kidney 
+disease).122,259 No statistically significant interaction has been 
+found between the presence of CKD and the treatment effect 
+of the components of FMT on the primary endpoint of their re-
+spective trials.259 Therefore, in terms of relative risk reduction, 
+these agents are equally effective in patients with CKD. 
+Because patients with CKD are at the highest baseline risk for 
+CV death or HFH, the absolute risk reduction effect is even 
+more pronounced in patients with HF and CKD. Therefore, it 
+is crucial that FMT is initiated, uptitrated, and maintained in pa-
+tients with CKD.259 
+In trials that have evaluated dose responses for outcomes, 
+composite event rates were lower with target doses compared 
+with lower doses.274,311 
+Maintenance of FMT in patients with HFrEF is crucial for re-
+ducing the risk of HFH and improving survival and QoL. Even if 
+symptoms and/or LVEF improve, it is recommended that opti-
+mal FMT is continued as lifelong treatment. Only in very se-
+lected cases of HFrEF with complete normalization of LV 
+volumes and LVEF, including natriuretic peptides and in the 
+context of a clear treatable reversible cause of HF, gradual dis-
+continuation may be considered. 
+Non-adherence to FMT can be multifactorial. Patient-related 
+factors such as side-effects, drug interactions, economic 
+difficulties, psychosocial issues, or poor health literacy may be 
+contributing factors. However, healthcare-related inappropriate 
+discontinuation of FMT should not be neglected. In general, incur-
+rent illness or infections without haemodynamic compromise 
+should not lead to down-titration or discontinuation of FMT. 
+Asymptomatic or tolerable hypotension should not lead to down- 
+titration or discontinuation of FMT but may require re-evaluation 
+of diuretic use. It is recommended that patients with HFrEF and 
+CKD maintain FMT, as several trials have shown beneficial effects 
+on kidney endpoints as well as CV endpoints.312 However, tem-
+porary discontinuation of MRAs/ARNIs/ACE-Is/ARBs and 
+SGLT2-Is may be needed in cases with acute kidney injury and 
+eGFR <15 mL/min/1.73 m2. Severe hyperkalaemia (potassium 
+>5.5 or >6 mmol/L) should lead to temporary down-titration or 
+discontinuation of MRAs and/or ARNIs/ACE-Is/ARBs (see  
+Supplementary data online, Tables S4, S5 and S9). Temporary dis-
+continuation of beta-blockers and ARNIs/ACE-Is/ARBs is advised 
+in patients with severe haemodynamic instability. If FMT has been 
+temporarily discontinued for less than 14 days, it should, in most 
+cases, be safe to initiate FMT directly at the previously tolerated 
+doses in stable patients. Euvolaemia is important prior to initiating 
+beta-blockers. 
+6.1.7. Pharmacological therapy for heart failure with 
+preserved ejection fraction 
+Foundational medical therapy for HFpEF includes SGLT2-Is and 
+MRAs, as covered in Section 6.1.2. 
+Heart failure with preserved ejection fraction differs from 
+HFrEF as patients tend to be older, and more often female 
+with a high burden of comorbidities including AF, CKD, obesity, 
+diabetes, and non-CV comorbidities.313,314 
+There are numerous potential causes of HFpEF and, as the 
+pathophysiology of various HFpEF syndromes differ, they also 
+require distinct individualized therapies. Furthermore, it is im-
+portant to exclude other conditions that might mimic the 
+HFpEF syndrome (e.g. HCM, amyloidosis) or realize that certain 
+diseases have similar symptoms but may coexist with HFpEF 
+(pulmonary disease, anaemia, obesity, and deconditioning). 
+There are Class I recommendations for SGLT2-Is and MRAs to 
+be used in all symptomatic patients with HF, and diuretics to 
+be used to treat signs and symptoms of congestion. Other 
+pharmacological agents, such as ACE-Is, ARBs, and beta- 
+blockers, may be used particularly for comorbidities, as there 
+is uncertainty of the effect on morbidity and mortality. 
+Recently, in RCTs, treatment with the GLP-1 RA semaglutide 
+or the dual glucose-dependent insulinotropic polypeptide 
+(GIP)/GLP-1 RA tirzepatide improved QoL in addition to weight 
+reduction in patients with HFpEF and obesity, independently of 
+diabetes status (see Section 10).315–317 
+6.1.7.1. Angiotensin receptor–neprilysin inhibitors 
+In the PARAGON-HF trial, sacubitril–valsartan compared with 
+valsartan did not achieve a significant reduction in the primary 
+composite endpoint of CV death or total HFH in patients with 
+symptomatic HF and LVEF ≥45%.42 There was a reduction in  
+5380                                                                                                                                                                                       ESC Guidelines 
+Downloaded from academic.oup.com/eurheartj/article/47/38/5346/8766302 by guest on 22 October 2026
+
+--- Page 36 ---
+total HFH (rate ratio 0.85; 95% CI 0.72–1.00; P = .056) that also 
+did not meet statistical significance. A meta-analysis of the 
+PARADIGM-HF and PARAGON-HF trials showed a benefit of 
+sacubitril–valsartan compared with valsartan in patients with 
+an LVEF below 60-65%.318,319 ARNIs therefore may be consid-
+ered in HFpEF, especially in those with lower LVEF ranges. 
+Although renin–angiotensin system inhibition strategies 
+with ACE-Is and/or ARBs have been successful in the treat-
+ment of HFrEF, clinical trials have not shown a clear benefit 
+in HFpEF patients. In a meta-analysis of four trials evaluating 
+ARBs in patients with HFpEF, there was no signal for benefit 
+on CV death (HR 1.02), all-cause death (HR 1.01; 95% CI 
+0.92–1.11), or HFH (HR 0.92; 95% CI 0.83–1.02).320 
+Candesartan was associated with a reduction in recurrent 
+HFH until LVEF was over 60%.40 Although no strong recom-
+mendation is given to start these agents in patients with 
+HFpEF, many have coexisting indications for ACE-I/ARB ther-
+apy (hypertension/diabetes/CKD). 
+6.1.8. Pharmacological treatment in heart failure with 
+improved ejection fraction 
+In patients with HFrEF, FMT and GDIT can result in improvement 
+in symptoms, functional capacity, NT-proBNP levels and LVEF 
+(i.e. reverse remodelling). However, in most patients, LV function 
+and structural abnormalities do not fully normalize, and symp-
+toms and biomarker abnormalities may persist or reoccur. Many 
+patients deemed to have recovered from HFrEF with resolution 
+of symptoms and improvement of LVEF and natriuretic peptide 
+levels will relapse after withdrawal of FMT. TRED-HF was a small 
+open-label trial in which phased withdrawal of FMT was con-
+ducted in patients with HFrEF and DCM whose LVEF had im-
+proved (but not necessarily normalized—from LVEF <40% to 
+LVEF at least 50%) after treatment with FMT , their LV volume 
+had normalized, and the NT-proBNP concentrations were re-
+duced to <250 ng/L. Withdrawal of FMT resulted in relapse of 
+HFrEF in 40% of the patients within 6 months, warranting reini-
+tiation of therapy.321,322 In contrast, the CATHEDRAL-HF 
+trial—a single-centre, open-label pilot study—randomized 60 pa-
+tients with similar characteristics to those in the TRED-HF trial 
+to either phased withdrawal of FMT (excluding carvedilol) or con-
+tinued FMT. Phased withdrawal did not result in a higher rate of 
+HFrEF relapse.323,324 Taken together, there is no solid evidence 
+at this time to suggest that resolution of symptoms and improve-
+ment in cardiac function and biomarkers after treatment reflects 
+actual recovery but, rather, remission, which requires FMT to be 
+maintained. 
+Some causes of HF might be reversible (e.g. Takotsubo syn-
+drome, arrhythmia-associated HF, myocarditis, HF caused by 
+abnormal cardiac conduction). In these patients, where a com-
+pletely reversible cause of HF is suspected and where com-
+plete normalization of LV function and volume has occurred 
+after treatment of the reversible cause, including normalization 
+of natriuretic peptides, a gradual trial of FMT withdrawal might 
+be considered. However, this may be considered with caution 
+and only in exceptional cases upon the request of the patient. 
+The open-label, single-centre STOP-CRT trial indicated that 
+gradual neurohumoral blocker withdrawal (and thus a 
+CRT-only strategy) was feasible and safe in a small number of 
+very selected patients with normalized LVEF after CRT.325 
+Such withdrawal should only be done under frequent clinical, 
+laboratory, and imaging control to rule out relapse of HF. 
+One should take into consideration that often coexisting co-
+morbidities warrant continuation of FMT. However, more 
+and larger RCTs in this domain are needed to assess the clinical 
+effect of withdrawal of each component of FMT in patients 
+with HFrEF and improved LVEF. 
+Table 11 Evidence-based doses of disease-modifying drugs in key randomized trials in patients with heart failure 
+Drug Starting dose Target dose  
+ACE-Is 
+Captoprila 6.25 mg t.i.d. 50 mg t.i.d. 
+Enalapril 2.5 mg b.i.d. 10–20 mg b.i.d. 
+Lisinoprilb 2.5–5 mg o.d. 20–35 mg o.d. 
+Ramipril 1.25–2.5 mg b.i.d. 5 mg b.i.d. 
+Trandolaprila 0.5 mg o.d. 4 mg o.d. 
+ARNIs 
+Sacubitril–valsartan 49/51 mg b.i.d.c 97/103 mg b.i.d. 
+ARBs 
+Candesartan 4 mg o.d. 32 mg o.d. 
+Losartan (12.5) 25–50 mg o.d. 150 mg o.d. 
+Valsartan 40 mg b.i.d. 160 mg b.i.d. 
+Beta-blockers 
+Bisoprolol 1.25 mg o.d. 10 mg o.d. 
+Carvedilol 3.125 mg b.i.d. 25 mg b.i.d.d 
+Metoprolol succinate (CR/XL) 12.5–25 mg o.d. 200 mg o.d. 
+Nebivolole 1.25 mg o.d. 10 mg o.d.                                                                                                                                                                                                                        
+Continued  
+ESC Guidelines                                                                                                                                                                                        5381 
+Downloaded from academic.oup.com/eurheartj/article/47/38/5346/8766302 by guest on 22 October 2026
+
+--- Page 37 ---
+MRAs 
+Steroidal 
+Eplerenone 25 mg o.d. 50 mg o.d. 
+Spironolactone 12.5–25 mg o.d.f 50 mg o.d. 
+Non-steroidal 
+Finerenone 10–20 mg o.d.g 20–40 mg o.d.g 
+SGLT2-Is 
+Dapagliflozin 10 mg o.d. 10 mg o.d. 
+Empagliflozin 10 mg o.d. 10 mg o.d. 
+Other agents 
+Digoxinh 62.5 µg o.d. 250 µg o.d. 
+Digitoxinh 0.07 mg o.d. 0.1 mg o.d. 
+Ivabradine 5 mg b.i.d. 7.5 mg b.i.d. 
+Vericiguat 2.5 mg o.d. 10 mg o.d. 
+Hydralazine/isosorbide dinitrate 37.5 mg t.i.d./20 mg t.i.d. 75 mg t.i.d./40 mg t.i.d. 
+© ESC 2026
+The table provides initiation and target doses of FMT and AMT. For practical guidance in use of the different drugs, see Supplementary data online, Tables S4–S9. 
+ACE-I, angiotensin-converting enzyme inhibitor; AMT, additional medical therapy; ARB, angiotensin II receptor blocker; ARNI, angiotensin receptor–neprilysin inhibitor; 
+b.i.d., bis in die (twice daily); CR, controlled release; CV, cardiovascular; eGFR, estimated glomerular filtration rate; FMT, foundational medical therapy; MI, myocardial 
+infarction; MRA, mineralocorticoid receptor antagonist; o.d., omne in die (once daily); SGLT2-I, sodium–glucose co-transporter 2 inhibitor; t.i.d., ter in die (three times 
+a day); XL, extended release. 
+aIndicates an ACE-I where the dosing target is derived from post-MI trials. 
+bIndicates drugs where a higher dose has been shown to reduce morbidity/mortality compared with a lower dose of the same drug, but there is no substantive randomized, 
+placebo-controlled trial and the optimal dose is uncertain. 
+cSacubitril–valsartan may have an optional lower starting dose of 24/26 mg twice daily for those with a history of symptomatic hypotension, ACE-I naïve patients and 
+patients with eGFR 30–60 mL/min/1.73 m2. 
+dA maximum dose of 50 mg twice daily can be administered to patients weighing over 85 kg. 
+eIndicates a treatment not shown to reduce CV or all-cause death in patients with heart failure (or shown to be non-inferior to a treatment that does). 
+fSpironolactone has an optional starting dose of 12.5 mg in patients where kidney status or hyperkalaemia warrant caution. 
+gFinerenone has a different starting and target dose according to eGFR (10–20 mg, if eGFR  ≤60 mL/min/1.73 m2; 20–40 mg, if eGFR >60 mL/min/1.73 m2). 
+hDigoxin/digitoxin should be titrated according to plasma levels.  
+Recommendation Table 5 — Recommendations for pharmacological management of chronic heart failure (see Evidence Tables 
+29–41) 
+Recommendations Classa Levelb  
+All patients with HF, independent of LVEF 
+An SGLT2-I (dapagliflozin or empagliflozin) is recommended in patients with symptomatic HF independent of LVEF to reduce 
+the risk of HFH or CV death.241–245,326 I A 
+An MRA (sMRA for HFrEF and sMRA/nsMRA for HFpEF) is recommended in patients with symptomatic HF independent of 
+LVEF to reduce the risk of HFH or CV death.c43,254–257 I A 
+Dynamic individualized dosing of loop diuretics according to volume status is recommended in patients with HF and signs and/ 
+or symptoms of congestion to alleviate HF symptoms, improve exercise capacity, and reduce the risk of HFH.d 327–329 I A 
+Uptitration of FMT at least every 1–2 weeks in patients with HF, guided by symptoms, vital signs, and laboratory findings, to 
+achieve optimal target doses shown to be efficacious in RCTs is recommended to reduce the risk of HFH or death.274,311 I C 
+Continuation of FMT at the highest tolerated doses is recommended in all patients with HF, including those who become 
+asymptomatic or with LVEF improvement, in order to reduce the risk of HFH and death.321 I C 
+HFrEF 
+A beta-blocker is recommended in stable patients with symptomatic HFrEF to reduce the risk of HFH and death.e 36,287–293,330 I A 
+An ACE-I or ARNI is recommended in patients with symptomatic HFrEF to reduce the risk of HFH and death.e 274–278 I A 
+Switching from an ACE-I or ARB to an ARNI is recommended in patients with symptomatic HFrEF to reduce the risk of HFH 
+and death.e 278 I B1 
+An ARB is recommended in patients with symptomatic HFrEF to reduce the risk of HFH and CV death if they are unable to 
+tolerate an ACE-I or ARNI.e 284–286,331 I A 
+A cardiac glycoside (digoxin or digitoxin) should be considered in patients with symptomatic HFrEF with LVEF ≤40%, despite 
+optimal FMT, to reduce the risk of HFH.303,304 IIa B1                                                                                                                                                                                                                        
+Continued  
+5382                                                                                                                                                                                       ESC Guidelines 
+Downloaded from academic.oup.com/eurheartj/article/47/38/5346/8766302 by guest on 22 October 2026
+
+--- Page 38 ---
+6.2. Guideline-directed interventional 
+therapies for chronic heart failure 
+The term GDIT includes all guideline-directed interventional 
+therapies for HF (see Section 3). In this section, we provide re-
+commendations for ICDs and CRT. Other implantable devices, 
+for which recommendations have not been made, will be dis-
+cussed at the end of this section. Section 7 provides recommen-
+dations for interventional therapies in the setting of DHF, and 
+Section 8 provides recommendations for interventional therap-
+ies in the setting of advanced HF. Section 9 covers comorbidity- 
+specific interventional therapies. 
+6.2.1. Implantable cardioverter-defibrillators 
+The recognition that arrhythmic sudden cardiac death (SCD) ac-
+counted for ∼30%–60% of all deaths in the early HF trials338 
+paved the way for the use of ICDs in patients with HFrEF. 
+Antiarrhythmic drugs, such as amiodarone and dronedarone, 
+are effective in reducing ventricular arrhythmias, but they do 
+not prolong survival and may shorten it.339,340 In contrast, 
+ICDs are effective in preventing SCD and prolonging survival 
+in patients with HFrEF who are at high risk of SCD.340–344 
+6.2.1.1. Secondary prevention of sudden cardiac death 
+Unlike antiarrhythmic drugs such as amiodarone, ICDs reduce 
+mortality in cardiac arrest survivors and those with sustained 
+ventricular arrhythmias, regardless of LVEF or presence of 
+HF.345–348 Recommendations for secondary prevention ICD 
+implantation are provided in the 2022 ESC Guidelines for the 
+management of patients with ventricular arrhythmias and the 
+prevention of sudden cardiac death.119 Cardiomyopathy-specific 
+recommendations for secondary prevention ICD implantation 
+are provided in the 2023 ESC Guidelines for the management of 
+cardiomyopathies.124 
+6.2.1.2. Primary prevention of sudden cardiac death in heart 
+failure 
+In the SCD-HeFT trial, compared to amiodarone, ICD reduced all- 
+cause death by 23% in patients with HFrEF.340 In MADIT-II, 1232 
+patients were randomized to an ICD or control, and ICD therapy 
+reduced all-cause death by 31%.342 Although the risk of SCD has 
+declined over time, the residual risk of SCD is still high (annual 
+rate of 3.3 per 100 patient-years in PARADIGM-HF), warranting 
+primary prevention ICD implantation in patients with HFrEF 
+deemed at high risk of SCD.349 For details, see Supplementary 
+data online, Section S3.1.1.1.340,342,349–352 
+6.2.1.3. Patient selection for implantable 
+cardioverter-defibrillator therapy 
+Selection of patients with HFrEF for ICD implantation should be 
+based on LVEF thresholds established in RCTs and underlying 
+aetiology, as individuals with non-ischaemic HF may derive less 
+benefit than those with ischaemic heart disease.341,343,353,354 
+However, a meta-analysis of RCTs demonstrated an overall sur-
+vival benefit, even in patients with non-ischaemic HF.344 The ef-
+fect of ICD treatment depends on the competing risk of 
+non-sudden death, both CV and non-CV. Thus, in patients with 
+many comorbidities and older age, the benefit of ICD therapy 
+may be substantially lower.355 Shared decision-making is essen-
+tial when considering ICD implantation in patients with HF.  
+Ivabradine should be considered for patients with symptomatic HFrEF, LVEF ≤35%, in sinus rhythm, resting heart rate 
+>70 b.p.m., on the highest tolerated ACE-I/ARNI, MRA, SGLT2-I, and beta-blockers to reduce the risk of HFH or CV death.294 IIa B1 
+Ivabradine should be considered in patients with symptomatic HFrEF, LVEF ≤35%, in sinus rhythm, who are unable to tolerate 
+a beta-blocker, on the highest tolerated ACE-I/ARNI and MRA to reduce the risk of HFH or CV death.294 IIa C 
+Hydralazine and isosorbide dinitrate should be considered in self-identified black patients with symptomatic HFrEF with LVEF 
+≤40% on top of optimal FMT to reduce the risk of HFH and death.300 IIa B2 
+Hydralazine and isosorbide dinitrate may be considered in patients with symptomatic HFrEF with LVEF ≤40% who cannot 
+tolerate ARNI, ACE-I, or ARB to reduce the risk of HFH and death.301 IIb C 
+Vericiguat may be considered in patients with symptomatic HFrEF and LVEF <45% despite treatment with optimal FMT to 
+reduce the risk of HFH and CV death.295,297,298 IIb B1 
+Gradual discontinuation of FMT under frequent clinical, laboratory, and imaging surveillance may be considered in highly 
+selected patients who are asymptomatic with complete normalization of LV function and volume as well as natriuretic peptide 
+levels after specific treatment of reversible causes of HF, in order to accommodate patient preference.325 
+IIb C 
+HFpEF 
+ACE-I/ARB/ARNI may be considered in patients with symptomatic HFpEF to reduce the risk of HFH.39,40,42,319,332–337 IIb C 
+© ESC 2026
+ACE-I, angiotensin-converting enzyme inhibitor; ARB, angiotensin II receptor blocker; ARNI, angiotensin receptor–neprilysin inhibitor; CV, cardiovascular; FMT, 
+foundational medical therapy; HF, heart failure; HFH, heart failure hospitalization; HFpEF, heart failure with preserved ejection fraction; HFrEF, heart failure with 
+reduced ejection fraction; LV, left ventricular; LVEF, left ventricular ejection fraction; MRA, mineralocorticoid receptor antagonist; nsMRA, non-steroidal 
+mineralocorticoid receptor antagonist; RCT, randomized clinical trial; SGLT2-I, sodium–glucose co-transporter 2 inhibitor; sMRA, steroidal mineralocorticoid receptor 
+antagonist. 
+aClass of recommendation. 
+bLevel of evidence. 
+cThe evidence for using MRAs in patients with HFrEF is based on RCTs conducted with sMRAs (spironolactone and eplerenone), whereas the evidence for patients with 
+HFpEF originates from a meta-analysis of RCTs using both steroidal (spironolactone) and non-steroidal MRAs (finerenone). 
+dThis recommendation is considered by the Task Force to have level of evidence A due to clear clinical effectiveness. Dynamic dosing of loop diuretics has been widely 
+accepted as effective and therefore no adequately powered RCTs have ever been conducted or are likely to be conducted for ethical reasons. 
+eNo large prospective RCT has been performed on the use of beta-blockers, ACE-I/ARNI/ARB exclusively in patients with LVEF 41%–49%.   
+ESC Guidelines                                                                                                                                                                                        5383 
+Downloaded from academic.oup.com/eurheartj/article/47/38/5346/8766302 by guest on 22 October 2026
+
+--- Page 39 ---
+Both patient preferences and clinical factors should be carefully 
+considered. Individualized patient information on the potential 
+risks and benefits should be provided to support an informed 
+decision. 
+The presence and the extent of myocardial fibrosis, geno-
+types, and additional factors may help arrhythmic risk stratifica-
+tion in patients with cardiomyopathies.124,356,357 
+6.2.1.4. Timing of implantable cardioverter-defibrillator 
+therapy 
+Two studies have shown that primary prevention ICD implant-
+ation within 40 days of an MI does not improve outcomes.358,359 
+A 3-month period after uptitration of FMT before considering 
+ICD implantation is reasonable. Delaying ICD implantation car-
+ries a risk of SCD at 2%–4% by 6 months and ∼7% by 1 year.360 
+6.2.1.5. Implantable cardioverter-defibrillator generator 
+replacement 
+As with FMT, the commitment to GDIT is in most cases lifelong. 
+Implantation of an ICD commits the patient to lifelong monitor-
+ing and the need for generator replacements. The lifelong risk of 
+complications should be considered in the decision to implant. A 
+further question is whether ICD generators should be replaced 
+in patients who have not had appropriate ICD therapies. ICD 
+shocks occur in more than 15% of patients after generator re-
+placement in those who have not had an appropriate ICD shock 
+during the lifetime of their first ICD generator.361 Even in pa-
+tients with LVEF improvement after FMT and CRT, a consider-
+able residual risk of SCD remains.362,363 As HFrEF and 
+comorbidities progress, the benefit of ICD therapy may dimin-
+ish. The need for ICD and the risk of SCD should be reconsid-
+ered over time and prior to every generator replacement, 
+taking risk of SCD, remaining lifespan of the patient, risk of com-
+plications, competing risks of death due to comorbidities, frailty, 
+and patient choice into account.364–367 
+6.2.1.6. Non-transvenous implantable  
+cardioverter-defibrillator and wearable  
+cardioverter-defibrillator 
+In a subcutaneous ICD (S-ICD), the lead is extravascular and, 
+therefore, not prone to intravascular infection. It is particularly 
+attractive in patients with difficult venous access or those who 
+are at risk of infection. The S-ICD is comparable to transvenous 
+ICDs in terms of efficacy, complication rates, and inappropriate 
+shock rates.368,369 Importantly, the S-ICD cannot treat bradyar-
+rhythmia (other than post-shock pacing) and does not provide 
+anti-tachycardia pacing. 
+The extravascular ICD consists of a generator implanted in a 
+subfascial or submuscular pocket and a substernally deployed 
+lead.370 A notable advantage over the S-ICD is that the gener-
+ator is similar in size to a transvenous ICD. Long-term data on 
+efficacy and safety are required. 
+A wearable defibrillator may be considered in patients 
+deemed at especially high risk of SCD or as a bridge to decision 
+for ICD implantation, although no mortality benefit has been 
+shown in RCTs371,372 (see Supplementary data online, Section  
+S3.1.1.2). 
+Recommendation Table 6 — Recommendations for implan-
+table cardioverter-defibrillator implantation (see Evidence 
+Tables 42–48) 
+Recommendations Classa Levelb  
+An ICD is recommended in patients who have 
+recovered from a ventricular arrhythmia causing 
+haemodynamic instability (secondary 
+prevention), and who are expected to survive for 
+>1 year with good functional status, in the 
+absence of reversible causes, or unless the 
+ventricular arrhythmia has occurred <48 h after 
+an MI, to reduce the risk of sudden death and 
+all-cause death.346 
+I A 
+An ICD is recommended in patients with 
+symptomatic HFrEF (NYHA class II/III) of an 
+ischaemic aetiology (unless they have had an MI 
+in the prior 40 days), and an LVEF ≤35% despite 
+≥3 months of optimal FMT, provided they are 
+expected to survive longer than 1 year with 
+good functional status, to reduce the risk of 
+sudden death and all-cause death.340,342,373,374 
+I B1 
+An ICD should be considered in patients with 
+symptomatic HFrEF (NYHA class II/III) of a 
+non-ischaemic aetiology, and an LVEF ≤35% 
+despite ≥3 months of optimal FMT, provided 
+they are expected to survive longer than 1 year 
+with good functional status, to reduce the risk of 
+sudden death and all-cause death.340,341,344,375 
+IIa B1 
+Prior to generator replacement for CIEDs, a 
+shared decision-making process between the 
+patient and a cardiologist experienced in CIEDs 
+and HF should be considered to ensure that the 
+balance between risks and benefits still favour a 
+CIED.376–380 
+IIa C 
+A wearable cardioverter-defibrillator may be 
+considered in patients with HF who are at risk of 
+sudden cardiac death for a limited period in 
+order to increase survival as a bridge to decision 
+for permanent ICD implantation or while listed 
+for heart transplantation.381–384 
+IIb C 
+ICD implantation for primary prevention is not 
+recommended within 40 days of an MI as 
+implantation during this period does not 
+improve prognosis.358,359 
+III B1 
+ICD implantation is not recommended in 
+patients in NYHA class IV with severe symptoms 
+refractory to pharmacological therapy unless 
+they are candidates for CRT, a ventricular assist 
+device, or heart transplantation.374,385–387 
+III C 
+© ESC 2026
+CIED, cardiac implantable electronic device; CRT, cardiac resynchronization 
+therapy; FMT, foundational medical therapy; HF, heart failure; HFrEF, 
+heart failure with reduced ejection fraction; ICD, implantable 
+cardioverter-defibrillator; LVEF, left ventricular ejection fraction; MI, 
+myocardial infarction; NYHA, New York Heart Association. 
+aClass of recommendation. 
+bLevel of evidence.   
+5384                                                                                                                                                                                       ESC Guidelines 
+Downloaded from academic.oup.com/eurheartj/article/47/38/5346/8766302 by guest on 22 October 2026
+
+--- Page 40 ---
+6.2.2. Cardiac resynchronization therapy 
+In carefully selected patients with HFrEF, CRT improves 
+cardiac function, QoL, and reduces hospitalizations and 
+death. Landmark RCTs support CRT use across a range of HF 
+severity.388–398 
+The first RCT to address the effects of CRT on morbidity and 
+mortality was COMPANION388 in which CRT with pacemaker 
+(CRT-P) and CRT with defibrillator (CRT-D) reduced the com-
+posite endpoint of all-cause death and hospitalizations for any 
+cause by 20%. A reduction in all-cause death was shown with 
+CRT-D, but not with CRT-P. In contrast, in the CARE-HF trial,392 
+which randomized participants to medical therapy with or with-
+out CRT-P, CRT-P reduced all-cause death and HFH. In the 
+MADIT-CRT trial, in which 1820 patients in NYHA classes I 
+and II were randomized to CRT-D or ICD, CRT-D reduced all- 
+cause death or HF events by 34%.397 In the REVERSE trial,396 
+which also involved patients in NYHA classes I and II with pri-
+mary prevention ICD indications, CRT improved LVEF and re-
+duced HFH. Importantly, in the 5-year follow-up of REVERSE, 
+annualized death was low at 2.9% in patients randomized to 
+‘CRT-on’.399 Together, these findings have provided compelling 
+evidence for using CRT across the spectrum of severity of 
+HFrEF. For landmark trials of CRT, see Supplementary data 
+online, Table S10.388,389,392,396–398,400–412 Figure 10 provides 
+an overview of factors to consider when evaluating patients 
+for CRT. 
+6.2.2.1. Cardiac resynchronization therapy for heart failure 
+caused by abnormal cardiac conduction 
+Heart failure associated with abnormal cardiac conduction is de-
+fined as LV dysfunction due to conduction abnormalities (Figure 9 
+and Section 5.3.3). In patients with HF, where no other cause of 
+HF other than abnormal cardiac conduction can be found, and there 
+is a low likelihood of LVEF improvement, planning for CRT implant-
+ation may be considered early—even before full FMT uptitration. 
+6.2.2.2. Right ventricular pacing-induced heart failure 
+As expected from the effects of ectopic cardiac stimulation, RV 
+pacing leads to HFrEF in some patients.202,413 The incidence of 
+pacemaker- or RV pacing-induced HF varies between 5.9% and 
+39%, depending on the definition.202,236–239 In the recent 
+BUDAPEST-CRT Upgrade trial, upgrading to CRT-D signifi-
+cantly reduced death and HFH in patients with ≥20% RV pa-
+cing burden and QRS ≥150 ms (HR 0.27; P<.001). The 
+BUDAPEST-CRT Upgrade trial is the first RCT and included 
+only 360 patients in total. Therefore, CRT-D upgrade should 
+be considered in such patients.202,237,238,412,414 
+6.2.2.3. Timing of cardiac resynchronization therapy 
+implantation 
+The timing of CRT in relation to hospitalizations has not been 
+addressed by RCTs. In an observational study of 64 968  
+Figure 10 Indications for cardiac resynchronization therapy in heart failure. CRT, cardiac resynchronization therapy; FMT, foundational 
+medical therapy; HFrEF, heart failure with reduced ejection fraction; ICD, Implantable cardioverter-defibrillator; LBBB, left bundle 
+branch block; LVEF, left ventricular ejection fraction. In the decision on device implantation consider the following: patient preference, 
+likely benefit of ICD/CRT at the patient’s age, frailty and comorbidities, risk of complications, venous access issues. aUptitration to the 
+highest tolerated doses of HFrEF FMT (see Table 11). bInitiation of FMT and planning for CRT implantation may be considered simul-
+taneously in patients with symptomatic HFrEF, an LBBB with QRS ≥150 ms, and LVEF ≤35%, to improve symptoms and reduce mor-
+bidity and mortality, although reassessment of LVEF should be conducted prior to CRT implantation. (Class IIb).   
+ESC Guidelines                                                                                                                                                                                        5385 
+Downloaded from academic.oup.com/eurheartj/article/47/38/5346/8766302 by guest on 22 October 2026
+
+--- Page 41 ---
+patients undergoing CRT, the combined endpoint of all- 
+cause death and HFH was lowest in patients with no HFH 
+prior to implantation (9.7 per 100 person-years) and those 
+who had CRT during the first HFH (11.1 per 100 person- 
+years) compared with patients who had a CRT implantation 
+within a year of their first HFH (17.3 per 100 patient- 
+years).415 In a study of 15 619 CRT-eligible patients with 
+HF in the Get With The Guidelines-HF registry, all-cause 
+death was lower in those who received CRT implantation 
+during HFH (adjusted HR 0.63; P<.0001) compared with pa-
+tients who did not have CRT.416 A lower rate HF rehospita-
+lization was observed in patients with CRT implanted during 
+the first hospitalization (adjusted HR 0.64; P<.0001), but not 
+in those prescribed CRT at discharge. As HFH is a critical 
+step in the progression of HF, it may be beneficial to implant 
+CRT at an early stage in patients who are most likely to 
+benefit (LVEF ≤35%, LBBB with QRS ≥150 ms), ideally be-
+fore an HFH has occurred. 
+6.2.3. Conduction system pacing 
+Conduction system pacing (CSP), including His bundle and left 
+bundle branch area pacing, aims to engage the Purkinje network 
+for rapid and synchronous LV activation.426 Left bundle branch 
+area pacing may prove to be a feasible alternative to CRT when 
+implantation is challenging. However, no RCT with patient- 
+centred outcomes has evaluated the efficacy or long-term 
+safety of CSP in HFrEF. Therefore, no recommendations can 
+currently be made. See Evidence Table 22 and Supplementary 
+data online, Section S3.1.3 for further details.427–433 
+6.2.4. Cardiac implantable electronic device 
+programming and follow-up 
+In the same way that FMT implies lifelong adherence to drugs, a 
+CIED requires a lifelong commitment to device follow-up. For 
+the clinician, skills in interpretation of device-derived electro-
+grams, device-related problem solving, and programming are 
+essential.434,435 
+For ICDs, routine defibrillation testing of shock efficacy does 
+not reduce arrhythmic death and is therefore no longer recom-
+mended.436 Programming a high-rate cut-off and long detection 
+intervals between detection of ventricular tachycardia and anti- 
+tachycardia pacing or shocks dramatically reduce inappropriate 
+shocks and unnecessary ICD therapy.436,437 At follow-up, the 
+RV pacing burden as well as the intrinsic QRS duration are an im-
+portant focus for deciding whether to upgrade from an ICD to a 
+CRT-D device. 
+In patients with a CRT device, regular follow-up and optimiza-
+tion should be implemented, as CRT programming and FMT may 
+require further optimization after implantation.435 Appropriate 
+programming of atrioventricular intervals and optimal LV lead 
+vectors are required to optimize CRT response. In patients  
+Recommendation Table 7 — Recommendations for cardiac 
+resynchronization therapy implantation (see Evidence 
+Tables 49–58) 
+Recommendations Classa Levelb  
+CRT is recommended in patients with 
+symptomatic HFrEF, LVEF ≤35%, despite 
+optimal FMT, in SR with LBBB and QRS duration 
+≥150 ms in order to improve symptoms and 
+reduce the risk of hospitalizations and death.388– 
+398 
+I A 
+An upgrade to CRT should be considered in 
+patients with an LVEF ≤35% who have received 
+a conventional pacemaker or an ICD and 
+subsequently develop worsening HF despite 
+optimal FMT and who have a significant 
+proportion of RV pacing in order to reduce the 
+risk of HFH or death.412 
+IIa B1 
+CRT, rather than RV pacing, should be 
+considered in patients with HFrEF regardless of 
+NYHA class or QRS width who have an 
+indication for ventricular pacing for high-degree 
+AV block in order to reduce the risk of HFH and 
+death.409 
+IIa B1 
+CRT should be considered in patients with 
+symptomatic HFrEF, LVEF ≤35%, despite 
+optimal FMT, who are in SR with non-LBBB QRS 
+morphology and QRS duration ≥150 ms in order 
+to improve symptoms and reduce morbidity and 
+death.388–398 
+IIa C 
+CRT should be considered in patients with 
+symptomatic HFrEF, LVEF ≤35%, despite 
+optimal FMT, who are in SR with LBBB QRS 
+morphology and QRS duration of 130–149 ms 
+in order to improve symptoms and reduce 
+morbidity and death.390,417 
+IIa C                                                                                                 
+Continued 
+CRT may be considered in patients with 
+symptomatic HFrEF, LVEF ≤35%, despite 
+optimal FMT, who are in SR with non-LBBB QRS 
+morphology and QRS duration of 130–149 ms 
+in order to improve symptoms and reduce 
+morbidity and death.391,397 
+IIb C 
+Initiation of FMT and planning for CRT 
+implantation may be considered simultaneously 
+in patients with symptomatic HFrEF, an LBBB 
+with QRS ≥150 ms, and LVEF ≤35%, to improve 
+symptoms and reduce morbidity and death, 
+although reassessment of LVEF should be 
+conducted prior to CRT implantation.418–423 
+IIb C 
+CRT is not recommended in patients with a QRS 
+duration <130 ms who do not have an indication 
+for pacing due to high-degree AV 
+block.410,424,425 
+III A 
+© ESC 2026
+AV, atrioventricular; CRT, cardiac resynchronization therapy; FMT, foundational 
+medical therapy; HF, heart failure; HFH, heart failure hospitalization; HFrEF, 
+heart failure with reduced ejection fraction; ICD, implantable cardioverter- 
+defibrillator; LBBB, left bundle branch block; LVEF, left ventricular ejection 
+fraction; NYHA, New York Heart Association; RV, right ventricular; SR, sinus 
+rhythm. 
+aClass of recommendation. 
+bLevel of evidence.   
+5386                                                                                                                                                                                       ESC Guidelines 
+Downloaded from academic.oup.com/eurheartj/article/47/38/5346/8766302 by guest on 22 October 2026

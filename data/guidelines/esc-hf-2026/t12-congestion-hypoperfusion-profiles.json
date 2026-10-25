@@ -1,0 +1,260 @@
+{
+  "schemaVersion": 1,
+  "id": "esc-hf-2026.t12-congestion-hypoperfusion-profiles",
+  "guidelineId": "esc-hf-2026",
+  "number": "12",
+  "type": "grid",
+  "title": {
+    "en": "Signs, symptoms, and altered laboratory tests in congestion and hypoperfusion profiles",
+    "ru": "Признаки, симптомы и изменения лабораторных показателей при профилях застоя и гипоперфузии"
+  },
+  "tags": [
+    "acute-heart-failure",
+    "congestion",
+    "hypoperfusion",
+    "hemodynamic-profiles",
+    "left-congestion",
+    "right-congestion",
+    "signs",
+    "symptoms",
+    "laboratory"
+  ],
+  "source": {
+    "expectedRows": 9
+  },
+  "i18nStatus": {
+    "ru": "reviewed"
+  },
+  "columns": [
+    {
+      "id": "left_congestion",
+      "title": {
+        "en": "Left-sided congestion",
+        "ru": "Левосторонний застой"
+      }
+    },
+    {
+      "id": "right_congestion",
+      "title": {
+        "en": "Right-sided congestion",
+        "ru": "Правосторонний застой"
+      }
+    },
+    {
+      "id": "hypoperfusion",
+      "title": {
+        "en": "Hypoperfusion",
+        "ru": "Гипоперфузия"
+      }
+    }
+  ],
+  "rows": [
+    {
+      "id": "r01",
+      "cells": [
+        {
+          "text": {
+            "en": "Dyspnoea",
+            "ru": "Одышка"
+          }
+        },
+        {
+          "text": {
+            "en": "Peripheral oedema",
+            "ru": "Периферические отеки"
+          }
+        },
+        {
+          "text": {
+            "en": "Cold, sweaty extremities",
+            "ru": "Холодные, влажные конечности"
+          }
+        }
+      ]
+    },
+    {
+      "id": "r02",
+      "cells": [
+        {
+          "text": {
+            "en": "Orthopnoea",
+            "ru": "Ортопноэ"
+          }
+        },
+        {
+          "text": {
+            "en": "Abdominal distension",
+            "ru": "Вздутие живота (асцит)"
+          }
+        },
+        {
+          "text": {
+            "en": "Pale skin",
+            "ru": "Бледность кожи"
+          }
+        }
+      ]
+    },
+    {
+      "id": "r03",
+      "cells": [
+        {
+          "text": {
+            "en": "Cough",
+            "ru": "Кашель"
+          }
+        },
+        {
+          "text": {
+            "en": "Hepatomegaly",
+            "ru": "Гепатомегалия"
+          }
+        },
+        {
+          "text": {
+            "en": "Dizziness",
+            "ru": "Головокружение"
+          }
+        }
+      ]
+    },
+    {
+      "id": "r04",
+      "cells": [
+        {
+          "text": {
+            "en": "Tachypnoea",
+            "ru": "Тахипноэ"
+          }
+        },
+        {
+          "text": {
+            "en": "Jugular vein distension",
+            "ru": "Набухание яремных вен"
+          }
+        },
+        {
+          "text": {
+            "en": "Mental confusion",
+            "ru": "Спутанность сознания"
+          }
+        }
+      ]
+    },
+    {
+      "id": "r05",
+      "cells": [
+        {
+          "text": {
+            "en": "Rales",
+            "ru": "Влажные хрипы в легких"
+          }
+        },
+        {
+          "text": {
+            "en": "Hepatojugular reflux",
+            "ru": "Гепатоюгулярный рефлюкс"
+          }
+        },
+        {
+          "text": {
+            "en": "Oliguria",
+            "ru": "Олигурия"
+          }
+        }
+      ]
+    },
+    {
+      "id": "r06",
+      "cells": [
+        {
+          "text": {
+            "en": "S3",
+            "ru": "III тон сердца (ритм галопа)"
+          }
+        },
+        {
+          "text": {
+            "en": "Pleural effusion",
+            "ru": "Плевральный выпот"
+          }
+        },
+        {
+          "text": {
+            "en": "Narrow pulse pressure",
+            "ru": "Узкое пульсовое давление"
+          }
+        }
+      ]
+    },
+    {
+      "id": "r07",
+      "cells": [
+        {
+          "text": {
+            "en": "Pleural effusion",
+            "ru": "Плевральный выпот"
+          }
+        },
+        {
+          "text": {
+            "en": "Elevated serum creatinine",
+            "ru": "Повышение креатинина сыворотки"
+          }
+        },
+        {
+          "text": {
+            "en": "Elevated serum lactate",
+            "ru": "Повышение лактата сыворотки"
+          }
+        }
+      ]
+    },
+    {
+      "id": "r08",
+      "cells": [
+        {
+          "text": {
+            "en": "Elevated natriuretic peptides",
+            "ru": "Повышение натрийуретических пептидов"
+          }
+        },
+        {
+          "text": {
+            "en": "Elevated bilirubin, ALP, GGT",
+            "ru": "Повышение билирубина, ЩФ, ГГТ"
+          }
+        },
+        {
+          "text": {
+            "en": "Elevated serum creatinine",
+            "ru": "Повышение креатинина сыворотки"
+          }
+        }
+      ]
+    },
+    {
+      "id": "r09",
+      "cells": [
+        {
+          "text": {
+            "en": "—",
+            "ru": "—"
+          }
+        },
+        {
+          "text": {
+            "en": "Slightly elevated natriuretic peptides",
+            "ru": "Умеренно повышенные натрийуретические пептиды"
+          }
+        },
+        {
+          "text": {
+            "en": "Elevated aminotransferase",
+            "ru": "Повышение аминотрансфераз (АЛТ, АСТ)"
+          }
+        }
+      ]
+    }
+  ]
+}

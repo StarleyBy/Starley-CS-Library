@@ -1,0 +1,1586 @@
+
+=== PAGE 37 ===
+CLINICAL STATEMENTS 
+AND GUIDELINES
+Circulation. 2025;151:e771–e862. DOI: 10.1161/CIR.0000000000001309 April 1, 2025 e807
+Rao et al 2025 Acute Coronary Syndromes Guideline
+Recommendation-Specific Supportive Text
+ 1. Numerous clinical trials have evaluated a strategy 
+of early coronary angiography with possible PCI 
+after fibrinolytic therapy. This strategy of immediate 
+transfer and angiography has been associated with 
+lower rates of recurrent ischemic events as com-
+pared with usual care. 1–5 Regardless of the timing 
+of angiography, immediate transfer enables earlier 
+access to specialized centers, providing critical 
+care services and on-site catheterization laboratory 
+teams that can facilitate clinical assessments to 
+determine the likelihood of reperfusion and enable 
+earlier angiography for the unstable patient.
+ 2. Rescue PCI is associated with improved outcomes 
+in patients with clinical signs of failed reperfu-
+sion after fibrinolytic therapy. Several trials have 
+demonstrated a trend toward lower mortality and 
+significantly lower rates of recurrent MI and HF 
+when rescue PCI is performed for failed fibrinoly-
+sis.6,7 The REACT (Rapid Early Action for Coronary 
+Treatment) trial6 enrolled 427 patients with failed 
+reperfusion at 90 minutes after fibrinolysis to 1 of 
+3 treatment arms, including rescue PCI, conserva-
+tive care, or repeat fibrinolytic therapy. Rescue PCI 
+significantly reduced the composite primary end-
+point of death, reinfarction, stroke, or severe HF at 
+6 months compared with either conservative care 
+or repeat fibrinolytic therapy. Meta-analyses also 
+support lower rates of death or reinfarction when 
+rescue PCI is performed in this setting. 8,9 Minor 
+and major bleeding and rates of stroke were sig-
+nificantly higher with rescue PCI. 6–8 These studies 
+were performed in the era of femoral artery access, 
+with fewer options for antiplatelet and anticoagu-
+lant therapy. The use of radial artery access 15 and 
+the elimination of the routine use of glycoprotein 
+IIb/IIIa inhibitors has reduced bleeding. For this 
+reason, the balance of benefit from rescue PCI 
+outweighs the risks for most patients with evidence 
+of failed reperfusion after fibrinolysis.
+ 3. Routine early angiography with the intent to perform 
+PCI after fibrinolysis reduces MACE in comparison 
+to usual care (delayed coronary angiography and/
+or an ischemia-guided strategy of revasculariza-
+tion).1–5,11,16 In these studies, >80% of patients who 
+were transferred underwent PCI to treat a significant 
+residual stenosis or suboptimal flow of the infarct-
+related artery. Meta-analyses of the RCTs showed 
+a reduction in the combined endpoint of death or 
+reinfarction with an early invasive approach after 
+fibrinolytic therapy.10,17 ,18 In a network meta-analysis 
+evaluating clinical outcomes with different modes of 
+reperfusion for STEMI, a pharmaco-invasive strat-
+egy (defined as an interval between lysis and PCI 
+≥2 hours) was associated with a 21% reduction in 
+the mortality rate when compared with a strategy 
+of fibrinolysis alone. 18 Furthermore, contemporary 
+registries have shown an association between a 
+pharmaco-invasive approach and improved out-
+comes compared with PPCI when transfer times 
+are long.19 The optimal timing of angiography and 
+PCI after fibrinolytic therapy has not been clearly 
+defined but a similar benefit in ischemic endpoints 
+is evident across the spectrum of times included 
+in the clinical trials. 17 ,20 Although earlier studies 
+raised concerns for increased bleeding with very 
+early catheterization (mean time, 2.2 hours),21 more 
+contemporary data suggest similar rates of bleed-
+ing even if cardiac catheterization is performed very 
+early after fibrinolytic therapy.17 ,20
+6. NSTE-ACS: ROUTINE INVASIVE OR 
+SELECTIVE INVASIVE INITIAL APPROACH
+6.1. Rationale and Timing for a Routine Invasive 
+or Selective Invasive Approach
+Recommendations for Rationale and Timing for a Routine Invasive or 
+Selective Invasive Approach
+Referenced studies that support recommendations are summarized in 
+the Evidence Table.
+COR LOE Recommendations
+Routine Invasive Versus Selective Invasive Strategy
+1 A
+ 1. In patients with NSTE-ACS who are at  
+intermediate or high risk of ischemic events and 
+are appropriate candidates for revascularization, 
+an invasive approach with the intent to proceed 
+with revascularization is recommended during 
+hospitalization to reduce MACE.*1–6
+1 A
+ 2. In patients with NSTE-ACS who are at low risk of 
+ischemic events, either a routine invasive or  
+selective invasive approach is recommended to 
+help identify those who may require  
+revascularization and to reduce MACE.1–4,7
+Timing of Coronary Angiography for Those in Whom an Invasive 
+Approach Is Planned
+1 C-LD
+ 3. In patients with NSTE-ACS who have refractory 
+angina or hemodynamic or electrical instability, an 
+immediate invasive strategy with intent to perform 
+revascularization is indicated to reduce MACE.†8–11
+2a B-R
+ 4. In patients with NSTE-ACS who are at high risk‡ 
+of ischemic events, it is reasonable to choose an 
+early invasive strategy (within 24 hours) to reduce 
+MACE.†8,9,11,12
+2a B-R
+ 5. In patients with NSTE-ACS who are not at high 
+risk and are intended for an invasive strategy, it is  
+reasonable to perform angiography before  
+hospital discharge to reduce MACE.*8,11
+*Reproduced or
+†modified from the “2021 ACC/AHA/SCAI Guideline for Coronary Artery Re-
+vascularization.”7
+‡Predictors of risk are outlined in Figure 8.
+Synopsis
+A routine invasive approach refers to a strategy of 
+performing coronary angiography with the intent to  
+Downloaded from http://ahajournals.org by on May 30, 2026
+=== PAGE 38 ===
+CLINICAL STATEMENTS  
+AND GUIDELINES
+April 1, 2025 Circulation. 2025;151:e771–e862. DOI: 10.1161/CIR.0000000000001309e808
+Rao et al 2025 Acute Coronary Syndromes Guideline
+perform coronary revascularization by PCI or CABG (as 
+appropriate) in patients with NSTE-ACS. This approach 
+provides important prognostic information, including de-
+lineating the extent and severity of CAD. Several RCTs 
+have demonstrated that a routine invasive approach 
+in patients with NSTE-ACS reduces the risk of MACE 
+when compared with a selective invasive approach. 1–3 
+Notably, these strategy trials were conducted in an era 
+prior to the availability of hs-cTn assays, routine use 
+of radial approach for coronary angiography, newer 
+generation drug-eluting stents, and contemporary ev-
+idence-based antiplatelet therapies. Patients who are 
+at prohibitively high risk from angiography or who have 
+known coronary anatomy or preferences that preclude 
+revascularization (PCI or CABG) may be managed non-
+invasively.13 In addition, some low-risk patients, particu-
+larly those who have normal cardiac biomarkers and 
+in whom a diagnosis of an ACS is questioned, should 
+be considered for a “selective invasive” approach that 
+includes further noninvasive risk stratification prior to 
+consideration of coronary angiography, because they 
+derive less benefit from a routine invasive approach. 4,7 ,13 
+These low-risk patients should still undergo noninva-
+sive stress testing or coronary CT angiography prior to 
+hospital discharge. Patients with higher risk findings 
+on noninvasive testing or who have recurrent ischemic 
+symptoms should be referred for invasive coronary an-
+giography prior to hospital discharge in the absence of 
+contraindication (Figure 7).
+Recommendation-Specific Supportive Text
+ 1. In patients with NSTE-ACS, a routine invasive 
+approach improves clinical outcomes, including 
+lower rates of recurrent MI and recurrent isch-
+emia, compared with a selective invasive approach 
+that involves further noninvasive risk stratification 
+prior to consideration of angiography. 1–3 In a col-
+laborative meta-analysis of RCTs, a routine inva-
+sive approach reduced death or MI by 18% (OR, 
+0.82 [95% CI, 0.72-0.93]), including a 25% reduc-
+tion in MI (OR, 0.75 [95% CI, 0.65-0.88]) when 
+compared with a selective invasive approach. 5 The 
+benefit was more apparent in higher risk patients 
+with elevated biomarkers.4 The studies that estab-
+lished the benefit of a routine invasive approach 
+were conducted in the late 1990s and early 
+2000s, and it is unknown whether contemporary 
+Figure 7. Selection of a Routine Invasive Versus Selected Invasive Strategy in Patients With NSTE-ACS.
+Colors correspond to Class of Recommendation in Table 2. *AHA Scientific Statement on MINOCA.17 CABG indicates coronary artery bypass 
+grafting; CCTA, cardiac CT angiography; MINOCA, myocardial infarction with nonobstructive coronary artery disease; NSTE-ACS, non–ST-
+segment elevation acute coronary syndromes; and PCI, percutaneous coronary intervention.
+Downloaded from http://ahajournals.org by on May 30, 2026
+=== PAGE 39 ===
+CLINICAL STATEMENTS 
+AND GUIDELINES
+Circulation. 2025;151:e771–e862. DOI: 10.1161/CIR.0000000000001309 April 1, 2025 e809
+Rao et al 2025 Acute Coronary Syndromes Guideline
+therapies and advances in interventional methods 
+would yield different results. Similarly, elevated 
+cardiac biomarkers (CK-MB and older genera-
+tion troponin assays) identify those who benefit 
+more from a routine invasive strategy; however, 
+it remains unknown whether hs-cTn assays that 
+detect smaller degrees of myonecrosis are as 
+useful for identifying those who benefit from rou-
+tine coronary angiography. Although women are 
+less likely to have obstructive coronary disease at 
+angiography, they derive as much benefit from a 
+routine invasive approach in the presence of simi-
+lar risk predictors.4 The GRACE 2.0 risk calculator 
+and TIMI Risk Score for unstable angina/NSTEMI 
+may help identify patients at increased risk of 
+MACE who benefit more from a routine invasive 
+approach (Table 5). 1 Relative contraindications to 
+coronary angiography that merit further consider-
+ation of the relative risks and benefits of a routine 
+invasive approach are outlined in Table 15.
+ 2. Although some trials have demonstrated a reduc-
+tion in MACE with a routine invasive approach in 
+NSTE-ACS,1–3 others have not demonstrated a 
+significant benefit when compared with a selective 
+approach that involves further risk stratification. 4,7 
+Although a pooled analysis of 3 randomized tri-
+als suggested that the benefit of a routine invasive 
+approach was independent of baseline risk, 6 other 
+meta-analyses across studies have suggested 
+that lower risk patients may derive less bene-
+fit.4,5,14 In addition, some low-risk patients, particu-
+larly those who have normal cardiac biomarkers 
+in whom a diagnosis of an ACS is suspect, may 
+have improved outcomes with a selective invasive 
+approach.4,5 These patients should preferentially 
+undergo noninvasive stress testing or coronary 
+CT angiography prior to hospital discharge to help 
+determine the need for coronary angiography; 
+however, patients with suspected ongoing isch-
+emic symptoms should be considered for coronary 
+angiography.
+ 3. Patients with NSTE-ACS who are unstable (eg, 
+refractory or recurrent angina [despite optimal 
+medical therapy, hemodynamic or electrical instabil-
+ity, acute pulmonary edema or HF, worsening mitral 
+regurgitation]) have been largely excluded from 
+RCTs. Despite a relative paucity of clinical trial data, 
+these patients are at heightened risk of adverse 
+outcomes, and an immediate invasive strategy (<2 
+hours from hospital admission) with intention to 
+perform revascularization is recommended. 8,15 If 
+patients with ACS and unstable features are at a 
+non–PCI-capable hospital, they should be imme-
+diately transferred to a PCI-capable facility with a 
+goal of immediate angiography. Clinical features 
+that support immediate coronary angiography with 
+intent to revascularize are listed in Figure 8.
+ 4. For patients with NSTE-ACS for whom the deci-
+sion has been made to proceed with coronary angi-
+ography, the benefit of an early invasive versus a 
+delayed invasive approach is unclear. 8,9,11,12 In the 
+TIMACS (Timing of Intervention in Acute Coronary 
+Syndromes) trial, 11 patients were enrolled within 
+24 hours of symptoms and randomized to early 
+angiography within 24 hours versus delayed angi-
+ography ≥36 hours from time of randomization. 
+In the VERDICT (Very Early vs Deferred Invasive 
+Evaluation Using Computerized Tomography) trial,12 
+patients were randomized to early angiography 
+within 12 hours versus delayed between 48 to 72 
+hours from time of diagnosis. Both studies reported 
+no significant difference in MACE between an ear-
+lier versus delayed invasive approach in the over-
+all study populations, but there was signal toward 
+a reduction in MACE with an earlier invasive 
+approach in the higher risk patients with a GRACE 
+risk score >140. 11,12 In a meta-analysis of RCTs 
+that compared an early versus delayed approach, a 
+mortality benefit was not seen with earlier angiog-
+raphy. However, factors that favored an earlier inva-
+sive approach included a GRACE risk score >140, 
+diabetes, age >75 years, and elevated cardiac bio-
+markers (although formal tests for interaction were 
+not significant).8 Although not evaluated in RCTs, a 
+continuing steep rise in cardiac biomarkers, likely 
+due to ongoing ischemia and myonecrosis despite 
+optimized medical therapy, may also favor earlier 
+coronary angiography.
+ 5. In intermediate- or low-risk patients for whom 
+angiography is planned in NSTE-ACS, timing does 
+not appear to be critical, and a delayed invasive 
+strategy within 48 to 72 hours does not appear to 
+increase future risk of MACE. 8,10–12,15 Randomized 
+trial data have not demonstrated an overall signifi-
+cant difference in death or MI between an earlier 
+versus delayed invasive approach in nonselected 
+patients with NSTEMI.8,11,12,16
+Table 15. Relative Contraindications for a Routine Invasive 
+Approach in ACS
+High risk for bleeding on DAPT
+Severe thrombocytopenia (platelet count <50 × 109/L)
+Advanced kidney disease (not on dialysis)
+Acute renal failure
+Limited (<1-2 y) life expectancy
+Advanced dementia
+Known coronary anatomy that precludes PCI and/or CABG surgery
+Patient preference
+ACS indicates acute coronary syndromes; CABG, coronary artery bypass graft-
+ing; DAPT, dual antiplatelet therapy; and PCI, percutaneous coronary intervention.
+Downloaded from http://ahajournals.org by on May 30, 2026
+=== PAGE 40 ===
+CLINICAL STATEMENTS  
+AND GUIDELINES
+April 1, 2025 Circulation. 2025;151:e771–e862. DOI: 10.1161/CIR.0000000000001309e810
+Rao et al 2025 Acute Coronary Syndromes Guideline
+7 . CATHETERIZATION LABORATORY 
+CONSIDERATIONS IN ACS
+7 .1. Vascular Access Approach for PCI
+Recommendation for Vascular Access Approach for PCI
+Referenced studies that support recommendation are summarized in 
+the Evidence Table.
+COR LOE Recommendation
+1 A
+ 1. In patients with ACS undergoing PCI, a radial 
+approach is preferred to a femoral approach to 
+reduce bleeding, vascular complications, and 
+death.*1–6
+*Modified from the “2021 ACC/AHA/SCAI Guideline for Coronary Artery Re-
+vascularization.”7
+Synopsis
+The radial artery has become the preferred vascular ac-
+cess site for patients undergoing cardiac catheterization 
+and PCI. 8,9 Transradial access is associated with lower 
+mortality, bleeding, and vascular complications in patients 
+treated for ACS. 5 In addition, patients prefer radial ac-
+cess because it allows earlier ambulation and causes 
+less discomfort than femoral access. 9 A caveat is most 
+trials comparing radial versus femoral access had very 
+low crossover rates because they required operators with  
+expertise in radial access.3 The choice of radial access has 
+to be weighed against the possibility that the radial artery 
+could be used as a bypass conduit for CABG surgery. 10  
+In sites where surgeons routinely utilize the radial artery 
+as a bypass conduit, consideration should be given on 
+the choice of vascular access and future use of radial 
+artery for the cardiovascular surgical team. Although the 
+radial artery is the most widely studied wrist access site, 
+the use of alternative sites in the upper extremity, includ-
+ing the ulnar and distal radial arteries have yielded similar 
+outcomes.11,12 Transfemoral access, preferably with the 
+use of ultrasound guidance, should be considered in pa-
+tients in whom temporary MCS is planned and is the de-
+fault alternative access site among patients in whom the 
+radial artery cannot be used due to clinical, anatomical, 
+or technical reasons.13
+Recommendation-Specific Supportive Text
+ 1. RCTs have consistently demonstrated the ben-
+efit of radial access in comparison with femoral 
+access among patients treated for ACS. A meta-
+analysis using individual patient data from 7 high-
+quality RCTs (48.6% with NSTE-ACS; 46.2% with 
+Figure 8. Selection and Timing of an Invasive Strategy in NSTE-ACS.
+Figure 8 summarizes the recommendations in the 2025 ACS Guideline for a routine or selective invasive approach in NSTE-ACS. It is not meant 
+to encompass every patient scenario or situation, and clinicians are encouraged to use a Heart Team approach when care decisions are unclear 
+and to see the accompanying supportive text for each recommendation. Colors correspond to Class of Recommendation in Table 2. GRACE 
+indicates Global Registry of Acute Coronary Events; HF, heart failure; NSTE-ACS, non–ST-segment elevation acute coronary syndromes; Tn, 
+troponin; TIMI, Thrombolysis in Myocardial Infarction; VF, ventricular fibrillation; and VT, ventricular tachycardia. Adapted with permission from 
+Lawton et al.18 Copyright 2022 American Heart Association, Inc., and American College of Cardiology Foundation.
+Downloaded from http://ahajournals.org by on May 30, 2026
+=== PAGE 41 ===
+CLINICAL STATEMENTS 
+AND GUIDELINES
+Circulation. 2025;151:e771–e862. DOI: 10.1161/CIR.0000000000001309 April 1, 2025 e811
+Rao et al 2025 Acute Coronary Syndromes Guideline
+STEMI) demonstrated that radial access was inde-
+pendently associated with a significant 24% and 
+51% relative risk reduction of all-cause death and 
+major bleeding, respectively, when compared with 
+femoral access. 3 The magnitude of the mortal-
+ity benefit was greater among patients with lower 
+baseline hemoglobin levels. The benefit of radial 
+access toward reducing bleeding was driven by 
+a significant reduction in access-site bleeding. 
+Vascular complications were significantly reduced 
+by 62%. The MATRIX trial 6 demonstrated a sig-
+nificantly lower rate of the coprimary endpoints of 
+MACE and net adverse clinical events (composites 
+of death, MI, and stroke at 30 days, and MACE plus 
+non-CABG major bleeding) among patients with 
+ACS randomized to the transradial approach com-
+pared with the transfemoral approach. This is con-
+sistent with prior meta-analyses that have reported 
+lower mortality and bleeding with radial access in 
+patients with ACS. 4,14 The SAFARI-STEMI (Safety 
+and Efficacy of Femoral Access versus Radial for 
+Primary Percutaneous Intervention in ST-Elevation 
+Myocardial Infarction) trial showed no difference in 
+30-day mortality rates between radial and femo-
+ral access; however, the trial stopped early and 
+therefore was underpowered to detect a mortality 
+benefit.15
+7 .2. Use of Aspiration Thrombectomy
+Recommendation for Use of Aspiration Thrombectomy
+Referenced studies that support recommendation are summarized in 
+the Evidence Table.
+COR LOE Recommendation
+3: No 
+benefit A
+ 1. Among patients with STEMI undergoing PPCI, 
+manual aspiration thrombectomy should not be 
+performed routinely prior to PCI given lack of 
+clinical benefit.*1–4
+*Modified from the “2021 ACC/AHA/SCAI Guideline for Coronary Artery Re-
+vascularization.”5
+Synopsis
+Despite restoration of coronary patency, suboptimal myo-
+cardial perfusion resulting from distal embolization or mi-
+crovascular obstruction is frequent and is associated with  
+larger infarct size, impairment of L V function, and excess 
+mortality rates.6,7 Removing coronary artery thrombus pri-
+or to balloon angioplasty, stent deployment, or both is an 
+intuitive adjunct to PPCI that may yield putative clinical 
+benefits. Routine manual thrombus aspiration performed 
+via low profile catheters improved electrocardiographic 
+and angiographic markers of myocardial perfusion in 
+several clinical studies8,9 and reduced adverse events in 
+a single-center trial. 10,11 However, subsequent trials of 
+manual aspiration thrombectomy have not demonstrated 
+a clinical benefit. 1,2,4,12,13 Similarly, results from a pooled 
+analysis showed that mechanical thrombectomy during 
+STEMI was not superior to conventional PCI alone.
+Recommendation-Specific Supportive Text
+ 1. Results from several RCTs have shown that routine 
+manual aspiration thrombectomy prior to PCI does 
+not reduce MI size or improve clinical outcomes 
+as compared with PCI alone. 1,2,4,12,13 In a patient-
+level, pooled analysis comprising 3 RCTs, aspiration 
+thrombectomy did not reduce the primary endpoint 
+of cardiovascular death at 30 days among patients 
+with STEMI undergoing PPCI (n=18 306).3 
+Similarly, aspiration thrombectomy did not lower 
+risks for recurrent MI, target vessel revasculariza-
+tion, stent thrombosis, or HF at 30 days or 1 year. 
+With respect to safety, the incidence of stroke or 
+transient ischemic attack at 30 days and 1 year 
+was numerically higher, albeit not statistically sig-
+nificant, among patients who underwent aspiration 
+thrombectomy. Reductions in cardiovascular death 
+were lower while risks for stroke or transient isch-
+emic attack were higher among those with a large 
+thrombus burden treated with aspiration thrombec-
+tomy. Dedicated studies are warranted to evaluate 
+the role of selective aspiration thrombectomy in 
+those high-risk patients most likely to benefit from 
+thrombus removal prior to PCI. Manual aspiration 
+thrombectomy may be performed as a bailout pro-
+cedure to remove thrombus that persists after bal-
+loon angioplasty or stent deployment, particularly 
+with concomitant no-reflow. Estimates from RCT 
+cohorts indicate that 4% to 7% of patients with 
+STEMI undergoing PPCI will require bailout aspira-
+tion thrombectomy.1,2,10
+7 .3. Use of Intracoronary Imaging
+Recommendation for Use of Intracoronary Imaging
+Referenced studies that support recommendation are summarized in 
+the Evidence Table.
+COR LOE Recommendation
+1 A
+ 1. In patients with ACS undergoing coronary stent 
+implantation in left main artery or in complex 
+lesions, intracoronary imaging with intravascular 
+ultrasound (IVUS) or optical coherence tomogra-
+phy (OCT) is recommended for procedural  
+guidance to reduce ischemic events.*1–11
+*Adapted from the “2021 ACC/AHA/SCAI Guideline for Coronary Artery Re-
+vascularization.”12
+Synopsis
+Intracoronary imaging serves as a valuable tool for guid-
+ing the placement of coronary stents, particularly in cases 
+involving the left main artery or complex lesions, resulting 
+in greater stent expansion, less stent malapposition, and 
+fewer coronary dissections. 1,2,4,13 IVUS provides a com-
+Downloaded from http://ahajournals.org by on May 30, 2026
+=== PAGE 42 ===
+CLINICAL STATEMENTS  
+AND GUIDELINES
+April 1, 2025 Circulation. 2025;151:e771–e862. DOI: 10.1161/CIR.0000000000001309e812
+Rao et al 2025 Acute Coronary Syndromes Guideline
+prehensive view of the vessel wall, allowing for the evalu-
+ation of plaque burden, calcification extent, lesion length, 
+and external elastic lamina diameter before stent place-
+ment. It also facilitates the assessment of minimum stent 
+area, malapposition, underexpansion, tissue protrusion, 
+edge disease, and edge dissection after stent deploy-
+ment.14 OCT utilizes infrared light to produce high-res-
+olution images of the vessel wall, offering specific ad-
+vantages in assessing calcium thickness, lipid presence, 
+thrombus formation, fibroatheroma, and plaque rupture, 
+which is particularly helpful in patients with ACS. It is also 
+useful for examining stent strut neointimal thickness, 
+apposition, and edge dissections. However, it has limita-
+tions regarding imaging depth and requires the injection 
+of contrast to clear blood, limiting its utility in cases of os-
+tial left main disease. Both IVUS and OCT play essential 
+roles in evaluating the necessity for lesion preparation, 
+choosing the appropriate stent size, reducing the likeli-
+hood of geographical errors, confirming proper stent ex-
+pansion, identifying complications, and determining the 
+underlying reasons for stent failure.14,15
+Recommendation-Specific Supportive Text
+ 1. Randomized trials including patients with ACS 
+have shown that intracoronary imaging guidance 
+is associated with lower risk of target vessel failure 
+(cardiac death, target vessel MI, or ischemia-driven 
+target vessel revascularization) in patients undergo-
+ing PCI.1–4 The advantages of intracoronary imag-
+ing are sustained over time and can be extended 
+to less complex lesions. 5 Renovate-Complex PCI 
+(Randomized Controlled Trial of Intravascular 
+Imaging Guidance versus Angiography-Guidance 
+on Clinical Outcomes after Complex Percutaneous 
+Coronary Intervention) demonstrated a significant 
+reduction in target vessel failure with intracoro-
+nary guidance (IVUS or OCT) versus angiographic 
+guidance after a median follow-up of 2.1 years. 1 
+The OCTOBER (Optical Coherence Tomography 
+Optimized Bifurcation Event Reduction) trial showed 
+a significant reduction in target vessel failure at 2 
+years with OCT versus angiographic guidance in 
+bifurcation lesions, including left main bifurcations.4 
+Randomized trials directly comparing OCT versus 
+IVUS have demonstrated that OCT is noninferior to 
+IVUS for PCI-guidance.6–8,10 However, the ILUMIEN 
+IV: Optimal PCI (OCT Guided Coronary Stent 
+Implantation Compared with Angiography) trial, the 
+largest trial testing the strategy of imaging guidance 
+with OCT, did not reveal a difference in target vessel 
+failure with OCT in high-risk patients or patients with 
+high-risk lesions; however, the coprimary endpoint of 
+minimal stent area was significantly larger with OCT 
+guidance compared with angiography guidance. 2 
+The rates of definite or probable stent thrombosis 
+were also significantly lower with OCT-guided PCI 
+compared with angiography-guided PCI. A minimum 
+stent area of <4.5 to 5.0 mm2 by OCT is considered 
+to be an independent predictor of MACE. 16,17 Two 
+large network meta-analyses showed that, in aggre-
+gate, intracoronary imaging guidance (with either 
+IVUS or OCT) for PCI decreases cardiac death, tar-
+get vessel MI, target lesion revascularization, and 
+stent thrombosis.11,18
+7 .4. Management of Multivessel CAD in ACS
+7.4.1. Management of Multivessel CAD in STEMI
+Recommendations for Management of Multivessel CAD in STEMI
+Referenced studies that support recommendations are summarized in 
+the Evidence Table.
+COR LOE Recommendations
+1 A
+ 1. In selected, hemodynamically stable patients with 
+STEMI and multivessel disease (MVD), after  
+successful PCI of the infarct-related artery, PCI of 
+significantly stenosed* noninfarct-related  
+arteries is recommended to reduce the risk of 
+death or MI and improve angina-related quality of 
+life (QOL).†1–9
+2a C-EO
+ 2. In appropriate patients with STEMI and complex 
+MVD, after successful PCI of the infarct-related 
+artery, elective CABG surgery for significantly  
+stenosed noninfarct-related arteries involving the 
+left anterior descending artery or left main  
+disease is reasonable to reduce the risk of  
+cardiovascular events.†
+2b B-R
+ 3. In selected hemodynamically stable patients 
+with STEMI and low-complexity MVD (those not 
+intended for CABG surgery), multivessel PCI  
+of significantly stenosed noninfarct-related  
+arteries at the time of PPCI may be preferred 
+over a staged approach to reduce the risk of  
+cardiovascular events.10–12
+3: Harm B-R
+ 4. In patients with STEMI complicated by cardiogenic 
+shock, routine PCI of a noninfarct-related artery 
+at the time of PPCI should not be performed 
+because of the higher risk of death or renal  
+failure.*13–15
+*Significantly stenosed refers to lesions that are severely diseased as defined 
+by the “2021 ACC/AHA/SCAI Guideline for Coronary Artery Revascularization” 
+as a visually estimated diameter stenosis severity of ≥70% for non–left main 
+disease and ≥50% for left main disease.16
+†Modified from the “2021 ACC/AHA/SCAI Guideline for Coronary Artery Re-
+vascularization.”16
+Synopsis
+Several randomized trials of hemodynamically stable pa-
+tients with STEMI have demonstrated that a strategy of 
+multivessel PCI of significantly stenosed nonculprit ves-
+sels is safe and reduces risk of MACE when compared 
+with PCI of the infarct-related artery alone.1–8 These trials 
+enrolled a select group of patients with anatomy suitable 
+for PCI and without clinical factors precluding further in-
+vasive therapies. Recent studies suggest a lower risk of 
+MACE (predominantly driven by a lower rate of recur-
+rent ischemia and recurrent MI) when multivessel stent-
+Downloaded from http://ahajournals.org by on May 30, 2026
+=== PAGE 43 ===
+CLINICAL STATEMENTS 
+AND GUIDELINES
+Circulation. 2025;151:e771–e862. DOI: 10.1161/CIR.0000000000001309 April 1, 2025 e813
+Rao et al 2025 Acute Coronary Syndromes Guideline
+ing occurs as a single procedure as opposed to when 
+staged.10–12 The decision to proceed with multivessel 
+stenting and the timing of the procedure should take into 
+account the patient’s clinical and hemodynamic status, 
+the duration and complexity of the infarct-related artery 
+PCI, the complexity of disease in the noninfarct-related 
+artery, the amount of myocardium in jeopardy, and the 
+presence of comorbidities that might favor a conservative 
+approach to care. Few studies of multivessel PCI have 
+directly compared the efficacy of a physiologic-guided 
+PCI versus an angiographic-guided PCI approach. 17 ,18 A 
+meta-analysis across trials did not suggest any differ-
+ential benefit for complete revascularization based on 
+whether the approach was guided by fractional flow re-
+serve (FFR) or angiography alone.3
+Recommendation-Specific Supportive Text
+ 1. Over the past decade, numerous trials have reported 
+a significant reduction in MACE with complete revas-
+cularization.1,2,4–8 These studies have demonstrated 
+benefits to complete revascularization either at the 
+time of PPCI2,5–8 or as a staged procedure.1,2,4,6 The 
+PRAMI (Preventive Angioplasty in Acute Myocardial 
+Infarction) trial,8 one of the earliest trials of multi-
+vessel PCI, randomized 465 patients with STEMI 
+and MVD to a strategy of complete revasculariza-
+tion versus culprit artery only revascularization. The 
+trial was stopped early due to a significant reduction 
+in the primary composite endpoint (cardiovascular 
+death, nonfatal MI, or refractory angina) with com-
+plete revascularization, with significant reductions 
+in nonfatal MI and refractory angina and a trend 
+in reduction in the rates of cardiovascular death. 
+The COMPLETE (Complete versus Culprit-Only 
+Revascularization Strategies to Treat Multivessel 
+Disease after Early PCI for STEMI) trial1 randomized 
+4041 patients with STEMI and significant MVD to 
+a strategy of staged PCI of the non–infarct-related 
+artery (performed up to 45 days post MI) or culprit 
+vessel–only revascularization with PCI reserved 
+for patients with refractory symptoms. At a median 
+follow-up of 3 years, multivessel PCI reduced car-
+diovascular death or MI and cardiovascular death, 
+MI, or ischemia-driven revascularization. This benefit 
+was consistent across all subgroups. Angina-related 
+QOL was also significantly improved with multives-
+sel PCI, with a greater proportion of patients in the 
+complete revascularization arm who were angina-
+free in long-term follow-up.9 In a meta-analysis, com-
+plete revascularization reduced cardiovascular death 
+in patients with STEMI.19 The benefits of complete 
+revascularization with multivessel PCI should not be 
+extrapolated to patients with disease more suited to 
+CABG surgery, because they were excluded from 
+these trials.
+ 2. The trials examining the benefit of multivessel 
+PCI in patients with STEMI and MVD excluded 
+patients intended for CABG surgery. Furthermore, 
+few patients with complex disease, such as chronic 
+total occlusions or involvement of the left main 
+artery, were included in these trials. For this rea-
+son, the benefits of a strategy of multivessel PCI 
+cannot be extrapolated to patients with more com-
+plex noninfarct-related artery disease. In patients 
+with CCD and complex CAD, including complex 
+left main disease, or in patients with diabetes who 
+have MVD involving the left anterior descending 
+artery, CABG surgery is associated with improved 
+event-free survival when compared with PCI. 20–24 
+As such, a similar benefit of CABG over PCI might 
+be expected for patients with STEMI and complex 
+non–infarct-related artery disease involving the left 
+main or left anterior descending artery or in patients 
+with diabetes and MVD involving the left anterior 
+descending artery, who are stable and remote from 
+their acute infarct, although the optimal timing of 
+CABG is unclear in this setting and needs to take 
+into account increased bleeding risk from DAPT.
+ 3. Performing multivessel PCI at the time of PPCI 
+offers the convenience of a single procedure, 
+allowing for faster recovery, without the risk of 
+repeated arterial access, or the potential for 
+recurrent ischemia before the staged PCI. The 
+BIOVASC (Direct Complete Versus Staged 
+Complete Revascularization in Patients Presenting 
+With Acute Coronary Syndromes and Multivessel 
+Disease) trial 10 randomized 1525 patients with 
+ACS (∼40% with STEMI) and MVD to a strategy 
+of a single setting immediate multivessel PCI or 
+staged multivessel PCI. At 1 year, immediate mul-
+tivessel PCI was noninferior to staged multives-
+sel PCI for the primary endpoint all-cause death, 
+MI, unplanned ischemia-driven revascularization, 
+or cerebrovascular events. When compared with 
+staged PCI, a single procedure multivessel PCI was 
+associated with lower rates of recurrent MI and 
+lower rates of unplanned ischemia-driven revas-
+cularization. The MUL TISTARS AMI (Multivessel 
+Immediate Versus Staged Revascularization in 
+Acute Myocardial Infarction) study 11 compared a 
+strategy of a single procedure multivessel PCI with 
+staged multivessel PCI in 840 patients with STEMI 
+and MVD. Immediate multivessel PCI was nonin-
+ferior and superior to staged multivessel PCI for 
+the primary endpoint of death, reinfarction, stroke, 
+unplanned ischemia-driven revascularization, or 
+hospitalization for HF at 1 year. This was largely 
+driven by a lower rate of recurrent ischemia and 
+recurrent infarction in the immediate group. In a 
+network meta-analysis comparing all strategies for 
+managing the non–infarct-related artery, a single 
+Downloaded from http://ahajournals.org by on May 30, 2026
+=== PAGE 44 ===
+CLINICAL STATEMENTS  
+AND GUIDELINES
+April 1, 2025 Circulation. 2025;151:e771–e862. DOI: 10.1161/CIR.0000000000001309e814
+Rao et al 2025 Acute Coronary Syndromes Guideline
+procedure approach for immediate multivessel 
+PCI was preferred followed by staged multivessel 
+PCI.12 Patients ideally suited for immediate com-
+plete revascularization include those with uncom-
+plicated PCI of the infarct-related artery and low 
+complexity noninfarct-related artery disease with 
+stable hemodynamics, normal L V filling pressures, 
+and normal renal function.
+ 4. In patients with STEMI complicated by cardiogenic 
+shock and MVD, a strategy of multivessel PCI is 
+associated with worse outcomes.13–15 The CULPRIT-
+SHOCK (Culprit Lesion Only PCI versus Multivessel 
+PCI in Cardiogenic Shock) trial 13 randomized 706 
+patients with AMI, approximately 60% with STEMI, 
+and cardiogenic shock to a strategy of complete 
+multivessel PCI or culprit vessel–only PCI. At 30 
+days and 1 year, the rates of death or need for renal 
+replacement therapy were significantly higher in the 
+group of patients randomized to multivessel PCI. 13,14 
+Importantly, the CULPRIT-SHOCK trial only permitted 
+enrollment if there was an identifiable culprit lesion. 
+In situations where an unstable-appearing nonculprit 
+artery lesion was observed, or in those patients with 
+an uncertain culprit lesion, the decision to proceed 
+with multivessel PCI may be more nuanced.
+7.4.2. Management of Multivessel CAD in 
+NSTE-ACS
+Recommendations for Management of Multivessel CAD in NSTE-ACS
+Referenced studies that support recommendations are summarized in 
+the Evidence Table.
+COR LOE Recommendations
+1 C-EO
+ 1. In patients with NSTE-ACS with MVD, the mode 
+of revascularization (CABG or multivessel PCI) 
+should be based on the disease complexity and 
+patient’s comorbidities.
+Multivessel CAD and Candidates for PCI
+1 B-R
+ 2. In stable patients with NSTE-ACS with MVD but 
+without left main stenosis who are not intended 
+for CABG surgery and undergoing culprit-lesion 
+PCI, PCI of significant nonculprit lesions (at the 
+time of the index procedure or as a staged  
+procedure) is recommended to reduce the risk of 
+MACE.1–6
+2b B-R
+ 3. In patients with NSTE-ACS in whom multivessel 
+PCI is being considered, physiological  
+assessment of a nonculprit stenosis may be  
+considered to guide revascularization decisions.7–9
+3: Harm B-R
+ 4. In patients with NSTE-ACS complicated by  
+cardiogenic shock, routine PCI of a nonculprit 
+artery at the time of index procedure should not 
+be performed because of the higher risk of death 
+or kidney failure.*10,11
+*Modified from the “2021 ACC/AHA/SCAI Guideline for Coronary Artery Re-
+vascularization.”12
+Synopsis
+Multivessel coronary disease, defined as angiographi-
+cally significant stenosis (≥ 50%) in ≥ 2 epicardial arter-
+ies, is present in up to 40% to 70% of patients with 
+NSTE-ACS. Identification of the culprit artery in these 
+situations might be challenging.13 Several subsets of pa-
+tients, including those with complex left main disease, 
+complex 3-vessel disease, and diabetes with left an-
+terior descending artery involvement, might be appro-
+priate for CABG surgery. 12 A Heart Team approach is 
+recommended to consider CABG surgery versus mul-
+tivessel PCI based on the complexity of CAD, techni-
+cal feasibility, patient's surgical risk, and the potential 
+for rehabilitation after CABG surgery. Dedicated RCTs 
+comparing multivessel PCI versus culprit-only PCI ex-
+clusively among hemodynamically stable patients with 
+NSTE-ACS are lacking. A large subgroup analysis from 
+an RCT that included both patients with STEMI and 
+NSTE-ACS and several observational studies have sug-
+gested that multivessel PCI among selected patients not 
+intended for CABG reduces risk of MACE. 1–4,6,15 Angio-
+graphic assessment might overestimate the severity of 
+a nonculprit lesion. 16 In one study, routine integration of 
+physiological assessment of a nonculprit artery stenosis 
+in NSTE-ACS led to change in management (ie, from 
+revascularization to medical treatment only) in 38% of 
+the cases.17
+Recommendation-Specific Supportive Text
+ 1. Studies evaluating the benefit of multivessel 
+PCI among patients with NSTE-ACS and MVD 
+excluded patients planned for CABG. The poten-
+tial benefit of multivessel PCI cannot be extrap-
+olated to patients with complex CAD. Indeed, 
+certain subsets of patients might derive a survival 
+benefit from CABG, including those with diabetes 
+and disease involving the left anterior descending 
+artery, left main with high complexity, MVD with 
+complex or diffuse CAD, and those with severe 
+L V dysfunction (Table 16). 18–21 Accordingly, a 
+Heart Team approach is recommended to con-
+sider CABG surgery versus multivessel PCI 
+based on the complexity of the CAD, technical 
+Table 16. Considerations for Choice of Coronary Revascu-
+larization Strategy for Patients With NSTE-ACS and MVD
+In patients with NSTE-ACS and MVD, CABG surgery may be preferred 
+over multivessel PCI in any of the following situations:
+Significant left main coronary stenosis with high-complexity CAD
+Multivessel CAD with complex or diffuse CAD
+Diabetes mellitus and MVD with the involvement of the LAD
+Multivessel CAD or complex left main CAD with severe left ventricular  
+dysfunction
+Adapted from the “2021 ACC/AHA/SCAI Coronary Revascularization Guide-
+line.”12
+CAD indicates coronary artery disease; CABG, coronary artery bypass graft-
+ing; LAD, left anterior descending artery; MVD, multivessel disease; NSTE-ACS, 
+non–ST-segment elevation acute coronary syndromes; and PCI, percutaneous 
+coronary intervention.
+Downloaded from http://ahajournals.org by on May 30, 2026
+=== PAGE 45 ===
+CLINICAL STATEMENTS 
+AND GUIDELINES
+Circulation. 2025;151:e771–e862. DOI: 10.1161/CIR.0000000000001309 April 1, 2025 e815
+Rao et al 2025 Acute Coronary Syndromes Guideline
+feasibility, patient’s surgical risk, and the poten-
+tial for rehabilitation after CABG surgery in these 
+situations. In patients who are deemed appropri-
+ate for CABG, surgery could be considered prior 
+to hospital discharge. Several observational stud-
+ies have suggested that early CABG (performed 
+within 3 days of presentation) may be associated 
+with similar outcomes compared with delayed 
+CABG.22–24
+ 2. The FIRE (Functional Assessment in Elderly MI 
+Patients With Multivessel Disease) trial enrolled 
+1445 elderly patients (median age, 80 years) 
+with multivessel disease (ie, nonculprit artery with 
+minimum vessel diameter >2.5 mm and angiog-
+raphy estimated stenosis 50% to 99%) and ACS 
+(∼65% with NSTE-ACS). Multivessel PCI reduced 
+the risk of MACE, as well as reduced all-cause 
+and cardiovascular mortality. The benefit was con-
+sistent between patients with NSTE-ACS versus 
+patients with STEMI. 1 Several observational stud-
+ies and a meta-analysis of observational studies 
+demonstrated that multivessel PCI is associated 
+with a lower incidence of long-term MACE. 2,3,6 
+Few RCTs have evaluated the optimal timing of 
+a multivessel PCI approach. The SMILE (Single 
+Staged Versus Multistaged PCI in Multivessel 
+NSTEMI Patients) trial enrolled 584 patients and 
+demonstrated that multivessel PCI conducted in 
+a single procedure reduces risk of MACE at 1 
+year driven by a lower risk of revascularization. 4 
+The BIOVASC trial randomized 1525 patients 
+with ACS (∼ 60% with NSTE-ACS) and showed 
+that multivessel PCI in a single procedure was 
+noninferior to staged PCI with respect to MACE 
+at 1 year and without evidence of an interaction 
+between patients with NSTE-ACS versus patients 
+with STEMI. 5,25
+ 3. In a secondary analysis including 328 patients with 
+NSTE-ACS and MVD from the FAME (Fractional 
+Flow Reserve Versus Angiography for Multivessel 
+Evaluation) trial that randomized patients to either 
+angiography-guided PCI (if diameter stenosis 
+≥50%) or FFR-guided PCI (if FFR ≤ 0.80), FFR-
+guided PCI reduced the number of stents and the 
+incidence of MACE at 2 years. 7 The FRAME-AMI 
+(Fractional Flow Reserve vs. Angiography-Guided 
+Strategy for Management of Non-Infarction 
+Related Artery Stenosis in Patients with Acute 
+Myocardial Infarction) trial enrolled 562 patients 
+with ACS and MVD (∼ 53% with NSTE-ACS) 
+and were randomized to FFR-guided PCI (if FFR 
+≤0.80) or angiography-guided PCI (diameter ste-
+nosis of >50%). FFR-guided PCI reduced the 
+number of stents and the risk of MACE at 3.5 
+years with no evidence of interaction between 
+patients with NSTE-ACS and patients with STEMI. 
+Of note, the trial was prematurely terminated due 
+to slow recruitment and enrolled <50% of the 
+planned 1292 patients.9 In the FAMOUS-NSTEMI 
+(Fractional Flow Reserve Versus Angiographically 
+Guided Management to Optimise Outcomes in 
+Unstable Coronary Syndromes) trial, which ran-
+domized 350 patients with NSTE-ACS and MVD 
+to FFR-guided PCI (if FFR ≤ 0.80) or angiogra-
+phy-guided PCI (diameter stenosis of >30%), 
+FFR-guided PCI reduced the number of revascu-
+larization procedures at 1 year.8
+ 4. In patients with NSTE-ACS complicated by car-
+diogenic shock and MVD, multivessel PCI at the 
+time of the index procedure is associated with 
+worse outcomes. 10,11 The CULPRIT-SHOCK 
+(Culprit Lesion Only PCI versus Multivessel PCI in 
+Cardiogenic Shock) trial randomized 706 patients 
+with AMI and cardiogenic shock (approximately 
+40% with NSTE-ACS) to multivessel PCI at the 
+time of the index procedure or culprit-only PCI. 
+Multivessel PCI was associated with higher rates 
+of death or need for renal replacement therapy at 
+30 days and at 1 year. 10,11 Notably, the CULPRIT 
+SHOCK trial enrolled only patients with an iden-
+tifiable culprit lesion. When there is an unstable-
+appearing nonculprit, or uncertain culprit, artery 
+lesion, the decision to proceed with multivessel 
+PCI will be based on the anatomic and clinical 
+circumstances.
+8. CARDIOGENIC SHOCK MANAGEMENT
+8.1. Revascularization in ACS With Cardiogenic 
+Shock
+Recommendations for Revascularization in ACS With Cardiogenic 
+Shock
+Referenced studies that support recommendations are summarized in 
+the Evidence Table.
+COR LOE Recommendations
+1 B-R
+ 1. In patients with ACS and cardiogenic shock or 
+hemodynamic instability, emergency  
+revascularization of the culprit vessel by PCI or 
+with CABG is indicated to improve survival,  
+irrespective of time from symptom onset.1–4
+3: Harm B-R
+ 2. In patients with ACS complicated by cardiogenic 
+shock, routine PCI of a noninfarct-related artery 
+at the time of PPCI should not be performed 
+because of the higher risk of death or renal  
+failure.*5–7
+*Modified from the “2021 ACC/AHA/SCAI Guideline for Coronary Artery  
+Revascularization.”8
+Synopsis
+In patients with STEMI and hemodynamic instability, 
+treatment delays to PPCI are associated with worse 
+survival.1 In patients with cardiogenic shock, PCI of 
+Downloaded from http://ahajournals.org by on May 30, 2026
+=== PAGE 46 ===
+CLINICAL STATEMENTS  
+AND GUIDELINES
+April 1, 2025 Circulation. 2025;151:e771–e862. DOI: 10.1161/CIR.0000000000001309e816
+Rao et al 2025 Acute Coronary Syndromes Guideline
+the culprit vessel only is recommended. 5,6 Emergency 
+CABG is recommended in those patients in whom PCI 
+is not feasible. 2,9 Immediate revascularization with PCI 
+or CABG is also recommended in high-risk patients 
+with NSTEMI who are in cardiogenic shock. 2–5 The use 
+of MCS devices in patients with cardiogenic shock is 
+covered in Section 8.2, “MCS in Patients With ACS and 
+cardiogenic shock.”
+Recommendation-Specific Supportive Text
+ 1. In the SHOCK (Should We Emergently 
+Revascularize Occluded Coronaries for 
+Cardiogenic Shock) trial, 2 reported in 1999, 
+patients with AMI and cardiogenic shock were 
+randomized to medical therapy or emergency 
+revascularization. Among the patients randomized 
+to revascularization, 64% of patients were referred 
+for PCI and 36% for CABG. The median time from 
+randomization to revascularization was 0.9 hours 
+for PCI and 2.7 hours for CABG. Despite lack of 
+a significant difference in the primary endpoint of 
+mortality at 30 days, emergency revascularization 
+with either PCI or CABG reduced the mortality 
+rate at 6 months, 2 and the mortality benefit was 
+maintained through 1 and 6 years.10,11 In an obser-
+vational analysis from the FITT-STEMI (Feedback 
+Intervention and Treatment Times in ST-Elevation 
+Myocardial Infarction) trial, for every 10-minute 
+delay in PPCI after 60 minutes from FMC, there 
+were an additional 3 to 4 deaths per 100 with a 
+>80% mortality rate beyond 6 hours of delay from 
+FMC.1 Therefore, it is recommended that PPCI 
+should be performed in patients with STEMI and 
+cardiogenic shock as soon as possible, ideally 
+within 90 minutes, to reduce the mortality rate. 1,2 
+Observational studies suggest that emergency 
+CABG remains a treatment option in patients 
+with cardiogenic shock who are not amenable 
+to primary reperfusion with PCI 3,4 or when PCI is 
+unsuccessful.4,12
+ 2. In patients with STEMI complicated by cardio-
+genic shock and MVD, a strategy of multivessel 
+PCI is associated with worse outcomes. 5–7 The 
+CULPRIT-SHOCK trial 5 randomized 706 patients 
+with AMI (approximately 60% with STEMI) and 
+cardiogenic shock to a strategy of complete 
+multivessel PCI or culprit-only PCI. At 30 days 
+and 1 year, the rates of death or need for renal 
+replacement therapy were significantly higher in 
+the group of patients randomized to multivessel 
+PCI.5,6 Importantly, the CULPRIT SHOCK trial 
+permitted enrollment only if there was an iden-
+tifiable culprit lesion. In situations where there is 
+an unstable appearing nonculprit artery lesion, 
+or in those patients with an uncertain culprit, the 
+decision to proceed with multivessel PCI may be 
+more nuanced.
+8.2. MCS in Patients With ACS and Cardiogenic 
+Shock
+Recommendations for MCS in Patients With ACS and Cardiogenic 
+Shock
+Referenced studies that support recommendations are summarized  
+in the Evidence Table.
+COR LOE Recommendations
+2a B-R
+ 1. In selected* patients with STEMI and severe or 
+refractory cardiogenic shock, insertion of a  
+microaxial intravascular flow pump is reasonable 
+to reduce death.1
+2a B-NR
+ 2. In patients with mechanical complication of ACS, 
+short-term MCS devices are reasonable for 
+hemodynamic stabilization as a bridge to  
+surgery.2–4
+3: No 
+benefit B-R
+ 3. In patients with AMI and cardiogenic shock, the 
+routine use of intra-aortic balloon pump (IABP) or 
+venoarterial extracorporeal membrane  
+oxygenation (VA-ECMO) is not recommended 
+due to a lack of survival benefit.5–9
+*See supportive text.
+Synopsis
+Cardiogenic shock is estimated to occur in approximately 
+10% of patients with STEMI and is associated with an 
+early mortality rate of 40% to 50%. 10,11 Several types of 
+devices for temporary MCS are available and have been 
+studied in patients with cardiogenic shock with variable 
+efficacy and increased risk of vascular complications. 
+IABP counterpulsation improves coronary perfusion and 
+reduces cardiac afterload. It is relatively easy to use and 
+has a smaller insertion profile, which is associated with 
+lower rates of vascular access site complications when 
+compared with other MCS devices.12,13 Percutaneous mi-
+croaxial flow pumps unload the L V by draining blood from 
+the L V and pumping it to the ascending aorta. They are 
+dependent on adequate right ventricular function to fill the 
+L V and require adequate oxygenation of blood. VA-ECMO 
+provides both blood flow and oxygenation but increases 
+afterload. Randomized trials of MCS devices remain chal-
+lenging to conduct due to relative lack of equipoise on the 
+part of treating physicians, leading to selective patient en-
+rollment and limiting the generalizability of study results. 
+Although small studies of microaxial flow pumps did not 
+demonstrate clinical benefit for patients with AMI and 
+cardiogenic shock,14–16 a randomized trial at specialized 
+centers in Europe demonstrated a mortality benefit with 
+use of the microaxial flow pump in selected patients, albeit 
+with increased risk of complications, including limb isch-
+emia and renal replacement therapy.1 Best practices for 
+insertion of all MCS devices, including the multimodality 
+use of fluoroscopy and ultrasound, should be utilized when 
+feasible for obtaining femoral access.17–19
+Downloaded from http://ahajournals.org by on May 30, 2026
+=== PAGE 47 ===
+CLINICAL STATEMENTS 
+AND GUIDELINES
+Circulation. 2025;151:e771–e862. DOI: 10.1161/CIR.0000000000001309 April 1, 2025 e817
+Rao et al 2025 Acute Coronary Syndromes Guideline
+Recommendation-Specific Supportive Text
+ 1. The DanGer-SHOCK (Danish-German Cardiogenic  
+Shock) trial enrolled patients with STEMI and 
+cardiogenic shock of <24 hours duration, defined 
+as hypotension (SBP <100 mm Hg or vasopres-
+sor support), end-organ hypoperfusion (arterial 
+lactate ≥2.5 mmol/L and/or SvO 2 <55% with 
+a normal PaO 2), and L VEF <45%. Patients who 
+were comatose (Glasgow Coma Scale score <8) 
+after out-of-hospital cardiac arrest and patients 
+with overt right ventricular failure were excluded. 1 
+The study enrolled 360 patients at 14 specialized 
+centers in Europe and randomized them to use of 
+a microaxial flow pump or standard of care. Use 
+of a microaxial flow pump significantly reduced 
+the risk of all-cause mortality at 180 days by 
+26% (HR, 0.74 [95% CI, 0.55-0.99]; P  =0.04;  
+absolute risk reduction, 12.7%; number needed 
+to treat =8) compared with standard of care. The 
+absolute risk reduction seen in this trial is similar 
+to the absolute risk reduction in 6-month mortal-
+ity observed with emergency revascularization in 
+patients with AMI and L V failure in the SHOCK 
+(Should We Emergently Revascularize Occluded 
+Coronaries for Cardiogenic Shock) trial. 1,20 
+However, given the increased risks of serious 
+complications like bleeding, limb ischemia, and 
+renal replacement therapy with the microaxial 
+flow pump seen in the DanGer Shock trial, the 
+COR is based on the balance between these 
+risks and the reduction in death. Additionally, the 
+timing of microaxial flow pump placement was 
+not dictated by the trial protocol; thus, the pre-
+ferred timing of placement is unclear. Based on 
+these results, use of a microaxial flow pump is 
+reasonable to reduce mortality in patients with 
+STEMI and cardiogenic shock who have clinical 
+features consistent with the inclusion criteria of 
+the DanGer-SHOCK trial. In particular, patients 
+with STEMI who present with SCAI shock stages 
+C, D, or E, who are noncomatose and have ade-
+quate peripheral vasculature to accommodate 
+large-bore access are reasonable candidates for 
+the microaxial flow pump.
+ 2. Although randomized trial data are lacking, MCS 
+devices can be considered as a bridge to surgery 
+for patients with mechanical complications of AMI 
+when adequate clinical stabilization is required 
+and may allow for further tissue stabilization at 
+the injured site. A systemic review of patients 
+treated with MCS as a bridge to surgical treatment 
+of ventricular septal rupture yielded 111 studies  
+(n=2440) with almost all patients receiving ini-
+tial IABP support (n=2263). 2 Of the 129 patients 
+who underwent additional MCS device placement 
+(77 .5% of whom were on VA-ECMO), the low-
+est in-hospital mortality was observed in those 
+treated with VA-ECMO (29.2%) when compared 
+with those treated with an IABP alone (52.0%). 
+However, 2 database analyses that were not 
+included in the systematic review demonstrated 
+higher in-hospital death with use of VA-ECMO 
+in patients with post-AMI mechanical complica-
+tions.3,4 Evaluation of the ECLS (Extracorporeal 
+Life Support) Organizations Registry yielded 158 
+patients with post-AMI mechanical complications 
+who underwent VA-ECMO. 3 Survival to hospital 
+discharge here was low at 37 .3%, and complica-
+tions related to VA-ECMO use occurred in 75.3% 
+of patients. Evaluation of the National Inpatient 
+Sample yielded 10 726 patients with post-
+STEMI mechanical complications, and the use 
+of VA-ECMO was associated with increased in-
+hospital mortality (OR, 2.80 [95% CI, 1.92-4.04]), 
+while the use of an IABP was not associated with 
+lower mortality. 4 Both data sources included use 
+of VA-ECMO at any time during the hospitalization 
+for post-AMI mechanical complications, including 
+use of VA-ECMO postsurgery, a cohort at highest 
+risk of in-hospital mortality.
+ 3. The IABP-SHOCK II (Intraaortic Balloon Pump 
+in Cardiogenic Shock II) trial randomized patients 
+with AMI and severe or refractory cardiogenic 
+shock in whom early revascularization was planned 
+to IABP or no IABP. 5 At 30 days and long-term 
+follow-up, no differences were observed in the pri-
+mary outcome of all-cause death or the secondary 
+biomarker or measures of disease severity end-
+points.6,7 VA-ECMO has not been shown to reduce 
+death compared with medical therapy alone in 
+patients with cardiogenic shock in the setting 
+of MI but increases major bleeding and vascular 
+complications.21 The ECMO-CS (Extracorporeal 
+Membrane Oxygenation in the Therapy of 
+Cardiogenic Shock) trial randomized patients 
+with rapidly deteriorating or severe cardiogenic 
+shock to immediate or no immediate VA-ECMO. 8 
+At 30 days, no differences were observed in the 
+primary composite endpoint of all-cause death, 
+resuscitated cardiac arrest, and implementation of 
+another MCS device with results consistent in the 
+74 patients with cardiogenic shock related to MI 
+and in the as-treated analysis. The ECLS-SHOCK 
+(Extracorporeal Life Support in Infarct-Related 
+Cardiogenic Shock) trial randomized patients with 
+AMI and severe or refractory cardiogenic shock in 
+whom early revascularization was planned to early 
+ECLS or no ECLS.9 No differences were observed 
+in the primary outcome of the 30-day mortality 
+rate or secondary outcomes. Moderate or severe 
+bleeding and peripheral vascular complications 
+Downloaded from http://ahajournals.org by on May 30, 2026
+=== PAGE 48 ===
+CLINICAL STATEMENTS  
+AND GUIDELINES
+April 1, 2025 Circulation. 2025;151:e771–e862. DOI: 10.1161/CIR.0000000000001309e818
+Rao et al 2025 Acute Coronary Syndromes Guideline
+requiring intervention were higher in the ECLS 
+versus no ECLS group. Overall, these studies do 
+not support routine use of IABP and VA-ECMO in 
+patients with AMI and cardiogenic shock.
+9. ACS COMPLICATIONS
+9.1. Mechanical Complications
+Recommendations for Mechanical Complications
+Referenced studies that support recommendations are summarized in 
+the Evidence Table.
+COR LOE Recommendations
+1 C-EO
+ 1. Patients with a mechanical complication of 
+ACS should be managed in a facility with  
+cardiac surgical expertise.
+2a B-NR
+ 2. In patients with a mechanical complication of 
+ACS, short-term MCS devices are reasonable 
+for hemodynamic stabilization as a bridge to 
+surgery.1–3
+Synopsis
+Timely reperfusion therapy has reduced the incidence 
+of mechanical complications (ventricular septal rup-
+ture, mitral valve insufficiency due to papillary muscle 
+infarction or rupture, or free wall rupture) after AMI 
+(Figure 9). 3,5 Although occasionally found incidentally, 
+mechanical complications commonly present with re-
+current or refractory chest pain or a new murmur ac-
+companied by disproportionate HF, cardiogenic shock, 
+or sudden cardiac death on clinical presentation with-
+in the first week after an AMI. Medical therapy alone 
+is associated with high risk of early death 6,7; defini-
+tive surgical correction is frequently the treatment of 
+choice.8,9 Mortality rates with surgery are highest in 
+subjects with cardiogenic shock and in those requir-
+ing early emergency/urgent intervention after AMI. 10,11 
+Observed mortality rates following delayed surgery 
+(>7 days) are lower but patient selection and survivor 
+bias contribute to this observation. 12,13 The availabil-
+ity of temporary MCS devices has led to increasing 
+trends for delayed surgery due to concerns for the ini-
+tial degree of extensive tissue destruction. 14,15 Delayed 
+surgical intervention may enable hemodynamic stabi-
+lization, lead to recovery of end-organ injury, and pro-
+mote infarct tissue healing and maturation that could 
+facilitate definitive repair. Percutaneous approaches 
+toward repair have been used in patients with prohibi-
+tive surgical risk or contraindications to surgery as a 
+primary or temporizing option in the setting of acute 
+mitral regurgitation and ventricular septal rupture and 
+remain an evolving area of investigation. 16,17 Select pa-
+tients with mechanical complications of ACS may be 
+considered for cardiac transplantation or durable left 
+ventricular assist device as a primary or bailout treat-
+ment strategy to improve survival. 18
+Recommendation-Specific Supportive Text
+ 1. No RCTs evaluate the role of transfer of patients 
+with mechanical complications after MI to dedi-
+cated centers with cardiac surgical expertise. 
+Although overall surgical mortality is approxi-
+mately 40%, it remains the treatment strategy of 
+choice. Hemodynamic deterioration is unpredict-
+able and can be precipitous in previously stable 
+subjects. Consequently, transfer to a Level 1 
+cardiac intensive care unit (CICU) 19 with access 
+to various temporary MCS devices and multidis-
+ciplinary experienced teams of surgical, inter-
+ventional, HF, and palliative care specialists is 
+recommended. Emerging data following the cre-
+ation of shock teams supports the transfer of 
+hemodynamically unstable patients from com-
+munity hospitals to centers with multidisciplinary 
+expertise.20,21 Although the exact timing remains 
+uncertain, early corrective surgery is the treat-
+ment of choice for mechanical complications of 
+MI.8,9,13 The risk of surgical correction is highest 
+when performed in the setting of cardiogenic 
+shock10,22,23 and appears lower when surgery is 
+delayed. The early hazard with surgery is attrib-
+uted to patient acuity, end-organ injury, and lack 
+of tissue integrity to promote definitive and last-
+ing repair. Selected subjects may be candidates 
+for either definitive or temporizing percutaneous 
+structural intervention as a bridge to definitive 
+surgical intervention. 16,17 ,24 Given the complexity of 
+decision making, a Heart Team approach to guide 
+feasibility, timing, and nature of corrective inter-
+vention as well as the need and selection of MCS 
+support is recommended as soon as a mechanical 
+complication is diagnosed.
+ 2. No RCTs have evaluated the role of MCS in improv-
+ing clinical outcomes in the setting of mechanical 
+complications. The choice of specific MCS should 
+be individualized and guided by patient characteris-
+tics, nature of the mechanical complication, and the 
+hemodynamic profile. In patients with ventricular 
+septal rupture, the use of an IABP has been shown 
+to reduce left-to-right shunting and improve hemo-
+dynamics in patients with and without shock. 25 
+Favorable hemodynamic effects with IABP are 
+also noted with acute ischemic mitral regurgitation. 
+Various devices have been utilized when IABP fails 
+or if hemodynamic instability remains profound. 1 
+The use of MCS devices has enhanced hemody-
+namic stabilization to allow the opportunity for con-
+sideration of delayed corrective strategy.14,15
+Downloaded from http://ahajournals.org by on May 30, 2026
+=== PAGE 49 ===
+CLINICAL STATEMENTS 
+AND GUIDELINES
+Circulation. 2025;151:e771–e862. DOI: 10.1161/CIR.0000000000001309 April 1, 2025 e819
+Rao et al 2025 Acute Coronary Syndromes Guideline
+9.2. Electrical Complications and Prevention of 
+Sudden Cardiac Death After ACS
+Recommendations for Electrical Complications and Prevention of  
+Sudden Cardiac Death After ACS
+Referenced studies that support recommendations are summarized in 
+the Evidence Table.
+COR LOE Recommendations
+Ventricular Arrhythmias
+1 A
+ 1. In patients post MI, implantable cardioverter-
+defibrillator (ICD) implantation is recommended 
+in selected patients with an L VEF ≤40% (Table 
+17) at least 40 days post MI and at least 90 days 
+postrevascularization to reduce death.*1–4
+2a C-EO
+ 2. In patients post ACS, ICD implantation is  
+reasonable in patients with clinically relevant  
+ventricular arrhythmias >48 hours and within  
+40 days post MI to improve survival.*5,6
+2b B-R
+ 3. In patients early after MI, usefulness of a  
+temporary wearable cardioverter-defibrillator 
+is uncertain in patients with an L VEF ≤35% to 
+improve survival.7
+Bradyarrhythmias
+1 B-NR
+ 4. In patients presenting with an AMI with sustained 
+evidence of second-degree Mobitz type II  
+atrioventricular block, high-grade atrioventricu-
+lar block, alternating bundle-branch block, or 
+third-degree atrioventricular block (persistent or 
+infranodal), permanent pacing is indicated.†8,9
+*Adapted from the “2017 AHA/ACC/HRS Guideline for Management of 
+Patients With Ventricular Arrhythmias and the Prevention of Sudden Cardiac 
+Death.”
+†Adapted from the “2018 ACC/AHA/HRS Guideline on the Evaluation and 
+Management of Patients With Bradycardia and Cardiac Conduction Delay.”
+Synopsis
+Electrical complications in patients with ACS may cre-
+ate challenges in clinical management due to consider-
+ation for the need of anticoagulant therapy in patients 
+who develop atrial fibrillation (AF) or flutter and possible 
+need for antiarrhythmic therapy and electrophysiologic 
+interventions. Many of these considerations have been 
+addressed in depth in separate guideline documents. 10 
+Generally, arrhythmic complications increase both mor-
+bidity and mortality rates in patients after ACS. Patients 
+who present with AMI with reduced L VEF (≤40%) have 
+increased risk of new-onset AF, bradyarrhythmias, and 
+ventricular arrhythmias. 11,12 This risk appears to be in-
+creased in those patients who are not revascularized or 
+receive fibrinolytic therapy compared with those who un-
+dergo PCI.11
+Recommendation-Specific Supportive Text
+ 1. Ventricular arrhythmias are common after ACS 
+and more common in patients with reduced L VEF. 
+MADIT II (Multicenter Automatic Defibrillator 
+Implantation Trial) demonstrated a 31% reduction 
+in all-cause mortality (HR, 0.69 [95% CI, 0.51-
+0.93]) for prophylactic implantation of a cardiac 
+defibrillator in patients with an L VEF ≤30% who 
+were at least 30 days after MI or 3 months after 
+revascularization for MI and had an anticipated life 
+expectancy longer than 1 year.2 A mortality benefit 
+Figure 9. Clinical Characteristics of Mechanical Complications of Acute Myocardial Infarction.
+Contained rupture is the preferred term for an entity sometimes referred to as pseudoaneurysm. HF indicates heart failure; LA, left atrium; L V, left 
+ventricle; and MR, mitral regurgitation. Modified with permission from Damluji et al.26 Copyright 2025 Devon Medical Art.
+Downloaded from http://ahajournals.org by on May 30, 2026
+=== PAGE 50 ===
+CLINICAL STATEMENTS  
+AND GUIDELINES
+April 1, 2025 Circulation. 2025;151:e771–e862. DOI: 10.1161/CIR.0000000000001309e820
+Rao et al 2025 Acute Coronary Syndromes Guideline
+for prophylactic ICD implantation has also been 
+shown in patients with an L VEF ≤35% and New 
+York Heart Association class II or III HF symp-
+toms,1,3 as well as in patients with inducible ven-
+tricular tachycardia or ventricular fibrillation and an 
+L VEF ≤40%1,4,13 (Table 17).
+ 2. The risk of ventricular arrythmias and sudden car-
+diac death is highest early after MI, although the 
+routine implantation of a defibrillator (for primary 
+prevention) in patients with L V dysfunction early 
+after MI or CABG has not been associated with 
+improved survival.14–16 In DINAMIT (Defibrillator in 
+Acute Myocardial Infarction Trial), ICD implanta-
+tion led to a 58% reduction in arrhythmic deaths 
+within 6 to 40 days post MI with ejection fraction 
+≤35%; however, this was offset by an increase in 
+nonarrhythmic deaths. 16 Sustained episodes of 
+ventricular tachycardia or ventricular fibrillation 
+occurring >48 hours after reperfusion are asso-
+ciated with an increased risk of death, 12,17 and 
+the risk of sudden cardiac death is highest in the 
+first month. 5 Patients with ventricular arrhythmias 
+should first be managed with beta blockers and/or 
+antiarrhythmic therapy. The benefit of ICD implan-
+tation in patients with persistent or sustained ven-
+tricular arrhythmias and who are <40 days post 
+MI remains unclear.15,16,18 A single-center observa-
+tional study enrolled patients post STEMI (median, 
+9 days) and referred those with an L VEF ≤40% for 
+electrophysiologic testing and implanted an ICD 
+only in those with inducible ventricular tachycar-
+dia. Although a randomized comparator arm was 
+unavailable, 22% of those who underwent ICD 
+implantation had ventricular tachycardia termi-
+nated by the device during the first 12 months. 6 
+The effects of ICD implantation on mortality can-
+not be definitely ascertained, and more research is 
+required. Radiofrequency catheter ablation should 
+be considered in patients with recurrent ventricu-
+lar tachycardia or ventricular fibrillation followed by 
+ICD implantation.19 Earlier ICD implantation can be 
+considered in patients who have an indication for a 
+permanent pacemaker prior to hospital discharge 
+and in whom L VEF is not expected to recover, but 
+no evidence was observed to definitively demon-
+strate the safety of this approach.10,20
+ 3. In the VEST (Vest Prevention of Early Sudden 
+Death) trial, the routine use of a temporary wear-
+able cardioverter-defibrillator did not significantly 
+reduce the primary endpoint (composite of sudden 
+death or death from ventricular tachyarrhythmias 
+at 90 days) in patients with AMI and L VEF ≤35% 
+(relative risk, 0.67 [95% CI, 0.37-1.21]). 7 ,21 The 
+secondary endpoint of death from any cause was 
+lower in the wearable vest group compared with 
+the no-device group (relative risk, 0.64 [95% CI, 
+0.43-0.98]); only 12 of 48 patients were wearing 
+the device at the time of death. 7 Greater benefit 
+was demonstrated in those who were compliant 
+with the device.21 As such, use of a wearable car-
+dioverter-defibrillator could be considered in high-
+risk patients with reduced L VEF as a bridge to 
+consideration for the need for an ICD.
+ 4. Patients with STEMI with second- or third-degree 
+atrioventricular block have higher in-hospital mor-
+tality than those without high-degree atrioven-
+tricular block.22,23 Patients who present with ACS 
+with complete heart block have a higher incidence 
+of cardiogenic shock, ventricular arrhythmia, and 
+death.24,25 In a contemporary cohort of patients 
+with AMI, the incidence of high-degree atrioven-
+tricular block has decreased from 4.2% to 2.1%; 
+however, increased morbidity and mortality remain 
+despite reperfusion therapy in those with high-
+degree atrioventricular block.26,27 A pooled analysis 
+of 30 000 patients found that high-degree atrio-
+ventricular block, asystole, and electromechani-
+cal dissociation are infrequent complications of 
+NSTEMI but are associated with increased short-
+term mortality. High-degree atrioventricular block is 
+not considered to be responsible for the increased 
+mortality but is a surrogate marker of larger infarct 
+size.28 Temporary pacemaker insertion in the set-
+ting of ACS in patients with high-degree atrio-
+ventricular block and other pacer indications has 
+been found to improve postdischarge survival. 8,9,29 
+Permanent pacemaker insertion is recommended 
+with unresolved high-degree atrioventricular block 
+that persists >72 hours.20
+9.3. Pericarditis Management After MI  
+Synopsis
+The diagnostic criteria for post-MI pericarditis are dis-
+played in Table 18. Pericarditis that occurs early after MI 
+typically arises 1 to 3 days after a transmural event and 
+is presumed to be inflammatory in nature due to adjacent 
+myocardial necrosis. These cases of early pericarditis are 
+typically transient, lasting several days, and will resolve 
+Table 17. LVEF and Patient Characteristics Defining an  
+Indication for Prophylactic ICD Implantation for Primary  
+Prevention in Ischemic Heart Disease
+LVE F
+Patient Category: All Patients Should 
+Have Expected Survival of ≥1 y
+≤30% NYHA class I, II, or III2
+31%-35% NYHA class II or III1,3
+≤40% Inducible VT1,4,13
+ICD indicates implantable cardioverter-defibrillator; L VEF, left ventricular ejection 
+fraction; NYHA, New York Heart Association; and VT, ventricular tachycardia.
+Downloaded from http://ahajournals.org by on May 30, 2026
+=== PAGE 51 ===
+CLINICAL STATEMENTS 
+AND GUIDELINES
+Circulation. 2025;151:e771–e862. DOI: 10.1161/CIR.0000000000001309 April 1, 2025 e821
+Rao et al 2025 Acute Coronary Syndromes Guideline
+with conservative therapy. Acetaminophen can be given 
+for symptomatic relief. A second form of pericarditis may 
+occur weeks after MI (Dressler’s syndrome) and is be-
+lieved to be immune-mediated as a response to pericar-
+dial irritation or damage, such as in the setting of any 
+degree of hemopericardium.1,2 These cases of late peri-
+carditis often require additional therapy (Table 19). Given 
+the rarity of post-MI pericarditis (0.1%-0.5%) in the era 
+of early coronary reperfusion therapy,3 dedicated RCTs of 
+high-dose aspirin are lacking, and data are extrapolated 
+from studies of the heterogeneous diagnosis of acute 
+pericarditis.4 Furthermore, RCTs of colchicine were per-
+formed on a background of high-dose aspirin therapy.5–7 
+If symptoms persist despite standard supportive therapy 
+in early pericarditis and in any late pericarditis, high-dose 
+aspirin may be used to reduce symptoms. 4 The use of 
+colchicine should also be considered to reduce symp-
+toms and decrease risk of recurrence8,9; suggested dos-
+ing is summarized in Table 19. The value of a loading 
+dose of colchicine in this setting is unclear. Routine use 
+of high-dose aspirin or colchicine is not indicated for the 
+management of asymptomatic pericardial effusions. 10,11 
+Glucocorticoids and nonsteroidal anti-inflammatory 
+drugs (other than aspirin) are potentially harmful due to 
+possible increase in risk of recurrent MI or impaired myo-
+cardial healing and risk of rupture.12,13
+9.4. Management of LV Thrombus After MI 
+Synopsis
+L V thrombus typically occurs in the setting of large anterior 
+STEMI and can lead to thromboembolic complications, in-
+cluding stroke and systemic embolization. In the era of PCI, 
+the incidence of L V thrombus after ACS has decreased 
+and is estimated to be <5% to 10% in the post-MI popula-
+tion.1–3 Limited RCT data are available on the contemporary 
+management of L V thrombus, and current management is 
+based mostly on retrospective and observational data and 
+expert consensus. Patients at highest risk for L V thrombus 
+include those with anterior STEMI involving the left anterior 
+descending artery, L VEF <30% (especially in the presence 
+of an L V aneurysm), and longer times to reperfusion. An 
+echocardiogram is the recommended imaging modality for 
+diagnosis, given its wide accessibility and low cost.4 Cardi-
+ac MRI is more sensitive for detection of L V thrombus and 
+may be considered when there is high clinical suspicion and 
+echocardiogram results are inconclusive. L V thrombus may 
+form later during hospitalization or after discharge; there-
+fore, repeat imaging can sometimes detect L V thrombus 
+in high-risk patients.5 Because DAPT is recommended for 
+most patients early after ACS, the addition of an anticoagu-
+lant for L V thrombus needs to be considered in the context 
+of the patient’s overall bleeding risk versus their risk of an 
+embolic event. Most patients with L V thrombus will war-
+rant anticoagulation for a period of 3 months, at which time 
+the presence of residual thrombus can be assessed by re-
+peat imaging to help determine whether a more prolonged 
+course is warranted.1 Although direct oral anticoagulants 
+(DOAC) are routinely used in clinical practice, there are lim-
+ited data comparing the efficacy of a DOAC versus vitamin 
+K antagonist in the setting of L V thrombus. Observational 
+studies and small RCTs have suggested that DOAC may 
+be noninferior to vitamin K antagonist with respect to mor-
+tality, stroke, or L V thrombus resolution, and DOACs may 
+offer an improved bleeding profile.6 The practical manage-
+ment of L V thrombi is more completely addressed in other 
+documents.1,6
+10. IN-HOSPITAL ISSUES IN THE 
+MANAGEMENT OF ACS
+10.1. Cardiac Intensive Care Unit
+Recommendation for CICU
+COR LOE Recommendation
+1 C-EO
+ 1. Patients with ACS and with ongoing angina, hemo-
+dynamic instability, uncontrolled arrhythmias, sub-
+optimal reperfusion, or cardiogenic shock should 
+be admitted to a CICU to reduce cardiovascular 
+events.
+Synopsis
+The nurse-to-patient ratio in the CICU should be suf-
+ficient to provide (1) continuous electrocardiographic 
+rhythm monitoring, (2) frequent assessment of vital signs 
+and mental status, and (3) ability to perform rapid cardio-
+version and defibrillation for arrhythmias. 1,2 Some hospi-
+tals may not have a dedicated CICU but rather care for 
+patients with MI within a general multipurpose ICU; this 
+approach requires trained providers with sufficient exper-
+tise in the care of cardiac patients.
+Table 18. Clinical Criteria for Diagnosis of Pericarditis
+Diagnosis Is Made With Presence of Pleuritic Chest Pain and ≥1 of the 
+Following Criteria:
+Friction pericardial rub on auscultation
+Electrocardiographic evidence such as classic PR-segment depression or 
+diffusive concave ST-segment elevations, or in the setting of MI, persistent 
+ST-segment elevations or dynamic T-wave changes
+New or growing pericardial effusion on echocardiography
+MI indicates myocardial infarction.
+Table 19. Additional Therapy for Persistent/Late Pericarditis 
+Symptoms
+Medical Therapy Dosing Schedule
+High-dose aspirin 500-1000 mg every 6-8 h until symptoms improve
+Colchicine 0.5-0.6 mg once* or twice daily for 3 mo
+*Daily dosing should be used in patients who weigh <70 kg and further ad-
+justed in patients with stage 4-5 kidney disease, severe hepatic impairment, or 
+with concomitant P-glycoprotein and/or moderate and severe CYP3A4 inhibitors.
+Downloaded from http://ahajournals.org by on May 30, 2026

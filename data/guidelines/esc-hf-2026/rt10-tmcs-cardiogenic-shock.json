@@ -1,0 +1,140 @@
+{
+  "schemaVersion": 1,
+  "id": "esc-hf-2026.rt10-tmcs-cardiogenic-shock",
+  "guidelineId": "esc-hf-2026",
+  "number": "Recommendation Table 10",
+  "type": "recommendations",
+  "title": {
+    "en": "Recommendations for the use of temporary mechanical circulatory support in patients with cardiogenic shock",
+    "ru": "Рекомендации по применению временной механической поддержки кровообращения у пациентов с кардиогенным шоком"
+  },
+  "tags": [
+    "tmcs",
+    "mcs",
+    "cardiogenic-shock",
+    "shock-team",
+    "microaxial-flow-pump",
+    "impella",
+    "iabp",
+    "mechanical-complications",
+    "va-ecls",
+    "ecmo",
+    "advanced-hf"
+  ],
+  "source": {
+    "expectedRows": 6
+  },
+  "i18nStatus": {
+    "ru": "reviewed"
+  },
+  "sections": [
+    {
+      "id": "sec-shock-team",
+      "title": {
+        "en": "General recommendations (see Evidence Tables 68 and 69)",
+        "ru": "Общие рекомендации (см. Доказательные таблицы 68 и 69)"
+      },
+      "rows": [
+        {
+          "id": "r01",
+          "text": {
+            "en": "A multidisciplinary Shock Team is recommended in potential candidates for temporary MCS to guide the device selection (modality and type) based on patient and HF characteristics.",
+            "ru": "Мультидисциплинарная противошоковая бригада (Shock Team) рекомендуется для потенциальных кандидатов на временную механическую поддержку кровообращения (tMCS) для выбора оптимального устройства (модальности и типа) на основе характеристик пациента и СН."
+          },
+          "class": "I",
+          "level": "C",
+          "refs": [564, 565]
+        }
+      ]
+    },
+    {
+      "id": "sec-cs-acute-mi",
+      "title": {
+        "en": "Cardiogenic shock caused by acute MI",
+        "ru": "Кардиогенный шок, вызванный острым инфарктом миокарда"
+      },
+      "rows": [
+        {
+          "id": "r02",
+          "text": {
+            "en": "Temporary MCS with a microaxial flow pump should be considered in selected patients with cardiogenic shock caused by ST-elevation MI with left ventricular systolic dysfunction and no risk of hypoxic brain injury^[c] in order to reduce the risk of death.",
+            "ru": "Временная МПК с микроаксиальным насосом должна рассматриваться у отдельных пациентов с кардиогенным шоком, вызванным инфарктом миокарда с подъемом сегмента ST, с систолической дисфункцией ЛЖ и отсутствием риска гипоксического повреждения головного мозга^[c], для снижения риска смерти."
+          },
+          "class": "IIa",
+          "level": "B1",
+          "refs": [546, 549, 550]
+        },
+        {
+          "id": "r03",
+          "text": {
+            "en": "Temporary MCS is not recommended in unselected patients with cardiogenic shock caused by acute MI, due to risk of harm.",
+            "ru": "Временная МПК не рекомендуется неселективным пациентам с кардиогенным шоком, вызванным острым ИМ, из-за риска причинения вреда."
+          },
+          "class": "III",
+          "level": "B1",
+          "refs": [546, 552, 553]
+        },
+        {
+          "id": "r04",
+          "text": {
+            "en": "IABP is not recommended in unselected patients with cardiogenic shock, due to the lack of effect.",
+            "ru": "Внутриаортальная баллонная контрпульсация (ВАБК) не рекомендуется неселективным пациентам с кардиогенным шоком ввиду отсутствия эффекта."
+          },
+          "class": "III",
+          "level": "B1",
+          "refs": [557, 560]
+        }
+      ]
+    },
+    {
+      "id": "sec-mi-mechanical-complications",
+      "title": {
+        "en": "MI-related mechanical complications",
+        "ru": "Механические осложнения инфаркта миокарда"
+      },
+      "rows": [
+        {
+          "id": "r05",
+          "text": {
+            "en": "Temporary MCS^[d] should be considered in patients with mechanical complications related to MI^[e] as a bridge to definitive treatment.",
+            "ru": "Временная МПК^[d] должна рассматриваться у пациентов с механическими осложнениями инфаркта миокарда^[e] в качестве моста к радикальному лечению."
+          },
+          "class": "IIa",
+          "level": "C"
+        }
+      ]
+    },
+    {
+      "id": "sec-advanced-hf-cs",
+      "title": {
+        "en": "Advanced HF cardiogenic shock",
+        "ru": "Кардиогенный шок при терминальной (тяжелой) сердечной недостаточности"
+      },
+      "rows": [
+        {
+          "id": "r06",
+          "text": {
+            "en": "Temporary MCS should be considered in selected patients with HF-related haemodynamic instability as a BTR, BTD, BTB, BTC, or BTT.",
+            "ru": "Временная МПК должна рассматриваться у отдельных пациентов с гемодинамической нестабильностью, связанной с СН, в качестве BTR, BTD, BTB, BTC или BTT."
+          },
+          "class": "IIa",
+          "level": "C"
+        }
+      ]
+    }
+  ],
+  "footnotes": {
+    "c": {
+      "en": "No risk of hypoxic brain injury was defined as: (i) no out-of-hospital cardiac arrest with persistent Glasgow coma scale <8 after return of spontaneous circulation (ref. 549); and (ii) no resuscitation or resuscitation lasting <10 min (ref. 546).",
+      "ru": "Отсутствие риска гипоксического повреждения головного мозга определялось как: (i) отсутствие внебольничной остановки кровообращения со стойкой оценкой по шкале комы Глазго <8 баллов после восстановления спонтанного кровообращения (ссылка 549); и (ii) отсутствие реанимации или длительность реанимационных мероприятий <10 минут (ссылка 546)."
+    },
+    "d": {
+      "en": "The choice of passive IABP or active percutaneous MCS should be based on the severity of cardiogenic shock as assessed by the Shock Team.",
+      "ru": "Выбор пассивной ВАБК или активной чрескожной МПК должен основываться на тяжести кардиогенного шока по оценке команды Shock Team."
+    },
+    "e": {
+      "en": "In case of large ventricular septal defect, temporary MCS should be used with caution due to the potential increase of left-to-right interventricular shunt (VA-ECLS) or shunt inversion (microaxial flow pump). In case of ventricular free-wall rupture, temporary MCS should be avoided; however, VA-ECLS can be considered to allow emergent cardiac surgery in patients presenting with profound cardiogenic shock and/or cardiac arrest if no sign of irreversible brain injury is present.",
+      "ru": "При обширном дефекте межжелудочковой перегородки временная МПК должна применяться с осторожностью из-за потенциального увеличения сброса слева направо (VA-ECLS) или инверсии сброса (микроаксиальный насос). При разрыве свободной стенки желудочка временной МПК следует избегать; тем не менее, VA-ECLS может быть рассмотрена для выполнения экстренной кардиохирургической операции у пациентов с глубоким кардиогенным шоком и/или остановкой сердца при отсутствии признаков необратимого повреждения мозга."
+    }
+  }
+}

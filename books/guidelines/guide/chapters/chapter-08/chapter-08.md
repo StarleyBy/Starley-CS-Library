@@ -1,4 +1,4 @@
-# 2021 The American Association for Thoracic Surgery Expert Consensus Document: Surgical Treatment of Acute Type A Aortic Dissection
+# 🩸 Surgical Treatment of <span class="luminous-red">Acute Type A Aortic Dissection</span> (<span class="luminous-blue">AATS</span> <span class="luminous-amber">2021</span>)
 
 ##### S. Christopher Malaisrie, MD, Wilson Y. Szeto, MD, Monika Halas, MD, Leonard N. Girardi, MD, Joseph S. Coselli, MD, Thoralf M. Sundt III, MD, Edward P. Chen, MD, Michael P. Fischbein, MD, PhD, Thomas G. Gleason, MD, Yutaka Okita, MD, Maral Ouzounian, MD, PhD, Himanshu J. Patel, MD, Eric E. Roselli, MD, Malakh L. Shrestha, MD, PhD, Lars G. Svensson, MD, PhD, and Marc R. Moon, MD; for the AATS Clinical Practice Standards Committee: Adult Cardiac Surgery.
 

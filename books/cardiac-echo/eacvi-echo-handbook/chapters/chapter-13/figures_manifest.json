@@ -1,0 +1,442 @@
+[
+  {
+    "idx": 1,
+    "fig_id": "fig-13-01",
+    "fnum": "13.1.1",
+    "caption": "Schematic representation of the four ASD subtypes",
+    "page": 463,
+    "size": "836x822"
+  },
+  {
+    "idx": 2,
+    "fig_id": "fig-13-02",
+    "fnum": "13.1.2",
+    "caption": "TTE subcostal long-axis 4CV showing flow across the atrial septum",
+    "page": 464,
+    "size": "594x1020"
+  },
+  {
+    "idx": 3,
+    "fig_id": "fig-13-03",
+    "fnum": "13.1.3",
+    "caption": "TTE modified-apical 4CV showing a secundum ASD",
+    "page": 464,
+    "size": "594x1020"
+  },
+  {
+    "idx": 4,
+    "fig_id": "fig-13-04",
+    "fnum": "13.1.4",
+    "caption": "TOE with sizing on 2D and colour Doppler of a secundum ASD at 0° of rotation (Box 13.1.3)",
+    "page": 465,
+    "size": "1112x991"
+  },
+  {
+    "idx": 5,
+    "fig_id": "fig-13-05",
+    "fnum": "13.1.5",
+    "caption": "TOE with sizing on 2D and colour Doppler of a secundum ASD at ~45°",
+    "page": 465,
+    "size": "1112x991"
+  },
+  {
+    "idx": 6,
+    "fig_id": "fig-13-06",
+    "fnum": "13.1.6",
+    "caption": "TOE showing the full atrial septal measurement at 0°",
+    "page": 465,
+    "size": "1112x991"
+  },
+  {
+    "idx": 7,
+    "fig_id": "fig-13-07",
+    "fnum": "13.1.7",
+    "caption": "TOE with sizing on 2D and colour Doppler of a secundum ASD in the bicaval view (90°)",
+    "page": 465,
+    "size": "1112x991"
+  },
+  {
+    "idx": 8,
+    "fig_id": "fig-13-08",
+    "fnum": "13.1.8",
+    "caption": "TOE ASD rim measurement to the right upper pulmonary vein at 0° rotation",
+    "page": 466,
+    "size": "1109x1029"
+  },
+  {
+    "idx": 9,
+    "fig_id": "fig-13-09",
+    "fnum": "13.1.9",
+    "caption": "TOE ASD rim measurement to the aorta at ~45° rotation",
+    "page": 466,
+    "size": "1109x1029"
+  },
+  {
+    "idx": 10,
+    "fig_id": "fig-13-10",
+    "fnum": "13.1.10",
+    "caption": "TOE ASD rim measurement to the mitral valve at 0° rotation",
+    "page": 466,
+    "size": "1109x1029"
+  },
+  {
+    "idx": 11,
+    "fig_id": "fig-13-11",
+    "fnum": "13.1.11",
+    "caption": "TOE ASD rim measurement to the IVC at 90°",
+    "page": 466,
+    "size": "1109x1029"
+  },
+  {
+    "idx": 12,
+    "fig_id": "fig-13-12",
+    "fnum": "13.1.12",
+    "caption": "TOE ASD rim measurement to the SVC at 90° (Box 13.1.4)",
+    "page": 467,
+    "size": "765x1287"
+  },
+  {
+    "idx": 13,
+    "fig_id": "fig-13-13",
+    "fnum": "13.1.13",
+    "caption": "TOE showing ASD occluder device in position",
+    "page": 467,
+    "size": "765x1287"
+  },
+  {
+    "idx": 14,
+    "fig_id": "fig-13-14",
+    "fnum": "13.1.14",
+    "caption": "TOE view of a sinus venosus ASD with anomalous right upper pulmonary veins entering the RA at 0° rotation",
+    "page": 469,
+    "size": "830x1263"
+  },
+  {
+    "idx": 15,
+    "fig_id": "fig-13-15",
+    "fnum": "13.1.15",
+    "caption": "TOE view of sinus venosus ASD",
+    "page": 469,
+    "size": "830x1263"
+  },
+  {
+    "idx": 16,
+    "fig_id": "fig-13-16",
+    "fnum": "13.1.16A",
+    "caption": "Subcostal 4CV of anomalous right pulmonary veins",
+    "page": 471,
+    "size": "1459x1137"
+  },
+  {
+    "idx": 17,
+    "fig_id": "fig-13-17",
+    "fnum": "13.1.16B",
+    "caption": "TOE view of normal right pulmonary venous drainage to LA",
+    "page": 471,
+    "size": "1459x1137"
+  },
+  {
+    "idx": 18,
+    "fig_id": "fig-13-18",
+    "fnum": "13.1.16C",
+    "caption": "TOE view of normal left pulmonary venous drainage to LA",
+    "page": 471,
+    "size": "679x518"
+  },
+  {
+    "idx": 19,
+    "fig_id": "fig-13-19",
+    "fnum": "13.1.17",
+    "caption": "Schematic representation of the VSD subtypes",
+    "page": 473,
+    "size": "836x697"
+  },
+  {
+    "idx": 20,
+    "fig_id": "fig-13-20",
+    "fnum": "13.1.19",
+    "caption": "Parasternal short-axis view showing a classical perimembranous VSD",
+    "page": 475,
+    "size": "679x518"
+  },
+  {
+    "idx": 21,
+    "fig_id": "fig-13-21",
+    "fnum": "13.1.20",
+    "caption": "Parasternal long- axis view showing a muscular inlet VSD",
+    "page": 476,
+    "size": "432x1308"
+  },
+  {
+    "idx": 22,
+    "fig_id": "fig-13-22",
+    "fnum": "13.1.22",
+    "caption": "Apical muscular VSD",
+    "page": 476,
+    "size": "432x1308"
+  },
+  {
+    "idx": 23,
+    "fig_id": "fig-13-23",
+    "fnum": "13.1.21",
+    "caption": "Parasternal short- axis view of muscular inlet VSD",
+    "page": 476,
+    "size": "432x1308"
+  },
+  {
+    "idx": 24,
+    "fig_id": "fig-13-24",
+    "fnum": "13.1.23",
+    "caption": "Inlet muscular VSD",
+    "page": 476,
+    "size": "432x1308"
+  },
+  {
+    "idx": 25,
+    "fig_id": "fig-13-25",
+    "fnum": "13.1.24",
+    "caption": "Doubly-committed VSD with AV right coronary cusp prolapse",
+    "page": 477,
+    "size": "486x973"
+  },
+  {
+    "idx": 26,
+    "fig_id": "fig-13-26",
+    "fnum": "13.1.25",
+    "caption": "Doubly-committed VSD with AV right coronary cusp prolapse with AR",
+    "page": 477,
+    "size": "486x973"
+  },
+  {
+    "idx": 27,
+    "fig_id": "fig-13-27",
+    "fnum": "13.1.26",
+    "caption": "TTE apical 4CV partial AVSD (Box 13.1.12)",
+    "page": 481,
+    "size": "830x1248"
+  },
+  {
+    "idx": 28,
+    "fig_id": "fig-13-28",
+    "fnum": "13.1.27",
+    "caption": "TOE 4CV of partial AVSD",
+    "page": 481,
+    "size": "830x1248"
+  },
+  {
+    "idx": 29,
+    "fig_id": "fig-13-29",
+    "fnum": "13.1.28",
+    "caption": "TTE apical 4CV of previously repaired AVSD with LAV valve regurgitation",
+    "page": 483,
+    "size": "1731x948"
+  },
+  {
+    "idx": 30,
+    "fig_id": "fig-13-30",
+    "fnum": "13.1.29",
+    "caption": "TTE PTLAX view of previously repaired AVSD",
+    "page": 483,
+    "size": "841x1223"
+  },
+  {
+    "idx": 31,
+    "fig_id": "fig-13-31",
+    "fnum": "13.1.30",
+    "caption": "TTE PTLAX view of previously repaired AVSD with LAV valve stenosis",
+    "page": 483,
+    "size": "1731x1223"
+  },
+  {
+    "idx": 32,
+    "fig_id": "fig-13-32",
+    "fnum": "13.1.31",
+    "caption": "Left heart dilatation due to PDA",
+    "page": 485,
+    "size": "787x1227"
+  },
+  {
+    "idx": 33,
+    "fig_id": "fig-13-33",
+    "fnum": "13.1.32",
+    "caption": "Parasternal SAX showing PDA flow into the main pulmonary artery",
+    "page": 485,
+    "size": "787x1227"
+  },
+  {
+    "idx": 34,
+    "fig_id": "fig-13-34",
+    "fnum": "13.1.33",
+    "caption": "CW Doppler through a small PDA",
+    "page": 486,
+    "size": "830x631"
+  },
+  {
+    "idx": 35,
+    "fig_id": "fig-13-35",
+    "fnum": "13.1.34",
+    "caption": "PTLAX view showing a dilated coronary sinus. High parasternal sagittal view showing left SVC to coronary sinus",
+    "page": 487,
+    "size": "830x734"
+  },
+  {
+    "idx": 36,
+    "fig_id": "fig-13-36",
+    "fnum": "13.2.1",
+    "caption": "TTE PTLAX view of subvalvular aortic stenosis (arrow). LA = left atrium; LV = Left ventricle; Ao = aorta",
+    "page": 488,
+    "size": "834x738"
+  },
+  {
+    "idx": 37,
+    "fig_id": "fig-13-37",
+    "fnum": "13.2.2",
+    "caption": "TTE parasternal LAX view of supravalvular hourglass type aortic stenosis (arrow). LA = left atrium; AV = aortic valve; ASC Ao = ascending aorta, RPA = right pulmonary artery",
+    "page": 489,
+    "size": "834x602"
+  },
+  {
+    "idx": 38,
+    "fig_id": "fig-13-38",
+    "fnum": "13.2.3",
+    "caption": "Subtypes of BAV following Sievers classification; (A) Type 0; (B) Type I (arrow = raphe); (C) Type 2",
+    "page": 490,
+    "size": "823x332"
+  },
+  {
+    "idx": 39,
+    "fig_id": "fig-13-39",
+    "fnum": "13.2.4",
+    "caption": "TTE suprasternal aortic arch view showing turbulent colour flow",
+    "page": 493,
+    "size": "1100x1309"
+  },
+  {
+    "idx": 40,
+    "fig_id": "fig-13-40",
+    "fnum": "13.2.5",
+    "caption": "Descending thoracic aortic Doppler of a significant aortic coarctation",
+    "page": 493,
+    "size": "1959x599"
+  },
+  {
+    "idx": 41,
+    "fig_id": "fig-13-41",
+    "fnum": "13.2.6",
+    "caption": "Abdominal aortic Doppler from a sagittal subcostal view showing loss of pulsatility in severe coarctation",
+    "page": 493,
+    "size": "1959x599"
+  },
+  {
+    "idx": 42,
+    "fig_id": "fig-13-42",
+    "fnum": "13.3.1",
+    "caption": "Schematic representation of orientation of atria",
+    "page": 494,
+    "size": "565x422"
+  },
+  {
+    "idx": 43,
+    "fig_id": "fig-13-43",
+    "fnum": "13.3.2",
+    "caption": "Schematic representation to facilitate situs identification",
+    "page": 494,
+    "size": "565x422"
+  },
+  {
+    "idx": 44,
+    "fig_id": "fig-13-44",
+    "fnum": "13.3.4",
+    "caption": "Schematic representation of ventriculo- arterial connection",
+    "page": 495,
+    "size": "383x1229"
+  },
+  {
+    "idx": 45,
+    "fig_id": "fig-13-45",
+    "fnum": "13.3.5",
+    "caption": "Schematic representation of transposition",
+    "page": 495,
+    "size": "383x1229"
+  },
+  {
+    "idx": 46,
+    "fig_id": "fig-13-46",
+    "fnum": "13.3.3",
+    "caption": "Schematic representation of atrio- ventricular connection",
+    "page": 495,
+    "size": "383x1229"
+  },
+  {
+    "idx": 47,
+    "fig_id": "fig-13-47",
+    "fnum": "13.3.6",
+    "caption": "Schematic representation of TOF",
+    "page": 496,
+    "size": "490x691"
+  },
+  {
+    "idx": 48,
+    "fig_id": "fig-13-48",
+    "fnum": "13.3.7",
+    "caption": "Estimation of RV end-systolic pressure from the TR jet – use the most aligned Doppler",
+    "page": 498,
+    "size": "733x1219"
+  },
+  {
+    "idx": 49,
+    "fig_id": "fig-13-49",
+    "fnum": "13.3.8",
+    "caption": "Parasternal short-axis showing reversal of flow extending from branch pulmonary arteries in diastole via the pulmonary valve",
+    "page": 498,
+    "size": "1759x1219"
+  },
+  {
+    "idx": 50,
+    "fig_id": "fig-13-50",
+    "fnum": "13.3.9",
+    "caption": "Assessment of PR severity from pressure half time",
+    "page": 498,
+    "size": "733x1219"
+  },
+  {
+    "idx": 51,
+    "fig_id": "fig-13-51",
+    "fnum": "13.3.10",
+    "caption": "Parasternal SAX view of ventricles in patient with RV dilatation",
+    "page": 498,
+    "size": "1759x1219"
+  },
+  {
+    "idx": 52,
+    "fig_id": "fig-13-52",
+    "fnum": "13.3.11",
+    "caption": "Schematic representation of Ebstein's anomaly",
+    "page": 500,
+    "size": "369x370"
+  },
+  {
+    "idx": 53,
+    "fig_id": "fig-13-53",
+    "fnum": "13.3.12",
+    "caption": "Apical 4CV of the AV valves showing displacement of TV septal leaflet attachment",
+    "page": 501,
+    "size": "787x1219"
+  },
+  {
+    "idx": 54,
+    "fig_id": "fig-13-54",
+    "fnum": "13.3.13",
+    "caption": "TTE parasternal SAX of the AV valves showing Ebstein's valve and right heart dilatation",
+    "page": 501,
+    "size": "787x1219"
+  },
+  {
+    "idx": 55,
+    "fig_id": "fig-13-55",
+    "fnum": "13.3.14",
+    "caption": "TOE view 60° of an Ebstein's TV",
+    "page": 502,
+    "size": "1109x840"
+  }
+]

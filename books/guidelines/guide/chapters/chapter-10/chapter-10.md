@@ -1,4 +1,4 @@
-# 2022 ESC Guidelines on cardio-oncology
+# 🎗️ <span class="luminous-purple">Cardio-Oncology</span> <span class="luminous-amber">2022</span> (<span class="luminous-blue">ESC</span>/<span class="luminous-blue">EHA</span>/<span class="luminous-blue">ESTRO</span>/<span class="luminous-blue">IC-OS</span>)
 
 ##### Developed in collaboration with the European Hematology Association (EHA), the European Society for Therapeutic Radiology and Oncology (ESTRO) and the International Cardio-Oncology Society (IC-OS).
 

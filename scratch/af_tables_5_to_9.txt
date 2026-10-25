@@ -1,0 +1,1687 @@
+Table 5 Definitions and classifications for the temporal 
+pattern of AF
+Temporal 
+classification
+Definition
+First-diagnosed AF
+AF that has not been diagnosed before, 
+regardless of symptom status, temporal pattern, 
+or duration.
+Paroxysmal AF
+AF which terminates spontaneously within 7 
+days or with the assistance of an intervention. 
+Evidence suggests that most self-terminating 
+paroxysms last <48 h.2
+Persistent AF
+AF episodes which are not self-terminating. 
+Many intervention trials have used 7 days as a 
+cut-off for defining persistent AF.3,4
+Long-standing persistent AF is arbitrarily defined 
+as continuous AF of at least 12 months’ duration 
+but where rhythm control is still a treatment 
+option in selected patients, distinguishing it from 
+permanent AF.
+Permanent AF
+AF for which no further attempts at restoration 
+of sinus rhythm are planned, after a shared 
+decision between the patient and physician.
+© ESC 2024
+AF, atrial fibrillation.
+AF burden
+The overall time spent in AF during a 
+clearly specified and reported period of 
+monitoring, expressed as a percentage of 
+time.
+Recent-onset AF
+There is accumulating data on the value 
+of the term recent-onset AF in 
+decision-making for acute 
+pharmacological or electrical 
+cardioversion of AF. The cut-off time 
+interval to define this entity has not yet 
+been established.8–10
+Trigger-induced AF
+New AF episode in close proximity to a 
+precipitating and potentially reversible 
+factor.11–14
+Early AF
+The time since diagnosis that qualifies for 
+early AF is dissociated from any 
+underlying atrial cardiomyopathy and is 
+not well defined, broadly ranging from 3 
+to 24 months.15–17 The definition of early 
+AF also does not necessarily determine 
+early timing of intervention.
+Self-terminating AF
+Paroxysmal AF which terminates 
+spontaneously.2 This definition may be of 
+value for decisions on acute rhythm 
+control taken jointly by the patient and 
+healthcare provider.
+Non-self-terminating AF
+Atrial fibrillation which does not 
+terminate spontaneously and, if needed, 
+termination can be achieved only with an 
+intervention.
+Atrial cardiomyopathy
+A combination of structural, electrical, or 
+functional changes in the atria that leads 
+to clinical impact (e.g. progression/ 
+recurrence of AF, limited effectiveness of 
+AF therapy, and/or development of heart 
+failure).18,19 Atrial cardiomyopathy 
+includes inflammatory and 
+prothrombotic remodelling of the atria, 
+neurohormonal activation (thereby 
+affecting the ventricles), and fibrosis of 
+myocardial tissue.20
+© ESC 2024
+AF, atrial fibrillation; b.p.m., beats per minute; ECG, electrocardiogram. 
+aAtrial high-rate episodes are defined as episodes generally lasting more than 5 min with an 
+atrial lead rate ≥170 b.p.m.,7,21–24 detected by implanted cardiac devices that allow for 
+automated continuous monitoring and storage of atrial rhythm. Atrial high-rate episodes 
+need to be visually inspected because some may be electrical artefacts or false positives.
+ESC Guidelines                                                                                                                                                                                          3327
+Downloaded from https://academic.oup.com/eurheartj/article/45/36/3314/7738779 by guest on 31 March 2026
+
+
+=== PAGE 15 ===
+
+not provide an ECG (see Section 10). To guard against inappropriate 
+diagnosis of AF, this task force continues to recommend that ECG 
+documentation is required to initiate risk stratification and AF manage­
+ment. In current practice, ECG confirmation can include multiple op­
+tions: not only where AF persists across a standard 12-lead ECG, but 
+also single- and multiple-lead devices that provide an ECG (see 
+Supplementary data online, Additional Evidence Table S1). This does 
+not include non-ECG wearables and other devices that typically use 
+photoplethysmography. Note that many pivotal AF trials required 
+two or more ECGs documenting AF, or an established AF diagnosis be­
+fore randomization.25–29 The time period of AF required for diagnosis 
+on monitoring devices is not clear cut. A standard 12-lead ECG mea­
+sures 10 s, while 30 s or more on single-lead or multiple-lead ECG de­
+vices has generally been the consensus opinion, albeit with limited 
+evidence.
+3.3. Symptoms attributable to AF
+Symptoms related to episodes of AF are variable and broad, and not 
+just typical palpitations (Figure 1). Asymptomatic episodes of AF can 
+occur,30 although 90% of patients with AF describe symptoms with 
+variable severity.31 Even in symptomatic patients, some episodes of 
+AF may remain asymptomatic.32,33 The presence or absence of symp­
+toms is not related to incident stroke, systemic embolism, or mortal­
+ity.34 However, symptoms do impact on patient quality of life.35,36
+Cardiac-specific AF symptoms such as palpitations are less common 
+than non-specific symptoms such as fatigue, but they significantly 
+impair quality of life.36,37 Although women are often underrepresented 
+in clinical trials of AF,38–40 the available literature suggests that 
+women with AF appear to be more symptomatic and have poorer 
+quality of life.41,42 Patients with AF report a higher burden of anxiety 
+and severity of depression (odds ratio [OR], 1.08; 95% confidence 
+interval [CI], 1.02–1.15; P = .009) as compared with the general 
+population,43,44 with higher prevalence of these symptoms in women 
+with AF.45
+Assessment of AF-related symptoms should be recorded initially, 
+after a change in treatment, or before and after intervention. The 
+modified European Heart Rhythm Association score (mEHRA) 
+symptom classification (Table 7) is similar to the New York 
+Heart Association (NYHA) functional class for heart failure. It cor­
+relates with quality of life scores in clinical trials, is associated with 
+clinical progress and events, and may be a valuable starting point 
+in routine practice to assess the burden and impact of symptoms to­
+gether with the patient.46–48 Note that symptoms may also relate to 
+associated comorbidities and not just the AF component. The 
+patient-related effects of symptoms from AF over time can alterna­
+tively be evaluated using patient-reported outcome measures (see 
+Section 8.4).
+3.4. Diagnostic evaluation of new AF
+All patients with AF should be offered a comprehensive diagnostic as­
+sessment and review of medical history to identify risk factors and/or 
+comorbidities needing active treatment. Table 8 displays the essential 
+diagnostic work-up for a patient with AF.
+A 12-lead ECG is warranted in all AF patients to confirm rhythm, de­
+termine ventricular rate, and look for signs of structural heart disease, 
+conduction defects, or ischaemia.56 Blood tests should be carried out 
+(kidney function, serum electrolytes, liver function, full blood count, glu­
+cose/glycated haemoglobin [HbA1c], and thyroid tests) to detect any 
+concomitant conditions that may exacerbate AF or increase the risk 
+of bleeding and/or thromboembolism.57,58
+Other investigations will depend on individualized assessment and 
+the planned treatment strategy.59–65 A transthoracic echocardiogram 
+(TTE) should be carried out in the initial work-up, where this will guide 
+management decisions, or in patients where there is a change in cardio­
+vascular signs or symptoms. The task force recognizes that accessibility 
+to TTE might be limited or delayed in the primary care setting, but this 
+should not delay initiation of oral anticoagulation (OAC) or other com­
+ponents of AF-CARE where indicated.66 Further details on TTE and re­
+assessment (e.g. if elevated heart rate limits diagnostic imaging, or 
+where there is a change in clinical status) are presented in Section 8.3. 
+Additional imaging using different modalities may be required to assist 
+with comorbidity and AF-related management (see Supplementary 
+data online, Figure S1).
+Recommendation Table 1 — Recommendations for the 
+diagnosis of AF (see also Evidence Table 1)
+Recommendations
+Classa
+Levelb
+Confirmation by an electrocardiogram (12-lead, 
+multiple, or single leads) is recommended to establish 
+the diagnosis of clinical AF and commence risk 
+stratification and treatment.25–29
+I
+A
+© ESC 2024
+AF, atrial fibrillation. 
+aClass of recommendation. 
+bLevel of evidence.
+Recommendation Table 2 — Recommendations for 
+symptom evaluation in patients with AF (see also 
+Evidence Table 2)
+Recommendations
+Classa
+Levelb
+Evaluating the impact of AF-related symptoms is 
+recommended before and after major changes in 
+treatment to inform shared decision-making and 
+guide treatment choices.17,36,46–55
+I
+B
+© ESC 2024
+AF, atrial fibrillation. 
+aClass of recommendation. 
+bLevel of evidence.
+Recommendation Table 3 — Recommendations for 
+diagnostic evaluation in patients with new AF (see also 
+Evidence Table 3)
+Recommendations
+Classa
+Levelb
+A transthoracic echocardiogram is recommended in 
+patients with an AF diagnosis where this will guide 
+treatment decisions.59,65,67
+I
+C
+© ESC 2024
+AF, atrial fibrillation. 
+aClass of recommendation. 
+bLevel of evidence.
+3328                                                                                                                                                                                         
+ESC Guidelines
+Downloaded from https://academic.oup.com/eurheartj/article/45/36/3314/7738779 by guest on 31 March 2026
+
+
+=== PAGE 16 ===
+
+3.5. Adverse events associated with AF
+Atrial fibrillation is associated with a range of serious adverse events 
+(Figure 1) (see Supplementary data online, Additional Evidence 
+Table S2). Patients with AF also have high rates of hospitalization 
+and complications from coexisting medical conditions. The most com­
+mon non-fatal outcome in those with AF is heart failure, occurring in 
+around half of patients over time. Patients with AF have a four- to five- 
+fold increase in the relative risk (RR) of heart failure compared with 
+those without AF, as demonstrated in two meta-analyses (RR, 4.62; 
+95% CI, 3.13–6.83 and RR, 4.99; 95% CI, 3.0–8.22).68,69 The next 
+most common adverse impacts from AF are ischaemic stroke (RR, 
+2.3; 95% CI, 1.84–2.94), ischaemic heart disease (RR, 1.61; 95% CI, 
+1.38–1.87), and other thromboembolic events.69–71 The latter typic­
+ally include arterial thromboembolic events (preferred to the term 
+systemic), although venous thromboembolism is also associated 
+Patient symptoms
+Adverse outcomes
+Healthcare and society
+A
+t
+r
+i
+a
+l
+ 
+fi
+b
+r
+il
+l
+a
+t
+i
+o
+n
+I
+m
+p
+a
+c
+t
+ 
+a
+n
+d
+ 
+o
+u
+t
+c
+o
+m
+e
+s
+Palpitations
+Shortness of breath
+Fatigue
+Chest pain
+Dizziness
+Poor exercise capacity
+Fainting (syncope)
+Anxiety
+Depressed mood
+Disordered sleep
+Recurrent
+hospitalization
+Heart failure
+Ischaemic stroke
+Thromboembolism
+Cognitive decline and
+vascular dementia
+Depression
+Impaired quality of life
+Death
+Increasing prevalence
+High economic cost
+Impact on individuals,
+families and communities
+Doubling of AF
+2010 
+  2060
+Lifetime risk
+1 in 5   1 in 3
+1–2% of healthcare
+expenditure
+Figure 1 Impacts and outcomes associated with clinical AF. AF, atrial fibrillation.
+Table 7 The modified European Heart Rhythm 
+Association (mEHRA) symptom classification
+Score
+Symptoms
+Description
+1
+None
+AF does not cause any symptoms
+2a
+Mild
+Normal daily activity not affected by symptoms 
+related to AF
+2b
+Moderate
+Normal daily activity not affected by symptoms 
+related to AF, but patient troubled by 
+symptoms
+3
+Severe
+Normal daily activity affected by symptoms 
+related to AF
+4
+Disabling
+Normal daily activity discontinued
+© ESC 2024
+AF, atrial fibrillation.
+ESC Guidelines                                                                                                                                                                                          3329
+Downloaded from https://academic.oup.com/eurheartj/article/45/36/3314/7738779 by guest on 31 March 2026
+
+
+=== PAGE 17 ===
+
+with AF.72,73 Patients with AF also have an increased risk of cognitive 
+impairment (adjusted hazard ratio [HR], 1.39; 95% CI, 1.25–1.53)74
+and dementia (OR, 1.6; 95% CI, 1.3–2.0).75–77 It should be noted 
+that most of the observational studies on adverse events have a mix 
+of patients taking and not taking OAC. When carefully controlling 
+for the confounding effects of stroke, comorbidities, and OAC, AF ex­
+posure was still significantly associated with vascular dementia (HR, 
+1.68; 95% CI, 1.33–2.12; P < .001), but not Alzheimer’s disease (HR, 
+0.85; 95% CI, 0.70–1.03; P = .09).78
+Hospital admission rates due to AF vary widely depending on the 
+population studied, and may be skewed by selection bias. In a Dutch 
+RCT including first-diagnosed AF patients (mean age 64 years), car­
+diovascular hospitalization rates were 7.0% to 9.4% per year.79 An 
+Australian study identified 473 501 hospitalizations for AF during 
+15 years of follow-up (300 million person-years), with a relative in­
+crease in AF hospitalizations of 203% over the study period, in con­
+trast to an increase for all hospitalizations of 71%. The age-specific 
+incidence of hospital admission increased particularly in the older 
+age groups.80
+Atrial fibrillation is also associated with increased mortality. In 
+2017, AF contributed to over 250 000 deaths globally, with an 
+age-standardized mortality rate of 4.0 per 100 000 people (95% un­
+certainty interval 3.9–4.2).81 The most frequent cause of death in pa­
+tients with AF is heart failure related,70 with complex relationships to 
+cardiovascular and non-cardiovascular disease.82 There is up to a 
+two-fold increased risk of all-cause mortality (RR, 1.95; 95% CI, 
+1.50–2.54),68 and cardiovascular mortality (RR, 2.03; 95% CI, 1.79– 
+2.30)69 in AF compared with sinus rhythm. Even in the absence of 
+major thromboembolic risk factors, the incidence of death is 15.5 
+per 1000 person-years in those with AF exposure, compared 
+with 9.4 per 1000 person-years without (adjusted HR, 1.44; 95% CI, 
+1.38–1.50; P < .001).78 Patients with OAC-related bleeding have 
+higher mortality, including both minor and major bleeding (as 
+defined by the International Society on Thrombosis and 
+Haemostasis scale).83 Despite OAC, patients with AF remain at high 
+residual risk of death, highlighting the importance of attention to con­
+comitant disease.84
+3.6. Atrial flutter
+Atrial flutter (AFL) is the among the most common atrial tachyarrhyth­
+mias, with an overall incidence rate of 88 per 100 000 person-years, ris­
+ing to 317 per 100 000 person-years in people over 50 years of age.85
+Risk factors for AFL and AF are similar, and more than half of all patients 
+with AFL will develop AF.85 Observational studies suggest that 
+thromboembolic risk is elevated in AFL.86 In direct comparison of 
+AFL with AF, some studies suggest a similar risk of stroke and others 
+a lower risk in AFL,87–90 possibly due to different comorbidity burdens 
+and the impact of confounders such as AFL/AF ablation and anticoagu­
+lation (more frequently stopped in AFL).91
+4. Patient pathways and 
+management of AF
+4.1. Patient-centred, multidisciplinary AF 
+management
+4.1.1. The patient at the heart of care
+A patient-centred and integrated approach to AF management means 
+working with a model of care that respects the patient’s experience, 
+values, needs, and preferences for planning, co-ordination, and delivery 
+of care. A central component of this model is the therapeutic relationship 
+between the patient and the multidisciplinary team of healthcare profes­
+sionals (Figure 2). In patient-centred AF management, patients are seen 
+not as passive recipients of health services, but as active participants 
+who work as partners alongside healthcare professionals. Patient- 
+centred AF management requires integration of all aspects of AF man­
+agement. This includes symptom control, lifestyle recommendations, 
+psychosocial support, and management of comorbidities, alongside op­
+timal medical treatment consisting of pharmacotherapy, cardioversion, 
+and interventional or surgical ablation (Table 9). Services should be de­
+signed to ensure that all patients have access to an organized model of 
+AF management, including tertiary care specialist services when indi­
+cated (see Supplementary data online, Table S1, Evidence Table 4 and 
+Additional Evidence Table S3). It is equally important to maintain path­
+ways for patients to promptly re-engage with specialist services when 
+their condition alters.
+Table 8 Diagnostic work-up for patients with AF
+All patients
+Selected patients
+• Medical history to determine AF 
+pattern, relevant family history, 
+and comorbidities, and to assess 
+risk factors for thromboembolism 
+and bleeding
+• Ambulatory ECG monitoring for 
+assessing AF burden and 
+ventricular rate control
+• Exercise ECG to evaluate rate 
+control or effects of class IC 
+antiarrhythmic drugs
+• 12-lead ECG
+• Further blood tests for 
+investigation of cardiovascular 
+disease and refinement of stroke/ 
+bleeding risk (e.g. NT-proBNP, 
+troponin)
+• Assess symptoms and functional 
+impairment
+• Transoesophageal 
+echocardiography for left atrial 
+thrombus and valvular disease 
+assessment
+• Collect generic or AF-specific 
+patient-reported outcome 
+measures
+• Coronary CT, angiography, or 
+ischaemia imaging for suspected 
+CAD
+• Blood tests (full blood count, 
+kidney function, serum 
+electrolytes, liver function, 
+glucose/HbA1c, and thyroid 
+function)
+• CMR for evaluation of atrial and 
+ventricular cardiomyopathies, 
+and to plan interventional 
+procedures
+• Transthoracic echocardiography 
+where this will guide AF-CARE 
+management decisions
+• Brain imaging and cognitive 
+function assessment for 
+cerebrovascular disease and 
+dementia risk
+© ESC 2024
+AF, atrial fibrillation; AF-CARE, atrial fibrillation—[C] Comorbidity and risk factor 
+management, [A] Avoid stroke and thromboembolism, [R] Reduce symptoms by rate 
+and rhythm control, [E] Evaluation and dynamic reassessment; CAD, coronary artery 
+disease; CMR, cardiac magnetic resonance; CT, computed tomography; CTA, computed 
+tomography angiography; ECG, electrocardiogram; HbA1c, glycated haemoglobin; 
+NT-proBNP, N-terminal pro-B-type natriuretic peptide.
+3330                                                                                                                                                                                         
+ESC Guidelines
+Downloaded from https://academic.oup.com/eurheartj/article/45/36/3314/7738779 by guest on 31 March 2026
+
+
+=== PAGE 18 ===
+
+4.1.2. Education and shared decision-making
+Clear advice about the rationale for treatments, the possibility of 
+treatment modification, and shared decision-making can help patients 
+live with AF (see Supplementary data online, Table S2).92 An open and 
+effective relationship between the patient and the healthcare profes­
+sional is critical, with shared decision-making found to improve 
+outcomes for OAC and arrhythmia management.93,94 In using a 
+shared approach, both the clinician and patient are involved in the 
+decision-making process (to the extent that the patient prefers). 
+Information is shared in both directions. Furthermore, both the 
+clinician and the patient express their preferences and discuss the 
+options. Of the potential treatment decisions, no treatment is 
+also a possibility.95 There are several toolkits available to facilitate 
+this, although most are focused on anticoagulation decisions. For ex­
+ample, the Shared Decision-Making Toolkit (http://afibguide.com, 
+http://afibguide.com/clinician) 
+and 
+the 
+Successful 
+Intravenous 
+Cardioversion for Atrial Fibrillation (SIC-AF) score have been shown 
+to reduce decisional conflict compared with usual care in patients 
+with AF.93,94 Patient-support organizations can also make an import­
+ant contribution to providing understandable and actionable knowl­
+edge about AF and its treatments (e.g. local support groups and 
+international charities, such as http://afa-international.org). As AF is a 
+chronic or recurrent disease in most patients, education is central 
+to empower patients, their families, and caregivers.
+Atrial fibrillation
+P
+a
+t
+i
+e
+n
+t
+-
+c
+e
+n
+t
+r
+e
+d
+C
+A
+R
+E
+Comorbidity
+and risk factor
+management
+Lifestyle help
+Primary care
+Cardiology
+Internal medicine
+Nursing care
+Other
+Avoid stroke and
+thromboembolism
+Primary care
+Cardiology
+Neurology
+Nursing care
+Anticoagulation
+services
+e-Health
+Reduce symptoms
+by rate and
+rhythm control
+Evaluation and
+dynamic
+reassessment
+Primary care
+Cardiology
+Pharmacy
+Nursing
+Family/carers
+e-Health
+Primary care
+Cardiology
+Electrophysiology
+Cardiac surgeons
+e-Health
+i
+n
+t
+e
+g
+r
+a
+t
+e
+d
+ 
+A
+F
+-
+C
+A
+R
+E
+Figure 2 Multidisciplinary approach to AF management. Principal caregivers are involved in the community and hospital settings to provide optimal, 
+patient-centred care for patients living with AF. AF-CARE, atrial fibrillation—[C] Comorbidity and risk factor management, [A] Avoid stroke and 
+thromboembolism, [R] Reduce symptoms by rate and rhythm control, [E] Evaluation and dynamic reassessment.
+Table 9 Achieving patient-centred AF management
+Components of patient-centred AF management:
+• Optimal treatment according to the AF-CARE pathway, which includes:
+∘ [C] Comorbidity and risk factor management
+∘ [A] Avoid stroke and thromboembolism
+∘ [R] Reduce symptoms by rate and rhythm control
+∘ [E] Evaluation and dynamic reassessment
+• Lifestyle recommendations
+• Psychosocial support
+• Education and awareness for patients, family members, and caregivers
+• Seamless co-ordination between primary care and specialized AF care
+How to implement patient-centred AF management:
+• Shared decision-making
+• Multidisciplinary team approach
+• Patient education and empowerment, with emphasis on self-care
+• Structured educational programmes for healthcare professionals
+• Technology support (e-Health, m-Health, telemedicine)a
+© ESC 2024
+AF, atrial fibrillation; AF-CARE, atrial fibrillation—[C] Comorbidity and risk factor 
+management, [A] Avoid stroke and thromboembolism, [R] Reduce symptoms by rate 
+and rhythm control, [E] Evaluation and dynamic reassessment. 
+ae-Health refers to healthcare services provided using electronic methods; m-Health, 
+refers to healthcare services supported by mobile devices; and telemedicine refers to 
+remote diagnosis or treatment supported by telecommunications technology.
+ESC Guidelines                                                                                                                                                                                          3331
+Downloaded from https://academic.oup.com/eurheartj/article/45/36/3314/7738779 by guest on 31 March 2026
+
+
+=== PAGE 19 ===
+
+4.1.3. Education of healthcare professionals
+Gaps in knowledge and skills across all domains of AF care are consist­
+ently described among cardiologists, neurologists, internal medicine 
+specialists, emergency physicians, general practitioners, nurses, and al­
+lied health practitioners.96–98 Healthcare professionals involved in 
+multidisciplinary AF management should have a knowledge of all avail­
+able options for diagnosis and treatment.99–101 In the STEEER-AF 
+trial,99 real-world adherence to clinical practice guidelines for AF 
+across six ESC countries was poor. These findings highlight the critical 
+need for appropriate training and education of healthcare 
+professionals.102
+Specifically targeted education for healthcare professionals can in­
+crease knowledge and lead to more appropriate use of OAC for 
+prevention of thromboembolism.103 However, educational interventions 
+for healthcare providers are often not enough to sustainably impact be­
+haviour.104 Other tools may be needed, such as active feedback,103
+clinical decision support tools,105 expert consultation,106 or e-Health 
+learning.107
+4.1.4. Inclusive management of AF
+Evidence is growing on differences in AF incidence, prevalence, risk fac­
+tors, comorbidities, and outcomes according to gender.108 Women di­
+agnosed with AF are generally older, have more hypertension and heart 
+failure with preserved ejection fraction (HFpEF), and have less diag­
+nosed coronary artery disease (CAD).109 Registry studies have re­
+ported differences in outcomes, with higher morbidity and mortality 
+in women, although these may be confounded by age and comorbidity 
+burden.110–112 Women with AF may be more symptomatic, and report 
+a lower quality of life.41,113 It is unclear whether this is related to de­
+layed medical assessment in women, or whether there are genuine 
+sex differences. Despite a higher symptom load, women are less likely 
+to undergo AF ablation than men, even though antiarrhythmic drug 
+therapy seems to be associated with more proarrhythmic events in 
+women.109 These observations call for more research on gender 
+differences in order to prevent disparities and inequality in care. 
+Other diversity aspects such as age, race, ethnicity, and transgender 
+issues, as well as social determinants (including socioeconomic status, 
+disability, education level, health literacy, and rural/urban location) are 
+important contributors to inequality that should be actively considered 
+to improve patient outcomes.114
+4.2. Principles of AF-CARE
+The 2024 ESC Guidelines for the management of AF have compiled and 
+evolved past approaches to create principles of management to aid im­
+plementation of these guidelines, and hence improve patient care and 
+outcomes. There is growing evidence that clinical support tools115–118
+can aid best-practice management, with the caveat that any tool is a 
+guide only, and that all patients require personalized attention. The 
+AF-CARE approach covers many established principles in the manage­
+ment of AF, but does so in a systematic, time-orientated format with 
+four essential treatment pillars (Figure 3; central illustration). Joint man­
+agement with each patient forms the starting point of the AF-CARE ap­
+proach. Notably, it takes account of the growing evidence base that 
+therapies for AF are most effective when associated health conditions 
+are addressed. A careful search for these comorbidities and risk factors 
+[C] is critical and should be applied in all patients with a diagnosis of AF. 
+Avoidance of stroke and thromboembolism [A] in patients with risk 
+factors is considered next, focused on appropriate use of anticoagu­
+lant therapy. Reducing AF-related symptoms and morbidity by effect­
+ive use of heart rate and rhythm control [R] is then applied, which in 
+selected patients may also reduce hospitalization or improve progno­
+sis. The potential benefit of rhythm control, accompanied by consid­
+eration of all risks involved, should be considered in all patients at each 
+contact point with healthcare professionals. As AF, and its related co­
+morbidities, changes over time, different levels of evaluation [E] and 
+re-evaluation are required in each patient, and these approaches 
+should be dynamic. Due to the wide variability in response to therapy, 
+and the changing pathophysiology of AF as age and comorbidities ad­
+vance, reassessment should be built into the standard care pathway to 
+prevent adverse outcomes for patients and improve population 
+health.
+AF-CARE builds upon prior ESC Guidelines, e.g. the five-step 
+outcome-focused integrated approach in the 2016 ESC Guidelines for 
+the management of AF,119 and the AF Better Care (ABC) pathway in 
+the 2020 ESC Guidelines for the diagnosis and management of AF.120
+The reorganization into AF-CARE was based on the parallel develop­
+ments in new approaches and technologies (in particular for rhythm 
+control), with new evidence consistently suggesting that all aspects of 
+AF management are more effective when comorbidities and risk factors 
+have been considered. This includes management relating to symptom 
+benefit, improving prognosis, prevention of thromboembolism, and the 
+response to rate and rhythm control strategies. AF-CARE makes expli­
+cit the need for individualized evaluation and follow-up in every patient, 
+with an active approach that accounts for how patients, their AF, and 
+associated comorbidities change over time. The AF-CARE principles 
+have been applied to different patient pathways for ease of implemen­
+tation into routine clinical care. This includes the management of first- 
+diagnosed AF (Figure 4), paroxysmal AF (Figure 5), persistent AF 
+(Figure 6), and permanent AF (Figure 7).
+Recommendation Table 4 — Recommendations for 
+patient-centred care and education (see also Evidence 
+Table 4)
+Recommendation
+Classa
+Levelb
+Education directed to patients, family members, 
+caregivers, and healthcare professionals is 
+recommended to optimize shared decision-making, 
+facilitating open discussion of both the benefit and 
+risk associated with each treatment option.94,103
+I
+C
+Access to patient-centred management according to 
+the AF-CARE principles is recommended in all 
+patients with AF, regardless of gender, ethnicity, and 
+socioeconomic status, to ensure equality in 
+healthcare provision and improve outcomes.
+I
+C
+Patient-centred AF management with a 
+multidisciplinary approach should be considered in all 
+patients with AF to optimize management and 
+improve outcomes.79,121–124
+IIa
+B
+© ESC 2024
+AF, atrial fibrillation; AF-CARE, Atrial fibrillation—[C] Comorbidity and risk factor 
+management, [A] Avoid stroke and thromboembolism, [R] Reduce symptoms by rate 
+and rhythm control, [E] Evaluation and dynamic reassessment. 
+aClass of recommendation. 
+bLevel of evidence.
+3332                                                                                                                                                                                         
+ESC Guidelines
+Downloaded from https://academic.oup.com/eurheartj/article/45/36/3314/7738779 by guest on 31 March 2026
+
+
+=== PAGE 20 ===
+
+C
+Comorbidity and risk factor management
+Hypertension
+Diabetes
+mellitus
+Blood pressure
+lowering treatment
+(Class I)
+Patient-centred AF management with a multidisciplinary approach (Class IIa)
+Education for patients, families and healthcare professionals (Class I)
+Equality in healthcare provision (gender, ethnicity, socioeconomic) (Class I)
+Heart failure
+Diuretics for
+congestion
+(Class I)
+Overweight
+or obese
+Weight loss
+(target 10%)a
+(Class I)
+Obstructive sleep
+apnoea
+Management
+of OSAa
+(Class IIb)
+Appropriate HFrEF
+medical therapy
+(Class I)
+Bariatric surgery
+if rhythm controla
+(Class IIb)
+SGLT2 inhibitors
+(Class 1)
+Alcohol
+Reduce to 3
+drinks per week
+(Class I)
+ Effective
+glycaemic controla
+(Class I)
+Exercise
+capacity
+Tailored
+exercise programme
+(Class I)
+Other risk factors/
+comorbidities
+Identify and manage
+aggressivelya
+(Class I)
+A
+Avoid stroke and thromboembolism
+Risk of
+thrombo-
+embolism
+Start oral
+anticoagulation
+(Class I)
+Use locally-validated
+risk score
+or CHA2DS2-VA
+OAC if CHA2DS2-VA
+ score = 2 or more
+(Class I)
+Choice of
+anticoagulant
+Assess 
+bleeding risk
+OAC if CHA2DS2-VA
+score = 1
+(Class IIa)
+Use DOAC, except
+mechanical valve or
+mitral stenosis
+(Class I)
+Target INR 2.0–3.0;
+(Class I)
+>70% INR range;
+(Class IIa)
+or switch to DOAC
+(Class I)
+Assess and manage
+all modifiable risk
+factors for bleeding
+(Class I)
+Do not use risk
+scores to withhold
+anticoagulation
+(Class III)
+Do not combine
+antiplatelets and OAC
+for stroke prevention
+(Class III)
+Avoid antiplatelets
+beyond 12 months
+in OAC treated
+CCS/PVD
+(Class III)
+Temporal pattern
+of AF not relevant
+(Class III)
+Antiplatelet therapy
+not an alternative
+(Class III)
+Prevent
+bleeding
+R
+Reduce symptoms by rate and rhythm control
+E
+Evaluation and dynamic reassessment
+See patient pathways for:
+First-diagnosed AF
+Paroxysmal AF
+Persistent AF
+Permanent AF
+Consider:
+AF
+C A R
+E
+If  VKA:
+Rate control drugs
+Ablate and pace
+Cardioversion
+Catheter ablation
+Endoscopic/hybrid ablation Surgical ablation
+Antiarrhythmic drugs
+Re-evaluate when AF episodes or non-AF admissions
+ECG, blood tests,
+cardiac imaging,
+ambulatory ECG,
+other imaging
+as needed
+Assess new and
+existing risk factors 
+and comorbidities
+(Class I)
+Stratify risk
+for stroke and
+thromboembolism
+(Class I)
+Check impact of AF
+symptoms before
+and after treatment
+(Class I)
+Assess and manage
+modifiable bleeding
+risk factors
+(Class I)
+Continue OAC
+despite rhythm
+control if risk
+of thromboembolism
+(Class I)
+Regular re-evaluation: 6 months after presentation, and then at least annually or based on clinical need
+Figure 3 Central illustration. Patient pathway for AF-CARE (see Figures 4, 5, 6, and 7 for the [R] pathways for first-diagnosed, paroxysmal, persistent and 
+permanent AF). AF, atrial fibrillation; AF-CARE, atrial fibrillation—[C] Comorbidity and risk factor management, [A] Avoid stroke and thromboembolism, 
+[R] Reduce symptoms by rate and rhythm control, [E] Evaluation and dynamic reassessment; CCS, chronic coronary syndrome; CHA2DS2-VA, congest­
+ive heart failure, hypertension, age ≥75 years (2 points), diabetes mellitus, prior stroke/transient ischaemic attack/arterial thromboembolism (2 points), 
+vascular disease, age 65–74 years; DOAC, direct oral anticoagulant; ECG, electrocardiogram; HFrEF, heart failure with reduced ejection fraction; INR, 
+international normalized ratio of prothrombin time; OAC, oral anticoagulant; OSA, obstructive sleep apnoea; PVD, peripheral vascular disease; SGLT2, 
+sodium-glucose cotransporter-2; VKA, vitamin K antagonist. aAs part of a comprehensive management of cardiometabolic risk factors.
+ESC Guidelines                                                                                                                                                                                          3333
+Downloaded from https://academic.oup.com/eurheartj/article/45/36/3314/7738779 by guest on 31 March 2026
+
+
+=== PAGE 21 ===
+
+N
+Patient with first-diagnosed AF
+Y
+Y
+N
+Follow AF-CARE for [C] comorbidity and risk factor management & [A] avoid stroke and thromboembolism
+Haemodynamically stable
+Initial rate control
+ (Class I)
+Electrical cardioversion
+(Class I)
+LVEF ≤40%
+Beta-blocker, digoxin,
+diltiazem or verapamil
+ (Class I)
+Beta-blocker 
+or digoxin
+ (Class I)
+Combination
+ rate control therapy
+(Class IIa)
+Combination
+ rate control therapy
+(Class IIa)
+Cardioversion of symptomatic 
+persistent AF
+(Class I)
+Wait-and-see if sinus rhythm
+restores spontaneously <48 h
+ (Class IIa)
+Figure 4 [R] Pathway for patients with first-diagnosed AF. AF, atrial fibrillation; AF-CARE, Atrial fibrillation—[C] Comorbidity and risk factor man­
+agement, [A] Avoid stroke and thromboembolism, [R] Reduce symptoms by rate and rhythm control, [E] Evaluation and dynamic reassessment; LVEF, 
+left ventricular ejection fraction. After following the pathway for first-diagnosed AF, patients with recurrent AF should enter the AF-CARE [R] pathway 
+for paroxysmal, persistent, or permanent AF, depending on the type of their AF.
+3334                                                                                                                                                                                         
+ESC Guidelines
+Downloaded from https://academic.oup.com/eurheartj/article/45/36/3314/7738779 by guest on 31 March 2026
+
+
+=== PAGE 22 ===
+
+Rate control target = resting heart rate <110 b.p.m. (lenient control), 
+with stricter control with continuing symptoms
+(Class IIa)
+Beta-blocker 
+or digoxin
+(Class I)
+Patient with paroxysmal AF
+LVEF ≤40%
+Beta-blocker, digoxin,
+diltiazem or verapamil
+ (Class I)
+Combination
+ rate control therapy
+(Class IIa)
+Combination
+ rate control therapy
+(Class IIa)
+Amiodarone
+(Class I)
+Dronedarone, flecainide 
+or propafenone
+(Class I)
+Catheter ablation
+ (Class I)
+Amiodarone or
+dronedarone 
+(Class I)
+Sotalol 
+(Class IIb)
+HFrEF
+(LVEF ≤40%)
+Stable HFmrEF
+(LVEF 41–49%), 
+coronary heart disease, 
+valvular heart disease
+Absence
+or minimal heart
+disease
+Sotalol 
+(Class IIb)
+Recurrence of AF symptoms
+Antiarrhythmic drug therapy
+Y
+N
+Shared decision-making on rhythm control
+(Class I)
+If failed antiarrhythmic
+drug therapy
+If failed catheter
+ablation
+Re-do catheter ablation
+(Class IIa)
+Surgical/hybrid ablation
+(Class IIb)
+Antiarrhythmic drug
+therapy (see above)
+Catheter ablationa
+ (Class I)
+Shared decision-making
+(Class I)
+Follow AF-CARE for [C] comorbidity and risk factor management & [A] avoid stroke and thromboembolism
+Figure 5 [R] Pathway for patients with paroxysmal AF. AF, atrial fibrillation; AF-CARE, atrial fibrillation—[C] Comorbidity and risk factor manage­
+ment, [A] Avoid stroke and thromboembolism, [R] Reduce symptoms by rate and rhythm control, [E] Evaluation and dynamic reassessment; b.p.m., 
+beats per minute; HFmrEF, heart failure with mildly reduced ejection fraction; HFrEF, Heart failure with reduced ejection fraction; LVEF, left ventricular 
+ejection fraction. aIn patients with HFrEF: Class I if high probability of tachycardia-induced cardiomyopathy; and Class IIa in selected patients to improve 
+prognosis.
+ESC Guidelines                                                                                                                                                                                          3335
+Downloaded from https://academic.oup.com/eurheartj/article/45/36/3314/7738779 by guest on 31 March 2026
+
+
+=== PAGE 23 ===
+
+Electrical
+cardioversion
+Rate control target = resting heart rate <110 b.p.m. (lenient control), 
+with stricter control with continuing symptoms
+(Class IIa)
+Beta-blocker
+or digoxin
+(Class I)
+Patient with persistent AF
+LVEF ≤40%
+Combination
+ rate control therapy
+(Class IIa)
+Combination
+ rate control therapy
+(Class IIa)
+Amiodarone
+(Class I)
+Dronedarone, flecainide 
+or propafenone
+(Class I)
+Amiodarone or
+dronedarone 
+(Class I)
+Sotalol 
+(Class IIb)
+HFrEF
+(LVEF ≤40%)
+Stable HFmrEF
+(LVEF 41–49%), 
+coronary heart disease, 
+valvular heart disease
+Absence
+ or minimal heart
+disease
+Sotalol 
+(Class IIb)
+Recurrence of AF symptoms
+Antiarrhythmic drug therapy
+Y
+N
+Shared decision-making on rhythm control
+(Class I)
+If failed antiarrhythmic
+drug therapy
+If failed catheter
+ablation
+Catheter ablationa
+ (Class IIb)
+Shared decision-making, considering all rhythm control options
+(Class I)
+Beta-blocker, digoxin,
+diltiazem or verapamil
+(Class I)
+Catheter
+ablation
+(Class I)
+Re-do
+catheter
+ablation
+Endoscopic
+hybrid or
+surgical ablation
+Antiarrhythmic
+drug therapy 
+(see above)
+Consider
+rate control 
+strategy 
+Follow AF-CARE for [C] comorbidity and risk factor management & [A] avoid stroke and thromboembolism
+Haemodynamic instability (Class I)
+Part of rhythm control strategy (Class IIa)
+Clarify benefit from sinus rhythm (Class IIa)
+Endoscopic/
+hybrid ablation
+(Class IIa)
+Figure 6 [R] Pathway for patients with persistent AF. AF, atrial fibrillation; AF-CARE, Atrial fibrillation—[C] Comorbidity and risk factor management, 
+[A] Avoid stroke and thromboembolism, [R] Reduce symptoms by rate and rhythm control, [E] Evaluation and dynamic reassessment; b.p.m., beats per 
+minute; HFmrEF, heart failure with mildly reduced ejection fraction; HFrEF, heart failure with reduced ejection fraction; LVEF, left ventricular ejection 
+fraction. aIn patients with HFrEF: Class I if high probability of tachycardia-induced cardiomyopathy; and Class IIa in selected patients to improve prognosis.
+3336                                                                                                                                                                                         
+ESC Guidelines
+Downloaded from https://academic.oup.com/eurheartj/article/45/36/3314/7738779 by guest on 31 March 2026
+
+
+=== PAGE 24 ===
+
+LVEF >40%
+Patient with permanent AF
+Y
+Evaluation and dynamic
+reassessment
+Initiate beta-blocker, 
+digoxin, diltiazem
+or verapamil
+ (Class I)
+Continue beta-blocker,
+digoxin, diltiazem 
+or verapamil
+ (Class I)
+Combination beta-blocker
+with digoxin, or diltiazem/
+verapamil with digoxin;
+ avoiding bradycardia
+(Class IIa)a
+N
+Rate control target = resting heart rate <110 b.p.m. (lenient control), with stricter control with continuing symptoms
+(Class IIa)
+Continue review and follow-up as per
+AF-CARE approach
+LVEF ≤40%
+Continue beta-blocker
+or digoxin
+ (Class I)
+Combination
+beta-blocker with digoxin,
+avoiding bradycardia
+(Class IIa)
+Y
+Evaluation and dynamic
+reassessment
+Initiate beta-blocker
+or digoxin
+ (Class I)
+Rate control target = resting
+heart rate  <110 b.p.m.
+(lenient control), 
+with stricter control 
+with continuing symptoms
+(Class IIa)
+N
+Severely symptomatic and
+HF hospitalization
+Atrioventricular node
+ablation and CRT
+(Class IIa)
+Y
+Intensify rate control therapy under
+observation
+Evaluation for atrioventricular node
+ablation in combination with pacemaker
+(Class IIa)
+N
+Follow AF-CARE for [C] comorbidity and risk factor management & [A] avoid stroke and thromboembolism
+Rate control target = resting
+heart rate  <110 b.p.m.
+(lenient control), 
+with stricter control 
+with continuing symptoms
+(Class IIa)
+Figure 7 [R] Pathway for patients with permanent AF. AF, atrial fibrillation; AF-CARE, Atrial fibrillation—[C] Comorbidity and risk factor manage­
+ment, [A] Avoid stroke and thromboembolism, [R] Reduce symptoms by rate and rhythm control, [E] Evaluation and dynamic reassessment; b.p.m., 
+beats per minute; CRT, cardiac resynchronization therapy; HF, heart failure; LVEF, left ventricular ejection fraction. Permanent AF is a shared decision 
+made between the patient and physician that no further attempts at restoration of sinus rhythm are planned. aNote that the combination of beta- 
+blockers with diltiazem or verapamil should only be used under specialist advice, and monitored with an ambulatory ECG to check for bradycardia.
+ESC Guidelines                                                                                                                                                                                          3337
+Downloaded from https://academic.oup.com/eurheartj/article/45/36/3314/7738779 by guest on 31 March 2026
+
+
+=== PAGE 25 ===
+
+5. [C] Comorbidity and risk factor 
+management
+A broad array of comorbidities are associated with the recurrence 
+and progression of AF. Managing comorbidities is also central to the 
+success of other aspects of care for patients with AF, with evidence 
+available for hypertension, heart failure, diabetes mellitus, obesity, 
+and sleep apnoea, along with lifestyle changes that improve physical 
+activity and reduce alcohol intake (see Supplementary data online, 
+Additional Evidence Table S4). Identification and treatment of these 
+comorbidities and clusters of risk factors form an important part 
+of effective AF-CARE (Figure 8), with the evidence outlined in the 
+rest of this section highlighting where management can improve 
+patient outcomes or prevent AF recurrence. Many of these 
+factors (and more) are also associated with incident AF (see 
+Section 10).
+Focus on key
+risk factors
+Provide information 
+without overloading
+Suggested approach and targets
+Setting individual
+targets for
+comorbidities
+and risk factors
+Key targets
+Behavioural
+change
+Achievable
+targets
+Identify and actively manage all risk factors and comorbidities
+(Class I) 
+Blood pressure treatment with target 120–129 mmHg /
+70–79 mmHg in most adults (or as low as reasonably achievable)
+(Class I) 
+Effective glycaemic control with diet/medication(s)
+(Class I)
+Weight loss programme if overweight /obese, 
+with 10% or more weight loss
+(Class I) 
+Management of obstructive sleep apnoea to minimize
+apnoeic episodes
+(Class IIb)
+Tailored exercise programme aiming for regular
+moderate/vigorous activity
+(Class I)
+Reduce alcohol consumption to 3 or less standard
+drinks per week
+(Class I) 
+Shared
+decision-making
+Hypertension
+Sleep
+apnoea
+Heart
+failure
+Diabetes
+Obesity
+Integrated
+management
+Physical
+activity
+Alcohol
+intake 
+Optimize with diuretics to alleviate congestion appropriate,
+medical therapy for reduced LVEF, and SGLT2 inhibitors for all LVEF
+(Class I)
+Figure 8 Management of key comorbidities to reduce AF recurrence. LVEF, left ventricular ejection fraction; SGLT2, sodium-glucose 
+cotransporter-2.
+3338                                                                                                                                                                                         
+ESC Guidelines
+Downloaded from https://academic.oup.com/eurheartj/article/45/36/3314/7738779 by guest on 31 March 2026
+
+
+=== PAGE 26 ===
+
+5.1. Hypertension
+Hypertension in patients with AF is associated with an increased risk of 
+stroke, heart failure, major bleeding, and cardiovascular mortality.158–161
+The target for treated systolic blood pressure (BP) in most adults is 
+120–129 mmHg. Where BP-lowering treatment is poorly tolerated, 
+clinically significant frailty exists or the patient’s age is 85 years or 
+older, a more lenient target of <140 mmHg is acceptable or ‘as low 
+as reasonably achievable’. On-treatment diastolic BP should ideally 
+be 70–79 mmHg.162 In an individual participant data meta-analysis of 
+22 randomized trials reporting baseline AF, a 5 mmHg reduction in 
+systolic BP reduced the risk of major cardiovascular events by 9% 
+(HR, 0.91; 95% CI, 0.83–1.00), with identical effect in patients with 
+AF or sinus rhythm.129
+In individuals with AF, hypertension often coexists with other 
+modifiable and non-modifiable risk factors that all contribute to re­
+currence of AF, readmission to hospital, and ongoing symptoms after 
+rhythm control.163–171 Optimal control of blood pressure should be 
+considered an essential component of treating AF and undertaken 
+within a strategy of comprehensive risk factor management.126–128
+Although the majority of research has focused on clinical outcomes, 
+limited comparative data on hypertension medication suggests that 
+use of angiotensin-converting enzyme (ACE) inhibitors or angioten­
+sin receptor blockers (ARB) may be superior for prevention of recur­
+rent AF.172–175
+5.2. Heart failure
+Heart failure is a key determinant of prognosis in patients with AF, as 
+well as an important factor associated with recurrence and progression 
+of AF.176,177 During 30 years of follow-up in the Framingham cohort, 
+57% of those with new heart failure had concomitant AF, and 37% of 
+those with new AF had heart failure.178 Numerous cardiovascular 
+and non-cardiovascular conditions impact the development of both 
+AF and heart failure, leading to the common pathway of atrial cardio­
+myopathy.18 In patients with acute heart failure attending the emer­
+gency department, AF is one of the most prevalent triggering factors 
+of the episode.179 The development of heart failure in patients with 
+AF is associated with a two-fold increase in stroke and thrombo­
+embolism,180 even after anticoagulation,181 and 25% higher all-cause 
+mortality.178 Prognosis may be affected by left ventricular ejection 
+fraction (LVEF), with the rate of death highest with the combination 
+of AF and heart failure with reduced ejection fraction (HFrEF) 
+(LVEF ≤ 40%), as compared with AF and HFpEF (LVEF ≥ 50%). 
+However, rates of stroke and incident heart failure hospitalization 
+are similar regardless of LVEF.182 Due to how common concomitant 
+AF and heart failure are in clinical practice, strategies to improve out­
+comes in these patients are detailed within each component of the 
+AF-CARE pathway. However, it is also critical that heart failure itself 
+is managed appropriately in patients with AF to prevent avoidable ad­
+verse events.
+Optimization of heart failure management should follow current 
+ESC Guidelines: 2023 Focused Update183 of the 2021 ESC Guidelines 
+for the diagnosis and treatment of acute and chronic heart failure.137
+Achieving euvolaemia with diuretics is an important first step that not 
+only manages the heart failure component, but can also facilitate better 
+control of heart rate in AF. For HFrEF, it should be highlighted that 
+many older guideline-recommended therapies lack specific evidence 
+for benefit in patients with coexisting AF. No trial data are available 
+in this context for ACE inhibitors, there are conflicting data on 
+ARBs,132,184 and an individual patient-level analysis of RCTs found no 
+Recommendation Table 5 — Recommendations for 
+comorbidity and risk factor management in AF (see 
+also Evidence Table 5)
+Recommendation
+Classa
+Levelb
+Identification and management of risk factors and 
+comorbidities is recommended as an integral part of 
+AF care.39,125–127
+I
+B
+Blood pressure lowering treatment is recommended 
+in patients with AF and hypertension to reduce 
+recurrence and progression of AF and prevent 
+adverse cardiovascular events.126–130
+I
+B
+Diuretics are recommended in patients with AF, HF, 
+and congestion to alleviate symptoms and facilitate 
+better AF management.
+I
+C
+Appropriate medical therapy for HF is 
+recommended in AF patients with HF and impaired 
+LVEF to reduce symptoms and/or HF hospitalization 
+and prevent AF recurrence.131–137
+I
+B
+Sodium-glucose cotransporter-2 inhibitors are 
+recommended for patients with HF and AF 
+regardless of left ventricular ejection fraction to 
+reduce the risk of HF hospitalization and 
+cardiovascular death.136,138–140
+I
+A
+Effective glycaemic control is recommended as part 
+of comprehensive risk factor management in 
+individuals with diabetes mellitus and AF, to reduce 
+burden, recurrence, and progression of AF.
+I
+C
+Weight loss is recommended as part of 
+comprehensive risk factor management in 
+overweight and obese individuals with AF to reduce 
+symptoms and AF burden, with a target of 10% or 
+more reduction in body weight.125–128
+I
+B
+A tailored exercise programme is recommended in 
+individuals with paroxysmal or persistent AF to 
+improve cardiorespiratory fitness and reduce AF 
+recurrence.141–146
+I
+B
+Reducing alcohol consumption to ≤3 standard drinks 
+(≤30 grams of alcohol) per week is recommended as 
+part of comprehensive risk factor management to 
+reduce AF recurrence.126,127,147
+I
+B
+Bariatric surgery may be considered in conjunction 
+with lifestyle changes and medical management in 
+individuals with AF and body mass index ≥40 kg/m2 c 
+where a rhythm control strategy is planned, to 
+reduce recurrence and progression of AF.
+IIb
+C
+Management of obstructive sleep apnoea may be 
+considered as part of a comprehensive management 
+of risk factors in individuals with AF to reduce 
+recurrence and progression.126–128,148–154
+IIb
+B
+When screening for obstructive sleep apnoea in 
+individuals with AF, using only symptom-based 
+questionnaires is not recommended.155–157
+III
+B
+© ESC 2024
+AF, atrial fibrillation; HF, heart failure; LVEF, left ventricular ejection fraction. 
+aClass of recommendation. 
+bLevel of evidence. 
+cOr body mass index ≥35 kg/m2 with obesity-related complications.
+ESC Guidelines                                                                                                                                                                                          3339
+Downloaded from https://academic.oup.com/eurheartj/article/45/36/3314/7738779 by guest on 31 March 2026
+
+
+=== PAGE 27 ===
+
+difference between beta-blockers and placebo for all-cause mortality in 
+HFrEF with AF.133 However, these drugs have clear proof of safety and 
+there may be other indications for these therapies beyond prognosis, 
+including comorbidity management and symptom improvement. 
+These and other therapies may also have dual functions, for example, 
+beta-blockers or digoxin for rate control of AF, in addition to improving 
+heart failure metrics and reducing hospitalization.48,185,186 More recent 
+additions to HFrEF management, such as eplerenone, sacubitril- 
+valsartan, and sodium-glucose cotransporter-2 (SGLT2) inhibitors, 
+had substantial numbers of patients with AF enrolled in RCTs, with 
+no evidence that AF status affected their ability to reduce cardiovascu­
+lar mortality/heart failure hospitalization.134–136 Cardiac resynchroniza­
+tion therapy (CRT) in the context of HFrEF and AF is discussed in detail 
+in the 2021 ESC Guidelines on cardiac pacing and cardiac resynchroni­
+zation therapy, with an important focus on ensuring effective biventri­
+cular pacing (with a low threshold for considering atrioventricular node 
+ablation).187 Patients who have heart failure with mildly reduced ejec­
+tion fraction (HFmrEF) (LVEF 41%–49%) and AF should generally be 
+treated according to guidance for HFrEF,137 albeit with limited evidence 
+to date in AF.188–190 For treatment of HFpEF and AF,191 pre-specified 
+subgroup data on AF from multiple large trials show that the SGLT2 
+inhibitors dapagliflozin, empaglifozin, and sotagliflozin are effective in 
+improving prognosis.138–140
+Appropriate management of heart failure has the potential to reduce 
+recurrence of AF, e.g. by reducing adverse atrial and ventricular myo­
+cardial remodelling, but there are limited data for specific therapies. 
+In the Routine versus Aggressive upstream rhythm Control for preven­
+tion of Early AF in heart failure (RACE 3) trial, combined management 
+of mild-to-moderate heart failure with ACE inhibitors/ARBs, mineralo­
+corticoid receptor antagonists, statins, and cardiac rehabilitation in­
+creased the maintenance of sinus rhythm on ambulatory monitoring 
+at 12 months.39 This benefit was not preserved at the 5 year follow-up, 
+although this may have been confounded by the lack of ongoing inter­
+vention beyond the initial 12 months.192
+5.3. Type 2 diabetes mellitus
+Diabetes mellitus is present in around 25% of patients with AF.193–195
+Patients with both diabetes and AF have a worse prognosis,196 with in­
+creased healthcare utilization and excess mortality and cardiovascular 
+events. The prevalence and incidence of AF and type 2 diabetes are 
+widely increasing, thus making the association of these two conditions 
+a public health challenge.195,197 Moreover, diabetes is a major factor in­
+fluencing thromboembolic risk.198,199 Following catheter ablation of AF, 
+diabetes and higher HbA1c are associated with increased length of stay 
+and a greater recurrence of AF.200–203
+In cohort studies, the management of diabetes mellitus as part of 
+comprehensive risk factor management has been associated with re­
+duced AF symptoms, burden, reversal of the type of AF (from persist­
+ent to paroxysmal or no AF), and improved maintenance of sinus 
+rhythm.126–128 However, robust evidence is limited, and individual 
+glucose-lowering medications have had variable effects on AF.204–206
+There are emerging data of the use of SGLT2 and glucagon-like 
+peptide-1 antagonists in patients with diabetes and AF that may impact 
+on treatment choice in the near future. Importantly, diabetes frequently 
+coexists with multiple risk factors in patients with AF, and a compre­
+hensive approach to management is required. Further details are 
+provided in the 2023 ESC Guidelines for the management of cardiovas­
+cular disease in patients with diabetes.207
+5.4. Obesity
+Obesity frequently coexists with other risk factors that have been inde­
+pendently associated with the development of AF.208,209 Obesity (body 
+mass index [BMI] ≥30 kg/m2) and being overweight (BMI >25 kg/m2) 
+are associated with a greater risk of recurrent atrial arrhythmias after 
+AF ablation (13% increase for every 5 kg/m2 higher BMI).210–212 In 
+the setting of comprehensive risk factor management, weight loss of 
+≥10% in overweight and obese individuals with AF has been associated 
+with reduced AF symptoms and AF burden in an RCT (aiming for BMI 
+<27 kg/m2).125 Cohort studies have also shown a graded response to 
+maintenance of sinus rhythm,126 improved ablation outcomes,128 and 
+reversal of the type of AF127 commensurate with the degree of weight 
+loss and risk factor management. However, in the Supervised Obesity 
+Reduction Trial for AF Ablation Patients (SORT-AF) randomized trial 
+in AF ablation patients, a sole weight loss intervention that achieved 
+4% loss in weight over 12 months did not impact ablation outcomes.213
+This is consistent with the findings in LEGACY (Long-Term Effect of 
+Goal directed weight management on Atrial Fibrillation Cohort: a 5 
+Year follow-up study) that showed that weight loss of ≤3% had no im­
+pact on AF recurrence.126 Observational studies have raised the possi­
+bility of a point of no return in terms of the benefit of weight loss,214 but 
+also the possibility that bariatric surgery can improve symptoms and re­
+duce AF recurrence.215–217
+5.5. Obstructive sleep apnoea
+Obstructive sleep apnoea (OSA) is a highly prevalent condition, particu­
+larly in patients with AF.157,218 Optimal screening tools in the AF popu­
+lation are still under evaluation, although it may be reasonable to screen 
+for OSA in patients where a rhythm control strategy is being pursued. 
+Polysomnography or home sleep apnoea testing are suggested in pref­
+erence to screening questionnaires.155–157,219 Questionnaires assessing 
+daytime sleepiness are poor predictors of moderate-to-severe OSA.155
+Which parameter should be used to focus on risk of AF in patients with 
+OSA, and to guide OSA treatment in patients with AF, is still 
+unclear.220,221
+Observational studies have suggested that individuals with OSA not 
+treated with continuous positive airway pressure (CPAP) respond 
+poorly to treatments for AF, with an increased risk of recurrence 
+after cardioversion or ablation.222 Conversely, OSA patients treated 
+with CPAP seem to mitigate their propensity toward developing 
+AF.148–153,222–224 A small randomized trial of CPAP vs. no therapy de­
+monstrated reversal of atrial remodelling in individuals with moderate 
+OSA.154 However, other small RCTs have failed to show a benefit of 
+CPAP therapy on ablation outcomes225 or post-cardioversion.226
+Data on the cardiovascular mortality benefit of CPAP therapy in 
+OSA are inconclusive.227–230
+5.6. Physical inactivity
+Reduced cardiorespiratory fitness frequently coexists with other modi­
+fiable risk factors and has been associated with a greater recurrence of 
+AF after catheter ablation.141 Better cardiorespiratory fitness has a de­
+monstrated inverse relationship to AF burden in both middle-aged and 
+elderly people.141 Small RCTs, meta-analyses, and observational 
+3340                                                                                                                                                                                         
+ESC Guidelines
+Downloaded from https://academic.oup.com/eurheartj/article/45/36/3314/7738779 by guest on 31 March 2026
+
+
+=== PAGE 28 ===
+
+cohorts have shown that regular aerobic exercise may also improve 
+AF-related symptoms, quality of life, and exercise capacity.142,143
+Better cardiorespiratory fitness and a gain in cardiorespiratory fitness 
+over time are associated with a greater reduction in AF burden and im­
+proved maintenance of sinus rhythm.141–145
+5.7. Alcohol excess
+Alcohol consumption can increase the risk of adverse events in patients 
+with AF, such as thromboembolism, death, or AF-related hospitaliza­
+tion.231,232 Alcohol is associated with an increased risk of ischaemic 
+stroke in patients with newly diagnosed AF, and alcohol abstinence after 
+AF diagnosis can reduce the risk of ischaemic stroke.233 In patients re­
+ceiving OAC, alcohol excess is associated with a greater risk of bleed­
+ing,234 mediated by poor adherence, alcohol–drug interactions, liver 
+disease, and variceal bleeding.
+Alcohol consumption is associated with a dose-dependent increase 
+in the recurrence of AF after catheter ablation.147,235 In an RCT among 
+regular non-binge drinkers with AF, the goal of abstinence led to a sig­
+nificant reduction in AF recurrence and burden; alcohol intake was re­
+duced from 16.8 to 2.1 standard drinks per week (≤30 grams or 3 
+standard drinks of alcohol) in the intervention arm, with 61% attaining 
+abstinence.147 In observational data of patients undergoing catheter ab­
+lation, reduction of consumption to ≤7 standard drinks (≤70 grams of 
+alcohol) per week was associated with improved maintenance of sinus 
+rhythm.128,235
+6. [A] Avoid stroke and 
+thromboembolism
+6.1. Initiating oral anticoagulation
+Atrial fibrillation is a major risk factor for thromboembolism, irre­
+spective of whether it is paroxysmal, persistent, or permanent.236,237
+Left untreated, and dependent on other patient-specific factors, the 
+risk of ischaemic stroke in AF is increased five-fold, and one in every 
+five strokes is associated with AF.238 The default approach should 
+therefore be to provide OAC to all eligible patients, except those 
+at low risk of incident stroke or thromboembolism. The effectiveness 
+of OAC to prevent ischaemic stroke in patients with AF is well estab­
+lished.239,240 Antiplatelet drugs alone (aspirin, or aspirin in combin­
+ation with clopidogrel) are not recommended for stroke prevention 
+in AF.241,242
+6.1.1. Decision support for anticoagulation in AF
+Tools have been developed to enable easier implementation of OAC 
+in patients with clinical AF. The majority of OAC clinical trials have 
+used variations of the CHADS2 score to indicate those at risk (with 
+points for chronic heart failure, hypertension, age, diabetes, and 2 
+points for prior stroke/transient ischaemic attack [TIA]). Although 
+most available stroke risk scores are simple and practical, the predict­
+ive value of scores is generally modest (see Supplementary data 
+online, Table S3).243–245 Classification and discrimination of adverse 
+events is relatively poor for all scores and hence the benefit of using 
+them to select patients for OAC is unclear. There is also considerable 
+variation in the definition of risk factors across countries,246 and a lack 
+of evidence from clinical trials on the ability of stroke risk scoring to 
+enhance clinical practice.243 This guideline continues to provide a 
+Class IA recommendation for the use of OAC in patients at risk of 
+thromboembolism. However, in the absence of strong evidence for 
+how to apply risk scores in real-world patients, this has been sepa­
+rated from the use of any particular risk score. This is also in line 
+with regulatory approvals for direct oral anticoagulants (DOACs), 
+which do not stipulate risk scores or numerical thresholds.25–28,245
+Substantive changes have occurred in the decades since these risk 
+scores were developed in regards to population-level risk factor pro­
+files, therapies, and targets.198 Historical scores do not take into ac­
+count parameters that have been associated with thromboembolism 
+in contemporary cohorts, such as cancer, chronic kidney disease 
+(CKD), ethnicity, and a range of circulating biomarkers (including tropo­
+nin and B-type natriuretic peptide [BNP]). As an example, for CKD 
+there is a correlation between decreasing glomerular filtration rate 
+and proteinuria with stroke risk,247–250 and cohort data suggest a two- 
+fold increased risk of ischaemic stroke and mortality in AF patients with 
+CKD vs. without.251 Other factors, such as atrial enlargement, hyperlip­
+idaemia, smoking, and obesity, have been identified in specific cohort 
+studies as additional risk factors for ischaemic stroke in AF.70,252,253
+Biomarkers, such as troponin, natriuretic peptides, growth differenti­
+ation factor-15, cystatin C, and interleukin-6, can also indicate residual 
+stroke risk among anticoagulated AF patients.254,255 Biomarker-guided 
+stroke prevention is currently being evaluated in an ongoing RCT 
+(NCT03753490). Until further validation within RCTs is available, this 
+task force continues to support using simple clinical classification for im­
+plementation of OAC. Clinicians should use tools that have been vali­
+dated in their local population and take an individualized approach to 
+thromboembolic risk stratification that considers the full range of 
+each patient’s specific risk factors. The absolute risk level at which to 
+start OAC in individual patients cannot be estimated from population- 
+level studies. It will vary depending on how those factors interact with 
+other medical issues, and the degree of risk acceptable or tolerated by 
+that person. In general, most of the available risk scores have a thresh­
+old of 0.6%–1.0% per annum of thromboembolic events for clinical AF 
+to warrant OAC prescription.
+Across Europe, the most popular risk score is CHA2DS2–VASc, giv­
+ing points for congestive heart failure, hypertension, age ≥75 years 
+(2 points), diabetes mellitus, prior stroke/TIA/thromboembolism 
+(2 points), vascular disease, age 65–74 years and female sex. 
+However, implementation has varied in terms of gender. Female sex 
+is an age-dependent stroke risk modifier rather than a risk factor per 
+se.112,256,257 The inclusion of gender complicates clinical practice both 
+for healthcare professionals and patients.258 It also omits individuals 
+who identify as non-binary, transgender, or are undergoing sex hor­
+mone therapy. Previous guidelines from the ESC (and globally) have 
+not actually used CHA2DS2-VASc; instead providing different score le­
+vels for women and men with AF to qualify for OAC. Hence, 
+CHA2DS2-VA (excluding gender) has effectively been in place 
+(Table 10).78 This task force proposes, in the absence of other locally 
+validated alternatives, that clinicians and patients should use the 
+CHA2DS2-VA score to assist in decisions on OAC therapy (i.e. without 
+a criterion for birth sex or gender). Pending further trials in lower risk 
+patients (NCT04700826,259 NCT02387229260), OAC are recom­
+mended in those with a CHA2DS2-VA score of 2 or more and should 
+be considered in those with a CHA2DS2-VA score of 1, following a 
+patient-centred and shared care approach. Healthcare professionals 
+should take care to assess for other thromboembolic risk factors 
+that may also indicate the need for OAC prescription.
+ESC Guidelines                                                                                                                                                                                          3341
+Downloaded from https://academic.oup.com/eurheartj/article/45/36/3314/7738779 by guest on 31 March 2026
+
+
+=== PAGE 29 ===
+
+Recommendation Table 6 — Recommendations to 
+assess and manage thromboembolic risk in AF (see also 
+Evidence Table 6)
+Recommendations
+Classa
+Levelb
+Oral anticoagulation is recommended in patients 
+with clinical AF at elevated thromboembolic risk to 
+prevent ischaemic stroke and 
+thromboembolism.239,240
+I
+A
+A CHA2DS2-VA score of 2 or more is recommended 
+as an indicator of elevated thromboembolic risk for 
+decisions on initiating oral anticoagulation.
+I
+C
+Oral anticoagulation is recommended in all patients 
+with AF and hypertrophic cardiomyopathy or 
+cardiac amyloidosis, regardless of CHA2DS2-VA 
+score, to prevent ischaemic stroke and 
+thromboembolism.270–276
+I
+B
+Individualized reassessment of thromboembolic risk 
+is recommended at periodic intervals in patients with 
+AF to ensure anticoagulation is started in appropriate 
+patients.277–280
+I
+B
+Continued 
+A CHA2DS2-VA score of 1 should be considered an 
+indicator of elevated thromboembolic risk for 
+decisions on initiating oral anticoagulation.
+IIa
+C
+Direct oral anticoagulant therapy may be considered 
+in patients with asymptomatic device-detected 
+subclinical AF and elevated thromboembolic risk to 
+prevent ischaemic stroke and thromboembolism, 
+excluding patients at high risk of bleeding.281,282
+IIb
+B
+Antiplatelet therapy is not recommended as an 
+alternative to anticoagulation in patients with AF to 
+prevent ischaemic stroke and 
+thromboembolism.242,283
+III
+A
+Using the temporal pattern of clinical AF 
+(paroxysmal, persistent, or permanent) is not 
+recommended to determine the need for oral 
+anticoagulation.284,285
+III
+B
+© ESC 2024
+AF, atrial fibrillation; CHA2DS2-VA, congestive heart failure, hypertension, age ≥75 years (2 
+points), 
+diabetes 
+mellitus, 
+prior 
+stroke/transient 
+ischaemic 
+attack/arterial 
+thromboembolism (2 points), vascular disease, age 65–74 years; DOAC, direct oral 
+anticoagulant. 
+aClass of recommendation. 
+bLevel of evidence.

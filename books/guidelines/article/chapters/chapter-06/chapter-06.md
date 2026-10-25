@@ -1,4 +1,4 @@
-# EACTS Expert Consensus Document on aortic valve repair and valve-sparing aortic root replacement procedures
+# 🛠️ <span class="luminous-purple">Aortic Valve Repair and Valve-Sparing Root Replacement</span> (<span class="luminous-blue">EACTS</span> <span class="luminous-amber">2026</span>)
 
 ##### Comprehensive European Association for Cardio-Thoracic Surgery (EACTS) consensus statement defining standardized multidisciplinary principles, functional classification of aortic regurgitation, bicuspid aortic valve (BAV) phenotypes, repairability criteria, and aortopathy patterns to guide reconstructive aortic valve and root surgery.
 

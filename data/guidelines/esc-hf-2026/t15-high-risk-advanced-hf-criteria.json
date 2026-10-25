@@ -1,0 +1,82 @@
+{
+  "schemaVersion": 1,
+  "id": "esc-hf-2026.t15-high-risk-advanced-hf-criteria",
+  "guidelineId": "esc-hf-2026",
+  "number": "15",
+  "type": "grid",
+  "title": {
+    "en": "Criteria for high risk of advanced heart failure",
+    "ru": "Критерии высокого риска терминальной (тяжелой) сердечной недостаточности"
+  },
+  "tags": [
+    "advanced-hf",
+    "high-risk",
+    "rule-of-three",
+    "i-need-help",
+    "inotropes",
+    "diuretic-resistance",
+    "hfh",
+    "defibrillator-shocks",
+    "triage"
+  ],
+  "source": {
+    "expectedRows": 2
+  },
+  "i18nStatus": {
+    "ru": "reviewed"
+  },
+  "columns": [
+    {
+      "id": "tool",
+      "title": {
+        "en": "Assessment tool",
+        "ru": "Инструмент оценки"
+      }
+    },
+    {
+      "id": "criteria",
+      "title": {
+        "en": "High risk criteria",
+        "ru": "Критерии высокого риска"
+      }
+    }
+  ],
+  "rows": [
+    {
+      "id": "r01-rule-of-three",
+      "cells": [
+        {
+          "text": {
+            "en": "**Rule of three criteria**\n*(at least 1)*",
+            "ru": "**«Правило трех»**\n*(наличие хотя бы 1 признака)*"
+          },
+          "tone": "yellow"
+        },
+        {
+          "text": {
+            "en": "• HFH (≥2 or ≥1 requiring inotropes within the last year)\n• Diuretic resistance\n• Intolerance to neurohormonal drugs with onset of cardiorenal syndrome",
+            "ru": "• Госпитализации по поводу СН (≥2 или ≥1 с потребностью в инотропах за последний год)\n• Диуретикорезистентность\n• Непереносимость нейрогормональных препаратов с развитием кардиоренального синдрома"
+          }
+        }
+      ]
+    },
+    {
+      "id": "r02-i-need-help",
+      "cells": [
+        {
+          "text": {
+            "en": "**I NEED HELP criteria**\n*(at least 1)*",
+            "ru": "**Критерии акронима I NEED HELP**\n*(наличие хотя бы 1 признака)*"
+          },
+          "tone": "red"
+        },
+        {
+          "text": {
+            "en": "• **I** — Inotropes\n• **N** — NYHA class III/IV or persistently high natriuretic peptides\n• **E** — End-organ dysfunction (liver, kidney)\n• **E** — EF <20% or poor RV function\n• **D** — Defibrillator shocks\n• **H** — HFH >1\n• **E** — Escalating diuretics\n• **L** — Low blood pressure, high heart rate\n• **P** — Prognostic medication intolerance or the need to downtitrate",
+            "ru": "• **I** (Inotropes) — Инотропы\n• **N** (NYHA) — III/IV ФК по NYHA или стойко повышенные натрийуретические пептиды\n• **E** (End-organ) — Дисфункция органов-мишеней (печень, почки)\n• **E** (EF) — ФВ <20% или тяжелая дисфункция правого желудочка\n• **D** (Defibrillator) — Срабатывания (разряды) дефибриллятора\n• **H** (HFH) — Госпитализации по поводу СН (>1)\n• **E** (Escalating) — Эскалация (повышение) доз диуретиков\n• **L** (Low BP) — Низкое артериальное давление, высокая ЧСС\n• **P** (Prognostic meds) — Непереносимость прогностической медикаментозной терапии или необходимость снижения доз"
+          }
+        }
+      ]
+    }
+  ]
+}

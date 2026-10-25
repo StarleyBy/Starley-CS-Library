@@ -1,0 +1,352 @@
+<details class="med-details"><summary>
+
+## 8. Pregnancy in Patients With Aortopathy</summary><div class="details-content">
+
+Pregnancy carries significant hemodynamic and hormonal stress that markedly increases the risk of aortic dissection or rapid aneurysm enlargement in women with aortopathies. Peak vulnerability occurs during the third trimester and early postpartum period:
+
+### 8.1 Pre-Pregnancy Counseling, Genetic Evaluation, and Medical Management
+* **Multidisciplinary Pregnancy Heart Team (Class 1, Level of Evidence C-EO):** Care should be coordinated by a specialized team including maternal-fetal medicine obstetricians, cardiologists, cardiac/vascular surgeons, and anesthesiologists.
+* **Preconceptional Imaging and Counseling:** Complete imaging of the thoracic and abdominal aorta by echocardiography and MRA (or CTA) is recommended prior to conception.
+* **Teratogenic Medication Discontinuation:** Renin-angiotensin system inhibitors (ACE inhibitors, ARBs, ARNI) are strictly contraindicated and must be discontinued before conception.
+* **Beta-Blocker Continuation (Class 1, Level B-NR):** Beta-blockers (metoprolol, labetalol) should be continued throughout pregnancy and the postpartum period in women with Marfan, Loeys-Dietz, or other thoracic aortopathies to mitigate dissection risk.
+
+
+
+### Recommendation Table 67 — Recommendations for Counseling and Management of Aortic Disease in Pregnancy and Postpartum
+
+**Prepregnancy**
+
+| Recommendations | Class | Level |
+|---|:---:|:---:|
+| In patients with genetic aortopathies attributable to syndromic (Marfan syndrome, Loeys-Dietz syndrome, vascular Ehlers-Danlos syndrome) and nsHTAD and who are contemplating pregnancy, genetic counseling before pregnancy to discuss the heritable nature of their condition is recommended. | **I** | **C-LD** |
+| In patients with syndromic and nsHTAD, Turner syndrome, BAV with aortic dilation, and other aortopathy conditions, aortic imaging (with TTE, MRI or CT, or both as appropriate) before pregnancy is recommended to determine aortic diameters. | **I** | **C-LD** |
+| In patients with syndromic and nsHTAD, Turner syndrome, BAV with aortic dilation, and other aortopathy conditions, who are contemplating pregnancy, counseling about the risks of aortic dissection related to pregnancy is recommended. | **I** | **C-LD** |
+
+**During Pregnancy**
+
+| Recommendations | Class | Level |
+|---|:---:|:---:|
+| In patients with aortic aneurysms, or at increased risk of aortic dissection, or both, it is recommended that pregnancy be managed by a multidisciplinary team including a maternal fetal medicine specialist and cardiologist, and, if logistically feasible, that delivery be planned in a hospital where the capability for emergency aortic repair is available. | **IIa** | **C-EO** |
+| In patients with aortopathies who are pregnant, guideline-directed treatment of hypertension is recommended. | **I** | **C-LD** |
+| In patients with syndromic and nsHTAD, beta-blocker therapy during pregnancy and postpartum is recommended, unless contraindicated. | **I** | **C-EO** |
+| In pregnant patients with an aortopathic condition or a dilated aortic root or ascending aorta, surveillance TTE to monitor aortic diameters and aortic valve function is recommended each trimester and again several weeks postpartum, although imaging may be more frequent depending on aortic diameter, aortic growth rate, and underlying condition. | **I** | **C-LD** |
+| In pregnant patients with aortic disease who require surveillance imaging of the aortic arch, descending, abdominal aorta, or all 3, MRI without gadolinium is recommended over CT to avoid radiation exposure to the fetus. | **I** | **C-LD** |
+
+
+### 8.2 Mode and Management of Delivery
+* **Vaginal Delivery:** Permissible with regional/epidural anesthesia and assisted second stage in women with stable minor aortic dilation ($< 4.0\text{ cm}$ in Marfan, $< 4.5\text{ cm}$ in BAV).
+* **Cesarean Delivery (Class 1, Level of Evidence C-LD):** Recommended in women with high-risk features:
+  - Aortic root or ascending diameter **$\ge 4.0\text{ to }4.5\text{ cm}$** in Marfan syndrome
+  - Aortic diameter **$\ge 4.0\text{ cm}$** or any dilation in Loeys-Dietz syndrome
+  - Vascular Ehlers-Danlos syndrome (*COL3A1*)
+  - Aortic diameter **$\ge 4.5\text{ cm}$** in bicuspid aortic valve or non-syndromic HTAD
+  - History of chronic aortic dissection
+
+
+
+### Recommendation Table 68 — Recommendations for Delivery in Pregnant Patients With Aortopathy
+
+**Delivery in Pregnant Patients With Aortopathy**
+
+| Recommendations | Class | Level |
+|---|:---:|:---:|
+| In pregnant patients with a history of chronic aortic dissection, cesarean delivery is recommended. | **I** | **C-EO** |
+| In pregnant patients with an aortopathy and an aortic diameter of <4.0 cm, vaginal delivery (when otherwise appropriate) is recommended. | **I** | **C-EO** |
+| In pregnant patients with a diameter of the aortic root, ascending aorta, or both, of ≥4.5 cm, cesarean delivery is reasonable. | **IIa** | **C-EO** |
+| In pregnant patients with a diameter of the aortic root, ascending aorta, or both, of 4.0 cm to 4.5 cm, vaginal delivery with regional anesthesia, expedited second stage, and assisted delivery may be reasonable. | **IIb** | **C-EO** |
+| In pregnant patients with syndromic and nsHTAD, and a diameter of the aortic root, ascending aorta, or both, of 4.0 cm to 4.5 cm, cesarean delivery may be considered. | **IIb** | **C-EO** |
+
+
+### 8.3 Prophylactic Aortic Surgery Before Pregnancy
+* Prophylactic aortic root/ascending repair is recommended before pregnancy in women with:
+  - Marfan syndrome and diameter **$\ge 4.5\text{ cm}$** (or $\ge 4.0\text{ cm}$ with risk factors) (Class 1, Level B-NR).
+  - Loeys-Dietz syndrome with diameter **$\ge 4.0\text{ to }4.5\text{ cm}$** (Class 1, Level B-NR).
+  - BAV or sporadic TAA with diameter **$\ge 5.0\text{ cm}$** (Class 1, Level B-NR).
+
+
+
+#### Table 34: Prophylactic Aortic Surgery Before Pregnancy in Women With Aortopathic Conditions
+
+| Condition | Surgical Threshold Before Pregnancy by Aortic Diameter (cm) or Aortic Size Index (cm/m²) |
+|---|---|
+| Marfan syndrome | >4.5 cm |
+| Marfan syndrome with risk factors (rapid aortic growth of ≥0.3 cm/y; family history of aortic dissection) | 4.0–4.5 cm |
+| Loeys-Dietz syndrome (attributable to pathogenic variants in *TGFBR1*, *TGFBR2*, or *SMAD3*) | ≥4.0 cm |
+| Loeys-Dietz syndrome (attributable to pathogenic variants in *TGFB2* or *TGFB3*) | ≥4.5 cm |
+| Nonsyndromic heritable thoracic aortic disease | ≥4.5 cm |
+| Turner syndrome | ≥2.5 cm/m² |
+| Bicuspid aortic valve | ≥5.0 cm |
+
+
+### Recommendation Table 69 — Recommendations for Surgery Before Pregnancy in Women With Aortic Disease
+
+**Surgery Before Pregnancy in Women With Aortic Disease**
+
+| Recommendations | Class | Level |
+|---|:---:|:---:|
+| In patients with Marfan syndrome and an aortic root diameter of >4.5 cm, aortic surgery before pregnancy is recommended. | **I** | **C-LD** |
+| If the aortic root diameter is 4.0 cm to 4.5 cm, aortic surgery before pregnancy may be considered, especially if there are risk factors for aortic dissection (ie, rapid aortic growth of ≥0.3 cm/y or a family history of aortic dissection). | **IIb** | **C-LD** |
+| In patients with Loeys-Dietz syndrome attributable to pathogenic variants in TGFB2 or TGFB3 and an aortic diameter of ≥4.5 cm, surgery before pregnancy is reasonable. | **IIa** | **C-EO** |
+| If the Loeys-Dietz syndrome is attributable to pathogenic variants in TGFBR1, TGFBR2, or SMAD3, and the aortic diameter is ≥4.0 cm, surgery before pregnancy may be considered. | **IIb** | **C-EO** |
+| In patients with nsHTAD and an aortic diameter of ≥4.5 cm, surgery before pregnancy is recommended. | **I** | **C-EO** |
+| If the aortic diameter is 4.0 cm to 4.4 cm, surgery before pregnancy may be considered, depending on the molecular diagnosis, family history, and aortic growth rate. | **IIb** | **C-EO** |
+| In patients with Turner syndrome and ASI of ≥2.5 cm/m2, surgery before pregnancy is recommended. | **I** | **C-LD** |
+| In patients with a BAV (in the absence of Turner syndrome or an HTAD) and an aortic diameter of ≥5.0 cm, surgery before pregnancy is recommended. | **I** | **C-EO** |
+| In patients with sporadic aortic root aneurysms, ascending aortic aneurysms, or both and a diameter of ≥5.0 cm, surgery before pregnancy is recommended. | **I** | **C-EO** |
+
+
+### 8.4 Acute Aortic Dissection and Surgery During Pregnancy
+* **Acute Type A Dissection:** Emergent surgical repair is mandatory regardless of gestational age.
+  - At gestational age **$< 28$ weeks:** Urgent maternal aortic repair with fetal monitoring and maintenance of normothermic, high-flow CPB without delivery.
+  - At gestational age **$\ge 28$ weeks:** Primary emergency cesarean delivery followed immediately by maternal aortic repair during the same operative session.
+
+
+
+### Recommendation Table 70 — Recommendations for Pregnancy in Patients With Aortopathy: Aortic Dissection and Aortic Surgery in Pregnancy
+
+**Aortic Dissection and Aortic Surgery in Pregnancy**
+
+| Recommendations | Class | Level |
+|---|:---:|:---:|
+| In patients experiencing an acute type A aortic dissection during the first or second trimester of pregnancy, urgent aortic surgery with fetal monitoring is recommended. | **I** | **C-LD** |
+| In patients experiencing an acute type A aortic dissection during the third trimester of pregnancy, urgent cesarean delivery immediately followed by aortic surgery is recommended. | **I** | **C-LD** |
+| In patients experiencing an acute type B aortic dissection during pregnancy, medical therapy is recommended, unless endovascular or surgical therapy is required to manage acute complications. | **I** | **C-EO** |
+| In patients with progressive aortic dilation during pregnancy, prophylactic aortic surgery may be considered, depending on individual circumstances. | **IIb** | **C-EO** |
+
+
+</div></details>
+
+<details class="med-details"><summary>
+
+## 9. Other Aortic Conditions</summary><div class="details-content">
+
+### 9.1 Inflammatory Aortitis (Takayasu Arteritis and Giant Cell Arteritis)
+Large-vessel vasculitides cause transmural granulomatous inflammation leading to stenosis, occlusion, aneurysm formation, and dissection:
+* **Takayasu Arteritis:** Predominantly affects young women ($< 40$ years), frequently involving the subclavian, carotid, and renal arteries and descending aorta.
+* **Giant Cell Arteritis (GCA):** Affects individuals $> 50$ years, involving the cranial branches, thoracic aorta, and arch vessels.
+* **Medical Therapy (Class 1, Level of Evidence A):** High-dose systemic glucocorticoids (prednisone $1\text{ mg/kg/day}$) are the cornerstone of induction therapy, combined with steroid-sparing agents (tocilizumab, methotrexate) for maintenance.
+* **Revascularization Principles (Class 1, Level B-NR):** Elective surgical or endovascular revascularization should be delayed until complete clinical and serologic remission of vascular inflammation is achieved to prevent restenosis, anastomotic dehiscence, and graft failure.
+
+![Figure 25: EULAR Recommendations for Imaging and Management in Takayasu Arteritis](images/fig25_eular_takayasu_arteritis.jpg)
+
+![Figure 26: EULAR Recommendations for Imaging and Management in Giant Cell Arteritis](images/fig26_eular_giant_cell_arteritis.jpg)
+
+
+
+#### Table 35: Diagnostic Criteria for Inflammatory Aortitis
+
+| Names | Criteria Used in Diagnosis | When Is Diagnosis Established? |
+|---|---|---|
+| Takayasu arteritis | • Age of onset <40 y<br>• Intermittent claudication<br>• Diminished brachial artery pulse<br>• Subclavian artery or aortic bruit<br>• Systolic BP variation of >10 mm Hg between arms<br>• Aortographic evidence of aorta or aortic branch stenosis | ≥3 criteria are present (sensitivity 90.5%; specificity 97.8%) |
+| Giant cell arteritis | • Age >50 y<br>• Recent-onset localized headache<br>• Temporal artery tenderness or pulse attenuation<br>• Elevated erythrocyte sedimentation rate >50 mm/h<br>• Arterial biopsy shows necrotizing vasculitis | ≥3 criteria are present (sensitivity >90%; specificity >90%) |
+
+
+### Recommendation Table 71 — Recommendations for Inflammatory Aortitis: Diagnosis and Treatment of Takayasu Arteritis and GCA
+
+**Diagnosis**
+
+| Recommendations | Class | Level |
+|---|:---:|:---:|
+| In patients with large vessel vasculitis (LVV), prompt evaluation of the entire aorta and branch vessels with MRI or CT, with or without 18F-FDG positron emission tomography (FDG-PET), is recommended. | **I** | **C-LD** |
+
+**Treatment**
+
+| Recommendations | Class | Level |
+|---|:---:|:---:|
+| In patients with active GCA or Takayasu arteritis, initial medical therapy should include high-dose glucocorticoids. | **I** | **B-NR** |
+| In patients with GCA who have evidence of active aortitis, tocilizumab is recommended as adjunctive therapy to glucocorticoids, with methotrexate as an alternative. | **I** | **B-R** |
+| In all patients with Takayasu arteritis, non-biological disease-modifying anti-rheumatic drugs (DMARD) should be given in combination with glucocorticoids. | **I** | **C-LD** |
+| In patients with active GCA or Takayasu arteritis, treatment efficacy should be periodically assessed by monitoring inflammatory serum markers (C-reactive protein and erythrocyte sedimentation rate), imaging with CT, MRI, or FDG-PET, and clinical symptoms. | **I** | **C-LD** |
+| In patients with GCA or Takayasu arteritis who are in remission, elective endovascular or open surgical intervention is reasonable to treat aortic and branch vessel complications. | **IIa** | **C-LD** |
+| In patients with GCA or Takayasu arteritis and aortic involvement who are in remission, annual surveillance imaging with CT, MRI, or FDG-PET is reasonable. | **IIa** | **C-EO** |
+
+
+### 9.2 Infectious Aortitis
+* **Native Aorta Infection (Mycotic Aneurysm):** Arises from hematogenous bacteremic seeding of atheromatous plaque or septic embolization (*Staphylococcus aureus*, *Salmonella*, *Streptococcus* species). Rapid aneurysm expansion and rupture risk require prompt radical surgical debridement and reconstruction with cryopreserved arterial allograft, autologous superficial femoral vein graft, or rifampin-soaked polyester graft with prolonged targeted IV antibiotic therapy.
+* **Prosthetic Aortic Graft Infection (PAGI):** Life-threatening complication diagnosed by contrast CTA and functional molecular imaging ($^{18}\text{F}$-FDG PET-CT or tagged white blood cell SPECT-CT). Complete graft excision with in situ or extra-anatomic reconstruction is preferred; endovascular stent-grafting is strictly reserved as an emergency bridge in unstable, exsanguinating patients.
+
+
+
+#### Table 36: Management of Aortic Mycotic Aneurysm: Comparison of Resection and Extra-Anatomic Reconstruction, In Situ Reconstruction, or Endovascular Device Repair
+
+| Procedure | Potential Indications | Advantages | Disadvantages |
+|---|---|---|---|
+| Extra-anatomic reconstruction | Infrarenal location with gross purulence, psoas or retroperitoneal abscess, vertebral osteomyelitis, inadequate response to antibiotic therapy, selected aortoenteric fistulae | Avoids placement of foreign body in infected area | • Not technically feasible for thoracic, suprarenal, or visceral location or for emergency use<br>• Long operating time<br>• Long-term patency rates low<br>• Stump blowout<br>• Limb ischemia, amputation<br>• Reinfection rate higher than for in situ reconstruction<br>• Ischemic colitis |
+| In situ reconstruction | • Thoracic, suprarenal, infrarenal, or visceral location<br>• Selected aortoenteric fistulae | • More versatile than extra-anatomic: fewer long-term complications, higher patency rates, lower recurrent infection rate, shorter operating time<br>• Polyester grafts available for emergency surgery | Theoretical risk of infection because of interposition of foreign material in infected site |
+| Endovascular device repair | Bridge procedure: hemodynamic instability, uncontrolled bleeding, rupture or impending rupture, selected patients with aortoenteric fistulae, patients who are not fit for open surgery | • Emergency stabilization<br>• Low early morbidity, mortality<br>• Less invasive<br>• No cross-clamping of aorta: spinal cord injury, reperfusion injury | • Persistent infections and device infections<br>• Higher long-term morbidity, mortality with device retention<br>• Requires device explantation, reconstruction |
+
+
+### Recommendation Table 72 — Recommendations for Diagnosis and Management of Infection of the Native Aorta
+
+**Diagnosis and Management of Infection of the Native Aorta**
+
+| Recommendations | Class | Level |
+|---|:---:|:---:|
+| In patients with infectious aortitis and associated aneurysms or dissection of the thoracic or abdominal aorta, open surgical repair is recommended. | **I** | **C-EO** |
+| In select patients, treatment with endovascular repair may be considered. | **IIb** | **C-LD** |
+| In patients with infectious aortitis complicated by rupture, either open or endovascular repair is reasonable, based on the patient's status at presentation and institutional expertise. | **IIa** | **C-EO** |
+| In patients with infectious aortitis, intravenous antimicrobial therapy of at least 6 weeks' duration may be considered, with lifelong suppressive therapy in select cases not amenable to interventional repair or who have recurrent infection. | **IIb** | **C-EO** |
+
+
+### Recommendation Table 73 — Recommendations for Diagnosis and Management of Prosthetic Aortic Graft Infection
+
+**Diagnosis**
+
+| Recommendations | Class | Level |
+|---|:---:|:---:|
+| In patients with a prosthetic aortic graft, who have signs and symptoms or culture evidence of unexplained infection or have unexplained gastrointestinal bleeding, cross-sectional imaging is reasonable to evaluate for an underlying aortic graft infection. | **IIa** | **B-NR** |
+
+**Treatment**
+
+| Recommendations | Class | Level |
+|---|:---:|:---:|
+| In patients with an infected prosthetic aortic graft who are hemodynamically stable and have appropriate anatomy, it is reasonable to perform open surgery with either in situ reconstruction or extra-anatomic bypass. | **IIa** | **B-NR** |
+| In patients with an infected prosthetic aortic graft who are hemodynamically unstable, it is reasonable to perform open surgery with either explant or in situ reconstruction. | **IIa** | **B-NR** |
+| In patients with an infected prosthetic aortic graft, endovascular therapy is reasonable, either as bridge therapy in those with hemodynamic instability or as long-term therapy in those who are unsuitable candidates for open surgery. | **IIa** | **C-LD** |
+
+**Late Management**
+
+| Recommendations | Class | Level |
+|---|:---:|:---:|
+| In patients who have undergone treatment of an acute prosthetic aortic graft infection, targeted intravenous antimicrobial therapy of at least 6 weeks' duration, with prolonged suppressive oral therapy in select cases, plus a consultation and follow-up with an infectious disease specialist, is recommended. | **I** | **C-LD** |
+| In patients with an infected prosthetic aortic graft and either an extensive perigraft abscess or an infection caused by methicillin-resistant *S. aureus*, *Pseudomonas aeruginosa*, or a multidrug-resistant microorganism, or who have undergone in situ reconstruction, lifelong suppressive oral antimicrobial therapy may be considered after the initial course of therapy. | **IIb** | **C-LD** |
+
+
+### 9.3 Atherosclerotic Disease: Aortic Thrombus, Occlusion, and Porcelain Aorta
+* **Mobile / Protruding Aortic Thrombus:** Source of systemic and peripheral atheroembolism; managed with systemic anticoagulation, antiplatelet therapy, and statins, with surgical or endovascular thrombectomy for recurrent emboli.
+* **Porcelain Aorta:** Circumferential heavy transmural calcification of the ascending aorta precluding safe cross-clamping or cannulation during cardiac surgery. Requires hypothermic circulatory arrest, "no-touch" techniques, or alternative cannulation sites (femoral, axillary).
+
+
+
+### Recommendation Table 74 — Recommendations for Atherosclerotic Disease
+
+**Atherosclerotic Disease**
+
+| Recommendations | Class | Level |
+|---|:---:|:---:|
+| In patients with aortic atherosclerotic disease and concomitant coronary artery disease, PAD or both, it is recommended to prescribe antiplatelet therapy, anticoagulant therapy or both, guided by the clinical setting. | **I** | **C-LD** |
+| In patients with aortic atherosclerotic disease and risk factors for confirmed coronary artery disease, it is reasonable to prescribe a moderate- or high-intensity statin. | **IIa** | **C-LD** |
+| In patients with aortic atheromas of a thickness ≥4 mm, statin therapy may be reasonable. | **IIb** | **C-LD** |
+
+
+### 9.4 Coarctation of the Aorta (CoA) and Arch Abnormalities
+
+#### 9.4.1 Coarctation of the Aorta (CoA)
+* **Intervention Indications (Class 1, Level of Evidence B-NR):** Significant native or recurrent coarctation with peak-to-peak trans-coarctation pressure gradient **$\ge 20\text{ mm Hg}$** (or $< 20\text{ mm Hg}$ with extensive collateralization or severe LV hypertrophy/hypertension).
+* **Catheter Intervention:** Transcatheter stent placement (covered or bare-metal stents) is preferred over open surgery in adolescents and adult patients (Class 1, Level B-NR).
+
+
+
+#### Table 37: Criteria for Significant CoA
+
+| Criteria for Significant CoA |
+|---|
+| The presence of significant CoA is based on evidence of upper extremity hypertension (at rest, on ambulatory BP monitoring, or with pathologic blood pressure response to exercise) or left ventricular hypertrophy and evidence for 1 of these gradient measurements: |
+| 1. A noninvasive blood pressure difference of >20 mm Hg between the upper and lower extremities |
+| 2. A peak-to-peak gradient of >20 mm Hg across the coarct by catheterization; or a peak-to-peak gradient of >10 mm Hg across the coarct by catheterization in the setting of decreased left ventricular systolic function or significant collateral flow |
+| 3. A mean gradient of >20 mm Hg across the coarct by Doppler echocardiography; or a mean gradient of >10 mm Hg across the coarct by Doppler echocardiography in the setting of decreased left ventricular systolic function or significant collateral flow |
+
+
+### Recommendation Table 75 — Recommendations for CoA
+
+**Coarctation of the Aorta**
+
+| Recommendations | Class | Level |
+|---|:---:|:---:|
+| In patients with CoA, including those who have undergone surgical or endovascular intervention, an MRI or CT is recommended for initial, surveillance, and follow-up aortic imaging. | **I** | **B-NR** |
+| In patients with CoA, BPs should be measured in both arms and one of the lower extremities. | **I** | **C-EO** |
+| In patients with significant native or recurrent CoA (Table 37) and hypertension, endovascular stenting or open surgical repair of the coarctation is recommended. | **I** | **B-NR** |
+| In patients with CoA, guideline-directed medical therapy is recommended for the treatment of hypertension. | **I** | **C-EO** |
+| In adult patients with CoA, screening for intracranial aneurysms by MRI or CT may be reasonable. | **IIb** | **B-NR** |
+
+
+#### 9.4.2 Congenital Arch Branch Abnormalities
+* **Aberrant Right Subclavian Artery (ARSA / Arteria Lusoria) and Kommerell Diverticulum:** ARSA originates as the last branch of a left-sided arch, crossing behind the esophagus and potentially causing dysphagia lusoria. Kommerell diverticulum represents dilation of the originating aortic wall:
+  - Surgical repair is indicated for symptomatic compression or diverticulum base diameter **$\ge 30\text{ mm}$** or orifice-to-diverticulum-wall depth **$\ge 50\text{ mm}$** (Class 1, Level B-NR).
+* **Aberrant Left Vertebral Artery:** Direct arch origin occurring in 5% of individuals; must be preserved or revascularized during Zone 2 TEVAR to prevent cerebellar/brainstem infarction.
+* **Bovine Aortic Arch:** Common innominate and left common carotid artery origin (common trunk) present in up to 20% of the general population; technical implications for endovascular branch navigation and cannulation.
+
+![Figure 27: Measurements and Anatomy of Kommerell Diverticulum](images/fig27_measurements_kommerell_diverticulum.jpg)
+
+![Figure 28: Normal Versus Bovine Aortic Arch Configurations](images/fig28_normal_bovine_aortic_arch.jpg)
+
+
+
+### Recommendation Table 76 — Recommendations for Aberrant Subclavian Artery, Kommerell's Diverticulum
+
+**Aberrant Subclavian Artery, Kommerell's Diverticulum**
+
+| Recommendations | Class | Level |
+|---|:---:|:---:|
+| In patients discovered to have an ASCA in the absence of thoracic aortic imaging, dedicated imaging to assess for TAA is reasonable. | **IIa** | **C-LD** |
+| In patients with Kommerell's diverticulum, depending on patient anatomy and comorbidities, repair may be reasonable when the diverticulum orifice is >3.0 cm, the combined diameter of the diverticulum and adjacent descending aorta is >5.0 cm, or both (Figure 27). | **IIb** | **C-LD** |
+
+
+### Recommendation Table 77 — Recommendation for Aberrant Left Vertebral Artery Origin
+
+**Aberrant Left Vertebral Artery Origin**
+
+| Recommendations | Class | Level |
+|---|:---:|:---:|
+| In patients with an aberrant left vertebral artery origin arising directly from the thoracic aorta who require aortic repair involving reconstruction or coverage of the vertebral artery origin, revascularization of the vertebral artery is reasonable. | **IIa** | **C-EO** |
+
+
+### Recommendation Table 78 — Recommendation for Bovine Arch (Common Innominate and Left Carotid Artery)
+
+**Bovine Arch (Common Innominate and Left Carotid Artery)**
+
+| Recommendations | Class | Level |
+|---|:---:|:---:|
+| In patients with bovine arch (common innominate and left carotid artery), imaging to assess for TAA may be reasonable. | **IIb** | **C-LD** |
+
+
+</div></details>
+
+<details class="med-details"><summary>
+
+## 10. Physical Activity and Quality of Life</summary><div class="details-content">
+
+### 10.1 Exercise Prescription and Lifestyle Recommendations
+* **Isometric Straining Avoidance:** Heavy competitive weightlifting, intense isometric resistance exercises, and activities requiring prolonged Valsalva maneuvers (which elevate systolic BP acutely to $> 300\text{ mm Hg}$) are discouraged in patients with aortic aneurysms or prior dissection.
+* **Aerobic Exercise Encouraged (Class 1, Level of Evidence B-NR):** Moderate-intensity dynamic aerobic physical activity ($30\text{ to }60\text{ minutes}$, $\ge 3\text{ to }5\text{ days/week}$) is recommended to promote cardiovascular fitness, blood pressure control, and overall well-being.
+* **Cardiac Rehabilitation (Class 2a, Level B-NR):** Supervised exercise-based cardiac rehabilitation is reasonable after acute aortic dissection or aortic surgery to facilitate safe functional recovery and psychological reintegration.
+
+
+
+### Recommendation Table 79 — Recommendations for Physical Activity and Quality of Life
+
+**Physical Activity and Quality of Life**
+
+| Recommendations | Class | Level |
+|---|:---:|:---:|
+| For patients with significant aortic disease, education and guidance should be provided about avoiding intense isometric exercises (eg, heavy weightlifting or activities requiring the Valsalva maneuver), burst exertion and activities, and collision sports. | **I** | **C-EO** |
+| For patients who have undergone surgery for aortic aneurysm or dissection, postoperative cardiac rehabilitation is recommended. | **I** | **C-EO** |
+| In patients with thoracic or abdominal aortic aneurysms whose BP is adequately controlled, it is reasonable to encourage 30 to 60 minutes of mild-to-moderate intensity aerobic activity at least 3 to 4 days per week. | **IIa** | **C-LD** |
+| For patients with clinically significant aortic disease, it is reasonable to screen for anxiety, depression, and posttraumatic stress disorder and, when indicated, provide resources for support; it is also reasonable to provide education and resources to minimize patients' concerns, support optimal decision-making, and enhance quality of life. | **IIa** | **C-LD** |
+
+
+</div></details>
+
+<details class="med-details"><summary>
+
+## 11. Cost and Value Considerations in Aortic Disease</summary><div class="details-content">
+
+* Ultrasound screening for AAA in 65-year-old men with a smoking history is highly cost-effective, with an incremental cost-effectiveness ratio (ICER) well below accepted societal willingness-to-pay thresholds ($< \$50,000\text{ per QALY}$ gained).
+* Centralization of elective complex aortic surgical and endovascular care in high-volume Multidisciplinary Aortic Centers reduces perioperative failure-to-rescue rates, reoperation costs, and overall health resource consumption.
+* Routine multi-gene panel testing in young patients ($< 60$ years) with thoracic aortic disease demonstrates favorable long-term cost-effectiveness by identifying at-risk relatives early through cascade screening, preventing catastrophic unheralded dissections and emergency repairs.
+
+</div></details>
+
+<details class="med-details"><summary>
+
+## 12. Evidence Gaps and Future Directions</summary><div class="details-content">
+
+Key priorities for future research in aortic medicine and surgery include:
+1. **Biomarker Discovery:** Identification of specific circulating RNA, extracellular matrix degradation products, or proteomic signatures that predict rapid aneurysm expansion or impending rupture before structural failure occurs.
+2. **Genomic Architecture:** Unraveling novel genetic variants and polygenic risk scores contributing to non-syndromic familial thoracic and abdominal aortic aneurysms.
+3. **Advanced Aortic Biomechanics & CFD:** Transitioning beyond simple maximal diameter to four-dimensional flow MRI and computational fluid dynamics (CFD) modeling of wall shear stress, wall thickness, and cyclic strain to personalize intervention thresholds.
+4. **Sex and Racial Disparities:** Investigating biological and structural reasons why women with aortic dissection present later, have smaller absolute diameters at rupture, and suffer higher perioperative mortality than men.
+5. **Next-Generation Endovascular Technology:** Development of off-the-shelf branched and fenestrated endografts for the aortic arch and thoracoabdominal aorta with lower spinal cord ischemia and stroke risks.
+6. **Cardioprotective and Anti-Degenerative Pharmacotherapies:** Conducting dedicated clinical trials investigating novel molecular targets (e.g., matrix metalloproteinase inhibition, TGF-$\beta$ modulators, SGLT2 inhibitors) to halt or reverse aortic wall degeneration.
+
+</div></details>

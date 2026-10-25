@@ -1,4 +1,4 @@
-# Экспертный консенсусный документ Американской ассоциации торакальной хирургии (AATS) 2021 года: хирургическое лечение острого расслоения аорты типа А
+# 🩸 Хирургическое лечение <span class="luminous-red">острого расслоения аорты типа А</span> (<span class="luminous-blue">AATS</span> <span class="luminous-amber">2021</span>)
 
 ##### S. Christopher Malaisrie, MD, Wilson Y. Szeto, MD, Monika Halas, MD, Leonard N. Girardi, MD, Joseph S. Coselli, MD, Thoralf M. Sundt III, MD, Edward P. Chen, MD, Michael P. Fischbein, MD, PhD, Thomas G. Gleason, MD, Yutaka Okita, MD, Maral Ouzounian, MD, PhD, Himanshu J. Patel, MD, Eric E. Roselli, MD, Malakh L. Shrestha, MD, PhD, Lars G. Svensson, MD, PhD, Marc R. Moon, MD; Комитет AATS по стандартам клинической практики: кардиохирургия взрослых.
 

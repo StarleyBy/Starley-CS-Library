@@ -1,0 +1,117 @@
+import json
+
+metadata = [
+  {
+    "title": "The EACVI Echo Handbook",
+    "russian_title": "Руководство по эхокардиографии EACVI",
+    "cover_image": "cover.jpg",
+    "category": [
+      "echo",
+      "cardiac echo"
+    ],
+    "authors": [
+      "Patrizio Lancellotti, MD, PhD",
+      "Bernard Cosyns, MD, PhD"
+    ],
+    "magazine": False,
+    "quiz": False,
+    "versions": {
+      "original": True,
+      "russian": True,
+      "starley": False,
+      "hebrew": False
+    },
+    "chapters": [
+      {
+        "file": "chapter-01.md",
+        "title": "⚙️ <span class=\"luminous-cyan\">1. Examination & Echo Machine Setup</span>",
+        "russian": "⚙️ <span class=\"luminous-cyan\">1. Настройка аппарата и проведение исследования</span>"
+      },
+      {
+        "file": "chapter-02.md",
+        "title": "🔊 <span class=\"luminous-blue\">2. Standard Transthoracic Examination</span> (<span class=\"luminous-purple\">TTE</span>)",
+        "russian": "🔊 <span class=\"luminous-blue\">2. Стандартное трансторакальное исследование</span> (<span class=\"luminous-purple\">ТТЭхоКГ</span>)"
+      },
+      {
+        "file": "chapter-03.md",
+        "title": "🔍 <span class=\"luminous-purple\">3. Standard Transoesophageal Examination</span> (<span class=\"luminous-purple\">TOE</span>)",
+        "russian": "🔍 <span class=\"luminous-purple\">3. Стандартное чреспищеводное исследование</span> (<span class=\"luminous-purple\">ЧПЭхоКГ</span>)"
+      },
+      {
+        "file": "chapter-04.md",
+        "title": "💓 <span class=\"luminous-green\">4. Left Ventricular Systolic Function</span>",
+        "russian": "💓 <span class=\"luminous-green\">4. Систолическая функция левого желудочка</span>"
+      },
+      {
+        "file": "chapter-05.md",
+        "title": "🌊 <span class=\"luminous-amber\">5. Diastolic Function Assessment</span>",
+        "russian": "🌊 <span class=\"luminous-amber\">5. Оценка диастолической функции</span>"
+      },
+      {
+        "file": "chapter-06.md",
+        "title": "🩸 <span class=\"luminous-red\">6. Ischaemic Cardiac Disease</span> (<span class=\"luminous-red\">ICD</span> & <span class=\"luminous-red\">AMI</span>)",
+        "russian": "🩸 <span class=\"luminous-red\">6. Ишемическая болезнь сердца</span> (<span class=\"luminous-red\">ИБС</span> и <span class=\"luminous-red\">ОИМ</span>)"
+      },
+      {
+        "file": "chapter-07.md",
+        "title": "🫀 <span class=\"luminous-purple\">7. Heart Valve Disease & Prostheses</span>",
+        "russian": "🫀 <span class=\"luminous-purple\">7. Клапанные пороки сердца и протезы</span>"
+      },
+      {
+        "file": "chapter-08.md",
+        "title": "🧩 <span class=\"luminous-amber\">8. Cardiomyopathies</span> (<span class=\"luminous-cyan\">HCM, DCM, ARVC, LVNC</span>)",
+        "russian": "🧩 <span class=\"luminous-amber\">8. Кардиомиопатии</span> (<span class=\"luminous-cyan\">ГКМП, ДКМП, АРВК, НКЛЖ</span>)"
+      },
+      {
+        "file": "chapter-09.md",
+        "title": "🫁 <span class=\"luminous-blue\">9. Right Heart Function & Pulmonary Pressures</span>",
+        "russian": "🫁 <span class=\"luminous-blue\">9. Функция правого сердца и давление в легочной артерии</span>"
+      },
+      {
+        "file": "chapter-10.md",
+        "title": "🛡️ <span class=\"luminous-green\">10. Pericardial Disease</span> (<span class=\"luminous-green\">Effusion & Constriction</span>)",
+        "russian": "🛡️ <span class=\"luminous-green\">10. Заболевания перикарда</span> (<span class=\"luminous-green\">Выпот и констрикция</span>)"
+      },
+      {
+        "file": "chapter-11.md",
+        "title": "🔀 <span class=\"luminous-purple\">11. Cardiac Transplants</span>",
+        "russian": "🔀 <span class=\"luminous-purple\">11. Трансплантация сердца</span>"
+      },
+      {
+        "file": "chapter-12.md",
+        "title": "🚨 <span class=\"luminous-red\">12. Critically Ill Patients</span> (<span class=\"luminous-red\">ICU Echo</span>)",
+        "russian": "🚨 <span class=\"luminous-red\">12. Пациенты в критических состояниях</span> (<span class=\"luminous-red\">ЭхоКГ в ОРИТ</span>)"
+      },
+      {
+        "file": "chapter-13.md",
+        "title": "🌱 <span class=\"luminous-cyan\">13. Adult Congenital Heart Disease</span> (<span class=\"luminous-cyan\">ACHD</span>)",
+        "russian": "🌱 <span class=\"luminous-cyan\">13. Врожденные пороки сердца у взрослых</span> (<span class=\"luminous-cyan\">ВПС</span>)"
+      },
+      {
+        "file": "chapter-14.md",
+        "title": "🎯 <span class=\"luminous-amber\">14. Cardiac Sources of Embolism & Masses</span>",
+        "russian": "🎯 <span class=\"luminous-amber\">14. Источники эмболии и объемные образования сердца</span>"
+      },
+      {
+        "file": "chapter-15.md",
+        "title": "🏹 <span class=\"luminous-red\">15. Diseases of the Aorta</span> (<span class=\"luminous-red\">AAS & Aneurysms</span>)",
+        "russian": "🏹 <span class=\"luminous-red\">15. Заболевания аорты</span> (<span class=\"luminous-red\">ОАС и аневризмы</span>)"
+      },
+      {
+        "file": "chapter-16.md",
+        "title": "🏃 <span class=\"luminous-green\">16. Stress Echocardiography</span>",
+        "russian": "🏃 <span class=\"luminous-green\">16. Стресс-эхокардиография</span>"
+      },
+      {
+        "file": "chapter-17.md",
+        "title": "🌐 <span class=\"luminous-cyan\">17. Systemic Disease, Athlete's Heart & Pregnancy</span>",
+        "russian": "🌐 <span class=\"luminous-cyan\">17. Системные заболевания, сердце спортсмена и беременность</span>"
+      }
+    ]
+  }
+]
+
+out_path = r'd:\IT sandbox\Starley-CS-Library\books\cardiac-echo\eacvi-echo-handbook\metadata.json'
+with open(out_path, 'w', encoding='utf-8') as f:
+    json.dump(metadata, f, indent=2, ensure_ascii=False)
+print('metadata.json written successfully!')

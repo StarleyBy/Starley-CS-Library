@@ -1,4 +1,4 @@
-# Клиническое практическое руководство Общества сосудистой хирургии по **лечению тупой травмы грудной аорты**: целенаправленное обновление
+# 🚑 <span class="luminous-red">Тупая травма грудной аорты</span> (<span class="luminous-blue">SVS</span> <span class="luminous-amber">2024</span>)
 
 <details class="med-details"><summary>
 

@@ -1,0 +1,350 @@
+=== Page 3 ===
+Table of contents 
+1. Preamble ..................................................................................... 5352 
+2. Introduction ................................................................................ 5354 
+2.1. What is new ........................................................................ 5356 
+3. Definition, epidemiology, and classifications ...................... 5360 
+3.1. Definition of heart failure ................................................ 5360 
+3.2. Epidemiology of heart failure ......................................... 5360 
+3.2.1. Epidemiology of heart failure phenotypes ........... 5361 
+3.2.2. Natural history and prognosis ................................. 5361 
+3.3. Classifications ..................................................................... 5361 
+3.3.1. Classification based on left ventricular ejection 
+fraction ..................................................................................... 5361 
+3.3.2. Classification based on heart failure stages ......... 5362 
+3.3.3. Other classifications of heart failure ..................... 5362 
+3.3.4. Classifications of treatments in heart failure ....... 5362 
+4. Prevention of heart failure ..................................................... 5364 
+4.1. Patients at risk of heart failure (stage A heart failure) 5364 
+4.1.1. Cardiometabolic risk factors .................................... 5364 
+4.1.2. Risk scores for individuals without heart failure 5364 
+4.1.3. Lifestyle-related factors ............................................ 5364 
+4.1.3.1. Diet and physical activity .................................. 5364 
+4.1.3.2. Smoking, alcohol, and substance abuse ........ 5364 
+4.1.4. Specific populations at risk ...................................... 5365 
+4.1.4.1. Arrhythmias .......................................................... 5365 
+4.1.4.2. Myocardial infarction ......................................... 5365 
+4.1.4.3. Chronic kidney disease ...................................... 5365 
+4.1.4.4. Cancer survivors ................................................. 5365 
+4.1.4.5. Familial and genetic predisposition but no 
+overt clinical disease ......................................................... 5365 
+4.1.4.6. Pulmonary disorders and sleep-disordered 
+breathing .............................................................................. 5365 
+4.1.4.7. Endocrine disorders ........................................... 5365 
+4.1.4.8. Congenital heart disease ................................... 5365 
+4.2. Patients with stage B heart failure ................................ 5366 
+4.2.1. Asymptomatic left ventricular dysfunction ......... 5366 
+4.2.2. Valvular heart disease ............................................... 5366 
+4.3. Risk prediction in patients with established heart 
+failure ............................................................................................ 5366 
+5. Diagnosis of chronic heart failure ......................................... 5366 
+5.1. Key steps in the diagnosis of chronic heart failure ... 5366 
+5.1.1. Natriuretic peptides ................................................... 5367 
+5.1.2. Other laboratory tests .............................................. 5369 
+5.2. Heart failure phenotypes based on left ventricular 
+ejection fraction ......................................................................... 5369 
+5.2.1. Heart failure with reduced ejection fraction ....... 5369 
+5.2.2. Heart failure with preserved ejection fraction .... 5370 
+5.3. Aetiology and subtypes of heart failure ....................... 5370 
+5.3.1. Cardiac imaging in heart failure: a multimodality 
+approach .................................................................................. 5373 
+5.3.2. Investigations for coronary artery disease ........... 5374 
+5.3.3. Heart failure caused by arrhythmia or conduction 
+disease ...................................................................................... 5374 
+6. Management of chronic heart failure .................................. 5376 
+6.1. Guideline-directed medical therapy for heart failure 5376 
+6.1.1. Goals of pharmacotherapy for patients with heart 
+failure ........................................................................................ 5376 
+6.1.2. Foundational medical therapy in all patients with 
+heart failure, independent of left ventricular ejection 
+fraction ..................................................................................... 5377 
+6.1.2.1. Sodium–glucose co-transporter 2 inhibitors 5377 
+6.1.2.2. Mineralocorticoid receptor antagonists ........ 5377 
+6.1.3. Additional medical therapy in all patients with 
+heart failure, independent of left ventricular ejection 
+fraction ..................................................................................... 5377 
+6.1.3.1. Loop diuretics ...................................................... 5377 
+6.1.3.2. Potassium binders .............................................. 5377 
+6.1.4. Foundational medical therapy for heart failure with 
+reduced ejection fraction ..................................................... 5378 
+6.1.4.1. Angiotensin-converting enzyme inhibitors and 
+angiotensin receptor–neprilysin inhibitor .................... 5378 
+6.1.4.2. Angiotensin II type 1 receptor blockers ........ 5378 
+6.1.4.3. Beta-blockers ....................................................... 5379 
+6.1.5. Additional medical therapy for heart failure with 
+reduced ejection fraction ..................................................... 5379 
+6.1.5.1. If-channel inhibitor (ivabradine) ....................... 5379 
+6.1.5.2. Vericiguat .............................................................. 5379 
+6.1.5.3. Hydralazine and isosorbide dinitrate ............. 5379 
+6.1.5.4. Cardiac glycosides .............................................. 5379 
+6.1.5.5. Cardiac myosin activator .................................. 5380 
+6.1.6. The importance of uptitrating foundational 
+medical therapy and maintaining adherence in heart 
+failure with reduced ejection fraction .............................. 5380 
+6.1.7. Pharmacological therapy for heart failure with 
+preserved ejection fraction ................................................. 5380 
+6.1.7.1. Angiotensin receptor–neprilysin inhibitors .. 5380 
+6.1.8. Pharmacological treatment in heart failure with 
+improved ejection fraction .................................................. 5381 
+6.2. Guideline-directed interventional therapies for chronic 
+heart failure ................................................................................. 5383 
+6.2.1. Implantable cardioverter-defibrillators ................. 5383 
+6.2.1.1. Secondary prevention of sudden cardiac 
+death ..................................................................................... 5383 
+6.2.1.2. Primary prevention of sudden cardiac death in 
+heart failure ......................................................................... 5383 
+6.2.1.3. Patient selection for implantable cardioverter- 
+defibrillator therapy .......................................................... 5383 
+6.2.1.4. Timing of implantable cardioverter- 
+defibrillator therapy .......................................................... 5384 
+6.2.1.5. Implantable cardioverter-defibrillator 
+generator replacement ..................................................... 5384 
+6.2.1.6. Non-transvenous implantable cardioverter- 
+defibrillator and wearable cardioverter-defibrillator . 5384 
+6.2.2. Cardiac resynchronization therapy ........................ 5385 
+6.2.2.1. Cardiac resynchronization therapy for heart 
+failure caused by abnormal cardiac conduction ......... 5385 
+6.2.2.2. Right ventricular pacing-induced heart 
+failure .................................................................................... 5385 
+6.2.2.3. Timing of cardiac resynchronization therapy 
+implantation ........................................................................ 5385 
+6.2.3. Conduction system pacing ....................................... 5386 
+6.2.4. Cardiac implantable electronic device 
+programming and follow-up ................................................ 5386 
+6.2.5. Other cardiac implantable electronic devices ..... 5387  
+5348                                                                                                                                                                                       ESC Guidelines 
+Downloaded from academic.oup.com/eurheartj/article/47/38/5346/8766302 by guest on 22 October 2026
+
+=== Page 4 ===
+6.2.6. Other implantable devices ....................................... 5387 
+7. Decompensated heart failure ................................................. 5387 
+7.1. Definition and epidemiology ........................................... 5387 
+7.2. Diagnosis ............................................................................. 5387 
+7.3. Clinical presentation ......................................................... 5387 
+7.3.1. Decompensated left-sided heart failure ............... 5387 
+7.3.2. Decompensated right-sided heart failure ............ 5388 
+7.3.3. Acute pulmonary oedema ........................................ 5389 
+7.3.4. Cardiogenic shock ...................................................... 5389 
+7.4. General management ........................................................ 5389 
+7.4.1. Phase 1 (initial management) .................................. 5390 
+7.4.2. Phase 2 (stabilization) ................................................ 5390 
+7.4.3. Phase 3 (pre-discharge and early post-discharge) 5391 
+7.5. Treatment ............................................................................ 5393 
+7.5.1. Oxygen therapy .......................................................... 5393 
+7.5.2. Ventilation support .................................................... 5393 
+7.5.3. Diuretics (decongestion management) ................. 5393 
+7.5.4. Decongestion management in the ambulatory 
+setting ....................................................................................... 5393 
+7.5.5. Sodium–glucose co-transporter 2 inhibitors ....... 5395 
+7.5.6. Ultrafiltration ............................................................... 5395 
+7.5.7. Vasodilators ................................................................. 5395 
+7.5.8. Inotropes/inodilators ................................................. 5395 
+7.5.9. Vasopressors ............................................................... 5395 
+7.5.10. Opiates ....................................................................... 5395 
+7.5.11. Temporary mechanical circulatory support ....... 5396 
+7.5.11.1. Microaxial flow pumps .................................... 5396 
+7.5.11.2. Venoarterial extracorporeal life support .... 5396 
+7.5.11.3. Intra-aortic balloon pump ............................... 5396 
+7.5.12. Thromboembolism prophylaxis ............................ 5397 
+8. Advanced heart failure ............................................................ 5397 
+8.1. Epidemiology, definition, prognosis, and referral ...... 5397 
+8.2. Management ....................................................................... 5399 
+8.2.1. Pharmacological therapy and kidney replacement 
+therapy ..................................................................................... 5399 
+8.2.2. Mechanical circulatory support .............................. 5399 
+8.2.2.1. Temporary mechanical circulatory support .. 5399 
+8.2.2.2. Durable mechanical circulatory support ....... 5400 
+8.2.3. Heart transplantation ................................................ 5402 
+8.2.4. Symptom control and end-of-life care .................. 5403 
+9. Cardiovascular comorbidities ................................................. 5403 
+9.1. Arrhythmias and conduction disturbances .................. 5403 
+9.1.1. Atrial fibrillation .......................................................... 5403 
+9.1.1.1. Identification of triggers and risk factor 
+management ....................................................................... 5403 
+9.1.1.2. Prevention of embolic events .......................... 5403 
+9.1.1.3. Management of heart failure and atrial 
+fibrillation ............................................................................. 5404 
+9.1.1.4. Rate control .......................................................... 5404 
+9.1.1.5. Rhythm control ................................................... 5404 
+9.1.2. Ventricular arrhythmias ............................................ 5405 
+9.1.3. Bradyarrhythmias ....................................................... 5405 
+9.2. Chronic coronary syndromes .......................................... 5405 
+9.2.1. Medical therapy .......................................................... 5405 
+9.2.2. Myocardial revascularization ................................... 5405 
+9.3. Valvular heart disease ...................................................... 5407 
+9.3.1. Aortic stenosis ............................................................ 5407 
+9.3.2. Aortic regurgitation ................................................... 5407 
+9.3.3. Mitral regurgitation .................................................... 5407 
+9.3.3.1. Primary mitral regurgitation ............................. 5407 
+9.3.3.2. Secondary mitral regurgitation ........................ 5407 
+9.3.4. Tricuspid regurgitation .............................................. 5409 
+9.4. Hypertension ...................................................................... 5409 
+9.5. Stroke ................................................................................... 5409 
+10. Non-cardiovascular comorbidities ...................................... 5410 
+10.1. Obesity .............................................................................. 5410 
+10.2. Diabetes ............................................................................ 5410 
+10.3. Chronic kidney disease .................................................. 5411 
+10.4. Iron deficiency and anaemia ......................................... 5411 
+10.5. Cancer ................................................................................ 5412 
+10.6. Lung disease and sleep-disordered breathing .......... 5412 
+10.7. Anxiety, depression, and cognitive impairment ....... 5413 
+10.8. Frailty ................................................................................. 5413 
+10.9. Other non-cardiovascular comorbidities ................... 5414 
+11. Multidisciplinary team management, long-term follow-up, 
+and patient care ............................................................................. 5414 
+11.1. Multidisciplinary management of heart failure ........ 5414 
+11.2. Patient education, self-care, and lifestyle advice .... 5416 
+11.3. Implementation and adherence to therapy .............. 5416 
+11.3.1. Implementation and optimization ........................ 5416 
+11.3.2. Long-term adherence ............................................. 5416 
+11.4. Exercise training and cardiac rehabilitation .............. 5416 
+11.4.1. Benefits of exercise training according to heart 
+failure stage and phenotype ............................................... 5416 
+11.4.2. Safety and contraindications ................................ 5416 
+11.4.3. Exercise prescription ............................................... 5416 
+11.5. Telemonitoring ................................................................. 5417 
+11.6. Long-term follow-up ...................................................... 5417 
+11.6.1. Follow-up ................................................................... 5417 
+11.6.2. Advance care planning and palliative care ........ 5418 
+12. Specific conditions ................................................................. 5419 
+12.1. Pregnancy and heart failure ......................................... 5419 
+12.2. Cardiomyopathies ........................................................... 5419 
+12.2.1. Hypertrophic cardiomyopathy ............................. 5419 
+12.3. Amyloidosis ....................................................................... 5419 
+12.3.1. Epidemiology and diagnosis .................................. 5419 
+12.3.2. Disease-specific treatments .................................. 5420 
+12.3.2.1. Immunoglobulin light chain cardiac 
+amyloidosis .......................................................................... 5420 
+12.3.2.2. Transthyretin cardiac amyloidosis ................ 5420 
+12.3.3. Treatment of heart failure and cardiovascular 
+comorbidities .......................................................................... 5420 
+12.4. Myocarditis ....................................................................... 5422 
+12.4.1. Epidemiology and diagnosis .................................. 5422 
+12.4.2. Treatment .................................................................. 5422 
+12.5. Adult congenital heart disease ..................................... 5422 
+13. Key messages .......................................................................... 5422 
+14. Gaps in evidence ..................................................................... 5423 
+15. Evidence tables ....................................................................... 5425 
+16. Data availability ....................................................................... 5425 
+17. Author information ................................................................ 5425 
+18. Appendix ................................................................................... 5425 
+19. References ................................................................................ 5426  
+ESC Guidelines                                                                                                                                                                                        5349 
+Downloaded from academic.oup.com/eurheartj/article/47/38/5346/8766302 by guest on 22 October 2026
+
+=== Page 5 ===
+Tables of Recommendations 
+Recommendation Table 1 — Recommendations for 
+prevention of heart failure (see Evidence Tables 1–15) ........ 5364 
+Recommendation Table 2 — Recommendations for stage B 
+heart failure and left ventricular dysfunction (see Evidence 
+Table 16) ........................................................................................... 5366 
+Recommendation Table 3 — Recommendations for diagnostic 
+investigations in all patients with suspected heart failure (see 
+Evidence Tables 17–19) ................................................................. 5369 
+Recommendation Table 4 — Recommendations for 
+specialized diagnostic investigations in patients with 
+established heart failure to detect reversible/treatable causes 
+of heart failure (see Evidence Tables 20–28) ........................... 5375 
+Recommendation Table 5 — Recommendations for 
+pharmacological management of chronic heart failure (see 
+Evidence Tables 29–41) ................................................................. 5382 
+Recommendation Table 6 — Recommendations for 
+implantable cardioverter-defibrillator implantation (see 
+Evidence Tables 42–48) ................................................................. 5384 
+Recommendation Table 7 — Recommendations for cardiac 
+resynchronization therapy implantation (see Evidence Tables 
+49–58) .............................................................................................. 5386 
+Recommendation Table 8 — Recommendations for 
+pre-discharge and early post-discharge follow-up of patients 
+hospitalized for decompensated heart failure (see Evidence 
+Tables 59–67) .................................................................................. 5392 
+Recommendation Table 9 — Recommendations for the 
+immediate and intermediate treatment of decompensated 
+heart failure (see Evidence Tables 59–67) ................................ 5395 
+Recommendation Table 10 — Recommendations for the use 
+of temporary mechanical circulatory support in patients with 
+cardiogenic shock (see Evidence Tables 68 and 69) ............... 5397 
+Recommendation Table 11 — Recommendations for 
+diagnosis and evaluation of advanced heart failure (see 
+Evidence Tables 70 and 71) .......................................................... 5398 
+Recommendation Table 12 — Recommendations for medical 
+management of advanced heart failure (see Evidence Tables 
+72 and 73) ....................................................................................... 5399 
+Recommendation Table 13 — Recommendations for durable 
+mechanical circulatory support in advanced heart failure (see 
+Evidence Table 74) .......................................................................... 5402 
+Recommendation Table 14 — Recommendations for heart 
+transplantation (see Evidence Tables 75 and 76) .................... 5403 
+Recommendation Table 15 — Recommendations for 
+management of atrial fibrillation in patients with heart failure 
+(see Evidence Tables 77–81) ........................................................ 5404 
+Recommendation Table 16 — Recommendations for 
+revascularization in chronic coronary syndrome in patients 
+with heart failure (see Evidence Table 82) ................................ 5407 
+Recommendation Table 17 — Recommendations for valvular 
+heart disease in patients with heart failure (see Evidence 
+Tables 83 and 84) ........................................................................... 5409 
+Recommendation Table 18 — Recommendations for obesity 
+in patients with heart failure (see Evidence Tables 85 and 86) 5410 
+Recommendation Table 19 — Recommendations for iron 
+deficiency in patients with heart failure (see Evidence Tables 
+87 and 88) ....................................................................................... 5412 
+Recommendation Table 20 — Recommendations for lung 
+disease and sleep-disordered breathing (see Evidence 
+Table 89) ........................................................................................... 5413 
+Recommendation Table 21 — Recommendations for anxiety, 
+depression, and frailty (see Evidence Tables 90 and 91) ....... 5413 
+Recommendation Table 22 — Recommendations for other 
+non-cardiovascular comorbidities (see Evidence Tables 92 and 
+93) ..................................................................................................... 5414 
+Recommendation Table 23 — Recommendations for the 
+multidisciplinary management of heart failure (see Evidence 
+Tables 94–96) .................................................................................. 5414 
+Recommendation Table 24 — Recommendations for exercise 
+training and cardiac rehabilitation (see Evidence Tables 97– 
+99) ..................................................................................................... 5417 
+Recommendation Table 25 — Recommendations for invasive 
+and non-invasive telemonitoring (see Evidence Table 100) . 5417 
+Recommendation Table 26 — Recommendations for 
+long-term follow-up (see Evidence Tables 101 and 102) ...... 5419 
+Recommendation Table 27 — Recommendations for heart 
+failure and pregnancy (see Evidence Tables 103–107) ......... 5419 
+Recommendation Table 28 — Recommendations for cardiac 
+amyloidosis (see Evidence Tables 108–111) ............................ 5422   
+List of tables 
+Table 1 Classes of recommendations ....................................... 5353 
+Table 2 Levels of evidence—therapy and prevention ........... 5354 
+Table 3 Levels of evidence—diagnostic tests and prediction 
+models .............................................................................................. 5354 
+Table 4 New concepts .................................................................. 5356 
+Table 5 New recommendations ................................................. 5356 
+Table 6 Revised recommendations ........................................... 5358 
+Table 7 Symptoms and signs of heart failure ......................... 5367 
+Table 8 New York Heart Association functional classification 
+based on severity of symptoms and physical activity .......... 5367 
+Table 9 Causes for increase or decrease in natriuretic peptide 
+levels ................................................................................................. 5369 
+Table 10 Simplified echocardiographic criteria for supporting 
+objective evidence of heart failure with preserved ejection 
+fraction ............................................................................................. 5370 
+Table 11 Evidence-based doses of disease-modifying drugs in 
+key randomized trials in patients with heart failure .............. 5381 
+Table 12 Signs, symptoms, and altered laboratory tests in 
+congestion and hypoperfusion profiles .................................... 5389 
+Table 13 SCAI classification for cardiogenic shock ............... 5389 
+Table 14 Criteria for definition of advanced heart failure ... 5397 
+Table 15 Criteria for high risk of advanced heart failure ..... 5398 
+Table 16 Indications and contraindications for implantation of 
+a left ventricular assist device .................................................... 5402 
+Table 17 Indications and contraindications for heart 
+transplantation ....................................................................................5403 
+Table 18 Updated definitions for the CHA2DS2-VA score . 5404 
+Table 19 Selection criteria for mitral transcatheter 
+edge-to-edge repair in heart failure with reduced ejection 
+fraction ............................................................................................. 5408 
+Table 20 ‘Red flags’ for most common forms of cardiac 
+amyloidosis ...................................................................................... 5420  
+5350                                                                                                                                                                                       ESC Guidelines 
+Downloaded from academic.oup.com/eurheartj/article/47/38/5346/8766302 by guest on 22 October 2026
+

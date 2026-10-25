@@ -1470,11 +1470,13 @@ function _populateChapterPicker() {
     const metadataUrl = `${window.location.hostname.includes('github.io') ? rawBase : (typeof BASE_URL !== 'undefined' ? BASE_URL : './')}${bookPath}/metadata.json?v=${Date.now()}`;
     fetch(metadataUrl).then(r => r.json()).then(data => {
         const bookMeta = data[0], allChapters = [...bookMeta.chapters, ...(bookMeta.appendices || [])];
+        const currentEdition = params.get('edition') || 'original';
         allChapters.forEach(ch => {
             const chId = ch.file.replace('.md', ''), isActive = (chId === _currentChapterId), hasSubs = ch.subchapters && ch.subchapters.length > 0;
             const btn = document.createElement('button');
             btn.className = 'chapter-picker-item' + (isActive && !hasSubs ? ' active' : '') + (hasSubs ? ' has-subchapters' : '');
-            btn.textContent = ch.title;
+            const displayTitle = (currentEdition === 'russian' && ch.russian) ? ch.russian : ch.title;
+            btn.innerHTML = displayTitle;
             btn.addEventListener('click', (e) => {
                 e.stopPropagation();
                 if (!hasSubs) { _closeMenu(); if (typeof updateUrl === 'function') updateUrl(bookPath, chId, params.get('edition')||'original'); }
@@ -1486,7 +1488,8 @@ function _populateChapterPicker() {
                 ch.subchapters.forEach(sub => {
                     const subId = sub.file.replace('.md', ''), isSubActive = (subId === _currentChapterId);
                     const subBtn = document.createElement('button'); subBtn.className = 'chapter-picker-item subchapter' + (isSubActive ? ' active' : '');
-                    subBtn.textContent = '↳ ' + sub.title;
+                    const displaySubTitle = (currentEdition === 'russian' && sub.russian) ? sub.russian : sub.title;
+                    subBtn.innerHTML = '↳ ' + displaySubTitle;
                     subBtn.addEventListener('click', (e) => { e.stopPropagation(); _closeMenu(); if (typeof updateUrl === 'function') updateUrl(bookPath, subId, params.get('edition')||'original'); });
                     subDiv.appendChild(subBtn);
                 });

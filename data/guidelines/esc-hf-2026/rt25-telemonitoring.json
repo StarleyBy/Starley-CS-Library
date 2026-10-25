@@ -1,0 +1,57 @@
+{
+  "schemaVersion": 1,
+  "id": "esc-hf-2026.rt25-telemonitoring",
+  "guidelineId": "esc-hf-2026",
+  "number": "Recommendation Table 25",
+  "type": "recommendations",
+  "title": {
+    "en": "Recommendation Table 25 — Recommendations for invasive and non-invasive telemonitoring",
+    "ru": "Таблица рекомендаций 25 — Рекомендации по инвазивному и неинвазивному дистанционному мониторингу (телемониторингу)"
+  },
+  "tags": [
+    "telemonitoring",
+    "remote-monitoring",
+    "pa-pressure",
+    "haemodynamic-monitoring",
+    "non-invasive-telemonitoring",
+    "hfh",
+    "nyha"
+  ],
+  "source": {
+    "expectedRows": 2
+  },
+  "i18nStatus": {
+    "ru": "reviewed"
+  },
+  "sections": [
+    {
+      "id": "sec-telemonitoring",
+      "title": {
+        "en": "Recommendations for invasive and non-invasive telemonitoring (see Evidence Table 100)",
+        "ru": "Рекомендации по инвазивному и неинвазивному дистанционному мониторингу (см. Доказательную таблицу 100)"
+      },
+      "rows": [
+        {
+          "id": "r01",
+          "text": {
+            "en": "Remote haemodynamic monitoring of PA pressure should be considered in symptomatic patients with HF, NYHA class III, and an HFH in the past 12 months in order to reduce the risk of HFH.",
+            "ru": "Дистанционный гемодинамический мониторинг давления в легочной артерии (ЛА / PA) следует рассматривать у симптомных пациентов с СН, III функциональным классом по NYHA и госпитализацией по поводу СН (HFH) за последние 12 месяцев для снижения риска повторных госпитализаций по поводу СН."
+          },
+          "class": "IIa",
+          "level": "B1",
+          "refs": [1029, 1043, 1045]
+        },
+        {
+          "id": "r02",
+          "text": {
+            "en": "Non-invasive telemonitoring modalities may be considered for patients with HF in order to reduce the risk of HFH.",
+            "ru": "Неинвазивные методы дистанционного мониторинга (телемониторинга) могут быть рассмотрены у пациентов с СН для снижения риска госпитализаций по поводу СН (HFH)."
+          },
+          "class": "IIb",
+          "level": "B1",
+          "refs": [1027, 1029, 1053]
+        }
+      ]
+    }
+  ]
+}

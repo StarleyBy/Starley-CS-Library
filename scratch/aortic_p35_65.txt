@@ -1,0 +1,3469 @@
+
+=== PAGE 35 ===
+December 13, 2022 Circulation. 2022;146:e334–e482. DOI: 10.1161/CIR.0000000000001106e368
+Isselbacher et al 2022 ACC/AHA Aortic Disease Guideline
+CLINICAL STATEMENTS  
+AND GUIDELINES
+Synopsis
+Loeys-Dietz syndrome is characterized by aortic and 
+branch vessel aneurysms and dissections, arterial tortuos-
+ity, and skeletal features similar to those seen in Marfan 
+syndrome but with unique craniofacial and cutaneous fea-
+tures.1 Pathogenic variants in 5 genes cause Loeys-Dietz 
+syndrome, also termed transforming growth factor-β vas-
+culopathies.1-3,5,6 Some pathogenic variants in Loeys-Dietz 
+syndrome genes, in particular TGFBR1 and TGFBR2, may 
+have earlier onset TAD. 7 All the Loeys-Dietz syndrome 
+genes confer a risk for aortic involvement distal to the 
+aortic root along with branch vessel and intracranial aneu-
+rysms.1,8-11 Most clinical information is available in patients 
+with TGFBR1 and TGFBR2 pathogenic variants.1,8 Patho-
+genic variants in SMAD3 are associated with premature 
+osteoarthritis and later onset of TAD.9,12 There is much less 
+information about the aortic and branch vessel disease in 
+patients with variants in TGFB2 and TGFB3.13-16 Imaging 
+with CT or MRI, from head to pelvis, is indicated to evalu-
+ate for aneurysms and arterial tortuosity.
+Recommendation-Specific Supportive Text
+1. Aortic root and ascending aortic aneurysm and 
+aortic dissection are leading causes of morbidity 
+and mortality in Loeys-Dietz syndrome.1,8,9,12 Aortic 
+dissection may occur at relatively small aortic 
+diameters in Loeys-Dietz syndrome when related 
+to pathogenic variants in TGFBR1, TGFBR2, and 
+SMAD3.1,2,6 The specific genetic variant and sever-
+ity of extra-aortic phenotypic features, including 
+craniofacial features, degree of arterial tortuosity, 
+cutaneous findings, and family history inform the 
+risk of aortic events.1,2,6 The aortic root and ascend-
+ing aortic diameters are typically measured by TTE. 
+BAV is more common in Loeys-Dietz syndrome and 
+can be diagnosed by TTE. 17 Patients with Loeys-
+Dietz syndrome attributable to certain pathogenic 
+variants are at risk for aortic dissection at relatively 
+small aortic diameters. 1,8 In patients with Loeys-
+Dietz syndrome, the stability of the aortic size 6 
+months after the initial diagnosis should be deter-
+mined, and then, once stability is confirmed, moni-
+tored with annual surveillance imaging.1,2
+2. Patients with Loeys-Dietz syndrome may have vari-
+able aortic and branch vessel involvement and vari-
+able rates of dilation of involved arterial segments 
+over time. In Loeys-Dietz syndrome patients with 
+aortic aneurysm or previous dissection, relatively 
+rapid arterial enlargement may occur.2,18,19
+3. Patients with Loeys-Dietz syndrome are at risk 
+for widespread aortic and branch vessel aneurys-
+mal disease and dissections. 1,12 In a series of 90 
+patients with Loeys-Dietz syndrome attributable 
+to pathogenic variants in TGFBR1 and TGFBR2, 
+aneurysm disease involved the ascending aorta 
+in 78%, arch in 10%, descending aorta in 10%, 
+abdominal aorta and branches in 17%, thoracic 
+aortic branches in 21%, and head and neck arterial 
+branches in 10%. 1 Among patients with SMAD3-
+related disease, aneurysms from head to pelvis are 
+also described.9,12 Individuals with Loeys-Dietz syn-
+drome can be at risk for TAD and other vascular 
+diseases in the absence of other systemic features 
+characteristic of Marfan syndrome or Loeys-Dietz 
+syndrome. Although there is phenotypic overlap 
+among the genes, there is also distinct vascular 
+disease and systemic complications associated 
+with each gene. The physician should be cognizant 
+of the particular gene variant in monitoring and 
+managing patients with Loeys-Dietz syndrome.
+4. In patients with Loeys-Dietz syndrome and aortic 
+disease limited to segments that are well-visualized 
+by TTE and without branch vessel disease, surveil-
+lance of the distal aorta and its branches is needed 
+to evaluate for the possible interval occurrence of 
+dilation (or dissection); the frequency of surveil-
+lance imaging may be influenced by the patient’s 
+age and family history.2
+5. Cerebral aneurysms are described in 10% to 18% 
+of patients with Loeys-Dietz syndrome. 1,9,11,20 The 
+frequency of follow-up screening for cerebral aneu-
+rysm disease in patients without aneurysms on initial 
+screening will depend on the patient’s age and may 
+be informed by phenotype or other features.11
+6.1.2.3.2. Medical Therapy in Loeys-Dietz Syndrome
+Recommendation for Medical Therapy in Loeys-Dietz Syndrome
+COR LOE Recommendation
+2a C-EO
+1. In patients with Loeys-Dietz syndrome, treat-
+ment with a beta blocker or an ARB (unless 
+contraindicated), or both, in maximally toler-
+ated doses, is reasonable.
+Synopsis
+The management of individuals with Loeys-Dietz syn-
+drome includes medical therapy, lifestyle modification, 
+imaging surveillance, and surgical intervention. To lessen 
+hemodynamic stress on the aorta, beta blockers are 
+used.1 Based on studies of mouse models, ARBs have 
+also been used.2
+Recommendation-Specific Supportive Text
+1. There are no randomized trials of medications 
+to reduce aortic growth or the risk of aortic dis-
+section in patients with Loeys-Dietz syndrome. 
+Consequently, the approach to medical therapy is 
+similar to that used for treating patients with Marfan 
+syndrome, based on the similarities between the 
+2 connective tissue disorders and on data from 
+Downloaded from http://ahajournals.org by on May 30, 2026
+=== PAGE 36 ===
+Circulation. 2022;146:e334–e482. DOI: 10.1161/CIR.0000000000001106 December 13, 2022 e369
+Isselbacher et al 2022 ACC/AHA Aortic Disease Guideline
+CLINICAL STATEMENTS 
+AND GUIDELINES
+mouse models of Loeys-Dietz syndrome.2 Thus, the 
+use of beta blockers, ARBs, or both is reasonable.1
+6.1.2.3.3. Loeys-Dietz Syndrome Surgical 
+Interventions: Replacement of the Aorta in Patients 
+With Loeys-Dietz Syndrome
+Recommendations for Replacement of the Aorta in Patients With 
+Loeys-Dietz Syndrome
+COR LOE Recommendations
+1 C-LD
+1. In patients with Loeys-Dietz syndrome and 
+aortic dilation, the surgical threshold for 
+prophylactic aortic root and ascending aortic 
+replacement should be informed by the spe-
+cific genetic variant, aortic diameter, aortic 
+growth rate, extra-aortic features, family his-
+tory, patient age and sex, and physician and 
+patient preferences (Table 11).1-9
+2b C-EO
+2. In patients with Loeys-Dietz syndrome attrib-
+utable to a pathogenic variant in TGFBR1, 
+TGFBR2, or SMAD3, surgery to replace 
+the intact aortic arch, descending aorta, or 
+abdominal aorta at a diameter of ≥ 4.5 cm 
+may be considered, with the specific genetic 
+variant, patient age, aortic growth rate, family 
+history, presence of high-risk features (Table 
+11), and surgical risk informing the decision.
+Synopsis
+In patients with Loeys-Dietz syndrome, prophylactic aor-
+tic root replacement for aneurysm disease prevents type 
+A aortic dissection and improves outcomes. 1,2,10-12 Aortic 
+dissection in Loeys-Dietz syndrome that is attributable to 
+pathogenic variants in TGFBR1, TGFBR2, and SMAD3 
+may occur at smaller aortic diameters than in Marfan 
+syndrome.1-3,13 Based on limited data, Loeys-Dietz syn-
+drome attributable to pathogenic variants in TGFB2 5,6,14 
+and TGFB38,9 may have a less aggressive aortic pheno-
+type than disease attributable to TGFBR1, TGFBR2, or 
+SMAD3 variants. 1,2,4,15,16 The size threshold for elective 
+surgery to replace the dilated aortic root and ascending 
+aorta in Loeys-Dietz syndrome depends on multiple fac-
+tors and is informed by the specific pathogenic variant, 
+phenotypic features, patient age, aortic growth rates, and 
+family history (Table 11).1,2,10-12,17
+There is little information about size thresholds for 
+prophylactic surgery in Loeys-Dietz syndrome to lessen 
+the risk of aortic dissection or rupture when there are 
+intact aneurysms involving the aortic arch, descending, or 
+abdominal aorta, or involving aortic branch vessels. 11,12,18 
+After aortic dissection, progressive aneurysmal dilation 
+commonly occurs and often requires multiple operative 
+interventions.11,12,18
+Recommendation-Specific Supportive Text
+1. Pathogenic variants in TGFBR1, TGFBR2, SMAD3, 
+TGFB2, and TGFB3 lead to Loeys-Dietz syndrome 
+or may cause aortopathy with few outward fea-
+tures. Most information is available for TGFBR1 
+and TGFBR2 pathogenic variants. 1,2 Patients 
+with TGFBR1 and TGFBR2 variants are at risk 
+of type A aortic dissection at younger ages and 
+smaller aortic root diameters than in Marfan syn-
+drome.1,17 ,19 This aggressive aortopathy, especially 
+in those with severe craniofacial features, previ-
+ously led to a recommendation for surgery at an 
+aortic root diameter of >4.0 cm.1 The “2010 ACC/
+AHA Guidelines for the Management of Thoracic 
+Aortic Disease” recommended aortic surgery at a 
+diameter between 4.2 cm and 4.6 cm, depending 
+on imaging modality.20 SMAD3-related Loeys-Dietz 
+syndrome variants may lead to aortic dissection at 
+variable diameters.4,15,16,20 Aortic dissection risk is 
+higher in women with TGFBR2 variants who have 
+Table 11. Surgical Thresholds for Prophylactic Aortic Root and Ascending Aortic Replacement 
+in Loeys-Dietz Syndrome Based on Genetic Variant
+CORL OE (references) Genetic Variant Presence of High-Risk Features* Aortic Diameter (cm)
+1 C-LD2 TGFBR1 No /g1164.5
+1 C-LD2 TGFBR2 No /g1164.5
+2b C-EO2 TGFBR1 Yes /g1164.0
+2a C-LD1,2 TGFBR2 Yes /g1164.0
+2a C-EO13,16 SMAD3 – /g1164.5†
+2b C-EO5-7 TGFB2‡ – /g1164.5†
+2b C-EO9,23 TGFB3 – /g1165.0†
+*Aortic surgery may be recommended at smaller aortic diameters in Loeys-Dietz syndrome attributable to TGFBR1 and 
+TGFBR2 pathogenic variants when there are features that associate with a higher risk of aortic dissection, including: certain 
+speciﬁc pathogenic variants; women with TGFBR2 and small body size; severe extra-aortic features (ie, craniosynostosis, 
+cleft palate, hypertelorism, biﬁd uvula, marked arterial tortuosity, widened scars, and translucent skin); family history of aortic 
+dissection (especially at young age or relatively small aortic diameter); and aortic growth rate >0.3 cm/y.
+†Family history, age, and aortic growth rate also inform surgical thresholds.
+‡Pathogenic variants in the TGFB2 gene are different than variants in the TGFBR2 gene.
+COR indicates class of recommendation; and LOE, level of evidence.
+Colors correspond to COR and LOE in Table 2.
+Downloaded from http://ahajournals.org by on May 30, 2026
+=== PAGE 37 ===
+December 13, 2022 Circulation. 2022;146:e334–e482. DOI: 10.1161/CIR.0000000000001106e370
+Isselbacher et al 2022 ACC/AHA Aortic Disease Guideline
+CLINICAL STATEMENTS  
+AND GUIDELINES
+certain extraaortic features.2 Limited data have not 
+suggested higher aortic dissection risk at smaller 
+aortic size in those with TGFB25,6,14 or TGFB3 vari-
+ants.8,9 Marked intrafamilial variability exists for 
+aortic disease in Loeys-Dietz syndrome. 17 ,21,22 A 
+shared decision about timing of prophylactic sur-
+gery to prevent type A aortic dissection in Loeys-
+Dietz syndrome should include consideration of 
+the specific genetic variant, aortic diameter, aor-
+tic growth rate, age, sex, body size, family history, 
+patient preferences, and surgical expertise.
+2. Aneurysms of the distal ascending aorta, arch, 
+descending aorta, and abdominal aorta may occur 
+in Loeys-Dietz syndrome.1,2,5,8,9,11-14,16,17 At the time 
+of aortic root replacement, the entire ascending 
+aorta is also to be replaced because distal ascend-
+ing aortic aneurysm and dissection may occur 
+after isolated aortic root replacement. 10-12,19 There 
+is little information about aortic size thresholds at 
+which the risk of aortic dissection warrants elec-
+tive surgery in the intact aortic arch, descending, 
+or abdominal aorta in Loeys-Dietz syndrome. A 
+shared decision should consider the pathogenic 
+variant, aortic diameter, rate of aortic growth, age, 
+sex, body size, patient preference, and the sur-
+geon’s preference and surgical expertise. Aortic 
+interventions in Loeys-Dietz syndrome are espe-
+cially common after aortic dissection.10-12
+6.1.2.4. Vascular Ehlers-Danlos Syndrome: Imaging, 
+Medical Therapy, and Surgical Intervention
+Vascular Ehlers-Danlos syndrome, affecting 1 in 50 000 
+to 100 000 individuals, is attributable to pathogenic vari-
+ants in COL3A1 and leads to spontaneous aortic and 
+arterial dissections, aneurysms, and rupture at young 
+ages.1,2 The onset and severity of arterial pathology cor-
+relates with the specific COL3A1 pathogenic variant. 2 
+Imaging the aorta and branches may identify arterial seg-
+ments at risk, but the frequency of screening surveillance 
+is uncertain.1-4 T ypical protocols include baseline MRI or 
+CT from head to pelvis to evaluate the entire aorta and 
+its branches, with annual surveillance imaging thereafter 
+to monitor any dilated or dissected aortic or arterial seg-
+ments and imaging every 2 years when the initial imaging 
+is normal.1,2,5 Notably, the aorta and arterial branches in 
+vascular Ehlers-Danlos syndrome may rupture (or dis-
+sect) even without significant dilation.1-3
+Medical therapy of vascular Ehlers-Danlos syndrome 
+includes education, lifestyle modification, and avoidance 
+of invasive procedures when possible.3,6 Studies of celip-
+rolol, a beta blocker with vasodilatory properties, have sug-
+gested a benefit in patients with vascular Ehlers-Danlos 
+syndrome,7, 8 but data were considered to be insufficient for 
+US Food and Drug Administration (FDA) approval. In the 
+absence of data showing efficacy in vascular Ehlers-Dan-
+los syndrome, other beta blockers are often prescribed, 
+with some physicians choosing alternative beta blockers 
+with vasodilatory properties. There are no studies showing 
+a benefit of ARBs in vascular Ehlers-Danlos syndrome.
+Surgical repair in vascular Ehlers-Danlos syndrome 
+carries an increased risk because of vascular fragility 
+and associated bleeding complications. 1-3,5 Rapid arte-
+rial aneurysm growth or the occurrence of dissection are 
+indications for treatment,1-3,5 but no data are available to 
+guide diameter thresholds for prophylactic surgical inter-
+vention for aortic and arterial branch vessel aneurysms 
+in vascular Ehlers-Danlos syndrome.1-5 Consequently, the 
+decision to intervene for aortic and branch vessel aneu-
+rysms and dissections involves a Multidisciplinary Aor-
+tic Team and shared decision-making. 3,6 Open surgery 
+requires meticulous technique to lessen vascular and 
+tissue trauma, and interventional techniques may involve 
+arterial embolization and endovascular therapy, depend-
+ing on individual circumstances.1,3,5
+Guidelines for management of pregnancy in vascular 
+Ehlers-Danlos syndrome are limited, given the lack of data 
+and the rarity of the condition.9 The decision to proceed with 
+pregnancy in vascular Ehlers-Danlos syndrome is complex; 
+for some women with specific genetic variants, null muta-
+tions, and normal vascular imaging, the risk may be lower, 
+but shared decision-making is essential.9 Of 38 women 
+with vascular Ehlers-Danlos syndrome completing 82 deliv-
+eries, only 13% were aware of their diagnosis before preg-
+nancy.9 Tissue fragility complicates labor and delivery and 
+poses risks for vascular events and wound complications.9,10 
+Complications may occur after vaginal or cesarean deliver-
+ies, but most women known to have vascular Ehlers-Danlos 
+syndrome undergo cesarean delivery.9-12
+6.1.2.5. Turner Syndrome
+Recommendations for Diagnostic Testing, Surveillance, and Surgical 
+Intervention for Aortic Dilation in Turner Syndrome
+Referenced studies that support the recommendations are 
+summarized in the Online Data Supplement.
+COR LOE Recommendations
+1 B-NR
+1. In patients with Turner syndrome, TTE and 
+cardiac MRI are recommended at the time of 
+diagnosis to evaluate for BAV, aortic root and 
+ascending aortic dilation, aortic coarctation, 
+and other congenital heart defects.1-9
+1 B-NR
+2. In patients with Turner syndrome who are 
+≥15 years old, the use of the ASI (ratio 
+of aortic diameter [cm] to BSA [m 2]) is 
+recommended to define the degree of 
+aortic dilation and assess the risk of aortic 
+ dissection.9,10,11
+1 C-LD
+3. In patients with Turner syndrome without risk 
+factors for aortic dissection (Table 12), sur-
+veillance imaging with TTE or MRI to evalu-
+ate the aorta is recommended every 5 years 
+in children and every 10 years in adults, as 
+well as before planning a  pregnancy.9,10,11
+1 C-EO
+4. In patients with Turner syndrome and an ASI 
+>2.3 cm/m2, surveillance imaging of the aorta 
+is recommended at least  annually.9
+Downloaded from http://ahajournals.org by on May 30, 2026
+=== PAGE 38 ===
+Circulation. 2022;146:e334–e482. DOI: 10.1161/CIR.0000000000001106 December 13, 2022 e371
+Isselbacher et al 2022 ACC/AHA Aortic Disease Guideline
+CLINICAL STATEMENTS 
+AND GUIDELINES
+1 C-EO
+5. In patients with Turner syndrome and risk 
+factors for aortic dissection (Table 12), surveil-
+lance aortic imaging at an interval depending 
+on the aortic diameter, ASI, and aortic growth 
+rate is recommended ( Figure 18).9
+2a C-LD
+6. In patients with Turnery syndrome who are 
+≥15 years old and have an ASI of ≥2.5 cm/m2 
+plus risk factors for aortic dissection (Table 
+12), surgical intervention to replace the aortic 
+root, ascending aorta, or both is reasonable.9,10
+2b C-EO
+In those without risk factors for aortic  
+dissection, surgical intervention to replace the 
+aortic root, ascending aorta, or both may be 
+considered.
+Synopsis
+Turner syndrome, which affects 1 in 2 500 liveborn girls, 
+results from complete or partial loss of the second X 
+chromosome in all or some of the cells of an individual.9,12 
+Approximately 50% of patients with Turner syndrome have 
+cardiovascular defects that include BAV (15%–30%), 
+aortic coarctation (7%–18%), and ascending aortic dila-
+tion (33%).9,12 Patients with Turner syndrome require car-
+diac imaging to evaluate for congenital heart and aortic 
+defects and to determine aortic diameters. Patients with 
+Turner syndrome are at increased risk of aortic dissec-
+tion, with 85% occurring in the ascending and 15% in 
+the descending aorta.10,11,13 Risk factors for aortic dissec-
+tion include aortic dilation, hypertension, BAV, and aortic 
+coarctation.9-11,13 Because Turner syndrome patients are 
+of short stature, type A aortic dissection may occur at 
+relatively small aortic diameters; consequently, indexing 
+the aortic diameter to body size (ie, calculating an ASI) is 
+recommended in monitoring the aorta.9,12,14
+Recommendation-Specific Supportive Text
+1. Turner syndrome may be recognized in infancy or 
+childhood or, alternatively, go unrecognized until 
+adolescence or adulthood. On the diagnosis of 
+Turner syndrome, a TTE and cardiac MRI are per-
+formed to evaluate for associated congenital car-
+diovascular abnormalities (BAV, aortic coarctation, 
+and others) and to measure aortic diameters.9,12
+2. Because patients with Turner syndrome have short 
+stature, using absolute aortic diameters alone may 
+underestimate aortic dissection risk. 9-11,13 T ype A 
+aortic dissection in Turner syndrome may occur at 
+relatively small aortic diameters, likely reflecting the 
+typical patient’s short stature, so indexing of aortic 
+diameter to body size (by calculating the ASI) is 
+performed when evaluating patients with Turner 
+syndrome who are ≥15 years old.9,10 The ASI is cal-
+culated by dividing the maximal aortic diameter, in 
+centimeters, by the BSA, in meters squared. An ASI 
+>2.0 cm/m2 is considered to be abnormal, and an 
+ASI ≥2.5 cm/m 2 is associated with an increased 
+risk of aortic disection. 9-11 Using a Turner syn-
+drome-specific z-score to assess for aortic dilation 
+is preferred in children <15 years old.
+3. Lifelong surveillance imaging of the aorta is used 
+to monitor for aortic dilation: For children with 
+Turner syndrome and no additional risk factors for 
+aortic dissection, reevaluation at 5-year intervals 
+is appropriate; for adults with Turner syndrome 
+and no additional risk factors for aortic dissec-
+tion, surveillance imaging of the aorta with TTE or 
+MRI every 10 years is appropriate. 9 Surveillance 
+imaging should also be performed before planned 
+pregnancy.9
+4. In Turner syndrome, the risk of aortic dissection 
+correlates with ASI, 9 and an ASI ≥2.5 cm/m 2 is 
+associated with a significantly increased risk of 
+aortic dissection. When the ASI approaches this 
+threshold, more frequent surveillance imaging is 
+appropriate to monitor aortic diameters.9
+5. In Turner syndrome, risk factors for aortic dissec-
+tion include aortic dilation, BAV, aortic coarctation, 
+and hypertension. 9-11,13 When these risk factors 
+are present, surveillance imaging of the aorta is 
+performed more frequently. For the patients with 
+Turner syndrome who are ≥15 years old and have a 
+stable ASI of ≤2.3 cm/m2, surveillance imaging with 
+TTE or MRI is performed every 2 to 3 years.9 In the 
+patients with Turner syndrome who are >15 years 
+old with an ASI >2.3 cm/m 2, at least annual sur-
+veillance imaging of the aorta is appropriate. 9 The 
+frequency of imaging should be informed by aortic 
+diameter, aortic growth rate, severity of hyperten-
+sion, and aortic valve function (Figure 18).9,12
+6. In patients with Turner syndrome, diameter thresh-
+olds for prophylactic surgical replacement of 
+aneurysms of the aortic root/ascending aortic 
+replacement are based on retrospective series 
+and case studies.10,11,13 Data from registries of aor-
+tic dissection in Turner syndrome report that the 
+risk of dissection is significantly increased when 
+the ASI is ≥2.5 cm/m 2.9-11,13 In addition to aortic 
+size, risk factors for aortic dissection in Turner syn-
+drome include BAV, aortic coarctation, and hyper-
+tension.9,11,13 However, decisions using indexed 
+calculations alone for aortic risk determination in 
+Table 12. Risk Factors for Aortic Dissection in Patients With 
+Turner Syndrome
+Aortic coarctation
+Aortic dilation
+Bicuspid aortic valve
+Hypertension
+Recommendations for Diagnostic Testing, Surveillance, and Surgical 
+Intervention for Aortic Dilation in Turner Syndrome (Continued )
+COR LOE Recommendations
+Downloaded from http://ahajournals.org by on May 30, 2026
+=== PAGE 39 ===
+e372
+Isselbacher et al 2022 ACC/AHA Aortic Disease Guideline
+CLINICAL STATEMENTS  
+AND GUIDELINES December 13, 2022 Circulation. 2022;146:e334–e482. DOI: 10.1161/CIR.0000000000001106
+short-statured but obese patients with Turner syn-
+drome or those with low body weight relative to 
+height may be less accurate. In such Turner syn-
+drome patients who are ≥15 years old, an absolute 
+aortic diameter of >4.0 cm may be more accurate 
+than ASI in determining the risk of aortic disection.9 
+For patients with Turner syndrome who are <15 
+years old, a Turner syndrome-specific z-score cal-
+culation is appropriate to determine aortic risk and 
+assess for surgical intervention.9,14 For patients with 
+Turner syndrome without additional risk factors for 
+aortic dissection, few data exist on the degree of 
+aortic dilation that warrants surgical intervention.9
+6.1.2.6. Pathogenic or Likely Pathogenic Variants 
+in ACTA2, PRKG1, MYH11, MYLK, and LOX: 
+Recommendations for Surveillance of Aorta, Medical 
+Therapy, and Aortic Surgical Intervention
+Pathogenic variants in ACTA2, PRKG1, MYH11, MYLK, 
+and LOX confer a highly penetrant risk for TAD that is 
+inherited in an autosomal dominant manner. 1-4 In these 
+nsHTADs, baseline imaging of the thoracic aorta with 
+TTE, or with CT or MRI if the ascending aorta is not ade-
+quately visualized by TTE, is recommended; surveillance 
+imaging is then performed annually, if stable. The arch 
+and descending aorta may dilate, in which case surveil-
+lance imaging of these segments is also performed. Less 
+frequent imaging may be considered when the aorta is 
+normal, depending on gene variant, age, and family his-
+tory. Beta-blocker therapy is used to lessen hemody-
+namic stress on the aorta.
+Specific features associated with each gene include: 
+Patients with ACTA2 mutations primarily present with 
+type A or B aortic dissection, have aneurysms that 
+involve the root and ascending aorta, and a subset of 
+pathogenic variants predispose to occlusive vascu-
+lar diseases. 2,5-7 Screening for coronary artery disease 
+and cerebrovascular disease is performed in individu-
+als with specific pathogenic variants. 5,6,8,9 Patients with 
+ACTA2 mutations can suffer type A aortic dissection at 
+Figure 18. Suggested Aortic Monitoring Protocol for Girls and Women With Turner Syndrome Who Are ≥15 Years of Age.
+*Surveillance frequency may vary depending on disease severity (ie, aortic valve dysfunction, severity of coarctation obstruction, hypertension, 
+and left ventricular hypertrophy). Color corresponds to Class of Recommendations in Table 2. ASI indicates aortic size index; BAV, bicuspid aortic 
+valve; CoA, coarctation of the aorta; HTN, hypertension; MRI, magnetic resonance imaging; and TTE, transthoracic echocardiography. Modified 
+from Silberbach et al.9 Copyright 2018, with permission from American Heart Association, Inc. Modified from Gravholt et al.12 Copyright 2017 , with 
+permission from Bioscientifica Limited.
+Downloaded from http://ahajournals.org by on May 30, 2026
+=== PAGE 40 ===
+Circulation. 2022;146:e334–e482. DOI: 10.1161/CIR.0000000000001106 December 13, 2022 e373
+Isselbacher et al 2022 ACC/AHA Aortic Disease Guideline
+CLINICAL STATEMENTS 
+AND GUIDELINES
+aortic diameters <4.5 cm, and consideration of surgery 
+at diameters <4.5 cm is informed by the presence of 
+additional risk factors.10 PRKG1-related HTAD can pres-
+ent in the late teens with type A or B aortic dissection 
+without previous aortic enlargement 11-13; patients with 
+MYH11 mutations primarily present with type A or B 
+aortic dissection (type A aortic dissection may present at 
+aortic diameters <5.0 cm), have aneurysms that involve 
+the root and ascending aorta, and may have peripheral 
+arterial disease4,14; patients with MYLK mutations pres-
+ent at age >40 years with type A aortic dissection with 
+little previous enlargement of the aorta (median aortic 
+diameter, 4.25 cm) 3,15,16; patients with LOX mutations 
+can present with aortic root aneurysms, fusiform dilation 
+of the root and ascending aorta that can extend into the 
+aortic arch, or type A aortic dissection, and they may 
+have mild systemic features of Marfan syndrome. 1,17 ,18 
+The decision regarding the timing of aortic repair in nsH-
+TAD is based on the aortic diameter, age, family history, 
+and the presence or absence of additional risk factors 
+(Table 13).
+6.1.3. BAV Aortopathy
+Recommendations for BAV Aortopathy
+Referenced studies that support the recommendations are 
+summarized in the Online Data Supplement.
+COR LOE Recommendations
+1 B-NR
+1. In patients with a BAV, TTE is indicated to 
+evaluate valve morphology and function, to 
+evaluate the diameter of the aortic root and 
+ascending aorta, and to evaluate for aortic 
+coarctation and other associated cardiovascu-
+lar defects.1-4
+1 C-LD
+2. In patients with a BAV, CT or MRI of the tho-
+racic aorta is indicated when the diameter and 
+morphology of the aortic root, ascending aorta, 
+or both cannot be assessed accurately or 
+completely by TTE.1
+1 C-LD
+3. In patients with a BAV and either HTAD or 
+phenotypic features concerning for Loeys-
+Dietz syndrome, a medical genetics evaluation 
+is recommended.5,6
+1 C-LD
+4. In patients with a BAV and a dilated aortic 
+root or ascending aorta, screening of all first-
+degree relatives by TTE is recommended to 
+evaluate for the presence of a BAV, dilation 
+of the aortic root and ascending aorta, or 
+both; if the diameter and morphology of the 
+aortic root, ascending aorta, or both cannot be 
+assessed accurately or completely by TTE, a 
+cardiac-gated CT or MRI of the thoracic aorta 
+is indicated.7
+2a B-NR
+5. In patients with a BAV, screening of all first-
+degree relatives by TTE is reasonable to 
+evaluate for the presence of a BAV, dilation of 
+the aortic root and ascending aorta, or  
+both.7-10
+Synopsis
+BAV is a common congenital valve condition affecting 
+approximately 1% of the population, with a 2 to 3:1 male-
+to-female predominance.3 BAV most often occurs spo-
+radically but may be inherited in an autosomal dominant 
+pattern with variable penetrance. 5 A BAV may be iso-
+lated or associated with other congenital cardiovascular 
+defects or aortopathy conditions. 5 BAV is often associ-
+ated with aortic valve dysfunction (stenosis or regurgita-
+tion) and is at risk of infective endocarditis. Patients with a 
+BAV often have aortic dilation or aneurysms affecting the 
+aortic root, ascending aorta, or both, with the prevalence 
+of aortic aneurysm increasing with age. 11 Distinct aortic 
+dilation phenotypes have been described. 1,12 Those with 
+BAV and a dilated aorta are at risk for type A aortic dis-
+section.11,13,14 Patients with BAV require lifelong surveil-
+lance imaging of the aorta, even after AVR.
+Recommendation-Specific Supportive Text
+1. Aortic dilation in BAV may affect the aortic root, 
+the ascending aorta, or both. The ascending aorta 
+is most commonly involved, and the dilation some-
+times extends up into the arch. 1-3 The prevalence 
+Table 13. Surgical Thresholds for Prophylactic Aortic Root and Ascending Aortic Re-
+placement in Nonsyndromic Heritable  Thoracic Aortic Disease Based on the Genetic 
+Variant and Additional Risk Factors for Aortic Dissection
+COR* LOE* Genetic Variant Risk FactorsA ortic Diameter (cm)
+2a C-LD ACTA2 No /g1164.5
+2b C-EO ACTA2 Yes† /g1164.2
+2b C-LD PRKG1 No /g1164.2
+2b C-EO PRKG1 Yes† /g1164.0†
+*Patient has risk factors for aortic dissection (family history of type A aortic dissection with minimal aortic en-
+largement, aortic growth rate /g1160.3 cm/y) or signiﬁcant valve disease requiring surgery.
+†Earlier surgery may be considered in patients with a family history of type A aortic dissection in the setting of 
+no or minimal aortic dilation, aortic growth rate /g1160.3 cm/y, or at the patient’s request.
+Colors correspond to COR and LOE in Table 2.
+COR indicates class of recommendation; and LOE, level of evidence.
+Recommendations for BAV Aortopathy (Continued )
+COR LOE Recommendations
+Downloaded from http://ahajournals.org by on May 30, 2026
+=== PAGE 41 ===
+December 13, 2022 Circulation. 2022;146:e334–e482. DOI: 10.1161/CIR.0000000000001106e374
+Isselbacher et al 2022 ACC/AHA Aortic Disease Guideline
+CLINICAL STATEMENTS  
+AND GUIDELINES
+of aortic dilation in BAV is reported from 20% to 
+84%, depending on the population studied and 
+the definition of aortic dilation. 3,12 Patients with 
+BAV and aortic dilation are at risk for aortic dissec-
+tion.3,11,13 The aortic root, ascending aorta, arch, and 
+proximal descending aorta should be imaged by 
+TTE to evaluate for aortic valve function, aortic dila-
+tion, and aortic coarctation. 1-4 Conversely, in other 
+patients undergoing TTE, a finding of unexplained 
+aortic root, ascending aortic dilation, or both should 
+prompt suspicion of an underlying BAV 15; if TTE 
+of the aortic valve is inconclusive for BAV, cardiac 
+magnetic resonance, cardiac CTA, and TEE can be 
+used to better visualize the aortic valve and thereby 
+diagnose BAV.
+2. Cardiac-gated CT or MRI provides superior images 
+of the aortic root and ascending aorta when TTE is 
+inadequate to visualize the full extent of the proxi-
+mal aorta. The choice between CT or MRI depends 
+on patient characteristics, institutional expertise, 
+renal function, affordability, and radiation exposure 
+concerns.16
+3. Certain types of HTAD have an increased preva-
+lence of BAV. For example, BAV is present in ∼10% 
+of patients with Loeys-Dietz syndrome (attribut-
+able to pathogenic variants in TGFBR1, TGFBR2, 
+SMAD3, TGFB2, and TGFB3), 6 and HTAD attrib-
+utable to pathogenic variants in NOTCH1, ACTA2, 
+MAT2A, SMAD6, and LOX also have an increased 
+prevalence of BAV.5,6 Importantly, most patients with 
+BAV and TAAs who undergo genetic testing will 
+not be found to have a pathologic genetic variant, 
+even when their condition is familial. Nevertheless, 
+when the condition is familial, a medical geneticist 
+or specialist in genetic aortopathy should evaluate, 
+counsel, and genetically test patients with BAV and 
+aortopathy.17
+4. Both BAV and aortic root and ascending aortic dila-
+tion may be familial,7 and the inheritance patterns for 
+familial BAV and aortopathy are consistent with an 
+autosomal dominant pattern with incomplete pen-
+etrance.8-10 In families with BAV and aortic root and 
+ascending aortic dilation, obligate carriers may have 
+BAV, aortic dilation, both, or neither.7 In families with 
+BAV and aortic root and ascending aortic dilation, 
+screening of the first-degree relatives (parents, sib-
+lings, and children) with TTE to evaluate for BAV and 
+aortic dilation identifies affected members. If a family 
+member is discovered to have a BAV, aortic dilation, 
+or both, cascade evaluation of other related family 
+members is then indicated. Because families with 
+BAV and aortic dilation may have members with aor-
+tic root and ascending aortic dilation in the absence 
+of a BAV, if the ascending aorta is not adequately 
+assessed by TTE, a CT or MRI should be performed 
+to fully evaluate the size of the ascending aorta.
+5. The prevalence of a BAV in the relatives of a 
+patient with a BAV ranges from 9% to 20%. 8-10 
+Family members of individuals with a BAV may also 
+have aortic dilation. A recent analysis found that 
+TTE screening of first-degree relatives of affected 
+patients, to detect both BAV and aortopathy, proves 
+to be cost-effective.18
+6.1.3.1. Routine Follow-Up of BAV Disease Aortopathy
+Recommendations for Routine Follow-Up of BAV Disease Aortopathy
+Referenced studies that support the recommendations are 
+summarized in the Online Data Supplement.
+COR LOE Recommendations
+1 B-NR
+1. In patients with a BAV who have undergone 
+previous aortic valve repair or replacement 
+and have a diameter of the aortic root, 
+ascending aortic, or both of ≥4.0 cm, lifelong 
+surveillance imaging of the aortic root and 
+ascending aorta by TTE, CT, or MRI is recom-
+mended at an interval dependent on aortic 
+diameter and rate of growth.1-3
+1 C-LD
+2. In patients with a BAV and a diameter of the 
+aortic root, ascending aorta, or both of ≥4.0 
+cm, lifelong surveillance imaging of the aortic 
+root and ascending aorta by TTE, CT, or MRI 
+is recommended at an interval dependent on 
+aortic diameter and rate of growth.4,5
+Synopsis
+Patients with BAV, with or without aortic dilation, require 
+lifelong surveillance of the aortic root and ascending 
+aorta because of risk of late aortic growth. The degree of 
+aortic dilation and the progression of aortopathy may be 
+greater in patients with aortic root phenotype and those 
+with predominant AR. 3,6 Progressive aortic growth may 
+occur after AVR.3,7
+Recommendation-Specific Supportive Text
+1. Patients with BAV who have undergone previous 
+isolated AVR or aortic valve repair remain at risk 
+for future aortic dilation and dissection. In a series 
+of 1 286 patients who underwent isolated AVR for 
+BAV from 1960 to 1995, the 15-year freedom 
+from aortic events (aortic dissection, aortic aneu-
+rysm of >5.0 cm, or aortic aneurysm surgery) was 
+89% but was lower for those with documented 
+aortic dilation at baseline compared with those with 
+normal diameters (85% versus 93%; P=0.001). 8 
+Patients with BAV who have undergone isolated 
+AVR for aortic stenosis and have only mild-to-mod-
+erate aortic dilation are at low risk for adverse aor-
+tic events at 15-year follow-up, 3,9 whereas those 
+who underwent AVR for predominant AR and 
+those with predominant dilation of the aortic root 
+(“root phenotype”) are at higher risk for adverse 
+aortic events during follow-up. Among 56 patients 
+with BAV who underwent isolated AVR for AR and 
+Downloaded from http://ahajournals.org by on May 30, 2026
+=== PAGE 42 ===
+Circulation. 2022;146:e334–e482. DOI: 10.1161/CIR.0000000000001106 December 13, 2022 e375
+Isselbacher et al 2022 ACC/AHA Aortic Disease Guideline
+CLINICAL STATEMENTS 
+AND GUIDELINES
+had concomitant aortic root dilation (4.0–5.0 cm), 
+adverse aortic events occurred in 34% of patients 
+during follow-up.4 Patients with BAV who undergo 
+isolated AVR for AR are at higher risk for late aortic 
+dissection than patients who underwent AVR for 
+aortic stenosis.10
+2. In a prospective study of 90 adults with BAV, the 
+mean increase in ascending aortic diameter was 0.47 
+mm/y (range, 0.2–2.3 mm/y) over a 4.8-year follow-
+up.11 Surveillance imaging can document current aor-
+tic diameters and permit calculation of aortic growth 
+rates.2,6 Among a cohort of adult patients with BAV 
+(mean age, 55±17 years) without a TAA at baseline 
+(ie, the baseline aortic diameter was <4.5 cm), 13% 
+went on to develop a TAA at 14±6 years after diag-
+nosis, and the 25-year risk of TAA was 26%.12 For 
+many adults, an aortic root, ascending aortic, or both 
+diameter ≥4.0 cm is considered dilated and should 
+therefore be monitored over time with surveillance 
+imaging to detect progressive dilation.
+6.1.3.2. BAV Aortopathy Interventions: Replacement of 
+the Aorta in Patients With BAV
+Recommendations for BAV Aortopathy Interventions: Replacement of 
+the Aorta in Patients With BAV
+Referenced studies that support the recommendations are 
+summarized in the Online Data Supplement.
+COR LOE Recommendations
+1 B-NR
+1. In patients with a BAV and a diameter of 
+the aortic root, ascending aorta, or both 
+of ≥5.5 cm, surgery to replace the aortic 
+root, ascending aorta, or both is recom-
+mended. 1-3
+2a B-NR
+2. In patients with a BAV and a cross- sectional 
+aortic root or ascending aortic area (cm2) to 
+height (m) ratio of ≥10 cm2/m, surgery to 
+replace the aortic root, ascending aorta, or 
+both is reasonable, when performed by expe-
+rienced surgeons in a Multidisciplinary Aortic 
+Team.3,4
+2a B-NR
+3. In patients with a BAV, a diameter of the aortic 
+root or ascending aorta of 5.0 cm to 5.4 cm, 
+and an additional risk factor for aortic dissec-
+tion (Table 14), surgery to replace the aortic 
+root, ascending aorta, or both is reasonable, 
+when performed by experienced surgeons in a 
+Multidisciplinary Aortic Team.1,5
+2a B-NR
+4. In patients with a BAV who are undergoing 
+surgical aortic valve repair or replacement, 
+and who have a diameter of the aortic root 
+or ascending aorta of ≥4.5 cm, concomitant 
+replacement of the aortic root, ascending 
+aorta, or both is reasonable, when performed 
+by experienced surgeons in a Multidisciplinary 
+Aortic Team.1,6
+2b B-NR
+5. In patients with a BAV, a diameter of the aortic 
+root or ascending aorta of 5.0 cm to 5.4 cm, 
+no other risk factors for aortic dissection 
+(Table 14), and at low surgical risk, surgery 
+to replace the aortic root, ascending aorta, or 
+both may be reasonable, when performed by 
+experienced surgeons in a Multidisciplinary 
+Aortic Team.1,2,5
+Synopsis
+The timing of surgery to replace the aorta in BAV disease 
+depends on the morphology and diameter of the aorta, 
+aortic valve function, rate of aortic growth, family history, 
+patient characteristics, patient wishes, and the expertise 
+of the surgeon and institution.1,7
+Recommendation-Specific Supportive Text
+1. Patients with a BAV without significant aortic dila-
+tion are at low risk for type A aortic dissection, 3,8 
+whereas those patients with BAV and aneurysmal 
+dilation of the aortic root, ascending aorta, or both 
+have a significantly increased risk of aortic dis-
+section.5,8 The risk of aortic dissection rises with 
+increasing aortic diameter, and there are “hinge 
+points” when the ascending aorta reaches diam-
+eters >5.25 cm to 5.75 cm.9
+2. Indexing the maximal aortic root or ascending aortic 
+diameter to height is predictive of aortic dissection 
+risk and therefore informs surgical thresholds. 3,4 
+Moreover, when comparing long-term outcomes 
+in patients with BAV and aortic root or ascending 
+aortic dilation, survival was significantly better for 
+those with an aortic cross-sectional area (in cm 2) 
+to height (in meters) ratio of ≥10 who underwent 
+elective prophylactic aortic repair compared with 
+those who did not undergo elective repair.3
+3. There are additional risk factors for aortic dissec-
+tion that may inform aortic surgical thresholds in 
+patients with a BAV. A family history of aortic dis-
+section10 and rapid aortic growth of ≥0.3 cm/y 
+(when measured similarly with same technique) are 
+both risk factors for aortic dissection. Patients with 
+BAV and aortic coarctation have been reported to 
+be at increased risk of aortic dissection,11 although 
+in a recent report of 499 patients with BAV (mean 
+age, 40±16 years), of whom 24% also had aortic 
+coarctation, there was no difference in adverse aor-
+tic events between those with or without coarcta-
+tion.12 Patients with dilation of the aortic root (“root 
+phenotype”) represent 10% to 20% of patients 
+with BAV and aortopathy and may have more rapid 
+aortic growth and an increased risk of aortic com-
+plications.13,14 Because surgical aortic root replace-
+ment (and VSRR) is more complex than ascending 
+aortic replacement, shared decision-making is 
+often used when evaluating the risks and benefits 
+Table 14. Risk Factors for Aortic Dissection
+Family history of aortic dissection
+Aortic growth rate /g1160.3 cm/y
+Aortic coarctation
+“Root phenotype” aortopathy
+Downloaded from http://ahajournals.org by on May 30, 2026
+=== PAGE 43 ===
+December 13, 2022 Circulation. 2022;146:e334–e482. DOI: 10.1161/CIR.0000000000001106e376
+Isselbacher et al 2022 ACC/AHA Aortic Disease Guideline
+CLINICAL STATEMENTS  
+AND GUIDELINES
+of elective aortic root replacement at aortic diam-
+eters <5.5 cm.1,2,5,6
+4. In patients with a BAV and indications for aortic 
+valve intervention for stenosis or regurgitation, 
+the data are limited regarding the degree of aor-
+tic dilation that warrants replacement of the aortic 
+root, ascending aorta, or both at the time of AVR. 
+Patients with a long life expectancy, low surgical 
+risk, or with the root phenotype and predominant 
+AR may benefit from concomitant prophylactic aor-
+tic repair. Conversely, for patients at higher surgi-
+cal risk, especially those with aortic stenosis and 
+only moderate ascending aortic dilation, the risks 
+of concomitant aortic repair may not be warranted.
+5. Limited data are available on the risk of aortic 
+dissection among those with a BAV and aortic 
+aneurysm diameter of 5.0 cm to 5.4 cm.5,15 Patient-
+related characteristics and surgical expertise may 
+inform the timing of surgery, especially in low-risk 
+patients with BAV and aortic aneurysms of 5.0 cm 
+to 5.4 cm.1,2,5,6
+6.2. AAA: Cause, Risk Factors, and Screening
+Recommendations for AAA: Cause, Risk Factors, and Screening
+Referenced studies that support the recommendations are 
+summarized in the Online Data Supplement.
+COR LOE Recommendations
+1 B-R
+1. In men who are ≥65 years of age who have 
+ever smoked, ultrasound screening for 
+detection of AAA is recommended.1
+1 C-LD
+2. In men or women who are ≥65 years of 
+age and who are first-degree relatives of 
+patients with AAA, ultrasound screening for 
+detection of AAA is recommended.2,3
+2a C-EO
+3. In women who are ≥65 years of age who 
+have ever smoked, ultrasound screening for 
+detection of AAA is reasonable.4,5
+2b C-LD
+4. In men or women <65 years of age and 
+who have multiple risk factors (Table 15) or 
+a first-degree relative with AAA, ultrasound 
+screening for AAA may be considered.5,6
+3: No 
+ Benefit B-NR
+5. In asymptomatic men or women >75 years 
+who have had a negative initial ultrasound 
+screen, repeat screening for detection of 
+AAA is not recommended.1
+Synopsis
+Although AAA share risk factors with typical athero-
+sclerosis, AAA are histopathologically distinct and char-
+acterized by medial degeneration of the aortic wall. 7 
+Most AAA develop an intraluminal thrombus that con-
+tributes to ongoing wall degradation via oxidative stress, 
+smooth muscle cell apoptosis, proteolysis of the extra-
+cellular matrix, and adventitial inflammation. 8 A complex 
+interplay of hereditary and environmental risk factors 
+contributes to AAA, most notably older age, male sex, 
+smoking, and a positive family history (Table 15). 2,3,9-12 
+Lifetime risk for AAA is 8.2% in men and 10.5% in cur-
+rent smokers. 11 At least 10% to 25% of patients with 
+AAA have a family member with the same condition, 2 
+and AAA may occur concomitantly with thoracic aortic 
+aneurysmal disease, especially in some genetic aortop-
+athies.11 Inflammatory aortitis is a rare cause of AAA13,14 
+(see Section 9.1, “Inflammatory Aortitis – Diagnosis and 
+Treatment of Takayasu Arteritis and Giant Cell Arteritis 
+(GCA)”). The growth of AAA is nonlinear, with a mean 
+rate of 2.6 mm/y for AAA <5.0 cm, 15 and may accel-
+erate in the setting of smoking or a family history of 
+AAA,16,17 and smoking may have a greater impact on 
+growth in women than in men. 4 Ultrasound screening 
+should be targeted toward those at the greatest risk for 
+AAA and growth (Figure 19), with the goal of prevent-
+ing rupture and associated mortality. 1,5,6
+Recommendation-Specific Supportive Text
+1. Older age, male sex, and smoking are independent, 
+strong risk factors for the development of AAA.9-11 
+Smoking history is defined as lifetime use of ≥100 
+cigarettes, but risk attributable to smoking varies 
+significantly depending on use, with lowest risk of 
+AAA in those who have lower versus higher pack-
+year history. 9 Based on a meta-analysis of ran-
+domized clinical trials inclusive of nearly 125 000 
+mostly male patients, screening of men ≥65 years 
+of age reduced long-term AAA-related mortal-
+ity (4 RCTs: OR, 0.65; 95% CI, 0.57–0.74) and 
+AAA-related ruptures (4 RCTs: OR, 0.62; 95% CI, 
+0.55–0.70) over 12 to 15 years. 1 In a recent pop-
+ulation-based study (of both men and women) in 
+the United Kingdom, two-thirds of the acute AAA 
+events occurred in those ≥75 years of age; con-
+sequently, screening to elderly patients should be 
+offered, provided they would benefit from potential 
+aortic repair.18
+2. Having a first-degree relative with AAA is a 
+well-known and well-established risk factor for 
+development of AAA. 2,3 Small cohort studies of 
+ultrasound screening in relatives of those with 
+AAA have identified an overall prevalence of new 
+AAA of 10% to 20%, with the highest prevalence 
+of 25% found among brothers. Indeed, the overall 
+Table 15. Risk Factors for Abdominal Aortic Aneurysm
+Strong Risk Factors Additional Risk Factors
+Smoking history Hypertension
+Older age Hyperlipidemia
+Male sexW hite race
+Family history of abdominal aortic 
+aneurysm
+Inherited vascular connective 
+tissue disorder
+Atherosclerotic cardiovascular 
+disease
+Downloaded from http://ahajournals.org by on May 30, 2026
+=== PAGE 44 ===
+Circulation. 2022;146:e334–e482. DOI: 10.1161/CIR.0000000000001106 December 13, 2022 e377
+Isselbacher et al 2022 ACC/AHA Aortic Disease Guideline
+CLINICAL STATEMENTS 
+AND GUIDELINES
+lifetime prevalence of AAA is estimated to be 32% 
+in brothers of those with AAA, 2 suggesting the 
+need for a targeted and individualized screening 
+approach for those who already meet age criteria 
+within families.
+3. Select women may be at risk for AAA and related 
+complications.5 Randomized trials and large obser-
+vational studies that evaluate outcomes of screen-
+ing for AAA by ultrasound in women are lacking, 
+as female sex has not been proven an indepen-
+dent risk factor for AAA, 11 and overall prevalence 
+of AAA in women is lower than in men. However, 
+the risk of AAA may be potentiated by smoking in 
+women; in 1 study, smoking was associated with a 
+15-fold increased risk of AAA among women (rel-
+ative risk, 15.0; 95% CI, 13.2–17 .0) versus 7-fold 
+among men (relative risk, 7 .3; 95% CI, 6.4–8.2). 4 
+Practical implementation and outcomes of screen-
+ing in women remain uncertain and warrant further 
+study.
+4. Select patients <65 years of age may be at 
+increased risk of AAA rupture, and data suggest 
+a significant proportion of those undergoing repair 
+for ruptured AAA did not meet the standard criteria 
+for screening based on age.5,6 In a large study from 
+the National Inpatient Sample, 10 603 of 25 777 
+patients with ruptured AAA (24%) were <65 years 
+of age. 5 Notably, in patients <65 years, data are 
+lacking on the mortality benefit of AAA screening.
+5. Some patients may develop AAA after the age 
+of 75 years even if they had an initial negative 
+screen between the ages of 65 and 75 years. 
+Although somewhat limited, data from cohort stud-
+ies suggest long-term AAA-related mortality is low 
+among patients with an initial negative screening 
+ultrasound who had a subsequent AAA detected 
+on repeat screening after the age of 75 years. 1 
+However, select patients at low surgical risk who 
+may have had borderline enlarged abdominal aorta 
+measurements on initial screening and who have 
+significant AAA risk factors (Table 15) may be con-
+sidered for repeat screening on an individualized 
+basis.
+6.3. Growth and Natural History of Aortic 
+Aneurysms
+Aortic aneurysm growth and natural history is variable 
+and dependent on the underlying etiology, such as HTAD 
+(eg, Marfan syndrome and Loeys-Dietz syndrome), BAV, 
+or sporadic aortic disease without a known genetic basis. 
+There is significant evidence that aortic diameter cor-
+relates with aortic dissection, aortic rupture, and mortal-
+ity.1-3 In patients with Marfan syndrome, the mean rate 
+Figure 19. Algorithm for Identifying Patients to Screen for Abdominal Aortic Aneurysm.
+Colors correspond to Class of Recommendations in Table 2. AAA indicates abdominal aortic aneurysm.
+Downloaded from http://ahajournals.org by on May 30, 2026
+=== PAGE 45 ===
+December 13, 2022 Circulation. 2022;146:e334–e482. DOI: 10.1161/CIR.0000000000001106e378
+Isselbacher et al 2022 ACC/AHA Aortic Disease Guideline
+CLINICAL STATEMENTS  
+AND GUIDELINES
+of growth of the aortic root has been reported to be 
+0.26 cm/y (range, 0.13–0.35 cm/y), with a tendency for 
+larger aneurysms (>6.0 cm) to grow faster (0.46 cm/y).4 
+Patients with BAV have a slower rate of aortic growth, with 
+a root predominant phenotype growing at 0.06 cm/y (0.6 
+mm/y) and the more common ascending aortic pheno-
+type at 0.03 cm/y (0.3 mm/y). 5 Moreover, among those 
+with tricuspid aortic valves and sporadic ascending aortic 
+dilation, the mean rate of growth is even slower, as low as 
+0.01 cm/y (0.1 mm/y).6 Aortic arch aneurysm growth has 
+been reported to be 0.25 cm/y. 7 The mean growth rate 
+of descending and TAAA has been reported to be 0.19 
+cm/y, with rates increasing as the diameter increases. 8 
+The mean rate of growth of AAA is 0.26 cm/y, with larger 
+aneurysms growing as fast as 0.5 cm/y.9
+6.4. Medical Management of Sporadic and 
+Degenerative Aortic Aneurysm Disease
+The primary goals of medical therapy in sporadic and 
+degenerative thoracic and abdominal aneurysmal dis-
+ease are to reduce growth rates, the risk of aortic-related 
+mortality, and the need for aortic repair; a secondary goal 
+is to decrease the risk of nonaortic cardiovascular events, 
+given the multiple shared risk factors between aneurys-
+mal and atherosclerotic disease.1,2 Lifestyle modification, 
+including smoking cessation and blood pressure (BP) 
+control, improves overall cardiovascular health and may 
+be beneficial to patients with aortic aneurysmal disease. 
+Pharmacotherapy specific to the treatment of aortic 
+disease includes the use of selected antihypertensives 
+(especially beta blockers and ARBs) that may mitigate 
+the proteolysis pathways, leading to medial degenera-
+tion and reducing of sheer stress on the aortic wall, as 
+well as the use of statins, which may target inflammatory 
+and atherosclerotic pathways.3 Outcomes data from clini-
+cal trials of medical therapy in aortic aneurysms broadly 
+are limited, as most trials have focused on cohorts of 
+patients with either Marfan syndrome or AAA. Conse-
+quently, correlations may be imprecise when applied to 
+other populations.
+6.4.1. Medical Therapy and Risk Factor Modification 
+in Sporadic TAA
+6.4.1.1. BP Management in Sporadic TAA
+Recommendations for BP Management in TAA
+Referenced studies that support the recommendations are 
+summarized in the Online Data Supplement.
+COR LOE Recommendations
+1 B-NR
+1. In patients with TAA and an average systolic 
+BP (SBP) of ≥130 mm Hg or an average 
+diastolic BP (DBP) of ≥80 mm Hg, the use of 
+antihypertensive medications is recommended 
+to reduce risk of cardiovascular events.1-3
+2a C-LD
+2. In patients with TAA, regardless of cause and 
+in the absence of contraindications, use of 
+beta blockers to achieve target BP goals is 
+reasonable.1,4,5
+2a C-EO
+3. In patients with TAA, regardless of etiology 
+and in the absence of contraindications, 
+ARB therapy is a reasonable adjunct to beta-
+blocker therapy to achieve target BP goals.6
+Synopsis
+The goal of BP control in TAA is to slow growth and 
+prevent aortic dissection, as well as to reduce nonaor-
+tic cardiovascular events, such as myocardial infarction 
+and stroke. Uncontrolled hypertension increases the risk 
+for aortic dissection,7 so achieving a SBP goal of ≤130 
+mm Hg and a DBP goal of ≤80 mm Hg, with the use of 
+antihypertensive therapy in those with hypertension and 
+TAA, is advised. Although data are limited, achieving a 
+more intensive SBP goal of <120 mm Hg, if tolerated, 
+may have added benefit in selected patients and who 
+are not undergoing surgical repair.4 There has been sig-
+nificant progress in understanding the molecular basis of 
+aneurysmal development and growth, 8 and a number of 
+clinical trials have explored the effects of beta-blocker 
+and ARB therapy. 9 A summary of these trials specific 
+to genetic aortopathies is covered in detail in Section 
+6.1.2, “Genetic Aortopathies.” However, as the molecular 
+mechanisms of aneurysm formation may have similari-
+ties between aneurysm patients with and without Marfan 
+syndrome, data from these studies may be extrapolated 
+in guiding the treatment of aortic disease of other causes. 
+Further clinical trials are clearly needed.
+Recommendation-Specific Supportive Text
+1. No randomized clinical trials have evaluated the 
+optimal threshold to which BP should be lowered 
+in patients with TAA to reduce the risk of aortic 
+complications (aortic growth, aortic dissection, 
+or aortic rupture). Updated hypertension guide-
+lines from the ACC and AHA suggest all patients 
+with clinical cardiovascular disease should have a 
+target SBP <130 mm Hg, DBP <80 mm Hg, or 
+both.1 Evidence supports aggressive BP lower-
+ing to reduce vascular-related adverse events and 
+all-cause mortality.2,3 Data from SPRINT (Systolic 
+Blood Pressure Intervention Trial) showed that 
+intensive BP control to a SBP <120 mm Hg, if 
+tolerated, reduced cardiovascular events by 25% 
+and all-cause mortality rate by 27% in patients 
+without diabetes over a median of 3.3 years, com-
+pared with a control with a SBP target of <140 
+mm Hg.10,11
+Recommendations for BP Management in TAA (Continued )
+COR LOE Recommendations
+Downloaded from http://ahajournals.org by on May 30, 2026
+=== PAGE 46 ===
+Circulation. 2022;146:e334–e482. DOI: 10.1161/CIR.0000000000001106 December 13, 2022 e379
+Isselbacher et al 2022 ACC/AHA Aortic Disease Guideline
+CLINICAL STATEMENTS 
+AND GUIDELINES
+2. Prospective data on the positive effects of beta 
+blockers in TAA based on cause are limited, with 
+the most robust evidence derived from cohort 
+studies of those with Marfan syndrome (see 
+Section 6.1.2.2, “Marfan Syndrome”). In a small, 
+open-label, randomized clinical trial of prophylac-
+tic propranolol (mean dose, 212±68 mg/d) versus 
+placebo in adolescents and adults with Marfan 
+syndrome, beta-adrenergic blocking drugs slowed 
+aortic root growth and reduced aortic complica-
+tions.5 In a study of 155 children <12 years of age 
+with Marfan syndrome, beta blockers decreased 
+the rate of aortic root growth by 0.16 mm/y, on 
+multivariate analysis. 4 In the “2017 Hypertension 
+Clinical Practice Guideline,” beta-blocker therapy is 
+the recommended first-line antihypertensive drug 
+therapy for patients with hypertension and TAD.1
+3. A meta-analysis of 1 510 randomized patients 
+evaluating the effect of ARBs on TAA associated 
+with Marfan syndrome showed slower growth of 
+the aortic root with the use of ARBs compared with 
+placebo; in a direct comparison with beta-blocker 
+therapy, there was no difference in aortic growth; 
+and the combination of beta blocker plus ARB led 
+to slower aortic growth than beta blockers alone. 6 
+In the Jikei Heart Study,12 which supported the use 
+of ARBs in the 2010 ACC/AHA thoracic aortic 
+disease guidelines, Japanese patients on an anti-
+hypertensive drug regimen that included valsartan 
+had a lower rate of adverse cardiovascular events, 
+including mortality and, in particular, a reduction 
+was showed in the incidence of aortic dissection. 
+However, this study was subsequently retracted 13 
+and, consequently, the LOE for use of ARBs has 
+been downgraded to C from B.
+6.4.1.2. Treatment of TAA With Statins
+Recommendations for Treatment of TAA With Statins
+COR LOE Recommendations
+2a C-LD
+1. In patients with TAA and imaging or clinical 
+evidence of atherosclerosis, statin therapy at 
+moderate or high intensity is  reasonable.1,2
+2b C-LD
+2. In patients with TAA who have no evidence of 
+atherosclerosis, the use of statin therapy may 
+be considered.3-6
+Synopsis
+Clinical atherosclerotic cardiovascular disease (ASCVD) 
+encompasses aortic aneurysms of atherosclerotic ori-
+gin. For the purpose of this guideline, we also define 
+aortic aneurysm with concomitant PAU or visualized 
+atheroma as atheromatous aortic disease, even in the 
+presence of a genetic syndrome, given some causes 
+have shared risk factors with ASCVD. Based on the 
+AHA/ACC “2018 Guideline on the Management of 
+Blood Cholesterol,” 1 a high-intensity statin for >50% 
+reduction in low-density lipoprotein (LDL) for patients 
+<75 years of age with clinical atherosclerotic cardio-
+vascular disease was recommended to prevent adverse 
+events (eg, myocardial infarction and stroke). If a high-
+intensity statin cannot be used, a moderate-intensity 
+statin can be initiated. 1 According to evidence from 
+animal studies in nonatherosclerotic-related TAA, statin 
+therapy may prevent growth and adverse remodeling. 7 
+However, its use in clinical practice at this time is not 
+fully understood.
+Recommendation-Specific Supportive Text
+1. Atherosclerotic aortic aneurysms increase risk 
+of stroke and myocardial infarction and thus are 
+considered a coronary artery disease equivalent 
+according to NCEP ATP III (National Cholesterol 
+Education Program Adult Treatment Panel III), with 
+a >20% risk of an event within 10 years. 8 The 
+“2016 AHA/ACC Guideline on the Management 
+of Patients With Lower Extremity Peripheral Artery 
+Disease”9 gave a COR 2a recommendation for use 
+of high-intensity statin in patients with noncoronary 
+atherosclerotic disease to achieve an LDL goal 
+of <70 mg/dL. From the Cholesterol Treatment 
+Trialists’ Collaboration, when combining data from 
+5 RCTs of 39 612 patients over median 5.1 years, 
+more intensive cholesterol lowering in patients with 
+ASCVD reduced major cardiovascular events by an 
+additional 15% beyond what was achieved with 
+less intensive cholesterol lowering. 1,2 In patients 
+with sporadic or genetically mediated aneurysms, if 
+there is concomitant atherosclerotic disease else-
+where, then statin therapy is still reasonable.
+2. It has long been hypothesized that the pleiotropic 
+effects of statins may be beneficial in preventing 
+the adverse vascular wall remodeling associated 
+with TAAs, thereby slowing growth, regardless of 
+cause and whether associated atherosclerosis is 
+present. Animal studies have shown a reduction in 
+thoracic aneurysm growth with statin therapy, possi-
+bly via regulation of MMP activity.7 ,10 A study of 1348 
+patients with thoracic aortic ectasia showed, in a 
+propensity-matched analysis, a possible benefit with 
+statin therapy in the reduction of aortic growth rate 
+as well as aortic complications.3,11 In a retrospective 
+study that included 2267 patients who underwent 
+TEVAR for aneurysmal disease, 1148 (64%) of 
+whom had been treated with a statin preoperatively, 
+preoperative statin therapy was associated with sig-
+nificantly lower perioperative complication rates and 
+5-year mortality.12 A possible benefit of statins in 
+prevention of adverse aortic-related outcomes was 
+also showed in a small cohort study, and slowing 
+of aortic growth is suggested by 2 small studies in 
+patients with BAV and aortopathy.6,8
+Downloaded from http://ahajournals.org by on May 30, 2026
+=== PAGE 47 ===
+December 13, 2022 Circulation. 2022;146:e334–e482. DOI: 10.1161/CIR.0000000000001106e380
+Isselbacher et al 2022 ACC/AHA Aortic Disease Guideline
+CLINICAL STATEMENTS  
+AND GUIDELINES
+6.4.1.3. Smoking Cessation in TAA
+Recommendation for Smoking Cessation in TAA
+COR LOE Recommendation
+1 C-LD 1. In patients with TAA who smoke cigarettes, smoking cessation efforts are recommended.1,2
+Synopsis
+Smoking cessation and avoidance of secondhand smoke 
+exposure is considered a healthy lifestyle modification in 
+patients with TAAs, regardless of cause. Many patients 
+cared for in cardiovascular clinical practices have interest 
+in smoking cessation; thus, implementation of an effec-
+tive strategy using the 5 A’s (Ask, Advise, Assess, Assist, 
+and Arrange) is worthwhile, along with a referral to dedi-
+cated programs, use of app-based tools, pharmacother-
+apy (which includes nicotine replacement, bupropion, or 
+varenicline), or both. 1-3 Although the use of e-cigarettes 
+has been shown to be an effective strategy in smoking 
+cessation,4 the efficacy and, importantly, safety of e-cig-
+arette use in patients with TAA is not well understood.
+Recommendation-Specific Supportive Text
+1. There are many validated options for smoking ces-
+sation for patients who continue to smoke and 
+have TAA.1-3 Although no randomized clinical trials 
+have evaluated the effect of smoking cessation on 
+outcomes in TAA, smoking is a risk factor for TAA 
+expansion and, among those with atherosclerotic 
+aortic disease, smoking cessation reduces the rates 
+of myocardial infarction and death. 5,6 The use of 
+e-cigarettes, although an effective smoking cessa-
+tion tool, has not been shown to be safe when used 
+in patients with vascular disease, including TAA; fur-
+ther, small studies suggest that the flavoring chemi-
+cals in e-cigarettes may have an adverse effect 
+on vascular endothelial function and relaxation via 
+nitric oxide and cyclic guanosine monophosphate-
+mediated signaling.7, 8
+6.4.1.4. Antiplatelet Therapy in TAA
+Recommendation for Antiplatelet Therapy in TAA
+COR LOE Recommendation
+2a C-EO
+1. In patients with atherosclerotic TAA and con-
+comitant aortic atheroma or PAU, the use of 
+low-dose aspirin is reasonable, unless contra-
+indicated.1,2
+Synopsis
+Aortic aneurysms of atherosclerotic origin are consid-
+ered a coronary artery disease equivalent according to 
+the NCEP ATP III, with a >20% risk of an event within 
+10 years.3 The 2006 updated “AHA/ACC Guidelines for 
+Secondary Prevention for Patients With Coronary and 
+Other Atherosclerotic Vascular Disease” 1 recommend 
+use of low-dose aspirin (75–162 mg/d) in patients with 
+atherosclerotic aortic disease. Even in the absence of 
+TAA, this remains true in other atherosclerotic aortic dis-
+eases, such as high-grade atheroma, PAU, or both.
+Recommendation-Specific Supportive Text
+1. In the SPARC (Stroke Prevention: Assessment of 
+Risk in a Community) study, aortic atherosclerosis 
+was associated with coronary artery disease (OR, 
+2.99; 95% CI, 1.47–6.10; P=0.003).2 In turn, in 
+the presence of coronary artery disease, aspirin 
+has long been recommended to reduce the risk 
+of cardiovascular events, including stroke, death 
+caused by coronary artery disease, and myocardial 
+infarction.1
+6.4.2. Medical Therapy and Risk Factor Modification 
+in AAA
+6.4.2.1. BP Management in AAA
+Recommendation for BP Management in AAA
+Referenced studies that support the recommendation are summarized 
+in the Online Data Supplement.
+COR LOE Recommendation
+1 B-NR
+1. In patients with AAA and an average SBP of 
+≥130 mm Hg, or an average DBP of ≥80 mm 
+Hg, the use of antihypertensive medication is 
+recommended to reduce risk of cardiovascular 
+events.1-3
+Synopsis
+Reducing cardiovascular events such as myocardial 
+infarction and stroke, as well as preventing aneurysm 
+growth and rupture, are the main goals in antihyper-
+tensive therapy in AAA. Uncontrolled hypertension is a 
+known risk factor for aortic rupture and dissection; there-
+fore, achieving an SBP goal of <130 mm Hg, and a DBP 
+goal of <80 mm Hg with the use of antihypertensive 
+therapy in those with hypertension and AAA can reduce 
+adverse clinical outcomes, and some patients may ben-
+efit from more intensive lowering with an SBP goal of 
+<120 mm Hg.4 The most robust evidence of antihyper-
+tensive therapy in AAA is for beta blockers and agents 
+that alter the renin angiotensin system; however, in pro-
+spective clinical trials in humans, no specific agent has 
+been proven to inhibit AAA growth.
+Recommendation-Specific Supportive Text
+1. Updated hypertension guidelines from the ACC 
+and AHA suggest all patients with clinical cardio-
+vascular disease have a target SBP of <130 mm 
+Hg and/or DBP <80 mm Hg. 1 Evidence supports 
+aggressive BP lowering to reduce vascular-related 
+adverse events and all-cause mortality. 2,3 A more 
+Downloaded from http://ahajournals.org by on May 30, 2026
+=== PAGE 48 ===
+Circulation. 2022;146:e334–e482. DOI: 10.1161/CIR.0000000000001106 December 13, 2022 e381
+Isselbacher et al 2022 ACC/AHA Aortic Disease Guideline
+CLINICAL STATEMENTS 
+AND GUIDELINES
+intensive SBP goal of <120 mm Hg, if tolerated, 
+may have added benefit in select patients without 
+diabetes and who are not undergoing surgical aor-
+tic repair. However, data are limited to the single 
+randomized SPRINT,4 which showed that intensive 
+BP control to SBP <120 mm Hg reduced cardio-
+vascular events by 25% and all-cause mortality by 
+27% in patients without diabetes over a median of 
+3.3 years, compared with a control with an SBP tar-
+get of <140 mm Hg.4,5
+6.4.2.2. Treatment of AAA With Statins
+Recommendations for Treatment of AAA With Statins
+Referenced studies that support the recommendations are 
+summarized in the Online Data Supplement.
+COR LOE Recommendations
+1 B-NR
+1. In patients with AAA and evidence of aortic 
+atherosclerosis, statin therapy at moderate or 
+high intensity is recommended.1-3
+2b C-LD
+2. In patients with AAA but no evidence of 
+atherosclerosis, statin therapy may be 
+ considered.4,5
+Synopsis
+ASCVD includes noncoronary atherosclerotic disease 
+such as peripheral artery disease (PAD) and AAA. 6 For 
+the purpose of this guideline, we define abdominal AAA 
+of atherosclerotic cause as those with visualized aortic 
+wall atheroma, penetrating aortic ulceration either within 
+the aneurysm or at another site along the aorta, or both, 
+with a limitation being that many patients with geneti-
+cally mediated AAA (see Section 6.2, “AAA: Cause, Risk 
+Factors and Screening”) may have concomitant ASCVD. 
+The AHA/ACC “2018 Guideline on the Management of 
+Blood Cholesterol,”9 using evidence from the Cholesterol 
+Treatment Trialists’ Collaboration, recommended a high-
+intensity statin or, in some cases, moderate-intensity, for 
+patients with clinical ASCVD. A 50% reduction in LDL 
+for such patients <75 years of age can prevent adverse 
+events, such as myocardial infarction and stroke.7 Ongo-
+ing study is needed to evaluate clinical outcomes of 
+statin therapy in patients with nonatherosclerotic AAA.
+Recommendation-Specific Supportive Text
+1. AAA of atherosclerotic cause is considered a 
+coronary artery disease equivalent, with a >20% 
+risk of a cardiovascular event within 10 years. 8 
+Intensive cholesterol lowering in patients with 
+ASCVD reduces major cardiovascular events by 
+an additional 15% beyond what is achieved with 
+less intensive cholesterol lowering. 7, 9 From a large 
+Danish case-control study, current, but not a his-
+tory of previous, statin use was associated with 
+decreased 30-day mortality rates in patients with 
+ruptured AAA (46.1% versus 59.3%, respec-
+tively; adjusted mortality rate, 0.80; 95% CI, 0.68–
+0.95).10 Retrospective data from 5 892 patients 
+enrolled in the EUROSTAR (EUROpean collabo-
+rators on Stent-graft Techniques for abdominal 
+aortic Aneurysm Repair) registry showed improved 
+survival over 5 years of follow-up associated with 
+statin use (81% for statin users versus 77% for 
+nonusers; P=0.005).11 Additionally, in a large reg-
+istry-based study of 37 950 patients undergoing 
+repair of AAAs, those not previously on statin ther-
+apy who were started on statin before discharge 
+had improved 1- and 5-year survival compared with 
+those who remained off statin therapy.12
+2. In a recent meta-analysis, in broad cohorts of 
+patients with AAA, statin therapy was associ-
+ated with slower aneurysm growth, reduced risk 
+of rupture, and lower 30-day mortality after aor-
+tic repair 4; because atherosclerosis is so preva-
+lent among patients with AAA, it was not possible 
+to distinguish whether statin therapy benefited 
+those without atherosclerosis equally. The mech-
+anisms by which statins improve survival in AAA 
+warrant further study, as in 1 single prospective 
+cohort study of patients undergoing long-term 
+surveillance, statins had not been shown to slow 
+the growth rate of AAA or have direct effect 
+on matrix metalloproteinase-9 or interleukin-6 
+concentrations. 5
+6.4.2.3. Smoking Cessation in AAA
+Recommendation for Smoking Cessation in AAA
+COR LOE Recommendation
+1 C-LD
+1. In patients with AAA who smoke cigarettes, 
+smoking cessation efforts are recom-
+mended.1-4
+Synopsis
+Cigarette smoking is a major risk factor for the develop-
+ment, growth, and complications of AAA (see Section 6.2, 
+“AAA: Cause, Risk Factors, and Screening”) and increases 
+the risk for adverse clinical outcomes in the perioperative 
+setting for AAA repair. Healthy lifestyle modifications in 
+ASCVD, such as atherosclerotic AAA and PAU, include 
+smoking cessation and avoidance of secondhand smoke. 
+Effective strategies in those patients motivated to quit 
+smoking use the 5 A’s (Ask, Advise, Assess, Assist, and 
+Arrange) and may include dedicated multidisciplinary pro-
+grams, app-based tools, or pharmacotherapy with nicotine 
+replacement, bupropion, varenicline, or all 3. 1-3 Although 
+e-cigarette use has been shown to be an effective strat-
+egy in smoking cessation,4 the efficacy and safety of its 
+use in patients with AAA has not been shown.
+Downloaded from http://ahajournals.org by on May 30, 2026
+=== PAGE 49 ===
+December 13, 2022 Circulation. 2022;146:e334–e482. DOI: 10.1161/CIR.0000000000001106e382
+Isselbacher et al 2022 ACC/AHA Aortic Disease Guideline
+CLINICAL STATEMENTS  
+AND GUIDELINES
+Recommendation-Specific Supportive Text
+1. No randomized clinical trials have assessed the 
+effect of smoking cessation on clinical outcomes in 
+patients with AAA, given the inherent design limi-
+tations of such an intervention. Current guidelines 
+and recommendations that encourage counseling 
+and pharmacological interventions in patients moti-
+vated to quit are derived from the fact that cigarette 
+smoking is considered the largest modifiable risk 
+factor for AAA. The use of e-cigarettes is effective 
+in smoking cessation; however, given its association 
+with adverse vascular remodeling, more evidence 
+on its safety in patients with AAA is needed.
+6.4.2.4. Antithrombotic Therapy in AAA
+Recommendation for Antithrombotic Therapy in AAA
+COR LOE Recommendation
+2b C-LD
+1. In patients with AAA with concomitant ather-
+oma and/or PAU, the use of low-dose aspirin 
+may be considered, unless contraindicated.1
+Synopsis
+Atherosclerotic AAA are associated with a >20% risk of 
+cardiovascular events within 10 years, as they are con-
+sidered a coronary artery disease equivalent according 
+to the NCEP ATP III. 2 To reduce risk of cardiovascular 
+events and mortality, aspirin at 75 mg to 162 mg daily 
+for secondary prevention has been incorporated into the 
+2006 updated “AHA/ACC Guidelines for Secondary 
+Prevention for Patients With Coronary and Other Athero-
+sclerotic Vascular Disease.”3 Most AAA contain an intra-
+luminal thrombus (see Section 6.2, “AAA: Cause, Risk 
+Factors, and Screening”) made up of a complex matrix 
+of platelets, inflammatory cells, and fibrin, which contrib-
+utes to growth and progression, and thus antithrombotic 
+therapy has been hypothesized to have a potential ben-
+efit in AAA. However, clinical outcomes data are limited, 
+and further study of the efficacy of antiplatelet therapy in 
+AAA is warranted.
+Recommendation-Specific Supportive Text
+1. Low-dose aspirin monotherapy in patients with 
+noncoronary atherosclerosis is considered a treat-
+ment to mitigate risk of cardiovascular events, 
+including stroke, death caused by coronary artery 
+disease, and myocardial infarction. 3 Data are lim-
+ited on aortic-specific clinical outcomes in AAA. 
+Use of low-dose aspirin has been hypothesized 
+to reduce growth and progression of AAA attrib-
+utable to the detrimental effects of platelet acti-
+vation within the intraluminal thrombus. In 1 small 
+cohort study, low-dose aspirin was associated with 
+a reduced AAA growth rate and need for aneurysm 
+repair at diameters of 4.0 cm to 4.9 cm but not for 
+aneurysms <4.0 cm. However, evidence from the 
+Danish National Registry of Patients study of 4010 
+age- and sex-matched subjects with AAA1 showed 
+an increased case-fatality rate associated with 
+preadmission aspirin use in ruptured AAA (66% 
+in users versus 57% in nonusers; adjusted mor-
+tality rate ratio, 1.16; 95% CI, 1.06–1.27); there 
+was no association between aspirin use and the 
+risk of AAA rupture (adjusted OR, 0.97; 95% CI, 
+0.86–1.08).
+6.4.3. Surveillance for Medical Management
+6.4.3.1. Surveillance of Thoracic Aortic Dilation and 
+Aneurysm
+Recommendations for Surveillance of Thoracic Aortic Dilation and 
+Aneurysm
+COR LOE Recommendations
+1 C-LD
+1. In patients with a dilated thoracic aorta, a 
+TTE is recommended at the time of diag-
+nosis to assess aortic valve anatomy, aortic 
+valve function, and thoracic aortic diam-
+eters.1-4
+2a C-LD
+2. In patients with a dilated thoracic aorta, a CT 
+or MRI at the time of diagnosis is reasonable 
+to assess thoracic aortic anatomy and diam-
+eters.1,3,5-7
+2a C-LD
+3. In patients with a dilated thoracic aorta, 
+follow-up imaging (with TTE, CT, or MRI, as 
+appropriate based on individual anatomy) in 
+6 to 12 months is reasonable to determine 
+the rate of aortic enlargement; if stable, 
+surveillance imaging every 6 to 24 months 
+(depending on aortic diameter) is reason-
+able.1,3,4
+Synopsis
+In patients with TAD, a detailed baseline assessment of 
+all the segments of thoracic aorta, aortic valve anatomy, 
+and aortic valve function is important. TTE, CT, and MRI 
+are all commonly used for assessment of the thoracic 
+aorta.
+Recommendation-Specific Supportive Text
+1. In patients with TAD not at surgical threshold, a 
+detailed assessment with a TTE to evaluate aortic 
+valve anatomy and aortic valve function is impor-
+tant for establishing a baseline. TTE usually pro-
+vides clear images of the aortic root and ascending 
+aorta, is safe and reproducible, and can be used for 
+longitudinal surveillance. In select patients with dif-
+ficult echocardiographic imaging windows, a TEE 
+is an alternative for evaluating aortic valve anatomy 
+and aortic dimensions.1-3
+2. Cross-sectional imaging with CT or MRI has been 
+established as the gold standard for assessment 
+of all segments of thoracic aorta including arch 
+Downloaded from http://ahajournals.org by on May 30, 2026
+=== PAGE 50 ===
+Circulation. 2022;146:e334–e482. DOI: 10.1161/CIR.0000000000001106 December 13, 2022 e383
+Isselbacher et al 2022 ACC/AHA Aortic Disease Guideline
+CLINICAL STATEMENTS 
+AND GUIDELINES
+branch vessels. 5,6 Electrocardiographic-gated 
+techniques minimize motion artifact and thus allow 
+precise measurement of aortic root and ascending 
+aortic dimensions.5,6
+3. Patients with stable aortic dimensions can be 
+observed longitudinally with TTE, CT, or MRI. The 
+frequency of surveillance imaging should be indi-
+vidualized and informed by the aneurysm cause, 
+aortic diameter, historical rate of aortic growth, how 
+close the diameter is to the surgical threshold, and 
+the patient’s age.8,9 In general, in patients with non-
+genetic and syndromic causes, the rate of aortic 
+growth is relatively slow, so the interval for surveil-
+lance imaging may be increased.
+6.4.3.2. Surveillance of Abdominal Aortic Dilation and 
+Aneurysm
+Recommendations for Surveillance of Abdominal Aortic Dilation and 
+Aneurysm
+Referenced studies that support the recommendations are 
+summarized in the Online Data Supplement.
+COR LOE Recommendations
+1 B-NR
+1. In patients with an AAA of 3.0 cm to 3.9 cm, 
+surveillance ultrasound is  recommended 
+every 3 years to assess for interval 
+change.1-8
+1 B-NR
+2. In men with an AAA of 4.0 cm to 4.9 cm 
+and in women with an AAA of 4.0 cm to 4.4 
+cm, surveillance ultrasound is recommended 
+annually to assess for interval change.1-8
+1 B-NR
+3. In men with an AAA of ≥5.0 cm and women 
+with an AAA of ≥4.5 cm, surveillance ultra-
+sound is recommended every 6 months to 
+assess for interval change.1-8
+1 C-EO
+4. In patients with an AAA that is inadequately 
+defined with ultrasound, surveillance CT is 
+recommended.
+2a C-LD
+In such patients, when there is a contraindica-
+tion to CT or to lower cumulative radiation risk, 
+surveillance MRI is reasonable.9,10
+1 C-EO
+5. In patients with an AAA that meets criteria for 
+repair, CT is recommended for preoperative 
+planning.
+Synopsis
+In patients with AAA, imaging assessment of the abdom-
+inal aorta is important for establishing baseline diameter 
+and determining the timing of surveillance imaging. Ultra-
+sound imaging has been the standard for surveillance 
+imaging of the abdominal aorta and is widely used. CT 
+provides superior visualization of the abdominal aorta 
+and its branches and is therefore used for preopera-
+tive planning. MRI is a reasonable alternative to CT in 
+selected patients. Figure 20 shows a proposed general 
+algorithm for surveillance imaging of AAA, recognizing 
+that surveillance intervals should be individualized.
+Recommendation-Specific Supportive Text
+1. Multiple studies have established that ultrasound 
+surveillance of AAAs helps to prevent rupture and 
+mortality.2-7 ,11 The risk of rupture increases at an 
+AAA diameter of >5.5 cm for men and >5.0 cm for 
+women; accordingly, surveillance imaging should 
+be more frequent at larger AAA diameters that 
+approach these thresholds. Conversely, at AAA 
+diameters of 3.0 cm to 3.9 cm, longer surveillance 
+imaging intervals have been shown to be safe.
+2. In patients with AAA of 4.0 cm to 4.9 cm, rates 
+of aortic growth are higher, so annual surveillance 
+ultrasound is recommended. Even shorter intervals 
+are often used in those who smoke, have diabetes, 
+or both because of their increased risk of growth.
+3. Once the size of the AAA reaches ≥5.0 cm in men 
+and ≥4.5 cm in women, the screening interval is 
+shortened to every 6 months given the potential of 
+larger aneurysms to grow more rapidly and reach 
+the thresholds for intervention. CT provides superior 
+visualization of the abdominal aorta and its branches 
+and is an excellent alternative when ultrasound is 
+inadequate. MRA is a reasonable alternative to CT. 
+Non-IV contrast MRI techniques have also been 
+shown to be useful in defining AAAs.9,10
+Figure 20. The 
+Frequency of 
+Surveillance Imaging 
+of Abdominal Aortic 
+Aneurysms Based on 
+Current Aortic Diameter.
+Color corresponds to Class 
+of Recommendations in 
+Table 2.
+Downloaded from http://ahajournals.org by on May 30, 2026
+=== PAGE 51 ===
+December 13, 2022 Circulation. 2022;146:e334–e482. DOI: 10.1161/CIR.0000000000001106e384
+Isselbacher et al 2022 ACC/AHA Aortic Disease Guideline
+CLINICAL STATEMENTS  
+AND GUIDELINES
+4. CT is generally preferred when an AAA reaches 
+the threshold for intervention, both to confirm aor-
+tic diameters and to detail the anatomy of the aorta 
+and its branches for preoperative planning.
+6.5. Surgical and Endovascular Management of 
+Aortic Aneurysms
+Most patients with TAA and AAA are asymptomatic, so 
+the purpose of surgical or endovascular intervention is 
+to reduce the risk of adverse aortic events (ie, aortic dis-
+section, rupture, and aortic-related death). Consequently, 
+determining the optimal timing of intervention requires a 
+careful anatomic assessment, followed by weighing the 
+risk of future adverse aortic events against the risk of 
+intervention.The goal of open surgery is to replace the 
+aneurysmal aortic segment with a prosthetic graft anas-
+tomosed to nonaneurysmal aortic tissues while maintain-
+ing critical aortic branch vessels. Endovascular repair 
+leverages contiguous nonaneurysmal aortic or iliac seg-
+ments for fixation of endovascular stent grafts to exclude 
+blood flow from the aneurysmal sac. To date, the FDA 
+has approved individual stent grafts for the treatment of 
+aneurysms involving the descending thoracic, juxtarenal, 
+and infrarenal aortic segments. Stent graft devices to 
+address the ascending aorta, aortic arch, and thoracoab-
+dominal aorta are available under investigational use in 
+the United States, currently in physician- and industry-
+sponsored clinical trials. Long-term studies have shown 
+that use of endovascular stent grafts outside of the ana-
+tomic criteria tested in their pivotal trials is associated 
+with increased risk of aneurysm sac enlargement, under-
+scoring the need for appropriate patient selection and for 
+long-term surveillance after endovascular repair.1
+6.5.1. Surgery for Sporadic Aneurysms of the Aortic 
+Root and Ascending Aorta
+Recommendations for Surgery for Sporadic Aneurysms of the Aortic 
+Root and Ascending Aorta
+Referenced studies that support the recommendations are 
+summarized in the Online Data Supplement.
+COR LOE Recommendations
+1 C-LD
+1. In patients with aneurysms of the aortic root 
+and ascending aorta who have symptoms attrib-
+utable to the aneurysm, surgery is  indicated.1,2
+1 B-NR
+2. In asymptomatic patients with aneurysms of the 
+aortic root or ascending aorta who have a maxi-
+mum diameter of ≥5.5 cm, surgery is indicated.3-9
+1 C-LD
+3. In patients with an aneurysm of the aortic root 
+or ascending aorta of <5.5 cm, whose growth 
+rate confirmed by tomographic imaging is 
+≥0.3 cm/y in 2 consecutive years, or ≥0.5 cm 
+in 1 year, surgery is  indicated.10-13
+2a B-NR
+4. In asymptomatic patients with aneurysms of 
+the aortic root or ascending aorta who have 
+a maximum diameter of ≥5.0 cm, surgery is 
+reasonable when performed by experienced 
+surgeons in a Multidisciplinary Aortic Team.14-17
+2a B-NR
+5. In patients undergoing repair or replace-
+ment of a tricuspid aortic valve who have 
+a concomitant aneurysm of the ascending 
+aorta with a maximum diameter of ≥ 4.5 cm, 
+ascending aortic replacement is reasonable 
+when performed by experienced surgeons in 
+a Multidisciplinary Aortic Team. 18-21
+2a B-NR
+In patients undergoing repair or replacement 
+of a tricuspid aortic valve who have a concom-
+itant aneurysm of the ascending aorta with 
+a maximum diameter of ≥5.0 cm, ascending 
+aortic replacement is  reasonable.18-21
+2b C-LD
+ In patients undergoing cardiac surgery for 
+indications other than aortic valve repair 
+or replacement who have a concomitant 
+aneurysm of ascending aorta with a maxi-
+mum diameter of ≥5.0 cm, ascending aortic 
+replacement may be reasonable.18
+2a C-LD
+6. In patients with a height >1 standard devia-
+tion above or below the mean who have an 
+asymptomatic aneurysm of the aortic root 
+or ascending aorta and a maximal cross-
+sectional aortic area/height ratio of ≥10 
+cm2/m, surgery is reasonable when performed 
+by experienced surgeons in a Multidisciplinary 
+Aortic Team.14,15,22
+2b C-LD
+7 . In asymptomatic patients with aneurysms of 
+the aortic root or ascending aorta who have 
+either an ASI of ≥3.08 cm/m2 or AHI of ≥3.21 
+cm/m, surgery may be reasonable when per-
+formed by experienced surgeons in a Multidis-
+ciplinary Aortic Team.23
+Synopsis
+Elective surgery for aneurysms of the aortic root and 
+ascending aorta is ideally performed when the risk of 
+adverse events—dissection, rupture, or sudden death—
+outweighs the risks of surgery. No prospective multi-
+center observational studies have evaluated the myriad 
+of parameters (eg, aortic diameter, length, or area, alone 
+or indexed to height or BSA, wall stress, shear stress) 
+proposed for predicting the risk of aortic adverse events. 
+From a purely mechanical perspective, aortic dissection 
+or rupture can be considered a failure event, where an 
+imbalance exists between stresses on the aneurysm wall 
+and the inherent strength of its tissue.24 Whether the aor-
+tic dissection is precipitated by increased wall stress or 
+decreased wall strength, or a combination of both, is an 
+area of active research.25-29 Maximal aortic diameter has 
+logically been the primary criterion for elective aneurysm 
+repair because, per LaPlace’s law, wall stress increases 
+proportionally with aortic radius and inversely to thick-
+ness.30 The original natural history studies examined 
+the risk of rupture or aortic dissection versus diameter 
+and the hinge point for dissection generated the 5.5-
+cm threshold that has long governed clinical practice. 7, 8 
+Although a significant proportion of patients with type 
+A aortic dissection present with diameters <5.5 cm, 31,32 
+Recommendations for Surgery for Sporadic Aneurysms of the Aortic 
+Root and Ascending Aorta (Continued)
+COR LOE Recommendations
+Downloaded from http://ahajournals.org by on May 30, 2026
+=== PAGE 52 ===
+Circulation. 2022;146:e334–e482. DOI: 10.1161/CIR.0000000000001106 December 13, 2022 e385
+Isselbacher et al 2022 ACC/AHA Aortic Disease Guideline
+CLINICAL STATEMENTS 
+AND GUIDELINES
+this surgical threshold still effectively reduces adverse 
+events.17 ,33
+Recommendation-Specific Supportive Text
+1. Large aneurysms can compress nearby structures 
+as they expand, resulting in symptoms of chest or 
+back pain. Alternatively, pain is sometimes associ-
+ated with rapid aortic growth. Consequently, the 
+appearance of such symptoms raises concern for 
+an increased risk of aneurysm rupture,1,2 and surgi-
+cal repair is therefore indicated.
+2. A maximum aortic diameter of ≥5.5 cm has been 
+the primary criterion for elective surgical repair of 
+aneurysms of the aortic root or ascending thoracic 
+aorta,4,6 based on natural history studies that exam-
+ined diameter (without centerline analysis) at the 
+time of adverse event and an assumed operative 
+mortality of <5%.4,7-9 The mortality rate for elective 
+surgery is low, whereas the risk of adverse events 
+is high when such surgery is recommended but not 
+performed because of patient noncompliance or 
+comorbidities.33 The same 5.5-cm diameter thresh-
+old applies regardless of whether patients have tri-
+cuspid or BAVs.5
+3. One meta-analysis and limited observational stud-
+ies have found ascending aortic aneurysm growth 
+to be slower than previously reported, and fre-
+quently <0.5 mm/y, in patients with a tricuspid 
+aortic valve and without a genetic aortic disor-
+der.11,12,17 ,34 The meta-analysis suggested that rapid 
+aneurysm growth is associated with an increased 
+risk of rupture. 12 Because of the inherent error in 
+measurement as well as interobserver variability, 
+1 mm to 2 mm growth per year would be difficult 
+to document consistently on surveillance imaging. 
+Discrepancies in measurement can occur when 
+comparing different imaging modalities or even 
+when using the same modality when comparing 
+images obtained with and without contrast. Ideally, 
+growth rates are most accurate when assessed 
+using cardiac-gated CT or MRI with centerline 
+measurement techniques. 35 Confirmed growth 
+of ≥0.5 cm in 1 year has been, and remains, an 
+indication for surgery.3-6 Moreover, growth of even 
+0.3 cm in 1 year still substantially exceeds the 
+expected growth rate for aneurysms of the root 
+and ascending aorta, so if that rate of growth rate 
+is sustained for 2 consecutive years, intervention is 
+also recommended.13
+4. The risk of aortic dissection or rupture correlates 
+with increasing aneurysm diameter,7 ,8,16 as does the 
+rate of aortic growth. 12,36 As such, aneurysms of 
+≥5.0 cm would be expected to have a greater risk 
+of complications or rapid growth than would smaller 
+aneurysms. Indeed, in a report by Paruchuri et al,37 
+relative to a control aortic diameter of ≤3.4 cm, a 
+diameter of 4.0 cm to 4.4 cm conferred an 89-fold 
+increased risk of aortic dissection, and a diameter 
+of ≥4.5 cm conferred a 6300-fold increased risk 
+(Figure 5). Consequently, many experienced sur-
+geons in a Multidisciplinary Aortic Team choose to 
+operate selectively on patients with aneurysms of 
+5.0 cm to 5.4 cm, 17 provided the patient’s surgical 
+risk is low,38 and they have had excellent results14-16 
+in doing so. However, there is an ongoing prospec-
+tive multicenter RCT of patients with ascending 
+TAAs of 5.0 cm to 5.4 cm that will compare out-
+comes of early elective surgery vs. medical surveil-
+lance,39 the results of which could provide further 
+guidance.
+5. For patients undergoing aortic valve surgery with 
+concomitant ascending aortic aneurysm of ≥4.5 
+cm, guidelines have previously recommended 
+simultaneous aortic replacement in those with BAV. 
+On the other hand, in patients who have undergone 
+valve surgery without concomitant aortic aneurysm 
+surgery, whether for an underlying bicuspid or tri-
+cuspid aortic valve, the associated aneurysms have 
+been shown to grow slowly and have low rates 
+of aortic complications over time. Still, data have 
+also shown the safety of performing concomitant 
+aneurysm repair at a diameter of ≥4.5 cm by expe-
+rienced surgeons working in a Multidisciplinary 
+Aortic Team.16,18-21,40-43 Nevertheless, until there are 
+better predictors for aortic complications, in general 
+it is reasonable in patients undergoing aortic valve 
+repair or replacement to offer concomitant aneu-
+rysm surgery for those with aneurysms of ≥5.0 cm, 
+because of the faster rate of growth and higher 
+risk of aortic dissection. Aortic root replacement 
+should be individualized based on the type of aortic 
+valve surgery (ie, valve repair with or without valve-
+sparing root versus valve replacement, mechani-
+cal versus bioprosthetic root replacement), patient 
+condition, patient age, and comorbidities. In those 
+undergoing cardiac surgery for indications other 
+than aortic valve repair, concomitant prophylactic 
+aortic replacement at a diameter of 5.0 cm may be 
+reasonable, because it would provide a margin of 
+safety against future aortic dissection, particularly 
+because cardiac surgery itself becomes an addi-
+tional risk factor for subsequent aortic dissection.
+6. Data from the IRAD showed that ∼60% of patients 
+with acute type A aortic dissection had maximal 
+aortic diameters of <5.5 cm 32 at presentation, a 
+finding that has been corroborated by others. 31,44 
+Conversely, most patients with aneurysms <5.5 
+cm who are managed medically do not suffer aor-
+tic dissection or rupture. Therefore, absolute aor-
+tic diameter is far from an ideal predictor of risk. 
+Parameters proposed to improve risk prediction 
+Downloaded from http://ahajournals.org by on May 30, 2026
+=== PAGE 53 ===
+December 13, 2022 Circulation. 2022;146:e334–e482. DOI: 10.1161/CIR.0000000000001106e386
+Isselbacher et al 2022 ACC/AHA Aortic Disease Guideline
+CLINICAL STATEMENTS  
+AND GUIDELINES
+include the ratio of aortic diameter to either patient 
+height or BSA,23 the ratio of aortic area to height,14,15 
+the ascending aortic length (centerline, from annu-
+lus to innominate artery takeoff), 14,15,45-47 aortic 
+stiffness, and peak aortic wall stress. 25,48-50 All are 
+retrospectively promising, but none has been pro-
+spectively validated. A cross-sectional aortic area 
+to patient height ratio of ≥10 cm2/m was found to 
+correlate with increased mortality among unoper-
+ated patients with root or ascending aortic aneu-
+rysms and either a tricuspid 15 or BAV. 14 The use 
+of the cross-sectional aortic area to height ratio is 
+most appropriate in patients whose height is >1 
+standard deviation above or below the mean.
+7 . A single-center large database of TAA has grown 
+considerably and was reevaluated with indexing 
+of aortic diameter to BSA (ASI) or height (AHI), to 
+improve the prediction of adverse aortic events. 23 
+Height was preferred because the variable nature 
+of weight and the underlying genetic contribu-
+tion to height. Recommendations for prophylactic 
+repair at aortic diameters of <5.5 cm have been 
+proposed but not systematically tested in large-
+scale multicenter trials. Experienced surgeons in 
+a Multidisciplinary Aortic Team38 may consider the 
+use of such ratios when determining the optimal 
+timing of intervention. This may be particular useful 
+for female patients, but more studies are required to 
+further evaluate surgical thresholds in women with 
+aneurysms of the aortic root or ascending aorta.
+6.5.1.1. Surgical Approach for Patients With Sporadic 
+Aneurysms of the Aortic Root and Ascending Aorta 
+Meeting Criteria for Surgery
+Recommendations for Surgical Approach for Patients With Sporadic 
+Aneurysms of the Aortic Root and Ascending Aorta Meeting Criteria for 
+Surgery
+Referenced studies that support the recommendations are 
+summarized in the Online Data Supplement.
+COR LOE Recommendations
+1 B-NR
+1. In patients with an aneurysm isolated to the 
+ascending aorta who meet criteria for surgery, 
+aneurysm resection and replacement with an 
+interposition graft should be performed.1,2
+1 B-NR
+2. In patients undergoing aortic valve repair or 
+replacement with a concomitant ascending 
+aortic aneurysm, a separate aortic valve inter-
+vention and ascending aortic graft is recom-
+mended.3-6
+1 B-NR
+3. In patients undergoing aortic root replace-
+ment with an aortic valve that is unsuitable for 
+sparing or repair, a mechanical or biological 
+valved conduit aortic root replacement is indi-
+cated.1,2,7 ,8
+2a B-NR
+4. In patients undergoing aortic root replace-
+ment, valve-sparing aortic root replacement 
+is reasonable if the aortic valve is suitable 
+for sparing or repair and when performed by 
+experienced surgeons in a Multidisciplinary 
+Aortic Team.9-21
+Synopsis
+The goal of prophylactic repair of aneurysms of the aortic 
+root and ascending aorta is to prevent life-threatening 
+complications from acute aortic events such as aortic dis-
+section, aortic rupture, or sudden death. This goal is best 
+achieved when the risk of future adverse aortic events is 
+greater than the expected surgical mortality (considering 
+both the surgeon’s and institutional experience). The STS 
+database has clearly shown that proximal thoracic aortic 
+surgery has a lower operative mortality when performed 
+electively rather than emergently (2.2% versus 17 .2%, 
+respectively).1
+Recommendation-Specific Supportive Text
+1. Proximal thoracic aortic operations in the United 
+States, including ascending thoracic aortic replace-
+ment and aortic root replacement, have an over-
+all elective mortality rate of 2.2%. Consequently, 
+patients who meet criteria for aneurysm repair and 
+have low operative risk can undergo prophylactic 
+resection and graft placement with low operative 
+mortality risk.1 Similar results were obtained when 
+examining the Nationwide Inpatient Sample in 
+which operative mortality rate for proximal thoracic 
+aortic surgery was 2.5%.2
+2. Single-institution studies have shown that the 
+addition of ascending TAA repair to AVR does not 
+increase operative mortality in experienced aor-
+tic centers.22-24 However, such results may not be 
+reproducible at low-volume centers that have a 
+higher operative mortality rate for isolated proximal 
+thoracic aortic surgery. 1,2 Root-sparing AVR with 
+concomitant ascending aneurysm repair is accept-
+able, because data suggest the aortic root dilates 
+at a slower rate than does the ascending aorta, 
+and studies of root-sparing surgery have shown no 
+increase in long-term adverse aortic events.3-6,25
+3. Surgical approaches to replace the aortic root 
+should be guided by the aortic valve anatomy. If the 
+aortic valve is unsuitable for sparing or repair (eg, 
+large fenestrations, calcification), a mechanical- or 
+biological-valved conduit aortic root replacement 
+should be performed because, when elective, 
+this procedure has an operative mortality rate of 
+2.2% in the United States based on the STS data-
+base.2,26 Single-institution series from centers with 
+Multidisciplinary Aortic Teams have also shown 
+excellent results both with and without concomi-
+tant hemiarch replacement. 7 Long-term outcomes 
+are similar with mechanical- versus biological-
+valved conduit aortic root replacements, even in 
+patients <70 years old.8
+4. In younger patients with an aortic valve that is ame-
+nable to sparing or repair, elective valve-sparing 
+Downloaded from http://ahajournals.org by on May 30, 2026
+=== PAGE 54 ===
+Circulation. 2022;146:e334–e482. DOI: 10.1161/CIR.0000000000001106 December 13, 2022 e387
+Isselbacher et al 2022 ACC/AHA Aortic Disease Guideline
+CLINICAL STATEMENTS 
+AND GUIDELINES
+aortic root replacement has been performed safely 
+by experienced surgeons in a Multidisciplinary 
+Aortic Team.9-11,21 In patients with aortic root aneu-
+rysms without an underlying genetic disorder, 
+valve-sparing aortic root replacement has been 
+performed by either the reimplantation or remodel-
+ing technique with comparable survival and valve 
+durability.12
+6.5.2. Aortic Arch Aneurysms
+Recommendations for Aortic Arch Aneurysms
+Referenced studies that support the recommendations are 
+summarized in the Online Data Supplement.
+COR LOE Recommendations
+1 C-EO
+1. In patients with an aortic arch aneurysm 
+who have symptoms attributable to the 
+aneurysm and are at low or intermediate 
+operative risk, open surgical replacement is 
+recommended.
+2a B-NR
+2. In patients with an isolated aortic arch 
+aneurysm who are asymptomatic and have 
+a low operative risk, open surgical replace-
+ment at an arch diameter of ≥ 5.5 cm is 
+ reasonable.1-3
+2a C-LD
+3. In patients undergoing open surgical repair of 
+an ascending aortic aneurysm, if the aneurys-
+mal disease extends into the proximal aortic 
+arch, it is reasonable to extend the repair with 
+a hemiarch replacement.4,5
+2b C-LD
+4. In patients undergoing open surgical repair 
+of an aortic arch aneurysm, if the aneurysmal 
+disease extends into the proximal descending 
+thoracic aorta, an elephant trunk procedure 
+may be considered.6,7
+2b C-EO
+5. In patients with an aortic arch aneurysm who 
+are asymptomatic but meet criteria for inter-
+vention, but have a high risk from open surgi-
+cal repair, a hybrid or endovascular approach 
+may be reasonable.
+Synopsis
+Aortic arch aneurysms are the least common of the TAA, 
+because <10% of aneurysms involve the arch only; in 
+most cases, arch aneurysms are associated with adja-
+cent pathology.1 Previous aortic dissection is the most 
+common cause of arch aneurysms; in a large meta-
+analysis, only 28.3% of patients undergoing intervention 
+on the arch had de novo aneurysmal disease, with the 
+remainder resulting from acute or chronic aortic dissec-
+tion. The risk of dissection or rupture, as related to aor-
+tic diameter, is presumed to be similar in the arch as in 
+other thoracic locations, although no large reports con-
+sider arch dimensions alone. Additionally, because of the 
+proximity of the aortic arch to other thoracic structures, 
+dilation may result in symptoms before the diameter 
+reaches a threshold typically considered for intervention. 
+Intervention to treat arch aneurysms carries an increased 
+risk given the need to manage the great vessels and 
+protect the brain. Various techniques have been devel-
+oped, including the use of hypothermic circulatory arrest 
+and specialized branched grafts to aid in reconstruction. 
+Endovascular techniques also continue to evolve.
+Recommendation-Specific Supportive Text
+1. Because of the juxtaposition of the aortic arch to 
+other vascular structures, nerves, trachea, and the 
+esophagus, symptoms may develop because of the 
+mass effect from encroachment on adjoining struc-
+tures. Ortner’s syndrome is unilateral hoarseness 
+secondary to inflammation or stretching of the left 
+recurrent laryngeal nerve. 8 Dysphagia aortica can 
+be caused by extrinsic compression of the esopha-
+gus by either fusiform or saccular aneurysms of 
+the arch. Likewise, extrinsic compression of the 
+trachea may result in dyspnea, and compression 
+of the innominate vein or superior vena cava may 
+cause superior vena cava syndrome. Nonspecific 
+symptoms include chest pain or pressure, fatigue, 
+and neck, jaw, or back pain.
+2. Open replacement of the aortic arch requires the 
+use of cardiopulmonary bypass, hypothermia, and 
+other adjuncts for neurologic and systemic pro-
+tection. Various randomized and nonrandomized 
+trials have compared different cannulation strate-
+gies (ie, axillary, femoral, innominate), 9-12 levels of 
+hypothermia, and variations in cerebral perfusion 
+(antegrade, select antegrade, retrograde),13-15 with 
+no one technique dominating or being shown con-
+clusively to be superior to another.
+3. When proximal aneurysmal aortic disease extends 
+to the level of the innominate artery or further into 
+the arch, but not necessarily the whole arch, a hemi-
+arch procedure may be able to effectively address 
+the distal pathology. Open distal anastomosis will 
+require the same adjuncts and approaches used in 
+open arch replacement (as described previously), 
+including neuroprotective strategies. Modified 
+approaches have been described that eliminate 
+the need for open repair whereby the ascending 
+aorta is replaced first with a trifurcated side-branch 
+for debranching of the arch in a sequential manner 
+to a level that is accessible for clamping; however, 
+no studies have yet shown the benefit of such an 
+approach. Although it does add to the cardiopulmo-
+nary bypass time and blood loss,4,5 the addition of a 
+hemiarch has been shown not to increase the risk 
+of the procedure. However, this noninferiority is lost 
+when the proximal arch is disease free, with excep-
+tion of an underlying aortopathy in which the nor-
+mal-sized arch will predictively enlarge or dissect at 
+a later time; in this setting, a hemiarch is justified.16,17
+4. The elephant trunk procedure, as originally 
+described, extends the aortic arch graft into the 
+proximal descending aorta, thereby facilitating the 
+subsequent repair of diseased descending thoracic 
+Downloaded from http://ahajournals.org by on May 30, 2026
+=== PAGE 55 ===
+December 13, 2022 Circulation. 2022;146:e334–e482. DOI: 10.1161/CIR.0000000000001106e388
+Isselbacher et al 2022 ACC/AHA Aortic Disease Guideline
+CLINICAL STATEMENTS  
+AND GUIDELINES
+aorta (by either open repair or TEVAR). 18 Either a 
+traditional elephant trunk (an extension graft anas-
+tomosed to the distal end of an aortic arch graft at 
+the time of arch repair that projects into the proximal 
+descending aorta with a free distal end) or a frozen 
+elephant trunk (a combined open aortic arch graft 
+with an extension endovascular stent-graft extend-
+ing into the descending thoracic aorta to treat 
+extensive TAD involving both arch and descending 
+segments via a median sternotomy) can be used.6,19 
+With adjunctive procedures (ie, debranching), the 
+distal anastomosis can be moved more proximally 
+into aortic zones 2 or 3 (Figure 3), while still pro-
+ceeding with an elephant trunk and with the poten-
+tial of decreasing morbidity, but data are limited 
+on the benefits of moving the anastomotic site. A 
+qualifying factor for considering open versus frozen 
+elephant trunk is whether the primary distal seal will 
+be achieved with the frozen elephant trunk. In the 
+absence of a distal seal, the conventional approach 
+would provide the same considerations for the sec-
+ond-stage procedure.
+5. Various hybrid and endovascular techniques have 
+been developed to address the aneurysmal arch in 
+the setting of a high-risk patient, including open 
+extra-anatomical bypasses (eg, left carotid-to-
+left subclavian artery bypass) and endovascular 
+approaches. The Next-gen Fenestrated TEVAR 
+trial showed the feasibility of proximal landing 
+zone coverage, with most endografts being placed 
+in zones 0 or 1 (Figure 3), although a landing zone 
+of <15 mm was associated with an increased risk 
+of a type I endoleak (Figure 11). 20 The midterm 
+follow-up showed 5-year survival of 71% with an 
+aneurysm-related event-free survival of 77%. The 
+most frequent reason for reoperation was type Ia 
+endoleak (5%).21 Nonrandomized comparisons of 
+open versus hybrid endovascular approaches have 
+not shown significant differences in outcomes.22-24 
+Complete endovascular approaches have been 
+described25,26 and may be considered by those 
+with endovascular experience who have access to 
+the appropriate devices, investigational devices, or 
+both.
+6.5.3. Descending TAA
+6.5.3.1. Size Thresholds for Repair of Descending TAA
+Recommendations for Size Thresholds for Repair of Descending TAA
+Referenced studies that support the recommendations are 
+summarized in the Online Data Supplement.
+COR LOE Recommendations
+1 B-NR
+1. In patients with intact descending TAA, 
+repair is recommended when the diameter is 
+≥5.5 cm.1,2
+2b B-NR
+2. In patients with intact descending TAA 
+and risk factors for rupture (Table 17), 
+repair may be considered at a diameter of 
+<5.5 cm. 2-6
+2b B-NR
+3. In patients at increased risk for perioperative 
+morbidity and mortality (Table 18), it may be 
+reasonable to increase the size threshold for 
+surgery accordingly.7
+Synopsis
+The current aortic size threshold for repair of descend-
+ing TAA is primarily based on single-center series where 
+patients have been observed with surveillance imag-
+ing and clinical follow-up to determine the incidence of 
+aortic-related events and deaths. Such series indicate 
+that a descending aortic diameter of >6 cm is associ-
+ated with an increased risk of adverse aortic events 
+and mortality,1,2 as shown in Table 16. Moreover, certain 
+patient and aneurysm features are associated with an 
+increased risk for aortic dissection or rupture, as shown 
+in Table 17 , which may prompt consideration of earlier 
+surgery. Conversely, some patients are at increased risk 
+of perioperative morbidity or mortality, in which case 
+the size threshold for aortic repair might be increased. 
+Specifically, if the patient does not have ideal anatomy 
+for endovascular repair, or has otherwise increased risk 
+for contemplated open repair, close monitoring until 
+a higher surgical threshold is reached would be justi-
+fied. Advanced age, 8 preoperative renal insufficiency or 
+Table 16. Adverse Aortic Events at 1 Year, Based on Base-
+line Aortic Diameter, Among Patients With Descending TAA
+Aortic Diameter 
+(cm)
+Deﬁnite Aortic 
+Event* (%)
+Probable Aortic 
+Event† (%)
+5.0 5.5 8.0
+5.5 7.2 11.2
+6.0 9.3 15.6
+7.0 15.4 28.1
+*Deﬁnite aortic event includes aortic dissection or rupture conﬁrmed with 
+imaging or intraoperative ﬁndings.
+†Probable aortic event includes deﬁnite aortic events as well as sudden 
+unexplained death.
+TAA indicates thoracic aortic aneurysm. Based on data from Kim JB, et al.1
+Table 17. Risk Factors for Aortic Rupture Among Patients 
+With Descending TAA
+High-Risk Features for Rupture
+Aneurysm growth of /g1160.5 cm/y3
+Symptomatic aneurysm4
+Marfan, Loeys-Dietz, or vascular Ehlers-Danlos syndrome, or HTAD (see 
+Section 6.1.2, “Genetic Aortopathies”)2
+Saccular aneurysm5
+Female sex2
+Infectious aneurysm6
+HTAD indicates heritable thoracic aortic disease; and TAA, thoracic aortic 
+aneurysm.
+Downloaded from http://ahajournals.org by on May 30, 2026
+=== PAGE 56 ===
+Circulation. 2022;146:e334–e482. DOI: 10.1161/CIR.0000000000001106 December 13, 2022 e389
+Isselbacher et al 2022 ACC/AHA Aortic Disease Guideline
+CLINICAL STATEMENTS 
+AND GUIDELINES
+hemodialysis, chronic obstructive pulmonary disease, 
+and previous stroke are harbingers of adverse outcomes 
+or perioperative mortality after open repair (Table 18). 9 
+Markers of frailty, pulmonary disease, thoracoabdominal 
+extent, need for iliac access, and zone 1/2 deployment 
+were associated with major adverse events after TEVAR 
+(Table 18).7 A nuanced approach and detailed discus-
+sion with the patient can help guide the most reason-
+able treatment plan, weighing the risks of the operation 
+against the risks of continued surveillance.
+Recommendation-Specific Supportive Text
+1. There is an increased incidence of aortic-related 
+events such as rupture or dissection with aortic 
+diameters >6 cm, justifying intervention when the 
+diameter is ≥5.5 cm in size.1,2
+2. High-risk features of rupture have been previously 
+identified, supporting repair at a smaller diameter 
+threshold when these criteria are met. Features 
+including rapid aortic growth (≥0.5 cm/y), 3 symp-
+tomatic aneurysms, 4 underlying connective tissue 
+disorder or HTAD, 2 saccular aneurysm morphol-
+ogy,5 female sex,2 and infected aneurysm6 have all 
+been associated with a higher tendency for rupture.
+3. In patients being considered for open or endovas-
+cular repair, high-risk clinical features (Table 18) 
+have been identified that portend poor outcomes 
+after repair. For open surgical repair, advanced 
+age,8 preoperative renal insufficiency of stage 3 
+or greater, chronic obstructive pulmonary disease 
+and forced expiratory volume in 1 second ≤50% 
+predicted, and previous stroke 9 have all been 
+associated with increased risk of death, periop-
+erative morbidity, or both. For endovascular repair 
+of descending TAA, frailty indicators, pulmonary 
+disease, as well as procedural complexity are 
+predictive of poor outcomes after TEVAR. 7 When 
+contemplating either approach, special attention 
+to these risk factors will allow appropriate consid-
+eration of the risks to benefits in deciding on the 
+merits of intervention.
+6.5.3.2. Endovascular Versus Open Repair of 
+Descending TAA
+Recommendations for Endovascular Versus Open Repair of 
+Descending TAA
+Referenced studies that support the recommendations are 
+summarized in the Online Data Supplement.
+COR LOE Recommendations
+1 B-NR
+1. In patients without Marfan syndrome, Loeys-
+Dietz syndrome, or vascular Ehlers-Danlos 
+syndrome, who have a descending TAA that 
+meets criteria for intervention and anatomy 
+suitable for endovascular repair, TEVAR is 
+recommended over open  surgery.1-4
+1 B-NR
+2. In patients with a descending TAA that meets 
+criteria for repair with TEVAR, who have 
+smaller or diseased access vessels, consid-
+erations for alternative vascular access are 
+recommended.5
+2a B-NR
+3. In patients with a descending TAA that meets 
+criteria for intervention, who have anatomy 
+unsuitable for endovascular repair, and who 
+are without significant comorbidities and have 
+a life expectancy of at least 10 years, open 
+surgical repair is reasonable.6-9
+Synopsis
+Although no RCTs comparing TEVAR with open repair 
+of descending TAA exist, the pivotal device trials 1,3,10 
+have shown a reduced perioperative morbidity, increased 
+clinical utility, and reduced follow-up aneurysm-related 
+mortality compared with open surgical repair. However, 
+reintervention after TEVAR is substantial. 11 In addition, 
+although clinical device trials showed improved periop-
+erative and long-term outcomes with TEVAR, Medicare 
+claims data show that the perioperative advantage was 
+lost within the first year after intact aneurysm repair, 
+with a 5-year survival that was significantly worse after 
+TEVAR versus open repair, at 79% versus 89%, respec-
+tively (P<0.0001).4 Further study should be dedicated to 
+understanding why the benefit from endovascular repair 
+decays over time. In patients with connective tissue dis-
+orders or HTAD, or those with a longer life expectancy, 
+open surgical repair is reasonable. Open surgical repair 
+of descending TAA reflects a volume-outcomes relation-
+ship: Although large institutional series have shown good 
+outcomes with open repair,6-9 these results are not repli-
+cable at lower volume centers.12 The decision to proceed 
+with endovascular versus open repair balances the need 
+for appropriate anatomy and access, as well as a higher 
+reintervention rate for TEVAR versus the higher periop-
+erative risk associated with more definitive open surgical 
+repair.
+Table 18. Patient Characteristics Associated With Increased 
+Perioperative Morbidity and Mortality After Open and Endo-
+vascular Repair of Descending TAA
+Open Surgical Repair Endovascular Repair
+Advanced age8 Functional dependence
+65–74 y (OR, 1.8; 95% CI, 1.4–2.4; 
+P <0.001)
+/g11675 y (OR, 2.6; 95% CI, 2.0–3.5; 
+P <0.001)
+Preoperative renal insufﬁciency (stage 3 
+or greater CKD) or hemodialysis
+Thoracoabdominal aortic an-
+eurysm extent
+COPD and FEV1 /g10050% predicted Pulmonary disease
+Previous stroke9 Need for iliac access
+Zone 1/2 landing for thoracic 
+stent graft7
+CKD indicates chronic kidney disease; COPD, chronic obstructive pulmo-
+nary disease; FEV1, forced expiratory volume in 1 second; and TAA, thoracic 
+aortic aneurysm.
+Downloaded from http://ahajournals.org by on May 30, 2026
+=== PAGE 57 ===
+December 13, 2022 Circulation. 2022;146:e334–e482. DOI: 10.1161/CIR.0000000000001106e390
+Isselbacher et al 2022 ACC/AHA Aortic Disease Guideline
+CLINICAL STATEMENTS  
+AND GUIDELINES
+Recommendation-Specific Supportive Text
+1. TEVAR is associated with a reduced periopera-
+tive morbidity, reduced hospital length of stay, and 
+better freedom from aneurysm-related mortality 
+compared to open surgical repair, based on clini-
+cal device trial data. 1,3,10 In the study by Makaroun 
+et al in 2008, 13 140 patients with fusiform aneu-
+rysms were treated with TEVAR and compared 
+with 94 open surgical controls. At 5 years, there 
+was a decreased aneurysm-related mortality 
+(2.8% versus 11.7%, respectively, P =0.008), a 
+reduced major adverse event rate (57 .9% ver-
+sus 78.7%, respectively, P =0.01), and decreased 
+major aneurysm-related reintervention (3.6% ver-
+sus 2.1%, respectively) in TEVAR versus open 
+repair. In the study by Matsumura et al, 10 survival 
+was noninferior for TEVAR (98.1%) versus open 
+surgery (94.3%) at 30 days, but the severe mor-
+bidity composite index, a marker for postoperative 
+complications, was lower for TEVAR (0.2±0.7 ver-
+sus 0.7±1.2, respectively; P<0.01). In the study 
+by Fairman et al, 11 195 TEVAR patients were 
+compared with 189 open surgical controls, and 
+the 30-day mortality rate was lower (2% versus 
+8%, respectively; P <0.01) and the major adverse 
+event rate was lower (41% versus 84%, respec-
+tively; P<0.01) for TEVAR; at 1 year, aneurysm-
+related mortality rate was lower for TEVAR than 
+for open repair (3.1% versus 11.6%, respectively; 
+P<0.002). However, in a registry study using 
+Medicare claims data, 4 although short-term out-
+comes were similarly better with TEVAR com-
+pared with open repair, that survival advantage 
+was no longer present at 1 year and, at 5 years, 
+survival was significantly worse for TEVAR ver-
+sus open repair at 79% versus 89%, respectively 
+(P<0.0001). Overall, the data show that TEVAR 
+is beneficial in the short- to intermediate-term in 
+patients with appropriate anatomy for endovascu-
+lar repair, but the advantage is not sustained over 
+time.
+2. Because of the relatively large delivery systems 
+for thoracic endografting, iliac artery graft con-
+duits may be required to ensure safe delivery of 
+the endograft into the aorta. In the clinical device 
+trials, access of vessels other than the femoral 
+artery was required in 9.4% to 21.1% of patients 
+because of small or diseased access vessels. 1-3 In 
+a multicenter cohort study from the GREAT (Global 
+Registry for Endovascular Aortic Treatment) regis-
+try,5 the overall access complication rate was 2.8%, 
+and women had a higher rate of access complica-
+tions than men (4.7% versus 1.8%, respectively; 
+P=0.013), with a higher rate of the need for iliac 
+and aortic access or surgical conduit, as well as 
+access vessel thrombosis irrespective of the clini-
+cal setting, type of aortic disease, and device sizing.
+3. Open descending thoracic aortic repair can be per-
+formed with low morbidity and mortality rates in 
+high-volume centers.6-8,14 In a multicenter retrospec-
+tive study using the MEDPAR (Medicare Provider 
+Analysis and Review) data, 15 the overall mortality 
+rate after open surgical repair of descending TAA 
+decreased in high-volume versus low-volume cen-
+ters (11% versus 15%; P <0.01). In addition, data 
+using Medicare claims show that the benefit of 
+TEVAR is no longer present 1 year after endovas-
+cular therapy, with a significantly worse 5-year sur-
+vival compared with open repair (79% versus 89%; 
+P<0.0001).4 In a recent retrospective, single-center 
+study in which propensity score matching analysis 
+was used to compare the outcomes of open and 
+endovascular descending and TAAA repair in 278 
+pairs of patients, 16 open repair resulted in better 
+10-year survival than endovascular repair (52% ver-
+sus 33%; P<0.0001). Because of the lack of avail-
+able long-term data on aortic-specific mortality rate 
+in young patients after TEVAR, in patients deemed 
+to have a life-expectancy of ≥10 years, open surgi-
+cal repair is reasonable.
+6.5.3.3. Left Subclavian Artery Management
+Recommendations for Left Subclavian Artery Management
+Referenced studies that support the recommendations are 
+summarized in the Online Data Supplement.
+COR LOE Recommendations
+1 B-NR
+1. In patients with descending TAA who undergo 
+TEVAR with planned left subclavian artery 
+coverage, revascularization of the left subcla-
+vian artery before TEVAR is recommended to 
+prevent spinal cord injury (SCI)1,2 and poten-
+tially to reduce stroke risk2 and prevent other 
+ischemic  complications.
+2b C-LD
+2. In patients with descending TAA who have 
+undergone TEVAR with left subclavian cover-
+age and develop SCI that is unresponsive 
+to an increase in BP or a cerebrospinal fluid 
+drain, left subclavian artery revascularization 
+may be considered.3
+Synopsis
+Left subclavian artery coverage is required in up to 40% 
+of cases of TEVAR of descending TAAs.4 SCI and stroke 
+remain devastating complications associated with TEVAR. 
+Addressing these modifiable risk factors would allow 
+for better outcomes after this less invasive treatment 
+strategy. In addition, special considerations include the 
+prevention of vertebrobasilar insufficiency (particularly 
+among those with a dominant left vertebral artery), pres-
+ervation of any preexisting left internal mammary artery 
+coronary bypass graft, as well as left upper extremity 
+dialysis access or other left upper extremity-based graft. 
+Downloaded from http://ahajournals.org by on May 30, 2026
+=== PAGE 58 ===
+Circulation. 2022;146:e334–e482. DOI: 10.1161/CIR.0000000000001106 December 13, 2022 e391
+Isselbacher et al 2022 ACC/AHA Aortic Disease Guideline
+CLINICAL STATEMENTS 
+AND GUIDELINES
+Currently, pivotal as well as feasibility trials are ongoing 
+for branched endografts intending to preserve flow to 
+the left subclavian artery. Longer-term follow-up of this 
+technology is needed, but initial results are promising.5,6
+Recommendation-Specific Supportive Text
+1. Up to 40% of patients undergoing TEVAR for thoracic 
+aneurysm repair require left subclavian artery cover-
+age. Preoperative left subclavian revascularization 
+has been shown to decrease the rates of stroke2,7 ,8 
+and SCI.1,2 Vertebrobasilar insufficiency and left arm 
+ischemia can also occur without left subclavian artery 
+revascularization.9,10 Patients with a patent left inter-
+nal mammary artery to left anterior descending artery 
+coronary artery bypass graft, or who are otherwise 
+reliant on inflow from the left subclavian artery (eg, 
+for dialysis access), should undergo left subclavian 
+revascularization to preserve flow.9
+2. Patients undergoing TEVAR with left subclavian 
+coverage may not be hemodynamically stable 
+enough to undergo preemptive revascularization of 
+the left subclavian artery. If such patients go on to 
+develop SCI after TEVAR, there have been case 
+reports of SCI reversal with secondary revascular-
+ization of the left subclavian artery.3
+6.5.3.4. Celiac Artery Management
+Recommendation for Celiac Artery Management
+References that support the recommendation are included in the 
+Online Data Supplement.
+COR LOE Recommendation
+2a B-NR
+1. In patients with descending TAA undergoing 
+TEVAR in whom celiac artery coverage is 
+being considered, it is reasonable to first con-
+firm adequate collateralization.1
+Synopsis
+Celiac artery coverage is estimated to be necessary 
+in 15% of patients undergoing TEVAR for descend-
+ing TAA repair.2 The safety and use of this practice has 
+previously been shown with single-institution series cit-
+ing low incidence of postoperative visceral ischemia. 
+However, despite the preoperative evaluation with CTA, 
+angiography, or both to confirm adequate collateraliza-
+tion between the celiac and superior mesenteric artery 
+(SMA), a small percentage of patients still die from vis-
+ceral ischemia. In addition, late distal migration of the 
+endograft can encroach on the SMA, creating SMA 
+stenosis and compromising flow through the SMA and 
+celiac-based collaterals.
+Recommendation-Specific Supportive Text
+1. Migration of the endograft distally over time can 
+cause stenosis of the SMA and decrease flow to 
+the SMA and celiac artery-based collaterals. In 
+patients undergoing TEVAR with celiac artery cov-
+erage who have adequate collateralization on CTA, 
+angiography, or both, a small percentage of patients 
+go on to develop postoperative visceral ischemia. 
+Although the risk of visceral ischemia after celiac 
+artery coverage with TEVAR is relatively low, there 
+remains a finite risk (3.2% in largest clinical series)3 
+for visceral ischemic complications, which can lead 
+to death.
+6.5.3.5. Ruptured Descending TAA
+Recommendations for Ruptured Descending TAA
+Referenced studies that support the recommendations are 
+summarized in the Online Data Supplement.
+COR LOE Recommendations
+1 B-NR
+1. In patients with ruptured descending TAA who 
+are anatomic candidates for endovascular 
+repair, TEVAR is recommended over open 
+repair because of decreased perioperative 
+death and morbidity.1-5
+2b B-NR
+2. In patients with ruptured descending TAA 
+undergoing TEVAR, intentional coverage of 
+the left subclavian artery, celiac artery, or both 
+may be considered to increase the landing 
+zone for endovascular repair.5-7
+Synopsis
+Ruptured TAA carry a high mortality rate. Single-center 
+data, meta-analyses, and clinical trials have all shown 
+the lower rates of perioperative death and complica-
+tions associated with endovascular versus open surgical 
+repair.1-5 However, the survival advantage shown in Medi-
+care-based claims data disappears after 1.5 years, 4 and 
+single-institution series 1,3 reflect the frequent need for 
+reintervention over time. Furthermore, a meta-analysis 2 
+showed that aneurysm-related survival was decreased in 
+the TEVAR group over time, underscoring the importance 
+of continued surveillance in this high-risk population.
+Recommendation-Specific Supportive Text
+1. For repair of ruptured descending TAA, TEVAR is 
+associated with decreased perioperative morbid-
+ity and mortality compared with open repair. In 1 
+retrospective multi-institution study, TEVAR had a 
+lower composite rate of death, stroke, and perma-
+nent paraplegia compared with open surgery and 
+a trend toward lower aneurysm-related mortality 
+at 4 years.1 Similarly, a meta-analysis showed that 
+TEVAR was associated with a lower perioperative 
+mortality and myocardial infarction rate compared 
+with open repair.1 A multicenter, prospective clinical 
+trial for aortic catastrophes—including aortic rup-
+ture—showed that TEVAR was superior with regard 
+to the composite endpoint of mortality and para-
+plegia, compared with open repair. 5 Although the 
+Downloaded from http://ahajournals.org by on May 30, 2026
+=== PAGE 59 ===
+December 13, 2022 Circulation. 2022;146:e334–e482. DOI: 10.1161/CIR.0000000000001106e392
+Isselbacher et al 2022 ACC/AHA Aortic Disease Guideline
+CLINICAL STATEMENTS  
+AND GUIDELINES
+perioperative benefit of endovascular repair of rup-
+tured TAA was again corroborated in a Medicare-
+claims dataset, the survival advantage with TEVAR 
+disappeared after 1.5 years.4
+2. When ruptured descending TAA present, coverage 
+of the left subclavian artery, celiac artery, or both 
+may be necessary to gain the necessary 2 cm of 
+seal zone for successful endovascular repair. Left 
+subclavian artery and celiac artery coverage during 
+thoracic aortic rupture has been associated with 
+reasonable technical success and outcomes in sin-
+gle-institution series6 and 1 clinical trial5 in patients 
+with acute rupture or complicated dissection of the 
+descending thoracic aorta.
+6.5.3.6. Access Issues for TEVAR in Descending TAA
+Recommendations for Access Issues for TEVAR in Descending TAA
+Referenced studies that support the recommendations are 
+summarized in the Online Data Supplement.
+COR LOE Recommendations
+1 B-NR
+1. In patients with descending TAA undergoing 
+TEVAR, review of preoperative CTA of the 
+iliofemoral vessels should be performed to 
+evaluate access.1,2
+1 B-NR
+2. In patients with descending TAA undergoing 
+TEVAR, if iliac access is marginal or inade-
+quate to prevent access-related complications, 
+the use of alternative conduits is recom-
+mended.1,2
+2a B-NR
+3. In patients with descending TAA undergo-
+ing TEVAR who have suitable anatomy, 
+total percutaneous femoral access is a 
+reasonable alternative to open surgi-
+cal cutdown to avoid access-related 
+ complications. 3-5
+Synopsis
+Iliac artery access for stent-graft delivery systems is 
+marginal in up to 21% of cases in which TEVAR is per-
+formed for descending TAA.1 Careful review of the CTA 
+of the iliofemoral system is required to ensure that mar-
+ginal or inadequate access is noted and properly man-
+aged. Marginal access can be successfully circumvented 
+using surgical bypass, direct aortic or iliac exposure, or 
+endovascular techniques to treat vessel stenosis. Percu-
+taneous access was used successfully for endovascular 
+abdominal aortic repair before it was applied to larger 
+sheath devices. This technology has also been applied 
+to TEVAR with a similarly high degree of success and 
+reduced hospital length of stay.
+Recommendation-Specific Supportive Text
+1. Thoracic endovascular stent grafts are housed in 
+large delivery systems, thus thorough review of 
+the iliofemoral system is required to avoid access 
+complications. In the clinical device trials, alter-
+native access was required in 9.4% to 21.1% 
+of patients because of small or diseased access 
+vessels.6-8
+2. Alternative access was required in up to 21.1% 
+of patients undergoing TEVAR in the clinical 
+device trials.8 Women have a higher incidence of 
+smaller diameter external iliac arteries compared 
+with men. 1,2 Direct aortic or iliac artery exposure, 
+iliac conduits, or endovascular techniques may 
+be used to facilitate safe delivery of endografts 
+during TEVAR. 1,2 Preoperative case planning will 
+enable safe delivery of endografts without vascular 
+complications.
+3. Percutaneous access for delivery of TEVAR has 
+been performed safely and with a high degree of 
+success, as shown in single-institution 4,5 as well 
+as multi-institution registries. 3 Technical success 
+ranged from 94.4% to 98.9%, and percutaneous 
+access was associated with fewer complications 
+and a shorter length of stay compared with those 
+with surgical cutdown.
+6.5.4. Thoracoabdominal Aortic Aneurysms
+6.5.4.1. Size Thresholds for Open Surgical Repair of TAAA
+Recommendations for Size Thresholds for Open Surgical Repair of 
+TAAA
+Referenced studies that support the recommendations are 
+summarized in the Online Data Supplement.
+COR LOE Recommendations
+1 B-NR
+1. In patients with intact degenerative TAAA, 
+repair is recommended when the diameter is 
+≥6.0 cm.1-3
+2a B-NR
+2. In patients with intact degenerative TAAA, 
+repair is reasonable when the diameter is 
+≥5.5 cm and the repair is performed by expe-
+rienced surgeons in a Multidisciplinary Aortic 
+Team.1-3
+2a B-NR
+3. In patients with intact degenerative TAAA 
+who have features associated with an 
+increased risk of rupture (Table 19), 
+repair is reasonable when the diameter is 
+<5.5 cm. 4
+Synopsis
+The data supporting aortic diameter thresholds for either 
+open or endovascular repair of TAAA are similar to that 
+presented for repair of descending TAA (see Section 
+6.5.3, “Descending Thoracic Aortic Aneurysms”). All 
+are single-institution series with longitudinal follow-up 
+Table 19. F eatures Associated With an Increased Risk of 
+TAAA Rupture
+Rapid growth (conﬁrmed increase in diameter of /g1160.5 cm/y)
+Symptomatic aneurysm
+Signiﬁcant change in aneurysm appearance
+Saccular aneurysm or presence of penetrating atherosclerotic ulcers
+TAAA indicates thoracoabdominal aortic aneurysm.
+Downloaded from http://ahajournals.org by on May 30, 2026
+=== PAGE 60 ===
+Circulation. 2022;146:e334–e482. DOI: 10.1161/CIR.0000000000001106 December 13, 2022 e393
+Isselbacher et al 2022 ACC/AHA Aortic Disease Guideline
+CLINICAL STATEMENTS 
+AND GUIDELINES
+via surveillance imaging and detection of aortic-related 
+events and death. Intervention at diameters of <6.0 cm 
+would reduce aortic-related events and death. There 
+are also conditions in which intervention may be justi-
+fied at smaller diameters (eg, rapid growth, symptoms, 
+penetrating ulcers, mycotic aneurysms, connective tissue 
+disorders). Concerns for operative death in the setting 
+of comorbid conditions is certainly justified. However, in 
+centers with a Multidisciplinary Aortic Team, excellent 
+outcomes can be obtained despite the presence of such 
+conditions, and fatal aortic events may thus be avoided.
+Recommendation-Specific Supportive Text
+1. Aortic event rates begin to rise significantly, and 
+5-year survival begins to fall when TAAA diame-
+ters are >6.0 cm. At this diameter, the risk of an 
+adverse aortic event ranges from 9.3% 1 to 19%, 3 
+which is 2 to 4 times the median operative mortal-
+ity rate for open TAAA repair. In patients with mul-
+tiple comorbidities known to substantially increase 
+the risk of open TAAA repair (eg, chronic obstruc-
+tive pulmonary disease, advanced age, preopera-
+tive renal dysfunction, preoperative left ventricular 
+dysfunction), it may be appropriate to continue to 
+observe patients with TAAA diameters >6.0 cm or 
+to refer them for endovascular repair.
+2. In centers with a Multidisciplinary Aortic Team, 
+despite the presence of comorbid conditions, 
+excellent outcomes can be achieved with meticu-
+lous perioperative preparation and care as well as 
+technically sound surgery. On multivariable analy-
+sis, patients undergoing TAAA repair with a left 
+ventricular ejection fraction <40% were not more 
+prone to operative death (OR, 0.28; 95% CI, 0.02–
+4.14; P=0.58) or long-term death (OR, 0.55; 95% 
+CI, 0.17–1.80; P=0.23) than those with higher 
+ejection fractions. 5 Similarly, carefully selected 
+octogenarians undergoing open TAAA repair had a 
+similar operative mortality rate as those <80 years 
+of age (5.2% versus 5.7%; P=0.852).6
+3. Certain clinical factors associated with an 
+increased risk of TAAA rupture may prompt con-
+sideration of open or endovascular intervention 
+at a diameter below the standard surgical thresh-
+olds. In patients with intact TAAA who are being 
+observed with surveillance imaging, confirmed 
+rapid aneurysm growth (≥0.5 cm/y) would suggest 
+the need for intervention regardless of absolute 
+diameter.4 Symptoms consistent with an enlarging 
+TAAA that are not attributable to alternative pathol-
+ogy portend potential rupture and also suggest the 
+need for surgery.7 Patients with symptoms second-
+ary to either PAU or saccular aneurysms are also at 
+a higher risk for rupture and should be considered 
+for intervention regardless of absolute diameter.8
+6.5.4.2. Open Versus Endovascular Repair of TAAA
+Recommendations for Open Versus Endovascular Repair of TAAA
+Referenced studies that support the recommendations are 
+summarized in the Online Data Supplement.
+COR LOE Recommendations
+Ruptured TAAA
+1 B-NR 1. In patients with ruptured TAAA requiring inter-vention, open repair is recommended.1-5
+2b C-LD
+2. In patients with ruptured TAAA requiring inter-
+vention, provided that the patient is hemo-
+dynamically stable, endovascular repair may 
+be reasonable in centers with endovascular 
+expertise and access to appropriate endovas-
+cular stent grafts.6
+Intact TAAA
+1 C-LD
+3. In patients with Marfan syndrome, Loeys-Dietz 
+syndrome, or vascular Ehlers-Danlos syn-
+drome and intact TAAA requiring intervention, 
+open repair is recommended over endovascu-
+lar repair.7-9
+2b B-NR
+4. In patients with intact degenerative TAAA 
+and suitable anatomy, endovascular repair 
+with fenestrated stent grafts, branched 
+stent grafts, or both may be considered in 
+centers with endovascular expertise and 
+access to appropriate endovascular stent 
+grafts. 10-13
+Synopsis
+There are no RCTs comparing early or late outcomes 
+for open versus endovascular repair for TAAA. As of 
+November 2022, there are no FDA-approved devices for 
+endovascular TAAA repair. Most of the endovascular pro-
+cedures currently performed are done so with customized 
+fenestrated or branched endografts on investigational 
+device exemption- or industry-sponsored trials. Although 
+the number of endovascular repairs performed has been 
+steadily increasing, follow-up remains limited, and open 
+repair therefore remains the preferred therapy for patients 
+with TAAA who require intervention. The results for open 
+repair are excellent in centers with a Multidisciplinary Aor-
+tic Team. In the largest series published to date, the oper-
+ative mortality rate in 3 309 patients undergoing open 
+TAAA repair was 7 .5%, including >1 000 patients under-
+going repair of an extent II aneurysm, with a low risk of 
+aortic-related reintervention. Other high-volume centers 
+have reported similar outcomes for open repair. In 1 cen-
+ter, the operative mortality rate in 783 patients was 5.6%, 
+with a low risk of SCI of 2.0% and need for postoperative 
+hemodialysis of 5.2%. Another center, whose operators 
+used deep hypothermic circulatory arrest, reported an 
+operative mortality rate of 6.8% with an SCI risk of <3% 
+and postoperative hemodialysis risk of 2.2%.
+Recommendation-Specific Supportive Text
+1. In patients with ruptured TAAA, open repair can 
+be performed with low mortality by surgeons in 
+Downloaded from http://ahajournals.org by on May 30, 2026
+=== PAGE 61 ===
+December 13, 2022 Circulation. 2022;146:e334–e482. DOI: 10.1161/CIR.0000000000001106e394
+Isselbacher et al 2022 ACC/AHA Aortic Disease Guideline
+CLINICAL STATEMENTS  
+AND GUIDELINES
+centers with a Multidisciplinary Aortic Team. In a 
+series of 100 consecutive patients with ruptured 
+TAAA, an operative mortality rate of 14% and 
+an SCI rate of 5% was achieved. 5 Although the 
+study population was replete with comorbid con-
+ditions, the only risk factor remaining significant 
+after propensity matching was “shock” on arrival 
+to the hospital. Furthermore, 5-year actuarial sur-
+vival was 47 .5%. Centers experienced in complex 
+endovascular repair may opt to use this technique. 
+In a national registry of 140 ruptured descending 
+aneurysms, the operative mortality rate (10%) was 
+good, but there was a disappointingly high rate of 
+stroke (14.7%), SCI (9.6%), and need for reinter-
+vention within 30 days (19.7%). At a median fol-
+low-up of 17 months, actuarial 5-year survival rate 
+was 31.9%. These results were similar to those 
+reported from a device registry. 1,5 Although com-
+plex endovascular repair of intact TAAA has shown 
+promise in experienced hands and in select cen-
+ters, in the setting of TAAA rupture, the endovascu-
+lar approach is hampered by patient instability and 
+the need for customized grafts (which may take 
+several weeks to manufacture). In addition, most 
+of the reported series of endovascular repair of 
+ruptured TAAA are small; larger series with longer-
+term follow-up will be necessary to delineate the 
+role for endovascular repair in the setting of aortic 
+rupture.
+2. Endovascular repair requires sequential steps for 
+successful stenting of side branches without the 
+ability to achieve rapid control of hemorrhage. 
+Therefore, the role of off-the-shelf branched repair 
+has been limited in patients with ruptured aneu-
+rysms and hemodynamic instability. However, in 
+higher-risk patients who present with symptomatic 
+or contained ruptured aneurysms, are hemody-
+namically stable, and have suitable anatomy, endo-
+vascular repair with an off-the-shelf or modified 
+device may be considered. Kolbel et al14 reported a 
+mortality rate of 15% for symptomatic and 30% for 
+ruptured TAAA treated by multibranch endovascu-
+lar repair.
+3. In patients with known or suspected connec-
+tive tissue disorders, such as Marfan syndrome, 
+Loeys-Dietz syndrome, or vascular Ehlers-Danlos 
+syndrome, open repair is recommended. Operative 
+mortality rate is lower than in the general popula-
+tion undergoing open TAAA repair, as is the inci-
+dence of major complications, such as stroke and 
+SCI. Importantly, freedom from aortic reintervention 
+is excellent, as is long-term survival. Conversely, 
+data are lacking on complex endovascular repair of 
+TAAA for patients with connective tissue disorders. 
+A small study of 17 patients treated by fenestrated-
+branched endovascular aortic repair (FEVAR) had 
+no mortality rate, 100% technical success, and 1 
+reintervention at mean follow-up of 34 months. 6 
+Endovascular repair may be reasonable in patients 
+who failed previous open repair or are considered 
+high risk and have stent-grafts placed into synthetic 
+landing zones, or when used as a bridge to open 
+repair in patients with hemodynamic instability.
+4. Single- and multi-institution series of physician-
+sponsored investigational device exempt trials have 
+shown the promise of fenestrated and branched 
+endovascular stent grafts. When performed by 
+experienced surgeons, technical success may be 
+achieved in a high percentage of cases (92%–
+99.6%) with low perioperative mortality rate. At 
+1-year follow-up imaging, branch vessel patency 
+was also good (96%–98%) and, at 3 years, free-
+dom from aortic-related death was 91% and over-
+all survival 57%.15
+6.5.4.3. TAAA Spinal Cord Protection
+Recommendations for TAAA Spinal Cord Protection
+Referenced studies that support the recommendations are 
+summarized in the Online Data Supplement.
+COR LOE Recommendations
+1 A
+1. In patients undergoing open TAAA repair who 
+are at high risk for SCI, cerebrospinal fluid 
+drainage is recommended to reduce the inci-
+dence of temporary SCI, permanent SCI, or 
+both.1-7
+1 B-NR
+2. In patients who experience delayed spinal 
+cord dysfunction after either open or endo-
+vascular TAAA repair, timely measures to 
+optimize spinal cord perfusion and decrease 
+intrathecal pressure are recommended 
+(Table 20).1-4,8
+Synopsis
+SCI is a devastating complication of open and endo-
+vascular thoracoabdominal aneurysm repair, with an 
+incidence rate of 2% to 15%, depending on aneurysm 
+extent and cause, underlying patient comorbidities, 
+urgency of the procedure, and surgeon and center expe-
+rience. Previous ACC/AHA guidelines did not address 
+the issue other than to suggest higher-risk populations 
+that might benefit from adjuncts to reduce the incidence 
+of SCI.9 The 2014 European guidelines assigned cere-
+brospinal fluid drainage a I B recommendation to reduce 
+the risk of SCI. 10 However, data were limited at the time 
+Table 20. Measures to Optimize Spinal Cord and End-Organ 
+Perfusion
+Cardioversion for tachyarrhythmias
+Insertion of cerebrospinal ﬂuid drain
+Increase mean arterial pressure to >100 mm Hg
+Transfuse to a hemoglobin >10 g/dL
+Volume resuscitation
+Downloaded from http://ahajournals.org by on May 30, 2026
+=== PAGE 62 ===
+Circulation. 2022;146:e334–e482. DOI: 10.1161/CIR.0000000000001106 December 13, 2022 e395
+Isselbacher et al 2022 ACC/AHA Aortic Disease Guideline
+CLINICAL STATEMENTS 
+AND GUIDELINES
+to support this recommendation, and an earlier RCT 11 
+had not shown a benefit for cerebrospinal fluid drainage 
+in TAAA repair. A more recent RCT did show a significant 
+reduction in SCI for a cohort undergoing repair of exten-
+sive TAAA (extent I and extent II) when cerebrospinal 
+fluid drainage was used. Additional nonrandomized data 
+support this recommendation.
+Delayed SCI may occur up to 2 weeks after surgery. 
+This complication has a profound impact on short- and 
+long-term outcomes. 10,12 Early recognition and aggres-
+sive management of SCI can lead to a return of lower 
+extremity function. The reinsertion of a cerebrospinal 
+fluid drain is a key component to salvage lower extrem-
+ity function. Additional therapies, such as volume loading, 
+increasing mean arterial pressure, and maximizing oxy-
+gen delivery to the cord through transfusion or supple-
+mental oxygen, are also critical.
+Recommendation-Specific Supportive Text
+1. TAAA repair remains a formidable undertak-
+ing regardless of whether open or endovascular 
+repair is performed. SCI, with either paraparesis or 
+paraplegia, may be temporary or permanent and 
+has a profoundly negative impact on short- and 
+long-term survival as well as quality of life after 
+repair. Many techniques have been suggested to 
+reduce the incidence of this significant complica-
+tion. Intraoperative management ranges from deep 
+hypothermic circulatory arrest to left heart bypass 
+to a “clamp-and-sew” technique, and support exists 
+for each approach. Similarly, intraoperative and 
+postoperative spinal cord neuromonitoring is not 
+widespread but has support that is institutionally 
+based. Other interventions have been also advo-
+cated as intrathecal papaverine to enhance spinal 
+cord protection. 13 Cerebrospinal fluid drainage 
+remains the only technique proven to reduce the 
+incidence of perioperative SCI. In an RCT exam-
+ining the incidence of SCI in patients undergoing 
+high-risk extent I and II TAAA repair, cerebrospi-
+nal fluid drainage was associated with a signifi-
+cant reduction in SCI compared with those having 
+surgery without cerebrospinal fluid drainage. Over 
+the past decade, there are few centers performing 
+open TAAA repair without the aid of cerebrospinal 
+fluid drainage. Furthermore, patients undergoing 
+endovascular repair requiring extensive descending 
+thoracic aorta coverage or in the setting of a pre-
+vious infrarenal aneurysm repair also benefit from 
+cerebrospinal fluid drainage (nonrandomized).6
+2. In patients undergoing open TAAA repair, delayed 
+paraplegia may account for nearly 60% of all spi-
+nal cord deficits encountered. Despite having an 
+intact neurologic examination immediately after the 
+procedure, patients can experience these delayed 
+deficits anytime in the first 2 weeks postoperatively. 
+The reported incidence of delayed SCI is approxi-
+mately 5%, nearly twice that of deficits recognized 
+immediately after surgery. Delayed deficits usu-
+ally present in the setting of a hemodynamic insult 
+(atrial fibrillation, hypovolemia, hemorrhage, infec-
+tion) and may be responsive to aggressive mea-
+sures to optimize spinal cord perfusion (Table 20). 
+Cerebrospinal fluid drainage immediately reduces 
+intrathecal pressure and increases spinal cord 
+perfusion pressure (spinal cord perfusion pres-
+sure equals mean arterial pressure minus spinal 
+cord fluid pressure). 8,12,14 A significant proportion 
+(57%) of patients with late deficits experience an 
+improvement in their neurologic examination, with 
+17% having complete resolution of their deficits.14 
+The operative mortality rate for those with persis-
+tent SCI is nearly 3-fold higher than for those who 
+recover (38% versus 13%, respectively; P<0.001). 
+In addition, 5-year survival is significantly worse 
+(from 75% with a return of function to 28% with-
+out; P<0.001).14
+6.5.4.4. TAAA Renal and Visceral Organ Protection
+Recommendations for TAAA Renal and Visceral Organ Protection
+Referenced studies that support the recommendations are 
+summarized in the Online Data Supplement.
+COR LOE Recommendations
+1 A
+1. In patients undergoing open repair of TAAA 
+involving the renal arteries, cold blood or crys-
+talloid renal perfusion is recommended to pro-
+vide effective protection against renal injury.1-6
+1 B-NR
+2. In patients undergoing open or endovascular 
+TAAA repair who have end-organ ischemia or 
+significant stenoses from atherosclerotic vis-
+ceral or renal artery disease, additional revas-
+cularization procedures are recommended.7
+Synopsis
+Postoperative renal dysfunction after open TAAA repair 
+has a significantly negative impact on short- and long-
+term mortality as well as quality of life. Efforts to reduce 
+renal injury during open TAAA repair include local organ 
+hypothermia with either cold crystalloid or cold blood-
+based perfusate.
+Recommendation-Specific Supportive Text
+1. Renal dysfunction after TAAA repair is defined as 
+a doubling of the creatinine or the need for hemo-
+dialysis. When this significant complication occurs, 
+short- and long-term survival is compromised, and 
+the incidence of postoperative respiratory failure, 
+SCI, and cardiac complications increase. To iden-
+tify methods to reduce the incidence of postop-
+erative renal dysfunction, 2 RCTs were performed 
+Downloaded from http://ahajournals.org by on May 30, 2026
+=== PAGE 63 ===
+December 13, 2022 Circulation. 2022;146:e334–e482. DOI: 10.1161/CIR.0000000000001106e396
+Isselbacher et al 2022 ACC/AHA Aortic Disease Guideline
+CLINICAL STATEMENTS  
+AND GUIDELINES
+comparing cold crystalloid renal preservation to nor-
+mothermic blood perfusate and, subsequently, cold 
+blood perfusate. When compared with normother-
+mic blood delivered into the renal arteries directly 
+from the left heart bypass circuit, the delivery of cold 
+crystalloid perfusate into the renal arteries during 
+open TAAA repair resulted in a 3-fold reduction in 
+the incidence of postoperative renal dysfunction. 7 
+Subsequently, cold blood perfusate delivered to 
+the renal arteries through occlusion or perfusion 
+catheters was found to provide the same level of 
+renal protection as cold crystalloid perfusate during 
+open TAAA repair.5 The results of this second RCT 
+provided surgeons with 2 options for renal protec-
+tion when open TAAA repair requires renal artery 
+reconstruction.
+2. In patients with renal or visceral artery stenoses 
+or ostial obstruction secondary to chronic or acute 
+dissection flaps, end-organ perfusion may be com-
+promised. Improvement in perfusion to the celiac 
+axis, SMA, and both renal arteries may be achieved 
+by bypass, endarterectomy, or balloon angioplasty 
+and stent placement. Patency of target vessel 
+revascularization strategies has been documented 
+in small series of patients having open TAAA repair 
+with a “debranching” technique and in those under-
+going endovascular TAAA repair.
+6.5.5. Abdominal Aortic Aneurysms
+6.5.5.1. Access During Endovascular Repair of AAA
+Recommendation for Access During Endovascular Repair of AAA
+Referenced studies that support the recommendation are summarized 
+in the Online Data Supplement.
+COR LOE Recommendation
+1 B-R
+1. In patients undergoing endovascular repair 
+of AAA who have suitable common femoral 
+artery anatomy, ultrasound-guided percutane-
+ous access and closure is recommended over 
+open cutdown to reduce operative time, blood 
+loss, length of stay, time to wound healing, and 
+pain.1,2
+Synopsis
+Increased availability of percutaneous closure devices 
+and lower profile endovascular stent grafts have made 
+ultrasound-guided percutaneous access and closure 
+more feasible. Two RCTs and a large national retrospec-
+tive review showed favorable outcomes from percutane-
+ous common femoral artery access and closure such as 
+reduced operative time, reduced blood loss, and improved 
+patient-centered outcomes, such as reduced pain.
+Recommendation-Specific Supportive Text
+1. The PEVAR trial showed the noninferiority of 
+total percutaneous access and closure for EVAR 
+for those with suitable common femoral artery 
+anatomy.3 In the PiERO (Percutaneous femoral 
+access in Endovascular Repair versus Open femo-
+ral access) study, investigators evaluated whether 
+ultrasound-guided percutaneous access via the 
+common femoral artery decreased the risk of 
+surgical site infections compared with cutdown. 
+Although the incidence of surgical site infections 
+was too low to produce a difference in outcomes, 
+investigators found that, compared with open cut-
+down for access, groins accessed and closed per-
+cutaneously healed faster and patients reported 
+less pain.1 Although the PEVAR trial did not require 
+ultrasound-guided femoral access, it was routine in 
+the PiERO trial. Furthermore, a multicenter obser-
+vational study of common femoral artery access 
+showed a significant decrease in groin hematomas 
+with routine ultrasound-guided access. 4 Lastly, in 
+an extensive comparison of different closures using 
+data from 13 087 patients in the Vascular Quality 
+Initiative registry, there was a significantly higher 
+rate of cardiac complications (OR, 1.5; 95% CI, 
+1.14–2.05) and 30-day mortality rate (OR, 1.56; 
+95% CI, 1.05–2.32)2 in those undergoing cutdown 
+versus percutaneous access.2 Operative time, esti-
+mated blood loss, and length of stay were all signifi-
+cantly higher in those undergoing groin cutdowns 
+compared with percutaneous access.
+6.5.5.2. Repair of Ruptured AAA
+Recommendations for Repair of Ruptured AAA
+Referenced studies that support the recommendations are 
+summarized in the Online Data Supplement.
+COR LOE Recommendations
+1 B-R
+1. In patients presenting with ruptured AAA 
+who are hemodynamically stable, CT imag-
+ing is recommended to evaluate whether 
+the AAA is amenable to endovascular 
+repair.1-3
+1 B-R
+2. In patients presenting with ruptured AAA 
+who have suitable anatomy, endovas-
+cular repair is recommended over open 
+repair to reduce the risk of morbidity and 
+ mortality.1,4-6
+2a B-NR
+3. In patients undergoing endovascular repair for 
+ruptured AAA, local anesthesia is preferred to 
+general anesthesia to reduce risk of periop-
+erative mortality.7-9
+2a C-LD
+4. In patients with ruptured AAA, permissive 
+hypotension can be beneficial to decrease the 
+rate of bleeding.1,3,10-12
+Synopsis
+The mortality rate from ruptured abdominal aortic aneu-
+rysms (rAAA) is estimated to be 80% to 90%, with most 
+patients never reaching the hospital. 13 For those who 
+present to a hospital, the historical mortality rate for open 
+repair was approximately 50%. With improved team 
+Downloaded from http://ahajournals.org by on May 30, 2026
+=== PAGE 64 ===
+Circulation. 2022;146:e334–e482. DOI: 10.1161/CIR.0000000000001106 December 13, 2022 e397
+Isselbacher et al 2022 ACC/AHA Aortic Disease Guideline
+CLINICAL STATEMENTS 
+AND GUIDELINES
+organization, prompt diagnosis, and endovascular repair 
+options, the mortality rate after repair for rAAA has been 
+reported to be as low as 18.5% after instituting an endo-
+vascular repair-first strategy in at least 1 observational 
+series.1 Initial randomized trials for endovascular repair 
+for rAAA (rEVAR) versus open repair generally showed 
+no early survival benefit. However, shortcomings of these 
+trials raised questions about their applicability. 2,14,15 Lon-
+ger-term studies of rEVAR, such as 3-year results from 
+the IMPROVE (Immediate Management of the Patient 
+With Rupture: Open Versus Endovascular Repair) trial, 
+showed late survival benefit from rEVAR over open repair. 
+Many authors have evaluated institutional experience 
+with using rEVAR in anatomically suitable candidates 
+and aimed to improve the process of care for rAAA by 
+adopting “rupture protocols” that include early imaging, 
+permissive hypotension, endovascular balloon occlusion 
+under fluoroscopy to reduce excessive bleeding, and a 
+team-based organization to facilitate immediate transfer 
+of patients to the operating room for prompt hemorrhage 
+control and repair.1,3
+Recommendation-Specific Supportive Text
+1. The IMPROVE trial was the first trial to evaluate 
+a new paradigm in evaluating rAAA. 2 Specifically, 
+patients who were hemodynamically stable were 
+first transported to the radiology suite for CTA 
+to assess whether their ruptured aneurysm was 
+amenable to endovascular repair or required open 
+repair. This is in contrast to a strategy of transport 
+to the operating room for open surgery without 
+preoperative imaging. The trial did not identify any 
+increased risk of death from a strategy of acquiring 
+preoperative imaging and, because of the different 
+repair options available today, such assessments 
+can help surgeons choose appropriate therapy 
+based on patient aneurysm anatomy and clinical 
+status. In contemporary practice, many patients 
+will have a CT scan, although some of these scans 
+will not be ideally timed arterial phase imaging. 
+Given that time is of the essence in rAAA repair, 
+if a patient’s CT scan provides enough anatomic 
+information to identify whether endovascular repair 
+is feasible, another more dedicated CTA scan may 
+add unnecessary delays to the patient’s care.
+2. Although 3 clinical trials aimed to evaluate poten-
+tial survival benefit for rEVAR over open repair, 
+none showed significant early benefit. However, tri-
+als excluded patients who were hemodynamically 
+unstable, thus excluding patients that may have 
+benefitted most from an endovascular approach. It 
+should be noted, however, that the IMPROVE trial 
+subsequently showed that between 90 days and 
+3 years, rEVAR had superior survival rates com-
+pared with open repair (hazard ratio, 0.57; 95% CI, 
+0.36–0.9).16 Contemporary observational studies 
+showed significant survival benefit from an endo-
+vascular approach to rAAA. For example, Wang 
+et al 6 used propensity-matched data from the 
+Vascular Quality Initiative registry and showed that 
+rEVAR resulted in a lower 30-day mortality rate 
+than open repair (21% versus 34%, respectively; 
+P<0.001) and that mortality rates after rEVAR 
+have been steadily decreasing since 2008. Other 
+studies have corroborated this general decline in 
+the rEVAR mortality rate and comparatively better 
+postoperative outcomes. 4,17 Newer endovascular 
+devices have enabled treatments of rAAA that do 
+not necessarily meet instructions for use criteria. 
+However, caution should be exercised, because 
+observational studies showed increased risk of 
+perioperative death and long-term complica-
+tions when devices are used off-label in a rupture 
+scenario.18,19
+3. Patients presenting with rAAA often maintain 
+adequate BPs, in part because of the body’s cat-
+echolamine responses. 20 However, once induced 
+with general anesthesia, the loss of this physiologic 
+response—coupled with anesthetic agents that can 
+depress BP—can lead to circulatory collapse. 21-23 
+General anesthesia has also been shown to have 
+deleterious effects on inflammatory and body 
+temperature regulation. 24,25 Subanalysis of the 
+IMPROVE trial showed that patients with rAAA who 
+underwent EVAR with only local anesthesia had 
+lower risk of mortality compared with those who 
+were treated under general anesthesia (adjusted 
+OR, 0.27; 95% CI, 0.1–0.7). 7 Although the trial 
+was not designed and powered for this specific 
+outcome, recent observational studies from large 
+registries have corroborated this finding.8,9
+4. Although there are no RCTs of outcomes specific 
+to permissive hypotension in rAAA, data from the 
+trauma literature evaluating fluid management in 
+hemorrhagic shock show benefit in using a strat-
+egy of permissive hypotension. 11,12 Many authors 
+managing rAAA have similarly described main-
+taining low arterial pressures to decrease rate of 
+bleeding in patients with rAAA. 1,3,10 An SBP that 
+allows a patient to maintain mentation, typically 
+between 60 and 90 mm Hg, is suggested.
+6.5.5.3. Threshold for AAA Repair
+Recommendations for the Threshold for AAA Repair
+Referenced studies that support the recommendations are 
+summarized in the Online Data Supplement.
+COR LOE Recommendations
+1 A
+1. In patients with unruptured AAA, repair is rec-
+ommended in those with a maximal aneurysm 
+diameter of ≥5.5 cm in men or ≥5.0 cm in 
+women.1-6
+Downloaded from http://ahajournals.org by on May 30, 2026
+=== PAGE 65 ===
+December 13, 2022 Circulation. 2022;146:e334–e482. DOI: 10.1161/CIR.0000000000001106e398
+Isselbacher et al 2022 ACC/AHA Aortic Disease Guideline
+CLINICAL STATEMENTS  
+AND GUIDELINES
+1 B-NR
+2. In patients with unruptured AAA who have 
+symptoms that are attributable to the aneu-
+rysm, repair is recommended to reduce the 
+risk of rupture.7, 8
+2b C-LD
+3. In patients with unruptured saccular AAA, 
+intervention to reduce the risk of rupture may 
+be reasonable.9
+2b C-LD
+4. In patients with unruptured AAA and aneu-
+rysm growth of ≥0.5 cm in 6 months, repair 
+to reduce the risk of rupture may be reason-
+able.1-5
+Synopsis
+One of the most significant risk factors for continued 
+aneurysm growth and rupture is the maximum diameter. 
+Thresholds for AAA repair must balance the expected 
+risk of rupture against the risk of operative interven-
+tion. Historically, the risk of rupture was reported to be 
+0.5% to 5% for aneurysms <5 cm in maximum diameter, 
+3% to 15% for aneurysms 5 cm to 6.9 cm, and ≥30% 
+for aneurysms ≥8 cm. 10 Multiple trials that are now >2 
+decades old evaluated the use of early repair of AAAs 
+measuring 4.0 cm to 5.4 cm via open or endovascular 
+means. All found no survival benefit attributable to early 
+repair and but did find an increased risk of subsequent 
+reintervention. These studies and others have found that 
+rupture does occur at smaller diameters for women; thus, 
+size thresholds for men and women differ to account 
+for these observed differences. 6,11 Newer data highlight 
+other considerations, such as aortic indexing, which may 
+better predict aneurysm rupture risk. Lastly, although lim-
+ited data exist for the natural history of saccular AAAs, 
+available data suggest that their morphologic features 
+may make them more likely to become symptomatic, 
+rupture at smaller diameters, or both than fusiform AAAs.
+Recommendation-Specific Supportive Text
+1. Clinical trials conducted in the late 1990s and 
+early 2000s, including the UKSAT (UK Small 
+Aneurysm Trial) and ADAM (Aneurysm Detection 
+and Management) trial for early open aneurysm 
+repair and CAESAR (Comparison of surveillance 
+vs. Aortic Endografting for Small Aneurysm Repair) 
+and PIVOTAL (Positive Impact of endoVascular 
+Options for Treating Aneurysm earLy) trials for early 
+endovascular repair, did not find a survival benefit 
+for repair of aortic aneurysms measuring 4.0 cm 
+to 5.4 cm. 1-5 Although long-term outcomes in the 
+UKSAT group seemed to show better survival rates 
+in patients in the early open surgery group, this was 
+thought to be attributable to higher rates of smok-
+ing cessation in the early surgery group compared 
+with the surveillance group.2,3 Based on these data, 
+balancing the risk of intervention versus the risk 
+of rupture, a threshold of ≥5.5 cm is acceptable 
+for men with infrarenal AAA. In the UKSAT study, 
+which included more women than the previous 
+studies, women were found to have higher rates 
+of aneurysm rupture and higher rates of aneu-
+rysm-related deaths than men. 2,3 The mean maxi-
+mum aneurysm diameter at rupture was 5.0 cm in 
+women and 6.0 cm in men. More recent data high-
+light a different method for quantifying aneurysm 
+rupture risk by indexing aneurysm size to the BSA 
+(ASI equals aneurysm diameter [cm]/BSA [m2]); in 
+women, ASI has been shown to be more predictive 
+of rupture risk than is maximum diameter.12 Further 
+research will help clarify whether ASI is a better 
+metric for aneurysm repair thresholds than maxi-
+mum diameter.12
+2. Approximately 6% to 22% of treated aneurysms 
+are symptomatic but unruptured. Symptoms that 
+are considered high risk for impending rupture 
+include pain in the back, abdomen, or flank, and 
+sometimes radiating to the groin, which is attrib-
+utable to the AAA. Patients presenting with such 
+symptoms should be admitted to an ICU for arte-
+rial BP monitoring, tight BP control, medical opti-
+mization, and AAA repair, ideally in 24 to 48 hours 
+to reduce risk of free rupture. Other symptoms 
+that warrant expedited, although not necessarily 
+urgent AAA repair, include tenderness to palpation 
+overlying the AAA in the abdomen, back, or flank, 
+embolism (eg, blue toe syndrome) or compressive 
+symptoms (eg, obstructive uropathy). Observational 
+studies show that patients treated for symptomatic 
+aneurysms have higher mortality and morbidity 
+rates than those treated electively.7, 8 Although tim-
+ing of repair of symptomatic aneurysms remains 
+controversial, most studies have reported out-
+comes of symptomatic aneurysms repaired during 
+a patient’s index operation, with some studies find-
+ing that performing surgery on a nonemergency 
+basis and potentially optimizing patient’s cardiore-
+spiratory status during their hospitalization may be 
+advantageous.8,13-15
+3. Saccular AAAs are rare and, consequently, there 
+are limited natural history data. In a Dutch regis-
+try of patients treated for fusiform and saccular 
+AAAs, researchers found that saccular aneurysms 
+appeared more common in women and were more 
+likely to be symptomatic at smaller sizes than fusi-
+form aneurysms. 9 Of 7 659 patients with AAA, 
+6.1% had saccular AAA. Of patients with saccular 
+aneurysms and acute presentation, 25% had diam-
+eters <5.5 cm, and 8.4% had diameters <4.5 cm. 
+In contrast, only 8.1% and 0.6% of patients with 
+fusiform AAA presenting acutely had diameters 
+<5.5 cm and <4.5 cm, respectively. In their 2017 
+guidelines on AAA, 16 the Society for Vascular 
+Recommendations for the Threshold for AAA Repair (Continued)
+COR LOE Recommendations
+Downloaded from http://ahajournals.org by on May 30, 2026

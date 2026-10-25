@@ -1,0 +1,58 @@
+{
+  "schemaVersion": 1,
+  "id": "esc-hf-2026.rt22-other-non-cv-comorbidities",
+  "guidelineId": "esc-hf-2026",
+  "number": "Recommendation Table 22",
+  "type": "recommendations",
+  "title": {
+    "en": "Recommendation Table 22 — Recommendations for other non-cardiovascular comorbidities",
+    "ru": "Таблица рекомендаций 22 — Рекомендации по другим несердечно-сосудистым сопутствующим заболеваниям"
+  },
+  "tags": [
+    "comorbidities",
+    "vaccination",
+    "influenza",
+    "pneumococcal",
+    "nsaids",
+    "cox-2",
+    "safety",
+    "hfh"
+  ],
+  "source": {
+    "expectedRows": 2
+  },
+  "i18nStatus": {
+    "ru": "reviewed"
+  },
+  "sections": [
+    {
+      "id": "sec-non-cv-comorbidities",
+      "title": {
+        "en": "Recommendations for other non-cardiovascular comorbidities (see Evidence Tables 92 and 93)",
+        "ru": "Рекомендации по другим несердечно-сосудистым сопутствующим заболеваниям (см. Доказательные таблицы 92 и 93)"
+      },
+      "rows": [
+        {
+          "id": "r01",
+          "text": {
+            "en": "Influenza and pneumococcal vaccination should be considered in patients with HF to reduce the risk of pneumonia complications, hospitalization, and death.",
+            "ru": "Вакцинацию против гриппа и пневмококковой инфекции следует рассматривать у пациентов с СН для снижения риска осложнений пневмонии, госпитализации и смерти."
+          },
+          "class": "IIa",
+          "level": "C",
+          "refs": [931, 932, 933, 934, 936, 953, 954]
+        },
+        {
+          "id": "r02",
+          "text": {
+            "en": "NSAIDs and COX-2 inhibitors are not recommended in patients with HF as they increase the risk of HF worsening and HFH.",
+            "ru": "НПВП (NSAID) и ингибиторы ЦОГ-2 (COX-2) не рекомендуются пациентам с СН, поскольку они повышают риск ухудшения течения СН и госпитализаций по поводу СН (HFH)."
+          },
+          "class": "III",
+          "level": "B2",
+          "refs": [942, 946, 947, 948]
+        }
+      ]
+    }
+  ]
+}

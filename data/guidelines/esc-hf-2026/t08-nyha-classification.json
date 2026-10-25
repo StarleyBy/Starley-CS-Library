@@ -1,0 +1,115 @@
+{
+  "schemaVersion": 1,
+  "id": "esc-hf-2026.t08-nyha-classification",
+  "guidelineId": "esc-hf-2026",
+  "number": "8",
+  "type": "grid",
+  "title": {
+    "en": "New York Heart Association functional classification based on severity of symptoms and physical activity",
+    "ru": "Функциональная классификация NYHA по тяжести симптомов и переносимости физической нагрузки"
+  },
+  "tags": [
+    "nyha",
+    "functional-class",
+    "heart-failure",
+    "classification",
+    "symptoms",
+    "physical-activity"
+  ],
+  "source": {
+    "expectedRows": 4
+  },
+  "i18nStatus": {
+    "ru": "reviewed"
+  },
+  "columns": [
+    {
+      "id": "nyha_class",
+      "title": {
+        "en": "NYHA class",
+        "ru": "Класс по NYHA"
+      }
+    },
+    {
+      "id": "severity",
+      "title": {
+        "en": "Severity of symptoms and physical activity",
+        "ru": "Тяжесть симптомов и физическая активность"
+      }
+    }
+  ],
+  "rows": [
+    {
+      "id": "r01-class-i",
+      "cells": [
+        {
+          "text": {
+            "en": "**Class I**",
+            "ru": "**I ФК**"
+          },
+          "tone": "green"
+        },
+        {
+          "text": {
+            "en": "No limitation of physical activity. Ordinary physical activity does not cause undue breathlessness, fatigue, or palpitations.",
+            "ru": "Отсутствие ограничений физической активности. Привычная физическая нагрузка не вызывает чрезмерной одышки, усталости или сердцебиения."
+          }
+        }
+      ]
+    },
+    {
+      "id": "r02-class-ii",
+      "cells": [
+        {
+          "text": {
+            "en": "**Class II**",
+            "ru": "**II ФК**"
+          },
+          "tone": "yellow"
+        },
+        {
+          "text": {
+            "en": "Slight limitation of physical activity. Comfortable at rest, but ordinary physical activity results in undue breathlessness, fatigue, or palpitations.",
+            "ru": "Легкое ограничение физической активности. Комфортное самочувствие в покое, но привычная физическая нагрузка приводит к чрезмерной одышке, усталости или сердцебиению."
+          }
+        }
+      ]
+    },
+    {
+      "id": "r03-class-iii",
+      "cells": [
+        {
+          "text": {
+            "en": "**Class III**",
+            "ru": "**III ФК**"
+          },
+          "tone": "orange"
+        },
+        {
+          "text": {
+            "en": "Marked limitation of physical activity. Comfortable at rest, but less than ordinary activity results in undue breathlessness, fatigue, or palpitations.",
+            "ru": "Выраженное ограничение физической активности. Комфортное самочувствие в покое, но нагрузка меньшей интенсивности, чем привычная, вызывает появление выраженной одышки, усталости или сердцебиения."
+          }
+        }
+      ]
+    },
+    {
+      "id": "r04-class-iv",
+      "cells": [
+        {
+          "text": {
+            "en": "**Class IV**",
+            "ru": "**IV ФК**"
+          },
+          "tone": "red"
+        },
+        {
+          "text": {
+            "en": "Unable to carry on any physical activity without discomfort. Symptoms at rest can be present. If any physical activity is undertaken, discomfort is increased.",
+            "ru": "Неспособность выполнять любую физическую активность без дискомфорта. Симптомы могут присутствовать даже в покое. При выполнении любой физической нагрузки дискомфорт усиливается."
+          }
+        }
+      ]
+    }
+  ]
+}

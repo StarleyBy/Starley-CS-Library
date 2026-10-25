@@ -1,0 +1,1091 @@
+=== PAGE 134 (Bk 111) ===
+111
+CHAPTER 3
+The Standard Transoesophageal 
+Examination
+3.1	 Transoesophageal echocardiography (TOE)  112
+Clinical indications, procedure, and contraindications  112
+Competency in TOE  115
+Instrument and procedure  115
+Checklist before TOE  116
+Introduction of TOE probe  116
+Safety and contraindications  117
+Course of the exam  118
+Standard 2D views and Doppler recordings of the TOE examination  118
+Essential imaging for specific clinical indications  123
+	
+Suggested reading  125
+3.2	 The standard transoesophageal 3D echo examination  126
+General principles  126
+3D TOE protocol  126
+Specific windows and views  130
+	
+Suggested reading  131
+3.3	 The storage and report on transoesophageal echocardiography  132
+	
+Suggested reading  138
+
+=== PAGE 135 (Bk 112) ===
+Chapter 3  The Standard Transoesophageal Examination
+112
+3.1  Transoesophageal echocardiography (TOE)
+Clinical indications, procedure, and contraindications
+TOE examination is indicated when TTE is unable or unlikely to answer the clinical 
+question
+Search for a potential cardiovascular source of embolism
+◆
+◆Left ventricular apex or aneurysm (transgastric and low TOE 2CV views)
+◆
+◆Aortic and mitral valve (look for vegetations, degenerative changes, or tumours, 
+i.e. fibroelastoma)
+◆
+◆Ascending and descending aorta, aortic arch (aneurysm, thrombi, atherosclerotic 
+lesions)
+◆
+◆Left atrial appendage (including PW Doppler); note spontaneous contrast
+◆
+◆Left atrial body including atrial septum; note spontaneous contrast
+◆
+◆Fossa ovalis/foramen ovale/atrial septal defect/atrial septal aneurysm; 
+contrast + Valsalva
+Infective endocarditis
+◆
+◆Mitral valve in multiple cross-sections
+◆
+◆AV in long- and short-axis views; para-aortic tissue (in particular short-axis views 
+of AV and aortic root) to rule out abscess
+
+=== PAGE 136 (Bk 113) ===
+113
+The EACVI Echo Handbook
+◆
+◆Tricuspid valve in transgastric views, low oesophageal view, and RV inflow–outflow 
+view
+◆
+◆Pacemaker, central intravenous lines, aortic grafts, Eustachian valve, pulmonic valve 
+in high basal short-axis view of the right heart (inflow–outflow view of the RV)
+Aortic dissection, aortic aneurysm
+◆
+◆Ascending aorta in long-axis and short-axis views; note maximal diameter, flap, 
+intramural haematoma, para-aortic fluid
+◆
+◆Descending aorta in long- and short-axis views
+◆
+◆Aortic arch
+◆
+◆Aortic valve (note mechanism of aortic regurgitation)
+◆
+◆Relation of dissection membrane to coronary ostia
+◆
+◆Pericardial effusion, pleural effusion
+◆
+◆Entry/re-entry sites of dissection (colour Doppler)
+◆
+◆Spontaneous contrast or thrombus formation in false lumen (use colour Doppler to 
+characterize flow/absence of flow in false lumen)
+Mitral regurgitation
+◆
+◆Mitral anatomy (transgastric basal short-axis view, multiple lower transoesophageal 
+views). Mechanism and origin of regurgitation (mapping of prolapse/flail to leaflets 
+and scallops, papillary muscle and chordal integrity, vegetations, paraprosthetic 
+leaks)
+
+=== PAGE 137 (Bk 114) ===
+Chapter 3  The Standard Transoesophageal Examination
+114
+◆
+◆Colour Doppler of regurgitant jet (including proximal jet width and proximal 
+convergence zone)
+◆
+◆Left upper and right upper pulmonary venous pulsed Doppler
+Prosthetic valves
+◆
+◆Obstruction (reduced opening/mobility of cusps/discs/leaflets and elevated 
+velocities by CW Doppler)
+◆
+◆Regurgitation, with mapping of the origin of regurgitation to specific sites 
+(transprosthetic, paraprosthetic); dehiscence/rocking of prosthesis
+◆
+◆Pathologic structural changes: calcification, immobilization, rupture, or perforation 
+of bioprosthesis leaflets; absence of occluder in mechanical prostheses
+◆
+◆Presence of paraprosthetic structures (vegetation/thrombus/pannus, suture 
+material, strand, abscess, pseudoaneurysm, fistula)
+Intra-operative or periprocedural (catheterization laboratory)
+◆
+◆Intra-operative monitoring of valvular repair (mainly mitral and aortic)
+◆
+◆Intra-operative monitoring of left ventricular function in high-risk patients
+◆
+◆Monitoring and guidance of valve interventions, e.g. transcatheter aortic valve 
+implantation, transcatheter mitral repair, paravalvular leak closure
+◆
+◆Monitoring and guidance of atrial septal defect closure or left atrial appendage 
+closure
+
+=== PAGE 138 (Bk 115) ===
+115
+The EACVI Echo Handbook
+Competency in TOE
+◆
+◆Part of cardiology and cardiothoracic anaesthesiology training
+◆
+◆Certification in TOE by the European Association of Cardiovascular Imaging and 
+the European Association of Cardiothoracic Anaesthesiologists (requires training 
+under a supervisor, submitting a log book, and passing a multiple-choice question 
+exam testing theoretical knowledge and image interpretation)
+Instrument and procedure
+◆
+◆Miniaturized transducer mounted on an endoscopic shaft. The transducer-
+containing instrument tip can be mechanically flexed anteriorly, posteriorly, to the 
+right, and to the left
+◆
+◆Transducers are 'multi-plane' (rotatable within their casing, changing the imaging 
+plane orientation around their central axis between 0º and 180º). The knobs for 
+these manoeuvres, together with the control for plane orientation, are located at the 
+handle of the instrument
+◆
+◆2D or 2D and 3D images, with centre frequencies of 5–7 MHz
+◆
+◆Pulsed-wave, continuous-wave, and colour Doppler
+◆
+◆Probe must be mechanically cleansed and chemically disinfected after each use. 
+Specific prescriptions exist for this, or the probe can be inserted in a dedicated 
+cleaning apparatus. Cleaning procedures take at least 20–30 min
+◆
+◆Instruments should be inspected for damage after use, and periodic leakage current 
+tests are recommended by the manufacturers
+
+=== PAGE 139 (Bk 116) ===
+Chapter 3  The Standard Transoesophageal Examination
+116
+Checklist before TOE
+◆
+◆Appropriate indication
+◆
+◆History of difficult earlier TOEs, difficulty in swallowing or 
+serious pharyngeal, laryngeal, or oesophageal disease (i.e. 
+diverticula, tumours, strictures)
+◆
+◆Patient consent
+◆
+◆Patient has fasted at least four hours
+◆
+◆ECG monitoring
+◆
+◆Intravenous access
+◆
+◆Conscious sedation, most widely with midazolam 2–4 mg 
+(patient will be unfit for driving thereafter); deep sedation is 
+not advisable
+◆
+◆Topical pharyngeal anaesthesia (value is unclear)
+◆
+◆Bite guard
+◆
+◆Left lateral decubitus position
+◆
+◆If a lot of sedation is used or the patient is in severely impaired 
+haemodynamic condition, monitor oxygen saturation and 
+blood pressure
+Introduction of TOE probe (Fig. 3.1.1)
+◆
+◆Probe should be advanced along a posterior and medial line 
+through the pharynx and into the oesophagus
+Fig. 3.1.1  Introduction of TOE probe
+
+=== PAGE 140 (Bk 117) ===
+117
+The EACVI Echo Handbook
+◆
+◆The upper oesophageal sphincter typically offers mild resistance, which waxes and 
+wanes; no more than mild pressure should be applied
+◆
+◆Strong, elastic resistance suggests that the probe tip is caught in one of the recessus 
+piriformes at the sides of the larynx
+◆
+◆No force should ever be applied during intubation. Check that the patient's head is 
+not at a substantial angle with the neck
+◆
+◆Patient should try to swallow
+◆
+◆The tip may be guided with index and middle finger of one hand
+◆
+◆In case of difficulty, try with the patient sitting up
+◆
+◆In ventilated patients, use of a laryngoscope facilitates TOE probe placement
+Safety and contraindications
+◆
+◆Overall very safe
+◆
+◆Complications include laryngospasm, arrhythmias (both fast and slow), 
+oesophageal perforation, and haemorrhage from oesophageal tumours
+◆
+◆Substantial resistance to advancement of probe: postpone TOE and ask for 
+endoscopic exam
+◆
+◆Methaemoglobinaemia due to the topical anaesthetic agents prilocaine and benzocaine
+◆
+◆Electrical current leakage may occur after damage to the probe, such as from the 
+patient's teeth; therefore, the probe has to be inspected after each use for damage
+◆
+◆If sedatives are used, resuscitation equipment and training are mandatory, and a 
+benzodiazepine antagonist, e.g. flumazenil (0.3–0.6 mg), must be available
+◆
+◆Oesophageal or pharyngeal tumours are contraindications
+
+=== PAGE 141 (Bk 118) ===
+Chapter 3  The Standard Transoesophageal Examination
+118
+◆
+◆Anticoagulation, thrombocytopenia, or oesophageal varices increase the risk of 
+bleeding, but are not absolute contraindications
+◆
+◆In aortic dissection, tight and documented blood pressure control during TOE is 
+necessary
+Course of the exam
+◆
+◆The sequence of the examination is not standardized
+◆
+◆if the procedure is not well tolerated, the main structure of interest should be 
+visualized immediately
+◆
+◆if the procedure is well tolerated or the patient in anaesthesia, a full systematic 
+examination is advisable
+◆
+◆a systematic exam has three parts
+1.	 transoesophageal windows
+2.	 transgastric windows
+3.	 aortic windows
+Standard 2D views and Doppler recordings of the TOE examination
+Lower-mid-oesophageal probe position (Fig. 3.1.2ABC)
+The following structures are visualized:
+◆
+◆left and right ventricle. LV often foreshortened, because good contact of the probe 
+tip with the oesophagus often necessitates anteflexion
+◆
+◆atrioventricular valves
+◆
+◆atrial and ventricular septum
+
+=== PAGE 142 (Bk 119) ===
+119
+The EACVI Echo Handbook
+After reducing the image depth, the mitral valve is examined 
+by displaying it in the centre of the screen and systematically 
+performing stepwise plane rotation
+45°
+0°
+90°
+135°
+Ao
+AL
+CS
+PM
+pML/CS
+pML/PM
+pML/PM
+pML/AL
+pML/CS
+aML
+aML
+aML
+aML
+45°
+90°
+135°
+P2
+A2
+P3
+A3
+A1
+LAA
+Ao
+P1
+0°
+Fig. 3.1.2BC  Focus on mitral valve
+Schematic overview of mitral leaflets and scallops and the main TOE cross-sections used 
+in mitral imaging. A1, A2, A3 are the segments of the anterior mitral leaflet opposite to 
+P1, P2, P3. MC is a 'bicommissural' view of the mitral valve and the LV which bisects both 
+mitral commissures and is found midway between two-chamber and four-chamber 
+view at approximately 45º. 2Ch, two-chamber view, 3Ch, three-chamber view, 4Ch, four-
+chamber view. Reproduced, with permission, from Hahn RT, et al., J Am Soc Echocardiogr 
+2013;26:921–64
+C
+B
+130°—150°
+90°
+0°
+LA
+LV
+LA
+LA
+RA
+RV
+LV
+LV
+LAA
+4CV or 5CV view (0°) 
+Long-axis view (120°)
+2CV view (60°–90°)
+Fig. 3.1.2A  Lower-mid-oesophageal probe position
+A
+
+=== PAGE 143 (Bk 120) ===
+Chapter 3  The Standard Transoesophageal Examination
+120
+Upper oesophageal probe position (Figs. 3.1.3–3.1.6)
+Main pulmonary artery and cranial atrial view (0º). These 
+views also show the superior vena cava (SVC) in a short axis 
+and the inflow of the upper right pulmonary vein (RUPV) 
+(Fig. 3.1.5).
+Fig. 3.1.3  Upper oesophageal probe position
+Aortic valve long- (120º–150º) and short-axis views (30º–60º); the latter also shows the 
+right ventricular inflow and outflow tract with the pulmonary valve. Aortic valve and 
+aortic pathology should be systematically evaluated using long- and short-axis views. 
+Orthogonal simultaneous views as generated by matrix (3D) transducers are helpful; 
+e.g. to ensure that the true maximal anteroposterior diameter of the aortic annulus or the 
+ascending aorta is displayed. In the short-axis view of the aortic valve, the right coronary 
+artery takes off at approximately 6 o'clock and the left at approximately 1 o'clock. The 
+right heart wraps around the aortic valve, with right atrium, tricuspid valve, inflow and 
+outflow of the right ventricle, and pulmonary valve (at best faintly visible).
+LA
+LA
+RA
+RV
+PA
+LV
+Ao
+130°—150°
+50°—75°
+NC
+LC
+RC
+Fig. 3.1.4  Focus on LA appendage
+Left atrial appendage and left upper pulmonary vein views 
+(0º–90º; following Figure 3.1.4AB). The configuration of the 
+left atrial appendage is quite variable. If not seen well at 0º 
+slightly cranial from a four-chamber view, the plane should be 
+rotated up to 90º to display the appendage in full length. Note 
+spontaneous contrast, flow velocities (by pulsed Doppler inside 
+the appendage, D) and possible thrombi, not to be confounded 
+with pectinate muscles, which are small wall structures oriented 
+perpendicular to the appendage long axis. Immediately posterior 
+to the appendage, and separated by a tissue ridge, the inflow 
+of the left upper pulmonary vein is located, which should be 
+sampled by pulsed-wave Doppler especially for assessment of 
+mitral regurgitation severity (C).
+LA
+LAA
+LAA
+LUPV
+A
+B
+C
+D
+
+=== PAGE 144 (Bk 121) ===
+121
+The EACVI Echo Handbook
+Sagittal view of the right and left atrium and superior/inferior 
+caval veins (approximately 90º). This view is important to 
+visualize atrial septal defects of secundum and sinus venosus 
+type, foramen ovale, pacemaker electrodes, and the right atrial 
+appendage (Fig. 3.1.6).
+Transgastric views (Fig. 3.1.7)
+◆
+◆Short-axis view of the LV at the papillary muscle level and at 
+the MV level (0º). Inferior wall is on top and anterior wall at 
+the bottom of the screen
+◆
+◆2CV view of the LV (90º). Subvalvular mitral apparatus 
+(chordae, papillary muscles) are very well seen
+Fig. 3.1.5  Focus on pulmonary artery (LPA/RPA left/right pulmonary artery; MPA main pulmonary artery
+LAP
+SVC
+RUPV
+RLPV
+RPA
+SVC
+LPA
+Ao
+MPA
+Ao
+35º–45º
+0º–20º
+LA
+RA
+SVC
+IVC
+115º–130º
+Fig. 3.1.6  Focus right atrium
+110°–130°
+90°–100°
+0°–30°
+LA
+LA
+LAA
+Ao
+LV
+LV
+RV
+LV
+Fig. 3.1.7  Transgastric views
+
+=== PAGE 145 (Bk 122) ===
+Chapter 3  The Standard Transoesophageal Examination
+122
+◆
+◆A long-axis equivalent at 90–120º shows the aortic valve and LVOT at an angle 
+amenable to spectral-Doppler examination
+◆
+◆Right heart views (long-axis view of the RV inflow and outflow tract)
+◆
+◆Deep transgastric view with maximal anteflexion (transgastric 4CV, 5CV, or long-axis 
+view at 0º–90º). Spectral-Doppler examination of the AV is often possible in these views
+Views of descending aorta and aortic arch (Fig. 3.1.8)
+Structures in the aorta should be evaluated changing systematically between short- 
+and long-axis views.
+Fig. 3.1.8  Focus on the aorta. Long- (left) and short- (right) axis view of descending aorta. Note atherosclerotic 
+plaques (arrows)
+
+=== PAGE 146 (Bk 123) ===
+123
+The EACVI Echo Handbook
+Essential imaging for specific clinical indications
+Infective endocarditis
+◆
+◆MV in multiple cross-sections
+◆
+◆AV in long- and short-axis view; aortic wall thickening (possible abscess)?
+◆
+◆TV in transgastric views, low oesophageal view, and right ventricular inflow–
+outflow view (modified aortic valve short-axis view)
+◆
+◆Pacemaker, central intravenous lines, Eustachian valve in sagittal right atrial view at 
+90°
+Source of embolism
+◆
+◆LA appendage (including pulsed-wave Doppler of inflow/outflow velocities): 
+spontaneous contrast, sludge, thrombus?
+◆
+◆LA body: spontaneous contrast, thrombus, myxoma?
+◆
+◆Aortic and mitral valve: vegetations, fibroelastoma?
+◆
+◆Ascending and descending aorta and aortic arch: mobile thrombus, dissection flap?
+◆
+◆Interatrial septum: foramen ovale, septal defect, septal aneurysm?
+Aortic dissection and other aortic diseases
+◆
+◆Ascending aorta in long-axis and short-axis views, maximal diameter; note flap or 
+intramural haematoma, para-aortic fluid, pericardial fluid, pleural fluid, entry and 
+re-entry sites, spontaneous contrast or thrombus formation in false lumen
+
+=== PAGE 147 (Bk 124) ===
+Chapter 3  The Standard Transoesophageal Examination
+124
+◆
+◆Descending aorta in long- and short-axis views; note pathology as for ascending 
+aorta
+◆
+◆Aortic arch; note maximal diameter, flap, intramural haematoma, para-aortic fluid
+◆
+◆AV (degree and mechanism of regurgitation, annular diameter, number of cusps). 
+Relation of dissection membrane to coronary ostia
+Mitral regurgitation
+◆
+◆Mitral anatomy (transgastric basal short-axis view, multiple lower transoesophageal 
+views)
+◆
+◆Mechanism and origin of regurgitation (detection and mapping of prolapse/flail to 
+leaflets and scallops, papillary muscle and chordal integrity, vegetations)
+◆
+◆LA colour Doppler mapping with emphasis on jet width and proximal convergence 
+('PISA') zone (use zoom, modify colour-bar baseline to magnify proximal 
+convergence zone)
+◆
+◆Left and right upper pulmonary venous flow
+Prosthetic valve evaluation
+◆
+◆Morphologic and Doppler evidence of obstruction (reduced opening/mobility of 
+cusps/discs/leaflets, and elevated velocities by continuous-wave Doppler
+◆
+◆Morphologic and Doppler evidence of regurgitation, with mapping of the origin of 
+regurgitation (transprosthetic, paraprosthetic); dehiscence?
+◆
+◆Prosthetic structure: calcification, perforation of bioprostheses, absence of occluder?
+
+=== PAGE 148 (Bk 125) ===
+125
+The EACVI Echo Handbook
+◆
+◆Presence of additional paraprosthetic structures (vegetation, thrombus, or pannus; 
+suture material, strand, abscess, pseudoaneurysm, fistula)
+Suggested reading
+1.	 Flachskampf FA, Badano L, Daniel WG, et al. Recommendations for transoesophageal echo­
+cardiography—update 2010. Eur J Echocardiogr 2010;11:461–76.
+2.	 Hahn RT, Abraham T, Adams MS, et al. Guidelines for performing a comprehensive 
+transesophageal echocardiographic examination: recommendations from the American 
+Society of Echocardiography and the Society of Cardiovascular Anesthesiologists. J Am Soc 
+Echocardiogr 2013;26:921-64.
+3.	 Habib G, Badano L, Tribouilloy C, et al; European Association of Echocardiography. Recom­
+mendations for the practice of echocardiography in infective endocarditis. Eur J Echocardiogr 
+2010;11:202–19.
+Copyright note: schematic drawings and some tables are reproduced, with permission, from 
+Flachskampf FA, et al., Recommendations for performing transoesophageal echocardiography, 
+Eur J Echocardiography 2001;2:8–21.
+
+=== PAGE 149 (Bk 126) ===
+Chapter 3  The Standard Transoesophageal Examination
+126
+3D TOE protocol
+Aortic valve (AV)
+◆
+◆60° mid-oesophageal, short-axis view
+◆
+◆With or without colour (zoomed or full-volume acquisition) 
+(Fig. 3.2.2A)
+◆
+◆120° mid-oesophageal, long-axis view
+◆
+◆With or without colour (zoomed or full-volume acquisition) 
+(Fig. 3.2.2B)
+3.2  The standard transoesophageal 
+3D echo examination
+General principles (Boxes 3.2.1, 3.2.2)
+Box 3.2.1  General principles and procedure
+◆
+◆ Instrumentation and procedure
+◆
+◆ Checklist before TOE
+◆
+◆ Introduction of the TOE probe (Fig. 3.2.1)
+◆
+◆ Safety and contraindications
+◆
+◆ Course of the examination
+Similar to 2D TOE
+Box 3.2.2  General principles
+◆
+◆ Usually starts with real-time imaging
+◆
+◆ Gated 3D modes (including colour Doppler 3D mode) if 
+ECG and quiet respiration are possible
+➡
+Fig. 3.2.1  TOE probe
+
+=== PAGE 150 (Bk 127) ===
+127
+The EACVI Echo Handbook
+NCC
+NCC
+NCC
+NCC
+LCC
+LCC
+LCC
+LCC
+RCC
+RCC
+RCC
+RCC
+90° 
+Fig. 3.2.2A  AV seen from the aorta 
+(left) and from the left ventricle (right) 
+(LCC = left coronary cusp; NCC = non-
+coronary cusp; RCC = right coronary 
+cusp)
+Fig. 3.2.2B  Longitudinal view of the AV
+Fig. 3.2.2AB  Aortic valve
+
+=== PAGE 151 (Bk 128) ===
+Chapter 3  The Standard Transoesophageal Examination
+128
+RV
+LAA
+LCC
+RCC
+NCC
+STL
+LVOT
+A3
+A2
+A1
+P3
+P2
+P1
+P1
+P2
+A1
+A2
+A3
+P3
+Figs. 3.2.3AB  Mitral valve
+Fig. 3.2.3A  MV from a 
+ventricular perspective (LVOT 
+= left ventricular outflow tract; 
+RV = right ventricle)
+Fig. 3.2.3B  MV seen from the 
+left atrium (LCC = left coronary 
+cusp; NCC = non-coronary cusp; 
+RCC = right coronary cusp; 
+LAA = left atrial appendage; 
+A = anterior and P = posterior 
+scallops)
+Mitral valve (MV)
+◆
+◆0° to 120° mid-oesophageal views
+◆
+◆With or without colour (zoomed or full-volume acquisition) (Fig. 3.2.3AB)
+
+=== PAGE 152 (Bk 129) ===
+129
+The EACVI Echo Handbook
+Pulmonary valve (PV)
+◆
+◆90° high-oesophageal view
+◆
+◆With or without colour (zoomed acquisition) (Fig. 3.2.4AB)
+Tricuspid valve (TV)
+◆
+◆0° to 30° mid-oesophageal 4CV
+◆
+◆With or without colour (zoomed acquisition)
+◆
+◆40° transgastric view with anteflexion (Fig. 3.2.5AB)
+Left ventricle (LV)
+◆
+◆0° to 120° mid-oesophageal views
+◆
+◆Encompassing the entire ventricle (full-volume acquisition) 
+(Fig. 3.2.6)
+Fig. 3.2.4  Pulmonic valve
+A
+B
+Fig. 3.2.5A  Right atrial view 
+of the TV (RVOT = right 
+ventricular outflow tract)
+Fig. 3.2.5B  Right ventricular 
+view of the TV (A = anterior; 
+S = septal; P = posterior; TL = 
+tricuspid leaflet)
+RVOT
+ATL
+PTL
+STL
+MV
+MV
+STL
+ATL
+PTL
+Fig. 3.2.6  3D view of the left 
+ventricle
+
+=== PAGE 153 (Bk 130) ===
+Chapter 3  The Standard Transoesophageal Examination
+130
+Right ventricle (RV)
+◆
+◆0° to 120° mid-oesophageal views
+◆
+◆Encompassing the right ventricle tilted to be in the centre of 
+the image (full-volume acquisition)
+Interatrial septum
+◆
+◆0°, the probe is rotated to the interatrial septum (zoomed or 
+full-volume acquisition) (Fig. 3.2.7)
+Specific windows and views
+Before TAVI
+◆
+◆Aortic annulus measure/stepwise approach (Fig. 3.2.8)
+Fig. 3.2.8  Evaluation of the aortic annulus
+Fig. 3.2.7  Right atrial view of 
+the interatrial septum with an 
+ASD (ASD = atrial septal defect; 
+SVC = superior vena cava; 
+IVC = inferior vena cava)
+SVC
+ASD
+IVC
+S
+long axis
+N
+N/L
+L
+N
+R
+R/L
+R
+N
+N/L
+R
+R
+R/L
+N
+R/L
+R/L
+perpendicular
+long axis
+short axis
+
+=== PAGE 154 (Bk 131) ===
+131
+The EACVI Echo Handbook
+◆
+◆Coronary ostia distance (Fig. 3.2.9)
+Suggested reading
+1.	 Flachskampf FA, Badano L, Daniel WG, et al. Recommendations for 
+transoesophageal echocardiography—update 2010. Eur J Echocardi­
+ogr 2010;11:461–76.
+2.	 Lang RM, Badano LP, Tsang W, et al. EAE/ASE recommendations for 
+image acquisition and display using three-dimensional echocardiog­
+raphy. Eur Heart J Cardiovasc Imaging 2012;13:1–46.
+3.	 Faletra FF, Pedrazzini G, Pasotti E, et al. 3D TEE during catheter-
+based interventions. JACC Cardiovasc Imaging 2014;7:292–308.
+4.	 Faletra FF, Ramamurthi A, Dequarti MC, et al. Artifacts in 
+three-dimensional transesophageal echocardiography. J Am Soc 
+Echocardiogr 2014;27:453–62.
+Fig. 3.2.9  Measure of the coronary ostia distance
+
+=== PAGE 155 (Bk 132) ===
+Chapter 3  The Standard Transoesophageal Examination
+132
+3.3  The storage and report on 
+transoesophageal echocardiography 
+(Tables 3.3.1, 3.3.2, 3.3.3A, 3.3.3B, 3.3.4)
+Table 3.3.1  Minimal basic dataset to acquire and store
+Projectionsa
+Doppler
+2Db
+Colourc
+ 
+Spectrald
+PW
+CW
+1.  Mid-oesophageal views
+  A  Four-chamber view
+e
+  B  Left atrial appendage view
+  C  Two-chamber view of LV
+  D  Cross-commissural view of MV
+   E  Long-axis view of LV, MV, AV, and aortic root
+  F  Short-axis view at the level of the AV
+  G  Views of PV, pulmonary artery, and bifurcation
+   H  Bicaval view
+e
+    J  Views of pulmonary veins
+2.  Transgastric view
+  A  Short-axis view of LV
+
+=== PAGE 156 (Bk 133) ===
+133
+The EACVI Echo Handbook
+a. Red boxes: mandatory acquisitions; Orange boxes: conditional acquisitions.
+b. 2D imaging of these views can be obtained by proper positioning of the transducer along with advancement, 
+pulling out, flexion, retroflexion, sideward flexion, and/or rotation of the probe.
+c. Colour-flow Doppler examination may be performed at the end of the grey-scale (B-mode) imaging of all four 
+valves and the atrial septum. Colour Doppler interrogation is essential when the TTE study data are considered 
+suboptimal in quality in comparison with the TOE examination (e.g. dissection of the aorta).
+d. PW and CW Doppler are optional when the required assessments (e.g. RV systolic pressure, diastolic LV function, 
+valve gradients, pulmonary venous flow), have already been performed in the previous transthoracic study. A new 
+interrogation is rational when the TTE study data are considered suboptimal in quality in comparison with the TOE 
+examination. Left atrial appendage velocities can only be measured during the TOE study.
+e. Occasionally, agitated saline contrast at rest and with release of Valsalva manoeuvre may be required to reveal 
+intracardiac or intrapulmonary shunting.
+Projectionsa
+Doppler
+2Db
+Colourc
+ 
+Spectrald
+PW
+CW
+  B  Two-chamber view of LV
+  C  Long-axis view of LV (includes LV outflow tract)
+  D  Long-axis view of right heart
+  E  Short-axis view of right heart
+3.  Views of descending thoracic aorta
+  A  Short axis
+  B  Long axis
+c
+4.  Views of aortic arch
+c
+5.  Views of ascending aorta
+c
+Table 3.3.1  Minimal basic dataset to acquire and store (continued)
+
+=== PAGE 157 (Bk 134) ===
+Chapter 3  The Standard Transoesophageal Examination
+134
+Table 3.3.2  3D dataset acquisition and display
+AV
+LV
+RV
+PV
+MV
+lAS
+TV
+60º mid-oesophageal, short-axis view
+■ ■
+FZ
+120º mid-oesophageal, long-axis view
+■ ■
+FZ
+0º to120º mid-oesophageal views
+■ ■
+Z
+LV - 0º to120º mid-oesophageal views 
+encompassing the entire ventricle
+■
+F
+RV - mid- 0º to 120º oesophageal views with the 
+RV tilted to be in the centre of the image
+■
+F
+0º with the probe rotated to the lAS
+■
+FZ
+90º high-oesophageal view
+■ ■
+Z
+120º mid-oesophageal, 3-chamber view
+■ ■
+Z
+0º to30º mid-oesophageal, 4-chamber view
+■ ■
+Z
+40º transgastric view with anteflexion
+■ ■
+Z
+F full-volume acquisition	
+■ loops without colour
+Z zoomed acquisition	
+■ loops with colour
+
+=== PAGE 158 (Bk 135) ===
+135
+The EACVI Echo Handbook
+Table 3.3.3A  Recommendations for reporting TOE
+Facility i.e. Hospital name, Unit, Department.
+Patient first name
+xxxx
+Patient last name
+xxxx
+Date of birth
+dd-mm-yyyy
+Gender
+F
+Patient ID
+12345
+Study quality
+Good
+Referring Physician/Dept. A.S. (name with initials)
+Study ordered
+dd-mm-yyyy
+Study performed
+dd-mm-yyyy
+Indication for the study
+e.g. Shortness of breath
+Echo instrument 
+identifier
+Brand name of echo 
+machine (e.g. HP)
+Location of 
+patient (✓)
+lCU
+✓Heart rhythm: e.g. atrial fibrillation
+Heart rate (bpm) : 90
+Blood pressure (mmHg): 120/80
+Probe insertion: easy, difficult, failed
+OR
+Intubated (Y/N)
+N
+ER
+Sedated (Y/N)
+Y
+PACU
+Weight (kg)
+70
+Echo lab
+Height (cm)
+167
+Outpatient
+BSA (m2)
+1, 8
+B-mode and Doppler measurements
+Aorta
+Diameter (mm)
+Dissection (Y/N)
+Plaque thickness (mm)
+Plaque mobile (Y/N)
+Root (sinus level)
+33
+n
+0-3,        >3
+Sinotubular junction
+32
+n
+0-3,        >3
+Ascending aorta
+33
+n
+0-3,        >3
+Arch
+30
+n
+0-3,        >3
+Descending aorta
+28
+n
+0-3,        >3
+n
+
+=== PAGE 159 (Bk 136) ===
+Chapter 3  The Standard Transoesophageal Examination
+136
+Table 3.3.3B  Recommendations for reporting TOE
+Atria
+Size (normal, dilated)
+Spontaneous contrast (Y/N)
+Thrombus (Y/N) Tumour (Y/N) Device (Y/N)
+Right atrium
+n
+n
+n
+n
+n
+Left atrium
+d
+n
+n
+n
+n
+Left atrial appendage
+comments, e.g.: thrombus, spontaneous contrast, etc.
+Interatrial septum
+comments, e.g.: normal, aneurysmal, PFO, ASD (type), shunt (R>L, L>R, bidirectional)
+Other comments
+Ventricles
+LV
+RV
+LV regional function (1=normal, 2=hypokinetic, 3=akinetic, 4=dyskinetic)
+1
+13
+17
+16
+12 6
+5
+11
+15
+10
+4
+9
+3
+14
+2 8
+7
+Size (normal, dilated)
+Basal Segments
+Mid Segments
+Apical Segments
+1.  Anterior
+  7.  Anterior
+13.  Anterior
+Hypertrophy (Y/N)
+2.  Anteroseptal
+  8.  Anteroseptal
+14.  Septal
+3.  Inferoseptal
+  9.  Inferoseptal
+15.  Inferior
+Thrombus (Y/N)
+4.  Inferior
+10.  Inferior
+16.  Lateral
+5.  Posterior
+11.  Posterior
+17.  Apex
+Overall function 
+(normal, ↓, ↓ ↓, ↓ ↓ ↓)
+6.  Lateral
+12.  Lateral
+Comments:
+
+=== PAGE 160 (Bk 137) ===
+137
+The EACVI Echo Handbook
+Valves
+Annulus 
+(normal, 
+dilated, 
+calcified)
+Stenosis 
+(no, mild, 
+moderate, 
+severe)
+Area
+Gradient
+Regurg. 
+(0–4+)
+Leaflet Morphology 
+e.g. normal, myxomatous, 
+calcified, vegetation, 
+perforated, bicuspid, 
+thickened
+Leaflet/Disc 
+Motion 
+e.g. normal, prolapse 
+flail, restricted, SAM
+Aortic valve 
+(NCC/RCC/LCC)
+n
+no
+Mitral valve 
+(A1, A2, A3/P1, P2, P3)
+d
+no
+P2-3
+++
+myxomatous
+prolapse
+Tricuspid
+n
+no
+Prosthetic (1)
+Prosthetic (2)
+Table 3.3.4  Recommendations for reporting TOE
+COMMENTS
+As in the transthoracic examination, open-text field or descriptive statements should elucidate the main findings of the study. This part 
+of the report is crucial and answers the clinical queries, highlights the important findings and compares the data of the index study 
+with previous ones. Major limitations or particular conditions (clinical, haemodynamics, etc.) prone to influencing the results should be 
+reported. Additional data that cannot be included in the above tables are also prescribed in this section (e.g. incidental finding of pleural 
+effusion, pericardium description. [etc.]). It is also recommended (especially with computerized report generation) to specify whether 
+certain cardiac structures have or have not been studied. It is mandatory to note all side effects and complications.
+Table 3.3.3B  Recommendations for reporting TOE (continued)
+
+=== PAGE 161 (Bk 138) ===
+Chapter 3  The Standard Transoesophageal Examination
+138
+CONCLUSION
+An echocardiographic study report should end with clear conclusions, emphasizing the main findings of the diagnosis and severity of the 
+heart diseases.
+SIGNATURES
+Sonographer (or trainee physician) performing exam
+Name of anyone senior who has reviewed the study
+Suggested reading
+1.	 Flachskampf F, Badano L, Daniel WG, et al. Recommendations for transoesophageal echo­
+cardiography: update 2010. Eur J of Echocardiography 2010;11:557–76.
+2.	 Lang R, Badano LP, Tsang W, et al. EAE/ASE Recommendations for image acquisition and display 
+using three-dimensional echocardiography. Eur Heart J Cardiovascular Imaging 2012;13:1–46.
+3.	 Recommendations for a standardized report for adult perioperative echocardiography from 
+the Society of Cardiovascular Anaesthesiologists/American Society of Echocardiography 
+Task Force for standardized perioperative echocardiography report. (<http://www2.scahq.
+org/sca3/teereport.shtml>).
+List of abbreviations
+2D, two-dimensional echocardiography; AV, aortic valve; CW, continuous-wave 
+Doppler; ER, emergency room; IAS, interatrial septum; ICU, Intensive Care Unit; 
+LV, left ventricle; MV, mitral valve; OR, Operating room; PACU, postanaesthaesia 
+care unit; PV, pulmonic valve; PW, pulsed-wave Doppler; RV, right ventricle; TV, 
+tricuspid valve
+Table 3.3.4  Recommendations for reporting TOE (continued)

@@ -1,0 +1,736 @@
+{
+  "schemaVersion": 1,
+  "id": "esc-hf-2026.t11-evidence-based-doses-hf",
+  "guidelineId": "esc-hf-2026",
+  "number": "11",
+  "type": "grid",
+  "title": {
+    "en": "Evidence-based doses of disease-modifying drugs in key randomized trials in patients with heart failure",
+    "ru": "Доказательные дозы болезнь-модифицирующих препаратов в ключевых рандомизированных исследованиях у пациентов с сердечной недостаточностью"
+  },
+  "tags": [
+    "pharmacotherapy",
+    "doses",
+    "target-dose",
+    "starting-dose",
+    "ace-i",
+    "arni",
+    "arb",
+    "beta-blockers",
+    "mra",
+    "sglt2-i",
+    "fmt",
+    "amt"
+  ],
+  "source": {
+    "expectedRows": 32
+  },
+  "i18nStatus": {
+    "ru": "reviewed"
+  },
+  "columns": [
+    {
+      "id": "drug",
+      "title": {
+        "en": "Drug",
+        "ru": "Препарат"
+      }
+    },
+    {
+      "id": "starting_dose",
+      "title": {
+        "en": "Starting dose",
+        "ru": "Стартовая доза"
+      }
+    },
+    {
+      "id": "target_dose",
+      "title": {
+        "en": "Target dose",
+        "ru": "Целевая доза"
+      }
+    }
+  ],
+  "rows": [
+    {
+      "id": "sec-acei",
+      "kind": "section",
+      "cells": [
+        {
+          "colspan": 3,
+          "text": {
+            "en": "**ACE-Is**",
+            "ru": "**Ингибиторы АПФ**"
+          }
+        }
+      ]
+    },
+    {
+      "id": "r01-captopril",
+      "cells": [
+        {
+          "text": {
+            "en": "Captopril^[a]",
+            "ru": "Каптоприл^[a]"
+          }
+        },
+        {
+          "text": {
+            "en": "6.25 mg t.i.d.",
+            "ru": "6,25 мг 3 р/сут"
+          }
+        },
+        {
+          "text": {
+            "en": "50 mg t.i.d.",
+            "ru": "50 мг 3 р/сут"
+          }
+        }
+      ]
+    },
+    {
+      "id": "r02-enalapril",
+      "cells": [
+        {
+          "text": {
+            "en": "Enalapril",
+            "ru": "Эналаприл"
+          }
+        },
+        {
+          "text": {
+            "en": "2.5 mg b.i.d.",
+            "ru": "2,5 мг 2 р/сут"
+          }
+        },
+        {
+          "text": {
+            "en": "10–20 mg b.i.d.",
+            "ru": "10–20 мг 2 р/сут"
+          }
+        }
+      ]
+    },
+    {
+      "id": "r03-lisinopril",
+      "cells": [
+        {
+          "text": {
+            "en": "Lisinopril^[b]",
+            "ru": "Лизиноприл^[b]"
+          }
+        },
+        {
+          "text": {
+            "en": "2.5–5 mg o.d.",
+            "ru": "2,5–5 мг 1 р/сут"
+          }
+        },
+        {
+          "text": {
+            "en": "20–35 mg o.d.",
+            "ru": "20–35 мг 1 р/сут"
+          }
+        }
+      ]
+    },
+    {
+      "id": "r04-ramipril",
+      "cells": [
+        {
+          "text": {
+            "en": "Ramipril",
+            "ru": "Рамиприл"
+          }
+        },
+        {
+          "text": {
+            "en": "1.25–2.5 mg b.i.d.",
+            "ru": "1,25–2,5 мг 2 р/сут"
+          }
+        },
+        {
+          "text": {
+            "en": "5 mg b.i.d.",
+            "ru": "5 мг 2 р/сут"
+          }
+        }
+      ]
+    },
+    {
+      "id": "r05-trandolapril",
+      "cells": [
+        {
+          "text": {
+            "en": "Trandolapril^[a]",
+            "ru": "Трандолаприл^[a]"
+          }
+        },
+        {
+          "text": {
+            "en": "0.5 mg o.d.",
+            "ru": "0,5 мг 1 р/сут"
+          }
+        },
+        {
+          "text": {
+            "en": "4 mg o.d.",
+            "ru": "4 мг 1 р/сут"
+          }
+        }
+      ]
+    },
+    {
+      "id": "sec-arni",
+      "kind": "section",
+      "cells": [
+        {
+          "colspan": 3,
+          "text": {
+            "en": "**ARNIs**",
+            "ru": "**АРНИ**"
+          }
+        }
+      ]
+    },
+    {
+      "id": "r06-sacubitril-valsartan",
+      "cells": [
+        {
+          "text": {
+            "en": "Sacubitril–valsartan",
+            "ru": "Сакубитрил/валсартан"
+          }
+        },
+        {
+          "text": {
+            "en": "49/51 mg b.i.d.^[c]",
+            "ru": "49/51 мг 2 р/сут^[c]"
+          }
+        },
+        {
+          "text": {
+            "en": "97/103 mg b.i.d.",
+            "ru": "97/103 мг 2 р/сут"
+          }
+        }
+      ]
+    },
+    {
+      "id": "sec-arb",
+      "kind": "section",
+      "cells": [
+        {
+          "colspan": 3,
+          "text": {
+            "en": "**ARBs**",
+            "ru": "**Блокаторы рецепторов ангиотензина II (БРА)**"
+          }
+        }
+      ]
+    },
+    {
+      "id": "r07-candesartan",
+      "cells": [
+        {
+          "text": {
+            "en": "Candesartan",
+            "ru": "Кандесартан"
+          }
+        },
+        {
+          "text": {
+            "en": "4 mg o.d.",
+            "ru": "4 мг 1 р/сут"
+          }
+        },
+        {
+          "text": {
+            "en": "32 mg o.d.",
+            "ru": "32 мг 1 р/сут"
+          }
+        }
+      ]
+    },
+    {
+      "id": "r08-losartan",
+      "cells": [
+        {
+          "text": {
+            "en": "Losartan",
+            "ru": "Лозартан"
+          }
+        },
+        {
+          "text": {
+            "en": "(12.5) 25–50 mg o.d.",
+            "ru": "(12,5) 25–50 мг 1 р/сут"
+          }
+        },
+        {
+          "text": {
+            "en": "150 mg o.d.",
+            "ru": "150 мг 1 р/сут"
+          }
+        }
+      ]
+    },
+    {
+      "id": "r09-valsartan",
+      "cells": [
+        {
+          "text": {
+            "en": "Valsartan",
+            "ru": "Валсартан"
+          }
+        },
+        {
+          "text": {
+            "en": "40 mg b.i.d.",
+            "ru": "40 мг 2 р/сут"
+          }
+        },
+        {
+          "text": {
+            "en": "160 mg b.i.d.",
+            "ru": "160 мг 2 р/сут"
+          }
+        }
+      ]
+    },
+    {
+      "id": "sec-beta-blockers",
+      "kind": "section",
+      "cells": [
+        {
+          "colspan": 3,
+          "text": {
+            "en": "**Beta-blockers**",
+            "ru": "**Бета-блокаторы**"
+          }
+        }
+      ]
+    },
+    {
+      "id": "r10-bisoprolol",
+      "cells": [
+        {
+          "text": {
+            "en": "Bisoprolol",
+            "ru": "Бисопролол"
+          }
+        },
+        {
+          "text": {
+            "en": "1.25 mg o.d.",
+            "ru": "1,25 мг 1 р/сут"
+          }
+        },
+        {
+          "text": {
+            "en": "10 mg o.d.",
+            "ru": "10 мг 1 р/сут"
+          }
+        }
+      ]
+    },
+    {
+      "id": "r11-carvedilol",
+      "cells": [
+        {
+          "text": {
+            "en": "Carvedilol",
+            "ru": "Карведилол"
+          }
+        },
+        {
+          "text": {
+            "en": "3.125 mg b.i.d.",
+            "ru": "3,125 мг 2 р/сут"
+          }
+        },
+        {
+          "text": {
+            "en": "25 mg b.i.d.^[d]",
+            "ru": "25 мг 2 р/сут^[d]"
+          }
+        }
+      ]
+    },
+    {
+      "id": "r12-metoprolol-succinate",
+      "cells": [
+        {
+          "text": {
+            "en": "Metoprolol succinate (CR/XL)",
+            "ru": "Метопролола сукцинат (CR/XL)"
+          }
+        },
+        {
+          "text": {
+            "en": "12.5–25 mg o.d.",
+            "ru": "12,5–25 мг 1 р/сут"
+          }
+        },
+        {
+          "text": {
+            "en": "200 mg o.d.",
+            "ru": "200 мг 1 р/сут"
+          }
+        }
+      ]
+    },
+    {
+      "id": "r13-nebivolol",
+      "cells": [
+        {
+          "text": {
+            "en": "Nebivolol^[e]",
+            "ru": "Небиволол^[e]"
+          }
+        },
+        {
+          "text": {
+            "en": "1.25 mg o.d.",
+            "ru": "1,25 мг 1 р/сут"
+          }
+        },
+        {
+          "text": {
+            "en": "10 mg o.d.",
+            "ru": "10 мг 1 р/сут"
+          }
+        }
+      ]
+    },
+    {
+      "id": "sec-mra",
+      "kind": "section",
+      "cells": [
+        {
+          "colspan": 3,
+          "text": {
+            "en": "**MRAs**",
+            "ru": "**Антагонисты минералокортикоидных рецепторов (АМКР)**"
+          }
+        }
+      ]
+    },
+    {
+      "id": "sub-steroidal",
+      "kind": "section",
+      "cells": [
+        {
+          "colspan": 3,
+          "text": {
+            "en": "*Steroidal*",
+            "ru": "*Стероидные*"
+          }
+        }
+      ]
+    },
+    {
+      "id": "r14-eplerenone",
+      "cells": [
+        {
+          "text": {
+            "en": "Eplerenone",
+            "ru": "Эплеренон"
+          }
+        },
+        {
+          "text": {
+            "en": "25 mg o.d.",
+            "ru": "25 мг 1 р/сут"
+          }
+        },
+        {
+          "text": {
+            "en": "50 mg o.d.",
+            "ru": "50 мг 1 р/сут"
+          }
+        }
+      ]
+    },
+    {
+      "id": "r15-spironolactone",
+      "cells": [
+        {
+          "text": {
+            "en": "Spironolactone",
+            "ru": "Спиронолактон"
+          }
+        },
+        {
+          "text": {
+            "en": "12.5–25 mg o.d.^[f]",
+            "ru": "12,5–25 мг 1 р/сут^[f]"
+          }
+        },
+        {
+          "text": {
+            "en": "50 mg o.d.",
+            "ru": "50 мг 1 р/сут"
+          }
+        }
+      ]
+    },
+    {
+      "id": "sub-non-steroidal",
+      "kind": "section",
+      "cells": [
+        {
+          "colspan": 3,
+          "text": {
+            "en": "*Non-steroidal*",
+            "ru": "*Нестероидные*"
+          }
+        }
+      ]
+    },
+    {
+      "id": "r16-finerenone",
+      "cells": [
+        {
+          "text": {
+            "en": "Finerenone",
+            "ru": "Финеренон"
+          }
+        },
+        {
+          "text": {
+            "en": "10–20 mg o.d.^[g]",
+            "ru": "10–20 мг 1 р/сут^[g]"
+          }
+        },
+        {
+          "text": {
+            "en": "20–40 mg o.d.^[g]",
+            "ru": "20–40 мг 1 р/сут^[g]"
+          }
+        }
+      ]
+    },
+    {
+      "id": "sec-sglt2i",
+      "kind": "section",
+      "cells": [
+        {
+          "colspan": 3,
+          "text": {
+            "en": "**SGLT2-Is**",
+            "ru": "**Ингибиторы SGLT2**"
+          }
+        }
+      ]
+    },
+    {
+      "id": "r17-dapagliflozin",
+      "cells": [
+        {
+          "text": {
+            "en": "Dapagliflozin",
+            "ru": "Дапаглифлозин"
+          }
+        },
+        {
+          "text": {
+            "en": "10 mg o.d.",
+            "ru": "10 мг 1 р/сут"
+          }
+        },
+        {
+          "text": {
+            "en": "10 mg o.d.",
+            "ru": "10 мг 1 р/сут"
+          }
+        }
+      ]
+    },
+    {
+      "id": "r18-empagliflozin",
+      "cells": [
+        {
+          "text": {
+            "en": "Empagliflozin",
+            "ru": "Эмпаглифлозин"
+          }
+        },
+        {
+          "text": {
+            "en": "10 mg o.d.",
+            "ru": "10 мг 1 р/сут"
+          }
+        },
+        {
+          "text": {
+            "en": "10 mg o.d.",
+            "ru": "10 мг 1 р/сут"
+          }
+        }
+      ]
+    },
+    {
+      "id": "sec-other-agents",
+      "kind": "section",
+      "cells": [
+        {
+          "colspan": 3,
+          "text": {
+            "en": "**Other agents**",
+            "ru": "**Другие препараты**"
+          }
+        }
+      ]
+    },
+    {
+      "id": "r19-digoxin",
+      "cells": [
+        {
+          "text": {
+            "en": "Digoxin^[h]",
+            "ru": "Дигоксин^[h]"
+          }
+        },
+        {
+          "text": {
+            "en": "62.5 µg o.d.",
+            "ru": "62,5 мкг 1 р/сут"
+          }
+        },
+        {
+          "text": {
+            "en": "250 µg o.d.",
+            "ru": "250 мкг 1 р/сут"
+          }
+        }
+      ]
+    },
+    {
+      "id": "r20-digitoxin",
+      "cells": [
+        {
+          "text": {
+            "en": "Digitoxin^[h]",
+            "ru": "Дигитоксин^[h]"
+          }
+        },
+        {
+          "text": {
+            "en": "0.07 mg o.d.",
+            "ru": "0,07 мг 1 р/сут"
+          }
+        },
+        {
+          "text": {
+            "en": "0.1 mg o.d.",
+            "ru": "0,1 мг 1 р/сут"
+          }
+        }
+      ]
+    },
+    {
+      "id": "r21-ivabradine",
+      "cells": [
+        {
+          "text": {
+            "en": "Ivabradine",
+            "ru": "Ивабрадин"
+          }
+        },
+        {
+          "text": {
+            "en": "5 mg b.i.d.",
+            "ru": "5 мг 2 р/сут"
+          }
+        },
+        {
+          "text": {
+            "en": "7.5 mg b.i.d.",
+            "ru": "7,5 мг 2 р/сут"
+          }
+        }
+      ]
+    },
+    {
+      "id": "r22-vericiguat",
+      "cells": [
+        {
+          "text": {
+            "en": "Vericiguat",
+            "ru": "Верицигуат"
+          }
+        },
+        {
+          "text": {
+            "en": "2.5 mg o.d.",
+            "ru": "2,5 мг 1 р/сут"
+          }
+        },
+        {
+          "text": {
+            "en": "10 mg o.d.",
+            "ru": "10 мг 1 р/сут"
+          }
+        }
+      ]
+    },
+    {
+      "id": "r23-hydralazine-isdn",
+      "cells": [
+        {
+          "text": {
+            "en": "Hydralazine/isosorbide dinitrate",
+            "ru": "Гидралазин/изосорбида динитрат"
+          }
+        },
+        {
+          "text": {
+            "en": "37.5 mg t.i.d./20 mg t.i.d.",
+            "ru": "37,5 мг 3 р/сут / 20 мг 3 р/сут"
+          }
+        },
+        {
+          "text": {
+            "en": "75 mg t.i.d./40 mg t.i.d.",
+            "ru": "75 мг 3 р/сут / 40 мг 3 р/сут"
+          }
+        }
+      ]
+    }
+  ],
+  "footnotes": {
+    "a": {
+      "en": "Indicates an ACE-I where the dosing target is derived from post-MI trials.",
+      "ru": "Указывает на ингибитор АПФ, целевая доза которого была определена в постинфарктных исследованиях."
+    },
+    "b": {
+      "en": "Indicates drugs where a higher dose has been shown to reduce morbidity/mortality compared with a lower dose of the same drug, but there is no substantive randomized, placebo-controlled trial and the optimal dose is uncertain.",
+      "ru": "Указывает на препараты, для которых более высокая доза продемонстрировала снижение заболеваемости/смертности по сравнению с более низкой дозой того же препарата, однако крупные рандомизированные плацебо-контролируемые исследования отсутствуют, и оптимальная доза остается неопределенной."
+    },
+    "c": {
+      "en": "Sacubitril–valsartan may have an optional lower starting dose of 24/26 mg twice daily for those with a history of symptomatic hypotension, ACE-I naive patients and patients with eGFR 30–60 mL/min/1.73 m².",
+      "ru": "Сакубитрил/валсартан может иметь опциональную более низкую стартовую дозу 24/26 мг 2 раза в сутки у пациентов с симптоматической гипотензией в анамнезе, пациентов, ранее не принимавших иАПФ, и пациентов с рСКФ 30–60 мл/мин/1,73 м²."
+    },
+    "d": {
+      "en": "A maximum dose of 50 mg twice daily can be administered to patients weighing over 85 kg.",
+      "ru": "Максимальная доза 50 мг 2 раза в сутки может назначаться пациентам с массой тела более 85 кг."
+    },
+    "e": {
+      "en": "Indicates a treatment not shown to reduce CV or all-cause death in patients with heart failure (or shown to be non-inferior to a treatment that does).",
+      "ru": "Указывает на лечение, для которого не было доказано снижение сердечно-сосудистой или общей смертности у пациентов с сердечной недостаточностью (или показана сопоставимая эффективность с терапией, снижающей ее)."
+    },
+    "f": {
+      "en": "Spironolactone has an optional starting dose of 12.5 mg in patients where kidney status or hyperkalaemia warrant caution.",
+      "ru": "Спиронолактон имеет опциональную стартовую дозу 12,5 мг у пациентов, у которых состояние функции почек или гиперкалиемия требуют осторожности."
+    },
+    "g": {
+      "en": "Finerenone has a different starting and target dose according to eGFR (10–20 mg, if eGFR ≤60 mL/min/1.73 m²; 20–40 mg, if eGFR >60 mL/min/1.73 m²).",
+      "ru": "Финеренон имеет различные стартовые и целевые дозы в зависимости от рСКФ (10–20 мг при рСКФ ≤60 мл/мин/1,73 м²; 20–40 мг при рСКФ >60 мл/мин/1,73 м²)."
+    },
+    "h": {
+      "en": "Digoxin/digitoxin should be titrated according to plasma levels.",
+      "ru": "Доза дигоксина/дигитоксина должна титроваться под контролем концентрации в плазме крови."
+    }
+  }
+}

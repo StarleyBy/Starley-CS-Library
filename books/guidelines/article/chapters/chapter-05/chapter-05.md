@@ -1,4 +1,4 @@
-# The Society for Vascular Surgery clinical practice guideline on the <strong><span class="t-green">management of blunt thoracic aortic injury</span></strong>: Focused update
+# 🚑 Management of <span class="luminous-red">Blunt Thoracic Aortic Injury</span> (<span class="luminous-blue">SVS</span> <span class="luminous-amber">2024</span>)
 
 <details class="med-details"><summary>
 

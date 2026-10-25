@@ -1,0 +1,3337 @@
+
+=== PAGE 29 ===
+Circulation. 2022;145:e895–e1032. DOI: 10.1161/CIR.0000000000001063 May 3, 2022 e923
+CLINICAL STATEMENTS 
+AND GUIDELINES
+Heidenreich et al 2022 AHA/ACC/HFSA Heart Failure Guideline
+5. The Framingham studies have shown a 60% 
+increased risk of death in patients with asymptomatic 
+low L VEF compared with those with normal L VEF, 
+and almost half of these patients remained free 
+of HF before their death. 25 MADIT-II (Multicenter 
+Automatic Defibrillator Implantation Trial II) showed 
+a 31% relative risk reduction in all-cause mortality 
+in patients with post-MI with L VEF ≤ 30% receiv-
+ing a prophylactic ICD compared with standard 
+of care.14 These findings provided justification for 
+the broad adoption of ICDs for primary prevention 
+of SCD in the post-MI setting with reduced L VEF, 
+even in the absence of HF symptoms.
+6. Although beta blockers have been shown to improve 
+outcomes in patients with symptomatic HFrEF and 
+in patients with reduced L VEF after MI,11 few data 
+exist regarding the use of beta blockers in asymp-
+tomatic patients with depressed L VEF without a his-
+tory of MI. There is evidence to support the role of 
+beta blockers to prevent adverse L V remodeling in 
+asymptomatic patients with L V systolic dysfunction, 
+including those with nonischemic cause.43 Also, in 
+a post hoc analysis of the SOL VD prevention trial, 
+which included approximately 20% of participants 
+with nonischemic HF cause, beta blockers were 
+associated with a reduction in the risk of death and 
+in death or hospitalization for symptomatic HF in 
+those patients randomized to enalapril, a finding that 
+was not seen in the placebo group.12 Given the long-
+term benefits of beta blockers to reduce HF hos-
+pitalizations in patients with symptomatic HFrEF, 44 
+beta-blocker therapy is recommended to prevent 
+symptomatic HF in patients with reduced L VEF.
+7 . Thiazolidinediones have been associated with fluid 
+retention and increased rates of HF in RCTs of 
+patients with type 2 diabetes who were predominantly 
+free of symptomatic HF at baseline.47–49 In a smaller 
+RCT of patients with more severely symptomatic 
+HFrEF, pioglitazone was associated with increased 
+rates of HF hospitalization compared with placebo.50 
+In patients with more mild symptoms (NYHA class 
+I to II) but with depressed L VEF,15 rosiglitazone was 
+associated with more fluid-related events, includ-
+ing worsening edema and need for increased HF 
+medications.15 Given the evidence, thiazolidinediones 
+should be avoided in patients with reduced L VEF.
+8. Nondihydropiridine calcium channel blockers diltia-
+zem and verapamil are myocardial depressants and 
+generally not tolerated in HF. In previous studies of 
+patients with HF or reduced L VEF after acute MI, dil-
+tiazem was associated with increased risk of HF,16,17 
+although in a smaller study of patients with non-
+ischemic cardiomyopathy, diltiazem had no impact 
+on mortality.45 Verapamil had no impact on survival 
+or major cardiovascular events after acute MI. 46 
+Although not specifically tested in asymptomatic 
+patients with low L VEF, nondihydropyridine calcium 
+channel blockers may be harmful in this population 
+because of their negative inotropic effects.
+7 . STAGE C HF
+7 .1. Nonpharmacological Interventions
+7.1.1. Self-Care Support in HF
+Recommendations for Nonpharmacological Interventions: Self-Care 
+Support in HF
+Referenced studies that support the recommendations are summa-
+rized in the Online Data Supplements.
+COR LOE Recommendations
+1 A
+1. Patients with HF should receive care from 
+multidisciplinary teams to facilitate the imple-
+mentation of GDMT, address potential barriers 
+to self-care, reduce the risk of subsequent 
+rehospitalization for HF, and improve survival.1–4
+1 B-R
+2. Patients with HF should receive specific edu-
+cation and support to facilitate HF self-care in a 
+multidisciplinary manner.2,5–9
+2a B-NR
+3. In patients with HF, vaccinating against respi-
+ratory illnesses is reasonable to reduce mor-
+tality.10–16
+2a B-NR
+4. In adults with HF, screening for depression,17 ,18 
+social isolation,19–22 frailty,23,24 and low health 
+literacy25,26 as risk factors for poor self-care is 
+reasonable to improve management.
+Synopsis
+Because of the complexity of HF management and 
+coordination of other health and social services re-
+quired, HF care is ideally provided by multidisciplinary 
+teams27–30 that include cardiologists, nurses, and phar-
+macists who specialize in HF as well as dieticians, 
+mental health clinicians, social workers, primary care 
+clinicians, and additional specialists. 31–33 Self-care in 
+HF comprises treatment adherence and health main-
+tenance behaviors. 34,35 Patients with HF should learn to 
+take medications as prescribed, restrict sodium intake, 
+stay physically active, and get vaccinations. 36,37 They 
+also should understand how to monitor for signs and 
+symptoms of worsening HF, and what to do in response 
+to symptoms when they occur. 36,37 Knowledge alone 
+is insufficient to improve self-care. 38 Patients with HF 
+need time and support to gain skills and overcome bar-
+riers to effective self-care. 37 Measures listed as Class 
+1 recommendations for patients in stages A and B are 
+recommended where appropriate for patients in stage 
+C. GDMT, as depicted in Figure 6, should be the main-
+stay of pharmacological therapy for HFrEF.
+Recommendation-Specific Supportive Text
+1. In a meta-analysis of 30 RCTs, multidisciplinary 
+interventions reduced hospital admission and 
+Downloaded from http://ahajournals.org by on May 30, 2026
+=== PAGE 30 ===
+May 3, 2022 Circulation. 2022;145:e895–e1032. DOI: 10.1161/CIR.0000000000001063e924
+CLINICAL STATEMENTS  
+AND GUIDELINES
+Heidenreich et al 2022 AHA/ACC/HFSA Heart Failure Guideline
+all-cause mortality.1 In a separate meta-analysis of 
+22 RCTs, specialized multidisciplinary team follow-
+up was associated with reduced HF hospitalizations 
+and all-cause hospitalizations. 2 In a recent meta-
+analysis of 22 RCTs, multidisciplinary interventions 
+that included a pharmacist reduced HF hospitaliza-
+tions.3 In a recent Cochrane systematic review and 
+meta-analysis of 43 RCTs, both case management 
+(ie, active management of complex patients by case 
+managers working in integrated care systems) and 
+multidisciplinary interventions (ie, coordinated mul-
+tidisciplinary health care interventions and commu-
+nications) were shown to reduce all-cause mortality, 
+all-cause readmission, and readmission for HF.4
+2. Meta-analyses of RCTs have shown that inter-
+ventions focused on improving HF self-care 
+significantly reduce the risk of HF-related hos-
+pitalization,2,5–8 all-cause hospitalization, 2,8,9 and 
+all-cause mortality, 6,9 as well as improve QOL. 5 
+Interventions that aim to improve self-care knowl-
+edge and skill,2,5,8 and those that focus on enhanc-
+ing medication adherence 9 or reinforce self-care 
+with structured telephone support, 6,7 are effective 
+in patients with HF. There is uncertainty whether 
+mobile health–delivered educational interven-
+tions improve self-care in patients with HF. 39 In 
+a single RCT involving rural patients with HF, an 
+educational intervention was shown to improve 
+knowledge and self-care40 but did not significantly 
+decrease the combined endpoint of cardiac death 
+or HF hospitalization. 41 In a recent pragmatic trial, 
+a transitional care services program that included 
+Figure 6. Treatment of HFrEF Stages C and D.
+Colors correspond to COR in Table 2. Treatment recommendations for patients with HFrEF are displayed. Step 1 medications may be started 
+simultaneously at initial (low) doses recommended for HFrEF. Alternatively, these medications may be started sequentially, with sequence guided 
+by clinical or other factors, without need to achieve target dosing before initiating next medication. Medication doses should be increased to target 
+as tolerated. ACEi indicates angiotensin-converting enzyme inhibitor; ARB, angiotensin receptor blocker; ARNi, angiotensin receptor-neprilysin 
+inhibitor; COR, Class of Recommendation; CRT, cardiac resynchronization therapy; GDMT, guideline-directed medical therapy; ICD, implantable 
+cardioverter-defibrillator; hydral-nitrates, hydralazine and isosorbide dinitrate; HFrEF, heart failure with reduced ejection fraction; LBBB, left bundle 
+branch block; MCS, mechanical circulatory support; L VEF, left ventricular ejection fraction; MRA, mineralocorticoid receptor antagonist; NSR, 
+normal sinus rhythm; NYHA, New York Heart Association; and SGL T2i, sodium-glucose cotransporter 2 inhibitor. *Participation in investigational 
+studies is appropriate for stage C, NYHA class II and III HF.
+Downloaded from http://ahajournals.org by on May 30, 2026
+=== PAGE 31 ===
+Circulation. 2022;145:e895–e1032. DOI: 10.1161/CIR.0000000000001063 May 3, 2022 e925
+CLINICAL STATEMENTS 
+AND GUIDELINES
+Heidenreich et al 2022 AHA/ACC/HFSA Heart Failure Guideline
+self-care education improved discharge prepared-
+ness, quality of transition, and QOL but did not sig-
+nificantly improve clinical outcomes compared with 
+usual care.42
+3. In propensity-adjusted models, influenza vacci-
+nation was associated with a significant reduc-
+tion in all-cause mortality among participants in 
+PARADIGM-HF (Prospective Comparison of ARNi 
+with ACEi to Determine Impact on Global Mortality 
+and Morbidity in Heart Failure).14 In adjusted mod-
+els, influenza vaccination was associated with 
+significant reductions in all-cause mortality and car-
+diovascular mortality12 in 1 registry study and was 
+associated with significant reductions in all-cause 
+mortality and the composite of all-cause mortality 
+and cardiovascular hospitalizations in another large 
+cohort study.11 In a self-controlled case series study 
+of patients with HF, influenza vaccination was asso-
+ciated with a significantly lower risk of cardiovas-
+cular, respiratory, and all-cause hospitalization.43 In 
+a meta-analysis of 16 studies of patients with CVD, 
+influenza vaccination was associated with a lower 
+risk of all-cause, cardiovascular mortality, and major 
+adverse cardiovascular events compared with con-
+trol patients.15 In the Cardiovascular Health Study, 
+pneumococcal vaccination was associated with sig-
+nificant reductions in incident HF, all-cause mortal-
+ity, and cardiovascular mortality.16 Patients with HF 
+are uniquely susceptible to poor outcomes in the 
+setting of SARS-CoV-2 infection44–47 and should be 
+vaccinated against COVID-19.10
+4. Many health and social factors are associated with 
+poor HF self-care.36,37 (Table 11) but have also been 
+linked to poor clinical outcomes and fundamen-
+tally change how education and support must be 
+delivered. Depression is a risk factor for poor self-
+care,40 rehospitalization,17 and all-cause mortality18 
+among patients with HF. Interventions that focus 
+on improving HF self-care have been reported 
+to be effective among patients with moderate/
+severe depression with reductions in hospitaliza-
+tion and mortality risk. 5 Nonrandomized studies 
+have provided evidence of a link between social 
+isolation and mortality in patients with HF 19,20 In a 
+recent meta-analysis of 29 cohort studies, frailty 
+was associated with an increased risk of all-cause 
+mortality and hospitalization.23 Frailty also has been 
+shown to impair self-care among elderly patients 
+with HF.24 A recent meta-analysis of observational 
+studies revealed social isolation to be common 
+among adults with HF (ie, 37%) and associated 
+with a 55% greater risk of HF-related rehospital-
+ization.21 Poor social support also has been shown 
+in nonrandomized studies to be associated with 
+lower HF self-care. 22 A recent meta-analysis of 
+observational studies showed that inadequate/
+marginal health literacy is common among adults 
+with HF (ie, 24%) and associated independently 
+with the risk of mortality and hospitalization.25 Low 
+literacy also is associated with poor HF self-care, 
+as most interventions depend on both literacy and 
+health literacy/numeracy.26
+7.1.2. Dietary Sodium Restriction
+Recommendation for Dietary Sodium Restriction
+COR LOE Recommendation
+2a C-LD
+1. For patients with stage C HF, avoiding exces-
+sive sodium intake is reasonable to reduce 
+congestive symptoms.1–6
+Synopsis
+Restricting dietary sodium is a common nonpharmaco-
+logical treatment for patients with HF symptomatic with 
+congestion, but specific recommendations have been 
+based on low-quality evidence.7 Concerns about the qual-
+ity of data regarding clinical benefits or harm of sodium 
+restriction in patients with HF include the lack of current 
+pharmacological therapy, small samples without sufficient 
+racial and ethnic diversity, questions about the correct 
+threshold for clinical benefit, uncertainty about which sub-
+groups benefit most from sodium restriction, 7, 8 and seri-
+ous questions about the validity of several RCTs in this 
+area.9–11 However, there are promising pilot trials of so-
+dium restriction in patients with HF3,5,6 The AHA currently 
+recommends a reduction of sodium intake to <2300 
+mg/d for general cardiovascular health promotion12; how-
+ever, there are no trials to support this level of restriction 
+in patients with HF.13 Sodium restriction can result in poor 
+dietary quality with inadequate macronutrient and mi-
+cronutrient intake.14 Nutritional inadequacies have been 
+associated with clinical instability,15–17 but routine supple-
+mentation of oral iron,18 thiamine,19 zinc,20 vitamin D,21 or 
+multivitamins has not proven beneficial.22 The DASH diet 
+is rich in antioxidants and potassium, can achieve sodium 
+restriction without compromising nutritional adequacy 
+when accompanied by dietary counseling, 5 and may be 
+associated with reduced hospitalizations for HF.23
+Recommendation-Specific Supportive Text
+1. A registered dietitian- or nurse-coached interven-
+tion with 2 to 3 g/d sodium restriction improved 
+NYHA functional class and leg edema in patients 
+with HFrEF.1 In a nonrandomized study (>2.5 g/d 
+versus <2.5 g/d), lower dietary sodium was associ-
+ated with worse all-cause mortality in patients with 
+HFrEF .2 In small RCTs, aggressive sodium restriction 
+(0.8 g/d) during hospitalization for acute decom-
+pensated HF has not reduced weight, congestion, 
+diuretic use, rehospitalization, or all-cause mortality 
+in patients with HFrEF24 or in patients with HFpEF.25 
+Downloaded from http://ahajournals.org by on May 30, 2026
+=== PAGE 32 ===
+May 3, 2022 Circulation. 2022;145:e895–e1032. DOI: 10.1161/CIR.0000000000001063e926
+CLINICAL STATEMENTS  
+AND GUIDELINES
+Heidenreich et al 2022 AHA/ACC/HFSA Heart Failure Guideline
+A recent pilot RCT N=27) showed that providing 
+patients with 1.5 g/d sodium meals can reduce uri-
+nary sodium and improve QOL but not improve clini-
+cal outcomes.3 Another recent pilot RCT (N=38) of 
+1.5 versus 2.3 g/d sodium resulted in sodium intake 
+and improvement in BNP levels and QOL in the 
+1.5 g/d sodium intake arm 5; the full trial is due to 
+be completed in 2022. A third pilot RCT (N=66) of 
+home-delivered 1.5 g/d meals showed favorable but 
+nonsignificant trends toward improvement in clini-
+cal status and readmission rates.6 Moreover, results 
+from RCTs have shown that reducing dietary sodium 
+is difficult to achieve in patients with HF, even with 
+prepared meals3 or home visits.26
+7.1.3. Management of Stage C HF: Activity, Exercise 
+Prescription, and Cardiac Rehabilitation
+Recommendations for Management of Stage C HF: Activity, Exercise 
+Prescription, and Cardiac Rehabilitation
+Referenced studies that support the recommendations are summa-
+rized in the Online Data Supplements.
+COR LOE Recommendations
+1 A
+1. For patients with HF who are able to par-
+ticipate, exercise training (or regular physical 
+activity) is recommended to improve functional 
+status, exercise performance, and QOL.1–9
+2a B-NR
+2. In patients with HF, a cardiac rehabilitation 
+program can be useful to improve functional 
+capacity, exercise tolerance, and health-related 
+QOL.1,2,5,6,8
+Table 11. Potential Barriers to Effective HF Self-Care and Example Interventions
+Potential Barrier Example Screening Tools Example Interventions
+Medical Barriers
+Cognitive impairment48–50 Mini-Cog
+Mini-Mental State Examination (MMSE)
+Montreal Cognitive Assessment (MoCA)
+Home health aide
+Home meal deliveries
+Adult day care
+Geriatric psychiatry referral
+Memory care support groups
+Depression51,52 Hamilton Depression Rating Scale (HAM-D)
+Beck Depression Inventory-II (BDI-II)
+Patient Health Questionnaire-9 (PHQ-9)
+Psychotherapy
+Selective serotonin reuptake inhibitors
+Nurse-led support
+Substance use disorders53 Tobacco, Alcohol, Prescription medication, and other Sub-
+stance use (TAPS)
+Referral to social work services and community support partners
+Referral for addiction psychiatry consultation
+Frailty54 Fried frailty phenotype Cardiac rehabilitation
+Registered dietitian nutritionist evaluation for malnutrition
+Social Barriers
+Financial burden of HF  
+treatments55
+COmprehensive Score for financial Toxicity–Functional As-
+sessment of Chronic Illness Therapy (COST-FACIT)
+PharmD referral to review prescription assistance eligibilities
+Food insecurity56,57 Hunger Vital Sign, 2 items
+US Household Food Security Survey Module, 6 items
+Determine eligibility for the Supplemental Nutrition Assistance 
+Program (SNAP)
+Connect patients with community partners such as food pantries/
+food banks
+Home meal deliveries
+Registered dietitian nutritionist evaluation for potential malnutrition
+Homelessness or housing  
+insecurity58–60
+Homelessness Screening Clinical Reminder (HSCR) Referral to local housing services
+Connect patients with community housing partners
+Intimate partner violence or 
+elder abuse61,62
+Humiliation, Afraid, Rape, Kick (HARK) questionnaire
+Partner Violence Screen (PVS)
+Woman Abuse Screening Tool (WAST)
+Referral to social work services and community support partners
+Limited English proficiency or 
+other language barriers63
+Routinely inquire in which language the patient is most 
+comfortable conversing
+Access to interpreter services covering a wide range of languag-
+es, ideally in person or, alternatively, via video platform
+Printed educational materials in a range of appropriate languages
+Low health literacy64 Short Assessment of Health Literacy (SAHL)
+Rapid Estimate of Adult Literacy in Medicine–Short Form 
+(REALM-SF)
+Brief Health Literacy Screen (BHLS), 3 items
+Agency for Healthcare Research and Quality (AHRQ) Health Lit-
+eracy Universal Precautions Toolkit
+Written education tools provided at sixth grade reading level or 
+below Graphic educational documents
+Social isolation or low social 
+support65
+Patient-Reported Outcomes Measurement Information 
+System (PROMIS) Social Isolation Short Form
+Determine eligibility for home care services
+Support group referral
+Transport limitations No validated tools currently available. Referral to social work services
+Determine eligibility for insurance or state-based transportation, or 
+reduced-cost public transportation
+Maximize opportunities for telehealth visits and remote monitoring
+HF indicates heart failure.
+Downloaded from http://ahajournals.org by on May 30, 2026
+=== PAGE 33 ===
+Circulation. 2022;145:e895–e1032. DOI: 10.1161/CIR.0000000000001063 May 3, 2022 e927
+CLINICAL STATEMENTS 
+AND GUIDELINES
+Heidenreich et al 2022 AHA/ACC/HFSA Heart Failure Guideline
+Synopsis
+Exercise training in patients with HF is safe and has 
+numerous benefits. In a major trial of exercise and HF, 
+exercise training was associated with a reduction in 
+CVD mortality or hospitalizations in the exercise train-
+ing group after adjustment for risk factors. 1 Meta-anal-
+yses show that cardiac rehabilitation improves func-
+tional capacity, exercise duration, and health-related 
+QOL. A cardiac rehabilitation program for patients 
+with HF usually includes a medical evaluation, educa-
+tion regarding the importance of medical adherence, 
+dietary recommendations, psychosocial support, and 
+an exercise training and physical activity counseling 
+program. Patients with HF on optimal GDMT, who are 
+in stable medical condition and are able to participate 
+in an exercise program, are candidates for an exercise 
+rehabilitation program. 10,11
+Recommendation-Specific Supportive Text
+1. Evidence from RCTs indicates that exercise training 
+improves functional status, exercise performance, 
+and QOL in patients with HFrEF and HFpEF. In 
+HF-ACTION, the largest randomized trial with exer-
+cise training in patients with HF, 1 2331 patients 
+with L VEF ≤35% (NYHA class II and III) were ran-
+domized to usual care versus supervised exercise 
+training plus usual care. There were modest reduc-
+tions in all-cause mortality and hospitalization rates 
+that did not reach significance by primary analysis 
+but, after prespecified adjustment, were associated 
+with reductions in cardiovascular mortality or HF 
+hospitalizations.1 Many RCTs of exercise training in 
+HF have been conducted, but the statistical power 
+of most was low.2–5,9–13 Meta-analyses suggest that 
+exercise training is associated with improvement 
+in functional capacity, exercise duration, health-
+related QOL, and reduction in HF hospitalizations 
+in patients with HFrEF as well as HFpEF.2–6,8,11,14,15 
+Most studies and meta-analyses have not shown 
+significant changes in all-cause mortality. 2,12,14–22 
+except for a few showing mortality benefit with 
+longer follow-up6,7 Other benefits of exercise train-
+ing include improved endothelial function, blunted 
+catecholamine spillover, increased peripheral oxy-
+gen extraction, and improvement in peak oxygen 
+consumption.2–5,8,10–12,21
+2. A formal cardiac rehabilitation program usually 
+includes a medical evaluation, education regard-
+ing the importance of medical adherence, dietary 
+recommendations, psychosocial support, and an 
+exercise training and physical activity counseling 
+program. Exercise-based cardiac rehabilitation 
+has been associated with an improvement in func-
+tional capacity, exercise tolerance, the rate of over-
+all and HF-specific hospitalization, and improved 
+QOL.3,4,6,7 ,11,16,17 In a diverse population of older 
+patients who were hospitalized for acute decom-
+pensated HF, an early, transitional, tailored, pro-
+gressive rehabilitation intervention that included 
+multiple physical-function domains (strength, bal-
+ance, mobility, and endurance) initiated during, or 
+early after hospitalization for HF, and continued 
+after discharge, resulted in greater improvement in 
+physical function than usual care.9
+7 .2. Diuretics and Decongestion Strategies in 
+Patients With HF
+Recommendations for Diuretics and Decongestion Strategies in  
+Patients With HF
+Referenced studies that support the recommendations are  
+summarized in the Online Data Supplements.
+COR LOE Recommendations
+1 B-NR
+1. In patients with HF who have fluid retention, 
+diuretics are recommended to relieve conges-
+tion, improve symptoms, and prevent worsen-
+ing HF.1–5
+1 B-NR
+2. For patients with HF and congestive symptoms, 
+addition of a thiazide (eg, metolazone) to treat-
+ment with a loop diuretic should be reserved 
+for patients who do not respond to moderate- 
+or high-dose loop diuretics to minimize electro-
+lyte abnormalities.6
+Synopsis
+Bumetanide, furosemide, and torsemide inhibit reabsorp-
+tion of sodium or chloride at the loop of Henle, whereas 
+thiazide and thiazide-like diuretics act in the distal con-
+voluting tubule and potassium-sparing diuretics (eg, spi-
+ronolactone) in the collecting duct. 7, 8 Loop diuretics are 
+the preferred diuretic agents for use in most patients 
+with HF. Thiazide diuretics such as chlorthalidone or 
+hydrochlorothiazide may be considered in patients with 
+hypertension and HF and mild fluid retention. Metola-
+zone or chlorothiazide may be added to loop diuretics in 
+patients with refractory edema unresponsive to loop di-
+uretics alone. Diuretics should be prescribed to patients 
+who have evidence of congestion or fluid retention. In 
+any patient with a history of congestion, maintenance 
+diuretics should be considered to avoid recurrent symp-
+toms. The treatment goal of diuretic use is to eliminate 
+clinical evidence of fluid retention, using the lowest dose 
+possible to maintain euvolemia. With the exception of 
+MRAs, the effects of diuretics on morbidity and mortality 
+are uncertain.1–5 As such, diuretics should not be used 
+in isolation but always combined with other GDMT for 
+HF that reduces hospitalizations and prolongs survival. 
+Table 12 lists oral diuretics recommended for use in the 
+treatment of chronic HF. Hyponatremia complicates HF 
+management. If reversing potential causes and free wa-
+ter restriction do not improve hyponatremia, vasopressin 
+antagonists may be helpful in the acute management of 
+Downloaded from http://ahajournals.org by on May 30, 2026
+=== PAGE 34 ===
+May 3, 2022 Circulation. 2022;145:e895–e1032. DOI: 10.1161/CIR.0000000000001063e928
+CLINICAL STATEMENTS  
+AND GUIDELINES
+Heidenreich et al 2022 AHA/ACC/HFSA Heart Failure Guideline
+volume overload to decrease congestion while maintain-
+ing serum sodium.
+Recommendation-Specific Supportive Text
+1. Controlled trials with diuretics showed their effects 
+to increase urinary sodium excretion, decrease 
+physical signs of fluid retention, and improve 
+symptoms, QOL, and exercise tolerance.1–5 Recent 
+data from the nonrandomized OPTIMIZE-HF 
+(Organized Program to Initiate Lifesaving Treatment 
+in Hospitalized Patients with Heart Failure) regis-
+try revealed reduced 30-day all-cause mortality 
+and hospitalization for HF with diuretic use com-
+pared with no diuretic use after hospital discharge 
+for HF. 9 The most commonly used loop diuretic 
+for the treatment of HF is furosemide, but some 
+patients respond more favorably to other agents in 
+this category (eg, bumetanide, torsemide), poten-
+tially because of their increased oral bioavailabil-
+ity.10–12 In outpatients with HF, diuretic therapy is 
+commonly initiated with low doses, and the dose 
+is increased until urine output increases and 
+weight decreases, generally by 0.5 to 1.0 kg daily. 
+Patients may become unresponsive to high doses 
+of diuretic drugs if they consume large amounts of 
+dietary sodium, are taking agents that can block 
+the effects of diuretics (eg, NSAIDs), or have sig-
+nificant impairment of renal function or perfusion.
+2. Diuretic resistance can be overcome in several 
+ways, including escalation of loop diuretic dose, 
+intravenous administration of diuretics (bolus or 
+continuous infusion), 6 or combination of different 
+diuretic classes.13–16 The use of a thiazide or thia-
+zide-like diuretic (eg, metolazone) in combination 
+with a loop diuretic inhibits compensatory distal 
+tubular sodium reabsorption, leading to enhanced 
+natriuresis. However, in a propensity-score 
+matched analysis in patients with hospitalized HF, 
+the addition of metolazone to loop diuretics was 
+found to increase the risk for hypokalemia, hypo-
+natremia, worsening renal function, and mortality, 
+whereas use of higher doses of loop diuretics was 
+not found to adversely affect survival. 17 Although 
+randomized data comparing the 2 diuretic strate-
+gies are limited, the DOSE (Diuretic Optimization 
+Strategies Evaluation) trial lends support for the 
+use of high-dose intravenous loop diuretics.18
+7 .3. Pharmacological Treatment* for HFrEF
+7.3.1. Renin-Angiotensin System Inhibition With 
+ACEi or ARB or ARNi
+Recommendations for Renin-Angiotensin System Inhibition With ACEi 
+or ARB or ARNi
+Referenced studies that support the recommendations are  
+summarized in the Online Data Supplements.
+COR LOE Recommendations
+1 A
+1. In patients with HFrEF and NYHA class II to III 
+symptoms, the use of ARNi is recommended to 
+reduce morbidity and mortality.1–5
+1 A
+2. In patients with previous or current symptoms 
+of chronic HFrEF, the use of ACEi is beneficial 
+to reduce morbidity and mortality when the use 
+of ARNi is not feasible.6–13
+1 A
+3. In patients with previous or current symptoms 
+of chronic HFrEF who are intolerant to ACEi 
+because of cough or angioedema and when the 
+use of ARNi is not feasible, the use of ARB is rec-
+ommended to reduce morbidity and mortality.14–18
+Value Statement: 
+High Value (A)
+4. In patients with previous or current symptoms 
+of chronic HFrEF, in whom ARNi is not feasible, 
+treatment with an ACEi or ARB provides high 
+economic value.19–25
+1 B-R
+5. In patients with chronic symptomatic HFrEF 
+NYHA class II or III who tolerate an ACEi or 
+ARB, replacement by an ARNi is recommended 
+to further reduce morbidity and mortality.1–5
+Value Statement: 
+High Value (A)
+6. In patients with chronic symptomatic HFrEF, 
+treatment with an ARNi instead of an ACEi pro-
+vides high economic value.26–29
+3: Harm B-R
+7 . ARNi should not be administered concomi-
+tantly with ACEi or within 36 hours of the last 
+dose of an ACEi.30,31
+3: Harm C-LD 8. ARNi should not be administered to patients with any history of angioedema.32–35
+3: Harm C-LD 9. ACEi should not be administered to patients with any history of angioedema.36–39
+*See Section 7 .2, “Diuretics and Decongestion Strategies in Patients with 
+HF, ” for diuretic recommendations.
+Synopsis
+Inhibition of the renin-angiotensin system is recommend-
+ed to reduce morbidity and mortality for patients with 
+HFrEF, and ARNi, ACEi, or ARB are recommended as 
+first-line therapy.1–18 If patients have chronic symptomatic 
+Table 12. Commonly Used Oral Diuretics in Treatment of 
+Congestion for Chronic HF
+Drug Initial Daily Dose
+Maximum 
+Total Daily 
+Dose
+Duration 
+of Action
+Loop diuretics
+Bumetanide 0.5–1.0 mg once or twice 10 mg 4–6 h
+Furosemide 20–40 mg once or twice 600 mg 6–8 h
+Torsemide 10–20 mg once 200 mg 12–16 h
+Thiazide diuretics
+Chlorthiazide 250–500 mg once or 
+twice
+1000 mg 6–12 h
+Chlorthalidone 12.5–25 mg once 100 mg 24–72 h
+Hydrochlorothiazide 25 mg once or twice 200 mg 6–12 h
+Indapamide 2.5 mg once 5 mg 36 h
+Metolazone 2.5 mg once 20 mg 12–24 h
+HF indicates heart failure.
+Downloaded from http://ahajournals.org by on May 30, 2026
+=== PAGE 35 ===
+Circulation. 2022;145:e895–e1032. DOI: 10.1161/CIR.0000000000001063 May 3, 2022 e929
+CLINICAL STATEMENTS 
+AND GUIDELINES
+Heidenreich et al 2022 AHA/ACC/HFSA Heart Failure Guideline
+HFrEF with NYHA class II or III symptoms and they toler-
+ate an ACEi or ARB, they should be switched to an ARNi 
+because of improvement in morbidity and mortality.1–5 An 
+ARNi is recommended as de novo treatment in hospital-
+ized patients with acute HF before discharge given im-
+provement in health status, reduction in the prognostic 
+biomarker NT-proBNP, and improvement of L V remodel-
+ing parameters compared with ACEi/ARB. Although data 
+are limited, the use of an ARNi may be efficacious as 
+de novo treatment in patients with symptomatic chronic 
+HFrEF to simplify management. ARB may be used as 
+an alternative to ACEi in the setting of intolerable cough, 
+or as alternatives to ACEi and ARNi in patients with a 
+history of angioedema. If patients are switched from an 
+ACEi to an ARNi or vice versa, there should be at least 
+36 hours between ACEi and ARNi doses.
+Recommendation-Specific Supportive Text
+1. An ARNi is composed of an ARB and an inhibi-
+tor of neprilysin, an enzyme that degrades natri-
+uretic peptides, bradykinin, adrenomedullin, and 
+other vasoactive peptides. In PARADIGM-HF 
+(Prospective Comparison of ARNi with ACEi 
+to Determine Impact on Global Mortality and 
+Morbidity in Heart Failure), an RCT that compared 
+the first approved ARNi, sacubitril-valsartan, with 
+enalapril in symptomatic patients with HFrEF tol-
+erating an adequate dose of either ACEi or ARB, 
+sacubitril-valsartan significantly reduced the com-
+posite endpoint of cardiovascular death or HF 
+hospitalization by 20% relative to enalapril. 1 The 
+benefit was observed to a similar extent for death 
+and HF hospitalization and was consistent across 
+prespecified subgroups.1 Use of an ARNi is more 
+frequently associated with symptomatic hypoten-
+sion and a comparable incidence of angioedema 
+when compared with enalapril.1 Sacubitril-valsartan 
+has been approved for patients with symptomatic 
+HF. HF effects and potential off-target effects 
+may be complex with inhibition of the neprily-
+sin enzyme, which has multiple biological targets. 
+Trial data have included ACEi/ARB-naïve patients 
+before ARNi initiation (53% in the PIONEER-HF 
+[Comparison of Sacubitril-Valsartan versus 
+Enalapril on Effect on NT-proBNP in Patients 
+Stabilized from an Acute Heart Failure Episode] 
+trial and 24% in the TRANSITION [Comparison 
+of Pre- and Post-discharge Initiation of Sacubitril/
+Valsartan Therapy in HFrEF Patients After an 
+Acute Decompensation Event] trial) and have 
+shown similar efficacy and safety in treatment-
+naïve patients. 2,3 The PIONEER-HF trial showed 
+that ARNi reduced NT-proBNP levels in patients 
+hospitalized for acute decompensated HF without 
+increased rates of adverse events (worsening renal 
+function, hyperkalemia, symptomatic hypotension, 
+angioedema) when compared with enalapril. 3 
+Additional outcome analyses suggested reduction 
+in all-cause mortality and rehospitalization for HF 
+but were only hypothesis-generating as exploratory 
+study endpoints. In the open-label TRANSITION 
+trial, patients with HFrEF hospitalized with wors-
+ening HF were randomized to start ARNi either 
+before or after discharge. 2 Safety outcomes were 
+similar for both arms, suggesting that early initia-
+tion may simplify management (rather than initiat-
+ing and uptitrating ACEi first and then switching to 
+ARNi).2 ARNi should be initiated de novo in patients 
+hospitalized with acute HFrEF before discharge in 
+the absence of contraindications. ARNi may be ini-
+tiated de novo in patients with chronic symptom-
+atic HFrEF to simplify management, although data 
+are limited. The PARADISE-MI (Prospective ARNi 
+vs ACE Inhibitor Trial to DetermIne Superiority in 
+Reducing Heart Failure Events After MI) trial40 will 
+provide information on whether sacubitril-valsartan 
+will significantly reduce the rate of cardiovascular 
+death, HF hospitalization or outpatient HF requir-
+ing treatment in patients after acute MI, with L VEF 
+≤40% and/or pulmonary congestion, and 1 of 8 
+additional risk-enhancing factors like AF, previous 
+MI, diabetes, compared with the ACEi ramipril; and 
+whether the safety and tolerability of sacubitril-val-
+sartan was comparable to that of ramipril. Thus, at 
+the present time, the efficacy of ARNi in patients 
+with L V dysfunction, and HF in the early post-MI 
+period, remains uncertain.
+2. ACEi reduce morbidity and mortality in HFrEF. RCTs 
+clearly establish the benefits of ACE inhibition in 
+patients with mild, moderate, or severe symptoms 
+of HF and in patients with or without CAD.6–11 Data 
+suggest that there are no differences among avail-
+able ACEi in their effects on symptoms or survival.12 
+ACEi should be started at low doses and titrated 
+upward to doses shown to reduce the risk of car-
+diovascular events in clinical trials. ACEi can pro-
+duce angioedema and should be given with caution 
+to patients with low systemic blood pressures, renal 
+insufficiency, or elevated serum potassium (>5.0 
+mEq/L). If maximal doses are not tolerated, inter-
+mediate doses should be tried; abrupt withdrawal of 
+ACE inhibition can lead to clinical deterioration and 
+should be avoided. Although the use of an ARNi 
+in lieu of an ACEi for HFrEF has been found to be 
+superior, for those patients for whom ARNi is inap-
+propriate, continued use of an ACEi for all classes 
+of HFrEF remains strongly advised.
+3. ARB have been shown to reduce mortality and 
+HF hospitalizations in patients with HFrEF in 
+large RCTs. 14–16 Long-term treatment with ARB 
+in patients with HFrEF produces hemodynamic, 
+Downloaded from http://ahajournals.org by on May 30, 2026
+=== PAGE 36 ===
+May 3, 2022 Circulation. 2022;145:e895–e1032. DOI: 10.1161/CIR.0000000000001063e930
+CLINICAL STATEMENTS  
+AND GUIDELINES
+Heidenreich et al 2022 AHA/ACC/HFSA Heart Failure Guideline
+neurohormonal, and clinical effects consistent 
+with those expected after interference with the 
+renin-angiotensin system. 17 ,18 Unlike ACEi, ARB 
+do not inhibit kininase and are associated with a 
+much lower incidence of cough and angioedema, 
+although kininase inhibition by ACEi may produce 
+beneficial vasodilatory effects. Patients who are 
+intolerant to ACEi because of cough or angio-
+edema should be started on an ARB. ARB should 
+be started at low doses and titrated upward, with an 
+attempt to use doses shown to reduce the risk of 
+cardiovascular events in clinical trials. ARB should 
+be given with caution to patients with low systemic 
+blood pressure, renal insufficiency, or elevated 
+serum potassium (>5.0 mEq/L). Although ARB are 
+alternatives for patients with ACEi-induced angio-
+edema, caution is advised because some patients 
+have also developed angioedema with ARB. For 
+those patients for whom an ACEi or ARNi is inap-
+propriate, use of an ARB remains advised.
+4. Several cost-effectiveness analyses consistently 
+found that ACEi therapy provides high value for 
+patients with chronic HF. A model-based analysis, 
+using generic ACEi costs, found ACEi therapy was 
+high value. 19 Previous analyses also found ACEi 
+therapy was high value despite previously higher 
+ACEi costs. 19,21,22,24,25 This includes a trial-based 
+analysis of SOL VD (Studies of Left Ventricular 
+Dysfunction) that modeled long-term outcomes. 21 
+Previous analyses included a range of clinical sce-
+narios including asymptomatic L V dysfunction 24 
+and L V dysfunction after MI, 25 with ACEi therapy 
+providing high value in each. There are limited data 
+on the cost-effectiveness of ARBs from 2 clinical 
+trials—a within-trial analysis of Val-HeFT (Valsartan 
+Heart Failure Trial)23 and an analysis of the ELITE 
+(Evaluation of Losartan in the Elderly) study 20—
+which both suggested ARB therapy is high value. 
+The high value of ARB therapy is also supported 
+by its similar efficacy as ACEi therapy and the 
+low-cost generic availability for both medication 
+classes.
+5. Patients with chronic stable HFrEF who toler-
+ate ACEi and ARB should be switched to ARNi. 
+In patients with mild-to-moderate HF who were 
+able to tolerate both a target dose of enalapril (10 
+mg twice daily) and then subsequently an ARNi 
+(sacubitril-valsartan; 200 mg twice daily, with the 
+ARB component equivalent to valsartan 160 mg), 
+hospitalizations and mortality were significantly 
+decreased with the valsartan-sacubitril compound 
+compared with enalapril.1 Another RCT and meta-
+analysis showed improvement in L V remodeling 
+parameters with ARNi compared with enalapril.4,5
+6. Multiple model-based analyses evaluated the eco-
+nomic value of ARNi therapy compared with ACEi 
+therapy using the results of PARADIGM-HF.26–29,41 
+Three high-quality analyses 26,28,29 consistently 
+found costs per QAL Y <$60 000, which provides 
+high value according to the benchmarks adopted 
+for the current clinical practice guideline. These 
+results were robust to the range of sacubitril-val-
+sartan costs currently seen in care. These results 
+were sensitive to the estimated mortality reduc-
+tion and duration of treatment effectiveness. ARNi 
+would need to maintain effectiveness beyond the 
+PARADIGM-HF study period (mean, 27 months) 
+to be considered high value. 29 If clinical benefit 
+were limited to 27 months, ARNi would be inter-
+mediate value. One additional analysis, based on 
+the PIONEER-HF trial, found that inpatient initia-
+tion of ARNi was also high value compared with 
+delayed initiation postdischarge.27
+7 . Oral neprilysin inhibitors, used in combination with 
+ACEi, can lead to angioedema, and concomitant 
+use is contraindicated and should be avoided. A 
+medication that represented a neprilysin inhibitor 
+and an ACEi—omapatrilat—was studied in hyper-
+tension and HF, but its development was termi-
+nated because of an unacceptable incidence of 
+angioedema.30,31 and associated significant mor-
+bidity. This adverse effect was thought to occur 
+because ACEi and neprilysin break down brady-
+kinin, which can directly or indirectly cause angio-
+edema31,32 An ARNi should not be administered 
+within 36 hours of switching from or to an ACEi.
+8. Omapatrilat, a neprilysin inhibitor (as well as an 
+ACEi and aminopeptidase P inhibitor), was asso-
+ciated with a higher frequency of angioedema 
+than that seen with enalapril in an RCT of patients 
+with HFrEF. 30 In a very large RCT of hyperten-
+sive patients, omapatrilat was associated with a 
+3-fold increased risk of angioedema compared 
+with enalapril. 31 Black patients and patients who 
+smoked were particularly at risk. The high inci-
+dence of angioedema ultimately led to cessation 
+of the clinical development of omapatrilat. 33,34 
+Because of these observations, angioedema was 
+an exclusion criterion in the first large trial assess-
+ing ARNi therapy in patients with hypertension 35 
+and then in the large trial that showed clinical ben-
+efit of ARNi therapy in HFrEF.1 The rates of angio-
+edema were numerically higher in patients treated 
+with ARNi than in patients treated with ACEi in 
+PARADIGM-HF, although this difference did not 
+reach significance. 1 ARNi therapy should not be 
+administered in patients with a history of angio-
+edema because of the concern that it will increase 
+the risk of a recurrence of angioedema.
+9. Angioedema attributable to ACEi is thought to 
+result from defective degradation of the vasoactive 
+peptides bradykinin, des-Arg9-BK (a metabolite 
+Downloaded from http://ahajournals.org by on May 30, 2026
+=== PAGE 37 ===
+Circulation. 2022;145:e895–e1032. DOI: 10.1161/CIR.0000000000001063 May 3, 2022 e931
+CLINICAL STATEMENTS 
+AND GUIDELINES
+Heidenreich et al 2022 AHA/ACC/HFSA Heart Failure Guideline
+of bradykinin), and substance P. 36,37 ACEi should 
+not be administered to patients with any history of 
+angioedema, but ARB do not interfere as directly 
+with bradykinin metabolism and have been associ-
+ated with low rates of angioedema.38,39
+7.3.2. Beta Blockers
+Recommendation for Beta Blockers
+Referenced studies that support the recommendation are summarized 
+in the Online Data Supplements.
+COR LOE Recommendation
+1 A
+1. In patients with HFrEF, with current or previ-
+ous symptoms, use of 1 of the 3 beta blockers 
+proven to reduce mortality (eg, bisoprolol, 
+carvedilol, sustained-release metoprolol succi-
+nate) is recommended to reduce mortality and 
+hospitalizations.1–3
+Value Statement: 
+High Value (A)
+2. In patients with HFrEF, with current or previous 
+symptoms, beta-blocker therapy provides high 
+economic value.4–8
+Synopsis
+Treatment with beta blockers reduces the risk of death 
+and the combined risk of death or hospitalization in pa-
+tients with HFrEF. 1–3 In addition, this treatment can im-
+prove L VEF, lessen the symptoms of HF, and improve 
+clinical status. 1–3,9–11 Clinical trials have shown that 
+beta blockers should be prescribed to all patients when 
+HFrEF is diagnosed, including in-hospital, unless contra-
+indicated or not tolerated. 1–3,9–11 These benefits of beta 
+blockers were observed in patients with or without CAD, 
+and in patients with or without diabetes, older patients, 
+as well as in women and across racial and ethnic groups 
+but not in patients with AF. 1–3,10–12 Even if symptoms do 
+not improve, long-term treatment should be maintained 
+to reduce the risk of major cardiovascular events. Beta 
+blockers should be initiated at low doses, and every ef-
+fort should be made to achieve the target doses of the 
+beta blockers shown to be effective in major clinical tri-
+als, as tolerated1–3,9,10 (see Section 7 .3.8, “GDMT Dosing, 
+Sequencing and Uptitration”).
+Recommendation-Specific Supportive Text
+1. Three beta blockers have been shown to be effec-
+tive in reducing the risk of death in patients with 
+HFrEF: bisoprolol, sustained-release metoprolol 
+(succinate), and carvedilol. 1–3 The favorable find-
+ings with these 3 agents, however, should not be 
+considered a beta-blocker class effect in HFrEF. 
+Other beta blockers are not included in this rec-
+ommendation for use. 13–15 Even when asymptom-
+atic, or when symptoms are mild or improve with 
+other therapies, beta-blocker therapy is important 
+and should not be delayed until symptoms return or 
+disease progression is documented. 16 Data show 
+that beta blockers can be safely initiated before 
+hospital discharge, provided patients are clinically 
+stabilized and do not require intravenous inotropic 
+therapy for HF. 17 If a contraindication or intoler-
+ance are noted, they should be documented, and 
+the patient restarted on beta-blocker therapy in the 
+future, so long as an absolute contraindication is 
+not present. Even if symptoms or L VEF improve, 
+long-term treatment with beta blockers and use of 
+target doses should be maintained to reduce the 
+risk of progression in L V dysfunction or major car-
+diovascular events.18,19 Abrupt withdrawal of beta-
+blocker therapy can lead to clinical deterioration 
+and should be avoided unless indicated.18
+2. Multiple analyses have shown the high value of 
+beta-blocker therapy among HF patients. A model-
+based analysis, using generic beta-blocker costs, 
+found beta-blocker therapy was high value.4 These 
+results were consistent with earlier model-based 
+cost-effectiveness analyses 5–7 and a trial-based 
+economic analysis of the US Carvedilol Heart 
+Failure (CHF) Trials Program.8 Each of these stud-
+ies also found treatment with a beta blocker was 
+high value despite using previously higher beta-
+blocker costs.
+7.3.3. Mineralocorticoid Receptor Antagonists 
+(MRAs)
+Recommendations for Mineralocorticoid Receptor Antagonists (MRAs)
+Referenced studies that support the recommendations are summa-
+rized in the Online Data Supplements.
+COR LOE Recommendations
+1 A
+1. In patients with HFrEF and NYHA class II to IV 
+symptoms, an MRA (spironolactone or eplere-
+none) is recommended to reduce morbidity and 
+mortality, if eGFR is >30 mL/min/1.73 m2 and 
+serum potassium is <5.0 mEq/L. Careful moni-
+toring of potassium, renal function, and diuretic 
+dosing should be performed at initiation and 
+closely monitored thereafter to minimize risk of 
+hyperkalemia and renal insufficiency.1–3
+Value Statement: 
+High Value (A)
+2. In patients with HFrEF and NYHA class II to 
+IV symptoms, MRA therapy provides high eco-
+nomic value.4–7
+3: Harm B-NR
+3. In patients taking MRA whose serum potas-
+sium cannot be maintained at <5.5 mEq/L, 
+MRA should be discontinued to avoid life-
+threatening hyperkalemia.8,9
+Synopsis
+MRA (also known as aldosterone antagonists or anti-min-
+eralocorticoids) show consistent improvements in all-cause 
+mortality, HF hospitalizations, and SCD across a wide range 
+of patients with HFrEF.1–3 Patients at risk for renal dysfunc-
+tion or hyperkalemia require close monitoring, and eGFR 
+≤30 mL/min/1.73 m2 or serum potassium ≥ 5.0 mEq/L 
+are contraindications to MRA initiation.10,11 Because of the 
+higher selectivity of eplerenone for the aldosterone receptor, 
+adverse effects such as gynecomastia and vaginal bleeding 
+Downloaded from http://ahajournals.org by on May 30, 2026
+=== PAGE 38 ===
+May 3, 2022 Circulation. 2022;145:e895–e1032. DOI: 10.1161/CIR.0000000000001063e932
+CLINICAL STATEMENTS  
+AND GUIDELINES
+Heidenreich et al 2022 AHA/ACC/HFSA Heart Failure Guideline
+are observed less often in patients who take eplerenone 
+than in those who take spironolactone.
+Recommendation-Specific Supportive Text
+1. Clinical trials taken on MRA together—RALES 
+(Randomized Aldactone Evaluation Study) 1 ran-
+domized highly symptomatic patients with L VEF 
+≤35%; EPHESUS (Eplerenone Post–Acute 
+Myocardial Infarction Heart Failure Efficacy and 
+Survival Study)2 randomized patients post-MI with 
+L VEF ≤40%; and EMPHASIS-HF (Eplerenone in 
+Mild Patients Hospitalization and Survival Study 
+in Heart Failure) 3 randomized patients with mild 
+symptoms and L VEF ≤30%—suggest a benefit of 
+MRA across the spectrum of HFrEF, inclusive of 
+a wide range of etiologies and disease severities. 
+Initiation in the ambulatory or hospital setting is 
+appropriate.12 The starting dose of spironolactone 
+and eplerenone is 25 mg orally daily, increased to 
+50 mg daily orally after a month; for eGFR 31 to 
+49 mL/min/1.73 m 2, dosing should be reduced 
+by half. Regular checks of serum potassium levels 
+and renal function should be performed accord-
+ing to clinical status, approximately 1 week, then 4 
+weeks, then every 6 months after initiating or inten-
+sifying MRA, with more frequent testing for clinical 
+instability. We elected to remove the 2013 recom-
+mendation “Aldosterone receptor antagonists are 
+recommended to reduce morbidity and mortality 
+following an acute MI in patients who have L VEF of 
+40% or less who develop symptoms of HF or who 
+have a history of diabetes mellitus, unless contrain-
+dicated” because the new recommendation covers 
+the spectrum of symptomatic patients with HF.
+2. The economic value of MRA therapy was assessed 
+by both RCTs (RALES 5 and EPHESUS 6,7) and a 
+model-based analysis.4 The model-based analysis 
+used generic MRA costs and found therapy was 
+high value with a cost per QAL Y of under $1000.4 
+The earlier trial-based economic analyses of MRAs 
+from RALES and EPHESUS also found MRA ther-
+apy was high value despite using previously higher 
+MRA costs.5–7
+3. Spironolactone and eplerenone are partially 
+excreted through the kidneys, raising concerns 
+about safety when eGFR is ≤ 30 mL/min/1.73 
+m2.10,11 Spironolactone and eplerenone decrease 
+renal potassium excretion, raising the risk of 
+hyperkalemia, particularly when MRA is initiated 
+at serum potassium ≥ 5.0 mEq/L and continued 
+≥5.5 mEq/L. The incidence of clinically significant 
+hyperkalemia events was <1% in EPHESUS and 
+EMPHASIS-HF, without a significant difference 
+between eplerenone and placebo.2,3 however, in the 
+closely monitored setting of a RCT with enrollment 
+of younger patients with fewer multiple chronic 
+conditions than seen in the general HFrEF popula-
+tion, safety may be overstated. Observational data 
+have raised concerns about less favorable out-
+comes of MRA use for HFrEF during usual care.8,9 
+Coadministration of MRA with ACEi or ARB mildly 
+increases the risk of hyperkalemia. Hyperkalemia 
+risk was lower with ARNi in patients with chronic 
+HF in the PARADIGM-HF trial13 but not different in 
+patients with HF who were decompensated in the 
+PIONEER-HF trial 14 when compared with ACEi. 
+Diarrhea causing dehydration or loop diuretic ther-
+apy interruption, because of worsening renal func-
+tion or hyperkalemia, should be a consideration for 
+temporarily holding the MRA. The development of 
+worsening renal function or hyperkalemia is often 
+a reflection of acute clinical change or progressive 
+disease, prompting careful evaluation of the entire 
+medical regimen and other causes of hyperkalemia, 
+in addition to holding the MRA. The efficacy of the 
+use of potassium binders (eg, patiromer, sodium zir-
+conium cyclosilicate) to improve outcomes by facili-
+tating continuation of MRA is uncertain 15,16 and is 
+addressed in Section 7 .3.6, “Other Drug Treatment.”
+7.3.4. Sodium-Glucose Cotransporter 2 Inhibitors
+Recommendation for SGLT2i
+Referenced studies that support the recommendation are summarized 
+in the Online Data Supplements.
+COR LOE Recommendation
+1 A
+1. In patients with symptomatic chronic HFrEF, 
+SGLT2i are recommended to reduce hospital-
+ization for HF and cardiovascular mortality, irre-
+spective of the presence of type 2 diabetes.1,2
+Value Statement: 
+Intermediate Value 
+(A)
+2. In patients with symptomatic chronic HFrEF, 
+SGLT2i therapy provides intermediate eco-
+nomic value.3,4
+Synopsis
+Several RCTs in patients with type 2 diabetes and ei-
+ther established CVD or high risk for CVD have shown 
+that SGL T2i prevent HF hospitalizations compared with 
+placebo.5–7 The overall 31% reduction in HF hospitaliza-
+tions was noted irrespective of the presence or absence 
+of preexisting HF, although only 10% to 14% of par-
+ticipants had HF at baseline. The benefit appears in-
+dependent of the glucose-lowering effects. 8 Therefore, 
+several trials were launched to examine the efficacy of 
+SGL T2i on outcomes in patients with HF, irrespective of 
+the presence of type 2 diabetes. The DAPA-HF (Dapa-
+gliflozin and Prevention of Adverse Outcomes in Heart 
+Failure) trial and EMPEROR-Reduced (EMPagliflozin 
+outcomE tRial in Patients With chrOnic heaRt Failure 
+With Reduced Ejection Fraction) showed the benefit of 
+SGL T2i (dapagliflozin and empagliflozin, respectively) 
+versus placebo on outcomes (median follow-up, 16–18 
+Downloaded from http://ahajournals.org by on May 30, 2026
+=== PAGE 39 ===
+Circulation. 2022;145:e895–e1032. DOI: 10.1161/CIR.0000000000001063 May 3, 2022 e933
+CLINICAL STATEMENTS 
+AND GUIDELINES
+Heidenreich et al 2022 AHA/ACC/HFSA Heart Failure Guideline
+months).1,2 Patients enrolled had symptomatic chronic 
+HFrEF (L VEF ≤40%, NYHA class II to IV, and elevated 
+natriuretic peptides) and were already on GDMT. Impor-
+tant exclusions were eGFR <20 (EMPEROR-Reduced) 
+or <30 mL/min/1.73 m2 (DAPA-HF), type 1 diabetes, or 
+lower SBP <95 to 100 mm Hg.
+Recommendation-Specific Supportive Text
+1. In the DAPA-HF and EMPEROR-Reduced tri-
+als, SGL T2i compared with placebo reduced the 
+composite of cardiovascular death or HF hospi-
+talization by approximately 25%. 1,2,9 The benefit in 
+reduction of HF hospitalization was greater (30%) 
+in both trials. 9 Risk of cardiovascular death was 
+significantly lowered (18%) with dapagliflozin, as 
+was risk of all-cause mortality (17%). Although 
+no significant cardiovascular mortality benefit was 
+observed with empagliflozin in a meta-analysis 
+of DAPA-HF and EMPEROR-Reduced trials, 
+SGL T2i therapy was associated with a reduction 
+in all-cause mortality and cardiovascular death. 9 
+The benefits in both trials were seen irrespective 
+of baseline diabetes status. Furthermore, serious 
+renal outcomes were less frequent, and the rate 
+of decline in eGFR was slower in patients treated 
+with SGL T2i.1,2,9 In the SOLOIST-WHF (Effect of 
+Sotagliflozin on Cardiovascular Events in Patients 
+With T ype 2 Diabetes And Worsening Heart Failure) 
+trial, patients with diabetes and HF hospitalization 
+(79%: L VEF, <50%) were enrolled before dis-
+charge or within 3 days of discharge. Sotagliflozin, 
+a dual inhibitor of sodium-glucose co-transporters 
+1 and 2, reduced the combined endpoint of car-
+diovascular death, HF hospitalization, or urgent 
+HF visits by 33% 10 but has not been approved by 
+the US Food and Drug Administration (FDA) as of 
+2021. Although SGL T2i increased risk for genital 
+infections, they were otherwise well tolerated in the 
+trials. As the use of SGL T2i is translated into clini-
+cal practice, caution is warranted for euglycemic 
+ketoacidosis, genital and soft tissue infections, and 
+adjustment of diuretics, if needed, to prevent vol-
+ume depletion.11
+2. Two model-based analyses evaluated the economic 
+value of dapagliflozin therapy compared with usual 
+care based on the results of the DAPA-HF trial. 3,4 
+Both analyses found costs per QAL Y between 
+$60 000 and $90 000, which is consistent with 
+intermediate value according to the benchmarks 
+adopted for the current guideline. The results were 
+most sensitive to the magnitude of cardiovascular 
+mortality reduction, with a ≥8% reduction in cardio-
+vascular mortality necessary for a cost per QAL Y 
+below $150 000 in 1 study. 3 There are a wide 
+range of costs currently seen with dapagliflozin. 
+These 2 analyses estimated a cost per QAL Y below 
+$50 000 with annual dapagliflozin costs of $3240 
+(43% reduction from main analysis) and $2500 
+(40% reduction from main analysis), respectively.3,4 
+A smaller reduction in drug cost would lead to a 
+cost per QAL Y of under $60 000, the threshold for 
+high value in this guideline.
+7.3.5. Hydralazine and Isosorbide Dinitrate
+Recommendations for Hydralazine and Isosorbide Dinitrate
+Referenced studies that support the recommendations are summa-
+rized in the Online Data Supplements.
+COR LOE Recommendations
+1 A
+1. For patients self-identified as African American 
+with NYHA class III-IV HFrEF who are receiv-
+ing optimal medical therapy, the combination 
+of hydralazine and isosorbide dinitrate is rec-
+ommended to improve symptoms and reduce 
+morbidity and mortality.1,2
+Value Statement: 
+High Value (B-NR)
+2. For patients self-identified as African Ameri-
+can with NYHA class III to IV HFrEF who are 
+receiving optimal medical therapy with ACEi or 
+ARB, beta blockers, and MRA, the combination 
+of hydralazine and isosorbide dinitrate provides 
+high economic value.3
+2b C-LD
+3. In patients with current or previous symp-
+tomatic HFrEF who cannot be given first-line 
+agents, such as ARNi, ACEi, or ARB, because 
+of drug intolerance or renal insufficiency, a 
+combination of hydralazine and isosorbide dini-
+trate might be considered to reduce morbidity 
+and mortality.4,5
+Synopsis
+Two RCTs, V-HeFT I (Vasodilator Heart Failure Trial) 
+and A-HeFT (African-American Heart Failure Trial), es-
+tablished benefit of the combination of hydralazine-iso-
+sorbide dinitrate in self-identified African Americans. 2,4 
+A-HeFT was terminated early because of evidence of 
+remarkable benefit, but the result is vulnerable to a small 
+number of events and the exigencies of early cessation 
+of RCTs.2 The benefit in both trials was seen only at doses 
+achieved in those trials that are higher than doses typi-
+cally used in clinical practice and with short-acting nitrate 
+therapy.2,4 Uptake of this regimen has been modest as a 
+result of the complexity of the medical regimen and the 
+array of drug-related adverse effects. 5 Even when pre-
+scribed, there is marked underusage based on very low 
+prescription refill rates. Race-based medical therapy re-
+mains a challenging issue, as well, with ongoing research 
+now focused on biological hypotheses, particularly ab-
+sence of European ancestry, which may be associated 
+with responsiveness to this combination. There are insuf-
+ficient data to guide the use of hydralazine-isosorbide 
+dinitrate with ARNi. In patients with HFrEF who cannot 
+receive first-line agents such as ARNi, ACEi, or ARB, re-
+ferral to a HF specialist can provide guidance for further 
+management because the use of hydralazine and isosor-
+bide dinitrate in these patients is uncertain.
+Downloaded from http://ahajournals.org by on May 30, 2026
+=== PAGE 40 ===
+May 3, 2022 Circulation. 2022;145:e895–e1032. DOI: 10.1161/CIR.0000000000001063e934
+CLINICAL STATEMENTS  
+AND GUIDELINES
+Heidenreich et al 2022 AHA/ACC/HFSA Heart Failure Guideline
+Recommendation-Specific Supportive Text
+1. In a large-scale trial that compared the vasodila-
+tor combination with placebo, the use of hydrala-
+zine and isosorbide dinitrate reduced mortality in 
+patients with HF treated with digoxin and diuretics 
+but not an ACEi or beta blocker. 4 However, in 2 
+other trials that compared the vasodilator combina-
+tion with an ACEi, the ACEi produced more favor-
+able effects on survival.6,7 A post hoc retrospective 
+analysis of these vasodilator trials showed particu-
+lar efficacy of isosorbide dinitrate and hydralazine 
+in the African American cohort. 1 In a subsequent 
+trial, which was limited to patients self-identified 
+as African American, the addition of a fixed-dose 
+combination of hydralazine and isosorbide dini-
+trate to standard therapy with an ACEi or ARB, a 
+beta blocker, and MRA offered significant benefit.2 
+Thus, the combination of hydralazine and isosor-
+bide dinitrate is appropriate for African Americans 
+with HFrEF who remain symptomatic despite con-
+comitant use of ACEi (or ARB), beta blockers, and 
+MRA. There are insufficient data for concomitant 
+use with ARNi.
+2. The economic value of hydralazine and isosorbide 
+nitrate therapy was assessed by the A-HeFT trial.3 
+This analysis found hydralazine and isosorbide 
+dinitrate increased survival and reduced health 
+care costs over the 12.8-month trial. Extrapolating 
+beyond the trial, the analysis found hydralazine and 
+isosorbide dinitrate remained high value over a life-
+time with a cost per life-year <$60 000 despite 
+conservative assumptions regarding the durabil-
+ity of therapy effectiveness and previously higher 
+hydralazine and isosorbide dinitrate costs.
+3. It is unclear if a benefit of hydralazine-isosorbide 
+dinitrate (suggested in a trial before the use of 
+ACEi)4 exists for non–African Americans with 
+HFrEF. Despite the lack of data with the vaso-
+dilator combination in patients who are intoler-
+ant of ACEi or ARB, especially those with renal 
+insufficiency, the combined use of hydralazine 
+and isosorbide dinitrate might be considered as 
+a therapeutic option in such patients. Although 
+the potential benefit is unknown and has not 
+been shown in recent observational datasets, 5 in 
+V-HeFT I, the use of hydralazine and isosorbide 
+dinitrate reduced mortality in patients with HF 
+treated with digoxin and diuretics, compared with 
+placebo.4 If patients are unable to tolerate first-
+line agents, such as ARNi, ACEi, or ARB, because 
+of drug intolerance, hypotension, or renal insuf-
+ficiency, referral to a HF specialist can provide 
+guidance for further management, and the use 
+of hydralazine and isosorbide dinitrate in these 
+patients might be considered.
+7.3.6. Other Drug Treatment
+Recommendations for Other Drug Treatment
+Referenced studies that support the recommendations are summa-
+rized in the Online Data Supplements.
+COR LOE Recommendations
+2b B-R
+1. In patients with HF class II to IV symptoms, 
+omega-3 polyunsaturated fatty acid (PUFA) 
+supplementation may be reasonable to use as 
+adjunctive therapy to reduce mortality and car-
+diovascular hospitalizations.1–4
+2b B-R
+2. In patients with HF who experience hyperkale-
+mia (serum potassium level ≥5.5 mEq/L) while 
+taking a renin-angiotensin-aldosterone system 
+inhibitor (RAASi), the effectiveness of potas-
+sium binders (patiromer, sodium zirconium 
+cyclosilicate) to improve outcomes by facilitat-
+ing continuation of RAASi therapy is uncer-
+tain.5,6
+3: No 
+Benefit B-R
+3. In patients with chronic HFrEF without a spe-
+cific indication (eg, venous thromboembolism 
+[VTE], AF, a previous thromboembolic event, or 
+a cardioembolic source), anticoagulation is not 
+recommended.7–9
+Synopsis
+Trials in prevention of CVD, including HF, showed that 
+omega-3 PUFA supplementation results in a 10% to 
+20% risk reduction in fatal and nonfatal cardiovascular 
+events when used with other evidence-based thera-
+pies.2,3,10 Hyperkalemia is common in HF and can lead 
+to arrhythmias and underuse of GDMT. 11,12 Two newer 
+gastrointestinal potassium-binding agents—patiromer 
+and sodium zirconium cyclosilicate—have been shown 
+to lower potassium levels and enable treatment with a 
+RAASi in patients with HF.5,6,13
+Recommendation-Specific Supportive Text
+1. Supplementation with omega-3 PUFA has been 
+evaluated as an adjunctive therapy for CVD and 
+H F.14 The GISSI-HF (Effect of n-3 polyunsaturated 
+fatty acids in patients with chronic heart failure) 
+trial showed a reduction in death among post-MI 
+patients taking 1 g of omega-3 PUFA (850–882 
+mg of eicosapentaenoic acid [EPA] and docosa-
+hexaenoic acid [DHA] as ethyl esters in the ratio 
+of 1:1.2).10 A post hoc subgroup analysis revealed 
+that this reduction in mortality and SCD was con-
+centrated in the approximately 2000 patients with 
+reduced L VEF.10 The GISSI-HF investigators ran-
+domized symptomatic patients with HF to 1 g daily 
+of omega-3 PUFA (850–882 mg of EPA-DHA) 
+or placebo. Death from any cause was reduced 
+from 29% with placebo to 27% in those treated 
+with omega-3 PUFA. 2 The outcome of death or 
+admission to hospital for a cardiovascular event 
+was also significantly reduced. The REDUCE-IT 
+trial randomized patients with established CVD 
+Downloaded from http://ahajournals.org by on May 30, 2026
+=== PAGE 41 ===
+Circulation. 2022;145:e895–e1032. DOI: 10.1161/CIR.0000000000001063 May 3, 2022 e935
+CLINICAL STATEMENTS 
+AND GUIDELINES
+Heidenreich et al 2022 AHA/ACC/HFSA Heart Failure Guideline
+or diabetes with risk factors to 2 g of icosapent 
+ethyl (a highly purified EPA) twice daily or placebo 
+and showed a reduced risk for the composite of 
+cardiovascular death, nonfatal MI, nonfatal stroke, 
+coronary revascularization, or unstable angina. 3 In 
+reported studies, omega-3 PUFA therapy has been 
+well tolerated. Recent studies have reported that 
+in patients with cardiovascular risk treated with 
+omega-3 fatty acid, there may be a dose-related 
+risk of AF.3,15,16
+2. Hyperkalemia is common in HF as a result of 
+the syndrome itself, comorbidities (diabetes, 
+CKD), and use of RAASi, and can increase the 
+risk for ventricular arrhythmias and mortality. 11 
+Hyperkalemia results in dose reductions or dis-
+continuation of RAASi, compromising their cardio-
+renal benefit in HF. 12 Two newer gastrointestinal 
+potassium binders—patiromer (RL Y5016) and 
+sodium zirconium cyclosilicate (SZC)—remove 
+potassium by exchanging cations (calcium for pat-
+iromer, and sodium and hydrogen for SZC), lead-
+ing to increased fecal excretion. Both agents have 
+been FDA approved for treatment of hyperkalemia 
+for patients receiving RAASi. In the PEARL-HF 
+(Evaluation of the efficacy and safety of RL Y5016, 
+a polymeric potassium binder in patients with 
+chronic heart failure) trial, patiromer led to lower 
+potassium levels, less hyperkalemia, and a higher 
+proportion of patients able to increase spironolac-
+tone dose to 50 mg daily compared with placebo.5 
+The HARMONIZE (Hyperkalemia Randomized 
+Intervention Multidose ZS-9 Maintenance) trial 
+included 94 patients (out of 258 total) with HF 
+(87 of whom entered the double-blind phase). 6,13 
+The SZC groups achieved lower potassium lev-
+els overall compared with placebo, and a higher 
+proportion maintained normokalemia (potassium 
+levels, <5.1 mEq/L). Whether patiromer or SZC 
+improve clinical outcomes is under investigation. 
+Adverse effects for the newer potassium bind-
+ers include hypomagnesemia (for patiromer) and 
+edema (for SZC).
+3. In several retrospective analyses, the risk of throm-
+boembolic events was not lower in patients with 
+HF taking warfarin than in patients not treated with 
+antithrombotic drugs.17–19 The use of warfarin was 
+associated with a reduction in major cardiovascular 
+events and death in patients with HF in some stud-
+ies but not in others. 20–22 An RCT that compared 
+the outcome of patients with HFrEF assigned 
+to aspirin, warfarin, or clopidogrel found that no 
+therapy was superior.7 Another trial that compared 
+aspirin with warfarin in patients with reduced L VEF, 
+sinus rhythm, and no cardioembolic source showed 
+no difference in either the primary outcome of 
+death, stroke, or intracerebral hemorrhage, and no 
+difference in the combined outcome of death, isch-
+emic stroke, intracerebral hemorrhage, MI, or HF 
+hospitalization.8 There was a significant increase 
+in major bleeding with warfarin. A trial of rivaroxa-
+ban in patients with HFrEF, CAD, and normal sinus 
+rhythm showed no difference in mortality, MI, and 
+stroke compared with placebo.9 Therefore, there is 
+no evidence of benefit for anticoagulation in HF 
+patients without a specific indication (eg, VTE, AF, 
+a previous thromboembolic event, or a cardioem-
+bolic source).
+7.3.7. Drugs of Unproven Value or That May Worsen 
+HF
+Recommendations for Drugs of Unproven Value or Drugs That May 
+Worsen HF
+Referenced studies that support the recommendations are summa-
+rized in the Online Data Supplements.
+COR LOE Recommendations
+3: No 
+Benefit A
+1. In patients with HFrEF, dihydropyridine calcium 
+channel-blocking drugs are not recommended 
+treatment for HF.1,2
+3: No 
+Benefit B-R
+2. In patients with HFrEF, vitamins, nutritional 
+supplements, and hormonal therapy are not 
+recommended other than to correct specific 
+deficiencies.3–9
+3: Harm A
+3. In patients with HFrEF, nondihydropyridine 
+calcium channel-blocking drugs are not recom-
+mended.10–13
+3: Harm A
+4. In patients with HFrEF, class IC antiarrhythmic 
+medications and dronedarone may increase the 
+risk of mortality.14–16
+3: Harm A
+5. In patients with HFrEF, thiazolidinediones 
+increase the risk of worsening HF symptoms 
+and hospitalizations.17–21
+3: Harm B-R
+6. In patients with type 2 diabetes and high 
+cardiovascular risk, the dipeptidyl pepti-
+dase-4 (DPP-4) inhibitors saxagliptin and 
+alogliptin increase the risk of HF hospitaliza-
+tion and should be avoided in patients with 
+H F.22–24
+3: Harm B-NR
+7 . In patients with HFrEF, NSAIDs worsen HF 
+symptoms and should be avoided or withdrawn 
+whenever possible.25–28
+Synopsis
+Although there is strong evidence for benefit with se-
+lected medications for HFrEF as outlined in Section 7 .3, 
+“Pharmacological Treatment for HF With Reduced Ejec-
+tion Fraction (HFrEF),” there remain several classes of 
+medications that have either unproven value or poten-
+tial for harm (Table 13). These recommendations are 
+not exhaustive but focus on the most relevant and com-
+monly encountered medications in the management of 
+patients with HFrEF: calcium channel blockers; antiar-
+rhythmic agents; NSAIDs; medications for treatment of 
+type 2 diabetes including thiazolidinediones and DPP-4 
+inhibitors; and vitamins, hormones, and nutritional sup-
+plements.
+Downloaded from http://ahajournals.org by on May 30, 2026
+=== PAGE 42 ===
+May 3, 2022 Circulation. 2022;145:e895–e1032. DOI: 10.1161/CIR.0000000000001063e936
+CLINICAL STATEMENTS  
+AND GUIDELINES
+Heidenreich et al 2022 AHA/ACC/HFSA Heart Failure Guideline
+Recommendation-Specific Supportive Text
+1. Second-generation dihydropyridine calcium 
+channel blockers, including amlodipine and 
+felodipine, have greater selectivity for calcium 
+channels in vascular smooth muscle cells and 
+less myocardial depressant activity. By reduc-
+ing peripheral vasoconstriction and L V afterload, 
+calcium channel blockers were thought to have 
+a potential role in the management of chronic 
+HF. The PRAISE-1 (Prospective Randomized 
+Amlodipine Survival Evaluation-1) study showed 
+a reduction in mortality in the subgroup of 
+patients with nonischemic cardiomyopathy who 
+received amlodipine. 1 However, in the PRAISE-2 
+(Prospective Randomized Amlodipine Survival 
+Evaluation 2) trial, which enrolled only patients 
+with nonischemic cardiomyopathy, no survival 
+benefit was observed, indicating the limitations 
+of conclusions derived from subgroup analyses. 29 
+However, dihydropyridine calcium channel block-
+ers may be used for treatment of hypertension 
+in patients who have elevated blood pressure 
+despite optimization of GDMT.
+2. Many nutritional supplements and hormonal 
+therapies have been proposed for the treatment 
+of HF. 3–9,30,31 Ultimately, most studies are limited 
+by small sample sizes, surrogate endpoints, or 
+nonrandomized design. 32,33 In addition, adverse 
+effects and drug-nutraceutical interactions remain 
+unresolved. There is a lack of evidence of benefit 
+from vitamin D, 3–5 thiamine, 34–36 carnitine, 37 and 
+taurine38,39 and potential harm from vitamin E. 6,7 
+The largest RCT of coenzyme Q10—Q-SYMBIO 
+(Coenzyme Q10 as adjunctive treatment of chronic 
+heart failure with focus on SYMptoms, BIomarker 
+status [Brain-Natriuretic Peptide], and long-term 
+Outcome [hospitalisations/mortality])—showed no 
+changes in NYHA functional classification at 16 
+weeks, although the incidence of major adverse 
+cardiovascular events at 2 years was significantly 
+reduced (hazard ratio, 0.50; 95% CI, 0.32-0.80; 
+P=0.003).8 Despite these findings, concerns about 
+slow recruitment in this trial have tempered enthusi-
+asm for coenzyme Q10 supplementation in clinical 
+practice.9,31 Hormonal therapies have been proposed 
+for the treatment of HF, but trials have shown a neu-
+tral effect of testosterone,40,41 growth hormone,30,42 
+and thyroid hormone43–45 in HF outcomes.
+3. Nondihydropyridine calcium channel blockers—dil-
+tiazem and verapamil—are myocardial depressants 
+and generally not well tolerated in HF. Verapamil 
+had no impact of survival or major cardiac events 
+post-MI, including in those patients with HFrEF 
+after acute MI. 10 In patients with nonischemic 
+Table 13. Selected Prescription Medications That May Cause or Exacerbate HF
+Drug or Therapeutic Class
+Associated With HF
+Magnitude of 
+HF Induction or 
+Precipitation
+LOE for HF 
+Induction or 
+Precipitation Possible Mechanism(s) Onset
+Causes Direct 
+Myocardial 
+Toxicity
+Exacerbates 
+Underlying 
+Myocardial 
+Dysfunction
+COX, nonselective inhibi-
+tors (NSAIDs)
+ X Major B Prostaglandin inhibition leading to 
+sodium and water retention, increased 
+systemic vascular resistance, and blunted 
+response to diuretics
+Immediate
+COX, selective inhibitors 
+(COX-2 inhibitors)
+ X Major B
+Thiazolidinediones  X Major A Possible calcium channel blockade Intermediate
+Saxagliptin  X Major A Unknown Intermediate to 
+delayedAlogliptin  X Major A
+Flecainide  X Major A Negative inotrope, proarrhythmic effects Immediate to 
+intermediate
+Disopyramide  X Major B   
+Sotalol  X Major A Proarrhythmic properties, beta blockade Immediate to 
+intermediate
+Dronedarone  X Major A Negative inotrope  
+Alpha-1 blockers
+Doxazosin  X Moderate B Beta-1-receptor stimulation with increas-
+es in renin and aldosterone
+Intermediate to 
+delayed
+Diltiazem  X Major B Negative inotrope Immediate to 
+intermediateVerapamil  X Major B
+Nifedipine  X Moderate C
+COX indicates cyclo-oxygenase; HF, heart failure; LOE, Level of Evidence; and NSAID, nonsteroidal anti-inflammatory drug.
+Adapted from Page RL 2nd et al.57 Copyright 2016 American Heart Association Inc.
+Downloaded from http://ahajournals.org by on May 30, 2026
+=== PAGE 43 ===
+Circulation. 2022;145:e895–e1032. DOI: 10.1161/CIR.0000000000001063 May 3, 2022 e937
+CLINICAL STATEMENTS 
+AND GUIDELINES
+Heidenreich et al 2022 AHA/ACC/HFSA Heart Failure Guideline
+cardiomyopathy, diltiazem had no impact on mor-
+tality13 but, in HFrEF after acute MI, diltiazem was 
+associated with a higher risk of recurrent HF.11,12
+4. In the CAST (Cardiac Arrhythmia Suppression) 
+trial, patients with asymptomatic ventricular 
+arrhythmias post-MI on the class IC antiarrhyth-
+mics encainide or flecainide had increased mortal-
+ity.14 The applicability of CAST to patients without 
+recent MI or to other class I antiarrhythmic drugs 
+is uncertain, but class IC antiarrhythmic agents 
+are generally avoided in patients with structural 
+heart disease. In ANDROMEDA (Antiarrhythmic 
+Trial with Dronedarone in Moderate to Severe 
+CHF Evaluating Morbidity Decrease Study), for 
+the class III antiarrhythmic dronedarone, patients 
+with HFrEF who were hospitalized had increased 
+mortality.16 In the SWORD (Survival With ORal 
+D-sotalol) trial of the class III antiarrhythmic sotalol, 
+patients with HF post-MI had increased mortality.15 
+However, SWORD was published in 1996, and 
+whether sotalol would be harmful in the current 
+era of GDMT and ICDs is uncertain; sotalol may 
+be used for refractory atrial-ventricular arrhyth-
+mias with close monitoring for decompensation. 
+Amiodarone46,47 and dofetilide48,49 are the only anti-
+arrhythmic agents with neutral effects on mortal-
+ity in clinical trials of patients with HFrEF. Class IA 
+antiarrhythmic agents such as quinidine and class 
+IB agents such as mexiletine have not been stud-
+ied and may be indicated for the management of 
+refractory ventricular arrhythmias in the context of 
+the individual patient’s risk benefit calculus and in 
+conjunction with electrophysiology consultation.
+5. Thiazolidinediones increase insulin sensitivity by 
+activating nuclear peroxisome proliferator-acti-
+vated receptor gamma (PPAR-γ). Expressed in 
+virtually all tissues, PPAR-γ also regulates sodium 
+reabsorption in the collecting ducts of the kidney. 
+In observational cohort studies, 17 meta-analysis, 18 
+and clinical trials,19–21 thiazolidinediones have been 
+associated with increased incidence of fluid reten-
+tion and HF events in those patients with 19,21or 
+without18,20a previous history of HF.
+6. DPP-4 is a cell-surface enzyme that deactivates 
+several peptides include glucose-dependent 
+insulinotropic polypeptide and glucagon-like 
+peptide 1. DPP-4 inhibitors affect glucose reg-
+ulation through multiple mechanisms, includ-
+ing enhancement of glucose-dependent insulin 
+secretion, slowed gastric emptying, and reduction 
+of postprandial glucagon and of food intake. The 
+impact of DPP-4 inhibitors on cardiovascular out-
+comes in patients with diabetes and high cardio-
+vascular risk has been assessed in multiple RCTs. 
+Saxagliptin increased the risk of hospitalization 
+for HF,22 as did alogliptin in a post hoc analysis 
+including only patients with no HF history, 23,50 but 
+sitagliptin51,52and linagliptin 53–55 did not; these 
+findings may have been a result of baseline dif-
+ferences in the use of metformin, thiazolidinedio-
+nes, and insulin, which also affect HF risk. The 
+FDA recommends discontinuation specifically of 
+saxagliptin and alogliptin in patients who develop 
+H F,56 and whether the risk of worsening HF is a 
+class effect of DPP-4 inhibitors is unclear.
+7 . NSAIDs inhibit the synthesis of renal prosta-
+glandins, which mediate vasodilation in the kid-
+neys and directly inhibit sodium resorption in the 
+thick ascending loop of Henle and collecting 
+tubule. Hence, NSAIDs can cause sodium and 
+water retention and blunt the effects of diuret-
+ics. Several observational cohort studies have 
+revealed increased morbidity and mortality in 
+patients with HF using either nonselective or 
+selective NSAIDs. 25–28
+7.3.8. GDMT Dosing: Sequencing and Uptitration
+Recommendations for GDMT Dosing: Sequencing and Uptitration
+Referenced studies that support the recommendations are  
+summarized in the Online Data Supplements.
+COR LOE Recommendations
+1 A
+1. In patients with HFrEF, titration of guideline-
+directed medication dosing to achieve target 
+doses showed to be efficacious in RCTs is rec-
+ommended, to reduce cardiovascular mortality 
+and HF hospitalizations, unless not well toler-
+ated.1–10
+2a C-EO
+2. In patients with HFrEF, titration and optimiza-
+tion of guideline-directed medications as 
+frequently as every 1 to 2 weeks depending on 
+the patient’s symptoms, vital signs, and labora-
+tory findings can be useful to optimize manage-
+ment.
+Synopsis
+Clinical trials of ACEi, ARB, ARNi, beta blockers, and 
+most other HFrEF medications had therapy initiated at 
+low dose by trial protocol. 1–9,11–14 If the initial dose was 
+tolerated, the protocol would then direct the uptitration 
+of medication dose over time to a specified target dose 
+(Table 14), unless not well tolerated. Even if symptoms 
+improved or other indicators of response were shown 
+at lower doses, the medication dose would still be in-
+creased to the trial-defined target doses. Because 
+these target doses were the ones that established the 
+efficacy and safety of these medications in HFrEF and 
+serve as the basis of the guideline recommendations 
+(Table 15), use of these target doses is recommended, 
+if tolerated. 1–9,11–14 Use of all 4 drug classes has been 
+estimated to reduce all-cause mortality by 73% com-
+pared with no treatment. 15
+If the target dose cannot be achieved or is not well tol-
+erated, then the highest tolerated dose is recommended. 
+Downloaded from http://ahajournals.org by on May 30, 2026
+=== PAGE 44 ===
+May 3, 2022 Circulation. 2022;145:e895–e1032. DOI: 10.1161/CIR.0000000000001063e938
+CLINICAL STATEMENTS  
+AND GUIDELINES
+Heidenreich et al 2022 AHA/ACC/HFSA Heart Failure Guideline
+There are no direct data showing that use of lower doses 
+of HFrEF medications among patients, where higher target 
+doses could be tolerated, would produce the same or simi-
+lar degree of clinical benefit. In trials that have evaluated 
+dose response for outcomes, composite event rates were 
+lower with target doses compared with lower dose.16–18
+Table 14. Drugs Commonly Used for HFrEF (Stage C HF)
+Drug Initial Daily Dose(s) Target Doses(s)
+Mean Doses Achieved in  
+Clinical Trials References
+ACEi
+Captopril 6.25 mg 3 times daily 50 mg 3 times daily 122.7 mg total daily 19
+Enalapril 2.5 mg twice daily 10–20 mg twice daily 16.6 mg total daily 3
+Fosinopril 5–10 mg once daily 40 mg once daily NA …
+Lisinopril 2.5–5 mg once daily 20–40 mg once daily 32.5–35.0 mg total daily 17
+Perindopril 2 mg once daily 8–16 mg once daily NA …
+Quinapril 5 mg twice daily 20 mg twice daily NA …
+Ramipril 1.25–2.5 mg once daily 10 mg once daily NA …
+Trandolapril 1 mg once daily 4 mg once daily NA …
+ARB
+Candesartan 4–8 mg once daily 32 mg once daily 24 mg total daily 20
+Losartan 25–50 mg once daily 50–150 mg once daily 129 mg total daily 18
+Valsartan 20–40 mg once daily 160 mg twice daily 254 mg total daily 21
+ARNi
+Sacubitril-valsartan 49 mg sacubitril and 51 mg val-
+sartan twice daily (therapy may be 
+initiated at 24 mg sacubitril and 
+26 mg valsartan twice daily)
+97 mg sacubitril and 103 mg val-
+sartan twice daily
+182 mg sacubitril and 193 mg 
+valsartan total daily
+22
+Beta blockers
+Bisoprolol 1.25 mg once daily 10 mg once daily 8.6 mg total daily 1
+Carvedilol 3.125 mg twice daily 25–50 mg twice daily 37 mg total daily 23
+Carvedilol CR 10 mg once daily 80 mg once daily NA …
+Metoprolol succinate extended 
+release (metoprolol CR/XL)
+12.5–25 mg once daily 200 mg once daily 159 mg total daily 11
+Mineralocorticoid receptor antagonists
+Spironolactone 12.5–25 mg once daily 25–50 mg once daily 26 mg total daily 6
+Eplerenone 25 mg once daily 50 mg once daily 42.6 mg total daily 13
+SGLT2i
+Dapagliflozin 10 mg once daily 10 mg once daily 9.8 mg total daily 8
+Empagliflozin 10 mg once daily 10 mg once daily NR 9
+Isosorbide dinitrate and hydralazine
+Fixed dose combination 20 mg isosorbide dinitrate and 
+37 .5 mg hydralazine 3 times daily
+40 mg isosorbide dinitrate and 75 
+mg hydralazine 3 times daily
+90 mg isosorbide dinitrate and 
+∼175 mg hydralazine total daily
+10
+Isosorbide dinitrate and hydrala-
+zine
+20–30 mg isosorbide dinitrate 
+and 25–50 mg hydralazine 3–4 
+times daily
+120 mg isosorbide dinitrate total 
+daily in divided doses and 300 
+mg hydralazine total daily in di-
+vided doses
+NA 24
+If Channel inhibitor
+Ivabradine 5 mg twice daily 7 .5 mg twice daily 12.8 total daily 25–27
+Soluble guanylate cyclase stimulator
+Vericiguat 2.5 mg once daily 10 mg once daily 9.2 mg total daily 28
+Cardiac glycoside
+Digoxin 0.125–0.25 mg daily (modified 
+according to monogram)
+Individualized variable dose to 
+achieve serum digoxin concentra-
+tion 0.5–<0.9 ng/mL
+NA 29,30
+ACE indicates angiotensin-converting enzyme; ARB, angiotensin receptor blocker; CR, controlled release; CR/XL, controlled release/extended release; HF, heart 
+failure; HFrEF, heart failure with reduced ejection fraction; NA, not applicable; NR, not reported; and SGLT2i, sodium glucose cotransporter 2 inhibitor.
+Downloaded from http://ahajournals.org by on May 30, 2026
+=== PAGE 45 ===
+Circulation. 2022;145:e895–e1032. DOI: 10.1161/CIR.0000000000001063 May 3, 2022 e939
+CLINICAL STATEMENTS 
+AND GUIDELINES
+Heidenreich et al 2022 AHA/ACC/HFSA Heart Failure Guideline
+Recommendation-Specific Supportive Text
+1. The use of these specific medications for HFrEF 
+should involve initiation at low-starting doses, 
+uptitration at specified intervals as tolerated, and 
+achieving-maintaining the target doses shown to 
+be effective in major clinical trials. Every effort 
+should be made by clinicians to achieve and main-
+tain the clinical trial–defined target doses (Table 
+13) of guideline-directed medications, as long as 
+they are well tolerated by the patient. Patients 
+should be monitored for changes in heart rate, 
+blood pressure, electrolytes, renal function, and 
+symptoms during this uptitration period. Planned 
+uptitration of a HF medication should be delayed 
+until any adverse effects observed with lower 
+doses have resolved. When such a strategy is 
+used for dose titration, most patients (approxi-
+mately 70%–85%) enrolled in clinical trials who 
+received these medications were able to tolerate 
+short-, intermediate-, and long-term treatment 
+with these agents and achieve and maintain 
+the trial defined target dose. 1–9,11–14 Repeated 
+attempts at uptitration can result in optimization, 
+even if initial attempts may fail. In patients with 
+HFrEF, beta blockers provide dose-dependent 
+improvements in L VEF, reduction in HF hospi-
+talizations, and reduction in all-cause mortality. 17 
+Trials of lower versus higher dose of ACEi and 
+ARB have shown lower risk of cardiovascular 
+death or HF hospitalization with higher doses, 
+with similar safety and tolerability. 17 ,18
+2. Initiation and titration should be individualized and 
+optimized without delay according to patient’s 
+symptoms, vital signs, functional status, tolerance, 
+renal function, electrolytes, comorbidities, specific 
+cause of HF, and ability of follow-up. In patients 
+with HFrEF, simultaneous initiation or sequencing, 
+and order of guideline-directed medications are 
+usually individualized according to patient’s symp-
+toms, vital signs, functional status, tolerance, renal 
+function, electrolytes, comorbidities, specific cause 
+of HF, and ability of follow-up, and does not neces-
+sarily need to be done according to the sequence 
+of trial publications and should not be delayed.
+7.3.9. Additional Medical Therapies
+7.3.9.1. Management of Stage C HF: Ivabradine
+Recommendation for the Management of Stage C HF: Ivabradine
+Referenced studies that support the recommendation are summarized 
+in the Online Data Supplements.
+COR LOE Recommendation
+2a B-R
+1. For patients with symptomatic (NYHA class II 
+to III) stable chronic HFrEF (LVEF ≤35%) who 
+are receiving GDMT, including a beta blocker 
+at maximum tolerated dose, and who are in 
+sinus rhythm with a heart rate of ≥70 bpm at 
+rest, ivabradine can be beneficial to reduce HF 
+hospitalizations and cardiovascular death.1,2
+Synopsis
+Heart rate is a strong predictor of cardiovascular out-
+comes in the general population and in patients with 
+CVD, including HF. The SHIFT (Ivabradine and Outcomes 
+in Chronic Heart Failure) trial tested the hypothesis that 
+reducing heart rate in patients with HF improves cardio-
+vascular outcomes.1 SHIFT demonstrated the efficacy of 
+ivabradine, a sinoatrial node modulator that selectively 
+inhibits the If current, in reducing the composite endpoint 
+of cardiovascular death or HF hospitalization in patients 
+with HF. See Figure 7 for a summary of additional medi-
+cal therapy recommendations.
+Table 15. Benefits of Evidence-Based Therapies for Patients With HFrEF3–6,8,10–14,23,31–42
+Evidence-Based Therapy
+Relative Risk Reduction in 
+All-Cause Mortality in  
+Pivotal RCTs, %
+NNT to Prevent All-Cause 
+Mortality Over Time*
+NNT for All-Cause Mortality 
+(Standardized to 12 mo)
+NNT for All- Cause Mortality 
+(Standardized to 36 mo)
+ACEi or ARB 17 22 over 42 mo 77 26 
+ARNi† 16 36 over 27 mo 80 27 
+Beta blocker 34 28 over 12 mo 28 9
+Mineralocorticoid receptor 
+antagonist
+30 9 over 24 mo 18 6
+SGLT2i 17 43 over 18 mo 63 22 
+Hydralazine or nitrate‡ 43 25 over 10 mo 21 7
+CRT 36 12 over 24 mo 24 8
+ICD 23 14 over 60 mo 70 23 
+ACEi indicates angiotensin-converting enzyme inhibitor; ARB, angiotensin receptor blocker; ARNi, angiotensin receptor neprilysin inhibitor; CRT, cardiac resyn-
+chronization therapy; HFrEF, heart failure with reduced ejection fraction; ICD, implantable cardioverter-defibrillator; NNT, number needed to treat; RCT, randomized 
+controlled trial; and SGLT2i, sodium-glucose cotransporter-2 inhibitor.
+*Median duration follow-up in the respective clinical trial.
+†Benefit of ARNi therapy incremental to that achieved with ACEi therapy. For the other medications shown, the benefits are based on comparisons to placebo 
+control.
+‡Benefit of hydralazine-nitrate therapy was limited to African American patients in this trial.
+Downloaded from http://ahajournals.org by on May 30, 2026
+=== PAGE 46 ===
+May 3, 2022 Circulation. 2022;145:e895–e1032. DOI: 10.1161/CIR.0000000000001063e940
+CLINICAL STATEMENTS  
+AND GUIDELINES
+Heidenreich et al 2022 AHA/ACC/HFSA Heart Failure Guideline
+Recommendation-Specific Supportive Text
+1. Although the primary outcome in SHIFT was a com-
+posite of hospitalization and cardiovascular death, 
+the greatest benefit was a reduction in HF hospi-
+talization. SHIFT included patients with HFrEF and 
+L VEF ≤35% who were in sinus rhythm with a resting 
+heart rate of ≥70 bpm. Participants were predomi-
+nantly NYHA class II and III. Participants had been 
+hospitalized for HF in the preceding 12 months and 
+were on stable GDMT for 4 weeks before initiation 
+of ivabradine therapy. 1–4 The target of ivabradine 
+is heart rate, and the benefit of ivabradine results 
+from a reduction in heart rate. However, only 25% 
+of patients studied in SHIFT were on optimal doses 
+of beta-blocker therapy. Given the well-proven mor-
+tality benefits of beta-blocker therapy, these agents 
+should be initiated and uptitrated to target doses, 
+as tolerated, before assessing the resting heart rate 
+for consideration of ivabradine initiation.5,6
+7.3.9.2. Pharmacological Treatment for Stage C 
+HFrEF: Digoxin
+Recommendation for the Pharmacological Treatment for Stage C 
+HFrEF: Digoxin
+Referenced studies that support the recommendation are summarized 
+in the Online Data Supplements.
+COR LOE Recommendation
+2b B-R
+1. In patients with symptomatic HFrEF despite 
+GDMT (or who are unable to tolerate GDMT), 
+digoxin might be considered to decrease hospi-
+talizations for HF.1,2
+Synopsis
+To date, there has been only 1 large-scale, RCT of digox-
+in in patients with HF.1 This trial, which predated current 
+GDMT, primarily enrolled patients with NYHA class II to 
+III HF and showed that treatment with digoxin for 2 to 5 
+years had no effect on mortality but modestly reduced 
+the combined risk of death and hospitalization. The trial 
+also found no significant effect on health-related QOL 
+in a subset of the trial patients. 3 The effect of digoxin 
+on hospitalizations has been supported by retrospective 
+analyses and meta-analyses. 2,4–6 Additionally, observa-
+tional studies and retrospective analyses have shown 
+improvement in symptoms and exercise tolerance in mild 
+to moderate HF; however, they have mostly shown either 
+lack of mortality benefit or increased mortality associated 
+with digoxin.7 The benefit in patients on current GDMT 
+is unclear because most trials preceded current GDMT. 
+Thus, use of digoxin requires caution in patients with HF 
+and is reserved for those who remain symptomatic de-
+spite optimization of GDMT.
+Recommendation-Specific Supportive Text
+1. Digoxin is usually initiated at a low dose because 
+higher doses are rarely required in the management 
+of HF and are potentially detrimental. Two retro-
+spective analyses of large-scale clinical trials have 
+shown a linear relationship between mortality and 
+digoxin serum concentration in patients with AF 
+and at risk for stroke, including those with HF, and 
+in patients with HF. The risk of death was indepen-
+dently associated with serum digoxin concentration, 
+with a significantly higher risk observed in those with 
+concentrations ≥1.2 ng/mL and ≥1.6 ng/mL.8,9 The 
+benefit of digoxin in patients with HF remains con-
+troversial. GDMT is expected to be optimized before 
+considering the addition of digoxin. Clinical worsen-
+ing after withdrawal of digoxin has been shown. 10 
+Therapy with digoxin may either be continued in the 
+absence of a contraindication or discontinued with 
+caution.11 Therapy with digoxin is commonly initi-
+ated and maintained at a dose of 0.125 to 0.25 mg 
+daily. Low doses (0.125 mg daily or every other day) 
+should be used initially if the patient is >70 years of 
+Figure 7. Additional Medical Therapies for Patients With HFrEF.
+Colors correspond to COR in Table 2. Recommendations for additional 
+medical therapies that may be considered for patients with HF are 
+shown. GDMT indicates guideline-directed medical therapy; HF, 
+heart failure; HFH, heart failure hospitalization; HFrEF, heart failure 
+with reduced ejection fraction; IV, intravenous; L VEF, left ventricular 
+ejection fraction; L VESD, left ventricular end systolic dimension; MV, 
+mitral valve; MR, mitral regurgitation; NP, natriuretic peptide; NSR, 
+normal sinus rhythm; NYHA, New York Heart Association; and RAASi, 
+renin-angiotensin-aldosterone system inhibitors.
+Downloaded from http://ahajournals.org by on May 30, 2026
+=== PAGE 47 ===
+Circulation. 2022;145:e895–e1032. DOI: 10.1161/CIR.0000000000001063 May 3, 2022 e941
+CLINICAL STATEMENTS 
+AND GUIDELINES
+Heidenreich et al 2022 AHA/ACC/HFSA Heart Failure Guideline
+age, has impaired renal function, or has a low lean 
+body mass. Higher doses (eg, digoxin 0.375 to 0.50 
+mg daily) are rarely used or needed in the manage-
+ment of patients with HF.
+7.3.9.3. Pharmacological Treatment for Stage C 
+HFrEF: Soluble Guanylyl Cyclase Stimulators
+Recommendation for Pharmacological Treatment for Stage C HFrEF: 
+Soluble Guanylyl Cyclase Stimulators
+Referenced studies that support the recommendation are summarized 
+in the Online Data Supplements.
+COR LOE Recommendation
+2b B-R
+1. In selected high-risk patients with HFrEF and 
+recent worsening of HF already on GDMT, 
+an oral soluble guanylate cyclase stimulator 
+(vericiguat) may be considered to reduce HF 
+hospitalization and cardiovascular death.1
+Synopsis
+In patients with progression of HFrEF despite GDMT, 
+there may be a role for novel therapeutic agents. Oral 
+soluble guanylyl cyclase stimulator (eg, vericiguat) di-
+rectly binds and stimulates sGC and increases cGMP 
+production. cGMP has several potentially beneficial 
+effects in patients with HF, including vasodilation, im-
+provement in endothelial function, as well as decrease 
+in fibrosis and remodeling of the heart.2–7 The VICTORIA 
+(Vericiguat Global Study in Subjects with Heart Failure 
+with Reduced Ejection Fraction) trial randomized 5050 
+higher-risk patients with worsening HFrEF to vericiguat 
+versus placebo.1
+Recommendation-Specific Supportive Text
+1. Patients with HFrEF in the VICTORIA trial had L VEF 
+<45%, NYHA class II to IV, were on GDMT, with 
+elevated natriuretic peptides (BNP ≥300 pg/mL 
+or NT-proBNP ≥1000 pg/mL if in sinus rhythm; 
+higher cutoffs with AF), and recent HF worsening 
+(hospitalized within 6 months or recently received 
+intravenous diuretic therapy without hospitaliza-
+tion). Patients on long-acting nitrates, with SBP 
+<100 mm Hg, or eGFR <15 mL/min/1.73 m2 were 
+excluded.1 Over a median follow-up of 10.8 months, 
+the primary outcome, cardiovascular death or HF 
+hospitalization, occurred in 35.5% with vericiguat 
+compared with 38.5% with placebo (HR, 0.90; 
+P=0.019). All-cause mortality occurred in 20.3% 
+in the vericiguat group and 21.2% in the placebo 
+group (HR, 0.95; 95% CI, 0.84-1.07; P=0.38) and 
+composite of any-cause death or HF hospitaliza-
+tion was also lower in the vericiguat group versus 
+placebo group (HR, 0.90; 95% CI, 0.83–0.98; 
+P=0.02). The relative risk reduction of 10% in the 
+primary outcome was lower than expected, even in 
+a higher risk population. Although not statistically 
+significant, symptomatic hypotension (9.1% versus 
+7 .9%; P=0.12) and syncope (4.0% versus 3.5%; 
+P=0.30) were numerically higher in the vericiguat 
+group versus placebo. There was heterogeneity 
+by subgroup analysis, and patients in the highest 
+quartile of NT-proBNP subgroup (NT proBNP level 
+>5314 pg/mL) did not have benefit from vericiguat 
+when compared with placebo.
+7 .4. Device and Interventional Therapies for 
+HFrEF
+7.4.1. ICDs and CRTs
+Recommendations for ICDs and CRTs
+Referenced studies that support the recommendations are  
+summarized in the Online Data Supplements.
+COR LOE Recommendations
+1 A
+1. In patients with nonischemic DCM or ischemic 
+heart disease at least 40 days post-MI with 
+LVEF ≤35% and NYHA class II or III symp-
+toms on chronic GDMT, who have reasonable 
+expectation of meaningful survival for >1 year, 
+ICD therapy is recommended for primary pre-
+vention of SCD to reduce total mortality.1–9
+Value Statement: 
+High Value (A)
+2. A transvenous ICD provides high economic 
+value in the primary prevention of SCD 
+particularly when the patient’s risk of death 
+caused by ventricular arrythmia is deemed 
+high and the risk of nonarrhythmic death 
+(either cardiac or noncardiac) is deemed low 
+based on the patient’s burden of comorbidi-
+ties and functional status. 10–15
+1 B-R
+3. In patients at least 40 days post-MI with LVEF 
+≤30% and NYHA class I symptoms while 
+receiving GDMT, who have reasonable expec-
+tation of meaningful survival for >1 year, ICD 
+therapy is recommended for primary prevention 
+of SCD to reduce total mortality.6
+1 B-R
+4. For patients who have LVEF ≤35%, sinus rhythm, 
+left bundle branch block (LBBB) with a QRS 
+duration ≥150 ms, and NYHA class II, III, or 
+ambulatory IV symptoms on GDMT, CRT is 
+indicated to reduce total mortality, reduce hospi-
+talizations, and improve symptoms and QOL.16–21
+Value Statement: 
+High Value (B-NR)
+5. For patients who have LVEF ≤35%, sinus 
+rhythm, LBBB with a QRS duration of ≥150 
+ms, and NYHA class II, III, or ambulatory IV 
+symptoms on GDMT, CRT implantation pro-
+vides high economic value.22–27
+2a B-R
+6. For patients who have LVEF ≤ 35%, sinus 
+rhythm, a non-LBBB pattern with a QRS 
+duration ≥150 ms, and NYHA class II, III, or 
+ambulatory class IV symptoms on GDMT, 
+CRT can be useful to reduce total mortality, 
+reduce hospitalizations, and improve symp-
+toms and QOL. 16–21,28–33
+2a B-R
+7 . In patients with high-degree or complete 
+heart block and LVEF of 36% to 50%, CRT is 
+reasonable to reduce total mortality, reduce 
+hospitalizations, and improve symptoms and 
+QOL.34,35
+Downloaded from http://ahajournals.org by on May 30, 2026
+=== PAGE 48 ===
+May 3, 2022 Circulation. 2022;145:e895–e1032. DOI: 10.1161/CIR.0000000000001063e942
+CLINICAL STATEMENTS  
+AND GUIDELINES
+Heidenreich et al 2022 AHA/ACC/HFSA Heart Failure Guideline
+2a B-NR
+8. For patients who have LVEF ≤ 35%, sinus 
+rhythm, LBBB with a QRS duration of 120 
+to 149 ms, and NYHA class II, III, or ambu-
+latory IV symptoms on GDMT, CRT can 
+be useful to reduce total mortality, reduce 
+hospitalizations, and improve symptoms and 
+QOL. 16–21,28–33
+2a B-NR
+9. In patients with AF and LVEF ≤35% on GDMT, 
+CRT can be useful to reduce total mortality, 
+improve symptoms and QOL, and increase 
+LVEF, if: a) the patient requires ventricular pac-
+ing or otherwise meets CRT criteria and b) 
+atrioventricular nodal ablation or pharmacologi-
+cal rate control will allow near 100% ventricu-
+lar pacing with CRT.16–21,28–33
+2a B-NR
+10. For patients on GDMT who have LVEF 
+≤35% and are undergoing placement of 
+a new or replacement device implantation 
+with anticipated requirement for significant 
+(>40%) ventricular pacing, CRT can be 
+useful to reduce total mortality, reduce 
+hospitalizations, and improve symptoms and 
+QOL. 16–21,28–33
+2a B-NR
+11. In patients with genetic arrhythmogenic car-
+diomyopathy with high-risk features of sudden 
+death, with EF ≤45%, implantation of ICD is 
+reasonable to decrease sudden death.36,37
+2b B-NR
+12. For patients who have LVEF ≤35%, sinus 
+rhythm, a non-LBBB pattern with QRS dura-
+tion of 120 to 149 ms, and NYHA class III or 
+ambulatory class IV on GDMT, CRT may be 
+considered to reduce total mortality, reduce 
+hospitalizations, and improve symptoms and 
+QOL.16–21,28–33
+2b B-NR
+13. For patients who have LVEF ≤30%, ischemic 
+cause of HF, sinus rhythm, LBBB with a QRS 
+duration ≥150 ms, and NYHA class I symp-
+toms on GDMT, CRT may be considered to 
+reduce hospitalizations and improve symptoms 
+and QOL.16–21,28–33
+3: No 
+Benefit B-R 14. In patients with QRS duration <120 ms, CRT is not recommended.36–41
+3: No 
+Benefit B-NR
+15. For patients with NYHA class I or II symptoms 
+and non-LBBB pattern with QRS duration 
+<150 ms, CRT is not recommended.16–21,28–33
+3: No 
+Benefit C-LD
+16. For patients whose comorbidities or frailty 
+limit survival with good functional capacity to 
+<1 year, ICD and cardiac resynchronization 
+therapy with defibrillation (CRT-D) are not indi-
+cated.1–9,16–21
+Synopsis
+RCTs have informed the decisions regarding cardiac 
+implantable devices (ICDs and CRTs) over the past 20 
+years. In fact, the seminal RCTs for ICDs and CRTs are 
+unlikely to be repeated. Subgroup analyses of these tri-
+als have also informed decisions, but these were not the 
+primary endpoints of these studies and thus should be 
+interpreted with caution. GDMT is optimized before ICD 
+and CRT implantation to assess whether the L VEF im-
+proves. Figures 8 and 9 summarize device and interven-
+tional therapy recommendations.
+Recommendation-Specific Supportive Text
+1. ICDs were first assessed in patients who had 
+been resuscitated from a cardiac arrest. In AVID 
+(Antiarrhythmics versus Implantable Defibrillators 
+trial), CASH (Cardiac Arrest Study Hamburg), 
+and CIDS (Canadian Implantable Defibrillator 
+StudyS), benefit was observed in those who were 
+randomized to ICDs. 1–3 Extension of benefit was 
+then shown in other patient populations that 
+were at perceived risk of SCD. In the first MADIT 
+(Multicenter Automated Defibrillator Implantation 
+Trial) trial, patients with previous MI, L VEF ≤35% 
+with nonsustained VT had a mortality benefit with 
+ICD.4 Similar populations in MUSTT (Multicenter 
+UnSustained Tachycardia Trial) also showed bene-
+fit.5 In MADIT-II (Multicenter Automatic Defibrillator 
+Implantation Trial II), patients with no arrhyth-
+mia qualifier but with previous MIs and L VEF 
+≤30% derived benefit from ICD. 6 The DEFINITE 
+(Defibrillators in Non-Ischemic Cardiomyopathy 
+Treatment Evaluation) study included only non-
+ischemic patients with L VEF ≤35% and frequent 
+premature ventricular contractions (PVCs) or non-
+sustained ventricular tachycardia (VT).7 There was 
+a trend to mortality benefit, but it ultimately did 
+not achieve significance. In SCD-HEFT (Sudden 
+Cardiac Death in Heart Failure Trial), patients with 
+ischemic and nonischemic cardiomyopathy, L VEF 
+≤35%, and HF class II to III showed benefit with 
+an ICD compared with either amiodarone or pla-
+cebo.8 More recently, the DANISH (Defibrillator 
+Implantation in Patients with Nonischemic Systolic 
+Heart Failure) trial enrolled patients with nonisch-
+emic cardiomyopathy and L VEF ≤35% to ICD or 
+standard care.9 There was no reduction in the pri-
+mary endpoint of total mortality, but there was a 
+reduction in SCD risk. In the DANISH trial, 58% of 
+patients in each limb received CRT, possibly miti-
+gating the benefit of an ICD.
+2. Economic outcomes of ICD implantation for pri-
+mary prevention of SCD were assessed in 3 RCTs 
+(MADIT-I,13 MADIT-II,15 and SCD-HeFT,12 1 obser-
+vational study,10 and 3 simulation models, 11,14,42 all 
+of which had generally consistent results. All stud-
+ies reported increased survival and life expectancy 
+and higher lifetime costs of medical care with an 
+ICD than without an ICD. The incremental cost-
+effectiveness ratios were generally <$60 000 per 
+year of life added by an ICD, which provides high 
+value according to the benchmarks adopted for the 
+current guideline. The value provided by an ICD 
+was consistently high when life expectancy was 
+projected to increase by >1.4 years. 14 In contrast, 
+when survival was not increased by ICD implanta-
+tion, as in the coronary artery bypass graft (CABG) 
+Patch trial,43 the ICD did not provide value, because 
+Recommendations for ICDs and CRTs (Continued)
+COR LOE Recommendations
+Downloaded from http://ahajournals.org by on May 30, 2026
+=== PAGE 49 ===
+Circulation. 2022;145:e895–e1032. DOI: 10.1161/CIR.0000000000001063 May 3, 2022 e943
+CLINICAL STATEMENTS 
+AND GUIDELINES
+Heidenreich et al 2022 AHA/ACC/HFSA Heart Failure Guideline
+the higher costs were unaccompanied by a gain in 
+life expectancy.14
+3. The MADIT-II trial randomized patients with previ-
+ous MI and L VEF <30%, without any limitation of 
+HF class, to ICDs or not. 6 Thirty-seven percent of 
+the patients were in class I congestive heart failure 
+(CHF). Mortality was reduced with an ICD.
+4. Most of the relevant data for the guidelines of 
+CRT in HF come from seminal trials published 
+from 2002 to 2010. The first of these was the 
+MIRACLE (Multicenter InSync Randomized Clinical 
+Evaluation) trial, which took patients with L VEF 
+≤35%, moderate to severe HF, and QRS duration 
+≥130 ms. 16 There was a benefit in the 6-minute 
+walk test, QOL, functional HF classification, and 
+L VEF. The COMPANION (Comparison of Medical 
+Therapy, Pacing and Defibrillation in Heart Failure) 
+trial, which enrolled NYHA class III to IV patients 
+with QRS ≥120 ms, included 3 arms: GDMT, CRT-D, 
+and CRT pacemaker (CRT-P). 17 The primary end-
+point of death or hospitalization was decreased 
+with CRT-P and CRT-D. The CARE-HF (Cardiac 
+Resynchronization Heart Failure) trial included 
+a similar group with NYHA class III to IV, L VEF 
+≤35%, QRS >120 ms, and showed a significant 
+reduction in primary and endpoint of death or hos-
+pitalization.18 In the REVERSE (Resynchronization 
+Reverses Remodeling in Systolic Left Ventricular 
+Dysfunction) trial, patients with NYHA class I to II 
+and L VEF ≤40% were randomized to CRT-D on for 
+1 year and CRT-D off for 1 year or vice versa. 19 A 
+HF composite endpoint was less common when 
+CRT was activated. MADIT-CRT enrolled NYHA 
+class I and II HF with L VEF ≤30% and QRS ≥130 
+ms and compared CRT-D with ICD. 20 The primary 
+endpoint of death or HF was reduced by CRT-D. 
+The RAFT (Resynchronization-Defibrillation for 
+Ambulatory Heart Failure) trial randomized patients 
+with NYHA class II to III HF, L VEF ≤30%, QRS 
+>120 ms, or paced QRS ≥200 ms and compared 
+CRT-D with ICD.21 Again, there was a reduction in 
+the primary endpoint of death or HF hospitalization.
+Figure 8. Algorithm for CRT Indications in Patients With Cardiomyopathy or HFrEF.
+Colors correspond to COR in Table 2. Recommendations for cardiac resynchronization therapy (CRT) are displayed. AF indicates atrial fibrillation; 
+Amb, ambulatory; CM, cardiomyopathy; GDMT, guideline-directed medical therapy; HB, heart block; HF, heart failure; HFrEF, heart failure with 
+reduced ejection fraction; LBBB, left bundle branch block; L V, left ventricular; L VEF, left ventricular ejection fraction; NSR, normal sinus rhythm; 
+NYHA, New York Heart Association; and RV, right ventricular.
+Downloaded from http://ahajournals.org by on May 30, 2026
+=== PAGE 50 ===
+May 3, 2022 Circulation. 2022;145:e895–e1032. DOI: 10.1161/CIR.0000000000001063e944
+CLINICAL STATEMENTS  
+AND GUIDELINES
+Heidenreich et al 2022 AHA/ACC/HFSA Heart Failure Guideline
+5. The economic value of CRT has been evaluated 
+by 3 RCTs (COMPANION, 22 MADIT-CRT, 26 and 
+REVERSE23), 2 model-based analyses, 25,27 and 1 
+observational study.24 These analyses consistently 
+found CRT increased survival and QOL in addition 
+to increasing health care costs. However, the eco-
+nomic value of CRT likely varies as a result of the 
+shown variation in treatment effect.26 Among popu-
+lations with larger expected mortality reduction and 
+improvement in QOL, such as patients with a LBBB 
+with QRS duration >150 ms, the cost per QAL Y is 
+<$60 000.22,26,27 Among other populations expected 
+to have smaller treatment benefit, the economic 
+value is more uncertain. However, a model-based 
+analysis of patients with NYHA class I to II found 
+the incremental cost-effectiveness ratio remained 
+<$150 000 per QAL Y with even small reductions in 
+all-cause mortality.27 Therefore, CRT likely provides 
+at least intermediate value for patients with other 
+guideline-indicated recommendations in which CRT 
+is expected to reduce mortality.
+6. Subgroup analysis of the previously mentioned tri-
+als has informed us of the predictors of benefit, 
+including longer QRS duration, and LBBB versus 
+non-LBBB.28 The most benefit was gained with 
+wider QRS durations and with LBBB. This was 
+true in COMPANION, CARE-HF, MADIT-CRT, 
+REVERSE, and RAFT.17 ,29–32 A QRS duration >150 
+ms was also a predictor of response, and in those 
+with non-LBBB, a prolonged PR predicted benefit 
+in MADIT-CRT but not in REVERSE. 33
+7 . Extension of benefit to those with L VEF between 
+35% and 50% has been seen. In the BLOCK-HF 
+(Biventricular versus Right Ventricular Pacing in 
+Heart Failure) trial, patients with NYHA class I 
+to III HF, L VEF ≤50%, and atrioventricular block 
+randomized to RV pacing or CRT, there was ben-
+efit to CRT in reduction in the primary outcome of 
+death, urgent HF visit, or 15% increase in L V end 
+systolic volume. 34
+8. In the previously mentioned CRT trials, there was 
+some benefit for those with LBBB and QRS dura-
+tions between 120 and 149, but not as much ben-
+efit as those with LBBB ≥150 ms.17 ,28–32
+9. Several trials have included patients with AF. 
+In the MUSTIC AF (Multisite Stimulation in 
+Cardiomyopathies),44 RAFT, 45 and the SPARE 
+(Spanish Atrial Fibrillation and Resynchronization)46 
+trials, there were benefits in patients with AF, 
+while in COMPANION, 47 AF attenuated the ben-
+efit of CRT. In the PAVE (Post AV Nodal Ablation 
+Evaluation) study, patients with NYHA class II to III, 
+mean L VEF of 46%, and AF undergoing atrioven-
+tricular node ablation, CRT improved the 6-minute 
+walk test and L VEF compared with those who were 
+RV paced.35
+10. In patients in whom there is an expected high bur-
+den of ventricular pacing, especially if >40%, CRT 
+may be used to reduce mortality, reduce hospital-
+izations, and improve symptoms and QOL.35,48
+11. Identification of specific arrhythmogenic genetic 
+variants such as LMNA/C, desmosomal proteins, 
+phospholamban, and Filamin-C carry implications 
+for implantation of ICDs for primary prevention 
+of sudden death even in patients who have L VEF 
+>35%, or <3 months of GDMT. Most patients with 
+LMNA/C cardiomyopathy will progress to cardiac 
+transplantation, sometimes precipitated by refrac-
+tory arrhythmias more than by pump failure.36–38,49
+12. Subgroup analysis of the CRT RCTs has shown 
+that patients with L VEFs ≤35%, non-LBBB, and 
+QRS duration of 120 to 149 ms and NYHA class 
+III to ambulatory class IV did not derive as much 
+benefit as those with LBBB ≥120 ms.17 ,28–32
+13. The MADIT-CRT trial included NYHA class I (and 
+class II) patients with ischemic heart disease, L VEF 
+≤30%, and QRS >130 ms. 39 Patients with non-
+ischemic cardiomyopathy were enrolled if they had 
+NYHA class II HF.
+Figure 9. Additional Device Therapies.
+Colors correspond to COR in Table 2. Recommendations for 
+additional nonpharmaceutical interventions that may be considered 
+for patients with HF are shown. GDMT indicates guideline-directed 
+medical therapy; HF, heart failure; HFH, heart failure hospitalization; 
+HFrEF, heart failure with reduced ejection fraction; IV, intravenous; 
+L VEF, left ventricular ejection fraction; L VESD, left ventricular end 
+systolic dimension; MV, mitral valve; MR, mitral regurgitation; NP, 
+natriuretic peptide; NSR, normal sinus rhythm; NYHA, New York 
+Heart Association; and PASP, pulmonary artery systolic pressure.
+Downloaded from http://ahajournals.org by on May 30, 2026
+=== PAGE 51 ===
+Circulation. 2022;145:e895–e1032. DOI: 10.1161/CIR.0000000000001063 May 3, 2022 e945
+CLINICAL STATEMENTS 
+AND GUIDELINES
+Heidenreich et al 2022 AHA/ACC/HFSA Heart Failure Guideline
+14. Extension of benefit to patients with narrow QRS 
+has been attempted but has generally failed. In the 
+RETHINQ (Cardiac Resynchronization Therapy in 
+Patients with Heart Failure and Narrow QRS) trial, 
+patients with QRS duration <130 ms were ran-
+domized to CRT or not.40 There was no benefit from 
+CRT, but subgroup analysis showed there was a 
+benefit with QRS durations between 120 and 130 
+ms. In the ECHO-CRT (Echocardiography Guided 
+Cardiac Resynchronization Therapy) trial, patients 
+with NYHA class III to IV HF, L VEF ≤35% and a 
+QRS duration ≤130 ms, and mechanical dysyn-
+chrony on echocardiography underwent random-
+ization to CRT. 50 There was no benefit to CRT in 
+this trial. And in the LESSER-EARTH (Evaluation 
+of Resynchronization Therapy for Heart Failure) 
+trial, patients with severe L V dysfunction and QRS 
+<120 ms derived no benefit from CRT. 51 The 
+NARROW-CRT (Narrow QRS Ischemic Patients 
+Treated With Cardiac Resynchronization Therapy) 
+was the only trial that showed a benefit in a clinical 
+composite score in patients with an indication for 
+an ICD and QRS <120 ms.52
+15. Subgroup analysis of the CRT trials has shown no 
+benefit for those with L VEF ≤35%, non-LBBB 120 
+to 149, and NYHA class I-II HF.17 ,28–32
+16. The 1-year survival is a standard inclusion for ICD 
+and CRT trials.1–9,16–21
+7.4.2. Other Implantable Electrical Interventions
+Autonomic nervous system modulation is intriguing as a 
+treatment for HFrEF because of the heightened sym-
+pathetic response and decreased parasympathetic re-
+sponse in HF.1 Trials of device stimulation of the vagus 
+nerve, spinal cord, and baroreceptors have had mixed 
+responses.2 An implantable device that electrically stimu-
+lates the baroreceptors of the carotid artery has been 
+approved by the FDA for the improvement of symptoms 
+in patients with advanced HF who are unsuited for treat-
+ment with other HF devices including CRT. In a prospec-
+tive, multicenter, RCT with a total of 408 patients with 
+current or recent NYHA class III HF, L VEF ≤35%, baro-
+receptor stimulation was associated with improvements 
+in QOL, exercise capacity, and NT-proBNP levels. 3 To 
+date, there are no mortality or hospitalization rates results 
+available with this device. Although early trials of vagus 
+nerve stimulation were positive, the largest and latest trial 
+did not show a reduction in mortality and HF hospital-
+izations.4 Multisite L V pacing studies initially were prom-
+ising.5,6 However, more recent data have not confirmed 
+benefit, and the larger phase 2 trial was terminated early 
+for low probability of benefit.7 His bundle and left bundle 
+pacing are attractive because they use the intrinsic con-
+duction system. In observational data, there does appear 
+to be a benefit over RV pacing 8; however, comparisons 
+to CRT are limited. 9,10 Cardiac contractility modulation 
+(CCM), a device-based therapy that involves applying 
+relatively high-voltage, long-duration electric signals to 
+the RV septal wall during the absolute myocardial refrac-
+tory period, has been associated with augmentation of 
+L V contractile performance. CCM is FDA-approved for 
+patients with NYHA class III with L VEF of 25% to 45% 
+who are not candidates for CRT. Four RCTs have shown 
+benefits in exercise capacity and QOL but, as of yet, no 
+benefits in death or hospitalizations.11–14 Most patients in 
+these trials were class III CHF.3
+7.4.3. Revascularization for CAD
+Recommendation for Revascularization for CAD
+Referenced studies that support the recommendation are summarized 
+in the Online Data Supplements.
+COR LOE Recommendation
+1 B-R
+1. In selected patients with HF, reduced EF (EF 
+≤35%), and suitable coronary anatomy, surgical 
+revascularization plus GDMT is beneficial to 
+improve symptoms, cardiovascular hospitaliza-
+tions, and long-term all-cause mortality.1–8
+Synopsis
+CAD is commonly associated with HF, necessitating re-
+vascularization in selected patients with angina or HF 
+symptoms. Data from the STICH Trial showed that, com-
+pared with optimal medical management alone, CABG 
+surgery plus GDMT did not reduce the primary endpoint 
+of all-cause mortality at a median of 56 months; how-
+ever, at 10 years’ follow-up, CABG+GDMT resulted in 
+significant reductions in all-cause mortality, cardiovas-
+cular mortality, and death from any cause or cardiovas-
+cular hospitalization in patients with L VEF ≤35% and 
+ischemic cardiomyopathy.7, 8 Furthermore, a retrospective 
+analysis showed significant reductions in first and recur-
+rent all-cause, cardiovascular, and HF hospitalizations at 
+10 years in patients receiving CABG+ optimal medical 
+therapy compared with optimal medical therapy alone. 2 
+Similar benefits from percutaneous coronary intervention 
+revascularization, in this cohort, have not yet been shown 
+in an RCT, although the REVIVED-BCIS2 (Study of Ef-
+ficacy and Safety of Percutaneous Coronary Intervention 
+to Improve Survival in Heart Failure) trial, which com-
+pares percutaneous coronary intervention with medical 
+therapy in a similar population, is ongoing. 9 Recent data 
+continue to show a benefit of CABG over percutaneous 
+coronary intervention in patients with diabetes, CAD, and 
+L V dysfunction and in patients with left main CAD and 
+moderate or severe L V dysfunction. 4,6,10 Figure 9 sum-
+marizes revascularization and additional device therapy 
+recommendations.
+Recommendation-Specific Supportive Text
+1. CABG has been shown to improve outcomes 
+in patients with left main or left main equivalent 
+Downloaded from http://ahajournals.org by on May 30, 2026
+=== PAGE 52 ===
+May 3, 2022 Circulation. 2022;145:e895–e1032. DOI: 10.1161/CIR.0000000000001063e946
+CLINICAL STATEMENTS  
+AND GUIDELINES
+Heidenreich et al 2022 AHA/ACC/HFSA Heart Failure Guideline
+disease and HF.1,4,10–14 Long-term follow-up shows 
+a reduction in all-cause, cardiovascular, and HF 
+hospitalizations and in all-cause and cardiovascu-
+lar mortality in patients with L V dysfunction who 
+receive CABG and GDMT compared with GDMT 
+alone.2,7 The long-term survival benefit is greater in 
+those with more advanced ischemic cardiomyopa-
+thy (lower EF or 3-vessel disease) and diminishes 
+with increasing age. 5,7 CABG also improves QOL 
+compared with GDMT alone. 3 An RCT of CABG 
+combined with surgical ventricular remodeling com-
+pared with CABG alone did not show a reduction in 
+death or hospitalization, or improvement in symp-
+toms with surgical ventricular remodeling.15 Surgical 
+ventricular remodeling performed at the time of 
+CABG may be useful in patients with intractable HF, 
+large thrombus, or persistent arrhythmias resulting 
+from well-defined aneurysm or scar, if other thera-
+pies are ineffective or contraindicated.15,16
+7 .5. Valvular Heart Disease
+Recommendations for Valvular Heart Disease
+Referenced studies that support the recommendations are summa-
+rized in the Online Data Supplements.
+COR LOE Recommendations
+1 B-R
+1. In patients with HF, VHD should be managed in a 
+multidisciplinary manner in accordance with clini-
+cal practice guidelines for VHD to prevent wors-
+ening of HF and adverse clinical outcomes.1–11
+1 C-LD
+2. In patients with chronic severe secondary MR 
+and HFrEF, optimization of GDMT is recom-
+mended before any intervention for secondary 
+MR related to LV dysfunction.3–5,12–14
+Synopsis
+GDMT applies to all patients with HFrEF, irrespective of 
+the presence of VHD. Significant valve disease warrants 
+evaluation by a multidisciplinary team with expertise in 
+VHD, and management should proceed in accordance 
+with the VHD guidelines.15
+Mitral Regurgitation
+Optimization of GDMT can improve secondary MR as-
+sociated with L V dysfunction and obviate the need for 
+intervention.14,16,17 Therefore, optimizing GDMT and re-
+assessing MR before MV interventions are important. 
+Patients with persistent severe secondary MR despite 
+GDMT may benefit from either surgical or transcatheter 
+repair, depending on clinical scenario. Thus, patient-
+centric conversation with a multidisciplinary cardiovas-
+cular team that includes a cardiologist with expertise 
+in HF is essential when considering MV intervention. 15 
+Two RCTs of transcatheter mitral valve edge-to-edge 
+repair (TEER) in patients with HFrEF and severe sec-
+ondary MR have been performed. The COAPT trial 
+showed significant reduction in HF and all-cause mor-
+tality in patients treated with TEER and GDMT com-
+pared with GDMT alone, while MITRA-FR (Multicentre 
+Study of Percutaneous Mitral Valve Repair MitraClip 
+Device in Patients With Severe Secondary Mitral Re-
+gurgitation) showed no benefit of TEER over GDMT in 
+reducing death or hospitalization. 6 Specifically, trans-
+catheter edge-to-edge MV repair has been shown to be 
+beneficial in patients with persistent symptoms despite 
+GDMT, appropriate anatomy on transesophageal echo-
+cardiography and with L VEF between 20% and 50%, 
+L VESD ≤70 mm, and pulmonary artery systolic pressure 
+≤70 mm Hg6 (Figure 10). Optimal management of sec-
+ondary MR may depend on the degree of MR relative 
+to L V remodeling.4,5,14,18–22 Disproportionate MR (MR out 
+of proportion to L V remodeling) may respond better to 
+procedural interventions that reduce MR, such as CRT, 
+TEER, and MV surgery. Proportionate MR may respond 
+to measures that reverse L V remodeling and reduce L V 
+volumes, such as GDMT and CRT.
+Aortic Stenosis
+In patients with symptomatic aortic stenosis, transcath-
+eter and surgical aortic valve repair can improve survival, 
+symptoms, and L V function. 15 However, the choice of 
+transcatheter aortic valve implantation versus surgical 
+aortic valve replacement is based on shared decision-
+making, indications, and assessment of the risk-benefit 
+profile.23,24 The benefit of GDMT in nonsevere aortic ste-
+nosis and HFrEF is being evaluated in the TAVR UNLOAD 
+(Transcatheter Aortic Valve Replacement to Unload the 
+Left Ventricle in Patients With Advanced Heart Failure) 
+trial.25 GDMT is usually continued in conjunction with 
+clinical surveillance and imaging in patients with nonse-
+vere aortic stenosis and reduced EF.
+Tricuspid Regurgitation
+The severity of secondary tricuspid regurgitation may 
+be dynamic, depending on RV function and pulmonary 
+hypertension, and management entails focusing on 
+underlying causes, such as pulmonary hypertension, 
+RV failure, and HFrEF. Referral to the multidisciplinary 
+team for consideration of intervention might be helpful in 
+patients with refractory tricuspid regurgitation.
+Recommendation-Specific Supportive Text
+1. VHD is a significant cause of HF. In patients with 
+HF, management of VHD should be performed by 
+a multidisciplinary team with expertise in HF and 
+VHD, in accordance with the VHD guidelines. 15 
+Cardiologists with expertise in the management of 
+HF are integral to the multidisciplinary team and to 
+guiding the optimization of GDMT in patients with 
+HF and coexisting valve disease. Severe aortic ste-
+nosis, aortic regurgitation, MR, and tricuspid regur-
+gitation are associated with adverse outcomes and 
+require timely assessment, optimization of medical 
+Downloaded from http://ahajournals.org by on May 30, 2026
+=== PAGE 53 ===
+Circulation. 2022;145:e895–e1032. DOI: 10.1161/CIR.0000000000001063 May 3, 2022 e947
+CLINICAL STATEMENTS 
+AND GUIDELINES
+Heidenreich et al 2022 AHA/ACC/HFSA Heart Failure Guideline
+therapies, and consideration of surgical or transcath-
+eter interventions accordingly to prevent worsening 
+of HF and other adverse outcomes.1–10,12–20,22–35
+2. GDMT, including RAAS inhibition, beta blockers, 
+and biventricular pacing, improves MR and L V 
+dimensions in patients with HFrEF and second-
+ary MR, particularly MR that is proportionate to L V 
+dilatation.1–5,12,13,17 In a small RCT, sacubitril-valsar-
+tan resulted in a significant reduction in effective 
+regurgitant area and in regurgitant volume when 
+compared with valsartan. The COAPT trial showed 
+a mortality benefit with TEER in patients with 
+severe secondary MR, L VEF between 20% and 
+50%, L V end-systolic diameter ≤70 mm, PA systolic 
+pressure ≤70 mm Hg, and persistent symptoms 
+(NYHA class II to IV) while on optimal GDMT, 28 
+and these criteria apply when considering TEER. 
+A cardiologist with expertise in the management 
+of HF is integral to shared decision-making for 
+valve intervention and should guide optimization of 
+GDMT to ensure that medical options for HF and 
+secondary MR have been effectively applied for 
+an appropriate time period and exhausted before 
+considering intervention.
+Figure 10. Treatment Approach in Secondary Mitral Regurgitation.
+Colors correspond to Table 2. AF indicates atrial fibrillation; CABG, coronary artery bypass graft; ERO, effective regurgitant orifice; GDMT, 
+guideline-directed medical therapy; HF, heart failure; L VEF, left ventricular ejection fraction; L VESD, left ventricular end-systolic diameter; 
+MR, mitral regurgitation; MV, mitral valve; PASP, pulmonary artery systolic pressure; RF, regurgitant fraction; RVol, regurgitant volume; and Rx, 
+medication. *Chordal-sparing MV replacement may be reasonable to choose over downsized annuloplasty repair. Adapted from Otto CM, et al.15 
+Copyright 2021 American College of Cardiology Foundation and American Heart Association, Inc.
+Downloaded from http://ahajournals.org by on May 30, 2026
+=== PAGE 54 ===
+May 3, 2022 Circulation. 2022;145:e895–e1032. DOI: 10.1161/CIR.0000000000001063e948
+CLINICAL STATEMENTS  
+AND GUIDELINES
+Heidenreich et al 2022 AHA/ACC/HFSA Heart Failure Guideline
+7 .6. Heart Failure With Mildly Reduced EF 
+(HFmrEF) and Improved EF (HFimpHF)
+7.6.1. HF With Mildly Reduced Ejection Fraction
+Recommendations for HF With Mildly Reduced Ejection Fraction
+Referenced studies that support the recommendations are summa-
+rized in the Online Data Supplements.
+COR LOE Recommendations
+2a B-R
+1. In patients with HFmrEF, SGLT2i can be ben-
+eficial in decreasing HF hospitalizations and 
+cardiovascular mortality.1
+2b B-NR
+2. Among patients with current or previous symp-
+tomatic HFmrEF (LVEF, 41%–49%), use of 
+evidence-based beta blockers for HFrEF, ARNi, 
+ACEi, or ARB, and MRAs may be considered 
+to reduce the risk of HF hospitalization and 
+cardiovascular mortality, particularly among 
+patients with LVEF on the lower end of this 
+spectrum.2–9
+Synopsis
+There are no prospective RCTs for patients specifically 
+with HFmrEF (L VEF, 41%–49%). All data for HFmrEF 
+are from post hoc or subsets of analyses from previous 
+HF trials with patients now classified as HFmrEF. L VEF is 
+a spectrum, and among patients with L VEF 41% to 49%, 
+patients with L VEF on the lower end of this spectrum ap-
+pear to respond to medical therapies similarly to patients 
+with HFrEF. Thus, it may be reasonable to treat these pa-
+tients with GDMT used for treatment of HFrEF. Patients 
+with HFmrEF should have repeat evaluation of L VEF to 
+determine the trajectory of their disease process. Future 
+prospective studies are needed to further clarify treat-
+ment recommendations for patients with HFmrEF. Figure 
+11 summarizes COR 1, 2a, and 2b for HFmrEF.
+Recommendation-Specific Supportive Text
+1. EMPEROR-Preserved (Empagliflozin Outcome Trial 
+in Patients with Chronic Heart Failure with Preserved 
+Ejection Fraction) showed a significant benefit of 
+the SGL T2i, empagliflozin, in patients with symptom-
+atic HF, with L VEF >40% and elevated natriuretic 
+peptides.1 The 21% reduction in the primary com-
+posite endpoint of time to HF hospitalization or car-
+diovascular death was driven mostly by a significant 
+29% reduction in time to HF hospitalization (nonsig-
+nificant lower cardiovascular death [HR, 0.91; 95% 
+CI, 0.76–1.0]), with no benefit on all-cause mortality. 
+Empagliflozin also resulted in a significant reduction 
+in total HF hospitalizations, decrease in the slope 
+of the eGFR decline, and a modest improvement in 
+QOL at 52 weeks. Of note, the benefit was simi-
+lar irrespective of the presence or absence of dia-
+betes at baseline. In a subgroup of 1983 patients 
+with L VEF 41% to 49% in EMPEROR-Preserved, 
+empagliflozin, a SGL T2i, reduced the risk of the pri-
+mary composite endpoint of cardiovascular death or 
+hospitalization for HF.1 Although the benefit in the 
+primary endpoint did not have a significant interac-
+tion by L VEF subgroups (41%–49%, 50%–<60%, 
+and >60%),1 in a subgroup analysis by EF, there 
+was a signal for lower benefit on the primary com-
+posite endpoint, first and recurrent hospitalizations 
+for HF at higher L VEFs >62.5%.10
+2. Post hoc and subsets of analyses of HFrEF trials 
+that included HFmrEF (L VEF 41%–49%) have 
+suggested benefit from use of GDMT for HFrEF (ie, 
+beta blockers, ARNi, ACEi or ARB, and spironolac-
+tone).2,3,5–8 The BBmeta-HF (Beta-blockers in Heart 
+Failure Collaborative Group) performed a meta-anal-
+ysis of 11 HF trials; in a subgroup of 575 patients 
+with L VEF 40% to 49% in sinus rhythm, beta 
+blockers reduced the primary outcome of all-cause 
+and cardiovascular mortality.2 A subgroup analysis 
+of the PARAGON-HF (Prospective Comparison 
+of ARNi with ARB Global Outcomes in HF with 
+Preserved Ejection Fraction) trial for patients with 
+L VEF 45% to 57% (lower range of EFs in the trial) 
+suggested benefit of sacubitril-valsartan versus val-
+sartan alone (rate ratio, 0.78; 95% CI, 0.64-0.95).3 
+In a subgroup of 1322 patients with L VEF 41% to 
+49% in a post hoc analysis of pooled data from the 
+Figure 11. Recommendations for Patients With Mildly 
+Reduced LVEF (41%–49%).
+Colors correspond to COR in Table 2. Medication recommendations 
+for HFmrEF are displayed. ACEi indicates angiotensin-converting 
+enzyme inhibitor; ARB, angiotensin receptor blocker; ARNi, 
+angiotensin receptor-neprilysin inhibitor; HFmrEF, heart failure with 
+mildly reduced ejection fraction; HFrEF, heart failure with reduced 
+ejection fraction; L VEF, left ventricular ejection fraction; MRA, 
+mineralocorticoid receptor antagonist; and SGL T2i, sodium-glucose 
+cotransporter 2 inhibitor.
+Downloaded from http://ahajournals.org by on May 30, 2026
+=== PAGE 55 ===
+Circulation. 2022;145:e895–e1032. DOI: 10.1161/CIR.0000000000001063 May 3, 2022 e949
+CLINICAL STATEMENTS 
+AND GUIDELINES
+Heidenreich et al 2022 AHA/ACC/HFSA Heart Failure Guideline
+CHARM (Candesartan in Heart failure-Assessment 
+of Reduction in Mortality and morbidity) trials, can-
+desartan reduced risk of cardiovascular death and 
+HF hospitalization, the risk of first HF hospitaliza-
+tion, and the risk of recurrent HF hospitalization. 5 
+In a subgroup of 520 patients with L VEF 44% to 
+49% in a post hoc analysis of TOPCAT (Treatment 
+of Preserved Cardiac Function Heart Failure With 
+an Aldosterone Antagonist), spironolactone reduced 
+the risk of the primary composite endpoint of car-
+diovascular death, HF hospitalization, or resusci-
+tated sudden death, which was mostly caused by a 
+reduction in cardiovascular mortality with spirono-
+lactone and among patients enrolled in North and 
+South America.6 Spironolactone is preferred among 
+HFmrEF patients with poorly controlled hyperten-
+sion given previous evidence supporting its use 
+for blood pressure management. 1 Continuation 
+of GDMT for patients with improved HFrEF and 
+HFmrEF is important to reduce risk of recrudescent 
+H F.4 Meta-analyses report diverse findings with neu-
+rohormonal antagonism in patients with HFmrEF, 
+specifying benefit in certain subgroups, underlining 
+the heterogeneity of this phenotype.2,9 Patients with 
+HFmrEF should have repeat evaluation of L VEF to 
+determine the trajectory of their disease process 
+and should undergo testing as clinically indicated 
+to diagnose conditions warranting disease-specific 
+therapy (eg, CAD, sarcoidosis, amyloidosis).
+7.6.2. HF With Improved Ejection Fraction
+Recommendation for HF With Improved Ejection Fraction
+Referenced studies that support the recommendation are summarized 
+in the Online Data Supplements.
+COR LOE Recommendation
+1 B-R
+1. In patients with HFimpEF after treatment, 
+GDMT should be continued to prevent relapse 
+of HF and LV dysfunction, even in patients who 
+may become asymptomatic.1
+Synopsis
+Although GDMT can result in improvement in symptoms, 
+functional capacity, L VEF, and reverse remodeling in 
+patients with HFrEF, 2 in most patients, L V function and 
+structural abnormalities do not fully normalize, and symp-
+toms and biomarker abnormalities may persist or reoc-
+cur. Many patients deemed to have recovered from HF 
+with resolution of symptoms and improvement of L VEF 
+and natriuretic peptide levels will relapse after withdrawal 
+of GDMT.1 Resolution of symptoms and improvement in 
+cardiac function and biomarkers after treatment does not 
+reflect full and sustained recovery but, rather, remission, 
+which requires treatment to be maintained.3 Stage C HF 
+patients are defined as patients with structural heart dis-
+ease with previous or current symptoms of HF. In those 
+patients who do not improve (ie, patients who remain 
+symptomatic or with L V dysfunction), GDMT should not 
+only be continued but also optimized.
+Recommendation-Specific Supportive Text
+1. In an open-label RCT, 1 phased withdrawal of HF 
+medications in patients with previous DCM—who 
+were now asymptomatic, whose L VEF had improved 
+from <40% to ≥50%, whose left ventricular end-
+diastolic volume (L VEDV) had normalized, and who 
+had an NT-proBNP concentration <250 ng/L—
+resulted in relapse of cardiomyopathy and HF 
+in 40% of the patients within 6 months. Relapse 
+was defined by at least 1 of these: 1) a reduction 
+in L VEF by >10% and <50%; 2) an increase in 
+L VEDV by >10% and to higher than the normal 
+range; 3) a 2-fold rise in NT-proBNP concentration 
+and to >400 ng/L; or 4) clinical evidence of HF. 
+Treatment was withdrawn successfully in only 50% 
+of patients.1 Secondary analyses showed worsening 
+Kansas City Cardiomyopathy Questionnaire scores, 
+a substantial reduction in L VEF, and nonsignificant 
+increases in NT-proBNP and L V volumes with with-
+drawal of HF medications.
+7 .7 . Preserved EF (HFpEF)
+7.7.1. HF With Preserved Ejection Fraction
+Recommendations for HF With Preserved Ejection Fraction*
+Referenced studies that support the recommendations are  
+summarized in the Online Data Supplements.
+COR LOE Recommendations
+1 C-LD
+1. Patients with HFpEF and hypertension should 
+have medication titrated to attain blood pres-
+sure targets in accordance with published clini-
+cal practice guidelines to prevent morbidity.1–3
+2a B-R
+2. In patients with HFpEF, SGLT2i can be ben-
+eficial in decreasing HF hospitalizations and 
+cardiovascular mortality.4
+2a C-EO 3. In patients with HFpEF, management of AF can be useful to improve symptoms.
+2b B-R
+4. In selected patients with HFpEF, MRAs may be 
+considered to decrease hospitalizations, par-
+ticularly among patients with LVEF on the lower 
+end of this spectrum.5–7
+2b B-R
+5. In selected patients with HFpEF, the use of 
+ARB may be considered to decrease hospital-
+izations, particularly among patients with LVEF 
+on the lower end of this spectrum.8,9
+2b B-R
+6. In selected patients with HFpEF, ARNi may be 
+considered to decrease hospitalizations, par-
+ticularly among patients with LVEF on the lower 
+end of this spectrum.10,11
+3: No-
+Benefit B-R
+7 . In patients with HFpEF, routine use of nitrates 
+or phosphodiesterase-5 inhibitors to increase 
+activity or QOL is ineffective.12,13
+*See Section 7 .2, “Diuretics and Decongestion Strategies in Patients with 
+HF, ” and Section 10.2, “Management of Atrial Fibrillation (AF) in HF” for recom-
+mendations for use of diuretics and management of AF in HF.
+Downloaded from http://ahajournals.org by on May 30, 2026
+=== PAGE 56 ===
+May 3, 2022 Circulation. 2022;145:e895–e1032. DOI: 10.1161/CIR.0000000000001063e950
+CLINICAL STATEMENTS  
+AND GUIDELINES
+Heidenreich et al 2022 AHA/ACC/HFSA Heart Failure Guideline
+Synopsis
+HFpEF (L VEF ≥ 50%) is highly prevalent, accounting 
+for up to 50% of all patients with HF, and is associ-
+ated with significant morbidity and mortality. 14 HFpEF 
+is a heterogenous disorder, contributed to by comor-
+bidities that include hypertension, diabetes, obesity, 
+CAD, CKD, and specific causes such as cardiac amy-
+loidosis. 15–17  Clinical trials have used variable defini-
+tions of HFpEF (eg, L VEF ≥ 40%, 45%, or 50%, and 
+the varying need for accompanying evidence of struc-
+tural heart disease or elevated levels of natriuretic 
+peptides). 18 Until recently, clinical trials had been 
+generally disappointing, with no benefit on mortality 
+and marginal benefits on HF hospitalizations. 5,8,11,19,20  
+Currently, recommended management is that used 
+for HF in general with use of diuretics to reduce 
+congestion and improve symptoms (see Section 
+7 .1.1 for recommendations for nonpharmacological 
+management and Section 7 .2 for recommendations 
+for diuretics), identification and treatment of spe-
+cific causes such as amyloidosis, and management 
+of contributing comorbidities such as hypertension, 
+CAD, and AF (see Section 10.2 for recommendations 
+on management of AF). Figure 12 summarizes COR 
+1, 2a, and 2b for HFpEF.
+Recommendation-Specific Supportive Text
+1. The role of blood pressure control is well established 
+for the prevention of HF, as well as for reduction 
+of other cardiovascular events and HF mortality in 
+patients without prevalent baseline HF.1–3,21–24 The 
+SPRINT (Systolic Blood Pressure Intervention) 
+trial and meta-analyses established that more 
+intensive blood pressure control in patients with 
+high cardiovascular risk significantly reduces HF 
+and other cardiovascular outcomes. 2,3,25 In recent 
+clinical practice guidelines for hypertension, blood 
+pressure targets in HFpEF are extrapolated from 
+those for treatment of patients with hypertension 
+in general.26 However, the optimal blood pressure 
+goal and antihypertensive regimens are not known 
+for patients with HFpEF. RAAS antagonists includ-
+ing ACEi, ARB, MRA, and possibly ARNi, could be 
+first-line agents given experience with their use in 
+HFpEF trials.8,10,16,20,27 ,28 Beta blockers may be used 
+to treat hypertension in patients with a history of 
+MI,27 symptomatic CAD, or AF with rapid ventricular 
+response. These effects need to be balanced with 
+the potential contribution of chronotropic incompe-
+tence to exercise intolerance in some patients.29
+2. EMPEROR-Preserved (Empagliflozin Outcome 
+Trial in Patients with Chronic Heart Failure with 
+Preserved Ejection Fraction) showed a significant 
+benefit of the SGL T2i, empagliflozin, in symptom-
+atic patients with HF with L VEF >40% and ele-
+vated natriuretic peptides. 30 The 21% reduction 
+in the primary composite endpoint of time to HF 
+hospitalization or cardiovascular death was driven 
+mostly by a significant 29% reduction in time to HF 
+hospitalization (nonsignificant lower cardiovascular 
+death [HR, 0.91; 95% CI, 0.76-1.0]), with no benefit 
+on all-cause mortality. Empagliflozin also resulted in 
+a significant reduction in total HF hospitalizations, 
+decrease in the slope of the eGFR decline, and a 
+modest improvement in QOL at 52 weeks. Of note, 
+the benefit was similar irrespective of the pres-
+ence or absence of diabetes at baseline. Although 
+the benefit in the primary endpoint did not have a 
+significant interaction by L VEF subgroups (<50%, 
+50%–<60%, and >60%),30 in a subgroup analysis 
+by EF, there was a signal for lower benefit on the 
+primary composite endpoint, first and recurrent HF 
+hospitalizations at higher L VEFs >62.5%.31
+3. Large, randomized clinical trial data are unavail-
+able to specifically guide therapy in patients with 
+HFpEF and AF. Currently, the comprehensive care 
+of AF can be extrapolated from the clinical practice 
+guidelines for AF, with individualization of strategies 
+for rate or rhythm control in patients with HFpEF 
+(see also Section 10.2, “Management of Atrial 
+Figure 12. Recommendations for Patients With Preserved 
+LVEF (≥50%).
+Colors correspond to COR in Table 2. Medication recommendations 
+for HFpEF are displayed. ARB indicates angiotensin receptor 
+blocker; ARNi, angiotensin receptor-neprilysin inhibitor; HF, heart 
+failure; HFpEF, heart failure with preserved ejection fraction; L VEF, 
+left ventricular ejection fraction; MRA, mineralocorticoid receptor 
+antagonist; and SGL T2i, sodium-glucose cotransporter-2 inhibitor. 
+*Greater benefit in patients with L VEF closer to 50%.
+Downloaded from http://ahajournals.org by on May 30, 2026
+=== PAGE 57 ===
+Circulation. 2022;145:e895–e1032. DOI: 10.1161/CIR.0000000000001063 May 3, 2022 e951
+CLINICAL STATEMENTS 
+AND GUIDELINES
+Heidenreich et al 2022 AHA/ACC/HFSA Heart Failure Guideline
+Fibrillation (AF) in HF,” for HF specific recommen-
+dations for AF). Although beta blockers and nondi-
+hydropyridine calcium channel blockers are often 
+considered as first-line agents for heart rate con-
+trol in patients with HFpEF, a recent smaller open-
+label trial, RATE-AF in elderly patients with AF 
+and symptoms of HF (most with preserved L VEF), 
+compared the use of the beta blocker, bisoprolol, to 
+digoxin.32 At 6 months, the primary endpoint of QOL 
+was similar between the 2 groups. However, sev-
+eral secondary QOL endpoints, functional capacity, 
+and reduction in NT-proBNP favored digoxin at 12 
+months. There was a similar heart rate reduction 
+in both groups. Of note, more adverse events such 
+as higher rates of dizziness, lethargy, and hypoten-
+sion occurred with beta blockers than digoxin. The 
+comprehensive care of AF is beyond the scope of 
+these guidelines. AF-specific care recommenda-
+tions can be found in separate ACC/AHA clinical 
+practice guidelines.33,34
+4. MRAs improve diastolic function in patients with 
+HFpEF .35 The TOPCAT trial investigated the 
+effects of spironolactone in patients with HFpEF. 
+The small reduction (HR, 0.89) in the composite of 
+death, aborted cardiac death, and HF hospitaliza-
+tion was not statistically significant, although HF 
+hospitalization was reduced (HR, 0.83); adverse 
+effects of hyperkalemia and increasing creati-
+nine levels were more common in the treatment 
+group.5 A post hoc analysis 6 showed efficacy in 
+the Americas (HR 0.83) but not in Russia-Georgia 
+(HR 1.10). A sample of the Russia-Georgia popu-
+lation in the active treatment arm had nondetect-
+able levels of a spironolactone metabolite. Post hoc 
+analyses have limitations, but they suggest a pos-
+sibility of benefit in appropriately selected patients 
+with symptomatic HFpEF (L VEF ≥45%, elevated 
+BNP level or HF admission within 1 year, eGFR 
+>30 mL/min/1.73 m2, creatinine <2.5 mg/dL, and 
+potassium <5.0 mEq/L). Furthermore, another 
+post hoc analysis suggested that the potential effi-
+cacy of spironolactone was greatest at the lower 
+end of the L VEF spectrum.7 Careful monitoring of 
+potassium, renal function, and diuretic dosing at 
+initiation and follow-up are key to minimizing the 
+risk of hyperkalemia and worsening renal function.
+5. Although RAAS inhibition strategies have been 
+successful in the treatment of HFrEF, and RAAS 
+activation is suggested in HFpEF, 36,37 clinical tri-
+als with RAAS inhibition have not showed much 
+benefit in patients HFpEF. In the CHARM-
+Preserved (Candesartan in patients with chronic 
+HF and preserved left-ventricular ejection frac-
+tion) trial, patients with L VEF >40% were ran-
+domized to an ARB, candesartan, or to placebo. 38 
+The primary endpoint (cardiovascular death or 
+HF hospitalization) was not significantly differ-
+ent between the 2 groups (HR, 0.89; 95% CI, 
+0.77–1.03, P=0.118; covariate-adjusted HR, 0.86; 
+P=0.051). Cardiovascular mortality was identical in 
+the 2 groups; HF hospitalizations were lower in the 
+candesartan arm, with borderline statistical signifi-
+cance on the covariate-adjusted analysis only (HR, 
+0.84; 95% CI, 0.70–1.00; P=0.047; unadjusted 
+P=0.072). The number of individuals hospitalized 
+for HF (reported by the investigator) was lower in 
+the candesartan group than placebo (230 versus 
+279; P=0.017). A post hoc analysis of the CHARM 
+trials showed that improvement in outcomes with 
+candesartan was greater at the lower end the L VEF 
+spectrum.39 In a meta-analysis of 7694 patients 
+with HFpEF in 4 trials evaluating ARB, there was 
+no signal for benefit on cardiovascular mortality 
+(HR, 1.02), all-cause mortality (HR, 1.02), or HF 
+hospitalization (HR, 0.92; 95% CI, 0.83–1.02).40,41
+6. In the PARAMOUNT-HF (Prospective Comparison 
+of ARNi With ARB on Management of Heart 
+Failure With Preserved Ejection Fraction) trial, a 
+phase II RCT in patients with HFpEF (L VEF ≥45%), 
+sacubitril-valsartan resulted in a lower level of 
+NT-proBNP after 12 weeks of treatment compared 
+with the ARB, valsartan. 42 In the PARAGON-HF 
+(Prospective Comparison of Angiotensin Receptor 
+Neprilysin Inhibitor With Angiotensin Receptor 
+Blocker Global Outcomes in Heart Failure and 
+Preserved Left Ventricular Ejection Fraction) 
+trial, in 4822 patients with HFpEF (L VEF ≥45%, 
+HF admission within 9 months or elevated natri-
+uretic peptide levels, and eGFR ≥30 mL/min/m 2), 
+sacubitril-valsartan compared with valsartan did 
+not achieve a significant reduction in the primary 
+composite endpoint of cardiovascular death or 
+total (first and recurrent) HF hospitalizations (rate 
+ratio, 0.87; 95% CI, 0.75-1.01; P=0.06).10 Given 
+the primary outcome was not met, other analyses 
+are exploratory. There was no benefit of sacubitril-
+valsartan on cardiovascular death (HR, 0.95) or 
+total mortality (HR, 0.97). There was a signal of 
+benefit for the ARNi for HF hospitalizations (rate 
+ratio, 0.85; 95% CI, 0.72–1.00; P=0.056). The 
+occurrence of hyperkalemia and the composite 
+outcome of decline in renal function favored sacu-
+bitril-valsartan, but it was associated with a higher 
+incidence of hypotension and angioedema. In pre-
+specified subgroup analyses, a differential effect 
+by L VEF and sex was noted. A benefit of sacubitril-
+valsartan compared with valsartan was observed in 
+patients with L VEF below the median (45%–57%; 
+rate ratio, 0.78; 95% CI, 0.64–0.95), and in women 
+(rate ratio, 0.73; 95% CI, 0.59–0.90).10,43,44
+7 . Nitrate therapy can reduce pulmonary conges-
+tion and improve exercise tolerance in patients 
+Downloaded from http://ahajournals.org by on May 30, 2026
+=== PAGE 58 ===
+May 3, 2022 Circulation. 2022;145:e895–e1032. DOI: 10.1161/CIR.0000000000001063e952
+CLINICAL STATEMENTS  
+AND GUIDELINES
+Heidenreich et al 2022 AHA/ACC/HFSA Heart Failure Guideline
+with HFrEF. However, the NEAT-HFpEF (Nitrate’s 
+Effect on Activity Tolerance in Heart Failure With 
+Preserved Ejection Fraction) trial 45 randomized 
+110 patients with EF ≥50% on stable HF therapy, 
+not including nitrates, and with activity limited by 
+dyspnea, fatigue, or chest pain, to either isosorbide 
+mononitrate or placebo and found no beneficial 
+effects on activity levels, QOL, exercise tolerance, 
+or NT-proBNP levels. Although the routine use of 
+nitrates in patients with HFpEF does not appear 
+beneficial, patients with HFpEF and symptom-
+atic CAD may still receive symptomatic relief with 
+nitrates. Phosphodiesterase-5 inhibition augments 
+the nitric oxide system by upregulating cGMP activ-
+ity. The RELAX (Phosphodiesterase-5 Inhibition 
+to Improve Clinical Status and Exercise Capacity 
+in Heart Failure with Preserved Ejection Fraction) 
+trial13 randomized 216 patients with EF ≥50% on 
+stable HF therapy and with reduced exercise tol-
+erance (peak observed VO 2, <60% of predicted) 
+to phosphodiesterase-5 inhibition with sildenafil or 
+placebo. This study did not show improvement in 
+oxygen consumption or exercise tolerance.
+7 .8. Cardiac Amyloidosis
+7.8.1. Diagnosis of Cardiac Amyloidosis
+Recommendations for Diagnosis of Cardiac Amyloidosis
+Referenced studies that support the recommendations are summa-
+rized in the Online Data Supplements.
+COR LOE Recommendations
+1 B-NR
+1. Patients for whom there is a clinical suspi-
+cion for cardiac amyloidosis* 1–5 should have 
+screening for serum and urine monoclonal 
+light chains with serum and urine immuno-
+fixation electrophoresis and serum free light 
+chains. 6
+1 B-NR
+2. In patients with high clinical suspicion for car-
+diac amyloidosis, without evidence of serum or 
+urine monoclonal light chains, bone scintigra-
+phy should be performed to confirm the pres-
+ence of transthyretin cardiac amyloidosis.7
+1 B-NR
+3. In patients for whom a diagnosis of transthyre-
+tin cardiac amyloidosis is made, genetic testing 
+with TTR gene sequencing is recommended to 
+differentiate hereditary variant from wild-type 
+transthyretin cardiac amyloidosis.8
+*LV wall thickness ≥ 14 mm in conjunction with fatigue, dyspnea, or 
+edema, especially in the context of discordance between wall thickness on 
+echocardiogram and QRS voltage on ECG, and in the context of aortic ste-
+nosis, HFpEF, carpal tunnel syndrome, spinal stenosis, and autonomic or 
+sensory polyneuropathy.
+Synopsis
+Cardiac amyloidosis is a restrictive cardiomyopathy with 
+extracellular myocardial protein deposition, most com-
+monly monoclonal immunoglobulin light chains (amyloid 
+cardiomyopathy [AL-CM]) or transthyretin amyloidosis 
+(ATTR-CM). ATTR can be caused by pathogenic vari-
+ants in the transthyretin gene TTR (variant transthyretin 
+amyloidosis, ATTRv) or wild-type transthyretin (wild-type 
+transthyretin amyloidosis, ATTRwt). A diagnostic ap-
+proach is outlined in Figure 13.9
+Recommendation-Specific Supportive Text
+1. Diagnosis of ATTR-CM requires a high index of 
+suspicion. L V thickening (wall thickness ≥14 mm) 
+along with fatigue, dyspnea, or edema should trigger 
+consideration of ATTR-CM, especially with discor-
+dance between wall thickness on echocardiogram 
+and QRS voltage on ECG,10 or other findings such 
+as apical sparing of L V longitudinal strain impair-
+ment on echocardiography and diffuse late-gado-
+linium enhancement on cardiac MRI. ATTR-CM is 
+prevalent in severe aortic stenosis, 1 HFpEF ,2 car-
+pal tunnel syndrome,3 lumbar spinal stenosis,4 and 
+autonomic or sensory polyneuropathy. 5 Practically, 
+screening for the presence of a monoclonal light 
+chain and technetium pyrophosphate ( 99mTc-PYP) 
+scan can be ordered at the same time for con-
+venience, but the results of the 99mTc-PYP scan 
+are interpreted only on the context of a nega-
+tive monoclonal light chain screen. 99mTc-PYP  
+scans may be positive even in AL amyloidosis7 and, 
+thus, a bone scintigraphy scan alone, without con-
+comitant testing for light chains, cannot distinguish 
+ATTR-CM from AL-CM. Serum free light chain 
+(FLC) concentration and serum and urine immu-
+nofixation electrophoresis (IFE) are assessed to 
+rule out AL-CM. IFE is preferred because serum 
+plasma electrophoresis and urine plasma electro-
+phoresis are less sensitive. Together, measurement 
+of serum IFE, urine IFE, and serum FLC is >99% 
+sensitive for AL amyloidosis.6,11
+2. The use of 99mTc bone-avid compounds for bone 
+scintigraphy allows for noninvasive diagnosis 
+of ATTR-CM. 7 99mTc compounds include PYP, 
+3,3-diphosphono-1,2-propanodicarboxylic acid, 
+and hydromethylene diphosphonate, and PYP 
+is used in the United States. In the absence of a 
+light-chain abnormality, the 99mTc-PYP scan is diag-
+nostic of ATTR-CM if there is grade 2/3 cardiac 
+uptake or an H/CL ratio of >1.5. In fact, the pres-
+ence of grade 2/3 cardiac uptake in the absence 
+of a monoclonal protein in serum or urine has a 
+very high specificity and positive predictive value 
+for ATTR-CM.7 SPECT is assessed in all positive 
+scans to confirm that uptake represents myocar-
+dial retention of the tracer and not blood pool or rib 
+uptake signal.12
+Downloaded from http://ahajournals.org by on May 30, 2026
+=== PAGE 59 ===
+Circulation. 2022;145:e895–e1032. DOI: 10.1161/CIR.0000000000001063 May 3, 2022 e953
+CLINICAL STATEMENTS 
+AND GUIDELINES
+Heidenreich et al 2022 AHA/ACC/HFSA Heart Failure Guideline
+3. If ATTR-CM is identified, then genetic sequenc-
+ing of the TTR gene will determine if the patient 
+has a pathological variant (ATTRv) or wild-type 
+(ATTRwt) disease. 12 Differentiating ATTRv from 
+ATTRwt is important because confirmation 
+of ATTRv would trigger genetic counseling 
+and potential screening of family members 
+and therapies, inotersen and patisiran, which 
+are presently approved only for ATTRv with 
+polyneuropathy. 13,14
+Figure 13. Diagnostic and Treatment of Transthyretin Cardiac Amyloidosis Algorithm.
+Colors correspond to COR in Table 2. AF indicates atrial fibrillation; AL-CM, amyloid cardiomyopathy; ATTR-CM, transthyretin amyloid 
+cardiomyopathy; ATTRv, variant transthyretin amyloidosis; ATTRwt, wild-type transthyretin amyloidosis; CHA2DS2-VASc, congestive heart failure, 
+hypertension, age ≥75 years, diabetes mellitus, stroke or transient ischemic attack (TIA), vascular disease, age 65 to 74 years, sex category; ECG, 
+electrocardiogram; H/CL, heart to contralateral chest; HFrEF, heart failure with reduced ejection fraction; IFE, immunofixation electrophoresis; 
+MRI, magnetic resonance imaging; NYHA, New York Heart Association; PYP, pyrophosphate; Tc, technetium; and TTR, transthyretin.
+Downloaded from http://ahajournals.org by on May 30, 2026
+=== PAGE 60 ===
+May 3, 2022 Circulation. 2022;145:e895–e1032. DOI: 10.1161/CIR.0000000000001063e954
+CLINICAL STATEMENTS  
+AND GUIDELINES
+Heidenreich et al 2022 AHA/ACC/HFSA Heart Failure Guideline
+7.8.2. Treatment of Cardiac Amyloidosis
+Recommendations for Treatment of Cardiac Amyloidosis
+Referenced studies that support the recommendations are summa-
+rized in the Online Data Supplements.
+COR LOE Recommendations
+1 B-R
+1. In select patients with wild-type or variant trans-
+thyretin cardiac amyloidosis and NYHA class I 
+to III HF symptoms, transthyretin tetramer sta-
+bilizer therapy (tafamidis) is indicated to reduce 
+cardiovascular morbidity and mortality.1
+Value Statement: 
+Low Value (B-NR)
+2. At 2020 list prices, tafamidis provides low 
+economic value (>$180 000 per QAL Y gained) 
+in patients with HF with wild-type or variant 
+transthyretin cardiac amyloidosis.2
+2a C-LD
+3. In patients with cardiac amyloidosis and AF, 
+anticoagulation is reasonable to reduce the 
+risk of stroke regardless of the CHA2DS2-VASc 
+(congestive heart failure, hypertension, age 
+≥75 years, diabetes mellitus, stroke or transient 
+ischemic attack [TIA], vascular disease, age 65 
+to 74 years, sex category) score.3,4
+Synopsis
+For patients with ATTR-CM and EF ≤40%, GDMT may 
+be poorly tolerated. The vasodilating effects of ARNi, 
+ACEi, and ARB may exacerbate hypotension, especially 
+with amyloid-associated autonomic dysfunction. Beta 
+blockers may worsen HF symptoms as patients with AT-
+TR-CM rely on heart rate response to maintain cardiac 
+output. The benefit of ICDs in ATTR-CM has not been 
+studied in randomized trials, and a case-control study 
+showed unclear benefit. 5 CRT has not been studied in 
+ATTR-CM with HFrEF. Disease-modifying therapies in-
+clude TTR silencers (disrupt hepatic synthesis via mRNA 
+inhibition/degradation: inotersen and patisiran), TTR 
+stabilizers (prevent misfolding/deposition: diflunisal and 
+tafamidis), and TTR disruptors (target tissue clearance: 
+doxycycline, tauroursodeoxycholic acid [TUDCA], and 
+epigallocatechin-3-gallate [EGCG] in green tea). Light 
+chain cardiac amyloidosis is managed by hematology-
+oncology specialists and beyond the scope of cardiolo-
+gists, but diagnosis is often made by cardiologists when 
+cardiac amyloid becomes manifest (Figure 13). AL amy-
+loidosis is treatable, and patients with AL amyloidosis 
+with cardiac involvement should promptly be referred to 
+hematology-oncology for timely treatment. Inotersen and 
+patisiran are associated with slower progression of am-
+yloidosis-related polyneuropathy in ATTRv-CM. 6,7 There 
+are ongoing trials of the impact of inotersen and pati-
+siran and newer generation mRNA inhibitors-degraders 
+on cardiovascular morbidity or mortality. There is limited 
+benefit of diflunisal, 8 doxycycline plus TUDCA, 9,10 and 
+EGCG,11 on surrogate endpoints such as L V mass, but 
+the impact of these agents on cardiovascular morbid-
+ity and mortality has not been assessed. Evaluation and 
+management of autonomic dysfunction, volume status, 
+and arrhythmia are important.
+Recommendation-Specific Supportive Text
+1. Tafamidis is currently the only therapy to improve 
+cardiovascular outcomes in ATTR-CM. 1 Tafamidis 
+binds the thyroxin-binding site of TTR. In the 
+ATTR-ACT (Safety and Efficacy of Tafamidis in 
+Patients With Transthyretin Cardiomyopathy) 
+clinical trial, a randomized trial of patients with 
+ATTRwt-CM or ATTRv-CM and NYHA class I to 
+III symptoms, tafamidis had lower all-cause mor-
+tality (29.5% versus 42.9%) and lower cardio-
+vascular-related hospitalization (0.48 versus 0.70 
+per year) after 30 months. 1 There was a higher 
+rate of cardiovascular-related hospitalizations in 
+patients with NYHA class III HF, potentially attrib-
+utable to longer survival during a more severe 
+period of disease. Given that tafamidis prevents 
+but does not reverse amyloid deposition, tafami-
+dis is expected to have greater benefit when 
+administered early in the disease course. As the 
+survival curves separate after 18 months, patients 
+for whom noncardiac disease is not expected to 
+limit survival should be selected. Benefit has not 
+been observed in patients with class IV symp-
+toms, severe aortic stenosis, or impaired renal 
+function (eGFR <25 mL·min −1·1.73 m −2 body 
+surface area). Tafamidis is available in 2 formula-
+tions: tafamidis meglumine is available in 20-mg 
+capsules; and the FDA-approved dose is 80 mg 
+(4 capsules) once daily. Tafamidis is also avail-
+able in 61-mg capsules; the FDA-approved dose 
+for this new formulation is 61 mg once daily.
+2. One model-based analyses used the results of 
+the ATTR-ACT study 1 to evaluate the cost-effec-
+tiveness of chronic tafamidis compared with no 
+amyloidosis-specific therapy among patients with 
+wild-type or variant transthyretin amyloidosis and 
+NYHA class I to III HF. 2 With assumptions that 
+tafamidis remained effective beyond the clinical 
+trial duration, they estimated tafamidis increased 
+average survival by 1.97 years and QAL Y by 1.29. 
+Despite these large clinical benefits, tafamidis 
+(with an annual cost of $225 000) had an incre-
+mental cost-effectiveness ratio >$180 000 per 
+QAL Y gained, the benchmark used by this guide-
+line for low value. The cost of tafamidis would 
+need to decrease by approximately 80% for it 
+to be intermediate value with a cost per QAL Y 
+<$180 000.
+3. Intracardiac thrombosis occurs in approximately 
+one-third of patients with cardiac amyloidosis, in 
+some cases in the absence of diagnosed AF 3,4,12 
+and regardless of CHA 2DS2-VASc score. 13 The 
+use of anticoagulation reduced the risk of intra-
+cardiac thrombi in a retrospective study. 4 The 
+choice of direct oral anticoagulants (DOAC) 
+Downloaded from http://ahajournals.org by on May 30, 2026

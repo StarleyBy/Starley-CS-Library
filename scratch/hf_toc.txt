@@ -1,0 +1,538 @@
+
+=== PAGE 2 ===
+May 3, 2022 Circulation. 2022;145:e895–e1032. DOI: 10.1161/CIR.0000000000001063e896
+CLINICAL STATEMENTS  
+AND GUIDELINES
+Heidenreich et al 2022 AHA/ACC/HFSA Heart Failure Guideline
+Key Words: AHA Scientific Statements ◼ heart failure ◼ heart failure with reduced ejection fraction ◼ heart failure with preserved ejection fraction 
+◼ heart failure with mildly reduced ejection fraction ◼ systolic heart failure ◼ heart failure rehabilitation ◼ cardiac failure ◼ chronic heart failure  
+◼ acute decompensated heart failure ◼ cardiogenic shock ◼ beta blockers ◼ mineralocorticoid receptor antagonists ◼ ACE inhibitors  
+◼ angiotensin and neprilysin receptor antagonist ◼ sacubitril valsartan ◼ angiotensin receptor antagonist ◼ sodium glucose co-transporter 2  
+◼ SGL T2 inhibitors ◼ cardiac amyloidosis ◼ atrial fibrillation ◼ congestive heart failure ◼ guideline-directed medical therapy  
+◼ diabetes ◼ cardiomyopathy ◼ valvular heart disease ◼ mitral regurgitation ◼ cardiomyopathy in pregnancy ◼ reduced ejection fraction  
+◼ right heart pressure ◼ palliative care ◼ cardio-oncology ◼ social determinants of health
+TABLE OF CONTENTS
+Abstract .............................................................e895
+Top 10 Take-Home Messages ............................e897
+Preamble ........................................................... e898
+1. Introduction ................................................... e899
+1.1. Methodology and Evidence Review .........e899
+1.2. Organization of the Writing Committee ....e899
+1.3. Document Review and Approval .............e899
+1.4. Scope of the Guideline ...........................e899
+1.5. Class of Recommendation and  
+Level of Evidence ...................................e900
+1.6. Abbreviations ......................................... e900
+2. Definition of HF .............................................e901
+2.1. Stages of HF .........................................e901
+2.2. Classification of HF by Left Ventricular 
+Ejection Fraction (L VEF).........................e901
+2.3. Diagnostic Algorithm for Classification  
+of HF According to L VEF .......................e905
+3. Epidemiology and Causes of HF .....................e906
+3.1. Epidemiology of HF ...............................e906
+3.2. Cause of HF ..........................................e907
+4. Initial and Serial Evaluation .............................e908
+4.1. Clinical Assessment: History and  
+Physical Examination .............................e908
+4.1.1. Initial Laboratory and 
+Electrocardiographic Testing  .......e910
+4.2. Use of Biomarkers for Prevention, Initial 
+Diagnosis, and Risk Stratification ............e911
+4.3. Genetic Evaluation and Testing ...............e912
+4.4. Evaluation With Cardiac Imaging.............e913
+4.5. Invasive Evaluation .................................e915
+4.6. Wearables and Remote Monitoring  
+(Including Telemonitoring and Device 
+Monitoring) ............................................e916
+4.7 . Exercise and Functional Capacity  
+Testing ..................................................e917
+4.8. Initial and Serial Evaluation: Clinical 
+Assessment: HF Risk Scoring ................e918
+5. Stage A (Patients at Risk for HF) ...................e919
+5.1. Patients at Risk for HF (Stage A:  
+Primary Prevention) ................................e919
+6. Stage B (Patients With Pre-HF) ......................e921
+6.1. Management of Stage B: Preventing  
+the Syndrome of Clinical HF in  
+Patients With Pre-HF .............................e921
+7 . Stage C HF ...................................................e923
+7 .1. Nonpharmacological Interventions ..........e923
+7 .1.1. Self-Care Support in HF .............e923
+7 .1.2. Dietary Sodium Restriction ..........e925
+7 .1.3. Management of Stage C HF:  
+Activity, Exercise Prescription,  
+and Cardiac Rehabilitation ...........e926
+7 .2. Diuretics and Decongestion Strategies  
+in Patients With HF ................................e927
+7 .3. Pharmacological Treatment for HFrEF .......e928
+7.3.1. Renin-Angiotensin System Inhibition  
+With ACEi or ARB or ARNi ..........e928
+7 .3.2. Beta Blockers .............................e931
+7 .3.3. Mineralocorticoid Receptor  
+Antagonists (MRAs) ....................e931
+7 .3.4. Sodium-Glucose Cotransporter  
+2 Inhibitors .................................e932
+7 .3.5. Hydralazine and Isosorbide  
+Dinitrate .....................................e933
+7 .3.6. Other Drug Treatment .................e934
+7 .3.7 . Drugs of Unproven Value or  
+That May Worsen HF ..................e935
+7 .3.8. GDMT Dosing: Sequencing  
+and Uptitration ............................e937
+7 .3.9. Additional Medical Therapies .......e939
+7 .3.9.1. Management of Stage C  
+HF: Ivabradine ...............e939
+7 .3.9.2. Pharmacological  
+Treatment for Stage C  
+HFrEF (Digoxin) ............e940
+7 .3.9.3. Pharmacological  
+Treatment for Stage C  
+HFrEF: Soluble Guanylyl  
+Cyclase Stimulators .......e941
+7 .4. Device and Interventional Therapies  
+for HFrEF ..............................................e941
+7 .4.1. ICDs and CRTs ...........................e941
+7 .4.2. Other Implantable Electrical 
+Interventions ...............................e945
+7 .4.3. Revascularization for CAD ...........e945
+7 .5. Valvular Heart Disease ...........................e946
+7 .6. Heart Failure With Mildly Reduced  
+EF (HFmrEF) and Improved EF  
+(HFimpHF) ............................................e948
+7 .6.1. HF With Mildly Reduced  
+Ejection Fraction .........................e948
+7 .6.2. HF With Improved Ejection  
+Fraction ......................................e949
+Downloaded from http://ahajournals.org by on May 30, 2026
+=== PAGE 3 ===
+Circulation. 2022;145:e895–e1032. DOI: 10.1161/CIR.0000000000001063 May 3, 2022 e897
+CLINICAL STATEMENTS 
+AND GUIDELINES
+Heidenreich et al 2022 AHA/ACC/HFSA Heart Failure Guideline
+7 .7 . Preserved EF (HFpEF) ..........................e949
+7 .7 .1. HF With Preserved Ejection  
+Fraction ......................................e949
+7 .8. Cardiac Amyloidosis ...............................e952
+7.8.1. Diagnosis of Cardiac Amyloidosis ....e952
+7.8.2. Treatment of Cardiac Amyloidosis ....e954
+8. Stage D (Advanced) HF .................................e955
+8.1. Specialty Referral for Advanced HF ........e955
+8.2. Nonpharmacological Management:  
+Advanced HF ........................................e956
+8.3. Inotropic Support ...................................e957
+8.4. Mechanical Circulatory Support ..............e958
+8.5. Cardiac Transplantation ..........................e960
+9. Patients Hospitalized With Acute  
+Decompensated HF .......................................e960
+9.1. Assessment of Patients Hospitalized  
+With Decompensated HF .......................e960
+9.2. Maintenance or Optimization of  
+GDMT During Hospitalization .................e962
+9.3. Diuretics in Hospitalized Patients: 
+Decongestion Strategy...........................e963
+9.4a. Parenteral Vasodilation Therapy in  
+Patients Hospitalized With HF ................e964
+9.4b. VTE Prophylaxis in Hospitalized  
+Patients .................................................e965
+9.5. Evaluation and Management of  
+Cardiogenic Shock .................................e965
+9.6. Integration of Care: Transitions and  
+Team-Based Approaches .......................e967
+10. Comorbidities in Patients With HF ................e969
+10.1. Management of Comorbidities in  
+Patients With HF ...............................e969
+10.2. Management of AF in HF...................e972
+11. Special Populations ......................................e973
+11.1. Disparities and Vulnerable  
+Populations .......................................e973
+11.2. Cardio-Oncology ................................e975
+11.3. HF and Pregnancy .............................e978
+12. Quality Metrics and Reporting ......................e980
+12.1. Performance Measurement ................e980
+13. Goals of Care ..............................................e980
+13.1. Palliative and Supportive Care, Shared 
+Decision-Making, and End-of-Life ........e980
+14. Recommendation for Patient-Reported  
+Outcomes and Evidence Gaps and  
+Future Research Directions ..........................e986
+14.1. Patient-Reported Outcomes ...............e986
+14.2. Evidence Gaps and Future  
+Research Directions ...........................e986
+References .........................................................e987
+Appendix 1
+  Author Relationships With Industry and  
+Other Entities (Relevant) ...................................e1026
+Appendix 2
+  Reviewer Relationships With Industry and Other 
+Entities (Comprehensive) ..................................e1029
+Appendix 3
+  Appendix for Tables 3 and 4. Suggested  
+Thresholds for Structural Heart Disease and  
+Evidence of Increased Filling Pressures ..............e1032
+TOP 10 TAKE-HOME MESSAGES
+1. Guideline-directed medical therapy (GDMT) for 
+heart failure (HF) with reduced ejection fraction 
+(HFrEF) now includes 4 medication classes that 
+include sodium-glucose cotransporter-2 inhibitors 
+(SGL T2i).
+2. SGL T2i have a Class of Recommendation 2a 
+in HF with mildly reduced ejection fraction 
+(HFmrEF). Weaker recommendations (Class of 
+Recommendation 2b) are made for ARNi, ACEi, 
+ARB, MRA, and beta blockers in this population.
+3. New recommendations for HFpEF are made for 
+SGL T2i (Class of Recommendation 2a), MRAs 
+(Class of Recommendation 2b), and ARNi (Class 
+of Recommendation 2b). Several prior recommen -
+dations have been renewed including treatment of 
+hypertension (Class of Recommendation 1), treat -
+ment of atrial fibrillation (Class of Recommendation 
+2a), use of ARBs (Class of Recommendation 2b), 
+and avoidance of routine use of nitrates or phospho-
+diesterase-5 inhibitors (Class of Recommendation 
+3: No Benefit).
+4. Improved L VEF is used to refer to those patients 
+with previous HFrEF who now have an L VEF 
+>40%. These patients should continue their HFrEF 
+treatment.
+5. Value statements were created for select rec -
+ommendations where high-quality, cost-effec -
+tiveness studies of the intervention have been 
+published.
+6. Amyloid heart disease has new recommendations 
+for treatment including screening for serum and 
+urine monoclonal light chains, bone scintigraphy, 
+genetic sequencing, tetramer stabilizer therapy, and 
+anticoagulation.
+7 . Evidence supporting increased filling pressures is 
+important for the diagnosis of HF if the L VEF is 
+>40%. Evidence for increased filling pressures can 
+be obtained from noninvasive (eg, natriuretic pep -
+tide, diastolic function on imaging) or invasive test -
+ing (eg, hemodynamic measurement).
+8. Patients with advanced HF who wish to prolong 
+survival should be referred to a team specializing 
+in HF. A HF specialty team reviews HF manage -
+ment, assesses suitability for advanced HF thera -
+pies, and uses palliative care including palliative 
+inotropes where consistent with the patient’s 
+goals of care.
+9. Primary prevention is important for those at risk 
+for HF (stage A) or pre-HF (stage B). Stages of 
+Downloaded from http://ahajournals.org by on May 30, 2026
+=== PAGE 4 ===
+May 3, 2022 Circulation. 2022;145:e895–e1032. DOI: 10.1161/CIR.0000000000001063e898
+CLINICAL STATEMENTS  
+AND GUIDELINES
+Heidenreich et al 2022 AHA/ACC/HFSA Heart Failure Guideline
+HF were revised to emphasize the new terminolo -
+gies of “at risk” for HF for stage A and pre-HF for 
+stage B.
+10. Recommendations are provided for select patients 
+with HF and iron deficiency, anemia, hypertension, 
+sleep disorders, type 2 diabetes, atrial fibrillation, 
+coronary artery disease, and malignancy.
+PREAMBLE
+Since 1980, the American College of Cardiology (ACC) 
+and American Heart Association (AHA) have translated 
+scientific evidence into clinical practice guidelines with 
+recommendations to improve cardiovascular health. 
+These guidelines, which are based on systematic meth-
+ods to evaluate and classify evidence, provide a founda-
+tion for the delivery of quality cardiovascular care. The 
+ACC and AHA sponsor the development and publication 
+of clinical practice guidelines without commercial sup-
+port, and members volunteer their time to the writing and 
+review efforts. Guidelines are official policy of the ACC 
+and AHA. For some guidelines, the ACC and AHA part-
+ner with other organizations.
+Intended Use
+Clinical practice guidelines provide recommenda-
+tions applicable to patients with or at risk of developing 
+cardiovascular disease (CVD). The focus is on medical 
+practice in the United States, but these guidelines are rel-
+evant to patients throughout the world. Although guide-
+lines may be used to inform regulatory or payer decisions, 
+the intent is to improve quality of care and align with pa-
+tients’ interests. Guidelines are intended to define prac-
+tices meeting the needs of patients in most, but not all, 
+circumstances and should not replace clinical judgment.
+Clinical Implementation
+Management, in accordance with guideline recommenda-
+tions, is effective only when followed by both practitioners 
+and patients. Adherence to recommendations can be 
+enhanced by shared decision-making between clinicians 
+and patients, with patient engagement in selecting inter-
+ventions on the basis of individual values, preferences, 
+and associated conditions and comorbidities.
+Methodology and Modernization
+The ACC/AHA Joint Committee on Clinical Practice Guide-
+lines (Joint Committee) continuously reviews, updates, and 
+modifies guideline methodology on the basis of published 
+standards from organizations, including the National Acad-
+emy of Medicine (formerly, the Institute of Medicine),1,2 and 
+on the basis of internal reevaluation. Similarly, presentation 
+and delivery of guidelines are reevaluated and modified in 
+response to evolving technologies and other factors to op-
+timally facilitate dissemination of information to health care 
+professionals at the point of care.
+Numerous modifications to the guidelines have been 
+implemented to make them shorter and enhance “user 
+friendliness.” Guidelines are written and presented in a 
+modular, “knowledge chunk” format in which each chunk 
+includes a table of recommendations, a brief synopsis, rec-
+ommendation-specific supportive text and, when appro-
+priate, flow diagrams or additional tables. Hyperlinked 
+references are provided for each modular knowledge 
+chunk to facilitate quick access and review.In recognition 
+of the importance of cost–value considerations, in certain 
+guidelines, when appropriate and feasible, an assessment 
+of value for a drug, device, or intervention may be per-
+formed in accordance with the ACC/AHA methodology.3
+To ensure that guideline recommendations remain cur-
+rent, new data will be reviewed on an ongoing basis by 
+the writing committee and staff. Going forward, targeted 
+sections/knowledge chunks will be revised dynamically 
+after publication and timely peer review of potentially 
+practice-changing science. The previous designations of 
+“full revision” and “focused update” will be phased out. 
+For additional information and policies on guideline devel-
+opment, readers may consult the ACC/AHA guideline 
+methodology manual4 and other methodology articles.5–7
+Selection of Writing Committee Members
+The Joint Committee strives to ensure that the guide-
+line writing committee contains requisite content exper-
+tise and is representative of the broader cardiovascular 
+community by selection of experts across a spectrum of 
+backgrounds, representing different geographic regions, 
+sexes, races, ethnicities, intellectual perspectives/biases, 
+and clinical practice settings. Organizations and profes-
+sional societies with related interests and expertise are 
+invited to participate as partners or collaborators.
+Relationships With Industry and Other Entities
+The ACC and AHA have rigorous policies and methods 
+to ensure that documents are developed without bias or 
+improper influence. The complete policy on relationships 
+with industry and other entities (RWI) can be found online. 
+Appendix 1 of the guideline lists writing committee mem-
+bers’ relevant RWI; for the purposes of full transparency, 
+their comprehensive disclosure information is available in 
+a Supplemental Appendix. Comprehensive disclosure in-
+formation for the Joint Committee is also available online.
+Evidence Review and Evidence Review 
+Committees
+In developing recommendations, the writing committee 
+uses evidence-based methodologies that are based on 
+Downloaded from http://ahajournals.org by on May 30, 2026
+=== PAGE 5 ===
+Circulation. 2022;145:e895–e1032. DOI: 10.1161/CIR.0000000000001063 May 3, 2022 e899
+CLINICAL STATEMENTS 
+AND GUIDELINES
+Heidenreich et al 2022 AHA/ACC/HFSA Heart Failure Guideline
+all available data. 4,5 Literature searches focus on ran-
+domized controlled trials (RCTs) but also include regis-
+tries, nonrandomized comparative and descriptive stud-
+ies, case series, cohort studies, systematic reviews, and 
+expert opinion. Only key references are cited.
+An independent evidence review committee is com-
+missioned when there are ≥ 1 questions deemed of 
+utmost clinical importance and merit formal systematic 
+review to determine which patients are most likely to ben-
+efit from a drug, device, or treatment strategy, and to what 
+degree. Criteria for commissioning an evidence review 
+committee and formal systematic review include absence 
+of a current authoritative systematic review, feasibility of 
+defining the benefit and risk in a time frame consistent 
+with the writing of a guideline, relevance to a substantial 
+number of patients, and likelihood that the findings can 
+be translated into actionable recommendations. Evidence 
+review committee members may include methodologists, 
+epidemiologists, clinicians, and biostatisticians. Recom-
+mendations developed by the writing committee on the 
+basis of the systematic review are marked “SR.”
+Guideline-Directed Medical Therapy
+The term guideline-directed medical therapy (GDMT) 
+encompasses clinical evaluation, diagnostic testing, and 
+both pharmacological and procedural treatments. For 
+these and all recommended drug treatment regimens, the 
+reader should confirm dosage with product insert material 
+and evaluate for contraindications and interactions. Rec-
+ommendations are limited to drugs, devices, and treat-
+ments approved for clinical use in the United States.
+Joshua A. Beckman, MD, MS, FAHA, FACC
+Chair, ACC/AHA Joint Committee on Clinical  
+Practice Guidelines
+1. INTRODUCTION
+1.1. Methodology and Evidence Review
+The recommendations listed in this guideline are, 
+whenever possible, evidence based. An initial exten-
+sive evidence review, which included literature derived 
+from research involving human subjects, published in 
+English, and indexed in MEDLINE (through PubMed), 
+EMBASE, the Cochrane Collaboration, the Agency for 
+Healthcare Research and Quality, and other selected 
+databases relevant to this guideline, was conducted 
+from May 2020 to December 2020. Key search words 
+included but were not limited to the following: heart 
+failure; heart failure with reduced ejection fraction; heart 
+failure with preserved ejection fraction; heart failure with 
+mildly reduced ejection fraction; systolic heart failure; 
+heart failure rehabilitation; cardiac failure; chronic heart 
+failure; acute decompensated heart failure; cardiogenic 
+shock; beta blockers; mineralocorticoid receptor antag-
+onists; ACE-inhibitors, angiotensin and neprilysin recep-
+tor antagonist; sacubitril valsartan; angiotensin receptor 
+antagonist; Sodium glucose co-transporter 2 or SGLT2 
+inhibitors; cardiac amyloidosis; atrial fibrillation; conges-
+tive heart failure; guideline-directed medical therapy; 
+HFrEF; diabetes mellitus; cardiomyopathy; cardiac 
+amyloidosis; valvular heart disease; mitral regurgitation; 
+cardiomyopathy in pregnancy; reduced ejection fraction; 
+right heart pressure; palliative care.
+Additional relevant studies, published through Sep-
+tember 2021 during the guideline writing process, were 
+also considered by the writing committee and added to 
+the evidence tables when appropriate. This guideline was 
+harmonized with other ACC/AHA guidelines published 
+through December 2021.The final evidence tables are 
+included in the Online Data Supplement and summarize 
+the evidence used by the writing committee to formulate 
+recommendations. References selected and published 
+in the present document are representative and not all-
+inclusive.
+1.2. Organization of the Writing Committee
+The writing committee consisted of cardiologists, HF 
+specialists, internists, interventionalists, an electro-
+physiologist, surgeons, a pharmacist, an advanced 
+nurse practitioner, and 2 lay/patient representatives. 
+The writing committee included representatives from 
+the ACC, AHA, and Heart Failure Society of America 
+(HFSA). Appendix 1 of the present document lists writ-
+ing committee members’ relevant RWI. For the purpos-
+es of full transparency, the writing committee members’ 
+comprehensive disclosure information is available in a 
+Supplemental Appendix.
+1.3. Document Review and Approval
+This document was reviewed by 2 official reviewers nom-
+inated by the AHA; 1 official reviewer nominated by the 
+ACC; 2 official reviewers from the HFSA; 1 official Joint 
+Committee on Clinical Practice Guidelines reviewer; and 
+32 individual content reviewers. Reviewers’ RWI informa-
+tion was distributed to the writing committee and is pub-
+lished in this document (Appendix 2).This document was 
+approved for publication by the governing bodies of the 
+ACC, AHA, and HFSA.
+1.4. Scope of the Guideline
+The purpose of the “2022 AHA/ACC/HFSA Guideline 
+for the Management of Heart Failure” (2022 HF guide-
+line) is to provide an update and to consolidate the “2013 
+ACCF/AHA Guideline for the Management of Heart 
+Failure”1 for adults and the “2017 ACC/AHA/HFSA 
+Focused Update of the 2013 ACCF/AHA Guideline for 
+the Management of Heart Failure”2 into a new document. 
+Downloaded from http://ahajournals.org by on May 30, 2026
+=== PAGE 6 ===
+May 3, 2022 Circulation. 2022;145:e895–e1032. DOI: 10.1161/CIR.0000000000001063e900
+CLINICAL STATEMENTS  
+AND GUIDELINES
+Heidenreich et al 2022 AHA/ACC/HFSA Heart Failure Guideline
+Related ACC/AHA guidelines include recommendations 
+relevant to HF and, in such cases, the HF guideline re-
+fers to these documents. For example, the 2019 primary 
+prevention of cardiovascular disease guideline 3 includes 
+recommendations that will be useful in preventing HF, 
+and the 2021 valvular heart disease guideline 4 provides 
+recommendations for mitral valve (MV) clipping in mitral 
+regurgitation (MR).
+Areas of focus include:
+• Prevention of HF.
+• Management strategies in stage C HF, including:
+◦ New treatment strategies in HF, including 
+sodium-glucose cotransporter-2 inhibitors 
+(SGL T2i) and angiotensin receptor-neprilysin 
+inhibitors (ARNi).
+◦ Management of HF and atrial fibrillation (AF), 
+including ablation of AF.
+◦ Management of HF and secondary MR, includ-
+ing MV transcatheter edge-to-edge repair.
+• Specific management strategies, including:
+◦ Cardiac amyloidosis.
+◦ Cardio-oncology.
+• Implantable devices.
+• Left ventricular assist device (L VAD) use in stage D 
+H F.
+The intended primary target audience consists of 
+clinicians who are involved in the care of patients with 
+HF. Recommendations are stated in reference to the 
+patients and their condition. The focus is to provide the 
+most up-to-date evidence to inform the clinician during 
+shared decision-making with the patient. Although the 
+present document is not intended to be a procedural-
+based manual of recommendations that outlines the 
+best practice for HF, there are certain practices that 
+clinicians might use that are associated with improved 
+clinical outcomes.
+In developing the 2022 HF guideline, the writing com-
+mittee reviewed previously published guidelines and 
+related statements. Table 1 contains a list of these guide-
+lines and statements deemed pertinent to this writing 
+effort and is intended for use as a resource, thus obviating 
+the need to repeat existing guideline recommendations.
+1.5. Class of Recommendation and Level of 
+Evidence
+The Class of Recommendation (COR) indicates the 
+strength of recommendation, encompassing the estimat-
+ed magnitude and certainty of benefit in proportion to 
+risk. The Level of Evidence (LOE) rates the quality of sci-
+entific evidence supporting the intervention on the basis 
+of the type, quantity, and consistency of data from clinical 
+trials and other sources (Table 2).1
+1.6. Abbreviations
+Abbreviation Meaning/Phrase
+ACEi angiotensin-converting enzyme inhibitors
+ACS acute coronary syndrome
+ARNi angiotensin receptor-neprilysin inhibitors
+ARB angiotensin (II) receptor blockers
+AF atrial fibrillation
+AL-CM immunoglobulin light chain amyloid cardiomyopathy
+ATTR-CM transthyretin amyloid cardiomyopathy
+ATTRv variant transthyretin amyloidosis
+ATTRwt wild-type transthyretin amyloidosis
+BNP B-type natriuretic peptide
+CABG coronary artery bypass graft
+CAD coronary artery disease
+CCM cardiac contractility modulation
+CHF congestive heart failure
+CKD chronic kidney disease
+CMR cardiovascular magnetic resonance
+COVID-19 coronavirus disease 2019
+CPET cardiopulmonary exercise test
+CRT cardiac resynchronization therapy
+CRT-D cardiac resynchronization therapy with defibrillation
+CRT-P cardiac resynchronization therapy with pacemaker
+CT computed tomography
+CVD cardiovascular disease
+CVP central venous pressure
+DOAC direct-acting oral anticoagulants
+DPP-4 dipeptidyl peptidase-4
+ECG electrocardiogram
+EF ejection fraction
+eGFR estimated glomerular filtration rate
+FDA US Food and Drug Administration
+FLC free light chain
+GDMT guideline-directed medical therapy
+HF heart failure
+HFimpEF heart failure with improved ejection fraction
+HFmrEF heart failure with mildly reduced ejection fraction
+HFpEF heart failure with preserved ejection fraction
+HFrEF heart failure with reduced ejection fraction
+ICD implantable cardioverter-defibrillator
+IFE immunofixation electrophoresis
+LBBB left bundle branch block
+LV left ventricular
+LVAD left ventricular assist device
+LVE DV left ventricular end-diastolic volume
+LVE F left ventricular ejection fraction
+LVH left ventricular hypertrophy
+Downloaded from http://ahajournals.org by on May 30, 2026

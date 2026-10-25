@@ -1,0 +1,2321 @@
+
+=== PAGE 90 ===
+Circulation. 2022;146:e334–e482. DOI: 10.1161/CIR.0000000000001106 December 13, 2022 e423
+Isselbacher et al 2022 ACC/AHA Aortic Disease Guideline
+CLINICAL STATEMENTS 
+AND GUIDELINES
+with abdominal PAU, 23% have disease progres-
+sion on CTA by 8 months of follow-up, although the 
+risk is higher in symptomatic (43%) versus asymp-
+tomatic (17%) patients.7
+8. PREGNANCY IN PATIENTS WITH 
+AORTOPATHY
+8.1. Counseling and Management of Aortic 
+Disease in Pregnancy and Postpartum
+Recommendations for Counseling and Management of Aortic Disease 
+in Pregnancy and Postpartum
+COR LOE Recommendations
+Prepregnancy
+1 C-LD
+1. In patients with genetic aortopathies attributable 
+to syndromic (Marfan syndrome, Loeys-Dietz 
+syndrome, vascular Ehlers-Danlos syndrome) 
+and nsHTAD and who are contemplating preg-
+nancy, genetic counseling before pregnancy to 
+discuss the heritable nature of their condition is 
+recommended.1-4
+1 C-LD
+2. In patients with syndromic and nsHTAD, Turner 
+syndrome, BAV with aortic dilation, and other 
+aortopathy conditions, aortic imaging (with 
+TTE, MRI or CT, or both as appropriate) before 
+pregnancy is recommended to determine aortic 
+ diameters.1-3,5-13
+1 C-LD
+3. In patients with syndromic and nsHTAD, 
+Turner syndrome, BAV with aortic dilation, and 
+other aortopathy conditions, who are contem-
+plating pregnancy, counseling about the risks 
+of aortic dissection related to pregnancy is 
+recommended.2-5,10,12,14
+During Pregnancy
+2a C-EO
+4. In patients with aortic aneurysms, or at increased 
+risk of aortic dissection, or both, it is recom-
+mended that pregnancy be managed by a 
+multidisciplinary team including a maternal fetal 
+medicine specialist and cardiologist, and, if 
+logistically feasible, that delivery be planned in 
+a hospital where the capability for emergency 
+aortic repair is available.
+1 C-LD
+5. In patients with aortopathies who are preg-
+nant, guideline-directed treatment of hyper-
+tension is recommended.61517
+1 C-EO
+6. In patients with syndromic and nsHTAD, 
+beta-blocker therapy during pregnancy and 
+postpartum is recommended, unless contrain-
+dicated.
+1 C-LD
+7 . In pregnant patients with an aortopathic 
+condition or a dilated aortic root or ascend-
+ing aorta, surveillance TTE to monitor aortic 
+diameters and aortic valve function is recom-
+mended each trimester and again several 
+weeks postpartum, although imaging may be 
+more frequent depending on aortic diameter, 
+aortic growth rate, and underlying condi-
+tion.7-9,17 ,18
+1 C-LD
+8. In pregnant patients with aortic disease who 
+require surveillance imaging of the aortic arch, 
+descending, abdominal aorta, or all 3, MRI with-
+out gadolinium is recommended over CT to avoid 
+radiation exposure to the fetus.19,20
+Synopsis
+Pregnancy leads to hemodynamic and hormonal changes 
+and is a risk factor for aortic dissection in women with 
+aortopathy.21 Aortic dissection may occur throughout 
+pregnancy or several weeks postpartum, with most in the 
+third trimester or up to 12 weeks’ postpartum. 21 Women 
+with aortopathy, including Marfan syndrome, 6,7 ,13,14,18,19,22 
+Loeys-Dietz syndrome,2,22,23 vascular Ehlers-Danlos syn-
+drome,3,24 nsHTAD, 25,26 Turner syndrome, 12,27 and BAV 
+with aneurysm21,28 are at risk of pregnancy-related aortic 
+dissection. T ype A aortic dissection in pregnancy associ-
+ates with aortic dilation, but type B aortic dissection may 
+occur without aortic dilation.6,13,22
+Before pregnancy, women with or at risk for aortopa-
+thy undergo TTE (and MRI or CT, as appropriate) and 
+are counseled about risks of aortic dissection informed 
+by specific circumstances. Aortic surveillance imaging 
+throughout pregnancy and several weeks postpartum is 
+performed to monitor aortic size.9
+In women at low risk, vaginal delivery is performed with 
+efforts to lessen hemodynamic stress and shorten the 
+second stage of labor.9,14 Women at increased risk of aor-
+tic complications typically undergo cesarean  delivery.9,14
+In women with aortopathy, prepregnancy genetic 
+counseling, aortic imaging, discussion about aortic dis-
+section risk, and shared decision-making are necessary.9
+Recommendation-Specific Supportive Text
+1. HTAD encompasses conditions in which aortic 
+disease has an underlying genetic trigger or famil-
+ial occurrence.29,30 Marfan syndrome, Loeys-Dietz 
+syndrome, vascular Ehlers-Danlos syndrome, and 
+nsHTAD are autosomal dominant conditions with 
+an inheritance risk of 50%. 9,30 BAV may also be 
+familial. Prepregnancy counseling by a genetic 
+counselor, medical geneticist, or both or aortopathy 
+specialist is recommended to discuss the heritabil-
+ity of these conditions and to identify at risk rela-
+tives and to discuss pregnancy concerns.9,30
+2. Women with aortopathic conditions are at risk for 
+aortic dilation and aortic dissection related to preg-
+nancy.14,22,67 Evaluation of the aortic root, ascending 
+aorta, or both by echocardiogram before preg-
+nancy in women with aortopathy is important for 
+prepregnancy counseling and management during 
+pregnancy.1-3,5-7 ,9,11,13 In conditions that associate 
+with aortic disease distal to the ascending aorta, 
+prepregnancy MRI or CT is performed to evaluate 
+for aortic disease.2,5,9,14 
+3. The risk of type A aortic dissection in pregnancy 
+relates to the aortopathy condition and aortic diam-
+eter, but type B aortic dissection may occur with-
+out significant aortic dilation. 6,22 Most dissections 
+related to pregnancy occur in the third trimester 
+and in the first 12 weeks’ postpartum.21 Awareness 
+Downloaded from http://ahajournals.org by on May 30, 2026
+=== PAGE 91 ===
+December 13, 2022 Circulation. 2022;146:e334–e482. DOI: 10.1161/CIR.0000000000001106e424
+Isselbacher et al 2022 ACC/AHA Aortic Disease Guideline
+CLINICAL STATEMENTS  
+AND GUIDELINES
+of the signs and symptoms of acute aortic dissec-
+tion among stakeholders may improve diagnosis 
+and outcomes. In Marfan syndrome, type A aortic 
+dissection risk is very low when aortic diameters are 
+<4.0 cm and are much higher at diameters >4.5 
+cm. In series of women with TGFBR1 or TGFBR2 
+pathogenic variants, aortic dissection was reported 
+in 0% to 19% of pregnancies.21 Rapid aortic growth 
+in pregnancy is reported in Loeys-Dietz syndrome.2 
+Limited data are available on pregnancy and 
+SMAD3, TGFB2, or TGFB3 pathogenic variants.31,32 
+Maternal mortality rates in vascular Ehlers-Danlos 
+syndrome have ranged from 4% to 25%. 3 Among 
+283 women with vascular Ehlers-Danlos syndrome 
+with 616 delivered pregnancies, 30 women died, 
+with a pregnancy-related death rate of 4.9%. 3 
+Pregnancy has typically been avoided in women 
+with vascular Ehlers-Danlos syndrome. 9 The deci-
+sion to proceed with pregnancy in vascular Ehlers-
+Danlos syndrome is complex and, for some women 
+with specific genetic variants, null mutations, and 
+normal vascular imaging, the risk may be lower, and 
+shared decision-making is required.3 Aortic dissec-
+tion at small aortic diameters has been reported in 
+some patients with nsHTAD.25,26,33 Aortic dissection 
+related to BAV is rare and, when reported, associ-
+ates with aneurysmal dilation.14,21,28
+4. For women with aortopathic conditions, multidisci-
+plinary evaluation before and throughout pregnancy 
+can evaluate and manage BP, aortic diameter, and 
+monitor pregnancy for complications. Delivery in a 
+setting in which cardiothoracic surgery is available 
+for urgent management of aortic dissection allows 
+rapid treatment for this complication. 25 Educating 
+women with aortopathic conditions and their phy-
+sicians about the signs and symptoms of acute 
+aortic dissection may allow earlier diagnosis and 
+improve outcomes.12,21,25
+5. Hypertension is a risk factor for aortic dissection in 
+pregnancy.6 For appropriate patients with or with-
+out hypertension, beta blockers are used through-
+out pregnancy and postpartum, recognizing that 
+fetal growth may be impaired.13,15 Labetalol is sug-
+gested as the beta blocker of choice for use in 
+pregnant women with hypertension.35 Other agents 
+may be required as suggested by international 
+guidelines.16,34 ARBs and ACEIs are contraindi-
+cated during pregnancy because of teratogenicity. 
+Calcium channel blockers are generally avoided, 
+when possible, in Marfan syndrome based on lim-
+ited information and concerns raised from mouse 
+models.34,35
+6. Beta-blocker therapy has been shown to lessen 
+aortic growth rates in Marfan syndrome and is rec-
+ommended to lessen hemodynamic aortic stress in 
+Marfan syndrome and related conditions.4,5,13 In the 
+absence of controlled trials, beta blockers are used 
+in other aortopathic conditions, and continuation of 
+such therapy during pregnancy is recommended 
+unless contraindicated.2,5,9 Shard decision-making 
+is required, understanding that fetal growth and 
+weight may be impaired when beta blockers are 
+used in pregnancy.15 However, in ROPAC (Registry 
+Of Pregnancy And Cardiac disease), there was 
+no significant difference in birth weight in women 
+treated with a beta blocker compared with 
+untreated women (2960 g [2358–3390 g] versus 
+3270 g [2750–3570 g]); P =0.25).14 Because aor-
+tic dissection may occur postpartum, beta-blocker 
+therapy is continued for at least several weeks 
+after delivery and indefinitely for those with indica-
+tions for long-term use.
+7 . Pregnancy-associated increases in maternal blood 
+volume, heart rate, stroke volume and cardiac out-
+put, and neurohormonal activation begin in the 
+first trimester and peak in the third trimester and 
+peripartum period. 9 In women with aortopathic 
+conditions, the aorta may dilate during preg-
+nancy,7 and significant dilation is a risk factor for 
+ROPAC.8,14 Aortic imaging frequency during preg-
+nancy is variable and is performed every trimester 
+but may be performed more frequently depending 
+on individual factors, including the specific aorto-
+pathic condition, aortic diameter, and rate of aortic  
+growth.3,5,9,10,12-14,25 Evaluation of the aorta several 
+weeks postpartum to determine aortic diameter is 
+performed to evaluate for aortic dilation.9
+8. In patients with aortopathy that involves the aortic 
+arch, descending or abdominal aorta or branches, 
+or all of them, cross-sectional imaging identifies 
+aortic anatomy and diameters. MRI without gado-
+linium contrast is low-risk during pregnancy and is 
+preferred over CT for elective imaging to avoid the 
+risks of ionizing radiation exposure to the devel-
+oping fetus.9,19,20 A TEE can be performed during 
+pregnancy, if required, to evaluate the descending 
+aorta.
+8.2. Delivery in Pregnant Patients With 
+Aortopathy
+Recommendations for Delivery in Pregnant Patients With Aortopathy
+COR LOE Recommendations
+1 C-EO
+1. In pregnant patients with a history of chronic 
+aortic dissection, cesarean delivery is recom-
+mended.
+1 C-EO
+2. In pregnant patients with an aortopathy and 
+an aortic diameter of <4.0 cm, vaginal delivery 
+(when otherwise appropriate) is recom-
+mended.
+2a C-EO
+3. In pregnant patients with a diameter of the 
+aortic root, ascending aorta, or both, of ≥4.5 
+cm, cesarean delivery is reasonable.
+Downloaded from http://ahajournals.org by on May 30, 2026
+=== PAGE 92 ===
+Circulation. 2022;146:e334–e482. DOI: 10.1161/CIR.0000000000001106 December 13, 2022 e425
+Isselbacher et al 2022 ACC/AHA Aortic Disease Guideline
+CLINICAL STATEMENTS 
+AND GUIDELINES
+2b C-EO
+4. In pregnant patients with a diameter of the 
+aortic root, ascending aorta, or both, of 4.0 cm 
+to 4.5 cm, vaginal delivery with regional anes-
+thesia, expedited second stage, and assisted 
+delivery may be reasonable.
+2b C-EO
+5. In pregnant patients with syndromic and 
+nsHTAD, and a diameter of the aortic root, 
+ascending aorta, or both, of 4.0 cm to 4.5 cm, 
+cesarean delivery may be considered.
+Synopsis
+The risk of type A aortic dissection related to pregnancy 
+in Marfan syndrome is related to aortic root diameter, 
+with a low risk (∼1%) of aortic dissection at an aortic 
+diameter <4.0 cm and much greater risk at aortic diam-
+eters >4.5 cm. 1-3 Progressive aortic dilation and hyper-
+tension also determine dissection risk. 4-6 Complex and 
+shared decision-making is required when the aorta is 
+between 4.0 cm and 4.5 cm in diameter, recognizing that 
+although some series report low risk,2,7 ,8 aortic dissection 
+related to pregnancy at this diameter may occur. 1 Modi-
+fied World Health Organization classification on cardio-
+vascular risk places women with Marfan syndrome and 
+moderate aortic dilation of 4.0 cm to 4.5 cm in modified 
+World Health Organization class III and those with aor-
+tic diameter >4.5 cm in class IV. 9 Because of increased 
+risk of aortic dissection, pregnancy is avoided when the 
+aortic root diameter is >4.5 cm.1-3,9 T ype B aortic dissec-
+tion is responsible for 20% to 40% of pregnancy-related 
+dissections in Marfan syndrome, often occurring without 
+aortic dilation1,6,8,10 and may occur after previous aortic 
+root replacement in Marfan syndrome and Loeys-Dietz 
+syndrome.11,12 Aortic dissection frequently occurs post-
+partum, with heightened risk up to 12 weeks after deliv-
+ery.1 Patients at risk and their care teams should remain 
+alert to signs and symptoms suggesting acute dissection.
+Recommendation-Specific Supportive Text
+1. Very limited information exists about pregnancy-
+related aortic risks in patients with chronic aortic 
+dissection. Because of concerns for aneurysmal 
+enlargement, recurrent dissection and aortic rup-
+ture, pregnancy is considered to be high risk in 
+women with chronic aortic dissection. To allow opti-
+mal timing of delivery, elective cesarean delivery is 
+usually performed in women with chronic aortic 
+dissection.
+2. T ype A and type B aortic dissection related to preg-
+nancy may occur in Marfan syndrome. 1,2,6 Women 
+with aortic root dilation >4.0 cm and, especially 
+>4.5 cm, are at increased risk of type A aortic dis-
+section during pregnancy and postpartum.1,3 Aortic 
+dissection has been reported to be low risk in small 
+series of women with aortic diameters between 
+4.0 cm and 4.5 cm,2,7 ,8 but aortic dissection related 
+to pregnancy at this diameter may occur. 1 T ype B 
+aortic dissection related to pregnancy may occur 
+without significant aortic dilation and after previous 
+aortic root replacement.1,11
+3. In the absence of controlled trials, cesarean deliv-
+ery is often performed in women with Marfan syn-
+drome and a significantly dilated aorta to allow for 
+a planned delivery.2,9
+4. There are no randomized trials of delivery methods 
+in women with aortopathy. When the aorta is not 
+significantly dilated, vaginal delivery using methods 
+to lessen hemodynamic stress, including regional 
+anesthesia and an expedited second stage and 
+assisted delivery, is often performed.2,8,9 Coexistent 
+lumbosacral dural ectasia, spine disease, or both in 
+women with aortopathic conditions may complicate 
+epidural anesthesia.13,14
+5. Cesarean delivery is often performed in women 
+with Marfan syndrome and aortic dilation of >4.0 
+cm.2,8 Among 27 women with Marfan syndrome 
+and aortic dilation, 21 of 27 women had a vaginal 
+delivery. The cesarean delivery rate was 23.8% and 
+16.7% in women with diameter <4.0 cm and 4.0 
+cm to 4.5 cm, respectively.8
+8.3. Surgery Before Pregnancy in Women With 
+Aortic Disease
+Recommendations for Surgery Before Pregnancy in Women With Aortic 
+Disease
+COR LOE Recommendations
+1 C-LD
+1. In patients with Marfan syndrome and an 
+aortic root diameter of >4.5 cm, aortic surgery 
+before pregnancy is recommended.1-4
+2b C-LD
+If the aortic root diameter is 4.0 cm to 4.5 
+cm, aortic surgery before pregnancy may be 
+considered, especially if there are risk factors 
+for aortic dissection (ie, rapid aortic growth of 
+≥0.3 cm/y or a family history of aortic dissec-
+tion).1,2,5-8
+2a C-EO
+2. In patients with Loeys-Dietz syndrome 
+attributable to pathogenic variants in 
+TGFB2 or TGFB3 and an aortic diameter of 
+≥4.5 cm, surgery before pregnancy is rea-
+sonable.
+2b C-EO
+If the Loeys-Dietz syndrome is attributable 
+to pathogenic variants in TGFBR1, TGFBR2, 
+or SMAD3, and the aortic diameter is ≥ 4.0 
+cm, surgery before pregnancy may be con-
+sidered.
+1 C-EO
+3. In patients with nsHTAD and an aortic diam-
+eter of ≥4.5 cm, surgery before pregnancy is 
+recommended.
+2b C-EO
+If the aortic diameter is 4.0 cm to 4.4 cm, 
+surgery before pregnancy may be considered, 
+depending on the molecular diagnosis, family 
+history, and aortic growth rate.
+Recommendations for Delivery in Pregnant Patients With Aortopathy 
+(Continued)
+COR LOE Recommendations
+Downloaded from http://ahajournals.org by on May 30, 2026
+=== PAGE 93 ===
+December 13, 2022 Circulation. 2022;146:e334–e482. DOI: 10.1161/CIR.0000000000001106e426
+Isselbacher et al 2022 ACC/AHA Aortic Disease Guideline
+CLINICAL STATEMENTS  
+AND GUIDELINES
+1 C-LD
+4. In patients with Turner syndrome and ASI of 
+≥2.5 cm/m2, surgery before pregnancy is rec-
+ommended.9-11
+1 C-EO
+5. In patients with a BAV (in the absence of 
+Turner syndrome or an HTAD) and an aortic 
+diameter of ≥5.0 cm, surgery before preg-
+nancy is recommended.
+1 C-EO
+6. In patients with sporadic aortic root aneu-
+rysms, ascending aortic aneurysms, or both 
+and a diameter of ≥5.0 cm, surgery before 
+pregnancy is recommended.
+Synopsis
+The decision to proceed with operative intervention for 
+an aortic root, ascending aortic aneurysm, or both in a 
+woman contemplating pregnancy is complex and depends 
+on many factors. Considerations that inform this decision 
+include the specific disorder, genetic variant, rate of aortic 
+growth, family history, and phenotype and include shared 
+decision-making (Table 34). Specialists involved in this 
+decision may include aortopathic specialists, cardiologists, 
+medical geneticists, maternal fetal medicine specialists, 
+and aortic surgeons at experienced centers. The risks of 
+aortic surgery should be considered and although prophy-
+lactic aneurysm surgery will prevent proximal aortic dis-
+section, a risk remains of pregnancy-related dissection 
+distal to the aortic graft in HTAD, and this risk may be 
+higher in women with Loeys-Dietz syndrome attributable 
+to pathogenic variants in TGFBR1 and TGFBR2.12,13
+Recommendation-Specific Supportive Text
+1. Women with Marfan syndrome and aortic root 
+dilation >40 mm and especially >4.5 cm are at 
+increased risk of type A aortic dissection during 
+pregnancy and postpartum. 1,2,6,7 ,12 Pregnancy in 
+small series of women with Marfan syndrome and 
+aortic diameters between 4.0 cm and 4.5 cm was 
+reported to be relatively safe in carefully monitored 
+women,1-4 although acute type A aortic dissection 
+may occur.5 The presence of additional risk factors 
+for aortic dissection, including family history of aor-
+tic dissection and rapid aortic growth (≥0.3 cm/y), 
+and patient preference may inform the shared 
+decision for aortic surgery before pregnancy when 
+the aortic diameter is <4.5 cm.8,14,15
+2. Information is lacking about aortic diameters 
+and aortic dissection risk related to pregnancy in 
+Loeys-Dietz syndrome, because most women who 
+were pregnant were unaware of their diagnosis 
+before pregnancy. The size threshold for elec-
+tive surgery to replace the dilated aortic root and 
+ascending aorta in Loeys-Dietz syndrome depends 
+on multiple factors and is informed by the specific 
+pathogenic variant and the family history, rate of 
+aortic growth, extra-aortic phenotypic features, 
+and involves shared decision-making. Patients with 
+TGFB2- and TGFB3-related Loeys-Dietz syndrome 
+may have a lower aortic dissection risk than those 
+with variants in TGFBR1, TGFBR2, or SMAD3.16,17 
+Women with aortic root diameters of >4.0 cm 
+are likely at increased risk for pregnancy-related 
+aortic dissection based on data from women with 
+Marfan syndrome and the more severe aortopathy 
+in Loeys-Dietz syndrome attributable to TGFBR1, 
+TGFBR2, and SMAD3 variants.5,18-20 There were no 
+pregnancy-related aortic dissection reported in a 
+series of women with SMAD3 variants, but only 2 
+women had aortic diameters known before preg-
+nancy (and both were normal).20
+3. Because phenotypic features are absent in 
+patients with nsHTAD because of pathogenic vari-
+ants in multiple genes (eg, ACTA2, MYH11, MYLK, 
+PRKG1, and others), the first manifestation of dis-
+ease may be acute aortic dissection, including that 
+related to pregnancy.21 In a series of patients with 
+ACTA2 pathogenic variants, 20% of aortic dissec-
+tion were related to pregnancy.21 Aortic dissection 
+at small aortic diameters has been reported related 
+Recommendations for Surgery Before Pregnancy in Women With Aortic 
+Disease (Continued)
+COR LOE Recommendations
+Table 34. Prophylactic Aortic Surgery Before Pregnancy in 
+Women With Aortopathic Conditions
+Condition
+Surgical Threshold Before 
+Pregnancy* by Aortic 
+Diameter (cm) or Aortic Size 
+Index (cm/m2)
+Marfan syndrome >4.5 cm
+Marfan syndrome with risk factors 
+(rapid aortic growth of /g1160.3 cm/y; 
+family history of aortic dissection)
+4.0–4.5 cm
+Loeys-Dietz syndrome (attributable 
+to pathogenic variants in TGFBR1, 
+TGFBR2, or SMAD3)
+/g1164.0 cm
+Loeys-Dietz syndrome (attributable 
+to pathogenic variants in TGFB2 or 
+TGFB3)
+/g1164.5 cm
+Nonsyndromic heritable thoracic 
+aortic disease
+/g1164.5 cm†
+Turner syndrome /g1162.5 cm/m2
+Bicuspid aortic valve /g1165.0 cm‡
+*Shared decision-making is required to determine the surgical threshold be-
+fore elective aortic root, ascending aortic surgery, or both and is informed by 
+the condition, speciﬁc pathogenic variant, age, body size, aortic growth rate, 
+phenotype, and family history of aortic dissection, and surgery at smaller aortic 
+diameters may be considered depending on individual circumstances.
+†Aortic dissection related to pregnancy has occurred at small aortic diameters 
+in women with ACTA2 and MYLK pathogenic variants. Prophylactic aortic sur-
+gery before pregnancy at smaller aortic diameters may be reasonable in these 
+conditions and other nonsyndromic heritable thoracic aortic disease and may be 
+informed by the molecular diagnosis, family history, and aortic growth rate.
+‡Prophylactic aortic surgery may be considered at smaller aortic diameters 
+depending on body size, aortic growth rate, and family history.
+Colors correspond to Class of Recommendations in Table 2.
+Downloaded from http://ahajournals.org by on May 30, 2026
+=== PAGE 94 ===
+Circulation. 2022;146:e334–e482. DOI: 10.1161/CIR.0000000000001106 December 13, 2022 e427
+Isselbacher et al 2022 ACC/AHA Aortic Disease Guideline
+CLINICAL STATEMENTS 
+AND GUIDELINES
+to pregnancy in patients with ACTA2- and MYLK-
+related HTAD.21,22 Ruptured type B dissection has 
+been reported.23 Individualized assessment of preg-
+nancy risks based on the specific genetic condition 
+and other individual factors may inform pregnancy 
+management, recognizing that limited information 
+is available to guide decision-making.21,22,24
+4. Among those with Turner syndrome, an ASI 
+>2.0 cm/m 2 is considered dilated, and the risk 
+of aortic dissection in Turner syndrome is great-
+est when the ASI is ≥2.5 cm/m 2.9,10 When aortic 
+dissection occurs in Turner syndrome, almost 90% 
+of cases have an identifiable risk factor, such as 
+underlying aortic dilation, aortic coarctation, BAV, 
+or hypertension.11
+5. Despite the relative frequency of BAV in the popu-
+lation, aortic dissection related to pregnancy in 
+patients with a BAV (and without Turner syndrome 
+or HTAD) is rarely reported. 5,25 In 88 women with 
+BAV and without aortic dilation, there were no 
+cases of aortic dissection in 186 deliveries. 26 In a 
+series of 49 patients with BAV with moderate aortic 
+dilation (median aortic diameter 42 mm) reporting 
+pregnancy outcomes, there were no cases of aor-
+tic dissection.3 When type A aortic dissection did 
+complicate pregnancy in isolated BAV, significant 
+aortic dilation was noted.5,25 There is no evidence-
+based information regarding pregnancy outcomes 
+in women with BAV and aortic diameters >4.5 cm 
+to inform aortic risk. In these cases, pregnancy 
+management and shared decisions about aortic 
+surgery may be informed by other risk factors for 
+dissection, including rapid aortic growth, body size, 
+and family history. Aortic dissection risk increases 
+in patients with BAV when the aortic diameter 
+exceeds 5 cm.27 Because of risk of aortic dissec-
+tion, pregnancy in patients with a BAV and an aor-
+tic diameter of >5.0 cm is classified to be modified 
+World Health Organization class IV, carrying high 
+risk of maternal morbidity and mortality.28
+6. Aortic root and or ascending aortic dilation >4.0 cm 
+in a woman of child-bearing age is uncommon, and 
+its presence should trigger an evaluation for under-
+lying genetic aortopathy.29 Even when there is clear 
+evidence of an autosomal dominant transmission 
+of TAA in a family, currently available molecular 
+genetic technology only identifies a pathogenic 
+variant in a known gene leading to TAA in about 
+20% to 25% of families.29 In sporadic TAA disease, 
+genetic variants are found in even fewer cases. In 
+young patients at low surgical risk with aortic root 
+or ascending aortic aneurysms of 5.0 cm, surgical 
+intervention is performed. Surgery before preg-
+nancy at smaller aortic diameters is sometimes 
+performed and is informed by aortic growth rate, 
+hypertension, surgical expertise, patient wishes, 
+and other factors involving a shared decision 
+depending on individual circumstances.
+8.4. Pregnancy in Patients With Aortopathy: 
+Aortic Dissection and Aortic Surgery in 
+Pregnancy
+Recommendations for Pregnancy in Patients With Aortopathy: Aortic 
+Dissection and Aortic Surgery in Pregnancy
+COR LOE Recommendations
+1 C-LD
+1. In patients experiencing an acute type A aortic 
+dissection during the first or second trimester 
+of pregnancy, urgent aortic surgery with fetal 
+monitoring is  recommended.1-3
+1 C-LD
+2. In patients experiencing an acute type A 
+aortic dissection during the third trimester of 
+pregnancy, urgent cesarean delivery imme-
+diately followed by aortic surgery is recom-
+mended.1-4
+1 C-EO
+3. In patients experiencing an acute type B 
+aortic dissection during pregnancy, medical 
+therapy is recommended, unless endovascular 
+or surgical therapy is required to manage 
+acute complications.5
+2b C-EO
+4. In patients with progressive aortic dilation 
+during pregnancy, prophylactic aortic surgery 
+may be considered, depending on individual 
+circumstances.1,2,4
+Synopsis
+During pregnancy, if marked aortic dilation is present 
+or rapid aortic expansion occurs, risks of maternal aor-
+tic dissection or rupture must be considered. If early in 
+pregnancy, high maternal risk of morbidity or death may 
+warrant pregnancy termination.1,4 Prophylactic aortic sur-
+gery during pregnancy requires complex decision-making 
+and should be individualized based on maternal and fetal 
+risks.1,2,4 Cardiac surgery in the first trimester has risks of 
+fetal developmental defects, while surgery in the third tri-
+mester carries risks to fetal circulation and maternal hemo-
+dynamics.1 Semi-elective surgery during pregnancy may 
+have its lowest collective risk to fetal organogenesis and 
+maternal hemodynamics during the second trimester.1,3,4 If 
+type A aortic dissection occurs during pregnancy, urgent 
+obstetric and cardiac surgical consultation is necessary, 
+because management strategies depend on the viability 
+of the fetus and condition of the mother. If type A aortic 
+dissection occurs in the first 26 weeks, emergency car-
+diac surgery is performed, recognizing risk of fetal loss.1,2,4 
+When duration of pregnancy associates with higher like-
+lihood of independent fetal survival (especially after 28 
+weeks), cesarean delivery followed by aortic repair pro-
+vides the best chances for fetal and maternal survival.1,2,4
+Recommendation-Specific Supportive Text
+1. If type A aortic dissection occurs during the first 2 
+trimesters, emergency aortic surgery is performed 
+Downloaded from http://ahajournals.org by on May 30, 2026
+=== PAGE 95 ===
+December 13, 2022 Circulation. 2022;146:e334–e482. DOI: 10.1161/CIR.0000000000001106e428
+Isselbacher et al 2022 ACC/AHA Aortic Disease Guideline
+CLINICAL STATEMENTS  
+AND GUIDELINES
+first with fetal monitoring and modifications to 
+anesthesia and cardiopulmonary bypass, recogniz-
+ing the high risk of fetal loss.1-4 If acute type A aor-
+tic dissection occurs between 24 and 28 weeks, 
+the care team must balance maternal and fetal 
+risks when deciding between cesarean delivery fol-
+lowed by aortic surgery or aortic surgery with fetal 
+surveillance.1,4
+2. If type A aortic dissection occurs in the third tri-
+mester, given the increased likelihood of inde-
+pendent fetal survival, emergency cesarean 
+delivery followed by maternal aortic surgery is rec-
+ommended.1,2,4 In a series of 20 patients with type 
+A aortic dissection during pregnancy, 19 under-
+went surgical repair and, of those at >28 weeks 
+gestation, delivery first followed by aortic surgery 
+achieved good fetal outcomes.2
+3. Although uncomplicated type B aortic dissection in 
+pregnancy is treated medically, 20% will go on to 
+develop complications that require intervention5; in 
+such cases, endovascular repair is preferred over 
+open surgery, whenever feasible.5
+4. Prophylactic aortic surgery during pregnancy 
+requires complex decision-making, and manage-
+ment is individualized based on maternal and fetal 
+risks and benefits.1,2,4
+9. OTHER AORTIC CONDITIONS
+9.1. Inflammatory Aortitis: Diagnosis and 
+Treatment of Takayasu Arteritis and Giant Cell 
+Arteritis (GCA)
+Recommendations for Inflammatory Aortitis: Diagnosis and Treatment 
+of Takayasu Arteritis and GCA
+Referenced studies that support the recommendations are 
+summarized in the Online Data Supplement.
+COR LOE Recommendations
+Diagnosis
+1 C-LD
+1. In patients with large vessel vasculitis 
+(L VV), prompt evaluation of the entire 
+aorta and branch vessels with MRI or 
+CT, with or without 18F-FDG positron 
+emission tomography (FDG-PET), is 
+ recommended.1-6
+Treatment
+1 B-NR
+2. In patients with active GCA or Takayasu arteri-
+tis, initial medical therapy should include high-
+dose glucocorticoids.7-12
+1 B-R
+3. In patients with GCA who have evidence of 
+active aortitis, tocilizumab is recommended 
+as adjunctive therapy to glucocorticoids, with 
+methotrexate as an alternative.7 ,13,14
+1 C-LD
+4. In all patients with Takayasu arteritis, non-
+biological disease-modifying anti-rheumatic 
+drugs (DMARD) should be given in combina-
+tion with glucocorticoids.7 ,15,16
+1 C-LD
+5. In patients with active GCA or Takayasu 
+arteritis, treatment efficacy should be 
+periodically assessed by monitoring inflam-
+matory serum markers (C-reactive protein 
+and erythrocyte sedimentation rate), imag-
+ing with CT, MRI, or FDG-PET, and clinical 
+symptoms. 1,7 ,15,17-20
+2a C-LD
+6. In patients with GCA or Takayasu arteritis 
+who are in remission, elective endovascular 
+or open surgical intervention is reasonable 
+to treat aortic and branch vessel complica-
+tions.7 ,21
+2a C-EO
+7 . In patients with GCA or Takayasu arteritis 
+and aortic involvement who are in remission, 
+annual surveillance imaging with CT, MRI, or 
+FDG-PET is reasonable.1,7 ,17-19
+Synopsis
+L VV comprises Takayasu arteritis and GCA, which are the 
+most common causes of aortitis.22,23 Other known causes 
+of aortitis include immunoglobulin G4–related disease, 
+antineutrophil cytoplasmic antibody-related vasculitis, 
+sarcoidosis, Behçet’s disease, relapsing polychondritis, 
+and granulomatosis with polyangiitis; many cases of aor-
+titis remain idiopathic. Whereas Takayasu arteritis and 
+GCA tend to affect the thoracic aorta, immunoglobulin 
+G4–related disease most commonly affects the abdomi-
+nal aorta. Diagnostic criteria are summarized in Table 35. 
+Prompt diagnosis and initiation of treatment is of utmost 
+importance, because potential complications include 
+aortic aneurysms, aortic dissection, IMH, PAU, and rup-
+ture, as well as progressive atherosclerosis and throm-
+botic complications. 24 18F-FDG-PET with CT is useful 
+for both the diagnosis of suspected L VV and to evaluate 
+anti-inflammatory treatment response, especially before 
+planned revascularization.4,5 Initial treatment options for 
+Takayasu arteritis and GCA include high-dose glucocor-
+ticoid therapy (prednisone at 40–60 mg/d, or equivalent) 
+or, for select cases, intravenous pulse steroids along with 
+adjunctive therapy, including (but not limited to) tocili-
+zumab and methotrexate (Figures 25 and 26). Revas-
+cularization may be warranted in select cases of stable 
+disease, as well as in AAS.
+Recommendation-Specific Supportive Text
+1. In suspected GCA or Takayasu arteritis, early imag-
+ing can confirm the diagnosis when the results com-
+plement clinical findings.1 Imaging the aorta should 
+be performed as soon as possible so that initiation 
+of treatment is not delayed, given the risk of compli-
+cations from untreated L VV. Sensitivity of diagnostic 
+imaging in the initial diagnosis of L VV decreases 
+Recommendations for Inflammatory Aortitis: Diagnosis and Treatment 
+of Takayasu Arteritis and GCA (Continued)
+COR LOE Recommendations
+Downloaded from http://ahajournals.org by on May 30, 2026
+=== PAGE 96 ===
+Circulation. 2022;146:e334–e482. DOI: 10.1161/CIR.0000000000001106 December 13, 2022 e429
+Isselbacher et al 2022 ACC/AHA Aortic Disease Guideline
+CLINICAL STATEMENTS 
+AND GUIDELINES
+with duration of glucocorticoid treatment. 2 FDG-
+PET has a reported specificity for GCA-related aor-
+titis as high as 100% and CTA about 85%.5 In CT, 
+wall thickening from inflammation may be mistaken 
+for atherosclerosis; however, given CT’s usefulness 
+in assessing occlusive lesions, intimal injury, ulcer-
+ative plaques, and aneurysmal disease, it is often 
+combined with FDG-PET in L VV.1 Evidence is limited 
+for the role of MRI in GCA, but MRI is widely used 
+in Takayasu arteritis given the patients’ younger age 
+at diagnosis and need for lifelong surveillance imag-
+ing.6 If proximal aortic involvement is confirmed by 
+CT or MRI, then echocardiography may be helpful to 
+assess aortic valve function.
+2. Active vasculitis is diagnosed by clinical symp-
+toms of GCA or Takayasu arteritis with evidence 
+of inflammation by serum biomarkers, imaging, or 
+both. High-dose glucocorticoid therapy (prednisone 
+at 40–60 mg/d or equivalent) is standard induction 
+therapy for GCA and Takayasu arteritis and leads 
+to remission and control of active disease in most 
+patients7-12 (Figures 25 and 26). Evidence support-
+ing the efficacy of induction therapy with high-dose 
+intravenous methylprednisolone in GCA comes 
+only from small clinical trials, and thus the 2018 
+recommendations from the European Alliance of 
+Associations for Rheumatology (EULAR; formerly 
+the European League Against Rheumatism) limits 
+its use to patients with severe GCA at risk for blind-
+ness in the acute setting, and administration should 
+not delay oral glucocorticoid treatment. 7-9 Once 
+the acute phase is controlled, glucocorticoid taper 
+should be initiated to reach a target prednisone 
+dose of 15 to 20 mg/d within 2 to 3 months, and 
+≤5 mg/d for GCA and ≤10 mg/d for Takayasu arte-
+ritis after 1 year.7 Older guidelines have supported 
+the use of antiplatelet or anticoagulants in L VV. 
+Evidence from a meta-analysis does not support use 
+of prophylactic antithrombotic therapy in all patients 
+with GCA 25; instead, an individualized approach 
+to antithrombotic therapy is recommended in the 
+acute and chronic phases of GCA and Takayasu 
+arteritis, based on imaging and clinical findings of 
+aortic and branch vessel complications.26
+3. In an RCT of 251 patients with GCA, a 26-week 
+prednisone taper combined with tocilizumab, an 
+interleukin-6 receptor inhibitor, was superior to 
+either a 26-week or 52-week prednisone taper 
+plus placebo in reducing the primary outcome of 
+glucocorticoid-free disease remission at 1 year. 10 
+Tocilizumab gained approval for use in 2017 
+as adjunctive therapy for select patients with 
+GCA, with methotrexate remaining an alternative 
+option.7 ,13,14 The EULAR 2018 updated guidelines 
+recommended limiting the use of adjunctive ther-
+apy to those with refractory or relapsing disease, 
+those at risk of adverse effects of glucocorticoid 
+treatment, or those at risk of cardiovascular com-
+plications (aortitis and major branch vessel involve-
+ment) from GCA7 (Figure 25).
+4. High-quality randomized clinical trial evidence sup-
+porting the use of adjunctive therapy in Takayasu 
+arteritis is limited. However, consensus expert 
+opinion is to initiate DMARDs in combination 
+with glucocorticoids in all patients with Takayasu 
+arteritis, given high relapse rates of up to 70%. 7 
+Nonbiological DMARDs (eg, methotrexate, 
+hydroxychloroquine, azathioprine, sulfamethoxa-
+zole, and leflunomide) are considered first line 
+according to the EULAR 2018 updated guide-
+lines on Takayasu arteritis treatment, with biologi-
+cal DMARDs (eg, tocilizumab or tumor necrosis 
+factor-inhibitors) as second-line agents in select 
+patients who relapse on initial combination ther-
+apy7 ,15,16 (Figure 26). Optimal treatment duration in 
+Takayasu arteritis is less well understood, because 
+Table 35. Diagnostic Criteria for Inﬂammatory Aortitis
+Names Criteria Used in Diagnosis When Is Diagnosis Established?
+Takayasu arteritis Age of onset <40 y
+Intermittent claudication
+/g1163 criteria are present (sensitivity 90.5%; speciﬁcity 97.8%)
+Diminished brachial artery pulse
+Subclavian artery or aortic bruit
+Systolic BP variation of >10 mm Hg between arms
+Aortographic evidence of aorta or aortic branch stenosis
+Giant cell arteritis Age >50 y
+Recent-onset localized headache
+/g1163 criteria are present (sensitivity >90%; speciﬁcity >90%)
+Temporal artery tenderness or pulse attenuation
+Elevated erythrocyte sedimentation rate >50 mm/h
+Arterial biopsy shows necrotizing vasculitis
+Reprinted from Hiratzka et al. 2019.27
+Downloaded from http://ahajournals.org by on May 30, 2026
+=== PAGE 97 ===
+e430
+Isselbacher et al 2022 ACC/AHA Aortic Disease Guideline
+CLINICAL STATEMENTS  
+AND GUIDELINES December 13, 2022 Circulation. 2022;146:e334–e482. DOI: 10.1161/CIR.0000000000001106
+defining remission in Takayasu arteritis is challeng-
+ing. Outcomes measures may include any of these: 
+remission based on clinical criteria, normalization of 
+inflammatory biomarkers, stabilization on serial CT 
+or MRI, improvement on PET-CT imaging, quality 
+of life, and presence of clinical disease relapse. 15 
+A clear need remains for both adequately pow-
+ered randomized clinical trials of Takayasu arteritis 
+therapies and a consensus definition of treatment 
+success.
+5. The EULAR 2018 updated guidelines placed the 
+greatest emphasis on both the improvement of 
+clinical symptoms and the stability of inflammatory 
+biomarkers in defining the remission phase of L VV. 
+Consequently, data are limited regarding the role 
+of surveillance imaging in those with no signs or 
+Figure 25. The 2018 European Alliance of Associations for Rheumatology (EULAR; formerly European League Against 
+Rheumatism) Recommended Algorithms for the Pharmacological Treatment of Giant Cell Arteritis.
+GC indicates glucocorticoids; GCA, giant cell arteritis; and TNF, tumor necrosis factor. Modified from Hellmich et al.7 Copyright 2020, with 
+permission from BMJ Publishing Group Limited.
+Downloaded from http://ahajournals.org by on May 30, 2026
+=== PAGE 98 ===
+Circulation. 2022;146:e334–e482. DOI: 10.1161/CIR.0000000000001106 December 13, 2022 e431
+Isselbacher et al 2022 ACC/AHA Aortic Disease Guideline
+CLINICAL STATEMENTS 
+AND GUIDELINES
+symptoms of active disease. Currently, tomographic 
+imaging is complementary to clinical symptoms and 
+laboratory surveillance, and its use should be indi-
+vidualized, focused mostly on the evaluation of new 
+symptoms or signs of aortic, major branch artery 
+stenoses or aneurysms, or both. 1,7 ,15,17-19 One pro-
+spective cohort study using FDG-PET in disease 
+surveillance of GCA showed reduced inflammatory 
+activity at 3 months after treatment initiation but no 
+further change at 6 months, with most patients in 
+clinical remission still showing positive PET find-
+ings.20 What remains unknown are the potential 
+anatomic consequences of having a positive FDG-
+PET scan despite clinical remission.
+6. In patients with L VV who are in remission and have 
+aortic or branch artery complications that do not 
+Figure 26. The 2018 European Alliance of Associations for Rheumatology (EULAR; formerly European League Against 
+Rheumatism) Recommended Algorithms for the Pharmacological Treatment of Takayasu Arteritis.
+csDMARD indicates conventional synthetic disease modifying antirheumatic drug; GC, glucocorticoids; and TNF, tumor necrosis factor. Modified 
+from Hellmich et al.7 Copyright 2020, with permission from BMJ Publishing Group Limited.
+Downloaded from http://ahajournals.org by on May 30, 2026
+=== PAGE 99 ===
+December 13, 2022 Circulation. 2022;146:e334–e482. DOI: 10.1161/CIR.0000000000001106e432
+Isselbacher et al 2022 ACC/AHA Aortic Disease Guideline
+CLINICAL STATEMENTS  
+AND GUIDELINES
+warrant urgent intervention, the role of elective endo-
+vascular or open surgical repair approach should be 
+determined by a multidisciplinary team including, but 
+not limited to, vascular surgery, vascular medicine, 
+cardiology, and radiology specialists. The risk of such 
+elective intervention is lowest when patients are in 
+the remission phase of the L VV7; therefore, before 
+intervention, imaging with 18F-FDG-PET CT is often 
+helpful to assess treatment response and quantify 
+the degree of ongoing active inflammation.1,4,5,18
+7 . The EULAR consensus definitions for relapse and 
+remission have been incorporated into the 2018 
+updated recommendations for management of 
+LV V.7 A major relapse of GCA and Takayasu arteritis 
+includes recurrence of clinical features of ischemia 
+(ie, visual loss, jaw claudication, limb claudication, 
+stroke) or evidence of active aortic inflammation 
+resulting in branch vessel stenosis, aortic aneurysm, 
+or dissection. Remission of L VV is characterized by 
+lack of new clinical symptoms, a normalization of 
+inflammatory biomarkers, and no evidence of pro-
+gressive aortic and branch artery dilation or nar-
+rowing by surveillance imaging. However, signals 
+of vessel inflammation may persist even in the 
+absence of clinical disease.1,6,19 For those in remis-
+sion, annual surveillance imaging with CT or MRI is 
+useful to detect disease progression in the aortic 
+and branch arteries, even in the absence of inflam-
+mation. More frequent surveillance imaging may be 
+necessary when evidence of active disease pro-
+gression is apparent on annual imaging or if new 
+symptoms suggestive of arterial stenosis arise.
+9.2. Infectious Aortitis
+9.2.1. Diagnosis and Management of Infection of 
+the Native Aorta
+Recommendations for Diagnosis and Management of Infection of the 
+Native Aorta
+COR LOE Recommendations
+1 C-EO
+1. In patients with infectious aortitis and associ-
+ated aneurysms or dissection of the thoracic 
+or abdominal aorta, open surgical repair is 
+recommended.
+2b C-LD In select patients, treatment with endovascular repair may be considered.1-3
+2a C-EO
+2. In patients with infectious aortitis compli-
+cated by rupture, either open or endovas-
+cular repair is reasonable, based on the 
+patient’s status at presentation and institu-
+tional expertise.
+2b C-EO
+3. In patients with infectious aortitis, intravenous 
+antimicrobial therapy of at least 6 weeks’ 
+duration may be considered, with lifelong sup-
+pressive therapy in select cases not amenable 
+to interventional repair or who have recurrent 
+infection.
+Synopsis
+The term “infectious aortitis” describes an infection of 
+the aorta and has supplanted the older term “mycotic 
+aneurysm,” which was used broadly but actually implies a 
+fungal cause. Aortic infections arise from either contigu-
+ous spread from adjacent structures or septic emboli and 
+hematogenous spread of microorganisms to the aortic 
+wall via a vulnerable plaque or preexisting aneurysm. 4 
+Staphylococcus aureus, Pneumococcus, Escherichia coli, 
+and Salmonella are the pathogens identified in most 
+reports.1-6 Syphilitic aortitis, which typically appears 10 
+to 25 years after systemic Treponema pallidum infection, 
+is now rare. Fungal aortitis (from Candida or Aspergil-
+lus) and tuberculous aortitis are uncommon and typically 
+arise in immunocompromised hosts.
+Medical therapy is challenging because the caus-
+ative organism is not always identified, but a prolonged 
+course of antibiotics is often warranted. 4 The mortal-
+ity rate of infectious aortitis is high, because complica-
+tions include sepsis, aneurysm formation (saccular or 
+pseudoaneurysm), erosion and subsequent fistula, dis-
+section, or rupture. CT and MRI can size the aneurysm, 
+detect complications, and aid in interventional plan-
+ning. TEE is especially useful for imaging involvement 
+of the aortic root and associated complications. 5 Open 
+surgical repair is the standard treatment for infectious 
+aortitis; however, in select patients with rupture, fistula, 
+hemodynamic instability, or both, a hybrid or bridging 
+approach with endovascular therapy (Table 36) may be 
+used.2-8
+Recommendation-Specific Supportive Text
+1. A diagnosis of infectious aortitis or mycotic aneu-
+rysm and its complications warrants prolonged 
+antimicrobial therapy regardless of intervention, 
+with 2016 scientific statement from the AHA 
+suggesting a duration of 6 weeks to 6 months, 
+with consideration of lifelong suppressive therapy 
+in some cases. 5 Given the high risk of rupture or 
+contained rupture in infectious aortitis, open sur-
+gical repair is often warranted, although the data 
+supporting open surgical repair are limited, with 
+most evidence derived from single-institution 
+case series and small cohort studies. 6-8 Open 
+surgical repair includes in situ reconstruction or 
+aortic resection with extra-anatomic bypass (ie, 
+axillobifemoral bypass or femorofemoral cross-
+over bypass graft placement) 3; surgical debride-
+ment of all infected tissue is essential to minimize 
+the risk of persistent infection. The use of endo-
+vascular repair has been increasing in select 
+patients with infectious aortitis. 6-8 Limited data are 
+available for comparison of open surgical versus 
+endovascular repair; some small studies showed 
+Downloaded from http://ahajournals.org by on May 30, 2026
+=== PAGE 100 ===
+Circulation. 2022;146:e334–e482. DOI: 10.1161/CIR.0000000000001106 December 13, 2022 e433
+Isselbacher et al 2022 ACC/AHA Aortic Disease Guideline
+CLINICAL STATEMENTS 
+AND GUIDELINES
+similar long-term survival between the 2 methods 
+in treatment of infectious abdominal aortitis, 1-4 
+although the evidence may have selection bias. 
+In a nationwide Swedish retrospective population-
+based cohort study of 132 patients, of whom 50 
+(38%) presented with rupture, using propen-
+sity score analyses, 5-year survival was similar 
+with open repair versus EVAR, at 60% versus 
+58%, respectively. 3 Moreover, the use of EVAR 
+was associated with improved short-term sur-
+vival and was not associated with an increase in 
+infection-related complications or a need for late 
+reoperation.3 Use of endovascular repair in the 
+management of infectious thoracic aneurysms, 
+abdominal aneurysms, or both warrants ongoing 
+study, and at present may be most appropriate 
+as a bridge procedure in cases of instability or 
+impending rupture, or in patients who may not be 
+fit for open surgical intervention 5 (Table 36).
+2. The prognosis is often poor for infectious aor-
+titis, especially if rupture has occurred. 6 From 
+a large single-institution study over 18 years 
+of 2520 patients who underwent surgery for 
+infectious aortic aneurysms, 24% of aneurysms 
+had already ruptured at presentation, and 61% 
+had penetrated into periaortic tissues. 6 Open 
+surgical treatment options include resection 
+of infected aorta with extra-anatomic recon-
+struction (for abdominal aneurysm), or in situ 
+reconstruction (for thoracic aneurysms and 
+some aortoenteric fistulae). 2-5,7 ,8 The choice of 
+intervention is based on multiple factors (Table 
+36), including the location and extension of the 
+aneurysm(s), the presence of fistulae, and the 
+patient’s clinical status. In select patients with 
+aneurysm rupture and hemodynamic instabil-
+ity and/or uncontrolled bleeding, endovascular 
+repair may be used. 6
+3. Because peripheral blood cultures and surgical 
+specimen cultures may be negative in a large 
+proportion of patients with infectious aortitis, 5 the 
+choice of antimicrobial agents may be empiric, 
+and infectious disease experts are usually 
+involved in directing therapy. Treatment with anti-
+microbial therapy alone (ie, without intervention) 
+is associated with high mortality rate and may not 
+prevent aneurysm expansion or rupture 6,9,10 and 
+is thus reserved for patients who are not can-
+didates for open or endovascular repair or for 
+those in whom a palliative approach is appropri-
+ate. No clinical trial data are available to define 
+the optimal duration of antimicrobial therapy, 
+whether as solo therapy or as adjunctive therapy 
+to aortic intervention, but expert opinion suggests 
+a duration of at least 6 weeks, and possibly lon-
+ger.5,11 Because the response of uncomplicated 
+(without rupture or fistulae) infectious aortitis to 
+antimicrobial therapy may influence the choice 
+of interventional approach, it is also reasonable 
+to have patients undergo surveillance imaging 
+at intervals deemed appropriate by a multidisci-
+plinary care team.
+Table 36. Management of Aortic Mycotic Aneurysm: Comparison of Resection and Extra-Anatomic Reconstruction, In Situ 
+ Reconstruction, or Endovascular Device Repair
+ProcedureP otential Indications* Advantages Disadvantages
+Extra-anatomic 
+ reconstruction
+Infrarenal location with gross puru-
+lence, psoas or retroperitoneal ab-
+scess, vertebral osteomyelitis, inade-
+quate response to antibiotic therapy, 
+selected aortoenteric ﬁstulae
+Avoids placement of foreign body in 
+infected area
+Not technically feasible for thoracic, suprarenal, 
+or visceral location or for emergency use
+Long operating time
+Long-term patency rates low Stump blowout
+Limb ischemia, amputation
+Reinfection rate higher than for in situ recon-
+struction
+Ischemic colitis
+In situ reconstruction Thoracic, suprarenal, infrarenal, or 
+visceral location
+Selected aortoenteric ﬁstulae
+More versatile than extra-anatomic: 
+fewer long-term complications, higher 
+patency rates, lower recurrent infection 
+rate, shorter operating time
+Polyester grafts† available for emer-
+gency surgery
+Theoretical risk of infection because of interposi-
+tion of foreign material in infected site
+Endovascular device 
+repair
+Bridge procedure‡: hemodynamic 
+instability, uncontrolled bleeding, 
+rupture or impending rupture, se-
+lected patients with aortocentric 
+ﬁstulae, patients who are not ﬁt for 
+open surgery
+Emergency stabilization
+Low early morbidity, mortality Less 
+invasive
+No cross-clamping of aorta: spinal cord 
+injury, reperfusion injury
+Persistent infections and device infections
+Higher long-term morbidity, mortality with device 
+retention
+Requires device explanation, reconstruction
+*Potential indication; must be individualized for each patient.
+†Polyester grafts, rifampin-soaked or silver-coated; less experience reported with cryopreserved arterial allografts or venous autografts.
+‡Bridge procedure, used to stabilize patients until device explanation and arterial reconstruction.
+Adapted from Wilson et al5 with permission of the American Heart Association, Inc. Copyright 2016 American Heart Association, Inc.
+Downloaded from http://ahajournals.org by on May 30, 2026
+=== PAGE 101 ===
+December 13, 2022 Circulation. 2022;146:e334–e482. DOI: 10.1161/CIR.0000000000001106e434
+Isselbacher et al 2022 ACC/AHA Aortic Disease Guideline
+CLINICAL STATEMENTS  
+AND GUIDELINES
+9.2.2. Diagnosis and Management of Prosthetic 
+Aortic Graft Infection
+Recommendations for Diagnosis and Management of Prosthetic Aortic 
+Graft Infection
+fmkReferenced studies that support the recommendations are 
+summarized in the Online Data Supplement.
+COR LOE Recommendations
+Diagnosis
+2a B-NR
+1. In patients with a prosthetic aortic graft, 
+who have signs and symptoms or culture 
+evidence of unexplained infection or have 
+unexplained gastrointestinal bleeding, 
+cross-sectional imaging is reasonable 
+to evaluate for an underlying aortic graft 
+infection. 1-6
+Treatment
+2a B-NR
+2. In patients with an infected prosthetic aor-
+tic graft who are hemodynamically stable 
+and have appropriate anatomy, it is reason-
+able to perform open surgery with either 
+in situ reconstruction or extra-anatomic 
+bypass. 7-13
+2a B-NR
+3. In patients with an infected prosthetic 
+aortic graft who are hemodynamically 
+unstable, it is reasonable to perform 
+open surgery with either explant or in situ 
+ reconstruction. 7
+2a C-LD
+4. In patients with an infected prosthetic aortic 
+graft, endovascular therapy is reasonable, 
+either as bridge therapy in those with hemo-
+dynamic instability or as long-term therapy in 
+those who are unsuitable candidates for open 
+surgery.13-15
+Late Management
+1 C-LD
+5. In patients who have undergone treatment 
+of an acute prosthetic aortic graft infection, 
+targeted intravenous antimicrobial therapy 
+of at least 6 weeks’ duration, with prolonged 
+suppressive oral therapy in select cases, 
+plus a consultation and follow-up with an 
+infectious disease specialist, is recommen
+ded.7 ,11,12,16,17
+2b C-LD
+6. In patients with an infected prosthetic aor-
+tic graft and either an extensive perigraft 
+abscess or an infection caused by methicillin-
+resistant S. aureus, Pseudomonas aeruginosa, 
+or a multidrug-resistant microorganism, or 
+who have undergone in situ reconstruction, 
+lifelong suppressive oral antimicrobial therapy 
+may be considered after the initial course of 
+therapy.14,15,18,19
+Synopsis
+Recommendations in this section apply to prosthetic 
+aortic grafts. This includes tube grafts placed via open 
+surgery as well as endovascular stent grafts. Although 
+these grafts are typically made with Dacron or polytet-
+rafluoroethylene, these recommendations also apply to 
+allografts (eg, cryopreserved aorta) and autografts (eg, 
+femoral vein).
+Aortic graft infection is uncommon (0.3%–3%). 20-22  
+Extension to the groin increases the risk of subsequent 
+infection. Although some studies suggest a lower risk 
+with endovascular versus open repair, the EVAR-1 (UK 
+Endovascular Aneurysm Repair 1) RCT and a large 
+Medicare analysis found equivalent rates of graft infec-
+tion.23-25 Common sources of infection include: contami-
+nation at the time of implantation; graft enteric erosion or 
+fistula to adjacent bowel, esophagus, or airway; or, rarely, 
+hematogenous spread from remote infection. Suspicion 
+is usually raised by symptoms, laboratory test abnormali-
+ties, or axial imaging findings. In the presence of an aor-
+tic graft infection, no surgical option is clearly superior. 
+Basic tenets are to remove all infected tissue, includ-
+ing the graft and surrounding tissue, reconstruction of 
+distal flow either as an extra-anatomic or in situ bypass, 
+and coverage of the contaminated field with omen-
+tum, muscle flaps, or pleura. Previously, extra-anatomic 
+bypass followed 24 to 48 hours later by graft explant and 
+oversewing of the aortic stump was considered the gold 
+standard for abdominal aortic infection but is usually not 
+appropriate for the thoracic aorta. Aortic allografts, deep 
+vein, and silver-impregnated or rifampin-soaked pros-
+thetic grafts placed in situ have all shown good results 
+as well, often with lower complication rates. A 6-week 
+course of intravenous antibiotics is typically used, some-
+times followed by long-term oral suppressive therapy.
+Recommendation-Specific Supportive Text
+1. Early graft infection (≤3 mo) is often associated 
+with fever and back pain, whereas late graft infec-
+tions (>3 mo) may have an insidious onset with 
+symptoms of fatigue and malaise, or may have 
+fever, an elevated white blood cell count, eryth-
+rocyte sedimentation rate, C-reactive protein, or 
+advanced signs of sepsis with hemodynamic insta-
+bility or frank hemorrhage from rupture or fistulae 
+to adjacent bowel, esophagus, or airway. Because 
+these signs and symptoms are nonspecific for site 
+of infection, the initial workup should include basic 
+blood work, blood cultures, and axial imaging, pref-
+erably with CTA. In those patients with bleeding, 
+endoscopy may be used to rule out other causes 
+and potentially temporize bleeding. Findings of 
+graft infection on CT include peri-graft air, abscess, 
+inflammatory changes, pseudoaneurysms, or frank 
+hemorrhage. CTA has a sensitivity of 94% and 
+specificity of 85% to 100% with advanced graft 
+infection, but the sensitivity is only 64% for those 
+with low-grade infection. 1,2 The sensitivity and 
+specificity for low-grade infection may be increased 
+from 77% to 93% and 70% to 89%, respectively, 
+with the use of PET-CT.3-5 MRI, tagged white blood 
+cell scans, or both may also be useful, depending 
+on local expertise and availability.6
+2. Extra-anatomic bypass with subsequent graft 
+explant, aortic stump oversewing, and omental cov-
+erage has a reasonably low rate of reinfection but a 
+Downloaded from http://ahajournals.org by on May 30, 2026
+=== PAGE 102 ===
+Circulation. 2022;146:e334–e482. DOI: 10.1161/CIR.0000000000001106 December 13, 2022 e435
+Isselbacher et al 2022 ACC/AHA Aortic Disease Guideline
+CLINICAL STATEMENTS 
+AND GUIDELINES
+relatively high rate of amputation and occlusion and 
+is susceptible to stump blow-out. 7, 8 In situ venous 
+reconstruction has the lowest rate of reinfection 
+but is associated with long operative times, size 
+mismatch, and lower extremity venous morbidity. 7, 9 
+Cryopreserved allografts have a low rate of rein-
+fection (similar to vein) but are susceptible to early 
+and late degeneration, may have limited lengths 
+and diameters, and have limited availability for 
+emergencies.7 ,10,11 Rifampin- or silver- impregnated 
+prosthetic grafts are more readily available and 
+faster to implant than vein or extra-anatomic repair 
+but are more susceptible to reinfection.7 ,26 None of 
+these graft options is clearly superior to the others 
+and, as such, in the stable patient without extensive 
+infection with resistant organisms, the use of any 
+of these is acceptable. 27 For those with extensive 
+peri-graft abscess, or infection with methicillin-
+resistant S. aureus, Pseudomonas, or multidrug 
+resistant organisms, extra-anatomic reconstruction 
+(when feasible) or in situ reconstruction with femo-
+ral vein or allograft may offer improved freedom 
+from reinfection.7 ,13,26
+3. Hemodynamically unstable patients require emer-
+gency proximal control with a clamp or balloon, and 
+rapid in-line reconstruction, which is best performed 
+with either an allograft (if immediately available) or 
+a silver- or rifampin-impregnated prosthetic graft.7
+4. Endovascular intervention allows relatively rapid 
+control of hemorrhage and may improve survival 
+in patients with an aorto-enteric fistula, when used 
+as a bridge to definitive therapy. 13-15 For patients 
+who are not candidates for surgical graft excision, 
+endovascular therapy may be considered for defin-
+itive therapy, in which case lifelong antibiotic sup-
+pression should be considered.
+5. Consultation with an infectious disease specialist 
+is recommended for all patients with aortic graft 
+infection. A 6-week course of intravenous antimi-
+crobial therapy has been recommended in multiple 
+reports from high-volume centers and in scientific 
+statements.7 ,11,16,17 ,26,28 For Pseudomonas or mul-
+tidrug resistant organisms, multiple antimicrobial 
+agents may be needed. A subsequent course of 
+oral antimicrobial therapy for 3 to 6 months may 
+be considered depending on the specific organism, 
+the extent of infection, and the type of repair.
+6. Lifelong suppressive oral antimicrobial therapy 
+has been suggested for selected patients, such as 
+those with extensive infection, aggressive organ-
+isms, in situ prosthetic replacement, or endovas-
+cular coverage without resection. 14,15,18,19 Axial 
+imaging is typically continued long term to iden-
+tify evidence of reinfection, such as inflammatory 
+changes, fluid or air collections, or pseudoaneu-
+rysm formation.
+9.3. Atherosclerotic Disease
+Recommendations for Atherosclerotic Disease
+COR LOE Recommendations
+1 C-LD
+1. In patients with aortic atherosclerotic 
+disease and concomitant coronary artery 
+disease, PAD or both, it is recommended to 
+prescribe antiplatelet therapy, anticoagu-
+lant therapy or both, guided by the clinical 
+ setting.1-3
+2a C-LD
+2. In patients with aortic atherosclerotic 
+disease and risk factors for confirmed 
+coronary artery disease, it is reasonable 
+to prescribe a moderate- or high-intensity 
+statin. 4-6
+2b C-LD
+3. In patients with aortic atheromas of a thick-
+ness ≥4 mm, statin therapy may be reason-
+able.1,7-9
+Synopsis
+Atherosclerosis is a chronic immunoinflammatory, fibro-
+proliferative disease of the aorta and its branches that 
+is propagated by lipids. 10 This disease process has mul-
+tiple risk factors and begins early in life so that the aorta 
+may develop extensive disease over many decades. 11 
+The diagnosis of aortic atherosclerosis may occur inci-
+dentally, during the evaluation of symptomatic vascular 
+events, or both. The size and location of aortic plaques 
+have been associated with embolic complications.4,7 ,8,12-16 
+The presence of aortic atheromas has been significantly 
+associated with all-cause death. 9 The management of 
+aortic atherosclerosis includes, in general, control of risk 
+factors, lifestyle modification, and appropriate pharmaco-
+logical therapies. Although lifestyle changes may be the 
+most important treatment strategy, compliance may be 
+challenging.17 ,18
+Recommendation-Specific Supporting Text
+1. Patients with aortic atherosclerosis often have con-
+comitant cardiovascular diseases such as coronary 
+artery disease, atrial fibrillation, and PAD. These 
+concomitant conditions frequently determine the 
+selection of guideline-based antiplatelet agents, 
+anticoagulant agents, or both.1-3
+2. The indications for statin therapy in patients with 
+a history of coronary artery disease, myocardial 
+infarction, and stroke are well established. 5,6 The 
+data for statin therapy specific to aortic atheroscle-
+rosis alone are very limited. Therefore, this recom-
+mendation has been made for those patients at 
+risk for or with confirmed coronary artery disease 
+because the available data best support statin 
+therapy in this cohort.
+3. Atherosclerotic disease of the aortic arch is a 
+potential source of emboli to the brain. 1,2,9 A pro-
+spective study (N=500) showed that the OR for 
+stroke among patients with aortic atheromatous 
+Downloaded from http://ahajournals.org by on May 30, 2026
+=== PAGE 103 ===
+December 13, 2022 Circulation. 2022;146:e334–e482. DOI: 10.1161/CIR.0000000000001106e436
+Isselbacher et al 2022 ACC/AHA Aortic Disease Guideline
+CLINICAL STATEMENTS  
+AND GUIDELINES
+plaques (atheromas) of ≥ 4 mm versus controls 
+was 9.1 (95% CI, 3.3–25.2; P<0.001).7 Moreover, 
+in a clinical trial of 519 patients with severe tho-
+racic aortic plaques, multivariate analysis showed 
+that statin therapy was protective against strokes 
+(P=0.0001).8 (The data from these 2 studies 
+relate specifically to atheroma thickness of ≥ 4 
+mm, which does not align precisely with the most 
+commonly used grading systems for severity of 
+aortic atherosclerosis, which define severe ath-
+eromas by a thickness of >5 mm.) Although anti-
+platelet therapy is commonly used in patients with 
+aortic atheromas, there is no evidence to support 
+the use of prophylactic anticoagulation in this 
+population.
+9.3.1. Aortic Thrombus
+Aortic mural thrombus is typically associated with under-
+lying aortic pathology, such as aneurysm, aortitis, athero-
+sclerosis, dissection, and aortic graft material.1-3 Because 
+such thrombi arise in the setting of underlying aortic 
+pathology, the thrombi can be considered “secondary,” 
+and they most often appear in the descending thoracic 
+and abdominal aorta. 1-3 In contrast, “primary” thrombus 
+occurs in a normal or minimally atherosclerotic aorta and, 
+rather than being mural, are often pedunculated and pro-
+trude into the aortic lumen. Most often, primary aortic 
+thrombi are idiopathic, but some have been associated 
+with hypercoagulable states (eg, malignancy, heparin-
+induced thrombocytopenia, and the antiphospholipid 
+syndrome).2-6
+Aortic thrombus is most often asymptomatic but may 
+present with limb ischemia, visceral ischemia, or stroke2-7 
+from embolization. The diagnosis is often typically con-
+firmed by either CTA or TEE. 8,9 Asymptomatic patients 
+with secondary mural thrombus are usually managed 
+conservatively, but patients with primary aortic thrombus 
+or those presenting with embolic events are often man-
+aged with anticoagulation, endovascular intervention, or 
+open surgical therapy; such treatments are informed by 
+the patient’s history and the location, size, and mobil-
+ity of the thrombus. 2-7 ,10,11 Long-term anticoagulation is 
+most often considered in patients with thrombus in the 
+ascending aorta and aortic arch, because of the increased 
+risk of stroke from potential embolization should aortic 
+thrombus recur.5-7 ,10
+9.3.2. Aortic Occlusion
+Aortic occlusion, which occurs most often secondary to 
+extensive atherosclerotic disease, can present along a 
+spectrum of acute and chronic clinical courses. CTA is 
+most useful in identifying the occlusion, determining its 
+cause, and defining the extent of associated aortic and 
+branch arterial disease. Aortic occlusion typically occurs 
+below the renal arteries but rarely can arise above this 
+level, leading to renal and possibly visceral malperfusion.
+Treatment in acute presentations is typically surgical, 
+including open embolectomy in the setting of embolus or 
+aorto-iliac and femoral reconstruction for atherosclerotic 
+occlusion.1 Chronic aortic occlusion can occasionally be 
+asymptomatic because collateral circulation has devel-
+oped, in which case intervention may not be required. 
+More commonly, patients with chronic aortic occlusion 
+present with lower extremity claudication that may be 
+accompanied by buttock claudication, central core mus-
+cle weakness, and impotence in males caused by pelvic 
+malperfusion. These patients often have cardiopulmonary 
+comorbidities and multifocal atherosclerotic disease, and 
+these issues should be addressed preoperatively to miti-
+gate potential complications.
+Revascularization options include endovascular, 2 
+open aortic (eg, aortobifemoral bypass), 3 or extra-ana-
+tomic (eg, axillofemoral bypass), and hybrid options (eg, 
+iliofemoral endarterectomy and patch plus iliac stenting). 
+The preferred revascularization strategy is informed by 
+the arterial anatomy, the severity of disease and symp-
+toms, the patient’s substrate, and the expected proce-
+dural durability. No RCTs have shown an advantage for 
+any given revascularization procedure, and all perform 
+well in early follow-up. Open aortic reconstruction has 
+improved long-term patency compared with less inva-
+sive options3 but at a cost of a higher risk of periopera-
+tive complications.
+9.3.3. Porcelain Aorta
+“Porcelain” aorta refers to the extensive, eggshell-like, 
+near-circumferential or circumferential calcification of 
+the intima or media of the aortic wall in the ascend-
+ing aorta or aortic arch. It is most often associated with 
+late-stage atherosclerosis, although it can also be a 
+late consequence of aortitis. It generally occurs in older 
+patients with atherosclerotic disease elsewhere and 
+carries an increased risk for cardiovascular events and 
+mortality.1 Porcelain aorta is best seen on a noncontrast 
+CT scan, although very thin calcification may only be 
+detected intraoperatively with epi-aortic ultrasound or 
+manual palpation.Impenetrable ascending aortic calci-
+fication makes it difficult, if not impossible, to perform 
+central aortic cannulation for cardiopulmonary bypass, 
+the anastomosis of proximal coronary bypass grafts to 
+the aorta, aortotomy during aortic valve replacement, 
+and graft-aorta anastomoses during aortic replace-
+ment. Additionally, performing aortic cross-clamping for 
+cardiopulmonary bypass can crack the calcified wall, 
+increasing the risk of stroke from embolization, or imme-
+diate exsanguination. Surgical management strategies 
+have included use of alternative sites for cannulation 
+and proximal bypass grafts with off-pump or beating 
+heart techniques, 2-4 balloon occlusion of the aorta, 5 
+and the use of circulatory arrest with ascending aortic 
+replacement.6
+Downloaded from http://ahajournals.org by on May 30, 2026
+=== PAGE 104 ===
+Circulation. 2022;146:e334–e482. DOI: 10.1161/CIR.0000000000001106 December 13, 2022 e437
+Isselbacher et al 2022 ACC/AHA Aortic Disease Guideline
+CLINICAL STATEMENTS 
+AND GUIDELINES
+9.4. Coarctation of the Aorta (CoA) and 
+Congenital Abnormalities of the Arch
+CoA is a narrowing of the aorta occurring most often 
+just distal to the left subclavian artery, typically with an 
+aneurysmal aortic segment immediately beyond the 
+stenosis, but variants are frequent. 1 Significant CoA 
+presents with upper extremity hypertension and lower 
+extremity hypotension (Table 37). MRI and CT are both 
+useful to evaluate the extent of aortic narrowing and 
+dilation, as well as the presence of collaterals, 2 whereas 
+TTE is useful for evaluating the gradient across the 
+CoA, as well as identifying a coexisting BAV (pres-
+ent in 50%) and other potential congenital defects. 3 
+Untreated CoA may be complicated by aortic dissec-
+tion, heart failure, ruptured cerebral aneurysm, dis-
+tal hypoperfusion, or the consequences of significant 
+hypertension. Late complications following surgical or 
+endovascular CoA repair may include undersized grafts, 
+recurrent stenosis, aneurysm or pseudoaneurysm for-
+mation, and rupture, which are typically treated with 
+endovascular procedures unless anatomic features dic-
+tate open or hybrid surgery.4-11 Hypertension is common 
+after CoA repair, especially during exercise, and when 
+the repair is performed in adults. 12,13 Ambulatory BP 
+monitoring and exercise testing are useful in diagnosis 
+and management. 12,13 Patients with CoA undergo life-
+long follow-up and imaging because of the associated 
+cardiovascular risks and the potential requirement for 
+repeat intervention. 6,14
+An aberrant subclavian artery (ASCA) is commonly 
+an incidental finding but may present with compressive 
+symptoms (including dysphagia and dyspnea) because 
+it courses posterior to the esophagus and trachea and 
+may associate with aneurysm disevase. 15-18 A normal 
+left aortic arch with a right ASCA occurs in ∼ 1% of the 
+population, whereas a right aortic arch with a left ASCA 
+is much rarer and may form a vascular ring. 17 ,18 Dilation 
+of the origin of either a right or left ASCA occurs in 
+20% to 60% of cases and is known as a Kommerell 
+diverticulum.15,18 Such Kommerell diverticula may lead 
+to aortic dissection, rupture, or embolization. 18-20 Indica-
+tions for treatment of ASCA relate to symptoms and 
+aneurysm size.
+9.4.1. Coarctation of the Aorta
+Recommendations for CoA
+Referenced studies that support the recommendations are 
+summarized in the Online Data Supplement.
+COR LOE Recommendations
+1 B-NR
+1. In patients with CoA, including those who 
+have undergone surgical or endovascular 
+intervention, an MRI or CT is recommended 
+for initial, surveillance, and follow-up aortic 
+imaging.1-4
+1 C-EO
+2. In patients with CoA, BPs should be mea-
+sured in both arms and one of the lower 
+extremities.
+1 B-NR
+3. In patients with significant native or recurrent 
+CoA (Table 37) and hypertension, endovascular 
+stenting or open surgical repair of the coarcta-
+tion is  recommended.2,3,5-12
+1 C-EO
+4. In patients with CoA, guideline-directed medi-
+cal therapy is recommended for the treatment 
+of hypertension.13
+2b B-NR
+5. In adult patients with CoA, screening for 
+intracranial aneurysms by MRI or CT may be 
+reasonable.14-18
+Synopsis
+CoA may have many anatomic variants and occurs most 
+commonly at the level of the ductus arteriosus and dis-
+tal to the left subclavian artery. Echocardiogram is indi-
+cated in the evaluation of patients with CoA because a 
+BAV coexists in at least 50% of cases, and CoA may 
+associate with complex congenital heart disease.4 Upper 
+extremity hypertension and lower extremity hypoperfu-
+sion are the hallmarks of CoA. Intracranial aneurysms 
+may occur in adults with CoA. 14-16 Ascending aortic 
+aneurysms may occur in those with BAV, and aneu-
+rysms may be present in the distal arch and descend-
+ing aorta. 2,11,19,20 Untreated CoA may be complicated 
+by aortic dissection, heart failure, ruptured cerebral 
+aneurysm, or complications from hypertension. Repair 
+of CoA is performed by endovascular, open surgical, 
+and hybrid procedures, depending on patient-specific 
+and anatomic features. 2,3,5,8-12 In patients with previous 
+procedures, late complications may include recurrent 
+stenosis, aneurysm or pseudoaneurysm formation, rup-
+ture, and persistent hypertension. 2,3,6,8,12,21 Hypertension 
+is common after CoA repair, especially during exercise, 
+and ambulatory monitoring and exercise testing may be 
+useful in diagnosis and management. 3,6,7 ,22-24 Lifelong 
+clinical and imaging follow-up is important to evaluate 
+for hypertension, recurrent coarctation, and aortic wall 
+abnormalities after repair. 1,2,6,24
+Table 37. Criteria for Signiﬁcant CoA11,28
+The presence of signiﬁcant CoA is based on evidence of upper extremity 
+hypertension (at rest, on ambulatory BP monitoring, or with pathologic 
+blood  pressure response to exercise) or left ventricular hypertrophy and 
+evidence for 1 of these gradient measurements:
+1. A noninvasive blood pressure difference of >20 mm Hg between the 
+upper and lower extremities
+2. A peak-to-peak gradient of >20 mm Hg across the coarct by catheter-
+ization; or a peak-to-peak gradient of >10 mm Hg across the coarct by 
+catheterization in the setting of decreased left ventricular systolic func-
+tion or signiﬁcant collateral ﬂow
+3. A mean gradient of >20 mm Hg across the coarct by Doppler echo-
+cardiography; or a mean gradient of >10 mm Hg across the coarct by 
+Doppler  echocardiography in the setting of decreased left ventricular 
+systolic function or signiﬁcant collateral ﬂow
+CoA indicates coarctation of the aorta.
+Downloaded from http://ahajournals.org by on May 30, 2026
+=== PAGE 105 ===
+December 13, 2022 Circulation. 2022;146:e334–e482. DOI: 10.1161/CIR.0000000000001106e438
+Isselbacher et al 2022 ACC/AHA Aortic Disease Guideline
+CLINICAL STATEMENTS  
+AND GUIDELINES
+Recommendation-Specific Supportive Text
+1. In patients with CoA, both MRI and CT are can 
+detect coexistent BAV, examine the full thoracic 
+aorta for coexistent aneurysm disease or arch 
+abnormalities, and assist in treatment planning. 4,25 
+TTE is also can detect the gradients across the 
+site of the coarctation and assess for recoarctation 
+(recurrence of a significant coarct). After repair of 
+CoA, complications may occur, including recoarc-
+tation, aortic aneurysm, pseudoaneurysm, and aor-
+tic dissection.2,3,11,12,26 Arch and descending aortic 
+complications are better visualized by MRI or CT 
+than TTE. The optimal imaging frequency after 
+repair of CoA is not well established and is best 
+individualized based on the type of repair, physical 
+examination findings, and previous imaging find-
+ings.27 After establishing stable aortic imaging after 
+CoA repair, surveillance imaging is often obtained 
+every 3 to 5 years. 20,28-30 Recoarctation occurs in 
+about 10% 6,8 after surgical repair and about 8% 
+after balloon dilation. 21 After endovascular repair 
+of CoA, MRI or CT can evaluate for complications, 
+recoarctation, or endoleaks.2,3,11
+2. Patients with a significant CoA typically have 
+hypertension in the upper extremities and a reduc-
+tion in BP in the lower extremities. The location of 
+the CoA will inform any BP differential between 
+the left and right arms. Physical examination may 
+reveal a delay in timing and a decreased amplitude 
+of the femoral pulse. After CoA repair, recurrent 
+coarctation may occur. Obtaining the BP in the 
+upper and lower extremities assesses for native 
+and recurrent coarctation.
+3. CoA presents with upper extremity hypertension, 
+lower extremity hypoperfusion, and imaging confir-
+mation of narrowing of the aorta that may include 
+collateral formation.2,3,6,11 Significant native or reco-
+arctation has been variably defined, but commonly 
+used criteria are listed in Table 37 . 7 ,11 The pres-
+ence of left ventricular hypertrophy is an important 
+marker of disease.28 In addition to abnormal aortic 
+gradients, anatomic evidence for CoA is necessary 
+and is well characterized by MRI or CT. Adult con-
+genital guidelines have reported the best evidence 
+to proceed with intervention to correct CoA, includ-
+ing hypertension, BP differential between upper 
+and lower extremities, and TTE-derived gradients 
+across the coarctation.11 For individuals with native 
+or recurrent CoA and appropriate anatomic char-
+acteristics, endovascular treatment with stenting is 
+typically performed.2,3,6,9-12,29 Open surgical repair of 
+CoA may include subclavian flap aortoplasty, resec-
+tion and end-to-end anastomosis, interposition 
+grafting, or bypass grafting, with the choice of pro-
+cedure informed by patient- and anatomic-specific 
+characteristics.5,11 In adults who have undergone 
+a previous open surgical CoA repair and develop 
+recoarctation, aneurysm, or pseudoaneurysm, an 
+endovascular approach (assuming there is ade-
+quate iliofemoral access and absence of involve-
+ment of the supra-aortic trunks) avoids the need 
+for reoperation.2,3,9,12,29
+4. Patients with CoA are at risk for complications of 
+hypertension, including heart failure, stroke, coro-
+nary artery disease, and aortic complications, so 
+hypertension should be assessed and in accor-
+dance with current guidelines. 13 Multiple studies 
+have shown that persistent hypertension is com-
+mon after CoA correction. 3,6,7 ,23,24 Ambulatory BP 
+monitoring and exercise testing may be useful in 
+the evaluation and treatment of hypertension in 
+patients with native CoA and after repair.3,22,24
+5. Screening studies suggest that adults with CoA 
+have an 10% prevalence of intracranial aneurysms 
+(compared with a prevalence of 2% in the normal 
+adult population), with the greatest risk among 
+older adults and those with hypertension. 14-16,18 
+Cost-effective analysis supports screening for 
+intracranial aneurysms in adults with CoA, but 
+preferred screening strategies remain unknown. 17 
+Because many of the intracranial aneurysms 
+detected by screening will be very small and not 
+require treatment, shared decision-making about 
+screening may be informed by age, risk factors, 
+and anticoagulation considerations.18,30
+9.4.2. Other Arch Abnormalities
+9.4.2.1. Aberrant Subclavian Artery, Kommerell’s 
+Diverticulum
+Recommendations for Aberrant Subclavian Artery, Kommerell’s 
+Diverticulum
+COR LOE Recommendations
+2a C-LD
+1. In patients discovered to have an ASCA 
+in the absence of thoracic aortic imaging, 
+dedicated imaging to assess for TAA is 
+ reasonable.1,2
+2b C-LD
+2. In patients with Kommerell’s diverticulum, 
+depending on patient anatomy and comor-
+bidities, repair may be reasonable when 
+the diverticulum orifice is >3.0 cm, the 
+combined diameter of the diverticulum and 
+adjacent descending aorta is >5.0 cm, or 
+both (Figure 27). 3
+Synopsis
+Anomalies of the aortic arch are usually detected inci-
+dentally on a CT of the chest or neck ordered for other 
+reasons. An ASCA arises as the fourth branch from the 
+Downloaded from http://ahajournals.org by on May 30, 2026
+=== PAGE 106 ===
+Circulation. 2022;146:e334–e482. DOI: 10.1161/CIR.0000000000001106 December 13, 2022 e439
+Isselbacher et al 2022 ACC/AHA Aortic Disease Guideline
+CLINICAL STATEMENTS 
+AND GUIDELINES
+aorta, distal to the left subclavian artery (or right sub-
+clavian artery in the case of a right-sided aortic arch). It 
+courses through the posterior mediastinum behind the 
+esophagus in its path to perfuse the arm and can cause 
+a vascular ring around the trachea and esophagus that 
+results in dysphagia, respiratory symptoms, or recur-
+rent laryngeal nerve palsy. Kommerell’s diverticulum is a 
+persistent remnant of the fourth primitive dorsal aortic 
+arch because of failed regression 3 and may be present 
+in 20% to 60% of patients with an aberrant right or left 
+subclavian artery. The risk of rupture or dissection of a 
+Kommerell’s diverticulum has been reported to be as 
+high as 50% in case series, although high-quality data on 
+the natural history are very limited. The 2020 SVS clinical 
+practice guidelines recommend surgical intervention for 
+Kommerell’s diverticulum when the diverticulum orifice is 
+>3.0 cm, the combined diameter of the diverticulum and 
+adjacent descending aorta is >5.0 cm, or both.4 Success-
+ful repair has been described using open, endovascular, 
+and hybrid approaches depending on patient anatomy 
+and comorbidities.3
+Recommendation-Specific Supportive Text
+1. Variant aortic arch anatomy has been found to be 
+significantly associated with TAA in several single-
+center retrospective observational series, 1 with 
+33% of patients with right-sided aortic arch having 
+concomitant TAA.2 Left-sided aortic arch with aber-
+rant right subclavian artery was also significantly 
+associated with TAD but only occurred in 2% to 
+8% of those patients. 1 Consequently, if the imag-
+ing study that detected the ASCA did not include 
+imaging of the thoracic aorta, then a dedicated CT 
+or MRI to evaluate for an associated aortic aneu-
+rysm is reasonable.
+2. Case series have reported rupture and/or dissec-
+tion of Kommerell’s diverticulum for diverticula 
+ranging from 4.0 cm to 10 cm (mean size, 5.0 cm).3 
+The measurement of the Kommerell’s diverticulum 
+may be difficult, and various strategies to stan-
+dardize measures have been proposed.3 Based on 
+CT, 2 diameter measurements should be obtained 
+(Figure 27) using cross-sectional imaging: the 
+diverticulum orifice (radially and longitudinally at 
+the aortic wall) and the combined diameter of the 
+diverticulum and adjacent descending thoracic 
+aorta (measured from the tip of the diverticulum 
+to the opposite aortic wall6). Repair of Kommerell’s 
+diverticulum has been suggested when the orifice 
+diameter is >3 cm or the combined diameter of 
+the diverticulum and adjacent descending thoracic 
+aorta is >5.0 cm.3,4,7
+9.4.2.2. Aberrant Left Vertebral Artery Origin
+Recommendation for Aberrant Left Vertebral Artery Origin
+COR LOE Recommendation
+2a C-EO
+1. In patients with an aberrant left vertebral 
+artery origin arising directly from the thoracic 
+aorta who require aortic repair involving recon-
+struction or coverage of the vertebral artery 
+origin, revascularization of the vertebral artery 
+is reasonable.
+Synopsis
+The most common anatomic variant for the left verte-
+bral artery is arising directly from the aortic arch; 6% 
+of adults have a left vertebral artery that arises from 
+the arch between the left carotid and left subclavian 
+arteries, 1,2 rather than of a branch of the left subcla-
+vian artery. There is a paucity of data on the manage-
+ment of the left vertebral artery arising from the aortic 
+arch in patients undergoing thoracic aortic repair. 
+For patients undergoing elective open surgical par-
+tial or total arch repair or undergoing TEVAR for TAA 
+Figure 27. Measurements of Kommerell’s Diverticulum.
+Two diameter measurements should be obtained using cross-
+sectional imaging: the diverticulum orifice (radially and longitudinally 
+at the aortic wall) and the combined diameter of the diverticulum and 
+adjacent descending thoracic aorta (measured from the apex of the 
+diverticulum to the opposite aortic wall). ARSA indicates aberrant right 
+subclavian artery; LCA, left common carotid artery; LSA, left subclavian 
+artery; and RCA, right common carotid artery. Adapted from Erben 
+et al,7 Copyright 2020, with permission from Elsevier, Inc., and the 
+Society for Vascular Surgery.
+Downloaded from http://ahajournals.org by on May 30, 2026
+=== PAGE 107 ===
+December 13, 2022 Circulation. 2022;146:e334–e482. DOI: 10.1161/CIR.0000000000001106e440
+Isselbacher et al 2022 ACC/AHA Aortic Disease Guideline
+CLINICAL STATEMENTS  
+AND GUIDELINES
+or dissection, revascularization of the left subclavian 
+artery is recommended to preserve left vertebral artery 
+perfusion and reduce the risk of symptomatic verte-
+brobasilar insufficiency, SCI, and stroke. 3 This may be 
+particularly important in patients with a dominant left 
+vertebral artery or a nonintact circle of Willis. Verte-
+bral artery revascularization via either an open bypass 
+or transposition technique can be accomplished with 
+good outcomes. 3,4
+Recommendation-Specific Supportive Text
+1. In patients undergoing elective TEVAR with planned 
+left subclavian artery coverage, preoperative revas-
+cularization of the left subclavian artery has been 
+shown to decrease the risk of stroke and SCI, 5-8 
+presumably by maintaining perfusion through the 
+posterior circulation via the left vertebral artery. In 
+a small series of 9 patients with an aberrant left 
+vertebral artery origin undergoing open aortic arch 
+replacement, no neurologic complications were 
+reported among patients who first underwent 
+revascularization of the left vertebral artery.4
+9.4.2.3. Bovine Arch (Common Innominate and Left 
+Carotid Artery)
+Recommendation for Bovine Arch (Common Innominate and Left 
+Carotid Artery)
+COR LOE Recommendation
+2b C-LD
+1. In patients with bovine arch (common 
+innominate and left carotid artery), 
+imaging to assess for TAA may be 
+ reasonable. 1-3
+Synopsis
+The most common anatomic pattern of great vessel ori-
+gin, occurring in approximately 70% of adults, is a type I 
+arch, in which the 3 great vessels originate directly from 
+the aorta. 4 Bovine arch variants are the most common 
+arch anomalies, and 2 types are described: In type II-A, 
+found in 9% of the population, the left common carotid 
+artery arises directly from the innominate artery (Figure 
+28); in type II-B, found in 13% of the population, the 
+innominate and left common carotid arteries arise from 
+a common origin (Figure 28). 5 The term “bovine arch” is 
+a misnomer, because the arch vasculature in cattle has a 
+single, large brachiocephalic vessel that subsequently tri-
+furcates into 2 subclavian arteries and a bicarotid trunk.5 
+Others have referred to the bovine aortic arch pattern as 
+an aortic arch with a common origin of the innominate 
+and left carotid artery.
+Some authors have suggested that a bovine arch 
+increases the risk of aortic dissection, but the data are 
+limited.2,6 Among patients with acute type A aortic dis-
+section, a bovine arch was highly predictive of an arch 
+tear (OR, 5.9; 95% CI, 2.89–12.04; P<0.001) and 
+increased perioperative stroke (OR, 2.69; 95% CI, 1.2–
+6.0; P=0.016) based on multivariable analysis, although 
+it was not associated with worse long-term survival.7
+Recommendation-Specific Supportive Text
+1. A bovine aortic arch appears to be a marker for 
+TAD and more rapid aortic expansion. 1 Among 
+patients with TAD, the prevalence of a bovine arch 
+was 26.3%, compared with 16.4% in controls 
+Figure 28. Normal and Bovine Aortic Arch Configurations.
+(A) T ype I aortic arch: The normal aortic arch configuration. (B) T ype II-A aortic arch: The left common carotid artery originates from the 
+innominate artery. (C) T ype II-B aortic arch: The innominate and left common carotid arteries share a common origin. LCA indicates left common 
+carotid artery; LSA, left subclavian artery; L VA, left vertebral artery; RCA, right common carotid artery; RSA, right subclavian artery; and RVA, right 
+vertebral artery. Adapted from Layton et al.5 Copyright 2006, American Society of Neuroradiology. Used with permission from Mayo Foundation 
+for Medical Education and Research, all rights reserved.
+Downloaded from http://ahajournals.org by on May 30, 2026
+=== PAGE 108 ===
+Circulation. 2022;146:e334–e482. DOI: 10.1161/CIR.0000000000001106 December 13, 2022 e441
+Isselbacher et al 2022 ACC/AHA Aortic Disease Guideline
+CLINICAL STATEMENTS 
+AND GUIDELINES
+(P<0.001). Moreover, among patients with TAA, the 
+annual aortic growth rate was 0.29 cm/y among 
+those with a bovine arch versus 0.09 cm/y among 
+those with normal arch anatomy. A recent meta-
+analysis found that the proportion of TAD among 
+patients with bovine arch was 41.5%, compared 
+with 34.0% among patients with standard arch con-
+figuration.3 If aortic dilation or aneurysm is found on 
+imaging, subsequent surveillance imaging may be 
+obtained.
+9.5. Tumors
+Tumors of the thoracic aorta are usually secondary, 
+resulting from contiguous or metastatic spread of primary 
+malignancies, especially lung and esophageal.1,2 Primary 
+malignant tumors of the aorta, which are extremely rare, 
+are most often primary sarcomas that protrude into the 
+lumen but leave the aortic wall intact. Aortic sarcomas 
+are aggressive tumors with a propensity for arterial 
+embolization, disseminated metastases, and rapid clini-
+cal deterioration,3,4 usually with limited survival after initial 
+diagnosis.5,6 Tumors of the thoracoabdominal aorta may 
+exhibit nonspecific symptoms. On imaging, aortic tumors 
+are often initially mistaken for atherosclerosis or aneurys-
+mal disease7 (although PET imaging may suggest tumor 
+metabolic activity over metabolically quiescent athero-
+sclerosis), so the diagnosis is often made by histologic 
+examination of embolic debris or surgical specimens 8-10; 
+in some cases, the diagnosis is made postmortem. Com-
+bined therapy with surgery (resection and reconstruc-
+tion of the segment of aorta containing the neoplasm) 
+and chemoradiotherapy provide the best survival results, 
+although the overall prognosis remains poor.
+10. PHYSICAL ACTIVITY AND QUALITY  
+OF LIFE
+Recommendations for Physical Activity and Quality of Life
+COR LOE Recommendations
+1 C-EO
+1. For patients with significant aortic dis-
+ease, education and guidance should be 
+provided about avoiding intense isomet-
+ric exercises (eg, heavy weightlifting or 
+activities requiring the Valsalva maneuver), 
+burst exertion and activities, and collision 
+sports. 1,2
+1 C-EO
+2. For patients who have undergone sur-
+gery for aortic aneurysm or dissection, 
+postoperative cardiac rehabilitation is 
+ recommended.3,4
+2a C-LD
+3. In patients with thoracic or abdominal aortic 
+aneurysms whose BP is adequately con-
+trolled, it is reasonable to encourage 30 to 
+60 minutes of mild-to-moderate intensity 
+aerobic activity at least 3 to 4 days per 
+week.5,6
+2a C-LD
+4. For patients with clinically significant 
+aortic disease, it is reasonable to screen 
+for anxiety, depression, and posttraumatic 
+stress disorder and, when indicated, provide 
+resources for support 7, 8; it is also reason-
+able to provide education and resources to 
+minimize patients’ concerns, support opti-
+mal decision-making, and enhance quality 
+of life. 5,9-11
+Synopsis
+As surgical outcomes for aortic disease improve, a focus 
+on patient-reported health-related quality of life (HRQOL) 
+outcomes is becoming increasingly important,10 because 
+patients have become increasingly concerned about 
+HRQOL issues such as returning to work, pain manage-
+ment, risk of infection, activity recommendations and 
+restrictions, and neurologic complications. The most com-
+mon measures of HRQOL are generic patient-reported 
+outcome measures (eg, SF-36), although validated aneu-
+rysm-specific measures have been developed.7 ,12,13
+In patients with Marfan syndrome in the GenTAC reg-
+istry, HRQOL was slightly below the population norm. 
+Better HRQOL was independently associated with 
+socioeconomic factors (eg, private insurance, active 
+employment) but not factors related to disease sever-
+ity or comorbidities.14,15 Although aneurysms are usually 
+asymptomatic before diagnosis, surgical aortic repair 
+is associated with an initial deterioration in HRQOL at 
+3 months, including decreased physical, cognitive, and 
+social function that generally returns to preoperative 
+levels after 6 to 12 months. 11 Standardized reporting 
+of preoperative and postoperative HRQOL measures is 
+needed to guide further improvements in interventional 
+strategies and improve the overall patient experience.16
+Patients with aortic aneurysms, who have adequate 
+BP control, may have improvements in overall cardio-
+vascular health when undertaking moderate intensity 
+aerobic activity at least 3 to 4 days per week, 30 to 
+60 minutes per session.17-19 Although resistance training 
+may be beneficial to patients with cardiovascular disease, 
+it increases central aortic BP and, therefore, benefits for 
+those with aortic aneurysm are less well understood 
+because, theoretically, increases in BP could contribute 
+to subsequent aortic growth, complications, or both. Fur-
+ther longitudinal study is warranted.20-22
+Recommendation-Specific Supportive Text
+1. In patients with aortic disease, limited data are 
+available to guide recommendations regarding the 
+forms of exercise that are safe and promote car-
+diovascular health versus those that pose an acute 
+or long-term risk of aortic growth or rupture. But 
+Recommendations for Physical Activity and Quality of Life (Continued)
+COR LOE Recommendations
+Downloaded from http://ahajournals.org by on May 30, 2026
+=== PAGE 109 ===
+December 13, 2022 Circulation. 2022;146:e334–e482. DOI: 10.1161/CIR.0000000000001106e442
+Isselbacher et al 2022 ACC/AHA Aortic Disease Guideline
+CLINICAL STATEMENTS  
+AND GUIDELINES
+evidence exists regarding the physiologic ben-
+efits of exercise and the hemodynamic conse-
+quences of various form of exercise and exertion 
+in case series and relevant animal models. There 
+has been a uniform consensus among numer-
+ous expert committees on aortic disease that it is 
+wise to avoid intense isometric exertion or exer-
+cises that require the Valsalva maneuver, given 
+that heavy lifting with Valsalva can produce acute 
+increases in SBP to >300 mm Hg. There is also a 
+consensus that light weightlifting and low-intensity 
+aerobic exercise are safe and likely improve both 
+physical and mental health. No uniform consen-
+sus exists about the safety of intermediate-level 
+static and aerobic exercise. Recommendations for 
+exercise intensity are best individualized, informed 
+by multiple factors that include underlying aortic 
+pathology, aortic diameter and ASI, aortic growth 
+rate, age, family history, and any other high-risk 
+features (eg, uncontrolled hypertension). Ongoing 
+investigation is needed to better define the levels 
+of resistance activities that would be considered 
+low-risk for adverse aortic events, favoring greater 
+exercise restrictions among patients at higher risk 
+of dissection.17 ,23-26,27
+2. Although data are limited, cardiac rehabilitation has 
+been shown to be useful and safe for patients after 
+aortic surgery.4,5,27 ,28 A randomized trial of exercise-
+based cardiac rehabilitation in patients who have 
+undergone surgery for type A aortic dissection 
+showed improved peak oxygen uptake, maximal 
+workload, and HRQOL. 3 Fear of a repeat cardiac 
+event can cause patients who are post–aortic dis-
+section to decrease or stop exercise and sexual 
+activity, but mild-to-moderate intensity exercise 
+may be cardioprotective. Because of decondition-
+ing, patients may be unable to exercise initially at 
+the recommended level. 27 An intensity of 3 to 5 
+metabolic equivalents of task is recommended, 
+while avoiding strenuous lifting, lifting to the point 
+of exhaustion, or other activities that entail maximal 
+exertion.6,29 In a retrospective study, patients with 
+small AAA went through a modified cardiac rehabil-
+itation program before surgery, and the rate of aor-
+tic growth was slower in the rehabilitation group.28
+3. High-intensity athletic training in 1 study has been 
+shown to be an independent predictor of aortic 
+growth, although these data were limited to the 
+aortic root and did not include AAA. 30 In a recent 
+study in 442 athletes of mean age 61 years, aortic 
+root enlargement by z-score was present in 24% 
+of participants and, after multivariate analysis, elite 
+competitor status was found to be an independent 
+predictor of aortic growth. 31 Less is known about 
+the potential effects of mild-to-moderate intensity 
+aerobic activity on aortic growth, but it is known 
+to improve overall cardiovascular health, includ-
+ing among patients with TAA 32-34 and AAA. 20,35,36 
+A recent meta-analysis suggests that that higher 
+physical activity is associated with a reduced risk 
+of AAA.37 In 1 study of a mouse model of Marfan 
+syndrome, rates of aortic root growth were signifi-
+cant slower in mice that exercised daily on a tread-
+mill compared with sedentary mice. 38 In another 
+study of mice with Marfan syndrome, both mild and 
+moderate—but not strenuous—aerobic exercise 
+protected the structural integrity of the aortic wall, 
+as evidenced by reduced elastin fragmentation and 
+reduced expression of matrix metalloproteinases 2 
+and 9 within the aortic wall, compared with seden-
+tary controls.39
+4. Depression and anxiety often occur in patients 
+with aortic disease, regardless of surgical status. 
+Posttraumatic stress disorder after dissection is 
+a particular risk. 8 Screening patients and provid-
+ing resources for assistance may prevent mental 
+health issues from becoming more severe and 
+lead to an increased HRQOL. 9,40 The SF-36 is a 
+common tool for assessing mental health for these 
+patients7 ,11,12,41 but may not cover all patient con-
+cerns, such as activity restriction, family life, and 
+losing ability to earn income. 16 More studies are 
+needed with both pre- and postoperative HRQOL 
+data to improve shared decision-making and 
+patient outcomes. 12,13,41 Exercise may decrease 
+depression.9 Education before procedures helps 
+most patients feel more satisfied with their pro-
+cedures16 and improve postoperative HRQOL. 41 
+Patients and clinicians can define surgery success 
+differently, showing the importance of discussing 
+expectations and risks.
+11. COST AND VALUE CONSIDERATIONS
+Although assessment of cost and value in development 
+of guidelines is of growing importance, studies are lim-
+ited on the cost-effectiveness of aortic disease treat-
+ment and lack standard methods for comparison.1
+Screening for AAA among men ≥65 years of age has 
+been shown to be cost-effective, 2,3 although data for 
+screening women are less clear. Women have a lower 
+incidence of AAA but higher risk of rupture and longer 
+life expectancy, so incremental cost-effectiveness is sim-
+ilar to men and may justify screening, especially in those 
+with a history of smoking.4
+In patients with AAA, studies comparing EVAR to 
+open surgical repair generally show lower initial costs for 
+EVAR based on shorter hospital stays; however, ongoing 
+expenses for EVAR surveillance and reinterventions may 
+minimize long-term cost advantages after 2 to 5 years.5-9  
+In addition, significant variability in costs across organiza-
+tions and countries, and changing efficiencies in tech-
+Downloaded from http://ahajournals.org by on May 30, 2026
+=== PAGE 110 ===
+Circulation. 2022;146:e334–e482. DOI: 10.1161/CIR.0000000000001106 December 13, 2022 e443
+Isselbacher et al 2022 ACC/AHA Aortic Disease Guideline
+CLINICAL STATEMENTS 
+AND GUIDELINES
+niques, makes it difficult to make recommendations on 
+preferred interventional approaches based primarily on 
+relative costs.6,10,11
+Findings are mixed but similar for descending TAA, 
+with trends toward lower initial hospital costs with 
+TEVAR compared with open surgery stemming from 
+shorter length of stay, but the long-term results are more 
+neutral.12-14
+Few data examine the cost-effectiveness of manage-
+ment strategies of TAA. For the management of AAS, the 
+costs are not easily modifiable. However, for manage-
+ment of chronic TAD, patients often see a host of spe-
+cialists, including both cardiologists and surgeons, have 
+follow-up visits with specialists in both the community 
+and at tertiary or quaternary centers, or both. Moreover, 
+diagnostic imaging is often duplicated because of differ-
+ences in imaging protocols or quality, or simply because 
+images are not readily transferrable. Consequently, there 
+are likely opportunities for significant cost savings if 
+redundant clinician visits and imaging could be reduced 
+through common protocols, common imaging platforms, 
+and coordinated care.15
+12. EVIDENCE GAPS AND FUTURE 
+DIRECTIONS
+Most of the current recommendations for patients with 
+aortic disease are based on expert opinion and data 
+from observational studies, large registries, and pro-
+spective studies, but few are from randomized clinical 
+trials. More data are needed from basic science stud-
+ies and RCTs to guide prevention, early diagnosis, and 
+advanced treatment for aortic disease. In the future, 
+precision medicine and patient-centered approaches 
+will enable clinicians to develop care plans to optimize 
+outcomes for each patient. Future research should 
+include diverse populations and examine race, ethnicity, 
+and sex differences to ensure that all patient groups are 
+represented and that questions pertinent to their aortic 
+health are answered.
+12.1. Biomarker Studies
+Although interest in using circulating biomarkers for risk 
+stratification of patients with aortopathy has increased, 
+biomarker expression has not been clearly associated 
+with relevant clinical aortic events. Most studies have 
+focused on protein-based biomarkers and noncoding 
+RNAs in patients with bicuspid aortopathy. These emerg-
+ing biomarkers and other better, early-stage biomarkers, 
+along with advanced noninvasive imaging modalities, 
+may help us precisely identify the risk associated with 
+adverse outcomes in these patients. In addition, noncod-
+ing RNAs such as microRNA are biological molecules 
+whose expression can be modified through targeted 
+mechanisms and present opportunities to identify new 
+treatment options for patients with aortic disease. 1-7 In 
+addition, developing image-based cardiac and aortic 
+markers derived from large-scale imaging studies with 
+automated machine learning–based analysis might pro-
+vide a wealth of information for guiding the optimal care 
+of these patients.
+12.2. Genetic and Nongenetic Factors
+Various genes have been associated with and linked to 
+TAA and dissection. Consequently, genetic testing can 
+identify pathogenic mutations in specific genes that 
+increase a patient’s risk of aneurysm, dissection, or both 
+and may inform the optimal timing of aortic repair. As 
+the prevalence of genetic testing increases, the discov-
+ery of more genes will help in the earlier diagnosis of 
+asymptomatic nonsyndromic TAA. In addition to the con-
+tribution of genetic variants, environmental factors and 
+lifestyle habits may contribute to aortic aneurysm forma-
+tion. Further research on these factors may provide evi-
+dence to guide lifestyle modifications that could reduce 
+a patient’s lifelong aortic risk. Recent evidence suggests 
+that fluoroquinolone use is associated with an increased 
+risk of aortic aneurysm and dissection, but the pathways 
+through which this effect is mediated are unknown. 
+Future research investigating the potentially protective 
+or harmful effects of other pharmacologic agents on aor-
+tic health might further elucidate the pathophysiology of 
+aortic disease.1-10
+12.3. Biomechanics of the Aorta
+Emerging evidence suggests that aortic diameter alone 
+is an insufficient predictor of risk for aortic dissection. 
+Understanding the distribution of biomechanical wall 
+stress in the various anatomic locations of the aorta, 
+as well as potential contributions of hemodynamic flow 
+disturbances such as those from aortic valve stenosis or 
+regurgitation, or even from a well-functioning BAV, may 
+improve risk stratification strategies and, in turn, patient 
+outcomes, filling a knowledge gap on wall stress distribu-
+tion in patients with aortic aneurysms.1-4
+12.4. Sex, Race, and Ethnicity
+Conflicting data exist in the literature on the associa-
+tion between sex and outcome in patients with aortic 
+disease. Studies have shown different rates of aortic 
+aneurysm growth and dissection risk in male versus 
+female patients. Nevertheless, the data are inconsis-
+tent, because some outcome studies indicate that sex 
+affects prognosis, whereas others show no impact of 
+Downloaded from http://ahajournals.org by on May 30, 2026
+=== PAGE 111 ===
+December 13, 2022 Circulation. 2022;146:e334–e482. DOI: 10.1161/CIR.0000000000001106e444
+Isselbacher et al 2022 ACC/AHA Aortic Disease Guideline
+CLINICAL STATEMENTS  
+AND GUIDELINES
+sex. Clearly, further research is needed to elucidate 
+the impact of sex on the incidence and progression 
+of aortic disease, the risk of aortic dissection, and the 
+outcomes of intervention. Even more challenging is the 
+fact that few studies have been published on racial and 
+ethnic disparities among patients with aortic disease 
+and those undergoing aortic intervention. Moreover, it is 
+unclear that all patients with aortic disease have equal 
+access to skilled practitioners to care for them, so it is 
+imperative that we seek ways to actively minimize such 
+health care disparities. 1-17 Similarly, efforts should be 
+made to broaden clinical trials to represent the diverse 
+populations that we treat; study design, methodology, 
+reporting, and implementation should be designed to be 
+more inclusive. 18,19
+12.5. Quality of Life in Patients With Aortic 
+Disease
+Baseline HRQOL assessment in patients with aortic 
+disease is lacking, and the few studies that have tar-
+geted HRQOL have been conducted only in patients 
+receiving endovascular or open aortic repair. The impact 
+of physical, mental, emotional, sexual, and professional 
+status on the psychosocial well-being, tolerance of med-
+ical therapies, and recovery from aortic intervention has 
+not been well studied. The long-term effects on physical 
+and mental HRQOL after aortic repair are unknown. In 
+addition, evidence-based knowledge on studies target-
+ing quality of life in patients with heritable TAA is narrow 
+or limited only to patients with Marfan syndrome; almost 
+no studies have been performed in patients with Loeys-
+Dietz syndrome or vascular Ehlers-Danlos syndrome, 
+for example. Furthermore, only scattered studies have 
+examined strategies for boosting the psychological 
+health of patients with aortic disease and those under-
+going aortic surgery. Aortic diseases require a lifetime 
+of treatment and surveillance, so research is needed 
+on ways to improve and sustain patient engagement, 
+especially among those who are disadvantaged or at a 
+lower educational level. 1-8
+12.6. New Endovascular Technology
+Advances in endovascular technology have dramatically 
+impacted treatment strategies in patients with aortic 
+disease requiring intervention. Despite this significant 
+progress, current endovascular designs are limited in 
+their application because of the differing hemodynamic 
+and anatomic challenges presented by each segment of 
+the aorta and individual differences in aortic anatomy. In 
+addition, operator knowledge and experience, as well as 
+methodical patient selection, are important for obtain-
+ing optimal outcomes from endovascular procedures. 
+Continued evolution in stent-graft design, focused on 
+flexibility and durability, improved vascular imaging tech-
+nology, and advances in simulation training for operators, 
+will likely further reduce the risk of reinterventions and 
+improve long-term outcomes.1-6
+12.7 . Optimal Exercise and Rehabilitation 
+Protocols
+Very limited research has been conducted on optimal 
+exercise in patients with aortic disease. Moreover, no 
+specific rehabilitation strategies exist for patients who 
+still have untreated diseased aortic segments after sur-
+gical aortic repair and who do not meet the surgical 
+threshold for intervention. Developing patient-centric 
+rehabilitation protocols and individualized exercise pro-
+grams for patients with aortic disease is an unmet need 
+that requires further study.1-4
+12.8. Equitable Care and Training Opportunities
+Sociodemographic disparities can pose challenges to 
+patients and clinicians who seek and offer cardiovascular 
+and aortic care. Market competition, a relatively modern 
+phenomenon, and physician market concentration can 
+drive decision-making and subsequently affect optimal 
+care. Providing optimal cardiovascular and aortic care 
+will depend on widespread regional quality improvement 
+projects to determine best practices, minimize varia-
+tions in areas where evidence-based medicine has finite 
+benchmarks, and standardize patient selection and case 
+management. Physician participation in these programs 
+should be encouraged, and educational interventions 
+and training should be provided to disseminate knowl-
+edge and improve performance, which will help increase 
+awareness for patients and physicians in less-populated, 
+underserved areas.1-3
+PEER REVIEW COMMITTEE MEMBERS
+David P. Faxon, MD, FACC, Chair; Gilbert R. Upchurch Jr, 
+MD, FAHA, FACC, Vice Chair; Aaron W. Aday, MD, MS c, 
+FAHA; Ali Azizzadeh, MD; Michael Boisen, MD*; Beau 
+Hawkins, MD, FACC†; Christopher M. Kramer, MD, FACC, 
+FAHA; Jessica G.Y. Luc, MD; Thomas E. MacGillivray, 
+MD‡; S. Christopher Malaisrie, MD, FACC§; Kathryn 
+Osteen, PhD, RN, CMSRN, CNE; Himanshu J. Patel, MD, 
+FACC, FAHA; Parag J. Patel, MD||; Wanda M. Popescu, 
+MD; Evelio Rodriguez, MD, FACC; Rebecca Sorber, MD; 
+Philip S. T sao, PhD; Annabelle Santos Volgman, MD, 
+FACC, FAHA
+*SCA representative. †SCAI representative. ‡AHA/ACC Joint Committee on 
+Clinical Practice Guidelines liaison. §AA TS representative. ||SIR representative.
+Downloaded from http://ahajournals.org by on May 30, 2026

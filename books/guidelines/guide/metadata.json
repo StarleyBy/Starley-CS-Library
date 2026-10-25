@@ -32,53 +32,113 @@
     "chapters": [
       {
         "file": "chapter-01.md",
-        "title": "Valvular heart disease 2025 (ESC/EACTS)",
-        "russian": "Клапанные пороки сердца 2025 (ESC/EACTS)"
+        "title": "🫀 <span class=\"luminous-purple\">Valvular Heart Disease</span> <span class=\"luminous-amber\">2025</span> (<span class=\"luminous-blue\">ESC</span>/<span class=\"luminous-blue\">EACTS</span>)",
+        "russian": "🫀 <span class=\"luminous-purple\">Клапанные пороки сердца</span> <span class=\"luminous-amber\">2025</span> (<span class=\"luminous-blue\">ESC</span>/<span class=\"luminous-blue\">EACTS</span>)"
       },
       {
         "file": "chapter-02.md",
-        "title": "Myocardial revascularization 2018 (ESC/EACTS)",
-        "russian": "Реваскуляризация миокарда 2018 (ESC/EACTS)"
+        "title": "🔀 <span class=\"luminous-green\">Myocardial Revascularization</span> & <span class=\"luminous-green\">SYNTAX</span> <span class=\"luminous-amber\">2018</span> (<span class=\"luminous-blue\">ESC</span>/<span class=\"luminous-blue\">EACTS</span>)",
+        "russian": "🔀 <span class=\"luminous-green\">Реваскуляризация миокарда</span> и <span class=\"luminous-green\">SYNTAX</span> <span class=\"luminous-amber\">2018</span> (<span class=\"luminous-blue\">ESC</span>/<span class=\"luminous-blue\">EACTS</span>)"
       },
       {
         "file": "chapter-03.md",
-        "title": "Endocarditis 2023 (ESC)",
-        "russian": "Инфекционный эндокардит 2023 (ESC)"
+        "title": "🦠 <span class=\"luminous-red\">Endocarditis</span> <span class=\"luminous-amber\">2023</span> (<span class=\"luminous-blue\">ESC</span>)",
+        "russian": "🦠 <span class=\"luminous-red\">Инфекционный эндокардит</span> <span class=\"luminous-amber\">2023</span> (<span class=\"luminous-blue\">ESC</span>)"
       },
       {
         "file": "chapter-04.md",
-        "title": "Adult congenital heart disease 2020 (ESC)",
-        "russian": "Врожденные пороки сердца у взрослых 2020 (ESC)"
+        "title": "🧬 <span class=\"luminous-purple\">Adult Congenital Heart Disease</span> <span class=\"luminous-amber\">2020</span> (<span class=\"luminous-blue\">ESC</span>)",
+        "russian": "🧬 <span class=\"luminous-purple\">Врожденные пороки сердца у взрослых</span> <span class=\"luminous-amber\">2020</span> (<span class=\"luminous-blue\">ESC</span>)"
       },
       {
         "file": "chapter-05.md",
-        "title": "Cardiomyopathies 2023 (ESC)",
-        "russian": "Кардиомиопатии 2023 (ESC)"
+        "title": "🔬 <span class=\"luminous-purple\">Cardiomyopathies</span> <span class=\"luminous-amber\">2023</span> (<span class=\"luminous-blue\">ESC</span>)",
+        "russian": "🔬 <span class=\"luminous-purple\">Кардиомиопатии</span> <span class=\"luminous-amber\">2023</span> (<span class=\"luminous-blue\">ESC</span>)"
       },
       {
         "file": "chapter-06.md",
-        "title": "Acute coronary syndromes 2023 (ESC)",
-        "russian": "Острый коронарный синдром 2023 (ESC)"
+        "title": "⚡ <span class=\"luminous-red\">Acute Coronary Syndromes</span> <span class=\"luminous-amber\">2023</span> (<span class=\"luminous-blue\">ESC</span>)",
+        "russian": "⚡ <span class=\"luminous-red\">Острый коронарный синдром</span> <span class=\"luminous-amber\">2023</span> (<span class=\"luminous-blue\">ESC</span>)"
       },
       {
         "file": "chapter-07.md",
-        "title": "Chronic coronary syndromes 2024 (ESC)",
-        "russian": "Хронический коронарный синдром 2024 (ESC)"
+        "title": "🩺 <span class=\"luminous-amber\">Chronic Coronary Syndromes</span> <span class=\"luminous-amber\">2024</span> (<span class=\"luminous-blue\">ESC</span>)",
+        "russian": "🩺 <span class=\"luminous-amber\">Хронический коронарный синдром</span> <span class=\"luminous-amber\">2024</span> (<span class=\"luminous-blue\">ESC</span>)"
       },
       {
         "file": "chapter-08.md",
-        "title": "Surgical treatment of acute type A aortic dissection (AATS 2021 Consensus)",
-        "russian": "Хирургическое лечение острого расслоения аорты типа А (Консенсус AATS 2021)"
+        "title": "🩸 Surgical Treatment of <span class=\"luminous-red\">Acute Type A Aortic Dissection</span> (<span class=\"luminous-blue\">AATS</span> <span class=\"luminous-amber\">2021</span>)",
+        "russian": "🩸 Хирургическое лечение <span class=\"luminous-red\">острого расслоения аорты типа А</span> (<span class=\"luminous-blue\">AATS</span> <span class=\"luminous-amber\">2021</span>)"
       },
       {
         "file": "chapter-09.md",
-        "title": "Pulmonary embolism 2019 (ESC/ERS)",
-        "russian": "Тромбоэмболия легочной артерии 2019 (ESC/ERS)"
+        "title": "🫁 <span class=\"luminous-cyan\">Pulmonary Embolism</span> <span class=\"luminous-amber\">2019</span> (<span class=\"luminous-blue\">ESC</span>/<span class=\"luminous-blue\">ERS</span>)",
+        "russian": "🫁 <span class=\"luminous-cyan\">Тромбоэмболия легочной артерии</span> <span class=\"luminous-amber\">2019</span> (<span class=\"luminous-blue\">ESC</span>/<span class=\"luminous-blue\">ERS</span>)"
       },
       {
         "file": "chapter-10.md",
-        "title": "Cardio-oncology 2022 (ESC/EHA/ESTRO/IC-OS)",
-        "russian": "Кардиоонкология 2022 (ESC/EHA/ESTRO/IC-OS)"
+        "title": "🎗️ <span class=\"luminous-purple\">Cardio-Oncology</span> <span class=\"luminous-amber\">2022</span> (<span class=\"luminous-blue\">ESC</span>/<span class=\"luminous-blue\">EHA</span>/<span class=\"luminous-blue\">ESTRO</span>/<span class=\"luminous-blue\">IC-OS</span>)",
+        "russian": "🎗️ <span class=\"luminous-purple\">Кардиоонкология</span> <span class=\"luminous-amber\">2022</span> (<span class=\"luminous-blue\">ESC</span>/<span class=\"luminous-blue\">EHA</span>/<span class=\"luminous-blue\">ESTRO</span>/<span class=\"luminous-blue\">IC-OS</span>)"
+      },
+      {
+        "file": "chapter-11.md",
+        "title": "💓 <span class=\"luminous-yellow\">Atrial Fibrillation (AF)</span> <span class=\"luminous-amber\">2024</span> (<span class=\"luminous-blue\">ESC</span>/<span class=\"luminous-blue\">EACTS</span>)",
+        "russian": "💓 <span class=\"luminous-yellow\">Фибрилляция предсердий (ФП)</span> <span class=\"luminous-amber\">2024</span> (<span class=\"luminous-blue\">ESC</span>/<span class=\"luminous-blue\">EACTS</span>)"
+      },
+      {
+        "file": "chapter-12.md",
+        "title": "⚡ <span class=\"luminous-red\">Acute Coronary Syndromes</span> <span class=\"luminous-amber\">2025</span> (<span class=\"luminous-blue\">ACC</span>/<span class=\"luminous-blue\">AHA</span>)",
+        "russian": "⚡ <span class=\"luminous-red\">Острый коронарный синдром</span> <span class=\"luminous-amber\">2025</span> (<span class=\"luminous-blue\">ACC</span>/<span class=\"luminous-blue\">AHA</span>)"
+      },
+      {
+        "file": "chapter-13.md",
+        "title": "🔍 <span class=\"luminous-purple\">Hypertrophic Cardiomyopathy</span> <span class=\"luminous-amber\">2024</span> (<span class=\"luminous-blue\">AHA</span>/<span class=\"luminous-blue\">ACC</span>)",
+        "russian": "🔍 <span class=\"luminous-purple\">Гипертрофическая кардиомиопатия</span> <span class=\"luminous-amber\">2024</span> (<span class=\"luminous-blue\">AHA</span>/<span class=\"luminous-blue\">ACC</span>)"
+      },
+      {
+        "file": "chapter-14.md",
+        "title": "💧 <span class=\"luminous-green\">Heart Failure</span> <span class=\"luminous-amber\">2022</span> (<span class=\"luminous-blue\">AHA</span>/<span class=\"luminous-blue\">ACC</span>/<span class=\"luminous-blue\">HFSA</span>)",
+        "russian": "💧 <span class=\"luminous-green\">Сердечная недостаточность</span> <span class=\"luminous-amber\">2022</span> (<span class=\"luminous-blue\">AHA</span>/<span class=\"luminous-blue\">ACC</span>/<span class=\"luminous-blue\">HFSA</span>)"
+      },
+      {
+        "file": "chapter-15.md",
+        "title": "🛡️ <span class=\"luminous-red\">Diagnosis and Management of Aortic Disease</span> <span class=\"luminous-amber\">2022</span> (<span class=\"luminous-blue\">ACC</span>/<span class=\"luminous-blue\">AHA</span>)",
+        "russian": "🛡️ <span class=\"luminous-red\">Диагностика и лечение заболеваний аорты</span> <span class=\"luminous-amber\">2022</span> (<span class=\"luminous-blue\">ACC</span>/<span class=\"luminous-blue\">AHA</span>)"
+      },
+      {
+        "file": "chapter-16.md",
+        "title": "💖 <span class=\"luminous-green\">Heart Failure</span> <span class=\"luminous-amber\">2026</span> (<span class=\"luminous-blue\">ESC</span>)",
+        "russian": "💖 <span class=\"luminous-green\">Сердечная недостаточность</span> <span class=\"luminous-amber\">2026</span> (<span class=\"luminous-blue\">ESC</span>)"
+      },
+      {
+        "file": "chapter-17.md",
+        "title": "📡 Comprehensive Transthoracic <span class=\"luminous-cyan\">ECHO</span>cardiography <span class=\"luminous-amber\">2018</span> (<span class=\"luminous-blue\">ASE</span>)",
+        "russian": "📡 Комплексная трансторакальная <span class=\"luminous-cyan\">ЭХО</span>кардиография <span class=\"luminous-amber\">2018</span> (<span class=\"luminous-blue\">ASE</span>)"
+      },
+      {
+        "file": "chapter-18.md",
+        "title": "💉 Ultrasound-Guided <span class=\"luminous-blue\">Vascular Cannulation</span> <span class=\"luminous-amber\">2025</span> (<span class=\"luminous-blue\">ASE</span> <span class=\"luminous-cyan\">ECHO</span>)",
+        "russian": "💉 Канюляция сосудов под ультразвуковым контролем <span class=\"luminous-amber\">2025</span> (<span class=\"luminous-blue\">ASE</span> <span class=\"luminous-cyan\">ЭХО</span>)"
+      },
+      {
+        "file": "chapter-19.md",
+        "title": "🏥 <span class=\"luminous-cyan\">TEE</span> to Assist with Surgical Decision-Making in the OR <span class=\"luminous-amber\">2020</span> (<span class=\"luminous-blue\">ASE</span>/<span class=\"luminous-blue\">SCA</span>/<span class=\"luminous-blue\">STS</span> <span class=\"luminous-cyan\">ECHO</span>)",
+        "russian": "🏥 <span class=\"luminous-cyan\">ЧПЭхоКГ</span> для принятия хирургических решений в операционной <span class=\"luminous-amber\">2020</span> (<span class=\"luminous-blue\">ASE</span>/<span class=\"luminous-blue\">SCA</span>/<span class=\"luminous-blue\">STS</span> <span class=\"luminous-cyan\">ЭХО</span>)"
+      },
+      {
+        "file": "chapter-20.md",
+        "title": "🧭 Comprehensive Transesophageal <span class=\"luminous-cyan\">ECHO</span>cardiographic Examination <span class=\"luminous-amber\">2013</span> (<span class=\"luminous-blue\">ASE</span>/<span class=\"luminous-blue\">SCA</span>)",
+        "russian": "🧭 Комплексное чреспищеводное <span class=\"luminous-cyan\">ЭХО</span>кардиографическое исследование <span class=\"luminous-amber\">2013</span> (<span class=\"luminous-blue\">ASE</span>/<span class=\"luminous-blue\">SCA</span>)"
+      },
+      {
+        "file": "chapter-21.md",
+        "title": "⏱️ Basic Perioperative Transesophageal <span class=\"luminous-cyan\">ECHO</span>cardiography Examination <span class=\"luminous-amber\">2013</span> (<span class=\"luminous-blue\">ASE</span>/<span class=\"luminous-blue\">SCA</span>)",
+        "russian": "⏱️ Базовое периоперационное чреспищеводное <span class=\"luminous-cyan\">ЭХО</span>кардиографическое исследование <span class=\"luminous-amber\">2013</span> (<span class=\"luminous-blue\">ASE</span>/<span class=\"luminous-blue\">SCA</span>)"
+      },
+      {
+        "file": "chapter-22.md",
+        "title": "⚙️ Evaluation of <span class=\"luminous-purple\">Prosthetic Valve Function</span> with Cardiovascular Imaging <span class=\"luminous-amber\">2024</span> (<span class=\"luminous-cyan\">ECHO</span>/<span class=\"luminous-blue\">SCMR</span>/<span class=\"luminous-blue\">SCCT</span>)",
+        "russian": "⚙️ Оценка функции <span class=\"luminous-purple\">протезированных клапанов</span> методами сердечно-сосудистой визуализации <span class=\"luminous-amber\">2024</span> (<span class=\"luminous-cyan\">ЭХО</span>/<span class=\"luminous-blue\">SCMR</span>/<span class=\"luminous-blue\">SCCT</span>)"
       }
     ],
     "appendices": []

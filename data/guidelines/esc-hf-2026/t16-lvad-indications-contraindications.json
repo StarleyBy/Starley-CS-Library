@@ -1,0 +1,106 @@
+{
+  "schemaVersion": 1,
+  "id": "esc-hf-2026.t16-lvad-indications-contraindications",
+  "guidelineId": "esc-hf-2026",
+  "number": "16",
+  "type": "grid",
+  "title": {
+    "en": "Indications and contraindications for implantation of a left ventricular assist device",
+    "ru": "Показания и противопоказания к имплантации аппарата вспомогательного кровообращения левого желудочка (LVAD)"
+  },
+  "tags": [
+    "lvad",
+    "durable-mcs",
+    "indications",
+    "contraindications",
+    "intermacs",
+    "advanced-hf",
+    "end-organ-dysfunction",
+    "rv-failure",
+    "anticoagulation"
+  ],
+  "source": {
+    "expectedRows": 3
+  },
+  "i18nStatus": {
+    "ru": "reviewed"
+  },
+  "columns": [
+    {
+      "id": "category",
+      "title": {
+        "en": "Category",
+        "ru": "Категория"
+      }
+    },
+    {
+      "id": "criteria",
+      "title": {
+        "en": "Criteria and characteristics",
+        "ru": "Критерии и характеристики"
+      }
+    }
+  ],
+  "rows": [
+    {
+      "id": "r01-indications",
+      "cells": [
+        {
+          "text": {
+            "en": "**Indications^[a]**\n*HF with severely reduced LVEF and one of the following:*",
+            "ru": "**Показания^[a]**\n*СН с выраженно сниженной ФВЛЖ и наличие одного из следующих критериев:*"
+          },
+          "tone": "green"
+        },
+        {
+          "text": {
+            "en": "• **INTERMACS 1–2** with neurological and other end-organ recovery but no cardiac recovery on temporary MCS\n*OR*\n• **INTERMACS 2–4**\n*OR*\n• **Severe symptoms and signs** (NYHA class III/IV; INTERMACS >4) despite optimal FMT and GDIT, and at least one of the following:\n  - Unable to exercise due to HF or, if able to perform CPET, with pVO2 <12–14 mL/kg/min and/or <50% predicted value\n  - End-organ dysfunction (worsening kidney and/or hepatic function, group 2 pulmonary hypertension, cardiac cachexia) due to reduced perfusion as indicated by cardiac index ≤2 L/min/m² despite euvolaemic or therapy-resistant hypervolaemic status\n  - Repeated HFH within the previous 12 months without an obvious precipitating cause",
+            "ru": "• **INTERMACS 1–2** с неврологическим и органно-функциональным восстановлением, но без восстановления функции сердца на фоне временной МПК\n*ИЛИ*\n• **INTERMACS 2–4**\n*ИЛИ*\n• **Тяжелые симптомы и признаки** (III/IV ФК по NYHA; INTERMACS >4), несмотря на оптимальную терапию FMT и GDIT, и хотя бы один из критериев:\n  - Неспособность выполнять нагрузку из-за СН или при возможности выполнения КРНТ (CPET) пиковое VO₂ <12–14 мл/кг/мин и/или <50% от должного\n  - Дисфункция органов-мишеней (ухудшение функции почек и/или печени, легочная гипертензия 2-й группы, кардиальная кахексия) из-за гипоперфузии (сердечный индекс ≤2 л/мин/м²), несмотря на эуволемический или резистентный к терапии гиперволемический статус\n  - Повторные госпитализации по поводу СН за последние 12 месяцев без явной провоцирующей причины"
+          }
+        }
+      ]
+    },
+    {
+      "id": "r02-absolute-contraindications",
+      "cells": [
+        {
+          "text": {
+            "en": "**Contraindications**\n*Absolute*",
+            "ru": "**Противопоказания**\n*Абсолютные*"
+          },
+          "tone": "red"
+        },
+        {
+          "text": {
+            "en": "• Severe right ventricular dysfunction despite euvolaemic status\n• Severe irreversible end-organ (kidney and/or liver) disease\n• Severe irreversible neurological disease\n• Severe pulmonary disease\n• Contraindication to long-term oral anticoagulation\n• Medical non-adherence and/or other psychosocial limitations\n• Insufficient social supports to achieve compliant care in the outpatient setting\n• Psychological instability that jeopardizes proper follow-up and intensive therapeutic regime after implantation",
+            "ru": "• Тяжелая дисфункция правого желудочка, несмотря на эуволемический статус\n• Тяжелое необратимое поражение органов-мишеней (почек и/или печени)\n• Тяжелое необратимое неврологическое заболевание\n• Тяжелое заболевание легких\n• Противопоказания к длительной пероральной антикоагулянтной терапии\n• Низкая приверженность лечению и/или иные психосоциальные ограничения\n• Недостаточная социальная поддержка для амбулаторного ухода и комплаентности\n• Психологическая нестабильность, ставящая под угрозу наблюдение и интенсивный лечебный режим после имплантации"
+          }
+        }
+      ]
+    },
+    {
+      "id": "r03-relative-contraindications",
+      "cells": [
+        {
+          "text": {
+            "en": "**Contraindications**\n*Relative*",
+            "ru": "**Противопоказания**\n*Относительные*"
+          },
+          "tone": "yellow"
+        },
+        {
+          "text": {
+            "en": "• Obesity or malnutrition\n• Musculoskeletal disease that impairs rehabilitation\n• Malignancy (depending on type and prognosis)\n• Severe peripheral arterial disease\n• Systemic infection\n• Alcohol or substance abuse within the past 6 months, or active smoking\n• Impaired cognitive function\n• Frailty",
+            "ru": "• Ожирение или мальнутриция\n• Заболевания опорно-двигательного аппарата, препятствующие реабилитации\n• Злокачественные новообразования (в зависимости от типа и прогноза)\n• Тяжелое заболевание периферических артерий\n• Системная инфекция\n• Злоупотребление алкоголем или психоактивными веществами за последние 6 месяцев либо активное курение\n• Когнитивные нарушения\n• Старческая астения (хрупкость)"
+          }
+        }
+      ]
+    }
+  ],
+  "footnotes": {
+    "a": {
+      "en": "Indication by transplantation centre includes assessment of HF severity by RHC and/or CPET.",
+      "ru": "Определение показаний трансплантационным центром включает оценку тяжести СН с помощью катетеризации правых отделов сердца (RHC) и/или КРНТ (CPET)."
+    }
+  }
+}

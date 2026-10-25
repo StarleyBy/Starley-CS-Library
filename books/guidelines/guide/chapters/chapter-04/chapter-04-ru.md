@@ -1,4 +1,4 @@
-# Рекомендации ESC 2020 по ведению взрослых с врожденными пороками сердца
+# 🧬 <span class="luminous-purple">Врожденные пороки сердца у взрослых</span> <span class="luminous-amber">2020</span> (<span class="luminous-blue">ESC</span>)
 
 <details class="med-details"><summary>
 

@@ -1,0 +1,619 @@
+{
+  "schemaVersion": 1,
+  "id": "esc-hf-2026.t20-red-flags-cardiac-amyloidosis",
+  "guidelineId": "esc-hf-2026",
+  "number": "20",
+  "type": "grid",
+  "title": {
+    "en": "'Red flags' for most common forms of cardiac amyloidosis",
+    "ru": "«Красные флаги» наиболее частых форм амилоидоза сердца"
+  },
+  "tags": [
+    "cardiac-amyloidosis",
+    "red-flags",
+    "ttr",
+    "al",
+    "attr",
+    "ecg",
+    "echo",
+    "cmr",
+    "carpal-tunnel",
+    "polyneuropathy",
+    "nt-probnp"
+  ],
+  "source": {
+    "expectedRows": 34
+  },
+  "i18nStatus": {
+    "ru": "reviewed"
+  },
+  "columns": [
+    {
+      "id": "red_flag",
+      "title": {
+        "en": "Red flag",
+        "ru": "«Красный флаг»"
+      }
+    },
+    {
+      "id": "ttr",
+      "title": {
+        "en": "TTR",
+        "ru": "TTR"
+      }
+    },
+    {
+      "id": "al",
+      "title": {
+        "en": "AL",
+        "ru": "AL"
+      }
+    }
+  ],
+  "rows": [
+    {
+      "id": "sec-extracardiac",
+      "kind": "section",
+      "cells": [
+        {
+          "colspan": 3,
+          "text": {
+            "en": "**Extracardiac**",
+            "ru": "**Внесердечные признаки**"
+          }
+        }
+      ]
+    },
+    {
+      "id": "r01-polyneuropathy",
+      "cells": [
+        {
+          "text": {
+            "en": "Polyneuropathy",
+            "ru": "Полинейропатия"
+          }
+        },
+        {
+          "text": { "en": "X", "ru": "X" }
+        },
+        {
+          "text": { "en": "X", "ru": "X" }
+        }
+      ]
+    },
+    {
+      "id": "r02-dysautonomia",
+      "cells": [
+        {
+          "text": {
+            "en": "Dysautonomia",
+            "ru": "Вегетативная дисфункция (дизавтономия)"
+          }
+        },
+        {
+          "text": { "en": "X", "ru": "X" }
+        },
+        {
+          "text": { "en": "X", "ru": "X" }
+        }
+      ]
+    },
+    {
+      "id": "r03-skin-bruising",
+      "cells": [
+        {
+          "text": {
+            "en": "Skin bruising",
+            "ru": "Кожные кровоподтеки (периорбитальная пурпура)"
+          }
+        },
+        {
+          "text": { "en": "–", "ru": "–" }
+        },
+        {
+          "text": { "en": "X", "ru": "X" }
+        }
+      ]
+    },
+    {
+      "id": "r04-macroglossia",
+      "cells": [
+        {
+          "text": {
+            "en": "Macroglossia",
+            "ru": "Макроглоссия"
+          }
+        },
+        {
+          "text": { "en": "–", "ru": "–" }
+        },
+        {
+          "text": { "en": "X", "ru": "X" }
+        }
+      ]
+    },
+    {
+      "id": "r05-deafness",
+      "cells": [
+        {
+          "text": {
+            "en": "Deafness",
+            "ru": "Тугоухость / глухота"
+          }
+        },
+        {
+          "text": { "en": "X", "ru": "X" }
+        },
+        {
+          "text": { "en": "–", "ru": "–" }
+        }
+      ]
+    },
+    {
+      "id": "r06-carpal-tunnel",
+      "cells": [
+        {
+          "text": {
+            "en": "Bilateral carpal tunnel syndrome",
+            "ru": "Двусторонний синдром запястного канала"
+          }
+        },
+        {
+          "text": { "en": "X", "ru": "X" }
+        },
+        {
+          "text": { "en": "–", "ru": "–" }
+        }
+      ]
+    },
+    {
+      "id": "r07-biceps-rupture",
+      "cells": [
+        {
+          "text": {
+            "en": "Ruptured biceps tendon",
+            "ru": "Спонтанный разрыв сухожилия двуглавой мышцы плеча (симптом Попая)"
+          }
+        },
+        {
+          "text": { "en": "X", "ru": "X" }
+        },
+        {
+          "text": { "en": "–", "ru": "–" }
+        }
+      ]
+    },
+    {
+      "id": "r08-spinal-stenosis",
+      "cells": [
+        {
+          "text": {
+            "en": "Lumbar spinal stenosis",
+            "ru": "Стеноз поясничного отдела спинномозгового канала"
+          }
+        },
+        {
+          "text": { "en": "X", "ru": "X" }
+        },
+        {
+          "text": { "en": "–", "ru": "–" }
+        }
+      ]
+    },
+    {
+      "id": "r09-vitreous-deposits",
+      "cells": [
+        {
+          "text": {
+            "en": "Vitreous deposits",
+            "ru": "Отложения в стекловидном теле"
+          }
+        },
+        {
+          "text": { "en": "X^[a]", "ru": "X^[a]" }
+        },
+        {
+          "text": { "en": "–", "ru": "–" }
+        }
+      ]
+    },
+    {
+      "id": "r10-family-history",
+      "cells": [
+        {
+          "text": {
+            "en": "Family history",
+            "ru": "Отягощенный семейный анамнез"
+          }
+        },
+        {
+          "text": { "en": "X^[a]", "ru": "X^[a]" }
+        },
+        {
+          "text": { "en": "–", "ru": "–" }
+        }
+      ]
+    },
+    {
+      "id": "r11-kidney-insufficiency",
+      "cells": [
+        {
+          "text": {
+            "en": "Kidney insufficiency",
+            "ru": "Почечная недостаточность"
+          }
+        },
+        {
+          "text": { "en": "X", "ru": "X" }
+        },
+        {
+          "text": { "en": "X", "ru": "X" }
+        }
+      ]
+    },
+    {
+      "id": "r12-proteinuria",
+      "cells": [
+        {
+          "text": {
+            "en": "Proteinuria",
+            "ru": "Протеинурия"
+          }
+        },
+        {
+          "text": { "en": "X", "ru": "X" }
+        },
+        {
+          "text": { "en": "X", "ru": "X" }
+        }
+      ]
+    },
+    {
+      "id": "sec-cardiac-clinical",
+      "kind": "section",
+      "cells": [
+        {
+          "colspan": 3,
+          "text": {
+            "en": "**Cardiac clinical**",
+            "ru": "**Клинические кардиальные признаки**"
+          }
+        }
+      ]
+    },
+    {
+      "id": "r13-hypotension",
+      "cells": [
+        {
+          "text": {
+            "en": "Hypotension or normotension if previously hypertensive",
+            "ru": "Гипотензия или спонтанная нормализация АД у пациента с предшествующей артериальной гипертензией"
+          }
+        },
+        {
+          "text": { "en": "X", "ru": "X" }
+        },
+        {
+          "text": { "en": "X", "ru": "X" }
+        }
+      ]
+    },
+    {
+      "id": "sec-ecg",
+      "kind": "section",
+      "cells": [
+        {
+          "colspan": 3,
+          "text": {
+            "en": "**ECG**",
+            "ru": "**ЭКГ**"
+          }
+        }
+      ]
+    },
+    {
+      "id": "r14-pseudoinfarct",
+      "cells": [
+        {
+          "text": {
+            "en": "Pseudo-infarct ECG pattern",
+            "ru": "Псевдоинфарктный паттерн на ЭКГ (патологические зубцы Q при отсутствии ИМ)"
+          }
+        },
+        {
+          "text": { "en": "X", "ru": "X" }
+        },
+        {
+          "text": { "en": "X", "ru": "X" }
+        }
+      ]
+    },
+    {
+      "id": "r15-low-qrs-voltage",
+      "cells": [
+        {
+          "text": {
+            "en": "Low/decreased QRS voltage relative to LV thickness",
+            "ru": "Низкий/сниженный вольтаж комплекса QRS относительно выраженности гипертрофии/толщины стенок ЛЖ"
+          }
+        },
+        {
+          "text": { "en": "X", "ru": "X" }
+        },
+        {
+          "text": { "en": "X", "ru": "X" }
+        }
+      ]
+    },
+    {
+      "id": "r16-av-conduction",
+      "cells": [
+        {
+          "text": {
+            "en": "AV conduction disease",
+            "ru": "Нарушения атриовентрикулярной проводимости"
+          }
+        },
+        {
+          "text": { "en": "X", "ru": "X" }
+        },
+        {
+          "text": { "en": "X", "ru": "X" }
+        }
+      ]
+    },
+    {
+      "id": "sec-laboratory",
+      "kind": "section",
+      "cells": [
+        {
+          "colspan": 3,
+          "text": {
+            "en": "**Laboratory**",
+            "ru": "**Лабораторные маркеры**"
+          }
+        }
+      ]
+    },
+    {
+      "id": "r17-nt-probnp",
+      "cells": [
+        {
+          "text": {
+            "en": "Disproportionately elevated NT-proBNP relative to HF severity",
+            "ru": "Непропорционально высокий уровень NT-proBNP по отношению к тяжести СН"
+          }
+        },
+        {
+          "text": { "en": "X", "ru": "X" }
+        },
+        {
+          "text": { "en": "X", "ru": "X" }
+        }
+      ]
+    },
+    {
+      "id": "r18-troponin",
+      "cells": [
+        {
+          "text": {
+            "en": "Persistently elevated cardiac troponin levels",
+            "ru": "Стойко повышенный уровень сердечных тропонинов"
+          }
+        },
+        {
+          "text": { "en": "X", "ru": "X" }
+        },
+        {
+          "text": { "en": "X", "ru": "X" }
+        }
+      ]
+    },
+    {
+      "id": "sec-echocardiography",
+      "kind": "section",
+      "cells": [
+        {
+          "colspan": 3,
+          "text": {
+            "en": "**Echocardiography**",
+            "ru": "**Эхокардиография**"
+          }
+        }
+      ]
+    },
+    {
+      "id": "r19-granular-sparkling",
+      "cells": [
+        {
+          "text": {
+            "en": "Granular sparkling of myocardium",
+            "ru": "Гранулярное свечение / зернистая исчерченность миокарда"
+          }
+        },
+        {
+          "text": { "en": "X", "ru": "X" }
+        },
+        {
+          "text": { "en": "X", "ru": "X" }
+        }
+      ]
+    },
+    {
+      "id": "r20-rv-wall-thickness",
+      "cells": [
+        {
+          "text": {
+            "en": "Increased right ventricular wall thickness",
+            "ru": "Утолщение стенки правого желудочка"
+          }
+        },
+        {
+          "text": { "en": "X", "ru": "X" }
+        },
+        {
+          "text": { "en": "X", "ru": "X" }
+        }
+      ]
+    },
+    {
+      "id": "r21-valve-thickness",
+      "cells": [
+        {
+          "text": {
+            "en": "Increased valve thickness",
+            "ru": "Утолщение створок клапанов"
+          }
+        },
+        {
+          "text": { "en": "X", "ru": "X" }
+        },
+        {
+          "text": { "en": "X", "ru": "X" }
+        }
+      ]
+    },
+    {
+      "id": "r22-ias-thickness",
+      "cells": [
+        {
+          "text": {
+            "en": "Increased interatrial septum thickness",
+            "ru": "Утолщение межпредсердной перегородки"
+          }
+        },
+        {
+          "text": { "en": "X", "ru": "X" }
+        },
+        {
+          "text": { "en": "X", "ru": "X" }
+        }
+      ]
+    },
+    {
+      "id": "r23-pericardial-effusion",
+      "cells": [
+        {
+          "text": {
+            "en": "Pericardial effusion",
+            "ru": "Перикардиальный выпот"
+          }
+        },
+        {
+          "text": { "en": "X", "ru": "X" }
+        },
+        {
+          "text": { "en": "X", "ru": "X" }
+        }
+      ]
+    },
+    {
+      "id": "r24-apical-sparing",
+      "cells": [
+        {
+          "text": {
+            "en": "Reduced longitudinal strain with apical sparing pattern",
+            "ru": "Снижение глобальной продольной деформации с сохранением верхушки (паттерн «apical sparing»)"
+          }
+        },
+        {
+          "text": { "en": "X", "ru": "X" }
+        },
+        {
+          "text": { "en": "X", "ru": "X" }
+        }
+      ]
+    },
+    {
+      "id": "sec-cmr",
+      "kind": "section",
+      "cells": [
+        {
+          "colspan": 3,
+          "text": {
+            "en": "**CMR^[b]**",
+            "ru": "**МРТ сердца (CMR)^[b]**"
+          }
+        }
+      ]
+    },
+    {
+      "id": "r25-subendocardial-lge",
+      "cells": [
+        {
+          "text": {
+            "en": "Global subendocardial or transmural LGE",
+            "ru": "Диффузное субэндокардиальное или трансмуральное отсроченное контрастирование гадолинием (LGE)"
+          }
+        },
+        {
+          "text": { "en": "X", "ru": "X" }
+        },
+        {
+          "text": { "en": "X", "ru": "X" }
+        }
+      ]
+    },
+    {
+      "id": "r26-native-t1",
+      "cells": [
+        {
+          "text": {
+            "en": "Elevated native T1 values",
+            "ru": "Повышенные показатели нативного T1 картирования"
+          }
+        },
+        {
+          "text": { "en": "X", "ru": "X" }
+        },
+        {
+          "text": { "en": "X", "ru": "X" }
+        }
+      ]
+    },
+    {
+      "id": "r27-ecv",
+      "cells": [
+        {
+          "text": {
+            "en": "Increased extracellular volume",
+            "ru": "Увеличение объема внеклеточного пространства (ECV)"
+          }
+        },
+        {
+          "text": { "en": "X", "ru": "X" }
+        },
+        {
+          "text": { "en": "X", "ru": "X" }
+        }
+      ]
+    },
+    {
+      "id": "r28-gadolinium-kinetics",
+      "cells": [
+        {
+          "text": {
+            "en": "Abnormal gadolinium kinetics",
+            "ru": "Аномальная кинетика вымывания гадолиния"
+          }
+        },
+        {
+          "text": { "en": "X", "ru": "X" }
+        },
+        {
+          "text": { "en": "X", "ru": "X" }
+        }
+      ]
+    }
+  ],
+  "footnotes": {
+    "a": {
+      "en": "Hereditary TTR-CA.",
+      "ru": "Наследственный транстиретиновый амилоидоз сердца (hTTR-CA)."
+    },
+    "b": {
+      "en": "CMR can be diagnostic for CA.",
+      "ru": "МРТ сердца (CMR) может иметь диагностическое значение при амилоидозе сердца (CA)."
+    }
+  }
+}

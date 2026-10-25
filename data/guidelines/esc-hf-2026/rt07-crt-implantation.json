@@ -1,0 +1,118 @@
+{
+  "schemaVersion": 1,
+  "id": "esc-hf-2026.rt07-crt-implantation",
+  "guidelineId": "esc-hf-2026",
+  "number": "Recommendation Table 7",
+  "type": "recommendations",
+  "title": {
+    "en": "Recommendations for cardiac resynchronization therapy implantation",
+    "ru": "Рекомендации по имплантации устройств для сердечной ресинхронизирующей терапии"
+  },
+  "tags": [
+    "crt",
+    "resynchronization-therapy",
+    "lbbb",
+    "qrs-duration",
+    "hfref",
+    "upgrade",
+    "av-block",
+    "pacemaker"
+  ],
+  "source": {
+    "expectedRows": 8
+  },
+  "i18nStatus": {
+    "ru": "reviewed"
+  },
+  "sections": [
+    {
+      "id": "sec-crt-implantation",
+      "title": {
+        "en": "Recommendations for cardiac resynchronization therapy implantation (see Evidence Tables 49–58)",
+        "ru": "Рекомендации по имплантации устройств для сердечной ресинхронизирующей терапии (см. Доказательные таблицы 49–58)"
+      },
+      "rows": [
+        {
+          "id": "r01",
+          "text": {
+            "en": "CRT is recommended in patients with symptomatic HFrEF, LVEF ≤35%, despite optimal FMT, in SR with LBBB and QRS duration ≥150 ms in order to improve symptoms and reduce the risk of hospitalizations and death.",
+            "ru": "СРТ рекомендуется пациентам с симптоматической СНнФВ, ФВЛЖ ≤35%, несмотря на оптимальную базовую терапию (FMT), при синусовом ритме с БЛНПГ и длительностью QRS ≥150 мс для облегчения симптомов и снижения риска госпитализаций и смерти."
+          },
+          "class": "I",
+          "level": "A",
+          "refs": [388, 389, 390, 391, 392, 393, 394, 395, 396, 397, 398]
+        },
+        {
+          "id": "r02",
+          "text": {
+            "en": "An upgrade to CRT should be considered in patients with an LVEF ≤35% who have received a conventional pacemaker or an ICD and subsequently develop worsening HF despite optimal FMT and who have a significant proportion of RV pacing in order to reduce the risk of HFH or death.",
+            "ru": "Модернизация (апгрейд) до СРТ должна рассматриваться у пациентов с ФВЛЖ ≤35%, которым ранее был имплантирован стандартный кардиостимулятор или ИКД, при последующем ухудшении течения СН, несмотря на оптимальную базовую терапию (FMT), и наличии высокой доли стимуляции правого желудочка, для снижения риска госпитализации по поводу СН или смерти."
+          },
+          "class": "IIa",
+          "level": "B1",
+          "refs": [412]
+        },
+        {
+          "id": "r03",
+          "text": {
+            "en": "CRT, rather than RV pacing, should be considered in patients with HFrEF regardless of NYHA class or QRS width who have an indication for ventricular pacing for high-degree AV block in order to reduce the risk of HFH and death.",
+            "ru": "СРТ вместо стимуляции правого желудочка должна рассматриваться у пациентов с СНнФВ независимо от функционального класса по NYHA или ширины комплекса QRS при наличии показаний к желудочковой электрокардиостимуляции по поводу АВ-блокады высокой степени для снижения риска госпитализации по поводу СН и смерти."
+          },
+          "class": "IIa",
+          "level": "B1",
+          "refs": [409]
+        },
+        {
+          "id": "r04",
+          "text": {
+            "en": "CRT should be considered in patients with symptomatic HFrEF, LVEF ≤35%, despite optimal FMT, who are in SR with non-LBBB QRS morphology and QRS duration ≥150 ms in order to improve symptoms and reduce morbidity and death.",
+            "ru": "СРТ должна рассматриваться у пациентов с симптоматической СНнФВ, ФВЛЖ ≤35%, несмотря на оптимальную базовую терапию (FMT), при синусовом ритме с морфологией QRS, отличной от БЛНПГ, и длительностью QRS ≥150 мс для облегчения симптомов и снижения заболеваемости и смерти."
+          },
+          "class": "IIa",
+          "level": "C",
+          "refs": [388, 389, 390, 391, 392, 393, 394, 395, 396, 397, 398]
+        },
+        {
+          "id": "r05",
+          "text": {
+            "en": "CRT should be considered in patients with symptomatic HFrEF, LVEF ≤35%, despite optimal FMT, who are in SR with LBBB QRS morphology and QRS duration of 130–149 ms in order to improve symptoms and reduce morbidity and death.",
+            "ru": "СРТ должна рассматриваться у пациентов с симптоматической СНнФВ, ФВЛЖ ≤35%, несмотря на оптимальную базовую терапию (FMT), при синусовом ритме с морфологией БЛНПГ и длительностью QRS 130–149 мс для облегчения симптомов и снижения заболеваемости и смерти."
+          },
+          "class": "IIa",
+          "level": "C",
+          "refs": [390, 417]
+        },
+        {
+          "id": "r06",
+          "text": {
+            "en": "CRT may be considered in patients with symptomatic HFrEF, LVEF ≤35%, despite optimal FMT, who are in SR with non-LBBB QRS morphology and QRS duration of 130–149 ms in order to improve symptoms and reduce morbidity and death.",
+            "ru": "СРТ может быть рассмотрена у пациентов с симптоматической СНнФВ, ФВЛЖ ≤35%, несмотря на оптимальную базовую терапию (FMT), при синусовом ритме с морфологией QRS, отличной от БЛНПГ, и длительностью QRS 130–149 мс для облегчения симптомов и снижения заболеваемости и смерти."
+          },
+          "class": "IIb",
+          "level": "C",
+          "refs": [391, 397]
+        },
+        {
+          "id": "r07",
+          "text": {
+            "en": "Initiation of FMT and planning for CRT implantation may be considered simultaneously in patients with symptomatic HFrEF, an LBBB with QRS ≥150 ms, and LVEF ≤35%, to improve symptoms and reduce morbidity and death, although reassessment of LVEF should be conducted prior to CRT implantation.",
+            "ru": "Одновременное начало базовой терапии (FMT) и планирование имплантации СРТ могут быть рассмотрены у пациентов с симптоматической СНнФВ, БЛНПГ с QRS ≥150 мс и ФВЛЖ ≤35% для облегчения симптомов и снижения заболеваемости и смерти, при этом перед непосредственной имплантацией СРТ следует провести повторную оценку ФВЛЖ."
+          },
+          "class": "IIb",
+          "level": "C",
+          "refs": [418, 419, 420, 421, 422, 423]
+        },
+        {
+          "id": "r08",
+          "text": {
+            "en": "CRT is not recommended in patients with a QRS duration <130 ms who do not have an indication for pacing due to high-degree AV block.",
+            "ru": "СРТ не рекомендуется пациентам с длительностью QRS <130 мс, не имеющим показаний к электрокардиостимуляции по поводу АВ-блокады высокой степени."
+          },
+          "class": "III",
+          "level": "A",
+          "refs": [410, 424, 425]
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,201 @@
+=== FIGURES ===
+P.40 (Bk 17): Fig. 2.1.1  Patient in left lateral decubitus position
+P.40 (Bk 17): Fig. 2.1.3  Patient in left lateral decubitus position
+P.40 (Bk 17): Fig. 2.1.2  Patient in supine position
+P.40 (Bk 17): Fig. 2.1.4  Patient in supine position with chin pointing up
+P.41 (Bk 18): Fig. 2.1.5  Right parasternal approach A B
+P.42 (Bk 19): Fig. 2.1.6  PTLAX AV: aortic valve; LA: left atrium; NCC: non-coronary cusp; RCC: right coronary cusp RV
+P.42 (Bk 19): Fig. 2.1.7A  M-mode tracing at AV PW: posterior wall; RV: right ventricle, SW: septal wall Ao
+P.42 (Bk 19): Fig. 2.1.7B  M-mode tracing at AV Ao: aorta RV
+P.42 (Bk 19): Fig. 2.1.7C  M-mode tracing at MV EACD: anterior leaflet motion TAPSE
+P.42 (Bk 19): Fig. 2.1.7D  M-mode tracing of TAPSE
+P.43 (Bk 20): Fig. 2.1.8  PTSAX A: at MV level, B: at PM level, C: at apex level, D: at GV level RVOT PV
+P.43 (Bk 20): Fig. 2.1.9  Right ventricular (RV) outflow view (A) and RV inflow view (B) A B
+P.44 (Bk 21): Fig. 2.1.10  Standard apical window LV RV IVS
+P.44 (Bk 21): Fig. 2.1.11  4CV
+P.45 (Bk 22): Fig. 2.1.12  Apical views RV LV LA
+P.46 (Bk 23): Fig. 2.1.13  Subcostal 4-chamber view TV AV
+P.46 (Bk 23): Fig. 2.1.14 Subcostal short-axis view
+P.46 (Bk 23): Fig. 2.1.15  IVC view IVC Expiration A
+P.46 (Bk 23): Fig. 2.1.16  Suprasternal long-axis view
+P.47 (Bk 24): Fig. 2.2.1  LV inflow
+P.47 (Bk 24): Fig. 2.2.2  LV inflow V
+P.47 (Bk 24): Fig. 2.2.3  LV outflow
+P.47 (Bk 24): Fig. 2.2.4  LV outflow
+P.48 (Bk 25): Fig. 2.2.5  CW cursor
+P.48 (Bk 25): Fig. 2.2.6  CW in hypertrophic obstructive cardiomyopathy (HOCM)
+P.48 (Bk 25): Fig. 2.2.7  PW in HOCM V
+P.48 (Bk 25): Fig. 2.2.8  High PRF
+P.49 (Bk 26): Fig. 2.2.9  Colour turbulence: LVOT flow acceleration (HOCM) V V
+P.49 (Bk 26): Fig. 2.2.10  Colour-flow Doppler: Abnormal flow
+P.50 (Bk 27): Fig. 2.2.11  Dense velocity curve
+P.50 (Bk 27): Fig. 2.2.12  Trace velocity curve
+P.51 (Bk 28): Fig. 2.2.13  LVOT diameter measurement
+P.51 (Bk 28): Fig. 2.2.14  LVOT velocity
+P.51 (Bk 28): Fig. 2.2.15  Guiding Doppler alignment
+P.51 (Bk 28): Fig. 2.2.16  PW Doppler
+P.52 (Bk 29): Fig. 2.2.17  Mitral stenosis assessment
+P.52 (Bk 29): Fig. 2.2.18  Trace velocity curve V
+P.52 (Bk 29): Fig. 2.2.19A  Trace E-wave mid-diastolic deceleration slope V
+P.52 (Bk 29): Fig. 2.2.19B  Trace well aligned
+P.53 (Bk 30): Fig. 2.2.20  Trace well aligned
+P.53 (Bk 30): Fig. 2.2.21  Diastolic flow reversal
+P.54 (Bk 31): Fig. 2.2.22  Mitral and tricuspid regurgitation assessment: complete envelope V
+P.54 (Bk 31): Fig. 2.2.24  Free flow (massive) TR V
+P.54 (Bk 31): Fig. 2.2.23  Mitral and tricuspid regurgitation assessment: incomplete envelope V
+P.55 (Bk 32): Fig. 2.2.25  ABCD: CW records high-velocity suggesting aortic stenosis (A). Colour Doppler identifies the level of stenosis (B) as being subvalvular (flow convergence before the valve). The AR jet origin marks the position of the valve (C). PW detects flow-acceleration origin (D) but cannot measure velocity (too high) A
+P.56 (Bk 33): Fig. 2.2.26  No suspicion from 2D image but convergence in colour flow suggests a degree of MS
+P.56 (Bk 33): Fig. 2.2.27  PISA radius and MV leaflets opening angle measured on colour-flow Doppler to calculate MVA
+P.57 (Bk 34): Fig. 2.2.29  Colour jet area and length
+P.57 (Bk 34): Fig. 2.2.30  2D or colour M-mode timing
+P.57 (Bk 34): Fig. 2.2.32  Validated for AR
+P.57 (Bk 34): Fig. 2.2.31  Jet width percent of outflow tract
+P.58 (Bk 35): Fig. 2.2.34  PISA method
+P.58 (Bk 35): Fig. 2.2.33  AR vena contracta measurement
+P.59 (Bk 36): Fig. 2.2.35  Colour M-mode timing of flow reversal
+P.59 (Bk 36): Fig. 2.2.37  Inspection of the regurgitant jet
+P.59 (Bk 36): Fig. 2.2.36  Eccentric MR jet in 3CV (A), 2CV (B), and 4CV (C) A B C
+P.60 (Bk 37): Fig. 2.2.38  Regurgitation timing
+P.60 (Bk 37): Fig. 2.2.40  Vena contracta
+P.60 (Bk 37): Fig. 2.2.39  Regurgitation timing
+P.60 (Bk 37): Fig. 2.2.41  Large TR convergence zone and vena contracta but short truncated jet area
+P.60 (Bk 37): Fig. 2.2.42  PISA method of regurgitation quantification
+P.61 (Bk 38): Fig. 2.2.43  PISA method
+P.61 (Bk 38): Fig. 2.2.44  Colour M-mode timing
+P.61 (Bk 38): Fig. 2.2.45  PW sample volume
+P.62 (Bk 39): Fig. 2.2.46  Sample volume Table 2.2.1  Normal LV outflow values Max velocity (m/s)
+P.62 (Bk 39): Fig. 2.2.47  PW sample volume
+P.65 (Bk 42): Fig. 2.2.51  Hepatic veins flow
+P.66 (Bk 43): Fig. 2.2.52  Hepatic veins flow
+P.66 (Bk 43): Fig. 2.2.53  Superior vena cava flow S v
+P.66 (Bk 43): Fig. 2.2.54  Superior vena cava flow
+P.66 (Bk 43): Fig. 2.2.55  Shunt calculation. Trace LVOT velocity to measure TVI (A). Measure DLVOT in systole on zoom image (B). Trace RVOT velocity to measure TVI (C). Measure DRVOT in systole on zoom image (D) A
+P.67 (Bk 44): Fig. 2.2.56  Right atrial pressure Table 2.2.6  IVC diameter and RAP estimation IVC diameter (cm) Reduction with inspiration
+P.68 (Bk 45): Fig. 2.2.58  Pulmonary artery diastolic pressure VendAR
+P.68 (Bk 45): Fig. 2.2.59  LV diastolic pressure
+P.68 (Bk 45): Fig. 2.2.57  RV systolic pressure/PA systolic pressure
+P.69 (Bk 46): Fig. 2.2.60  Estimation of myocardial contractility
+P.70 (Bk 47): Fig. 2.2.61  Left anterior descending artery flow A C B
+P.70 (Bk 47): Fig. 2.2.62  Posterior descending artery A B
+P.71 (Bk 48): Fig. 2.2.63  Posterior descending artery S D
+P.71 (Bk 48): Fig. 2.2.64  Posterior descending artery D D
+P.71 (Bk 48): Fig. 2.2.65  Posterior descending artery C B
+P.73 (Bk 50): Fig. 2.3.1  Velocity V 1 V
+P.73 (Bk 50): Fig. 2.3.2  Velocity V1 Strain = ∫Strain rate dt d
+P.73 (Bk 50): Fig. 2.3.3  Strain (deformation)
+P.74 (Bk 51): Fig. 2.3.4B  Colour tissue Doppler—principle
+P.74 (Bk 51): Fig. 2.3.4A  Spectral tissue Doppler—principle Both pulsed-wave spectral tissue Doppler and colour tissue Doppler evaluate the phase shift between several ultrasound pulses. The result is either displayed as velocity spectrum or colour coded in the image Tissue Doppler—principles (Figs. 2.3.4AB and 2.3.5AB)
+P.75 (Bk 52): Fig. 2.3.5A  Wall filter Velocity signals from the tissue and the blood pool can be distinguished using a so-called wall filter. Blood has low signal intensity and moves fast, while tissue has a high signal intensity and moves at an order of magnitude slower
+P.75 (Bk 52): Fig. 2.3.5B  Motion direction Tissue Doppler measures velocities along the ultrasound beam which must therefore be carefully aligned with the wall (a). Only certain motion directions can be measured, depending on the window used (b). See also Table 2.3.2 a
+P.76 (Bk 53): Fig. 2.3.6A  Sample volume position In contrast to spectral Doppler, where sample volumes are set during acquisition (a), colour Doppler post-processing allows the retrospective
+P.76 (Bk 53): Fig. 2.3.6B  Acquisition settings High acquisition frame rate is important for high temporal resolution of the colour Doppler data. Note the blunting of the peaks (a). Other
+P.77 (Bk 54): Fig. 2.3.7A  Reverberation artefacts Reverberation artefacts appear as horizontal, bright stationary echoes (a) and disturb both tissue Doppler and speckle tracking analysis. They are hardly visible in a tissue Doppler display (b), but during strain rate post-processing, they result in a zone of inverted signals (c,d) which can be best recognized in (c) a
+P.78 (Bk 55): Fig. 2.3.7B  Aliasing artefacts Aliasing occurs when the velocity range is set too low. In spectral Doppler, the spectrum appears cut while the peak appears on the other side of the scale (a). In colour tissue Doppler, data quality during strain/strain rate post-processing will be affected. Acquisitions should be carefully reviewed for sharp yellow–blue colour changes (b) by slowly scrolling though the loop
+P.79 (Bk 56): Fig. 2.3.8  Basic parameters of function imaging The figures show velocity (A), motion (B), strain rate (C), and strain (D) images with typical septal curves (yellow dot). Since cardiac function is cyclic, the definition of baseline in motion and strain curves is arbitrary. In most applications, zero is defined at end-diastole, usually derived from the ECG trigger signal (red arrows)
+P.80 (Bk 57): Fig. 2.3.9A  Tissue synchronicity imaging Velocity data can also be colour coded for timing of events. While regular colour tissue Doppler codes the velocity, tissue synchronicity imaging codes the timing of the occurrence
+P.80 (Bk 57): Fig. 2.3.9B  Baseline drift compensation In both tissue Doppler and speckle tracking, a drift of the baseline may be observed in motion and strain data for different technical reasons. To compensate for this, a linear correction
+P.81 (Bk 58): Fig. 2.3.10A  Tracking features in the image In speckle tracking, complex image analysis software identifies features of the image (i.e. bright speckles, as indicated by the green dot) and follows them over time from frame to frame. Analysing the displacement of several speckles over time allows to calculate motion, velocity, strain, and strain rate
+P.82 (Bk 59): Fig. 2.3.10B  Careful visual verification of the tracking result Speckle tracking relies on following a certain image feature from frame to frame. This principle depends strongly on good image quality and may fail. A careful visual verification of the tracking result is always mandatory. Segments, in which tracking lines (points do not follow the myocardium (red arrows)) must be excluded from further analysis
+P.83 (Bk 60): Fig. 2.3.11B  Display options Speckle tracking offers a lot of post-processing options. Similar to tissue Doppler, colour coding, curve displays, and curved M-modes are available (a). In addition, colour-coded bull’s
+P.83 (Bk 60): Fig. 2.3.11A  Twist, torsion, and global longitudinal strain (a) Speckle tracking allows to calculate twist and torsion. (b) Global longitudinal strain is defined as the deformation of the myocardium parallel with the endocardium. Measuring may
+P.84 (Bk 61): Fig. 2.3.12A  Timing of cardiac events A correct data analysis requires certainty about timing. In particular, aortic valve closure (AVC) as marker of end-systole is relevant for many measurements. In regular heart rhythm, blood Doppler traces
+P.84 (Bk 61): Fig. 2.3.12B  Regional differences Function data may differ by region. Septal data usually have
+P.85 (Bk 62): Fig. 2.3.13A  Strain amplitude vs strain curve shape In principle, deformation data may differ in amplitude (a) or in shape (b). The latter is a strong indicator of regional function inhomogeneity as it occurs in scar tissue, ischaemic regions or in a dyssynchronous LV. a
+P.85 (Bk 62): Fig. 2.3.13B  Post-systolic shortening Post systolic shortening (PSS) is a sensitive indicator of regional function inhomogeneity. It appears in scar and
+P.91 (Bk 68): Fig. 2.4.1  Stitching artefact
+P.91 (Bk 68): Fig. 2.4.2  Stitching artefact
+P.91 (Bk 68): Fig. 2.4.3  Dropout artefact
+P.91 (Bk 68): Fig. 2.4.4  Dropout artefact
+P.92 (Bk 69): Fig. 2.4.5  External view of the complete 3D dataset acquired
+P.93 (Bk 70): Fig. 2.4.7  TR jet ‘dissected’ from surrounding tissue data
+P.93 (Bk 70): Fig. 2.4.6  Volume cropped on LV PTSAX plane
+P.94 (Bk 71): Fig. 2.4.8  Volume rendered cropped LV 3D
+P.94 (Bk 71): Fig. 2.4.9  Anatomy with MV: LV view
+P.94 (Bk 71): Fig. 2.4.10  LA view
+P.94 (Bk 71): Fig. 2.4.11  Endocardial surface rendering of LV
+P.94 (Bk 71): Fig. 2.4.12  RV diastole
+P.94 (Bk 71): Fig. 2.4.13  RV systole
+P.95 (Bk 72): Fig. 2.4.15  Colour Doppler slices to measure MR EROA
+P.95 (Bk 72): Fig. 2.4.14  LV 2D slices, 4CV, 2CV, 3CV and 9 SAX views
+P.95 (Bk 72): Fig. 2.4.16  LAX derived from PTSAX at level of central scallops P2-A2
+P.96 (Bk 73): Fig. 2.4.20  Tri-plane DTI in AF
+P.96 (Bk 73): Fig. 2.4.17  Medial scallops P3-A3
+P.96 (Bk 73): Fig. 2.4.18  LV tri-plane standard
+P.96 (Bk 73): Fig. 2.4.19  Adjusted rotation angle for better 3CV
+P.97 (Bk 74): Fig. 2.4.21  Colour Doppler in eccentric MR
+P.97 (Bk 74): Fig. 2.4.22  Narrow sector
+P.97 (Bk 74): Fig. 2.4.23  Narrow sector
+P.97 (Bk 74): Fig. 2.4.24  Narrow sector
+P.97 (Bk 74): Fig. 2.4.25  Wide sector
+P.98 (Bk 75): Fig. 2.4.26  Wide sector
+P.98 (Bk 75): Fig. 2.4.28  LV inflow
+P.98 (Bk 75): Fig. 2.4.27  MV zoom surgical view in patient with AF
+P.99 (Bk 76): Fig. 2.4.29  ECG gated multi-beat 3D imaging
+P.99 (Bk 76): Fig. 2.4.30  ECG gated multi-beat 3D imaging A B
+P.100 (Bk 77): Fig. 2.4.31  Multi-beat TR colour Doppler
+P.100 (Bk 77): Fig. 2.4.32  Transverse plane at the level of the vena contracta
+P.100 (Bk 77): Fig. 2.4.33  Apical 4CV, 2CV and 3CV
+P.101 (Bk 78): Fig. 2.4.34  Cropping and rendering from apical full volume dataset
+P.101 (Bk 78): Fig. 2.4.35  Apical 3D dataset
+P.102 (Bk 79): Fig. 2.4.38  3D dataset for MS assessment
+P.102 (Bk 79): Fig. 2.4.37  3D dataset for LV systolic function
+P.102 (Bk 79): Fig. 2.4.36  Parasternal views obtained in real time. PTLAX (A). PTSAX at the level of the great arteries (B). The mitral
+P.103 (Bk 80): Fig. 2.4.39  Example of TV assessment in diastole
+P.103 (Bk 80): Fig. 2.4.40  Example of TV assessment in systole Table 2.4.1  Adapted from Recommendations for image acquisition and display using 3D echocardiography LV/RV
+P.104 (Bk 81): Fig. 2.4.42  4CV view with anterior orientation
+P.104 (Bk 81): Fig. 2.4.41  Base of the heart view
+P.105 (Bk 82): Fig. 2.4.43  4CV with posterior orientation
+P.105 (Bk 82): Fig. 2.4.44  LV 3D wall motion analysis
+P.105 (Bk 82): Fig. 2.4.45  Alignment with LV long axis
+P.105 (Bk 82): Fig. 2.4.46  Improving orientation guided by the SAX view
+P.106 (Bk 83): Fig. 2.4.47  4CV and 3CV views
+P.106 (Bk 83): Fig. 2.4.48  2CV and 3CV views
+P.106 (Bk 83): Fig. 2.4.49  Obtaining 5CV
+P.107 (Bk 84): Fig. 2.4.50  MV area: 3D-guided 2D planimetry
+P.107 (Bk 84): Fig. 2.4.51  LVOT area: 3D-guided 2D planimetry
+P.107 (Bk 84): Fig. 2.4.52  IVS dimension measured on volume- rendered 3D PTSAX: small change in image processing
+P.108 (Bk 85): Fig. 2.4.53  LV volumes (EDV, ESV, SV) and EF
+P.108 (Bk 85): Fig. 2.4.54  RV volumes (EDV, ESV, SV) and EF
+P.109 (Bk 86): Fig. 2.4.55  LV mass
+P.109 (Bk 86): Fig. 2.4.56  LV dyssynchrony
+P.111 (Bk 88): Fig. 2.5.1  Structure of a contrast microsphere Microbubble structure Inner
+P.114 (Bk 91): Fig. 2.5.2  Contrast–ultrasound interaction A. Low acoustic power (MI < 0.1)
+P.115 (Bk 92): Fig. 2.5.3  Contrast cardiography
+P.115 (Bk 92): Fig. 2.5.4  End-diastolic (left) and end-systolic (right) volumes can be quantitated by tracing the endocardial borders (red lines), clearly seen after contrast administration
+P.115 (Bk 92): Fig. 2.5.5  Example of apical hypertrophic cardiomyopathy
+P.115 (Bk 92): Fig. 2.5.6  Example of left ventricular non-compaction
+P.116 (Bk 93): Fig. 2.5.7  Example of thrombus
+P.117 (Bk 94): Fig. 2.5.8  Site of injection
+P.119 (Bk 96): Fig. 2.5.9  Three-way tap cannula
+P.119 (Bk 96): Fig. 2.5.10  Top of the cannula
+P.121 (Bk 98): Fig. 2.5.11  Artefacts in contrast echocardiography A
+
+=== TABLES ===
+P.62 (Bk 39): Table 2.2.1  Normal LV outflow values
+P.62 (Bk 39): Table 2.2.2  Normal RV outflow values
+P.63 (Bk 40): Table 2.2.3  Normal LV inflow values
+P.64 (Bk 41): Table 2.2.4  Normal PV flow values
+P.64 (Bk 41): Table 2.2.5  Normal descending aorta flow values
+P.67 (Bk 44): Table 2.2.6  IVC diameter and RAP estimation
+P.86 (Bk 63): Table 2.3.1  Longitudinal tissue Doppler
+P.86 (Bk 63): Table 2.3.2  Radial and circumferential velocities (cm/s)
+P.87 (Bk 64): Table 2.3.3  Regional strain rate (1/s)
+P.88 (Bk 65): Table 2.3.4  Regional strain
+P.89 (Bk 66): Table 2.3.6  Normal LV strain values according to vendors’ specific
+P.89 (Bk 66): Table 2.3.5  Global strain
+P.103 (Bk 80): Table 2.4.1  Adapted from Recommendations for image acquisition and display using 3D echocardiography
+P.112 (Bk 89): Table 2.5.1  Types of contrast agents
+P.116 (Bk 93): Table 2.5.2  Advantages and disadvantages of
+P.124 (Bk 101): Table 2.6.1  Minimal basic dataset to acquire and store
+P.127 (Bk 104): Table 2.6.2  3D dataset acquisition and display
+P.128 (Bk 105): Table 2.6.3  Recommendations for reporting TTE
+P.129 (Bk 106): Table 2.6.3  Recommendations for reporting TTE (continued)
+P.130 (Bk 107): Table 2.6.4  Recommendations for reporting TTE—continued
+P.131 (Bk 108): Table 2.6.4  Recommendations for reporting TTE (continued)
+
+=== BOXES ===
+P.49 (Bk 26): Box 2.2.1  Tips for measurements
+P.118 (Bk 95): Box 2.5.2  Optison and Luminity
+P.118 (Bk 95): Box 2.5.1  SonoVue, using the VueJect pump
+P.122 (Bk 99): Box 2.5.3  Symptoms/signs of a serious contrast reaction
+P.122 (Bk 99): Box 2.5.4  If a serious reaction occurs

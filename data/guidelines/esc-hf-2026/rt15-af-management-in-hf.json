@@ -1,0 +1,164 @@
+{
+  "schemaVersion": 1,
+  "id": "esc-hf-2026.rt15-af-management-in-hf",
+  "guidelineId": "esc-hf-2026",
+  "number": "Recommendation Table 15",
+  "type": "recommendations",
+  "title": {
+    "en": "Recommendations for management of atrial fibrillation in patients with heart failure",
+    "ru": "Рекомендации по ведению фибрилляции предсердий у пациентов с сердечной недостаточностью"
+  },
+  "tags": [
+    "atrial-fibrillation",
+    "af",
+    "anticoagulation",
+    "doac",
+    "vka",
+    "rate-control",
+    "beta-blockers",
+    "digoxin",
+    "av-node-ablation",
+    "crt",
+    "amiodarone",
+    "cardioversion",
+    "catheter-ablation"
+  ],
+  "source": {
+    "expectedRows": 8
+  },
+  "i18nStatus": {
+    "ru": "reviewed"
+  },
+  "sections": [
+    {
+      "id": "sec-anticoagulation",
+      "title": {
+        "en": "Recommendations for anticoagulation (see Evidence Tables 77–81)",
+        "ru": "Рекомендации по антикоагулянтной терапии (см. Доказательные таблицы 77–81)"
+      },
+      "rows": [
+        {
+          "id": "r01",
+          "text": {
+            "en": "Oral anticoagulation is recommended in patients with clinical AF at elevated thromboembolic risk, as determined by CHA2DS2-VA score^[c], to prevent ischaemic stroke and thromboembolism.",
+            "ru": "Пероральная антикоагулянтная терапия рекомендуется пациентам с клинической ФП при повышенном тромбоэмболическом риске, определяемом по шкале CHA₂DS₂-VA^[c], для профилактики ишемического инсульта и системных тромбоэмболий."
+          },
+          "class": "I",
+          "level": "A",
+          "refs": [635]
+        },
+        {
+          "id": "r02",
+          "text": {
+            "en": "DOACs are recommended in preference to VKAs in patients with HF^[d] to prevent stroke and thromboembolism.",
+            "ru": "ПОАК рекомендуются предпочтительнее АВК у пациентов с СН^[d] для профилактики инсульта и системных тромбоэмболий."
+          },
+          "class": "I",
+          "level": "B1",
+          "refs": [643, 644, 645, 646]
+        }
+      ]
+    },
+    {
+      "id": "sec-rate-control",
+      "title": {
+        "en": "Rate control",
+        "ru": "Контроль частоты желудочковых сокращений (ЧСС)"
+      },
+      "rows": [
+        {
+          "id": "r03",
+          "text": {
+            "en": "Beta-blockers are recommended in stable patients with HFrEF and AF as first-line therapy for short- and long-term rate control.",
+            "ru": "Бета-блокаторы рекомендуются стабильным пациентам с СНнФВ и ФП в качестве терапии первой линии для краткосрочного и долгосрочного контроля ЧСС."
+          },
+          "class": "I",
+          "level": "C",
+          "refs": [663, 665]
+        },
+        {
+          "id": "r04",
+          "text": {
+            "en": "Digoxin should be considered in stable patients with HFrEF and AF when the ventricular rate remains high despite beta-blockers, or when beta-blockers are contraindicated/not tolerated, in order to obtain short- and long-term rate control.",
+            "ru": "Дигоксин должен рассматриваться у стабильных пациентов с СНнФВ и ФП, если частота желудочковых сокращений остается высокой, несмотря на бета-блокаторы, либо при противопоказаниях/непереносимости бета-блокаторов, для достижения краткосрочного и долгосрочного контроля ЧСС."
+          },
+          "class": "IIa",
+          "level": "C",
+          "refs": [665, 666, 667]
+        },
+        {
+          "id": "r05",
+          "text": {
+            "en": "Atrioventricular node ablation combined with CRT should be considered in patients with severely symptomatic permanent AF and poor rate control despite medical therapy and at least one HFH to reduce symptoms, physical limitations, recurrent HFH, and death.",
+            "ru": "Аблация атриовентрикулярного узла в сочетании с СРТ должна рассматриваться у пациентов с постоянной ФП с выраженными симптомами, недостаточным контролем ЧСС, несмотря на медикаментозную терапию, и как минимум одной госпитализацией по поводу СН, для облегчения симптомов, физических ограничений, уменьшения повторных госпитализаций по поводу СН и смерти."
+          },
+          "class": "IIa",
+          "level": "B1",
+          "refs": [672, 673]
+        },
+        {
+          "id": "r06",
+          "text": {
+            "en": "Intravenous amiodarone or digoxin may be considered in haemodynamically unstable patients with HFrEF and AF to stabilize the patient and achieve acute control of heart rate.",
+            "ru": "Внутривенное введение амиодарона или дигоксина может быть рассмотрено у гемодинамически нестабильных пациентов с СНнФВ и ФП для стабилизации состояния и достижения неотложного контроля частоты сердечных сокращений."
+          },
+          "class": "IIb",
+          "level": "C",
+          "refs": [668, 669, 670, 671]
+        }
+      ]
+    },
+    {
+      "id": "sec-cardioversion",
+      "title": {
+        "en": "Cardioversion",
+        "ru": "Кардиоверсия"
+      },
+      "rows": [
+        {
+          "id": "r07",
+          "text": {
+            "en": "Urgent cardioversion is recommended in the setting of DHF in patients presenting with rapid ventricular rates and haemodynamic instability to restore sinus rhythm.",
+            "ru": "Экстренная кардиоверсия рекомендуется в условиях декомпенсированной СН (DHF) у пациентов с высокой частотой сокращения желудочков и гемодинамической нестабильностью для восстановления синусового ритма."
+          },
+          "class": "I",
+          "level": "C",
+          "refs": [669, 671, 692, 695]
+        }
+      ]
+    },
+    {
+      "id": "sec-af-catheter-ablation",
+      "title": {
+        "en": "Atrial fibrillation catheter ablation",
+        "ru": "Катетерная аблация фибрилляции предсердий"
+      },
+      "rows": [
+        {
+          "id": "r08",
+          "text": {
+            "en": "Catheter ablation for AF should be considered in selected^[e] patients with symptomatic AF and HFrEF to improve QoL and reduce the risk of HFH or death.",
+            "ru": "Катетерная аблация по поводу ФП должна рассматриваться у отобранных^[e] пациентов с симптоматической ФП и СНнФВ для улучшения качества жизни и снижения риска госпитализации по поводу СН или смерти."
+          },
+          "class": "IIa",
+          "level": "C",
+          "refs": [674, 675, 676, 678, 681, 682, 684, 696]
+        }
+      ]
+    }
+  ],
+  "footnotes": {
+    "c": {
+      "en": "See Table 18.",
+      "ru": "См. Таблицу 18."
+    },
+    "d": {
+      "en": "Except for patients with moderate or severe mitral stenosis and in patients with mechanical prosthetic heart valves where VKAs are recommended.",
+      "ru": "За исключением пациентов с умеренным или тяжелым митральным стенозом и пациентов с механическими протезами клапанов сердца, у которых рекомендуются АВК."
+    },
+    "e": {
+      "en": "All the following criteria are required: high burden AF, less than 1-year duration for continuous persistent AF, clear cause–effect relationship between AF and HF.",
+      "ru": "Требуется наличие всех следующих критериев: высокая бремя (burden) ФП, длительность непрерывной персистирующей ФП менее 1 года, четкая причинно-следственная связь между ФП и СН."
+    }
+  }
+}

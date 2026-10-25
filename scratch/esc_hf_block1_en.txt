@@ -1,0 +1,350 @@
+# 2026 ESC Guidelines for the management of heart failure
+
+##### Developed by the task force for the management of heart failure of the European Society of Cardiology (ESC). With the special contribution of the Heart Failure Association (HFA) of the ESC. Endorsed by the European Association for Cardio-Thoracic Surgery (EACTS).
+
+##### Authors/Task Force Members: Lars Køber (Chairperson) (Denmark), Marianna Adamo (Chairperson) (Italy), Anne-Christine Ruwald (Task Force Co-ordinator) (Denmark), Daniela Tomasoni (Task Force Co-ordinator) (Italy), Lisa J. Anderson (United Kingdom), Stefan D. Anker (Germany), Michael Böhm (Germany), Jelena Čelutkienė (Lithuania), Ovidiu Chioncel (Romania), Alain Cohen-Solal (France), Maria Crespo-Leiro (Spain), Gerasimos Filippatos (Greece), Loreena Hill (United Kingdom), Arno Hoes (Netherlands), Ewa A. Jankowska (Poland), Mitja Lainscak (Slovenia), Carolyn S.P. Lam (Singapore), Mamas A. Mamas (United Kingdom), Theresa McDonagh (United Kingdom), Marco Metra (Italy), Brenda Moura (Portugal), Wilfried Mullens (Belgium), Petar Seferovic (Serbia), Frank Ruschitzka (Switzerland), Gianluigi Savarese (Sweden), Thomas Thum (Germany), Dirk van Veldhuisen (Netherlands), Stephan von Haehling (Germany), and ESC Scientific Document Group.
+
+<details class="med-details"><summary>
+
+## Executive Summary</summary><div class="details-content">
+
+### Major Paradigm Shifts in the 2026 ESC Heart Failure Guidelines
+The 2026 ESC Guidelines introduce profound structural and conceptual updates reflecting landmark clinical trials published since 2021:
+
+1. **Redefined LVEF Phenotypes — Expansion of HFrEF and Abolition of HFmrEF:**
+   - **Heart Failure with Reduced Ejection Fraction (HFrEF)** is now expanded to encompass all patients with **LVEF $\le 50\%$** (previously $< 40\%$). Post hoc analyses and dedicated trials demonstrate that patients with LVEF $41\text{--}49\%$ derive substantial survival and morbidity benefit from the same foundational neurohormonal therapies as those with LVEF $\le 40\%$.
+   - **Heart Failure with Mildly Reduced Ejection Fraction (HFmrEF)** has been **officially abolished** as a distinct entity, streamlining clinical decision-making.
+   - **Heart Failure with Preserved Ejection Fraction (HFpEF)** is now defined as symptoms/signs of HF with **LVEF $> 50\%$**, accompanied by objective evidence of elevated filling pressures or structural alterations.
+
+2. **Adoption of the Universal Stages of Heart Failure (Stages A to D):**
+   - **Stage A (At Risk for HF):** Individuals with risk factors (hypertension, diabetes, ASCVD, obesity, cardiotoxic exposure) but no current or prior symptoms, physical signs, or structural/functional cardiac disease or biomarker elevation.
+   - **Stage B (Pre-Heart Failure):** Asymptomatic individuals with objective evidence of structural heart disease (e.g., LV hypertrophy, chamber dilatation, wall motion abnormalities, valvular disease), increased filling pressures, or persistently elevated natriuretic peptides / cardiac troponins.
+   - **Stage C (Heart Failure):** Patients with current or previous symptoms and signs caused by structural/functional cardiac abnormalities.
+   - **Stage D (Advanced Heart Failure):** Patients with severe, refractory symptoms (NYHA class III–IV) despite optimal therapy, frequent hospitalizations, and persistent intolerance to neurohormonal blockers, requiring specialized interventions (LVAD, heart transplantation, palliative inotropes).
+
+3. **Decompensated Heart Failure (DHF) Replaces "Acute Heart Failure":**
+   - The term **Decompensated Heart Failure (DHF)** officially supersedes "acute heart failure", recognizing that almost all acute presentations represent worsening of an underlying, chronic progressive syndrome rather than isolated acute episodes.
+
+4. **New Nomenclature for Heart Failure Therapies:**
+   - **Foundational Medical Therapy (FMT):** The four core pharmacological pillars ("quad-therapy") proven to modify disease trajectory and improve survival: ARNI/ACEi, evidence-based beta-blocker, steroidal MRA, and SGLT2 inhibitor.
+   - **Additional Medical Therapy (AMT):** Tailored agents based on specific clinical profiles (vericiguat, ivabradine, GLP-1 receptor agonists, non-steroidal MRAs, digoxin, potassium binders).
+   - **Guideline-Directed Device and Interventional Therapy (GDIT):** CRT, ICD, transcatheter edge-to-edge repair (TEER), catheter ablation, and mechanical circulatory support.
+
+5. **Breakthrough Evidence in Obesity and Cardiometabolic HFpEF:**
+   - **GLP-1 receptor agonists (semaglutide, tirzepatide)** are given high-priority recommendations for patients with HFpEF and obesity (BMI $\ge 30\text{ kg/m}^2$) based on STEP-HFpEF and SUMMIT trials, demonstrating marked symptom reduction, functional improvement, and reduced HF hospitalization.
+
+6. **Temporary Mechanical Circulatory Support (tMCS) in Cardiogenic Shock:**
+   - Following the **DanGer Shock** trial, routine use of microaxial flow pump (Impella) in selected patients with STEMI-related cardiogenic shock demonstrates reduced 180-day mortality, whereas routine IABP is Class III (no benefit).
+
+7. **Revolution in Cardiac Amyloidosis (ATTR-CA):**
+   - Expanded Class I recommendations for **TTR silencers (vutrisiran)** and **stabilizers (tafamidis, acoramidis)** to reduce cardiovascular hospitalization and all-cause mortality across NYHA classes I–III.
+
+</div></details>
+
+<details class="med-details"><summary>
+
+## Abbreviations and Acronyms</summary><div class="details-content">
+
+| Abbreviation | Expanded Term |
+|---|---|
+| **18F-FDG-PET** | 18F-fluorodeoxyglucose-positron emission tomography |
+| **ACE-I** | angiotensin-converting enzyme inhibitor |
+| **AF** | atrial fibrillation |
+| **ARB** | angiotensin II receptor blocker |
+| **ARNI** | angiotensin receptor–neprilysin inhibitor |
+| **ASCVD** | atherosclerotic cardiovascular disease |
+| **ASV** | adaptive servo-ventilation |
+| **BMI** | body mass index |
+| **BNP** | B-type natriuretic peptide |
+| **BTB** | bridge to bridge |
+| **BTC** | bridge to candidacy |
+| **BTD** | bridge to decision |
+| **BTR** | bridge to recovery |
+| **CIED** | cardiac implantable electronic device |
+| **CKD** | chronic kidney disease |
+| **COPD** | chronic obstructive pulmonary disease |
+| **CRT** | cardiac resynchronization therapy |
+| **CV** | cardiovascular |
+| **DHF** | decompensated heart failure |
+| **DPD** | 3,3-diphosphono-1,2-propanodicarboxylic acid |
+| **ECG** | electrocardiogram |
+| **FMT** | foundational medical therapy |
+| **GDIT** | guideline-directed device and interventional therapy |
+| **GLP-1 RA** | glucagon-like peptide-1 receptor agonist |
+| **HF** | heart failure |
+| **HFH** | heart failure hospitalization |
+| **HFmrEF** | heart failure with mildly reduced ejection fraction |
+| **HFpEF** | heart failure with preserved ejection fraction |
+| **HFrEF** | heart failure with reduced ejection fraction |
+| **HMDP** | hydroxymethylene diphosphonate |
+| **HbA1c** | glycated haemoglobin |
+| **IABP** | intra-aortic balloon pump |
+| **LBBB** | left bundle branch block |
+| **LGE** | late gadolinium enhancement |
+| **LV** | left ventricular |
+| **LVAD** | left ventricular assist device |
+| **LVEF** | left ventricular ejection fraction |
+| **MCS** | mechanical circulatory support |
+| **MI** | myocardial infarction |
+| **MRA** | mineralocorticoid receptor antagonist |
+| **NT-proBNP** | N-terminal pro-B-type natriuretic peptide |
+| **NYHA** | New York Heart Association |
+| **OMT** | optimal medical therapy |
+| **PA** | pulmonary artery |
+| **PYP** | pyrophosphate |
+| **QoL** | quality of life |
+| **RCT** | randomized controlled trial |
+| **RV** | right ventricular |
+| **SAVR** | surgical aortic valve replacement |
+| **SGLT2-I** | sodium–glucose co-transporter 2 inhibitor |
+| **T2DM** | type 2 diabetes mellitus |
+| **TAVI** | transcatheter aortic valve implantation |
+| **TSAT** | transferrin saturation |
+| **TTR** | transthyretin |
+| **UACR** | urine albumin-to-creatinine ratio |
+| **eGFR** | estimated glomerular filtration rate |
+| **hTTR-CA** | hereditary transthyretin cardiac amyloidosis |
+| **nsMRA** | non-steroidal mineralocorticoid receptor antagonist |
+| **sMRA** | steroidal mineralocorticoid receptor antagonist |
+| **tMCS** | temporary mechanical circulatory support |
+| **wtTTR-CA** | wild-type transthyretin cardiac amyloidosis |
+
+</div></details>
+
+<details class="med-details"><summary>
+
+### Table 1, 2 & 3. Classes of Recommendations and Levels of Evidence</summary><div class="details-content">
+
+#### Table 1: Classes of Recommendations
+| Class of Recommendation | Definition | Suggested Wording to Use |
+|---|---|---|
+| **Class I** | Evidence and/or general agreement that a given treatment or procedure is beneficial, useful, effective. | **Is recommended** or **is indicated** |
+| **Class II** | Conflicting evidence and/or a divergence of opinion about the usefulness/efficacy of the given treatment or procedure. | |
+| — **Class IIa** | Weight of evidence/opinion is in favour of usefulness/efficacy. | **Should be considered** |
+| — **Class IIb** | Usefulness/efficacy is less well established by evidence/opinion. | **May be considered** |
+| **Class III** | Evidence or general agreement that the given treatment or procedure is not useful/effective, and in some cases may be harmful. | **Is not recommended** |
+
+#### Table 2: Levels of Evidence — Therapy and Prevention
+| Level of Evidence | Definition |
+|---|---|
+| **Level A** | Data derived from multiple randomized clinical trials or meta-analyses. |
+| **Level B1** | Data derived from a single randomized clinical trial or large non-randomized studies. |
+| **Level B2** | Data derived from subgroup analyses of randomized clinical trials or registries. |
+| **Level C** | Consensus of opinion of the experts and/or small studies, retrospective studies, registries. |
+
+#### Table 3: Levels of Evidence — Diagnostic Tests and Prediction Models
+| Level of Evidence | Definition |
+|---|---|
+| **Level A** | High-quality diagnostic test accuracy studies or externally validated risk models. |
+| **Level B** | Moderate-quality diagnostic studies or internally validated prediction models. |
+| **Level C** | Expert consensus or exploratory diagnostic evaluations. |
+
+</div></details>
+
+<details class="med-details"><summary>
+
+### Table 4. New Concepts in the 2026 ESC Heart Failure Guidelines</summary><div class="details-content">
+
+| New Concept | Clinical Implication & Paradigm Shift |
+|---|---|
+| **HFrEF has been expanded to include LVEF up to 50%** | Incorporated into standard management pathways across all care settings. |
+| **HFmrEF has been removed** | Incorporated into standard management pathways across all care settings. |
+| **HFpEF includes LVEF from 50% and above** | Incorporated into standard management pathways across all care settings. |
+| **Decompensated HF replaces acute HF** | Incorporated into standard management pathways across all care settings. |
+| **Stages of HF (A–D) ranging from risk factors to advanced HF have been adopted** | Incorporated into standard management pathways across all care settings. |
+| **New classifications for medical and interventional therapy have been introduced** | Incorporated into standard management pathways across all care settings. |
+
+</div></details>
+
+<details class="med-details"><summary>
+
+### Table 5. New Recommendations in the 2026 ESC Heart Failure Guidelines</summary><div class="details-content">
+
+| Section and Recommendation | Class | Level |
+|---|---|---|
+| **Prevention of heart failure—Section 4** | | |
+| Counselling on healthy lifestyle choices including maintaining a healthy weight, consuming a well-balanced diet, avoiding sedentary behaviour, abstaining from smoking and heavy alcohol consumption, as well as counselling against the use of drugs such as cocaine, amphetamines, and anabolic steroids, is recommended for all patients with stage A or B HF to reduce the risk of HF progression. | **I** | **C** |
+| A GLP-1 RA should be considered in patients with T2DM and at least one other additional CV risk factor to reduce the risk of HF or CV death. | **IIa** | **A** |
+| An ACE-I or ARB (if intolerant to ACE-I) is recommended in patients with stage B HF and LVEF ≤40% to reduce the risk of HFH and death. | **I** | **A** |
+| A beta-blocker is recommended in patients with stage B HF and LVEF <50% to reduce the risk of HFH or death. | **I** | **B1** |
+| Eplerenone is recommended in patients after myocardial infarction with LVEF ≤40% with signs of HF or diabetes to reduce the risk of HFH or death. | **I** | **B1** |
+| **Diagnosis of chronic heart failure—Section 5** | | |
+| Initial diagnostic testing with serum and urine immunofixation, serum free light chains assay, and DPD/PYP/HMDP bone scintigraphy is recommended in patients with HF and a suspicion of cardiac amyloidosis. | **I** | **B** |
+| Genetic testing is recommended in patients fulfilling diagnostic criteria for cardiomyopathy in cases where it enables diagnosis, prognostication, therapeutic stratification, or reproductive management of the patient, or where it enables cascade genetic evaluation of their relatives who would otherwise be enrolled into long-term surveillance. | **I** | **C** |
+| 18F-FDG-PET scanning should be considered for the diagnostic work-up in patients with cardiomyopathy in whom cardiac sarcoidosis is suspected. | **IIa** | **C** |
+| Review of the proportion of RV pacing should be considered in all patients with CIED and de novo or worsening HFrEF. | **IIa** | **C** |
+| Electrical cardioversion as a diagnostic tool may be considered in patients with persistent AF where there is uncertainty about the value of sinus rhythm restoration on symptoms or to assess improvement in left ventricular function. | **IIb** | **C** |
+| **Management of chronic heart failure—Section 6** | | |
+| Uptitration of FMT at least every 1–2 weeks in patients with HF, guided by symptoms, vital signs, and laboratory findings, to achieve optimal target doses shown to be efficacious in RCTs is recommended to reduce the risk of HFH or death. | **I** | **C** |
+| Continuation of FMT at the highest tolerated doses is recommended in all patients with HF, including those who become asymptomatic or with LVEF improvement, in order to reduce the risk of HFH and death. | **I** | **C** |
+| Gradual discontinuation of FMT under frequent clinical, laboratory, and imaging surveillance may be considered in highly selected patients who are asymptomatic with complete normalization of LV function and volume as well as natriuretic peptide levels after specific treatment of reversible causes of HF, in order to accommodate patient preference. | **IIb** | **C** |
+| ACE-I/ARB/ARNI may be considered in patients with symptomatic HFpEF to reduce the risk of HFH. | **IIb** | **C** |
+| Initiation of FMT and planning for CRT implantation may be considered simultaneously in patients with symptomatic HFrEF, an LBBB with QRS ≥150 ms, and LVEF ≤35% to improve symptoms and reduce morbidity and death, although reassessment of LVEF should be conducted prior to CRT implantation. | **IIb** | **C** |
+| **Decompensated heart failure—Section 7** | | |
+| Urinary Na⁺-guided diuretic therapy may be considered during the first days of treatment of patients with DHF to improve natriuresis and diuresis. | **IIb** | **B1** |
+| In-hospital initiation of SGLT2-I is recommended in patients with DHF after initial stabilization to improve QoL and congestion symptoms and reduce the risk of HFH. | **I** | **B1** |
+| A multidisciplinary Shock Team is recommended in potential candidates for temporary MCS to guide the device selection (modality and type) based on patient and HF characteristics. | **I** | **C** |
+| Temporary MCS with a microaxial flow pump should be considered in selected patients with cardiogenic shock caused by ST-elevation MI with LV systolic dysfunction and no risk of hypoxic brain injury in order to reduce the risk of death. | **IIa** | **B1** |
+| Temporary MCS should be considered in patients with mechanical complications related to MI as a bridge to definitive treatment. | **IIa** | **C** |
+| Temporary MCS is not recommended in unselected patients with cardiogenic shock caused by acute MI, due to risk of harm. | **III** | **B1** |
+| **Advanced heart failure—Section 8** | | |
+| Early consultation with an advanced HF centre is recommended in patients with advanced HF or at risk of advanced HF, who are motivated and do not have absolute contraindications for heart transplantation or durable MCS, in order to evaluate candidacy. | **I** | **A** |
+| Downtitration or discontinuation of beta-blockers or ivabradine should be considered in selected patients with advanced HFrEF and evidence of organ hypoperfusion, despite initial treatment, to increase cardiac output and improve symptoms. | **IIa** | **C** |
+| Histopathological examination of explanted heart tissue from LVAD or heart transplantation surgery should be considered in patients with non-ischaemic HF to identify an aetiological diagnosis that may be treatable or facilitate family screening. | **IIa** | **C** |
+| **Cardiovascular comorbidities—Section 9** | | |
+| Atrioventricular node ablation combined with CRT should be considered in patients with severely symptomatic permanent AF and poor rate control despite medical therapy and at least one HFH to reduce symptoms, physical limitations, recurrent HFH and death. | **IIa** | **B1** |
+| Intravenous amiodarone or digoxin may be considered in haemodynamically unstable patients with HFrEF and AF to stabilize the patient and achieve acute control of heart rate. | **IIb** | **C** |
+| **Non-cardiovascular comorbidities—Section 10** | | |
+| Semaglutide or tirzepatide should be considered for patients with symptomatic HF, LVEF ≥45%, and BMI ≥30 kg/m², regardless of diabetes status, to reduce body weight, and improve exercise capacity and QoL. | **IIa** | **B1** |
+| Bariatric surgery may be considered in obese patients with HF and a BMI ≥35 kg/m² to reduce body weight when repetitive and structured lifestyle changes combined with weight-reducing medications do not result in maintained weight loss. | **IIb** | **C** |
+| Adaptive servo-ventilation may be considered in patients with HFrEF and sleep-disordered breathing with predominant obstructive sleep apnoea to improve sleep quality, health-related QoL, and symptoms. | **IIb** | **C** |
+| Assessment of anxiety, depression and frailty should be considered in patients with HF to support the development of personalized care plans and to identify factors that may contribute to adverse outcomes. | **IIa** | **C** |
+| **Multidisciplinary management of heart failure—Section 11** | | |
+| Personalized exercise training, in the context of multidisciplinary exercise-based cardiac rehabilitation, is recommended for all stable patients, unless there are specific contraindications, in order to improve exercise capacity, and QoL, and reduce the risk of all-cause hospitalization. | **I** | **B1** |
+| Personalized exercise training outside exercise-based cardiac rehabilitation is recommended for all stable patients on a long-term basis, unless there are specific contraindications, in order to improve exercise capacity and QoL, and reduce the risk of all-cause hospitalization. | **I** | **B2** |
+| Cardiac rehabilitation is recommended in patients with an LVAD to improve functional capacity and QoL. | **I** | **B1** |
+| Cardiac rehabilitation should be considered in patients with DHF, as soon as safely possible, to improve functional capacity and QoL. | **IIa** | **B1** |
+| Proactive discussion regarding HF trajectory, goals of care, and advance care planning is recommended in patients with advanced HF to facilitate communication on end of life and QoL. | **I** | **B1** |
+| Access to an integrated HF palliative care multidisciplinary team is recommended for patients in an advanced HF stage to improve QoL and reduce symptom burden. | **I** | **B2** |
+| **Specific conditions—Section 12** | | |
+| Pre-conception care and counselling is recommended for patients with HF to facilitate decision-making surrounding HF treatments, pregnancy, contraception, pre-implantation genetic screening, and assisted reproductive therapies. | **I** | **C** |
+| In pregnant women with HFrEF, it is recommended that non-selective beta-blockers are switched to beta₁-selective blockers (metoprolol, bisoprolol) with close mother and foetus monitoring to reduce the risk of adverse foetal events and a lower birth weight. | **I** | **C** |
+| ACE-Is, ARBs, ARNIs, MRAs, ivabradine, and SGLT2-Is are not recommended during pregnancy due to the risk of foetotoxicity or teratogenicity. | **III** | **C** |
+
+</div></details>
+
+<details class="med-details"><summary>
+
+### Table 6. Revised Recommendations in the 2026 ESC Heart Failure Guidelines</summary><div class="details-content">
+
+| Clinical Area | 2021 Recommendation & Class | 2026 Revised Recommendation & Class | Shift & Clinical Rationale |
+|---|---|---|---|
+| **Hypertension & Stage B (Section 4)** | Treatment of hypertension is recommended to prevent/delay HF (Class I, Level A). | Strict blood pressure control (systolic target $< 130\text{ mmHg}$) is recommended in patients with hypertension or stage B HF to reduce the risk of HF (**Class I, Level A**). | Specific systolic threshold $< 130\text{ mmHg}$ mandated to halt progression to stage C. |
+| **CMR in Aetiology (Section 5)** | CMR recommended with poor echo window (Class I, Level C). | Contrast-enhanced CMR is recommended in suspected cardiomyopathy or uncertain aetiology if further characterization adds value (**Class I, Level C**). | Direct tissue characterization with LGE indicated early in diagnostic pathway. |
+| **Invasive Coronary Angiography (Section 5)** | Recommended in angina or ventricular arrhythmias (Class I, Level B). | Recommended in HF, angina, and high probability of obstructive CAD who are potential candidates for revascularization (**Class I, Level C**). | Aligned with REVIVED-BCIS2 findings focusing revascularization on symptom relief. |
+| **MRA Across LVEF Spectrum (Section 6)** | MRA recommended for HFrEF (Class I, Level A); may be considered in HFmrEF (Class IIb, Level C). | An MRA (steroidal for HFrEF; steroidal or non-steroidal for HFpEF) is recommended in symptomatic HF independent of LVEF (**Class I, Level A**). | Universal Class I indication for MRA across the entire ejection fraction spectrum. |
+| **Cardiac Glycosides (Section 6)** | Digoxin may be considered in HFrEF in sinus rhythm (Class IIb, Level B). | Digoxin or digitoxin should be considered in symptomatic HFrEF with LVEF $\le 40\%$, despite optimal FMT, to reduce HFH (**Class IIa, Level B1**). | Upgraded to Class IIa based on DIG trial long-term re-analyses and DIGIT-HF trial data. |
+| **Vericiguat (Section 6)** | May be considered in NYHA II–IV with worsening HFrEF (Class IIb, Level B). | Vericiguat may be considered in symptomatic HFrEF with LVEF $< 45\%$ despite optimal FMT to reduce HFH and CV death (**Class IIb, Level B1**). | Clarified LVEF cutoff $< 45\%$ post-worsening event. |
+| **CRT in AV Block (Section 6)** | CRT recommended rather than RV pacing in high-degree AV block (Class I, Level A). | CRT rather than RV pacing should be considered in HFrEF regardless of QRS width with pacing indication for high-degree AV block (**Class IIa, Level B1**). | Refined evidence base differentiating conduction pacing from biventricular pacing. |
+| **Decongestion with Diuretic Combinations (Section 7)** | Thiazide combination should be considered in resistant oedema (Class IIa, Level B). | Addition of short-term IV acetazolamide or oral hydrochlorothiazide should be considered in fluid overload to reduce congestion (**Class IIa, Level B1**). | Supported by ADVOR (acetazolamide) and CLOROTIC (HCTZ) randomized trials. |
+| **IABP in Cardiogenic Shock (Section 7)** | IABP not routinely recommended in post-MI cardiogenic shock (Class III, Level B). | IABP is not recommended in unselected patients with cardiogenic shock due to lack of effect (**Class III, Level B1**). | Broadened Class III across all unselected cardiogenic shock etiologies. |
+| **Temporary MCS (Section 7)** | Short-term MCS considered as BTR, BTD, BTB (Class IIa, Level C). | Temporary MCS should be considered in selected patients with HF-related haemodynamic instability as BTR, BTD, BTB, BTC, or BTT (**Class IIa, Level C**). | Inclusion of Bridge-to-Candidacy (BTC) and Bridge-to-Transplant (BTT). |
+| **Continuous Inotropes in Advanced HF (Section 8)** | May be considered as bridge to MCS/transplant (Class IIb, Level C). | Continuous inotropes should be considered in advanced HFrEF, low cardiac output, and hypoperfusion as BTD, BTT, or bridge to durable MCS (**Class IIa, Level C**). | Upgraded to Class IIa for structured bridge pathways. |
+| **Durable MCS / LVAD (Section 8)** | Long-term MCS should be considered as BTT or destination therapy (Class IIa, Level A/B). | Durable MCS (LVAD) is recommended in selected patients with advanced HFrEF despite FMT and GDIT, as BTT, BTC, BTR, or destination therapy (**Class I, Level C**). | Upgraded to Class I recommendation for eligible end-stage patients. |
+| **Beta-Blockers in AF Rate Control (Section 9)** | Should be considered for short- and long-term rate control (Class IIa, Level B). | Beta-blockers are recommended in stable patients with HFrEF and AF as first-line therapy for rate control (**Class I, Level C**). | Upgraded to first-line Class I for rate control in stable HFrEF. |
+| **Catheter Ablation for AF in HFrEF (Section 9)** | Should be considered if clear association with symptom worsening (Class IIa, Level B). | Catheter ablation for AF should be considered in selected patients with symptomatic AF and HFrEF to improve QoL and reduce HFH or death (**Class IIa, Level C**). | Consolidated role for early pulmonary vein isolation in HF patients. |
+| **Coronary Revascularization in CCS (Section 9)** | Should be considered for persistent angina (Class IIa, Level C). | Coronary revascularization is recommended in patients with HF, obstructive CAD, and persistent angina despite FMT and antianginal drugs (**Class I, Level C**). | Upgraded to Class I specifically for symptom relief in refractory angina. |
+| **Aortic Stenosis Interventions (Section 9)** | TAVI or SAVR recommended in severe high-gradient AS (Class I, Level B). | Aortic valve intervention, SAVR or TAVI, is recommended in patients with severe aortic stenosis and HF to improve symptoms and reduce death (**Class I, Level B1**). | Re-emphasized Class I indication regardless of low-flow/low-gradient subtype. |
+| **Mitral TEER in Secondary MR (Section 9)** | Should be considered in carefully selected patients (Class IIa, Level B). | Mitral transcatheter edge-to-edge repair is recommended in stable symptomatic HFrEF with persistent severe secondary MR despite FMT/CRT meeting criteria (**Class I, Level B1**). | Upgraded to Class I based on COAPT trial long-term 5-year outcomes. |
+| **Remote PA Pressure Monitoring (Section 11)** | May be considered in symptomatic HF (Class IIb, Level B). | Remote haemodynamic monitoring of PA pressure should be considered in symptomatic HF, NYHA class III and prior HFH in past 12 months (**Class IIa, Level B1**). | Upgraded to Class IIa based on CHAMPION and MONITOR-HF trial data. |
+| **Transthyretin Amyloidosis (Section 12)** | Tafamidis recommended in hTTR-CA and wtTTR-CA NYHA I–II (Class I, Level B). | Treatment with TTR silencer (vutrisiran) or stabilizer (tafamidis, acoramidis) is recommended in variant or wild-type ATTR-CA across NYHA I–III (**Class I, Level A**). | Upgraded to Class I, Level A; includes gene silencers (vutrisiran) and novel stabilizers. |
+
+</div></details>
+
+<details class="med-details"><summary>
+
+### Figure 1. Central Illustration: Management of Heart Failure</summary><div class="details-content">
+
+![Figure 1: Central illustration — Management of heart failure](images/fig01_central_illustration_hf_management.jpg)
+
+**Figure 1: Central illustration — Comprehensive management of heart failure across the patient continuum.** Integrated management algorithm outlining prevention in Stages A/B, foundational quad-therapy (FMT: ARNI/ACEi, beta-blocker, MRA, SGLT2i) in HFrEF, phenotype-directed therapies in HFpEF, structured decongestion in Decompensated Heart Failure (DHF), device therapy (ICD, CRT, TEER), and advanced heart failure pathways (LVAD, transplantation).
+
+</div></details>
+
+<details class="med-details"><summary>
+
+## 1. Preamble</summary><div class="details-content">
+
+Clinical practice guidelines summarize and evaluate all available evidence on a particular issue at the time of the writing process, with the overarching aim of assisting healthcare professionals in selecting the best management strategies for an individual patient suffering from a given condition.
+
+These 2026 Guidelines on the management of Heart Failure were developed by an interdisciplinary Task Force appointed by the European Society of Cardiology (ESC), with direct contribution from the Heart Failure Association (HFA) of the ESC, and endorsed by the European Association for Cardio-Thoracic Surgery (EACTS).
+
+The recommendations are grounded on an extensive synthesis of randomized clinical trials, observational cohorts, systematic reviews, and international registry data published up to 2026. Great care has been taken to avoid biases, manage potential conflicts of interest, and formulate concise, practical guidance. The Guideline provides actionable clinical algorithms structured around the patient pathway, ensuring equitable, evidence-based, and multidisciplinary delivery of cardiovascular healthcare.
+
+</div></details>
+
+<details class="med-details"><summary>
+
+## 2. Introduction</summary><div class="details-content">
+
+Heart failure (HF) remains one of the greatest global healthcare challenges of the 21st century. Despite major advances in medical and device therapies, HF is associated with substantial mortality, frequent hospitalizations, and severe impairment of quality of life.
+
+### 2.1 Rationale for the 2026 Revision
+Since the release of the 2021 ESC Guidelines for the diagnosis and treatment of acute and chronic heart failure and the 2023 Focused Update, transformative evidence has reshaped clinical practice:
+1. **Therapeutic parity between mildly reduced and reduced LVEF:** Re-evaluations of the major neurohormonal trials (PARADIGM-HF, DAPA-HF, EMPEROR-Reduced, EMPEROR-Preserved, DELIVER) demonstrated consistent benefit across the ejection fraction continuum up to $50\%$.
+2. **Metabolic pharmacotherapies in HFpEF and obesity:** Landmark trials (EMPEROR-Preserved, DELIVER, STEP-HFpEF, SUMMIT) established SGLT2 inhibitors and GLP-1 receptor agonists as disease-modifying therapies in HFpEF.
+3. **Acute care transitions:** The terminology of "acute heart failure" has been replaced by Decompensated Heart Failure (DHF), emphasizing aggressive early decongestion, inpatient optimization of foundational therapies, and structured pre-discharge planning.
+4. **Mechanical circulatory support trials:** The DanGer Shock trial demonstrated that microaxial flow pumps reduce 180-day mortality in STEMI-related cardiogenic shock, redefining the role of temporary MCS.
+5. **Genetic and infiltrative cardiomyopathies:** Breakthrough amyloidosis therapies (tafamidis, vutrisiran, acoramidis) and expanding genetics require early systematic screening.
+
+</div></details>
+
+<details class="med-details"><summary>
+
+## 3. Definition, Epidemiology, and Classifications</summary><div class="details-content">
+
+### 3.1 Definition of Heart Failure
+Heart failure is a complex clinical syndrome comprising cardinal symptoms (breathlessness, fatigue, ankle swelling) and physical signs (elevated jugular venous pressure, pulmonary crackles, peripheral oedema) caused by structural and/or functional abnormalities of the heart, resulting in elevated intracardiac pressures and/or inadequate cardiac output at rest and/or during physical exertion.
+
+To establish a definitive diagnosis of heart failure, clinical symptoms must be corroborated by:
+1. **Objective evidence of cardiac dysfunction:** Assessed primarily via transthoracic echocardiography (abnormal ejection fraction, chamber enlargement, diastolic dysfunction, significant valve disease).
+2. **Elevated circulating biomarkers:** Natriuretic peptides (B-type natriuretic peptide [BNP] $\ge 35\text{ pg/mL}$ or N-terminal pro-B-type natriuretic peptide [NT-proBNP] $\ge 125\text{ pg/mL}$ in outpatients).
+3. **Objective evidence of congestion:** Pulmonary or systemic congestion documented by chest radiography, lung ultrasound (B-lines), or invasive hemodynamic assessment.
+
+Asymptomatic individuals with cardiac dysfunction or elevated biomarkers do not have heart failure; they are classified as having **pre-heart failure (stage B)**.
+
+### 3.2 Epidemiology of Heart Failure
+- **Prevalence:** Approximately $1\%\text{--}3\%$ of the adult population in high-income nations, rising steeply to $> 10\%$ in individuals aged $\ge 70$ years.
+- **Incidence:** Estimated at $1\text{--}5$ cases per 1,000 person-years. While age-adjusted incidence of HFrEF has stabilized or slightly declined due to improved post-MI care, the incidence of HFpEF continues to escalate rapidly due to population aging and the obesity/metabolic syndrome epidemic.
+- **Prognosis:** Despite therapeutic strides, 1-year and 5-year mortality following an initial diagnosis remain approximately $15\%\text{--}20\%$ and $50\%$, respectively. Hospitalization for decompensation marks a critical inflection point, carrying a $10\%\text{--}15\%$ in-hospital mortality and a $25\%\text{--}30\%$ 30-day readmission rate.
+
+### 3.3 Classifications of Heart Failure
+
+#### 3.3.1 Classification Based on Left Ventricular Ejection Fraction (LVEF)
+The 2026 Guidelines introduce a modernized, binary ejection fraction framework:
+
+| Phenotype | LVEF Range | Key Diagnostic Criteria | Core Therapeutic Focus |
+|---|---|---|---|
+| **HFrEF** (Heart failure with reduced ejection fraction) | **$\le 50\%$** | Symptoms $\pm$ signs; LVEF $\le 50\%$ on echocardiography | Universal Foundational Medical Therapy (**FMT quad-therapy**: ARNI/ACEi, beta-blocker, MRA, SGLT2i), loop diuretics for congestion, device therapy (ICD, CRT). |
+| **HFpEF** (Heart failure with preserved ejection fraction) | **$> 50\%$** | Symptoms $\pm$ signs; LVEF $> 50\%$; objective evidence of structural/functional abnormality (LVH, LAE, elevated $E/e'$) and/or elevated natriuretic peptides | **SGLT2 inhibitors** (Class I), GLP-1 RA for obesity, MRA/ARNI, loop diuretics, aggressive comorbidity management. |
+
+> [!NOTE]
+> **Abolition of HFmrEF:** The previously designated intermediate category of "heart failure with mildly reduced ejection fraction" (LVEF $41\text{--}49\%$) has been merged into HFrEF. Clinical trials demonstrated identical response to foundational neurohormonal blockade in this group, eliminating artificial therapeutic barriers.
+
+#### 3.3.2 Classification Based on Heart Failure Stages
+The ESC officially adopts the universal four-stage classification (A–D):
+- **Stage A (At Risk):** Individuals at high risk for HF (hypertension, diabetes, ASCVD, obesity, cardiotoxin exposure) but without structural heart disease, elevated biomarkers, or symptoms.
+- **Stage B (Pre-Heart Failure):** Asymptomatic individuals with structural heart disease (e.g., LVEF $\le 50\%$, LVH, regional wall motion abnormality, moderate/severe valvular disease), increased filling pressures, or elevated natriuretic peptides / troponins.
+- **Stage C (Symptomatic Heart Failure):** Current or previous symptoms and signs caused by structural/functional cardiac abnormalities.
+- **Stage D (Advanced Heart Failure):** Severe symptoms (NYHA III–IV) refractory to guideline-directed therapies, marked functional limitation, recurrent hospitalizations, and medication intolerance.
+
+![Figure 2: Heart failure stages and classifications](images/fig02_stages_classifications_hf.jpg)
+
+**Figure 2: Heart failure stages and classifications.** Progressive continuum from Stage A (at risk) through Stage B (pre-HF) to Stage C (symptomatic HF) and Stage D (advanced HF), illustrating clinical milestones, diagnostic biomarkers, and tailored therapeutic strategies.
+
+#### 3.3.3 New Nomenclature for Heart Failure Therapies
+To foster structured prescribing and prevent clinical inertia, therapies are categorized into three hierarchical tiers:
+1. **Foundational Medical Therapy (FMT):** Universal first-line "quad-therapy" proven to reduce mortality and hospitalizations in HFrEF:
+   - Renin-Angiotensin System Inhibitor: Angiotensin Receptor–Neprilysin Inhibitor (**ARNI**) preferred, or ACE inhibitor (**ACE-I**), or ARB if intolerant.
+   - Beta-Blocker: Evidence-based agents (**bisoprolol, carvedilol, metoprolol succinate**, nebivolol).
+   - Mineralocorticoid Receptor Antagonist (**MRA**): Steroidal (spironolactone, eplerenone).
+   - Sodium–Glucose Cotransporter-2 Inhibitor (**SGLT2-I**): **Dapagliflozin or empagliflozin**.
+2. **Additional Medical Therapy (AMT):** Tailored add-on pharmacotherapies:
+   - **Loop Diuretics:** Titrated to achieve and maintain euvolemia.
+   - **GLP-1 Receptor Agonists (semaglutide, tirzepatide):** Indicated for HFpEF with obesity.
+   - **Vericiguat:** Soluble guanylate cyclase stimulator for worsening HFrEF despite FMT.
+   - **Ivabradine:** For sinus rhythm with resting HR $\ge 70\text{ b.p.m.}$ despite maximally tolerated beta-blockade.
+   - **Cardiac Glycosides (digoxin, digitoxin):** In persistent symptoms or AF with rapid ventricular rate.
+   - **Potassium Binders (patiromer, sodium zirconium cyclosilicate):** Enabling continuation of RAASi and MRA in hyperkalaemia.
+3. **Guideline-Directed Device and Interventional Therapy (GDIT):**
+   - **ICD:** Primary and secondary prevention of sudden cardiac death.
+   - **CRT:** Resynchronization for wide QRS / LBBB and high-degree AV block.
+   - **Transcatheter Edge-to-Edge Repair (TEER):** For persistent severe secondary mitral regurgitation.
+   - **Catheter Ablation:** For atrial fibrillation in heart failure.
+   - **Mechanical Circulatory Support & Transplantation:** For end-stage advanced HF.
+
+![Figure 3: New nomenclature for heart failure therapies](images/fig03_nomenclature_hf_therapies.jpg)
+
+**Figure 3: New nomenclature for heart failure therapies.** Hierarchical architecture structuring treatments into Foundational Medical Therapy (FMT), Additional Medical Therapy (AMT), and Guideline-Directed Device and Interventional Therapy (GDIT).
+
+</div></details>

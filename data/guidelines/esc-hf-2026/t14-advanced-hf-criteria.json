@@ -1,0 +1,106 @@
+{
+  "schemaVersion": 1,
+  "id": "esc-hf-2026.t14-advanced-hf-criteria",
+  "guidelineId": "esc-hf-2026",
+  "number": "14",
+  "type": "grid",
+  "title": {
+    "en": "Criteria for definition of advanced heart failure",
+    "ru": "Критерии определения терминальной (тяжелой/продвинутой) сердечной недостаточности"
+  },
+  "tags": [
+    "advanced-hf",
+    "diagnostic-criteria",
+    "nyha",
+    "lvef",
+    "rv-failure",
+    "congestion",
+    "inotropes",
+    "cpet",
+    "pvo2",
+    "6mwt"
+  ],
+  "source": {
+    "expectedRows": 5
+  },
+  "i18nStatus": {
+    "ru": "reviewed"
+  },
+  "columns": [
+    {
+      "id": "criterion",
+      "title": {
+        "en": "Diagnostic criteria",
+        "ru": "Диагностические критерии"
+      }
+    }
+  ],
+  "rows": [
+    {
+      "id": "sec-header",
+      "kind": "section",
+      "cells": [
+        {
+          "text": {
+            "en": "**All the following criteria must be present despite FMT, AMT, and GDIT:**",
+            "ru": "**Все приведенные ниже критерии должны присутствовать, несмотря на FMT, AMT и GDIT:**"
+          }
+        }
+      ]
+    },
+    {
+      "id": "r01-symptoms",
+      "cells": [
+        {
+          "text": {
+            "en": "**1. Severe and persistent symptoms of HF (NYHA class III or IV).**",
+            "ru": "**1. Тяжелые и персистирующие симптомы СН (III или IV функциональный класс по NYHA).**"
+          }
+        }
+      ]
+    },
+    {
+      "id": "r02-cardiac-dysfunction",
+      "cells": [
+        {
+          "text": {
+            "en": "**2. Severe cardiac dysfunction defined by at least one of the following:**\n• LVEF ≤30%\n• Isolated RV failure (e.g. ARVC)\n• Non-operable severe valve abnormalities\n• Non-operable severe congenital abnormalities\n• Persistently high (or increasing) BNP or NT-proBNP values and severe LV diastolic dysfunction or structural abnormalities (i.e. HFpEF,^[a] hypertrophic or restrictive cardiomyopathies).",
+            "ru": "**2. Тяжелая сердечная дисфункция, определяемая как минимум одним из следующих признаков:**\n• ФВЛЖ ≤30%\n• Изолированная правожелудочковая недостаточность (например, АКПЖ)\n• Неоперабельные тяжелые пороки/аномалии клапанов\n• Неоперабельные тяжелые врожденные аномалии сердца\n• Стойко высокие (или нарастающие) уровни BNP или NT-proBNP и тяжелая диастолическая дисфункция ЛЖ или структурные изменения (т. е. СНсФВ,^[a] гипертрофическая или рестриктивная кардиомиопатии)."
+          }
+        }
+      ]
+    },
+    {
+      "id": "r03-congestion-episodes",
+      "cells": [
+        {
+          "text": {
+            "en": "**3. Episodes of pulmonary or systemic congestion requiring high-dose i.v. diuretics (or diuretic combinations) or malignant arrhythmias causing ≥2 unplanned visits or hospitalizations in the last 12 months, or ≥1 episode of low output requiring inotropes or vasoactive drugs.**",
+            "ru": "**3. Эпизоды легочного или системного застоя, требующие высоких доз внутривенных диуретиков (или комбинаций диуретиков), либо злокачественные аритмии, приведшие к ≥2 незапланированным визитам или госпитализациям за последние 12 месяцев, либо ≥1 эпизод низкого сердечного выброса, потребовавший применения инотропов или вазоактивных препаратов.**"
+          }
+        }
+      ]
+    },
+    {
+      "id": "r04-exercise-impairment",
+      "cells": [
+        {
+          "text": {
+            "en": "**4. Severe impairment of exercise capacity with inability to exercise, or low 6-min walk test distance (<300 m), or pVO2 <12–14 mL/kg/min,^[b] or <50% predicted value, estimated to be of cardiac origin.**",
+            "ru": "**4. Выраженное снижение переносимости физической нагрузки с неспособностью выполнять нагрузку, либо малая дистанция в тесте 6-минутной ходьбы (<300 м), либо пиковое VO₂ <12–14 мл/кг/мин,^[b] или <50% от должного значения (кардиального генеза).**"
+          }
+        }
+      ]
+    }
+  ],
+  "footnotes": {
+    "a": {
+      "en": "See Table 10.",
+      "ru": "См. Таблицу 10."
+    },
+    "b": {
+      "en": "The cut-off 12 mL/kg/min refers to patients on beta-blocker.",
+      "ru": "Пороговое значение 12 мл/кг/мин относится к пациентам, получающим бета-блокаторы."
+    }
+  }
+}

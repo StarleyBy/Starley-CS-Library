@@ -1,0 +1,59 @@
+{
+  "schemaVersion": 1,
+  "id": "esc-hf-2026.rt18-obesity-in-hf",
+  "guidelineId": "esc-hf-2026",
+  "number": "Recommendation Table 18",
+  "type": "recommendations",
+  "title": {
+    "en": "Recommendations for obesity in patients with heart failure",
+    "ru": "Рекомендации по ожирению у пациентов с сердечной недостаточностью"
+  },
+  "tags": [
+    "obesity",
+    "semaglutide",
+    "tirzepatide",
+    "glp-1-ra",
+    "bariatric-surgery",
+    "bmi",
+    "hfpef",
+    "qol",
+    "weight-loss"
+  ],
+  "source": {
+    "expectedRows": 2
+  },
+  "i18nStatus": {
+    "ru": "reviewed"
+  },
+  "sections": [
+    {
+      "id": "sec-obesity",
+      "title": {
+        "en": "Recommendations for obesity in patients with heart failure (see Evidence Tables 85 and 86)",
+        "ru": "Рекомендации по ожирению у пациентов с сердечной недостаточностью (см. Доказательные таблицы 85 и 86)"
+      },
+      "rows": [
+        {
+          "id": "r01",
+          "text": {
+            "en": "Semaglutide or tirzepatide should be considered for patients with symptomatic HF, LVEF ≥45%, and BMI ≥30 kg/m², regardless of diabetes status, to reduce body weight, and improve exercise capacity and QoL.",
+            "ru": "Семаглутид или тирзепатид следует рассматривать у пациентов с симптомной СН, ФВЛЖ ≥45% и ИМТ ≥30 кг/м², независимо от наличия сахарного диабета, для снижения массы тела, а также улучшения переносимости физических нагрузок и качества жизни."
+          },
+          "class": "IIa",
+          "level": "B1",
+          "refs": [315, 316, 317, 819, 820, 825]
+        },
+        {
+          "id": "r02",
+          "text": {
+            "en": "Bariatric surgery may be considered in obese patients with HF and a BMI ≥35 kg/m² to reduce body weight when repetitive and structured lifestyle changes combined with weight-reducing medications do not result in maintained weight loss.",
+            "ru": "Бариатрическая хирургия может быть рассмотрена у пациентов с ожирением, страдающих СН, с ИМТ ≥35 кг/м² для снижения массы тела, когда повторные и структурированные изменения образа жизни в сочетании с препаратами для снижения веса не приводят к стойкой потере массы тела."
+          },
+          "class": "IIb",
+          "level": "C",
+          "refs": [823, 824]
+        }
+      ]
+    }
+  ]
+}

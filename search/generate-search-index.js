@@ -26,6 +26,7 @@ const HUMAN_BOOK_TITLES = {
   'cardiovascular-system-glance': 'The Cardiovascular System at a Glance',
   'handbook-of-cardiac-anatomy': 'Handbook of Cardiac Anatomy & Physiology',
   'Echo6': 'Feigenbaum\'s Echocardiography (6th ed)',
+  'eacvi-echo-handbook': 'The EACVI Echo Handbook (Lancellotti & Cosyns)',
   'ECG_Interpretation_for_Everyone': 'ECG Interpretation for Everyone',
   'ECGs_Made_Easy': 'ECGs Made Easy',
   'drugs-in-icu-oxford': 'Drugs in Intensive Care (Oxford)',

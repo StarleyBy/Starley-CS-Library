@@ -1,0 +1,120 @@
+{
+  "schemaVersion": 1,
+  "id": "esc-hf-2026.rt01-prevention-heart-failure",
+  "guidelineId": "esc-hf-2026",
+  "number": "Recommendation Table 1",
+  "type": "recommendations",
+  "title": {
+    "en": "Recommendations for prevention of heart failure",
+    "ru": "Рекомендации по профилактике сердечной недостаточности"
+  },
+  "tags": [
+    "prevention",
+    "heart-failure",
+    "hypertension",
+    "sglt2-inhibitors",
+    "finerenone",
+    "lifestyle",
+    "statins",
+    "glp1-ra",
+    "diabetes",
+    "ckd"
+  ],
+  "source": {
+    "expectedRows": 7
+  },
+  "i18nStatus": {
+    "ru": "reviewed"
+  },
+  "sections": [
+    {
+      "id": "sec-prevention-hf",
+      "title": {
+        "en": "Recommendations for prevention of heart failure (see Evidence Tables 1–15)",
+        "ru": "Рекомендации по профилактике сердечной недостаточности (см. Доказательные таблицы 1–15)"
+      },
+      "rows": [
+        {
+          "id": "r01",
+          "text": {
+            "en": "Strict blood pressure control (systolic blood pressure target <130 mmHg) is recommended in patients with hypertension or stage B HF to reduce the risk of HF.",
+            "ru": "Строгий контроль артериального давления (целевое систолическое АД <130 мм рт. ст.) рекомендуется пациентам с артериальной гипертензией или стадией B СН для снижения риска развития СН."
+          },
+          "class": "I",
+          "level": "A",
+          "refs": [63, 64, 65, 66, 67, 68, 69, 102]
+        },
+        {
+          "id": "r02",
+          "text": {
+            "en": "An SGLT2-I is recommended in patients with T2DM at risk of HF (multiple ASCVD risk factors or established ASCVD) to reduce the risk of HF and CV death.",
+            "ru": "Ингибиторы SGLT2 рекомендуются пациентам с СД 2 типа из группы риска развития СН (множественные факторы риска АССЗ или установленное АССЗ) для снижения риска развития СН и сердечно-сосудистой смерти."
+          },
+          "class": "I",
+          "level": "A",
+          "refs": [103]
+        },
+        {
+          "id": "r03",
+          "text": {
+            "en": "An SGLT2-I is recommended in patients with T2DM and CKD^[c] to reduce the risk of HF or CV death.",
+            "ru": "Ингибиторы SGLT2 рекомендуются пациентам с СД 2 типа и ХБП^[c] для снижения риска развития СН или сердечно-сосудистой смерти."
+          },
+          "class": "I",
+          "level": "A",
+          "refs": [104]
+        },
+        {
+          "id": "r04",
+          "text": {
+            "en": "Finerenone is recommended in patients with T2DM and CKD^[d] to reduce the risk of HF.",
+            "ru": "Финеренон рекомендуется пациентам с СД 2 типа и ХБП^[d] для снижения риска развития СН."
+          },
+          "class": "I",
+          "level": "A",
+          "refs": [105, 106, 107, 108]
+        },
+        {
+          "id": "r05",
+          "text": {
+            "en": "Counselling on healthy lifestyle choices including maintaining a healthy weight, consuming a well-balanced diet, avoiding sedentary behaviour, abstaining from smoking and heavy alcohol consumption as well as counselling against the use of drugs such as cocaine, amphetamines, and anabolic steroids is recommended for all patients with stage A or B HF to reduce the risk of HF progression.",
+            "ru": "Консультирование по здоровому образу жизни, включая поддержание нормальной массы тела, сбалансированное питание, предотвращение малоподвижного образа жизни, отказ от курения и злоупотребления алкоголем, а также разъяснение недопустимости употребления наркотических веществ (кокаин, амфетамины) и анаболических стероидов, рекомендуется всем пациентам со стадией A или B СН для снижения риска прогрессирования СН."
+          },
+          "class": "I",
+          "level": "C",
+          "refs": [74, 84, 85, 87, 91, 95, 96, 97, 98, 99, 100, 109, 110, 111, 112]
+        },
+        {
+          "id": "r06",
+          "text": {
+            "en": "Treatment with a statin should be considered in people at high risk of, or with established ASCVD, to reduce the risk of HF.",
+            "ru": "Терапию статинами следует рассмотреть у лиц с высоким риском развития АССЗ или установленным АССЗ для снижения риска развития СН."
+          },
+          "class": "IIa",
+          "level": "A",
+          "refs": [75]
+        },
+        {
+          "id": "r07",
+          "text": {
+            "en": "A GLP-1 RA should be considered in patients with T2DM and at least one other additional CV risk factor to reduce the risk of HF or CV death.",
+            "ru": "Агонисты рецепторов ГПП-1 (GLP-1 RA) следует рассмотреть у пациентов с СД 2 типа и как минимум одним дополнительным сердечно-сосудистым фактором риска для снижения риска развития СН или сердечно-сосудистой смерти."
+          },
+          "class": "IIa",
+          "level": "A",
+          "refs": [71, 113, 114]
+        }
+      ]
+    }
+  ],
+  "footnotes": {
+    "c": {
+      "en": "CKD was defined as follows: an eGFR 25–75 mL/min/1.73 m² and a urinary albumin-to-creatinine ratio ≥200–5000 mg/g in DAPA-CKD; an eGFR 20–45 mL/min/1.73 m² or an eGFR 45–90 mL/min/1.73 m² with a urinary albumin-to-creatinine ratio ≥200 mg/g in EMPA-KIDNEY; and eGFR 30–<90 mL/min/1.73 m² with a urinary albumin-to-creatinine ratio >300 to ≤5000 mg/g in CREDENCE.",
+      "ru": "ХБП определялась следующим образом: рСКФ 25–75 мл/мин/1,73 м² и соотношение альбумин/креатинин мочи ≥200–5000 мг/г в DAPA-CKD; рСКФ 20–45 мл/мин/1,73 м² или рСКФ 45–90 мл/мин/1,73 м² с соотношением альбумин/креатинин мочи ≥200 мг/г в EMPA-KIDNEY; и рСКФ 30–<90 мл/мин/1,73 м² с соотношением альбумин/креатинин мочи >300 до ≤5000 мг/г в CREDENCE."
+    },
+    "d": {
+      "en": "CKD was defined as follows: an eGFR 25–60 mL/min/1.73 m², a urinary albumin-to-creatinine ratio 30–300 mg/g, and diabetic retinopathy, or an eGFR 25–75 mL/min/1.73 m² and a urinary albumin-to-creatinine ratio 300–5000 mg/g, in FIDELIO-DKD; and an eGFR 25–90 mL/min/1.73 m² and a urinary albumin-to-creatinine ratio 30 to <300 mg/g, or an eGFR >60 mL/min/1.73 m² and a urinary albumin-to-creatinine ratio 300–5000 mg/g, in FIGARO-DKD.",
+      "ru": "ХБП определялась следующим образом: рСКФ 25–60 мл/мин/1,73 м², соотношение альбумин/креатинин мочи 30–300 мг/г и диабетическая ретинопатия, либо рСКФ 25–75 мл/мин/1,73 м² и соотношение альбумин/креатинин мочи 300–5000 мг/г в FIDELIO-DKD; и рСКФ 25–90 мл/мин/1,73 м² и соотношение альбумин/креатинин мочи 30 до <300 мг/г, либо рСКФ >60 мл/мин/1,73 м² и соотношение альбумин/креатинин мочи 300–5000 мг/г в FIGARO-DKD."
+    }
+  }
+}

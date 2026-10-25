@@ -1,0 +1,242 @@
+[
+  {
+    "idx": 1,
+    "fig_id": "fig-14-01",
+    "fnum": "14.1",
+    "caption": "Principal causes of SOE",
+    "page": 505,
+    "size": "494x618"
+  },
+  {
+    "idx": 2,
+    "fig_id": "fig-14-02",
+    "fnum": "14.1.1",
+    "caption": "No thrombus at TOE",
+    "page": 507,
+    "size": "836x1314"
+  },
+  {
+    "idx": 3,
+    "fig_id": "fig-14-03",
+    "fnum": "14.1.2",
+    "caption": "Thrombus identified at TOE",
+    "page": 507,
+    "size": "836x1314"
+  },
+  {
+    "idx": 4,
+    "fig_id": "fig-14-04",
+    "fnum": "14.1.3",
+    "caption": "LAA thrombi or SEC",
+    "page": 507,
+    "size": "836x1314"
+  },
+  {
+    "idx": 5,
+    "fig_id": "fig-14-05",
+    "fnum": "14.1.4",
+    "caption": "LAA dysfunction",
+    "page": 507,
+    "size": "836x1314"
+  },
+  {
+    "idx": 6,
+    "fig_id": "fig-14-06",
+    "fnum": "14.2.1A",
+    "caption": "Main aetiologies of metastasis to the heart",
+    "page": 508,
+    "size": "497x388"
+  },
+  {
+    "idx": 7,
+    "fig_id": "fig-14-07",
+    "fnum": "14.2.1B",
+    "caption": "PTLAX view illustrating multiple metastasis (arrows) from a melanoma",
+    "page": 508,
+    "size": "497x388"
+  },
+  {
+    "idx": 8,
+    "fig_id": "fig-14-08",
+    "fnum": "14.2.2",
+    "caption": "Main aetiologies of benign tumours",
+    "page": 508,
+    "size": "673x618"
+  },
+  {
+    "idx": 9,
+    "fig_id": "fig-14-09",
+    "fnum": "14.2.3",
+    "caption": "LA myxoma producing a functional mitral stenosis",
+    "page": 509,
+    "size": "833x1225"
+  },
+  {
+    "idx": 10,
+    "fig_id": "fig-14-10",
+    "fnum": "14.2.4",
+    "caption": "Ao valve fibroelastoma",
+    "page": 509,
+    "size": "833x1225"
+  },
+  {
+    "idx": 11,
+    "fig_id": "fig-14-11",
+    "fnum": "14.2.5",
+    "caption": "LA lipoma Fig. 14.2.6 LV fibroma",
+    "page": 509,
+    "size": "833x1225"
+  },
+  {
+    "idx": 12,
+    "fig_id": "fig-14-12",
+    "fnum": "14.2.7",
+    "caption": "Main aetiologies of malignant tumours",
+    "page": 509,
+    "size": "1537x1160"
+  },
+  {
+    "idx": 13,
+    "fig_id": "fig-14-13",
+    "fnum": "14.2.9",
+    "caption": "Aortic synoviosarcoma",
+    "page": 509,
+    "size": "833x1225"
+  },
+  {
+    "idx": 14,
+    "fig_id": "fig-14-14",
+    "fnum": "14.2.8",
+    "caption": "RV lymphoma before (A) and after (B) chemotherapy",
+    "page": 509,
+    "size": "1537x1160"
+  },
+  {
+    "idx": 15,
+    "fig_id": "fig-14-15",
+    "fnum": "14.2.10",
+    "caption": "Thrombi in the RA appendage",
+    "page": 510,
+    "size": "836x926"
+  },
+  {
+    "idx": 16,
+    "fig_id": "fig-14-16",
+    "fnum": "14.2.11",
+    "caption": "Masses in transit",
+    "page": 510,
+    "size": "836x926"
+  },
+  {
+    "idx": 17,
+    "fig_id": "fig-14-17",
+    "fnum": "14.2.12",
+    "caption": "Ventricular flat Fig. 14.2.13 Ventricular protruding within the cavity",
+    "page": 510,
+    "size": "836x926"
+  },
+  {
+    "idx": 18,
+    "fig_id": "fig-14-18",
+    "fnum": "14.2.14",
+    "caption": "Aortic valve endocarditis",
+    "page": 511,
+    "size": "834x1198"
+  },
+  {
+    "idx": 19,
+    "fig_id": "fig-14-19",
+    "fnum": "14.2.15",
+    "caption": "Aortic and mitral valve strands",
+    "page": 511,
+    "size": "834x1198"
+  },
+  {
+    "idx": 20,
+    "fig_id": "fig-14-20",
+    "fnum": "14.2.16",
+    "caption": "latrogenic material",
+    "page": 511,
+    "size": "834x1198"
+  },
+  {
+    "idx": 21,
+    "fig_id": "fig-14-21",
+    "fnum": "14.2.17",
+    "caption": "Catheter",
+    "page": 511,
+    "size": "834x1198"
+  },
+  {
+    "idx": 22,
+    "fig_id": "fig-14-22",
+    "fnum": "14.2.18AB",
+    "caption": "Hernia hiatalis",
+    "page": 512,
+    "size": "1126x1310"
+  },
+  {
+    "idx": 23,
+    "fig_id": "fig-14-23",
+    "fnum": "14.2.19",
+    "caption": "Thymus",
+    "page": 512,
+    "size": "825x887"
+  },
+  {
+    "idx": 24,
+    "fig_id": "fig-14-24",
+    "fnum": "14.2.20",
+    "caption": "Tangential view of the aortic valve",
+    "page": 512,
+    "size": "1243x887"
+  },
+  {
+    "idx": 25,
+    "fig_id": "fig-14-25",
+    "fnum": "14.2.21",
+    "caption": "False tendon",
+    "page": 512,
+    "size": "825x887"
+  },
+  {
+    "idx": 26,
+    "fig_id": "fig-14-26",
+    "fnum": "14.2.22",
+    "caption": "Eustachian valve",
+    "page": 512,
+    "size": "1243x887"
+  },
+  {
+    "idx": 27,
+    "fig_id": "fig-14-27",
+    "fnum": "14.2.23",
+    "caption": "Chiari network",
+    "page": 512,
+    "size": "1245x1310"
+  },
+  {
+    "idx": 28,
+    "fig_id": "fig-14-28",
+    "fnum": "14.2.24",
+    "caption": "Junction left upper pulmonary vein—LAA",
+    "page": 512,
+    "size": "1126x1310"
+  },
+  {
+    "idx": 29,
+    "fig_id": "fig-14-29",
+    "fnum": "14.2.25",
+    "caption": "Transverse sinus Fig. 14.2.26 Stitching heart transplant",
+    "page": 512,
+    "size": "1545x1310"
+  },
+  {
+    "idx": 30,
+    "fig_id": "fig-14-30",
+    "fnum": "14.2.27",
+    "caption": "Artefact (motion parallel to other structure)",
+    "page": 513,
+    "size": "834x715"
+  }
+]

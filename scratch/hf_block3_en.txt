@@ -1,0 +1,450 @@
+<details class="med-details"><summary>
+
+## 8. Stage D: Advanced Heart Failure</summary><div class="details-content">
+
+Stage D heart failure designates patients with refractory symptoms that severely interfere with daily life and who experience recurrent hospitalizations despite maximally tolerated guideline-directed medical therapy.
+
+### 8.1 Specialty Referral for Advanced Heart Failure
+* **Timely Specialty Referral (Class 1, Level of Evidence C-LD):** In patients with advanced heart failure who wish to prolong survival, referral to a specialized multidisciplinary advanced heart failure team is recommended to evaluate eligibility for mechanical circulatory support (MCS), heart transplantation, or palliative care.
+* **The "I-NEED-HELP" Clinical Triggers:**
+  - **I:** Intravenous inotropes (current or past requirement).
+  - **N:** NYHA functional class IIIb/IV symptoms or persistently elevated natriuretic peptides.
+  - **E:** End-organ dysfunction (worsening renal or liver function due to hypoperfusion/congestion).
+  - **E:** Ejection fraction $\le 20\%$ or severe diastolic dysfunction.
+  - **D:** Defibrillator shocks (recurrent appropriate ICD shocks).
+  - **H:** Hospitalizations ($\ge 2$ unplanned HF admissions within the past 12 months).
+  - **E:** Edema refractory to escalating diuretic regimens.
+  - **L:** Low blood pressure (systolic $\text{BP} < 90\text{ mm Hg}$ or symptomatic hypotension).
+  - **P:** Prognostic medication down-titration (inability to tolerate beta-blockers, ARNI/ACEi, or MRAs).
+
+
+
+#### Table 16: ESC Definition of Advanced HF
+
+| № | Criterion Domain | Specific Clinical Requirements |
+|---|---|---|
+| **All of the following 4 criteria must be present despite optimal guideline-directed treatment:** |
+| 1 | **Severe and persistent symptoms** | Severe and persistent symptoms of HF (NYHA class III [advanced] or IV). |
+| 2 | **Severe cardiac dysfunction** | Defined by ≥1 of these: • LVEF ≤30% • Isolated RV failure • Nonoperable severe valve abnormalities • Nonoperable severe congenital heart disease • EF ≥40%, elevated natriuretic peptide levels and evidence of significant diastolic dysfunction |
+| 3 | **Episodes / Unplanned visits** | Hospitalizations or unplanned visits in the past 12 mo for episodes of: • Congestion requiring high-dose intravenous diuretics or diuretic combinations • Low output requiring inotropes or vasoactive medications • Malignant arrhythmias |
+| 4 | **Impairment of exercise capacity** | Severe impairment of exercise capacity with inability to exercise or low 6-minute walk test distance (<300 m) or peak VO₂ (<12–14 mL/kg/min) estimated to be of cardiac origin. |
+| *Criteria 1 and 4 can be met in patients with cardiac dysfunction (as described in criterion 2) but who also have substantial limitations as a result of other conditions (eg, severe pulmonary disease, noncardiac cirrhosis, renal disease). The therapeutic options for these patients may be more limited.* |
+
+
+#### Table 17: INTERMACS Profiles
+
+| Profile | Profile Description | Features |
+|---|---|---|
+| **1** | **Critical cardiogenic shock** | Life-threatening hypotension and rapidly escalating inotropic/pressor support, with critical organ hypoperfusion often confirmed by worsening acidosis and lactate levels. |
+| **2** | **Progressive decline** | "Dependent" on inotropic support but nonetheless shows signs of continuing deterioration in nutrition, renal function, fluid retention, or other major status indicator. Can also apply to a patient with refractory volume overload, perhaps with evidence of impaired perfusion, in whom inotropic infusions cannot be maintained because of tachyarrhythmias, clinical ischemia, or other intolerance. |
+| **3** | **Stable but inotrope dependent** | Clinically stable on mild-moderate doses of intravenous inotropes (or has a temporary circulatory support device) after repeated documentation of failure to wean without symptomatic hypotension, worsening symptoms, or progressive organ dysfunction (usually renal). |
+| **4** | **Resting symptoms on oral therapy at home** | Patient who is at home on oral therapy but frequently has symptoms of congestion at rest or with activities of daily living (dressing or bathing). He or she may have orthopnea, shortness of breath during dressing or bathing, gastrointestinal symptoms (abdominal discomfort, nausea, poor appetite), disabling ascites, or severe lower extremity edema. |
+| **5** | **Exertion intolerant** | Patient who is comfortable at rest but unable to engage in any activity, living predominantly within the house or housebound. |
+| **6** | **Exertion limited** | Patient who is comfortable at rest without evidence of fluid overload but who is able to do some mild activity. Activities of daily living are comfortable, and minor activities outside the home such as visiting friends or going to a restaurant can be performed, but fatigue results within a few minutes or with any meaningful physical exertion. |
+| **7** | **Advanced NYHA class III** | Patient who is clinically stable with a reasonable level of comfortable activity, despite a history of previous decompensation that is not recent. This patient is usually able to walk more than a block. Any decompensation requiring intravenous diuretics or hospitalization within the previous month should make this person a Patient Profile 6 or lower. |
+
+
+#### Table 18: Clinical Indicators of Advanced HF
+
+| № | Clinical Indicator of Advanced HF |
+|---|---|
+| 1 | Repeated hospitalizations or emergency department visits for HF in the past 12 mo. |
+| 2 | Need for intravenous inotropic therapy. |
+| 3 | Persistent NYHA functional class III to IV symptoms despite therapy. |
+| 4 | Severely reduced exercise capacity (peak VO₂ <14 mL/kg/min or <50% predicted, 6-min walk test distance <300 m, or inability to walk 1 block on level ground because of dyspnea or fatigue). |
+| 5 | Intolerance to RAASi because of hypotension or worsening renal function. |
+| 6 | Intolerance to beta blockers as a result of worsening HF or hypotension. |
+| 7 | Recent need to escalate diuretics to maintain volume status, often reaching daily furosemide equivalent dose >160 mg/d or use of supplemental metolazone therapy. |
+| 8 | Refractory clinical congestion. |
+| 9 | Progressive deterioration in renal or hepatic function. |
+| 10 | Worsening right HF or secondary pulmonary hypertension. |
+| 11 | Frequent SBP ≤90 mm Hg. |
+| 12 | Cardiac cachexia. |
+| 13 | Persistent hyponatremia (serum sodium, <134 mEq/L). |
+| 14 | Refractory or recurrent ventricular arrhythmias; frequent ICD shocks. |
+| 15 | Increased predicted 1-year mortality (eg, >20%) according to HF survival models (eg, MAGGIC, SHFM). |
+
+
+### Recommendation Table 15 — Recommendation for Specialty Referral for Advanced HF
+
+**Timely Specialty Referral in Advanced HF**
+
+| Recommendations | Class | Level |
+|---|:---:|:---:|
+| In patients with advanced HF, when consistent with the patient's goals of care, timely referral for HF specialty care is recommended to review HF management and assess suitability for advanced HF therapies (eg, LVAD, cardiac transplantation, palliative care, and palliative inotropes). | **I** | **C-LD** |
+
+
+### 8.2 Nonpharmacological Management in Advanced Heart Failure
+* **Fluid Restriction in Hyponatremia:** In patients with advanced heart failure and clinically significant hypervolemic hyponatremia (serum sodium $< 130\text{ mEq/L}$), dietary fluid restriction to **$1.5\text{ to }2.0\text{ L/day}$** is reasonable to alleviate congestive symptoms (Class 2a, Level of Evidence C-LD).
+
+
+
+### Recommendation Table 16 — Recommendation for Nonpharmacological Management: Advanced HF
+
+**Fluid Restriction in Advanced Heart Failure**
+
+| Recommendations | Class | Level |
+|---|:---:|:---:|
+| For patients with advanced HF and hyponatremia, the benefit of fluid restriction to reduce congestive symptoms is uncertain. | **IIb** | **C-LD** |
+
+
+### 8.3 Inotropic Support in Advanced Heart Failure
+* **Cardiogenic Shock and Bridge Therapy (Class 2a, Level of Evidence B-NR):** Continuous intravenous inotropic support (milrinone, dobutamine) is reasonable in Stage D patients refractory to GDMT who present with severe hypoperfusion, symptomatic hypotension, or end-organ hypoperfusion as a bridge to mechanical circulatory support (MCS) or cardiac transplantation.
+* **Palliative Inotropic Infusion (Class 2b, Level B-NR):** In select Stage D patients who are ineligible for MCS or transplantation, continuous home intravenous inotropes may be considered for symptom palliation and reduction of repeated hospitalizations as part of a formal palliative care plan.
+* **Avoidance of Routine Use (Class 3: Harm):** Routine or intermittent outpatient intravenous inotropes without specific indications are associated with increased mortality due to ventricular tachyarrhythmias and myocardial ischemia.
+
+
+
+#### Table 20: Intravenous Inotropic Agents Used in the Management of HF
+
+| Agent / Class | Bolus | Infusion | Kinetics / Metabolism | CO (СВ) | HR (ЧСС) | SVR (ОПСС) | PVR (ЛСС) | Adverse Effects | Special Considerations |
+|---|---|---|---|---|---|---|---|---|---|
+| **Adrenergic Agonists** |
+| **Dopamine** (medium dose) | NA | 5–10 mcg/kg/min | t½: 2–20 min | ↑ | ↑ | ↔ | ↔ | T, HA, N, tissue necrosis | Caution: MAO-I |
+| **Dopamine** (high dose) | NA | 10–15 mcg/kg/min | R, H, P | ↑ | ↑ | ↑ | ↔ | T, HA, N, tissue necrosis | Caution: MAO-I |
+| **Dobutamine** | NA | 2.5–20 mcg/kg/min | t½: 2–3 min (hepatic) | ↑ | ↑ | ↔ | ↔ | ↑/↓BP, HA, T, N, F, hypersensitivity | Caution: MAO-I; CI: sulfite allergy |
+| **PDE 3 Inhibitor** |
+| **Milrinone** | NR | 0.125–0.75 mcg/kg/min | t½: 2.5 h (hepatic) | ↑ | ↑ | ↓ | ↓ | T, ↓BP | Accumulation may occur in renal failure; monitor renal and LFTs |
+| **Vasopressors** |
+| **Epinephrine** (low dose) | NR | 5–15 mcg/min | t½: 2–3 min | ↑ | ↑ | ↑(↓) | ↔ | HA, T | Caution: MAO-I |
+| **Epinephrine** (high dose) | NR | 15–20 mcg/min | t½: 2–3 min | ↑ | ↑↑ | ↑↑ | ↔ | HA, T | Caution: MAO-I |
+| **Norepinephrine** | NR | 0.5–30 mcg/min | t½: 2.5 min | ↔ | ↑ | ↑↑ | ↔ | ↓HR, tissue necrosis | Caution: MAO-I |
+
+
+### Recommendation Table 17 — Recommendations for Inotropic Support
+
+**Inotropic Support in Advanced Heart Failure**
+
+| Recommendations | Class | Level |
+|---|:---:|:---:|
+| In patients with advanced (stage D) HF refractory to GDMT and device therapy who are eligible for and awaiting MCS or cardiac transplantation, continuous intravenous inotropic support is reasonable as "bridge therapy." | **IIa** | **B-NR** |
+| In select patients with stage D HF, despite optimal GDMT and device therapy who are ineligible for either MCS or cardiac transplantation, continuous intravenous inotropic support may be considered as palliative therapy for symptom control and improvement in functional status. | **IIb** | **B-NR** |
+| In patients with HF, long-term use of either continuous or intermittent intravenous inotropic agents, for reasons other than palliative care or as a bridge to advanced therapies, is potentially harmful. | **III-harm** | **B-R** |
+
+
+### 8.4 Mechanical Circulatory Support (MCS)
+* **Durable Left Ventricular Assist Devices (LVAD) (Class 1, Level of Evidence A):** In selected patients with advanced Stage D HFrEF who are dependent on intravenous inotropes or have severe refractory symptoms despite GDMT:
+  - **Bridge to Transplantation (BTT):** Recommended to prolong survival and functional capacity while awaiting donor organ availability.
+  - **Destination Therapy (DT):** Recommended to prolong survival and improve quality of life in patients who are ineligible for cardiac transplantation (MOMENTUM 3 trial; fully magnetically levitated centrifugal-flow HeartMate 3 device).
+* **Temporary MCS in Cardiogenic Shock (Class 2a, Level B-NR):** In patients with Stage D HFrEF presenting in refractory cardiogenic shock with end-organ failure, temporary MCS (e.g., microaxial pump [Impella], venoarterial ECMO, tandem devices) is reasonable as a "bridge to decision" or "bridge to recovery".
+
+
+
+#### Table 19: Indications and Contraindications to Durable Mechanical Support
+
+| Category | Clinical Criteria and Factors |
+|---|---|
+| **Indications (combination of these):** |
+| Indication | Frequent hospitalizations for HF |
+| Indication | NYHA class IIIb to IV functional limitations despite maximal therapy |
+| Indication | Intolerance of neurohormonal antagonists |
+| Indication | Increasing diuretic requirement |
+| Indication | Symptomatic despite CRT |
+| Indication | Inotrope dependence |
+| Indication | Low peak VO₂ (<14–16 mL/kg/min) |
+| Indication | End-organ dysfunction attributable to low cardiac output |
+| **Absolute Contraindications:** |
+| Absolute CI | Irreversible hepatic disease |
+| Absolute CI | Irreversible renal disease |
+| Absolute CI | Irreversible neurological disease |
+| Absolute CI | Medical nonadherence |
+| Absolute CI | Severe psychosocial limitations |
+| **Relative Contraindications:** |
+| Relative CI | Age >80 y for destination therapy |
+| Relative CI | Obesity or malnutrition |
+| Relative CI | Musculoskeletal disease that impairs rehabilitation |
+| Relative CI | Active systemic infection or prolonged intubation |
+| Relative CI | Untreated malignancy |
+| Relative CI | Severe peripheral vascular disease (PVD) |
+| Relative CI | Active substance abuse |
+| Relative CI | Impaired cognitive function |
+| Relative CI | Unmanaged psychiatric disorder |
+| Relative CI | Lack of social support |
+
+
+### Recommendation Table 18 — Recommendations for Mechanical Circulatory Support
+
+**Mechanical Circulatory Support in Advanced Heart Failure**
+
+| Recommendations | Class | Level |
+|---|:---:|:---:|
+| In select patients with advanced HFrEF with NYHA class IV symptoms who are deemed to be dependent on continuous intravenous inotropes or temporary MCS, durable LVAD implantation is effective to improve functional status, QOL, and survival. | **I** | **A** |
+| In select patients with advanced HFrEF who have NYHA class IV symptoms despite GDMT, durable MCS can be beneficial to improve symptoms, improve functional class, and reduce mortality. | **IIa** | **B-R** |
+| In patients with advanced HFrEF who have NYHA class IV symptoms despite GDMT, durable MCS devices provide low to intermediate economic value based on current costs and outcomes. | **Value-Uncertain** | **B-NR** |
+| In patients with advanced HFrEF and hemodynamic compromise and shock, temporary MCS, including percutaneous and extracorporeal ventricular assist devices, are reasonable as a "bridge to recovery" or "bridge to decision." | **IIa** | **B-NR** |
+
+
+### 8.5 Cardiac Transplantation
+* **Orthotopic Cardiac Transplantation (Class 1, Level of Evidence A):** In selected patients with Stage D advanced heart failure who are refractory to medical and device therapies and have no contraindications, cardiac transplantation is recommended to significantly improve survival, exercise capacity, and quality of life.
+
+
+
+### Recommendation Table 19 — Recommendation for Cardiac Transplantation
+
+**Recommendation for Cardiac Transplantation**
+
+| Recommendations | Class | Level |
+|---|:---:|:---:|
+| For selected patients with advanced HF despite GDMT, cardiac transplantation is indicated to improve survival and QOL. | **I** | **C-LD** |
+| In patients with stage D (advanced) HF despite GDMT, cardiac transplantation provides intermediate economic value. | **Value-Intermediate** | **C-LD** |
+
+
+### Recommendation Table 6 — Recommendations for Advanced Heart Failure (Stage D)
+
+**Referral and Evaluation for Advanced HF**
+
+| Recommendations | Class | Level |
+|---|:---:|:---:|
+| Patients with advanced HF with repeated or refractory HF hospitalizations, intolerance to GDMT, dependence on IV inotropes, or refractory cardiogenic shock should be referred to HF specialty centers for evaluation for advanced HF therapies. | **I** | **C-EO** |
+| Implantable pulmonary artery pressure monitoring (CardioMEMS) is recommended to reduce HF hospitalizations in patients with ambulatory NYHA Class III HF with prior HF hospitalization. | **IIa** | **B-R** |
+
+**Left Ventricular Assist Device (LVAD)**
+
+| Recommendations | Class | Level |
+|---|:---:|:---:|
+| LVAD is indicated for patients with advanced HFrEF awaiting cardiac transplantation (bridge to transplantation) who are deteriorating. | **I** | **B-NR** |
+| LVAD is reasonable in selected patients with advanced HFrEF not eligible for cardiac transplantation who have NYHA Class IIIB–IV symptoms despite GDMT, to improve functional status, QOL, and survival (destination therapy). | **IIa** | **B-R** |
+
+**Cardiac Transplantation**
+
+| Recommendations | Class | Level |
+|---|:---:|:---:|
+| Cardiac transplantation is recommended for carefully selected patients with advanced HF with refractory symptoms, hemodynamics, or arrhythmias, despite optimal GDMT and device therapy. | **I** | **C-EO** |
+
+**Palliative Care and End-of-Life**
+
+| Recommendations | Class | Level |
+|---|:---:|:---:|
+| Palliative care, including discussion of prognosis for functional capacity and survival, should be integrated into the care of patients with HF. | **I** | **C-LD** |
+| For patients with HF who are at risk for sudden death, discussion of the option to deactivate ICD should be part of shared decision-making. | **I** | **C-LD** |
+
+
+</div></details>
+
+<details class="med-details"><summary>
+
+## 9. Patients Hospitalized With Acute Decompensated Heart Failure</summary><div class="details-content">
+
+Acute decompensated heart failure (ADHF) is a frequent cause of emergency presentation and hospitalization, requiring urgent hemodynamic stabilization, decongestion, and structured transitional care.
+
+### 9.1 Initial Assessment of Hospitalized Patients
+* **Hemodynamic and Volume Profiling (Class 1, Level of Evidence C-EO):** In all patients admitted with ADHF, bedside evaluation must characterize the hemodynamic profile based on congestion ("wet" vs "dry") and peripheral perfusion ("warm" vs "cold"). The vast majority ($> 90\%$) present as "warm and wet".
+* **Identification of Precipitating Factors:** Systematic search for acute triggers—including myocardial ischemia, acute arrhythmias (especially rapid atrial fibrillation), uncontrolled hypertension, medication non-adherence, dietary excess, NSAID use, infection, and worsening renal failure.
+
+
+
+#### Table 21: Common Factors Precipitating HF Hospitalization With Acute Decompensated HF
+
+| № | Precipitating Factor |
+|---|---|
+| 1 | ACS |
+| 2 | Uncontrolled hypertension |
+| 3 | AF and other arrhythmias |
+| 4 | Additional cardiac disease (eg, endocarditis) |
+| 5 | Acute infections (eg, pneumonia, urinary tract) |
+| 6 | Nonadherence with medication regimen or dietary intake |
+| 7 | Anemia |
+| 8 | Hyper- or hypothyroidism |
+| 9 | Medications that increase sodium retention (eg, NSAID) |
+| 10 | Medications with negative inotropic effect (eg, verapamil) |
+
+
+### Recommendation Table 20 — Recommendations for Assessment of Patients Hospitalized With Decompensated HF
+
+**Assessment of Patients Hospitalized With Decompensated HF**
+
+| Recommendations | Class | Level |
+|---|:---:|:---:|
+| In patients hospitalized with HF, severity of congestion and adequacy of perfusion should be assessed to guide triage and initial therapy. | **I** | **C-LD** |
+| In patients hospitalized with HF, the common precipitating factors and the overall patient trajectory should be assessed to guide appropriate therapy. | **I** | **C-LD** |
+
+**Goals for Optimization and Continuation of GDMT**
+
+| Recommendations | Class | Level |
+|---|:---:|:---:|
+| For patients admitted with HF, treatment should address reversible factors, establish optimal volume status, and advance GDMT toward targets for outpatient therapy. | **I** | **C-LD** |
+
+
+### 9.2 Maintenance or Optimization of GDMT During Hospitalization
+* **Continuation of Chronic GDMT (Class 1, Level of Evidence B-NR):** In patients with HFrEF hospitalized for ADHF without hemodynamic instability, shock, or symptomatic hypotension, pre-existing GDMT (including beta-blockers, ARNI/ACEi/ARB, MRAs, and SGLT2 inhibitors) should be **continued and not routinely discontinued**.
+* **In-Hospital Initiation / Titration (Class 1, Level B-NR):** Hospitalization represents a critical window of opportunity to initiate and titrate foundational GDMT, including ARNI and SGLT2 inhibitors, once patients are stabilized and decongestion is underway (PIONEER-HF, EMPULSE trials).
+* **Transient Dose Reduction (Class 2a, Level B-NR):** If severe renal impairment or symptomatic hypotension occurs, temporary dose reduction of RAS inhibitors or beta-blockers may be considered, with prompt reinstatement prior to discharge.
+
+
+
+### Recommendation Table 21 — Recommendations for Maintenance or Optimization of GDMT During Hospitalization
+
+**Maintenance or Optimization of GDMT During Hospitalization**
+
+| Recommendations | Class | Level |
+|---|:---:|:---:|
+| In patients with HFrEF requiring hospitalization, preexisting GDMT should be continued and optimized to improve outcomes, unless contraindicated. | **I** | **B-NR** |
+| In patients experiencing mild decrease of renal function or asymptomatic reduction of blood pressure during HF hospitalization, diuresis and other GDMT should not routinely be discontinued. | **I** | **B-NR** |
+| In patients with HFrEF, GDMT should be initiated during hospitalization after clinical stability is achieved. | **I** | **B-NR** |
+| In patients with HFrEF, if discontinuation of GDMT is necessary during hospitalization, it should be reinitiated and further optimized as soon as possible. | **I** | **B-NR** |
+
+
+### 9.3 Diuretics in Hospitalized Patients: Decongestion Strategy
+* **Intravenous Loop Diuretics First-Line (Class 1, Level of Evidence B-NR):** Patients admitted with signs of fluid overload should receive prompt intravenous loop diuretics. For patients on chronic outpatient oral loop diuretics, the initial IV dose should be equal to or greater than their home oral daily dose (e.g., $1.0\text{ to }2.5\times$ oral dose in IV milligrams; DOSE-AHF trial).
+* **Dynamic Monitoring of Diuretic Response:** Urine output, daily morning weight, clinical signs of congestion, and serum electrolytes must be monitored serial. If diuretic response is inadequate (e.g., spot urine sodium $< 50\text{--}70\text{ mEq/L}$ at 2 hours or urine output $< 100\text{--}150\text{ mL/hr}$), the IV loop diuretic dose should be doubled (Class 1, Level B-NR).
+* **Combination Diuresis for Resistance:** Adding a thiazide-type diuretic (metolazone $2.5\text{--}5\text{ mg}$ or IV chlorothiazide $500\text{ mg}$) or initiating an SGLT2 inhibitor is recommended when loop diuresis alone fails to achieve decongestion (Class 2a, Level B-NR).
+
+
+
+### Recommendation Table 22 — Recommendations for Diuretics in Hospitalized Patients: Decongestion Strategy
+
+**Diuretics in Hospitalized Patients: Decongestion Strategy**
+
+| Recommendations | Class | Level |
+|---|:---:|:---:|
+| Patients with HF admitted with evidence of significant fluid overload should be promptly treated with intravenous loop diuretics to improve symptoms and reduce morbidity. | **I** | **B-NR** |
+| For patients hospitalized with HF, therapy with diuretics and other guideline-directed medications should be titrated with a goal to resolve clinical evidence of congestion to reduce symptoms and rehospitalizations. | **I** | **B-NR** |
+| For patients requiring diuretic treatment during hospitalization for HF, the discharge regimen should include a plan for adjustment of diuretics to decrease rehospitalizations. | **I** | **B-NR** |
+| In patients hospitalized with HF when diuresis is inadequate to relieve symptoms and signs of congestion, it is reasonable to intensify the diuretic regimen using either: a. higher doses of intravenous loop diuretics; or b. addition of a second diuretic. | **IIa** | **B-NR** |
+
+
+### 9.4 Vasodilation and VTE Prophylaxis in Hospitalized Heart Failure
+* **Parenteral Vasodilation Therapy (Class 2b, Level of Evidence B-NR):** In patients admitted with acute decompensated heart failure and severe hypertension or refractory acute pulmonary edema without systemic hypotension, intravenous vasodilators (nitroglycerin or sodium nitroprusside) may be considered as an adjunct to IV diuretics to reduce preload and afterload.
+* **Venous Thromboembolism Prophylaxis (Class 1, Level B-NR):** In patients hospitalized with acute decompensated heart failure without contraindications or ongoing anticoagulation, pharmacological thromboprophylaxis with low-molecular-weight heparin or unfractionated heparin is recommended.
+
+
+
+### Recommendation Table 23 — Recommendation for Parenteral Vasodilation Therapy in Patients Hospitalized With HF
+
+**Parenteral Vasodilation Therapy in Patients Hospitalized With HF**
+
+| Recommendations | Class | Level |
+|---|:---:|:---:|
+| In patients who are admitted with decompensated HF, in the absence of systemic hypotension, intravenous nitroglycerin or nitroprusside may be considered as an adjuvant to diuretic therapy for relief of dyspnea. | **IIb** | **B-NR** |
+
+
+### Recommendation Table 24 — Recommendation for VTE Prophylaxis in Hospitalized Patients
+
+**VTE Prophylaxis in Hospitalized Patients**
+
+| Recommendations | Class | Level |
+|---|:---:|:---:|
+| In patients hospitalized with HF, prophylaxis for VTE is recommended to prevent venous thromboembolic disease. | **I** | **B-R** |
+
+
+### 9.5 Evaluation and Management of Cardiogenic Shock
+Cardiogenic shock is a life-threatening state of critical end-organ hypoperfusion caused by severe cardiac dysfunction:
+* **Multidisciplinary Shock Team Care (Class 2a, Level of Evidence B-NR):** In patients presenting with cardiogenic shock, management by a dedicated multidisciplinary "Shock Team" and early transfer to a high-volume shock center improves survival.
+* **Invasive Hemodynamic Monitoring (Class 2a, Level B-NR):** Pulmonary artery catheterization (PAC) is reasonable to guide inotropic, vasopressor, and mechanical circulatory support titration.
+* **Pharmacological Support:** Inotropic agents (dobutamine, milrinone) to restore cardiac index and vasopressors (norepinephrine preferred over dopamine) to maintain mean arterial pressure $\ge 65\text{ mm Hg}$.
+* **Temporary Mechanical Circulatory Support (Class 2a, Level B-NR):** In patients with refractory cardiogenic shock unresponsive to inotropes/vasopressors, early temporary MCS (Impella, VA-ECMO, TandemHeart) is reasonable to restore systemic perfusion and prevent multi-organ failure.
+
+
+
+#### Table 22: Suggested Shock Clinical Criteria
+
+| Domain / Category | Clinical Criterion |
+|---|---|
+| Hypotension / Vasopressor Support | SBP <90 mm Hg for >30 min |
+| Hypotension / Vasopressor Support | a. Or mean BP <60 mm Hg for >30 min |
+| Hypotension / Vasopressor Support | b. Or requirement of vasopressors to maintain systolic BP ≥90 mm Hg or mean BP ≥60 mm Hg |
+| Hypoperfusion | c. Decreased mentation |
+| Hypoperfusion | d. Cold extremities, livedo reticularis |
+| Hypoperfusion | e. Urine output <30 mL/h |
+| Hypoperfusion | f. Lactate >2 mmol/L |
+
+
+#### Table 23: Suggested Shock Hemodynamic Criteria
+
+| Parameter / Domain | Hemodynamic Diagnostic Criteria |
+|---|---|
+| 1. Systemic Blood Pressure | SBP <90 mm Hg or mean BP <60 mm Hg |
+| 2. Cardiac Index (CI) | <2.2 L/min/m² |
+| 3. Pulmonary Capillary Wedge Pressure (PCWP) | >15 mm Hg |
+| 4a. Cardiac Power Output (CPO) | ([CO × MAP] / 451) <0.6 W |
+| 4b. Shock Index (SI) | (HR / systolic BP) >1.0 |
+| 4c-i. RV shock: Pulmonary Artery Pulsatility Index (PAPi) | ([PASP - PADP] / CVP) <1.0 |
+| 4c-ii. RV shock: Central Venous Pressure (CVP) | >15 mm Hg |
+| 4c-iii. RV shock: CVP / PCW ratio | >0.6 |
+
+
+#### Table 24: Society for Cardiovascular Angiography and Interventions (SCAI) Cardiogenic Shock Criteria
+
+| Stage | Bedside Findings | Selected Laboratory Markers | Hemodynamics |
+|---|---|---|---|
+| A: At risk • Normotensive • Normal perfusion • Cause for risk for shock such as large myocardial infarction or HF | Normal venous pressure Clear lungs Warm extremities Strong palpable pulses Normal mentation | Normal renal function Normal lactate | SBP >100 mm Hg Hemodynamics: Normal |
+| B: Beginning shock ("pre-shock") • Hypotension • Normal perfusion | Elevated venous pressure Rales present Warm extremities Strong pulses Normal mentation | Preserved renal function Normal lactate Elevated BNP | SBP <90 mm Hg, MAP <60 mm Hg, or >30 mm Hg decrease from baseline SBP HR >100 bpm Hemodynamics: CI ≥2.2 L/min/m² |
+| C: Classic cardiogenic shock • Hypotension • Hypoperfusion | Elevated venous pressure Rales present Cold, ashen, livedo Weak or nonpalpable pulses Altered mentation Decreased urine output Respiratory distress | Impaired renal function Increased lactate Elevated BNP Increased LFTs Acidosis | SBP <90 mm Hg; MAP <60 mm Hg; >30 mm Hg from baseline SBP despite drugs and temporary MCS HR >100 bpm Hemodynamics: CI ≤2.2 L/min/m²; PCW >15 mm Hg; CPO <0.6 W; PAPi <2.0; CVP/PCW >1.0 |
+| D: Deteriorating • Worsening hypotension • Worsening hypoperfusion | Same as stage C | Persistent or worsening values of stage C | Escalating use of pressors or MCS to maintain SBP and end-organ perfusion in setting of stage C hemodynamics |
+| E: Extremis • Refractory hypotension • Refractory hypoperfusion | Cardiac arrest CPR | Worsening values of stage C laboratories | SBP only with resuscitation PEA Recurrent VT/VF |
+
+
+### Recommendation Table 25 — Recommendations for Evaluation and Management of Cardiogenic Shock
+
+**Evaluation and Management of Cardiogenic Shock**
+
+| Recommendations | Class | Level |
+|---|:---:|:---:|
+| In patients with cardiogenic shock, intravenous inotropic support should be used to maintain systemic perfusion and preserve end-organ performance. | **I** | **B-NR** |
+| In patients with cardiogenic shock, temporary MCS is reasonable when end-organ function cannot be maintained by pharmacologic means to support cardiac function. | **IIa** | **B-NR** |
+| In patients with cardiogenic shock, management by a multidisciplinary team experienced in shock is reasonable. | **IIa** | **B-NR** |
+| In patients presenting with cardiogenic shock, placement of a PA line may be considered to define hemodynamic subsets and appropriate management strategies. | **IIb** | **B-NR** |
+| For patients who are not rapidly responding to initial shock measures, triage to centers that can provide temporary MCS may be considered to optimize management. | **IIb** | **C-LD** |
+
+
+### 9.6 Integration of Care: Transitions and Team-Based Approaches
+* **Multidisciplinary Transitional Care (Class 1, Level of Evidence A):** Comprehensive transitional care programs—including postdischarge follow-up within **7 to 14 days**, medication reconciliation, structured telephone contact, and home visits—are recommended to reduce 30-day readmissions and mortality.
+
+
+
+#### Table 25: Important Components of a Transitional Care Plan
+
+| № | Component of Transitional Care Plan |
+|---|---|
+| 1 | Addressing any precipitating causes of worsening HF identified in the hospital; |
+| 2 | Adjusting diuretics based on volume status (including weight) and electrolytes; |
+| 3 | Coordination of safety laboratory checks (eg, electrolytes after initiation or intensification of GDMT); |
+| 4 | Further changes to optimize GDMT, including: • Plans for resuming medications held in the hospital; • Plans for initiating new medications; • Plans for titration of GDMT to goal doses as tolerated; |
+| 5 | Reinforcing HF education and assessing compliance with medical therapy and lifestyle modifications, including dietary restrictions and physical activity; |
+| 6 | Addressing high-risk characteristics that may be associated with poor post-discharge clinical outcomes, such as: • Comorbid conditions (eg, renal dysfunction, pulmonary disease, diabetes, mental health, and substance use disorders); • Limitations in psychosocial support; • Impaired health literacy, cognitive impairment; |
+| 7 | Additional surgical or device therapy, referral to cardiac rehabilitation in the future, where appropriate; |
+| 8 | Referral to palliative care specialists and/or enrollment in hospice in selected patients. |
+
+
+### Recommendation Table 26 — Recommendations for Integration of Care: Transitions and Team-Based Approaches
+
+**Integration of Care: Transitions and Team-Based Approaches**
+
+| Recommendations | Class | Level |
+|---|:---:|:---:|
+| In patients with high-risk HF, particularly those with recurrent hospitalizations for HFrEF, referral to multidisciplinary HF disease management programs is recommended to reduce the risk of hospitalization. | **I** | **B-R** |
+| In patients hospitalized with worsening HF, patient-centered discharge instructions with a clear plan for transitional care should be provided before hospital discharge. | **I** | **B-NR** |
+| In patients hospitalized with worsening HF, participation in systems that allow benchmarking to performance measures is reasonable to increase use of evidence-based therapy, and to improve quality of care. | **IIa** | **B-NR** |
+| In patients being discharged after hospitalization for worsening HF, an early follow-up, generally within 7 days of hospital discharge, is reasonable to optimize care and reduce rehospitalization. | **IIa** | **B-NR** |
+
+
+### Recommendation Table 5 — Recommendations for Management of Acute Decompensated Heart Failure (ADHF)
+
+**Volume Management and Decongestion**
+
+| Recommendations | Class | Level |
+|---|:---:|:---:|
+| IV diuretics are recommended for patients admitted with ADHF who have fluid overload to improve symptoms and clinical status. | **I** | **B-NR** |
+| During treatment with IV diuretics, serial assessments of serum electrolytes and renal function should be performed to guide therapy. | **I** | **C-EO** |
+| Ultrafiltration may be considered in patients with ADHF who fail to respond to adequate diuretic therapy to restore volume homeostasis. | **IIb** | **B-R** |
+
+**Vasodilators, Inotropes, and Vasopressors**
+
+| Recommendations | Class | Level |
+|---|:---:|:---:|
+| IV vasodilators (nitroglycerin, nitroprusside, nesiritide) may be considered as an adjunct to diuretics in ADHF patients without hypotension to improve dyspnoea. | **IIb** | **B-R** |
+| Short-term IV inotropic support is recommended for patients with ADHF and cardiogenic shock to maintain systemic perfusion and preserve end-organ function. | **I** | **C-EO** |
+| Routine use of IV inotropic agents in patients without evidence of low perfusion (systemic hypotension, organ dysfunction) is potentially harmful, as it may increase mortality. | **III-harm** | **A** |
+| For patients with ADHF and cardiogenic shock unresponsive to initial treatment, vasopressors (norepinephrine preferred) may be used as a bridge to advanced therapies. | **IIa** | **B-NR** |
+
+**Monitoring, Discharge Planning, and Optimization of GDMT**
+
+| Recommendations | Class | Level |
+|---|:---:|:---:|
+| In patients admitted for ADHF who are on chronic oral GDMT, it is recommended to continue GDMT in the absence of hemodynamic instability or contraindications. | **I** | **B-NR** |
+| Before discharge from a hospitalization for HF, evaluation of adequacy of GDMT is recommended, with initiation of GDMT before discharge if not already done. | **I** | **B-NR** |
+| Objective evidence of adequate decongestion before discharge is recommended to reduce the risk of early HF readmission. | **I** | **C-LD** |
+| Scheduling of follow-up visits within 7–14 days of discharge is recommended for high-risk HF patients to reduce readmission and to up-titrate GDMT. | **I** | **B-NR** |
+
+
+</div></details>

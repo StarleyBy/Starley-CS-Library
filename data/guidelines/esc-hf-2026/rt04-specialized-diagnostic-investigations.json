@@ -1,0 +1,189 @@
+{
+  "schemaVersion": 1,
+  "id": "esc-hf-2026.rt04-specialized-diagnostic-investigations",
+  "guidelineId": "esc-hf-2026",
+  "number": "Recommendation Table 4",
+  "type": "recommendations",
+  "title": {
+    "en": "Recommendations for specialized diagnostic investigations in patients with established heart failure to detect reversible/treatable causes of heart failure",
+    "ru": "Рекомендации по специализированным диагностическим исследованиям у пациентов с установленной сердечной недостаточностью для выявления обратимых/курабельных причин"
+  },
+  "tags": [
+    "specialized-investigations",
+    "cmr",
+    "amyloidosis",
+    "scintigraphy",
+    "genetic-testing",
+    "coronary-angiography",
+    "ctca",
+    "pet",
+    "sarcoidosis",
+    "biopsy",
+    "right-heart-catheterization",
+    "hfpef",
+    "hfref"
+  ],
+  "source": {
+    "expectedRows": 12
+  },
+  "i18nStatus": {
+    "ru": "reviewed"
+  },
+  "sections": [
+    {
+      "id": "sec-aetiology-hfpef-hfref",
+      "title": {
+        "en": "Investigations for underlying aetiology in patients with HFpEF or HFrEF (see Evidence Tables 20–28)",
+        "ru": "Исследования первопричинной этиологии у пациентов с СНсФВ или СНнФВ (см. Доказательные таблицы 20–28)"
+      },
+      "rows": [
+        {
+          "id": "r01",
+          "text": {
+            "en": "Contrast-enhanced CMR is recommended in patients with suspected cardiomyopathy, or where the underlying aetiology of HF is uncertain if further characterization is likely to add value to patient care.",
+            "ru": "МРТ сердца с контрастированием рекомендуется пациентам с подозрением на кардиомиопатию или в случаях неясной первопричинной этиологии СН, если дополнительная характеристика ткани способна улучшить ведение пациента."
+          },
+          "class": "I",
+          "level": "C",
+          "refs": [205, 206, 207, 208, 209, 210, 211, 212, 213, 214, 215]
+        },
+        {
+          "id": "r02",
+          "text": {
+            "en": "Initial diagnostic testing with serum and urine immunofixation, serum free light chains assay, and DPD/PYP/HMDP bone scintigraphy is recommended in patients with HF and a suspicion of cardiac amyloidosis.",
+            "ru": "Первичное диагностическое обследование с иммунофиксацией белков сыворотки крови и мочи, анализом свободных легких цепей в сыворотке и сцинтиграфией костей с DPD/PYP/HMDP рекомендуется пациентам с СН при подозрении на амилоидоз сердца."
+          },
+          "class": "I",
+          "level": "B",
+          "refs": [216, 217, 218, 219, 220, 221, 222]
+        },
+        {
+          "id": "r03",
+          "text": {
+            "en": "Genetic testing is recommended in patients fulfilling diagnostic criteria for cardiomyopathy in cases where it enables diagnosis, prognostication, therapeutic stratification, or reproductive management of the patient, or where it enables cascade genetic evaluation of their relatives who would otherwise be enrolled into long-term surveillance.",
+            "ru": "Генетическое тестирование рекомендуется пациентам, соответствующим диагностическим критериям кардиомиопатии, в случаях, когда оно позволяет верифицировать диагноз, определить прогноз, провести стратификацию терапии или репродуктивное планирование, либо позволяет провести каскадный генетический скрининг родственников, которые иначе подлежали бы длительному диспансерному наблюдению."
+          },
+          "class": "I",
+          "level": "C",
+          "refs": [223, 224, 225, 226, 227]
+        },
+        {
+          "id": "r04",
+          "text": {
+            "en": "Invasive coronary angiography is recommended in patients with HF, angina, and high probability^[c] of obstructive CAD who are potential candidates for revascularization.^[d]",
+            "ru": "Инвазивная коронароангиография рекомендуется пациентам с СН, стенокардией и высокой вероятностью^[c] обструктивной ИБС, являющимся потенциальными кандидатами на реваскуляризацию.^[d]"
+          },
+          "class": "I",
+          "level": "C"
+        },
+        {
+          "id": "r05",
+          "text": {
+            "en": "18F-FDG-PET scanning should be considered for the diagnostic work-up in patients with cardiomyopathy in whom cardiac sarcoidosis is suspected.",
+            "ru": "ПЭТ с 18F-ФДГ должна быть рассмотрена в рамках диагностического поиска у пациентов с кардиомиопатией при подозрении на саркоидоз сердца."
+          },
+          "class": "IIa",
+          "level": "C",
+          "refs": [181, 182]
+        },
+        {
+          "id": "r06",
+          "text": {
+            "en": "Endomyocardial biopsy should be considered to aid in diagnosis and management in patients with rapidly progressive HF despite standard therapy or when the results of other clinical investigations suggest myocardial inflammation, infiltration, or storage that cannot be identified by other means.",
+            "ru": "Эндомиокардиальная биопсия должна рассматриваться для уточнения диагноза и тактики ведения у пациентов с быстропрогрессирующей СН, несмотря на стандартную терапию, или когда результаты других исследований указывают на воспаление, инфильтрацию или болезни накопления в миокарде, которые не могут быть верифицированы иными методами."
+          },
+          "class": "IIa",
+          "level": "C",
+          "refs": [228]
+        },
+        {
+          "id": "r07",
+          "text": {
+            "en": "Right heart catheterization^[e] should be considered in patients where HF is thought to be due to constrictive pericarditis or congenital heart disease.",
+            "ru": "Катетеризация правых отделов сердца^[e] должна рассматриваться у пациентов, если предполагается, что СН обусловлена констриктивным перикардитом или врожденным пороком сердца."
+          },
+          "class": "IIa",
+          "level": "C",
+          "refs": [229]
+        },
+        {
+          "id": "r08",
+          "text": {
+            "en": "Right heart catheterization^[f] may be considered in selected patients with suspected HFpEF or structural heart disease to confirm the diagnosis, or when clinical examination and non-invasive testing are insufficient to understand the haemodynamic state.",
+            "ru": "Катетеризация правых отделов сердца^[f] может быть рассмотрена у отдельных пациентов с подозрением на СНсФВ или структурное заболевание сердца для подтверждения диагноза либо в случаях, когда клинического обследования и неинвазивных тестов недостаточно для оценки гемодинамического статуса."
+          },
+          "class": "IIb",
+          "level": "C",
+          "refs": [230, 231]
+        }
+      ]
+    },
+    {
+      "id": "sec-investigations-hfref",
+      "title": {
+        "en": "Investigations for patients with HFrEF",
+        "ru": "Исследования у пациентов с СНнФВ"
+      },
+      "rows": [
+        {
+          "id": "r09",
+          "text": {
+            "en": "Invasive coronary angiography should be considered in patients with HFrEF and high pre-test likelihood^[c] of obstructive CAD, taking into account the risk-to-benefit ratio of the procedures and potential revascularization strategies.",
+            "ru": "Инвазивная коронароангиография должна рассматриваться у пациентов с СНнФВ и высокой предтестовой вероятностью^[c] обструктивной ИБС с учетом соотношения пользы и риска процедуры и потенциальных стратегий реваскуляризации."
+          },
+          "class": "IIa",
+          "level": "C",
+          "refs": [178, 179, 180]
+        },
+        {
+          "id": "r10",
+          "text": {
+            "en": "CTCA should be considered in patients with HFrEF and low-moderate pre-test likelihood^[c] of obstructive CAD.",
+            "ru": "КТ-коронароангиография должна рассматриваться у пациентов с СНнФВ и низкой или умеренной предтестовой вероятностью^[c] обструктивной ИБС."
+          },
+          "class": "IIa",
+          "level": "C",
+          "refs": [196, 232, 233, 234]
+        },
+        {
+          "id": "r11",
+          "text": {
+            "en": "Review of the proportion of RV pacing should be considered in all patients with CIED and de novo or worsening HFrEF.",
+            "ru": "Оценка процента стимуляции правого желудочка должна рассматриваться у всех пациентов с имплантированными электронными устройствами (CIED) при впервые возникшей или ухудшающейся СНнФВ."
+          },
+          "class": "IIa",
+          "level": "C",
+          "refs": [202, 235, 236, 237, 238, 239]
+        },
+        {
+          "id": "r12",
+          "text": {
+            "en": "Electrical cardioversion as a diagnostic tool may be considered in patients with persistent AF where there is uncertainty about the value of sinus rhythm restoration on symptoms or to assess improvement in left ventricular function.",
+            "ru": "Электрическая кардиоверсия в качестве диагностического метода может быть рассмотрена у пациентов с персистирующей ФП при неопределенности в отношении пользы восстановления синусового ритма для уменьшения симптомов или для оценки улучшения функции левого желудочка."
+          },
+          "class": "IIb",
+          "level": "C",
+          "refs": [240]
+        }
+      ]
+    }
+  ],
+  "footnotes": {
+    "c": {
+      "en": "Based on cardiovascular risk factors and clinical history.",
+      "ru": "На основании факторов сердечно-сосудистого риска и клинического анамнеза."
+    },
+    "d": {
+      "en": "Exclude frailty, multiple severe comorbidities, limited life expectancy.",
+      "ru": "Исключая старческую астению (хрупкость), тяжелые множественные коморбидные состояния и ограниченную ожидаемую продолжительность жизни."
+    },
+    "e": {
+      "en": "Right and left heart catheterization needed for the differential diagnosis of constrictive pericarditis and restrictive cardiomyopathy.",
+      "ru": "Для дифференциальной диагностики констриктивного перикардита и рестриктивной кардиомиопатии необходима катетеризация как правых, так и левых отделов сердца."
+    },
+    "f": {
+      "en": "Potentially including exercise right heart catheterization.",
+      "ru": "Потенциально включая катетеризацию правых отделов сердца с нагрузочной пробой."
+    }
+  }
+}

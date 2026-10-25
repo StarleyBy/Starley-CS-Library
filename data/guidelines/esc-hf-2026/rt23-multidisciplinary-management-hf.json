@@ -1,0 +1,68 @@
+{
+  "schemaVersion": 1,
+  "id": "esc-hf-2026.rt23-multidisciplinary-management-hf",
+  "guidelineId": "esc-hf-2026",
+  "number": "Recommendation Table 23",
+  "type": "recommendations",
+  "title": {
+    "en": "Recommendation Table 23 — Recommendations for the multidisciplinary management of heart failure",
+    "ru": "Таблица рекомендаций 23 — Рекомендации по мультидисциплинарному ведению сердечной недостаточности"
+  },
+  "tags": [
+    "multidisciplinary-management",
+    "self-management",
+    "education",
+    "adherence",
+    "health-literacy",
+    "polypharmacy",
+    "hfh",
+    "mortality"
+  ],
+  "source": {
+    "expectedRows": 3
+  },
+  "i18nStatus": {
+    "ru": "reviewed"
+  },
+  "sections": [
+    {
+      "id": "sec-multidisciplinary-management",
+      "title": {
+        "en": "Recommendations for the multidisciplinary management of heart failure (see Evidence Tables 94–96)",
+        "ru": "Рекомендации по мультидисциплинарному ведению сердечной недостаточности (см. Доказательные таблицы 94–96)"
+      },
+      "rows": [
+        {
+          "id": "r01",
+          "text": {
+            "en": "A multidisciplinary HF management programme is recommended in patients with HF to reduce the risk of HFH and death.",
+            "ru": "Программа мультидисциплинарного ведения СН рекомендуется пациентам с СН для снижения риска госпитализаций по поводу СН (HFH) и смерти."
+          },
+          "class": "I",
+          "level": "B1",
+          "refs": [964, 965, 966, 967]
+        },
+        {
+          "id": "r02",
+          "text": {
+            "en": "HF education and self-management strategies in patients with HF are recommended to reduce the risk of HFH or death.",
+            "ru": "Обучение пациентов с СН и стратегии самоконтроля/самопомощи рекомендуются для снижения риска госпитализаций по поводу СН (HFH) или смерти."
+          },
+          "class": "I",
+          "level": "A",
+          "refs": [977]
+        },
+        {
+          "id": "r03",
+          "text": {
+            "en": "Multidisciplinary interventions to improve adherence, including assessment of health literacy and polypharmacy review, are recommended in patients with HF to reduce the risk of hospitalization and death.",
+            "ru": "Мультидисциплинарные вмешательства для повышения приверженности лечению, включая оценку медицинской грамотности и анализ полипрагмазии, рекомендуются пациентам с СН для снижения риска госпитализации и смерти."
+          },
+          "class": "I",
+          "level": "B2",
+          "refs": [978, 979, 980, 981]
+        }
+      ]
+    }
+  ]
+}

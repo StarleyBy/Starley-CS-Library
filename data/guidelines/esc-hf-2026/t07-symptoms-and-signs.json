@@ -1,0 +1,467 @@
+{
+  "schemaVersion": 1,
+  "id": "esc-hf-2026.t07-symptoms-and-signs",
+  "guidelineId": "esc-hf-2026",
+  "number": "7",
+  "type": "grid",
+  "title": {
+    "en": "Symptoms and signs of heart failure",
+    "ru": "Симптомы и клинические признаки сердечной недостаточности"
+  },
+  "tags": [
+    "symptoms",
+    "signs",
+    "heart-failure",
+    "dyspnoea",
+    "orthopnoea",
+    "pnd",
+    "bendopnoea",
+    "oedema",
+    "jvp",
+    "clinical-features"
+  ],
+  "source": {
+    "expectedRows": 24
+  },
+  "i18nStatus": {
+    "ru": "reviewed"
+  },
+  "columns": [
+    {
+      "id": "symptoms",
+      "title": {
+        "en": "Symptoms",
+        "ru": "Симптомы"
+      }
+    },
+    {
+      "id": "signs",
+      "title": {
+        "en": "Signs",
+        "ru": "Признаки"
+      }
+    }
+  ],
+  "rows": [
+    {
+      "id": "sec-typical-specific",
+      "kind": "section",
+      "cells": [
+        {
+          "text": {
+            "en": "*Typical*",
+            "ru": "*Типичные*"
+          }
+        },
+        {
+          "text": {
+            "en": "*More specific*",
+            "ru": "*Более специфичные*"
+          }
+        }
+      ]
+    },
+    {
+      "id": "r01-dyspnoea-jvp",
+      "cells": [
+        {
+          "text": {
+            "en": "Dyspnoea",
+            "ru": "Одышка"
+          }
+        },
+        {
+          "text": {
+            "en": "Elevated jugular venous pressure",
+            "ru": "Повышение яремного венозного давления"
+          }
+        }
+      ]
+    },
+    {
+      "id": "r02-orthopnoea-hjr",
+      "cells": [
+        {
+          "text": {
+            "en": "Orthopnoea",
+            "ru": "Ортопноэ"
+          }
+        },
+        {
+          "text": {
+            "en": "Hepatojugular reflux",
+            "ru": "Гепатоюгулярный рефлюкс"
+          }
+        }
+      ]
+    },
+    {
+      "id": "r03-pnd-s3",
+      "cells": [
+        {
+          "text": {
+            "en": "Paroxysmal nocturnal dyspnoea",
+            "ru": "Пароксизмальная ночная одышка"
+          }
+        },
+        {
+          "text": {
+            "en": "Third heart sound (gallop rhythm)",
+            "ru": "Третий сердечный тон (ритм галопа)"
+          }
+        }
+      ]
+    },
+    {
+      "id": "r04-exercise-impulse",
+      "cells": [
+        {
+          "text": {
+            "en": "Reduced exercise tolerance",
+            "ru": "Снижение толерантности к физической нагрузке"
+          }
+        },
+        {
+          "text": {
+            "en": "Laterally displaced apical impulse",
+            "ru": "Смещение верхушечного толчка влево/латерально"
+          }
+        }
+      ]
+    },
+    {
+      "id": "r05-fatigue",
+      "cells": [
+        {
+          "text": {
+            "en": "Fatigue, tiredness, increased time to recover after exercise",
+            "ru": "Утомляемость, слабость, увеличение времени восстановления после нагрузки"
+          }
+        },
+        {
+          "text": {
+            "en": "—",
+            "ru": "—"
+          }
+        }
+      ]
+    },
+    {
+      "id": "r06-ankle-oedema",
+      "cells": [
+        {
+          "text": {
+            "en": "Ankle oedema",
+            "ru": "Отеки лодыжек"
+          }
+        },
+        {
+          "text": {
+            "en": "—",
+            "ru": "—"
+          }
+        }
+      ]
+    },
+    {
+      "id": "sec-less-typical-specific",
+      "kind": "section",
+      "cells": [
+        {
+          "text": {
+            "en": "*Less typical*",
+            "ru": "*Менее типичные*"
+          }
+        },
+        {
+          "text": {
+            "en": "*Less specific*",
+            "ru": "*Менее специфичные*"
+          }
+        }
+      ]
+    },
+    {
+      "id": "r07-cough-weight-gain",
+      "cells": [
+        {
+          "text": {
+            "en": "Nocturnal cough",
+            "ru": "Ночной кашель"
+          }
+        },
+        {
+          "text": {
+            "en": "Weight gain (>2 kg/week)",
+            "ru": "Прибавка массы тела (>2 кг/неделю)"
+          }
+        }
+      ]
+    },
+    {
+      "id": "r08-wheezing-weight-loss",
+      "cells": [
+        {
+          "text": {
+            "en": "Wheezing",
+            "ru": "Свистящее дыхание"
+          }
+        },
+        {
+          "text": {
+            "en": "Weight loss (in advanced HF)",
+            "ru": "Потеря массы тела (при терминальной СН)"
+          }
+        }
+      ]
+    },
+    {
+      "id": "r09-bloating-cachexia",
+      "cells": [
+        {
+          "text": {
+            "en": "Bloated feeling",
+            "ru": "Ощущение вздутия живота"
+          }
+        },
+        {
+          "text": {
+            "en": "Tissue wasting (cachexia)",
+            "ru": "Истощение тканей (кахексия)"
+          }
+        }
+      ]
+    },
+    {
+      "id": "r10-appetite-murmur",
+      "cells": [
+        {
+          "text": {
+            "en": "Loss of appetite",
+            "ru": "Снижение аппетита"
+          }
+        },
+        {
+          "text": {
+            "en": "Cardiac murmur",
+            "ru": "Сердечный шум"
+          }
+        }
+      ]
+    },
+    {
+      "id": "r11-confusion-oedema",
+      "cells": [
+        {
+          "text": {
+            "en": "Confusion (especially in the elderly^[a])",
+            "ru": "Спутанность сознания (особенно у пожилых^[a])"
+          }
+        },
+        {
+          "text": {
+            "en": "Peripheral oedema (ankle, sacral, scrotal)",
+            "ru": "Периферические отеки (лодыжки, крестец, мошонка)"
+          }
+        }
+      ]
+    },
+    {
+      "id": "r12-depression-crepitations",
+      "cells": [
+        {
+          "text": {
+            "en": "Depression",
+            "ru": "Депрессия"
+          }
+        },
+        {
+          "text": {
+            "en": "Pulmonary crepitations",
+            "ru": "Крепитация в легких"
+          }
+        }
+      ]
+    },
+    {
+      "id": "r13-palpitations-effusion",
+      "cells": [
+        {
+          "text": {
+            "en": "Palpitations",
+            "ru": "Сердцебиение"
+          }
+        },
+        {
+          "text": {
+            "en": "Pleural effusion",
+            "ru": "Плевральный выпот"
+          }
+        }
+      ]
+    },
+    {
+      "id": "r14-dizziness-tachycardia",
+      "cells": [
+        {
+          "text": {
+            "en": "Dizziness",
+            "ru": "Головокружение"
+          }
+        },
+        {
+          "text": {
+            "en": "Tachycardia",
+            "ru": "Тахикардия"
+          }
+        }
+      ]
+    },
+    {
+      "id": "r15-syncope-irregular",
+      "cells": [
+        {
+          "text": {
+            "en": "Syncope",
+            "ru": "Синкопе (обмороки)"
+          }
+        },
+        {
+          "text": {
+            "en": "Irregular pulse",
+            "ru": "Нерегулярный пульс"
+          }
+        }
+      ]
+    },
+    {
+      "id": "r16-bendopnoea-tachypnoea",
+      "cells": [
+        {
+          "text": {
+            "en": "Bendopnoea^[b]",
+            "ru": "Бендопноэ^[b]"
+          }
+        },
+        {
+          "text": {
+            "en": "Tachypnoea",
+            "ru": "Тахипноэ"
+          }
+        }
+      ]
+    },
+    {
+      "id": "r17-cheyne-stokes",
+      "cells": [
+        {
+          "text": {
+            "en": "—",
+            "ru": "—"
+          }
+        },
+        {
+          "text": {
+            "en": "Cheyne–Stokes respiration",
+            "ru": "Дыхание Чейна–Стокса"
+          }
+        }
+      ]
+    },
+    {
+      "id": "r18-hepatomegaly",
+      "cells": [
+        {
+          "text": {
+            "en": "—",
+            "ru": "—"
+          }
+        },
+        {
+          "text": {
+            "en": "Hepatomegaly",
+            "ru": "Гепатомегалия"
+          }
+        }
+      ]
+    },
+    {
+      "id": "r19-ascites",
+      "cells": [
+        {
+          "text": {
+            "en": "—",
+            "ru": "—"
+          }
+        },
+        {
+          "text": {
+            "en": "Ascites",
+            "ru": "Асцит"
+          }
+        }
+      ]
+    },
+    {
+      "id": "r20-cold-extremities",
+      "cells": [
+        {
+          "text": {
+            "en": "—",
+            "ru": "—"
+          }
+        },
+        {
+          "text": {
+            "en": "Cold extremities",
+            "ru": "Холодные конечности"
+          }
+        }
+      ]
+    },
+    {
+      "id": "r21-oliguria",
+      "cells": [
+        {
+          "text": {
+            "en": "—",
+            "ru": "—"
+          }
+        },
+        {
+          "text": {
+            "en": "Oliguria",
+            "ru": "Олигурия"
+          }
+        }
+      ]
+    },
+    {
+      "id": "r22-narrow-pulse-pressure",
+      "cells": [
+        {
+          "text": {
+            "en": "—",
+            "ru": "—"
+          }
+        },
+        {
+          "text": {
+            "en": "Narrow pulse pressure",
+            "ru": "Узкое пульсовое давление"
+          }
+        }
+      ]
+    }
+  ],
+  "footnotes": {
+    "a": {
+      "en": "Elderly patients may present with more atypical symptoms of HF.",
+      "ru": "У пожилых пациентов могут наблюдаться более атипичные симптомы СН."
+    },
+    "b": {
+      "en": "Breathlessness on bending forward/flexing the body.",
+      "ru": "Одышка при наклоне туловища вперед."
+    }
+  }
+}

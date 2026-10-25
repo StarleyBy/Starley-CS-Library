@@ -1,0 +1,135 @@
+
+==================== REC TABLE 1 ====================
+Recommendation Table 1 — Recommendations for the diagnosis of 
+AF (see also Evidence Table 1) ....................................................................... 3328
+
+==================== REC TABLE 2 ====================
+Recommendation Table 2 — Recommendations for symptom 
+evaluation in patients with AF (see also Evidence Table 2) ................ 3328
+
+==================== REC TABLE 3 ====================
+Recommendation Table 3 — Recommendations for diagnostic 
+evaluation in patients with new AF (see also Evidence Table 3) ..... 3328
+
+==================== REC TABLE 4 ====================
+Recommendation Table 4 — Recommendations for patient-centred 
+care and education (see also Evidence Table 4) ...................................... 3332
+
+==================== REC TABLE 5 ====================
+Recommendation Table 5 — Recommendations for comorbidity 
+and risk factor management in AF (see also Evidence Table 5) ....... 3339
+
+==================== REC TABLE 6 ====================
+Recommendation Table 6 — Recommendations to assess and 
+manage thromboembolic risk in AF (see also Evidence Table 6) .... 3342
+
+==================== REC TABLE 7 ====================
+Recommendation Table 7 — Recommendations for oral 
+anticoagulation in AF (see also Evidence Table 7) .................................. 3344
+
+==================== REC TABLE 8 ====================
+Recommendation Table 8 — Recommendations for combining 
+antiplatelet drugs with anticoagulants for stroke prevention (see also 
+Evidence Table 8) .................................................................................................. 3346
+
+==================== REC TABLE 9 ====================
+Recommendation Table 9 — Recommendations for 
+thromboembolism despite anticoagulation (see also Evidence
+
+==================== REC TABLE 10 ====================
+Recommendation Table 10 — Recommendations for percutaneous 
+left atrial appendage occlusion (see also Evidence Table 10) ............ 3347
+
+==================== REC TABLE 11 ====================
+Recommendation Table 11 — Recommendations for surgical left 
+atrial appendage occlusion (see also Evidence Table 11) .................... 3348
+
+==================== REC TABLE 12 ====================
+Recommendation Table 12 — Recommendations for assessment of 
+bleeding risk (see also Evidence Table 12) ................................................. 3348
+
+==================== REC TABLE 13 ====================
+Recommendation Table 13 — Recommendations for management 
+of bleeding in anticoagulated patients (see also Evidence Table 13)
+3351
+
+==================== REC TABLE 14 ====================
+Recommendation Table 14 — Recommendations for heart rate 
+control in patients with AF (see also Evidence Table 14) ................... 3351
+
+==================== REC TABLE 15 ====================
+Recommendation Table 15 — Recommendations for general 
+concepts in rhythm control (see also Evidence Table 15) .................. 3355
+
+==================== REC TABLE 16 ====================
+Recommendation Table 16 — Recommendations for electrical 
+cardioversion of AF (see also Evidence Table 16) .................................. 3356
+
+==================== REC TABLE 17 ====================
+Recommendation Table 17 — Recommendations for 
+pharmacological cardioversion of AF (see also Evidence Table 17)
+3356
+
+==================== REC TABLE 18 ====================
+Recommendation Table 18 — Recommendations for 
+antiarrhythmic drugs for long-term maintenance of sinus rhythm 
+(see also Evidence Table 18) ............................................................................ 3358
+
+==================== REC TABLE 19 ====================
+Recommendation Table 19 — Recommendations for catheter 
+ablation of AF (see also Evidence Table 19) ............................................. 3359
+
+==================== REC TABLE 20 ====================
+Recommendation Table 20 — Recommendations for 
+anticoagulation in patients undergoing catheter ablation (see also 
+Evidence Table 20) ............................................................................................... 3360
+
+==================== REC TABLE 21 ====================
+Recommendation Table 21 — Recommendations for endoscopic 
+and hybrid AF ablation (see also Evidence Table 21) ........................... 3360
+
+==================== REC TABLE 22 ====================
+Recommendation Table 22 — Recommendations for AF ablation 
+during cardiac surgery (see also Evidence Table 22) ............................. 3361
+
+==================== REC TABLE 23 ====================
+Recommendation Table 23 — Recommendations to improve 
+patient experience (see also Evidence Table 23) .................................... 3364
+
+==================== REC TABLE 24 ====================
+Recommendation Table 24 — Recommendations for patients with 
+acute coronary syndromes or undergoing percutaneous 
+intervention (see also Evidence Table 24) ................................................. 3366
+
+==================== REC TABLE 25 ====================
+Recommendation Table 25 — Recommendations for 
+trigger-induced AF (see also Evidence Table 25) .................................... 3368
+
+==================== REC TABLE 26 ====================
+Recommendation Table 26 — Recommendations for management 
+of post-operative AF (see also Evidence Table 26) ............................... 3368
+
+==================== REC TABLE 27 ====================
+Recommendation Table 27 — Recommendations for patients with 
+embolic stroke of unknown source (see also Evidence Table 27) .. 3369
+
+==================== REC TABLE 28 ====================
+Recommendation Table 28 — Recommendations for patients with 
+AF during pregnancy (see also Evidence Table 28) ................................ 3369
+
+==================== REC TABLE 29 ====================
+Recommendation Table 29 — Recommendations for patients with 
+AF and congenital heart disease (see also Evidence Table 29) ......... 3370
+
+==================== REC TABLE 30 ====================
+Recommendation Table 30 — Recommendations for prevention of 
+thromboembolism in atrial flutter (see also Evidence Table 30) ..... 3371
+
+==================== REC TABLE 31 ====================
+Recommendation Table 31 — Recommendations for screening for 
+AF (see also Evidence Table 31) .................................................................... 3374
+
+==================== REC TABLE 32 ====================
+Recommendation Table 32 — Recommendations for primary 
+prevention of AF (see also Evidence Table 32) ....................................... 3376
+List of tables

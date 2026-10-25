@@ -1,0 +1,1418 @@
+[
+  {
+    "idx": 1,
+    "fig_id": "fig-07-01",
+    "fnum": "7.1.1",
+    "caption": "Aortic stenosis aetiology (top: 2D imaging; bottom: 3D imaging) \u0003A: Degenerative tricuspid valve, B: Bicuspid valve, C: Rheumatic AS Imaging AV: PTLAX and PTSAX views Features to report: number of cusps, raphe, mobility, calcifications, commissural fusion",
+    "page": 224,
+    "size": "831x514"
+  },
+  {
+    "idx": 2,
+    "fig_id": "fig-07-02",
+    "fnum": "7.1.2",
+    "caption": "The continuity equation",
+    "page": 225,
+    "size": "632x590"
+  },
+  {
+    "idx": 3,
+    "fig_id": "fig-07-03",
+    "fnum": "7.1.3",
+    "caption": "LVOT diameter measurement. Blue arrow: 0.5–1.0 cm of the AV orifice. Red arrow: insertion of aortic cusps",
+    "page": 226,
+    "size": "836x1281"
+  },
+  {
+    "idx": 4,
+    "fig_id": "fig-07-04",
+    "fnum": "7.1.4",
+    "caption": "LVOT diameter. Green arrow: off-axis measurement",
+    "page": 226,
+    "size": "836x1281"
+  },
+  {
+    "idx": 5,
+    "fig_id": "fig-07-05",
+    "fnum": "7.1.5",
+    "caption": "Non-circular LVOT",
+    "page": 226,
+    "size": "836x1281"
+  },
+  {
+    "idx": 6,
+    "fig_id": "fig-07-06",
+    "fnum": "7.1.6",
+    "caption": "Elliptical LVOT due to upper septal hypertrophy",
+    "page": 226,
+    "size": "836x1281"
+  },
+  {
+    "idx": 7,
+    "fig_id": "fig-07-07",
+    "fnum": "7.1.7A",
+    "caption": "AP 5CV. LVOT velocity recording",
+    "page": 227,
+    "size": "834x1061"
+  },
+  {
+    "idx": 8,
+    "fig_id": "fig-07-08",
+    "fnum": "7.1.7B",
+    "caption": "LVOT velocity recording",
+    "page": 227,
+    "size": "834x1061"
+  },
+  {
+    "idx": 9,
+    "fig_id": "fig-07-09",
+    "fnum": "7.1.10",
+    "caption": "Dynamic subaortic obstruction",
+    "page": 228,
+    "size": "778x1244"
+  },
+  {
+    "idx": 10,
+    "fig_id": "fig-07-10",
+    "fnum": "7.1.11",
+    "caption": "High LVOT velocity",
+    "page": 228,
+    "size": "778x1244"
+  },
+  {
+    "idx": 11,
+    "fig_id": "fig-07-11",
+    "fnum": "7.1.8",
+    "caption": "Underestimation of LVOT velocity",
+    "page": 228,
+    "size": "778x1244"
+  },
+  {
+    "idx": 12,
+    "fig_id": "fig-07-12",
+    "fnum": "7.1.9",
+    "caption": "Overestimation of LVOT velocity",
+    "page": 228,
+    "size": "778x1244"
+  },
+  {
+    "idx": 13,
+    "fig_id": "fig-07-13",
+    "fnum": "7.1.12A",
+    "caption": "AP 5CV. AS jet velocity tracing (the outer edge of the dark 'envelope' of the velocity curve is traced)",
+    "page": 229,
+    "size": "527x1306"
+  },
+  {
+    "idx": 14,
+    "fig_id": "fig-07-14",
+    "fnum": "7.1.12B",
+    "caption": "Right parasternal view with Pedof probe (feasibility: 85%)",
+    "page": 229,
+    "size": "527x1306"
+  },
+  {
+    "idx": 15,
+    "fig_id": "fig-07-15",
+    "fnum": "7.1.13",
+    "caption": "CW Doppler MR jet signal",
+    "page": 230,
+    "size": "834x720"
+  },
+  {
+    "idx": 16,
+    "fig_id": "fig-07-16",
+    "fnum": "7.1.14",
+    "caption": "CW Doppler AS jet. Fine linear signals (arrow)",
+    "page": 231,
+    "size": "834x1309"
+  },
+  {
+    "idx": 17,
+    "fig_id": "fig-07-17",
+    "fnum": "7.1.15",
+    "caption": "CW Doppler AS jet in a patient with atrial fibrillation",
+    "page": 231,
+    "size": "834x1309"
+  },
+  {
+    "idx": 18,
+    "fig_id": "fig-07-18",
+    "fnum": "7.1.16",
+    "caption": "Top: AS CW Doppler signal vs catheterization data. Bottom: evaluation of global LV load MPG = mean aortic pressure gradient using CW Doppler; PR = pressure recovery; SAP = systolic arterial pressure; SBP = systolic blood pressure; Zva = valvulo-arterial impedance",
+    "page": 232,
+    "size": "798x617"
+  },
+  {
+    "idx": 19,
+    "fig_id": "fig-07-19",
+    "fnum": "7.1.17",
+    "caption": "AS AVA planimetry (TTE)",
+    "page": 233,
+    "size": "310x549"
+  },
+  {
+    "idx": 20,
+    "fig_id": "fig-07-20",
+    "fnum": "7.1.18",
+    "caption": "AS AVA planimetry (TOE)",
+    "page": 233,
+    "size": "882x785"
+  },
+  {
+    "idx": 21,
+    "fig_id": "fig-07-21",
+    "fnum": "7.1.19",
+    "caption": "Calculation of DI",
+    "page": 234,
+    "size": "1301x1028"
+  },
+  {
+    "idx": 22,
+    "fig_id": "fig-07-22",
+    "fnum": "7.1.20",
+    "caption": "3D volume assessment",
+    "page": 234,
+    "size": "1365x465"
+  },
+  {
+    "idx": 23,
+    "fig_id": "fig-07-23",
+    "fnum": "7.1.21",
+    "caption": "CW AS jet velocity",
+    "page": 234,
+    "size": "1959x1029"
+  },
+  {
+    "idx": 24,
+    "fig_id": "fig-07-24",
+    "fnum": "7.1.22",
+    "caption": "Decrease in GLS in a patient with severe AS",
+    "page": 236,
+    "size": "694x624"
+  },
+  {
+    "idx": 25,
+    "fig_id": "fig-07-25",
+    "fnum": "7.1.23",
+    "caption": "LV remodelling/mass evaluation",
+    "page": 236,
+    "size": "694x624"
+  },
+  {
+    "idx": 26,
+    "fig_id": "fig-07-26",
+    "fnum": "7.1.24",
+    "caption": "Changes in LVOT TVI and AV TVI under dobutamine infusion in a patient with flow reserve and fixed severe AS. Note the increase in SV and MPG",
+    "page": 240,
+    "size": "714x1182"
+  },
+  {
+    "idx": 27,
+    "fig_id": "fig-07-27",
+    "fnum": "7.1.25",
+    "caption": "Types of dobutamine responses in low-flow, low-gradient AS and LV dysfunction",
+    "page": 241,
+    "size": "1076x618"
+  },
+  {
+    "idx": 28,
+    "fig_id": "fig-07-28",
+    "fnum": "7.1.26",
+    "caption": "Stepwise approach to the differential diagnosis of paradoxical low-flow, low-gradient severe AS and LVEF > 50%. CMR: cardiac magnetic resonance; CT: computed tomography; BNP: brain natriuretic peptide",
+    "page": 241,
+    "size": "861x617"
+  },
+  {
+    "idx": 29,
+    "fig_id": "fig-07-29",
+    "fnum": "7.2.1",
+    "caption": "TTE evaluation of PS (arrow)",
+    "page": 243,
+    "size": "484x632"
+  },
+  {
+    "idx": 30,
+    "fig_id": "fig-07-30",
+    "fnum": "7.2.2",
+    "caption": "CW Doppler of PV flow",
+    "page": 244,
+    "size": "834x704"
+  },
+  {
+    "idx": 31,
+    "fig_id": "fig-07-31",
+    "fnum": "7.2.3",
+    "caption": "Subvalvular stenosis",
+    "page": 245,
+    "size": "754x1257"
+  },
+  {
+    "idx": 32,
+    "fig_id": "fig-07-32",
+    "fnum": "7.2.4",
+    "caption": "Supravalvular stenosis",
+    "page": 245,
+    "size": "754x1257"
+  },
+  {
+    "idx": 33,
+    "fig_id": "fig-07-33",
+    "fnum": "7.2.5A",
+    "caption": "RV hypertrophy (SAX) Fig. 7.2.5B RV hypertrophy (AP 4CV) Fig. 7.2.6 Dilated pulmonary artery (arrow)",
+    "page": 246,
+    "size": "1959x512"
+  },
+  {
+    "idx": 34,
+    "fig_id": "fig-07-34",
+    "fnum": "7.3.1",
+    "caption": "TTE PTLAX: Free edge thickening of AML (arrow) transthoracic",
+    "page": 248,
+    "size": "834x786"
+  },
+  {
+    "idx": 35,
+    "fig_id": "fig-07-35",
+    "fnum": "7.3.2",
+    "caption": "TTE PTSAX zoom mode at the MV opening: Commissural fusion (arrows)",
+    "page": 248,
+    "size": "834x786"
+  },
+  {
+    "idx": 36,
+    "fig_id": "fig-07-36",
+    "fnum": "7.3.3",
+    "caption": "TTE modified PTLAX showing the subvalvular apparatus with chordae thickening",
+    "page": 248,
+    "size": "834x786"
+  },
+  {
+    "idx": 37,
+    "fig_id": "fig-07-37",
+    "fnum": "7.3.4",
+    "caption": "TTE PTLAX: Diastolic doming of the AML (dotted line)",
+    "page": 249,
+    "size": "542x1308"
+  },
+  {
+    "idx": 38,
+    "fig_id": "fig-07-38",
+    "fnum": "7.3.5",
+    "caption": "TTE PTSAX: ‘Fish-mouth'- like opening of the mitral valve in a patient with RMS",
+    "page": 249,
+    "size": "542x1308"
+  },
+  {
+    "idx": 39,
+    "fig_id": "fig-07-39",
+    "fnum": "7.3.6",
+    "caption": "TTE PTLAX: ‘Hockey stick' appearance of the AML in diastole",
+    "page": 249,
+    "size": "542x1308"
+  },
+  {
+    "idx": 40,
+    "fig_id": "fig-07-40",
+    "fnum": "7.3.8",
+    "caption": "Image acquisition and measurement of the MVA by planimetry with 2D TTE",
+    "page": 251,
+    "size": "634x1145"
+  },
+  {
+    "idx": 41,
+    "fig_id": "fig-07-41",
+    "fnum": "7.3.9",
+    "caption": "3D TTE—biplane modality",
+    "page": 252,
+    "size": "834x1218"
+  },
+  {
+    "idx": 42,
+    "fig_id": "fig-07-42",
+    "fnum": "7.3.10",
+    "caption": "3D TTE MVA planimetry",
+    "page": 252,
+    "size": "834x1218"
+  },
+  {
+    "idx": 43,
+    "fig_id": "fig-07-43",
+    "fnum": "7.3.11",
+    "caption": "Trans-mitral diastolic pressure gradient",
+    "page": 253,
+    "size": "709x580"
+  },
+  {
+    "idx": 44,
+    "fig_id": "fig-07-44",
+    "fnum": "7.3.12",
+    "caption": "Colour Doppler-guided detection. To avoid underestimation of PG (A) and measurement (B)",
+    "page": 254,
+    "size": "534x673"
+  },
+  {
+    "idx": 45,
+    "fig_id": "fig-07-45",
+    "fnum": "7.3.13",
+    "caption": "MVA assessment by PHT Notice that sample volume is position at the level of the minimal valve opening",
+    "page": 255,
+    "size": "834x653"
+  },
+  {
+    "idx": 46,
+    "fig_id": "fig-07-46",
+    "fnum": "7.3.14",
+    "caption": "MVA assessment by PHT. Use the slowest slope to evaluate the PHT",
+    "page": 256,
+    "size": "834x1261"
+  },
+  {
+    "idx": 47,
+    "fig_id": "fig-07-47",
+    "fnum": "7.3.15",
+    "caption": "MVA by the continuity equation",
+    "page": 256,
+    "size": "834x1261"
+  },
+  {
+    "idx": 48,
+    "fig_id": "fig-07-48",
+    "fnum": "7.3.16",
+    "caption": "MVA estimation using the PISA method",
+    "page": 257,
+    "size": "834x434"
+  },
+  {
+    "idx": 49,
+    "fig_id": "fig-07-49",
+    "fnum": "7.3.17",
+    "caption": "2D TTE evaluation before and after PMC",
+    "page": 261,
+    "size": "556x618"
+  },
+  {
+    "idx": 50,
+    "fig_id": "fig-07-50",
+    "fnum": "7.4.1",
+    "caption": "TTE evaluation of TS (arrow)",
+    "page": 264,
+    "size": "718x1309"
+  },
+  {
+    "idx": 51,
+    "fig_id": "fig-07-51",
+    "fnum": "7.4.2",
+    "caption": "CW Doppler of TV inflow",
+    "page": 264,
+    "size": "718x1309"
+  },
+  {
+    "idx": 52,
+    "fig_id": "fig-07-52",
+    "fnum": "7.4.4",
+    "caption": "Assessment of TS severity by continuity equation",
+    "page": 265,
+    "size": "484x520"
+  },
+  {
+    "idx": 53,
+    "fig_id": "fig-07-53",
+    "fnum": "7.4.3",
+    "caption": "Measure of PHT",
+    "page": 265,
+    "size": "484x520"
+  },
+  {
+    "idx": 54,
+    "fig_id": "fig-07-54",
+    "fnum": "7.4.5",
+    "caption": "3D visualization of TV with significant stenosis Fig. 7.4.6 Consequences of TS",
+    "page": 266,
+    "size": "1959x427"
+  },
+  {
+    "idx": 55,
+    "fig_id": "fig-07-55",
+    "fnum": "7.5.1",
+    "caption": "Pathology of the valve. Congenital (A), rheumatic (B), degenerative (C) Raphe Calcification nodules",
+    "page": 267,
+    "size": "1434x416"
+  },
+  {
+    "idx": 56,
+    "fig_id": "fig-07-56",
+    "fnum": "7.5.2",
+    "caption": "Examples of secondary AR",
+    "page": 268,
+    "size": "633x834"
+  },
+  {
+    "idx": 57,
+    "fig_id": "fig-07-57",
+    "fnum": "7.5.3C",
+    "caption": "Normal morphology of the aorta (PTLAX)",
+    "page": 269,
+    "size": "484x1180"
+  },
+  {
+    "idx": 58,
+    "fig_id": "fig-07-58",
+    "fnum": "7.5.3A",
+    "caption": "Aortic cusps (PTSAX)",
+    "page": 269,
+    "size": "470x425"
+  },
+  {
+    "idx": 59,
+    "fig_id": "fig-07-59",
+    "fnum": "7.5.3B",
+    "caption": "Aortic cusps (M-mode PTLAX)",
+    "page": 269,
+    "size": "484x1180"
+  },
+  {
+    "idx": 60,
+    "fig_id": "fig-07-60",
+    "fnum": "7.5.4",
+    "caption": "Type I: Enlargement of the aortic root (Ao) with normal cusps (AV) (dilatation of the aortic root (aortic annulus))",
+    "page": 271,
+    "size": "821x618"
+  },
+  {
+    "idx": 61,
+    "fig_id": "fig-07-61",
+    "fnum": "7.5.5",
+    "caption": "Type IIa: Cusp prolapse with eccentric AR jet due to enormous vegetation (complete eversion of a cusp into the LVOT in long-axis views)",
+    "page": 271,
+    "size": "1248x406"
+  },
+  {
+    "idx": 62,
+    "fig_id": "fig-07-62",
+    "fnum": "7.5.6",
+    "caption": "Type III: Poor cusps quality or quantity (thickened and rigid valves with reduced motion)",
+    "page": 271,
+    "size": "317x764"
+  },
+  {
+    "idx": 63,
+    "fig_id": "fig-07-63",
+    "fnum": "7.5.7",
+    "caption": "AV morphology PTLAX view of an AV prolapse on endocarditis",
+    "page": 272,
+    "size": "613x1298"
+  },
+  {
+    "idx": 64,
+    "fig_id": "fig-07-64",
+    "fnum": "7.5.8",
+    "caption": "Example of colour-flow image in AR",
+    "page": 272,
+    "size": "613x1298"
+  },
+  {
+    "idx": 65,
+    "fig_id": "fig-07-65",
+    "fnum": "7.5.9",
+    "caption": "Evaluation of the AR severity using proximal jet width to LVOT ratio. The maximum colour jet diameter (width) is measured in diastole immediately below the aortic valve (at the junction of the LVOT and aortic annulus) in the PTLAX view",
+    "page": 273,
+    "size": "1085x745"
+  },
+  {
+    "idx": 66,
+    "fig_id": "fig-07-66",
+    "fnum": "7.5.11",
+    "caption": "PISA method in AR",
+    "page": 275,
+    "size": "742x1264"
+  },
+  {
+    "idx": 67,
+    "fig_id": "fig-07-67",
+    "fnum": "7.5.12",
+    "caption": "Distortion of the PISA in AR",
+    "page": 276,
+    "size": "832x518"
+  },
+  {
+    "idx": 68,
+    "fig_id": "fig-07-68",
+    "fnum": "7.5.13",
+    "caption": "Presence of two AR jets (arrows)",
+    "page": 276,
+    "size": "1956x838"
+  },
+  {
+    "idx": 69,
+    "fig_id": "fig-07-69",
+    "fnum": "7.5.14A",
+    "caption": "3D evaluation of AR Fig. 7.5.14B 3D evaluation of AR",
+    "page": 277,
+    "size": "1959x613"
+  },
+  {
+    "idx": 70,
+    "fig_id": "fig-07-70",
+    "fnum": "7.5.15",
+    "caption": "PW Doppler sample positioning",
+    "page": 278,
+    "size": "834x681"
+  },
+  {
+    "idx": 71,
+    "fig_id": "fig-07-71",
+    "fnum": "7.5.16",
+    "caption": "Mild AR (early diastolic flow reversal) (A: PW Doppler, B: Colour M-mode)",
+    "page": 279,
+    "size": "1459x1049"
+  },
+  {
+    "idx": 72,
+    "fig_id": "fig-07-72",
+    "fnum": "7.5.17",
+    "caption": "Severe AR (holodiastolic flow reversal) (A: PW Doppler, B: Colour M-mode)",
+    "page": 279,
+    "size": "1459x1049"
+  },
+  {
+    "idx": 73,
+    "fig_id": "fig-07-73",
+    "fnum": "7.5.18",
+    "caption": "Mild AR",
+    "page": 280,
+    "size": "665x1146"
+  },
+  {
+    "idx": 74,
+    "fig_id": "fig-07-74",
+    "fnum": "7.5.19",
+    "caption": "Severe AR. While faint spectral display is compatible with trace or mild AR, significant overlap between moderate and severe AR exists in more dense jet tracings",
+    "page": 280,
+    "size": "665x1146"
+  },
+  {
+    "idx": 75,
+    "fig_id": "fig-07-75",
+    "fnum": "7.5.20",
+    "caption": "Examples of various degrees of AR (A: mild; B: moderate; C: severe). The LVOT flow (CO > 8 L/min in favour of severe AR) and VC increase with the AR severity while the PHT shortens",
+    "page": 281,
+    "size": "1725x1221"
+  },
+  {
+    "idx": 76,
+    "fig_id": "fig-07-76",
+    "fnum": "7.5.21",
+    "caption": "Doppler quantitation from two valves flow",
+    "page": 282,
+    "size": "834x811"
+  },
+  {
+    "idx": 77,
+    "fig_id": "fig-07-77",
+    "fnum": "7.5.22",
+    "caption": "LV adaptation to AR",
+    "page": 283,
+    "size": "486x618"
+  },
+  {
+    "idx": 78,
+    "fig_id": "fig-07-78",
+    "fnum": "7.6.1",
+    "caption": "Morphotypes, different stages: (A) normal; (B) billowing; (C) posterior MV prolapse; (D) flail MV",
+    "page": 288,
+    "size": "836x796"
+  },
+  {
+    "idx": 79,
+    "fig_id": "fig-07-79",
+    "fnum": "7.6.2A",
+    "caption": "Echo-morphological parameters: global LV remodelling",
+    "page": 289,
+    "size": "419x438"
+  },
+  {
+    "idx": 80,
+    "fig_id": "fig-07-80",
+    "fnum": "7.6.2B",
+    "caption": "Mitral deformation",
+    "page": 290,
+    "size": "498x502"
+  },
+  {
+    "idx": 81,
+    "fig_id": "fig-07-81",
+    "fnum": "7.6.3",
+    "caption": "Carpentier's classification",
+    "page": 291,
+    "size": "528x617"
+  },
+  {
+    "idx": 82,
+    "fig_id": "fig-07-82",
+    "fnum": "7.6.4",
+    "caption": "(A) Diagram of the mitral valve. (B) 3D TOE volume rendering of the mitral valve. ANT COM: anterior commissure POST COM: posterior commissure",
+    "page": 292,
+    "size": "638x587"
+  },
+  {
+    "idx": 83,
+    "fig_id": "fig-07-83",
+    "fnum": "7.6.5",
+    "caption": "Transthoracic diagram of the mitral valve (Box 7.6.2)",
+    "page": 293,
+    "size": "858x618"
+  },
+  {
+    "idx": 84,
+    "fig_id": "fig-07-84",
+    "fnum": "7.6.6",
+    "caption": "MVI: TTE Diagrams of each section of the mitral valve: (A) PTLAX; (B) PTSAX; (C) AP 4CV; (D) AP 2CV",
+    "page": 293,
+    "size": "1037x618"
+  },
+  {
+    "idx": 85,
+    "fig_id": "fig-07-85",
+    "fnum": "7.6.7",
+    "caption": "MVI: TTE echograms of each section of the mitral valve: (A) PTLAX; (B) PTSAX; (C) AP 4CV; (D) AP 2CV",
+    "page": 294,
+    "size": "1460x898"
+  },
+  {
+    "idx": 86,
+    "fig_id": "fig-07-86",
+    "fnum": "7.6.8",
+    "caption": "TOE diagram of the mitral valve",
+    "page": 295,
+    "size": "607x618"
+  },
+  {
+    "idx": 87,
+    "fig_id": "fig-07-87",
+    "fnum": "7.6.9",
+    "caption": "TOE diagrams of each section of the mitral valve: (A) 4-chamber-view at 0°; (B) bicommissural view at 45°; (C) long-axis view at 135°; (D) transgastric view",
+    "page": 295,
+    "size": "1183x618"
+  },
+  {
+    "idx": 88,
+    "fig_id": "fig-07-88",
+    "fnum": "7.6.10",
+    "caption": "TOE echocardiograms of each section of the mitral valve: (A) 4-chamber view at 0°; (B) bicommissural view at 30–70°; (C) long-axis view at 120–135°; (D) transgastric view",
+    "page": 296,
+    "size": "1959x1270"
+  },
+  {
+    "idx": 89,
+    "fig_id": "fig-07-89",
+    "fnum": "7.6.11",
+    "caption": "3D TOE volume rendering of the mitral valve: LA perspective. (A) normal; (B) degenerative",
+    "page": 296,
+    "size": "1959x1271"
+  },
+  {
+    "idx": 90,
+    "fig_id": "fig-07-90",
+    "fnum": "7.6.12",
+    "caption": "MV morphology (flail)",
+    "page": 298,
+    "size": "835x543"
+  },
+  {
+    "idx": 91,
+    "fig_id": "fig-07-91",
+    "fnum": "7.6.14",
+    "caption": "PTLAX vena contracta",
+    "page": 299,
+    "size": "1959x1283"
+  },
+  {
+    "idx": 92,
+    "fig_id": "fig-07-92",
+    "fnum": "7.6.13",
+    "caption": "Example of colour-flow image in MR",
+    "page": 299,
+    "size": "834x1283"
+  },
+  {
+    "idx": 93,
+    "fig_id": "fig-07-93",
+    "fnum": "7.6.16",
+    "caption": "PISA. Va = flow velocity at radius r (cm/s). r = radius of the isovelocity shell (cm)",
+    "page": 301,
+    "size": "711x1253"
+  },
+  {
+    "idx": 94,
+    "fig_id": "fig-07-94",
+    "fnum": "7.6.17",
+    "caption": "PISA method in MR",
+    "page": 301,
+    "size": "711x1253"
+  },
+  {
+    "idx": 95,
+    "fig_id": "fig-07-95",
+    "fnum": "7.6.18",
+    "caption": "PISA method limitation and M-mode changes in regurgitant flow during systole",
+    "page": 303,
+    "size": "837x1143"
+  },
+  {
+    "idx": 96,
+    "fig_id": "fig-07-96",
+    "fnum": "7.6.19",
+    "caption": "Haemodynamics of MR. SPG: systolic pressure gradient; RT: regurgitant time.",
+    "page": 303,
+    "size": "837x853"
+  },
+  {
+    "idx": 97,
+    "fig_id": "fig-07-97",
+    "fnum": "7.6.20",
+    "caption": "Secondary MR",
+    "page": 304,
+    "size": "626x1256"
+  },
+  {
+    "idx": 98,
+    "fig_id": "fig-07-98",
+    "fnum": "7.6.21",
+    "caption": "Primary MR",
+    "page": 304,
+    "size": "626x1256"
+  },
+  {
+    "idx": 99,
+    "fig_id": "fig-07-99",
+    "fnum": "7.6.22",
+    "caption": "Doppler quantitation from two valves flow",
+    "page": 305,
+    "size": "834x811"
+  },
+  {
+    "idx": 100,
+    "fig_id": "fig-07-100",
+    "fnum": "7.6.23",
+    "caption": "Examples of various degrees of MR (A: mild; B: moderate; C: severe; (a) PW mitral inflow (b) CW MR RJ (c) PW LVOT (d) PV flow (CW: continuous wave; PW: pulse wave, PV: pulmonary vein)",
+    "page": 307,
+    "size": "1935x1203"
+  },
+  {
+    "idx": 101,
+    "fig_id": "fig-07-101",
+    "fnum": "7.6.24",
+    "caption": "Consequence of MR: ABC LV size and function; D LA size",
+    "page": 308,
+    "size": "833x655"
+  },
+  {
+    "idx": 102,
+    "fig_id": "fig-07-102",
+    "fnum": "7.7.1",
+    "caption": "Normal tricuspid valve morphology (3D imaging)",
+    "page": 314,
+    "size": "504x618"
+  },
+  {
+    "idx": 103,
+    "fig_id": "fig-07-103",
+    "fnum": "7.7.2",
+    "caption": "2D imaging; EF 3D imaging AV, aortic valve; RAA, right atrial appendage; RVOT, RV outflow tract",
+    "page": 315,
+    "size": "1535x1053"
+  },
+  {
+    "idx": 104,
+    "fig_id": "fig-07-104",
+    "fnum": "7.7.3",
+    "caption": "Primary TR aetiologies (top: 2D imaging; bottom: 3D imaging)",
+    "page": 316,
+    "size": "1270x846"
+  },
+  {
+    "idx": 105,
+    "fig_id": "fig-07-105",
+    "fnum": "7.7.4",
+    "caption": "Tricuspid valve deformation (AB: 2D imaging; C: 3D imaging)",
+    "page": 317,
+    "size": "834x1270"
+  },
+  {
+    "idx": 106,
+    "fig_id": "fig-07-106",
+    "fnum": "7.7.5",
+    "caption": "Carpentier type I",
+    "page": 317,
+    "size": "834x1270"
+  },
+  {
+    "idx": 107,
+    "fig_id": "fig-07-107",
+    "fnum": "7.7.6",
+    "caption": "Carpentier type IIIa",
+    "page": 318,
+    "size": "484x841"
+  },
+  {
+    "idx": 108,
+    "fig_id": "fig-07-108",
+    "fnum": "7.7.7",
+    "caption": "TV morphology (flail)",
+    "page": 318,
+    "size": "484x841"
+  },
+  {
+    "idx": 109,
+    "fig_id": "fig-07-109",
+    "fnum": "7.7.8",
+    "caption": "Impact of gain setting",
+    "page": 319,
+    "size": "1065x548"
+  },
+  {
+    "idx": 110,
+    "fig_id": "fig-07-110",
+    "fnum": "7.7.9",
+    "caption": "Example of colour flow in TR",
+    "page": 319,
+    "size": "1919x585"
+  },
+  {
+    "idx": 111,
+    "fig_id": "fig-07-111",
+    "fnum": "7.7.10",
+    "caption": "AP-4CV vena contracta imaging",
+    "page": 320,
+    "size": "834x675"
+  },
+  {
+    "idx": 112,
+    "fig_id": "fig-07-112",
+    "fnum": "7.7.11",
+    "caption": "PISA illustration showing the convergent hemispheres",
+    "page": 321,
+    "size": "662x545"
+  },
+  {
+    "idx": 113,
+    "fig_id": "fig-07-113",
+    "fnum": "7.7.12",
+    "caption": "PISA method in TR",
+    "page": 321,
+    "size": "662x545"
+  },
+  {
+    "idx": 114,
+    "fig_id": "fig-07-114",
+    "fnum": "7.7.13",
+    "caption": "PISA measurement in an eccentric jet",
+    "page": 322,
+    "size": "665x1197"
+  },
+  {
+    "idx": 115,
+    "fig_id": "fig-07-115",
+    "fnum": "7.7.14",
+    "caption": "Massive TR with no real PISA",
+    "page": 322,
+    "size": "665x1197"
+  },
+  {
+    "idx": 116,
+    "fig_id": "fig-07-116",
+    "fnum": "7.7.15",
+    "caption": "3D imaging of the VC",
+    "page": 323,
+    "size": "832x1257"
+  },
+  {
+    "idx": 117,
+    "fig_id": "fig-07-117",
+    "fnum": "7.7.16",
+    "caption": "Colour Doppler showing systolic hepatic flow reversal",
+    "page": 323,
+    "size": "832x1257"
+  },
+  {
+    "idx": 118,
+    "fig_id": "fig-07-118",
+    "fnum": "7.7.17",
+    "caption": "PW Doppler showing systolic hepatic flow reversal",
+    "page": 323,
+    "size": "832x1257"
+  },
+  {
+    "idx": 119,
+    "fig_id": "fig-07-119",
+    "fnum": "7.7.18",
+    "caption": "Tricuspid inflow",
+    "page": 324,
+    "size": "832x1280"
+  },
+  {
+    "idx": 120,
+    "fig_id": "fig-07-120",
+    "fnum": "7.7.19",
+    "caption": "CW Doppler signal in mild TR",
+    "page": 324,
+    "size": "832x1280"
+  },
+  {
+    "idx": 121,
+    "fig_id": "fig-07-121",
+    "fnum": "7.7.20",
+    "caption": "CW Doppler signal in massive TR",
+    "page": 325,
+    "size": "835x519"
+  },
+  {
+    "idx": 122,
+    "fig_id": "fig-07-122",
+    "fnum": "7.7.21",
+    "caption": "Examples of various degrees of TR (A: mild; B: moderate; C: severe; D: massive or free flow)",
+    "page": 325,
+    "size": "835x519"
+  },
+  {
+    "idx": 123,
+    "fig_id": "fig-07-123",
+    "fnum": "7.7.22",
+    "caption": "Measurement of TA diameter",
+    "page": 326,
+    "size": "808x1307"
+  },
+  {
+    "idx": 124,
+    "fig_id": "fig-07-124",
+    "fnum": "7.7.23",
+    "caption": "Estimation of RVSP (A: CW TR jet; B: measure of IVC diameter)",
+    "page": 326,
+    "size": "808x1307"
+  },
+  {
+    "idx": 125,
+    "fig_id": "fig-07-125",
+    "fnum": "7.7.24",
+    "caption": "Measure of TAPSE",
+    "page": 327,
+    "size": "834x1263"
+  },
+  {
+    "idx": 126,
+    "fig_id": "fig-07-126",
+    "fnum": "7.7.25",
+    "caption": "Measure of Tr s'",
+    "page": 327,
+    "size": "834x1263"
+  },
+  {
+    "idx": 127,
+    "fig_id": "fig-07-127",
+    "fnum": "7.7.26B",
+    "caption": "Severe RV dilatation in a patient with severe MR",
+    "page": 329,
+    "size": "884x1308"
+  },
+  {
+    "idx": 128,
+    "fig_id": "fig-07-128",
+    "fnum": "7.7.26A",
+    "caption": "Recurrent TR after MV repair",
+    "page": 329,
+    "size": "884x1308"
+  },
+  {
+    "idx": 129,
+    "fig_id": "fig-07-129",
+    "fnum": "7.8.1",
+    "caption": "PTSAX view",
+    "page": 331,
+    "size": "834x953"
+  },
+  {
+    "idx": 130,
+    "fig_id": "fig-07-130",
+    "fnum": "7.8.2",
+    "caption": "Subcostal view",
+    "page": 331,
+    "size": "834x953"
+  },
+  {
+    "idx": 131,
+    "fig_id": "fig-07-131",
+    "fnum": "7.8.3",
+    "caption": "3D view of the PV",
+    "page": 331,
+    "size": "834x953"
+  },
+  {
+    "idx": 132,
+    "fig_id": "fig-07-132",
+    "fnum": "7.8.4",
+    "caption": "Evaluation of the PR severity using proximal jet width to RVOT ratio",
+    "page": 332,
+    "size": "835x1071"
+  },
+  {
+    "idx": 133,
+    "fig_id": "fig-07-133",
+    "fnum": "7.8.5",
+    "caption": "Flow reversal originating in the right branch of PA",
+    "page": 332,
+    "size": "835x1071"
+  },
+  {
+    "idx": 134,
+    "fig_id": "fig-07-134",
+    "fnum": "7.8.6",
+    "caption": "Holodiastolic flow reversal in the right branch of PA (PW Doppler)",
+    "page": 333,
+    "size": "718x1256"
+  },
+  {
+    "idx": 135,
+    "fig_id": "fig-07-135",
+    "fnum": "7.8.7",
+    "caption": "PR VC width assessment",
+    "page": 333,
+    "size": "718x1256"
+  },
+  {
+    "idx": 136,
+    "fig_id": "fig-07-136",
+    "fnum": "7.8.8",
+    "caption": "PISA method in PR",
+    "page": 333,
+    "size": "718x1256"
+  },
+  {
+    "idx": 137,
+    "fig_id": "fig-07-137",
+    "fnum": "7.8.9",
+    "caption": "Measurement of the PHT (top) and colour M-mode evaluation of the PR jet (bottom)",
+    "page": 334,
+    "size": "749x618"
+  },
+  {
+    "idx": 138,
+    "fig_id": "fig-07-138",
+    "fnum": "7.9.1",
+    "caption": "AS and MR CW Doppler",
+    "page": 338,
+    "size": "485x692"
+  },
+  {
+    "idx": 139,
+    "fig_id": "fig-07-139",
+    "fnum": "7.9.2",
+    "caption": "Premature mitral valve closure and diastolic MR in severe acute AR, assessed by colour M-mode (left panel), continuous-wave Doppler (CW, middle panel), and pulsed-wave Doppler (PW, right panel) modalities",
+    "page": 339,
+    "size": "1959x494"
+  },
+  {
+    "idx": 140,
+    "fig_id": "fig-07-140",
+    "fnum": "7.9.3",
+    "caption": "CW Doppler showing the lower velocity and later onset of MS as compared to AR jet",
+    "page": 340,
+    "size": "770x616"
+  },
+  {
+    "idx": 141,
+    "fig_id": "fig-07-141",
+    "fnum": "7.10.1",
+    "caption": "Examples of biological prosthetic valves A: Stented valve, B: Sutureless valve, C: Stentless valve",
+    "page": 343,
+    "size": "1109x1278"
+  },
+  {
+    "idx": 142,
+    "fig_id": "fig-07-142",
+    "fnum": "7.10.2",
+    "caption": "Examples of TAVI A: Edwards SAPIEN, B: CoreValve (Medtronic)",
+    "page": 343,
+    "size": "1227x1269"
+  },
+  {
+    "idx": 143,
+    "fig_id": "fig-07-143",
+    "fnum": "7.10.3",
+    "caption": "Examples of mechanical valves A: Caged ball valve, B: Tilting disc valve, C: Bileaflet valve",
+    "page": 343,
+    "size": "1555x1269"
+  },
+  {
+    "idx": 144,
+    "fig_id": "fig-07-144",
+    "fnum": "7.10.4",
+    "caption": "Example of echo imaging of MV PrV",
+    "page": 345,
+    "size": "456x790"
+  },
+  {
+    "idx": 145,
+    "fig_id": "fig-07-145",
+    "fnum": "7.10.5",
+    "caption": "Example of mechanical valve sizing",
+    "page": 347,
+    "size": "2065x1246"
+  },
+  {
+    "idx": 146,
+    "fig_id": "fig-07-146",
+    "fnum": "7.10.6",
+    "caption": "Continuity equation to calculate PrV EOA (Top: AV; Bottom: MV)",
+    "page": 349,
+    "size": "1449x882"
+  },
+  {
+    "idx": 147,
+    "fig_id": "fig-07-147",
+    "fnum": "7.10.7",
+    "caption": "Examples of physiological regurgitation in tilting disk MV PrV",
+    "page": 352,
+    "size": "420x739"
+  },
+  {
+    "idx": 148,
+    "fig_id": "fig-07-148",
+    "fnum": "7.10.8ABC",
+    "caption": "Examples of pathologic regurgitation in PrVs",
+    "page": 354,
+    "size": "917x675"
+  },
+  {
+    "idx": 149,
+    "fig_id": "fig-07-149",
+    "fnum": "7.10.8A",
+    "caption": "Degenerative AV bioprosthesis with significant AR (with leaflet thickening, calcifications, limited opening)",
+    "page": 354,
+    "size": "1925x702"
+  },
+  {
+    "idx": 150,
+    "fig_id": "fig-07-150",
+    "fnum": "7.10.8B",
+    "caption": "Mitral bioprosthesis dehiscence",
+    "page": 354,
+    "size": "942x1023"
+  },
+  {
+    "idx": 151,
+    "fig_id": "fig-07-151",
+    "fnum": "7.10.8C",
+    "caption": "3D recordings of a significant paravalvular leak. 3D echo is the method of choice in this case. It is very severe when > 30% of the circumference",
+    "page": 354,
+    "size": "1925x702"
+  },
+  {
+    "idx": 152,
+    "fig_id": "fig-07-152",
+    "fnum": "7.10.9",
+    "caption": "PrV thrombosis",
+    "page": 355,
+    "size": "823x295"
+  },
+  {
+    "idx": 153,
+    "fig_id": "fig-07-153",
+    "fnum": "7.10.10",
+    "caption": "MV PrV pannus. Top: TTE, Bottom: TOE",
+    "page": 356,
+    "size": "373x762"
+  },
+  {
+    "idx": 154,
+    "fig_id": "fig-07-154",
+    "fnum": "7.10.11",
+    "caption": "Algorithm for evaluation of abnormally high transvalvular gradient",
+    "page": 358,
+    "size": "594x570"
+  },
+  {
+    "idx": 155,
+    "fig_id": "fig-07-155",
+    "fnum": "7.10.12",
+    "caption": "Algorithm for evaluation of abnormally high transvalvular gradient",
+    "page": 358,
+    "size": "594x618"
+  },
+  {
+    "idx": 156,
+    "fig_id": "fig-07-156",
+    "fnum": "7.10.13",
+    "caption": "Strands on MV PrV",
+    "page": 359,
+    "size": "834x874"
+  },
+  {
+    "idx": 157,
+    "fig_id": "fig-07-157",
+    "fnum": "7.11.1A",
+    "caption": "Vegetation",
+    "page": 361,
+    "size": "969x403"
+  },
+  {
+    "idx": 158,
+    "fig_id": "fig-07-158",
+    "fnum": "7.11.1B",
+    "caption": "Abscess",
+    "page": 361,
+    "size": "1491x451"
+  },
+  {
+    "idx": 159,
+    "fig_id": "fig-07-159",
+    "fnum": "7.11.1C",
+    "caption": "New dehiscence of prosthetic valve",
+    "page": 361,
+    "size": "516x451"
+  },
+  {
+    "idx": 160,
+    "fig_id": "fig-07-160",
+    "fnum": "7.11.2",
+    "caption": "Typical vegetation on the anterior mitral leaflet",
+    "page": 363,
+    "size": "834x1314"
+  },
+  {
+    "idx": 161,
+    "fig_id": "fig-07-161",
+    "fnum": "7.11.3",
+    "caption": "Atypical vegetation localized on the interventricular septum (arrow) in a patient with hypertrophic cardiomyopathy (TTE)",
+    "page": 363,
+    "size": "834x657"
+  },
+  {
+    "idx": 162,
+    "fig_id": "fig-07-162",
+    "fnum": "7.11.4",
+    "caption": "Aortic root abscess",
+    "page": 364,
+    "size": "834x981"
+  },
+  {
+    "idx": 163,
+    "fig_id": "fig-07-163",
+    "fnum": "7.11.5C",
+    "caption": "Positive PET/CT intense uptake on the bioprosthesis",
+    "page": 364,
+    "size": "1281x981"
+  },
+  {
+    "idx": 164,
+    "fig_id": "fig-07-164",
+    "fnum": "7.11.7",
+    "caption": "If initial TOE is negative but persistent suspicion of IE: repeat TOE within five to seven days",
+    "page": 365,
+    "size": "485x1245"
+  },
+  {
+    "idx": 165,
+    "fig_id": "fig-07-165",
+    "fnum": "7.11.6A",
+    "caption": "3D echo imaging of a large mitral vegetation (arrow)—3D TOE atrial view",
+    "page": 365,
+    "size": "486x1245"
+  },
+  {
+    "idx": 166,
+    "fig_id": "fig-07-166",
+    "fnum": "7.11.6B",
+    "caption": "3D echo imaging of an anterior mitral valve perforation (arrow): 3D TOE atrial view",
+    "page": 365,
+    "size": "486x1245"
+  },
+  {
+    "idx": 167,
+    "fig_id": "fig-07-167",
+    "fnum": "7.11.6C",
+    "caption": "3D echo imaging of a perforation of the non coronary aortic leaflet: 3D TOE",
+    "page": 365,
+    "size": "486x1245"
+  },
+  {
+    "idx": 168,
+    "fig_id": "fig-07-168",
+    "fnum": "7.11.8A",
+    "caption": "Haemodynamic: Severe aortic IE with premature mitral closure",
+    "page": 369,
+    "size": "1162x1269"
+  },
+  {
+    "idx": 169,
+    "fig_id": "fig-07-169",
+    "fnum": "7.11.8B",
+    "caption": "Infectious: Mitral annular abscess with perforation into the LA",
+    "page": 369,
+    "size": "1956x1274"
+  },
+  {
+    "idx": 170,
+    "fig_id": "fig-07-170",
+    "fnum": "7.11.8C",
+    "caption": "Embolic: Huge and mobile mitral vegetation",
+    "page": 369,
+    "size": "1190x1270"
+  },
+  {
+    "idx": 171,
+    "fig_id": "fig-07-171",
+    "fnum": "7.11.9A",
+    "caption": "Abscess: Thickened nonhomogeneous perivalvular area with echodense or echolucent aspect",
+    "page": 369,
+    "size": "1162x1274"
+  },
+  {
+    "idx": 172,
+    "fig_id": "fig-07-172",
+    "fnum": "7.11.9B",
+    "caption": "Pseudoaneurysm: Pulsatile perivalvular echo- free space with colour Doppler flow detected",
+    "page": 369,
+    "size": "1956x1274"
+  },
+  {
+    "idx": 173,
+    "fig_id": "fig-07-173",
+    "fnum": "7.11.9C",
+    "caption": "Mitral aneurysm with perforation + saccular bulging of mitral valve with perforation into the LA LA: left atrium, LV: left ventricle, Ao: aorta",
+    "page": 369,
+    "size": "651x1270"
+  },
+  {
+    "idx": 174,
+    "fig_id": "fig-07-174",
+    "fnum": "7.11.11",
+    "caption": "Splenic embolism by CT-scan (arrows)",
+    "page": 370,
+    "size": "487x928"
+  },
+  {
+    "idx": 175,
+    "fig_id": "fig-07-175",
+    "fnum": "7.11.12",
+    "caption": "Mitral PrVIE Vegetation (red arrow) and prosthetic dehiscence (white arrow) in a patient with bioprosthetic mitral valve IE",
+    "page": 371,
+    "size": "695x1182"
+  },
+  {
+    "idx": 176,
+    "fig_id": "fig-07-176",
+    "fnum": "7.11.13",
+    "caption": "Pacemaker lead IE. TTE showing a huge vegetation (arrow) on a pacemaker lead",
+    "page": 373,
+    "size": "834x580"
+  },
+  {
+    "idx": 177,
+    "fig_id": "fig-07-177",
+    "fnum": "7.11.14",
+    "caption": "Tricuspid valve IE. TTE showing a large tricuspid vegetation in an intravenous drug user",
+    "page": 375,
+    "size": "596x618"
+  }
+]

@@ -1,0 +1,89 @@
+{
+  "schemaVersion": 1,
+  "id": "esc-hf-2026.rt17-valvular-heart-disease-in-hf",
+  "guidelineId": "esc-hf-2026",
+  "number": "Recommendation Table 17",
+  "type": "recommendations",
+  "title": {
+    "en": "Recommendations for valvular heart disease in patients with heart failure",
+    "ru": "Рекомендации по клапанным порокам сердца у пациентов с сердечной недостаточностью"
+  },
+  "tags": [
+    "valvular-heart-disease",
+    "aortic-stenosis",
+    "savr",
+    "tavi",
+    "mitral-regurgitation",
+    "secondary-mr",
+    "teer",
+    "hfref",
+    "qol",
+    "hfh"
+  ],
+  "source": {
+    "expectedRows": 3
+  },
+  "i18nStatus": {
+    "ru": "reviewed"
+  },
+  "sections": [
+    {
+      "id": "sec-aortic-stenosis",
+      "title": {
+        "en": "Aortic stenosis (see Evidence Tables 83 and 84)",
+        "ru": "Аортальный стеноз (см. Доказательные таблицы 83 и 84)"
+      },
+      "rows": [
+        {
+          "id": "r01",
+          "text": {
+            "en": "Aortic valve intervention, SAVR or TAVI, is recommended in patients with severe aortic stenosis and HF^[c] to improve symptoms and reduce the risk of death.",
+            "ru": "Вмешательство на аортальном клапане — хирургическое протезирование (SAVR) или транскатетерная имплантация (TAVI) — рекомендуется пациентам с тяжелым аортальным стенозом и СН^[c] для уменьшения выраженности симптомов и снижения риска смерти."
+          },
+          "class": "I",
+          "level": "B1",
+          "refs": [758, 759, 760, 761, 762, 763, 764, 765]
+        }
+      ]
+    },
+    {
+      "id": "sec-secondary-mitral-regurgitation",
+      "title": {
+        "en": "Secondary mitral regurgitation",
+        "ru": "Вторичная митральная регургитация"
+      },
+      "rows": [
+        {
+          "id": "r02",
+          "text": {
+            "en": "Mitral transcatheter edge-to-edge repair is recommended in haemodynamically stable, symptomatic patients with HFrEF and persistent severe secondary mitral regurgitation despite optimized FMT and CRT if indicated, who fulfil specific clinical and echocardiographic criteria,^[d] in order to reduce the risk of HFH and improve QoL.",
+            "ru": "Транскатетерная пластика митрального клапана створка-в-створку (TEER) рекомендуется гемодинамически стабильным симптомным пациентам с СНнФВ (HFrEF) и персистирующей тяжелой вторичной митральной регургитацией, несмотря на оптимизированную базовую медикаментозную терапию (FMT) и СРТ (CRT) при наличии показаний, которые соответствуют специфическим клиническим и эхокардиографическим критериям,^[d] с целью снижения риска госпитализаций по поводу СН (HFH) и улучшения качества жизни."
+          },
+          "class": "I",
+          "level": "B1",
+          "refs": [750, 751, 752, 753]
+        },
+        {
+          "id": "r03",
+          "text": {
+            "en": "Mitral transcatheter edge-to-edge repair may be considered in selected symptomatic patients with HFrEF and persistent severe secondary mitral regurgitation despite optimized FMT and CRT if indicated (after excluding the option of LVAD or heart transplantation) who do not fulfil the clinical and echocardiographic criteria for outcome improvement,^[d] in order to improve symptoms.",
+            "ru": "Транскатетерная пластика митрального клапана створка-в-створку (TEER) может быть рассмотрена у отдельных симптомных пациентов с СНнФВ (HFrEF) и персистирующей тяжелой вторичной митральной регургитацией, несмотря на оптимизированную терапию FMT и СРТ (CRT) при наличии показаний (после исключения возможности имплантации LVAD или трансплантации сердца), которые не соответствуют критериям улучшения прогноза,^[d] с целью уменьшения симптомов."
+          },
+          "class": "IIb",
+          "level": "C",
+          "refs": [766, 767, 768, 769]
+        }
+      ]
+    }
+  ],
+  "footnotes": {
+    "c": {
+      "en": "This recommendation refers to patients with severe high gradient aortic stenosis regardless of LVEF and to patients with low-flow low-gradient aortic stenosis and HFrEF. For details regarding low-flow low-gradient aortic stenosis in HFpEF, we refer to the 2025 ESC/EACTS Guidelines for the management of valvular heart disease.^[9]",
+      "ru": "Данная рекомендация относится к пациентам с тяжелым высокоградиентным аортальным стенозом независимо от ФВЛЖ и к пациентам с низкопоточным низкоградиентным аортальным стенозом и СНнФВ (HFrEF). Подробная информация относительно низкопоточного низкоградиентного аортального стеноза при СНсФВ (HFpEF) представлена в Рекомендациях ESC/EACTS 2025 года по ведению клапанных пороков сердца.^[9]"
+    },
+    "d": {
+      "en": "For clinical and echocardiographic criteria, see Table 19.",
+      "ru": "Клинические и эхокардиографические критерии приведены в Таблице 19."
+    }
+  }
+}

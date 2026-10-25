@@ -1,0 +1,90 @@
+[
+  {
+    "idx": 1,
+    "fig_id": "fig-12-01",
+    "fnum": "12.1.2",
+    "caption": "Lung ultrasound evaluation. A: No pulmonary interstitial syndrome. No B-lines are visible. B: Multiple B-lines in a patient with pulmonary oedema. This sonographic appearance should be present in more than one scan for each hemithorax, and bilaterally",
+    "page": 446,
+    "size": "509x421"
+  },
+  {
+    "idx": 2,
+    "fig_id": "fig-12-02",
+    "fnum": "12.1.3",
+    "caption": "Lung ultrasound evaluation. A: no pulmonary interstitial syndrome. No B-lines are visible. B: multiple B-lines in a patient with pulmonary oedema. C: multiple B-lines and subpleural alterations in a patient with ARDS",
+    "page": 448,
+    "size": "566x617"
+  },
+  {
+    "idx": 3,
+    "fig_id": "fig-12-03",
+    "fnum": "12.1.5",
+    "caption": "Lung point: the point where you can appreciate the transition from absence of lung sliding to reappearing of lung sliding. It represents the physical limit of PNX as mapped on the chest wall",
+    "page": 449,
+    "size": "556x425"
+  },
+  {
+    "idx": 4,
+    "fig_id": "fig-12-04",
+    "fnum": "12.1.4",
+    "caption": "Flow chart with the four sonographic signs to rule out or in PNX",
+    "page": 449,
+    "size": "556x425"
+  },
+  {
+    "idx": 5,
+    "fig_id": "fig-12-05",
+    "fnum": "12.1.6",
+    "caption": "Lung ultrasound appearance of a subpleural consolidation, visualized in the site of chest pain, consistent with pneumonia",
+    "page": 450,
+    "size": "836x1311"
+  },
+  {
+    "idx": 6,
+    "fig_id": "fig-12-06",
+    "fnum": "12.1.7",
+    "caption": "RA thrombus in a patient with acute pulmonary embolism",
+    "page": 450,
+    "size": "836x1311"
+  },
+  {
+    "idx": 7,
+    "fig_id": "fig-12-07",
+    "fnum": "12.1.8",
+    "caption": "Subpleural triangular- shaped consolidation, consistent with pulmonary infarction in a patient with pulmonary embolism",
+    "page": 451,
+    "size": "514x584"
+  },
+  {
+    "idx": 8,
+    "fig_id": "fig-12-08",
+    "fnum": "12.1.9",
+    "caption": "Circumferential pericardial effusion and RV free-wall diastolic collapse are shown (white arrow)",
+    "page": 454,
+    "size": "689x1231"
+  },
+  {
+    "idx": 9,
+    "fig_id": "fig-12-09",
+    "fnum": "12.1.10",
+    "caption": "M-mode: RV diastolic collapse (white arrow) due to cardiac tamponade",
+    "page": 454,
+    "size": "689x1231"
+  },
+  {
+    "idx": 10,
+    "fig_id": "fig-12-10",
+    "fnum": "12.1.11",
+    "caption": "A: proper position of the inflow cannula (white arrow); B: malposition of the inflow cannula, located too close to the cardiac wall, with abnormally high velocity and turbulent flow as detected by Doppler within the cavity. Courtesy of Dr Enrico Ammirati and Dr Benedetta De Chiara",
+    "page": 458,
+    "size": "831x440"
+  },
+  {
+    "idx": 11,
+    "fig_id": "fig-12-11",
+    "fnum": "12.1.12",
+    "caption": "The interventricular septum is not neutrally positioned between the RV and the LV. This is indicative of an excessive unloading of the LV. Pericardial effusion and RV dysfunction are also present. Courtesy of Dr Benedetta De Chiara",
+    "page": 459,
+    "size": "536x617"
+  }
+]

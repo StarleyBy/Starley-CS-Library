@@ -214,8 +214,10 @@
                 leftPanelBooksHtml = books.map(book => {
                     const isActive = activeBook && book.path === activeBook.path;
                     const meta = book.data || {};
-                    const coverImg = meta.cover_image 
-                        ? (typeof window.getImageUrl === 'function' ? window.getImageUrl(`${book.path}/${meta.cover_image}`) : `${window.IMAGES_BASE_URL || './'}${book.path}/${meta.cover_image}`) 
+                    const coverRel = meta.cover_image ? `${book.path}/${meta.cover_image}` : '';
+                    const localCoverFallback = coverRel ? `${window.BASE_URL || './'}${coverRel}` : 'assets/img/book-placeholder.png';
+                    const coverImg = coverRel 
+                        ? (typeof window.getImageUrl === 'function' ? window.getImageUrl(coverRel) : localCoverFallback) 
                         : 'assets/img/book-placeholder.png';
                     const authors = (meta.authors || []).join(', ');
 
@@ -229,8 +231,8 @@
 
                     return `
                         <div class="binder-book-card ${isActive ? 'active' : ''}" data-book-path="${book.path}">
-                            <img src="${coverImg}" alt="${meta.title}" class="binder-book-cover"
-                                 onerror="this.onerror=null; this.src='assets/img/book-placeholder.png';" />
+                            <img src="${coverImg}" data-fallback="${localCoverFallback}" alt="${meta.title}" class="binder-book-cover"
+                                 onerror="if (this.dataset.fallback && this.src !== this.dataset.fallback) { this.src = this.dataset.fallback; } else { this.onerror=null; this.src='assets/img/book-placeholder.png'; }" />
                             <div class="binder-book-info">
                                 <h4 class="binder-book-title">${meta.title || 'Untitled'}</h4>
                                 <p class="binder-book-authors">${authors}</p>

@@ -1,0 +1,1482 @@
+
+--- Page 42 ---
+with AF, the percentage of effective biventricular pacing (with-
+out fusion or pseudofusion) is an important focus. Further de-
+tails on CRT follow-up and optimization are outlined in an 
+HFA position paper.435 
+6.2.5. Other cardiac implantable electronic devices 
+In a small unblinded RCT, cardiac contractility modulation mar-
+ginally improved peak oxygen uptake and QoL in patients with 
+advanced HFrEF and a QRS <130 ms.438 In a small pilot study, 
+cardiac contractility modulation improved the Kansas City 
+Cardiomyopathy Questionnaire (KCCQ) score by 18 points in 
+patients with HFpEF.439 No clinical outcome studies have 
+emerged. Similarly, baroreceptor activation therapy led to im-
+provements in 6-min walk distance and QoL in an unblinded 
+RCT, but long-term clinical outcome data were neutral.440,441 
+Current evidence for these CIEDs is insufficient to support 
+guideline recommendations. Although promising, these findings 
+require confirmation in large, well-designed trials.439 
+6.2.6. Other implantable devices 
+It has been hypothesized that an interatrial shunt could improve 
+HF symptoms and outcomes by decompressing the left atrium. In 
+the RELIEVE-HF study, 508 patients with HF and predominantly 
+NYHA class III symptoms and any LVEF were randomized to 
+transcatheter shunt implantation vs a sham procedure.442 After 
+2 years, no difference emerged in the primary effectiveness out-
+come [hierarchical composite ranking of all-cause death, cardiac 
+transplantation or LV assist device (LVAD) implantation, HFH, 
+outpatient WHF events, and change in QoL]. Importantly, pa-
+tients with reduced LVEF had fewer adverse CV events with 
+shunt treatment, whereas patients with HFpEF had more CV 
+events. In the REDUCE LAP-HF II study in patients with LVEF 
+≥40%, the atrial shunt device was no better than the sham pro-
+cedure in terms of the hierarchical composite of CV death or non- 
+fatal ischaemic stroke at 12 months, rate of total HF events up to 
+24 months, and change in QoL at 12 months.443 
+7. Decompensated heart failure 
+7.1. Definition and epidemiology 
+Decompensated HF is defined as acute or gradual onset of 
+symptoms and/or signs of HF, severe enough to require urgent 
+medical attention and treatment initiation or intensification. 
+DHF can lead to an unplanned hospital admission, an emergency 
+department visit, or an unplanned ambulatory visit requiring 
+treatment for HF. DHF may present as either worsening of pre- 
+existing HF or as the initial manifestation of the disease (de novo 
+HF). In the setting of patients with pre-existing HF, WHF is char-
+acterized by a deterioration in the symptoms and/or signs of HF 
+and represents an event in HF progression, whereas DHF is spe-
+cifically characterized by the requirement for treatment 
+modification.444 
+Decompensated HF is associated with a high risk of death: 
+3%–10% during HF admission; 20%–30% at 1 year, >50% after 
+5 years.445–450 Compared to DHF occurring in patients with pre- 
+existing HF, de novo DHF may be associated with higher in- 
+hospital death, but lower post-discharge death and rehospitali-
+zation rates.451–453 Following a hospitalization for DHF, 
+1-year rehospitalization rates range between 35% and 
+44%.447,448,453–455 In addition, up to 50% of patients with HF 
+require intensification of treatment in the emergency service 
+or in outpatient settings.456–462 
+7.2. Diagnosis 
+Decompensated HF requires prompt diagnosis to ensure early 
+treatment.463 If DHF is suspected, assessment of signs and symp-
+toms of congestion and hypoperfusion must be done at the first 
+medical contact. Non-invasive blood pressure, respiratory rate, 
+pulse oximetry monitoring, body temperature measurement, 
+and ECG should be performed early.464 In haemodynamically un-
+stable patients with suspected hypoperfusion, assessment of ser-
+um lactate levels should be performed promptly.465 
+The currently recommended, non-age-adjusted, natriuretic pep-
+tide ‘rule-out’ thresholds for DHF are: NT-proBNP <300 pg/mL, 
+or BNP <100 ng/mL, or MR-proANP <120 pg/mL.157,466–469 
+However, if clinical suspicion of HF remains despite values be-
+low ‘rule-out’ thresholds, specialist assessment and echocardio-
+gram should be sought. Age-related thresholds for NT-proBNP, 
+above which DHF is considered ‘likely’, are given in the footnote 
+of Figure 11. In the older population, using the age-related 
+NT-proBNP threshold may aid appropriate triage and help re-
+duce unnecessary exams. NT-pro-BNP >5000 pg/mL indicates 
+very high risk, and admission is generally recommended. For 
+other laboratory tests and investigations for patients with sus-
+pected DHF, see Supplementary data online, Table S11. Initial 
+investigations are carried out to diagnose DHF and rapidly de-
+tect any possible triggers. 
+Transthoracic echocardiography should be performed in pa-
+tients with high levels of NT-proBNP and in those for whom 
+there is a high clinical suspicion of DHF. 
+Where trained personnel are available, lung ultrasound iden-
+tifies patients with pulmonary congestion and has utility in serial 
+assessments.470–473 
+7.3. Clinical presentation 
+Congestion and hypoperfusion are two major clinical manifesta-
+tions of DHF.447,453 Congestion may stem from fluid overload, 
+fluid redistribution, increased vascular permeability, and in-
+creased intracardiac pressures. Different clinical, laboratory, 
+and imaging utilities should be used to assess congestion and 
+its dynamic changes (see Supplementary data online,  
+Table S12). Hypoperfusion is not a synonym for hypoten-
+sion,474,475 although patients with DHF and hypotension also 
+experience inadequate perfusion. An objective marker, serum 
+lactate, may help identify patients with peripheral hypoperfu-
+sion and monitor therapy.465 Signs and symptoms associated 
+with congestion and hypoperfusion are reported in Table 12. 
+Four categories of DHF can be recognized based on clinical 
+presentation: decompensated left-sided HF, decompensated 
+right-sided HF, acute pulmonary oedema (APO), and cardiogenic 
+shock (CS). 
+Pathophysiology, timing of onset, and speed of deterioration 
+differ between the four categories, but possible overlaps exist. 
+7.3.1. Decompensated left-sided heart failure 
+Decompensated left-sided HF, in its classical clinical presenta-
+tion, is characterized by a gradual onset of signs and symptoms 
+with accumulating congestion as the primary pathophysiological 
+process.476 It may occur in patients across the spectrum of LVEF 
+and, in advanced stages, can lead to RV dysfunction and  
+ESC Guidelines                                                                                                                                                                                        5387 
+Downloaded from academic.oup.com/eurheartj/article/47/38/5346/8766302 by guest on 22 October 2026
+
+--- Page 43 ---
+decompensated right-sided heart failure. Thus, both pulmonary 
+and peripheral congestion may be present. Hypoperfusion can 
+occur.447,465,476 Treatment is mainly based on decongestion 
+by means of diuretic therapy. Site of care can be outpatient clinic 
+or hospital. 
+7.3.2. Decompensated right-sided heart failure 
+Decompensated isolated right-sided HF is characterized by ele-
+vated RV and right atrial pressures, leading to systemic conges-
+tion and, in more advanced stages, hypoperfusion. It is often 
+associated with tricuspid regurgitation (TR) and can also impair 
+LV filling and reduce systemic cardiac output through ventricu-
+lar interdependence. Pulmonary embolism and acute MI involv-
+ing the right ventricle are possible causes of decompensated 
+right HF that need to be excluded during initial evaluation and 
+treated. Fluid overload, elevated central venous pressures, and 
+multiorgan dysfunction are the most frequent elements of the 
+clinical picture of the disease. In the most severe cases, it can 
+manifest as a refractory shock. The RV function and its effect 
+on other organs (kidney, liver) usually determine the clinical 
+Figure 11 Diagnosing decompensated heart failure. APO, acute pulmonary oedema; BNP, B-type natriuretic peptide; CS, cardiogenic 
+shock; DHF, decompensated heart failure; ECG, electrocardiogram; LUS, lung ultrasound; MR-proANP, mid-regional pro-atrial natriuretic 
+peptide; NT-proBNP, N-terminal pro-B-type natriuretic peptide. aSee Supplementary data online, Table S11 for more details on admission 
+investigations in DHF. bIn case of APO or CS, early treatment is recommended. cThe currently recommended, non-age-adjusted, natriuretic 
+peptide ‘rule-out’ thresholds for DHF are: NT-proBNP <300 pg/mL, or BNP <100 ng/mL, or MR-proANP <120 pg/mL. Combination with 
+age-related ‘likely’ rule-in thresholds may reduce unnecessary exams: NT-proBNP >450 pg/mL (<50 years), NT-proBNP >900 pg/mL (50– 
+74 years), NT-proBNP >1800 pg/mL (>74 years). dIn case of DHF unlikely, look for other causes of symptoms.   
+5388                                                                                                                                                                                       ESC Guidelines 
+Downloaded from academic.oup.com/eurheartj/article/47/38/5346/8766302 by guest on 22 October 2026
+
+--- Page 44 ---
+trajectory, thus a close monitoring of kidney and hepatic func-
+tion is needed. Onset can be gradual or rapid depending on 
+causes, triggers, and precipitating factors. Optimal care requires 
+a multifaceted approach, including diuretics, judicious fluid man-
+agement, appropriate use of inotropes and vasopressors, and 
+mechanical circulatory support (MCS) when indicated. 
+7.3.3. Acute pulmonary oedema 
+Acute pulmonary oedema is a life-threatening condition that 
+needs prompt, optimally targeted rescue therapy.477,478 
+Clinical criteria for the diagnosis of APO include signs and 
+symptoms of respiratory distress [dyspnoea with orthopnoea, 
+respiratory failure (hypoxaemia with or without hypercapnia), 
+tachypnoea (>25 breaths/min), and increased work of breath-
+ing], caused by massive pulmonary congestion, which typical-
+ly develops over a short period of time.477 The major 
+objectives of the treatment are relieving pulmonary conges-
+tion, treating respiratory insufficiency, and ensuring periph-
+eral perfusion. The mechanism of development of 
+congestion is complex, with a predominant fluid redistribution 
+that implies pulmonary congestion without total volume over-
+load, primarily due to blood shift into the pulmonary circula-
+tion. Such patients usually do not need high doses of 
+diuretics, but they may need vasodilators. The cause of de-
+compensation should be investigated in every patient, and 
+causal treatment, if possible, is imperative. 
+7.3.4. Cardiogenic shock 
+Cardiogenic shock is defined as a state of critical end-organ hy-
+poperfusion caused by primary cardiac dysfunction.479–481 
+The Shock Academic Research Consortium (SHARC) consen-
+sus defines CS as a cardiac disorder that results in both clinical 
+and biochemical evidence of sustained tissue hypoperfusion.482 
+Generally, CS is characterized by hypoperfusion and hypoten-
+sion; however, no specific blood pressure cut-off is defined, as 
+CS is a complex clinical condition, involving many parameters 
+and nuances. Thus, any arbitrary blood pressure threshold will 
+have inherent limitations. CS may also present as hypoperfusion 
+with normotension, which has better prognosis than hypoten-
+sive CS.483,484 
+Importantly, septic and hypovolaemic shock also manifests 
+with hypotension and end-organ hypoperfusion, and mixed 
+forms of shock often exist simultaneously.480,485 Clinical fea-
+tures of hypoperfusion are reported in Table 12. Biochemical 
+manifestation of inadequate tissue perfusion is best measured 
+by arterial lactate, where a value of >2 mmol/L is re-
+quired.479,480 Additional markers used in assessment of hypo-
+perfusion are acute kidney injury and/or acute hepatic injury.480 
+The Society for Cardiovascular Angiography and Interventions 
+introduced a staging scheme—SCAI classification—to address the 
+severity of CS.479 Based on this, there are five categories of CS: 
+(A) at risk, (B) pre-shock, (C) classic, (D) deteriorating, and (E) ex-
+tremis (Table 13). 
+7.4. General management 
+In-hospital management of DHF can be divided into three gen-
+eral phases (Figure 12). Importantly, each clinical category of 
+DHF has different trajectories through these phases. For in-
+stance, CS patients usually remain in phase 1 for several days 
+and may never reach phase 2.474 On the other hand, patients 
+with uncomplicated decompensated left-sided or right-sided 
+HF or APO can experience quick transition through all phases 
+of treatment. 
+Table 12 Signs, symptoms, and altered laboratory tests in 
+congestion and hypoperfusion profiles 
+Left-sided 
+congestion 
+Right-sided 
+congestion 
+Hypoperfusion  
+Dyspnoea 
+Orthopnoea 
+Cough 
+Tachypnoea 
+Rales 
+S3 
+Pleural effusion 
+Elevated 
+natriuretic 
+peptides 
+Peripheral oedema 
+Abdominal distension 
+Hepatomegaly 
+Jugular vein 
+distension 
+Hepatojugular reflux 
+Pleural effusion 
+Elevated serum 
+creatinine 
+Elevated bilirubin, 
+ALP, GGT 
+Slightly elevated 
+natriuretic peptides 
+Cold, sweaty 
+extremities 
+Pale skin 
+Dizziness 
+Mental confusion 
+Oliguria 
+Narrow pulse 
+pressure 
+Elevated serum 
+lactate 
+Elevated serum 
+creatinine 
+Elevated 
+aminotransferase 
+© ESC 2026
+ALP, alkaline phosphatase; GGT, gamma glutamyl transpeptidase.  
+Table 13 SCAI classification for cardiogenic shock  
+STAGE A 
+‘At risk’ 
+A patient who is not currently 
+experiencing signs or symptoms of CS 
+but is at risk for development of CS. 
+STAGE B 
+‘Beginning/pre-shock’ 
+cardiogenic shock 
+A patient who has clinical evidence of 
+hemodynamic instability (including 
+relative hypotension or tachycardia) 
+without hypoperfusion. 
+STAGE C 
+‘Classic’ cardiogenic 
+shock 
+A patient that manifests with 
+hypoperfusion requiring intervention 
+(inotrope, vasopressor, or mechanical 
+support). 
+STAGE D 
+‘Deteriorating’ 
+A patient that is similar to stage C but 
+deteriorating with failure to respond to 
+initial interventions. 
+STAGE E 
+‘Extremis’ 
+A patient with refractory shock or 
+cardiac arrest requiring multiple 
+simultaneous acute interventions, 
+including CPR. 
+© ESC 2026
+CPR, cardiopulmonary resuscitation; CS, cardiogenic shock; MI, myocardial 
+infarction; SCAI, Society for Cardiovascular Angiography and Interventions.   
+ESC Guidelines                                                                                                                                                                                        5389 
+Downloaded from academic.oup.com/eurheartj/article/47/38/5346/8766302 by guest on 22 October 2026
+
+--- Page 45 ---
+7.4.1. Phase 1 (initial management) 
+The primary objectives in phase 1 are reported in Figure 12. In 
+many cases, this phase starts in pre-hospital settings. 
+Pre-hospital management should not delay the rapid transfer 
+of the patient to the most appropriate medical setting, where 
+further work-up is undertaken. 
+Patients should be triaged based on their haemodynamic 
+and clinical status to determine the appropriate level of 
+care and monitoring requirements. For patient risk stratifica-
+tion, specific scores have been proposed, but they need 
+further validation (see Supplementary data online, Section 
+S4.2.1).486,487 
+In patients with suspicion of CS and with a potential indication 
+for temporary MCS, consultation with the Shock Team is recom-
+mended (see Section 7.5.11).488 In these patients, as well as in 
+those with other life-threatening conditions, the diagnostic 
+work-up and appropriate rescue pharmacological and non- 
+pharmacological treatment should be initiated promptly and 
+simultaneously (Figure 13). Identification and possible treatment 
+of acute causes is crucial.118,119,489–491 Combination and timing 
+of different treatments depend on clinical presentation 
+(Figure 13). In patients already receiving FMT, continuation 
+and/or rapid reintroduction as soon as possible is recom-
+mended. Discontinuation of FMT is not recommended unless 
+there are clear signs of hypoperfusion or specific clinical indica-
+tions. Monitoring during and after initial stabilization is manda-
+tory (see Supplementary data online, Table S12). 
+7.4.2. Phase 2 (stabilization) 
+The primary objective of this phase is to maintain and enhance 
+the patient’s haemodynamic status and, once the patient is 
+/gid00036/gid00078/gid00077/gid00082/gid00078/gid00075/gid00072/gid00067/gid00064/gid00083/gid00068/gid00001/gid00071/gid00064/gid00068/gid00076/gid00078/gid00067/gid00088/gid00077/gid00064/gid00076/gid00072/gid00066/gid00001/gid00082/gid00083/gid00064/gid00065/gid00072/gid00075/gid00072/gid00089/gid00064/gid00083/gid00072/gid00078/gid00077
+/gid00034/gid00083/gid00083/gid00068/gid00076/gid00079/gid00083/gid00001/gid00069/gid00084/gid00075/gid00075/gid00001/gid00067/gid00068/gid00066/gid00078/gid00077/gid00070/gid00068/gid00082/gid00083/gid00072/gid00078/gid00077/gid00001/gid00064/gid00077/gid00067/gid00001/gid00072/gid00077/gid00072/gid00083/gid00072/gid00064/gid00083/gid00068/gid00001/gid00078/gid00081/gid00064/gid00075/gid00001/gid00067/gid00072/gid00084/gid00081/gid00068/gid00083/gid00072/gid00066/gid00082
+/gid00042/gid00077/gid00072/gid00083/gid00072/gid00064/gid00083/gid00068/gid00001/gid00064/gid00077/gid00067/gid00016/gid00078/gid00081/gid00001/gid00078/gid00079/gid00083/gid00072/gid00076/gid00072/gid00089/gid00068/gid00001/gid00039/gid00046/gid00053
+/gid00042/gid00067/gid00068/gid00077/gid00083/gid00072/gid00069/gid00088/gid00001/gid00041/gid00039/gid00001/gid00064/gid00068/gid00083/gid00072/gid00078/gid00075/gid00078/gid00070/gid00088/gid00001/gid00064/gid00077/gid00067/gid00001/gid00081/gid00068/gid00075/gid00068/gid00085/gid00064/gid00077/gid00083/gid00001/gid00066/gid00078/gid00076/gid00078/gid00081/gid00065/gid00072/gid00067/gid00072/gid00083/gid00072/gid00068/gid00082
+/gid00040/gid00078/gid00064/gid00075/gid00082/gid00049/gid00071/gid00064/gid00082/gid00068/gid00082
+/gid00042/gid00077/gid00072/gid00083/gid00072/gid00064/gid00075
+/gid00076/gid00064/gid00077/gid00064/gid00070/gid00068/gid00076/gid00068/gid00077/gid00083/gid00018
+/gid00019
+/gid00020
+/gid00052/gid00083/gid00064/gid00065/gid00072/gid00075/gid00072/gid00089/gid00064/gid00083/gid00072/gid00078/gid00077
+/gid00049/gid00081/gid00068/gid00014/gid00067/gid00072/gid00082/gid00066/gid00071/gid00064/gid00081/gid00070/gid00068/gid00001
+/gid00064/gid00077/gid00067/gid00001/gid00068/gid00064/gid00081/gid00075/gid00088
+/gid00079/gid00078/gid00082/gid00083/gid00014/gid00067/gid00072/gid00082/gid00066/gid00071/gid00064/gid00081/gid00070/gid00068/gid00001
+/gid00049/gid00081/gid00068/gid00014/gid00067/gid00072/gid00082/gid00066/gid00071/gid00064/gid00081/gid00070/gid00068
+/gid00049/gid00078/gid00082/gid00083/gid00014/gid00067/gid00072/gid00082/gid00066/gid00071/gid00064/gid00081/gid00070/gid00068
+/gid00046/gid00064/gid00077/gid00064/gid00070/gid00068/gid00001/gid00075/gid00072/gid00069/gid00068/gid00014/gid00083/gid00071/gid00081/gid00068/gid00064/gid00083/gid00068/gid00077/gid00072/gid00077/gid00070/gid00001/gid00066/gid00078/gid00077/gid00067/gid00072/gid00083/gid00072/gid00078/gid00077/gid00082
+/gid00053/gid00081/gid00068/gid00064/gid00083/gid00001/gid00082/gid00079/gid00068/gid00066/gid00072/gid00195/gid00066/gid00001/gid00064/gid00068/gid00083/gid00072/gid00078/gid00075/gid00078/gid00070/gid00088/gid00001/gid00078/gid00081/gid00001/gid00079/gid00081/gid00068/gid00066/gid00072/gid00079/gid00072/gid00083/gid00064/gid00083/gid00072/gid00077/gid00070/gid00001/gid00069/gid00064/gid00066/gid00083/gid00078/gid00081/gid00082
+/gid00042/gid00077/gid00072/gid00083/gid00072/gid00064/gid00083/gid00068/gid00001/gid00071/gid00064/gid00068/gid00076/gid00078/gid00067/gid00088/gid00077/gid00064/gid00076/gid00072/gid00066/gid00001/gid00082/gid00083/gid00064/gid00065/gid00072/gid00075/gid00072/gid00089/gid00064/gid00083/gid00072/gid00078/gid00077
+/gid00042/gid00077/gid00072/gid00083/gid00072/gid00064/gid00083/gid00068/gid00001/gid00083/gid00081/gid00068/gid00064/gid00083/gid00076/gid00068/gid00077/gid00083/gid00001/gid00078/gid00069/gid00001/gid00067/gid00068/gid00066/gid00078/gid00077/gid00070/gid00068/gid00077/gid00082/gid00083/gid00072/gid00078/gid00077
+/gid00039/gid00084/gid00081/gid00083/gid00071/gid00068/gid00081/gid00001/gid00078/gid00079/gid00083/gid00072/gid00076/gid00072/gid00089/gid00064/gid00083/gid00072/gid00078/gid00077/gid00001/gid00078/gid00069/gid00001/gid00039/gid00046/gid00053/gid00001/gid00064/gid00077/gid00067/gid00001/gid00034/gid00046/gid00053
+/gid00052/gid00083/gid00064/gid00081/gid00083/gid00001/gid00067/gid00072/gid00082/gid00068/gid00064/gid00082/gid00068/gid00014/gid00076/gid00064/gid00077/gid00064/gid00070/gid00068/gid00076/gid00068/gid00077/gid00083/gid00001/gid00064/gid00077/gid00067/gid00001/gid00081/gid00068/gid00071/gid00064/gid00065/gid00072/gid00075/gid00072/gid00083/gid00064/gid00083/gid00072/gid00078/gid00077/gid00001/gid00079/gid00081/gid00078/gid00070/gid00081/gid00064/gid00076/gid00076/gid00068/gid00082
+/gid00049/gid00081/gid00078/gid00085/gid00072/gid00067/gid00068/gid00001/gid00082/gid00068/gid00075/gid00069/gid00014/gid00066/gid00064/gid00081/gid00068/gid00001/gid00068/gid00067/gid00084/gid00066/gid00064/gid00083/gid00072/gid00078/gid00077/gid00001/gid00064/gid00077/gid00067/gid00001/gid00082/gid00084/gid00079/gid00079/gid00078/gid00081/gid00083/gid00001/gid00064/gid00079/gid00079/gid00081/gid00078/gid00079/gid00081/gid00072/gid00064/gid00083/gid00068
+/gid00075/gid00072/gid00069/gid00068/gid00082/gid00083/gid00088/gid00075/gid00068/gid00001/gid00064/gid00067/gid00073/gid00084/gid00082/gid00083/gid00076/gid00068/gid00077/gid00083/gid00082
+/gid00038/gid00087/gid00066/gid00075/gid00084/gid00067/gid00068/gid00001/gid00079/gid00068/gid00081/gid00082/gid00072/gid00082/gid00083/gid00068/gid00077/gid00083/gid00001/gid00066/gid00078/gid00077/gid00070/gid00068/gid00082/gid00083/gid00072/gid00078/gid00077/gid00064
+/gid00042/gid00077/gid00072/gid00083/gid00072/gid00064/gid00083/gid00068/gid00001/gid00064/gid00077/gid00067/gid00016/gid00078/gid00081/gid00001/gid00078/gid00079/gid00083/gid00072/gid00076/gid00072/gid00089/gid00068/gid00001/gid00039/gid00046/gid00053/gid00001/gid00064/gid00077/gid00067/gid00001/gid00034/gid00046/gid00053
+/gid00036/gid00078/gid00077/gid00082/gid00072/gid00067/gid00068/gid00081/gid00001/gid00040/gid00037/gid00042/gid00053/gid00001/gid00072/gid00069/gid00001/gid00077/gid00068/gid00068/gid00067/gid00068/gid00067/gid00001
+/gid00048/gid00079/gid00083/gid00072/gid00076/gid00072/gid00089/gid00068/gid00001/gid00083/gid00081/gid00068/gid00064/gid00083/gid00076/gid00068/gid00077/gid00083/gid00001/gid00078/gid00069/gid00001/gid00066/gid00078/gid00076/gid00078/gid00081/gid00065/gid00072/gid00067/gid00072/gid00083/gid00072/gid00068/gid00082
+/gid00049/gid00075/gid00064/gid00077/gid00001/gid00075/gid00078/gid00077/gid00070/gid00014/gid00083/gid00068/gid00081/gid00076/gid00001/gid00076/gid00064/gid00077/gid00064/gid00070/gid00068/gid00076/gid00068/gid00077/gid00083/gid00001
+Figure 12 Phases and goals for in-hospital management of decompensated heart failure. AMT, additional medical therapy; FMT, foun-
+dational medical therapy; GDIT, guideline-directed interventional therapy; HF, heart failure. aSee Figure 14.   
+5390                                                                                                                                                                                       ESC Guidelines 
+Downloaded from academic.oup.com/eurheartj/article/47/38/5346/8766302 by guest on 22 October 2026
+
+--- Page 46 ---
+stabilized, to start/optimize long-term FMT to alter the course 
+of the disease and improve patient outcomes. Decongestion is 
+crucial and must be started and continued in phase 2 
+(Figure 13). Data from recent RCTs have demonstrated that ini-
+tiating MRAs, SGLT2-Is, or ARNIs is feasible and safe in this 
+phase of DHF.281,492,493 Much debate is ongoing on the optimal 
+FMT initiation/optimization. It is clear that the traditional se-
+quential approach is suboptimal and time-consuming. There is 
+growing evidence that simultaneous implementation of FMT is 
+more effective, safe, and associated with clinical benefit, thus 
+this approach should be preferred. As no prospective RCT has 
+been conducted comparing the different approaches to imple-
+menting FMT, no specific recommendation can be made regard-
+ing the number of drug classes to be introduced simultaneously 
+or sequencing of the drugs. A more conservative approach may 
+be reserved for specific (high-risk) groups of patients, such as 
+patients with low eGFR, hypotension, and history of 
+hyperkalaemia. 
+7.4.3. Phase 3 (pre-discharge and early post-discharge) 
+This transition phase covers the last days of hospitalization and 
+the first days/weeks after discharge.494 During this period, efforts 
+should focus on reducing the risk of subsequent DHF/WHF 
+episodes, further optimizing FMT, and determining any indica-
+tions for AMT and GDIT. The STRONG-HF trial demonstrated 
+the safety and efficacy of an approach based on a rapid and inten-
+sive initiation and uptitration of FMT followed by close outpatient 
+visits.311 This study has been criticized due to several limitations, 
+including a highly selected population (based on NT-proBNP va-
+lues and changes), the suboptimal medical treatment in the control 
+arm and the lack of SGLT2-I use (lack of evidence and recommen-
+dations at the time when the study was conducted). Nevertheless, 
+the trial showed that a strategy of fast uptitration after HFH is safe 
+and feasible and therefore this approach is recommended. Safety 
+indicators, including vital signs (blood pressure and heart rate) and 
+laboratory tests (creatinine, potassium, and NT-proBNP) are help-
+ful to guide uptitration.495 
+Residual congestion is associated with poor outcomes and a 
+high risk of rehospitalization. Thus, pre-discharge assessment 
+of residual congestion using clinical, laboratory, and imaging 
+techniques is recommended (Figure 14).494 If not done earlier, 
+the predischarge phase may also be used for iron supplementa-
+tion in patients with iron deficiency (ID), based on the results of 
+the AFFIRM-AHF trial (see Section 10.4).496 Finally, patients 
+should be enrolled in disease management and rehabilitation 
+programmes, educated, and guided in appropriate lifestyle 
+adjustments. 
+Figure 13 Initial management of decompensated heart failure. HF, heart failure; MCS, mechanical circulatory support. aOverlap be-
+tween different clinical phenotypes can exist. bConsultation with the Shock Team is recommended. cConsider in case of hypoxaemia. 
+dConsider when systolic blood pressure is >110 mmHg.   
+ESC Guidelines                                                                                                                                                                                        5391 
+Downloaded from academic.oup.com/eurheartj/article/47/38/5346/8766302 by guest on 22 October 2026
+
+--- Page 47 ---
+Recommendation Table 8 — Recommendations for pre-discharge and early post-discharge follow-up of patients hospitalized for 
+decompensated heart failure (see Evidence Tables 59–67) 
+Recommendations Classa Levelb  
+Careful evaluationc before discharge is recommended in patients hospitalized for DHF to exclude persistent signs of 
+congestion. I C 
+An intensive strategy of rapid initiation and uptitration of FMT before discharge and during frequent follow-up visits in the first 
+6 weeks following an HFH is recommended to reduce the risk of HF rehospitalization or death.311 I B2 
+© ESC 2026
+DHF, decompensated heart failure; FMT, foundational medical therapy; HF, heart failure; HFH, heart failure hospitalization. 
+aClass of recommendation. 
+bLevel of evidence. 
+cClinical evaluation, natriuretic peptide levels (Table 9), kidney function and electrolytes, imaging (see Figure 14).  
+/gid00053/gid00064/gid00081/gid00070/gid00068/gid00083/gid00082/gid00001/gid00078/gid00069/gid00001/gid00067/gid00068/gid00066/gid00078/gid00077/gid00070/gid00068/gid00082/gid00083/gid00072/gid00078/gid00077
+/gid00036/gid00075/gid00072/gid00077/gid00072/gid00066/gid00064/gid00075 /gid00045/gid00064/gid00065/gid00078/gid00081/gid00064/gid00083/gid00078/gid00081/gid00088
+/gid00036/gid00071/gid00068/gid00082/gid00083/gid00001/gid00057/gid00014/gid00081/gid00064/gid00088 /gid00045/gid00055/gid00001/gid00195/gid00075/gid00075/gid00072/gid00077/gid00070/gid00079/gid00081/gid00068/gid00082/gid00082/gid00084/gid00081/gid00068 /gid00042/gid00055/gid00036/gid00066 /gid00045/gid00054/gid00052
+/gid00048/gid00079/gid00083/gid00072/gid00076/gid00064/gid00075
+/gid00034/gid00066/gid00066/gid00068/gid00079/gid00083/gid00064/gid00065/gid00075/gid00068
+/gid00056/gid00068/gid00072/gid00070/gid00071/gid00083/gid00001/gid00075/gid00078/gid00082/gid00082
+/gid00047/gid00058/gid00041/gid00034/gid00001/gid00036/gid00075/gid00064/gid00082/gid00082
+/gid00047/gid00058/gid00041/gid00034/gid00001≤/gid00042/gid00042
+/gid00047/gid00049/gid00082
+∆/gid00047/gid00049/gid00082/gid00001≥/gid00020/gid00017/gid00006/gid00001
+/gid00078/gid00081
+/gid00047/gid00053/gid00014/gid00079/gid00081/gid00078/gid00035/gid00047/gid00049
+/gid00029/gid00018/gid00022/gid00017/gid00017/gid00001/gid00079/gid00070/gid00016/gid00076/gid00045
+/gid00078/gid00081
+/gid00001/gid00035/gid00047/gid00049/gid00001/gid00029/gid00019/gid00022/gid00017/gid00001/gid00079/gid00070/gid00016/gid00076/gid00045
+/gid00051/gid00068/gid00082/gid00078/gid00075/gid00084/gid00083/gid00072/gid00078/gid00077
+/gid00078/gid00069/gid00001/gid00082/gid00072/gid00070/gid00077/gid00082/gid00001/gid00078/gid00069/gid00001
+/gid00066/gid00078/gid00077/gid00070/gid00068/gid00082/gid00083/gid00072/gid00078/gid00077
+/gid00009/gid00036/gid00052/gid00042/gid00065/gid00001/gid00030/gid00001/gid00017/gid00010
+/gid00038/gid00016/gid00068/gid00008/gid00001/gid00078/gid00079/gid00083/gid00072/gid00076/gid00064/gid00075/gid00001
+/gid00038/gid00016/gid00068/gid00008/gid00001/gid00029/gid00018/gid00017
+/gid00009/gid00078/gid00081/gid00001∆/gid00038/gid00016/gid00068/gid00008/gid00031/gid00022/gid00010
+/gid00038/gid00016/gid00034/gid00001/gid00081/gid00064/gid00083/gid00072/gid00078/gid00001/gid00029/gid00019
+/gid00038/gid00037/gid00053/gid00001/gid00031/gid00018/gid00020/gid00017/gid00001/gid00076/gid00082
+/gid00053/gid00051/gid00055/gid00001/gid00029/gid00019/gid00015/gid00025/gid00001/gid00076/gid00016/gid00082
+/gid00048/gid00079/gid00083/gid00072/gid00076/gid00064/gid00075/gid00001
+/gid00052/gid00072/gid00089/gid00068/gid00001/gid00029/gid00019/gid00018/gid00076/gid00076
+/gid00064/gid00077/gid00067
+/gid00066/gid00078/gid00075/gid00075/gid00064/gid00079/gid00082/gid00072/gid00065/gid00072/gid00075/gid00072/gid00083/gid00088
+/gid00072/gid00077/gid00067/gid00068/gid00087/gid00001/gid00001/gid00031/gid00022/gid00017/gid00006
+/gid00048/gid00079/gid00083/gid00072/gid00076/gid00064/gid00075/gid00001
+/gid00029/gid00022/gid00001/gid00035/gid00014/gid00075/gid00072/gid00077/gid00068/gid00082
+/gid00009/gid00019/gid00025/gid00001/gid00064/gid00077/gid00067/gid00001/gid00025/gid00014/gid00082/gid00072/gid00083/gid00068/gid00082
+/gid00082/gid00066/gid00064/gid00077/gid00077/gid00072/gid00077/gid00070/gid00010
+/gid00042/gid00076/gid00064/gid00070/gid00072/gid00077/gid00070
+/gid00034/gid00066/gid00066/gid00068/gid00079/gid00083/gid00064/gid00065/gid00075/gid00068/gid00001
+/gid00029/gid00018/gid00022/gid00001/gid00035/gid00014/gid00075/gid00072/gid00077/gid00068/gid00082
+/gid00001/gid00009/gid00064/gid00083/gid00001/gid00019/gid00025/gid00014/gid00082/gid00072/gid00083/gid00068/gid00082
+/gid00082/gid00066/gid00064/gid00077/gid00077/gid00072/gid00077/gid00070/gid00010
+/gid00034/gid00066/gid00066/gid00068/gid00079/gid00083/gid00064/gid00065/gid00075/gid00068/gid00001
+/gid00052/gid00072/gid00089/gid00068/gid00001/gid00029/gid00019/gid00018/gid00001/gid00076/gid00076
+/gid00078/gid00081
+/gid00066/gid00078/gid00075/gid00075/gid00064/gid00079/gid00082/gid00072/gid00065/gid00072/gid00075/gid00072/gid00083/gid00088
+/gid00072/gid00077/gid00067/gid00068/gid00087/gid00001/gid00031/gid00022/gid00017/gid00006
+/gid00034/gid00066/gid00066/gid00068/gid00079/gid00083/gid00064/gid00065/gid00075/gid00068
+/gid00038/gid00016/gid00068/gid00008/gid00001/gid00029/gid00018/gid00022/gid00001
+/gid00036/gid00078/gid00077/gid00070/gid00068/gid00082/gid00083/gid00072/gid00078/gid00077/gid00001/gid00082/gid00066/gid00078/gid00081/gid00068/gid00064
+/gid00030/gid00001/gid00017
+/gid00030/gid00001/gid00018/gid00106/gid00019
+Figure 14 Tools used for assessment of decongestion during the pre-discharge phase. All these tools are intended to be optional as no 
+evidence from randomized controlled trials exists. BNP, B-type natriuretic peptide; CSI, congestion score index; EDT, E-wave decel-
+eration time; IVC, inferior vena cava; LUS, lung ultrasound; LV, left ventricular; NP, natriuretic peptide; NT-proBNP, N-terminal 
+pro-B-type natriuretic peptide; NYHA, New York Heart Association; TRV, tricuspid regurgitation velocity. aCongestion score = 0 de-
+notes the absence of clinical congestion (absence of dyspnoea, orthopnoea, fatigue, rales, oedemas, jugular vein distension).497 
+Congestion score = 1–2 denotes mild congestion (slight or moderate dyspnoea, orthopnoea, fatigue, rales, oedemas, jugular vein dis-
+tension).497 bThe CSI is a six-zone evaluation of a chest X-ray, with individual scores ranging from 0 to 3. A total score of 0 indicates all 
+zones are clear (i.e. no congestion). cThe IVC is an optional tool to assess decongestion, although CAVA-ADHF showed no added 
+benefit498.   
+5392                                                                                                                                                                                       ESC Guidelines 
+Downloaded from academic.oup.com/eurheartj/article/47/38/5346/8766302 by guest on 22 October 2026
+
+--- Page 48 ---
+7.5. Treatment 
+7.5.1. Oxygen therapy 
+Oxygen therapy is recommended in patients with hypoxaemia 
+[oxygen saturation (SpO2) <90% or partial pressure of oxygen 
+(PaO2) <60 mmHg]. Studies, including RCTs, have demonstrated 
+that indiscriminate oxygen administration in non-hypoxaemic 
+patients may be harmful.499–501 
+7.5.2. Ventilation support 
+Non-invasive ventilation is recommended in patients with APO 
+or CS and respiratory failure to improve oxygenation and reduce 
+the need for intubation as shown by multiple trials and meta 
+analyses.502,503 However, the increase in intrathoracic pressure 
+with non-invasive positive pressure ventilation decreases ven-
+ous return and right and left ventricular preload. It may also de-
+crease cardiac output and blood pressure and should therefore 
+be used with caution in patients with reduced preload reserve 
+and hypotension (i.e. decompensated right-sided HF). 
+Endotracheal intubation is reserved for selected cases (see  
+Recommendation Table 9).477 
+7.5.3. Diuretics (decongestion management) 
+Intravenous loop diuretics remain the cornerstone of deconges-
+tion in DHF. In the DOSE-AHF trial, no difference in the primary 
+efficacy outcome of patients’ symptom global assessment was 
+shown with a high-dose regimen compared with a low-dose 
+regimen of furosemide. There is no evidence indicating differen-
+tial outcomes with i.v. bolus administration compared to con-
+tinuous infusion or that one loop diuretic is superior to 
+another.327,504 Patients naïve to diuretics usually respond well 
+to 40 mg of i.v. furosemide or equivalent, whereas i.v. doses 
+of two times the patient’s usual oral diuretic dose should be con-
+sidered for patients who have been on loop diuretics as 
+outpatients.505 
+Possible worsening kidney function should be evaluated in 
+the context of diuretic response, because small and transient 
+rises in serum creatinine during diuretic therapy are not asso-
+ciated with poor outcome if decongestion is achieved.506,507 
+Subsequent doses of loop diuretics during the initial days of 
+hospitalization may be adjusted based on urinary sodium 
+(uNa+) assessments, diuretic response, and the patient’s clinical 
+status. A satisfactory diuretic response can be defined as a uNa+ 
+content ≥70 mEq/L at 2 h or by a urine output ≥100 mL/h dur-
+ing the first 6 h (Figure 15). The PUSH-AHF trial showed that a 
+strategy based on frequent clinical assessment, and 
+uNa+-guided diuretic therapy led to higher natriuresis at 24 h 
+vs standard of care.508 In the ENACT-HF open-label study, the 
+uNa+-based approach also resulted in higher natriuresis and di-
+uresis, as well as shorter hospital stay.509 No clinical trial has 
+thus far showed benefit of uNa+-guided diuretic therapy on 
+death or recurrent HFH. 
+Intravenous diuretics should be continued until optimal de-
+congestion is achieved; then, a switch to oral diuretics, if needed 
+to maintain the volume status, is recommended. 
+If there is an insufficient diuretic response, the loop diuretic 
+i.v. dose can be doubled and/or a non-loop diuretic added. 
+(Figure 15). 
+Two recent RCTs examined the role of non-loop diuretics for 
+enhanced decongestion in DHF. In the ADVOR trial, patients 
+were randomized to i.v. acetazolamide (500 mg) or placebo 
+added to i.v. loop diuretics. Treatment with acetazolamide re-
+sulted in a greater incidence of successful decongestion, defined 
+as the absence of signs of volume overload within 3 days.510 In 
+the CLOROTIC trial, oral hydrochlorothiazide (dose adjusted for 
+eGFR) was compared with placebo in patients receiving i.v. fur-
+osemide.511 The treatment with hydrochlorothiazide resulted in 
+more pronounced weight loss at 72 h but did not impact patient- 
+reported dyspnoea. Treatment with hydrochlorothiazide was 
+associated with greater 24 h diuresis but also more likely wor-
+sened kidney function and hypokalaemia, warranting caution. 
+Importantly, the study was prematurely halted due to slow re-
+cruitment. Both ADVOR and CLOROTIC did not show benefit 
+of non-loop diuretics on hard endpoints. The pharmacotherapy 
+of different diuretics and a practical guidance for their use in 
+DHF is reported in Supplementary data online, Table S13. In pa-
+tients with DHF, fluid intake should be less than urine output 
+and fluid restriction may be appropriate in patients with hypona-
+traemia, based on individual assessment. Similarly, sodium in-
+take should remain less than natriuresis. 
+Implementing SGLT2-I and neurohormonal blockade, includ-
+ing MRA, can contribute to more effective and sustainable de-
+congestion.512–514 Thus, it is imperative to consider early 
+implementation and optimization of FMT in parallel to decon-
+gestion (Figure 15). 
+7.5.4. Decongestion management in the ambulatory 
+setting 
+In ambulatory patients with chronic HF showing signs of wor-
+sening, both i.v. diuretic administration and intensification of 
+oral diuretic therapy can be considered. 
+A practical guide for the outpatient management of WHF has 
+been published, covering both ambulatory i.v. diuretics adminis-
+tered in a day-hospital setting and ‘hospital-at-home’ care mod-
+els, including telehealth-enabled approaches.515–517 Diuretic 
+sessions usually consist of a 3–6 h i.v. diuretic infusion with dos-
+ing based on the patient’s existing oral diuretic regimen. Close 
+monitoring of kidney function, electrolyte levels, and treatment 
+response, including measurements of urine output, uNa+, signs 
+of clinical decongestion, biomarkers, and/or ultrasound findings, 
+is essential.444,515,518 
+The new formulations of diuretics (e.g. subcutaneous) might 
+be particularly useful for home treatment.519–521 
+Intensification of oral diuretic therapy may include: (i) initiating 
+a loop diuretic in previously untreated individuals; (ii) increasing 
+the total daily dose of a loop diuretic; or (iii) temporarily adding 
+a diuretic with a different mechanism of action. Thiazide-like 
+diuretics—particularly oral metolazone (2.5–5 mg)—can be used 
+in patients with advanced HF who exhibit diuretic resistance, as 
+part of a sequential nephron blockade approach, or in those 
+with an eGFR <30 mL/min/1.73 m2. This strategy requires care-
+ful monitoring of eGFR and electrolytes. 
+Patients with WHF that progresses to advanced HF are a key 
+population for either outpatient i.v. diuretic treatment, whether 
+in a day hospital or ‘hospital-at-home’ setting, or oral thiazide- 
+like diuretics. Indeed, these patients often experience frequent 
+hospitalizations and spend a substantial amount of time in hos-
+pital (‘frequent flyers’). Such patients require prompt evaluation 
+for advanced HF treatments (see Section 8).  
+ESC Guidelines                                                                                                                                                                                        5393 
+Downloaded from academic.oup.com/eurheartj/article/47/38/5346/8766302 by guest on 22 October 2026
+
+--- Page 49 ---
+Check frequently for hypotension/hypoperfusion. 
+Check serum creatinine and electrolytese at least every 24 h  
+FMT initiation/uptitration
+Start i.v. loop diuretic
+(40 mg furosemide in diuretic naive
+or double daily oral dose in chronic users)a
+Spot uNa+ at 2 h ≥70 mmol/L 
+OR
+Urine output at 6h ≥100 mL/h
+Repeat the diuretic
+regime every 12 h until
+complete decongestionb 
+Double the dose of loop diuretic 
+OR
+Consider adding i.v.
+acetazolamide or eGFR
+based hydrochlorothiazidec
+(in case of  chronic loop diuretic use) 
+Spot uNa+ at 2–6 h ≥70 mmol/L
+OR
+Urine output at 6h ≥100 mL/h
+Progressive escalation of loop diuretics
+up to the maximum i.v. dosed
+AND
+Consider adding other non-loop diuretics
+Consider ultra/f_iltration in case of
+unsuccessful decongestion despite
+maximal diuretic therapy
+Figure 15 Management of decongestion. CKD, chronic kidney disease; eGFR, estimated glomerular filtration rate; FMT, foundational 
+medical therapy; i.v., intravenous; K+, potassium; MRA, mineralocorticoid receptor antagonist; uNa+, urinary sodium. aHigher initial i.v. 
+dose in case of CKD. bAfter 24 h of treatment, total diuresis should be taken into consideration. If diuresis remains <3 l and congestion 
+persists, further diuretic escalation should be considered during the second day of treatment. cAcetazolamide (500 mg i.v. once daily) or 
+hydrochlorothiazide (if eGFR >50 mL/min/1.73 m2: 25 mg daily; eGFR 20–50 mL/min/1.73 m2: 50 mg daily; and eGFR <20 mL/min/ 
+1.73 m2: 100 mg daily). Acetazolamide might be preferable in more advanced CKD. dThe highest daily dose for i.v. loop diuretics is gen-
+erally considered furosemide 600 mg, although up to 1000 mg may be considered in patients with severely impaired kidney function. 
+eConsider MRA and K+ supplements in case of hypokalaemia.   
+5394                                                                                                                                                                                       ESC Guidelines 
+Downloaded from academic.oup.com/eurheartj/article/47/38/5346/8766302 by guest on 22 October 2026
+
+--- Page 50 ---
+7.5.5. Sodium–glucose co-transporter 2 inhibitors 
+Several trials and meta-analyses have confirmed the safety and 
+clinical benefit of in-hospital initiation of an SGLT2-I.492,522–525 
+The EMPULSE trial demonstrated that in-hospital initiation of 
+10 mg empagliflozin resulted in significantly higher chances of 
+clinical benefit, at 90 days.492 In the SOLOIST-WHF trial, initi-
+ation of sotagliflozin in hospital or within 3 days of discharge 
+was safe and effective in patients with HF and diabetes.326 
+Initiation of SGLT2-Is in HF has been shown to be associated 
+with lower diuretic demand and facilitated decongestion even 
+though the long-term ‘diuretic effect’ of SGLT2-Is is un-
+known.514,522–524,526 Thus, early initiation of SGLT2-Is in DHF 
+is recommended both as part of FMT (i.e. prognostic implica-
+tions) and as a tool to enable optimal decongestion (Figure 15). 
+7.5.6. Ultrafiltration 
+Given the available data, the role of ultrafiltration in managing 
+DHF remains uncertain, but it may be considered in selected 
+patients who are responding insufficiently to diuretic 
+escalation.527,528 
+7.5.7. Vasodilators 
+Intravenous vasodilators (i.v. nitroglycerine or nitroprusside) 
+may be effective in patients with DHF, particularly in those 
+with predominant vasoconstriction and volume redistribution. 
+For example, in APO, where increased cardiac filling pressures 
+and elevated systemic blood pressures occur in the absence 
+of, or with minimal, systemic fluid accumulation, vasodilators 
+can reduce pulmonary congestion (Supplementary data online,  
+Section S4.3 and Table S14).529 Importantly, close monitoring 
+of blood pressure is recommended during drug administration, 
+as hypotension related to vasodilatation may be harmful.529,530 
+None of the large-scale RCTs have shown a clear clinical benefit 
+of vasodilatation on hard endpoints.531–533 A meta-analysis of 
+available RCTs has demonstrated that using vasodilators was as-
+sociated with a lower risk of tracheal intubation in DHF with no 
+effect on death or length of hospital stay.534 
+7.5.8. Inotropes/inodilators 
+Inotropic agents may be considered in patients with DHF, sys-
+tolic blood pressure <90 mmHg and evidence of hypoperfusion 
+who do not respond to standard treatment, including fluid chal-
+lenge, to improve perfusion. Due to risks of arrhythmias and 
+myocardial ischaemia, their use is not routinely recommended 
+in patients with DHF and should be cautious.535 A Cochrane 
+analysis found insufficient evidence to establish mortality ben-
+efits of any inotrope in patients with CS or low cardiac out-
+put.536 An RCT found no difference between milrinone and 
+dobutamine.537 For levosimendan, no relevant RCTs in CS 
+are available. Based on the mode of action, levosimendan or 
+phosphodiesterase-III inhibitors may be preferred over dobu-
+tamine for patients on beta-blockers. For more details on the 
+specific inotropic agents, see Supplementary data online,  
+Tables S15 and S16. 
+7.5.9. Vasopressors 
+Vasopressors may be considered in patients with hypotension 
+and DHF. Some studies, although with limitations, support the 
+use of norepinephrine as first choice, compared with dopamine 
+or epinephrine. Dopamine vs norepinephrine was associated 
+with significantly higher rate of arrhythmic events in an RCT 
+including patients with unspecified shock.538 In the CS sub-
+group, a mortality benefit was observed with norepinephrine, 
+although without a significant P-value for interaction. 
+Comparing epinephrine and norepinephrine showed similar ef-
+fects on cardiac index in a small trial of infarct-related CS.539 
+However, this trial was stopped prematurely due to a higher in-
+cidence of refractory shock with epinephrine. Vasopressin has 
+not been studied in CS so far. The target mean blood pressure is 
+not well defined in CS. For more details, see Supplementary 
+data online, Table S16. 
+7.5.10. Opiates 
+Routine use of opiates is not recommended in patients with 
+DHF; Their use should be limited to carefully selected patients 
+with severe anxiety or distress refractory to other treatments 
+and must be approached with caution due to the risk of respira-
+tory failure. 
+Recommendation Table 9 — Recommendations for the im-
+mediate and intermediate treatment of decompensated 
+heart failure (see Evidence Tables 59–67) 
+Recommendations Classa Levelb  
+Oxygen and ventilatory support 
+Oxygen is recommended in patients with SpO2 
+<90% or PaO2 <60 mmHg to correct 
+hypoxaemia. 
+I C 
+Intubation is recommended in patients with 
+DHF and persistent and progressive respiratory 
+failure despite oxygen administration or 
+non-invasive ventilation to correct hypoxaemiac. 
+I C 
+Non-invasive positive pressure ventilation 
+should be considered in patients with 
+respiratory distress (respiratory rate >25  
+breaths/min, SpO2 <90%) and started as soon as 
+possible in order to decrease respiratory distress 
+and reduce the risk of endotracheal 
+intubation.540 
+IIa B2 
+Diuretics 
+Intravenous loop diuretics are recommended for 
+all patients with DHF admitted with fluid 
+overload to improve symptomsd. 
+I A 
+The addition of short-term intravenous 
+acetazolamide or oral hydrochlorothiazide 
+should be considered in patients with fluid 
+overload previously treated with loop diuretics, 
+to reduce congestion.510,511 
+IIa B1 
+Urinary Na+-guided diuretic therapy may be 
+considered during the first days of treatment of 
+patients with DHF to improve natriuresis and 
+diuresis.508 
+IIb B1                                                                                                 
+Continued  
+ESC Guidelines                                                                                                                                                                                        5395 
+Downloaded from academic.oup.com/eurheartj/article/47/38/5346/8766302 by guest on 22 October 2026
+
+--- Page 51 ---
+7.5.11. Temporary mechanical circulatory support 
+Temporary MCS should be considered as an option for stabiliz-
+ing haemodynamics and enhancing end-organ perfusion in high-
+ly selected patients.434,474,543,544 
+Different percutaneous devices operate through distinct 
+mechanisms, delivering diverse haemodynamic support le-
+vels, each associated with specific potential benefits but also 
+possible complications. In addition to single use, multiple com-
+binations are feasible, addressing specific needs for LV un-
+loading or combined left and right ventricular support. 
+Decisions on the modality and type of temporary MCS should 
+be guided by a multidisciplinary Shock Team including a cardi-
+ologist specialized in HF, a cardiothoracic surgeon, an inter-
+ventional cardiologist, and an intensive care specialist, 
+working at an experienced advanced HF centre (i.e. high- 
+volume for temporary MCS).488,545 A recent meta-analysis 
+suggests that temporary MCS are beneficial in highly selected 
+patients with ST-elevation MI complicated by CS who do not 
+have hypoxic brain injury, although rates of severe complica-
+tions remain high.546 
+7.5.11.1. Microaxial flow pumps 
+Microaxial percutaneous flow pumps provide support of up to 
+4 l/min. Newer devices with 5.5 l/min requiring surgical inser-
+tion offer complete LV support. 
+Until recently, the percutaneous device had been investigated 
+in a few RCTs on infarct-related CS and in large-scale 
+propensity-matched studies encompassing more than 100 000 
+patients and consistently showed no survival benefit with higher 
+complication rates such as major bleeding and limb ischae-
+mia.547,548 In the DanGer Shock trial, including 360 highly se-
+lected patients with ST-elevation MI and CS, treatment with 
+microaxial flow pump vs standard of care was associated with 
+lower 180-day death (HR 0.74; 95% CI 0.55–0.99; P = .04), 
+which persisted up to 10-year follow-up.549,550 This trial also 
+showed an increased incidence of bleeding and limb ischaemia 
+compared with controls. Despite the mortality benefit observed 
+in this trial, multiple open questions remain.548,551 
+Utilization of microaxial flow pumps should be considered in 
+highly selected patients with CS caused by ST-elevation MI, 
+who do not have risk of hypoxic brain injury. Routine use of mi-
+croaxial flow pumps in CS is not recommended. RCTs on the ef-
+ficacy of microaxial flow pumps in non-infarct-related CS have 
+yet to be conducted.546 
+7.5.11.2. Venoarterial extracorporeal life support 
+Extracorporeal life support (ECLS) can deliver support of up to 
+6 l/min and provide full respiratory and circulatory support. 
+In the ECLS-SHOCK trial involving patients with severe 
+infarct-related CS, early routine ECLS use showed no significant 
+difference in 30-day all-cause death (relative risk 0.98; 95% CI 
+0.80–1.19).552 These data are in line with an individual patient 
+data meta-analysis of ECLS RCTs in patients with infarct-related 
+CS in which no mortality benefit was observed but more compli-
+cations with ECLS were seen.553 
+Importantly, ECLS may harm the heart itself owing to the after-
+load increase by generation of retrograde blood flow. Active un-
+loading with microaxial flow pumps or intra-aortic balloon pump 
+(IABP) aims to mitigate these adverse effects. A recent RCT com-
+paring routine LV unloading by a transseptal left atrial cannula vs 
+ECLS alone showed no effect on death.554 RCTs investigating the 
+efficacy of ECLS in non-ischaemic CS have yet to be performed. 
+7.5.11.3. Intra-aortic balloon pump 
+Routine use of IABP is not recommended in unselected patients 
+with CS. In the IABP shock trial, 40 patients with post-MI CS 
+were randomised to IABP treatment or standard of care. 
+Treatment with IABP did not significantly augment cardiac out-
+put or any other haemodynamic variable as compared to con-
+trol.555 In a large-scale RCT in infarct-related CS, routine use 
+of IABP did not show a survival benefit compared with medical 
+therapy at 30-day and longer follow-up.556–558 Also, in ad-
+vanced HF CS, IABP had no survival benefit as compared to 
+standard of care.559,560 The decision to use an IABP should 
+therefore be highly individualized, based on patient-specific fac-
+tors and the availability of alternative therapies.559,561–563 
+SGLT2-I 
+In-hospital initiation of SGLT2-I is 
+recommended in patients with DHF after initial 
+stabilization to improve QoL and congestion 
+symptoms and reduce the risk of 
+HFH.492,522,525,541 
+I B1 
+Vasodilators 
+Intravenous vasodilators may be considered as 
+initial therapy in patients with DHF and systolic 
+blood pressure >110 mmHg to improve 
+symptoms and reduce congestion.534 
+IIb C 
+Inotropic agents 
+Inotropic agents may be considered in patients 
+with systolic blood pressure <90 mmHg and 
+evidence of hypoperfusion who do not respond 
+to standard treatment, including fluid challenge, 
+to improve perfusion. 
+IIb C 
+Vasopressors 
+Vasopressors, preferably norepinephrine, may 
+be considered in patients with cardiogenic shock 
+to increase blood pressure and vital organ 
+perfusion. 
+IIb C 
+Opiates 
+Routine use of opiates is not recommended in 
+patients with DHF unless severe/intractable 
+pain or anxiety, due to risk of harm.542 
+III C 
+© ESC 2026
+DHF, decompensated heart failure; HFH, heart failure hospitalization; NIV, 
+non-invasive ventilation; PaCO2, partial pressure of carbon dioxide; PaO2, 
+partial pressure of oxygen; QoL, quality of life; SGLT2-I, sodium–glucose 
+co-transporter 2 inhibitor; SpO2, oxygen saturation. 
+aClass of recommendation. 
+bLevel of evidence. 
+cCriteria for endotracheal intubation in DHF: cardiac or respiratory arrest, 
+progressive worsening of altered mental status, progressive worsening of 
+respiratory failure with hypoxaemia (PaO2 <60 mmHg, PaCO2 >50 mmHg and 
+pH <7.35) despite NIV or intolerance to NIV, persistent haemodynamic 
+instability, need for airway protection.477 
+dThis recommendation is considered by the Task Force to have level of evidence A 
+due to clear clinical benefit. Treatment of DHF with loop diuretics has been widely 
+accepted as effective and therefore no adequately powered randomized clinical 
+trial has ever been conducted or is likely to be conducted for ethical reasons.   
+5396                                                                                                                                                                                       ESC Guidelines 
+Downloaded from academic.oup.com/eurheartj/article/47/38/5346/8766302 by guest on 22 October 2026
+
+--- Page 52 ---
+7.5.12. Thromboembolism prophylaxis 
+Although patients with DHF are recognized as being at in-
+creased thromboembolic risk, no RCT has compared anticoagu-
+lation vs placebo in a DHF population, thus no definitive 
+recommendation can be made.566–570 However, in case of im-
+mobilization or other risk factors, thromboembolic prophylaxis 
+is generally indicated. 
+8. Advanced heart failure 
+8.1. Epidemiology, definition, prognosis, and 
+referral 
+Many patients with HF progress into a phase of advanced HF 
+(stage D), characterized by persistent severe symptoms and ob-
+jective measures of cardiogenic impairment despite optimal 
+therapy. In the Framingham population, 5.1%–7.7% of patients 
+with HF had advanced HF.571 Prognosis in medically treated pa-
+tients with advanced HF remains poor with 1-year mortality 
+>40%.572,573 Criteria for definition are reported in Table 14.572 
+A severely reduced LVEF is common but not required for a 
+diagnosis of advanced HF, as it may develop in patients with 
+HFpEF or other structural abnormalities. 
+Early risk stratification and timely referral to an advanced HF 
+centre are crucial to improve outcomes (Figure 16).574,575 
+Systematic assessment for advanced HF using the ‘Rule of 
+three’ or ‘I NEED HELP’ criteria is essential for timely referral 
+to an advanced HF centre576–578 (Figure 16 and Table 15). 
+Cardiopulmonary exercise testing and right heart catheteriza-
+tion (RHC) are key tools for risk stratification and eligibility as-
+sessment.579–582 
+Women and sociocultural minority groups are less likely to re-
+ceive MCS and heart transplantation for reasons not explained by 
+medical factors or social determinants of health and deserve extra 
+attention for timely referral and patient communication.583–585 
+Recommendation Table 10 — Recommendations for the use 
+of temporary mechanical circulatory support in patients 
+with cardiogenic shock (see Evidence Tables 68 and 69) 
+Recommendations Classa Levelb  
+A multidisciplinary Shock Team is recommended 
+in potential candidates for temporary MCS to 
+guide the device selection (modality and type) 
+based on patient and HF characteristics.564,565 
+I C 
+Cardiogenic shock caused by acute MI 
+Temporary MCS with a microaxial flow pump 
+should be considered in selected patients with 
+cardiogenic shock caused by ST-elevation MI 
+with left ventricular systolic dysfunction and no 
+risk of hypoxic brain injuryc in order to reduce 
+the risk of death.546,549,550 
+IIa B1 
+Temporary MCS is not recommended in 
+unselected patients with cardiogenic shock 
+caused by acute MI, due to risk of 
+harm.546,552,553 
+III B1 
+IABP is not recommended in unselected patients 
+with cardiogenic shock, due to the lack of 
+effect.557,560 
+III B1 
+MI-related mechanical complications 
+Temporary MCSd should be considered in 
+patients with mechanical complications related 
+to MIe as a bridge to definitive treatment. 
+IIa C 
+Advanced HF cardiogenic shock 
+Temporary MCS should be considered in 
+selected patients with HF-related 
+haemodynamic instability as a BTR, BTD, BTB, 
+BTC, or BTT. 
+IIa C 
+© ESC 2026
+BTB, bridge to bridge; BTC, bridge to candidacy; BTD, bridge to decision; BTR, 
+bridge to recovery; BTT, bridge to transplantation; HF, heart failure; IABP, 
+intra-aortic balloon pump; MCS, mechanical circulatory support; MI, myocardial 
+infarction; VA-ECLS, venoarterial extracorporeal life support. 
+aClass of recommendation. 
+bLevel of evidence. 
+cNo risk of hypoxic brain injury was defined as: (i) no out-of-hospital cardiac arrest 
+with persistent Glasgow coma scale <8 after return of spontaneous circulation549; 
+and (ii) no resuscitation or resuscitation lasting <10 min.546 
+dThe choice of passive IABP or active percutaneous MCS should be based on the 
+severity of cardiogenic shock as assessed by the Shock Team. 
+eIn case of large ventricular septal defect, temporary MCS should be used with 
+caution due to the potential increase of left-to-right interventricular shunt 
+(VA-ECLS) or shunt inversion (microaxial flow pump). In case of ventricular 
+free-wall rupture, temporary MCS should be avoided; however, VA-ECLS can 
+be considered to allow emergent cardiac surgery in patients presenting with 
+profound cardiogenic shock and/or cardiac arrest if no sign of irreversible brain 
+injury is present.  
+Table 14 Criteria for definition of advanced heart failure 
+All the following criteria must be present despite FMT, AMT, and 
+GDIT:  
+1. Severe and persistent symptoms of HF (NYHA class III or IV). 
+2. Severe cardiac dysfunction defined by at least one of the 
+following: 
+• LVEF ≤30% 
+• Isolated RV failure (e.g. ARVC) 
+• Non-operable severe valve abnormalities 
+• Non-operable severe congenital abnormalities 
+• Persistently high (or increasing) BNP or NT-proBNP values and 
+severe LV diastolic dysfunction or structural abnormalities (i.e. 
+HFpEF,a hypertrophic or restrictive cardiomyopathies). 
+3. Episodes of pulmonary or systemic congestion requiring high-dose 
+i.v. diuretics (or diuretic combinations) or malignant arrhythmias 
+causing ≥2 unplanned visits or hospitalizations in the last 12 months, 
+or ≥1 episode of low output requiring inotropes or vasoactive drugs. 
+4. Severe impairment of exercise capacity with inability to exercise, 
+or low 6-min walk test distance (<300 m), or pVO2 <12–14 mL/kg/ 
+min,b or <50% predicted value, estimated to be of cardiac origin. 
+© ESC 2026
+AMT, additional medical therapy; ARVC, arrhythmogenic right ventricular 
+cardiomyopathy; BNP, B-type natriuretic peptide; FMT, foundational medical 
+therapy; GDIT, guideline-directed interventional therapy; HF, heart failure; 
+HFpEF, heart failure with preserved ejection fraction; i.v., intravenous; LV, left 
+ventricular; LVEF, left ventricular ejection fraction; NT-proBNP, N-terminal 
+pro-B-type natriuretic peptide; NYHA, New York Heart Association; pVO2, 
+peak oxygen consumption; RV, right ventricular. 
+aSee Table 10. 
+bThe cut-off 12 mL/kg/min refers to patients on beta-blocker.   
+ESC Guidelines                                                                                                                                                                                        5397 
+Downloaded from academic.oup.com/eurheartj/article/47/38/5346/8766302 by guest on 22 October 2026
+
+--- Page 53 ---
+An organizational model between centres with different le-
+vels of care complexity, based on a ‘Hub and Spoke’ network, 
+is key to good patient management. A recent consensus docu-
+ment focuses on identifying and overcoming barriers to early re-
+ferral to an advanced HF centre.574 
+Patients with contraindications to MCS or heart transplant-
+ation should receive palliative care (see Section 11.6.2). 
+Advance care planning should be discussed in all patients with 
+advanced HF regardless of treatment strategy (see Section  
+11). Frailty, malnutrition, cardiac cachexia, and sarcopenia are 
+highly prevalent in patients with advanced HF and are asso-
+ciated with a greater risk of death (see Supplementary data 
+online, Table S17 for detailed definitions).586–589 When evaluat-
+ing frailty in patients with advanced HF, it is important to assess 
+whether frailty is primarily due to the cardiac condition or other 
+factors.590 
+Figure 16 Triage and timely referral of patients with advanced heart failure. AMT, additional medical therapy; FMT, foundational med-
+ical therapy; GDIT, guideline-directed interventional therapy; HF, heart failure; LVAD, left ventricular assist device; NYHA, New York 
+Heart Association; QoL, quality of life. aLimited life expectancy may be due to major comorbidities, such as cancer, dementia, end-stage 
+irreversible organ dysfunction; other conditions that may impair follow-up or worsen post-treatment prognosis include frailty, irrevers-
+ible cognitive dysfunction, psychiatric disorder, or psychosocial issues. bRefer to Table 15 for ‘Rule of three’ or ‘I NEED HELP’ criteria. 
+cA centre performing LVAD implantation and/or heart transplantation.  
+Table 15 Criteria for high risk of advanced heart failure  
+Rule of three criteria (at least 1): 
+• HFH (≥2 or ≥1 requiring inotropes within the last year) 
+• Diuretic resistance 
+• Intolerance to neurohormonal drugs with onset of cardiorenal 
+syndrome 
+I NEED HELP criteria (at least 1): 
+• Inotropes 
+• NYHA class III/IV or persistently high natriuretic peptides 
+• End-organ dysfunction (liver, kidney) 
+• EF <20% or poor RV function 
+• Defibrillator shocks 
+• HFH >1 
+• Escalating diuretics 
+• Low blood pressure, high heart rate 
+• Prognostic medication intolerance or the need to downtitrate 
+© ESC 2026
+EF, ejection fraction; HFH, heart failure hospitalization; NYHA, New York 
+Heart Association; RV, right ventricular.  
+Recommendation Table 11 — Recommendations for diag-
+nosis and evaluation of advanced heart failure (see  
+Evidence Tables 70 and 71) 
+Recommendations Classa Levelb  
+Early consultation with an advanced HF centrec 
+is recommended in patients with advanced HF 
+or at risk of advanced HF, who are motivated 
+and do not have absolute contraindications for 
+heart transplantation or durable MCSd, in order 
+to evaluate candidacy.e 573,591 
+I A 
+Cardiopulmonary exercise testing is 
+recommended in patients with advanced HF, as 
+part of the evaluation for heart transplantation 
+and durable MCS.579,580,582 
+I C                                                                                                 
+Continued  
+5398                                                                                                                                                                                       ESC Guidelines 
+Downloaded from academic.oup.com/eurheartj/article/47/38/5346/8766302 by guest on 22 October 2026
+
+--- Page 54 ---
+8.2. Management 
+The indication and timing of advanced HF treatments are 
+guided by patient goals, comorbidities, and clinical status. 
+Pharmacological therapy and temporary MCS may be indicated 
+until implantation of durable MCS or heart transplantation be-
+comes available.543 
+The SCAI classification may be useful in identifying patients 
+for temporary MCS as a possible bridge to advanced therapies 
+(Table 13). The Interagency Registry for Mechanically Assisted 
+Circulatory Support (INTERMACS) profiles592 describe clinical 
+parameters and characteristics consistent with a need for ad-
+vanced therapies (Figures 17 and 18). 
+8.2.1. Pharmacological therapy and kidney replacement 
+therapy 
+Every effort should be made to reach target doses of FMT in all 
+patients with HF. However, patients with advanced HF are 
+under-represented in RCTs. Most patients with advanced HF 
+reach a stage where dose reduction or cessation of neurohor-
+monal therapy is necessary due to progressive intolerance. 
+Although evidence is lacking, it is reasonable to perform indivi-
+dualized changes in FMT, and AMT if needed, on a patient- 
+tailored basis. For example, in a patient with hypotension and 
+high arrhythmic burden, the ACE-I dose can be reduced so 
+that treatment with beta-blockers can be prioritized. However, 
+in a patient with hypoperfusion and persistently low stroke vol-
+ume despite therapy, reduction or cessation of beta-blockers 
+may be the first step to maintaining cardiac output. In these 
+cases, amiodarone may be better tolerated than beta-blockers 
+when arrhythmias occur. Most importantly, any of these down- 
+titrations should prompt contact with, or referral to, an ad-
+vanced HF centre if there are no absolute contraindications 
+for MCS or heart transplantation. AMT implementation should 
+not delay early referral to advanced HF therapies. 
+In patients with signs of hypoperfusion, inotropes may im-
+prove haemodynamic parameters, augmenting cardiac output 
+and aiding peripheral perfusion. They may also reduce conges-
+tion when the response to diuretic therapy is insufficient. 
+Inotropic therapy is often used to assess reversibility of 
+end-organ dysfunction in the screening phase for durable 
+MCS or heart transplantation, or to maintain cardiac output until 
+such therapies become available (see Supplementary data 
+online, Table S18). Inotropes can be used as palliative therapy 
+for the relief of symptoms in patients without other treatment 
+options (see Supplementary data online, Figure S2).594 
+However, because inotropic therapy may exacerbate or in-
+duce myocardial ischaemia and/or tachyarrhythmias, it should 
+only be used in the lowest required dose and for as short a per-
+iod as possible.595,596 
+Kidney dysfunction and loop diuretic resistance often charac-
+terize the clinical course of patients with advanced HF. 
+Doubling the loop diuretic dose or concomitant administration 
+of non-loop diuretics is indicated.265 However, in patients who 
+fail to respond to diuretic-based strategies, kidney replacement 
+therapies should be considered. Ultrafiltration and peritoneal dia-
+lysis are the most common approaches. It may be considered in 
+those with diuretic resistance to treat volume overload, even if 
+data about its effects on clinical outcomes are inconclusive.527,597 
+8.2.2. Mechanical circulatory support 
+Mechanical circulatory support can improve survival and 
+symptoms of patients with advanced HF. The use of MCS 
+should be considered for the different scenarios listed in  
+Supplementary data online, Table S19. Indications for tempor-
+ary and durable MCS should be based on the SCAI classifica-
+tion (Table 13, Section 7) and INTERMACS profiles 
+(Figures 17 and 18). 
+8.2.2.1. Temporary mechanical circulatory support 
+Temporary MCS devices are indicated in selected patients to re-
+verse critical end-organ hypoperfusion and hypoxia in the set-
+ting of CS (see Section 7). The aim is to support cerebral and 
+end-organ perfusion, reverse acidosis and multiorgan failure,  
+Right heart catheterization is recommended in 
+patients with advanced HF, as part of the 
+evaluation for heart transplantation and durable 
+MCS.580–582 
+I C 
+© ESC 2026
+HF, heart failure; LVAD, left ventricular assist device; MCS, mechanical circulatory 
+support. 
+aClass of recommendation. 
+bLevel of evidence. 
+cA centre performing LVAD implantation and/or heart transplantation. 
+dEligibility criteria are reported in Tables 16 and 17. 
+eThis recommendation is considered by the Task Force to have level of evidence A 
+due to clear clinical effectiveness.  
+Recommendation Table 12 — Recommendations for medic-
+al management of advanced heart failure (see Evidence 
+Tables 72 and 73) 
+Recommendations Classa Levelb  
+Down-titration or discontinuation of 
+beta-blockers or ivabradine should be 
+considered in selected patients with advanced 
+HFrEF and evidence of organ hypoperfusion, 
+despite initial treatment, to increase cardiac 
+output and improve symptoms. 
+IIa C 
+Continuous inotropes should be considered in 
+patients with advanced HFrEF, low cardiac 
+output, and evidence of hypoperfusion or 
+end-organ dysfunction, as BTD, BTT or as bridge 
+to durable MCS, to increase cardiac output and 
+improve symptoms.598,599 
+IIa C 
+Kidney replacement therapy should be 
+considered in patients with refractory volume 
+overload and end-stage kidney failure to 
+improve symptoms.600 
+IIa C 
+Ultrafiltration may be considered in patients 
+with refractory volume overload unresponsive 
+to escalation of diuretic therapy to reduce the 
+risk of rehospitalization.601 
+IIb C 
+© ESC 2026
+BTD, bridge to decision; BTT, bridge to transplantation; HFrEF, heart failure with 
+reduced ejection fraction; MCS, mechanical circulatory support. 
+aClass of recommendation. 
+bLevel of evidence.   
+ESC Guidelines                                                                                                                                                                                        5399 
+Downloaded from academic.oup.com/eurheartj/article/47/38/5346/8766302 by guest on 22 October 2026
+
+--- Page 55 ---
+and provide support until the patient’s trajectory clarifies, 
+whether towards myocardial recovery, transition to durable 
+MCS or heart transplantation, or a palliative pathway. The care 
+of patients on temporary MCS is complex and requires specia-
+lized expertise, including predefined strategies for withdrawal 
+of support when there is no meaningful neurological and cardiac 
+recovery. Temporary MCS should be considered in patients with 
+INTERMACS profiles 1 or 2 as a bridge to decision, bridge to re-
+covery, or bridge to either durable MCS or urgent heart trans-
+plantation (Figure 18). 
+8.2.2.2. Durable mechanical circulatory support 
+Durable MCS is indicated to prolong life and improve QoL in se-
+lected patients when FMT, and GDIT are insufficient or when tem-
+porary MCS has not led to cardiac recovery or clinical 
+improvement (Table 16).602,603 Left ventricular assist device is by 
+far the most common and reliable type of durable MCS; however, 
+in cases with biventricular failure or special anatomical situations, a 
+total artificial heart or implantable biventricular assist device is oc-
+casionally used.582 Management of patients who are possible can-
+didates for LVAD or heart transplantation is outlined in Figure 18. 
+Figure 17 INTERMACS classification. ADLs, activities of daily living; CPET, cardiopulmonary exercise testing; HF, heart failure; i.v., intra-
+venous; MCS, mechanical circulatory support; NYHA, New York Heart Association. The INTERMACS classification supports risk strati-
+fication and guides the timing of durable MCS or heart transplantation in patients with advanced HF.593 Supplementary data online,  
+Table S18 provides a definition for inotrope dependence.   
+5400                                                                                                                                                                                       ESC Guidelines 
+Downloaded from academic.oup.com/eurheartj/article/47/38/5346/8766302 by guest on 22 October 2026
+
+--- Page 56 ---
+Current 2-year survival rates in patients receiving the latest 
+LVAD types are comparable to those after heart transplantation. 
+Among patients with fully magnetically levitated continuous-flow 
+LVADs, 2-year and 5-year survival rates were 79% and 58.4%, re-
+spectively, in the MOMENTUM 3 trial with a previous LVAD type 
+as the control group.604,605 These rates are considerably higher 
+than could be expected from medical treatment in this population 
+with >85% of patients in INTERMACS 1–3 at the time of LVAD 
+implantation.604,605 Comparable outcomes were described in 
+European and North American real-world populations.606–608 
+Adverse events may negatively affect QoL in patients receiv-
+ing LVAD. Although pump thrombosis has become extremely 
+rare, driveline infections remain similar to that with older de-
+vices.609 Right HF and arrhythmias may cause readmissions. 
+Bleeding events can be minimized by avoiding antiplatelet ther-
+apy in addition to anticoagulation.610 A guidance document is 
+available to support non-LVAD specialist healthcare providers 
+outside of the implanting centre.609 
+Although now dated, the REMATCH trial is the only RCT com-
+paring an LVAD as destination therapy with optimal medical 
+Figure 18 Treatment for advanced heart failure. ARVC, arrhythmogenic right ventricular cardiomyopathy; BTC, bridge to candidacy; 
+BTR, bridge to recovery; BTT, bridge to transplantation; CA, cardiac amyloidosis; CMP, cardiomyopathy; DT, destination therapy; 
+ESC, European Society of Cardiology; HCM, hypertrophic cardiomyopathy; HF, heart failure; HFA, Heart Failure Association; 
+INTERMACS, Interagency Registry for Mechanically Assisted Circulatory Support; LVAD, left ventricular assist device; MCS, mechanical 
+circulatory support. The figure depicts a guidance for advanced HF treatment based on clinical profile. Colour code for classes of rec-
+ommendation: green for Class of recommendation I and yellow for Class of recommendation IIa. This algorithm can be applied to all 
+patients with advanced HF defined according to the ESC/HFA criteria, with exception of arrhythmic storm, and refractory angina. 
+HCM, CA, other restrictive CMP, ARVC, and adult congenital heart disease are other exceptions. aTo be discussed with the Shock 
+Team. bRecurrent hospitalization, progressive end-organ failure, refractory congestion, inability to perform cardiopulmonary exercise 
+test or peak oxygen consumption <12–14 mL/kg/min or <50% of expected value (see Table 16).   
+ESC Guidelines                                                                                                                                                                                        5401 
+Downloaded from academic.oup.com/eurheartj/article/47/38/5346/8766302 by guest on 22 October 2026
+
+--- Page 57 ---
+therapy in patients with advanced HF. REMATCH showed lower 
+all-cause death with a previous type of LVAD therapy (HeartMate 
+XVE) compared with medical treatment. However, mortality rates 
+at 2 years were high in both arms.611 Other studies have not been 
+randomized or compared different devices or post-implant strat-
+egies.604,606,607,610,612,613 Prospective RCTs have been initiated 
+to study strategies of early LVAD implantation vs prolonged med-
+ical treatment: Early-VAD (NCT02387112),614 SweVAD,615 
+AMBU-VAD (NCT04768322), and TEAM-HF (NCT06526195). 
+Histological examination of heart tissue after LVAD implant-
+ation or transplantation can identify potentially treatable or gen-
+etic causes of HF and is valuable for family screening and 
+determining potential for myocardial recovery in LVAD 
+patients.616–619 
+8.2.3. Heart transplantation 
+Heart transplantation, although never evaluated in RCTs, re-
+mains the gold-standard treatment for advanced HF in the ab-
+sence of contraindications. Post-transplant 1-year survival is 
+80%–90% and median survival is around 12.5 years.622,623 
+Transplantation significantly improves QoL and functional sta-
+tus. The main challenge after heart transplantation is the balance 
+between efficacy and side effects of immunosuppression. Organ 
+donor shortage remains the main limitation. Several countries 
+have now started donation after circulatory death programmes, 
+besides donation after brain death, with comparable mid-term 
+results624,625 and, as a result, the numbers of heart transplanta-
+tions have increased. Nevertheless, careful recipient selection 
+remains essential, based on pre-transplant and post-transplant 
+life expectancy (both influenced by pre-operative status and co-
+morbidities). The main indications and contraindications for 
+heart transplantation are listed in Table 17.580 
+Although patients younger than 65 years of age might 
+be more appropriate candidates due to their overall life expect-
+ancy, most programmes accept patients up to 70 years of age, 
+and biological age as well as chronological age must be taken 
+into account. Surgical complexity [previous sternotomies, medi-
+astinal radiation, adult congenital heart disease (ACHD)] should 
+also be considered. The decision pathway to transplantation or 
+LVAD is rarely straightforward and is unique to each patient. 
+Recommendation Table 13 — Recommendations for dur-
+able mechanical circulatory support in advanced heart fail-
+ure (see Evidence Table 74) 
+Recommendations Classa Levelb  
+Durable MCS (LVAD) is recommended in 
+selectedc patients with advanced HFrEF, despite 
+FMT and GDIT, as BTT, BTC, BTR, or as 
+destination therapy to improve symptoms and 
+reduce the risk of death.604,611,613,620,621 
+I C 
+Histopathological examination of explanted 
+heart tissue from LVAD or heart transplantation 
+surgery should be considered in patients with 
+non-ischaemic HF to identify an aetiological 
+diagnosis that may be treatable or facilitate 
+family screening.616,618 
+IIa C 
+© ESC 2026
+BTC, bridge to candidacy; BTR, bridge to recovery; BTT, bridge to transplantation; 
+FMT, foundational medical therapy; GDIT, guideline-directed interventional 
+therapy; HF, heart failure; HFrEF, heart failure with reduced ejection fraction; 
+LVAD, left ventricular assist device; MCS, mechanical circulatory support. 
+aClass of recommendation. 
+bLevel of evidence. 
+cEligibility criteria are reported in Table 16.  
+Table 16 Indications and contraindications for implant-
+ation of a left ventricular assist device 
+Indicationsa  
+HF with severely reduced LVEF and one of the following: 
+• INTERMACS 1–2 with neurological and other end-organ recovery 
+but no cardiac recovery on temporary MCS 
+OR 
+• INTERMACS 2–4 
+OR 
+• Severe symptoms and signs (NYHA class III/IV; INTERMACS >4) 
+despite optimal FMT and GDIT, and at least one of the following: 
+⚬ Unable to exercise due to HF or, if able to perform CPET, with 
+pVO2 <12–14 mL/kg/min and/or <50% predicted value. 
+⚬ End-organ dysfunction (worsening kidney and/or hepatic 
+function, group 2 pulmonary hypertension, cardiac cachexia) 
+due to reduced perfusion as indicated by cardiac index  ≤2 L/ 
+min/m2 despite euvolaemic or therapy-resistant hypervolaemic 
+status. 
+⚬ Repeated HFH within the previous 12 months without an 
+obvious precipitating cause. 
+Contraindications 
+Absolute: 
+• Severe right ventricular dysfunction despite euvolaemic status 
+• Severe irreversible end-organ (kidney and/or liver) disease 
+• Severe irreversible neurological disease 
+• Severe pulmonary disease 
+• Contraindication to long-term oral anticoagulation 
+• Medical non-adherence and/or other psychosocial limitations 
+• Insufficient social supports to achieve compliant care in the 
+outpatient setting 
+• Psychological instability that jeopardizes proper follow-up and 
+intensive therapeutic regime after implantation 
+Relative: 
+• Obesity or malnutrition 
+• Musculoskeletal disease that impairs rehabilitation 
+• Malignancy (depending on type and prognosis) 
+• Severe peripheral arterial disease 
+• Systemic infection 
+• Alcohol or substance abuse within the past 6 months, or active 
+smoking 
+• Impaired cognitive function 
+• Frailty 
+© ESC 2026
+CPET, cardiopulmonary exercise testing; HF, heart failure; HFH, heart failure 
+hospitalization; INTERMACS, Interagency Registry for Mechanically Assisted 
+Circulatory Support; LVEF, left ventricular ejection fraction; MCS, mechanical 
+circulatory support; NYHA, New York Heart Association; pVO2, peak oxygen 
+consumption; RHC, right heart catheterization. 
+aIndication by transplantation centre includes assessment of HF severity by RHC 
+and/or CPET.   
+5402                                                                                                                                                                                       ESC Guidelines 
+Downloaded from academic.oup.com/eurheartj/article/47/38/5346/8766302 by guest on 22 October 2026
+
+--- Page 58 ---
+Eligibility for each option may change according to the specific 
+conditions of each patient, which may also change over time. 
+Some younger patients prefer to remain on LVAD for a pro-
+longed period, rather than proceeding to transplantation imme-
+diately, to increase the potential number of life years gained. 
+Other factors not related to the patient, such as average time 
+on the heart transplantation waiting list, the centre’s surgical ex-
+perience, and resources, can also influence decision-making. 
+8.2.4. Symptom control and end-of-life care 
+Advance care planning is recommended in parallel to advanced 
+HF treatments to determine goals of care and improve QoL 
+along the disease trajectory.627 For indications and the core 
+components of end-of-life care, see Supplementary data 
+online, Table S20. 
+End-of-life care in advanced HF focuses on symptom manage-
+ment (including breathlessness, pain, and anxiety and depression), 
+patient comfort, and maintaining QoL ensuring personalized, com-
+passionate care. It involves clear communication, shared decision- 
+making, and integrating palliative or hospice care to support both 
+the patient and their family. For further details on symptom man-
+agement, see Supplementary data online, Section S5.2.3. 
+Patients on durable MCS may request withdrawal of life- 
+sustaining treatments because these are no longer consistent 
+with their goals of care, because of poor QoL or newly devel-
+oped serious comorbidities such as cancer. The MCS may be de-
+activated after careful evaluation of the patient’s wish and by, or 
+under the supervision of, a specialized team. This decision has to 
+take national laws into account. For details regarding follow-up 
+in patients with advanced HF see section 11.6.2 and  
+Recommendation Table 26. 
+9. Cardiovascular comorbidities 
+9.1. Arrhythmias and conduction disturbances 
+9.1.1. Atrial fibrillation 
+Heart failure and AF frequently coexist, with AF occurring in 
+more than half of patients with HF, and HF occurring in more 
+than one-third of patients with AF. The prevalence of AF is slight-
+ly higher in patients with HFpEF compared with HFrEF.195,628–631 
+The two conditions are deeply interrelated with shared risk fac-
+tors and pathophysiological mechanisms. The coexistence of 
+HF and AF is associated with a high risk of death, HFH, and stroke 
+regardless of LVEF.195,628–631 HF induced by AF appears to have 
+a more favourable outcome than HF causing AF.13,632 
+The management of patients with HF and AF include identifi-
+cation of triggers, prevention of embolic events, management of 
+HF, and rate or rhythm control of AF. 
+9.1.1.1. Identification of triggers and risk factor 
+management 
+Precipitating factors for AF – e.g. hyperthyroidism, toxic agents 
+(e.g. including alcohol), valvular heart diseases, infection, dia-
+betes, uncontrolled hypertension, obesity, sleep disorders, and 
+volume overload – should be routinely identified and appropri-
+ately managed. Diuretic therapy is indicated to relieve conges-
+tion and may increase the chances of restoring sinus rhythm 
+by reducing filling pressures and ventricular rate. 
+9.1.1.2. Prevention of embolic events 
+Oral anticoagulation is recommended in patients with HF and 
+AF to reduce the risk of thromboembolism, according to the 
+CHA2DS2-VA score (Table 18).118,633–635 However, patients 
+with HCM and CA are at higher risk of thromboembolism 
+irrespective of CHA2DS2-VA score, and anticoagulation is 
+recommended for all these patients with AF.636–642 In the ab-
+sence of mechanical prosthetic heart valves and/or moderate  
+Table 17 Indications and contraindications for heart 
+transplantation  
+Indicationsa 
+Advanced HF and no other therapeutic option (except for durable 
+MCS as BTT) 
+Absolute contraindications 
+Inability to comply with the therapeutic regimen (e.g. dementia) 
+Serious comorbidities with poor prognosis, not reversible with heart 
+transplantation 
+Other contraindications 
+Active infectionb 
+Severe peripheral arterial or cerebrovascular disease 
+Elevated pulmonary vascular resistance (if pharmacologically 
+irreversible)c 
+Cancerd 
+Irreversible liver dysfunction (cirrhosis) or irreversible kidney 
+dysfunctione 
+Systemic disease with multiorgan involvement 
+BMI >35 kg/m2 or severe cachexia 
+Alcohol or substance abuse or active smoking within the past 6 
+months 
+Psychological instability 
+Insufficient social support to achieve compliant care in the 
+outpatient setting 
+© ESC 2026
+BMI, body mass index; BTT, bridge to transplantation; CPET, cardiopulmonary 
+exercise testing; HF, heart failure; LVAD, left ventricular assist device; MCS, 
+mechanical circulatory support; RHC, right heart catheterization. 
+aIndication by heart transplantation centre includes assessment of HF severity by 
+RHC and/or CPET. 
+bActive infection is a relative contraindication to transplantation, but infected 
+LVAD may be an indication. 
+cLVAD as bridge to candidacy should be considered. 
+dHighly selected cases may be eligible, to be discussed with an oncologist. 
+eCombined heart–liver or heart–kidney transplantation may be considered.  
+Recommendation Table 14 — Recommendations for heart 
+transplantation (see Evidence Tables 75 and 76) 
+Recommendation Classa Levelb  
+Heart transplantation is recommended in 
+selectedc patients with advanced HF refractory 
+to FMT and GDIT, and without 
+contraindications, to improve QoL and 
+survival.622,626 
+I C 
+© ESC 2026
+FMT, foundational medical therapy; GDIT, guideline-directed interventional 
+therapy; HF, heart failure; QoL, quality of life. 
+aClass of recommendation. 
+bLevel of evidence. 
+cEligibility criteria are reported in Table 17.   
+ESC Guidelines                                                                                                                                                                                        5403 
+Downloaded from academic.oup.com/eurheartj/article/47/38/5346/8766302 by guest on 22 October 2026

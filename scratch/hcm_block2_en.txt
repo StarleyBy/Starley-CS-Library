@@ -1,0 +1,234 @@
+<details class="med-details"><summary>
+
+## 6. Diagnosis, Initial Evaluation, and Follow-Up</summary><div class="details-content">
+
+### 6.1 Clinical Diagnosis and Initial Evaluation
+The clinical diagnosis of hypertrophic cardiomyopathy (HCM) is established by identifying unexplained left ventricular hypertrophy (LVH) with cardiac imaging:
+* **Diagnostic Thresholds:**
+  - In adults: Maximal end-diastolic wall thickness **$\ge 15\text{ mm}$** in any myocardial segment (or **$\ge 13\text{ mm}$** in the presence of a confirmed family history of HCM or a verified pathogenic/likely pathogenic sarcomeric variant) in the absence of secondary causes of hypertrophy.
+  - In children: LV wall thickness **$z\text{-score} \ge 2.0$** (or $> 2.5$ standard deviations above body surface area-adjusted mean).
+* **Physical Examination:** A harsh, crescendo-decrescendo systolic murmur at the left sternal border that characteristically **accentuates** with maneuvers decreasing LV preload or afterload (Valsalva strain phase, abrupt standing) and **attenuates** with maneuvers increasing preload or afterload (passive leg raise, squatting, handgrip).
+
+
+
+### Recommendation Table 3 — Recommendation for Clinical Diagnosis
+
+**Clinical Diagnosis**
+
+| Recommendations | Class | Level |
+|---|:---:|:---:|
+| In patients with suspected HCM, comprehensive physical examination and complete medical and 3-generation family history is recommended as part of the initial diagnostic assessment (Tables 6 and 7). | **I** | **B-NR** |
+
+
+#### Table 6: Clinical Features in Patients With HCM Phenocopies (Mimics)
+
+| Typical Presentation Age | Systemic Features | Possible Etiology | Diagnostic Approach |
+|---|---|---|---|
+| Infants (0-12 mo) and toddlers | Dysmorphic features, failure to thrive, metabolic acidosis | RASopathies Glycogen storage diseases, other metabolic or mitochondrial diseases Infant of a mother with diabetes | Geneticist assessment Newborn metabolic screening Specific metabolic assays Genetic testing |
+| Early childhood | Delayed or abnormal cognitive development, visual or hearing impairment | RASopathies Mitochondrial diseases | Biochemical screening Genetic testing |
+| Youth and adolescence | Skeletal muscle weakness or movement disorder | Friedreich's ataxia Danon disease Mitochondrial disease | Biochemical screening Neuromuscular assessment Genetic testing |
+| Adulthood | Movement disorder, peripheral neuropathy, renal dysfunction | Anderson-Fabry disease Friedreich's ataxia Infiltrative disorders (eg, amyloidosis) Glycogen storage diseases Mitochondrial disease | Biochemical screening Neuromuscular assessment Genetic testing |
+
+
+### 6.2 Echocardiography
+Transthoracic echocardiography (TTE) is the primary first-line imaging modality for diagnosis, hemodynamic characterization, and longitudinal follow-up:
+* **Comprehensive Baseline TTE:** Recommended for all patients with suspected or confirmed HCM (Class 1, Level of Evidence B-NR). Essential elements include:
+  - Accurate measurement of maximal LV wall thickness across all segments from base to apex;
+  - Evaluation of systolic anterior motion (SAM) of the mitral valve;
+  - Quantification of resting and provoked left ventricular outflow tract (LVOT) gradients using continuous-wave Doppler;
+  - Assessment of mitral regurgitation severity and jet direction (posterolaterally directed secondary MR vs central/anterior organic MR);
+  - Determination of left atrial volume index ($> 34\text{ mL/m}^2$) and LV diastolic filling parameters;
+  - Identification of right ventricular hypertrophy, apical pouching, or apical aneurysm.
+* **Provocative Maneuvers for Latent Obstruction:** If the resting LVOT gradient is $< 50\text{ mm Hg}$, physiological provocation (Valsalva maneuver in sitting and standing positions) should be performed routinely. In symptomatic patients with gradients $< 50\text{ mm Hg}$ despite bedside maneuvers, **exercise stress echocardiography** is strongly recommended (Class 1, Level B-NR). Pharmacological provocation with dobutamine is not recommended because of non-physiological inotropic and chronotropic responses.
+* **Periodic Surveillance TTE:** Recommended every **1 to 2 years** in clinically stable patients, and promptly upon any change in clinical status or new cardiovascular symptoms (Class 1, Level B-NR).
+
+
+
+### Recommendation Table 4 — Recommendations for Echocardiography
+
+**Echocardiography in HCM**
+
+| Recommendations | Class | Level |
+|---|:---:|:---:|
+| In patients with suspected HCM, a transthoracic echocardiogram (TTE) is recommended in the initial evaluation. | **I** | **B-NR** |
+| In patients with HCM who have no change in clinical status or events, repeat TTE is recommended every 1 to 2 years to assess the degree of myocardial hypertrophy, dynamic LVOTO, MR, and myocardial function (Figure 1). | **I** | **B-NR** |
+| For patients with HCM who experience a change in clinical status or a new clinical event, repeat TTE is recommended. | **I** | **B-NR** |
+| For patients with HCM and resting peak LVOT gradient <50 mm Hg, a TTE with provocative maneuvers is recommended. | **I** | **B-NR** |
+| For symptomatic patients with HCM who do not have a resting or provocable outflow tract peak gradient ≥50 mm Hg on TTE, exercise TTE is recommended for the detection and quantification of dynamic LVOTO. | **I** | **B-NR** |
+| For patients with HCM who are undergoing surgical septal myectomy, intraoperative transesophageal echocardiogram (TEE) is recommended to assess mitral valve anatomy and function and adequacy of septal myectomy. | **I** | **B-NR** |
+| For patients with HCM who are undergoing alcohol septal ablation, TTE or intraoperative TEE with intracoronary ultrasound-enhancing contrast injection of the candidate's septal perforator(s) is recommended. | **I** | **B-NR** |
+| For patients with HCM who have undergone SRT, TTE within 3 to 6 months after the procedure is recommended to evaluate the procedural results. | **I** | **B-NR** |
+| Screening: In first-degree relatives of patients with HCM, a TTE is recommended as part of initial family screening and periodic follow-up (Figure 1, Table 7). | **I** | **B-NR** |
+| Screening: In individuals who are genotype-positive, phenotype-negative, echocardiography is recommended at periodic intervals depending on age (1-2 years in children and adolescents, 3-5 years in adults) and change in clinical status (Figure 1, Table 7). | **I** | **B-NR** |
+| For patients with HCM, TEE can be useful if TTE is inconclusive in clinical decision-making regarding medical therapy, and in situations such as planning for myectomy, exclusion of subaortic membrane or MR secondary to structural abnormalities of the mitral valve apparatus, or in the assessment of the feasibility of alcohol septal ablation. | **IIa** | **C-LD** |
+| For patients with HCM in whom the diagnosis of apical HCM, apical aneurysm, or atypical patterns of hypertrophy is inconclusive on TTE, the use of an intravenous ultrasound-enhancing agent is reasonable, particularly if other imaging modalities such as CMR are not readily available or are contraindicated. | **IIa** | **B-NR** |
+| For asymptomatic patients with HCM who do not have a resting or provocable outflow tract peak gradient ≥50 mm Hg on standard TTE, exercise TTE is reasonable for the detection and quantification of dynamic LVOTO. | **IIa** | **C-LD** |
+
+
+### 6.3 Cardiovascular Magnetic Resonance (CMR) Imaging
+CMR imaging has emerged as an indispensable cornerstone for definitive diagnosis, phenotypic characterization, and risk stratification in HCM:
+* **Indications for Baseline CMR:** Recommended in all patients with HCM when available (Class 1, Level of Evidence B-NR). CMR provides superior spatial and contrast resolution, particularly in segments poorly visualized by echocardiography (anterolateral free wall, apex, posterior septum).
+* **Late Gadolinium Enhancement (LGE):** Quantifying myocardial fibrosis using LGE is a critical determinant of arrhythmic risk:
+  - Extensive LGE involving **$\ge 15\%$** of total LV mass is an established major risk factor for sudden cardiac death (SCD) and supports primary prevention ICD implantation.
+  - Patchy mid-wall LGE located at the junctions of the interventricular septum and right ventricular free wall is the classic hallmark of sarcomeric HCM.
+* **Apical Aneurysm Detection:** CMR has substantially higher sensitivity than echocardiography for detecting small-to-medium **left ventricular apical aneurysms**, which confer high risks of both thromboembolism and monomorphic ventricular tachycardia.
+* **Differentiating Phenocopies:** CMR tissue characterization (T1/T2 mapping, extracellular volume fraction [ECV]) is invaluable for distinguishing HCM from cardiac amyloidosis (diffuse subendocardial LGE, markedly elevated ECV), Fabry disease (low native myocardial T1, inferolateral basal LGE), and athlete's heart (homogeneous physiologic remodeling without LGE).
+
+
+
+### Recommendation Table 5 — Recommendations for CMR Imaging
+
+**CMR Imaging in HCM**
+
+| Recommendations | Class | Level |
+|---|:---:|:---:|
+| For patients suspected of having HCM in whom echocardiography is inconclusive, CMR imaging is indicated for diagnostic clarification. | **I** | **B-NR** |
+| For patients with LVH in whom there is a suspicion of alternative diagnoses, including infiltrative or storage disease as well as athlete's heart, CMR imaging is useful (Figure 1). | **I** | **B-NR** |
+| For patients with HCM who are not otherwise identified as high risk for SCD, or in whom a decision to proceed with ICD remains uncertain after clinical assessment that includes personal or family history, echocardiography, and ambulatory electrocardiographic monitoring, CMR imaging is beneficial to assess for maximum LV wall thickness, EF, LV apical aneurysm, and extent of myocardial replacement fibrosis with late gadolinium enhancement (LGE). | **I** | **B-NR** |
+| For patients with obstructive HCM in whom the anatomic mechanism of obstruction is inconclusive on echocardiography, CMR imaging is indicated to inform the selection and planning of SRT. | **I** | **B-NR** |
+| For patients with HCM, repeat contrast-enhanced CMR imaging on a periodic basis (every 3-5 years) for the purpose of SCD risk stratification may be considered to evaluate changes in LGE and other morphologic changes, including EF, development of apical aneurysm, or LV wall thickness (Figure 1, Table 8). | **IIb** | **C-EO** |
+
+
+### 6.4 Cardiac Computed Tomography (CT)
+* In patients with confirmed or suspected HCM who have inadequate acoustic windows on echocardiography and absolute contraindications to CMR (e.g., non-conditional metallic implants, severe claustrophobia), **cardiac CT** is reasonable for anatomical evaluation of wall thickness, cavity geometry, and apical aneurysm identification (Class 2a, Level of Evidence B-NR).
+* Cardiac CT angiography is also valuable for evaluating coronary artery anatomy and septal perforator branches prior to invasive septal reduction therapies.
+
+
+
+### Recommendation Table 7 — Recommendation for Cardiac CT
+
+**Cardiac CT in HCM**
+
+| Recommendations | Class | Level |
+|---|:---:|:---:|
+| In adult patients with suspected HCM, cardiac CT may be considered for diagnosis if the echocardiogram is not diagnostic and CMR imaging is unavailable. | **IIb** | **C-LD** |
+
+
+### 6.5 Heart Rhythm Assessment
+Cardiac arrhythmias are major determinants of morbidity and mortality in HCM:
+* **Ambulatory ECG Monitoring:** Continuous 24- to 48-hour ambulatory Holter monitoring is recommended at baseline evaluation for all patients with HCM to screen for asymptomatic non-sustained ventricular tachycardia (NSVT) and subclinical atrial fibrillation (Class 1, Level of Evidence B-NR).
+* **Extended Rhythm Monitoring in High-Risk Patients:** In patients with clinical risk factors for atrial fibrillation (left atrial enlargement, age $\ge 65$, elevated filling pressures) or validated high AF risk scores who are eligible for anticoagulation, **extended ambulatory patch monitoring** (1 to 2 weeks) is recommended as part of initial evaluation and annual follow-up (Class 1, Level B-NR).
+* **Symptom-Driven Monitoring:** In patients experiencing recurrent palpitations, presyncope, or unexplained lightheadedness, extended monitoring with patch monitors, external event recorders, or implantable loop recorders (ILRs) is indicated.
+
+
+
+### Recommendation Table 6 — Recommendations for Heart Rhythm Assessment
+
+**Heart Rhythm Assessment**
+
+| Recommendations | Class | Level |
+|---|:---:|:---:|
+| In patients with HCM, a 12-lead ECG is recommended in the initial evaluation and as part of periodic follow-up (every 1-2 years) (Figure 1, Table 7). | **I** | **B-NR** |
+| In patients with HCM, 24- to 48-hour ambulatory electrocardiographic monitoring is recommended in the initial evaluation and as part of periodic follow-up (every 1-2 years) to identify patients who are at risk for SCD and to guide management of arrhythmias (Figure 1). | **I** | **B-NR** |
+| In patients with HCM who develop palpitations or lightheadedness, extended (>24 hours) electrocardiographic monitoring or event recording is recommended for arrhythmia diagnosis and clinical correlation. | **I** | **B-NR** |
+| In first-degree relatives of patients with HCM, a 12-lead ECG is recommended as a component of the screening algorithm (Figure 1, Table 7). | **I** | **B-NR** |
+| In patients with HCM who are deemed to be at high risk for developing AF based on the presence of risk factors or as determined by a validated risk score, and who are eligible for anticoagulation, extended ambulatory monitoring is recommended to screen for AF as part of initial evaluation and annual follow-up (Figure 1). | **I** | **B-NR** |
+| In adult patients with HCM without risk factors for AF and who are eligible for anticoagulation, extended ambulatory monitoring may be considered to assess for asymptomatic paroxysmal AF as part of initial evaluation and periodic follow-up (every 1-2 years). | **IIb** | **B-NR** |
+
+
+### 6.6 Angiography and Invasive Hemodynamic Assessment
+* **Invasive Hemodynamics:** Cardiac catheterization with simultaneous left ventricular and ascending aortic pressure measurements is indicated when noninvasive imaging yields discordant or ambiguous findings regarding the presence or severity of dynamic LVOT obstruction in symptomatic patients (Class 1, Level of Evidence B-NR).
+* **Provocative Catheterization:** Provocation with post-extrasystolic beat (Brockenbrough-Braunwald-Morrow sign: drop in pulse pressure with increase in LV systolic pressure following a PVC) or isoproterenol infusion can confirm dynamic intracavitary gradients.
+* **Coronary Angiography:** Invasive coronary angiography or coronary CT angiography is indicated in patients $\ge 40$ years of age or those with ischemic chest pain, and is mandatory prior to surgical myectomy or alcohol septal ablation to delineate septal perforator coronary branch anatomy.
+
+
+
+### Recommendation Table 8 — Recommendations for Angiography and Invasive Hemodynamic Assessment
+
+**Angiography and Invasive Hemodynamic Assessment**
+
+| Recommendations | Class | Level |
+|---|:---:|:---:|
+| For patients with symptomatic HCM for whom there is uncertainty regarding the presence or severity of LVOTO on noninvasive imaging studies, invasive hemodynamic assessment with cardiac catheterization is recommended. | **I** | **B-NR** |
+| In patients with HCM who have symptoms or evidence of myocardial ischemia, coronary angiography (CT or invasive) is recommended. | **I** | **B-NR** |
+| In patients with HCM who are at risk of coronary atherosclerosis, coronary angiography (CT or invasive) is recommended before surgical myectomy. | **I** | **B-NR** |
+
+
+### 6.7 Exercise Stress Testing
+* **Functional Capacity and Prognosis:** Symptom-limited exercise treadmill testing or cardiopulmonary exercise testing (CPET) is recommended to objectively quantify functional capacity ($V\text{O}_2\text{ peak}$), assess subclinical functional limitation, and establish safe exercise boundaries (Class 1, Level of Evidence B-NR).
+* **Pediatric Stress Testing (New Class 1):** In pediatric patients with HCM, regardless of symptom status, exercise stress testing is recommended to assess functional capacity, hemodynamic response, and prognostic risk.
+* **Blood Pressure Response:** Failure to increase systolic blood pressure by $\ge 20\text{ mm Hg}$ or a fall in systolic blood pressure during progressive exercise indicates abnormal vascular regulation and serves as a contributory risk marker for SCD.
+
+
+
+### Recommendation Table 9 — Recommendations for Exercise Stress Testing
+
+**Exercise Stress Testing in HCM**
+
+| Recommendations | Class | Level |
+|---|:---:|:---:|
+| For symptomatic patients with HCM who do not have resting or provocable outflow tract peak gradient ≥50 mm Hg on TTE, exercise TTE is recommended for the detection and quantification of dynamic LVOTO. | **I** | **B-NR** |
+| In patients with nonobstructive HCM and advanced HF (NYHA functional class III to class IV), cardiopulmonary exercise stress testing should be performed to quantify the degree of functional limitation and aid in selection of patients for heart transplantation or mechanical circulatory support. | **I** | **B-NR** |
+| In pediatric patients with HCM, regardless of symptom status, exercise stress testing is recommended to determine functional capacity and to provide prognostic information. | **I** | **B-NR** |
+| In adult patients with HCM, exercise stress testing is reasonable to determine functional capacity and to provide prognostic information as part of initial evaluation. | **IIa** | **B-NR** |
+| For asymptomatic patients with HCM who do not have a resting or provocable outflow tract peak gradient ≥50 mm Hg on standard TTE, exercise TTE is reasonable for the detection and quantification of dynamic LVOTO. | **IIa** | **C-LD** |
+| In patients with obstructive HCM and ambiguous functional capacity, exercise stress testing may be reasonable to guide therapy (Figure 1). | **IIb** | **C-LD** |
+| In patients with HCM for whom it is unclear if their functional capacity has declined, exercise stress testing may be considered every 2 to 3 years (Figure 1). | **IIb** | **C-EO** |
+
+
+### 6.8 Genetics and Family Screening
+Genetic evaluation provides definitive molecular diagnosis and enables cascade evaluation of at-risk relatives:
+* **Pre- and Post-Test Genetic Counseling:** Expert counseling by a cardiovascular geneticist or genetic counselor is recommended for all patients undergoing genetic testing (Class 1, Level of Evidence B-NR).
+* **Proband Genetic Testing:** Targeted next-generation sequencing panel testing of sarcomeric genes (*MYH7, MYBPC3, TNNT2, TNNI3, TPM1, ACTC1, MYL2, MYL3*) and major phenocopy genes (*GLA, PRKAG2, LAMP2, TTR*) is recommended for all probands with HCM (Class 1, Level B-NR).
+* **Cascade Genetic Testing:** When a pathogenic or likely pathogenic (P/LP) variant is identified in the proband, predictive cascade genetic testing should be offered to all first-degree relatives (Class 1, Level B-NR). Relatives testing negative for the familial P/LP variant can be safely discharged from longitudinal clinical surveillance.
+* **Clinical Screening of Relatives:** In first-degree relatives of probands with HCM (or when genetic testing is non-informative or unavailable), longitudinal clinical screening with 12-lead ECG and 2D echocardiography is recommended:
+  - **Children and Adolescents:** Every 1 to 2 years starting by age 8 to 10 years (or annually during pubertal growth spurts).
+  - **Adult Relatives:** Every 3 to 5 years (or sooner if symptoms develop).
+
+![Figure 1: Recommended Evaluation and Testing for HCM](images/fig01_recommended_evaluation_testing_hcm.jpg)
+
+![Figure 2: Genetic Testing Process in HCM](images/fig02_genetic_testing_process_hcm.jpg)
+
+
+
+#### Table 7: Screening With Electrocardiography and 2D Echocardiography in Asymptomatic Family Members
+
+| Age of First-Degree Relative | Initiation of Screening | Repeat ECG, Echo |
+|---|---|---|
+| Pediatric |
+| Children and adolescents from genotype-positive families, and families with early onset disease | At the time HCM is diagnosed in another family member | Every 1-2 y |
+| All other children and adolescents | At any time after HCM is diagnosed in a family member but no later than puberty | Every 2-3 y |
+| Adults | At the time HCM is diagnosed in another family member | Every 3-5 y |
+
+
+### Recommendation Table 10 — Recommendations for Genetics and Family Screening
+
+**Genetics and Family Screening in HCM**
+
+| Recommendations | Class | Level |
+|---|:---:|:---:|
+| In patients with HCM, evaluation of familial inheritance, including a 3-generation family history, is recommended as part of the initial assessment. | **I** | **B-NR** |
+| In patients with HCM, genetic testing is beneficial to elucidate the genetic basis to facilitate the identification of family members at risk for developing HCM (cascade testing). | **I** | **B-NR** |
+| In patients with an atypical clinical presentation of HCM or when another genetic condition is suspected to be the cause, a workup including genetic testing for HCM and other genetic causes of unexplained cardiac hypertrophy ("HCM phenocopies") is recommended. | **I** | **B-NR** |
+| In patients with HCM, genetic counseling by an expert in the genetics of cardiovascular disease is recommended so that risks, benefits, test results, and their clinical significance can be reviewed and discussed with the patient in a shared decision-making process. | **I** | **B-NR** |
+| When performing genetic testing in a proband with HCM, the initial tier of genes tested should include genes with strong evidence to be disease-causing in HCM. | **I** | **B-NR** |
+| In first-degree relatives of patients with HCM, both clinical screening (ECG and 2D echocardiogram) and cascade genetic testing (when a pathogenic/likely pathogenic variant has been identified in the proband) should be offered. | **I** | **B-NR** |
+| In families where a sudden unexplained death has occurred with a postmortem diagnosis of HCM, postmortem genetic testing is beneficial to facilitate cascade genetic testing and clinical screening in first-degree relatives. | **I** | **B-NR** |
+| In patients with HCM who have undergone genetic testing, serial reevaluation of the clinical significance of the variant(s) identified is recommended to assess for variant reclassification, which may impact diagnosis and cascade genetic testing in family members (Figures 1 and 2). | **I** | **B-NR** |
+| In affected families with HCM, preconception and prenatal reproductive and genetic counseling should be offered. | **I** | **B-NR** |
+| In adult patients with HCM, the usefulness of genetic testing in the assessment of risk of SCD is uncertain. | **IIb** | **B-NR** |
+| In patients with HCM who have a variant of uncertain significance (VUS), the usefulness of clinical genetic testing of phenotype-negative relatives for the purpose of variant reclassification is uncertain. | **IIb** | **B-NR** |
+| For patients with HCM who have undergone genetic testing and were found to have no pathogenic variants (ie, harbor only benign or likely benign variants), cascade genetic testing of the family is not useful. | **III-no-benefit** | **B-NR** |
+| Ongoing clinical screening is not indicated in genotype-negative relatives in families with genotype-positive HCM, unless the disease-causing variant is downgraded to a VUS, likely benign, or benign variant during follow-up. | **III-no-benefit** | **B-NR** |
+
+
+### 6.9 Individuals Who Are Genotype-Positive, Phenotype-Negative
+Individuals who inherit a familial sarcomeric P/LP variant but do not manifest left ventricular hypertrophy or other phenotypic criteria are classified as **genotype-positive, phenotype-negative (G+/P-)**:
+* **Longitudinal Surveillance:** Periodic clinical evaluation with 12-lead ECG and echocardiography every 2 to 3 years in children and every 3 to 5 years in adults is recommended to detect delayed phenotypic emergence (Class 1, Level of Evidence B-NR).
+* **No Prophylactic Pharmacotherapy:** Prophylactic administration of beta-blockers, calcium channel blockers, or other medications is **not recommended** to prevent the development of hypertrophy (Class 3: No Benefit, Level B-R; VANISH trial).
+* **Unrestricted Lifestyle:** G+/P- individuals should be reassured that they do not have clinical cardiomyopathy, have an excellent prognosis, and should not be restricted from competitive athletics or recreational sports in the absence of phenotypic expression.
+
+
+
+### Recommendation Table 11 — Recommendations for Individuals Who Are Genotype-Positive, Phenotype-Negative
+
+**Individuals Who Are Genotype-Positive, Phenotype-Negative**
+
+| Recommendations | Class | Level |
+|---|:---:|:---:|
+| In individuals who are genotype-positive, phenotype-negative for HCM, serial clinical assessment, electrocardiography, and cardiac imaging are recommended at periodic intervals depending on age (every 1-2 years in children and adolescents and every 3-5 years in adults) and change in clinical status (Figures 1 and 2, Table 7). | **I** | **B-NR** |
+| In individuals who are genotype-positive, phenotype-negative for HCM, participation in competitive sports of any intensity is reasonable. | **IIa** | **B-NR** |
+| In individuals who are genotype-positive, phenotype-negative for HCM, ICD is not recommended for primary prevention. | **III-no-benefit** | **B-NR** |
+
+
+</div></details>

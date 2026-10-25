@@ -975,12 +975,13 @@
           bodyHtml += `<tr class="gt-grid-row" style="border-bottom:1px solid var(--gt-border);">`;
           r.cells.forEach(cell => {
             const colspan = cell.colspan ? `colspan="${cell.colspan}"` : '';
+            const rowspan = cell.rowspan ? `rowspan="${cell.rowspan}"` : '';
             const cText = this.formatMarkup(cell.text ? (cell.text[this.currentLang] || cell.text.en) : '');
             const toneAttr = cell.tone ? `data-tone="${cell.tone}"` : '';
             const toneClass = cell.tone ? `gt-cell` : '';
-            const isBadge = ['I', 'IIa', 'IIb', 'III', 'A', 'B', 'C'].includes(cText);
+            const isBadge = ['I', 'IIa', 'IIb', 'III', 'A', 'B', 'B1', 'B2', 'C'].includes(cText);
             const align = cell.colspan ? 'text-align:left; font-weight:700; background:var(--gt-section-bg);' : (isBadge ? 'text-align:center; font-weight:800;' : 'text-align:left;');
-            bodyHtml += `<td ${colspan} ${toneAttr} class="${toneClass}" style="padding:8px 10px; border:1px solid var(--gt-border); ${align}">${cText}</td>`;
+            bodyHtml += `<td ${colspan} ${rowspan} ${toneAttr} class="${toneClass}" style="padding:8px 10px; border:1px solid var(--gt-border); ${align}">${cText}</td>`;
           });
           bodyHtml += `</tr>`;
         });

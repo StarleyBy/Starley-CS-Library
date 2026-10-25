@@ -1,0 +1,34 @@
+[
+  {
+    "idx": 1,
+    "fig_id": "fig-16-01",
+    "fnum": "16.1.1",
+    "caption": "Regional wall motion assessment: cross-sectional short-axis and longitudinal planes illustrating basal, mid, and apical LV levels",
+    "page": 541,
+    "size": "855x1167"
+  },
+  {
+    "idx": 2,
+    "fig_id": "fig-16-02",
+    "fnum": "16.1.2",
+    "caption": "Polar plot display: schematic diagram of the 16-, 17-, and 18-segment models of the left ventricle",
+    "page": 542,
+    "size": "1501x876"
+  },
+  {
+    "idx": 3,
+    "fig_id": "fig-16-03",
+    "fnum": "16.1.3",
+    "caption": "Perfusion territories of the three major coronary arteries (LAD, RCA, LCx) mapped onto the 17-segment polar plot",
+    "page": 543,
+    "size": "1980x396"
+  },
+  {
+    "idx": 4,
+    "fig_id": "fig-16-04",
+    "fnum": "16.1.4",
+    "caption": "Echocardiographic response patterns during stress: normal hyperkinesia, ischemic wall motion abnormality, and viable biphasic response",
+    "page": 547,
+    "size": "1355x543"
+  }
+]

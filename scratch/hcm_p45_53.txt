@@ -1,0 +1,1119 @@
+
+=== PAGE 45 ===
+CLINICAL STATEMENTS 
+AND GUIDELINES
+Circulation. 2024;149:e1239–e1311. DOI: 10.1161/CIR.0000000000001250 June 4, 2024 e1283
+Ommen et al 2024 Hypertrophic Cardiomyopathy Guideline
+those that may trigger ICD shocks), additional anti-
+arrhythmic agents may be used either to address 
+symptoms, suppress recurrent life-threatening  
+events, or to prevent unnecessary ICD shocks. 
+Drugs with risk for proarrhythmia are often initiated 
+in the hospital. ICD shocks, even when appropri-
+ate, have been linked to psychological trauma in 
+pediatric patients, and thus it is reasonable to con-
+sider management options that minimize shocks. 
+For children with recurrent ICD shocks despite 
+maximal antiarrhythmic therapy, data regarding 
+alternative therapies such as catheter ablation are 
+limited. Sympathetic denervation has been reported, 
+although data are limited to case reports.15–17
+ 4. ICD therapy has been shown to prevent SCD and 
+improve survival in patients with HCM.18 Historically, 
+it has been the general belief that the mechanism 
+of SCD in this population was VF. Y et, it appears 
+that ventricular arrhythmias amenable to termina-
+tion by antitachycardia pacing, including monomor-
+phic VT and ventricular flutter, are more common 
+than previously thought. Among 71 patients with 
+HCM and ICDs who received appropriate thera-
+pies, 74 were VF, 18 ventricular flutter, and 57 were 
+for monomorphic VT. Further, when antitachycardia 
+pacing was available, it was successful in 74% of 
+episodes.7 This is especially important in those at 
+risk for monomorphic VT, such as those with apical 
+aneurysms, although patients with fast ventricular 
+arrhythmias may benefit as well.
+ 5. In patients with HCM and recurrent ventricular 
+arrhythmias, despite pharmacological therapy, addi-
+tional therapies are required. Of 22 patients who 
+underwent ablation, there was a 73% success rate 
+with no major complications; of note, epicardial abla-
+tion was required in 58%. 9 Freedom from VT 12 
+months postablation was found in 11 of 14 patients 
+with VT and apical aneurysms, which is a common 
+source of sustained monomorphic VT in this popu-
+lation,10 and 78% VT-free survival was reported 
+after combined epicardial and endocardial ablation 
+in 9 patients with sustained monomorphic VT. 11 
+Therefore, it appears that in selected patients with 
+HCM, combined epicardial and endocardial ablation 
+is a reasonably safe and effective option for treating 
+monomorphic VT refractory to antiarrhythmic drugs 
+and to optimal ICD programming. A recent meta-
+analysis that included 6 studies confirmed the find-
+ings.19 In 1 case series, surgical aneurysmectomy 
+proved effective in 3 patients with apical aneurysms 
+and incessant ventricular arrhythmias as an alterna-
+tive to ablation.20 In pediatric patients, age and heart 
+size must be taken into account when considering 
+ablation. An additional option in cases of refrac-
+tory VT/VF is left cardiac sympathetic denervation, 
+which has efficacy in individual case reports.15
+9. LIFESTYLE CONSIDERATIONS FOR 
+PATIENTS WITH HCM
+9.1. Recreational Physical Activity and 
+Competitive Sports
+Recommendations for Recreational Physical Activity and  
+Competitive Sports
+Referenced studies that support the recommendations are  
+summarized in the Online Data Supplement. 
+COR LOE Recommendations
+1 B-R
+ 1. For patients with HCM, mild- to moderate-intensity* 
+recreational† exercise is beneficial to improve 
+cardiorespiratory fitness, physical functioning, and 
+quality of life, and for overall health in keeping with 
+physical activity guidelines for the general  
+population.1–3
+1 C-EO
+ 2. For athletes with HCM, a comprehensive evaluation 
+and shared decision-making about sports  
+participation with an expert professional is  
+recommended.4
+2a B-NR
+ 3. In individuals who are genotype-positive,  
+phenotype-negative for HCM, participation in  
+competitive sports of any intensity is reasonable.5,6
+2a B-NR
+ 4. For patients with HCM, participation in vigorous*  
+recreational activities is reasonable after an  
+annual comprehensive evaluation and shared  
+decision-making with an expert professional who 
+balances potential benefits and risks, with this  
+process being repeated annually.4,5,7 ,8
+2b B-NR
+ 5. For patients with HCM who are capable of a high 
+level of physical performance, participation in  
+competitive sports† may be considered after review 
+by an expert provider with experience managing  
+athletes with HCM who conducts an annual  
+comprehensive evaluation and shared decision- 
+making that balances potential benefits and  
+risks.5,9–14
+3: No 
+benefit B-NR
+ 6. For most patients with HCM, universal restriction 
+from vigorous physical activity or competitive sports 
+is not indicated.5,11–13
+3: 
+Harm C-EO
+ 7 . In patients with HCM, ICD placement for the sole 
+purpose of participation in competitive sports 
+should not be performed.10
+*Exercise intensity can be gauged by metabolic equivalents (METs): light <3 
+METs, moderate 3-6 METs, and vigorous >6 METs,15 by percentage of maximum 
+heart rate achieved (light 40%-50%, moderate 50%-70%, vigorous >70%), or 
+by level of perceived exertion on the Borg scale (light 7-12, moderate 13-14, 
+vigorous ≥15).16
+†Recreational exercise is done for the purpose of leisure with no requirement 
+for systematic training and without the purpose to excel or compete against oth-
+ers. Competitive sports involve systematic training for the primary purpose of 
+competition against others, at multiple levels, including high school, collegiate, 
+master’s level, semiprofessional, or professional sporting activities.
+Synopsis
+Regular physical activity promotes longevity and re-
+duces overall cardiovascular disease risk. Most patients 
+with HCM can benefit from at least mild- to moderate- 
+intensity exercise. Some patients with HCM who have no 
+or minimal symptomatic limitation are capable of vigorous 
+activities or competitive sports and place a high personal 
+value on physical fitness, performance, or both. Recom-
+mendations for recreational exercise and competitive 
+Downloaded from http://ahajournals.org by on May 30, 2026
+=== PAGE 46 ===
+CLINICAL STATEMENTS  
+AND GUIDELINES
+June 4, 2024 Circulation. 2024;149:e1239–e1311. DOI: 10.1161/CIR.0000000000001250e1284
+Ommen et al 2024 Hypertrophic Cardiomyopathy Guideline
+sports for patients with HCM are evolving with emer-
+gence of data and emphasis on promoting patient auton-
+omy and shared decision-making.4,17 ,18 Although previous 
+observational studies identify HCM as a common cause 
+of SCD among competitive athletes, 19 in prospective 
+registries, HCM is the cause of SCD in <10% of young 
+individuals, including athletes. 20–31 Although uncertainty 
+around the risk of SCD associated with exercise exists, a 
+disproportionate risk of SCD has not been demonstrated 
+in athletes in contemporary registries. 5,11–13,30 Although 
+these data provide some reassurance, the nuances and 
+unique individual considerations regarding vigorous ex-
+ercise or competitive sports warrant annual evaluation by 
+an expert professional, including a shared balanced dis-
+cussion of potential benefits and risks and an individual 
+emergency preparedness plan.4,17 ,18,32,33
+Recommendation-Specific Supportive Text
+ 1. Inactivity is prevalent among patients with 
+HCM.34,35 “The Physical Activity Guidelines for 
+Americans” recommend that adults engage in at 
+least 150 to 300 minutes of moderate-intensity 
+or 75 to 150 minutes of vigorous-intensity aero-
+bic exercise weekly, and that children engage 
+in at least 60 minutes of moderate-to-vigorous 
+exercise daily. 36 In a randomized trial of exercise 
+training, adult patients with HCM who followed 
+prescriptions of moderate-intensity exercise for 
+4 months, compared with those doing their usual 
+activity, showed significant improvements in peak 
+oxygen consumption and subjective improve-
+ments in physical functioning. 1 No major adverse 
+events and no increase in nonlethal arrhythmias 
+with exercise training were observed. Exercise 
+intensity can be gauged by METs: light <3 METs, 
+moderate 3 to 6 METs, and vigorous >6 METs, 15 
+by percentage of maximum heart rate achieved 
+(light 40%-50%, moderate 50%-70%, vigorous 
+>70%), or by level of perceived exertion on the 
+Borg scale (light 7-12, moderate 13-14, vigorous 
+≥15).16 An initial period of supervised exercise 
+may be warranted in some patients. Children with 
+HCM can typically participate in physical educa-
+tion at school, with an option not to grade, time, or 
+score for performance.
+ 2. Expert professionals will be familiar with the evi-
+dence and ongoing studies relevant to discussions 
+about vigorous exercise and sports participation 
+and will be in the best position to provide guidance 
+in the context of shared decision-making. 4 Advice 
+to avoid dehydration or exposures to extreme 
+environmental conditions (eg, heat, humidity) is 
+important, particularly for patients with obstructive 
+physiology. This discussion also provides an oppor-
+tunity to devise plans for emergency preparedness.
+ 3. Sudden death in genotype-positive, phenotype-
+negative individuals is rare.6 Currently, no accurate 
+risk prediction models for SCD in genotype-  
+positive, phenotype-negative individuals are avail-
+able. In a recent prospective registry, no arrhythmic  
+events were observed in genotype-positive,  
+phenotype-negative individuals (total of 126), 
+including those exercising vigorously or partici-
+pating in competitive athletics. 5 Decisions about 
+participation in competitive sports are usually 
+made jointly with the patient and family taking 
+into consideration family history of SCD, type of 
+sports activity, and patient and family risk toler-
+ance. Because of the low risk of sudden death, 
+phenotype-negative individuals are not restricted 
+from competitive sports and are not routinely 
+monitored with ambulatory electrocardiography 
+and exercise stress testing unless the family his-
+tory indicates a high risk for SCD or as part of 
+precompetitive athletic screening. This is appro-
+priate every 1 to 2 years to assess safety of ongo-
+ing competitive athletics participation.
+ 4. Many patients with HCM with no or minimal symp-
+tomatic limitation are capable of vigorous-intensity 
+exercise and place a high personal value on physi-
+cal fitness. Retrospective data have not shown a 
+higher rate of ventricular arrhythmias in individuals 
+with HCM who exercise vigorously.7 Additionally, a 
+prospective nationwide population-based cohort 
+study in South Korea showed that among individu-
+als with a diagnosis of HCM (mean age, 59 years), 
+those in the highest tertile of exercise (including 
+those exercising vigorously ≥8 METs) had the low-
+est cardiovascular mortality (2.7% versus 3.8% in 
+midtertile and 4.7% in lowest tertile; P < 0.001).8 In 
+a recently published prospective observational reg-
+istry of adult and pediatric patients (8-60 years of 
+age) with HCM who were NYHA functional class I 
+to II, those who engaged in vigorous exercise were 
+not more likely to experience an arrhythmic event 
+compared with those exercising moderately or who 
+were less active. 5 Notably, most patients in this 
+study were managed at experienced HCM cen-
+ters and receiving close follow-up and surveillance. 
+Therefore, although these data can inform discus-
+sion between patients and physicians regarding 
+participation in vigorous exercise, these discus-
+sions should occur in the context of an annual com-
+prehensive clinical evaluation and risk assessment 
+using an individualized shared decision-making 
+framework by an expert professional with experi-
+ence in managing patients with HCM.
+ 5. Some patients with HCM who have no or minimal 
+symptomatic limitation are capable of vigorous-  
+intensity training and place a high personal value 
+on physical performance for the purpose of 
+Downloaded from http://ahajournals.org by on May 30, 2026
+=== PAGE 47 ===
+CLINICAL STATEMENTS 
+AND GUIDELINES
+Circulation. 2024;149:e1239–e1311. DOI: 10.1161/CIR.0000000000001250 June 4, 2024 e1285
+Ommen et al 2024 Hypertrophic Cardiomyopathy Guideline
+competition. Prospective studies over the past 
+decade have demonstrated a similar burden of 
+ventricular arrhythmias in adult patients with HCM 
+who have continued to engage in competitive ath-
+letics compared with those who have withdrawn 
+from competition.11–13 In those athletes with ICDs, 
+shock rates in athletes with HCM are similar to 
+those reported in nonathletic populations, with 
+most shocks occurring outside training or compe-
+tition, and with no reported shock-related injuries 
+or death.9,10 A large prospective registry examined 
+the impact of recreational exercise and competi-
+tive athletics on arrhythmic events and included 
+259 individuals engaging in competitive athletics, 
+including 42 high school and collegiate athletes 
+with HCM with >3 years’ follow-up. Competitive 
+athletes with HCM did not experience an increased 
+arrhythmic risk compared with individuals exercis-
+ing moderately or not at all. 5 Although these data 
+provide some reassurance and can inform discus-
+sions between patients and physicians regarding 
+participation in competitive athletics, not all types 
+of athletes are well-represented in these studies. 
+Evaluations and shared decision-making with ath-
+letes who have HCM regarding sports participation 
+should therefore be individualized, be undertaken 
+by professionals with expertise in managing com-
+petitive athletes with HCM, and be repeated on at 
+least an annual basis. 4,32 Final eligibility decisions 
+for organized sports participation may involve third 
+parties (eg, team physicians, consultants, institu-
+tional leadership) acting on the behalf of schools 
+or teams.
+ 6. Prospective studies to date have suggested that 
+patients with HCM who engage in competitive ath-
+letics are not at increased risk of SCD compared 
+with less active individuals, 5 or athletes who with-
+draw from competitive sports.11–13
+ 7 . Sudden death risk stratification and recommenda-
+tions for ICD placement should be made in accor-
+dance with the algorithm put forth in this guideline, 
+independent of decisions regarding sports partici-
+pation. Inappropriate ICD utilization would expose 
+patients unnecessarily to device-related complica-
+tions and should be avoided.37 ,38
+9.2. Occupation in Patients With HCM
+Recommendations for Occupation in Patients With HCM 
+COR LOE Recommendations
+2a C-EO
+ 1. For patients with HCM, it is reasonable to follow 
+Federal Motor Carrier Safety Administration  
+cardiovascular disease guidelines that permit driving  
+commercial motor vehicles, if they do not have an 
+ICD or any major risk factors for SCD and are using 
+a GDMT plan.1
+2a C-EO
+ 2. For pilot aircrew with a diagnosis of HCM, it is  
+reasonable to follow Federal Aviation Administration 
+guidelines that permit consideration of multicrew 
+flying duties, provided they are asymptomatic, are 
+deemed low risk for SCD, and can complete a maxi-
+mal treadmill stress test at 85% peak heart rate.2
+2b C-EO
+ 3. It is reasonable for patients with HCM to consider 
+occupations that require manual labor, heavy lifting, 
+or a high level of physical performance after a  
+comprehensive clinical evaluation, risk stratification 
+for SCD, and implementation of GDMT in the con-
+text of shared decision-making.
+Synopsis
+Several occupational considerations are important for 
+patients with HCM, particularly when potential for loss of 
+consciousness could occur that can place the patient or 
+others in a harmful situation. For some occupations (com-
+mercial driving and piloting an aircraft), federal guidelines 
+and restrictions cannot be superseded by this guideline.
+Recommendation-Specific Supportive Text
+ 1. The Federal Motor Carrier Safety Administration 
+updated its guidelines in 2015.1 A permit for driving a 
+commercial vehicle can be obtained by patients with 
+HCM who do not have an ICD and do not possess 
+any of the major risk factors for SCD (see Section 
+7 , “SCD Risk Assessment and Prevention”).
+ 2. The Federal Aviation Administration guidelines do 
+not explicitly list HCM as a disqualifying diagnosis for 
+piloting an aircraft. However, a report from an occu-
+pational aviation work group states that for patients 
+with HCM who are asymptomatic, they may be con-
+sidered for multicrew flying duties.2 No restrictions 
+exist for patients with HCM to be nonpilot aircrew.
+ 3. Occupations that require considerable heavy manual 
+labor (eg, construction work) or a high level of phys-
+ical performance (eg, law enforcement, firefighters) 
+may impose some risk to patients with HCM but 
+also potentially to a coworker or the public, in the 
+event of loss of consciousness. Therefore, these 
+decisions should be approached on an individual 
+basis and in the context of shared decision-making.
+9.3. Pregnancy in Patients With HCM
+Recommendations for Pregnancy in Patients With HCM
+Referenced studies that support the recommendations are  
+summarized in the Online Data Supplement. 
+COR LOE Recommendations
+1 B-NR
+ 1. For pregnant women with HCM and AF or other 
+indications for anticoagulation, low-molecular-weight 
+heparin or vitamin K antagonists (at maximum  
+therapeutic dose of <5 mg daily) are recommended 
+for stroke prevention.1,2
+Recommendations for Occupation in Patients With HCM (Continued)
+COR LOE Recommendations
+Downloaded from http://ahajournals.org by on May 30, 2026
+=== PAGE 48 ===
+CLINICAL STATEMENTS  
+AND GUIDELINES
+June 4, 2024 Circulation. 2024;149:e1239–e1311. DOI: 10.1161/CIR.0000000000001250e1286
+Ommen et al 2024 Hypertrophic Cardiomyopathy Guideline
+1 C-LD
+ 2. In pregnant women with HCM, selected beta  
+blockers should be administered for symptoms 
+related to outflow tract obstruction or arrhythmias, 
+with monitoring of fetal growth.3,4
+1 C-LD  3. In most pregnant women with HCM, vaginal delivery is recommended as the first-choice delivery option.3,5
+1 B-NR
+ 4. In affected families with HCM, preconceptional and 
+prenatal reproductive and genetic counseling should 
+be offered.3–6
+1 C-EO
+ 5. For pregnant women with HCM, care should be 
+coordinated between their cardiologist and an 
+obstetrician. For patients with HCM who are deemed 
+high risk, consultation is advised with an expert in 
+maternal-fetal medicine.
+2a C-LD
+ 6. For women with clinically stable HCM who wish to 
+become pregnant, it is reasonable to advise that 
+pregnancy is generally safe as part of a shared  
+discussion regarding potential maternal and fetal 
+risks, and initiation of GDMT.7–10
+2a C-LD
+ 7 . In pregnant women with HCM, cardioversion for new 
+or recurrent AF, particularly if symptomatic, is  
+reasonable.6,11
+2a C-LD
+ 8. In pregnant women with HCM, general or epidural 
+anesthesia is reasonable, with precautions to avoid 
+hypotension.8
+2a C-EO
+ 9. In pregnant women with HCM, it is reasonable to 
+perform serial echocardiography, particularly during 
+the second or third trimester when hemodynamic 
+load is highest, or if clinical symptoms develop.
+2b C-EO
+10. In pregnant women with HCM, fetal  
+echocardiography may be considered for diagnosis 
+of fetal HCM in the context of prenatal counseling.
+3: 
+Harm C-EO 11. In pregnant women, use of mavacamten is  contraindicated due to potential teratogenic effects.
+Synopsis
+Pregnancy in most women with HCM is well tolerated. 
+Maternal mortality is very low, with only 3 sudden deaths 
+reported in the literature, all in high-risk (and 1 undiag-
+nosed) patients, over the past 17 years. 7–10 Symptoms 
+(dyspnea, chest pain, palpitations) and complications (HF 
+and arrhythmias) occur in approximately 25% of preg-
+nant women with HCM for whom most had symptoms 
+preceding their pregnancy. No difference in outcomes 
+was reported for women with L VOTO compared with 
+those without obstruction.
+Recommendation-Specific Supportive Text
+ 1. AF is associated with stroke in HCM and can 
+be mitigated by anticoagulation. 12–14 Both low- 
+molecular-weight heparin and low-dose warfa-
+rin carry acceptable risk during pregnancy 2 and 
+should be administered in accordance with the 
+2020 ACC/AHA valvular heart disease guideline. 1 
+Insufficient safety data regarding DOACs in preg-
+nancy are available, and a recent meta-analysis 
+suggests that they are associated with a higher 
+rate of fetal complications compared with low-
+molecular-weight heparin or warfarin.15
+ 2. Most beta blockers (ie, metoprolol, bisoprolol, 
+labetalol, pindolol, propranolol) are generally con-
+sidered safe to use during pregnancy; however, 
+atenolol has some evidence of potential fetal risk. 
+Closer monitoring of fetal growth and surveillance 
+for fetal bradycardia may be considered for preg-
+nant women on beta blockers.3,4
+ 3. In pregnant women with cardiovascular disease, 
+including cardiomyopathies, adverse outcomes 
+during delivery are low (3%-4%) and similar 
+between vaginal delivery and cesarean section. 5 
+Valsalva maneuver during labor has also been 
+shown to be well tolerated. Bleeding rates, includ-
+ing serious bleeding requiring transfusions, are 
+higher in women who undergo cesarean section. 
+Therefore, cesarean section should be reserved 
+only for obstetric reasons or for emergency cardiac 
+or other maternal health reasons. A delivery plan 
+should ideally be established by the end of the sec-
+ond trimester.
+ 4. Prenatal genetic counseling is helpful in explain-
+ing the risk of transmission of disease, as well as 
+discussing potential reproductive options. These 
+reproductive options include preimplantation 
+genetic testing, fetal screening, prenatal test-
+ing, and postnatal genetic testing. The benefits 
+and potential harms can be discussed for each of 
+these options, such that the individual or couple 
+can make a fully informed decision about prenatal 
+genetic testing and fetal screening.3–6
+ 5. A multidisciplinary care team that includes cardiol-
+ogists and maternal-fetal medicine specialists can 
+provide comprehensive management of pregnant 
+women with HCM.
+ 6. Decisions regarding pregnancy in women with 
+HCM include a shared discussion that conveys that 
+maternal mortality with pregnancy is very low, and 
+cardiac events occur primarily in those with preex-
+isting symptoms and previous cardiac events.7–10 In 
+those women who are very symptomatic, options 
+for mitigating risk before conception are discussed. 
+Depending on the individual circumstance, these 
+options might include SRT for women with medi-
+cally refractory symptomatic L VOTO, advanced HF 
+therapies for women with HF, or ICD implantation 
+for women with high-risk features for ventricular 
+arrhythmias.
+ 7 . Some antiarrhythmic agents are contraindicated 
+during pregnancy because of potential terato-
+genic effects, while others are not recommended 
+for patients with HCM. Cardioversion during preg-
+nancy can be performed with minimal risk to the 
+fetus and is therefore preferred for restoring sinus 
+Recommendations for Pregnancy in Patients With HCM (Continued)
+COR LOE Recommendations
+Downloaded from http://ahajournals.org by on May 30, 2026
+=== PAGE 49 ===
+CLINICAL STATEMENTS 
+AND GUIDELINES
+Circulation. 2024;149:e1239–e1311. DOI: 10.1161/CIR.0000000000001250 June 4, 2024 e1287
+Ommen et al 2024 Hypertrophic Cardiomyopathy Guideline
+rhythm in pregnant women with HCM, particu-
+larly if they are symptomatic. 6 Anticoagulation to 
+decrease the risk of thromboembolism associated 
+with cardioversion would need to be individualized 
+based on the trimester of pregnancy and the risk of 
+anticoagulation to the fetus.
+ 8. Epidural and general anesthesia are common 
+modes of anesthesia to make the delivery more 
+comfortable for the patient. There are generally no 
+contraindications to either of these forms of anes-
+thesia in pregnant patients with HCM as long as 
+care is taken to avoid hypotension.8
+ 9. Most complications that arise during pregnancy 
+occur in the third trimester. Therefore, it would be 
+reasonable to perform echocardiography in the 
+latter stages of pregnancy or if new symptoms 
+arise.
+ 10. Fetal echocardiography is available for prena-
+tal diagnosis of HCM and is used in some select 
+families, particularly if a history of pediatric disease 
+onset or severe disease manifestations in parents 
+or other family members are present.
+ 11. Myosin inhibitors may cause fetal toxicity when 
+administered to a pregnant woman, based on 
+unpublished findings in animal studies.16
+9.4. Patients With Comorbidities
+Recommendations for Patients With Comorbidities
+Referenced studies that support the recommendations are  
+summarized in the Online Data Supplement. 
+COR LOE Recommendations
+1 C-EO
+ 1. In patients with HCM, adherence to the ACC/AHA 
+primary prevention guideline is recommended to 
+reduce risk of cardiovascular events.1
+1 B-NR
+ 2. In patients with HCM who are overweight or obese, 
+counseling and comprehensive lifestyle interventions 
+are recommended for achieving and maintaining 
+weight loss1 and possibly lowering the risk of  
+developing L VOTO, HF, and AF.2–4
+1 C-LD
+ 3. In patients with HCM and hypertension, lifestyle 
+modifications and medical therapy for hypertension 
+are recommended,1 with preference for beta blockers 
+and nondihydropyridine calcium channel blockers in 
+patients with obstructive HCM.
+1 C-LD
+ 4. In patients with HCM, assessment for symptoms  
+of sleep-disordered breathing is recommended,  
+and, if present, referral to a sleep medicine  
+specialist for evaluation and treatment is  
+recommended.5–8
+Synopsis
+Comorbid conditions, including hypertension, obesity, and 
+sleep-disordered breathing, are common in patients with 
+HCM and may contribute to increased symptom burden, 
+L VOTO, HF, and AF. Appropriate counseling and man-
+agement of these conditions in patients with HCM is a 
+critical component of their care.
+Recommendation-Specific Supportive Text
+ 1. Patients with HCM are frequently affected by other 
+health conditions, including hypertension, diabetes, 
+hyperlipidemia, and obesity, and may also maintain 
+unhealthy lifestyle practices, including inactivity 
+and tobacco abuse, which together can compro-
+mise their overall cardiovascular health. In addition 
+to treatment of their HCM, implementation of well-
+proven primary prevention strategies is warranted 
+in symptomatic and asymptomatic patients.1
+ 2. Excess weight is very common in adult patients 
+with HCM, with >70% having a body mass index of 
+>25 kg/m2 and >30% having a body mass index 
+of >30 kg/m2.2–4 Obesity is also common in pedi-
+atric patients with HCM, with almost 30% having a 
+body mass index in the 99th percentile for age and 
+sex.9 Patients who are obese have an increased 
+burden of L VH and mass,2,3,9 are more symptom-
+atic, are more likely to have L VOTO, and have 
+reduced exercise capacity.2–4 In a large prospective, 
+multicenter registry of patients with HCM, obesity 
+was independently associated with a composite 
+outcome of death, HF, AF, ventricular arrhythmias, 
+and stroke, with hazard ratios ranging from 1.4 to 
+1.9.4 Although patients who were obese were less 
+likely to carry a sarcomere gene variant, obesity 
+increased risk in genotype-positive and genotype-
+negative patients. Obesity is also associated with 
+increased susceptibility for developing HCM in 
+genotype-negative patients.10 Weight loss interven-
+tions in patients who are obese with HCM there-
+fore have the potential to reduce symptoms and 
+adverse outcomes, in addition to being an impor-
+tant component of primary prevention for overall 
+cardiovascular health.
+ 3. Hypertension is commonly coexistent in adult 
+patients with HCM, with a prevalence of approxi-
+mately 35% to 50%, and affects sarcomere 
+variant-negative patients disproportionately. 11,12 
+Intuitively, L V pressure overload imposed by ele-
+vated systemic blood pressure could trigger the 
+onset of, or exacerbate, L VH. Hypertension has 
+been associated with increased penetrance in 
+gene variant carriers,13 and diastolic hypertension is 
+associated with a 4-fold risk of developing HCM in 
+genotype-negative individuals.10 Target blood pres-
+sure should be in keeping with ACC/AHA primary 
+prevention guideline.1 In patients with symptomatic 
+obstructive HCM, beta blockers or nondihydropyri-
+dine calcium channel blockers are often used as 
+first-line therapy. Low-dose diuretics may also be 
+used as antihypertensive agents. Although some 
+patients with obstructive physiology may tolerate 
+vasodilator therapy, these agents can exacerbate 
+L VOTO and symptoms. In younger patients with 
+Downloaded from http://ahajournals.org by on May 30, 2026
+=== PAGE 50 ===
+CLINICAL STATEMENTS  
+AND GUIDELINES
+June 4, 2024 Circulation. 2024;149:e1239–e1311. DOI: 10.1161/CIR.0000000000001250e1288
+Ommen et al 2024 Hypertrophic Cardiomyopathy Guideline
+nonobstructive HCM due to a pathogenic or likely 
+pathogenic cardiac sarcomere genetic variant, who 
+have concomitant hypertension, valsartan may be 
+a good option because of its potential to slow dis-
+ease progression.14
+ 4. Sleep-disordered breathing is highly prevalent in 
+patients with HCM, affecting 55% to 70%. Patients 
+with obstructive sleep apnea are older, more often 
+hypertensive, and have greater symptom burden 
+and reduced exercise capacity.5,7 Obstructive sleep 
+apnea has also been associated with a greater 
+prevalence of AF and NSVT.6,8 Diagnosis and treat-
+ment of obstructive sleep apnea could reduce 
+symptoms and arrhythmic complications in patients 
+with HCM but has not been systematically tested.
+10. EVIDENCE GAPS AND FUTURE 
+DIRECTIONS
+10.1. Refining the Diagnosis of HCM
+The diagnosis of HCM is currently based on binary cut-
+offs for L V wall thickness. However, due to imprecision in 
+measurement and variability based on sex, body size, and 
+comorbidities, relying on this single dichotomous metric 
+will result in overdiagnosis in some groups and underdi-
+agnosis in others. 1 Additionally, the phenotype of HCM 
+extends beyond L VH. Evolving toward a more molecular 
+or pathway-based approach to diagnosis, when possible, 
+will enable greater diagnostic accuracy, improve patient 
+stratification, and facilitate implementation of increas-
+ingly targeted therapies.
+10.2. Developing Therapies to Attenuate or 
+Prevent Disease Progression
+Developing safe, effective medical therapy that can 
+forestall disease progression is a major therapeutic 
+goal, either with existing medications (eg, valsartan) 1 or 
+emerging medications (eg, cardiac myosin inhibitors). 2 
+If the specific genetic etiology is identified, gene-based 
+therapies offer the potential for durably impacting dis-
+ease with a single intervention, and testing is starting in 
+humans. However, for disease-modifying and preventive 
+therapies to be established, much more robust and gran-
+ular understanding of disease pathogenesis is needed, 
+including identifying predictors of disease development, 
+predictors of adverse outcomes, and intermediate phe-
+notypes that accurately track disease progression and, in 
+turn, response to therapy.
+10.3. Improving Care for Nonobstructive HCM
+Managing patients with symptomatic nonobstructive 
+HCM remains a major clinical challenge. In contrast to 
+obstructive HCM, where obstructive physiology can be 
+effectively targeted and treated with medical and surgi-
+cal approaches,1–5 determining the driving pathophysiol-
+ogy of nonobstructive HCM remains somewhat elusive. 
+Diastolic abnormalities, including restrictive physiology 
+and myocardial energetics, are thought to be important 
+but are currently not well addressed. The role of cardiac 
+myosin inhibitors in nonobstructive HCM is being inves-
+tigated in clinical trials.4 With clinical benefit shown with 
+sodium-glucose cotransporter-2 inhibitors and mineralo-
+corticoid receptor antagonists in patients with HF with 
+preserved EF, investigating whether patients with nonob-
+structive HCM may also benefit will be important. Clinical 
+trials that test lifestyle interventions to reduce symptom 
+burden are also needed. Given the benefits of cardiopul-
+monary rehabilitation in other cardiac diseases, adding 
+HCM to the list of reimbursable diagnoses would extend 
+these benefits to this population.
+10.4. Improving and Expanding Risk 
+Stratification
+Despite several large, prospective studies 1–3 examin-
+ing risk predictors of SCD, risk stratification algorithms 
+still have low positive-predictive values such that many 
+ICDs are placed unnecessarily. Conversely, sudden car-
+diac arrest or SCD occurs in patients with no established 
+risk factors, albeit rarely. New risk factors and tools to 
+enhance the power of risk stratification algorithms are 
+needed, particularly in children.
+Similarly, the ability to predict which patients with 
+HCM will suffer other adverse outcomes, such as HF and 
+AF, is limited. Artificial intelligence could prove useful in 
+screening, risk stratification, and/or disease progression 
+monitoring. The presence, pattern, or progression of LGE 
+or abnormal 3D strain on CMR,4–6 alone or in concert with 
+other biomarkers such as troponin levels, may become 
+useful predictors but must be consistent with existing 
+tools and show value against other risk metrics before 
+clinical adoption. These questions will benefit from con-
+tinued assembly and growth of large, prospective regis-
+tries that track clinical outcomes in well-genotyped and 
+-phenotyped patients with HCM. Studies including larger 
+numbers of pediatric and underrepresented racial and 
+ethnic group patients with HCM are particularly needed.
+10.5. Arrhythmia Management
+AF affects a large proportion of adult patients with 
+HCM, is often poorly tolerated, and may be more refrac-
+tory to pharmacological and catheter-based interven-
+tions than in patients without HCM. 1–5 Further work is 
+needed to identify more robust predictors of developing 
+AF, refine risk scores, and better stratify for thrombo-
+embolic complications. 6 Technical advances in ablative 
+therapy for AF may increase the success rate in pa-
+tients with HCM. 7
+Downloaded from http://ahajournals.org by on May 30, 2026
+=== PAGE 51 ===
+CLINICAL STATEMENTS 
+AND GUIDELINES
+Circulation. 2024;149:e1239–e1311. DOI: 10.1161/CIR.0000000000001250 June 4, 2024 e1289
+Ommen et al 2024 Hypertrophic Cardiomyopathy Guideline
+10.6. Expanding Understanding of the Genetic 
+Architecture of HCM
+Genetic evaluation and counseling are not widely avail-
+able outside of experienced HCM centers. Greater ac-
+cess to genetic counseling and testing, including expert 
+interpretation of results in the clinical context, is needed 
+for all patients with HCM to advance individual care, to 
+improve family management, and to advance the knowl-
+edge base. Improved algorithms for the interpretation of 
+variants that are currently classified as variants of un-
+certain significance are also evolving, including ongoing 
+efforts in expert variant curation by the Clinical Genome 
+Resource (ClinGen), a resource of the National Institutes 
+of Health (https://clinicalgenome.org/).1
+Approximately 50% of cases of HCM are genetically 
+elusive. New gene discovery is needed to identify addi-
+tional causal genes, recognizing that many of these cases 
+result from a combination of polygenic variants and envi-
+ronmental factors.2,3 Additionally, better understanding of 
+the complex genetics underlying HCM and developing 
+polygenic risk scores will further advance patient stratifi-
+cation and family management, including refining longi-
+tudinal screening to be more limited in situations where 
+the risk of heritable disease can be predicted to be low. 
+Investigation into the correlations between genotype 
+and phenotype and clinical outcomes continues to be 
+an important endeavor as the field moves toward more 
+precise and tailored therapies—including gene-specific 
+therapeutics.
+PEER REVIEW COMMITTEE MEMBERS
+Mark S. Link, MD, FACC, FAHA, FHRS, Chair; Anandita 
+Agarwala, MD; Chad Asplund, MD, MPH, FAMSSM*;  
+Michael Ayers, MD, FACC; C. Anwar Chahal, MD, PhD, 
+FACC, FHRS; Jonathan Chrispin, MD, FACC; Aarti  
+Dalal, DO, FACC, FHRS; Alejandro E. De Feria Alsina, 
+MD; Jonathan Drezner, MD, FAMSSM; Rajesh Kabra, 
+MD, FACC, FHRS; Sabeeda Kadavath, MD; Elizabeth S. 
+Kaufman, MD, FACC, FAHA, FHRS†; Sabra Lewsey, MD, 
+MPH, FACC; James P. MacNamara, MD; Anjali Owens, 
+MD; Hena Patel, MD; Nosheen Reza, MD, FACC‡; Aldo 
+L. Schenone, MD; Daniel Swistel, MD; Jose Vargas, MD
+AHA/ACC JOINT COMMITTEE ON CLINICAL 
+PRACTICE GUIDELINES
+Joshua A. Beckman, MD, MS, FACC, FAHA, Chair;  
+Catherine M. Otto, MD, FACC, FAHA, Chair-Elect;  
+Anastasia L. Armbruster, PharmD, FACC; Leslie L. Da-
+vis, PhD, ANP-BC, FACC, FAHA; Lisa de las Fuentes, 
+MD, MS, FAHA*; Anita Deswal, MD, MPH, FACC, FAHA*; 
+Victor A. Ferrari, MD, FACC, FAHA, MSCMR; Adrian F. 
+Hernandez, MD, FAHA*; Hani Jneid, MD, FACC, FAHA, 
+FSCAI; Heather M. Johnson, MD, MS, FACC, FAHA; W. 
+Schuyler Jones, MD, FACC; Sadiya S. Kahn, MD, MSc, 
+FACC, FAHA; Prateeti Khazanie, MD, MPH, FAHA; Mi-
+chelle M. Kittleson, MD, PhD, FACC, FAHA; Venu Menon, 
+MD, FACC, FAHA; Debabrata Mukherjee, MD, FACC, 
+FAHA; Latha Palaniappan, MD, MS, FACC, FAHA*; Tan-
+veer Rab, MD, FACC; Daichi Shimbo, MD; Jacqueline E. 
+Tamis-Holland, MD, FACC, FAHA; Y. Joseph Woo, MD, 
+FACC, FAHA; Boback Ziaeian, MD, PhD, FACC, FAHA
+PRESIDENTS AND STAFF
+American College of Cardiology
+Cathleen Biga, MSN, FACC, President
+Cathleen C. Gates, Chief Executive Officer
+Richard J. Kovacs, MD, MACC, Chief Medical Officer
+Mindy J. Saraco, MHA, Director, Clinical Policy and 
+Guidelines
+Grace D. Ronan, Senior Production and Operations  
+Manager, Clinical Policy Publications
+Leah Patterson, Project Manager, Clinical Content  
+Development
+American Heart Association/American 
+College of Cardiology
+Thomas S.D. Getchius, National Senior Director, Guide-
+lines
+Abdul R. Abdullah, MD, Director, Guideline Science and 
+Methodology
+Shae Martinez, MLS, Reference Consultant, Medical 
+Librarian
+American Heart Association
+Joseph C. Wu, PhD, FAHA, President
+Nancy Brown, Chief Executive Officer
+Mariell Jessup, MD, FAHA, Chief Science and Medical 
+Officer
+Nicole Aiello Sapio, EdD, Executive Vice President, Office 
+of Science Strategies and Operations
+Radhika Rajgopal Singh, PhD, Senior Vice President, 
+Office of Science and Medicine
+Prashant Nedungadi, BPharm, PhD, Vice President, Sci-
+ence and Medicine, Clinical Guidelines
+Anne Leonard, MPH, BSN, RN, FAHA, National Senior 
+Director, Science and Medicine
+Jody Hundley, Senior Production and Operations  
+Manager, Scientific Publications, Office of Science 
+Operations
+*AMSSM representative.  
+†HRS representative. 
+‡ACC/AHA Joint Committee on Performance Measures representative.
+*Former Joint Committee on Clinical Practice Guidelines member; current member 
+during the writing effort.
+Downloaded from http://ahajournals.org by on May 30, 2026
+=== PAGE 52 ===
+CLINICAL STATEMENTS  
+AND GUIDELINES
+June 4, 2024 Circulation. 2024;149:e1239–e1311. DOI: 10.1161/CIR.0000000000001250e1290
+Ommen et al 2024 Hypertrophic Cardiomyopathy Guideline
+ARTICLE INFORMATION
+This document was approved by the American College of Cardiology Clinical 
+Policy Approval Committee and the American Heart Association Science Advi-
+sory and Coordinating Committee in January 2024, and the American College of 
+Cardiology Science and Quality Committee and the American Heart Association 
+Executive Committee in February 2024.
+Supplemental materials are available with this article at https://www.ahajournals.
+org/doi/suppl/10.1161/CIR.0000000000001250
+This article has been copublished in the Journal of the American College of 
+Cardiology.
+Copies: This document is available on the websites of the American Heart 
+Association (professional.heart.org) and the American College of Cardiology (www.
+acc.org). A copy of the document is also available at https://professional.heart.org/
+statements by selecting the “Guidelines & Statements” button. To purchase addi-
+tional reprints, call 215-356-2721 or email Meredith.Edelman@wolterskluwer.com.
+The expert peer review of AHA-commissioned documents (eg, scientific 
+statements, clinical practice guidelines, systematic reviews) is conducted by the 
+AHA Office of Science Operations. For more on AHA statements and guidelines 
+development, visit https://professional.heart.org/statements. Select the “Guide-
+lines & Statements” drop-down menu near the top of the webpage, then click 
+“Publication Development.”
+Permissions: Multiple copies, modification, alteration, enhancement, and dis-
+tribution of this document are not permitted without the express permission of the 
+American Heart Association. Instructions for obtaining permission are located at 
+https://www.heart.org/permissions. A link to the “Copyright Permissions Request 
+Form” appears in the second paragraph (https://www.heart.org/en/about-us/
+statements-and-policies/copyright-request-form).
+REFERENCES
+PREAMBLE
+ 1. Committee on Standards for Developing Trustworthy Clinical Practice 
+Guidelines, Institute of Medicine (US). Clinical Practice Guidelines We Can 
+Trust. National Academies Press; 2011.
+ 2. Committee on Standards for Systematic Reviews of Comparative Ef-
+fectiveness Research, Institute of Medicine (US). Finding What Works 
+in Health Care: Standards for Systematic Reviews. National Academies 
+Press; 2011.
+ 3. Anderson JL, Heidenreich PA, Barnett PG, et al. ACC/AHA statement on 
+cost/value methodology in clinical practice guidelines and performance 
+measures: a report of the American College of Cardiology/ American Heart 
+Association Task Force on Performance Measures and Task Force on Prac-
+tice Guidelines. Circulation. 2014;129:2329–2345.
+ 4. ACCF/AHA Task Force on Practice Guidelines. Methodology Manual and 
+Policies From the ACCF/AHA Task Force on Practice Guidelines. American 
+College of Cardiology and American Heart Association. 2010. Accessed 
+September 23, 2023. https://www.acc.org/Guidelines/About-Guidelines-
+and-Clinical-Documents/Methodology and https://professional.heart.
+org/-/media/phd-files/guidelines-and-statements/methodology_manual_
+and_policies_ucm_319826.pdf.
+ 5. Halperin JL, Levine GN, Al-Khatib SM, et al. Further evolution of the 
+ACC/AHA clinical practice guideline recommendation classification sys-
+tem: a report of the American College of Cardiology/American Heart 
+Association Task Force on Clinical Practice Guidelines. Circulation. 
+2016;133:1426–1428.
+ 6. Arnett DK, Goodman RA, Halperin JL, et al. AHA/ACC/HHS strategies to 
+enhance application of clinical practice guidelines in patients with cardio-
+vascular disease and comorbid conditions: from the American Heart Asso-
+ciation, American College of Cardiology, and US Department of Health and 
+Human Services. Circulation. 2014;130:1662–1667 .
+ 7 . Levine GN, O’Gara PT, Beckman JA, et al. Recent innovations, modifications, 
+and evolution of ACC/AHA clinical practice guidelines: an update for our 
+constituencies: a report of the American College of Cardiology/American 
+Heart Association Task Force on Clinical Practice Guidelines. Circulation. 
+2019;139:e879–e886.
+1.1. Methodology and Evidence Review
+ 1. Animal Studies-Standard-PubMed. In: CADTH Search Filters Database. Ot-
+tawa: CADTH; 2022. Accessed September 14, 2022. https://searchfilters.
+cadth.ca/link/54.
+ 2. Guidelines-Broad-PubMed. In: CADTH Search Filters Database. Ottawa: 
+CADTH; 2022. Accessed September 14, 2022. https://searchfilters.cadth.
+ca/link/75.
+ 3. Guidelines-Standard-PubMed. In: CADTH Search Filters Database. Ottawa: 
+CADTH; 2022. Accessed September 14, 2022. https://searchfilters.cadth.
+ca/link/77 .
+ 4. RCT/ CCT-PubMed. In: CADTH Search Filters Database. Ottawa: CADTH; 
+2022. Accessed September 14, 2022. https://searchfilters.cadth.ca/
+link/108.
+ 5. SR/ MA/ HTA/ ITC-PubMed. In: CADTH Search Filters Database. Ottawa: 
+CADTH; 2022: Accessed September 14, 2022. https://searchfilters.cadth.
+ca/link/99.
+ 6. Donahue KE, Gartlehner G, Schulman ER, et al. Drug Therapy for Early 
+Rheumatoid Arthritis: A Systematic Review Update [Internet]. (Compara-
+tive Effectiveness Review, No. 211.) Appendix A, Search Strings. Agency 
+for Healthcare Research and Quality (US); 2018. Accessed September 14, 
+2022. https://www.ncbi.nlm.nih.gov/books/NBK524945/.
+1.4. Scope of the Guideline
+ 1. Gersh BJ, Maron BJ, Bonow RO, et al. 2011 ACCF/AHA guideline for the 
+diagnosis and treatment of hypertrophic cardiomyopathy: a report of the 
+American College of Cardiology Foundation/American Heart Association 
+Task Force on Practice Guidelines. Circulation. 2011;124:e783–e831.
+ 2. Elliott PM, Anastasakis A, Borger MA, et al. 2014 ESC guidelines on di-
+agnosis and management of hypertrophic cardiomyopathy: the Task Force 
+for the Diagnosis and Management of Hypertrophic Cardiomyopathy of the 
+European Society of Cardiology (ESC). Eur Heart J. 2014;35:2733–2779.
+ 3. Ommen SR, Mital S, Burke MA, et al. 2020 AHA/ACC guideline for the diag-
+nosis and treatment of patients with hypertrophic cardiomyopathy: a report of 
+the American College of Cardiology/American Heart Association Joint Com-
+mittee on Clinical Practice Guidelines. Circulation. 2020;142:e558–e631.
+ 4. January CT, Wann LS, Alpert JS, et al. 2014 AHA/ACC/HRS guideline for 
+the management of patients with atrial fibrillation: a report of the American 
+College of Cardiology/American Heart Association Task Force on Practice 
+Guidelines and the Heart Rhythm Society. Circulation. 2014;130:e199–
+e267 .
+ 5. January CT, Wann LS, Calkins H, et al. 2019 AHA/ACC/HRS focused up-
+date of the 2014 AHA/ACC/HRS guideline for the management of pa-
+tients with atrial fibrillation: a report of the American College of Cardiology/
+American Heart Association Task Force on Clinical Practice Guidelines and 
+the Heart Rhythm Society. Circulation. 2019;140:e125–e151.
+ 6. Joglar JA, Chung MK, et al. 2023 ACC/AHA/ACCP/HRS guideline for 
+the diagnosis and management of atrial fibrillation: a report of the Ameri-
+can College of Cardiology/American Heart Association Joint Committee on 
+Clinical Practice Guidelines. Circulation. 2024;149:e1–e156.
+ 7 . Yancy CW, Jessup M, Bozkurt B, et al. 2013 ACCF/AHA guideline for the 
+management of heart failure: a report of the American College of Cardiol-
+ogy Foundation/American Heart Association Task Force on Practice Guide-
+lines. Circulation. 2013;128:e240–e327 .
+ 8. Yancy CW, Jessup M, Bozkurt B, et al. 2016 ACC/AHA/HFSA focused 
+update on new pharmacological therapy for heart failure: an update of the 
+2013 ACCF/AHA guideline for the management of heart failure: a report 
+of the American College of Cardiology/American Heart Association Task 
+Force on Clinical Practice Guidelines and the Heart Failure Society of Amer-
+ica. Circulation. 2016;134:e282–e293.
+ 9. Heidenreich PA, Bozkurt B, Aguilar D, et al. 2022 AHA/ACC/HFSA guide-
+line for the management of heart failure: a report of the American College of 
+Cardiology/American Heart Association Joint Committee on Clinical Prac-
+tice Guidelines. Circulation. 2022;145:e895–e1032.
+ 10. Arnett DK, Blumenthal RS, Albert MA, et al. 2019 ACC/AHA guideline on 
+the primary prevention of cardiovascular disease: a report of the American 
+College of Cardiology/American Heart Association Task Force on Clinical 
+Practice Guidelines. Circulation. 2019;140:e596–e646.
+ 11. Jensen MD, Ryan DH, Apovian CM, et al. 2013 AHA/ACC/TOS guideline 
+for the management of overweight and obesity in adults: a report of the 
+American College of Cardiology/American Heart Association Task Force on 
+Practice Guidelines and The Obesity Society. Circulation. 2014;129(suppl 
+2):s102–s138.
+ 12. Epstein AE, Dimarco JP, Ellenbogen KA, et al. 2012 ACCF/AHA/HRS 
+focused update incorporated into the ACCF/AHA/HRS 2008 guidelines 
+for device-based therapy of cardiac rhythm abnormalities: A report of the 
+American College of Cardiology Foundation/American Heart Association 
+Task Force on Practice Guidelines and the Heart Rhythm Society. Circula-
+tion. 2013;127:e283–e352.
+Downloaded from http://ahajournals.org by on May 30, 2026
+=== PAGE 53 ===
+CLINICAL STATEMENTS 
+AND GUIDELINES
+Circulation. 2024;149:e1239–e1311. DOI: 10.1161/CIR.0000000000001250 June 4, 2024 e1291
+Ommen et al 2024 Hypertrophic Cardiomyopathy Guideline
+ 13. Al-Khatib SM, Stevenson WG, Ackerman MJ, et al. 2017 AHA/ACC/
+HRS guideline for management of patients with ventricular arrhythmias 
+and the prevention of sudden cardiac death: a report of the Ameri-
+can College of Cardiology/American Heart Association Task Force on 
+Clinical Practice Guidelines and the Heart Rhythm Society. Circulation. 
+2018;138:e272–e391.
+ 14. Kusumoto FM, Schoenfeld MH, Barrett C, et al. 2018 ACC/AHA/
+HRS guideline on the evaluation and management of patients with 
+bradycardia and cardiac conduction delay: a report of the American 
+College of Cardiology/American Heart Association Task Force on 
+Clinical Practice Guidelines and the Heart Rhythm Society. Circulation. 
+2019;140:e382–e482.
+ 15. Mosca L, Benjamin EJ, Berra K, et al. Effectiveness-based guide-
+lines for the prevention of cardiovascular disease in women-2011 
+update: a guideline from the American Heart Association. Circulation. 
+2011;123:1243–1262.
+ 16. Smith SC Jr, Benjamin EJ, Bonow RO, et al. AHA/ACCF secondary preven-
+tion and risk reduction therapy for patients with coronary and other ath-
+erosclerotic vascular disease: 2011 update: a guideline from the American 
+Heart Association and American College of Cardiology Foundation. Circula-
+tion. 2011;124:2458–2473.
+ 17 . Greenland P, Alpert JS, Beller GA, et al. 2010 ACCF/AHA guideline for 
+assessment of cardiovascular risk in asymptomatic adults: a report of the 
+American College of Cardiology Foundation/American Heart Association 
+Task Force on Practice Guidelines. Circulation. 2010;122:e584–e636.
+ 18. Jones DW, Hall JE. Seventh report of the Joint National Committee on Pre-
+vention, Detection, Evaluation, and Treatment of High Blood Pressure and 
+evidence from new hypertension trials. Hypertension. 2004;43:1–3.
+ 19. Nishimura RA, O’Gara PT, Bavaria JE, et al. 2019 AATS/ACC/ASE/SCAI/
+STS expert consensus systems of care document: a proposal to optimize 
+care for patients with valvular heart disease: a joint report of the American 
+Association for Thoracic Surgery, American College of Cardiology, Ameri-
+can Society of Echocardiography, Society for Cardiovascular Angiography 
+and Interventions, and Society of Thoracic Surgeons. J Am Coll Cardiol. 
+2019;73:2609–2635.
+2.1. Prevalence
+ 1. Burns J, Jean-Pierre P. Disparities in the diagnosis of hypertrophic obstruc-
+tive cardiomyopathy: a narrative review of current literature. Cardiol Res 
+Pract. 2018;2018:3750879.
+ 2. Semsarian C, Ingles J, Maron MS, et al. New perspectives on the prevalence 
+of hypertrophic cardiomyopathy. J Am Coll Cardiol. 2015;65:1249–1254.
+ 3. Maron MS, Hellawell JL, Lucove JC, et al. Occurrence of clinically diag-
+nosed hypertrophic cardiomyopathy in the United States. Am J Cardiol. 
+2016;117:1651–1654.
+ 4. Eberly LA, Day SM, Ashley EA, et al. Association of race with disease ex-
+pression and clinical outcomes among patients with hypertrophic cardiomy-
+opathy. JAMA Cardiol. 2020;5:83–91.
+2.2. Nomenclature and Differential Diagnosis
+ 1. Maron BJ, Desai MY, Nishimura RA, et al. Diagnosis and evaluation of hy-
+pertrophic cardiomyopathy: JACC state-of-the-art review. J Am Coll Cardiol. 
+2022;79:372–389.
+ 2. Maron BJ, Ommen SR, Semsarian C, et al. Hypertrophic cardiomyopathy: 
+present and future, with translation into contemporary cardiovascular medi-
+cine. J Am Coll Cardiol. 2014;64:83–99.
+ 3. Maron BJ. Clinical course and management of hypertrophic cardiomyopa-
+thy. N Engl J Med. 2018;379:655–668.
+ 4. Maron BJ, Rowin EJ, Casey SA, et al. How hypertrophic cardiomyopathy be-
+came a contemporary treatable genetic disease with low mortality: shaped 
+by 50 years of clinical research and practice. JAMA Cardiol. 2016;1:98–
+105.
+ 5. Maron BJ, Rowin EJ, Casey SA, et al. Hypertrophic cardiomyopathy in adult-
+hood associated with low cardiovascular mortality with contemporary man-
+agement strategies. J Am Coll Cardiol. 2015;65:1915–1928.
+ 6. Keegan MT, Sinak LJ, Nichols DA, et al. Dynamic left ventricular outflow tract 
+obstruction in acute coronary syndromes. Mayo Clin Proc. 2000;75:216–
+217 .
+ 7 . Sherrid MV, Riedy K, Rosenzweig B, et al. Distinctive hypertrophic cardiomy-
+opathy anatomy and obstructive physiology in patients admitted with Takot-
+subo Syndrome. Am J Cardiol. 2020;125:1700–1709.
+2.3. Definition, Clinical Diagnosis, and Phenotype
+ 1. Geske JB, Ommen SR, Gersh BJ. Hypertrophic cardiomyopathy: clinical up-
+date. J Am Coll Cardiol HF. 2018;6:364–375.
+ 2. Marian AJ, Braunwald E. Hypertrophic cardiomyopathy: genetics, 
+pathogenesis, clinical manifestations, diagnosis, and therapy. Circ Res. 
+2017;121:749–770.
+ 3. Maron BJ, Ommen SR, Semsarian C, et al. Hypertrophic cardiomyopathy: 
+present and future, with translation into contemporary cardiovascular medi-
+cine. J Am Coll Cardiol. 2014;64:83–99.
+ 4. Maron BJ. Clinical course and management of hypertrophic cardiomyopa-
+thy. N Engl J Med. 2018;379:655–668.
+2.4. Etiology
+ 1. Burke MA, Cook SA, Seidman JG, et al. Clinical and mechanistic insights 
+into the genetics of cardiomyopathy. J Am Coll Cardiol. 2016;68:2871–
+2886.
+ 2. Ingles J, Burns C, Bagnall RD, et al. Nonfamilial hypertrophic cardiomyop-
+athy: prevalence, natural history, and clinical implications. Circ Cardiovasc 
+Genet. 2017;10:e001620.
+ 3. Tadros R, Francis C, Xu X, et al. Shared genetic pathways contribute to risk 
+of hypertrophic and dilated cardiomyopathies with opposite directions of 
+effect. Nat Genet. 2021;53:128–134.
+ 4. Ho CY, Day SM, Ashley EA, et al. Genotype and lifetime burden of disease 
+in hypertrophic cardiomyopathy: insights from the Sarcomeric Human Car-
+diomyopathy Registry (SHaRE). Circulation. 2018;138:1387–1398.
+2.5. Natural History and Clinical Course
+ 1. Ho CY, Day SM, Ashley EA, et al. Genotype and lifetime burden of disease 
+in hypertrophic cardiomyopathy: insights from the Sarcomeric Human Car-
+diomyopathy Registry (SHaRE). Circulation. 2018;138:1387–1398.
+ 2. Maron BJ, Rowin EJ, Casey SA, et al. How hypertrophic cardiomyopathy be-
+came a contemporary treatable genetic disease with low mortality: shaped 
+by 50 years of clinical research and practice. JAMA Cardiol. 2016;1:98–
+105.
+ 3. Maron BJ. Clinical course and management of hypertrophic cardiomyopa-
+thy. N Engl J Med. 2018;379:655–668.
+ 4. Lopes LR, Losi MA, Sheikh N, et al. Association between common cardio-
+vascular risk factors and clinical phenotype in patients with hypertrophic 
+cardiomyopathy from the European Society of Cardiology (ESC) EurObser-
+vational Research Programme (EORP) Cardiomyopathy/Myocarditis Regis-
+try. Eur Heart J Qual Care Clin Outcomes. 2022;9:42–53.
+3.1. Left Ventricular Outflow Tract Obstruction
+ 1. Maron MS, Olivotto I, Zenovich AG, et al. Hypertrophic cardiomyopathy is 
+predominantly a disease of left ventricular outflow tract obstruction. Circula-
+tion. 2006;114:2232–2239.
+ 2. Geske JB, Sorajja P, Ommen SR, et al. Variability of left ventricular outflow 
+tract gradient during cardiac catheterization in patients with hypertrophic 
+cardiomyopathy. J Am Coll Cardiol Intv. 2011;4:704–709.
+ 3. Adams JC, Bois JP, Masaki M, et al. Postprandial hemodynamics in hyper-
+trophic cardiomyopathy. Echocardiography. 2015;32:1614–1620.
+ 4. Jain R, Osranek M, Jan MF, et al. Marked respiratory-related fluctuations 
+in left ventricular outflow tract gradients in hypertrophic obstructive car-
+diomyopathy: an observational study. Eur Heart J Cardiovasc Imaging. 
+2018;19:1126–1133.
+ 5. Ayoub C, Geske JB, Larsen CM, et al. Comparison of Valsalva maneuver, 
+amyl nitrite, and exercise echocardiography to demonstrate latent left ven-
+tricular outflow obstruction in hypertrophic cardiomyopathy. Am J Cardiol. 
+2017;120:2265–2271.
+ 6. Nistri S, Olivotto I, Maron MS, et al. Timing and significance of exercise-
+induced left ventricular outflow tract pressure gradients in hypertrophic car-
+diomyopathy. Am J Cardiol. 2010;106:1301–1306.
+ 7 . Reant P, Dufour M, Peyrou J, et al. Upright treadmill vs. semi-supine bi-
+cycle exercise echocardiography to provoke obstruction in symptomatic 
+hypertrophic cardiomyopathy: a pilot study. Eur Heart J Cardiovasc Imaging. 
+2018;19:31–38.
+ 8. Joshi S, Patel UK, Yao S-S, et al. Standing and exercise Doppler echocar-
+diography in obstructive hypertrophic cardiomyopathy: the range of gradi-
+ents with upright activity. J Am Soc Echocardiogr. 2011;24:75–82.
+ 9. Feiner E, Arabadjian M, Winson G, et al. Post-prandial upright exercise 
+echocardiography in hypertrophic cardiomyopathy. J Am Coll Cardiol. 
+2013;61:2487–2488.
+ 10. Pellikka PA, Oh JK, Bailey KR, et al. Dynamic intraventricular obstruction 
+during dobutamine stress echocardiography. A new observation. Circulation. 
+1992;86:1429–1432.
+ 11. Elesber A, Nishimura RA, Rihal CS, et al. Utility of isoproterenol to provoke 
+outflow tract gradients in patients with hypertrophic cardiomyopathy. Am J 
+Cardiol. 2008;101:516–520.
+Downloaded from http://ahajournals.org by on May 30, 2026

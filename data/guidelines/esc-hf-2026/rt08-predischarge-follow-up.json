@@ -1,0 +1,64 @@
+{
+  "schemaVersion": 1,
+  "id": "esc-hf-2026.rt08-predischarge-follow-up",
+  "guidelineId": "esc-hf-2026",
+  "number": "Recommendation Table 8",
+  "type": "recommendations",
+  "title": {
+    "en": "Recommendations for pre-discharge and early post-discharge follow-up of patients hospitalized for decompensated heart failure",
+    "ru": "Рекомендации по ведению перед выпиской и раннему наблюдению после выписки пациентов, госпитализированных по поводу декомпенсированной сердечной недостаточности"
+  },
+  "tags": [
+    "predischarge",
+    "postdischarge",
+    "decompensated-hf",
+    "dhf",
+    "congestion",
+    "fmt",
+    "uptitration",
+    "rehospitalization",
+    "follow-up"
+  ],
+  "source": {
+    "expectedRows": 2
+  },
+  "i18nStatus": {
+    "ru": "reviewed"
+  },
+  "sections": [
+    {
+      "id": "sec-predischarge-follow-up",
+      "title": {
+        "en": "Recommendations for pre-discharge and early post-discharge follow-up of patients hospitalized for decompensated heart failure (see Evidence Tables 59–67)",
+        "ru": "Рекомендации по ведению перед выпиской и раннему наблюдению после выписки пациентов, госпитализированных по поводу декомпенсированной сердечной недостаточности (см. Доказательные таблицы 59–67)"
+      },
+      "rows": [
+        {
+          "id": "r01",
+          "text": {
+            "en": "Careful evaluation^[c] before discharge is recommended in patients hospitalized for DHF to exclude persistent signs of congestion.",
+            "ru": "Тщательное обследование^[c] перед выпиской рекомендуется пациентам, госпитализированным по поводу декомпенсированной СН (DHF), для исключения персистирующих признаков застоя."
+          },
+          "class": "I",
+          "level": "C"
+        },
+        {
+          "id": "r02",
+          "text": {
+            "en": "An intensive strategy of rapid initiation and uptitration of FMT before discharge and during frequent follow-up visits in the first 6 weeks following an HFH is recommended to reduce the risk of HF rehospitalization or death.",
+            "ru": "Интенсивная стратегия быстрого назначения и титрации базовой терапии (FMT) перед выпиской и в ходе частых визитов наблюдения в первые 6 недель после госпитализации по поводу СН рекомендуется для снижения риска повторной госпитализации по поводу СН или смерти."
+          },
+          "class": "I",
+          "level": "B2",
+          "refs": [311]
+        }
+      ]
+    }
+  ],
+  "footnotes": {
+    "c": {
+      "en": "Clinical evaluation, natriuretic peptide levels (Table 9), kidney function and electrolytes, imaging (see Figure 14).",
+      "ru": "Клиническая оценка, уровни натрийуретических пептидов (Таблица 9), функция почек и электролиты, визуализирующие методы (см. Рисунок 14)."
+    }
+  }
+}

@@ -1,0 +1,465 @@
+Table 1. What Is New: New and Substantially Revised Recommendations in the 2024 HCM Guideline*
+New or 
+Revised
+2024  
+Section Title Recommendation in 2020 HCM Guideline
+COR in 2020 
+Guideline Recommendation in 2024 HCM Guideline
+COR in 2024 
+Guideline
+Revised 6.5 Heart Rhythm 
+Assessment
+In patients with HCM who have additional 
+risk factors for AF, such as left atrial dilatation, 
+advanced age, and NYHA functional class III 
+to class IV HF, and who are eligible for  
+anticoagulation, extended ambulatory  
+monitoring is reasonable to screen for AF as 
+part of initial evaluation and periodic follow-up.
+2a In patients with HCM who are deemed to be 
+at high risk for developing AF based on the 
+presence of risk factors or as determined by 
+a validated risk score, and who are eligible for 
+anticoagulation, extended ambulatory  
+monitoring is recommended to screen for AF as 
+part of initial evaluation and annual follow-up.
+1
+New 6.7 Exercise 
+Stress Testing
+N/A N/A In pediatric patients with HCM, regardless 
+of symptom status, exercise stress testing is 
+recommended to determine functional  
+capacity and to provide prognostic information.
+1
+Revised 7 .2 Patient  
+Selection for ICD 
+Placement
+For patients ≥16 years of age with HCM and 
+with ≥1 major SCD risk factors, discussion 
+of the estimated 5-year sudden death risk 
+and mortality rates can be useful during the 
+shared decision-making process for ICD 
+placement.
+2a For patients with HCM with ≥1 major SCD 
+risk factor, discussion of the estimated 5-year 
+sudden death risk and mortality rates can 
+be useful during the shared decision-making 
+process for ICD placement.
+2a
+Revised 8.1.1  
+Pharmacological 
+Management of 
+Symptomatic 
+Patients with  
+Obstructive HCM
+For patients with obstructive HCM who have 
+persistent severe symptoms attributable  
+to LVOTO despite beta blockers or  
+nondihydropyridine calcium channel blockers, 
+either adding disopyramide in combination 
+with 1 of the other drugs, or SRT performed 
+at experienced centers, is recommended.
+1 For patients with obstructive HCM who have 
+persistent symptoms attributable to LVOTO 
+despite beta blockers or nondihydropyridine 
+calcium channel blockers, adding a  
+myosin inhibitor (adult patients only), or  
+disopyramide (in combination with an  
+atrioventricular nodal blocking agent), or  
+SRT performed at experienced centers, is  
+recommended.
+1
+New 8.2 Management 
+of Patients With 
+Nonobstructive 
+HCM With  
+Preserved EF
+N/A N/A For younger (eg, ≤45 years of age) patients 
+with nonobstructive HCM due to a  
+pathogenic or likely pathogenic cardiac  
+sarcomere genetic variant, and a mild  
+phenotype, valsartan may be beneficial to 
+slow adverse cardiac remodeling.
+2b
+New 8.3 Management 
+of Patients With 
+HCM and Ad-
+vanced HF
+N/A N/A In patients with HCM who develop persistent 
+systolic dysfunction (LVEF <50%), cardiac 
+myosin inhibitors should be discontinued.
+1
+Revised 9.1 Recreational 
+Physical Activity 
+and Competitive 
+Sports
+For patients with HCM, participation in  
+high-intensity recreational activities or  
+moderate- to high-intensity competitive sports 
+activities may be considered after a  
+comprehensive evaluation and shared  
+discussion, repeated annually with an expert 
+provider who conveys that the risk of sudden 
+death and ICD shocks may be increased, and 
+with the understanding that eligibility  
+decisions for competitive sports participation 
+often involve third parties (eg, team  
+physicians, consultants, and other institutional 
+leadership) acting on behalf of the schools 
+or teams.
+2b For patients with HCM, participation in  
+vigorous recreational activities is reasonable 
+after an annual comprehensive evaluation and 
+shared decision-making with an expert  
+professional who balances potential benefits 
+and risks.
+2a
+For patients with HCM who are capable of  
+a high level of physical performance,  
+participation in competitive sports may be 
+considered after review by an expert  
+provider with experience managing athletes 
+with HCM who conducts an annual  
+comprehensive evaluation and shared  
+decision-making that balances potential ben-
+efits and risks.
+2b
+New 9.1 Recreational 
+Physical Activity 
+and Competitive 
+Sports
+N/A N/A For most patients with HCM, universal  
+restriction from vigorous physical activity or 
+competitive sports is not indicated.
+3: No Benefit
+New 9.3 Pregnancy 
+in Patients With 
+HCM
+N/A N/A In pregnant women, use of mavacamten is 
+contraindicated due to potential teratogenic 
+effects.
+3: Harm
+*Table 1 highlights new and substantially revised practice-changing recommendations since 2020 and is not a comprehensive list of all updates in this guideline.
+AF indicates atrial fibrillation; COR, Class of Recommendation; EF, ejection fraction; HCM, hypertrophic cardiomyopathy; HF, heart failure; ICD, implantable cardioverter- 
+defibrillator; L VEF, left ventricular ejection fraction; L VOTO, left ventricular outflow tract obstruction; N/A, not applicable; NYHA, New York Heart Association; SCD,  
+sudden cardiac death; and SRT, septal reduction therapy.
+Downloaded from http://ahajournals.org by on May 30, 2026
+=== PAGE 4 ===
+CLINICAL STATEMENTS  
+AND GUIDELINES
+June 4, 2024 Circulation. 2024;149:e1239–e1311. DOI: 10.1161/CIR.0000000000001250e1242
+Ommen et al 2024 Hypertrophic Cardiomyopathy Guideline
+TOP 10 TAKE-HOME MESSAGES
+ 1. Shared decision-making is essential to provide the 
+best clinical care. This involves thoughtful dialogue 
+among patients, families, and their care team in 
+which health care professionals present all avail-
+able testing and treatment options; discuss the 
+risks, benefits, and applicability of those options 
+to the individual patient; and ensure the patient 
+expresses their personal preferences and goals to 
+develop their treatment plan.
+ 2. Although the primary cardiology team can initiate 
+evaluation, treatment, and longitudinal care, refer-
+ral to multidisciplinary hypertrophic cardiomyopa-
+thy (HCM) centers with appropriate expertise can 
+be important to optimizing care for patients with 
+HCM. Challenging treatment decisions—where 
+reasonable alternatives exist, where the strength of 
+recommendation is weak (eg, any decision relying 
+on a Class of Recommendation 2b) or is particu-
+larly nuanced (eg, interpretation of genetic testing;  
+primary prevention implantable cardioverter- 
+defibrillator decision-making), and for HCM-
+specific invasive procedures—may critically benefit 
+from involving specialized HCM centers.
+ 3. Careful ascertainment of family history, counseling 
+patients with HCM about the potential for genetic 
+transmission of HCM, and options for genetic 
+testing are cornerstones of care. Screening first-
+degree family members of patients with HCM, 
+using either genetic testing, serial imaging, or elec-
+trocardiographic surveillance as appropriate, can 
+begin at any age and can be influenced by spe-
+cifics of the patient and family history and family 
+preference. Because screening recommendations 
+for family members hinge on the pathogenicity of 
+any detected variants, the reported pathogenic-
+ity should be reconfirmed every 2 to 3 years, and 
+input from specialized HCM centers with genetics 
+expertise may be valuable.
+ 4. Assessing a patient’s risk for sudden cardiac 
+death is an important component of management. 
+Integrating the presence or absence of established 
+risk markers with tools to estimate individual risk 
+score will facilitate the patient’s ability to par-
+ticipate in decision-making regarding implantable  
+cardioverter-defibrillator placement. These discus-
+sions should incorporate a patient’s personal level 
+of risk tolerance and their specific treatment goals.
+ 5. The risk factors for sudden cardiac death in children 
+with HCM carry different weights and components 
+than those used in adult patients. Pediatric risk 
+stratification also varies with age and must account 
+for different body sizes. Coupled with the complex-
+ity of placing implantable cardioverter-defibrillators 
+in young patients with anticipated growth and a 
+higher risk of device complications, the threshold 
+for implantable cardioverter-defibrillator implan-
+tation in children often differs from adults. These 
+differences are best addressed at comprehensive 
+HCM centers with expertise in caring for children 
+with HCM. New risk calculators, specific to chil-
+dren and adolescents, have been validated and can 
+help young patients and their families contextualize 
+their estimated risk of sudden cardiac death.
+ 6. Cardiac myosin inhibitors are now available to 
+treat patients with symptomatic obstructive HCM. 
+This new class of medication inhibits actin-myosin 
+interaction, thus decreasing cardiac contractility 
+and reducing left ventricular outflow tract obstruc-
+tion. Mavacamten is currently the only US Food 
+and Drug Administration–approved agent. These 
+agents can be beneficial for patients with obstruc-
+tive HCM who do not derive adequate symptomatic 
+relief from first-line drug therapy.
+ 7 . Invasive septal reduction therapies (surgical septal 
+myectomy and alcohol septal ablation), when per-
+formed by experienced HCM teams at dedicated 
+centers, can provide safe and effective symp-
+tomatic relief for patients with drug-refractory or 
+severe outflow tract obstruction. Given the data on 
+the significantly improved outcomes at compre-
+hensive HCM centers, these decisions represent 
+an optimal opportunity for referral.
+ 8. Patients with HCM and persistent or paroxysmal 
+atrial fibrillation have a sufficiently increased risk 
+of stroke such that oral anticoagulation with direct-
+acting oral anticoagulants (or alternatively warfarin) 
+should be considered the default treatment option 
+irrespective of the CHA2DS2-VASc score. New tools 
+to stratify risk for incident atrial fibrillation have been 
+developed and may assist in determining the fre-
+quency of screening patients with ambulatory telem-
+etry. Because rapid atrial fibrillation is often poorly 
+tolerated in patients with HCM, maintenance of sinus 
+rhythm and rate control are key treatment goals.
+ 9. Exercise stress testing is particularly helpful in 
+determining overall exercise tolerance and for 
+latent exercise provoked left ventricular out-
+flow tract obstruction. Because children may not 
+describe symptoms readily, routine exercise testing 
+can be particularly important for young patients.
+ 10. Increasingly, data affirm that the beneficial effects 
+of exercise on general health are extended to 
+patients with HCM. Healthy recreational exercise 
+(light [<3 metabolic equivalents], moderate [3-6 
+metabolic equivalents], and vigorous [>6 metabolic 
+equivalents] intensity levels) has not been associ-
+ated with increased risk of ventricular arrhythmia 
+events in short-term studies. If patients pursue rig-
+orous exercise training for the purpose of perfor-
+mance or competition, it is important to engage in 
+Downloaded from http://ahajournals.org by on May 30, 2026
+=== PAGE 5 ===
+CLINICAL STATEMENTS 
+AND GUIDELINES
+Circulation. 2024;149:e1239–e1311. DOI: 10.1161/CIR.0000000000001250 June 4, 2024 e1243
+Ommen et al 2024 Hypertrophic Cardiomyopathy Guideline
+a comprehensive discussion and seek input from 
+expert HCM professionals regarding the poten-
+tial risks and benefits, to develop an individualized 
+training plan, and to establish a regular schedule 
+for reevaluation.
+PREAMBLE
+Since 1980, the American College of Cardiology (ACC) 
+and American Heart Association (AHA) have translated 
+scientific evidence into clinical practice guidelines with 
+recommendations to improve cardiovascular health. 
+These guidelines, which are based on systematic meth-
+ods to evaluate and classify evidence, provide a founda-
+tion for the delivery of quality cardiovascular care. The 
+ACC and AHA sponsor the development and publication 
+of clinical practice guidelines without commercial sup-
+port, and members volunteer their time to the writing and 
+review efforts. Guidelines are the official policy of the 
+ACC and AHA. For some guidelines, the ACC and AHA 
+partner with other organizations.
+Intended Use
+Clinical practice guidelines provide recommendations 
+applicable to patients with or at risk of developing car-
+diovascular disease. The focus is on medical practice in 
+the United States, but these guidelines are relevant to 
+patients throughout the world. Although guidelines may 
+be used to inform regulatory or payer decisions, the in-
+tent is to improve quality of care and align with patients’ 
+interests. Guidelines are intended to define practices 
+meeting the needs of patients in most, but not all, cir-
+cumstances and should not replace clinical judgment.
+Clinical Implementation
+Management, in accordance with guideline recommenda-
+tions, is effective only when followed by both practition-
+ers and patients. Adherence to recommendations can be 
+enhanced by shared decision-making between clinicians 
+and patients, with patient engagement in selecting inter-
+ventions on the basis of individual values, preferences, 
+and associated conditions and comorbidities.
+The ACC/AHA Joint Committee on Clinical Prac-
+tice Guidelines (Joint Committee) continuously reviews, 
+updates, and modifies guideline methodology on the 
+basis of published standards from organizations, includ-
+ing the Institute of Medicine,1,2 and on the basis of inter-
+nal reevaluation. Similarly, presentation and delivery of 
+guidelines are reevaluated and modified in response to 
+evolving technologies and other factors to optimally facil-
+itate dissemination of information to health care profes-
+sionals at the point of care.
+Numerous modifications to the guidelines have been 
+implemented to make them shorter and enhance “user 
+friendliness.” Guidelines are written and presented in a 
+modular, “knowledge chunk” format, in which each chunk 
+includes a table of recommendations, a brief synopsis, 
+recommendation-specific supportive text, and, when 
+appropriate, flow diagrams or additional tables. Hyper-
+linked references are provided for each modular knowl-
+edge chunk to facilitate quick access and review.
+In recognition of the importance of cost–value con-
+siderations, in certain guidelines, when appropriate and 
+feasible, an analysis of value for a drug, device, or inter-
+vention may be performed in accordance with the ACC/
+AHA methodology.3
+To ensure that guideline recommendations remain cur-
+rent, new data will be reviewed on an ongoing basis by 
+the writing committee and staff. Going forward, targeted 
+sections/knowledge chunks will be revised dynamically 
+after publication and timely peer review of potentially 
+practice-changing science. The previous designations of 
+“full revision” and “focused update” will be phased out. 
+For additional information and policies on guideline devel-
+opment, readers may consult the ACC/AHA guideline 
+methodology manual4 and other methodology articles.5–7
+Selection of Writing Committee Members
+The Joint Committee strives to ensure that the guide-
+line writing committee contains requisite content exper-
+tise and is representative of the broader cardiovascular 
+community by selection of experts across a spectrum of 
+backgrounds, representing different geographic regions, 
+sexes, races, ethnicities, intellectual perspectives/biases, 
+and clinical practice settings. Organizations and profes-
+sional societies with related interests and expertise are 
+invited to participate as collaborators.
+Relationships With Industry and Other Entities
+The ACC and AHA have rigorous policies and methods 
+to ensure that documents are developed without bias or 
+improper influence. The complete policy on relationships 
+with industry and other entities (RWI) can be found online. 
+Appendix 1 of the guideline lists writing committee mem-
+bers’ comprehensive and relevant RWI; for the purposes 
+of full transparency, comprehensive and relevant disclosure 
+information for the Joint Committee is also available online.
+Evidence Review and Evidence Review 
+Committees
+In developing recommendations, the writing commit-
+tee uses evidence-based methodologies that are based 
+on all available data. 4,5 Literature searches focus on  
+randomized controlled trials (RCTs) but also include reg-
+istries, nonrandomized comparative and descriptive stud-
+ies, case series, cohort studies, systematic reviews, and 
+expert opinion. Only key references are cited.
+Downloaded from http://ahajournals.org by on May 30, 2026
+=== PAGE 6 ===
+CLINICAL STATEMENTS  
+AND GUIDELINES
+June 4, 2024 Circulation. 2024;149:e1239–e1311. DOI: 10.1161/CIR.0000000000001250e1244
+Ommen et al 2024 Hypertrophic Cardiomyopathy Guideline
+An independent evidence review committee is com-
+missioned when there are ≥ 1 questions deemed of 
+utmost clinical importance and merit formal systematic 
+review to determine which patients are most likely to ben-
+efit from a drug, device, or treatment strategy and to what 
+degree. Criteria for commissioning an evidence review 
+committee and formal systematic review include absence 
+of a current authoritative systematic review, feasibility of 
+defining the benefit and risk in a time frame consistent 
+with the writing of a guideline, relevance to a substantial 
+number of patients, and likelihood that the findings can 
+be translated into actionable recommendations. Evidence 
+review committee members may include methodologists, 
+epidemiologists, clinicians, and biostatisticians. Recom-
+mendations developed by the writing committee on the 
+basis of the systematic review are marked “SR”.
+Guideline-Directed Management and Therapy
+The term guideline-directed management and therapy 
+(GDMT) encompasses clinical evaluation, diagnostic 
+testing, and both pharmacological and procedural treat-
+ments. For these and all recommended drug treatment 
+regimens, the reader should confirm dosage with prod-
+uct insert material and evaluate for contraindications 
+and interactions. Recommendations are limited to drugs, 
+devices, and treatments approved for clinical use in the 
+United States.
+Joshua A. Beckman, MD, MS, FAHA, FACC
+Chair, ACC/AHA Joint Committee on  
+Clinical Practice Guidelines
+1. INTRODUCTION
+1.1. Methodology and Evidence Review
+The recommendations listed in this guideline are,  
+whenever possible, evidence based. An initial extensive 
+evidence review, which included literature derived from 
+research involving human subjects, published in English, 
+and indexed in MEDLINE (through PubMed), EMBASE, 
+the Cochrane Library, the Agency for Healthcare Re-
+search and Quality, and other selected databases rel-
+evant to this guideline, was conducted from September 
+14, 2022, to November 2022, and included literature 
+published between 2013 and 2022. Various published 
+search hedges were used to eliminate animal studies 
+and to locate relevant material that may not have been 
+retrievable using existing database study type filters at 
+the time the searches were performed. 1–6 Key search 
+words included but were not limited to the following: 
+hypertrophic cardiomyopathy, coronary, ischemia, sys-
+tole, atrial fibrillation, exercise, stroke volume, transplant, 
+magnetic resonance imaging, sudden death, left ven-
+tricular hypertrophy, subvalvular stenosis, echocardiog-
+raphy, nuclear magnetic resonance imaging, computed 
+tomographic angiography, genetic testing, and diagnostic 
+imaging. Additional relevant studies, published through 
+May 23, 2023, during the guideline writing process, were 
+also considered by the writing committee and added to 
+the evidence tables when appropriate. The final evidence 
+tables are included in the Online Data Supplement and 
+summarize the evidence used by the writing committee 
+to formulate recommendations. References selected and 
+published in the present document are representative 
+and not all-inclusive.
+1.2. Composition of the Writing Committee
+The writing committee consisted of clinicians, adult car-
+diologists, pediatric cardiologists, interventionalists, a 
+cardiac surgeon, and 2 lay/patient representatives. The 
+writing committee included representatives from the 
+ACC, AHA, American Medical Society for Sports Medi-
+cine, Heart Rhythm Society, Pediatric & Congenital Elec-
+trophysiology Society, and Society for Cardiovascular 
+Magnetic Resonance. Appendix 1 of the current docu-
+ment lists writing committee members’ comprehensive 
+and relevant RWI.
+1.3. Document Review and Approval
+The Joint Committee appointed a peer review commit-
+tee to review the document. The peer review committee 
+was composed of individuals nominated by ACC, AHA, 
+and the collaborating organizations. Reviewers’ RWI in-
+formation was distributed to the writing committee and is 
+published in Appendix 2.
+This document was approved for publication by the 
+governing bodies of the ACC and the AHA and was 
+endorsed by American Medical Society for Sports Medi-
+cine, Heart Rhythm Society, Pediatric & Congenital Elec-
+trophysiology Society, and Society for Cardiovascular 
+Magnetic Resonance.
+1.4. Scope of the Guideline
+In developing the “2024 AHA/ACC/AMSSM/HRS/
+PACES/SCMR Guideline for the Management of Hy-
+pertrophic Cardiomyopathy” (2024 HCM guideline), the 
+writing committee reviewed previously published guide-
+lines. 

@@ -1,0 +1,67 @@
+{
+  "schemaVersion": 1,
+  "id": "esc-hf-2026.rt16-revascularization-ccs-in-hf",
+  "guidelineId": "esc-hf-2026",
+  "number": "Recommendation Table 16",
+  "type": "recommendations",
+  "title": {
+    "en": "Recommendations for revascularization in chronic coronary syndrome in patients with heart failure",
+    "ru": "Рекомендации по реваскуляризации при хроническом коронарном синдроме у пациентов с сердечной недостаточностью"
+  },
+  "tags": [
+    "revascularization",
+    "chronic-coronary-syndrome",
+    "ccs",
+    "cad",
+    "cabg",
+    "hfref",
+    "hfpef",
+    "angina"
+  ],
+  "source": {
+    "expectedRows": 2
+  },
+  "i18nStatus": {
+    "ru": "reviewed"
+  },
+  "sections": [
+    {
+      "id": "sec-symptom-improvement",
+      "title": {
+        "en": "Revascularization for symptom improvement (HFpEF and HFrEF) (see Evidence Table 82)",
+        "ru": "Реваскуляризация для облегчения симптомов (СНсФВ и СНнФВ / HFpEF и HFrEF) (см. Доказательную таблицу 82)"
+      },
+      "rows": [
+        {
+          "id": "r01",
+          "text": {
+            "en": "Coronary revascularization is recommended in patients with HF, obstructive CAD, and persistent angina, despite FMT for HF and antianginal drugs, to relieve symptoms.",
+            "ru": "Коронарная реваскуляризация рекомендуется пациентам с СН, обструктивной ИБС и персистирующей стенокардией, несмотря на базовую медикаментозную терапию (FMT) по поводу СН и антиангинальные препараты, для облегчения симптомов."
+          },
+          "class": "I",
+          "level": "C",
+          "refs": [734, 735]
+        }
+      ]
+    },
+    {
+      "id": "sec-outcome-improvement",
+      "title": {
+        "en": "Revascularization for outcome improvement (HFrEF)",
+        "ru": "Реваскуляризация для улучшения прогноза (СНнФВ / HFrEF)"
+      },
+      "rows": [
+        {
+          "id": "r02",
+          "text": {
+            "en": "If revascularization is planned after assessment by a Heart Team, CABG should be considered as the preferred revascularization strategy, in patients with LVEF ≤35% and multivessel CAD suitable for surgery, to improve long-term survival.",
+            "ru": "Если после оценки мультидисциплинарной кардиокомандой (Heart Team) планируется реваскуляризация, коронарное шунтирование (КШ / CABG) следует рассматривать в качестве предпочтительной стратегии реваскуляризации у пациентов с ФВЛЖ ≤35% и многососудистым поражением коронарного русла, подходящим для хирургического лечения, для улучшения долгосрочной выживаемости."
+          },
+          "class": "IIa",
+          "level": "B1",
+          "refs": [180]
+        }
+      ]
+    }
+  ]
+}

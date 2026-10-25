@@ -90,6 +90,7 @@ function renderRecentsList() {
         const favs = getFavorites();
         let booksHtml = '';
         recents.forEach(book => {
+            const localCoverFallback = book.cover ? `${typeof BASE_URL !== 'undefined' ? BASE_URL : './'}${book.path}/${book.cover}` : 'assets/img/book-placeholder.png';
             const coverImagePath = book.cover ? (typeof window.getImageUrl === 'function' ? window.getImageUrl(`${book.path}/${book.cover}`) : `${IMAGES_BASE_URL}${book.path}/${book.cover}`) : 'assets/img/book-placeholder.png';
             const neonColor = generateNeonColor(book.title);
             const isFav = favs.includes(book.path);
@@ -97,8 +98,8 @@ function renderRecentsList() {
             booksHtml += `
                 <div class="book-card recent-card" data-book-path="${book.path}" data-chapter="${book.chapter}" data-edition="${book.edition}">
                     <div class="book-cover-wrapper">
-                        <img src="${coverImagePath}" alt="${book.title}" class="book-cover-img"
-                             onerror="this.onerror=null; this.src='assets/img/book-placeholder.png'; this.classList.add('cover-fallback');" />
+                        <img src="${coverImagePath}" data-fallback="${localCoverFallback}" alt="${book.title}" class="book-cover-img"
+                             onerror="if (this.dataset.fallback && this.src !== this.dataset.fallback) { this.src = this.dataset.fallback; } else { this.onerror=null; this.src='assets/img/book-placeholder.png'; this.classList.add('cover-fallback'); }" />
                         <div class="fav-btn ${isFav ? 'active' : ''}" data-path="${book.path}">❤</div>
                     </div>
                     <div class="neon-info" style="color: ${neonColor};">
@@ -352,7 +353,9 @@ function generateNeonColor(bookTitle) {
 
 function renderBookCard(bookPath, bookMeta, visibility = 'all') {
     const coverImage = bookMeta.cover_image;
-    const coverImagePath = coverImage ? (typeof window.getImageUrl === 'function' ? window.getImageUrl(`${bookPath}/${coverImage}`) : `${IMAGES_BASE_URL}${bookPath}/${coverImage}`) : 'assets/img/book-placeholder.png';
+    const coverRel = coverImage ? `${bookPath}/${coverImage}` : '';
+    const coverImagePath = coverRel ? (typeof window.getImageUrl === 'function' ? window.getImageUrl(coverRel) : `${IMAGES_BASE_URL}${coverRel}`) : 'assets/img/book-placeholder.png';
+    const localCoverFallback = coverRel ? `${typeof BASE_URL !== 'undefined' ? BASE_URL : './'}${coverRel}` : 'assets/img/book-placeholder.png';
     const firstChapter = bookMeta.chapters && bookMeta.chapters.length > 0 ? bookMeta.chapters[0].file.replace('.md', '') : 'chapter-01';
     const neonColor = generateNeonColor(bookMeta.title);
     const escapedTitle = bookMeta.title.replace(/"/g, '&quot;');
@@ -386,8 +389,8 @@ function renderBookCard(bookPath, bookMeta, visibility = 'all') {
              data-visibility="${visibility}">
             <div class="book-cover-wrapper">
                 ${badgesHtml}
-                <img src="${coverImagePath}" alt="${bookMeta.title}" class="book-cover-img"
-                     onerror="this.onerror=null; this.src='assets/img/book-placeholder.png'; this.classList.add('cover-fallback');" />
+                <img src="${coverImagePath}" data-fallback="${localCoverFallback}" alt="${bookMeta.title}" class="book-cover-img"
+                     onerror="if (this.dataset.fallback && this.src !== this.dataset.fallback) { this.src = this.dataset.fallback; } else { this.onerror=null; this.src='assets/img/book-placeholder.png'; this.classList.add('cover-fallback'); }" />
                 <div class="fav-btn ${isFav ? 'active' : ''}" data-path="${bookPath}">❤</div>
             </div>
             <div class="neon-info" style="color: ${neonColor};">

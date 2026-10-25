@@ -1,0 +1,469 @@
+<details class="med-details"><summary>
+
+## 7. Acute Aortic Syndromes (AAS)</summary><div class="details-content">
+
+Acute aortic syndromes comprise life-threatening conditions involving disruptions of the aortic wall architecture: acute aortic dissection, intramural hematoma (IMH), penetrating atherosclerotic ulcer (PAU), and blunt traumatic aortic injury (BTAI).
+
+### 7.1 Clinical Presentation and Diagnostic Triage
+* **Classic Presentation:** Abrupt onset of severe, excruciating chest, back, or abdominal pain described as sharp, tearing, ripping, or stabbing. Pain migratory pattern follows the path of dissection propagation.
+* **Atypical & High-Risk Features:** Syncope, pulse deficit, blood pressure differential $> 20\text{ mm Hg}$ between arms, new murmur of aortic regurgitation, focal neurological deficit (stroke, paraplegia), acute limb ischemia, or acute renal/mesenteric ischemia.
+* **Risk Stratification Scores:**
+  - **Aortic Dissection Detection Risk Score (ADD-RS):** Evaluates high-risk predisposing conditions (Marfan, BAV, recent aortic intervention), high-risk pain features, and high-risk examination signs. Score 0 (low risk), 1 (intermediate risk), $\ge 2$ (high risk).
+  - **D-Dimer Biomarker Utility:** In low-to-intermediate pretest probability (ADD-RS $\le 1$), a negative D-dimer ($< 500\text{ ng/mL}$) has a $> 98\%$ negative predictive value for ruling out AAS. D-dimer should not be used to rule out AAS in patients with high clinical pretest probability.
+
+
+
+#### Table 22: Signs and Symptoms of AAS
+
+| Clinical Signs and Symptoms | Cause |
+|---|---|
+| Asymmetric blood pressure (>20 mm Hg) between limbs | Compromise of branch artery flow |
+| Bowel ischemia or gastrointestinal bleed | Malperfusion of the celiac or superior mesenteric artery |
+| Dysphagia | Compression of the esophagus |
+| Dyspnea | Compression of trachea or bronchus, congestive heart failure from aortic regurgitation, or cardiac tamponade |
+| Hemoptysis | Vascular rupture into lung parenchyma |
+| Hoarseness | Compression recurrent laryngeal nerve |
+| Horner's syndrome | Compression of sympathetic chain |
+| Myocardial ischemia or myocardial infarction | Coronary artery involvement by dissection or compression by aneurysm |
+| New murmur of aortic regurgitation | Incomplete aortic valve closure secondary to leaflet tethering by the dilated aorta or cusp prolapse because of dissection into the aortic root |
+| Oliguria or hematuria (gross) | Malperfusion of 1 or both renal arteries |
+| Paraplegia | Spinal malperfusion attributable intercostal artery involvement |
+| Lower extremity ischemia | Malperfusion of iliac artery |
+| Shock | Cardiac tamponade, hemothorax, frank aortic rupture, acute severe aortic regurgitation, severe myocardial ischemia |
+| Shortness of breath | Pericardial effusion, congestive heart failure from acute severe aortic regurgitation, or hemothorax |
+| Stroke symptoms | Carotid or vertebral artery involved |
+| Superior vena cava syndrome | Compression of the superior vena cava |
+| Syncope | Carotid artery involvement or cardiac tamponade |
+
+
+#### Table 23: Plain Chest X-Ray Suggestive of Aortic Dissection
+
+| Signs of Aortic Dissection on Chest X-Ray Findings |
+|---|
+| Mediastinal widening |
+| Disruption of the normally distinct contour of the aortic knob |
+| "Calcium sign," which appears as a separation of the intimal calcification from the aortic wall of >5 mm |
+| Double density appearance within the aorta |
+| Tracheal deviation to the right |
+| Deviation of the nasogastric tube to the right |
+
+
+#### Table 24: Aortic Dissection Detection Risk Score (ADD-RS) Items^[a]
+
+| High-Risk Conditions | High-Risk Pain Features | High-Risk Examination Features |
+|---|---|---|
+| • Marfan syndrome or other connective tissue disease<br>• Family history of aortic disease<br>• Known aortic valve disease<br>• Recent aortic manipulation<br>• Known thoracic aortic aneurysm | Chest, back, or abdominal pain described as:<br>• Abrupt onset<br>• Severe in intensity<br>• Ripping or tearing in quality | • Pulse deficit or systolic blood pressure differential<br>• Focal neurologic deficit (with pain)<br>• Murmur of aortic regurgitation (new, with pain)<br>• Hypotension or shock state |
+
+
+#### Table 25: Aorta Simplified Score (AORTAs) Pretest Probability Assessment Score^[a]
+
+| Clinical Item | Points |
+|---|---|
+| Hypotension/shock | 2 |
+| Aneurysm | 1 |
+| Pulse deficit | 1 |
+| Neurologic deficit | 1 |
+| Severe pain | 1 |
+| Sudden-onset pain | 1 |
+
+
+### Recommendation Table 48 — Recommendations for AAS: Diagnostic Evaluation (Imaging, Laboratory Testing)
+
+**AAS: Diagnostic Evaluation**
+
+| Recommendations | Class | Level |
+|---|:---:|:---:|
+| In patients with a suspected AAS, CT is recommended for initial diagnostic imaging, given its wide availability, accuracy, and speed, as well as the extent of anatomic detail it provides. | **I** | **C-LD** |
+| In patients with a suspected AAS, TEE and MRI are reasonable alternatives for initial diagnostic imaging. | **IIa** | **C-LD** |
+
+
+### 7.3 Medical Management of Acute Aortic Syndromes
+* **Immediate Anti-Impulse Therapy (Class 1, Level of Evidence B-NR):**
+  - **Target Heart Rate and Blood Pressure:** Initial intravenous beta-blocker therapy (esmolol, labetalol) titrated to **heart rate $< 60\text{ bpm}$**, followed by intravenous vasodilators (nicardipine, nitroprusside) if needed to achieve **systolic blood pressure between $100\text{ and }120\text{ mm Hg}$** (or the lowest tolerated pressure preserving cerebral, renal, and coronary perfusion).
+  - **Critical Sequence Principle:** Vasodilators must **never** be administered before beta-blockers to prevent reflex tachycardia and increased ventricular ejection velocity ($dP/dt$), which accelerates dissection propagation.
+* **Pain Relief:** Intravenous opioids (fentanyl, morphine) to alleviate pain and blunt sympathetic overdrive.
+* **Long-Term Blood Pressure Target (Class 1, Level B-NR):** Maintenance blood pressure **$< 120/80\text{ mm Hg}$** using oral beta-blockers, ACE inhibitors, or ARBs.
+
+
+
+### Recommendation Table 49 — Recommendations for Acute Medical Management of AAS
+
+**Acute Medical Management of AAS**
+
+| Recommendations | Class | Level |
+|---|:---:|:---:|
+| In patients presenting to the hospital with AAS, prompt treatment with anti-impulse therapy with invasive monitoring of BP with an arterial line in an ICU setting is recommended as initial treatment to decrease aortic wall stress. | **I** | **B-NR** |
+| Patients with AAS should be treated to an SBP <120 mm Hg or to lowest BP that maintains adequate end-organ perfusion, as well as to a target heart rate of 60 to 80 bpm. | **I** | **C-LD** |
+| In patients with AAS, initial management should include intravenous beta blockers, except in patients with contraindications. | **I** | **B-NR** |
+| In those with contraindications or intolerance to beta blockers, initial management with an intravenous non-dihydropyridine calcium channel blocker is reasonable for heart rate control. | **IIa** | **B-NR** |
+| In patients with AAS, initial management should include intravenous vasodilators if the BP is not well controlled after initiation of intravenous beta-blocker therapy. | **I** | **C-LD** |
+| Patients with AAS should be treated with pain control, as needed, to help with hemodynamic management. | **I** | **C-EO** |
+
+
+### Recommendation Table 50 — Recommendation for Subsequent Medical Management of AAS
+
+**Subsequent Medical Management of AAS**
+
+| Recommendations | Class | Level |
+|---|:---:|:---:|
+| In patients with AAS, it is recommended to treat with long-term beta blockers (unless contraindicated) to control heart rate and BP to reduce late aortic-related adverse events. Additional antihypertensive agents (particularly ARBs and ACEIs) should be added, as necessary, to adequately control BP. | **I** | **B-NR** |
+
+
+### 7.4 Surgical and Endovascular Management of Acute Aortic Dissection
+
+#### 7.4.1 Acute Type A Aortic Dissection (ATAAD)
+* **Emergency Surgical Repair (Class 1, Level of Evidence B-NR):** Emergent open surgical repair is indicated for all patients with acute Type A aortic dissection to prevent fatal pericardial tamponade, aortic rupture, coronary malperfusion, and acute severe aortic regurgitation.
+* **Operative Principles:**
+  - Resection of the primary intimal tear.
+  - Replacement of the ascending aorta (hemiarch or total arch replacement).
+  - Reconstruction of the aortic root with resuspension of the native aortic valve or root replacement (valve-sparing reimplantation or composite mechanical/biological graft).
+  - **Extended Arch Repair With Frozen Elephant Trunk (FET):** Recommended in selected patients with arch entry tears, arch aneurysms, or distal malperfusion to optimize true lumen expansion.
+* **Management of Malperfusion in Type A Dissection:**
+  - Up to 30% of ATAAD cases present with malperfusion syndrome (coronary, cerebral, mesenteric, renal, or extremity).
+  - In mesenteric malperfusion with established bowel ischemia/necrosis, primary percutaneous endovascular fenestration/stenting of visceral arteries before open cardiac repair may be considered by experienced multidisciplinary teams.
+
+![Figure 21: Acute Aortic Dissection: Malperfusion Treatment Options and Decision Algorithm](images/fig21_malperfusion_treatment_options.jpg)
+
+
+
+#### Table 26: Clinical Evidence of Malperfusion ("Malperfusion Syndrome")
+
+| End Organ | Clinical Findings |
+|---|---|
+| Cardiac | Electrocardiographic changes of ischemia or infarction, troponin elevation, myocardial dysfunction |
+| Cerebral | Stroke and neurologic deficits, coma and altered mental status |
+| Spinal | Paraplegia |
+| Mesenteric | Abdominal pain, bowel ischemia, lactic acidosis, elevation of liver function test results |
+| Renal | Acute kidney injury, oliguria |
+| Extremity | Loss of pulses in ≥1 extremity, sensory or motor dysfunction |
+
+
+### Recommendation Table 51 — Recommendations for Initial Surgical Considerations in Acute Type A Aortic Dissection
+
+**Initial Surgical Considerations in Acute Type A Aortic Dissection**
+
+| Recommendations | Class | Level |
+|---|:---:|:---:|
+| In patients presenting with suspected or confirmed acute type A aortic dissection, emergency surgical consultation and evaluation and immediate surgical intervention is recommended because of the high risk of associated life-threatening complications. | **I** | **B-NR** |
+| In patients presenting with acute type A aortic dissection, who are stable enough for transfer, transfer from a low- to a high-volume aortic center is reasonable to improve survival. | **IIa** | **B-NR** |
+| In patients presenting with nonhemorrhagic stroke complicating acute type A aortic dissection, surgical intervention is reasonable over medical therapy to reduce mortality and improve neurologic outcomes. | **IIa** | **B-NR** |
+
+
+### Recommendation Table 52 — Recommendations for Management of Malperfusion
+
+**Management of Malperfusion**
+
+| Recommendations | Class | Level |
+|---|:---:|:---:|
+| In patients with acute type A aortic dissection presenting with renal, mesenteric, or lower extremity malperfusion, it is recommended to proceed to immediate operative repair of the ascending aorta. | **I** | **B-NR** |
+| In patients with acute type A aortic dissection presenting with clinically significant mesenteric (celiac, SMA) malperfusion, either immediate operative repair of the ascending aorta or immediate mesenteric revascularization via endovascular or open surgical intervention by those with this expertise before ascending aortic repair is reasonable. | **IIa** | **C-LD** |
+
+
+### Recommendation Table 53 — Recommendations for Surgical Repair Strategies in Acute Type A Aortic Dissection
+
+**Aortic Repair Strategies**
+
+| Recommendations | Class | Level |
+|---|:---:|:---:|
+| In patients with acute type A aortic dissection and a partially dissected aortic root but no significant aortic valve leaflet pathology, aortic valve resuspension is recommended over valve replacement. | **I** | **B-NR** |
+| In patients with acute type A aortic dissection who have extensive destruction of the aortic root, a root aneurysm, or a known genetic aortic disorder, aortic root replacement is recommended with a mechanical or biological valved conduit. | **I** | **B-NR** |
+| In selected patients who are stable, valve-sparing root repair may be reasonable, when performed by experienced surgeons in a Multidisciplinary Aortic Team. | **IIb** | **C-LD** |
+| In patients with acute type A aortic dissection undergoing aortic repair, an open distal anastomosis is recommended to improve survival and increase false-lumen thrombosis rates. | **I** | **B-NR** |
+| In patients with acute type A aortic dissection without an intimal tear in the arch or a significant arch aneurysm, hemiarch repair is recommended over more extensive arch replacement. | **I** | **B-NR** |
+| In patients with acute type A aortic dissection and a dissection flap extending through the arch into the descending thoracic aorta, an extended aortic repair with antegrade stenting of the proximal descending thoracic aorta may be considered to treat malperfusion and reduce late distal aortic complications. | **IIb** | **C-LD** |
+
+**Perfusion and Cannulation Strategies**
+
+| Recommendations | Class | Level |
+|---|:---:|:---:|
+| In patients with acute type A aortic dissection undergoing surgical repair, axillary cannulation, when feasible, is reasonable over femoral cannulation to reduce the risk of stroke or retrograde malperfusion. | **IIa** | **B-NR** |
+| In patients with acute type A aortic dissection undergoing surgical repair who require circulatory arrest, cerebral perfusion is reasonable to improve neurologic outcomes. | **IIa** | **B-NR** |
+| In patients with acute type A aortic dissection undergoing surgical repair, direct aortic or innominate artery cannulation with imaging guidance is reasonable as an alternative to femoral or axillary cannulation. | **IIa** | **B-NR** |
+
+
+#### 7.4.2 Acute Type B Aortic Dissection (ATBAD)
+* **Complicated Acute Type B Dissection (Class 1, Level of Evidence B-NR):** Defined by the presence of rupture, impending rupture, malperfusion syndrome (visceral, renal, lower limb), refractory pain, or uncontrolled hypertension despite maximal medical therapy. **Emergent TEVAR is the first-line treatment of choice**, achieving immediate true lumen restoration and covering the primary intimal tear.
+* **High-Risk Uncomplicated Type B Dissection (Class 2a, Level B-R):** In medically stable patients presenting with high-risk clinical or morphological features:
+  - False lumen diameter $\ge 22\text{ mm}$
+  - Primary intimal entry tear diameter $\ge 10\text{ mm}$
+  - Total aortic diameter $\ge 40\text{ mm}$
+  - Partial false lumen thrombosis
+  - Persistent or recurrent pain
+  - Refractory hypertension
+  - TEVAR in the subacute phase ($15\text{ to }90$ days) is reasonable to promote false lumen thrombosis, prevent aneurysmal degeneration, and reduce late aortic-related mortality (INSTEAD-XL trial).
+* **Low-Risk Uncomplicated Type B Dissection:** Managed with optimal medical therapy (aggressive anti-impulse therapy, BP control, and serial surveillance imaging).
+
+
+
+#### Table 27: Consensus Features of Complicated Acute Type B Aortic Dissection
+
+| Feature | Comment |
+|---|---|
+| Aortic rupture | This can be either free or contained (including hemothorax, increasing periaortic hematoma, or both; or mediastinal hematoma) and should be addressed promptly. |
+| Branch artery occlusion and malperfusion | Complete or partial occlusion of a major branch, with or without clinical evidence of ischemia; this includes visceral, renal, and peripheral arterial branches. |
+| Extension of dissection | Extension of the dissection flap either distally or proximally (ie, retrograde type A dissection) |
+| Aortic enlargement | Progressive enlargement of the true, false, or both lumens while in the acute phase may require prompt intervention. |
+| Intractable pain | — |
+| Uncontrolled hypertension | — |
+
+
+#### Table 28: High-Risk Features in Uncomplicated Acute Type B Aortic Dissection
+
+| High-Risk Features in Uncomplicated Acute Type B Aortic Dissection |
+|---|
+| **High-Risk Imaging Findings** |
+| Maximal aortic diameter >40 mm |
+| False-lumen diameter >20–22 mm |
+| Entry tear >10 mm |
+| Entry tear on lesser curvature |
+| Increase in total aortic diameter of >5 mm between serial imaging studies |
+| Bloody pleural effusion |
+| Imaging-only evidence of malperfusion |
+| **High-Risk Clinical Findings** |
+| Refractory hypertension despite >3 different classes of antihypertensive medications at maximal recommended or tolerated doses |
+| Refractory pain persisting >12 h despite maximal recommended or tolerated doses |
+| Need for readmission |
+
+
+### Recommendation Table 54 — Recommendations for the Management of Acute Type B Aortic Dissection
+
+**Management of Acute Type B Aortic Dissection**
+
+| Recommendations | Class | Level |
+|---|:---:|:---:|
+| In all patients with uncomplicated acute type B aortic dissection, medical therapy is recommended as the initial management strategy. | **I** | **B-NR** |
+| In patients with acute type B aortic dissection and rupture or other complications (Table 27), intervention is recommended. | **I** | **C-LD** |
+| In patients with rupture, in the presence of suitable anatomy, endovascular stent grafting, rather than open surgical repair, is recommended. | **I** | **C-EO** |
+| In patients with other complications, in the presence of suitable anatomy, the use of endovascular approaches, rather than open surgical repair, is reasonable. | **IIa** | **C-LD** |
+| In patients with uncomplicated acute type B aortic dissection who have high-risk anatomic features (Table 28), endovascular management may be considered. | **IIb** | **B-R** |
+
+
+### 7.5 Management of Intramural Hematoma (IMH)
+* **Type A IMH (Class 1, Level of Evidence B-NR):** Emergent surgical repair is recommended due to high risk of progression to overt dissection, rupture, or pericardial tamponade (similar to Type A dissection).
+* **Type B IMH:** Initial medical therapy with anti-impulse control is recommended. Endovascular repair (TEVAR) is indicated for complicated IMH characterized by refractory pain, hemodynamic instability, hematoma expansion, or the development of ulcer-like projections (ULPs) (Class 1, Level B-NR).
+
+
+
+#### Table 29: Features of Complicated IMH
+
+| Feature |
+|---|
+| Malperfusion |
+| Periaortic hematoma |
+| Pericardial effusion with cardiac tamponade |
+| Persistent, refractory, or recurrent pain |
+| Rupture |
+
+
+#### Table 30: High-Risk Imaging Features of IMH
+
+| For Type A IMH | For Type B IMH |
+|---|---|
+| Maximum aortic diameter >45–50 mm | Maximum aortic diameter >47–50 mm |
+| Hematoma thickness ≥10 mm | Hematoma thickness ≥13 mm |
+| Focal intimal disruption with ulcer-like projection involving ascending aorta or arch | Focal intimal disruption with ulcer-like projection involving the descending thoracic aorta if it develops in acute phase |
+| Pericardial effusion on admission | Increasing or recurrent pleural effusion |
+| **For Both Type A and Type B IMH** |
+| Progression to aortic dissection |
+| Increasing aortic diameter |
+| Increasing hematoma thickness |
+
+
+### Recommendation Table 55 — Recommendations for Management of IMH
+
+**Management of IMH**
+
+| Recommendations | Class | Level |
+|---|:---:|:---:|
+| In patients with complicated (Table 29) acute type A or type B aortic IMH, urgent repair is recommended. | **I** | **B-NR** |
+| In patients with uncomplicated acute type A IMH, prompt open surgical repair is recommended. | **I** | **B-NR** |
+| In selected patients with uncomplicated acute type A IMH who are at increased operative risk and do not have high-risk imaging features (Table 30), an initial or expectant approach of medical management may be considered. | **IIb** | **C-LD** |
+| In patients with uncomplicated acute type B IMH, medical therapy as the initial management strategy is recommended. | **I** | **B-NR** |
+| In patients with type B IMH who require repair of the distal aortic arch or descending thoracic aorta (zones 2-5) and have favorable anatomy, endovascular repair is reasonable when performed by surgeons with endovascular expertise. | **IIa** | **C-LD** |
+| In patients with type B IMH who require repair of the distal aortic arch or descending thoracic aorta (zones 2-5) and have unfavorable anatomy for endovascular repair, open surgical repair is reasonable. | **IIa** | **C-LD** |
+| In patients with uncomplicated type B IMH and high-risk imaging features (Table 30), intervention may be reasonable. | **IIb** | **C-LD** |
+
+
+### 7.6 Management of Penetrating Atherosclerotic Ulcer (PAU)
+* PAUs arise from ulceration of atheromatous plaques through the internal elastic lamina into the media:
+* **Indications for Intervention (Class 1, Level of Evidence B-NR):** TEVAR is the intervention of choice for PAU associated with persistent/recurrent pain, IMH, pseudoaneurysm, rapid expansion, or rupture.
+* **Isolated Asymptomatic PAU:** Elective TEVAR is reasonable for large PAUs with depth **$> 10\text{ mm}$** or ulcer neck diameter **$> 20\text{ mm}$** due to high natural history risk of progression (Class 2a, Level B-NR).
+
+![Figure 22: Dimensions of Penetrating Atherosclerotic Ulcers (Neck Diameter and Depth)](images/fig22_dimensions_pau.jpg)
+
+
+
+#### Table 31: High-Risk Imaging Features of PAUs
+
+| Feature |
+|---|
+| Maximum PAU diameter ≥13–20 mm |
+| Maximum PAU depth ≥10 mm |
+| Significant growth of PAU diameter or depth |
+| PAU associated with a saccular aneurysm |
+| PAU with an increasing pleural effusion |
+
+
+### Recommendation Table 56 — Recommendations for PAU With IMH, Rupture, or Both
+
+**PAU With IMH, Rupture, or Both**
+
+| Recommendations | Class | Level |
+|---|:---:|:---:|
+| In patients with PAU of the aorta with rupture, urgent repair is recommended. | **I** | **B-NR** |
+| In patients with PAU of the ascending aorta with associated IMH, urgent repair is recommended. | **I** | **B-NR** |
+| In patients with PAU of the aortic arch or descending thoracic aorta with associated IMH, urgent repair is reasonable. | **IIa** | **C-LD** |
+| In patients with PAU of the abdominal aorta with associated IMH, urgent repair may be considered. | **IIb** | **C-LD** |
+
+
+### Recommendation Table 57 — Recommendations for Isolated PAU
+
+**Isolated PAU**
+
+| Recommendations | Class | Level |
+|---|:---:|:---:|
+| In patients with isolated PAU who are symptomatic and have persistent pain that is clinically correlated with the radiologic findings, repair is recommended. | **I** | **B-NR** |
+| In patients with isolated PAU who are asymptomatic but have high-risk imaging features (Table 31), elective repair may be considered. | **IIb** | **C-LD** |
+
+
+### Recommendation Table 58 — Recommendations for PAU Open Surgical Repair Versus Endovascular Repair
+
+**PAU Open Surgical Repair Versus Endovascular Repair**
+
+| Recommendations | Class | Level |
+|---|:---:|:---:|
+| In patients who require repair of a PAU in the ascending aorta or proximal aortic arch (zones 0-1), open surgical repair is recommended. | **I** | **C-LD** |
+| In patients who require repair of a PAU in the distal aortic arch (zones 2-3), descending thoracic aorta, or abdominal aorta, either open surgical repair or endovascular repair is reasonable, based on anatomy and medical comorbidities. | **IIa** | **C-LD** |
+
+
+### 7.7 Blunt Traumatic Aortic Injury (BTAI)
+* Rapid deceleration injuries in motor vehicle collisions or falls commonly injure the aortic isthmus (distal to left subclavian origin):
+* **Classification and Management of BTTAI:**
+  - **Grade I (Intimal Tear):** Non-operative conservative management with serial imaging and blood pressure control (Class 1, Level B-NR).
+  - **Grade II (Intramural Hematoma):** Urgent TEVAR is reasonable (Class 2a, Level B-NR).
+  - **Grade III (Pseudoaneurysm):** Prompt TEVAR is recommended within 24 hours after stabilizing other life-threatening injuries (Class 1, Level B-NR).
+  - **Grade IV (Rupture / Free Extravasation):** Emergent TEVAR is recommended immediately (Class 1, Level B-NR).
+* **TEVAR as Primary Modality (Class 1, Level of Evidence B-NR):** TEVAR is strongly preferred over open thoracotomy for blunt aortic trauma due to significantly lower operative mortality, reduced blood loss, and markedly lower paraplegia risk.
+
+![Figure 23: Classification System for Blunt Traumatic Thoracic Aortic Injuries (Grades I to IV)](images/fig23_classification_bttai.jpg)
+
+![Figure 24: Abdominal Aortic Zones of Injury for Surgical Approaches](images/fig24_abdominal_aortic_injury_zones.jpg)
+
+
+
+#### Table 32: High-Risk Imaging Features of BTTAI
+
+| Feature |
+|---|
+| Posterior mediastinal hematoma >10 mm |
+| Lesion to normal aortic diameter ratio >1.4 |
+| Mediastinal hematoma causing mass effect |
+| Pseudocoarctation of the aorta |
+| Large left hemothorax |
+| Ascending aortic, aortic arch, or great vessel involvement |
+| Aortic arch hematoma |
+
+
+#### Table 33: Descriptions of Blunt Aortic Injury Grades
+
+| Injury Grade | Descriptions |
+|---|---|
+| 1 | Minor intimal tear, intimal defect, or thrombus (≤10 mm) |
+| 2 | Large intimal flap, intimal defect, or thrombus (>10 mm in length or width) |
+| 3 | Pseudoaneurysm |
+| 4 | Aortic rupture |
+
+
+### Recommendation Table 59 — Recommendations for Initial Management of BTTAI in the Emergency Department
+
+**Initial Management of BTTAI in the Emergency Department**
+
+| Recommendations | Class | Level |
+|---|:---:|:---:|
+| In patients with BTTAI, management and treatment at a trauma center with the facilities and expertise to treat aortic pathology is recommended. | **I** | **C-EO** |
+| In patients with BTTAI, anti-impulse therapy to reduce the risk of injury extension and rupture should be implemented, except in patients with hypotension or hypovolemic shock. | **I** | **C-LD** |
+
+
+### Recommendation Table 60 — Recommendations for Approach to the Initial Management of BTTAI
+
+**Approach to the Initial Management of BTTAI**
+
+| Recommendations | Class | Level |
+|---|:---:|:---:|
+| In patients with grade 1 BTTAI (Figure 23), nonoperative management and follow-up imaging are recommended. | **I** | **C-LD** |
+| In patients with grade 3 to 4 BTTAI (Figure 23) and nonprohibitive comorbidities or injuries, aortic intervention is recommended. | **I** | **C-LD** |
+| In patients with grade 2 BTTAI (Figure 23) and with high-risk imaging features (Table 32), aortic intervention is reasonable. | **IIa** | **C-LD** |
+| In patients with grade 2 BTTAI (Figure 23) and without high-risk imaging features (Table 32), nonoperative management and follow-up surveillance imaging may be reasonable. | **IIb** | **C-LD** |
+
+
+### Recommendation Table 61 — Recommendation for Endovascular Versus Open Surgical Repair
+
+**Endovascular Versus Open Surgical Repair**
+
+| Recommendations | Class | Level |
+|---|:---:|:---:|
+| In patients with BTTAI who meet indications for repair and with appropriate anatomy, TEVAR is recommended over open repair. | **I** | **B-NR** |
+
+
+### Recommendation Table 62 — Recommendations for Initial Management of BAAI
+
+**Initial Management of BAAI**
+
+| Recommendations | Class | Level |
+|---|:---:|:---:|
+| In patients with grade 1 to 2 BAAI (Table 33) without malperfusion, anti-impulse therapy, if clinically tolerated, and repeat imaging within 24 to 48 hours of the initial scan is recommended to reduce risk of injury progression. | **I** | **C-LD** |
+| In patients with grade 4 BAAI (Table 33), repair should be performed to address life-threatening aortic injury. | **I** | **C-LD** |
+| In patients with grade 2 BAAI (Table 33) and associated malperfusion, it is reasonable to consider repair. | **IIa** | **C-LD** |
+| In patients with BAAI, treatment with either endovascular or open repair is reasonable and depends on degree of injury, aortic anatomy, and the patient's overall clinical status. | **IIa** | **C-LD** |
+| In patients with grade 3 BAAI (Table 33), it may be reasonable to consider repair to reduce risk of progression to life-threatening injury. | **IIb** | **C-LD** |
+| In patients with BAAI, the usefulness of routine application of resuscitative endovascular balloon occlusion of the aorta (REBOA) for hemorrhage control is unclear and, in some cases, may cause harm. | **III-harm** | **B-NR** |
+
+
+### Recommendation Table 63 — Recommendations for Long-Term Management and Surveillance After BTAI
+
+**Long-Term Management and Surveillance After BTAI**
+
+| Recommendations | Class | Level |
+|---|:---:|:---:|
+| In patients with BTAI who have undergone aortic repair, surveillance imaging at intervals appropriate for the repair approach and location (see Section 7.8, "Long-Term Management and Surveillance Imaging Following AAS") is reasonable. | **IIa** | **C-LD** |
+| In patients with BTAI who have not undergone repair, surveillance imaging with a CT at 1 month, 6 months, and 12 months after the diagnosis and, if stable, at appropriate intervals thereafter (depending on the type and extent of the injury), may be reasonable. | **IIb** | **C-LD** |
+
+
+### 7.8 Long-Term Management and Surveillance Imaging After AAS
+* **Post-Dissection Surveillance Protocols (Class 1, Level of Evidence B-NR):**
+  - Contrast-enhanced CTA or MRA before hospital discharge or at **1 month**, followed by imaging at **6 months**, **12 months**, and **annually thereafter**.
+  - Monitoring focuses on true lumen patency, false lumen thrombosis or expansion, entry tear closure, stent-graft position, and branch vessel perfusion.
+* **Strict Hemodynamic Control:** Lifelong target blood pressure $< 120/80\text{ mm Hg}$ with beta-blockers as foundational agents.
+
+
+
+### Recommendation Table 64 — Recommendations for Long-Term Surveillance Imaging After Aortic Dissection and IMH
+
+**Long-Term Surveillance Imaging After Aortic Dissection and IMH**
+
+| Recommendations | Class | Level |
+|---|:---:|:---:|
+| In patients who have had an acute aortic dissection and IMH treated with either open or endovascular aortic repair and have residual aortic disease, surveillance imaging with a CT (or MRI) is recommended after 1 month, 6 months, and 12 months and then, if stable, annually thereafter. | **I** | **B-NR** |
+| In patients who have had an acute aortic dissection and IMH that was managed with medical therapy alone, surveillance imaging with a CT (or MRI) is recommended after 1 month, 6 months, and 12 months and then, if stable, annually thereafter. | **I** | **B-NR** |
+
+
+### Recommendation Table 65 — Recommendation for Long-Term Management After Acute Aortic Dissection and IMH
+
+**Long-Term Management After Acute Aortic Dissection and IMH**
+
+| Recommendations | Class | Level |
+|---|:---:|:---:|
+| In patients with a previous acute aortic dissection and IMH, whether initially treated medically or with intervention, who have chronic residual TAD and an aneurysm with a total aortic diameter of ≥5.5 cm, elective thoracic aortic repair is recommended. | **I** | **B-NR** |
+
+
+### Recommendation Table 66 — Recommendations for Long-Term Management and Surveillance for PAUs
+
+**Long-Term Management and Surveillance for PAUs**
+
+| Recommendations | Class | Level |
+|---|:---:|:---:|
+| In patients with a PAU who have undergone aortic repair, surveillance imaging at intervals appropriate for the repair approach and location (see Section 6.5.6, "Surveillance After Aneurysm Repair") is reasonable. | **IIa** | **C-LD** |
+| In patients with a PAU that is being managed medically, surveillance imaging with a CT is reasonable at 1 month after the diagnosis and, if stable, every 6 months for 2 years, and then at appropriate intervals thereafter (depending on patient age and PAU characteristics). | **IIa** | **C-LD** |
+
+
+</div></details>

@@ -1,0 +1,1124 @@
+
+=== PAGE 60 ===
+May 3, 2022 Circulation. 2022;145:e895–e1032. DOI: 10.1161/CIR.0000000000001063e954
+CLINICAL STATEMENTS  
+AND GUIDELINES
+Heidenreich et al 2022 AHA/ACC/HFSA Heart Failure Guideline
+7.8.2. Treatment of Cardiac Amyloidosis
+Recommendations for Treatment of Cardiac Amyloidosis
+Referenced studies that support the recommendations are summa-
+rized in the Online Data Supplements.
+COR LOE Recommendations
+1 B-R
+1. In select patients with wild-type or variant trans-
+thyretin cardiac amyloidosis and NYHA class I 
+to III HF symptoms, transthyretin tetramer sta-
+bilizer therapy (tafamidis) is indicated to reduce 
+cardiovascular morbidity and mortality.1
+Value Statement: 
+Low Value (B-NR)
+2. At 2020 list prices, tafamidis provides low 
+economic value (>$180 000 per QAL Y gained) 
+in patients with HF with wild-type or variant 
+transthyretin cardiac amyloidosis.2
+2a C-LD
+3. In patients with cardiac amyloidosis and AF, 
+anticoagulation is reasonable to reduce the 
+risk of stroke regardless of the CHA2DS2-VASc 
+(congestive heart failure, hypertension, age 
+≥75 years, diabetes mellitus, stroke or transient 
+ischemic attack [TIA], vascular disease, age 65 
+to 74 years, sex category) score.3,4
+Synopsis
+For patients with ATTR-CM and EF ≤40%, GDMT may 
+be poorly tolerated. The vasodilating effects of ARNi, 
+ACEi, and ARB may exacerbate hypotension, especially 
+with amyloid-associated autonomic dysfunction. Beta 
+blockers may worsen HF symptoms as patients with AT-
+TR-CM rely on heart rate response to maintain cardiac 
+output. The benefit of ICDs in ATTR-CM has not been 
+studied in randomized trials, and a case-control study 
+showed unclear benefit. 5 CRT has not been studied in 
+ATTR-CM with HFrEF. Disease-modifying therapies in-
+clude TTR silencers (disrupt hepatic synthesis via mRNA 
+inhibition/degradation: inotersen and patisiran), TTR 
+stabilizers (prevent misfolding/deposition: diflunisal and 
+tafamidis), and TTR disruptors (target tissue clearance: 
+doxycycline, tauroursodeoxycholic acid [TUDCA], and 
+epigallocatechin-3-gallate [EGCG] in green tea). Light 
+chain cardiac amyloidosis is managed by hematology-
+oncology specialists and beyond the scope of cardiolo-
+gists, but diagnosis is often made by cardiologists when 
+cardiac amyloid becomes manifest (Figure 13). AL amy-
+loidosis is treatable, and patients with AL amyloidosis 
+with cardiac involvement should promptly be referred to 
+hematology-oncology for timely treatment. Inotersen and 
+patisiran are associated with slower progression of am-
+yloidosis-related polyneuropathy in ATTRv-CM. 6,7 There 
+are ongoing trials of the impact of inotersen and pati-
+siran and newer generation mRNA inhibitors-degraders 
+on cardiovascular morbidity or mortality. There is limited 
+benefit of diflunisal, 8 doxycycline plus TUDCA, 9,10 and 
+EGCG,11 on surrogate endpoints such as L V mass, but 
+the impact of these agents on cardiovascular morbid-
+ity and mortality has not been assessed. Evaluation and 
+management of autonomic dysfunction, volume status, 
+and arrhythmia are important.
+Recommendation-Specific Supportive Text
+1. Tafamidis is currently the only therapy to improve 
+cardiovascular outcomes in ATTR-CM. 1 Tafamidis 
+binds the thyroxin-binding site of TTR. In the 
+ATTR-ACT (Safety and Efficacy of Tafamidis in 
+Patients With Transthyretin Cardiomyopathy) 
+clinical trial, a randomized trial of patients with 
+ATTRwt-CM or ATTRv-CM and NYHA class I to 
+III symptoms, tafamidis had lower all-cause mor-
+tality (29.5% versus 42.9%) and lower cardio-
+vascular-related hospitalization (0.48 versus 0.70 
+per year) after 30 months. 1 There was a higher 
+rate of cardiovascular-related hospitalizations in 
+patients with NYHA class III HF, potentially attrib-
+utable to longer survival during a more severe 
+period of disease. Given that tafamidis prevents 
+but does not reverse amyloid deposition, tafami-
+dis is expected to have greater benefit when 
+administered early in the disease course. As the 
+survival curves separate after 18 months, patients 
+for whom noncardiac disease is not expected to 
+limit survival should be selected. Benefit has not 
+been observed in patients with class IV symp-
+toms, severe aortic stenosis, or impaired renal 
+function (eGFR <25 mL·min −1·1.73 m −2 body 
+surface area). Tafamidis is available in 2 formula-
+tions: tafamidis meglumine is available in 20-mg 
+capsules; and the FDA-approved dose is 80 mg 
+(4 capsules) once daily. Tafamidis is also avail-
+able in 61-mg capsules; the FDA-approved dose 
+for this new formulation is 61 mg once daily.
+2. One model-based analyses used the results of 
+the ATTR-ACT study 1 to evaluate the cost-effec-
+tiveness of chronic tafamidis compared with no 
+amyloidosis-specific therapy among patients with 
+wild-type or variant transthyretin amyloidosis and 
+NYHA class I to III HF. 2 With assumptions that 
+tafamidis remained effective beyond the clinical 
+trial duration, they estimated tafamidis increased 
+average survival by 1.97 years and QAL Y by 1.29. 
+Despite these large clinical benefits, tafamidis 
+(with an annual cost of $225 000) had an incre-
+mental cost-effectiveness ratio >$180 000 per 
+QAL Y gained, the benchmark used by this guide-
+line for low value. The cost of tafamidis would 
+need to decrease by approximately 80% for it 
+to be intermediate value with a cost per QAL Y 
+<$180 000.
+3. Intracardiac thrombosis occurs in approximately 
+one-third of patients with cardiac amyloidosis, in 
+some cases in the absence of diagnosed AF 3,4,12 
+and regardless of CHA 2DS2-VASc score. 13 The 
+use of anticoagulation reduced the risk of intra-
+cardiac thrombi in a retrospective study. 4 The 
+choice of direct oral anticoagulants (DOAC) 
+Downloaded from http://ahajournals.org by on May 30, 2026
+=== PAGE 61 ===
+Circulation. 2022;145:e895–e1032. DOI: 10.1161/CIR.0000000000001063 May 3, 2022 e955
+CLINICAL STATEMENTS 
+AND GUIDELINES
+Heidenreich et al 2022 AHA/ACC/HFSA Heart Failure Guideline
+versus warfarin has not been studied in patients 
+with ATTR, nor has the role of left atrial append-
+age closure devices. The risk of anticoagulation 
+on bleeding risk in patients with ATTR-CM and 
+AF has not been established. However, although 
+patients with AL amyloidosis may have acquired 
+hemostatic abnormalities, including coagulation 
+factor deficiencies, hyperfibrinolysis, and platelet 
+dysfunction, TTR amyloidosis is not associated 
+with hemostatic defects.
+8. STAGE D (ADVANCED) HF
+8.1. Specialty Referral for Advanced HF
+Recommendation for Specialty Referral for Advanced HF
+COR LOE Recommendation
+1 C-LD
+1. In patients with advanced HF, when consistent 
+with the patient’s goals of care, timely refer-
+ral for HF specialty care is recommended to 
+review HF management and assess suitability 
+for advanced HF therapies (eg, LVAD, cardiac 
+transplantation, palliative care, and palliative 
+inotropes).1–6
+Synopsis
+A subset of patients with chronic HF will continue to 
+progress and develop persistently severe symptoms 
+despite maximum GDMT. Several terms have been 
+used to describe this population, including “end-stage,” 
+“advanced,” and “refractory” HF. In 2018, the European 
+Society of Cardiology updated its definition of advanced 
+HF (Table 16), which now includes 4 distinct criteria. 1 
+The revised definition focuses on refractory symptoms 
+rather than cardiac function and more clearly acknowl-
+edges that advanced HF can occur in patients without 
+severely reduced EF, including those with isolated RV 
+dysfunction, uncorrectable valvular or congenital heart 
+disease, and in patients with preserved and mildly re-
+duced EF. 1,3 The INTERMACS (Interagency Registry 
+for Mechanically Assisted Circulatory Support) has 
+developed 7 profiles that further stratify patients with 
+advanced HF (Table 17). 7
+Determining that HF and not a concomitant pulmonary 
+disorder is the basis of dyspnea is important. Severely 
+symptomatic patients presenting with a new diagnosis 
+of HF can often improve substantially if they are initially 
+stabilized. Patients should also be evaluated for nonad-
+herence to medications. 8–11 Finally, a careful review of 
+medical management should be conducted to verify that 
+all therapies likely to improve clinical status have been 
+considered.
+Recommendation-Specific Supportive Text
+1. Clinical indicators of advanced HF that should trig-
+ger possible referral to an advanced HF special-
+ist are shown in Table 18. 1,2,12–14 Timely referral for 
+review and consideration of advanced HF therapies 
+is crucial to achieve optimal patient outcomes. 15–17 
+Acronyms such as I-Need-Help…
+I,  Intravenous inotropes
+N,  New York Heart Association (NYHA) class IIIB 
+to IV or persistently elevated natriuretic peptides
+E,   End-organ dysfunction
+E,   EF ≤35%
+D,  Defibrillator shocks
+H,  Hospitalizations >1
+E,   Edema despite escalating diuretics
+L,   Low systolic BP ≤90, high heart rate
+P,    Prognostic medication; progressive intolerance 
+or down-titration of GDMT
+…have been developed to assist in decision-making 
+for referral to advanced HF. 18 Indications and contra-
+indications to durable mechanical support are listed in 
+Table 19. After patients develop end-organ dysfunc-
+tion or cardiogenic shock, they may no longer qualify 
+for advanced therapies. 19,20 A complete assessment 
+of the patient is not required before referral, because 
+comprehensive, multidisciplinary assessment of car-
+diac disease and comorbid conditions is routinely 
+performed when evaluating patients for advanced 
+therapies. 19,20 Decisions around evaluation and use 
+of advanced therapies should be informed by the pa-
+tient’s values, goals, and preferences. Discussion with 
+Table 16. ESC Definition of Advanced HF
+All these criteria must be present despite optimal guideline-directed treatment:
+1. Severe and persistent symptoms of HF (NYHA class III [advanced] or IV)
+2. Severe cardiac dysfunction defined by ≥1 of these:
+   LVEF ≤30%
+   Isolated RV failure
+   Nonoperable severe valve abnormalities
+   Nonoperable severe congenital heart disease
+   EF ≥40%, elevated natriuretic peptide levels and evidence of significant 
+diastolic dysfunction
+3. Hospitalizations or unplanned visits in the past 12 mo for episodes of:
+   Congestion requiring high-dose intravenous diuretics or diuretic com-
+binations
+   Low output requiring inotropes or vasoactive medications
+   Malignant arrhythmias
+4. Severe impairment of exercise capacity with inability to exercise or low 
+6-minute walk test distance (<300 m) or peak VO2 (<12–14 mL/kg/min) 
+estimated to be of cardiac origin
+Criteria 1 and 4 can be met in patients with cardiac dysfunction (as 
+described in criterion 2) but who also have substantial limitations as a 
+result of other conditions (eg, severe pulmonary disease, noncardiac 
+cirrhosis, renal disease). The therapeutic options for these patients may 
+be more limited.
+EF indicates ejection fraction; ESC, European Society of Cardiology; HF, 
+heart failure; LVEF, left ventricular ejection fraction; NYHA, New York Heart As-
+sociation; RV, right ventricular; and VO2, oxygen consumption/oxygen uptake.
+Adapted with permission from Crespo-Leiro et al.1
+Downloaded from http://ahajournals.org by on May 30, 2026
+=== PAGE 62 ===
+May 3, 2022 Circulation. 2022;145:e895–e1032. DOI: 10.1161/CIR.0000000000001063e956
+CLINICAL STATEMENTS  
+AND GUIDELINES
+Heidenreich et al 2022 AHA/ACC/HFSA Heart Failure Guideline
+HF specialists and other members of the multidisci-
+plinary team may help ensure that the patient has ad-
+equate information to make an informed decision.
+8.2. Nonpharmacological Management: 
+Advanced HF
+Recommendation for Nonpharmacological Management: Advanced HF
+COR LOE Recommendation
+2b C-LD
+1. For patients with advanced HF and hypona-
+tremia, the benefit of fluid restriction to reduce 
+congestive symptoms is uncertain.1–4
+Synopsis
+Hyponatremia and diuretic-refractory congestion is 
+common in advanced HF and is associated with poor 
+clinical 5,6 and patient-reported outcomes. 7 Moreover, 
+improvement in hyponatremia has been shown to 
+improve clinical outcomes. 8,9 Fluid restriction is com-
+monly prescribed for patients with hyponatremia in 
+acute HF but only improves hyponatremia modestly. 1 
+Although restricting fluid is a common recommenda-
+tion for patients with HF, evidence in this area is of low 
+quality,10 and many studies have not included patients 
+with advanced HF specifically. Moreover, fluid restric-
+tion has limited-to-no effect on clinical outcomes or 
+diuretic use. 4 Although HF nutritional counseling typi-
+cally focuses on restricting sodium and fluid, patients 
+with advanced HF have the greatest risk of developing 
+cachexia or malnutrition. 11 Hence, dietary restrictions 
+and recommendation should be both evidence-based 
+and comprehensive.
+Recommendation-Specific Supportive Text
+1. In a registry study of hyponatremia in acute decom-
+pensated HF, fluid restriction only improved hypo-
+natremia marginally.1 A registered dietitian-guided 
+fluid and sodium restriction intervention improved 
+NYHA functional classification and leg edema in 
+patients with HFrEF who were not in stage D HF, 2 
+and fluid restriction improved QOL in a pilot RCT of 
+patients with HFrEF and HFpEF (NYHA class I to 
+IV).3 In a meta-analysis of RCTs on fluid restriction 
+in HF in general, restricted fluid intake compared 
+with free fluid consumption did not result in reduced 
+hospitalization or mortality rates, changes in thirst, 
+the duration of intravenous diuretic use, serum cre-
+atinine, or serum sodium levels. 4 The validity of a 
+previous trial supporting clinical benefits of fluid 
+restriction in HF is in serious question.12
+Table 17. INTERMACS Profiles
+Profile* Profile Description Features
+1 Critical cardiogenic shock Life-threatening hypotension and rapidly escalating inotropic/pressor support, with critical organ hypoperfusion 
+often confirmed by worsening acidosis and lactate levels.
+2 Progressive decline “Dependent” on inotropic support but nonetheless shows signs of continuing deterioration in nutrition, renal 
+function, fluid retention, or other major status indicator. Can also apply to a patient with refractory volume over-
+load, perhaps with evidence of impaired perfusion, in whom inotropic infusions cannot be maintained because 
+of tachyarrhythmias, clinical ischemia, or other intolerance.
+3 Stable but inotrope dependent Clinically stable on mild-moderate doses of intravenous inotropes (or has a temporary circulatory support de-
+vice) after repeated documentation of failure to wean without symptomatic hypotension, worsening symptoms, 
+or progressive organ dysfunction (usually renal).
+4 Resting symptoms on oral 
+therapy at home
+Patient who is at home on oral therapy but frequently has symptoms of congestion at rest or with activities of 
+daily living (dressing or bathing). He or she may have orthopnea, shortness of breath during dressing or bath-
+ing, gastrointestinal symptoms (abdominal discomfort, nausea, poor appetite), disabling ascites, or severe 
+lower extremity edema.
+5 Exertion intolerant Patient who is comfortable at rest but unable to engage in any activity, living predominantly within the house or 
+housebound.
+6 Exertion limited Patient who is comfortable at rest without evidence of fluid overload but who is able to do some mild ac-
+tivity. Activities of daily living are comfortable, and minor activities outside the home such as visiting friends 
+or going to a restaurant can be performed, but fatigue results within a few minutes or with any meaningful 
+physical exertion.
+7 Advanced NYHA class III Patient who is clinically stable with a reasonable level of comfortable activity, despite a history of previous 
+decompensation that is not recent. This patient is usually able to walk more than a block. Any decompensation 
+requiring intravenous diuretics or hospitalization within the previous month should make this person a Patient 
+Profile 6 or lower.
+ICD indicates implantable cardioverter-defibrillator; INTERMACS, Interagency Registry for Mechanically Assisted Circulatory Support; and NYHA, New York Heart 
+Association.
+Adapted from Stevenson et al,7 with permission from the International Society for Heart and Lung Transplantation.
+*Modifier options: Profiles 3 to 6 can be modified for patients with recurrent decompensations leading to frequent (generally at least 2 in past 3 mo or 3 in past 6 
+mo) emergency department visits or hospitalizations for intravenous diuretics, ultrafiltration, or brief inotropic therapy. Profile 3 can be modified in this manner if the 
+patient is usually at home. If a Profile 7 patient meets the modification of frequent hospitalizations, the patient should be moved to Profile 6 or worse. Other modifier 
+options include arrhythmia, which should be used in the presence of recurrent ventricular tachyarrhythmias contributing to the overall clinical course (eg, frequent ICD 
+shocks or requirement of external defibrillation, usually more than twice weekly); or temporary circulatory support for hospitalized patients Profiles 1 to 3.
+Downloaded from http://ahajournals.org by on May 30, 2026
+=== PAGE 63 ===
+Circulation. 2022;145:e895–e1032. DOI: 10.1161/CIR.0000000000001063 May 3, 2022 e957
+CLINICAL STATEMENTS 
+AND GUIDELINES
+Heidenreich et al 2022 AHA/ACC/HFSA Heart Failure Guideline
+8.3. Inotropic Support
+Recommendations for Inotropic Support
+Referenced studies that support the recommendations are  
+summarized in the Online Data Supplements.
+COR LOE Recommendations
+2a B-NR
+1. In patients with advanced (stage D) HF refrac-
+tory to GDMT and device therapy who are 
+eligible for and awaiting MCS or cardiac trans-
+plantation, continuous intravenous inotropic 
+support is reasonable as “bridge therapy. ”1–4
+2b B-NR
+2. In select patients with stage D HF, despite 
+optimal GDMT and device therapy who are 
+ineligible for either MCS or cardiac transplan-
+tation, continuous intravenous inotropic sup-
+port may be considered as palliative therapy 
+for symptom control and improvement in func-
+tional status. 5–7
+3: Harm B-R
+3. In patients with HF, long-term use of either 
+continuous or intermittent intravenous inotropic 
+agents, for reasons other than palliative care or 
+as a bridge to advanced therapies, is potentially 
+harmful.5,6,8–11
+Synopsis
+Despite improving hemodynamic compromise, positive 
+inotropic agents have not shown improved survival in 
+patients with HF in either the hospital or the outpatient 
+setting.6 Regardless of their mechanism of action (eg, in-
+hibition of phosphodiesterase, stimulation of adrenergic 
+or dopaminergic receptors, calcium sensitization), paren-
+teral inotropes remain an option to help the subset of 
+patients with HF who are refractory to other therapies 
+and are suffering consequences from end-organ hypo-
+perfusion. In hospitalized patients presenting with doc-
+umented severe systolic dysfunction who present with 
+low blood pressure and significantly low cardiac index, 
+short-term, continuous intravenous inotropic support 
+may be reasonable to maintain systemic perfusion and 
+preserve end-organ performance. 8,11,12 There continues 
+to be lack of robust evidence to suggest the clear benefit 
+of 1 inotrope over another.13 To minimize adverse effects, 
+lower doses of parenteral inotropic drugs are preferred, 
+although the development of tachyphylaxis should be ac-
+knowledged, and the choice of agent may need to be 
+changed during longer periods of support. Similarly, the 
+ongoing need for inotropic support and the possibility of 
+discontinuation should be regularly assessed. Table 20 
+compares commonly used inotropes.
+Table 18. Clinical Indicators of Advanced HF1,2,12,13,23–37
+Repeated hospitalizations or emergency department visits for HF in the past 
+12 mo.
+Need for intravenous inotropic therapy.
+Persistent NYHA functional class III to IV symptoms despite therapy.
+Severely reduced exercise capacity (peak VO2, <14 mL/kg/min or <50% 
+predicted, 6-min walk test distance <300 m, or inability to walk 1 block on 
+level ground because of dyspnea or fatigue).
+Intolerance to RAASi because of hypotension or worsening renal function.
+Intolerance to beta blockers as a result of worsening HF or hypotension.
+Recent need to escalate diuretics to maintain volume status, often reaching 
+daily furosemide equivalent dose >160 mg/d or use of supplemental meto-
+lazone therapy.
+Refractory clinical congestion.
+Progressive deterioration in renal or hepatic function.
+Worsening right HF or secondary pulmonary hypertension.
+Frequent SBP ≤90 mm Hg.
+Cardiac cachexia.
+Persistent hyponatremia (serum sodium, <134 mEq/L).
+Refractory or recurrent ventricular arrhythmias; frequent ICD shocks.
+Increased predicted 1-year mortality (eg, >20%) according to HF survival 
+models (eg, MAGGIC,21 SHFM22).
+HF indicates heart failure; ICD, implantable cardioverter-defibrillator; MAG-
+GIC, Meta-analysis Global Group in Chronic Heart Failure; NYHA, New York 
+Heart Association; RAASi, renin-angiotensin-aldosterone system inhibitors; 
+SBP, systolic blood pressure; SHFM, Seattle Heart Failure model; and VO 2, 
+oxygen consumption/oxygen uptake.
+Table 19. Indications and Contraindications to Durable Me-
+chanical Support37
+Indications (combination of these):
+Frequent hospitalizations for HF
+NYHA class IIIb to IV functional limitations despite maximal therapy
+Intolerance of neurohormonal antagonists
+Increasing diuretic requirement
+Symptomatic despite CRT
+Inotrope dependence
+Low peak VO2 (<14–16)
+End-organ dysfunction attributable to low cardiac output
+Contraindications:
+Absolute
+Irreversible hepatic disease
+Irreversible renal disease
+Irreversible neurological disease
+Medical nonadherence
+Severe psychosocial limitations
+Relative
+Age >80 y for destination therapy
+Obesity or malnutrition
+Musculoskeletal disease that impairs rehabilitation
+Active systemic infection or prolonged intubation
+Untreated malignancy
+Severe PVD
+Active substance abuse
+Impaired cognitive function
+Unmanaged psychiatric disorder
+Lack of social support
+CRT indicates cardiac resynchronization therapy; HF, heart failure; NYHA, 
+New York Heart Association; VO 2, oxygen consumption; and PVD, peripheral 
+vascular disease.
+Downloaded from http://ahajournals.org by on May 30, 2026
+=== PAGE 64 ===
+May 3, 2022 Circulation. 2022;145:e895–e1032. DOI: 10.1161/CIR.0000000000001063e958
+CLINICAL STATEMENTS  
+AND GUIDELINES
+Heidenreich et al 2022 AHA/ACC/HFSA Heart Failure Guideline
+Recommendation-Specific Supportive Text
+1. More prolonged use of inotropes as “bridge” ther-
+apy for those awaiting either heart transplantation 
+or MCS may have benefit in reducing pulmonary 
+hypertension and maintaining end-organ perfusion 
+beyond initial stabilization of patients.1–4
+2. The use of inotropes for palliation does carry 
+with it risks for arrhythmias and catheter-related 
+infections, although the presence of an ICD 
+does decrease the mortality associated with 
+arrhythmias. This risk should be shared with 
+patients if there is planned use of inotropes 
+in a patient without an ICD, or in whom the 
+preference is to deactivate the ICD for pallia-
+tive purposes. The rate of inappropriate shocks 
+for sinus tachycardia is relatively low, and the 
+concomitant use of beta blockers may help in 
+these patients. Patients may elect to have their 
+shocking devices deactivated, especially if they 
+receive numerous shocks. 14,15
+3. With the currently available inotropic agents, 
+the benefit of hemodynamic support and sta-
+bilization may be compromised by increased 
+myocardial oxygen demand and increased 
+arrhythmic burden. As newer agents are devel-
+oped, more options may not have these known 
+risks. There are investigational inotropic agents 
+that may provide more options for the manage-
+ment of patients with HF and represent differ-
+ent classes of agents. 16
+8.4. Mechanical Circulatory Support
+Recommendations for Mechanical Circulatory Support
+Referenced studies that support the recommendations are summa-
+rized in the Online Data Supplements.
+COR LOE Recommendations
+1 A
+1. In select patients with advanced HFrEF with 
+NYHA class IV symptoms who are deemed 
+to be dependent on continuous intravenous 
+inotropes or temporary MCS, durable LVAD 
+implantation is effective to improve functional 
+status, QOL, and survival.1–18
+2a B-R
+2. In select patients with advanced HFrEF who 
+have NYHA class IV symptoms despite GDMT, 
+durable MCS can be beneficial to improve 
+symptoms, improve functional class, and 
+reduce mortality.2,4,7 ,10,12–17 ,19
+Value Statement: 
+Uncertain Value 
+(B-NR)
+3. In patients with advanced HFrEF who have 
+NYHA class IV symptoms despite GDMT, 
+durable MCS devices provide low to intermedi-
+ate economic value based on current costs and 
+outcomes.20–24
+2a B-NR
+4. In patients with advanced HFrEF and hemody-
+namic compromise and shock, temporary MCS, 
+including percutaneous and extracorporeal 
+ventricular assist devices, are reasonable as a 
+“bridge to recovery” or “bridge to decision. ”25–29
+Synopsis
+MCS is a therapeutic option for patients with advanced 
+HFrEF to prolong life and improve functional capacity. Over 
+the past 10 years, evolution and refinement of temporary 
+and durable options has continued. MCS is differentiated 
+by the implant location, approach, flow characteristics, 
+Table 20. Intravenous Inotropic Agents Used in the Management of HF
+Inotropic Agent
+Dose (mcg/kg)  Effects   
+Bolus Infusion (/min)
+Drug Kinetics 
+and Metabolism CO HR SVR PVR
+Adverse  
+Effects Special Considerations
+Adrenergic agonists
+Dopamine NA 5–10 t1/2: 2–20 min ↑ ↑ ↔ ↔ T, HA, N,  
+tissue necrosis
+Caution: MAO-I
+NA 10–15 R, H, P ↑ ↑ ↑ ↔  
+Dobutamine NA 2.5–20 t1/2: 2–3 min H ↑ ↑ ↔ ↔ ↑/↓BP, HA, T, 
+N, F,  
+hypersensitivity
+Caution: MAO-I; CI: sulfite 
+allergy
+PDE 3 inhibitor
+Milrinone NR 0.125–0.75 t1/2: 2.5 h H ↑ ↑ ↓ ↓ T, ↓BP Accumulation may occur in 
+setting of renal failure; monitor 
+kidney function and LFTs
+Vasopressors
+Epinephrine NR 5–15 mcg/min t1/2: 2–3 min ↑ ↑ ↑ (↓) ↔ HA, T Caution: MAO-I
+15–20 mcg/min t1/2: 2–3 min ↑ ↑↑ ↑↑ ↔ HA, T Caution: MAO-I
+Norepinephrine NR 0.5–30 mcg/min t1/2: 2.5 min ↔ ↑ ↑↑ ↔ ↓ HR, tissue 
+necrosis
+Caution: MAO-I
+BP indicates blood pressure; CI, contraindication; CO, cardiac output; F, fever; H, hepatic; HA, headache; HF, heart failure; HR, heart rate; LFT, liver function 
+test; MAO-I, monoamine oxidase inhibitor; N, nausea; NA, not applicable; NR, not recommended; P, plasma; PDE, phosphodiesterase; PVR, pulmonary vascular 
+resistance; R, renal; SVR, systemic vascular resistance; T, tachyarrhythmias; and t1/2, elimination half-life.
+Up arrow means increase. Side arrow means no change. Down arrow means decrease. Up/down arrow means either increase or decrease.
+Downloaded from http://ahajournals.org by on May 30, 2026
+=== PAGE 65 ===
+Circulation. 2022;145:e895–e1032. DOI: 10.1161/CIR.0000000000001063 May 3, 2022 e959
+CLINICAL STATEMENTS 
+AND GUIDELINES
+Heidenreich et al 2022 AHA/ACC/HFSA Heart Failure Guideline
+pump mechanisms, and ventricle(s) supported. It can be ef-
+fective for short-term support (hours to days) and for long-
+term management (months to years). There are anatomic 
+and physiologic criteria that make durable MCS inappropri-
+ate for some patients; it is most appropriate for those with 
+HFrEF and a dilated ventricle. With any form of MCS, the 
+device will eventually be turned off, whether at the time of 
+explant for transplantation or recovery, or to stop support in 
+a patient who either no longer wishes to continue support, 
+or in whom the continued functioning of an MCS prevents 
+their death from other causes, such as a catastrophic neu-
+rologic event, or metastatic malignancy.30 This topic should 
+be addressed a priori with patients before discussions 
+about MCS. Particularly with temporary devices, the poten-
+tial need to either discontinue or to escalate support should 
+be addressed at time of implantation.
+Recommendation-Specific Supportive Text
+1. Durable L VADs should be considered in selected 
+patients with NHYA class IV symptoms who are 
+deemed dependent on IV inotropes or tempo-
+rary MCS. The magnitude of the survival ben-
+efit for durable L VAD support in advanced NYHA 
+class IV patients has progressively improved, 
+with a 2-year survival >80% in recent trials with 
+newer generation L VADs, which approaches 
+the early survival after cardiac transplantation. 2 
+The 2020 INTERMACS (Interagency Registry 
+for Mechanically Assisted Circulatory Support) 
+report showed that 87 .6% of recent durable L VAD 
+recipients were categorized as INTERMACS 1 to 
+3 before their implant surgery. 10 It also showed 
+improved mean survival, >4 years for the desti-
+nation L VAD cohort, and >5 years for bridge-to-
+transplant patients. Durable L VAD support has also 
+achieved impressive functional improvement and 
+QOL improvement in multiple trials, 2,7 ,31 although 
+patients remain tethered to external electrical 
+power supplies via a percutaneous lead can limit 
+this improvement. Most patients require rehospi-
+talization within the first year post-implant. These 
+factors emphasize the need for a thorough evalu-
+ation and patient education before the decision to 
+proceed with the treatment. Appropriate patient 
+selection benefits from review by a multidisci-
+plinary team that typically includes an HF cardi-
+ologist, surgeon, social worker, nurse, pharmacist, 
+dietician, and a palliative medicine specialist.
+2. Durable MCS should be considered in patients 
+with NHYA class IV symptoms despite optimal 
+medical therapy or those deemed dependent 
+on IV inotropes. Destination therapy MCS pro-
+vides considerable survival advantage in addition 
+to improvement in functional status and health-
+related QOL.1,7 ,12,32,33 There is no clear 1-risk model 
+to assess patient risk for complications, but fac-
+tors such as elevated central venous pressure, 
+pulmonary hypertension, and coagulopathy have 
+been linked to poorer outcomes. 15,34–36 In patients 
+who are unable to tolerate anticoagulation after 
+repeated challenges, implantation of a durable 
+MCS is associated with excess morbidity; incidents 
+of pump thrombosis, hemolysis, and ischemic neu-
+rologic events have been linked to subtherapeu-
+tic international normalized ratios. 37–41 In addition, 
+implantation of MCS in patients with INTERMACS 
+profile of 1 has been associated with poorer out-
+come, while those ambulatory patients with profiles 
+5 to 7 might be too well to have large significant 
+benefit, depending on their symptom burden.19 For 
+patients who are initially considered to be trans-
+plant ineligible because of pulmonary hyperten-
+sion, obesity, overall frailty, or other reasons, MCS 
+can provide time to reverse or modify these con-
+ditions.35,42–44 Continuing and uptitrating GDMT in 
+patients with durable MCS is recommended.45
+3. Multiple studies evaluated the cost-effectiveness of 
+ventricular assist device implantation for advanced 
+HF between 2012 and 2017 . 20,21,23 They consis-
+tently found device implantation was of low eco-
+nomic value, with incremental cost-effectiveness 
+ratios of $200 000 per QAL Y gained compared 
+with medical therapy alone among patients who 
+potentially underwent subsequent heart transplant 
+and those who were ineligible for heart transplant. 
+In these studies, costs after implantation remained 
+high given high rates of complication and rehos-
+pitalization. However, these studies used earlier 
+estimates of post-implant outcomes and compli-
+cation-related costs that have generally improved 
+over time with better care and newer devices. 46–48 
+Additionally, limited recent data suggest improve-
+ment in health care costs and intermediate eco-
+nomic value with L VAD among patients with 
+advanced HF who are either eligible or ineligible 
+for subsequent heart transplant. 22,24 The improve-
+ment may result from lower complication rates, 
+increased survival, lower implant costs, and higher 
+estimated QOL. However, given the conflicting 
+data and limited analyses of contemporary data, 
+the current value of L VAD therapy is uncertain.
+4. Temporary MCS can help stabilize patients and 
+allow time for decisions about the appropriateness 
+of transitions to definitive management, such as 
+durable MCS as a bridge or destination therapy, 
+stabilization until cardiac transplantation or, in the 
+case of improvement and recovery, suitability for 
+device removal.45 These patients often present in 
+cardiogenic shock that cannot be managed solely 
+with IV inotropes and in whom other organ function 
+is at risk. Temporary MCS is also appropriate for 
+Downloaded from http://ahajournals.org by on May 30, 2026
+=== PAGE 66 ===
+May 3, 2022 Circulation. 2022;145:e895–e1032. DOI: 10.1161/CIR.0000000000001063e960
+CLINICAL STATEMENTS  
+AND GUIDELINES
+Heidenreich et al 2022 AHA/ACC/HFSA Heart Failure Guideline
+use to allow patients to engage in decision-making 
+for durable MCS or transplantation and for deter-
+mination of recovery of neurologic status.
+8.5. Cardiac Transplantation
+Recommendation for Cardiac Transplantation
+COR LOE Recommendation
+1 C-LD
+1. For selected patients with advanced HF 
+despite GDMT, cardiac transplantation is indi-
+cated to improve survival and QOL.1–3
+Value Statement: 
+Intermediate Value 
+(C-LD)
+2. In patients with stage D (advanced) HF despite 
+GDMT, cardiac transplantation provides inter-
+mediate economic value.4
+Synopsis
+The evidence that cardiac transplantation provides a 
+mortality and morbidity benefit to selected patients 
+with stage D HF (refractory, advanced) is derived from 
+observational cohorts. Datasets from the International 
+Society for Heart and Lung Transplantation 1 and Unit-
+ed Network of Organ Sharing 2 document the median 
+survival of adult transplant recipients to be now >12 
+years; the median survival of patients with stage D HF 
+without advanced therapies is <2 years. For compari-
+son, the risk of death becomes greater than survival 
+between 3 and 4 years on an L VAD, regardless of im-
+plant strategy (eg, bridge-to-transplant, bridge-to-de-
+cision, destination therapy). 3 Improvements in pre- and 
+posttransplant management have also increased more 
+patients to be eligible for transplant, and treated rejec-
+tion rates in the first year after transplantation are now 
+<15%.1 Minimizing waitlist mortality while maximizing 
+posttransplant outcomes continues to be a priority in 
+heart transplantation and was addressed with the re-
+cent changes in donor allocation policy instituted in 
+2018.5 Several analyses 6–11 have confirmed a decrease 
+in waitlist mortality as well as an increase in the use of 
+temporary circulatory support devices, graft ischemic 
+times, and distances between donor and recipient hos-
+pitals. The impact on posttransplant survival remains 
+uncertain. Multiorgan transplantation remains uncom-
+mon and reserved for highly selected candidates. In 
+2018, 7% of all heart transplants involved another or-
+gan, in addition to the heart. 1
+Recommendation-Specific Supportive Text
+1. Cardiac transplantation is the established treat-
+ment for eligible patients with stage D HF refrac-
+tory to GDMT, device, and surgical optimization. 
+The survival of adult recipients who received a 
+transplantation between 2011 and 2013 at 1, 3, 
+and 5 years is 90.3%, 84.7%, and 79.6%, respec-
+tively.2 Conditional survival now approaches 15 
+years.1 Cardiac transplantation also improves 
+functional status and health-related QOL. 12–15 
+Good outcomes can be achieved in patients not 
+only with HF that is primarily cardiovascular in 
+origin, including reversible pulmonary hyperten-
+sion,16 congenital heart disease, 17 and hypertro-
+phic cardiomyopathy, 18 but also in patients with 
+systemic conditions complicated by HF, such as 
+muscular dystrophy, 19 sarcoidosis, 20 and amyloi-
+dosis.21 CPET can refine candidate prognosis 
+and selection. 22–28 Appropriate patient selection 
+should include integration of comorbidity burden, 
+caretaker status, and goals of care. The listing 
+criteria, evaluation, and management of patients 
+undergoing cardiac transplantation are described 
+by the International Society for Heart and Lung 
+Transplantation.29 The United Network of Organ 
+Sharing Heart Transplant Allocation Policy was 
+revised in 2018 with a broader geographic shar-
+ing policy and a 6-tiered system to better priori-
+tize more unstable patients and minimize waitlist 
+mortality.5–11
+2. One study evaluated the cost-effectiveness of 
+heart transplantation compared with medical 
+therapy among patients with inotrope-dependent 
+advanced HF. 30 This analysis found transplanta-
+tion was of intermediate value. The results were 
+similar across a broad range of patient age, wait-
+list duration, and monthly mortality risk with medi-
+cal therapy.
+9. PATIENTS HOSPITALIZED WITH ACUTE 
+DECOMPENSATED HF
+9.1. Assessment of Patients Hospitalized With 
+Decompensated HF
+Recommendations for Assessment of Patients Hospitalized With  
+Decompensated HF
+COR LOE Recommendations
+1 C-LD
+1. In patients hospitalized with HF, severity of con-
+gestion and adequacy of perfusion should be 
+assessed to guide triage and initial therapy.1–5
+1 C-LD
+2. In patients hospitalized with HF, the common 
+precipitating factors and the overall patient 
+trajectory should be assessed to guide appro-
+priate therapy.5,6
+Goals for Optimization and Continuation of GDMT
+1 C-LD
+3. For patients admitted with HF, treatment should 
+address reversible factors, establish optimal 
+volume status, and advance GDMT toward 
+targets for outpatient therapy.6
+Synopsis
+Initial triage includes clinical assessment of the hemo-
+dynamic profile for severity of congestion and adequa-
+Downloaded from http://ahajournals.org by on May 30, 2026
+=== PAGE 67 ===
+Circulation. 2022;145:e895–e1032. DOI: 10.1161/CIR.0000000000001063 May 3, 2022 e961
+CLINICAL STATEMENTS 
+AND GUIDELINES
+Heidenreich et al 2022 AHA/ACC/HFSA Heart Failure Guideline
+cy of perfusion. 1–5 The diagnosis of cardiogenic shock 
+warrants consideration of recommendations in Sec-
+tion 9.5, “Evaluation and Management of Cardiogenic 
+Shock,” but any concern for worsening hypoperfusion 
+should also trigger involvement of the multidisciplinary 
+team for hemodynamic assessment and intervention. 
+Initial triage includes recognition of patients with ACS 
+for whom urgent revascularization may be indicated. 
+In the absence of ischemic disease, recent onset with 
+accelerating hemodynamic decompensation may rep-
+resent inflammatory heart disease, particularly when 
+accompanied by conduction block or ventricular ar-
+rhythmias. 7, 8 However, most HF hospitalizations for de-
+compensation are not truly “acute” but follow a gradual 
+increase of cardiac filling pressures on preexisting 
+structural heart disease, often with precipitating fac-
+tors that can be identified 3,6 (Table 21). Some patients 
+present with pulmonary edema and severe hyperten-
+sion, which require urgent treatment to reduce blood 
+pressure, more commonly in patients with preserved 
+L VEF. Patients require assessment and management 
+of ischemia, arrhythmia and other precipitating factors 
+and comorbidities. The presenting profile, reversible 
+factors, appropriate workup for the cause of HF includ-
+ing ischemic and nonischemic causes, comorbidities, 
+and potential for GDMT titration inform the plan of care 
+to optimize the disease trajectory. 5
+Recommendation-Specific Supportive Text
+1.  and 2.  Most patients admitted with HF have 
+clinical evidence of congestion without appar-
+ent hypoperfusion. 1–5,9,10  Although elevations of 
+right- and left-sided cardiac filling pressures 
+are usually proportional in decompensation of 
+chronic HF with low EF, up to 1 in 4 patients 
+have a mismatch between right- and left-sided 
+filling pressures. 9–11 Disproportionate elevation 
+of right-sided pressures, particularly with TR, 
+hinders effective decongestion. Disproportionate 
+elevation of left-sided filling pressures may be 
+underrecognized as the cause of dyspnea in the 
+absence of jugular venous distention and edema. 
+Elevated natriuretic peptides can help identify 
+HF in the urgent care setting but with less utility 
+in certain situations, including decreased sen-
+sitivity with obesity and HFpEF and decreased 
+specificity in the setting of sepsis. Resting hypo-
+perfusion is often underappreciated in patients 
+with chronic HF but can be suspected from nar-
+row pulse pressure and cool extremities 1,9 and 
+by intolerance to neurohormonal antagonists. 
+Elevated serum lactate levels may indicate hypo-
+perfusion and impending cardiogenic shock. 12 
+When initial clinical assessment does not sug-
+gest congestion or hypoperfusion, symptoms 
+of HF may be a result of transient ischemia, 
+arrhythmias, or noncardiac disease such as 
+chronic pulmonary disease or pneumonia, and 
+more focused hemodynamic assessment may 
+be warranted. Assessment of arrhythmia, device 
+profiles such as percent L V pacing versus RV 
+pacing in patients with CRT, and device therapy 
+and shocks in patients with ICD can provide 
+important information.
+3. Hospitalization for HF is a sentinel event that 
+signals worse prognosis and the need to restore 
+hemodynamic compensation but also provides 
+key opportunities to redirect the disease trajec-
+tory. During the HF hospitalization, the approach 
+to management should include and address 
+precipitating factors, comorbidities, and previ-
+ous limitations to ongoing disease manage-
+ment related to social determinants of health. 1 
+Patients require assessment and management 
+of ischemia, arrhythmia, and other precipitat-
+ing factors and comorbidities. The presenting 
+profile, reversible factors, appropriate work-up 
+for cause of HF including ischemic and non-
+ischemic causes, comorbidities, disease trajec-
+tory, and goals of care should be addressed. 
+Establishment of optimal volume status is a 
+major goal, and patients with residual conges-
+tion merit careful consideration for further inter-
+vention before and after discharge, because 
+they face higher risk for rehospitalization and 
+death. 2–5 The disease trajectory for patients hos-
+pitalized with reduced EF is markedly improved 
+by optimization of recommended medical ther-
+apies, which should be initiated or increased 
+toward target doses once the efficacy of diure-
+sis has been shown. 13,14
+Table 21. Common Factors Precipitating HF Hospitalization 
+With Acute Decompensated HF
+ACS
+Uncontrolled hypertension
+AF and other arrhythmias
+Additional cardiac disease (eg, endocarditis)
+Acute infections (eg, pneumonia, urinary tract)
+Nonadherence with medication regimen or dietary intake
+Anemia
+Hyper- or hypothyroidism
+Medications that increase sodium retention (eg, NSAID)
+Medications with negative inotropic effect (eg, verapamil)
+ACS indicates acute coronary syndrome; AF, atrial fibrillation; HF, heart fail-
+ure; and NSAID, nonsteroidal anti-inflammatory drug.
+Downloaded from http://ahajournals.org by on May 30, 2026
+=== PAGE 68 ===
+May 3, 2022 Circulation. 2022;145:e895–e1032. DOI: 10.1161/CIR.0000000000001063e962
+CLINICAL STATEMENTS  
+AND GUIDELINES
+Heidenreich et al 2022 AHA/ACC/HFSA Heart Failure Guideline
+9.2. Maintenance or Optimization of GDMT 
+During Hospitalization
+Recommendations for Maintenance or Optimization of GDMT During 
+Hospitalization
+Referenced studies that support the recommendations are summa-
+rized in the Online Data Supplements.
+COR LOE Recommendations
+1 B-NR
+1. In patients with HFrEF requiring hospitalization, 
+preexisting GDMT should be continued and 
+optimized to improve outcomes, unless contra-
+indicated.1–5
+1 B-NR
+2. In patients experiencing mild decrease of renal 
+function or asymptomatic reduction of blood 
+pressure during HF hospitalization, diuresis and 
+other GDMT should not routinely be discontin-
+ued.6–11
+1 B-NR
+3. In patients with HFrEF, GDMT should be initi-
+ated during hospitalization after clinical stability 
+is achieved.2,3,5,12–18
+1 B-NR
+4. In patients with HFrEF, if discontinuation of 
+GDMT is necessary during hospitalization, it 
+should be reinitiated and further optimized as 
+soon as possible.19–22
+Synopsis
+Hospitalization for HFrEF is a critical opportunity to 
+continue, initiate, and further optimize GDMT. 23–25 
+Continuation of oral GDMT during hospitalization 
+for HF has been shown in registries to lower risk of 
+postdischarge death and readmission compared with 
+discontinuation. 1–5 Initiation of oral GDMT during hos-
+pitalization for HF is associated with numerous clini-
+cal outcome benefits. 2,5,12,16,17  Based on data from the 
+CHAMP-HF (Change the Management of Patients with 
+Heart Failure) registry, however, only 73%, 66%, and 
+33% of eligible patients with HFrEF were prescribed 
+ACEi-ARB-ARNi, beta blockers, and MRA therapy, 
+respectively.19 Furthermore, based on information ob-
+tained from claims data, roughly 42% of patients are 
+not prescribed any GDMT within 30 days postindex 
+hospitalization, 20 and 45% are prescribed either no oral 
+GDMT or monotherapy within 1-year post-hospitaliza-
+tion.21 In the management of patients with HFrEF in 
+the community, very few receive target doses of oral 
+GDMT.6 Moreover, most patients with HFrEF have no 
+changes made to oral GDMT over 12 months, 21 despite 
+being discharged on suboptimal doses or no GDMT. 22 It 
+cannot be assumed that oral GDMT will be initiated or 
+optimized after hospitalization for HFrEF.
+Recommendation-Specific Supportive Text
+1. In OPTIMIZE-HF (Organized Program to Initiate 
+Lifesaving Treatment in Hospitalized Patients 
+with Heart Failure), discontinuation of beta 
+blockers was associated with a higher risk for 
+mortality compared with those continued on beta 
+blockers. 1 In a meta-analysis of observational 
+and trial data, discontinuation of beta blockers in 
+hospitalized patients with HFrEF also was asso-
+ciated with a higher risk of in-hospital mortality, 
+short-term mortality, and the combined endpoint 
+of short-term rehospitalization or mortality. 4 
+Withholding or reducing beta-blocker therapy 
+should be considered in patients with marked 
+volume overload or marginal low cardiac output. 
+In the Get With The Guidelines-Heart Failure 
+(GWTG-HF) registry, withdrawal of ACEi-ARB 
+among patients hospitalized with HFrEF was 
+associated with higher rates of postdischarge 
+mortality and readmission. 2 In the COACH 
+(Coordinating study evaluating Outcomes of 
+Advising and Counselling in Heart failure) study, 
+continuation of spironolactone among hospital-
+ized patients with HFrEF was associated with 
+lower 30-day mortality and HF rehospitaliza-
+tion.3 From the ARIC (Atherosclerosis Risk in 
+Communities) study, discontinuation of any oral 
+GDMT among patients hospitalized with HFrEF 
+was associated with higher mortality risk. 5 Oral 
+GDMT should not be withheld for mild or tran-
+sient reductions in blood pressure 6–9 or mild 
+deteriorations in renal function. 10,11 True contra-
+indications are rare, such as advanced degree 
+atrioventricular block for beta blockers in the 
+absence of pacemakers; cardiogenic shock that 
+may preclude use of certain medications until 
+resolution of shock state; or angioedema for 
+ACEi or ARNi.
+2. In CHAMP-HF, very few patients with HF and 
+SBP <110 mm Hg received target doses of beta 
+blockers (17 .5%) ACEi-ARB (6.2 %), or ARNi 
+(1.8%). 6 In PARADIGM-HF, patients with HF and 
+lower SBP on sacubitril-valsartan had the same 
+tolerance and relative benefit over enalapril 
+compared with patients with higher SBP. 7 From 
+the SENIORS (Study of Effects of Nebivolol 
+Intervention on Outcomes and Rehospitalization 
+in Seniors With Heart Failure) trial, nebivolol had 
+equivalent tolerance and benefits irrespective of 
+SB P.8 In Val-HeFT (Valsartan Heart Failure Trial), 
+decreases in SBP did not offset the beneficial 
+effects of valsartan on HF morbidity. 9 In patients 
+with HF on oral GDMT, small to moderate 
+worsening of renal function (defined as ≥ 20% 
+decrease in eGFR in that study) was not asso-
+ciated with AKI. 10 Moreover, it has been shown 
+that spironolactone and beta blockers might be 
+protective in patients with HF and worsening 
+renal function. 11
+3. In OPTIMIZE-HF, discharge use of carvedilol 
+was associated with a reduction in 60- to 
+90-day mortality and composite risk of mortality 
+Downloaded from http://ahajournals.org by on May 30, 2026
+=== PAGE 69 ===
+Circulation. 2022;145:e895–e1032. DOI: 10.1161/CIR.0000000000001063 May 3, 2022 e963
+CLINICAL STATEMENTS 
+AND GUIDELINES
+Heidenreich et al 2022 AHA/ACC/HFSA Heart Failure Guideline
+or rehospitalization compared with no carvedilol 
+use.12,13 Discharge use of beta blockers is also 
+associated with lower 30-day all-cause mortality 
+and 4-year all-cause mortality/all-cause read-
+mission. 14 Caution should be used when initiating 
+beta blockers in patients who have required ino-
+tropes during hospitalization. In GWTG-HF, initia-
+tion of ACEi-ARB in patients hospitalized with 
+HFrEF reduced 30-day and 1-year mortality. 2 
+Among patients hospitalized with HFrEF, initia-
+tion of ACEi-ARB also is associated with lower 
+risk of 30-day all-cause readmission and all-
+cause mortality. 15 In a claims study, initiation of 
+MRA therapy at hospital discharge was associ-
+ated with improved HF readmission but not mor-
+tality or cardiovascular readmission among older 
+adults hospitalized with HFrEF. 16 In COACH, 
+initiating spironolactone among patients hospi-
+talized with HFrEF was associated with lower 
+30-day mortality and HF rehospitalization. 3 In 
+the PIONEER-HF trial, ARNi use was associ-
+ated with reduced NT-proBNP levels in patients 
+hospitalized for acute decompensated HF with-
+out increased rates of adverse events (worsen-
+ing renal function, hyperkalemia, symptomatic 
+hypotension, angioedema) when compared with 
+enalapril. 18 In the ARIC study, initiation of any oral 
+GDMT was associated with reduced 1-year mor-
+tality among patients hospitalized with HFrEF. 5 In 
+SOLOIST-WHF, initiation of sotagliflozin before 
+or shortly after discharge reduced cardiovascular 
+mortality and hospitalization. 17
+4. Nearly half (46%) of patients with HFrEF have 
+no changes made to oral GDMT in the 12 
+months after hospitalization despite many being 
+discharged on suboptimal doses. 21 From claims-
+based studies, 42% of patients with HFrEF 
+are not prescribed any GDMT within 30 days 
+post-index hospitalization, 20 and 45% are pre-
+scribed either no oral GDMT or monotherapy 
+within 1-year post-index hospitalization. 21 From 
+CHAMP-HF, initiation or dose increases of beta 
+blockers, ACEi-ARB-ARNi, and MRA occur in 
+≤10% of patients with HFrEF within 1 year of 
+hospitalization. 22 Very few eligible patients with 
+HFrEF receive target doses of beta blockers 
+(18.7%), ACEi-ARB (10.8%), or ARNi (2.0%). 6 
+Less than 1% of patients with HFrEF are on tar-
+get doses of ACEi-ARB-ARNi, beta blockers, and 
+MRA within 12 months of an index hospitaliza-
+tion.22 For patients with HFrEF, there is a graded 
+improvement in the risk of death or rehospitaliza-
+tion with monotherapy, dual therapy, and triple 
+therapy compared with no GDMT after an index 
+hospitalization in Medicare claims data. 21
+9.3. Diuretics in Hospitalized Patients: 
+Decongestion Strategy
+Recommendations for Diuretics in Hospitalized Patients: Decongestion 
+Strategy
+Referenced studies that support the recommendations are summa-
+rized in the Online Data Supplements.
+COR LOE Recommendations
+1 B-NR
+1. Patients with HF admitted with evidence of 
+significant fluid overload should be promptly 
+treated with intravenous loop diuretics to 
+improve symptoms and reduce morbidity.1
+1 B-NR
+2. For patients hospitalized with HF, therapy with 
+diuretics and other guideline-directed medica-
+tions should be titrated with a goal to resolve 
+clinical evidence of congestion to reduce symp-
+toms and rehospitalizations.1–6
+1 B-NR
+3. For patients requiring diuretic treatment during 
+hospitalization for HF, the discharge regimen 
+should include a plan for adjustment of diuret-
+ics to decrease rehospitalizations.7
+2a B-NR
+4. In patients hospitalized with HF when diuresis 
+is inadequate to relieve symptoms and signs 
+of congestion, it is reasonable to intensify the 
+diuretic regimen using either: a. higher doses of 
+intravenous loop diuretics.1,3); or b. addition of 
+a second diuretic.3
+Synopsis
+Intravenous loop diuretic therapy provides the most 
+rapid and effective treatment for signs and symptoms of 
+congestion leading to hospitalization for HF. Titration to 
+achieve effective diuresis may require doubling of initial 
+doses, adding a thiazide diuretic, or adding an MRA that 
+has diuretic effects in addition to its cardiovascular bene-
+fits. A major goal of therapy is resolution of the signs and 
+symptoms of congestion before discharge, as persistent 
+congestion scored at discharge has been associated 
+with higher rates of rehospitalizations and mortality. Most 
+patients who have required intravenous diuretic therapy 
+during hospitalization for HF will require prescription of 
+loop diuretics at discharge to decrease recurrence of 
+symptoms and hospitalization.
+Recommendation-Specific Supportive Text
+1. Diuretic therapy with oral furosemide was the 
+cornerstone of HF therapy for >20 years before 
+construction of the modern bases of evidence 
+for HF therapies. The pivotal RCTs showing ben-
+efit in ambulatory HFrEF have been conducted 
+on the background of diuretic therapy to treat 
+and prevent recurrence of fluid retention. An RCT 
+compared intravenous diuretic doses and infusion 
+to bolus dosing during hospitalization for HF but 
+without a placebo arm. 1 Protocols for recent trials 
+of other medications in patients hospitalized with 
+HF have all included intravenous diuretic therapy 
+Downloaded from http://ahajournals.org by on May 30, 2026

@@ -1,0 +1,1726 @@
+
+=== PAGE 1 ===
+Circulation
+Circulation. 2024;149:e1239–e1311. DOI: 10.1161/CIR.0000000000001250 June 4, 2024 e1239
+Circulation is available at www.ahajournals.org/journal/circ
+*Writing committee members are required to recuse themselves from voting on sections to which their specific relationships with industry may apply; see Appendix 1 for 
+detailed information. †AMSSM representative. ‡HRS representative. §Lay stakeholder representative. ‖AHA/ACC Joint Committee on Clinical Practice Guidelines liaison. 
+¶SCMR representative. #ACC/AHA Joint Committee on Performance Measures representative. **PACES representative. ††ACC/AHA Joint Committee on Clinical Data 
+Standards representative. ‡‡Joint ACC/AHA staff representative. §§Former Joint Committee on Clinical Practice Guidelines member; current member during the writing effort.
+Peer Review Committee Members and AHA/ACC Joint Committee on Clinical Practice Guidelines Members, see page e1289.
+The American Heart Association requests that this document be cited as follows: Ommen SR, Ho CY, Asif IM, Balaji S, Burke MA, Day SM, Dearani JA, Epps-Anderson 
+KC, Evanovich L, Ferrari VA, Joglar JA, Khan SS, Kim JJ, Kittleson MM, Krittanawong C, Martinez MW, Mital S, Naidu SS, Saberi S, Semsarian C, Times S, Waldman CB. 
+2024 AHA/ACC/AMSSM/HRS/PACES/SCMR guideline for the management of hypertrophic cardiomyopathy: a report of the American Heart Association/American 
+College of Cardiology Joint Committee on Clinical Practice Guidelines. Circulation. Published online May 8, 2024. doi:10.1161/CIR.0000000000001250
+© 2024 by the American Heart Association, Inc., and the American College of Cardiology Foundation.
+CLINICAL PRACTICE GUIDELINES
+2024 AHA/ACC/AMSSM/HRS/PACES/SCMR 
+Guideline for the Management of Hypertrophic 
+Cardiomyopathy: A Report of the American Heart 
+Association/American College of Cardiology 
+Joint Committee on Clinical Practice Guidelines
+Developed in Collaboration With and Endorsed by the American Medical Society for Sports Medicine, the Heart Rhythm Society, 
+Pediatric & Congenital Electrophysiology Society, and the Society for Cardiovascular Magnetic Resonance
+Writing Committee Members*
+Steve R. Ommen, MD, FACC, FAHA, Chair; Carolyn Y. Ho, MD, FAHA, Vice Chair; Irfan M. Asif, MD, FAMSSM†;  
+Seshadri Balaji, MBBS, MRCP(UK), PhD, FHRS‡; Michael A. Burke, MD; Sharlene M. Day, MD, FAHA;  
+Joseph A. Dearani, MD, FACC; Kelly C. Epps, MD, FACC; Lauren Evanovich, PhD§; Victor A. Ferrari, MD, FACC, FAHA, MSCMR‖¶; 
+José A. Joglar, MD, FACC, FAHA, FHRS; Sadiya S. Khan, MD, MSc, FACC, FAHA#; Jeffrey J. Kim, MD, FACC, FHRS**;  
+Michelle M. Kittleson, MD, PhD, FAHA, FACC‖; Chayakrit Krittanawong, MD††; Matthew W. Martinez, MD, FACC;  
+Seema Mital, MD, FACC, FAHA; Srihari S. Naidu, MD, FACC, FAHA; Sara Saberi, MD, MS;  
+Christopher Semsarian, MBBS, PhD, MPH, FHRS, FAHA; Sabrina Times, DHSC, MPH‡‡; Cynthia Burstein Waldman, JD§  
+AIM: The “2024 AHA/ACC/AMSSM/HRS/PACES/SCMR Guideline for the Management of Hypertrophic Cardiomyopathy” 
+provides recommendations to guide clinicians in the management of patients with hypertrophic cardiomyopathy.
+METHODS : A comprehensive literature search was conducted from September 14, 2022, to November 22, 2022, encompassing 
+studies, reviews, and other evidence on human subjects that were published in English from PubMed, EMBASE, the Cochrane 
+Library, the Agency for Healthcare Research and Quality, and other selected databases relevant to this guideline. Additional 
+relevant studies, published through May 23, 2023, during the guideline writing process, were also considered by the writing 
+committee and added to the evidence tables, where appropriate.
+STRUCTURE: Hypertrophic cardiomyopathy remains a common genetic heart disease reported in populations globally. 
+Recommendations from the “2020 AHA/ACC Guideline for the Diagnosis and Treatment of Patients With Hypertrophic 
+Cardiomyopathy” have been updated with new evidence to guide clinicians.
+Key Words: AHA Scientific Statements ◼ athlete ◼ atrial fibrillation ◼ cardiac myosin inhibitors ◼ cardiovascular magnetic resonance imaging 
+◼ diastolic dysfunction ◼ echocardiography ◼ exercise, exercise stress testing ◼ family screening ◼ genetics ◼ hypertrophic cardiomyopathy
+◼ implantable cardioverter defibrillator ◼ left ventricular outflow tract obstruction ◼ occupation ◼ physical activity ◼ pregnancy
+◼ rhythm monitoring ◼ risk stratification ◼ sarcomeric genes ◼ septal alcohol ablation ◼ septal reduction therapy ◼ shared decision-making
+◼ sports, sudden cardiac death ◼ surgical myectomy ◼ systolic dysfunction ◼ ventricular arrhythmias
+This 2024 AHA/ACC/AMSSM/HRS/PACES/SCMR Guideline has been reviewed 
+and determined to be current as of May 2025. See the 2025 ACC/AHA methodology 
+and policies manual for information on reaffirmation.
+Downloaded from http://ahajournals.org by on May 30, 2026
+
+=== PAGE 2 ===
+CLINICAL STATEMENTS  
+AND GUIDELINES
+June 4, 2024 Circulation. 2024;149:e1239–e1311. DOI: 10.1161/CIR.0000000000001250e1240
+Ommen et al 2024 Hypertrophic Cardiomyopathy Guideline
+TABLE OF CONTENTS
+What Is New .................................. e1240
+Top 10 Take-Home Messages .................. e1242
+Preamble ..................................... e1243
+ 1. Introduction ............................... e1244
+ 1.1. Methodology and Evidence Review ... e1244
+ 1.2. Composition of the Writing  
+Committee .......................... e1244
+ 1.3. Document Review and Approval ...... e1244
+ 1.4. Scope of the Guideline ............... e1244
+ 1.5. Class of Recommendations and  
+Level of Evidence .................... e1244
+ 1.6. Abbreviations ........................ e1245
+ 2. Definition, Etiology, Clinical Course, and  
+Natural History ............................ e1245
+ 2.1. Prevalence .......................... e1245
+ 2.2. Nomenclature/Differential  
+Diagnosis ........................... e1246
+ 2.3. Definition, Clinical Diagnosis, and  
+Phenotype .......................... e1247
+ 2.4. Etiology ............................. e1247
+ 2.5. Natural History/Clinical Course ....... e1248
+ 3. Pathophysiology ........................... e1248
+ 3.1. Left Ventricular Outflow Tract  
+Obstruction ......................... e1249
+ 3.2. Diastolic Dysfunction ................ e1249
+ 3.3. Mitral Regurgitation .................. e1249
+ 3.4. Myocardial Ischemia ................. e1249
+ 3.5. Autonomic Dysfunction .............. e1249
+ 4. Shared Decision-Making ................... e1250
+ 5. Multidisciplinary HCM Centers  ............. e1250
+ 6. Diagnosis, Initial Evaluation, and  
+Follow-Up ................................. e1251
+ 6.1. Clinical Diagnosis .................... e1251
+ 6.2. Echocardiography ................... e1253
+ 6.3. CMR Imaging  ....................... e1255
+ 6.4. Cardiac CT .......................... e1256
+ 6.5. Heart Rhythm Assessment ........... e1256
+ 6.6. Angiography and Invasive  
+Hemodynamic Assessment ........... e1257
+ 6.7 . Exercise Stress Testing .............. e1258
+ 6.8. Genetics and Family Screening ....... e1259
+ 6.9. Individuals Who Are Genotype-Positive, 
+Phenotype-Negative ................. e1263
+ 7 . SCD Risk Assessment and Prevention ...... e1264
+ 7 .1. SCD Risk Assessment ............... e1264
+ 7 .1.1. SCD Risk Assessment in  
+Adults With HCM ............. e1264
+ 7 .1.2. SCD Risk Assessment in  
+Children and Adolescents  
+With HCM ................... e1266
+ 7 .2. Patient Selection for ICD Placement .. e1267
+ 7 .3. Device Selection Considerations ...... e1269
+ 8. Management of HCM ...................... e1270
+ 8.1. Management of Symptomatic  
+Patients With Obstructive HCM ....... e1270
+ 8.1.1. Pharmacological Management 
+of Symptomatic Patients With 
+Obstructive HCM ............. e1270
+ 8.1.2. Invasive Treatment of  
+Symptomatic Patients With 
+Obstructive HCM ............. e1272
+ 8.2. Management of Patients with  
+Nonobstructive HCM With  
+Preserved EF ........................ e1274
+ 8.3. Management of Patients With HCM  
+and Advanced HF ................... e1275
+ 8.4. Management of Patients With  
+HCM and AF ........................ e1279
+ 8.5. Management of Patients With  
+HCM and Ventricular Arrhythmias ..... e1282
+ 9. Lifestyle Considerations for Patients  
+With HCM  ................................ e1283
+ 9.1. Recreational Physical Activity and 
+Competitive Sports .................. e1283
+ 9.2. Occupation in Patients With HCM .... e1285
+ 9.3. Pregnancy in Patients With HCM ..... e1285
+ 9.4. Patients With Comorbidities .......... e1287
+ 10. Evidence Gaps and Future Directions ....... e1288
+ 10.1. Refining the Diagnosis of HCM ....... e1288
+ 10.2. Developing Therapies to Attenuate  
+or Prevent Disease Progression ...... e1288
+ 10.3. Improving Care for Nonobstructive  
+HCM  ............................... e1288
+ 10.4. Improving and Expanding Risk  
+Stratification  ........................ e1288
+ 10.5. Arrhythmia Management ............. e1288
+ 10.6. Expanding Understanding of the  
+Genetic Architecture of HCM ......... e1289
+References .................................... e1290
+Appendix 1
+Author Relationships With Industry and  
+Other Entities . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .e1307
+Appendix 2
+Reviewer Relationships With Industry and  
+Other Entities (Comprehensive) . . . . . . . . . . . . .e1309
+WHAT IS NEW
+Table 1 reflects recommendations that are substantially 
+revised from the 2020 Hypertrophic Cardiomyopathy 
+Guidelines or were drafted as new recommendations in 
+the 2024 Hypertrophic Cardiomyopathy Guidelines.
+Downloaded from http://ahajournals.org by on May 30, 2026
+=== PAGE 3 ===
+CLINICAL STATEMENTS 
+AND GUIDELINES
+Circulation. 2024;149:e1239–e1311. DOI: 10.1161/CIR.0000000000001250 June 4, 2024 e1241
+Ommen et al 2024 Hypertrophic Cardiomyopathy Guideline
+Table 1. What Is New: New and Substantially Revised Recommendations in the 2024 HCM Guideline*
+New or 
+Revised
+2024  
+Section Title Recommendation in 2020 HCM Guideline
+COR in 2020 
+Guideline Recommendation in 2024 HCM Guideline
+COR in 2024 
+Guideline
+Revised 6.5 Heart Rhythm 
+Assessment
+In patients with HCM who have additional 
+risk factors for AF, such as left atrial dilatation, 
+advanced age, and NYHA functional class III 
+to class IV HF, and who are eligible for  
+anticoagulation, extended ambulatory  
+monitoring is reasonable to screen for AF as 
+part of initial evaluation and periodic follow-up.
+2a In patients with HCM who are deemed to be 
+at high risk for developing AF based on the 
+presence of risk factors or as determined by 
+a validated risk score, and who are eligible for 
+anticoagulation, extended ambulatory  
+monitoring is recommended to screen for AF as 
+part of initial evaluation and annual follow-up.
+1
+New 6.7 Exercise 
+Stress Testing
+N/A N/A In pediatric patients with HCM, regardless 
+of symptom status, exercise stress testing is 
+recommended to determine functional  
+capacity and to provide prognostic information.
+1
+Revised 7 .2 Patient  
+Selection for ICD 
+Placement
+For patients ≥16 years of age with HCM and 
+with ≥1 major SCD risk factors, discussion 
+of the estimated 5-year sudden death risk 
+and mortality rates can be useful during the 
+shared decision-making process for ICD 
+placement.
+2a For patients with HCM with ≥1 major SCD 
+risk factor, discussion of the estimated 5-year 
+sudden death risk and mortality rates can 
+be useful during the shared decision-making 
+process for ICD placement.
+2a
+Revised 8.1.1  
+Pharmacological 
+Management of 
+Symptomatic 
+Patients with  
+Obstructive HCM
+For patients with obstructive HCM who have 
+persistent severe symptoms attributable  
+to LVOTO despite beta blockers or  
+nondihydropyridine calcium channel blockers, 
+either adding disopyramide in combination 
+with 1 of the other drugs, or SRT performed 
+at experienced centers, is recommended.
+1 For patients with obstructive HCM who have 
+persistent symptoms attributable to LVOTO 
+despite beta blockers or nondihydropyridine 
+calcium channel blockers, adding a  
+myosin inhibitor (adult patients only), or  
+disopyramide (in combination with an  
+atrioventricular nodal blocking agent), or  
+SRT performed at experienced centers, is  
+recommended.
+1
+New 8.2 Management 
+of Patients With 
+Nonobstructive 
+HCM With  
+Preserved EF
+N/A N/A For younger (eg, ≤45 years of age) patients 
+with nonobstructive HCM due to a  
+pathogenic or likely pathogenic cardiac  
+sarcomere genetic variant, and a mild  
+phenotype, valsartan may be beneficial to 
+slow adverse cardiac remodeling.
+2b
+New 8.3 Management 
+of Patients With 
+HCM and Ad-
+vanced HF
+N/A N/A In patients with HCM who develop persistent 
+systolic dysfunction (LVEF <50%), cardiac 
+myosin inhibitors should be discontinued.
+1
+Revised 9.1 Recreational 
+Physical Activity 
+and Competitive 
+Sports
+For patients with HCM, participation in  
+high-intensity recreational activities or  
+moderate- to high-intensity competitive sports 
+activities may be considered after a  
+comprehensive evaluation and shared  
+discussion, repeated annually with an expert 
+provider who conveys that the risk of sudden 
+death and ICD shocks may be increased, and 
+with the understanding that eligibility  
+decisions for competitive sports participation 
+often involve third parties (eg, team  
+physicians, consultants, and other institutional 
+leadership) acting on behalf of the schools 
+or teams.
+2b For patients with HCM, participation in  
+vigorous recreational activities is reasonable 
+after an annual comprehensive evaluation and 
+shared decision-making with an expert  
+professional who balances potential benefits 
+and risks.
+2a
+For patients with HCM who are capable of  
+a high level of physical performance,  
+participation in competitive sports may be 
+considered after review by an expert  
+provider with experience managing athletes 
+with HCM who conducts an annual  
+comprehensive evaluation and shared  
+decision-making that balances potential ben-
+efits and risks.
+2b
+New 9.1 Recreational 
+Physical Activity 
+and Competitive 
+Sports
+N/A N/A For most patients with HCM, universal  
+restriction from vigorous physical activity or 
+competitive sports is not indicated.
+3: No Benefit
+New 9.3 Pregnancy 
+in Patients With 
+HCM
+N/A N/A In pregnant women, use of mavacamten is 
+contraindicated due to potential teratogenic 
+effects.
+3: Harm
+*Table 1 highlights new and substantially revised practice-changing recommendations since 2020 and is not a comprehensive list of all updates in this guideline.
+AF indicates atrial fibrillation; COR, Class of Recommendation; EF, ejection fraction; HCM, hypertrophic cardiomyopathy; HF, heart failure; ICD, implantable cardioverter- 
+defibrillator; L VEF, left ventricular ejection fraction; L VOTO, left ventricular outflow tract obstruction; N/A, not applicable; NYHA, New York Heart Association; SCD,  
+sudden cardiac death; and SRT, septal reduction therapy.
+Downloaded from http://ahajournals.org by on May 30, 2026
+=== PAGE 4 ===
+CLINICAL STATEMENTS  
+AND GUIDELINES
+June 4, 2024 Circulation. 2024;149:e1239–e1311. DOI: 10.1161/CIR.0000000000001250e1242
+Ommen et al 2024 Hypertrophic Cardiomyopathy Guideline
+TOP 10 TAKE-HOME MESSAGES
+ 1. Shared decision-making is essential to provide the 
+best clinical care. This involves thoughtful dialogue 
+among patients, families, and their care team in 
+which health care professionals present all avail-
+able testing and treatment options; discuss the 
+risks, benefits, and applicability of those options 
+to the individual patient; and ensure the patient 
+expresses their personal preferences and goals to 
+develop their treatment plan.
+ 2. Although the primary cardiology team can initiate 
+evaluation, treatment, and longitudinal care, refer-
+ral to multidisciplinary hypertrophic cardiomyopa-
+thy (HCM) centers with appropriate expertise can 
+be important to optimizing care for patients with 
+HCM. Challenging treatment decisions—where 
+reasonable alternatives exist, where the strength of 
+recommendation is weak (eg, any decision relying 
+on a Class of Recommendation 2b) or is particu-
+larly nuanced (eg, interpretation of genetic testing;  
+primary prevention implantable cardioverter- 
+defibrillator decision-making), and for HCM-
+specific invasive procedures—may critically benefit 
+from involving specialized HCM centers.
+ 3. Careful ascertainment of family history, counseling 
+patients with HCM about the potential for genetic 
+transmission of HCM, and options for genetic 
+testing are cornerstones of care. Screening first-
+degree family members of patients with HCM, 
+using either genetic testing, serial imaging, or elec-
+trocardiographic surveillance as appropriate, can 
+begin at any age and can be influenced by spe-
+cifics of the patient and family history and family 
+preference. Because screening recommendations 
+for family members hinge on the pathogenicity of 
+any detected variants, the reported pathogenic-
+ity should be reconfirmed every 2 to 3 years, and 
+input from specialized HCM centers with genetics 
+expertise may be valuable.
+ 4. Assessing a patient’s risk for sudden cardiac 
+death is an important component of management. 
+Integrating the presence or absence of established 
+risk markers with tools to estimate individual risk 
+score will facilitate the patient’s ability to par-
+ticipate in decision-making regarding implantable  
+cardioverter-defibrillator placement. These discus-
+sions should incorporate a patient’s personal level 
+of risk tolerance and their specific treatment goals.
+ 5. The risk factors for sudden cardiac death in children 
+with HCM carry different weights and components 
+than those used in adult patients. Pediatric risk 
+stratification also varies with age and must account 
+for different body sizes. Coupled with the complex-
+ity of placing implantable cardioverter-defibrillators 
+in young patients with anticipated growth and a 
+higher risk of device complications, the threshold 
+for implantable cardioverter-defibrillator implan-
+tation in children often differs from adults. These 
+differences are best addressed at comprehensive 
+HCM centers with expertise in caring for children 
+with HCM. New risk calculators, specific to chil-
+dren and adolescents, have been validated and can 
+help young patients and their families contextualize 
+their estimated risk of sudden cardiac death.
+ 6. Cardiac myosin inhibitors are now available to 
+treat patients with symptomatic obstructive HCM. 
+This new class of medication inhibits actin-myosin 
+interaction, thus decreasing cardiac contractility 
+and reducing left ventricular outflow tract obstruc-
+tion. Mavacamten is currently the only US Food 
+and Drug Administration–approved agent. These 
+agents can be beneficial for patients with obstruc-
+tive HCM who do not derive adequate symptomatic 
+relief from first-line drug therapy.
+ 7 . Invasive septal reduction therapies (surgical septal 
+myectomy and alcohol septal ablation), when per-
+formed by experienced HCM teams at dedicated 
+centers, can provide safe and effective symp-
+tomatic relief for patients with drug-refractory or 
+severe outflow tract obstruction. Given the data on 
+the significantly improved outcomes at compre-
+hensive HCM centers, these decisions represent 
+an optimal opportunity for referral.
+ 8. Patients with HCM and persistent or paroxysmal 
+atrial fibrillation have a sufficiently increased risk 
+of stroke such that oral anticoagulation with direct-
+acting oral anticoagulants (or alternatively warfarin) 
+should be considered the default treatment option 
+irrespective of the CHA2DS2-VASc score. New tools 
+to stratify risk for incident atrial fibrillation have been 
+developed and may assist in determining the fre-
+quency of screening patients with ambulatory telem-
+etry. Because rapid atrial fibrillation is often poorly 
+tolerated in patients with HCM, maintenance of sinus 
+rhythm and rate control are key treatment goals.
+ 9. Exercise stress testing is particularly helpful in 
+determining overall exercise tolerance and for 
+latent exercise provoked left ventricular out-
+flow tract obstruction. Because children may not 
+describe symptoms readily, routine exercise testing 
+can be particularly important for young patients.
+ 10. Increasingly, data affirm that the beneficial effects 
+of exercise on general health are extended to 
+patients with HCM. Healthy recreational exercise 
+(light [<3 metabolic equivalents], moderate [3-6 
+metabolic equivalents], and vigorous [>6 metabolic 
+equivalents] intensity levels) has not been associ-
+ated with increased risk of ventricular arrhythmia 
+events in short-term studies. If patients pursue rig-
+orous exercise training for the purpose of perfor-
+mance or competition, it is important to engage in 
+Downloaded from http://ahajournals.org by on May 30, 2026
+=== PAGE 5 ===
+CLINICAL STATEMENTS 
+AND GUIDELINES
+Circulation. 2024;149:e1239–e1311. DOI: 10.1161/CIR.0000000000001250 June 4, 2024 e1243
+Ommen et al 2024 Hypertrophic Cardiomyopathy Guideline
+a comprehensive discussion and seek input from 
+expert HCM professionals regarding the poten-
+tial risks and benefits, to develop an individualized 
+training plan, and to establish a regular schedule 
+for reevaluation.
+PREAMBLE
+Since 1980, the American College of Cardiology (ACC) 
+and American Heart Association (AHA) have translated 
+scientific evidence into clinical practice guidelines with 
+recommendations to improve cardiovascular health. 
+These guidelines, which are based on systematic meth-
+ods to evaluate and classify evidence, provide a founda-
+tion for the delivery of quality cardiovascular care. The 
+ACC and AHA sponsor the development and publication 
+of clinical practice guidelines without commercial sup-
+port, and members volunteer their time to the writing and 
+review efforts. Guidelines are the official policy of the 
+ACC and AHA. For some guidelines, the ACC and AHA 
+partner with other organizations.
+Intended Use
+Clinical practice guidelines provide recommendations 
+applicable to patients with or at risk of developing car-
+diovascular disease. The focus is on medical practice in 
+the United States, but these guidelines are relevant to 
+patients throughout the world. Although guidelines may 
+be used to inform regulatory or payer decisions, the in-
+tent is to improve quality of care and align with patients’ 
+interests. Guidelines are intended to define practices 
+meeting the needs of patients in most, but not all, cir-
+cumstances and should not replace clinical judgment.
+Clinical Implementation
+Management, in accordance with guideline recommenda-
+tions, is effective only when followed by both practition-
+ers and patients. Adherence to recommendations can be 
+enhanced by shared decision-making between clinicians 
+and patients, with patient engagement in selecting inter-
+ventions on the basis of individual values, preferences, 
+and associated conditions and comorbidities.
+The ACC/AHA Joint Committee on Clinical Prac-
+tice Guidelines (Joint Committee) continuously reviews, 
+updates, and modifies guideline methodology on the 
+basis of published standards from organizations, includ-
+ing the Institute of Medicine,1,2 and on the basis of inter-
+nal reevaluation. Similarly, presentation and delivery of 
+guidelines are reevaluated and modified in response to 
+evolving technologies and other factors to optimally facil-
+itate dissemination of information to health care profes-
+sionals at the point of care.
+Numerous modifications to the guidelines have been 
+implemented to make them shorter and enhance “user 
+friendliness.” Guidelines are written and presented in a 
+modular, “knowledge chunk” format, in which each chunk 
+includes a table of recommendations, a brief synopsis, 
+recommendation-specific supportive text, and, when 
+appropriate, flow diagrams or additional tables. Hyper-
+linked references are provided for each modular knowl-
+edge chunk to facilitate quick access and review.
+In recognition of the importance of cost–value con-
+siderations, in certain guidelines, when appropriate and 
+feasible, an analysis of value for a drug, device, or inter-
+vention may be performed in accordance with the ACC/
+AHA methodology.3
+To ensure that guideline recommendations remain cur-
+rent, new data will be reviewed on an ongoing basis by 
+the writing committee and staff. Going forward, targeted 
+sections/knowledge chunks will be revised dynamically 
+after publication and timely peer review of potentially 
+practice-changing science. The previous designations of 
+“full revision” and “focused update” will be phased out. 
+For additional information and policies on guideline devel-
+opment, readers may consult the ACC/AHA guideline 
+methodology manual4 and other methodology articles.5–7
+Selection of Writing Committee Members
+The Joint Committee strives to ensure that the guide-
+line writing committee contains requisite content exper-
+tise and is representative of the broader cardiovascular 
+community by selection of experts across a spectrum of 
+backgrounds, representing different geographic regions, 
+sexes, races, ethnicities, intellectual perspectives/biases, 
+and clinical practice settings. Organizations and profes-
+sional societies with related interests and expertise are 
+invited to participate as collaborators.
+Relationships With Industry and Other Entities
+The ACC and AHA have rigorous policies and methods 
+to ensure that documents are developed without bias or 
+improper influence. The complete policy on relationships 
+with industry and other entities (RWI) can be found online. 
+Appendix 1 of the guideline lists writing committee mem-
+bers’ comprehensive and relevant RWI; for the purposes 
+of full transparency, comprehensive and relevant disclosure 
+information for the Joint Committee is also available online.
+Evidence Review and Evidence Review 
+Committees
+In developing recommendations, the writing commit-
+tee uses evidence-based methodologies that are based 
+on all available data. 4,5 Literature searches focus on  
+randomized controlled trials (RCTs) but also include reg-
+istries, nonrandomized comparative and descriptive stud-
+ies, case series, cohort studies, systematic reviews, and 
+expert opinion. Only key references are cited.
+Downloaded from http://ahajournals.org by on May 30, 2026
+=== PAGE 6 ===
+CLINICAL STATEMENTS  
+AND GUIDELINES
+June 4, 2024 Circulation. 2024;149:e1239–e1311. DOI: 10.1161/CIR.0000000000001250e1244
+Ommen et al 2024 Hypertrophic Cardiomyopathy Guideline
+An independent evidence review committee is com-
+missioned when there are ≥ 1 questions deemed of 
+utmost clinical importance and merit formal systematic 
+review to determine which patients are most likely to ben-
+efit from a drug, device, or treatment strategy and to what 
+degree. Criteria for commissioning an evidence review 
+committee and formal systematic review include absence 
+of a current authoritative systematic review, feasibility of 
+defining the benefit and risk in a time frame consistent 
+with the writing of a guideline, relevance to a substantial 
+number of patients, and likelihood that the findings can 
+be translated into actionable recommendations. Evidence 
+review committee members may include methodologists, 
+epidemiologists, clinicians, and biostatisticians. Recom-
+mendations developed by the writing committee on the 
+basis of the systematic review are marked “SR”.
+Guideline-Directed Management and Therapy
+The term guideline-directed management and therapy 
+(GDMT) encompasses clinical evaluation, diagnostic 
+testing, and both pharmacological and procedural treat-
+ments. For these and all recommended drug treatment 
+regimens, the reader should confirm dosage with prod-
+uct insert material and evaluate for contraindications 
+and interactions. Recommendations are limited to drugs, 
+devices, and treatments approved for clinical use in the 
+United States.
+Joshua A. Beckman, MD, MS, FAHA, FACC
+Chair, ACC/AHA Joint Committee on  
+Clinical Practice Guidelines
+1. INTRODUCTION
+1.1. Methodology and Evidence Review
+The recommendations listed in this guideline are,  
+whenever possible, evidence based. An initial extensive 
+evidence review, which included literature derived from 
+research involving human subjects, published in English, 
+and indexed in MEDLINE (through PubMed), EMBASE, 
+the Cochrane Library, the Agency for Healthcare Re-
+search and Quality, and other selected databases rel-
+evant to this guideline, was conducted from September 
+14, 2022, to November 2022, and included literature 
+published between 2013 and 2022. Various published 
+search hedges were used to eliminate animal studies 
+and to locate relevant material that may not have been 
+retrievable using existing database study type filters at 
+the time the searches were performed. 1–6 Key search 
+words included but were not limited to the following: 
+hypertrophic cardiomyopathy, coronary, ischemia, sys-
+tole, atrial fibrillation, exercise, stroke volume, transplant, 
+magnetic resonance imaging, sudden death, left ven-
+tricular hypertrophy, subvalvular stenosis, echocardiog-
+raphy, nuclear magnetic resonance imaging, computed 
+tomographic angiography, genetic testing, and diagnostic 
+imaging. Additional relevant studies, published through 
+May 23, 2023, during the guideline writing process, were 
+also considered by the writing committee and added to 
+the evidence tables when appropriate. The final evidence 
+tables are included in the Online Data Supplement and 
+summarize the evidence used by the writing committee 
+to formulate recommendations. References selected and 
+published in the present document are representative 
+and not all-inclusive.
+1.2. Composition of the Writing Committee
+The writing committee consisted of clinicians, adult car-
+diologists, pediatric cardiologists, interventionalists, a 
+cardiac surgeon, and 2 lay/patient representatives. The 
+writing committee included representatives from the 
+ACC, AHA, American Medical Society for Sports Medi-
+cine, Heart Rhythm Society, Pediatric & Congenital Elec-
+trophysiology Society, and Society for Cardiovascular 
+Magnetic Resonance. Appendix 1 of the current docu-
+ment lists writing committee members’ comprehensive 
+and relevant RWI.
+1.3. Document Review and Approval
+The Joint Committee appointed a peer review commit-
+tee to review the document. The peer review committee 
+was composed of individuals nominated by ACC, AHA, 
+and the collaborating organizations. Reviewers’ RWI in-
+formation was distributed to the writing committee and is 
+published in Appendix 2.
+This document was approved for publication by the 
+governing bodies of the ACC and the AHA and was 
+endorsed by American Medical Society for Sports Medi-
+cine, Heart Rhythm Society, Pediatric & Congenital Elec-
+trophysiology Society, and Society for Cardiovascular 
+Magnetic Resonance.
+1.4. Scope of the Guideline
+In developing the “2024 AHA/ACC/AMSSM/HRS/
+PACES/SCMR Guideline for the Management of Hy-
+pertrophic Cardiomyopathy” (2024 HCM guideline), the 
+writing committee reviewed previously published guide-
+lines. Table 2 contains a list of these publications and 
+statements deemed pertinent to this writing effort and is 
+intended for use as a resource, thus obviating the need 
+to repeat existing guideline recommendations.
+1.5. Class of Recommendations and Level of 
+Evidence
+The Class of Recommendation (COR) indicates the 
+strength of recommendation, encompassing the estimat-
+ed magnitude and certainty of benefit in proportion to 
+Downloaded from http://ahajournals.org by on May 30, 2026
+=== PAGE 7 ===
+CLINICAL STATEMENTS 
+AND GUIDELINES
+Circulation. 2024;149:e1239–e1311. DOI: 10.1161/CIR.0000000000001250 June 4, 2024 e1245
+Ommen et al 2024 Hypertrophic Cardiomyopathy Guideline
+risk. The Level of Evidence (LOE) rates the quality of sci-
+entific evidence supporting the intervention on the basis 
+of the type, quantity, and consistency of data from clinical 
+trials and other sources (Table 3).
+1.6. Abbreviations
+Abbreviation Meaning/Phrase
+AF atrial fibrillation
+CAD coronary artery disease
+CMR cardiovascular magnetic resonance
+CPET cardiopulmonary exercise test
+CRT cardiac resynchronization therapy
+Abbreviation Meaning/Phrase
+DOAC direct-acting oral anticoagulants
+EF ejection fraction
+ESM extended septal myectomy
+GDMT guideline-directed management and therapy
+HCM hypertrophic cardiomyopathy
+HF heart failure
+ICD implantable cardioverter-defibrillator
+LBBB left bundle branch block
+LGE late gadolinium enhancement
+LV left ventricular
+LVAD left ventricular assist device
+LVE F left ventricular ejection fraction
+LVH left ventricular hypertrophy
+LVOT left ventricular outflow tract
+LVOTO left ventricular outflow tract obstruction
+MET metabolic equivalent
+MR mitral regurgitation
+NSVT nonsustained ventricular tachycardia
+NYHA New York Heart Association
+RCT randomized controlled trial
+RV right ventricular
+SAM systolic anterior motion
+SCAF subclinical atrial fibrillation
+SCD sudden cardiac death
+SRT septal reduction therapy
+TEE transesophageal echocardiogram
+TTE transthoracic echocardiogram
+VF ventricular fibrillation
+VT ventricular tachycardia
+VUS variant of uncertain significance
+2. DEFINITION, ETIOLOGY, CLINICAL 
+COURSE, AND NATURAL HISTORY
+2.1. Prevalence
+HCM is a common inherited heart disease reported in 
+populations globally. The estimated prevalence of HCM 
+varies depending on whether subclinical or clinically 
+evident cases are being considered, how or if the di-
+agnosis is adjudicated, and age of the sample studied. 1 
+The prevalence of unexplained asymptomatic hyper-
+trophy in young adults in the United States has been 
+reported in the range of 1:500. 2 Symptomatic hypertro-
+phy based on medical claims data has been estimated 
+at <1:3000 adults in the United States; however, the 
+true burden is much higher when unrecognized dis-
+ease in the general population is considered. 3 HCM 
+is often inherited in an autosomal dominant pattern 
+but does not require a family history of HCM. There 
+Table 2. Associated Guidelines and Statements
+Title Organization
+Publication Year 
+(Reference)
+Guidelines
+Hypertrophic cardiomyopathy ACC/AHA
+ESC
+20111
+20142
+20203
+Atrial fibrillation AHA/ACC 20144
+20195
+20236
+Heart failure ACC/AHA 20137
+20168
+20229
+Primary prevention AHA/ACC 201910
+Management of overweight and 
+obesity in adults
+AHA/ACC/TOS 201411
+Device-based therapy for cardiac 
+rhythm abnormalities
+ACC/AHA/HRS 201312
+Ventricular arrhythmias and sudden 
+cardiac death
+AHA/ACC/HRS 201713
+Bradycardia ACC/AHA/HRS 201814
+Prevention of cardiovascular disease 
+in women
+AHA/ACC 201115
+Secondary prevention and risk 
+reduction therapy for patients with 
+coronary and other atherosclerotic 
+vascular disease
+AHA/ACC 201116
+Assessment of cardiovascular risk in 
+asymptomatic adults
+ACC/AHA 201017
+Seventh Report of the Joint National 
+Committee on Prevention, Detec-
+tion, Evaluation, and Treatment of 
+High Blood Pressure
+NHLBI 200318
+VHD statement on comprehensive 
+centers
+AATS/ACC/
+ASE/SCAI/STS
+201919
+AATS indicates American Association for Thoracic Surgery; ACC, American 
+College of Cardiology; AHA, American Heart Association; ASE, American Society 
+of Echocardiography; ESC, European Society of Cardiology; HRS, Heart Rhythm 
+Society; NHLBI, National Heart, Lung, and Blood Institute; SCAI, Society for Car-
+diovascular Angiography and Interventions; STS, Society of Thoracic Surgeons; 
+TOS, The Obesity Society; and VHD, valvular heart disease.
+Downloaded from http://ahajournals.org by on May 30, 2026
+=== PAGE 8 ===
+CLINICAL STATEMENTS  
+AND GUIDELINES
+June 4, 2024 Circulation. 2024;149:e1239–e1311. DOI: 10.1161/CIR.0000000000001250e1246
+Ommen et al 2024 Hypertrophic Cardiomyopathy Guideline
+is equal distribution of HCM by sex, although women 
+are diagnosed less commonly than men. Differences 
+in prevalence have been reported by race and ethnic-
+ity. Whether this difference is due to social disparities 
+resulting in less access to specialists for diagnosis is 
+unclear. As a result, these differences likely reflect un-
+derlying differences in social determinants of health, 
+such as structural inequities in access to care leading 
+to differences in diagnosis and awareness. Patients 
+who self-identified as Black individuals (8.3%, N=205) 
+compared with White individuals had a younger mean 
+age at diagnosis (40 years versus 45.5 years), were 
+more likely to have symptomatic heart failure (HF), and 
+were less likely to undergo genetic testing. 4 Epidemio-
+logic studies of diverse samples are needed to better 
+understand the interplay between genetic and social 
+factors in the prevalence of HCM.
+2.2. Nomenclature and Differential Diagnosis
+Since the original clinical description of HCM was pre-
+sented >60 years ago, various names have been used to 
+describe this disease, including idiopathic hypertrophic 
+subaortic stenosis and hypertrophic obstructive cardio-
+myopathy. Because left ventricular (L V) outflow tract ob-
+struction (L VOTO) is not invariably present, the writing 
+committee recommends the term HCM (with or without 
+outflow tract obstruction).
+Table 3. Applying American College of Cardiology/American Heart Association Class of Recommendation and Level of  
+Evidence to Clinical Strategies, Interventions, Treatments, or Diagnostic Testing in Patient Care* (Updated May 2019)
+CLASS (STRENGTH) OF RECOMMENDATION
+CLASS 1 (STRONG) 
+Suggested phrases for writing recommendations:
+• Is recommended
+• 
+• Should be performed/administered/other
+• Comparative-Effectiveness Phrases†:
+ –T reatment/strategy A is recommended/indicated in preference to 
+treatment B
+ –T reatment A should be chosen over treatment B 
+CLASS 2a (MODERATE) 
+Suggested phrases for writing recommendations:
+• Is reasonable
+• 
+• Comparative-Effectiveness Phrases†:
+ –T reatment/strategy A is probably recommended/indicated in 
+preference to treatment B
+ – It is reasonable to choose treatment A over treatment B
+CLASS 2b (WEAK) 
+Suggested phrases for writing recommendations:
+• May/might be reasonable
+• May/might be considered
+• Usefulness/effectiveness is unknown/unclear/uncertain or not well-
+established
+  
+(Generally, LOE A or B use only)
+Suggested phrases for writing recommendations:
+• Is not recommended
+• 
+• Should not be performed/administered/other
+Class 3: Harm (STRONG) 
+Suggested phrases for writing recommendations:
+• Potentially harmful
+• Causes harm
+• Associated with excess morbidity/mortality
+• Should not be performed/administered/other
+LEVEL (QUALITY) OF EVIDENCE‡
+LEVEL A
+• High-quality evidence‡ from more than 1 RCT
+• Meta-analyses of high-quality RCTs
+• One or more RCTs corroborated by high-quality registry studies
+LEVEL B-R (Randomized)
+• Moderate-quality evidence‡ from 1 or more RCTs
+• Meta-analyses of moderate-quality RCTs
+LEVEL B-NR (Nonrandomized)
+• Moderate-quality evidence‡ from 1 or more well-designed, well-
+executed nonrandomized studies, observational studies, or registry 
+studies
+• Meta-analyses of such studies
+LEVEL C-LD (Limited Data)
+• Randomized or nonrandomized observational or registry studies with 
+limitations of design or execution
+• Meta-analyses of such studies
+• Physiological or mechanistic studies in human subjects
+LEVEL C-EO (Expert Opinion)
+• Consensus of expert opinion based on clinical experience
+COR and LOE are determined independently (any COR may be paired with any LOE).
+A recommendation with LOE C does not imply that the recommendation is weak. Many 
+important clinical questions addressed in guidelines do not lend themselves to clinical 
+trials. Although RCTs are unavailable, there may be a very clear clinical consensus that a 
+particular test or therapy is useful or effective.
+* 
+outcome or increased diagnostic accuracy or incremental prognostic information).
+† For comparative-effectiveness recommendations (COR 1 and 2a; LOE A and B only), 
+studies that support the use of comparator verbs should involve direct comparisons 
+of the treatments or strategies being evaluated.
+‡ The method of assessing quality is evolving, including the application of stan-
+dardized, widely-used, and preferably validated evidence grading tools; and for 
+systematic reviews, the incorporation of an Evidence Review Committee.
+COR indicates Class of Recommendation; EO, expert opinion; LD, limited data; LOE, Level 
+of Evidence; NR, nonrandomized; R, randomized; and RCT, randomized controlled trial.
+Downloaded from http://ahajournals.org by on May 30, 2026
+=== PAGE 9 ===
+CLINICAL STATEMENTS 
+AND GUIDELINES
+Circulation. 2024;149:e1239–e1311. DOI: 10.1161/CIR.0000000000001250 June 4, 2024 e1247
+Ommen et al 2024 Hypertrophic Cardiomyopathy Guideline
+In some areas, the use of HCM to describe the 
+increased L V wall thickness associated with systemic 
+disorders or secondary causes of L V hypertrophy (L VH) 
+can lead to confusion. Systemic disorders include 
+various metabolic and multiorgan syndromes such 
+as RASopathies (variants in several genes involved in 
+RAS-MAPK signaling); mitochondrial myopathies; gly-
+cogen and lysosomal storage diseases in children; and 
+Fabry, amyloid, sarcoid, and Danon cardiomyopathies. 
+In these syndromic or infiltrative diseases, although the 
+magnitude and distribution of increased L V wall thick-
+ness can be similar to that of HCM, the pathophysiologic 
+mechanisms responsible for hypertrophy, natural history, 
+and treatment strategies are not the same. 1–5 For these 
+reasons, other cardiac or systemic diseases capable of 
+producing L VH (ie, HCM mimics) will not be addressed 
+in this document.
+In addition, other scenarios can arise that pre sent 
+diagnostic challenges. These include conditions that 
+produce secondary L VH, which can also overlap phe-
+notypically with HCM, including remodeling second-
+ary to athletic training (ie, “athlete’s heart”) as well as 
+morphologic changes related to long-standing sys-
+temic hypertension (ie, hypertensive cardiomyopathy). 
+Similarly, hemodynamic obstruction caused by left-sided 
+obstructive lesions (valvular or subvalvular stenosis) or 
+obstruction after antero-apical infarction and stress car-
+diomyopathy can cause diagnostic dilemmas.6,7 Although 
+HCM cannot be definitely excluded in such situations, a 
+number of clinical markers and testing strategies can be 
+used to help differentiate between HCM and conditions 
+of physiologic L VH.
+2.3. Definition, Clinical Diagnosis, and 
+Phenotype
+For the purposes of this guideline, the clinical definition 
+of HCM is considered a disease state in which mor-
+phologic expression is confined solely to the heart. It is 
+characterized predominantly by L VH in the absence of 
+another cardiac, systemic, or metabolic disease capable 
+of producing the magnitude of hypertrophy evident in a 
+given patient and for which a disease-causing sarcomere 
+(or sarcomere-related) variant is identified or genetic eti-
+ology remains unresolved. A clinical diagnosis of HCM 
+in adult patients can therefore be established by imag-
+ing (see Section 6.1, “Clinical Diagnosis”), typically 
+with 2D echocardiography or cardiovascular magnetic 
+resonance (CMR) showing a maximal end-diastolic wall 
+thickness of ≥15 mm anywhere in the left ventricle, in 
+the absence of another cause of hypertrophy in adults.1–4 
+More limited hypertrophy (13-14 mm) can be diagnostic 
+when present in family members of a patient with HCM 
+or in conjunction with a positive genetic test identifying 
+a pathogenic or likely pathogenic variant often in a sar-
+comere gene.
+For children, the diagnostic criteria are confounded 
+by needing to adjust for body size and growth. Tradi-
+tionally, a body surface area adjusted z-score of ≥ 2 
+standard deviations above the mean has been used. 
+This cut-off represents a significantly lower threshold 
+than the 15-mm absolute value used in adults. For ref-
+erence, 15 mm represents a z-score of approximately 
+6 standard deviations above the mean in adults. We 
+propose that the diagnosis of HCM in children should 
+therefore consider the circumstances of screening 
+and the pretest probability of disease: a threshold of 
+a z-score >2.5 may be appropriate to identify early 
+HCM in asymptomatic children with no family his-
+tory, whereas for children with a definitive family his-
+tory or a positive genetic test, a threshold of a z-score 
+>2 may suffice for early diagnosis. The emergence of 
+the HCM phenotype in younger family members who 
+carry a pathogenic or likely pathogenic variant with-
+out previously evident L VH at initial screening (ie,  
+genotype-positive/previously phenotype-negative) is 
+well recognized and underscores the principle that, as 
+the disease manifests, normal or mildly increased L V 
+wall thicknesses will be encountered in individuals with 
+genetically affected status. In the absence of increased 
+wall thickness, such individuals should be considered 
+at risk for subsequent development of, but not yet hav-
+ing, clinically evident HCM.
+Nearly any pattern and distribution of L V wall thick-
+ening can be observed in HCM, with the basal anterior 
+septum in continuity with the anterior free wall the most 
+common location for L VH. In a subset of patients, hyper-
+trophy can be limited and focal, confined to only 1 or 2 
+L V segments with normal L V mass. Although common in 
+HCM, systolic anterior motion (SAM) of the mitral valve 
+and hyperdynamic L V function are not pathognomonic 
+and are not required for a clinical diagnosis. Several other 
+morphologic abnormalities are also not diagnostic of 
+HCM but can be part of the phenotypic expression of the 
+disease, including hypertrophied and apically displaced 
+papillary muscles, myocardial crypts, anomalous insertion 
+of the papillary muscle directly in the anterior leaflet of 
+the mitral valve (in the absence of chordae tendineae), 
+elongated mitral valve leaflets, myocardial bridging, and 
+right ventricular (RV) hypertrophy.
+2.4. Etiology
+In the early 1990s, the DNA sequencing from families 
+with HCM led to the discovery that damaging variants 
+in genes coding for sarcomere proteins segregated 
+(or were coinherited) with L VH identified by echocar-
+diographic assessment, abnormal electrocardiograms 
+(ECGs), and physical findings. HCM thereby became 
+regarded as a potentially monogenic disease, helping 
+to consolidate a clinically heterogeneous disease into a 
+single entity based on genetic substrate.1
+Downloaded from http://ahajournals.org by on May 30, 2026
+=== PAGE 10 ===
+CLINICAL STATEMENTS  
+AND GUIDELINES
+June 4, 2024 Circulation. 2024;149:e1239–e1311. DOI: 10.1161/CIR.0000000000001250e1248
+Ommen et al 2024 Hypertrophic Cardiomyopathy Guideline
+Currently, variants in 1 of ≥ 8 genes encoding pro-
+teins of the cardiac sarcomere (or sarcomere-related 
+structures) have been implicated in causing L VH, the 
+sine qua non of HCM. Among patients with HCM, 
+approximately 30% to 60% have an identifiable patho-
+genic or likely pathogenic genetic variant. A substantial 
+proportion of patients with HCM are currently without 
+any evidence of a genetic etiology to their disease, 
+including a subgroup (up to 40% of patients in 1 study) 
+who also have no other affected family members (ie, 
+“nonfamilial” HCM). 2 These observations suggest that 
+other novel pathophysiologic mechanisms may be 
+responsible for, or contribute to, phenotypic expres-
+sion in these affected patients with HCM. Although 
+HCM appears to be a monogenic disease in some 
+cases, common genetic variants have also been iden-
+tified as genetic modifiers of disease penetrance and  
+-associated with risk for L VH and HCM, which suggests 
+both monogenic and polygenic susceptibility. 3
+Among patients with HCM and a pathogenic sarco-
+meric gene variant, the 2 most common genes are beta 
+myosin heavy chain 7 (MYH7) and myosin-binding protein 
+C3 (MYBPC3), identified in most patients who are vari-
+ant positive, while other genes (TNNI3, TNNT2, TPM1, 
+MYL2, MYL3, ACTC1) each account for a small propor-
+tion of patients (1%-5%). Within these genes, most rare 
+variants identified are “private” (unique to the individual 
+family). Each offspring of an affected family member 
+has a 50% chance of inheriting the variant. 4 Although 
+the likelihood of developing clinical HCM is high in fam-
+ily members with a pathogenic variant, the age at which 
+disease expression occurs in a given individual as well as 
+the degree of expression is variable.
+The precise mechanisms by which sarcomere variants 
+result in the clinical phenotype have not been fully eluci-
+dated. Alterations in the sarcomere gene trigger myocar-
+dial changes, leading to hypertrophy and fibrosis, which 
+ultimately results in a small, stiff ventricle with impaired 
+systolic and diastolic performance despite a preserved 
+left ventricular ejection fraction (L VEF). Similarly, abnor-
+mal sarcomeric proteins may not be solely responsible 
+for all of the clinical characteristics observed in patients 
+with HCM. Diverse disease features including abnormal 
+intramural coronary arteries responsible for small vessel 
+ischemia, elongated mitral valve leaflets, and congenital 
+anomalies of the submitral valve apparatus, which are 
+widely recognized components of the HCM phenotype, 
+appear to have no known direct association with sarco-
+mere variants.
+2.5. Natural History and Clinical Course
+Although HCM can be compatible with normal life ex-
+pectancy without limiting symptoms or the need for 
+major treatments in most patients, many patients can 
+experience significant consequences that are attribut-
+able to the disease. To this point, there is increasing 
+recognition of patients with HCM identified clinically 
+at >60 years of age with little to no disability. Y et, a 
+multicenter registry report has suggested that the life-
+long risk of adverse events (eg, mortality, HF, stroke, 
+ventricular arrhythmia, atrial fibrillation [AF]) caused by 
+HCM may be greater among patients with pathogenic 
+or likely pathogenic sarcomeric gene variants or those 
+diagnosed early in life. 1 The large number and diver-
+sity of the HCM-associated variants do not allow the 
+specific genotype to be used to inform the anticipated 
+outcomes in individual patients.
+Among referral-based cohorts of patients with HCM, 
+many will experience adverse events, including: (1) 
+sudden death events; (2) progressive limiting symp-
+toms because of L VOTO or diastolic dysfunction; (3) 
+HF symptoms associated with systolic dysfunction; and 
+(4) AF with risk of thromboembolic stroke. Neverthe-
+less, studies reporting relatively long-term outcomes in 
+patients with HCM have demonstrated that for patients 
+at risk for, or who develop one of these disease-related 
+complications, the application of contemporary cardio-
+vascular therapies and interventions has significantly 
+lowered HCM mortality rates. 2,3 One of the major treat-
+ment initiatives responsible for lowering the mortality 
+rate has been the evolution of sudden cardiac death 
+(SCD) risk stratification strategies based on several 
+major noninvasive risk markers that can identify adult 
+patients with HCM at greatest risk for sudden death 
+who are then candidates for implantable cardioverter-
+defibrillator (ICD) placement. The decrease in sudden 
+death rates in HCM appears now to have shifted focus 
+to HF and complications of AF as the predominant 
+cause of disease-related morbidity and mortality and, 
+therefore, the greatest unmet treatment need in adults. 
+Risk for adverse events in HCM, particularly for HF, 
+are likely due to the complex interplay of genetics with 
+environmental factors, such as obesity, hypertension, 
+sleep apnea, and diabetes. 4 Among patients with HCM, 
+cardiometabolic risk factors (eg, obesity, hypertension, 
+diabetes, obstructive sleep apnea) are highly prevalent 
+and are associated with poorer prognosis, highlighting 
+the importance of intensive risk factor modification of 
+traditional risk factors.
+3. PATHOPHYSIOLOGY
+The pathophysiology of HCM consists of dynamic 
+L VOTO, mitral regurgitation (MR), diastolic dysfunc-
+tion, myocardial ischemia, arrhythmias, metabolic and 
+energetic abnormalities, and potentially autonomic 
+dysfunction. For a given patient with HCM, the clinical 
+outcome may be dominated by one of these compo-
+nents or may be the result of a complex interplay. Thus, 
+the potential presence of such abnormalities should 
+be considered with comprehensive clinical evaluation 
+Downloaded from http://ahajournals.org by on May 30, 2026
+=== PAGE 11 ===
+CLINICAL STATEMENTS 
+AND GUIDELINES
+Circulation. 2024;149:e1239–e1311. DOI: 10.1161/CIR.0000000000001250 June 4, 2024 e1249
+Ommen et al 2024 Hypertrophic Cardiomyopathy Guideline
+and their impact addressed in the management of 
+these patients.
+3.1. Left Ventricular Outflow Tract Obstruction
+L VOTO, either at rest or with provocation, is present in 
+a significant proportion of patients with HCM 1 and pri-
+marily caused by SAM of the mitral valve. Obstruction is 
+considered present if peak L VOT gradient is ≥30 mm Hg. 
+Resting or provoked gradients ≥50 mm Hg are generally 
+considered capable of causing symptoms and, therefore, 
+are the threshold for contemplating advanced pharmaco-
+logical or invasive therapies if symptoms are refractory to 
+standard management.
+L VOTO in HCM is dynamic and sensitive to ventricu-
+lar preload, afterload, and contractility. 2 Thus, gradients 
+vary with heart rate, blood pressure, volume status, activ-
+ity, medications, food, and alcohol intake. 3,4 Provocative 
+maneuvers are recommended if minimal gradients (ie, 
+<30 mm Hg) are observed at rest. Maneuvers include 
+standing, Valsalva strain, or exercise with simultaneous 
+auscultation or echocardiography. 5–9 Using dobutamine 
+to identify latent L VOTO and eligibility for advanced ther-
+apies is not advised due to lack of specificity. 10
+The site and characteristics of obstruction should 
+be identified. Management will change depending 
+on whether the obstruction is deemed to be valvular, 
+dynamic L VOTO, fixed subvalvular, or midcavitary due 
+to hypertrophied/anomalous papillary muscles and/or 
+hyperdynamic L V function with systolic cavity oblitera-
+tion. If clinical and echocardiographic findings are discor-
+dant, invasive assessment for L VOTO may be helpful.11
+3.2. Diastolic Dysfunction
+Altered ventricular load with high intracavitary pres-
+sures, impaired L V compliance from hypertrophy and 
+fibrosis, altered energetics, microvascular ischemia, 
+and delayed inactivation from abnormal intracellular 
+calcium reuptake are features of HCM that contribute 
+to diastolic dysfunction. 1–3 Additionally, impaired relax-
+ation can be identified in young sarcomere gene variant 
+carriers with normal L V wall thickness, suggesting that 
+diastolic abnormalities can be an early manifestation of 
+pathogenic sarcomere variants. 4 In some patients, in-
+creased stiffness and severe hypertrophy significantly 
+compromise ventricular cavity size and stroke volume 
+and may result in restrictive physiology. Diastolic dys-
+function can contribute to decreased exercise capacity 
+and adverse prognosis independent of L VOTO. 2,5,6 De-
+termining if exercise intolerance or symptoms are due 
+to diastolic dysfunction may require invasive testing. 
+With impaired ventricular myocardial relaxation, greater 
+dependency on the atrial systole for ventricular filling 
+may occur, leading to poor tolerance of AF or similar 
+arrhythmias in some patients.
+3.3. Mitral Regurgitation
+MR can occur secondarily from SAM or primarily from 
+leaflet abnormalities and, regardless of etiology, can 
+contribute to symptom burden. Common primary abnor-
+malities of the mitral valve in patients with HCM include 
+excessive leaflet length, anomalous papillary muscle in-
+sertion, and anteriorly displaced papillary muscles.1–3 MR 
+jet characteristics can provide insight to etiology as MR 
+caused by SAM is typically mid-to-late systolic in timing 
+and posterior or lateral in orientation, owing to the ante-
+rior distortion of the mitral valve and compromised leaflet 
+coaptation.4 However, central and anterior jets may also 
+result from SAM of the mitral valve. For patients in whom 
+invasive septal reduction therapy (SRT) is being contem-
+plated, close examination of the mitral valve is required 
+to determine the optimal invasive approach and potential 
+need for concomitant mitral valve intervention.5,6
+Factors that affect the severity of L VOTO may also 
+affect the degree of MR, thus imaging should be per-
+formed at rest and with provocation. Additionally, variation 
+in the degree of MR may underlie some of the variation in 
+symptoms reported by patients.
+3.4. Myocardial Ischemia
+Patients with HCM may be susceptible to myocardial 
+ischemia due to potential mismatch between myocardial 
+oxygen supply and demand. Myocardial hypertrophy, mi-
+crovascular dysfunction with impaired coronary flow re-
+serve, and medial hypertrophy and reduced density of the 
+intramural arterioles are common findings in HCM.1,2 These 
+abnormalities may be exacerbated by the presence of hy-
+perdynamic systolic function and L VOTO with high intra-
+cavitary pressures.3,4 Blunted coronary flow reserve occurs 
+even without epicardial stenosis, although the presence of 
+concomitant severe coronary atherosclerosis exacerbates 
+mismatch and is associated with a poorer prognosis.5 Api-
+cal myocardial ischemia and injury (with or without midven-
+tricular obstruction) may be one of the mechanisms that 
+contributes to the development of L V apical aneurysms, 
+which may carry increased risk of HF, stroke, and ven-
+tricular arrhythmias.6,7 Myocardial bridging, a congenital  
+anomaly whereby a bridge of overlying myocardium causes 
+systolic compression of an epicardial coronary artery that 
+can persist into diastole, may impair blood flow and may 
+rarely cause myocardial ischemia in a subset of patients.8–12
+3.5. Autonomic Dysfunction
+Patients with HCM may have autonomic dysfunction, 
+with impaired heart rate recovery and inappropriate  
+vasodilatation.1–4 The prevalence of autonomic dysfunc-
+tion in HCM is uncertain, although studies have described 
+an abnormal blood pressure response to exercise in ap-
+proximately 25% of patients. 2–4 Whether these findings 
+were due to pure autonomic dysfunction, L VOTO, or other 
+Downloaded from http://ahajournals.org by on May 30, 2026
+=== PAGE 12 ===
+CLINICAL STATEMENTS  
+AND GUIDELINES
+June 4, 2024 Circulation. 2024;149:e1239–e1311. DOI: 10.1161/CIR.0000000000001250e1250
+Ommen et al 2024 Hypertrophic Cardiomyopathy Guideline
+conditions is unclear. Currently, no specific recommen-
+dations exist for assessment or treatment of autonomic 
+dysfunction in patients with HCM.
+4. SHARED DECISION-MAKING
+Recommendation for Shared Decision-Making
+Referenced studies that support the recommendation are  
+summarized in the Online Data Supplement. 
+COR LOE Recommendation
+1 B-NR
+ 1. For patients with HCM or at risk for HCM, shared 
+decision-making is recommended in developing a  
+plan of care (including, but not limited to, decisions 
+regarding genetic evaluation, activity, lifestyle, and 
+therapy choices) that includes a full disclosure of the 
+risks, benefits, and anticipated outcomes of all  
+options, as well the opportunity for the patient and 
+caregivers to express their goals and concerns.1–5
+Synopsis
+Shared decision-making is a dialogue that allows pa-
+tients, families, and health care professionals to work 
+together to select options that fully consider the input, 
+values, and preferences for the patient. This approach 
+has been shown to improve confidence in clinical deci-
+sions and improved health outcomes. 6 Although shared 
+decision-making discussions should be the default in-
+teraction between patients (or their families in the case 
+of an affected minor) and their care teams, the biggest 
+opportunities are those areas where there are complex 
+pathways that vary by the individual patient.
+Recommendation-Specific Supportive Text
+ 1. In the management of HCM, decisions around 
+genetic testing, ICD implantation, advanced thera-
+pies for relief of L VOTO, and participation in com-
+petitive or high-intensity exercise are particularly 
+critical for these crucial dialogues. Some of these 
+discussions and decisions could also represent 
+opportunities where referral to centers with more 
+comprehensive experience are most appropri-
+ate and highly impactful (as described in detail in 
+Section 5, “Multidisciplinary HCM Centers”).
+5. MULTIDISCIPLINARY HCM CENTERS
+Recommendations for Multidisciplinary HCM Centers 
+COR LOE Recommendations
+1 C-LD
+ 1. In patients with HCM in whom SRT is indicated, the 
+procedure should be performed at experienced  
+centers (comprehensive or primary HCM centers)  
+with demonstrated excellence in clinical outcomes  
+for these procedures (Tables 4 and 5).1–3
+2a C-LD
+ 2. In patients with HCM, consultation with or referral  
+to a comprehensive or primary HCM center is  
+reasonable to aid in complex disease-related  
+management decisions (Table 4).4–14
+Synopsis
+The specialized needs, complex and evolving clini-
+cal management, and the relatively uncommon preva-
+lence of HCM in many clinical practices have created a 
+greater demand and need for clinical HCM centers with 
+HCM-specific competencies similar to that proposed 
+for the management of patients with valvular heart  
+disease.5–7 ,15 The main goal of the HCM centers’ frame-
+work is to optimize care and counseling of patients with 
+HCM and their families. The proposed approach recog-
+nizes that a spectrum of expertise exists and is inclusive 
+of roles for cardiologists working outside of HCM cen-
+ters, those working in primary HCM centers, and those 
+working at fully comprehensive HCM centers. Cardiolo-
+gists practicing outside of HCM centers have a critical 
+role in many aspects of HCM management (Table 4) 
+including, but not limited to, providing ready access for 
+initial and surveillance testing, treatment recommenda-
+tions, and availability for rapid assessment when a pa-
+tient’s disease course changes.
+Referral to HCM centers can help to confirm diag-
+nosis, provide genetic counseling and testing, advise 
+regarding more advanced treatment decisions, and pro-
+vide patients with access to the highest level of longitu-
+dinal care possible for their disease.7
+Recommendation-Specific Supportive Text
+ 1. When performed in centers with limited experi-
+ence and low procedural volume, invasive SRTs 
+for relief of L VOTO are associated with increased 
+mortality and morbidity rates, as well as mitral 
+valve replacement. 1–3,16,17 Strong consideration 
+should therefore be given to referral of patients 
+with obstructive HCM who are candidates for 
+invasive SRTs to established high-volume primary 
+or comprehensive HCM centers, which can per-
+form these procedures with optimal safety and 
+benefit outcomes. Primary HCM centers that 
+perform invasive SRTs should ensure outcomes 
+for safety and benefit, commensurate with that 
+reported from comprehensive HCM centers 
+(Tables 4 and 5). If only one of the invasive SRT 
+options is available at a given center, patients 
+should be fully informed of alternative options, 
+including the pros and cons of both procedures 
+and the possibility for referral to a comprehen-
+sive HCM center that offers all treatment options 
+to ensure appropriate patient participation in the 
+decision-making.
+ 2. Given the unique needs of patients with HCM in 
+clinical cardiovascular practice, as well as the 
+specialized training and interpretation associ-
+ated with many of the procedures and testing for 
+this complex condition, challenging management 
+decision-making can arise for which referral to or 
+Downloaded from http://ahajournals.org by on May 30, 2026
+=== PAGE 13 ===
+CLINICAL STATEMENTS 
+AND GUIDELINES
+Circulation. 2024;149:e1239–e1311. DOI: 10.1161/CIR.0000000000001250 June 4, 2024 e1251
+Ommen et al 2024 Hypertrophic Cardiomyopathy Guideline
+consultation with an HCM center would be rea-
+sonable.4–13 Referral to a comprehensive HCM 
+center should specifically be considered for 
+those patients with HCM who are candidates for 
+any procedure that requires specialized exper-
+tise, including complex invasive SRTs, 3,8,9 cath-
+eter ablation for ventricular and complex atrial 
+tachyarrhythmias, 10,11 and advanced HF thera-
+pies, including transplant. 12,13 In addition, refer-
+ral to a comprehensive HCM center can aid in 
+complex disease-related management decisions 
+including, but not limited to, genetic counseling, 
+challenging primary prevention ICD decision-
+making, as well as counseling patients with HCM 
+on sports participation. 4
+6. DIAGNOSIS, INITIAL EVALUATION, AND 
+FOLLOW-UP
+6.1. Clinical Diagnosis
+Recommendation for Clinical Diagnosis
+Referenced studies that support the recommendation are  
+summarized in the Online Data Supplement. 
+COR LOE Recommendation
+1 B-NR
+ 1. In patients with suspected HCM, comprehensive 
+physical examination and complete medical and 
+3-generation family history is recommended as  
+part of the initial diagnostic assessment  
+(Tables 6 and 7). 1–6
+Synopsis
+Clinical evaluation for HCM may be triggered by the 
+identification of a family history of HCM; by symptoms 
+including a cardiac event; by detection of a heart murmur  
+Table 4. Suggested Competencies of Comprehensive and 
+Primary HCM Centers
+Potential HCM Care Delivery 
+Competencies
+Comprehensive  
+HCM Center
+Primary 
+HCM 
+Center
+Referring 
+Centers and 
+Physicians
+Diagnosis X X X
+Initial and surveillance TTE X X X
+Advanced echocardiographic 
+imaging to detect latent LVOTO
+X X
+Echocardiography to guide SRT X *
+CMR imaging for diagnosis 
+and risk stratification
+X X
+Invasive evaluation for LVOTO X * *
+Coronary angiography X X X
+Stress testing for elicitation 
+of LVOTO or consideration of 
+advanced HF therapies and 
+transplant
+X X
+Counseling and performing 
+family screening (imaging and 
+genetic)
+X X X
+Genetic testing and counseling X X *
+SCD risk assessment X X X
+COR 1 and COR 2a ICD 
+decision-making with adult 
+patients
+X X X
+COR 2b ICD decision-making 
+with adult patients
+X
+ICD implantation (adults) X X *
+ICD decision-making and 
+implantation with children and 
+adolescents and their parents 
+and caregivers
+X *
+Initial AF management and 
+stroke prevention
+X X X
+AF catheter ablation X X *
+Initial management of HFrEF 
+and HFpEF
+X X X
+Advanced HF management 
+(eg, transplantation, CRT)
+X *
+Pharmacological therapy for HCMX X X
+Invasive management of  
+symptomatic obstructive HCM
+X †
+Counseling occupational and 
+healthy living choices other 
+than high-intensity or  
+competitive activities
+X X X
+Counseling options on  
+participation in high-intensity or 
+competitive athletics
+X
+Managing women with HCM 
+through pregnancy
+X *
+Management of comorbidities X X X
+*Optional depending on the core competencies of the institution.
+†If these procedures are performed, adequate quality assurance should be in 
+place to demonstrate outcomes consistent with that achieved by comprehensive 
+centers.
+AF indicates atrial fibrillation; CMR, cardiovascular magnetic resonance; 
+COR, Class of Recommendation; CRT, cardiac resynchronization therapy; HCM, 
+hypertrophic cardiomyopathy; HF, heart failure; HFpEF, heart failure with pre-
+served ejection fraction; HFrEF, heart failure with reduced ejection fraction; 
+ICD, implantable cardioverter-defibrillator; L VOTO, left ventricular outflow tract 
+obstruction; SCD, sudden cardiac death; SRT, septal reduction therapy; and 
+TTE, transthoracic echocardiography.
+Table 5. Targets for Invasive Septal Reduction Therapies 
+Outcomes
+Rate (%)
+Myectomy
+Alcohol 
+Septal  
+Ablation
+30-d mortality ≤1 ≤1
+30-d adverse complications (tamponade, LAD 
+dissection, infection, major bleeding)
+≤5 ≤5
+30-d complete heart block resulting in need for 
+permanent pacemaker
+≤5 ≤10
+Mitral valve replacement within 1 y ≤5
+More than moderate residual mitral regurgitation ≤5 ≤5
+Repeat procedure rate ≤3 ≤10
+Symptomatic improvement (eg, ≥1 NYHA  
+functional class)
+>90 >90
+Rest and provoked LVOT gradient <50 mm Hg >90 >90
+LAD indicates left anterior descending; L VOT, left ventricular outflow tract; and 
+NYHA, New York Heart Association.
+Downloaded from http://ahajournals.org by on May 30, 2026
+=== PAGE 14 ===
+CLINICAL STATEMENTS  
+AND GUIDELINES
+June 4, 2024 Circulation. 2024;149:e1239–e1311. DOI: 10.1161/CIR.0000000000001250e1252
+Ommen et al 2024 Hypertrophic Cardiomyopathy Guideline
+during physical examination; during an echocardio-
+graphic examination performed for other indications; or 
+by abnormal results on a 12-lead ECG. A proper clinical 
+evaluation should begin with a comprehensive cardiac 
+history, a family history including 3 generations, and a 
+comprehensive physical examination (including maneu-
+vers such as Valsalva, squat-to-stand, passive leg rais-
+ing, or walking). This should be followed by an ECG and 
+cardiac imaging to identify L VH when clinical findings are 
+suggestive.
+Recommendation-Specific Supportive Text
+ 1. Many patients with HCM are asymptomatic and 
+are identified incidentally or as a result of 
+screening. Clinical history includes a detailed 
+cardiac history and family history (3 genera-
+tions) to identify relatives with HCM or unex-
+pected or sudden death. Assessment of overall 
+fitness and functional capacity, and symptoms 
+in response to exertion—chest pain, dyspnea, 
+palpitations, and syncope—should also be per-
+formed. Associated syndromic or systemic and 
+extracardiac symptoms or organ involvement 
+are also documented. Alternative etiologies 
+should be excluded, including athletic remod-
+eling, uncontrolled hypertension, renal disease, 
+or infiltrative diseases. In neonates, a history of 
+maternal gestational diabetes should be consid-
+ered and, in infants <1 year of age, exclude sys-
+temic disease (Table 6).
+Classically, patients with HCM have a harsh 
+crescendo-decrescendo systolic murmur often due 
+to SAM of the mitral valve with L VOTO, prominent 
+apical point of maximal impulse, abnormal carotid 
+pulse, and a fourth heart sound. Presence of out-
+flow tract obstruction should be sought at rest 
+and with provocative maneuvers when possible 
+(Valsalva maneuver, standing from the squatting 
+position). SAM related to an elongated anterior 
+mitral valve leaflet and papillary muscle abnormali-
+ties may result in leaflet separation or poor coap-
+tation with posteriorly directed MR in late systole 
+over the mitral position. Those without L VOTO 
+(provocable or resting) may have a normal physical 
+examination.1–6
+Table 6. Clinical Features in Patients With HCM Phenocopies (Mimics)
+Typical Presentation Age Systemic Features Possible Etiology Diagnostic Approach
+Infants (0-12 mo) and toddlers Dysmorphic features, failure to 
+thrive, metabolic acidosis
+RASopathies
+Glycogen storage diseases, other meta-
+bolic or mitochondrial diseases
+Infant of a mother with diabetes
+Geneticist assessment
+Newborn metabolic screening
+Specific metabolic assays
+Genetic testing
+Early childhood Delayed or abnormal cognitive 
+development, visual or hearing 
+impairment
+RASopathies
+Mitochondrial diseases
+Biochemical screening
+Genetic testing
+Youth and adolescence Skeletal muscle weakness or 
+movement disorder
+Friedreich’s ataxia
+Danon disease
+Mitochondrial disease
+Biochemical screening
+Neuromuscular assessment
+Genetic testing
+Adulthood Movement disorder, peripheral 
+neuropathy, renal dysfunction
+Anderson-Fabry disease
+Friedreich’s ataxia
+infiltrative disorders (eg, amyloidosis)
+Glycogen storage diseases
+Mitochondrial disease
+Biochemical screening
+Neuromuscular assessment
+Genetic testing
+HCM indicates hypertrophic cardiomyopathy.
+Table 7. Screening With Electrocardiography and 2D Echo-
+cardiography in Asymptomatic Family Members*
+Age of First-Degree  
+Relative Initiation of Screening
+Repeat 
+ECG, Echo
+Pediatric
+  Children and 
+adolescents from 
+genotype-positive 
+families, and families 
+with early onset 
+disease
+At the time HCM is diag-
+nosed in another family 
+member
+Every 1-2 y
+   All other children 
+and adolescents
+At any time after HCM 
+is diagnosed in a family 
+member but no later than 
+puberty
+Every 2-3 y
+ Adults At the time HCM is diag-
+nosed in another family 
+member
+Every 3-5 y
+*Includes all asymptomatic, phenotype-negative, first-degree relatives deemed 
+to be at risk for developing HCM based on family history or genotype status 
+and may sometimes include more distant relatives based on clinical judgment. 
+Screening interval may be modified (eg, at onset of new symptoms or in families 
+with a malignant clinical course or late-onset HCM).
+ECG indicates electrocardiogram; Echo, echocardiogram; and HCM, hypertro-
+phic cardiomyopathy.
+Downloaded from http://ahajournals.org by on May 30, 2026
+=== PAGE 15 ===
+CLINICAL STATEMENTS 
+AND GUIDELINES
+Circulation. 2024;149:e1239–e1311. DOI: 10.1161/CIR.0000000000001250 June 4, 2024 e1253
+Ommen et al 2024 Hypertrophic Cardiomyopathy Guideline
+6.2. Echocardiography
+Recommendations for Echocardiography
+Referenced studies that support the recommendations are  
+summarized in the Online Data Supplement. 
+COR LOE Recommendations
+1 B-NR
+ 1. In patients with suspected HCM, a transthoracic 
+echocardiogram (TTE) is recommended in the  
+initial evaluation.1–6
+1
+B-NR 
+(children)
+ 2. In patients with HCM who have no change in  
+clinical status or events, repeat TTE is  
+recommended every 1 to 2 years to assess the 
+degree of myocardial hypertrophy, dynamic L VOTO, 
+MR, and myocardial function (Figure 1).7–14
+C-LD 
+(adults)
+1 B-NR
+ 3. For patients with HCM who experience a change 
+in clinical status or a new clinical event, repeat  
+TTE is recommended.9,14–17
+1 B-NR
+ 4. For patients with HCM and resting peak L VOT  
+gradient <50 mm Hg, a TTE with provocative  
+maneuvers is recommended.18–21
+1 B-NR
+ 5. For symptomatic patients with HCM who do not 
+have a resting or provocable outflow tract peak 
+gradient ≥50 mm Hg on TTE, exercise TTE is  
+recommended for the detection and  
+quantification of dynamic L VOTO.20–25
+1 B-NR
+ 6. For patients with HCM who are undergoing  
+surgical septal myectomy, intraoperative  
+transesophageal echocardiogram (TEE) is  
+recommended to assess mitral valve anatomy and 
+function and adequacy of septal myectomy.26–29
+1 B-NR
+ 7 . For patients with HCM who are undergoing 
+alcohol septal ablation, TTE or intraoperative TEE 
+with intracoronary ultrasound-enhancing contrast 
+injection of the candidate’s septal perforator(s) is 
+recommended.30–34
+1 B-NR
+ 8. For patients with HCM who have undergone  
+SRT, TTE within 3 to 6 months after the  
+procedure is recommended to evaluate the  
+procedural results.35–38
+1 B-NR
+ 9. Screening: In first-degree relatives of patients  
+with HCM, a TTE is recommended as part of  
+initial family screening and periodic follow-up  
+(Figure 1, Table 7).3–5,7 ,14,32
+1 B-NR
+10. Screening: In individuals who are genotype-
+positive, phenotype-negative, echocardiography is 
+recommended at periodic intervals depending on 
+age (1-2 years in children and adolescents, 3-5 
+years in adults) and change in clinical status  
+(Figure 1, Table 7).39–43
+2a C-LD
+11. For patients with HCM, TEE can be useful if TTE  
+is inconclusive in clinical decision-making  
+regarding medical therapy, and in situations  
+such as planning for myectomy, exclusion of  
+subaortic membrane or MR secondary to  
+structural abnormalities of the mitral valve  
+apparatus, or in the assessment of the feasibility of 
+alcohol septal ablation.26–29
+2a B-NR
+12. For patients with HCM in whom the diagnosis of 
+apical HCM, apical aneurysm, or atypical patterns 
+of hypertrophy is inconclusive on TTE, the use of an 
+intravenous ultrasound-enhancing agent is reason-
+able, particularly if other imaging modalities such 
+as CMR are not readily available or are contraindi-
+cated.44,45
+2a C-LD
+13. For asymptomatic patients with HCM who do not 
+have a resting or provocable outflow tract peak 
+gradient ≥50 mm Hg on standard TTE, exercise 
+TTE is reasonable for the detection and  
+quantification of dynamic L VOTO.15,19,20,22–25
+Synopsis
+Cardiac imaging has an essential role in the diagnosis 
+and clinical decision-making for patients with HCM. 
+Echocardiography is the primary imaging modality in 
+most patients, with CMR imaging offering complemen-
+tary information and as an alternative to echocardiogra-
+phy for selected patients in whom the echocardiogram 
+is inconclusive. Important information to be gained from 
+imaging includes establishing the diagnosis (or exclud-
+ing alternative diagnoses), evaluating the severity of 
+the phenotype, and evaluating for concomitant struc-
+tural and functional cardiac abnormalities (eg, systolic, 
+diastolic, valvular function). Characterization of dynamic 
+L VOTO, including the integral role of the mitral valve, is 
+a key strength of echocardiography. Documentation of 
+the maximal wall thickness, cardiac chamber dimensions, 
+systolic function, and the presence of L V apical aneurysm 
+all inform phenotype severity and SCD risk stratification.
+Recommendation-Specific Supportive Text
+ 1. Comprehensive 2D echocardiography has a pri-
+mary role in establishing the diagnosis of HCM, 
+determining hypertrophy pattern, presence of L V 
+apical aneurysms, L V systolic and diastolic function, 
+mitral valve function, and presence and severity of 
+LVOTO.1–6
+ 2. Routine follow-up of patients with HCM is an impor-
+tant part of optimal care. In asymptomatic patients, 
+serial TTE, performed every 1 to 2 years, can help 
+assess for changes in L V systolic and diastolic 
+function, wall thickness, chamber size, L VOTO, and 
+concomitant valvular disease. This interval may be 
+extended in patients who remain clinically stable 
+after multiple evaluations.7–14
+ 3. Changes in signs or symptoms in patients with 
+HCM are often attributable to progression of the 
+hemodynamics of HCM, or the development of new 
+concomitant cardiovascular abnormalities, such as 
+valvular heart disease. Echocardiography is the pri-
+mary imaging modality to assess these changes in 
+patients with new or worsening symptoms.9,14–17
+ 4. L VOT gradients are dynamic, influenced by loading 
+conditions, and recumbent resting echocardiog-
+raphy tends to underestimate the presence and 
+severity of ambulatory L VOTO, with up to 50% of 
+patients with obstructive physiology being iden-
+tified on resting echocardiography. If the resting 
+gradient is <50 mm Hg, it is essential to perform 
+provocative maneuvers such as sustained Valsalva 
+or squat-to-stand (or simply standing) maneuvers 
+to uncover the presence of L VOTO, which may 
+inform the care of the individual.15,18–21 Provocative 
+maneuvers may not be as helpful in children, who 
+often cannot cooperate with these maneuvers.
+Downloaded from http://ahajournals.org by on May 30, 2026

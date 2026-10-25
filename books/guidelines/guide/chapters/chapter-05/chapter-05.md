@@ -1,4 +1,4 @@
-# 2023 ESC Guidelines for the management of cardiomyopathies
+# 🔬 <span class="luminous-purple">Cardiomyopathies</span> <span class="luminous-amber">2023</span> (<span class="luminous-blue">ESC</span>)
 
 ##### This guideline provides a comprehensive framework for the diagnosis, management, and prevention of cardiomyopathies across all ages. It introduces a phenotype-based, aetiology-driven approach, with a new classification of non-dilated left ventricular cardiomyopathy (NDLVC), updated risk stratification tools, and detailed recommendations on genetics, imaging, sudden cardiac death prevention, sports participation, and reproductive issues.
 

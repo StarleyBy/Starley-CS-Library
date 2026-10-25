@@ -1,0 +1,51 @@
+{
+  "schemaVersion": 1,
+  "id": "esc-hf-2026.rt28-cardiac-amyloidosis",
+  "guidelineId": "esc-hf-2026",
+  "number": "Recommendation Table 28",
+  "type": "recommendations",
+  "title": {
+    "en": "Recommendation Table 28 — Recommendations for cardiac amyloidosis",
+    "ru": "Таблица рекомендаций 28 — Рекомендации по амилоидозу сердца"
+  },
+  "tags": [
+    "cardiac-amyloidosis",
+    "attr",
+    "ttr",
+    "vutrisiran",
+    "tafamidis",
+    "acoramidis",
+    "ttr-silencer",
+    "ttr-stabilizer",
+    "nyha",
+    "cv-hospitalization",
+    "mortality"
+  ],
+  "source": {
+    "expectedRows": 1
+  },
+  "i18nStatus": {
+    "ru": "reviewed"
+  },
+  "sections": [
+    {
+      "id": "sec-cardiac-amyloidosis",
+      "title": {
+        "en": "Recommendations for cardiac amyloidosis (see Evidence Tables 108–111)",
+        "ru": "Рекомендации по амилоидозу сердца (см. Доказательные таблицы 108–111)"
+      },
+      "rows": [
+        {
+          "id": "r01",
+          "text": {
+            "en": "Treatment with a TTR silencer (vutrisiran) or stabilizer (tafamidis or acoramidis) for patients with variant or wild-type transthyretin cardiac amyloidosis and NYHA classes I–III is recommended to reduce progression of symptoms and the risk of CV hospitalization and all-cause death.",
+            "ru": "Лечение сайленсером TTR (вутрисиран) или стабилизатором TTR (тафамидис или акорамидис) рекомендуется пациентам с наследственным (мутантным) или диким типом транстиретинового амилоидоза сердца и I–III функциональными классами по NYHA для замедления прогрессирования симптомов и снижения риска сердечно-сосудистых госпитализаций и общей смертности."
+          },
+          "class": "I",
+          "level": "A",
+          "refs": [1082, 1083, 1084]
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,587 @@
+
+=== PAGE 2 ===
+CLINICAL STATEMENTS 
+AND GUIDELINES
+April 1, 2025
+Circulation. 2025;151:e771–e862. DOI: 10.1161/CIR.0000000000001309
+e772
+Rao et al
+2025 Acute Coronary Syndromes Guideline
+Methods: A comprehensive literature search was conducted from July 2023 to April 2024. Clinical studies, systematic reviews 
+and meta-analyses, and other evidence conducted on human participants were identified that were published in English 
+from MEDLINE (through PubMed), EMBASE, the Cochrane Library, Agency for Healthcare Research and Quality, and other 
+selected databases relevant to this guideline.
+Structure: Many recommendations from previously published guidelines have been updated with new evidence, and new 
+recommendations have been created when supported by published data.
+Key Words: AHA Scientific Statements ◼ acute coronary syndrome(s) ◼ angina, unstable ◼ anticoagulants ◼ aspirin ◼ atrial fibrillation  
+◼ cardiovascular diseases ◼ coronary artery disease ◼ coronary syndrome ◼ emergency medical services ◼ EMS ◼ fibrinolytic agents  
+◼ hemorrhage ◼ major adverse cardiovascular events ◼ morphine ◼ myocardial infarction ◼ non–ST-segment elevation myocardial infarction  
+◼ percutaneous coronary intervention ◼ prehospital ◼ revascularization ◼ risk ◼ ST-segment elevation myocardial infarction  
+◼ time factors ◼ treatment outcome
+TABLE OF CONTENTS
+Abstract . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . e771
+Top Take-Home Messages. . . . . . . . . . . . . . . . . . . . . . . e773
+Preamble. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . e774
+	1.	 Introduction. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . e775
+	1.1.	
+Methodology and Evidence Review. . . . . e775
+	1.2.	
+Composition of the Writing  
+Committee. . . . . . . . . . . . . . . . . . . . . . . . . . . . e776
+	1.3.	
+Guideline Review and Approval. . . . . . . . . e776
+	1.4.	
+Scope of the Guideline. . . . . . . . . . . . . . . . . e776
+	1.5.	
+Class of Recommendation and  
+Level of Evidence. . . . . . . . . . . . . . . . . . . . . . e777
+	1.6.	
+Abbreviations. . . . . . . . . . . . . . . . . . . . . . . . . . e778
+	2.	 Overview of ACS. . . . . . . . . . . . . . . . . . . . . . . . . . . . e779
+	2.1.	
+Definition and Classification of ACS. . . . e779
+	3.	 Initial Evaluation and Management of  
+Suspected ACS. . . . . . . . . . . . . . . . . . . . . . . . . . . . . e780
+	3.1.	
+Initial Assessment of Suspected  
+ACS. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . e780
+	3.1.1.	 Prehospital Assessment and 
+Management Considerations  
+for Suspected ACS. . . . . . . . . . . . . e780
+	3.1.2.	 Initial In-Hospital Assessment 
+of Patients With Confirmed or 
+Suspected ACS. . . . . . . . . . . . . . . . e782
+	3.1.3.	 Risk Stratification Tools for  
+Patients With STEMI and  
+NSTE-ACS. . . . . . . . . . . . . . . . . . . . e785
+	3.2.	
+Management of Patients Presenting  
+With Cardiac Arrest. . . . . . . . . . . . . . . . . . . . e786
+	4.	 Standard Medical Therapies for STEMI  
+and NSTE-ACS. . . . . . . . . . . . . . . . . . . . . . . . . . . . . .e787
+	4.1.	
+Oxygen Therapy. . . . . . . . . . . . . . . . . . . . . . . e787
+	4.2.	
+Analgesics. . . . . . . . . . . . . . . . . . . . . . . . . . . . e787
+	4.3.	
+Antiplatelet Therapy. . . . . . . . . . . . . . . . . . . e788
+	4.3.1.	 Aspirin. . . . . . . . . . . . . . . . . . . . . . . . . e788
+	4.3.2.	 Oral P2Y12 Inhibitors During 
+Hospitalization. . . . . . . . . . . . . . . . . e789
+	4.3.3.	 Intravenous P2Y12  
+Inhibition. . . . . . . . . . . . . . . . . . . . . . . e792
+	4.3.4.	 Intravenous Glycoprotein  
+IIb/IIIa Inhibitors. . . . . . . . . . . . . . . e793
+	4.4.	
+Parenteral Anticoagulation. . . . . . . . . . . . . e794
+	4.5.	
+Lipid Management. . . . . . . . . . . . . . . . . . . . . e797
+	4.6.	
+Beta-Blocker Therapy. . . . . . . . . . . . . . . . . . e800
+	4.7.	
+Renin-Angiotensin-Aldosterone  
+System Inhibitors. . . . . . . . . . . . . . . . . . . . . . e800
+	5.	 STEMI Management: Reperfusion  
+Strategies. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . e801
+	5.1.	
+Regional Systems of STEMI Care. . . . . . . e801
+	5.2.	
+Reperfusion at PCI-Capable  
+Hospitals. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . e803
+	5.2.1.	 PPCI in STEMI. . . . . . . . . . . . . . . . . e803
+	5.2.2.	 Urgent CABG Surgery. . . . . . . . . . e804
+	5.3.	
+Reperfusion at Non–PCI-Capable  
+Hospitals. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . e804
+	5.3.1.	 Timing and Choice of Agent  
+for Fibrinolytic Therapy. . . . . . . . . e805
+	5.3.2.	 Coronary Angiography and  
+PCI After Fibrinolytic  
+Therapy. . . . . . . . . . . . . . . . . . . . . . . . e806
+	6.	 NSTE-ACS: Routine Invasive or Selective  
+Invasive Initial Approach. . . . . . . . . . . . . . . . . . . . . . e807
+	6.1.	
+Rationale and Timing for a Routine  
+Invasive or Selective Invasive  
+Approach. . . . . . . . . . . . . . . . . . . . . . . . . . . . . e807
+	7.	
+Catheterization Laboratory Considerations  
+in ACS. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . e810
+	7.1.	
+Vascular Access Approach for PCI. . . . . . e810
+	7.2.	
+Use of Aspiration Thrombectomy. . . . . . . e811
+	7.3.	
+Use of Intracoronary Imaging. . . . . . . . . . . e811
+	7.4.	
+Management of Multivessel CAD  
+in ACS. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . e812
+	7.4.1.	
+Management of Multivessel  
+CAD in STEMI. . . . . . . . . . . . . . . . . e812
+	7.4.2.	
+Management of Multivessel  
+CAD in NSTE-ACS. . . . . . . . . . . . . e814
+	8.	 Cardiogenic Shock Management. . . . . . . . . . . . . e815
+	8.1.	
+Revascularization in ACS With  
+Cardiogenic Shock . . . . . . . . . . . . . . . . . . . . e815
+Downloaded from http://ahajournals.org by on May 30, 2026
+
+=== PAGE 3 ===
+CLINICAL STATEMENTS 
+AND GUIDELINES
+Circulation. 2025;151:e771–e862. DOI: 10.1161/CIR.0000000000001309
+April 1, 2025
+e773
+Rao et al
+2025 Acute Coronary Syndromes Guideline
+	8.2.	
+MCS in Patients With ACS and  
+Cardiogenic Shock . . . . . . . . . . . . . . . . . . . . e816
+	9.	 ACS Complications. . . . . . . . . . . . . . . . . . . . . . . . . . e818
+	9.1.	
+Mechanical Complications. . . . . . . . . . . . . . e818
+	9.2.	
+Electrical Complications and  
+Prevention of Sudden Cardiac  
+Death After ACS. . . . . . . . . . . . . . . . . . . . . . e819
+	9.3.	
+Pericarditis Management After MI. . . . . . e820
+	9.4.	
+Management of LV Thrombus  
+After MI. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . e821
+	10.	 In-hospital Issues in the Management of  
+ACS. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . e821
+	10.1.	 Cardiac Intensive Care Unit. . . . . . . . . . . . e821
+	10.2.	 Management of Anemia in ACS. . . . . . . . e822
+	10.3.	 Telemetry and Length of Stay. . . . . . . . . . . e822
+	10.4.	 Noninvasive Diagnostic Testing  
+Prior to Hospital Discharge. . . . . . . . . . . . . e823
+	10.5.	 Discharge Planning. . . . . . . . . . . . . . . . . . . . e823
+	10.5.1.	Patient Education. . . . . . . . . . . . . . e823
+	10.5.2.	Postdischarge Follow-Up  
+and Systems of Care  
+Coordination. . . . . . . . . . . . . . . . . . . e824
+	10.5.3.	Cardiac Rehabilitation. . . . . . . . . . e824
+	11.	 Discharge: Long-Term Management and  
+Secondary Prevention. . . . . . . . . . . . . . . . . . . . . . . . e826
+	11.1.	 DAPT Strategies in the First  
+12 Months Postdischarge. . . . . . . . . . . . . . e826
+	11.1.1.	Antiplatelet Therapy in  
+Patients on Anticoagulation 
+Postdischarge. . . . . . . . . . . . . . . . . . e829
+	11.2.	 Reassessment of Lipid Levels  
+Postdischarge. . . . . . . . . . . . . . . . . . . . . . . . . e830
+	11.3.	 SGLT-2 Inhibitors and GLP-1  
+Receptor Agonists. . . . . . . . . . . . . . . . . . . . . e831
+	11.4.	 Use of Chronic Colchicine. . . . . . . . . . . . . . e831
+	11.5.	 Immunization. . . . . . . . . . . . . . . . . . . . . . . . . . e832
+	12.	 Evidence Gaps and Future Directions. . . . . . . . . e832
+References. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . e834
+Appendix 1. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . e857
+Author Relationships With Industry and  
+Other Entities��������������������������������������������������������������e857
+Appendix 2. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . e862
+Reviewer Relationships With Industry and  
+Other Entities��������������������������������������������������������������e862
+TOP TAKE-HOME MESSAGES
+	 1.	 Dual antiplatelet therapy is recommended for 
+patients with acute coronary syndromes (ACS). 
+Ticagrelor or prasugrel is recommended in prefer-
+ence to clopidogrel in patients with ACS who are 
+undergoing percutaneous coronary intervention 
+(PCI). In patients with non–ST-segment elevation 
+ACS who are scheduled for an invasive strat-
+egy with timing of angiography to be >24 hours, 
+upstream treatment with clopidogrel or ticagrelor 
+may be considered to reduce major adverse car-
+diovascular events.
+	 2.	 Dual antiplatelet therapy with aspirin and an oral 
+P2Y12 inhibitor is indicated for at least 12 months 
+as the default strategy in patients with ACS who 
+are not at high bleeding risk. Several strategies 
+are available to reduce bleeding risk in patients 
+with ACS who have undergone PCI and require 
+antiplatelet therapy: (a) in patients at risk for gas-
+trointestinal bleeding, a proton pump inhibitor is 
+recommended; (b) in patients who have tolerated 
+dual antiplatelet therapy with ticagrelor, transi-
+tion to ticagrelor monotherapy is recommended 
+≥1 month after PCI; or (c) in patients who require 
+long-term anticoagulation, aspirin discontinua-
+tion is recommended 1 to 4 weeks after PCI with 
+continued use of a P2Y12 inhibitor (preferably 
+clopidogrel).
+	 3.	 High-intensity statin therapy is recommended for 
+all patients with ACS, and with the option to initi-
+ate concurrent ezetimibe. A nonstatin lipid-lower-
+ing agent (eg, ezetimibe, evolocumab, alirocumab, 
+inclisiran, bempedoic acid) is recommended for 
+patients already on maximally tolerated statin who 
+have a low-density lipoprotein cholesterol level 
+of ≥70 mg/dL (1.8 mmol/L). It is reasonable in 
+this high-risk population to further intensify lipid-
+lowering therapy if the low-density lipoprotein 
+cholesterol level is 55 to <70 mg/dL (1.4 to <1.8 
+mmol/L) and patient is already on a maximally tol-
+erated statin.
+	 4.	 In patients with non–ST-segment elevation ACS 
+who are at intermediate or high risk of ischemic 
+events, an invasive approach with the intent to pro-
+ceed with revascularization is recommended during 
+hospitalization to reduce major adverse cardiovas-
+cular events. In patients with non–ST-segment ele-
+vation ACS who are at low risk of ischemic events, 
+a routine invasive or selective invasive approach 
+with further risk stratification is recommended to 
+help identify those who may require revasculariza-
+tion and to reduce major adverse cardiovascular 
+events.
+	 5.	 Two procedural strategies are recommended in 
+patients with ACS who are undergoing PCI: (a) 
+radial approach is preferred over femoral approach 
+in patients with ACS undergoing PCI to reduce 
+bleeding, vascular complications, and death; and 
+(b) intracoronary imaging is recommended to guide 
+PCI in patients with ACS with complex coronary 
+lesions.
+Downloaded from http://ahajournals.org by on May 30, 2026
+
+=== PAGE 4 ===
+CLINICAL STATEMENTS 
+AND GUIDELINES
+April 1, 2025
+Circulation. 2025;151:e771–e862. DOI: 10.1161/CIR.0000000000001309
+e774
+Rao et al
+2025 Acute Coronary Syndromes Guideline
+	 6.	 A strategy of complete revascularization is rec-
+ommended in patients with ST-segment elevation 
+myocardial infarction or non–ST-segment eleva-
+tion ACS. The choice of revascularization method 
+(ie, coronary artery bypass graft surgery versus 
+multivessel PCI) in non–ST-segment elevation 
+ACS and multivessel disease should be based on 
+the complexity of the coronary artery disease and 
+comorbid conditions. PCI of significant nonculprit 
+stenoses for patients with ST-segment eleva-
+tion myocardial infarction can be performed in a 
+single procedure or staged with some preference 
+toward performing multivessel PCI in a single 
+procedure. In patients with ACS and cardiogenic 
+shock, emergency revascularization of the cul-
+prit vessel is indicated; however, routine PCI of 
+non–infarct-related arteries at the time of PCI is 
+not recommended.
+	 7.	 Based on one trial, use of the microaxial flow 
+pump in selected patients with cardiogenic shock 
+related to acute myocardial infarction is reason-
+able to reduce death. However, complications 
+such as bleeding, limb ischemia, and renal failure 
+are higher with the microaxial flow pump com-
+pared with usual care. Therefore, careful atten-
+tion to vascular access and weaning of support 
+is important to appropriately balance the benefits 
+and risks.
+	 8.	 Red blood cell transfusion to maintain a hemo-
+globin of 10 g/dL may be reasonable in patients 
+with ACS and acute or chronic anemia who are not 
+actively bleeding.
+	 9.	 After discharge, focus on secondary prevention is 
+fundamental. A fasting lipid panel is recommended 
+4 to 8 weeks after initiating or adjusting the dose 
+of lipid-lowering therapy. Referral to cardiac reha-
+bilitation is also recommended, with the option 
+for home-based programs for patients unable or 
+unwilling to attend in person.
+PREAMBLE
+Since 1980, the American College of Cardiology (ACC) 
+and American Heart Association (AHA) have trans-
+lated scientific evidence into clinical practice guide-
+lines with recommendations to improve cardiovascular 
+health. These guidelines, which are based on system-
+atic methods to evaluate and classify evidence, provide 
+a foundation for the delivery of quality cardiovascular 
+care. The ACC and AHA sponsor the development and 
+publication of clinical practice guidelines without com-
+mercial support, and members volunteer their time to 
+the writing and review efforts. Guidelines are official 
+policy of the ACC and AHA. For some guidelines, the 
+ACC and AHA collaborate with other organizations.
+Intended Use
+Clinical practice guidelines provide recommendations 
+applicable to patients with or at risk of developing 
+cardiovascular disease (CVD). The focus is on medi-
+cal practice in the United States, but these guidelines 
+are relevant to patients throughout the world. Although 
+guidelines may be used to inform regulatory or payer 
+decisions, the intent is to improve quality of care and 
+align with patients’ interests. Guidelines are intended to 
+define practices meeting the needs of patients in most, 
+but not all, circumstances and should not replace clini-
+cal judgment.
+Clinical Implementation
+Management, in accordance with guideline recom-
+mendations, is effective only when followed by both 
+practitioners and patients. Adherence to recommen-
+dations can be enhanced by shared decision-making 
+between clinicians and patients, with patient engage-
+ment in selecting interventions on the basis of indi-
+vidual values, preferences, and associated conditions 
+and comorbidities.
+Methodology and Modernization
+The ACC/AHA Joint Committee on Clinical Practice 
+Guidelines (Joint Committee) continuously reviews, up-
+dates, and modifies guideline methodology on the basis 
+of published standards from organizations, including the 
+National Academy of Medicine (formerly the Institute 
+of Medicine),1 and on the basis of internal reevaluation. 
+Similarly, presentation and delivery of guidelines are re-
+evaluated and modified in response to evolving technolo-
+gies and other factors to optimally facilitate dissemina-
+tion of information to health care professionals at the 
+point of care.
+Numerous modifications to the guidelines have 
+been implemented to make them shorter and enhance 
+“user friendliness.” Guidelines are written and pre-
+sented in a modular, “knowledge chunk” format in 
+which each chunk includes a table of recommenda-
+tions, a brief synopsis, recommendation-specific sup-
+portive text, and, when appropriate, flow diagrams or 
+additional tables. Hyperlinked references are provided 
+for each modular knowledge chunk to facilitate quick 
+access and review.
+In recognition of the importance of cost–value con-
+siderations, in certain guidelines, when appropriate and 
+feasible, an assessment of value for a drug, device, or 
+intervention may be performed in accordance with the 
+ACC/AHA methodology.2
+To ensure that guideline recommendations remain 
+current, new data will be reviewed on an ongoing basis 
+by the writing committee and staff. When applicable, 
+Downloaded from http://ahajournals.org by on May 30, 2026
+
+=== PAGE 5 ===
+CLINICAL STATEMENTS 
+AND GUIDELINES
+Circulation. 2025;151:e771–e862. DOI: 10.1161/CIR.0000000000001309
+April 1, 2025
+e775
+Rao et al
+2025 Acute Coronary Syndromes Guideline
+recommendations will be updated with new evidence, or 
+new recommendations will be created when supported 
+by published evidence-based data. Going forward, 
+targeted sections/knowledge chunks will be revised 
+dynamically after publication and timely peer review of 
+potentially practice-changing science. The previous des-
+ignations of “full revision” and “focused update” have 
+been phased out. For additional information and poli-
+cies on guideline development, readers may consult the 
+ACC/AHA guideline methodology manual3 and other 
+methodology articles.4–6
+Selection of Writing Committee Members
+The Joint Committee strives to ensure that the guide-
+line writing committee contains requisite content ex-
+pertise and is representative of the broader cardio-
+vascular community by selection of experts across 
+a spectrum of backgrounds, representing different 
+geographic regions, sexes, races, ethnicities, intellec-
+tual perspectives/biases, and clinical practice settings. 
+Organizations and professional societies with related 
+interests and expertise are invited to participate as 
+collaborators.
+Relationships With Industry and Other Entities
+The ACC and AHA have rigorous policies and methods 
+to ensure that documents are developed without bias or 
+improper influence. The complete policy on relationships 
+with industry and other entities (RWI) can be found at 
+https://www.acc.org/guidelines/about-guidelines-and-
+clinical-documents/relationships-with-industry-policy. 
+Appendix 1 of the guideline lists writing committee mem-
+bers’ comprehensive and relevant RWI; for the purposes 
+of full transparency, comprehensive and relevant disclo-
+sure information for the Joint Committee is also available 
+at 
+https://www.acc.org/guidelines/about-guidelines-
+and-clinical-documents/guidelines-and-documents-
+task-forces.
+Evidence Review and Evidence Review 
+Committees
+In developing recommendations, the writing com-
+mittee uses evidence-based methodologies that are 
+based on all available data.3,4 Literature searches fo-
+cus on randomized controlled trials (RCTs) but also 
+include registries, nonrandomized comparative and 
+descriptive studies, case series, cohort studies, sys-
+tematic reviews, and expert opinion. Only key refer-
+ences are cited.
+An independent evidence review committee is com-
+missioned when there are ≥1 questions deemed of 
+utmost clinical importance and merit formal systematic 
+review to determine which patients are most likely to 
+benefit from a drug, device, or treatment strategy, and 
+to what degree. Criteria for commissioning an evidence 
+review committee and formal systematic review include 
+absence of a current authoritative systematic review, 
+feasibility of defining the benefit and risk in a time frame 
+consistent with the writing of a guideline, relevance to a 
+substantial number of patients, and likelihood that the 
+findings can be translated into actionable recommenda-
+tions. Evidence review committee members may include 
+methodologists, epidemiologists, clinicians, and biostat-
+isticians. Recommendations developed by the writing 
+committee on the basis of the systematic review are 
+marked “SR.”
+Guideline-Directed Medical Therapy
+The term guideline-directed medical therapy encom-
+passes clinical evaluation, diagnostic testing, and both 
+pharmacological and procedural treatments. For these 
+and all recommended drug treatment regimens, the 
+reader should confirm dosage with product insert mate-
+rial and evaluate for contraindications and interactions. 
+Recommendations are limited to drugs, devices, and 
+treatments approved for clinical use in the United States.
+Catherine M. Otto, MD, FACC, FAHA
+Chair, ACC/AHA Joint Committee on 
+Clinical Practice Guidelines
+1. INTRODUCTION
+1.1. Methodology and Evidence Review
+The recommendations listed in this guideline are, 
+whenever possible, evidence based. An initial exten-
+sive evidence review—which included literature de-
+rived from research involving human subjects, pub-
+lished in English, and indexed in MEDLINE (through 
+PubMed), EMBASE, the Cochrane Library, the Agency 
+for Healthcare Research and Quality, and other select-
+ed databases relevant to this guideline—was conduct-
+ed from July 2023 to April 2024. Key search words 
+included but were not limited to the following: AHA/
+ACC Clinical Practice Guidelines; acute coronary 
+syndrome(s); angina, unstable; anticoagulants; aspi-
+rin; atrial fibrillation; cardiovascular diseases; coronary 
+artery disease (CAD); coronary syndrome; emergency 
+medical services; fibrinolytic agents; hemorrhage; ma-
+jor adverse cardiovascular events (MACE); morphine; 
+myocardial infarction; non–ST-elevation myocardial 
+infarction (NSTEMI); percutaneous coronary inter-
+vention (PCI); prehospital; revascularization; risk; ST-
+elevation myocardial infarction (STEMI); time factors; 
+treatment outcome.
+Downloaded from http://ahajournals.org by on May 30, 2026
+
+=== PAGE 6 ===
+CLINICAL STATEMENTS 
+AND GUIDELINES
+April 1, 2025
+Circulation. 2025;151:e771–e862. DOI: 10.1161/CIR.0000000000001309
+e776
+Rao et al
+2025 Acute Coronary Syndromes Guideline
+Additional relevant studies, which were published 
+through April 2024 during the guideline writing pro-
+cess, were also considered by the writing committee 
+and added to the evidence tables when appropriate. 
+The final evidence tables summarize the evidence 
+used by the writing committee to formulate recom-
+mendations. References selected and published in 
+the present document are representative and not all-
+inclusive.
+1.2. Composition of the Writing Committee
+The writing committee consisted of general cardiologists, 
+interventional cardiologists, cardiovascular surgeons, 
+critical care cardiologists, emergency physicians, car-
+diac imaging experts, advanced practice nurses, clinical 
+pharmacists, and lay/patient representatives. The writing 
+committee included representatives from the AHA, ACC, 
+American College of Emergency Physicians (ACEP), 
+National Association of EMS Physicians (NAEMSP), and 
+Society for Cardiovascular Angiography and Interven-
+tions (SCAI). Appendix 1 of the current document lists 
+writing committee members’ comprehensive and rel-
+evant RWI.
+1.3. Guideline Review and Approval
+The Joint Committee appointed a peer review commit-
+tee to review the document. The peer review committee 
+comprised individuals nominated by the ACC, AHA, and 
+the collaborating organizations. Reviewers’ RWI infor-
+mation was distributed to the writing committee and is 
+published in this document (Appendix 2). This document 
+was approved for publication by the governing bodies 
+of the ACC and the AHA and was endorsed by ACEP, 
+NAEMSP, and SCAI.
+1.4. Scope of the Guideline
+The scope of the “2025 ACC/AHA/ACEP/NAEMSP/
+SCAI Guideline for the Management of Patients With 
+Acute Coronary Syndromes” (referred to hereafter as 
+the “2025 ACS guideline”) is to incorporate new evi-
+dence since the publication of the “2013 ACCF/AHA 
+Guideline for the Management of ST-Elevation Myocar-
+dial Infarction,”1 the corresponding “2014 AHA/ACC 
+Guideline for the Management of Patients With Non–
+ST-Elevation Acute Coronary Syndromes,”2 and the 
+“2015 ACC/AHA/SCAI Focused Update on Primary 
+Percutaneous Coronary Intervention for Patients With 
+ST-Elevation Myocardial Infarction.”3 The 2025 ACS 
+guideline and the “2021 ACC/AHA/SCAI Guideline for 
+Coronary Artery Revascularization”4 retire and replace, 
+respectively, the “2016 ACC/AHA Guideline Focused 
+Update on Duration of Dual Antiplatelet Therapy in Pa-
+tients With Coronary Artery Disease.”5 This guideline 
+primarily focuses on the management of type 1 acute 
+myocardial infarction (AMI). It can be challenging to dif-
+ferentiate type 1 versus type 2 MI. In cases of uncer-
+tainty and depending on the benefits/risks of a specific 
+diagnostic or therapeutic intervention, it may be appro-
+priate to err on the side of considering an event a type 1 
+acute coronary syndrome (ACS) event until established 
+to be otherwise.
+In the United States, an estimated 805 000 AMIs 
+occur annually of which 605 000 are first MI events and 
+200 000 are recurrent.6–8 Although significant morbidity 
+and mortality are associated with MI, 30-day and in-hos-
+pital mortality rates after ST-segment elevation myocar-
+dial infarction (STEMI) have declined in part as a result 
+of timely reperfusion and implementation of evidence-
+based secondary prevention.9 From 2011 to 2021 in the 
+United States, the annual death rate attributable to coro-
+nary heart disease declined by 15.0%.6 The economic 
+impact of MI is also substantial, with the total annual 
+cost estimated at $84.9 billion, including direct medical 
+expenditures and indirect lost productivity and wages.10,11 
+The incidence of MI is higher among Black males com-
+pared with non-Hispanic White males for reasons that 
+are believed to be multifactorial.12,13 Potential factors 
+that may contribute to this disparity include a higher 
+prevalence of risk factors for CAD, less use of guideline-
+recommended medications post-MI, and socioeconomic 
+factors.14–19 In addition to racial disparities, there are 
+sex-related disparities in the prevalence, presentation, 
+treatment, and outcomes of ACS even after adjusting 
+for confounding factors such as income, geography, and 
+education.20 Women tend to present with ACS on aver-
+age 10 years later than men and with a greater burden 
+of CVD risk factors. Although chest pain remains the 
+most common symptom of AMI, women are more likely 
+than men to present with accompanying non–chest pain 
+symptoms.21–24 A delay in recognition of these symp-
+toms can result in delays in presentation, diagnosis, 
+and timely treatment of women with ACS. Studies have 
+also shown that women presenting with ACS are less 
+likely to be correctly diagnosed with an ACS, receive 
+guideline-directed medical therapy,25–27 and/or undergo 
+coronary revascularization when indicated.28,29 Bridging 
+these racial and sex gaps will require continued provider 
+education, better understanding of barriers to access-
+ing quality care and guideline-directed medical therapy, 
+and changes at the community and legislative level to 
+address social determinants of health such as income, 
+employment status, neighborhood safety, and access to 
+healthy foods.
+In developing the 2025 ACS guideline, the writing 
+committee reviewed previously published guidelines 
+and related scientific statements. Table 1 contains a 
+list of these publications deemed pertinent to this writ-
+ing effort. It is intended for use as a resource, obviating 
+Downloaded from http://ahajournals.org by on May 30, 2026

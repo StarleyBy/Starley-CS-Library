@@ -1,0 +1,901 @@
+*** FIGURE 1 (PAGE 16) ==================== ***
+  y: [544.8 - 718.9] x: [309.5 - 561.0]: 3.5. Adverse events associated with AF Atrial fibrillation is associated with a 
+  y: [102.4 - 115.1] x: [287.6 - 366.9]: Patient symptoms
+  y: [230.8 - 243.5] x: [359.4 - 443.2]: Adverse outcomes
+  y: [359.2 - 371.9] x: [263.0 - 364.7]: Healthcare and society
+  y: [211.0 - 227.0] x: [104.0 - 118.2]: A
+  y: [208.8 - 223.0] x: [111.5 - 121.4]: t
+  y: [206.7 - 221.3] x: [115.7 - 125.5]: r
+  y: [205.6 - 219.6] x: [120.5 - 127.7]: i
+  y: [204.0 - 218.7] x: [123.5 - 132.3]: a
+  y: [203.3 - 217.4] x: [129.0 - 134.6]: l
+  y: [202.6 - 216.9] x: [132.0 - 137.7]: 
+  y: [201.9 - 216.3] x: [135.7 - 142.8]: fi
+  y: [201.7 - 215.7] x: [142.3 - 148.5]: b
+  y: [201.8 - 216.0] x: [148.1 - 153.8]: r
+  y: [202.2 - 216.7] x: [152.6 - 159.9]: il
+  y: [203.1 - 217.2] x: [157.4 - 162.9]: l
+  y: [203.7 - 218.5] x: [159.7 - 168.3]: a
+  y: [205.3 - 219.7] x: [164.3 - 172.7]: t
+  y: [206.9 - 220.7] x: [167.8 - 175.6]: i
+  y: [208.1 - 223.5] x: [170.0 - 182.2]: o
+  y: [211.5 - 226.5] x: [175.5 - 188.0]: n
+  y: [319.7 - 330.3] x: [102.4 - 112.2]: I
+  y: [321.2 - 335.4] x: [104.7 - 118.1]: m
+  y: [325.4 - 338.3] x: [111.7 - 122.0]: p
+  y: [327.8 - 340.4] x: [116.5 - 125.6]: a
+  y: [329.5 - 342.2] x: [120.9 - 129.4]: c
+  y: [330.9 - 343.3] x: [125.4 - 132.2]: t
+  y: [331.9 - 344.1] x: [129.0 - 134.7]: 
+  y: [332.5 - 345.0] x: [132.1 - 138.6]: a
+  y: [333.3 - 345.6] x: [136.9 - 143.3]: n
+  y: [333.8 - 345.8] x: [142.5 - 148.0]: d
+  y: [333.8 - 345.8] x: [147.6 - 151.0]: 
+  y: [333.2 - 345.6] x: [150.0 - 157.0]: o
+  y: [332.2 - 344.9] x: [155.1 - 162.6]: u
+  y: [331.4 - 343.7] x: [159.7 - 166.3]: t
+  y: [327.8 - 341.0] x: [166.4 - 176.5]: o
+  y: [324.1 - 338.4] x: [171.0 - 183.9]: m
+  y: [321.4 - 333.9] x: [177.2 - 188.3]: e
+  y: [319.1 - 330.6] x: [180.7 - 191.6]: s
+  y: [122.4 - 188.0] x: [256.9 - 344.7]: Palpitations Shortness of breath Fatigue Chest pain Dizziness
+  y: [122.9 - 188.4] x: [359.2 - 458.9]: Poor exercise capacity Fainting (syncope) Anxiety Depressed mood Disordered slee
+  y: [250.9 - 316.4] x: [322.8 - 408.0]: Recurrent hospitalization Heart failure Ischaemic stroke Thromboembolism
+  y: [251.3 - 316.8] x: [425.1 - 523.7]: Cognitive decline and vascular dementia Depression Impaired quality of life Deat
+  y: [364.6 - 385.8] x: [390.2 - 444.7]: Doubling of AF 2010    2060
+  y: [419.5 - 440.7] x: [390.2 - 459.6]: 1–2% of healthcare expenditure
+  y: [494.2 - 503.2] x: [47.0 - 323.2]: Figure 1 Impacts and outcomes associated with clinical AF. AF, atrial fibrillati
+  y: [544.0 - 563.1] x: [48.5 - 288.1]: Table 7 The modified European Heart Rhythm  Association (mEHRA) symptom classifi
+  y: [575.8 - 583.8] x: [48.5 - 233.0]: Score Symptoms Description
+  y: [593.8 - 601.8] x: [48.5 - 243.2]: 1 None AF does not cause any symptoms
+  y: [606.8 - 614.8] x: [48.5 - 287.7]: 2a Mild Normal daily activity not affected by symptoms
+  y: [618.8 - 626.8] x: [136.3 - 178.6]: related to AF
+  y: [631.8 - 651.8] x: [48.5 - 287.7]: 2b Moderate Normal daily activity not affected by symptoms  related to AF, but p
+  y: [655.8 - 663.8] x: [136.3 - 169.0]: symptoms
+  y: [668.8 - 676.8] x: [48.5 - 275.5]: 3 Severe Normal daily activity affected by symptoms
+  y: [680.8 - 688.8] x: [136.3 - 178.6]: related to AF
+  y: [693.8 - 701.8] x: [48.5 - 243.8]: 4 Disabling Normal daily activity discontinued
+  y: [666.3 - 702.0] x: [293.8 - 300.8]: © ESC 2024
+  y: [711.5 - 718.5] x: [43.5 - 99.0]: AF, atrial fibrillation.
+  y: [26.0 - 36.0] x: [42.5 - 558.4]: ESC Guidelines                                                                  
+  y: [202.9 - 590.9] x: [571.4 - 578.9]: Downloaded from https://academic.oup.com/eurheartj/article/45/36/3314/7738779 by
+
+*** FIGURE 2 (PAGE 18) ==================== ***
+  y: [462.1 - 737.8] x: [309.5 - 561.0]: 4.1.2. Education and shared decision-making Clear advice about the rationale for
+  y: [67.8 - 81.0] x: [256.1 - 335.8]: Atrial fibrillation
+  y: [95.5 - 105.3] x: [269.6 - 277.9]: P
+  y: [92.5 - 101.8] x: [276.8 - 282.8]: t
+  y: [91.8 - 100.8] x: [279.5 - 284.2]: i
+  y: [90.6 - 100.3] x: [281.5 - 287.6]: e
+  y: [89.7 - 99.3] x: [285.6 - 291.1]: n
+  y: [89.4 - 98.6] x: [289.9 - 293.5]: t
+  y: [89.3 - 98.4] x: [292.9 - 295.8]: -
+  y: [89.3 - 98.4] x: [295.5 - 299.3]: c
+  y: [89.4 - 98.8] x: [298.7 - 303.5]: e
+  y: [90.0 - 99.6] x: [302.1 - 307.9]: n
+  y: [91.0 - 100.4] x: [305.6 - 310.9]: t
+  y: [91.9 - 101.5] x: [307.9 - 314.1]: r
+  y: [93.2 - 103.0] x: [310.4 - 317.8]: e
+  y: [95.2 - 104.9] x: [313.5 - 321.7]: d
+  y: [177.5 - 222.6] x: [169.0 - 196.6]: C
+  y: [211.4 - 256.5] x: [245.2 - 345.4]: A R
+  y: [177.5 - 222.6] x: [399.3 - 418.8]: E
+  y: [235.0 - 251.8] x: [162.5 - 204.4]: Comorbidity and risk factor
+  y: [252.1 - 260.4] x: [165.2 - 201.7]: management
+  y: [270.7 - 321.9] x: [159.8 - 209.8]: Lifestyle help Primary care Cardiology Internal medicine Nursing care Other
+  y: [273.2 - 290.0] x: [231.5 - 285.0]: Avoid stroke and thromboembolism
+  y: [304.6 - 364.4] x: [238.3 - 283.4]: Primary care Cardiology Neurology Nursing care Anticoagulation services e-Health
+  y: [268.9 - 277.1] x: [307.1 - 360.2]: Reduce symptoms
+  y: [277.5 - 294.3] x: [311.7 - 355.6]: by rate and rhythm control
+  y: [235.0 - 243.2] x: [388.2 - 429.9]: Evaluation and
+  y: [243.5 - 260.4] x: [389.8 - 428.3]: dynamic reassessment
+  y: [270.7 - 347.2] x: [309.6 - 429.5]: Primary care Cardiology Pharmacy Nursing Family/carers e-Health Primary care Car
+  y: [161.5 - 168.1] x: [268.2 - 274.2]: i
+  y: [162.3 - 170.2] x: [269.4 - 276.5]: n
+  y: [164.1 - 171.6] x: [272.2 - 278.1]: t
+  y: [165.1 - 173.2] x: [274.2 - 280.6]: e
+  y: [166.5 - 174.5] x: [277.2 - 282.9]: g
+  y: [167.6 - 175.5] x: [280.0 - 285.0]: r
+  y: [168.4 - 176.4] x: [282.6 - 287.4]: a
+  y: [169.2 - 177.0] x: [285.5 - 289.3]: t
+  y: [169.6 - 177.5] x: [287.9 - 292.1]: e
+  y: [170.1 - 177.8] x: [291.3 - 295.1]: d
+  y: [170.3 - 177.8] x: [294.8 - 296.7]: 
+  y: [169.9 - 178.0] x: [296.3 - 301.7]: A
+  y: [169.2 - 177.5] x: [300.6 - 305.5]: F
+  y: [168.7 - 176.8] x: [303.8 - 307.8]: -
+  y: [167.2 - 176.1] x: [305.5 - 312.6]: C
+  y: [165.3 - 174.3] x: [309.5 - 317.2]: A
+  y: [161.0 - 169.3] x: [316.4 - 324.2]: E
+  y: [402.9 - 433.8] x: [47.0 - 547.3]: Figure 2 Multidisciplinary approach to AF management. Principal caregivers are i
+  y: [445.4 - 454.4] x: [49.7 - 276.4]: Table 9 Achieving patient-centred AF management
+  y: [467.2 - 475.2] x: [49.7 - 237.8]: Components of patient-centred AF management:
+  y: [485.1 - 493.1] x: [49.7 - 284.2]: • Optimal treatment according to the AF-CARE pathway, which includes:
+  y: [497.9 - 506.1] x: [56.7 - 205.7]: ∘ [C] Comorbidity and risk factor management
+  y: [511.0 - 519.2] x: [56.7 - 190.1]: ∘ [A] Avoid stroke and thromboembolism
+  y: [524.0 - 532.1] x: [56.7 - 221.2]: ∘ [R] Reduce symptoms by rate and rhythm control
+  y: [536.9 - 545.1] x: [56.7 - 191.4]: ∘ [E] Evaluation and dynamic reassessment
+  y: [550.2 - 558.2] x: [49.7 - 141.9]: • Lifestyle recommendations
+  y: [563.1 - 571.1] x: [49.7 - 123.4]: • Psychosocial support
+  y: [576.1 - 584.1] x: [49.7 - 278.2]: • Education and awareness for patients, family members, and caregivers
+  y: [589.2 - 597.2] x: [49.7 - 278.5]: • Seamless co-ordination between primary care and specialized AF care
+  y: [602.1 - 610.1] x: [49.7 - 250.8]: How to implement patient-centred AF management:
+  y: [615.1 - 623.1] x: [49.7 - 130.9]: • Shared decision-making
+  y: [628.2 - 636.2] x: [49.7 - 157.2]: • Multidisciplinary team approach
+  y: [641.1 - 649.1] x: [49.7 - 263.0]: • Patient education and empowerment, with emphasis on self-care
+  y: [654.1 - 662.1] x: [49.7 - 260.9]: • Structured educational programmes for healthcare professionals
+  y: [665.5 - 675.1] x: [49.7 - 235.1]: • Technology support (e-Health, m-Health, telemedicine)a
+  y: [639.6 - 675.4] x: [292.6 - 299.6]: © ESC 2024
+  y: [684.9 - 736.9] x: [44.7 - 291.2]: AF, atrial fibrillation; AF-CARE, atrial fibrillation—[C] Comorbidity and risk f
+  y: [26.0 - 36.0] x: [42.5 - 558.4]: ESC Guidelines                                                                  
+  y: [202.9 - 590.9] x: [571.4 - 578.9]: Downloaded from https://academic.oup.com/eurheartj/article/45/36/3314/7738779 by
+
+*** FIGURE 3 (PAGE 20) ==================== ***
+  y: [136.1 - 172.1] x: [93.3 - 115.3]: C
+  y: [135.4 - 148.2] x: [132.9 - 325.7]: Comorbidity and risk factor management
+  y: [154.9 - 164.4] x: [151.1 - 198.5]: Hypertension
+  y: [208.9 - 218.5] x: [159.3 - 190.2]: Diabetes
+  y: [218.5 - 228.1] x: [161.1 - 188.5]: mellitus
+  y: [171.1 - 187.8] x: [147.0 - 202.5]: Blood pressure lowering treatment
+  y: [188.1 - 196.4] x: [163.0 - 186.5]: (Class I)
+  y: [111.9 - 121.2] x: [190.1 - 436.3]: Patient-centred AF management with a multidisciplinary approach (Class IIa)
+  y: [78.1 - 87.4] x: [192.8 - 433.6]: Equality in healthcare provision (gender, ethnicity, socioeconomic) (Class I)
+  y: [154.9 - 164.4] x: [224.1 - 268.5]: Heart failure
+  y: [171.1 - 179.3] x: [227.9 - 264.7]: Diuretics for
+  y: [179.6 - 187.8] x: [230.7 - 261.9]: congestion
+  y: [188.1 - 196.4] x: [234.6 - 258.1]: (Class I)
+  y: [150.4 - 160.0] x: [297.1 - 338.6]: Overweight
+  y: [159.3 - 168.9] x: [302.6 - 333.2]: or obese
+  y: [171.1 - 187.8] x: [298.9 - 336.9]: Weight loss (target 10%)a
+  y: [188.1 - 196.4] x: [306.1 - 329.6]: (Class I)
+  y: [150.4 - 160.0] x: [358.6 - 420.3]: Obstructive sleep
+  y: [159.3 - 168.9] x: [376.8 - 402.0]: apnoea
+  y: [171.1 - 179.3] x: [371.2 - 407.7]: Management
+  y: [178.6 - 187.8] x: [377.4 - 401.4]: of OSAa
+  y: [188.1 - 196.4] x: [375.0 - 403.8]: (Class IIb)
+  y: [201.5 - 209.7] x: [218.6 - 274.0]: Appropriate HFrEF
+  y: [210.0 - 218.3] x: [223.6 - 269.0]: medical therapy
+  y: [218.6 - 226.8] x: [234.6 - 258.1]: (Class I)
+  y: [201.5 - 218.3] x: [292.1 - 343.6]: Bariatric surgery if rhythm controla
+  y: [218.6 - 226.8] x: [303.5 - 332.3]: (Class IIb)
+  y: [237.0 - 245.2] x: [222.1 - 270.5]: SGLT2 inhibitors
+  y: [245.5 - 253.7] x: [233.7 - 259.0]: (Class 1)
+  y: [154.9 - 164.4] x: [447.5 - 474.5]: Alcohol
+  y: [171.1 - 187.8] x: [437.7 - 484.3]: Reduce to 3 drinks per week
+  y: [188.1 - 196.4] x: [449.3 - 472.7]: (Class I)
+  y: [232.7 - 249.4] x: [148.3 - 201.2]: Effective glycaemic controla
+  y: [249.8 - 258.0] x: [163.0 - 186.5]: (Class I)
+  y: [209.2 - 227.7] x: [374.8 - 404.0]: Exercise capacity
+  y: [232.7 - 249.4] x: [359.9 - 419.0]: Tailored exercise programme
+  y: [249.8 - 258.0] x: [377.7 - 401.2]: (Class I)
+  y: [209.2 - 218.8] x: [428.6 - 493.4]: Other risk factors/
+  y: [218.1 - 227.7] x: [437.0 - 485.0]: comorbidities
+  y: [232.7 - 240.9] x: [432.5 - 489.5]: Identify and manage
+  y: [240.2 - 249.4] x: [443.2 - 478.8]: aggressivelya
+  y: [249.8 - 307.9] x: [93.9 - 472.7]: (Class I) A
+  y: [287.0 - 315.7] x: [157.8 - 191.7]: Risk of thrombo- embolism
+  y: [325.7 - 342.5] x: [153.2 - 196.4]: Start oral anticoagulation
+  y: [342.8 - 351.0] x: [163.0 - 186.5]: (Class I)
+  y: [285.6 - 295.2] x: [210.5 - 282.2]: Use locally-validated
+  y: [295.2 - 316.2] x: [218.2 - 274.5]: risk score or CHA2DS2-VA
+  y: [325.7 - 335.6] x: [215.9 - 276.8]: OAC if CHA2DS2-VA
+  y: [334.3 - 342.5] x: [218.5 - 274.2]: score = 2 or more
+  y: [342.8 - 351.0] x: [234.6 - 258.1]: (Class I)
+  y: [292.1 - 310.6] x: [294.5 - 341.2]: Choice of anticoagulant
+  y: [292.1 - 310.6] x: [367.3 - 411.5]: Assess  bleeding risk
+  y: [363.2 - 373.2] x: [215.9 - 276.8]: OAC if CHA2DS2-VA
+  y: [371.8 - 388.6] x: [232.2 - 260.5]: score = 1 (Class IIa)
+  y: [321.4 - 338.2] x: [289.7 - 346.0]: Use DOAC, except mechanical valve or
+  y: [338.5 - 346.8] x: [296.9 - 338.8]: mitral stenosis
+  y: [347.1 - 355.3] x: [306.1 - 329.6]: (Class I)
+  y: [373.5 - 381.7] x: [290.3 - 346.6]: Target INR 2.0–3.0;
+  y: [382.0 - 398.8] x: [293.9 - 343.0]: (Class I) >70% INR range;
+  y: [399.1 - 415.9] x: [289.2 - 347.0]: (Class IIa) or switch to DOAC
+  y: [416.2 - 424.4] x: [306.3 - 329.8]: (Class I)
+  y: [321.4 - 329.7] x: [362.0 - 416.9]: Assess and manage
+  y: [330.0 - 346.8] x: [361.4 - 417.4]: all modifiable risk factors for bleeding
+  y: [347.1 - 355.3] x: [377.7 - 401.2]: (Class I)
+  y: [364.4 - 381.1] x: [362.3 - 416.5]: Do not use risk scores to withhold
+  y: [381.5 - 389.7] x: [367.8 - 411.0]: anticoagulation
+  y: [390.0 - 398.2] x: [375.9 - 402.9]: (Class III)
+  y: [321.5 - 338.2] x: [429.1 - 492.9]: Do not combine antiplatelets and OAC
+  y: [338.5 - 346.8] x: [430.2 - 491.8]: for stroke prevention
+  y: [347.1 - 355.3] x: [447.5 - 474.5]: (Class III)
+  y: [364.4 - 381.2] x: [434.1 - 487.8]: Avoid antiplatelets beyond 12 months
+  y: [381.5 - 389.7] x: [438.4 - 483.5]: in OAC treated
+  y: [390.0 - 398.2] x: [446.7 - 475.3]: CCS/PVD
+  y: [398.5 - 406.8] x: [447.5 - 474.5]: (Class III)
+  y: [363.2 - 380.0] x: [148.8 - 200.7]: Temporal pattern of AF not relevant
+  y: [380.3 - 388.6] x: [161.2 - 188.3]: (Class III)
+  y: [393.9 - 402.2] x: [146.2 - 203.3]: Antiplatelet therapy
+  y: [402.5 - 410.7] x: [149.5 - 200.0]: not an alternative
+  y: [411.0 - 419.3] x: [161.2 - 188.3]: (Class III)
+  y: [291.8 - 310.9] x: [446.4 - 475.6]: Prevent bleeding
+  y: [439.0 - 474.9] x: [94.9 - 113.7]: R
+  y: [435.8 - 448.5] x: [132.9 - 347.4]: Reduce symptoms by rate and rhythm control
+  y: [524.7 - 560.7] x: [96.5 - 112.1]: E
+  y: [520.5 - 533.3] x: [132.9 - 307.4]: Evaluation and dynamic reassessment
+  y: [468.1 - 477.4] x: [160.7 - 424.2]: First-diagnosed AF Paroxysmal AF Persistent AF Permanent AF
+  y: [483.2 - 492.7] x: [279.0 - 312.8]: Consider:
+  y: [75.3 - 83.1] x: [132.9 - 141.1]: AF
+  y: [364.4 - 372.6] x: [305.4 - 327.1]: If  VKA:
+  y: [499.9 - 508.4] x: [85.2 - 505.9]: Rate control drugs Ablate and pace Cardioversion Catheter ablation Endoscopic/hy
+  y: [539.4 - 549.0] x: [224.3 - 408.9]: Re-evaluate when AF episodes or non-AF admissions
+  y: [577.3 - 585.6] x: [94.5 - 145.0]: ECG, blood tests,
+  y: [585.9 - 602.7] x: [94.7 - 144.8]: cardiac imaging, ambulatory ECG,
+  y: [603.0 - 611.2] x: [99.7 - 139.1]: other imaging
+  y: [611.5 - 619.7] x: [105.0 - 133.8]: as needed
+  y: [581.6 - 598.4] x: [163.2 - 221.3]: Assess new and existing risk factors
+  y: [598.7 - 606.9] x: [166.3 - 218.2]: and comorbidities
+  y: [607.2 - 615.5] x: [180.5 - 204.0]: (Class I)
+  y: [581.6 - 606.9] x: [235.3 - 288.5]: Stratify risk for stroke and thromboembolism
+  y: [607.2 - 615.5] x: [250.1 - 273.6]: (Class I)
+  y: [581.6 - 589.8] x: [304.6 - 359.6]: Check impact of AF
+  y: [590.1 - 606.9] x: [304.8 - 359.4]: symptoms before and after treatment
+  y: [607.2 - 615.5] x: [320.3 - 343.8]: (Class I)
+  y: [581.6 - 598.4] x: [375.4 - 430.6]: Assess and manage modifiable bleeding
+  y: [598.7 - 606.9] x: [386.8 - 419.1]: risk factors
+  y: [607.2 - 615.5] x: [391.2 - 414.7]: (Class I)
+  y: [577.3 - 594.1] x: [451.9 - 495.9]: Continue OAC despite rhythm
+  y: [594.4 - 611.2] x: [443.4 - 504.3]: control if risk of thromboembolism
+  y: [611.5 - 619.7] x: [462.1 - 485.6]: (Class I)
+  y: [557.1 - 566.6] x: [137.3 - 495.5]: Regular re-evaluation: 6 months after presentation, and then at least annually o
+  y: [660.1 - 734.9] x: [47.0 - 547.2]: Figure 3 Central illustration. Patient pathway for AF-CARE (see Figures 4, 5, 6,
+  y: [26.0 - 36.0] x: [42.5 - 558.4]: ESC Guidelines                                                                  
+  y: [202.9 - 590.9] x: [571.4 - 578.9]: Downloaded from https://academic.oup.com/eurheartj/article/45/36/3314/7738779 by
+
+*** FIGURE 4 (PAGE 21) ==================== ***
+  y: [130.2 - 139.5] x: [377.4 - 383.6]: N
+  y: [83.2 - 94.8] x: [232.7 - 356.2]: Patient with first-diagnosed AF
+  y: [130.3 - 139.5] x: [212.8 - 217.6]: Y
+  y: [330.2 - 340.0] x: [121.3 - 269.8]: Y N
+  y: [228.5 - 240.1] x: [76.9 - 516.0]: Follow AF-CARE for [C] comorbidity and risk factor management & [A] avoid stroke
+  y: [129.0 - 140.6] x: [245.6 - 347.3]: Haemodynamically stable
+  y: [272.7 - 284.3] x: [158.3 - 231.5]: Initial rate control
+  y: [284.7 - 296.3] x: [177.0 - 212.8]: (Class I)
+  y: [173.3 - 184.9] x: [351.0 - 445.1]: Electrical cardioversion
+  y: [185.3 - 196.9] x: [381.5 - 414.5]: (Class I)
+  y: [328.3 - 340.3] x: [172.3 - 217.4]: LVEF ≤40%
+  y: [376.2 - 399.7] x: [231.2 - 320.6]: Beta-blocker, digoxin, diltiazem or verapamil
+  y: [400.2 - 411.7] x: [258.0 - 293.8]: (Class I)
+  y: [376.2 - 387.7] x: [86.4 - 140.8]: Beta-blocker
+  y: [388.2 - 399.7] x: [93.0 - 134.2]: or digoxin
+  y: [400.2 - 411.7] x: [95.7 - 131.5]: (Class I)
+  y: [424.6 - 448.1] x: [71.3 - 155.9]: Combination  rate control therapy
+  y: [448.6 - 460.1] x: [93.7 - 133.5]: (Class IIa)
+  y: [424.6 - 448.1] x: [233.8 - 318.4]: Combination  rate control therapy
+  y: [448.6 - 460.1] x: [256.3 - 296.0]: (Class IIa)
+  y: [497.6 - 509.2] x: [133.1 - 258.5]: Cardioversion of symptomatic
+  y: [509.6 - 521.2] x: [169.2 - 222.4]: persistent AF
+  y: [521.6 - 533.2] x: [179.3 - 212.3]: (Class I)
+  y: [546.0 - 569.6] x: [135.6 - 256.0]: Wait-and-see if sinus rhythm restores spontaneously <48 h
+  y: [570.0 - 581.6] x: [174.5 - 217.0]: (Class IIa)
+  y: [618.1 - 660.0] x: [41.3 - 541.6]: Figure 4 [R] Pathway for patients with first-diagnosed AF. AF, atrial fibrillati
+  y: [26.0 - 36.0] x: [36.9 - 597.8]: 3334                                                                            
+  y: [202.9 - 590.9] x: [571.4 - 578.9]: Downloaded from https://academic.oup.com/eurheartj/article/45/36/3314/7738779 by
+
+*** FIGURE 5 (PAGE 22) ==================== ***
+  y: [172.1 - 182.3] x: [279.2 - 314.2]: (Class IIa)
+  y: [241.6 - 251.8] x: [111.2 - 159.0]: Beta-blocker
+  y: [252.2 - 262.4] x: [116.9 - 153.2]: or digoxin
+  y: [262.7 - 272.9] x: [120.6 - 149.6]: (Class I)
+  y: [71.4 - 81.6] x: [245.8 - 342.7]: Patient with paroxysmal AF
+  y: [212.2 - 222.8] x: [276.1 - 315.8]: LVEF ≤40%
+  y: [241.6 - 262.4] x: [309.7 - 388.4]: Beta-blocker, digoxin, diltiazem or verapamil
+  y: [241.6 - 262.4] x: [419.6 - 494.1]: Combination  rate control therapy
+  y: [262.7 - 272.9] x: [439.4 - 474.4]: (Class IIa)
+  y: [241.6 - 262.4] x: [205.1 - 279.6]: Combination  rate control therapy
+  y: [262.7 - 272.9] x: [224.9 - 259.8]: (Class IIa)
+  y: [424.4 - 434.6] x: [112.9 - 157.3]: Amiodarone
+  y: [435.0 - 445.2] x: [120.6 - 149.6]: (Class I)
+  y: [419.0 - 429.2] x: [305.6 - 392.9]: Dronedarone, flecainide
+  y: [429.6 - 439.8] x: [321.4 - 377.1]: or propafenone
+  y: [635.7 - 645.8] x: [103.8 - 166.4]: Catheter ablation
+  y: [646.2 - 656.4] x: [119.4 - 150.8]: (Class I)
+  y: [419.0 - 429.2] x: [214.7 - 269.9]: Amiodarone or
+  y: [429.6 - 439.8] x: [218.0 - 266.7]: dronedarone
+  y: [440.2 - 450.3] x: [227.8 - 256.8]: (Class I)
+  y: [360.2 - 381.1] x: [112.4 - 157.8]: HFrEF (LVEF ≤40%)
+  y: [349.6 - 381.0] x: [199.6 - 285.1]: Stable HFmrEF (LVEF 41–49%),  coronary heart disease,
+  y: [354.9 - 375.7] x: [319.4 - 379.1]: Absence or minimal heart
+  y: [376.0 - 386.2] x: [336.6 - 361.9]: disease
+  y: [462.0 - 482.7] x: [331.8 - 367.4]: Sotalol  (Class IIb)
+  y: [515.1 - 525.3] x: [245.4 - 346.5]: Recurrence of AF symptoms
+  y: [213.5 - 221.7] x: [207.6 - 385.0]: Y N
+  y: [582.0 - 592.1] x: [95.4 - 174.7]: If failed antiarrhythmic
+  y: [592.5 - 602.7] x: [112.5 - 157.7]: drug therapy
+  y: [582.0 - 592.1] x: [428.1 - 485.7]: If failed catheter
+  y: [635.7 - 645.8] x: [200.2 - 284.5]: Re-do catheter ablation
+  y: [646.2 - 656.4] x: [224.9 - 259.8]: (Class IIa)
+  y: [635.7 - 645.8] x: [308.1 - 390.4]: Surgical/hybrid ablation
+  y: [646.2 - 656.4] x: [331.4 - 367.1]: (Class IIb)
+  y: [635.7 - 645.8] x: [420.8 - 493.0]: Antiarrhythmic drug
+  y: [646.2 - 656.4] x: [421.9 - 491.8]: therapy (see above)
+  y: [423.1 - 434.6] x: [424.1 - 489.7]: Catheter ablationa
+  y: [435.0 - 445.2] x: [441.1 - 472.6]: (Class I)
+  y: [551.9 - 562.1] x: [255.3 - 338.7]: Shared decision-making
+  y: [562.4 - 572.6] x: [282.5 - 311.5]: (Class I)
+  y: [110.8 - 120.9] x: [102.8 - 489.1]: Follow AF-CARE for [C] comorbidity and risk factor management & [A] avoid stroke
+  y: [691.8 - 744.6] x: [47.0 - 547.2]: Figure 5 [R] Pathway for patients with paroxysmal AF. AF, atrial fibrillation; A
+  y: [26.0 - 36.0] x: [42.5 - 558.4]: ESC Guidelines                                                                  
+  y: [202.9 - 590.9] x: [571.4 - 578.9]: Downloaded from https://academic.oup.com/eurheartj/article/45/36/3314/7738779 by
+
+*** FIGURE 6 (PAGE 23) ==================== ***
+  y: [329.8 - 348.2] x: [179.8 - 222.4]: Electrical cardioversion
+  y: [151.1 - 160.1] x: [215.8 - 365.5]: with stricter control with continuing symptoms
+  y: [160.4 - 169.5] x: [275.1 - 306.1]: (Class IIa)
+  y: [222.1 - 231.1] x: [127.3 - 167.5]: Beta-blocker
+  y: [240.8 - 249.8] x: [134.5 - 160.3]: (Class I)
+  y: [72.4 - 81.4] x: [247.7 - 329.2]: Patient with persistent AF
+  y: [196.0 - 205.3] x: [272.4 - 307.6]: LVEF ≤40%
+  y: [222.1 - 240.5] x: [399.6 - 465.6]: Combination  rate control therapy
+  y: [240.8 - 249.8] x: [417.1 - 448.1]: (Class IIa)
+  y: [222.1 - 240.5] x: [209.5 - 275.5]: Combination  rate control therapy
+  y: [240.8 - 249.8] x: [227.0 - 258.0]: (Class IIa)
+  y: [457.2 - 466.2] x: [127.7 - 167.1]: Amiodarone
+  y: [466.5 - 475.5] x: [134.5 - 160.3]: (Class I)
+  y: [452.4 - 461.4] x: [298.5 - 375.9]: Dronedarone, flecainide
+  y: [452.4 - 461.4] x: [218.0 - 266.9]: Amiodarone or
+  y: [471.1 - 480.1] x: [229.6 - 255.3]: (Class I)
+  y: [490.4 - 508.8] x: [226.7 - 258.3]: Sotalol  (Class IIb)
+  y: [400.2 - 418.8] x: [127.3 - 167.5]: HFrEF (LVEF ≤40%)
+  y: [390.9 - 418.6] x: [204.6 - 280.4]: Stable HFmrEF (LVEF 41–49%),  coronary heart disease,
+  y: [418.9 - 428.0] x: [208.7 - 276.2]: valvular heart disease
+  y: [395.5 - 413.9] x: [309.7 - 364.8]: Absence  or minimal heart
+  y: [414.3 - 423.3] x: [326.0 - 348.5]: disease
+  y: [490.4 - 508.8] x: [321.8 - 353.3]: Sotalol  (Class IIb)
+  y: [537.5 - 546.5] x: [245.2 - 334.8]: Recurrence of AF symptoms
+  y: [376.7 - 385.7] x: [109.5 - 199.2]: Antiarrhythmic drug therapy
+  y: [197.1 - 204.4] x: [211.7 - 368.9]: Y N
+  y: [275.9 - 284.9] x: [224.4 - 358.8]: Shared decision-making on rhythm control
+  y: [285.2 - 294.2] x: [278.7 - 304.4]: (Class I)
+  y: [596.8 - 605.8] x: [112.3 - 182.5]: If failed antiarrhythmic
+  y: [606.1 - 615.2] x: [127.4 - 167.4]: drug therapy
+  y: [596.8 - 605.8] x: [407.1 - 458.1]: If failed catheter
+  y: [606.1 - 615.2] x: [420.2 - 445.0]: ablation
+  y: [456.0 - 466.2] x: [403.6 - 461.7]: Catheter ablationa
+  y: [466.5 - 475.5] x: [415.8 - 449.5]: (Class IIb)
+  y: [570.1 - 579.1] x: [191.9 - 389.9]: Shared decision-making, considering all rhythm control options
+  y: [579.5 - 588.5] x: [278.1 - 303.8]: (Class I)
+  y: [240.8 - 249.8] x: [324.2 - 349.9]: (Class I)
+  y: [651.1 - 669.5] x: [114.9 - 140.6]: ablation (Class I)
+  y: [641.7 - 660.1] x: [228.5 - 254.9]: Re-do catheter
+  y: [660.5 - 669.5] x: [229.3 - 254.1]: ablation
+  y: [641.7 - 650.8] x: [290.6 - 326.4]: Endoscopic
+  y: [651.1 - 669.5] x: [283.3 - 333.8]: hybrid or surgical ablation
+  y: [651.1 - 660.1] x: [357.1 - 399.3]: drug therapy
+  y: [660.5 - 669.5] x: [360.1 - 396.3]: (see above)
+  y: [660.5 - 669.5] x: [428.3 - 455.7]: strategy
+  y: [107.8 - 116.8] x: [118.8 - 461.2]: Follow AF-CARE for [C] comorbidity and risk factor management & [A] avoid stroke
+  y: [319.8 - 328.8] x: [263.8 - 372.3]: Haemodynamic instability (Class I)
+  y: [348.0 - 357.1] x: [249.4 - 386.7]: Clarify benefit from sinus rhythm (Class IIa)
+  y: [641.7 - 660.1] x: [155.0 - 201.7]: Endoscopic/ hybrid ablation
+  y: [660.5 - 669.5] x: [162.8 - 193.8]: (Class IIa)
+  y: [701.1 - 743.0] x: [41.3 - 541.5]: Figure 6 [R] Pathway for patients with persistent AF. AF, atrial fibrillation; A
+  y: [26.0 - 36.0] x: [36.9 - 597.8]: 3336                                                                            
+  y: [202.9 - 590.9] x: [571.4 - 578.9]: Downloaded from https://academic.oup.com/eurheartj/article/45/36/3314/7738779 by
+
+*** FIGURE 7 (PAGE 24) ==================== ***
+  y: [169.4 - 180.0] x: [329.4 - 369.1]: LVEF >40%
+  y: [75.9 - 86.1] x: [246.5 - 341.8]: Patient with permanent AF
+  y: [358.3 - 366.5] x: [427.5 - 431.8]: Y
+  y: [284.2 - 294.4] x: [307.8 - 390.6]: Evaluation and dynamic
+  y: [294.8 - 304.9] x: [325.5 - 372.9]: reassessment
+  y: [213.7 - 223.9] x: [312.1 - 386.3]: Initiate beta-blocker,
+  y: [224.3 - 234.5] x: [318.9 - 379.5]: digoxin, diltiazem
+  y: [234.9 - 245.0] x: [326.9 - 371.5]: or verapamil
+  y: [245.4 - 255.6] x: [333.5 - 364.9]: (Class I)
+  y: [435.5 - 445.7] x: [308.6 - 390.2]: Continue beta-blocker,
+  y: [446.1 - 456.3] x: [317.4 - 380.6]: digoxin, diltiazem
+  y: [456.6 - 466.8] x: [326.7 - 371.3]: or verapamil
+  y: [467.2 - 477.4] x: [333.3 - 364.7]: (Class I)
+  y: [430.2 - 440.4] x: [409.6 - 503.3]: Combination beta-blocker
+  y: [440.8 - 451.0] x: [410.5 - 502.5]: with digoxin, or diltiazem/
+  y: [451.4 - 461.5] x: [416.0 - 497.8]: verapamil with digoxin;
+  y: [461.9 - 472.1] x: [419.2 - 493.7]: avoiding bradycardia
+  y: [471.2 - 482.7] x: [437.5 - 475.5]: (Class IIa)a
+  y: [408.3 - 416.5] x: [346.4 - 351.9]: N
+  y: [512.0 - 522.2] x: [87.5 - 504.4]: Rate control target = resting heart rate <110 b.p.m. (lenient control), with str
+  y: [522.6 - 532.8] x: [278.5 - 313.4]: (Class IIa)
+  y: [579.0 - 589.2] x: [105.9 - 240.4]: Continue review and follow-up as per
+  y: [589.6 - 599.8] x: [138.2 - 208.1]: AF-CARE approach
+  y: [169.4 - 180.0] x: [115.4 - 155.1]: LVEF ≤40%
+  y: [440.8 - 451.0] x: [95.0 - 175.5]: Continue beta-blocker
+  y: [451.4 - 461.5] x: [117.1 - 153.4]: or digoxin
+  y: [461.9 - 472.1] x: [119.5 - 151.0]: (Class I)
+  y: [435.5 - 456.3] x: [196.4 - 289.1]: Combination beta-blocker with digoxin,
+  y: [456.6 - 466.8] x: [206.3 - 278.3]: avoiding bradycardia
+  y: [467.2 - 477.4] x: [224.8 - 259.8]: (Class IIa)
+  y: [358.3 - 366.5] x: [213.9 - 218.1]: Y
+  y: [284.2 - 294.4] x: [93.8 - 176.7]: Evaluation and dynamic
+  y: [294.8 - 304.9] x: [111.6 - 158.9]: reassessment
+  y: [219.0 - 229.2] x: [99.4 - 171.0]: Initiate beta-blocker
+  y: [229.6 - 239.8] x: [117.1 - 153.4]: or digoxin
+  y: [240.1 - 250.3] x: [119.5 - 151.0]: (Class I)
+  y: [332.9 - 343.1] x: [84.8 - 185.7]: Rate control target = resting
+  y: [343.5 - 353.7] x: [94.4 - 176.9]: heart rate  <110 b.p.m.
+  y: [354.1 - 385.4] x: [88.4 - 182.1]: (lenient control),  with stricter control  with continuing symptoms
+  y: [385.7 - 395.9] x: [117.8 - 152.7]: (Class IIa)
+  y: [408.3 - 416.5] x: [132.8 - 138.3]: N
+  y: [164.4 - 174.5] x: [411.6 - 503.8]: Severely symptomatic and
+  y: [174.9 - 185.1] x: [425.7 - 489.7]: HF hospitalization
+  y: [219.0 - 229.2] x: [418.1 - 495.6]: Atrioventricular node
+  y: [229.6 - 239.8] x: [426.1 - 487.6]: ablation and CRT
+  y: [240.1 - 250.3] x: [439.3 - 474.3]: (Class IIa)
+  y: [558.6 - 566.8] x: [408.6 - 412.9]: Y
+  y: [579.0 - 589.2] x: [347.0 - 474.4]: Intensify rate control therapy under
+  y: [589.6 - 599.8] x: [389.6 - 431.9]: observation
+  y: [628.1 - 648.8] x: [339.7 - 481.8]: Evaluation for atrioventricular node ablation in combination with pacemaker
+  y: [649.2 - 659.4] x: [393.2 - 428.2]: (Class IIa)
+  y: [558.6 - 566.8] x: [178.4 - 183.9]: N
+  y: [116.2 - 126.4] x: [102.8 - 489.1]: Follow AF-CARE for [C] comorbidity and risk factor management & [A] avoid stroke
+  y: [332.9 - 343.1] x: [298.7 - 399.7]: Rate control target = resting
+  y: [343.5 - 353.7] x: [308.4 - 390.9]: heart rate  <110 b.p.m.
+  y: [354.1 - 385.4] x: [302.4 - 396.0]: (lenient control),  with stricter control  with continuing symptoms
+  y: [385.7 - 395.9] x: [331.7 - 366.7]: (Class IIa)
+  y: [695.6 - 748.4] x: [47.0 - 547.2]: Figure 7 [R] Pathway for patients with permanent AF. AF, atrial fibrillation; AF
+  y: [26.0 - 36.0] x: [42.5 - 558.4]: ESC Guidelines                                                                  
+  y: [202.9 - 590.9] x: [571.4 - 578.9]: Downloaded from https://academic.oup.com/eurheartj/article/45/36/3314/7738779 by
+
+*** FIGURE 8 (PAGE 25) ==================== ***
+  y: [59.6 - 149.5] x: [36.9 - 288.5]: 5. [C] Comorbidity and risk factor  management A broad array of comorbidities ar
+  y: [60.0 - 149.4] x: [303.8 - 555.4]: activity and reduce alcohol intake (see Supplementary data online,  Additional E
+  y: [209.2 - 218.6] x: [422.3 - 465.1]: Focus on key
+  y: [218.2 - 227.6] x: [425.3 - 462.1]: risk factors
+  y: [302.6 - 321.0] x: [410.8 - 478.6]: Provide information  without overloading
+  y: [366.3 - 378.1] x: [269.5 - 407.1]: Suggested approach and targets
+  y: [257.9 - 269.3] x: [90.4 - 157.6]: Setting individual
+  y: [269.6 - 304.4] x: [93.1 - 155.0]: targets for comorbidities and risk factors
+  y: [458.4 - 469.9] x: [101.5 - 146.6]: Key targets
+  y: [255.2 - 267.0] x: [309.4 - 360.5]: Behavioural
+  y: [265.1 - 276.9] x: [319.9 - 350.0]: change
+  y: [302.8 - 312.1] x: [216.2 - 251.5]: Achievable
+  y: [311.8 - 321.1] x: [222.6 - 245.1]: targets
+  y: [397.9 - 408.4] x: [267.7 - 490.6]: Identify and actively manage all risk factors and comorbidities
+  y: [406.9 - 417.4] x: [363.0 - 395.2]: (Class I)
+  y: [432.3 - 460.7] x: [261.1 - 497.0]: Blood pressure treatment with target 120–129 mmHg / 70–79 mmHg in most adults (o
+  y: [514.5 - 524.9] x: [287.5 - 470.7]: Effective glycaemic control with diet/medication(s)
+  y: [548.8 - 559.2] x: [295.2 - 462.5]: Weight loss programme if overweight /obese,
+  y: [557.8 - 568.2] x: [324.2 - 433.6]: with 10% or more weight loss
+  y: [566.8 - 577.2] x: [362.8 - 395.0]: (Class I)
+  y: [587.7 - 598.1] x: [282.1 - 476.1]: Management of obstructive sleep apnoea to minimize
+  y: [596.7 - 607.1] x: [348.1 - 410.1]: apnoeic episodes
+  y: [605.7 - 616.1] x: [360.9 - 397.3]: (Class IIb)
+  y: [626.5 - 636.9] x: [292.5 - 465.7]: Tailored exercise programme aiming for regular
+  y: [635.5 - 645.9] x: [330.6 - 427.6]: moderate/vigorous activity
+  y: [665.4 - 675.8] x: [287.4 - 470.8]: Reduce alcohol consumption to 3 or less standard
+  y: [674.4 - 684.8] x: [349.6 - 408.6]: drinks per week
+  y: [683.4 - 693.8] x: [363.0 - 395.2]: (Class I)
+  y: [209.4 - 227.8] x: [207.7 - 260.0]: Shared decision-making
+  y: [441.3 - 451.7] x: [188.0 - 237.8]: Hypertension
+  y: [592.2 - 611.6] x: [200.0 - 225.8]: Sleep apnoea
+  y: [475.7 - 495.1] x: [201.8 - 224.0]: Heart failure
+  y: [519.0 - 529.4] x: [196.8 - 229.0]: Diabetes
+  y: [557.8 - 568.3] x: [198.6 - 227.2]: Obesity
+  y: [397.9 - 417.4] x: [189.9 - 235.9]: Integrated management
+  y: [631.0 - 641.4] x: [198.9 - 226.9]: Physical
+  y: [640.0 - 650.4] x: [200.1 - 225.7]: activity
+  y: [669.9 - 680.3] x: [198.7 - 227.1]: Alcohol
+  y: [678.9 - 689.3] x: [200.8 - 225.0]: intake
+  y: [471.1 - 490.6] x: [260.1 - 498.1]: Optimize with diuretics to alleviate congestion appropriate, medical therapy for
+  y: [489.1 - 499.6] x: [364.3 - 393.9]: (Class I)
+  y: [727.6 - 747.5] x: [41.3 - 541.6]: Figure 8 Management of key comorbidities to reduce AF recurrence. LVEF, left ven
+  y: [26.0 - 36.0] x: [36.9 - 597.8]: 3338                                                                            
+  y: [202.9 - 590.9] x: [571.4 - 578.9]: Downloaded from https://academic.oup.com/eurheartj/article/45/36/3314/7738779 by
+
+*** FIGURE 9 (PAGE 30) ==================== ***
+  y: [59.8 - 201.8] x: [42.5 - 293.9]: 6.2. Oral anticoagulants Vitamin K antagonists (VKA), predominantly warfarin but
+  y: [60.0 - 165.5] x: [309.5 - 560.9]: number of factor XI inhibitors in various stages of clinical evaluation. A  phas
+  y: [168.6 - 201.8] x: [309.5 - 560.9]: but there are also some common cardiovascular and non-cardiovascular  drugs that
+  y: [473.8 - 491.0] x: [423.6 - 478.7]: Caution if renal function impaired
+  y: [240.9 - 250.1] x: [111.6 - 178.6]: Vitamin K antagonist
+  y: [250.5 - 259.7] x: [114.8 - 175.3]: oral anticoagulants
+  y: [305.7 - 314.3] x: [124.4 - 164.5]: Avoid where
+  y: [314.3 - 322.9] x: [131.9 - 157.0]: possible
+  y: [324.2 - 348.4] x: [126.6 - 162.3]: NSAIDs Fluconazole Voriconazole
+  y: [348.7 - 356.6] x: [130.2 - 158.7]: Fluoxetine
+  y: [305.7 - 314.3] x: [204.5 - 244.5]: Avoid where
+  y: [314.3 - 332.1] x: [203.3 - 245.8]: possible Carbamazepine
+  y: [332.4 - 348.4] x: [205.6 - 243.5]: Phenytoin Phenobarbital
+  y: [348.7 - 356.6] x: [210.4 - 238.6]: Rifampicin
+  y: [356.8 - 381.0] x: [203.8 - 245.3]: Ritonavir Itraconazole Ketoconazole
+  y: [305.7 - 314.3] x: [280.1 - 320.1]: Avoid where
+  y: [314.3 - 340.2] x: [278.8 - 321.3]: possible Dronedarone Carbamazepine
+  y: [340.5 - 356.6] x: [286.0 - 314.2]: Phenytoin Rifampicin
+  y: [356.8 - 381.0] x: [281.2 - 318.9]: Ritonavir Itraconazole Ketoconazole
+  y: [381.3 - 397.4] x: [267.0 - 333.2]: Cyclosporin Glecaprevir/pibrentasvir
+  y: [397.6 - 405.5] x: [285.3 - 314.9]: Tacrolimus
+  y: [305.7 - 314.3] x: [355.6 - 395.6]: Avoid where
+  y: [314.3 - 332.1] x: [354.4 - 396.9]: possible Carbamazepine
+  y: [332.4 - 348.4] x: [356.7 - 394.5]: Phenytoin Phenobarbital
+  y: [348.7 - 356.6] x: [361.5 - 389.7]: Rifampicin
+  y: [356.8 - 364.7] x: [363.2 - 388.0]: Ritonavir
+  y: [305.7 - 314.3] x: [431.2 - 471.2]: Avoid where
+  y: [314.3 - 340.2] x: [429.9 - 472.4]: possible Dronedarone Carbamazepine
+  y: [340.5 - 356.6] x: [432.3 - 470.1]: Phenytoin Phenobarbital
+  y: [356.8 - 381.0] x: [432.3 - 470.0]: Itraconazole Ketoconazole Posaconazole
+  y: [381.3 - 389.2] x: [433.3 - 469.0]: Voriconazole
+  y: [389.5 - 397.4] x: [437.1 - 465.3]: Rifampicin
+  y: [397.6 - 405.5] x: [438.7 - 463.6]: Ritonavir
+  y: [647.1 - 655.7] x: [115.0 - 173.9]: Limit consumption
+  y: [413.6 - 439.5] x: [194.3 - 254.8]: Avoid or reduce apixaban dose if another interacting
+  y: [439.5 - 448.1] x: [204.3 - 244.8]: drug therapy
+  y: [413.6 - 430.8] x: [425.7 - 476.6]: Avoid if another interacting drug
+  y: [430.9 - 439.5] x: [439.1 - 463.2]: therapy
+  y: [461.6 - 487.4] x: [345.4 - 405.9]: Avoid or reduce edoxaban dose if another interacting
+  y: [487.5 - 496.1] x: [355.4 - 395.9]: drug therapy
+  y: [413.6 - 430.8] x: [118.9 - 399.2]: edoxaban dose Reduce warfarin
+  y: [422.2 - 430.8] x: [137.1 - 151.8]: dose
+  y: [255.4 - 264.6] x: [209.6 - 391.2]: Apixaban Dabigatran Edoxaban
+  y: [413.6 - 422.2] x: [276.0 - 323.8]: Delay timing of
+  y: [422.2 - 430.8] x: [280.0 - 319.8]: drugs and/or
+  y: [430.9 - 455.6] x: [124.0 - 317.6]: adjust dose Amiodarone Metronidazole Sulphonamides
+  y: [455.9 - 463.8] x: [129.0 - 159.9]: Allopurinol
+  y: [464.1 - 488.3] x: [127.9 - 161.0]: Fluvastatin Gemfibrozil Fluorouracil
+  y: [496.4 - 505.0] x: [117.4 - 171.5]: Increase warfarin
+  y: [505.0 - 522.4] x: [123.2 - 165.7]: dose Carbamazepine
+  y: [531.0 - 539.6] x: [110.3 - 178.6]: Monitor INR carefully
+  y: [541.6 - 549.5] x: [125.8 - 163.1]: Dronedarone
+  y: [549.8 - 582.2] x: [114.7 - 174.2]: Statins Penicillin antibiotics Macrolide antibiotics Quinolone antibiotics
+  y: [582.4 - 598.5] x: [125.5 - 163.4]: Rifampicin Methotrexate
+  y: [598.8 - 623.0] x: [120.5 - 168.4]: Ritonavir Phenytoin Sodium valproate
+  y: [623.2 - 639.3] x: [121.6 - 167.3]: Tamoxifen Chemotherapies
+  y: [450.5 - 458.4] x: [206.1 - 243.0]: Posaconazole
+  y: [458.7 - 474.7] x: [198.6 - 250.5]: Voriconazole Protease inhibitors
+  y: [475.0 - 499.2] x: [203.5 - 245.6]: Apalutamide Enzalutamide Tyrosine kinase
+  y: [499.5 - 507.4] x: [211.5 - 237.5]: inhibitors
+  y: [545.0 - 553.6] x: [195.1 - 254.0]: Limit consumption
+  y: [556.2 - 564.0] x: [202.9 - 246.2]: Grapefruit juice
+  y: [564.3 - 572.2] x: [205.3 - 243.8]: St John’s wort
+  y: [545.0 - 553.6] x: [270.6 - 329.6]: Limit consumption
+  y: [556.2 - 564.0] x: [278.5 - 321.7]: Grapefruit juice
+  y: [564.3 - 572.2] x: [280.9 - 319.3]: St John’s wort
+  y: [545.0 - 553.6] x: [346.2 - 405.1]: Limit consumption
+  y: [556.2 - 564.0] x: [354.0 - 397.3]: Grapefruit juice
+  y: [564.3 - 572.2] x: [356.4 - 394.9]: St John’s wort
+  y: [545.0 - 553.6] x: [421.7 - 480.6]: Limit consumption
+  y: [556.2 - 564.0] x: [429.5 - 472.8]: Grapefruit juice
+  y: [441.4 - 449.3] x: [282.9 - 317.3]: Amiodarone
+  y: [449.5 - 457.4] x: [286.0 - 314.2]: Ticagrelor
+  y: [457.7 - 481.9] x: [279.5 - 320.7]: Verapamil Quinidine Clarithromycin
+  y: [482.2 - 490.1] x: [281.6 - 318.6]: Posaconazole
+  y: [441.4 - 449.3] x: [357.0 - 477.1]: Dronedarone Protease inhibitors
+  y: [449.6 - 457.4] x: [430.1 - 472.2]: Tyrosine kinase
+  y: [457.7 - 465.6] x: [438.2 - 464.2]: inhibitors
+  y: [492.6 - 516.8] x: [430.6 - 471.8]: Verapamil Cyclosporin Clarithromycin
+  y: [517.1 - 524.9] x: [432.6 - 469.7]: Erythromycin
+  y: [525.2 - 533.1] x: [434.9 - 467.4]: Fluconazole
+  y: [500.8 - 533.1] x: [356.8 - 394.5]: Cyclosporin Itraconazole Ketoconazole Erythromycin
+  y: [657.5 - 673.5] x: [108.3 - 180.6]: Alcohol Grapefruit/cranberry juice
+  y: [673.8 - 681.7] x: [125.2 - 163.7]: St John’s wort
+  y: [255.4 - 264.6] x: [431.4 - 471.0]: Rivaroxaban
+  y: [237.9 - 249.0] x: [287.1 - 387.3]: Direct oral anticoagulants
+  y: [716.6 - 747.5] x: [47.0 - 547.2]: Figure 9 Common drug interactions with oral anticoagulants. INR, international n
+  y: [26.0 - 36.0] x: [42.5 - 558.4]: ESC Guidelines                                                                  
+  y: [202.9 - 590.9] x: [571.4 - 578.9]: Downloaded from https://academic.oup.com/eurheartj/article/45/36/3314/7738779 by
+
+*** FIGURE 10 (PAGE 36) ==================== ***
+  y: [173.4 - 184.1] x: [118.2 - 171.5]: Hypertension
+  y: [233.6 - 244.3] x: [129.0 - 369.2]: NSAIDs Other factors
+  y: [187.5 - 204.5] x: [118.8 - 170.9]: Optimize blood pressure lowering
+  y: [204.8 - 213.1] x: [130.3 - 159.3]: treatment
+  y: [213.4 - 221.7] x: [133.0 - 156.7]: (Class I)
+  y: [188.6 - 205.6] x: [204.9 - 283.0]: Do not use antiplatelet therapy beyond 12 months
+  y: [205.9 - 214.3] x: [211.5 - 276.3]: in stable OAC-treated
+  y: [214.6 - 231.5] x: [205.6 - 282.3]: patients with chronic coronary/vascular disease
+  y: [231.8 - 240.2] x: [230.2 - 257.6]: (Class III)
+  y: [249.9 - 266.9] x: [204.0 - 283.9]: Do not add antiplatelet therapy to OAC to prevent
+  y: [267.2 - 275.5] x: [209.3 - 278.5]: thromboembolic events
+  y: [275.8 - 292.8] x: [215.3 - 272.5]: (Class III) or recurrent stroke
+  y: [293.1 - 301.4] x: [230.2 - 257.6]: (Class III)
+  y: [187.5 - 195.8] x: [313.7 - 376.5]: Reduce alcohol to <3
+  y: [196.1 - 204.5] x: [322.6 - 367.5]: standard drinks
+  y: [204.8 - 213.1] x: [331.4 - 358.7]: per week
+  y: [213.4 - 221.7] x: [333.2 - 357.0]: (Class I)
+  y: [310.6 - 327.5] x: [203.4 - 284.4]: DOAC instead of  VKA when antiplatelet treatment
+  y: [327.8 - 336.2] x: [230.1 - 257.7]: is needed
+  y: [336.5 - 344.8] x: [232.0 - 255.8]: (Class I)
+  y: [187.5 - 195.8] x: [420.4 - 472.1]: Keep INR 2.0–3.0
+  y: [196.1 - 213.1] x: [423.8 - 468.6]: (Class I)  and TTR >70%
+  y: [229.7 - 238.0] x: [407.5 - 485.0]: Switch to DOAC if eligible
+  y: [238.3 - 246.6] x: [415.1 - 477.4]: and failed to maintain
+  y: [246.9 - 255.3] x: [427.5 - 464.9]: TTR on VKA
+  y: [255.6 - 263.9] x: [434.3 - 458.1]: (Class I)
+  y: [274.0 - 290.9] x: [410.8 - 481.7]: Minimize duration of heparin-bridging therapy
+  y: [146.0 - 156.8] x: [161.7 - 429.8]: Manage all modifiable bleeding risk factors with shared decision-making
+  y: [157.0 - 167.4] x: [280.9 - 310.6]: (Class I)
+  y: [109.2 - 119.6] x: [164.9 - 426.7]: Do not use bleeding risk scores to decide starting or withdrawing OAC
+  y: [120.0 - 130.4] x: [278.7 - 312.9]: (Class III)
+  y: [72.3 - 82.7] x: [118.7 - 472.8]: Comprehensive medical history to determine all bleeding risk factors at OAC init
+  y: [83.1 - 93.5] x: [280.9 - 310.6]: (Class I)
+  y: [537.7 - 556.9] x: [346.4 - 456.0]: Review patient more regularly Work with multidisciplinary team
+  y: [557.4 - 566.8] x: [363.5 - 438.9]: to monitor risk factors
+  y: [584.9 - 595.5] x: [328.1 - 474.3]: If clear contraindications for OACa, consider
+  y: [596.0 - 605.4] x: [350.8 - 451.6]: left atrial appendage occlusion
+  y: [605.9 - 615.3] x: [384.8 - 417.6]: (Class IIb)
+  y: [397.1 - 406.5] x: [283.2 - 449.4]: Work with multidisciplinary team on each element
+  y: [407.0 - 416.4] x: [297.2 - 435.5]: Ensure correct OAC dose and monitoring
+  y: [427.4 - 436.7] x: [293.7 - 439.0]: Manage heart failure and achieve euvolaemia
+  y: [436.4 - 445.7] x: [353.0 - 379.7]: (Class I)
+  y: [456.8 - 466.1] x: [280.1 - 452.6]: Effective glycaemic control for patients with diabetes
+  y: [465.8 - 475.1] x: [353.0 - 379.7]: (Class I)
+  y: [172.0 - 182.8] x: [208.5 - 489.4]: Antiplatelet drugs Alcohol intake Unstable/variable INR
+  y: [252.2 - 269.2] x: [103.0 - 186.7]: Offer alternative analgesia or disease-modifying therapy
+  y: [648.4 - 659.9] x: [212.7 - 378.8]: Re-assess at next interaction with patient
+  y: [410.9 - 430.2] x: [113.7 - 199.7]: Reduced platelet count or function
+  y: [400.6 - 410.0] x: [113.7 - 142.0]: Anaemia
+  y: [529.4 - 549.4] x: [113.7 - 192.3]: Previous major bleeding Age
+  y: [603.6 - 623.6] x: [113.7 - 226.9]: Intracerebral pathology Cognitive impairment or dementia
+  y: [253.1 - 313.3] x: [303.9 - 389.8]: Consider drug interactions Reduce corticosteroid use  if possible Offer proton p
+  y: [373.7 - 384.4] x: [138.5 - 453.0]: Address all potentially modifiable bleeding risk factors with shared decision-ma
+  y: [505.0 - 515.7] x: [129.4 - 462.1]: Consider the impact of non-modifiable bleeding risk factors with shared decision
+  y: [693.0 - 745.9] x: [47.0 - 547.2]: Figure 10 Modifying the risk of bleeding associated with OAC. DOAC, direct oral 
+  y: [26.0 - 36.0] x: [42.5 - 558.4]: ESC Guidelines                                                                  
+  y: [202.9 - 590.9] x: [571.4 - 578.9]: Downloaded from https://academic.oup.com/eurheartj/article/45/36/3314/7738779 by
+
+*** FIGURE 11 (PAGE 37) ==================== ***
+  y: [103.2 - 114.4] x: [192.2 - 388.3]: Compress bleeding sites mechanically, if accessible
+  y: [73.4 - 84.6] x: [240.5 - 347.8]: Patient with active bleeding
+  y: [188.9 - 202.4] x: [156.5 - 429.1]: DOAC VKA
+  y: [285.1 - 295.2] x: [121.3 - 216.3]: or treatment interventions
+  y: [295.8 - 305.9] x: [154.4 - 183.2]: (Class I)
+  y: [599.5 - 633.0] x: [93.8 - 491.5]: Aim to re-initiate anticoagulation in the absence of contraindications or if sou
+  y: [587.9 - 598.0] x: [93.8 - 372.4]: Discuss benefits and risk of restarting OAC (shared decision-making approach)
+  y: [634.6 - 656.4] x: [93.8 - 229.9]: Review choice and dose of OAC Institute close and ongoing monitoring
+  y: [570.4 - 582.0] x: [201.0 - 368.1]: Management after the bleeding episode
+  y: [227.1 - 247.8] x: [83.3 - 112.4]: Minor bleeding
+  y: [221.7 - 253.2] x: [142.9 - 195.1]: Non-life- threatening major bleeding
+  y: [221.7 - 242.5] x: [212.1 - 268.3]: Life-threatening or bleeding into
+  y: [243.1 - 253.2] x: [218.0 - 262.4]: a critical site
+  y: [361.1 - 381.9] x: [75.8 - 119.8]: Delay VKA until INR <2
+  y: [361.1 - 413.9] x: [315.9 - 365.6]: Delay DOAC  for 1–2 doses (or more depending on recovery)
+  y: [274.4 - 284.5] x: [326.5 - 498.0]: Interrupt anticoagulation and perform diagnostic
+  y: [285.1 - 295.2] x: [364.7 - 459.7]: or treatment interventions
+  y: [295.8 - 305.9] x: [397.8 - 426.6]: (Class I)
+  y: [227.1 - 247.8] x: [326.7 - 355.8]: Minor bleeding
+  y: [221.7 - 253.2] x: [386.4 - 438.6]: Non-life- threatening major bleeding
+  y: [221.7 - 242.5] x: [455.5 - 511.7]: Life-threatening or bleeding into
+  y: [243.1 - 253.2] x: [461.4 - 505.8]: a critical site
+  y: [360.4 - 436.7] x: [145.1 - 197.4]: Fluid replacement Blood transfusion Consider need for vitamin K, FFP, PCC
+  y: [360.4 - 403.6] x: [215.9 - 259.6]: Fluid replacement Blood transfusion
+  y: [407.1 - 427.8] x: [215.9 - 250.6]: PCC (Class IIa)
+  y: [434.0 - 498.5] x: [215.9 - 268.8]: FFP if PCC not available Replacement of platelets where appropriate
+  y: [360.4 - 491.0] x: [387.7 - 440.8]: Fluid replacement Blood transfusion Consider oral charcoal or gastric lavage if 
+  y: [360.4 - 436.7] x: [459.5 - 503.2]: Fluid replacement Blood transfusion Specific antidotes (Class IIa)
+  y: [441.1 - 538.6] x: [459.5 - 508.1]: PCC if no antidotes available Replacement of platelets where appropriate Monitor
+  y: [322.2 - 332.3] x: [148.1 - 503.0]: Multidisciplinary team approach Multidisciplinary team approach
+  y: [699.9 - 719.8] x: [41.3 - 541.6]: Figure 11 Management of oral anticoagulant-related bleeding in patients with AF.
+  y: [26.0 - 36.0] x: [36.9 - 597.8]: 3350                                                                            
+  y: [202.9 - 590.9] x: [571.4 - 578.9]: Downloaded from https://academic.oup.com/eurheartj/article/45/36/3314/7738779 by
+
+*** FIGURE 12 (PAGE 41) ==================== ***
+  y: [116.2 - 123.8] x: [387.0 - 392.1]: N
+  y: [77.7 - 87.2] x: [231.9 - 345.3]: Cardioversion for atrial fibrillation
+  y: [116.3 - 123.8] x: [252.0 - 256.0]: Y
+  y: [188.6 - 208.0] x: [348.2 - 459.8]: Check OAC status as soon as  possible and proceed to last step
+  y: [388.9 - 398.4] x: [126.0 - 179.5]: Pharmacological
+  y: [398.8 - 418.1] x: [130.4 - 175.2]: or electrical cardioversion
+  y: [418.5 - 428.0] x: [136.5 - 169.1]: (Class IIa)
+  y: [614.6 - 636.3] x: [143.9 - 436.6]: Decide on continued OAC post-cardioversion Short-term OAC after cardioversion (4
+  y: [254.9 - 264.4] x: [146.2 - 242.2]: Already on therapeutic OAC
+  y: [259.8 - 274.2] x: [158.2 - 397.1]: for minimum 3 weeks Not already on OAC
+  y: [384.0 - 393.5] x: [209.3 - 253.5]: Wait-and-see
+  y: [393.9 - 413.2] x: [210.2 - 252.6]: approach for spontaneous
+  y: [413.5 - 423.0] x: [213.3 - 249.5]: conversion
+  y: [423.4 - 432.9] x: [215.1 - 247.7]: (Class IIa)
+  y: [373.6 - 383.1] x: [374.3 - 438.0]: Initiation of DOAC
+  y: [383.4 - 392.9] x: [377.9 - 436.6]: (or VKA, LMWH,
+  y: [393.3 - 432.3] x: [379.1 - 435.3]: or UFH) for  unscheduled  cardioversion as  soon as possible
+  y: [432.6 - 442.1] x: [389.8 - 422.4]: (Class IIa)
+  y: [368.1 - 387.5] x: [291.4 - 356.3]: Therapeutic OAC for at least 3 weeks
+  y: [387.8 - 397.3] x: [295.5 - 352.3]: before scheduled
+  y: [397.7 - 417.0] x: [300.6 - 349.4]: cardioversion  (adherence to
+  y: [417.3 - 436.8] x: [291.2 - 358.8]: DOACs or  INR ≥2.0 for VKAs)
+  y: [437.0 - 446.5] x: [310.3 - 337.4]: (Class I)
+  y: [299.8 - 319.1] x: [304.1 - 346.1]: Suitable for wait-and-see
+  y: [319.5 - 338.8] x: [308.8 - 341.4]: approach (Class IIa)
+  y: [310.2 - 319.7] x: [382.6 - 429.7]: Cardioversion
+  y: [320.1 - 329.6] x: [386.8 - 425.5]: cannot wait
+  y: [115.2 - 124.7] x: [278.9 - 362.4]: Haemodynamically stable
+  y: [143.6 - 153.1] x: [346.2 - 461.8]: Emergency electrical cardioversion
+  y: [153.5 - 162.9] x: [390.5 - 417.5]: (Class I)
+  y: [529.1 - 538.9] x: [168.4 - 412.7]: AF onset ≥24 h or unknown AF onset <24 h
+  y: [473.3 - 482.8] x: [296.3 - 353.8]: Elective electrical
+  y: [483.1 - 492.6] x: [302.2 - 348.8]: cardioversion,
+  y: [493.0 - 502.5] x: [309.9 - 340.3]: if needed
+  y: [220.3 - 229.8] x: [205.7 - 268.4]: Check OAC status
+  y: [478.2 - 487.7] x: [376.6 - 435.7]: Check current AF
+  y: [488.0 - 497.5] x: [378.1 - 434.2]: episode duration
+  y: [566.6 - 586.0] x: [155.7 - 232.7]: Pharmacological or electrical cardioversion
+  y: [566.6 - 576.1] x: [322.2 - 408.5]: TOE guided cardioversion
+  y: [576.5 - 585.9] x: [351.8 - 378.9]: (Class I)
+  y: [690.9 - 743.8] x: [41.3 - 541.6]: Figure 12 Approaches for cardioversion in patients with AF. AF, atrial fibrillat
+  y: [26.0 - 36.0] x: [36.9 - 597.8]: 3354                                                                            
+  y: [202.9 - 590.9] x: [571.4 - 578.9]: Downloaded from https://academic.oup.com/eurheartj/article/45/36/3314/7738779 by
+
+*** FIGURE 13 (PAGE 50) ==================== ***
+  y: [665.4 - 724.4] x: [42.5 - 293.9]: 8.4. Patient-reported outcome measures Patients with AF have a lower quality of 
+  y: [726.9 - 747.4] x: [42.5 - 293.9]: Patient-reported outcome measures are valuable to measure quality of  life, func
+  y: [661.6 - 747.5] x: [309.5 - 560.8]: with AF over time.55,733–735 Patient-reported outcome measures are  playing an i
+  y: [85.9 - 99.1] x: [98.0 - 144.9]: AF-CARE
+  y: [99.1 - 112.3] x: [101.4 - 141.6]: pathway
+  y: [85.9 - 99.1] x: [196.2 - 259.7]: Objective for
+  y: [99.1 - 112.3] x: [209.5 - 246.3]: imaging
+  y: [147.7 - 168.9] x: [190.9 - 264.9]: To identify comorbidities which
+  y: [169.3 - 179.7] x: [193.0 - 262.9]: are associated with
+  y: [180.1 - 201.3] x: [195.8 - 260.1]: recurrence and progression of AF
+  y: [253.9 - 275.1] x: [194.9 - 261.0]: To determine stroke risk, choice
+  y: [275.5 - 296.7] x: [198.5 - 257.4]: of anticoagulant drug and ensure
+  y: [297.1 - 318.3] x: [203.3 - 252.5]: safety for cardioversion
+  y: [371.1 - 381.5] x: [188.6 - 267.3]: To determine optimal
+  y: [482.4 - 492.8] x: [190.6 - 265.2]: To detect changes in
+  y: [493.2 - 514.4] x: [187.3 - 268.5]: the patient's heart structure and function
+  y: [514.8 - 536.0] x: [186.3 - 269.5]: which would affect their management plan
+  y: [142.4 - 177.1] x: [110.6 - 131.9]: C
+  y: [186.2 - 198.1] x: [75.0 - 167.9]: Comorbidity and risk
+  y: [198.2 - 210.1] x: [79.0 - 163.8]: factor management
+  y: [358.5 - 393.2] x: [112.2 - 130.3]: R
+  y: [414.4 - 438.3] x: [88.3 - 154.6]: by rate and rhythm control
+  y: [297.8 - 321.7] x: [81.1 - 161.9]: Avoid stroke and thromboembolism
+  y: [252.0 - 286.7] x: [111.2 - 131.2]: A
+  y: [514.9 - 526.9] x: [89.6 - 153.4]: Evaluation and
+  y: [526.9 - 550.9] x: [92.5 - 150.5]: dynamic reassessment
+  y: [471.1 - 505.8] x: [113.7 - 128.7]: E
+  y: [92.6 - 105.8] x: [326.0 - 382.4]: Assessment
+  y: [124.5 - 184.9] x: [289.6 - 426.3]: Left ventricular ejection fraction,  wall motion abnormalities, diastolic indice
+  y: [215.1 - 225.5] x: [289.6 - 394.6]: Detection of valvular disease
+  y: [189.8 - 210.2] x: [289.6 - 405.3]: Detection of pericardial fluid or pericardial disease
+  y: [237.1 - 259.6] x: [289.6 - 395.9]: Detection of heart failure for CHA2DS2-VA score
+  y: [295.7 - 336.1] x: [289.6 - 418.9]: Transoesophageal echocardiogram for left atrial appendage assessment to exclude 
+  y: [262.9 - 293.3] x: [289.6 - 419.1]: Detection of moderate-severe mitral stenosis to determine choice of anticoagulat
+  y: [478.8 - 499.2] x: [289.6 - 410.5]: Reassess known valve disease for increase in severity
+  y: [508.1 - 538.5] x: [289.6 - 420.6]: Reassess left ventricular size and function if there is a change in the patient’
+  y: [348.9 - 369.3] x: [289.6 - 417.5]: Left ventricular ejection fraction to determine choice of rate control
+  y: [394.5 - 414.9] x: [289.6 - 420.8]: Left ventricular size and function to determine choice of rhythm control
+  y: [371.7 - 392.1] x: [289.6 - 420.8]: Severity of valvular disease to determine choice of rhythm control
+  y: [417.3 - 447.8] x: [289.6 - 398.3]: Left atrial size and function to determine risk of arrhythmia recurrence followi
+  y: [85.9 - 99.1] x: [457.6 - 511.1]: Example of
+  y: [99.1 - 112.3] x: [460.7 - 508.0]: pathology
+  y: [128.5 - 140.4] x: [449.1 - 519.6]: Cardiac amyloid
+  y: [240.1 - 252.0] x: [458.0 - 510.7]: Clot in LAA
+  y: [348.8 - 372.7] x: [459.1 - 509.7]: Severe LV impairment
+  y: [460.4 - 484.3] x: [456.4 - 512.4]: Mixed mitral valve disease
+  y: [602.0 - 643.8] x: [47.0 - 547.2]: Figure 13 Relevance of echocardiography in the AF-CARE pathway. AF, atrial fibri
+  y: [26.0 - 36.0] x: [42.5 - 558.4]: ESC Guidelines                                                                  
+  y: [202.9 - 590.9] x: [571.4 - 578.9]: Downloaded from https://academic.oup.com/eurheartj/article/45/36/3314/7738779 by
+
+*** FIGURE 14 (PAGE 52) ==================== ***
+  y: [60.0 - 115.0] x: [42.5 - 294.1]: Prolonged triple therapy up to 1 month after ACS/PCI should  be considered in pa
+  y: [60.0 - 115.0] x: [309.5 - 561.1]: patients with ACS or CCS and diabetes mellitus undergoing  coronary stent implan
+  y: [226.5 - 235.8] x: [101.9 - 395.3]: When using VKA in combination with antiplatelet therapy, keep INR 2.0–2.5 and TT
+  y: [236.5 - 245.8] x: [232.8 - 264.4]: (Class IIa)
+  y: [226.5 - 235.8] x: [456.2 - 513.3]: VKA: INR 2.0–3.0
+  y: [236.5 - 245.8] x: [471.6 - 497.9]: (Class I)
+  y: [263.9 - 275.1] x: [194.2 - 409.1]: Clopidogrel is the preferred P2Y12i when combining with any OAC
+  y: [191.0 - 203.2] x: [103.6 - 499.7]: Use the appropriate DOAC dosea.  A reduced dose is not recommended unless the pa
+  y: [204.0 - 213.2] x: [286.5 - 316.8]: (Class III)
+  y: [171.5 - 180.7] x: [288.5 - 314.8]: (Class I)
+  y: [295.3 - 305.7] x: [80.6 - 468.3]: ACS, PCI or CCS Up to 1 week 1 month 6 months 12 months
+  y: [485.6 - 504.7] x: [68.1 - 119.2]: CCS uncomplicated
+  y: [504.8 - 514.3] x: [87.2 - 100.0]: PCI
+  y: [537.0 - 556.1] x: [76.8 - 110.5]: CCS high ischaemic
+  y: [555.1 - 565.7] x: [85.6 - 101.6]: riskb
+  y: [336.9 - 348.1] x: [133.2 - 178.5]: OAC + P2Y12i
+  y: [346.5 - 355.8] x: [141.8 - 169.9]: + aspirin
+  y: [356.1 - 365.4] x: [142.7 - 169.0]: (Class I)
+  y: [335.7 - 355.8] x: [74.0 - 524.0]: OAC only (Class I) ACS undergoing
+  y: [354.9 - 364.5] x: [87.2 - 100.0]: PCI
+  y: [345.2 - 356.4] x: [200.3 - 274.2]: OAC + P2Y12i (Class I)
+  y: [486.7 - 497.9] x: [133.2 - 178.5]: OAC + P2Y12i
+  y: [496.3 - 505.6] x: [140.7 - 171.0]: + aspirin
+  y: [505.9 - 515.2] x: [142.7 - 169.0]: (Class I)
+  y: [495.0 - 506.1] x: [200.3 - 425.0]: OAC only (Class I) OAC + P2Y12i (Class I)
+  y: [538.1 - 549.3] x: [133.2 - 178.5]: OAC + P2Y12i
+  y: [547.7 - 566.6] x: [139.8 - 171.9]: + aspirin (Class IIa)
+  y: [546.4 - 557.5] x: [262.9 - 425.0]: OAC only (Class I) OAC + P2Y12i (Class I)
+  y: [387.5 - 406.7] x: [76.8 - 110.5]: ACS high ischaemic
+  y: [405.6 - 416.3] x: [85.6 - 101.6]: riskb
+  y: [388.7 - 399.8] x: [132.3 - 179.4]: OAC + P2Y12i
+  y: [398.3 - 417.1] x: [139.8 - 171.9]: + aspirin (Class IIa)
+  y: [396.9 - 408.1] x: [257.0 - 524.0]: OAC only (Class I) OAC + P2Y12i (Class I)
+  y: [435.9 - 455.0] x: [77.3 - 109.9]: ACS medically
+  y: [455.1 - 464.6] x: [78.0 - 109.3]: managed
+  y: [446.6 - 455.9] x: [468.4 - 501.2]: OAC only
+  y: [590.2 - 599.5] x: [468.4 - 501.2]: OAC only
+  y: [446.6 - 457.8] x: [200.3 - 245.6]: OAC + P2Y12i
+  y: [664.1 - 750.0] x: [47.0 - 547.3]: Figure 14 Antithrombotic therapy in patients with AF and acute or chronic corona
+  y: [26.0 - 36.0] x: [42.5 - 558.4]: ESC Guidelines                                                                  
+  y: [202.9 - 590.9] x: [571.4 - 578.9]: Downloaded from https://academic.oup.com/eurheartj/article/45/36/3314/7738779 by
+
+*** FIGURE 15 (PAGE 59) ==================== ***
+  y: [58.2 - 69.0] x: [36.9 - 285.8]: of AF has been estimated to be as high as 1 in 3 for older individuals,1038
+  y: [72.0 - 116.9] x: [36.9 - 288.3]: with age-standardized incidence rates higher for men than women.  Populations of
+  y: [119.9 - 164.9] x: [36.9 - 288.3]: Socioeconomic and other factors likely play a role in racial and ethnic  differe
+  y: [59.8 - 164.8] x: [303.8 - 555.3]: 10.2. Screening tools for AF In recent years, an abundance of novel devices that
+  y: [289.9 - 302.0] x: [171.7 - 408.0]: Diagnostic for AF if diagnosis is confirmed by a physician
+  y: [300.4 - 312.4] x: [272.7 - 307.0]: (Class I)
+  y: [528.6 - 540.7] x: [203.8 - 375.9]: Not diagnostic (may be indicative for AF)
+  y: [405.2 - 417.3] x: [82.4 - 112.5]: Tracing
+  y: [245.6 - 261.5] x: [230.7 - 349.8]: ECG-based methods
+  y: [484.5 - 500.4] x: [230.7 - 379.0]: Non ECG-based methods
+  y: [343.1 - 354.0] x: [323.6 - 466.1]: 6 >6
+  y: [571.6 - 583.7] x: [82.3 - 115.3]: Method
+  y: [634.3 - 646.4] x: [82.3 - 112.5]: Tracing
+  y: [555.9 - 578.3] x: [145.1 - 249.6]: Pulse palpation Oscillometry
+  y: [588.2 - 599.2] x: [272.4 - 497.0]: Contact Contactless Contactless
+  y: [555.9 - 578.3] x: [310.1 - 489.1]: PPG Smart speaker Mechano- cardiography
+  y: [716.4 - 736.3] x: [41.3 - 541.5]: Figure 15 Non-invasive diagnostic methods for AF screening. AF, atrial fibrillat
+  y: [26.0 - 36.0] x: [36.9 - 597.8]: 3372                                                                            
+  y: [202.9 - 590.9] x: [571.4 - 578.9]: Downloaded from https://academic.oup.com/eurheartj/article/45/36/3314/7738779 by
+
+*** FIGURE 16 (PAGE 61) ==================== ***
+  y: [59.9 - 220.7] x: [303.8 - 555.3]: 10.3.1. Single timepoint screening ‘snapshot’ Several cluster RCTs in primary ca
+  y: [237.2 - 282.9] x: [303.8 - 555.3]: 10.3.2. Prolonged screening Studies using prolonged screening have shown an incr
+  y: [285.4 - 305.9] x: [303.8 - 555.3]: In the STROKESTOP trial (Systematic ECG Screening for Atrial  Fibrillation Among
+  y: [60.4 - 79.4] x: [42.9 - 282.4]: Recommendation Table 31 — Recommendations for  screening for AF (see also Eviden
+  y: [90.6 - 100.2] x: [42.9 - 279.8]: Recommendations Classa Levelb
+  y: [110.2 - 118.2] x: [42.9 - 209.8]: Review of an ECG (12-lead, single, or multiple leads)
+  y: [122.2 - 142.1] x: [42.9 - 209.8]: by a physician is recommended to provide a definite  diagnosis of AF and commenc
+  y: [144.5 - 154.2] x: [42.9 - 138.2]: management.1091,1121–1123,1125
+  y: [127.9 - 135.9] x: [230.6 - 270.7]: I B
+  y: [159.1 - 167.1] x: [42.9 - 208.9]: Routine heart rhythm assessment during healthcare
+  y: [171.0 - 179.2] x: [42.9 - 207.4]: contact is recommended in all individuals aged ≥65
+  y: [183.2 - 191.2] x: [42.9 - 146.7]: years for earlier detection of AF.
+  y: [170.9 - 178.9] x: [230.6 - 271.0]: I C
+  y: [196.2 - 204.2] x: [42.9 - 209.8]: Population-based screening for AF using a prolonged
+  y: [208.2 - 228.1] x: [42.9 - 199.9]: non-invasive ECG-based approach should be  considered in individuals aged ≥75 ye
+  y: [219.9 - 227.9] x: [227.2 - 270.7]: IIa B
+  y: [216.6 - 252.4] x: [288.1 - 295.1]: © ESC 2024
+  y: [261.8 - 304.9] x: [37.9 - 286.7]: AF, atrial fibrillation; CHA2DS2-VA, congestive heart failure, hypertension, age
+  y: [395.6 - 407.2] x: [106.2 - 144.9]: Screening
+  y: [407.6 - 419.2] x: [107.0 - 144.1]: approach
+  y: [395.6 - 407.2] x: [209.6 - 252.5]: Population
+  y: [407.6 - 419.2] x: [214.2 - 247.9]: example
+  y: [395.6 - 419.2] x: [291.4 - 343.9]: Setting for  AF detection
+  y: [395.6 - 419.2] x: [375.6 - 413.7]: Type of screening
+  y: [395.6 - 419.2] x: [468.7 - 508.3]: Follow AF-CARE
+  y: [459.1 - 478.0] x: [61.3 - 115.4]: After thromboembolic
+  y: [478.3 - 487.6] x: [79.6 - 97.1]: event
+  y: [459.1 - 478.0] x: [202.4 - 259.3]: Patients with embolic stroke of
+  y: [478.3 - 487.6] x: [203.9 - 257.8]: unknown source
+  y: [535.5 - 545.1] x: [207.2 - 255.6]: Age ≥65 years,
+  y: [545.3 - 564.1] x: [201.1 - 260.9]: or risk of thromboembolism
+  y: [603.8 - 623.0] x: [202.7 - 259.4]: Age ≥75 years, or ≥65 years plus
+  y: [623.2 - 643.9] x: [209.4 - 252.7]: other CHA2DS2-VA
+  y: [642.4 - 651.7] x: [219.9 - 242.1]: factors
+  y: [464.5 - 473.8] x: [289.1 - 332.6]: Initiated after
+  y: [474.1 - 483.4] x: [292.1 - 329.6]: index event
+  y: [535.7 - 554.5] x: [281.2 - 340.5]: At the time of routine healthcare
+  y: [554.9 - 564.1] x: [298.8 - 323.0]: contact
+  y: [608.8 - 618.1] x: [279.8 - 342.0]: Structured national
+  y: [618.4 - 627.7] x: [293.2 - 328.6]: or regional
+  y: [628.0 - 646.9] x: [290.6 - 331.2]: screening programmes
+  y: [540.5 - 549.7] x: [71.7 - 104.9]: Ad-hoc to
+  y: [550.1 - 559.3] x: [74.5 - 102.1]: catch AF
+  y: [616.4 - 625.7] x: [63.3 - 113.3]: In patients with
+  y: [626.0 - 635.3] x: [70.2 - 106.5]: risk factors
+  y: [519.5 - 538.4] x: [142.3 - 171.7]: Patient informed
+  y: [538.7 - 557.6] x: [137.9 - 176.1]: about implications
+  y: [557.9 - 576.8] x: [141.6 - 172.4]: of AF detection
+  y: [450.4 - 474.3] x: [482.5 - 497.2]: C
+  y: [477.2 - 486.5] x: [455.1 - 524.5]: Comorbidity and risk
+  y: [486.8 - 496.1] x: [458.6 - 521.0]: factor management
+  y: [502.7 - 526.7] x: [483.0 - 496.9]: A
+  y: [529.5 - 548.4] x: [460.0 - 519.8]: Avoid stroke and thromboembolism
+  y: [555.0 - 579.0] x: [483.7 - 496.2]: R
+  y: [581.9 - 600.7] x: [452.0 - 527.8]: Reduce symptoms by rate and rhythm control
+  y: [607.4 - 631.3] x: [484.8 - 495.1]: E
+  y: [634.2 - 653.1] x: [454.0 - 525.7]: Evaluation and  dynamic reassessment
+  y: [524.4 - 543.2] x: [364.5 - 425.4]: Any rhythm check, confirmed by ECG
+  y: [548.3 - 567.1] x: [363.8 - 425.5]: Routine heart rhythm assessment
+  y: [567.5 - 576.7] x: [381.5 - 407.9]: (Class I)
+  y: [447.2 - 466.0] x: [366.0 - 423.4]: Invasive or non-invasive ECG
+  y: [472.0 - 490.9] x: [376.8 - 412.5]: Prolonged monitoring
+  y: [491.2 - 500.5] x: [381.5 - 407.9]: (Class I)
+  y: [606.8 - 616.1] x: [365.9 - 423.4]: Population-based
+  y: [626.2 - 635.5] x: [364.9 - 424.5]: Non-invasive ECG
+  y: [635.8 - 645.1] x: [378.8 - 410.6]: (Class IIa)
+  y: [705.6 - 747.5] x: [41.3 - 541.6]: Figure 16 Approaches to screening for AF. AF, atrial fibrillation; AF-CARE, atri
+  y: [26.0 - 36.0] x: [36.9 - 597.8]: 3374                                                                            
+  y: [202.9 - 590.9] x: [571.4 - 578.9]: Downloaded from https://academic.oup.com/eurheartj/article/45/36/3314/7738779 by
+

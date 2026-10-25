@@ -1,0 +1,480 @@
+
+--- PAGE 12 ---
+Table 4 Revised recommendations
+Recommendations in 2020 version
+Classa
+Levelb
+Recommendations in 2024 version
+Classa
+Levelb
+Section 3.2—Diagnostic criteria for AF
+ECG documentation is required to establish the 
+diagnosis of AF. A standard 12-lead ECG recording or a 
+single-lead ECG tracing of ≥30 s showing heart rhythm 
+with no discernible repeating P waves and irregular RR 
+intervals (when atrioventricular conduction is not 
+impaired) is diagnostic of clinical AF.
+I
+B
+Confirmation by an electrocardiogram (12-lead, 
+multiple, or single leads) is recommended to establish 
+the diagnosis of clinical AF and commence risk 
+stratification and treatment.
+I
+A
+In patients with AF, it is recommended to: 
+• Evaluate AF-related symptoms (including fatigue, 
+tiredness, exertional shortness of breath, palpitations, 
+and chest pain) and quantify the patient symptom 
+status using the modified EHRA symptom scale 
+before and after initiation of treatment.
+• Evaluate AF-related symptoms before and after 
+cardioversion of persistent AF to aid rhythm control 
+treatment decisions.
+I
+C
+Evaluating the impact of AF-related symptoms is 
+recommended before and after major changes in 
+treatment to inform shared decision-making and guide 
+treatment choices.
+I
+B
+Section 5—[C] Comorbidity and risk factor management
+Attention to good BP control is recommended in AF 
+patients with hypertension to reduce AF recurrences 
+and risk of stroke and bleeding.
+I
+B
+Blood pressure lowering treatment is recommended in 
+patients with AF and hypertension to reduce 
+recurrence and progression of AF and prevent adverse 
+cardiovascular events.
+I
+B
+In obese patients with AF, weight loss together with 
+management of other risk factors should be considered 
+to reduce AF incidence, AF progression, AF 
+recurrences, and symptoms.
+IIa
+B
+Weight loss is recommended as part of comprehensive 
+risk factor management in overweight and obese 
+individuals with AF to reduce symptoms and AF burden, 
+with a target of 10% or more reduction in body weight.
+I
+B
+Physical activity should be considered to help prevent 
+AF incidence or recurrence, with the exception of 
+excessive endurance exercise, which may promote AF.
+IIa
+C
+A tailored exercise programme is recommended in 
+individuals with paroxysmal or persistent AF to improve 
+cardiorespiratory fitness and reduce AF recurrence.
+I
+B
+Advice and management to avoid alcohol excess should 
+be considered for AF prevention and in AF patients 
+considered for OAC therapy.
+IIa
+B
+Reducing alcohol consumption to ≤3 standard drinks 
+(≤30 grams of alcohol) per week is recommended as 
+part of comprehensive risk factor management to 
+reduce AF recurrence.
+I
+B
+Section 6.6—Surgical left atrial appendage occlusion
+Surgical occlusion or exclusion of the LAA may be 
+considered for stroke prevention in patients with AF 
+undergoing cardiac surgery.
+IIb
+C
+Surgical closure of the left atrial appendage is 
+recommended as an adjunct to oral anticoagulation in 
+patients with AF undergoing cardiac surgery to prevent 
+ischaemic stroke and thromboembolism.
+I
+B
+Section 6.7—Bleeding risk
+For a formal risk-score-based assessment of bleeding 
+risk, the HAS-BLED score should be considered to help 
+address modifiable bleeding risk factors, and to identify 
+patients at high risk of bleeding (HAS-BLED score ≥3) 
+for early and more frequent clinical review and 
+follow-up.
+IIa
+B
+Assessment and management of modifiable bleeding 
+risk factors is recommended in all patients eligible for 
+oral anticoagulation, as part of shared decision-making 
+to ensure safety and prevent bleeding.
+I
+B
+Continued 
+ESC Guidelines                                                                                                                                                                                          3325
+Downloaded from https://academic.oup.com/eurheartj/article/45/36/3314/7738779 by guest on 31 March 2026
+
+--- PAGE 13 ---
+3. Definitions and clinical impact
+3.1. Definition and classification of AF
+Atrial fibrillation is one of the most common heart rhythm disorders. 
+A supraventricular arrhythmia with uncoordinated atrial activation, 
+AF results in a loss of effective atrial contraction (see 
+Supplementary data online for pathophysiology). AF is reflected on 
+the surface electrocardiogram (ECG) by the absence of discernible 
+and regular P waves, and irregular activation of the ventricles. This re­
+sults in no specific pattern to RR intervals, in the absence of an atrio­
+ventricular block. The definition of AF by temporal pattern is 
+presented in Table 5. It should be noted that these categories reflect 
+observed episodes of AF and do not suggest the underlying patho­
+physiological process. Some patients may progress consecutively 
+through these categories, while others may need periodic reclassifica­
+tion due to their individual clinical status. Over time, some patients 
+with AF develop atrial and ventricular damage, which can make at­
+tempts at rhythm control futile. For this reason, or when patients 
+and physicians make a joint decision for rate control, AF is classified 
+as permanent (the most common ‘type’ of AF in historical registries).1
+Despite many limitations, this task force have retained this temporal 
+approach because most trials in patients with AF have used these de­
+finitions. Classifying AF by underlying drivers could inform manage­
+ment, but the evidence in support of the clinical use of such 
+classification is currently lacking.
+Several other classifications have been applied to patients with AF, 
+many of which have limited evidence to support them. The definition 
+of AF is a developing field and ongoing research may allow for 
+pathology-based strategies that could facilitate personalized manage­
+ment in the future. Table 6 presents some commonly used concepts 
+in current clinical practice. Due to the lack of supporting evidence (par­
+ticularly for the time periods stated), this task force have edited and up­
+dated these definitions by consensus.
+Section 7.2—Rhythm control strategies in patients with AF
+AF catheter ablation for PVI should/may be considered 
+as first-line rhythm control therapy to improve 
+symptoms in selected patients with symptomatic: 
+• Paroxysmal AF episodes.
+IIa
+B
+Catheter ablation is recommended as a first-line option 
+within a shared decision-making rhythm control 
+strategy in patients with paroxysmal AF, to reduce 
+symptoms, recurrence, and progression of AF.
+I
+A
+Thoracoscopic procedures—including hybrid surgical 
+ablation—should be considered in patients who have 
+symptomatic paroxysmal or persistent AF refractory to 
+AAD therapy and have failed percutaneous AF ablation, 
+or with evident risk factors for catheter ablation failure, 
+to maintain long-term sinus rhythm. The decision must 
+be supported by an experienced team of 
+electrophysiologists and surgeons.
+IIa
+B
+Endoscopic and hybrid ablation procedures may be 
+considered in patients with symptomatic paroxysmal 
+AF refractory to AAD therapy and failed percutaneous 
+catheter ablation strategy to prevent symptoms, 
+recurrence, and progression of AF, within a shared 
+decision-making rhythm control team of 
+electrophysiologists and surgeons.
+IIb
+B
+Thoracoscopic procedures—including hybrid surgical 
+ablation—may be considered in patients with persistent 
+AF with risk factors for recurrence, who remain 
+symptomatic during AF despite at least one failed AAD 
+and who prefer further rhythm control therapy.
+IIb
+C
+Endoscopic and hybrid ablation procedures should be 
+considered in patients with symptomatic persistent AF 
+refractory to AAD therapy to prevent symptoms, 
+recurrence, and progression of AF, within a shared 
+decision-making rhythm control team of 
+electrophysiologists and surgeons.
+IIa
+A
+Concomitant AF ablation should be considered in 
+patients undergoing cardiac surgery, balancing the 
+benefits of freedom from atrial arrhythmias and the risk 
+factors for recurrence (left atrial dilatation, years in AF, 
+age, renal dysfunction, and other cardiovascular risk 
+factors).
+IIa
+A
+Concomitant surgical ablation is recommended in 
+patients undergoing mitral valve surgery and AF suitable 
+for a rhythm control strategy to prevent symptoms and 
+recurrence of AF, with shared decision-making 
+supported by an experienced team of 
+electrophysiologists and arrhythmia surgeons.
+I
+A
+Section 9.6—Post-operative AF
+Long-term OAC therapy to prevent thromboembolic 
+events may be considered in patients at risk for stroke 
+with post-operative AF after cardiac surgery, 
+considering the anticipated net clinical benefit of OAC 
+therapy and informed patient preferences.
+IIb
+B
+Long-term oral anticoagulation should be considered in 
+patients with post-operative AF after cardiac and 
+non-cardiac surgery at elevated thromboembolic risk, 
+to prevent ischaemic stroke and thromboembolism.
+IIa
+B
+© ESC 2024
+AAD, antiarrhythmic drugs; AF, atrial fibrillation; BP, blood pressure; ECG, electrocardiogram; EHRA, European Heart Rhythm Association; HAS-BLED, Hypertension, Abnormal renal/liver 
+function, Stroke, Bleeding history or predisposition, Labile international normalized ratio, Elderly (>65 years), Drugs/alcohol concomitantly; LAA, left atrial appendage; OAC, oral 
+anticoagulant; PVI, pulmonary vein isolation; RR, relative risk. 
+aClass of recommendation. 
+bLevel of evidence.
+3326                                                                                                                                                                                         
+ESC Guidelines
+Downloaded from https://academic.oup.com/eurheartj/article/45/36/3314/7738779 by guest on 31 March 2026
+
+--- PAGE 14 ---
+3.2. Diagnostic criteria for AF
+In many patients, the diagnosis of AF is straightforward, e.g. typical 
+symptoms associated with characteristic features on a standard 
+12-lead ECG that indicate the need for AF management. Diagnosis be­
+comes more challenging in the context of asymptomatic episodes or AF 
+detected on longer-term monitoring devices, particularly those that do 
+Table 6 Other clinical concepts relevant to AF
+Clinical concept
+Definition
+Clinical AF
+Symptomatic or asymptomatic AF that is 
+clearly documented by an ECG (12-lead 
+ECG or other ECG devices). The 
+minimum duration to establish the 
+diagnosis of clinical AF for ambulatory 
+ECG is not clear and depends on the 
+clinical context. Periods of 30 s or more 
+may indicate clinical concern, and trigger 
+further monitoring or risk stratification 
+for thromboembolism.
+Device-detected 
+subclinical AF
+Device-detected subclinical AF refers to 
+asymptomatic episodes of AF detected 
+on continuous monitoring devices. These 
+devices include implanted cardiac 
+electronic devices, for which most atrial 
+high-rate episodesa may be AF, as well as 
+consumer-based wearable monitors. 
+Confirmation is needed by a competent 
+professional reviewing intracardiac 
+electrograms or an ECG-recorded 
+rhythm.5,6 Device-detected subclinical 
+AF is a predictor of future clinical AF.7
+Continued 
+Table 5 Definitions and classifications for the temporal 
+pattern of AF
+Temporal 
+classification
+Definition
+First-diagnosed AF
+AF that has not been diagnosed before, 
+regardless of symptom status, temporal pattern, 
+or duration.
+Paroxysmal AF
+AF which terminates spontaneously within 7 
+days or with the assistance of an intervention. 
+Evidence suggests that most self-terminating 
+paroxysms last <48 h.2
+Persistent AF
+AF episodes which are not self-terminating. 
+Many intervention trials have used 7 days as a 
+cut-off for defining persistent AF.3,4
+Long-standing persistent AF is arbitrarily defined 
+as continuous AF of at least 12 months’ duration 
+but where rhythm control is still a treatment 
+option in selected patients, distinguishing it from 
+permanent AF.
+Permanent AF
+AF for which no further attempts at restoration 
+of sinus rhythm are planned, after a shared 
+decision between the patient and physician.
+© ESC 2024
+AF, atrial fibrillation.
+AF burden
+The overall time spent in AF during a 
+clearly specified and reported period of 
+monitoring, expressed as a percentage of 
+time.
+Recent-onset AF
+There is accumulating data on the value 
+of the term recent-onset AF in 
+decision-making for acute 
+pharmacological or electrical 
+cardioversion of AF. The cut-off time 
+interval to define this entity has not yet 
+been established.8–10
+Trigger-induced AF
+New AF episode in close proximity to a 
+precipitating and potentially reversible 
+factor.11–14
+Early AF
+The time since diagnosis that qualifies for 
+early AF is dissociated from any 
+underlying atrial cardiomyopathy and is 
+not well defined, broadly ranging from 3 
+to 24 months.15–17 The definition of early 
+AF also does not necessarily determine 
+early timing of intervention.
+Self-terminating AF
+Paroxysmal AF which terminates 
+spontaneously.2 This definition may be of 
+value for decisions on acute rhythm 
+control taken jointly by the patient and 
+healthcare provider.
+Non-self-terminating AF
+Atrial fibrillation which does not 
+terminate spontaneously and, if needed, 
+termination can be achieved only with an 
+intervention.
+Atrial cardiomyopathy
+A combination of structural, electrical, or 
+functional changes in the atria that leads 
+to clinical impact (e.g. progression/ 
+recurrence of AF, limited effectiveness of 
+AF therapy, and/or development of heart 
+failure).18,19 Atrial cardiomyopathy 
+includes inflammatory and 
+prothrombotic remodelling of the atria, 
+neurohormonal activation (thereby 
+affecting the ventricles), and fibrosis of 
+myocardial tissue.20
+© ESC 2024
+AF, atrial fibrillation; b.p.m., beats per minute; ECG, electrocardiogram. 
+aAtrial high-rate episodes are defined as episodes generally lasting more than 5 min with an 
+atrial lead rate ≥170 b.p.m.,7,21–24 detected by implanted cardiac devices that allow for 
+automated continuous monitoring and storage of atrial rhythm. Atrial high-rate episodes 
+need to be visually inspected because some may be electrical artefacts or false positives.
+ESC Guidelines                                                                                                                                                                                          3327
+Downloaded from https://academic.oup.com/eurheartj/article/45/36/3314/7738779 by guest on 31 March 2026
+
+--- PAGE 15 ---
+not provide an ECG (see Section 10). To guard against inappropriate 
+diagnosis of AF, this task force continues to recommend that ECG 
+documentation is required to initiate risk stratification and AF manage­
+ment. In current practice, ECG confirmation can include multiple op­
+tions: not only where AF persists across a standard 12-lead ECG, but 
+also single- and multiple-lead devices that provide an ECG (see 
+Supplementary data online, Additional Evidence Table S1). This does 
+not include non-ECG wearables and other devices that typically use 
+photoplethysmography. Note that many pivotal AF trials required 
+two or more ECGs documenting AF, or an established AF diagnosis be­
+fore randomization.25–29 The time period of AF required for diagnosis 
+on monitoring devices is not clear cut. A standard 12-lead ECG mea­
+sures 10 s, while 30 s or more on single-lead or multiple-lead ECG de­
+vices has generally been the consensus opinion, albeit with limited 
+evidence.
+3.3. Symptoms attributable to AF
+Symptoms related to episodes of AF are variable and broad, and not 
+just typical palpitations (Figure 1). Asymptomatic episodes of AF can 
+occur,30 although 90% of patients with AF describe symptoms with 
+variable severity.31 Even in symptomatic patients, some episodes of 
+AF may remain asymptomatic.32,33 The presence or absence of symp­
+toms is not related to incident stroke, systemic embolism, or mortal­
+ity.34 However, symptoms do impact on patient quality of life.35,36
+Cardiac-specific AF symptoms such as palpitations are less common 
+than non-specific symptoms such as fatigue, but they significantly 
+impair quality of life.36,37 Although women are often underrepresented 
+in clinical trials of AF,38–40 the available literature suggests that 
+women with AF appear to be more symptomatic and have poorer 
+quality of life.41,42 Patients with AF report a higher burden of anxiety 
+and severity of depression (odds ratio [OR], 1.08; 95% confidence 
+interval [CI], 1.02–1.15; P = .009) as compared with the general 
+population,43,44 with higher prevalence of these symptoms in women 
+with AF.45
+Assessment of AF-related symptoms should be recorded initially, 
+after a change in treatment, or before and after intervention. The 
+modified European Heart Rhythm Association score (mEHRA) 
+symptom classification (Table 7) is similar to the New York 
+Heart Association (NYHA) functional class for heart failure. It cor­
+relates with quality of life scores in clinical trials, is associated with 
+clinical progress and events, and may be a valuable starting point 
+in routine practice to assess the burden and impact of symptoms to­
+gether with the patient.46–48 Note that symptoms may also relate to 
+associated comorbidities and not just the AF component. The 
+patient-related effects of symptoms from AF over time can alterna­
+tively be evaluated using patient-reported outcome measures (see 
+Section 8.4).
+3.4. Diagnostic evaluation of new AF
+All patients with AF should be offered a comprehensive diagnostic as­
+sessment and review of medical history to identify risk factors and/or 
+comorbidities needing active treatment. Table 8 displays the essential 
+diagnostic work-up for a patient with AF.
+A 12-lead ECG is warranted in all AF patients to confirm rhythm, de­
+termine ventricular rate, and look for signs of structural heart disease, 
+conduction defects, or ischaemia.56 Blood tests should be carried out 
+(kidney function, serum electrolytes, liver function, full blood count, glu­
+cose/glycated haemoglobin [HbA1c], and thyroid tests) to detect any 
+concomitant conditions that may exacerbate AF or increase the risk 
+of bleeding and/or thromboembolism.57,58
+Other investigations will depend on individualized assessment and 
+the planned treatment strategy.59–65 A transthoracic echocardiogram 
+(TTE) should be carried out in the initial work-up, where this will guide 
+management decisions, or in patients where there is a change in cardio­
+vascular signs or symptoms. The task force recognizes that accessibility 
+to TTE might be limited or delayed in the primary care setting, but this 
+should not delay initiation of oral anticoagulation (OAC) or other com­
+ponents of AF-CARE where indicated.66 Further details on TTE and re­
+assessment (e.g. if elevated heart rate limits diagnostic imaging, or 
+where there is a change in clinical status) are presented in Section 8.3. 
+Additional imaging using different modalities may be required to assist 
+with comorbidity and AF-related management (see Supplementary 
+data online, Figure S1).
+Recommendation Table 1 — Recommendations for the 
+diagnosis of AF (see also Evidence Table 1)
+Recommendations
+Classa
+Levelb
+Confirmation by an electrocardiogram (12-lead, 
+multiple, or single leads) is recommended to establish 
+the diagnosis of clinical AF and commence risk 
+stratification and treatment.25–29
+I
+A
+© ESC 2024
+AF, atrial fibrillation. 
+aClass of recommendation. 
+bLevel of evidence.
+Recommendation Table 2 — Recommendations for 
+symptom evaluation in patients with AF (see also 
+Evidence Table 2)
+Recommendations
+Classa
+Levelb
+Evaluating the impact of AF-related symptoms is 
+recommended before and after major changes in 
+treatment to inform shared decision-making and 
+guide treatment choices.17,36,46–55
+I
+B
+© ESC 2024
+AF, atrial fibrillation. 
+aClass of recommendation. 
+bLevel of evidence.
+Recommendation Table 3 — Recommendations for 
+diagnostic evaluation in patients with new AF (see also 
+Evidence Table 3)
+Recommendations
+Classa
+Levelb
+A transthoracic echocardiogram is recommended in 
+patients with an AF diagnosis where this will guide 
+treatment decisions.59,65,67
+I
+C
+© ESC 2024
+AF, atrial fibrillation. 
+aClass of recommendation. 
+bLevel of evidence.
+3328                                                                                                                                                                                         
+ESC Guidelines
+Downloaded from https://academic.oup.com/eurheartj/article/45/36/3314/7738779 by guest on 31 March 2026

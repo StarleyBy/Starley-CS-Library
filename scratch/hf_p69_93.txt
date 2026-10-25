@@ -1,0 +1,2657 @@
+
+=== PAGE 69 ===
+Circulation. 2022;145:e895–e1032. DOI: 10.1161/CIR.0000000000001063 May 3, 2022 e963
+CLINICAL STATEMENTS 
+AND GUIDELINES
+Heidenreich et al 2022 AHA/ACC/HFSA Heart Failure Guideline
+or rehospitalization compared with no carvedilol 
+use.12,13 Discharge use of beta blockers is also 
+associated with lower 30-day all-cause mortality 
+and 4-year all-cause mortality/all-cause read-
+mission. 14 Caution should be used when initiating 
+beta blockers in patients who have required ino-
+tropes during hospitalization. In GWTG-HF, initia-
+tion of ACEi-ARB in patients hospitalized with 
+HFrEF reduced 30-day and 1-year mortality. 2 
+Among patients hospitalized with HFrEF, initia-
+tion of ACEi-ARB also is associated with lower 
+risk of 30-day all-cause readmission and all-
+cause mortality. 15 In a claims study, initiation of 
+MRA therapy at hospital discharge was associ-
+ated with improved HF readmission but not mor-
+tality or cardiovascular readmission among older 
+adults hospitalized with HFrEF. 16 In COACH, 
+initiating spironolactone among patients hospi-
+talized with HFrEF was associated with lower 
+30-day mortality and HF rehospitalization. 3 In 
+the PIONEER-HF trial, ARNi use was associ-
+ated with reduced NT-proBNP levels in patients 
+hospitalized for acute decompensated HF with-
+out increased rates of adverse events (worsen-
+ing renal function, hyperkalemia, symptomatic 
+hypotension, angioedema) when compared with 
+enalapril. 18 In the ARIC study, initiation of any oral 
+GDMT was associated with reduced 1-year mor-
+tality among patients hospitalized with HFrEF. 5 In 
+SOLOIST-WHF, initiation of sotagliflozin before 
+or shortly after discharge reduced cardiovascular 
+mortality and hospitalization. 17
+4. Nearly half (46%) of patients with HFrEF have 
+no changes made to oral GDMT in the 12 
+months after hospitalization despite many being 
+discharged on suboptimal doses. 21 From claims-
+based studies, 42% of patients with HFrEF 
+are not prescribed any GDMT within 30 days 
+post-index hospitalization, 20 and 45% are pre-
+scribed either no oral GDMT or monotherapy 
+within 1-year post-index hospitalization. 21 From 
+CHAMP-HF, initiation or dose increases of beta 
+blockers, ACEi-ARB-ARNi, and MRA occur in 
+≤10% of patients with HFrEF within 1 year of 
+hospitalization. 22 Very few eligible patients with 
+HFrEF receive target doses of beta blockers 
+(18.7%), ACEi-ARB (10.8%), or ARNi (2.0%). 6 
+Less than 1% of patients with HFrEF are on tar-
+get doses of ACEi-ARB-ARNi, beta blockers, and 
+MRA within 12 months of an index hospitaliza-
+tion.22 For patients with HFrEF, there is a graded 
+improvement in the risk of death or rehospitaliza-
+tion with monotherapy, dual therapy, and triple 
+therapy compared with no GDMT after an index 
+hospitalization in Medicare claims data. 21
+9.3. Diuretics in Hospitalized Patients: 
+Decongestion Strategy
+Recommendations for Diuretics in Hospitalized Patients: Decongestion 
+Strategy
+Referenced studies that support the recommendations are summa-
+rized in the Online Data Supplements.
+COR LOE Recommendations
+1 B-NR
+1. Patients with HF admitted with evidence of 
+significant fluid overload should be promptly 
+treated with intravenous loop diuretics to 
+improve symptoms and reduce morbidity.1
+1 B-NR
+2. For patients hospitalized with HF, therapy with 
+diuretics and other guideline-directed medica-
+tions should be titrated with a goal to resolve 
+clinical evidence of congestion to reduce symp-
+toms and rehospitalizations.1–6
+1 B-NR
+3. For patients requiring diuretic treatment during 
+hospitalization for HF, the discharge regimen 
+should include a plan for adjustment of diuret-
+ics to decrease rehospitalizations.7
+2a B-NR
+4. In patients hospitalized with HF when diuresis 
+is inadequate to relieve symptoms and signs 
+of congestion, it is reasonable to intensify the 
+diuretic regimen using either: a. higher doses of 
+intravenous loop diuretics.1,3); or b. addition of 
+a second diuretic.3
+Synopsis
+Intravenous loop diuretic therapy provides the most 
+rapid and effective treatment for signs and symptoms of 
+congestion leading to hospitalization for HF. Titration to 
+achieve effective diuresis may require doubling of initial 
+doses, adding a thiazide diuretic, or adding an MRA that 
+has diuretic effects in addition to its cardiovascular bene-
+fits. A major goal of therapy is resolution of the signs and 
+symptoms of congestion before discharge, as persistent 
+congestion scored at discharge has been associated 
+with higher rates of rehospitalizations and mortality. Most 
+patients who have required intravenous diuretic therapy 
+during hospitalization for HF will require prescription of 
+loop diuretics at discharge to decrease recurrence of 
+symptoms and hospitalization.
+Recommendation-Specific Supportive Text
+1. Diuretic therapy with oral furosemide was the 
+cornerstone of HF therapy for >20 years before 
+construction of the modern bases of evidence 
+for HF therapies. The pivotal RCTs showing ben-
+efit in ambulatory HFrEF have been conducted 
+on the background of diuretic therapy to treat 
+and prevent recurrence of fluid retention. An RCT 
+compared intravenous diuretic doses and infusion 
+to bolus dosing during hospitalization for HF but 
+without a placebo arm. 1 Protocols for recent trials 
+of other medications in patients hospitalized with 
+HF have all included intravenous diuretic therapy 
+Downloaded from http://ahajournals.org by on May 30, 2026
+=== PAGE 70 ===
+May 3, 2022 Circulation. 2022;145:e895–e1032. DOI: 10.1161/CIR.0000000000001063e964
+CLINICAL STATEMENTS  
+AND GUIDELINES
+Heidenreich et al 2022 AHA/ACC/HFSA Heart Failure Guideline
+as background therapy.1–6,8,9 There are no RCTs for 
+hospitalized patients comparing intravenous loop 
+diuretics to placebo, for which equipoise is consid-
+ered unlikely.10
+2. Monitoring HF treatment includes careful measure-
+ment of fluid intake and output, vital signs, standing 
+body weight at the same time each day, and clinical 
+signs and symptoms of congestion and hypoperfu-
+sion. Daily laboratory tests during active medication 
+adjustment include serum electrolytes, urea nitrogen, 
+and creatinine concentrations. Signs and symptoms 
+of congestion have been specified as inclusion cri-
+teria in recent trials of patients hospitalized for HF, in 
+which resolution of these signs and symptoms has 
+been defined as a goal to be achieved by hospital dis-
+charge,1–6,8,9 as it has in the recent HF hospitalization 
+pathway consensus document.11 Evidence of persis-
+tent congestion at discharge has been reported in 
+25% to 50% of patients,4,5,12 who have higher rates of 
+mortality and readmission and are more likely to have 
+elevated right atrial pressures, TR, and renal dysfunc-
+tion. Diuresis should not be discontinued prematurely 
+because of small changes in serum creatinine, 13,14 
+because elevations in the range of 0.3 mg/dL do not 
+predict worse outcomes except when patients are 
+discharged with persistent congestion. Decongestion 
+often requires not only diuresis but also adjustment of 
+other guideline-directed therapies, because elevated 
+volume status and vasoconstriction can contribute to 
+elevated filling pressures.
+3. After discharge, ACEi-ARB, MRAs, and beta block-
+ers all may decrease recurrent congestion leading 
+to hospitalization in HFrEF. Despite these therapies, 
+most patients with recent HF hospitalization require 
+continued use of diuretics after discharge to pre-
+vent recurrent fluid retention and hospitalization, 
+as shown in a recent large observational analysis.7 
+Increases in diuretic doses are frequently required 
+early after discharge even in patients on all other 
+currently recommended therapies for HFrEF. 8 It 
+is unknown how increased penetration of therapy 
+with ARNi and SGL T2i will, in the future, affect the 
+dosing of diuretics after discharge with HFrEF.
+4. Titration of diuretics has been described in mul-
+tiple recent trials of patients hospitalized with HF, 
+often initiated with at least 2 times the daily home 
+diuretic dose (mg to mg) administered intrave-
+nously.1 Escalating attempts to achieve net diuresis 
+include serial doubling of intravenous loop diuretic 
+doses, which can be done by bolus or infusion, and 
+sequential nephron blockade with addition of a 
+thiazide diuretic, as detailed specifically in the pro-
+tocol for the diuretic arms of the CARRESS and 
+ROSE trials.3,9 In the DOSE (Diuretic Optimization 
+Strategies Evaluation) trial, there were no signifi-
+cant differences in patients’ global assessment of 
+symptoms or in the change in renal function when 
+diuretic therapy was administered by bolus, com-
+pared with continuous infusion or at a high dose 
+compared with a low dose. Patients in the low-dose 
+group were more likely to require a 50% increase in 
+the dose at 48 hours than were those in the high-
+dose group, and all treatment groups had higher 
+doses of diuretics compared with baseline pread-
+mission doses, underlining the necessity to inten-
+sify and individualize diuretic regimen.1 MRAs have 
+mild diuretics properties and addition of MRAs can 
+help with diuresis in addition to significant cardio-
+vascular benefits in patients with HF. Addition of 
+low-dose dopamine to diuretic therapy in the set-
+ting of reduced eGFR did not improve outcomes 
+in a study that included patients with all EFs, but 
+a subset analysis showed increased urine output 
+and weight loss in patients with L VEF <0.40,9 with 
+significant interaction of effect with L VEF. Bedside 
+ultrafiltration initiated early after admission 
+increased fluid loss, with decreased rehospitaliza-
+tions in some studies when compared with use 
+of diuretics without systematic escalation. 15,16and 
+was also associated with adverse events related to 
+the intravenous catheters required.3 Many aspects 
+of ultrafiltration including patient selection, fluid 
+removal rates, venous access, prevention of ther-
+apy-related complications, and cost require further 
+investigation.
+9.4a. Parenteral Vasodilation Therapy in 
+Patients Hospitalized With HF
+Recommendation for Parenteral Vasodilation Therapy in Patients Hos-
+pitalized With HF
+Referenced studies that support the recommendation are summarized 
+in the Online Data Supplements.
+COR LOE Recommendation
+2b B-NR
+1. In patients who are admitted with decompen-
+sated HF, in the absence of systemic hypoten-
+sion, intravenous nitroglycerin or nitroprusside 
+may be considered as an adjuvant to diuretic 
+therapy for relief of dyspnea.1,2
+Synopsis
+Vasodilators can be used in acute HF to acutely relieve 
+symptoms of pulmonary congestion in selected patients. 
+Although they may mitigate dyspnea and relieve pulmo-
+nary congestion, their benefits have not been shown to 
+have durable effects for either rehospitalization or mor-
+tality benefit. In select patients who present with signs 
+of hypoperfusion such as worsening renal function, even 
+in the absence of hypotension, other escalation of care 
+may need to be considered (see Section 8.3, “Inotropic 
+Support,” and Section 9.5, “Evaluation and Management 
+of Cardiogenic Shock”).
+Downloaded from http://ahajournals.org by on May 30, 2026
+=== PAGE 71 ===
+Circulation. 2022;145:e895–e1032. DOI: 10.1161/CIR.0000000000001063 May 3, 2022 e965
+CLINICAL STATEMENTS 
+AND GUIDELINES
+Heidenreich et al 2022 AHA/ACC/HFSA Heart Failure Guideline
+Recommendation-Specific Supportive Text
+1. The role for directed vasodilators in acute decom-
+pensated HF remains uncertain. Part of the rationale 
+for their use is targeting pulmonary congestion, while 
+trying to avoid some potential adverse consequences 
+of loop diuretics. Patients with hypertension, coronary 
+ischemia, or significant MR may be suitable candidates 
+for the use of intravenous nitroglycerin. However, 
+tachyphylaxis may develop within 24 hours, and up 
+to 20% of those with HF may develop resistance to 
+even high doses.3,4 Because of sodium nitroprusside’s 
+potential for producing marked hypotension, invasive 
+hemodynamic blood pressure monitoring (eg, an arte-
+rial line) is typically required, and nitroprusside is usu-
+ally used in the intensive care setting; longer infusions 
+of the drug have been associated, albeit rarely, with 
+thiocyanate and cyanide toxicity, particularly in the set-
+ting of renal insufficiency and significant hepatic dis-
+ease. Nitroprusside is potentially of value in severely 
+congested patients with hypertension or severe MV 
+regurgitation complicating L V dysfunction.5 Overall, 
+there are no data that suggest that intravenous vaso-
+dilators improve outcomes in the patient hospitalized 
+with HF; as such, use of intravenous vasodilators is 
+limited to the relief of dyspnea in the hospitalized HF 
+patient with intact or high blood pressure.6,7
+9.4b. VTE Prophylaxis in Hospitalized Patients
+Recommendation for VTE Prophylaxis in Hospitalized Patients
+Referenced studies that support the recommendation are summarized 
+in the Online Data Supplements.
+COR LOE Recommendation
+1 B-R
+1. In patients hospitalized with HF, prophylaxis for 
+VTE is recommended to prevent venous throm-
+boembolic disease.1–3
+Synopsis
+HF has long been recognized as affording additional risk 
+for venous thromboembolic disease. When patients are 
+hospitalized for decompensated HF, or when patients with 
+chronic stable HF are hospitalized for other reasons, they 
+are at increased risk for venous thromboembolic disease. 
+The risk may be associated with higher HF symptom bur-
+den.4 This risk may extend for up to 2 years after hospi-
+talization but is greatest in the first 30 days.5,6 The use of 
+anticoagulation with subcutaneous low-molecular-weight 
+heparin, unfractionated heparin, fondaparinux, or approved 
+DOAC are used for the prevention of clinically symptomatic 
+deep vein thrombosis and pulmonary embolism.7, 8
+Recommendation-Specific Supporting Text
+1. Trials using available antithrombotic drugs often 
+were not limited to patients with HF but included 
+patients with acute illnesses, severe respiratory dis-
+eases, or simply a broad spectrum of hospitalized 
+medical patients. 9–12 All included trials excluded 
+patients perceived to have an elevated risk of 
+bleeding complications or of toxicity from the spe-
+cific agent tested (eg, enoxaparin in patients with 
+compromised renal function). In some trials, aspirin 
+was allowed but not controlled for as a confounding 
+variable. Despite the increased risk for the develop-
+ment of VTE in the 30 days after hospitalization, 
+the data for extending prophylaxis to the immediate 
+post-hospital period have shown decreased devel-
+opment of VTE but were associated with increased 
+bleeding events and overall do not appear to pro-
+vide additional benefit. 2,3,11 For patients admitted 
+specifically for decompensated HF and with ade-
+quate renal function (creatinine clearance, >30 
+mL/min), randomized trials suggest that enoxaparin 
+40 mg subcutaneously once daily, 1,13 unfraction-
+ated heparin 5000 units subcutaneously every 8 
+or 12 hours,14–17 or rivaroxaban 10 mg once daily 11 
+will radiographically reduce demonstrable venous 
+thrombosis. Effects on mortality or clinically sig-
+nificant pulmonary embolism rates are unclear. For 
+obese patients, a higher dose of enoxaparin 60 mg 
+once daily achieved target range of thromboprophy-
+laxis without increased bleeding.12
+9.5. Evaluation and Management of Cardiogenic 
+Shock
+Recommendations for Evaluation and Management of Cardiogenic Shock
+Referenced studies that support the recommendations are summa-
+rized in the Online Data Supplements.
+COR LOE Recommendations
+1 B-NR
+1. In patients with cardiogenic shock, intravenous 
+inotropic support should be used to maintain 
+systemic perfusion and preserve end-organ 
+performance.1–8
+2a B-NR
+2. In patients with cardiogenic shock, temporary 
+MCS is reasonable when end-organ function 
+cannot be maintained by pharmacologic means 
+to support cardiac function.9–17
+2a B-NR
+3. In patients with cardiogenic shock, manage-
+ment by a multidisciplinary team experienced in 
+shock is reasonable.17–22
+2b B-NR
+4. In patients presenting with cardiogenic shock, 
+placement of a PA line may be considered to 
+define hemodynamic subsets and appropriate 
+management strategies.23–27
+2b C-LD
+5. For patients who are not rapidly responding to 
+initial shock measures, triage to centers that 
+can provide temporary MCS may be consid-
+ered to optimize management.17–22
+Synopsis
+Cardiogenic shock is a commonly encountered clinical 
+challenge with a high mortality and is characterized by 
+Downloaded from http://ahajournals.org by on May 30, 2026
+=== PAGE 72 ===
+May 3, 2022 Circulation. 2022;145:e895–e1032. DOI: 10.1161/CIR.0000000000001063e966
+CLINICAL STATEMENTS  
+AND GUIDELINES
+Heidenreich et al 2022 AHA/ACC/HFSA Heart Failure Guideline
+a critical reduction in cardiac output manifest by end-
+organ dysfunction. 28 Hypotension (eg, SBP <90 mm 
+Hg) is the primary clinical manifestation of shock but is 
+not sufficient for the diagnosis. Additionally, end-organ 
+hypoperfusion should be present as a consequence of 
+cardiac dysfunction (Tables 22, 23, 24).29 Causes can 
+be broadly separated into acute decompensations of 
+chronic HF, acute myocardial dysfunction without prec-
+edent HF, and survivors of cardiac arrest. In the case 
+of acute MI, urgent revascularization is paramount. The 
+approach to cardiogenic shock should include its early 
+recognition, invasive hemodynamic assessment when 
+there is insufficient clinical improvement to initial mea-
+sures and providing appropriate pharmacological and 
+MCS to optimize end-organ perfusion and prevent meta-
+bolic complications. The evidence that supports the use 
+of specific pharmacologic therapies and the nature of 
+temporary MCS is primarily gleaned from observational 
+retrospective datasets. Only a few randomized trials have 
+been conducted to assess the most appropriate circula-
+tory support device, and they have been limited by small 
+Table 22. Suggested Shock Clinical Criteria*29
+SBP <90 mm Hg for >30 min:
+a. Or mean BP <60 mm Hg for >30 min
+b.  Or requirement of vasopressors to maintain systolic BP ≥90 mm Hg or 
+mean BP ≥60 mm Hg
+Hypoperfusion defined by:
+c. Decreased mentation
+d. Cold extremities, livedo reticularis
+e. Urine output <30 mL/h
+f. Lactate >2 mmol/L
+BP indicates blood pressure; and SBP, systolic blood pressure.
+*Systolic BP and hypoperfusion criteria need to be met for the shock diag-
+nosis.
+Table 23. Suggested Shock Hemodynamic Criteria*29
+1. SBP <90 mm Hg or mean BP <60 mm Hg
+2. Cardiac index <2.2 L/min/m2
+3. Pulmonary capillary wedge pressure >15 mm Hg
+4. Other hemodynamic considerations
+a. Cardiac power output ([CO x MAP]/451) <0.6 W
+b. Shock index (HR/systolic BP) >1.0
+c. RV shock
+i. Pulmonary artery pulse index [(PASP-PADP)/CVP] <1.0
+ii. CVP >15 mm Hg
+iii. CVP-PCW >0.6
+BP indicates blood pressure; CO, cardiac output; CVP, central venous pres-
+sure; HR, heart rate; MAP, mean arterial pressure; PADP, pulmonary artery 
+diastolic pressure; PASP, pulmonary artery systolic pressure; PCW, pulmonary 
+capillary wedge; RV, right ventricular; and SBP, systolic blood pressure.
+*Diagnosis of shock requires ≥1 criteria to be present along with cardiac 
+index <2.0 L/min/m2 and SBP <90 mm Hg.
+Table 24. Society for Cardiovascular Angiography and Interventions (SCAI) Cardiogenic Shock Criteria29
+Stage Bedside Findings Selected Laboratory Markers Hemodynamics
+A: At risk
+   Normotensive
+   Normal perfusion
+   Cause for risk for shock such as 
+large myocardial infarction or HF
+ Normal venous pressure
+ Clear lungs
+ Warm extremities
+ Strong palpable pulses
+ Normal mentation
+ Normal renal function
+ Normal lactate
+ SBP >100 mm Hg
+ Hemodynamics: Normal
+B: Beginning shock (“pre-shock”)
+   Hypotension
+   Normal perfusion
+ Elevated venous pressure
+ Rales present
+ Warm extremities
+ Strong pulses
+ Normal mentation
+ Preserved renal function
+ Normal lactate
+ Elevated BNP
+ SBP <90 mm Hg, MAP <60 mm Hg, or >30 
+mm Hg decrease from baseline SBP
+ HR >100 bpm
+ Hemodynamics: CI ≥2.2 L/min/m2
+C: Classic cardiogenic shock
+   Hypotension
+   Hypoperfusion
+Elevated venous pressure
+ Rales present
+ Cold, ashen, livedo
+ Weak or nonpalpable pulses
+ Altered mentation
+ Decreased urine output
+ Respiratory distress
+ Impaired renal function
+ Increased lactate
+ Elevated BNP
+ Increased LFTs
+ Acidosis
+ SBP <90 mm Hg; MAP <60 mm Hg; >30 
+mm Hg from baseline SBP despite drugs 
+and temporary MCS
+ HR >100 bpm
+ Hemodynamics: CI ≤2.2 L/min/m2; PCW 
+>15 mm Hg; CPO <0.6 W; PAPi <2.0; 
+CVP-PCW >1.0
+D: Deteriorating
+   Worsening hypotension
+   Worsening hypoperfusion
+ Same as stage C  Persistent or worsening values 
+of stage C
+ Escalating use of pressors or MCS to main-
+tain SBP and end-organ perfusion in setting 
+of stage C hemodynamics
+E: Extremis
+   Refractory hypotension
+   Refractory hypoperfusion
+ Cardiac arrest
+ CPR
+ Worsening values of stage C 
+laboratories
+ SBP only with resuscitation
+ PEA
+ Recurrent VT/VF
+BNP indicates brain natriuretic peptide; CI, cardiac index; CPO, cardiac power output; CPR, cardiopulmonary resuscitation; CVP, central venous pressure; HR, 
+heart rate; LFT, liver function test; MAP, mean arterial blood pressure; MCS, mechanical circulatory support; PAPi, pulmonary artery pulsatility index; PCW, pulmonary 
+capillary wedge pressures; PEA, pulseless electrical activity; SBP, systolic blood pressure; VF, ventricular fibrillation; and VT, ventricular tachycardia.
+Adapted from Baran D et al,29 with permission from Wiley Periodicals, Inc.
+Downloaded from http://ahajournals.org by on May 30, 2026
+=== PAGE 73 ===
+Circulation. 2022;145:e895–e1032. DOI: 10.1161/CIR.0000000000001063 May 3, 2022 e967
+CLINICAL STATEMENTS 
+AND GUIDELINES
+Heidenreich et al 2022 AHA/ACC/HFSA Heart Failure Guideline
+sample size, the inherent open-label study design, short 
+follow-up, and surrogate endpoints.
+Recommendation-Specific Supportive Text
+1. Intravenous inotropic support can increase 
+cardiac output and improve hemodynamics in 
+patients presenting with cardiogenic shock. 
+Despite their ubiquitous use for initial manage-
+ment of cardiogenic shock, there are few pro-
+spective data and a paucity of randomized trials 
+to guide their use. 1–8 However, their broad avail-
+ability, ease of administration, and clinician famil-
+iarity favor such agents as the first therapeutic 
+consideration when signs of organ hypoperfu-
+sion persist despite empiric volume replacement 
+and vasopressors. There is a lack of robust evi-
+dence to suggest the clear benefit of one inotro-
+pic agent over another in cardiogenic shock. 30 In 
+general, the choice of a specific inotropic agent 
+is guided by blood pressure, concurrent arrhyth-
+mias, and availability of drug.
+2. Despite the lack of direct comparative data, 
+the use of short-term MCS has dramatically 
+increased.9–16,31,32 The hemodynamic benefits of 
+the specific devices vary, and few head-to-head 
+randomized comparisons exist. 33–39 Randomized 
+clinical trials are underway that will address the 
+risks and benefits of one modality over another. 
+Vascular, bleeding, and neurologic complications 
+are common to MCS devices, and the risk of such 
+complications should generally be considered in 
+the calculation to proceed with such support. 40 As 
+much as possible, an understanding of a patient’s 
+wishes, overall prognosis and trajectory, and 
+assessment of therapeutic risk should precede the 
+use of invasive temporary MCS.
+3. Team-based cardiogenic shock management pro-
+vides the opportunity for various clinicians to pro-
+vide their perspective and input to the patient’s 
+management.17–22 The escalation of either phar-
+macological and mechanical therapies should 
+be considered in the context of multidisciplinary 
+teams of HF and critical care specialists, inter-
+ventional cardiologists, and cardiac surgeons. 
+Such teams should also be capable of provid-
+ing appropriate palliative care. Most documented 
+experiences have suggested outcomes improve 
+after shock teams are instituted. 17–22 In 1 such 
+experience, the use of a shock team was asso-
+ciated with improved 30-day all-cause mortality 
+(HR, 0.61; 95% CI, 0.41–0.93) and reduced in-
+hospital mortality (61.0% vs. 47 .9%; P=0.041).19
+4. If time allows, escalation to MCS should be guided 
+by invasively obtained hemodynamic data (eg, PA 
+catheterization). Several observational experiences 
+have associated PA catheterization use with 
+improved outcomes, particularly in conjunction with 
+short-term MCS.23–27 ,41 PA catheterization may also 
+be useful when there is diagnostic uncertainty as 
+to the cause of hypotension or end-organ dysfunc-
+tion, particularly when a patient in shock is not 
+responding to empiric initial shock measures.42
+5. Transfer to centers capable of providing such sup-
+port should be considered early in the assessment 
+of a patient with cardiogenic shock and a trajec-
+tory of worsening end-organ malperfusion. 17–22,43 
+The treatment of shock should be recognized as 
+a temporizing strategy to support end-organ per-
+fusion and blood pressure until the cause of the 
+cardiac failure has either been treated (eg, revas-
+cularization in ST-elevation MI) or recovery (eg, 
+myocarditis) or a definitive solution to the cardiac 
+failure can be accomplished (eg, durable L VAD 
+or transplant). In many cases, pharmacological or 
+MCS can provide sufficient time to address the 
+appropriateness of more definitive therapies (eg, 
+bridge-to-decision) with the patient, family, and the 
+multidisciplinary shock team.
+9.6. Integration of Care: Transitions and  
+Team-Based Approaches
+Recommendations for Integration of Care: Transitions and Team-Based 
+Approaches
+Referenced studies that support the recommendations are  
+summarized in the Online Data Supplements.
+COR LOE Recommendations
+1 B-R
+1. In patients with high-risk HF, particularly those 
+with recurrent hospitalizations for HFrEF, refer-
+ral to multidisciplinary HF disease management 
+programs is recommended to reduce the risk of 
+hospitalization.1–4
+1 B-NR
+2. In patients hospitalized with worsening HF, 
+patient-centered discharge instructions with a 
+clear plan for transitional care should be pro-
+vided before hospital discharge.5,6
+2a B-NR
+3. In patients hospitalized with worsening HF, 
+participation in systems that allow benchmark-
+ing to performance measures is reasonable to 
+increase use of evidence-based therapy, and to 
+improve quality of care.7–10
+2a B-NR
+4. In patients being discharged after hospital-
+ization for worsening HF, an early follow-up, 
+generally within 7 days of hospital discharge, is 
+reasonable to optimize care and reduce rehos-
+pitalization.11,12
+Synopsis
+For patients with HF, the transition from inpatient to 
+outpatient care can be an especially vulnerable period 
+because of the progressive nature of the disease state, 
+complex medical regimens, the large number of comor-
+bid conditions, and the multiple clinicians who may be 
+Downloaded from http://ahajournals.org by on May 30, 2026
+=== PAGE 74 ===
+May 3, 2022 Circulation. 2022;145:e895–e1032. DOI: 10.1161/CIR.0000000000001063e968
+CLINICAL STATEMENTS  
+AND GUIDELINES
+Heidenreich et al 2022 AHA/ACC/HFSA Heart Failure Guideline
+involved. Patients are at highest risk for decompensation 
+requiring readmission in the days and weeks post-hospi-
+tal discharge.13 Optimal transitions of care can decrease 
+avoidable readmissions and improve patient satisfac-
+tion.14 Multidisciplinary systems of care that promote im-
+proved communication between health care profession-
+als, systematic use and monitoring of GDMT, medication 
+reconciliation, and consistent documentation are exam-
+ples of patient safety standards that should be ensured 
+for all patients with HF transitioning out of the hospital.
+Recommendation-Specific Supportive Text
+1. HF disease management programs can help 
+to organize the patient’s care across settings. 
+Potential team members may include cardiologists, 
+primary care clinicians, HF nurses, pharmacists, 
+dieticians, social workers, and community health 
+workers. A Cochrane systematic review of 47 RCTs 
+of disease management interventions after hospi-
+tal discharge found that interventions that use case 
+management (case manager or nurse coordinates 
+care for high-risk patients) or multidisciplinary 
+approach may decrease all-cause mortality and 
+rehospitalization.3 Disease management programs 
+may comprise education, self-management, medi-
+cation optimization, device management, weight 
+monitoring, exercise and dietary advice, facilitated 
+access to care during episodes of decompensation, 
+and social and psychological support. 14 Disease 
+management programs coordinated by HF special-
+ists, including HF nurses, may be best suited for 
+patients with HFrEF; however, there are far fewer 
+data on the effectiveness of disease management 
+programs in patients with HFpEF.2
+2. Although hospitalizations for worsening HF are 
+often characterized by rapid changes in medical, 
+surgical, and device therapy to optimize a patient’s 
+clinical status, the patient’s journey with achieving 
+optimal HF care continues beyond hospital dis-
+charge. Written discharge instructions or educa-
+tional material given to the patient, family members, 
+or caregiver during the hospital stay or at discharge 
+to home should address all of these: activity level, 
+diet, discharge medications, follow-up appoint-
+ment, weight monitoring, cardiac rehabilitation, and 
+what to do if symptoms worsen. 14 Thorough dis-
+charge planning that includes special emphasis on 
+ensuring adherence to an evidence-based medica-
+tion regimen is associated with improved patient 
+outcomes.15,16 Details of the hospital course and 
+the transitional plan of care, with special attention 
+to changes in medications and new medical diag-
+noses, must be transmitted in a timely and clearly 
+understandable form to all of the patient’s clini-
+cians who will be delivering follow-up care (Table 
+25). Any changes in prognosis that will require 
+appropriate care coordination and follow-up post-
+discharge should be noted.
+3. Systems of care designed to support patients with 
+HF as they move through the continuum of care 
+can improve outcomes. 7 ,14,17 ,18 Real-time feedback 
+on performance measure benchmarks can improve 
+use of evidence-based therapy and quality of 
+care.8 Quality improvement programs designed to 
+increase the prescription of appropriate discharge 
+medications can increase GDMT prescription at 
+discharge and decrease readmissions and mortal-
+ity.9 Electronic point-of-care reminders to prescribe 
+GDMT in patients with HFrEF can improve use.10,19 
+Leveraging transparent health care analytics plat-
+forms for benchmarking and performance improve-
+ment may be helpful. There are ongoing studies to 
+determine the most effective strategies to improve 
+evidence-based care.20
+4. Early outpatient follow-up, a central element of 
+transitional care, varies significantly across US 
+hospitals.11 Early postdischarge follow-up may help 
+minimize gaps in understanding of changes to the 
+care plan or knowledge of test results and has been 
+associated with a lower risk of subsequent rehos-
+pitalization.11,12 Transition of care interventions 
+have often bundled timely clinical follow-up with 
+other interventions, making it challenging to iso-
+late any unique intervention effects.21 A structured 
+contact with the patient within 7 days of hospital 
+Table 25. Important Components of a Transitional Care Plan
+A transitional care plan, communicated with the patient and their outpatient 
+clinicians before hospital discharge, should clearly outline plans for:
+ Addressing any precipitating causes of worsening HF identified in the hos-
+pital;
+  Adjusting diuretics based on volume status (including weight) and electro-
+lytes;
+  Coordination of safety laboratory checks (eg, electrolytes after initiation or 
+intensification of GDMT);
+ Further changes to optimize GDMT, including:
+ Plans for resuming medications held in the hospital;
+ Plans for initiating new medications;
+ Plans for titration of GDMT to goal doses as tolerated;
+ Reinforcing HF education and assessing compliance with medical ther-
+apy and lifestyle modifications, including dietary restrictions and physical 
+activity;
+ Addressing high-risk characteristics that may be associated with poor post-
+discharge clinical outcomes, such as:
+ Comorbid conditions (eg, renal dysfunction, pulmonary disease, diabetes, 
+mental health, and substance use disorders);
+ Limitations in psychosocial support;
+ Impaired health literacy, cognitive impairment;
+ Additional surgical or device therapy, referral to cardiac rehabilitation in the 
+future, where appropriate;
+ Referral to palliative care specialists and/or enrollment in hospice in 
+selected patients.
+GDMT indicates guideline-directed medical therapy; and HF, heart failure.
+Downloaded from http://ahajournals.org by on May 30, 2026
+=== PAGE 75 ===
+Circulation. 2022;145:e895–e1032. DOI: 10.1161/CIR.0000000000001063 May 3, 2022 e969
+CLINICAL STATEMENTS 
+AND GUIDELINES
+Heidenreich et al 2022 AHA/ACC/HFSA Heart Failure Guideline
+discharge is a desired goal. Although historically 
+this has been an in-person visit, telemedicine is 
+being increasingly used for chronic management. 
+A pragmatic randomized trial found that an initial 
+telephone visit with a nurse or pharmacist to guide 
+follow-up may reduce the need for in-person vis-
+its if they are constrained.22 Overall, the timing and 
+method of delivery (in-person clinic versus virtual 
+visit by video or telephone) should be individualized 
+based on patient risk and available care delivery 
+options. Clinical risk prediction tools may help to 
+identify patients at highest risk of postdischarge 
+adverse outcomes.23–25
+10. COMORBIDITIES IN PATIENTS WITH HF
+10.1. Management of Comorbidities in Patients 
+With HF
+Recommendations for the Management of Comorbidities in Patients 
+With HF
+Referenced studies that support the recommendations are summa-
+rized in the Online Data Supplements.
+COR LOE Recommendations
+Management of Anemia or Iron Deficiency
+2a B-R
+1. In patients with HFrEF and iron deficiency with 
+or without anemia, intravenous iron replace-
+ment is reasonable to improve functional status 
+and QOL.1–4
+3: Harm B-R
+2. In patients with HF and anemia, erythropoietin-
+stimulating agents should not be used to 
+improve morbidity and mortality.5,6
+Management of Hypertension
+1 C-LD
+3. In patients with HFrEF and hypertension, 
+uptitration of GDMT to the maximally tolerated 
+target dose is recommended.7, 8
+Management of Sleep Disorders
+2a C-LD
+4. In patients with HF and suspicion of sleep-dis-
+ordered breathing, a formal sleep assessment 
+is reasonable to confirm the diagnosis and 
+differentiate between obstructive and central 
+sleep apnea.9,10
+2a B-R
+5. In patients with HF and obstructive sleep 
+apnea, continuous positive airway pressure 
+may be reasonable to improve sleep quality and 
+decrease daytime sleepiness.9,11–13
+3: Harm B-R
+6. In patients with NYHA class II to IV HFrEF and 
+central sleep apnea, adaptive servo-ventilation 
+causes harm.11,12
+Management of Diabetes
+1 A
+7 . In patients with HF and type 2 diabetes, the 
+use of SGLT2i is recommended for the man-
+agement of hyperglycemia and to reduce HF-
+related morbidity and mortality.14–17
+Synopsis
+Multimorbidity is common in patients with HF, with >85% 
+of patients having ≥2 additional chronic conditions.18,19 Hy-
+pertension, ischemic heart disease, diabetes, anemia, CKD, 
+morbid obesity, frailty, and malnutrition are among the most 
+common comorbid conditions in patients with HF (Table 
+26). These chronic conditions complicate the manage-
+ment of HF and have a significant impact on its prognosis. 
+How to generate specific recommendations addressing 
+many of these conditions in the setting of HF is challeng-
+ing given the current state of the evidence. For example, 
+although depression is common in patients with HF and 
+strongly impacts QOL and mortality, conventional thera-
+pies such as antidepressants have not been effective in 
+Table 26. Most Common Co-Occurring Chronic Conditions Among Medicare Beneficiaries With HF (N=4 947 918), 2011
+Beneficiaries Age ≥65 y (n=4 376 150)* Beneficiaries Age <65 y (n=571 768)†
+ n %  n %
+Hypertension 3 685 373 84.2 Hypertension 461 235 80.7
+Ischemic heart disease 3 145 718 71.9 Ischemic heart disease 365 889 64.0
+Hyperlipidemia 2 623 601 60.0 Diabetes 338 687 59.2
+Anemia 2 200 674 50.3 Hyperlipidemia 325 498 56.9
+Diabetes 2 027 875 46.3 Anemia 284 102 49.7
+Arthritis 1 901 447 43.5 CKD 257 015 45.0
+CKD 1 851 812 42.3 Depression 207 082 36.2
+COPD 1 311 118 30.0 Arthritis 201 964 35.3
+AF 1 247 748 28.5 COPD 191 016 33.4
+Alzheimer’s disease or dementia 1 207 704 27. 6 Asthma 88 816 15.5
+Data source: Centers for Medicare & Medicaid Services administrative claims data, January 2011 to December 2011, from the Chronic Condition Warehouse 
+(CCW), ccwdata.org.50
+AF indicates atrial fibrillation; CKD, chronic kidney disease; COPD, chronic obstructive pulmonary disease; and HF, heart failure.
+*Mean No. of conditions is 6.1; median is 6.
+†Mean No. of conditions is 5.5; median is 5.
+Recommendations for the Management of Comorbidities in Patients 
+With HF (Continued)
+COR LOE Recommendations
+Downloaded from http://ahajournals.org by on May 30, 2026
+=== PAGE 76 ===
+May 3, 2022 Circulation. 2022;145:e895–e1032. DOI: 10.1161/CIR.0000000000001063e970
+CLINICAL STATEMENTS  
+AND GUIDELINES
+Heidenreich et al 2022 AHA/ACC/HFSA Heart Failure Guideline
+improving outcomes.20–22 CKD and HF are closely inter-
+twined in pathophysiology and have a complex and bidirec-
+tional relationship.23 Renal dysfunction increases the risk of 
+toxicities of HF therapies and impairs response to diuret-
+ics.23 The effectiveness of GDMT in patients with HF and 
+concomitant kidney disease is uncertain, because data for 
+treatment outcomes in this patient population are sparse.24 
+Recommendations surrounding the management of ane-
+mia, hypertension, diabetes, and sleep disorders that are 
+attributable to the presence of evolving evidence for spe-
+cific treatment strategies in HF are discussed next. Other 
+comorbidities not addressed in the recommendations are, 
+of course, also important and warrant attention but, be-
+cause of lack of large-scale trial data, are not addressed as 
+specific recommendations. Figure 14 summarizes COR 1 
+and 2a for management of select HF comorbidities.
+Recommendation-Specific Supportive Text
+Anemia
+1. Routine baseline assessment of all patients with 
+HF includes an evaluation for anemia. Anemia is 
+independently associated with HF disease sever-
+ity and mortality, 25 and iron deficiency appears 
+to be uniquely associated with reduced exercise 
+capacity.26 Iron deficiency is usually defined as 
+ferritin level <100 μg /L or 100 to 300 μg/L, if 
+the transferrin saturation is <20%. Intravenous 
+repletion of iron has been shown to improve exer-
+cise capacity and QOL. 1–3,27 The FAIR-HF (Ferric 
+Carboxymaltose Assessment in Patients With Iron 
+Deficiency and Chronic Heart Failure) trial showed 
+significant improvement in NYHA classification, 
+Figure 14. Recommendations for Treatment of Patients With HF and Selected Comorbidities.
+Colors correspond to COR in Table 2. Recommendations for treatment of patients with HF and select comorbidities are displayed. ACEi indicates 
+angiotensin-converting enzyme inhibitor; AF, atrial fibrillation; ARB, angiotensin receptor blocker; AV, atrioventricular; CHA2DS2-VASc, congestive 
+heart failure, hypertension, age ≥75 years, diabetes mellitus, stroke or transient ischemic attack [TIA], vascular disease, age 65 to 74 years, sex 
+category; CPAP, continuous positive airway pressure; CRT, cardiac resynchronization therapy; EF, ejection fraction; GDMT, guideline-directed 
+medical therapy; HF, heart failure; HFrEF, heart failure with reduced ejection fraction; IV, intravenous; L VEF, left ventricular ejection fraction; NYHA, 
+New York Heart Association; SGL T2i, sodium-glucose cotransporter-2 inhibitor; and VHD, valvular heart disease. *Patients with chronic HF 
+with permanent-persistent-paroxysmal AF and a CHA2DS2-VASc score of ≥2 (for men) and ≥3 (for women).
+Downloaded from http://ahajournals.org by on May 30, 2026
+=== PAGE 77 ===
+Circulation. 2022;145:e895–e1032. DOI: 10.1161/CIR.0000000000001063 May 3, 2022 e971
+CLINICAL STATEMENTS 
+AND GUIDELINES
+Heidenreich et al 2022 AHA/ACC/HFSA Heart Failure Guideline
+the 6-minute walk test, and QOL of 459 outpa-
+tients with chronic HF who received weekly intra-
+venous ferric carboxymaltose until iron repletion. 1 
+The improvement was independent of the pres-
+ence of anemia. These findings were confirmed 
+in 2 more recent trials. 2,3 The IRONOUT HF (Iron 
+Repletion Effects on Oxygen Uptake in Heart 
+Failure) trial, however, showed no such improve-
+ment with oral iron supplementation. 28 This is 
+attributed to the poor absorption of oral iron and 
+inadequacy of oral iron to replete the iron stores 
+in patients with HF. Therefore, oral iron is not ade-
+quate to treat iron deficiency anemia in patients 
+with HF. Although these trials were underpowered 
+to detect reductions in hard clinical endpoints, 2 
+meta-analyses have suggested intravenous iron 
+is associated with a reduction in cardiovascular 
+death and hospitalizations. 27 ,29 Most recently, the 
+AFFIRM-AHF multicenter trial, which included 
+1132 patients with EF <50% hospitalized for 
+HF, showed a decrease in hospitalization for HF 
+with intravenous ferric carboxymaltose compared 
+to placebo (RR, 0.74; 95% CI, 0.58–0.94) but no 
+reduction in cardiovascular death. 4
+2. Anemia in patients with HF is associated with 
+impaired erythropoietin production, with low lev-
+els found to be associated with worse long-term 
+outcomes.30,31 Although small studies examining 
+the use of erythropoietin-stimulating agents for 
+the treatment of anemia in patients with HF have 
+suggested a trend toward improvement in func-
+tional capacity and reduction in hospitalization, 
+a high-quality randomized trial of darbepoetin 
+alpha in 2278 patients showed no benefit and an 
+increase in thrombotic events, including stroke.5,6,32 
+A meta-analysis of 13 trials supports these find-
+ings.6 Accordingly, erythropoietin-stimulating agent 
+therapy is not recommended for the treatment of 
+anemia in patients with HF.
+Hypertension
+3. Clinical trials assessing the impact of goal blood 
+pressure reduction on outcomes in patients with 
+HFrEF and concomitant hypertension are lacking. 
+The optimal blood pressure goal and antihyper-
+tensive regimen are not known. Antihypertensive 
+therapy is associated with a decrease in the risk 
+of incident HF in the general population, 33,34 nota-
+bly with the more stringent SBP target <120 mm 
+Hg.35 However, low blood pressure, not as a part of 
+an antihypertensive treatment, has been associated 
+with poor outcomes in patients with HFrEF. 7, 8 This 
+observation may reflect the association between 
+low cardiac output and low blood pressure, rather 
+than the effects of treatment for hypertension. 
+Nevertheless, hypertension in patients with HFrEF 
+represents an opportunity to maximize GDMT to 
+goal blood pressures defined by the ACC/AHA 
+hypertension guidelines.36
+Sleep Disorders
+4. In patients with HF, daytime sleepiness—typically 
+a feature of obstructive sleep apnea—may not 
+reflect the degree of underlying sleep-disordered 
+breathing.37 Hence, the decision to refer a patient 
+for a sleep study should be based on clinical judg-
+ment. Because the treatment of obstructive sleep 
+apnea and central sleep apnea differ, and because 
+obstructive sleep apnea and central sleep apnea 
+can co-occur,9,11,12 sleep studies can inform clinical 
+decision-making in patients with HF.
+5. In patients with HF and central sleep apnea, con-
+tinuous positive airway pressure is associated 
+with better sleep quality and nocturnal oxygen-
+ation9 but has not been shown to affect sur-
+vival.38 In adults with HFrEF and sleep-disordered 
+breathing, meta-analyses of RCTs have shown 
+that positive airway pressure therapy results in a 
+moderate reduction in BNP 39 and improvement in 
+blood pressure and L VEF.40
+6. Adaptive servo-ventilation was associated with 
+increased mortality in 2 RCTs involving patients 
+with HFrEF and central sleep apnea. 11,12 Meta-
+analyses have supported these results. 41,42 The 
+weight of evidence does not support the use 
+of adaptive servo-ventilation for central sleep 
+apnea in HFrEF.
+Diabetes
+7 . The American Diabetes Association guidelines 
+recommend the use of SGL T2i as first-line agent 
+for the treatment of hyperglycemia in patients with 
+diabetes with HF or at high risk of HF. 43 SGL T2i 
+are the first class of glucose-lowering agents to 
+receive approval from the FDA for the treatment of 
+HFrEF. Treatment of patients with type 2 diabetes 
+with SGL T2i, including canagliflozin, dapagliflozin, 
+empagliflozin, and sotagliflozin, is associated with 
+a reduction in major adverse cardiovascular events, 
+including hospitalization for HF and cardiovascular 
+death.44 The mechanisms underlying the improve-
+ment in cardiovascular outcomes attributed to 
+SGL T2i are, however, unknown but appear to be 
+only partially related to the glucosuric effect. 45 Two 
+RCTs totaling 8474 patients with NYHA class II, 
+III, or IV HF and EF ≤40%—DAPA-HF assessing 
+dapagliflozin and EMPEROR-Reduced assessing 
+empagliflozin—showed significant reductions in the 
+relative risk of all-cause death (13%), cardiovascular 
+Downloaded from http://ahajournals.org by on May 30, 2026
+=== PAGE 78 ===
+May 3, 2022 Circulation. 2022;145:e895–e1032. DOI: 10.1161/CIR.0000000000001063e972
+CLINICAL STATEMENTS  
+AND GUIDELINES
+Heidenreich et al 2022 AHA/ACC/HFSA Heart Failure Guideline
+death (14%), hospitalization for HF (26%), and 
+renal outcomes (38%) with SGL T2i treatment.14–17 
+Benefits were consistent across age, sex, and in 
+patients with or without diabetes. Whether dapa-
+gliflozin or empagliflozin improves outcomes spe-
+cifically in patients with HFpEF is being studied.46,47 
+The SOLOIST-WHF trial extends the benefits 
+of SGL T2i to patients with diabetes and acutely 
+decompensated HF.48 Patients on SGL T2i should 
+be closely monitored for potential risks, including 
+severe genitourinary infections and, less commonly, 
+diabetic ketoacidosis.49
+10.2. Management of AF in HF
+Recommendations for Management of AF in HF
+Referenced studies that support the recommendations are summa-
+rized in the Online Data Supplements.
+COR LOE Recommendations
+1 A
+1. Patients with chronic HF with permanent-per-
+sistent-paroxysmal AF and a CHA2DS2-VASc 
+score of ≥2 (for men) and ≥3 (for women) 
+should receive chronic anticoagulant therapy.1–5
+1 A
+2. For patients with chronic HF with permanent-
+persistent-paroxysmal AF, DOAC is recom-
+mended over warfarin in eligible patients.2–10
+2a B-R
+3. For patients with HF and symptoms caused by 
+AF, AF ablation is reasonable to improve symp-
+toms and QOL.11–14
+2a B-R
+4. For patients with AF and LVEF ≤50%, if a 
+rhythm control strategy fails or is not desired, 
+and ventricular rates remain rapid despite medi-
+cal therapy, atrioventricular nodal ablation with 
+implantation of a CRT device is reasonable.15–22
+2a B-NR
+5. For patients with chronic HF and permanent-
+persistent-paroxysmal AF, chronic anticoagulant 
+therapy is reasonable for men and women with-
+out additional risk factors.23–26
+Synopsis
+The interplay between AF and HF is complex. It is clear 
+that AF may worsen HF but also that HF increases the 
+risk of AF. Data from randomized trials support the use 
+of anticoagulation among those with HF and AF but not 
+in patients with HF without AF. Anticoagulation may be 
+accomplished with DOAC or with warfarin when favored 
+because of other indications, cost or drug-drug interac-
+tions (the DOAC are generally preferred). The choice 
+between rate or rhythm control strategy reflects both 
+patient symptoms and the likelihood of better ventricular 
+function with sinus rhythm. RCTs of rhythm control with 
+antiarrhythmic agents versus rate control have not shown 
+a benefit of rhythm control. More recent RCTs with abla-
+tion show that ablation may be preferable to antiarrhyth-
+mic drugs for a rhythm control strategy. Patients thought 
+to have a cardiomyopathy resulting from rapid AF despite 
+attempts at rate control should be aggressively treated 
+to maintain sinus rhythm and, if that is not successful, 
+atrioventricular nodal ablation with placement of a CRT 
+device can be considered. Patients with HF, and difficult 
+to control rates, may benefit from atrioventricular node 
+ablation and implantation of a permanent pacemaker if 
+other rate and rhythm control measures fail. If their L VEF 
+is >50%, there is no current evidence that CRT is ben-
+eficial compared with RV pacing.15,21
+Recommendation-Specific Supportive Text
+1. The efficacy of long-term warfarin for the preven-
+tion of stroke in patients with AF is well established; 
+randomized trials have shown reduced embolic 
+rates and mortality. The AHA/ACC/Heart Rhythm 
+Society guidelines for AF recommend use of the 
+CHA2DS2-VASc score (history of hypertension, 
+age ≥75 [doubled weight], diabetes mellitus, previ-
+ous stroke or transient ischemic attack or thrombo-
+embolism [doubled weight], vascular disease, age 
+65 to 74 years, sex category) to assess patient risk 
+for adverse outcomes before initiating anticoagu-
+lation therapy.1,27 ,28 Regardless of whether patients 
+receive rhythm or rate control, anticoagulation is 
+recommended for patients with HF and AF for 
+stroke prevention with a CHA 2DS2-VASc score of 
+≥2 (for men) and ≥3 (for women).2–5
+2. Trials of DOAC have compared the efficacy and 
+safety with warfarin therapy rather than placebo. 
+Several DOAC are available, including the factor 
+Xa inhibitors apixaban, rivaroxaban, edoxaban, and 
+the direct thrombin inhibitor dabigatran. 2–5 These 
+drugs do not need routine anticoagulation monitor-
+ing or dose adjustment. The fixed dosing together 
+with fewer interactions may simplify patient man-
+agement, particularly with the polypharmacy com-
+monly seen in HF, but cost for some patients can 
+be prohibitive when not covered by insurance. 
+These drugs have a potential for an improved ben-
+efit–risk profile compared with warfarin, which may 
+increase their use in practice, especially in those 
+at increased bleeding risk.6–9 In a meta-analysis of 
+4 trials examining efficacy and safety of DOAC in 
+patients with and without HF, DOAC more effec-
+tively reduced the rate of stroke or systemic embo-
+lism, major bleeding, and intracranial bleeding 
+compared with warfarin, with no treatment hetero-
+geneity by HF status.10
+3. The 2 largest RCTs of AF ablation in HF showed 
+a benefit in hospitalizations and mortality with 
+ablation. 11,12although other smaller trials did 
+not. In the AATAC (Ablation Versus Amiodarone 
+for Treatment of Persistent Atrial Fibrillation in 
+Patients with Congestive Heart Failure and an 
+Implanted Device) trial, 203 patients with persis-
+tent AF, L VEF <40%, and NYHA class II to III HF, 
+ablation improved the likelihood of maintaining 
+Downloaded from http://ahajournals.org by on May 30, 2026
+=== PAGE 79 ===
+Circulation. 2022;145:e895–e1032. DOI: 10.1161/CIR.0000000000001063 May 3, 2022 e973
+CLINICAL STATEMENTS 
+AND GUIDELINES
+Heidenreich et al 2022 AHA/ACC/HFSA Heart Failure Guideline
+normal sinus rhythm at 24 months compared 
+with amiodarone and, in addition, had a 45% 
+decrease in hospitalization and decrease in mor-
+tality (8% vs. 18%). 11 The CASTLE AF (Catheter 
+Ablation for Atrial Fibrillation with Heart Failure) 
+trial randomized 363 patients with paroxysmal or 
+persistent AF, L VEF <35%, NYHA class II to IV 
+HF, and ICD to ablation versus standard medi-
+cal care. 12 The composite endpoint of death or 
+rehospitalization was lower in ablation (28.5%) 
+compared with standard care (44.6%). In addi-
+tion, there was a lower mortality in the ablation 
+group. In a meta-analysis of 11 RCTs comparing 
+rhythm versus rate control, patients undergoing 
+catheter ablation had improved survival (49% 
+relative risk reduction) and reduced hospitaliza-
+tions (56% relative risk reduction). 13
+4. If a rhythm control strategy fails or is undesired, 
+and ventricular rates remain rapid despite medi-
+cal therapy after all other options are exhausted, 
+atrioventricular nodal ablation with implantation of 
+a CRT device can be considered as a treatment 
+option. Ablate and pace is an old strategy for diffi-
+cult to rate control AF. Early studies with RV pacing 
+showed benefit.15,16 However, when RV pacing was 
+compared with cardiac resynchronization in more 
+recent trials, especially in those with reduced L VEFs, 
+CRT generally produced more benefit than RV pac-
+ing.17–21 The PAVE (Left Ventricular-Based Cardiac 
+Stimulation post AV Nodal Ablation Evaluation) 
+and the BLOCK-HF (Biventricular versus Right 
+Ventricular Pacing in Patients with AV block) trials 
+included patients with L VEF >35%, with mean EF 
+46%22 in PAVE and 40% in BLOCK-HF (enrolled 
+≤50%). In both of these trials, patients undergoing 
+CRT had improved outcomes.
+5. HF is a hypercoagulable state and serves as 
+an independent risk factor for stroke, systemic 
+embolism, and mortality in the setting of AF. 23,24 
+There are compelling data to support the use of 
+anticoagulation in most patients with HF and con-
+comitant AF, barring contraindications. In patients 
+with HF and a CHA 2DS2-VASc score of 1, those 
+with AF had a 3-fold higher risk compared with 
+individuals without concomitant AF. 25 In a post 
+hoc analysis of 2 contemporary HF trials, parox-
+ysmal and new onset AF were associated with 
+a greater risk for hospitalization caused by HF 
+or stroke. 26 In a recent registry study, the risk of 
+stroke was particularly higher in the initial period 
+after diagnosis of HF among patients with preva-
+lent AF.29 Because HF is a risk factor, additional 
+risk factors may not be required to support the 
+use of anticoagulation in patients with HF, and 
+the decision to anticoagulate can be individual-
+ized according to risk versus benefit.
+11. SPECIAL POPULATIONS
+11.1. Disparities and Vulnerable Populations*
+Recommendations for Disparities and Vulnerable Populations
+Referenced studies that support the recommendations are summa-
+rized in the Online Data Supplements.
+COR LOE Recommendations
+1 C-LD
+1. In vulnerable patient populations at risk for 
+health disparities, HF risk assessments and 
+multidisciplinary management strategies should 
+target both known risks for CVD and social 
+determinants of health, as a means toward 
+elimination of disparate HF outcomes.1–6
+1 C-LD
+2. Evidence of health disparities should be moni-
+tored and addressed at the clinical practice 
+and the health care system levels.7–13
+*This section crosslinks to Section 7 .1.1, “Stage C Nonpharmacological In-
+terventions and Self-Care Support in HF, ” where screening and interventions for 
+social determinants of health are now addressed.
+Synopsis
+There are important differences in HF incidence, risk 
+factors, clinical care needs, and outcomes between spe-
+cific patient populations 2,3,14,15 (Table 27). It is essential 
+that HF clinicians be aware of the biological factors, 
+social determinants of health, and implicit biases that 
+impact the burden of disease, clinical decision-making, 
+and effective delivery of GDMT. 9,16–18 Women generally 
+present with HF later in life, with more comorbidities and 
+lower patient-reported health status than men. 10,19 Sur-
+vival for women with HF is generally more favorable, 20 
+although access to specialty care may be lower. 21–24 
+The highest incident of HF is consistently observed in 
+self-identified Black patients. 25,26 HF hospitalization and 
+mortality rates for Black patients are also higher than 
+for White patients, with the gap increasing over time for 
+young men.2,4,27 These differences are driven mostly by 
+social circumstances; a biological premise or genetic ex-
+planation for disease or disease severity should not be 
+inferred by race or ethnicity. 28 Older patients with HF 
+are especially vulnerable to polypharmacy, multimorbid-
+ity, cognitive decline, and frailty. 29,30 Important strate-
+gies to remove biases within health care professionals 
+and systems impacting minority and socioeconomically 
+disadvantaged patient populations include implicit bias 
+training, recruiting a diverse workforce, and promoting 
+broad access to HF care. 28,31–35
+Recommendation-Specific Supportive Text
+1. Hypertension is significantly more prevalent in 
+Black patients, compared with White patients, pop-
+ulations in the United States, with a younger age 
+of onset and greater attributable cardiovascular 
+risks.36,37 An estimated 50 000 to 350 000 immi-
+grants to the United States from Mexico and Central 
+America may have asymptomatic Trypanosoma 
+Downloaded from http://ahajournals.org by on May 30, 2026
+=== PAGE 80 ===
+May 3, 2022 Circulation. 2022;145:e895–e1032. DOI: 10.1161/CIR.0000000000001063e974
+CLINICAL STATEMENTS  
+AND GUIDELINES
+Heidenreich et al 2022 AHA/ACC/HFSA Heart Failure Guideline
+cruzi, with 20% progressing to Chagas cardiomy-
+opathy.38 Diabetes is highly prevalent in Southeast 
+Asian and Pacific Islander populations and more 
+strongly associated with poor HF outcomes. 39,40 
+Among patients with established HF, social and 
+medical vulnerabilities can impede successful 
+delivery of GDMT and are associated with poorer 
+outcomes.5,41 Among older adults, low income, 
+social isolation, and lack of caregiver support 
+increase HF mortality and low QOL. 9,18,42 Nursing 
+home residents, and elderly inpatients with acute 
+HF, are at risk of inadequate GDMT prescription, 
+Table 27. Risk of HF and Outcomes in Special Populations
+Vulnerable Population Risk of HF HF Outcomes
+Women The lifetime risk of HF is equivalent between sexes, but HFpEF risk 
+is higher in women—in FHS participants with new-onset HF, odds 
+of HFpEF (EF >45%) are 2.8-fold higher in women than in men.66
+Sex-specific differences in the predictive value of cardiac bio-
+markers for incident HF.67
+Nontraditional cardiovascular risk factors, including anxiety, de-
+pression, caregiver stress, and low household income may contrib-
+ute more toward incident heart disease in women than men.68
+Overall, more favorable survival with HF than men. In the OPTI-
+MIZE-HF registry, women with acute HF had a lower 1-y mortality 
+(HR, 0.93; 95% CI, 0.89–0.97), although women are more likely 
+not to receive optimal GDMT.20,69–71
+Lower patient-reported quality of life for women with HFrEF, com-
+pared with men.10,71
+Greater transplant waitlist mortality for women but equivalent sur-
+vival after heart transplantation or LVAD implantation.24,52
+Older adults Per FHS, at 40 y of age, the lifetime risk of incident HF is 20% 
+for both sexes; at 80 y of age, the risk remains 20% for men 
+and women despite the shorter life expectancy.72
+LVEF is preserved in at least two-thirds of older adults with the 
+diagnosis of HF.73
+Among 1233 patients with HF aged ≥80 y, 40% mortality during 
+mean 27-mo follow-up; survival associated with prescription of 
+GDMT.74
+Lower socioeconomic 
+status populations
+Among 27 078 White and Black adults of low income (70% 
+earned <$15 000/y) participating from 2002–2009 in the 
+Southern Community Cohort Study, a 1 interquartile increase in 
+neighborhood deprivation index was associated with a 12% in-
+crease in risk of HF (adjusted HR, 1.12; 95% CI, 1.07–1.18).46
+Age-adjusted 1999–2018 HF mortality (deaths/100 000; mean 
+and 95% CI) was higher with increasing quartiles of ADI, which is 
+based on 17 indicators of employment, poverty, and education:
+ Quartile 1, 20.0 (19.4–20.5);
+ Quartile 2, 23.3 (22.6–24.0);
+ Quartile 3, 26.4 (25.5–27 .3);
+ Quartile 4, 33.1 (31.8–34.4).6
+Black populations In MESA, patients of Black race had highest risk of incident HF 
+(4.6/1000 person-years) and highest proportion of nonisch-
+emic incident HF.26
+Higher prevalence of HF risk factors including hypertension, 
+obesity, and diabetes, compared with White populations.75
+CDC data show race-based differences in HF mortality over time: 
+Black men had a 1.16-fold versus 1.43-fold higher age-adjusted 
+HF-related CVD death rate compared with White men in 1999 ver-
+sus 2017; Black women had a 1.35-fold versus 1.54-fold higher 
+age-adjusted HF-related CVD death rate compared with White 
+women in 1999 versus 2017 .27
+Gap in outcomes is more pronounced among younger adults (35–
+64 y of age) versus older adults (65–84 y of age); age-adjusted 
+HF-related CVD death rates were 2.60-fold and 2.97-fold higher in 
+young Black versus White men and women, respectively.27
+Higher rates of hospitalization3 and mortality among patients with 
+HFpEF.76
+Lower 5-year survival after heart transplant.77–79
+Hispanic populations MESA study showed higher HF incidence in Hispanic com-
+pared with non-Hispanic White groups (3.5 versus 2.4 per 
+1000 person-years) but lower than for African Americans 
+(4.6/1000 person-years).7 ,26,80
+Despite higher rates of hospitalization for HF compared with non-
+Hispanic Whites, Hispanic patients with HF have shown lower 
+short-term mortality rates.81
+In GWTG, Hispanic patients with HFpEF had lower mortality (OR, 
+0.50; 95% CI, 0.31–0.81) than non-Hispanic Whites, but this was 
+not the case for Hispanic patients with HFrEF (OR, 0.94; 95% CI, 
+0.62–1.43).82
+Lower risk of developing AF in the setting of HF, compared with 
+White patients.83
+Asian and Pacific Islander 
+populations
+Limited population-specific data for Asian and Pacific Islander 
+subgroups in the United States.84,85
+High rates of preventable HF hospitalization observed in some 
+Asian and Pacific Islander populations.13
+Lower mortality rates from HF for Asian subgroups when listed as the 
+primary cause of death, compared with non-Hispanic White groups.86
+Native American and 
+Alaskan Native  
+populations
+Limited population-specific data, with cardiovascular risk fac-
+tor trends best characterized by the Strong Heart Study and 
+Strong Heart Family Study, demonstrating high rates of hyper-
+tension and diabetes.11,87
+Limited data suggest HF mortality rates in American Indians and 
+Alaska Natives are similar to those in White populations.88
+CDC indicates Centers for Disease Control and Prevention; CVD, cardiovascular disease; FHS, Framingham Heart Study; GDMT, guideline-directed medical 
+therapy; GWTG, Get With The Guidelines registry; HF, heart failure; HFpEF, heart failure with preserved ejection fraction; HFrEF, heart failure with reduced ejection 
+fraction; HR, hazard ratio; LVAD, left ventricular assist device; LVEF, left ventricular ejection fraction; MESA, Multi-Ethnic Study of Atherosclerosis; OPTMIZE-HF, 
+Organized Program To Initiate Lifesaving Treatment In Hospitalized Patients With Heart Failure; and OR, odds ratio.
+Downloaded from http://ahajournals.org by on May 30, 2026
+=== PAGE 81 ===
+Circulation. 2022;145:e895–e1032. DOI: 10.1161/CIR.0000000000001063 May 3, 2022 e975
+CLINICAL STATEMENTS 
+AND GUIDELINES
+Heidenreich et al 2022 AHA/ACC/HFSA Heart Failure Guideline
+although interventions in nursing facilities can 
+improve care delivery for HF. 30,43–45 Lower socio-
+economic status is associated with HF incidence 
+and HF mortality.6,46,47 Homelessness,48 substance 
+use, food insecurity, and lack of transportation 
+each represent potential barriers to optimal dis-
+ease management.49 Case management and social 
+work services are essential to the comprehensive 
+multidisciplinary HF team approach for coordinat-
+ing complex medical, psychiatric, and social needs 
+across multiple sectors.
+2. Health care system factors are a potential source 
+of disparate HF care delivery and outcomes. 
+Women are less likely to receive discharge 
+instructions for HF, 50 less likely to be referred to 
+specialty care,21,22 and less likely to receive a heart 
+transplantation, 51–54 compared with men. Patients 
+with HF of Black race have been identified as less 
+likely to receive care from a cardiologist during 
+an ICU admission for HF, 55 have less access to 
+specialized inpatient HF care, 12 and may be vul-
+nerable to clinician biases during evaluation for 
+advanced HF therapies. 11,53 Hispanic patients 
+are disproportionately noninsured in the United 
+States,56 may experience language barriers to 
+quality care, 7, 57 and also have less access to spe-
+cialized inpatient HF care. 12 Native American and 
+Alaskan Native populations experience particu-
+lar challenges in specialty care access because 
+Indian Health Service facilities are often small and 
+rural.11 Engaging patients in medical care within 
+culturally tailored environments has proven suc-
+cessful.58,59 HF written educational materials for 
+patients and caregivers should be delivered at or 
+below the sixth grade reading level. 60 Workplace 
+interventions that improve cultural competency 
+and address implicit biases are increasingly avail-
+able. Many aspects of GDMT have been inade-
+quately studied by population subgroups, largely 
+as a result of clinical trial underrepresentation.61–65
+11.2. Cardio-Oncology
+Recommendations for Cardio-Oncology
+Referenced studies that support the recommendations are summa-
+rized in the Online Data Supplements.
+COR LOE Recommendations
+1 B-NR
+1. In patients who develop cancer therapy–related 
+cardiomyopathy or HF, a multidisciplinary 
+discussion involving the patient about the risk-
+benefit ratio of cancer therapy interruption, dis-
+continuation, or continuation is recommended 
+to improve management.1,2
+2a B-NR
+2. In asymptomatic patients with cancer therapy–
+related cardiomyopathy (EF <50%), ARB, 
+ACEi, and beta blockers are reasonable to 
+prevent progression to HF and improve cardiac 
+function.2–4
+2a B-NR
+3. In patients with cardiovascular risk factors or 
+known cardiac disease being considered for 
+potentially cardiotoxic anticancer therapies, 
+pretherapy evaluation of cardiac function is rea-
+sonable to establish baseline cardiac function 
+and guide the choice of cancer therapy.2,5–16
+2a B-NR
+4. In patients with cardiovascular risk factors or 
+known cardiac disease receiving potentially 
+cardiotoxic anticancer therapies, monitoring of 
+cardiac function is reasonable for the early iden-
+tification of drug-induced cardiomyopathy.2,4,6,8
+2b B-R
+5. In patients at risk of cancer therapy–related 
+cardiomyopathy, initiation of beta blockers 
+and ACEi/ARB for the primary prevention of 
+drug-induced cardiomyopathy is of uncertain 
+benefit.17–28
+2b C-LD
+6. In patients being considered for potentially car-
+diotoxic therapies, serial measurement of car-
+diac troponin might be reasonable for further 
+risk stratification.29–32
+Synopsis
+Advances in cancer therapy and an aging population 
+have led to a growing number of cancer patients with 
+comorbid CVD receiving treatment for cancer. 33,34 Car-
+diovascular complications of cancer therapy, notably 
+cardiomyopathy and HF, can result in significant mor-
+bidity and interruption of treatment, impacting both 
+short- and long-term survival. 35,36 Because drug devel-
+opment in cancer therapeutics grows at an exponential 
+pace, establishing a unified framework for the man-
+agement of cancer therapy–related cardiomyopathy—
+commonly defined as a decrease in L VEF of at least 
+10% to <50%—is necessary to mitigate the cardio-
+vascular risks of established novel therapies. Cardio-
+oncology is the practice of precancer therapy cardio-
+vascular risk stratification, prevention, early detection, 
+and treatment of cardiovascular complications. 36,37 
+The evidence from which guideline recommendations 
+in cardio-oncology have emerged has been based on 
+studies of anthracycline and trastuzumab-induced car-
+diomyopathy. Cancer therapy–related cardiomyopathy 
+is, however, a heterogeneous disease, with a wide 
+range of presentations—from asymptomatic L V dys-
+function to cardiogenic shock—and drug-dependent 
+pathophysiologic mechanisms that are often poorly 
+understood. Until sufficient high-quality, drug-specific 
+evidence and cost-effectiveness analyses for screen-
+ing and monitoring are available, these recommen-
+dations are applicable across potentially cardiotoxic 
+therapies (Table 28).
+Recommendation-Specific Supportive Text
+1. HF secondary to cancer therapy–related cardio-
+myopathy is associated with significantly worse 
+Recommendations for Cardio-Oncology (Continued)
+COR LOE Recommendations
+Downloaded from http://ahajournals.org by on May 30, 2026
+=== PAGE 82 ===
+May 3, 2022 Circulation. 2022;145:e895–e1032. DOI: 10.1161/CIR.0000000000001063e976
+CLINICAL STATEMENTS  
+AND GUIDELINES
+Heidenreich et al 2022 AHA/ACC/HFSA Heart Failure Guideline
+outcomes. 1,2,38  Patients who develop HF while 
+receiving potentially cardiotoxic therapies 
+should have these therapies discontinued while 
+a diagnostic workup is undertaken to ascertain 
+the cause of HF and initiate GDMT. The com-
+plex decision to resume, modify, or permanently 
+discontinue therapy by the primary oncologist 
+should be done in a patient-centered approach 
+in concert with a cardiovascular specialist in 
+cardio-oncology. Factors impacting the decision 
+include the severity of cancer therapy–related 
+cardiomyopathy and the response to neurohor-
+monal blockade, the offending agent’s specific 
+mechanism of injury, the patient’s comorbid con-
+ditions and cancer-related prognosis and, lastly, 
+the availability of alternative noncardiotoxic 
+treatment options. However, the clinical signifi-
+cance of asymptomatic cancer therapy–related 
+cardiomyopathy that is identified on routine 
+monitoring is less clear. This is most apparent in 
+patients receiving trastuzumab in whom asymp-
+tomatic decreases in L VEF can occur in >10% of 
+patients yet result in a high recovery rate and low 
+rate of discontinuation of therapy. 1,2 Accordingly, 
+trastuzumab is often continued in patients 
+deemed low risk while neurohormonal blockade 
+is initiated. Conversely, patients diagnosed with 
+immune checkpoint-related myocarditis typically 
+have the offending agents discontinued indefi-
+nitely, given the associated high mortality. 39,40
+2. Studying the effectiveness of neurohormonal 
+therapies specifically in patients with the CTRC 
+gene is challenging given the relative infrequency 
+of events, heterogeneity of offending agents, 
+the poorly understood pathophysiology, and the 
+overlap with comorbid CVD. Available data in 
+patients with anthracycline and trastuzumab-
+induced cardiomyopathy suggest beta blockers 
+and ACEi are effective in improving L V dysfunc-
+tion.2–4 Given the dearth of data specific to can-
+cer therapy–related cardiomyopathy for other 
+GDMT, their use should align with the HFrEF 
+management guidelines. Initiation and uptitration 
+of standard HF therapies remains the mainstay of 
+treatment in patients with cancer therapy–related 
+cardiomyopathy or L VEF <50%, with close moni-
+toring of cardiac function to guide discussions 
+with oncology on the resumption of, or choice of, 
+subsequent cancer therapies. 2
+3. Pretherapy quantification of L VEF in patients 
+receiving potentially cardiotoxic cancer thera-
+pies serves 4 purposes: 1) pretherapy risk 
+stratification and diagnosis of preexisting car-
+diomyopathy, 2) establish a reference baseline 
+to which reevaluations can be compared, 3) initi-
+ate cardioprotective medications before cancer 
+therapy, and 4) guide choice of cancer therapy. 
+Echocardiography is recommended as the first-
+line modality for L VEF assessment given its 
+availability, safety, relatively low cost, and its abil-
+ity to provide structural and functional informa-
+tion beyond L VEF. 2,5–16,41–47  The risk of cancer 
+therapy–related cardiomyopathy varies greatly 
+across cancer therapies and is modified by pre-
+existing cardiovascular risk factors (Table 29). 
+Pretherapy L VEF is a strong predictor of major 
+adverse cardiovascular events in patients receiv-
+ing potentially cardiotoxic therapies. 2,5–10,42–47  The 
+clinical use and cost-effectiveness of systematic 
+screening in all patients, however, is unclear. 11–16 
+Table 28. Cancer Therapies Known to Be Associated With Cardiomyopathy
+Class
+ 
+Cardiac Function Monitoring Often 
+Performed in Clinical Practice
+Agent(s) Pretherapy Serial
+Anthracyclines55–57 Doxorubicin, epirubicin X X
+Alkylating agents58–60 Cyclophosphamide, ifosfamide, melphalan X  
+Antimicrotubule agents.61,62 Docetaxel   
+Antimetabolites63–72 Fluorouracil, capecitabine, fludarabine, decitabine   
+Anti-HER2 agents73–76 Trastuzumab, pertuzumab X X
+Monoclonal antibodies77 Rituximab   
+Tyrosine-kinase inhibitors78–100 Dabrafenib, dasatinib, lapatinib, pazopanib, ponatinib, sorafenib, 
+trametinib, sunitinib, vandetanib, imatinib, vandetanib
+  
+Immune checkpoint inhibitors39,40,101 Nivolumab, ipilimumab, pembrolizumab   
+Protease inhibitors102–106 Bortezomib, carfilzomib   
+Endocrine therapy107–111 Goserelin, leuprolide, flutamide, bicalutamide, nilutamide   
+Chimeric antigen receptor T-cell therapy.112,113 Tisagenlecleucel, axicabtagene ciloleucel X  
+Hematopoietic stem cell transplantation7 ,44,114–119 Hematopoietic stem cell transplantation X  
+Radiation7 ,44,114–119 Chest   
+Downloaded from http://ahajournals.org by on May 30, 2026
+=== PAGE 83 ===
+Circulation. 2022;145:e895–e1032. DOI: 10.1161/CIR.0000000000001063 May 3, 2022 e977
+CLINICAL STATEMENTS 
+AND GUIDELINES
+Heidenreich et al 2022 AHA/ACC/HFSA Heart Failure Guideline
+Patients with cancer and preexisting cardio-
+vascular risk factors are at significantly higher 
+risk of cancer therapy–related cardiomyopathy, 
+representing a population in which pretherapy 
+evaluation would have a significantly higher 
+yield.2,5–10,42–47
+4. The purpose of serial monitoring of L VEF in 
+patients receiving potentially cardiotoxic anti-
+cancer agents is to identify subclinical cardiac 
+injury, initiate cardioprotective agents, and con-
+sider temporary or permanent interruption of 
+the offending agent. 2,4,6,8,48  The practice of L VEF 
+monitoring has mostly been implemented in 
+patients receiving anthracyclines, trastuzumab, 
+or both (Table 28). In a study of 2625 patients 
+receiving anthracyclines for breast cancer or 
+lymphoma who underwent serial L VEF moni-
+toring, cancer therapy–related cardiomyopathy 
+occurred in 9% of patients, of whom 81% had 
+mild symptoms (NYHA class I to II). 4 Beta block-
+ers and ACEi-ARB were initiated in all patients, 
+with 86% having at least partial recovery of 
+LV E F.4 Patients with recovered L VEF had a lower 
+incidence of cardiac events than those that 
+did not. 4 The clinical significance of an asymp-
+tomatic decrease in L VEF and the optimal fre-
+quency and duration of monitoring is less clear 
+and likely depend on patient risk, the anticancer 
+agent used, and its cumulative dose. Although 
+a one-size-fits-all approach to monitoring for 
+cancer therapy–related cardiomyopathy may be 
+easier to implement systematically, it may not be 
+the most cost-effective. Until additional data are 
+available, limiting the monitoring to patients at 
+higher risk of cancer therapy–related cardiomy-
+opathy (Table 29) is a reasonable strategy.
+5. Whether the preemptive use of ACEi-ARB, spi-
+ronolactone, or selected beta blockers such as 
+carvedilol and nebivolol is effective in reducing the 
+risk of cancer therapy–related cardiomyopathy 
+has been investigated in a number of small 
+clinic trials, with conflicting findings. 17–27 ,49 The 
+most supportive of this practice is a study that 
+randomized 114 patients receiving high-dose 
+chemotherapy and having a posttreatment tropo-
+nin rise >0.07 ng/mL to enalapril or placebo. 20 
+None of the patients in the enalapril arm met the 
+primary endpoint (>10% decrease in L VEF to 
+below 50%), while 43% of patients in the stan-
+dard of care group had a significant decrease 
+in L VEF.20 Although other studies have shown 
+similar findings, the magnitude of the difference 
+in L VEF between arms was often small (<5%) 
+and of questionable clinical significance. 19,22 Not 
+all studies have replicated these findings. 18,21,24,26  
+Most importantly, none of the studies have 
+assessed whether preemptive use of HF thera-
+pies in patients at risk for cancer therapy–related 
+cardiomyopathy improves clinical outcomes, such 
+as mortality or hospitalization for HF. Additional 
+studies are needed to define the appropriate cri-
+teria and patient population in whom to initiate 
+medical therapies for the primary prevention of 
+cancer therapy–related cardiomyopathy.
+6. Cardiovascular biomarkers, notably troponin, have 
+been studied for cardiovascular risk stratifica-
+tion in patients undergoing potentially cardiotoxic 
+therapies.29–32 A study of 452 patients with breast 
+cancer showed that an elevated pretreatment 
+level (>14 ng/L) was associated with a 4-fold 
+increase in the risk of cancer therapy–related car-
+diomyopathy.32 Other smaller studies have found 
+no advantage in measuring troponin or natriuretic 
+peptides pretherapy. 50–53 Overall, these biomarker 
+studies were observational and small in sample 
+size and number of events. 54 Serial biomarkers 
+may be more useful in risk stratification. For exam-
+ple, in a study of 703 patients receiving anthra-
+cyclines, an increase in troponin within 72 hours 
+of chemotherapy and 1 month after the comple-
+tion of treatment course were associated with a 
+greater risk of cancer therapy–related cardiomy-
+opathy.29 The clinical use of measuring biomark-
+ers was assessed in 1 trial in which 114 patients 
+with posttreatment increase in troponin to >0.07 
+ng/mL were randomized to enalapril or standard 
+of care. 20 None of the patients in the enalapril 
+group had a decrease in L VEF, compared with 
+43% in the standard of care group. 20 Data for the 
+use of natriuretic peptides are limited. In practice, 
+biomarkers could provide rapid risk stratification 
+in patients for which echocardiographic findings 
+are equivocal and help determine whether symp-
+toms are cardiovascular in origin.
+Table 29. Risk Factors for Cancer Therapy–Related 
+Cardiomyopathy
+Age ≥60 y
+Black race
+CAD
+Hypertension
+Diabetes
+Preexisting cardiomyopathy
+Previous exposure to anthracyclines
+Previous chest radiation
+Elevated troponin pretherapy
+CAD indicates coronary artery disease.
+Downloaded from http://ahajournals.org by on May 30, 2026
+=== PAGE 84 ===
+May 3, 2022 Circulation. 2022;145:e895–e1032. DOI: 10.1161/CIR.0000000000001063e978
+CLINICAL STATEMENTS  
+AND GUIDELINES
+Heidenreich et al 2022 AHA/ACC/HFSA Heart Failure Guideline
+11.3. HF and Pregnancy
+Recommendations for HF and Pregnancy
+Referenced studies that support the recommendations are summa-
+rized in the Online Data Supplements.
+COR LOE Recommendations
+1 C-LD
+1. In women with a history of HF or cardiomyopathy, 
+including previous peripartum cardiomyopathy, 
+patient-centered counseling regarding contra-
+ception and the risks of cardiovascular deteriora-
+tion during pregnancy should be provided.1–8
+2b C-LD
+2. In women with acute HF caused by peripartum 
+cardiomyopathy and LVEF <30%, anticoagula-
+tion may be reasonable at diagnosis, until 6 to 
+8 weeks postpartum, although the efficacy and 
+safety are uncertain.9–12
+3: Harm C-LD
+3. In women with HF or cardiomyopathy who are 
+pregnant or currently planning for pregnancy, 
+ACEi, ARB, ARNi, MRA, SGLT2i, ivabradine, 
+and vericiguat should not be administered 
+because of significant risks of fetal harm.13–15
+Synopsis
+HF may complicate pregnancy either secondary to an ex-
+isting prepregnancy cardiomyopathy, or as a result of peri-
+partum cardiomyopathy.16–18 Peripartum cardiomyopathy is 
+defined as systolic dysfunction, typically L VEF <45%, often 
+with L V dilation, occurring in late pregnancy or early postpar-
+tum with no other identifiable cardiomyopathy cause.14,19–21 
+Peripartum cardiomyopathy occurs globally,22,23 with the 
+highest incidences in Nigeria, Haiti, and South Africa. Inci-
+dence in the United States is 1 in 1000 to 8000 deliver-
+ies and has risen over time.24,25 Peripartum cardiomyopathy 
+risk factors include maternal age >30 years, African an-
+cestry, multiparity, multigestation, preeclampsia/eclampsia, 
+anemia, diabetes, obesity, and prolonged tocolysis.22,23,26–30 
+A genetic contribution is recognized,31–33 particularly titan 
+gene mutations.34,35 Most women present with HF within 
+1 month postpartum; cardiogenic shock, arrhythmias, or 
+venous-arterial thromboembolism are all possible. Treat-
+ment includes GDMT adjusted for pregnancy or breast-
+feeding status and anticoagulation consideration16; iden-
+tification of a pathogenic 16-kDa prolactin led to trials of 
+the dopamine-agonist bromocriptine.36–41 Patient-centered 
+multidisciplinary planning is essential, including early insti-
+tution of mechanical support for shock42 (Table 30). Prog-
+nosis is related to initial L VEF, L V thrombosis, RV involve-
+ment, preeclampsia, geographic region, and race.7 ,43–48 LV  
+recovery and survival is generally favorable in developed 
+countries11,25,49; a 100-patient US registry showed 93% 
+transplant/L VAD-free 1-year survival.46
+Recommendation-Specific Supportive Text
+1. Pregnancy is generally well-tolerated in women with 
+cardiomyopathy and NYHA class I prepregnancy. 
+However, clinical deterioration can occur, so pre-
+pregnancy counseling and shared decision-making 
+are essential. 1,3,50 Among women with non–peri-
+partum cardiomyopathy, major cardiovascular 
+events occurred in 39% (United States) and 35% 
+(Canada) of pregnancies, with 1% and 7% mortal-
+ity, respectively.51,52 Previous cardiac events, NYHA 
+class III to IV, or L VEF <40% markedly increased 
+maternal and fetal risks.51–55 The ROPAC (Registry 
+of Pregnancy and Cardiac disease) study describes 
+pregnancy outcomes for 1321 women with struc-
+tural heart disease: Women with prepregnancy or 
+peripartum cardiomyopathy had the highest mortal-
+ity rate (2.4%).2,22 ROPAC was used to validate the 
+modified WHO risk classification56; the ZAHARA I 
+(Zwangerschap bij Aangeboren Hartafwijkingen I) 
+and CARPREG II (CARdiac disease in PREGnancy) 
+scores also support shared decision-making. 51,57 ,58 
+Subsequent pregnancies for women with previous 
+peripartum cardiomyopathy have been associated 
+with further decreases in L V function, maternal 
+death, and adverse fetal outcomes. 43,58 The stron-
+gest prognostic determinant is L VEF <50% before 
+a subsequent pregnancy. 6–8 An international sys-
+tematic review that included 93 subsequent preg-
+nancies with persistent L V dysfunction reported 
+48% further L VEF deterioration, 49% HF symp-
+toms, and 16% mortality, whereas among 98 with 
+recovered L V function presubsequent pregnancy, 
+these rates were 27%, 32%, and 0%, respectively.5
+2. Pregnancy is a hypercoagulable state even in the 
+absence of cardiovascular complications. In the set-
+ting of acute HF, particularly when there is L V blood 
+stasis because of severely reduced systolic function, 
+the risk of intracardiac thrombus formation is sig-
+nificant. The incidence of intracardiac thrombi dur-
+ing acute HF caused by peripartum cardiomyopathy 
+has been reported to be around 16% to 17%. 9,10 
+with 9% thromboembolic events in 2 separate 
+cohorts11,12 Women with an intracardiac thrombus 
+or a thromboembolic event receive anticoagula-
+tion as per standard of care. Women with severely 
+depressed L VEF (<30%) in the setting of acute 
+HF caused by peripartum cardiomyopathy can be 
+considered for anticoagulation, especially in the first 
+6 to 8 weeks postpartum, when hypercoagulabil-
+ity is most pronounced. If bromocriptine is used for 
+postpartum women with severe acute HF caused 
+by peripartum cardiomyopathy and L VEF <35%, it 
+should be accompanied by at least prophylactic-
+dosed anticoagulation, because of the potential 
+association with thromboembolic events.6 However, 
+the efficacy and safety of bromocriptine for acute 
+peripartum cardiomyopathy treatment currently 
+remains uncertain, and further randomized placebo-
+controlled trials are required to define the role of this 
+therapy, particularly in the setting of contemporary 
+HF GDMT and cardiogenic shock management.
+Downloaded from http://ahajournals.org by on May 30, 2026
+=== PAGE 85 ===
+Circulation. 2022;145:e895–e1032. DOI: 10.1161/CIR.0000000000001063 May 3, 2022 e979
+CLINICAL STATEMENTS 
+AND GUIDELINES
+Heidenreich et al 2022 AHA/ACC/HFSA Heart Failure Guideline
+Table 30. HF Management Strategies Across the Pregnancy Continuum
+ Preconception During Pregnancy Postpartum
+Nonpharmacological 
+strategies
+Preconception genetic counseling and testing 
+for potentially heritable cardiac conditions.
+Use of pregnancy cardiovascular risk 
+tools,51,56–58 and echocardiography for myo-
+cardial structure and function assessment, to 
+provide information that facilitates informed 
+counseling.
+For women planning a pregnancy, provide per-
+sonalized counseling that promotes the auton-
+omy and goals of the patient (and her partner, 
+as applicable), the patient’s ability for self-care 
+and risk awareness, and ensures adequate 
+psychosocial support for decision-making.3
+For women not currently planning a pregnancy 
+but who might conceive, discuss HF-specific 
+considerations regarding pregnancy and refer 
+to gynecology or primary care for contracep-
+tive counseling.
+Close maternal monitoring for HF signs or symp-
+toms or other cardiovascular instability by cardiol-
+ogy and obstetric and maternal-fetal medicine 
+teams; close fetal monitoring by the obstetric and 
+maternal-fetal medicine teams.
+Consideration of routine echocardiographic 
+screening in the third trimester for reassess-
+ment of myocardial structure and function 
+before labor; echocardiography for any signifi-
+cant changes in HF symptoms or signs during 
+pregnancy, or if HF medications are reduced 
+or discontinued.18
+BNP or NT-proBNP monitoring during preg-
+nancy may have some value for prediction of 
+cardiovascular events.73,74
+Close maternal monitoring by obstetrics and 
+maternal-fetal medicine teams for preeclamp-
+sia, which has shared risk factors and patho-
+genesis with PPCM.47,7 5
+For women presenting with decompensated 
+HF or cardiogenic shock, hemodynamic moni-
+toring and MCS, as appropriate, within a mul-
+tidisciplinary collaborative approach that sup-
+ports prompt decision-making about the timing 
+and mechanism of delivery.
+Multidisciplinary recommendations from ob-
+stetrics and neonatology and pediatrics teams 
+and shared decision-making regarding the 
+maternal and neonatal risks and benefits of 
+breastfeeding.
+For women presenting with decompensated 
+HF or cardiogenic shock, HF management 
+should include hemodynamic monitoring and 
+mechanical circulatory support as appropriate
+Pharmacological strat-
+egies
+Review of all current medications.
+For women planning pregnancy imminently, 
+modification of HF pharmacotherapy includ-
+ing. discontinuation of any ACEi, ARB, ARNi, 
+MRA, or SGLT2i or ivabradine medications; 
+within a construct of multidisciplinary shared 
+decision-making, continuation of a beta block-
+er (most commonly metoprolol), hydralazine, 
+and nitrates; adjustment of diuretic dosing 
+to minimize the risk of placental hypoperfu-
+sion.13–15
+Ideally, repeat echocardiography approximately 
+3 mo after preconception HF medication 
+adjustments to ensure stability of myocardial 
+structure and function before conception.
+Close monitoring of maternal blood pressure, 
+heart rate, and volume status, with adjustment 
+of the modified HF regimen as appropriate 
+to avoid hypotension (systemic vasodilation 
+peaks in the second trimester) and placental 
+hypoperfusion.
+For women with HF or cardiomyopathy 
+presenting during pregnancy without precon-
+ception counseling and assessment, urgent 
+discontinuation of any GDMT pharmacothera-
+pies with fetal toxicities; within a construct 
+of multidisciplinary shared decision-making, 
+continuation of a beta blocker (most com-
+monly metoprolol succinate), hydralazine, and 
+nitrates; adjustment of diuretic dosing to mini-
+mize the risk of placental hypoperfusion.
+For women with acute HF caused by PPCM 
+and LVEF <30%, consideration of anticoagula-
+tion until 6–8 wk postpartum, although the ef-
+ficacy and safety remain uncertain at this time.
+For postpartum women with severe acute HF 
+caused by PPCM and LVEF <35%, in GDMT 
+pharmacotherapy and prophylactic anticoagula-
+tion, to improve LVEF recovery6,31,3641,76; the 
+efficacy and safety of bromocriptine for acute 
+PPCM treatment remains uncertain at this time, 
+particularly in the setting of contemporary HF 
+GDMT and cardiogenic shock management. *
+For women who choose to breastfeed, review 
+medications with neonatology and pediatrics 
+teams for neonatal safety during lactation, ideally 
+with pharmacist consultation if available.
+Within a construct of multidisciplinary shared 
+decision-making, medications that may be ap-
+propriate during breastfeeding include ACEi 
+(enalapril or captopril preferred, monitor neona-
+tal weight), beta blockers (metoprolol preferred, 
+monitor neonatal heart rate).15
+Diuretics can suppress lactation, but with neo-
+natal follow-up the use of furosemide may be 
+appropriate.15
+Multidisciplinary care 
+beyond the cardiology 
+team
+Consultation with genetics, gynecology, and 
+maternal-fetal medicine teams, as appropriate 
+to the outcome of shared decision-making.
+Multidisciplinary management with obstetrics 
+and maternal-fetal medicine teams during 
+pregnancy.
+For women with decompensated HF or evi-
+dence of hemodynamic instability antepartum, 
+delivery planning will include obstetrics and 
+maternal-fetal medicine, anesthesia, and neo-
+natology teams.
+Multidisciplinary management with obstetrics, 
+maternal-fetal medicine, neonatology, and pe-
+diatrics teams, especially for multidisciplinary 
+recommendations regarding lactation.
+Consultation with gynecology team for ongoing 
+contraceptive planning.
+ACEi indicates angiotensin-converting enzyme inhibitor; ARB, angiotensin receptor blocker; ARNi, angiotensin receptor-neprilysin inhibitor; BNP, B-natriuretic peptide; GDMT, 
+guideline-directed medical therapy; HF, heart failure; LVEF, left ventricular ejection fraction; MCS, mechanical circulatory support; MRA, mineralocorticoid receptor antagonist; 
+NT-proBNP, N-terminal prohormone of brain natriuretic peptide; PPCM, peripartum cardiomyopathy; RCT, randomized controlled trial; RV, right ventricular; and SGLT2i, sodium-
+glucose cotransporter-2 inhibitor.
+*An initial open-label pilot RCT in South Africa suggested addition of bromocriptine to GDMT was associated with greater LVEF improvement and a lower rate of the composite 
+endpoint at 6 mo.37 Among 96 women with acute PPCM in a Burkina Faso RCT, 4 wk of bromocriptine was associated with LVEF recovery and lower mortality (16.6% versus 
+29.1%; P<0.001).39 A multicenter German study randomized 63 patients to 1 versus 8 wk of bromocriptine (no placebo, as deemed unethical), 38 with LVEF recovery ≥50% in 
+52% and 68% of the 1- and 8-wk groups, respectively, and no deaths. A substudy also showed high rates of RV recovery.41 Two retrospective cohorts (Germany, Canada) and a 
+multicenter cohort of subsequent pregnancies also suggested greater LVEF recovery with bromocriptine.31,38,40 Bromocriptine may currently be most justified in women with LVEF 
+<25% or cardiogenic shock. The downsides of prohibiting breastfeeding should be considered. Bromocriptine should be accompanied by at least prophylactic-dosed anticoagula-
+tion, because of potential hypercoagulability.38 The European Society of Cardiology endorses “BOARD” (Bromocriptine, Oral HF therapy, Anticoagulation, vasoRelaxing agents, 
+Diuretics) for acute PPCM management.13,14
+Downloaded from http://ahajournals.org by on May 30, 2026
+=== PAGE 86 ===
+May 3, 2022 Circulation. 2022;145:e895–e1032. DOI: 10.1161/CIR.0000000000001063e980
+CLINICAL STATEMENTS  
+AND GUIDELINES
+Heidenreich et al 2022 AHA/ACC/HFSA Heart Failure Guideline
+3. In 2015, the FDA adopted the Pregnancy and 
+Lactation Labeling Rule, which retired the previous 
+pregnancy risk categories A through X and, instead, 
+assigned a descriptive risk summary to aid medication 
+counseling for pregnant and breastfeeding women. 
+ACEi and ARB are associated with second- and third-
+trimester renal and tubular dysplasia, oligohydramnios, 
+fetal growth restriction, ossification disorders of the 
+skull, lung hypoplasia, contractures, large joints, ane-
+mia, and intrauterine fetal death and are, therefore, 
+strictly contraindicated.59–61 There are no specific 
+data for ARNi or ivabradine. For spironolactone, there 
+is sufficient information regarding dose-dependent 
+feminization of male rabbit and rat offspring to raise 
+concern62; data are limited for eplerenone. HFrEF 
+medications considered acceptable during preg-
+nancy,15 within a construct of multidisciplinary shared 
+decision-making regarding benefits and potential 
+risks, are furosemide, beta blockers (most com-
+monly metoprolol),63–65 hydralazine, and nitrates.13,14,19 
+Women with peripartum cardiomyopathy were his-
+torically counseled against breastfeeding because 
+of metabolic demands and prolactin stimulation, but 
+breastfeeding may even be associated with L V recov-
+ery.66–70 Postpartum women who breastfeed can start 
+ACEi (enalapril or captopril preferred), and metoprolol 
+remains the preferred beta blocker.66,71 The National 
+Library of Medicine hosts LactMed (https://www.ncbi.
+nlm.nih.gov/books/NBK501922/).72
+12. QUALITY METRICS AND REPORTING
+12.1. Performance Measurement
+Recommendations for Performance Measurement
+Referenced studies that support the recommendations are summa-
+rized in the Online Data Supplements.
+COR LOE Recommendations
+1 B-NR
+1. Performance measures based on professionally 
+developed clinical practice guidelines should 
+be used with the goal of improving quality of 
+care for patients with HF.1–7
+2a B-NR
+2. Participation in quality improvement programs, 
+including patient registries that provide bench-
+mark feedback on nationally endorsed, clinical 
+practice guideline–based quality and perfor-
+mance measures can be beneficial in improving 
+the quality of care for patients with HF.1,2,5,6
+Synopsis
+The ACC/AHA Task Force on Performance Measures 
+(Task Force) distinguishes quality measures from perfor-
+mance measures. Performance measures are selected 
+from the most important ACC/AHA clinical practice 
+guideline recommendations with the strongest evidence. 
+These measures are suitable for public reporting or pay 
+for performance. Quality measures are those metrics that 
+may be useful for local quality improvement but do not 
+reach the performance measure standard. Performance 
+measures of the ACC/AHA focus on process of care 
+measures that measure the quality of care by the clini-
+cian, facility, and health system. Patient registries that 
+track such measures can provide feedback to partici-
+pants, which may help with improvement in quality.
+Recommendation-Specific Supportive Text
+1. The current ACC/AHA performance and qual-
+ity measures (based on the 2013 ACC/AHA HF 
+guideline and the 2017 ACC/AHA/HFSA guideline 
+supplement) are displayed in Table 31.8 The perfor-
+mance measures are derived from the most defini-
+tive guideline recommendations (ie, NYHA class I 
+and class III recommendations). Observational data 
+suggest that hospitals that receive feedback on 
+their HF care improve over time.1–7
+2. Hospitals that perform well on medication-related 
+performance measures have better HF mortality 
+rates than hospitals with poorer performance.3,4 Other 
+observational data suggest that hospitals that par-
+ticipate in registries have better process of care and 
+outcomes compared with hospitals that do not partic-
+ipate.5,6 Randomized studies of audit and feedback of 
+performance, in many different patient groups, have, 
+in general, showed improvement in care.7 However, 
+public reporting of HF measures in Ontario, Canada, 
+did not clearly improve care during a randomized trial.9
+13. GOALS OF CARE
+13.1. Palliative and Supportive Care, Shared 
+Decision-Making, and End-of-Life
+Recommendations for Palliative and Supportive Care, Shared Decision-
+Making, and End-of-Life
+Referenced studies that support the recommendations are summa-
+rized in the Online Data Supplements.
+COR LOE Recommendations
+1 C-LD
+1. For all patients with HF, palliative and supportive 
+care—including high-quality communication, 
+conveyance of prognosis, clarifying goals of 
+care, shared decision-making, symptom man-
+agement, and caregiver support—should be 
+provided to improve QOL and relieve suffering.1
+1 C-LD
+2. For patients with HF being considered for, or 
+treated with, life-extending therapies, the option 
+for discontinuation should be anticipated and dis-
+cussed through the continuum of care, including at 
+the time of initiation, and reassessed with changing 
+medical conditions and shifting goals of care.2,3
+2a B-R
+3. For patients with HF—particularly stage D 
+HF patients being evaluated for advanced 
+therapies, patients requiring inotropic support 
+or temporary mechanical support, patients 
+experiencing uncontrolled symptoms, major 
+medical decisions, or multimorbidity, frailty, and 
+cognitive impairment—specialist palliative care 
+consultation can be useful to improve QOL 
+and relieve suffering.4–6
+Downloaded from http://ahajournals.org by on May 30, 2026
+=== PAGE 87 ===
+Circulation. 2022;145:e895–e1032. DOI: 10.1161/CIR.0000000000001063 May 3, 2022 e981
+CLINICAL STATEMENTS 
+AND GUIDELINES
+Heidenreich et al 2022 AHA/ACC/HFSA Heart Failure Guideline
+2a C-LD
+4. For patients with HF, execution of advance 
+care directives can be useful to improve docu-
+mentation of treatment preferences, delivery of 
+patient-centered care, and dying in preferred 
+place.7
+2a C-LD
+5. In patients with advanced HF with expected 
+survival <6 months, timely referral to hospice 
+can be useful to improve QOL.8
+Synopsis
+Palliative care—defined as patient- and family-cen-
+tered care that optimizes health-related QOL by an-
+ticipating, preventing, and treating suffering—should 
+be integrated into the care of all patients with HF. 9 
+Palliative care includes high-quality communication, 
+estimation of prognosis, anticipatory guidance, ad-
+dressing uncertainty; shared decision-making about 
+medically reasonable treatment options; advance care 
+planning; attention to physical, emotional, spiritual, and 
+Table 31. ACC/AHA 2020 HF Clinical Performance, Quality, and Structural Measures8
+Measure No. Measure Title Care Setting Attribution Measure Domain
+PM-1 LVEF assessment Outpatient Individual practitioner
+Facility
+Diagnostic
+PM-2 Symptom and activity assessment Outpatient Individual practitioner
+Facility
+Monitoring
+PM-3 Symptom management Outpatient Individual practitioner
+Facility
+Treatment
+PM-4 Beta-blocker therapy for HFrEF Outpatient
+Inpatient
+Individual practitioner
+Facility
+Treatment
+PM-5 ACEi, ARB, or ARNi therapy for HFrEF Outpatient
+Inpatient
+Individual practitioner
+Facility
+Treatment
+PM-6 ARNi therapy for HFrEF Outpatient
+Inpatient
+Individual practitioner
+Facility
+Treatment
+PM-7 Dose of beta blocker therapy for HFrEF Outpatient Individual practitioner
+Facility
+Treatment
+PM-8 Dose of ACEi, ARB, or ARNi therapy for HFrEF Outpatient Individual practitioner
+Facility
+Treatment
+PM-9 MRA therapy for HFrEF Outpatient
+Inpatient
+Individual practitioner
+Facility
+Treatment
+PM-10 Laboratory monitoring in new MRA therapy Outpatient
+Inpatient
+Individual practitioner
+Facility
+Monitoring
+PM-11 Hydralazine and isosorbide dinitrate therapy for HFrEF in 
+those patients self-identified as Black or African American
+Outpatient
+Inpatient
+Individual practitioner
+Facility
+Treatment
+PM-12 Counseling regarding ICD placement for patients with 
+HFrEF on GDMT
+Outpatient Individual practitioner
+Facility
+Treatment
+PM-13 CRT implantation for patients with HFrEF on GDMT Outpatient Individual practitioner
+Facility
+Treatment
+QM-1 Patient self-care education Outpatient Individual practitioner
+Facility
+Self-care
+QM-2 Measurement of patient-reported outcome-health status Outpatient Individual practitioner
+Facility
+Monitoring
+QM-3 Sustained or improved health status in HF Outpatient Individual practitioner
+Facility
+Outcome
+QM-4 Post-discharge appointment for patients with HF Inpatient Individual practitioner, 
+facility
+Treatment
+SM-1 HF registry participation Outpatient
+Inpatient
+Facility Structure
+Rehabilitation PMs Related to HF (From the 2018 ACC/AHA performance measures for cardiac rehabilitation10
+Rehab PM-2 Exercise training referral for HF from inpatient setting Inpatient Facility Process
+Rehab PM-4 Exercise training referral for HF from outpatient setting Outpatient Individual practitioner
+Facility
+Process
+ACEi indicates angiotensin-converting enzyme inhibitor; ACC, American College of Cardiology; AHA, American Heart Association; ARB, angiotensin receptor 
+blocker; ARNi, angiotensin receptor-neprilysin inhibitor; CRT, cardiac resynchronization therapy; GDMT, guideline-directed medical therapy; HF, heart failure; HFrEF, 
+heart failure with reduced ejection fraction; ICD, implantable cardioverter-defibrillator; LVEF, left ventricular ejection fraction; MRA, mineralocorticoid receptor antago-
+nist; PM, performance measure; QM, quality measure; and SM, structural measure.
+Recommendations for Palliative and Supportive Care, Shared Decision-
+Making, and End-of-Life (Continued)
+COR LOE Recommendations
+Downloaded from http://ahajournals.org by on May 30, 2026
+=== PAGE 88 ===
+May 3, 2022 Circulation. 2022;145:e895–e1032. DOI: 10.1161/CIR.0000000000001063e982
+CLINICAL STATEMENTS  
+AND GUIDELINES
+Heidenreich et al 2022 AHA/ACC/HFSA Heart Failure Guideline
+psychological distress; relief of suffering; and inclu-
+sion of family caregivers in patient care and attention 
+to their needs during bereavement. 10 Other support-
+ive needs include home and case management assis-
+tance, transportation, and care coordination. 11 Pallia-
+tive and supportive care has a role across the stages 
+of HF, starting early in the course of illness, intensify-
+ing in end-stage disease, and extending into caregiver 
+bereavement (Figure 15). 12 Many palliative care needs 
+can and should be addressed by the patient’s interdis-
+ciplinary care team (primary palliative care), including 
+clarifying their core values, health outcome goals, and 
+therapeutic preferences. 1 Specialty palliative care cli-
+nicians (secondary palliative care) may be consulted 
+to collaboratively care for patients and their families 
+with more challenging needs. 7 Barriers to the receipt 
+of palliative care include reluctance of health care pro-
+fessionals to address death and dying and a propen-
+sity for patients and caregivers to equate palliation and 
+hospice as hastening death. 15
+Recommendation-Specific Supportive Text
+1. Palliative and supportive approaches to the care of 
+patients with HF is inherent to their overall care and 
+should be incorporated throughout the course of ill-
+ness by all health care professionals.9 The applica-
+tion of the principles embraced have been shown 
+to improve various processes of care and patient 
+outcomes (Table 32). Palliative and supportive care 
+discussions do not imply that a formal palliative care 
+consultation is needed for each patient but that 
+team members should integrate palliative and sup-
+portive considerations into routine care.
+2. As overall illness progresses, major decisions are 
+increasingly made regarding the initiation, con-
+tinued use, and discontinuation of potentially 
+life-sustaining therapies, including intravenous ino-
+tropes, ICDs, MCS, and renal replacement therapy. 
+Dependence on, and deactivation of, potentially 
+life-sustaining therapies should be anticipated and 
+Figure 15. A Depiction of the Clinical Course of HF With Associated Types and Intensities of Available Therapies Over Time.12
+CHF indicates congestive heart failure; HF, heart failure; and MCS, mechanical circulatory support. Adapted with permission of the American 
+Thoracic Society. Copyright © 2021 American Thoracic Society. All rights reserved. The American Journal of Respiratory and Critical Care 
+Medicine is an official journal of the American Thoracic Society. 13 Readers are encouraged to read the entire article for the correct context 
+at https://www.atsjournals.org/doi/abs/10.1164/rccm.200605-587ST. The authors, editors, and The American Thoracic Society are not 
+responsible for errors or omissions in adaptations. Adapted with permission from the World Health Organization. 14 Copyright 1990 World 
+Health Organization.
+Downloaded from http://ahajournals.org by on May 30, 2026
+=== PAGE 89 ===
+Circulation. 2022;145:e895–e1032. DOI: 10.1161/CIR.0000000000001063 May 3, 2022 e983
+CLINICAL STATEMENTS 
+AND GUIDELINES
+Heidenreich et al 2022 AHA/ACC/HFSA Heart Failure Guideline
+discussed at the time of initiation and reconsidered 
+serially with changing medical realities and evolv-
+ing goals of care.12 Patients have a right to decline 
+or withdraw care at any time, consistent with the 
+principle of respect for autonomy.19 Failure to pro-
+actively address topics such as deactivation of ICD 
+and L VAD therapies can lead to suffering at the 
+end of life.2,3
+3. Although a range of clinicians caring for patients 
+with HF are able to manage many palliative care 
+needs, formal palliative care consultation may 
+be particularly helpful for patients with these: 1) 
+refractory symptoms; 2) major medical decisions 
+(eg, in the United States, inclusion of a palliative 
+care specialist on the team is mandatory for pay-
+ment from Medicare for L VAD implantation); and 3) 
+multimorbidity, frailty, or cognitive impairment (mul-
+tiple validated frailty and cognitive measures are 
+available). A growing body of evidence supports 
+the inclusion of specialty palliative care into the 
+management of patients diagnosed with a range 
+of advanced diseases,20 including HF. An interdis-
+ciplinary palliative care intervention in patients with 
+advanced HF showed greater benefits in QOL, 
+anxiety, depression, and spiritual well-being com-
+pared with usual care alone (PAL-HF [Palliative 
+Care in Heart Failure]).4 However, other trials have 
+been mixed, 5,6 and many negative, 21–23 such that 
+formal palliative care interventions should be tai-
+lored to patient and caregiver wants and needs.
+4. Advance care planning is a process that sup-
+ports understanding and sharing of patients’ per-
+sonal values, life goals, and preferences regarding 
+future medical care. Key domains include discuss-
+ing patients’ values, documenting plans for medi-
+cal treatments, designating a surrogate decision 
+maker, and revisiting this process over time. 24 
+Familiarity with local and state laws is needed relat-
+ing to advance care planning, decisions regarding 
+life-sustaining treatments, and evolving treatments 
+with legal ramifications, especially when caring for 
+vulnerable populations. 19 Few patients with HF 
+have formally defined their care goals and desig-
+nated a surrogate decision maker.25
+5. Hospice is a specific model of subspecialty pallia-
+tive care that is offered to patients with a terminal 
+disease who are at the end of life when curative 
+or life-prolonging therapy is no longer the focus 
+of treatment.10 Historically, hospice use has been 
+low among patients dying with HF and, among 
+those engaging in hospice, the duration of time in 
+hospice was short, suggesting late referral. Low 
+hospice referral rates and high-intensity care at 
+end of life often reflects health care professional 
+biases and limitations in models of care rather than 
+patient values. 26 This appears to be changing in 
+the United States, where CDC data from 2003 to 
+2017 on US site of death show that the proportion 
+of cardiovascular deaths related to HF occurring 
+in hospice facilities rose from 0.2% to 8.2% and 
+deaths at home rose from 20.6% to 30.7%.27
+Table 32. Palliative and Supportive Care Domains to Improve Processes of Care and Patient Outcomes
+Palliative and Supportive  
+Domains of Care What Palliative Care Adds to Overall HF Management
+High-quality communication Central to palliative care approaches are communication and patient-caregiver engagement techniques.16
+Conveyance of prognosis Palliative care specifically addresses patient and caregiver understanding of disease, treatment, and prognosis. Research 
+suggests that patients tend to overestimate their survival17 and overestimate the potential benefits of treatment.18 Objective 
+risk models can calibrate expectations, but discussion of uncertainty should accompany prognostic conversations, often sum-
+marized as “hope for the best, plan for the worst. ”
+Clarifying goals of care Management of patients with HF as their disease becomes end-stage and death seems near includes decisions about 
+when to discontinue treatments designed primarily to prolong life (eg, ICD, hospitalization, tube feeding), decisions on 
+when to initiate treatments to reduce pain and suffering that may hasten death (eg, narcotics), and decisions about the 
+location of death, home services, and hospice care. Exploring patients’ expressed preferences, values, needs, concerns, 
+means and desires through clinician-led discussion can clarify values-treatment concordance and improve medical deci-
+sion-making.12
+Shared decision-making Shared decision-making is a process by which patients and clinicians work together to make optimal health care 
+decisions from medically reasonable options that align with what matters most to patients. Shared decision-making re-
+quires: unbiased medical evidence about the risks, benefits, and burdens of each alternative, including no intervention; 
+clinician expertise in communication and tailoring that evidence for individual patients; and patient goals and informed 
+preferences. 12
+Symptom management Dyspnea, fatigue, pain, nausea, depression, anxiety, and other symptoms of HF refractory to cardiovascular therapies can be 
+partially remediated through palliative and supportive approaches in addition to GDMT.5
+Caregiver support Care of the patient with heart failure should extend to their loved ones, including beyond their death, to offer support to fami-
+lies and help them cope with loss.
+GDMT indicates guideline-directed medical therapy; HF, heart failure; and ICD, implantable cardioverter-defibrillator.
+Downloaded from http://ahajournals.org by on May 30, 2026
+=== PAGE 90 ===
+May 3, 2022 Circulation. 2022;145:e895–e1032. DOI: 10.1161/CIR.0000000000001063e984
+CLINICAL STATEMENTS  
+AND GUIDELINES
+Heidenreich et al 2022 AHA/ACC/HFSA Heart Failure Guideline
+Table 33. Evidence Gaps and Future Research Directions
+Definition
+ Consensus on specific classifications of HFrEF, HFpEF, HFmrEF, and HFimpEF or whether a 2-category definition of HFrEF and HF with normal EF, or an addi-
+tional category of HFimpEF is needed separately for HFpEF; and whether these approaches can be uniformly applied to clinical trials and practice.
+ Definitions, detection, and management of myocarditis and myocardial injury, especially in the context of rapidly evolving concepts, such as COVID-19 infection 
+and cardiotoxicity.
+ Definition and classification of cardiomyopathies.
+Screening
+ Cost-effectiveness of different strategies to screen for HF.
+ Prediction of higher risk for HF among patients with traditional risk factors (eg, which patients with diabetes would be at a higher risk HF, warranting preventive 
+treatment for HF).
+Diagnostics and monitoring
+ Individualized treatment targeting specific causes.
+ Advanced role of precision medicine with incorporation of genetic, personalized, and individualized factors in medical management of HF.
+ High-value methods to use biomarkers in the optimization of medical therapy.
+ Ability to use integrated systems biology models, including biomarkers, molecular markers, omics, diagnostic modalities, and genetic variables for diagnosis, 
+prognosis, and targeting therapies.
+ Ability to monitor and adjust therapy to individual changes over time.
+Nonmedical strategies
+ Efficacy and safety of specific dietary interventions, sodium restriction, and fluid restriction to prevent and treat HF.
+ Efficacy and safety of cardiac rehabilitation in patients with HFpEF and HFmrEF.
+Medical therapies
+ Effective management strategies for patients with HFpEF.
+ Evidence for specific treatment strategies for HFmrEF.
+ Research on causes and targeted therapies for cardiomyopathies such as peripartum cardiomyopathy.
+ Treatment of asymptomatic LV dysfunction to prevent transition to symptomatic HF.
+ Therapies targeting different phenotypes of HF; patients with advanced HF, persistent congestion, patients with profiles excluded from clinical trials such as 
+those with advanced kidney failure or hypotension.
+ Studies on targets for optimal decongestion; treatment and prevention of cardiorenal syndrome and diuretic resistance.
+ Diagnostic and management strategies of RV failure.
+ Efficacy and safety of hydralazine isosorbide in non–African American patients with HF and also in African American patients on GDMT including SGLT2i and ARNi.
+ Efficacy and safety of vericiguat in patients with HFrEF and markedly elevated natriuretic peptide levels.
+ Efficacy and safety of omecamtiv mecarbil in patients with stage D (advanced HF) HFrEF.
+ Additional efficacy and safety of SGLT2i therapies in patients with HFpEF or patients with HFmrEF, efficacy and safety of combined SGLT2i and SGLT1i in 
+HFrEF, HFmrEF, or HFpEF.
+ Additional efficacy and safety of SGLT2i studies in hospitalized patients with acute decompensated HF with and without diabetes.
+ Efficacy and safety of nonsteroidal, selective MRA in patients with HF.
+ Efficacy and safety of ARNi in pre-HF stage (stage B).
+ Effective management strategies for combined post- and precapillary pulmonary hypertension.
+ Novel treatments for ATTR cardiomyopathy.
+ Treatment strategies targeting downstream processes such as fibrosis, cardiac metabolism or contractile performance in dilated cardiomyopathies and HFpEF.
+ Comparative effectiveness and safety of different initiation and titration of GDMT at the same time or in different sequences, optimal strategies for sequencing 
+and titration of therapies for HFrEF and HFpEF.
+ Studies on prediction of patient response; studies on how to incorporate patient preferences.
+ Efficacy and safety of optimal BP target in patients with established HF and hypertension.
+ Optimal BP target while optimizing GDMT in patients with HFrEF and HFpEF.
+ Appropriate management of electrolyte abnormalities in HF (eg, hyperkalemia or hypokalemia).
+ Role of potassium binders in optimization of GDMT and clinical outcomes in patients with HF.
+ Efficacy and safety of pirfenidone and other targeted treatment strategies for maladaptive fibrosis in patients with HFpEF.
+ AF risk in patients treated with PUFA for patients at risk for HF or with HF.
+(Continued )
+Downloaded from http://ahajournals.org by on May 30, 2026
+=== PAGE 91 ===
+Circulation. 2022;145:e895–e1032. DOI: 10.1161/CIR.0000000000001063 May 3, 2022 e985
+CLINICAL STATEMENTS 
+AND GUIDELINES
+Heidenreich et al 2022 AHA/ACC/HFSA Heart Failure Guideline
+Device management and advanced therapies
+ Optimal and timely selection of candidates for percutaneous interventions, MCS, or cardiac transplantation.
+ Interventional approaches to recurrent, life-threatening ventricular tachyarrhythmias.
+ Comparative effectiveness of His-bundle pacing or multisite pacing to prevent progression of HF.
+ Safety and efficacy of cardiac contractility modulation, vagal nerve stimulation, autonomic modulation, and renal denervation in patients with HF.
+ Safety and efficacy of splanchnic nerve ablation splanchnic nerve ablation to reduce splanchnic vasoconstriction and volume redistribution in HF.
+ Safety and efficacy of interatrial shunt, pericardiectomy, baroreceptor and neuromodulation, and renal denervation in HFpEF.
+ Safety and efficacy of percutaneous or surgical interventions for tricuspid regurgitation.
+Clinical outcomes
+ Impact of therapies in patient-reported outcomes, including symptoms and QOL.
+ Studies addressing patient goals about care and care intensity as it intersects with disease trajectory.
+ Real-world evidence data to characterize generalization of therapies in HF populations who may not have been represented in trials.
+Systems of care and social determinants of health
+ Implementation studies on how to develop a structured approach to patient participation in informed decision-making and goal setting through the continuum of 
+HF care.
+ Implementation science for adoption and optimization of GDMT by clinicians on how to initiate multiple or sequenced GDMT, how to integrate these into learning 
+health systems and networks, and how to increase patient education and adherence.
+ Pragmatic studies on multidisciplinary new care models (eg, cardiac teams for structural and valve management, shock teams, cardiometabolic clinics, telemedi-
+cine, digital health, cardiac rehabilitation at home or postdischarge, and palliative care).
+ Studies on strategies to eliminate structural racism, disparities, and health inequities in HF care.
+ Studies addressing evidence gaps in women, racial, and ethnic populations.
+ Management strategies for palliative care.
+ Identification of factors that lead to unwarranted variations in HF care.
+ Identify characteristics of systems of care (eg, disciplines and staffing, electronic health records, and models of care) that optimize GDMT before and after the 
+discharge of hospitalized patients.
+Comorbidities
+ Further studies on rhythm control versus ablation in AF.
+ Appropriate patient selection in evolving percutaneous approaches in VHD (eg, timing and appropriate patient selection for TAVI, Mitraclip, tricuspid valve inter-
+ventions).
+ Effective and safe treatment options in CKD, sleep-disordered breathing, chronic lung disease, diabetes, depression, cognitive disorders, and iron deficiency.
+ Efficacy and safety of transvenous stimulation of the phrenic nerve or role of nocturnal supplemental oxygen for treatment of central sleep apnea in 
+patients with HF.
+ Efficacy and safety of weight loss management and treatment strategies in patients with HF and obesity.
+ Efficacy and safety of nutritional and food supplementation in patients with HF and frailty and malnutrition.
+ Efficacy and safety of GDMT in end-stage renal disease or in patients with eGFR <30 mL/min/1.73 m 2.
+Future/novel strategies
+ Pharmacological therapies targeting novel pathways and endophenotypes.
+ New device therapies, including percutaneous and durable mechanical support devices.
+ Invasive (eg, pulmonary artery pressure monitoring catheter) or noninvasive remote monitoring.
+ Studies on telehealth, digital health, apps, wearables technology, and artificial intelligence.
+ Role of enrichment trials, adaptive trials, umbrella trials, basket trials, and machine learning–based trials.
+ Therapies targeting multiple cardiovascular, cardiometabolic, renovascular, and pathobiological mechanisms.
+ Novel dissemination and implementation techniques to identify patients with HF (eg, natural language processing of electronic health records and automated 
+analysis of cardiac imaging data) and to test and monitor proven interventions.
+AF indicates atrial fibrillation; ARNi, angiotensin receptor-neprilysin inhibitor; ATTR, transthyretin amyloidosis; BP, blood pressure; CKD, chronic kidney disease; 
+COVID-19, coronavirus disease 2019; eGFR, estimated glomerular filtration rate; GDMT, guideline-directed medical therapy; HF, heart failure; HFimpEF, heart failure 
+with improved ejection fraction; HFmrEF, heart failure with mildly reduced ejection fraction; HFpEF, heart failure with preserved ejection fraction; HFrEF, heart failure 
+with reduced ejection fraction; LV, left ventricular; MCS, mechanical circulatory support; MRA, mineralocorticoid receptor antagonist; PUFA, polyunsaturated fatty 
+acid; QOL, quality of life; RV, right ventricular; SGLT1i, sodium-glucose cotransporter-1 inhibitors; SGLT2i, sodium-glucose cotransporter-2 inhibitors; TAVI, transcath-
+eter aortic valve implantation; and VHD, valvular heart disease.
+Table 33. Continued
+Downloaded from http://ahajournals.org by on May 30, 2026
+=== PAGE 92 ===
+May 3, 2022 Circulation. 2022;145:e895–e1032. DOI: 10.1161/CIR.0000000000001063e986
+CLINICAL STATEMENTS  
+AND GUIDELINES
+Heidenreich et al 2022 AHA/ACC/HFSA Heart Failure Guideline
+14. RECOMMENDATION FOR PATIENT-
+REPORTED OUTCOMES AND EVIDENCE 
+GAPS AND FUTURE RESEARCH 
+DIRECTIONS
+14.1. Patient-Reported Outcomes
+Recommendation for Patient-Reported Outcomes
+COR LOE Recommendation
+2a C-LD
+1. In patients with HF, standardized assessment 
+of patient-reported health status using a vali-
+dated questionnaire can be useful to provide 
+incremental information for patient functional 
+status, symptom burden, and prognosis.1–19
+Synopsis
+Health status encapsulates symptoms, functional status, 
+and health-related QOL. Understanding health status is 
+important for treatment decisions and counseling. Clini-
+cians traditionally evaluate health status based on the 
+clinical interview and exam, summarizing it as the NYHA 
+functional classification. Additionally, patient-reported 
+health status can be ascertained using standardized 
+questionnaires, such as the Kansas City Cardiomyopathy 
+Questionnaire or the Minnesota Living with Heart Fail-
+ure Questionnaire. Previous studies found discordance 
+between patient-reported health status and clinician as-
+sessment using NYHA classification.20,21 Patient-reported 
+health status may have higher reliability and better sensi-
+tivity for clinical changes than NYHA classification and is 
+moderately correlated with CPET and the 6-minute walk 
+test.1–8 Patient-reported health status is an independent 
+predictor of hospitalization and mortality. 9–19 There are 
+minimal data regarding the effect of incorporating patient-
+reported health status assessment into routine care. How-
+ever, these assessments provide valuable incremental 
+information beyond the standard evaluation. Increasing 
+the patient’s voice in clinical assessment and decision-
+making is important in its own right. Additionally, there is 
+substantial variation in risk-adjusted health status across 
+practices.22 Future efforts should focus on expanding the 
+use of patient-reported health status in routine care while 
+researching its implementation and impact.
+Recommendation-Specific Supportive Text
+1. Standardized patient-reported health status ques-
+tionnaires provide reliable measures of health 
+status correlated to other functional status mea-
+sures1–8 and independently associated with 
+clinical outcomes. 9–19 HF-specific health status 
+assessments (eg, Kansas City Cardiomyopathy 
+Questionnaire, Minnesota Living with Heart 
+Failure Questionnaire, PROMIS-Plus-HF [Patient-
+Reported Outcomes Measurement Information 
+System-Plus-Heart Failure]) are preferable 
+because they are more sensitive to changes in 
+disease status and more responsive to HF therapy 
+than generic health status measures. 1 Although 
+select clinics have successfully implemented 
+patient-reported health status in clinical practice, 23 
+there are minimal data regarding the impact of such 
+efforts. However, there are potential advantages to 
+routine assessment. First, better understanding of 
+symptom burden and prognosis may improve the 
+quality of treatment decisions and, subsequently, 
+QOL. Health status can be improved via guide-
+line-recommended therapies. 24–31 Although some 
+therapies are recommended for mortality benefit, 
+symptom assessment can identify patients need-
+ing additional interventions (eg, diuretic escala-
+tion). Second, routine assessment can facilitate 
+population health management by identifying high-
+risk patients needing closer monitoring or refer-
+ral to specialized centers. Third, patient-reported 
+health status assessment increases the patient’s 
+role, which can motivate initiation and uptitration 
+of medical therapy. However, routine assessment 
+of patient-reported status increases the burden 
+of data collection for patients and health systems 
+and underscores the need for future studies evalu-
+ating the impact of assessment.
+14.2. Evidence Gaps and Future Research 
+Directions
+Significant gaps exist despite evolving evidence and 
+treatment strategies in patients with HF. Table 33 pro-
+vides selected, common issues that should be addressed 
+in future clinical research.
+ACC/AHA JOINT COMMITTEE MEMBERS
+Joshua A. Beckman, MD, MS, FAHA, FACC, Chair; Pat-
+rick T. O’Gara, MD, MACC, FAHA, Immediate Past Chair*; 
+Sana M. Al-Khatib, MD, MHS, FACC, FAHA*; Anastasia 
+L. Armbruster, PharmD, FACC; Kim K. Birtcher, PharmD, 
+MS, AACC*; Joaquin E. Cigarroa, MD, FACC*; Lisa de las 
+Fuentes, MD, MS, FAHA; Anita Deswal, MD, MPH, FACC, 
+FAHA; Dave L. Dixon, PharmD, FACC*; Lee A. Fleisher, 
+MD, FACC, FAHA*; Federico Gentile, MD, FACC*; Zachary 
+D. Goldberger, MD, FACC, FAHA*; Bulent Gorenek, MD, 
+FACC; Norrisa Haynes, MD, MPH; Adrian F. Hernandez, 
+MD, MHS; Mark A. Hlatky, MD, FACC, FAHA*; José A. 
+Joglar, MD, FACC, FAHA; W. Schuyler Jones, MD, FACC; 
+Joseph E. Marine, MD, FACC*; Daniel B. Mark, MD, MPH, 
+FACC, FAHA; Debabrata Mukherjee, MD, FACC, FAHA; 
+Latha P. Palaniappan, MD, MS, FACC, FAHA; Mariann R. 
+Piano, RN, PhD, FAHA; Tanveer Rab, MD, FACC; Erica S. 
+Spatz, MD, MS, FACC; Jacqueline E. Tamis-Holland, MD, 
+FAHA, FACC; Duminda N. Wijeysundera, MD, PhD*; Y. 
+Joseph Woo, MD, FACC, FAHA
+*Former Task Force member; current member during the writing effort.
+Downloaded from http://ahajournals.org by on May 30, 2026
+=== PAGE 93 ===
+Circulation. 2022;145:e895–e1032. DOI: 10.1161/CIR.0000000000001063 May 3, 2022 e987
+CLINICAL STATEMENTS 
+AND GUIDELINES
+Heidenreich et al 2022 AHA/ACC/HFSA Heart Failure Guideline
+PRESIDENTS AND STAFF
+American College of Cardiology
+Dipti N. Itchhaporia, MD, FACC, President
+Cathleen C. Gates, Chief Executive Officer
+MaryAnne Elma, MPH, Senior Director, Enterprise Content 
+and Digital Strategy
+Grace D. Ronan, Team Leader, Clinical Policy Publications
+Timothy W. Schutt, MA, Clinical Practice Guidelines  
+Analyst
+American College of Cardiology/American 
+Heart Association
+Thomas S.D. Getchius, Director, Guideline Strategy and 
+Operations
+Abdul R. Abdullah, MD, Director, Guideline Science and 
+Methodology
+American Heart Association
+Donald M. Lloyd-Jones, MD, ScM, FAHA, President
+Nancy Brown, Chief Executive Officer
+Mariell Jessup, MD, FAHA, Chief Science and Medical 
+Officer
+Radhika Rajgopal Singh, PhD, Senior Vice President, 
+Office of Science and Medicine
+Paul St. Laurent, DNP, RN, Senior Science and Medicine 
+Advisor, Office of Science, Medicine and Health
+Jody Hundley, Production and Operations Manager, 
+Scientific Publications, Office of Science Operations
+ARTICLE INFORMATION
+This document was approved by the American College of Cardiology Clinical 
+Policy Approval Committee, the American Heart Association Science Advisory 
+and Coordinating Committee, the American College of Cardiology Science and 
+Quality Committee, and the Heart Failure Society of America Executive Commit-
+tee in December 2021 and the American Heart Association Executive Commit-
+tee in January 2022.
+Supplemental materials are available with this article at https://www.ahajournals.
+org/doi/suppl/10.1161/CIR.0000000000001063
+This article has been copublished in the Journal of the American College of 
+Cardiology and the Journal of Cardiac Failure.
+Copies: This document is available on the websites of the American Heart 
+Association (professional.heart.org), the American College of Cardiology (www.
+acc.org), and the Heart Failure Society of America (www.hfsa.org). A copy of the 
+document is also available at https://professional.heart.org/statements by se-
+lecting the “Guidelines & Statements” button. To purchase additional reprints, call 
+215-356-2721 or email Meredith.Edelman@wolterskluwer.com.
+The expert peer review of AHA-commissioned documents (eg, scientific 
+statements, clinical practice guidelines, systematic reviews) is conducted by the 
+AHA Office of Science Operations. For more on AHA statements and guidelines 
+development, visit https://professional.heart.org/statements. Select the “Guide-
+lines & Statements” drop-down menu near the top of the webpage, then click 
+“Publication Development.”
+Permissions: Multiple copies, modification, alteration, enhancement, and/or 
+distribution of this document are not permitted without the express permission of 
+the American Heart Association. Instructions for obtaining permission are located 
+at https://www.heart.org/permissions. A link to the “Copyright Permissions Re-
+quest Form” appears in the second paragraph (https://www.heart.org/en/abou-
+tus/statements-and-policies/copyright-request-form).
+ REFERENCES
+PREAMBLE
+ 1. Committee on Standards for Developing Trustworthy Clinical Practice 
+Guidelines, Institute of Medicine (US). Clinical Practice Guidelines We Can 
+Trust. National Academies Press; 2011.
+ 2. Committee on Standards for Systematic Reviews of Comparative Effective-
+ness Research, Institute of Medicine (US). Finding What Works in Health 
+Care: Standards for Systematic Reviews. National Academies Press; 2011. 
+ 3. Anderson JL, Heidenreich PA, Barnett PG, et al. ACC/AHA statement on 
+cost/value methodology in clinical practice guidelines and performance 
+measures: a report of the American College of Cardiology/American Heart 
+Association Task Force on Performance Measures and Task Force on Prac-
+tice Guidelines. Circulation. 2014;129:2329–2345. 
+ 4. ACCF/AHA Task Force on Practice Guidelines. Methodology Manual and 
+Policies From the ACCF/AHA Task Force on Practice Guidelines. American 
+College of Cardiology and American Heart Association; 2010. Accessed 
+June 3, 2020. https://www.acc.org/Guidelines/About-Guidelines-and-
+Clinical-Documents/Methodology and https://professional.heart.org/-/
+media/phd-files/guidelines-and-statements/methodology_manual_and_
+policies_ucm_319826.pdf
+ 5. Halperin JL, Levine GN, Al-Khatib SM, et al. Further evolution of the ACC/
+AHA clinical practice guideline recommendation classification system: a re-
+port of the American College of Cardiology/American Heart Association 
+Task Force on Clinical Practice Guidelines. Circulation. 2016;133:1426–
+1428. 
+ 6. Arnett DK, Goodman RA, Halperin JL, et al. AHA/ACC/HHS strategies to 
+enhance application of clinical practice guidelines in patients with cardio-
+vascular disease and comorbid conditions: from the American Heart As-
+sociation, American College of Cardiology, and U.S. Department of Health 
+and Human Services. Circulation. 2014;130:1662–1667 . 
+ 7 . Levine GN, O’Gara PT, Beckman JA, et al. Recent innovations, modifications, 
+and evolution of ACC/AHA clinical practice guidelines: an update for our 
+constituencies: a report of the American College of Cardiology/American 
+Heart Association Task Force on Clinical Practice Guidelines. Circulation. 
+2019;139:e879–e886. 
+1.4. Scope of the Guideline
+ 1. Yancy CW, Jessup M, Bozkurt B, et al. 2013 ACCF/AHA guideline for the 
+management of heart failure: a report of the American College of Cardiol-
+ogy Foundation/American Heart Association Task Force on Practice Guide-
+lines. Circulation. 2013;128:e240–e327 . 
+ 2. Yancy CW, Jessup M, Bozkurt B, et al. 2017 ACC/AHA/HFSA focused 
+update of the 2013 ACCF/AHA guideline for the management of heart 
+failure: a report of the American College of Cardiology/American Heart As-
+sociation Task Force on Clinical Practice Guidelines and the Heart Failure 
+Society of America. Circulation. 2017;136:e137–e161. 
+ 3. Arnett DK, Blumenthal RS, Albert MA, et al. 2019 ACC/AHA guideline on 
+the primary prevention of cardiovascular disease: a report of the American 
+College of Cardiology/American Heart Association Task Force on Clinical 
+Practice Guidelines. Circulation. 2019;140:e596–e646. 
+ 4. Otto CM, Nishimura RA, Bonow RO, et al. 2020 ACC/AHA guideline for the 
+management of patients with valvular heart disease: a report of the Ameri-
+can College of Cardiology/American Heart Association Joint Committee on 
+Clinical Practice Guidelines. Circulation. 2021;143:e72–e227 . 
+ 5. Lawton JS, Tamis-Holland JE, Bangalore S, et al. 2021 ACC/AHA/SCAI 
+guideline for coronary artery revascularization: a report of the American Col-
+lege of Cardiology/American Heart Association Joint Committee on Clinical 
+Practice Guidelines. Circulation. 2022;145:e18–e114. 
+ 6. Hillis LD, Smith PK, Anderson JL, et al. 2011 ACCF/AHA guideline for 
+coronary artery bypass graft surgery. a report of the American College of 
+Cardiology Foundation/American Heart Association Task Force on Practice 
+Guidelines. Developed in collaboration with the American Association for 
+Thoracic Surgery, Society of Cardiovascular Anesthesiologists, and Society 
+of Thoracic Surgeons. Circulation. 2011;124:e652–e735. 
+ 7 . Levine GN, Bates ER, Blankenship JC, et al. 2011 ACCF/AHA/SCAI 
+guideline for percutaneous coronary intervention. a report of the American 
+College of Cardiology Foundation/American Heart Association Task Force 
+on Practice Guidelines and the Society for Cardiovascular Angiography and 
+Interventions. Circulation. 2011;124:e574–e651.
+ 8. Levine GN, Bates ER, Blankenship JC, et al. 2015 ACC/AHA/SCAI fo-
+cused update on primary percutaneous coronary intervention for patients 
+Downloaded from http://ahajournals.org by on May 30, 2026

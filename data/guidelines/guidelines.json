@@ -1,6 +1,7 @@
 {
   "schemaVersion": 1,
   "guidelines": [
+    { "id": "esc-hf-2026", "path": "esc-hf-2026/" },
     { "id": "esc-af-2024", "path": "esc-af-2024/" },
     { "id": "esc-cmp-2023", "path": "esc-cmp-2023/" },
     { "id": "esc-acs-2023", "path": "esc-acs-2023/" },

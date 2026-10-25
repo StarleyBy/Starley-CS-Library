@@ -1,0 +1,83 @@
+{
+  "schemaVersion": 1,
+  "id": "esc-hf-2026.rt24-exercise-training-cardiac-rehabilitation",
+  "guidelineId": "esc-hf-2026",
+  "number": "Recommendation Table 24",
+  "type": "recommendations",
+  "title": {
+    "en": "Recommendation Table 24 — Recommendations for exercise training and cardiac rehabilitation",
+    "ru": "Таблица рекомендаций 24 — Рекомендации по физическим тренировкам и кардиореабилитации"
+  },
+  "tags": [
+    "exercise-training",
+    "cardiac-rehabilitation",
+    "lvad",
+    "dhf",
+    "qol",
+    "exercise-capacity",
+    "hospitalization"
+  ],
+  "source": {
+    "expectedRows": 4
+  },
+  "i18nStatus": {
+    "ru": "reviewed"
+  },
+  "sections": [
+    {
+      "id": "sec-exercise-rehabilitation",
+      "title": {
+        "en": "Recommendations for exercise training and cardiac rehabilitation (see Evidence Tables 97–99)",
+        "ru": "Рекомендации по физическим тренировкам и кардиореабилитации (см. Доказательные таблицы 97–99)"
+      },
+      "rows": [
+        {
+          "id": "r01",
+          "text": {
+            "en": "Personalized exercise training, in the context of multidisciplinary exercise-based cardiac rehabilitation, is recommended for all stable patients, unless there are specific contraindications, in order to improve exercise capacity and QoL, and reduce the risk of all-cause hospitalization.",
+            "ru": "Персонализированные физические тренировки в контексте мультидисциплинарной кардиореабилитации на основе физических упражнений рекомендуются всем стабильным пациентам при отсутствии специфических противопоказаний для повышения толерантности к физическим нагрузкам и качества жизни, а также снижения риска госпитализаций по любым причинам."
+          },
+          "class": "I",
+          "level": "B1",
+          "refs": [1021]
+        },
+        {
+          "id": "r02",
+          "text": {
+            "en": "Personalized exercise training outside exercise-based cardiac rehabilitation is recommended for all stable patients on a long-term basis, unless there are specific contraindications, in order to improve exercise capacity and QoL, and reduce the risk of all-cause hospitalization.",
+            "ru": "Персонализированные физические тренировки вне рамок кардиореабилитации на основе физических упражнений рекомендуются всем стабильным пациентам на долгосрочной основе при отсутствии специфических противопоказаний для повышения толерантности к физическим нагрузкам и качества жизни, а также снижения риска госпитализаций по любым причинам."
+          },
+          "class": "I",
+          "level": "B2",
+          "refs": [1022]
+        },
+        {
+          "id": "r03",
+          "text": {
+            "en": "Cardiac rehabilitation^[c] is recommended in patients with an LVAD to improve functional capacity and QoL.",
+            "ru": "Кардиореабилитация^[c] рекомендуется пациентам с LVAD для улучшения функциональной способности и качества жизни."
+          },
+          "class": "I",
+          "level": "B1",
+          "refs": [1005, 1023]
+        },
+        {
+          "id": "r04",
+          "text": {
+            "en": "Cardiac rehabilitation^[c] should be considered in patients with DHF, as soon as safely possible, to improve functional capacity and QoL.",
+            "ru": "Кардиореабилитацию^[c] следует рассматривать у пациентов с ДСН (DHF) как можно раньше, как только это станет безопасно, для улучшения функциональной способности и качества жизни."
+          },
+          "class": "IIa",
+          "level": "B1",
+          "refs": [1002, 1024, 1025, 1026]
+        }
+      ]
+    }
+  ],
+  "footnotes": {
+    "c": {
+      "en": "Either comprehensive or exercise-based.",
+      "ru": "Либо комплексная, либо на основе физических упражнений."
+    }
+  }
+}

@@ -1,0 +1,2477 @@
+
+--- Page 58 ---
+Eligibility for each option may change according to the specific 
+conditions of each patient, which may also change over time. 
+Some younger patients prefer to remain on LVAD for a pro-
+longed period, rather than proceeding to transplantation imme-
+diately, to increase the potential number of life years gained. 
+Other factors not related to the patient, such as average time 
+on the heart transplantation waiting list, the centre’s surgical ex-
+perience, and resources, can also influence decision-making. 
+8.2.4. Symptom control and end-of-life care 
+Advance care planning is recommended in parallel to advanced 
+HF treatments to determine goals of care and improve QoL 
+along the disease trajectory.627 For indications and the core 
+components of end-of-life care, see Supplementary data 
+online, Table S20. 
+End-of-life care in advanced HF focuses on symptom manage-
+ment (including breathlessness, pain, and anxiety and depression), 
+patient comfort, and maintaining QoL ensuring personalized, com-
+passionate care. It involves clear communication, shared decision- 
+making, and integrating palliative or hospice care to support both 
+the patient and their family. For further details on symptom man-
+agement, see Supplementary data online, Section S5.2.3. 
+Patients on durable MCS may request withdrawal of life- 
+sustaining treatments because these are no longer consistent 
+with their goals of care, because of poor QoL or newly devel-
+oped serious comorbidities such as cancer. The MCS may be de-
+activated after careful evaluation of the patient’s wish and by, or 
+under the supervision of, a specialized team. This decision has to 
+take national laws into account. For details regarding follow-up 
+in patients with advanced HF see section 11.6.2 and  
+Recommendation Table 26. 
+9. Cardiovascular comorbidities 
+9.1. Arrhythmias and conduction disturbances 
+9.1.1. Atrial fibrillation 
+Heart failure and AF frequently coexist, with AF occurring in 
+more than half of patients with HF, and HF occurring in more 
+than one-third of patients with AF. The prevalence of AF is slight-
+ly higher in patients with HFpEF compared with HFrEF.195,628–631 
+The two conditions are deeply interrelated with shared risk fac-
+tors and pathophysiological mechanisms. The coexistence of 
+HF and AF is associated with a high risk of death, HFH, and stroke 
+regardless of LVEF.195,628–631 HF induced by AF appears to have 
+a more favourable outcome than HF causing AF.13,632 
+The management of patients with HF and AF include identifi-
+cation of triggers, prevention of embolic events, management of 
+HF, and rate or rhythm control of AF. 
+9.1.1.1. Identification of triggers and risk factor 
+management 
+Precipitating factors for AF – e.g. hyperthyroidism, toxic agents 
+(e.g. including alcohol), valvular heart diseases, infection, dia-
+betes, uncontrolled hypertension, obesity, sleep disorders, and 
+volume overload – should be routinely identified and appropri-
+ately managed. Diuretic therapy is indicated to relieve conges-
+tion and may increase the chances of restoring sinus rhythm 
+by reducing filling pressures and ventricular rate. 
+9.1.1.2. Prevention of embolic events 
+Oral anticoagulation is recommended in patients with HF and 
+AF to reduce the risk of thromboembolism, according to the 
+CHA2DS2-VA score (Table 18).118,633–635 However, patients 
+with HCM and CA are at higher risk of thromboembolism 
+irrespective of CHA2DS2-VA score, and anticoagulation is 
+recommended for all these patients with AF.636–642 In the ab-
+sence of mechanical prosthetic heart valves and/or moderate  
+Table 17 Indications and contraindications for heart 
+transplantation  
+Indicationsa 
+Advanced HF and no other therapeutic option (except for durable 
+MCS as BTT) 
+Absolute contraindications 
+Inability to comply with the therapeutic regimen (e.g. dementia) 
+Serious comorbidities with poor prognosis, not reversible with heart 
+transplantation 
+Other contraindications 
+Active infectionb 
+Severe peripheral arterial or cerebrovascular disease 
+Elevated pulmonary vascular resistance (if pharmacologically 
+irreversible)c 
+Cancerd 
+Irreversible liver dysfunction (cirrhosis) or irreversible kidney 
+dysfunctione 
+Systemic disease with multiorgan involvement 
+BMI >35 kg/m2 or severe cachexia 
+Alcohol or substance abuse or active smoking within the past 6 
+months 
+Psychological instability 
+Insufficient social support to achieve compliant care in the 
+outpatient setting 
+© ESC 2026
+BMI, body mass index; BTT, bridge to transplantation; CPET, cardiopulmonary 
+exercise testing; HF, heart failure; LVAD, left ventricular assist device; MCS, 
+mechanical circulatory support; RHC, right heart catheterization. 
+aIndication by heart transplantation centre includes assessment of HF severity by 
+RHC and/or CPET. 
+bActive infection is a relative contraindication to transplantation, but infected 
+LVAD may be an indication. 
+cLVAD as bridge to candidacy should be considered. 
+dHighly selected cases may be eligible, to be discussed with an oncologist. 
+eCombined heart–liver or heart–kidney transplantation may be considered.  
+Recommendation Table 14 — Recommendations for heart 
+transplantation (see Evidence Tables 75 and 76) 
+Recommendation Classa Levelb  
+Heart transplantation is recommended in 
+selectedc patients with advanced HF refractory 
+to FMT and GDIT, and without 
+contraindications, to improve QoL and 
+survival.622,626 
+I C 
+© ESC 2026
+FMT, foundational medical therapy; GDIT, guideline-directed interventional 
+therapy; HF, heart failure; QoL, quality of life. 
+aClass of recommendation. 
+bLevel of evidence. 
+cEligibility criteria are reported in Table 17.   
+ESC Guidelines                                                                                                                                                                                        5403 
+Downloaded from academic.oup.com/eurheartj/article/47/38/5346/8766302 by guest on 22 October 2026
+
+--- Page 59 ---
+or severe mitral stenosis, direct-acting oral anticoagulants are 
+recommended as the anticoagulant of choice.643–646 Left atrial 
+appendage closure can be an option for selected patients as de-
+scribed in the 2024 ESC Guidelines for the management of atrial 
+fibrillation.118,647–651 
+9.1.1.3. Management of heart failure and atrial fibrillation 
+All patients with coexisting HF and AF should be optimally trea-
+ted with FMT, AMT, and GDIT regardless of AF (Section 6.2.4).435 
+In patients with AF and HFrEF, where there may be a high 
+likelihood of LVEF recovery following rhythm control, evidence 
+remains limited. However, given the well-established prognostic 
+benefit of FMT on long-term prognosis in the general HFrEF 
+population, initiation of FMT upfront seems reasonable. 
+There is ongoing debate regarding the optimal management 
+of AF in patients with HF. Currently, there is insufficient evi-
+dence to support a rhythm-control strategy over a rate-control 
+strategy.337,652–658 Decisions with regard to choice of strategy 
+must be made taking into account the cause–effect relationship 
+between AF and HF, along with clinical presentation, symptom 
+burden, stage of disease, comorbidities, and patient preference. 
+9.1.1.4. Rate control 
+Data to support strict vs lenient rate control in patients with HF 
+and AF are inconclusive. Analyses from a large observational 
+registry showed a significant association between heart rate in 
+AF and long-term death only in patients with HFrEF and heart 
+rate >100 b.p.m.659,660 The RACE II trial demonstrated that leni-
+ent rate control (target heart rate <110 b.p.m.) was non-inferior 
+to strict rate control (<80 b.p.m. at rest; <110 b.p.m. during ex-
+ercise) in patients with permanent AF with a primary endpoint of 
+death from CV causes, HFH, stroke, systemic embolism, bleed-
+ing, and life-threatening arrhythmic events.307 A post-hoc com-
+bined analysis from the AFFIRM and the RACE trials showed 
+similar results.661 However, these trials were not focused on 
+HF and only a minority of patients included had HF. 
+A large observational study showed that a lenient rate-control 
+strategy and poor rate control are associated with a higher risk 
+of death as compared with strict rate control in patients with AF 
+and HF regardless of LVEF.662 Lenient rate control, with resting 
+heart rate <110 b.p.m., should be considered as initial target in 
+both patients with and without HF, with re-evaluation based on 
+symptoms.118 
+Beta-blockers have proven safety and efficacy in patients with 
+AF and HFrEF and are recommended as the first-line ap-
+proach.663,664 If the ventricular rate control is suboptimal with 
+beta-blockers, or if beta-blockers are not tolerated, digoxin or digi-
+toxin should be considered.665–667 In patients with HFrEF who are 
+haemodynamically unstable, i.v. amiodarone or digoxin may be 
+used to achieve acute control of heart rate and improve haemo-
+dynamics, although acute electrical cardioversion to restore sinus 
+rhythm should be first choice.668–671 There is no evidence on 
+pharmacological strategies for rate control in patients with AF 
+and HFpEF. 
+Atrioventricular node ablation combined with CRT was found 
+to be superior to pharmacological therapy in reducing death and 
+HFH and improving QoL in patients with severely symptomatic 
+permanent AF and HF, regardless of LVEF.672,673 
+9.1.1.5. Rhythm control 
+The results of RCTs comparing catheter ablation vs pharmaco-
+logical rhythm control in patients with HFrEF cannot be consid-
+ered conclusive for hard outcomes on HFH and death, although 
+catheter ablation has proven superior to antiarrhythmic treat-
+ment for AF recurrence.674–682 Data on the role of catheter ab-
+lation in HFpEF are limited.683,684 For a detailed description, see  
+Supplementary data online, Section S6.1.1.674–681,683–686 Based 
+on current evidence, catheter ablation should be considered 
+only in carefully selected patients with HFrEF and symptomatic 
+AF. This Task Force suggests that these criteria should be used 
+to guide the selection of patients for catheter ablation: high bur-
+den AF,687 less than 1-year duration of continuous persistent 
+AF, and a clear cause–effect relationship between AF and HF. 
+In patients presenting with DHF, AF with rapid ventricular 
+rates, and haemodynamic instability, urgent cardioversion is re-
+commended. Pharmacological and electrical cardioversion seem 
+to have similar outcomes, although specific studies in HF popu-
+lations are lacking.688,689 Amiodarone is recommended in pa-
+tients with HFrEF requiring pharmacological cardioversion. 
+Other antiarrhythmic drugs, i.e. propafenone, flecainide, and 
+dronedarone, are associated with poorer outcomes in HFrEF 
+and should be avoided.690–694 There are no data on pharmaco-
+logical cardioversion in HFpEF. 
+Table 18 Updated definitions for the CHA2DS2-VA score  
+Description Point  
+C Chronic HF stage B, C, D 1 
+H Hypertension 1 
+A Age ≥75 years 2 
+D Diabetes mellitus 1 
+S Stroke/transient ischaemic attack/arterial 
+thromboembolism 
+2 
+V Vascular disease (CAD and/or PAD) 1 
+A Age 65–74 years 1 
+© ESC 2026
+CAD, coronary artery disease; CHA2DS2-VA, congestive heart failure, 
+hypertension, age ≥75 years (2 points), diabetes mellitus, prior stroke/transient 
+ischaemic attack/arterial thromboembolism (2 points), vascular disease, age 65– 
+74 years; PAD, peripheral artery disease. 
+A CHA2DS2-VA score of 2 or more is recommended as an indicator of elevated 
+thromboembolic risk for decisions on initiating oral anticoagulation. 
+A CHA2DS2-VA score of 1 should be considered an indicator of elevated 
+thromboembolic risk for decisions on initiating oral anticoagulation.  
+Recommendation Table 15 — Recommendations for man-
+agement of atrial fibrillation in patients with heart failure 
+(see Evidence Tables 77–81) 
+Recommendations Classa Levelb  
+Recommendations for anticoagulation 
+Oral anticoagulation is recommended in patients 
+with clinical AF at elevated thromboembolic risk, 
+as determined by CHA2DS2-VA scorec, to 
+prevent ischaemic stroke and 
+thromboembolism.635 
+I A                                                                                                 
+Continued  
+5404                                                                                                                                                                                       ESC Guidelines 
+Downloaded from academic.oup.com/eurheartj/article/47/38/5346/8766302 by guest on 22 October 2026
+
+--- Page 60 ---
+9.1.2. Ventricular arrhythmias 
+Ventricular arrhythmias may cause HF or be a consequence 
+thereof. In sustained ventricular tachycardia, initial management 
+should include stabilization (electrical cardioversion), followed 
+by identification and correction of precipitating factors, and op-
+timization of FMT. Although amiodarone reduces ventricular ar-
+rhythmias, it does not reduce SCD or death.697 Patients with HF 
+and resuscitated cardiac arrest or life-threatening ventricular ar-
+rhythmias have an indication for a secondary prevention ICD.119 
+Heart failure can occur because of frequent PVCs.698 A bur-
+den of PVCs of about 10% precipitates an increased risk of HF 
+and the risk increases with higher burden.119,699–701 Thus, regu-
+lar assessment of LVEF in this setting is indicated. Amiodarone 
+may be considered to reduce recurrent arrhythmias and improve 
+LV function,697 with regular follow-up to assess possible side ef-
+fects. Catheter ablation of PVCs may improve LV function and, 
+possibly, outcomes in patients with PVCs.702–705 For further de-
+tails, please refer to the 2022 ESC Guidelines for the management 
+of patients with ventricular arrhythmias and the prevention of sud-
+den cardiac death.119 
+9.1.3. Bradyarrhythmias 
+Pacing indications in patients with HF do not differ from 
+those without HF. However, long-term RV pacing can adversely 
+impact LV function.706 In patients with HFrEF, where there 
+is an expectation of high pacing requirements, i.e. complete 
+heart block or AF with slow ventricular response, CRT implant-
+ation should be considered to improve outcomes (see  
+Recommendation Table 7).409 
+9.2. Chronic coronary syndromes 
+Obstructive CAD is a frequent cause of HF.33 Coronary micro-
+vascular dysfunction affects up to 80% of patients with HFpEF 
+and seems to be associated with poor prognosis.707–709 
+Diagnostic work-up of chronic coronary syndromes in patients 
+with HF is described in Section 5. Treatment of chronic coronary 
+syndrom in patients with established HF is described below. 
+9.2.1. Medical therapy 
+Beta-blockers are recommended as first-line therapy in patients 
+with HFrEF and CAD due to their prognostic effects, closely fol-
+lowed by other FMT drugs.288,290,291,710–712 Ivabradine should be 
+considered in patients with HFrEF in sinus rhythm with heart rate 
+>70 b.p.m. despite beta-blockers at the highest tolerated dose or 
+if beta-blockers are contraindicated.294,713 Other medications 
+such as amlodipine,714 felodipine,715 nicorandil,716 and ranola-
+zine717 do not have effects on death but may improve symptoms. 
+Trimetazidine may improve LV function and exercise capacity in 
+patients with HFrEF and chronic coronary syndrome already on 
+beta-blockers.718–720 Importantly, initiation and/or uptitration 
+of antianginal therapy should not lead to reduction in FMT. 
+Short-acting nitrates can cause hypotension and should be used 
+with caution. Non-dihydropyridine calcium channel blockers (ver-
+apamil and diltiazem) are not recommended in patients with 
+HFrEF due to their negative inotropic effects which may precipi-
+tate the risk of HF events.721 The use of beta-blockers or calcium 
+channel blockers do not appear to be associated with worse out-
+comes in HFpEF.722,723 Treatment of patients with HFpEF should 
+be similar to that of patients without HF (see the 2024 ESC 
+Guidelines for the management of chronic coronary syndromes).10 
+9.2.2. Myocardial revascularization 
+Data to support the prognostic benefit of myocardial revascular-
+ization in patients with stable obstructive CAD and HF are lim-
+ited. Two RCTs compared revascularization vs medical therapy 
+in patients with LVEF ≤35% and multivessel coronary dis-
+ease.178–180 The STICH trial compared coronary artery bypass 
+grafting (CABG) to medical therapy and showed survival benefit 
+DOACs are recommended in preference to 
+VKAs in patients with HFd to prevent stroke and 
+thromboembolism.643–646 
+I B1 
+Rate control 
+Beta-blockers are recommended in stable 
+patients with HFrEF and AF as first-line therapy 
+for short- and long-term rate control.663,665 
+I C 
+Digoxin should be considered in stable patients 
+with HFrEF and AF when the ventricular rate 
+remains high despite beta-blockers, or when 
+beta-blockers are contraindicated/not 
+tolerated, in order to obtain short- and 
+long-term rate control.665–667 
+IIa C 
+Atrioventricular node ablation combined with 
+CRT should be considered in patients with 
+severely symptomatic permanent AF and poor 
+rate control despite medical therapy and at least 
+one HFH to reduce symptoms, physical 
+limitations, recurrent HFH, and death.672,673 
+IIa B1 
+Intravenous amiodarone or digoxin may be 
+considered in haemodynamically unstable 
+patients with HFrEF and AF to stabilize the 
+patient and achieve acute control of heart 
+rate.668–671 
+IIb C 
+Cardioversion 
+Urgent cardioversion is recommended in the 
+setting of DHF in patients presenting with rapid 
+ventricular rates and haemodynamic instability 
+to restore sinus rhythm.669,671,692,695 
+I C 
+Atrial fibrillation catheter ablation 
+Catheter ablation for AF should be considered in 
+selectede patients with symptomatic AF and 
+HFrEF to improve QoL and reduce the risk 
+of HFH or death.674–676,678,681,682,684,696 
+IIa C 
+© ESC 2026
+AF, atrial fibrillation; CHA2DS2-VA, congestive heart failure, hypertension, age 
+≥75 years (2 points), diabetes mellitus, prior stroke/transient ischaemic attack/ 
+arterial thromboembolism (2 points), vascular disease, age 65–74 years; CRT, 
+cardiac resynchronization therapy; DHF, decompensated heart failure; DOAC, 
+direct-acting oral anticoagulant; HF, heart failure; HFH, heart failure 
+hospitalization; HFrEF, heart failure with reduced ejection fraction; QoL, quality 
+of life; VKA, vitamin K antagonist. 
+aClass of recommendation. 
+bLevel of evidence. 
+cSee Table 18. 
+dExcept for patients with moderate or severe mitral stenosis and in patents with 
+mechanical prosthetic heart valves where VKAs are recommended. 
+eAll the following criteria are required: high burden AF, less than 1-year duration 
+for continuous persistent AF, clear cause–effect relationship between AF and HF.   
+ESC Guidelines                                                                                                                                                                                        5405 
+Downloaded from academic.oup.com/eurheartj/article/47/38/5346/8766302 by guest on 22 October 2026
+
+--- Page 61 ---
+for CABG at long-term follow-up.179,180 The REVIVED-BCIS2 
+study compared percutaneous coronary intervention (PCI) and 
+optimal medical therapy to optimal medical therapy alone and 
+was neutral.178 The patient populations differed between the 
+two trials and patients in REVIVED-BCIS2 were 10 years older, 
+making comparison between them difficult. For details of these 
+results and other studies, see Supplementary data online,  
+Section S6.2.1.178,180,724–735 
+Patients with HF and chronic coronary syndrome due to ob-
+structive CAD must receive FMT before revascularization. A 
+multidisciplinary Heart Team discussion including an HF specialist 
+is recommended to decide whether conservative treatment 
+or an invasive treatment strategy should be adopted. If 
+revascularization is planned, the multidisciplinary Heart Team 
+should provide an individualized recommendation on the revas-
+cularization strategy—CABG or PCI—depending on patient char-
+acteristics. In case of persistent angina despite FMT for HF and 
+antianginal drugs, revascularization is recommended regardless 
+of LVEF. If the Heart Team agrees that revascularization is the 
+best treatment option, in patients with HFrEF, LVEF ≤35% and 
+multivessel disease, CABG should be the first choice (Figure 19). 
+The Task Force recognizes an apparent discrepancy between 
+the latter recommendation (class of recommendation IIa, level of 
+evidence B1) and other recommendations in this context across 
+other guidelines (e.g. 2024 ESC Guidelines for the management 
+of chronic coronary syndromes, class of recommendation I, level 
+Figure 19 Management of coronary artery disease in patients with heart failure. BB, beta-blocker; CABG, coronary artery bypass graft-
+ing; CAD, coronary artery disease; FMT, foundational medical therapy; HF, heart failure; HFpEF, heart failure with preserved ejection 
+fraction; HFrEF, heart failure with reduced ejection fraction; LVEF, left ventricular ejection fraction; PCI, percutaneous coronary inter-
+vention. Colours refer to class of recommendation. aExclusion of frailty, severe and multiple comorbidities and limited life expectancy 
+making the risk of revascularization higher than the expected benefit. bPCI or continued medical therapy are alternative treatments if the 
+patient is not eligible for CABG.   
+5406                                                                                                                                                                                       ESC Guidelines 
+Downloaded from academic.oup.com/eurheartj/article/47/38/5346/8766302 by guest on 22 October 2026
+
+--- Page 62 ---
+of evidence B). However, the patient populations that were con-
+sidered are slightly different in the chronic coronary syndrome 
+guidelines (often patients with chronic coronary syndrome pre-
+senting with reduced LVEF) as compared to these guidelines 
+(often patients with HFrEF presenting with CAD). In addition, 
+according to the most recent system for level of evidence grad-
+ing, proposed by the ESC, the Task Force considered STICHES, 
+with all its limitations (mean age 60 years, limited number of 
+events at 10 years, limited use of modern FMT), as the only 
+possible study available to support the recommendation. 180 
+9.3. Valvular heart disease 
+9.3.1. Aortic stenosis 
+Aortic stenosis can contribute to or cause HF by increasing LV 
+afterload.736 Prevalence of aortic stenosis ranges between 3% 
+and 7% in patients with chronic HF and is higher in patients 
+with HFpEF as compared with those with HFrEF.737 About 
+50% of patients with severe symptomatic aortic stenosis under-
+going transcatheter aortic valve implantation (TAVI) have HF.738 
+Once HF symptoms develop, prognosis is poor and timely valve 
+intervention is mandatory. HF therapies may be used cautiously 
+and should not delay valve intervention. After valve interven-
+tion, a clinical and echocardiographic reassessment is important 
+to detect residual HF or risk of HF readmission. In this regard, 
+further optimization of FMT as well as treatment of comorbid-
+ities and management of procedure-related factors is appropri-
+ate.739 In the recent open-label DapaTAVI trial, 1222 patients 
+with history of HF and at least one risk factor (diabetes, CKD, 
+LV dysfunction) were randomly assigned to receive either dapa-
+gliflozin or standard of care. At 1-year follow-up, the risk of the 
+primary endpoint (death from any cause or WHF events) was re-
+duced by 28% in the treatment arm as compared with the 
+control arm, mainly driven by WHF events.740 Therefore, treat-
+ment with a SGLT2-I is reasonable in these patients. 
+Aortic valve intervention is recommended in all patients with 
+HF and a life expectancy >1 year with high-gradient severe 
+aortic stenosis, irrespective of LVEF, as well as in patients with 
+severe low-flow low-gradient aortic stenosis and HFrEF. In pa-
+tients with severe low-flow low-gradient aortic stenosis and 
+HFpEF, aortic valve intervention should be considered. Details 
+on diagnostic work-up, specific indications and the modality of 
+intervention (TAVI vs surgery) are reported in the 2025 ESC/ 
+EACTS Guidelines for the management of valvular heart disease.9 
+9.3.2. Aortic regurgitation 
+Severe aortic regurgitation can lead to LV dilatation and dys-
+function which may progress to HF. Treatment with ACE-Is/ 
+ARNIs/ARBs/MRAs while awaiting aortic valve intervention 
+can be beneficial.741 Beta-blockers can prolong diastole and 
+should be used only after careful consideration of risks and 
+benefits. 
+Specific recommendations for intervention are reported in the 
+2025 ESC/EACTS Guidelines for the management of valvular heart 
+disease.9 
+9.3.3. Mitral regurgitation 
+9.3.3.1. Primary mitral regurgitation 
+Primary MR is caused by abnormalities of the valve apparatus 
+and can lead to HF. In severe primary MR with HF symptoms, 
+surgical repair is preferred over replacement whenever feas-
+ible.739,742,743 Mitral transcatheter edge-to-edge repair (TEER) 
+should be considered in patients at high surgical risk.9,744,745 
+9.3.3.2. Secondary mitral regurgitation 
+Secondary or functional MR is primarily a disease of the left car-
+diac chambers rather than the valvular apparatus. It is common 
+in patients with HF, especially those with HFrEF in whom the 
+disease has a prevalence of 25%.746,747 In order to adequately 
+assess the severity of MR, the patient should be euvolaemic or 
+as close to euvolaemia as possible. The underlying aetiology 
+and severity of MR needs to be assessed by cardiologists specia-
+lized in echocardiography and structural heart diseases.748 
+A new classification, differentiating between atrial secondary 
+MR and ventricular secondary MR has been recently proposed.9 
+Atrial secondary MR can be associated with HFpEF.749 
+Indications for mitral valve treatment in atrial secondary MR 
+are reported in the 2025 ESC/EACTS Guidelines for the manage-
+ment of valvular heart disease.9 
+In patients with severe ventricular secondary MR and 
+HFrEF, optimization of FMT and GDIT with CRT implantation 
+(if indicated) is mandatory before considering any mitral valve 
+intervention (Figure 20). In case of concomitant CAD requiring 
+revascularization, specific recommendations on management 
+are reported in the 2025 ESC/EACTS Guidelines for the manage-
+ment of valvular heart disease.9 In selected patients without need 
+for coronary revascularization, TEER is recommended. Table 19 
+provides the clinical and echocardiographic criteria for patient 
+selection, which are based on inclusion criteria from RCTs. For 
+the results of these studies, see Supplementary data online,  
+Section S6.3.1.750–754 If the criteria reported in Table 19 are 
+not fulfilled, other options can be considered. Specifically, in 
+Recommendation Table 16 — Recommendations for revas-
+cularization in chronic coronary syndrome in patients with 
+heart failure (see Evidence Table 82) 
+Recommendations Classa Levelb  
+Revascularization for symptom improvement (HFpEF and HFrEF) 
+Coronary revascularization is recommended in 
+patients with HF, obstructive CAD, and 
+persistent angina, despite FMT for HF and 
+antianginal drugs, to relieve symptoms.734,735 
+I C 
+Revascularization for outcome improvement (HFrEF) 
+If revascularization is planned after assessment 
+by a Heart Team, CABG should be considered as 
+the preferred revascularization strategy, in 
+patients with LVEF ≤35% and multivessel CAD 
+suitable for surgery, to improve long-term 
+survival.180 
+IIa B1 
+© ESC 2026
+CABG, coronary artery bypass grafting; CAD, coronary artery disease; FMT, 
+foundational medical therapy; HF, heart failure; HFpEF, heart failure with 
+preserved ejection fraction; HFrEF, heart failure with reduced ejection fraction; 
+LVEF, left ventricular ejection fraction. 
+aClass of recommendation. 
+bLevel of evidence.   
+ESC Guidelines                                                                                                                                                                                        5407 
+Downloaded from academic.oup.com/eurheartj/article/47/38/5346/8766302 by guest on 22 October 2026
+
+--- Page 63 ---
+Figure 20 Management of secondary mitral regurgitation in patients with heart failure with reduced ejection fraction. CRT, cardiac re-
+synchronization therapy; FMT, foundational medical therapy; HF, heart failure; LVAD, left ventricular assist device; MR, mitral regurgi-
+tation; TEER, transcatheter edge-to-edge repair. Colours refer to class of recommendation. aSee Table 19. bSee Figure 10.  
+Table 19 Selection criteria for mitral transcatheter edge-to-edge repair in heart failure with reduced ejection fraction 
+Clinical and echocardiographic criteria  
+Optimized FMT and other GDIT (i.e. CRT) if needed 
+NYHA class ≥II 
+At least one HFH within the last year 
+OR 
+Increased natriuretic peptide levels (BNP ≥300 pg/mL or NT-proBNP ≥1000 pg/mL) 
+No stage D (advanced) HF 
+No CAD requiring revascularization 
+No hypertrophic, restrictive, or infiltrative cardiomyopathies 
+LVEF 20%–50% 
+LVESD ≤70 mm 
+Anatomy deemed suitable for mitral TEER 
+sPAP ≤70 mmHg 
+No severe RV dysfunction 
+No severe aortic and/or tricuspid valve disease 
+© ESC 2026
+BNP, B-type natriuretic peptide; CAD, coronary artery disease; CRT, cardiac resynchronization therapy; FMT, foundational medical therapy; GDIT, guideline-directed 
+interventional therapy; HF, heart failure; HFH, heart failure hospitalization; LVEF, left ventricular ejection fraction; LVESD, left ventricular end-systolic diameter; TEER, 
+transcatheter edge-to-edge repair; NT-proBNP, N-terminal pro-B-type natriuretic peptide; NYHA, New York Heart Association; RV, right ventricular; sPAP, systolic 
+pulmonary artery pressure.   
+5408                                                                                                                                                                                       ESC Guidelines 
+Downloaded from academic.oup.com/eurheartj/article/47/38/5346/8766302 by guest on 22 October 2026
+
+--- Page 64 ---
+patients with advanced HF, LVAD or heart transplantation is re-
+commended as first choice and TEER may be considered for 
+symptom improvement in patients not suitable or waiting for 
+these therapies (see Section 8) (Figure 20). Notably, patients 
+with ventricular secondary MR experience a higher residual 
+risk of death or HFH despite TEER.755,756 Thus, close follow-up 
+in HF clinics is warranted.757 
+9.3.4. Tricuspid regurgitation 
+Severe TR has a high prevalence (9%–20%) in both patients with 
+HFpEF and HFrEF.747,770 
+Tricuspid regurgitation is currently classified as primary TR, 
+CIED-related TR, and secondary TR. Secondary TR is most com-
+mon.747,770 Medical therapy to target TR is limited.747,771 The 
+development of transcatheter devices to treat TR provides an al-
+ternative to surgery in selected patients. Three RCTs are 
+currently available that investigated the role of transcatheter 
+treatments in patients with severe symptomatic TR. They 
+showed a significant benefit in terms of QoL in patients receiv-
+ing device therapy as compared with those treated conserva-
+tively, but without reduction of death or HFH at 1-year 
+follow-up.772–774 Recently, a possible benefit in terms of HFH 
+was reported in patients treated with tricuspid TEER, but with 
+a high rate of crossover after 1-year follow-up.775,776 It should 
+be noted that all these studies were unblinded and did not focus 
+on HFpEF or HFrEF populations. 
+Indications for TR treatment are reported in the 2025 ESC/ 
+EACTS Guidelines for the management of valvular heart disease.9 
+9.4. Hypertension 
+Hypertension is common in patients with HF, especially those 
+with HFpEF.454,777,778 In hypertensive heart disease, LV remod-
+elling and LV hypertrophy lead to both diastolic and systolic im-
+pairment. Specific blood pressure targets for patients with 
+hypertension and HF have not been evaluated in RCTs. 
+In patients presenting with HF due to refractory hyperten-
+sion, secondary causes [i.e. primary aldosteronism, renovascular 
+hypertension, and obstructive sleep apnoea (OSA)] should be ru-
+led out and treated.62 
+Indications for the treatment of hypertension in HF are re-
+ported in the 2024 ESC Guidelines for the management of elevated 
+blood pressure and hypertension.62 
+Lifestyle interventions, such as increasing physical activity, 
+optimizing weight, reducing salt and alcohol intake, and smoking 
+cessation, are beneficial in all cases.62 
+The optimal treatment strategy for hypertension in patients 
+with HFpEF is uncertain. FMT with effect on blood pressure 
+(i.e. MRA) should be started, continued, or uptitrated. Loop 
+diuretics reduce congestion and decrease blood pressure. In 
+addition, ACE-Is, ARBs, and calcium channel blockers cause LV 
+regression and therefore may be beneficial in both controlling 
+blood pressure and improving HFpEF symptoms.62 Patients 
+with HFpEF have limited preload reserve; therefore, normoten-
+sion should be maintained and hypotension avoided. 
+In patients with HFrEF, treatment strategies are similar to 
+those for normotensive patients, as FMT also lowers blood pres-
+sure. Once FMT has been initiated and uptitrated, suboptimal 
+blood pressure control is rare in HFrEF. If additional agents 
+are required, amlodipine or felodipine may be considered pro-
+vided the patient is euvolaemic.714,715 Alpha-blockers may be 
+continued for the treatment of prostatic hyperplasia in the ab-
+sence of hypotension but are not recommended for the treat-
+ment of hypertension in HFrEF. Non-dihydropyridine calcium 
+channel blockers, e.g. verapamil and diltiazem, and central sym-
+pathetic agonists, e.g. moxonidine, are contraindicated due to 
+poor outcomes in patients with HFrEF.779 In patients with 
+HFrEF, asymptomatic hypotension should be accepted in order 
+to maintain target doses of FMT.780 
+9.5. Stroke 
+Heart failure and stroke share common risk factors. 
+Approximately 10%–24% of patients with ischaemic stroke 
+have concomitant HF either de novo or pre-existing.781–784 
+Conversely, patients with HF have an increased risk of stroke 
+compared with those without.785 A history of stroke is reported 
+Recommendation Table 17 — Recommendations for valvu-
+lar heart disease in patients with heart failure (see Evidence 
+Tables 83 and 84) 
+Recommendations Classa Levelb  
+Aortic stenosis 
+Aortic valve intervention, SAVR or TAVI, is 
+recommended in patients with severe aortic 
+stenosis and HFc to improve symptoms and 
+reduce the risk of death.758–765 
+I B1 
+Secondary mitral regurgitation 
+Mitral transcatheter edge-to-edge repair is 
+recommended in haemodynamically stable, 
+symptomatic patients with HFrEF and persistent 
+severe secondary mitral regurgitation despite 
+optimized FMT and CRT if indicated, who fulfil 
+specific clinical and echocardiographic criteria,d 
+in order to reduce the risk of HFH and improve 
+QoL.750–753 
+I B1 
+Mitral transcatheter edge-to-edge repair may be 
+considered in selected symptomatic patients 
+with HFrEF and persistent severe secondary 
+mitral regurgitation despite optimized FMT and 
+CRT if indicated (after excluding the option of 
+LVAD or heart transplantation) who do not fulfil 
+the clinical and echocardiographic criteria for 
+outcome improvement,d in order to improve 
+symptoms.766–769 
+IIb C 
+© ESC 2026
+CRT, cardiac resynchronization therapy; FMT, foundational medical therapy; HF, 
+heart failure; HFH, heart failure hospitalization; HFpEF, heart failure with 
+preserved ejection fraction; HFrEF, heart failure with reduced ejection fraction; 
+LVAD, left ventricular assist device; LVEF, left ventricular ejection fraction; 
+QoL, quality of life; SAVR, surgical aortic valve replacement; TAVI, 
+transcatheter aortic valve implantation. 
+aClass of recommendation. 
+bLevel of evidence. 
+cThis recommendation refers to patients with severe high gradient aortic stenosis 
+regardless of LVEF and to patients with low-flow low-gradient aortic stenosis and 
+HFrEF. For details regarding low-flow low-gradient aortic stenosis in HFpEF, we 
+refer to the 2025 ESC/EACTS Guidelines for the management of valvular heart 
+disease.9 
+dFor clinical and echocardiographic criteria, see Table 19.   
+ESC Guidelines                                                                                                                                                                                        5409 
+Downloaded from academic.oup.com/eurheartj/article/47/38/5346/8766302 by guest on 22 October 2026
+
+--- Page 65 ---
+in 8%–11% patients with HF785–789 with similar790–794 or in-
+creased795,796 prevalence in patients with HFpEF compared 
+with HFrEF. 
+Poorer outcomes after stroke are observed in patients with 
+HF with a 2.2–4.5 times higher rate of death compared with 
+people without HF,782,783,797 as well as an increased rate of re-
+current stroke.798 
+The risk of stroke in patients with HF seems independent of 
+rhythm, with an annualized stroke risk of 2.0 per 100 patient- 
+years in patients in sinus rhythm and 2.87 per 100 patient-years 
+in patients with AF.799–802 However, RCTs failed to demon-
+strate a possible benefit of oral anticoagulation in patients 
+with HFrEF in sinus rhythm.803–806 Thus, in the absence of AF, 
+there is no evidence to recommend routine anticoagulation for 
+stroke prevention in patients with HFrEF. 
+Optimization of blood pressure, heart rate, and cardiac output 
+immediately after a stroke is key to reducing the risk of DHF and 
+improving outcomes. In patients already established on FMT, 
+treatment with FMT should be maintained if possible and atten-
+tion should be paid to dose modification in order to avoid both 
+hypo- and hypertension as well as rebound tachycardia in pa-
+tients in whom beta-blockers have been withdrawn.807 
+Following the acute phase, treatment of HF in patients with 
+stroke does not differ from treatment in patients without stroke. 
+10. Non-cardiovascular comorbidities 
+10.1. Obesity 
+Obesity contributes to the development of well-known CV and HF 
+risk factors like hypertension, diabetes, and dyslipidaemia. Obesity 
+has direct adverse effects on cardiac structure and function, and is 
+associated with the development of CVD, including HF.808 
+Patients with HF and obesity may have lower natriuretic peptide 
+concentrations due to increased expression of clearance recep-
+tors, augmented peptide degradation by the adipose tissue,155 
+and underestimation of circulatory congestion.809 Peak oxygen 
+consumption adjusted for body weight underestimates exercise 
+capacity in obese patients, and an adjustment for lean body 
+mass should be used for risk stratification pro-inflammatory.810 
+A stronger association between obesity and HFpEF rather than 
+HFrEF has been described.778,811 Among patients with HFpEF, 
+the obesity-related phenotype has a high prevalence (30%–40% 
+in Europe and 60%–70% in North America).314,812 These patients 
+display several pathophysiological mechanisms that differ from 
+non-obese patients with HFpEF.813 An increase in adipocyte 
+mass induces a state of systemic inflammation and a proinflamma-
+tory transformation of epicardial adipose tissue that may lead to 
+fibrosis. The capacity of the left ventricle to dilate in response to 
+an increase in blood volume is impaired, and thus, even modest 
+degrees of volume overload may lead to cardiac overfilling and dis-
+proportionate increase in cardiac filling pressures.814 On average, 
+patients with HFpEF and obesity are younger, experience worse 
+HF signs and symptoms, poorer QoL, and worse functional cap-
+acity, than those without obesity.815,816 
+Weight-loss interventions in patients with HFpEF and obesity 
+alleviate symptoms and may improve outcomes. Lifestyle inter-
+ventions, such as caloric restriction, exercise, and patient educa-
+tion, have a significant impact on body weight and are 
+recommended in all patients with HF.817,818 Recent RCTs 
+demonstrated favourable effects of the GLP-1 RA semaglutide 
+and the dual GIP/GLP-1 RA tirzepatide in patients with HFpEF 
+and obesity regardless of diabetes status, namely reduction of 
+body weight, improvement of QoL, symptoms, and functional 
+capacity (see Supplementary data online, Section S7.1).315–317 
+Pooled and secondary analyses of RCTs, and the recent 
+SUMMIT trial, have also suggested a potential benefit of these 
+drugs on HF events.317,819,820 
+Dedicated RCTs are needed to evaluate safety and efficacy of 
+these drugs in patients with HFrEF and to assess long-term 
+follow-up.821,822 
+In propensity score-matched cohort studies, bariatric surgery 
+was associated with weight loss and a lower risk of all-cause and 
+CV death, HFH, and AF as compared to medical therapy in pa-
+tients with HF and a BMI ≥35 kg/m2, with consistent benefits 
+observed among patients with HFrEF and HFpEF.823,824 
+Studies comparing bariatric surgery vs new anti-obesity med-
+ications are lacking, and the indications for bariatric surgery may 
+change in the future. 
+10.2. Diabetes 
+Patients with HF who have T2DM have a poorer prognosis than 
+patients who do not have T2DM.826–828 
+The diagnostic process and therapeutic approach to HF in pa-
+tients with T2DM is the same as the population without T2DM. 
+There is no evidence that the efficacy of FMT is altered by the 
+presence of T2DM.241,829–833 60 The 2023 ESC Guidelines for 
+the management of cardiovascular disease in patients with diabetes 
+dedicated a specific section to the treatment of diabetes in pa-
+tients with HF.60 
+Sodium–glucose co-transporter 2 inhibitors have been inves-
+tigated in different populations with diabetes, ranging from pa-
+tients with ASCVD or multiple ASCVD risk factors to patients 
+with established HF across the entire range of LVEF or recently 
+hospitalized for WHF, with greater absolute risk reduction of 
+clinical events in patients at higher risk.834 Thus, the use of 
+Recommendation Table 18 — Recommendations for obes-
+ity in patients with heart failure (see Evidence Tables 85 
+and 86) 
+Recommendations Classa Levelb  
+Semaglutide or tirzepatide should be considered 
+for patients with symptomatic HF, LVEF ≥45%, 
+and BMI ≥30 kg/m2, regardless of diabetes 
+status, to reduce body weight, and improve 
+exercise capacity and QoL.315–317,819,820,825 
+IIa B1 
+Bariatric surgery may be considered in obese 
+patients with HF and a BMI ≥35 kg/m2 to 
+reduce body weight when repetitive and 
+structured lifestyle changes combined with 
+weight-reducing medications do not result in 
+maintained weight loss.823,824 
+IIb C 
+© ESC 2026
+BMI, body mass index; HF, heart failure; LVEF, left ventricular ejection fraction; 
+QoL, quality of life. 
+aClass of recommendation. 
+bLevel of evidence.   
+5410                                                                                                                                                                                       ESC Guidelines 
+Downloaded from academic.oup.com/eurheartj/article/47/38/5346/8766302 by guest on 22 October 2026
+
+--- Page 66 ---
+SGLT2-Is is recommended in all patients with HF and T2DM, in-
+dependently of glycated haemoglobin levels or other concomi-
+tant glucose-lowering agents. SGLT2-Is are generally well 
+tolerated, although they may cause urinary infections and geni-
+tal fungal infections as vulvovaginitis and balanitis with a preva-
+lence of up to 6.9% in women and 4.8% in men. They are not 
+indicated in patients with type 1 diabetes mellitus due to the 
+risk of diabetic ketoacidosis (reported incidence of 2%– 
+3%).835,836 Semaglutide or tirzepatide should be added if not 
+contraindicated in patients with HFpEF and T2DM, especially 
+if they are also obese.316,317 
+Metformin, despite its long history as first-line treatment of 
+T2DM, has no dedicated CV outcome trials to assess its safety 
+or efficacy; observational studies reported a lower risk of death 
+or HFH in patients with HF when compared with insulin and sul-
+fonylureas.837–839 Metformin is not recommended in patients 
+with an eGFR <30 mL/min/1.73 m2 or hepatic impairment be-
+cause of the risk of lactic acidosis. 
+In the context of T2DM, insulin glargine and insulin degludec 
+have been evaluated in specific CV outcome trials, demonstrat-
+ing a neutral effect on incident HF in patients with dia-
+betes.840–842 In post-hoc analyses of RCTs and retrospective 
+registries, use of insulin was associated with poorer outcomes 
+among patients with HF. Thus, if insulin is needed in a patient 
+with HF, patients should be monitored for WHF after initiation 
+of treatment.843,844 
+The dipeptidyl peptidase-4 inhibitor saxagliptin and thiazolidi-
+nediones (glitazones) have been associated with an approximate-
+ly 30% increased risk of HFH and, thus, are contraindicated in 
+patients with HF.845,846 No consistent data are available for 
+the use of sulphonylureas in patients with HF.60 
+10.3. Chronic kidney disease 
+Chronic kidney disease and HF frequently coexist.847 They 
+share common risk factors and may develop simultaneously. 
+CKD may lead to worsening of cardiac function and vice versa. 
+The incidence of CKD is five-fold higher in patients with HF as 
+compared with those without.848 About 30%–40% of indivi-
+duals with chronic HF have CKD, with the highest proportions, 
+up to 50%, in HFpEF.778,849,850 CKD is a major independent de-
+terminant of increased mortality and morbidity in HF.850 
+Albuminuria and low GFR are independently associated with 
+an increased risk of major ASCVD, HF events, and CV 
+death.61,851–854 The presence of CKD might have an impact 
+on FMT optimization, and it is often cited as a reason for FMT 
+under-utilization in clinical practice.855 Even in most patients 
+with CKD the initiation of beta-blockers, ACE-Is/ARNIs/ARBs, 
+SGLT2-Is, and MRAs is recommended.164 
+Several RCTs have shown that patients with HF and concomi-
+tant CKD are at higher risk of events as compared to those with-
+out CKD. However, no interaction between drug effects and 
+kidney function was noted in subgroup analyses of these 
+trials.242–245,309 Furthermore, the beneficial effects of FMT 
+are similar, or even higher, irrespective of CKD.251,252,847,856–858 
+An evidence gap remains for the treatment of HF in patients 
+with severe CKD as these patients were generally excluded from 
+RCTs. 
+Worsening kidney function in patients with chronic HF is not 
+necessarily associated with worse outcomes. For example, after 
+initiation of ACE-Is/ARNIs/ARBs, MRAs or SGLT2-Is, an initial 
+decrease in the glomerular filtration pressure may decrease 
+GFR and increase serum creatinine. These changes are generally 
+transient and occur despite improvement in patient outcomes 
+and may delay long term deterioration of kidney func-
+tion.243,250–253 Sacubitril–valsartan, compared with enalapril, 
+led to a slower decline in kidney function, despite a slight 
+increase in the UACR, and improved CV outcomes to a similar 
+extent in patients with CKD vs other patients in the 
+PARADIGM-HF trial.279 In a participant-level pooled analysis 
+of the DAPA-HF and DELIVER trials, patients experiencing wor-
+sening of eGFR to <25 mL/min/1.73 m2 were at heightened risk 
+for development of subsequent CV events. Continuation of da-
+pagliflozin was associated with lower rates of the primary com-
+posite outcome.859 
+A prespecified secondary analysis of the FINEARTS-HF trial, 
+in patients with HF and LVEF ≥40%, reported an acute decline 
+in eGFR of −2.9 mL/min/1.73 m2 (95% CI −3.4 to −2.4) during 
+the first 3 months on finerenone vs placebo.860 However, finer-
+enone still reduced the risk of new-onset micro- and macroalbu-
+minuria by 24% and 38%, respectively.860 
+Thus, a transient decrease in kidney function after the initi-
+ation of ACE-Is/ARNIs/ARBs and MRAs or SGLT2-Is should 
+not prompt their interruption. An increase in serum creatinine 
+of <50% above baseline, as long as eGFR remains >15 mL/ 
+min/1.73 m2, is considered acceptable. 
+Notably, in patients with HFpEF, semaglutide and tirzepatide 
+may acutely reduce eGFR; however, they exhibit a long-term 
+protective effect on kidney function.861,862 
+Chronic kidney disease is highly prevalent in patients with 
+DHF. Worsening or improvement of kidney function occurs 
+commonly, affecting about 30%–50% of patients admitted 
+with HF.273 Adverse CV outcomes are observed in patients 
+with worsening kidney function and poor diuretic response, 
+but not in patients with good diuretic response.506,863 
+Data from the STRONG-HF trial showed that a decrease in 
+eGFR within 1 week after discharge was associated with more 
+evidence of congestion and with an increased incidence of HF 
+readmissions.864 Conversely, worsening kidney function is not 
+associated with poor outcomes in the context of successful de-
+congestion.506,863 For further details refer to the 2026 ESC 
+Guidelines on cardiovascular disease and chronic kidney 
+disease.122 
+10.4. Iron deficiency and anaemia 
+Iron deficiency and anaemia are common in patients with HF 
+and are associated with reduced functional capacity, and worse 
+QoL and prognosis independently of each other.778,865–868 Iron 
+deficiency is slightly more prevalent in patients with HFpEF than 
+in patients with HFrEF.865,869 
+In patients with HF, ID has been defined as either ferritin 
+<100 ng/mL, or ferritin 100–299 ng/mL with TSAT <20%. 
+This definition has been adopted by the 2021 ESC Guidelines 
+for the diagnosis and treatment of acute and chronic heart failure3 
+and the 2023 Focused Update of the 2021 ESC Guidelines for the  
+ESC Guidelines                                                                                                                                                                                        5411 
+Downloaded from academic.oup.com/eurheartj/article/47/38/5346/8766302 by guest on 22 October 2026
+
+--- Page 67 ---
+diagnosis and treatment of acute and chronic heart failure,5 and 
+has been used in almost all recent trials assessing the effects 
+of i.v. iron supplementation in patients with HF and ID. 
+However, it has recently been recognized that in patients with 
+HF this definition does not reliably identify patients with abso-
+lute or functional ID. The current definition of ID may include 
+patients with TSATs (≥20%) and serum ferritin levels (20– 
+100 mg/L) in the normal range, who are probably not iron defi-
+cient, exhibit a better prognosis, and might not respond to i.v. 
+iron therapy.870 Moreover, serum ferritin levels are highly sensi-
+tive to inflammation and oxidative stress. Thus, an alternative 
+definition of ID—TSAT <20%—has been proposed, mainly based 
+on evidence from explorative analyses and meta-analyses of 
+RCTs. A TSAT <20% has higher sensitivity and specificity com-
+pared with the previous definition of ID and is associated with 
+higher mortality rates, independently of HF phenotype.869–871 
+Moreover, some meta-analyses of large RCTs reported that low-
+er TSAT values better identify patients that will respond favour-
+ably to i.v. iron supplementation.872–874 The Task Force 
+supports the use of this most recent definition of ID in patients 
+with HF and recognizes the need for new trials investigating the 
+efficacy of i.v. iron supplementation in patients with HF and ID 
+as defined by TSAT <20%. 
+Several trials, including AFFIRM-AHF,496 CONFIRM-HF,875 
+FAIR-HF,876,877 EFFECT-HF,878 and IRONMAN879 (where ID 
+was defined as either ferritin <100 ng/mL, or ferritin 100– 
+299 ng/mL with TSAT <20%), have demonstrated that iron sup-
+plementation with i.v. ferric carboxymaltose is safe and effective 
+in improving symptoms and QoL in patients with HF and 
+LVEF <40%–45%. 
+Thus, i.v. iron supplementation is recommended in 
+patients with symptomatic HFrEF and ID to alleviate HF symp-
+toms and improve QoL. Data in patients with HFpEF are 
+scarce.880 
+The prognostic benefit of i.v. iron supplementation in pa-
+tients with HF has been investigated in several RCTs and 
+meta-analyses (see Supplementary data online, Section S7. 
+2).496,872,873,879,881–886 Given the conflicting results of major 
+RCTs, the position of the Task Force is that evidence regarding 
+the benefits of i.v. iron supplementation on strong endpoints is 
+not conclusive. This is primarily due to the use of the old def-
+inition of ID as an enrolment criterion in almost all trials, the 
+heterogeneity of RCTs in terms of enrolled populations as 
+well as of i.v. iron doses and timing of administration and 
+that some major RCTs were affected by the coronavirus dis-
+ease 2019 pandemic. Thus, i.v. iron supplementation with fer-
+ric carboxymaltose or ferric derisomaltose should be 
+considered in patients with symptomatic HFrEF and ID to re-
+duce the risk of HFH, taking into account that patients with 
+TSAT <20% might benefit most. Further trials using TSAT 
+<20%, or other criteria that do not rely on ferritin levels as in-
+clusion criteria, are warranted. 
+In patients with HFrEF and mild to moderate anaemia 
+enrolled in the RED-HF trial,887 darbepoetin-alpha failed to 
+reduce all-cause death or HFH and showed an increased risk 
+of thromboembolic events. Thus, erythropoietin-stimulating 
+agents should be avoided for the treatment of anaemia related 
+to HF. 
+10.5. Cancer 
+In patients with cancer, HF may occur as a result of the interac-
+tions between cancer therapy, cancer itself, and/or patients’ CV 
+backgrounds (risk factors and coexisting CVD). Current cancer 
+treatments may cause HF through direct cardiotoxic effects, 
+or indirectly, favouring the occurrence of pathological condi-
+tions predisposing to HF, such as volume overload from i.v. infu-
+sions and corticosteroids, myocarditis, myocardial ischaemia, 
+systemic or pulmonary hypertension, thromboembolism, ar-
+rhythmias, or valve disease.6,889,890 
+The definition of symptomatic and asymptomatic cancer 
+therapy-related cardiac dysfunction is reported in Supplementary 
+data online, Table S21. Cancer drugs causing HF are reported in  
+Supplementary data online, Table S22. 
+In patients who develop symptomatic HF during cancer therapy, 
+FMT is recommended, regardless of LVEF.6 Discontinuation vs 
+continuation of cardiotoxic drugs should be discussed by a multi-
+disciplinary team. Severity of cancer therapy-related cardiac dys-
+function guides the decision.6,891 Initiation of FMT for HFrEF is 
+recommended in patients with asymptomatic moderate-to-severe 
+cancer therapy-related cardiac dysfunction and should be consid-
+ered in asymptomatic patients with mild presentations. 
+For details regarding CV toxicity risk assessment process, 
+diagnostic work-up, follow-up procedures, and therapeutic 
+management of cardiotoxicity, we refer to the 2022 ESC 
+Guidelines on cardio-oncology.6 
+10.6. Lung disease and sleep-disordered 
+breathing 
+Chronic obstructive pulmonary disease is common among pa-
+tients with HF.892–894 Due to the overlap in symptoms and signs, 
+the differentiation between HF and COPD may be difficult.895 
+Chronic obstructive pulmonary disease significantly impacts 
+on symptoms and QoL, has been associated with HF undertreat-
+ment, and negatively influences prognosis of HF.893,896 
+Treatment of HF is generally well tolerated in COPD. The 
+use of cardioselective beta-blockers (bisoprolol, metoprolol suc-
+cinate, or nebivolol) should be preferred. In patients with asthma, 
+Recommendation Table 19 — Recommendations for iron 
+deficiency in patients with heart failure (see Evidence 
+Tables 87 and 88) 
+Recommendations Classa Levelb  
+Intravenous iron supplementation is 
+recommended in patients with symptomatic 
+HFrEF and iron deficiency to alleviate HF 
+symptoms and improve QoL.875–879 
+I B1 
+Intravenous iron supplementation should be 
+considered in patients with symptomatic HFrEF 
+and iron deficiency to reduce the risk of 
+HFH.872–874,879,881,885,886,888 
+IIa B1 
+© ESC 2026
+HF, heart failure; HFH, heart failure hospitalization; HFrEF, heart failure with 
+reduced ejection fraction; QoL, quality of life. 
+aClass of recommendation. 
+bLevel of evidence.   
+5412                                                                                                                                                                                       ESC Guidelines 
+Downloaded from academic.oup.com/eurheartj/article/47/38/5346/8766302 by guest on 22 October 2026
+
+--- Page 68 ---
+these medications require more caution and should be started at 
+low doses after consideration of the risks and benefits, with close 
+monitoring for signs of airway obstruction, and appropriate super-
+vision.897 Chronic obstructive pulmonary disease exacerbations 
+should not be a cause of beta-blocker discontinuation.898 
+Inhaled corticosteroids and beta-adrenergic agonists have not 
+been specifically studied in patients with HF; however, they do 
+not seem to increase CV risk.899,900 In addition, appropriate man-
+agement of COPD can improve cardiac function.901 
+Sleep-disordered breathing is found in over one-third of pa-
+tients with HF and is even more prevalent in DHF. Sleep- 
+disordered breathing includes OSA, central sleep apnoea (CSA), 
+and mixed disease. SDB negatively impacts disease progression 
+and prognosis.902,903 Patients with a suspicion of SDB should be 
+referred for overnight polysomnography to definitively diagnose 
+SDB, and to document the predominant type of sleep apnoea 
+(central vs obstructive).902 The therapeutic approach to SDB in-
+cludes the correction of underlying causes, when identified. 
+The use of adaptive servo-ventilation (ASV) in patients with 
+HFrEF and predominantly CSA is not recommended, based on 
+the results of the SERVE-HF trial,904 which showed an increase 
+in both all-cause and CV death in patients with chronic HF, LVEF 
+≤45%, and SDB with predominant CSA.904 
+The ADVENT-HF trial randomized 731 patients with HF, LVEF 
+≤45%, and coexisting SDB, mostly OSA (73%) to standard optimal 
+treatment alone or standard optimal treatment and ASV (1:1). 
+Over a mean follow-up period of 3.6 years, ASV had a neutral ef-
+fect on the primary composite outcome (the cumulative incidence 
+of all-cause death, first CV hospitalization, new-onset AF/flutter, 
+and delivery of an appropriate ICD shock).905 However, ASV im-
+proved sleep quality and structure, health-related QoL, and symp-
+toms of patients with SDB.905 
+Thus, in patients with SDB and predominant OSA, nocturnal 
+hypoxaemia can be treated with nocturnal oxygen supplemen-
+tation, continuous positive airway pressure (CPAP), bilevel posi-
+tive airway pressure, and ASV. 
+When SDB is caused by CSA, implantable phrenic nerve 
+stimulation was found to be safe and effective in reducing the 
+apnoea–hypopnoea index in a small RCT.906–908 
+10.7. Anxiety, depression, and cognitive 
+impairment 
+Anxiety and depression are common findings in patients af-
+fected by chronic and disabling conditions, such as HF, and 
+need to be promptly identified to minimize psychological dis-
+tress and its negative consequences.909 Depression affects 
+20% of patients with HF, and it may affect adherence to FMT. 
+Its prevalence is higher in women, and it is associated with 
+worse clinical status and poorer prognosis.910–912 
+The diagnosis of depression typically relies on standardized 
+questionnaires and clinical interviews. Symptom overlap be-
+tween HF and depression can complicate diagnosis, as both con-
+ditions may present with cognitive issues (e.g. difficulty 
+concentrating) and physical symptoms (e.g. fatigue). Several va-
+lidated questionnaires are available for screening clinically sig-
+nificant depressive symptoms911 (see Supplementary data 
+online, Section S7.4, Table S23). 
+Cognitive impairment in these patients has been re-
+ported.911,913 However, there is still no consensus on the best 
+therapy for patients with HF and depression. 
+Cognitive behavioural therapy has demonstrated significant 
+favourable long-term (4–9 months) reduction of anxiety and 
+depression and improvement in QoL compared with non- 
+treated patients.914,915 The safety of sertraline and escitalo-
+pram has been demonstrated, although without a significant 
+reduction in depression compared with placebo.916,917 
+Tricyclic antidepressants should be avoided for the treatment 
+of depression in HF as they may cause hypotension, WHF, 
+and arrhythmias.911,912 
+10.8. Frailty 
+Frailty is defined as a multidimensional, dynamic, and potentially 
+reversible state, related to, but independent of, age, that makes 
+individuals more vulnerable to the effects of stressors and at in-
+creased risk of poor outcomes. A score assessing frailty includ-
+ing four domains (clinical, functional, psychocognitive, and 
+social) has recently been proposed.918 
+The presence of frailty might have an impact on disease man-
+agement and is associated with higher rates of death and hospi-
+talizations, and reduced health-related QoL, regardless of which 
+tool was used to assess frailty.919–923 In patients with HF, frailty 
+is particularly prevalent in older adults. When frailty is suspected 
+or identified, a multidisciplinary approach to facilitate an indivi-
+dualized management is warranted.918,922,924 
+Recommendation Table 20 — Recommendations for lung 
+disease and sleep-disordered breathing (see Evidence 
+Table 89) 
+Recommendations Classa Levelb  
+Adaptive servo-ventilation may be considered in 
+patients with HFrEF and sleep-disordered 
+breathing with predominant obstructive sleep 
+apnoea to improve sleep quality, health-related 
+QoL and symptoms.905 
+IIb C 
+Adaptive servo-ventilation is not recommended 
+in patients with HFrEF and sleep-disordered 
+breathing with predominant central sleep 
+apnoea because of an increased risk of CV and 
+all-cause death.904 
+III A 
+© ESC 2026
+CV, cardiovascular; HFrEF, heart failure with reduced ejection fraction; QoL, 
+quality of life. 
+aClass of recommendation. 
+bLevel of evidence.  
+Recommendation Table 21 — Recommendations for anx-
+iety, depression, and frailty (see Evidence Tables 90 and 91) 
+Recommendation Classa Levelb  
+Assessment of anxiety, depression and frailty 
+should be considered in patients with HF to 
+support the development of personalized care 
+plans and to identify factors that may contribute 
+to adverse outcomes.909,914,915,920,923 
+IIa C 
+© ESC 2026
+HF, heart failure. 
+aClass of recommendation. 
+bLevel of evidence.   
+ESC Guidelines                                                                                                                                                                                        5413 
+Downloaded from academic.oup.com/eurheartj/article/47/38/5346/8766302 by guest on 22 October 2026
+
+--- Page 69 ---
+10.9. Other non-cardiovascular 
+comorbidities 
+Infections may cause WHF and can precipitate HFH.925,926 
+Infections should ideally be prevented or, if present, promptly 
+recognized and treated to avoid disease progression.927–930 
+Influenza vaccination is associated with a reduced risk of 
+pneumonia and all-cause death in patients with HF.931–936 
+Thus, influenza and pneumococcal vaccination should be con-
+sidered in all patients with HF in order to reduce the risk of 
+infection-related complications.935 
+Thyroid dysfunction can cause changes in cardiac function 
+and structure and may precipitate DHF.937,938 Assessment of 
+thyroid function is recommended in patients with de novo HF 
+or DHF and should be regularly assessed during follow-up of pa-
+tients with HF. Treatment of thyroid dysfunction should be 
+guided by endocrine guidelines.939–942 
+Hyperuricaemia and consequent gout attacks can be frequent in 
+patients with HF, mainly caused or precipitated by diuretic treat-
+ment.943,944 Allopurinol is recommended as the first choice to 
+chronically reduce uric acid levels in patients with HF,945 whereas 
+colchicine can be used for acute gout attacks. Non-steroidal anti- 
+inflammatory drugs and selective cyclooxygenase-2 inhibitors are 
+not recommended in patients with HF because they may precipi-
+tate decompensation and worsen kidney function.942,946–948 
+Heart failure and erectile dysfunction frequently coexist.949,950 
+Cardioselective beta-blockers should be preferred in patients 
+with HF and erectile dysfunction, mainly bisoprolol and nebivolol, 
+started at the lowest doses.897 In the presence of erectile dys-
+function symptoms, phosphodiesterase-V inhibitors are generally 
+safe and can be considered in patients who are compensated,951 
+avoiding their concomitant use with nitrates.952 
+11. Multidisciplinary team 
+management, long-term follow-up, 
+and patient care 
+11.1. Multidisciplinary management of heart 
+failure 
+Multidisciplinary care for HF combines the expertise of various 
+professionals to provide integrated, patient-centred care that 
+improves both clinical outcomes and QoL for patients 
+(Figure 21). 
+Access to healthcare professionals with awareness of 
+HF and expertise in its diagnosis and management is 
+essential for early detection and better outcomes. 
+Multidisciplinary HF care involves generalist and specialist 
+healthcare professionals, 955 including cardiologists, cardio-
+thoracic surgeons, specialist nurses, pharmacists, and phy-
+siologists (Figure 21) (see Supplementary data online,  
+Section S8.1).17,956–963 
+Management by an HF multidisciplinary team (HF-MDT) 
+across outpatient and inpatient settings improves outcomes 
+for people with HF.962,964–967 
+The literature evaluates various methods of delivering HF 
+management programmes enabling local HF services to de-
+sign services tailored to their HF-MDT and the structure of 
+their healthcare system. A meta-analysis of 16 RCTs with 
+3999 eligible patients evaluating the benefits of multidiscip-
+linary HF clinics compared with usual care demonstrated a re-
+duction in HFH.967 A meta-analysis of eight RCTs with 1764 
+patients indicated that multidisciplinary teams may have the 
+potential to reduce death, although a definitive RCT is 
+needed. 964 The benefits were more evident in patients with 
+a recent emergency department presentation or HFH.966 
+Other methods of delivery, including home visits and transi-
+tional care models, are given in Supplementary data online,  
+Section S8.1.145,962,965,968–972 
+Healthcare professionals involved in the management of 
+HF, whether specialist or generalist, should be equipped 
+with the knowledge required to effectively assess and man-
+age HF through appropriate education and training.958,973,974 
+Malnutrition has been associated with worse prognosis in pa-
+tients with HF.738 Thus, nutritional assessment and dietary in-
+terventions can be useful.588,589 No evidence supports fluid 
+restriction in chronic HF.975,976 
+Recommendation Table 22 — Recommendations for other 
+non-cardiovascular comorbidities (see Evidence Tables 92 
+and 93) 
+Recommendations Classa Levelb  
+Influenza and pneumococcal vaccination should 
+be considered in patients with HF to reduce the 
+risk of pneumonia complications, 
+hospitalization, and death.931–934,936,953,954 
+IIa C 
+NSAIDs and COX-2 inhibitors are not 
+recommended in patients with HF as they 
+increase the risk of HF worsening and 
+HFH.942,946–948 
+III B2 
+© ESC 2026
+COX-2, cyclooxygenase-2; HF, heart failure; HFH, heart failure hospitalization; 
+NSAID, non-steroidal anti-inflammatory drug. 
+aClass of recommendation. 
+bLevel of evidence.  
+Recommendation Table 23 — Recommendations for the 
+multidisciplinary management of heart failure (see  
+Evidence Tables 94–96) 
+Recommendations Classa Levelb  
+A multidisciplinary HF management  
+programme is recommended in patients  
+with HF to reduce the risk of HFH and 
+death.964–967 
+I B1 
+HF education and self-management  
+strategies in patients with HF are  
+recommended to reduce the risk of HFH or 
+death.977 
+I A 
+Multidisciplinary interventions to improve 
+adherence, including assessment of  
+health literacy and polypharmacy  
+review, are recommended in patients with  
+HF to reduce the risk of hospitalization and 
+death.978–981 
+I B2 
+© ESC 2026
+HF, heart failure; HFH, heart failure hospitalization. 
+aClass of recommendation. 
+bLevel of evidence.   
+5414                                                                                                                                                                                       ESC Guidelines 
+Downloaded from academic.oup.com/eurheartj/article/47/38/5346/8766302 by guest on 22 October 2026
+
+--- Page 70 ---
+/gid00041/gid00068/gid00064/gid00081/gid00083/gid00001/gid00039/gid00064/gid00072/gid00075/gid00084/gid00081/gid00068
+/gid00053/gid00081/gid00068/gid00064/gid00083/gid00076/gid00068/gid00077/gid00083/gid00082
+/gid00038/gid00067/gid00084/gid00066/gid00064/gid00083/gid00072/gid00078/gid00077
+/gid00034/gid00082/gid00082/gid00068/gid00082/gid00082/gid00076/gid00068/gid00077/gid00083
+/gid00046/gid00078/gid00077/gid00072/gid00083/gid00078/gid00081/gid00072/gid00077/gid00070
+/gid00042/gid00077/gid00083/gid00068/gid00081/gid00085/gid00068/gid00077/gid00014
+/gid00083/gid00072/gid00078/gid00077/gid00064/gid00075/gid00016/gid00038/gid00049
+/gid00066/gid00064/gid00081/gid00067/gid00072/gid00078/gid00075/gid00078/gid00070/gid00072/gid00082/gid00083
+/gid00049/gid00064/gid00075/gid00075/gid00072/gid00064/gid00083/gid00072/gid00085/gid00068
+/gid00064/gid00077/gid00067/gid00001/gid00068/gid00077/gid00067/gid00014/gid00078/gid00069/gid00014/gid00075/gid00072/gid00069/gid00068
+/gid00066/gid00064/gid00081/gid00068
+/gid00036/gid00064/gid00081/gid00067/gid00072/gid00064/gid00066
+/gid00082/gid00084/gid00081/gid00070/gid00068/gid00078/gid00077
+/gid00049/gid00081/gid00072/gid00076/gid00064/gid00081/gid00088
+/gid00066/gid00064/gid00081/gid00068
+/gid00079/gid00081/gid00078/gid00069/gid00068/gid00082/gid00082/gid00072/gid00078/gid00077/gid00064/gid00075/gid00082
+/gid00041/gid00039/gid00001
+/gid00066/gid00064/gid00081/gid00067/gid00072/gid00078/gid00075/gid00078/gid00070/gid00072/gid00082/gid00083
+/gid00036/gid00064/gid00081/gid00067/gid00072/gid00064/gid00066
+/gid00081/gid00068/gid00071/gid00064/gid00065/gid00072/gid00075/gid00072/gid00083/gid00064/gid00083/gid00072/gid00078/gid00077
+/gid00049/gid00068/gid00081/gid00082/gid00078/gid00077/gid00001
+/gid00086/gid00072/gid00083/gid00071/gid00001/gid00041/gid00039
+/gid00036/gid00064/gid00081/gid00068/gid00070/gid00072/gid00085/gid00068/gid00081
+/gid00041/gid00039/gid00001/gid00077/gid00084/gid00081/gid00082/gid00068/gid00001
+/gid00064/gid00077/gid00067/gid00001/gid00034/gid00049
+/gid00040/gid00068/gid00077/gid00068/gid00083/gid00072/gid00066
+/gid00066/gid00078/gid00084/gid00077/gid00082/gid00068/gid00075/gid00075/gid00078/gid00081/gid00082
+/gid00049/gid00082/gid00088/gid00066/gid00071/gid00078/gid00075/gid00078/gid00070/gid00088
+/gid00049/gid00064/gid00083/gid00072/gid00068/gid00077/gid00083
+/gid00082/gid00084/gid00079/gid00079/gid00078/gid00081/gid00083
+/gid00077/gid00068/gid00083/gid00086/gid00078/gid00081/gid00074
+/gid00049/gid00082/gid00088/gid00066/gid00071/gid00078/gid00082/gid00078/gid00066/gid00072/gid00064/gid00075
+/gid00001/gid00064/gid00077/gid00067/gid00001/gid00086/gid00068/gid00075/gid00069/gid00064/gid00081/gid00068/gid00001
+/gid00082/gid00068/gid00081/gid00085/gid00072/gid00066/gid00068/gid00082
+/gid00036/gid00078/gid00076/gid00078/gid00081/gid00065/gid00072/gid00067/gid00072/gid00083/gid00088/gid00014
+/gid00082/gid00079/gid00068/gid00066/gid00072/gid00195/gid00066
+/gid00082/gid00079/gid00068/gid00066/gid00072/gid00064/gid00075/gid00072/gid00082/gid00083
+/gid00048/gid00085/gid00068/gid00081/gid00064/gid00081/gid00066/gid00071/gid00072/gid00077/gid00070/gid00001/gid00079/gid00081/gid00072/gid00077/gid00066/gid00072/gid00079/gid00075/gid00068/gid00082/gid00001/gid00078/gid00069/gid00001/gid00064/gid00001/gid00041/gid00039/gid00001/gid00076/gid00064/gid00077/gid00064/gid00070/gid00068/gid00076/gid00068/gid00077/gid00083/gid00001/gid00079/gid00081/gid00078/gid00070/gid00081/gid00064/gid00076/gid00076/gid00068/gid00027
+/gid00049/gid00064/gid00083/gid00072/gid00068/gid00077/gid00083/gid00014/gid00066/gid00068/gid00077/gid00083/gid00081/gid00068/gid00067
+/gid00046/gid00084/gid00075/gid00083/gid00072/gid00067/gid00072/gid00082/gid00066/gid00072/gid00079/gid00075/gid00072/gid00077/gid00064/gid00081/gid00088
+/gid00037/gid00068/gid00075/gid00072/gid00085/gid00068/gid00081/gid00068/gid00067/gid00001/gid00065/gid00088/gid00001/gid00066/gid00078/gid00076/gid00079/gid00068/gid00083/gid00068/gid00077/gid00083/gid00001/gid00079/gid00081/gid00078/gid00069/gid00068/gid00082/gid00082/gid00072/gid00078/gid00077/gid00064/gid00075/gid00082
+/gid00036/gid00078/gid00077/gid00083/gid00081/gid00072/gid00065/gid00084/gid00083/gid00068/gid00082/gid00001/gid00083/gid00078/gid00001/gid00081/gid00068/gid00082/gid00068/gid00064/gid00081/gid00066/gid00071/gid00013/gid00001/gid00064/gid00084/gid00067/gid00072/gid00083/gid00001/gid00064/gid00077/gid00067/gid00001/gid00072/gid00076/gid00079/gid00075/gid00068/gid00076/gid00068/gid00077/gid00083/gid00064/gid00083/gid00072/gid00078/gid00077/gid00001/gid00078/gid00069/gid00001/gid00068/gid00085/gid00072/gid00067/gid00068/gid00077/gid00066/gid00068
+/gid00034/gid00067/gid00085/gid00078/gid00066/gid00064/gid00066/gid00088/gid00001/gid00083/gid00078/gid00001/gid00072/gid00076/gid00079/gid00081/gid00078/gid00085/gid00068/gid00001/gid00064/gid00066/gid00066/gid00068/gid00082/gid00082/gid00001/gid00083/gid00078/gid00001/gid00066/gid00064/gid00081/gid00068
+/gid00036/gid00078/gid00078/gid00081/gid00067/gid00072/gid00077/gid00064/gid00083/gid00068/gid00067/gid00001/gid00066/gid00064/gid00081/gid00068
+/gid00046/gid00078/gid00077/gid00072/gid00083/gid00078/gid00081/gid00072/gid00077/gid00070/gid00001/gid00082/gid00083/gid00081/gid00064/gid00083/gid00068/gid00070/gid00072/gid00068/gid00082/gid00001/gid00083/gid00078/gid00001/gid00069/gid00064/gid00066/gid00072/gid00075/gid00072/gid00083/gid00064/gid00083/gid00068/gid00027
+/gid00048/gid00079/gid00083/gid00072/gid00076/gid00072/gid00089/gid00064/gid00083/gid00072/gid00078/gid00077/gid00001/gid00078/gid00069/gid00001/gid00041/gid00039/gid00001/gid00083/gid00071/gid00068/gid00081/gid00064/gid00079/gid00072/gid00068/gid00082
+/gid00051/gid00068/gid00066/gid00078/gid00070/gid00077/gid00072/gid00083/gid00072/gid00078/gid00077/gid00001/gid00078/gid00069/gid00001/gid00067/gid00072/gid00082/gid00068/gid00064/gid00082/gid00068/gid00001/gid00079/gid00081/gid00078/gid00070/gid00081/gid00068/gid00082/gid00082/gid00072/gid00078/gid00077
+/gid00038/gid00064/gid00081/gid00075/gid00088/gid00001/gid00082/gid00084/gid00079/gid00079/gid00078/gid00081/gid00083/gid00068/gid00067/gid00001/gid00067/gid00072/gid00082/gid00066/gid00071/gid00064/gid00081/gid00070/gid00068
+/gid00048/gid00079/gid00079/gid00078/gid00081/gid00083/gid00084/gid00077/gid00072/gid00083/gid00072/gid00068/gid00082/gid00001/gid00069/gid00078/gid00081/gid00001/gid00064/gid00067/gid00085/gid00064/gid00077/gid00066/gid00068/gid00067/gid00001/gid00066/gid00064/gid00081/gid00068/gid00001/gid00079/gid00075/gid00064/gid00077/gid00077/gid00072/gid00077/gid00070/gid00013/gid00001/gid00064/gid00067/gid00085/gid00064/gid00077/gid00066/gid00068/gid00067/gid00001/gid00041/gid00039/gid00001/gid00081/gid00068/gid00069/gid00068/gid00081/gid00081/gid00064/gid00075/gid00001/gid00064/gid00077/gid00067/gid00001/gid00079/gid00064/gid00075/gid00075/gid00072/gid00064/gid00083/gid00072/gid00085/gid00068/gid00001/gid00066/gid00064/gid00081/gid00068
+/gid00049/gid00081/gid00068/gid00085/gid00068/gid00077/gid00083/gid00072/gid00078/gid00077/gid00001/gid00078/gid00069/gid00001/gid00067/gid00072/gid00082/gid00068/gid00064/gid00082/gid00068/gid00001/gid00079/gid00081/gid00078/gid00070/gid00081/gid00068/gid00082/gid00082/gid00072/gid00078/gid00077
+/gid00052/gid00088/gid00076/gid00079/gid00083/gid00078/gid00076/gid00001/gid00066/gid00078/gid00077/gid00083/gid00081/gid00078/gid00075
+/gid00034/gid00066/gid00066/gid00068/gid00082/gid00082/gid00001/gid00083/gid00078/gid00001/gid00041/gid00039/gid00001/gid00083/gid00081/gid00068/gid00064/gid00083/gid00076/gid00068/gid00077/gid00083/gid00082/gid00001/gid00064/gid00077/gid00067/gid00001/gid00072/gid00077/gid00083/gid00068/gid00081/gid00085/gid00068/gid00077/gid00083/gid00072/gid00078/gid00077/gid00082
+/gid00053/gid00081/gid00068/gid00064/gid00083/gid00076/gid00068/gid00077/gid00083/gid00001/gid00070/gid00078/gid00064/gid00075/gid00082/gid00027
+/gid00046/gid00064/gid00077/gid00064/gid00070/gid00068/gid00076/gid00068/gid00077/gid00083/gid00001/gid00078/gid00069/gid00001/gid00066/gid00078/gid00076/gid00078/gid00081/gid00065/gid00072/gid00067/gid00072/gid00083/gid00072/gid00068/gid00082
+/gid00046/gid00064/gid00077/gid00064/gid00070/gid00068/gid00076/gid00068/gid00077/gid00083/gid00001/gid00078/gid00069/gid00001/gid00079/gid00082/gid00088/gid00066/gid00071/gid00078/gid00075/gid00078/gid00070/gid00072/gid00066/gid00064/gid00075/gid00001/gid00067/gid00072/gid00082/gid00083/gid00081/gid00068/gid00082/gid00082
+/gid00042/gid00077/gid00067/gid00072/gid00085/gid00072/gid00067/gid00084/gid00064/gid00075/gid00072/gid00089/gid00068/gid00067/gid00001/gid00068/gid00067/gid00084/gid00066/gid00064/gid00083/gid00072/gid00078/gid00077/gid00001/gid00069/gid00078/gid00081/gid00001/gid00083/gid00071/gid00068/gid00001/gid00079/gid00068/gid00081/gid00082/gid00078/gid00077/gid00001/gid00086/gid00072/gid00083/gid00071/gid00001/gid00041/gid00039/gid00001/gid00064/gid00077/gid00067/gid00001/gid00066/gid00064/gid00081/gid00068/gid00070/gid00072/gid00085/gid00068/gid00081/gid00001/gid00083/gid00078/gid00001/gid00082/gid00084/gid00079/gid00079/gid00078/gid00081/gid00083/gid00001/gid00082/gid00068/gid00075/gid00069/gid00014/gid00066/gid00064/gid00081/gid00068/gid00001/gid00064/gid00077/gid00067/gid00001
+/gid00081/gid00068/gid00066/gid00078/gid00070/gid00077/gid00072/gid00089/gid00068/gid00001/gid00066/gid00071/gid00064/gid00077/gid00070/gid00068/gid00001/gid00072/gid00077/gid00001/gid00082/gid00088/gid00076/gid00079/gid00083/gid00078/gid00076/gid00082
+/gid00049/gid00081/gid00078/gid00069/gid00068/gid00082/gid00082/gid00072/gid00078/gid00077/gid00064/gid00075/gid00001/gid00068/gid00067/gid00084/gid00066/gid00064/gid00083/gid00072/gid00078/gid00077/gid00001/gid00069/gid00078/gid00081/gid00001/gid00041/gid00039/gid00001/gid00082/gid00079/gid00068/gid00066/gid00072/gid00064/gid00075/gid00072/gid00082/gid00083/gid00082/gid00001/gid00064/gid00077/gid00067/gid00001/gid00077/gid00078/gid00077/gid00014/gid00082/gid00079/gid00068/gid00066/gid00072/gid00064/gid00075/gid00072/gid00082/gid00083/gid00082/gid00001/gid00083/gid00078/gid00001/gid00082/gid00084/gid00079/gid00079/gid00078/gid00081/gid00083/gid00001/gid00066/gid00078/gid00076/gid00079/gid00068/gid00083/gid00068/gid00077/gid00066/gid00068/gid00001/gid00072/gid00077/gid00001/gid00041/gid00039/gid00001/gid00066/gid00064/gid00081/gid00068
+/gid00042/gid00067/gid00068/gid00077/gid00083/gid00072/gid00195/gid00066/gid00064/gid00083/gid00072/gid00078/gid00077/gid00001/gid00078/gid00069/gid00001/gid00041/gid00039/gid00001/gid00064/gid00068/gid00083/gid00072/gid00078/gid00075/gid00078/gid00070/gid00088
+/gid00048/gid00077/gid00070/gid00078/gid00072/gid00077/gid00070/gid00001/gid00066/gid00075/gid00072/gid00077/gid00072/gid00066/gid00064/gid00075/gid00001/gid00064/gid00082/gid00082/gid00068/gid00082/gid00082/gid00076/gid00068/gid00077/gid00083/gid00001/gid00064/gid00077/gid00067/gid00001/gid00072/gid00077/gid00085/gid00068/gid00082/gid00083/gid00072/gid00070/gid00064/gid00083/gid00072/gid00078/gid00077/gid00082/gid00001/gid00064/gid00079/gid00079/gid00081/gid00078/gid00079/gid00081/gid00072/gid00064/gid00083/gid00068/gid00001/gid00083/gid00078/gid00001/gid00083/gid00071/gid00068/gid00001/gid00079/gid00064/gid00083/gid00072/gid00068/gid00077/gid00083/gid00001/gid00064/gid00077/gid00067/gid00001/gid00082/gid00083/gid00064/gid00070/gid00068/gid00001/gid00078/gid00069/gid00001/gid00041/gid00039
+/gid00034/gid00082/gid00082/gid00068/gid00082/gid00082/gid00076/gid00068/gid00077/gid00083/gid00001/gid00078/gid00069/gid00001/gid00082/gid00078/gid00066/gid00072/gid00064/gid00075/gid00001/gid00067/gid00068/gid00083/gid00068/gid00081/gid00076/gid00072/gid00077/gid00064/gid00077/gid00083/gid00082/gid00001/gid00078/gid00069/gid00001/gid00071/gid00068/gid00064/gid00075/gid00083/gid00071/gid00001/gid00083/gid00071/gid00064/gid00083/gid00001/gid00072/gid00076/gid00079/gid00064/gid00066/gid00083/gid00001/gid00064/gid00066/gid00066/gid00068/gid00082/gid00082/gid00001/gid00083/gid00078/gid00001/gid00066/gid00064/gid00081/gid00068/gid00001/gid00064/gid00077/gid00067/gid00001/gid00064/gid00067/gid00071/gid00068/gid00081/gid00068/gid00077/gid00066/gid00068
+/gid00039/gid00081/gid00064/gid00072/gid00075/gid00083/gid00088/gid00001/gid00064/gid00082/gid00082/gid00068/gid00082/gid00082/gid00076/gid00068/gid00077/gid00083
+/gid00046 /gid00034 /gid00038 /gid00053 /gid00039 /gid00041
+/gid00036/gid00078/gid00081/gid00068/gid00001/gid00041/gid00039
+/gid00083/gid00068/gid00064/gid00076
+Figure 21 Core members of the heart failure team with expanded team members depending on patient needs and local availability. AP, 
+allied professional; EP, electrophysiology; HF, heart failure.   
+ESC Guidelines                                                                                                                                                                                        5415 
+Downloaded from academic.oup.com/eurheartj/article/47/38/5346/8766302 by guest on 22 October 2026
+
+--- Page 71 ---
+11.2. Patient education, self-care, and 
+lifestyle advice 
+Education, self-care, and lifestyle advice empower patients and 
+their caregivers in managing HF and engage in shared decision- 
+making. Self-care incorporates education and strategies to sup-
+port maintenance, monitoring, and management of HF.973 The 
+aim is to ensure people with HF and their caregivers are 
+equipped with knowledge and skills and be partners in their 
+care and not simply recipients of information and treatments. 
+The benefits of self-care are described in a meta-analysis of 
+20 RCTs including 5624 patients.977 Self-management interven-
+tions on the background of usual HF care improved QoL and re-
+duced time to HFH or all-cause death. There may be some 
+barriers to self-care, but these can be overcome by careful de-
+sign of programmes982,983 (see Supplementary data online,  
+Section S8.2). 
+Effective self-care enhances QoL, reduces symptom severity, 
+and lowers the risk of hospitalization. It is essential that HF pro-
+fessionals collaborate with patients and caregivers, using shared 
+decision-making to develop personalized self-care plans 
+(Supplementary data online, Table S24). 
+11.3. Implementation and adherence to 
+therapy 
+11.3.1. Implementation and optimization 
+Implementation of HF therapies should be individualized, based 
+on available evidence, and involve the HF-MDT and patients 
+and caregivers. Yet, there remain delays to implementation 
+and optimization of treatments.984–986 Multivariable adjusted 
+large observational studies suggest that among the strongest 
+factors associated with improved FMT, AMT, and GDIT use is 
+access to cardiologist specialists.987–990 For barriers and facilita-
+tors to improved implementation of HF therapies, including clin-
+ical inertia, impact of race, ethnicity, gender, and health literacy, 
+see Supplementary data online, Table S25. 
+Evidence supports the role of HF nurses and pharmacists in 
+the implementation and optimization of HF therapies and avoid-
+ance of unnecessary side effects of polypharmacy.991–994 
+Pharmacists play a key role in ensuring safe and effective use 
+of medicines, including medication reconciliation and the opti-
+mization of therapies for comorbidities. Development of the 
+HF-MDT to support the implementation and optimization of 
+HF and to address the barriers that exist is key to improving out-
+comes for patients. 
+11.3.2. Long-term adherence 
+Adherence to self-care strategies and therapies is essential to 
+control symptoms, limit disease progression, and reduce hospi-
+talization and death.981 Factors that impact adherence and af-
+fect clinical outcomes include health literacy, polypharmacy, 
+and managing multiple health conditions.978,979,995 Strategies 
+to improve adherence in the context of HF have been described 
+elsewhere and provide guidance on the use of education tai-
+lored to the individual, communication skills, polypharmacy re-
+view, and co-ordinated care.980,996 Central to these is the 
+importance of the HF-MDT recognizing the barriers to adher-
+ence, assessing those barriers, and utilizing other members of 
+the health and social care team to address them. 
+11.4. Exercise training and cardiac 
+rehabilitation 
+11.4.1. Benefits of exercise training according to heart 
+failure stage and phenotype 
+There is consistent evidence that exercise training improves ex-
+ercise tolerance and health-related QoL in patients with HF.94 
+HF-ACTION was the largest RCT on exercise training in HF in-
+cluding 2331 patients with LVEF ≤35% (NYHA classes II–IV). 
+Compared with usual care, supervised exercise training plus 
+usual care showed modest, non-significant reductions in all- 
+cause death and hospitalizations. However, prespecified adjust-
+ments revealed significant reductions in CV death and HFH.997 
+A systematic review of 60 trials with 8728 patients (mean age 63 
+years, mean LVEF 32%) confirmed improvements in functional 
+capacity, QoL, and reductions in HFH with exercise training 
+but found no reduction in death.998 Similar findings were re-
+ported by another systematic review focusing on HFrEF (LVEF 
+<40%).94,999 
+In HFpEF, exercise training is safe and significantly enhances 
+exercise capacity and QoL, with no significant impact on diastol-
+ic function, arterial stiffness, or vascular function, and insuffi-
+cient data exist to assess its impact on clinical events, such as 
+death and hospital admissions, due to small sample sizes and 
+short follow-up times.1000,1001 
+Most trials in HF, except for HF-ACTION, are too small to re-
+liably evaluate the effects of exercise rehabilitation across sub-
+groups (see Supplementary data online, Section S8.4).1002,1003 
+In patients with long-term mechanical support, the benefit 
+of exercise training on functional capacity has been demon-
+strated.1004,1005 The Rehab-VAD trial showed that moderate 
+intensity aerobic training was safe in patients with continuous- 
+flow LVADs and yielded significantly improved health status, 
+treadmill time, and leg strength, without significant improve-
+ments in peak oxygen consumption.1006 If a patient with ad-
+vanced HF can tolerate physical activity, exercise training can 
+improve QoL.1007 Exercise training before and after heart trans-
+plantation should follow recommendations according to the 
+consensus document.1008 
+11.4.2. Safety and contraindications 
+No major adverse effects of exercise training were reported in 
+the included studies of above systematic reviews and 
+meta-analyses.1001,1009 However, exercise interventions should 
+only be initiated in stable individuals after initiation of FMT. 
+Exercise training is contraindicated in patients with refrac-
+tory/unstable angina and other high-risk CV conditions (e.g. 
+high-grade arrhythmias, DHF, active thromboembolic disease) 
+and in any other unstable non-cardiac condition (e.g. active in-
+fection, uncontrolled diabetes, end-stage cancer, COPD 
+exacerbation).94 
+11.4.3. Exercise prescription 
+A personalized training programme, with the mode of delivery, 
+type, and intensity tailored to the patient’s preferences, risk le-
+vel, and comorbidities, is recommended to improve uptake of 
+exercise-based cardiac rehabilitation. Exercise training should 
+be started as part of cardiac rehabilitation and be individually 
+prescribed according to the FITT model (frequency, intensity,  
+5416                                                                                                                                                                                       ESC Guidelines 
+Downloaded from academic.oup.com/eurheartj/article/47/38/5346/8766302 by guest on 22 October 2026
+
+--- Page 72 ---
+time, type) for aerobic training, resistance training, and inspira-
+tory muscle training1010,1011 (see Supplementary data online,  
+Section S8.4).998,1012–1016 
+Adherence to the prescribed exercise regimen is crucial (see  
+Supplementary data online, Section S8.4).1017–1020 
+11.5. Telemonitoring 
+Advances in digital technology and telemonitoring have, in re-
+cent years, contributed substantially to the transformation of 
+(remote) care delivery, from a hospital-centred approach to 
+a patient-oriented approach. Telemonitoring can involve 
+non-invasive and invasive monitoring modalities. Non-invasive 
+telemonitoring relies on traditional vital parameters measured 
+remotely (e.g. weight, heart rate, and blood pressure), which 
+can be used to guide patients remotely to adjust therapy 
+or seek advice either through telephone consultations or 
+eHealth-based environments. Recent systematic reviews and 
+meta-analyses report significant reductions in all-cause death 
+and HFH with non-invasive telemonitoring.1027–1029 However, 
+despite a growing body of evidence, results from individual trials 
+are inconsistent and limited mainly by considerable heterogen-
+eity in terms of patient population, modality, and intervention 
+(see Supplementary data online, Section S8.5).1027–1031 At pre-
+sent, non-invasive telemonitoring may be considered for pa-
+tients with HF in order to reduce the risk of HFH. 
+Device-based monitoring modalities (pacemaker/ICD/CRT) 
+based upon thoracic impedance, heart sounds, and breathing 
+patterns, aim to assist in the selection between stable patients 
+and those that need rapid access to care.1032,1033 Many im-
+planted devices can provide remote information either on the 
+device itself (generator and lead function), arrhythmias, or on 
+patient physiology (heart rate, heart sounds, bio-impedance). 
+There is evidence that monitoring can detect device malfunc-
+tion/integrity and that it may be useful for detecting arrhyth-
+mias. However, there is currently little evidence that device 
+monitoring improves clinical outcomes, although ongoing 
+RCTs are awaited.1029,1033–1039 
+Invasive monitoring modalities consist of several specifically 
+designed telemonitoring sensor technologies measuring remote 
+haemodynamic parameters. Currently, only pulmonary artery 
+sensor-guided therapy has been studied in multiple RCTs and 
+has shown a benefit in reducing HFH in patients in NYHA class 
+III and a HFH within the past 12 months.1029,1040–1047 
+Additionally, several prospective studies have confirmed the 
+safety and efficacy of pulmonary artery-guided therapy in redu-
+cing HFH in multiple settings.1037,1048–1052 Remote haemo-
+dynamic monitoring by pulmonary artery-guided therapy should 
+be considered in selected patients with moderate-to-severe HF 
+with NYHA class III and a HFH within the past 12 months in order 
+to reduce the risk of HFH. 
+11.6. Long-term follow-up 
+11.6.1. Follow-up 
+Patients with HF, even when symptoms are stable and well con-
+trolled, require regular in-person follow-up to ensure ongoing 
+optimization of therapy, detect asymptomatic disease progres-
+sion or comorbidities, and discuss new advances in care. For 
+follow-up intervals of patients with a recent episode of DHF 
+undergoing optimization or uptitration of FMT, see Section 7. 
+For symptomatic patients with HF with no recent DHF, these 
+guidelines recommend assessment of symptom severity, 
+pharmacological adherence, arrhythmias, changes in the ECG 
+and, if deemed relevant, echocardiography and laboratory 
+parameters (including full blood count, electrolytes, iron 
+Recommendation Table 24 — Recommendations for exer-
+cise training and cardiac rehabilitation (see Evidence Tables 
+97–99) 
+Recommendations Classa Levelb  
+Personalized exercise training, in the context of 
+multidisciplinary exercise-based cardiac 
+rehabilitation, is recommended for all stable 
+patients, unless there are specific 
+contraindications, in order to improve exercise 
+capacity and QoL, and reduce the risk of 
+all-cause hospitalization.1021 
+I B1 
+Personalized exercise training outside 
+exercise-based cardiac rehabilitation is 
+recommended for all stable patients on a 
+long-term basis, unless there are specific 
+contraindications, in order to improve exercise 
+capacity and QoL, and reduce the risk of 
+all-cause hospitalization.1022 
+I B2 
+Cardiac rehabilitationc is recommended in 
+patients with an LVAD to improve functional 
+capacity and QoL.1005,1023 
+I B1 
+Cardiac rehabilitationc should be considered in 
+patients with DHF, as soon as safely possible, to 
+improve functional capacity and QoL.1002,1024– 
+1026 
+IIa B1 
+© ESC 2026
+DHF, decompensated heart failure; LVAD, left ventricular assist device; QoL, 
+quality of life. 
+aClass of recommendation. 
+bLevel of evidence. 
+cEither comprehensive or exercise-based.  
+Recommendation Table 25 — Recommendations for inva-
+sive and non-invasive telemonitoring (see Evidence 
+Table 100) 
+Recommendations Classa Levelb  
+Remote haemodynamic monitoring of PA 
+pressure should be considered in symptomatic 
+patients with HF, NYHA class III, and an HFH in 
+the past 12 months in order to reduce the risk of 
+HFH.1029,1043,1045 
+IIa B1 
+Non-invasive telemonitoring modalities may be 
+considered for patients with HF in order to 
+reduce the risk of HFH.1027,1029,1053 
+IIb B1 
+© ESC 2026
+HF, heart failure; HFH, heart failure hospitalization; NYHA, New York Heart 
+Association; PA, pulmonary artery. 
+aClass of recommendation. 
+bLevel of evidence.   
+ESC Guidelines                                                                                                                                                                                        5417 
+Downloaded from academic.oup.com/eurheartj/article/47/38/5346/8766302 by guest on 22 October 2026
+
+--- Page 73 ---
+status, liver, kidney, and thyroid function). What is needed, at 
+which interval and who has to perform the follow-up assess-
+ment depend on HF stage (Figure 22). The necessity of 
+cardiologist-led follow-up for these patients remains uncer-
+tain, with some studies suggesting that primary care follow-up 
+may be appropriate.1054 However, evidence-based interven-
+tion uptake is low in many settings, and studies indicate that 
+follow-up by an HF clinic, alongside quality improvement regis-
+tries, may lead to better therapy optimization and improved 
+outcomes.990,994,1054–1057 
+An ECG is recommended to detect QRS prolongation, which 
+may qualify patients for CRT, as well as to identify conduction 
+disturbances, AF, and other arrhythmias. Echocardiography 
+should be performed if there is clinical deterioration or if other-
+wise deemed relevant. Trials investigating the use of biomar-
+kers, such as BNP and NT-proBNP, to guide therapy in HFrEF 
+have yielded inconsistent results.1058–1060 Although these bio-
+markers are strong prognostic indicators, it remains unclear 
+what additional value a biomarker-guided strategy offers be-
+yond strict adherence to FMT. As such, routine biomarker meas-
+urement for guidance on diuretic therapy is not currently 
+supported by the evidence. 
+11.6.2. Advance care planning and palliative care 
+While the disease trajectory of each patient with HF is 
+unique, there is a generalizable pattern of gradual decline, punc-
+tuated by episodes of acute deterioration leading to death. 
+Communication about disease trajectory and advance care plan-
+ning should be incorporated by all healthcare professionals 
+throughout the course of the disease.1061,1062 
+Advance care planning is a structured process that facilitates 
+the exploration and communication of the patient’s personal va-
+lues, life goals, and preferences regarding future medical care, 
+and may include preferences for place of death and resuscita-
+tion (which may include deactivating devices, such as ICD or 
+durable MCS). Advance care planning should be documented, 
+regularly reviewed, and routinely communicated to all those in-
+volved in the patient’s care. Evidence shows that proactive ad-
+vance care planning can reduce hospitalizations and improve 
+QoL and end-of-life care, yet many patients with HF lack forma-
+lized plans, highlighting the need for better implementation.627 
+Palliative care, defined as patient- and family-centred care 
+aimed at optimizing health-related QoL by anticipating, prevent-
+ing, and alleviating suffering, should be integrated into the man-
+agement of patients with HF in an advanced stage of the  
+/gid00052/gid00083/gid00064/gid00070/gid00068/gid00001/gid00034
+/gid00056/gid00071/gid00064/gid00083/gid00032
+/gid00056/gid00071/gid00068/gid00077/gid00032
+/gid00056/gid00071/gid00078/gid00032
+At risk for
+heart failure
+/gid00052/gid00083/gid00064/gid00070/gid00068/gid00001/gid00035
+Pre-heart
+failure
+/gid00052/gid00083/gid00064/gid00070/gid00068/gid00001/gid00036
+Symptomatic
+heart failure
+/gid00052/gid00083/gid00064/gid00070/gid00068/gid00001/gid00037
+Advanced
+heart failure
+/gid00107 /gid00036/gid00075/gid00072/gid00077/gid00072/gid00066/gid00064/gid00075/gid00001/gid00068/gid00087/gid00064/gid00076
+/gid00107 /gid00038/gid00036/gid00040
+/gid00107 /gid00038/gid00066/gid00071/gid00078/gid00066/gid00064/gid00081/gid00067/gid00072/gid00078/gid00070/gid00081/gid00064/gid00076 /gid00064
+/gid00107 /gid00045/gid00064/gid00065/gid00078/gid00081/gid00064/gid00083/gid00078/gid00081/gid00088/gid00001/gid00083/gid00068/gid00082/gid00083/gid00082
+/gid00107 /gid00036/gid00042/gid00038/gid00037/gid00001/gid00064/gid00077/gid00064/gid00075/gid00088/gid00082/gid00072/gid00082 /gid00064
+/gid00107 /gid00051/gid00068/gid00069/gid00068/gid00081/gid00081/gid00064/gid00075/gid00001/gid00083/gid00078/gid00001/gid00064/gid00067/gid00085/gid00064/gid00077/gid00066/gid00068/gid00067
+/gid00041/gid00039/gid00001/gid00066/gid00068/gid00077/gid00083/gid00081/gid00068/gid00013/gid00001/gid00064/gid00067/gid00085/gid00064/gid00077/gid00066/gid00068
+/gid00066/gid00064/gid00081/gid00068/gid00001/gid00079/gid00075/gid00064/gid00077/gid00077/gid00072/gid00077/gid00070
+/gid00107 /gid00036/gid00075/gid00072/gid00077/gid00072/gid00066/gid00064/gid00075/gid00001/gid00068/gid00087/gid00064/gid00076
+/gid00107 /gid00038/gid00036/gid00040
+/gid00107 /gid00038/gid00066/gid00071/gid00078/gid00066/gid00064/gid00081/gid00067/gid00072/gid00078/gid00070/gid00081/gid00064/gid00076 /gid00064
+/gid00107 /gid00045/gid00064/gid00065/gid00078/gid00081/gid00064/gid00083/gid00078/gid00081/gid00088/gid00001/gid00083/gid00068/gid00082/gid00083/gid00082
+/gid00107 /gid00036/gid00042/gid00038/gid00037/gid00001/gid00064/gid00077/gid00064/gid00075/gid00088/gid00082/gid00072/gid00082 /gid00064
+/gid00107 /gid00042/gid00069/gid00001/gid00067/gid00068/gid00083/gid00068/gid00081/gid00072/gid00078/gid00081/gid00064/gid00083/gid00072/gid00077/gid00070/gid00027
+/gid00036/gid00049/gid00038/gid00053/gid00013/gid00001/gid00051/gid00041/gid00036/gid00013/gid00001
+/gid00081/gid00068/gid00069/gid00068/gid00081/gid00081/gid00064/gid00075/gid00001/gid00083/gid00078/gid00001/gid00064/gid00067/gid00085/gid00064/gid00077/gid00066/gid00068/gid00067
+/gid00041/gid00039/gid00001/gid00066/gid00068/gid00077/gid00083/gid00081/gid00068/gid00065
+/gid00107 /gid00036/gid00075/gid00072/gid00077/gid00072/gid00066/gid00064/gid00075/gid00001/gid00068/gid00087/gid00064/gid00076
+/gid00107 /gid00038/gid00036/gid00040
+/gid00107 /gid00038/gid00066/gid00071/gid00078/gid00066/gid00064/gid00081/gid00067/gid00072/gid00078/gid00070/gid00081/gid00064/gid00076 /gid00064
+/gid00107 /gid00051/gid00068/gid00014/gid00064/gid00082/gid00082/gid00068/gid00082/gid00082/gid00076/gid00068/gid00077/gid00083/gid00001/gid00078/gid00069/gid00001/gid00081/gid00072/gid00082/gid00074
+/gid00107 /gid00036/gid00075/gid00072/gid00077/gid00072/gid00066/gid00064/gid00075/gid00001/gid00068/gid00087/gid00064/gid00076
+/gid00107 /gid00038/gid00036/gid00040
+/gid00107 /gid00038/gid00066/gid00071/gid00078/gid00066/gid00064/gid00081/gid00067/gid00072/gid00078/gid00070/gid00081/gid00064/gid00076 /gid00064
+/gid00042/gid00077/gid00083/gid00068/gid00081/gid00085/gid00064/gid00075/gid00001/gid00020/gid00106/gid00022/gid00001/gid00088/gid00068/gid00064/gid00081/gid00082/gid00066 /gid00042/gid00077/gid00083/gid00068/gid00081/gid00085/gid00064/gid00075/gid00001/gid00018/gid00001/gid00088/gid00068/gid00064/gid00081/gid00066 /gid00042/gid00077/gid00083/gid00068/gid00081/gid00085/gid00064/gid00075/gid00001/gid00023/gid00106/gid00018/gid00019/gid00001/gid00076/gid00078/gid00077/gid00083/gid00071/gid00082/gid00066 /gid00042/gid00077/gid00083/gid00068/gid00081/gid00085/gid00064/gid00075/gid00001/gid00020/gid00106/gid00023/gid00001/gid00076/gid00078/gid00077/gid00083/gid00071/gid00082/gid00066
+/gid00040/gid00068/gid00077/gid00068/gid00081/gid00064/gid00075/gid00001/gid00079/gid00081/gid00064/gid00066/gid00083/gid00072/gid00083/gid00072/gid00078/gid00077/gid00068/gid00081/gid00016
+/gid00036/gid00064/gid00081/gid00067/gid00072/gid00078/gid00075/gid00078/gid00070/gid00072/gid00082/gid00083
+/gid00036/gid00064/gid00081/gid00067/gid00072/gid00078/gid00075/gid00078/gid00070/gid00072/gid00082/gid00083/gid00016
+/gid00040/gid00068/gid00077/gid00068/gid00081/gid00064/gid00075/gid00001/gid00079/gid00081/gid00064/gid00066/gid00083/gid00072/gid00083/gid00072/gid00078/gid00077/gid00068/gid00081
+/gid00041/gid00039/gid00014/gid00046/gid00037/gid00053/gid00016
+/gid00040/gid00068/gid00077/gid00068/gid00081/gid00064/gid00075/gid00001/gid00079/gid00081/gid00064/gid00066/gid00083/gid00072/gid00083/gid00072/gid00078/gid00077/gid00068/gid00081
+/gid00041/gid00039/gid00014/gid00046/gid00037/gid00053/gid00016
+/gid00034/gid00067/gid00085/gid00064/gid00077/gid00066/gid00068/gid00067/gid00001/gid00041/gid00039/gid00001/gid00066/gid00068/gid00077/gid00083/gid00081/gid00068/gid00001/gid00016
+/gid00040/gid00068/gid00077/gid00068/gid00081/gid00064/gid00075/gid00001/gid00079/gid00081/gid00064/gid00066/gid00083/gid00072/gid00083/gid00072/gid00078/gid00077/gid00068/gid00081/gid00016
+/gid00001/gid00049/gid00064/gid00075/gid00075/gid00072/gid00064/gid00083/gid00072/gid00085/gid00068/gid00001/gid00066/gid00064/gid00081/gid00068
+Figure 22 Long-term follow-up of patients with stable heart failure—what—when—who. CIED, cardiac implantable electronic device; 
+CPET, cardiopulmonary exercise testing; ECG, electrocardiogram; HF, heart failure; HF-MDT, heart failure multidisciplinary team; 
+RHC, right heart catheterization. aIf deemed clinically relevant. bCheck ‘I NEED HELP’ criteria, Figure 16; Table 15 (Section 8). 
+cIntervals may be shorter.   
+5418                                                                                                                                                                                       ESC Guidelines 
+Downloaded from academic.oup.com/eurheartj/article/47/38/5346/8766302 by guest on 22 October 2026
+
+--- Page 74 ---
+disease. The role of palliative and supportive care spans the en-
+tire course of HF, beginning early in the disease, intensifying as 
+the condition progresses, and extending into caregiver bereave-
+ment. Evidence supports the use of multidisciplinary palliative 
+care in people with advanced HF to improve patient-reported 
+outcomes (symptom burden, depression, functional status, 
+QoL), but trials do not identify who would benefit most from 
+specialist palliative referral.1063–1065 There are no sufficiently 
+robust multicentre evaluation phase trials to provide generaliz-
+able findings. 
+12. Specific conditions 
+12.1. Pregnancy and heart failure 
+Heart failure in pregnancy requires careful multidisciplinary 
+management.1069–1071 The core components of HF care in preg-
+nancy involves multiple aspects from pre-conception to post- 
+partum (see Supplementary data online, Table S26). 
+Specific recommendations for pre-conception care and 
+management of HF during pregnancy can be found in  
+Recommendation Table 27. For an overview of managing HF in 
+pregnancy, see Supplementary data online, Section S9.1. For a 
+comprehensive and detailed guidance, we refer to the 2025 
+ESC Guidelines for the management of cardiovascular disease and 
+pregnancy.7 
+12.2. Cardiomyopathies 
+Cardiomyopathies are a common and specific cause of HF.124 
+The 2023 ESC Guidelines for the management of cardiomyopathies 
+described cardiomyopathy phenotypes based on structural (e.g. 
+ventricular hypertrophy, dilatation, or scar) and functional (e.g. 
+systolic or diastolic dysfunction) features.124 Detailed recom-
+mendations and algorithms for the diagnosis and management 
+of cardiomyopathies are provided in the 2023 ESC Guidelines 
+for the management of cardiomyopathies.124 
+12.2.1. Hypertrophic cardiomyopathy 
+Patients with HCM may develop HFrEF; in such cases, they 
+should in general be treated as other patients with HFrEF. 
+However, many patients develop symptoms of HF without hav-
+ing HFrEF, and these should be treated according to the cardio-
+myopathy guidelines (see Supplementary data online, Section 
+S9.2).124 
+12.3. Amyloidosis 
+12.3.1. Epidemiology and diagnosis 
+Cardiac amyloidosis is an infiltrative cardiomyopathy caused by 
+amyloid fibril deposition in the extracellular space, resulting in in-
+creased myocardial thickness and stiffness, leading to a restrictive 
+physiology.1077,1078 The two most prevalent forms of CA are im-
+munoglobulin light chain CA (AL-CA) and transthyretin amyloid-
+osis (ATTR). Transthyretin amyloidosis includes the wild-type 
+(>90% of cases), and the hereditary or variant forms.1077 Greater 
+awareness of CA, streamlined diagnostic processes, and the emer-
+gence of new treatments has led to an increase in the prevalence of 
+CA.1079,1080 The prevalence of CA is higher in males.1081 
+Cardiac amyloidosis should be suspected in patients with HF 
+and increased LV wall thickness in the presence of specific red 
+flags (Table 20), particularly in patients aged >65 years. 
+A timely, definitive diagnosis should be obtained as patient out-
+comes depend largely on early initiation of therapy (particularly in 
+AL-CA). Cardiac amyloidosis can be diagnosed using both invasive 
+and non-invasive diagnostic criteria. Invasive diagnostic criteria ap-
+ply to all forms of CA, whereas non-invasive criteria are accepted 
+only for transthyretin CA (ATTR-CA).1077 Figure 23 displays the 
+diagnostic work-up and treatment options. For more diagnostic 
+details, the Task Force refers to the 2021 ESC position statement 
+on CA.1077 
+Recommendation Table 26 — Recommendations for long- 
+term follow-up (see Evidence Tables 101 and 102) 
+Recommendations Classa Levelb  
+Proactive discussion regarding HF trajectory, 
+goals of care, and advance care planning is 
+recommended in patients with advanced HF to 
+facilitate communication on end of life and 
+QoL.627 
+I B1 
+Access to an integrated HF palliative care 
+multidisciplinary team is recommended for 
+patients in an advanced HF stage to improve 
+QoL and reduce symptom burden.1066–1068 
+I B2 
+© ESC 2026
+HF, heart failure; QoL, quality of life. 
+aClass of recommendation. 
+bLevel of evidence.  
+Recommendation Table 27 — Recommendations for heart 
+failure and pregnancy (see Evidence Tables 103–107) 
+Recommendations Classa Levelb  
+Pre-conception care and counselling is 
+recommended for patients with HF to facilitate 
+decision-making surrounding HF treatments, 
+pregnancy, contraception, pre-implantation 
+genetic screening, and assisted reproductive 
+therapies. 
+I C                                                                                                 
+Continued 
+In pregnant women with HFrEF, it is 
+recommended that non-selective beta-blockers 
+are switched to beta1-selective blockers 
+(metoprolol, bisoprolol) with close mother and 
+foetus monitoring to reduce the risk of adverse 
+foetal events and a lower birth weight.1072,1073 
+I C 
+ACE-Is, ARBs, ARNIs, MRAs, ivabradine, and 
+SGLT2-Is are not recommended during 
+pregnancy due to the risk of foetotocixity or 
+teratogenicity.1074–1076 
+III C 
+© ESC 2026
+ACE-I, angiotensin-converting enzyme inhibitor; ARB, angiotensin II receptor 
+blocker; ARNI, angiotensin receptor–neprilysin inhibitor; HF, heart failure; 
+HFrEF, heart failure with reduced ejection fraction; MRA, mineralocorticoid 
+receptor antagonist; SGLT2-I, sodium–glucose co-transporter 2 inhibitor. 
+aClass of recommendation. 
+bLevel of evidence.   
+ESC Guidelines                                                                                                                                                                                        5419 
+Downloaded from academic.oup.com/eurheartj/article/47/38/5346/8766302 by guest on 22 October 2026
+
+--- Page 75 ---
+12.3.2. Disease-specific treatments 
+12.3.2.1. Immunoglobulin light chain cardiac amyloidosis 
+Treatment of AL-CA includes chemotherapy or autologous stem 
+cell transplantation with careful monitoring of haematological re-
+sponse, cardiac and organ function. Management of AL-CA 
+should be undertaken by a multidisciplinary team involving 
+oncohaematology specialists and cardiologists, and whenever 
+possible, patients should be referred to specialized centres. 
+12.3.2.2. Transthyretin cardiac amyloidosis 
+Therapeutic agents for ATTR-CA include drugs that inhibit hep-
+atic synthesis of transthyretin (TTR), stabilize the tetramer, or 
+disrupt the amyloid fibrils. Based on the results of large RCTs, 
+the Task Force recommends treatment with a TTR stabilizer or 
+a TTR silencer with proven safety and efficacy on morbidity 
+and mortality, in patients with either wild-type or hereditary 
+ATTR-CA and a clinical history of HF with NYHA classes I–III. 
+These drugs include the TTR stabilizers tafamidis and acoramidis 
+and the TTR silencer vutrisiran.1082–1084 
+In the ATTR-ACT trial, tafamidis reduced all-cause death and 
+CV hospitalizations over 30 months in both hereditary and wild- 
+type ATTR-CA.1082 Benefits on functional capacity occurred 
+within 6 months, whereas reduction in all-cause death was ob-
+served from 18 months onwards. It showed limited impact in ad-
+vanced cases (NYHA class III). 
+In the ATTRibute-CM trial, after 30 months of treatment, 
+acoramidis was superior to placebo in a hierarchical analysis (all- 
+cause death, CV hospitalization, change from baseline in 
+NT-proBNP, and change from baseline in 6-min walk test).1083 
+Although it did not independently lower death at 30 months, 
+it did reduce the combined endpoint of all-cause death or CV 
+hospitalizations. Notably, survival rates in the placebo arm 
+were higher than in the treatment group of ATTR-ACT, possibly 
+reflecting earlier disease stage and the improvements in earlier 
+diagnosis and access to specialist care. Furthermore, in the 
+open-label extension study, early initiation and continuous use 
+of acoramidis significantly reduced death at 42 months, as com-
+pared with the later initiation of acoramidis.1085 
+In the APOLLO-B trial, patisiran (i.v.) reduced functional decline 
+over 12 months.1086 However, no data are available regarding 
+morbidity and mortality. In the HELIOS-B trial, vutrisiran (sub-
+cutaneous) reduced the risk of the combined endpoint of all- 
+cause death and recurrent CV events vs placebo.1084 Also, the 
+risk of all-cause death through 42 months was lowered with vu-
+trisiran. These benefits persisted regardless of background tafa-
+midis use at baseline (∼40% of the trial population).1084 
+None of the studies provided a head-to-head comparison of 
+TTR silencers vs stabilizers nor a head-to-head comparison of 
+monotherapy vs combination therapies. Several studies are on-
+going with further therapeutical options acting on gene editing, 
+RNA silencing, or the repletion of amyloid deposits, and might 
+change the management of ATTR-CA in the future. 
+12.3.3. Treatment of heart failure and cardiovascular 
+comorbidities 
+Evidence for the use of FMT in patients with CA is still scarce 
+and limited to post-hoc analyses of RCTs or retrospective stud-
+ies.1087–1092 Patients with CA may poorly tolerate standard HF 
+therapies due to restrictive physiology, autonomic dysfunction, 
+atrioventricular conduction disturbance, and kidney impairment. 
+Diuretics remain central for congestion management but must 
+be used cautiously within a narrow euvolaemic window.1089,1090 
+Increasing diuretic dose is a signal of disease progression with 
+worse outcomes.1093,1094 Evidence supports the safety and 
+benefit of SGLT2-Is.73,1089–1092 MRA might also be useful.1092 
+Table 20 ‘Red flags’ for most common forms of cardiac 
+amyloidosis 
+Category Red flag TTR AL  
+Extracardiac Polyneuropathy X X 
+Dysautonomia X X 
+Skin bruising – X 
+Macroglossia – X 
+Deafness X – 
+Bilateral carpal tunnel 
+syndrome 
+X – 
+Ruptured biceps tendon X – 
+Lumbar spinal stenosis X – 
+Vitreous deposits Xa – 
+Family history Xa – 
+Kidney insufficiency X X 
+Proteinuria X X 
+Cardiac clinical Hypotension or normotension 
+if previously hypertensive 
+X X 
+ECG Pseudo-infarct ECG pattern X X 
+Low/decreased QRS voltage 
+relative to LV thickness 
+X X 
+AV conduction disease X X 
+Laboratory Disproportionally elevated 
+NT-proBNP relative to HF 
+severity 
+X X 
+Persistently elevated cardiac 
+troponin levels 
+X X 
+Echocardiography Granular sparkling of 
+myocardium 
+X X 
+Increased right ventricular wall 
+thickness 
+X X 
+Increased valve thickness X X 
+Increased interatrial septum 
+thickness 
+X X 
+Pericardial effusion X X 
+Reduced longitudinal strain 
+with apical sparing pattern 
+X X 
+CMRb Global subendocardial or 
+transmural LGE 
+X X 
+Elevated native T1 values X X 
+Increased extracellular volume X X 
+Abnormal gadolinium kinetics X X 
+© ESC 2026
+AL, immunoglobulin light chain; CA, cardiac amyloidosis; CMR, cardiac magnetic 
+resonance; ECG, electrocardiogram; HF, heart failure; LGE, late gadolinium 
+enhancement; LV, left ventricular; NT-proBNP, N-terminal-pro-B-type 
+natriuretic peptide; TTR, transthyretin. 
+aHereditary TTR-CA. 
+bCMR can be diagnostic for CA.   
+5420                                                                                                                                                                                       ESC Guidelines 
+Downloaded from academic.oup.com/eurheartj/article/47/38/5346/8766302 by guest on 22 October 2026
+
+--- Page 76 ---
+Figure 23 Diagnosis and treatment of cardiac amyloidosis in heart failure patients. 99mTc, technetium-99m; AL, immunoglobulin light 
+chain; AL-CA, immunoglobulin light chain cardiac amyloidosis; ATTR-CA, transthyretin cardiac amyloidosis; CA, cardiac amyloidosis; 
+CMR, cardiac magnetic resonance; DPD, 3,3-diphosphono-1,2-propanodicarboxylic acid; HMDP, hydroxymethylene diphosphonate; 
+LVH, left ventricular hypertrophy; PYP, pyrophosphate; SPECT, single-photon emission computed tomography; TTR, transthyretin. 
+aSee Table 20. bUsually an extracardiac biopsy is performed first. cPerform TTR genetic testing. dDiagnosis will be based on the results 
+from the individualized approach.   
+ESC Guidelines                                                                                                                                                                                        5421 
+Downloaded from academic.oup.com/eurheartj/article/47/38/5346/8766302 by guest on 22 October 2026
+
+--- Page 77 ---
+Beta-blockers and ACE-I/ARNI/ARB use requires caution, indi-
+vidualized decisions, and close monitoring. 
+In patients with CA and AF, anticoagulation is indicated re-
+gardless of CHA2DS2-VA score, due to high thromboembolic 
+risk.1077,1095–1097 Transoesophageal echocardiography is ne-
+cessary before cardioversion to exclude intracardiac thrombus, 
+regardless of the duration of anticoagulation before the proced-
+ure.1098 The use of digoxin is generally discouraged due to high 
+risk of toxicity. Few patients with CA and advanced symptoms 
+may be eligible for heart transplantation in line with internation-
+al criteria.580 
+12.4. Myocarditis 
+12.4.1. Epidemiology and diagnosis 
+The contribution of myocarditis as a cause of HF is estimated to 
+be less than 5%.1099 When patients with myocarditis present 
+with DHF, LVEF <40%, life-threatening arrhythmias (ventricular 
+tachycardia/fibrillation, third-degree atrioventricular block), 
+and/or extensive LGE on CMR, they should be viewed as high 
+risk.1100,1101 High-risk patients may require an endomyocardial 
+biopsy in order to tailor treatment,8 whereas lower-risk patients 
+may be examined with CMR imaging. The clinical presentation 
+ranges from impaired LV function to refractory HF, CS (fulmin-
+ant myocarditis), or sudden cardiac arrest. Some patients pre-
+sent primarily with arrhythmias. Prognosis depends on initial 
+presentation.1100,1101 Patients with fulminant myocarditis 
+should be transferred or discussed with a center that has the 
+possibility to perform endomyocardial biopsy and provide 
+MCS support. High-risk patients have a high mortality and 
+may need temporary MCS and/or in the long term heart trans-
+plantation or durable MCS.1102–1104 
+12.4.2. Treatment 
+The treatment algorithm is reported in the 2025 ESC Guidelines 
+for the management of myocarditis and pericarditis.8 Patients with 
+myocarditis and HFrEF should be empirically treated with FMT 
+for HFrEF (see Section 7). Routine immunosuppression is not re-
+commended in patients with preserved LVEF and should be 
+reserved for fulminant, non-infectious forms of myocarditis to 
+stabilize the patients.8 
+12.5. Adult congenital heart disease 
+Adult congenital heart disease is a heterogeneous group of 
+structural heart abnormalities varying in complexity. There has 
+been an improvement in survival with contemporary care.1105 
+Consequently, HF in ACHD is increasingly common,1106,1107 
+and represents a major contributor to morbidity and mortality, 
+accounting for 26%–46% of deaths, with higher rates seen in 
+more complex lesions.1108–1110 
+Managing HF in ACHD poses specific challenges related to 
+original anatomy, presence of haemodynamic lesions, previous 
+interventions, and extracardiac complications such as kidney 
+and liver dysfunction.1111,1112 
+Specific indications on the management of these patients are 
+reported in the 2020 ESC Guidelines for the management of adult 
+congenital heart disease1111 and in a recent ESC clinical consen-
+sus statement.1113 
+13. Key messages 
+New classifications 
+• Heart failure has been redefined with two distinct 
+phenotypes: 
+⚬ HFrEF: LVEF <50% + symptoms and/or signs of HF. 
+⚬ HFpEF: LVEF ≥50% + symptoms and/or signs of HF + ob-
+jective evidence of cardiac structural and/or functional 
+abnormalities. 
+• Stages of HF (A–D) have been adopted: 
+⚬ Stage A: individuals at risk for HF but without signs, symp-
+toms, and cardiac abnormalities. 
+⚬ Stage B: pre-HF, defined as the presence of cardiac abnor-
+malities without signs and symptoms of HF. 
+⚬ Stage C: symptomatic HF, defined as the presence of car-
+diac abnormalities and current or prior signs and/or symp-
+toms of HF. 
+⚬ Stage D: advanced HF. 
+• New classifications for medical and interventional HF 
+therapies have been introduced. The terms are designed 
+to be dynamic and may therefore remain contemporary 
+over time: 
+⚬ FMT—Foundational medical therapy: medical therapies for 
+unselected patients with HF with Class I recommendation 
+for reducing HFH and/or death. 
+⚬ AMT—Additional medical therapy: medical therapies with 
+Class IIa/IIb recommendations or Class I recommendations 
+for improving symptoms/QoL or reducing morbidity or 
+mortality in specific subsets of patients with HF. 
+⚬ GDIT—Guideline-directed interventional therapy: all 
+guideline-recommended implantable devices or interven-
+tional therapies.  
+Prevention of heart failure 
+• A strict control of HF risk factors is recommended to prevent 
+HF. 
+Recommendation Table 28 — Recommendations for cardiac 
+amyloidosis (see Evidence Tables 108–111) 
+Recommendation Classa Levelb  
+Treatment with a TTR silencer (vutrisiran) or 
+stabilizer (tafamidis or acoramidis) for patients 
+with variant or wild-type transthyretin cardiac 
+amyloidosis and NYHA classes I–III is 
+recommended to reduce progression of 
+symptoms and the risk of CV hospitalization and 
+all-cause death.1082–1084 
+I A 
+© ESC 2026
+CV, cardiovascular; NYHA, New York Heart Association; TTR, transthyretin. 
+aClass of recommendation. 
+bLevel of evidence.   
+5422                                                                                                                                                                                       ESC Guidelines 
+Downloaded from academic.oup.com/eurheartj/article/47/38/5346/8766302 by guest on 22 October 2026
+
+--- Page 78 ---
+Diagnosis of heart failure 
+• Measurement of natriuretic peptides and echocardiography 
+have key roles in the diagnosis of HF. Additional testing is 
+useful for aetiologies and phenotypes. 
+• Multimodality aetiology assessment should be sought to find 
+potential treatable causes of HF.  
+Guideline-recommended therapies 
+• ARNIs or ACE-Is (ARB in case of intolerance) beta-blockers, 
+MRAs, and SGLT2-Is are recommended as FMT for patients 
+with HFrEF, whereas MRAs and SGLT2-Is are recommended 
+as FMT for patients with HFpEF. 
+• ICDs are recommended in selected patients with HFrEF, 
+LVEF ≤35%, and an ischaemic aetiology, and should be con-
+sidered in those with a non-ischaemic aetiology. 
+• CRT-P or CRT-D is recommended in patients with HFrEF, 
+LVEF ≤35%, in sinus rhythm, with an LBBB ≥150 ms and 
+should be considered in those with an LBBB ≥130–149 ms 
+or non-LBBB ≥150 ms.  
+Decompensated heart failure 
+• Decompensated heart failure refers to acute or gradual onset 
+of symptoms and/or signs of HF, severe enough to deserve 
+urgent medical attention, leading to an unplanned hospital ad-
+mission or an emergency department visit or an ambulatory 
+visit, and requiring subsequent initiation or intensification of 
+treatment. 
+• Treatment of DHF is based on addressing any associated 
+triggers urgently, diuretics for congestion with the addition 
+of vasodilators for high blood pressure, inotropes, and/or 
+temporary MCS for hypoperfusion. 
+• Patients hospitalized for HF should be carefully evaluated to 
+exclude persistent signs of congestion. FMT must be started 
+or optimized before discharge and close visits in the early 
+post-discharge period must be planned.  
+Advanced heart failure 
+• Patients with advanced HF refractory to FMT and GDIT who do 
+not have absolute contraindications must have timely referral 
+for consideration of heart transplantation or MCS.  
+Cardiovascular comorbidities 
+• Catheter ablation should be considered only in carefully se-
+lected patients with HFrEF and symptomatic AF. Selection 
+criteria include high-burden AF, less than 1-year duration of 
+continuous persistent AF, and a clear cause–effect relation-
+ship between AF and HF. 
+• Patients with obstructive CAD and HF need to be treated 
+conservatively or invasively (CABG or PCI) according to clin-
+ical and anatomical suitability for revascularization, HF 
+phenotype and history, presence of angina, comorbidities, 
+frailty, and patient preference. 
+• Surgical aortic valve replacement or TAVI, as assessed by the 
+Heart Team, is recommended in patient with severe low-flow 
+low-gradient aortic stenosis and HF regardless of LVEF and in 
+patients with severe low-flow low-gradient aortic stenosis 
+and HFrEF. 
+• Mitral TEER is recommended in selected patients with severe 
+ventricular secondary MR and HFrEF after optimization of 
+FMT and CRT implantation (if needed). 
+Non-cardiovascular comorbidities 
+• Patients should be routinely screened and treated for non-CV 
+comorbidities (e.g. diabetes, CKD, obesity, ID, anxiety and de-
+pression) and frailty. 
+• Lifestyle interventions, exercise, diet, and patient education 
+are fundamental steps for body-weight management in pa-
+tients with HF and obesity, followed by pharmacological 
+and surgical interventions. 
+• It is recommended to switch glucose-lowering treatment 
+from agents without proven CV efficacy or safety to agents 
+with proven CV benefit in patients with HF and diabetes.  
+Multidisciplinary management 
+• A multidisciplinary HF management programme is 
+recommended. 
+• Cardiac rehabilitation, with exercise training, is a key tool to 
+reduce hospitalizations and improve functional capacity and 
+QoL in patients with HF. 
+• Remote haemodynamic monitoring of PA pressure should be 
+considered in selected patients; non-invasive telemonitoring 
+modalities may be considered.  
+Specific conditions 
+• Pre-conception care and counselling is recommended for pa-
+tients with stage B or C HF to facilitate decision-making sur-
+rounding pregnancy. 
+• Specific disease-modifying therapies are recommended in pa-
+tients with CA.  
+14. Gaps in evidence 
+Despite advances in the management of HF, multiple areas of 
+uncertainty remain. Future research should address the follow-
+ing gaps.  
+(1) Definitions and prevention 
+• Consensus regarding normal values/ranges of ejection 
+fraction. 
+• More information on the incidence, prevalence and prog-
+nostic importance of HF with improved LVEF, and a need 
+to validate and evaluate the clinical importance of the new 
+definition proposed by the Second Universal Definition of 
+HF.47 
+• The benefits and risks of various weight-loss methods for 
+HF risk reduction in obesity need further studies. 
+• More research is needed to understand if SGLT2-Is and 
+MRAs prevent HF in patients without diabetes but with 
+comorbidities like obesity, hypertension, and/or CKD. 
+• Studies are needed to better understand if CPAP therapy 
+lowers risk of HF in patients with sleep apnoea.  
+ESC Guidelines                                                                                                                                                                                        5423 
+Downloaded from academic.oup.com/eurheartj/article/47/38/5346/8766302 by guest on 22 October 2026
+
+--- Page 79 ---
+(2) Diagnosis and phenotyping 
+• Further research into the underlying characteristics, 
+pathophysiology, diagnosis, and phenotyping of HFpEF. 
+• Role of artificial intelligence in the diagnostic pathway for 
+HF as well as for patient inclusion in RCTs. 
+• Validated diagnostic protocols including deeper pheno-
+typing for the diagnosis of HFpEF. 
+• Validation of the historic exercise-induced pulmonary ca-
+pillary wedge pressure cut-offs used in the diagnosis of 
+HFpEF. 
+• Prospective validation of age-related natriuretic peptide 
+cut-offs in chronic HF. 
+• Degree of influence of BMI on natriuretic peptides to al-
+low for individual adjustment of expected ranges. 
+• Prospective studies to test the diagnostic yield for endo-
+myocardial biopsy, and whether a biopsy would affect 
+treatment decisions and outcomes in patients with unex-
+plained cardiomyopathy and evidence of inflammation/ 
+infiltration/storage on CMR or CT-positron emission 
+tomography.  
+(3) Medical treatment and devices 
+• Contemporary reproducibility of old trials on medical and 
+device therapies. 
+• Future trials on medical/device therapy for HF should ad-
+here to contemporary FMT. 
+• Randomized clinical trials comparing different MRAs in 
+both HFrEF and HFpEF. 
+• Randomized clinical trials investigating the optimal medic-
+al therapy for HFpEF. 
+• Randomized clinical trials comparing different GLP-1 RAs. 
+• Randomized clinical trials on the optimal sequencing 
+when initiating FMT both in HFrEF and HFpEF. 
+• More data on the role of potassium binders, both in pa-
+tients with and without CKD. 
+• Management strategies and therapies for HF with im-
+proved LVEF. 
+• Indications for ICDs in specific subgroups of patients, and 
+optimal selection of ICD candidates in HFrEF, including 
+patients with ischaemic and non-ischaemic HF. 
+• Efficacy of CRT in AF. 
+• Randomized controlled trials with morbidity and mortality 
+endpoints and long-term follow-up, comparing CSP and 
+trans-coronary vein CRT in patients with HFrEF. 
+• Randomized controlled trials with morbidity and mortality 
+and long-term follow-up on interatrial shunt devices in pa-
+tients with HFrEF and HFpEF.  
+(4) Decompensated heart failure 
+• Evidence on medical therapy with prognostic benefit in 
+DHF. 
+• Evidence for best decongestion protocols in patients with 
+and without CKD and in the setting of continued/initi-
+ation of FMT. 
+• Evidence-based use of imaging techniques and biomarkers 
+that have an impact on patients’ clinical course in DHF. 
+• Definition of evidence-based treatment options and 
+therapeutic algorithms for patients with CS. 
+• Better definition of the role of MCS in CS. 
+• Better definition of the role of inotropes, vasopressors 
+and vasodilators in DHF. 
+• Studies on the best early post-discharge risk-based 
+management protocols to reduce early readmission to 
+hospital.  
+(5) Advanced heart failure 
+• Benefit of FMT, AMT, and GDIT in advanced HFrEF needs 
+further investigation. 
+• Which medication to down-titrate/stop first in patients 
+with advanced HF who no longer tolerate all FMT. 
+• Durable MCS (LVADs) vs medical treatment in 
+INTERMACS >4 without high-risk features. 
+• Optimal lifetime management strategies in very young 
+adults with advanced HF. 
+• Advances in durable MCS, including strategies to reduce 
+the risk of infection. 
+• Advances in medical treatment for the many patients who 
+cannot undergo MCS or heart transplantation, including 
+development of treatment strategies, and novel inotropes 
+or myotropes for patients with advanced HF.  
+(6) Cardiovascular comorbidities 
+• Adequately powered RCTs showing the best strategy for 
+management of AF in patients with HF. 
+• Selection of patients with HFrEF and HFpEF that may 
+benefit from AF ablation. 
+• Better characterization of patients with arrhythmia- 
+associated HF, especially patients with AF-associated HF. 
+• Randomized controlled trials investigating best manage-
+ment options for patients with AF-associated HF, both 
+in terms of HF management and management of AF. 
+• Randomized controlled trials to assess the role of coron-
+ary revascularization and different revascularization strat-
+egies in patients with HFrEF and HFpEF on current FMT. 
+• Longer-term follow-up results for mitral TEER interven-
+tions in HFrEF. 
+• Role of mitral TEER in patients with HFrEF who do not ful-
+fil specific echocardiographic and clinical criteria. 
+• Treatment of atrial secondary MR in patients with HFpEF. 
+• Further RCTs to assess the role of transcatheter valve 
+intervention in patients with HF and TR.  
+(7) Non-cardiovascular comorbidities 
+• More clinically appropriate definition of ID in HF. 
+• Further RCTs, using the novel definition of ID as an inclu-
+sion criterion, to assess the prognostic role of i.v. iron 
+supplementation. 
+• The prognostic role of HF treatment in patients with se-
+vere kidney dysfunction (i.e. eGFR <30 mL/min/ 
+1.73 m2), excluded from RCTs. 
+• The effects of GLP-1 RAs and tirzepatide on morbidity 
+and mortality in patients with HFpEF and HFrEF. 
+• Treatment of SDB, both central and obstructive, needs fur-
+ther investigation to clarify benefit and safety concerns.  
+(8) Multidisciplinary management 
+• Studies on optimal models for follow-up of patients with 
+stable HF.  
+5424                                                                                                                                                                                       ESC Guidelines 
+Downloaded from academic.oup.com/eurheartj/article/47/38/5346/8766302 by guest on 22 October 2026
+
+--- Page 80 ---
+• Long-term trials on exercise in patients with HF. 
+• Studies to determine personalized approach for palliative 
+care to improve patient-centred outcomes. 
+• Models of care that incorporate contemporary patients 
+with HF and the wider multidisciplinary team including 
+cardio-kidney-metabolic professionals in HF care. 
+• Patient selection for telemonitoring.  
+(9) Specific conditions 
+• Randomized clinical trials for the treatment of peri- 
+partum cardiomyopathy. 
+• Head-to-head comparison between different disease- 
+modifying drugs in ATTR-CA. 
+• Evidence for the combined use of disease-modifying 
+drugs in ATTR-CA. 
+• Evidence for gene editing and antibodies for the removal 
+of amyloid deposits. 
+• Efficacy of traditional HF therapies in patients with CA. 
+• Identification of patients with ATTR-CA who could bene-
+fit from device therapy (e.g. ICD/CRT). 
+• Data collection to support advice on screening for TTR 
+gene carriers—when to initiate and follow-up interval.  
+15. Evidence tables 
+Evidence tables are available at European Heart Journal online. 
+16. Data availability 
+No new data were generated or analysed in support of this research. 
+17. Author information 
+Author/Task Force Member Affiliations: Anne-Christine 
+Ruwald, Department of Cardiology, Copenhagen University 
+Hospital, Rigshospitalet, Copenhagen, Denmark; Daniela 
+Tomasoni, Cardiology Unit, ASST Spedali Civili di Brescia, 
+Brescia, Italy, and Department of Clinical Science and 
+Education, Södersjukhuset, Karolinska Institutet, Stockholm, 
+Sweden; Lisa J. Anderson, Cardiology Clinical Academic 
+Group, St George’s University Hospitals NHS Foundation 
+Trust, London, United Kingdom, and Cardiovascular and 
+Genomic Research Institute, City St George’s University of 
+London, London, United Kingdom; Charlotte Andersson, Mass 
+General Brigham Heart and Vascular Institute and Harvard 
+Medical School, Boston, MA, United States of America; Jasper 
+J. Brugts, Cardiology Department, Erasmus MC University 
+Medical Center, Cardiovascular Institute, Rotterdam, 
+Netherlands; Ovidiu Chioncel, Emergency Institute for 
+Cardiovascular Diseases ‘Prof. Dr. C.C. Iliescu’, Bucharest, 
+Romania and University of Medicine Carol Davila, Bucharest, 
+Romania; Erwan Donal, Cardiology Department-LTSI-Inserm 
+1099, CHU Rennes—Université Rennes, Rennes, France; 
+Peter Ferdinandy, Department of Pharmacology and 
+Pharmacotherapy, Semmelweis University, Budapest, 
+Hungary, and Pharmahungary Group, Szeged, Hungary; 
+Pardeep S. Jhund, School of Cardiovascular and Metabolic 
+Health, University of Glasgow, Glasgow, United Kingdom; 
+Francisco Leyva, Aston Medical School, Aston University, 
+Birmingham, United Kingdom, and Department of Cardiology, 
+University Hospitals Birmingham, Queen Elizabeth, 
+Birmingham, United Kingdom; Roberto Lorusso, 
+Cardio-Thoracic Surgery, Maastricht University Medical 
+Centre (MUMC), Maastricht, Netherlands, and Cardiovascular 
+Research Institute Maastricht (CARIM), Maastricht, 
+Netherlands; Michael Madigan (Ireland), ESC Patient Forum, 
+Sophia Antipolis, France; Wilfried Mullens, Cardiology 
+Department, Ziekenhuis Oost Limburg, Genk, Belgium, and 
+Faculty of Medicine and Life Sciences, University Hasselt, 
+Diepenbeek, Belgium; Stefania Paolillo, Department of 
+Advanced Biomedical Sciences, Section of Cardiology, 
+Federico II University of Naples, Naples, Italy; Nicola Ryan, 
+Department of Cardiology, Aberdeen Royal Infirmary, 
+Aberdeen, United Kingdom; Maggie Simpson, Edinburgh 
+Medical School, University of Edinburgh, Edinburgh, United 
+Kingdom; Holger Thiele, Cardiology Department, Heart 
+Center Leipzig at Leipzig University, Leipzig, Germany, and 
+Leipzig Heart Science, Leipzig, Germany; Jens Jakob Thune, 
+Department of Cardiology, Copenhagen University Hospital— 
+Bispebjerg and Frederiksberg, Copenhagen, Denmark, and 
+Department of Clinical Medicine, University of Copenhagen, 
+Copenhagen, Denmark; Emeline M. Van Craenenbroeck, 
+Cardiology Department, Antwerp University Hospital, 
+Edegem, Belgium, and Cardiovascular Diseases, GENCOR, 
+University of Antwerp, Belgium; Linda W. Van Laake, 
+Cardiology Department, University Medical Center Utrecht, 
+Utrecht, Netherlands, and Utrecht University, Utrecht, 
+Netherlands, and Transplantation Center, University Medical 
+Center Utrecht, Utrecht, Netherlands; Mariette Verbakel 
+(Netherlands), ESC Patient Forum, Sophia Antipolis, France. 
+18. Appendix 
+ESC Guidelines Advisory Group 
+Includes Document Reviewers and ESC National Cardiac 
+Societies. 
+Document Reviewers: Christina Christersson (CPG Review 
+Coordinator) (Sweden), Massimo F. Piepoli (CPG Review 
+Coordinator) (Italy), Ana Abreu (Portugal), Suleman Aktaa 
+(United Kingdom), Folkert W. Asselbergs (Netherlands), 
+Michael A. Borger (Germany), Giuseppe Boriani (Italy), 
+Margarita Brida (Croatia), Robert A. Byrne (Ireland), Claudio 
+Ceconi (Italy), Christina Chrysohoou (Greece), Kevin Damman 
+(Netherlands), Jean-Claude Deharo (France), Victoria Delgado 
+(Spain), Fernando Dominguez (Spain), Gloria Färber (Germany), 
+Daniel Fernandez-Berges (Spain), Marc Ferrini (France), Estelle 
+Gandjbakhch (France), Luna Gargani (Italy), Bettina Heidecker 
+(Germany), Borja Ibanez (Spain), Massimo Imazio (Italy), Stefan 
+James (Sweden), Ulf Landmesser (Germany), Gregory Y.H. Lip 
+(United Kingdom), Lars H. Lund (Sweden), Sharon MacDonald 
+(United Kingdom), John William McEvoy (Ireland), Lorenzo 
+Menicanti (Italy), Borislava Mihaylova (United Kingdom), Inge 
+Moelgaard (Denmark), Christian E. Mueller (Switzerland), Lis 
+Neubeck (United Kingdom), Daniela Pini (Italy), Evgenij 
+V. Potapov (Germany), Anne-Catherine Pouleur (Belgium), Eva 
+Prescott (Denmark), Amina Rakisheva (Kazakhstan), Bianca 
+Rocca (Italy), Xavier Rossello (Spain), Anna Sannino (Germany), 
+Hatem Soliman Aboumarie (United Kingdom), Felix C. Tanner 
+(Switzerland), Izabella Uchmanowicz (Poland), Mattias Van  
+ESC Guidelines                                                                                                                                                                                        5425 
+Downloaded from academic.oup.com/eurheartj/article/47/38/5346/8766302 by guest on 22 October 2026
+
+--- Page 81 ---
+Heetvelde (Belgium), Matthias Wilhelm (Switzerland), Stefanos 
+Zafeiropoulos (Switzerland), Katja Zeppenfeld (Netherlands), 
+Daniel Zimpfer (Austria) 
+ESC National Cardiac Societies actively involved in the re-
+view process of the 2026 ESC Guidelines for the management 
+of heart failure. 
+Albania: Albanian Society of Cardiology, Albana Doko Banushi; 
+Algeria: Algerian Society of Cardiology, Brahim Kichou; Armenia: 
+Armenian Cardiologists Association, Hamayak S. Sisakian; 
+Austria: Austrian Society of Cardiology, Noemi Pavo; 
+Azerbaijan: Azerbaijan Society of Cardiology, Ulvi Mirzoyev; 
+Belgium: Belgian Society of Cardiology, Ana Roussoulières; 
+Bosnia and Herzegovina: Association of Cardiologists in Bosnia 
+and Herzegovina, Zumreta Kusljugic; Bulgaria: Bulgarian 
+Society of Cardiology, Vassil Traykov; Croatia: Croatian Cardiac 
+Society, Nina Jakus; Cyprus: Cyprus Society of Cardiology, 
+Constantinos Ergatoudes; Czechia: Czech Society of 
+Cardiology, Anna Chaloupka; Denmark: Danish Society 
+of Cardiology, Henrik Wiggers; Egypt: Egyptian Society of 
+Cardiology, Azza Farrag; Estonia: Estonian Society of 
+Cardiology, Pentti Põder; Finland: Finnish Cardiac Society, 
+Katariina Pitkänen; France: French Society of Cardiology, 
+Damien Logeart; Germany: German Cardiac Society, Kristian 
+Hellenkamp; Greece: Hellenic Society of Cardiology, Katerina 
+K. Naka; Hungary: Hungarian Society of Cardiology, Annamaria 
+Kosztin; Iceland: Icelandic Society of Cardiology, Inga 
+J. Ingimarsdottir; Ireland: Irish Cardiac Society, Helen Cooney; 
+Israel: Israel Heart Society, Rabea Asleh; Italy: Italian 
+Federation of Cardiology, Savina Nodari; Kazakhstan: 
+Association of Cardiologists of Kazakhstan, Makhabbat 
+Bekbossynova; Kosovo (Republic of): Kosovo Society of 
+Cardiology, Pranvera Ibrahimi; Kyrgyzstan: Kyrgyz Society 
+of Cardiology, Erkin Mirrakhimov, Latvia: Latvian Society 
+of Cardiology, Ginta Kamzola; Lebanon: Lebanese Society of 
+Cardiology, Hadi Skouri; Lithuania: Lithuanian Society of 
+Cardiology, Egle Rumbinaite; Luxembourg: Luxembourg Society 
+of Cardiology, Steve Huijnen; Malta: Maltese Cardiac Society, 
+Alice May Moore; Moldova (Republic of): Moldavian Society of 
+Cardiology, Eleonora Vataman; Morocco: Moroccan Society of 
+Cardiology, Ahmed Bennis; Netherlands: Netherlands Society 
+of Cardiology, Vanessa van Empel; North Macedonia:National 
+Society of Cardiology of North Macedonia, Marija Vavlukis; 
+Norway: Norwegian Society of Cardiology, Eva Rice; Poland: 
+Polish Cardiac Society, Agnieszka Kołodzińska; Portugal: 
+Portuguese Society of Cardiology, Susana Dias da Costa; 
+Romania: Romanian Society of Cardiology, Elena-Laura Antohi; 
+San Marino: San Marino Society of Cardiology, Marina Foscoli; 
+Slovakia: Slovak Society of Cardiology, Marcela Dankova; 
+Slovenia: Slovenian Society of Cardiology, Mitja Lainscak; 
+Spain: Spanish Society of Cardiology, Sonia Mirabet Perez; 
+Sweden: Swedish Society of Cardiology, Gabriel Arefalk; 
+Switzerland: Swiss Society of Cardiology, Philippe Meyer; 
+Syrian Arab Republic: Syrian Cardiovascular Association, 
+Ahmad Alayed; Tunisia: Tunisian Society of Cardiology and 
+Cardiovascular Surgery, Leila Abid; Türkiye: Turkish Society of 
+Cardiology, Ozlem Yildirimturk; Turkmenistan: Turkmen 
+Committee of Cardiologists, Bahram Kadyrov; Ukraine: 
+Ukrainian Association of Cardiology, Leonid Voronkov; United 
+Kingdom of Great Britain and Northern Ireland: British 
+Cardiovascular Society, Andrew J. Ludman, Uzbekistan: 
+Association of Cardiologists of Uzbekistan, Timur Abdullaev. 
+ESC Clinical Practice Guidelines (CPG) Committee: Ulf 
+Landmesser (Chairperson) (Germany), Stefan James 
+(Co-Chairperson) (Sweden), Marianna Adamo (Italy), Suleman 
+Aktaa (United Kingdom), Folkert W. Asselbergs (Netherlands), 
+Michael A. Borger (Germany), Giuseppe Boriani (Italy), 
+Margarita Brida (Croatia), Robert A. Byrne (Ireland), Estelle 
+Gandjbakhch (France), Bettina Heidecker (Germany), Anja 
+Hennemuth (Germany), Borja Ibanez (Spain), Peter Jüni 
+(United Kingdom), Gregory Y.H. Lip (United Kingdom), John 
+William McEvoy (Ireland), Borislava Mihaylova (United 
+Kingdom), Inge Moelgaard (Denmark), Lis Neubeck (United 
+Kingdom), Eva Prescott (Denmark), Bianca Rocca (Italy), Xavier 
+Rossello (Spain), Anna Sannino (Germany), Felix C. Tanner 
+(Switzerland), Wojtek Wojakowski (Poland), Katja Zeppenfeld 
+(Netherlands) 
+Contributor either withdrew or was engaged in only a part of 
+the development process: Jan Biegus (Poland) 
+Contributors either withdrew or were engaged in only a part 
+of the review process: Barry Borlaug (United States of America), 
+Mohamed El-Harari (Libya), Giovanna Sarno (Sweden), 
+Anastazija D. Stojsic Milosavljevic (Serbia) 
+19. References 
+1. Juni P, Antoniou S, Arbelo E, Buccheri S, Cikes M, da Costa BR, et al. 2024 
+Revision of the level of evidence grading system for ESC clinical practice 
+guideline recommendations I: therapy and prevention. Eur Heart J 2025;46: 
+1885–94. https://doi.org/10.1093/eurheartj/ehaf009 
+2. Di Angelantonio E, Pennells L, Abdelhamid M, Aboyans V, Asteggiano R, 
+Celutkiene J, et al. 2024 Revision of the level of evidence grading system 
+for ESC clinical practice guideline recommendations II: diagnostic tests and 
+prediction models. Eur Heart J 2025;46:1895–906. https://doi.org/10. 
+1093/eurheartj/ehaf016 
+3. McDonagh TA, Metra M, Adamo M, Gardner RS, Baumbach A, Bohm M, et al. 
+2021 ESC Guidelines for the diagnosis and treatment of acute and chronic 
+heart failure. Eur Heart J 2021;42:3599–726. https://doi.org/10.1093/ 
+eurheartj/ehab368 
+4. Heidenreich PA, Bozkurt B, Aguilar D, Allen LA, Byun JJ, Colvin MM, et al. 
+2022 AHA/ACC/HFSA Guideline for the management of heart failure: a re-
+port of the American College of Cardiology/American Heart Association Joint 
+Committee on Clinical Practice Guidelines. Circulation 2022;145:e895–1032.  
+https://doi.org/10.1161/CIR.0000000000001063 
+5. McDonagh TA, Metra M, Adamo M, Gardner RS, Baumbach A, Bohm M, et al. 
+2023 Focused update of the 2021 ESC Guidelines for the diagnosis and treat-
+ment of acute and chronic heart failure. Eur Heart J 2023;44:3627–39.  
+https://doi.org/10.1093/eurheartj/ehad195 
+6. Lyon AR, Lopez-Fernandez T, Couch LS, Asteggiano R, Aznar MC, 
+Bergler-Klein J, et al. 2022 ESC Guidelines on cardio-oncology developed 
+in collaboration with the European Hematology Association (EHA), the 
+European Society for Therapeutic Radiology and Oncology (ESTRO) and 
+the International Cardio-Oncology Society (IC-OS). Eur Heart J 2022;43: 
+4229–361. https://doi.org/10.1093/eurheartj/ehac244 
+7. De Backer J, Haugaa KH, Hasselberg NE, de Hosson M, Brida M, Castelletti S, 
+et al. 2025 ESC Guidelines for the management of cardiovascular disease and 
+pregnancy. Eur Heart J 2025;43:4462–568. https://doi.org/10.1093/ 
+eurheartj/ehaf193 
+8. Schulz-Menger J, Collini V, Groschel J, Adler Y, Brucato A, Christian V, et al. 
+2025 ESC Guidelines for the management of myocarditis and pericarditis. Eur 
+Heart J 2025;46:3952–4041. https://doi.org/10.1093/eurheartj/ehaf192 
+9. Praz F, Borger MA, Lanz J, Marin-Cuartas M, Abreu A, Adamo M, et al. 2025 
+ESC/EACTS Guidelines for the management of valvular heart disease. Eur 
+Heart J 2025;44:4635–736. https://doi.org/10.1093/eurheartj/ehaf194  
+5426                                                                                                                                                                                       ESC Guidelines 
+Downloaded from academic.oup.com/eurheartj/article/47/38/5346/8766302 by guest on 22 October 2026

@@ -1,0 +1,258 @@
+# -*- coding: utf-8 -*-
+"""
+Builder for Chapter 11 - Block 4 (English)
+2024 ESC Guidelines for the management of atrial fibrillation (ESC/EACTS/EHRA/ESO)
+Sections 9 - 13 (pages 51 - 69)
+"""
+
+content = r'''<details class="med-details"><summary>
+
+## 9. The AF-CARE Pathway in Specific Clinical Settings</summary><div class="details-content">
+
+### 9.1 AF-CARE in Unstable Patients
+Haemodynamic instability occurring in the setting of rapid AF (severe hypotension, cardiogenic shock, acute pulmonary edema, ongoing myocardial ischaemia, or acute syncope) is a medical emergency. Emergency electrical cardioversion (synchronized biphasic DCCV) is recommended immediately (Class I, Level B) to restore sinus rhythm. Concurrently, therapeutic anticoagulation (e.g. intravenous unfractionated heparin bolus) should be initiated as soon as possible, but must not delay life-saving electrical shock.
+
+### 9.2 AF-CARE in Acute and Chronic Coronary Syndromes (ACS & CCS) Undergoing PCI
+Managing AF in patients undergoing percutaneous coronary intervention (PCI) for ACS or CCS requires carefully balancing ischemic recurrent cardiac events against catastrophic major bleeding hazards:
+* **The Dominance of Dual Antithrombotic Therapy (DAT):** Landmark randomized trials (PIONEER AF-PCI, RE-DUAL PCI, AUGUSTUS, ENTRUST-AF PCI) demonstrated that early cessation of aspirin and continuation of a **DOAC plus a single P2Y12 inhibitor (clopidogrel $75\text{ mg}$ once daily)** substantially reduces major bleeding and intracranial haemorrhage by $\approx 50\%$ without a statistically significant increase in stent thrombosis or ischemic events compared to prolonged triple therapy.
+* **Duration of Triple Therapy (TAT: DOAC + Aspirin + Clopidogrel):** Routine triple therapy should be restricted to the peri-procedural in-hospital phase only (up to discharge or maximum 1 week). Only in rare patients with very high ischemic risk (e.g. prior stent thrombosis, complex bifurcations, left main PCI) and low bleeding risk may triple therapy be extended up to 1 month.
+* **Duration of Dual Therapy (DAT: DOAC + Clopidogrel):**
+  * **In ACS undergoing PCI:** Dual therapy is recommended for **up to 12 months** (Class I, Level A), followed by lifelong **DOAC monotherapy** (Class I, Level A).
+  * **In CCS undergoing PCI:** Dual therapy is recommended for **6 months** (or 1–3 months if bleeding risk is high) (Class I, Level A), followed by lifelong **DOAC monotherapy** (Class I, Level A).
+* **Choice of P2Y12 Inhibitor:** Clopidogrel ($75\text{ mg}$ od) is the P2Y12 inhibitor of choice. Potent P2Y12 inhibitors (**prasugrel and ticagrelor**) are **not recommended** as part of triple therapy (Class III, Level B) due to unacceptably high major bleeding rates.
+
+![Figure 14: Antithrombotic therapy in patients with AF and acute or chronic coronary syndromes](images/fig14_antithrombotic_therapy_acs_ccs.jpg)
+
+### Recommendation Table 24 — Recommendations for Patients with ACS or Undergoing PCI
+| Recommendations | Class | Level |
+|---|---|---|
+| In AF patients undergoing PCI for ACS or CCS, a DOAC is recommended in preference to a VKA in combination with antiplatelet therapy. | **I** | **A** |
+| In patients with AF undergoing uncomplicated PCI for ACS or CCS, early cessation of aspirin (within 1 week post-PCI) and continuation of dual antithrombotic therapy (DOAC plus clopidogrel $75\text{ mg}$ daily) is recommended. | **I** | **A** |
+| In patients with AF and ACS undergoing PCI, dual therapy with a DOAC and clopidogrel is recommended for up to 12 months, followed by DOAC monotherapy. | **I** | **A** |
+| In patients with AF and CCS undergoing PCI, dual therapy with a DOAC and clopidogrel is recommended for 6 months (or shorter if high bleeding risk), followed by DOAC monotherapy. | **I** | **A** |
+| After completion of the planned combination antithrombotic therapy post-PCI, oral anticoagulant monotherapy is recommended indefinitely. | **I** | **A** |
+| Using prasugrel or ticagrelor as part of triple antithrombotic therapy is not recommended due to excessive bleeding risks. | **III** | **B** |
+
+### 9.3 AF-CARE in Vascular Disease (PAD and Carotid Stenosis)
+In patients with AF and stable peripheral artery disease (PAD) or carotid atherosclerotic disease without recent stenting or surgical revascularization, **OAC monotherapy** is recommended. Combining aspirin or clopidogrel with long-term OAC does not reduce limb ischemic events or stroke, but markedly increases major bleeding (Class III, Level A).
+
+### Recommendation Table 25 — Recommendations for AF in Vascular Disease
+| Recommendation | Class | Level |
+|---|---|---|
+| In patients with AF and stable vascular disease (peripheral artery disease or carotid disease), oral anticoagulant monotherapy is recommended in preference to combination with antiplatelet therapy. | **I** | **A** |
+
+### 9.4 AF-CARE in Acute Stroke or Intracranial Haemorrhage
+
+#### 9.4.1 Acute Ischaemic Stroke
+* **Timing of OAC Initiation / Resumption:** Immediate full anticoagulation during the hyperacute phase of ischaemic stroke is contraindicated due to the risk of symptomatic hemorrhagic transformation. Based on recent randomized trials (TIMING, ELAN), anticoagulation should be initiated based on stroke severity:
+  * Minor stroke (NIHSS $< 8$) or TIA: Initiate OAC on **day 3–4** post-stroke.
+  * Moderate stroke (NIHSS 8–15): Initiate OAC on **day 6–7** post-stroke.
+  * Severe stroke (NIHSS $\ge 16$ or large infarct): Perform follow-up CT/MRI to rule out hemorrhagic transformation, then initiate OAC on **day 12–14** post-stroke.
+* **Secondary Prevention:** Long-term DOAC therapy is recommended in preference to VKA to reduce the risk of recurrent ischaemic stroke and hemorrhagic transformation (Class I, Level A).
+
+#### 9.4.2 Intracranial Haemorrhage (ICH)
+In patients with AF who survive an acute spontaneous or traumatic ICH, oral anticoagulation must be stopped immediately during the acute bleeding phase. Following complete hematoma stabilization and resolution, a multidisciplinary team (stroke neurologist, neurosurgeon, cardiologist) should review the case:
+* If the bleeding source was reversible (e.g. trauma, severe hypertensive crisis now controlled, aneurysm surgically clipped) and the patient has an elevated stroke risk, resumption of DOAC therapy should be considered after **4–8 weeks**.
+* In patients with non-modifiable cerebral amyloid angiopathy or recurrent lobar ICH, long-term OAC is contraindicated; **percutaneous LAA occlusion (LAAO)** should be considered as a non-pharmacological alternative (Class IIb, Level B).
+
+### Recommendation Table 26 — Recommendations for Anticoagulation Post-Stroke / Post-ICH
+| Recommendations | Class | Level |
+|---|---|---|
+| In AF patients presenting with acute ischaemic stroke, starting or restarting oral anticoagulation between 3 and 14 days post-event is recommended based on clinical stroke severity and repeat neuroimaging. | **I** | **B** |
+| Long-term oral anticoagulation with a DOAC is recommended in preference to a VKA in patients with AF and a history of ischaemic stroke. | **I** | **A** |
+| In AF patients surviving intracranial haemorrhage, multidisciplinary reassessment of the risks of recurrent haemorrhage versus thromboembolism is recommended before considering resumption of OAC or LAA occlusion. | **I** | **C** |
+
+### 9.5 AF-CARE for Trigger-Induced AF
+Transient acute medical or surgical illnesses frequently trigger new-onset AF episodes in susceptible atria. Common non-cardiac conditions include:
+
+#### Table 14: Non-Cardiac Conditions Associated with Trigger-Induced AF
+| Category | Clinical Entities and Reversible Stressors |
+|---|---|
+| **Acute Infections & Sepsis** | Severe bacterial pneumonia, urosepsis, COVID-19, systemic viral infections, septic shock. |
+| **Acute Pulmonary Diseases** | Acute pulmonary embolism, severe exacerbation of COPD, acute respiratory distress syndrome (ARDS). |
+| **Acute Surgical / Trauma** | Major non-cardiac thoracic, abdominal, or orthopedic surgery; polytrauma; major burns. |
+| **Endocrine & Metabolic** | Thyrotoxicosis / hyperthyroidism, phaeochromocytoma, diabetic ketoacidosis, severe hypokalaemia / hypomagnesaemia. |
+| **Exogenous Toxins & Drugs** | Binge alcohol consumption (\"holiday heart syndrome\"), cocaine, amphetamines, high-dose intravenous inotropes. |
+
+*Management Principles:* The acute trigger must be identified and corrected immediately. Rate control with beta-blockers is the first-line symptomatic intervention. Although triggered AF often resolves upon recovery, extensive registry evidence demonstrates that over $50\%$ of patients develop recurrent AF within 1–2 years, and long-term stroke risk matches that of non-triggered AF.
+* **Anticoagulation:** Long-term oral anticoagulation should be considered in patients with trigger-induced AF if the baseline CHA2DS2-VA score is $\ge 2$ (Class IIa, Level C).
+
+### Recommendation Table 27 — Recommendations for Trigger-Induced AF
+| Recommendation | Class | Level |
+|---|---|---|
+| Long-term oral anticoagulation should be considered in suitable patients with trigger-induced AF at elevated thromboembolic risk to prevent ischaemic stroke and systemic thromboembolism. | **IIa** | **C** |
+
+### 9.6 AF-CARE in Post-Operative Patients
+Post-operative AF (POAF) is the most frequent complication of cardiac surgery (occurring in $30\text{--}50\%$ of patients, peaking on post-operative days 2–4) and non-cardiac thoracic surgery ($10\text{--}20\%$). POAF is driven by surgical trauma, pericardial inflammation, elevated adrenergic tone, fluid shifts, and autonomic imbalance:
+* **Prevention:** Peri-operative continuation or pre-operative initiation of oral beta-blockers is recommended in patients undergoing cardiac surgery (Class I, Level A).
+* **Treatment:** Rate control with beta-blockers or amiodarone is standard. In hemodynamically unstable patients, prompt electrical cardioversion is indicated.
+* **Anticoagulation:** Because POAF is associated with a 3- to 4-fold increase in long-term stroke and recurrent AF, therapeutic oral anticoagulation is recommended for at least 4 weeks post-cardiac surgery in patients with POAF and elevated stroke risk, with continuation based on CHA2DS2-VA score (Class IIa, Level B).
+
+### Recommendation Table 28 — Recommendations for Management of Post-Operative AF
+| Recommendations | Class | Level |
+|---|---|---|
+| Peri-operative beta-blocker therapy is recommended in patients undergoing cardiac surgery to reduce the incidence of post-operative AF. | **I** | **A** |
+| Oral anticoagulation should be considered in patients with post-operative AF following cardiac surgery who have an elevated stroke risk, weighing the risk of post-operative bleeding. | **IIa** | **B** |
+
+### 9.7 Embolic Stroke of Undetermined Source (ESUS)
+Patients presenting with cryptogenic stroke fulfilling ESUS criteria should not receive empiric oral anticoagulation without documented AF (NAVIGATE ESUS and RE-SPECT ESUS trials demonstrated excess bleeding without stroke reduction for rivaroxaban and dabigatran vs aspirin). Prolonged continuous cardiac monitoring (using wearable patches for up to 30 days or insertable cardiac monitors [ICMs] for up to 3 years) is recommended to identify subclinical AF and guide targeted OAC initiation (Class I, Level B).
+
+### 9.8 AF-CARE During Pregnancy
+AF during pregnancy is rare but poses severe maternal and fetal risks, especially in women with underlying congenital or valvular heart disease:
+* **Rate Control:** Selective $\beta_1$-blockers (metoprolol, bisoprolol) are the preferred first-line agents. Digoxin is safe. Verapamil should be used with caution. Diltiazem and atenolol are teratogenic/fetotoxic and contraindicated.
+* **Cardioversion:** Synchronized electrical cardioversion is safe and effective in all trimesters when haemodynamic compromise or rapid ventricular rates threaten maternal-fetal stability.
+* **Anticoagulation:** **DOACs are strictly contraindicated during pregnancy and breastfeeding** due to teratogenicity and placental transfer (Class III, Level C). Therapeutic subcutaneous Low-Molecular-Weight Heparin (LMWH) with anti-Xa monitoring is the preferred anticoagulant during the first trimester and the final month of gestation. Adjusted-dose VKA (with target INR 2.0–3.0) may be considered during the second trimester if maternal stroke risk is exceptionally high.
+
+### Recommendation Table 29 — Recommendations for AF in Pregnancy
+| Recommendations | Class | Level |
+|---|---|---|
+| Emergency electrical cardioversion is recommended in pregnant women with AF and haemodynamic instability. | **I** | **C** |
+| Therapeutic anticoagulation with low-molecular-weight heparin is recommended during pregnancy in women with AF at elevated thromboembolic risk. | **I** | **C** |
+| Direct oral anticoagulants are not recommended during pregnancy and breastfeeding due to potential fetal toxicity and maternal-fetal bleeding. | **III** | **C** |
+
+### 9.9 AF-CARE in Adult Congenital Heart Disease (ACHD)
+Supraventricular tachyarrhythmias (AF and intra-atrial re-entrant tachycardia [IART]) are the leading cause of morbidity and hospitalization in adults with congenital heart disease (ACHD). In patients with severe complexity (e.g. Fontan palliation, cyanotic lesions, transposition of the great arteries with systemic right ventricle), oral anticoagulation should be considered even in the presence of a low conventional CHA2DS2-VA score (Class IIa, Level C). Catheter ablation in specialized ACHD electrophysiology centers is recommended.
+
+### Recommendation Table 30 — Recommendations for Atrial Flutter
+| Recommendations | Class | Level |
+|---|---|---|
+| Oral anticoagulation is recommended in patients with atrial flutter at elevated thromboembolic risk to prevent ischaemic stroke and thromboembolism, following the same criteria as for AF. | **I** | **B** |
+| Catheter ablation of the cavotricuspid isthmus (CTI) is recommended as first-line therapy for patients with symptomatic, typical atrial flutter. | **I** | **A** |
+
+</div></details>
+
+<details class="med-details"><summary>
+
+## 10. Screening and Primary Prevention of Atrial Fibrillation</summary><div class="details-content">
+
+### 10.1 Screening Tools and Technologies
+Early detection of undiagnosed, asymptomatic AF enables timely stroke prevention and comorbidity intervention. A rich spectrum of diagnostic tools is currently available:
+
+#### Table 15: Tools for AF Screening
+| Technology Modality | Specific Devices and Clinical Attributes |
+|---|---|
+| **Pulse Palpation** | Manual assessment of pulse regularity; high sensitivity ($90\%$), moderate specificity; first-line screening tool in primary care. |
+| **Oscillometric Blood Pressure Monitors** | Modified automated BP cuffs with embedded pulse irregularity detection algorithms; ideal for opportunistic home and clinic screening. |
+| **Single-Lead / Multi-Lead Handheld ECG** | Handheld devices (e.g. Zenicor, AliveCor KardiaMobile); generates 30-second single-lead or 6-lead ECG tracings with automated AI analysis. |
+| **Photoplethysmography (PPG) Smartwatches & Bands** | Wearable optical sensors analyzing pulse wave irregularity; high diagnostic accuracy for detecting suspected AF episodes. |
+| **Adhesive Wearable ECG Patches** | Continuous single-channel ECG monitoring for up to 14 days (e.g. Zio Patch); high diagnostic yield for paroxysmal AF. |
+| **Insertable Cardiac Monitors (ICM)** | Subcutaneous loop recorders (e.g. Reveal LINQ, Biomonitor); continuous automated rhythm surveillance for 3–5 years. |
+
+![Figure 15: Non-invasive diagnostic methods for AF screening](images/fig15_noninvasive_diagnostic_af_screening.jpg)
+
+### 10.2 Screening Strategies: Opportunistic vs Systematic
+* **Opportunistic Screening:** Routine pulse palpation or single-lead ECG recording during routine healthcare encounters is recommended in all individuals aged $\ge 65$ years (Class I, Level B).
+* **Systematic Screening:** Targeted systematic screening programmes using prolonged or intermittent ECG monitoring should be considered in high-risk individuals aged $\ge 75$ years or those with elevated cardiovascular risk profiles (Class IIa, Level B) (e.g. STROKESTOP trial).
+* **Diagnostic Gold Standard:** Wearable devices and smartwatches provide screening notifications only. **Confirmation by a physician reviewing a standard 12-lead ECG or single-lead ECG tracing $\ge 30\text{ seconds}$ is mandatory** before establishing a formal clinical diagnosis and initiating lifelong anticoagulation (Class I, Level B).
+
+![Figure 16: Approaches to screening for AF](images/fig16_approaches_screening_af.jpg)
+
+### Recommendation Table 31 — Recommendations for Screening for AF
+| Recommendations | Class | Level |
+|---|---|---|
+| Review of an ECG (12-lead, single, or multiple leads $\ge 30\text{ s}$) by a physician is recommended to provide a definite diagnosis of AF and commence appropriate management. | **I** | **B** |
+| Routine opportunistic pulse palpation or ECG rhythm assessment is recommended during clinical encounters in individuals aged $\ge 65$ years. | **I** | **B** |
+| Systematic ECG screening should be considered in individuals aged $\ge 75$ years or those at high risk of stroke to detect undiagnosed AF. | **IIa** | **B** |
+
+### 10.3 Factors Associated with Incident AF and Primary Prevention
+
+#### Table 16: Factors Associated with Incident AF
+| Domain | Specific Factors and Clinical Associations |
+|---|---|
+| **Demographic Factors** | Advancing age ($> 65$ and $> 75$ years), male sex, European ancestry, lower socioeconomic status. |
+| **Cardiovascular Comorbidities** | Hypertension, heart failure (all LVEF phenotypes), valvular heart disease, coronary artery disease, peripheral artery disease. |
+| **Metabolic & Systemic Diseases** | Type 2 diabetes mellitus, obesity and metabolic syndrome, chronic kidney disease, hyperthyroidism, systemic inflammatory disorders. |
+| **Respiratory Conditions** | Obstructive sleep apnoea, chronic obstructive pulmonary disease (COPD), pulmonary hypertension. |
+| **Modifiable Lifestyle Factors** | Physical inactivity, excessive chronic endurance athletics, heavy alcohol consumption, cigarette smoking. |
+
+### Recommendation Table 32 — Recommendations for Primary Prevention of AF
+| Recommendations | Class | Level |
+|---|---|---|
+| Maintaining optimal blood pressure control is recommended in the general population to prevent incident AF, with ACE inhibitors or ARBs preferred in patients with hypertension and left ventricular hypertrophy or heart failure. | **I** | **B** |
+| Appropriate guideline-directed medical therapy for heart failure is recommended in individuals with HFrEF to prevent the development of incident AF. | **I** | **A** |
+| Regular moderate-intensity physical activity is recommended in the general population to promote cardiovascular health and prevent incident AF. | **I** | **B** |
+| Maintaining a healthy body weight and avoiding excess alcohol consumption are recommended for primary prevention of AF. | **I** | **B** |
+
+</div></details>
+
+<details class="med-details"><summary>
+
+## 11. Key Messages</summary><div class="details-content">
+
+1. **The AF-CARE Pathway:** Comprehensive AF care requires integrated, patient-centred implementation across four continuous pillars: [C] Comorbidity management, [A] Avoid stroke, [R] Reduce symptoms, and [E] Evaluation.
+2. **Simplified Stroke Risk (CHA2DS2-VA):** Female sex has been removed from the risk calculation. Patients with a CHA2DS2-VA score $\ge 2$ should receive OAC (Class I), and those with score = 1 should be considered for OAC (Class IIa).
+3. **DOAC Preference:** DOACs are recommended over VKAs for all eligible AF patients, reducing fatal bleeds and intracranial haemorrhage.
+4. **Subclinical AF (AHRE):** Routine OAC is only indicated when device-detected AHRE duration is $\ge 24\text{ hours}$ in patients with a CHA2DS2-VA score $\ge 2$.
+5. **Bleeding Risk (HAS-BLED):** Use HAS-BLED exclusively to address modifiable bleeding risks; never withhold OAC based on a high bleeding score.
+6. **Aggressive Comorbidity Targets:** Blood pressure $< 130/80\text{ mmHg}$, SGLT2 inhibitors for all HF phenotypes, $\ge 10\%$ weight loss in obesity, and alcohol $\le 3$ drinks/week.
+7. **First-Line Catheter Ablation:** Pulmonary vein isolation is a first-line Class I therapy in symptomatic paroxysmal AF and in HFrEF.
+8. **Surgical LAA Exclusion:** Class I recommendation during concomitant cardiac surgery based on the LAAOS III trial.
+9. **Dynamic Follow-Up:** Mandatory structured reassessment at 6 months and at least annually thereafter.
+
+</div></details>
+
+<details class="med-details"><summary>
+
+## 12. Gaps in Evidence</summary><div class="details-content">
+
+1. **Optimal Management of Short AHRE ($< 24\text{ hours}$):** Further trials are needed to identify biomarkers or left atrial mechanical imaging parameters that identify which patients with short AHRE derive a net benefit from OAC.
+2. **Role of Percutaneous LAAO vs DOAC:** Large ongoing randomized trials (CHAMPION-AF, CATALYST) are needed to determine if percutaneous LAAO is non-inferior to DOACs in non-contraindicated patients.
+3. **Pulsed Field Ablation Long-Term Efficacy:** Long-term durability and five-year freedom from arrhythmia following pulsed field ablation compared to radiofrequency and cryoballoon ablation.
+4. **Substrate Ablation in Persistent AF:** Identifying definitive, reproducible lesion sets beyond PVI in advanced persistent and long-standing persistent AF.
+5. **AI and Wearable-Guided Intermittent Anticoagulation:** Whether \"pill-in-the-pocket\" OAC guided by continuous smartwatch surveillance is safe compared to continuous lifelong OAC in low-burden paroxysmal AF.
+6. **Optimal Timing of OAC Post-ICH:** Prospective randomized trials are needed to establish the exact safety window and patient selection for DOAC resumption following spontaneous intracerebral haemorrhage.
+
+</div></details>
+
+<details class="med-details"><summary>
+
+## 13. 'What to Do' and 'What Not to Do' Messages from the Recommendations</summary><div class="details-content">
+
+#### Table 17: Summary of Class I and Class III Recommendations
+| Clinical Recommendation Statement | Class | Level |
+|---|:---:|:---:|
+| **Diagnosis and Characterization** | | |
+| Confirmation by an ECG (12-lead, multiple, or single lead $\ge 30\text{ s}$) is recommended to establish the diagnosis of clinical AF. | **I** | **A** |
+| Evaluating symptom impact (mEHRA score) before and after major treatment changes is recommended. | **I** | **B** |
+| Transthoracic echocardiography is recommended in all AF patients where it will guide clinical decision-making. | **I** | **C** |
+| **[C] Comorbidities and Risk Factors** | | |
+| Blood pressure lowering treatment targeting $< 130/80\text{ mmHg}$ is recommended in hypertensive AF patients. | **I** | **B** |
+| SGLT2 inhibitors are recommended in patients with HF and AF regardless of left ventricular ejection fraction. | **I** | **A** |
+| Weight loss targeting $\ge 10\%$ is recommended in overweight and obese individuals with AF. | **I** | **B** |
+| Tailored moderate-intensity exercise ($\ge 150\text{ min/week}$) is recommended to improve fitness and reduce AF recurrence. | **I** | **B** |
+| Reducing alcohol intake to $\le 3$ standard drinks ($\le 30\text{ g}$ alcohol/week) is recommended. | **I** | **B** |
+| Using only symptom-based questionnaires to screen for obstructive sleep apnoea is not recommended. | **III** | **C** |
+| **[A] Avoid Stroke and Thromboembolism** | | |
+| Oral anticoagulation is recommended in patients with clinical AF and CHA2DS2-VA score $\ge 2$. | **I** | **A** |
+| Oral anticoagulation is not recommended in clinical AF patients with CHA2DS2-VA score = 0. | **III** | **A** |
+| Direct oral anticoagulants are recommended in preference to VKAs (except in mechanical valves or mitral stenosis). | **I** | **A** |
+| Adding antiplatelet therapy to OAC for the sole purpose of stroke prevention is not recommended. | **III** | **A** |
+| Routine oral anticoagulation is not recommended in patients with subclinical AF (AHRE) lasting $< 24\text{ hours}$. | **III** | **B** |
+| Withholding oral anticoagulation based solely on a high bleeding risk score is not recommended. | **III** | **A** |
+| Surgical left atrial appendage exclusion is recommended in AF patients undergoing cardiac surgery. | **I** | **A** |
+| Specific reversal agents are recommended for life-threatening bleeding (idarucizumab for dabigatran; 4F-PCC for VKAs). | **I** | **A/B** |
+| **[R] Reduce Symptoms (Rate and Rhythm Control)** | | |
+| Beta-blockers or non-DHP CCBs (diltiazem/verapamil) are recommended as first-line rate control in LVEF $> 40\%$. | **I** | **B** |
+| Non-DHP CCBs are not recommended in patients with HFrEF (LVEF $\le 40\%$). | **III** | **A** |
+| In pre-excited AF (WPW), AV-nodal blocking drugs (beta-blockers, CCBs, digoxin, amiodarone) are not recommended. | **III** | **B** |
+| Therapeutic OAC for at least 3 weeks prior to cardioversion (or TEE) and 4 weeks post-cardioversion is recommended. | **I** | **B** |
+| Emergency electrical cardioversion is recommended in patients with AF and acute haemodynamic instability. | **I** | **B** |
+| Catheter ablation (PVI) is recommended as first-line therapy in symptomatic paroxysmal AF. | **I** | **A** |
+| Catheter ablation is recommended in patients with AF and HFrEF to improve survival and reduce HF hospitalization. | **I** | **B** |
+| Performing catheter ablation under uninterrupted oral anticoagulation is recommended. | **I** | **A** |
+| Concomitant surgical ablation is recommended during cardiac surgery to restore sinus rhythm. | **I** | **A** |
+| Dronedarone is not recommended in permanent AF or severe/recently decompensated heart failure. | **III** | **A** |
+| **Special Settings** | | |
+| In AF patients undergoing PCI, early cessation of aspirin ($\le 1\text{ week}$) and dual therapy with DOAC + clopidogrel is recommended. | **I** | **A** |
+| Prasugrel or ticagrelor as part of triple antithrombotic therapy is not recommended. | **III** | **B** |
+| Direct oral anticoagulants are not recommended during pregnancy and breastfeeding. | **III** | **C** |
+| **[E] Evaluation and Reassessment** | | |
+| Structured clinical reassessment at 6 months and at least annually thereafter is recommended. | **I** | **C** |
+| Annual reassessment of renal function (eGFR) is recommended in patients treated with a DOAC. | **I** | **B** |
+
+</div></details>
+'''
+
+with open('scratch/af_block4_en.txt', 'w', encoding='utf-8') as f:
+    f.write(content)
+print('Block 4 (EN) generated successfully. Size:', len(content))

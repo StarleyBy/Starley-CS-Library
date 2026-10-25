@@ -1,0 +1,282 @@
+<details class="med-details"><summary>
+
+## 7. SCD Risk Assessment and Prevention</summary><div class="details-content">
+
+### 7.1 Sudden Cardiac Death (SCD) Risk Assessment
+Sudden cardiac death (SCD) from ventricular tachyarrhythmias (ventricular tachycardia / ventricular fibrillation) is the most devastating complication of HCM. Systematic risk stratification must be performed at baseline and repeated every **1 to 2 years** (or sooner if clinical status changes):
+* **Established Major Clinical Risk Factors:**
+  1. **Prior Ventricular Fibrillation, Sustained VT, or Resuscitated Cardiac Arrest:** Absolute indication for secondary prevention ICD.
+  2. **Family History of Premature HCM-Related SCD:** Definite or probable sudden cardiac death in $\ge 1$ first-degree or close relative $\le 50$ years of age.
+  3. **Massive Left Ventricular Hypertrophy:** Maximal wall thickness **$\ge 30\text{ mm}$** (or $z\text{-score} \ge 6$ in children) in any LV segment.
+  4. **Unexplained Recent Syncope:** Syncope occurring within the preceding 6 to 12 months deemed not neurocardiogenic/vasovagal.
+  5. **Left Ventricular Apical Aneurysm:** Regardless of aneurysm size, associated with a distinct arrhythmogenic scarred rim and thromboembolic propensity.
+  6. **Systolic Dysfunction (End-Stage / Burned-Out):** Left ventricular ejection fraction **$< 50\%$**.
+  7. **Extensive Late Gadolinium Enhancement (LGE):** Involving **$\ge 15\%$** of total LV myocardial mass on contrast CMR.
+* **Contributory / Modifying Risk Markers:** Non-sustained ventricular tachycardia (NSVT) on ambulatory monitoring (especially if frequent, rapid, or prolonged), blunted or hypotensive blood pressure response to exercise, and markedly elevated left ventricular outflow tract gradient.
+
+
+
+#### Table 8: Clinical Sudden Death Risk Factors for Adults and Children With HCM
+
+| Risk Factor | Definition / Description |
+|---|---|
+| Family history of sudden death from HCM | Sudden death judged definitively or likely attributable to HCM in ≥1 first-degree or close relatives who are ≤50 y of age. Close relatives would generally be second-degree relatives; however, multiple SCDs in tertiary relatives should also be considered relevant. |
+| Massive LVH | Wall thickness ≥30 mm in any segment within the chamber by echocardiography or CMR imaging; consideration for this morphologic marker is also given to borderline values of ≥28 mm in individual patients at the discretion of the treating cardiologist. For pediatric patients with HCM, an absolute or z-score threshold for wall thickness has not been established; however, a maximal wall thickness that corresponds to a z-score ≥20 (and >10 in conjunction with other risk factors) appears reasonable. |
+| Unexplained syncope | ≥1 unexplained episodes involving acute transient loss of consciousness, judged by history unlikely to be of neurocardiogenic (vasovagal) etiology, not attributable to LVOTO, and especially when occurring within 6 mo of evaluation (events beyond 5 y in the past do not appear to have relevance). |
+| HCM with LV systolic dysfunction | Systolic dysfunction with EF <50% by echocardiography or CMR imaging. |
+| LV apical aneurysm | Apical aneurysm defined as a discrete thin-walled dyskinetic or akinetic segment with transmural scar or LGE of the most distal portion of the LV chamber, independent of size. (In children, apical aneurysm is uncommon, and the risk has not been studied.) |
+| Extensive LGE on CMR imaging | Extensive LGE, representing replacement fibrosis, either quantified or estimated by visual inspection, comprising ≥15% of LV mass (extent of LGE conferring risk has not been defined in children). |
+| NSVT on ambulatory monitor | ≥3 beats at ≥120 bpm has generally been used in studies. It would seem most appropriate to place greater weight on NSVT as a risk marker when runs are frequent (eg, ≥3), longer (eg, ≥10 beats), or faster (eg, ≥200 bpm) occurring usually over 24 to 48 h of monitoring. For pediatric patients, a VT rate that exceeds the baseline sinus rate by >20% is considered significant. |
+| Genotype status | Genotype-positive status (ie, harboring a putatively disease-causing pathogenic/likely pathogenic variant) is associated with higher SCD risk in pediatric patients with HCM. |
+
+
+### Recommendation Table 12 — Recommendations for SCD Risk Assessment in Adults With HCM
+
+**SCD Risk Assessment in Adults With HCM**
+
+| Recommendations | Class | Level |
+|---|:---:|:---:|
+| In adult patients with HCM, a comprehensive, systematic noninvasive SCD risk assessment at initial evaluation and every 1 to 2 years thereafter is recommended and should include evaluation of these risk factors (Figures 1 and 3, Table 8): | **I** | **B-NR** |
+| For adult patients with HCM who are not otherwise identified as high risk for SCD, or in whom a decision to proceed with ICD placement remains uncertain after clinical assessment that includes personal/family history, echocardiography, and ambulatory electrocardiographic monitoring, CMR imaging is beneficial to assess for maximum LV wall thickness, EF, LV apical aneurysm, and extent of myocardial fibrosis with LGE (Table 8). | **I** | **B-NR** |
+| For patients who are ≥16 years of age with HCM, it is reasonable to obtain echocardiography-derived left atrial diameter and maximal LVOT gradient to aid in calculating an estimated 5-year sudden death risk that may be useful during shared decision-making for ICD placement (Table 8). | **IIa** | **B-NR** |
+
+
+### Recommendation Table 13 — Recommendations for SCD Risk Assessment in Children and Adolescents With HCM
+
+**SCD Risk Assessment in Children and Adolescents With HCM**
+
+| Recommendations | Class | Level |
+|---|:---:|:---:|
+| For children and adolescents with HCM, a comprehensive, systematic noninvasive SCD risk assessment at initial evaluation and every 1 to 2 years thereafter is recommended and should include evaluation of these risk factors (Figures 1 and 3, Table 8): | **I** | **B-NR** |
+| For children and adolescents with HCM who have a borderline risk for SCD, or in whom a decision to proceed with ICD placement remains uncertain after clinical assessment that includes personal and family history, echocardiography, and ambulatory electrocardiographic monitoring, CMR imaging is beneficial to assess for extent of myocardial fibrosis with LGE (Table 8). | **I** | **C-LD** |
+| For patients <16 years of age with HCM, it is reasonable to calculate an estimated 5-year sudden death risk that includes echocardiographic parameters (interventricular septal thickness in diastole, LV posterior wall thickness in end-diastole, left atrial diameter, maximal LVOT gradient) and genotype, which may be useful during shared decision-making for ICD placement (Table 8). | **IIa** | **B-NR** |
+
+
+### 7.2 Patient Selection for ICD Placement
+Implantable cardioverter-defibrillators (ICDs) are the only proven therapy for terminating malignant ventricular arrhythmias and preventing SCD in HCM:
+* **Secondary Prevention (Class 1):** In patients with HCM who have survived a cardiac arrest due to VF or sustained VT, or experienced spontaneous sustained VT causing syncope or hemodynamic compromise, an ICD is strongly recommended (Class 1, Level of Evidence B-NR).
+* **Primary Prevention in Adults:**
+  - In patients harboring **$\ge 1$ major conventional risk factor** (massive LVH $\ge 30\text{ mm}$, family history of premature SCD, unexplained recent syncope, apical aneurysm, or LVEF $< 50\%$), ICD placement is reasonable (Class 2a, Level B-NR).
+  - In patients with extensive LGE ($\ge 15\%$) on CMR or significant NSVT, ICD placement is reasonable (Class 2a, Level B-NR).
+  - When clinical risk remains borderline or uncertain after conventional assessment, European (HCM Risk-SCD) or pediatric risk prediction calculators may provide supportive guidance, but clinical judgment and shared decision-making remain paramount.
+* **Primary Prevention in Children:** In pediatric patients with $\ge 1$ major risk factor (family history of early SCD, massive LVH with $z\text{-score} \ge 6$, unexplained syncope, or NSVT), ICD placement is reasonable (Class 2a, Level B-NR).
+
+![Figure 3: Patient Selection for ICD Use](images/fig03_patient_selection_icd_use.jpg)
+
+
+
+### Recommendation Table 14 — Recommendations for ICD Placement in High-Risk Patients With HCM
+
+**ICD Placement in High-Risk Patients With HCM**
+
+| Recommendations | Class | Level |
+|---|:---:|:---:|
+| In patients with HCM, application of individual clinical judgment is recommended when assessing the prognostic strength of conventional risk marker(s) within the clinical profile of the individual patient, as well as a thorough and balanced discussion of the evidence, benefits, and estimated risks to engage the fully informed patient's active participation in ICD decision-making. | **I** | **C-EO** |
+| For patients with HCM and previous documented cardiac arrest or sustained VT, ICD placement is recommended (Figure 3, Table 8). | **I** | **B-NR** |
+| For adult patients with HCM with ≥1 major risk factors for SCD, it is reasonable to offer an ICD. These major risk factors include (Figure 3, Table 8): | **IIa** | **B-NR** |
+| For children with HCM who have ≥1 conventional risk factors, including unexplained syncope, massive LVH, NSVT, or family history of early HCM-related SCD, ICD placement is reasonable after considering the relatively high complication rates of long-term ICD placement in younger patients (Figure 3, Table 8). | **IIa** | **B-NR** |
+| For patients with HCM with ≥1 major SCD risk factors, discussion of the estimated 5-year sudden death risk and mortality rates can be useful during the shared decision-making process for ICD placement (Figure 3, Table 8). | **IIa** | **B-NR** |
+| In select adult patients with HCM and without major SCD risk factors after clinical assessment, or in whom the decision to proceed with ICD placement remains otherwise uncertain, ICD may be considered in patients with extensive LGE by contrast-enhanced CMR imaging or NSVT present on ambulatory monitoring (Figure 3, Table 8). | **IIb** | **B-NR** |
+| In pediatric patients with HCM, it can be useful to consider additional factors such as extensive LGE on contrast-enhanced CMR imaging and systolic dysfunction in risk stratification for ICD shared decision-making (Figure 3, Table 8). | **IIb** | **B-NR** |
+| In patients with HCM without risk factors, ICD placement should not be performed. | **III-harm** | **B-NR** |
+| In patients with HCM, ICD placement for the sole purpose of participation in competitive athletics should not be performed. | **III-harm** | **B-NR** |
+
+
+### 7.3 Device Selection Considerations: Transvenous vs Subcutaneous ICD
+* **Subcutaneous ICD (S-ICD):** Recommended as an alternative to transvenous ICD in patients who do not require bradycardia pacing, cardiac resynchronization therapy (CRT), or anti-tachycardia pacing (ATP) for monomorphic VT (Class 1, Level of Evidence B-NR). S-ICD avoids lead-related intravascular complications, systemic bacteremia, and vascular occlusion, which is especially advantageous in young active patients. Surface ECG screening must be performed to confirm adequate T-wave oversensing discrimination.
+* **Transvenous ICD:** Indicated when patients have coexisting indications for antibradycardia pacing, documented monomorphic VT terminable by ATP, or require CRT for end-stage systolic dysfunction.
+
+
+
+### Recommendation Table 15 — Recommendations for ICD Device Selection Considerations
+
+**ICD Device Selection Considerations**
+
+| Recommendations | Class | Level |
+|---|:---:|:---:|
+| In patients with HCM who are receiving an ICD, either a single-chamber transvenous ICD or a subcutaneous ICD is recommended after a shared decision-making discussion that takes into consideration patient preferences, age, lifestyle, and potential need for pacing for bradycardia or VT termination. | **I** | **B-NR** |
+| In patients with HCM who are receiving a transvenous ICD, single-coil ICD leads are recommended in preference to dual-coil leads, if defibrillation threshold is deemed adequate. | **I** | **B-NR** |
+| In patients with HCM who are receiving an ICD, dual-chamber ICDs are reasonable for patients with a need for atrial or atrioventricular sequential pacing for bradycardia/conduction abnormalities, or as an attempt to relieve symptoms of obstructive HCM (most commonly in patients >65 years of age). | **IIa** | **B-NR** |
+| In selected adult patients with nonobstructive HCM receiving an ICD who have NYHA class II to ambulatory class IV HF, left bundle branch block (LBBB), and LVEF <50%, cardiac resynchronization therapy (CRT) for symptom reduction is reasonable. | **IIa** | **C-LD** |
+| In patients with HCM in whom a decision has been made for ICD implantation and who have paroxysmal atrial tachycardias or AF, dual-chamber ICDs may be reasonable, but this decision must be balanced against higher complication rates of dual-chamber devices. | **IIb** | **C-LD** |
+
+
+</div></details>
+
+<details class="med-details"><summary>
+
+## 8. Management of HCM</summary><div class="details-content">
+
+### 8.1 Management of Symptomatic Patients With Obstructive HCM
+
+#### 8.1.1 Pharmacological Management of Obstructive HCM
+The primary objective of medical therapy is relieving symptoms of heart failure (dyspnea, fatigue) and chest pain by reducing the dynamic LVOT gradient, improving diastolic ventricular relaxation, and lengthening ventricular filling time:
+* **First-Line Therapy — Beta-Blockers:** Non-vasodilating oral beta-blockers (e.g., metoprolol succinate, atenolol, propranolol) titrated to a resting heart rate of $55\text{--}65\text{ bpm}$ are recommended as initial first-line therapy (Class 1, Level of Evidence B-NR). Beta-blockers attenuate exercise-induced LVOT gradients by blunting sympathetic chronotropic and inotropic surges.
+* **Alternative First-Line — Non-Dihydropyridine Calcium Channel Blockers:** In patients who are intolerant of or have contraindications to beta-blockers, non-dihydropyridine calcium channel blockers (**verapamil** or **diltiazem**) are recommended (Class 1, Level B-NR). Caution is warranted in patients with resting gradients $> 100\text{ mm Hg}$ or severe pulmonary congestion, as vasodilator effects can precipitate pulmonary edema.
+* **Second-Line / Add-On Therapy — Cardiac Myosin Inhibitors (Mavacamten):**
+  - In symptomatic patients with obstructive HCM who have persistent NYHA class II to III symptoms despite monotherapy with beta-blockers or calcium channel blockers, **mavacamten** is recommended as add-on therapy (Class 1, Level of Evidence A).
+  - In the pivotal Phase 3 EXPLORER-HCM trial ($n=251$), mavacamten achieved the primary composite functional endpoint in 37% versus 17% on placebo ($P=0.0005$), reduced resting and provoked gradients to $< 30\text{ mm Hg}$ in 57% of patients, and markedly improved health status (KCCQ score).
+  - In the VALOR-HCM trial ($n=112$), mavacamten reduced eligibility for invasive septal reduction therapy from 100% to 18% at 16 weeks ($P<0.001$).
+  - **Safety and Monitoring:** Because mavacamten directly inhibits actin-myosin cross-bridging, it reversibly lowers LVEF. Periodic echocardiographic surveillance of LVEF is mandatory (at baseline, weeks 4, 8, 12, and every 12 weeks thereafter). Therapy must be temporarily withheld if LVEF drops below $50\%$. Mavacamten is metabolized by CYP2C19 and CYP3A4, requiring strict adherence to drug-interaction protocols.
+* **Alternative Second-Line — Disopyramide:** In patients with persistent symptoms on beta-blockers or calcium channel blockers where cardiac myosin inhibitors are not available or not tolerated, disopyramide (Class Ia antiarrhythmic with negative inotropic properties) combined with an AV-nodal blocking agent is recommended (Class 1, Level B-NR).
+* **Medications to AVOID (Class 3: Harm):** Dihydropyridine calcium channel blockers (nifedipine, amlodipine), oral nitrates, phosphodiesterase-5 inhibitors, and cardiac digitalis glycosides (digoxin) cause peripheral vasodilation or positive inotropy, exacerbating dynamic LVOTO.
+
+![Figure 4: Management of Symptoms in Patients With HCM](images/fig04_management_symptoms_hcm.jpg)
+
+
+
+### Recommendation Table 16 — Recommendations for Pharmacological Management of Symptomatic Patients With Obstructive HCM
+
+**Pharmacological Management of Symptomatic Patients With Obstructive HCM**
+
+| Recommendations | Class | Level |
+|---|:---:|:---:|
+| In patients with obstructive HCM and symptoms attributable to LVOTO, nonvasodilating beta blockers, titrated to effectiveness or maximally tolerated doses, are recommended. | **I** | **B-NR** |
+| In patients with obstructive HCM and symptoms attributable to LVOTO, for whom beta blockers are ineffective or not tolerated, substitution with nondihydropyridine calcium channel blockers (eg, verapamil, diltiazem) is recommended. | **I** | **B-NR** |
+| For patients with obstructive HCM who have persistent symptoms attributable to LVOTO despite beta blockers or nondihydropyridine calcium channel blockers, adding a myosin inhibitor (adult patients only), or disopyramide (in combination with an atrioventricular nodal blocking agent), or SRT performed at experienced centers, is recommended. | **I** | **B-R** |
+| For patients with obstructive HCM and acute hypotension who do not respond to fluid administration, intravenous phenylephrine (or other vasoconstrictors without inotropic activity), alone or in combination with beta-blocking drugs, is recommended. | **I** | **C-LD** |
+| For patients with obstructive HCM and persistent dyspnea with clinical evidence of volume overload and high left-sided filling pressures despite other HCM GDMT, cautious use of low-dose oral diuretics may be considered. | **IIb** | **C-EO** |
+| For patients with obstructive HCM, discontinuation of vasodilators (eg, angiotensin-converting enzyme inhibitors, angiotensin receptor blockers, dihydropyridine calcium channel blockers) or digoxin may be reasonable because these agents can worsen symptoms caused by dynamic outflow tract obstruction. | **IIb** | **C-EO** |
+| For patients with obstructive HCM and severe dyspnea at rest, hypotension, very high resting gradients (eg, >100 mm Hg), as well as all children <6 weeks of age, verapamil is potentially harmful. | **III-harm** | **C-LD** |
+
+
+#### 8.1.2 Invasive Treatment of Symptomatic Patients With Obstructive HCM (Septal Reduction Therapy)
+When severe symptoms (NYHA functional class III–IV, exertional presyncope, or syncope) persist despite maximally tolerated guideline-directed pharmacotherapy, and a dynamic peak LVOT gradient **$\ge 50\text{ mm Hg}$** (at rest or with provocation) is documented, **invasive septal reduction therapy (SRT)** is indicated:
+* **Surgical Septal Myectomy (Morrow Procedure):**
+  - The gold standard surgical procedure for obstructive HCM, performed via median sternotomy and transaortic approach (often augmented with transapical resection in midventricular/apical hypertrophy).
+  - Recommended as the preferred intervention in younger, healthier patients, those with concomitant surgical indications (coronary artery disease requiring CABG, intrinsic mitral valve disease requiring repair/replacement, subaortic membrane, anomalous papillary muscles), or patients with massive basal septal thickness ($> 25\text{--}30\text{ mm}$) (Class 1, Level of Evidence B-NR).
+  - High-volume surgical centers report procedural mortality $< 1\%$, permanent complete heart block rates $< 2\text{--}3\%$, and $> 90\%$ long-term freedom from recurrent obstruction.
+* **Alcohol Septal Ablation (ASA):**
+  - Catheter-based percutaneous technique involving selective balloon catheterization and infusion of $1\text{--}2\text{ mL}$ of absolute ethanol into a suitable septal perforator branch of the left anterior descending artery, inducing targeted focal septal infarction.
+  - Recommended as an alternative to surgical myectomy in patients with advanced age, severe noncardiac comorbidities, high surgical risk, or strong informed preference, provided coronary anatomy is favorable and myocardial contrast echocardiography confirms precise localization to the basal septum contacting the mitral valve (Class 1, Level of Evidence B-NR).
+  - Procedural complete heart block requiring permanent pacemaker implantation occurs in approximately $8\text{ to }12\%$ of cases.
+* **Dual-Chamber Pacing:** In patients with drug-refractory symptoms who are not candidates for or decline myectomy, ASA, or cardiac myosin inhibitors, dual-chamber pacing with short AV delay may be considered to reduce gradients via paradoxical septal motion (Class 2b, Level B-R).
+
+
+
+### Recommendation Table 17 — Recommendations for Invasive Treatment of Symptomatic Patients With Obstructive HCM
+
+**Invasive Treatment of Symptomatic Patients With Obstructive HCM**
+
+| Recommendations | Class | Level |
+|---|:---:|:---:|
+| In patients with obstructive HCM who remain symptomatic despite GDMT, SRT in eligible patients performed at experienced HCM centers is recommended for relieving LVOTO (Tables 4 and 5). | **I** | **B-NR** |
+| In symptomatic patients with obstructive HCM who have associated cardiac disease requiring surgical treatment (eg, associated anomalous papillary muscle, markedly elongated anterior mitral leaflet, intrinsic mitral valve disease, multivessel CAD, valvular aortic stenosis), surgical myectomy, performed at experienced HCM centers is recommended (Tables 4 and 5). | **I** | **B-NR** |
+| In adult patients with obstructive HCM who remain severely symptomatic, despite GDMT and in whom surgery is contraindicated or the risk is considered unacceptable because of serious comorbidities or advanced age, alcohol septal ablation in eligible patients performed at experienced HCM centers is recommended (Tables 4 and 5). | **I** | **C-LD** |
+| In patients with obstructive HCM, earlier (NYHA class II) surgical myectomy performed at comprehensive HCM centers (Tables 4 and 5) may be reasonable in the presence of additional clinical factors, including: | **IIb** | **B-NR** |
+| For symptomatic patients with obstructive HCM, SRT in eligible patients performed at experienced HCM centers (Tables 4 and 5), may be considered as an alternative to escalation of medical therapy after shared decision-making including risks and benefits of all treatment options. | **IIb** | **C-LD** |
+| For patients with HCM who are asymptomatic and have normal exercise capacity, SRT is not recommended. | **III-harm** | **C-LD** |
+| For symptomatic patients with obstructive HCM in whom SRT is an option, mitral valve replacement should not be performed for the sole purpose of relief of LVOTO. | **III-harm** | **B-NR** |
+
+
+### 8.2 Management of Patients With Nonobstructive HCM With Preserved EF
+Approximately one-third of HCM patients have nonobstructive physiology (resting and provoked peak LVOT gradients $< 30\text{ mm Hg}$):
+* **Symptom Pathophysiology:** Exertional symptoms in nonobstructive HCM are primarily caused by severe diastolic dysfunction, elevated left atrial filling pressures, and microvascular ischemia.
+* **First-Line Pharmacotherapy:** Beta-blockers or non-dihydropyridine calcium channel blockers (verapamil or diltiazem) are recommended to prolong diastole, improve ventricular compliance, and reduce myocardial oxygen consumption (Class 1, Level of Evidence B-NR).
+* **Judicious Diuretics:** Oral loop or thiazide diuretics in low-to-moderate doses may be added to alleviate exertional dyspnea and orthopnea resulting from pulmonary congestion (Class 2a, Level B-NR). Overdiuresis must be avoided because reducing LV end-diastolic volume can precipitate cavity obliteration and dynamic hypotension.
+* **SGLT2 Inhibitors:** Sodium-glucose cotransporter-2 (SGLT2) inhibitors are reasonable in patients with persistent heart failure symptoms (Class 2a, Level B-R).
+
+
+
+### Recommendation Table 18 — Recommendations for Management of Patients With Nonobstructive HCM With Preserved EF
+
+**Management of Patients With Nonobstructive HCM With Preserved EF**
+
+| Recommendations | Class | Level |
+|---|:---:|:---:|
+| In patients with nonobstructive HCM with preserved EF and symptoms of exertional angina or dyspnea, beta blockers or nondihydropyridine calcium channel blockers are recommended. | **I** | **C-LD** |
+| In patients with nonobstructive HCM with preserved EF, it is reasonable to add oral diuretics when exertional dyspnea persists despite the use of beta blockers or nondihydropyridine calcium channel blockers. | **IIa** | **C-EO** |
+| In patients with nonobstructive HCM with preserved EF, the usefulness of angiotensin-converting enzyme inhibitors and angiotensin receptor blockers in the treatment of symptoms (angina and dyspnea) is not well established. | **IIb** | **C-LD** |
+| In highly selected patients with apical HCM with severe dyspnea or angina (NYHA functional class III or class IV) despite maximal medical therapy, and with preserved EF and small LV cavity size (LV end-diastolic volume <50 mL/m^2 and LV stroke volume <30 mL/m^2), apical myectomy by experienced surgeons at comprehensive centers may be considered to reduce symptoms. | **IIb** | **C-LD** |
+| In asymptomatic patients with nonobstructive HCM, the benefit of beta blockers or calcium channel blockers is not well established. | **IIb** | **C-EO** |
+| For younger (eg, ≤45 years of age) patients with nonobstructive HCM due to a pathogenic or likely pathogenic cardiac sarcomere genetic variant, and a mild phenotype, valsartan may be beneficial to slow adverse cardiac remodeling. | **IIb** | **B-R** |
+
+
+### 8.3 Management of Patients With HCM and Advanced Heart Failure
+In 5% to 10% of patients, extensive transmural fibrosis and adverse remodeling lead to the **"burned-out" or hypokinetic end-stage phenotype**, characterized by left ventricular systolic dysfunction (LVEF $< 50\%$):
+* **Guideline-Directed Medical Therapy for HFrEF:** Standard neurohormonal blockade—including angiotensin receptor-neprilysin inhibitors (ARNI) or ACE inhibitors/ARBs, beta-blockers, mineralocorticoid receptor antagonists (MRA), and SGLT2 inhibitors—is recommended (Class 1, Level of Evidence B-NR).
+* **Cessation of Negative Inotropes:** Calcium channel blockers (verapamil, diltiazem), disopyramide, and cardiac myosin inhibitors must be discontinued once LVEF falls below 50%.
+* **Cardiac Resynchronization Therapy (CRT):** In patients with LVEF $< 50\%$, NYHA class II to IV symptoms, and left bundle branch block (LBBB with QRS duration $\ge 130\text{--}150\text{ ms}$), CRT is recommended (Class 1, Level B-NR).
+* **Advanced Therapies (Transplantation and LVAD):** In patients developing refractory Stage D heart failure despite optimal GDMT and CRT, evaluation for orthotopic heart transplantation or left ventricular assist device (LVAD) is recommended (Class 1, Level B-NR). Note that small cavity dimensions may pose anatomical challenges for continuous-flow LVAD inflow cannulation.
+
+![Figure 5: Heart Failure Algorithm in Hypertrophic Cardiomyopathy](images/fig05_heart_failure_algorithm.jpg)
+
+
+
+### Recommendation Table 19 — Recommendations for Management of Patients With HCM and Advanced HF
+
+**Management of Patients With HCM and Advanced HF**
+
+| Recommendations | Class | Level |
+|---|:---:|:---:|
+| In patients with HCM who develop systolic dysfunction with an LVEF <50%, GDMT for HF with reduced EF is recommended. | **I** | **C-LD** |
+| In patients with HCM and systolic dysfunction, diagnostic testing to assess for concomitant causes of systolic dysfunction (eg, CAD) is recommended. | **I** | **C-LD** |
+| In patients with nonobstructive HCM and advanced HF (NYHA functional class III to class IV despite GDMT), CPET should be performed to quantify the degree of functional limitation and aid in selection of patients for heart transplantation or mechanical circulatory support. | **I** | **B-NR** |
+| In patients with nonobstructive HCM and advanced HF (NYHA functional class III to class IV despite GDMT) or with life-threatening ventricular arrhythmias refractory to maximal GDMT, assessment for heart transplantation in accordance with current listing criteria is recommended. | **I** | **B-NR** |
+| In patients with HCM who develop persistent systolic dysfunction (LVEF <50%), cardiac myosin inhibitors should be discontinued. | **I** | **B-R** |
+| For patients with HCM who develop systolic dysfunction (LVEF <50%), it is reasonable to discontinue previously indicated negative inotropic agents (specifically, verapamil, diltiazem, or disopyramide). | **IIa** | **C-EO** |
+| In patients with nonobstructive HCM and advanced HF (NYHA functional class III to class IV despite GDMT) who are candidates for heart transplantation, continuous-flow LVAD therapy is reasonable as a bridge to heart transplantation. | **IIa** | **B-NR** |
+| In patients with HCM and persistent LVEF <50%, ICD placement can be beneficial. | **IIa** | **C-LD** |
+| In patients with HCM and LVEF <50%, NYHA functional class II to class IV symptoms despite GDMT, and LBBB, CRT can be beneficial to improve symptoms. | **IIa** | **C-LD** |
+
+
+### 8.4 Management of Patients With HCM and Atrial Fibrillation
+Atrial fibrillation (AF) develops in approximately 20% to 25% of patients with HCM and is associated with severe hemodynamic decompensation and a high risk of thromboembolic stroke:
+* **Universal Oral Anticoagulation (DOACs Preferred):** In all patients with HCM who develop clinical or subclinical atrial fibrillation (or atrial flutter), lifelong oral anticoagulation is recommended (Class 1, Level of Evidence B-NR), **regardless of the CHA2DS2-VASc score**.
+  - Direct oral anticoagulants (apixaban, rivaroxaban, dabigatran, edoxaban) are recommended in preference to vitamin K antagonists (warfarin) due to lower risks of major bleeding and intracranial hemorrhage.
+* **Rhythm Control Strategy:** Because loss of atrial systolic contribution and rapid ventricular rates precipitate severe diastolic underfilling and pulmonary edema, an active rhythm control strategy (pharmacological cardioversion, electrical cardioversion, antiarrhythmic drugs, or catheter ablation) is recommended as the initial approach (Class 1, Level B-NR).
+* **Antiarrhythmic Drug Therapy:** Amiodarone, sotalol, or dofetilide are reasonable options for maintaining sinus rhythm (Class 2a, Level B-NR). Class Ic antiarrhythmic drugs (flecainide, propafenone) should be used with extreme caution due to proarrhythmic risks in the presence of marked LVH.
+* **Catheter Ablation:** Radiofrequency catheter ablation (pulmonary vein isolation) is recommended for symptomatic refractory AF (Class 1, Level B-NR). While recurrence rates are higher than in patients without structural heart disease, repeated ablation procedures achieve effective rhythm stabilization in $> 60\text{--}70\%$ of patients.
+* **Surgical Maze Procedure:** In patients undergoing surgical septal myectomy who have concomitant paroxysmal or persistent AF, a concomitant surgical Cox-Maze procedure with left atrial appendage exclusion is recommended (Class 1, Level B-NR).
+
+
+
+#### Table 9: Antiarrhythmic Drug Therapy Options for Patients With HCM and AF
+
+| Antiarrhythmic Drug | Efficacy for AF | Adverse Effects | Toxicities | Use in HCM |
+|---|---|---|---|---|
+| Disopyramide | Modest | Anticholinergic HF | Prolonged QTc TdP | Particularly with early onset AF Generally used in conjunction with atrioventricular nodal blocking agents |
+| Flecainide and propafenone | — | Prolonged QRS | Proarrhythmia Typical atrial flutter | Not generally recommended in the absence of an ICD |
+| Sotalol | Modest | Fatigue, bradycardia | Prolonged QTc TdP | Reasonable |
+| Dofetilide | Modest | Headache | Prolonged QTc TdP | Reasonable |
+| Dronedarone | Low | HF | Prolonged QTc | — |
+| Amiodarone | Modest-high | Bradycardia | Liver, lung, thyroid, skin, neurologic Prolonged QTc | Reasonable |
+
+
+### Recommendation Table 20 — Recommendations for Management of Patients With HCM and AF
+
+**Management of Patients With HCM and AF**
+
+| Recommendations | Class | Level |
+|---|:---:|:---:|
+| In patients with HCM and clinical AF, anticoagulation is recommended with direct-acting oral anticoagulants (DOACs) as first-line option and vitamin K antagonists as second-line option, independent of CHA2DS2-VASc score. | **I** | **B-NR** |
+| In patients with HCM and subclinical AF detected by internal or external cardiac device or monitor of >24 hours' duration for a given episode, anticoagulation is recommended with DOACs as first-line option and vitamin K antagonists as second-line option, independent of CHA2DS2-VASc score. | **I** | **C-LD** |
+| In patients with AF in whom rate control strategy is planned, beta blockers, verapamil, or diltiazem are recommended, with the choice of agents according to patient preferences and comorbid conditions. | **I** | **C-LD** |
+| In patients with HCM and subclinical AF detected by internal or external device or monitor, of >5 minutes' duration but <24 hours' duration for a given episode, anticoagulation with DOACs as first-line option and vitamin K antagonists as second-line option can be beneficial, taking into consideration duration of AF episodes, total AF burden, underlying risk factors, and bleeding risk. | **IIa** | **C-LD** |
+| In patients with HCM and poorly tolerated AF, a rhythm-control strategy with cardioversion or antiarrhythmic drugs can be beneficial with the choice of an agent according to AF symptom severity, patient preferences, and comorbid conditions. | **IIa** | **B-NR** |
+| In patients with HCM and symptomatic AF, as part of an AF rhythm-control strategy, catheter ablation for AF can be effective when drug therapy is ineffective, contraindicated, or not the patient's preference. | **IIa** | **B-NR** |
+| In patients with HCM and AF who require surgical myectomy, concomitant surgical AF ablation procedure can be beneficial for AF rhythm control. | **IIa** | **B-NR** |
+
+
+### 8.5 Management of Patients With HCM and Ventricular Arrhythmias
+* **Non-Sustained VT (NSVT):** Asymptomatic NSVT detected on ambulatory monitoring does not warrant specific antiarrhythmic therapy, but serves as a contributory risk marker for SCD.
+* **Sustained Ventricular Arrhythmias:** In patients experiencing sustained VT or VF, secondary prevention ICD implantation is mandatory (Class 1, Level A).
+* **Suppressive Antiarrhythmic Therapy:** In patients with recurrent appropriate ICD therapies (shocks or ATP) for ventricular arrhythmias despite beta-blocker therapy, treatment with **amiodarone** or **sotalol** is reasonable (Class 2a, Level B-NR).
+* **Catheter Ablation for Monomorphic VT:** Catheter ablation is reasonable for drug-refractory monomorphic VT or recurrent VT storms, frequently targeting scar borders around apical aneurysms or basal septal surgical/ablation margins (Class 2a, Level B-NR).
+
+
+
+### Recommendation Table 21 — Recommendations for the Management of Patients With HCM and Ventricular Arrhythmias
+
+**Management of Patients With HCM and Ventricular Arrhythmias**
+
+| Recommendations | Class | Level |
+|---|:---:|:---:|
+| In patients with HCM and recurrent, poorly tolerated life-threatening ventricular tachyarrhythmias refractory to maximal antiarrhythmic drug therapy and ablation, heart transplantation assessment is indicated in accordance with current listing criteria. | **I** | **B-NR** |
+| In adults with HCM and symptomatic ventricular arrhythmias or recurrent ICD shocks despite beta-blocker use, antiarrhythmic drug therapy (eg, amiodarone, dofetilide, mexiletine, or sotalol) is recommended, with the choice of agent guided by age, underlying comorbidities, severity of disease, patient preferences, and balance between efficacy and safety. | **I** | **B-NR** |
+| In children with HCM and recurrent ventricular arrhythmias despite beta-blocker use, antiarrhythmic drug therapy (eg, amiodarone, mexiletine, sotalol) is recommended, with the choice of agent guided by age, underlying comorbidities, severity of disease, patient preferences, and balance of efficacy and safety. | **I** | **C-LD** |
+| In patients with HCM and pacing-capable ICDs, programming antitachycardia pacing is recommended to minimize risk of shocks. | **I** | **C-LD** |
+| In patients with HCM and recurrent symptomatic sustained monomorphic VT, or recurrent ICD shocks despite optimal device programming, and in whom antiarrhythmic drug therapy is either ineffective, not tolerated, or not preferred, catheter ablation can be useful for reducing arrhythmia burden. | **IIa** | **C-LD** |
+
+
+</div></details>

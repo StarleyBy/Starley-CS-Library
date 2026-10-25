@@ -1,4 +1,4 @@
-# 2019 ESC Guidelines for the Diagnosis and Management of Acute Pulmonary Embolism
+# 🫁 <span class="luminous-cyan">Pulmonary Embolism</span> <span class="luminous-amber">2019</span> (<span class="luminous-blue">ESC</span>/<span class="luminous-blue">ERS</span>)
 
 ##### Developed in collaboration with the European Respiratory Society (ERS). The Task Force for the diagnosis and management of acute pulmonary embolism of the European Society of Cardiology (ESC).
 

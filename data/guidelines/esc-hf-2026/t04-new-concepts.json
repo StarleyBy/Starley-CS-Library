@@ -1,0 +1,104 @@
+{
+  "schemaVersion": 1,
+  "id": "esc-hf-2026.t04-new-concepts",
+  "guidelineId": "esc-hf-2026",
+  "number": "4",
+  "type": "grid",
+  "title": {
+    "en": "New concepts",
+    "ru": "Новые концепции"
+  },
+  "tags": [
+    "new-concepts",
+    "heart-failure",
+    "hfref",
+    "hfmref",
+    "hfpef",
+    "dhf",
+    "stages",
+    "classification"
+  ],
+  "columns": [
+    {
+      "id": "concept",
+      "title": {
+        "en": "New concepts",
+        "ru": "Новые концепции"
+      }
+    }
+  ],
+  "rows": [
+    {
+      "id": "r01-hfref-expanded",
+      "cells": [
+        {
+          "text": {
+            "en": "HFrEF has been expanded to include LVEF up to 50%",
+            "ru": "Определение СНнФВ (HFrEF) расширено и теперь включает пациентов с ФВЛЖ до 50%"
+          }
+        }
+      ]
+    },
+    {
+      "id": "r02-hfmref-removed",
+      "cells": [
+        {
+          "text": {
+            "en": "HFmrEF has been removed",
+            "ru": "Категория СН с умеренно сниженной ФВ (HFmrEF) упразднена"
+          }
+        }
+      ]
+    },
+    {
+      "id": "r03-hfpef-definition",
+      "cells": [
+        {
+          "text": {
+            "en": "HFpEF includes LVEF from 50% and above",
+            "ru": "Категория СНсФВ (HFpEF) включает пациентов с ФВЛЖ 50% и выше"
+          }
+        }
+      ]
+    },
+    {
+      "id": "r04-dhf-replaces-acute-hf",
+      "cells": [
+        {
+          "text": {
+            "en": "Decompensated HF replaces acute HF",
+            "ru": "Термин «декомпенсированная СН» (Decompensated HF) заменяет термин «острая СН» (acute HF)"
+          }
+        }
+      ]
+    },
+    {
+      "id": "r05-stages-hf-adopted",
+      "cells": [
+        {
+          "text": {
+            "en": "Stages of HF (A–D) ranging from risk factors to advanced HF have been adopted",
+            "ru": "Принята стадийная классификация СН (стадии A–D): от факторов риска до терминальной (advanced) СН"
+          }
+        }
+      ]
+    },
+    {
+      "id": "r06-new-classifications",
+      "cells": [
+        {
+          "text": {
+            "en": "New classifications for medical and interventional therapy have been introduced",
+            "ru": "Введены новые классификации для медикаментозной и интервенционной терапии"
+          }
+        }
+      ]
+    }
+  ],
+  "source": {
+    "expectedRows": 6
+  },
+  "i18nStatus": {
+    "ru": "reviewed"
+  }
+}

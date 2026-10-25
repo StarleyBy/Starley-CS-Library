@@ -1,0 +1,3885 @@
+=== PAGE 38 (Bk 15) ===
+15
+CHAPTER 2
+The Standard Transthoracic Echo Examination
+2.1	 2D echocardiology and M-mode echocardiography  16
+2D echocardiography  16
+M-mode echocardiography  16
+Windows  17
+Views  19
+2.2	 Doppler echocardiography  24
+Doppler echocardiography  24
+Modalities  25
+PW/CW assessment of valves  26
+Colour-flow Doppler assessment of valves  32
+Non-invasive haemodynamic assessment  38
+2.3	 Functional echocardiography  49
+General considerations  49
+Basic parameters  50
+Tissue Doppler—principles  51
+Tissue Doppler  53
+Speckle tracking  58
+	
+Reference values  63
+	
+Suggested reading  67
+2.4	 3D echocardiography  68
+3D echocardiography  68
+Modalities of image acquisition and display  69
+Modalities: how and when?  72
+Windows and views  77
+The 3D echocardiographic examination  78
+LV segmentation  81
+Measurements and chamber quantification  83
+	
+Reference values  87
+	
+Suggested reading  87
+2.5	 Left ventricular opacification with contrast 
+echocardiography  88
+General considerations  88
+Understanding contrast imaging  90
+Indications for contrast echocardiography  90
+Contraindications for contrast echocardiography  93
+Contrast administration protocols  93
+Artefacts in contrast echocardiography  96
+Safety of ultrasound contrast  98
+Managing contrast reactions in practice  99
+	
+Suggested reading  100
+2.6	 The storage and report on transthoracic echocardiography 
+(TTE)  101
+	
+Suggested reading  109
+
+=== PAGE 39 (Bk 16) ===
+Chapter 2  The Standard Transthoracic Echo Examination
+16
+2.1  2D echocardiography and M-mode 
+echocardiography
+2D echocardiography
+◆
+◆Provides real-time tomographic views of the heart in motion
+◆
+◆Represents the starting point of an echo examination because:
+◆
+◆it allows morphology and function assessment
+◆
+◆it guides the use of all other imaging modes (M-mode, Doppler, 3D)
+◆
+◆ECG-gated video clips of cardiac cycles can be acquired and stored for later review
+◆
+◆ECG-gated frozen still-frames allow measurements and calculations
+◆
+◆during the examination: online
+◆
+◆following the examination: offline
+M-mode echocardiography
+◆
+◆Provides a display of motion-related changes in time along one single scan line
+◆
+◆High temporal resolution
+◆
+◆Current use:
+◆
+◆motion tracking and timing of events
+◆
+◆measurements: only if the scan line is perpendicular to the measured structure
+
+=== PAGE 40 (Bk 17) ===
+17
+The EACVI Echo Handbook
+Windows
+Parasternal (left parasternal) window
+Patient in left lateral decubitus position. Transducer in the 3rd to 
+4th left intercostal space near the sternum (Fig. 2.1.1)
+Subcostal window
+Patient in supine position flexing knees to relax abdominal 
+muscles. Transducer in upper mid-epigastric position (Fig. 2.1.2)
+Apical window
+Patient in left lateral decubitus position. Transducer usually in 
+5th intercostal space at median axillary line pointing towards the 
+left to obtain four-chamber view (CV) (Fig. 2.1.3)
+Suprasternal window
+Patient in supine position with chin pointing up. Transducer in 
+suprasternal fossa (Fig. 2.1.4) pointing up for the long-axis view 
+which is the most used
+Fig. 2.1.1  Patient in left 
+lateral decubitus position
+Fig. 2.1.3  Patient in left 
+lateral decubitus position
+Fig. 2.1.2  Patient in supine 
+position
+Fig. 2.1.4  Patient in supine 
+position with chin pointing up
+
+=== PAGE 41 (Bk 18) ===
+Chapter 2  The Standard Transthoracic Echo Examination
+18
+Right parasternal window
+Patient in right lateral decubitus. Used mainly in aortic stenosis to assess the aortic 
+transvalvular velocity with a CW Doppler-only transducer (Fig. 2.1.5A) or with a 2D 
+transducer (Fig. 2.1.5B)
+Fig. 2.1.5  Right parasternal approach
+A
+B
+
+=== PAGE 42 (Bk 19) ===
+19
+The EACVI Echo Handbook
+Views
+Parasternal long-axis view (PTLAX) (Fig. 2.1.6)—
+transducer points towards right shoulder
+◆
+◆If you see LV apex in PTLAX it usually means foreshortened 
+left ventricle (LV)
+◆
+◆LV M-mode—derived from PTLAX to align cursor 
+perpendicular to walls correctly (Fig. 2.1.7A)
+◆
+◆PTLAX M-mode tracing at the aortic valve (AV) plane 
+(Fig. 2.1.7B), of the mitral valve (MV) (Fig. 2.1.7C)
+◆
+◆Apical M-mode tracing of the tricuspid annular plane systolic 
+excursion (TAPSE) (Fig. 2.1.7D)
+RCC
+RV
+IVS
+AV
+LVMV
+LA
+NCC
+anterior
+leaflet
+posterior
+leaflet
+Chordae
+tendinae
+Fig. 2.1.6  PTLAX 
+AV: aortic valve; LA: left atrium; NCC: non-coronary cusp; 
+RCC: right coronary cusp
+RV
+LV
+SW
+PW
+Fig. 2.1.7A  M-mode tracing at AV 
+PW: posterior wall; RV: right ventricle, SW: 
+septal wall
+Ao
+AV
+LA
+Fig. 2.1.7B  M-mode tracing 
+at AV 
+Ao: aorta
+RV
+LV
+SW
+E
+A
+PW
+C
+D
+Fig. 2.1.7C  M-mode tracing 
+at MV 
+EACD: anterior leaflet motion
+TAPSE
+Fig. 2.1.7D  M-mode tracing 
+of TAPSE
+
+=== PAGE 43 (Bk 20) ===
+Chapter 2  The Standard Transthoracic Echo Examination
+20
+Parasternal short-axis view (PTSAX)
+◆
+◆at mitral valve (MV) level (Fig. 2.1.8A)—rotate transducer 
+90º clockwise from PTLAX, tilt towards LV apex
+◆
+◆at papillary muscle (PM) level (Fig. 2.1.8B)—further tilt 
+towards LV apex from PTSAX at MV level
+◆
+◆at LV apex level (Fig. 2.1.8C)—further tilt towards LV apex 
+from PTSAX at PM level
+◆
+◆at great vessels (GV) level (Fig. 2.1.8D)—rotate 90º clockwise 
+from PTLAX, tilt away from LV apex
+◆
+◆Right ventricular (RV) outflow view (Fig. 2.1.9A)—from 
+great vessels PTSAX tilt transducer superiorly
+◆
+◆RV inflow view (Fig. 2.1.9B)—from PTLAX tilt superiorly
+anterior
+leaflet
+posterior
+leaflet
+RV
+LV
+MV
+A
+postero
+medial
+antero
+lateral
+PM
+PM
+B
+LV
+C
+RVOT
+AV
+LA
+PV
+TV
+RA
+Laa
+IAS
+D
+Fig. 2.1.8  PTSAX
+A: at MV level, B: at PM level, C: at apex level, D: at GV level
+RVOT
+PV
+RA
+TV
+RV
+AV
+PA bifurcation
+Fig. 2.1.9  Right ventricular (RV) outflow view (A) and RV inflow 
+view (B)
+A
+B
+
+=== PAGE 44 (Bk 21) ===
+21
+The EACVI Echo Handbook
+Apical 4-chamber view (4CV)
+◆
+◆A standard apical window gives an upright image (Fig. 2.1.10, 
+centre) compared with a too-medial window (Fig. 2.1.10, left) 
+and a too-lateral window (Fig. 2.1.10, right)
+◆
+◆Use the lowest intercostal space showing 4CV to avoid LV 
+foreshortening (rounded instead of bullet-shaped LV apex) 
+(Fig. 2.1.11)
+◆
+◆TV is more apical than MV
+◆
+◆TV septal and anterior leaflets are seen
+◆
+◆Posterior part of IVS is seen
+◆
+◆Posterior tilt reveals the coronary sinus
+Apical 5-chamber view (5CV) (Fig. 2.1.12A)
+◆
+◆Tilt transducer anteriorly from 4CV to visualize AV for LVOT 
+and AV flow assessment
+◆
+◆More anterior part of the IVS is seen
+◆
+◆LV cavity may be distorted
+Apical 2-chamber view (2CV) (Fig. 2.1.12B)
+◆
+◆Rotate transducer counter-clockwise 60°–90° from 4CV
+◆
+◆May display the MV bi-commissural view
+Fig. 2.1.10  Standard apical window
+LV
+RV
+IVS
+TV
+MV
+RA
+LA
+IAS
+PV
+Fig. 2.1.11  4CV
+
+=== PAGE 45 (Bk 22) ===
+Chapter 2  The Standard Transthoracic Echo Examination
+22
+Apical 3-chamber view (3CV) (Fig. 2.1.12C)
+◆
+◆Rotate transducer counter-clockwise further 30°–60° from 
+2CV to obtain the ‘apical long-axis view’
+◆
+◆Contrary to the PTLAX, the apical LAX visualizes the LV 
+apex/apical antero-septum
+◆
+◆May provide better Doppler alignment than 5CV
+Apical RV 4-chamber view (RV 4CV) (Fig. 2.1.12D)
+◆
+◆Modify 4CV to see entire RV and to measure RV
+◆
+◆Derive TV annulus M-mode to measure TAPSE from RV 4CV 
+lateral annulus zoom
+Subcostal 4-chamber view (4CV)
+◆
+◆Transducer pointing to the left (Fig. 2.1.13)
+◆
+◆Used mainly for shunt (ASD/VSD) diagnosis
+Subcostal short-axis view (SAX)
+◆
+◆Transducer rotated 90º from subcostal 4CV
+◆
+◆Mainly great arteries SAX used (Fig. 2.1.14) to measure RVOT 
+diameter and velocity
+Fig. 2.1.12  Apical views
+RV
+LV
+LA
+AV
+RA
+A
+C
+LV
+MV
+LA
+B
+D
+
+=== PAGE 46 (Bk 23) ===
+23
+The EACVI Echo Handbook
+Inferior vena cava (IVC) view
+◆
+◆Transducer tilted to the right
+◆
+◆Used to measure IVC diameter in expiration (Fig. 2.1.15A) 
+and inspiration (Fig. 2.1.15B)
+◆
+◆M-mode can be derived to assess IVC-diameter respiratory 
+variation (Fig. 2.1.15C)
+Suprasternal long-axis view
+◆
+◆Used to visualize the aortic arch and descending aorta 
+(Fig. 2.1.16)
+RV
+LV
+RA
+IAS
+IVS
+LA
+Fig. 2.1.13  Subcostal 
+4-chamber view
+TV
+AV
+PV
+Fig. 2.1.14 
+Subcostal short-axis view
+Fig. 2.1.15  IVC view
+IVC
+Expiration
+A
+IVC
+Inspiration
+B
+C
+RBC
+LCC
+Arch
+Left subclavian
+Dsc AO
+Fig. 2.1.16  Suprasternal long-axis view
+
+=== PAGE 47 (Bk 24) ===
+Chapter 2  The Standard Transthoracic Echo Examination
+24
+2.2  Doppler echocardiography
+Doppler echocardiography
+Provides information regarding blood flow:
+◆
+◆direction - towards the transducer
+◆
+◆colour flow coded red (Fig. 2.2.1 LV inflow)
+◆
+◆spectral display above baseline (Fig. 2.2.2 LV inflow)
+◆
+◆away from the transducer
+◆
+◆colour flow coded blue (Fig. 2.2.3 LV outflow)
+◆
+◆spectral display below baseline (Fig. 2.2.4 LV outflow)
+◆
+◆velocity = spectral display distance from baseline
+◆
+◆amplitude = spectral display signal brightness
+Allows assessment of valves, haemodynamics, and coronary 
+flow reserve through:
+◆
+◆calculation of valve gradient (stenosis) and functional area 
+(stenosis, regurgitation)
+◆
+◆calculation of SV (stroke volume), CO (cardiac output), dP/dt, 
+intracardiac pressures, intracardiac shunt, and coronary flow 
+reserve (CFR)
+◆
+◆colour Doppler lesion detection: convergence zone (stenosis, 
+regurgitation) or regurgitant jet
+◆
+◆estimation of LV filling pressure/diastolic function
+V
+Fig. 2.2.1  LV inflow
+Fig. 2.2.2  LV inflow
+V
+Fig. 2.2.3  LV outflow 
+Fig. 2.2.4  LV outflow
+
+=== PAGE 48 (Bk 25) ===
+25
+The EACVI Echo Handbook
+Modalities
+Continuous-wave Doppler (CW)
+◆
+◆can assess high-velocity flow (Figs 2.2.5 and 2.2.6)
+◆
+◆has no spatial resolution
+→ use to measure high velocities
+Pulsed-wave Doppler (PW)
+◆
+◆cannot assess high velocity flow aliasing (misreads flow 
+direction and velocity) (Fig. 2.2.7, PW in HOCM)
+◆
+◆high PRF (multiple sample volumes) can assess higher 
+velocities (Fig. 2.2.8)
+◆
+◆has spatial resolution within the sample volume
+→ use to detect flow origin/measure low velocities
+Colour-flow Doppler
+◆
+◆multiple PW sample volumes along multiple scan lines
+◆
+◆real-time 2D/M-mode superimposed colour-coded flow map
+→ use to detect time flow (Fig. 2.2.9)/abnormal flow 
+(Fig. 2.2.10)/align PW–CW with flow (see also Box 2.2.1)
+V
+Fig. 2.2.5  CW cursor
+Fig. 2.2.6  CW in 
+hypertrophic obstructive 
+cardiomyopathy (HOCM)
+Fig. 2.2.7  PW in HOCM
+V
+Fig. 2.2.8  High PRF
+
+=== PAGE 49 (Bk 26) ===
+Chapter 2  The Standard Transthoracic Echo Examination
+26
+PW/CW assessment of valves
+Assessment of valve stenosis
+Assessment of aortic (AS) and pulmonary (PS) valve stenosis
+◆
+◆Transvalvular velocity (m/s)/gradient (mmHg)
+◆
+◆Record the highest velocity (best aligned) (use multiple windows)
+◆
+◆AS: apical, suprasternal, right parasternal
+Box 2.2.1  Tips for measurements
+◆
+◆maximize spectral displays to minimize error by reducing the scale (too low-scale 
+results in aliasing or poor definition of peak velocity)
+◆
+◆shifting the baseline and increasing the sweep speed to 100 mm/s
+◆
+◆average over five cardiac cycles in atrial fibrillation excluding extreme cycle length
+Fig. 2.2.9  Colour turbulence: LVOT flow 
+acceleration (HOCM)
+V
+V
+V
+End-systolic MR
+Pan-systolic MR
+Diastolic AR
+Fig. 2.2.10  Colour-flow Doppler: Abnormal flow
+
+=== PAGE 50 (Bk 27) ===
+27
+The EACVI Echo Handbook
+◆
+◆PS: left parasternal, subcostal
+◆
+◆Use imaging transducer if the valve opening is well seen and the velocity is < 3 m/s
+◆
+◆Use dedicated CW transducer for better alignment and higher signal-to-noise ratio
+◆
+◆Use high wall filters/low gain/greyscale
+◆
+◆Trace the dense velocity curve—avoid noise/fine linear signals (Fig. 2.2.11)
+◆
+◆Measure the peak velocity and the machine will derive:
+→ peak gradient (4V2—simplified Bernoulli equation)
+→ the simplified Bernoulli equation ignores the proximal velocity
+→ not valid if the proximal velocity is > 1.5 m/s or the valvular velocity is < 3 m/s
+→ use the Bernoulli equation: 4 (Vtransvalvular2 − Vproximal2)
+→ Bernoulli equation not valid for mean gradient → use peak gradient in these cases
+→ pressure recovery
+→ higher gradients, mainly if small ascending aorta (no post-stenotic dilatation)
+→ significantly higher gradients if the ascending aorta is < 30 mm
+◆
+◆Trace velocity curve (Fig. 2.2.12) and the machine will derive:
+→ TVI (velocity time interval)
+→ mean gradient (instantaneous gradients average)—used in AS
+Effective (functional) valve area (cm2)
+◆
+◆Calculated based on continuity equation (smaller than the anatomic valve area)
+→ SV through valve = SV before valve - for example:
+→ SVAV = SVLVOT → CSAAV × TTIAV = CSALVOT × TVILVOT
+→ AVA = [Π(D/2)2 × TVILVOT]/TVIAV (the LVOT area is assumed to be circular)
+dense
+signal
+noise
+Fig. 2.2.11  Dense velocity 
+curve
+Fig. 2.2.12  Trace velocity 
+curve
+
+=== PAGE 51 (Bk 28) ===
+Chapter 2  The Standard Transthoracic Echo Examination
+28
+◆
+◆LVOT diameter (D) measurement error would be squared
+→ zoom to measure accurately (Fig. 2.2.13)
+→ measure on TOE if the TTE window is poor
+◆
+◆LVOT velocity (Fig. 2.2.14) assumed to be the same 
+throughout the LVOT area
+→ not valid in case of subaortic flow acceleration or AR
+→ use dedicated PW transducer (sample volume above 
+acceleration zone)
+◆
+◆Peak velocity can be used instead of TVI (simplified continuity 
+equation)
+→ more variable results (assumes similar TVI:peak velocities 
+ratio)
+Mitral (MS) and tricuspid (TS) stenosis assessment
+◆
+◆Transvalvular velocity (m/s)/gradient (mmHg)
+◆
+◆record the highest velocity (best aligned)
+◆
+◆use apical window for MS/apical or parasternal window for 
+TS
+◆
+◆use colour flow to guide Doppler alignment (Fig. 2.2.15)
+◆
+◆use CW/PW Doppler at or just after leaflet tips
+◆
+◆PW may help clear trace in case of superimposed AR on 
+CW (Fig. 2.2.16)
+◆
+◆MS: E > A in sinus rhythm (Fig. 2.2.17)—no significant MS 
+(pseudostenosis): E < A
+Fig. 2.2.13  LVOT diameter 
+measurement
+Fig. 2.2.14  LVOT velocity
+Fig. 2.2.15  Guiding Doppler 
+alignment
+Fig. 2.2.16  PW Doppler
+
+=== PAGE 52 (Bk 29) ===
+29
+The EACVI Echo Handbook
+◆
+◆measure peak velocity (used in TS) and the machine will 
+derive:
+→ peak gradient (4V2—simplified Bernoulli equation)—no use 
+in MS
+◆
+◆Trace velocity curve (Fig. 2.2.18) and the machine will derive:
+→ VTI (velocity time interval)
+→ Mean gradient (instantaneous gradients average)—use in 
+MS/TS
+◆
+◆Pressure half-time (PHT/T1/2)
+◆
+◆Trace E-wave mid-diastolic deceleration slope 
+(Fig. 2.2.19A)—machine will derive
+→ PHT (ms)
+→ Valve area (cm2)—validated mainly for the mitral valve (MVA)
+MVA = 220/PHT (220 = empirically determined constant)
+Not valid: immediately post valvotomy 
+in case of very low atrial compliance  
+in coexistent aortic regurgitation 
+in case of LV diastolic dysfunction (calcific MS in 
+elderly)
+Continuity equation based valve-area calculation
+◆
+◆If no atrial fibrillation + no MR/AR for MVA and no TR/AR 
+for TVA
+◆
+◆MVA (or TVA) = [Π(D/2)2 × TVI]LVOT : TVIMV (or TV)
+Fig. 2.2.17  Mitral stenosis 
+assessment
+Fig. 2.2.18  Trace velocity 
+curve
+V
+Fig. 2.2.19A  Trace E-wave 
+mid-diastolic deceleration 
+slope
+V
+V
+Fig. 2.2.19B  Trace well 
+aligned
+
+=== PAGE 53 (Bk 30) ===
+Chapter 2  The Standard Transthoracic Echo Examination
+30
+Assessment of valve regurgitation
+Any valvular regurgitation
+◆
+◆Not aligned Doppler/eccentric regurgitation → poor envelope definition → tracing 
+error
+◆
+◆Doppler volumetric method
+◆
+◆R Vol = SV regurgitant valve – SV normal valve (R Vol = regurgitant volume, SV 
+= stroke volume)
+◆
+◆RF% = (R Vol/SV regurgitant valve) × 100 (RF% = regurgitant fraction)
+Aortic (AR)/Pulmonary (PR) regurgitation assessment
+◆
+◆Pressure half-time (PHT/T1/2)
+◆
+◆Trace well-aligned (5CV or 3CV) AR CW signal (Fig. 2.2.19B)—the machine 
+derives PHT (ms)
+◆
+◆Shorter (abrupt deceleration slope) in more severe AR
+◆
+◆Deceleration time
+◆
+◆Trace well-aligned (parasternal or subcostal view) PR CW signal (Fig. 2.2.20)
+◆
+◆Rapid deceleration is not specific but compatible with severe regurgitation
+◆
+◆Diastolic flow reversal in descending aorta
+◆
+◆PW below left subclavian artery (in suprasternal view)
+◆
+◆Measure end-diastolic velocity at R wave and trace TVI (Fig. 2.2.21)
+Mitral (MR) and tricuspid (TR) regurgitation assessment
+◆
+◆CW Doppler envelope
+Fig. 2.2.20  Trace well aligned 
+Fig. 2.2.21  Diastolic flow reversal
+
+=== PAGE 54 (Bk 31) ===
+31
+The EACVI Echo Handbook
+◆
+◆Complete envelope (Fig. 2.2.22)/dense signal → more severe 
+regurgitation
+◆
+◆Incomplete envelope (Fig. 2.2.23)/weak signal → less 
+severe regurgitation (! misinterpretation in eccentric 
+regurgitation/non-aligned Doppler)
+◆
+◆MR/TR velocity amplitude is not a measure of MR/TR severity
+◆
+◆Free-flow (massive) TR: narrow envelope with low velocity 
+reminding AS envelope (Fig. 2.2.24)
+Fig. 2.2.22  Mitral and tricuspid regurgitation assessment: 
+complete envelope
+V
+Fig. 2.2.24  Free flow (massive) TR
+V
+Fig. 2.2.23  Mitral and tricuspid 
+regurgitation assessment: 
+incomplete envelope
+V
+
+=== PAGE 55 (Bk 32) ===
+Chapter 2  The Standard Transthoracic Echo Examination
+32
+Colour-flow Doppler assessment of valves
+Assessment of valve stenosis
+Aortic/Pulmonary stenosis (AS/PS) assessment
+◆
+◆Detects stenosis based on flow acceleration/flow convergence
+◆
+◆Helps differentiate valvular/subvalvular/supravalvular stenosis (Fig. 2.2.25ABCD)
+Mitral (MS) and tricuspid (TS) stenosis assessment
+◆
+◆Detects stenosis based on flow acceleration/flow convergence (Figs 2.2.26–2.2.28AB)
+◆
+◆Allows MVA calculation with proximal isovelocity surface area (PISA) method:
+MVA = Π (r2) (Valiasing)/(Peak Vmitral × α/180°)
+r = PISA radius, α = MV leaflets opening angle
+MVA = functional (effective) mitral valve area
+V
+V
+Fig. 2.2.25  ABCD: CW records high-velocity suggesting aortic stenosis (A). Colour Doppler identifies the level of stenosis (B) as being subvalvular (flow 
+convergence before the valve). The AR jet origin marks the position of the valve (C). PW detects flow-acceleration origin (D) but cannot measure velocity 
+(too high)
+A
+B
+C
+D
+
+=== PAGE 56 (Bk 33) ===
+33
+The EACVI Echo Handbook
+◆
+◆Can use colour M-mode for r measurement timing at Peak 
+Vmitral
+Assessment of valve regurgitation
+Any valvular regurgitation
+◆
+◆Detects regurgitation
+◆
+◆Allows assessment of all three components of the regurgitant 
+jet (flow convergence zone, vena contracta, jet turbulence)
+Aortic (AR) and pulmonary (PR) regurgitation assessment
+◆
+◆Inspection of the regurgitant jet
+◆
+◆colour jet area and length (Fig. 2.2.29)
+◆
+◆depends on LV/RV compliance (end-diastolic pressure) 
+and driving pressure
+V
+V
+Fig. 2.2.26  No suspicion from 2D image but convergence in 
+colour flow suggests a degree of MS
+Fig. 2.2.27  PISA radius and 
+MV leaflets opening angle 
+measured on colour-flow 
+Doppler to calculate MVA
+Figs 2.2.28  PISA radius variation throughout diastole 
+in MS colour M-mode. A: in sinus rhythm (early 
+diastolic and post atrial contraction peak). B: in atrial 
+fibrillation
+A
+B
+
+=== PAGE 57 (Bk 34) ===
+Chapter 2  The Standard Transthoracic Echo Examination
+34
+◆
+◆weak correlation with regurgitation severity → not valid 
+quantification method
+◆
+◆duration of regurgitation (early diastolic or throughout 
+diastole)
+◆
+◆2D or colour M-mode timing (Fig. 2.2.30)
+◆
+◆Jet width
+◆
+◆jet width percent of outflow tract (Fig. 2.2.31)
+◆
+◆mainly used in PR but also useful in AR
+◆
+◆measure at the RVOT (LVOT) – PV (AV) junction
+◆
+◆Vena contracta
+◆
+◆The smaller diameter of the regurgitant jet below the 
+convergence zone
+◆
+◆Validated for AR—parasternal window preferred because it 
+uses axial resolution (Fig. 2.2.32)
+◆
+◆Current image resolution allows accurate lateral 
+measurements
+◆
+◆AR vena contracta measurement in apical 5CV or 3CV 
+(Fig. 2.2.33)
+◆
+◆PR vena contracta measurement
+◆
+◆Measure in zoom image to reduce error
+◆
+◆Use colour scale 50–60 cm/s with no colour baseline shift
+PISA method of regurgitation quantification
+◆
+◆Can be used in AR/not validated in PR
+Fig. 2.2.29  Colour jet area 
+and length
+Fig. 2.2.30  2D or colour 
+M-mode timing
+Fig. 2.2.32  Validated for AR
+Fig. 2.2.31  Jet width percent 
+of outflow tract
+
+=== PAGE 58 (Bk 35) ===
+35
+The EACVI Echo Handbook
+◆
+◆Measure in zoom image to reduce error (Fig. 2.2.34)
+◆
+◆Preferably use:
+◆
+◆apical window for central jet
+◆
+◆parasternal window for eccentric jet
+◆
+◆Shift baseline in the direction of the jet to get well-defined PISA
+◆
+◆Measure radius (r) from regurgitant orifice to first aliasing velocity surface
+◆
+◆Calculate EROA (effective regurgitant orifice area) and R Vol (regurgitant volume)
+◆
+◆EROA = flow rate/peak velocity (cm2)
+◆
+◆Flow rate = 2Πr2 × aliasing velocity
+◆
+◆R Vol = EROA × TVI (ml)
+◆
+◆Not valid in:
+◆
+◆aneurysmal dilatation of the aortic root (obtuse flow-convergence angle)
+◆
+◆confined convergence zone (cusp perforation, commissural regurgitation)
+◆
+◆Diastolic flow reversal in the descending aorta
+◆
+◆Colour Doppler visualization of flow reversal
+◆
+◆Colour M-mode timing of flow reversal—throughout diastole in severe AR 
+(Fig. 2.2.35)
+Mitral (MR) and tricuspid (TR) regurgitation assessment
+◆
+◆Inspection of the regurgitant jet
+◆
+◆Colour jet area and jet reached depth within the atrium
+◆
+◆can vary in between apical views (Fig. 2.2.36ABC)
+◆
+◆depends on colour Doppler settings
+Fig. 2.2.34  PISA method
+Fig. 2.2.33  AR vena contracta 
+measurement
+
+=== PAGE 59 (Bk 36) ===
+Chapter 2  The Standard Transthoracic Echo Examination
+36
+◆
+◆lower with higher atrial pressure and usually but not always in eccentric jets 
+(Fig. 2.2.37)
+◆
+◆not recommended for regurgitation quantification
+◆
+◆Regurgitation timing/variation throughout systole
+◆
+◆colour M-mode
+◆
+◆examples of variation throughout systole:
+→ enhancement in late systole → prolapse (Fig. 2.2.38)
+→ enhancement in early systole → rheumatic (Fig. 2.2.39)
+V
+Fig. 2.2.35  Colour M-mode timing 
+of flow reversal
+Fig. 2.2.37  Inspection of the 
+regurgitant jet
+Fig. 2.2.36  Eccentric MR jet in 3CV (A), 2CV (B), and 4CV (C)
+A
+B
+C
+
+=== PAGE 60 (Bk 37) ===
+37
+The EACVI Echo Handbook
+◆
+◆Vena contracta
+◆
+◆The smaller diameter of the regurgitant jet below the convergence zone
+◆
+◆Measure in 4CV (MR/TR) or parasternal long-axis (MR)
+◆
+◆Measure in zoom image to reduce error and use narrow colour sector (Fig. 2.2.40)
+◆
+◆Average two orthogonal planes/two to three cardiac cycles
+◆
+◆PISA method of regurgitation quantification
+◆
+◆Recommended in MR/some evidence in TR (Fig. 2.2.41)
+◆
+◆Measure in zoom image to reduce error (Fig. 2.2.42)
+◆
+◆Use 4CV (preferably) or view with better-defined PISA
+◆
+◆Take off ‘variance’ and shift baseline below 40 cm/s for well defined PISA
+◆
+◆Measure radius from regurgitant orifice to first aliasing velocity surface
+Fig. 2.2.38  Regurgitation timing 
+Fig. 2.2.40  Vena contracta
+Fig. 2.2.39  Regurgitation timing
+Fig. 2.2.41  Large TR 
+convergence zone and vena 
+contracta but short truncated 
+jet area
+Fig. 2.2.42  PISA method of 
+regurgitation quantification
+
+=== PAGE 61 (Bk 38) ===
+Chapter 2  The Standard Transthoracic Echo Examination
+38
+◆
+◆Calculate EROA (flow rate/peak velocity) and R Vol (EROA 
+× VTI)
+◆
+◆Assumptions:
+◆
+◆Hemispheric PISA
+→ PISA method not valid with flow constraint PISA 
+distortion (Fig. 2.2.43)
+◆
+◆Constant PISA radius throughout systole
+→ PISA method overestimates end-systolic MR due to 
+prolapse
+◆
+◆Systolic flow reversal in the hepatic veins
+◆
+◆Colour Doppler visualization of flow reversal in hepatic 
+veins zoom
+◆
+◆Colour M-mode timing—systolic flow reversal suggests 
+severe TR (Fig. 2.2.44)
+Non-invasive haemodynamic assessment
+Intracardiac flows
+LV outflow
+◆
+◆Apical 5CV or 3CV
+◆
+◆PW sample volume just on LV side of AV—laminar flow 
+(Fig. 2.2.45)
+◆
+◆Sample volume far from AV sub-estimates velocity (Fig. 2.2.46)
+Fig. 2.2.43  PISA method
+Fig. 2.2.44  Colour M-mode 
+timing
+Fig. 2.2.45  PW sample 
+volume
+
+=== PAGE 62 (Bk 39) ===
+39
+The EACVI Echo Handbook
+◆
+◆Use low wall-filter settings
+◆
+◆Trace the dense modal velocity to derive TVI
+◆
+◆Normal values (Table 2.2.1)
+RV outflow
+◆
+◆Parasternal short-axis view
+◆
+◆PW sample volume just on RV side of the pulmonary valve 
+(laminar flow) (Fig. 2.2.47)
+◆
+◆Normal values (Table 2.2.2)
+LV inflow
+◆
+◆Apical 4CV
+◆
+◆E and A velocity varies: higher E towards LV apex/higher A 
+towards LA
+Fig. 2.2.46  Sample volume
+Table 2.2.1  Normal LV outflow values
+Max velocity 
+(m/s)
+Ejection time 
+(ms)
+Acceleration 
+time (ms)
+Acceleration 
+(m/s2)
+TVI 
+(cm)
+0.88 (0.47–1.29)
+286 (240–332) 84 (48–10)
+11 (5–17)
+20–25
+Table 2.2.2  Normal RV outflow values
+Max velocity 
+(m/s)
+Ejection time 
+(ms)
+Acceleration 
+time (ms)
+Acceleration 
+(m/s2)
+TVI 
+(cm)
+0.72 (0.36–1.08) 281 (212–350) 118 (70–166) 6.1 (3–9)
+–
+Fig. 2.2.47  PW sample volume
+
+=== PAGE 63 (Bk 40) ===
+Chapter 2  The Standard Transthoracic Echo Examination
+40
+◆
+◆PW sample volume at MV leaflet tips (Fig. 2.2.48A) for flow 
+profile (E, A, E/A)
+◆
+◆PW sample volume at MV ring level (Fig. 2.2.48B) for flow 
+quantification and A duration
+◆
+◆CW (Fig. 2.2.48C) for flow quantification (TVI) and gradient
+◆
+◆Normal values (Table 2.2.3)
+Pulmonary venous flow
+◆
+◆Apical 4CV
+◆
+◆PW 2–3 mm sample volume 0.5 cm within right upper 
+pulmonary vein (RUPV)
+◆
+◆Flow profile: systolic S, diastolic D, atrial reversal AR waves 
+(Fig. 2.2.49A)
+◆
+◆S/D ratio increases with age (see Fig. 2.2.49B—flow profile in 
+elderly patient)
+Table 2.2.3  Normal LV inflow values
+Measurement
+Age group (y)
+16–20
+21–40
+41–60
+> 60
+IVRT (ms)
+50 ± 9 (32–68)
+67 ± 8 (51–83)
+74 ± 7 (60–88)
+87 ± 7 (73–101)
+E/A ratio
+1.88 ± 0.45 (0.98–2.78) 1.53 ± 0.40 (0.73–2.33) 1.28 ± 0.25 (0.78–1.78) 0.96 ± 0.18 (0.6–1.32)
+EDT (ms)
+142 ± 19 (104–180)
+166 ± 14 (138–194)
+181 ± 19 (143–219)
+200 ± 29 (142–258)
+A duration (ms) 113 ± 17 (79–147)
+127 ± 13 (101–153)
+133 ± 13 (107–159)
+138 ± 19 (100–176)
+Figs 2.2.48  PW sample 
+volume at MV leaflet tips (A). 
+PW sample volume at MV 
+ring level (B). CW for flow 
+quantification and gradient 
+(C)
+A
+B
+C
+
+=== PAGE 64 (Bk 41) ===
+41
+The EACVI Echo Handbook
+◆
+◆S-wave blunted in significant MR (Fig. 2.2.49CD) and negative 
+in severe MR
+◆
+◆Normal values (Table 2.2.4)
+Descending aorta flow
+◆
+◆Suprasternal view (Fig. 2.2.50A)
+◆
+◆PW sample volume below the origin of the left subclavian 
+artery (Fig. 2.2.50B)
+◆
+◆CW in aortic coarctation (high flow velocity)
+◆
+◆Normal values (Table 2.2.5)
+Table 2.2.4  Normal PV flow values
+Measurement
+Age group (y)
+16–20
+21–40
+41–60
+>60
+PV S/D ratio
+0.82 ± 0.18 (0.46–1.18)
+0.98 ± 0.32 (0.34–1.62)
+1.21 ± 0.2 (0.81–1.61)
+1.39 ± 0.47 (0.45–2.33)
+PV Ar (cm/s)
+16 ± 10 (1–36)
+21 ± 8 (5–2.37)
+23 ± 3 (17–29)
+25 ± 9 (11–39)
+PV Ar duration (ms)
+66 ± 39 (1–144)
+96 ± 33 (30–162)
+112 ± 15 (82–142)
+113 ± 30 (53–173)
+Table 2.2.5  Normal descending aorta flow values
+Max velocity (m/s)
+Ejection time (ms)
+Acceleration time (ms) Acceleration (m/s2)
+1.07
+(0.59–1.75)
+261
+(202–302)
+91
+(70–122)
+12
+(5–19)
+S1
+S2
+D
+S
+D
+AR
+Figs 2.2.49AB  (A) Flow 
+profile. Flow profile in elderly 
+patient (B)
+A
+B
+
+=== PAGE 65 (Bk 42) ===
+Chapter 2  The Standard Transthoracic Echo Examination
+42
+Hepatic veins flow
+◆
+◆Subcostal view
+◆
+◆Flow profile (Fig. 2.2.51)
+◆
+◆forward systolic S and diastolic D waves
+◆
+◆+/− reverse ventricular v and atrial a waves
+◆
+◆In severe TR there is systolic flow reversal (Fig. 2.2.52)
+◆
+◆Respirometer: flow timing in restriction/constriction/tamponade
+Superior vena cava (SVC) flow
+◆
+◆Suprasternal and right supraclavicular view (Fig. 2.2.53)
+◆
+◆Flow profile (Fig. 2.2.54)
+◆
+◆forward systolic S and diastolic D waves
+S
+D
+Figs 2.2.49CD  S wave blunted in significant MR (C)
+C
+RUPV
+MR
+D
+Figs 2.2.50  (A) Descending aorta flow—suprasternal view. (B) PW sample volume 
+below the origin of the left subclavian artery
+A
+B
+v
+S
+D
+S
+D
+Inspiration
+Expiration
+a
+v
+a
+Fig. 2.2.51  Hepatic veins flow
+
+=== PAGE 66 (Bk 43) ===
+43
+The EACVI Echo Handbook
+◆
+◆+/− reverse ventricular v and atrial a waves
+◆
+◆Normal S/D ≥ 1 ≤ 2
+Flow-related calculations
+◆
+◆Stroke volume (SV)
+◆
+◆Cross-sectional area (CSA) × time velocity integral (TVI) 
+[Π × (D/2)2] × TVI (D = the diameter of the respective area 
+which is assumed circular)
+◆
+◆Cardiac output (CO)
+◆
+◆SV × heart rate
+◆
+◆Shunt calculation
+◆
+◆Pulmonary (Qp) to systemic (Qs) flow ratio (Qp:Qs)
+◆
+◆Qs = SVLV = [Π × (DLVOT/2)2] × TVILVOT
+S
+S
+S
+D
+D
+D
+Systolic flow reversal
+Fig. 2.2.52  Hepatic veins 
+flow
+Fig. 2.2.53  Superior vena 
+cava flow
+S
+v
+a
+D
+Fig. 2.2.54  Superior vena 
+cava flow
+Fig. 2.2.55  Shunt calculation. Trace LVOT velocity to measure TVI (A). Measure 
+DLVOT in systole on zoom image (B). Trace RVOT velocity to measure TVI (C). Measure 
+DRVOT in systole on zoom image (D)
+A
+C
+B
+D
+
+=== PAGE 67 (Bk 44) ===
+Chapter 2  The Standard Transthoracic Echo Examination
+44
+◆
+◆trace LVOT velocity to measure TVI (Fig. 2.2.55A)
+◆
+◆measure DLVOT in systole on zoom image (Fig. 2.2.55B)
+◆
+◆Qp = SVRV = [Π × (DRVOT/2)2] x TVIRVOT
+◆
+◆trace RVOT velocity to measure TVI (Fig. 2.2.55C)
+◆
+◆measure DRVOT in systole on zoom image (Fig. 2.2.55D)
+Intracardiac pressures
+◆
+◆Right atrial pressure (RAP)
+◆
+◆Estimated from the IVC diameter and its respiratory variation (Table 2.2.6)
+◆
+◆Measure IVC diameter in expiration and inspiration on 2D or M-mode
+◆
+◆The respirometer may help estimate the respiratory IVC diameter variation 
+(Fig. 2.2.56)
+◆
+◆RV systolic pressure (RVSP)/PA systolic pressure (PASP)
+◆
+◆In the absence of pulmonary stenosis RVSP = PASP
+Fig. 2.2.56  Right atrial pressure
+Table 2.2.6  IVC diameter and RAP estimation
+IVC diameter (cm)
+Reduction with inspiration
+RAP (mmHg)
+< 1.5
+Collapse
+0–5
+1.5–2.5
+> 50%
+5–10
+1.5–2.5
+< 50%
+10–15
+> 2.5
+< 50%
+15–20
+> 2.5
+no change
+> 20
+
+=== PAGE 68 (Bk 45) ===
+45
+The EACVI Echo Handbook
+◆
+◆The RVSP (PASP) is calculated using the TR velocity 
+(Fig. 2.2.57)
+◆
+◆4 (VTR)2 + RAP (VTR = TR maximal velocity)
+◆
+◆The calculation is not valid if there is:
+◆
+◆severe (free) TR
+◆
+◆tricuspid stenosis or tricuspid prosthetic valve
+◆
+◆RV systolic dysfunction (e.g. RV infarct)
+◆
+◆If there is no TR it does not mean that there is no 
+pulmonary hypertension
+◆
+◆In the presence of a VSD: RVSP = SBP – 4(VVSD)2
+◆
+◆SBP = systolic blood pressure VVSD = VSD LV→RV 
+flow velocity
+Pulmonary artery diastolic pressure (PADP)
+◆
+◆Is calculated using the PR velocity (Fig. 2.2.58)
+◆
+◆4 (VendPR)2 + RAP (VendPR = PR end-diastolic velocity)
+Pulmonary artery mean pressure (PAMP)
+◆
+◆Is calculated using the PR velocity (Fig. 2.2.58)
+◆
+◆4 (VearlyPR)2 + RAP (VearlyPR = PR early-diastolic velocity)
+LV diastolic pressure (LVDP)
+◆
+◆Can be calculated using the aortic regurgitation (AR) velocity 
+(Fig. 2.2.59)
+VearlyPR
+VendPR
+Fig. 2.2.58  Pulmonary artery 
+diastolic pressure
+VendAR
+Fig. 2.2.59  LV diastolic pressure
+Fig. 2.2.57  RV systolic 
+pressure/PA systolic pressure
+
+=== PAGE 69 (Bk 46) ===
+Chapter 2  The Standard Transthoracic Echo Examination
+46
+◆
+◆DBP – 4(VendAR)2 (DBP = diastolic blood pressure/VendAR 
+= AR end-diastolic velocity)
+◆
+◆Can be estimated from the LV inflow pattern
+Estimation of myocardial contractility based on dP/dt
+◆
+◆From CW Doppler envelope of mitral regurgitation (MR)
+◆
+◆Measure time from 1 m/s to 3 m/s MR velocity (Fig. 2.2.60) 
+(time from 4 mmHg to 36 mmHg–32 mmHg pressure 
+difference)
+◆
+◆dP/dt (mmHg/s) = 32 mmHg/time (s)
+◆
+◆Normal values > 1200 mmHg/s
+◆
+◆Load-independent parameter
+◆
+◆dP/dt is not a measure of MR severity
+Coronary flow—assessment of coronary flow reserve 
+(CFR)
+Coronary flow more likely accessible:
+◆
+◆Left anterior descending artery (LAD) flow (95% feasibility)
+◆
+◆use high-frequency imaging and low-aliasing velocity 
+colour Doppler to detect flow
+◆
+◆modified apical 3CV: distal-mid LAD aligned with antero-
+septum (Fig. 2.2.61AB)
+Fig. 2.2.60  Estimation of myocardial contractility
+
+=== PAGE 70 (Bk 47) ===
+47
+The EACVI Echo Handbook
+◆
+◆modified (medial) 4CV: distal LAD between LV and RV 
+apex (Fig. 2.2.61CD)
+◆
+◆Posterior descending artery (PDA) flow (60% feasibility)
+◆
+◆modified apical 3CV/2CV: PDA aligned with infero-
+posterior wall (Fig. 2.2.62AB)
+◆
+◆coronary flow profile:
+◆
+◆flow mainly diastolic
+◆
+◆lower systolic and higher diastolic velocity (Fig. 2.2.63)
+◆
+◆only diastolic velocity (Fig. 2.2.64)
+◆
+◆reversed flow in septal branches (Fig. 2.2.65ABC) or collateral 
+flow in blocked vessel
+Fig. 2.2.61  Left anterior descending artery flow
+A
+C
+B
+D
+Fig. 2.2.62  Posterior 
+descending artery
+A
+B
+
+=== PAGE 71 (Bk 48) ===
+Chapter 2  The Standard Transthoracic Echo Examination
+48
+◆
+◆coronary flow reserve (CFR)
+◆
+◆coronary vasodilatation obtained infusing:
+◆
+◆adenosine (149 mcg/kg/min)
+◆
+◆dipyridamole (0.84 mg/kg/min)
+◆
+◆CFR = vasodilatation to baseline peak diastolic velocity 
+ratio
+◆
+◆abnormal CFR ≤ 2
+Fig. 2.2.63  Posterior 
+descending artery
+S D
+Fig. 2.2.64  Posterior 
+descending artery
+D
+D
+A
+Fig. 2.2.65  Posterior descending artery
+C
+B
+
+=== PAGE 72 (Bk 49) ===
+49
+The EACVI Echo Handbook
+2.3  Functional echocardiography
+General considerations
+Functional imaging by modern echocardiography offers a variety of methods to 
+assess regional and global myocardial function beyond classic dimension, volume, 
+and ejection fraction measurements
+Information on myocardial function is extracted from echo images using either a 
+tissue Doppler or a speckle-tracking approach. Both approaches are valid and useful 
+but differ in their strengths and weaknesses, the optimal machine settings for image 
+acquisition, the way of post-processing, and the obtained parameters
+Four basic parameters are extracted:
+◆
+◆Velocity
+◆
+◆Motion (displacement)
+◆
+◆Strain rate (rate of deformation) (Table 2.3.3)
+◆
+◆Strain (deformation) (see Tables 2.3.4, 2.3.5, 2.3.6)
+All echocardiographic function parameters are load-dependent. When interpreting 
+functional imaging parameters, factors influencing regional myocardial fibre load, 
+such as chamber geometry, wall curvature, and thickness or cavity pressure, must be 
+considered
+
+=== PAGE 73 (Bk 50) ===
+Chapter 2  The Standard Transthoracic Echo Examination
+50
+Basic parameters
+◆
+◆Velocity
+◆
+◆Gradient base–apex (Fig. 2.3.1)
+◆
+◆Tethering effect (artefact) (Fig. 2.3.2)
+◆
+◆Motion (displacement)
+◆
+◆Strain rate (rate of deformation)
+◆
+◆Strain (deformation) (Fig. 2.3.3)
+Fig. 2.3.1  Velocity
+V
+1
+V
+2
+V
+3
+Vsu
+Vsum
+V
+1
+V
+3
+V
+2
+Fig. 2.3.2  Velocity
+V1
+Strain = ∫Strain rate dt
+d
+V2
+V1   V2
+d
+Strain rate =
+Fig. 2.3.3  Strain (deformation)
+
+=== PAGE 74 (Bk 51) ===
+51
+The EACVI Echo Handbook
+moving
+reflector
+echo 1
+echo 2
+echo 3
+echo ...
+pulse 1
+pulse 2
+pulse 3
+fast Fourier
+transform
+velocity
+spectrum
+amplitude
+time
+moving
+reﬂector
+echo 1
+echo 2
+pulse 1
+pulse 2
+auto
+correlation to
+measure
+phase shift
+colour-coded
+velocities
+Fig. 2.3.4B  Colour tissue Doppler—principle 
+Fig. 2.3.4A  Spectral tissue Doppler—principle
+Both pulsed-wave spectral tissue Doppler and colour tissue Doppler evaluate the phase shift between several ultrasound pulses. 
+The result is either displayed as velocity spectrum or colour coded in the image
+Tissue Doppler—principles (Figs. 2.3.4AB and 2.3.5AB)
+
+=== PAGE 75 (Bk 52) ===
+Chapter 2  The Standard Transthoracic Echo Examination
+52
+V
+SI
+tissue
+blood
+wall ﬁlter
+Fig. 2.3.5A  Wall filter
+Velocity signals from the tissue and the blood pool can be distinguished using a so-called 
+wall filter. Blood has low signal intensity and moves fast, while tissue has a high signal 
+intensity and moves at an order of magnitude slower
+longitudinal
+radial
+circum-
+ferential
+Fig. 2.3.5B  Motion direction
+Tissue Doppler measures velocities along the ultrasound beam which must therefore be carefully aligned with the wall (a). Only certain motion directions can 
+be measured, depending on the window used (b). See also Table 2.3.2
+a
+b
+
+=== PAGE 76 (Bk 53) ===
+53
+The EACVI Echo Handbook
+Tissue Doppler
+Data acquisition (Fig. 2.3.6AB)
+ECG
+velocity [cm/s]
+–6
+–4
+–2
+0
+2
+4
+6
+140 fps
+35 fps
+Fig. 2.3.6A  Sample volume position 
+In contrast to spectral Doppler, where sample 
+volumes are set during acquisition (a), colour 
+Doppler post-processing allows the retrospective 
+choice of sample volume position and even its 
+tracking (b)
+Fig. 2.3.6B  Acquisition settings
+High acquisition frame rate is important for 
+high temporal resolution of the colour Doppler 
+data. Note the blunting of the peaks (a). Other 
+settings are comparable to blood Doppler: 
+tissue priority (b), transparency (c), low velocity 
+reject, (d) and threshold (e)
+a
+b
+a
+b
+d
+c
+e
+
+=== PAGE 77 (Bk 54) ===
+Chapter 2  The Standard Transthoracic Echo Examination
+54
+0
+–1
+1
+Fig. 2.3.7A  Reverberation artefacts
+Reverberation artefacts appear as horizontal, bright stationary echoes (a) and disturb both tissue Doppler and speckle tracking analysis. They are hardly visible 
+in a tissue Doppler display (b), but during strain rate post-processing, they result in a zone of inverted signals (c,d) which can be best recognized in (c)
+a
+c
+b
+d
+
+=== PAGE 78 (Bk 55) ===
+55
+The EACVI Echo Handbook
+Fig. 2.3.7B  Aliasing artefacts
+Aliasing occurs when the velocity range is set too low. In spectral Doppler, the spectrum appears cut while the peak appears on the other side of the scale (a). 
+In colour tissue Doppler, data quality during strain/strain rate post-processing will be affected. Acquisitions should be carefully reviewed for sharp yellow–blue 
+colour changes (b) by slowly scrolling though the loop
+a
+b
+
+=== PAGE 79 (Bk 56) ===
+Chapter 2  The Standard Transthoracic Echo Examination
+56
+Post-processing (Figs. 2.3.8ABCD and 2.3.9AB)
+Fig. 2.3.8  Basic parameters of function imaging
+The figures show velocity (A), motion (B), strain rate (C), and strain (D) images with typical septal curves (yellow dot). Since 
+cardiac function is cyclic, the definition of baseline in motion and strain curves is arbitrary. In most applications, zero is defined 
+at end-diastole, usually derived from the ECG trigger signal (red arrows)
+AVO
+AVC
+MVO
+MVC
+AVO
+AVC
+MVO
+MVC
+AVO
+AVC
+MVO
+MVC
+[2mm]
+[0.5s–1]
+[5%]
+[2cm/s]
+AVO
+AVC
+MVO
+MVC
+A
+C
+B
+D
+
+=== PAGE 80 (Bk 57) ===
+57
+The EACVI Echo Handbook
+60ms
+AVO AVC MVO
+ECG
+MVC
++16
+cm/s
+–16
+0
+510ms
+Fig. 2.3.9A  Tissue synchronicity imaging
+Velocity data can also be colour coded for timing of events. 
+While regular colour tissue Doppler codes the velocity, tissue 
+synchronicity imaging codes the timing of the occurrence 
+of the systolic velocity peak. This type of display is intended 
+to visualize regional dyssynchrony. However, peak velocities 
+do not necessarily describe the timing of regional shortening 
+correctly
+0
+–10
+–20
+10
+[%]
+0
+–10
+–20
+10
+[%]
+Fig. 2.3.9B  Baseline drift compensation
+In both tissue Doppler and speckle tracking, a drift of the 
+baseline may be observed in motion and strain data for different 
+technical reasons. To compensate for this, a linear correction 
+is commonly applied (red arrow). With this, each cardiac cycle 
+starts at the defined baseline
+
+=== PAGE 81 (Bk 58) ===
+Chapter 2  The Standard Transthoracic Echo Examination
+58
+Speckle tracking
+Principles (Fig. 2.3.10AB)
+time
+frame 1
+frame 2
+frame 3
+Fig. 2.3.10A  Tracking features in the image
+In speckle tracking, complex image analysis software identifies features of the image (i.e. bright speckles, as indicated by the green dot) and follows them over 
+time from frame to frame. Analysing the displacement of several speckles over time allows to calculate motion, velocity, strain, and strain rate
+
+=== PAGE 82 (Bk 59) ===
+59
+The EACVI Echo Handbook
+Fig. 2.3.10B  Careful visual verification of the tracking result
+Speckle tracking relies on following a certain image feature from frame to frame. This principle depends strongly on good image 
+quality and may fail. A careful visual verification of the tracking result is always mandatory. Segments, in which tracking lines 
+(points do not follow the myocardium (red arrows)) must be excluded from further analysis
+
+=== PAGE 83 (Bk 60) ===
+Chapter 2  The Standard Transthoracic Echo Examination
+60
+Post-processing (Fig. 2.3.11AB)
+Fig. 2.3.11B  Display options
+Speckle tracking offers a lot of post-processing options. Similar 
+to tissue Doppler, colour coding, curve displays, and curved 
+M-modes are available (a). In addition, colour-coded bull’s 
+eye displays offer a good overview over regional ventricular 
+function (b).
+a
+distance
+[mm]
+apical
+rotation
+[º]
+twist [º]
+(simple difference)
+Global
+longitudinal
+strain
+torsion [º/mm]
+(difference,
+normalized
+to the distance)
+basal
+rotation
+[º]
+Fig. 2.3.11A  Twist, torsion, and global longitudinal strain
+(a) Speckle tracking allows to calculate twist and torsion. 
+(b) Global longitudinal strain is defined as the deformation of 
+the myocardium parallel with the endocardium. Measuring may 
+be done mid-wall or subendocardially.
+a
+b
+b
+
+=== PAGE 84 (Bk 61) ===
+61
+The EACVI Echo Handbook
+Data analysis and measurements (Figs. 2.3.12AB and 
+2.3.13AB)
+Fig. 2.3.12A  Timing of cardiac events
+A correct data analysis requires certainty about timing. In particular, 
+aortic valve closure (AVC) as marker of end-systole is relevant for 
+many measurements. In regular heart rhythm, blood Doppler traces 
+of the aortic and mitral valve may be used as reliable indicators.
+ET
+F
+IVC
+IVR
+mitral
+inflow
+aortic
+outflow
+ECG
+AVC
+AVO
+MVC
+MVO
+MVC
+Fig. 2.3.12B  Regional 
+differences
+Function data may differ by 
+region. Septal data usually have 
+lower values and a round shape 
+in systole (Table 2.3.1). Lateral 
+data show higher peaks and 
+have a double peak in systole. 
+Valve timing should be used 
+to differentiate peaks from 
+different time intervals.
+
+=== PAGE 85 (Bk 62) ===
+Chapter 2  The Standard Transthoracic Echo Examination
+62
+Fig. 2.3.13A  Strain amplitude vs strain curve shape
+In principle, deformation data may differ in amplitude (a) or in shape (b). The latter is a strong indicator of regional function 
+inhomogeneity as it occurs in scar tissue, ischaemic regions or in a dyssynchronous LV.
+a
+0
+ET
+ET
+–10
+–20
+[%]
+b
+Fig. 2.3.13B  Post-systolic shortening
+Post systolic shortening (PSS) is a 
+sensitive indicator of regional function 
+inhomogeneity. It appears in scar and 
+indicates ischaemia during a stress 
+echo. Minor PSS with normal systolic 
+shortening may be physiologic (a). 
+Reduced systolic function and PSS 
+of > 25% of the curve amplitude is 
+pathologic (b).
+a
+0
+–10
+–20
+AVO
+AVC
+MVO
+MVC
+PSS
+0
+–5
+–10
+AVO
+AVC
+MVO
+MVC
+PSS
+b
+
+=== PAGE 86 (Bk 63) ===
+63
+The EACVI Echo Handbook
+Reference Values
+Table 2.3.1  Longitudinal tissue Doppler 
+velocities (cm/s)
+Wall
+Level
+Systole
+e’-wave
+a’-wave
+LV septal
+apical
+3.2 ± 0.9
+4.3 ± 1.9
+2.7 ± 1.1
+medial
+5.4 ± 0.9
+9.9 ± 2.9
+6.2 ± 1.5
+basal
+7.8 ± 1.1
+11.2 ± 1.9 7.8 ± 2.0
+LV lateral
+apical
+6.0 ± 2.3
+5.5 ± 2.7
+3.0 ± 2.4
+medial
+9.8 ± 2.3
+12.0 ± 3.3 5.7 ± 2.4
+basal
+10.2 ± 2.1 14.9 ± 3.5 6.6 ± 2.4
+LV inferior
+apical
+4.0 ± 1.7
+5.2 ± 2.4
+2.9 ± 1.8
+medial
+6.6 ± 0.7
+9.1 ± 2.7
+6.4 ± 1.8
+basal
+8.7 ± 1.3
+12.4 ± 3.8 7.9 ± 2.5
+LV anterior apical
+4.0 ± 1.5
+3.9 ± 1.1
+2.0 ± 1.5
+medial
+7.7 ± 2.2
+10.4 ± 3.0 5.5 ± 1.7
+basal
+9.0 ± 1.6
+12.8 ± 3.0 6.5 ± 1.6
+RV free wall apical
+7.0 ± 1.9
+8.1 ± 3.4
+5.6 ± 2.4
+medial
+9.6 ± 2.1
+10.6 ± 2.6 9.7 ± 3.3
+basal
+12.2 ± 2.6 12.9 ± 3.5 11.6 ± 4.1
+Table 2.3.2  Radial and circumferential velocities (cm/s)
+Radial
+Circumferential
+anteroseptal
+anterior
+posterior inferior
+septal
+lateral
+Medial 1.94 ± 2.15
+2.66 ± 1.89 4.78 ± 1.53 4.93 ± 1.45 3.31 ± 1.99 1.94 ± 2.15
+Basal
+1.92 ± 2.32
+2.64 ± 1.85 4.65 ± 1.51 4.85 ± 1.37 3.25 ± 2.02 4.16 ± 1.24
+
+=== PAGE 87 (Bk 64) ===
+Chapter 2  The Standard Transthoracic Echo Examination
+64
+Table 2.3.3  Regional strain rate (1/s)
+LV wall
+Level
+Systole
+e’-wave
+a’-wave
+lateral
+apical
+−1.93 ± 0.70
+2.23 ± 1.09
+0.61 ± 0.14
+medial
+−1.25 ± 0.40
+2.45 ± 0.29
+1.30 ± 1.17
+basal
+−1.23 ± 0.30
+2.16 ± 0.95
+1.12 ± 0.57
+septal
+apical
+−0.98 ± 0.31
+2.12 ± 0.52
+0.70 ± 0.26
+medial
+−1.33 ± 0.19
+2.01 ± 0.33
+1.22 ± 0.63
+basal
+−1.15 ± 0.18
+2.02 ± 0.30
+1.27 ± 0.44
+anteroseptal
+apical
+−1.04 ± 0.45
+1.86 ± 0.71
+0.91 ± 0.17
+medial
+−1.43 ± 0.27
+2.11 ± 0.80
+1.28 ± 0.46
+basal
+−1.22 ± 0.22
+1.54 ± 0.38
+1.11 ± 0.59
+posterior
+apical
+−1.32 ± 0.40
+2.04 ± 0.94
+0.97 ± 0.86
+medial
+−1.13 ± 0.51
+1.86 ± 0.65
+1.05 ± 0.70
+basal
+−1.54 ± 0.39
+2.67 ± 0.74
+0.78 ± 0.47
+anterior
+apical
+−1.32 ± 0.89
+1.42 ± 0.74
+0.91 ± 0.52
+medial
+−1.17 ± 0.42
+1.95 ± 0.49
+0.99 ± 0.67
+basal
+−1.51 ± 0.33
+1.97 ± 0.53
+1.60 ± 0.58
+inferior
+apical
+−1.34 ± 0.26
+1.55 ± 0.85
+0.97 ± 0.77
+medial
+−1-32 ± 0.60
+1.66 ± 0.31
+1.31 ± 0.77
+basal
+−1.14 ± 0.15
+1.90 ± 0.46
+1.00 ± 0.45
+
+=== PAGE 88 (Bk 65) ===
+65
+The EACVI Echo Handbook
+Table 2.3.4  Regional strain
+Study
+Method
+n
+Age (y)
+Mean strain 
+(%)
+Septal (%)
+Lateral (%)
+Inferior (%)
+Anterior 
+(%)
+Edvardsen et al.
+DTI
+33
+41 + 13
+19 + 4
+Basal
+17 + 3
+18 + 4
+20 + 4
+19 + 4
+Apical
+19 + 4
+17 + 3
+21 + 2
+18 + 5
+Kowalski et al.
+DTI
+40
+29 + 5
+17 + 5
+Basal
+21 + 5
+13 + 4
+15 + 5
+17 + 6
+Midventricular
+21 + 5
+14 + 4
+16 + 5
+17 + 6
+Apical
+23 + 4
+15 + 5
+18 + 5
+18 + 6
+Sun et al.
+DTI
+100
+43 + 15
+18 + 5
+Basal
+18 + 5
+18 + 7
+15 + 6
+22 + 8
+Midventricular
+18 + 1
+19 + 5
+14 + 5
+18 + 6
+Apical
+19 + 6
+18 + 6
+24 + 5
+13 + 6
+Marwick et al.
+2D STE
+242
+51 + 12
+19 + 5
+Basal
+14 + 4
+18 + 5
+17 + 4
+20 + 4
+Midventricular
+19 + 3
+18 + 3
+20 + 4
+19 + 3
+Apical
+22 + 5
+19 + 5
+23 + 5
+19 + 5
+
+=== PAGE 89 (Bk 66) ===
+Chapter 2  The Standard Transthoracic Echo Examination
+66
+Table 2.3.6  Normal LV strain values according to vendors’ specific 
+equipment and software
+Vendor
+Software
+n
+Mean
+SD
+LLN
+Varying
+Meta-analysis
+2597
+−19.7%
+–
+n/a
+GE
+EchoPac BT 12
+247
+−21.5%
+2.0%
+−18%
+EchoPac BT 12
+207
+−21.2%
+1.6%
+−18%
+EchoPac BT 12
+131
+−21.2%
+2.4%
+−17%
+EchoPac 110.1.3
+133
+−21.3%
+2.1%
+−17%
+Philips
+Qlab 7.1
+330
+−18.9%
+2.5%
+−14%
+Toshiba
+UltraExtend
+337
+−19.9%
+2.4%
+−15%
+Siemens
+VVI
+116
+−19.8%
+4.6%
+−11%
+VVI
+82
+−17.3%
+2.3%
+−13%
+Esaote
+Mylab 50
+30
+−19.5%
+3.1%
+−13%
+Table 2.3.5  Global strain
+Parameter
+Mean
+Range
+95% CI
+GLS
+−19.7%
+(−15.9%, −22.1%)
+(−18.9%, −20.4%)
+GCS
+−23.3%
+(−20.9%, −27.8%)
+(−24.6%, −22.1%)
+GRS
++47.3%
+(+35.1%, +59.0%)
+(+43.6%, +51.0%)
+
+=== PAGE 90 (Bk 67) ===
+67
+The EACVI Echo Handbook
+Suggested reading
+1.	 Mor-Avi V, Lang RM, Badano LP, et al. Current and evolving echocardiographic techniques 
+for the quantitative evaluation of cardiac mechanics: ASE/EAE consensus statement on 
+methodology and indications endorsed by the Japanese Society of Echocardiography. Eur J 
+Echocardiogr 2011;12:167–205.
+2.	 Garcia-Fernandez MA, Azavedo J, Moreno M. Relation between transversal and longitudi-
+nal planes in the calculation of left ventricular myocardial isovolumic relaxation time using 
+pulsed Doppler tissue imaging. J Am Soc Echo 1997;10:438.
+3.	 Kukulski T, Voigt JU, Wilkenshoff UM, et al. A comparison of regional myocardial velocity 
+information derived by pulsed and color Doppler techniques: an in vitro and in vivo study. 
+Echocardiography 2000;17:639–51.
+4.	 Voigt JU, Arnold MF, Karlsson M, et al. Assessment of regional longitudinal myocardial 
+strain rate derived from Doppler myocardial imaging indices in normal and infarcted myo-
+cardium. J Am Soc Echo 2000 13:588–598
+5.	 Yingchoncharoen T, Agarwal S, Popović ZB, et al. Normal ranges of left ventricular strain: a 
+meta-analysis. J Am Soc Echocardiogr 2013;26:185–91.
+6.	 Lang R, Badano LP, Mor-Avi V, et al. Recommendations for Cardiac Chamber Quantifica-
+tion by Echocardiography: An Update from the American Society of Echocardiography 
+and the European Association of Cardiovascular Imaging. Eur Heart J Cardiovasc Imag, 
+2015;28(1):1–39.
+
+=== PAGE 91 (Bk 68) ===
+Chapter 2  The Standard Transthoracic Echo Examination
+68
+2.4  3D echocardiography
+3D echocardiography
+Provides real-time or near real-time three-dimensional images 
+of the heart in motion
+◆
+◆Allows inspection and display of cardiac structures from all 
+perspectives based on cropping and rendering (‘electronic 
+dissection’ of the heart in motion)
+◆
+◆Temporal resolution (volume rate or frame rate)/spatial 
+resolution (line density) trade-off
+◆
+◆Specific artefacts:
+◆
+◆Stitching artefact
+◆
+◆obvious demarcation of sub-volumes in multi-cycles 
+acquisition (Fig. 2.4.1)
+◆
+◆how to avoid:
+◆
+◆ask the patient to hold their breath on inspiration
+◆
+◆use real-time 3D (Fig. 2.4.2 real-time 3D in the same 
+patient as in Fig. 2.4.1)
+◆
+◆wait for a more regular RR interval in case of arrhythmia
+◆
+◆Dropout artefact
+◆
+◆false solutions of continuity due to low gain (Fig. 2.4.3)
+◆
+◆how to avoid → use higher gain than for 2D (Fig. 2.4.4)
+Fig. 2.4.1  Stitching artefact
+Fig. 2.4.2  Stitching artefact
+Fig. 2.4.3  Dropout artefact
+Fig. 2.4.4  Dropout artefact
+
+=== PAGE 92 (Bk 69) ===
+69
+The EACVI Echo Handbook
+Modalities of image acquisition and display
+Image acquisition
+◆
+◆Simultaneous multi-plane
+◆
+◆uses 3D probe to provide simultaneously live 2D images from two or three 
+planes
+◆
+◆Real-time (live) 3D
+◆
+◆image acquired within one cardiac cycle and available during acquisition
+→ no stitching artefact (due to motion, breathing, or arrhythmia)
+→ lower temporal/spatial resolution
+◆
+◆ECG gated multi-beat 3D imaging
+◆
+◆image acquired over two to seven cardiac cycles and available after stitching
+→ higher temporal/spatial resolution
+→ stitching artefact (acquire during breath hold, avoid RR variation)
+Image display
+◆
+◆Full volume
+◆
+◆external view of the complete 3D dataset acquired (Fig. 2.4.5)
+◆
+◆Cropped volume
+◆
+◆dataset ‘dissected’ to reveal cardiac structures of interest/to allow internal view
+◆
+◆cropped
+Fig. 2.4.5  External view of the 
+complete 3D dataset acquired
+
+=== PAGE 93 (Bk 70) ===
+Chapter 2  The Standard Transthoracic Echo Examination
+70
+→ on-line → better spatial/temporal resolution but possible 
+information loss
+→ off-line → retains information (full volume can be 
+restored)
+◆
+◆cropped:
+◆
+◆using standard cropping planes to reveal views similar 
+with standard 2D views
+◆
+◆Example: volume cropped on LV PTSAX plane 
+(Fig. 2.4.6)
+◆
+◆using adjustable cropping planes to reveal structures or 
+colour flow
+◆
+◆Example: TR jet ‘dissected’ from surrounding tissue 
+data (Fig. 2.4.7)
+◆
+◆current echo machines display the volume reversibly 
+cropped on PTSAX or 4CV plane
+Processed volume
+◆
+◆Volume rendered
+◆
+◆processed to enhance 3D appearance/anatomy-like 
+appearance
+◆
+◆Example: volume rendered cropped LV 3D (Fig. 2.4.8)
+◆
+◆Example: anatomy like MV:LV view (Fig. 2.4.9), LA view 
+(Fig. 2.4.10)
+Fig. 2.4.7  TR jet ‘dissected’ from surrounding 
+tissue data
+Fig. 2.4.6  Volume cropped on LV PTSAX plane
+
+=== PAGE 94 (Bk 71) ===
+71
+The EACVI Echo Handbook
+Surface rendered
+◆
+◆display of surface traced during analysis
+◆
+◆Example: endocardial surface rendering of LV (Fig. 2.4.11) 
+and RV diastole (Fig. 2.4.12) and systole (Fig. 2.4.13)
+2D sliced
+◆
+◆display of 2D slices derived from the 3D volume
+◆
+◆adjustable level and orientation of slicing plane
+◆
+◆Example: LV 2D slices (Fig. 2.4.14) 4CV, 2CV, 3CV, and 
+9 SAX views
+◆
+◆Example: colour Doppler slices (Fig. 2.4.15) to measure MR 
+EROA
+Fig. 2.4.8  Volume rendered 
+cropped LV 3D
+Fig. 2.4.9  Anatomy with MV: 
+LV view
+Fig. 2.4.10  LA view
+Fig. 2.4.11  Endocardial 
+surface rendering of LV
+Fig. 2.4.12  RV diastole
+Fig. 2.4.13  RV systole
+
+=== PAGE 95 (Bk 72) ===
+Chapter 2  The Standard Transthoracic Echo Examination
+72
+Modalities: how and when?
+Simultaneous multi-plane
+◆
+◆multi-plane (biplane and tri-plane)/X-plane (biplane)
+◆
+◆the first image is the reference image—the second and third 
+image are derived images
+◆
+◆the level of reference/derived image plane intersection can be 
+adjusted
+◆
+◆Example: biplane (X-plane) to locate MV flail scallop. LAX 
+derived from PTSAX at level of central scallops P2–A2 
+(Fig. 2.4.16) and medial scallops P3–A3 (Fig. 2.4.17). Flail 
+posterior scallop P2
+Fig. 2.4.15  Colour Doppler slices to measure MR 
+EROA
+Fig. 2.4.14  LV 2D slices, 4CV, 2CV, 3CV and 9 SAX views 
+Fig. 2.4.16  LAX derived from PTSAX at level of central scallops 
+P2-A2 
+
+=== PAGE 96 (Bk 73) ===
+73
+The EACVI Echo Handbook
+◆
+◆the rotation angle of the derived image(s) plane can be 
+adjusted
+◆
+◆Example: LV tri-plane standard (Fig. 2.4.18)/adjusted 
+rotation angle (Fig. 2.4.19) for better 3CV
+◆
+◆multi-plane colour Doppler/DTI—assessment during the 
+same cardiac cycle
+◆
+◆Example: tri-plane DTI in AF (Fig. 2.4.20) and colour 
+Doppler in eccentric MR (Fig. 2.4.21)
+Real-time (live) 3D
+◆
+◆the sector size can be adjusted but the higher the sector size 
+the lower the frame rate
+◆
+◆the frame rate can be adjusted but the higher the frame rate 
+the lower the line density
+Fig. 2.4.20  Tri-plane DTI in AF
+Fig. 2.4.17  Medial scallops P3-A3
+Fig. 2.4.18  LV tri-plane standard
+Fig. 2.4.19  Adjusted rotation angle 
+for better 3CV
+
+=== PAGE 97 (Bk 74) ===
+Chapter 2  The Standard Transthoracic Echo Examination
+74
+◆
+◆real-time 3D is used for 3D TOE guidance of procedures
+◆
+◆real-time 3D modes available depending on echo machine 
+characteristics:
+Narrow-sector
+◆
+◆encompasses only a limited part of the heart
+→ cannot encompass the entire LV (Fig. 2.4.22)
+→ can be used to assess valves
+◆
+◆Example: MV LV view (Fig. 2.4.23) and LA (surgical) view 
+(Fig. 2.4.24)
+◆
+◆has relatively high temporal/spatial resolution
+Wide-sector
+◆
+◆wide-angle/one cardiac cycle (one heart beat) full volume 
+(Fig. 2.4.25)
+→ can be used in case of arrhythmia to avoid stitching 
+artefact
+◆
+◆Example: LV in patient with AF (Fig. 2.4.26)
+◆
+◆can have acceptable temporal/spatial resolution
+Zoom
+◆
+◆focused wide-sector
+→ can be used to assess valves
+Fig. 2.4.21  Colour Doppler in 
+eccentric MR
+Fig. 2.4.22  Narrow sector
+Fig. 2.4.23  Narrow sector
+Fig. 2.4.24  Narrow sector
+Fig. 2.4.25  Wide 
+sector
+
+=== PAGE 98 (Bk 75) ===
+75
+The EACVI Echo Handbook
+◆
+◆Example: MV zoom surgical view in patient with AF (Fig. 2.4.27)
+◆
+◆reduce sector width to improve temporal/spatial resolution
+Colour Doppler
+◆
+◆smaller sector size than for narrow-sector 3D
+→ can be used to detect the origin of flow—the abnormal orifice
+◆
+◆Example: LV inflow—colour-flow aliasing due to MS (Fig. 2.4.28)
+◆
+◆reduce sector width to a minimum for acceptable temporal resolution
+ECG gated multi-beat 3D imaging
+◆
+◆we can select the number of beats (n) to stitch (from two to seven)
+◆
+◆the image is split in n sub-volumes
+◆
+◆almost real-time
+Fig. 2.4.26  Wide sector
+Fig. 2.4.28  LV inflow
+Fig. 2.4.27  MV zoom 
+surgical view in patient 
+with AF
+
+=== PAGE 99 (Bk 76) ===
+Chapter 2  The Standard Transthoracic Echo Examination
+76
+◆
+◆each sub-volume is acquired in one beat → the full volume is acquired in n beats
+◆
+◆after n beats the image appears ‘real-time’ → ‘almost real-time’
+◆
+◆we can display the dataset as full-volume pyramid (Fig. 2.4.29) or cropped 
+volume (Fig. 2.4.30ABC) together with derived 2D images (A) or alone (BC)
+◆
+◆we can crop the volume in any plane and at any level
+◆
+◆Example: MV level PTSAX (Fig. 2.4.30A), PM level PTSAX (Fig. 2.4.30B), 4CV 
+(Fig. 2.4.30C)
+◆
+◆a marker on the ECG (Figs. 2.4.29–30ABC) reveals ECG gated multi-beat 
+acquisition
+◆
+◆has higher frame rate
+→ can use for LV function analysis for good frame rate despite wide sector
+→ can trade in frame rate for better line density (image quality) in assessment of 
+valves
+→ can use for colour Doppler assessment to ensure better volume rate
+Fig. 2.4.29  ECG gated multi-beat 
+3D imaging
+Fig. 2.4.30  ECG gated 
+multi-beat 3D imaging
+A
+B
+C
+
+=== PAGE 100 (Bk 77) ===
+77
+The EACVI Echo Handbook
+◆
+◆Example: multi-beat TR colour Doppler (Fig. 2.4.31) and 3D-guided 2D slices 
+(multi-planar reconstruction, MPR) reveals TR in 4CV and perpendicular view and 
+allows vena contracta area (EROA) measurement in transverse plane at the level of 
+the vena contracta (Fig. 2.4.32)
+Windows and views
+All echo windows can be used to acquire 3D datasets
+◆
+◆Conventional views can be obtained by cropping and rendering 3D volumes
+◆
+◆Example: apical 4CV, 2CV, and 3CV (Fig. 2.4.33) obtained by cropping and 
+rendering from apical full-volume dataset (Fig. 2.4.34)
+Fig. 2.4.31  Multi-beat TR 
+colour Doppler
+Fig. 2.4.32  Transverse plane at the level of the vena 
+contracta
+Fig. 2.4.33  Apical 
+4CV, 2CV and 3CV
+
+=== PAGE 101 (Bk 78) ===
+Chapter 2  The Standard Transthoracic Echo Examination
+78
+◆
+◆Example: RV 4CV, outflow, and inflow views (Fig. 2.4.35) from apical 3D dataset
+◆
+◆Conventional views can be also obtained by using the desired view as reference 
+for 3D dataset acquisition, positioning the 3D transducer similarly with the 2D 
+transducer for the same view
+◆
+◆Example: parasternal views obtained in real time: PTLAX (Fig. 2.4.36A), PTSAX 
+at the level of the great arteries (Fig. 2.4.36B), of the mitral valve (Fig. 2.4.36C), of 
+the papillary muscles (Fig. 2.4.36D), and of the cardiac apex (Fig. 2.4.36E)
+The 3D echocardiographic examination
+Focused examination
+◆
+◆Complete 2D examination and 3D examination focused only on the clinical 
+question
+◆
+◆Example: 3D dataset for LV systolic function assessment (Fig. 2.4.37) needs low 
+depth imaging (LV only) and multi-beat acquisition (higher frame rate)
+Fig. 2.4.34  Cropping and 
+rendering from apical full volume 
+dataset
+Fig. 2.4.35  Apical 3D dataset
+
+=== PAGE 102 (Bk 79) ===
+79
+The EACVI Echo Handbook
+◆
+◆Example: 3D dataset for MS assessment with MV 
+3D-guided 2D planimetry using multi-slice (Fig. 2.4.38) 
+or multi-planar reconstruction for measurement plane 
+orthogonal alignment at the leaflet tips. One-beat (real-
+time) acquisition can be used in AF. Zoom can be used for 
+better resolution
+◆
+◆Example: 3D dataset for morphological valve assessment 
+needs optimization of image resolution by trading in frame 
+rate if possible and using zoom (real-time or multi-beat). 
+Volume rendering and cropping plane adjustment better 
+reveal morphology. Example of TV assessment in diastole 
+(Fig. 2.4.39) and in systole (Fig. 2.4.40)
+Complete examination
+◆
+◆multiple 3D datasets from all windows
+◆
+◆real-time +/− multi-beat acquisition +/− zoom in both modes
+Fig. 2.4.38  3D dataset for MS 
+assessment
+Fig. 2.4.37  3D 
+dataset for 
+LV systolic 
+function 
+assessment
+Fig. 2.4.36  Parasternal views 
+obtained in real time. PTLAX 
+(A). PTSAX at the level of the 
+great arteries (B). The mitral 
+valve (C). Papillary muscles (D). 
+Cardiac apex (E)
+A
+B
+C
+E
+D
+
+=== PAGE 103 (Bk 80) ===
+Chapter 2  The Standard Transthoracic Echo Examination
+80
+◆
+◆based on cropping plane adjustment, cropping can generate:
+◆
+◆conventional views
+◆
+◆anatomic views
+◆
+◆Example: base of the heart view (Fig. 2.4.41)
+◆
+◆a whole heart full volume can be obtained and used to analyse 
+all structures
+◆
+◆for better image quality (frame rate/line density) consider 
+specific 3D datasets for each structure (Table 2.4.1)
+Fig. 2.4.39  Example of TV 
+assessment in diastole
+Fig. 2.4.40  Example of TV 
+assessment in systole
+Table 2.4.1  Adapted from Recommendations for image acquisition and display using 3D echocardiography
+LV/RV
+MV
+TV
+Apical dataset 
+(4CV/modified 4CV for RV)  
+real-time (wide-angle)  
+multi-beat
+Apical dataset +/− colour 
+(4CV)  
+real-time (narrow-angle)/zoom real-time 
+multi-beat/zoom multi-beat 
+Parasternal dataset +/− colour 
+(PTLAX)  
+real-time (narrow-angle)/zoom real-time 
+multi-beat/zoom multi-beat
+Apical dataset +/− colour 
+(modified 4CV as for RV)  
+real-time (narrow-angle)/zoom real-time 
+multi-beat/zoom multi-beat 
+Parasternal dataset +/− colour 
+(RV inflow)  
+real-time (narrow-angle)/zoom real-time 
+multi-beat/zoom multi-beat
+IAS/IVS
+AV
+PV
+Apical dataset 
+(4CV) 
+real-time (narrow-angle)/zoom real-time 
+multi-beat/zoom multi-beat
+Parasternal dataset +/− colour 
+(PTLAX)
+real-time (narrow-angle)/zoom real-time 
+multi-beat/zoom multi-beat
+Parasternal dataset +/− colour 
+(RVOT view)  
+real-time (narrow-angle)/zoom real-time 
+multi-beat/zoom multi-beat
+
+=== PAGE 104 (Bk 81) ===
+81
+The EACVI Echo Handbook
+LV segmentation
+◆
+◆See standard LV segmentation in Chapter 2.1
+◆
+◆Assessment of myocardial segments/regional wall motion is 
+performed on 2D images obtained with the 3D probe (one 
+plane or multi-plane imaging), or on 2D images derived from 
+3D datasets
+◆
+◆3D echocardiography allows correct myocardial segmentation 
+through:
+◆
+◆cutting planes alignment to avoid foreshortening → better 
+visualization of apical segments
+◆
+◆cutting planes alignment perpendicular to LV walls → 
+better LV SAX images at multiple levels
+◆
+◆recognition of spatial orientation of cutting planes → better 
+prediction of myocardial territories
+◆
+◆When using simultaneous multi-plane imaging → adjust 
+imaging planes to obtain correct standard 2D views for LV 
+segmentation (Figs. 2.4.18 and 2.4.19)
+◆
+◆When parasternal views are poor → derive LV SAX from 
+apical 3D dataset (Fig. 2.4.14)
+◆
+◆When using 3D-derived 2D views → adjust cutting planes 
+orientation to obtain correct standard 2D views, to assess 
+myocardial segments in all coronary territories or to reveal 
+pathology
+Fig. 2.4.42  4CV view with anterior orientation
+Fig. 2.4.41  Base of the heart 
+view
+
+=== PAGE 105 (Bk 82) ===
+Chapter 2  The Standard Transthoracic Echo Examination
+82
+◆
+◆Example: 4CV view with anterior orientation of the cutting plane (Fig. 2.4.42) 
+reveals anterolateral wall (LAD/diagonal territory) while 4CV with posterior 
+orientation of the cutting plane (Fig. 2.4.43) reveals posterolateral wall (LCx 
+territory). 3D allows recognition of cutting plane orientation, while if the 4CV is 
+obtained with a 2D transducer the plane orientation is not defined
+◆
+◆Example: LV 3D wall-motion analysis: automatic 2D slicing (Fig. 2.4.44) can 
+be manually adjusted. Alignment with LV long axis avoids foreshortening 
+(Fig. 2.4.45). Automatic slicing (like opening a book) displays the inferior wall 
+on the right side of 2CV (Figs. 2.4.44 and 2.4.45). Plane rotation 180º brings 
+the inferior wall on the left side of 2CV and improves orientation guided by 
+the SAX view (Fig. 2.4.46). Planes rotation generates any views: 4CV and 3CV 
+Fig. 2.4.43  4CV with posterior 
+orientation
+Fig. 2.4.44  LV 3D wall motion analysis
+Fig. 2.4.45  Alignment with LV long axis
+Fig. 2.4.46  Improving orientation guided by the 
+SAX view
+
+=== PAGE 106 (Bk 83) ===
+83
+The EACVI Echo Handbook
+(Fig. 2.4.47), or 2CV and 3CV (Fig. 2.4.48). Cutting plane anterior translation 
+reveals the anterior part of the lateral wall obtaining 5CV (Fig. 2.4.49)
+Measurements and chamber quantification
+Linear dimensions and areas
+◆
+◆Measured on 3D-guided 2D or on volumetric rendered images
+◆
+◆3D-guided 2D measurements are better aligned than 2D measurements
+◆
+◆Example: for MV area 3D-guided 2D planimetry the cutting planes are aligned 
+perpendicular to the funnel at the level of the leaflet tips (Fig. 2.4.50). The level 
+and orientation of the 2D parasternal MV SAX is not precisely determined.
+Fig. 2.4.47  4CV and 3CV views
+Fig. 2.4.48  2CV and 3CV views
+Fig. 2.4.49  Obtaining 5CV
+
+=== PAGE 107 (Bk 84) ===
+Chapter 2  The Standard Transthoracic Echo Examination
+84
+◆
+◆Example: for LVOT area 3D-guided 2D planimetry the cutting plane is aligned 
+perpendicular to the LVOT long axis (Fig. 2.4.51)
+◆
+◆Measurements performed on volume-rendered images are not accurate because 
+they are highly dependent on image processing
+◆
+◆Example: IVS dimension measured on volume-rendered 3D PTSAX: small 
+change in image processing results in ~30% higher measurement value 
+(Fig. 2.4.52AB)
+Volumes, ejection fraction, and mass
+◆
+◆LV volumes (EDV, ESV, SV) and EF (Fig. 2.4.53)
+◆
+◆use low depth and check that LV cavity fits in at end-diastole
+◆
+◆use preferably multi-beat 3D for better frame rate
+◆
+◆low frame rate overestimates ESV so underestimates EF
+◆
+◆align LV long axis and correct semi-automatic endocardial borders
+Fig. 2.4.50  MV area: 3D-guided 2D 
+planimetry
+Fig. 2.4.51  LVOT area: 3D-guided 2D planimetry
+Fig. 2.4.52  IVS dimension 
+measured on volume-
+rendered 3D PTSAX: small 
+change in image processing 
+results in ~30% higher 
+measurement value
+A
+B
+
+=== PAGE 108 (Bk 85) ===
+85
+The EACVI Echo Handbook
+◆
+◆trace LV cavity including trabeculations within the cavity
+◆
+◆EF is calculated both using operator selected end-diastole and end-systole and 
+using the larger and smaller volumes
+◆
+◆RV volumes (EDV, ESV, SV) and EF (Fig. 2.4.54)
+◆
+◆RV wraps around LV so do not restrict sector width to RV in 4CV
+◆
+◆use low depth and check that the RV cavity fits in at end-diastole
+◆
+◆use multi-beat for higher frame rate
+◆
+◆correct semi-automatic endocardial borders
+◆
+◆the image quality is not always appropriate
+Fig. 2.4.53  LV volumes (EDV, ESV, SV) and EF
+Fig. 2.4.54  RV volumes (EDV, ESV, SV) and EF
+
+=== PAGE 109 (Bk 86) ===
+Chapter 2  The Standard Transthoracic Echo Examination
+86
+◆
+◆LV mass (Fig. 2.4.55)
+◆
+◆the entire LV has to fit in at the end-diastole (challenging 
+for large LV)
+◆
+◆higher sector width results in lower frame rate
+◆
+◆recognizing and tracing the epicardial surface is challenging
+◆
+◆correct semi-automatic endocardial and epicardial borders
+Size of septal defects
+◆
+◆3D-guided 2D measurements or measurements on volume-
+rendered images
+◆
+◆mainly on 3D TOE → be aware of interatrial septum (thin 
+structure) dropout artefacts
+LV dyssynchrony
+◆
+◆assessment performed at the same time with LV volumes and 
+EF (Fig. 2.4.56)
+◆
+◆challenging to fit in large LV (heart failure) → fit in LV cavity 
+only
+◆
+◆17 myocardial segments (16 + apical cap) → 17 segmental 
+sub-volumes
+◆
+◆segmental volume change curves should reach minimum 
+volume simultaneously
+Fig. 2.4.55  LV mass
+Fig. 2.4.56  LV dyssynchrony
+
+=== PAGE 110 (Bk 87) ===
+87
+The EACVI Echo Handbook
+◆
+◆dyssynchrony → segmental time to minimum volume dispersion
+◆
+◆segmental time to minimum volume standard deviation → dyssynchrony index
+Mitral valve annulus size and shape
+◆
+◆measurements performed mainly on 3D TOE
+◆
+◆annulus diameters/circumference/area
+Reference values
+◆
+◆3D echo-derived reference values for LV volumes and mass per gender and body 
+size are not established
+→ LV volumes are underestimated compared with CMR
+→ LV mass is overestimated compared with CMR
+◆
+◆3D echo RV volumes reference values differ between men and women (EDV 79 ml/
+m2 for men and 71 ml/m2 for women, and ESV at 32 ml/m2 for men and 28 ml/m2 
+for women)
+→ adjusting to lean body mass eliminates the difference
+→ RV volumes are underestimated compared with CMR
+Suggested reading
+1.	 Lang R, Badano LP, Tsang W, et al. EAE/ASE Recommendations for Image Acquisition and 
+Display Using Three-Dimensional Echocardiography. Eur Heart J Cardiovascular Imaging 
+2012;13:1–46.
+
+=== PAGE 111 (Bk 88) ===
+Chapter 2  The Standard Transthoracic Echo Examination
+88
+2.5  Left ventricular 
+opacification with contrast 
+echocardiography
+General considerations
+◆
+◆Contrast agents comprise microbubbles that consist of an 
+outer shell and an inner gas (Fig. 2.5.1, Table 2.5.1)
+◆
+◆The diameter of these microbubbles is usually less than 8 μm 
+allowing their passage through the pulmonary capillaries and 
+therefore their injection into a peripheral vein
+◆
+◆Microbubbles oscillate when exposed to ultrasound waves
+◆
+◆Non-linear oscillation produces harmonic signals at multiple 
+frequencies of the fundamental frequency signal, which 
+greatly improves image quality
+◆
+◆Act as red blood cell tracers—remain entirely intravascular at 
+all times
+◆
+◆Entirely different from iodine-based contrast used in 
+angiography/CT and gadolinium-based contrast used in CMR
+◆
+◆Used in rest and stress echocardiography to improve image 
+quality, allowing accurate assessment of cardiac structure and 
+function
+Fig. 2.5.1  Structure of a contrast microsphere
+Microbubble
+structure
+Inner
+gas
+Outer
+shell
+
+=== PAGE 112 (Bk 89) ===
+89
+The EACVI Echo Handbook
+Table 2.5.1  Types of contrast agents
+SONOVUE
+OPTISON
+LUMINITY
+Outer shell
+Predominantly phospholipid
+Human albumin
+Predominantly phospholipid
+Inner gas
+Sulphur hexafluoride
+Perfluoropropane
+Perfluoropropane
+Mean bubble size
+2–8 μm
+3.0–4.5 μm
+1.1–2.5 μm
+Storage
+No special precautions
+Refrigerator (2–8˚C)
+Refrigerator (2–8˚C)
+Approved in EU
+Yes
+Yes
+Yes
+Approved in USA
+No
+Yes
+Yes
+Manufacturer
+Bracco
+GE Healthcare
+Bristol-Myers Squibb
+Preparation
+Use MiniSpike™ transfer system to 
+inject 5 ml saline into vial containing 
+sulphur hexafluoride. Shake gently 
+for 20–30 s
+Invert and gently rotate Optison vial 
+for approx 3 minutes to resuspend 
+microspheres
+Must be ‘activated’ using specific 
+Vialmix™ device, which shakes/
+agitates contrast to produce 
+homogenous suspension
+Administration
+0.2-0.4 ml bolus injection. 
+Maximum suggested dose is 3 ml. 
+Bracco also produce a specific 
+oscillating pump for continuous 
+intravenous infusion
+0.1-0.3 ml bolus injection. 
+Maximum suggested dose is 3 ml, as 
+little experience with higher doses in 
+clinical practice.
+10 μL/kg body weight slow dose 
+bolus injection over 30 seconds.
+Reported side 
+effects
+Headache; nausea; chest pain; 
+injection site reaction; paraesthaesia; 
+vasodilation
+Headache; nausea and/or vomiting; 
+warm sensation or flushing; dizziness
+Headache; flushing; back pain
+
+=== PAGE 113 (Bk 90) ===
+Chapter 2  The Standard Transthoracic Echo Examination
+90
+Understanding contrast imaging
+◆
+◆Frequency at which sound waves leave the transducer is the fundamental frequency
+◆
+◆With tissue, fundamental frequency produces an equal and opposite vibration 
+(linear response)
+◆
+◆Microbubbles can expand (rarefaction) to a greater degree than they can contract 
+(compression), and unequal oscillation is observed (non-linear response). These non-
+linear signals may also be produced by tissues, only at high mechanical index (MI)
+◆
+◆Microbubbles reflect sound waves not only at the fundamental frequency but also at 
+higher harmonic frequencies
+◆
+◆Microbubble contrast agents interact with ultrasound in three ways depending 
+upon the MI (Fig. 2.5.2)
+◆
+◆Standard 2D-echocardiography (using MI of 1.0–1.4) would destroy the outer shells 
+of the microspheres, resulting in bubble implosion
+◆
+◆Thus, a lower MI (MI of 0.1–0.5) is required for contrast echocardiography
+Indications for contrast echocardiography
+Ultrasound contrast can be used for left ventricular opacification (LVO) in both rest 
+and stress echocardiography studies.
+Rest echocardiography
+In patients with suboptimal image quality, contrast is indicated:
+
+=== PAGE 114 (Bk 91) ===
+91
+The EACVI Echo Handbook
+◆
+◆to enable improved endocardial visualization and assessment of LV structure 
+and function when ≥  2 adjacent segments are NOT seen on unenhanced images 
+(Fig. 2.5.3)
+◆
+◆to have accurate and reproducible measurements of LV volumes and ejection 
+fraction by 2D-echocardiography (Fig. 2.5.4)
+◆
+◆to confirm or exclude the following echocardiographic diagnosis, when 
+unenhanced images are suboptimal for definitive diagnosis:
+◆
+◆apical hypertrophic cardiomyopathy (Fig. 2.5.5)
+◆
+◆ventricular non-compaction (Fig. 2.5.6)
+1.5
+t
+f
+0.1
+Mechanical index (MI)
+Non-linear
+oscillation
+Linear oscillation
+LOW
+INT
+HIGH
+A
+A
+A
+Destruction
+f
+f
+2f
+2f 4f
+8f
+4f
+t
+l
+l
+l
+t
+Fig. 2.5.2  Contrast–ultrasound interaction
+A. Low acoustic power (MI < 0.1)
+	
+Linear oscillation occurs
+	
+Compression and rarefaction equal in amplitude and no enhanced 
+signal is generated
+B. Intermediate acoustic power (MI 0.1–0.5)
+	
+Non-linear oscillation occurs
+	
+(rarefaction > compression)
+	
+Ultrasound waves created at harmonic frequencies different from 
+fundamental frequency
+C. High acoustic power (MI > 0.5)
+	
+Microbubble destruction with transient emission of high intensity 
+signals, very rich in non-linear components. Only used for perfusion 
+assessment
+A
+B
+C
+
+=== PAGE 115 (Bk 92) ===
+Chapter 2  The Standard Transthoracic Echo Examination
+92
+◆
+◆apical thrombus (Fig. 2.5.7)
+◆
+◆ventricular pseudoaneurysm
+Stress echocardiography
+When the endocardial borders of ≥ 2 adjacent segments are NOT 
+seen in order to:
+◆
+◆obtain diagnostic assessment of segmental wall thickening at 
+rest and at peak stress
+◆
+◆increase the proportion of diagnostic studies
+◆
+◆increase confidence of interpreting physician
+POST CONTRAST
+PRE CONTRAST
+End-Diastole
+End-Diastole
+END
+DIASTOLE
+END
+SYSTOLE
+Fig. 2.5.3  Contrast cardiography
+Fig. 2.5.4  End-diastolic (left) and end-systolic (right) volumes 
+can be quantitated by tracing the endocardial borders (red lines), 
+clearly seen after contrast administration
+Fig. 2.5.5  Example of apical 
+hypertrophic cardiomyopathy
+Fig. 2.5.6  Example of left 
+ventricular non-compaction
+
+=== PAGE 116 (Bk 93) ===
+93
+The EACVI Echo Handbook
+Contraindications for contrast 
+echocardiography
+All contrast agents
+◆
+◆Known hypersensitivity/allergy to contrast agent or 
+constituent chemical
+SonoVue
+◆
+◆Known allergy to sulphur-containing products or drugs 
+(i.e. Septrin)
+◆
+◆Recent (< 7 days) acute coronary syndrome
+◆
+◆NYHA Class III—IV heart failure
+◆
+◆Severe pulmonary hypertension (PA systolic pressure > 
+90 mmHg)
+Contrast administration protocols
+Two methods of IV contrast administration: bolus injection 
+vs continuous infusion (Table 2.5.2). For LV opacification 
+performed during resting echocardiography, bolus injection 
+is adequate for the majority of patients. Continuous infusion 
+generally could be reserved for patients with apical or extensive 
+Table 2.5.2  Advantages and disadvantages of 
+bolus vs continuous infusion
+Advantages
+Disadvantages
+Bolus 
+injection
+Simple to perform 
+Rapid opacification
+Short duration of 
+contrast effect 
+Contrast 
+attenuation 
+artefacts Usually 
+second operator 
+needed
+Continuous 
+infusion
+Longer opacification 
+duration 
+Homogenous 
+contrast effect 
+Simple to adjust dose 
+to each individual 
+Reproducible (e.g. for 
+serial studies)
+More complicated 
+(infusion pump) 
+OGen uses higher 
+contrast dose
+Fig. 2.5.7  Example 
+of thrombus
+
+=== PAGE 117 (Bk 94) ===
+Chapter 2  The Standard Transthoracic Echo Examination
+94
+wall-motion abnormalities, in whom swirling artefact may be more common and 
+infusion would most likely produce better image quality.
+Rest echocardiography: bolus injection protocol
+Prepare the contrast agent as per provided instructions.
+◆
+◆Obtain intravenous access: a large antecubital fossa vein will yield superior 
+opacification to a small vein in the lower arm
+◆
+◆Change the imaging settings of the machine by pressing a contrast pre-set button. 
+MI should then change from > 1.0 to between 0.2–0.4
+◆
+◆Use a three-way tap for injection. Inject using the port in line with the cannula, 
+not the side port or the port on top of the cannula, to reduce bubble destruction 
+(Fig. 2.5.8)
+◆
+◆Inject 0.2–0.4 ml contrast slowly (over 3–5 seconds) and then give a slow 2 ml saline 
+flush. Giving the contrast or flush too quickly increases risk of attenuation artefact
+◆
+◆Repeated doses can be given up to a suggested maximum of 3 ml
+Fig. 2.5.8  Site of injection
+
+=== PAGE 118 (Bk 95) ===
+95
+The EACVI Echo Handbook
+Rest echocardiography: continuous infusion (see Boxes 2.5.1, 2.5.2)
+Box 2.5.2  Optison and Luminity
+◆
+◆No specific infusion pumps are available
+◆
+◆Optison/Luminity can simply be dissolved in 
+saline or glucose and infused using a standard 
+intravenous giving set
+◆
+◆The recommended dose is via an intravenous 
+infusion of 1.3 ml contrast added to 50 ml of 
+0.9% NaCl or 5% glucose solution for injection
+◆
+◆The rate of infusion should be initiated at 4.0 ml/
+min, but titrated as necessary to achieve optimal 
+image enhancement, not to exceed 10 ml/min
+Box 2.5.1  SonoVue, using the VueJect pump
+◆
+◆Turn on VueJect pump (1–2 min for initialization)
+◆
+◆Aspirate SonoVue into the specific 20 ml syringe
+◆
+◆Insert syringe into pump and close lid—90 seconds of 
+mixing occurs before pump is ready for use
+◆
+◆Press ‘Purge’ button to flush the line
+◆
+◆The infusion rate can be controlled via the touchpad 
+and increased/decreased as necessary
+◆
+◆Begin infusion at 1.0 ml/min. Once contrast appears in 
+the left heart, this often needs to be reduced to 0.8 ml/
+min (or less) to prevent shadowing (attenuation) artefact
+Stress echocardiography
+Treadmill exercise stress and bicycle exercise stress
+◆
+◆0.4–0.5 ml bolus injection 15–30 s prior to terminating exercise and flush with 2 ml 
+saline
+◆
+◆A second injection is usually not necessary but can be given if required
+
+=== PAGE 119 (Bk 96) ===
+Chapter 2  The Standard Transthoracic Echo Examination
+96
+Dobutamine stress
+◆
+◆Both dobutamine and SonoVue can be infused simultaneously through one cannula 
+using a three-way tap (Fig. 2.5.9)
+◆
+◆For bolus technique, give 0.3 ml bolus injection once 85% THR achieved or if other 
+end point achieved (e.g. limiting chest pain, etc.)
+◆
+◆For infusion technique, restart pump as soon as 85% THR achieved: effective LV 
+opacification will be achieved within 15–30 seconds
+◆
+◆Technical note for viability studies: at low and intermediate dose, injecting contrast 
+via the three-way tap will inadvertently deliver a small bolus of dobutamine 
+and often cause an undesired rise in heart rate. Inject via the top of the cannula 
+(Fig. 2.5.10) for the low and intermediate stages
+Dipyridamole stress
+◆
+◆If only wall motion is being assessed, either bolus injection or continuous 
+infusion can be used. After dipyridamole has been administered, imaging should 
+commence within 30 s. Thus, bolus injection should be given 20–30 s after 
+dipyridamole or, for infusion, the pump should be recommenced as soon as 
+dipyridamole has been given
+Artefacts in contrast echocardiography
+Attenuation (Fig. 2.5.11AB)
+Problem: Excessive microbubble concentration in the heart. Ultrasound signal com-
+pletely absorbed in near field, usually producing shadowing in the far field.
+Fig. 2.5.9  Three-way tap cannula
+Fig. 2.5.10  Top of the cannula
+
+=== PAGE 120 (Bk 97) ===
+97
+The EACVI Echo Handbook
+Solution: Wait for contrast washout. Alternatively, use slower injection/lower dose of 
+bolus injection, or continuous infusion.
+Swirling (Fig. 2.5.11CDE)
+Problem: Excessive bubble destruction in the apex (near field)—could be due to high 
+mechanical index (MI), high frame rate, too low contrast concentration, or apical 
+akinesia with sluggish flow. Results in large apical contrast artefacts and suboptimal 
+opacification and endocardial border visualization.
+Solution: Reduce MI (Fig. 2.5.11F), inject larger contrast dose, move focus towards 
+apex.
+Blooming
+Problem: Spread of contrast beyond tissue of origin. Thus, cavity signals may be con-
+fused with myocardial perfusion.
+Solution: Slower rate of bolus injection or use continuous infusion.
+Thoracic cage/linear artefacts (Figs. 2.5.11GH)
+Problem: Suboptimal myocardial visualization due to shadowing from ribs, lung tis-
+sue or movement of heart in and out of scan plane.
+Solution: Adjust transducer position, breath-hold during imaging.
+
+=== PAGE 121 (Bk 98) ===
+Chapter 2  The Standard Transthoracic Echo Examination
+98
+Safety of ultrasound contrast
+◆
+◆Contrast is safe in vast majority of patients (safety data from studies including 
+millions of patients)
+◆
+◆Equally safe during rest and stress echocardiography
+◆
+◆Studies have shown no difference in mortality or serious adverse events between 
+patients that did and did not receive contrast
+Fig. 2.5.11  Artefacts 
+in contrast 
+echocardiography
+A
+B
+C
+D
+E
+G
+F
+H
+
+=== PAGE 122 (Bk 99) ===
+99
+The EACVI Echo Handbook
+Mild side-effects
+Headache, weakness, fatigue, palpitations, nausea, dizziness, dry mouth, taste or smell 
+perversion, dyspnoea, chest pain, back pain, urticaria, pruritus, or rash
+Serious reactions (very rare)
+Angioedema, hypoxaemia, cyanosis, hypotension, anaphylactoid and anaphylactic 
+reactions. Frequency 1 in 10 000 cases (see Boxes 2.5.3, 2.5.4)
+Managing contrast reactions in practice
+◆
+◆Ensure resuscitation equipment readily available prior to contrast echocardiography
+◆
+◆At least one person (doctor/nurse/sonographer) trained in advanced life support (ALS)
+◆
+◆Ensure drug allergies/intolerances verified prior to beginning of stress test
+Box 2.5.3  Symptoms/signs of a serious contrast reaction
+◆
+◆Breathing difficulties
+◆
+◆Facial/tongue swelling
+◆
+◆Dizziness
+◆
+◆Fall in blood pressure
+Box 2.5.4  If a serious reaction occurs
+◆
+◆Alert medical emergency/cardiac arrest team
+◆
+◆High-flow oxygen
+◆
+◆Further large-bore intravenous access
+◆
+◆Intravenous fluid
+◆
+◆Intravenous hydrocortisone and anti-histamine
+◆
+◆Intramuscular adrenaline
+
+=== PAGE 123 (Bk 100) ===
+Chapter 2  The Standard Transthoracic Echo Examination
+100
+Suggested reading
+1.	 Senior R, Becher H, Monaghan M, et al. Contrast echocardiography: evidence-based 
+recommendations by European Association of Echocardiography. Eur J Echocardiogr 2009; 
+10:194–212.
+2.	 Mulvagh SL, Rakowski H, Vannan MA, et al. American Society of Echocardiography 
+Consensus Statement on the Clinical Applications of Ultrasonic Contrast Agents in Echocar-
+diography. J Am Soc Echocardiogr 2008; 21:1179–201.
+3.	 Chahal NS and Senior R. Clinical applications of left ventricular opacification. J Am Coll 
+Cardiol Img 2010; 3:188–96.
+
+=== PAGE 124 (Bk 101) ===
+101
+The EACVI Echo Handbook
+2.6  The storage and report on transthoracic echocardiography 
+(TTE) (Tables 2.6.1, 2.6.2, 2.6.3, 2.6.4)
+Projections
+2Da
+M-modea,b
+Dopplera
+Colour
+Spectral
+DTI
+PW
+CW
+1
+Parasternal LAX view of 
+the LV
+LV and Ao/LA
+2
+Parasternal RV inflow tract 
+view
+Tricuspid if TR 
+jet present
+3
+Parasternal RVOT view
+4
+Parasternal SAX view
+Aortic valve level
+RVOT
+Tricuspid if TR 
+jet present
+Pulmonary if 
+PS suspected
+5
+Parasternal SAX view
+Mitral valve level
+Table 2.6.1  Minimal basic dataset to acquire and store
+
+=== PAGE 125 (Bk 102) ===
+Chapter 2  The Standard Transthoracic Echo Examination
+102
+Projections
+2Da
+M-modea,b
+Dopplera
+Colour
+Spectral
+DTI
+PW
+CW
+6
+Parasternal SAX view
+Mid-papillary level
+LV
+7
+Parasternal SAX view at 
+apex
+8
+Apical four-chamber view
+Mitral and 
+pulmonary veins
+Mitral if MS 
+suspected
+Septal and lateral mitral 
+annular velocities
+9
+Apical modified four-
+chamber view for RV
+TAPSE
+Tricuspid if TR jet 
+present
+Tricuspid annulus
+10
+Apical five-chamber view
+LVOT
+Aortic valve
+11
+Apical two-chamber view
+12
+Apical LAX view
+13
+Subcostal four-chamber 
+view
+
+=== PAGE 126 (Bk 103) ===
+103
+The EACVI Echo Handbook
+Projections
+2Da
+M-modea,b
+Dopplera
+Colour
+Spectral
+DTI
+PW
+CW
+14
+Subcostal-IVC collapse 
+during inspiration or sniff
+IVC diameter 
+and sniff test
+15
+Suprasternal LAX view of 
+the aortic arch
+Aortic isthmus
+	
+	 Mandatory acquisitions	
+	
+Conditional acquisitions
+a.  2D and colour Doppler views are acquired as loops (2–3 beats) whereas PwD/CwD/TDI spectra as well as M-mode tracings are acquired as still 
+frames (sweep speed 50–100 cm/s).
+b.  Measurements only if adequately aligned, otherwise only for detection of very rapid events like septal flash, RV-LV interdependence, SAM of 
+the mitral valve.
+2D, two-dimensional echocardiography; Ao, aorta; CW, continuous-wave Doppler; DTI, Doppler tissue imaging; IVC, inferior vena cava; LA, 
+left atrium; LAX, long axis; LV, left ventricle; LVOT, left ventricular outflow tract; MS, mitral stenosis; PS, pulmonary stenosis; PW, pulsed-wave 
+Doppler; RV, right ventricle; RVOT, right ventricular outflow tract; SAX, short axis; TAPSE, tricuspid annular plane systolic excursion; TR, 
+tricuspid regurgitation.
+
+=== PAGE 127 (Bk 104) ===
+Chapter 2  The Standard Transthoracic Echo Examination
+104
+Table 2.6.2  3D dataset acquisition and display
+    STRUCTURE
+    VIEW
+Aortic 
+valve
+Left 
+ventricle
+Right 
+ventricle*
+Pulm. 
+valve
+Mitral
+valve
+Inter-
+atrial 
+septum
+Inter-
+ventr. 
+septum
+Tricuspid 
+valve
+Parasternal
+long-axis view
+■ ■
+NZ
+■ ■
+NZ
+Parasternal RV inflow 
+tract view
+■ ■
+NZ
+Parasternal RV outflow 
+tract view
+■ ■
+NZ
+Apical four-chamber 
+view
+■
+NZ
+■
+NZ
+■ ■
+NZ
+■
+NZ
+■
+NZ
+■ ■
+NZ
+*The image must be tilted to position the RV in the centre of the image for proper acquisition
+	
+N	
+Narrow-angle acquisition	 	
+■       Loop without colour
+	
+Z	
+Zoomed acquisition	
+	
+■       Loop with colour
+
+=== PAGE 128 (Bk 105) ===
+105
+The EACVI Echo Handbook
+HOSPITAL NAME
+First Name
+Study ordered
+dd-mm-yyyy Height
+167 cm
+Rhythm
+AF
+DEPARTMENT
+Last Name
+Study 
+performed
+dd-mm-yyyy Weight
+75 kg
+Heart rate
+90 bpm
+Date of 
+birth
+dd-mm-yyyy Image Quality
+Good
+BSA
+1.7 m2
+Blood 
+pressure
+120/80
+Referring physician
+Patient ID
+Indication
+New-onset shortness of breath
+ Inpatient
+ Outpatient
+Gender
+F
+2D & 3D measurements
+(M-mode, M; 2D; 3D; circle selected acquisition technique)
+LEFT VENTRICLE
+ATRIA and AORTA
+Septum thickness (end-diastole) 
+(M/2D)
+6–11 mm
+10
+Posterior wall thickness (end-
+diastole) (M/2D)
+6–11 mm
+8
+Left atrium (LA)
+Internal dimension (end-
+diastole) (M/2D)
+37–53 mm
+65
+Antero-posterior 
+diameter (M/2D)
+27–41 mm
+50
+21–29 mm/m2 38
+15–23 mm/m2 29
+Internal dimension (end-
+systole) (M/2D)
+22–38 mm
+50
+Area
+≤ 23 cm2
+29
+12–21 mm/m2 29
+Volume (2D/3D)
+29–70 mL
+100
+Fractional shortening (%)
+26–44
+23
+Regional LV Function
+1: Normal	
+3: Akinetic
+2: Hypokinetic	
+4: Dyskinetic
+17–37 mL/m2
+59
+Relative wall thickness (%)
+<45%
+25
+End-diastolic volume (2D/3D)
+59–141 mL
+170
+34–71 mL/m2
+100
+Table 2.6.3  Recommendations for reporting TTE
+2
+2
+2
+2
+2
+2
+2
+2
+2
+2 2
+......
+......
+......
+ANTERO
+LATERAL
+INFERO
+LATERAL
+INFERO
+SEPTAL
+ANTERO
+SEPTAL
+INFERIOR
+ANTERIOR
+2
+......
+2
+......
+2
+......
+......
+......
+......
+......
+......
+2
+......
+2
+......
+2
+......
+......
+............
+
+=== PAGE 129 (Bk 106) ===
+Chapter 2  The Standard Transthoracic Echo Examination
+106
+LEFT VENTRICLE
+ATRIA and AORTA
+Right atrium (RA)
+End–systolic volume 
+(2D/3D)
+19–54 mL
+120
+RIGHT VENTRICLE
+Minor axis – 4 
+chamber
+27–46 mm
+29
+11–27 mL/m2
+71
+15–24 mm/m2 17
+Ejection fraction (2D/3D)
+56–72 %
+29
+Mid–internal 
+dimension (4–ch)
+(end–diastole)
+20–38 mm
+32
+Area
+≤ 20 cm2
+21
+Hypertrophy
+(M/2D/3D)
+Men
+49–115 g/m2
+(Normal)
+RV subcostal wall 
+thickness
+<5 mm
+3
+IVC diameters (mm)
+Expiration/sniff
+13
+5
+116–131 g/m2
+(Mild)
+RV area (end–
+diastole)
+11–24 cm2
+27
+Estimated RA pressure (mmHg)
+3
+132–148 g/m2
+(Moderate)
+RV area (end–
+systole)
+5–13 cm2
+14
+≥149 g/m2
+(Severe)
+RV area change (%) 36–64%
+48
+Aorta (Ao)
+Women
+43–95 g/m2
+(Normal)
+RV ejection 
+fraction (3D)
+44–69%
+50
+Ao annulus 
+(M/2D/3D)
+17–24 mm
+96–108 g/m2
+(Mild)
+TAPSE
+16–30 mm
+16
+Sinus of Valsalva level 
+(m/2D/3D)
+21–38 mm
+24
+109–121 g/m2
+(Moderate)
+Tricuspid annulus 
+S’ DTI
+10–19 cm/s 15
+Sinotubular junction 
+(M/2D/3D)
+19–36 mm
+≥122 g/m2
+(Severe)
+RVOT diameter 
+(distal)
+16–27 mm
+21
+Ascending aorta 
+(M/2D/3D)
+20–35 mm
+23
+Table 2.6.3  Recommendations for reporting TTE (continued)
+
+=== PAGE 130 (Bk 107) ===
+107
+The EACVI Echo Handbook
+Doppler measurement and valve assessment
+DIASTOLIC FUNCTION EVALUATION
+E wave velocity (cm/s)
+100
+Valsalva IVRT (ms)
+90
+e’ lateral DTI 
+(cm/s)
+6
+E Deceleration time (ms)
+160
+QRS to onset of E 
+wave (ms)
+320
+e’ septum DTI 
+(cm/s)
+5
+A wave velocity (cm/s)
+Valsalva QRS to onset of e’ 
+wave (ms)
+330
+E/A ratio
+Valsalva
+A wave duration (ms)
+Time e’ – E (ms)
+10
+E/e’ ratio
+18
+PV Ar wave duration (ms)
+IVRT/Time e’ – E
+9
+MITRAL VALVE (MV)
+AORTIC VALVE (AV)
+MV Area (cm2) Planimetry 
+(2D/3D)
+Regurgitation (0–4+)
+++
+  Tricuspid 
+  Bicuspid
+LVOT diameter 
+(mm)
+18
+Regurgitation (0 – 4+)
+PHT
+Vena contracta (mm)
+3
+Aortic valve area 
+(cm2)
+Ao V flow vel. 
+(m/s)
+1.1
+Vena contracta (mm)
+Mean gradient (mmHg) 
+ERO (cm2)
+0.07
+Max gradient 
+(mmHg)
+Ao V VTI (cm)
+ERO (cm2)
+PHT (ms)
+Regurgitant volume 
+(ml)
+12
+Mean gradient 
+(mmHg)
+LVOT flow vel. 
+(m/s)
+1
+Regurgitant vol (ml)
+Wilkins score (1–6)
+R PISA 
+(mm)
+4
+V 
+Aliasing
+34
+Stroke volume 
+(ml)
+40 LVOT VTI (cm)
+16
+Ao diastolic vel. (cm/s)
+Table 2.6.4  Recommendations for reporting TTE—continued
+
+=== PAGE 131 (Bk 108) ===
+Chapter 2  The Standard Transthoracic Echo Examination
+108
+COMMENTS
+Open-text field or descriptive statements should elucidate the main findings of the study. This part of the report is crucial and answers the clinical queries, 
+highlights the important findings and compares the data of the index study with previous ones. Major limitations or particular conditions (clinical, 
+haemodynamics, etc.) prone to influencing the results should be reported. Additional data that cannot be included in the above tables (e.g. pericardium 
+description etc.) are also prescribed in this section. The list of items to comment on could be:
+Left ventricle: size, mass, global and regional systolic function, dynamic 
+obstruction, mass, thrombus, dyssynchrony
+LV filling pressures : normal, elevated
+Left atrial volume
+Right ventricle: size, systolic function
+Right atrial size
+RA pressure and estimated pulmonary artery pressure (PH unlikely, 
+possible, likely)
+Aortic valve: opening area, competence, sub-aortic obstruction
+Mitral valve: opening area, competence
+Tricuspid valve: opening area, competence
+Pulmonary valve: opening area, competence
+Pericardium: effusion, constriction
+Thoracic aorta: dimension, atherosclerosis
+Doppler measurement and valve assessment
+TRICUSPID VALVE (TV)
+PULMONARY 
+VALVE (PV)
+Mean diastolic gradient 
+(mmHg)
+Peak regurgitant velocity (m/s)
+2,2
+Peak velocity (m/s)
+0.9
+Regurgitation (0 – 4+)
+RV-RA peak systolic gradient (mmHg) 19
+Peak systolic 
+gradient (mmHg)
+Early-diastolic PR velocity (cm/s)
+Regurgitation (0 – 4+) +
+RV systolic pressure (mmHg)
+22
+RVOT VTI (cm)
+End-diastolic PR velocity (cm/s)
+Table 2.6.4  Recommendations for reporting TTE (continued)
+
+=== PAGE 132 (Bk 109) ===
+109
+The EACVI Echo Handbook
+CONCLUSION
+An echocardiographic study report should end with clear conclusions, emphasizing the main findings of the 
+diagnosis and severity of the heart diseases. Universal grading data are encouraged (e.g. normal-mild dysfunction, 
+moderate dysfunction, severe dysfunction, instead of subjective descriptions (e.g. preserved systolic function).
+e.g.: Dilated LV with severely impaired overall function. A moderate degree mitral regurgitation is also 
+noticed. Shortness of breath of cardiac origin.
+Suggested reading
+1.	 Evangelista A, Flachskampf F, Lancellotti P, et al. on behalf of the European Association of 
+Echocardiography. European Association of Echocardiography recommendations for stand-
+ardization of performance, digital storage and reporting of echocardiographic studies. Eur J 
+Echocardiogr 2008;9:438–48.
+2.	 Lang R, Badano LP, Tsang W, et al. EAE/ASE recommendations for image acquisition and 
+display using three-dimensional echocardiography. Eur Heart J Cardiovascular Imaging 
+2012;13:1–46.
+3.	 Picard M, Adams D, Bierig SM, et al. American Society of Echocardiography recommen-
+dations for quality echocardiography laboratory operations. J Am Soc Echocardiography 
+2011;24:1–10.
+SIGNATURES
+Sonographer (or trainee physician) 
+performing exam
+Name of anyone senior who 
+has reviewed the study
+
+=== PAGE 133 (Bk 110) ===

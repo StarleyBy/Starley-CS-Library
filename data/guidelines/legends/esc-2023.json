@@ -44,6 +44,18 @@
         "ru": "Данные одного рандомизированного клинического исследования или крупных нерандомизированных исследований."
       }
     },
+    "B1": {
+      "meaning": {
+        "en": "Data derived from a single randomized clinical trial.",
+        "ru": "Данные одного рандомизированного клинического исследования."
+      }
+    },
+    "B2": {
+      "meaning": {
+        "en": "Data derived from large non-randomized studies or registries.",
+        "ru": "Данные крупных нерандомизированных исследований или регистров."
+      }
+    },
     "C": {
       "meaning": {
         "en": "Consensus of opinion of the experts and/or small studies, retrospective studies, registries.",

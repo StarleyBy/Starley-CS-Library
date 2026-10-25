@@ -1,0 +1,356 @@
+<details class="med-details"><summary>
+
+## 4. Standard Medical Therapies for STEMI and NSTE-ACS</summary><div class="details-content">
+
+### 4.1 Aspirin
+Aspirin (acetylsalicylic acid) remains the fundamental antiplatelet foundation in ACS management. By irreversibly acetylating platelet cyclooxygenase-1 (COX-1), aspirin inhibits the synthesis of thromboxane A2 for the lifespan of the platelet:
+* **Initial Loading Dose:** A non–enteric-coated chewable aspirin loading dose of **$162\text{ to }325\text{ mg}$** is recommended as soon as possible after presentation in all patients with confirmed or suspected ACS (Class 1, Level of Evidence A). If oral ingestion is not feasible, intravenous aspirin ($250\text{--}500\text{ mg}$) or rectal administration ($300\text{--}600\text{ mg}$) is reasonable.
+* **Maintenance Dose:** Lifelong low-dose aspirin (**$81\text{ mg}$ once daily**) is recommended. High maintenance doses ($> 100\text{ mg/day}$) confer no additional ischemic protection but significantly increase gastrointestinal bleeding risks.
+
+
+
+### Recommendation Table 5 — Recommendation for Aspirin
+
+**Aspirin in Patients With ACS**
+
+| Recommendations | Class | Level |
+|---|:---:|:---:|
+| In patients with ACS, an initial oral loading dose of aspirin, followed by daily low-dose aspirin, is recommended to reduce death and MACE. | **I** | **A** |
+
+
+### 4.2 Oral P2Y12 Inhibitors During Hospitalization
+Dual antiplatelet therapy (DAPT) combining aspirin with an oral P2Y12 receptor inhibitor is indicated across all ACS clinical pathways. The choice of P2Y12 inhibitor depends on the planned revascularization strategy, bleeding risk, and need for chronic oral anticoagulation:
+* **Potent P2Y12 Inhibitors Preferred:** In patients with ACS undergoing PCI who are not at high bleeding risk and do not require chronic oral anticoagulation, potent P2Y12 inhibitors—**prasugrel** ($60\text{ mg}$ loading dose, followed by $10\text{ mg}$ once daily) or **ticagrelor** ($180\text{ mg}$ loading dose, followed by $90\text{ mg}$ twice daily)—are recommended in preference to clopidogrel (Class 1, Level B-R), driven by TRITON-TIMI 38, PLATO, and ISAR-REACT 5 trials demonstrating superior ischemic event reduction and stent thrombosis suppression.
+* **Pretreatment Considerations in NSTE-ACS:** In patients with NSTE-ACS scheduled for an early invasive strategy, routine unselected pre-treatment with prasugrel before diagnostic coronary angiography is **not recommended** (Class 3: Harm), as it increases bleeding without ischemic benefit (ACCOAST trial) and complicates urgent CABG. Pre-treatment with ticagrelor or clopidogrel may be considered when an invasive strategy is delayed $> 24\text{ hours}$.
+* **Clopidogrel Indications:** Clopidogrel ($300\text{--}600\text{ mg}$ load, $75\text{ mg}$ daily) is recommended in patients receiving fibrinolytic therapy, those with high bleeding risk (HBR), prior stroke/TIA (contraindication to prasugrel), or those requiring concomitant oral anticoagulation.
+
+![Figure 4: Initial Choice of P2Y12 Inhibitor in Patients Not Requiring an Oral Anticoagulant](images/fig04_initial_choice_p2y12_inhibitor.jpg)
+
+
+
+#### Table 7: Dosing Considerations for Oral Antiplatelet Therapy in Patients With ACS
+
+| Agent | Setting | Dosing Considerations |
+|---|---|---|
+| Aspirin | NSTE-ACS or STEMI | Loading dose 162-325 mg orally. Aspirin (nonenteric coated) should be chewed, when possible, to achieve faster onset of antiplatelet action. Loading dose should be administered for patients already on aspirin therapy. Maintenance dose 75-100 mg orally daily (nonenteric coated) |
+| Clopidogrel | NSTE-ACS or STEMI without fibrinolytic | Loading dose 300 or 600 mg orally Maintenance 75 mg orally daily |
+| Clopidogrel | STEMI with fibrinolytic | Loading dose 300 mg orally if age ≤75 y; Initial dose 75 mg orally if age >75 y Maintenance 75 mg orally daily |
+| Prasugrel | NSTE-ACS or STEMI without fibrinolytic, and undergoing PCI | Loading dose 60 mg orally Maintenance dose 10 mg orally daily if body weight ≥60 kg and age <75 y Maintenance dose 5 mg orally daily if body weight <60 kg or age ≥75 y (use caution) |
+| Ticagrelor | NSTE-ACS or STEMI without fibrinolytic | Loading dose 180 mg orally Maintenance dose 90 mg orally twice daily |
+
+
+#### Table 8: Management of Oral P2Y12 Inhibitors for Patients Who Require CABG Surgery^[a]
+
+| Oral P2Y12 Inhibitor | Discontinuation Timing Before CABG |
+|---|---|
+| Clopidogrel | **Elective CABG:** Interrupt for 5 d before surgery. **Urgent CABG:** Interruption for at least 24 h (ideally) and proceeding earlier than 5 d may be reasonable. |
+| Prasugrel | **Elective CABG:** Interrupt for 7 d before surgery. **Urgent CABG:** Interruption for at least 24 h (ideally) and proceeding earlier than 7 d may be reasonable. |
+| Ticagrelor | **Elective CABG:** Interrupt for 3-5 d before surgery. **Urgent CABG:** Interruption for at least 24 h (ideally) and proceeding earlier than 5 d may be reasonable. |
+
+
+### Recommendation Table 6 — Recommendations for Oral P2Y12 Inhibitors During Hospitalization
+
+**All Patients With ACS (STEMI and NSTE-ACS)**
+
+| Recommendations | Class | Level |
+|---|:---:|:---:|
+| In patients with ACS, an oral P2Y12 inhibitor should be administered in addition to aspirin to reduce MACE. | **I** | **A** |
+| In patients with a history of stroke or transient ischemic attack, prasugrel should not be administered because of worse net clinical outcomes. | **III-harm** | **B-R** |
+
+**In-Hospital Management in Patients With NSTE-ACS**
+
+| Recommendations | Class | Level |
+|---|:---:|:---:|
+| In patients with NSTE-ACS undergoing PCI, prasugrel or ticagrelor is recommended to reduce MACE and stent thrombosis. | **I** | **B-R** |
+| In patients with NSTE-ACS who are managed without planned invasive evaluation, ticagrelor is recommended to reduce MACE. | **I** | **B-R** |
+| In patients with NSTE-ACS, clopidogrel is recommended to reduce MACE when prasugrel or ticagrelor are unavailable, cannot be tolerated, or are contraindicated. | **I** | **B-R** |
+| In patients with NSTE-ACS planned for an invasive strategy with timing of angiography anticipated to be >24 hours, upstream treatment with clopidogrel or ticagrelor may be considered to reduce MACE. | **IIb** | **B-NR** |
+
+**In-Hospital Management in Patients With STEMI**
+
+| Recommendations | Class | Level |
+|---|:---:|:---:|
+| In patients with STEMI managed with PPCI, prasugrel or ticagrelor should be administered to reduce MACE and stent thrombosis. | **I** | **B-R** |
+| In patients with STEMI managed with PPCI, clopidogrel is recommended to reduce MACE and stent thrombosis when prasugrel or ticagrelor are unavailable, cannot be tolerated, or are contraindicated. | **I** | **C-LD** |
+| In patients with STEMI managed with fibrinolytic therapy, clopidogrel should be administered concurrently to reduce death and MACE. | **I** | **A** |
+
+
+### 4.3 Intravenous Antiplatelet Therapies
+* **Intravenous Cangrelor:** An ultra-short-acting, reversible intravenous P2Y12 inhibitor with immediate onset ($< 2\text{ min}$) and rapid offset (platelet recovery in $60\text{ min}$). Cangrelor ($30\ \mu\text{g/kg}$ bolus, followed by $4\ \mu\text{g/kg/min}$ infusion for at least 2 hours or the duration of PCI) is reasonable in P2Y12 inhibitor–naive patients undergoing PCI to reduce periprocedural ischemic events and acute stent thrombosis (CHAMPION trials). Transitioning to oral P2Y12 inhibitors must follow structured timing protocols.
+* **Intravenous Glycoprotein IIb/IIIa Inhibitors (Tirofiban, Eptifibatide):** Routine upfront administration is **not recommended** (Class 3: No Benefit) due to increased major bleeding. GP IIb/IIIa inhibitors are reserved as \"bailout\" therapy during PCI for high-burden visible thrombus, slow-flow/no-reflow, or procedural thrombotic complications.
+
+
+
+#### Table 9: Transition From Intravenous Cangrelor Infusion to Oral P2Y12 Inhibitor^[a]
+
+| Oral P2Y12 inhibitor | Loading Dose | Timing of Loading Dose Administration |
+|---|---|---|
+| Clopidogrel | 600 mg | Immediately after discontinuation of cangrelor |
+| Prasugrel | 60 mg | Immediately after discontinuation of cangrelor |
+| Ticagrelor | 180 mg | At any time during or immediately after discontinuation of cangrelor |
+
+
+### Recommendation Table 7 — Recommendation for Intravenous P2Y12 Inhibition
+
+**Intravenous P2Y12 Inhibition in Patients With ACS**
+
+| Recommendations | Class | Level |
+|---|:---:|:---:|
+| Among patients with ACS undergoing PCI who have not received a P2Y12 inhibitor, intravenous cangrelor may be reasonable to reduce periprocedural ischemic events. | **IIb** | **B-R** |
+
+
+### Recommendation Table 8 — Recommendations for Intravenous Glycoprotein IIb/IIIa Inhibitors
+
+**Intravenous Glycoprotein IIb/IIIa Inhibitors in ACS**
+
+| Recommendations | Class | Level |
+|---|:---:|:---:|
+| In patients with ACS undergoing PCI with large thrombus burden, no-reflow, or slow flow, adjunctive use of an intravenous or intracoronary glycoprotein IIb/IIIa inhibitor is reasonable to improve procedural success and reduce infarct size. | **IIa** | **C-LD** |
+| In patients with ACS, glycoprotein IIb/IIIa inhibitors should not be administered routinely due to lack of ischemic benefit and increased risk of bleeding. | **III-harm** | **B-R** |
+
+
+### 4.4 Parenteral Anticoagulation
+Parenteral anticoagulation is indicated for all ACS patients during acute management:
+* **Primary PCI for STEMI:** Unfractionated heparin (UFH) ($70\text{--}100\text{ units/kg}$ IV bolus targeting ACT $250\text{--}300\text{ s}$) or Bivalirudin ($0.75\text{ mg/kg}$ bolus, $1.75\text{ mg/kg/h}$ infusion with post-PCI full-dose infusion for 2–4 hours) is recommended.
+* **NSTE-ACS:** Enoxaparin ($1\text{ mg/kg}$ subcutaneously twice daily) or UFH is recommended. Enoxaparin demonstrates lower ischemic events compared to UFH in medical and invasive cohorts. Fondaparinux ($2.5\text{ mg}$ SC daily) is indicated in non-invasive management or high bleeding risk, but requires supplementary UFH during PCI to prevent catheter thrombosis.
+* **Discontinuation:** Routine continuation of parenteral anticoagulation post-PCI in uncomplicated patients is **not recommended** (Class 3: No Benefit).
+
+
+
+#### Table 10: Dosing of Parenteral Anticoagulation in ACS
+
+| Drug | Dosing |
+|---|---|
+| UFH | **Initial therapy:** Loading dose 60 IU/kg (max 4000 IU), with initial infusion 12 IU/kg per h (max 1000 IU/h) adjusted to therapeutic aPTT range of 60-80 s. **To support PCI:** In patients who have received prior anticoagulant therapy, additional UFH as needed to achieve an ACT 250-300 s. In patients who have not received prior anticoagulant therapy, 70-100 U/kg initial bolus to achieve target ACT of 250-300 s. **With fibrinolytic therapy:** Loading dose 60 IU/kg (maximum 4000 IU) with initial infusion 12 IU/kg per h (maximum 1000 IU/h) adjusted to therapeutic aPTT range.* |
+| Bivalirudin | **To support PCI:** 0.75 mg/kg bolus, 1.75 mg/kg per h IV infusion during the PCI procedure. **Post-PCI infusion for PPCI:** 1.75 mg/kg per h for 2-4 h post-PCI. In patients with CrCl <30 mL/min, reduced infusion to 1 mg/kg per h. |
+| Enoxaparin | **Initial therapy:** 1 mg/kg subcutaneous every 12 h. Reduce dose to 1 mg/kg per d subcutaneous if CrCl <30 mL/min. **To support PCI:** For previous treatment with enoxaparin, if the last subcutaneous dose was administered 8-12 h earlier or if only 1 subcutaneous dose of enoxaparin has been administered, an IV dose of 0.3 mg/kg of enoxaparin should be given. If the last dose was administered within the previous 8 h, no additional enoxaparin should be given. For patients who have not received prior anticoagulant therapy, 0.5-0.75 mg/kg IV bolus. **With fibrinolytic therapy:** If age <75 y, 30 mg IV bolus, followed in 15 min by 1 mg/kg subcutaneous every 12 h (maximum 100 mg for the first 2 doses). If age ≥75 y: no bolus, 0.75 mg/kg subcutaneous every 12 h (maximum 75 mg for the first 2 doses). Regardless of age, if CrCl <30 mL/min: 1 mg/kg subcutaneous every 24 h. |
+| Fondaparinux | **Initial therapy:** 2.5 mg subcutaneous daily. **With fibrinolytic therapy:** 2.5 mg IV, then 2.5 mg subcutaneous daily starting the following day. Contraindicated if CrCl <30 mL/min. Fondaparinux should not be used to support PCI because of the risk of catheter thrombosis. |
+
+
+### Recommendation Table 9 — Recommendations for Parenteral Anticoagulation
+
+**NSTE-ACS: Upstream* Anticoagulant Therapy^[a]**
+
+| Recommendations | Class | Level |
+|---|:---:|:---:|
+| In patients with NSTE-ACS, intravenous unfractionated heparin (UFH) is useful to reduce ischemic events. | **I** | **B-R** |
+| In patients with NSTE-ACS in whom an early invasive approach is not anticipated, either enoxaparin or fondaparinux are recommended alternatives to UFH to reduce ischemic events. | **I** | **B-R** |
+
+**Anticoagulant Therapy in Patients Undergoing Coronary Revascularization**
+
+| Recommendations | Class | Level |
+|---|:---:|:---:|
+| In patients with ACS undergoing coronary revascularization (CABG or PCI) in the same admission, parenteral anticoagulation should be continued until revascularization to reduce ischemic events. | **I** | **C-LD** |
+
+**Anticoagulant Therapy to Support PCI in ACS (STEMI and NSTE-ACS)**
+
+| Recommendations | Class | Level |
+|---|:---:|:---:|
+| In patients with ACS undergoing PCI, intravenous UFH is useful to reduce ischemic events. | **I** | **C-EO** |
+| In patients with STEMI undergoing PCI, bivalirudin is useful as an alternative to UFH to reduce mortality and bleeding. | **I** | **B-R** |
+| In patients with NSTE-ACS undergoing PCI, bivalirudin may be reasonable as an alternative to UFH to reduce bleeding. | **IIb** | **B-R** |
+| In patients with ACS, intravenous enoxaparin may be considered as an alternative to UFH at the time of PCI to reduce ischemic events. | **IIb** | **B-R** |
+| In patients with ACS, fondaparinux should not be used to support PCI because of the risk of catheter thrombosis. | **III-harm** | **B-R** |
+
+**STEMI: Anticoagulant Therapy Treated With Fibrinolytic Therapy**
+
+| Recommendations | Class | Level |
+|---|:---:|:---:|
+| In patients with STEMI treated with fibrinolytic therapy, parenteral anticoagulation should be continued for the duration of the hospital stay (maximum of 8 days) or until revascularization is performed to reduce ischemic events. | **I** | **A** |
+| In patients with STEMI treated with fibrinolytic therapy who are not intended to undergo an invasive approach, enoxaparin is the recommended anticoagulant to reduce ischemic events. | **I** | **A** |
+| In patients with STEMI treated with fibrinolytic therapy who are not intended to undergo an invasive approach, fondaparinux is a recommended alternative to reduce ischemic events. | **I** | **B-R** |
+
+
+### 4.5 Lipid Management
+Atherosclerotic cardiovascular plaque stabilization requires aggressive, early lipid lowering:
+* **Universal High-Intensity Statin:** High-intensity statin therapy (atorvastatin $80\text{ mg}$ daily or rosuvastatin $40\text{ mg}$ daily) is recommended in all patients presenting with ACS, irrespective of baseline LDL-C levels (Class 1, Level A).
+* **Early Nonstatin Intensification:** In patients whose LDL-C remains $\ge 55\text{ mg/dL}$ ($\ge 1.4\text{ mmol/L}$) or fails to decrease by $\ge 50\%$ despite maximally tolerated statin therapy, adding **ezetimibe** ($10\text{ mg}$ daily) and subsequently a **PCSK9 inhibitor** (evolocumab $140\text{ mg}$ every 2 weeks or alirocumab $75\text{--}150\text{ mg}$ every 2 weeks) during hospitalization or within 4–12 weeks postdischarge is recommended.
+
+![Figure 5: Management of Lipid-Lowering Therapy for Patients With ACS](images/fig05_lipid_lowering_therapy_acs.jpg)
+
+
+
+#### Table 11: Nonstatin Treatment Options for LDL-C Lowering in Patients With ACS Who Are Not at LDL-C Goal on Maximally Tolerated Statin Therapy
+
+| Drug | Mechanism of Action | LDL-C Lowering (%) | Outcomes Study Performed in Patients With Recent ACS? | Potential Adverse Effects |
+|---|---|---|---|---|
+| Ezetimibe | Blocks NPC1L1 cholesterol absorption | 15-25 | Yes (<10 d post ACS) | Liver function test abnormalities |
+| Evolocumab | Monoclonal antibody to PCSK9 | ~60 | Established ASCVD (>1 mo post ACS) | Injection site reaction |
+| Alirocumab | Monoclonal antibody to PCSK9 | ~60 | Yes (1-12 mo post ACS) | Injection site reaction |
+| Inclisiran | Inhibitor of PCSK9 synthesis (small interfering RNA) | ~50 | Clinical outcomes trials in ASCVD are ongoing | Injection site reaction |
+| Bempedoic acid | ATP-citrate lyase inhibitor | ~20 | With or at high risk for CVD (>90 d post ACS) | Gout; gallstones; liver function test abnormalities |
+
+
+#### Table 12: Statin Classification
+
+| High-Intensity Therapy | Moderate-Intensity Therapy | Low-Intensity Therapy |
+|---|---|---|
+| **Expected LDL-C reduction ≥50%** • Atorvastatin 40–80 mg • Rosuvastatin 20–40 mg | **Expected LDL-C reduction 30% to 49%** • Atorvastatin 10–20 mg • Rosuvastatin 5–10 mg • Simvastatin 20–40 mg • Pravastatin 40–80 mg • Lovastatin 40 mg • Fluvastatin XL 80 mg • Fluvastatin 40 mg BID • Pitavastatin 1–4 mg | **Expected LDL-C reduction <30%** • Simvastatin 10 mg • Pravastatin 10–20 mg • Lovastatin 20 mg • Fluvastatin 20–40 mg |
+
+
+### Recommendation Table 10 — Recommendations for Lipid Management
+
+**Lipid Management in Patients With ACS**
+
+| Recommendations | Class | Level |
+|---|:---:|:---:|
+| In patients with ACS, high-intensity statin therapy is recommended to reduce the risk of MACE. | **I** | **A** |
+| In patients with ACS who are already on maximally tolerated statin therapy with low-density lipoprotein cholesterol (LDL-C) ≥70 mg/dL (≥1.8 mmol/L), adding a nonstatin lipid-lowering agent is recommended to further reduce the risk of MACE. | **I** | **A** |
+| In patients with ACS who are statin intolerant, nonstatin lipid-lowering therapy is recommended to lower LDL-C and reduce the risk of MACE. | **I** | **B-R** |
+| In patients with ACS who are already on maximally tolerated statin therapy with LDL-C 55 to 69 mg/dL (≥1.4 to <1.8 mmol/L), adding a nonstatin lipid-lowering agent is reasonable to reduce the risk of MACE. | **IIa** | **B-R** |
+| In patients with ACS, the concurrent initiation of ezetimibe in combination with maximally tolerated statin may be considered to reduce the risk of MACE. | **IIb** | **B-R** |
+
+
+### 4.6 Beta-Blocker Therapy
+Oral beta-blocker therapy (metoprolol succinate, carvedilol, or bisoprolol) should be initiated within the first 24 hours in patients without acute decompensated heart failure, signs of hypoperfusion, bradycardia, or high-degree AV block. 
+* In patients with left ventricular systolic dysfunction (LVEF $\le 40\%$), long-term beta-blocker therapy is recommended (Class 1, Level A) to reduce mortality. 
+* In patients with preserved ejection fraction (LVEF $> 50\%$) and complete revascularization, recent randomized trials (REDUCE-AMI) suggest that long-term beta-blocker therapy beyond 1 year may not confer a mortality benefit, and reassessment is appropriate.
+
+
+
+### Recommendation Table 11 — Recommendation for Beta-Blocker Therapy
+
+**Beta-Blocker Therapy in Patients With ACS**
+
+| Recommendations | Class | Level |
+|---|:---:|:---:|
+| In patients with ACS without contraindications, early (<24 hours) initiation of oral beta-blocker therapy is recommended to reduce risk of reinfarction and ventricular arrhythmias. | **I** | **A** |
+
+
+### 4.7 Renin-Angiotensin-Aldosterone System (RAAS) Inhibitors
+* **ACE Inhibitors / ARBs:** Recommended within the first 24 hours in all ACS patients with LVEF $\le 40\%$, hypertension, diabetes mellitus, or chronic kidney disease (Class 1, Level A).
+* **Mineralocorticoid Receptor Antagonists (MRA):** Eplerenone ($25\text{--}50\text{ mg}$ daily) or spironolactone is recommended in patients already receiving an ACEI/ARB and beta-blocker who have LVEF $\le 40\%$ and either heart failure symptoms or diabetes mellitus, without severe renal impairment (eGFR $< 30\text{ mL/min}$) or hyperkalemia ($\text{K}^+ > 5.0\text{ mEq/L}$) (Class 1, Level A, EPHESUS trial).
+* **ARNI (Sacubitril/Valsartan):** An ARNI is reasonable as replacement for an ACEI/ARB in patients with persistent HFrEF (LVEF $\le 40\%$) and chronic heart failure symptoms.
+
+
+
+### Recommendation Table 12 — Recommendations for Renin-Angiotensin-Aldosterone System Inhibitors
+
+**Renin-Angiotensin-Aldosterone System Inhibitors in Patients With ACS**
+
+| Recommendations | Class | Level |
+|---|:---:|:---:|
+| In high-risk patients with ACS (LVEF ≤40%, hypertension, diabetes mellitus, or STEMI with anterior location), an oral angiotensin-converting enzyme inhibitor (ACEi) or an angiotensin receptor blocker (ARB) is indicated to reduce all-cause death and MACE. | **I** | **A** |
+| In patients with ACS and LVEF ≤40%, and with HF symptoms and/or diabetes mellitus, a mineralocorticoid receptor antagonist is indicated to reduce all-cause death and MACE. | **I** | **B-R** |
+| In patients with ACS who are not considered high risk, an oral ACEi or an ARB is reasonable to reduce MACE. | **IIa** | **A** |
+
+
+</div></details>
+
+<details class="med-details"><summary>
+
+## 5. STEMI Management: Reperfusion Strategies</summary><div class="details-content">
+
+### 5.1 Reperfusion Systems of Care and Triage
+Timely restoration of epicardial coronary blood flow and myocardial tissue perfusion is the primary determinant of survival in STEMI. Regional systems of care must coordinate EMS dispatch, hospital triage, and interfacility transport to ensure rapid reperfusion:
+
+![Figure 6: Care System Pathway for Patients Experiencing Ischemic Symptoms Suggestive of ACS](images/fig06_care_system_pathway_ischemic_symptoms.jpg)
+
+
+
+### Recommendation Table 13 — Recommendation for Regional Systems of STEMI Care
+
+**Regional Systems of STEMI Care**
+
+| Recommendations | Class | Level |
+|---|:---:|:---:|
+| All communities should create and maintain regional systems of STEMI care that coordinate prehospital and hospital-based STEMI care processes with the goal of reducing total ischemic time and improving survival in patients with STEMI. | **I** | **B-NR** |
+
+
+### 5.2 Primary Percutaneous Coronary Intervention (PPCI) and Urgent CABG
+* **Primary PCI (PPCI):** PPCI is the preferred reperfusion strategy for patients presenting with STEMI within 12 hours of symptom onset, provided it can be performed within 120 minutes of STEMI diagnosis (or FMC-to-device time $\le 90\text{ minutes}$ at PCI centers, $\le 120\text{ minutes}$ for transfer patients) (Class 1, Level A).
+* **Urgent CABG Surgery:** Indicated in STEMI patients with coronary anatomy not amenable to PCI, failed PCI with ongoing ischemia, or mechanical complications (VSR, papillary muscle rupture) in the absence of refractory cardiogenic arrest.
+
+
+
+### Recommendation Table 14 — Recommendations for PPCI in STEMI
+
+**Primary PCI in Patients With STEMI**
+
+| Recommendations | Class | Level |
+|---|:---:|:---:|
+| In patients with STEMI presenting <12 hours after symptom onset, PPCI should be performed with a goal of FMC to device activation of ≤90 minutes, or ≤120 minutes in patients requiring hospital transfer, to improve survival. | **I** | **A** |
+| In patients with ACS and cardiogenic shock or hemodynamic instability, emergency revascularization of the culprit vessel by PCI or CABG is indicated to improve survival, irrespective of time from symptom onset. | **I** | **B-R** |
+| In patients with STEMI presenting 12 to 24 hours after symptom onset, PPCI is reasonable to improve clinical outcomes. | **IIa** | **B-NR** |
+| In patients with STEMI presenting >24 hours after symptom onset with the presence of ongoing ischemia or life-threatening arrhythmia, PPCI is reasonable to improve clinical outcomes. | **IIa** | **C-LD** |
+| In patients who are stable with STEMI who have a totally occluded infarct-related artery >24 hours after symptom onset and are without evidence of ongoing ischemia, acute severe HF, or life-threatening arrhythmia, PPCI should not be performed due to lack of benefit. | **III-no-benefit** | **B-R** |
+
+
+### Recommendation Table 15 — Recommendation for Urgent CABG Surgery
+
+**Urgent CABG Surgery in STEMI**
+
+| Recommendations | Class | Level |
+|---|:---:|:---:|
+| In patients with STEMI in whom PCI is not feasible or successful, with a large area of myocardium at risk, emergency or urgent CABG surgery can be effective to improve clinical outcomes. | **IIa** | **B-NR** |
+
+
+### 5.3 Fibrinolytic Therapy and Pharmacoinvasive Strategy
+When PPCI cannot be performed within 120 minutes of STEMI diagnosis, **intravenous fibrinolytic therapy** is recommended within **30 minutes of hospital arrival** (door-to-needle time $\le 30\text{ minutes}$) in patients without contraindications presenting within 12 hours of symptom onset (Class 1, Level A).
+* **Fibrin-Specific Agents:** Weight-adjusted tenecteplase (TNK-tPA) bolus is preferred due to convenience and lower non-cerebral bleeding rates.
+* **Pharmacoinvasive Transfer:** Following fibrinolytic administration, immediate transfer to a PCI-capable center is recommended for all patients. Routine coronary angiography is recommended between **2 and 24 hours** after successful fibrinolysis (STREAM trial), or immediately in cases of failed reperfusion ($< 50\%$ ST-resolution at 60–90 min) as rescue PCI.
+
+
+
+#### Table 13: Fibrin-Specific Fibrinolytic Agents for STEMI
+
+| Fibrinolytic Agent | Dose |
+|---|---|
+| Tenecteplase (TNK-tPA) | Single IV weight-based bolus |
+| Reteplase (rPA) | Two 10-unit IV boluses given 30 min apart (administered over 2 min) |
+| Alteplase (tPA) | 90-min weight-based infusion |
+
+
+#### Table 14: Absolute and Relative Contraindications for Fibrinolytic Therapy in STEMI^[a]
+
+| Contraindication |
+|---|
+| **Absolute Contraindications** |
+| Any prior ICH |
+| Known structural cerebral vascular lesion (eg, arteriovenous malformation) |
+| Known malignant intracranial neoplasm (primary or metastatic) |
+| Ischemic stroke within 3 mo except acute ischemic stroke |
+| Suspected aortic dissection |
+| Active bleeding or bleeding diathesis (excluding menses) |
+| Significant closed-head or facial trauma within 3 mo |
+| Intracranial or intraspinal surgery within 2 mo |
+| Severe uncontrolled hypertension (unresponsive to therapy) (SBP >180 mm Hg or DBP >110 mm Hg) |
+| **Relative Contraindications** |
+| History of chronic, severe, poorly controlled hypertension |
+| Significant hypertension on presentation (SBP >180 mm Hg or DBP >110 mm Hg) |
+| History of prior ischemic stroke >3 mo |
+| Dementia |
+| Known intracranial pathology not covered in absolute contraindications |
+| Traumatic or prolonged (>10 min) CPR |
+| Major surgery (<3 wk) |
+| Recent (within 2 to 4 wk) internal bleeding |
+| Noncompressible vascular punctures |
+| Pregnancy |
+| Active peptic ulcer |
+| Oral anticoagulant therapy |
+
+
+### Recommendation Table 16 — Recommendations for Reperfusion at Non–PCI-Capable Hospitals
+
+**Reperfusion Strategy at Non–PCI-Capable Hospitals**
+
+| Recommendations | Class | Level |
+|---|:---:|:---:|
+| In patients with STEMI and an estimated time from FMC to device activation of ≤120 minutes or those with a contraindication to fibrinolytic therapy, transfer to a PCI-capable hospital for PPCI is recommended to reduce MACE. | **I** | **A** |
+| In patients with STEMI and symptom onset of <12 hours and anticipated delay to PPCI >120 minutes from FMC, fibrinolytic therapy should be administered in patients without contraindication to reduce MACE. | **I** | **A** |
+| In patients with STEMI and symptom onset of 12 to 24 hours, transfer to a PCI-capable hospital for PPCI is reasonable to reduce infarct size and MACE. | **IIa** | **B-NR** |
+| In patients with only ST-segment depression, except when true posterior STEMI is suspected, fibrinolytic therapy should not be administered due to risk of hemorrhagic stroke and major noncerebral bleeding. | **III-harm** | **B-R** |
+
+
+### Recommendation Table 17 — Recommendations for Coronary Angiography and PCI After Fibrinolytic Therapy
+
+**Coronary Angiography and PCI After Fibrinolytic Therapy**
+
+| Recommendations | Class | Level |
+|---|:---:|:---:|
+| In patients with STEMI, transfer to a PCI-capable center immediately after fibrinolytic therapy is recommended. | **I** | **A** |
+| In patients with STEMI with suspected failed reperfusion after fibrinolytic therapy, immediate angiography with rescue PCI is recommended to reduce the risk of death or recurrent MI. | **I** | **B-R** |
+| In patients with STEMI treated with fibrinolytic therapy, early angiography between 2 and 24 hours with the intent to perform PCI is recommended to reduce the rates of death or MI. | **I** | **B-R** |
+
+
+</div></details>

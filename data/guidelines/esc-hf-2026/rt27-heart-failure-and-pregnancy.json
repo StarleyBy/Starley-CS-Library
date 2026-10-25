@@ -1,0 +1,71 @@
+{
+  "schemaVersion": 1,
+  "id": "esc-hf-2026.rt27-heart-failure-and-pregnancy",
+  "guidelineId": "esc-hf-2026",
+  "number": "Recommendation Table 27",
+  "type": "recommendations",
+  "title": {
+    "en": "Recommendation Table 27 — Recommendations for heart failure and pregnancy",
+    "ru": "Таблица рекомендаций 27 — Рекомендации по сердечной недостаточности и беременности"
+  },
+  "tags": [
+    "pregnancy",
+    "pre-conception",
+    "contraception",
+    "beta-blockers",
+    "ace-i",
+    "arb",
+    "arni",
+    "mra",
+    "sglt2-i",
+    "ivabradine",
+    "safety",
+    "teratogenicity"
+  ],
+  "source": {
+    "expectedRows": 3
+  },
+  "i18nStatus": {
+    "ru": "reviewed"
+  },
+  "sections": [
+    {
+      "id": "sec-pregnancy",
+      "title": {
+        "en": "Recommendations for heart failure and pregnancy (see Evidence Tables 103–107)",
+        "ru": "Рекомендации по сердечной недостаточности и беременности (см. Доказательные таблицы 103–107)"
+      },
+      "rows": [
+        {
+          "id": "r01",
+          "text": {
+            "en": "Pre-conception care and counselling is recommended for patients with HF to facilitate decision-making surrounding HF treatments, pregnancy, contraception, pre-implantation genetic screening, and assisted reproductive therapies.",
+            "ru": "Прегравидарная подготовка и консультирование до зачатия рекомендуются пациенткам с СН для содействия в принятии решений относительно лечения СН, беременности, контрацепции, преимплантационного генетического скрининга и вспомогательных репродуктивных технологий."
+          },
+          "class": "I",
+          "level": "C"
+        },
+        {
+          "id": "r02",
+          "text": {
+            "en": "In pregnant women with HFrEF, it is recommended that non-selective beta-blockers are switched to beta1-selective blockers (metoprolol, bisoprolol) with close mother and foetus monitoring to reduce the risk of adverse foetal events and a lower birth weight.",
+            "ru": "У беременных женщин с СНнФВ (HFrEF) рекомендуется перевод с неселективных бета-блокаторов на бета₁-селективные адреноблокаторы (метопролол, бисопролол) под тщательным мониторингом состояния матери и плода для снижения риска нежелательных фетальных событий и низкой массы тела при рождении."
+          },
+          "class": "I",
+          "level": "C",
+          "refs": [1072, 1073]
+        },
+        {
+          "id": "r03",
+          "text": {
+            "en": "ACE-Is, ARBs, ARNIs, MRAs, ivabradine, and SGLT2-Is are not recommended during pregnancy due to the risk of foetotoxicity or teratogenicity.",
+            "ru": "иАПФ (ACE-I), БРА (ARB), АРНИ (ARNI), АМКР (MRA), ивабрадин и иНГЛТ-2 (SGLT2-I) не рекомендуются во время беременности из-за риска фетотоксичности или тератогенности."
+          },
+          "class": "III",
+          "level": "C",
+          "refs": [1074, 1075, 1076]
+        }
+      ]
+    }
+  ]
+}

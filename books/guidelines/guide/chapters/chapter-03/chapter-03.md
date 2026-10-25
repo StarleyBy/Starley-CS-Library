@@ -1,4 +1,4 @@
-# 2023 ESC Guidelines for the management of endocarditis
+# 🦠 <span class="luminous-red">Endocarditis</span> <span class="luminous-amber">2023</span> (<span class="luminous-blue">ESC</span>)
 
 <details class="med-details"><summary>
 

@@ -1,0 +1,122 @@
+{
+  "schemaVersion": 1,
+  "id": "esc-hf-2026.t17-heart-transplantation-indications-contraindications",
+  "guidelineId": "esc-hf-2026",
+  "number": "17",
+  "type": "grid",
+  "title": {
+    "en": "Indications and contraindications for heart transplantation",
+    "ru": "Показания и противопоказания к трансплантации сердца"
+  },
+  "tags": [
+    "heart-transplantation",
+    "indications",
+    "contraindications",
+    "advanced-hf",
+    "btt",
+    "pulmonary-hypertension",
+    "pvr",
+    "infection",
+    "multiorgan"
+  ],
+  "source": {
+    "expectedRows": 3
+  },
+  "i18nStatus": {
+    "ru": "reviewed"
+  },
+  "columns": [
+    {
+      "id": "category",
+      "title": {
+        "en": "Category",
+        "ru": "Категория"
+      }
+    },
+    {
+      "id": "criteria",
+      "title": {
+        "en": "Criteria and characteristics",
+        "ru": "Критерии и характеристики"
+      }
+    }
+  ],
+  "rows": [
+    {
+      "id": "r01-indications",
+      "cells": [
+        {
+          "text": {
+            "en": "**Indications^[a]**",
+            "ru": "**Показания^[a]**"
+          },
+          "tone": "green"
+        },
+        {
+          "text": {
+            "en": "Advanced HF and no other therapeutic option (except for durable MCS as BTT)",
+            "ru": "Терминальная СН и отсутствие иных вариантов лечения (кроме длительной МПК в качестве BTT)"
+          }
+        }
+      ]
+    },
+    {
+      "id": "r02-absolute-contraindications",
+      "cells": [
+        {
+          "text": {
+            "en": "**Absolute contraindications**",
+            "ru": "**Абсолютные противопоказания**"
+          },
+          "tone": "red"
+        },
+        {
+          "text": {
+            "en": "• Inability to comply with the therapeutic regimen (e.g. dementia)\n• Serious comorbidities with poor prognosis, not reversible with heart transplantation",
+            "ru": "• Неспособность соблюдать лечебный режим (например, деменция)\n• Тяжелые сопутствующие заболевания с неблагоприятным прогнозом, необратимые после трансплантации сердца"
+          }
+        }
+      ]
+    },
+    {
+      "id": "r03-other-contraindications",
+      "cells": [
+        {
+          "text": {
+            "en": "**Other contraindications**",
+            "ru": "**Другие противопоказания**"
+          },
+          "tone": "yellow"
+        },
+        {
+          "text": {
+            "en": "• Active infection^[b]\n• Severe peripheral arterial or cerebrovascular disease\n• Elevated pulmonary vascular resistance (if pharmacologically irreversible)^[c]\n• Cancer^[d]\n• Irreversible liver dysfunction (cirrhosis) or irreversible kidney dysfunction^[e]\n• Systemic disease with multiorgan involvement\n• BMI >35 kg/m² or severe cachexia\n• Alcohol or substance abuse or active smoking within the past 6 months\n• Psychological instability\n• Insufficient social support to achieve compliant care in the outpatient setting",
+            "ru": "• Активная инфекция^[b]\n• Тяжелое заболевание периферических артерий или цереброваскулярная болезнь\n• Повышенное легочное сосудистое сопротивление (если фармакологически необратимо)^[c]\n• Злокачественные новообразования^[d]\n• Необратимая печеночная дисфункция (цирроз) или необратимая почечная дисфункция^[e]\n• Системные заболевания с полиорганным поражением\n• ИМТ >35 кг/м² или тяжелая кахексия\n• Злоупотребление алкоголем или психоактивными веществами, либо активное курение за последние 6 месяцев\n• Психологическая нестабильность\n• Недостаточная социальная поддержка для обеспечения комплаентного амбулаторного ухода"
+          }
+        }
+      ]
+    }
+  ],
+  "footnotes": {
+    "a": {
+      "en": "Indication by heart transplantation centre includes assessment of HF severity by RHC and/or CPET.",
+      "ru": "Определение показаний трансплантационным центром включает оценку тяжести СН с помощью RHC и/или CPET."
+    },
+    "b": {
+      "en": "Active infection is a relative contraindication to transplantation, but infected LVAD may be an indication.",
+      "ru": "Активная инфекция является относительным противопоказанием к трансплантации, однако инфицирование LVAD может являться показанием."
+    },
+    "c": {
+      "en": "LVAD as bridge to candidacy should be considered.",
+      "ru": "Следует рассмотреть имплантацию LVAD в качестве моста к оценке кандидатства (BTC)."
+    },
+    "d": {
+      "en": "Highly selected cases may be eligible, to be discussed with an oncologist.",
+      "ru": "Отдельные тщательно отобранные пациенты могут рассматриваться после обсуждения с онкологом."
+    },
+    "e": {
+      "en": "Combined heart–liver or heart–kidney transplantation may be considered.",
+      "ru": "Может быть рассмотрена сочетанная трансплантация сердца и печени или сердца и почки."
+    }
+  }
+}

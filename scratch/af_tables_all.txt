@@ -1,0 +1,815 @@
+==================== TABLE 5 ====================
+Table 5 Definitions and classifications for the temporal pattern of 
+AF ................................................................................................................................. 3327
+Table 6 Other clinical concepts relevant to AF ....................................... 3327
+Table 7 The modified European Heart Rhythm Association 
+(mEHRA) symptom classification ................................................................... 3329
+Table 8 Diagnostic work-up for patients with AF .................................. 3330
+Table 9 Achieving patient-centred AF management ............................. 3331
+Table 10 Updated definitions for the CHA2DS2-VA score ............... 3342
+Table 11 Recommended doses for direct oral anticoagulant 
+therapy ....................................................................................................................... 3345
+Table 12 Drugs for rate control in AF ........................................................ 3352
+Table 13 Antiarrhythmic drugs for sinus rhythm restoration ........... 3357
+Table 14 Non-cardiac conditions associated with trigger-induced 
+AF ................................................................................................................................. 3367
+Table 15 Tools for AF screening .................................................................... 3373
+Table 16 Factors associated with incident AF .......................................... 3375
+Table 17 ‘What to do’ and ‘what not to do’ ............................................ 3379
+List of figures
+Figure 1 Impacts and outcomes associated with clinical AF. AF, atrial 
+fibrillation .................................................................................................................. 3329
+Figure 2 Multidisciplinary approach to AF management ...................... 3331
+Figure 3 Central illustration. Patient pathway for AF-CARE (see Figures 
+4, 5, 6, and 7 for the [R] pathways for first-diagnosed, paroxysmal, 
+persistent and permanent AF) ................................................................................
+3333
+Figure 4 [R] Pathway for patients with first-diagnosed AF ................. 3334
+Figure 5 [R] Pathway for patients with paroxysmal AF ....................... 3335
+Figure 6 [R] Pathway for patients with persistent AF .......................... 3336
+Figure 7 [R] Pathway for patients with permanent AF ........................ 3337
+Figure 8 Management of key comorbidities to reduce AF 
+recurrence ................................................................................................................ 3338
+Figure 9 Common drug interactions with oral anticoagulants .......... 3343
+Figure 10 Modifying the risk of bleeding associated with OAC ....... 3349
+Figure 11 Management of oral anticoagulant-related bleeding in 
+patients with AF .................................................................................................... 3350
+Figure 12 Approaches for cardioversion in patients with AF ............ 3354
+Figure 13 Relevance of echocardiography in the AF-CARE pathway
+3363
+Figure 14 Antithrombotic therapy in patients with AF and acute or 
+chronic coronary syndromes ........................................................................... 3365
+ESC Guidelines                                                                                                                                                                                          331
+
+==================== TABLE 6 ====================
+Table 6 Other clinical concepts relevant to AF ....................................... 3327
+Table 7 The modified European Heart Rhythm Association 
+(mEHRA) symptom classification ................................................................... 3329
+Table 8 Diagnostic work-up for patients with AF .................................. 3330
+Table 9 Achieving patient-centred AF management ............................. 3331
+Table 10 Updated definitions for the CHA2DS2-VA score ............... 3342
+Table 11 Recommended doses for direct oral anticoagulant 
+therapy ....................................................................................................................... 3345
+Table 12 Drugs for rate control in AF ........................................................ 3352
+Table 13 Antiarrhythmic drugs for sinus rhythm restoration ........... 3357
+Table 14 Non-cardiac conditions associated with trigger-induced 
+AF ................................................................................................................................. 3367
+Table 15 Tools for AF screening .................................................................... 3373
+Table 16 Factors associated with incident AF .......................................... 3375
+Table 17 ‘What to do’ and ‘what not to do’ ............................................ 3379
+List of figures
+Figure 1 Impacts and outcomes associated with clinical AF. AF, atrial 
+fibrillation .................................................................................................................. 3329
+Figure 2 Multidisciplinary approach to AF management ...................... 3331
+Figure 3 Central illustration. Patient pathway for AF-CARE (see Figures 
+4, 5, 6, and 7 for the [R] pathways for first-diagnosed, paroxysmal, 
+persistent and permanent AF) ................................................................................
+3333
+Figure 4 [R] Pathway for patients with first-diagnosed AF ................. 3334
+Figure 5 [R] Pathway for patients with paroxysmal AF ....................... 3335
+Figure 6 [R] Pathway for patients with persistent AF .......................... 3336
+Figure 7 [R] Pathway for patients with permanent AF ........................ 3337
+Figure 8 Management of key comorbidities to reduce AF 
+recurrence ................................................................................................................ 3338
+Figure 9 Common drug interactions with oral anticoagulants .......... 3343
+Figure 10 Modifying the risk of bleeding associated with OAC ....... 3349
+Figure 11 Management of oral anticoagulant-related bleeding in 
+patients with AF .................................................................................................... 3350
+Figure 12 Approaches for cardioversion in patients with AF ............ 3354
+Figure 13 Relevance of echocardiography in the AF-CARE pathway
+3363
+Figure 14 Antithrombotic therapy in patients with AF and acute or 
+chronic coronary syndromes ........................................................................... 3365
+ESC Guidelines                                                                                                                                                                                          3317
+Downloaded from https://academic.oup.com/eurheartj/article/45/36/3314/7738779 by guest on 31 March 2026
+
+
+=== PAGE 5 ===
+
+Figure 15 Non-invasive diagnostic methods for AF screening .......... 3372
+Figure 1
+
+==================== TABLE 7 ====================
+Table 7 The modified European Heart Rhythm Association 
+(mEHRA) symptom classification ................................................................... 3329
+Table 8 Diagnostic work-up for patients with AF .................................. 3330
+Table 9 Achieving patient-centred AF management ............................. 3331
+Table 10 Updated definitions for the CHA2DS2-VA score ............... 3342
+Table 11 Recommended doses for direct oral anticoagulant 
+therapy ....................................................................................................................... 3345
+Table 12 Drugs for rate control in AF ........................................................ 3352
+Table 13 Antiarrhythmic drugs for sinus rhythm restoration ........... 3357
+Table 14 Non-cardiac conditions associated with trigger-induced 
+AF ................................................................................................................................. 3367
+Table 15 Tools for AF screening .................................................................... 3373
+Table 16 Factors associated with incident AF .......................................... 3375
+Table 17 ‘What to do’ and ‘what not to do’ ............................................ 3379
+List of figures
+Figure 1 Impacts and outcomes associated with clinical AF. AF, atrial 
+fibrillation .................................................................................................................. 3329
+Figure 2 Multidisciplinary approach to AF management ...................... 3331
+Figure 3 Central illustration. Patient pathway for AF-CARE (see Figures 
+4, 5, 6, and 7 for the [R] pathways for first-diagnosed, paroxysmal, 
+persistent and permanent AF) ................................................................................
+3333
+Figure 4 [R] Pathway for patients with first-diagnosed AF ................. 3334
+Figure 5 [R] Pathway for patients with paroxysmal AF ....................... 3335
+Figure 6 [R] Pathway for patients with persistent AF .......................... 3336
+Figure 7 [R] Pathway for patients with permanent AF ........................ 3337
+Figure 8 Management of key comorbidities to reduce AF 
+recurrence ................................................................................................................ 3338
+Figure 9 Common drug interactions with oral anticoagulants .......... 3343
+Figure 10 Modifying the risk of bleeding associated with OAC ....... 3349
+Figure 11 Management of oral anticoagulant-related bleeding in 
+patients with AF .................................................................................................... 3350
+Figure 12 Approaches for cardioversion in patients with AF ............ 3354
+Figure 13 Relevance of echocardiography in the AF-CARE pathway
+3363
+Figure 14 Antithrombotic therapy in patients with AF and acute or 
+chronic coronary syndromes ........................................................................... 3365
+ESC Guidelines                                                                                                                                                                                          3317
+Downloaded from https://academic.oup.com/eurheartj/article/45/36/3314/7738779 by guest on 31 March 2026
+
+
+=== PAGE 5 ===
+
+Figure 15 Non-invasive diagnostic methods for AF screening .......... 3372
+Figure 16 Approaches to screening for AF ............................................... 3374
+Abbrev
+
+==================== TABLE 8 ====================
+Table 8 Diagnostic work-up for patients with AF .................................. 3330
+Table 9 Achieving patient-centred AF management ............................. 3331
+Table 10 Updated definitions for the CHA2DS2-VA score ............... 3342
+Table 11 Recommended doses for direct oral anticoagulant 
+therapy ....................................................................................................................... 3345
+Table 12 Drugs for rate control in AF ........................................................ 3352
+Table 13 Antiarrhythmic drugs for sinus rhythm restoration ........... 3357
+Table 14 Non-cardiac conditions associated with trigger-induced 
+AF ................................................................................................................................. 3367
+Table 15 Tools for AF screening .................................................................... 3373
+Table 16 Factors associated with incident AF .......................................... 3375
+Table 17 ‘What to do’ and ‘what not to do’ ............................................ 3379
+List of figures
+Figure 1 Impacts and outcomes associated with clinical AF. AF, atrial 
+fibrillation .................................................................................................................. 3329
+Figure 2 Multidisciplinary approach to AF management ...................... 3331
+Figure 3 Central illustration. Patient pathway for AF-CARE (see Figures 
+4, 5, 6, and 7 for the [R] pathways for first-diagnosed, paroxysmal, 
+persistent and permanent AF) ................................................................................
+3333
+Figure 4 [R] Pathway for patients with first-diagnosed AF ................. 3334
+Figure 5 [R] Pathway for patients with paroxysmal AF ....................... 3335
+Figure 6 [R] Pathway for patients with persistent AF .......................... 3336
+Figure 7 [R] Pathway for patients with permanent AF ........................ 3337
+Figure 8 Management of key comorbidities to reduce AF 
+recurrence ................................................................................................................ 3338
+Figure 9 Common drug interactions with oral anticoagulants .......... 3343
+Figure 10 Modifying the risk of bleeding associated with OAC ....... 3349
+Figure 11 Management of oral anticoagulant-related bleeding in 
+patients with AF .................................................................................................... 3350
+Figure 12 Approaches for cardioversion in patients with AF ............ 3354
+Figure 13 Relevance of echocardiography in the AF-CARE pathway
+3363
+Figure 14 Antithrombotic therapy in patients with AF and acute or 
+chronic coronary syndromes ........................................................................... 3365
+ESC Guidelines                                                                                                                                                                                          3317
+Downloaded from https://academic.oup.com/eurheartj/article/45/36/3314/7738779 by guest on 31 March 2026
+
+
+=== PAGE 5 ===
+
+Figure 15 Non-invasive diagnostic methods for AF screening .......... 3372
+Figure 16 Approaches to screening for AF ............................................... 3374
+Abbreviations and acronyms
+AAD
+Antiarrhythmic drugs
+ACE
+Angiotensin-converting enzyme
+ACEi
+Angiotensin-converting enzyme inhibitor
+ACS
+Acute coronary syndromes
+ACTIVE
+
+==================== TABLE 9 ====================
+Table 9 Achieving patient-centred AF management ............................. 3331
+Table 10 Updated definitions for the CHA2DS2-VA score ............... 3342
+Table 11 Recommended doses for direct oral anticoagulant 
+therapy ....................................................................................................................... 3345
+Table 12 Drugs for rate control in AF ........................................................ 3352
+Table 13 Antiarrhythmic drugs for sinus rhythm restoration ........... 3357
+Table 14 Non-cardiac conditions associated with trigger-induced 
+AF ................................................................................................................................. 3367
+Table 15 Tools for AF screening .................................................................... 3373
+Table 16 Factors associated with incident AF .......................................... 3375
+Table 17 ‘What to do’ and ‘what not to do’ ............................................ 3379
+List of figures
+Figure 1 Impacts and outcomes associated with clinical AF. AF, atrial 
+fibrillation .................................................................................................................. 3329
+Figure 2 Multidisciplinary approach to AF management ...................... 3331
+Figure 3 Central illustration. Patient pathway for AF-CARE (see Figures 
+4, 5, 6, and 7 for the [R] pathways for first-diagnosed, paroxysmal, 
+persistent and permanent AF) ................................................................................
+3333
+Figure 4 [R] Pathway for patients with first-diagnosed AF ................. 3334
+Figure 5 [R] Pathway for patients with paroxysmal AF ....................... 3335
+Figure 6 [R] Pathway for patients with persistent AF .......................... 3336
+Figure 7 [R] Pathway for patients with permanent AF ........................ 3337
+Figure 8 Management of key comorbidities to reduce AF 
+recurrence ................................................................................................................ 3338
+Figure 9 Common drug interactions with oral anticoagulants .......... 3343
+Figure 10 Modifying the risk of bleeding associated with OAC ....... 3349
+Figure 11 Management of oral anticoagulant-related bleeding in 
+patients with AF .................................................................................................... 3350
+Figure 12 Approaches for cardioversion in patients with AF ............ 3354
+Figure 13 Relevance of echocardiography in the AF-CARE pathway
+3363
+Figure 14 Antithrombotic therapy in patients with AF and acute or 
+chronic coronary syndromes ........................................................................... 3365
+ESC Guidelines                                                                                                                                                                                          3317
+Downloaded from https://academic.oup.com/eurheartj/article/45/36/3314/7738779 by guest on 31 March 2026
+
+
+=== PAGE 5 ===
+
+Figure 15 Non-invasive diagnostic methods for AF screening .......... 3372
+Figure 16 Approaches to screening for AF ............................................... 3374
+Abbreviations and acronyms
+AAD
+Antiarrhythmic drugs
+ACE
+Angiotensin-converting enzyme
+ACEi
+Angiotensin-converting enzyme inhibitor
+ACS
+Acute coronary syndromes
+ACTIVE W
+Atrial fibrillation Clopidogrel Trial with Irbesartan 
+for prevention of Vascular Eve
+
+==================== TABLE 10 ====================
+Table 10 Updated definitions for the CHA2DS2-VA score ............... 3342
+Table 11 Recommended doses for direct oral anticoagulant 
+therapy ....................................................................................................................... 3345
+Table 12 Drugs for rate control in AF ........................................................ 3352
+Table 13 Antiarrhythmic drugs for sinus rhythm restoration ........... 3357
+Table 14 Non-cardiac conditions associated with trigger-induced 
+AF ................................................................................................................................. 3367
+Table 15 Tools for AF screening .................................................................... 3373
+Table 16 Factors associated with incident AF .......................................... 3375
+Table 17 ‘What to do’ and ‘what not to do’ ............................................ 3379
+List of figures
+Figure 1 Impacts and outcomes associated with clinical AF. AF, atrial 
+fibrillation .................................................................................................................. 3329
+Figure 2 Multidisciplinary approach to AF management ...................... 3331
+Figure 3 Central illustration. Patient pathway for AF-CARE (see Figures 
+4, 5, 6, and 7 for the [R] pathways for first-diagnosed, paroxysmal, 
+persistent and permanent AF) ................................................................................
+3333
+Figure 4 [R] Pathway for patients with first-diagnosed AF ................. 3334
+Figure 5 [R] Pathway for patients with paroxysmal AF ....................... 3335
+Figure 6 [R] Pathway for patients with persistent AF .......................... 3336
+Figure 7 [R] Pathway for patients with permanent AF ........................ 3337
+Figure 8 Management of key comorbidities to reduce AF 
+recurrence ................................................................................................................ 3338
+Figure 9 Common drug interactions with oral anticoagulants .......... 3343
+Figure 10 Modifying the risk of bleeding associated with OAC ....... 3349
+Figure 11 Management of oral anticoagulant-related bleeding in 
+patients with AF .................................................................................................... 3350
+Figure 12 Approaches for cardioversion in patients with AF ............ 3354
+Figure 13 Relevance of echocardiography in the AF-CARE pathway
+3363
+Figure 14 Antithrombotic therapy in patients with AF and acute or 
+chronic coronary syndromes ........................................................................... 3365
+ESC Guidelines                                                                                                                                                                                          3317
+Downloaded from https://academic.oup.com/eurheartj/article/45/36/3314/7738779 by guest on 31 March 2026
+
+
+=== PAGE 5 ===
+
+Figure 15 Non-invasive diagnostic methods for AF screening .......... 3372
+Figure 16 Approaches to screening for AF ............................................... 3374
+Abbreviations and acronyms
+AAD
+Antiarrhythmic drugs
+ACE
+Angiotensin-converting enzyme
+ACEi
+Angiotensin-converting enzyme inhibitor
+ACS
+Acute coronary syndromes
+ACTIVE W
+Atrial fibrillation Clopidogrel Trial with Irbesartan 
+for prevention of Vascular Events (trial)
+AF
+Atrial fibrillation
+AF-CARE
+Atrial fibrillation—[C] Comorbidity and
+
+==================== TABLE 11 ====================
+Table 11 Recommended doses for direct oral anticoagulant 
+therapy ....................................................................................................................... 3345
+Table 12 Drugs for rate control in AF ........................................................ 3352
+Table 13 Antiarrhythmic drugs for sinus rhythm restoration ........... 3357
+Table 14 Non-cardiac conditions associated with trigger-induced 
+AF ................................................................................................................................. 3367
+Table 15 Tools for AF screening .................................................................... 3373
+Table 16 Factors associated with incident AF .......................................... 3375
+Table 17 ‘What to do’ and ‘what not to do’ ............................................ 3379
+List of figures
+Figure 1 Impacts and outcomes associated with clinical AF. AF, atrial 
+fibrillation .................................................................................................................. 3329
+Figure 2 Multidisciplinary approach to AF management ...................... 3331
+Figure 3 Central illustration. Patient pathway for AF-CARE (see Figures 
+4, 5, 6, and 7 for the [R] pathways for first-diagnosed, paroxysmal, 
+persistent and permanent AF) ................................................................................
+3333
+Figure 4 [R] Pathway for patients with first-diagnosed AF ................. 3334
+Figure 5 [R] Pathway for patients with paroxysmal AF ....................... 3335
+Figure 6 [R] Pathway for patients with persistent AF .......................... 3336
+Figure 7 [R] Pathway for patients with permanent AF ........................ 3337
+Figure 8 Management of key comorbidities to reduce AF 
+recurrence ................................................................................................................ 3338
+Figure 9 Common drug interactions with oral anticoagulants .......... 3343
+Figure 10 Modifying the risk of bleeding associated with OAC ....... 3349
+Figure 11 Management of oral anticoagulant-related bleeding in 
+patients with AF .................................................................................................... 3350
+Figure 12 Approaches for cardioversion in patients with AF ............ 3354
+Figure 13 Relevance of echocardiography in the AF-CARE pathway
+3363
+Figure 14 Antithrombotic therapy in patients with AF and acute or 
+chronic coronary syndromes ........................................................................... 3365
+ESC Guidelines                                                                                                                                                                                          3317
+Downloaded from https://academic.oup.com/eurheartj/article/45/36/3314/7738779 by guest on 31 March 2026
+
+
+=== PAGE 5 ===
+
+Figure 15 Non-invasive diagnostic methods for AF screening .......... 3372
+Figure 16 Approaches to screening for AF ............................................... 3374
+Abbreviations and acronyms
+AAD
+Antiarrhythmic drugs
+ACE
+Angiotensin-converting enzyme
+ACEi
+Angiotensin-converting enzyme inhibitor
+ACS
+Acute coronary syndromes
+ACTIVE W
+Atrial fibrillation Clopidogrel Trial with Irbesartan 
+for prevention of Vascular Events (trial)
+AF
+Atrial fibrillation
+AF-CARE
+Atrial fibrillation—[C] Comorbidity and risk factor 
+management, [A] Avoid stroke and 
+thromboembolism, [R] Reduce
+
+==================== TABLE 12 ====================
+Table 12 Drugs for rate control in AF ........................................................ 3352
+Table 13 Antiarrhythmic drugs for sinus rhythm restoration ........... 3357
+Table 14 Non-cardiac conditions associated with trigger-induced 
+AF ................................................................................................................................. 3367
+Table 15 Tools for AF screening .................................................................... 3373
+Table 16 Factors associated with incident AF .......................................... 3375
+Table 17 ‘What to do’ and ‘what not to do’ ............................................ 3379
+List of figures
+Figure 1 Impacts and outcomes associated with clinical AF. AF, atrial 
+fibrillation .................................................................................................................. 3329
+Figure 2 Multidisciplinary approach to AF management ...................... 3331
+Figure 3 Central illustration. Patient pathway for AF-CARE (see Figures 
+4, 5, 6, and 7 for the [R] pathways for first-diagnosed, paroxysmal, 
+persistent and permanent AF) ................................................................................
+3333
+Figure 4 [R] Pathway for patients with first-diagnosed AF ................. 3334
+Figure 5 [R] Pathway for patients with paroxysmal AF ....................... 3335
+Figure 6 [R] Pathway for patients with persistent AF .......................... 3336
+Figure 7 [R] Pathway for patients with permanent AF ........................ 3337
+Figure 8 Management of key comorbidities to reduce AF 
+recurrence ................................................................................................................ 3338
+Figure 9 Common drug interactions with oral anticoagulants .......... 3343
+Figure 10 Modifying the risk of bleeding associated with OAC ....... 3349
+Figure 11 Management of oral anticoagulant-related bleeding in 
+patients with AF .................................................................................................... 3350
+Figure 12 Approaches for cardioversion in patients with AF ............ 3354
+Figure 13 Relevance of echocardiography in the AF-CARE pathway
+3363
+Figure 14 Antithrombotic therapy in patients with AF and acute or 
+chronic coronary syndromes ........................................................................... 3365
+ESC Guidelines                                                                                                                                                                                          3317
+Downloaded from https://academic.oup.com/eurheartj/article/45/36/3314/7738779 by guest on 31 March 2026
+
+
+=== PAGE 5 ===
+
+Figure 15 Non-invasive diagnostic methods for AF screening .......... 3372
+Figure 16 Approaches to screening for AF ............................................... 3374
+Abbreviations and acronyms
+AAD
+Antiarrhythmic drugs
+ACE
+Angiotensin-converting enzyme
+ACEi
+Angiotensin-converting enzyme inhibitor
+ACS
+Acute coronary syndromes
+ACTIVE W
+Atrial fibrillation Clopidogrel Trial with Irbesartan 
+for prevention of Vascular Events (trial)
+AF
+Atrial fibrillation
+AF-CARE
+Atrial fibrillation—[C] Comorbidity and risk factor 
+management, [A] Avoid stroke and 
+thromboembolism, [R] Reduce symptoms by rate and 
+rhythm control, [E] Evaluation and dynamic 
+reassessment
+AFEQT
+Atrial Fibrillation Effect on QualiTy-of-Life 
+(questionnaire)
+AFFIRM
+Atrial Fibrillation Follow-up Invest
+
+==================== TABLE 13 ====================
+Table 13 Antiarrhythmic drugs for sinus rhythm restoration ........... 3357
+Table 14 Non-cardiac conditions associated with trigger-induced 
+AF ................................................................................................................................. 3367
+Table 15 Tools for AF screening .................................................................... 3373
+Table 16 Factors associated with incident AF .......................................... 3375
+Table 17 ‘What to do’ and ‘what not to do’ ............................................ 3379
+List of figures
+Figure 1 Impacts and outcomes associated with clinical AF. AF, atrial 
+fibrillation .................................................................................................................. 3329
+Figure 2 Multidisciplinary approach to AF management ...................... 3331
+Figure 3 Central illustration. Patient pathway for AF-CARE (see Figures 
+4, 5, 6, and 7 for the [R] pathways for first-diagnosed, paroxysmal, 
+persistent and permanent AF) ................................................................................
+3333
+Figure 4 [R] Pathway for patients with first-diagnosed AF ................. 3334
+Figure 5 [R] Pathway for patients with paroxysmal AF ....................... 3335
+Figure 6 [R] Pathway for patients with persistent AF .......................... 3336
+Figure 7 [R] Pathway for patients with permanent AF ........................ 3337
+Figure 8 Management of key comorbidities to reduce AF 
+recurrence ................................................................................................................ 3338
+Figure 9 Common drug interactions with oral anticoagulants .......... 3343
+Figure 10 Modifying the risk of bleeding associated with OAC ....... 3349
+Figure 11 Management of oral anticoagulant-related bleeding in 
+patients with AF .................................................................................................... 3350
+Figure 12 Approaches for cardioversion in patients with AF ............ 3354
+Figure 13 Relevance of echocardiography in the AF-CARE pathway
+3363
+Figure 14 Antithrombotic therapy in patients with AF and acute or 
+chronic coronary syndromes ........................................................................... 3365
+ESC Guidelines                                                                                                                                                                                          3317
+Downloaded from https://academic.oup.com/eurheartj/article/45/36/3314/7738779 by guest on 31 March 2026
+
+
+=== PAGE 5 ===
+
+Figure 15 Non-invasive diagnostic methods for AF screening .......... 3372
+Figure 16 Approaches to screening for AF ............................................... 3374
+Abbreviations and acronyms
+AAD
+Antiarrhythmic drugs
+ACE
+Angiotensin-converting enzyme
+ACEi
+Angiotensin-converting enzyme inhibitor
+ACS
+Acute coronary syndromes
+ACTIVE W
+Atrial fibrillation Clopidogrel Trial with Irbesartan 
+for prevention of Vascular Events (trial)
+AF
+Atrial fibrillation
+AF-CARE
+Atrial fibrillation—[C] Comorbidity and risk factor 
+management, [A] Avoid stroke and 
+thromboembolism, [R] Reduce symptoms by rate and 
+rhythm control, [E] Evaluation and dynamic 
+reassessment
+AFEQT
+Atrial Fibrillation Effect on QualiTy-of-Life 
+(questionnaire)
+AFFIRM
+Atrial Fibrillation Follow-up Investigation of 
+Rhythm Management (trial)
+AFL
+Atrial flutter
+AFQLQ
+Atrial Fibrillation Quality of Life Q
+
+==================== TABLE 14 ====================
+Table 14 Non-cardiac conditions associated with trigger-induced 
+AF ................................................................................................................................. 3367
+Table 15 Tools for AF screening .................................................................... 3373
+Table 16 Factors associated with incident AF .......................................... 3375
+Table 17 ‘What to do’ and ‘what not to do’ ............................................ 3379
+List of figures
+Figure 1 Impacts and outcomes associated with clinical AF. AF, atrial 
+fibrillation .................................................................................................................. 3329
+Figure 2 Multidisciplinary approach to AF management ...................... 3331
+Figure 3 Central illustration. Patient pathway for AF-CARE (see Figures 
+4, 5, 6, and 7 for the [R] pathways for first-diagnosed, paroxysmal, 
+persistent and permanent AF) ................................................................................
+3333
+Figure 4 [R] Pathway for patients with first-diagnosed AF ................. 3334
+Figure 5 [R] Pathway for patients with paroxysmal AF ....................... 3335
+Figure 6 [R] Pathway for patients with persistent AF .......................... 3336
+Figure 7 [R] Pathway for patients with permanent AF ........................ 3337
+Figure 8 Management of key comorbidities to reduce AF 
+recurrence ................................................................................................................ 3338
+Figure 9 Common drug interactions with oral anticoagulants .......... 3343
+Figure 10 Modifying the risk of bleeding associated with OAC ....... 3349
+Figure 11 Management of oral anticoagulant-related bleeding in 
+patients with AF .................................................................................................... 3350
+Figure 12 Approaches for cardioversion in patients with AF ............ 3354
+Figure 13 Relevance of echocardiography in the AF-CARE pathway
+3363
+Figure 14 Antithrombotic therapy in patients with AF and acute or 
+chronic coronary syndromes ........................................................................... 3365
+ESC Guidelines                                                                                                                                                                                          3317
+Downloaded from https://academic.oup.com/eurheartj/article/45/36/3314/7738779 by guest on 31 March 2026
+
+
+=== PAGE 5 ===
+
+Figure 15 Non-invasive diagnostic methods for AF screening .......... 3372
+Figure 16 Approaches to screening for AF ............................................... 3374
+Abbreviations and acronyms
+AAD
+Antiarrhythmic drugs
+ACE
+Angiotensin-converting enzyme
+ACEi
+Angiotensin-converting enzyme inhibitor
+ACS
+Acute coronary syndromes
+ACTIVE W
+Atrial fibrillation Clopidogrel Trial with Irbesartan 
+for prevention of Vascular Events (trial)
+AF
+Atrial fibrillation
+AF-CARE
+Atrial fibrillation—[C] Comorbidity and risk factor 
+management, [A] Avoid stroke and 
+thromboembolism, [R] Reduce symptoms by rate and 
+rhythm control, [E] Evaluation and dynamic 
+reassessment
+AFEQT
+Atrial Fibrillation Effect on QualiTy-of-Life 
+(questionnaire)
+AFFIRM
+Atrial Fibrillation Follow-up Investigation of 
+Rhythm Management (trial)
+AFL
+Atrial flutter
+AFQLQ
+Atrial Fibrillation Quality of Life Questionnaire
+AF-QoL
+Atrial Fibrillation Quality of Life (questionnaire)
+AFSS
+
+==================== TABLE 15 ====================
+Table 15 Tools for AF screening .................................................................... 3373
+Table 16 Factors associated with incident AF .......................................... 3375
+Table 17 ‘What to do’ and ‘what not to do’ ............................................ 3379
+List of figures
+Figure 1 Impacts and outcomes associated with clinical AF. AF, atrial 
+fibrillation .................................................................................................................. 3329
+Figure 2 Multidisciplinary approach to AF management ...................... 3331
+Figure 3 Central illustration. Patient pathway for AF-CARE (see Figures 
+4, 5, 6, and 7 for the [R] pathways for first-diagnosed, paroxysmal, 
+persistent and permanent AF) ................................................................................
+3333
+Figure 4 [R] Pathway for patients with first-diagnosed AF ................. 3334
+Figure 5 [R] Pathway for patients with paroxysmal AF ....................... 3335
+Figure 6 [R] Pathway for patients with persistent AF .......................... 3336
+Figure 7 [R] Pathway for patients with permanent AF ........................ 3337
+Figure 8 Management of key comorbidities to reduce AF 
+recurrence ................................................................................................................ 3338
+Figure 9 Common drug interactions with oral anticoagulants .......... 3343
+Figure 10 Modifying the risk of bleeding associated with OAC ....... 3349
+Figure 11 Management of oral anticoagulant-related bleeding in 
+patients with AF .................................................................................................... 3350
+Figure 12 Approaches for cardioversion in patients with AF ............ 3354
+Figure 13 Relevance of echocardiography in the AF-CARE pathway
+3363
+Figure 14 Antithrombotic therapy in patients with AF and acute or 
+chronic coronary syndromes ........................................................................... 3365
+ESC Guidelines                                                                                                                                                                                          3317
+Downloaded from https://academic.oup.com/eurheartj/article/45/36/3314/7738779 by guest on 31 March 2026
+
+
+=== PAGE 5 ===
+
+Figure 15 Non-invasive diagnostic methods for AF screening .......... 3372
+Figure 16 Approaches to screening for AF ............................................... 3374
+Abbreviations and acronyms
+AAD
+Antiarrhythmic drugs
+ACE
+Angiotensin-converting enzyme
+ACEi
+Angiotensin-converting enzyme inhibitor
+ACS
+Acute coronary syndromes
+ACTIVE W
+Atrial fibrillation Clopidogrel Trial with Irbesartan 
+for prevention of Vascular Events (trial)
+AF
+Atrial fibrillation
+AF-CARE
+Atrial fibrillation—[C] Comorbidity and risk factor 
+management, [A] Avoid stroke and 
+thromboembolism, [R] Reduce symptoms by rate and 
+rhythm control, [E] Evaluation and dynamic 
+reassessment
+AFEQT
+Atrial Fibrillation Effect on QualiTy-of-Life 
+(questionnaire)
+AFFIRM
+Atrial Fibrillation Follow-up Investigation of 
+Rhythm Management (trial)
+AFL
+Atrial flutter
+AFQLQ
+Atrial Fibrillation Quality of Life Questionnaire
+AF-QoL
+Atrial Fibrillation Quality of Life (questionnaire)
+AFSS
+Atrial Fibrillation Severity Scale
+AI
+Artificial intelligence
+APACHE-AF
+Apixaban After Anticoagulation-associated 
+Intracerebral Haemorrhage in Patients With Atrial 
+Fibrillation (trial)
+APAF-CRT
+Ablate
+
+==================== TABLE 16 ====================
+Table 16 Factors associated with incident AF .......................................... 3375
+Table 17 ‘What to do’ and ‘what not to do’ ............................................ 3379
+List of figures
+Figure 1 Impacts and outcomes associated with clinical AF. AF, atrial 
+fibrillation .................................................................................................................. 3329
+Figure 2 Multidisciplinary approach to AF management ...................... 3331
+Figure 3 Central illustration. Patient pathway for AF-CARE (see Figures 
+4, 5, 6, and 7 for the [R] pathways for first-diagnosed, paroxysmal, 
+persistent and permanent AF) ................................................................................
+3333
+Figure 4 [R] Pathway for patients with first-diagnosed AF ................. 3334
+Figure 5 [R] Pathway for patients with paroxysmal AF ....................... 3335
+Figure 6 [R] Pathway for patients with persistent AF .......................... 3336
+Figure 7 [R] Pathway for patients with permanent AF ........................ 3337
+Figure 8 Management of key comorbidities to reduce AF 
+recurrence ................................................................................................................ 3338
+Figure 9 Common drug interactions with oral anticoagulants .......... 3343
+Figure 10 Modifying the risk of bleeding associated with OAC ....... 3349
+Figure 11 Management of oral anticoagulant-related bleeding in 
+patients with AF .................................................................................................... 3350
+Figure 12 Approaches for cardioversion in patients with AF ............ 3354
+Figure 13 Relevance of echocardiography in the AF-CARE pathway
+3363
+Figure 14 Antithrombotic therapy in patients with AF and acute or 
+chronic coronary syndromes ........................................................................... 3365
+ESC Guidelines                                                                                                                                                                                          3317
+Downloaded from https://academic.oup.com/eurheartj/article/45/36/3314/7738779 by guest on 31 March 2026
+
+
+=== PAGE 5 ===
+
+Figure 15 Non-invasive diagnostic methods for AF screening .......... 3372
+Figure 16 Approaches to screening for AF ............................................... 3374
+Abbreviations and acronyms
+AAD
+Antiarrhythmic drugs
+ACE
+Angiotensin-converting enzyme
+ACEi
+Angiotensin-converting enzyme inhibitor
+ACS
+Acute coronary syndromes
+ACTIVE W
+Atrial fibrillation Clopidogrel Trial with Irbesartan 
+for prevention of Vascular Events (trial)
+AF
+Atrial fibrillation
+AF-CARE
+Atrial fibrillation—[C] Comorbidity and risk factor 
+management, [A] Avoid stroke and 
+thromboembolism, [R] Reduce symptoms by rate and 
+rhythm control, [E] Evaluation and dynamic 
+reassessment
+AFEQT
+Atrial Fibrillation Effect on QualiTy-of-Life 
+(questionnaire)
+AFFIRM
+Atrial Fibrillation Follow-up Investigation of 
+Rhythm Management (trial)
+AFL
+Atrial flutter
+AFQLQ
+Atrial Fibrillation Quality of Life Questionnaire
+AF-QoL
+Atrial Fibrillation Quality of Life (questionnaire)
+AFSS
+Atrial Fibrillation Severity Scale
+AI
+Artificial intelligence
+APACHE-AF
+Apixaban After Anticoagulation-associated 
+Intracerebral Haemorrhage in Patients With Atrial 
+Fibrillation (trial)
+APAF-CRT
+Ablate and Pace for Atrial Fibrillation—cardiac 
+resynchronization therapy
+ARB
+Angiotensin receptor blocker
+ARTE
+
+==================== TABLE 17 ====================
+Table 17 ‘What to do’ and ‘what not to do’ ............................................ 3379
+List of figures
+Figure 1 Impacts and outcomes associated with clinical AF. AF, atrial 
+fibrillation .................................................................................................................. 3329
+Figure 2 Multidisciplinary approach to AF management ...................... 3331
+Figure 3 Central illustration. Patient pathway for AF-CARE (see Figures 
+4, 5, 6, and 7 for the [R] pathways for first-diagnosed, paroxysmal, 
+persistent and permanent AF) ................................................................................
+3333
+Figure 4 [R] Pathway for patients with first-diagnosed AF ................. 3334
+Figure 5 [R] Pathway for patients with paroxysmal AF ....................... 3335
+Figure 6 [R] Pathway for patients with persistent AF .......................... 3336
+Figure 7 [R] Pathway for patients with permanent AF ........................ 3337
+Figure 8 Management of key comorbidities to reduce AF 
+recurrence ................................................................................................................ 3338
+Figure 9 Common drug interactions with oral anticoagulants .......... 3343
+Figure 10 Modifying the risk of bleeding associated with OAC ....... 3349
+Figure 11 Management of oral anticoagulant-related bleeding in 
+patients with AF .................................................................................................... 3350
+Figure 12 Approaches for cardioversion in patients with AF ............ 3354
+Figure 13 Relevance of echocardiography in the AF-CARE pathway
+3363
+Figure 14 Antithrombotic therapy in patients with AF and acute or 
+chronic coronary syndromes ........................................................................... 3365
+ESC Guidelines                                                                                                                                                                                          3317
+Downloaded from https://academic.oup.com/eurheartj/article/45/36/3314/7738779 by guest on 31 March 2026
+
+
+=== PAGE 5 ===
+
+Figure 15 Non-invasive diagnostic methods for AF screening .......... 3372
+Figure 16 Approaches to screening for AF ............................................... 3374
+Abbreviations and acronyms
+AAD
+Antiarrhythmic drugs
+ACE
+Angiotensin-converting enzyme
+ACEi
+Angiotensin-converting enzyme inhibitor
+ACS
+Acute coronary syndromes
+ACTIVE W
+Atrial fibrillation Clopidogrel Trial with Irbesartan 
+for prevention of Vascular Events (trial)
+AF
+Atrial fibrillation
+AF-CARE
+Atrial fibrillation—[C] Comorbidity and risk factor 
+management, [A] Avoid stroke and 
+thromboembolism, [R] Reduce symptoms by rate and 
+rhythm control, [E] Evaluation and dynamic 
+reassessment
+AFEQT
+Atrial Fibrillation Effect on QualiTy-of-Life 
+(questionnaire)
+AFFIRM
+Atrial Fibrillation Follow-up Investigation of 
+Rhythm Management (trial)
+AFL
+Atrial flutter
+AFQLQ
+Atrial Fibrillation Quality of Life Questionnaire
+AF-QoL
+Atrial Fibrillation Quality of Life (questionnaire)
+AFSS
+Atrial Fibrillation Severity Scale
+AI
+Artificial intelligence
+APACHE-AF
+Apixaban After Anticoagulation-associated 
+Intracerebral Haemorrhage in Patients With Atrial 
+Fibrillation (trial)
+APAF-CRT
+Ablate and Pace for Atrial Fibrillation—cardiac 
+resynchronization therapy
+ARB
+Angiotensin receptor blocker
+ARTESiA
+Apixaban for the Reduction of Thromboembolism 
+in Patients With Device-Detected Sub-Clini
+

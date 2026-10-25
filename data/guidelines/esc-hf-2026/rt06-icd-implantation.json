@@ -1,0 +1,109 @@
+{
+  "schemaVersion": 1,
+  "id": "esc-hf-2026.rt06-icd-implantation",
+  "guidelineId": "esc-hf-2026",
+  "number": "Recommendation Table 6",
+  "type": "recommendations",
+  "title": {
+    "en": "Recommendations for implantable cardioverter-defibrillator implantation",
+    "ru": "Рекомендации по имплантации кардиовертера-дефибриллятора"
+  },
+  "tags": [
+    "icd",
+    "defibrillator",
+    "sudden-cardiac-death",
+    "secondary-prevention",
+    "primary-prevention",
+    "cied",
+    "wearable-defibrillator",
+    "post-mi",
+    "hfref"
+  ],
+  "source": {
+    "expectedRows": 7
+  },
+  "i18nStatus": {
+    "ru": "reviewed"
+  },
+  "sections": [
+    {
+      "id": "sec-icd-implantation",
+      "title": {
+        "en": "Recommendations for implantable cardioverter-defibrillator implantation (see Evidence Tables 42–48)",
+        "ru": "Рекомендации по имплантации кардиовертера-дефибриллятора (см. Доказательные таблицы 42–48)"
+      },
+      "rows": [
+        {
+          "id": "r01",
+          "text": {
+            "en": "An ICD is recommended in patients who have recovered from a ventricular arrhythmia causing haemodynamic instability (secondary prevention), and who are expected to survive for >1 year with good functional status, in the absence of reversible causes, or unless the ventricular arrhythmia has occurred <48 h after an MI, to reduce the risk of sudden death and all-cause death.",
+            "ru": "ИКД рекомендуется пациентам, перенесшим желудочковую аритмию, вызвавшую гемодинамическую нестабильность (вторичная профилактика), с ожидаемой продолжительностью жизни >1 года в удовлетворительном функциональном статусе, при отсутствии обратимых причин или если желудочковая аритмия возникла не в первые 48 ч после ИМ, для снижения риска внезапной смерти и общей смертности."
+          },
+          "class": "I",
+          "level": "A",
+          "refs": [346]
+        },
+        {
+          "id": "r02",
+          "text": {
+            "en": "An ICD is recommended in patients with symptomatic HFrEF (NYHA class II/III) of an ischaemic aetiology (unless they have had an MI in the prior 40 days), and an LVEF ≤35% despite ≥3 months of optimal FMT, provided they are expected to survive longer than 1 year with good functional status, to reduce the risk of sudden death and all-cause death.",
+            "ru": "ИКД рекомендуется пациентам с симптоматической СНнФВ (II/III ФК по NYHA) ишемической этиологии (если с момента ИМ прошло более 40 дней) и ФВЛЖ ≤35%, несмотря на ≥3 месяцев оптимальной базовой терапии (FMT), при условии ожидаемой выживаемости более 1 года с удовлетворительным функциональным статусом, для снижения риска внезапной смерти и общей смертности."
+          },
+          "class": "I",
+          "level": "B1",
+          "refs": [340, 342, 373, 374]
+        },
+        {
+          "id": "r03",
+          "text": {
+            "en": "An ICD should be considered in patients with symptomatic HFrEF (NYHA class II/III) of a non-ischaemic aetiology, and an LVEF ≤35% despite ≥3 months of optimal FMT, provided they are expected to survive longer than 1 year with good functional status, to reduce the risk of sudden death and all-cause death.",
+            "ru": "ИКД должен рассматриваться у пациентов с симптоматической СНнФВ (II/III ФК по NYHA) неишемической этиологии и ФВЛЖ ≤35%, несмотря на ≥3 месяцев оптимальной базовой терапии (FMT), при условии ожидаемой выживаемости более 1 года с удовлетворительным функциональным статусом, для снижения риска внезапной смерти и общей смертности."
+          },
+          "class": "IIa",
+          "level": "B1",
+          "refs": [340, 341, 344, 375]
+        },
+        {
+          "id": "r04",
+          "text": {
+            "en": "Prior to generator replacement for CIEDs, a shared decision-making process between the patient and a cardiologist experienced in CIEDs and HF should be considered to ensure that the balance between risks and benefits still favour a CIED.",
+            "ru": "Перед заменой генератора имплантируемого устройства (CIED) должен рассматриваться процесс совместного принятия решений между пациентом и кардиологом, имеющим опыт ведения CIED и СН, чтобы убедиться, что баланс пользы и рисков по-прежнему оправдывает наличие устройства."
+          },
+          "class": "IIa",
+          "level": "C",
+          "refs": [376, 377, 378, 379, 380]
+        },
+        {
+          "id": "r05",
+          "text": {
+            "en": "A wearable cardioverter-defibrillator may be considered in patients with HF who are at risk of sudden cardiac death for a limited period in order to increase survival as a bridge to decision for permanent ICD implantation or while listed for heart transplantation.",
+            "ru": "Носимый кардиовертер-дефибриллятор может быть рассмотрен у пациентов с СН, имеющих риск внезапной сердечной смерти в течение ограниченного периода времени, для повышения выживаемости в качестве моста к решению вопроса о постоянной имплантации ИКД или во время нахождения в листе ожидания трансплантации сердца."
+          },
+          "class": "IIb",
+          "level": "C",
+          "refs": [381, 382, 383, 384]
+        },
+        {
+          "id": "r06",
+          "text": {
+            "en": "ICD implantation for primary prevention is not recommended within 40 days of an MI as implantation during this period does not improve prognosis.",
+            "ru": "Имплантация ИКД с целью первичной профилактики не рекомендуется в течение 40 дней после ИМ, поскольку имплантация в этот период не улучшает прогноз."
+          },
+          "class": "III",
+          "level": "B1",
+          "refs": [358, 359]
+        },
+        {
+          "id": "r07",
+          "text": {
+            "en": "ICD implantation is not recommended in patients in NYHA class IV with severe symptoms refractory to pharmacological therapy unless they are candidates for CRT, a ventricular assist device, or heart transplantation.",
+            "ru": "Имплантация ИКД не рекомендуется пациентам с IV ФК по NYHA с тяжелыми симптомами, рефрактерными к медикаментозной терапии, если только они не являются кандидатами на СРТ, установку аппарата вспомогательного кровообращения или трансплантацию сердца."
+          },
+          "class": "III",
+          "level": "C",
+          "refs": [374, 385, 386, 387]
+        }
+      ]
+    }
+  ]
+}

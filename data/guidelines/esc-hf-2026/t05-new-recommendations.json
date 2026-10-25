@@ -1,0 +1,465 @@
+{
+  "schemaVersion": 1,
+  "id": "esc-hf-2026.t05-new-recommendations",
+  "guidelineId": "esc-hf-2026",
+  "number": "5",
+  "type": "recommendations",
+  "title": {
+    "en": "New recommendations",
+    "ru": "Новые рекомендации"
+  },
+  "tags": [
+    "new-recommendations",
+    "heart-failure",
+    "prevention",
+    "diagnosis",
+    "fmt",
+    "dhf",
+    "advanced-hf",
+    "tmcs",
+    "crt",
+    "amyloidosis",
+    "rehabilitation",
+    "pregnancy"
+  ],
+  "source": {
+    "expectedRows": 39
+  },
+  "i18nStatus": {
+    "ru": "reviewed"
+  },
+  "sections": [
+    {
+      "id": "sec-prevention-heart-failure",
+      "title": {
+        "en": "Prevention of heart failure—Section 4",
+        "ru": "Профилактика сердечной недостаточности — Раздел 4"
+      },
+      "rows": [
+        {
+          "id": "r01",
+          "text": {
+            "en": "Counselling on healthy lifestyle choices including maintaining a healthy weight, consuming a well-balanced diet, avoiding sedentary behaviour, abstaining from smoking and heavy alcohol consumption, as well as counselling against the use of drugs such as cocaine, amphetamines, and anabolic steroids, is recommended for all patients with stage A or B HF to reduce the risk of HF progression.",
+            "ru": "Консультирование по здоровому образу жизни, включая поддержание нормальной массы тела, сбалансированное питание, предотвращение малоподвижного образа жизни, отказ от курения и злоупотребления алкоголем, а также разъяснение недопустимости употребления наркотических веществ (таких как кокаин, амфетамины) и анаболических стероидов, рекомендуется всем пациентам со стадией A или B СН для снижения риска прогрессирования СН."
+          },
+          "class": "I",
+          "level": "C"
+        },
+        {
+          "id": "r02",
+          "text": {
+            "en": "A GLP-1 RA should be considered in patients with T2DM and at least one other additional CV risk factor to reduce the risk of HF or CV death.",
+            "ru": "Агонисты рецепторов ГПП-1 (GLP-1 RA) следует рассмотреть у пациентов с СД 2 типа и как минимум одним дополнительным сердечно-сосудистым фактором риска для снижения риска развития СН или сердечно-сосудистой смерти."
+          },
+          "class": "IIa",
+          "level": "A"
+        },
+        {
+          "id": "r03",
+          "text": {
+            "en": "An ACE-I or ARB (if intolerant to ACE-I) is recommended in patients with stage B HF and LVEF ≤40% to reduce the risk of HFH and death.",
+            "ru": "Ингибитор АПФ или БРА (при непереносимости ингибитора АПФ) рекомендуется пациентам со стадией B СН и ФВЛЖ ≤40% для снижения риска госпитализации по поводу СН и смерти."
+          },
+          "class": "I",
+          "level": "A"
+        },
+        {
+          "id": "r04",
+          "text": {
+            "en": "A beta-blocker is recommended in patients with stage B HF and LVEF <50% to reduce the risk of HFH or death.",
+            "ru": "Бета-блокатор рекомендуется пациентам со стадией B СН и ФВЛЖ <50% для снижения риска госпитализации по поводу СН или смерти."
+          },
+          "class": "I",
+          "level": "B1"
+        },
+        {
+          "id": "r05",
+          "text": {
+            "en": "Eplerenone is recommended in patients after myocardial infarction with LVEF ≤40% with signs of HF or diabetes to reduce the risk of HFH or death.",
+            "ru": "Эплеренон рекомендуется пациентам после инфаркта миокарда с ФВЛЖ ≤40% при наличии признаков СН или сахарного диабета для снижения риска госпитализации по поводу СН или смерти."
+          },
+          "class": "I",
+          "level": "B1"
+        }
+      ]
+    },
+    {
+      "id": "sec-diagnosis-chronic-heart-failure",
+      "title": {
+        "en": "Diagnosis of chronic heart failure—Section 5",
+        "ru": "Диагностика хронической сердечной недостаточности — Раздел 5"
+      },
+      "rows": [
+        {
+          "id": "r06",
+          "text": {
+            "en": "Initial diagnostic testing with serum and urine immunofixation, serum free light chains assay, and DPD/PYP/HMDP bone scintigraphy is recommended in patients with HF and a suspicion of cardiac amyloidosis.",
+            "ru": "Первичное диагностическое обследование с иммунофиксацией белков сыворотки крови и мочи, определением свободных легких цепей в сыворотке и остеосцинтиграфией с DPD/PYP/HMDP рекомендуется пациентам с СН при подозрении на амилоидоз сердца."
+          },
+          "class": "I",
+          "level": "B"
+        },
+        {
+          "id": "r07",
+          "text": {
+            "en": "Genetic testing is recommended in patients fulfilling diagnostic criteria for cardiomyopathy in cases where it enables diagnosis, prognostication, therapeutic stratification, or reproductive management of the patient, or where it enables cascade genetic evaluation of their relatives who would otherwise be enrolled into long-term surveillance.",
+            "ru": "Генетическое тестирование рекомендуется пациентам, соответствующим критериям кардиомиопатии, если оно способствует верификации диагноза, оценке прогноза, терапевтической стратификации или репродуктивному планированию, либо позволяет провести каскадный скрининг родственников, которым иначе потребовалось бы длительное динамическое наблюдение."
+          },
+          "class": "I",
+          "level": "C"
+        },
+        {
+          "id": "r08",
+          "text": {
+            "en": "18F-FDG-PET scanning should be considered for the diagnostic work-up in patients with cardiomyopathy in whom cardiac sarcoidosis is suspected.",
+            "ru": "ПЭТ-сканирование с 18F-ФДГ следует рассмотреть в рамках диагностического поиска у пациентов с кардиомиопатией при подозрении на саркоидоз сердца."
+          },
+          "class": "IIa",
+          "level": "C"
+        },
+        {
+          "id": "r09",
+          "text": {
+            "en": "Review of the proportion of RV pacing should be considered in all patients with CIED and de novo or worsening HFrEF.",
+            "ru": "Оценку доли правожелудочковой стимуляции следует рассмотреть у всех пациентов с имплантированными электронными кардиоустройствами (CIED) при впервые возникшей или прогрессирующей СНнФВ."
+          },
+          "class": "IIa",
+          "level": "C"
+        },
+        {
+          "id": "r10",
+          "text": {
+            "en": "Electrical cardioversion as a diagnostic tool may be considered in patients with persistent AF where there is uncertainty about the value of sinus rhythm restoration on symptoms or to assess improvement in left ventricular function.",
+            "ru": "Электрическую кардиоверсию в качестве диагностического инструмента можно рассмотреть у пациентов с персистирующей ФП при неопределенности относительно влияния восстановления синусового ритма на симптомы или для оценки потенциала улучшения функции левого желудочка."
+          },
+          "class": "IIb",
+          "level": "C"
+        }
+      ]
+    },
+    {
+      "id": "sec-management-chronic-heart-failure",
+      "title": {
+        "en": "Management of chronic heart failure—Section 6",
+        "ru": "Лечение хронической сердечной недостаточности — Раздел 6"
+      },
+      "rows": [
+        {
+          "id": "r11",
+          "text": {
+            "en": "Uptitration of FMT at least every 1–2 weeks in patients with HF, guided by symptoms, vital signs, and laboratory findings, to achieve optimal target doses shown to be efficacious in RCTs is recommended to reduce the risk of HFH or death.",
+            "ru": "Титрование базовой медикаментозной терапии (FMT) с шагом каждые 1–2 недели у пациентов с СН под контролем симптомов, жизненно важных показателей и лабораторных данных до достижения целевых доз, доказавших эффективность в РКИ, рекомендуется для снижения риска госпитализации по поводу СН или смерти."
+          },
+          "class": "I",
+          "level": "C"
+        },
+        {
+          "id": "r12",
+          "text": {
+            "en": "Continuation of FMT at the highest tolerated doses is recommended in all patients with HF, including those who become asymptomatic or with LVEF improvement, in order to reduce the risk of HFH and death.",
+            "ru": "Продолжение базовой медикаментозной терапии (FMT) в максимально переносимых дозах рекомендуется всем пациентам с СН, включая тех, у кого регрессировали симптомы или улучшилась ФВЛЖ, для снижения риска госпитализации по поводу СН и смерти."
+          },
+          "class": "I",
+          "level": "C"
+        },
+        {
+          "id": "r13",
+          "text": {
+            "en": "Gradual discontinuation of FMT under frequent clinical, laboratory, and imaging surveillance may be considered in highly selected patients who are asymptomatic with complete normalization of LV function and volume as well as natriuretic peptide levels after specific treatment of reversible causes of HF, in order to accommodate patient preference.",
+            "ru": "Постепенную отмену базовой медикаментозной терапии (FMT) под частым клиническим, лабораторным и визуализирующим контролем можно рассмотреть у строго отобранных бессимптомных пациентов с полной нормализацией функции и объемов ЛЖ, а также уровня натрийуретических пептидов после устранения обратимой причины СН, с учетом предпочтений пациента."
+          },
+          "class": "IIb",
+          "level": "C"
+        },
+        {
+          "id": "r14",
+          "text": {
+            "en": "ACE-I/ARB/ARNI may be considered in patients with symptomatic HFpEF to reduce the risk of HFH.",
+            "ru": "Применение ингибиторов АПФ/БРА/АРНИ можно рассмотреть у пациентов с симптомной СНсФВ (HFpEF) для снижения риска госпитализации по поводу СН."
+          },
+          "class": "IIb",
+          "level": "C"
+        },
+        {
+          "id": "r15",
+          "text": {
+            "en": "Initiation of FMT and planning for CRT implantation may be considered simultaneously in patients with symptomatic HFrEF, an LBBB with QRS ≥150 ms, and LVEF ≤35% to improve symptoms and reduce morbidity and death, although reassessment of LVEF should be conducted prior to CRT implantation.",
+            "ru": "Одновременное начало базовой медикаментозной терапии (FMT) и планирование имплантации СРТ можно рассмотреть у пациентов с симптомной СНнФВ, БЛНПГ с QRS ≥150 мс и ФВЛЖ ≤35% для облегчения симптомов и снижения заболеваемости и смертности, при этом повторная оценка ФВЛЖ должна быть выполнена перед непосредственной имплантацией СРТ."
+          },
+          "class": "IIb",
+          "level": "C"
+        }
+      ]
+    },
+    {
+      "id": "sec-decompensated-heart-failure",
+      "title": {
+        "en": "Decompensated heart failure—Section 7",
+        "ru": "Декомпенсированная сердечная недостаточность — Раздел 7"
+      },
+      "rows": [
+        {
+          "id": "r16",
+          "text": {
+            "en": "Urinary Na⁺-guided diuretic therapy may be considered during the first days of treatment of patients with DHF to improve natriuresis and diuresis.",
+            "ru": "Диуретическую терапию под контролем уровня натрия в моче (Na⁺) можно рассмотреть в первые дни лечения пациентов с декомпенсированной СН (DHF) для улучшения натрийуреза и диуреза."
+          },
+          "class": "IIb",
+          "level": "B1"
+        },
+        {
+          "id": "r17",
+          "text": {
+            "en": "In-hospital initiation of SGLT2-I is recommended in patients with DHF after initial stabilization to improve QoL and congestion symptoms and reduce the risk of HFH.",
+            "ru": "Госпитальное назначение ингибиторов SGLT2 рекомендуется пациентам с декомпенсированной СН (DHF) после начальной стабилизации для улучшения качества жизни, уменьшения симптомов застоя и снижения риска повторной госпитализации по поводу СН."
+          },
+          "class": "I",
+          "level": "B1"
+        },
+        {
+          "id": "r18",
+          "text": {
+            "en": "A multidisciplinary Shock Team is recommended in potential candidates for temporary MCS to guide the device selection (modality and type) based on patient and HF characteristics.",
+            "ru": "Мультидисциплинарная шоковая команда (Shock Team) рекомендуется для ведения потенциальных кандидатов на временную механическую поддержку кровообращения (tMCS) с целью выбора оптимального устройства (метода и типа) с учетом характеристик пациента и СН."
+          },
+          "class": "I",
+          "level": "C"
+        },
+        {
+          "id": "r19",
+          "text": {
+            "en": "Temporary MCS with a microaxial flow pump should be considered in selected patients with cardiogenic shock caused by ST-elevation MI with LV systolic dysfunction and no risk of hypoxic brain injury in order to reduce the risk of death.",
+            "ru": "Временную механическую поддержку кровообращения (tMCS) с использованием микроаксиального насоса следует рассмотреть у отобранных пациентов с кардиогенным шоком вследствие инфаркта миокарда с подъемом ST, с систолической дисфункцией ЛЖ и отсутствием риска гипоксического повреждения головного мозга для снижения риска смерти."
+          },
+          "class": "IIa",
+          "level": "B1"
+        },
+        {
+          "id": "r20",
+          "text": {
+            "en": "Temporary MCS should be considered in patients with mechanical complications related to MI as a bridge to definitive treatment.",
+            "ru": "Временную механическую поддержку кровообращения (tMCS) следует рассмотреть у пациентов с механическими осложнениями инфаркта миокарда в качестве моста к окончательному хирургическому/интервенционному лечению."
+          },
+          "class": "IIa",
+          "level": "C"
+        },
+        {
+          "id": "r21",
+          "text": {
+            "en": "Temporary MCS is not recommended in unselected patients with cardiogenic shock caused by acute MI, due to risk of harm.",
+            "ru": "Временная механическая поддержка кровообращения (tMCS) не рекомендуется у неселективных (всех подряд) пациентов с кардиогенным шоком вследствие острого инфаркта миокарда из-за риска нанесения вреда."
+          },
+          "class": "III",
+          "level": "B1"
+        }
+      ]
+    },
+    {
+      "id": "sec-advanced-heart-failure",
+      "title": {
+        "en": "Advanced heart failure—Section 8",
+        "ru": "Терминальная (тяжелая) сердечная недостаточность — Раздел 8"
+      },
+      "rows": [
+        {
+          "id": "r22",
+          "text": {
+            "en": "Early consultation with an advanced HF centre is recommended in patients with advanced HF or at risk of advanced HF, who are motivated and do not have absolute contraindications for heart transplantation or durable MCS, in order to evaluate candidacy.",
+            "ru": "Ранняя консультация в специализированном центре терминальной СН рекомендуется пациентам с терминальной СН или риском ее развития, которые мотивированы и не имеют абсолютных противопоказаний к трансплантации сердца или длительной механической поддержке кровообращения, для оценки кандидатства."
+          },
+          "class": "I",
+          "level": "A"
+        },
+        {
+          "id": "r23",
+          "text": {
+            "en": "Downtitration or discontinuation of beta-blockers or ivabradine should be considered in selected patients with advanced HFrEF and evidence of organ hypoperfusion, despite initial treatment, to increase cardiac output and improve symptoms.",
+            "ru": "Снижение дозы или отмену бета-блокаторов либо ивабрадина следует рассмотреть у отобранных пациентов с терминальной СНнФВ и признаками гипоперфузии органов, сохраняющейся несмотря на исходную терапию, для увеличения сердечного выброса и облегчения симптомов."
+          },
+          "class": "IIa",
+          "level": "C"
+        },
+        {
+          "id": "r24",
+          "text": {
+            "en": "Histopathological examination of explanted heart tissue from LVAD or heart transplantation surgery should be considered in patients with non-ischaemic HF to identify an aetiological diagnosis that may be treatable or facilitate family screening.",
+            "ru": "Патоморфологическое исследование эксплантированной ткани сердца, полученной при имплантации LVAD или трансплантации сердца, следует рассмотреть у пациентов с неишемической СН для установления этиологического диагноза, который может поддаваться специфическому лечению, или для скрининга членов семьи."
+          },
+          "class": "IIa",
+          "level": "C"
+        }
+      ]
+    },
+    {
+      "id": "sec-cardiovascular-comorbidities",
+      "title": {
+        "en": "Cardiovascular comorbidities—Section 9",
+        "ru": "Сердечно-сосудистые коморбидные состояния — Раздел 9"
+      },
+      "rows": [
+        {
+          "id": "r25",
+          "text": {
+            "en": "Atrioventricular node ablation combined with CRT should be considered in patients with severely symptomatic permanent AF and poor rate control despite medical therapy and at least one HFH to reduce symptoms, physical limitations, recurrent HFH and death.",
+            "ru": "Аблацию атриовентрикулярного узла в сочетании с СРТ следует рассмотреть у пациентов с тяжелой симптомной постоянной ФП и неудовлетворительным контролем ЧСС, несмотря на медикаментозную терапию, и как минимум одной предшествующей госпитализацией по поводу СН для уменьшения симптомов, физических ограничений, повторных госпитализаций и риска смерти."
+          },
+          "class": "IIa",
+          "level": "B1"
+        },
+        {
+          "id": "r26",
+          "text": {
+            "en": "Intravenous amiodarone or digoxin may be considered in haemodynamically unstable patients with HFrEF and AF to stabilize the patient and achieve acute control of heart rate.",
+            "ru": "Внутривенное введение амиодарона или дигоксина можно рассмотреть у гемодинамически нестабильных пациентов с СНнФВ и ФП для стабилизации состояния и быстрого контроля частоты сердечных сокращений."
+          },
+          "class": "IIb",
+          "level": "C"
+        }
+      ]
+    },
+    {
+      "id": "sec-non-cardiovascular-comorbidities",
+      "title": {
+        "en": "Non-cardiovascular comorbidities—Section 10",
+        "ru": "Некардиоваскулярные коморбидные состояния — Раздел 10"
+      },
+      "rows": [
+        {
+          "id": "r27",
+          "text": {
+            "en": "Semaglutide or tirzepatide should be considered for patients with symptomatic HF, LVEF ≥45%, and BMI ≥30 kg/m², regardless of diabetes status, to reduce body weight, and improve exercise capacity and QoL.",
+            "ru": "Семаглутид или тирзепатид следует рассмотреть у пациентов с симптомной СН, ФВЛЖ ≥45% и ИМТ ≥30 кг/м² независимо от наличия сахарного диабета для снижения массы тела, повышения толерантности к физической нагрузке и улучшения качества жизни."
+          },
+          "class": "IIa",
+          "level": "B1"
+        },
+        {
+          "id": "r28",
+          "text": {
+            "en": "Bariatric surgery may be considered in obese patients with HF and a BMI ≥35 kg/m² to reduce body weight when repetitive and structured lifestyle changes combined with weight-reducing medications do not result in maintained weight loss.",
+            "ru": "Бариатрическую хирургию можно рассмотреть у пациентов с ожирением, страдающих СН с ИМТ ≥35 кг/м², для снижения массы тела, если повторные структурированные модификации образа жизни в комбинации с фармакотерапией ожирения не привели к стойкому снижению веса."
+          },
+          "class": "IIb",
+          "level": "C"
+        },
+        {
+          "id": "r29",
+          "text": {
+            "en": "Adaptive servo-ventilation may be considered in patients with HFrEF and sleep-disordered breathing with predominant obstructive sleep apnoea to improve sleep quality, health-related QoL, and symptoms.",
+            "ru": "Адаптивную сервовентиляцию (ASV) можно рассмотреть у пациентов с СНнФВ и нарушениями дыхания во сне с преобладанием обструктивного апноэ для улучшения качества сна, связанного со здоровьем качества жизни и симптомов."
+          },
+          "class": "IIb",
+          "level": "C"
+        },
+        {
+          "id": "r30",
+          "text": {
+            "en": "Assessment of anxiety, depression and frailty should be considered in patients with HF to support the development of personalized care plans and to identify factors that may contribute to adverse outcomes.",
+            "ru": "Оценку тревоги, депрессии и старческой астении (хрупкости / frailty) следует рассмотреть у пациентов с СН для формирования индивидуального плана ведения и выявления факторов, способных ухудшить прогноз."
+          },
+          "class": "IIa",
+          "level": "C"
+        }
+      ]
+    },
+    {
+      "id": "sec-multidisciplinary-management-heart-failure",
+      "title": {
+        "en": "Multidisciplinary management of heart failure—Section 11",
+        "ru": "Мультидисциплинарное ведение сердечной недостаточности — Раздел 11"
+      },
+      "rows": [
+        {
+          "id": "r31",
+          "text": {
+            "en": "Personalized exercise training, in the context of multidisciplinary exercise-based cardiac rehabilitation, is recommended for all stable patients, unless there are specific contraindications, in order to improve exercise capacity, and QoL, and reduce the risk of all-cause hospitalization.",
+            "ru": "Персонализированные физические тренировки в структуре мультидисциплинарной кардиореабилитации рекомендуются всем стабильным пациентам при отсутствии специфических противопоказаний для повышения толерантности к нагрузкам, улучшения качества жизни и снижения риска госпитализаций по любым причинам."
+          },
+          "class": "I",
+          "level": "B1"
+        },
+        {
+          "id": "r32",
+          "text": {
+            "en": "Personalized exercise training outside exercise-based cardiac rehabilitation is recommended for all stable patients on a long-term basis, unless there are specific contraindications, in order to improve exercise capacity and QoL, and reduce the risk of all-cause hospitalization.",
+            "ru": "Персонализированные физические тренировки вне рамок формальной программы кардиореабилитации рекомендуются всем стабильным пациентам на долгосрочной основе при отсутствии противопоказаний для повышения физической работоспособности, качества жизни и снижения риска госпитализаций."
+          },
+          "class": "I",
+          "level": "B2"
+        },
+        {
+          "id": "r33",
+          "text": {
+            "en": "Cardiac rehabilitation is recommended in patients with an LVAD to improve functional capacity and QoL.",
+            "ru": "Кардиореабилитация рекомендуется пациентам с имплантированным аппаратом вспомогательного кровообращения ЛЖ (LVAD) для повышения функциональной способности и качества жизни."
+          },
+          "class": "I",
+          "level": "B1"
+        },
+        {
+          "id": "r34",
+          "text": {
+            "en": "Cardiac rehabilitation should be considered in patients with DHF, as soon as safely possible, to improve functional capacity and QoL.",
+            "ru": "Кардиореабилитацию следует рассмотреть у пациентов с декомпенсированной СН (DHF) как можно раньше после стабилизации состояния для улучшения функциональных возможностей и качества жизни."
+          },
+          "class": "IIa",
+          "level": "B1"
+        },
+        {
+          "id": "r35",
+          "text": {
+            "en": "Proactive discussion regarding HF trajectory, goals of care, and advance care planning is recommended in patients with advanced HF to facilitate communication on end of life and QoL.",
+            "ru": "Проактивное обсуждение траектории течения СН, целей терапии и заблаговременное планирование медицинской помощи рекомендуются пациентам с терминальной СН для открытого диалога о качестве жизни и вопросах терминального периода."
+          },
+          "class": "I",
+          "level": "B1"
+        },
+        {
+          "id": "r36",
+          "text": {
+            "en": "Access to an integrated HF palliative care multidisciplinary team is recommended for patients in an advanced HF stage to improve QoL and reduce symptom burden.",
+            "ru": "Обеспечение доступа к интегрированной мультидисциплинарной команде паллиативной помощи при СН рекомендуется пациентам с терминальной стадией СН для улучшения качества жизни и облегчения бремени симптомов."
+          },
+          "class": "I",
+          "level": "B2"
+        }
+      ]
+    },
+    {
+      "id": "sec-specific-conditions",
+      "title": {
+        "en": "Specific conditions—Section 12",
+        "ru": "Особенные клинические состояния — Раздел 12"
+      },
+      "rows": [
+        {
+          "id": "r37",
+          "text": {
+            "en": "Pre-conception care and counselling is recommended for patients with HF to facilitate decision-making surrounding HF treatments, pregnancy, contraception, pre-implantation genetic screening, and assisted reproductive therapies.",
+            "ru": "Прегравидарная подготовка и консультирование рекомендуются пациентам с СН для принятия взвешенных решений относительно терапии СН, беременности, контрацепции, преимплантационного генетического скрининга и вспомогательных репродуктивных технологий."
+          },
+          "class": "I",
+          "level": "C"
+        },
+        {
+          "id": "r38",
+          "text": {
+            "en": "In pregnant women with HFrEF, it is recommended that non-selective beta-blockers are switched to beta₁-selective blockers (metoprolol, bisoprolol) with close mother and foetus monitoring to reduce the risk of adverse foetal events and a lower birth weight.",
+            "ru": "У беременных женщин с СНнФВ рекомендуется перевод с неселективных бета-блокаторов на бета₁-селективные блокаторы (метопролол, бисопролол) под тщательным мониторингом состояния матери и плода для снижения риска неблагоприятных фетальных событий и низкой массы тела при рождении."
+          },
+          "class": "I",
+          "level": "C"
+        },
+        {
+          "id": "r39",
+          "text": {
+            "en": "ACE-Is, ARBs, ARNIs, MRAs, ivabradine, and SGLT2-Is are not recommended during pregnancy due to the risk of foetotoxicity or teratogenicity.",
+            "ru": "Ингибиторы АПФ, БРА, АРНИ, АМКР, ивабрадин и ингибиторы SGLT2 не рекомендованы во время беременности из-за риска фетотоксичности или тератогенного действия."
+          },
+          "class": "III",
+          "level": "C"
+        }
+      ]
+    }
+  ]
+}

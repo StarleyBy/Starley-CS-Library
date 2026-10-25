@@ -1,0 +1,431 @@
+--- PAGE 1 ---
+1
+CHAPTER 1
+Examination
+1.1	 How to set up the echo machine to optimize your examination  2
+Preparing for the TTE examination  2
+Acoustic power  3
+Gain  4
+Depth gain compensation  4
+Transmit frequency  5
+Focal position  6
+Frame rate  6
+Continuous-wave and pulsed-wave Doppler  7
+Continuous-wave and pulsed-wave Doppler  8
+Continuous-wave and pulsed-wave Doppler: settings  9
+Colour-flow mapping  10
+Advanced techniques  11
+
+--- PAGE 2 ---
+Chapter 1  Examination
+2
+1.1  How to set up the echo machine to 
+optimize your examination
+Preparing for the TTE examination
+◆
+◆Make sure the patient is comfortable/relaxed in a left decubitus position, with 
+the left arm up to open up intercostal spaces and breathing quietly to minimize 
+translation of the heart
+◆
+◆The echo-room should be:
+◆
+◆darkened: avoid sunlight for optimal contrast
+◆
+◆silent: auditory feedback allows optimizing Doppler sample positions
+◆
+◆A time-aligned ECG of good quality is mandatory for timing of cardiac events
+◆
+◆Select the appropriate probe according to the patient size
+◆
+◆Start with cardiac pre-settings (Fig. 1.1.1AB)
+Important note:
+The ultrasound machine needs maintenance for optimal performance
+Fig. 1.1.1A  Cardiac
+Fig. 1.1.1B  Abdominal
+
+--- PAGE 3 ---
+3
+The EACVI Echo Handbook
+Acoustic power
+Controls acoustic energy output
+◆
+◆More energy → better signal → better image quality (i.e. better signal-to-noise 
+ratio: SNR) (Fig. 1.1.2AB, see also Box 1.1.1)
+◆
+◆Expressed in decibel [dB] relative to the maximal energy output available on the 
+system (100% output = 0dB; 50% reduction = −6dB)
+◆
+◆Too much acoustic energy can result in tissue damage due to:
+◆
+◆Heating: monitored through the ‘thermal index’ (TI should remain below 2)
+◆
+◆Cavitation (i.e. formation of small gas bubbles with subsequent bubble collapse 
+associated with high pressures/temperatures locally): monitored through the 
+‘mechanical index’ (MI should remain below 1.9)
+Fig. 1.1.2A  Low acoustic
+Fig. 1.1.2B  High acoustic
+Box 1.1.1  Recommendation
+Although higher acoustic power increases 
+SNR, it also increases the likelihood of bio-
+effects. Therefore, only increase transmit 
+power if the default setting results in low SNR
+
+--- PAGE 4 ---
+Chapter 1  Examination
+4
+Gain
+Controls overall amplification of the echo signals
+More gain
+→ amplifies the echo signal
+→ equally amplifies the noise
+→ SNR remains identical! (Figs 1.1.3 and 1.1.4, see also Box 1.1.2)
+Fig. 1.1.3  Effect of gain SNR
+Reflected ultrasound signal
+Envelope signal to be displayed in the image
+signal
+noise
+Acquisition noise 
+Fig. 1.1.4  Effects of increased gain on 2D image
+Box 1.1.2  Recommendation
+Use a gain setting that provides images with the desired 
+brightness/appearance
+Depth gain compensation
+Depth-specific amplification of the echo signals to compensate 
+for attenuation
+→ Automatic:	 amplifies signals from deeper structures
+→ Manual:	
+allows correction of the automatic compensation 
+(Figs 1.1.5ABC, see also Box 1.1.3)
+Box 1.1.3  Recommendation
+Start each examination with the sliders in their neutral 
+(i.e. centre) position
+Fig. 1.1.5  Manual adjustment of depth gain settings. 
+5A: slider to the right, 5B: neutral, 5C: slider to the left
+A
+B
+C
+
+--- PAGE 5 ---
+5
+The EACVI Echo Handbook
+Transmit frequency
+Controls transmit frequency of the transducer (see Box 1.1.4)
+Lower frequency (Fig. 1.1.6)
+→ Worse spatial resolution
+→ Better penetration
+Lowering transmit frequency will activate harmonic imaging 
+(Fig.1.1.7)
+→ Worse spatial resolution along the image line
+→ Better SNR (i.e. less noise)
+Fig. 1.1.6  Effects of changing transmit frequency 
+Note: Changing the frequency away from the centre frequency 
+of the probe lowers spatial resolution
+2.0 MHz
+3.5 MHz
+Fig. 1.1.7  Effects of lowering transmit frequency
+Note: Harmonic imaging increases SNR but reduces intrinsic 
+spatial resolution along the image line. This is particularly relevant 
+when studying small/thin structures (i.e. valve leaflets)
+1.7/3.4 MHz
+3.5 MHz
+Box 1.1.4  Recommendation
+◆
+◆Use harmonic mode as default setting
+◆
+◆Keep the transmit frequency equal to the centre frequency 
+of the probe unless:
+1.  Penetration is insufficient and no other probe is available
+2.  Switching between fundamental and harmonic imaging is 
+required
+
+--- PAGE 6 ---
+Chapter 1  Examination
+6
+Focal position
+Controls the depth at which the ultrasonic (US) beam is focused
+Around this region spatial (lateral) resolution is optimal (Fig. 1.1.8, 
+see also Box 1.1.5) 
+Fig. 1.1.8  Position of the focal point
+Note: The position of the focal point is indicated alongside the 
+sector image (arrow point)
+Fig. 1.1.9  Simulated pressure field of a cardiac 
+transducer 
+White horizontal bar = beam width in focal zone when 
+focus point at 50 mm (i.e. left panel) Mark the difference 
+in beam width at larger depth with changing focal 
+position (white circles)
+Focus point deeper: less effective focusing, lateral resolution 
+decreases 
+Beyond this focus point, beam widens, lateral resolution 
+worsens
+Transducer
+F = 50mm
+Transducer
+F = 90mm
+Transducer
+F = 130mm
+0
+12.5
+25
+37.5
+50
+62.5
+75
+87.5
+100
+112.5
+125
+137.5
+150
+0
+12.5
+25
+37.5
+50
+62.5
+75
+87.5
+100
+112.5
+125
+137.5
+150
+Lateral distance (mm)
+Depth (mm)
+Depth (mm)
+0
+12.5
+25
+37.5
+50
+62.5
+75
+87.5
+100
+112.5
+125
+137.5
+150
+Depth (mm)
+–5
+–10
+–15
+–20
+–25
+–30
+–35
+–5
+–10
+–15
+–20
+–25
+–30
+–35
+dB
+Lateral distance (mm)
+dB
+–5
+–10
+–15
+–20
+–25
+–30
+–35
+dB
+–10–7.5 –5 –2.5 0 2.5
+Lateral distance (mm)
+5 7.5 10
+–10–7.5 –5 –2.5 0 2.5 5 7.5 10
+–10–7.5 –5 –2.5 0 2.5 5 7.5 10
+Box 1.1.5  Recommendation
+Place the focal point near the deepest 
+structure of interest (Fig. 1.1.9, right 
+panel)
+Frame rate
+Controls the trade-off between number of lines in a single frame 
+and the number of frames created per second (see also Box 1.1.6)
+Higher frame rate will result in less lines in the image and thus 
+worse spatial (lateral) resolution (Fig. 1.1.10)
+
+--- PAGE 7 ---
+7
+The EACVI Echo Handbook
+Continuous-wave and pulsed-wave Doppler
+High-quality/reliable Doppler recordings require:
+1.	 Proper alignment of the image (i.e. Doppler) line with the flow 
+direction (< 20° off-axis) (Fig. 1.1.11, see also Box 1.1.7)
+FPS 43.3
+FPS 79.2
+Fig. 1.1.10  Frame rate and spatial resolution
+Box 1.1.6  Recommendation
+Keep frame rate at its default value unless modifications are 
+required for specific processing methodologies (i.e. speckle 
+tracking analysis)
+Box 1.1.7  Recommendation
+Reposition and angulate the probe under colour Doppler 
+guidance to obtain optimal alignment
+2.	 Proper velocity scale (also referred to as Nyquist velocity/
+PRF) (Fig. 1.1.12AB)
+◆
+◆Scale too low: aliasing
+◆
+◆Scale too high: sub-optimal velocity resolution (i.e. smallest 
+difference between two different velocities that can be 
+measured is larger)
+Fig. 1.1.11  Doppler recording
+Adequate
+Not optimal
+
+--- PAGE 8 ---
+Chapter 1  Examination
+8
+Continuous-wave and pulsed-wave Doppler
+Sample position
+Controls the position of the sample volume (Fig. 1.1.13ABC, see 
+also Box 1.1.8)
+Sample volume
+Controls the size of the sample volume (Fig. 1.1.14ABC)
+Box 1.1.8  Recommendation
+Sample volume should be positioned at the 
+tips of the (open) valve leaflets (for MV 
+inflow)
+Fig. 1.1.13  Sample position. A: Too high, B: Appropriate C: Too low
+C
+A
+B
+A
+B
+C
+Fig. 1.1.12  Doppler velocity 
+scale. A: Adequate, B: Too low 
+(i.e. aliasing)
+A
+B
+
+--- PAGE 9 ---
+9
+The EACVI Echo Handbook
+Fig. 1.1.14  Sample size. A: Too large, B: Appropriate, C: Too small
+◆	 Small sample volume: good spatial resolution at lower velocity 
+resolution
+◆	 Large sample volume: good velocity resolution at lower spatial 
+resolution
+SV 10.1 mm
+SV 5.1 mm
+SV 1.0 mm
+A B C
+A
+B
+C
+Continuous-wave and pulsed-wave 
+Doppler: settings
+Wall filter
+Controls the threshold for velocities displayed in the velocity 
+spectrum (Fig. 1.1.15ABC, Box 1.1.9)
+Sweep speed
+Controls the refresh rate of the velocity spectrum (Fig. 1.1.16AB, 
+Box 1.1.10)
+Box 1.1.9  Recommendation
+Wall filter should be as low as possible while 
+avoiding pollution by myocardial velocities
+Box 1.1.10  Recommendation
+Always use a sweep speed of 100 mm/s unless 
+looking for inter-beat variations
+
+--- PAGE 10 ---
+Chapter 1  Examination
+10
+Fig. 1.1.15  Wall filter. A: Too low, B: Appropriate, C: Too high 
+A
+B
+C
+Strong (slow) myocardial 
+velocities pollute the spectrum
+Slower-moving blood 
+velocities are no longer displayed
+Fig. 1.1.16  Sweep speed. A: 100 mm/s, B: 33 mm/s
+Low velocity scale to 
+look at inter-beat (i.e. 
+respiratory) velocity 
+changes
+High velocity scale to look 
+at intra-beat velocity 
+changes 
+A
+B
+Colour-flow mapping
+Velocity scale
+Controls the range of velocities displayed in the colour box 
+(Fig. 1.1.17, Box 1.1.11)
+Box 1.1.11  Recommendation
+Velocity scale should be as low as possible without aliasing
+Fig. 1.1.17  Velocity scale
+Aliasing
+◆	 Blue: motion away from 
+transducer
+◆	 Red: motion towards the 
+transducer
+◆	 Green: velocity out of 
+range (i.e. aliasing)/ 
+large spatial variance (i.e. 
+turbulence)
+
+--- PAGE 11 ---
+11
+The EACVI Echo Handbook
+Box 1.1.12  Recommendation
+Should be as high as possible, without noise appearance
+Box 1.1.13  Recommendation
+Colour box should be as small as possible, to optimize 
+temporal and spatial resolution
+Colour gain
+Controls amplification of the colour Doppler signals 
+(see Box 1.1.12)
+Size of colour box
+Directly impacts frame rate (Fig. 1.1.18AB, Box 1.1.13)
+Fig. 1.1.18  Colour box size. A: Adequate, B: Not optimal
+FPS 31.2
+FPS 12.9
+A
+B
+Advanced techniques
+Myocardial velocity imaging (MVI) (Fig. 1.1.19)
+1.	 Proper alignment of the image line with the wall motion 
+direction
+2.	 Proper velocity scale (Nyquist velocity/PRF)
+3.	 Small sector angles for higher frame rates (optimal > 115 fps)
+Fig. 1.1.19  Myocardial veIocity imaging 
+PW Doppler
+Colour Doppler
+
+--- PAGE 12 ---
+Chapter 1  Examination
+12
+4.	 Adjust sample position, sample size, wall filter, and sweep speed
+5.	 High-quality ECG required for optimal timings all apply for myocardial PW and 
+colour Doppler analyses (as for blood pool Doppler)
+Speckle tracking—2D strain (rate) imaging (Fig. 1.1.20)
+1.	 Optimize gain settings and focus position
+2.	 Centre the region of interest
+3.	 Adjust depth and region of interest size for optimal spatial resolution (MV annulus 
+at the bottom of the image for LV regional function analysis)
+4.	 Adjust frame rates since specific analysis software often requires specific frame rate 
+settings (optimal 50–90 fps)
+5.	 High-quality ECG required for automated tracking
+Fig. 1.1.20  2D–speckle tracking imaging
+
+--- PAGE 13 ---
+13
+The EACVI Echo Handbook
+3D imaging (Fig. 1.1.21)
+1.	 Transducer position: a good acoustic window is essential for optimal 3D 
+visualization (difficult because of larger probe size)
+2.	 Use 2D guidance for centring of the region of interest
+3.	 Image acquisition during breath hold or quiet respiration
+4.	 Adjust volume size to optimize volume rate (real time vs stitched images for 
+post-processing)
+5.	 Adjust gain and avoid drop-out artefacts
+6.	 Crop, translate, and rotate the 3D volume to visualize the structure of interest
+Fig. 1.1.21  3D imaging
+
+--- PAGE 14 ---

@@ -1,0 +1,69 @@
+{
+  "schemaVersion": 1,
+  "id": "esc-hf-2026.rt02-stage-b-heart-failure",
+  "guidelineId": "esc-hf-2026",
+  "number": "Recommendation Table 2",
+  "type": "recommendations",
+  "title": {
+    "en": "Recommendations for stage B heart failure and left ventricular dysfunction",
+    "ru": "Рекомендации по ведению сердечной недостаточности стадии B и дисфункции левого желудочка"
+  },
+  "tags": [
+    "stage-b",
+    "heart-failure",
+    "lvef",
+    "ace-i",
+    "arb",
+    "beta-blockers",
+    "eplerenone",
+    "post-mi",
+    "asymptomatic"
+  ],
+  "source": {
+    "expectedRows": 3
+  },
+  "i18nStatus": {
+    "ru": "reviewed"
+  },
+  "sections": [
+    {
+      "id": "sec-stage-b-hf",
+      "title": {
+        "en": "Recommendations for stage B heart failure and left ventricular dysfunction (see Evidence Table 16)",
+        "ru": "Рекомендации по ведению сердечной недостаточности стадии B и дисфункции левого желудочка (см. Доказательную таблицу 16)"
+      },
+      "rows": [
+        {
+          "id": "r01",
+          "text": {
+            "en": "An ACE-I or ARB (if intolerant to ACE-I) is recommended in patients with stage B HF and LVEF ≤40% to reduce the risk of HFH and death.",
+            "ru": "Ингибитор АПФ или БРА (при непереносимости ингибитора АПФ) рекомендуется пациентам со стадией B СН и ФВЛЖ ≤40% для снижения риска госпитализации по поводу СН и смерти."
+          },
+          "class": "I",
+          "level": "A",
+          "refs": [135, 136, 137, 138, 144]
+        },
+        {
+          "id": "r02",
+          "text": {
+            "en": "A beta-blocker is recommended in patients with stage B HF and LVEF <50% to reduce the risk of HFH or death.",
+            "ru": "Бета-блокатор рекомендуется пациентам со стадией B СН и ФВЛЖ <50% для снижения риска госпитализации по поводу СН или смерти."
+          },
+          "class": "I",
+          "level": "B1",
+          "refs": [35, 139, 140]
+        },
+        {
+          "id": "r03",
+          "text": {
+            "en": "Eplerenone is recommended in patients with LVEF ≤40% after myocardial infarction with signs of HF or diabetes to reduce the risk of HFH and death.",
+            "ru": "Эплеренон рекомендуется пациентам с ФВЛЖ ≤40% после инфаркта миокарда при наличии признаков СН или сахарного диабета для снижения риска госпитализации по поводу СН и смерти."
+          },
+          "class": "I",
+          "level": "B1",
+          "refs": [143]
+        }
+      ]
+    }
+  ]
+}

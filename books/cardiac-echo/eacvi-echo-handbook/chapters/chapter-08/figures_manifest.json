@@ -1,0 +1,274 @@
+[
+  {
+    "idx": 1,
+    "fig_id": "fig-08-01",
+    "fnum": "8.1.2",
+    "caption": "LV wall thinning in DCM",
+    "page": 378,
+    "size": "1960x581"
+  },
+  {
+    "idx": 2,
+    "fig_id": "fig-08-02",
+    "fnum": "8.1.1",
+    "caption": "LV dilatation and EF measurements",
+    "page": 378,
+    "size": "990x373"
+  },
+  {
+    "idx": 3,
+    "fig_id": "fig-08-03",
+    "fnum": "8.1.3",
+    "caption": "Remodelling of the LV: l/L (sphericity index) increased",
+    "page": 379,
+    "size": "483x1311"
+  },
+  {
+    "idx": 4,
+    "fig_id": "fig-08-04",
+    "fnum": "8.1.4",
+    "caption": "Extreme dyssynchrony",
+    "page": 379,
+    "size": "483x1311"
+  },
+  {
+    "idx": 5,
+    "fig_id": "fig-08-05",
+    "fnum": "8.1.5",
+    "caption": "Apical thrombus",
+    "page": 379,
+    "size": "771x536"
+  },
+  {
+    "idx": 6,
+    "fig_id": "fig-08-06",
+    "fnum": "8.1.6",
+    "caption": "RV dilatation",
+    "page": 379,
+    "size": "1459x537"
+  },
+  {
+    "idx": 7,
+    "fig_id": "fig-08-07",
+    "fnum": "8.1.7",
+    "caption": "CW TR jet velocity in a patient with pulmonary hypertension",
+    "page": 379,
+    "size": "483x1311"
+  },
+  {
+    "idx": 8,
+    "fig_id": "fig-08-08",
+    "fnum": "8.1.8",
+    "caption": "Restrictive mitral inflow pattern or pseudonormalization of mitral inflow. High filling pressures indicated by E/e’ ratio > 15. Indicator of bad prognosis",
+    "page": 380,
+    "size": "1110x1311"
+  },
+  {
+    "idx": 9,
+    "fig_id": "fig-08-09",
+    "fnum": "8.1.9B",
+    "caption": "Typical pattern as seen from longitudinal view. White arrow indicates early stretch from the lateral LV wall. Yellow arrow mark septal flash",
+    "page": 380,
+    "size": "1110x894"
+  },
+  {
+    "idx": 10,
+    "fig_id": "fig-08-10",
+    "fnum": "8.1.9A",
+    "caption": "Typical pattern as seen from radial view. The time difference between white and yellow arrow has been used as a measure of dyssynchrony",
+    "page": 380,
+    "size": "1109x395"
+  },
+  {
+    "idx": 11,
+    "fig_id": "fig-08-11",
+    "fnum": "8.2.1",
+    "caption": "LVH in HCM: ASH = IVS/PW = 23/7 = 3.2 (A); apical HCM, apical wall thickness 15 mm (B); diagnostic criteria in first relatives (C) (Box 8.2.1); ‘sigmoid’ IVS and genetic test (D)",
+    "page": 382,
+    "size": "1473x505"
+  },
+  {
+    "idx": 12,
+    "fig_id": "fig-08-12",
+    "fnum": "8.2.2",
+    "caption": "The mitral valve in HCM (A) early systolic frame, dysplastic, elongated anterior leaflet; (B) late systolic frame of the same patient, SAM touching the IVS; (C) late systolic frame, colour Doppler: posteriorly directed MR with aliasing in the LVOT (LVOT obstruction)",
+    "page": 383,
+    "size": "1955x447"
+  },
+  {
+    "idx": 13,
+    "fig_id": "fig-08-13",
+    "fnum": "8.2.3",
+    "caption": "LVOT obstruction in HCM (A) aortic valve mid-systolic partial closure; (B) mitral SAM; (C) typical CW ‘dagger-shaped’ Doppler signal (late systolic peak)",
+    "page": 384,
+    "size": "1923x386"
+  },
+  {
+    "idx": 14,
+    "fig_id": "fig-08-14",
+    "fnum": "8.2.5",
+    "caption": "(A) Doppler myocardial imaging in HCM; (B) 2D- speckle tracking in HCM",
+    "page": 385,
+    "size": "564x421"
+  },
+  {
+    "idx": 15,
+    "fig_id": "fig-08-15",
+    "fnum": "8.2.4",
+    "caption": "Paradoxical diastolic colour Doppler flow in the sequestered area (A) + paradoxical apex to base diastolic gradient (B)",
+    "page": 385,
+    "size": "1350x1309"
+  },
+  {
+    "idx": 16,
+    "fig_id": "fig-08-16",
+    "fnum": "8.2.6",
+    "caption": "Triphasic trans-mitral flow in a HCM patient, without prognostic impact",
+    "page": 386,
+    "size": "836x1220"
+  },
+  {
+    "idx": 17,
+    "fig_id": "fig-08-17",
+    "fnum": "8.2.7",
+    "caption": "EACVI recommendations: high LV filling pressures in HCM (Courtesy of Pacileo)",
+    "page": 386,
+    "size": "836x1220"
+  },
+  {
+    "idx": 18,
+    "fig_id": "fig-08-18",
+    "fnum": "8.2.8AB",
+    "caption": "2D- speckle tracking: two athletes with mild LVH in the ‘grey zone’ range: in opposition to the healthy athlete (A), the HCM patient (B) shows mildly reduced regional longitudinal strain in several LV segments",
+    "page": 389,
+    "size": "453x617"
+  },
+  {
+    "idx": 19,
+    "fig_id": "fig-08-19",
+    "fnum": "8.2.9",
+    "caption": "Amyloid heart disease: sparkling myocardial LVH + pericardial effusion + interatrial septum hypertrophy",
+    "page": 390,
+    "size": "482x453"
+  },
+  {
+    "idx": 20,
+    "fig_id": "fig-08-20",
+    "fnum": "8.2.10",
+    "caption": "(A): massive LVH (IVS = 39 mm) (B): left atrial dilation (LA indexed volume 41 ml/m2)",
+    "page": 391,
+    "size": "486x726"
+  },
+  {
+    "idx": 21,
+    "fig_id": "fig-08-21",
+    "fnum": "8.2.11",
+    "caption": "Alcohol septal ablation. (A) coronary angiography (cranial right oblique incidence) of the left coronary artery showing the target septal perforator; (B) selective catheterization of the target artery and balloon positioning; (C) selective angiography of the target artery; (D) transthoracic contrast (SonoVue) echocardiography, 4CV hyperechogenic basal septum, no perfusion of remote territories (Courtesy of Fiarresga A)",
+    "page": 392,
+    "size": "831x825"
+  },
+  {
+    "idx": 22,
+    "fig_id": "fig-08-22",
+    "fnum": "8.2.12",
+    "caption": "Intra-operative TOE, mid-oesophageal 4CV (A) pre-myectomy: hypertrophic septum, mitral SAM, colour aliasing in the LVOT and moderate to severe MR; (B) post-myectomy—truncated basal septum, no mitral SAM, no aliasing in the LVOT, mild MR (courtesy of F Santos Siva)",
+    "page": 393,
+    "size": "1955x447"
+  },
+  {
+    "idx": 23,
+    "fig_id": "fig-08-23",
+    "fnum": "8.3.2",
+    "caption": "RV cardiomyopathy",
+    "page": 395,
+    "size": "484x936"
+  },
+  {
+    "idx": 24,
+    "fig_id": "fig-08-24",
+    "fnum": "8.3.3",
+    "caption": "Focal RV wall thinning",
+    "page": 395,
+    "size": "484x936"
+  },
+  {
+    "idx": 25,
+    "fig_id": "fig-08-25",
+    "fnum": "8.3.1",
+    "caption": "Illustration of progression of RV dilatation over time in ARVC",
+    "page": 395,
+    "size": "484x936"
+  },
+  {
+    "idx": 26,
+    "fig_id": "fig-08-26",
+    "fnum": "8.4.1A",
+    "caption": "LVNC with multiple trabeculations and deep recesses. Note the dilatation of the LV and decrease in ejection fraction",
+    "page": 396,
+    "size": "580x695"
+  },
+  {
+    "idx": 27,
+    "fig_id": "fig-08-27",
+    "fnum": "8.4.1B",
+    "caption": "PTSAX view for end-systolic measurement of NC/C ratio. An end-diastolic measurement can also be useful",
+    "page": 396,
+    "size": "1419x856"
+  },
+  {
+    "idx": 28,
+    "fig_id": "fig-08-28",
+    "fnum": "8.5.1",
+    "caption": "Regional LV function in myocarditis: abnormal WMSI, ‘patchy distribution’, without CAD distribution",
+    "page": 397,
+    "size": "510x427"
+  },
+  {
+    "idx": 29,
+    "fig_id": "fig-08-29",
+    "fnum": "8.6.1",
+    "caption": "Hypokinetic apex with hyperkinetic basal segments",
+    "page": 398,
+    "size": "487x1221"
+  },
+  {
+    "idx": 30,
+    "fig_id": "fig-08-30",
+    "fnum": "8.6.2",
+    "caption": "3D view of typical Takotsubo",
+    "page": 398,
+    "size": "1159x1256"
+  },
+  {
+    "idx": 31,
+    "fig_id": "fig-08-31",
+    "fnum": "8.6.3",
+    "caption": "RV apical Takotsubo",
+    "page": 398,
+    "size": "487x1221"
+  },
+  {
+    "idx": 32,
+    "fig_id": "fig-08-32",
+    "fnum": "8.6.4",
+    "caption": "Variant form of Takotsubo",
+    "page": 398,
+    "size": "1159x1256"
+  },
+  {
+    "idx": 33,
+    "fig_id": "fig-08-33",
+    "fnum": "8.7.1",
+    "caption": "Morphological and functional features of RCM: Dilated atria, small ventricles, E/A > 1, short deceleration time, E/e’ > 15, low myocardial systolic and diastolic velocities",
+    "page": 399,
+    "size": "1463x406"
+  },
+  {
+    "idx": 34,
+    "fig_id": "fig-08-34",
+    "fnum": "8.7.2",
+    "caption": "Cardiac amyloidosis",
+    "page": 400,
+    "size": "514x651"
+  }
+]

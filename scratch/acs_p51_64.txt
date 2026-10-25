@@ -1,0 +1,1433 @@
+
+=== PAGE 51 ===
+CLINICAL STATEMENTS 
+AND GUIDELINES
+Circulation. 2025;151:e771–e862. DOI: 10.1161/CIR.0000000000001309 April 1, 2025 e821
+Rao et al 2025 Acute Coronary Syndromes Guideline
+with conservative therapy. Acetaminophen can be given 
+for symptomatic relief. A second form of pericarditis may 
+occur weeks after MI (Dressler’s syndrome) and is be-
+lieved to be immune-mediated as a response to pericar-
+dial irritation or damage, such as in the setting of any 
+degree of hemopericardium.1,2 These cases of late peri-
+carditis often require additional therapy (Table 19). Given 
+the rarity of post-MI pericarditis (0.1%-0.5%) in the era 
+of early coronary reperfusion therapy,3 dedicated RCTs of 
+high-dose aspirin are lacking, and data are extrapolated 
+from studies of the heterogeneous diagnosis of acute 
+pericarditis.4 Furthermore, RCTs of colchicine were per-
+formed on a background of high-dose aspirin therapy.5–7 
+If symptoms persist despite standard supportive therapy 
+in early pericarditis and in any late pericarditis, high-dose 
+aspirin may be used to reduce symptoms. 4 The use of 
+colchicine should also be considered to reduce symp-
+toms and decrease risk of recurrence8,9; suggested dos-
+ing is summarized in Table 19. The value of a loading 
+dose of colchicine in this setting is unclear. Routine use 
+of high-dose aspirin or colchicine is not indicated for the 
+management of asymptomatic pericardial effusions. 10,11 
+Glucocorticoids and nonsteroidal anti-inflammatory 
+drugs (other than aspirin) are potentially harmful due to 
+possible increase in risk of recurrent MI or impaired myo-
+cardial healing and risk of rupture.12,13
+9.4. Management of LV Thrombus After MI 
+Synopsis
+L V thrombus typically occurs in the setting of large anterior 
+STEMI and can lead to thromboembolic complications, in-
+cluding stroke and systemic embolization. In the era of PCI, 
+the incidence of L V thrombus after ACS has decreased 
+and is estimated to be <5% to 10% in the post-MI popula-
+tion.1–3 Limited RCT data are available on the contemporary 
+management of L V thrombus, and current management is 
+based mostly on retrospective and observational data and 
+expert consensus. Patients at highest risk for L V thrombus 
+include those with anterior STEMI involving the left anterior 
+descending artery, L VEF <30% (especially in the presence 
+of an L V aneurysm), and longer times to reperfusion. An 
+echocardiogram is the recommended imaging modality for 
+diagnosis, given its wide accessibility and low cost.4 Cardi-
+ac MRI is more sensitive for detection of L V thrombus and 
+may be considered when there is high clinical suspicion and 
+echocardiogram results are inconclusive. L V thrombus may 
+form later during hospitalization or after discharge; there-
+fore, repeat imaging can sometimes detect L V thrombus 
+in high-risk patients.5 Because DAPT is recommended for 
+most patients early after ACS, the addition of an anticoagu-
+lant for L V thrombus needs to be considered in the context 
+of the patient’s overall bleeding risk versus their risk of an 
+embolic event. Most patients with L V thrombus will war-
+rant anticoagulation for a period of 3 months, at which time 
+the presence of residual thrombus can be assessed by re-
+peat imaging to help determine whether a more prolonged 
+course is warranted.1 Although direct oral anticoagulants 
+(DOAC) are routinely used in clinical practice, there are lim-
+ited data comparing the efficacy of a DOAC versus vitamin 
+K antagonist in the setting of L V thrombus. Observational 
+studies and small RCTs have suggested that DOAC may 
+be noninferior to vitamin K antagonist with respect to mor-
+tality, stroke, or L V thrombus resolution, and DOACs may 
+offer an improved bleeding profile.6 The practical manage-
+ment of L V thrombi is more completely addressed in other 
+documents.1,6
+10. IN-HOSPITAL ISSUES IN THE 
+MANAGEMENT OF ACS
+10.1. Cardiac Intensive Care Unit
+Recommendation for CICU
+COR LOE Recommendation
+1 C-EO
+ 1. Patients with ACS and with ongoing angina, hemo-
+dynamic instability, uncontrolled arrhythmias, sub-
+optimal reperfusion, or cardiogenic shock should 
+be admitted to a CICU to reduce cardiovascular 
+events.
+Synopsis
+The nurse-to-patient ratio in the CICU should be suf-
+ficient to provide (1) continuous electrocardiographic 
+rhythm monitoring, (2) frequent assessment of vital signs 
+and mental status, and (3) ability to perform rapid cardio-
+version and defibrillation for arrhythmias. 1,2 Some hospi-
+tals may not have a dedicated CICU but rather care for 
+patients with MI within a general multipurpose ICU; this 
+approach requires trained providers with sufficient exper-
+tise in the care of cardiac patients.
+Table 18. Clinical Criteria for Diagnosis of Pericarditis
+Diagnosis Is Made With Presence of Pleuritic Chest Pain and ≥1 of the 
+Following Criteria:
+Friction pericardial rub on auscultation
+Electrocardiographic evidence such as classic PR-segment depression or 
+diffusive concave ST-segment elevations, or in the setting of MI, persistent 
+ST-segment elevations or dynamic T-wave changes
+New or growing pericardial effusion on echocardiography
+MI indicates myocardial infarction.
+Table 19. Additional Therapy for Persistent/Late Pericarditis 
+Symptoms
+Medical Therapy Dosing Schedule
+High-dose aspirin 500-1000 mg every 6-8 h until symptoms improve
+Colchicine 0.5-0.6 mg once* or twice daily for 3 mo
+*Daily dosing should be used in patients who weigh <70 kg and further ad-
+justed in patients with stage 4-5 kidney disease, severe hepatic impairment, or 
+with concomitant P-glycoprotein and/or moderate and severe CYP3A4 inhibitors.
+Downloaded from http://ahajournals.org by on May 30, 2026
+=== PAGE 52 ===
+CLINICAL STATEMENTS  
+AND GUIDELINES
+April 1, 2025 Circulation. 2025;151:e771–e862. DOI: 10.1161/CIR.0000000000001309e822
+Rao et al 2025 Acute Coronary Syndromes Guideline
+Recommendation-Specific Supportive Text
+ 1. Admission to the CICU and optimal length of 
+stay in the CICU after an MI should be based 
+on patients’ risk profile and clinical stability, while 
+considering the patient’s baseline cardiac risk and 
+comorbidities. Patients with ACS with continuing/
+ongoing angina, hemodynamic instability, uncon-
+trolled arrhythmias, or a large MI with HF, car-
+diogenic shock, or both, should be admitted to a 
+CICU.1,2 Patients with ongoing ischemic symptoms 
+should be preferentially triaged for cardiac cath-
+eterization whenever possible. Stable patients with 
+ACS and without recurrent ischemia, significant 
+arrhythmias, pulmonary edema, or hemodynamic 
+instability do not need CICU admission and can 
+be admitted to an intermediate care or telemetry 
+unit. Clinical predictors may be useful for helping 
+identify patients who will require CICU care. For 
+example, the ACTION ICU risk score for CICU 
+admission integrates 9 variables on presentation to 
+the ED including: signs or symptoms of HF, initial 
+heart rate, initial SBP, initial troponin, initial serum 
+creatinine, prior revascularization, chronic lung dis-
+ease, ST-segment depression, and age >70 years.3
+10.2. Management of Anemia in ACS
+Recommendation for Management of Anemia in ACS
+Referenced studies that support recommendation are summarized in 
+the Evidence Table.
+COR LOE Recommendation
+2b B-R
+ 1. In patients with ACS and acute or chronic anemia, 
+blood transfusion to achieve a hemoglobin level 
+≥10 g/dL may be reasonable to reduce  
+cardiovascular events.1
+Synopsis
+Anemia is common in patients with ACS and is asso-
+ciated with worse short- and long-term outcomes. 2–4 
+Anemia is associated with adverse outcomes irrespec-
+tive of whether the anemia is chronic and due to co-
+morbid conditions, or acute and the result of bleeding 
+related to antithrombotic therapy and/or invasive pro-
+cedures. The adverse effects of anemia may be due to 
+decreased myocardial oxygen delivery, increased myo-
+cardial oxygen demand due to increased cardiac output, 
+or the avoidance of potentially beneficial antithrombotic 
+drugs and/or procedures. In observational studies, blood 
+transfusion has been associated with worse clinical out-
+comes.5–8 Randomized trials in medically ill patients and 
+those undergoing cardiac surgery have demonstrated 
+similar or better outcomes with a restrictive transfusion 
+strategy (targeting a blood hemoglobin level around  
+8 g/dL) than with a liberal transfusion strategy  
+(targeting a blood hemoglobin level around 10 g/dL).9–11 
+However, randomized trial evidence for populations with 
+ACS suggests possible clinical benefit for a more liberal 
+transfusion strategy targeting a hemoglobin level above  
+10 g/dL compared with targeting a hemoglobin level 
+above 7 g/dL to 8 g/dL.1,12,13
+Recommendation-Specific Supportive Text
+ 1. The MINT (Myocardial Ischemia and Transfusion) 
+trial randomly assigned 3504 patients with acute 
+STEMI or NSTEMI and anemia with a blood hemo-
+globin level of <10 g/dL (13% with recent bleed-
+ing) to a restrictive transfusion strategy (transfusing 
+if the hemoglobin level was <7-8 g/dL) or a liberal 
+transfusion strategy (transfusing if the hemoglobin 
+level was <10 g/dL). 1 Patients were ineligible for 
+enrollment if they had uncontrolled bleeding, were 
+receiving palliative treatment, or were scheduled to 
+have cardiac surgery. Transfusion could be delayed 
+for patients with volume overload or until day of 
+dialysis in patients with end-stage renal disease. 
+The primary outcome of 30-day death or recurrent 
+MI occurred in 16.9% of patients in the restric-
+tive strategy and 14.5% of patients in the liberal 
+strategy (relative risk, 1.15 [95% CI, 0.99-1.34]; 
+P =0.07). Death occurred in 9.9% of patients in 
+the restrictive strategy and 8.3% of patients in 
+the liberal strategy (relative risk, 1.19 [95% CI, 
+0.94-1.49]), and cardiac death occurred in 5.5% 
+of patients in the restrictive strategy and 3.2% of 
+patients in the liberal strategy (relative risk, 1.74 
+[95% CI, 1.26-2.40]). Although the MINT trial did 
+not demonstrate a statistically significant reduc-
+tion in its primary endpoint, the results suggest 
+that a liberal blood transfusion strategy targeting 
+a hemoglobin level around 10 g/dL may provide 
+short-term clinical benefit over a restrictive transfu-
+sion strategy targeting a hemoglobin level above 7 
+g/dL or 8 g/dL in patients with AMI and anemia.
+10.3. Telemetry and Length of Stay
+Recommendation for Telemetry and Length of Stay
+COR LOE Recommendation
+1 C-LD
+ 1. In patients with ACS, telemetry monitoring is  
+recommended to reduce cardiovascular events 
+with duration determined by cardiac risk.1,2
+Synopsis
+Advances in vascular access methods, coronary revas-
+cularization, and concomitant medical therapies have 
+contributed to shortening length of stay and further 
+facilitated changes in discharge patterns after PCI in 
+the setting of ACS. There remains limited evidence  
+Downloaded from http://ahajournals.org by on May 30, 2026
+=== PAGE 53 ===
+CLINICAL STATEMENTS 
+AND GUIDELINES
+Circulation. 2025;151:e771–e862. DOI: 10.1161/CIR.0000000000001309 April 1, 2025 e823
+Rao et al 2025 Acute Coronary Syndromes Guideline
+regarding the optimal length of stay after MI. Patients 
+with STEMI represent a higher risk cohort who may 
+require longer length of stay. Available data suggest 
+that an early discharge strategy of <3 days from ad-
+mission is not associated with increased mortality for 
+low-risk patients after STEMI who have undergone 
+PCI.3–8 The Zwolle score has been recommended as 
+a clinical tool to help identify patients after PPCI in 
+STEMI at low risk of death (low-risk patients, score 
+≤3) who can potentially be discharged earlier from the 
+hospital (48 to 72 hours). Predictors of mortality in the 
+Zwolle score include age, Killip class, postprocedural 
+TIMI Flow Grade, 3-vessel disease, anterior infarction, 
+and ischemic time. 3 Optimal length of stay in the set-
+ting of NSTE-ACS has been less rigorously studied. 
+Small retrospective studies have suggested safety of 
+very early or same-day discharge after PCI for patients 
+with ACS, with most (71%) of same-day discharge 
+being troponin-negative. 9 Patients being considered 
+for early discharge should be clinically stable without 
+evidence of ongoing ischemia, acute kidney injury, L V 
+dysfunction, HF, and procedural complications and with 
+adequate postdischarge support. 8 Hospitals and care 
+providers should ensure that patients have access to 
+postdischarge prescription medications and adequate 
+follow-up.
+Recommendation-Specific Supportive Text
+ 1. The number of studies addressing telemetry dura-
+tion are few and the focus has been on arrhythmia 
+monitoring, not continuous ST-segment moni-
+toring. Continuous ST-segment monitoring can 
+be considered for higher-risk patients, including 
+those with suspected ischemia who are not yet  
+revascularized.1,10–14 Patients with ACS who are 
+at low risk for cardiac arrhythmias require rhythm 
+monitoring for ≤ 24 hours or until coronary revas-
+cularization (whichever comes first) in a telemetry 
+unit, while individuals at intermediate to high risk 
+for cardiac arrhythmia may require rhythm moni-
+toring for >24 hours in a telemetry unit or in an 
+intermediate care unit, depending on the clini-
+cal presentation, degree of revascularization, and 
+early postrevascularization course with input from 
+the treating cardiologist.10,12–14
+10.4. Noninvasive Diagnostic Testing Prior to 
+Hospital Discharge
+Recommendation for Noninvasive Diagnostic Testing Prior to Hospital 
+Discharge
+COR LOE Recommendation
+1 C-LD
+ 1. In patients with ACS, an assessment of L VEF is 
+recommended prior to hospital discharge to guide 
+therapy and for risk stratification.1–3
+Synopsis
+In patients with ACS, L V function should be routinely 
+evaluated in patients prior to hospital discharge to help 
+guide therapy and for risk stratification. 1–3 Transthoracic 
+echocardiography is generally the preferred modality be-
+cause it is noninvasive and can provide a comprehensive 
+assessment of ventricular and valvular function, as well as 
+possibly detect L V thrombus or mechanical complications. 
+Transthoracic echocardiography is therefore strongly pre-
+ferred for all patients hospitalized with STEMI because 
+complications may be more likely to be present. In pa-
+tients where transthoracic echocardiography is nondiag-
+nostic, cardiac magnetic resonance imaging is a reason-
+able alternative in clinically stable patients. Alternatively, 
+L V function and some mechanical complications can be 
+assessed invasively with left ventriculography in the car-
+diac catheterization laboratory, but other data regarding 
+valvular function and wall motion are best evaluated with 
+noninvasive methods like transthoracic echocardiography 
+or cardiac magnetic resonance imaging. L V function may 
+also be estimated noninvasively by myocardial perfusion 
+imaging testing, but this will also provide incomplete in-
+formation regarding the presence or absence of other 
+complications of MI. For patients in whom L V function is 
+found to be reduced, a repeat echocardiogram should be 
+performed in 6 to 12 weeks to further guide treatment 
+decisions and for consideration of need for an ICD.4,5
+Recommendation-Specific Supportive Text
+ 1. L V function should be routinely evaluated in 
+patients with ACS prior to hospital discharge 
+because L VEF guides therapeutic interventions 
+and facilitates risk stratification. The diagnosis of 
+L V dysfunction is important because it may trig-
+ger consideration for the initiation or optimization 
+of guideline-directed therapeutic interventions for 
+patients with HF or depressed L V function. It also 
+helps identify patients with reduced L VEF who may 
+require consideration for future primary prevention 
+implantation of an ICD. Besides L VEF, transtho-
+racic echocardiography facilitates the assessment 
+of regional wall motion abnormalities, valvular func-
+tion, mechanical complications,4 and L V thrombus.5 
+In cases in which L V function cannot be adequately 
+assessed despite the use of contrast echocardiog-
+raphy, cardiac magnetic resonance is the preferred 
+imaging modality for clinically stable patients.6–9
+10.5. Discharge Planning
+10.5.1. Patient Education
+Synopsis
+Patient education is universally valued and aims to de-
+liver information from clinicians to patients to improve 
+Downloaded from http://ahajournals.org by on May 30, 2026
+=== PAGE 54 ===
+CLINICAL STATEMENTS  
+AND GUIDELINES
+April 1, 2025 Circulation. 2025;151:e771–e862. DOI: 10.1161/CIR.0000000000001309e824
+Rao et al 2025 Acute Coronary Syndromes Guideline
+health behavior and long-term health-related outcomes. 
+Clinicians are well positioned to engage in meaningful 
+dialogue with patients who have experienced an ACS 
+event about secondary prevention and building self-care 
+skills to manage their condition (Table 20). Recovery 
+represents a teachable moment to provide structured 
+education, including priming the patient to attend car-
+diac rehabilitation (CR). Systematic reviews of educa-
+tional interventions targeting secondary prevention in 
+patients with coronary heart disease, many of whom 
+have ACS, have demonstrated effectiveness in improv-
+ing disease-related knowledge, healthy behaviors (eg, 
+smoking cessation, physical activity, healthy dietary be-
+havior), and medication adherence. 1–3 The magnitude of 
+the effect on each of these outcomes varies by study. 
+Beyond improved knowledge and behavior change, the 
+impact of individualized education for patients with ACS 
+on morbidity and mortality is less clear. A shortcoming of 
+published educational intervention studies to date is that 
+the interventions are markedly heterogeneous but vary in 
+intensity, duration, delivery mode, resources needed, and 
+outcomes measured. Currently, insufficient comparative 
+data are available to guide clinicians about which specific 
+educational interventions are best. However, evidence 
+supports the use of individualized goal setting that dem-
+onstrates respect for the patient and their circumstanc-
+es, structured content that is culturally appropriate, and 
+clearly defined outcomes.4 Table 20 lists the components 
+that should be discussed with ACS patients at the time of 
+hospital discharge.
+10.5.2. Postdischarge Follow-Up and Systems of 
+Care Coordination
+Synopsis
+Transition from the hospital to home is a critical period for 
+patients with ACS because approximately 1 in 5 patients 
+are readmitted within 30 days of discharge. 1–6 Women, 
+individuals from traditionally underrepresented racial and 
+ethnic groups, and patients who require ICU services 
+during their index hospitalization are particularly at risk 
+for readmission.3 Quality improvement programs such as 
+the Hospital to Home Initiative 7 or the AMI Toolkit 8 pro-
+vide resources to assist clinicians decrease readmission 
+rates and improve medication and CR adherence through 
+increased provider communication and care coordina-
+tion. Transitional care interventions that leverage different 
+types of support (eg, hospital-initiated support, patient and 
+family education delivered before and after discharge, or 
+community-based or chronic disease management mod-
+els of care) are examples of ways to reduce risk of re-
+admission.9 Hospital-initiated support interventions are 
+associated with reduced mortality rates at 3 months and 
+1 year as well as a reduction in 30-day readmission rates 
+among patients with AMI. 9,10 Multicomponent integrated 
+care (≥2 quality improvement strategies targeting different 
+domains of the health care system, health care profession-
+als, or patients) as compared with usual care has been as-
+sociated with reduction of all-cause death, cardiovascular 
+mortality, and all-cause hospitalization.11 Emerging digital 
+health interventions hold promise to improve the transition 
+from hospital to home. For additional recommendations on 
+nutrition, physical activity, smoking cessation, and alcohol 
+and substance use, refer to the “2023 AHA/ACC/ACCP/
+ASPC/NLA/PCNA Guideline for Management of Pa-
+tients With Chronic Coronary Disease.”12 Table 21 summa-
+rizes the recommended guidance for hospital discharge.
+10.5.3. Cardiac Rehabilitation
+Recommendations for CR
+Referenced studies that support recommendations are summarized in 
+the Evidence Table.
+COR LOE Recommendations
+1 A
+ 1. Patients with ACS should be referred to an  
+outpatient CR program prior to hospital  
+discharge to reduce death, MI, hospital readmis-
+sions, and improve functional status and QOL.1–4
+2a B-R
+ 2. In patients with ACS, a home-based CR program 
+is a reasonable alternative to a center-based CR 
+program to improve functional status and QOL.5–9
+Synopsis
+CR is a multifaceted and comprehensive outpatient inter-
+vention that is considered the standard of care for sec-
+ondary prevention of CVD. The primary goals of CR are 
+modifying CVD risk factors and improving patient func-
+tional capacity and QOL with the goal of reducing subse-
+quent morbidity and mortality. Through a combination of 
+monitored exercise training, health and nutrition education, 
+psychological support, and personalized patient assess-
+ment, including medication optimization (Figure 10), CR 
+has been shown to lower the risk of cardiovascular and 
+all-cause death, reduce hospital readmissions, and to be 
+cost-effective.10,11 Despite its proven benefits, CR is under-
+utilized and referral rates to CR are low, especially for wom-
+Table 20. Essential Components of Patient Education
+Reason for hospitalization (explain reason for admission, diagnostic tests, 
+procedural results)
+Tailored discussion of lifestyle modifications (AHA’s Life’s Essential 8)5
+Medications (written and verbal instructions including purpose, dose, 
+frequency, potential adverse effects of each medication; refill instructions; 
+changes to prehospital regimen; importance of adherence)
+Symptom management (what to monitor for and actions to take should 
+symptoms recur, including whom to call)
+Returning to daily routine (when to resume physical activity, sexual activity, 
+work, and travel)
+Psychosocial considerations (open dialogue about symptoms of depression 
+and anxiety)
+Follow-up care (future appointments with cardiology, CR, additional testing 
+postdischarge)
+AHA indicates American Heart Association; and CR, cardiac rehabilitation.
+Downloaded from http://ahajournals.org by on May 30, 2026
+=== PAGE 55 ===
+CLINICAL STATEMENTS 
+AND GUIDELINES
+Circulation. 2025;151:e771–e862. DOI: 10.1161/CIR.0000000000001309 April 1, 2025 e825
+Rao et al 2025 Acute Coronary Syndromes Guideline
+en and members of traditionally underrepresented groups.8 
+Factors that contribute to this overall low enrollment rate 
+include a poor utilization of a centralized method for referral 
+via the electronic health record, inadequate communication 
+between treatment teams, and perceived inconvenience as 
+well as associated costs for the patient.8 To increase the 
+utilization of CR, patients should be referred to CR dur-
+ing hospitalization for ACS and prior to discharge.12 To im-
+prove access for patients who live in rural locations and in 
+areas with no center-based CR, home-based CR options 
+should be considered. These home-based CR programs 
+have similar shorter-term safety and clinical outcomes (eg, 
+improvements in exercise capacity, QOL, blood pressure, 
+cholesterol) as center-based CR.13–15 More intensive CR 
+programs have been developed with a goal of expanding 
+the benefits of traditional CR programs through addition-
+al exercise and education sessions, as well as placing a 
+greater focus on diet and lifestyle factors. 16–18 Although 
+improved outcomes have been described with an intensive 
+program,16,19 the studies are observational in nature. Both 
+traditional and intensive CR programs remain underutilized, 
+so the primary emphasis should be on enrollment and ad-
+herence to any CR program.20
+Recommendation-Specific Supportive Text
+ 1. Exercise-based CR programs are associated with 
+improved survival and reduced risk of reinfarction in 
+patients after AMI.1–4 CR can be enhanced as a com-
+ponent of a multifactorial rehabilitation program with 
+risk factor education and counseling. Patients with 
+ACS who participate in CR have significantly better 
+outcomes compared with those who do not.1,21,22 In 
+a meta-analysis of 85 RCTs of exercise-based CR 
+in patients with coronary heart disease, the inter-
+vention reduced risk of MI, reduced all-cause hos-
+pitalization, reduced health care costs, and improved 
+health-related QOL outcomes over 12 months of 
+follow-up.1 Longer follow-up suggested reductions in 
+cardiovascular mortality.1,4 CR is particularly beneficial 
+in older patients with CAD, a group that is at a higher 
+risk of losing independence and functioning.23–26
+ 2. To overcome challenges that have prevented greater 
+patient participation, new strategies and innovative 
+models that utilize digital health tools are emerging 
+to meet the evolving needs of CR patients. CR pro-
+grams have traditionally been delivered via center-
+based CR. These programs require patients to be 
+physically present at a facility located in a hospital 
+or outpatient center, which limits access for many 
+patients, especially women and some racial and eth-
+nic groups.9,27 ,28 A review of 23 RCTs of home- and 
+center-based CR found that these programs tend 
+to implement the same core components. 13 These 
+include patient assessment of current medical his-
+tory, exercise training, dietary counseling, risk factor 
+management (eg, smoking, lipids, blood pressure, 
+weight, diabetes), and psychological intervention. 
+Comparison of studies in home- and center-based 
+CR indicate a similar improvement in QOL and no sta-
+tistically significant difference in the all-cause mor-
+tality rate up to 12 months after the intervention.5,6 
+However, more RCTs are needed with home-based 
+CR in patients with ACS because of an evidence 
+gap (especially in high-risk patients) in assessing 
+the safety of home-based CR in patients at high 
+risk for recurrent ischemic events, as well the impact 
+of a home-based rehabilitation strategy on clinical 
+outcomes such as cardiovascular death, recurrent 
+MI, and rehospitalization.29 Advances in technology 
+and remote monitoring may help to improve the effi-
+cacy and safety of this approach. Hybrid models that 
+combine elements of both center- and home-based 
+programs may also offer benefits.
+Table 21. Guidance for ACS Discharge: Best Practices
+Communication Patient centered, verbally and in writing in patient/caregiver preferred language
+Shared decision-making regarding assessment of goals and preferences should be discussed with patient/caregiver
+Clinical assessment Address comorbidities and risk factors for recurrent events
+Assess for presence of ongoing ischemic symptoms, using standardized instrument ideally embedded into EHR
+Assess risk for bleeding related to medications or procedural site
+Assess need for additional testing (eg, repeat echocardiogram, staged PCI)
+Assess whether vaccinations are current (eg, influenza)
+Perform medication reconciliation, including a prescription for sublingual nitroglycerin, unless contraindicated
+Patient/caregiver assessment Assess capacity for patient/caregiver for self-care (eg, secondary prevention, symptom monitoring, following plan of 
+care, lifestyle changes, contact information for continuing care team)
+Provide verbal and written educational information related to self-care
+Use teach-back method to confirm understanding of self-care
+Use teach-back method for patient/caregiver understanding of medication adherence and treatment regimen
+Referrals Confirm referral to CR
+Provide educational materials related to CR including contact information
+Social determinants of health Assess and address barriers to obtaining and taking prescribed medications, to include referral to pharmacy  
+assistance programs or social worker as appropriate
+Assess and address barriers to attending CR, including viability of home-based or hybrid CR
+ACS indicates acute coronary syndromes; CR, cardiac rehabilitation; EHR, electronic health record; and PCI, percutaneous coronary intervention.
+Downloaded from http://ahajournals.org by on May 30, 2026
+=== PAGE 56 ===
+CLINICAL STATEMENTS  
+AND GUIDELINES
+April 1, 2025 Circulation. 2025;151:e771–e862. DOI: 10.1161/CIR.0000000000001309e826
+Rao et al 2025 Acute Coronary Syndromes Guideline
+11. DISCHARGE: LONG-TERM 
+MANAGEMENT AND SECONDARY 
+PREVENTION
+11.1. DAPT Strategies in the First 12 Months 
+Postdischarge
+Recommendations for DAPT Strategies in the First 12 Months  
+Postdischarge
+Referenced studies that support recommendations are summarized in 
+the Evidence Table.
+COR LOE Recommendations
+Default Duration of DAPT
+1 A
+ 1. In patients with ACS who are not at high bleeding 
+risk, DAPT with aspirin and an oral P2Y12 inhibi-
+tor should be administered for at least 1 year to 
+reduce MACE.1–6
+Bleeding Reduction Strategies
+1 A
+ 2. In patients with ACS who have tolerated DAPT with 
+ticagrelor, transition to ticagrelor monotherapy ≥1 
+month post PCI is useful to reduce bleeding risk.7–11
+1 A
+ 3. In patients at high risk of gastrointestinal 
+bleeding, a proton pump inhibitor (PPI) is rec-
+ommended in combination with DAPT, oral antico-
+agulants, or both to reduce risk of bleeding.12–15
+2b B-R
+ 4. In patients with ACS undergoing PCI, de-
+escalation of DAPT (switching from ticagrelor or 
+prasugrel to clopidogrel) after 1 month may be 
+reasonable to reduce bleeding risk.16–20
+2b B-R
+ 5. In patients with ACS undergoing PCI who are at 
+high bleeding risk, transition to single antiplatelet 
+therapy (aspirin or P2Y12 inhibitor) after 1 month 
+may be reasonable to reduce bleeding risk.21
+Figure 10. Core Components of Cardiac Rehabilitation.
+Adapted with permission from Sandesara et al.30 Copyright 2015 American College of Cardiology Foundation.
+Recommendations for DAPT Strategies in the First 12 Months  
+Postdischarge (Continued)
+COR LOE Recommendations
+Downloaded from http://ahajournals.org by on May 30, 2026
+=== PAGE 57 ===
+CLINICAL STATEMENTS 
+AND GUIDELINES
+Circulation. 2025;151:e771–e862. DOI: 10.1161/CIR.0000000000001309 April 1, 2025 e827
+Rao et al 2025 Acute Coronary Syndromes Guideline
+Synopsis
+The addition of an oral P2Y12 inhibitor to aspirin (DAPT) 
+reduces the risk of early and late thrombotic events 
+among patients with ACS regardless of whether they 
+are managed with an invasive strategy.1–3 Notwithstand-
+ing these salutary benefits, prolonged exposure to DAPT 
+results in excess bleeding that may lead to DAPT inter-
+ruption,22 which in turn may increase the risk of recur-
+rent ischemic events.23 Identifying individuals most likely 
+to realize a net clinical benefit or harm from prolonged 
+DAPT has emerged as an important clinical priority. Sev-
+eral tools have been developed that predict the risk of 
+ischemic and/or bleeding events and may be useful 
+when considering how best to personalize care for an 
+individual patient. 24–27 Moreover, alternative antiplatelet 
+strategies have been compared with conventional DAPT 
+with the intent to reduce bleeding while maintaining isch-
+emic efficacy. Growing evidence suggests that a strategy 
+of aspirin discontinuation with ticagrelor monotherapy 
+reduces bleeding.7–11 Although clopidogrel monotherapy 
+has been studied,28,29 interpatient variability in pharmaco-
+dynamic response to clopidogrel is substantial30 and may 
+increase thrombotic risk in certain individuals. To that 
+end, a strategy of clopidogrel monotherapy may increase 
+risk of MACE in patients after ACS when compared with 
+more prolonged DAPT.29 Additional approaches include 
+aspirin monotherapy31,32 or a strategy of “de-escalation” 
+(ie, switching from ticagrelor or prasugrel to clopido-
+grel),16–20 although the safety of these strategies in terms 
+of their effects on risk of MACE is less firmly established. 
+Efficacy and safety of shorter DAPT strategies have not 
+been rigorously studied in patients not undergoing PCI. 
+Figure 11 summarizes the guideline recommendations 
+for DAPT management in patients with ACS during the 
+first 12 months post discharge.
+Recommendation-Specific Supportive Text
+ 1. Patients with ACS are characterized by a sustained 
+prothrombotic state, 33 thus highlighting the need 
+for continued antithrombotic therapy beyond the 
+index presentation. The double-blind placebo-con-
+trolled CURE (Clopidogrel in Unstable Angina to 
+Prevent Recurrent Events) trial (n=12 562) dem-
+onstrated that DAPT with clopidogrel yields a con-
+sistent reduction in both early and late composite 
+ischemic events as compared with aspirin alone 
+among patients with NSTE-ACS who were primar-
+ily managed medically.3,34 The treatment effect was 
+consistent among those treated with or without 
+revascularization.4 Subsequent studies showed 
+that DAPT with prasugrel or ticagrelor adminis-
+tered for 1 year provides incremental reductions 
+in ischemic events, albeit with excess bleeding, 
+as compared with clopidogrel. 1,2 Although con-
+cordant benefits were also observed among trial 
+participants requiring surgical revascularization, the 
+safety and efficacy of DAPT should be considered 
+in the context of CABG as a postrandomization 
+event and the high proportion of patients who did 
+not resume study drug after surgery. 4–6 An impor-
+tant consideration in extending the results of clini-
+cal trials that established the benefits of DAPT to 
+contemporary cohorts is that patients at elevated 
+risk for bleeding were typically excluded in early 
+studies. Therefore, the default strategy for a mini-
+mum DAPT duration of 1 year is most applicable to 
+those patients without high bleeding risk present-
+ing with ACS. Moreover, the choice of P2Y12 inhib-
+itor may vary in relation to treatment approach, as 
+described in Section 4.3.2, “Oral P2Y12 Inhibitors 
+During Hospitalization.” In select patients who have 
+tolerated DAPT, it may be reasonable to extend 
+treatment beyond 1 year after considering risks for 
+long-term bleeding and thrombosis.35–37
+ 2. Results from several randomized trials have con-
+sistently shown that aspirin withdrawal followed 
+by ticagrelor monotherapy after 1 to 3 months 
+of ticagrelor-based DAPT results in less bleed-
+ing without clear excess in MACE, as compared 
+with continued DAPT among patients with ACS 
+undergoing PCI. 7–11 Although studies examining 
+this strategy were characterized by relatively low 
+rates of ischemic events, study-level 38 and individ-
+ual patient data pooled analyses 39–41 have yielded 
+similar results. Although data with clopidogrel have 
+been mixed, concerns have been raised that a 
+strategy of clopidogrel monotherapy started 1 to 
+2 months after PCI may increase risk of MACE 
+in patients with ACS when compared with longer 
+DAPT.29 It remains unknown whether this may be 
+explained by excess thrombotic risk in patients 
+displaying inadequate platelet inhibition to clopi-
+dogrel, observed in 30% to 40% of patients after 
+PCI.30,42 Results from a randomized trial showed 
+that a strategy of P2Y12 inhibitor discontinuation 
+followed by aspirin alone after 6 months of DAPT 
+resulted in excess thrombotic risk among patients 
+with ACS undergoing PCI (n=2712; 38% STEMI), 
+albeit with less bleeding. 32 Similar findings were 
+observed with earlier P2Y12 inhibitor discontinu-
+ation 3 months after PCI. 31,43 Although the on-
+treatment pharmacodynamic effects of ticagrelor 
+and prasugrel are similar, the safety of a strategy of 
+prasugrel monotherapy has not been established 
+in patients ≥1 month post ACS; low-dose prasugrel 
+monotherapy (3.75 mg daily) in Japanese patients 
+very early after PCI with ACS or at high bleeding 
+risk may increase 30-day MACE compared with 
+DAPT.44
+ 3. PPIs reduce the risk of gastrointestinal bleeding 
+among patients receiving aspirin,14 DAPT,13 or an oral 
+Downloaded from http://ahajournals.org by on May 30, 2026
+=== PAGE 58 ===
+CLINICAL STATEMENTS  
+AND GUIDELINES
+April 1, 2025 Circulation. 2025;151:e771–e862. DOI: 10.1161/CIR.0000000000001309e828
+Rao et al 2025 Acute Coronary Syndromes Guideline
+anticoagulant.12,15 Because the conversion of clopi-
+dogrel to its active metabolite and the metabolism 
+of certain PPIs depend on some common hepatic 
+enzymes (eg, CYP2C19), the potential for a drug-
+drug interaction exists when both agents are coad-
+ministered. The results of several ex vivo studies 
+found that clopidogrel-induced platelet inhibition is 
+attenuated with use of certain PPIs, a pharmacody-
+namic effect that is most pronounced with omepra-
+zole.45,46 Nonetheless, results from a double-blind, 
+placebo-controlled randomized trial showed no 
+significant differences in ischemic events between 
+omeprazole versus placebo among patients treated 
+with clopidogrel, but PPI use markedly decreased 
+the risk of gastrointestinal bleeding. 13 Moreover, 
+post hoc analyses from several randomized tri-
+als have shown that ischemic risk is not increased 
+when a clinically indicated PPI is used with clopi-
+dogrel.47, 4 8 Importantly, the antiplatelet effects and 
+clinical efficacy of ticagrelor and prasugrel are not 
+appreciably modified with concomitant PPI use.48–50 
+Therefore, it is recommended to administer a PPI in 
+patients with ACS at elevated bleeding risk treated 
+with DAPT or oral anticoagulant.
+ 4. De-escalation implies modulating DAPT intensity 
+by switching from ticagrelor or prasugrel to clopido-
+grel.51 De-escalation can be guided by the results 
+of platelet function assays that quantify the degree 
+of platelet inhibition among patients treated with 
+clopidogrel. Patients with adequate response may 
+continue to receive clopidogrel, whereas nonre-
+sponders are switched to a more potent P2Y12 
+inhibitor. Clopidogrel responsiveness may also be 
+inferred with use of genotyping assays that iden-
+tify polymorphisms in genes involved in clopido-
+grel metabolism.52 Clinical trials examining guided 
+de-escalation after PCI have either shown a lack 
+of benefit,16 noninferiority,20 or reductions in minor 
+bleeding17 versus conventional DAPT. By con-
+trast, unguided de-escalation is performed without 
+antecedent knowledge of platelet responsiveness. 
+Randomized trials have suggested that unguided 
+de-escalation 1 month after PCI reduces bleeding 
+without incurring ischemic risk as compared with 
+longer term prasugrel- or ticagrelor-based DAPT.18,19 
+Pooled analyses have shown that de-escalation 
+(guided or unguided) yields comparable efficacy to 
+DAPT with respect to ischemic events while reducing 
+bleeding.53,54 However, trials of ticagrelor and prasu-
+grel have suggested that the benefit of more potent 
+P2Y12 inhibitor therapy extends beyond the early 
+phase post ACS, but with increased bleeding.1,2,55
+ 5. In the MASTER DAPT (Management of High 
+Bleeding Risk Patients Post Bioresorbable Polymer 
+Coated Stent Implantation With an Abbreviated 
+Versus Standard DAPT Regimen) trial, patients at 
+high risk of bleeding who had completed a 4-week 
+course of DAPT after successful PCI with drug-
+eluting stents were randomly allocated to single 
+antiplatelet therapy or more prolonged DAPT (≥ 2 
+Figure 11. DAPT Strategies in the First 12 Months Postdischarge.
+Colors correspond to Class of Recommendation in Table 2. *High bleeding risk discussed in Section 11.1, “Recommendation-Specific Supportive 
+Text” item 5, and outlined in Table 22. ACS indicates acute coronary syndromes; DAPT, dual antiplatelet therapy; OAC, oral anticoagulant; PCI, 
+percutaneous coronary intervention; and SAPT, single antiplatelet therapy.
+Downloaded from http://ahajournals.org by on May 30, 2026
+=== PAGE 59 ===
+CLINICAL STATEMENTS 
+AND GUIDELINES
+Circulation. 2025;151:e771–e862. DOI: 10.1161/CIR.0000000000001309 April 1, 2025 e829
+Rao et al 2025 Acute Coronary Syndromes Guideline
+additional months).21 In the absence of oral antico-
+agulant use, the choice of discontinuing aspirin or 
+P2Y12 inhibitor and the choice of P2Y12 inhibitor 
+was at the discretion of the treating physician. An 
+oral anticoagulant was used in 36.4% of patients, 
+and clopidogrel monotherapy was selected in 
+53.9% of patients randomized to abbreviated 
+DAPT. Compared with standard therapy, an abbrevi-
+ated antiplatelet strategy demonstrated noninferior-
+ity with respect to composite ischemic events and 
+superiority regarding clinically relevant bleeding 
+over 1 year. Among patients with ACS (n=1780; 
+30% STEMI) allocated to an abbreviated strategy, 
+clinicians selected a potent P2Y12 inhibitor with 
+ticagrelor use in approximately 25% of patients. 56 
+Results in the ACS cohort were qualitatively consis-
+tent with the overall trial results with respect to both 
+ischemic and bleeding outcomes. Although the trial 
+demonstrated noninferiority for abbreviated DAPT 
+with respect to MACE in patients at high bleeding 
+risk, it was underpowered to determine the rela-
+tive safety of discontinuing aspirin versus P2Y12 
+inhibitor. Multiple studies have identified clinical 
+and laboratory predictors of bleeding and/or isch-
+emic risk.24–27 The Academic Research Consortium 
+determined 20 correlates of bleeding and proposed 
+a consensus-based definition of high bleeding risk 
+as the presence of having at least 1 major or 2 
+minor criteria at time of PCI (Table 22).26
+11.1.1. Antiplatelet Therapy in Patients on 
+Anticoagulation Postdischarge
+Recommendation for Antiplatelet Therapy in Patients on  
+Anticoagulation Postdischarge
+Referenced studies that support recommendation are summarized in 
+the Evidence Table.
+COR LOE Recommendation
+1 B-R
+ 1. In patients with ACS who require oral  
+anticoagulant therapy, aspirin should be  
+discontinued after 1 to 4 weeks of triple  
+antithrombotic therapy, with continued use of a 
+P2Y12 inhibitor (preferably clopidogrel) and an 
+oral anticoagulant to reduce bleeding risk.*1–5
+*Modified from the “2021 ACC/AHA/SCAI Guideline for Coronary Artery  
+Revascularization.”6
+Synopsis
+Patients after ACS may frequently have indications for 
+anticoagulant therapy, including AF, venous thrombo-
+embolism, and prosthetic heart valves. Bleeding risks 
+are increased in the setting of triple therapy with the 
+combination of aspirin, P2Y12 inhibitor, and anticoagu-
+lant. Therefore, the benefits of these therapies must be 
+weighed against the risk of bleeding. A growing num-
+ber of studies have demonstrated the overall safety of 
+a strategy of aspirin discontinuation 1 to 4 weeks after 
+ACS or PCI in patients who require anticoagulation after 
+ACS.1–5 For most patients, a DOAC will be preferred over 
+a vitamin K antagonist due to their favorable efficacy and 
+safety profile. 7 Trials of more potent P2Y12 inhibitors 
+Table 22. Academic Research Consortium High Bleeding Risk Criteria After PCI
+Major Criteria26 Minor Criteria
+Age ≥75 y
+Anticipated use of long-term oral anticoagulation (Section 11.1.1, “Antiplatelet 
+Therapy in Patients on Anticoagulation Postdischarge”)
+Severe or end-stage CKD (eGFR <30 mL/min) Moderate CKD (eGFR 30-59 mL/min)
+Hemoglobin level <11 g/dL Hemoglobin level 11-12.9 g/dL for men and 11-11.9 g/dL for women
+Spontaneous bleeding requiring hospitalization or transfusion in the past 6 mo 
+or at any time, if recurrent
+Spontaneous bleeding requiring hospitalization or transfusion within the past 
+12 mo not meeting the major criterion
+Moderate or severe baseline thrombocytopenia (platelet count <100×109/L)
+Chronic bleeding diathesis
+Liver cirrhosis with portal hypertension
+Long-term use of oral NSAIDs or steroids
+Active malignancy (excluding nonmelanoma skin cancer) within the past 12 mo
+Previous spontaneous ICH (at any time)
+Previous traumatic ICH within the past 12 mo
+Presence of a brain arteriovenous malformation
+Moderate or severe ischemic stroke within the past 6 mo
+Any ischemic stroke at any time not meeting the major criterion
+Nondeferrable major surgery on DAPT
+Recent major surgery or major trauma within 30 d before PCI
+The presence of at least 1 major or 2 minor criteria helps to identify those at increased risk of bleeding. Modified with permission from Urban et al.26 Copyright 2019 
+American Heart Association, Inc.
+CKD indicates chronic kidney disease; DAPT, dual antiplatelet therapy; eGFR, estimated glomerular filtration rate; NSAID, nonsteroidal anti-inflammatory drugs; ICH, 
+intracranial hemorrhage; and PCI, percutaneous coronary intervention.
+Downloaded from http://ahajournals.org by on May 30, 2026
+=== PAGE 60 ===
+CLINICAL STATEMENTS  
+AND GUIDELINES
+April 1, 2025 Circulation. 2025;151:e771–e862. DOI: 10.1161/CIR.0000000000001309e830
+Rao et al 2025 Acute Coronary Syndromes Guideline
+(ie, prasugrel and ticagrelor) excluded patients requiring 
+long-term anticoagulation; therefore, clopidogrel is gen-
+erally favored as the P2Y12 inhibitor in this setting for 
+most patients. The decision whether to continue antico-
+agulant with or without antiplatelet therapy >12 months 
+after ACS is addressed in the “2023 AHA/ACC/ACCP/
+ASPC/NLA/PCNA Guideline for the Management of 
+Patients with Chronic Coronary Disease.”8
+Recommendation-Specific Supportive Text
+ 1. Several RCTs have demonstrated that the dis-
+continuation of aspirin 1 to 4 weeks after PCI 
+reduces the risk of bleeding in patients with AF 
+with an indication for DAPT and an oral antico-
+agulant.1–5 Although individual studies were not 
+powered for ischemic endpoints, meta-analyses 
+across randomized trials suggest no difference in 
+mortality, stroke, and overall MACE when aspirin 
+is discontinued for patients on an oral anticoagu-
+lant, albeit with a marginal apparent increase in 
+MI and stent thrombosis. 9–14 An analysis of stent 
+thrombosis rates suggested that 80% of events 
+occurred within 30 days of PCI, with stent throm-
+bosis events numerically less frequent in those 
+receiving aspirin (randomization was approximately 
+1 week after PCI) compared with placebo in the 
+AUGUSTUS (Antithrombotic Therapy After Acute 
+Coronary Syndrome or PCI in Atrial Fibrillation) 
+trial.15,16 Therefore, in patients with a high risk of 
+stent thrombosis, aspirin for up to 30 days after 
+PCI could be considered. P2Y12 inhibitor therapy 
+should be continued for at least 12 months after 
+PCI following aspirin discontinuation but could be 
+discontinued earlier in those with multiple risk fac-
+tors for bleeding.17 ,18
+11.2. Reassessment of Lipid Levels 
+Postdischarge
+Recommendation for Reassessment of Lipid Levels Postdischarge
+COR LOE Recommendation
+1 C-LD
+ 1. In patients after ACS, a fasting lipid panel is  
+recommended 4 to 8 weeks after initiation or  
+dose adjustment of lipid-lowering therapy to 
+assess response or adherence to therapy.*1,2
+*Modified from the “2018 AHA/ACC/AACVPR/AAPA/ABC/ACPM/ADA/
+AGS/APhA/ASPC/NLA/PCNA Guideline on the Management of Blood Cho-
+lesterol.”3
+Synopsis
+Aggressive LDL-C lowering is an important component of 
+secondary CVD prevention. For every 1.0-mmol/L (∼ 39 
+mg/dL) reduction of LDL-C, an approximate 22% relative 
+reduction in cardiovascular events is observed over a pe-
+riod of 4 to 5 years.2 Despite the growing number of lipid-
+lowering therapies currently available, many patients with 
+ACS do not achieve target LDL-C levels. 4,5 The reasons 
+are varied but include underprescribing by providers, cost 
+or insufficient coverage by medical insurance companies, 
+and intolerance to therapies. Many patients are also un-
+willing or unable to readily fill prescriptions at pharma-
+cies or patients self-discontinue therapy early. Providers 
+are not always aware of the barriers that patients may 
+be experiencing; therefore, a conversation between clini-
+cian and patient is important to help improve adherence. If 
+adverse effects are experienced, consideration should be 
+given to subsequent rechallenge at each visit or chang-
+ing to a different type of statin or class of lipid-lowering 
+therapy. Statin intolerance requires exposure to at least 
+2 different statins with 1 prescribed at the lowest avail-
+able dose. Because risk of MACE is elevated in the early 
+months after ACS, early follow-up visits are important 
+for making appropriate changes to lipid-lowering thera-
+py to help achieve desired LDL-C targets (Section 4.5, 
+“Lipid Management”). Importantly, lipid-lowering therapies 
+should not be downtitrated in response to very low LDL-C 
+concentrations, because current evidence supports that 
+those with very low LDL-C concentrations are at lowest 
+risk of MACE without any clear safety concern.6–9
+Recommendation-Specific Supportive Text
+ 1. Use of high-potency statin therapy has been 
+shown to reduce MACE with the benefit appearing 
+early after ACS and persisting with time.10 To date, 
+evidence suggests the benefit of lowering LDL-C 
+concentrations may be irrespective of whether it 
+is achieved through high-potency statins or other 
+lipid-lowering therapies; however, the largest body 
+of evidence exists with statin therapies. As such, 
+early intensification of lipid-lowering therapy after 
+ACS is justified. In clinical practice, statin-eligible 
+patients remain undertreated or untreated.1,11 Early 
+and frequent follow-up, including lipid testing, is 
+associated with improved adherence to lipid-lower-
+ing therapies.1 In the PALM (Provider Assessment 
+of Lipid Management) registry, less than one-half 
+of adults were on the statin intensity recommended 
+by the guidelines.12 In a study of US veterans with 
+a history of ACS or coronary revascularization, less 
+than one-half of patients received intensification 
+of lipid-lowering therapy (41.9% at 3 months ver-
+sus 47 .3% at 1-year postdischarge).5 High patient 
+copays and poor coverage of newer lipid-lowering 
+therapies by some prescription plans are factors 
+contributing to suboptimal LDL target attainment. 
+To that end, out-of-pocket costs should be verified 
+and discussed with patients before they fill a pre-
+scription for a new lipid-lowering therapy. Education 
+about the importance of lipid-lowering therapies 
+should be discussed with patients at visits to allow 
+Downloaded from http://ahajournals.org by on May 30, 2026
+=== PAGE 61 ===
+CLINICAL STATEMENTS 
+AND GUIDELINES
+Circulation. 2025;151:e771–e862. DOI: 10.1161/CIR.0000000000001309 April 1, 2025 e831
+Rao et al 2025 Acute Coronary Syndromes Guideline
+them the opportunity to ask questions and review 
+potential barriers. For the management of lipid-
+lowering therapy initiated prior to discharge and 
+continued after hospital discharge, refer to Section 
+4.5, “Lipid Management.”
+11.3. SGLT-2 Inhibitors and GLP-1 Receptor 
+Agonists
+Synopsis
+The cardiovascular benefits of both sodium glucose co-
+transporter-2 (SGL T-2) inhibitors and glucagon-like pep-
+tide-1 (GLP-1) receptor agonists are well documented 
+in stable patients with ASCVD and type 2 diabetes,1–6 as 
+well as in patients with HF regardless of diabetes sta-
+tus.7–11 GLP-1 receptor agonists may lead to weight loss 
+in many patients, and semaglutide has been shown to 
+reduce the risk of MACE in overweight or obese patients 
+with stable ASCVD but has not been studied early after 
+ACS.12 SGL T-2 inhibitors may increase the risk of urinary 
+tract infection, genital mycotic infection, hypovolemia, 
+and acute kidney injury (while offering longer term renal 
+benefit in patients with diabetes). Due to a higher risk of 
+diabetic and euglycemic ketoacidosis in the periopera-
+tive period, canagliflozin, dapagliflozin, and empagliflozin 
+should be stopped ≥3 days and ertugliflozin ≥4 days prior 
+to scheduled surgery, including CABG.13–15
+The efficacy and safety of SGL T-2 inhibitors have 
+now been studied in 2 large trials of patients after MI. 
+In patients without diabetes or HF, dapagliflozin was 
+not shown to reduce the risk of cardiovascular death or 
+HF hospitalization in patients with AMI and impaired L V 
+systolic function.16 Similarly, empagliflozin did not signifi-
+cantly reduce all-cause death or first HF hospitalization 
+in patients without prior HF who were hospitalized with 
+AMI and found to have impaired L V systolic function with 
+or without signs of congestion. However, empagliflozin 
+did reduce HF hospitalizations in this population. 17 No 
+new safety concerns were identified. Therefore, use of an 
+SGL T-2 inhibitor does not need to be deferred in patients 
+with an indication for its use at hospital discharge.
+11.4. Use of Chronic Colchicine
+Recommendation for Use of Chronic Colchicine
+Referenced studies that support recommendation are summarized in 
+the Evidence Table.
+COR LOE Recommendation
+2b B-R  1. In patients after ACS, low-dose colchicine may  be reasonable to reduce risk of MACE.1–5
+Synopsis
+Colchicine is a botanical-derived anti-inflammatory agent 
+that has been used for millennia in the treatment of gout. 
+Colchicine reduces neutrophil adhesion to endothelial 
+cells and platelets and has been shown to reduce high-
+sensitivity C-reactive protein concentration and low-at-
+tenuation plaque volume in patients already on aspirin 
+and statin therapy. 6–9 Colchicine is associated with a 
+lower risk of MI in patients with gout, as well as in pa-
+tients with CAD, including those with prior MI. 1,4,5,10,11 Al-
+though gastrointestinal events were historically reported 
+at a higher rate in patients on colchicine, this rate does 
+not differ from placebo at the lower once daily dosing.5 A 
+meta-analysis of the studies examining colchicine in pa-
+tients with CAD reported no difference in all-cause death 
+with colchicine versus placebo, but a nonsignificant trend 
+was observed toward an increased risk of noncardiovas-
+cular death that requires further study. 5 To date, no po-
+tential pathogeneses of the noncardiovascular deaths 
+have been consistently shown to explain the numerical 
+differences in noncardiovascular death.5
+Recommendation-Specific Supportive Text
+ 1. COLCOT (Colchicine Cardiovascular Outcomes 
+Trial) randomized patients ≤30 days (median, 14 
+days) after MI to low-dose colchicine versus pla-
+cebo.2 Colchicine reduced the primary outcome of 
+cardiovascular death, resuscitated cardiac arrest, 
+MI, stroke, or urgent coronary revascularization by 
+32% (median follow-up, 22.6 months). Although 
+directional consistency was seen across individual 
+components, this benefit was driven by a reduction 
+in hospitalizations for angina requiring revascular-
+ization and stroke. The smaller COPS (Colchicine 
+in Patients With ACS) study randomized patients 
+during their index hospitalization of ACS to col-
+chicine versus placebo. 3 The primary endpoint of 
+all-cause death, ACS, unplanned ischemia-driven 
+urgent revascularization, and noncardioembolic 
+ischemic stroke was numerically, but not signifi-
+cantly, lower for patients on colchicine (P =0.09). 
+Although deaths were infrequent, more deaths 
+occurred for patients on colchicine than on pla-
+cebo (8 versus 1; P =0.017) due to more non-
+cardiovascular deaths. In a post hoc analysis, the 
+composite outcome of cardiovascular death, ACS, 
+stroke, or urgent revascularization was lower for 
+colchicine than placebo. The LoDoCo2 (Low-Dose 
+Colchicine-2) trial enrolled patients with stable (>6 
+months) coronary disease, demonstrating a reduc-
+tion in the composite of cardiovascular death, MI, 
+ischemic stroke, or ischemia-driven coronary revas-
+cularization with colchicine (median follow-up, 28.6 
+months); findings were consistent in the 84% of 
+patients with prior ACS.4,12 Pooled data from these 
+large trials confirmed a reduction in the incidence of 
+MACE with colchicine versus placebo. 5 Colchicine 
+should not be administered in patients with blood 
+Downloaded from http://ahajournals.org by on May 30, 2026
+=== PAGE 62 ===
+CLINICAL STATEMENTS  
+AND GUIDELINES
+April 1, 2025 Circulation. 2025;151:e771–e862. DOI: 10.1161/CIR.0000000000001309e832
+Rao et al 2025 Acute Coronary Syndromes Guideline
+dyscrasias, renal failure (creatinine clearance <15 
+mL/min), severe hepatic impairment, or with con-
+comitant P-glycoprotein and/or strong CYP3A4 
+inhibitors. Although the trials studied a dose of 0.5 
+mg daily, daily dosing of 0.5 mg or 0.6 mg may be 
+considered. There are ongoing trials studying the 
+efficacy of colchicine in patients after MI.
+11.5. Immunization
+Recommendation for Immunization
+Referenced studies that support recommendation are summarized in 
+the Evidence Table.
+COR LOE Recommendation
+1 A
+ 1. In patients with ACS without a contraindication, 
+annual influenza vaccination is recommended to 
+reduce the risk of death and MACE.1–4
+Synopsis
+Influenza infection is associated with increased risks of 
+cardiovascular morbidity and mortality.5 Previous studies 
+have shown that influenza infection may contribute to 
+atherogenesis and plaque destabilization, thereby pre-
+cipitating the occurrence of ACS. 6,7 Influenza vaccine 
+has been shown to reduce the risk of death and MACE 
+in patients after ACS and ASCVD and should therefore 
+be administered in patients without contraindication.1–3,5,8 
+Other illnesses such as COVID-19 and pneumococcal 
+pneumonia increase risk of cardiovascular events and 
+death in patients with ASCVD. However, randomized 
+trial data are lacking to support routine administration of 
+other vaccines for patients at time of hospitalization for 
+ACS. As such, regular immunization schedules are sup-
+ported for all patients per the US Centers for Disease 
+Control and Prevention recommendations in the absence 
+of contraindication.9
+Recommendation-Specific Supportive Text
+ 1. In the FLUVACS (Flu Vaccination in Acute 
+Coronary Syndromes and Planned Percutaneous 
+Coronary Interventions) study, cardiovascular death 
+was lower in patients who received influenza vac-
+cination compared with the control group at both 
+6-month (2% versus 8%) and 1-year follow-up 
+(6% versus 17%). The triple composite endpoint of 
+cardiovascular death, nonfatal MI, and rehospital-
+ization for severe recurrent ischemia at 1 year was 
+significantly lower in the vaccine group compared 
+with controls.2,10 Among patients admitted with MI 
+or high-risk coronary heart disease, influenza vac-
+cine administered within 72 hours of an invasive 
+coronary procedure or hospitalization resulted in a 
+lower risk of the composite primary outcome of all-
+cause death, MI, or stent thrombosis and a lower 
+risk of cardiovascular death compared with pla-
+cebo at 1 year.1
+12. EVIDENCE GAPS AND FUTURE 
+DIRECTIONS
+The treatment of ACS has been the subject of thou-
+sands of clinical trials comprising very large numbers of 
+patients. As such, its management is guided by the larg-
+est evidence base in clinical medicine. Despite this, there 
+are numerous unanswered questions, evidence gaps, 
+and areas for further study. Some of these areas have 
+been addressed by observational studies but were not in-
+cluded in this guideline because the LOE was insufficient 
+to guide clinical practice. Other areas were not included 
+because they are less well defined and require more de-
+tailed study. This section summarizes some higher prior-
+ity evidence gaps and areas for future study.
+INITIAL EVALUATION AND MANAGEMENT
+Although the 2025 ACS guideline recognizes the value 
+of risk scores in estimating the risk of death or recurrent 
+MI, limited prospective randomized data are available as 
+to whether risk scores should be used to determine treat-
+ment strategies. The highest risk patients are those who 
+present after a cardiac arrest. Although the data support 
+an invasive approach in patients who have been resus-
+citated and who have evidence of ST-segment elevation 
+on the postarrest ECG, any potential benefit of coronary 
+angiography may be attenuated in those who are coma-
+tose. Similarly, it is less clear whether reperfusion with 
+either fibrinolysis or primary PCI provides clinical benefit 
+in patients with ST-segment elevation who present late 
+after symptom onset (12 to 48 hours) but who are no 
+longer symptomatic. Further research is needed to define 
+the role of coronary angiography and revascularization in 
+these patient subgroups.
+In-Hospital Management of ACS
+Patients with ACS are placed on telemetry to monitor 
+for life-threatening arrhythmias or for rhythm disturbanc-
+es that may require further therapy (eg, atrioventricular 
+block, AF). Given the length of stay for most patients with 
+ACS has decreased significantly, the optimal duration of 
+telemetry monitoring with contemporary management is 
+unclear. The increasingly rapid triage and timing of inva-
+sive risk stratification also calls into question the value of 
+“preloading” of oral P2Y12 inhibitors, with preloading de-
+fined as administering the loading dose prior to coronary 
+angiography. As outlined in this document, clinical trials 
+of preloading have not shown a compelling benefit when 
+coronary angiography occurs rapidly after the patient’s 
+clinical presentation. Nonetheless, the pharmacodynamic 
+Downloaded from http://ahajournals.org by on May 30, 2026
+=== PAGE 63 ===
+CLINICAL STATEMENTS 
+AND GUIDELINES
+Circulation. 2025;151:e771–e862. DOI: 10.1161/CIR.0000000000001309 April 1, 2025 e833
+Rao et al 2025 Acute Coronary Syndromes Guideline
+effects of clopidogrel are delayed due to its need to be 
+metabolized to its active metabolite, and there are re-
+ports that the antiplatelet effects of all P2Y12 inhibitors 
+may be delayed in patients with STEMI. In this context, 
+parenteral P2Y12 inhibition could be considered but has 
+not yet been compared to a strategy of more potent oral 
+P2Y12 inhibitor administration. Other drug therapies in 
+need of further evaluation in the ACS setting include 
+the utility of sacubitril-valsartan, nonstatin lipid-lowering 
+therapies (including clinical outcome studies for PCSK9 
+inhibitors early after ACS), and GLP-1 receptor agonists 
+for reducing short- and long-term MACE after ACS. The 
+clinical benefit of beta blockers in the setting of patients 
+with NSTE-ACS requires further study, as well as the op-
+timal duration of their use after ACS.
+For patients with MVD found during coronary angiog-
+raphy, there are several remaining gaps in evidence. In 
+patients with NSTEMI, the role of multivessel PCI versus 
+culprit-only PCI needs further supportive data. As a cor-
+ollary, whether multivessel PCI in the ACS setting should 
+be guided by angiography or physiology is still a matter 
+of debate. Finally, as noted in this guideline, the recom-
+mendations for PCI of nonculprit arteries in patients with 
+STEMI are for patients who are not intended for CABG, 
+which is a qualifier based on the inclusion criteria of the 
+randomized trials. The optimal strategy for patients who 
+have more complex anatomy is less clear.
+The 2025 ACS guideline includes a new recommen-
+dation regarding the management of cardiogenic shock 
+using the microaxial flow pump MCS device. Because 
+the benefit of this device was offset by an increase in 
+serious complications, more data are needed to guide 
+the selection of patients for MCS, the timing of MCS 
+placement and duration of support, and strategies to 
+reduce the risks of vascular complications, bleeding, and 
+limb ischemia.
+DISCHARGE STRATEGIES AND 
+SECONDARY PREVENTION
+One of the most important areas needing further clarifi-
+cation is the timeline defining the transition of a patient 
+from ACS to chronic coronary syndrome. The 2025 ACS 
+guideline does not define this largely because no data 
+exist to guide any recommendations. Moreover, it is likely 
+that this transition is highly individualized and accounts for 
+the patient’s risk at initial presentation, the status of resid-
+ual unrevascularized CAD, control of cardiovascular risk 
+factors, and bleeding risk with continued antithrombotic 
+therapy. Once a patient is deemed to have transitioned 
+to having a “chronic coronary syndrome,” the question of 
+how to or whether to de-escalate antiplatelet therapies 
+is unclear. These decisions may also be influenced by 
+complications of ACS requiring additional antithrombotic 
+therapy such as L V thrombus from a large anterior wall 
+MI. The role of DOACs in this setting appears prudent 
+but is not supported by a robust body of data. Other com-
+plications such as post-MI pericarditis now have several 
+therapeutic options, but no comparative data are available 
+to help determine which approach is optimal.
+With respect to long-term secondary prevention, more 
+research is needed to determine whether home-based 
+CR provides the same benefit as facility-based programs 
+and results in higher rates of adherence. Randomized 
+trials of GLP-1 receptor agonists post MI will be impor-
+tant to understand the role of these agents in reducing 
+long-term risk in patients with diabetes or those who are 
+overweight or with obesity. Finally, data are lacking on the 
+use of high-dose aspirin in those with post-MI pericar-
+ditis, and additional data would be useful to confirm the 
+efficacy of colchicine post ACS.
+PEER REVIEW COMMITTEE MEMBERS
+Hani Jneid, MD, FACC, FAHA, FSCAI, Chair; Craig J. 
+Beavers, PharmD, FACC, FAHA; Theresa Beckie, PhD, 
+RN, FAHA; Jim Blankenship, MD, MACC; Deborah Di-
+ercks, MD, FACC; Bruce Lo, MD*; Clauden Louis, MD, 
+FACC; Faisal M. Merchant, MD, FACC; Noreen T. Nazir, 
+MD, FACC; Derek So, MD, MSc, FACC; Matthew Tomey, 
+MD, FACC, FAHA, FSCAI; Frederick Welt, MD, FACC†
+ACC/AHA JOINT COMMITTEE ON 
+CLINICAL PRACTICE GUIDELINES 
+MEMBERS
+Catherine M. Otto, MD, FACC, FAHA, Chair; Sunil V. Rao, 
+MD, FACC, FSCAI, Chair-Elect; Joshua A. Beckman, MD, 
+MS, FAHA, FACC, Immediate Past Chair‡; Anastasia 
+Armbruster, PharmD, FACC; Vanessa Blumer, MD, FACC; 
+Leslie L. Davis, PhD, RN, ANP-BC, FACC, FAHA; Lisa de 
+las Fuentes, MD, MS, FAHA‡; Anita Deswal, MD, MPH, 
+FACC, FAHA‡; Victor A. Ferrari, MD, FACC; Stephen E. 
+Fremes, MD, FACC; Mario Gaudino, MD, FACC, FAHA; 
+Adrian F. Hernandez, MD, FAHA‡; Hani Jneid, MD, FACC, 
+FAHA; Heather M. Johnson, MD, MS, FACC, FAHA; W. 
+Schuyler Jones, MD, FACC; Sadiya S. Khan, MD, MSc, 
+FACC, FAHA; Prateeti Khazanie, MD, FAHA‡; Michelle 
+M. Kittleson, MD, FACC, FAHA; Venu Menon, MD, FACC, 
+FAHA; Debabrata Mukherjee, MD, MS, FACC, FAHA, 
+MSCAI; Latha Palaniappan, MD, MS, FACC, FAHA‡;  
+Tanveer Rab, MD, FACC, MSCAI‡; Garima Sharma, MBBS, 
+FACC, FAHA; Daichi Shimbo, MD; Jacqueline E. Tamis-
+Holland, MD, FACC, FAHA, FSCAI‡; Y. Joseph Woo, MD, 
+FACC, FAHA‡; Boback Ziaeian, MD, PhD, FACC, FAHA
+*American College of Emergency Physicians representative
+†Society for Cardiovascular Angiography and Interventions representative.
+‡Former ACC/AHA Joint Committee on Clinical Practice Guidelines member; 
+current member during this writing effort.
+Downloaded from http://ahajournals.org by on May 30, 2026
+=== PAGE 64 ===
+CLINICAL STATEMENTS  
+AND GUIDELINES
+April 1, 2025 Circulation. 2025;151:e771–e862. DOI: 10.1161/CIR.0000000000001309e834
+Rao et al 2025 Acute Coronary Syndromes Guideline
+PRESIDENTS AND STAFF
+American College of Cardiology
+Cathleen Biga, MSN, FACC, President
+Cathleen C. Gates, Chief Executive Officer
+Richard J. Kovacs, MD, MACC, Chief Medical Officer
+Justine Varieur Turco, Divisional Vice President, Scientific 
+Publications and Guidelines
+Mindy J. Saraco, MHA, Director, Clinical Policy and 
+Guidelines
+Grace D. Ronan, Senior Production and Operations Man-
+ager, Clinical Policy Publications
+Leah Patterson, Project Manager, Clinical Content Devel-
+opment
+American College of Cardiology/American 
+Heart Association
+Thomas S.D. Getchius, National Senior Director, Guide-
+lines
+Abdul R. Abdullah, MD, Director, Guideline Science and 
+Methodology
+American Heart Association
+Keith Churchwell, MD, FAHA, President
+Nancy Brown, Chief Executive Officer
+Mariell Jessup, MD, FAHA, Chief Science and Medical 
+Officer
+Nicole Aiello Sapio, EdD, Executive Vice President, Office 
+of Science Strategies and Operations
+Radhika Rajgopal Singh, PhD, Senior Vice President, 
+Office of Science and Medicine
+Prashant Nedungadi, BPharm, PhD, National Vice  
+President, Science and Medicine, Clinical Guidelines
+Paul St. Laurent, DNP, RN, National Vice President, 
+Office of Science and Medicine
+Jody Hundley, Senior Production and Operations  
+Manager, Scientific Publications, Office of Science 
+Operations
+ARTICLE INFORMATION
+This document was approved by the American College of Cardiology Clinical Pol-
+icy Approval Committee and the American Heart Association Science Advisory 
+and Coordinating Committee in October 2024, the American College of Cardiol-
+ogy Science and Quality Committee in October 2024, and the American Heart 
+Association Executive Committee in November 2024.
+Supplemental materials are available with this article at https://www.ahajour-
+nals.org/doi/suppl/10.1161/CIR.0000000000001309
+This article has been copublished in the Journal of the American College of 
+Cardiology.
+Copies: This document is available on the websites of the American 
+Heart Association (professional.heart.org) and the American College of Car-
+diology (www.acc.org). A copy of the document is also available at https://
+professional.heart.org/statements by selecting the “Guidelines & State-
+ments” button. To purchase additional reprints, call 215-356-2721 or email 
+Meredith.Edelman@wolterskluwer.com.
+The expert peer review of AHA-commissioned documents (eg, scientific 
+statements, clinical practice guidelines, systematic reviews) is conducted by the 
+AHA Office of Science Operations. For more on AHA statements and guide-
+lines development, visit https://professional.heart.org/statements. Select the 
+“Guidelines & Statements” drop-down menu near the top of the webpage, then 
+click “Publication Development.”
+Permissions: Multiple copies, modification, alteration, enhancement, and dis-
+tribution of this document are not permitted without the express permission of the 
+American Heart Association. Instructions for obtaining permission are located at 
+https://www.heart.org/permissions. A link to the “Copyright Permissions Request 
+Form” appears in the second paragraph (https://www.heart.org/en/about-us/
+statements-and-policies/copyright-request-form).
+REFERENCES
+PREAMBLE
+ 1. Committee on Standards for Systematic Reviews of Comparitive Effective-
+ness Research, Institute of Medicine (US). Finding what works in healthcare: 
+standards for systematic reviews. National Academies Press; 2011.
+ 2. Anderson JL, Heidenreich PA, Barnett PG, et al. ACC/AHA statement on 
+cost/value methodology in clinical practice guidelines and performance 
+measures: a report of the American College of Cardiology/American Heart 
+Association Task Force on Performance Measures and Task Force on Prac-
+tice Guidelines. Circulation. 2014;129:2329–2345.
+ 3. ACCF/AHA Task Force on Practice Guidelines. Methodology Manual and 
+Policies From the ACCF/AHA Task Force on Practice Guidelines. American 
+College of Cardiology and American Heart Association. 2010. Accessed 
+June 3, 2024. https://www.acc.org/-/media/Non-Clinical/Files-PDFs- 
+Excel-MS-Word-etc/Guidelines/About-Guidelines-and-Clinical-Documents/ 
+Methodology/2014/Methodology-Practice-Guidelines.pdf?la=en&  
+hash=157B7835091CF7856B26528717BE14B33BE8226F and https:// 
+professional.heart.org/-/media/phd-files/guidelines-and-statements/
+methodology_manual_and_policies_ucm_319826.pdf.
+ 4. Halperin JL, Levine GN, Al-Khatib SM, et al. Further evolution of the ACC/
+AHA clinical practice guideline recommendation classification system: a re-
+port of the American College of Cardiology/American Heart Association Task 
+Force on Clinical Practice Guidelines. Circulation. 2016;133:1426–1428.
+ 5. Arnett DK, Goodman RA, Halperin JL, et al. AHA/ACC/HHS strategies to 
+enhance application of clinical practice guidelines in patients with cardio-
+vascular disease and comorbid conditions: from the American Heart Asso-
+ciation, American College of Cardiology, and US Department of Health and 
+Human Services. Circulation. 2014;130:1662–1667 .
+ 6. Levine GN, O’Gara PT, Beckman JA, et al. Recent innovations, modifications, 
+and evolution of ACC/AHA clinical practice guidelines: an update for our 
+constituencies: a report of the American College of Cardiology/American 
+Heart Association Task Force on Clinical Practice Guidelines. Circulation. 
+2019;139:e879–e886.
+1.4. Scope of the Guideline
+ 1. O’Gara PT, Kushner FG, Ascheim DD, et al. 2013 ACCF/AHA guideline 
+for the management of ST-elevation myocardial infarction: a report of the 
+American College of Cardiology Foundation/American Heart Association 
+Task Force on Practice Guidelines. Circulation. 2013;127:e362–e425.
+ 2. Amsterdam EA, Wenger NK, Brindis RG, et al. 2014 AHA/ACC guideline for 
+the management of patients with non-ST-elevation acute coronary syndromes: 
+a report of the American College of Cardiology/American Heart Association 
+Task Force on Practice Guidelines. Circulation. 2014;130:e344–e426.
+ 3. Levine GN, Bates ER, Blankenship JC, et al. 2015 ACC/AHA/SCAI Fo-
+cused update on primary percutaneous coronary intervention for patients 
+with ST-elevation myocardial infarction: an update of the 2011 ACCF/
+AHA/SCAI guideline for percutaneous coronary intervention and the 2013 
+ACCF/AHA guideline for the management of ST-elevation myocardial in-
+farction. Circulation. 2016;133:1135–1147 .
+ 4. Lawton JS, Tamis-Holland JE, Bangalor S, et al. 2021 ACC/AHA/SCAI 
+guideline for coronary artery revascularization: a report of the American Col-
+lege of Cardiology/American Heart Association Joint Committee on Clinical 
+Practice Guidelines. Circulation. 2022;145:e18–e114.
+ 5. Levine GN, Bates ER, Bittl JA, et al. 2016 ACC/AHA guideline focused 
+update on duration of dual antiplatelet therapy in patients with coronary 
+artery disease: a report of the American College of Cardiology/American 
+Heart Association Task Force on Clinical Practice Guidelines. Circulation. 
+2016;134:e123–e155.
+ 6. Martin SS, Aday AW, Almarzooq ZI, et al. 2024 Heart disease and stroke 
+statistics: a report of US and global data from the American Heart Associa-
+tion. Circulation. 2024;149:e347–e913.
+ 7 . Centers for Disease Control and Prevention and National Center for Health 
+Statistics. National Health and Nutrition Examination Survey (NHANES), 
+Downloaded from http://ahajournals.org by on May 30, 2026

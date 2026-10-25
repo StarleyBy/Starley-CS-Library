@@ -1,0 +1,95 @@
+{
+  "schemaVersion": 1,
+  "id": "esc-hf-2026.rt03-diagnostic-investigations",
+  "guidelineId": "esc-hf-2026",
+  "number": "Recommendation Table 3",
+  "type": "recommendations",
+  "title": {
+    "en": "Recommendations for diagnostic investigations in all patients with suspected heart failure",
+    "ru": "Рекомендации по диагностическим исследованиям у всех пациентов с подозрением на сердечную недостаточность"
+  },
+  "tags": [
+    "diagnosis",
+    "heart-failure",
+    "laboratory",
+    "natriuretic-peptides",
+    "bnp",
+    "nt-probnp",
+    "ecg",
+    "x-ray",
+    "echocardiography",
+    "iron-deficiency",
+    "ferritin",
+    "tsat"
+  ],
+  "source": {
+    "expectedRows": 5
+  },
+  "i18nStatus": {
+    "ru": "reviewed"
+  },
+  "sections": [
+    {
+      "id": "sec-diagnostic-investigations",
+      "title": {
+        "en": "Recommendations for diagnostic investigations in all patients with suspected heart failure (see Evidence Tables 17–19)",
+        "ru": "Рекомендации по диагностическим исследованиям у всех пациентов с подозрением на сердечную недостаточность (см. Доказательные таблицы 17–19)"
+      },
+      "rows": [
+        {
+          "id": "r01",
+          "text": {
+            "en": "In patients with suspected HF, the following laboratory tests are recommended when screening for comorbidities: full blood count, kidney function (eGFR and UACR), electrolytes, liver function, thyroid function, HbA1c, lipids, and iron status (TSAT and ferritin).",
+            "ru": "У пациентов с подозрением на СН при скрининге коморбидных состояний рекомендуются следующие лабораторные тесты: общий анализ крови, функция почек (рСКФ и UACR), электролиты, функция печени, функция щитовидной железы, HbA1c, липидный профиль и статус обмена железа (TSAT и ферритин)."
+          },
+          "class": "I",
+          "level": "C",
+          "refs": [168]
+        },
+        {
+          "id": "r02",
+          "text": {
+            "en": "Natriuretic peptide measurement is recommended in patients with suspected HF (interpreted in relation to patient age, obesity, and other factors known to affect natriuretic peptide level^[c]).",
+            "ru": "Определение уровня натрийуретических пептидов рекомендуется пациентам с подозрением на СН (с интерпретацией с учетом возраста пациента, ожирения и других факторов, влияющих на их уровень^[c])."
+          },
+          "class": "I",
+          "level": "C",
+          "refs": [146, 147, 148, 151, 152, 153, 169]
+        },
+        {
+          "id": "r03",
+          "text": {
+            "en": "A 12-lead ECG is recommended in patients with suspected HF.",
+            "ru": "ЭКГ в 12 отведениях рекомендуется пациентам с подозрением на СН."
+          },
+          "class": "I",
+          "level": "C"
+        },
+        {
+          "id": "r04",
+          "text": {
+            "en": "Chest radiography (X-ray) is recommended in patients with suspected HF.",
+            "ru": "Рентгенография органов грудной клетки рекомендуется пациентам с подозрением на СН."
+          },
+          "class": "I",
+          "level": "C"
+        },
+        {
+          "id": "r05",
+          "text": {
+            "en": "Transthoracic echocardiogram is recommended in patients with suspected HF to confirm the diagnosis, differentiate between HF phenotypes and aid in identifying the underlying aetiology of HF.",
+            "ru": "Трансторакальная эхокардиография рекомендуется пациентам с подозрением на СН для подтверждения диагноза, дифференциации фенотипов СН и помощи в установлении первопричинной этиологии СН."
+          },
+          "class": "I",
+          "level": "C"
+        }
+      ]
+    }
+  ],
+  "footnotes": {
+    "c": {
+      "en": "See Figure 4 for age-adjusted cut-offs for NT-proBNP levels, and Table 9 for factors affecting natriuretic peptide levels.",
+      "ru": "См. Рисунок 4 для возрастных пороговых уровней NT-proBNP и Таблицу 9 для факторов, влияющих на уровень натрийуретических пептидов."
+    }
+  }
+}

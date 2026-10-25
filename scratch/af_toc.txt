@@ -1,0 +1,823 @@
+=== PAGE 3 ===
+Table of contents
+1. Preamble .............................................................................................................. 3319
+2. Introduction ....................................................................................................... 3321
+2.1. What is new .............................................................................................
+3322
+3. Definitions and clinical impact .................................................................... 3326
+3.1. Definition and classification of AF ...................................................
+3326
+3.2. Diagnostic criteria for AF ...................................................................
+3327
+3.3. Symptoms attributable to AF ...........................................................
+3328
+3.4. Diagnostic evaluation of new AF .....................................................
+3328
+3.5. Adverse events associated with AF ................................................
+3329
+3.6. Atrial flutter ..............................................................................................
+3330
+4. Patient pathways and management of AF ............................................. 3330
+4.1. Patient-centred, multidisciplinary AF management .................
+3330
+4.1.1. The patient at the heart of care .............................................. 3330
+4.1.2. Education and shared decision-making ................................. 3331
+4.1.3. Education of healthcare professionals ................................... 3332
+4.1.4. Inclusive management of AF ...................................................... 3332
+4.2. Principles of AF-CARE .........................................................................
+3332
+5. [C] Comorbidity and risk factor management ................................... 3338
+5.1. Hypertension ............................................................................................
+3339
+5.2. Heart failure ..............................................................................................
+3339
+5.3. Type 2 diabetes mellitus ......................................................................
+3340
+5.4. Obesity .......................................................................................................
+3340
+5.5. Obstructive sleep apnoea ...................................................................
+3340
+5.6. Physical inactivity ....................................................................................
+3340
+5.7. Alcohol excess .........................................................................................
+3341
+6. [A] Avoid stroke and thromboembolism .............................................. 3341
+6.1. Initiating oral anticoagulation .............................................................
+3341
+6.1.1. Decision support for anticoagulation in AF ........................ 3341
+6.2. Oral anticoagulants ................................................................................
+3343
+6.2.1. Direct oral anticoagulants ........................................................... 3344
+6.2.2. Vitamin K antagonists ................................................................... 3345
+6.2.3. Clinical vs. device-detected subclinical AF ........................... 3345
+6.3. Antiplatelet drugs and combinations with anticoagulants ....
+3346
+6.4. Residual ischaemic stroke risk despite anticoagulation ..........
+3346
+6.5. Percutaneous left atrial appendage occlusion ............................
+3346
+6.6. Surgical left atrial appendage occlusion ........................................
+3347
+6.7. Bleeding risk ..............................................................................................
+3348
+6.7.1. Assessment of bleeding risk ....................................................... 3348
+6.7.2. Management of bleeding on anticoagulant therapy ......... 3348
+7. [R] Reduce symptoms by rate and rhythm control ......................... 3351
+7.1. Management of heart rate in patients with AF .........................
+3351
+7.1.1. Indications and target heart rate .............................................. 3352
+7.1.2. Heart rate control in the acute setting ................................. 3352
+7.1.3. Long-term heart rate control .................................................... 3352
+7.1.4. Atrioventricular node ablation and pacemaker 
+implantation ................................................................................................... 3353
+7.2. Rhythm control strategies in patients with AF ..........................
+3353
+7.2.1. General principles and anticoagulation ................................. 3353
+7.2.2. Electrical cardioversion ................................................................ 3356
+7.2.3. Pharmacological cardioversion .................................................. 3356
+7.2.4. Antiarrhythmic drugs .................................................................... 3357
+7.2.5. Catheter ablation ............................................................................ 3358
+7.2.6. Anticoagulation in patients undergoing catheter ablation
+3359
+7.2.7. Endoscopic and hybrid AF ablation ........................................ 3360
+7.2.8. AF ablation during cardiac surgery .......................................... 3361
+7.2.9. Atrial tachycardia after pulmonary vein isolation ............. 3361
+8. [E] Evaluation and dynamic reassessment ............................................. 3361
+8.1. Implementation of dynamic care .....................................................
+3362
+8.2. Improving treatment adherence ......................................................
+3362
+8.3. Cardiac imaging .......................................................................................
+3362
+8.4. Patient-reported outcome measures ............................................
+3363
+9. The AF-CARE pathway in specific clinical settings ............................ 3364
+9.1. AF-CARE in unstable patients ..........................................................
+3364
+9.2. AF-CARE in acute and chronic coronary syndromes ............
+3364
+9.3. AF-CARE in vascular disease .............................................................
+3366
+9.4. AF-CARE in acute stroke or intracranial haemorrhage ........
+3366
+9.4.1. Management of acute ischaemic stroke ................................ 3366
+9.4.2. Introduction or re-introduction of anticoagulation after 
+ischaemic stroke .......................................................................................... 3367
+9.4.3. Introduction or re-introduction of anticoagulation after 
+haemorrhagic stroke .................................................................................. 3367
+9.5. AF-CARE for trigger-induced AF ....................................................
+3367
+9.6. AF-CARE in post-operative patients .............................................
+3368
+9.7. AF-CARE in embolic stroke of unknown source .....................
+3368
+9.8. AF-CARE during pregnancy ...............................................................
+3369
+9.9. AF-CARE in congenital heart disease ............................................
+3370
+9.10. AF-CARE in endocrine disorders .................................................
+3370
+9.11. AF-CARE in inherited cardiomyopathies and primary 
+arrhythmia syndromes ..................................................................................
+3370
+9.12. AF-CARE in cancer .............................................................................
+3371
+9.13. AF-CARE in older, multimorbid, or frail patients ..................
+3371
+9.14. AF-CARE in atrial flutter ..................................................................
+3371
+10. Screening and prevention of AF ............................................................. 3371
+10.1. Epidemiology of AF .............................................................................
+3371
+10.2. Screening tools for AF .......................................................................
+3372
+10.3. Screening strategies for AF ..............................................................
+3373
+10.3.1. Single timepoint screening ‘snapshot’ .................................. 3374
+10.3.2. Prolonged screening ................................................................... 3374
+10.4. Factors associated with incident AF ............................................
+3375
+10.5. Primary prevention of AF ................................................................
+3375
+10.5.1. Hypertension ................................................................................. 3376
+10.5.2. Heart failure ................................................................................... 3376
+10.5.3. Type 2 diabetes mellitus ........................................................... 3376
+10.5.4. Obesity ............................................................................................. 3376
+10.5.5. Sleep apnoea syndrome ............................................................ 3376
+10.5.6. Physical activity .............................................................................. 3376
+10.5.7. Alcohol intake ................................................................................ 3377
+11. Key messages .................................................................................................. 3377
+12. Gaps in evidence ............................................................................................ 3377
+13. ‘What to do’ and ‘What not to do’ messages from the 
+guidelines .................................................................................................................. 3379
+14. Evidence tables ............................................................................................... 3382
+15. Data availability statement ......................................................................... 3382
+16. Author information ...................................................................................... 3382
+17. Appendix ........................................................................................................... 3383
+18. References ........................................................................................................ 3384
+3316                                                                                                                                                                                         
+ESC Guidelines
+Downloaded from https://academic.oup.com/eurheartj/article/45/36/3314/7738779 by guest on 31 March 2026
+=== PAGE 4 ===
+Tables of Recommendations
+Recommendation Table 1 — Recommendations for the diagnosis of 
+AF (see also Evidence Table 1) ....................................................................... 3328
+Recommendation Table 2 — Recommendations for symptom 
+evaluation in patients with AF (see also Evidence Table 2) ................ 3328
+Recommendation Table 3 — Recommendations for diagnostic 
+evaluation in patients with new AF (see also Evidence Table 3) ..... 3328
+Recommendation Table 4 — Recommendations for patient-centred 
+care and education (see also Evidence Table 4) ...................................... 3332
+Recommendation Table 5 — Recommendations for comorbidity 
+and risk factor management in AF (see also Evidence Table 5) ....... 3339
+Recommendation Table 6 — Recommendations to assess and 
+manage thromboembolic risk in AF (see also Evidence Table 6) .... 3342
+Recommendation Table 7 — Recommendations for oral 
+anticoagulation in AF (see also Evidence Table 7) .................................. 3344
+Recommendation Table 8 — Recommendations for combining 
+antiplatelet drugs with anticoagulants for stroke prevention (see also 
+Evidence Table 8) .................................................................................................. 3346
+Recommendation Table 9 — Recommendations for 
+thromboembolism despite anticoagulation (see also Evidence 
+Table 9) ..................................................................................................................... 3346
+Recommendation Table 10 — Recommendations for percutaneous 
+left atrial appendage occlusion (see also Evidence Table 10) ............ 3347
+Recommendation Table 11 — Recommendations for surgical left 
+atrial appendage occlusion (see also Evidence Table 11) .................... 3348
+Recommendation Table 12 — Recommendations for assessment of 
+bleeding risk (see also Evidence Table 12) ................................................. 3348
+Recommendation Table 13 — Recommendations for management 
+of bleeding in anticoagulated patients (see also Evidence Table 13)
+3351
+Recommendation Table 14 — Recommendations for heart rate 
+control in patients with AF (see also Evidence Table 14) ................... 3351
+Recommendation Table 15 — Recommendations for general 
+concepts in rhythm control (see also Evidence Table 15) .................. 3355
+Recommendation Table 16 — Recommendations for electrical 
+cardioversion of AF (see also Evidence Table 16) .................................. 3356
+Recommendation Table 17 — Recommendations for 
+pharmacological cardioversion of AF (see also Evidence Table 17)
+3356
+Recommendation Table 18 — Recommendations for 
+antiarrhythmic drugs for long-term maintenance of sinus rhythm 
+(see also Evidence Table 18) ............................................................................ 3358
+Recommendation Table 19 — Recommendations for catheter 
+ablation of AF (see also Evidence Table 19) ............................................. 3359
+Recommendation Table 20 — Recommendations for 
+anticoagulation in patients undergoing catheter ablation (see also 
+Evidence Table 20) ............................................................................................... 3360
+Recommendation Table 21 — Recommendations for endoscopic 
+and hybrid AF ablation (see also Evidence Table 21) ........................... 3360
+Recommendation Table 22 — Recommendations for AF ablation 
+during cardiac surgery (see also Evidence Table 22) ............................. 3361
+Recommendation Table 23 — Recommendations to improve 
+patient experience (see also Evidence Table 23) .................................... 3364
+Recommendation Table 24 — Recommendations for patients with 
+acute coronary syndromes or undergoing percutaneous 
+intervention (see also Evidence Table 24) ................................................. 3366
+Recommendation Table 25 — Recommendations for 
+trigger-induced AF (see also Evidence Table 25) .................................... 3368
+Recommendation Table 26 — Recommendations for management 
+of post-operative AF (see also Evidence Table 26) ............................... 3368
+Recommendation Table 27 — Recommendations for patients with 
+embolic stroke of unknown source (see also Evidence Table 27) .. 3369
+Recommendation Table 28 — Recommendations for patients with 
+AF during pregnancy (see also Evidence Table 28) ................................ 3369
+Recommendation Table 29 — Recommendations for patients with 
+AF and congenital heart disease (see also Evidence Table 29) ......... 3370
+Recommendation Table 30 — Recommendations for prevention of 
+thromboembolism in atrial flutter (see also Evidence Table 30) ..... 3371
+Recommendation Table 31 — Recommendations for screening for 
+AF (see also Evidence Table 31) .................................................................... 3374
+Recommendation Table 32 — Recommendations for primary 
+prevention of AF (see also Evidence Table 32) ....................................... 3376
+List of tables
+Table 1 Classes of recommendations .......................................................... 3320
+Table 2 Levels of evidence ................................................................................ 3320
+Table 3 New recommendations .................................................................... 3322
+Table 4 Revised recommendations ............................................................... 3325
+Table 5 Definitions and classifications for the temporal pattern of 
+AF ................................................................................................................................. 3327
+Table 6 Other clinical concepts relevant to AF ....................................... 3327
+Table 7 The modified European Heart Rhythm Association 
+(mEHRA) symptom classification ................................................................... 3329
+Table 8 Diagnostic work-up for patients with AF .................................. 3330
+Table 9 Achieving patient-centred AF management ............................. 3331
+Table 10 Updated definitions for the CHA2DS2-VA score ............... 3342
+Table 11 Recommended doses for direct oral anticoagulant 
+therapy ....................................................................................................................... 3345
+Table 12 Drugs for rate control in AF ........................................................ 3352
+Table 13 Antiarrhythmic drugs for sinus rhythm restoration ........... 3357
+Table 14 Non-cardiac conditions associated with trigger-induced 
+AF ................................................................................................................................. 3367
+Table 15 Tools for AF screening .................................................................... 3373
+Table 16 Factors associated with incident AF .......................................... 3375
+Table 17 ‘What to do’ and ‘what not to do’ ............................................ 3379
+List of figures
+Figure 1 Impacts and outcomes associated with clinical AF. AF, atrial 
+fibrillation .................................................................................................................. 3329
+Figure 2 Multidisciplinary approach to AF management ...................... 3331
+Figure 3 Central illustration. Patient pathway for AF-CARE (see Figures 
+4, 5, 6, and 7 for the [R] pathways for first-diagnosed, paroxysmal, 
+persistent and permanent AF) ................................................................................
+3333
+Figure 4 [R] Pathway for patients with first-diagnosed AF ................. 3334
+Figure 5 [R] Pathway for patients with paroxysmal AF ....................... 3335
+Figure 6 [R] Pathway for patients with persistent AF .......................... 3336
+Figure 7 [R] Pathway for patients with permanent AF ........................ 3337
+Figure 8 Management of key comorbidities to reduce AF 
+recurrence ................................................................................................................ 3338
+Figure 9 Common drug interactions with oral anticoagulants .......... 3343
+Figure 10 Modifying the risk of bleeding associated with OAC ....... 3349
+Figure 11 Management of oral anticoagulant-related bleeding in 
+patients with AF .................................................................................................... 3350
+Figure 12 Approaches for cardioversion in patients with AF ............ 3354
+Figure 13 Relevance of echocardiography in the AF-CARE pathway
+3363
+Figure 14 Antithrombotic therapy in patients with AF and acute or 
+chronic coronary syndromes ........................................................................... 3365
+ESC Guidelines                                                                                                                                                                                          3317
+Downloaded from https://academic.oup.com/eurheartj/article/45/36/3314/7738779 by guest on 31 March 2026
+=== PAGE 5 ===
+Figure 15 Non-invasive diagnostic methods for AF screening .......... 3372
+Figure 16 Approaches to screening for AF ............................................... 3374
+Abbreviations and acronyms
+AAD
+Antiarrhythmic drugs
+ACE
+Angiotensin-converting enzyme
+ACEi
+Angiotensin-converting enzyme inhibitor
+ACS
+Acute coronary syndromes
+ACTIVE W
+Atrial fibrillation Clopidogrel Trial with Irbesartan 
+for prevention of Vascular Events (trial)
+AF
+Atrial fibrillation
+AF-CARE
+Atrial fibrillation—[C] Comorbidity and risk factor 
+management, [A] Avoid stroke and 
+thromboembolism, [R] Reduce symptoms by rate and 
+rhythm control, [E] Evaluation and dynamic 
+reassessment
+AFEQT
+Atrial Fibrillation Effect on QualiTy-of-Life 
+(questionnaire)
+AFFIRM
+Atrial Fibrillation Follow-up Investigation of 
+Rhythm Management (trial)
+AFL
+Atrial flutter
+AFQLQ
+Atrial Fibrillation Quality of Life Questionnaire
+AF-QoL
+Atrial Fibrillation Quality of Life (questionnaire)
+AFSS
+Atrial Fibrillation Severity Scale
+AI
+Artificial intelligence
+APACHE-AF
+Apixaban After Anticoagulation-associated 
+Intracerebral Haemorrhage in Patients With Atrial 
+Fibrillation (trial)
+APAF-CRT
+Ablate and Pace for Atrial Fibrillation—cardiac 
+resynchronization therapy
+ARB
+Angiotensin receptor blocker
+ARTESiA
+Apixaban for the Reduction of Thromboembolism 
+in Patients With Device-Detected Sub-Clinical 
+Atrial Fibrillation (trial)
+AT
+Atrial tachycardia
+ATHENA
+A Placebo-Controlled, Double-Blind, Parallel Arm 
+Trial to Assess the Efficacy of Dronedarone 400 mg 
+twice daily for the Prevention of Cardiovascular 
+Hospitalization or Death from Any Cause in 
+Patients with Atrial Fibrillation/Atrial Flutter (trial)
+AUGUSTUS
+An open-label, 2 × 2 factorial, randomized controlled, 
+clinical trial to evaluate the safety of apixaban vs. 
+vitamin k antagonist and aspirin vs. aspirin placebo in 
+patients with atrial fibrillation and acute coronary 
+syndrome or percutaneous coronary intervention
+AVERROES
+Apixaban Versus Acetylsalicylic Acid to Prevent 
+Stroke in Atrial Fibrillation Patients Who Have 
+Failed or Are Unsuitable for Vitamin K Antagonist 
+Treatment (trial)
+AVN
+Atrioventricular node
+b.p.m.
+Beats per minute
+BMI
+Body mass index
+BNP
+B-type natriuretic peptide
+BP
+Blood pressure
+C2HEST
+Coronary artery disease or chronic obstructive 
+pulmonary disease (1 point each); hypertension 
+(1 point); elderly (age ≥75 years, 2 points); systolic 
+heart failure (2 points); thyroid disease 
+(hyperthyroidism, 1 point)
+CABANA
+Catheter Ablation versus Anti-arrhythmic Drug 
+Therapy for Atrial Fibrillation (trial)
+CAD
+Coronary artery disease
+CASTLE-AF
+Catheter Ablation versus Standard Conventional 
+Treatment in Patients With Left Ventricle (LV) 
+Dysfunction and AF (trial)
+CASTLE-HTx
+Catheter Ablation for Atrial Fibrillation in Patients 
+With End-Stage Heart Failure and Eligibility for 
+Heart Transplantation (trial)
+CCS
+Chronic coronary syndrome
+CHADS2
+Congestive heart failure, hypertension, age >75 
+years, diabetes; previous stroke (2 points)
+CHA2DS2-VA
+Congestive heart failure, hypertension, age ≥75 years 
+(2 points), diabetes mellitus, prior stroke/transient 
+ischaemic attack/arterial thromboembolism (2 
+points), vascular disease, age 65–74 years (score)
+CHA2DS2-VASc
+Congestive heart failure, hypertension, age ≥75 
+years (2 points), diabetes mellitus, prior stroke or 
+TIA or thromboembolism (2 points), vascular 
+disease, age 65–74 years, sex category
+CKD
+Chronic kidney disease
+CMR
+Cardiac magnetic resonance
+COMPASS
+Cardiovascular Outcomes for People Using 
+Anticoagulation Strategies (trial)
+CPAP
+Continuous positive airway pressure
+CrCl
+Creatinine clearance
+CRT
+Cardiac resynchronization therapy
+CT
+Computed tomography
+CTA
+Computed tomography angiography
+CTI
+Cavo-tricuspid isthmus
+DAPT
+Dual antiplatelet therapy
+DOAC
+Direct oral anticoagulant
+EAST-AFNET 4
+Early treatment of Atrial fibrillation for Stroke 
+prevention Trial
+ECG
+Electrocardiogram
+ECV
+Electrical cardioversion
+EHRA
+European Heart Rhythm Association
+ELAN
+Early versus Late initiation of direct oral 
+Anticoagulants in post-ischaemic stroke patients 
+with atrial fibrillatioN (trial)
+ESUS
+Embolic stroke of undetermined source
+FFP
+Fresh frozen plasma
+GI
+Gastrointestinal
+GWAS
+Genome-wide association studies
+HAS-BLED
+Hypertension, Abnormal renal/liver function, 
+Stroke, Bleeding history or predisposition, Labile 
+international normalized ratio, Elderly (>65 years), 
+Drugs/alcohol concomitantly (score)
+HAVOC
+Hypertension, age, valvular heart disease, 
+peripheral vascular disease, obesity, congestive 
+heart failure, and coronary artery disease
+HbA1c
+Haemoglobin A1c (glycated or glycosylated 
+haemoglobin)
+HCM
+Hypertrophic cardiomyopathy
+HF
+Heart failure
+HFmrEF
+Heart failure with mildly reduced ejection fraction
+HFpEF
+Heart failure with preserved ejection fraction
+HFrEF
+Heart failure with reduced ejection fraction
+HR
+Hazard ratio
+i.v.
+Intravenous
+3318                                                                                                                                                                                         
+ESC Guidelines
+Downloaded from https://academic.oup.com/eurheartj/article/45/36/3314/7738779 by guest on 31 March 2026
+=== PAGE 6 ===
+ICH
+Intracranial haemorrhage
+ICHOM
+International Consortium for Health Outcomes 
+Measurement
+IMT
+Intima-media thickness
+INR
+International normalized ratio (of prothrombin 
+time)
+LA
+Left atrium
+LAA
+Left atrial appendage
+LAAO
+Left atrial appendage occlusion
+LAAOS III
+Left Atrial Appendage Occlusion Study
+LEGACY
+Long-Term Effect of Goal directed weight 
+management on Atrial Fibrillation Cohort: a 5 Year 
+follow-up study
+LMWH
+Low molecular weight heparin
+LOOP
+Atrial Fibrillation Detected by Continuous ECG 
+Monitoring (trial)
+LV
+Left ventricle
+LVEF
+Left ventricular ejection fraction
+LVH
+Left ventricular hypertrophy
+mEHRA
+Modified European Heart Rhythm Association 
+score
+MI
+Myocardial infarction
+MRI
+Magnetic resonance imaging
+NOAH
+Non-vitamin K Antagonist Oral Anticoagulants 
+in Patients With Atrial High Rate Episodes (trial)
+NSAID
+Non-steroidal anti-inflammatory drug
+NT-proBNP
+N-terminal pro-B-type natriuretic peptide
+NYHA
+New York Heart Association
+OAC
+Oral anticoagulant(s)
+OR
+Odds ratio
+OSA
+Obstructive sleep apnoea
+PAD
+Peripheral arterial disease
+PCC
+Prothrombin complex concentrate
+PCI
+Percutaneous intervention
+PFO
+Patent foramen ovale
+POAF
+Post-operative atrial fibrillation
+PPG
+Photoplethysmography
+PROM
+Patient-reported outcome measure
+PVD
+Peripheral vascular disease
+PVI
+Pulmonary vein isolation
+QLAF
+Quality of Life in Atrial Fibrillation (questionnaire)
+QRS
+Q wave, R wave, and S wave, the ‘QRS complex’ 
+represents ventricular depolarization
+RACE 7  
+ACWAS
+Rate Control versus Electrical Cardioversion  
+Trial 7—Acute Cardioversion versus Wait and See 
+(trial)
+RACE I
+RAte Control versus Electrical cardioversion study
+RACE II
+Rate Control Efficacy in Permanent Atrial 
+Fibrillation (trial)
+RACE 3
+Routine versus Aggressive upstream rhythm 
+Control for prevention of Early AF in heart failure 
+(trial)
+RACE 4
+IntegRAted Chronic Care Program at Specialized 
+AF Clinic Versus Usual CarE in Patients with Atrial 
+Fibrillation (trial)
+RATE-AF
+RAte control Therapy Evaluation in permanent 
+Atrial Fibrillation (trial)
+RCT
+Randomized controlled trial
+RR
+Relative risk
+SAVE
+Sleep Apnea cardioVascular Endpoints (trial)
+SBP
+Systolic blood pressure
+SGLT2
+Sodium-glucose cotransporter-2
+SIC-AF
+Successful Intravenous Cardioversion for Atrial 
+Fibrillation
+SORT-AF
+Supervised Obesity Reduction Trial for AF 
+Ablation Patients (trial)
+SoSTART
+Start or STop Anticoagulants Randomised Trial
+SR
+Sinus rhythm
+STEEER-AF
+Stroke prevention and rhythm control Therapy: 
+Evaluation of an Educational programme of the 
+European Society of Cardiology in a cluster- 
+Randomised trial in patients with Atrial Fibrillation 
+(trial)
+STEMI
+ST-segment elevation myocardial infarction
+STROKESTOP
+Systematic ECG Screening for Atrial Fibrillation 
+Among 75 Year Old Subjects in the Region of 
+Stockholm and Halland, Sweden (trial)
+TE
+Thromboembolism
+TIA
+Transient ischaemic attack
+TIMING
+Timing of Oral Anticoagulant Therapy in Acute 
+Ischemic Stroke With Atrial Fibrillation (trial)
+TOE
+Transoesophageal echocardiography
+TSH
+Thyroid-stimulating hormone
+TTE
+Transthoracic echocardiogram
+TTR
+Time in therapeutic range
+UFH
+Unfractionated heparin
+VKA
+Vitamin K antagonist
+1. Preamble
+Guidelines evaluate and summarize available evidence with the aim of 
+assisting health professionals in proposing the best diagnostic or thera­
+peutic approach for an individual patient with a given condition. 
+Guidelines are intended for use by health professionals and the 
+European Society of Cardiology (ESC) makes its Guidelines freely 
+available.
+ESC Guidelines do not override the individual responsibility of 
+health professionals to make appropriate and accurate decisions in 
+consideration of each patient’s health condition and in consultation 
+with that patient or the patient’s caregiver where appropriate and/ 
+or necessary. It is also the health professional’s responsibility to verify 
+the rules and regulations applicable in each country to drugs and de­
+vices at the time of prescription and to respect the ethical rules of their 
+profession.
+ESC Guidelines represent the official position of the ESC on a given 
+topic and are regularly updated when warranted by new evidence. ESC 
+Policies and Procedures for formulating and issuing ESC Guidelines can 
+be found on the ESC website (https://www.escardio.org/Guidelines/ 
+Clinical-Practice-Guidelines/Guidelines-development/Writing-ESC- 
+Guidelines). This guideline updates and replaces the previous version 
+from 2020.
+The Members of this task force were selected by the ESC to include 
+professionals involved with the medical care of patients with this path­
+ology as well as patient representatives and methodologists. The selec­
+tion procedure included an open call for authors and aimed to include 
+members from across the whole of the ESC region and from relevant 
+ESC Subspecialty Communities. Consideration was given to diversity 
+ESC Guidelines                                                                                                                                                                                          3319
+Downloaded from https://academic.oup.com/eurheartj/article/45/36/3314/7738779 by guest on 31 March 2026
+=== PAGE 7 ===
+and inclusion, notably with respect to gender and country of origin. 
+The task force performed a critical review and evaluation of the 
+published literature on diagnostic and therapeutic approaches includ­
+ing assessment of the risk–benefit ratio. The strength of every recom­
+mendation and the level of evidence supporting them were weighed 
+and scored according to predefined scales as outlined in Tables 1
+and 2 below. Patient-reported outcome measures (PROMs) and 
+patient-reported experience measures were also evaluated as the ba­
+sis for recommendations and/or discussion in these guidelines. The 
+task force followed ESC voting procedures and all approved recom­
+mendations were subject to a vote and achieved at least 75% agree­
+ment among voting members. Members of the task force with 
+declared interests on specific topics were asked to abstain from voting 
+on related recommendations.
+Table 1 Classes of recommendations
+©ESC 2024
+Classes of recommendations
+Class I 
+Evidence and/or general agreement
+that a given treatment or procedure is
+beneﬁcial, useful, eﬀective. 
+Conﬂicting evidence and/or a divergence of opinion about the usefulness/ 
+eﬃcacy of the given treatment or procedure. 
+Is recommended or is indicated
+Wording to use
+Deﬁnition
+Class III 
+Evidence or general agreement that the
+given treatment or procedure is not
+useful/eﬀective, and in some cases
+may be harmful. 
+Is not recommended
+     Class IIb
+Usefulness/eﬃcacy is less well
+established by evidence/opinion.
+May be considered
+ 
+   Class IIa
+Weight of evidence/opinion is in
+favour of usefulness/eﬃcacy. 
+Should be considered
+Class II 
+Table 2 Levels of evidence
+Level of
+evidence A
+Level of
+evidence B
+Level of
+evidence C
+Data derived from multiple randomized clinical trials
+or meta-analyses.
+Data derived from a single randomized clinical trial
+or large non-randomized studies.
+Consensus of opinion of the experts and/or small studies,
+retrospective studies, registries.
+©ESC 2024
+3320                                                                                                                                                                                         
+ESC Guidelines
+Downloaded from https://academic.oup.com/eurheartj/article/45/36/3314/7738779 by guest on 31 March 2026
+=== PAGE 8 ===
+The experts of the writing and reviewing panels provided declaration of 
+interest forms for all relationships that might be perceived as real or po­
+tential sources of conflicts of interest. Their declarations of interest were 
+reviewed according to the ESC declaration of interest rules which can be 
+found on the ESC website (http://www.escardio.org/guidelines) and have 
+been compiled in a report published in a supplementary document with 
+the guidelines. Funding for the development of ESC Guidelines is derived 
+entirely from the ESC with no involvement of the healthcare industry.
+The ESC Clinical Practice Guidelines (CPG) Committee supervises and 
+co-ordinates the preparation of new guidelines and is responsible for the 
+approval process. In addition to review by the CPG Committee, ESC 
+Guidelines undergo multiple rounds of double-blind peer review by exter­
+nal experts, including members from across the whole of the ESC region, all 
+National Cardiac Societies of the ESC and from relevant ESC Subspecialty 
+Communities. After appropriate revisions, the guidelines are signed off by 
+all the experts in the task force. The finalized document is signed off by the 
+CPG Committee for publication in the European Heart Journal.
+ESC Guidelines are based on analyses of published evidence, chiefly on 
+clinical trials and meta-analyses of trials, but potentially including other 
+types of studies. Evidence tables summarizing key information from rele­
+vant studies are generated early in the guideline development process to 
+facilitate the formulation of recommendations, to enhance comprehension 
+of recommendations after publication, and reinforce transparency in the 
+guidelines development process. The tables are published in their 
+own section of ESC Guidelines and reference specific recommenda­
+tion tables.
+Off-label use of medication may be presented in this guideline if a suf­
+ficient level of evidence shows that it can be considered medically 
+appropriate for a given condition. However, the final decisions con­
+cerning an individual patient must be made by the responsible health 
+professional giving special consideration to: 
+• The specific situation of the patient. Unless otherwise provided for 
+by national regulations, off-label use of medication should be limited 
+to situations where it is in the patient’s interest with regard to the 
+quality, safety, and efficacy of care, and only after the patient has 
+been informed and has provided consent.
+• Country-specific health regulations, indications by governmental 
+drug regulatory agencies, and the ethical rules to which health profes­
+sionals are subject, where applicable.
+2. Introduction
+Atrial fibrillation (AF) is one of the most commonly encountered heart 
+conditions, with a broad impact on all health services across primary 
+and secondary care. The prevalence of AF is expected to double in 
+the next few decades as a consequence of the ageing population, an in­
+creasing burden of comorbidities, improved awareness, and new tech­
+nologies for detection.
+The effects of AF are variable across individual patients; however, mor­
+bidity from AF remains highly concerning. Patients with AF can suffer 
+from a variety of symptoms and poor quality of life. Stroke and heart 
+failure as consequences of AF are now well appreciated by healthcare 
+professionals, but AF is also linked to a range of other thromboembolic 
+outcomes. These include subclinical cerebral damage (potentially leading 
+to vascular dementia), and thromboembolism to every other organ, all of 
+which contribute to the higher risk of mortality associated with AF.
+The typical drivers of AF onset and progression are a range of co­
+morbidities and associated risk factors. To achieve optimal care for pa­
+tients with AF, it is now widely accepted that these comorbidities and 
+risk factors must be managed early and in a dynamic way. Failure to do 
+so contributes to recurrent cycles of AF, treatment failure, poor patient 
+outcomes, and a waste of healthcare resources. In this iteration of the 
+European Society of Cardiology (ESC) practice guidelines on AF, the 
+task force has consolidated and evolved past approaches to develop 
+the AF-CARE framework (Atrial Fibrillation—[C] Comorbidity and 
+risk factor management, [A] Avoid stroke and thromboembolism, [R] 
+Reduce symptoms by rate and rhythm control, [E] Evaluation and dy­
+namic reassessment). Comorbidities and risk factors is placed as the ini­
+tial and central component of patient management. This should be 
+considered first as it applies to all patients with AF, regardless of their 
+thromboembolic risk factors or any symptoms that might warrant 
+intervention. This is followed by considering how best to [A] avoid 
+stroke and thromboembolism, and then the options available to reduce 
+symptoms, and in some cases improve prognosis, through [R] rate and 
+rhythm control. [E] Evaluation and reassessment should be individua­
+lized for every patient, with a dynamic approach that accounts for 
+how AF and its associated conditions change over time.
+Patient empowerment is critical in any long-term medical problem 
+to achieve better outcomes, encourage adherence, and to seek timely 
+guidance on changes in clinical status. A patient-centred, shared 
+decision-making approach will facilitate the choice of management 
+that suits each individual patient, particularly in AF where some ther­
+apies and interventions improve clinical outcomes, and others are 
+focused on addressing symptoms and quality of life. Education and 
+awareness are essential, not only for patients but also healthcare pro­
+fessionals in order to constrain the impact of AF on patients and 
+healthcare services.
+With this in mind, the task force have created a range of patient 
+pathways that cover the major aspects of AF-CARE. At present, these re­
+main based on the time-orientated classification of AF (first-diagnosed, 
+paroxysmal, persistent, and permanent), but ongoing research may allow 
+for pathology-based classifications and a future of personalized medicine. 
+Clinical practice guidelines can only cover common scenarios with an evi­
+dence base, and so there remains a need for healthcare professionals to 
+care for patients within a local multidisciplinary team. While guideline- 
+adherent care has repeatedly been shown to improve patient outcomes, 
+the actual implementation of guidelines is often poor in many healthcare 
+settings. This has been demonstrated in the ESC’s first randomized con­
+trolled trial (RCT), STEEER-AF (Stroke prevention and rhythm control 
+Therapy: Evaluation of an Educational programme of the European 
+Society of Cardiology in a cluster-Randomised trial in patients with Atrial 
+Fibrillation), which has sought to improve guideline adherence in parallel 
+to guideline production. The task force developing the 2024 AF 
+Guidelines have made implementation a key goal by focusing on the under­
+pinning evidence and using a consistent writing style for each recommen­
+dation (the intervention proposed, the population it should be applied to, 
+and the potential value to the patient, followed by any exceptions). Tables 3
+and 4 below outline new recommendations and those with important re­
+visions. These initiatives have been designed to make the 2024 ESC 
+Guidelines for the management of AF easier to read, follow, and implement, 
+with the aim of improving the lives of patients with AF. A patient version of 
+these guidelines is also available at http://www.escardio.org/Guidelines/ 
+guidelines-for-patients.
+ESC Guidelines                                                                                                                                                                                          3321
+Downloaded from https://academic.oup.com/eurheartj/article/45/36/3314/7738779 by guest on 31 March 2026

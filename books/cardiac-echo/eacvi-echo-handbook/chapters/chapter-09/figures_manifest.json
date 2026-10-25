@@ -1,0 +1,226 @@
+[
+  {
+    "idx": 1,
+    "fig_id": "fig-09-01",
+    "fnum": "9.1.1",
+    "caption": "Apical 4CV, modified, and RV-focused view Fig. 9.1.2 3DE for guiding 2D measurements and volumes measurements",
+    "page": 403,
+    "size": "1880x1260"
+  },
+  {
+    "idx": 2,
+    "fig_id": "fig-09-02",
+    "fnum": "9.1.4",
+    "caption": "Maximal transversal dimensions mid and basal in RV focused view",
+    "page": 404,
+    "size": "836x1333"
+  },
+  {
+    "idx": 3,
+    "fig_id": "fig-09-03",
+    "fnum": "9.1.5",
+    "caption": "Tracing of RV endocardial border from the lateral tricuspid annulus",
+    "page": 404,
+    "size": "836x1333"
+  },
+  {
+    "idx": 4,
+    "fig_id": "fig-09-04",
+    "fnum": "9.1.3",
+    "caption": "RV linear dimensions",
+    "page": 404,
+    "size": "836x1333"
+  },
+  {
+    "idx": 5,
+    "fig_id": "fig-09-05",
+    "fnum": "9.1.7",
+    "caption": "Below the tricuspid annulus",
+    "page": 405,
+    "size": "485x897"
+  },
+  {
+    "idx": 6,
+    "fig_id": "fig-09-06",
+    "fnum": "9.1.8",
+    "caption": "RV function is proportional to contractility and inversely to load",
+    "page": 405,
+    "size": "827x936"
+  },
+  {
+    "idx": 7,
+    "fig_id": "fig-09-07",
+    "fnum": "9.1.9",
+    "caption": "Measures of normal RV function (legend right) 1. Longitudinal motion",
+    "page": 406,
+    "size": "791x543"
+  },
+  {
+    "idx": 8,
+    "fig_id": "fig-09-08",
+    "fnum": "9.1.10",
+    "caption": "M-mode cursor",
+    "page": 407,
+    "size": "755x1274"
+  },
+  {
+    "idx": 9,
+    "fig_id": "fig-09-09",
+    "fnum": "9.1.11",
+    "caption": "PW Doppler",
+    "page": 407,
+    "size": "755x1274"
+  },
+  {
+    "idx": 10,
+    "fig_id": "fig-09-10",
+    "fnum": "9.1.12",
+    "caption": "Colour-coded DMI or 2D speckle tracking of the free wall",
+    "page": 408,
+    "size": "835x1255"
+  },
+  {
+    "idx": 11,
+    "fig_id": "fig-09-11",
+    "fnum": "9.1.13",
+    "caption": "Apical 4CV through the apex and crux of the AV plane (A). Rotate the probe until maximum RV dimension (B)",
+    "page": 408,
+    "size": "835x1255"
+  },
+  {
+    "idx": 12,
+    "fig_id": "fig-09-12",
+    "fnum": "9.1.14",
+    "caption": "3D analysis of RV volumes in a dilated RV with low–normal function",
+    "page": 409,
+    "size": "519x1259"
+  },
+  {
+    "idx": 13,
+    "fig_id": "fig-09-13",
+    "fnum": "9.1.15",
+    "caption": "CW Doppler of TR (A) and PW Doppler of RVOT (B)",
+    "page": 409,
+    "size": "519x1259"
+  },
+  {
+    "idx": 14,
+    "fig_id": "fig-09-14",
+    "fnum": "9.1.16",
+    "caption": "Prolonged IVRT in a patient with pulmonary hypertension and a healthy subject",
+    "page": 410,
+    "size": "810x1325"
+  },
+  {
+    "idx": 15,
+    "fig_id": "fig-09-15",
+    "fnum": "9.1.17",
+    "caption": "Reduced IVA and prolonged IVRT in a patient with RV failure",
+    "page": 410,
+    "size": "810x1325"
+  },
+  {
+    "idx": 16,
+    "fig_id": "fig-09-16",
+    "fnum": "9.1.18",
+    "caption": "The minor axis of the RA measured in the apical 4CV",
+    "page": 411,
+    "size": "799x1247"
+  },
+  {
+    "idx": 17,
+    "fig_id": "fig-09-17",
+    "fnum": "9.1.19",
+    "caption": "Apical 4CV at end-systole",
+    "page": 411,
+    "size": "799x1247"
+  },
+  {
+    "idx": 18,
+    "fig_id": "fig-09-18",
+    "fnum": "9.1.21",
+    "caption": "Right atrial measurements",
+    "page": 411,
+    "size": "799x1247"
+  },
+  {
+    "idx": 19,
+    "fig_id": "fig-09-19",
+    "fnum": "9.1.20",
+    "caption": "2D tracings of the blood-tissue interface on the apical 4CV",
+    "page": 411,
+    "size": "799x1247"
+  },
+  {
+    "idx": 20,
+    "fig_id": "fig-09-20",
+    "fnum": "9.2.1",
+    "caption": "Patient with an atrial septal defect seen on colour Doppler flow in systole (above left) causing RV dilation and diastolic septal flattening resulting in an increase in eccentricity index",
+    "page": 413,
+    "size": "837x766"
+  },
+  {
+    "idx": 21,
+    "fig_id": "fig-09-21",
+    "fnum": "9.2.2",
+    "caption": "Eccentricity index in systole and diastole",
+    "page": 413,
+    "size": "710x617"
+  },
+  {
+    "idx": 22,
+    "fig_id": "fig-09-22",
+    "fnum": "9.3.1",
+    "caption": "CW Doppler determination of TR velocity to estimate PASP in this patient with pulmonary hypertension N.B. The TR Doppler signal can be enhanced using agitated contrast (saline or colloid bubble solution)",
+    "page": 414,
+    "size": "834x524"
+  },
+  {
+    "idx": 23,
+    "fig_id": "fig-09-23",
+    "fnum": "9.3.2",
+    "caption": "Raised RVEDP",
+    "page": 415,
+    "size": "486x992"
+  },
+  {
+    "idx": 24,
+    "fig_id": "fig-09-24",
+    "fnum": "9.3.3",
+    "caption": "Short pulmonary acceleration time",
+    "page": 415,
+    "size": "486x992"
+  },
+  {
+    "idx": 25,
+    "fig_id": "fig-09-25",
+    "fnum": "9.3.4",
+    "caption": "Notched RV outflow through pulmonary valve by PW Doppler",
+    "page": 415,
+    "size": "486x992"
+  },
+  {
+    "idx": 26,
+    "fig_id": "fig-09-26",
+    "fnum": "9.3.6",
+    "caption": "Increased eccentricity index ‘D-shape LV’ during systole in a patient with pulmonary hypertension and RV dilation",
+    "page": 416,
+    "size": "834x443"
+  },
+  {
+    "idx": 27,
+    "fig_id": "fig-09-27",
+    "fnum": "9.3.7",
+    "caption": "Normogram for normal vs abnormal increases in PAP estimates during exercise",
+    "page": 416,
+    "size": "834x443"
+  },
+  {
+    "idx": 28,
+    "fig_id": "fig-09-28",
+    "fnum": "9.3.5",
+    "caption": "Increased eccentricity index",
+    "page": 416,
+    "size": "834x443"
+  }
+]

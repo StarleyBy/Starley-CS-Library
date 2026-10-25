@@ -1,0 +1,215 @@
+{
+  "schemaVersion": 1,
+  "id": "esc-hf-2026.rt09-treatment-decompensated-hf",
+  "guidelineId": "esc-hf-2026",
+  "number": "Recommendation Table 9",
+  "type": "recommendations",
+  "title": {
+    "en": "Recommendations for the immediate and intermediate treatment of decompensated heart failure",
+    "ru": "Рекомендации по неотложному и промежуточному лечению декомпенсированной сердечной недостаточности"
+  },
+  "tags": [
+    "decompensated-hf",
+    "dhf",
+    "acute-heart-failure",
+    "oxygen",
+    "intubation",
+    "niv",
+    "diuretics",
+    "acetazolamide",
+    "hctz",
+    "urinary-sodium",
+    "sglt2-i",
+    "vasodilators",
+    "inotropes",
+    "vasopressors",
+    "norepinephrine",
+    "opiates"
+  ],
+  "source": {
+    "expectedRows": 11
+  },
+  "i18nStatus": {
+    "ru": "reviewed"
+  },
+  "sections": [
+    {
+      "id": "sec-oxygen-ventilatory-support",
+      "title": {
+        "en": "Oxygen and ventilatory support (see Evidence Tables 59–67)",
+        "ru": "Оксигенотерапия и респираторная поддержка (см. Доказательные таблицы 59–67)"
+      },
+      "rows": [
+        {
+          "id": "r01",
+          "text": {
+            "en": "Oxygen is recommended in patients with SpO2 <90% or PaO2 <60 mmHg to correct hypoxaemia.",
+            "ru": "Кислородотерапия рекомендуется пациентам с SpO₂ <90% или PaO₂ <60 мм рт. ст. для коррекции гипоксемии."
+          },
+          "class": "I",
+          "level": "C"
+        },
+        {
+          "id": "r02",
+          "text": {
+            "en": "Intubation is recommended in patients with DHF and persistent and progressive respiratory failure despite oxygen administration or non-invasive ventilation to correct hypoxaemia.^[c]",
+            "ru": "Интубация трахеи рекомендуется пациентам с декомпенсированной СН (DHF) при персистирующей и прогрессирующей дыхательной недостаточности, несмотря на оксигенотерапию или неинвазивную вентиляцию легких, для коррекции гипоксемии.^[c]"
+          },
+          "class": "I",
+          "level": "C"
+        },
+        {
+          "id": "r03",
+          "text": {
+            "en": "Non-invasive positive pressure ventilation should be considered in patients with respiratory distress (respiratory rate >25 breaths/min, SpO2 <90%) and started as soon as possible in order to decrease respiratory distress and reduce the risk of endotracheal intubation.",
+            "ru": "Неинвазивная вентиляция легких с положительным давлением должна рассматриваться у пациентов с респираторным дистрессом (ЧДД >25 вдохов/мин, SpO₂ <90%) и начата как можно раньше для уменьшения дистресса и снижения риска интубации трахеи."
+          },
+          "class": "IIa",
+          "level": "B2",
+          "refs": [540]
+        }
+      ]
+    },
+    {
+      "id": "sec-diuretics",
+      "title": {
+        "en": "Diuretics",
+        "ru": "Диуретики"
+      },
+      "rows": [
+        {
+          "id": "r04",
+          "text": {
+            "en": "Intravenous loop diuretics are recommended for all patients with DHF admitted with fluid overload to improve symptoms.^[d]",
+            "ru": "Внутривенные петлевые диуретики рекомендуются всем пациентам с декомпенсированной СН (DHF), госпитализированным с признаками перегрузки жидкостью, для облегчения симптомов.^[d]"
+          },
+          "class": "I",
+          "level": "A"
+        },
+        {
+          "id": "r05",
+          "text": {
+            "en": "The addition of short-term intravenous acetazolamide or oral hydrochlorothiazide should be considered in patients with fluid overload previously treated with loop diuretics, to reduce congestion.",
+            "ru": "Кратковременное добавление внутривенного ацетазоламида или перорального гидрохлоротиазида должно рассматриваться у пациентов с гиперволемией, ранее получавших петлевые диуретики, для уменьшения застойных явлений."
+          },
+          "class": "IIa",
+          "level": "B1",
+          "refs": [510, 511]
+        },
+        {
+          "id": "r06",
+          "text": {
+            "en": "Urinary Na+-guided diuretic therapy may be considered during the first days of treatment of patients with DHF to improve natriuresis and diuresis.",
+            "ru": "Диуретическая терапия под контролем концентрации натрия в моче (Na⁺) может быть рассмотрена в первые дни лечения пациентов с декомпенсированной СН (DHF) для улучшения натрийуреза и диуреза."
+          },
+          "class": "IIb",
+          "level": "B1",
+          "refs": [508]
+        }
+      ]
+    },
+    {
+      "id": "sec-sglt2i",
+      "title": {
+        "en": "SGLT2-I",
+        "ru": "Ингибиторы SGLT2"
+      },
+      "rows": [
+        {
+          "id": "r07",
+          "text": {
+            "en": "In-hospital initiation of SGLT2-I is recommended in patients with DHF after initial stabilization to improve QoL and congestion symptoms and reduce the risk of HFH.",
+            "ru": "Начало приема ингибиторов SGLT2 в стационаре рекомендуется пациентам с декомпенсированной СН (DHF) после начальной стабилизации для улучшения качества жизни и уменьшения симптомов застоя, а также снижения риска госпитализации по поводу СН."
+          },
+          "class": "I",
+          "level": "B1",
+          "refs": [492, 522, 525, 541]
+        }
+      ]
+    },
+    {
+      "id": "sec-vasodilators",
+      "title": {
+        "en": "Vasodilators",
+        "ru": "Вазодилататоры"
+      },
+      "rows": [
+        {
+          "id": "r08",
+          "text": {
+            "en": "Intravenous vasodilators may be considered as initial therapy in patients with DHF and systolic blood pressure >110 mmHg to improve symptoms and reduce congestion.",
+            "ru": "Внутривенные вазодилататоры могут рассматриваться в качестве начальной терапии у пациентов с декомпенсированной СН (DHF) и систолическим артериальным давлением >110 мм рт. ст. для облегчения симптомов и уменьшения застоя."
+          },
+          "class": "IIb",
+          "level": "C",
+          "refs": [534]
+        }
+      ]
+    },
+    {
+      "id": "sec-inotropic-agents",
+      "title": {
+        "en": "Inotropic agents",
+        "ru": "Инотропные препараты"
+      },
+      "rows": [
+        {
+          "id": "r09",
+          "text": {
+            "en": "Inotropic agents may be considered in patients with systolic blood pressure <90 mmHg and evidence of hypoperfusion who do not respond to standard treatment, including fluid challenge, to improve perfusion.",
+            "ru": "Инотропные средства могут быть рассмотрены у пациентов с систолическим АД <90 мм рт. ст. и признаками гипоперфузии, не отвечающих на стандартную терапию, включая инфузионную пробу объемом (fluid challenge), для улучшения перфузии."
+          },
+          "class": "IIb",
+          "level": "C"
+        }
+      ]
+    },
+    {
+      "id": "sec-vasopressors",
+      "title": {
+        "en": "Vasopressors",
+        "ru": "Вазопрессоры"
+      },
+      "rows": [
+        {
+          "id": "r10",
+          "text": {
+            "en": "Vasopressors, preferably norepinephrine, may be considered in patients with cardiogenic shock to increase blood pressure and vital organ perfusion.",
+            "ru": "Вазопрессоры, преимущественно норэпинефрин (норадреналин), могут быть рассмотрены у пациентов с кардиогенным шоком для повышения артериального давления и перфузии жизненно важных органов."
+          },
+          "class": "IIb",
+          "level": "C"
+        }
+      ]
+    },
+    {
+      "id": "sec-opiates",
+      "title": {
+        "en": "Opiates",
+        "ru": "Опиоиды"
+      },
+      "rows": [
+        {
+          "id": "r11",
+          "text": {
+            "en": "Routine use of opiates is not recommended in patients with DHF unless severe/intractable pain or anxiety, due to risk of harm.",
+            "ru": "Рутинное применение опиоидов не рекомендуется пациентам с декомпенсированной СН (DHF), за исключением случаев сильной/некупируемой боли или тревоги, из-за риска причинения вреда."
+          },
+          "class": "III",
+          "level": "C",
+          "refs": [542]
+        }
+      ]
+    }
+  ],
+  "footnotes": {
+    "c": {
+      "en": "Criteria for endotracheal intubation in DHF: cardiac or respiratory arrest, progressive worsening of altered mental status, progressive worsening of respiratory failure with hypoxaemia (PaO2 <60 mmHg, PaCO2 >50 mmHg and pH <7.35) despite NIV or intolerance to NIV, persistent haemodynamic instability, need for airway protection (ref. 477).",
+      "ru": "Критерии интубации трахеи при DHF: остановка сердца или дыхания, прогрессирующее угнетение сознания, прогрессирующее нарастание дыхательной недостаточности с гипоксемией (PaO₂ <60 мм рт. ст., PaCO₂ >50 мм рт. ст. и pH <7,35), несмотря на НИВЛ или непереносимость НИВЛ, стойкая гемодинамическая нестабильность, необходимость защиты дыхательных путей (ссылка 477)."
+    },
+    "d": {
+      "en": "This recommendation is considered by the Task Force to have level of evidence A due to clear clinical benefit. Treatment of DHF with loop diuretics has been widely accepted as effective and therefore no adequately powered randomized clinical trial has ever been conducted or is likely to be conducted for ethical reasons.",
+      "ru": "Экспертный комитет присвоил данной рекомендации уровень доказательности A в силу очевидной клинической пользы. Лечение DHF петлевыми диуретиками общепризнано как эффективное, в связи с чем масштабные рандомизированные клинические исследования никогда не проводились и вряд ли будут проведены по этическим соображениям."
+    }
+  }
+}

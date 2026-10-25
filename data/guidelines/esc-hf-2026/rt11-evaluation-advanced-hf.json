@@ -1,0 +1,83 @@
+{
+  "schemaVersion": 1,
+  "id": "esc-hf-2026.rt11-evaluation-advanced-hf",
+  "guidelineId": "esc-hf-2026",
+  "number": "Recommendation Table 11",
+  "type": "recommendations",
+  "title": {
+    "en": "Recommendations for diagnosis and evaluation of advanced heart failure",
+    "ru": "Рекомендации по диагностике и оценке терминальной (тяжелой) сердечной недостаточности"
+  },
+  "tags": [
+    "advanced-hf",
+    "evaluation",
+    "heart-transplantation",
+    "durable-mcs",
+    "lvad",
+    "cpet",
+    "rhc",
+    "right-heart-catheterization",
+    "specialized-centre"
+  ],
+  "source": {
+    "expectedRows": 3
+  },
+  "i18nStatus": {
+    "ru": "reviewed"
+  },
+  "sections": [
+    {
+      "id": "sec-evaluation-advanced-hf",
+      "title": {
+        "en": "Recommendations for diagnosis and evaluation of advanced heart failure (see Evidence Tables 70 and 71)",
+        "ru": "Рекомендации по диагностике и оценке терминальной (тяжелой) сердечной недостаточности (см. Доказательные таблицы 70 и 71)"
+      },
+      "rows": [
+        {
+          "id": "r01",
+          "text": {
+            "en": "Early consultation with an advanced HF centre^[c] is recommended in patients with advanced HF or at risk of advanced HF, who are motivated and do not have absolute contraindications for heart transplantation or durable MCS^[d], in order to evaluate candidacy.^[e]",
+            "ru": "Ранняя консультация в экспертном центре по лечению терминальной СН^[c] рекомендуется пациентам с терминальной СН или риском ее развития, мотивированным и не имеющим абсолютных противопоказаний к трансплантации сердца или длительной МПК^[d], для оценки кандидатства на эти методы.^[e]"
+          },
+          "class": "I",
+          "level": "A",
+          "refs": [573, 591]
+        },
+        {
+          "id": "r02",
+          "text": {
+            "en": "Cardiopulmonary exercise testing is recommended in patients with advanced HF, as part of the evaluation for heart transplantation and durable MCS.",
+            "ru": "Кардиореспираторное нагрузочное тестирование (КРНТ / CPET) рекомендуется пациентам с терминальной СН в рамках обследования для трансплантации сердца и длительной МПК."
+          },
+          "class": "I",
+          "level": "C",
+          "refs": [579, 580, 582]
+        },
+        {
+          "id": "r03",
+          "text": {
+            "en": "Right heart catheterization is recommended in patients with advanced HF, as part of the evaluation for heart transplantation and durable MCS.",
+            "ru": "Катетеризация правых отделов сердца рекомендуется пациентам с терминальной СН в рамках обследования для трансплантации сердца и длительной МПК."
+          },
+          "class": "I",
+          "level": "C",
+          "refs": [580, 581, 582]
+        }
+      ]
+    }
+  ],
+  "footnotes": {
+    "c": {
+      "en": "A centre performing LVAD implantation and/or heart transplantation.",
+      "ru": "Центр, выполняющий имплантацию LVAD и/или трансплантацию сердца."
+    },
+    "d": {
+      "en": "Eligibility criteria are reported in Tables 16 and 17.",
+      "ru": "Критерии отбора приведены в Таблицах 16 и 17."
+    },
+    "e": {
+      "en": "This recommendation is considered by the Task Force to have level of evidence A due to clear clinical effectiveness.",
+      "ru": "Экспертный комитет присвоил данной рекомендации уровень доказательности A в силу очевидной клинической эффективности."
+    }
+  }
+}

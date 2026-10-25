@@ -1,0 +1,619 @@
+
+=== PAGE 2 ===
+Circulation. 2022;146:e334–e482. DOI: 10.1161/CIR.0000000000001106 December 13, 2022 e335
+Isselbacher et al 2022 ACC/AHA Aortic Disease Guideline
+CLINICAL STATEMENTS 
+AND GUIDELINES
+recommendations addressing comprehensive care for patients with aortic disease have been developed. There is added 
+emphasis on the role of shared decision making, especially in the management of patients with aortic disease both before 
+and during pregnancy. The is also an increased emphasis on the importance of institutional interventional volume and 
+multidisciplinary aortic team expertise in the care of patients with aortic disease.
+Key Words: AHA Scientific Statements ◼ abdominal aortic aneurysm ◼ aortic dissection ◼ aortitis ◼ aortopathy ◼ bicuspid aortic valve  
+◼ blunt traumatic aortic injury ◼ cardiac surgery ◼ guidelines ◼ endovascular aortic repair ◼ heritable thoracic aortic disease  
+◼ intramural hematoma ◼ malperfusion syndrome ◼ Marfan syndrome ◼ Loeys-Dietz syndrome ◼ penetrating atherosclerotic ulcer  
+◼ thoracic aortic aneurysm ◼ thoracoabdominal aortic aneurysm ◼ thoracic endovascular aortic repair ◼ vascular surgery
+CONTENTS
+Abstract ........................................ e334
+Top 10 Take-Home Messages ................... e336
+Preamble ...................................... e337
+1. Introduction  ................................ e338
+1.1. Methodology and Evidence Review .... e338
+1.2. Organization of the Writing  
+Committee ........................... e338
+1.3. Document Review and Approval ....... e339
+1.4. Scope of the Guideline ............... e339
+1.5. Class of Recommendations and  
+Level of Evidence .................... e339
+1.6. Abbreviations  ........................ e339
+2. Normal Anatomy, Abnormal Anatomy, and 
+Definitions ................................. e340
+2.1. Normal Aortic Anatomy ............... e340
+2.2. Aortic Landing Zones ................. e340
+2.3. Definitions of Dilation and Aneurysm  
+of the Aortic Root and Ascending  
+Thoracic Aorta ....................... e341
+2.3.1. Normalizing Aortic Root and 
+Ascending Aortic Diameters for  
+Body Size  .................... e343
+2.4. Definitions and Classification of  
+Acute Aortic Syndrome (AAS) ......... e345
+2.5. Classification of Thoracoabdominal  
+Aortic Aneurysm (TAAA) .............. e349
+2.6. Classification of Endoleaks. . . . . . . . . . . . e349
+3. Imaging and Measurements ................. e349
+3.1. Aortic Imaging Techniques to Determine 
+Presence and Progression of Aortic  
+Disease .............................. e349
+3.2. Conventions of Measurements ........ e352
+3.2.1. Computed Tomography ........ e353
+3.2.2. Magnetic Resonance Imaging ... e353
+3.2.3. Echocardiography ............. e354
+3.2.4. Intravascular Ultrasound ....... e354
+3.2.5. Abdominal Ultrasound ......... e355
+4. Multidisciplinary Aortic Teams ............... e355
+5. Shared Decision-Making .................... e357
+6. Aneurysms ................................. e358
+6.1. Thoracic Aortic Aneurysm (TAA)  
+Causes .............................. e358
+6.1.1. Sporadic and Degenerative  
+TAA .......................... e361
+6.1.2. Genetic Aortopathies .......... e361
+6.1.3. BAV Aortopathy ............... e373
+6.2. AAA: Cause, Risk Factors, and  
+Screening ............................ e376
+6.3. Growth and Natural History of  
+Aortic Aneurysms .................... e377
+6.4. Medical Management of Sporadic  
+and Degenerative Aortic Aneurysm  
+Disease .............................. e378
+6.4.1. Medical Therapy and Risk  
+Factor Modification in  
+Sporadic TAA ................. e378
+6.4.2. Medical Therapy and Risk  
+Factor Modification in AAA .... e380
+6.4.3. Surveillance for Medical  
+Management ................. e382
+6.5. Surgical and Endovascular Management  
+of Aortic Aneurysms .................. e384
+6.5.1. Surgery for Sporadic Aneurysms  
+of the Aortic Root and  
+Ascending Aorta .............. e384
+6.5.2. Aortic Arch Aneurysms ........ e387
+6.5.3. Descending TAA .............. e388
+6.5.4. Thoracoabdominal Aortic  
+Aneurysms ................... e392
+6.5.5. Abdominal Aortic  
+Aneurysms ................... e396
+6.5.6. Surveillance After Aneurysm  
+Repair ........................ e401
+7 . Acute Aortic Syndromes .................... e403
+7 .1. Presentation  ......................... e403
+7 .2. AAS: Diagnostic Evaluation (Imaging, 
+Laboratory Testing) ................... e404
+7 .3. Medical Management of AAS ......... e405
+7 .3.1. Acute Medical Management  
+of AAS ....................... e405
+7 .3.2. Subsequent Medical Management  
+of AAS ....................... e406
+7 .4. Surgical and Endovascular Management  
+of Acute Aortic Dissection ............ e406
+7 .4.1. Acute T ype A Aortic  
+Dissection .................... e407
+7 .4.2. Management of Acute T ype B  
+Aortic Dissection .............. e411
+7 .5. Management of IMH  ................. e412
+Downloaded from http://ahajournals.org by on May 30, 2026
+=== PAGE 3 ===
+December 13, 2022 Circulation. 2022;146:e334–e482. DOI: 10.1161/CIR.0000000000001106e336
+Isselbacher et al 2022 ACC/AHA Aortic Disease Guideline
+CLINICAL STATEMENTS  
+AND GUIDELINES
+7 .6. Management of PAU ................. e414
+7 .6.1. PAU With IMH, Rupture, or  
+Both ......................... e414
+7 .6.2. Isolated PAU .................. e415
+7 .6.3. PAU Open Surgical Repair Versus 
+Endovascular Repair .......... e416
+7 .7 . Traumatic Aortic Injury ................ e416
+7 .7 .1. Initial Management of Blunt 
+Traumatic Thoracic Aortic Injury 
+(BTTAI) ....................... e416
+7 .7 .2. Initial Management of Blunt 
+Traumatic Abdominal Aortic  
+Injury (BAAI) .................. e419
+7 .7 .3. Long-Term Management and 
+Surveillance After Blunt Traumatic 
+Aortic Injury (BTAI) ............ e421
+7 .8. Long-Term Management and Surveillance 
+Imaging After AAS ................... e421
+7 .8.1. Long-Term Surveillance Imaging  
+After Aortic Dissection and  
+IMH .......................... e421
+7 .8.2. Long-Term Management After  
+Acute Aortic Dissection and  
+IMH .......................... e422
+7 .8.3. Long-Term Management and 
+Surveillance for PAUs ......... e422
+8. Pregnancy in Patients With Aortopathy ....... e423
+8.1. Counseling and Management of  
+Aortic Disease in Pregnancy and  
+Postpartum .......................... e423
+8.2. Delivery in Pregnant Patients With 
+Aortopathy ........................... e424
+8.3. Surgery Before Pregnancy in Women  
+With Aortic Disease. . . . . . . . . . . . . . . . . . . e425
+8.4. Pregnancy in Patients With Aortopathy: 
+Aortic Dissection and Aortic Surgery in 
+Pregnancy ........................... e427
+9. Other Aortic Conditions ..................... e428
+9.1. Inflammatory Aortitis: Diagnosis and 
+Treatment of Takayasu Arteritis and  
+Giant Cell Arteritis (GCA) ............. e428
+9.2. Infectious Aortitis ..................... e432
+9.2.1. Diagnosis and Management  
+of Infection of the Native  
+Aorta  ........................ e432
+9.2.2. Diagnosis and Management of 
+Prosthetic Aortic Graft  
+Infection ...................... e434
+9.3. Atherosclerotic Disease ............... e435
+9.3.1. Aortic Thrombus .............. e436
+9.3.2. Aortic Occlusion .............. e436
+9.3.3. Porcelain Aorta ............... e436
+9.4. Coarctation of the Aorta (CoA) and 
+Congenital Abnormalities of the Arch .. e437
+9.4.1. Coarctation of the Aorta ....... e437
+9.4.2. Other Arch Abnormalities ...... e438
+9.5. Tumors  .............................. e441
+10. Physical Activity and Quality of Life .......... e441
+11. Cost and Value Considerations .............. e442
+12. Evidence Gaps and Future Directions ........ e443
+12.1. Biomarker Studies .................... e443
+12.2. Genetic and Nongenetic Factors ...... e443
+12.3. Biomechanics of the Aorta ............ e443
+12.4. Sex, Race, and Ethnicity. . . . . . . . . . . . . . . e443
+12.5. Quality of Life in Patients With Aortic 
+Disease .............................. e444
+12.6. New Endovascular Technology ........ e444
+12.7 . Optimal Exercise and Rehabilitation 
+Protocols ............................ e444
+12.8. Equitable Care and Training  
+Opportunities  ........................ e444
+References . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . e445
+Appendix 1
+Author Relationships With Industry and Other 
+Entities (Relevant) .......................... e478
+Appendix 2
+Reviewer Relationships With Industry and Other 
+Entities (Comprehensive) ................... e481
+TOP 10 TAKE-HOME MESSAGES FOR 
+THE DIAGNOSIS AND MANAGEMENT OF 
+AORTIC DISEASE
+1. Because outcomes for patients with aortic disease 
+are enhanced at programs with higher volumes, 
+experienced practitioners, and extensive manage-
+ment capabilities, Multidisciplinary Aortic Team 
+care is considered in determining the appropriate 
+timing of intervention.
+2. Shared decision-making involving the patient and 
+a multidisciplinary team is highly encouraged to 
+determine the optimal medical, endovascular, and 
+open surgical therapies. In patients with aortic dis-
+ease who are contemplating pregnancy or who 
+are pregnant, shared decision-making is especially 
+important when considering the cardiovascular 
+risks of pregnancy, the diameter thresholds for pro-
+phylactic aortic surgery, and the mode of delivery.
+3. Computed tomography, magnetic resonance imag-
+ing, and echocardiographic imaging of patients 
+with aortic disease should follow recommended 
+approaches for image acquisition, measurement and 
+reporting of relevant aortic dimensions, and the fre-
+quency of surveillance before and after intervention.
+4. At centers with Multidisciplinary Aortic Teams and 
+experienced surgeons, the threshold for surgical 
+intervention for sporadic aortic root and ascend-
+ing aortic aneurysms has been lowered from 5.5 
+cm to 5.0 cm in selected patients, and even lower 
+in specific scenarios among patients with heritable 
+thoracic aortic aneurysms.
+Downloaded from http://ahajournals.org by on May 30, 2026
+=== PAGE 4 ===
+Circulation. 2022;146:e334–e482. DOI: 10.1161/CIR.0000000000001106 December 13, 2022 e337
+Isselbacher et al 2022 ACC/AHA Aortic Disease Guideline
+CLINICAL STATEMENTS 
+AND GUIDELINES
+5. In patients who are significantly smaller or taller 
+than average, surgical thresholds may incorporate 
+indexing of the aortic root or ascending aortic diam-
+eter to either patient body surface area or height, 
+or aortic cross-sectional area to patient height.
+6. Rapid aortic root growth or ascending aortic 
+aneurysm growth, an indication for intervention, is 
+defined as ≥0.5 cm in 1 year or ≥0.3 cm per year in 
+2 consecutive years for those with sporadic aneu-
+rysms and ≥0.3 cm in 1 year for those with heritable 
+thoracic aortic disease or bicuspid aortic valve.
+7 . In patients undergoing aortic root replacement 
+surgery, valve-sparing aortic root replacement is 
+reasonable if the valve is suitable for repair and 
+when performed by experienced surgeons in a 
+Multidisciplinary Aortic Team.
+8. Patients with acute type A aortic dissection, if clini-
+cally stable, should be considered for transfer to a 
+high-volume aortic center to improve survival. The 
+operative repair of type A aortic dissection should 
+entail at least an open distal anastomosis rather 
+than just a simple supracoronary interposition graft.
+9. There is an increasing role for thoracic endovascular 
+aortic repair in the management of uncomplicated 
+type B aortic dissection. Clinical trials of repair of 
+thoracoabdominal aortic aneurysms with endografts 
+are reporting results that suggest endovascular 
+repair is an option for patients with suitable anatomy.
+10. In patients with aneurysms of the aortic root or 
+ascending aorta, or those with aortic dissection, 
+screening of first-degree relatives with aortic imag-
+ing is recommended.
+PREAMBLE
+Since 1980, the American College of Cardiology (ACC) 
+and American Heart Association (AHA) have translated 
+scientific evidence into clinical practice guidelines with 
+recommendations to improve cardiovascular health. 
+These guidelines, which are based on systematic meth-
+ods to evaluate and classify evidence, provide a founda-
+tion for the delivery of quality cardiovascular care. The 
+ACC and AHA sponsor the development and publication 
+of clinical practice guidelines without commercial sup-
+port, and members volunteer their time to the writing and 
+review efforts. Guidelines are official policy of the ACC 
+and AHA. For some guidelines, the ACC and AHA col-
+laborate with other organizations.
+Intended Use
+Clinical practice guidelines provide recommendations 
+applicable to patients with or at risk of developing car-
+diovascular disease. The focus is on medical practice in 
+the United States, but these guidelines are relevant to 
+patients throughout the world. Although guidelines may 
+be used to inform regulatory or payer decisions, the intent 
+is to improve quality of care and align with patients’ inter-
+ests. Guidelines are intended to define practices meeting 
+the needs of patients in most, but not all, circumstances 
+and should not replace clinical judgment.
+Clinical Implementation
+Management, in accordance with guideline recommen-
+dations, is effective only when followed by both practitio-
+ners and patients. Adherence to recommendations can 
+be enhanced by shared decision-making between clini-
+cians and patients, with patient engagement in selecting 
+interventions on the basis of individual values, prefer-
+ences, and associated conditions and comorbidities.
+Methodology and Modernization
+The AHA/ACC Joint Committee on Clinical Practice Guide-
+lines (Joint Committee) continuously reviews, updates, and 
+modifies guideline methodology on the basis of published 
+standards from organizations, including the Institute of Med-
+icine,1,2 and on the basis of internal reevaluation. Similarly, 
+presentation and delivery of guidelines are reevaluated and 
+modified in response to evolving technologies and other 
+factors to optimally facilitate dissemination of information to 
+health care professionals at the point of care.
+Numerous modifications to the guidelines have been 
+implemented to make them shorter and enhance “user 
+friendliness.” Guidelines are written and presented in a 
+modular, “knowledge chunk” format, in which each chunk 
+includes a table of recommendations, a brief synopsis, 
+recommendation-specific supportive text and, when 
+appropriate, flow diagrams or additional tables. Hyper-
+linked references are provided for each modular knowl-
+edge chunk to facilitate quick access and review.
+In recognition of the importance of cost–value con-
+siderations, in certain guidelines, when appropriate and 
+feasible, an analysis of value for a drug, device, or inter-
+vention may be performed in accordance with the ACC/
+AHA methodology.3
+To ensure that guideline recommendations remain cur-
+rent, new data will be reviewed on an ongoing basis by 
+the writing committee and staff. Going forward, targeted 
+sections/knowledge chunks will be revised dynamically 
+after publication and timely peer review of potentially 
+practice-changing science. The previous designations of 
+“full revision” and “focused update” will be phased out. 
+For additional information and policies on guideline devel-
+opment, readers may consult the ACC/AHA guideline 
+methodology manual4 and other methodology articles.5-7
+Selection of Writing Committee Members
+The Joint Committee strives to ensure that the guideline 
+writing committee contains requisite content expertise 
+Downloaded from http://ahajournals.org by on May 30, 2026
+=== PAGE 5 ===
+December 13, 2022 Circulation. 2022;146:e334–e482. DOI: 10.1161/CIR.0000000000001106e338
+Isselbacher et al 2022 ACC/AHA Aortic Disease Guideline
+CLINICAL STATEMENTS  
+AND GUIDELINES
+and is representative of the broader cardiovascular com-
+munity by selection of experts across a spectrum of 
+backgrounds, representing different geographic regions, 
+sexes, races, ethnicities, intellectual perspectives/biases, 
+and clinical practice settings. Organizations and profes-
+sional societies with related interests and expertise are 
+invited to participate as partners or collaborators.
+Relationships With Industry and Other Entities
+The ACC and AHA have rigorous policies and methods 
+to ensure that documents are developed without bias 
+or improper influence. The complete policy on relation-
+ships with industry and other entities (RWI) can be found 
+online. Appendix 1 of the guideline lists writing com-
+mittee members’ relevant RWI. For the purposes of full 
+transparency, their comprehensive disclosure information 
+is available in a Supplemental Appendix. Comprehensive 
+disclosure information for the Joint Committee is also 
+available online.
+Evidence Review and Evidence Review 
+Committees
+In developing recommendations, the writing committee 
+uses evidence-based methodologies that are based on 
+all available data. 4,5 Literature searches focus on ran-
+domized controlled trials (RCTs) but also include reg-
+istries, nonrandomized comparative and descriptive 
+studies, case series, cohort studies, systematic reviews, 
+and expert opinion. Only key references are cited.
+An independent evidence review committee is com-
+missioned when there are ≥ 1 question(s) deemed of 
+utmost clinical importance and merit formal systematic 
+review to determine which patients are most likely to ben-
+efit from a drug, device, or treatment strategy, and to what 
+degree. Criteria for commissioning an evidence review 
+committee and formal systematic review include absence 
+of a current authoritative systematic review, feasibility of 
+defining the benefit and risk in a time frame consistent 
+with the writing of a guideline, relevance to a substantial 
+number of patients, and likelihood that the findings can 
+be translated into actionable recommendations. Evidence 
+review committee members may include methodologists, 
+epidemiologists, clinicians, and biostatisticians. Recom-
+mendations developed by the writing committee on the 
+basis of the systematic review are marked “SR”.
+Guideline-Directed Medical Therapy
+The term guideline-directed medical therapy encom-
+passes clinical evaluation, diagnostic testing, and both 
+pharmacological and procedural treatments. For these 
+and all recommended drug treatment regimens, the 
+reader should confirm dosage with product insert mate-
+rial and evaluate for contraindications and interactions. 
+Recommendations are limited to drugs, devices, and 
+treatments approved for clinical use in the United States.
+Joshua A. Beckman, MD, MS, FACC, FAHA  
+Chair, AHA/ACC Joint Committee on  
+Clinical Practice Guidelines
+1. INTRODUCTION
+1.1. Methodology and Evidence Review
+The recommendations listed in this guideline are, 
+whenever possible, evidence based. An initial exten-
+sive evidence review, which included literature derived 
+from research involving human subjects, published in 
+English, and indexed in MEDLINE (through PubMed), 
+EMBASE, the Cochrane Library, the Agency for Health-
+care Research and Quality, and other selected data-
+bases relevant to this guideline, was conducted from 
+February 2021 to April 2021. Search terms included 
+both key words and index terms (eg, MeSH, Emtree); 
+search terms included but were not limited to the fol-
+lowing: aortic occlusion; aortic aneurysm; aortic aneu-
+rysm, thoracic; aortic aneurysm, abdominal; surveillance 
+after endovascular aneurysm repair; diagnostic imaging; 
+monitoring; surveillance; imaging; aorta; aortic; computed 
+tomography; ultrasound; magnetic resonance imaging; 
+arterial occlusive diseases; aortic diseases; aortic ath-
+erosclerosis; atherosclerosis; clinical trial; observational 
+study; randomized controlled trial; review; atherosclerotic 
+aortic disease; plaque, atherosclerotic; aorta; aortitis; 
+infectious; autoimmune; aortic rupture; penetrating aor-
+tic ulcers; comparative studies; nonexperimental studies; 
+type A aortic dissection; type A; type B; aneurysm, dis-
+secting; aorta and echocardiography. The final evidence 
+tables are included in the Online Data Supplement and 
+summarize the evidence used by the writing committee 
+to formulate recommendations. References selected 
+and published in the present document are representa-
+tive and not all-inclusive.
+1.2. Organization of the Writing Committee
+The writing committee consisted of clinicians, cardiolo-
+gists, internists, interventionalists, surgeons, radiologists, 
+anesthesiologists, a nurse practitioner, and a lay/patient 
+representative. The writing committee included repre-
+sentatives from the ACC, AHA, American Association 
+for Thoracic Surgery, American College of Radiology, 
+Society of Cardiovascular Anesthesiologists, Society for 
+Cardiovascular Angiography and Interventions, Society 
+of Thoracic Surgeons (STS), and Society for Vascular 
+Surgery (SVS). Appendix 1 of the present document lists 
+writing committee members’ relevant RWI. For the pur-
+poses of full transparency, the writing committee mem-
+bers’ comprehensive disclosure information is available 
+in a Supplemental Appendix.
+Downloaded from http://ahajournals.org by on May 30, 2026
+=== PAGE 6 ===
+Circulation. 2022;146:e334–e482. DOI: 10.1161/CIR.0000000000001106 December 13, 2022 e339
+Isselbacher et al 2022 ACC/AHA Aortic Disease Guideline
+CLINICAL STATEMENTS 
+AND GUIDELINES
+1.3. Document Review and Approval
+The Joint Committee appointed a peer review committee 
+to review the document. The peer review committee was 
+comprised of individuals nominated by ACC, AHA, and 
+the collaborating organizations. Reviewers’ RWI informa-
+tion was distributed to the writing committee and is pub-
+lished in this document (Appendix 2).
+This document was approved for publication by the 
+governing bodies of the ACC and the AHA and was 
+endorsed by the American Association for Thoracic Sur-
+gery, American College of Radiology, Society of Cardio-
+vascular Anesthesiologists, Society for Cardiovascular 
+Angiography and Interventions, Society of Interventional 
+Radiology, Society of Thoracic Surgeons, Society for 
+Vascular Medicine, and Society for Vascular Surgery.
+1.4. Scope of the Guideline
+In developing the “2022 ACC/AHA Guideline for the 
+Diagnosis and Management of Aortic Disease” (2022 
+aortic disease guideline), the writing committee reviewed 
+previously published guidelines. Table 1 contains a list of 
+these publications deemed pertinent to this writing effort 
+and is intended for use as a resource, thus obviating the 
+need to repeat existing guideline recommendations.
+1.5. Class of Recommendations and Level of 
+Evidence
+The Class of Recommendation (COR) indicates the 
+strength of recommendation, encompassing the esti-
+mated magnitude and certainty of benefit in proportion 
+to risk. The Level of Evidence (LOE) rates the quality of 
+scientific evidence supporting the intervention on the 
+basis of the type, quantity, and consistency of data from 
+clinical trials and other sources (Table 2).1
+1.6. Abbreviations
+Abbreviation Meaning/Phrase
+3D 3-dimensional
+AAA abdominal aortic aneurysm
+AAS acute aortic syndrome
+ACEI angiotensin-converting enzyme inhibitor
+AHI aortic height index
+AR aortic regurgitation
+ARB angiotensin receptor blocker
+ASCA aberrant subclavian artery
+ASCVD atherosclerotic cardiovascular disease
+ASI aortic size index
+AVR aortic valve replacement
+BAAI blunt traumatic abdominal aortic injury
+BAV bicuspid aortic valve
+Abbreviation Meaning/Phrase
+BP blood pressure
+BSA body surface area
+BTAI blunt traumatic aortic injury
+BTTAI blunt traumatic thoracic aortic injury
+CMR cardiac magnetic resonance
+CoA coarctation of the aorta
+CT computed tomography
+CTA computed tomographic angiography
+DBP diastolic blood pressure
+DMARD disease-modifying anti-rheumatic drug
+ECG electrocardiogram
+EVAR endovascular abdominal aortic aneurysm repair
+FID focal intimal disruption
+FDA US Food and Drug Administration
+FDG-PET fluorodeoxyglucose–positron emission tomography
+FEVAR fenestrated endovascular aortic repair
+GCA giant cell arteritis
+HRQOL health-related quality of life
+HTAD heritable thoracic aortic disease
+ICU intensive care unit
+IMH intramural hematoma
+IRAD International Registry of Acute Aortic Dissection
+LDL low-density lipoprotein
+LVV large vessel vasculitis
+MR magnetic resonance
+MRA magnetic resonance angiography
+MRI magnetic resonance imaging
+nsHTAD nonsyndromic heritable thoracic aortic disease
+PAD peripheral artery disease
+PAU penetrating atherosclerotic ulcer
+PET positron emission tomography
+rAAA ruptured abdominal aortic aneurysm
+RCT randomized controlled trial
+REBOA resuscitative endovascular balloon occlusion of the aorta
+rEVAR endovascular repair for rAAA
+SMA superior mesenteric artery
+SBP systolic blood pressure
+SCI spinal cord injury
+TAA thoracic aortic aneurysm
+TAAA thoracoabdominal aortic aneurysm
+TAAD thoracic aortic aneurysm and dissection
+TAD thoracic aortic disease
+TAR total arch replacement
+TEE transesophageal echocardiography
+TEVAR thoracic endovascular aortic repair
+TTE transthoracic echocardiography
+VSRR valve-sparing root replacement
+Downloaded from http://ahajournals.org by on May 30, 2026
+=== PAGE 7 ===
+e340
+Isselbacher et al 2022 ACC/AHA Aortic Disease Guideline
+CLINICAL STATEMENTS  
+AND GUIDELINES December 13, 2022 Circulation. 2022;146:e334–e482. DOI: 10.1161/CIR.0000000000001106
+2. NORMAL ANATOMY, ABNORMAL 
+ANATOMY, AND DEFINITIONS
+2.1. Normal Aortic Anatomy
+The aorta is the largest artery in the body and can be 
+divided into 5 main anatomic segments (Figure 1): the 
+root or sinus segment, which extends from the aortic 
+valve annulus to the sinotubular junction; the ascend-
+ing thoracic aorta, which extends from the sinotubular 
+junction to the innominate artery; the aortic arch, which 
+extends from the innominate to the left subclavian artery; 
+the descending thoracic aorta, which extends from the 
+left subclavian artery to the diaphragm; and the abdomi-
+nal aorta, which extends from the diaphragm to the level 
+of the aortic bifurcation.
+The aortic wall is composed of 3 layers (Figure 2): a 
+thin inner intima, a thicker central media, and a thin outer 
+adventitia. The intima consists of a layer of endothelial 
+cells within a matrix of connective tissue. The media 
+consists of smooth muscle cells, elastic fibers, collagen 
+proteins, and polysaccharides sandwiched in >50 layers 
+known as elastic lamellae. The media provides strength 
+and distensibility to the aorta, features that are critical to 
+circulatory function. The adventitia is composed of con-
+nective tissue, fibroblasts, nerves, and the vasa vasorum, 
+which perfuse the outer aortic wall and a substantial por-
+tion of the media.
+2.2. Aortic Landing Zones
+In addition to the standard anatomic descriptors of the 
+aortic anatomy, there is a more technical classification of 
+aortic anatomy that is used to plan, guide, and report aor-
+tic interventions, especially endovascular stent-grafting. 
+Because the clinical success of thoracic aortic endovas-
+cular procedures is influenced by the proximal sealing 
+zone, in this system the thoracic and abdominal aorta are 
+divided into 11 landing zones, as detailed in Figure 3.
+Note that Roselli et al 2 have proposed a modifica-
+tion of zone 0, dividing it into 3 subsegments, in which 
+0A extends from the annulus to the distal margin of 
+the highest coronary, 0B extends above the coronary to 
+the distal margin of the right pulmonary artery, and 0C 
+extends from the right pulmonary artery to the distal end 
+of the origin of the innominate artery.
+Table 1. Associated Guidelines
+Title Organization
+Publication Year 
+(Reference)
+Guidelines
+Thoracic endovascular aortic repair for descending thoracic aortic aneurysms SVS 20211
+Valvular heart disease ACC/AHA 20202
+Large vessel vasculitis EULAR 20203
+Blood cholesterol AHA/ACC/AACVPR/AAPA/ABC/ACPM/ADA/AGS/
+APhA/ASPC/NLA/PCNA
+20194
+Congenital heart disease AHA/ACC 20195
+Abdominal aortic aneurysm SVS 20186
+High blood pressure ACC/AHA/AAPA/ABC/ACPM/AGS/APhA/ASH/
+ASPC/NMA/PCNA
+20187
+Lower extremity peripheral artery diseaseA HA/ACC 20178
+Descending thoracic aorta diseases ESVS 20179
+Bicuspid aortic valves statement of clariﬁcation ACC/AHA 201610
+Vascular graft infections, mycotic aneurysms, and endovascular infections AHA 201611
+Endovascular repair of traumatic thoracic aortic injury SVS 201112
+Thoracic aortic diseaseA CCF/AHA/AATS/ACR/ASA/SCA/SCAI/SIR/STS/
+SVM
+201013
+Coronary and other atherosclerotic vascular diseaseA HA/ACC 200614
+Acute type A aortic dissection AATS 202115
+Type B aortic dissection STS 202216
+AACVPR indicates American Association of Cardiovascular and Pulmonary Rehabilitation; AAPA, American Academy of Physician Assistants; AATS, American As-
+sociation for Thoracic Surgery; ABC, Association of Black Cardiologists; ACC, American College of Cardiology; ACCF, American College of Cardiology Foundation; 
+ACPM, American College of Preventive Medicine; ACR, American College of Radiology; ADA, American Diabetes Association; AGS, American Geriatrics Society; 
+AHA, American Heart Association; APhA, American Pharmacists Association; ASA, American Society of Anesthesiologists; ASH, American Society of Hematology; 
+ASPC, American Society for Preventive Cardiology; ESVS, European Society for Vascular Surgery; EULAR, European League Against Rheumatism; NLA, National 
+Lipid Association; NMA, National Medical Association; PCNA, Preventive Cardiovascular Nurses Association; SCA, Society of Cardiovascular Anesthesiologists; 
+SCAI, Society for Cardiovascular Angiography and Interventions; SIR, Society of Interventional Radiology; STS, Society of Thoracic Surgeons; SVM, Society for 
+Vascular Medicine; and SVS, Society for Vascular Surgery.
+Downloaded from http://ahajournals.org by on May 30, 2026

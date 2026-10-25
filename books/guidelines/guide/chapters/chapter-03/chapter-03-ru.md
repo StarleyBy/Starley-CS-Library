@@ -1,4 +1,4 @@
-# Рекомендации ESC 2023 по ведению пациентов с инфекционным эндокардитом
+# 🦠 <span class="luminous-red">Инфекционный эндокардит</span> <span class="luminous-amber">2023</span> (<span class="luminous-blue">ESC</span>)
 
 <details class="med-details"><summary>
 

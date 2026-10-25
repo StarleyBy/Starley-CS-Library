@@ -1,0 +1,46 @@
+{
+  "schemaVersion": 1,
+  "id": "esc-hf-2026.rt21-anxiety-depression-frailty",
+  "guidelineId": "esc-hf-2026",
+  "number": "Recommendation Table 21",
+  "type": "recommendations",
+  "title": {
+    "en": "Recommendations for anxiety, depression, and frailty",
+    "ru": "Рекомендации по тревоге, депрессии и старческой астении (хрупкости)"
+  },
+  "tags": [
+    "anxiety",
+    "depression",
+    "frailty",
+    "psychological-health",
+    "multidisciplinary-care",
+    "personalized-care"
+  ],
+  "source": {
+    "expectedRows": 1
+  },
+  "i18nStatus": {
+    "ru": "reviewed"
+  },
+  "sections": [
+    {
+      "id": "sec-anxiety-depression-frailty",
+      "title": {
+        "en": "Recommendations for anxiety, depression, and frailty (see Evidence Tables 90 and 91)",
+        "ru": "Рекомендации по тревоге, депрессии и старческой астении (хрупкости) (см. Доказательные таблицы 90 и 91)"
+      },
+      "rows": [
+        {
+          "id": "r01",
+          "text": {
+            "en": "Assessment of anxiety, depression and frailty should be considered in patients with HF to support the development of personalized care plans and to identify factors that may contribute to adverse outcomes.",
+            "ru": "Оценку тревоги, депрессии и старческой астении (хрупкости / frailty) следует рассматривать у пациентов с СН для поддержки разработки персонализированных планов ведения и выявления факторов, которые могут способствовать неблагоприятным исходам."
+          },
+          "class": "IIa",
+          "level": "C",
+          "refs": [909, 914, 915, 920, 923]
+        }
+      ]
+    }
+  ]
+}

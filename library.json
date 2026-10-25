@@ -67,14 +67,15 @@
             { "folder": "handbook-of-cardiac-anatomy" }
       ]
     },
-     {
-      "id": "cardiac echo",
-      "title": "Cardiac Echo",
-      "path": "books/cardiac-echo",
-      "books": [
-            { "folder": "Echo6" }
-      ]
-    },
+      {
+        "id": "cardiac echo",
+        "title": "Cardiac Echo",
+        "path": "books/cardiac-echo",
+        "books": [
+          { "folder": "Echo6" },
+          { "folder": "eacvi-echo-handbook" }
+        ]
+      },
     {
       "id": "ecg",
       "title": "ECG",

@@ -1,0 +1,310 @@
+<details class="med-details"><summary>
+
+## 6. NSTE-ACS: Routine Invasive or Selective Invasive Initial Approach</summary><div class="details-content">
+
+### 6.1 Rationale and Timing for a Routine Invasive or Selective Invasive Approach
+Management of non–ST-segment elevation acute coronary syndromes (NSTE-ACS) requires risk-directed decision-making regarding diagnostic coronary angiography and subsequent revascularization:
+* **Routine Invasive Strategy:** In patients with confirmed NSTE-ACS who are at intermediate or high risk of death or ischemic events, an initial routine invasive approach (diagnostic catheterization with intent to revascularize) is recommended (Class 1, Level of Evidence A) to reduce refractory angina, recurrent hospitalizations, and long-term ischemic complications.
+* **Immediate Invasive Strategy ($< 2\text{ hours}$):** Urgent coronary angiography is recommended for patients presenting with:
+  1. Refractory or recurrent angina despite intensive medical therapy;
+  2. Hemodynamic instability or cardiogenic shock;
+  3. Life-threatening ventricular arrhythmias (sustained VT or VF);
+  4. Dynamic new ST-segment depression or transient ST-segment elevation;
+  5. Mechanical complications or acute acute heart failure with new or worsening mitral regurgitation.
+* **Early Invasive Strategy ($< 24\text{ hours}$):** An early invasive approach within 24 hours of hospital presentation is reasonable (Class 2a, Level A) in stable high-risk patients, defined by:
+  - Elevated cardiac troponin temporal rise/fall;
+  - GRACE risk score $> 140$;
+  - Dynamic ST-segment or T-wave ischemic changes.
+* **Selective Invasive (Ischemia-Guided) Strategy:** In low-risk patients (e.g., GRACE risk score $< 109$, TIMI risk score $0\text{ to }1$, normal serial troponins and ECGs), or those with severe noncardiac comorbidities where revascularization would not improve functional status or survival, noninvasive functional or anatomical testing (CCTA, stress imaging) is recommended before deciding on catheterization.
+* **Class 3 (Harm):** A routine invasive strategy is **not recommended** in patients with extensive comorbidities (e.g., advanced hepatic, renal, or pulmonary failure, end-stage malignancy) where procedural morbidity and bleeding hazards clearly outweigh any potential ischemic benefit.
+
+![Figure 7: Selection of Routine vs Selective Invasive Strategy in Patients With Confirmed NSTE-ACS](images/fig07_selection_routine_vs_selective_invasive.jpg)
+
+![Figure 8: Selection of Timing of Invasive Strategy in Patients With Confirmed NSTE-ACS](images/fig08_selection_timing_invasive_strategy_nste_acs.jpg)
+
+
+
+#### Table 15: Relative Contraindications for a Routine Invasive Approach in ACS
+
+| Relative Contraindication |
+|---|
+| High risk for bleeding on DAPT |
+| Severe thrombocytopenia (platelet count <50 × 10⁹/L) |
+| Advanced kidney disease (not on dialysis) |
+| Acute renal failure |
+| Limited (<1-2 y) life expectancy |
+| Advanced dementia |
+| Known coronary anatomy that precludes PCI and/or CABG surgery |
+| Patient preference |
+
+
+### Recommendation Table 18 — Recommendations for Rationale and Timing for a Routine Invasive or Selective Invasive Approach
+
+**Routine Invasive Versus Selective Invasive Strategy**
+
+| Recommendations | Class | Level |
+|---|:---:|:---:|
+| In patients with NSTE-ACS who are at intermediate or high risk of ischemic events and are appropriate candidates for revascularization, an invasive approach with the intent to proceed with revascularization is recommended during hospitalization to reduce MACE. | **I** | **A** |
+| In patients with NSTE-ACS who are at low risk of ischemic events, either a routine invasive or selective invasive approach is recommended to help identify those who may require revascularization and to reduce MACE. | **I** | **A** |
+
+**Timing of Coronary Angiography for Those in Whom an Invasive Approach Is Planned**
+
+| Recommendations | Class | Level |
+|---|:---:|:---:|
+| In patients with NSTE-ACS who have refractory angina or hemodynamic or electrical instability, an immediate invasive strategy with intent to perform revascularization is indicated to reduce MACE. | **I** | **C-LD** |
+| In patients with NSTE-ACS who are at high risk of ischemic events, it is reasonable to choose an early invasive strategy (within 24 hours) to reduce MACE. | **IIa** | **B-R** |
+| In patients with NSTE-ACS who are not at high risk and are intended for an invasive strategy, it is reasonable to perform angiography before hospital discharge to reduce MACE. | **IIa** | **B-R** |
+
+
+</div></details>
+
+<details class="med-details"><summary>
+
+## 7. Catheterization Laboratory Considerations in ACS</summary><div class="details-content">
+
+### 7.1 Vascular Access Approach for PCI
+* **Radial Artery Access Preferred:** In patients with ACS undergoing percutaneous coronary intervention (PCI), **radial artery access** is recommended in preference to femoral artery access (Class 1, Level of Evidence A). Landmark trials (RIVAL, MATRIX) and large meta-analyses demonstrate that transradial intervention significantly reduces access-site bleeding, vascular complications, blood transfusion requirements, and all-cause mortality, particularly in STEMI and high-risk NSTE-ACS cohorts.
+* Femoral access should be reserved for cases with anatomical radial artery failure, extreme tortuosity, severe radial spasm, or when large-bore mechanical circulatory support devices (e.g., Impella, ECMO) are concurrently required.
+
+
+
+### Recommendation Table 19 — Recommendation for Vascular Access Approach for PCI
+
+**Vascular Access Approach for PCI**
+
+| Recommendations | Class | Level |
+|---|:---:|:---:|
+| In patients with ACS undergoing PCI, a radial approach is preferred to a femoral approach to reduce bleeding, vascular complications, and death. | **I** | **A** |
+
+
+### 7.2 Use of Aspiration Thrombectomy
+* **Routine Use Harmful / No Benefit:** Routine manual aspiration thrombectomy prior to primary PCI in STEMI is **not recommended** (Class 3: No Benefit, Level of Evidence A). Large-scale prospective randomized clinical trials (TOTAL [$n=10{,}732$] and TASTE [$n=7{,}244$]) demonstrated that routine aspiration thrombectomy did not reduce cardiovascular mortality, recurrent MI, or stent thrombosis, but was associated with a statistically significant increase in the risk of stroke or transient ischemic attack (TOTAL trial).
+* **Selective / Bailout Thrombectomy:** Aspiration thrombectomy may be considered in carefully selected cases only as a bailout maneuver for massive residual intracoronary thrombus burden or refractory no-reflow following stent deployment/balloon dilation (Class 2b, Level C-LD).
+
+
+
+### Recommendation Table 20 — Recommendation for Use of Aspiration Thrombectomy
+
+**Use of Aspiration Thrombectomy**
+
+| Recommendations | Class | Level |
+|---|:---:|:---:|
+| Among patients with STEMI undergoing PPCI, manual aspiration thrombectomy should not be performed routinely prior to PCI given lack of clinical benefit. | **III-no-benefit** | **A** |
+
+
+### 7.3 Use of Intracoronary Imaging
+Intravascular imaging modalities—including **optical coherence tomography (OCT)** and **intravascular ultrasound (IVUS)**—have transformed procedural precision and diagnostic clarity in ACS:
+* **Procedural Guidance:** In patients with ACS undergoing coronary stent implantation, procedural guidance using IVUS or OCT is recommended (Class 2a, Level of Evidence A). Imaging guidance ensures accurate reference vessel sizing, optimal stent expansion, identification of malapposition, and detection of edge dissections, resulting in significantly lower rates of target vessel failure, stent thrombosis, and cardiac death (supported by RENOVATE-COMPLEX-PCI, OCTOBER, and ILUMIEN IV trials).
+* **Diagnostic Clarification:** Intracoronary imaging is invaluable for defining underlying culprit lesion morphology—such as distinguishing plaque rupture from plaque erosion, identifying calcified nodules, or diagnosing spontaneous coronary artery dissection (SCAD) and myocardial infarction with nonobstructive coronary arteries (MINOCA).
+
+
+
+### Recommendation Table 21 — Recommendation for Use of Intracoronary Imaging
+
+**Use of Intracoronary Imaging**
+
+| Recommendations | Class | Level |
+|---|:---:|:---:|
+| In patients with ACS undergoing coronary stent implantation in left main artery or in complex lesions, intracoronary imaging with intravascular ultrasound (IVUS) or optical coherence tomography (OCT) is recommended for procedural guidance to reduce ischemic events. | **I** | **A** |
+
+
+### 7.4 Management of Multivessel CAD in ACS
+Multivessel coronary artery disease (MVD) is present in approximately 40% to 50% of STEMI and 50% to 60% of NSTE-ACS patients:
+
+#### 7.4.1 Multivessel CAD in STEMI
+* **Hemodynamically Stable Patients:** In selected, hemodynamically stable patients with STEMI and multivessel disease, **complete revascularization** of non-infarct-related (non-culprit) arteries with PCI is recommended (Class 1, Level of Evidence A). Staged PCI of non-culprit lesions may be performed during the index hospitalization or within 45 days after discharge, as demonstrated by the COMPLETE trial ($n=4{,}041$), which showed a significant 26% reduction in cardiovascular death or new myocardial infarction ($7.8\%\text{ vs }10.5\%$, $P=0.004$).
+* **Timing of Non-Culprit PCI:** Non-culprit PCI may be performed at the time of primary PCI or as a staged procedure during index hospitalization (Class 2a, Level B-R).
+* **Complex Anatomy / CABG:** In patients with STEMI and complex multivessel disease (e.g., severe unprotected left main disease, high SYNTAX score) not amenable to PCI, urgent coronary artery bypass graft (CABG) surgery is indicated after Heart Team evaluation (Class 2a, Level B-NR).
+* **Cardiogenic Shock (Class 3: Harm):** In patients with STEMI complicated by cardiogenic shock, routine immediate PCI of non-culprit arteries during primary PCI is **not recommended** (Class 3: Harm, Level B-R), driven by the CULPRIT-SHOCK trial which demonstrated higher 30-day mortality and renal replacement therapy with immediate multivessel PCI compared to culprit-only PCI ($54.7\%\text{ vs }45.9\%$, $P=0.01$).
+
+
+
+### Recommendation Table 22 — Recommendations for Management of Multivessel CAD in STEMI
+
+**Management of Multivessel CAD in STEMI**
+
+| Recommendations | Class | Level |
+|---|:---:|:---:|
+| In selected, hemodynamically stable patients with STEMI and multivessel disease (MVD), after successful PCI of the infarct-related artery, PCI of significantly stenosed noninfarct-related arteries is recommended to reduce the risk of death or MI and improve angina-related quality of life (QOL). | **I** | **A** |
+| In appropriate patients with STEMI and complex MVD, after successful PCI of the infarct-related artery, elective CABG surgery for significantly stenosed noninfarct-related arteries involving the left anterior descending artery or left main disease is reasonable to reduce the risk of cardiovascular events. | **IIa** | **C-EO** |
+| In selected hemodynamically stable patients with STEMI and low-complexity MVD (those not intended for CABG surgery), multivessel PCI of significantly stenosed noninfarct-related arteries at the time of PPCI may be preferred over a staged approach to reduce the risk of cardiovascular events. | **IIb** | **B-R** |
+| In patients with STEMI complicated by cardiogenic shock, routine PCI of a noninfarct-related artery at the time of PPCI should not be performed because of the higher risk of death or renal failure. | **III-harm** | **B-R** |
+
+
+#### 7.4.2 Multivessel CAD in NSTE-ACS
+* **Heart Team Consultation:** In patients with NSTE-ACS and multivessel disease, the mode of revascularization (PCI versus CABG) should be determined by an interdisciplinary Heart Team assessing anatomical complexity (SYNTAX score), surgical risk (STS score), presence of diabetes mellitus, left ventricular ejection fraction, and patient preferences (Class 1, Level B-NR).
+* **Complete Revascularization:** In stable patients with NSTE-ACS and multivessel CAD, complete revascularization is recommended (Class 1, Level B-R), supported by the FIRE trial demonstrating reduced cardiovascular death and MI in elderly ACS patients treated with complete physiology-guided revascularization.
+* **Staged PCI Approach:** Non-culprit revascularization may be performed either during the index catheterization or as a staged in-hospital or outpatient procedure (Class 2a, Level B-R).
+* **Cardiogenic Shock:** In NSTE-ACS complicated by cardiogenic shock, non-culprit PCI during the index procedure should not be routinely performed (Class 3: Harm, Level B-R).
+
+
+
+#### Table 16: Considerations for Choice of Coronary Revascularization Strategy for Patients With NSTE-ACS and MVD^[a]
+
+| In patients with NSTE-ACS and MVD, CABG surgery may be preferred over multivessel PCI in any of the following situations: |
+|---|
+| Significant left main coronary stenosis with high-complexity CAD |
+| Multivessel CAD with complex or diffuse CAD |
+| Diabetes mellitus and MVD with the involvement of the LAD |
+| Multivessel CAD or complex left main CAD with severe left ventricular dysfunction |
+
+
+### Recommendation Table 23 — Recommendations for Management of Multivessel CAD in NSTE-ACS
+
+**Mode of Revascularization in Multivessel CAD**
+
+| Recommendations | Class | Level |
+|---|:---:|:---:|
+| In patients with NSTE-ACS with MVD, the mode of revascularization (CABG or multivessel PCI) should be based on the disease complexity and patient’s comorbidities. | **I** | **C-EO** |
+
+**Multivessel CAD and Candidates for PCI**
+
+| Recommendations | Class | Level |
+|---|:---:|:---:|
+| In stable patients with NSTE-ACS with MVD but without left main stenosis who are not intended for CABG surgery and undergoing culprit-lesion PCI, PCI of significant nonculprit lesions (at the time of the index procedure or as a staged procedure) is recommended to reduce the risk of MACE. | **I** | **B-R** |
+| In patients with NSTE-ACS in whom multivessel PCI is being considered, physiological assessment of a nonculprit stenosis may be considered to guide revascularization decisions. | **IIb** | **B-R** |
+| In patients with NSTE-ACS complicated by cardiogenic shock, routine PCI of a nonculprit artery at the time of index procedure should not be performed because of the higher risk of death or kidney failure. | **III-harm** | **B-R** |
+
+
+</div></details>
+
+<details class="med-details"><summary>
+
+## 8. Cardiogenic Shock Management</summary><div class="details-content">
+
+### 8.1 Revascularization in ACS With Cardiogenic Shock
+Cardiogenic shock complicates 5% to 10% of ACS cases and remains the leading cause of in-hospital death:
+* **Emergency Culprit Revascularization:** In patients with ACS complicated by cardiogenic shock or hemodynamic instability, emergency revascularization of the culprit coronary artery (via primary PCI or emergency CABG) is strongly recommended irrespective of the time delay from symptom onset (Class 1, Level of Evidence B-R). The landmark SHOCK trial demonstrated that early emergency revascularization yields significant long-term survival advantages (6-year survival 32.8% vs 19.6%).
+* **Culprit-Only Strategy during Acute Phase:** In patients presenting with ACS and cardiogenic shock, routine immediate PCI of non-culprit arteries is **harmful** and **not recommended** (Class 3: Harm, Level B-R). In the CULPRIT-SHOCK trial ($n=706$), immediate multivessel PCI significantly increased 30-day all-cause mortality and renal failure requiring dialysis compared to culprit-lesion-only PCI. Non-culprit revascularization should only be performed in staged fashion once shock has resolved, or acutely if an identifiable second vessel displays critical TIMI flow 0/1 with ongoing extensive ischemia.
+
+
+
+### Recommendation Table 24 — Recommendations for Revascularization in ACS With Cardiogenic Shock
+
+**Revascularization in ACS With Cardiogenic Shock**
+
+| Recommendations | Class | Level |
+|---|:---:|:---:|
+| In patients with ACS and cardiogenic shock or hemodynamic instability, emergency revascularization of the culprit vessel by PCI or with CABG is indicated to improve survival, irrespective of time from symptom onset. | **I** | **B-R** |
+| In patients with ACS complicated by cardiogenic shock, routine PCI of a noninfarct-related artery at the time of PPCI should not be performed because of the higher risk of death or renal failure. | **III-harm** | **B-R** |
+
+
+### 8.2 Mechanical Circulatory Support (MCS) in ACS and Cardiogenic Shock
+The landscape of temporary mechanical circulatory support (tMCS) has evolved with paradigm-shifting clinical trial data:
+* **Microaxial Left Ventricular Flow Pump (Impella CP):** In carefully selected patients with STEMI-related cardiogenic shock (SCAI stage C, D, or E), routine implantation of a microaxial flow pump is reasonable to reduce 180-day all-cause mortality (Class 2b, Level of Evidence B-R). The landmark DanGer Shock trial ($n=355$) demonstrated that routine microaxial flow pump placement reduced 180-day mortality from 58.5% to 45.8% (hazard ratio 0.74, 95% CI 0.55–0.99; $P=0.04$). However, this survival advantage is accompanied by significantly higher risks of severe bleeding, limb ischemia, vascular injury, and renal replacement therapy, emphasizing the need for meticulous vascular access, ultrasound guidance, and institutional shock team protocols.
+* **Bridge to Surgery for Mechanical Complications:** In patients with mechanical complications of ACS (acute ventricular septal rupture or severe papillary muscle rupture with acute mitral regurgitation), temporary MCS (e.g., intra-aortic balloon pump [IABP], Impella, or venoarterial ECMO) is reasonable as a hemodynamic bridge to emergency surgery (Class 2a, Level B-NR).
+* **Routine IABP (Class 3: No Benefit):** In patients with acute myocardial infarction complicated by cardiogenic shock *without* mechanical complications, routine placement of an intra-aortic balloon pump (IABP) is **not recommended** (Class 3: No Benefit, Level of Evidence A). The randomized IABP-SHOCK II trial ($n=600$) established that routine IABP did not improve 30-day, 1-year, or 6-year mortality or hemodynamic parameters compared to standard medical therapy.
+
+
+
+### Recommendation Table 25 — Recommendations for MCS in Patients With ACS and Cardiogenic Shock
+
+**MCS in Patients With ACS and Cardiogenic Shock**
+
+| Recommendations | Class | Level |
+|---|:---:|:---:|
+| In selected patients with STEMI and severe or refractory cardiogenic shock, insertion of a microaxial intravascular flow pump is reasonable to reduce death. | **IIa** | **B-R** |
+| In patients with mechanical complication of ACS, short-term MCS devices are reasonable for hemodynamic stabilization as a bridge to surgery. | **IIa** | **B-NR** |
+| In patients with AMI and cardiogenic shock, the routine use of intra-aortic balloon pump (IABP) or venoarterial extracorporeal membrane oxygenation (VA-ECMO) is not recommended due to a lack of survival benefit. | **III-no-benefit** | **B-R** |
+
+
+</div></details>
+
+<details class="med-details"><summary>
+
+## 9. ACS Complications</summary><div class="details-content">
+
+### 9.1 Mechanical Complications of Myocardial Infarction
+Mechanical complications occur in $< 1\%$ of reperfused ACS cases but carry catastrophic mortality ($> 40\text{--}80\%$ without surgical intervention). They typically develop within the first 1 to 14 days post-MI:
+* **Clinical Presentation:** Acute hemodynamic collapse, sudden pulmonary edema, new harsh holosystolic murmur (ventricular septal rupture or acute mitral regurgitation), or electromechanical dissociation / cardiac tamponade (free wall rupture).
+* **Emergency Multidisciplinary Care:** Patients with mechanical complications must immediately be evaluated by an interdisciplinary Heart Team (cardiac surgery, interventional cardiology, advanced heart failure, and critical care) and transferred to a high-volume surgical center (Class 1, Level B-NR).
+* **Emergency Echocardiography:** Transthoracic echocardiography (TTE) or transesophageal echocardiography (TEE) should be performed immediately to confirm diagnosis, characterize anatomical defect size, assess biventricular function, and evaluate pericardial effusion.
+* **Definitive Repair:** Emergency surgical or transcatheter repair is recommended for ventricular septal rupture (VSR) and acute papillary muscle rupture / flail leaflet causing severe mitral regurgitation (Class 1, Level B-NR). Free wall rupture requires immediate emergency pericardial decompression and surgical cardiorrhaphy.
+* **Preoperative Hemodynamic Support:** Initiation of temporary mechanical circulatory support (IABP, Impella, or VA-ECMO) is reasonable to achieve afterload reduction, stabilize end-organ perfusion, and bridge the patient to definitive surgery (Class 2a, Level B-NR).
+
+![Figure 9: Mechanical Complications of Myocardial Infarction](images/fig09_mechanical_complications_mi.jpg)
+
+
+
+### Recommendation Table 26 — Recommendations for Mechanical Complications
+
+**Mechanical Complications of ACS**
+
+| Recommendations | Class | Level |
+|---|:---:|:---:|
+| Patients with a mechanical complication of ACS should be managed in a facility with cardiac surgical expertise. | **I** | **C-EO** |
+| In patients with a mechanical complication of ACS, short-term MCS devices are reasonable for hemodynamic stabilization as a bridge to surgery. | **IIa** | **B-NR** |
+
+
+### 9.2 Electrical Complications and Prevention of Sudden Cardiac Death After ACS
+Ventricular arrhythmias and conduction system disturbances are frequent acute complications of ACS:
+* **Secondary Prevention ICD:** In patients experiencing sustained ventricular tachycardia (VT) or ventricular fibrillation (VF) occurring **$> 48\text{ hours}$** after acute MI, implantable cardioverter-defibrillator (ICD) therapy is recommended for secondary prevention (Class 1, Level of Evidence A), provided the arrhythmia is not solely attributable to acute transient, reversible myocardial ischemia or reinfarction.
+* **Primary Prevention Prophylactic ICD:**
+  - Prophylactic ICD implantation is indicated in patients with persistent left ventricular ejection fraction (LVEF) $\le 35\%$ and NYHA class II or III heart failure symptoms (or LVEF $\le 30\%$ with NYHA class I symptoms) measured at least **$40\text{ days}$** after MI (or at least **$90\text{ days}$** after surgical or percutaneous revascularization) while on optimal guideline-directed medical therapy (Class 1, Level of Evidence A).
+  - Routine early prophylactic ICD implantation ($< 40\text{ days}$ post-MI) is **not recommended** (Class 3: No Benefit, Level B-R), as the DINAMIT and IRIS randomized trials demonstrated that while early ICDs reduced arrhythmic deaths, non-arrhythmic mortality was increased, yielding no overall survival advantage.
+* **Wearable Cardioverter-Defibrillator (WCD):** In selected patients early after MI with severe LV dysfunction (LVEF $\le 35\%$) or awaiting delayed ICD reassessment, a wearable cardioverter-defibrillator may be considered as a temporary protective bridge (Class 2b, Level B-R; VEST trial).
+* **Conduction Disturbances:** High-grade atrioventricular (AV) block or sinus node arrest during acute inferior MI is frequently transient and responds to atropine or temporary pacing. In contrast, new-onset bundle branch block or bifascicular block with anterior MI indicates extensive septal necrosis and warrants close hemodynamic and electrophysiological surveillance.
+
+
+
+#### Table 17: LVEF and Patient Characteristics Defining an Indication for Prophylactic ICD Implantation for Primary Prevention in Ischemic Heart Disease
+
+| LVEF | Patient Category: All Patients Should Have Expected Survival of ≥1 y |
+|---|---|
+| ≤30% | NYHA class I, II, or III |
+| 31%-35% | NYHA class II or III |
+| ≤40% | Inducible VT |
+
+
+### Recommendation Table 27 — Recommendations for Electrical Complications and Prevention of Sudden Cardiac Death After ACS
+
+**Ventricular Arrhythmias**
+
+| Recommendations | Class | Level |
+|---|:---:|:---:|
+| In patients post MI, implantable cardioverter-defibrillator (ICD) implantation is recommended in selected patients with an LVEF ≤40% (Table 17) at least 40 days post MI and at least 90 days postrevascularization to reduce death. | **I** | **A** |
+| In patients post ACS, ICD implantation is reasonable in patients with clinically relevant ventricular arrhythmias >48 hours and within 40 days post MI to improve survival. | **IIa** | **C-EO** |
+| In patients early after MI, usefulness of a temporary wearable cardioverter-defibrillator is uncertain in patients with an LVEF ≤35% to improve survival. | **IIb** | **B-R** |
+
+**Bradyarrhythmias**
+
+| Recommendations | Class | Level |
+|---|:---:|:---:|
+| In patients presenting with an AMI with sustained evidence of second-degree Mobitz type II atrioventricular block, high-grade atrioventricular block, alternating bundle-branch block, or third-degree atrioventricular block (persistent or infranodal), permanent pacing is indicated. | **I** | **B-NR** |
+
+
+### 9.3 Pericarditis Management After MI
+Pericarditis after myocardial infarction occurs either early (peri-infarction pericarditis, within days of extensive transmural necrosis) or late (Dressler syndrome / post-cardiac injury syndrome, weeks to months post-MI, autoimmune etiology):
+* **Diagnostic Criteria:** Diagnosis requires at least 2 of 4 classic criteria: (1) positional chest pain (sharp, pleuritic, improved by sitting up and leaning forward); (2) pericardial friction rub; (3) dynamic ECG changes (widespread ST-segment elevation with PR depression); (4) new or worsening pericardial effusion on echocardiography.
+* **First-Line Pharmacotherapy:** High-dose **aspirin** ($650\text{ to }1000\text{ mg}$ orally every 6 to 8 hours) combined with **colchicine** ($0.5\text{ to }0.6\text{ mg}$ once or twice daily for 3 months) is the standard recommended regimen.
+* **Avoidance of NSAIDs and Glucocorticoids:** Nonsteroidal anti-inflammatory drugs (e.g., ibuprofen, indomethacin) and systemic corticosteroids should be strictly avoided in the acute peri-infarction window, as experimental and clinical data indicate they impair myocardial scar formation, increase infarct thinning, and elevate the risk of free wall myocardial rupture.
+
+
+
+#### Table 18: Clinical Criteria for Diagnosis of Pericarditis
+
+| Diagnosis Is Made With Presence of Pleuritic Chest Pain and ≥1 of the Following Criteria: |
+|---|
+| Friction pericardial rub on auscultation |
+| Electrocardiographic evidence such as classic PR-segment depression or diffusive concave ST-segment elevations, or in the setting of MI, persistent ST-segment elevations or dynamic T-wave changes |
+| New or growing pericardial effusion on echocardiography |
+
+
+#### Table 19: Additional Therapy for Persistent/Late Pericarditis Symptoms
+
+| Medical Therapy | Dosing Schedule |
+|---|---|
+| High-dose aspirin | 500-1000 mg every 6-8 h until symptoms improve |
+| Colchicine | 0.5-0.6 mg once or twice daily for 3 mo |
+
+
+### 9.4 Management of Left Ventricular Thrombus After MI
+Left ventricular (LV) mural thrombus develops in up to 15% of patients with large anterior STEMI and apical akinesis/dyskinesis:
+* **Detection:** Echocardiography with ultrasound enhancing agents (contrast) or cardiac magnetic resonance (CMR) imaging provides high diagnostic sensitivity and specificity.
+* **Anticoagulation Regimen:** Therapeutic anticoagulation with an oral **direct oral anticoagulant (DOAC)** (apixaban, rivaroxaban) or **vitamin K antagonist (warfarin)** (target INR $2.0\text{--}3.0$) is recommended for a minimum duration of **3 to 6 months**.
+* **DAPT De-escalation:** Concomitant antiplatelet therapy must be minimized to reduce severe bleeding. In patients requiring DAPT after PCI who develop LV thrombus, transition to single antiplatelet therapy (aspirin or clopidogrel) combined with oral anticoagulation is strongly advised after 1 to 4 weeks.
+* **Repeat Imaging:** Repeat echocardiography or CMR is recommended prior to discontinuing anticoagulation to verify complete thrombus resolution and recovery of regional apical wall motion.
+
+
+
+</div></details>

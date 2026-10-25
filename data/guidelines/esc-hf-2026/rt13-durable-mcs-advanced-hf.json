@@ -1,0 +1,65 @@
+{
+  "schemaVersion": 1,
+  "id": "esc-hf-2026.rt13-durable-mcs-advanced-hf",
+  "guidelineId": "esc-hf-2026",
+  "number": "Recommendation Table 13",
+  "type": "recommendations",
+  "title": {
+    "en": "Recommendations for durable mechanical circulatory support in advanced heart failure",
+    "ru": "Рекомендации по длительной механической поддержке кровообращения при терминальной (тяжелой) сердечной недостаточности"
+  },
+  "tags": [
+    "durable-mcs",
+    "lvad",
+    "advanced-hf",
+    "destination-therapy",
+    "btt",
+    "btc",
+    "btr",
+    "histopathology",
+    "explanted-heart"
+  ],
+  "source": {
+    "expectedRows": 2
+  },
+  "i18nStatus": {
+    "ru": "reviewed"
+  },
+  "sections": [
+    {
+      "id": "sec-durable-mcs-advanced-hf",
+      "title": {
+        "en": "Recommendations for durable mechanical circulatory support in advanced heart failure (see Evidence Table 74)",
+        "ru": "Рекомендации по длительной механической поддержке кровообращения при терминальной (тяжелой) сердечной недостаточности (см. Доказательную таблицу 74)"
+      },
+      "rows": [
+        {
+          "id": "r01",
+          "text": {
+            "en": "Durable MCS (LVAD) is recommended in selected^[c] patients with advanced HFrEF, despite FMT and GDIT, as BTT, BTC, BTR, or as destination therapy to improve symptoms and reduce the risk of death.",
+            "ru": "Длительная МПК (LVAD) рекомендуется отобранным^[c] пациентам с терминальной СНнФВ, несмотря на FMT и GDIT, в качестве BTT, BTC, BTR или в качестве постоянной терапии (destination therapy) для облегчения симптомов и снижения риска смерти."
+          },
+          "class": "I",
+          "level": "C",
+          "refs": [604, 611, 613, 620, 621]
+        },
+        {
+          "id": "r02",
+          "text": {
+            "en": "Histopathological examination of explanted heart tissue from LVAD or heart transplantation surgery should be considered in patients with non-ischaemic HF to identify an aetiological diagnosis that may be treatable or facilitate family screening.",
+            "ru": "Гистопатологическое исследование ткани эксплантированного сердца при операции имплантации LVAD или трансплантации сердца должно рассматриваться у пациентов с неишемической СН для установления этиологического диагноза, который может быть курабельным или облегчить семейный скрининг."
+          },
+          "class": "IIa",
+          "level": "C",
+          "refs": [616, 618]
+        }
+      ]
+    }
+  ],
+  "footnotes": {
+    "c": {
+      "en": "Eligibility criteria are reported in Table 16.",
+      "ru": "Критерии отбора приведены в Таблице 16."
+    }
+  }
+}

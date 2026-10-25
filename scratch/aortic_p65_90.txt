@@ -1,0 +1,2904 @@
+
+=== PAGE 65 ===
+December 13, 2022 Circulation. 2022;146:e334–e482. DOI: 10.1161/CIR.0000000000001106e398
+Isselbacher et al 2022 ACC/AHA Aortic Disease Guideline
+CLINICAL STATEMENTS  
+AND GUIDELINES
+1 B-NR
+2. In patients with unruptured AAA who have 
+symptoms that are attributable to the aneu-
+rysm, repair is recommended to reduce the 
+risk of rupture.7, 8
+2b C-LD
+3. In patients with unruptured saccular AAA, 
+intervention to reduce the risk of rupture may 
+be reasonable.9
+2b C-LD
+4. In patients with unruptured AAA and aneu-
+rysm growth of ≥0.5 cm in 6 months, repair 
+to reduce the risk of rupture may be reason-
+able.1-5
+Synopsis
+One of the most significant risk factors for continued 
+aneurysm growth and rupture is the maximum diameter. 
+Thresholds for AAA repair must balance the expected 
+risk of rupture against the risk of operative interven-
+tion. Historically, the risk of rupture was reported to be 
+0.5% to 5% for aneurysms <5 cm in maximum diameter, 
+3% to 15% for aneurysms 5 cm to 6.9 cm, and ≥30% 
+for aneurysms ≥8 cm. 10 Multiple trials that are now >2 
+decades old evaluated the use of early repair of AAAs 
+measuring 4.0 cm to 5.4 cm via open or endovascular 
+means. All found no survival benefit attributable to early 
+repair and but did find an increased risk of subsequent 
+reintervention. These studies and others have found that 
+rupture does occur at smaller diameters for women; thus, 
+size thresholds for men and women differ to account 
+for these observed differences. 6,11 Newer data highlight 
+other considerations, such as aortic indexing, which may 
+better predict aneurysm rupture risk. Lastly, although lim-
+ited data exist for the natural history of saccular AAAs, 
+available data suggest that their morphologic features 
+may make them more likely to become symptomatic, 
+rupture at smaller diameters, or both than fusiform AAAs.
+Recommendation-Specific Supportive Text
+1. Clinical trials conducted in the late 1990s and 
+early 2000s, including the UKSAT (UK Small 
+Aneurysm Trial) and ADAM (Aneurysm Detection 
+and Management) trial for early open aneurysm 
+repair and CAESAR (Comparison of surveillance 
+vs. Aortic Endografting for Small Aneurysm Repair) 
+and PIVOTAL (Positive Impact of endoVascular 
+Options for Treating Aneurysm earLy) trials for early 
+endovascular repair, did not find a survival benefit 
+for repair of aortic aneurysms measuring 4.0 cm 
+to 5.4 cm. 1-5 Although long-term outcomes in the 
+UKSAT group seemed to show better survival rates 
+in patients in the early open surgery group, this was 
+thought to be attributable to higher rates of smok-
+ing cessation in the early surgery group compared 
+with the surveillance group.2,3 Based on these data, 
+balancing the risk of intervention versus the risk 
+of rupture, a threshold of ≥5.5 cm is acceptable 
+for men with infrarenal AAA. In the UKSAT study, 
+which included more women than the previous 
+studies, women were found to have higher rates 
+of aneurysm rupture and higher rates of aneu-
+rysm-related deaths than men. 2,3 The mean maxi-
+mum aneurysm diameter at rupture was 5.0 cm in 
+women and 6.0 cm in men. More recent data high-
+light a different method for quantifying aneurysm 
+rupture risk by indexing aneurysm size to the BSA 
+(ASI equals aneurysm diameter [cm]/BSA [m2]); in 
+women, ASI has been shown to be more predictive 
+of rupture risk than is maximum diameter.12 Further 
+research will help clarify whether ASI is a better 
+metric for aneurysm repair thresholds than maxi-
+mum diameter.12
+2. Approximately 6% to 22% of treated aneurysms 
+are symptomatic but unruptured. Symptoms that 
+are considered high risk for impending rupture 
+include pain in the back, abdomen, or flank, and 
+sometimes radiating to the groin, which is attrib-
+utable to the AAA. Patients presenting with such 
+symptoms should be admitted to an ICU for arte-
+rial BP monitoring, tight BP control, medical opti-
+mization, and AAA repair, ideally in 24 to 48 hours 
+to reduce risk of free rupture. Other symptoms 
+that warrant expedited, although not necessarily 
+urgent AAA repair, include tenderness to palpation 
+overlying the AAA in the abdomen, back, or flank, 
+embolism (eg, blue toe syndrome) or compressive 
+symptoms (eg, obstructive uropathy). Observational 
+studies show that patients treated for symptomatic 
+aneurysms have higher mortality and morbidity 
+rates than those treated electively.7, 8 Although tim-
+ing of repair of symptomatic aneurysms remains 
+controversial, most studies have reported out-
+comes of symptomatic aneurysms repaired during 
+a patient’s index operation, with some studies find-
+ing that performing surgery on a nonemergency 
+basis and potentially optimizing patient’s cardiore-
+spiratory status during their hospitalization may be 
+advantageous.8,13-15
+3. Saccular AAAs are rare and, consequently, there 
+are limited natural history data. In a Dutch regis-
+try of patients treated for fusiform and saccular 
+AAAs, researchers found that saccular aneurysms 
+appeared more common in women and were more 
+likely to be symptomatic at smaller sizes than fusi-
+form aneurysms. 9 Of 7 659 patients with AAA, 
+6.1% had saccular AAA. Of patients with saccular 
+aneurysms and acute presentation, 25% had diam-
+eters <5.5 cm, and 8.4% had diameters <4.5 cm. 
+In contrast, only 8.1% and 0.6% of patients with 
+fusiform AAA presenting acutely had diameters 
+<5.5 cm and <4.5 cm, respectively. In their 2017 
+guidelines on AAA, 16 the Society for Vascular 
+Recommendations for the Threshold for AAA Repair (Continued)
+COR LOE Recommendations
+Downloaded from http://ahajournals.org by on May 30, 2026
+=== PAGE 66 ===
+Circulation. 2022;146:e334–e482. DOI: 10.1161/CIR.0000000000001106 December 13, 2022 e399
+Isselbacher et al 2022 ACC/AHA Aortic Disease Guideline
+CLINICAL STATEMENTS 
+AND GUIDELINES
+Surgery recommended elective repair of patients 
+presenting with saccular AAA, although size guid-
+ance is lacking because of limited natural history 
+data. Clearly, the decision to intervene must be 
+informed by the patient’s individual anatomy.
+4. Pooled analysis from thousands of patients 
+included in AAA surveillance studies from North 
+America, Western Europe, and East Asia showed 
+that, although aneurysm growth is highly variable, 
+growth rates range from 1.5 mm/y to 2 mm/y for 
+those with AAA of 3.0 cm to 3.9 cm and from 3.3 
+mm/y to 5.7 mm/y in AAA of 4.0 cm to 5.9 cm 
+at baseline.17 ,18 The 4 major trials evaluating effi-
+cacy of early open and endovascular treatment of 
+AAA for small aneurysms all excluded patients with 
+aneurysms that grew ≥7 mm in 6 months or >10 
+mm in 12 months, given concern for increased risk 
+of rupture. Thus, balancing the risks, aneurysms 
+with size increases of ≥0.5 cm in 6 months or ≥1 
+cm in 1 year are considered to be rapidly growing 
+and may warrant consideration of repair.
+6.5.5.4. Open Versus Endovascular Repair of AAA
+Recommendations for Open Versus Endovascular Repair of AAA
+Referenced studies that support the recommendations are 
+summarized in the Online Data Supplement.
+COR LOE Recommendations
+1 A
+1. In patients with nonruptured AAA with low 
+to moderate operative risk and who have 
+anatomy suitable for either open or EVAR, a 
+shared decision-making process weighing the 
+risks and benefits of each approach is recom-
+mended.1-11
+1 B-NR
+2. In patients undergoing elective endovascular 
+repair for nonruptured AAA, adherence to 
+manufacturer’s instructions for use is recom-
+mended.12-16
+2a B-NR
+3. In patients with nonruptured AAA and a high 
+perioperative risk, EVAR is reasonable to 
+reduce the risk of 30-day morbidity, mortality, 
+or both.9,10
+2a B-NR
+4. For patients with nonruptured AAA, a 
+moderate to high perioperative risk, and 
+anatomy suitable for an FDA-approved 
+fenestrated endovascular device, endovas-
+cular repair is reasonable over open repair 
+to reduce the risk of perioperative compli-
+cations. 10,11,17 ,18
+Synopsis
+Options for repair of AAA have substantially grown since 
+the first description of open repair in 1952.19 In particular, 
+EVAR has made it possible to treat patients who may 
+have never qualified for open surgery because of signifi-
+cant cardiopulmonary comorbidities, renal comorbidities, 
+or both. With the abundance of options, clinicians must 
+remain informed regarding empirical data that may favor 
+one approach over another in a particular patient and 
+consider patient preferences for surgical options when 
+data support either approach. Historic RCTs evaluating 
+outcomes of EVAR versus open repair showed an ini-
+tial survival advantage for EVAR that dissipates at differ-
+ent time intervals. 1,3-8 Contemporary investigations have 
+shown a steady decline in mortality rates for EVAR in 
+general20 and a much larger perioperative survival ben-
+efit from EVAR versus open repair. 9 However, similar to 
+historic clinical trials, these survival benefits can dissipate 
+over time and must be weighed against suboptimal sur-
+veillance that can occur in those treated with EVAR, lead-
+ing to higher rates of late rupture and associated death.21 
+For repair of juxtarenal aneurysms using FDA-approved 
+fenestrated devices, available data show similar findings 
+(ie, an initial survival benefit that may wane over time).10,11
+Recommendation-Specific Supportive Text
+1. Pooled data from 7 RCTs evaluating all-cause 
+death after EVAR versus open surgery for infrare-
+nal AAA repair show that the risk of perioperative 
+mortality is much lower in those treated with EVAR 
+(OR, 0.36; 95% CI, 0.2–0.66). This advantage per-
+sists at 6 months, after which survival from both 
+approaches become equivalent. Moreover, after 8 
+years, those treated with EVAR have a higher risk of 
+aneurysm-related death (hazard ratio, 5.12; 95% CI, 
+1.6–16.4), secondary intervention (hazard ratio, 2.1; 
+95% CI, 1.7–2.7), aneurysm rupture (OR 5; 95% 
+CI, 1.1–23.3), and death attributable to rupture (OR 
+3.6; 95% CI, 1.9–6.8) compared with open repair.22 
+Observational studies, such as the large propensity-
+matched study evaluating EVAR and open repair in a 
+Medicare population, found that the survival advan-
+tage for EVAR lasted longer among older patients.9 
+For complex repairs, a similar survival advantage 
+is seen for fenestrated repair over complex open 
+repairs in the first 30 days after surgery. More data 
+are necessary to identify longer-term outcomes and 
+to determine for which groups one approach may 
+be more advantageous. Given the current clini-
+cal equipoise, engaging the patient in a process of 
+shared decision-making is recommended, as further 
+detailed in Section 5, “Shared Decision-Making.”
+2. Patient-specific anatomical characteristics of the 
+aorta, such as neck diameter, length, and angulation, 
+and iliac seal diameter, length, and vessel access, 
+must all be considered in endovascular repair. Some 
+observational studies show that treating aneurysms 
+outside of the manufacturer’s instructions for use 
+increases failure rates, resulting in increased risks 
+of graft migration, endoleaks, late rupture, and 
+deaths.12,13 For example, Shanzer et al12 found that 
+in a multicenter retrospective study of >10 000 
+patients undergoing EVAR between 1999 and 
+2008, patients with AAA treated with devices off 
+instructions for use had significantly higher rates 
+Downloaded from http://ahajournals.org by on May 30, 2026
+=== PAGE 67 ===
+December 13, 2022 Circulation. 2022;146:e334–e482. DOI: 10.1161/CIR.0000000000001106e400
+Isselbacher et al 2022 ACC/AHA Aortic Disease Guideline
+CLINICAL STATEMENTS  
+AND GUIDELINES
+of sac enlargement. More recently, Herman et al 13 
+found that any deviation from instructions for use 
+increased risk of graft-related adverse events (haz-
+ard ratio, 1.8; 95% CI, 1.05–3.1). A meta-analysis 
+of 17 studies found that patients treated with non-
+instructions for use higher overall mortality rates 
+(hazard ratio, 1.2; 95% CI, 1.02–1.42; P =0.03).14 
+Given these findings, in most patients, treating off 
+instructions for use in elective AAA repair is dis-
+couraged. Those who have been treated off instruc-
+tions for use warrant closer follow-up because of 
+higher rates of failure from endoleaks, graft migra-
+tion, and late rupture.
+3. EVAR-2 (UK Endovascular Aneurysm Repair 2) 
+was an RCT that evaluated outcomes of EVAR in 
+high-risk patients. Patients were enrolled if they 
+were determined to be unfit for open surgery, with 
+fitness assessed using cardiac, respiratory, and renal 
+criteria.23 In these patients, the trial initially showed 
+that EVAR did not improve survival compared with 
+the control of no intervention; however, more than 
+a decade later, those treated with EVAR had sig-
+nificantly lower aneurysm-related mortality (hazard 
+ratio, 0.55; 95% CI, 0.34–0.91). 24,25 Contemporary 
+analyses of outcomes in high-risk patients show 
+that perioperative death after EVAR has markedly 
+decreased (eg, 9% in EVAR-2 versus 1.9% in the 
+ACS national registry).26 Furthermore, in evaluating 
+a propensity-matched Medicare population, postop-
+erative complications that are more likely to affect 
+high-risk patients, such as myocardial infarction, 
+pneumonia, acute renal failure, and need for dialysis, 
+were all significantly less likely to occur after infra-
+renal EVAR compared with open repair.9 In assess-
+ing which patients are “high risk” for elective AAA 
+repair, risk calculators derived using data from the 
+Vascular Quality Initiative and the Vascular Study 
+Group of New England can be helpful in informing 
+discussions with patients about repair options and 
+potentially identify patients for which even EVAR 
+would be of prohibitively high risk.27-29
+4. Recent observational studies aimed to compare 
+outcomes between open and endovascular repair 
+for complex aortic aneurysms. Using propensity 
+score matching, investigators found that periopera-
+tive mortality rates between patients undergoing 
+open repair or FEVAR were similar in those enrolled 
+in the Vascular Quality Initiatives registry (4.7% ver-
+sus 3.3%, respectively, P=0.17).17 Evaluating data 
+from the ACS, Varkevisser et al found much higher 
+odds of 30-day death from open repair compared 
+with FEVAR (OR, 4.9; 95% CI, 1.4–19). 10 The risk 
+of immediate postoperative complications, such as 
+myocardial infarction, acute kidney injury, and the 
+initiation of dialysis, is significantly higher after 
+open complex repair compared with FEVAR. 11,17 ,18 
+However, rates of late reintervention are higher 
+after FEVAR,11,18 as are the rates of persistent renal 
+impairment11 and 3-year mortality rate (excluding 
+perioperative deaths) (hazard ratio, 1.7; 95% CI, 
+1.1–2.6).17 Thus, similar to infrarenal repair, FEVAR 
+may be most beneficial for the moderate- to high-
+risk surgical candidates who are more likely to 
+experience perioperative complications.
+6.5.5.5. Treatment of Concomitant Common Iliac 
+Aneurysms
+Recommendations for the Treatment of Concomitant Common Iliac 
+Aneurysms
+Referenced studies that support the recommendations are 
+summarized in the Online Data Supplement.
+COR LOE Recommendations
+1 C-LD
+1. For patients with asymptomatic small 
+AAA and concomitant common iliac artery 
+aneurysm(s) ≥3.5 cm, elective repair of both 
+abdominal and iliac aneurysms is recom-
+mended.1-4
+1 B-NR
+2. When treating common iliac artery aneu-
+rysms or ectasia as part of AAA repair, 
+preservation of at least 1 hypogastric 
+artery is recommended, if anatomically 
+feasible, to decrease the risk of pelvic 
+ ischemia.5,6
+Synopsis
+The prevalence of common iliac artery aneurysms in the 
+presence of AAA has been reported to be as high as 
+20% to 40% in surveillance studies. 1,2 In patients with 
+both aortic and iliac aneurysms, it is common for an iliac 
+aneurysm to reach a size appropriate for elective repair 
+before the AAA does. Although no randomized studies 
+for iliac aneurysm repair size thresholds exist, in large 
+case series and registry reports, rupture of iliac aneu-
+rysms at diameters <4 cm is rare.3,7 Thus, a repair thresh-
+old of 3.5 cm seems reasonable to balance procedural 
+risks with rupture risk. Furthermore, to achieve adequate 
+AAA repair, repair of iliac artery ectasia or aneurysms 
+often may be required. Consideration of pelvic perfusion 
+is of great importance when managing concomitant iliac 
+disease. In such cases, there is a high risk of ischemic 
+complications from exclusion of internal iliac arteries that 
+can lead to buttock claudication, bowel ischemia, and 
+erectile dysfunction.5,6 For some patients, adequate treat-
+ment of diseased iliac arteries cannot be accomplished 
+without internal iliac artery sacrifice. Thus, individualized 
+treatment plans with shared decision-making are impor-
+tant when treating aorto-iliac aneurysm disease.
+Recommendation-Specific Supportive Text
+1. In a large single-center case series by Huang et al,8 
+438 patients with common iliac artery aneurysms 
+were observed for an average of 3.7 years. Eighty-
+six percent of patients had current or previously 
+Downloaded from http://ahajournals.org by on May 30, 2026
+=== PAGE 68 ===
+Circulation. 2022;146:e334–e482. DOI: 10.1161/CIR.0000000000001106 December 13, 2022 e401
+Isselbacher et al 2022 ACC/AHA Aortic Disease Guideline
+CLINICAL STATEMENTS 
+AND GUIDELINES
+treated AAA. Common iliac artery aneurysms grew 
+at an average rate of 2.9 mm/y, and no iliac aneu-
+rysm ≤3.8 cm ruptured. A multinational retrospective 
+review of patients with internal iliac artery aneu-
+rysms found that 41.7% of individuals had a con-
+comitant AAA. Of 63 patients, 1 patient presented 
+with a ruptured internal iliac artery aneurysm of ≤3 
+cm, and 4 individuals’ iliac aneurysms ruptured at 
+diameters ≤4 cm. Recently published data from the 
+Dutch Surgical Aneurysm Audit showed that of the 
+857 patients with treated iliac artery aneurysms, the 
+median iliac artery aneurysm size at elective repair 
+was 4.3 cm, while ruptured iliac aneurysms had a 
+median diameter of 6.8 cm at presentation.
+2. In a meta-analysis of studies reporting exclusion or 
+preservation of the internal iliac artery, Kouvelos et 
+al5 found an increased pooled occurrence of but-
+tock claudication in those undergoing unilateral 
+(27%) or bilateral (36%) internal iliac artery exclu-
+sion. In a separate meta-analysis, Bosanquet et al6 
+found similar rates of buttock claudication, as well 
+as a 10% occurrence of erectile dysfunction in men. 
+Other ischemic events, such as spinal, bowel, and 
+gluteal ischemia, were rare, occurring at a rate of 
+<1%.6 Another consideration in treating aorto-iliac 
+disease is the risk of late intervention from growth 
+of ectatic or aneurysmal iliac arteries. In a retrospec-
+tive analysis of prospectively collected data, Gibello 
+et al4 found that in patients with AAA undergoing 
+EVAR, after a mean follow-up of 6.2 years, those 
+with common iliac arteries of ≥ 18 mm in diameter 
+had a significantly higher rate of type Ib endoleaks 
+(7 .2% versus 3.2%; P=0.01) and late reinterventions 
+(19% versus 11.8%; P =0.01), leading to higher 
+odds of composite EVAR failure (OR, 1.8; 95% CI, 
+1.2–2.7) and need for reintervention (OR, 1.9; 95% 
+CI, 1.15–3.3). Hassen-Khodja et al10 and Sala et al9 
+found that, after open repair of AAA, common iliac 
+arteries of ≥18 mm in diameter tended to dilate over 
+time, warranting consideration of bifurcated grafting 
+rather than aorto-aortic tube grafting.9,10
+6.5.6. Surveillance After Aneurysm Repair
+6.5.6.1. Surveillance After TAA Repair
+Recommendations for Surveillance After TAA Repair
+Referenced studies that support the recommendations are 
+summarized in the Online Data Supplement.
+COR LOE Recommendations
+1 B-NR
+1. In patients treated with TEVAR, surveillance 
+imaging with CT is recommended after 1 
+month and 12 months and, if stable, annually 
+thereafter.1-5
+2a B-NR
+2. In patients treated with TEVAR, longitudinal 
+surveillance with MRI is a reasonable alterna-
+tive to CT for reduction of long-term radiation 
+exposure or avoidance of an iodinated con-
+trast allergy.6-9
+2a B-NR
+3. In patients treated with open repair of the 
+thoracic aorta without residual aortopathy, 
+surveillance imaging with a CT or MRI within 
+1 year postoperatively and then every 5 years 
+thereafter is reasonable.10-14
+2a C-EO
+4. In patients treated with open repair of the 
+thoracic aorta who have residual aortopa-
+thy or abnormal findings on surveillance 
+imaging, annual surveillance imaging is 
+ reasonable.
+Synopsis
+The role of surveillance imaging after thoracic aneurysm 
+repair is to identify complications of the repair or monitor 
+for progression of residual aortic pathology. CT is gener-
+ally the preferred imaging modality for surveillance imag-
+ing after TEVAR7 ,15; MRI, although generally more limited 
+by metallic artifact, is a reasonable alternative. Open 
+repair of the thoracic aorta is durable. 2,5,10-14 In patients 
+undergoing TEVAR, there is a higher incidence of com-
+plications and reintervention compared with patients 
+undergoing open repair 2,4,5,10-12; TEVAR complications 
+can include endoleak (see Section 2.6, “Classification of 
+Endoleaks”), retrograde type A aortic dissection, stent-
+graft migration, stent-graft fracture or collapse, and an 
+increase in aortic size. 6,7 Complications of open repair 
+that can be detected by surveillance imaging include 
+graft infection and anastomotic pseudoaneurysm. 10,16 
+Additionally, after both open repair and TEVAR, patients 
+may develop progressive aneurysmal dilation of adjacent 
+or remote aortic segments.
+Recommendation-Specific Supportive Text
+1. Use of TEVAR is associated with reintervention 
+rates ranging from 7% to 23%.1,2,4,5 In the Gore TAG 
+study,17 there was an 11% incidence of endoleak18 
+at 30 days, 6% at 1 year, and 9% at 2-year follow-
+up after TEVAR.2,17 A 6-month follow-up study may 
+be useful in detecting a delayed retrograde type A 
+aortic dissection.
+2. MRI has some advantages over CT, including the 
+avoidance of ionizing radiation and iodinated intra-
+venous contrast administration.7, 8 However, MRI is 
+limited by its higher cost, longer acquisition times, 
+lower resolution, and limited visualization of metal-
+lic stent graft components and adjacent structures. 
+MRI has a potential growing role, particularly in 
+patients who are middle aged or younger, in whom 
+the consequences of lifelong surveillance in terms 
+of contrast-induced nephropathy and cumulative 
+radiation dose should be considered.9
+3. Open repair for any segment of the thoracic 
+aorta has proven to be durable in extended 
+Recommendations for Surveillance After TAA Repair (Continued)
+COR LOE Recommendations
+Downloaded from http://ahajournals.org by on May 30, 2026
+=== PAGE 69 ===
+December 13, 2022 Circulation. 2022;146:e334–e482. DOI: 10.1161/CIR.0000000000001106e402
+Isselbacher et al 2022 ACC/AHA Aortic Disease Guideline
+CLINICAL STATEMENTS  
+AND GUIDELINES
+follow-up.10,11,13,14,19 Treatment failure after open 
+repair of either the proximal or distal thoracic aorta 
+requiring reintervention ranges from 1% to 7% 
+in long-term (10-year) follow-up. 10-12 In patients 
+without a genetic syndrome or residual aortopathy 
+shown on a postoperative imaging, surveillance 
+can be done at longer intervals.
+4. The appropriate frequency surveillance imaging 
+in the presence of abnormal findings has neither 
+been studied nor validated but, in such cases, 
+annual surveillance imaging is typical. Patients 
+requiring reintervention have a higher incidence of 
+HTAD.10,16
+6.5.6.2. Surveillance After AAA Repair
+Recommendations for Surveillance After AAA Repair
+Referenced studies that support the recommendations are 
+summarized in the Online Data Supplement.
+COR LOE Recommendations
+1 B-NR
+1. In patients with AAA treated with EVAR, 
+baseline surveillance imaging with CT 
+is recommended at 1 month postopera-
+tively 1,2; if there is no evidence of endoleak 
+or sac enlargement, continued surveil-
+lance with duplex ultrasound at 12 months 
+and then annually thereafter is recom-
+mended. 1,3,4
+2a C-LD
+2. In patients with AAA treated with EVAR who 
+are undergoing annual surveillance imaging 
+duplex ultrasound, additional cross-sectional 
+imaging with CT or MRI of the abdomen and 
+pelvis every 5 years postoperatively is reason-
+able.5-8
+2a C-LD
+3. In patients with AAA treated with EVAR and 
+abnormal findings (Table 21) on any surveil-
+lance duplex ultrasound, additional cross-sec-
+tional imaging with CT or MRI is reasonable.9
+2a C-LD
+4. In patients with AAA treated with complex 
+EVAR, a modified surveillance imaging plan 
+that combines cross-sectional imaging and 
+duplex ultrasound of target vessels is reason-
+able.10,11
+2a C-LD
+5. In patients with AAA who have undergone 
+open repair, surveillance imaging with CT or 
+MRI of the abdominopelvic aorta within 1 year 
+postoperatively and then every 5 years there-
+after is reasonable.5,6
+Synopsis
+The role of routine surveillance after EVAR is to iden-
+tify endoleak, sac growth, endograft migration, or endo-
+graft failure. Although the initial surveillance intervals 
+after EVAR were at 1 month, 6 months, and 12 months 
+postoperatively to be consistent with surveillance imag-
+ing intervals used in FDA-sponsored device trials, more 
+recent data suggest that the 6-month interval can be 
+eliminated if no concerning findings are observed on the 
+1-month imaging (Table 21).1,2
+CT is the gold standard for follow-up imaging after 
+EVAR, but it is expensive, exposes the patient to ionizing 
+radiation, and requires the use of iodinated contrast that 
+is potentially nephrotoxic.12,13 Duplex ultrasound, with or 
+without contrast enhancement, has been shown to be 
+specific for the detection of endoleaks after EVAR 9,14 
+and complex EVAR 15; however, ultrasound is limited in 
+its ability to detect stent migration, fracture, or noncon-
+tiguous aneurysms. MRI has high diagnostic accuracy 
+for endoleaks 16 but must be accompanied by a plain 
+abdominal radiograph to assess for endograft stent frac-
+ture, because MRI cannot accurately visualize the metal-
+lic stent struts.
+The role of routine surveillance after open AAA repair 
+is to prevent late aneurysm rupture and aneurysm-
+related death by detecting para-anastomotic and new 
+aneurysms. Para-anastomotic aneurysms can occur after 
+open AAA repair as a result of anastomotic disruption, 
+leading to pseudoaneurysm formation or progression of 
+aneurysmal disease in the adjacent visceral aorta or iliac 
+arteries.17 Patients with a history of AAA are also at risk 
+of developing an aortic aneurysm in a noncontiguous 
+location.18
+Recommendation-Specific Supportive Text
+1. The incidence of late aortic rupture after EVAR is 
+>5% through 8 years of follow-up.3 Significant risk 
+factors for rupture include endoleak with associ-
+ated aneurysm sac enlargement. 19,20 Endoleaks 
+may be present for 10% to 17% of EVAR at 30 
+days postoperatively. 1,2 In patients without early 
+(30-day) endoleak, the incidence of new endoleak 
+at 6 and 12 months postoperatively is simi-
+lar.1 Earlier detection of an endoleak at 6 vs. 12 
+months is not associated with improved long-term 
+outcomes.1,2
+2. Stent graft fracture and migration is a long-
+term complication after EVAR that occurs in 
+3% to 4% of patients by 4 years postopera-
+tively. 7, 8 Duplex ultrasound has been shown to 
+be specific for the detection of endoleaks after 
+EVAR9,14,15  but is limited in its ability to detect 
+stent migration, fracture, or new noncontiguous 
+aneurysms.
+3. Duplex ultrasound is 95% accurate for measuring 
+aortic aneurysm sac diameter and 100% specific 
+for the detection of type I and type III endoleaks 
+Table 21. A bnormal Findings on Duplex Imaging After EVAR 
+That Should Prompt Additional Imaging
+Aneurysm sac enlargement
+Any endoleak
+Stent graft fracture
+Stent graft migration
+Stent graft separation
+EVAR indicates endovascular abdominal aortic aneurysm repair.
+Downloaded from http://ahajournals.org by on May 30, 2026
+=== PAGE 70 ===
+Circulation. 2022;146:e334–e482. DOI: 10.1161/CIR.0000000000001106 December 13, 2022 e403
+Isselbacher et al 2022 ACC/AHA Aortic Disease Guideline
+CLINICAL STATEMENTS 
+AND GUIDELINES
+(Figure 11) after EVAR but is insufficient for 
+detecting type II endoleaks 9 or for characteriz-
+ing anatomy related to stent graft migration or 
+failure.
+4. Duplex ultrasound has been shown to be a useful 
+modality for surveillance of target branch vessels11 
+after FEVAR. However, complex EVAR involv-
+ing stenting of ≥1of the renovisceral vessels is 
+at higher risk of type III endoleak than standard 
+EVAR10 and may benefit from routine cross-sec-
+tional imaging for surveillance of fenestration sites, 
+branch junctions, and adequacy of flow in the renal 
+and mesenteric arteries.21
+5. Para-anastomotic aneurysms after open AAA 
+repair tend to occur late, with estimated incidence 
+rates of 1%, 6%, and 27% to 35% at 5, 10, and 
+15 years postoperatively, respectively. 5,6 Late aor-
+tic aneurysms in noncontiguous arterial segments 
+from the initial aortic repair have been reported in 
+45% at a mean of 7 years postoperatively. 18 As a 
+result, the Society for Vascular Surgery and the 
+European Society of Cardiology have both recom-
+mended surveillance imaging every 5 years after 
+open AAA repair. 22 No data support the use of 1 
+cross-sectioning imaging modality over another for 
+the surveillance of para-anastomotic aneurysms 
+after open AAA repair.18
+7 . ACUTE AORTIC SYNDROMES
+7 .1. Presentation
+AAS, although uncommon, are associated with life-
+threatening complications and a mortality rate as high 
+as 1% to 2%/h if the AAS is not rapidly identified and 
+appropriate therapy is not instituted promptly.1 The diag-
+nosis of AAS can be challenging, however, because the 
+presenting symptoms overlap with other more common 
+emergency department complaints.Although the clas-
+sic textbook description of AAS is of acute “tearing” or 
+“ripping” pain, patients more commonly report the abrupt 
+onset of severe “sharp” or “stabbing” pain in the chest 
+or back (and sometimes abdomen), maximal at the start, 
+that sometimes radiates. 2-5 Depending on the extent of 
+aortic involvement, patients may present with various 
+additional signs and symptoms (Table 22). Recording a 
+careful history of the presenting symptoms is essential, 
+as is obtaining a detailed family history of TAAs, genetic 
+aortopathies, aortic dissection, or unexplained sudden 
+death.
+BP should be measured in both arms and both lower 
+extremities, to exclude a BP differential resulting from 
+an AAS. One should auscultate for the murmurs of aortic 
+stenosis, perhaps indicating an underlying BAV, and AR, 
+which commonly accompanies type A aortic dissection.
+Table 22. Signs and Symptoms of AAS
+Clinical Signs and Symptoms Cause
+Asymmetric blood pressure (>20 mm Hg) between limbs Compromise of branch artery ﬂow
+Bowel ischemia or gastrointestinal bleed Malperfusion of the celiac or superior mesenteric artery
+Dysphagia Compression of the esophagus
+Dyspnea Compression of trachea or bronchus, congestive heart failure from aortic regurgitation, or 
+cardiac tamponade
+Hemoptysis Vascular rupture into lung parenchyma
+Hoarseness Compression recurrent laryngeal nerve
+Horner’s syndrome Compression of sympathetic chain
+Myocardial ischemia or myocardial infarction Coronary artery involvement by dissection or compression by aneurysm
+New murmur of aortic regurgitation Incomplete aortic valve closure secondary to leaﬂet tethering by the dilated aorta or cusp 
+ prolapse because of dissection into the aortic root
+Oliguria or hematuria (gross) Malperfusion of 1 or both renal arteries
+Paraplegia Spinal malperfusion attributable intercostal artery involvement
+Lower extremity ischemia Malperfusion of iliac artery
+Shock Cardiac tamponade, hemothorax, frank aortic rupture, acute severe aortic regurgitation, severe 
+myocardial ischemia
+Shortness of breath Pericardial effusion, congestive heart failure from acute severe aortic regurgitation, or 
+ hemothorax
+Stroke symptoms Carotid or vertebral artery involved
+Superior vena cava syndrome Compression of the superior vena cava
+Syncope Carotid artery involvement or cardiac tamponade
+AAS indicates acute aortic syndrome.
+Downloaded from http://ahajournals.org by on May 30, 2026
+=== PAGE 71 ===
+December 13, 2022 Circulation. 2022;146:e334–e482. DOI: 10.1161/CIR.0000000000001106e404
+Isselbacher et al 2022 ACC/AHA Aortic Disease Guideline
+CLINICAL STATEMENTS  
+AND GUIDELINES
+7 .2. AAS: Diagnostic Evaluation (Imaging, 
+Laboratory Testing)
+Recommendations for AAS: Diagnostic Evaluation (Imaging, Laboratory 
+Testing)
+COR LOE Recommendations
+1 C-LD
+1. In patients with a suspected AAS, CT is rec-
+ommended for initial diagnostic imaging, given 
+its wide availability, accuracy, and speed, as 
+well as the extent of anatomic detail it pro-
+vides.1-5
+2a C-LD
+2. In patients with a suspected AAS, TEE and 
+MRI are reasonable alternatives for initial 
+diagnostic imaging.1-6
+Synopsis
+A plain chest x-ray is neither sufficiently sensitive nor 
+specific for AAS to be used to be diagnostic, but certain 
+radiographic findings (Table 23) may raise suspicion of 
+aortic dissection or suggest an alternate diagnosis for 
+the patient’s symptoms, in particular when there is previ-
+ous radiography that shows the changes to be new in the 
+interval.1,2,7 Fortunately, CT, TEE, and MRI are all highly 
+accurate for the diagnosis of AAS.3 Aortography is rarely 
+used given its invasive nature and significantly lower 
+sensitivity than the other imaging modalities. 8 Acute 
+aortic dissection risk scoring systems (eg, aortic dissec-
+tion detection risk score [AAD-RS] or aorta simplified 
+score [AORTAs]) can aid in the diagnostic evaluation of 
+patients presenting with AAS (Table 24 and Table 25)5,9-12  
+but have not been uniformly adopted. 4 No biomarkers 
+are considered diagnostic, although in patients with a 
+low previous probability of AAS a nonelevated D-dimer 
+(<500 ng/mL) makes the diagnosis unlikely. Conse-
+quently, integrating a low aortic dissection risk score and 
+a low D-dimer may be a useful strategy to exclude the 
+diagnosis of AAS.13
+Recommendation-Specific Supportive Text
+1. Although the sensitivity and specify of CT, MRI, 
+and TEE are all high, 3 CT has become the pre-
+ferred modality for evaluating most patients with 
+suspected AAS. CT is widely available at all hours 
+in the emergency department and is quick to 
+perform. Not only does it diagnose the underly-
+ing AAS, it also shows the full extent of the dis-
+section and, in some cases, the entry tear site. 
+CT can detect the presence and mechanism of 
+aortic branch vessel involvement as well as vessel 
+patency, signs of malperfusion, pericardial effu-
+sion and hemopericardium, periaortic or medi-
+astinal hematoma, and pleural effusion. Use of 
+electrocardiographic-synchronized CT techniques 
+should be considered when there is a need to 
+accurately depict mediastinal structures (eg, prox-
+imal aorta, coronary ostia). When IMH is present, 
+the extent and thickness of the hematoma can 
+be documented and, when PAUs are present, the 
+presence of and size of pseudoaneurysms can be 
+easily defined.
+2. In general, the choice of the initial imaging modal-
+ity should be based on the patient’s history and 
+clinical presentation, the specific clinical questions 
+to be answered, and the institutional availability, 
+Table 23. Plain Chest X-Ray Suggestive of Aortic Dissection2
+Signs of Aortic Dissection on Chest X-Ray Findings
+Mediastinal widening
+Disruption of the normally distinct contour of the aortic knob
+”Calcium sign,” which appears as a separation of the intimal calciﬁcation 
+from the aortic wall of >5 mm
+Double density appearance within the aorta
+Tracheal deviation to the right
+Deviation of the nasogastric tube to the right
+Reprinted with permission from Strayer et al.2
+Table 24. A ortic Dissection Detection Risk Score (ADD-RS) 
+Items5,14
+High-Risk 
+ Conditions
+High-Risk Pain  
+Features
+High-Risk 
+ Examination 
+ Features
+Marfan syndrome 
+or other connective 
+tissue disease
+Family history of aortic 
+disease
+Known aortic valve 
+disease
+Recent aortic 
+manipulation
+Known thoracic aortic 
+aneurysm
+Chest, back, or 
+abdominal pain 
+described as:
+ Abrupt onset
+ Severe in intensity
+ Ripping or tearing 
+in quality
+Pulse deﬁcit or 
+systolic blood 
+pressure differential
+Focal neurologic 
+deﬁcit (with pain)
+Murmur of aortic 
+regurgitation (new, 
+with pain)
+Hypotension or shock 
+state
+For each risk category, 1 point is assigned if /g1161 risk factors are present. 
+Consequently, the total ADD-RS will range from 0 to 3. An ADD-RS of 0 points 
+is low risk; 1 point is moderate risk; and 2 to 3 points is high risk. Adapted with 
+permission from Hiratzka et al.5 Copyright 2010, American Heart Association, 
+Inc., and American College of Cardiology Foundation.
+Table 25. A orta Simpliﬁed Score (AORTAs)11 Pretest 
+ Probability Assessment Score
+Clinical Item Points
+Hypotension/shock2
+Aneurysm 1
+Pulse deﬁcit 1
+Neurologic deﬁcit1
+Severe pain1
+Sudden-onset pain 1
+The patient is given the number of points corresponding to each clinical item 
+that is positive in the patient’s presentation. The points are summed, and a total 
+score of 0 to 1 point is low-probability of aortic dissection, where a total of 
+/g1162 points is high probability. Reprinted with permission from Morello et al.11
+Downloaded from http://ahajournals.org by on May 30, 2026
+=== PAGE 72 ===
+Circulation. 2022;146:e334–e482. DOI: 10.1161/CIR.0000000000001106 December 13, 2022 e405
+Isselbacher et al 2022 ACC/AHA Aortic Disease Guideline
+CLINICAL STATEMENTS 
+AND GUIDELINES
+experience, and expertise with each of the diag-
+nostic imaging techniques. 6 In certain clinical cir-
+cumstances, for example, patients with a history 
+of an iodinated contrast reaction or patients who 
+are too unstable to travel to the radiology suite, CT 
+may not be preferred. Echocardiography (TEE/
+TTE) is an alternative. TTE is noninvasive, can be 
+performed at the bedside, and may be helpful in 
+eliciting the diagnosis of AAS and quickly identify-
+ing complications of AAS, such as AR or pericardial 
+effusion and tamponade. TEE is preferred to TTE, 
+however, because of its higher sensitivity and bet-
+ter anatomic resolution; TEE can be performed at 
+the bedside in the emergency department or, alter-
+natively, once the patient is in the operating room. 
+MRI is most commonly the third-choice modality, 
+given that it is not readily available, requires skilled 
+interpretation, and has longer acquisition times, as 
+well as the fact it is challenging to provide clini-
+cal care to potentially unstable patients while in 
+an MRI scanner. Consequently, MRI is most often 
+used as a follow-up imaging modality in patients in 
+which there is diagnostic uncertainty. Nevertheless, 
+MRI may be the study of choice in the acute set-
+ting for a stable patient with a contraindication to 
+iodinated contrast.
+7 .3. Medical Management of AAS
+7.3.1. Acute Medical Management of AAS
+Recommendations for Acute Medical Management of AAS
+Referenced studies that support the recommendations are 
+summarized in the Online Data Supplement.
+COR LOE Recommendations
+1 B-NR
+1. In patients presenting to the hospital with 
+AAS, prompt treatment with anti-impulse 
+therapy with invasive monitoring of BP with an 
+arterial line in an ICU setting is recommended 
+as initial treatment to decrease aortic wall 
+stress.1-5
+1 C-LD
+2. Patients with AAS should be treated to an 
+SBP <120 mm Hg or to lowest BP that main-
+tains adequate end-organ perfusion, as well 
+as to a target heart rate of 60 to 80 bpm.3,6
+1 B-NR
+3. In patients with AAS, initial management 
+should include intravenous beta blockers, 
+except in patients with contraindications.2,5,7
+2a B-NR
+In those with contraindications or intolerance 
+to beta blockers, initial management with 
+an intravenous non-dihydropyridine calcium 
+channel blocker is reasonable for heart rate 
+control.1,2,5
+1 C-LD
+4. In patients with AAS, initial management 
+should include intravenous vasodilators if the 
+BP is not well controlled after initiation of 
+intravenous beta-blocker therapy.8
+1 C-EO
+5. Patients with AAS should be treated with pain 
+control, as needed, to help with hemodynamic 
+management.
+Synopsis
+Patients presenting with AAS need to be treated promptly to 
+prevent acute and chronic complications. In all patients with 
+AAS, immediate medical therapy is indicated while consider-
+ing urgent surgical (in patients with type A aortic dissection), 
+endovascular intervention (in patients with type B aortic dis-
+section), or both; medical therapy includes aggressive heart 
+rate and BP management as well as pain control. Studies 
+have shown that, beyond surgical and endovascular treat-
+ment, medical therapy has an important role in decreasing 
+long-term aorta-related adverse events.1,4,9-11 Beta blockers 
+and intravenous vasodilators are the medications most com-
+monly studied for the initial treatment of patients with AAS, 
+with the goal of decreasing aortic wall stress.2,8 A recent 
+large study showed that angiotensin-converting enzyme 
+inhibitors (ACEIs) and ARBs are beneficial in the long-term 
+management of hypertension in patients with aortic dissec-
+tion.5 Statins are used routinely in patients after aortic dis-
+section, although the evidence is not very robust.12
+Recommendation-Specific Supportive Text
+1. There are no randomized studies that have evalu-
+ated different medical treatments in the treatment 
+of AAS, although extensive clinical experience has 
+established the current standard of anti-impulse 
+therapy. This is usually accomplished with a com-
+bination of intravenous beta blockers (eg, esmo-
+lol, metoprolol, and labetalol) and vasodilators (eg, 
+nicardipine, clevidipine, and sodium nitroprusside) 
+with the goal of reducing both heart rate and BP to 
+decrease aortic wall stress.2-5,7 ,8,11
+2. Small, single-center studies have highlighted the 
+importance of reducing heart rate to 60 to 80 bpm 
+and SBP to <120 mm Hg. Experts believe that the 
+lowest BP that does not compromise end-organ 
+function should be targeted.3,11
+3. Intravenous beta blockers have been the mainstay 
+of acute medical treatment, and studies report-
+ing benefits over the long term and emphasizing 
+the importance of continuing this therapy at the 
+time of hospital discharge to improve clinical out-
+comes.1-3,5,7 ,9 Caution should be used in patients 
+with contraindications to beta blockers (eg, acute 
+AR, heart block, or bradycardia). In patients who are 
+intolerant to beta blockers, intravenous non-dihy-
+dropyridine calcium channel blockers (ie, verapamil 
+or diltiazem) are typically used for initial treatment.2
+4. Intravenous vasodilators are useful adjunctive 
+therapy for intravenous beta blockers but should 
+be avoided as initial treatment (before starting beta 
+blockers or calcium channel blockers), given the 
+potential for compensatory tachycardia.8,9
+5. Pain related to AAS can trigger a rise in heart rate 
+and BP, so treating the pain symptoms can help to 
+Downloaded from http://ahajournals.org by on May 30, 2026
+=== PAGE 73 ===
+December 13, 2022 Circulation. 2022;146:e334–e482. DOI: 10.1161/CIR.0000000000001106e406
+Isselbacher et al 2022 ACC/AHA Aortic Disease Guideline
+CLINICAL STATEMENTS  
+AND GUIDELINES
+control the patient’s BP and heart rate. Intravenous 
+opiates are particularly efficacious in this situation. 
+Intravenous nonsteroidal anti-inflammatory drugs, 
+such as ketorolac, may not be suitable because of 
+the risk of inducing hypertension as well as adverse 
+renal effects.
+7.3.2. Subsequent Medical Management of AAS
+Recommendation for Subsequent Medical Management of AAS
+Referenced studies that support the recommendation are summarized 
+in the Online Data Supplement.
+COR LOE Recommendation
+1 B-NR
+1. In patients with AAS, it is recommended to 
+treat with long-term beta blockers (unless 
+contraindicated) to control heart rate and BP 
+to reduce late aortic-related adverse events.1-7 
+Additional antihypertensive agents (particu-
+larly ARBs and ACEIs) should be added, as 
+necessary, to adequately control BP.
+Synopsis
+Patients with AAS with surgical or endovascular treat-
+ment need continued and long-term medical manage-
+ment. Controlling hypertension has consistently been 
+shown to decrease aorta-related adverse events. Recent 
+studies have shown long-term benefit with specific BP 
+agents such as beta blockers, ACEIs, and ARBs.
+Recommendation Supporting Text
+1. Long-term oral antihypertensive regimens that 
+included beta blockers, ACEIs, and ARBs have 
+shown to improve long-term outcomes in patients 
+with AAS treated with both surgical and endovascu-
+lar treatments.1-4 Although calcium channel block-
+ers showed some benefit in patients with type B 
+aortic dissection, further studies in mouse models 
+of Marfan syndrome as well as case control studies 
+in Marfan syndrome and other inherited aortopa-
+thy patients in the GenTAC (Genetically Triggered 
+Thoracic Aortic Aneurysms and Cardiovascular 
+Conditions) registry showed deleterious effects of 
+long-term calcium channel blocker use and, con-
+sequently, it may be best to avoid these agents in 
+patients with Marfan syndrome unless necessary to 
+achieve BP control.8
+7 .4. Surgical and Endovascular Management of 
+Acute Aortic Dissection
+The primary goals of open surgical or endovascu-
+lar stent-graft repair for acute aortic dissection are to 
+prevent (or treat) aortic rupture, prevent retrograde 
+extension of the dissection into the aortic root, prevent 
+antegrade propagation of the dissection into distal yet 
+undissected segments, and alleviate malperfusion syn-
+dromes. Acute aortic dissection management strate-
+gies are therefore “complication specific,” guided by the 
+patient’s signs and symptoms, the presence or absence 
+of complications, and the specific features and con-
+straints of the patient’s aortic and branch vessel anat-
+omy (Figure 21).
+Figure 21. Acute Aortic Dissection: Malperfusion Treatment Options.
+AoD indicates aortic dissection; and TEVAR, thoracic endovascular aortic repair.
+Downloaded from http://ahajournals.org by on May 30, 2026
+=== PAGE 74 ===
+Circulation. 2022;146:e334–e482. DOI: 10.1161/CIR.0000000000001106 December 13, 2022 e407
+Isselbacher et al 2022 ACC/AHA Aortic Disease Guideline
+CLINICAL STATEMENTS 
+AND GUIDELINES
+7.4.1. Acute Type A Aortic Dissection
+7.4.1.1. Initial Surgical Considerations in Acute Type A 
+Aortic Dissection
+Recommendations for Initial Surgical Considerations in Acute Type A 
+Aortic Dissection
+Referenced studies that support the recommendations are 
+summarized in the Online Data Supplement.
+COR LOE Recommendations
+1 B-NR
+1. In patients presenting with suspected or con-
+firmed acute type A aortic dissection, emer-
+gency surgical consultation and evaluation 
+and immediate surgical intervention is recom-
+mended because of the high risk of associated 
+life-threatening complications.1,2
+2a B-NR
+2. In patients presenting with acute type A 
+aortic dissection, who are stable enough 
+for transfer, transfer from a low- to a high-
+volume aortic center is reasonable to improve 
+survival.3,4
+2a B-NR
+3. In patients presenting with nonhemorrhagic 
+stroke complicating acute type A aortic dis-
+section, surgical intervention is reasonable 
+over medical therapy to reduce mortality and 
+improve neurologic outcomes.5,6
+Synopsis
+Acute type A aortic dissection is a life-threatening condi-
+tion because of potential sequelae, including rupture that 
+causes cardiac tamponade, acute severe AR that causes 
+heart failure or shock, compromised coronary artery ostia 
+causing myocardial ischemia, or malperfusion causing 
+end-organ ischemia or infarction, all of which can all be 
+fatal. Suspected or diagnosed acute type A aortic dis-
+section warrants urgent surgical evaluation, because 
+the mortality rate of medical management alone is 2 to 
+3 times that of surgical intervention. 1 Data from IRAD 
+showed that from 1995 to 2013, the surgical mortal-
+ity rate decreased from 25% to 18%, while the medi-
+cal mortality rate remained unchanged at 57%. Surgical 
+intervention mitigates the immediate risk of aortic rup-
+ture/tamponade, corrects AR and myocardial ischemia, 
+and reestablishes flow to malperfused vessels.
+Nevertheless, the benefits of surgery must be weighed 
+against the risks of the surgery itself (ie, a demanding, 
+complex operation in patients who often are physiologi-
+cally compromised). Universally recognized risk factors 
+that increase the surgical mortality rate include shock 
+and tamponade, neurologic or visceral malperfusion, and 
+preoperative myocardial ischemia. 7-9 Although age is a 
+risk factor, elderly patients still benefit from surgery, with 
+superior immediate and midterm outcomes compared 
+with medical therapy.10,11 Short- and midterm outcomes 
+can be equivalent to younger populations,12,13 with circu-
+latory collapse being the primary predictor of long-term 
+survival.14 In patients with significant contraindications to 
+surgery, including frailty, clinical judgment may determine 
+that the risk-benefit ratio favors medical management.
+Recommendation-Specific Supportive Text
+1. The potential sequelae of acute type A aortic dis-
+section, including myocardial infarction, acute AR, 
+cardiac tamponade, aortic rupture, and end-organ 
+malperfusion, are associated with high rates of 
+morbidity and mortality. Given the acuity, unpre-
+dictability, and finality of such events, immediate 
+evaluation for surgical intervention is warranted to 
+reverse any ongoing physiologic compromise and 
+mitigate the risk of fatal events. The mortality rate 
+of unoperated acute type A aortic dissection is 
+1%/h,15 and the time intervals between symptom 
+onset, diagnosis, and surgery have a significant 
+effect, with the highest mortality rate occurring 
+in those undergoing surgery 8 to 12 hours after 
+diagnosis.16 Patients presenting with clinical indi-
+cators of severe physiologic compromise (shock, 
+neurologic deficits, malperfusion, myocardial isch-
+emia) mandate the most immediate consideration 
+for repair as the only potential option for survival.
+2. Patients with acute type A aortic dissection who 
+present with hemodynamic stability have an unpre-
+dictable course because of the inability to predict 
+eventual rupture. Although some studies have sug-
+gested that night-time surgery is associated with a 
+higher mortality rate,17 ,18 other studies have shown 
+no diurnal difference in outcomes,19,20 and all stud-
+ies have shown no difference with weekend sur-
+gery. Surgeon and center experience and resource 
+availability should be considered to ensure optimal 
+outcomes. Despite an inherent delay in the start 
+time of surgery, transfer from low- to high-volume 
+hospitals (one that performs ≥7 aortic root, ascend-
+ing aorta, or transverse arch aortic dissection 
+repairs per year),3 as part of regionalization of care, 
+can result in significantly improved outcomes.3
+3. In patients with cerebral malperfusion, survival is 
+superior with surgery; in patients with acute type A 
+aortic dissection and an acute stroke, the mortal-
+ity rates of surgical versus medical management 
+are 25% to 27% versus 76%, respectively.5,21 Even 
+more strikingly, Estrera et al showed that patients 
+with acute type A aortic dissection who had pre-
+sented with stroke had an operative mortality rate 
+of only 7% and showed no worsening of neuro-
+logic status postoperatively. 6 Although their study 
+and others,6,22 have emphasized the timeliness of 
+the aortic repair in stroke patients, with a cutoff of 
+∼5 to 10 hours (after which neurologic outcomes 
+declined), Fischbein et al 23 found no association 
+between postoperative neurologic improvement 
+and time from onset of neurologic symptoms to 
+surgery. IRAD data revealed that cerebrovascu-
+lar accident and coma resolved in 84% and 79% 
+of patients, respectively, despite mean times to 
+Downloaded from http://ahajournals.org by on May 30, 2026
+=== PAGE 75 ===
+December 13, 2022 Circulation. 2022;146:e334–e482. DOI: 10.1161/CIR.0000000000001106e408
+Isselbacher et al 2022 ACC/AHA Aortic Disease Guideline
+CLINICAL STATEMENTS  
+AND GUIDELINES
+surgery of 12.3 and 13.8 hours, respectively. 24 It 
+should be noted, however, that in 1 recent report of 
+11 patients with acute type A aortic dissection and 
+complete occlusion of an internal carotid artery, all 
+died from cerebral edema and herniation, regard-
+less of management25; consequently, this particular 
+subset of patients may not benefit from surgical 
+intervention.
+7.4.1.2. Management of Malperfusion
+Recommendations for Management of Malperfusion
+Referenced studies that support the recommendations are 
+summarized in the Online Data Supplement.
+COR LOE Recommendations
+1 B-NR
+1. In patients with acute type A aortic dissection 
+presenting with renal, mesenteric, or lower 
+extremity malperfusion, it is recommended to 
+proceed to immediate operative repair of the 
+ascending aorta.1,2
+2a C-LD
+2. In patients with acute type A aortic dissection 
+presenting with clinically significant mesen-
+teric (celiac, SMA) malperfusion, either imme-
+diate operative repair of the ascending aorta 
+or immediate mesenteric revascularization via 
+endovascular or open surgical intervention by 
+those with this expertise before ascending 
+aortic repair is reasonable.3-6
+Synopsis
+Imaging evidence of malperfusion is present in as 
+many as 25% of patients with acute type A aortic 
+dissection but should be distinguished from clini-
+cal evidence of end-organ ischemia, which is often 
+referred to as malperfusion syndrome (Table 26). 
+Malperfusion syndrome is associated with a mortal-
+ity rate of 30.5%, compared with a mortality rate of 
+only 6.2% in those without malperfusion syndrome. 2 
+Mortality rate correlates with the number of branch 
+artery vessels involved 1 as well as the number of mal-
+perfused organs. 7 The combination of pulse deficits 
+(a marker of malperfusion) and hypotension should 
+prompt timely interventions to reestablish vital organ 
+perfusion, because early reperfusion predicts sur-
+vival. 8 The traditional approach to reestablish branch 
+vessel perfusion has been via central aortic repair 
+(ie, at the proximal aortic tear site). However, cardiac 
+and visceral malperfusion portend extremely poor 
+outcomes given the high mortality rate associated 
+with irreversible organ damage. More recent series 
+showed potential to improve outcomes by establish-
+ing end-organ perfusion using endovascular means, 
+before open central aortic repair (with the timing of 
+subsequent open repair decided on a case-by-case 
+basis). 5,8 These procedures may be performed in a 
+hybrid operating room if the requisite resources and 
+personnel are available.
+Recommendation-Specific Supportive Text
+1. In the presence of malperfusion, operative mortal-
+ity rate correlates with the number of malperfused 
+organs. Central aortic repair as the primary strat-
+egy to restore perfusion has reasonable results 
+when renal malperfusion, extremity malperfusion, 
+uncomplicated mesenteric malperfusion, or all of 
+them is present.9 This strategy rapidly mitigates the 
+risk of aortic rupture and corrects any associated 
+coronary malperfusion, AR, and the sequelae of 
+tamponade. After central aortic repair, any residual 
+malperfusion should be assessed with secondary 
+interventions, as needed.
+2. Mesenteric malperfusion is one of the worst 
+complications of acute type A aortic dissection, 
+with an associated mortality rate of 63.2%. 1 
+Consequently, such patients are often man-
+aged with medical therapy alone; yet, in IRAD, 
+the nearly one-third of patients with mesenteric 
+ischemia who were treated without intervention 
+had an in-hospital mortality rate of 95%. 10 For 
+patients with acute type A aortic dissection who 
+present with clinical evidence of mesenteric isch-
+emia, some centers 3,4 have advocated early direct 
+reperfusion strategies (whether via endovascular 
+or open abdominal surgery11), before central aortic 
+repair; other centers continue to advocate for the 
+traditional strategy of central aortic repair first. 1,2 
+Currently, data are limited to help define the best 
+strategy. In IRAD, a surgical and hybrid strategy 
+appears to have superior outcome to medical or 
+endovascular therapy alone. An institution series 
+of endovascular therapy first showed a low aortic 
+repair operative mortality rate of 2.1%; however, 
+only 58% of the cohort underwent open repair, 
+with 24% dying from organ failure and 13% from 
+aortic rupture. Moreover, an endovascular therapy 
+first approach requires expertise in fenestration, 
+to treat dynamic obstruction, and branch stenting, 
+to treat static malperfusion. 5
+Table 26. Clinical Evidence of Malperfusion (“Malperfusion 
+Syndrome”)
+End Organ Clinical Findings
+Cardiac Electrocardiographic changes of ischemia or infarction,  
+troponin elevation, myocardial dysfunction
+Cerebral Stroke and neurologic deﬁcits, coma and altered mental 
+status
+Spinal Paraplegia
+Mesenteric Abdominal pain, bowel ischemia, lactic acidosis, elevation 
+of liver function test results
+Renal Acute kidney injury, oliguria
+Extremity Loss of pulses in /g1161 extremity, sensory or motor dysfunction
+Downloaded from http://ahajournals.org by on May 30, 2026
+=== PAGE 76 ===
+Circulation. 2022;146:e334–e482. DOI: 10.1161/CIR.0000000000001106 December 13, 2022 e409
+Isselbacher et al 2022 ACC/AHA Aortic Disease Guideline
+CLINICAL STATEMENTS 
+AND GUIDELINES
+7.4.1.3. Surgical Repair Strategies in Acute Type A Aortic 
+Dissection
+Recommendations for Surgical Repair Strategies in Acute Type A 
+Aortic Dissection
+Referenced studies that support the recommendations are 
+summarized in the Online Data Supplement.
+COR LOE Recommendations
+Aortic Repair Strategies
+1 B-NR
+1. In patients with acute type A aortic dissection 
+and a partially dissected aortic root but no 
+significant aortic valve leaflet pathology, aortic 
+valve resuspension is recommended over 
+valve replacement.1-5
+1 B-NR
+2. In patients with acute type A aortic dissection 
+who have extensive destruction of the aortic 
+root, a root aneurysm, or a known genetic aor-
+tic disorder, aortic root replacement is recom-
+mended with a mechanical or biological valved 
+conduit.6-9
+2b C-LD
+In selected patients who are stable, valve-
+sparing root repair may be reasonable, when 
+performed by experienced surgeons in a Mul-
+tidisciplinary Aortic Team.10,11
+1 B-NR
+3. In patients with acute type A aortic dissec-
+tion undergoing aortic repair, an open distal 
+anastomosis is recommended to improve 
+survival and increase false-lumen thrombosis 
+rates.12-15
+1 B-NR
+4. In patients with acute type A aortic dissec-
+tion without an intimal tear in the arch or a 
+significant arch aneurysm, hemiarch repair 
+is recommended over more extensive arch 
+replacement.16-18
+2b C-LD
+5. In patients with acute type A aortic dissec-
+tion and a dissection flap extending through 
+the arch into the descending thoracic aorta, 
+an extended aortic repair with antegrade 
+stenting of the proximal descending thoracic 
+aorta may be considered to treat malperfu-
+sion and reduce late distal aortic complica-
+tions.19,20
+Perfusion and Cannulation Strategies
+2a B-NR
+6. In patients with acute type A aortic dissection 
+undergoing surgical repair, axillary cannula-
+tion, when feasible, is reasonable over femoral 
+cannulation to reduce the risk of stroke or 
+retrograde malperfusion.21,22
+2a B-NR
+7 . In patients with acute type A aortic dis-
+section undergoing surgical repair who 
+require circulatory arrest, cerebral perfusion 
+is reasonable to improve neurologic out-
+comes.23-25
+2a B-NR
+8. In patients with acute type A aortic dis-
+section undergoing surgical repair, direct 
+aortic26,27 or innominate artery 28 cannula-
+tion with imaging guidance is reasonable 
+as an alternative to femoral or axillary 
+ cannulation.29-31
+Synopsis
+To reduce the risk of late aortic complications, surgical 
+resection should include the tear site, any aneurysmal 
+aorta, and the proximal-most extent of the dissection. 
+A nonresected primary tear is a risk factor for reop-
+eration.32 A more extensive replacement that involves 
+the aortic root, arch, or both adds operative complexity, 
+ischemic time, and potentially circulatory arrest time but 
+may reduce the risk of future aortic dilation, aortic insuf-
+ficiency, or repeat dissection. An individualized approach 
+to aortic root management is based on pathology and 
+general condition. Younger patients are more likely to 
+have proximal extension or root involvement and may 
+have greater potential for late complications, given their 
+longer life expectancy. VSRR has been described with 
+excellent outcomes, but long-term reoperative risk is a 
+concern.33
+Similarly, untreated aortic arch or descending thoracic 
+aortic tissue may be at risk of aneurysmal enlargement 
+and the need for reintervention, particularly with acute 
+type A aortic dissection that extends into the descending 
+thoracic aorta. An open distal anastomosis allows direct 
+arch inspection for intimal tears and resection of the 
+lesser curve of the arch (ie, hemiarch technique) with-
+out increased operative death. 12,13,34 In-hospital death is 
+lower with hemiarch repair than with total arch replace-
+ment. Antegrade stenting of the proximal descending 
+thoracic aorta may promote false-lumen thrombosis and 
+positive remodeling,35-37 but long-term aortic-related data 
+are scarce.
+Involvement of the aortic arch by the aortic dissection 
+can influence both interventional strategies and clinical 
+outcomes. Various interventional approaches, such as 
+extended open arch replacement (with or without a fro-
+zen elephant trunk),44 hybrid techniques, or endovascular 
+stenting have been described. 38-40 Aortic arch exclusion 
+with emerging endovascular stents graft devices is a 
+field in evolution.
+Recommendation-Specific Supportive Text
+1. Most single-center retrospective studies and 
+an IRAD study found no difference in peri-
+operative mortality or survival when compar-
+ing root replacement with a more limited root 
+repair or supracommissural replacement. 2,5,7 ,41,42 
+However, a standardized and structured algo-
+rithmic approach showed a mortality rate of only 
+8.1% with aortic valve resuspension as the pre-
+ferred approach, whenever feasible, compared 
+with 23.1% with root replacement. 43 Studies on 
+freedom from reoperation are mixed, 1,7 ,41,44-46 but 
+2 meta-analyses have shown excellent long-
+term durability of aortic valve resuspension, with 
+reoperation rates 1.4% to 2.1% per patient-year 
+and low thromboembolism and bleeding rates 
+(1.4%/patient-year). 3,4
+2. An aneurysmal root at the time of acute type A 
+aortic dissection repair is at long-term risk of 
+Downloaded from http://ahajournals.org by on May 30, 2026
+=== PAGE 77 ===
+December 13, 2022 Circulation. 2022;146:e334–e482. DOI: 10.1161/CIR.0000000000001106e410
+Isselbacher et al 2022 ACC/AHA Aortic Disease Guideline
+CLINICAL STATEMENTS  
+AND GUIDELINES
+progressive root dilation, secondary aortic insuffi-
+ciency, and the need for reoperation. Specifically, 
+an aortic root diameter of >4.5 cm has been shown 
+to be a risk factor for late reintervention.6 A valved 
+conduit is one option for root replacement but, if 
+the aortic valve leaflet quality is good, the aortic 
+insufficiency is primarily attributable to sinus dila-
+tion, and the surgeon is experienced in VSRR, a 
+VSRR may be reasonable for younger patients.
+3. In the development of the IRAD risk score, right 
+hemiarch replacement was an independent predic-
+tor for a favorable surgical outcome. 15 NORCAAD 
+(Nordic Consortium for Acute T ype A Aortic 
+Dissection) found that the open-distal technique 
+was associated with better short- and midterm sur-
+vival than the clamp-on technique, although it was 
+also associated with greater rates of cerebrovas-
+cular complications.12 Lawton et al14 found superior 
+survival when all 3 components—no cross-clamp 
+use, deep hypothermic circulatory arrest, and only 
+antegrade perfusion after aortic perfusion—were 
+used, compared with the absence of any of these 
+components. Open distal anastomosis is also asso-
+ciated with higher rates of complete false-lumen 
+thrombosis.13
+4. Single-institution study findings that total arch 
+replacement (TAR) is safe and promotes aor-
+tic remodeling 47, 4 8 have not been resulted in 
+larger studies. GERAADA (German Registry for 
+Acute Aortic Dissection T ype A) found a trend 
+toward lower mortality rates with hemiarch ver-
+sus TAR (18.7% versus 25.7%; P =0.07); higher 
+rates of excessive bleeding and rethoracotomy 
+in the total arch group; and, in patients without 
+preoperative neurologic deficits, lower mortal-
+ity rates for hemiarch than TAR (14.1% versus 
+24%, respectively; P=0.02). 49 A n STS database 
+study of 12 years of acute type A aortic dissec-
+tion repairs showed significantly lower operative 
+death with hemiarch than with TAR (16% ver-
+sus 27%; P <0.001). 50 Two meta-analyses have 
+found significantly lower mortality rates with 
+partial compared with TAR. 16,18 Across 3 meta-
+analyses, the long-term freedom from aortic 
+reoperation does not appear to be necessarily 
+superior with TAR. 16-18
+5. Comparative data on use of antegrade stenting 
+of the descending thoracic aorta in the setting of 
+surgical acute type A aortic dissection repair are 
+limited. In several noncomparative meta-analyses, 
+the mortality rate was ∼8% to 12%, the stroke 
+rate was 5% to 7%, and the SCI rate was 2% to 
+3.5%.36,51,52 False-lumen thrombosis rates appear 
+favorable,35 but the reintervention rate was not 
+zero, and the long-term benefit for aortic reopera-
+tion or aortic-related mortality remained undefined. 
+In a series that included 19 patients with DeBakey 
+type I acute type A aortic dissection and clinical 
+malperfusion, antegrade stenting was associated 
+with resolution of malperfusion in 16 patients 
+(84.2%).19 In patients requiring total arch replace-
+ment, a frozen elephant trunk has higher adverse 
+events in acute type A aortic dissection than in 
+elective repairs. The stent length should be <15 
+cm and, to avoid SCI, coverage should not extend 
+to T8.53
+6. An STS database study 50 and 2 meta-analy-
+ses21,22 have found an increased risk of stroke 
+and short-term mortality with femoral compared 
+with axillary cannulation. However, femoral can-
+nulation is more expedient and is considered the 
+primary arterial site in patients with hemodynamic 
+instability mandating immediate cannulation, or 
+with anatomic features precluding axillary can-
+nulation. If initial femoral cannulation is required 
+for these reasons, it is recommended to centrally 
+canulate after the distal anastomosis has been 
+completed, to maximize reestablishment of true 
+lumen flow.
+7 . Some form of cerebral perfusion, whether ante-
+grade or retrograde, has been shown to improve 
+neurologic outcomes, when compared with deep 
+hypothermic circulatory arrest alone. 23 Antegrade 
+cerebral perfusion is associated with both lower 
+long-term mortality rates and neurologic dys-
+function rates. Unilateral and bilateral antegrade 
+cerebral perfusion appear to have similar out-
+comes, except in cases of prolonged circula-
+tory arrest (>30–50 minutes), in which case 
+bilateral antegrade cerebral perfusion may be 
+advantageous.24,54-56
+8. Several series for surgery for acute type A aortic 
+dissection have reported direct aortic cannulation 
+using a TEE-guided Seldinger technique. When 
+performed correctly, this technique has the benefit 
+of rapid establishment of cardiopulmonary bypass 
+with true lumen flow. However, when the patient 
+is stable, its safety relative to axillary cannulation 
+is controversial, 57 because stroke rates with this 
+technique are as high as 20% in some series. 29 
+Rosinski et al found that patients undergoing 
+direct aortic cannulation were more hemodynami-
+cally unstable and had more extended repairs; 
+however, even in multivariable logistic regression, 
+it was associated with a higher risk of stroke (OR, 
+2.3; 95% CI, 1.05–5.1) Further, cerebral perfu-
+sion by some means other than axillary perfusion 
+will be required for longer circulatory arrest cases. 
+Innominate artery cannulation is another option 
+that provides access for antegrade cerebral perfu-
+sion and appears to be safe in acute type A aortic 
+dissection.58-60
+Downloaded from http://ahajournals.org by on May 30, 2026
+=== PAGE 78 ===
+Circulation. 2022;146:e334–e482. DOI: 10.1161/CIR.0000000000001106 December 13, 2022 e411
+Isselbacher et al 2022 ACC/AHA Aortic Disease Guideline
+CLINICAL STATEMENTS 
+AND GUIDELINES
+7.4.2. Management of Acute Type B Aortic 
+Dissection
+Recommendations for the Management of Acute Type B Aortic 
+Dissection
+Referenced studies that support the recommendations are 
+summarized in the Online Data Supplement.
+COR LOE Recommendations
+1 B-NR
+1. In all patients with uncomplicated acute 
+type B aortic dissection, medical therapy is 
+recommended as the initial management 
+strategy.1-3
+1 C-LD
+2. In patients with acute type B aortic dissection 
+and rupture or other complications (Table 27), 
+intervention is recommended.4-6
+1 C-EO
+In patients with rupture, in the presence of 
+suitable anatomy, endovascular stent grafting, 
+rather than open surgical repair, is recom-
+mended.
+2a C-LD
+In patients with other complications, in the 
+presence of suitable anatomy, the use of 
+endovascular approaches, rather than open 
+surgical repair, is reasonable.4-6,7
+2b B-R
+3. In patients with uncomplicated acute type B 
+aortic dissection who have high-risk anatomic 
+features (Table 28), endovascular manage-
+ment may be considered.8,9
+Synopsis
+Although acute complicated type B aortic dissection his-
+torically has been treated with open repair, endovascular 
+therapy has largely supplanted open repair given lower 
+morbidity and mortality rates. Additionally, optimal medi-
+cal management was associated with a 30-day mortality 
+rate of 10% and midterm mortality rate of approximately 
+30%. The introduction of endovascular techniques has 
+resulted in significantly lower morbidity and mortality 
+rates when compared with optimal medical management, 
+reported in small randomized trials including ADSORB 
+(Acute Dissection: Stent graft OR Best medical therapy)8 
+and INSTEAD (Investigation of Stent Grafts in Patients 
+with T ype B Aortic Dissection)10; to date, there has not 
+been a large RCT comparing open versus endovascu-
+lar repair for either complicated or uncomplicated type B 
+aortic dissection.
+Recommendation-Specific Supportive Text
+1. Those patients with type B aortic dissection gen-
+erally have better survival than those with type A 
+aortic dissection. In the acute uncomplicated set-
+ting, medical management is the first mode of 
+therapy for type B aortic dissection. A review of the 
+IRAD database showed overall in-hospital mortal-
+ity rate of 13%, with those requiring open repair 
+having higher mortality rates compared with those 
+managed with optimal medical management and 
+percutaneous intervention (32.1% versus 9.6% 
+versus 6.5%, respectively; P<0.0001). 1 Without 
+intervention, risk factors for early death include 
+shock, evidence of malperfusion, and age 1-3  
+and can be grouped together with uncontrollable 
+hypertension, pain, and continued growth or exten-
+sion of the dissection as a complicated type B aor-
+tic dissection.
+2. Patients presenting with complicated acute type B 
+aortic dissection (Table 27), or developing such fea-
+tures after initial presentation, have an increased risk 
+of morbidity and death, and urgent or emergency 
+intervention may be required. For rupture, rapid 
+coverage of the affected region of the descending 
+aorta may be lifesaving and does not preclude sub-
+sequent further endovascular or open repair. This 
+is an important consideration in those patients with 
+genetically triggered aortic diseases (eg, Marfan 
+syndrome, Loeys-Dietz syndrome). Cambria et al 11 
+Table 27. Consensus Features of Complicated Acute Type B 
+Aortic Dissection
+Feature Comment
+Aortic rupture1 This can be either free or contained (in-
+cluding hemothorax, increasing periaortic 
+hematoma, or both; or  mediastinal hema-
+toma) and should be addressed promptly.
+Branch artery occlusion and 
+malperfusion2
+Complete or partial occlusion of a major 
+branch, with or without clinical evidence of 
+ischemia; this includes visceral, renal, and 
+peripheral arterial branches.
+Extension of dissection3 Extension of the dissection ﬂap either 
+distally or proximally (ie, retrograde type A 
+dissection)
+Aortic enlargement Progressive enlargement of the true, false, 
+or both lumens while in the acute phase 
+may require prompt intervention.
+Intractable pain15
+Uncontrolled hypertension15
+Table 28. High-Risk Features in Uncomplicated Acute 
+Type B Aortic Dissection9
+High-Risk Imaging Findings
+Maximal aortic diameter >40 mm
+False-lumen diameter >20–22 mm
+Entry tear >10 mm
+Entry tear on lesser curvature
+Increase in total aortic diameter of >5 mm between serial imaging studies
+Bloody pleural effusion
+Imaging-only evidence of malperfusion
+High-Risk Clinical Findings
+Refractory hypertension despite >3 different classes of antihypertensive 
+medications at maximal recommended or tolerated doses
+Refractory pain persisting >12 h despite maximal recommended or toler-
+ated doses
+Need for readmission
+Downloaded from http://ahajournals.org by on May 30, 2026
+=== PAGE 79 ===
+December 13, 2022 Circulation. 2022;146:e334–e482. DOI: 10.1161/CIR.0000000000001106e412
+Isselbacher et al 2022 ACC/AHA Aortic Disease Guideline
+CLINICAL STATEMENTS  
+AND GUIDELINES
+reviewed the outcomes for AAS managed with 
+TEVAR compared with historic controls and found 
+a 1-year survival rate of 79% for acute type B aor-
+tic dissection treated endovascularly. A subsequent 
+single-arm study of patients treated with TEVAR 
+found a 30-day mortality rate of 8% and 1-year sur-
+vival rate of 88%.4 The VIRTUE Registry investiga-
+tors5 found a benefit to early intervention but with 
+reintervention rates of 20% to 39%. The RESTORE 
+Patient Registry had similar results. 6 Fenestration 
+may be required if TEVAR alone does not correct 
+the malperfusion, and visceral or renal artery stent-
+ing may also be required. When intervention is an 
+emergency, TEVAR has a significantly lower mor-
+bidity and in-hospital mortality rates compared with 
+open repair, with the greatest advantage among 
+older patients.12
+3. With medical management of uncomplicated type B 
+aortic dissection still having a 30-day mortality rate 
+of 10% and a decreased long-term survival, interest 
+remains in determining if early endovascular inter-
+vention might reduce the risk of downstream com-
+plication or negative aortic remodeling, particularly 
+in patients with high-risk features. In the ADSORB 
+trial,8 which compared optimal medical manage-
+ment vs. optimal medical management plus TEVAR, 
+there were no early deaths in either group and, 
+at 1-year follow-up, there was just 1 death in the 
+TEVAR group. TEVAR was superior to optimal medi-
+cal management alone with significant differences 
+in incomplete or no false-lumen thrombosis, aortic 
+dilation, and rupture, but the primary clinical benefits 
+are unknown. In the INSTEAD-XL (Investigation of 
+Stent-grafts in Aortic Dissection) trial,13 in patients 
+with uncomplicated type B aortic dissection, prophy-
+lactic TEVAR plus optimal medical was associated 
+with improved 5-year aorta-specific survival and 
+delayed disease progression. As the long-term mor-
+tality rate for type B aortic dissection that is managed 
+medically and is strongly related to aortic events, the 
+findings from the ADSORB and INSTEAD-XL trials 
+appear promising, but larger trials with longer-term 
+data are still needed. What remains unknown is the 
+optimal timing for TEVAR. 14 Features associated 
+with an increased need for future intervention are 
+summarized in Table 28.9
+7 .5. Management of IMH
+Recommendations for Management of IMH
+Referenced studies that support the recommendations are 
+summarized in the Online Data Supplement.
+COR LOE Recommendations
+1 B-NR
+1. In patients with complicated (Table 29) acute 
+type A or type B aortic IMH, urgent repair is 
+recommended.1-3
+1 B-NR
+2. In patients with uncomplicated acute type A 
+IMH, prompt open surgical repair is recom-
+mended.1,4-6
+2b C-LD
+In selected patients with uncomplicated acute 
+type A IMH who are at increased operative 
+risk and do not have high-risk imaging features 
+(Table 30), an initial or expectant approach of 
+medical management may be considered.6-12
+1 B-NR
+3. In patients with uncomplicated acute type B 
+IMH, medical therapy as the initial manage-
+ment strategy is recommended.1-3,13
+2a C-LD
+4. In patients with type B IMH who require repair of 
+the distal aortic arch or descending thoracic aorta 
+(zones 2-5) and have favorable anatomy, endo-
+vascular repair is reasonable when performed by 
+surgeons with endovascular expertise.2,14
+2a C-LD
+5. In patients with type B IMH who require repair 
+of the distal aortic arch or descending tho-
+racic aorta (zones 2-5) and have unfavorable 
+anatomy for endovascular repair, open surgical 
+repair is reasonable.2,3
+2b C-LD
+6. In patients with uncomplicated type B IMH 
+and high-risk imaging features (Table 30), 
+intervention may be reasonable.13-16
+Synopsis
+Aortic IMH is a distinct pathologic entity from aortic 
+dissection and PAU. It is characterized by hemorrhage 
+within the media of the aortic wall and may occur with or 
+without intimal disruption. Radiographically, IMH appears 
+as a high-attenuation crescentic or circumferential thick-
+ening of the aorta on noncontrast imaging, with absence 
+of blood flow through a false lumen on contrast imaging. 
+IMH occurs more commonly in the descending thoracic 
+aorta (60%) than in the ascending aorta (30%) or aortic 
+arch (10%). 1 Classification is the same as is used for 
+acute aortic dissection. Symptoms at presentation are 
+similar to aortic dissection, but patients tend to be older 
+and more often have hypertension and atherosclero-
+sis.1,2 Malperfusion can occur but less frequently than in 
+aortic dissection.1,2 IMH can progress to aortic enlarge-
+ment, aortic dissection, or aortic rupture; alternatively, 
+the hematoma can sometimes be resorbed.3 Of patients 
+presenting with AAS, the proportion who have IMH var-
+ies based by region, with reports of 6% to 23% in North 
+America and Europe1,6 versus 26% to 44% in Asia.4,5,12
+Table 29. F eatures of Complicated IMH
+Feature
+Malperfusion
+Periaortic hematoma
+Pericardial effusion with cardiac tamponade
+Persistent, refractory, or recurrent pain
+Rupture
+IMH indicates intramural hematoma.
+Recommendations for Management of IMH (Continued)
+COR LOE Recommendations
+Downloaded from http://ahajournals.org by on May 30, 2026
+=== PAGE 80 ===
+Circulation. 2022;146:e334–e482. DOI: 10.1161/CIR.0000000000001106 December 13, 2022 e413
+Isselbacher et al 2022 ACC/AHA Aortic Disease Guideline
+CLINICAL STATEMENTS 
+AND GUIDELINES
+The management strategy for IMH balances patient 
+comorbidities, the differing lethality of type A and type B 
+IMH, mortality and death associated with open or endo-
+vascular repair in the different segments of the aorta, 
+and the risk of aortic-related complications with medical 
+management. Prospective randomized comparative stud-
+ies are lacking, and most series and registries are limited 
+by small sample sizes. For recommendations regarding 
+management of IMH in association with PAU, see Sec-
+tion 7 .6, “Management of Penetrating Atherosclerotic 
+Ulcer (PAU).”
+Recommendation-Specific Supportive Text
+1. IMH, especially type A IMH, can be a lethal condi-
+tion, complicated by rupture at presentation in 18% 
+and, in that setting, associated with 100% mortality 
+rate without surgical intervention.3 The features of 
+complications of IMH are summarized in Table 29.
+2. A nonoperative strategy for type A IMH is associ-
+ated with a mortality rate as high as 40%, according 
+to the findings of the IRAD. 1 Progression to aortic 
+dissection, rupture, or other aorta-related adverse 
+events occurs in 14% to 37% of patients, with 
+most events occurring within the acute or subacute 
+phase.12,17 ,18 In-hospital mortality (1%–27%)1,4,6 and 
+mid- and long-term survival4-6 after operative repair 
+for type A IMH are reasonable and comparable to 
+or better than survival rates reported for type A aor-
+tic dissection. There are varied approaches to tim-
+ing of surgery, with low mortality rate achieved with 
+strategies of repair within 24 hours 5 and slightly 
+delayed repair (between 24 and 72 hours), when 
+feasible.6 The slight delay may confer an advantage 
+by allowing the hematoma to form and the tissue 
+quality of the aorta to improve. In addition, the extra 
+time can allow for further diagnostic evaluation, 
+optimization of comorbidities, or clearance of novel 
+oral anticoagulant medications, which may improve 
+outcomes. Delay is only reasonable in stable 
+patients. The experience with successful medical 
+management of type A IMH is mostly from Japan, 
+Korea, and China, all reporting outcomes better 
+than those reported in North America and Europe; 
+the differences might be related to genetic or envi-
+ronmental factors that affect IMH natural history, 
+so the Asian results may not be generalizable to 
+other ethnic or geographic patient populations. 
+The approach varies from initial medical manage-
+ment with planned “timely” (ranging from within a 
+few days to before discharge) surgery to expect-
+ant medical management with surgical intervention 
+only for complications or disease progression. 7-12 
+One meta-analysis showed acceptable pooled pro-
+portion of an all-cause in-hospital mortality rate of 
+7% and 30-day mortality rate of 15% 8 with ini-
+tial medical management. Another meta-analysis, 
+comparing upfront surgery to initial medical man-
+agement with “timely” surgery, showed no signifi-
+cant difference in short-term survival (although an 
+overall operative approach to type A IMH did show 
+a survival benefit over medical therapy alone).9 For 
+patients at increased operative risk (eg, advanced 
+age, poor baseline renal function, coronary artery 
+disease), medical management may therefore be 
+an option. There are several high-risk imaging fea-
+tures (Table 30) that predict poor outcome (death, 
+need for surgical intervention, or both) with this 
+strategy. Shared decision-making with the patient 
+should include discussion regarding need for an 
+extended hospital stay of 2 to 3 weeks, including 
+≥3 days in the ICU on bedrest, with perhaps ≥5 
+CTAs during the hospitalization for close monitor-
+ing because of the dynamic disease process and 
+moderate to high risk of progression to aortic dis-
+section and rupture.
+3. T ype B IMH may have a more benign prognosis 
+than type A IMH, resulting in relatively low in-
+hospital mortality rate (4%–6%) with medical 
+management and 9% mortality rate at 1-year fol-
+low-up.1,2 A strategy of medical management for 
+type B IMH with surgical intervention for severe 
+Table 30. High-Risk Imaging Features of IMH
+For Type A IMH For Type B IMH
+Maximum aortic diameter >45–50 mm18,20 Maximum aortic diameter >47–50 mm15,20
+Hematoma thickness /g11610 mm4 Hematoma thickness /g11613 mm15
+Focal intimal disruption with ulcer-like projection involving ascending aorta 
+or arch18,21
+Focal intimal disruption with ulcer-like projection involving the descending 
+thoracic aorta if it develops in acute phase15,16
+Pericardial effusion on admission18 Increasing or recurrent pleural effusion19,22
+For Both Type A and Type B IMH
+Progression to aortic dissection19
+Increasing aortic diameter21,22
+Increasing hematoma thickness21,22
+IMH indicates intramural hematoma.
+Downloaded from http://ahajournals.org by on May 30, 2026
+=== PAGE 81 ===
+December 13, 2022 Circulation. 2022;146:e334–e482. DOI: 10.1161/CIR.0000000000001106e414
+Isselbacher et al 2022 ACC/AHA Aortic Disease Guideline
+CLINICAL STATEMENTS  
+AND GUIDELINES
+recurrent symptoms or radiographic worsening on 
+follow-up was associated with acceptable long-
+term survival. 3 Intervention, whether surgical or 
+endovascular, has associated mortality and mor-
+bidity. Although significantly less dissection and 
+rupture may be observed during follow-up with 
+TEVAR, compared with optimal medical therapy, 
+this may17 or may not 13,14 translate into improved 
+aortic-related outcomes.
+4. Literature supporting endovascular treatment of 
+IMH is limited mainly to experience with TEVAR 
+for IMH in the setting of PAU, or TEVAR for mixed 
+type B AAS including IMH; the perioperative mor-
+tality rate for treatment of acute IMH ranges from 
+0% to 29%. Of note, in PAU with IMH or IMH with 
+ulcer-like projection, endovascular treatment can 
+be guided by the focal lesion. IMH with multiple 
+ulcer-like projections may require more extensive 
+treatment length. Favorable anatomy for TEVAR 
+would include ideally normal aorta at both proximal 
+and distal landing zones or, at least at the proxi-
+mal landing zone, as outward tension of the stent 
+graft transferred to abnormal aortic wall can lead 
+to stent-induced new entry tear and subsequent 
+aneurysmal degeneration or aortic dissection. In 
+general, stent graft oversizing usually does not 
+exceed 10%, and balloon aortoplasty at the land-
+ing zones is avoided. The experience with TEVAR 
+for retrograde type A IMH associated with a distal 
+intimal defect (ie, distal arch or descending tho-
+racic aorta) is limited to small case reports and 
+series. With the higher incidence of atherosclerotic 
+disease in patients with IMH compared with aortic 
+dissection, adequate vessel diameter for endovas-
+cular access should be determined as well.
+5. In the IRAD experience for type B IMH, open sur-
+gical repair was performed in 5%, endovascular 
+repair in 7%, and a hybrid approach in 1%, with no 
+difference in results. 1 Good outcomes have been 
+reported for open repair,3,19 despite the more inva-
+sive approach. Open surgical repair may be pref-
+erable when IMH extends to the proximal landing 
+zone of anticipated endovascular coverage, the 
+aortic diameter at the proximal or distal extent of 
+planned coverage is too large to accommodate 
+existing stent graft sizes, the hematoma or aneu-
+rysm extends into the aortic arch and circulatory 
+arrest would facilitate resection of diseased aorta, 
+or endovascular access for stent deployment is 
+anticipated to be inadequate.
+6. High-risk imaging features may be present on 
+admission or may develop in the acute, subacute, 
+or chronic phases. Ulcer-like projections and 
+focal intimal disruption (FID) are both terms that 
+describe a focal outpouching of contrast arising 
+from the lumen of the aorta in the setting of IMH 
+with no associated atherosclerotic plaque. FID 
+is more specifically defined by its communicat-
+ing orifice measuring >3 mm, while tiny intimal 
+disruption has a communicating orifice ≤ 3 mm.15 
+FID occurs in 32% of type B IMH and signifi-
+cantly predicts cardiovascular- or aorta-related 
+death and aorta-related events, 15,16,18 especially 
+when it develops in the acute, rather than chronic, 
+phase.15 Tiny intimal disruptions are lower risk and 
+considered a benign finding.16 As 40% of patients 
+can develop FID that was not present on the ini-
+tial study, 15 early surveillance imaging can help 
+identify patients at risk for complications. Table 
+30 summarizes these and other high-risk imaging 
+features of IMH.
+7 .6. Management of PAU
+7.6.1. PAU With IMH, Rupture, or Both
+Recommendations for PAU With IMH, Rupture, or Both
+Referenced studies that support the recommendations are 
+summarized in the Online Data Supplement.
+COR LOE Recommendations
+1 B-NR 1. In patients with PAU of the aorta with rupture, urgent repair is recommended.1-3
+1 B-NR
+2. In patients with PAU of the ascending aorta 
+with associated IMH, urgent repair is recom-
+mended.1-3
+2a C-LD
+3. In patients with PAU of the aortic arch or 
+descending thoracic aorta with associated 
+IMH, urgent repair is reasonable.1-3
+2b C-LD
+4. In patients with PAU of the abdominal aorta 
+with associated IMH, urgent repair may be 
+considered.4
+Synopsis
+A PAU is an atherosclerotic lesion of the aorta with 
+ulceration that penetrates the internal elastic lamina and 
+allows hematoma formation within the media of the aor-
+tic wall.5 PAUs may progress to AAS with IMH formation, 
+aortic dissection, or rupture. 1,2,6 PAU with IMH is asso-
+ciated with a high risk of short-term disease progres-
+sion,1 particularly when localized to the ascending aorta 
+(ie, Stanford type A). 1,2 Data on outcomes for PAU with 
+descending thoracic and abdominal aorta (ie, Stanford 
+type B) IMH are limited to small retrospective reviews 
+but suggest significant early disease progression among 
+patients treated with medical management.1,2 PAUs tend 
+to affect elderly patients with severe atherosclerotic dis-
+ease and other comorbidities that put them at high sur-
+gical risk even with endovascular interventions, so the 
+risk of repair must be weighed against the risk of severe 
+morbidity and patient life expectancy when making deci-
+sions about appropriate management.
+Downloaded from http://ahajournals.org by on May 30, 2026
+=== PAGE 82 ===
+Circulation. 2022;146:e334–e482. DOI: 10.1161/CIR.0000000000001106 December 13, 2022 e415
+Isselbacher et al 2022 ACC/AHA Aortic Disease Guideline
+CLINICAL STATEMENTS 
+AND GUIDELINES
+Recommendation-Specific Supportive Text
+1. PAU with rupture that is not treated with interven-
+tion is associated with a high mortality rate (of 5 of 
+17 patients who presented with PAU with rupture 
+who did not undergo repair, none survived).3 In con-
+trast, in 1 small series, most patients with PAU with 
+rupture treated by open or endovascular therapy 
+survived to hospital discharge.1
+2. PAU of the ascending aorta is uncommon; how-
+ever, when it occurs, and in concert with IMH, the 
+incidence rate of rupture is 33% to 75%, 2,3 and 
+progression to aortic dissection is associated with 
+a high mortality rate.1
+3. PAUs with type B IMH that are managed conser-
+vatively are associated with a high risk of disease 
+progression to true aortic dissection or rupture.1,2 In 
+a small retrospective analysis of patients present-
+ing with PAUs and type B IMH, 3 of 17 patients 
+(17 .6%) who were managed conservatively died 
+from progression of disease to aortic rupture at a 
+mean of 9.3 days. 1 In contrast, there was 1 death 
+among 14 patients (7 .1%) who underwent open 
+(n=8) or endovascular (n=6) aortic repair for PAU 
+with type B IMH. 1 These data support early inter-
+vention of PAU in the setting of type B IMH in 
+patients who are reasonable surgical candidates.
+4. The natural history of PAU of the abdominal aorta 
+with associated IMH is not well described, but 
+low procedure-related and 30-day mortality rates 
+have been described in several small series and 
+case reports of both the endovascular and surgical 
+treatment of abdominal aorta PAUs.7 In a literature 
+review of 298 published cases of PAU affecting the 
+abdominal aorta, most authors (62.0%) reported 
+endovascular stent graft repair as the treatment of 
+choice, followed by open surgical repair (35.4%) 
+and conservative management (2.6%).7
+7.6.2. Isolated PAU
+Recommendations for Isolated PAU
+Referenced studies that support the recommendations are 
+summarized in the Online Data Supplement.
+COR LOE Recommendations
+1 B-NR
+1. In patients with isolated PAU who are symp-
+tomatic and have persistent pain that is clini-
+cally correlated with the radiologic findings, 
+repair is recommended.1-3
+2b C-LD
+2. In patients with isolated PAU who are asymp-
+tomatic but have high-risk imaging features 
+(Table 31), elective repair may be consid-
+ered.1,2,4
+Synopsis
+Isolated PAUs are those without associated IMH, aortic 
+dissection, or saccular aneurysm. Symptomatic isolated 
+PAUs may herald a developing peri-ulcer hematoma, 
+IMH, or both and are more likely to progress or result 
+in rupture than asymptomatic PAUs. 5 For patients who 
+present with a symptomatic PAU but whose symptoms 
+resolve with goal-directed therapy or patients who are 
+poor operative candidates at increased risk for morbidity 
+and death from repair, medical management has been 
+pursued, with early and frequent surveillance imaging to 
+assess for disease progression.4
+Asymptomatic isolated PAUs are increasingly diag-
+nosed incidentally because of the increasing use of CTA. 
+Several series that reported mid or long-term outcomes 
+of retrospective institutional data suggest that isolated 
+PAUs have radiographic progression in up to 30% of 
+patients.1-3,6,7 High-quality data evaluating thresholds for 
+surgical repair are limited, but retrospective data have 
+shown that PAUs with a diameter of ≥13 mm to 20 mm 
+Table 31. High-Risk Imaging Features of PAUs
+Feature
+Maximum PAU diameter /g11613–20 mm1
+Maximum PAU depth /g11610 mm1
+Signiﬁcant growth of PAU diameter or depth
+PAU associated with a saccular aneurysm5
+PAU with an increasing pleural effusion1
+PAU indicates penetrating atherosclerotic ulcer.
+Figure 22. Dimensions of Penetrating Atherosclerotic Ulcers.
+(A) Maximal aortic diameter at ulcer site diameter (from ulcer across 
+to opposite aortic wall). (B) Depth of intramural blood pool. (C) Length 
+of intimal defect at ulcer site. (D) Width of intramural blood pool. 
+Adapted from Gifford et al,11 Copyright 2016, with permission from 
+Elsevier, Inc., and from Cho et al‚9 Copyright 2004 with permission 
+from the Society for Vascular Surgery.
+Downloaded from http://ahajournals.org by on May 30, 2026
+=== PAGE 83 ===
+December 13, 2022 Circulation. 2022;146:e334–e482. DOI: 10.1161/CIR.0000000000001106e416
+Isselbacher et al 2022 ACC/AHA Aortic Disease Guideline
+CLINICAL STATEMENTS  
+AND GUIDELINES
+or depth of ≥10 mm (Figure 22) are closely associated 
+with disease progression. 1 Significant growth rates are 
+not well defined and depend on the size of the patient, 
+his or her aortic anatomy, and the presence of high-risk 
+features associated with PAU (Table 31).
+Recommendation-Specific Supportive Text
+1. Symptomatic PAUs are associated with a high risk 
+of early disease progression.2,3,5,7 ,8 In a small series 
+of 25 patients presenting with symptomatic PAU 
+managed medically, 30% had disease progression 
+on surveillance imaging at a mean of 18 months 
+follow-up, including expansion of the PAU and 
+new IMH in 20% and conversion to aortic dissec-
+tion in 10%.3 All patients in the series went on to 
+require operative repair. In contemporary series, 
+most patients with symptomatic PAU without rup-
+ture have been treated with open or endovascular 
+repair with acceptable results (see Section 7 .6.3, 
+“PAU: Open Surgical Repair Versus Endovascular 
+Repair”).3,7-9
+2. Asymptomatic isolated PAU with large diameter or 
+depth, significant growth on surveillance imaging, 
+or other high-risk features (Table 31), are associ-
+ated with disease progression. 1,7 In contrast, inci-
+dental aortic PAUs that are asymptomatic and 
+without high-risk features have a low risk of pro-
+gression (3.6% and 6.5% at 5 and 10 years after 
+diagnosis, respectively). 10 Maximum depth and 
+diameter of the PAU can be used to determine 
+lesions that would be considered high risk and may 
+be considered for intervention (Figure 22).4
+7.6.3. PAU Open Surgical Repair Versus 
+Endovascular Repair
+Recommendations for PAU Open Surgical Repair Versus Endovascular 
+Repair
+COR LOE Recommendations
+1 C-LD
+1. In patients who require repair of a PAU 
+in the ascending aorta or proximal aortic 
+arch (zones 0-1), open surgical repair is 
+ recommended.
+2a C-LD
+2. In patients who require repair of a PAU in 
+the distal aortic arch (zones 2-3), descend-
+ing thoracic aorta, or abdominal aorta, either 
+open surgical repair1-3 or endovascular repair 
+is reasonable, based on anatomy and medical 
+comorbidities.4-6
+Synopsis
+Operative repair of PAUs includes both open and endo-
+vascular treatment. Historically, most PAUs were treated 
+with open aortic replacement, although more contem-
+porary series have reported good technical success and 
+short- and midterm outcomes after endovascular repair 
+in the descending and infrarenal aorta. 4-7 Comparative 
+data are limited about the best treatment approach for 
+a PAU but, in general, the approach depends on the 
+location of the PAU, the patient’s aortic and branch ves-
+sel anatomy, associated pathology, and patient comor-
+bidities (because these patients tend to be older and 
+have significant atherosclerosis). 4 Procedure-related 
+and in-hospital death are lower for patients treated with 
+an endovascular approach, although available data are 
+based on small studies with a high risk of treatment 
+bias.4 Midterm outcomes after endovascular repair of 
+PAU have shown a 4% to 8% risk of endoleak 4,7 and 
+a 5% risk of new PAU formation. 7 One-year mortality 
+rates for patients treated with endovascular versus open 
+repair are similar.7
+Results of open surgical repair in patients with 
+ascending aortic PAU are limited to small case series.8-11 
+Despite this, open repair remains the gold standard for 
+treating AAS that involve the ascending aorta and proxi-
+mal arch, with acceptable morbidity and mortality rates 
+compared with medical therapy.12,13
+Recommendation-Specific Supportive Text
+1. Results of open surgical repair of the ascend-
+ing aorta and proximal arch can be reasonably 
+applied to PAU. Cases have been reported in 
+which ascending aortic stenting has been per-
+formed with surgeon-modified stent-grafts or 
+off-label use of commercially available devices, 
+but currently there is no FDA-approved device 
+for endovascular repair of the ascending aorta or 
+proximal arch.
+2. The risk of procedure-related and in-hospital 
+death is lower for endovascular compared with 
+open repair of PAU in the descending thoracic and 
+abdominal aorta, although longer-term data are 
+similar for both operative approaches.4
+7 .7 . Traumatic Aortic Injury
+7.7.1. Initial Management of Blunt Traumatic 
+Thoracic Aortic Injury (BTTAI)
+7.7.1.1. Initial Management of BTTAI in the Emergency 
+Department
+Recommendations for Initial Management of BTTAI in the Emergency 
+Department
+COR LOE Recommendations
+1 C-EO
+1. In patients with BTTAI, management and 
+treatment at a trauma center with the facili-
+ties and expertise to treat aortic pathology is 
+recommended.
+1 C-LD
+2. In patients with BTTAI, anti-impulse therapy 
+to reduce the risk of injury extension and 
+rupture should be implemented, except in 
+patients with hypotension or hypovolemic 
+shock.1,2
+Downloaded from http://ahajournals.org by on May 30, 2026
+=== PAGE 84 ===
+Circulation. 2022;146:e334–e482. DOI: 10.1161/CIR.0000000000001106 December 13, 2022 e417
+Isselbacher et al 2022 ACC/AHA Aortic Disease Guideline
+CLINICAL STATEMENTS 
+AND GUIDELINES
+Synopsis
+BTTAI, although rare, is the second-most common cause 
+of death in trauma patients; it results from high decelera-
+tion forces and is often associated with concomitant inju-
+ries. In the ACS National Trauma Databank, the diagnosis 
+of BTTAI increased 196.8% from 2003 to 2013, likely 
+attributable to more sensitive imaging.3 The mortality rate 
+of patients with BTTAI who were treated in the emer-
+gency department was ∼19%.4,5 Initial management of 
+polytrauma at trauma centers follows Advanced Trauma 
+Life Support protocols. However, for patients with BTTAI, 
+special attention to BP and heart rate is warranted 
+because of their effects on injury extension and rupture.
+In stable patients, the 2011 Society for Vascular 
+Surgery clinical practice guidelines 6 suggested urgent 
+(<24 h) repair barring other serious concomitant non-
+aortic injuries or immediately after treatment of other 
+injuries. Optimal timing of intervention, however, remains 
+unclear. In a recent study from the National Trauma Data 
+Bank, early (<24 h) repair had increased odds of death 
+(adjusted OR, 2.39; 95% CI, 1.01–5.67; P=0.047). 7 A 
+multicenter study showed worse adjusted mortality rate 
+with early repair overall (adjusted OR, 7 .78; 95% CI, 
+1.69–35.70; adjusted P=0.008) although, in subgroup 
+analysis, mortality rate differences only trended toward 
+favoring delayed repair (P>0.05).8
+Recommendation-Specific Supportive Text
+1. Patients with BTTAI are at elevated risk of aortic-
+related and overall mortality. Because of the acuity 
+of injury and severity of concomitant polytrauma, 
+expertise in aortic imaging and treatment at the 
+treating facility is paramount to improve outcomes. 
+Further, most patients will benefit from care at a 
+level 1 trauma center with multidisciplinary expertise 
+in treating concomitant injuries, although the risk of 
+delayed treatment because of transport time must be 
+weighed against the benefits of immediate treatment.
+2. Although no randomized trials exist, historical lit-
+erature shows that aortic rupture occurs in ∼12% 
+of patients with BTTAI who were awaiting repair 
+without medical management; small studies using 
+protocols of beta blockers as first-line therapy 
+have reported rates of 0% rupture while awaiting 
+repair.1,2 In the acute trauma setting, hypovolemia 
+may result in permissive hypotension, obviating 
+the need for administering anti-impulse medica-
+tions (typically intravenous beta blockers with or 
+without supplemental intravenous vasodilators [eg, 
+nicardipine, clevidipine, sodium nitroprusside]) to 
+decrease aortic wall stress. Conversely, permis-
+sive hypotension may not be tolerated with other 
+concomitant injuries, in which adequate end-organ 
+perfusion requires higher BPs.
+7.7.1.2. Approach to the Initial Management of BTTAI
+Recommendations for Approach to the Initial Management of BTTAI
+COR LOE Recommendations
+1 C-LD
+1. In patients with grade 1 BTTAI (Figure 23), 
+nonoperative management and follow-up 
+imaging are recommended.1,2
+1 C-LD
+2. In patients with grade 3 to 4 BTTAI (Figure 
+23) and nonprohibitive comorbidities or inju-
+ries, aortic intervention is recommended.1,3
+2a C-LD
+3. In patients with grade 2 BTTAI (Figure 23) and 
+with high-risk imaging features (Table 32), aortic 
+intervention is reasonable.3,4
+2b C-LD
+4. In patients with grade 2 BTTAI (Figure 23) 
+and without high-risk imaging features 
+(Table 32), nonoperative management and 
+follow-up surveillance imaging may be 
+ reasonable.3,4
+Synopsis
+The most common site of BTTAI is the aortic isthmus, 
+because of its site as transition from the unfixed aor-
+tic arch to the fixed descending thoracic aorta and the 
+relatively lesser tensile strength of this region. Other 
+Figure 23. Classification System for BTTAIs.
+Aortic injuries are classified according to severity, based on the findings of diagnostic imaging. Grade 1, intimal tear. intimal flap, or both. Grade 2, 
+intramural hematoma. Grade 3, aortic wall disruption with pseudoaneurysm. Grade 4, aortic wall disruption with free rupture. BTTAI indicates blunt 
+traumatic thoracic aortic injury. Adapted from Azizzadeh et al,2 Copyright 2009, with permission from Elsevier, Inc. and the Society for Vascular Surgery.
+Downloaded from http://ahajournals.org by on May 30, 2026
+=== PAGE 85 ===
+December 13, 2022 Circulation. 2022;146:e334–e482. DOI: 10.1161/CIR.0000000000001106e418
+Isselbacher et al 2022 ACC/AHA Aortic Disease Guideline
+CLINICAL STATEMENTS  
+AND GUIDELINES
+segments that may be involved include the proximal 
+ascending aorta (8%–27%), aortic arch (8%–18%), and 
+distal descending thoracic aorta (11%–21%). The most 
+widely used grading scale is that proposed by Estrera 
+et al and endorsed by the SVS clinical practice guide-
+line (Figure 23).1,2 In Estrera’s original paper, all patients 
+with grade 1 injuries were managed medically and had a 
+0% mortality rate. 2 Current SVS guidelines recommend 
+expectant management of grade 1 injuries and repair of 
+all other grades. 1 Trauma studies have found that 32% 
+of BTTAIs are managed nonoperatively,3 with an associ-
+ated mortality rate of 25%. 5 Overall mortality rate was 
+significantly higher in nonoperatively managed patients 
+(35.0% versus 11.2%; P<0.001), while aortic-related 
+mortality rate was similar (9.8% versus 5.0%; P=0.119).3
+Recommendation-Specific Supportive Text: 
+Management
+1. The decision for nonoperative versus opera-
+tive management of BTTAI includes complex and 
+dynamic factors such as the patient’s stability, 
+concomitant injuries, and potential imaging char-
+acteristics that may predict aortic stability. Grade 1 
+BTTAIs are likely to resolve and are associated with 
+extremely low aortic-related death. Medical man-
+agement and follow-up imaging to ensure resolu-
+tion is appropriate.1,2
+2. Grade 3 and 4 BTTAIs are at high risk of pro-
+gression and rupture and should be treated in an 
+urgent manner. In grade 3 injuries, nonoperative 
+management was an independent predictor of all-
+cause death (OR, 29.65; 95% CI, 5.62–15.649; 
+P<0.0001), and imaging characteristics did not 
+predict aortic-related death.4
+3. Although injury grade was an independent predic-
+tor of aortic-related death, outcomes of grade 1 
+and 2 injuries were similar between nonoperative 
+management and TEVAR, including in-hospital 
+and aortic-related death (P>0.05).3 A high-volume 
+center reported no differences in mortality rates or 
+aortic-related mortality rates between nonopera-
+tive and operative management of grade 1 and 2 
+injuries.4
+4. Findings of secondary signs of injury and multiple 
+secondary signs are more common in patients with 
+higher-grade of aortic injury and may prompt stron-
+ger consideration for operative intervention. 6 The 
+presence of aortic arch hematoma of >15 mm in 
+thickness was predictive of death.7
+7.7.1.3. Endovascular Versus Open Surgical Repair
+Recommendation for Endovascular Versus Open Surgical Repair
+Referenced studies that support the recommendation are summarized 
+in the Online Data Supplement.
+COR LOE Recommendations
+1 B-NR
+1. In patients with BTTAI who meet indica-
+tions for repair and with appropriate anat-
+omy, TEVAR is recommended over open 
+repair. 1-3
+Synopsis
+Endovascular therapy for BTTAI has become the pre-
+dominant approach. From 2007 to 2015, rates of open 
+repair decreased from 7 .5% to 1.9%, while rates of 
+TEVAR increased from 12.1% to 25.7%.2
+No randomized trials for open versus endovascular man-
+agement have been conducted.4 Rather, trauma registry 
+data and meta-analyses have shown that, in patients with 
+suitable anatomy, TEVAR offers superior 30-day mortality 
+rates and lower rates of SCI and acute kidney injury. Con-
+comitant injuries may prompt concern over procedural use 
+of heparin, and the use of periprocedural heparin should be 
+balanced against the overall bleeding risk for each patient. 
+In a small study of TEVAR in patients with predominantly 
+grade 3 BTTAI, there were no differences in bleeding, throm-
+boembolism, or mortality rates between use of full heparin, 
+low-dose heparin, and no heparin, although patients who 
+received full heparin underwent repair at a time interval 3 
+times longer than did those who received no heparin.5
+Recommendation-Specific Supportive Text
+1. Compared with open repair, endovascular treatment 
+of BTTAI is associated with improved procedural and 
+30-day mortality rates, as well as postoperative com-
+plications, including SCI and acute kidney injury.1-3,6 
+In a meta-analysis of 17 retrospective studies, 
+TEVAR was associated with lower procedural and 
+30-day mortality rates (OR, 0.31 and 0.44, respec-
+tively) and postoperative paraplegia (OR, 0.32). 1 
+Murad et al showed similar reductions in mortality 
+(relative risk, 0.61) and SCI (relative risk, 0.34) in 
+139 studies encompassing 7768 patients.3 Studies 
+using the National Trauma Data Bank, a multicenter 
+registry of trauma centers, also have identified sig-
+nificantly improved mortality rates, shorter ICU and 
+shorter hospital stay, and lower rates of acute kidney 
+injury and acute respiratory distress syndrome2,6 for 
+TEVAR compared with open repair.
+Table 32. High-Risk Imaging Features of BTTAI
+Posterior mediastinal hematoma >10 mm8
+Lesion to normal aortic diameter ratio >1.48
+Mediastinal hematoma causing mass effect6
+Pseudocoarctation of the aorta6
+Large left hemothorax6
+Ascending aortic, aortic arch, or great vessel involvement9
+Aortic arch hematoma7
+BTTAI indicates blunt traumatic thoracic aortic injury.
+Downloaded from http://ahajournals.org by on May 30, 2026
+=== PAGE 86 ===
+Circulation. 2022;146:e334–e482. DOI: 10.1161/CIR.0000000000001106 December 13, 2022 e419
+Isselbacher et al 2022 ACC/AHA Aortic Disease Guideline
+CLINICAL STATEMENTS 
+AND GUIDELINES
+7.7.2. Initial Management of Blunt Traumatic 
+Abdominal Aortic Injury (BAAI)
+Recommendations for Initial Management of BAAI
+Referenced studies that support the recommendations are 
+summarized in the Online Data Supplement.
+COR LOE Recommendations
+1 C-LD
+1. In patients with grade 1 to 2 BAAI 
+(Table 33) without malperfusion, anti-
+impulse therapy, if clinically tolerated, and 
+repeat imaging within 24 to 48 hours of the 
+initial scan is recommended to reduce risk of 
+injury progression. 1
+1 C-LD
+2. In patients with grade 4 BAAI (Table 33), 
+repair should be performed to address life-
+threatening aortic injury.2-4
+2a C-LD
+3. In patients with grade 2 BAAI (Table 33) and 
+associated malperfusion, it is reasonable to 
+consider repair.1
+2a C-LD
+4. In patients with BAAI, treatment with either 
+endovascular or open repair is reasonable 
+and depends on degree of injury, aortic 
+anatomy, and the patient’s overall clinical 
+status.1-4
+2b C-LD
+5. In patients with grade 3 BAAI (Table 33), 
+it may be reasonable to consider repair to 
+reduce risk of progression to life-threatening 
+injury.5
+3: Harm B-NR
+6. In patients with BAAI, the usefulness 
+of routine application of resuscitative 
+endovascular balloon occlusion of the 
+aorta (REBOA) for hemorrhage control 
+is unclear and, in some cases, may cause 
+harm. 6-8
+Synopsis
+BAAI represents a rare traumatic entity, occurring in <1% 
+of patients with blunt trauma. Patients with BAAI often 
+have concomitant injuries such as rib fractures, abdomi-
+nal visceral injury, and cardiac complications that will 
+affect treatment decisions. Similar to BTTAI, abdominal 
+aortic injuries are graded based on aortic contour defects, 
+and this grading can be used to provide a framework 
+for treatment and determination of risk of major morbid-
+ity and death from injuries (Table 33). Because BAAI is 
+rare and symptoms are wide ranging, patients should 
+be managed on an individual basis. In general, patients 
+with grade 1 aortic injuries can likely be managed with 
+antihypertensive therapy, beta blockade, and antiplatelet 
+therapy, if not contraindicated, with repeat scan at 24 to 
+48 hours. Grade 2 injuries can similarly be managed non-
+operatively but may progress to include end-organ ves-
+sel thrombosis or rupture. Grade 3 injuries may benefit 
+from endovascular treatments if anatomically amenable. 
+Grade 4 injuries are more likely to present with refractory 
+hypotension, warranting rapid control of hemorrhage, 
+which may be done in the emergency department (eg, 
+antero-lateral thoracotomy with aortic cross-clamping) or 
+operating room. Whether open or endovascular means 
+are used for BAAI repair will depend on patient’s clinical 
+status, hospital resources, and practitioner experience. 
+Additionally, Shalhub et al 1 propose using aortic injury 
+zone categorization when considering options for repair, 
+which differ from traumatic abdominal zones of injury 
+(Figure 24). Specifically, in their multicenter experience, 
+some zone 2 and 3 injuries could be managed endovas-
+cularly while no zone 2 injuries were managed this way. 
+Lastly, data on the use of REBOA for hemorrhage below 
+the diaphragm, not performed in the operating theater, 
+and without fluoroscopic guidance are mixed, with few 
+data showing survival benefit and some trauma registry 
+data showing harm.
+Recommendation-Specific Supportive Text
+1. Because BAAI is very rare, in an effort to provide 
+clinical evidence for the management of BAAI, 
+Shalhub et al 1 aggregated data from 12 trauma 
+centers. In the authors’ experience in treating 113 
+patients with BAAI, most of those with grade 1 
+and 2 injuries were successfully managed non-
+operatively with anti-impulse therapy and repeat 
+CTA imaging. Most of these injuries did not show 
+progression and did not require in-hospital inter-
+vention. However, some patients will develop 
+angiographic progression of lesions or develop 
+symptoms from vessel occlusion, aneurysmal 
+degeneration, or pseudoaneurysm formation. Such 
+progression should prompt consideration of treat-
+ment to prevent further progression to symptom-
+atic or life-threatening disease.
+2. Patients with grade 4 injuries are more likely to 
+present with hypotension and aortic transection 
+as well as visceral vessel avulsion. 2-4 In a single-
+center experience, all 8 patients with grade 4 
+injuries experienced cardiac arrest in the emer-
+gency department or operating room. Although all 
+8 patients survived to reach the operating room 
+and 7 survived the repair, all died within days of 
+injury. In multicenter experience, the mortality rate 
+Table 33. Descriptions of Blunt Aortic Injury Grades
+Injury 
+Grade Descriptions
+1 Minor intimal tear, intimal defect, or thrombus (/g10010 mm)
+2 Large intimal ﬂap, intimal defect, or thrombus (/g11610 mm in 
+length or width)
+3 Pseudoaneurysm
+4 Aortic rupture
+In their descriptions of management of BAAIs, Shalhub et al1,2 use an aortic 
+injury grading system described by Starnes et al13. Instead of using IMH to 
+deﬁne grade 2 injuries, as did Azizzadeh et al,14 Starnes et al13 deﬁne grade 
+2 injuries based on a higher degree of intimal injury, defect, thrombus, or all of 
+them to match radiographic ﬁndings that they deemed to be less ambiguous.
+BAAI indicates blunt traumatic abdominal aortic injury; and IMH, intramural 
+hematoma.
+Downloaded from http://ahajournals.org by on May 30, 2026
+=== PAGE 87 ===
+e420
+Isselbacher et al 2022 ACC/AHA Aortic Disease Guideline
+CLINICAL STATEMENTS  
+AND GUIDELINES December 13, 2022 Circulation. 2022;146:e334–e482. DOI: 10.1161/CIR.0000000000001106
+for grade 4 injuries was 83%. Most deaths from 
+BAAI were within the first 24 hours of presenta-
+tion and attributable to cardiac arrest from hemor-
+rhagic shock.
+3. Patients may present with grade 2 injuries without 
+evidence of malperfusion and thus be managed 
+nonoperatively. However, for patients who pres-
+ent with or progress to organ or limb malperfu-
+sion, endovascular or open repair may be needed 
+to reduce morbidity and mortality rates. In their 
+multicenter experience, Shalhub et al 1 found that 
+of the 38 patients who present with grade 2 inju-
+ries, 45% were initially managed nonoperatively, 
+34% were treated with open repair, and 21% were 
+treated with endovascular repair. Of those initially 
+managed conservatively, 3 eventually progressed 
+to having ischemic symptoms warranting consid-
+eration of repair, with 1 patient who refused repair 
+who died of sepsis from limb ischemia, another who 
+died intraoperatively, and a third who successfully 
+underwent hybrid endovascular and open repair.
+4. Both endovascular and open approaches have 
+been described for BAAI, 1-4 and analyses of large 
+trauma databases reveal no significant differences 
+in mortality rates between the two. Anatomical 
+considerations, patient clinical status and comorbid 
+injuries, and practitioner experience will influence 
+the choice of approach. Shalhub et al 1 found that 
+aortic zone 2 and 3 injuries appeared to be more 
+amenable to endovascular approaches, while most 
+grade 4 injuries were treated with open surgery. 1,2 
+Currently, no FDA-approved devices are available 
+specifically for treating trauma in the abdominal 
+aorta; consequently, clinical judgment and experi-
+ence are paramount in choosing an endovascular 
+solution.
+5. Pseudoaneurysm repair is often performed to pre-
+vent progression to uncontrolled aortic rupture, 
+although data on characteristics associated with 
+progression are scarce. In their multicenter study 
+of BAAI, Shalhub et al 1 found that only 30% of 
+pseudoaneurysms were managed nonoperatively, 
+and failure of nonoperative management occurred 
+in 3 of these patients.
+6. REBOA has reemerged over the past 10 years 
+as a form of rapid hemorrhage control in trauma. 
+Many health care centers have shown the feasi-
+bility of trauma surgeon or emergency physician 
+placement of endovascular balloons for hemor-
+rhage control.6,9,10 with a few studies showing sig-
+nificant improvement in SBP after placement11 and 
+survival benefit compared with those who were not 
+treated with REBOA 12 or those treated with open 
+methods of hemorrhage control. 8 However, pro-
+pensity-matched studies using large trauma data-
+bases showed increased mortality rate and risk of 
+complications, such as acute kidney injury, amputa-
+tion, or both, with use of REBOA.6-8 There are clini-
+cal scenarios in which REBOA is contraindicated. 
+According to the current US Army Joint Trauma 
+Figure 24. Abdominal Aortic Zones of Injury for Surgical Approaches and Abdominal Zones of Injury Based on Trauma 
+Classification.
+(A) The abdominal aortic zones of injury described by Shalhub et al.1 (B) The abdominal zones of injury traditionally described in trauma. The 
+abdominal aortic zones of injury may help in prognostication and deciding whether an endovascular or open repair is feasible. Shalhub et al1 
+found that the mortality rate was highest in zone 2 (see panel A) grade 4 aortic injuries (Table 33). Moreover, no zone 2 aortic injuries identified 
+in a multicenter experience were managed by endovascular means. Panel A, adapted from Shalhub et al.1 Copyright 2014, with permission from 
+Wolters Kluwer Health, Inc.
+Downloaded from http://ahajournals.org by on May 30, 2026
+=== PAGE 88 ===
+Circulation. 2022;146:e334–e482. DOI: 10.1161/CIR.0000000000001106 December 13, 2022 e421
+Isselbacher et al 2022 ACC/AHA Aortic Disease Guideline
+CLINICAL STATEMENTS 
+AND GUIDELINES
+System clinical practice guidelines, REBOA is con-
+traindicated in those with pericardial tamponade 
+and major thoracic hemorrhage. Relative contrain-
+dications to REBOA use include cardiac arrest or 
+shock caused by penetrating chest trauma.
+7.7.3. Long-Term Management and Surveillance 
+After Blunt Traumatic Aortic Injury (BTAI)
+Recommendations for Long-Term Management and Surveillance After 
+BTAI
+COR LOE Recommendations
+2a C-LD
+1. In patients with BTAI who have undergone 
+aortic repair, surveillance imaging at intervals 
+appropriate for the repair approach and loca-
+tion (see Section 7 .8, “Long-Term Manage-
+ment and Surveillance Imaging Following 
+AAS”) is reasonable.1-4
+2b C-LD
+2. In patients with BTAI who have not undergone 
+repair, surveillance imaging with a CT at 1 
+month, 6 months, and 12 months after the 
+diagnosis and, if stable, at appropriate inter-
+vals thereafter (depending on the type and 
+extent of the injury), may be  reasonable.5
+Synopsis
+In-hospital and midterm outcomes after open and endo-
+vascular repair for BTAI are good for patients who sur-
+vive to hospital discharge.2-4 However, long-term data are 
+limited that report outcomes after open or endovascu-
+lar surgical repair for blunt aortic injury. The SVS clini-
+cal practice guidelines for traumatic thoracic aortic injury 
+suggest that follow-up after TEVAR could be decreased 
+to every 2 to 5 years in the absence of abnormalities on 
+follow-up imaging (ie, stent graft migration, endoleak) or 
+could follow-up standard postoperative imaging surveil-
+lance paradigms.6 No published guidelines are available 
+for postoperative surveillance after open or endovascular 
+abdominal aortic repair for blunt aortic injury.
+Long-term data about outcomes of blunt aortic inju-
+ries managed nonoperatively are limited. A recent sys-
+temic review of nonoperative management of blunt 
+thoracic aortic injuries showed low aortic-related event 
+rates but injury progression in 7 .6% of patients on sur-
+veillance imaging (follow-up, 1 day to 118 months). 5 In 
+published series of blunt aortic injury, patients with dis-
+ease progression on repeat imaging all undergo repair.4,5
+Recommendation-Specific Supportive Text
+1. In-hospital data suggest that endograft malposi-
+tion (3%) and endoleak (2%) may occur in some 
+patients immediately after endovascular repair,1 but 
+midterm data after open or endovascular repair of 
+BTAIs suggest a low incidence of endoleak, stent 
+migration, or reintervention after a mean of 52 to 
+60 months. 2-4 Long-term data for outcomes of 
+open or endovascular repair of BTAI are lacking.
+2. Among patients with blunt traumatic injury who 
+are managed nonoperatively, injury progression 
+occurred in 7 .6% of patients, and injury healing 
+or improvement was observed in 34% of patients 
+after a range of 1 day to 118 months of follow-
+up.5 Injury progression, intervention, or both occur 
+in 0.68% of patients with grade 1 to 2 BTAI.5 Long-
+term data for outcomes of blunt aortic injuries 
+managed nonoperatively are lacking.
+7 .8. Long-Term Management and Surveillance 
+Imaging After AAS
+7.8.1. Long-Term Surveillance Imaging After Aortic 
+Dissection and IMH
+Recommendations for Long-Term Surveillance Imaging After Aortic 
+Dissection and IMH
+Referenced studies that support the recommendations are 
+summarized in the Online Data Supplement.
+COR LOE Recommendations
+1 B-NR
+1. In patients who have had an acute aortic dis-
+section and IMH treated with either open or 
+endovascular aortic repair and have residual 
+aortic disease, surveillance imaging with a 
+CT (or MRI) is recommended after 1 month, 
+6 months, and 12 months and then, if stable, 
+annually thereafter.1-6
+1 B-NR
+2. In patients who have had an acute aortic dis-
+section and IMH that was managed with medi-
+cal therapy alone, surveillance imaging with a 
+CT (or MRI) is recommended after 1 month, 
+6 months, and 12 months and then, if stable, 
+annually thereafter.7
+Synopsis
+Survival after an acute aortic dissection and IMH does 
+not guarantee freedom from subsequent aortic events 
+because of residual aortic dissection and risk of aneu-
+rysm formation. Ten-year survival after repair of acute 
+type A aortic dissection is approximately 60% to 65%.1,8 
+Risk of reoperation is increased for the aortic valve, the 
+aortic root, and the distal aorta, 1,8,9 with an aortic root 
+reoperation rate of approximately 15% at 15 years. 9,10 
+The growth rate of the distal aorta is ∼1 mm/y, and the 
+risk of distal aortic reoperation ranges from 10% to 16% 
+at 10 years.1,8,9 Although the use of TEVAR provides pro-
+tection from early aortic-related death 11 in acute type B 
+aortic dissection, reintervention rates after TEVAR for 
+can range from 27% to 39% at midterm follow-up. 11,12 
+Surveillance imaging after thoracic aneurysm repair is 
+critical to monitor for progression of residual aortic dis-
+ease and the potential need for reintervention.
+Recommendation-Specific Supportive Text
+1. Although patients with uncomplicated type B aor-
+tic dissection who are managed medically have a 
+Downloaded from http://ahajournals.org by on May 30, 2026
+=== PAGE 89 ===
+December 13, 2022 Circulation. 2022;146:e334–e482. DOI: 10.1161/CIR.0000000000001106e422
+Isselbacher et al 2022 ACC/AHA Aortic Disease Guideline
+CLINICAL STATEMENTS  
+AND GUIDELINES
+favorable early prognosis, delayed aortic expansion 
+occurs in 20% to 50% of patients over 4 years,7 so 
+regular surveillance imaging is essential to detect 
+midterm and late aortic growth.7
+2. After surgical replacement of the ascending tho-
+racic aorta in acute type A aortic dissection, patients 
+remain at risk for progressive enlargement of unre-
+paired segments of residual dissected aorta, as well 
+as potential growth of nondissected native aortic 
+segments because of underlying medial degenera-
+tion. Consequently, repeat intervention on the aortic 
+root, arch, or thoracoabdominal aorta may become 
+necessary. For acute type B aortic dissection, 1,2 
+TEVAR may leave a patent false lumen, which can 
+lead to aneurysm growth, and can be complicated 
+by early endoleaks in up to 35% of patients and 
+late endoleaks in 13% of patients.5 Careful follow-
+up is needed to monitor for progression of disease 
+in both dissected and nondissected aorta. In addi-
+tion to using cross-sectional imaging for most of 
+the aorta, TTE can be helpful in monitoring aortic 
+root anatomy and aortic valve function over time.
+7.8.2. Long-Term Management After Acute Aortic 
+Dissection and IMH
+Recommendation for Long-Term Management After Acute Aortic 
+Dissection and IMH
+Referenced studies that support the recommendation are summarized 
+in the Online Data Supplement.
+COR LOE Recommendation
+1 B-NR
+1. In patients with a previous acute aortic 
+dissection and IMH, whether initially 
+treated medically or with intervention, 
+who have chronic residual TAD and an 
+aneurysm with a total aortic diameter of 
+≥5.5 cm, elective thoracic aortic repair is 
+ recommended. 1-4
+Synopsis
+Despite the outcomes reported for surgical repair of 
+acute aortic dissection and IMH, a risk of ongoing growth 
+is possible in the residually dissected as well as nondis-
+sected thoracic aortic segments. When surveillance imag-
+ing detects progression of residual aortic disease after 
+successful treatment of acute aortic dissection and IMH, 
+there may be a potential need for aortic reintervention.
+Recommendation-Specific Supportive Text
+1. Reoperation after acute type A aortic dissection 
+repair is associated with low rates of complication. 
+The primary indications for reoperation are aneu-
+rysms of the thoracic aorta, aortic anastomotic 
+pseudoaneurysms, progressive AR, or graft infec-
+tion.1 Operative mortality rate of elective repair is 
+<10%.1-4 After TEAVR, false-lumen thrombosis can 
+occur in 62% of extent 3B dissection and 91% of 
+extent 3A dissection cases. Reintervention rates 
+after TEVAR range from 15% to 26% at 5 years and 
+are dependent on the extent of aortic dissection.4
+7.8.3. Long-Term Management and Surveillance for 
+PAUs
+Recommendations for Long-Term Management and Surveillance for 
+PAUs
+COR LOE Recommendations
+2a C-LD
+1. In patients with a PAU who have under-
+gone aortic repair, surveillance imaging 
+at intervals appropriate for the repair 
+approach and location (see Section 6.5.6, 
+“Surveillance After Aneurysm Repair”) is 
+reasonable. 1-3
+2a C-LD
+2. In patients with a PAU that is being managed 
+medically, surveillance imaging with a CT is 
+reasonable at 1 month after the diagnosis 
+and, if stable, every 6 months for 2 years, 
+and then at appropriate intervals thereafter 
+(depending on patient age and PAU charac-
+teristics).1,4
+Synopsis
+For patients who undergo repair of a PAU, clinical failure 
+(defined as endoleak, disease progression, graft occlu-
+sion, repeat aortic intervention, or procedure or aortic-
+related death) by 1 year after endovascular and open 
+repair occur in 8.6% and 8.7%, respectively. 1 No long-
+term data exist for outcomes after repair of PAU, but 
+ aortic-related complication rates after intervention are 
+likely similar to those for TAA.
+For patients with PAUs who are managed nonopera-
+tively, the risk of disease progression is significant. 1,5,6 
+Disease progression occurs more frequently in patients 
+presenting with symptomatic versus asymptomatic 
+PAUs7 but is >15% for both. 7, 8 Among patients with a 
+PAU who have progression of disease on surveillance 
+imaging, 73% will show continued worsening on subse-
+quent imaging, and 46% will have progression to frank 
+dissection after a mean of 12 months.
+Recommendation-Specific Supportive Text
+1. After open or endovascular repair of a PAU, there 
+is a 9% risk of clinical failure by 12 months postop-
+eratively.1 Freedom from cumulative complications 
+and interventions is 86% at 12 months, 79% at 
+24 months, and 71% at 36 months postopera-
+tively.2 After 18 months of follow-up, new PAUs 
+are observed in approximately 5% of patients who 
+have undergone repair of a different PAU.3
+2. In a series of 109 patients with acute PAUs, 28% 
+suffered from an aortic-related adverse event by 
+30 days of follow-up. 4 Based on a systematic 
+review of 184 patients with either thoracic or aortic 
+PAU, 30% had radiographic evidence of disease 
+progression on midterm follow-up. 1 For patients 
+Downloaded from http://ahajournals.org by on May 30, 2026
+=== PAGE 90 ===
+Circulation. 2022;146:e334–e482. DOI: 10.1161/CIR.0000000000001106 December 13, 2022 e423
+Isselbacher et al 2022 ACC/AHA Aortic Disease Guideline
+CLINICAL STATEMENTS 
+AND GUIDELINES
+with abdominal PAU, 23% have disease progres-
+sion on CTA by 8 months of follow-up, although the 
+risk is higher in symptomatic (43%) versus asymp-
+tomatic (17%) patients.7
+8. PREGNANCY IN PATIENTS WITH 
+AORTOPATHY
+8.1. Counseling and Management of Aortic 
+Disease in Pregnancy and Postpartum
+Recommendations for Counseling and Management of Aortic Disease 
+in Pregnancy and Postpartum
+COR LOE Recommendations
+Prepregnancy
+1 C-LD
+1. In patients with genetic aortopathies attributable 
+to syndromic (Marfan syndrome, Loeys-Dietz 
+syndrome, vascular Ehlers-Danlos syndrome) 
+and nsHTAD and who are contemplating preg-
+nancy, genetic counseling before pregnancy to 
+discuss the heritable nature of their condition is 
+recommended.1-4
+1 C-LD
+2. In patients with syndromic and nsHTAD, Turner 
+syndrome, BAV with aortic dilation, and other 
+aortopathy conditions, aortic imaging (with 
+TTE, MRI or CT, or both as appropriate) before 
+pregnancy is recommended to determine aortic 
+ diameters.1-3,5-13
+1 C-LD
+3. In patients with syndromic and nsHTAD, 
+Turner syndrome, BAV with aortic dilation, and 
+other aortopathy conditions, who are contem-
+plating pregnancy, counseling about the risks 
+of aortic dissection related to pregnancy is 
+recommended.2-5,10,12,14
+During Pregnancy
+2a C-EO
+4. In patients with aortic aneurysms, or at increased 
+risk of aortic dissection, or both, it is recom-
+mended that pregnancy be managed by a 
+multidisciplinary team including a maternal fetal 
+medicine specialist and cardiologist, and, if 
+logistically feasible, that delivery be planned in 
+a hospital where the capability for emergency 
+aortic repair is available.
+1 C-LD
+5. In patients with aortopathies who are preg-
+nant, guideline-directed treatment of hyper-
+tension is recommended.61517
+1 C-EO
+6. In patients with syndromic and nsHTAD, 
+beta-blocker therapy during pregnancy and 
+postpartum is recommended, unless contrain-
+dicated.
+1 C-LD
+7 . In pregnant patients with an aortopathic 
+condition or a dilated aortic root or ascend-
+ing aorta, surveillance TTE to monitor aortic 
+diameters and aortic valve function is recom-
+mended each trimester and again several 
+weeks postpartum, although imaging may be 
+more frequent depending on aortic diameter, 
+aortic growth rate, and underlying condi-
+tion.7-9,17 ,18
+1 C-LD
+8. In pregnant patients with aortic disease who 
+require surveillance imaging of the aortic arch, 
+descending, abdominal aorta, or all 3, MRI with-
+out gadolinium is recommended over CT to avoid 
+radiation exposure to the fetus.19,20
+Synopsis
+Pregnancy leads to hemodynamic and hormonal changes 
+and is a risk factor for aortic dissection in women with 
+aortopathy.21 Aortic dissection may occur throughout 
+pregnancy or several weeks postpartum, with most in the 
+third trimester or up to 12 weeks’ postpartum. 21 Women 
+with aortopathy, including Marfan syndrome, 6,7 ,13,14,18,19,22 
+Loeys-Dietz syndrome,2,22,23 vascular Ehlers-Danlos syn-
+drome,3,24 nsHTAD, 25,26 Turner syndrome, 12,27 and BAV 
+with aneurysm21,28 are at risk of pregnancy-related aortic 
+dissection. T ype A aortic dissection in pregnancy associ-
+ates with aortic dilation, but type B aortic dissection may 
+occur without aortic dilation.6,13,22
+Before pregnancy, women with or at risk for aortopa-
+thy undergo TTE (and MRI or CT, as appropriate) and 
+are counseled about risks of aortic dissection informed 
+by specific circumstances. Aortic surveillance imaging 
+throughout pregnancy and several weeks postpartum is 
+performed to monitor aortic size.9
+In women at low risk, vaginal delivery is performed with 
+efforts to lessen hemodynamic stress and shorten the 
+second stage of labor.9,14 Women at increased risk of aor-
+tic complications typically undergo cesarean  delivery.9,14
+In women with aortopathy, prepregnancy genetic 
+counseling, aortic imaging, discussion about aortic dis-
+section risk, and shared decision-making are necessary.9
+Recommendation-Specific Supportive Text
+1. HTAD encompasses conditions in which aortic 
+disease has an underlying genetic trigger or famil-
+ial occurrence.29,30 Marfan syndrome, Loeys-Dietz 
+syndrome, vascular Ehlers-Danlos syndrome, and 
+nsHTAD are autosomal dominant conditions with 
+an inheritance risk of 50%. 9,30 BAV may also be 
+familial. Prepregnancy counseling by a genetic 
+counselor, medical geneticist, or both or aortopathy 
+specialist is recommended to discuss the heritabil-
+ity of these conditions and to identify at risk rela-
+tives and to discuss pregnancy concerns.9,30
+2. Women with aortopathic conditions are at risk for 
+aortic dilation and aortic dissection related to preg-
+nancy.14,22,67 Evaluation of the aortic root, ascending 
+aorta, or both by echocardiogram before preg-
+nancy in women with aortopathy is important for 
+prepregnancy counseling and management during 
+pregnancy.1-3,5-7 ,9,11,13 In conditions that associate 
+with aortic disease distal to the ascending aorta, 
+prepregnancy MRI or CT is performed to evaluate 
+for aortic disease.2,5,9,14 
+3. The risk of type A aortic dissection in pregnancy 
+relates to the aortopathy condition and aortic diam-
+eter, but type B aortic dissection may occur with-
+out significant aortic dilation. 6,22 Most dissections 
+related to pregnancy occur in the third trimester 
+and in the first 12 weeks’ postpartum.21 Awareness 
+Downloaded from http://ahajournals.org by on May 30, 2026

@@ -1,4 +1,4 @@
-# 2025 ESC/EACTS Guidelines for the management of valvular heart disease
+# 🫀 <span class="luminous-purple">Valvular Heart Disease</span> <span class="luminous-amber">2025</span> (<span class="luminous-blue">ESC</span>/<span class="luminous-blue">EACTS</span>)
 
 <details class="med-details"><summary>
 

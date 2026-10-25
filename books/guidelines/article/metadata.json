@@ -21,33 +21,33 @@
     "chapters": [
       {
         "file": "chapter-01.md",
-        "title": "Mechanical circulatory support in the new era: an overview (Critical Care 2016)",
-        "russian": "Механическая поддержка кровообращения в новую эпоху: обзор (Critical Care 2016)"
+        "title": "🔄 <span class=\"luminous-cyan\">Mechanical Circulatory Support</span> in the New Era: An Overview (<span class=\"luminous-blue\">Critical Care</span> <span class=\"luminous-amber\">2016</span>)",
+        "russian": "🔄 <span class=\"luminous-cyan\">Механическая поддержка кровообращения</span> в новую эпоху: обзор (<span class=\"luminous-blue\">Critical Care</span> <span class=\"luminous-amber\">2016</span>)"
       },
       {
         "file": "chapter-02.md",
-        "title": "SYNTAX 5-year results (Lancet 2013)",
-        "russian": "SYNTAX: 5-летние результаты (Lancet 2013)"
+        "title": "📊 <span class=\"luminous-green\">SYNTAX</span> 5-Year Results (<span class=\"luminous-blue\">Lancet</span> <span class=\"luminous-amber\">2013</span>)",
+        "russian": "📊 <span class=\"luminous-green\">SYNTAX</span>: 5-летние результаты (<span class=\"luminous-blue\">Lancet</span> <span class=\"luminous-amber\">2013</span>)"
       },
       {
         "file": "chapter-03.md",
-        "title": "NOBLE trial, 5-year results (Lancet 2020)",
-        "russian": "NOBLE исследование: 5-летние результаты (Lancet 2020)"
+        "title": "🎯 <span class=\"luminous-cyan\">NOBLE</span> Trial, 5-Year Results (<span class=\"luminous-blue\">Lancet</span> <span class=\"luminous-amber\">2020</span>)",
+        "russian": "🎯 <span class=\"luminous-cyan\">NOBLE</span> исследование: 5-летние результаты (<span class=\"luminous-blue\">Lancet</span> <span class=\"luminous-amber\">2020</span>)"
       },
       {
         "file": "chapter-04.md",
-        "title": "NOBLE trial, 30 days and 5-year results (Lancet 2016)",
-        "russian": "NOBLE исследование: 30-дневные и 5-летние результаты (Lancet 2016)"
+        "title": "📈 <span class=\"luminous-cyan\">NOBLE</span> Trial, 30 Days and 5-Year Results (<span class=\"luminous-blue\">Lancet</span> <span class=\"luminous-amber\">2016</span>)",
+        "russian": "📈 <span class=\"luminous-cyan\">NOBLE</span> исследование: 30-дневные и 5-летние результаты (<span class=\"luminous-blue\">Lancet</span> <span class=\"luminous-amber\">2016</span>)"
       },
       {
         "file": "chapter-05.md",
-        "title": "Management of blunt thoracic aortic injury (SVS 2024)",
-        "russian": "Тупая травма грудной аорты (SVS 2024)"
+        "title": "🚑 Management of <span class=\"luminous-red\">Blunt Thoracic Aortic Injury</span> (<span class=\"luminous-blue\">SVS</span> <span class=\"luminous-amber\">2024</span>)",
+        "russian": "🚑 <span class=\"luminous-red\">Тупая травма грудной аорты</span> (<span class=\"luminous-blue\">SVS</span> <span class=\"luminous-amber\">2024</span>)"
       },
       {
         "file": "chapter-06.md",
-        "title": "Aortic valve repair and valve-sparing root replacement (EACTS 2026)",
-        "russian": "Пластика аортального клапана и клапансохраняющие операции (EACTS 2026)"
+        "title": "🛠️ <span class=\"luminous-purple\">Aortic Valve Repair and Valve-Sparing Root Replacement</span> (<span class=\"luminous-blue\">EACTS</span> <span class=\"luminous-amber\">2026</span>)",
+        "russian": "🛠️ <span class=\"luminous-purple\">Пластика аортального клапана и клапансохраняющие операции</span> (<span class=\"luminous-blue\">EACTS</span> <span class=\"luminous-amber\">2026</span>)"
       }
     ],
     "appendices": []

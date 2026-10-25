@@ -1,4 +1,4 @@
-# Рекомендации ESC 2022 по кардиоонкологии
+# 🎗️ <span class="luminous-purple">Кардиоонкология</span> <span class="luminous-amber">2022</span> (<span class="luminous-blue">ESC</span>/<span class="luminous-blue">EHA</span>/<span class="luminous-blue">ESTRO</span>/<span class="luminous-blue">IC-OS</span>)
 
 ##### Разработаны совместно с Европейской гематологической ассоциацией (EHA), Европейским обществом терапевтической радиационной онкологии (ESTRO) и Международным обществом кардиоонкологии (IC-OS).
 

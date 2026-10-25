@@ -1,0 +1,82 @@
+[
+  {
+    "idx": 1,
+    "fig_id": "fig-10-01",
+    "fnum": "10.1.1",
+    "caption": "Physiological amount of pericardial fluid (arrow)",
+    "page": 422,
+    "size": "561x1218"
+  },
+  {
+    "idx": 2,
+    "fig_id": "fig-10-02",
+    "fnum": "10.1.2",
+    "caption": "Pleural effusion behind the left atrium and decending aorta (DA)",
+    "page": 422,
+    "size": "561x1218"
+  },
+  {
+    "idx": 3,
+    "fig_id": "fig-10-03",
+    "fnum": "10.1.3",
+    "caption": "Epicardial fat (arrow)",
+    "page": 423,
+    "size": "834x729"
+  },
+  {
+    "idx": 4,
+    "fig_id": "fig-10-04",
+    "fnum": "10.1.4",
+    "caption": "Pericardial haematoma (arrow)",
+    "page": 424,
+    "size": "834x698"
+  },
+  {
+    "idx": 5,
+    "fig_id": "fig-10-05",
+    "fnum": "10.1.5",
+    "caption": "Normal respiratory variations of the filling and ventricular interdependence (HV = hepatic veins, LA = left atrium, LV = left ventricle, MI = mitral valve, PV = pulmonary veins, RA = right atrium, RV = right ventricle, TR = tricuspid",
+    "page": 425,
+    "size": "620x618"
+  },
+  {
+    "idx": 6,
+    "fig_id": "fig-10-06",
+    "fnum": "10.1.7",
+    "caption": "Right atrial collapse during systole (A). Right ventricular diastolic collapse (B). Dilatation of the inferior vena cava and blunted respiratory changes (C)",
+    "page": 428,
+    "size": "1958x612"
+  },
+  {
+    "idx": 7,
+    "fig_id": "fig-10-07",
+    "fnum": "10.2.1",
+    "caption": "Respiratory variations of the filling and ventricular interdependence (HV = hepatic veins, LA = left atrium, LV = left ventricle, MI = mitral valve, PV = pulmonary veins, RA = right atrium, RV = right ventricle, TR = tricupsid) with thickened and constrictive pericard",
+    "page": 429,
+    "size": "869x617"
+  },
+  {
+    "idx": 8,
+    "fig_id": "fig-10-08",
+    "fnum": "10.2.2",
+    "caption": "Illustration of septal bouncing in a 4-chamber apical view (A). Doppler recordings of the mitral inflow with an increase > 25 % with expiration (B). Tissue Doppler velocities of the septal and lateral mitral annulus (C)",
+    "page": 430,
+    "size": "1457x980"
+  },
+  {
+    "idx": 9,
+    "fig_id": "fig-10-09",
+    "fnum": "10.2.3",
+    "caption": "Echo before (A) and after pericardiocentesis (B)",
+    "page": 433,
+    "size": "1461x650"
+  },
+  {
+    "idx": 10,
+    "fig_id": "fig-10-10",
+    "fnum": "10.4.1",
+    "caption": "Short-axis spin-echo MR image of extreme levorotation due to congenital absence of pericardium",
+    "page": 435,
+    "size": "834x749"
+  }
+]

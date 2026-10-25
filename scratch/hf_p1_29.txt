@@ -1,0 +1,2849 @@
+
+=== PAGE 1 ===
+e895
+CirculationCirculation. 2022;145:e895–e1032. DOI: 10.1161/CIR.0000000000001063 May 3, 2022
+Circulation is available at www.ahajournals.org/journal/circ
+*Writing committee members are required to recuse themselves from voting on sections to which their specific relationships with industry may apply; see Appendix 1 
+for detailed information. †ACC/AHA Representative. ‡ACC/AHA Joint Committee on Clinical Practice Guidelines Liaison. §ACC/AHA Task Force on Performance 
+Measures Representative. ‖HFSA Representative.
+ACC/AHA Joint Committee on Clinical Practice Guidelines Members, see page e986.
+The American Heart Association requests that this document be cited as follows: Heidenreich PA, Bozkurt B, Aguilar D, Allen LA, Byun JJ, Colvin MM, Deswal A, 
+Drazner MH, Dunlay SM, Evers LR, Fang JC, Fedson SE, Fonarow GC, Hayek SS, Hernandez AF, Khazanie P, Kittleson MM, Lee CS, Link MS, Milano CA, Nnacheta LC, 
+Sandhu AT, Stevenson LW, Vardeny O, Vest AR, Yancy CW. 2022 AHA/ACC/HFSA guideline for the management of heart failure: a report of the American College of 
+Cardiology/American Heart Association Joint Committee on Clinical Practice Guidelines. Circulation. 2022;145:e895–e1032. doi: 10.1161/CIR.0000000000001063
+© 2022 by the American Heart Association, Inc., the American College of Cardiology Foundation, and the Heart Failure Society of America. 
+AHA/ACC/HFSA CLINICAL PRACTICE GUIDELINE
+2022 AHA/ACC/HFSA Guideline for the 
+Management of Heart Failure: A Report of the 
+American College of Cardiology/American Heart 
+Association Joint Committee on Clinical Practice 
+Guidelines
+Writing Committee Members*
+Paul A. Heidenreich, MD, MS, FACC, FAHA, FHFSA, Chair†; Biykem Bozkurt, MD, PhD, FACC, FAHA, FHFSA, Vice Chair†;  
+David Aguilar, MD, MSc, FAHA†; Larry A. Allen, MD, MHS, FACC, FAHA, FHFSA†; Joni J. Byun†; Monica M. Colvin, MD, MS, FAHA†; 
+Anita Deswal, MD, MPH, FACC, FAHA, FHFSA‡; Mark H. Drazner, MD, MSc, FACC, FAHA, FHFSA†;  
+Shannon M. Dunlay, MD, MS, FAHA, FHFSA†; Linda R. Evers, JD†; James C. Fang, MD, FACC, FAHA, FHFSA†;  
+Savitri E. Fedson, MD, MA†; Gregg C. Fonarow, MD, FACC, FAHA, FHFSA§; Salim S. Hayek, MD, FACC†;  
+Adrian F. Hernandez, MD, MHS‡; Prateeti Khazanie, MD, MPH, FHFSA†; Michelle M. Kittleson, MD, PhD†;  
+Christopher S. Lee, PhD, RN, FAHA, FHFSA†; Mark S. Link, MD†; Carmelo A. Milano, MD†; Lorraine C. Nnacheta, DrPH, MPH†; 
+Alexander T. Sandhu, MD, MS†; Lynne Warner Stevenson, MD, FACC, FAHA, FHFSA†; Orly Vardeny, PharmD, MS, FAHA, FHFSA‖; 
+Amanda R. Vest, MBBS, MPH, FHFSA‖ ; Clyde W. Yancy, MD, MSc, MACC, FAHA, FHFSA†
+AIM: The “2022 AHA/ACC/HFSA Guideline for the Management of Heart Failure” replaces the “2013 ACCF/AHA Guideline 
+for the Management of Heart Failure” and the “2017 ACC/AHA/HFSA Focused Update of the 2013 ACCF/AHA Guideline 
+for the Management of Heart Failure.” The 2022 guideline is intended to provide patient-centric recommendations for 
+clinicians to prevent, diagnose, and manage patients with heart failure.
+METHODS : A comprehensive literature search was conducted from May 2020 to December 2020, encompassing studies, 
+reviews, and other evidence conducted on human subjects that were published in English from MEDLINE (PubMed), 
+EMBASE, the Cochrane Collaboration, the Agency for Healthcare Research and Quality, and other relevant databases. 
+Additional relevant clinical trials and research studies, published through September 2021, were also considered. This 
+guideline was harmonized with other American Heart Association/American College of Cardiology guidelines published 
+through December 2021.
+STRUCTURE: Heart failure remains a leading cause of morbidity and mortality globally. The 2022 heart failure guideline provides 
+recommendations based on contemporary evidence for the treatment of these patients. The recommendations present an 
+evidence-based approach to managing patients with heart failure, with the intent to improve quality of care and align with 
+patients’ interests. Many recommendations from the earlier heart failure guidelines have been updated with new evidence, 
+and new recommendations have been created when supported by published data. Value statements are provided for certain 
+treatments with high-quality published economic analyses.
+AHA Scientific Statements
+Downloaded from http://ahajournals.org by on May 30, 2026
+
+=== PAGE 2 ===
+May 3, 2022 Circulation. 2022;145:e895–e1032. DOI: 10.1161/CIR.0000000000001063e896
+CLINICAL STATEMENTS  
+AND GUIDELINES
+Heidenreich et al 2022 AHA/ACC/HFSA Heart Failure Guideline
+Key Words: AHA Scientific Statements ◼ heart failure ◼ heart failure with reduced ejection fraction ◼ heart failure with preserved ejection fraction 
+◼ heart failure with mildly reduced ejection fraction ◼ systolic heart failure ◼ heart failure rehabilitation ◼ cardiac failure ◼ chronic heart failure  
+◼ acute decompensated heart failure ◼ cardiogenic shock ◼ beta blockers ◼ mineralocorticoid receptor antagonists ◼ ACE inhibitors  
+◼ angiotensin and neprilysin receptor antagonist ◼ sacubitril valsartan ◼ angiotensin receptor antagonist ◼ sodium glucose co-transporter 2  
+◼ SGL T2 inhibitors ◼ cardiac amyloidosis ◼ atrial fibrillation ◼ congestive heart failure ◼ guideline-directed medical therapy  
+◼ diabetes ◼ cardiomyopathy ◼ valvular heart disease ◼ mitral regurgitation ◼ cardiomyopathy in pregnancy ◼ reduced ejection fraction  
+◼ right heart pressure ◼ palliative care ◼ cardio-oncology ◼ social determinants of health
+TABLE OF CONTENTS
+Abstract .............................................................e895
+Top 10 Take-Home Messages ............................e897
+Preamble ........................................................... e898
+1. Introduction ................................................... e899
+1.1. Methodology and Evidence Review .........e899
+1.2. Organization of the Writing Committee ....e899
+1.3. Document Review and Approval .............e899
+1.4. Scope of the Guideline ...........................e899
+1.5. Class of Recommendation and  
+Level of Evidence ...................................e900
+1.6. Abbreviations ......................................... e900
+2. Definition of HF .............................................e901
+2.1. Stages of HF .........................................e901
+2.2. Classification of HF by Left Ventricular 
+Ejection Fraction (L VEF).........................e901
+2.3. Diagnostic Algorithm for Classification  
+of HF According to L VEF .......................e905
+3. Epidemiology and Causes of HF .....................e906
+3.1. Epidemiology of HF ...............................e906
+3.2. Cause of HF ..........................................e907
+4. Initial and Serial Evaluation .............................e908
+4.1. Clinical Assessment: History and  
+Physical Examination .............................e908
+4.1.1. Initial Laboratory and 
+Electrocardiographic Testing  .......e910
+4.2. Use of Biomarkers for Prevention, Initial 
+Diagnosis, and Risk Stratification ............e911
+4.3. Genetic Evaluation and Testing ...............e912
+4.4. Evaluation With Cardiac Imaging.............e913
+4.5. Invasive Evaluation .................................e915
+4.6. Wearables and Remote Monitoring  
+(Including Telemonitoring and Device 
+Monitoring) ............................................e916
+4.7 . Exercise and Functional Capacity  
+Testing ..................................................e917
+4.8. Initial and Serial Evaluation: Clinical 
+Assessment: HF Risk Scoring ................e918
+5. Stage A (Patients at Risk for HF) ...................e919
+5.1. Patients at Risk for HF (Stage A:  
+Primary Prevention) ................................e919
+6. Stage B (Patients With Pre-HF) ......................e921
+6.1. Management of Stage B: Preventing  
+the Syndrome of Clinical HF in  
+Patients With Pre-HF .............................e921
+7 . Stage C HF ...................................................e923
+7 .1. Nonpharmacological Interventions ..........e923
+7 .1.1. Self-Care Support in HF .............e923
+7 .1.2. Dietary Sodium Restriction ..........e925
+7 .1.3. Management of Stage C HF:  
+Activity, Exercise Prescription,  
+and Cardiac Rehabilitation ...........e926
+7 .2. Diuretics and Decongestion Strategies  
+in Patients With HF ................................e927
+7 .3. Pharmacological Treatment for HFrEF .......e928
+7.3.1. Renin-Angiotensin System Inhibition  
+With ACEi or ARB or ARNi ..........e928
+7 .3.2. Beta Blockers .............................e931
+7 .3.3. Mineralocorticoid Receptor  
+Antagonists (MRAs) ....................e931
+7 .3.4. Sodium-Glucose Cotransporter  
+2 Inhibitors .................................e932
+7 .3.5. Hydralazine and Isosorbide  
+Dinitrate .....................................e933
+7 .3.6. Other Drug Treatment .................e934
+7 .3.7 . Drugs of Unproven Value or  
+That May Worsen HF ..................e935
+7 .3.8. GDMT Dosing: Sequencing  
+and Uptitration ............................e937
+7 .3.9. Additional Medical Therapies .......e939
+7 .3.9.1. Management of Stage C  
+HF: Ivabradine ...............e939
+7 .3.9.2. Pharmacological  
+Treatment for Stage C  
+HFrEF (Digoxin) ............e940
+7 .3.9.3. Pharmacological  
+Treatment for Stage C  
+HFrEF: Soluble Guanylyl  
+Cyclase Stimulators .......e941
+7 .4. Device and Interventional Therapies  
+for HFrEF ..............................................e941
+7 .4.1. ICDs and CRTs ...........................e941
+7 .4.2. Other Implantable Electrical 
+Interventions ...............................e945
+7 .4.3. Revascularization for CAD ...........e945
+7 .5. Valvular Heart Disease ...........................e946
+7 .6. Heart Failure With Mildly Reduced  
+EF (HFmrEF) and Improved EF  
+(HFimpHF) ............................................e948
+7 .6.1. HF With Mildly Reduced  
+Ejection Fraction .........................e948
+7 .6.2. HF With Improved Ejection  
+Fraction ......................................e949
+Downloaded from http://ahajournals.org by on May 30, 2026
+=== PAGE 3 ===
+Circulation. 2022;145:e895–e1032. DOI: 10.1161/CIR.0000000000001063 May 3, 2022 e897
+CLINICAL STATEMENTS 
+AND GUIDELINES
+Heidenreich et al 2022 AHA/ACC/HFSA Heart Failure Guideline
+7 .7 . Preserved EF (HFpEF) ..........................e949
+7 .7 .1. HF With Preserved Ejection  
+Fraction ......................................e949
+7 .8. Cardiac Amyloidosis ...............................e952
+7.8.1. Diagnosis of Cardiac Amyloidosis ....e952
+7.8.2. Treatment of Cardiac Amyloidosis ....e954
+8. Stage D (Advanced) HF .................................e955
+8.1. Specialty Referral for Advanced HF ........e955
+8.2. Nonpharmacological Management:  
+Advanced HF ........................................e956
+8.3. Inotropic Support ...................................e957
+8.4. Mechanical Circulatory Support ..............e958
+8.5. Cardiac Transplantation ..........................e960
+9. Patients Hospitalized With Acute  
+Decompensated HF .......................................e960
+9.1. Assessment of Patients Hospitalized  
+With Decompensated HF .......................e960
+9.2. Maintenance or Optimization of  
+GDMT During Hospitalization .................e962
+9.3. Diuretics in Hospitalized Patients: 
+Decongestion Strategy...........................e963
+9.4a. Parenteral Vasodilation Therapy in  
+Patients Hospitalized With HF ................e964
+9.4b. VTE Prophylaxis in Hospitalized  
+Patients .................................................e965
+9.5. Evaluation and Management of  
+Cardiogenic Shock .................................e965
+9.6. Integration of Care: Transitions and  
+Team-Based Approaches .......................e967
+10. Comorbidities in Patients With HF ................e969
+10.1. Management of Comorbidities in  
+Patients With HF ...............................e969
+10.2. Management of AF in HF...................e972
+11. Special Populations ......................................e973
+11.1. Disparities and Vulnerable  
+Populations .......................................e973
+11.2. Cardio-Oncology ................................e975
+11.3. HF and Pregnancy .............................e978
+12. Quality Metrics and Reporting ......................e980
+12.1. Performance Measurement ................e980
+13. Goals of Care ..............................................e980
+13.1. Palliative and Supportive Care, Shared 
+Decision-Making, and End-of-Life ........e980
+14. Recommendation for Patient-Reported  
+Outcomes and Evidence Gaps and  
+Future Research Directions ..........................e986
+14.1. Patient-Reported Outcomes ...............e986
+14.2. Evidence Gaps and Future  
+Research Directions ...........................e986
+References .........................................................e987
+Appendix 1
+  Author Relationships With Industry and  
+Other Entities (Relevant) ...................................e1026
+Appendix 2
+  Reviewer Relationships With Industry and Other 
+Entities (Comprehensive) ..................................e1029
+Appendix 3
+  Appendix for Tables 3 and 4. Suggested  
+Thresholds for Structural Heart Disease and  
+Evidence of Increased Filling Pressures ..............e1032
+TOP 10 TAKE-HOME MESSAGES
+1. Guideline-directed medical therapy (GDMT) for 
+heart failure (HF) with reduced ejection fraction 
+(HFrEF) now includes 4 medication classes that 
+include sodium-glucose cotransporter-2 inhibitors 
+(SGL T2i).
+2. SGL T2i have a Class of Recommendation 2a 
+in HF with mildly reduced ejection fraction 
+(HFmrEF). Weaker recommendations (Class of 
+Recommendation 2b) are made for ARNi, ACEi, 
+ARB, MRA, and beta blockers in this population.
+3. New recommendations for HFpEF are made for 
+SGL T2i (Class of Recommendation 2a), MRAs 
+(Class of Recommendation 2b), and ARNi (Class 
+of Recommendation 2b). Several prior recommen -
+dations have been renewed including treatment of 
+hypertension (Class of Recommendation 1), treat -
+ment of atrial fibrillation (Class of Recommendation 
+2a), use of ARBs (Class of Recommendation 2b), 
+and avoidance of routine use of nitrates or phospho-
+diesterase-5 inhibitors (Class of Recommendation 
+3: No Benefit).
+4. Improved L VEF is used to refer to those patients 
+with previous HFrEF who now have an L VEF 
+>40%. These patients should continue their HFrEF 
+treatment.
+5. Value statements were created for select rec -
+ommendations where high-quality, cost-effec -
+tiveness studies of the intervention have been 
+published.
+6. Amyloid heart disease has new recommendations 
+for treatment including screening for serum and 
+urine monoclonal light chains, bone scintigraphy, 
+genetic sequencing, tetramer stabilizer therapy, and 
+anticoagulation.
+7 . Evidence supporting increased filling pressures is 
+important for the diagnosis of HF if the L VEF is 
+>40%. Evidence for increased filling pressures can 
+be obtained from noninvasive (eg, natriuretic pep -
+tide, diastolic function on imaging) or invasive test -
+ing (eg, hemodynamic measurement).
+8. Patients with advanced HF who wish to prolong 
+survival should be referred to a team specializing 
+in HF. A HF specialty team reviews HF manage -
+ment, assesses suitability for advanced HF thera -
+pies, and uses palliative care including palliative 
+inotropes where consistent with the patient’s 
+goals of care.
+9. Primary prevention is important for those at risk 
+for HF (stage A) or pre-HF (stage B). Stages of 
+Downloaded from http://ahajournals.org by on May 30, 2026
+=== PAGE 4 ===
+May 3, 2022 Circulation. 2022;145:e895–e1032. DOI: 10.1161/CIR.0000000000001063e898
+CLINICAL STATEMENTS  
+AND GUIDELINES
+Heidenreich et al 2022 AHA/ACC/HFSA Heart Failure Guideline
+HF were revised to emphasize the new terminolo -
+gies of “at risk” for HF for stage A and pre-HF for 
+stage B.
+10. Recommendations are provided for select patients 
+with HF and iron deficiency, anemia, hypertension, 
+sleep disorders, type 2 diabetes, atrial fibrillation, 
+coronary artery disease, and malignancy.
+PREAMBLE
+Since 1980, the American College of Cardiology (ACC) 
+and American Heart Association (AHA) have translated 
+scientific evidence into clinical practice guidelines with 
+recommendations to improve cardiovascular health. 
+These guidelines, which are based on systematic meth-
+ods to evaluate and classify evidence, provide a founda-
+tion for the delivery of quality cardiovascular care. The 
+ACC and AHA sponsor the development and publication 
+of clinical practice guidelines without commercial sup-
+port, and members volunteer their time to the writing and 
+review efforts. Guidelines are official policy of the ACC 
+and AHA. For some guidelines, the ACC and AHA part-
+ner with other organizations.
+Intended Use
+Clinical practice guidelines provide recommenda-
+tions applicable to patients with or at risk of developing 
+cardiovascular disease (CVD). The focus is on medical 
+practice in the United States, but these guidelines are rel-
+evant to patients throughout the world. Although guide-
+lines may be used to inform regulatory or payer decisions, 
+the intent is to improve quality of care and align with pa-
+tients’ interests. Guidelines are intended to define prac-
+tices meeting the needs of patients in most, but not all, 
+circumstances and should not replace clinical judgment.
+Clinical Implementation
+Management, in accordance with guideline recommenda-
+tions, is effective only when followed by both practitioners 
+and patients. Adherence to recommendations can be 
+enhanced by shared decision-making between clinicians 
+and patients, with patient engagement in selecting inter-
+ventions on the basis of individual values, preferences, 
+and associated conditions and comorbidities.
+Methodology and Modernization
+The ACC/AHA Joint Committee on Clinical Practice Guide-
+lines (Joint Committee) continuously reviews, updates, and 
+modifies guideline methodology on the basis of published 
+standards from organizations, including the National Acad-
+emy of Medicine (formerly, the Institute of Medicine),1,2 and 
+on the basis of internal reevaluation. Similarly, presentation 
+and delivery of guidelines are reevaluated and modified in 
+response to evolving technologies and other factors to op-
+timally facilitate dissemination of information to health care 
+professionals at the point of care.
+Numerous modifications to the guidelines have been 
+implemented to make them shorter and enhance “user 
+friendliness.” Guidelines are written and presented in a 
+modular, “knowledge chunk” format in which each chunk 
+includes a table of recommendations, a brief synopsis, rec-
+ommendation-specific supportive text and, when appro-
+priate, flow diagrams or additional tables. Hyperlinked 
+references are provided for each modular knowledge 
+chunk to facilitate quick access and review.In recognition 
+of the importance of cost–value considerations, in certain 
+guidelines, when appropriate and feasible, an assessment 
+of value for a drug, device, or intervention may be per-
+formed in accordance with the ACC/AHA methodology.3
+To ensure that guideline recommendations remain cur-
+rent, new data will be reviewed on an ongoing basis by 
+the writing committee and staff. Going forward, targeted 
+sections/knowledge chunks will be revised dynamically 
+after publication and timely peer review of potentially 
+practice-changing science. The previous designations of 
+“full revision” and “focused update” will be phased out. 
+For additional information and policies on guideline devel-
+opment, readers may consult the ACC/AHA guideline 
+methodology manual4 and other methodology articles.5–7
+Selection of Writing Committee Members
+The Joint Committee strives to ensure that the guide-
+line writing committee contains requisite content exper-
+tise and is representative of the broader cardiovascular 
+community by selection of experts across a spectrum of 
+backgrounds, representing different geographic regions, 
+sexes, races, ethnicities, intellectual perspectives/biases, 
+and clinical practice settings. Organizations and profes-
+sional societies with related interests and expertise are 
+invited to participate as partners or collaborators.
+Relationships With Industry and Other Entities
+The ACC and AHA have rigorous policies and methods 
+to ensure that documents are developed without bias or 
+improper influence. The complete policy on relationships 
+with industry and other entities (RWI) can be found online. 
+Appendix 1 of the guideline lists writing committee mem-
+bers’ relevant RWI; for the purposes of full transparency, 
+their comprehensive disclosure information is available in 
+a Supplemental Appendix. Comprehensive disclosure in-
+formation for the Joint Committee is also available online.
+Evidence Review and Evidence Review 
+Committees
+In developing recommendations, the writing committee 
+uses evidence-based methodologies that are based on 
+Downloaded from http://ahajournals.org by on May 30, 2026
+=== PAGE 5 ===
+Circulation. 2022;145:e895–e1032. DOI: 10.1161/CIR.0000000000001063 May 3, 2022 e899
+CLINICAL STATEMENTS 
+AND GUIDELINES
+Heidenreich et al 2022 AHA/ACC/HFSA Heart Failure Guideline
+all available data. 4,5 Literature searches focus on ran-
+domized controlled trials (RCTs) but also include regis-
+tries, nonrandomized comparative and descriptive stud-
+ies, case series, cohort studies, systematic reviews, and 
+expert opinion. Only key references are cited.
+An independent evidence review committee is com-
+missioned when there are ≥ 1 questions deemed of 
+utmost clinical importance and merit formal systematic 
+review to determine which patients are most likely to ben-
+efit from a drug, device, or treatment strategy, and to what 
+degree. Criteria for commissioning an evidence review 
+committee and formal systematic review include absence 
+of a current authoritative systematic review, feasibility of 
+defining the benefit and risk in a time frame consistent 
+with the writing of a guideline, relevance to a substantial 
+number of patients, and likelihood that the findings can 
+be translated into actionable recommendations. Evidence 
+review committee members may include methodologists, 
+epidemiologists, clinicians, and biostatisticians. Recom-
+mendations developed by the writing committee on the 
+basis of the systematic review are marked “SR.”
+Guideline-Directed Medical Therapy
+The term guideline-directed medical therapy (GDMT) 
+encompasses clinical evaluation, diagnostic testing, and 
+both pharmacological and procedural treatments. For 
+these and all recommended drug treatment regimens, the 
+reader should confirm dosage with product insert material 
+and evaluate for contraindications and interactions. Rec-
+ommendations are limited to drugs, devices, and treat-
+ments approved for clinical use in the United States.
+Joshua A. Beckman, MD, MS, FAHA, FACC
+Chair, ACC/AHA Joint Committee on Clinical  
+Practice Guidelines
+1. INTRODUCTION
+1.1. Methodology and Evidence Review
+The recommendations listed in this guideline are, 
+whenever possible, evidence based. An initial exten-
+sive evidence review, which included literature derived 
+from research involving human subjects, published in 
+English, and indexed in MEDLINE (through PubMed), 
+EMBASE, the Cochrane Collaboration, the Agency for 
+Healthcare Research and Quality, and other selected 
+databases relevant to this guideline, was conducted 
+from May 2020 to December 2020. Key search words 
+included but were not limited to the following: heart 
+failure; heart failure with reduced ejection fraction; heart 
+failure with preserved ejection fraction; heart failure with 
+mildly reduced ejection fraction; systolic heart failure; 
+heart failure rehabilitation; cardiac failure; chronic heart 
+failure; acute decompensated heart failure; cardiogenic 
+shock; beta blockers; mineralocorticoid receptor antag-
+onists; ACE-inhibitors, angiotensin and neprilysin recep-
+tor antagonist; sacubitril valsartan; angiotensin receptor 
+antagonist; Sodium glucose co-transporter 2 or SGLT2 
+inhibitors; cardiac amyloidosis; atrial fibrillation; conges-
+tive heart failure; guideline-directed medical therapy; 
+HFrEF; diabetes mellitus; cardiomyopathy; cardiac 
+amyloidosis; valvular heart disease; mitral regurgitation; 
+cardiomyopathy in pregnancy; reduced ejection fraction; 
+right heart pressure; palliative care.
+Additional relevant studies, published through Sep-
+tember 2021 during the guideline writing process, were 
+also considered by the writing committee and added to 
+the evidence tables when appropriate. This guideline was 
+harmonized with other ACC/AHA guidelines published 
+through December 2021.The final evidence tables are 
+included in the Online Data Supplement and summarize 
+the evidence used by the writing committee to formulate 
+recommendations. References selected and published 
+in the present document are representative and not all-
+inclusive.
+1.2. Organization of the Writing Committee
+The writing committee consisted of cardiologists, HF 
+specialists, internists, interventionalists, an electro-
+physiologist, surgeons, a pharmacist, an advanced 
+nurse practitioner, and 2 lay/patient representatives. 
+The writing committee included representatives from 
+the ACC, AHA, and Heart Failure Society of America 
+(HFSA). Appendix 1 of the present document lists writ-
+ing committee members’ relevant RWI. For the purpos-
+es of full transparency, the writing committee members’ 
+comprehensive disclosure information is available in a 
+Supplemental Appendix.
+1.3. Document Review and Approval
+This document was reviewed by 2 official reviewers nom-
+inated by the AHA; 1 official reviewer nominated by the 
+ACC; 2 official reviewers from the HFSA; 1 official Joint 
+Committee on Clinical Practice Guidelines reviewer; and 
+32 individual content reviewers. Reviewers’ RWI informa-
+tion was distributed to the writing committee and is pub-
+lished in this document (Appendix 2).This document was 
+approved for publication by the governing bodies of the 
+ACC, AHA, and HFSA.
+1.4. Scope of the Guideline
+The purpose of the “2022 AHA/ACC/HFSA Guideline 
+for the Management of Heart Failure” (2022 HF guide-
+line) is to provide an update and to consolidate the “2013 
+ACCF/AHA Guideline for the Management of Heart 
+Failure”1 for adults and the “2017 ACC/AHA/HFSA 
+Focused Update of the 2013 ACCF/AHA Guideline for 
+the Management of Heart Failure”2 into a new document. 
+Downloaded from http://ahajournals.org by on May 30, 2026
+=== PAGE 6 ===
+May 3, 2022 Circulation. 2022;145:e895–e1032. DOI: 10.1161/CIR.0000000000001063e900
+CLINICAL STATEMENTS  
+AND GUIDELINES
+Heidenreich et al 2022 AHA/ACC/HFSA Heart Failure Guideline
+Related ACC/AHA guidelines include recommendations 
+relevant to HF and, in such cases, the HF guideline re-
+fers to these documents. For example, the 2019 primary 
+prevention of cardiovascular disease guideline 3 includes 
+recommendations that will be useful in preventing HF, 
+and the 2021 valvular heart disease guideline 4 provides 
+recommendations for mitral valve (MV) clipping in mitral 
+regurgitation (MR).
+Areas of focus include:
+• Prevention of HF.
+• Management strategies in stage C HF, including:
+◦ New treatment strategies in HF, including 
+sodium-glucose cotransporter-2 inhibitors 
+(SGL T2i) and angiotensin receptor-neprilysin 
+inhibitors (ARNi).
+◦ Management of HF and atrial fibrillation (AF), 
+including ablation of AF.
+◦ Management of HF and secondary MR, includ-
+ing MV transcatheter edge-to-edge repair.
+• Specific management strategies, including:
+◦ Cardiac amyloidosis.
+◦ Cardio-oncology.
+• Implantable devices.
+• Left ventricular assist device (L VAD) use in stage D 
+H F.
+The intended primary target audience consists of 
+clinicians who are involved in the care of patients with 
+HF. Recommendations are stated in reference to the 
+patients and their condition. The focus is to provide the 
+most up-to-date evidence to inform the clinician during 
+shared decision-making with the patient. Although the 
+present document is not intended to be a procedural-
+based manual of recommendations that outlines the 
+best practice for HF, there are certain practices that 
+clinicians might use that are associated with improved 
+clinical outcomes.
+In developing the 2022 HF guideline, the writing com-
+mittee reviewed previously published guidelines and 
+related statements. Table 1 contains a list of these guide-
+lines and statements deemed pertinent to this writing 
+effort and is intended for use as a resource, thus obviating 
+the need to repeat existing guideline recommendations.
+1.5. Class of Recommendation and Level of 
+Evidence
+The Class of Recommendation (COR) indicates the 
+strength of recommendation, encompassing the estimat-
+ed magnitude and certainty of benefit in proportion to 
+risk. The Level of Evidence (LOE) rates the quality of sci-
+entific evidence supporting the intervention on the basis 
+of the type, quantity, and consistency of data from clinical 
+trials and other sources (Table 2).1
+1.6. Abbreviations
+Abbreviation Meaning/Phrase
+ACEi angiotensin-converting enzyme inhibitors
+ACS acute coronary syndrome
+ARNi angiotensin receptor-neprilysin inhibitors
+ARB angiotensin (II) receptor blockers
+AF atrial fibrillation
+AL-CM immunoglobulin light chain amyloid cardiomyopathy
+ATTR-CM transthyretin amyloid cardiomyopathy
+ATTRv variant transthyretin amyloidosis
+ATTRwt wild-type transthyretin amyloidosis
+BNP B-type natriuretic peptide
+CABG coronary artery bypass graft
+CAD coronary artery disease
+CCM cardiac contractility modulation
+CHF congestive heart failure
+CKD chronic kidney disease
+CMR cardiovascular magnetic resonance
+COVID-19 coronavirus disease 2019
+CPET cardiopulmonary exercise test
+CRT cardiac resynchronization therapy
+CRT-D cardiac resynchronization therapy with defibrillation
+CRT-P cardiac resynchronization therapy with pacemaker
+CT computed tomography
+CVD cardiovascular disease
+CVP central venous pressure
+DOAC direct-acting oral anticoagulants
+DPP-4 dipeptidyl peptidase-4
+ECG electrocardiogram
+EF ejection fraction
+eGFR estimated glomerular filtration rate
+FDA US Food and Drug Administration
+FLC free light chain
+GDMT guideline-directed medical therapy
+HF heart failure
+HFimpEF heart failure with improved ejection fraction
+HFmrEF heart failure with mildly reduced ejection fraction
+HFpEF heart failure with preserved ejection fraction
+HFrEF heart failure with reduced ejection fraction
+ICD implantable cardioverter-defibrillator
+IFE immunofixation electrophoresis
+LBBB left bundle branch block
+LV left ventricular
+LVAD left ventricular assist device
+LVE DV left ventricular end-diastolic volume
+LVE F left ventricular ejection fraction
+LVH left ventricular hypertrophy
+Downloaded from http://ahajournals.org by on May 30, 2026
+=== PAGE 7 ===
+Circulation. 2022;145:e895–e1032. DOI: 10.1161/CIR.0000000000001063 May 3, 2022 e901
+CLINICAL STATEMENTS 
+AND GUIDELINES
+Heidenreich et al 2022 AHA/ACC/HFSA Heart Failure Guideline
+2. DEFINITION OF HF
+HF Description
+HF is a complex clinical syndrome with symptoms and 
+signs that result from any structural or functional im-
+pairment of ventricular filling or ejection of blood. The 
+writing committee recognizes that asymptomatic stages 
+with structural heart disease or cardiomyopathies are 
+not covered under the above definition as having HF. 
+Such asymptomatic stages are considered at-risk for HF 
+(stage A) or pre-HF (stage B), as explained in Section 
+2.1, “Stages of HF. ”
+2.1. Stages of HF
+The ACC/AHA stages of HF (Figure 1, Table 3) 
+emphasize the development and progression of dis-
+ease,1,2 and advanced stages and progression are as-
+sociated with reduced survival. 3 Therapeutic interven-
+tions in each stage aim to modify risk factors (stage 
+A), treat risk and structural heart disease to prevent 
+HF (stage B), and reduce symptoms, morbidity, and 
+mortality (stages C and D). To address the evolving 
+role of biomarkers and structural changes for recogni-
+tion of patients who are at risk of developing HF, who 
+are potential candidates for targeted treatment strat-
+egies for the prevention of HF, and to enhance the 
+understanding and adoption of these classifications, 
+the writing committee proposed the terminologies 
+listed in Table 3 for the stages of HF. For thresholds 
+of cardiac structural, functional changes, elevated fill-
+ing pressures, and biomarker elevations, refer to Ap-
+pendix 3.
+New York Heart Association (NYHA) 
+Classification
+The NYHA classification is used to characterize symp-
+toms and functional capacity of patients with symp-
+tomatic (stage C) HF or advanced HF (stage D). It is 
+a subjective assessment by a clinician and can change 
+over time. Although reproducibility and validity can be 
+limited,4,5 the NYHA functional classification is an inde-
+pendent predictor of mortality,6,7 and it is widely used in 
+clinical practice to determine the eligibility of patients for 
+treatment strategies. Clinicians specify NYHA classifica-
+tion at baseline after the initial diagnosis and after treat-
+ment through the continuum of care of a patient with 
+HF. Although a patient with symptomatic HF (stage C) 
+may become asymptomatic with treatment (NYHA class 
+I), that patient will still be categorized as stage C HF. Pa-
+tients with stage C HF can be classified according to the 
+trajectory of their symptoms (Figure 2).
+2.2. Classification of HF by Left Ventricular 
+Ejection Fraction (LVEF)
+L VEF is considered important in the classification of 
+patients with HF because of differing prognosis and 
+response to treatments and because most clinical tri-
+als select patients based on ejection fraction (EF). 
+RCTs with evidence of survival benefit in patients with 
+HF have mainly enrolled patients with HF with an 
+L VEF ≤35% or ≤ 40%, often labeled HF with reduced 
+ejection fraction (HFrEF). 1 In this guideline, HFrEF is 
+defined as L VEF ≤40% (Table 4). HF with preserved 
+EF (HFpEF) represents at least 50% of the popula-
+tion with HF, and its prevalence is increasing. 2 HFpEF 
+has been variably classified as L VEF >40%, >45%, or 
+≥50%. Because some of these patients do not have 
+entirely normal L VEF but also do not have major re-
+duction in systolic function, the term preserved EF has 
+been used. In this guideline, the threshold for HFpEF 
+is an L VEF ≥50% (Table 4).
+MCS mechanical circulatory support
+MI myocardial infarction
+MR mitral regurgitation
+MRA mineralocorticoid receptor antagonist
+MV mitral valve
+NSAID nonsteroidal anti-inflammatory drug
+NSVT nonsustained ventricular tachycardia
+NT-proBNP N-terminal prohormone of B-type natriuretic peptide
+NYHA New York Heart Association
+QAL Y quality-adjusted life year
+QOL quality of life
+PA pulmonary artery
+PCWP pulmonary capillary wedge pressure
+PET positron emission tomography
+PPAR-γ peroxisome proliferator-activated receptor gamma
+PUFA polyunsaturated fatty acid
+RA right atrial
+RASS renin-angiotensin-aldosterone system
+RAASi renin-angiotensin-aldosterone system inhibitors
+RCT randomized controlled trial
+RV right ventricular
+SCD sudden cardiac death
+SGLT2i sodium-glucose cotransporter-2 inhibitors
+SPECT single photon emission CT
+99mTc-PYP technetium pyrophosphate
+TEER transcatheter mitral edge-to-edge repair
+TTE transthoracic echocardiogram
+VA ventricular arrhythmia
+VF ventricular fibrillation
+VHD valvular heart disease
+VO2 oxygen consumption/oxygen uptake
+VT ventricular tachycardia
+Abbreviation Meaning/Phrase
+Downloaded from http://ahajournals.org by on May 30, 2026
+=== PAGE 8 ===
+May 3, 2022 Circulation. 2022;145:e895–e1032. DOI: 10.1161/CIR.0000000000001063e902
+CLINICAL STATEMENTS  
+AND GUIDELINES
+Heidenreich et al 2022 AHA/ACC/HFSA Heart Failure Guideline
+Table 1. Associated Guidelines and Statements
+Title Organization
+Publication 
+Year  
+(Reference)
+Guidelines
+2011 ACCF/AHA Guideline for Coronary Artery Bypass Graft Surgery
+  Hillis et al., “2011 ACCF/AHA Guideline for Coronary Artery Bypass Graft Surgery” is now replaced and retired by 
+the “2021 ACC/AHA/SCAI Guideline for Coronary Artery Revascularization”5
+ACCF/AHA 20116
+2011 ACCF/AHA/SCAI Guideline for Percutaneous Coronary Intervention
+  Levine et al., “2011 ACCF/AHA/SCAI Guideline for Percutaneous Coronary Intervention,” is now replaced and 
+retired by the “2021 ACC/AHA/SCAI Guideline for Coronary Artery Revascularization”5
+ACCF/AHA/SCAI 20117
+2015 ACCF/AHA/SCAI Focused Update Guideline for Percutaneous Coronary Intervention ACCF/AHA/SCAI 20168
+2020 ACC/AHA Guideline for the Management of Patients With Valvular Heart Disease ACC/AHA 20214
+2020 AHA/ACC Guideline for the Diagnosis and Treatment of Patients With Hypertrophic Cardiomyopathy ACC/AHA 20209
+2019 ACC/AHA Guideline on the Primary Prevention of Cardiovascular Disease ACC/AHA 20193
+2019 AHA/ACC/HRS Focused Update of the 2014 AHA/ACC/HRS Guideline for the Management of Patients 
+With Atrial Fibrillation
+AHA/ACC/HRS 201910
+2017 ACC/AHA/AAPA/ABC/ACPM/AGS/APhA/ASH/ASPC/NMA/PCNA Guideline for the Prevention, Detec-
+tion, Evaluation, and Management of High Blood Pressure in Adults
+ACC/AHA/AAPA/ABC/
+ACPM/AGS/AphA/ASH/
+ASPC/NMA/PCNA
+201811
+2017 ACC/AHA/HFSA Focused Update of the 2013 ACCF/AHA Guideline for the Management of Heart Failure ACC/AHA/HFSA 20172
+2016 ACC/AHA/HFSA Focused Update on New Pharmacological Therapy for Heart Failure: An Update of the 
+2013 ACCF/AHA Guideline for the Management of Heart Failure
+ACC/AHA/HFSA 201612
+2014 ACC/AHA/AATS/PCNA/SCAI/STS Focused Update of the Guideline for the Diagnosis and Management of 
+Patients With Stable Ischemic Heart Disease
+ACC/AHA/AATS/PCNA/
+SCAI/STS
+201413*
+2013 AHA/ACC Guideline on Lifestyle Management to Reduce Cardiovascular Risk AHA/ACC 201414
+2013 AHA/ACC/TOS Guideline for the Management of Overweight and Obesity in Adults AHA/ACC/TOS 201415
+2018 AHA/ACC/AACVPR/AAPA/ABC/ACPM/ADA/AGS/AphA/ASPC/NLA/PCNA Guideline on the Manage-
+ment of Blood Cholesterol
+AHA/ACC/AACVPR/AAPA/
+ABC/ACPM/ADA/AGS/
+AphA/ASPC/NLA/PCNA
+201916
+2013 ACC/AHA Guideline on the Treatment of Blood Cholesterol to Reduce Atherosclerotic Cardiovascular Risk 
+in Adults
+ACC/AHA 201417
+2013 ACC/AHA Guideline on the Assessment of Cardiovascular Risk ACC/AHA 201418
+2013 ACCF/AHA Guideline for the Management of Heart Failure ACCF/AHA 20131
+2013 ACCF/AHA Guideline for the Management of ST-Elevation Myocardial Infarction ACCF/AHA 201319
+2012 ACCF/AHA/HRS Focused Update of the 2008 Guidelines for Device-Based Therapy of Cardiac Rhythm 
+Abnormalities
+ACCF/AHA/HRS 201220
+2012 ACCF/AHA/ACP/AATS/PCNA/SCAI/STS Guideline for the Diagnosis and Management of Patients With 
+Stable Ischemic Heart Disease
+ACCF/AHA/ACP/AATS/
+PCNA/SCAI/STS
+201221
+Effectiveness-Based Guidelines for the Prevention of Cardiovascular Disease in Women—2011 Update AHA 201122
+AHA/ACCF Secondary Prevention and Risk Reduction Therapy for Patients With Coronary and Other Atheroscle-
+rotic Vascular Disease: 2011 Update
+AHA/ACCF 201123
+2010 ACCF/AHA Guideline for Assessment of Cardiovascular Risk in Asymptomatic Adults ACCF/AHA 201024
+Part 9: Post–Cardiac Arrest Care: 2010 American Heart Association Guidelines for Cardiopulmonary Resuscita-
+tion and Emergency Cardiovascular Care
+AHA 201025
+Seventh Report of the Joint National Committee on Prevention, Detection, Evaluation, and Treatment of High 
+Blood Pressure
+NHLBI 200326
+Statements
+Cardiac Amyloidosis: Evolving Diagnosis and Management AHA 202027
+Testing of Low-Risk Patients Presenting to the Emergency Department With Chest Pain AHA 201028
+Primary Prevention of Cardiovascular Diseases in People With Diabetes Mellitus AHA/ADA 200729
+Prevention and Control of Influenza CDC 200530
+AATS indicates American Association for Thoracic Surgery; AACVPR, American Association of Cardiovascular and Pulmonary Rehabilitation; AAPA, American 
+Academy of Physician Associates; ABC, Association of Black Cardiologists; ACC, American College of Cardiology; ACCF, American College of Cardiology Founda-
+tion; ACPM, American College of Preventive Medicine; ADA, American Diabetes Association; AGS, American Geriatrics Society; AHA, American Heart Association; 
+AphA, American Pharmacists Association; ASH, American Society of Hypertension; ASPC, American Society for Preventive Cardiology; CDC, Centers for Disease 
+Control and Prevention; ESC, European Society of Cardiology; HFSA, Heart Failure Society of America; HRS, Heart Rhythm Society; NHLBI, National Heart, Lung, 
+and Blood Institute; NICE, National Institute for Health and Care Excellence; NMA, National Medical Association; NLA, National Lipid Association; PCNA, Preventive 
+Cardiovascular Nurses Association; SCAI, Society for Cardiovascular Angiography and Interventions; SIHD, stable ischemic heart disease; STS, Society of Thoracic 
+Surgeons; TOS, The Obesity Society; and WHF, World Heart Federation.
+*The full SIHD guideline is from 2012.21 A focused update was published in 2014.13
+Downloaded from http://ahajournals.org by on May 30, 2026
+=== PAGE 9 ===
+Circulation. 2022;145:e895–e1032. DOI: 10.1161/CIR.0000000000001063 May 3, 2022 e903
+CLINICAL STATEMENTS 
+AND GUIDELINES
+Heidenreich et al 2022 AHA/ACC/HFSA Heart Failure Guideline
+Patients with HF and an L VEF between the HFrEF 
+and HFpEF range have been termed as “HF with mid-
+range EF, ”3,4 or “HF with mildly reduced EF. ”4 Because 
+of L VEF being lower than normal, these patients are 
+classified in this document as HF with mildly reduced 
+EF (HFmrEF). Patients with HFmrEF are usually in 
+a dynamic trajectory to improvement from HFrEF or 
+to deterioration to HFrEF (Figure 3). Therefore, for 
+patients whose EF falls into this mildly reduced cat-
+egory, 1 EF measurement at 1 time point may not be 
+adequate, and the trajectory of L VEF over time and 
+the cause is important to evaluate (Figure 3). Further-
+more, the diagnosis of HFmrEF and HFpEF can be 
+challenging. Although the classic clinical signs and 
+symptoms of HF, together with EF of 41% to 49% 
+or ≥50%, respectively, are necessary for the diagno-
+sis of the HFmrEF and HFpEF, the requirements for 
+additional objective measures of cardiac dysfunction 
+can improve the diagnostic specificity. The signs and 
+symptoms of HF are frequently nonspecific and over-
+lap with other clinical conditions. Elevated natriuretic 
+peptide levels are supportive of the diagnosis, but 
+normal levels do not exclude a diagnosis of HFmrEF 
+or HFpEF. To improve the specificity of diagnosing 
+HFmrEF and HFpEF, the clinical diagnosis of HF in 
+these EF categories should be further supported by 
+objective measures. Therefore, the writing commit-
+tee proposes the addition of evidence of spontane-
+ous (at rest) or provokable (eg, during exercise, fluid 
+challenge) increased L V filling pressures (eg, elevated 
+Table 2. Applying American College of Cardiology/American Heart Association Class of Recommendation and Level of  
+Evidence to Clinical Strategies, Interventions, Treatments, or Diagnostic Testing in Patient Care (Updated May 2019)*
+Downloaded from http://ahajournals.org by on May 30, 2026
+=== PAGE 10 ===
+May 3, 2022 Circulation. 2022;145:e895–e1032. DOI: 10.1161/CIR.0000000000001063e904
+CLINICAL STATEMENTS  
+AND GUIDELINES
+Heidenreich et al 2022 AHA/ACC/HFSA Heart Failure Guideline
+natriuretic peptide, noninvasive/invasive hemody-
+namic measurement) to the classifications of HFm-
+rEF and HFpEF (Table 4).
+The “2013 ACCF/AHA Guideline for the Man-
+agement of Heart Failure” 1 has used the HFpEF-
+improved terminology for those whose EF improved 
+from a lower level to EF >40% under the subgroup-
+ing of patients with HFpEF. Others have proposed a 
+working definition of HF-recovered EF that included a 
+baseline L VEF ≤40%, a ≥ 10% increase from baseline 
+L VEF, and a second measurement of L VEF >40%. 3 
+Although associated with better outcomes, improve-
+ment in L VEF does not mean full myocardial recov-
+ery or normalization of L V function. In most patients, 
+cardiac structural abnormalities, such as L V cham-
+ber dilatation and ventricular systolic and diastolic 
+Figure 1. ACC/AHA Stages of HF.
+The ACC/AHA stages of HF are shown. ACC indicates American College of Cardiology; AHA, American Heart Association; CVD, cardiovascular 
+disease; GDMT, guideline-directed medical therapy; and HF, heart failure.
+Table 3. Stages of HF
+Stages Definition and Criteria
+Stage A: At Risk for HF At risk for HF but without symptoms, structural heart disease, or cardiac biomarkers of stretch or injury (eg, patients with 
+hypertension, atherosclerotic CVD, diabetes, metabolic syndrome and obesity, exposure to cardiotoxic agents, genetic 
+variant for cardiomyopathy, or positive family history of cardiomyopathy).
+Stage B: Pre-HF No symptoms or signs of HF and evidence of 1 of the following:
+Structural heart disease*
+  Reduced left or right ventricular systolic function
+  Reduced ejection fraction, reduced strain
+  Ventricular hypertrophy
+  Chamber enlargement
+  Wall motion abnormalities
+  Valvular heart disease
+Evidence for increased filling pressures*
+  By invasive hemodynamic measurements
+  By noninvasive imaging suggesting elevated filling pressures (eg, Doppler echocardiography)
+Patients with risk factors and
+  Increased levels of BNPs* or
+  Persistently elevated cardiac troponin
+in the absence of competing diagnoses resulting in such biomarker elevations such as acute coronary syndrome, CKD, 
+pulmonary embolus, or myopericarditis
+Stage C: Symptomatic HF Structural heart disease with current or previous symptoms of HF.
+Stage D: Advanced HF Marked HF symptoms that interfere with daily life and with recurrent hospitalizations despite attempts to optimize GDMT.
+BNP indicates B-type natriuretic peptide; CKD, chronic kidney disease; CVD, cardiovascular disease; GDMT, guideline-directed medical therapy; and HF, heart failure.
+*For thresholds of cardiac structural, functional changes, elevated filling pressures, and biomarker elevations, refer to Appendix 3.
+Downloaded from http://ahajournals.org by on May 30, 2026
+=== PAGE 11 ===
+Circulation. 2022;145:e895–e1032. DOI: 10.1161/CIR.0000000000001063 May 3, 2022 e905
+CLINICAL STATEMENTS 
+AND GUIDELINES
+Heidenreich et al 2022 AHA/ACC/HFSA Heart Failure Guideline
+dysfunction, may persist. Furthermore, changes in 
+L VEF might not be unidirectional; a patient may have 
+improvement followed by a decrease in EF or vice 
+versa depending on the underlying cause, duration 
+of disease, adherence to the GDMT, or reexposure 
+to cardiotoxicity. 5 Therefore, the writing committee 
+elected not to use “recovered EF” or HFpEF, even 
+if subsequent L VEF was >50% but, rather, “HF with 
+improved EF” (HFimpEF) as a subgroup of HFrEF to 
+characterize these patients (Table 4, Figure 3). Impor-
+tantly, EF can decrease after withdrawal of pharmaco-
+logical treatment in many patients who had improved 
+EF to normal range with GDMT. 5 Trajectory of L VEF 
+can be important, and a significant reduction in L VEF 
+over time is a poor prognostic factor.
+2.3. Diagnostic Algorithm for Classification of 
+HF According to LVEF
+Structural and functional alterations of the heart as the 
+underlying cause for the clinical presentation support 
+the diagnosis of HFmrEF and HFpEF 1 (Figure 4). The 
+criteria for diagnosis of HFmrEF and HFpEF require 
+evidence of increased L V filling pressures at rest, exer-
+cise, or other provocations. The criteria can be fulfilled 
+with findings of elevated levels of natriuretic peptides, 
+echocardiographic diastolic parameters such as an 
+E/e′ ≥15 or other evidence of elevated filling pres-
+sures, or invasive hemodynamic measurement at rest 
+or exercise. Evidence of structural heart disease (eg, 
+L V structural or functional alterations) may be used to 
+further support the diagnosis of HFpEF. Key structural 
+alterations are an increase in left atrial size and volume 
+(left atrial volume index) and/or an increase in L V mass 
+(L V mass index).
+Exercise stress testing with echocardiographic 
+evaluation of diastolic parameters can be helpful if 
+the diagnosis remains uncertain. 2,3 Alternatively, or in 
+addition, invasive hemodynamics at rest or with exer-
+cise, with assessment of filling pressures (pulmonary 
+capillary wedge pressure or L V end diastolic pressures, 
+pulmonary artery [PA] pressures, stroke volumes, and 
+cardiac output) can be performed to help further estab-
+lish the diagnosis. 4
+The diagnosis of HFpEF is often challenging. A clin-
+ical composite score to diagnose HFpEF, the H 2FPEF 
+score,5–7 integrates these predictive variables: obesity, 
+atrial fibrillation (AF), age >60 years, treatment with 
+≥2 antihypertensive medications, echocardiographic 
+E/e′ ratio >9, and echocardiographic PA systolic pres-
+sure >35 mm Hg. A weighted score based on these 
+Figure 2. Trajectory of Stage C HF.
+The trajectory of stage C HF is displayed. Patients whose symptoms and signs of HF are resolved are still stage C and should be treated 
+accordingly. If all HF symptoms, signs, and structural abnormalities resolve, the patient is considered to have HF in remission. HF indicates heart 
+failure; and L V, left ventricular. *Full resolution of structural and functional cardiac abnormalities is uncommon.
+Table 4. Classification of HF by LVEF
+Type of HF According to 
+LVE F Criteria
+HFrEF (HF with reduced EF) LVEF ≤40%
+HFimpEF (HF with improved 
+EF)
+Previous LVEF ≤40% and a follow-up  
+measurement of LVEF >40%
+HFmrEF (HF with mildly re-
+duced EF)
+LVEF 41%–49%
+Evidence of spontaneous or provokable 
+increased LV filling pressures (eg, elevated 
+natriuretic peptide, noninvasive and invasive 
+hemodynamic measurement)
+HFpEF (HF with preserved 
+EF)
+LVEF ≥50%
+Evidence of spontaneous or provokable 
+increased LV filling pressures (eg, elevated 
+natriuretic peptide, noninvasive and invasive 
+hemodynamic measurement)
+Please see Appendix 3 for suggested thresholds for structural heart disease 
+and evidence of increased filling pressures.
+HF indicates heart failure; LV, left ventricular; and LVEF, left ventricular ejec-
+tion fraction.
+Downloaded from http://ahajournals.org by on May 30, 2026
+=== PAGE 12 ===
+May 3, 2022 Circulation. 2022;145:e895–e1032. DOI: 10.1161/CIR.0000000000001063e906
+CLINICAL STATEMENTS  
+AND GUIDELINES
+Heidenreich et al 2022 AHA/ACC/HFSA Heart Failure Guideline
+6 variables was used to create the composite score 
+ranging from 0 to 9. The odds of HFpEF doubled for 
+each 1-unit score increase (odds ratio, 1.98; 95% 
+CI: 1.74-2.30; P <0.0001), with a c-statistic of 0.841. 
+Scores <2 and ≥ 6 reflect low and high likelihood, 
+respectively, for HFpEF. A score between 2 and 5 may 
+require further evaluation of hemodynamics with exer-
+cise echocardiogram or cardiac catheterization to con-
+firm or negate a diagnosis of HFpEF. The use of this 
+H2FPEF score may help to facilitate discrimination of 
+HFpEF from noncardiac causes of dyspnea and can 
+assist in determination of the need for further diag-
+nostic testing in the evaluation of patients with unex-
+plained exertional dyspnea. 6,7
+The European Society of Cardiology has developed 
+a diagnostic algorithm. 8 This involves a pretest that 
+assesses for HF symptoms and signs, typical clini-
+cal demographics (obesity, hypertension, diabetes, 
+elderly, AF), and diagnostic laboratory tests, ECG, and 
+echocardiography. In the absence of overt noncardiac 
+causes of breathlessness, HFpEF can be suspected 
+if there is a normal L VEF, no significant heart valve 
+disease or cardiac ischemia, and at least 1 typical risk 
+factor. The score used functional, morphological, and 
+biomarker domains. The points score assigns 2 points 
+for a major criterion or 1 point for a minor criterion 
+within each domain, with a maximum of 2 points for 
+each domain.
+3. EPIDEMIOLOGY AND CAUSES OF HF
+3.1. Epidemiology of HF
+Trends in Mortality and Hospitalization for HF
+HF is a growing health and economic burden for the 
+United States, in large part because of the aging popula-
+Figure 3. Classification and Trajectories of HF Based on LVEF.
+See Appendix 3 for suggested thresholds for laboratory findings. The classification for baseline and subsequent L VEF is shown. Patients with 
+HFrEF who improve their L VEF to >40% are considered to have HFimpEF and should continue HFrEF treatment. HF indicates heart failure; 
+HFimpEF, heart failure with improved ejection fraction; HFmrEF, heart failure with mildly reduced ejection fraction; HFpEF, heart failure with 
+preserved ejection fraction; HFrEF, heart failure with reduced ejection fraction; and L VEF, left ventricular ejection fraction. *There is limited 
+evidence to guide treatment for patients who improve their L VEF from mildly reduced (41%-49%) to ≥50%. It is unclear whether to treat these 
+patients as HFpEF or HFmrEF.
+Downloaded from http://ahajournals.org by on May 30, 2026
+=== PAGE 13 ===
+Circulation. 2022;145:e895–e1032. DOI: 10.1161/CIR.0000000000001063 May 3, 2022 e907
+CLINICAL STATEMENTS 
+AND GUIDELINES
+Heidenreich et al 2022 AHA/ACC/HFSA Heart Failure Guideline
+tion.1,2 Beginning in 2012, the age-adjusted death rate 
+per capita for HF increased for the first time in the Unit-
+ed States. 3 A recent US evaluation found total deaths 
+caused by HF have increased from 275 000 in 2009 to 
+310 000 in 2014.3
+US hospitalizations for HF decreased up until 2012 4; 
+however, from 2013 to 2017 , an increase in HF hospitaliza-
+tions was observed. In 2017 , there were 1.2 million HF hos-
+pitalizations in the United States among 924 000 patients 
+with HF.4 This represents a 26% increase in HF hospitaliza-
+tions and number of patients hospitalized with HF.
+Although the absolute number of patients with HF 
+has partly grown as a result of the increasing number of 
+older adults, the incidence of HF has decreased.5 Among 
+US Medicare beneficiaries, HF incidence declined from 
+36 cases per 1000 beneficiaries in 2011 to 27 cases 
+per 1000 beneficiaries in 2014 and remained stable 
+through 2016.5 Divergent trends in the incidence of HF 
+have been observed for those with HFrEF (decreasing 
+incidence) and HFpEF (increasing incidence). 6,7 Deaths 
+attributable to cardiomyopathies have been increasing 
+globally because of, in part, increased recognition, diag-
+nosis, and documentation of specific cardiomyopathies 
+and cardiotoxicity.2
+Racial and Ethnic Disparities in Mortality and 
+Hospitalization for HF
+Racial and ethnic disparities in death resulting from HF 
+persist, with non-Hispanic Black patients having the 
+highest death rate per capita. 4 A report examining the 
+US population found age-adjusted mortality rate for 
+HF to be 92 per 100 000 individuals for non-Hispanic 
+Black patients, 87 per 100 000 for non-Hispanic White 
+patients, and 53 per 100 000 for Hispanic patients. 4 
+Among Medicare beneficiaries, non-Hispanic Black 
+beneficiaries had a slightly greater decrease in HF in-
+cidence (38 cases per 1000 to 26 cases per 1000, 
+P=0.009) than non-Hispanic White beneficiaries (36 
+cases per 1000 to 28 cases per 1000, P =0.003) from 
+2011 to 2016. 4 Among patients with established HF, 
+non-Hispanic Black patients experienced a higher rate 
+of HF hospitalization and a lower rate of death com-
+pared with non-Hispanic White patients with HF. 8–10 
+Hispanic patients with HF have been found to have 
+similar8 or higher10 HF hospitalization rates and similar10 
+or lower 8 mortality rates compared with non-Hispanic 
+White patients. Asian/Pacific Islander patients with HF 
+have had a similar rate of hospitalization as non-His-
+panic White patients but a lower rate of death. 8,10 These 
+racial and ethnic disparities in outcome, for those with 
+HF, warrant studies and health policy changes to ad-
+dress health inequity.
+3.2. Cause of HF
+In the United States, approximately 115 million peo-
+ple have hypertension, 100 million have obesity, 92 
+million have prediabetes, 26 million have diabetes, 
+and 125 million have atherosclerotic CVD. 1 These are 
+Figure 4. Diagnostic Algorithm for HF 
+and EF-Based Classification.
+The algorithm for a diagnosis of HF and 
+EF-based classification is shown. BNP 
+indicates B-type natriuretic peptide; ECG, 
+electrocardiogram; EF, ejection fraction; HF, 
+heart failure; HFmrEF, heart failure with mildly 
+reduced ejection fraction; HFpEF, heart failure 
+with preserved ejection fraction; HFrEF, heart 
+failure with reduced ejection fraction; L VEF, left 
+ventricular ejection fraction; L V, left ventricular; 
+and NT-proBNP, N-terminal pro-B type 
+natriuretic peptide.
+Downloaded from http://ahajournals.org by on May 30, 2026
+=== PAGE 14 ===
+May 3, 2022 Circulation. 2022;145:e895–e1032. DOI: 10.1161/CIR.0000000000001063e908
+CLINICAL STATEMENTS  
+AND GUIDELINES
+Heidenreich et al 2022 AHA/ACC/HFSA Heart Failure Guideline
+known risk factors with high relative risk and popula-
+tion attributable risk for development of HF. There-
+fore, a large proportion of the US population can be 
+categorized as being at-risk for HF or stage A HF. 
+The common causes of HF include ischemic heart 
+disease and myocardial infarction (MI), hypertension, 
+and valvular heart disease (VHD). Other causes can 
+include familial or genetic cardiomyopathies; amyloi-
+dosis; cardiotoxicity with cancer or other treatments 
+or substance abuse such as alcohol, cocaine, or meth-
+amphetamine; tachycardia, right ventricular (RV) pac-
+ing or stress-induced cardiomyopathies; peripartum 
+cardiomyopathy; myocarditis; autoimmune causes, 
+sarcoidosis; iron overload, including hemochromato-
+sis; and thyroid disease and other endocrine metabol-
+ic and nutritional causes (Table 5). Furthermore, with 
+cardiac imaging and biomarkers, myocardial injury or 
+cardiac maladaptive structural changes can be de-
+tected at earlier phases with a higher sensitivity, even 
+in the absence of gross L V dysfunction or symptoms. 
+With the coronavirus disease 2019 (COVID-19) pan-
+demic, investigators are gaining better insights into 
+infection and inflammation-related myocardial injury 
+and myocarditis. With the increasing ability to detect 
+myocardial injury and with an increasing awareness 
+of cardiotoxicity and injury patterns including inflam-
+mation, pre-HF or stage B HF will likely continue to 
+increase. Beyond classifications of EF and staging 
+in HF, clinicians should seek the cause of HF be-
+cause appropriate treatment may be determined by 
+the cause (Table 5).
+4. INITIAL AND SERIAL EVALUATION
+4.1. Clinical Assessment: History and Physical 
+Examination
+Recommendations for Clinical Assessment: History and Physical Ex-
+amination
+Referenced studies that support the recommendations are summa-
+rized in the Online Data Supplements.
+COR LOE Recommendations
+1 B-NR
+1. In patients with HF, vital signs and evidence of 
+clinical congestion should be assessed at each 
+encounter to guide overall management, includ-
+ing adjustment of diuretics and other medica-
+tions.1–6
+1 B-NR
+2. In patients with symptomatic HF, clinical factors 
+indicating the presence of advanced HF should 
+be sought via the history and physical examina-
+tion.7–12
+1 B-NR
+3. In patients with cardiomyopathy, a 3-generation 
+family history should be obtained or updated 
+when assessing the cause of the cardiomyopa-
+thy to identify possible inherited disease.13,14
+1 B-NR
+4. In patients presenting with HF, a thorough history 
+and physical examination should direct diagnos-
+tic strategies to uncover specific causes that 
+may warrant disease-specific management.15,16
+1 C-EO
+5. In patients presenting with HF, a thorough 
+history and physical examination should be 
+obtained and performed to identify cardiac and 
+noncardiac disorders, lifestyle and behavioral 
+factors, and social determinants of health that 
+might cause or accelerate the development or 
+progression of HF.
+Synopsis
+The history and physical examination remain a cornerstone 
+in the assessment of patients with HF. The history and 
+physical examination provide information about the cause 
+of an underlying cardiomyopathy, including the possibility 
+of an inherited cardiomyopathy as ascertained by a fam-
+ily history or a condition requiring disease-specific therapy 
+like amyloid heart disease, as well as reasons why a previ-
+ously stable patient developed acutely decompensated HF. 
+A critical component of the history and physical examina-
+tion is to assess for clinical congestion (ie, those signs and 
+symptoms resulting from elevated cardiac filling pressures). 
+Congestion is a target for medication adjustment and is as-
+sociated with quality of life (QOL) and prognosis. The his-
+tory and physical examination also allow for the determina-
+tion of clinical clues that suggest the patient has advanced 
+HF, which may warrant referral to an advanced HF center.
+Recommendation-Specific Supportive Text
+1. Clinical congestion can be assessed by various 
+methods, including the presence of jugular venous 
+Table 5. Other Potential Nonischemic Causes of HF
+Cause Reference
+Chemotherapy and other cardiotoxic medications 23–25
+Rheumatologic or autoimmune 26
+Endocrine or metabolic (thyroid, acromegaly, pheochromocy-
+toma, diabetes, obesity)
+27–31
+Familial cardiomyopathy or inherited and genetic heart 
+disease
+32
+Heart rhythm–related (eg, tachycardia-mediated, PVCs, RV 
+pacing)
+33
+Hypertension 34
+Infiltrative cardiac disease (eg, amyloid, sarcoid, hemochro-
+matosis)
+21,35,36
+Myocarditis (infectious, toxin or medication, immunological, 
+hypersensitivity)
+37, 3 8
+Peripartum cardiomyopathy 39
+Stress cardiomyopathy (Takotsubo) 40,41
+Substance abuse (eg, alcohol, cocaine, methamphetamine) 42–44
+HF indicates heart failure; PVC, premature ventricular contraction; and RV, 
+right ventricular.
+Downloaded from http://ahajournals.org by on May 30, 2026
+=== PAGE 15 ===
+Circulation. 2022;145:e895–e1032. DOI: 10.1161/CIR.0000000000001063 May 3, 2022 e909
+CLINICAL STATEMENTS 
+AND GUIDELINES
+Heidenreich et al 2022 AHA/ACC/HFSA Heart Failure Guideline
+distention,17 orthopnea, 18 bendopnea, 19 a square-
+wave response to the Valsalva maneuver,20 and leg 
+edema.6 On a practical level, clinicians use extent 
+of clinical congestion to guide titration of pharma-
+cological treatments, including doses of diuretics. 
+Observational studies have shown that clinical 
+congestion is an important adverse risk factor in 
+patients with HF.1–6,17 Recently, the PARADIGM-HF 
+(The Efficacy and Safety of LCZ696 Compared to 
+Enalapril on Morbidity and Mortality of Patients With 
+Chronic Heart Failure) investigators showed that, 
+in patients with chronic HFrEF, changes in markers 
+of clinical congestion were associated with QOL 
+as assessed by the Kansas City Cardiomyopathy 
+Questionnaire and also provided prognostic infor-
+mation independently even of natriuretic peptides 
+or the MAGGIC (Meta-analysis Global Group in 
+Chronic Heart Failure) risk score. 2 These data 
+highlight the ongoing relevance of clinical con-
+gestion ascertained by the history and physical 
+examination.
+2. Some patients with HF progress to an advanced 
+state, a condition that can be treated with special-
+ized interventions such as mechanical circulatory 
+support (MCS) or cardiac transplantation. Such 
+patients should be identified before they progress 
+to a state of extremis, at which point they may suc-
+cumb to their illness or suffer complications of 
+an intervention as a result of their very advanced 
+state. Several “simple clinical clues” are available 
+to identify advanced HF and should be ascertained 
+via a focused history and physical examination. The 
+recognition that a patient has advanced HF will 
+allow for earlier referral to an advanced HF center, 
+when appropriate, as will be discussed later in this 
+document (see Section 8, “Specialty Referral for 
+Advanced HF”).
+3. Increasingly, familial cardiomyopathy is recognized 
+as a more accurate diagnosis in some patients 
+previously classified as having an idiopathic dilated 
+cardiomyopathy (DCM). A detailed family history 
+may provide the first clue of a genetic basis. A 
+broad array of questions includes whether family 
+members had a weak, enlarged, or thick heart, or 
+HF; muscular dystrophy; a pacemaker or defibril-
+lator; were on a heart transplant list; or died unex-
+pectedly. Periodic updating of the family history in 
+patients with a cardiomyopathy of uncertain origin 
+may lead to a diagnosis of familial cardiomyopathy 
+in the event that a relative subsequently develops a 
+cardiomyopathy or a related complication. A 3-gen-
+eration family pedigree obtained by genetic health 
+care professionals improved the rate of detection 
+of a familial process as compared with routine 
+care.14 Furthermore, a family history of cardiomy-
+opathy, as determined by a 3-generation pedigree 
+analysis, was associated with findings of gadolin-
+ium enhancement on cardiac magnetic resonance 
+imaging (MRI) and increased major adverse car-
+diac events. 13 The possibility of an inherited car-
+diomyopathy provides the impetus for cascade 
+screening of undiagnosed family members, thereby 
+potentially avoiding preventable adverse events in 
+affected relatives by implementation of GDMT and 
+other management that otherwise would not be 
+initiated.
+4. Certain conditions that cause HF require disease-
+specific therapies. For example, in amyloid heart 
+disease, whether on the basis of transthyretin 21 or 
+light chain deposition, 22 there are specific treat-
+ments that otherwise would not be used in patients 
+with HF. Hence, expeditious and accurate diag-
+nosis of such conditions is important. Currently, 
+important delays have been reported in diagnos-
+ing amyloid heart disease,16 perhaps not unexpect-
+edly given the wide spectrum of possible clinical 
+presentations.15 Similarly, HF attributable to sar-
+coidosis, hemochromatosis, hypothyroidism, hyper-
+thyroidism, acromegaly, connective tissue disease, 
+tachycardia-induced cardiomyopathy, or high-
+output HF from an arteriovenous fistula, among 
+others, requires specific therapeutic approaches. 
+Given that the differential diagnosis of HF is broad, 
+the history and physical examination can provide 
+clues to narrow the number of causes to consider 
+and guide the diagnostic approach to identify such 
+conditions (Table 5).
+5. The history and physical examination help to 
+identify the cause of a clinical deterioration. To 
+determine the cause of a clinical deterioration, 
+the clinician assesses for concurrent illness (eg, 
+ongoing myocardial ischemia, pulmonary emboli, 
+or systemic infection), initiation of a medication 
+potentially detrimental in the setting of HF (eg, 
+nonsteroidal anti-inflammatory drugs [NSAIDs]), 
+or the possibility of chronic RV pacing (eg, a 
+newly implanted pacemaker or medications such 
+as amiodarone that leads to bradycardia and 
+resultant chronic RV pacing), nonadherence to 
+a medication or dietary regimen, and ongoing 
+substance abuse. In addition, an assessment of 
+social determinants of health (eg, housing stabil-
+ity, food security, available transportation) should 
+be made.
+Downloaded from http://ahajournals.org by on May 30, 2026
+=== PAGE 16 ===
+May 3, 2022 Circulation. 2022;145:e895–e1032. DOI: 10.1161/CIR.0000000000001063e910
+CLINICAL STATEMENTS  
+AND GUIDELINES
+Heidenreich et al 2022 AHA/ACC/HFSA Heart Failure Guideline
+4.1.1. Initial Laboratory and Electrocardiographic 
+Testing
+Recommendations for Initial Laboratory and Electrocardiographic Test-
+ing
+Referenced studies that support the recommendations are summa-
+rized in the Online Data Supplements.
+COR LOE Recommendations
+1 B-NR
+1. For patients presenting with HF, the specific 
+cause of HF should be explored using addi-
+tional laboratory testing for appropriate man-
+agement.1–8
+1 C-EO
+2. For patients who are diagnosed with HF, 
+laboratory evaluation should include com-
+plete blood count, urinalysis, serum electro-
+lytes, blood urea nitrogen, serum creatinine, 
+glucose, lipid profile, liver function tests, iron 
+studies, and thyroid-stimulating hormone to 
+optimize management.
+1 C-EO
+3. For all patients presenting with HF, a 12-lead 
+ECG should be performed at the initial encoun-
+ter to optimize management.
+Synopsis
+Laboratory evaluation with complete blood count, urinaly-
+sis, serum electrolytes (including sodium, potassium, cal-
+cium, and magnesium), blood urea nitrogen, serum cre-
+atinine, glucose, fasting lipid profile, liver function tests, 
+iron studies (serum iron, ferritin, transferrin saturation), 
+and thyroid-stimulating hormone level and electrocar-
+diography is part of the standard diagnostic evaluation 
+of a patient with HF. In addition to routine assessment, 
+specific diagnostic testing and evaluation is often neces-
+sary to identify specific cause and other comorbidities in 
+patients with HF.
+Recommendation-Specific Supportive Text
+1. Identifying the specific cause of HF is impor-
+tant, because conditions that cause HF may 
+require disease-specific therapies. Depending 
+on the clinical suspicion, additional diagnostic 
+studies are usually required to diagnose specific 
+causes (Table 6) such as ischemic cardiomy-
+opathy, cardiac amyloidosis, sarcoidosis, hemo-
+chromatosis, infectious mechanisms (eg, HIV, 
+COVID-19, Chagas), hypothyroidism, hyperthy-
+roidism, acromegaly, connective tissue disorders, 
+tachycardia-induced cardiomyopathy, Takotsubo, 
+peripartum cardiomyopathy, cardiotoxicity with 
+cancer therapies, or substance abuse would 
+require specific management in addition to or 
+beyond GDMT. 1,2,9–15
+2. Laboratory evaluation with complete blood count, 
+urinalysis, serum electrolytes, blood urea nitro-
+gen, serum creatinine, glucose, fasting lipid pro-
+file, liver function tests, iron studies (serum iron, 
+ferritin, transferrin saturation), and thyroid-stimu-
+lating hormone levels provides important informa-
+tion regarding patients’ comorbidities, suitability 
+for and adverse effects of treatments, potential 
+causes or confounders of HF, severity and prog-
+nosis of HF, and is usually performed on initial 
+evaluation. Pertinent laboratory tests are repeated 
+with changes in clinical condition or treatments 
+(eg, to monitor renal function or electrolytes with 
+diuretics).
+3. Electrocardiography is part of the routine evalua-
+tion of a patient with HF and provides important 
+information on rhythm, heart rate, QRS morphol-
+ogy and duration, cause, and prognosis of HF. 
+It is repeated when there is a clinical indication, 
+such as a suspicion for arrhythmia, ischemia or 
+myocardial injury, conduction, or other cardiac 
+abnormalities.
+Table 6. Selected Potential Causes of Elevated Natriuretic 
+Peptide Levels50–53
+Cardiac
+ HF, including RV HF syndromes
+ ACS
+ Heart muscle disease, including LVH
+ VHD
+ Pericardial disease
+ AF
+ Myocarditis
+ Cardiac surgery
+ Cardioversion
+ Toxic-metabolic myocardial insults, including cancer chemotherapy
+Noncardiac
+ Advancing age
+ Anemia
+ Renal failure
+ Pulmonary: Obstructive sleep apnea, severe pneumonia
+ Pulmonary embolism, pulmonary arterial hypertension
+ Critical illness
+ Bacterial sepsis
+ Severe burns
+ACS indicates acute coronary syndromes; AF, atrial fibrillation; HF, heart fail-
+ure; LVH, left ventricular hypertrophy; RV, right ventricular; and VHD, valvular 
+heart disease.
+Downloaded from http://ahajournals.org by on May 30, 2026
+=== PAGE 17 ===
+Circulation. 2022;145:e895–e1032. DOI: 10.1161/CIR.0000000000001063 May 3, 2022 e911
+CLINICAL STATEMENTS 
+AND GUIDELINES
+Heidenreich et al 2022 AHA/ACC/HFSA Heart Failure Guideline
+4.2. Use of Biomarkers for Prevention, Initial 
+Diagnosis, and Risk Stratification
+Recommendations for Use of Biomarkers for Prevention, Initial Diagno-
+sis, and Risk Stratification
+Referenced studies that support the recommendations are summa-
+rized in the Online Data Supplements.
+COR LOE Recommendations
+1 A
+1. In patients presenting with dyspnea, measure-
+ment of B-type natriuretic peptide (BNP) or 
+N-terminal prohormone of B-type natriuretic 
+peptide (NT-proBNP) is useful to support a 
+diagnosis or exclusion of HF.1–12
+1 A
+2. In patients with chronic HF, measurements of 
+BNP or NT-proBNP levels are recommended 
+for risk stratification.11,13–29
+1 A
+3. In patients hospitalized for HF, measurement 
+of BNP or NT-proBNP levels at admission is 
+recommended to establish prognosis.11,13–19
+2a B-R
+4. In patients at risk of developing HF, BNP or 
+NT-proBNP–based screening followed by 
+team-based care, including a cardiovascular 
+specialist, can be useful to prevent the devel-
+opment of LV dysfunction or new-onset HF.30,31
+2a B-NR
+5. In patients hospitalized for HF, a predischarge 
+BNP or NT-proBNP level can be useful to 
+inform the trajectory of the patient and estab-
+lish a postdischarge prognosis.14,17 ,20–29
+Synopsis
+Assays for BNP and NT-proBNP are frequently used 
+to establish the presence and severity of HF. In general, 
+BNP and NT-proBNP levels are similar, and either can 
+be used in patient care settings as long as their respec-
+tive absolute values and cut-points are not used inter-
+changeably.32–34 Obesity is associated with lower levels of 
+BNP and NT-proBNP thereby reducing their diagnostic 
+sensitivity.35,36 A substantial evidence base supports the 
+use of natriuretic peptide biomarkers for excluding HF 
+as a cause of symptoms in ambulatory and emergency 
+department settings. Although a reduction in BNP and 
+NT-proBNP has been associated with better outcomes, 
+the evidence for treatment guidance using serial BNP 
+or NT-proBNP measurements remains insufficient. 37–39 
+Lastly, a widening array of biomarkers including mark-
+ers of myocardial injury, inflammation, oxidative stress, 
+vascular dysfunction, and matrix remodeling have been 
+shown to provide incremental prognostic information 
+over natriuretic peptides but remain without evidence of 
+an incremental management benefit.13,40–49
+Recommendation-Specific Supportive Text
+1. Measurement of BNP and NT-proBNP levels in the 
+ambulatory setting for a suspected cardiac cause 
+of dyspnea provides incremental diagnostic value 
+to clinical judgment when the cause of dyspnea is 
+unclear and the physical examination equivocal. 1–9 
+In the emergency setting, BNP and NT-proBNP 
+levels have higher sensitivity than specificity and 
+may be more useful for ruling out HF than ruling in 
+HF. Although lower levels of BNP and NT-proBNP 
+may help exclude the presence of HF, and higher 
+levels have high positive predictive value to diag-
+nose HF, increases in both BNP and NT-proBNP 
+levels have been reported in patients with various 
+cardiac and noncardiac causes (Table 6).50–53
+2. and 3. Higher levels of BNP and NT-proBNP are 
+associated with a greater risk for adverse short- 
+and long-term outcomes in patients with HF, includ-
+ing all-cause and cardiovascular death and major 
+cardiovascular events. 11,13–19 Studies have shown 
+incremental prognostic value of these biomark-
+ers to standard approaches of CVD risk assess-
+ment.11,16 Not all patients may need biomarker 
+measurement for prognostication, especially if they 
+already have advanced HF with established poor 
+prognosis or persistently elevated levels of bio-
+markers in former settings.
+4. The STOP-HF (St Vincent’s Screening to Prevent 
+Heart Failure) study is a large single-center trial 
+of patients at risk of HF, defined by the presence 
+of hypertension, diabetes, or known vascular dis-
+ease but without established L V systolic dys-
+function or symptomatic HF, who were randomly 
+assigned to screening with BNP testing or usual 
+care.31 Participants in the intervention group with 
+BNP levels ≥50 pg/mL underwent echocardiog-
+raphy and referral to a cardiovascular special-
+ist.31 All patients received coaching by a specialist 
+nurse who provided education on the importance 
+of adherence to medication and healthy lifestyle 
+behaviors.31 BNP-based screening reduced the 
+composite endpoint of incident asymptomatic L V 
+dysfunction with or without newly diagnosed HF. 
+Similarly, accelerated uptitration of renin-angioten-
+sin-aldosterone system (RAAS) antagonists and 
+beta blockers reduced cardiac events in patients 
+with diabetes and elevated NT-proBNP levels but 
+without cardiac disease at baseline.30 Standardized 
+screening for HF remains challenging as a result 
+of the heterogeneity of risk factors across different 
+patient populations. Studies are needed to assess 
+the cost-effectiveness and risks of such screening, 
+as well as its impact on QOL and mortality.
+5. Predischarge BNP and NT-proBNP levels are 
+strong predictors of the risk of death or hospital 
+readmission for HF. 14,17 ,20–29 Although patients in 
+whom levels of BNP or NT-proBNP decreased with 
+treatment had better outcomes than those without 
+any changes or with a biomarker rise, 14,23,28,29 tar-
+geting a certain threshold, value, or relative change 
+in these biomarker levels during hospitalization 
+has not been shown to be consistently effective in 
+improving outcomes.37–39 Patients in which GDMT 
+Downloaded from http://ahajournals.org by on May 30, 2026
+=== PAGE 18 ===
+May 3, 2022 Circulation. 2022;145:e895–e1032. DOI: 10.1161/CIR.0000000000001063e912
+CLINICAL STATEMENTS  
+AND GUIDELINES
+Heidenreich et al 2022 AHA/ACC/HFSA Heart Failure Guideline
+leads to a reduction in BNP and NT-proBNP lev-
+els represent a population with improved long-term 
+outcomes compared with those with persistently 
+elevated levels despite appropriate treatment. 37–39 
+BNP and NT-proBNP levels and their change 
+could help guide discussions on prognosis as well 
+as adherence to, and optimization of, GDMT.
+4.3. Genetic Evaluation and Testing
+Recommendations for Genetic Evaluation and Testing
+Referenced studies that support the recommendations are summa-
+rized in the Online Data Supplements.
+COR LOE Recommendations
+1 B-NR
+1. In first-degree relatives of selected patients 
+with genetic or inherited cardiomyopathies, 
+genetic screening and counseling are recom-
+mended to detect cardiac disease and prompt 
+consideration of treatments to decrease HF 
+progression and sudden death.1,2
+2a B-NR
+2. In select patients with nonischemic cardio-
+myopathy, referral for genetic counseling and 
+testing is reasonable to identify conditions that 
+could guide treatment for patients and family 
+members.3,4
+Synopsis
+In patients in whom a genetic or inherited cardiomy-
+opathy is suspected, a family history should be per-
+formed, including at least 3 generations and ideally 
+diagrammed as a family tree pedigree (see Section 
+4.1, “Clinical Assessment: History and Physical Ex-
+amination”). Genetic variants have been implicated in 
+25% to 40% of patients with DCM with a positive fam-
+ily history but also in 10% to 30% of patients without 
+a recognized family history. 3,4 Phenotype and family 
+history are important for identifying patients in whom 
+genetic testing is most likely to yield clinically action-
+able information (Table 7). Presentation of DCM with 
+conduction disease or ventricular arrhythmias raises 
+concern of sarcoidosis and arrhythmogenic cardio-
+myopathy, which is of particular concern because of 
+the risk of sudden death in patients and families. 5 No 
+controlled studies have shown clinical benefits of ge-
+netic testing for cardiomyopathy, but genetic testing 
+contributes to risk stratification and has implications 
+for treatment, currently most often for decisions re-
+garding defibrillators for primary prevention of sudden 
+death5 and regarding exercise limitation for hypertro-
+phic cardiomyopathy and the desmosomal variants. 
+Consultation with a trained counselor before and af-
+ter genetic testing helps patients to understand and 
+weigh the implications of possible results for their 
+own lives and those of family members, including pos-
+sible discrimination on the basis of genetic informa-
+tion. Unless shown to be free of the genetic variant(s) 
+implicated in the proband, first-degree relatives of af-
+fected probands should undergo periodic screening 
+with echocardiography and electrocardiography.
+Table 7. Examples of Factors Implicating Possible Genetic Cardiomyopathy
+Phenotypic Category Patient or Family Member Phenotypic Finding* Ask Specifically About Family Members* With
+Cardiac morphology
+ 
+ 
+Marked LV hypertrophy Any mention of cardiomyopathy, enlarged or weak heart, HF.
+Document even if attributed to other causes, such as alcohol or peri-
+partum cardiomyopathy
+LV noncompaction
+Right ventricular thinning or fatty replacement on imaging 
+or biopsy
+Findings on 12-lead ECG Abnormal high or low voltage or conduction, and repolar-
+ization, altered RV forces
+Long QT or Brugada syndrome
+Dysrhythmias
+ 
+ 
+Frequent NSVT or very frequent PVCs
+Sustained ventricular tachycardia or fibrillation
+ICD
+Recurrent syncope
+Sudden death attributed to “massive heart attack” without known CAD
+Unexplained fatal event such as drowning or single-vehicle crash
+Early onset AF “Lone” AF before age 65 y
+Early onset conduction disease Pacemaker before age 65 y
+Extracardiac features Skeletal myopathy
+Neuropathy
+Cutaneous stigmata
+Other possible manifestations of systemic syndromes
+Any known skeletal muscle disease, including mention of Duchenne 
+and Becker’s, Emory-Dreifuss limb-girdle dystrophy
+Systemic syndromes:
+  Dysmorphic features
+  Mental retardation
+  Congenital deafness
+  Neurofibromatosis
+  Renal failure with neuropathy
+AF indicates atrial fibrillation; CAD, coronary artery disease; LV, left ventricular; NSVT, nonsustained ventricular tachycardia; PVC, premature ventricular contraction; 
+and RV, right ventricular.
+*Note that genetic cause is more likely when the person is younger at the onset of events. However, the cardiac morphology and peripheral manifestations of 
+hereditary amyloidosis may present in later life, unlike most other inherited cardiomyopathies.
+Downloaded from http://ahajournals.org by on May 30, 2026
+=== PAGE 19 ===
+Circulation. 2022;145:e895–e1032. DOI: 10.1161/CIR.0000000000001063 May 3, 2022 e913
+CLINICAL STATEMENTS 
+AND GUIDELINES
+Heidenreich et al 2022 AHA/ACC/HFSA Heart Failure Guideline
+Recommendation-Specific Supportive Text
+1. and 2. Inherited dilated, restrictive, and hypertrophic 
+cardiomyopathies have been identified, although 1 
+gene variant may cause different phenotypes in the 
+same family. The most common pathogenic variants 
+identified are truncations in the large structural protein 
+titin, which have been implicated in DCM3–5 and also 
+in peripartum or alcoholic cardiomyopathies; however, 
+variants that do not cause disease are also common. 
+Pathogenic variants in lamin A/C can be associated 
+with conduction block and atrial arrhythmias as well 
+as ventricular arrhythmias, which may progress more 
+rapidly than symptoms of HF. Although previously 
+linked with the phenotype of arrhythmogenic RV car-
+diomyopathy, desmosomal protein variants are now 
+recognized to affect the left ventricle also with or with-
+out the right ventricle, and the term arrhythmogenic 
+cardiomyopathy is now preferred for the phenotype 
+of arrhythmias combined with DCM. Filamin-C muta-
+tions have been associated with skeletal myopathies 
+and with isolated cardiomyopathy with ventricular 
+arrhythmias. The identification of pathogenic variants 
+associated with increased risk of sudden death may 
+trigger consideration of primary prevention implant-
+able cardioverter-defibrillators (ICDs) even in patients 
+who have L VEF >0.35 or <3 months of guideline-
+recommended therapies.6 Evidence of desmosomal 
+cardiac disease carries the additional implication of 
+advice to avoid strenuous exercise, which may accel-
+erate ventricular remodeling.7 Genetic confirmation of 
+symptomatic Fabry’s cardiomyopathy is an indication 
+for replacement therapy with the enzyme agalsidase 
+beta, and migalastat was recently approved for this 
+uncommon cardiomyopathy.
+4.4. Evaluation With Cardiac Imaging
+Recommendations for Evaluation With Cardiac Imaging
+Referenced studies that support the recommendations are summa-
+rized in the Online Data Supplements.
+COR LOE Recommendations
+1 C-LD
+1. In patients with suspected or new-onset HF, or 
+those presenting with acute decompensated 
+HF, a chest x-ray should be performed to 
+assess heart size and pulmonary congestion 
+and to detect alternative cardiac, pulmonary, 
+and other diseases that may cause or contrib-
+ute to the patient’s symptoms.1,2
+1 C-LD
+2. In patients with suspected or newly diag-
+nosed HF, transthoracic echocardiography 
+(TTE) should be performed during initial 
+evaluation to assess cardiac structure and 
+function. 3
+1 C-LD
+3. In patients with HF who have had a significant 
+clinical change, or who have received GDMT and 
+are being considered for invasive procedures 
+or device therapy, repeat measurement of EF, 
+degree of structural remodeling, and valvular 
+function are useful to inform therapeutic interven-
+tions.4–7
+1 C-LD
+4. In patients for whom echocardiography is 
+inadequate, alternative imaging (eg, cardiac 
+magnetic resonance [CMR], cardiac computed 
+tomography [CT], radionuclide imaging) is rec-
+ommended for assessment of LVEF.8–15
+2a B-NR
+5. In patients with HF or cardiomyopathy, CMR 
+can be useful for diagnosis or manage-
+ment.16–23
+2a B-NR
+6. In patients with HF, an evaluation for possible 
+ischemic heart disease can be useful to identify 
+the cause and guide management.24–27
+2b B-NR
+7 . In patients with HF and coronary artery disease 
+(CAD) who are candidates for coronary revas-
+cularization, noninvasive stress imaging (stress 
+echocardiography, single-photon emission CT 
+[SPECT], CMR, or positron emission tomog-
+raphy [PET]) may be considered for detection 
+of myocardial ischemia to help guide coronary 
+revascularization.28–32
+3: No 
+Benefit C-EO
+8. In patients with HF in the absence of: 1) clinical 
+status change, 2) treatment interventions that 
+might have had a significant effect on cardiac 
+function, or 3) candidacy for invasive proce-
+dures or device therapy, routine repeat assess-
+ment of LV function is not indicated.
+Synopsis
+Cardiac imaging has a key role in the initial evaluation 
+of individuals with suspected HF and, when indicated, 
+in the serial assessment of patients with HF. After a 
+complete history and physical examination, a com-
+prehensive TTE is the most useful initial diagnostic 
+test given the vast amount of diagnostic and prognos-
+tic information provided. The determination of L VEF 
+is a fundamental step to classify HF and to guide 
+evidence-based pharmacological and device-based 
+therapy. In certain situations, the echocardiogram is 
+unable to accurately assess cardiac structure and/or 
+function or more information is needed to determine 
+the cause of the cardiac dysfunction. Other imaging 
+modalities, such as CMR, SPECT or radionuclide ven-
+triculography, PET, or cardiac CT or invasive coronary 
+angiography, can provide additional and complemen-
+tary information to cardiac ultrasound. 11 In general, 
+cardiac imaging tests, including repeat tests, are per-
+formed only when the results have a meaningful im-
+pact on clinical care.
+Recommendations for Evaluation With Cardiac Imaging (Continued)
+COR LOE Recommendations
+Downloaded from http://ahajournals.org by on May 30, 2026
+=== PAGE 20 ===
+May 3, 2022 Circulation. 2022;145:e895–e1032. DOI: 10.1161/CIR.0000000000001063e914
+CLINICAL STATEMENTS  
+AND GUIDELINES
+Heidenreich et al 2022 AHA/ACC/HFSA Heart Failure Guideline
+Recommendation-Specific Supportive Text
+1. The chest x-ray is a useful initial diagnostic test for 
+the evaluation of patients presenting with signs and 
+symptoms of HF because it assesses cardiomeg-
+aly, pulmonary venous congestion, and interstitial or 
+alveolar edema and may reveal alternative causes, 
+cardiopulmonary or otherwise, of the patient’s 
+symptoms.1,2 Apart from congestion, other findings 
+on chest x-ray are associated with HF only in the 
+context of clinical presentation. Importantly, cardio-
+megaly may be absent in acute HF and, although 
+cephalization, interstitial edema, and alveolar edema 
+are modestly specific for HF, these findings are rel-
+atively insensitive.2,33 Considering the limited sensi-
+tivity and specificity, the chest x-ray should not be 
+used as the only determinant of the specific cause 
+or presence of HF.
+2. TTE provides information regarding cardiac struc-
+ture and function and identifies abnormalities 
+of myocardium, heart valves, and pericardium. 
+Echocardiography reveals structural and functional 
+information that predicts subsequent risk. 34–40 
+Guidelines provide recommendations for quanti-
+fication of cardiac structure and function, includ-
+ing L VEF measurements, ventricular dimensions 
+and volumes, evaluation of chamber geometry, and 
+regional wall motion. 41 RV size and function, atrial 
+size, and all valves are evaluated for anatomic and 
+flow abnormalities. Guidelines also provide recom-
+mendations for diastolic function and estimates 
+of L V filling and left atrial pressure. 42 The tricus-
+pid valve regurgitant gradient, coupled with inferior 
+vena cava diameter and its response during respi-
+ration, provides estimates of systolic PA pressure 
+and central venous pressure. Indices of myocardial 
+deformation, such as global longitudinal strain, may 
+identify subclinical L V systolic dysfunction, which 
+has been associated with greater risk of developing 
+HF or recurrent HF hospitalizations. 38,43–46 Given 
+the widespread availability, lack of ionizing radia-
+tion, and wealth of provided information, echocar-
+diography is the preferred initial imaging modality 
+for evaluation of patients with suspected HF. Point-
+of-care cardiac ultrasound is an evolving tool for 
+assessment of cardiac function and assessment of 
+volume status and pulmonary congestion.47–52
+3. Serial echocardiograms to assess changes in 
+EF, structural remodeling, and valvular function, 
+although not recommended routinely in stable 
+patients, are useful in various situations. In patients 
+who have an unexplained, significant change 
+in clinical status, echocardiography can provide 
+important information, such as worsening ven-
+tricular or valvular function. A subset of patients 
+may also have reverse remodeling, improvement 
+in L VEF, and valvular function in response to 
+evidence-based medical, revascularization, and 
+device therapies, and repeat assessment of L VEF 
+and remodeling is appropriate in those who have 
+received treatments that might have had a signifi-
+cant effect on cardiac structure and function.4–7 ,53–59 
+Recovery of function appears more common in 
+those with L V systolic dysfunction occurring in the 
+setting of adverse energetic circumstances (eg, 
+chronic tachycardia or thyroid disease), dilated car-
+diomyopathies associated with immune responses 
+(eg, peripartum cardiomyopathy, acute myocardi-
+tis, systemic inflammatory responses), or in those 
+who have undergone revascularization or device-
+based therapies.60 Reevaluation of EF (>40 days 
+after MI, >90 days after revascularization, >90 
+days after GDMT) is useful to determine candidacy 
+for implantable cardioverter-defibrillator (ICD) or 
+cardiac resynchronization therapy (CRT). Finally, 
+repeat surveillance of L V function is appropriate 
+in patients exposed to treatments that potentially 
+damage the myocardium, such as chemotherapy.
+4. If TTE is unable to accurately evaluate cardiac 
+structure and function, additional noninvasive 
+imaging modalities are available to clarify the ini-
+tial diagnosis and to provide information on car-
+diac structure and function. The choice between 
+these modalities depends on availability, local 
+expertise, patient characteristics, indication, and 
+goal of limiting radiation exposure. CMR provides 
+an accurate and highly reproducible assessment 
+of cardiac volumes, mass, and EF of the left and 
+right ventricles. 8–10 CMR provides high anatomic 
+resolution of all aspects of the heart and surround-
+ing structures and is not associated with ioniz-
+ing radiation, leading to its recommended use in 
+known or suspected congenital heart diseases.11,61 
+Electrocardiographic-gated cardiac CT can also 
+accurately assess ventricular size, EF, and wall 
+motion abnormalities, but it is accompanied with 
+ionizing radiation. 13–15 Radionuclide ventriculog-
+raphy is highly reproducible for measurement of 
+L VEF, although it also exposes the patient to ion-
+izing radiation.12
+5. CMR provides noninvasive characterization of the 
+myocardium that may provide insights into HF 
+cause.62 Late-gadolinium enhancement, reflect-
+ing fibrosis and damaged myocardium, can iden-
+tify acute and chronic MI. 63,64 and identify HF 
+caused by CAD 65,66 Patterns of late-gadolinium 
+enhancement or specific T-1 and T-2 techniques 
+can suggest specific infiltrative and inflammatory 
+cardiomyopathies, such as myocarditis, sarcoid-
+osis, Fabry disease, Chagas disease, noncom-
+paction, iron overload, and amyloidosis. 16,20,22,67 
+T-1 mapping techniques allow for measurement 
+Downloaded from http://ahajournals.org by on May 30, 2026
+=== PAGE 21 ===
+Circulation. 2022;145:e895–e1032. DOI: 10.1161/CIR.0000000000001063 May 3, 2022 e915
+CLINICAL STATEMENTS 
+AND GUIDELINES
+Heidenreich et al 2022 AHA/ACC/HFSA Heart Failure Guideline
+of interstitial space characteristics and extracel-
+lular volume fraction and provides diagnostic and 
+prognostic information. 19,21–23,68–71 The presence 
+of delayed hyperenhancement has been associ-
+ated with worse outcomes and can provide risk 
+stratification.72–77 Although registry data show 
+that CMR findings commonly impact patient care 
+management and provide diagnostic information 
+in patients with suspected myocarditis or cardio-
+myopathy,17 ,18 a strategy of routine screening with 
+CMR in patients with nonischemic cardiomyopathy 
+was not shown to yield more specific HF causes 
+than a strategy of selective CMR strategy based 
+on echocardiographic and clinical findings in a 
+recent trial.78
+6. HF is often caused by coronary atherosclerosis, 79 
+and evaluation for ischemic heart disease can help 
+in determining the presence of significant coronary 
+artery disease (CAD). Noninvasive stress imag-
+ing with echocardiography or nuclear scintigraphy 
+can be helpful in identifying patients likely to have 
+obstructive CAD.24,25 Invasive or computed tomog-
+raphy coronary angiography can detect and char-
+acterize extent of CAD.26,27
+7 . CAD is a leading cause of HF 79 and myocardial 
+ischemia may contribute to new or worsening HF 
+symptoms. Noninvasive testing (ie, stress echo-
+cardiography, SPECT, CMR, or PET) may be con-
+sidered for detection of myocardial ischemia to 
+help guide coronary revascularization decisions. 
+Multiple nonrandomized, observational studies 
+have reported improved survival with revascular-
+ization in patients with viable but dysfunctional 
+myocardium. 28,30–32  Despite these observational 
+data, RCTs have not shown that viability imag-
+ing improves guidance of revascularization 
+to a reduction of adverse cardiovascular out-
+comes.80–82 A prespecified viability substudy 
+of the STICH (Surgical Treatment for Ischemic 
+Heart Failure) trial showed that the presence of 
+myocardial viability did not determine the long-
+term benefit from surgical revascularization in 
+patients with ischemic cardiomyopathy. 81,82 Of 
+note, a relatively small number of individuals 
+enrolled in the STICH substudy did not have 
+viability, which may limit the power of the study. 
+Although these data do not support the concept 
+of routine viability assessment before revascu-
+larization, myocardial viability is used as one of 
+the tools to inform decisions regarding revas-
+cularization in patients with high surgical risk or 
+with complex medical problems.
+8. Repeat noninvasive imaging of cardiac struc-
+ture and function for routine surveillance is rarely 
+appropriate in the absence of a change in clinical 
+status or treatment interventions.11,83
+4.5. Invasive Evaluation
+Recommendations for Invasive Evaluation
+Referenced studies that support the recommendations are summa-
+rized in the Online Data Supplements.
+COR LOE Recommendations
+2a B-NR
+1. In patients with HF, endomyocardial biopsy 
+may be useful when a specific diagnosis is sus-
+pected that would influence therapy.1,2
+2a C-EO
+2. In selected patients with HF with persistent or 
+worsening symptoms, signs, diagnostic param-
+eters, and in whom hemodynamics are uncer-
+tain, invasive hemodynamic monitoring can be 
+useful to guide management.
+3: No 
+Benefit B-R
+3. In patients with HF, routine use of invasive 
+hemodynamic monitoring is not recom-
+mended.3,4
+3: Harm C-LD
+4. For patients undergoing routine evaluation of 
+HF, endomyocardial biopsy should not be per-
+formed because of the risk of complications.5,6
+Synopsis
+Invasive evaluation of patients with HF may provide 
+important clinical information to determine the cause 
+of HF and treatment options. Routine right heart cath-
+eterization does not provide sufficient information to 
+guide treatment decisions. 3,4 However, hemodynamic 
+evaluation with right heart catheterization and moni-
+toring in the setting of acute respiratory distress, sys-
+temic hypoperfusion including cardiogenic shock, or 
+when hemodynamics are uncertain, may guide treat-
+ment decisions. Coronary angiography may be useful 
+in patients who are candidates for revascularization 7–9 
+(see Section 4.4, “Evaluation with Cardiac Imaging,” for 
+recommendations). Endomyocardial biopsy may be ad-
+vantageous in patients with HF in which a histological 
+diagnosis, such as amyloidosis or myocarditis, may in-
+fluence treatment decisions. 1,2
+Recommendation-Specific Supportive Text
+1. Endomyocardial biopsy may be useful when seeking 
+a specific diagnosis that would influence treatment, 
+and biopsy should thus be considered in patients 
+with rapidly progressive clinical HF or worsening 
+ventricular dysfunction that persists despite appro-
+priate medical treatment. Endomyocardial biopsy 
+should also be considered in patients suspected 
+of having acute cardiac rejection status after heart 
+transplantation or having myocardial infiltrative 
+processes. A specific example is to determine 
+treatment for light chain (AL) amyloidosis or trans-
+thyretin amyloidosis. 5 Additional indications for 
+endomyocardial biopsy include patients with rap-
+idly progressive and unexplained cardiomyopathy 
+and those in whom active myocarditis, especially 
+giant cell myocarditis, is being considered.1
+Downloaded from http://ahajournals.org by on May 30, 2026
+=== PAGE 22 ===
+May 3, 2022 Circulation. 2022;145:e895–e1032. DOI: 10.1161/CIR.0000000000001063e916
+CLINICAL STATEMENTS  
+AND GUIDELINES
+Heidenreich et al 2022 AHA/ACC/HFSA Heart Failure Guideline
+2. Right-heart catherization in patients in 
+acute HF. The ESCAPE (Evaluation Study 
+of Congestive Heart Failure and Pulmonary 
+Artery Catheterization Effectiveness) trial found 
+that routine use of PA catheter monitoring 
+for patients with HF did not provide benefit. 3 
+However, invasive hemodynamic evaluation or 
+monitoring can be useful to guide management 
+in carefully selected patients with acute HF 
+who have persistent symptoms despite treat-
+ment. This includes patients whose fluid status, 
+perfusion, or systemic or pulmonary vascular 
+resistance is uncertain whose systolic blood 
+pressure (SBP) remains low, or is associated 
+with symptoms, despite initial treatment; whose 
+renal function is worsening with therapy; or who 
+require parenteral vasoactive agents.
+3. There has been no established role for routine 
+or periodic invasive hemodynamic measure-
+ments in the management of HF. Most drugs 
+used to treat HF are prescribed on the basis 
+of their ability to improve symptoms or survival 
+rather than their effect on hemodynamic vari-
+ables. The initial and target doses of these drugs 
+are generally selected on the basis of controlled 
+trial experience rather than changes produced 
+in cardiac output or pulmonary capillary wedge 
+pressure. 3,4
+4. Patients with HF should not undergo routine endo-
+myocardial biopsy because of the risk of complica-
+tions that include perforation, cardiac tamponade, 
+and thrombus formation, as well as limited diag-
+nostic yield.5,6
+4.6. Wearables and Remote Monitoring 
+(Including Telemonitoring and Device 
+Monitoring)
+Recommendation for Wearables and Remote Monitoring (Including 
+Telemonitoring and Device Monitoring)
+Referenced studies that support the recommendation are summarized 
+in the Online Data Supplements.
+COR LOE Recommendation
+2b B-R
+1. In selected adult patients with NYHA class 
+III HF and history of a HF hospitalization in 
+the past year or elevated natriuretic peptide 
+levels, on maximally tolerated stable doses of 
+GDMT with optimal device therapy, the use-
+fulness of wireless monitoring of PA pressure 
+by an implanted hemodynamic monitor to 
+reduce the risk of subsequent HF hospitaliza-
+tions is uncertain. 1–4
+Value Statement: 
+Uncertain Value 
+(B-NR)
+2. In patients with NYHA class III HF with a HF 
+hospitalization within the previous year, wireless 
+monitoring of the PA pressure by an implanted 
+hemodynamic monitor provides uncertain 
+value.4–7
+Synopsis
+HF is a chronic condition punctuated by periods of insta-
+bility. Despite close longitudinal monitoring via in-person 
+visits, event rates remain high, affording a potential role for 
+remote monitoring strategies to improve clinical outcomes. 
+Strategies tested in randomized trials include an implant-
+able PA pressure sensor (CardioMEMS), noninvasive tele-
+monitoring, or monitoring via existing implanted electronic 
+devices (ICDs or CRT-Ds). Results from a single random-
+ized trial,1–3 and subsequent observational studies,8–10 sup-
+port consideration of an implantable PA sensor in selected 
+patients with HF to reduce the risk of HF hospitalization. 
+In contrast, a recent trial testing a PA pressure sensor did 
+not meet its primary endpoint.4 Results from previous clini-
+cal trials do not support the alternative remote monitoring 
+strategies (eg, noninvasive telemonitoring or remote moni-
+toring of physiological parameters such as patient activity, 
+thoracic impedance, heart rate) for this purpose.11–18
+Recommendation-Specific Supportive Text
+1. The CHAMPION (CardioMEMS Heart Sensor 
+Allows Monitoring of Pressure to Improve Outcomes 
+in NYHA Class III Heart Failure patients) trial 
+reported a significant 28% reduction of HF-related 
+hospitalizations after 6 months in patients random-
+ized to an implanted PA pressure monitor compared 
+with a control group. 1 Patients had to have a HF 
+hospitalization in the previous year and be on stable 
+doses of a beta blocker and angiotensin-converting 
+enzyme inhibitor (ACEi) (or angiotensin (II) recep-
+tor blocker [ARB]) if tolerated. The clinical benefit 
+persisted after longer term follow-up and was seen 
+in both subjects with reduced3 and preserved2 LV E F.  
+However, CHAMPION was a nonblinded trial, and 
+there was differential contact of study personnel with 
+patients in the treatment arm, raising methodologi-
+cal concerns about the opportunity for bias to have 
+influenced its results.19–21 In the recent GUIDE-HF 
+(Haemodynamic-GUIDEed management of Heart 
+Failure) study, hemodynamic-guided management 
+of patients with NYHA class II to IV heart failure did 
+not significantly reduce the composite endpoint rate 
+of mortality and total HF events.4 The usefulness of 
+noninvasive telemonitoring11,12,22,23 or remote moni-
+toring of physiological parameters13–18 (eg, patient 
+activity, thoracic impedance, heart rate) via implanted 
+electrical devices (ICDs or CRT-Ds) to improve clini-
+cal outcomes remains uncertain. Further study of 
+these approaches is needed before they can be 
+recommended for routine clinical care.
+2. Three model-based studies5–7 have evaluated the 
+cost-effectiveness of wireless PA pressure monitor-
+ing using data from the CHAMPION-HF 1 study of 
+Downloaded from http://ahajournals.org by on May 30, 2026
+=== PAGE 23 ===
+Circulation. 2022;145:e895–e1032. DOI: 10.1161/CIR.0000000000001063 May 3, 2022 e917
+CLINICAL STATEMENTS 
+AND GUIDELINES
+Heidenreich et al 2022 AHA/ACC/HFSA Heart Failure Guideline
+the CardioMEMS device. All 3 studies estimated 
+CardioMEMS implantation and monitoring increased 
+survival and quality-adjusted life year (QAL Y) while 
+increasing costs. Primarily based on differences 
+regarding the expected magnitude of clinical benefit, 
+2 analyses5,7estimated the device provided high value 
+while the third6 estimated intermediate value. These 
+analyses had several important differences detailed 
+in the evidence tables, including the model duration, 
+QOL data, cost estimates, and assumptions regarding 
+mortality. One analysis6 found the economic value of 
+CardioMEMS implantation was highly dependent on 
+its effect on mortality and duration of treatment ben-
+efit, both of which remain unclear. Cost-effectiveness 
+studies incorporating data from GUIDE-HF 4 have 
+not been published. Additional data regarding clinical 
+outcomes following CardioMEMS implantation will 
+improve estimates of its economic value.
+4.7 . Exercise and Functional Capacity Testing
+Recommendations for Exercise and Functional Capacity Testing
+Referenced studies that support the recommendations are summa-
+rized in the Online Data Supplements.
+COR LOE Recommendations
+1 C-LD
+1. In patients with HF, assessment and documen-
+tation of NYHA functional classification are 
+recommended to determine eligibility for treat-
+ments.1–3
+1 C-LD
+2. In selected ambulatory patients with HF, 
+cardiopulmonary exercise testing (CPET) is 
+recommended to determine appropriateness 
+of advanced treatments (eg, LVAD, heart 
+transplant). 4–8
+2a C-LD
+3. In ambulatory patients with HF, performing a 
+CPET or 6-minute walk test is reasonable to 
+assess functional capacity.4,5,9–16
+2a C-LD
+4. In ambulatory patients with unexplained dys-
+pnea, CPET is reasonable to evaluate the 
+cause of dyspnea.17 ,18
+Synopsis
+Functional impairment and exercise intolerance are com-
+mon in HF. CPET and the 6-minute walk test are standard-
+ized, reliable, and reproducible tests to quantify functional 
+capacity.19–22 The NYHA functional classification can be 
+used to grade the severity of functional limitation based on 
+patient report of symptoms experienced with activity1 and 
+is used to define candidates for certain treatments.
+Recommendation-Specific Supportive Text
+1. NYHA functional classification is an ordinal, categor-
+ical variable (I-IV) that is used to document functional 
+limitation in patients with cardiac disease, including 
+H F.1 In HF, NYHA functional class I includes patients 
+with no limitations in physical activity resulting from 
+their HF. NYHA class II includes patients who are 
+comfortable at rest but have slight symptoms result-
+ing from HF (dyspnea, fatigue, lightheadedness) with 
+ordinary activity. NYHA class III includes patients 
+who are comfortable at rest but have symptoms of 
+HF with less than ordinary activity. NYHA class IV 
+includes patients who are unable to carry out any 
+physical activity without symptoms and have symp-
+toms at rest. NYHA functional classification has 
+been widely used in clinical practice, clinical trials, 
+and clinical practice guidelines to determine candi-
+dacy for drug and device therapy. Limitations include 
+its ability to be inconsistently assessed from 1 clini-
+cian to another, resulting in poor reproducibility.23
+2. Many CPET variables have been associated with 
+prognosis in patients with HF.4,5,12,14,16,24 Peak exer-
+cise oxygen consumption/oxygen uptake (VO 2) is 
+often used to risk stratify patients and make deci-
+sions about timing of advanced HF therapies, includ-
+ing heart transplantation and L VAD. In a landmark 
+article,7 investigators divided patients referred for 
+heart transplantation into groups based on their peak 
+VO2.7 Patients with peak VO2 <14 mL/kg/min were 
+listed for transplant, while those with higher peak VO2 
+values were deferred for being too well. Patients with 
+peak VO2 >14 mL/kg/min who were deferred had 
+1- and 2-year survival of 94% and 84%, respectively, 
+which was similar to survival after heart transplant. 
+As such, the authors proposed peak VO2 ≤14 mL/
+kg/min as a cutoff to distinguish patients who may 
+derive survival benefit from heart transplant.7 Patients 
+tolerating beta blockers may have improved survival 
+with an equivalent VO2 compared with patients who 
+do not tolerate beta blockers. 25,26 For patients on 
+beta blockers, a peak VO2 ≤12 mL/kg/min has been 
+suggested as a more appropriate cutoff to consider 
+cardiac transplant listing.8
+3. Objective assessment of exercise capacity with 
+CPET can be useful in the clinical management 
+of patients with HF. Although CPET remains the 
+gold standard measure of exercise capacity, limita-
+tions to more widespread use include need for spe-
+cial equipment and trained personnel, which leads 
+to lack of availability at many hospitals and clinics. 
+Furthermore, it is not well tolerated by some patients. 
+The 6-minute walk test is an alternative way to mea-
+sure exercise capacity that is widely available and 
+well tolerated by patients. It entails walking for 6 
+minutes on a measured flat course, and patients are 
+allowed to slow down or stop if needed. A system-
+atic review of 14 studies found that the 6-minute 
+walk test results correlated moderately with peak 
+VO2 levels and were a reliable and valid indicator 
+of functional capacity in patients with HF who did 
+not walk >490 m.8 Distance walked in the 6-minute 
+walk test has been associated with prognosis in HF 
+Downloaded from http://ahajournals.org by on May 30, 2026
+=== PAGE 24 ===
+May 3, 2022 Circulation. 2022;145:e895–e1032. DOI: 10.1161/CIR.0000000000001063e918
+CLINICAL STATEMENTS  
+AND GUIDELINES
+Heidenreich et al 2022 AHA/ACC/HFSA Heart Failure Guideline
+across multiple studies.9–13,15,16,27 A cutoff of <300 
+m roughly correlates to patients with NYHA class III 
+to IV symptoms and is associated with worse 3-year 
+survival free of heart transplant (62% versus 82% 
+for those walking ≥300 m).27
+4. Dyspnea is a complex symptom that can reflect 
+abnormalities in a number of different systems 
+and can be influenced by psychological and envi-
+ronmental factors. CPET involves having patients 
+perform a treadmill (or stationary bicycle) exer-
+cise test, while also performing ventilatory gas 
+exchange measurements. 28 CPET enables the 
+comprehensive assessment of multiple physiologi-
+cal measures that can impact exercise capacity and 
+contribute to dyspnea. It provides analysis of gas 
+exchange and yields measures of oxygen uptake 
+(VO2), carbon dioxide output, and ventilation. These 
+measures can be integrated with standard exercise 
+testing variables, such as heart rate, blood pres-
+sure, electrocardiographic findings, and symptoms 
+to provide insights into the physiologic mechanisms 
+underlying a patient’s dyspnea. In particular, CPET 
+can help to distinguish respiratory versus cardiac 
+etiologies of dyspnea. If exercise capacity is dimin-
+ished but cardiopulmonary responses are normal, 
+other causes of dyspnea, such as metabolic abnor-
+malities and deconditioning, should be considered.
+4.8. Initial and Serial Evaluation: Clinical 
+Assessment: HF Risk Scoring
+Recommendation for Initial and Serial Evaluation: Clinical Assessment: 
+HF Risk Scoring
+Referenced studies that support the recommendation are summarized 
+in the Online Data Supplements.
+COR LOE Recommendation
+2a B-NR
+1. In ambulatory or hospitalized patients with HF, 
+validated multivariable risk scores can be useful 
+to estimate subsequent risk of mortality.1–14
+Synopsis
+Clinicians should routinely assess a patient’s risk for an 
+adverse outcome to guide discussions on prognosis, 
+goals of care, and treatment decisions. Several predictive 
+models of outcomes of patients with HF have been de-
+veloped and validated using data from clinical trials, regis-
+tries, and population-based cohorts. The best performing 
+models have focused on predicting short- and long-term 
+mortality, whereas predictive models for hospitalization or 
+readmission for HF have generally had poor or modest 
+discrimination. Predictive models may also assess the risk 
+of incident HF among the general population and should 
+be considered in the prevention of HF. In the course of 
+standard evaluation, clinicians should routinely assess the 
+patient’s potential for adverse outcome, because accurate 
+risk stratification may help guide therapeutic decision-
+making, including a more rapid transition to advanced 
+HF therapies. Several methods objectively assess risk 
+(Table 8), including biomarker testing, as well as various 
+multivariable clinical risk scores, and some that include 
+Table 8. Selected Multivariable Risk Scores to Predict 
+Outcome in HF
+Risk Score Reference/Link
+Year  
+Published
+Chronic HF
+All Patients With Chronic HF
+Seattle Heart Failure Model 2 
+https://depts.washing-
+ton.edu/shfm/?width 
+=1440&height=900
+15
+2006
+Heart Failure Survival Score 1 1997
+MAGGIC 3  
+http://www.heartfailure-
+risk.org/
+16
+2013
+CHARM Risk Score 4 2006
+CORONA Risk Score 5 2009
+Specific to Chronic HFrEF
+PARADIGM-HF 6 2020
+HF-ACTION 7 2012
+GUIDE-IT 8 2019
+Specific to Chronic HFpEF
+I-PRESERVE Score 9 2011
+TOPCAT 10 2020
+Acutely Decompensated HF
+ADHERE Classification and Re-
+gression Tree (CART) Model
+11 2005
+AHA Get With The Guidelines 
+Score
+12 
+https://www.mdcalc.
+com/gwtg-heart-failure-
+risk-score 
+17
+2010, 2021
+EFFECT Risk Score 13  
+http://www.ccort.ca/
+Research/CHFRisk-
+Model.aspx 
+18
+2003, 2016
+ESCAPE Risk Model and  
+Discharge Score
+14 2010
+ADHERE indicates Acute Decompensated Heart Failure National Registry; 
+AHA, American Heart Association; ARIC, Atherosclerosis Risk in Communi-
+ties; CHARM, Candesartan in Heart failure-Assessment of Reduction in Mor-
+tality and morbidity; CORONA, Controlled Rosuvastatin Multinational Trial in 
+Heart Failure; EFFECT, Enhanced Feedback for Effective Cardiac Treatment; 
+ESCAPE, Evaluation Study of Congestive Heart Failure and Pulmonary Artery 
+Catheterization Effectiveness; GUIDE-ID, Guiding Evidence-Based Therapy 
+Using Biomarker Intensified Treatment; HF, heart failure; HFpEF, heart failure 
+with preserved ejection fraction; HF-ACTION, Heart Failure: A Controlled Trial 
+Investigating Outcomes of Exercise Training MAGGIC Meta-analysis Global 
+Group in Chronic Heart Failure; I-PRESERVE, Irbesartan in Heart Failure with 
+Preserved Ejection Fraction Study; PCP-HF, Pooled Cohort Equations to Pre-
+vent HF; and TOPCAT, Treatment of Preserved Cardiac Function Heart Failure 
+with an Aldosterone Antagonist trial.
+Downloaded from http://ahajournals.org by on May 30, 2026
+=== PAGE 25 ===
+Circulation. 2022;145:e895–e1032. DOI: 10.1161/CIR.0000000000001063 May 3, 2022 e919
+CLINICAL STATEMENTS 
+AND GUIDELINES
+Heidenreich et al 2022 AHA/ACC/HFSA Heart Failure Guideline
+machine learning.1–14 These risk scores are for use in am-
+bulatory, hospitalized patients, and the general population.
+Recommendation-Specific Supportive Text
+1. For HF, there are several clinical models to consider 
+that include the spectrum of HF based on EF and clin-
+ical setting. For chronic HF, the Seattle Heart Failure 
+Model,2 the Heart Failure Survival score, 1 and the 
+MAGGIC score3 have commonly been used to provide 
+estimates of survival. The MAGGIC predictive model 
+may be quite useful given its derivation and valida-
+tion across multiple clinical trials and cohorts, includ-
+ing more recent studies. For chronic HFrEF, there are 
+additional models that include other clinical variables, 
+including exercise capacity7 and natriuretic peptide 
+levels.8 Likewise, for chronic HFpEF there are more 
+specific predictive models for that population derived 
+from clinical trial data.9,10 In acute HF, several clinical 
+models may be used to predict short-term survival.11–13
+5. STAGE A (PATIENTS AT RISK FOR HF)
+5.1. Patients at Risk for HF (Stage A: Primary 
+Prevention)
+Recommendations for Patients at Risk for HF (Stage A: Primary  
+Prevention)
+Referenced studies that support the recommendations are 
+summarized in the Online Data Supplements.
+COR LOE Recommendations
+1 A
+1. In patients with hypertension, blood pressure 
+should be controlled in accordance with GDMT 
+for hypertension to prevent symptomatic HF.1–9
+1 A
+2. In patients with type 2 diabetes and either 
+established CVD or at high cardiovascular risk, 
+SGLT2i should be used to prevent hospitaliza-
+tions for HF.10–12
+1 B-NR
+3. In the general population, healthy lifestyle hab-
+its such as regular physical activity, maintaining 
+normal weight, healthy dietary patterns, and 
+avoiding smoking are helpful to reduce future 
+risk of HF.13–21
+2a B-R
+4. For patients at risk of developing HF, natriuretic 
+peptide biomarker–based screening followed 
+by team-based care, including a cardiovascular 
+specialist optimizing GDMT, can be useful to 
+prevent the development of LV dysfunction 
+(systolic or diastolic) or new-onset HF.22,23
+2a B-NR
+5. In the general population, validated multivari-
+able risk scores can be useful to estimate sub-
+sequent risk of incident HF.24–26
+Synopsis
+Healthy lifestyle habits such as maintaining regular phys-
+ical activity; normal weight, blood pressure, and blood 
+glucose levels; healthy dietary patterns, and not smok-
+ing reduce primordial risk and have been associated with 
+a lower lifetime risk of developing HF. 13–21,27 The AHA/
+ACC primary prevention guidelines provide recommen-
+dations for diet, physical activity, and weight control, all 
+of which have been associated with the risk of HF. 28 
+Blood pressure is an important risk factor for HF, and a 
+treatment goal of <130/80 mm Hg is recommended for 
+those with a CVD risk of ≥10%. 29,30 Multiple RCTs have 
+found that patients with diabetes and CVD without HF 
+have improved survival and reduced HF hospitalizations 
+with SGL T2i.31 Patients at risk for HF screened with BNP 
+or NT-proBNP followed by collaborative care, diagnostic 
+evaluation, and treatment in those with elevated levels 
+can reduce combined rates of L V systolic dysfunction, 
+diastolic dysfunction, and HF.22,23 See Figure 5 for COR 1 
+and 2a for stage A (at risk for HF) and stage B (pre-HF).
+Recommendation-Specific Supportive Text
+1. Elevated systolic and diastolic blood pressure are 
+major risk factors for the development of symp-
+tomatic HF.8,9,32 Many trials have shown that hyper-
+tension control reduces the risk of HF.1–7 Although 
+the magnitude of benefit varies with the patient 
+population, target blood pressure reduction, and 
+HF criteria, effective hypertension treatment invari-
+ably reduces HF events. In the SPRINT (Systolic 
+Blood Pressure Intervention Trial) trial, control to 
+an SBP goal <120 mm Hg decreased incident 
+HF by 38% and mortality by 23% compared with 
+an SBP goal of <140 mm Hg 6,7 A meta-analysis 
+showed that blood pressure control was associ-
+ated with an approximately 40% reduction in HF 
+events.5 Therefore, SBP and diastolic blood pres-
+sure should be controlled in accordance with pub-
+lished clinical practice guidelines.30
+2. Multiple RCTs in patients with type 2 diabetes and 
+at risk for, or with established CVD or at high risk for 
+CVD, have shown that SGL T2i prevent HF hospital-
+izations compared with placebo.10–12 The benefit for 
+reducing HF hospitalizations in these trials predomi-
+nantly reflects primary prevention of symptomatic HF, 
+because only approximately 10% to 14% of partici-
+pants in these trials had HF at baseline. The mecha-
+nisms for the improvement in HF events have not 
+been clearly elucidated but seem to be independent 
+of glucose lowering. Proposed mechanisms include 
+reductions in plasma volume, cardiac preload and 
+afterload, alterations in cardiac metabolism, reduced 
+arterial stiffness, and interaction with the Na +/H+ 
+exchanger.33,34 SGL T2i are generally well tolerated, 
+but these agents have not been evaluated in those 
+with severe renal impairment (estimated glomerular 
+filtration rate [eGFR] <25 mL/min/1.73 m2).35
+3. Greater adherence to healthy lifestyle habits 
+such as regular physical activity, avoiding obe-
+sity, maintaining normal blood pressure and 
+Downloaded from http://ahajournals.org by on May 30, 2026
+=== PAGE 26 ===
+May 3, 2022 Circulation. 2022;145:e895–e1032. DOI: 10.1161/CIR.0000000000001063e920
+CLINICAL STATEMENTS  
+AND GUIDELINES
+Heidenreich et al 2022 AHA/ACC/HFSA Heart Failure Guideline
+blood glucose, not smoking, and healthy dietary 
+patterns have been associated with a lower life-
+time risk of HF and greater preservation of car-
+diac structure. 13–16,27 Healthful eating patterns, 
+particularly those that are based more on con-
+sumption of foods derived from plants, such as 
+the Mediterranean, whole grain, plant-based 
+diet and the DASH (Dietary Approaches to Stop 
+Hypertension) diet, are inversely associated with 
+incident HF and may offer some protection against 
+HF development.17–21
+4. A large-scale unblinded single-center study 
+(STOP-HF [The St Vincent’s Screening to Prevent 
+Heart Failure])22 of patients at risk of HF (identi-
+fied by the presence of hypertension, diabetes, or 
+known vascular disease) but without established 
+L V systolic dysfunction or symptomatic HF at base-
+line found that screening with BNP testing and 
+then intervening on those with levels of ≥50 pg/
+mL (performing echocardiography and referral to 
+a cardiovascular specialist) reduced the composite 
+endpoint of asymptomatic L V dysfunction (systolic 
+Figure 5. Recommendations (Class 1 and 2a) for Patients at Risk of HF (Stage A) and Those With Pre-HF (Stage B).
+Colors correspond to COR in Table 2. COR 1 and COR 2a for patients at risk for HF (stage A) and those with pre-HF (stage B) are shown. 
+Management strategies implemented in patients at risk for HF (stage A) should be continued though stage B. ACEi indicates angiotensin-
+converting enzyme inhibitor; ARB, angiotensin receptor blocker; BP, blood pressure; COR, Class of Recommendation; CVD, cardiovascular 
+disease; HF, heart failure; ICD, implantable cardioverter-defibrillator; L VEF, left ventricular ejection fraction; MI, myocardial infarction; and SGL T2i, 
+sodium glucose cotransporter 2 inhibitor.
+Downloaded from http://ahajournals.org by on May 30, 2026
+=== PAGE 27 ===
+Circulation. 2022;145:e895–e1032. DOI: 10.1161/CIR.0000000000001063 May 3, 2022 e921
+CLINICAL STATEMENTS 
+AND GUIDELINES
+Heidenreich et al 2022 AHA/ACC/HFSA Heart Failure Guideline
+or diastolic) with or without newly diagnosed HF.22 
+Similarly, in another small, single-center RCT, 
+accelerated uptitration of RAAS antagonists and 
+beta blockers reduced cardiac events in patients 
+with diabetes and elevated NT-proBNP levels but 
+without cardiac disease at baseline.23
+5. Incident HF may be predicted from different mod-
+els, including those derived from diverse populations 
+(Table 9). The PCP-HF (Pooled Cohort equations 
+to Prevent HF) model provides race- and sex-
+specific 10-year risk equations from 7 community-
+based cohorts with at least 12 years of follow-up.29 
+Predictors of HF included in the race- and sex-spe-
+cific models were age, blood pressure (treated or 
+untreated), fasting glucose (treated or untreated), 
+body mass index, cholesterol, smoking status, and 
+QRS duration. Models can be applied to the clinical 
+setting of interest, with clinical trial models potentially 
+less generalizable to registry- or population-based 
+models. In addition, predictive models provide the 
+average estimate of risk derived from a population, 
+and individual risk may vary.36 The integration of risk 
+scores into clinical practice have shown improved 
+outcomes. As data generation increases from elec-
+tronic health records and digital sources, advanced 
+methods with machine learning are expected to pro-
+liferate the development of risk prediction models. 
+Machine learning models are often not externally 
+validated, and their performance may vary based on 
+the population and clinical setting.37 Patient popula-
+tions change over time, and models may need to be 
+recalibrated periodically.
+6. STAGE B (PATIENTS WITH PRE-HF)
+6.1. Management of Stage B: Preventing the 
+Syndrome of Clinical HF in Patients With Pre-HF
+Recommendations for Management of Stage B: Preventing the  
+Syndrome of Clinical HF in Patients With Pre-HF
+Referenced studies that support the recommendations are  
+summarized in the Online Data Supplements.
+COR LOE Recommendations
+1 A
+1. In patients with LVEF ≤40%, ACEi should be 
+used to prevent symptomatic HF and reduce 
+mortality.1–4
+1 A
+2. In patients with a recent or remote history of 
+MI or ACS, statins should be used to prevent 
+symptomatic HF and adverse cardiovascular 
+events.5–9
+1 B-R
+3. In patients with a recent MI and LVEF ≤40% 
+who are intolerant to ACEi, ARB should be used 
+to prevent symptomatic HF and reduce mortal-
+ity.10
+1 B-R
+4. In patients with a recent or remote history of MI 
+or acute coronary syndrome (ACS) and LVEF 
+≤40%, evidence-based beta blockers should 
+be used to reduce mortality.11–13
+1 B-R
+5. In patients who are at least 40 days post-MI 
+with LVEF ≤30% and NYHA class I symptoms 
+while receiving GDMT and have reasonable 
+expectation of meaningful survival for >1 year, 
+an ICD is recommended for primary prevention 
+of sudden cardiac death (SCD) to reduce total 
+mortality.14
+1 C-LD 6. In patients with LVEF ≤40%, beta blockers should be used to prevent symptomatic HF.12,13
+3: Harm B-R
+7 . In patients with LVEF <50%, thiazolidinediones 
+should not be used because they increase the 
+risk of HF, including hospitalizations.15
+3: Harm C-LD
+8. In patients with LVEF <50%, nondihydropyri-
+dine calcium channel blockers with negative 
+inotropic effects may be harmful.16,17
+Synopsis
+In general, all recommendations for patients with stage 
+A HF also apply to those with stage B HF. Stage B (pre-
+HF) represents a phase of clinically asymptomatic struc-
+tural and functional cardiac abnormalities that increases 
+the risk for symptomatic HF. 18–21 Identifying individu-
+als with stage B HF provides an opportunity to initiate 
+lifestyle modification and pharmacological therapy that 
+may prevent or delay the transition to symptomatic HF 
+(stage C/D). Several ACC/AHA clinical practice guide-
+lines address appropriate management of patients with 
+stage B HF (Table 10). Although multiple studies high-
+light the increased HF risk associated with asymptomatic 
+L V systolic19,20,22–26 and diastolic dysfunction identified by 
+noninvasive imaging, 19,26–30 beneficial pharmacotherapy 
+for asymptomatic L V systolic dysfunction, such as inhibi-
+tors of the renin-angiotensin system and beta blockers, 
+have been predominantly observed in individuals with 
+depressed L VEF (L VEF <35%–40%).1–4,11–13 Studies of 
+specific treatments to alter the onset of HF in the set-
+ting of asymptomatic cardiac dysfunction with preserved 
+L VEF (eg, abnormalities of myocardial deformation or 
+diastolic dysfunction) have been limited. Several comor-
+bid conditions, including diabetes, obesity, and hyperten-
+sion, have been associated with asymptomatic L V dys-
+function27 ,28,30,31 and with progression of asymptomatic 
+L V dysfunction to symptomatic HF.27 Accordingly, these 
+comorbidities are controlled according to current clinical 
+Table 9. Selected Multivariable Risk Scores to Predict De-
+velopment of Incident HF
+Risk Score Reference Year Published
+Framingham Heart Failure Risk Score 24 1999
+Health ABC Heart Failure Score 25 2008
+ARIC Risk Score 26 2012
+PCP-HF 29 2019
+ARIC indicates Atherosclerosis Risk in Communities; HF, heart failure; and 
+PCP-HF, Pooled Cohort Equations to Prevent HF.
+Recommendations for Management of Stage B: Preventing the  
+Syndrome of Clinical HF in Patients With Pre-HF (Continued)
+COR LOE Recommendations
+Downloaded from http://ahajournals.org by on May 30, 2026
+=== PAGE 28 ===
+May 3, 2022 Circulation. 2022;145:e895–e1032. DOI: 10.1161/CIR.0000000000001063e922
+CLINICAL STATEMENTS  
+AND GUIDELINES
+Heidenreich et al 2022 AHA/ACC/HFSA Heart Failure Guideline
+practice guidelines. The benefits of mineralocorticoid 
+receptor antagonists (MRA) after MI have mostly been 
+shown in patients with symptomatic HFrEF.32–34
+ARNi have not been well studied in stage B HF. 
+The PARADISE-MI (Prospective ARNi vs. ACE inhibi-
+tor trial to DetermIne Superiority in reducing heart 
+failure Events after Myocardial Infarction) study 35 will 
+report the efficacy and safety of sacubitril/valsartan in 
+patients after acute MI, with L VEF ≤ 40 and/or pulmo-
+nary congestion, plus an additional risk-enhancing fac-
+tor, compared with ramipril.
+Recommendation-Specific Supportive Text
+1. ACEi have been shown to impede maladaptive remod-
+eling after acute MI in patients with reduced L VEF.36,37 
+In survivors of acute MI with asymptomatic L V dys-
+function (L VEF <35%–40%), RCTs have shown 
+that ACEi reduced mortality, HF hospitalizations, and 
+progression to severe HF compared with placebo.2,4 
+Similarly, in those individuals with asymptomatic L V 
+dysfunction in the SOL VD (Studies of Left Ventricular 
+Systolic Dysfunction) prevention trial, which included 
+approximately 20% without ischemic heart disease, 
+enalapril was associated with reduced HF hospitaliza-
+tion and mortality compared with placebo.1,3
+2. In multiple RCTs,42 statins have been shown to pre-
+vent adverse CAD events in patients with an MI, 
+ACS, and with high cardiovascular risk. These trials 
+have also shown that statin therapy reduces the 
+risk of incident HF. 5–9 A meta-analysis of 6 RCTs 
+of >110 000 patients with an ACS showed that 
+intensive statin therapy reduced hospitalizations 
+for HF.5 A subsequent, larger collaborative meta-
+analysis of up to 17 major primary and secondary 
+prevention RCTs showed that statins reduced HF 
+hospitalization.42 These data support the use of 
+statins to prevent symptomatic HF and cardiovas-
+cular events in patients with acute MI or ACS.
+3. Two major trials have compared ARB with ACEi after 
+MI. The VALIANT (Valsartan in Acute Myocardial 
+Infarction) trial, which included approximately 25% of 
+patients with asymptomatic L V dysfunction, showed 
+that the benefits of valsartan on mortality and other 
+adverse cardiovascular outcomes were compa-
+rable to captopril. 10,38 In the OPTIMAAL (Optimal 
+Trial in Myocardial Infarction with the Angiotensin 
+II Antagonist Losartan) trial, losartan did not meet 
+the noninferiority criteria for mortality compared with 
+captopril.39 It has been hypothesized that the lower 
+dose of losartan (50 mg daily) in the OPTIMAAL 
+trial may have contributed to the greater differ-
+ence than those seen with valsartan in VALIANT.40 
+No clinical trials have specifically evaluated ARB in 
+patients with asymptomatic reduced L VEF in the 
+absence of previous MI. Although ARB are alterna-
+tives for patients with ACEi-induced angioedema, 
+caution is advised because some patients have also 
+developed angioedema with ARB.
+4. Current evidence supports the use of beta block-
+ers to improve adverse cardiac remodeling and 
+outcomes in patients with asymptomatic reduced 
+L VEF after MI. Among patients with a recent MI 
+and reduced L VEF, carvedilol reduced maladaptive 
+remodeling41 and reduced mortality compared with 
+placebo.11 Among patients with asymptomatic L V 
+systolic dysfunction in the SOL VD prevention trial 
+(which included 80% with previous MI) and the 
+SAVE (Survival and Ventricular Enlargement) trial, 
+secondary analyses showed that the administra-
+tion of beta blockers in addition to ACEi reduced 
+mortality and hospitalization.12,13
+Table 10. Other ACC/AHA Clinical Practice Guidelines Addressing Patients With Stage B HF
+Consideration Reference
+Patients with an acute MI who have not developed HF 
+symptoms treated in accordance with GDMT
+2013 ACCF/AHA Guideline for the Management of ST-Elevation Myocardial Infarction51
+2014 AHA/ACC Guideline for the Management of Patients With Non–ST-Elevation Acute Coro-
+nary Syndromes52
+Coronary revascularization for patients without symptoms of 
+HF in accordance with GDMT
+2015 ACC/AHA/SCAI Focused Update on Primary Percutaneous Coronary Intervention for Pa-
+tients With ST-Elevation Myocardial Infarction: An Update of the 2011 ACCF/AHA/SCAI Guideline 
+for Percutaneous Coronary Intervention and the 2013 ACCF/AHA Guideline for the Management 
+of ST-Elevation Myocardial Infarction53 (This guideline has been replaced by Lawton, 2021.54)
+2014 ACC/AHA/AATS/PCNA/SCAI/STS Focused Update of the Guideline for the Diagnosis and 
+Management of Patients With Stable Ischemic Heart Disease55
+2011 ACCF/AHA Guideline for Coronary Artery Bypass Graft Surgery56 (This guideline has been 
+replaced by Lawton, 2021.54)
+Valve replacement or repair for patients with hemodynamically 
+significant valvular stenosis or regurgitation and no symptoms 
+of HF in accordance with GDMT
+2020 ACC/AHA Guideline for the Management of Patients With Valvular Heart Disease.57, 5 8
+Patients with congenital heart disease that may increase the 
+risk for the development of HF
+2018 AHA/ACC Guideline for the Management of Adults With Congenital Heart Disease59
+AATS indicates American Association for Thoracic Surgery; ACC, American College of Cardiology; ACCF, American College of Cardiology Foundation; AHA, 
+American Heart Association; GDMT, guideline-directed medical therapy; HF, heart failure; MI, myocardial infarction; PCNA, Preventive Cardiovascular Nurses As-
+sociation; SCAI, Society for Cardiovascular Angiography and Interventions; and STS, The Society of Thoracic Surgeons.
+Downloaded from http://ahajournals.org by on May 30, 2026
+=== PAGE 29 ===
+Circulation. 2022;145:e895–e1032. DOI: 10.1161/CIR.0000000000001063 May 3, 2022 e923
+CLINICAL STATEMENTS 
+AND GUIDELINES
+Heidenreich et al 2022 AHA/ACC/HFSA Heart Failure Guideline
+5. The Framingham studies have shown a 60% 
+increased risk of death in patients with asymptomatic 
+low L VEF compared with those with normal L VEF, 
+and almost half of these patients remained free 
+of HF before their death. 25 MADIT-II (Multicenter 
+Automatic Defibrillator Implantation Trial II) showed 
+a 31% relative risk reduction in all-cause mortality 
+in patients with post-MI with L VEF ≤ 30% receiv-
+ing a prophylactic ICD compared with standard 
+of care.14 These findings provided justification for 
+the broad adoption of ICDs for primary prevention 
+of SCD in the post-MI setting with reduced L VEF, 
+even in the absence of HF symptoms.
+6. Although beta blockers have been shown to improve 
+outcomes in patients with symptomatic HFrEF and 
+in patients with reduced L VEF after MI,11 few data 
+exist regarding the use of beta blockers in asymp-
+tomatic patients with depressed L VEF without a his-
+tory of MI. There is evidence to support the role of 
+beta blockers to prevent adverse L V remodeling in 
+asymptomatic patients with L V systolic dysfunction, 
+including those with nonischemic cause.43 Also, in 
+a post hoc analysis of the SOL VD prevention trial, 
+which included approximately 20% of participants 
+with nonischemic HF cause, beta blockers were 
+associated with a reduction in the risk of death and 
+in death or hospitalization for symptomatic HF in 
+those patients randomized to enalapril, a finding that 
+was not seen in the placebo group.12 Given the long-
+term benefits of beta blockers to reduce HF hos-
+pitalizations in patients with symptomatic HFrEF, 44 
+beta-blocker therapy is recommended to prevent 
+symptomatic HF in patients with reduced L VEF.
+7 . Thiazolidinediones have been associated with fluid 
+retention and increased rates of HF in RCTs of 
+patients with type 2 diabetes who were predominantly 
+free of symptomatic HF at baseline.47–49 In a smaller 
+RCT of patients with more severely symptomatic 
+HFrEF, pioglitazone was associated with increased 
+rates of HF hospitalization compared with placebo.50 
+In patients with more mild symptoms (NYHA class 
+I to II) but with depressed L VEF,15 rosiglitazone was 
+associated with more fluid-related events, includ-
+ing worsening edema and need for increased HF 
+medications.15 Given the evidence, thiazolidinediones 
+should be avoided in patients with reduced L VEF.
+8. Nondihydropiridine calcium channel blockers diltia-
+zem and verapamil are myocardial depressants and 
+generally not tolerated in HF. In previous studies of 
+patients with HF or reduced L VEF after acute MI, dil-
+tiazem was associated with increased risk of HF,16,17 
+although in a smaller study of patients with non-
+ischemic cardiomyopathy, diltiazem had no impact 
+on mortality.45 Verapamil had no impact on survival 
+or major cardiovascular events after acute MI. 46 
+Although not specifically tested in asymptomatic 
+patients with low L VEF, nondihydropyridine calcium 
+channel blockers may be harmful in this population 
+because of their negative inotropic effects.
+7 . STAGE C HF
+7 .1. Nonpharmacological Interventions
+7.1.1. Self-Care Support in HF
+Recommendations for Nonpharmacological Interventions: Self-Care 
+Support in HF
+Referenced studies that support the recommendations are summa-
+rized in the Online Data Supplements.
+COR LOE Recommendations
+1 A
+1. Patients with HF should receive care from 
+multidisciplinary teams to facilitate the imple-
+mentation of GDMT, address potential barriers 
+to self-care, reduce the risk of subsequent 
+rehospitalization for HF, and improve survival.1–4
+1 B-R
+2. Patients with HF should receive specific edu-
+cation and support to facilitate HF self-care in a 
+multidisciplinary manner.2,5–9
+2a B-NR
+3. In patients with HF, vaccinating against respi-
+ratory illnesses is reasonable to reduce mor-
+tality.10–16
+2a B-NR
+4. In adults with HF, screening for depression,17 ,18 
+social isolation,19–22 frailty,23,24 and low health 
+literacy25,26 as risk factors for poor self-care is 
+reasonable to improve management.
+Synopsis
+Because of the complexity of HF management and 
+coordination of other health and social services re-
+quired, HF care is ideally provided by multidisciplinary 
+teams27–30 that include cardiologists, nurses, and phar-
+macists who specialize in HF as well as dieticians, 
+mental health clinicians, social workers, primary care 
+clinicians, and additional specialists. 31–33 Self-care in 
+HF comprises treatment adherence and health main-
+tenance behaviors. 34,35 Patients with HF should learn to 
+take medications as prescribed, restrict sodium intake, 
+stay physically active, and get vaccinations. 36,37 They 
+also should understand how to monitor for signs and 
+symptoms of worsening HF, and what to do in response 
+to symptoms when they occur. 36,37 Knowledge alone 
+is insufficient to improve self-care. 38 Patients with HF 
+need time and support to gain skills and overcome bar-
+riers to effective self-care. 37 Measures listed as Class 
+1 recommendations for patients in stages A and B are 
+recommended where appropriate for patients in stage 
+C. GDMT, as depicted in Figure 6, should be the main-
+stay of pharmacological therapy for HFrEF.
+Recommendation-Specific Supportive Text
+1. In a meta-analysis of 30 RCTs, multidisciplinary 
+interventions reduced hospital admission and 
+Downloaded from http://ahajournals.org by on May 30, 2026

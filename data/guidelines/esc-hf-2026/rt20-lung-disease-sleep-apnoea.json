@@ -1,0 +1,59 @@
+{
+  "schemaVersion": 1,
+  "id": "esc-hf-2026.rt20-lung-disease-sleep-apnoea",
+  "guidelineId": "esc-hf-2026",
+  "number": "Recommendation Table 20",
+  "type": "recommendations",
+  "title": {
+    "en": "Recommendation Table 20 — Recommendations for lung disease and sleep-disordered breathing",
+    "ru": "Таблица рекомендаций 20 — Рекомендации по заболеваниям легких и нарушениям дыхания во сне"
+  },
+  "tags": [
+    "sleep-apnoea",
+    "lung-disease",
+    "asv",
+    "adaptive-servo-ventilation",
+    "osa",
+    "csa",
+    "hfref",
+    "qol",
+    "safety"
+  ],
+  "source": {
+    "expectedRows": 2
+  },
+  "i18nStatus": {
+    "ru": "reviewed"
+  },
+  "sections": [
+    {
+      "id": "sec-lung-disease-sleep-apnoea",
+      "title": {
+        "en": "Recommendations for lung disease and sleep-disordered breathing (see Evidence Table 89)",
+        "ru": "Рекомендации по заболеваниям легких и нарушениям дыхания во сне (см. Доказательную таблицу 89)"
+      },
+      "rows": [
+        {
+          "id": "r01",
+          "text": {
+            "en": "Adaptive servo-ventilation may be considered in patients with HFrEF and sleep-disordered breathing with predominant obstructive sleep apnoea to improve sleep quality, health-related QoL and symptoms.",
+            "ru": "Адаптивная сервовентиляция (ASV) может быть рассмотрена у пациентов с СНнФВ (HFrEF) и нарушениями дыхания во сне с преобладанием обструктивного апноэ сна для улучшения качества сна, связанного со здоровьем качества жизни и уменьшения симптомов."
+          },
+          "class": "IIb",
+          "level": "C",
+          "refs": [905]
+        },
+        {
+          "id": "r02",
+          "text": {
+            "en": "Adaptive servo-ventilation is not recommended in patients with HFrEF and sleep-disordered breathing with predominant central sleep apnoea because of an increased risk of CV and all-cause death.",
+            "ru": "Адаптивная сервовентиляция (ASV) не рекомендуется пациентам с СНнФВ (HFrEF) и нарушениями дыхания во сне с преобладанием центрального апноэ сна из-за повышенного риска сердечно-сосудистой смерти и общей смертности."
+          },
+          "class": "III",
+          "level": "A",
+          "refs": [904]
+        }
+      ]
+    }
+  ]
+}
