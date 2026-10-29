@@ -1,0 +1,30 @@
+{
+  "chapter": "chapter-07",
+  "title": "Transcatheter Versus Surgical Aortic Valve Replacement in Low-Risk Patients: A Meta-Analysis",
+  "figures": [
+    {
+      "id": "central-illustration",
+      "file": "central_illustration.jpg",
+      "path": "images/central_illustration.jpg",
+      "caption": "Central Illustration: All-Cause and Cardiovascular Death at 1 Year After TAVR Versus SAVR in Low-Risk Patients",
+      "page": 5,
+      "dpi": 300
+    },
+    {
+      "id": "fig-07-01",
+      "file": "fig1_prisma_flow_diagram.jpg",
+      "path": "images/fig1_prisma_flow_diagram.jpg",
+      "caption": "Figure 1: PRISMA Study Selection Flow Diagram",
+      "page": 3,
+      "dpi": 300
+    },
+    {
+      "id": "fig-07-02",
+      "file": "fig2_stroke_mi_rehospitalization.jpg",
+      "path": "images/fig2_stroke_mi_rehospitalization.jpg",
+      "caption": "Figure 2: Stroke, MI, and Valve/Heart Failure Rehospitalization at 1 Year After TAVR Versus SAVR in Low-Risk Patients",
+      "page": 6,
+      "dpi": 300
+    }
+  ]
+}

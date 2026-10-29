@@ -1505,3 +1505,12 @@ a[data-back="true"]:active {
         height: 180px !important;
     }
 }
+
+
+/* Fix: ensure heading spans flow inline naturally and do not break across lines */
+h1 .luminous-cyan, h1 .luminous-blue, h1 .luminous-amber, h1 .luminous-green, 
+h1 .luminous-red, h1 .luminous-purple, h1 .luminous-yellow, h1 .luminous-orange,
+.content h1 span {
+    display: inline !important;
+    white-space: normal !important;
+}

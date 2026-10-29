@@ -21,33 +21,43 @@
     "chapters": [
       {
         "file": "chapter-01.md",
-        "title": "🔄 <span class=\"luminous-cyan\">Mechanical Circulatory Support</span> in the New Era: An Overview (<span class=\"luminous-blue\">Critical Care</span> <span class=\"luminous-amber\">2016</span>)",
-        "russian": "🔄 <span class=\"luminous-cyan\">Механическая поддержка кровообращения</span> в новую эпоху: обзор (<span class=\"luminous-blue\">Critical Care</span> <span class=\"luminous-amber\">2016</span>)"
+        "title": "1. 🔄 <span class=\"luminous-cyan\">Shekar et al.</span> | Mechanical Circulatory Support in the New Era: An Overview (<span class=\"luminous-blue\">Critical Care</span> <span class=\"luminous-amber\">2016</span>)",
+        "russian": "1. 🔄 <span class=\"luminous-cyan\">Shekar et al.</span> | Механическая поддержка кровообращения в новую эпоху: обзор (<span class=\"luminous-blue\">Critical Care</span> <span class=\"luminous-amber\">2016</span>)"
       },
       {
         "file": "chapter-02.md",
-        "title": "📊 <span class=\"luminous-green\">SYNTAX</span> 5-Year Results (<span class=\"luminous-blue\">Lancet</span> <span class=\"luminous-amber\">2013</span>)",
-        "russian": "📊 <span class=\"luminous-green\">SYNTAX</span>: 5-летние результаты (<span class=\"luminous-blue\">Lancet</span> <span class=\"luminous-amber\">2013</span>)"
+        "title": "2. 📊 <span class=\"luminous-cyan\">Mohr et al.</span> | <span class=\"luminous-green\">SYNTAX</span>: 5-Year Results (<span class=\"luminous-blue\">Lancet</span> <span class=\"luminous-amber\">2013</span>)",
+        "russian": "2. 📊 <span class=\"luminous-cyan\">Mohr et al.</span> | <span class=\"luminous-green\">SYNTAX</span>: 5-летние результаты ЧКВ и АКШ (<span class=\"luminous-blue\">Lancet</span> <span class=\"luminous-amber\">2013</span>)"
       },
       {
         "file": "chapter-03.md",
-        "title": "🎯 <span class=\"luminous-cyan\">NOBLE</span> Trial, 5-Year Results (<span class=\"luminous-blue\">Lancet</span> <span class=\"luminous-amber\">2020</span>)",
-        "russian": "🎯 <span class=\"luminous-cyan\">NOBLE</span> исследование: 5-летние результаты (<span class=\"luminous-blue\">Lancet</span> <span class=\"luminous-amber\">2020</span>)"
+        "title": "3. 🎯 <span class=\"luminous-cyan\">Holm et al.</span> | <span class=\"luminous-cyan\">NOBLE</span> Trial: 5-Year Results (<span class=\"luminous-blue\">Lancet</span> <span class=\"luminous-amber\">2020</span>)",
+        "russian": "3. 🎯 <span class=\"luminous-cyan\">Holm et al.</span> | Исследование <span class=\"luminous-cyan\">NOBLE</span>: 5-летние результаты (<span class=\"luminous-blue\">Lancet</span> <span class=\"luminous-amber\">2020</span>)"
       },
       {
         "file": "chapter-04.md",
-        "title": "📈 <span class=\"luminous-cyan\">NOBLE</span> Trial, 30 Days and 5-Year Results (<span class=\"luminous-blue\">Lancet</span> <span class=\"luminous-amber\">2016</span>)",
-        "russian": "📈 <span class=\"luminous-cyan\">NOBLE</span> исследование: 30-дневные и 5-летние результаты (<span class=\"luminous-blue\">Lancet</span> <span class=\"luminous-amber\">2016</span>)"
+        "title": "4. 📈 <span class=\"luminous-cyan\">Mäkikallio et al.</span> | <span class=\"luminous-cyan\">NOBLE</span> Trial: 30-Day and 5-Year Results (<span class=\"luminous-blue\">Lancet</span> <span class=\"luminous-amber\">2016</span>)",
+        "russian": "4. 📈 <span class=\"luminous-cyan\">Mäkikallio et al.</span> | Исследование <span class=\"luminous-cyan\">NOBLE</span>: 30-дневные и 5-летние результаты (<span class=\"luminous-blue\">Lancet</span> <span class=\"luminous-amber\">2016</span>)"
       },
       {
         "file": "chapter-05.md",
-        "title": "🚑 Management of <span class=\"luminous-red\">Blunt Thoracic Aortic Injury</span> (<span class=\"luminous-blue\">SVS</span> <span class=\"luminous-amber\">2024</span>)",
-        "russian": "🚑 <span class=\"luminous-red\">Тупая травма грудной аорты</span> (<span class=\"luminous-blue\">SVS</span> <span class=\"luminous-amber\">2024</span>)"
+        "title": "5. 🚑 <span class=\"luminous-cyan\">DuBose et al.</span> | Management of <span class=\"luminous-red\">Blunt Thoracic Aortic Injury</span> (<span class=\"luminous-blue\">SVS</span> <span class=\"luminous-amber\">2024</span>)",
+        "russian": "5. 🚑 <span class=\"luminous-cyan\">DuBose et al.</span> | <span class=\"luminous-red\">Тупая травма грудной аорты</span> (<span class=\"luminous-blue\">SVS</span> <span class=\"luminous-amber\">2024</span>)"
       },
       {
         "file": "chapter-06.md",
-        "title": "🛠️ <span class=\"luminous-purple\">Aortic Valve Repair and Valve-Sparing Root Replacement</span> (<span class=\"luminous-blue\">EACTS</span> <span class=\"luminous-amber\">2026</span>)",
-        "russian": "🛠️ <span class=\"luminous-purple\">Пластика аортального клапана и клапансохраняющие операции</span> (<span class=\"luminous-blue\">EACTS</span> <span class=\"luminous-amber\">2026</span>)"
+        "title": "6. 🛠️ <span class=\"luminous-cyan\">De Paulis et al.</span> | <span class=\"luminous-purple\">Aortic Valve Repair and Valve-Sparing Root Replacement</span> (<span class=\"luminous-blue\">EACTS</span> <span class=\"luminous-amber\">2026</span>)",
+        "russian": "6. 🛠️ <span class=\"luminous-cyan\">De Paulis et al.</span> | <span class=\"luminous-purple\">Пластика аортального клапана и клапансохраняющие операции</span> (<span class=\"luminous-blue\">EACTS</span> <span class=\"luminous-amber\">2026</span>)"
+      },
+      {
+        "file": "chapter-07.md",
+        "title": "7. 🔬 <span class=\"luminous-cyan\">Kolte et al.</span> | TAVR vs. SAVR in Low-Risk Patients (<span class=\"luminous-blue\">JACC</span> <span class=\"luminous-amber\">2019</span>)",
+        "russian": "7. 🔬 <span class=\"luminous-cyan\">Kolte et al.</span> | Транскатетерная и открытая замена аортального клапана у пациентов низкого риска (<span class=\"luminous-blue\">JACC</span> <span class=\"luminous-amber\">2019</span>)"
+      },
+      {
+        "file": "chapter-08.md",
+        "title": "8. 🔬 <span class=\"luminous-cyan\">Stone et al.</span> | EXCEL Trial: 5-Year Outcomes (<span class=\"luminous-blue\">NEJM</span> <span class=\"luminous-amber\">2019</span>)",
+        "russian": "8. 🔬 <span class=\"luminous-cyan\">Stone et al.</span> | Исследование EXCEL: 5-летние исходы ЧКВ и АКШ (<span class=\"luminous-blue\">NEJM</span> <span class=\"luminous-amber\">2019</span>)"
       }
     ],
     "appendices": []

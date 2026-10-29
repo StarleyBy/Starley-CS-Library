@@ -496,7 +496,7 @@ Other structural abnormalities of the mitral valve besides those typically assoc
 
 Wigle and colleagues first described the insertion of a papillary muscle into the body of the anterior leaflet in a patient with HCM and LV outflow tract obstruction. Although uncommon, anomalous papillary muscles are important surgically. As seen in Fig. 19.21, those that insert into the body of the anterior leaflet of the mitral valve can narrow the outflow tract and contribute to LV outflow tract obstruction. In conjunction with septal myectomy, such anomalous muscles should be excised with care not to disrupt any associated chordal attachments to the anterior leaflet. Surgical awareness is important as these anomalies are not readily identified on preoperative TTE or intraoperative transesophageal imaging.
 
-![](_page_16_Figure_9.jpeg)
+![](_page_16_Picture_9.jpeg)
 
 **Figure 19.21** Long-axis view of a type I anomalous papillary muscle. The arrow indicates the site of LV outflow tract obstruction between the hypertrophied interventricular septum and the anomalous papillary muscle. (Modified from Lentz Carvalho J, Schaff HV, Morris CS, et al. Anomalous papillary muscles-implications in the surgical treatment of hypertrophic obstructive cardiomyopathy. *J Thorac Cardiovasc Surg*. 2022;163(1):83-89.e1.)
 

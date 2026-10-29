@@ -1,0 +1,30 @@
+{
+  "chapter": "chapter-08",
+  "title": "Five-Year Outcomes after PCI or CABG for Left Main Coronary Disease: The EXCEL Trial",
+  "figures": [
+    {
+      "id": "fig-08-01",
+      "file": "fig1_time_to_event_composite.jpg",
+      "path": "images/fig1_time_to_event_composite.jpg",
+      "caption": "Figure 1: Time-to-First-Event Curves for the Primary and Secondary Composite Outcomes through 5 Years",
+      "page": 5,
+      "dpi": 300
+    },
+    {
+      "id": "fig-08-02",
+      "file": "fig2_subgroup_analyses.jpg",
+      "path": "images/fig2_subgroup_analyses.jpg",
+      "caption": "Figure 2: Subgroup Analyses of the Primary Composite Outcome at 5 Years",
+      "page": 7,
+      "dpi": 300
+    },
+    {
+      "id": "fig-08-03",
+      "file": "fig3_components_time_to_event.jpg",
+      "path": "images/fig3_components_time_to_event.jpg",
+      "caption": "Figure 3: Time-to-First-Event Curves for the Components of the Primary and Secondary Composite Outcomes through 5 Years",
+      "page": 8,
+      "dpi": 300
+    }
+  ]
+}
