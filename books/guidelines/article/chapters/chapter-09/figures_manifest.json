@@ -1,0 +1,30 @@
+{
+  "chapter": "chapter-09",
+  "title": "Mechanical or Biologic Prostheses for Aortic-Valve and Mitral-Valve Replacement",
+  "figures": [
+    {
+      "id": "fig-09-01",
+      "file": "fig1_mortality_avr.jpg",
+      "path": "images/fig1_mortality_avr.jpg",
+      "caption": "Figure 1: Mortality after Aortic-Valve Replacement with a Biologic or Mechanical Prosthesis, According to Age Group",
+      "page": 7,
+      "dpi": 300
+    },
+    {
+      "id": "fig-09-02",
+      "file": "fig2_hazard_by_age.jpg",
+      "path": "images/fig2_hazard_by_age.jpg",
+      "caption": "Figure 2: Age-Dependent Hazard of Death with a Biologic Prosthesis, as Compared with a Mechanical Prosthesis, in the Aortic-Valve or Mitral-Valve Position",
+      "page": 8,
+      "dpi": 300
+    },
+    {
+      "id": "fig-09-03",
+      "file": "fig3_mortality_mvr.jpg",
+      "path": "images/fig3_mortality_mvr.jpg",
+      "caption": "Figure 3: Mortality after Mitral-Valve Replacement with a Biologic or Mechanical Prosthesis, According to Age Group",
+      "page": 10,
+      "dpi": 300
+    }
+  ]
+}

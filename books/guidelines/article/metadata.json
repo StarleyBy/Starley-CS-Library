@@ -58,6 +58,11 @@
         "file": "chapter-08.md",
         "title": "8. 🔬 <span class=\"luminous-cyan\">Stone et al.</span> | EXCEL Trial: 5-Year Outcomes (<span class=\"luminous-blue\">NEJM</span> <span class=\"luminous-amber\">2019</span>)",
         "russian": "8. 🔬 <span class=\"luminous-cyan\">Stone et al.</span> | Исследование EXCEL: 5-летние исходы ЧКВ и АКШ (<span class=\"luminous-blue\">NEJM</span> <span class=\"luminous-amber\">2019</span>)"
+      },
+      {
+        "file": "chapter-09.md",
+        "title": "9. 🔬 <span class=\"luminous-cyan\">Goldstone et al.</span> | Mechanical or Biologic Prostheses for Aortic-Valve and Mitral-Valve Replacement (<span class=\"luminous-blue\">NEJM</span> <span class=\"luminous-amber\">2017</span>)",
+        "russian": "9. 🔬 <span class=\"luminous-cyan\">Goldstone et al.</span> | Механические и биологические протезы при замене аортального и митрального клапанов (<span class=\"luminous-blue\">NEJM</span> <span class=\"luminous-amber\">2017</span>)"
       }
     ],
     "appendices": []
