@@ -54,7 +54,19 @@ const APP_SHELL = [
   './search/search-ui.js',
   './search/search.css',
   './assets/js/supabase-api.js',
-  './assets/js/sync-queue.js'
+  './assets/js/sync-queue.js',
+  './assets/css/style.css',
+  './assets/css/auth.css',
+  './assets/css/media-inspector.css',
+  './assets/js/config.js',
+  './assets/js/auth.js',
+  './assets/js/app.js',
+  './assets/js/media-inspector.js',
+  './assets/js/quiz-i18n.js',
+  './assets/js/settings.js',
+  './assets/js/radial-menu.js',
+  './assets/js/tab-manager.js',
+  './assets/js/navigation.js'
 ];
 
 // Установка

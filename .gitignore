@@ -8,3 +8,16 @@ books/**/*.jpeg
 books/**/*.png
 books/**/*.webp
 books/**/*.gif
+
+# Генерируемый поисковый индекс: собирается при публикации (workflow) и локально командой npm run build:search
+search/search-index.json
+
+# Черновые PDF в scratch/
+scratch/*.pdf
+
+# Временная папка Supabase CLI
+supabase/.temp/
+
+# Архивы и патчи (локальное хранение в архиве планов)
+*.zip
+*.patch

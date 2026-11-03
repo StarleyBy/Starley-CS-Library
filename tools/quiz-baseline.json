@@ -1,0 +1,125 @@
+{
+ "version": 1,
+ "generated": "2026-10-24",
+ "files": {
+  "books/cardiac-surgery/cohn/quiz/quiz-aortic-valve.json": {
+   "T005": 100
+  },
+  "books/guidelines/guide/quiz/quiz-eu-valve.json": {
+   "T005": 100,
+   "Q011": 1
+  },
+  "books/guidelines/guide/quiz/quiz-valve-disease-management.json": {
+   "T005": 100
+  },
+  "books/icu/bojar/quiz/quiz-chapter-01.json": {
+   "T005": 100
+  },
+  "books/work/examen/quiz/quiz-200pqcs.json": {
+   "T004": 23,
+   "Q004": 1,
+   "Q001": 4,
+   "Q011": 4,
+   "T005": 100,
+   "T002": 98,
+   "T003": 689
+  },
+  "books/work/examen/quiz/quiz-2019.json": {
+   "M002": 1,
+   "T004": 26,
+   "T001": 15,
+   "Q007": 11,
+   "T002": 3,
+   "T003": 2
+  },
+  "books/work/examen/quiz/quiz-2020.json": {
+   "T004": 120,
+   "T001": 94,
+   "T003": 70,
+   "Q010": 1,
+   "Q008": 8,
+   "Q009": 8,
+   "T002": 5,
+   "Q011": 1,
+   "Q001": 3,
+   "Q007": 1
+  },
+  "books/work/examen/quiz/quiz-2022.json": {
+   "T004": 18,
+   "T003": 12,
+   "Q001": 2,
+   "Q011": 1,
+   "T002": 1,
+   "T001": 1
+  },
+  "books/work/examen/quiz/quiz-2023.json": {
+   "T003": 29,
+   "T004": 26,
+   "T002": 3,
+   "T001": 5,
+   "Q001": 1
+  },
+  "books/work/examen/quiz/quiz-adult.json": {
+   "T004": 153,
+   "Q004": 1,
+   "Q011": 47,
+   "Q001": 3,
+   "Q010": 1,
+   "T001": 55,
+   "T002": 186,
+   "T003": 181
+  },
+  "books/work/examen/quiz/quiz-congenital.json": {
+   "T004": 7
+  },
+  "books/work/examen/quiz/quiz-icu.json": {
+   "T004": 15
+  },
+  "books/work/examen/quiz/quiz-seats.json": {
+   "T004": 69,
+   "Q011": 79,
+   "Q012": 3,
+   "Q004": 7,
+   "Q009": 1,
+   "Q001": 1,
+   "Q008": 4
+  },
+  "books/work/examen/quiz/quiz-seats2.json": {
+   "T004": 73,
+   "Q001": 1
+  },
+  "books/work/examen/quiz/quiz-seats3.json": {
+   "M002": 1,
+   "T004": 44,
+   "Q010": 1
+  },
+  "books/work/examen/quiz/quiz-seats4.json": {
+   "T001": 55,
+   "T002": 186,
+   "T003": 181,
+   "T004": 7
+  },
+  "books/work/examen/quiz/quiz-surg.json": {
+   "Q007": 29,
+   "T004": 19
+  },
+  "books/work/examen/quiz/quiz-thoracic.json": {
+   "Q008": 4,
+   "T004": 29
+  },
+  "books/work/examen/quiz/quiz-vps.json": {
+   "T003": 76,
+   "T004": 21,
+   "T002": 33,
+   "T001": 13,
+   "Q009": 30
+  },
+  "quiz/allquiz.json": {
+   "R003": 2,
+   "R002": 1
+  },
+  "assets/js/quiz.js": {
+   "R007": 3
+  }
+ }
+}

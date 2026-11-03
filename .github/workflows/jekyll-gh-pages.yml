@@ -20,8 +20,6 @@ jobs:
     steps:
       - name: Checkout
         uses: actions/checkout@v4
-        with:
-          lfs: true          # <-- добавили, пока в репо есть LFS-указатели
 
       - name: Setup Node.js
         uses: actions/setup-node@v4
@@ -32,6 +30,9 @@ jobs:
       - name: Install dependencies
         run: npm ci
 
+      - name: Run project checks (preflight)
+        run: node tools/preflight.mjs
+
       - name: Sync media to Cloudflare R2
         env:
           R2_ACCOUNT_ID: ${{ secrets.R2_ACCOUNT_ID }}
@@ -40,8 +41,11 @@ jobs:
           R2_BUCKET_NAME: ${{ secrets.R2_BUCKET_NAME }}
         run: node scripts/upload-r2.js
 
+      - name: Build search index (not stored in git)
+        run: node search/generate-search-index.js
+
       - name: Clean dev-only files before upload
-        run: rm -rf node_modules .qwen plans combain
+        run: rm -rf node_modules plans combain scratch tools tests scripts supabase .agents AGENTS.md Master_prompt.md SEARCH_GUIDE.md package.json package-lock.json .env.example
 
       - name: Upload artifact
         uses: actions/upload-pages-artifact@v3

@@ -1,0 +1,64 @@
+{
+ "version": 1,
+ "generated": "2026-10-26",
+ "files": {
+  "books/summary/mysummary/metadata.json": {
+   "C011": 8,
+   "C014": 1,
+   "C021": 1
+  },
+  "books/icu/bojar/metadata.json": {
+   "C014": 1
+  },
+  "books/icu/oxford/metadata.json": {
+   "C021": 1,
+   "C023": 1,
+   "C024": 1
+  },
+  "books/icu/marino/metadata.json": {
+   "C010": 1,
+   "C011": 1,
+   "C014": 3,
+   "C012": 2,
+   "C017": 1,
+   "C016": 1,
+   "C024": 1
+  },
+  "books/cardiac-surgery/Key-questions-in-cardiac-surgery/metadata.json": {
+   "C014": 1
+  },
+  "books/cardiology/Hurst/metadata.json": {
+   "C021": 1,
+   "C024": 1,
+   "C031": 1
+  },
+  "books/anatomy/mori/metadata.json": {
+   "C024": 1
+  },
+  "books/cardiovascular-system/cardiovascular-system-glance/metadata.json": {
+   "C024": 1
+  },
+  "books/cardiovascular-system/handbook-of-cardiac-anatomy/metadata.json": {
+   "C024": 1
+  },
+  "books/cardiac-echo/Echo6/metadata.json": {
+   "C024": 1
+  },
+  "books/ecg/ECG_Interpretation_for_Everyone/metadata.json": {
+   "C024": 1
+  },
+  "books/drugs/drugs-in-icu-oxford/metadata.json": {
+   "C024": 1
+  },
+  "books/drugs/opie's-cardiovascular-drugs/metadata.json": {
+   "C024": 1
+  },
+  "books/work/wolfson/metadata.json": {
+   "C021": 1
+  },
+  "books/work/examen/metadata.json": {
+   "C011": 5,
+   "C021": 1
+  }
+ }
+}

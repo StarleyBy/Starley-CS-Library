@@ -1,0 +1,5908 @@
+{
+ "version": 1,
+ "generated": "2026-11-03",
+ "files": {
+  "books/anatomy/Netter-Cardiothoracic-Anatomy/chapters/chapter-06/chapter-06-ru.md": {
+   "W031": 1
+  },
+  "books/anatomy/Netter-Cardiothoracic-Anatomy/chapters/chapter-06/chapter-06.md": {
+   "W031": 1
+  },
+  "books/anatomy/Netter-Cardiothoracic-Anatomy/chapters/chapter-07/chapter-07.md": {
+   "E002": 1,
+   "E001": 1
+  },
+  "books/anatomy/Netter-Cardiothoracic-Anatomy/chapters/chapter-08/chapter-08-ru.md": {
+   "W031": 1
+  },
+  "books/anatomy/Netter-Cardiothoracic-Anatomy/chapters/chapter-08/chapter-08.md": {
+   "E002": 1,
+   "E001": 1,
+   "W031": 1
+  },
+  "books/anatomy/Netter-Cardiothoracic-Anatomy/chapters/chapter-09/chapter-09.md": {
+   "E002": 1,
+   "E001": 1
+  },
+  "books/anatomy/wilcox/chapters/chapter-02/chapter-02-ru.md": {
+   "W031": 1
+  },
+  "books/anatomy/wilcox/chapters/chapter-02/chapter-02.md": {
+   "W031": 1
+  },
+  "books/anatomy/wilcox/chapters/chapter-03/chapter-03-ru.md": {
+   "W033": 1
+  },
+  "books/anatomy/wilcox/chapters/chapter-03/chapter-03.md": {
+   "W033": 1
+  },
+  "books/anatomy/wilcox/chapters/chapter-05/chapter-05-ru.md": {
+   "E002": 1,
+   "E001": 1
+  },
+  "books/anatomy/wilcox/chapters/chapter-06/chapter-06-ru.md": {
+   "W033": 2
+  },
+  "books/anatomy/wilcox/chapters/chapter-07/chapter-07-ru.md": {
+   "W033": 2
+  },
+  "books/anatomy/wilcox/chapters/chapter-07/chapter-07.md": {
+   "E004": 10,
+   "W033": 2
+  },
+  "books/anatomy/wilcox/chapters/chapter-08/chapter-08-ru.md": {
+   "W033": 3
+  },
+  "books/anatomy/wilcox/chapters/chapter-08/chapter-08.md": {
+   "W033": 1
+  },
+  "books/anatomy/wilcox/chapters/chapter-09/chapter-09-ru.md": {
+   "E002": 1,
+   "E004": 1,
+   "E001": 1,
+   "W031": 1
+  },
+  "books/anatomy/wilcox/chapters/chapter-09/chapter-09.md": {
+   "W031": 1
+  },
+  "books/anatomy/wilcox/chapters/chapter-10/chapter-10-ru.md": {
+   "P004": 1
+  },
+  "books/cardiac-echo/Echo6/chapters/chapter-01/chapter-01.md": {
+   "E021": 2,
+   "W031": 1,
+   "W033": 11
+  },
+  "books/cardiac-echo/Echo6/chapters/chapter-02/chapter-02.md": {
+   "W031": 5,
+   "W033": 7
+  },
+  "books/cardiac-echo/Echo6/chapters/chapter-03/chapter-03.md": {
+   "E004": 1,
+   "E001": 1,
+   "E003": 1,
+   "W033": 2,
+   "W031": 5
+  },
+  "books/cardiac-echo/Echo6/chapters/chapter-04/chapter-04.md": {
+   "W031": 1,
+   "W033": 3
+  },
+  "books/cardiac-echo/Echo6/chapters/chapter-05/chapter-05.md": {
+   "E002": 1,
+   "E001": 1,
+   "E021": 11,
+   "W033": 5
+  },
+  "books/cardiac-echo/Echo6/chapters/chapter-06/chapter-06.md": {
+   "W031": 2,
+   "W033": 12
+  },
+  "books/cardiac-echo/Echo6/chapters/chapter-07/chapter-07.md": {
+   "W031": 1,
+   "W033": 1
+  },
+  "books/cardiac-echo/Echo6/chapters/chapter-08/chapter-08.md": {
+   "W031": 5,
+   "W033": 5
+  },
+  "books/cardiac-echo/Echo6/chapters/chapter-09/chapter-09.md": {
+   "W031": 4,
+   "W033": 2
+  },
+  "books/cardiac-echo/Echo6/chapters/chapter-10/chapter-10.md": {
+   "W033": 1
+  },
+  "books/cardiac-echo/Echo6/chapters/chapter-11/chapter-11.md": {
+   "W031": 2,
+   "W033": 9
+  },
+  "books/cardiac-echo/Echo6/chapters/chapter-12/chapter-12.md": {
+   "W031": 1,
+   "W033": 4
+  },
+  "books/cardiac-echo/Echo6/chapters/chapter-13/chapter-13.md": {
+   "W033": 9
+  },
+  "books/cardiac-echo/Echo6/chapters/chapter-14/chapter-14.md": {
+   "W033": 7
+  },
+  "books/cardiac-echo/Echo6/chapters/chapter-15/chapter-15.md": {
+   "W033": 7
+  },
+  "books/cardiac-echo/Echo6/chapters/chapter-16/chapter-16.md": {
+   "W033": 7
+  },
+  "books/cardiac-echo/Echo6/chapters/chapter-17/chapter-17.md": {
+   "W033": 13
+  },
+  "books/cardiac-echo/Echo6/chapters/chapter-18/chapter-18.md": {
+   "W033": 10
+  },
+  "books/cardiac-echo/Echo6/chapters/chapter-Appendix 1/chapter-Appendix 1.md": {
+   "W033": 1
+  },
+  "books/cardiac-echo/Echo6/chapters/chapter-Appendix 2/chapter-Appendix 2.md": {
+   "W031": 2,
+   "W033": 1
+  },
+  "books/cardiac-echo/eacvi-echo-handbook/chapters/chapter-01/chapter-01-ru.md": {
+   "E021": 1,
+   "P002": 1
+  },
+  "books/cardiac-echo/eacvi-echo-handbook/chapters/chapter-02/chapter-02.md": {
+   "E010": 1
+  },
+  "books/cardiac-echo/eacvi-echo-handbook/chapters/chapter-03/chapter-03-ru.md": {
+   "P005": 1
+  },
+  "books/cardiac-echo/eacvi-echo-handbook/chapters/chapter-06/chapter-06-ru.md": {
+   "W031": 3,
+   "P005": 1
+  },
+  "books/cardiac-echo/eacvi-echo-handbook/chapters/chapter-06/chapter-06.md": {
+   "W031": 4
+  },
+  "books/cardiac-echo/eacvi-echo-handbook/chapters/chapter-07/chapter-07-ru.md": {
+   "P005": 1,
+   "P004": 1
+  },
+  "books/cardiac-echo/eacvi-echo-handbook/chapters/chapter-08/chapter-08-ru.md": {
+   "P005": 1
+  },
+  "books/cardiac-echo/eacvi-echo-handbook/chapters/chapter-09/chapter-09-ru.md": {
+   "P005": 1,
+   "P004": 1
+  },
+  "books/cardiac-echo/eacvi-echo-handbook/chapters/chapter-09/chapter-09.md": {
+   "E010": 2
+  },
+  "books/cardiac-echo/eacvi-echo-handbook/chapters/chapter-10/chapter-10-ru.md": {
+   "P005": 1,
+   "P004": 1
+  },
+  "books/cardiac-echo/eacvi-echo-handbook/chapters/chapter-12/chapter-12-ru.md": {
+   "P005": 1
+  },
+  "books/cardiac-echo/eacvi-echo-handbook/chapters/chapter-13/chapter-13-ru.md": {
+   "P005": 1
+  },
+  "books/cardiac-echo/eacvi-echo-handbook/chapters/chapter-14/chapter-14-ru.md": {
+   "P005": 1
+  },
+  "books/cardiac-echo/eacvi-echo-handbook/chapters/chapter-15/chapter-15-ru.md": {
+   "E004": 18
+  },
+  "books/cardiac-echo/eacvi-echo-handbook/chapters/chapter-15/chapter-15.md": {
+   "E004": 18
+  },
+  "books/cardiac-echo/eacvi-echo-handbook/chapters/chapter-16/chapter-16-ru.md": {
+   "E004": 14,
+   "P005": 1
+  },
+  "books/cardiac-echo/eacvi-echo-handbook/chapters/chapter-16/chapter-16.md": {
+   "E004": 14
+  },
+  "books/cardiac-echo/eacvi-echo-handbook/chapters/chapter-17/chapter-17-ru.md": {
+   "E004": 10,
+   "P005": 1
+  },
+  "books/cardiac-echo/eacvi-echo-handbook/chapters/chapter-17/chapter-17.md": {
+   "E004": 10
+  },
+  "books/cardiac-surgery/Key-questions-in-cardiac-surgery/chapters/chapter-01/chapter-01-he.md": {
+   "E004": 2,
+   "W031": 1
+  },
+  "books/cardiac-surgery/Key-questions-in-cardiac-surgery/chapters/chapter-01/chapter-01-ru.md": {
+   "E004": 2,
+   "W031": 1
+  },
+  "books/cardiac-surgery/Key-questions-in-cardiac-surgery/chapters/chapter-01/chapter-01.md": {
+   "E004": 2,
+   "W031": 1
+  },
+  "books/cardiac-surgery/Key-questions-in-cardiac-surgery/chapters/chapter-02/chapter-02-he.md": {
+   "E004": 2
+  },
+  "books/cardiac-surgery/Key-questions-in-cardiac-surgery/chapters/chapter-02/chapter-02-ru.md": {
+   "E004": 2
+  },
+  "books/cardiac-surgery/Key-questions-in-cardiac-surgery/chapters/chapter-02/chapter-02.md": {
+   "E004": 2
+  },
+  "books/cardiac-surgery/Key-questions-in-cardiac-surgery/chapters/chapter-03/chapter-03-he.md": {
+   "E004": 2
+  },
+  "books/cardiac-surgery/Key-questions-in-cardiac-surgery/chapters/chapter-03/chapter-03-ru.md": {
+   "E004": 2
+  },
+  "books/cardiac-surgery/Key-questions-in-cardiac-surgery/chapters/chapter-03/chapter-03.md": {
+   "E004": 2
+  },
+  "books/cardiac-surgery/Key-questions-in-cardiac-surgery/chapters/chapter-04/chapter-04-he.md": {
+   "E004": 2,
+   "W031": 2
+  },
+  "books/cardiac-surgery/Key-questions-in-cardiac-surgery/chapters/chapter-04/chapter-04-ru.md": {
+   "E004": 2,
+   "W031": 2
+  },
+  "books/cardiac-surgery/Key-questions-in-cardiac-surgery/chapters/chapter-04/chapter-04.md": {
+   "E004": 2,
+   "W031": 2
+  },
+  "books/cardiac-surgery/Key-questions-in-cardiac-surgery/chapters/chapter-05/chapter-05-he.md": {
+   "E004": 2,
+   "W033": 3
+  },
+  "books/cardiac-surgery/Key-questions-in-cardiac-surgery/chapters/chapter-05/chapter-05-ru.md": {
+   "E004": 2,
+   "W033": 3
+  },
+  "books/cardiac-surgery/Key-questions-in-cardiac-surgery/chapters/chapter-05/chapter-05.md": {
+   "E004": 2,
+   "W033": 3
+  },
+  "books/cardiac-surgery/Key-questions-in-cardiac-surgery/chapters/chapter-06/chapter-06-he.md": {
+   "E004": 2,
+   "W033": 3
+  },
+  "books/cardiac-surgery/Key-questions-in-cardiac-surgery/chapters/chapter-06/chapter-06-ru.md": {
+   "E004": 2,
+   "W033": 3
+  },
+  "books/cardiac-surgery/Key-questions-in-cardiac-surgery/chapters/chapter-06/chapter-06.md": {
+   "E004": 2,
+   "W033": 3
+  },
+  "books/cardiac-surgery/Key-questions-in-cardiac-surgery/chapters/chapter-07/chapter-07-he.md": {
+   "E004": 2
+  },
+  "books/cardiac-surgery/Key-questions-in-cardiac-surgery/chapters/chapter-07/chapter-07-ru.md": {
+   "E004": 2,
+   "P005": 1
+  },
+  "books/cardiac-surgery/Key-questions-in-cardiac-surgery/chapters/chapter-07/chapter-07.md": {
+   "E004": 2
+  },
+  "books/cardiac-surgery/Key-questions-in-cardiac-surgery/chapters/chapter-08/chapter-08-he.md": {
+   "E004": 2
+  },
+  "books/cardiac-surgery/Key-questions-in-cardiac-surgery/chapters/chapter-08/chapter-08-ru.md": {
+   "E004": 2
+  },
+  "books/cardiac-surgery/Key-questions-in-cardiac-surgery/chapters/chapter-08/chapter-08.md": {
+   "E004": 2
+  },
+  "books/cardiac-surgery/Key-questions-in-cardiac-surgery/chapters/chapter-09/chapter-09-he.md": {
+   "E004": 2
+  },
+  "books/cardiac-surgery/Key-questions-in-cardiac-surgery/chapters/chapter-09/chapter-09-ru.md": {
+   "E004": 2,
+   "W031": 2
+  },
+  "books/cardiac-surgery/Key-questions-in-cardiac-surgery/chapters/chapter-09/chapter-09.md": {
+   "E004": 2,
+   "W031": 2
+  },
+  "books/cardiac-surgery/Key-questions-in-cardiac-surgery/chapters/chapter-10/chapter-10-he.md": {
+   "E004": 2,
+   "W031": 4
+  },
+  "books/cardiac-surgery/Key-questions-in-cardiac-surgery/chapters/chapter-10/chapter-10-ru.md": {
+   "E004": 2,
+   "W031": 6
+  },
+  "books/cardiac-surgery/Key-questions-in-cardiac-surgery/chapters/chapter-10/chapter-10.md": {
+   "E004": 2,
+   "W031": 6
+  },
+  "books/cardiac-surgery/Key-questions-in-cardiac-surgery/chapters/chapter-11/chapter-11-he.md": {
+   "E004": 2,
+   "W031": 3
+  },
+  "books/cardiac-surgery/Key-questions-in-cardiac-surgery/chapters/chapter-11/chapter-11-ru.md": {
+   "E004": 2,
+   "W031": 2
+  },
+  "books/cardiac-surgery/Key-questions-in-cardiac-surgery/chapters/chapter-11/chapter-11.md": {
+   "E004": 2,
+   "W031": 3
+  },
+  "books/cardiac-surgery/Key-questions-in-cardiac-surgery/chapters/chapter-12/chapter-12-he.md": {
+   "E004": 2,
+   "W031": 1
+  },
+  "books/cardiac-surgery/Key-questions-in-cardiac-surgery/chapters/chapter-12/chapter-12-ru.md": {
+   "E004": 2,
+   "W031": 1
+  },
+  "books/cardiac-surgery/Key-questions-in-cardiac-surgery/chapters/chapter-12/chapter-12.md": {
+   "E004": 2,
+   "W031": 1
+  },
+  "books/cardiac-surgery/Key-questions-in-cardiac-surgery/chapters/chapter-13/chapter-13-he.md": {
+   "E004": 2,
+   "W031": 2
+  },
+  "books/cardiac-surgery/Key-questions-in-cardiac-surgery/chapters/chapter-13/chapter-13-ru.md": {
+   "E004": 2,
+   "W031": 2,
+   "P004": 1
+  },
+  "books/cardiac-surgery/Key-questions-in-cardiac-surgery/chapters/chapter-13/chapter-13.md": {
+   "E004": 2,
+   "W031": 2
+  },
+  "books/cardiac-surgery/Key-questions-in-cardiac-surgery/chapters/chapter-14/chapter-14-he.md": {
+   "E004": 2
+  },
+  "books/cardiac-surgery/Key-questions-in-cardiac-surgery/chapters/chapter-14/chapter-14-ru.md": {
+   "E004": 2
+  },
+  "books/cardiac-surgery/Key-questions-in-cardiac-surgery/chapters/chapter-14/chapter-14.md": {
+   "E004": 2
+  },
+  "books/cardiac-surgery/Key-questions-in-cardiac-surgery/chapters/chapter-15/chapter-15-he.md": {
+   "E004": 2
+  },
+  "books/cardiac-surgery/Key-questions-in-cardiac-surgery/chapters/chapter-15/chapter-15-ru.md": {
+   "E004": 2
+  },
+  "books/cardiac-surgery/Key-questions-in-cardiac-surgery/chapters/chapter-15/chapter-15.md": {
+   "E004": 2
+  },
+  "books/cardiac-surgery/Key-questions-in-cardiac-surgery/chapters/chapter-16/chapter-16-he.md": {
+   "E004": 2,
+   "W031": 2
+  },
+  "books/cardiac-surgery/Key-questions-in-cardiac-surgery/chapters/chapter-16/chapter-16-ru.md": {
+   "E004": 2,
+   "W031": 2
+  },
+  "books/cardiac-surgery/Key-questions-in-cardiac-surgery/chapters/chapter-16/chapter-16.md": {
+   "E004": 2,
+   "W031": 2
+  },
+  "books/cardiac-surgery/Key-questions-in-cardiac-surgery/chapters/chapter-17/chapter-17-he.md": {
+   "E004": 2
+  },
+  "books/cardiac-surgery/Key-questions-in-cardiac-surgery/chapters/chapter-17/chapter-17-ru.md": {
+   "E004": 2
+  },
+  "books/cardiac-surgery/Key-questions-in-cardiac-surgery/chapters/chapter-17/chapter-17.md": {
+   "E004": 2
+  },
+  "books/cardiac-surgery/Key-questions-in-cardiac-surgery/chapters/chapter-18/chapter-18-he.md": {
+   "E004": 2,
+   "W031": 1,
+   "W033": 2
+  },
+  "books/cardiac-surgery/Key-questions-in-cardiac-surgery/chapters/chapter-18/chapter-18-ru.md": {
+   "W031": 1,
+   "W033": 2
+  },
+  "books/cardiac-surgery/Key-questions-in-cardiac-surgery/chapters/chapter-18/chapter-18.md": {
+   "W031": 1,
+   "W033": 2
+  },
+  "books/cardiac-surgery/Key-questions-in-cardiac-surgery/chapters/chapter-19/chapter-19-he.md": {
+   "E004": 2,
+   "P005": 1
+  },
+  "books/cardiac-surgery/Key-questions-in-cardiac-surgery/chapters/chapter-20/chapter-20-he.md": {
+   "E004": 2,
+   "W031": 6,
+   "W033": 2
+  },
+  "books/cardiac-surgery/Key-questions-in-cardiac-surgery/chapters/chapter-20/chapter-20-ru.md": {
+   "W031": 6,
+   "W033": 2
+  },
+  "books/cardiac-surgery/Key-questions-in-cardiac-surgery/chapters/chapter-20/chapter-20.md": {
+   "W031": 6,
+   "W033": 1
+  },
+  "books/cardiac-surgery/Key-questions-in-cardiac-surgery/chapters/chapter-21/chapter-21-he.md": {
+   "E004": 2,
+   "W031": 1
+  },
+  "books/cardiac-surgery/Key-questions-in-cardiac-surgery/chapters/chapter-21/chapter-21-ru.md": {
+   "W031": 1,
+   "P005": 1
+  },
+  "books/cardiac-surgery/Key-questions-in-cardiac-surgery/chapters/chapter-21/chapter-21.md": {
+   "W031": 1
+  },
+  "books/cardiac-surgery/Key-questions-in-cardiac-surgery/chapters/chapter-22/chapter-22-he.md": {
+   "P005": 1
+  },
+  "books/cardiac-surgery/Key-questions-in-cardiac-surgery/chapters/chapter-22/chapter-22-ru.md": {
+   "P005": 1
+  },
+  "books/cardiac-surgery/Key-questions-in-congenital-cardiac-surgery/chapters/chapter-01/chapter-01-he.md": {
+   "E004": 2,
+   "W033": 2,
+   "W031": 1
+  },
+  "books/cardiac-surgery/Key-questions-in-congenital-cardiac-surgery/chapters/chapter-01/chapter-01-ru.md": {
+   "W033": 2
+  },
+  "books/cardiac-surgery/Key-questions-in-congenital-cardiac-surgery/chapters/chapter-01/chapter-01.md": {
+   "W033": 2,
+   "W031": 1
+  },
+  "books/cardiac-surgery/Key-questions-in-congenital-cardiac-surgery/chapters/chapter-02/chapter-02-he.md": {
+   "E004": 2,
+   "W031": 4,
+   "W033": 3
+  },
+  "books/cardiac-surgery/Key-questions-in-congenital-cardiac-surgery/chapters/chapter-02/chapter-02-ru.md": {
+   "W031": 4,
+   "W033": 3
+  },
+  "books/cardiac-surgery/Key-questions-in-congenital-cardiac-surgery/chapters/chapter-02/chapter-02.md": {
+   "W031": 4,
+   "W033": 3
+  },
+  "books/cardiac-surgery/Key-questions-in-congenital-cardiac-surgery/chapters/chapter-03/chapter-03-he.md": {
+   "W033": 38
+  },
+  "books/cardiac-surgery/Key-questions-in-congenital-cardiac-surgery/chapters/chapter-03/chapter-03-ru.md": {
+   "W033": 38
+  },
+  "books/cardiac-surgery/Key-questions-in-congenital-cardiac-surgery/chapters/chapter-03/chapter-03.md": {
+   "W033": 38
+  },
+  "books/cardiac-surgery/Key-questions-in-congenital-cardiac-surgery/chapters/chapter-04/chapter-04-he.md": {
+   "P005": 1
+  },
+  "books/cardiac-surgery/Key-questions-in-congenital-cardiac-surgery/chapters/chapter-04/chapter-04-ru.md": {
+   "P005": 1
+  },
+  "books/cardiac-surgery/Key-questions-in-congenital-cardiac-surgery/chapters/chapter-06/chapter-06-he.md": {
+   "W033": 1
+  },
+  "books/cardiac-surgery/Key-questions-in-congenital-cardiac-surgery/chapters/chapter-06/chapter-06-ru.md": {
+   "W033": 1
+  },
+  "books/cardiac-surgery/Key-questions-in-congenital-cardiac-surgery/chapters/chapter-06/chapter-06.md": {
+   "W033": 1
+  },
+  "books/cardiac-surgery/Key-questions-in-congenital-cardiac-surgery/chapters/chapter-07/chapter-07-he.md": {
+   "W033": 1,
+   "W031": 1
+  },
+  "books/cardiac-surgery/Key-questions-in-congenital-cardiac-surgery/chapters/chapter-07/chapter-07-ru.md": {
+   "W033": 1,
+   "W031": 1,
+   "P005": 1
+  },
+  "books/cardiac-surgery/Key-questions-in-congenital-cardiac-surgery/chapters/chapter-07/chapter-07.md": {
+   "W033": 1,
+   "W031": 1
+  },
+  "books/cardiac-surgery/Key-questions-in-congenital-cardiac-surgery/chapters/chapter-08/chapter-08-he.md": {
+   "W033": 10,
+   "W031": 4
+  },
+  "books/cardiac-surgery/Key-questions-in-congenital-cardiac-surgery/chapters/chapter-08/chapter-08-ru.md": {
+   "W033": 10,
+   "W031": 3
+  },
+  "books/cardiac-surgery/Key-questions-in-congenital-cardiac-surgery/chapters/chapter-08/chapter-08.md": {
+   "W033": 10,
+   "W031": 4
+  },
+  "books/cardiac-surgery/Key-questions-in-congenital-cardiac-surgery/chapters/chapter-09/chapter-09-ru.md": {
+   "W033": 5
+  },
+  "books/cardiac-surgery/Key-questions-in-congenital-cardiac-surgery/chapters/chapter-09/chapter-09.md": {
+   "W033": 4
+  },
+  "books/cardiac-surgery/Key-questions-in-congenital-cardiac-surgery/chapters/chapter-09/chapter-10-he.md": {
+   "W033": 5
+  },
+  "books/cardiac-surgery/Key-questions-in-congenital-cardiac-surgery/chapters/chapter-10/chapter-10-he.md": {
+   "W033": 1
+  },
+  "books/cardiac-surgery/Key-questions-in-congenital-cardiac-surgery/chapters/chapter-10/chapter-10-ru.md": {
+   "W033": 1
+  },
+  "books/cardiac-surgery/Key-questions-in-congenital-cardiac-surgery/chapters/chapter-10/chapter-10.md": {
+   "W031": 1
+  },
+  "books/cardiac-surgery/Key-questions-in-congenital-cardiac-surgery/chapters/chapter-11/chapter-11-he.md": {
+   "W031": 2
+  },
+  "books/cardiac-surgery/Key-questions-in-congenital-cardiac-surgery/chapters/chapter-11/chapter-11-ru.md": {
+   "W031": 1
+  },
+  "books/cardiac-surgery/Key-questions-in-congenital-cardiac-surgery/chapters/chapter-11/chapter-11.md": {
+   "W031": 3
+  },
+  "books/cardiac-surgery/Key-questions-in-congenital-cardiac-surgery/chapters/chapter-13/chapter-13-he.md": {
+   "W033": 2
+  },
+  "books/cardiac-surgery/Key-questions-in-congenital-cardiac-surgery/chapters/chapter-13/chapter-13-ru.md": {
+   "W033": 2
+  },
+  "books/cardiac-surgery/Key-questions-in-congenital-cardiac-surgery/chapters/chapter-13/chapter-13.md": {
+   "E004": 2,
+   "W033": 2
+  },
+  "books/cardiac-surgery/Key-questions-in-congenital-cardiac-surgery/chapters/chapter-14/chapter-14-he.md": {
+   "W033": 1,
+   "W031": 1
+  },
+  "books/cardiac-surgery/Key-questions-in-congenital-cardiac-surgery/chapters/chapter-14/chapter-14-ru.md": {
+   "W031": 3,
+   "W033": 1
+  },
+  "books/cardiac-surgery/Key-questions-in-congenital-cardiac-surgery/chapters/chapter-14/chapter-14.md": {
+   "E004": 2,
+   "W031": 3,
+   "W033": 1
+  },
+  "books/cardiac-surgery/Key-questions-in-congenital-cardiac-surgery/chapters/chapter-15/chapter-15-he.md": {
+   "W033": 1
+  },
+  "books/cardiac-surgery/Key-questions-in-congenital-cardiac-surgery/chapters/chapter-15/chapter-15-ru.md": {
+   "W033": 1
+  },
+  "books/cardiac-surgery/Key-questions-in-congenital-cardiac-surgery/chapters/chapter-15/chapter-15.md": {
+   "E004": 2,
+   "W033": 1
+  },
+  "books/cardiac-surgery/Key-questions-in-congenital-cardiac-surgery/chapters/chapter-16/chapter-16.md": {
+   "E004": 2
+  },
+  "books/cardiac-surgery/Key-questions-in-congenital-cardiac-surgery/chapters/chapter-17/chapter-17-he.md": {
+   "W033": 1,
+   "P005": 1
+  },
+  "books/cardiac-surgery/Key-questions-in-congenital-cardiac-surgery/chapters/chapter-17/chapter-17-ru.md": {
+   "W031": 1,
+   "W033": 1,
+   "P005": 1
+  },
+  "books/cardiac-surgery/Key-questions-in-congenital-cardiac-surgery/chapters/chapter-17/chapter-17.md": {
+   "E004": 2,
+   "W031": 2,
+   "W033": 1
+  },
+  "books/cardiac-surgery/Key-questions-in-congenital-cardiac-surgery/chapters/chapter-18/chapter-18-ru.md": {
+   "W031": 1
+  },
+  "books/cardiac-surgery/Key-questions-in-congenital-cardiac-surgery/chapters/chapter-18/chapter-18.md": {
+   "E004": 2,
+   "W031": 2
+  },
+  "books/cardiac-surgery/Key-questions-in-congenital-cardiac-surgery/chapters/chapter-19/chapter-19-he.md": {
+   "W033": 1
+  },
+  "books/cardiac-surgery/Key-questions-in-congenital-cardiac-surgery/chapters/chapter-19/chapter-19-ru.md": {
+   "W031": 2,
+   "W033": 1
+  },
+  "books/cardiac-surgery/Key-questions-in-congenital-cardiac-surgery/chapters/chapter-19/chapter-19.md": {
+   "E004": 2,
+   "W031": 2,
+   "W033": 1
+  },
+  "books/cardiac-surgery/Key-questions-in-congenital-cardiac-surgery/chapters/chapter-20/chapter-20-he.md": {
+   "W031": 6,
+   "W033": 2
+  },
+  "books/cardiac-surgery/Key-questions-in-congenital-cardiac-surgery/chapters/chapter-20/chapter-20-ru.md": {
+   "W031": 6,
+   "W033": 2
+  },
+  "books/cardiac-surgery/Key-questions-in-congenital-cardiac-surgery/chapters/chapter-20/chapter-20.md": {
+   "E004": 2,
+   "W031": 6,
+   "W033": 2
+  },
+  "books/cardiac-surgery/Key-questions-in-congenital-cardiac-surgery/chapters/chapter-21/chapter-21-ru.md": {
+   "W031": 6
+  },
+  "books/cardiac-surgery/Key-questions-in-congenital-cardiac-surgery/chapters/chapter-21/chapter-21.md": {
+   "E004": 2,
+   "W031": 6
+  },
+  "books/cardiac-surgery/Key-questions-in-congenital-cardiac-surgery/chapters/chapter-22/chapter-22-ru.md": {
+   "W031": 5
+  },
+  "books/cardiac-surgery/Key-questions-in-congenital-cardiac-surgery/chapters/chapter-22/chapter-22.md": {
+   "E004": 2,
+   "W031": 5
+  },
+  "books/cardiac-surgery/Key-questions-in-congenital-cardiac-surgery/chapters/chapter-23/chapter-23-he.md": {
+   "W031": 1,
+   "W033": 4,
+   "P005": 1
+  },
+  "books/cardiac-surgery/Key-questions-in-congenital-cardiac-surgery/chapters/chapter-23/chapter-23-ru.md": {
+   "W031": 1,
+   "W033": 4,
+   "P005": 1
+  },
+  "books/cardiac-surgery/Key-questions-in-congenital-cardiac-surgery/chapters/chapter-23/chapter-23.md": {
+   "E004": 2,
+   "W031": 1,
+   "W033": 3
+  },
+  "books/cardiac-surgery/Key-questions-in-congenital-cardiac-surgery/chapters/chapter-24/chapter-24-he.md": {
+   "E004": 2,
+   "W031": 2,
+   "W033": 1
+  },
+  "books/cardiac-surgery/Key-questions-in-congenital-cardiac-surgery/chapters/chapter-24/chapter-24-ru.md": {
+   "W031": 1,
+   "W033": 1
+  },
+  "books/cardiac-surgery/Key-questions-in-congenital-cardiac-surgery/chapters/chapter-24/chapter-24.md": {
+   "E004": 2,
+   "W031": 2,
+   "W033": 1
+  },
+  "books/cardiac-surgery/Key-questions-in-congenital-cardiac-surgery/chapters/chapter-25/chapter-25-he.md": {
+   "E004": 2,
+   "E001": 1,
+   "E003": 1,
+   "W031": 1,
+   "W033": 1,
+   "P001": 1,
+   "P005": 1,
+   "P004": 1
+  },
+  "books/cardiac-surgery/Key-questions-in-congenital-cardiac-surgery/chapters/chapter-25/chapter-25-ru.md": {
+   "E001": 1,
+   "E003": 1,
+   "W031": 1,
+   "W033": 1,
+   "P001": 1,
+   "P005": 1,
+   "P004": 1
+  },
+  "books/cardiac-surgery/Key-questions-in-congenital-cardiac-surgery/chapters/chapter-25/chapter-25.md": {
+   "E004": 2,
+   "W031": 1,
+   "W033": 1
+  },
+  "books/cardiac-surgery/Key-questions-in-congenital-cardiac-surgery/chapters/chapter-26/chapter-26-he.md": {
+   "E004": 2,
+   "W031": 2,
+   "W033": 1
+  },
+  "books/cardiac-surgery/Key-questions-in-congenital-cardiac-surgery/chapters/chapter-26/chapter-26-ru.md": {
+   "W031": 3,
+   "W033": 1
+  },
+  "books/cardiac-surgery/Key-questions-in-congenital-cardiac-surgery/chapters/chapter-26/chapter-26.md": {
+   "E004": 2,
+   "W031": 3,
+   "W033": 1
+  },
+  "books/cardiac-surgery/Key-questions-in-congenital-cardiac-surgery/chapters/chapter-27/chapter-27-he.md": {
+   "E004": 2,
+   "W031": 1
+  },
+  "books/cardiac-surgery/Key-questions-in-congenital-cardiac-surgery/chapters/chapter-27/chapter-27-ru.md": {
+   "W031": 2
+  },
+  "books/cardiac-surgery/Key-questions-in-congenital-cardiac-surgery/chapters/chapter-27/chapter-27.md": {
+   "E004": 2,
+   "W031": 2
+  },
+  "books/cardiac-surgery/Key-questions-in-congenital-cardiac-surgery/chapters/chapter-28/chapter-28-he.md": {
+   "E004": 2,
+   "P004": 1
+  },
+  "books/cardiac-surgery/Key-questions-in-congenital-cardiac-surgery/chapters/chapter-28/chapter-28-ru.md": {
+   "W031": 1
+  },
+  "books/cardiac-surgery/Key-questions-in-congenital-cardiac-surgery/chapters/chapter-28/chapter-28.md": {
+   "E004": 2,
+   "W031": 1
+  },
+  "books/cardiac-surgery/Key-questions-in-congenital-cardiac-surgery/chapters/chapter-29/chapter-29-he.md": {
+   "E004": 2,
+   "W031": 2,
+   "W033": 2
+  },
+  "books/cardiac-surgery/Key-questions-in-congenital-cardiac-surgery/chapters/chapter-29/chapter-29-ru.md": {
+   "W031": 2,
+   "W033": 2
+  },
+  "books/cardiac-surgery/Key-questions-in-congenital-cardiac-surgery/chapters/chapter-29/chapter-29.md": {
+   "E004": 2,
+   "W031": 2,
+   "W033": 2
+  },
+  "books/cardiac-surgery/Key-questions-in-congenital-cardiac-surgery/chapters/chapter-30/chapter-30-he.md": {
+   "E004": 2,
+   "W031": 6
+  },
+  "books/cardiac-surgery/Key-questions-in-congenital-cardiac-surgery/chapters/chapter-30/chapter-30-ru.md": {
+   "W031": 7
+  },
+  "books/cardiac-surgery/Key-questions-in-congenital-cardiac-surgery/chapters/chapter-30/chapter-30.md": {
+   "E004": 2,
+   "W031": 8
+  },
+  "books/cardiac-surgery/Key-questions-in-congenital-cardiac-surgery/chapters/chapter-31/chapter-31-he.md": {
+   "E004": 2,
+   "W031": 8,
+   "W033": 1
+  },
+  "books/cardiac-surgery/Key-questions-in-congenital-cardiac-surgery/chapters/chapter-31/chapter-31-ru.md": {
+   "W031": 8,
+   "W033": 1
+  },
+  "books/cardiac-surgery/Key-questions-in-congenital-cardiac-surgery/chapters/chapter-31/chapter-31.md": {
+   "E004": 2,
+   "W031": 8,
+   "W033": 1
+  },
+  "books/cardiac-surgery/Key-questions-in-congenital-cardiac-surgery/chapters/chapter-32/chapter-32-he.md": {
+   "E004": 2
+  },
+  "books/cardiac-surgery/Key-questions-in-congenital-cardiac-surgery/chapters/chapter-32/chapter-32.md": {
+   "E004": 2
+  },
+  "books/cardiac-surgery/Key-questions-in-congenital-cardiac-surgery/chapters/chapter-33/chapter-33-he.md": {
+   "E004": 2,
+   "W033": 1,
+   "W031": 2
+  },
+  "books/cardiac-surgery/Key-questions-in-congenital-cardiac-surgery/chapters/chapter-33/chapter-33-ru.md": {
+   "W033": 1,
+   "W031": 2
+  },
+  "books/cardiac-surgery/Key-questions-in-congenital-cardiac-surgery/chapters/chapter-33/chapter-33.md": {
+   "E004": 2,
+   "W033": 1,
+   "W031": 2
+  },
+  "books/cardiac-surgery/Key-questions-in-congenital-cardiac-surgery/chapters/chapter-34/chapter-34-he.md": {
+   "E004": 2,
+   "W031": 9
+  },
+  "books/cardiac-surgery/Key-questions-in-congenital-cardiac-surgery/chapters/chapter-34/chapter-34-ru.md": {
+   "W031": 9
+  },
+  "books/cardiac-surgery/Key-questions-in-congenital-cardiac-surgery/chapters/chapter-34/chapter-34.md": {
+   "E004": 2,
+   "W031": 9
+  },
+  "books/cardiac-surgery/Key-questions-in-congenital-cardiac-surgery/chapters/chapter-35/chapter-35-he.md": {
+   "E004": 2,
+   "W031": 6
+  },
+  "books/cardiac-surgery/Key-questions-in-congenital-cardiac-surgery/chapters/chapter-35/chapter-35-ru.md": {
+   "W031": 6
+  },
+  "books/cardiac-surgery/Key-questions-in-congenital-cardiac-surgery/chapters/chapter-35/chapter-35.md": {
+   "E004": 2,
+   "W031": 6
+  },
+  "books/cardiac-surgery/Key-questions-in-congenital-cardiac-surgery/chapters/chapter-36/chapter-36-he.md": {
+   "E004": 2,
+   "W033": 3
+  },
+  "books/cardiac-surgery/Key-questions-in-congenital-cardiac-surgery/chapters/chapter-36/chapter-36-ru.md": {
+   "W031": 5,
+   "W033": 3
+  },
+  "books/cardiac-surgery/Key-questions-in-congenital-cardiac-surgery/chapters/chapter-36/chapter-36.md": {
+   "E004": 2,
+   "W031": 5,
+   "W033": 2
+  },
+  "books/cardiac-surgery/Key-questions-in-congenital-cardiac-surgery/chapters/chapter-37/chapter-37-he.md": {
+   "E004": 2,
+   "W033": 1
+  },
+  "books/cardiac-surgery/Key-questions-in-congenital-cardiac-surgery/chapters/chapter-37/chapter-37-ru.md": {
+   "E004": 2,
+   "W033": 1
+  },
+  "books/cardiac-surgery/Key-questions-in-congenital-cardiac-surgery/chapters/chapter-37/chapter-37.md": {
+   "E004": 2,
+   "W033": 1
+  },
+  "books/cardiac-surgery/Key-questions-in-congenital-cardiac-surgery/chapters/chapter-38/chapter-38-he.md": {
+   "E004": 2,
+   "W033": 1,
+   "P002": 1,
+   "P005": 1,
+   "P004": 1
+  },
+  "books/cardiac-surgery/Key-questions-in-congenital-cardiac-surgery/chapters/chapter-38/chapter-38-ru.md": {
+   "W031": 7,
+   "W033": 12,
+   "P005": 1
+  },
+  "books/cardiac-surgery/Key-questions-in-congenital-cardiac-surgery/chapters/chapter-38/chapter-38.md": {
+   "W031": 7,
+   "W033": 12
+  },
+  "books/cardiac-surgery/Key-questions-in-congenital-cardiac-surgery/chapters/chapter-39/chapter-39-he.md": {
+   "E004": 2,
+   "W033": 3
+  },
+  "books/cardiac-surgery/Key-questions-in-congenital-cardiac-surgery/chapters/chapter-39/chapter-39-ru.md": {
+   "E004": 2,
+   "W033": 3,
+   "W031": 1
+  },
+  "books/cardiac-surgery/Key-questions-in-congenital-cardiac-surgery/chapters/chapter-39/chapter-39.md": {
+   "E004": 2,
+   "W033": 3,
+   "W031": 1
+  },
+  "books/cardiac-surgery/Key-questions-in-congenital-cardiac-surgery/chapters/chapter-40/chapter-40-he.md": {
+   "E004": 2
+  },
+  "books/cardiac-surgery/Key-questions-in-congenital-cardiac-surgery/chapters/chapter-40/chapter-40-ru.md": {
+   "E004": 2,
+   "W031": 1
+  },
+  "books/cardiac-surgery/Key-questions-in-congenital-cardiac-surgery/chapters/chapter-40/chapter-40.md": {
+   "E004": 2,
+   "W031": 3
+  },
+  "books/cardiac-surgery/Key-questions-in-congenital-cardiac-surgery/chapters/chapter-41/chapter-41-he.md": {
+   "E004": 2,
+   "W031": 6,
+   "E011": 1,
+   "W033": 1,
+   "P005": 1
+  },
+  "books/cardiac-surgery/Key-questions-in-congenital-cardiac-surgery/chapters/chapter-41/chapter-41-ru.md": {
+   "E004": 2,
+   "W031": 8,
+   "E011": 1,
+   "W033": 1,
+   "P005": 1
+  },
+  "books/cardiac-surgery/Key-questions-in-congenital-cardiac-surgery/chapters/chapter-41/chapter-41.md": {
+   "E004": 2,
+   "W031": 12,
+   "E011": 1,
+   "W033": 1
+  },
+  "books/cardiac-surgery/Kirklin5/chapters/chapter-01/chapter-01-ru.md": {
+   "E004": 2,
+   "W033": 7
+  },
+  "books/cardiac-surgery/Kirklin5/chapters/chapter-01/chapter-01.md": {
+   "E004": 2,
+   "W033": 7
+  },
+  "books/cardiac-surgery/Kirklin5/chapters/chapter-02/chapter-02-ru.md": {
+   "W031": 7,
+   "W033": 3,
+   "P005": 1
+  },
+  "books/cardiac-surgery/Kirklin5/chapters/chapter-02/chapter-02.md": {
+   "E004": 2,
+   "W031": 9,
+   "W033": 3
+  },
+  "books/cardiac-surgery/Kirklin5/chapters/chapter-03/chapter-03-ru.md": {
+   "W033": 12,
+   "P005": 1
+  },
+  "books/cardiac-surgery/Kirklin5/chapters/chapter-03/chapter-03.md": {
+   "E004": 2,
+   "W031": 1,
+   "W033": 12
+  },
+  "books/cardiac-surgery/Kirklin5/chapters/chapter-04/chapter-04-ru.md": {
+   "E004": 2,
+   "E002": 1,
+   "E001": 1,
+   "W033": 57,
+   "W031": 2,
+   "P005": 1
+  },
+  "books/cardiac-surgery/Kirklin5/chapters/chapter-04/chapter-04.md": {
+   "E004": 2,
+   "E001": 1,
+   "E003": 1,
+   "W031": 4,
+   "W033": 57
+  },
+  "books/cardiac-surgery/Kirklin5/chapters/chapter-05/chapter-05-ru.md": {
+   "E004": 2,
+   "W033": 5
+  },
+  "books/cardiac-surgery/Kirklin5/chapters/chapter-05/chapter-05.md": {
+   "E004": 2,
+   "W033": 5
+  },
+  "books/cardiac-surgery/Kirklin5/chapters/chapter-06/chapter-06-ru.md": {
+   "E004": 2,
+   "W033": 5,
+   "P005": 1
+  },
+  "books/cardiac-surgery/Kirklin5/chapters/chapter-06/chapter-06.md": {
+   "E004": 2,
+   "W033": 4
+  },
+  "books/cardiac-surgery/Kirklin5/chapters/chapter-07/chapter-07-ru.md": {
+   "E004": 2,
+   "E002": 1,
+   "E001": 1,
+   "W033": 86,
+   "P005": 1
+  },
+  "books/cardiac-surgery/Kirklin5/chapters/chapter-07/chapter-07.md": {
+   "E004": 2,
+   "E002": 1,
+   "E001": 1,
+   "W033": 85
+  },
+  "books/cardiac-surgery/Kirklin5/chapters/chapter-08/chapter-08-ru.md": {
+   "E004": 2,
+   "W033": 17,
+   "P005": 1
+  },
+  "books/cardiac-surgery/Kirklin5/chapters/chapter-08/chapter-08.md": {
+   "E004": 2,
+   "W033": 17
+  },
+  "books/cardiac-surgery/Kirklin5/chapters/chapter-09/chapter-09-ru.md": {
+   "E004": 2,
+   "W031": 2,
+   "W033": 49,
+   "P005": 1
+  },
+  "books/cardiac-surgery/Kirklin5/chapters/chapter-09/chapter-09.md": {
+   "E004": 2,
+   "W031": 2,
+   "W033": 38
+  },
+  "books/cardiac-surgery/Kirklin5/chapters/chapter-10/chapter-10-ru.md": {
+   "E004": 2,
+   "W031": 12,
+   "W033": 5,
+   "P005": 1
+  },
+  "books/cardiac-surgery/Kirklin5/chapters/chapter-10/chapter-10.md": {
+   "W031": 12,
+   "W033": 5
+  },
+  "books/cardiac-surgery/Kirklin5/chapters/chapter-11/chapter-11-ru.md": {
+   "W031": 8,
+   "W033": 23,
+   "P005": 1
+  },
+  "books/cardiac-surgery/Kirklin5/chapters/chapter-11/chapter-11.md": {
+   "W031": 11,
+   "W033": 22
+  },
+  "books/cardiac-surgery/Kirklin5/chapters/chapter-12/chapter-12-ru.md": {
+   "W031": 1,
+   "W033": 27,
+   "P005": 1
+  },
+  "books/cardiac-surgery/Kirklin5/chapters/chapter-12/chapter-12.md": {
+   "W031": 1,
+   "W033": 25
+  },
+  "books/cardiac-surgery/Kirklin5/chapters/chapter-13/chapter-13-ru.md": {
+   "W031": 7,
+   "W033": 2
+  },
+  "books/cardiac-surgery/Kirklin5/chapters/chapter-13/chapter-13.md": {
+   "W031": 8,
+   "W033": 2
+  },
+  "books/cardiac-surgery/Kirklin5/chapters/chapter-14/chapter-14-ru.md": {
+   "W031": 3,
+   "W033": 21,
+   "P005": 1
+  },
+  "books/cardiac-surgery/Kirklin5/chapters/chapter-14/chapter-14.md": {
+   "W031": 5,
+   "W033": 17
+  },
+  "books/cardiac-surgery/Kirklin5/chapters/chapter-15/chapter-15-ru.md": {
+   "W033": 20,
+   "P005": 1
+  },
+  "books/cardiac-surgery/Kirklin5/chapters/chapter-15/chapter-15.md": {
+   "W033": 18,
+   "W032": 1
+  },
+  "books/cardiac-surgery/Kirklin5/chapters/chapter-16/chapter-16-ru.md": {
+   "W031": 3,
+   "W033": 8
+  },
+  "books/cardiac-surgery/Kirklin5/chapters/chapter-16/chapter-16.md": {
+   "W031": 3,
+   "W033": 6
+  },
+  "books/cardiac-surgery/Kirklin5/chapters/chapter-17/chapter-17-ru.md": {
+   "W031": 4,
+   "W033": 3
+  },
+  "books/cardiac-surgery/Kirklin5/chapters/chapter-17/chapter-17.md": {
+   "W031": 4,
+   "W033": 3
+  },
+  "books/cardiac-surgery/Kirklin5/chapters/chapter-18/chapter-18-ru.md": {
+   "W031": 4,
+   "W033": 6,
+   "P005": 1
+  },
+  "books/cardiac-surgery/Kirklin5/chapters/chapter-18/chapter-18.md": {
+   "W031": 4,
+   "W033": 5
+  },
+  "books/cardiac-surgery/Kirklin5/chapters/chapter-19/chapter-19-ru.md": {
+   "W031": 3,
+   "W033": 10,
+   "P005": 1
+  },
+  "books/cardiac-surgery/Kirklin5/chapters/chapter-19/chapter-19.md": {
+   "W031": 3,
+   "W033": 5
+  },
+  "books/cardiac-surgery/Kirklin5/chapters/chapter-20/chapter-20-ru.md": {
+   "W031": 7,
+   "W033": 16,
+   "P005": 1
+  },
+  "books/cardiac-surgery/Kirklin5/chapters/chapter-20/chapter-20.md": {
+   "W031": 7,
+   "W033": 11
+  },
+  "books/cardiac-surgery/Kirklin5/chapters/chapter-21/chapter-21-ru.md": {
+   "W031": 12,
+   "W033": 31,
+   "P005": 1
+  },
+  "books/cardiac-surgery/Kirklin5/chapters/chapter-21/chapter-21.md": {
+   "W031": 13,
+   "W033": 27
+  },
+  "books/cardiac-surgery/Kirklin5/chapters/chapter-22/chapter-22-ru.md": {
+   "E002": 1,
+   "E001": 1,
+   "W031": 5,
+   "W033": 13,
+   "P005": 1
+  },
+  "books/cardiac-surgery/Kirklin5/chapters/chapter-22/chapter-22.md": {
+   "E002": 1,
+   "E001": 1,
+   "W031": 5,
+   "W033": 9
+  },
+  "books/cardiac-surgery/Kirklin5/chapters/chapter-23/chapter-23-ru.md": {
+   "E002": 1,
+   "E001": 1,
+   "W031": 2,
+   "W033": 17,
+   "P005": 1
+  },
+  "books/cardiac-surgery/Kirklin5/chapters/chapter-23/chapter-23.md": {
+   "E002": 1,
+   "E001": 1,
+   "W031": 2,
+   "W033": 10
+  },
+  "books/cardiac-surgery/Kirklin5/chapters/chapter-24/chapter-24-ru.md": {
+   "E002": 1,
+   "E001": 1,
+   "W031": 2,
+   "W033": 9,
+   "P005": 1
+  },
+  "books/cardiac-surgery/Kirklin5/chapters/chapter-24/chapter-24.md": {
+   "E002": 1,
+   "E001": 1,
+   "W031": 2,
+   "W033": 6
+  },
+  "books/cardiac-surgery/Kirklin5/chapters/chapter-25/chapter-25-ru.md": {
+   "W033": 11,
+   "W031": 7
+  },
+  "books/cardiac-surgery/Kirklin5/chapters/chapter-25/chapter-25.md": {
+   "W033": 9,
+   "W031": 7
+  },
+  "books/cardiac-surgery/Kirklin5/chapters/chapter-26/chapter-26-ru.md": {
+   "W033": 8,
+   "P005": 1
+  },
+  "books/cardiac-surgery/Kirklin5/chapters/chapter-26/chapter-26.md": {
+   "W033": 7
+  },
+  "books/cardiac-surgery/Kirklin5/chapters/chapter-27/chapter-27-ru.md": {
+   "W033": 5,
+   "P005": 1
+  },
+  "books/cardiac-surgery/Kirklin5/chapters/chapter-27/chapter-27.md": {
+   "W033": 5
+  },
+  "books/cardiac-surgery/Kirklin5/chapters/chapter-28/chapter-28-ru.md": {
+   "W031": 5,
+   "W033": 7
+  },
+  "books/cardiac-surgery/Kirklin5/chapters/chapter-28/chapter-28.md": {
+   "W031": 5,
+   "W033": 6
+  },
+  "books/cardiac-surgery/Kirklin5/chapters/chapter-29/chapter-29-ru.md": {
+   "W031": 6,
+   "W033": 12,
+   "P005": 1
+  },
+  "books/cardiac-surgery/Kirklin5/chapters/chapter-29/chapter-29.md": {
+   "W031": 6,
+   "W033": 11
+  },
+  "books/cardiac-surgery/Kirklin5/chapters/chapter-30/chapter-30-ru.md": {
+   "W031": 5,
+   "W033": 5,
+   "P005": 1
+  },
+  "books/cardiac-surgery/Kirklin5/chapters/chapter-30/chapter-30.md": {
+   "W031": 6,
+   "W033": 4
+  },
+  "books/cardiac-surgery/Kirklin5/chapters/chapter-31/chapter-31-ru.md": {
+   "E002": 1,
+   "E001": 1,
+   "W033": 2
+  },
+  "books/cardiac-surgery/Kirklin5/chapters/chapter-31/chapter-31.md": {
+   "E002": 1,
+   "E001": 1,
+   "W033": 2
+  },
+  "books/cardiac-surgery/Kirklin5/chapters/chapter-32/chapter-32-ru.md": {
+   "E002": 1,
+   "E001": 1,
+   "W031": 4,
+   "W033": 16,
+   "P005": 1
+  },
+  "books/cardiac-surgery/Kirklin5/chapters/chapter-32/chapter-32.md": {
+   "E002": 1,
+   "E001": 1,
+   "W031": 6,
+   "W033": 11
+  },
+  "books/cardiac-surgery/Kirklin5/chapters/chapter-33/chapter-33-ru.md": {
+   "E002": 1,
+   "E001": 1,
+   "W031": 2,
+   "W033": 20
+  },
+  "books/cardiac-surgery/Kirklin5/chapters/chapter-33/chapter-33.md": {
+   "E002": 1,
+   "E001": 1,
+   "W031": 2,
+   "W033": 17
+  },
+  "books/cardiac-surgery/Kirklin5/chapters/chapter-34/chapter-34-ru.md": {
+   "E002": 2,
+   "E001": 1,
+   "W031": 3,
+   "W033": 52,
+   "P005": 1
+  },
+  "books/cardiac-surgery/Kirklin5/chapters/chapter-34/chapter-34.md": {
+   "E002": 2,
+   "E001": 1,
+   "W031": 9,
+   "W033": 44
+  },
+  "books/cardiac-surgery/Kirklin5/chapters/chapter-35/chapter-35-ru.md": {
+   "W031": 7,
+   "W033": 15,
+   "W030": 9,
+   "P005": 1
+  },
+  "books/cardiac-surgery/Kirklin5/chapters/chapter-35/chapter-35.md": {
+   "W031": 6,
+   "W033": 15,
+   "W030": 9
+  },
+  "books/cardiac-surgery/Kirklin5/chapters/chapter-36/chapter-36-ru.md": {
+   "W031": 13,
+   "W033": 16,
+   "P005": 1
+  },
+  "books/cardiac-surgery/Kirklin5/chapters/chapter-36/chapter-36.md": {
+   "W031": 13,
+   "W033": 16
+  },
+  "books/cardiac-surgery/Kirklin5/chapters/chapter-37/chapter-37-ru.md": {
+   "W031": 4,
+   "W033": 10,
+   "P005": 1
+  },
+  "books/cardiac-surgery/Kirklin5/chapters/chapter-37/chapter-37.md": {
+   "W031": 4,
+   "W033": 10
+  },
+  "books/cardiac-surgery/Kirklin5/chapters/chapter-38/chapter-38-ru.md": {
+   "W031": 4,
+   "W033": 18,
+   "P005": 1
+  },
+  "books/cardiac-surgery/Kirklin5/chapters/chapter-38/chapter-38.md": {
+   "W031": 4,
+   "W033": 18
+  },
+  "books/cardiac-surgery/Kirklin5/chapters/chapter-39/chapter-39-ru.md": {
+   "W031": 1,
+   "W033": 4
+  },
+  "books/cardiac-surgery/Kirklin5/chapters/chapter-39/chapter-39.md": {
+   "W031": 1,
+   "W033": 4
+  },
+  "books/cardiac-surgery/Kirklin5/chapters/chapter-40/chapter-40-ru.md": {
+   "W031": 6,
+   "W033": 21,
+   "P005": 1
+  },
+  "books/cardiac-surgery/Kirklin5/chapters/chapter-40/chapter-40.md": {
+   "W031": 7,
+   "W033": 21
+  },
+  "books/cardiac-surgery/Kirklin5/chapters/chapter-41/chapter-41-ru.md": {
+   "W031": 4,
+   "W033": 4,
+   "P005": 1
+  },
+  "books/cardiac-surgery/Kirklin5/chapters/chapter-41/chapter-41.md": {
+   "W031": 5,
+   "W033": 4
+  },
+  "books/cardiac-surgery/Kirklin5/chapters/chapter-42/chapter-42-ru.md": {
+   "W031": 3,
+   "W033": 2,
+   "P005": 1
+  },
+  "books/cardiac-surgery/Kirklin5/chapters/chapter-42/chapter-42.md": {
+   "W031": 4,
+   "W033": 2
+  },
+  "books/cardiac-surgery/Kirklin5/chapters/chapter-43/chapter-43-ru.md": {
+   "W031": 7,
+   "W033": 7,
+   "P005": 1
+  },
+  "books/cardiac-surgery/Kirklin5/chapters/chapter-43/chapter-43.md": {
+   "W031": 7,
+   "W033": 7
+  },
+  "books/cardiac-surgery/Kirklin5/chapters/chapter-44/chapter-44-ru.md": {
+   "E001": 1,
+   "E003": 1,
+   "W031": 4,
+   "W033": 23,
+   "P001": 1,
+   "P005": 1,
+   "P004": 1
+  },
+  "books/cardiac-surgery/Kirklin5/chapters/chapter-44/chapter-44.md": {
+   "W031": 4,
+   "W033": 24
+  },
+  "books/cardiac-surgery/Kirklin5/chapters/chapter-45/chapter-45-ru.md": {
+   "W031": 4,
+   "W033": 14,
+   "P005": 1
+  },
+  "books/cardiac-surgery/Kirklin5/chapters/chapter-45/chapter-45.md": {
+   "W031": 4,
+   "W033": 14
+  },
+  "books/cardiac-surgery/Kirklin5/chapters/chapter-46/chapter-46-ru.md": {
+   "W031": 1,
+   "W033": 3,
+   "P005": 1
+  },
+  "books/cardiac-surgery/Kirklin5/chapters/chapter-46/chapter-46.md": {
+   "W031": 1,
+   "W033": 3
+  },
+  "books/cardiac-surgery/Kirklin5/chapters/chapter-47/chapter-47-ru.md": {
+   "W031": 1,
+   "W033": 13
+  },
+  "books/cardiac-surgery/Kirklin5/chapters/chapter-47/chapter-47.md": {
+   "W031": 5,
+   "W033": 13
+  },
+  "books/cardiac-surgery/Kirklin5/chapters/chapter-48/chapter-48-ru.md": {
+   "W031": 7,
+   "W033": 12,
+   "P005": 1
+  },
+  "books/cardiac-surgery/Kirklin5/chapters/chapter-48/chapter-48.md": {
+   "W031": 7,
+   "W033": 12
+  },
+  "books/cardiac-surgery/Kirklin5/chapters/chapter-49/chapter-49-ru.md": {
+   "W031": 1,
+   "W033": 13,
+   "P005": 1
+  },
+  "books/cardiac-surgery/Kirklin5/chapters/chapter-49/chapter-49.md": {
+   "W031": 1,
+   "W033": 13
+  },
+  "books/cardiac-surgery/Kirklin5/chapters/chapter-50/chapter-50-ru.md": {
+   "W031": 10,
+   "W033": 23,
+   "P001": 1,
+   "P005": 1,
+   "P004": 1
+  },
+  "books/cardiac-surgery/Kirklin5/chapters/chapter-50/chapter-50.md": {
+   "W031": 11,
+   "W033": 23
+  },
+  "books/cardiac-surgery/Kirklin5/chapters/chapter-51/chapter-51-ru.md": {
+   "W031": 8,
+   "W033": 22,
+   "P005": 1
+  },
+  "books/cardiac-surgery/Kirklin5/chapters/chapter-51/chapter-51.md": {
+   "W031": 8,
+   "W033": 22
+  },
+  "books/cardiac-surgery/Kirklin5/chapters/chapter-52/chapter-52-ru.md": {
+   "W031": 10,
+   "W033": 45,
+   "P005": 1
+  },
+  "books/cardiac-surgery/Kirklin5/chapters/chapter-52/chapter-52.md": {
+   "W031": 11,
+   "W033": 45
+  },
+  "books/cardiac-surgery/Kirklin5/chapters/chapter-53/chapter-53-ru.md": {
+   "W033": 8
+  },
+  "books/cardiac-surgery/Kirklin5/chapters/chapter-53/chapter-53.md": {
+   "W033": 8
+  },
+  "books/cardiac-surgery/Kirklin5/chapters/chapter-54/chapter-54-ru.md": {
+   "W031": 1,
+   "W033": 53,
+   "W030": 1,
+   "P005": 1
+  },
+  "books/cardiac-surgery/Kirklin5/chapters/chapter-54/chapter-54.md": {
+   "W031": 1,
+   "W033": 53
+  },
+  "books/cardiac-surgery/Kirklin5/chapters/chapter-55/chapter-55-ru.md": {
+   "E004": 2,
+   "W031": 3,
+   "W033": 16,
+   "P005": 1
+  },
+  "books/cardiac-surgery/Kirklin5/chapters/chapter-55/chapter-55.md": {
+   "W031": 4,
+   "W033": 16
+  },
+  "books/cardiac-surgery/Spray6/chapters/chapter-01/chapter-01-ru.md": {
+   "W031": 2,
+   "W033": 6,
+   "P005": 1
+  },
+  "books/cardiac-surgery/Spray6/chapters/chapter-01/chapter-01.md": {
+   "W031": 2,
+   "W033": 6
+  },
+  "books/cardiac-surgery/Spray6/chapters/chapter-02/chapter-02-ru.md": {
+   "W033": 2,
+   "P005": 1
+  },
+  "books/cardiac-surgery/Spray6/chapters/chapter-02/chapter-02.md": {
+   "W033": 1
+  },
+  "books/cardiac-surgery/Spray6/chapters/chapter-03/chapter-03-ru.md": {
+   "W031": 3
+  },
+  "books/cardiac-surgery/Spray6/chapters/chapter-03/chapter-03.md": {
+   "W031": 3
+  },
+  "books/cardiac-surgery/Spray6/chapters/chapter-04/chapter-04-ru.md": {
+   "W033": 2,
+   "P005": 1
+  },
+  "books/cardiac-surgery/Spray6/chapters/chapter-04/chapter-04.md": {
+   "W033": 2
+  },
+  "books/cardiac-surgery/Spray6/chapters/chapter-05/chapter-05-ru.md": {
+   "E020": 1,
+   "E021": 1,
+   "W031": 1,
+   "W033": 2,
+   "P005": 1
+  },
+  "books/cardiac-surgery/Spray6/chapters/chapter-05/chapter-05.md": {
+   "E020": 1,
+   "W031": 1,
+   "W033": 2
+  },
+  "books/cardiac-surgery/Spray6/chapters/chapter-06/chapter-06-ru.md": {
+   "W033": 5,
+   "P005": 1
+  },
+  "books/cardiac-surgery/Spray6/chapters/chapter-06/chapter-06.md": {
+   "W033": 5
+  },
+  "books/cardiac-surgery/Spray6/chapters/chapter-07/chapter-07-ru.md": {
+   "W031": 2,
+   "W033": 2
+  },
+  "books/cardiac-surgery/Spray6/chapters/chapter-07/chapter-07.md": {
+   "W031": 2,
+   "W033": 1
+  },
+  "books/cardiac-surgery/Spray6/chapters/chapter-08/chapter-08-ru.md": {
+   "W033": 4,
+   "P005": 1
+  },
+  "books/cardiac-surgery/Spray6/chapters/chapter-08/chapter-08.md": {
+   "W033": 1
+  },
+  "books/cardiac-surgery/Spray6/chapters/chapter-09/chapter-09-ru.md": {
+   "W031": 1,
+   "W033": 2
+  },
+  "books/cardiac-surgery/Spray6/chapters/chapter-09/chapter-09.md": {
+   "W031": 2,
+   "W033": 2
+  },
+  "books/cardiac-surgery/Spray6/chapters/chapter-10/chapter-10-ru.md": {
+   "E021": 1,
+   "W033": 5
+  },
+  "books/cardiac-surgery/Spray6/chapters/chapter-10/chapter-10.md": {
+   "E021": 1,
+   "W033": 4
+  },
+  "books/cardiac-surgery/Spray6/chapters/chapter-12/chapter-12-ru.md": {
+   "W033": 1
+  },
+  "books/cardiac-surgery/Spray6/chapters/chapter-12/chapter-12.md": {
+   "W033": 1
+  },
+  "books/cardiac-surgery/Spray6/chapters/chapter-13/chapter-13-ru.md": {
+   "W031": 1,
+   "W033": 2
+  },
+  "books/cardiac-surgery/Spray6/chapters/chapter-13/chapter-13.md": {
+   "W031": 1
+  },
+  "books/cardiac-surgery/Spray6/chapters/chapter-14/chapter-14-ru.md": {
+   "E020": 1,
+   "W033": 3,
+   "P005": 1
+  },
+  "books/cardiac-surgery/Spray6/chapters/chapter-14/chapter-14.md": {
+   "E020": 1,
+   "W033": 2
+  },
+  "books/cardiac-surgery/Spray6/chapters/chapter-15/chapter-15-ru.md": {
+   "W031": 2,
+   "W033": 1,
+   "P005": 1
+  },
+  "books/cardiac-surgery/Spray6/chapters/chapter-15/chapter-15.md": {
+   "W031": 2
+  },
+  "books/cardiac-surgery/Spray6/chapters/chapter-16/chapter-16-ru.md": {
+   "W031": 1,
+   "P005": 1
+  },
+  "books/cardiac-surgery/Spray6/chapters/chapter-16/chapter-16.md": {
+   "W031": 1
+  },
+  "books/cardiac-surgery/Spray6/chapters/chapter-17/chapter-17-ru.md": {
+   "W033": 2,
+   "P005": 1
+  },
+  "books/cardiac-surgery/Spray6/chapters/chapter-17/chapter-17.md": {
+   "W033": 2
+  },
+  "books/cardiac-surgery/Spray6/chapters/chapter-18/chapter-18-ru.md": {
+   "W033": 2
+  },
+  "books/cardiac-surgery/Spray6/chapters/chapter-18/chapter-18.md": {
+   "W031": 1,
+   "W033": 2
+  },
+  "books/cardiac-surgery/Spray6/chapters/chapter-19/chapter-19-ru.md": {
+   "W031": 1,
+   "W033": 2
+  },
+  "books/cardiac-surgery/Spray6/chapters/chapter-19/chapter-19.md": {
+   "W031": 1,
+   "W033": 1
+  },
+  "books/cardiac-surgery/Spray6/chapters/chapter-20/chapter-20-ru.md": {
+   "W031": 1,
+   "W033": 3
+  },
+  "books/cardiac-surgery/Spray6/chapters/chapter-20/chapter-20.md": {
+   "W031": 1,
+   "W033": 2
+  },
+  "books/cardiac-surgery/Spray6/chapters/chapter-21/chapter-21-ru.md": {
+   "E021": 1,
+   "W031": 2,
+   "W033": 4
+  },
+  "books/cardiac-surgery/Spray6/chapters/chapter-21/chapter-21.md": {
+   "E021": 1,
+   "W031": 2,
+   "W033": 2
+  },
+  "books/cardiac-surgery/Spray6/chapters/chapter-22/chapter-22-ru.md": {
+   "P005": 1
+  },
+  "books/cardiac-surgery/Spray6/chapters/chapter-23/chapter-23-ru.md": {
+   "W031": 2,
+   "W033": 1
+  },
+  "books/cardiac-surgery/Spray6/chapters/chapter-23/chapter-23.md": {
+   "W031": 2,
+   "W033": 1
+  },
+  "books/cardiac-surgery/Spray6/chapters/chapter-24/chapter-24-ru.md": {
+   "W031": 2,
+   "W033": 5,
+   "P005": 1
+  },
+  "books/cardiac-surgery/Spray6/chapters/chapter-24/chapter-24.md": {
+   "W031": 2,
+   "W033": 5
+  },
+  "books/cardiac-surgery/Spray6/chapters/chapter-25/chapter-25-ru.md": {
+   "W031": 1,
+   "W033": 1
+  },
+  "books/cardiac-surgery/Spray6/chapters/chapter-25/chapter-25.md": {
+   "W031": 1,
+   "W033": 1
+  },
+  "books/cardiac-surgery/Spray6/chapters/chapter-26/chapter-26-ru.md": {
+   "W033": 1
+  },
+  "books/cardiac-surgery/Spray6/chapters/chapter-26/chapter-26.md": {
+   "W033": 1
+  },
+  "books/cardiac-surgery/Spray6/chapters/chapter-27/chapter-27-ru.md": {
+   "E021": 10,
+   "W033": 7,
+   "P005": 1
+  },
+  "books/cardiac-surgery/Spray6/chapters/chapter-27/chapter-27.md": {
+   "E021": 10,
+   "W033": 4
+  },
+  "books/cardiac-surgery/Spray6/chapters/chapter-28/chapter-28-ru.md": {
+   "E021": 4,
+   "W033": 4
+  },
+  "books/cardiac-surgery/Spray6/chapters/chapter-28/chapter-28.md": {
+   "E021": 4,
+   "W033": 2
+  },
+  "books/cardiac-surgery/Spray6/chapters/chapter-29/chapter-29-ru.md": {
+   "W031": 2,
+   "W033": 3
+  },
+  "books/cardiac-surgery/Spray6/chapters/chapter-29/chapter-29.md": {
+   "W031": 2,
+   "W033": 3
+  },
+  "books/cardiac-surgery/Spray6/chapters/chapter-30/chapter-30-ru.md": {
+   "W033": 2
+  },
+  "books/cardiac-surgery/Spray6/chapters/chapter-30/chapter-30.md": {
+   "W033": 2
+  },
+  "books/cardiac-surgery/Spray6/chapters/chapter-31/chapter-31-ru.md": {
+   "E021": 3,
+   "W031": 1,
+   "W033": 2
+  },
+  "books/cardiac-surgery/Spray6/chapters/chapter-31/chapter-31.md": {
+   "E021": 3,
+   "W031": 1
+  },
+  "books/cardiac-surgery/Spray6/chapters/chapter-32/chapter-32-ru.md": {
+   "W033": 2,
+   "P005": 1
+  },
+  "books/cardiac-surgery/Spray6/chapters/chapter-32/chapter-32.md": {
+   "W033": 1
+  },
+  "books/cardiac-surgery/Spray6/chapters/chapter-33/chapter-33-ru.md": {
+   "W033": 1,
+   "P005": 1
+  },
+  "books/cardiac-surgery/Spray6/chapters/chapter-33/chapter-33.md": {
+   "W033": 1
+  },
+  "books/cardiac-surgery/Spray6/chapters/chapter-34/chapter-34-ru.md": {
+   "W031": 2,
+   "P005": 1
+  },
+  "books/cardiac-surgery/Spray6/chapters/chapter-34/chapter-34.md": {
+   "W031": 2
+  },
+  "books/cardiac-surgery/Spray6/chapters/chapter-35/chapter-35-ru.md": {
+   "W031": 2,
+   "W033": 1
+  },
+  "books/cardiac-surgery/Spray6/chapters/chapter-35/chapter-35.md": {
+   "W031": 2,
+   "W033": 1
+  },
+  "books/cardiac-surgery/Spray6/chapters/chapter-36/chapter-36-ru.md": {
+   "W033": 2
+  },
+  "books/cardiac-surgery/Spray6/chapters/chapter-36/chapter-36.md": {
+   "W033": 1
+  },
+  "books/cardiac-surgery/Spray6/chapters/chapter-37/chapter-37-ru.md": {
+   "W033": 2
+  },
+  "books/cardiac-surgery/Spray6/chapters/chapter-37/chapter-37.md": {
+   "W033": 2
+  },
+  "books/cardiac-surgery/Spray6/chapters/chapter-38/chapter-38-ru.md": {
+   "W031": 2,
+   "W033": 1
+  },
+  "books/cardiac-surgery/Spray6/chapters/chapter-38/chapter-38.md": {
+   "W031": 2,
+   "W033": 1
+  },
+  "books/cardiac-surgery/Spray6/chapters/chapter-39/chapter-39-ru.md": {
+   "W033": 4
+  },
+  "books/cardiac-surgery/Spray6/chapters/chapter-39/chapter-39.md": {
+   "W033": 3
+  },
+  "books/cardiac-surgery/Spray6/chapters/chapter-40/chapter-40-ru.md": {
+   "W031": 2,
+   "W033": 2,
+   "P005": 1
+  },
+  "books/cardiac-surgery/Spray6/chapters/chapter-40/chapter-40.md": {
+   "W031": 2,
+   "W033": 2
+  },
+  "books/cardiac-surgery/Spray6/chapters/chapter-41/chapter-41-ru.md": {
+   "W031": 1,
+   "W033": 2
+  },
+  "books/cardiac-surgery/Spray6/chapters/chapter-41/chapter-41.md": {
+   "W031": 1,
+   "W033": 2
+  },
+  "books/cardiac-surgery/Spray6/chapters/chapter-42/chapter-42-ru.md": {
+   "W031": 1,
+   "W033": 2,
+   "P005": 1
+  },
+  "books/cardiac-surgery/Spray6/chapters/chapter-42/chapter-42.md": {
+   "W031": 1
+  },
+  "books/cardiac-surgery/Spray6/chapters/chapter-43/chapter-43-ru.md": {
+   "W033": 1
+  },
+  "books/cardiac-surgery/Spray6/chapters/chapter-44/chapter-44-ru.md": {
+   "W031": 2,
+   "W033": 3,
+   "P005": 1
+  },
+  "books/cardiac-surgery/Spray6/chapters/chapter-44/chapter-44.md": {
+   "W031": 2,
+   "W033": 3
+  },
+  "books/cardiac-surgery/Spray6/chapters/chapter-45/chapter-45-ru.md": {
+   "W033": 7
+  },
+  "books/cardiac-surgery/Spray6/chapters/chapter-45/chapter-45.md": {
+   "W033": 5
+  },
+  "books/cardiac-surgery/Spray6/chapters/chapter-46/chapter-46-ru.md": {
+   "W031": 1,
+   "W033": 4
+  },
+  "books/cardiac-surgery/Spray6/chapters/chapter-46/chapter-46.md": {
+   "W031": 1,
+   "W033": 2
+  },
+  "books/cardiac-surgery/Spray6/chapters/chapter-47/chapter-47-ru.md": {
+   "W031": 1,
+   "W033": 3
+  },
+  "books/cardiac-surgery/Spray6/chapters/chapter-47/chapter-47.md": {
+   "W031": 1,
+   "W033": 2
+  },
+  "books/cardiac-surgery/Spray6/chapters/chapter-48/chapter-48-ru.md": {
+   "W031": 1,
+   "W033": 2
+  },
+  "books/cardiac-surgery/Spray6/chapters/chapter-48/chapter-48.md": {
+   "W031": 1,
+   "W033": 2
+  },
+  "books/cardiac-surgery/Spray6/chapters/chapter-49/chapter-49-ru.md": {
+   "W031": 2,
+   "W033": 1,
+   "P005": 1
+  },
+  "books/cardiac-surgery/Spray6/chapters/chapter-49/chapter-49.md": {
+   "W033": 1
+  },
+  "books/cardiac-surgery/Spray6/chapters/chapter-50/chapter-50-ru.md": {
+   "W031": 4,
+   "W033": 3,
+   "P005": 1
+  },
+  "books/cardiac-surgery/Spray6/chapters/chapter-50/chapter-50.md": {
+   "W031": 5,
+   "W033": 3
+  },
+  "books/cardiac-surgery/Spray6/chapters/chapter-51/chapter-51-ru.md": {
+   "E002": 1,
+   "E001": 1,
+   "W031": 2,
+   "W033": 2,
+   "P005": 1
+  },
+  "books/cardiac-surgery/Spray6/chapters/chapter-51/chapter-51.md": {
+   "W031": 2,
+   "W033": 2
+  },
+  "books/cardiac-surgery/Spray6/chapters/chapter-52/chapter-52-ru.md": {
+   "E002": 1,
+   "E001": 1,
+   "W031": 3,
+   "W033": 3
+  },
+  "books/cardiac-surgery/Spray6/chapters/chapter-52/chapter-52.md": {
+   "E002": 1,
+   "E001": 1,
+   "W031": 3,
+   "W033": 1
+  },
+  "books/cardiac-surgery/Spray6/chapters/chapter-53/chapter-53-ru.md": {
+   "W033": 3
+  },
+  "books/cardiac-surgery/Spray6/chapters/chapter-53/chapter-53.md": {
+   "W033": 2
+  },
+  "books/cardiac-surgery/Spray6/chapters/chapter-54/chapter-54-ru.md": {
+   "P005": 1
+  },
+  "books/cardiac-surgery/Spray6/chapters/chapter-54/chapter-54.md": {
+   "W031": 1
+  },
+  "books/cardiac-surgery/Spray6/chapters/chapter-55/chapter-55-ru.md": {
+   "W031": 1
+  },
+  "books/cardiac-surgery/Spray6/chapters/chapter-55/chapter-55.md": {
+   "W031": 1
+  },
+  "books/cardiac-surgery/Spray6/chapters/chapter-56/chapter-56-ru.md": {
+   "W031": 1,
+   "W033": 3,
+   "P005": 1
+  },
+  "books/cardiac-surgery/Spray6/chapters/chapter-56/chapter-56.md": {
+   "W031": 1,
+   "W033": 3
+  },
+  "books/cardiac-surgery/Spray6/chapters/chapter-57/chapter-57-ru.md": {
+   "E021": 1,
+   "W031": 2,
+   "W033": 1
+  },
+  "books/cardiac-surgery/Spray6/chapters/chapter-57/chapter-57.md": {
+   "E021": 1,
+   "W031": 2,
+   "W033": 1
+  },
+  "books/cardiac-surgery/Spray6/chapters/chapter-58/chapter-58-ru.md": {
+   "W031": 1,
+   "W033": 2
+  },
+  "books/cardiac-surgery/Spray6/chapters/chapter-58/chapter-58.md": {
+   "E021": 1,
+   "W031": 1,
+   "W033": 2
+  },
+  "books/cardiac-surgery/Spray6/chapters/chapter-59/chapter-59-ru.md": {
+   "W033": 1
+  },
+  "books/cardiac-surgery/Spray6/chapters/chapter-60/chapter-60-ru.md": {
+   "W033": 1
+  },
+  "books/cardiac-surgery/Spray6/chapters/chapter-60/chapter-60.md": {
+   "W033": 1
+  },
+  "books/cardiac-surgery/Spray6/chapters/chapter-62/chapter-62-ru.md": {
+   "W031": 2,
+   "W033": 2
+  },
+  "books/cardiac-surgery/Spray6/chapters/chapter-62/chapter-62.md": {
+   "W031": 2,
+   "W033": 1
+  },
+  "books/cardiac-surgery/Spray6/chapters/chapter-63/chapter-63-ru.md": {
+   "E021": 2,
+   "W033": 1
+  },
+  "books/cardiac-surgery/Spray6/chapters/chapter-63/chapter-63.md": {
+   "E021": 2,
+   "W033": 1
+  },
+  "books/cardiac-surgery/Spray6/chapters/chapter-65/chapter-65-ru.md": {
+   "W031": 1,
+   "W033": 2,
+   "P005": 1
+  },
+  "books/cardiac-surgery/Spray6/chapters/chapter-65/chapter-65.md": {
+   "W031": 2,
+   "W033": 2
+  },
+  "books/cardiac-surgery/Spray6/chapters/chapter-66/chapter-66-ru.md": {
+   "W033": 4
+  },
+  "books/cardiac-surgery/Spray6/chapters/chapter-66/chapter-66.md": {
+   "W033": 4
+  },
+  "books/cardiac-surgery/Spray6/chapters/chapter-67/chapter-67-ru.md": {
+   "W033": 3
+  },
+  "books/cardiac-surgery/Spray6/chapters/chapter-67/chapter-67.md": {
+   "W033": 2
+  },
+  "books/cardiac-surgery/Spray6/chapters/chapter-68/chapter-68-ru.md": {
+   "W033": 4,
+   "P005": 1
+  },
+  "books/cardiac-surgery/Spray6/chapters/chapter-68/chapter-68.md": {
+   "W031": 1,
+   "W033": 3
+  },
+  "books/cardiac-surgery/cohn/chapters/chapter-01/chapter-01-he.md": {
+   "E004": 2,
+   "W033": 3,
+   "P005": 1
+  },
+  "books/cardiac-surgery/cohn/chapters/chapter-01/chapter-01-ru.md": {
+   "E004": 2,
+   "W033": 3
+  },
+  "books/cardiac-surgery/cohn/chapters/chapter-01/chapter-01.md": {
+   "E004": 2,
+   "W033": 3
+  },
+  "books/cardiac-surgery/cohn/chapters/chapter-02/chapter-02-he.md": {
+   "W033": 1
+  },
+  "books/cardiac-surgery/cohn/chapters/chapter-02/chapter-02-ru.md": {
+   "W033": 1
+  },
+  "books/cardiac-surgery/cohn/chapters/chapter-02/chapter-02.md": {
+   "W033": 1
+  },
+  "books/cardiac-surgery/cohn/chapters/chapter-03/chapter-03-he.md": {
+   "E004": 22,
+   "E002": 1,
+   "E001": 1,
+   "W031": 1,
+   "W033": 4
+  },
+  "books/cardiac-surgery/cohn/chapters/chapter-03/chapter-03-ru.md": {
+   "E004": 22,
+   "W031": 1,
+   "W033": 4
+  },
+  "books/cardiac-surgery/cohn/chapters/chapter-03/chapter-03.md": {
+   "E004": 22,
+   "W031": 1,
+   "W033": 3
+  },
+  "books/cardiac-surgery/cohn/chapters/chapter-04/chapter-04-he.md": {
+   "W031": 2,
+   "W033": 21
+  },
+  "books/cardiac-surgery/cohn/chapters/chapter-04/chapter-04-ru.md": {
+   "W031": 2,
+   "W033": 21,
+   "P005": 1
+  },
+  "books/cardiac-surgery/cohn/chapters/chapter-04/chapter-04.md": {
+   "W031": 2,
+   "W033": 21
+  },
+  "books/cardiac-surgery/cohn/chapters/chapter-05/chapter-05-he.md": {
+   "E004": 4,
+   "E002": 1,
+   "E001": 1,
+   "W031": 8,
+   "W033": 7
+  },
+  "books/cardiac-surgery/cohn/chapters/chapter-05/chapter-05-ru.md": {
+   "E004": 12,
+   "W031": 9,
+   "W033": 15,
+   "P001": 1,
+   "P005": 1,
+   "P004": 1
+  },
+  "books/cardiac-surgery/cohn/chapters/chapter-05/chapter-05.md": {
+   "E004": 4,
+   "W031": 8,
+   "W033": 7
+  },
+  "books/cardiac-surgery/cohn/chapters/chapter-06/chapter-06-he.md": {
+   "W031": 1,
+   "W033": 1,
+   "P005": 1
+  },
+  "books/cardiac-surgery/cohn/chapters/chapter-06/chapter-06-ru.md": {
+   "W033": 1
+  },
+  "books/cardiac-surgery/cohn/chapters/chapter-06/chapter-06.md": {
+   "W031": 1,
+   "W033": 1
+  },
+  "books/cardiac-surgery/cohn/chapters/chapter-07/chapter-07-he.md": {
+   "W033": 4,
+   "P005": 1
+  },
+  "books/cardiac-surgery/cohn/chapters/chapter-07/chapter-07-ru.md": {
+   "W031": 1,
+   "W033": 4,
+   "P005": 1
+  },
+  "books/cardiac-surgery/cohn/chapters/chapter-07/chapter-07.md": {
+   "W031": 1,
+   "W033": 4,
+   "W032": 1
+  },
+  "books/cardiac-surgery/cohn/chapters/chapter-08/chapter-08-he.md": {
+   "W033": 1,
+   "P005": 1
+  },
+  "books/cardiac-surgery/cohn/chapters/chapter-08/chapter-08-ru.md": {
+   "W033": 1,
+   "P005": 1
+  },
+  "books/cardiac-surgery/cohn/chapters/chapter-08/chapter-08.md": {
+   "W031": 1,
+   "W033": 1
+  },
+  "books/cardiac-surgery/cohn/chapters/chapter-09/chapter-09.md": {
+   "W032": 1
+  },
+  "books/cardiac-surgery/cohn/chapters/chapter-10/chapter-10-he.md": {
+   "W033": 1,
+   "W031": 1,
+   "P005": 1
+  },
+  "books/cardiac-surgery/cohn/chapters/chapter-10/chapter-10-ru.md": {
+   "W033": 1,
+   "W031": 1,
+   "P005": 1
+  },
+  "books/cardiac-surgery/cohn/chapters/chapter-10/chapter-10.md": {
+   "W031": 2,
+   "W033": 1
+  },
+  "books/cardiac-surgery/cohn/chapters/chapter-11/chapter-11-he.md": {
+   "E001": 1,
+   "E003": 1,
+   "W033": 14,
+   "P001": 1,
+   "P005": 1,
+   "P004": 1
+  },
+  "books/cardiac-surgery/cohn/chapters/chapter-11/chapter-11-ru.md": {
+   "W033": 15,
+   "P005": 1
+  },
+  "books/cardiac-surgery/cohn/chapters/chapter-11/chapter-11.md": {
+   "W033": 14
+  },
+  "books/cardiac-surgery/cohn/chapters/chapter-12/chapter-12-he.md": {
+   "W033": 15,
+   "W031": 1
+  },
+  "books/cardiac-surgery/cohn/chapters/chapter-12/chapter-12-ru.md": {
+   "W033": 15,
+   "W031": 1
+  },
+  "books/cardiac-surgery/cohn/chapters/chapter-12/chapter-12.md": {
+   "W033": 14,
+   "W031": 1
+  },
+  "books/cardiac-surgery/cohn/chapters/chapter-13/chapter-13-he.md": {
+   "W033": 13,
+   "P004": 1
+  },
+  "books/cardiac-surgery/cohn/chapters/chapter-13/chapter-13-ru.md": {
+   "W033": 13,
+   "P005": 1
+  },
+  "books/cardiac-surgery/cohn/chapters/chapter-13/chapter-13.md": {
+   "W033": 11
+  },
+  "books/cardiac-surgery/cohn/chapters/chapter-14/chapter-14-he.md": {
+   "W033": 2
+  },
+  "books/cardiac-surgery/cohn/chapters/chapter-14/chapter-14-ru.md": {
+   "W033": 2,
+   "P005": 1
+  },
+  "books/cardiac-surgery/cohn/chapters/chapter-14/chapter-14.md": {
+   "W033": 2
+  },
+  "books/cardiac-surgery/cohn/chapters/chapter-15/chapter-15-he.md": {
+   "W033": 3,
+   "P005": 1
+  },
+  "books/cardiac-surgery/cohn/chapters/chapter-15/chapter-15-ru.md": {
+   "W033": 3,
+   "P005": 1
+  },
+  "books/cardiac-surgery/cohn/chapters/chapter-15/chapter-15.md": {
+   "W033": 3
+  },
+  "books/cardiac-surgery/cohn/chapters/chapter-16/chapter-16-he.md": {
+   "W033": 8,
+   "W031": 1
+  },
+  "books/cardiac-surgery/cohn/chapters/chapter-16/chapter-16-ru.md": {
+   "W033": 9,
+   "W031": 1,
+   "P005": 1
+  },
+  "books/cardiac-surgery/cohn/chapters/chapter-16/chapter-16.md": {
+   "W033": 8,
+   "W031": 1
+  },
+  "books/cardiac-surgery/cohn/chapters/chapter-17/chapter-17-he.md": {
+   "W031": 3,
+   "W033": 4
+  },
+  "books/cardiac-surgery/cohn/chapters/chapter-17/chapter-17-ru.md": {
+   "W031": 3,
+   "W033": 4,
+   "P005": 1
+  },
+  "books/cardiac-surgery/cohn/chapters/chapter-17/chapter-17.md": {
+   "W031": 3,
+   "W033": 4
+  },
+  "books/cardiac-surgery/cohn/chapters/chapter-18/chapter-18-he.md": {
+   "W033": 15
+  },
+  "books/cardiac-surgery/cohn/chapters/chapter-18/chapter-18-ru.md": {
+   "W033": 15,
+   "P005": 1
+  },
+  "books/cardiac-surgery/cohn/chapters/chapter-18/chapter-18.md": {
+   "W033": 15
+  },
+  "books/cardiac-surgery/cohn/chapters/chapter-19/chapter-19-he.md": {
+   "W031": 2,
+   "W033": 3
+  },
+  "books/cardiac-surgery/cohn/chapters/chapter-19/chapter-19-ru.md": {
+   "W031": 2,
+   "W033": 3,
+   "P005": 1
+  },
+  "books/cardiac-surgery/cohn/chapters/chapter-19/chapter-19.md": {
+   "W031": 2,
+   "W033": 3
+  },
+  "books/cardiac-surgery/cohn/chapters/chapter-20/chapter-20-he.md": {
+   "W033": 20,
+   "P005": 1
+  },
+  "books/cardiac-surgery/cohn/chapters/chapter-20/chapter-20-ru.md": {
+   "W033": 20,
+   "W030": 1,
+   "P005": 1
+  },
+  "books/cardiac-surgery/cohn/chapters/chapter-20/chapter-20.md": {
+   "W031": 1,
+   "W033": 16
+  },
+  "books/cardiac-surgery/cohn/chapters/chapter-21/chapter-21-he.md": {
+   "E004": 8,
+   "W033": 4
+  },
+  "books/cardiac-surgery/cohn/chapters/chapter-21/chapter-21-ru.md": {
+   "E004": 8,
+   "W033": 4,
+   "P005": 1
+  },
+  "books/cardiac-surgery/cohn/chapters/chapter-21/chapter-21.md": {
+   "E004": 8,
+   "W033": 4
+  },
+  "books/cardiac-surgery/cohn/chapters/chapter-22/chapter-22-he.md": {
+   "W031": 3,
+   "W033": 2
+  },
+  "books/cardiac-surgery/cohn/chapters/chapter-22/chapter-22-ru.md": {
+   "W031": 3,
+   "W033": 2,
+   "P005": 1
+  },
+  "books/cardiac-surgery/cohn/chapters/chapter-22/chapter-22.md": {
+   "E004": 1,
+   "E001": 1,
+   "E003": 1,
+   "W031": 3,
+   "W033": 2
+  },
+  "books/cardiac-surgery/cohn/chapters/chapter-23/chapter-23-he.md": {
+   "W033": 9
+  },
+  "books/cardiac-surgery/cohn/chapters/chapter-23/chapter-23-ru.md": {
+   "W033": 9,
+   "P005": 1
+  },
+  "books/cardiac-surgery/cohn/chapters/chapter-23/chapter-23.md": {
+   "W033": 8
+  },
+  "books/cardiac-surgery/cohn/chapters/chapter-24/chapter-24-he.md": {
+   "W033": 5,
+   "P005": 1
+  },
+  "books/cardiac-surgery/cohn/chapters/chapter-24/chapter-24-ru.md": {
+   "W031": 3,
+   "W033": 5,
+   "P005": 1
+  },
+  "books/cardiac-surgery/cohn/chapters/chapter-24/chapter-24.md": {
+   "W031": 3,
+   "W033": 3
+  },
+  "books/cardiac-surgery/cohn/chapters/chapter-25/chapter-25-he.md": {
+   "W031": 2,
+   "W033": 10,
+   "W032": 1
+  },
+  "books/cardiac-surgery/cohn/chapters/chapter-25/chapter-25-ru.md": {
+   "W031": 2,
+   "W033": 10
+  },
+  "books/cardiac-surgery/cohn/chapters/chapter-25/chapter-25.md": {
+   "W031": 2,
+   "W033": 8,
+   "W032": 1
+  },
+  "books/cardiac-surgery/cohn/chapters/chapter-26/chapter-26-he.md": {
+   "W033": 4,
+   "P005": 1
+  },
+  "books/cardiac-surgery/cohn/chapters/chapter-26/chapter-26-ru.md": {
+   "W033": 4,
+   "P005": 1
+  },
+  "books/cardiac-surgery/cohn/chapters/chapter-26/chapter-26.md": {
+   "W033": 4
+  },
+  "books/cardiac-surgery/cohn/chapters/chapter-27/chapter-27-he.md": {
+   "W031": 1,
+   "W033": 5
+  },
+  "books/cardiac-surgery/cohn/chapters/chapter-27/chapter-27-ru.md": {
+   "W031": 1,
+   "W033": 5,
+   "P005": 1
+  },
+  "books/cardiac-surgery/cohn/chapters/chapter-27/chapter-27.md": {
+   "W031": 1,
+   "W033": 4
+  },
+  "books/cardiac-surgery/cohn/chapters/chapter-28/chapter-28-he.md": {
+   "W031": 1,
+   "W033": 5,
+   "P005": 1
+  },
+  "books/cardiac-surgery/cohn/chapters/chapter-28/chapter-28-ru.md": {
+   "W031": 1,
+   "W033": 5,
+   "P005": 1
+  },
+  "books/cardiac-surgery/cohn/chapters/chapter-28/chapter-28.md": {
+   "W031": 1,
+   "W033": 5
+  },
+  "books/cardiac-surgery/cohn/chapters/chapter-29/chapter-29-he.md": {
+   "W031": 2,
+   "W033": 11
+  },
+  "books/cardiac-surgery/cohn/chapters/chapter-29/chapter-29-ru.md": {
+   "W031": 2,
+   "W033": 11,
+   "P005": 1
+  },
+  "books/cardiac-surgery/cohn/chapters/chapter-29/chapter-29.md": {
+   "W031": 2,
+   "W033": 10
+  },
+  "books/cardiac-surgery/cohn/chapters/chapter-30/chapter-30-he.md": {
+   "W033": 5
+  },
+  "books/cardiac-surgery/cohn/chapters/chapter-30/chapter-30-ru.md": {
+   "W033": 5
+  },
+  "books/cardiac-surgery/cohn/chapters/chapter-30/chapter-30.md": {
+   "W033": 5
+  },
+  "books/cardiac-surgery/cohn/chapters/chapter-31/chapter-31-he.md": {
+   "W031": 1,
+   "W033": 2
+  },
+  "books/cardiac-surgery/cohn/chapters/chapter-31/chapter-31-ru.md": {
+   "W031": 1,
+   "W033": 2,
+   "P005": 1
+  },
+  "books/cardiac-surgery/cohn/chapters/chapter-31/chapter-31.md": {
+   "W031": 2,
+   "W033": 2
+  },
+  "books/cardiac-surgery/cohn/chapters/chapter-32/chapter-32-he.md": {
+   "W033": 3
+  },
+  "books/cardiac-surgery/cohn/chapters/chapter-32/chapter-32-ru.md": {
+   "W033": 3
+  },
+  "books/cardiac-surgery/cohn/chapters/chapter-32/chapter-32.md": {
+   "W033": 2
+  },
+  "books/cardiac-surgery/cohn/chapters/chapter-33/chapter-33-he.md": {
+   "W033": 4,
+   "P005": 1
+  },
+  "books/cardiac-surgery/cohn/chapters/chapter-33/chapter-33-ru.md": {
+   "W033": 4,
+   "P005": 1
+  },
+  "books/cardiac-surgery/cohn/chapters/chapter-33/chapter-33.md": {
+   "W033": 3
+  },
+  "books/cardiac-surgery/cohn/chapters/chapter-34/chapter-34-he.md": {
+   "W033": 7
+  },
+  "books/cardiac-surgery/cohn/chapters/chapter-34/chapter-34-ru.md": {
+   "W033": 7
+  },
+  "books/cardiac-surgery/cohn/chapters/chapter-34/chapter-34.md": {
+   "W033": 6
+  },
+  "books/cardiac-surgery/cohn/chapters/chapter-35/chapter-35-he.md": {
+   "W033": 6,
+   "P005": 1
+  },
+  "books/cardiac-surgery/cohn/chapters/chapter-35/chapter-35-ru.md": {
+   "W033": 6,
+   "P005": 1
+  },
+  "books/cardiac-surgery/cohn/chapters/chapter-35/chapter-35.md": {
+   "W033": 4
+  },
+  "books/cardiac-surgery/cohn/chapters/chapter-36/chapter-36-he.md": {
+   "P005": 1
+  },
+  "books/cardiac-surgery/cohn/chapters/chapter-36/chapter-36-ru.md": {
+   "P005": 1
+  },
+  "books/cardiac-surgery/cohn/chapters/chapter-37/chapter-37-he.md": {
+   "W033": 3
+  },
+  "books/cardiac-surgery/cohn/chapters/chapter-37/chapter-37-ru.md": {
+   "W033": 3,
+   "P005": 1
+  },
+  "books/cardiac-surgery/cohn/chapters/chapter-37/chapter-37.md": {
+   "W032": 1,
+   "W033": 3
+  },
+  "books/cardiac-surgery/cohn/chapters/chapter-38/chapter-38-he.md": {
+   "E004": 6,
+   "W033": 3,
+   "W031": 1
+  },
+  "books/cardiac-surgery/cohn/chapters/chapter-38/chapter-38-ru.md": {
+   "E004": 6,
+   "W033": 3,
+   "W031": 1,
+   "P005": 1
+  },
+  "books/cardiac-surgery/cohn/chapters/chapter-38/chapter-38.md": {
+   "E004": 6,
+   "W033": 3,
+   "W031": 1
+  },
+  "books/cardiac-surgery/cohn/chapters/chapter-39/chapter-39-he.md": {
+   "E004": 2,
+   "W033": 2
+  },
+  "books/cardiac-surgery/cohn/chapters/chapter-39/chapter-39-ru.md": {
+   "E004": 2,
+   "W033": 2
+  },
+  "books/cardiac-surgery/cohn/chapters/chapter-39/chapter-39.md": {
+   "E004": 2,
+   "W033": 2
+  },
+  "books/cardiac-surgery/cohn/chapters/chapter-40/chapter-40-he.md": {
+   "E004": 2,
+   "W031": 1,
+   "W033": 2
+  },
+  "books/cardiac-surgery/cohn/chapters/chapter-40/chapter-40-ru.md": {
+   "E004": 2,
+   "W031": 1,
+   "W033": 2
+  },
+  "books/cardiac-surgery/cohn/chapters/chapter-40/chapter-40.md": {
+   "E004": 2,
+   "W031": 1,
+   "W033": 2
+  },
+  "books/cardiac-surgery/cohn/chapters/chapter-41/chapter-41-he.md": {
+   "E004": 2,
+   "W031": 1
+  },
+  "books/cardiac-surgery/cohn/chapters/chapter-41/chapter-41-ru.md": {
+   "E004": 2,
+   "W031": 1
+  },
+  "books/cardiac-surgery/cohn/chapters/chapter-41/chapter-41.md": {
+   "E004": 2,
+   "W031": 1
+  },
+  "books/cardiac-surgery/cohn/chapters/chapter-42/chapter-42-he.md": {
+   "E004": 2,
+   "W033": 9
+  },
+  "books/cardiac-surgery/cohn/chapters/chapter-42/chapter-42-ru.md": {
+   "E004": 2,
+   "W033": 9,
+   "P005": 1
+  },
+  "books/cardiac-surgery/cohn/chapters/chapter-42/chapter-42.md": {
+   "E004": 2,
+   "W033": 8
+  },
+  "books/cardiac-surgery/cohn/chapters/chapter-43/chapter-43-he.md": {
+   "E004": 2,
+   "W031": 2,
+   "W033": 9
+  },
+  "books/cardiac-surgery/cohn/chapters/chapter-43/chapter-43-ru.md": {
+   "E004": 2,
+   "W031": 1,
+   "W033": 9,
+   "P005": 1
+  },
+  "books/cardiac-surgery/cohn/chapters/chapter-43/chapter-43.md": {
+   "E004": 2,
+   "W031": 1,
+   "W033": 9
+  },
+  "books/cardiac-surgery/cohn/chapters/chapter-44/chapter-44-he.md": {
+   "E004": 2,
+   "W033": 7
+  },
+  "books/cardiac-surgery/cohn/chapters/chapter-44/chapter-44-ru.md": {
+   "E004": 2,
+   "W031": 1,
+   "W033": 7,
+   "P005": 1
+  },
+  "books/cardiac-surgery/cohn/chapters/chapter-44/chapter-44.md": {
+   "E004": 2,
+   "W031": 1,
+   "W033": 7
+  },
+  "books/cardiac-surgery/cohn/chapters/chapter-45/chapter-45-he.md": {
+   "E004": 4,
+   "W033": 5,
+   "W031": 1
+  },
+  "books/cardiac-surgery/cohn/chapters/chapter-45/chapter-45-ru.md": {
+   "E004": 4,
+   "W033": 5,
+   "W031": 1,
+   "P005": 1
+  },
+  "books/cardiac-surgery/cohn/chapters/chapter-45/chapter-45.md": {
+   "E004": 4,
+   "W033": 5,
+   "W031": 1
+  },
+  "books/cardiac-surgery/cohn/chapters/chapter-46/chapter-46-he.md": {
+   "E004": 2,
+   "W031": 2,
+   "W033": 6
+  },
+  "books/cardiac-surgery/cohn/chapters/chapter-46/chapter-46-ru.md": {
+   "E004": 2,
+   "W031": 4,
+   "W033": 6,
+   "P005": 1
+  },
+  "books/cardiac-surgery/cohn/chapters/chapter-46/chapter-46.md": {
+   "E004": 2,
+   "W031": 4,
+   "W033": 5
+  },
+  "books/cardiac-surgery/cohn/chapters/chapter-47/chapter-47-he.md": {
+   "E004": 304,
+   "W031": 4,
+   "W033": 1,
+   "P005": 1
+  },
+  "books/cardiac-surgery/cohn/chapters/chapter-47/chapter-47-ru.md": {
+   "E004": 304,
+   "W031": 6,
+   "W033": 1,
+   "P005": 1
+  },
+  "books/cardiac-surgery/cohn/chapters/chapter-47/chapter-47.md": {
+   "E004": 304,
+   "W031": 6,
+   "W033": 1,
+   "W032": 1
+  },
+  "books/cardiac-surgery/cohn/chapters/chapter-48/chapter-48-he.md": {
+   "E004": 236,
+   "W031": 2,
+   "W033": 3,
+   "P005": 1
+  },
+  "books/cardiac-surgery/cohn/chapters/chapter-48/chapter-48-ru.md": {
+   "E004": 236,
+   "W031": 3,
+   "W033": 3,
+   "P005": 1,
+   "P004": 1
+  },
+  "books/cardiac-surgery/cohn/chapters/chapter-48/chapter-48.md": {
+   "E004": 236,
+   "W031": 3,
+   "W033": 3
+  },
+  "books/cardiac-surgery/cohn/chapters/chapter-49/chapter-49-he.md": {
+   "E004": 2,
+   "P005": 1
+  },
+  "books/cardiac-surgery/cohn/chapters/chapter-49/chapter-49-ru.md": {
+   "P005": 1
+  },
+  "books/cardiac-surgery/cohn/chapters/chapter-49/chapter-49.md": {
+   "E004": 2
+  },
+  "books/cardiac-surgery/cohn/chapters/chapter-50/chapter-50-he.md": {
+   "E004": 2
+  },
+  "books/cardiac-surgery/cohn/chapters/chapter-50/chapter-50-ru.md": {
+   "E004": 2,
+   "P005": 1
+  },
+  "books/cardiac-surgery/cohn/chapters/chapter-50/chapter-50.md": {
+   "E004": 2
+  },
+  "books/cardiac-surgery/cohn/chapters/chapter-51/chapter-51-he.md": {
+   "E004": 2,
+   "W033": 11
+  },
+  "books/cardiac-surgery/cohn/chapters/chapter-51/chapter-51-ru.md": {
+   "E004": 2,
+   "W033": 11,
+   "P005": 1
+  },
+  "books/cardiac-surgery/cohn/chapters/chapter-51/chapter-51.md": {
+   "E004": 2,
+   "W033": 10
+  },
+  "books/cardiac-surgery/cohn/chapters/chapter-52/chapter-52-he.md": {
+   "E004": 2,
+   "W033": 6,
+   "W031": 5,
+   "P002": 1,
+   "P003": 1,
+   "P005": 1
+  },
+  "books/cardiac-surgery/cohn/chapters/chapter-52/chapter-52-ru.md": {
+   "E004": 2,
+   "W033": 13
+  },
+  "books/cardiac-surgery/cohn/chapters/chapter-52/chapter-52.md": {
+   "E004": 2,
+   "W033": 11
+  },
+  "books/cardiac-surgery/cohn/chapters/chapter-53/chapter-53-he.md": {
+   "E004": 2,
+   "W033": 5
+  },
+  "books/cardiac-surgery/cohn/chapters/chapter-53/chapter-53-ru.md": {
+   "E004": 2,
+   "W031": 1,
+   "W033": 5,
+   "P005": 1
+  },
+  "books/cardiac-surgery/cohn/chapters/chapter-53/chapter-53.md": {
+   "E004": 2,
+   "W033": 3,
+   "W032": 1
+  },
+  "books/cardiac-surgery/cohn/chapters/chapter-54/chapter-54-he.md": {
+   "E004": 2,
+   "W033": 1
+  },
+  "books/cardiac-surgery/cohn/chapters/chapter-54/chapter-54-ru.md": {
+   "E004": 2,
+   "W033": 1,
+   "P005": 1
+  },
+  "books/cardiac-surgery/cohn/chapters/chapter-54/chapter-54.md": {
+   "E004": 2
+  },
+  "books/cardiac-surgery/cohn/chapters/chapter-55/chapter-55-he.md": {
+   "E004": 2,
+   "W031": 1,
+   "W033": 6,
+   "P005": 1
+  },
+  "books/cardiac-surgery/cohn/chapters/chapter-55/chapter-55-ru.md": {
+   "E004": 2,
+   "W033": 6,
+   "P005": 1
+  },
+  "books/cardiac-surgery/cohn/chapters/chapter-55/chapter-55.md": {
+   "E004": 2,
+   "W031": 1,
+   "W033": 5,
+   "W032": 1
+  },
+  "books/cardiac-surgery/cohn/chapters/chapter-56/chapter-56-he.md": {
+   "E004": 2
+  },
+  "books/cardiac-surgery/cohn/chapters/chapter-56/chapter-56-ru.md": {
+   "E004": 2,
+   "P005": 1
+  },
+  "books/cardiac-surgery/cohn/chapters/chapter-56/chapter-56.md": {
+   "E004": 2
+  },
+  "books/cardiac-surgery/cohn/chapters/chapter-57/chapter-57-he.md": {
+   "E004": 2,
+   "W033": 1,
+   "W031": 1
+  },
+  "books/cardiac-surgery/cohn/chapters/chapter-57/chapter-57-ru.md": {
+   "E004": 2,
+   "W033": 1,
+   "W031": 1,
+   "P005": 1
+  },
+  "books/cardiac-surgery/cohn/chapters/chapter-57/chapter-57.md": {
+   "E004": 2,
+   "W031": 2,
+   "W033": 1
+  },
+  "books/cardiac-surgery/cohn/chapters/chapter-58/chapter-58-he.md": {
+   "E004": 2,
+   "W033": 7
+  },
+  "books/cardiac-surgery/cohn/chapters/chapter-58/chapter-58-ru.md": {
+   "E004": 2,
+   "W033": 7
+  },
+  "books/cardiac-surgery/cohn/chapters/chapter-58/chapter-58.md": {
+   "E004": 2,
+   "W033": 6
+  },
+  "books/cardiac-surgery/cohn/chapters/chapter-59/chapter-59-he.md": {
+   "E004": 2,
+   "W033": 5
+  },
+  "books/cardiac-surgery/cohn/chapters/chapter-59/chapter-59-ru.md": {
+   "E004": 2,
+   "W033": 5,
+   "P005": 1
+  },
+  "books/cardiac-surgery/cohn/chapters/chapter-59/chapter-59.md": {
+   "E004": 2,
+   "W033": 4
+  },
+  "books/cardiac-surgery/cohn/chapters/chapter-60/chapter-60-he.md": {
+   "E004": 24,
+   "W033": 17
+  },
+  "books/cardiac-surgery/cohn/chapters/chapter-60/chapter-60-ru.md": {
+   "E004": 24,
+   "W031": 3,
+   "W033": 17,
+   "P005": 1
+  },
+  "books/cardiac-surgery/cohn/chapters/chapter-60/chapter-60.md": {
+   "E004": 24,
+   "W031": 3,
+   "W033": 17
+  },
+  "books/cardiac-surgery/cohn/chapters/chapter-61/chapter-61-he.md": {
+   "E004": 18,
+   "W033": 13,
+   "W031": 1,
+   "P005": 1
+  },
+  "books/cardiac-surgery/cohn/chapters/chapter-61/chapter-61-ru.md": {
+   "E004": 18,
+   "W033": 13,
+   "W031": 1,
+   "P005": 1
+  },
+  "books/cardiac-surgery/cohn/chapters/chapter-61/chapter-61.md": {
+   "E004": 18,
+   "W033": 11,
+   "W031": 1
+  },
+  "books/cardiac-surgery/cohn/chapters/chapter-62/chapter-62-he.md": {
+   "E004": 12,
+   "W031": 1,
+   "W033": 4
+  },
+  "books/cardiac-surgery/cohn/chapters/chapter-62/chapter-62-ru.md": {
+   "E004": 12,
+   "W031": 6,
+   "W033": 4,
+   "P005": 1
+  },
+  "books/cardiac-surgery/cohn/chapters/chapter-62/chapter-62.md": {
+   "E004": 12,
+   "W031": 6,
+   "W032": 1,
+   "W033": 4
+  },
+  "books/cardiac-surgery/cohn/chapters/chapter-63/chapter-63-he.md": {
+   "E004": 2,
+   "W033": 2,
+   "P005": 1
+  },
+  "books/cardiac-surgery/cohn/chapters/chapter-63/chapter-63-ru.md": {
+   "E004": 2,
+   "W033": 2,
+   "P005": 1
+  },
+  "books/cardiac-surgery/cohn/chapters/chapter-63/chapter-63.md": {
+   "E004": 2,
+   "W031": 1,
+   "W033": 2
+  },
+  "books/cardiac-surgery/sellke/chapters/chapter-01/chapter-01-ru.md": {
+   "W033": 2
+  },
+  "books/cardiac-surgery/sellke/chapters/chapter-01/chapter-01.md": {
+   "W033": 2
+  },
+  "books/cardiac-surgery/sellke/chapters/chapter-02/chapter-02-ru.md": {
+   "W031": 1,
+   "W033": 7
+  },
+  "books/cardiac-surgery/sellke/chapters/chapter-02/chapter-02.md": {
+   "W031": 1,
+   "W033": 7
+  },
+  "books/cardiac-surgery/sellke/chapters/chapter-03/chapter-03-ru.md": {
+   "P005": 1
+  },
+  "books/cardiac-surgery/sellke/chapters/chapter-03/chapter-03.md": {
+   "W031": 1
+  },
+  "books/cardiac-surgery/sellke/chapters/chapter-04/chapter-04-ru.md": {
+   "P005": 1
+  },
+  "books/cardiac-surgery/sellke/chapters/chapter-05/chapter-05.md": {
+   "W031": 1
+  },
+  "books/cardiac-surgery/sellke/chapters/chapter-06/chapter-06-ru.md": {
+   "W031": 1,
+   "W033": 1,
+   "P005": 1
+  },
+  "books/cardiac-surgery/sellke/chapters/chapter-06/chapter-06.md": {
+   "W031": 1,
+   "W033": 1
+  },
+  "books/cardiac-surgery/sellke/chapters/chapter-07/chapter-07-ru.md": {
+   "W033": 1
+  },
+  "books/cardiac-surgery/sellke/chapters/chapter-07/chapter-07.md": {
+   "W033": 1
+  },
+  "books/cardiac-surgery/sellke/chapters/chapter-08/chapter-08-ru.md": {
+   "W031": 1
+  },
+  "books/cardiac-surgery/sellke/chapters/chapter-08/chapter-08.md": {
+   "W031": 2
+  },
+  "books/cardiac-surgery/sellke/chapters/chapter-09/chapter-09-ru.md": {
+   "W031": 1,
+   "P005": 1
+  },
+  "books/cardiac-surgery/sellke/chapters/chapter-09/chapter-09.md": {
+   "W031": 1
+  },
+  "books/cardiac-surgery/sellke/chapters/chapter-11/chapter-11-ru.md": {
+   "W033": 2
+  },
+  "books/cardiac-surgery/sellke/chapters/chapter-11/chapter-11.md": {
+   "W031": 1,
+   "W033": 2
+  },
+  "books/cardiac-surgery/sellke/chapters/chapter-13/chapter-13-ru.md": {
+   "W031": 2
+  },
+  "books/cardiac-surgery/sellke/chapters/chapter-13/chapter-13.md": {
+   "W031": 2
+  },
+  "books/cardiac-surgery/sellke/chapters/chapter-15/chapter-15-ru.md": {
+   "W031": 3
+  },
+  "books/cardiac-surgery/sellke/chapters/chapter-15/chapter-15.md": {
+   "W031": 3
+  },
+  "books/cardiac-surgery/sellke/chapters/chapter-16/chapter-16-ru.md": {
+   "W031": 3
+  },
+  "books/cardiac-surgery/sellke/chapters/chapter-16/chapter-16.md": {
+   "W031": 3
+  },
+  "books/cardiac-surgery/sellke/chapters/chapter-17/chapter-17-ru.md": {
+   "W033": 2
+  },
+  "books/cardiac-surgery/sellke/chapters/chapter-17/chapter-17.md": {
+   "W031": 1,
+   "W033": 2
+  },
+  "books/cardiac-surgery/sellke/chapters/chapter-18/chapter-18-ru.md": {
+   "W031": 3,
+   "W033": 8
+  },
+  "books/cardiac-surgery/sellke/chapters/chapter-18/chapter-18.md": {
+   "W031": 3,
+   "W033": 8
+  },
+  "books/cardiac-surgery/sellke/chapters/chapter-19/chapter-19-ru.md": {
+   "W033": 2
+  },
+  "books/cardiac-surgery/sellke/chapters/chapter-19/chapter-19.md": {
+   "W033": 2
+  },
+  "books/cardiac-surgery/sellke/chapters/chapter-20/chapter-20-ru.md": {
+   "W031": 1,
+   "W033": 4
+  },
+  "books/cardiac-surgery/sellke/chapters/chapter-20/chapter-20.md": {
+   "W031": 1,
+   "W033": 4
+  },
+  "books/cardiac-surgery/sellke/chapters/chapter-21/chapter-21-ru.md": {
+   "E021": 1,
+   "W033": 4,
+   "P005": 1
+  },
+  "books/cardiac-surgery/sellke/chapters/chapter-21/chapter-21.md": {
+   "E021": 1,
+   "W033": 4
+  },
+  "books/cardiac-surgery/sellke/chapters/chapter-22/chapter-22-ru.md": {
+   "W033": 9,
+   "P005": 1
+  },
+  "books/cardiac-surgery/sellke/chapters/chapter-22/chapter-22.md": {
+   "W033": 9
+  },
+  "books/cardiac-surgery/sellke/chapters/chapter-23/chapter-23-ru.md": {
+   "E002": 1,
+   "E001": 1,
+   "E021": 1,
+   "W031": 3,
+   "W033": 6
+  },
+  "books/cardiac-surgery/sellke/chapters/chapter-23/chapter-23.md": {
+   "E021": 1,
+   "W031": 3,
+   "W033": 6
+  },
+  "books/cardiac-surgery/sellke/chapters/chapter-24/chapter-24-ru.md": {
+   "W033": 5,
+   "P005": 1
+  },
+  "books/cardiac-surgery/sellke/chapters/chapter-24/chapter-24.md": {
+   "W033": 5
+  },
+  "books/cardiac-surgery/sellke/chapters/chapter-25/chapter-25-ru.md": {
+   "W031": 1,
+   "W033": 4,
+   "P005": 1
+  },
+  "books/cardiac-surgery/sellke/chapters/chapter-25/chapter-25.md": {
+   "W031": 1,
+   "W033": 4
+  },
+  "books/cardiac-surgery/sellke/chapters/chapter-26/chapter-26-ru.md": {
+   "W031": 1,
+   "W033": 4,
+   "P005": 1
+  },
+  "books/cardiac-surgery/sellke/chapters/chapter-26/chapter-26.md": {
+   "W031": 1,
+   "W033": 4
+  },
+  "books/cardiac-surgery/sellke/chapters/chapter-27/chapter-27-ru.md": {
+   "W033": 8,
+   "P005": 1
+  },
+  "books/cardiac-surgery/sellke/chapters/chapter-27/chapter-27.md": {
+   "W033": 8
+  },
+  "books/cardiac-surgery/sellke/chapters/chapter-29/chapter-29-ru.md": {
+   "W031": 1,
+   "W033": 7
+  },
+  "books/cardiac-surgery/sellke/chapters/chapter-29/chapter-29.md": {
+   "W031": 1,
+   "W033": 7
+  },
+  "books/cardiac-surgery/sellke/chapters/chapter-30/chapter-30-ru.md": {
+   "W031": 1,
+   "W033": 3
+  },
+  "books/cardiac-surgery/sellke/chapters/chapter-30/chapter-30.md": {
+   "W031": 1,
+   "W033": 3
+  },
+  "books/cardiac-surgery/sellke/chapters/chapter-31/chapter-31-ru.md": {
+   "E021": 1,
+   "W033": 3,
+   "P005": 1
+  },
+  "books/cardiac-surgery/sellke/chapters/chapter-31/chapter-31.md": {
+   "E021": 1,
+   "W033": 3
+  },
+  "books/cardiac-surgery/sellke/chapters/chapter-32/chapter-32-ru.md": {
+   "W031": 1,
+   "W033": 2
+  },
+  "books/cardiac-surgery/sellke/chapters/chapter-32/chapter-32.md": {
+   "W031": 1,
+   "W033": 2
+  },
+  "books/cardiac-surgery/sellke/chapters/chapter-33/chapter-33-ru.md": {
+   "W031": 1,
+   "W033": 15,
+   "P005": 1
+  },
+  "books/cardiac-surgery/sellke/chapters/chapter-33/chapter-33.md": {
+   "W031": 1,
+   "W033": 15
+  },
+  "books/cardiac-surgery/sellke/chapters/chapter-34/chapter-34-ru.md": {
+   "E021": 1,
+   "W031": 3,
+   "W033": 2
+  },
+  "books/cardiac-surgery/sellke/chapters/chapter-34/chapter-34.md": {
+   "E021": 1,
+   "W031": 4,
+   "W033": 2
+  },
+  "books/cardiology/Hurst/chapters/chapter-01/chapter-01-01-ru.md": {
+   "W033": 3,
+   "P005": 1
+  },
+  "books/cardiology/Hurst/chapters/chapter-01/chapter-01-01.md": {
+   "W033": 3
+  },
+  "books/cardiology/Hurst/chapters/chapter-01/chapter-01-02-ru.md": {
+   "W033": 7,
+   "W031": 3,
+   "P005": 1
+  },
+  "books/cardiology/Hurst/chapters/chapter-01/chapter-01-02.md": {
+   "W033": 7,
+   "W031": 3
+  },
+  "books/cardiology/Hurst/chapters/chapter-01/chapter-01-03-ru.md": {
+   "W033": 3,
+   "W031": 1,
+   "P005": 1
+  },
+  "books/cardiology/Hurst/chapters/chapter-01/chapter-01-03.md": {
+   "W033": 3,
+   "W031": 1
+  },
+  "books/cardiology/Hurst/chapters/chapter-02/chapter-02-01-ru.md": {
+   "W033": 6,
+   "P005": 1
+  },
+  "books/cardiology/Hurst/chapters/chapter-02/chapter-02-01.md": {
+   "W033": 2
+  },
+  "books/cardiology/Hurst/chapters/chapter-02/chapter-02-02-ru.md": {
+   "W031": 5,
+   "W033": 10,
+   "P005": 1
+  },
+  "books/cardiology/Hurst/chapters/chapter-02/chapter-02-02.md": {
+   "W031": 5,
+   "W033": 10
+  },
+  "books/cardiology/Hurst/chapters/chapter-02/chapter-02-03-ru.md": {
+   "W031": 1,
+   "W033": 5
+  },
+  "books/cardiology/Hurst/chapters/chapter-02/chapter-02-03.md": {
+   "W031": 1,
+   "W033": 4
+  },
+  "books/cardiology/Hurst/chapters/chapter-02/chapter-02-04-ru.md": {
+   "W031": 2,
+   "W033": 4,
+   "P005": 1
+  },
+  "books/cardiology/Hurst/chapters/chapter-02/chapter-02-04.md": {
+   "W031": 2,
+   "W033": 3
+  },
+  "books/cardiology/Hurst/chapters/chapter-02/chapter-02-05-ru.md": {
+   "W031": 1,
+   "W033": 4
+  },
+  "books/cardiology/Hurst/chapters/chapter-02/chapter-02-05.md": {
+   "W031": 1,
+   "W033": 4
+  },
+  "books/cardiology/Hurst/chapters/chapter-02/chapter-02-06-ru.md": {
+   "E021": 1,
+   "W031": 3,
+   "W033": 2
+  },
+  "books/cardiology/Hurst/chapters/chapter-02/chapter-02-06.md": {
+   "E021": 1,
+   "W031": 3,
+   "W033": 2
+  },
+  "books/cardiology/Hurst/chapters/chapter-02/chapter-02-07-ru.md": {
+   "W033": 2
+  },
+  "books/cardiology/Hurst/chapters/chapter-02/chapter-02-07.md": {
+   "W033": 2
+  },
+  "books/cardiology/Hurst/chapters/chapter-03/chapter-03-01-ru.md": {
+   "W033": 16
+  },
+  "books/cardiology/Hurst/chapters/chapter-03/chapter-03-01.md": {
+   "W033": 9
+  },
+  "books/cardiology/Hurst/chapters/chapter-03/chapter-03-02-ru.md": {
+   "W033": 24,
+   "P005": 1
+  },
+  "books/cardiology/Hurst/chapters/chapter-03/chapter-03-02.md": {
+   "W033": 22
+  },
+  "books/cardiology/Hurst/chapters/chapter-03/chapter-03-03-ru.md": {
+   "W031": 3,
+   "W033": 10
+  },
+  "books/cardiology/Hurst/chapters/chapter-03/chapter-03-03.md": {
+   "W031": 2,
+   "W033": 8
+  },
+  "books/cardiology/Hurst/chapters/chapter-03/chapter-03-04-ru.md": {
+   "E021": 1,
+   "W031": 1,
+   "W033": 2
+  },
+  "books/cardiology/Hurst/chapters/chapter-03/chapter-03-04.md": {
+   "E021": 1,
+   "W031": 1,
+   "W033": 2
+  },
+  "books/cardiology/Hurst/chapters/chapter-03/chapter-03-05-ru.md": {
+   "E002": 1,
+   "E001": 1,
+   "W031": 8,
+   "W033": 13,
+   "P005": 1
+  },
+  "books/cardiology/Hurst/chapters/chapter-03/chapter-03-05.md": {
+   "E002": 1,
+   "E001": 1,
+   "W031": 7,
+   "W033": 7
+  },
+  "books/cardiology/Hurst/chapters/chapter-03/chapter-03-06-ru.md": {
+   "W031": 5,
+   "W033": 5
+  },
+  "books/cardiology/Hurst/chapters/chapter-03/chapter-03-06.md": {
+   "W031": 6,
+   "W033": 4
+  },
+  "books/cardiology/Hurst/chapters/chapter-03/chapter-03-07-ru.md": {
+   "W033": 9,
+   "P005": 1
+  },
+  "books/cardiology/Hurst/chapters/chapter-03/chapter-03-07.md": {
+   "W033": 8
+  },
+  "books/cardiology/Hurst/chapters/chapter-03/chapter-03-08-ru.md": {
+   "E001": 1,
+   "E003": 1,
+   "W033": 14,
+   "W030": 2,
+   "P002": 1,
+   "P005": 1
+  },
+  "books/cardiology/Hurst/chapters/chapter-03/chapter-03-08.md": {
+   "E020": 2,
+   "E001": 1,
+   "E003": 1,
+   "W033": 11
+  },
+  "books/cardiology/Hurst/chapters/chapter-03/chapter-03-09-ru.md": {
+   "W031": 5,
+   "W033": 12,
+   "P005": 1
+  },
+  "books/cardiology/Hurst/chapters/chapter-03/chapter-03-09.md": {
+   "W031": 5,
+   "W033": 8
+  },
+  "books/cardiology/Hurst/chapters/chapter-03/chapter-03-10-ru.md": {
+   "E001": 1,
+   "E003": 1,
+   "W031": 2,
+   "W033": 14,
+   "P005": 1
+  },
+  "books/cardiology/Hurst/chapters/chapter-03/chapter-03-10.md": {
+   "E001": 1,
+   "E003": 1,
+   "W031": 2,
+   "W033": 14
+  },
+  "books/cardiology/Hurst/chapters/chapter-03/chapter-03-11-ru.md": {
+   "W033": 5,
+   "P005": 1
+  },
+  "books/cardiology/Hurst/chapters/chapter-03/chapter-03-11.md": {
+   "W033": 5
+  },
+  "books/cardiology/Hurst/chapters/chapter-03/chapter-03-12-ru.md": {
+   "W033": 5,
+   "P005": 1
+  },
+  "books/cardiology/Hurst/chapters/chapter-03/chapter-03-12.md": {
+   "W033": 5
+  },
+  "books/cardiology/Hurst/chapters/chapter-04/chapter-04-01-ru.md": {
+   "E002": 1,
+   "E001": 1,
+   "W031": 7,
+   "W033": 3,
+   "P005": 1
+  },
+  "books/cardiology/Hurst/chapters/chapter-04/chapter-04-01.md": {
+   "E002": 1,
+   "E001": 1,
+   "W031": 7,
+   "W033": 3
+  },
+  "books/cardiology/Hurst/chapters/chapter-04/chapter-04-02-ru.md": {
+   "W031": 3,
+   "W033": 30,
+   "P005": 1
+  },
+  "books/cardiology/Hurst/chapters/chapter-04/chapter-04-02.md": {
+   "W031": 3,
+   "W033": 29
+  },
+  "books/cardiology/Hurst/chapters/chapter-04/chapter-04-03-ru.md": {
+   "W033": 2,
+   "P005": 1
+  },
+  "books/cardiology/Hurst/chapters/chapter-04/chapter-04-03.md": {
+   "W033": 2
+  },
+  "books/cardiology/Hurst/chapters/chapter-05/chapter-05-01-ru.md": {
+   "W031": 3,
+   "W033": 7,
+   "P005": 1
+  },
+  "books/cardiology/Hurst/chapters/chapter-05/chapter-05-01.md": {
+   "W031": 3,
+   "W033": 7
+  },
+  "books/cardiology/Hurst/chapters/chapter-05/chapter-05-02-ru.md": {
+   "W031": 2,
+   "W033": 1
+  },
+  "books/cardiology/Hurst/chapters/chapter-05/chapter-05-02.md": {
+   "W031": 2,
+   "W033": 1
+  },
+  "books/cardiology/Hurst/chapters/chapter-05/chapter-05-03-ru.md": {
+   "E001": 1,
+   "E003": 1,
+   "W031": 2,
+   "W033": 13,
+   "P005": 1
+  },
+  "books/cardiology/Hurst/chapters/chapter-05/chapter-05-03.md": {
+   "E001": 1,
+   "E003": 1,
+   "W031": 2,
+   "W033": 12
+  },
+  "books/cardiology/Hurst/chapters/chapter-05/chapter-05-04-ru.md": {
+   "W031": 1,
+   "W033": 7
+  },
+  "books/cardiology/Hurst/chapters/chapter-05/chapter-05-04.md": {
+   "W031": 3,
+   "W033": 7
+  },
+  "books/cardiology/Hurst/chapters/chapter-06/chapter-06-01-ru.md": {
+   "W031": 6,
+   "P005": 1
+  },
+  "books/cardiology/Hurst/chapters/chapter-06/chapter-06-01.md": {
+   "W031": 7
+  },
+  "books/cardiology/Hurst/chapters/chapter-06/chapter-06-02-ru.md": {
+   "W031": 2,
+   "W033": 1,
+   "P005": 1
+  },
+  "books/cardiology/Hurst/chapters/chapter-06/chapter-06-02.md": {
+   "W031": 2,
+   "W033": 1
+  },
+  "books/cardiology/Hurst/chapters/chapter-07/chapter-07-01-ru.md": {
+   "W031": 4,
+   "W033": 1
+  },
+  "books/cardiology/Hurst/chapters/chapter-07/chapter-07-01.md": {
+   "W031": 3,
+   "W033": 1
+  },
+  "books/cardiology/Hurst/chapters/chapter-07/chapter-07-02-ru.md": {
+   "W031": 1,
+   "W033": 7,
+   "P005": 1
+  },
+  "books/cardiology/Hurst/chapters/chapter-07/chapter-07-02.md": {
+   "W031": 1,
+   "W033": 5
+  },
+  "books/cardiology/Hurst/chapters/chapter-07/chapter-07-03-ru.md": {
+   "W031": 3,
+   "W033": 16
+  },
+  "books/cardiology/Hurst/chapters/chapter-07/chapter-07-03.md": {
+   "W031": 4,
+   "W033": 16
+  },
+  "books/cardiology/Hurst/chapters/chapter-07/chapter-07-04-ru.md": {
+   "W031": 3,
+   "W033": 2,
+   "W032": 1,
+   "P005": 1
+  },
+  "books/cardiology/Hurst/chapters/chapter-07/chapter-07-04.md": {
+   "W031": 3,
+   "W032": 1,
+   "W033": 1
+  },
+  "books/cardiology/Hurst/chapters/chapter-07/chapter-07-05-ru.md": {
+   "W031": 1,
+   "W033": 2,
+   "P005": 1
+  },
+  "books/cardiology/Hurst/chapters/chapter-07/chapter-07-05.md": {
+   "W031": 1,
+   "W033": 2
+  },
+  "books/cardiology/Hurst/chapters/chapter-07/chapter-07-06-ru.md": {
+   "W031": 4,
+   "W033": 4,
+   "P005": 1
+  },
+  "books/cardiology/Hurst/chapters/chapter-07/chapter-07-06.md": {
+   "W031": 4,
+   "W033": 4
+  },
+  "books/cardiology/Hurst/chapters/chapter-07/chapter-07-07-ru.md": {
+   "W031": 1,
+   "W033": 6,
+   "P005": 1
+  },
+  "books/cardiology/Hurst/chapters/chapter-07/chapter-07-07.md": {
+   "W031": 2,
+   "W033": 5,
+   "W032": 1
+  },
+  "books/cardiology/Hurst/chapters/chapter-07/chapter-07-08-ru.md": {
+   "W031": 1,
+   "W033": 8,
+   "P005": 1
+  },
+  "books/cardiology/Hurst/chapters/chapter-07/chapter-07-08.md": {
+   "W031": 2,
+   "W033": 7
+  },
+  "books/cardiology/Hurst/chapters/chapter-07/chapter-07-09-ru.md": {
+   "W031": 3,
+   "W033": 31,
+   "P005": 1
+  },
+  "books/cardiology/Hurst/chapters/chapter-07/chapter-07-09.md": {
+   "W031": 3,
+   "W032": 1,
+   "W033": 30
+  },
+  "books/cardiology/Hurst/chapters/chapter-07/chapter-07-10-ru.md": {
+   "W031": 8,
+   "W033": 18,
+   "P005": 1
+  },
+  "books/cardiology/Hurst/chapters/chapter-07/chapter-07-10.md": {
+   "W031": 3,
+   "W033": 17
+  },
+  "books/cardiology/Hurst/chapters/chapter-07/chapter-07-11-ru.md": {
+   "W031": 1,
+   "W033": 8,
+   "P005": 1
+  },
+  "books/cardiology/Hurst/chapters/chapter-07/chapter-07-11.md": {
+   "W031": 1,
+   "W033": 7
+  },
+  "books/cardiology/Hurst/chapters/chapter-07/chapter-07-12-ru.md": {
+   "W031": 4,
+   "W033": 5,
+   "P005": 1
+  },
+  "books/cardiology/Hurst/chapters/chapter-07/chapter-07-12.md": {
+   "W031": 4,
+   "W033": 5
+  },
+  "books/cardiology/Hurst/chapters/chapter-07/chapter-07-13-ru.md": {
+   "W031": 2,
+   "W033": 3,
+   "P005": 1
+  },
+  "books/cardiology/Hurst/chapters/chapter-07/chapter-07-13.md": {
+   "W031": 2,
+   "W033": 3
+  },
+  "books/cardiology/Hurst/chapters/chapter-07/chapter-07-14-ru.md": {
+   "W033": 5,
+   "W031": 1,
+   "P005": 1
+  },
+  "books/cardiology/Hurst/chapters/chapter-07/chapter-07-14.md": {
+   "W033": 5,
+   "W031": 2
+  },
+  "books/cardiology/Hurst/chapters/chapter-08/chapter-08-01-ru.md": {
+   "E020": 1,
+   "E021": 1,
+   "W033": 2,
+   "P005": 1
+  },
+  "books/cardiology/Hurst/chapters/chapter-08/chapter-08-01.md": {
+   "E020": 1,
+   "E021": 1,
+   "W033": 2
+  },
+  "books/cardiology/Hurst/chapters/chapter-08/chapter-08-02-ru.md": {
+   "W031": 3,
+   "W033": 5
+  },
+  "books/cardiology/Hurst/chapters/chapter-08/chapter-08-02.md": {
+   "W031": 3,
+   "W033": 5
+  },
+  "books/cardiology/Hurst/chapters/chapter-08/chapter-08-03-ru.md": {
+   "W031": 3,
+   "W033": 1
+  },
+  "books/cardiology/Hurst/chapters/chapter-08/chapter-08-03.md": {
+   "W031": 4,
+   "W033": 1
+  },
+  "books/cardiology/Hurst/chapters/chapter-08/chapter-08-04-ru.md": {
+   "W033": 2,
+   "P005": 1
+  },
+  "books/cardiology/Hurst/chapters/chapter-08/chapter-08-04.md": {
+   "W033": 2
+  },
+  "books/cardiology/Hurst/chapters/chapter-08/chapter-08-05-ru.md": {
+   "W033": 5
+  },
+  "books/cardiology/Hurst/chapters/chapter-08/chapter-08-05.md": {
+   "W033": 5
+  },
+  "books/cardiology/Hurst/chapters/chapter-08/chapter-08-06-ru.md": {
+   "W033": 1
+  },
+  "books/cardiology/Hurst/chapters/chapter-08/chapter-08-06.md": {
+   "W033": 1
+  },
+  "books/cardiology/Hurst/chapters/chapter-08/chapter-08-07-ru.md": {
+   "W031": 1,
+   "W033": 7,
+   "P005": 1
+  },
+  "books/cardiology/Hurst/chapters/chapter-08/chapter-08-07.md": {
+   "W031": 1,
+   "W033": 7
+  },
+  "books/cardiology/Hurst/chapters/chapter-08/chapter-08-08-ru.md": {
+   "W033": 3
+  },
+  "books/cardiology/Hurst/chapters/chapter-08/chapter-08-08.md": {
+   "W033": 3
+  },
+  "books/cardiology/Hurst/chapters/chapter-08/chapter-08-09-ru.md": {
+   "W031": 1,
+   "W033": 1
+  },
+  "books/cardiology/Hurst/chapters/chapter-08/chapter-08-09.md": {
+   "W031": 1,
+   "W033": 1
+  },
+  "books/cardiology/Hurst/chapters/chapter-09/chapter-09-01-ru.md": {
+   "W031": 14,
+   "W033": 19,
+   "P005": 1
+  },
+  "books/cardiology/Hurst/chapters/chapter-09/chapter-09-01.md": {
+   "W031": 17,
+   "W033": 19
+  },
+  "books/cardiology/Hurst/chapters/chapter-09/chapter-09-02-ru.md": {
+   "W033": 6,
+   "W031": 2,
+   "P005": 1
+  },
+  "books/cardiology/Hurst/chapters/chapter-09/chapter-09-02.md": {
+   "W033": 6,
+   "W031": 2
+  },
+  "books/cardiology/Hurst/chapters/chapter-10/chapter-10-01-ru.md": {
+   "P005": 1
+  },
+  "books/cardiology/Hurst/chapters/chapter-10/chapter-10-02-ru.md": {
+   "E001": 1,
+   "E003": 1,
+   "W031": 7,
+   "W033": 3,
+   "P005": 1
+  },
+  "books/cardiology/Hurst/chapters/chapter-10/chapter-10-02.md": {
+   "E001": 1,
+   "E003": 1,
+   "W031": 7,
+   "W033": 3
+  },
+  "books/cardiology/Hurst/chapters/chapter-10/chapter-10-03-ru.md": {
+   "W031": 4,
+   "W033": 4,
+   "P005": 1
+  },
+  "books/cardiology/Hurst/chapters/chapter-10/chapter-10-03.md": {
+   "W031": 4,
+   "W033": 3
+  },
+  "books/cardiology/Hurst/chapters/chapter-10/chapter-10-04-ru.md": {
+   "W031": 1,
+   "W033": 2
+  },
+  "books/cardiology/Hurst/chapters/chapter-10/chapter-10-04.md": {
+   "W031": 1,
+   "W033": 2
+  },
+  "books/cardiology/Hurst/chapters/chapter-10/chapter-10-05-ru.md": {
+   "W031": 2,
+   "W033": 8,
+   "P005": 1
+  },
+  "books/cardiology/Hurst/chapters/chapter-10/chapter-10-05.md": {
+   "W031": 2,
+   "W033": 8
+  },
+  "books/cardiology/Hurst/chapters/chapter-10/chapter-10-06-ru.md": {
+   "W031": 2,
+   "W033": 3
+  },
+  "books/cardiology/Hurst/chapters/chapter-10/chapter-10-06.md": {
+   "W031": 2,
+   "W033": 3
+  },
+  "books/cardiology/Hurst/chapters/chapter-10/chapter-10-07-ru.md": {
+   "W031": 4,
+   "W033": 13,
+   "P005": 1
+  },
+  "books/cardiology/Hurst/chapters/chapter-10/chapter-10-07.md": {
+   "W031": 4,
+   "W033": 12
+  },
+  "books/cardiology/Hurst/chapters/chapter-10/chapter-10-08-ru.md": {
+   "W031": 6,
+   "W033": 5,
+   "P005": 1
+  },
+  "books/cardiology/Hurst/chapters/chapter-10/chapter-10-08.md": {
+   "W031": 5,
+   "W033": 5
+  },
+  "books/cardiology/Hurst/chapters/chapter-10/chapter-10-09-ru.md": {
+   "W031": 5,
+   "W033": 7
+  },
+  "books/cardiology/Hurst/chapters/chapter-10/chapter-10-09.md": {
+   "W031": 6,
+   "W032": 1,
+   "W033": 7
+  },
+  "books/cardiology/Hurst/chapters/chapter-10/chapter-10-10-ru.md": {
+   "W031": 7,
+   "W033": 15,
+   "P005": 1
+  },
+  "books/cardiology/Hurst/chapters/chapter-10/chapter-10-10.md": {
+   "W031": 8,
+   "W033": 15
+  },
+  "books/cardiology/Hurst/chapters/chapter-10/chapter-10-11-ru.md": {
+   "E021": 1,
+   "W031": 9,
+   "W033": 12
+  },
+  "books/cardiology/Hurst/chapters/chapter-10/chapter-10-11.md": {
+   "E021": 1,
+   "W031": 9,
+   "W033": 12
+  },
+  "books/cardiology/Hurst/chapters/chapter-11/chapter-11-01-ru.md": {
+   "W033": 6
+  },
+  "books/cardiology/Hurst/chapters/chapter-11/chapter-11-01.md": {
+   "W033": 6
+  },
+  "books/cardiology/Hurst/chapters/chapter-11/chapter-11-02-ru.md": {
+   "W031": 8,
+   "W033": 4,
+   "P005": 1
+  },
+  "books/cardiology/Hurst/chapters/chapter-11/chapter-11-02.md": {
+   "W031": 7,
+   "W033": 4
+  },
+  "books/cardiology/Hurst/chapters/chapter-11/chapter-11-03-ru.md": {
+   "W031": 4,
+   "W033": 8,
+   "P005": 1
+  },
+  "books/cardiology/Hurst/chapters/chapter-11/chapter-11-03.md": {
+   "W031": 5,
+   "W033": 8
+  },
+  "books/cardiology/Hurst/chapters/chapter-11/chapter-11-04-ru.md": {
+   "W031": 14,
+   "W033": 6,
+   "P005": 1
+  },
+  "books/cardiology/Hurst/chapters/chapter-11/chapter-11-04.md": {
+   "W031": 12,
+   "W032": 1,
+   "W033": 6
+  },
+  "books/cardiology/Hurst/chapters/chapter-11/chapter-11-05-ru.md": {
+   "W031": 4,
+   "W033": 8,
+   "P005": 1
+  },
+  "books/cardiology/Hurst/chapters/chapter-11/chapter-11-05.md": {
+   "W031": 5,
+   "W033": 8
+  },
+  "books/cardiology/Hurst/chapters/chapter-11/chapter-11-06-ru.md": {
+   "W031": 2,
+   "W033": 5,
+   "P005": 1
+  },
+  "books/cardiology/Hurst/chapters/chapter-11/chapter-11-06.md": {
+   "W031": 2,
+   "W033": 5
+  },
+  "books/cardiology/Hurst/chapters/chapter-12/chapter-12-01-ru.md": {
+   "W031": 10,
+   "W033": 9,
+   "P005": 1
+  },
+  "books/cardiology/Hurst/chapters/chapter-12/chapter-12-01.md": {
+   "W031": 10,
+   "W033": 9
+  },
+  "books/cardiology/Hurst/chapters/chapter-12/chapter-12-02-ru.md": {
+   "W031": 6,
+   "W033": 14
+  },
+  "books/cardiology/Hurst/chapters/chapter-12/chapter-12-02.md": {
+   "W031": 7,
+   "W033": 14
+  },
+  "books/cardiology/Hurst/chapters/chapter-12/chapter-12-03-ru.md": {
+   "W033": 3,
+   "W031": 1,
+   "P005": 1
+  },
+  "books/cardiology/Hurst/chapters/chapter-12/chapter-12-03.md": {
+   "W033": 3,
+   "W031": 1
+  },
+  "books/cardiology/Hurst/chapters/chapter-12/chapter-12-04-ru.md": {
+   "W031": 2,
+   "W033": 8,
+   "P005": 1
+  },
+  "books/cardiology/Hurst/chapters/chapter-12/chapter-12-04.md": {
+   "W031": 6,
+   "W033": 8
+  },
+  "books/cardiology/Hurst/chapters/chapter-13/chapter-13-01-ru.md": {
+   "W031": 4,
+   "W033": 1
+  },
+  "books/cardiology/Hurst/chapters/chapter-13/chapter-13-01.md": {
+   "W031": 5
+  },
+  "books/cardiology/Hurst/chapters/chapter-13/chapter-13-02-ru.md": {
+   "E001": 1,
+   "E003": 1,
+   "E021": 2,
+   "W033": 3,
+   "P005": 1
+  },
+  "books/cardiology/Hurst/chapters/chapter-13/chapter-13-02.md": {
+   "E001": 1,
+   "E003": 1,
+   "E021": 2,
+   "W033": 2
+  },
+  "books/cardiology/Hurst/chapters/chapter-13/chapter-13-03-ru.md": {
+   "W031": 8,
+   "W033": 1
+  },
+  "books/cardiology/Hurst/chapters/chapter-13/chapter-13-03.md": {
+   "W031": 8,
+   "W033": 1
+  },
+  "books/cardiology/Hurst/chapters/chapter-13/chapter-13-04-ru.md": {
+   "W033": 8,
+   "P005": 1
+  },
+  "books/cardiology/Hurst/chapters/chapter-13/chapter-13-04.md": {
+   "W033": 8
+  },
+  "books/cardiology/Hurst/chapters/chapter-13/chapter-13-05-ru.md": {
+   "W031": 2,
+   "W033": 2
+  },
+  "books/cardiology/Hurst/chapters/chapter-13/chapter-13-05.md": {
+   "W031": 2,
+   "W033": 1
+  },
+  "books/cardiology/Hurst/chapters/chapter-13/chapter-13-06-ru.md": {
+   "W031": 2,
+   "W033": 4,
+   "P005": 1
+  },
+  "books/cardiology/Hurst/chapters/chapter-13/chapter-13-06.md": {
+   "W031": 2,
+   "W033": 4
+  },
+  "books/cardiology/Hurst/chapters/chapter-13/chapter-13-07-ru.md": {
+   "W031": 7,
+   "W033": 6,
+   "P005": 1
+  },
+  "books/cardiology/Hurst/chapters/chapter-13/chapter-13-07.md": {
+   "W031": 5,
+   "W033": 5
+  },
+  "books/cardiology/Hurst/chapters/chapter-13/chapter-13-08-ru.md": {
+   "W031": 2,
+   "W033": 12,
+   "P005": 1
+  },
+  "books/cardiology/Hurst/chapters/chapter-13/chapter-13-08.md": {
+   "W031": 2,
+   "W033": 12
+  },
+  "books/cardiology/Hurst/chapters/chapter-13/chapter-13-09-ru.md": {
+   "W031": 2,
+   "W033": 3,
+   "P005": 1
+  },
+  "books/cardiology/Hurst/chapters/chapter-13/chapter-13-09.md": {
+   "W031": 2,
+   "W033": 3
+  },
+  "books/cardiology/Hurst/chapters/chapter-13/chapter-13-10-ru.md": {
+   "W031": 9,
+   "W033": 17
+  },
+  "books/cardiology/Hurst/chapters/chapter-13/chapter-13-10.md": {
+   "W031": 8,
+   "W033": 17
+  },
+  "books/cardiology/Hurst/chapters/chapter-13/chapter-13-11-ru.md": {
+   "W031": 16,
+   "W033": 2
+  },
+  "books/cardiology/Hurst/chapters/chapter-13/chapter-13-11.md": {
+   "W031": 16,
+   "W033": 2
+  },
+  "books/cardiology/Hurst/chapters/chapter-13/chapter-13-12-ru.md": {
+   "W031": 6,
+   "W033": 6,
+   "P005": 1
+  },
+  "books/cardiology/Hurst/chapters/chapter-13/chapter-13-12.md": {
+   "W031": 6,
+   "W033": 5
+  },
+  "books/cardiology/Hurst/chapters/chapter-13/chapter-13-13-ru.md": {
+   "W031": 3,
+   "W033": 8
+  },
+  "books/cardiology/Hurst/chapters/chapter-13/chapter-13-13.md": {
+   "W031": 3,
+   "W033": 8
+  },
+  "books/cardiology/Hurst/chapters/chapter-13/chapter-13-14-ru.md": {
+   "W033": 16,
+   "W031": 4
+  },
+  "books/cardiology/Hurst/chapters/chapter-13/chapter-13-14.md": {
+   "W031": 13,
+   "W033": 14
+  },
+  "books/cardiology/Hurst/chapters/chapter-13/chapter-13-15-ru.md": {
+   "W031": 2,
+   "W033": 9,
+   "P005": 1
+  },
+  "books/cardiology/Hurst/chapters/chapter-13/chapter-13-15.md": {
+   "W031": 2,
+   "W033": 9
+  },
+  "books/cardiology/Hurst/chapters/chapter-14/chapter-14-01-ru.md": {
+   "E021": 1,
+   "W031": 10,
+   "W033": 15,
+   "P005": 1
+  },
+  "books/cardiology/Hurst/chapters/chapter-14/chapter-14-01.md": {
+   "E021": 1,
+   "W031": 13,
+   "W033": 13,
+   "W032": 1
+  },
+  "books/cardiology/Hurst/chapters/chapter-14/chapter-14-02-ru.md": {
+   "W031": 9,
+   "W033": 12
+  },
+  "books/cardiology/Hurst/chapters/chapter-14/chapter-14-02.md": {
+   "W031": 9,
+   "W033": 12
+  },
+  "books/cardiology/Hurst/chapters/chapter-14/chapter-14-03-ru.md": {
+   "W033": 11,
+   "P005": 1
+  },
+  "books/cardiology/Hurst/chapters/chapter-14/chapter-14-03.md": {
+   "W033": 11
+  },
+  "books/cardiology/Hurst/chapters/chapter-14/chapter-14-04-ru.md": {
+   "E001": 1,
+   "E003": 1,
+   "W033": 3,
+   "P005": 1
+  },
+  "books/cardiology/Hurst/chapters/chapter-14/chapter-14-04.md": {
+   "E001": 1,
+   "E003": 1,
+   "W033": 3
+  },
+  "books/cardiology/Hurst/chapters/chapter-14/chapter-14-05-ru.md": {
+   "W031": 1
+  },
+  "books/cardiology/Hurst/chapters/chapter-14/chapter-14-05.md": {
+   "W031": 2
+  },
+  "books/cardiology/Hurst/chapters/chapter-15/chapter-15-01-ru.md": {
+   "W033": 1
+  },
+  "books/cardiology/Hurst/chapters/chapter-15/chapter-15-01.md": {
+   "W033": 1
+  },
+  "books/cardiology/Hurst/chapters/chapter-15/chapter-15-02-ru.md": {
+   "W033": 1
+  },
+  "books/cardiology/Hurst/chapters/chapter-15/chapter-15-02.md": {
+   "W033": 1
+  },
+  "books/cardiology/Hurst/chapters/chapter-15/chapter-15-03-ru.md": {
+   "W031": 8,
+   "W033": 3
+  },
+  "books/cardiology/Hurst/chapters/chapter-15/chapter-15-03.md": {
+   "W031": 8,
+   "W033": 2
+  },
+  "books/cardiology/Hurst/chapters/chapter-15/chapter-15-04-ru.md": {
+   "W033": 9,
+   "P005": 1
+  },
+  "books/cardiology/Hurst/chapters/chapter-15/chapter-15-04.md": {
+   "W031": 2,
+   "W033": 8
+  },
+  "books/cardiology/Hurst/chapters/chapter-15/chapter-15-05-ru.md": {
+   "W033": 8
+  },
+  "books/cardiology/Hurst/chapters/chapter-15/chapter-15-05.md": {
+   "W031": 2,
+   "W033": 8
+  },
+  "books/cardiology/Hurst/chapters/chapter-15/chapter-15-06-ru.md": {
+   "E001": 1,
+   "E003": 1,
+   "W031": 1,
+   "W033": 4
+  },
+  "books/cardiology/Hurst/chapters/chapter-15/chapter-15-06.md": {
+   "E001": 1,
+   "E003": 1,
+   "W031": 6,
+   "W033": 4
+  },
+  "books/cardiology/Hurst/chapters/chapter-15/chapter-15-07-ru.md": {
+   "W031": 4,
+   "W033": 1,
+   "P005": 1
+  },
+  "books/cardiology/Hurst/chapters/chapter-15/chapter-15-07.md": {
+   "W031": 4,
+   "W033": 1
+  },
+  "books/cardiology/Hurst/chapters/chapter-15/chapter-15-08-ru.md": {
+   "W031": 15,
+   "W033": 5
+  },
+  "books/cardiology/Hurst/chapters/chapter-15/chapter-15-08.md": {
+   "W031": 15,
+   "W033": 4
+  },
+  "books/cardiology/Hurst/chapters/chapter-15/chapter-15-09-ru.md": {
+   "W031": 1,
+   "W033": 4,
+   "P005": 1
+  },
+  "books/cardiology/Hurst/chapters/chapter-15/chapter-15-09.md": {
+   "W031": 1,
+   "W033": 4
+  },
+  "books/cardiology/Hurst/chapters/chapter-16/chapter-16-01-ru.md": {
+   "W033": 6,
+   "P005": 1
+  },
+  "books/cardiology/Hurst/chapters/chapter-16/chapter-16-01.md": {
+   "W033": 6
+  },
+  "books/cardiology/Hurst/chapters/chapter-16/chapter-16-02-ru.md": {
+   "W033": 4
+  },
+  "books/cardiology/Hurst/chapters/chapter-16/chapter-16-02.md": {
+   "W033": 4
+  },
+  "books/cardiology/Hurst/chapters/chapter-16/chapter-16-03-ru.md": {
+   "W033": 2
+  },
+  "books/cardiology/Hurst/chapters/chapter-16/chapter-16-03.md": {
+   "W033": 1
+  },
+  "books/cardiology/Hurst/chapters/chapter-16/chapter-16-04-ru.md": {
+   "W033": 11,
+   "P005": 1
+  },
+  "books/cardiology/Hurst/chapters/chapter-16/chapter-16-04.md": {
+   "W033": 11
+  },
+  "books/cardiology/Hurst/chapters/chapter-16/chapter-16-05-ru.md": {
+   "W033": 5,
+   "P005": 1
+  },
+  "books/cardiology/Hurst/chapters/chapter-16/chapter-16-06-ru.md": {
+   "W033": 10
+  },
+  "books/cardiology/Hurst/chapters/chapter-16/chapter-16-06.md": {
+   "W033": 10
+  },
+  "books/cardiovascular-system/cardiovascular-system-glance/chapters/chapter-01/chapter-01.md": {
+   "W033": 2
+  },
+  "books/cardiovascular-system/cardiovascular-system-glance/chapters/chapter-02/chapter-02.md": {
+   "W033": 1
+  },
+  "books/cardiovascular-system/cardiovascular-system-glance/chapters/chapter-04/chapter-04.md": {
+   "W033": 2,
+   "W031": 1
+  },
+  "books/cardiovascular-system/cardiovascular-system-glance/chapters/chapter-05/chapter-05.md": {
+   "W031": 12
+  },
+  "books/cardiovascular-system/cardiovascular-system-glance/chapters/chapter-06/chapter-06.md": {
+   "W031": 1,
+   "W033": 1
+  },
+  "books/cardiovascular-system/cardiovascular-system-glance/chapters/chapter-07/chapter-07.md": {
+   "W033": 1,
+   "W031": 1
+  },
+  "books/cardiovascular-system/cardiovascular-system-glance/chapters/chapter-08/chapter-08.md": {
+   "W031": 1
+  },
+  "books/cardiovascular-system/cardiovascular-system-glance/chapters/chapter-09/chapter-09.md": {
+   "W031": 2,
+   "W033": 1
+  },
+  "books/cardiovascular-system/cardiovascular-system-glance/chapters/chapter-10/chapter-10.md": {
+   "W031": 3
+  },
+  "books/cardiovascular-system/cardiovascular-system-glance/chapters/chapter-11/chapter-11.md": {
+   "W031": 2
+  },
+  "books/cardiovascular-system/cardiovascular-system-glance/chapters/chapter-12/chapter-12.md": {
+   "W031": 2,
+   "W033": 1
+  },
+  "books/cardiovascular-system/cardiovascular-system-glance/chapters/chapter-13/chapter-13.md": {
+   "W031": 1
+  },
+  "books/cardiovascular-system/cardiovascular-system-glance/chapters/chapter-14/chapter-14.md": {
+   "W033": 1
+  },
+  "books/cardiovascular-system/cardiovascular-system-glance/chapters/chapter-15/chapter-15.md": {
+   "W031": 1,
+   "W033": 3
+  },
+  "books/cardiovascular-system/cardiovascular-system-glance/chapters/chapter-16/chapter-16.md": {
+   "W031": 2
+  },
+  "books/cardiovascular-system/cardiovascular-system-glance/chapters/chapter-17/chapter-17.md": {
+   "W031": 2
+  },
+  "books/cardiovascular-system/cardiovascular-system-glance/chapters/chapter-18/chapter-18.md": {
+   "W033": 2,
+   "W031": 1
+  },
+  "books/cardiovascular-system/cardiovascular-system-glance/chapters/chapter-19/chapter-19.md": {
+   "W033": 1
+  },
+  "books/cardiovascular-system/cardiovascular-system-glance/chapters/chapter-20/chapter-20.md": {
+   "W033": 1,
+   "W031": 1
+  },
+  "books/cardiovascular-system/cardiovascular-system-glance/chapters/chapter-21/chapter-21.md": {
+   "W033": 2,
+   "W031": 1
+  },
+  "books/cardiovascular-system/cardiovascular-system-glance/chapters/chapter-22/chapter-22.md": {
+   "W031": 1,
+   "W033": 1
+  },
+  "books/cardiovascular-system/cardiovascular-system-glance/chapters/chapter-23/chapter-23.md": {
+   "W033": 2
+  },
+  "books/cardiovascular-system/cardiovascular-system-glance/chapters/chapter-24/chapter-24.md": {
+   "W033": 1
+  },
+  "books/cardiovascular-system/cardiovascular-system-glance/chapters/chapter-25/chapter-25.md": {
+   "W031": 2,
+   "W033": 3
+  },
+  "books/cardiovascular-system/cardiovascular-system-glance/chapters/chapter-26/chapter-26.md": {
+   "W031": 1,
+   "W033": 2
+  },
+  "books/cardiovascular-system/cardiovascular-system-glance/chapters/chapter-27/chapter-27.md": {
+   "W033": 1
+  },
+  "books/cardiovascular-system/cardiovascular-system-glance/chapters/chapter-28/chapter-28.md": {
+   "W033": 1
+  },
+  "books/cardiovascular-system/cardiovascular-system-glance/chapters/chapter-29/chapter-29.md": {
+   "W031": 1,
+   "W033": 1
+  },
+  "books/cardiovascular-system/cardiovascular-system-glance/chapters/chapter-30/chapter-30.md": {
+   "W033": 1
+  },
+  "books/cardiovascular-system/cardiovascular-system-glance/chapters/chapter-32/chapter-32.md": {
+   "W033": 1
+  },
+  "books/cardiovascular-system/cardiovascular-system-glance/chapters/chapter-33/chapter-33.md": {
+   "W033": 2
+  },
+  "books/cardiovascular-system/cardiovascular-system-glance/chapters/chapter-34/chapter-34.md": {
+   "W033": 1
+  },
+  "books/cardiovascular-system/cardiovascular-system-glance/chapters/chapter-35/chapter-35.md": {
+   "W033": 2,
+   "W031": 1
+  },
+  "books/cardiovascular-system/cardiovascular-system-glance/chapters/chapter-36/chapter-36.md": {
+   "W033": 2,
+   "W031": 1
+  },
+  "books/cardiovascular-system/cardiovascular-system-glance/chapters/chapter-37/chapter-37.md": {
+   "W033": 2
+  },
+  "books/cardiovascular-system/cardiovascular-system-glance/chapters/chapter-38/chapter-38.md": {
+   "W033": 1,
+   "W031": 1
+  },
+  "books/cardiovascular-system/cardiovascular-system-glance/chapters/chapter-39/chapter-39.md": {
+   "W033": 3
+  },
+  "books/cardiovascular-system/cardiovascular-system-glance/chapters/chapter-40/chapter-40.md": {
+   "W033": 2
+  },
+  "books/cardiovascular-system/cardiovascular-system-glance/chapters/chapter-41/chapter-41.md": {
+   "W033": 1
+  },
+  "books/cardiovascular-system/cardiovascular-system-glance/chapters/chapter-42/chapter-42.md": {
+   "W033": 3,
+   "W031": 1
+  },
+  "books/cardiovascular-system/cardiovascular-system-glance/chapters/chapter-43/chapter-43.md": {
+   "W033": 1,
+   "W031": 1
+  },
+  "books/cardiovascular-system/cardiovascular-system-glance/chapters/chapter-44/chapter-44.md": {
+   "W033": 3
+  },
+  "books/cardiovascular-system/cardiovascular-system-glance/chapters/chapter-45/chapter-45.md": {
+   "W031": 1,
+   "W033": 1
+  },
+  "books/cardiovascular-system/cardiovascular-system-glance/chapters/chapter-46/chapter-46.md": {
+   "W031": 2,
+   "W033": 1
+  },
+  "books/cardiovascular-system/cardiovascular-system-glance/chapters/chapter-47/chapter-47.md": {
+   "W033": 2
+  },
+  "books/cardiovascular-system/cardiovascular-system-glance/chapters/chapter-49/chapter-49.md": {
+   "W031": 3,
+   "W033": 1
+  },
+  "books/cardiovascular-system/cardiovascular-system-glance/chapters/chapter-50/chapter-50.md": {
+   "W033": 1,
+   "W031": 1
+  },
+  "books/cardiovascular-system/cardiovascular-system-glance/chapters/chapter-51/chapter-51.md": {
+   "W033": 1
+  },
+  "books/cardiovascular-system/cardiovascular-system-glance/chapters/chapter-52/chapter-52.md": {
+   "W033": 1
+  },
+  "books/cardiovascular-system/cardiovascular-system-glance/chapters/chapter-53/chapter-53.md": {
+   "W033": 2
+  },
+  "books/cardiovascular-system/cardiovascular-system-glance/chapters/chapter-54/chapter-54.md": {
+   "W033": 1
+  },
+  "books/cardiovascular-system/cardiovascular-system-glance/chapters/chapter-56/chapter-56.md": {
+   "W031": 1,
+   "W033": 1
+  },
+  "books/cardiovascular-system/cardiovascular-system-glance/chapters/chapter-57/chapter-57.md": {
+   "W031": 7,
+   "W033": 2
+  },
+  "books/cardiovascular-system/cardiovascular-system-glance/chapters/chapter-58/chapter-58.md": {
+   "W031": 1,
+   "W033": 1
+  },
+  "books/cardiovascular-system/cardiovascular-system-glance/chapters/chapter-59/chapter-59.md": {
+   "W031": 1
+  },
+  "books/cardiovascular-system/handbook-of-cardiac-anatomy/chapters/chapter-01/chapter-01.md": {
+   "W033": 10,
+   "W031": 1
+  },
+  "books/cardiovascular-system/handbook-of-cardiac-anatomy/chapters/chapter-02/chapter-02.md": {
+   "W033": 3,
+   "W030": 3
+  },
+  "books/cardiovascular-system/handbook-of-cardiac-anatomy/chapters/chapter-03/chapter-03.md": {
+   "W033": 9,
+   "W031": 1
+  },
+  "books/cardiovascular-system/handbook-of-cardiac-anatomy/chapters/chapter-04/chapter-04.md": {
+   "W033": 15,
+   "W030": 5
+  },
+  "books/cardiovascular-system/handbook-of-cardiac-anatomy/chapters/chapter-05/chapter-05.md": {
+   "W030": 29,
+   "W033": 6
+  },
+  "books/cardiovascular-system/handbook-of-cardiac-anatomy/chapters/chapter-06/chapter-06.md": {
+   "W031": 7,
+   "W033": 6,
+   "W030": 7
+  },
+  "books/cardiovascular-system/handbook-of-cardiac-anatomy/chapters/chapter-07/chapter-07.md": {
+   "W031": 3,
+   "W033": 11
+  },
+  "books/cardiovascular-system/handbook-of-cardiac-anatomy/chapters/chapter-08/chapter-08.md": {
+   "W033": 8,
+   "W030": 65
+  },
+  "books/cardiovascular-system/handbook-of-cardiac-anatomy/chapters/chapter-09/chapter-09.md": {
+   "W033": 6,
+   "W030": 87,
+   "W031": 1
+  },
+  "books/cardiovascular-system/handbook-of-cardiac-anatomy/chapters/chapter-10/chapter-10.md": {
+   "W033": 4,
+   "W030": 69,
+   "W031": 2
+  },
+  "books/cardiovascular-system/handbook-of-cardiac-anatomy/chapters/chapter-11/chapter-11.md": {
+   "W033": 13,
+   "W030": 40
+  },
+  "books/cardiovascular-system/handbook-of-cardiac-anatomy/chapters/chapter-12/chapter-12.md": {
+   "W033": 8,
+   "W030": 38
+  },
+  "books/cardiovascular-system/handbook-of-cardiac-anatomy/chapters/chapter-13/chapter-13.md": {
+   "W033": 7,
+   "W030": 35
+  },
+  "books/cardiovascular-system/handbook-of-cardiac-anatomy/chapters/chapter-14/chapter-14.md": {
+   "W033": 8,
+   "W030": 46,
+   "W031": 1
+  },
+  "books/cardiovascular-system/handbook-of-cardiac-anatomy/chapters/chapter-15/chapter-15.md": {
+   "W030": 27,
+   "W033": 6
+  },
+  "books/cardiovascular-system/handbook-of-cardiac-anatomy/chapters/chapter-16/chapter-16.md": {
+   "W033": 8,
+   "W030": 2
+  },
+  "books/cardiovascular-system/handbook-of-cardiac-anatomy/chapters/chapter-17/chapter-17.md": {
+   "W033": 10,
+   "W031": 1
+  },
+  "books/cardiovascular-system/handbook-of-cardiac-anatomy/chapters/chapter-18/chapter-18.md": {
+   "W033": 20,
+   "W030": 105
+  },
+  "books/cardiovascular-system/handbook-of-cardiac-anatomy/chapters/chapter-19/chapter-19.md": {
+   "W033": 24,
+   "W030": 41
+  },
+  "books/cardiovascular-system/handbook-of-cardiac-anatomy/chapters/chapter-20/chapter-20.md": {
+   "W033": 4,
+   "W030": 32
+  },
+  "books/cardiovascular-system/handbook-of-cardiac-anatomy/chapters/chapter-21/chapter-21.md": {
+   "W033": 17,
+   "W030": 35
+  },
+  "books/cardiovascular-system/handbook-of-cardiac-anatomy/chapters/chapter-22/chapter-22.md": {
+   "W033": 13,
+   "W030": 20,
+   "W031": 1
+  },
+  "books/cardiovascular-system/handbook-of-cardiac-anatomy/chapters/chapter-23/chapter-23.md": {
+   "W033": 11,
+   "W030": 30
+  },
+  "books/cardiovascular-system/handbook-of-cardiac-anatomy/chapters/chapter-24/chapter-24.md": {
+   "W033": 2,
+   "W030": 23
+  },
+  "books/cardiovascular-system/handbook-of-cardiac-anatomy/chapters/chapter-25/chapter-25.md": {
+   "W033": 11,
+   "W031": 2,
+   "W030": 51
+  },
+  "books/cardiovascular-system/handbook-of-cardiac-anatomy/chapters/chapter-26/chapter-26.md": {
+   "W033": 3,
+   "W030": 33
+  },
+  "books/drugs/drugs-in-icu-oxford/chapters/chapter-01/chapter-01.md": {
+   "W033": 49
+  },
+  "books/drugs/drugs-in-icu-oxford/chapters/chapter-02/chapter-02.md": {
+   "W033": 7
+  },
+  "books/drugs/drugs-in-icu-oxford/chapters/chapter-03/chapter-03.md": {
+   "W033": 40
+  },
+  "books/drugs/drugs-in-icu-oxford/chapters/chapter-04/chapter-04.md": {
+   "W033": 43
+  },
+  "books/drugs/drugs-in-icu-oxford/chapters/chapter-05/chapter-05.md": {
+   "W033": 23
+  },
+  "books/drugs/drugs-in-icu-oxford/chapters/chapter-06/chapter-06.md": {
+   "W033": 15
+  },
+  "books/drugs/drugs-in-icu-oxford/chapters/chapter-07/chapter-07.md": {
+   "W033": 14
+  },
+  "books/drugs/drugs-in-icu-oxford/chapters/chapter-08/chapter-08.md": {
+   "W033": 20
+  },
+  "books/drugs/drugs-in-icu-oxford/chapters/chapter-09/chapter-09.md": {
+   "W033": 19
+  },
+  "books/drugs/drugs-in-icu-oxford/chapters/chapter-10/chapter-10.md": {
+   "W033": 6
+  },
+  "books/drugs/drugs-in-icu-oxford/chapters/chapter-11/chapter-11.md": {
+   "W033": 21
+  },
+  "books/drugs/drugs-in-icu-oxford/chapters/chapter-12/chapter-12.md": {
+   "W033": 35
+  },
+  "books/drugs/drugs-in-icu-oxford/chapters/chapter-13/chapter-13.md": {
+   "W033": 22
+  },
+  "books/drugs/drugs-in-icu-oxford/chapters/chapter-14/chapter-14.md": {
+   "W033": 15
+  },
+  "books/drugs/drugs-in-icu-oxford/chapters/chapter-15/chapter-15.md": {
+   "W033": 45
+  },
+  "books/drugs/drugs-in-icu-oxford/chapters/chapter-16/chapter-16.md": {
+   "W033": 13
+  },
+  "books/drugs/drugs-in-icu-oxford/chapters/chapter-17/chapter-17.md": {
+   "W033": 32
+  },
+  "books/drugs/drugs-in-icu-oxford/chapters/chapter-18/chapter-18.md": {
+   "W033": 20
+  },
+  "books/drugs/drugs-in-icu-oxford/chapters/chapter-19/chapter-19.md": {
+   "W033": 8
+  },
+  "books/drugs/drugs-in-icu-oxford/chapters/chapter-20/chapter-20.md": {
+   "W033": 2
+  },
+  "books/drugs/drugs-in-icu-oxford/chapters/chapter-21/chapter-21.md": {
+   "W033": 3
+  },
+  "books/drugs/drugs-in-icu-oxford/chapters/chapter-Appendix 2/chapter-Appendix 2.md": {
+   "W033": 1
+  },
+  "books/drugs/drugs-in-icu-oxford/chapters/chapter-Appendix 3/chapter-Appendix 3.md": {
+   "W033": 5
+  },
+  "books/drugs/opie's-cardiovascular-drugs/chapters/chapter-01/chapter-01.md": {
+   "W033": 30,
+   "E010": 1
+  },
+  "books/drugs/opie's-cardiovascular-drugs/chapters/chapter-02/chapter-02.md": {
+   "W033": 25,
+   "E010": 1
+  },
+  "books/drugs/opie's-cardiovascular-drugs/chapters/chapter-03/chapter-03.md": {
+   "W033": 28,
+   "E010": 1
+  },
+  "books/drugs/opie's-cardiovascular-drugs/chapters/chapter-04/chapter-04.md": {
+   "W033": 16,
+   "E010": 1
+  },
+  "books/drugs/opie's-cardiovascular-drugs/chapters/chapter-05/chapter-05.md": {
+   "W032": 1,
+   "W033": 3,
+   "E010": 1
+  },
+  "books/drugs/opie's-cardiovascular-drugs/chapters/chapter-06/chapter-06.md": {
+   "W033": 20,
+   "W031": 1,
+   "E010": 1
+  },
+  "books/drugs/opie's-cardiovascular-drugs/chapters/chapter-07/chapter-07.md": {
+   "W033": 10,
+   "E010": 1
+  },
+  "books/drugs/opie's-cardiovascular-drugs/chapters/chapter-08/chapter-08.md": {
+   "W033": 29,
+   "E010": 1
+  },
+  "books/drugs/opie's-cardiovascular-drugs/chapters/chapter-09/chapter-09.md": {
+   "W033": 20,
+   "E010": 1
+  },
+  "books/drugs/opie's-cardiovascular-drugs/chapters/chapter-10/chapter-10.md": {
+   "W033": 7,
+   "W031": 1,
+   "E010": 1
+  },
+  "books/drugs/opie's-cardiovascular-drugs/chapters/chapter-11/chapter-11.md": {
+   "W033": 7,
+   "E010": 1
+  },
+  "books/ecg/ECG_Interpretation_for_Everyone/chapters/chapter-01/chapter-01.md": {
+   "W033": 4
+  },
+  "books/ecg/ECG_Interpretation_for_Everyone/chapters/chapter-02/chapter-02.md": {
+   "W033": 3
+  },
+  "books/ecg/ECG_Interpretation_for_Everyone/chapters/chapter-03/chapter-03.md": {
+   "W033": 1
+  },
+  "books/ecg/ECG_Interpretation_for_Everyone/chapters/chapter-04/chapter-04.md": {
+   "W033": 5
+  },
+  "books/ecg/ECG_Interpretation_for_Everyone/chapters/chapter-05/chapter-05.md": {
+   "W033": 4
+  },
+  "books/ecg/ECG_Interpretation_for_Everyone/chapters/chapter-06/chapter-06.md": {
+   "W033": 4
+  },
+  "books/ecg/ECG_Interpretation_for_Everyone/chapters/chapter-07/chapter-07.md": {
+   "W033": 4
+  },
+  "books/ecg/ECG_Interpretation_for_Everyone/chapters/chapter-08/chapter-08.md": {
+   "W033": 3
+  },
+  "books/ecg/ECG_Interpretation_for_Everyone/chapters/chapter-10/chapter-10.md": {
+   "W033": 3
+  },
+  "books/ecg/ECG_Interpretation_for_Everyone/chapters/chapter-11/chapter-11.md": {
+   "W033": 4
+  },
+  "books/ecg/ECG_Interpretation_for_Everyone/chapters/chapter-12/chapter-12.md": {
+   "W033": 2
+  },
+  "books/ecg/ECG_Interpretation_for_Everyone/chapters/chapter-13/chapter-13.md": {
+   "W033": 1
+  },
+  "books/ecg/ECG_Interpretation_for_Everyone/chapters/chapter-14/chapter-14.md": {
+   "W033": 2
+  },
+  "books/ecg/ECG_Interpretation_for_Everyone/chapters/chapter-Appendix 1/chapter-Appendix 1.md": {
+   "W033": 1
+  },
+  "books/ecg/ECGs_Made_Easy/chapters/chapter-01/chapter-01-ru.md": {
+   "E004": 2,
+   "W033": 6,
+   "W031": 4
+  },
+  "books/ecg/ECGs_Made_Easy/chapters/chapter-01/chapter-01.md": {
+   "E004": 2,
+   "W033": 6,
+   "W031": 5
+  },
+  "books/ecg/ECGs_Made_Easy/chapters/chapter-02/chapter-02-ru.md": {
+   "W033": 11,
+   "P005": 1
+  },
+  "books/ecg/ECGs_Made_Easy/chapters/chapter-02/chapter-02.md": {
+   "W033": 11,
+   "W031": 1
+  },
+  "books/ecg/ECGs_Made_Easy/chapters/chapter-03/chapter-03-ru.md": {
+   "E004": 2,
+   "W033": 3
+  },
+  "books/ecg/ECGs_Made_Easy/chapters/chapter-03/chapter-03.md": {
+   "E004": 2,
+   "W033": 3
+  },
+  "books/ecg/ECGs_Made_Easy/chapters/chapter-04/chapter-04-ru.md": {
+   "E004": 2,
+   "W033": 7,
+   "W031": 1,
+   "P005": 1
+  },
+  "books/ecg/ECGs_Made_Easy/chapters/chapter-04/chapter-04.md": {
+   "E004": 2,
+   "W033": 7,
+   "W031": 1
+  },
+  "books/ecg/ECGs_Made_Easy/chapters/chapter-05/chapter-05-ru.md": {
+   "E004": 2,
+   "W033": 1
+  },
+  "books/ecg/ECGs_Made_Easy/chapters/chapter-05/chapter-05.md": {
+   "E004": 2,
+   "W033": 1
+  },
+  "books/ecg/ECGs_Made_Easy/chapters/chapter-06/chapter-06-ru.md": {
+   "E004": 2,
+   "W033": 3,
+   "P002": 1,
+   "P003": 1
+  },
+  "books/ecg/ECGs_Made_Easy/chapters/chapter-06/chapter-06.md": {
+   "E004": 2,
+   "W033": 3
+  },
+  "books/ecg/ECGs_Made_Easy/chapters/chapter-07/chapter-07-ru.md": {
+   "E004": 2,
+   "W033": 4,
+   "P002": 1,
+   "P003": 1
+  },
+  "books/ecg/ECGs_Made_Easy/chapters/chapter-07/chapter-07.md": {
+   "E004": 2,
+   "W033": 4
+  },
+  "books/ecg/ECGs_Made_Easy/chapters/chapter-08/chapter-08-ru.md": {
+   "E004": 4,
+   "W033": 2,
+   "P002": 1,
+   "P003": 1
+  },
+  "books/ecg/ECGs_Made_Easy/chapters/chapter-08/chapter-08.md": {
+   "E004": 4,
+   "W033": 2
+  },
+  "books/ecg/ECGs_Made_Easy/chapters/chapter-09/chapter-09-ru.md": {
+   "E004": 4,
+   "W033": 3,
+   "P002": 1,
+   "P003": 1
+  },
+  "books/ecg/ECGs_Made_Easy/chapters/chapter-09/chapter-09.md": {
+   "E004": 4,
+   "W033": 3
+  },
+  "books/ecg/ECGs_Made_Easy/chapters/chapter-10/chapter-10-ru.md": {
+   "E004": 6,
+   "P005": 1
+  },
+  "books/ecg/ECGs_Made_Easy/chapters/chapter-10/chapter-10.md": {
+   "E004": 6
+  },
+  "books/guidelines/article/chapters/chapter-01/chapter-01-ru.md": {
+   "E004": 4,
+   "E021": 2,
+   "E011": 1,
+   "W031": 1,
+   "W033": 5
+  },
+  "books/guidelines/article/chapters/chapter-01/chapter-01.md": {
+   "E004": 4,
+   "E021": 2,
+   "E011": 1,
+   "W031": 1,
+   "W033": 5
+  },
+  "books/guidelines/article/chapters/chapter-02/chapter-02-ru.md": {
+   "W030": 1
+  },
+  "books/guidelines/article/chapters/chapter-03/chapter-03-ru.md": {
+   "E011": 1,
+   "P005": 1
+  },
+  "books/guidelines/article/chapters/chapter-04/chapter-04-ru.md": {
+   "E011": 1,
+   "P005": 1
+  },
+  "books/guidelines/article/chapters/chapter-05/chapter-05-ru.md": {
+   "E004": 74,
+   "E011": 1,
+   "W033": 6
+  },
+  "books/guidelines/article/chapters/chapter-05/chapter-05.md": {
+   "E011": 1,
+   "W033": 6
+  },
+  "books/guidelines/article/chapters/chapter-06/chapter-06-ru.md": {
+   "E011": 1,
+   "W033": 2,
+   "P005": 1
+  },
+  "books/guidelines/article/chapters/chapter-06/chapter-06.md": {
+   "E011": 1,
+   "W033": 12
+  },
+  "books/guidelines/article/chapters/chapter-07/chapter-07-ru.md": {
+   "E011": 1,
+   "W033": 2
+  },
+  "books/guidelines/article/chapters/chapter-07/chapter-07.md": {
+   "E011": 1,
+   "W033": 2
+  },
+  "books/guidelines/article/chapters/chapter-08/chapter-08-ru.md": {
+   "E011": 1,
+   "W033": 2,
+   "P005": 1
+  },
+  "books/guidelines/article/chapters/chapter-08/chapter-08.md": {
+   "E011": 1,
+   "W033": 2
+  },
+  "books/guidelines/guide/chapters/chapter-01/chapter-01-ru.md": {
+   "E011": 1,
+   "W033": 20,
+   "P001": 1,
+   "P003": 1,
+   "P005": 1,
+   "P004": 1
+  },
+  "books/guidelines/guide/chapters/chapter-01/chapter-01.md": {
+   "E021": 2,
+   "E011": 1,
+   "W031": 1,
+   "W033": 27
+  },
+  "books/guidelines/guide/chapters/chapter-02/chapter-02-ru.md": {
+   "E011": 1,
+   "W033": 9,
+   "P001": 1,
+   "P003": 1,
+   "P005": 1,
+   "P004": 1
+  },
+  "books/guidelines/guide/chapters/chapter-02/chapter-02.md": {
+   "E021": 2,
+   "E011": 1,
+   "W033": 7
+  },
+  "books/guidelines/guide/chapters/chapter-03/chapter-03-ru.md": {
+   "E011": 1,
+   "W033": 16,
+   "P001": 1,
+   "P003": 1,
+   "P005": 1,
+   "P004": 1
+  },
+  "books/guidelines/guide/chapters/chapter-03/chapter-03.md": {
+   "E011": 1,
+   "W031": 3,
+   "W033": 32
+  },
+  "books/guidelines/guide/chapters/chapter-04/chapter-04-ru.md": {
+   "E011": 1,
+   "W033": 18,
+   "P003": 1,
+   "P005": 1
+  },
+  "books/guidelines/guide/chapters/chapter-04/chapter-04.md": {
+   "E011": 1,
+   "W031": 1,
+   "W033": 26
+  },
+  "books/guidelines/guide/chapters/chapter-05/chapter-05-ru.md": {
+   "E011": 1,
+   "W033": 8,
+   "P005": 1
+  },
+  "books/guidelines/guide/chapters/chapter-05/chapter-05.md": {
+   "E011": 1,
+   "W033": 19,
+   "W031": 11
+  },
+  "books/guidelines/guide/chapters/chapter-06/chapter-06-ru.md": {
+   "E011": 1,
+   "W033": 12,
+   "W031": 3,
+   "P005": 1
+  },
+  "books/guidelines/guide/chapters/chapter-06/chapter-06.md": {
+   "E011": 1,
+   "W033": 18,
+   "W031": 10
+  },
+  "books/guidelines/guide/chapters/chapter-07/chapter-07-ru.md": {
+   "E021": 2,
+   "E011": 1,
+   "W031": 3,
+   "W033": 26,
+   "P002": 1,
+   "P003": 1,
+   "P005": 1
+  },
+  "books/guidelines/guide/chapters/chapter-07/chapter-07.md": {
+   "E020": 1,
+   "E011": 1,
+   "W031": 2,
+   "W033": 38
+  },
+  "books/guidelines/guide/chapters/chapter-08/chapter-08-ru.md": {
+   "E011": 1,
+   "P005": 1
+  },
+  "books/guidelines/guide/chapters/chapter-08/chapter-08.md": {
+   "E011": 1
+  },
+  "books/guidelines/guide/chapters/chapter-09/chapter-09-ru.md": {
+   "E011": 1,
+   "W033": 1,
+   "P005": 1
+  },
+  "books/guidelines/guide/chapters/chapter-09/chapter-09.md": {
+   "E011": 1
+  },
+  "books/guidelines/guide/chapters/chapter-10/chapter-10-ru.md": {
+   "E011": 1,
+   "P005": 1
+  },
+  "books/guidelines/guide/chapters/chapter-10/chapter-10.md": {
+   "E011": 1
+  },
+  "books/guidelines/guide/chapters/chapter-11/chapter-11-ru.md": {
+   "E011": 1,
+   "W030": 1,
+   "P005": 1
+  },
+  "books/guidelines/guide/chapters/chapter-11/chapter-11.md": {
+   "E011": 1
+  },
+  "books/guidelines/guide/chapters/chapter-12/chapter-12-ru.md": {
+   "E011": 1,
+   "W031": 4,
+   "P005": 1
+  },
+  "books/guidelines/guide/chapters/chapter-12/chapter-12.md": {
+   "E011": 1,
+   "W031": 4
+  },
+  "books/guidelines/guide/chapters/chapter-13/chapter-13-ru.md": {
+   "E011": 1,
+   "P005": 1
+  },
+  "books/guidelines/guide/chapters/chapter-13/chapter-13.md": {
+   "E011": 1
+  },
+  "books/guidelines/guide/chapters/chapter-14/chapter-14-ru.md": {
+   "E011": 1,
+   "W032": 2,
+   "W031": 1,
+   "P005": 1
+  },
+  "books/guidelines/guide/chapters/chapter-14/chapter-14.md": {
+   "E011": 1,
+   "W032": 2
+  },
+  "books/guidelines/guide/chapters/chapter-16/chapter-16-ru.md": {
+   "E004": 18,
+   "E011": 1,
+   "W031": 1
+  },
+  "books/guidelines/guide/chapters/chapter-16/chapter-16.md": {
+   "E004": 18,
+   "E011": 1,
+   "W031": 1
+  },
+  "books/guidelines/guide/chapters/chapter-17/chapter-17-ru.md": {
+   "E004": 1,
+   "E011": 1,
+   "W031": 1
+  },
+  "books/guidelines/guide/chapters/chapter-17/chapter-17.md": {
+   "E004": 1,
+   "E011": 1
+  },
+  "books/guidelines/guide/chapters/chapter-18/chapter-18-ru.md": {
+   "E004": 1,
+   "E011": 1,
+   "P005": 1,
+   "P004": 1
+  },
+  "books/guidelines/guide/chapters/chapter-18/chapter-18.md": {
+   "E004": 1,
+   "E011": 1
+  },
+  "books/guidelines/guide/chapters/chapter-19/chapter-19-ru.md": {
+   "E004": 1,
+   "E011": 1
+  },
+  "books/guidelines/guide/chapters/chapter-19/chapter-19.md": {
+   "E004": 1,
+   "E011": 1
+  },
+  "books/guidelines/guide/chapters/chapter-20/chapter-20-ru.md": {
+   "E004": 1,
+   "E011": 1,
+   "P004": 1
+  },
+  "books/guidelines/guide/chapters/chapter-20/chapter-20.md": {
+   "E004": 1,
+   "E011": 1
+  },
+  "books/guidelines/guide/chapters/chapter-21/chapter-21-ru.md": {
+   "E004": 1,
+   "E011": 1,
+   "W031": 2
+  },
+  "books/guidelines/guide/chapters/chapter-21/chapter-21.md": {
+   "E004": 1,
+   "E011": 1,
+   "W031": 1
+  },
+  "books/guidelines/guide/chapters/chapter-22/chapter-22-ru.md": {
+   "E004": 1,
+   "E011": 1
+  },
+  "books/guidelines/guide/chapters/chapter-22/chapter-22.md": {
+   "E004": 1,
+   "I001": 1,
+   "E011": 1
+  },
+  "books/icu/Pilbeam/chapters/chapter-01/chapter-01-ru.md": {
+   "W031": 2,
+   "W033": 8,
+   "P005": 1
+  },
+  "books/icu/Pilbeam/chapters/chapter-01/chapter-01.md": {
+   "W031": 2,
+   "W033": 7
+  },
+  "books/icu/Pilbeam/chapters/chapter-02/chapter-02-ru.md": {
+   "P005": 1
+  },
+  "books/icu/Pilbeam/chapters/chapter-03/chapter-03-ru.md": {
+   "W033": 8,
+   "P005": 1
+  },
+  "books/icu/Pilbeam/chapters/chapter-03/chapter-03.md": {
+   "W033": 6
+  },
+  "books/icu/Pilbeam/chapters/chapter-04/chapter-04-ru.md": {
+   "W031": 1,
+   "W033": 8,
+   "E011": 1
+  },
+  "books/icu/Pilbeam/chapters/chapter-04/chapter-04.md": {
+   "W031": 1,
+   "W033": 8,
+   "E011": 1
+  },
+  "books/icu/Pilbeam/chapters/chapter-05/chapter-05-ru.md": {
+   "W033": 8,
+   "P005": 1
+  },
+  "books/icu/Pilbeam/chapters/chapter-05/chapter-05.md": {
+   "W033": 8
+  },
+  "books/icu/Pilbeam/chapters/chapter-06/chapter-06-ru.md": {
+   "E001": 1,
+   "E003": 1,
+   "W031": 3,
+   "W033": 11,
+   "P005": 1
+  },
+  "books/icu/Pilbeam/chapters/chapter-06/chapter-06.md": {
+   "E001": 1,
+   "E003": 1,
+   "W031": 3,
+   "W033": 11
+  },
+  "books/icu/Pilbeam/chapters/chapter-07/chapter-07-ru.md": {
+   "W031": 4,
+   "W033": 16,
+   "P005": 1
+  },
+  "books/icu/Pilbeam/chapters/chapter-07/chapter-07.md": {
+   "W031": 4,
+   "W033": 16
+  },
+  "books/icu/Pilbeam/chapters/chapter-08/chapter-08-ru.md": {
+   "W031": 1,
+   "W033": 10,
+   "W030": 2,
+   "P005": 1
+  },
+  "books/icu/Pilbeam/chapters/chapter-08/chapter-08.md": {
+   "W031": 1,
+   "W033": 9,
+   "W030": 2
+  },
+  "books/icu/Pilbeam/chapters/chapter-09/chapter-09-ru.md": {
+   "W033": 3,
+   "W031": 2
+  },
+  "books/icu/Pilbeam/chapters/chapter-09/chapter-09.md": {
+   "W033": 2,
+   "W031": 2
+  },
+  "books/icu/Pilbeam/chapters/chapter-10/chapter-10-ru.md": {
+   "E002": 1,
+   "E001": 1,
+   "E021": 1,
+   "W031": 2,
+   "W033": 13,
+   "P005": 1
+  },
+  "books/icu/Pilbeam/chapters/chapter-10/chapter-10.md": {
+   "E002": 1,
+   "E001": 1,
+   "E021": 1,
+   "W031": 2,
+   "W033": 11
+  },
+  "books/icu/Pilbeam/chapters/chapter-11/chapter-11-ru.md": {
+   "E021": 2,
+   "W031": 3,
+   "W033": 10,
+   "P005": 1
+  },
+  "books/icu/Pilbeam/chapters/chapter-11/chapter-11.md": {
+   "E021": 2,
+   "W031": 3,
+   "W033": 10
+  },
+  "books/icu/Pilbeam/chapters/chapter-12/chapter-12-ru.md": {
+   "W031": 3,
+   "W033": 24,
+   "P005": 1
+  },
+  "books/icu/Pilbeam/chapters/chapter-12/chapter-12.md": {
+   "W031": 3,
+   "W033": 24
+  },
+  "books/icu/Pilbeam/chapters/chapter-13/chapter-13-ru.md": {
+   "E001": 1,
+   "E003": 1,
+   "W031": 3,
+   "W033": 10,
+   "P001": 1,
+   "P005": 1,
+   "P004": 1
+  },
+  "books/icu/Pilbeam/chapters/chapter-13/chapter-13.md": {
+   "W031": 3,
+   "W033": 8
+  },
+  "books/icu/Pilbeam/chapters/chapter-14/chapter-14-ru.md": {
+   "W031": 2,
+   "W033": 5,
+   "P001": 1,
+   "P003": 1,
+   "P005": 1,
+   "P004": 1
+  },
+  "books/icu/Pilbeam/chapters/chapter-14/chapter-14.md": {
+   "W031": 3,
+   "W033": 5
+  },
+  "books/icu/Pilbeam/chapters/chapter-15/chapter-15-ru.md": {
+   "W031": 2,
+   "W033": 5
+  },
+  "books/icu/Pilbeam/chapters/chapter-15/chapter-15.md": {
+   "W031": 2,
+   "W033": 5
+  },
+  "books/icu/Pilbeam/chapters/chapter-16/chapter-16-ru.md": {
+   "W033": 3
+  },
+  "books/icu/Pilbeam/chapters/chapter-16/chapter-16.md": {
+   "W033": 3
+  },
+  "books/icu/Pilbeam/chapters/chapter-17/chapter-17-ru.md": {
+   "W033": 13,
+   "P005": 1
+  },
+  "books/icu/Pilbeam/chapters/chapter-17/chapter-17.md": {
+   "W033": 12
+  },
+  "books/icu/Pilbeam/chapters/chapter-18/chapter-18-ru.md": {
+   "W033": 6
+  },
+  "books/icu/Pilbeam/chapters/chapter-18/chapter-18.md": {
+   "W031": 1,
+   "W033": 6
+  },
+  "books/icu/Pilbeam/chapters/chapter-19/chapter-19-ru.md": {
+   "W031": 1,
+   "W033": 13,
+   "P005": 1
+  },
+  "books/icu/Pilbeam/chapters/chapter-19/chapter-19.md": {
+   "W031": 1,
+   "W033": 13
+  },
+  "books/icu/Pilbeam/chapters/chapter-20/chapter-20-ru.md": {
+   "W031": 1,
+   "W033": 16,
+   "P005": 1
+  },
+  "books/icu/Pilbeam/chapters/chapter-20/chapter-20.md": {
+   "W031": 1,
+   "W033": 16
+  },
+  "books/icu/Pilbeam/chapters/chapter-21/chapter-21-ru.md": {
+   "W031": 5,
+   "W033": 15,
+   "P005": 1
+  },
+  "books/icu/Pilbeam/chapters/chapter-21/chapter-21.md": {
+   "W031": 5,
+   "W033": 15,
+   "W032": 1
+  },
+  "books/icu/Pilbeam/chapters/chapter-22/chapter-22-ru.md": {
+   "W033": 22,
+   "P005": 1
+  },
+  "books/icu/Pilbeam/chapters/chapter-22/chapter-22.md": {
+   "W033": 22
+  },
+  "books/icu/Pilbeam/chapters/chapter-23/chapter-23-ru.md": {
+   "W031": 1,
+   "W033": 19,
+   "P005": 1
+  },
+  "books/icu/Pilbeam/chapters/chapter-23/chapter-23.md": {
+   "W031": 1,
+   "W033": 19,
+   "W032": 2
+  },
+  "books/icu/Pilbeam/chapters/chapter-Appendix 1/chapter-Appendix 1-ru.md": {
+   "W031": 1,
+   "W033": 20,
+   "W030": 1
+  },
+  "books/icu/Pilbeam/chapters/chapter-Appendix 1/chapter-Appendix 1.md": {
+   "W031": 3,
+   "W033": 20,
+   "W030": 1
+  },
+  "books/icu/Pilbeam/chapters/chapter-Appendix 2/chapter-Appendix 2-ru.md": {
+   "E021": 3,
+   "W031": 1,
+   "W033": 4
+  },
+  "books/icu/Pilbeam/chapters/chapter-Appendix 2/chapter-Appendix 2.md": {
+   "E021": 3,
+   "W031": 1,
+   "W033": 4
+  },
+  "books/icu/Pilbeam/chapters/chapter-Appendix 3/chapter-Appendix 3-ru.md": {
+   "E021": 8
+  },
+  "books/icu/Pilbeam/chapters/chapter-Appendix 3/chapter-Appendix 3.md": {
+   "E021": 8
+  },
+  "books/icu/Pilbeam/chapters/chapter-Appendix 4/chapter-Appendix 4-ru.md": {
+   "W033": 16,
+   "P005": 1
+  },
+  "books/icu/Pilbeam/chapters/chapter-Appendix 4/chapter-Appendix 4.md": {
+   "W033": 16
+  },
+  "books/icu/bojar/chapters/appendix/appendix-he.md": {
+   "W033": 1,
+   "W031": 8,
+   "P005": 1
+  },
+  "books/icu/bojar/chapters/appendix/appendix-ru.md": {
+   "W033": 1,
+   "P005": 1
+  },
+  "books/icu/bojar/chapters/appendix/appendix.md": {
+   "W033": 1
+  },
+  "books/icu/bojar/chapters/chapter-01/chapter-01-he.md": {
+   "E004": 2,
+   "W033": 10
+  },
+  "books/icu/bojar/chapters/chapter-01/chapter-01-ru.md": {
+   "E004": 2,
+   "W033": 10,
+   "P005": 1
+  },
+  "books/icu/bojar/chapters/chapter-01/chapter-01-starley.md": {
+   "E004": 93,
+   "W033": 5
+  },
+  "books/icu/bojar/chapters/chapter-01/chapter-01.md": {
+   "E004": 2,
+   "W033": 10
+  },
+  "books/icu/bojar/chapters/chapter-02/chapter-02-he.md": {
+   "E004": 2,
+   "W031": 1,
+   "W033": 1
+  },
+  "books/icu/bojar/chapters/chapter-02/chapter-02-ru.md": {
+   "E004": 2,
+   "W031": 1,
+   "W033": 1
+  },
+  "books/icu/bojar/chapters/chapter-02/chapter-02-starley.md": {
+   "E004": 33
+  },
+  "books/icu/bojar/chapters/chapter-02/chapter-02.md": {
+   "E004": 2,
+   "W031": 1,
+   "W033": 1
+  },
+  "books/icu/bojar/chapters/chapter-03/chapter-03-he.md": {
+   "E004": 2,
+   "W033": 1
+  },
+  "books/icu/bojar/chapters/chapter-03/chapter-03-ru.md": {
+   "E004": 2,
+   "W033": 1,
+   "P005": 1
+  },
+  "books/icu/bojar/chapters/chapter-03/chapter-03.md": {
+   "E004": 2,
+   "W033": 1
+  },
+  "books/icu/bojar/chapters/chapter-04/chapter-04-he.md": {
+   "E004": 2,
+   "W031": 1
+  },
+  "books/icu/bojar/chapters/chapter-04/chapter-04-ru.md": {
+   "E004": 2,
+   "W031": 1,
+   "P005": 1
+  },
+  "books/icu/bojar/chapters/chapter-04/chapter-04.md": {
+   "E004": 2,
+   "W031": 1
+  },
+  "books/icu/bojar/chapters/chapter-05/chapter-05-he.md": {
+   "E004": 2
+  },
+  "books/icu/bojar/chapters/chapter-05/chapter-05-ru.md": {
+   "E004": 2
+  },
+  "books/icu/bojar/chapters/chapter-05/chapter-05.md": {
+   "E004": 2
+  },
+  "books/icu/bojar/chapters/chapter-06/chapter-06-he.md": {
+   "E004": 2,
+   "W033": 1
+  },
+  "books/icu/bojar/chapters/chapter-06/chapter-06-ru.md": {
+   "E004": 2,
+   "W033": 1
+  },
+  "books/icu/bojar/chapters/chapter-06/chapter-06.md": {
+   "E004": 2,
+   "W033": 1
+  },
+  "books/icu/bojar/chapters/chapter-07/chapter-07-he.md": {
+   "E004": 2
+  },
+  "books/icu/bojar/chapters/chapter-07/chapter-07-ru.md": {
+   "E004": 2
+  },
+  "books/icu/bojar/chapters/chapter-07/chapter-07.md": {
+   "E004": 2
+  },
+  "books/icu/bojar/chapters/chapter-08/chapter-08-he.md": {
+   "E004": 2,
+   "W033": 11
+  },
+  "books/icu/bojar/chapters/chapter-08/chapter-08-ru.md": {
+   "E004": 2,
+   "W033": 11
+  },
+  "books/icu/bojar/chapters/chapter-08/chapter-08.md": {
+   "E004": 2,
+   "W033": 11
+  },
+  "books/icu/bojar/chapters/chapter-09/chapter-09-he.md": {
+   "E004": 2
+  },
+  "books/icu/bojar/chapters/chapter-09/chapter-09-ru.md": {
+   "E004": 2
+  },
+  "books/icu/bojar/chapters/chapter-09/chapter-09.md": {
+   "E004": 2
+  },
+  "books/icu/bojar/chapters/chapter-10/chapter-10-he.md": {
+   "E004": 2,
+   "W033": 2
+  },
+  "books/icu/bojar/chapters/chapter-10/chapter-10-ru.md": {
+   "E004": 2,
+   "W033": 2,
+   "P005": 1
+  },
+  "books/icu/bojar/chapters/chapter-10/chapter-10.md": {
+   "E004": 2,
+   "W033": 2
+  },
+  "books/icu/bojar/chapters/chapter-11/chapter-11-he.md": {
+   "E004": 2,
+   "E002": 1,
+   "E001": 1,
+   "W031": 1,
+   "P005": 1
+  },
+  "books/icu/bojar/chapters/chapter-11/chapter-11-ru.md": {
+   "E004": 2,
+   "W031": 1,
+   "P005": 1
+  },
+  "books/icu/bojar/chapters/chapter-11/chapter-11.md": {
+   "E004": 2,
+   "W031": 1
+  },
+  "books/icu/bojar/chapters/chapter-12/chapter-12-he.md": {
+   "E004": 2,
+   "P001": 1,
+   "P004": 1
+  },
+  "books/icu/bojar/chapters/chapter-12/chapter-12-ru.md": {
+   "E004": 2
+  },
+  "books/icu/bojar/chapters/chapter-12/chapter-12.md": {
+   "E004": 2
+  },
+  "books/icu/bojar/chapters/chapter-13/chapter-13-he.md": {
+   "E004": 2,
+   "W031": 2,
+   "W033": 2,
+   "P005": 1
+  },
+  "books/icu/bojar/chapters/chapter-13/chapter-13-ru.md": {
+   "E004": 2,
+   "W033": 2,
+   "P005": 1
+  },
+  "books/icu/bojar/chapters/chapter-13/chapter-13.md": {
+   "E004": 2,
+   "W031": 2,
+   "W033": 2
+  },
+  "books/icu/marino/chapters/appendix-01/appendix-01.md": {
+   "W033": 2
+  },
+  "books/icu/marino/chapters/chapter-01/chapter-01.md": {
+   "W033": 1
+  },
+  "books/icu/marino/chapters/chapter-02/chapter-02.md": {
+   "W033": 2
+  },
+  "books/icu/marino/chapters/chapter-03/chapter-03.md": {
+   "W033": 1
+  },
+  "books/icu/marino/chapters/chapter-04/chapter-04.md": {
+   "W033": 2
+  },
+  "books/icu/marino/chapters/chapter-05/chapter-05.md": {
+   "W033": 3
+  },
+  "books/icu/marino/chapters/chapter-06/chapter-06.md": {
+   "W033": 3
+  },
+  "books/icu/marino/chapters/chapter-07/chapter-07.md": {
+   "W033": 1
+  },
+  "books/icu/marino/chapters/chapter-08/chapter-08.md": {
+   "W033": 5
+  },
+  "books/icu/marino/chapters/chapter-09/chapter-09.md": {
+   "W033": 5
+  },
+  "books/icu/marino/chapters/chapter-10/chapter-10.md": {
+   "W033": 2
+  },
+  "books/icu/marino/chapters/chapter-11/chapter-11.md": {
+   "W033": 2
+  },
+  "books/icu/marino/chapters/chapter-12/chapter-12.md": {
+   "W033": 2
+  },
+  "books/icu/marino/chapters/chapter-14/chapter-14.md": {
+   "W033": 6
+  },
+  "books/icu/marino/chapters/chapter-15/chapter-15.md": {
+   "W033": 2
+  },
+  "books/icu/marino/chapters/chapter-16/chapter-16.md": {
+   "W033": 2
+  },
+  "books/icu/marino/chapters/chapter-17/chapter-17.md": {
+   "W033": 3
+  },
+  "books/icu/marino/chapters/chapter-18/chapter-18.md": {
+   "W033": 4
+  },
+  "books/icu/marino/chapters/chapter-19/chapter-19.md": {
+   "W033": 2
+  },
+  "books/icu/marino/chapters/chapter-20/chapter-20.md": {
+   "W033": 3
+  },
+  "books/icu/marino/chapters/chapter-21/chapter-21.md": {
+   "W033": 1
+  },
+  "books/icu/marino/chapters/chapter-22/chapter-22.md": {
+   "W033": 3,
+   "W031": 1
+  },
+  "books/icu/marino/chapters/chapter-23/chapter-23.md": {
+   "W033": 1
+  },
+  "books/icu/marino/chapters/chapter-24/chapter-24.md": {
+   "W031": 1,
+   "W033": 1
+  },
+  "books/icu/marino/chapters/chapter-25/chapter-25.md": {
+   "W033": 4
+  },
+  "books/icu/marino/chapters/chapter-26/chapter-26.md": {
+   "W033": 1
+  },
+  "books/icu/marino/chapters/chapter-27/chapter-27.md": {
+   "W033": 4
+  },
+  "books/icu/marino/chapters/chapter-29/chapter-29.md": {
+   "W033": 2
+  },
+  "books/icu/marino/chapters/chapter-30/chapter-30.md": {
+   "W031": 2,
+   "W033": 2
+  },
+  "books/icu/marino/chapters/chapter-31/chapter-31.md": {
+   "W033": 7
+  },
+  "books/icu/marino/chapters/chapter-32/chapter-32.md": {
+   "W033": 3
+  },
+  "books/icu/marino/chapters/chapter-33/chapter-33.md": {
+   "W033": 4
+  },
+  "books/icu/marino/chapters/chapter-34/chapter-34.md": {
+   "W033": 7
+  },
+  "books/icu/marino/chapters/chapter-35/chapter-35.md": {
+   "W033": 4,
+   "W031": 1
+  },
+  "books/icu/marino/chapters/chapter-36/chapter-36.md": {
+   "W033": 5
+  },
+  "books/icu/marino/chapters/chapter-37/chapter-37.md": {
+   "W033": 3
+  },
+  "books/icu/marino/chapters/chapter-39/chapter-39.md": {
+   "W033": 2
+  },
+  "books/icu/marino/chapters/chapter-40/chapter-40.md": {
+   "W033": 1
+  },
+  "books/icu/marino/chapters/chapter-41/chapter-41.md": {
+   "W033": 2
+  },
+  "books/icu/marino/chapters/chapter-43/chapter-43.md": {
+   "W033": 2
+  },
+  "books/icu/marino/chapters/chapter-46/chapter-46.md": {
+   "W033": 3
+  },
+  "books/icu/marino/chapters/chapter-47/chapter-47.md": {
+   "W033": 4
+  },
+  "books/icu/marino/chapters/chapter-48/chapter-48.md": {
+   "W033": 1
+  },
+  "books/icu/marino/chapters/chapter-49/chapter-49.md": {
+   "W033": 2
+  },
+  "books/icu/marino/chapters/chapter-50/chapter-.md": {
+   "W033": 1
+  },
+  "books/icu/marino/chapters/chapter-51/chapter-51.md": {
+   "W033": 1
+  },
+  "books/icu/marino/chapters/chapter-53/chapter-53.md": {
+   "W033": 1
+  },
+  "books/icu/oxford/chapters/chapter-01/chapter-01-he.md": {
+   "E004": 36,
+   "P005": 1
+  },
+  "books/icu/oxford/chapters/chapter-01/chapter-01-ru.md": {
+   "E004": 36,
+   "P005": 1
+  },
+  "books/icu/oxford/chapters/chapter-01/chapter-01.md": {
+   "E004": 36
+  },
+  "books/icu/oxford/chapters/chapter-02/chapter-02-he.md": {
+   "E004": 16,
+   "P005": 1
+  },
+  "books/icu/oxford/chapters/chapter-02/chapter-02-ru.md": {
+   "E004": 16,
+   "P005": 1
+  },
+  "books/icu/oxford/chapters/chapter-02/chapter-02.md": {
+   "E004": 16
+  },
+  "books/icu/oxford/chapters/chapter-03/chapter-03-he.md": {
+   "E004": 12,
+   "P005": 1
+  },
+  "books/icu/oxford/chapters/chapter-03/chapter-03-ru.md": {
+   "E004": 12
+  },
+  "books/icu/oxford/chapters/chapter-03/chapter-03.md": {
+   "E004": 12
+  },
+  "books/icu/oxford/chapters/chapter-04/chapter-04-he.md": {
+   "E004": 12
+  },
+  "books/icu/oxford/chapters/chapter-04/chapter-04-ru.md": {
+   "E004": 12
+  },
+  "books/icu/oxford/chapters/chapter-04/chapter-04.md": {
+   "E004": 12
+  },
+  "books/icu/oxford/chapters/chapter-05/chapter-05-he.md": {
+   "E004": 18,
+   "W033": 1,
+   "P005": 1
+  },
+  "books/icu/oxford/chapters/chapter-05/chapter-05-ru.md": {
+   "E004": 18,
+   "W033": 1,
+   "P005": 1
+  },
+  "books/icu/oxford/chapters/chapter-05/chapter-05.md": {
+   "E004": 18,
+   "W033": 1
+  },
+  "books/icu/oxford/chapters/chapter-06/chapter-06-he.md": {
+   "E004": 22,
+   "W033": 1,
+   "P005": 1
+  },
+  "books/icu/oxford/chapters/chapter-06/chapter-06-ru.md": {
+   "E004": 22,
+   "W033": 1,
+   "P005": 1
+  },
+  "books/icu/oxford/chapters/chapter-06/chapter-06.md": {
+   "E004": 22,
+   "W033": 1
+  },
+  "books/icu/oxford/chapters/chapter-07/chapter-07-he.md": {
+   "E004": 22,
+   "W033": 3,
+   "P005": 1
+  },
+  "books/icu/oxford/chapters/chapter-07/chapter-07-ru.md": {
+   "E004": 22,
+   "W033": 3,
+   "P005": 1
+  },
+  "books/icu/oxford/chapters/chapter-07/chapter-07.md": {
+   "E004": 22,
+   "W033": 3
+  },
+  "books/icu/oxford/chapters/chapter-08/chapter-08.md": {
+   "E004": 32,
+   "W033": 4
+  },
+  "books/icu/oxford/chapters/chapter-09/chapter-09.md": {
+   "E004": 56,
+   "E011": 3
+  },
+  "books/icu/oxford/chapters/chapter-10/chapter-10.md": {
+   "E004": 14,
+   "W033": 1
+  },
+  "books/icu/oxford/chapters/chapter-11/chapter-11.md": {
+   "W033": 2
+  },
+  "books/icu/oxford/chapters/chapter-12/chapter-12.md": {
+   "E004": 36
+  },
+  "books/icu/oxford/chapters/chapter-13/chapter-13-ru.md": {
+   "W033": 2,
+   "P001": 1,
+   "P005": 1,
+   "P004": 1
+  },
+  "books/icu/oxford/chapters/chapter-13/chapter-13.md": {
+   "E004": 58
+  },
+  "books/icu/oxford/chapters/chapter-14/chapter-14-ru.md": {
+   "W033": 1,
+   "P001": 1,
+   "P005": 1,
+   "P004": 1
+  },
+  "books/icu/oxford/chapters/chapter-14/chapter-14.md": {
+   "E004": 46,
+   "W033": 1
+  },
+  "books/icu/oxford/chapters/chapter-15/chapter-15-ru.md": {
+   "P001": 1,
+   "P005": 1,
+   "P004": 1
+  },
+  "books/icu/oxford/chapters/chapter-15/chapter-15.md": {
+   "E004": 40,
+   "E011": 1
+  },
+  "books/icu/oxford/chapters/chapter-16/chapter-16-ru.md": {
+   "W033": 1,
+   "P001": 1,
+   "P005": 1,
+   "P004": 1
+  },
+  "books/icu/oxford/chapters/chapter-16/chapter-16.md": {
+   "E004": 26,
+   "W033": 1
+  },
+  "books/icu/oxford/chapters/chapter-18/chapter-18-ru.md": {
+   "P005": 1,
+   "P004": 1
+  },
+  "books/icu/oxford/chapters/chapter-18/chapter-18.md": {
+   "W033": 2,
+   "W031": 2
+  },
+  "books/icu/oxford/chapters/chapter-20/chapter-20-he.md": {
+   "E004": 22
+  },
+  "books/icu/oxford/chapters/chapter-20/chapter-20-ru.md": {
+   "P001": 1,
+   "P005": 1,
+   "P004": 1
+  },
+  "books/icu/oxford/chapters/chapter-20/chapter-20.md": {
+   "E004": 22
+  },
+  "books/icu/oxford/chapters/chapter-21/chapter-21-he.md": {
+   "E004": 74,
+   "W031": 2,
+   "W033": 2
+  },
+  "books/icu/oxford/chapters/chapter-21/chapter-21-ru.md": {
+   "E004": 74,
+   "W031": 2,
+   "W033": 2
+  },
+  "books/icu/oxford/chapters/chapter-21/chapter-21.md": {
+   "E004": 74,
+   "W031": 2,
+   "W033": 2
+  },
+  "books/icu/oxford/chapters/chapter-22/chapter-22-he.md": {
+   "E004": 84,
+   "E001": 1,
+   "E003": 1,
+   "W031": 3,
+   "W033": 1
+  },
+  "books/icu/oxford/chapters/chapter-22/chapter-22-ru.md": {
+   "E004": 84,
+   "E001": 1,
+   "E003": 1,
+   "W031": 5,
+   "W033": 1
+  },
+  "books/icu/oxford/chapters/chapter-22/chapter-22.md": {
+   "E004": 84,
+   "E001": 1,
+   "E003": 1,
+   "W031": 5,
+   "W033": 1
+  },
+  "books/icu/oxford/chapters/chapter-24/chapter-24.md": {
+   "W031": 1
+  },
+  "books/icu/oxford/chapters/chapter-25/chapter-25-ru.md": {
+   "P005": 1,
+   "P004": 1
+  },
+  "books/icu/oxford/chapters/chapter-26/chapter-26-ru.md": {
+   "E004": 50,
+   "W033": 2,
+   "E011": 2,
+   "P005": 1
+  },
+  "books/icu/oxford/chapters/chapter-26/chapter-26.md": {
+   "E004": 50,
+   "W033": 2,
+   "E011": 2
+  },
+  "books/icu/oxford/chapters/chapter-27/chapter-27.md": {
+   "E004": 156,
+   "E011": 1,
+   "W033": 1,
+   "W031": 1
+  },
+  "books/icu/oxford/chapters/chapter-28/chapter-28-ru.md": {
+   "E004": 14,
+   "E011": 1,
+   "P005": 1
+  },
+  "books/icu/oxford/chapters/chapter-28/chapter-28.md": {
+   "E004": 14,
+   "E011": 1
+  },
+  "books/icu/oxford/chapters/chapter-29/chapter-29-ru.md": {
+   "E004": 22,
+   "W033": 2,
+   "P005": 1
+  },
+  "books/icu/oxford/chapters/chapter-29/chapter-29.md": {
+   "E004": 22,
+   "W033": 2
+  },
+  "books/icu/oxford/chapters/chapter-30/chapter-30-ru.md": {
+   "E004": 24,
+   "W033": 1,
+   "E011": 1,
+   "P005": 1
+  },
+  "books/icu/oxford/chapters/chapter-30/chapter-30.md": {
+   "E004": 24,
+   "W033": 1,
+   "E011": 1
+  },
+  "books/icu/oxford/chapters/chapter-31/chapter-31-ru.md": {
+   "E004": 38,
+   "P005": 1
+  },
+  "books/icu/oxford/chapters/chapter-31/chapter-31.md": {
+   "E004": 38
+  },
+  "books/icu/oxford/chapters/chapter-32/chapter-32-he.md": {
+   "E004": 70,
+   "E001": 1,
+   "E003": 1,
+   "P001": 1,
+   "P005": 1,
+   "P004": 1
+  },
+  "books/icu/oxford/chapters/chapter-32/chapter-32-ru.md": {
+   "E004": 76,
+   "P005": 1
+  },
+  "books/icu/oxford/chapters/chapter-32/chapter-32.md": {
+   "E004": 76
+  },
+  "books/summary/mysummary/chapters/chapter-01/chapter-01-ru.md": {
+   "E004": 126,
+   "W031": 59,
+   "P005": 1
+  },
+  "books/summary/mysummary/chapters/chapter-01/chapter-01-starley.md": {
+   "E004": 200,
+   "W031": 60,
+   "W032": 1
+  },
+  "books/summary/mysummary/chapters/chapter-01/chapter-01.md": {
+   "E005": 63,
+   "E004": 63,
+   "W031": 60,
+   "W032": 1
+  },
+  "books/summary/mysummary/chapters/chapter-02.md": {
+   "E005": 13,
+   "E004": 13,
+   "W031": 5
+  },
+  "books/summary/mysummary/chapters/chapter-02/chapter-02.md": {
+   "E005": 13,
+   "E004": 13,
+   "W031": 5
+  },
+  "books/summary/mysummary/chapters/chapter-03/chapter-03.md": {
+   "E005": 41,
+   "E004": 41,
+   "W031": 70,
+   "W033": 7
+  },
+  "books/summary/mysummary/chapters/chapter-04/chapter-04.md": {
+   "E005": 22,
+   "E004": 22,
+   "W031": 16
+  },
+  "books/summary/mysummary/chapters/chapter-05/chapter-05.md": {
+   "E005": 8,
+   "E004": 8,
+   "W031": 2
+  },
+  "books/summary/mysummary/chapters/chapter-06/chapter-06.md": {
+   "E005": 10,
+   "E004": 10,
+   "W031": 2
+  },
+  "books/thoracic-surgery/Sugarbaker2/chapters/chapter-01/chapter-01-ru.md": {
+   "W031": 4,
+   "W033": 29,
+   "P005": 1
+  },
+  "books/thoracic-surgery/Sugarbaker2/chapters/chapter-01/chapter-01.md": {
+   "W031": 4,
+   "W033": 29
+  },
+  "books/thoracic-surgery/Sugarbaker2/chapters/chapter-02/chapter-02-ru.md": {
+   "E021": 20,
+   "W031": 8,
+   "W033": 46,
+   "P005": 1
+  },
+  "books/thoracic-surgery/Sugarbaker2/chapters/chapter-02/chapter-02.md": {
+   "E021": 20,
+   "W031": 8,
+   "W033": 40
+  },
+  "books/thoracic-surgery/Sugarbaker2/chapters/chapter-03/chapter-03-ru.md": {
+   "W031": 5,
+   "W033": 9
+  },
+  "books/thoracic-surgery/Sugarbaker2/chapters/chapter-03/chapter-03.md": {
+   "W031": 6,
+   "W033": 9
+  },
+  "books/thoracic-surgery/Sugarbaker2/chapters/chapter-04/chapter-04-ru.md": {
+   "W031": 3,
+   "W033": 7,
+   "W032": 1,
+   "P005": 1
+  },
+  "books/thoracic-surgery/Sugarbaker2/chapters/chapter-04/chapter-04.md": {
+   "E004": 1,
+   "E001": 1,
+   "E003": 1,
+   "W031": 3,
+   "W033": 7,
+   "W032": 1
+  },
+  "books/thoracic-surgery/Sugarbaker2/chapters/chapter-05/chapter-05-ru.md": {
+   "E021": 14,
+   "W031": 4,
+   "W033": 19,
+   "P001": 1,
+   "P002": 1,
+   "P003": 1,
+   "P005": 1,
+   "P004": 1
+  },
+  "books/thoracic-surgery/Sugarbaker2/chapters/chapter-05/chapter-05.md": {
+   "E021": 14,
+   "W031": 5,
+   "W033": 22
+  },
+  "books/thoracic-surgery/Sugarbaker2/chapters/chapter-06/chapter-06-ru.md": {
+   "E004": 2,
+   "E021": 3,
+   "W033": 17,
+   "P001": 1,
+   "P005": 1,
+   "P004": 1
+  },
+  "books/thoracic-surgery/Sugarbaker2/chapters/chapter-06/chapter-06.md": {
+   "E021": 3,
+   "W033": 14
+  },
+  "books/thoracic-surgery/Sugarbaker2/chapters/chapter-07/chapter-07-ru.md": {
+   "E021": 6,
+   "W033": 7,
+   "P005": 1
+  },
+  "books/thoracic-surgery/Sugarbaker2/chapters/chapter-07/chapter-07.md": {
+   "E021": 6,
+   "W031": 1,
+   "W033": 7
+  },
+  "books/thoracic-surgery/Sugarbaker2/chapters/chapter-08/chapter-08-ru.md": {
+   "E021": 6,
+   "W031": 4,
+   "W033": 21,
+   "P005": 1
+  },
+  "books/thoracic-surgery/Sugarbaker2/chapters/chapter-08/chapter-08.md": {
+   "E021": 6,
+   "W031": 4,
+   "W033": 20,
+   "W032": 1
+  },
+  "books/thoracic-surgery/Sugarbaker2/chapters/chapter-09/chapter-09-ru.md": {
+   "E021": 12,
+   "W033": 17,
+   "P005": 1
+  },
+  "books/thoracic-surgery/Sugarbaker2/chapters/chapter-09/chapter-09.md": {
+   "E021": 12,
+   "W033": 15
+  },
+  "books/thoracic-surgery/Sugarbaker2/chapters/chapter-10/chapter-10-ru.md": {
+   "E021": 8,
+   "W033": 9,
+   "P005": 1
+  },
+  "books/thoracic-surgery/Sugarbaker2/chapters/chapter-10/chapter-10.md": {
+   "E021": 8,
+   "W033": 8
+  },
+  "books/thoracic-surgery/Sugarbaker2/chapters/chapter-11/chapter-11-ru.md": {
+   "E021": 24,
+   "W031": 1,
+   "W033": 25,
+   "P005": 1
+  },
+  "books/thoracic-surgery/Sugarbaker2/chapters/chapter-11/chapter-11.md": {
+   "E021": 24,
+   "W031": 1,
+   "W033": 23
+  },
+  "books/thoracic-surgery/Sugarbaker2/chapters/chapter-12/chapter-12-ru.md": {
+   "E020": 1,
+   "E021": 3,
+   "W033": 4,
+   "P002": 1
+  },
+  "books/thoracic-surgery/Sugarbaker2/chapters/chapter-12/chapter-12.md": {
+   "E021": 2,
+   "W033": 4
+  },
+  "books/thoracic-surgery/Sugarbaker2/chapters/chapter-13/chapter-13-ru.md": {
+   "W033": 5
+  },
+  "books/thoracic-surgery/Sugarbaker2/chapters/chapter-13/chapter-13.md": {
+   "W031": 1,
+   "W033": 5
+  },
+  "books/thoracic-surgery/Sugarbaker2/chapters/chapter-14/chapter-14-ru.md": {
+   "W031": 4,
+   "W033": 14,
+   "P005": 1
+  },
+  "books/thoracic-surgery/Sugarbaker2/chapters/chapter-14/chapter-14.md": {
+   "W031": 4,
+   "W033": 14
+  },
+  "books/thoracic-surgery/Sugarbaker2/chapters/chapter-15/chapter-15-ru.md": {
+   "W031": 4,
+   "W033": 5,
+   "P005": 1
+  },
+  "books/thoracic-surgery/Sugarbaker2/chapters/chapter-15/chapter-15.md": {
+   "W031": 4,
+   "W033": 5
+  },
+  "books/thoracic-surgery/Sugarbaker2/chapters/chapter-16/chapter-16-ru.md": {
+   "W033": 16,
+   "W031": 1,
+   "P005": 1
+  },
+  "books/thoracic-surgery/Sugarbaker2/chapters/chapter-16/chapter-16.md": {
+   "W031": 2,
+   "W033": 16
+  },
+  "books/thoracic-surgery/Sugarbaker2/chapters/chapter-17/chapter-17-ru.md": {
+   "W031": 3,
+   "W033": 12,
+   "P005": 1
+  },
+  "books/thoracic-surgery/Sugarbaker2/chapters/chapter-17/chapter-17.md": {
+   "W031": 5,
+   "W033": 12
+  },
+  "books/thoracic-surgery/Sugarbaker2/chapters/chapter-18/chapter-18-ru.md": {
+   "E001": 1,
+   "E003": 1,
+   "W031": 3,
+   "W033": 13,
+   "P005": 1
+  },
+  "books/thoracic-surgery/Sugarbaker2/chapters/chapter-18/chapter-18.md": {
+   "W031": 3,
+   "W033": 11
+  },
+  "books/thoracic-surgery/Sugarbaker2/chapters/chapter-19/chapter-19-ru.md": {
+   "W031": 5,
+   "W033": 29,
+   "P005": 1
+  },
+  "books/thoracic-surgery/Sugarbaker2/chapters/chapter-19/chapter-19.md": {
+   "W031": 8,
+   "W033": 24
+  },
+  "books/thoracic-surgery/Sugarbaker2/chapters/chapter-20/chapter-20-ru.md": {
+   "E021": 47,
+   "W031": 2,
+   "W033": 46,
+   "P002": 1,
+   "P005": 1,
+   "P004": 1
+  },
+  "books/thoracic-surgery/Sugarbaker2/chapters/chapter-20/chapter-20.md": {
+   "E021": 12,
+   "W031": 2,
+   "W033": 46
+  },
+  "books/thoracic-surgery/Sugarbaker2/chapters/chapter-21/chapter-21-ru.md": {
+   "W031": 1,
+   "W033": 15
+  },
+  "books/thoracic-surgery/Sugarbaker2/chapters/chapter-21/chapter-21.md": {
+   "W031": 1,
+   "W033": 15
+  },
+  "books/thoracic-surgery/Sugarbaker2/chapters/chapter-22/chapter-22-ru.md": {
+   "E021": 14,
+   "W031": 2,
+   "W033": 11,
+   "P005": 1
+  },
+  "books/thoracic-surgery/Sugarbaker2/chapters/chapter-22/chapter-22.md": {
+   "E021": 14,
+   "W031": 3,
+   "W033": 8
+  },
+  "books/thoracic-surgery/Sugarbaker2/chapters/chapter-23/chapter-23-ru.md": {
+   "E021": 14,
+   "W031": 1,
+   "W033": 30,
+   "P005": 1
+  },
+  "books/thoracic-surgery/Sugarbaker2/chapters/chapter-23/chapter-23.md": {
+   "E021": 14,
+   "W031": 2,
+   "W033": 30
+  },
+  "books/thoracic-surgery/Sugarbaker2/chapters/chapter-24/chapter-24-ru.md": {
+   "W031": 3,
+   "W033": 13,
+   "P005": 1
+  },
+  "books/thoracic-surgery/Sugarbaker2/chapters/chapter-24/chapter-24.md": {
+   "W031": 4,
+   "W033": 13
+  },
+  "books/thoracic-surgery/Sugarbaker2/chapters/chapter-25/chapter-25-ru.md": {
+   "E021": 21,
+   "W031": 1,
+   "W033": 25,
+   "P001": 1,
+   "P005": 1,
+   "P004": 1
+  },
+  "books/thoracic-surgery/Sugarbaker2/chapters/chapter-25/chapter-25.md": {
+   "E002": 1,
+   "E004": 1,
+   "E001": 1,
+   "E021": 21,
+   "W031": 1,
+   "W033": 25
+  },
+  "books/thoracic-surgery/Sugarbaker2/chapters/chapter-26/chapter-26-ru.md": {
+   "E021": 1,
+   "W033": 8,
+   "W031": 1,
+   "P005": 1
+  },
+  "books/thoracic-surgery/Sugarbaker2/chapters/chapter-26/chapter-26.md": {
+   "E021": 1,
+   "W031": 2,
+   "W033": 8
+  },
+  "books/work/examen/chapters/chapter-01/chapter-01-ru.md": {
+   "W031": 5,
+   "P005": 1
+  },
+  "books/work/examen/chapters/chapter-01/chapter-01.md": {
+   "W031": 6
+  },
+  "books/work/wolfson/chapters/chapter-01.md": {
+   "E011": 5
+  },
+  "books/work/wolfson/chapters/chapter-01/chapter-01-ru.md": {
+   "P004": 1
+  },
+  "books/work/wolfson/chapters/chapter-02/chapter-02-03.md": {
+   "E011": 2
+  },
+  "books/work/wolfson/chapters/chapter-02/chapter-02.md": {
+   "E011": 1
+  },
+  "books/work/wolfson/chapters/chapter-03/chapter-03.md": {
+   "E011": 1
+  },
+  "books/work/wolfson/chapters/chapter-04/chapter-04.md": {
+   "E011": 4
+  }
+ }
+}
