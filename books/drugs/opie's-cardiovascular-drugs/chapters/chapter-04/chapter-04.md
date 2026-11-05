@@ -1,629 +1,975 @@
-# Drugs for Diabetes
+# 4. Drugs for Diabetes
 
-CARA REITER-BRENNAN • OMAR DZAYE • MICHAEL J. BLAHA • ROBERT H. ECKEL
+##### Comprehensive clinical guide to antidiabetic pharmacotherapy, metabolic syndrome, cardiorenal protection, landmark CVOTs, and modern treatment algorithms.
 
-# Metabolic Syndrome and Prediabetes
+<details class="med-details"><summary>
 
-Obesity has become a common problem in Western society, and it is a strong predictor of type 2 diabetes mellitus (T2DM).1,2 In the United States it is estimated that almost one-third of the population will develop T2DM in their lifetimes. T2DM, in turn, predisposes to cardiovascular abnormalities.<sup>2</sup>
+## Executive Summary: Evidence-Based Diabetology and Cardiorenal Protection</summary><div class="details-content">
 
-An increased waistline is one of the five criteria of the metabolic syndrome (MetSyn)—a prediabetic state—in addition to fasting hyperglycemia and blood pressure (BP) elevation, increased circulating triglycerides (TGs), and decreased circulating highdensity lipoprotein (HDL) cholesterol (HDL-C) (Fig. 4.1).3 Three of these are required for the diagnosis of the MetSyn (Table 4.1).4 Abdominal girth, insulin resistance (IR), and insulin response are the three main factors that, each independently, increase the metabolic risk of cardiovascular disease (CVD).<sup>5</sup> However, waist circumference is a better predictor of the risk of myocardial infarction (MI) than body mass index (BMI) is.<sup>6</sup>
+<details class="med-details"><summary>
 
-Abdominal adipose tissue is now recognized as a metabolically active organ and regarded as the basic abnormality in the Met-Syn by the International Diabetes Federation.<sup>7</sup> There are strong links between excessive abdominal fat leading to excessive circulating free fatty acids (FFAs) and cytokines, which contribute to the other four features of the MetSyn and help explain worsening IR (Fig. 4.2).6 The MetSyn is of clinical importance in that it increases the risk of CVD and especially T2DM, driven almost entirely by the fasting glucose component.<sup>8</sup> Currently an increasing number of patients with the MetSyn obesity or T2DM are being treated by cardiologists, often in close collaboration with primary care physicians and diabetologists.
+### Introduction: Diabetes Epidemiology and the Cardiorenal Paradigm Shift</summary><div class="details-content">
 
-#### *HDL & TG IN METABOLIC SYNDROME & DIABETES*
+*Cara Reiter-Brennan, Omar Dzaye, Michael J. Blaha, and Robert H. Eckel*
 
-![](_page_1_Figure_2.jpeg)
+Type 2 diabetes mellitus (T2DM) has reached pandemic proportions in contemporary society, driven by surging rates of visceral adiposity and physical inactivity. Long regarded strictly as an endocrine disorder of glucose homeostasis, diabetes is now recognized as a premier cardiovascular and metabolic disease entity. Cardiovascular disease (CVD)—encompassing atherosclerotic cardiovascular disease (ASCVD), heart failure (HF), and microvascular renal disease—represents the leading cause of morbidity, hospitalization, and premature death in patients with diabetes. Over the past decade, a profound paradigm shift has transformed diabetic therapeutics: clinical management has evolved from an exclusive, glucocentric pursuit of glycated hemoglobin (HbA1c) reduction to a comprehensive strategy of cardiorenal risk reduction and organoprotection.
 
-Fig. 4.1 HDL and TG in metabolic syndrome and diabetes. Consistent features (see right side of the figure) are the increased circulating levels of triglycerides (TGs) and decreased high-density lipoprotein (HDL) cholesterol. The basic problem lies in increased levels of the atherogenic particles: very-low density lipoproteins (VLDLs), triglyceride-rich lipoprotein (TG-rL), and apoliprotein (Apo) B. (Apos have detergent-like properties that solubilize the hydrophobic lipoproteins.) Levels of TG-rL and Apo B are increased by excess hepatic synthesis of VLDL, high postprandial TG concentrations after a fatty meal, and low levels of lipoprotein lipase (LPL) activity. Adipose tissue releases excess free fatty acids (FFAs), which with hyperglycemia leads to increased hepatic production of VLDL. Cholesterol-ester transfer protein (CETP) increases the transfer of TG to HDL particles to form TG-rich HDL, with a simultaneous transfer of cholesteryl esters (CE) from the HDL particles to TG-rL. TG-rich HDL is broken down by hepatic lipase (HL) to form small, dense HDL particles. A similar process leads to increased formation of small dense low-density lipoprotein (LDL) particles.
+This revolution was catalyzed by the 2008 US Food and Drug Administration (FDA) guidance mandating robust cardiovascular outcome trials (CVOTs) for all newly developed glucose-lowering drugs. The resulting data revealed that while glycemic control remains foundational for preventing microvascular endpoints (retinopathy, nephropathy, and neuropathy), lowering blood glucose per se does not automatically translate into macrovascular protection. Crucially, contemporary CVOTs demonstrated that specific modern drug classes—notably sodium-glucose cotransporter-2 (SGLT2) inhibitors and glucagon-like peptide-1 receptor agonists (GLP-1 RAs)—confer profound, organoprotective benefits on major adverse cardiovascular events (MACE), cardiovascular mortality, heart failure hospitalizations, and chronic kidney disease (CKD) progression through multifaceted mechanisms operating well beyond glycemic control. This chapter provides a rigorous, evidence-based review of antidiabetic pharmacotherapy from a cardiovascular perspective, covering metabolic syndrome, prediabetes, risk stratification, clinical trial evidence, and modern therapeutic algorithms.
 
-Table 4.1
+</div></details>
 
-| Common Definitions for Metabolic Syndrome                            |                                                                                                                                                                        |  |  |  |  |
-|----------------------------------------------------------------------|------------------------------------------------------------------------------------------------------------------------------------------------------------------------|--|--|--|--|
-| Criterion                                                            | NCEP ATP III (3 or more criteria)                                                                                                                                      |  |  |  |  |
-| Abdominal obesity<br>Men<br>Women<br>Hypertriglyceridemia<br>Low HDL | Waist circumference<br>>40 inches (>102 cm)<br>>35 inches (>88 cm)<br>>150 mg/dl (≥1.7 mmol/L)                                                                         |  |  |  |  |
-| Men Women Hypertension Impaired fasting glucose or diabetes          | <40 mg/dl (<1.03 mmol/L) <50 mg/dl (<1.30 mmol/L) ≥130/85 mm Hg or on antihypertensive medication >100 mg/dl (5.6 mmol/L) or taking insulin or hypoglycemic medication |  |  |  |  |
+<details class="med-details"><summary>
 
-From Floege J, et al.: Comprehensive clinical nephrology, ed 4, Philadelphia, 2010, Saunders.
+### 1. Metabolic Syndrome & Prediabetes Pathophysiology</summary><div class="details-content">
 
-# **Risks of Metabolic Syndrome**
+- Metabolic syndrome represents a cluster of atherogenic and metabolic risk factors driven by visceral adiposity and insulin resistance; the presence of ≥ 3 of 5 ATP III criteria (abdominal obesity, hypertriglyceridemia ≥ 150 mg/dL, low HDL-C, BP ≥ 130/85 mmHg, and fasting plasma glucose ≥ 100 mg/dL) establishes the diagnosis ([Table 4.1](#table-04-01)).
+- Excessive visceral fat releases increased fluxes of free fatty acids (FFAs) and inflammatory adipokines directly into the portal circulation, damaging pancreatic beta-cells, impairing skeletal muscle glucose uptake, and driving hepatic gluconeogenesis and VLDL oversecretion ([Fig. 4.1](#fig-04-01), [Fig. 4.2](#fig-04-02)).
+- Dyslipidemia in metabolic syndrome is uniquely atherogenic: CETP transfers triglycerides from VLDL into HDL and LDL, creating small, dense LDL particles and dysfunctional, small dense HDL particles that undergo accelerated renal clearance.
+- The risk of cardiovascular disease and incident diabetes escalates exponentially with the number of metabolic syndrome components; patients with 4 or 5 features carry a 25-fold higher risk of developing T2DM.
+- Intensive lifestyle modification (7% weight loss, ≥ 150 min/week moderate physical activity) reduced incident T2DM by 58% in the Diabetes Prevention Program (DPP), outperforming metformin (31% reduction).
+- Antihypertensive drug selection influences diabetes risk: conventional beta-blockers and thiazide diuretics increase the incidence of new-onset diabetes, whereas ACE inhibitors and ARBs reduce the incidence of new-onset diabetes ([Fig. 4.3](#fig-04-03)).
 
-MetSyn comprises a group of cardiometabolic risk factors, each of which individually may be of only borderline significance, but when taken together indicate enhanced risk of development of overt T2DM or CVD. While a useful tool to communicate underlying pathophysiology and shared risk factors, influential authorities have questioned the independent predictive value of the MetSyn for the future development of T2DM and stress the role of one of the five components alone; glucose. For cardiologists, becoming alert to risk-factor clustering, including abdominal obesity, high TGs, low HDL-C, prehypertension, and hyperglycemia, is an important widening of vision. 10 The risk of developing future CVD is proportional to the number of MetSyn features. <sup>11</sup> With four or five features, the risk of T2DM was 25-fold greater than with no features and still much more than with only one feature. 12 In an analysis of persons in 37 studies, MetSyn had a relative risk of 1.78 for future cardiovascular events, and the association remained after adjusting for traditional cardiovascular risk factors (relative risk [RR], 1.54; confidence interval [CI], 1.32–1.79). <sup>13</sup> The International Day for Evaluation of Abdominal Obesity study measured waistlines in primary care patients spread worldwide to confirm an association between waist and CVD (RR 1.36) and more so with T2DM (RR 1.59 in men and 1.83 in women).
+</div></details>
 
-#### **METABOLIC SYNDROME**
+<details class="med-details"><summary>
 
-![](_page_3_Figure_2.jpeg)
+### 2. Cardiovascular Risk Stratification & Glycemic Targets</summary><div class="details-content">
 
-Fig. 4.2 Metabolic syndrome. The adipose tissue releases increased free fatty acids (FFAs) into the circulation, thereby inhibiting the uptake of glucose by muscle. Plasma glucose rises and elicits an insulin response. However, the pancreas is damaged by the high FFA levels and increased cytokines. The net effect is increased fasting plasma glucose (FPG) despite the increased circulating insulin (insulin resistance). Increased plasma FFA and glucose predispose to increased hepatic synthesis of triglycerides (TGs) and increased blood levels of TG, which in turn decrease levels of high-density lipoprotein (HDL) cholesterol. Increased release of angiotensin II (A-II) from the abdominal fat causes vasoconstriction and increases the blood pressure (BP). F, Female; M, male. For details, see Opie LH. Metabolic syndrome. Circulation 2007;115:e32.
+- Type 2 diabetes is no longer considered a categorical "coronary heart disease equivalent" in all patients; individuals with short disease duration (<10 years) without target organ damage have substantially lower ASCVD risk than patients with prior myocardial infarction.
+- A diabetes duration >10 years (or >20 years for T1DM), persistent albuminuria (>30 $\\mu\\text{g}$/mg creatinine), eGFR <60 mL/min/1.73 m², diabetic retinopathy, neuropathy, or an ankle-brachial index <0.9 represent major independent cardiovascular risk-enhancing factors ([Table 4.2](#table-04-02), [Table 4.3](#table-04-03)).
+- Coronary artery calcium (CAC) scoring effectively reclassifies risk in diabetic individuals: patients with a CAC score of 0 demonstrate low near-term ASCVD rates (<10-year warranty period), whereas CAC >100 or >75th percentile identifies individuals warranting intensive preventative therapy.
+- Intensive glycemic control (HbA1c $<7.0\\%$) firmly reduces microvascular disease (retinopathy by 60% in DCCT; nephropathy and microalbuminuria in UKPDS), but its macrovascular impact requires long-term follow-up (the "legacy effect" or metabolic memory).
+- The ACCORD trial demonstrated that aggressively pursuing near-normal glycemia (HbA1c $<6.0\\%$) in older patients with long-standing T2DM and high CVD risk increased all-cause mortality by 22% (HR 1.22; 95% CI 1.01–1.46), primarily driven by severe hypoglycemia ([Table 4.4](#table-04-04)).
+- Glycemic targets must be individualized: HbA1c $<6.5\\%$ is appropriate for newly diagnosed, younger individuals with long life expectancy and no CVD; HbA1c $<7.0\\%$ is the standard target for nonpregnant adults; and HbA1c $<8.0\\%$ is recommended for patients with advanced vascular complications, extensive comorbidities, or limited life expectancy.
 
-#### **Insulin Resistance**
+</div></details>
 
-IR leads to the MetSyn $^5$  via increased circulating FFA (Fig. 4.2) and elevated glucose production in the liver, which are the precursors of T2DM.  $^{14}$  There is a dose-response effect of elevated plasma FFA on insulin signaling.  $^{15}$  Importantly, early life dietary patterns strongly predispose to IR.
+<details class="med-details"><summary>
 
-How is obesity related to IR? Already modestly elevated FFA often observed in obese persons, and in some increased FFA flux, inhibit insulin signaling and stimulate nuclear factor kappa B (NFκB) to promote IR (Figure 1 in Kim, 2012). AFκB in turn stimulates macrophages to provoke the chronic low-grade inflammatory response (Figure 2 in Kim, 2012) with increased plasma levels of C-reactive protein, and inflammatory cytokines such as tumor necrosis factor—alpha, interleukin (IL) 6, monocyte chemotactic protein 1, and IL-8, and the multifunctional proteins leptin and osteopontin. Are "Western" high-fat diet experimentally enhances such cytokine production, whereas exercise diminishes it. The overall sequence is:
+### 3. The 2008 FDA Guidance & Paradigm Shift in CVOTs</summary><div class="details-content">
 
-Obesity  $\rightarrow$  FFA flux  $\rightarrow$  NF $\kappa$ B  $\rightarrow$  macrophages  $\rightarrow$  inflammatory cytokines  $\rightarrow$  insulin resistance
+- Before 2008, antidiabetic drugs were approved solely on the basis of glycemic efficacy (HbA1c reduction), leaving their cardiovascular safety largely untested ([Table 4.5](#table-04-05)).
+- The rosiglitazone controversy (meta-analysis showing a 43% increase in myocardial infarction) prompted the FDA 2008 mandate requiring all new T2DM therapies to demonstrate cardiovascular safety via dedicated CVOTs.
+- The 2008 guidance established formal statistical criteria: premarketing trials had to rule out an upper bound of the 95% confidence interval for hazard ratio (HR) of 1.8 for MACE; postmarketing trials had to rule out an upper bound of 1.3 ([Table 4.6](#table-04-06)).
+- CVOTs transformed clinical trial design by enrolling high-risk patients with established CVD or multiple risk factors, leading to the unexpected discovery of profound organoprotective and mortality benefits for SGLT2 inhibitors and GLP-1 RAs.
+- In response to these landmark trials, regulatory bodies granted unprecedented label indications for empagliflozin (reduction of cardiovascular death) and liraglutide/canagliflozin (reduction of MACE in established ASCVD).
 
-# **Diabetes Prevention**
+</div></details>
 
-# **Lifestyle Changes to Slow the Onset of Diabetes**
+<details class="med-details"><summary>
 
-The transition from MetSyn to full-blown T2DM can be significantly lessened by lifestyle intervention. Walking only approximately 19km per week can be beneficial in treating MetSyn. <sup>18</sup> However, more intense intervention is needed for more substantial change. Tuomilehto et al. <sup>19</sup> studied a group of overweight subjects with impaired glucose tolerance who, on average, also had the features of the MetSyn. Dietary advice and exercise programs were individually tailored. The five aims were weight reduction, decreased fat intake, decreased saturated fat intake, increased fiber intake, and increased endurance exercise (at least 30 minutes daily). Of these, increased exercise was achieved in 86% of participants, and the other components less frequently. After a mean duration of 3.2 years, the relative risk for new T2DM in the lifestyle intervention group was  $0.4 \ (P < 0.001)$ .
+### 4. Metformin: Mechanisms & Clinical Role</summary><div class="details-content">
 
-In the Diabetes Prevention Group,<sup>20</sup> similar subjects were given lifestyle modification or metformin for a mean of 2.8 years. Lifestyle intervention was very intense with a 16-lesson curriculum
+- Metformin remains the foundational first-line pharmacological therapy for T2DM, acting primarily by inhibiting complex I of the mitochondrial respiratory chain, which increases the AMP/ATP ratio and activates AMP-activated protein kinase (AMPK) ([Fig. 4.4](#fig-04-04)).
+- AMPK activation suppresses hepatic gluconeogenesis, downregulates lipogenic enzymes, increases peripheral insulin sensitivity, and promotes GLUT-4 glucose transporter translocation to the sarcolemma.
+- In the UKPDS 34 overweight substudy, metformin monotherapy reduced diabetes-related endpoints by 32%, myocardial infarction by 39%, and all-cause mortality by 36% compared to conventional dietary therapy.
+- Metformin is weight-neutral or promotes modest weight loss, carries negligible inherent hypoglycemia risk, and exhibits an excellent long-term safety profile.
+- Renal dosing thresholds: metformin is safe when eGFR ≥ 45 mL/min/1.73 m²; if eGFR is 30–44 mL/min/1.73 m², the maximum dose is restricted to 1000 mg/day (or 500 mg bid); metformin is strictly contraindicated when eGFR <30 mL/min/1.73 m² due to the risk of lactic acidosis.
+- Metformin should be temporarily discontinued prior to iodinated radiocontrast procedures in patients with eGFR <60 mL/min/1.73 m², acute liver disease, acute heart failure, or severe sepsis.
 
-covering diet, exercise, and behavior modification taught by case managers on a one-to-one basis during the first 24 weeks after enrollment. Lifestyle intervention was more effective than metformin in delaying the onset of T2DM, and both were more effective than placebo in preventing new T2DM.
+</div></details>
 
-However, while lifestyle intervention may significantly reduce the severity of DM, lifestyle changes seem to have little effect on the cardiovascular risk seen in T2DM. In the Look-AHEAD study, the National Institute of Health sponsored a randomized controlled trial, assessing if Intensive Lifestyle Intervention (ILI) or Diabetes Support and Education (DSE) would lead to cardiovascular benefits in overweight or obese T2DM patients.<sup>21</sup> Look-AHEAD was stopped prematurely because of futility, as there was no difference in reduction of cardiovascular events between the two groups. For the ILI group, the cardiovascular event rate was 1.83 per 100 patient-years while the DSE group had a similar rate of 1.92 events for 100 patient-years (HR 0.95, 95% CI 0.83–1.09, P = 0.51). However, other aspects of DM morbidity were improved in the ILI group, such as glucose and lipid control biomarkers, sleep apnea, liver fat, depression, quality of life, knee pain, inflammation, sexual function, and kidney disease. Overall, these outcomes reduced health care costs of the ILI group.
+<details class="med-details"><summary>
 
-Is the protection from DM found in the Diabetes Prevention Group study sustained? The postintervention 10-year follow-up says no, with an equal incidence of new T2DM in placebo, former lifestyle, and metformin groups. Yet the cumulative incidence of T2DM remained lowest in the lifestyle group. Thus, prevention or delay of T2DM with lifestyle intervention or metformin may persist for at least 10 years.
+### 5. SGLT2 Inhibitors: Cardiorenal Mechanisms & Landmark CVOTs</summary><div class="details-content">
 
-#### **Blood Pressure and Lifestyle**
+- SGLT2 inhibitors (empagliflozin, canagliflozin, dapagliflozin, ertugliflozin) selectively block the low-affinity, high-capacity SGLT2 cotransporter in the proximal tubule, causing glucosuria of 60–80 g/day, mild osmotic diuresis, and weight loss ([Fig. 4.5](#fig-04-05)).
+- Enhanced sodium delivery to the macula densa activates adenosine-mediated tubuloglomerular feedback, constricting the hyperdilated afferent arteriole, lowering intraglomerular pressure, and halting diabetic nephropathy progression.
+- In EMPA-REG OUTCOME, empagliflozin reduced 3-point MACE by 14% (HR 0.86; 95% CI 0.74–0.99), cardiovascular death by 38% (HR 0.62; 95% CI 0.49–0.77), and hospitalization for heart failure (HHF) by 35% (HR 0.65; 95% CI 0.50–0.85).
+- In the CANVAS program, canagliflozin reduced MACE by 14% (HR 0.86; 95% CI 0.75–0.97) and HHF by 33%, but was associated with an unexpected signal of increased lower-limb amputations (6.3 vs 3.4 per 1000 patient-years; HR 1.97) and bone fractures.
+- In DECLARE-TIMI 58, dapagliflozin significantly reduced the co-primary endpoint of cardiovascular death or HHF by 17% (HR 0.83; 95% CI 0.73–0.95), driven by a 27% reduction in HHF across a broad population (60% primary prevention).
+- In CREDENCE, canagliflozin demonstrated definitive renal protection in diabetic nephropathy (eGFR 30–90 mL/min/1.73 m², UACR >300 mg/g), reducing the composite of end-stage kidney disease, doubling of serum creatinine, or renal/CV death by 30% (HR 0.70; 95% CI 0.59–0.82).
+- Class adverse effects include genital mycotic infections (3- to 5-fold increase), volume depletion, and euglycemic diabetic ketoacidosis (euDKA) triggered by metabolic stress, surgery, or abrupt insulin reduction; SGLT2 inhibitors must be held ≥ 3 days prior to scheduled major surgery.
 
-Modest BP elevation, a component of the MetSyn, is often associated with overweight and obesity. Weight loss and exercise in the setting of intensive behavioral intervention in the MetSyn can reduce systolic blood pressure (SBP) in the range of 8 mmHg with small additional reductions if the Dietary Approaches to Stop Hypertension (DASH) diet is added. When added drugs are required,  $\beta$ -blockers and diuretics should be considered second-line agents and avoided except when there are compelling indications. There is now growing but controversial evidence that new T2DM may develop during the therapy of hypertension, more so with  $\beta$ -blockers and diuretics than with angiotensin-converting enzyme (ACE) inhibitors and angiotensin receptor blockers (ARBs) (Fig. 4.3). There is a "weight of evidence against
+</div></details>
 
-#### *DRUG-RELATED NEW DIABETES*
+<details class="med-details"><summary>
 
-![](_page_6_Figure_2.jpeg)
+### 6. GLP-1 Receptor Agonists: Incretin Biology & Anti-Atherosclerotic Efficacy</summary><div class="details-content">
 
-Fig. 4.3 Drug-related new diabetes. Network meta-analysis of 22 trials with patients, using placebo as referent agent, and including earlier higher-dose diuretic trials. ACE, Angiotensin conversion enzyme; ARBs, angiotensin receptor blockers; CCB, calcium channel blocker. (Data from Lam SKH, Owen A. Incident diabetes in clinical trials of antihypertensive drugs. Lancet 2007;369:1513–1514.)
+- GLP-1 RAs provide supraphysiologic stimulation of the glucagon-like peptide-1 receptor, augmenting glucose-dependent insulin secretion, suppressing postprandial glucagon, delaying gastric emptying, and activating hypothalamic POMC neurons to promote satiety and significant weight loss ([Fig. 4.6](#fig-04-06)).
+- Unlike endogenous GLP-1 (degraded by DPP-4 within 1–2 minutes), therapeutic GLP-1 RAs are engineered to resist DPP-4 enzymatic inactivation, available as daily (liraglutide, lixisenatide), weekly (semaglutide, dulaglutide, exenatide QW), or oral (oral semaglutide) formulations.
+- In the LEADER trial, liraglutide significantly reduced 3-point MACE by 13% (HR 0.87; 95% CI 0.78–0.97) and cardiovascular death by 22% (HR 0.78; 95% CI 0.66–0.93) in patients with high CV risk.
+- In SUSTAIN-6, subcutaneous semaglutide reduced 3-point MACE by 26% (HR 0.74; 95% CI 0.58–0.95), driven predominantly by a 39% reduction in nonfatal stroke (HR 0.61; 95% CI 0.38–0.99), although a transient increase in diabetic retinopathy complications was observed (HR 1.76) associated with rapid HbA1c reduction in patients with pre-existing retinopathy.
+- In REWIND, dulaglutide reduced MACE by 12% (HR 0.88; 95% CI 0.79–0.99) in a cohort where 69% of participants had no prior cardiovascular disease, establishing efficacy in primary cardiovascular prevention.
+- GLP-1 RAs are strictly contraindicated in patients with a personal or family history of medullary thyroid carcinoma (MTC) or Multiple Endocrine Neoplasia syndrome type 2 (MEN 2), and caution is warranted in patients with prior pancreatitis.
 
-β-blockers" as first choice for obese patients with hypertension.<sup>25</sup> A network meta-analysis linked diuretic and β-blocker therapy separately to new T2DM in hypertension (Fig. 4.3).<sup>26</sup> Thus, current European Hypertension Guidelines list MetSyn as a possible contradiction to the use of β-blockers and diuretics (thiazides/thiazide-like).<sup>27</sup> In view of the potential increased risk of new T2DM, it seems prudent to give preference to antihypertensive therapy initially based on ACE inhibitors or ARBs, with low-dose diuretics (hydrochlorothiazide 12.5 to 25 mg) as needed (unless there are compelling indications for β-blocker–diuretic therapy).
+</div></details>
 
-## Which Drugs Halt the Slide to Diabetes?
+<details class="med-details"><summary>
 
-Metformin 850mg twice daily when given in the Diabetes Prevention Study<sup>28</sup> reduced future T2DM, albeit less than vigorous lifestyle changes.
+### 7. Neutral Classes, Safety Alerts & Hypoglycemia Hazards</summary><div class="details-content">
 
-Thiazolidinediones (TZDs) increase hepatic and peripheral insulin sensitivity by activation of peroxisome proliferator-activated receptor-γ (PPAR-γ) receptors. In the ACT NOW trial (Actos Now for Prevention of Diabetes), pioglitazone, as compared to placebo, reduced the risk of conversion of impaired glucose tolerance to T2DM by 72%, but was associated with significant weight gain and edema.  $^{29}$ 
+- DPP-4 inhibitors (sitagliptin, saxagliptin, linagliptin, alogliptin) are weight-neutral and have low hypoglycemia risk, but large CVOTs (SAVOR-TIMI 53, EXAMINE, TECOS, CARMELINA) established that they do not reduce MACE, CV death, or heart failure.
+- In SAVOR-TIMI 53, saxagliptin significantly increased hospitalization for heart failure by 27% (3.5% vs 2.8%; HR 1.27; 95% CI 1.07–1.51), prompting FDA boxed warnings for saxagliptin and alogliptin; linagliptin does not require renal dose adjustment.
+- Thiazolidinediones (pioglitazone, rosiglitazone) improve insulin sensitivity via PPAR-\\\gamma activation ([Fig. 4.7](#fig-04-07)) and reduce recurrent stroke/MI in insulin-resistant patients (IRIS trial, PROactive), but promote renal sodium reabsorption through epithelial sodium channels (ENaC), increasing fluid retention, peripheral edema, and heart failure hospitalization (strict Black Box Warning; contraindicated in NYHA Class III/IV HF).
+- Sulfonylureas (glimepiride, glipizide, gliclazide, glyburide) close pancreatic $\\beta$-cell $K_{\\text{ATP}}$ channels, stimulating insulin release regardless of glucose levels, which causes frequent hypoglycemia, weight gain, and blocks myocardial ischemic preconditioning by nonselectively closing cardiac SUR2A channels.
+- Severe hypoglycemia promotes sympathoadrenal surge, profound catecholamine release, platelet activation, endothelial injury, hypokalemia, QTc interval prolongation, and fatal cardiac arrhythmias ([Table 4.7](#table-04-07)).
+- The contemporary ADA/EASD treatment algorithm prioritizes SGLT2 inhibitors and GLP-1 RAs with proven CV benefit immediately following metformin in patients with established ASCVD, heart failure, or chronic kidney disease, independently of baseline HbA1c or individualized glycemic targets ([Fig. 4.8](#fig-04-08)).
 
-Acarbose inhibits the intestinal absorption of glucose but is often poorly tolerated because of gastrointestinal symptoms. Findings from the Acarbose Cardiovascular Evaluation (ACE) trial, a randomized, double-blind, placebo-controlled phase IV ACE trial of 6522 Chinese adults, demonstrated a reduction of T2DM incidence by 18%. However, there was no significant reduction in the incidence of the composite, five-point major adverse cardiovascular events (MACE).  $^{30}$ 
+</div></details>
 
-Because there have been no comparative studies between metformin, acarbose, and TZDs, it is difficult to say with certainty which would be most effective in preventing progression to new T2DM should lifestyle modifications prove inadequate. However, metformin and pioglitazone have convincing data. In light of this, the 2019 Standards of Medical Care of the American Diabetes Association (ADA) recommend metformin for high-risk individuals (patients with gestational diabetes mellitus history or BMI  $\geq\!35\,\mathrm{kg/m^2}$ ) due to strong evidence, low cost, and safety profile.  $^{31}$ 
+</div></details>
 
-#### **What Can Be Achieved?**
+<details class="med-details"><summary>
 
-For lifestyle by itself to be effective in preventing transition to T2DM as well as reducing BP, major behavioral changes have to be affected, requiring intense input from professional personnel such as nutritionists and exercise physiologists. Although this intensive counseling may not be a cost-effective approach when applied to the general population, it is undeniable that the ideal strategy for the whole population is a broad behavior modification that avoids obesity. Drug therapy to prevent the transition to T2DM is both feasible and effective in selected patients, yet not widely applied.
+## Metabolic Syndrome and Prediabetes</summary><div class="details-content">
 
-# Cardiovascular Disease Risk Assessment
+<details class="med-details"><summary>
 
-The primary cause of morbidity and mortality of individuals with T2DM is atherosclerotic cardiovascular disease (ASCVD).  $^{32}$  While T2DM is clearly associated with risk, not all patients with T2DM are at the same risk.  $^{33}$  A meta-analysis of patients in 13 trials showed that patients without T2DM but with a prior MI had a 43% higher coronary heart disease (CHD) risk than individuals with
+### Pathophysiology of the Metabolic Syndrome</summary><div class="details-content">
 
-T2DM without previous CVD.<sup>34</sup> This risk heterogeneity argues for the routine use of risk assessment in clinical practice.
+Obesity has become an escalating global public health crisis and represents the single strongest clinical predictor of type 2 diabetes mellitus (T2DM). In Western societies, it is estimated that nearly one-third of the population will develop T2DM over their lifespan, predisposing individuals to extensive macrovascular and microvascular complications. The metabolic syndrome (MetSyn) describes a constellation of metabolic derangements—a prediabetic state—characterized by central adiposity, fasting hyperglycemia, elevated arterial blood pressure, elevated circulating triglycerides, and reduced high-density lipoprotein cholesterol (HDL-C).
 
-# Risk Calculators
+Abdominal visceral adipose tissue is recognized as an active endocrine and metabolic organ rather than an inert energy depot. Excessive visceral fat releases increased fluxes of free fatty acids (FFAs) and inflammatory cytokines (tumor necrosis factor-alpha [TNF-$\\alpha$], interleukin-6 [IL-6]) directly into the portal vein. In skeletal muscle, elevated FFA uptake leads to the intracellular accumulation of acyl-CoA, diacylglycerol, and ceramides, which inhibit insulin receptor substrate-1 (IRS-1) tyrosine phosphorylation and downstream Akt signaling, thereby impairing glucose transporter-4 (GLUT-4) vesicle translocation to the sarcolemma and driving skeletal muscle insulin resistance.
 
-Both major current DM guidelines, the 2019 guidelines by the American College of Cardiology and the American Heart Association (ACC/AHA) and the 2019 ADA/EASD Standards of Medical Care, recommend evaluating the 10-year risk of first atherosclerotic CVD (10-year ASCVD) using the race-and sex-specific pooled cohort equation (PCE). This risk model is used for patients with as well as without DM. The use of DM-specific risk calculators is questionable, as most studies have shown that risk factors modify CVD risk similarly, irrespective of whether or not the patient suffers from DM.35 However, when intermediate risk (7.5%–20%) is present, noninvasive imaging such as a coronary calcium score may be useful in decision making to follow, i.e., intensity of statin and aspirin therapy.
+In the liver, high FFA delivery and hyperinsulinemia drive excessive hepatic gluconeogenesis and augment very-low-density lipoprotein (VLDL) triglyceride synthesis. Concurrently, high FFA concentrations and proinflammatory adipokines exert direct lipotoxic damage on pancreatic $\\beta$-cells, impairing pulsatile and first-phase insulin secretion. Visceral adipocytes also overexpress angiotensinogen and release angiotensin II, promoting systemic vasoconstriction, renal sodium retention, and blood pressure elevation.
 
-# Risk Enhancing Factors
+<span id="fig-04-02"></span>![](_page_3_Figure_2.jpeg)
 
-In addition to using risk calculators, both guidelines also recommend evaluating CVD risk by assessing each patient's diabetesspecific cardiovascular risk factors (Tables 4.2 and 4.3). The ADA Standards of Medical Care recommend the assessment of these risk factors at least annually. In clinical practice, it is best to assess any comorbid cardiometabolic risk factors (including presence of Met-Syn), the duration of DM, and the age of onset.
+**Fig. 4.2 Metabolic syndrome.** Adipose tissue releases increased free fatty acids (FFAs) into the circulation, thereby inhibiting glucose uptake by skeletal muscle. Plasma glucose rises and elicits a compensatory pancreatic insulin response. However, the endocrine pancreas is progressively damaged by lipotoxicity (high FFA levels) and elevated proinflammatory cytokines. The net effect is elevated fasting plasma glucose (FPG) despite increased circulating insulin (insulin resistance). Increased plasma FFAs and glucose stimulate hepatic synthesis of triglycerides (TGs), elevating blood TG levels, which in turn lower high-density lipoprotein (HDL) cholesterol. Concurrently, increased release of angiotensin II (A-II) and cytokines from visceral adipose tissue promotes vasoconstriction and elevates systemic blood pressure (BP). F, female; M, male.
 
-#### Duration of Diabetes
+</div></details>
 
-Duration of DM is independently associated with cardiovascular events. Evidence shows that patients with >10-year history of
+<details class="med-details"><summary>
 
-#### Table 4.2
+### Atherogenic Dyslipidemia in Metabolic Syndrome</summary><div class="details-content">
 
-Risk-enhancing factors according to the 2019 ACC/AHA Guidelines on the primary prevention of cardiovascular disease
+A consistent hallmark of the metabolic syndrome is atherogenic dyslipidemia, characterized by elevated circulating triglycerides and reduced HDL cholesterol ([Fig. 4.1](#fig-04-01)). The core abnormality stems from overproduction and delayed clearance of apolipoprotein B (ApoB)-containing lipoproteins: VLDL and triglyceride-rich lipoprotein remnants (TG-rL). Levels of TG-rL and ApoB rise secondary to accelerated hepatic VLDL synthesis, prolonged postprandial lipemia following dietary fat intake, and diminished peripheral lipoprotein lipase (LPL) activity.
 
-Long duration (>10 years for type 2 diabetes mellitus (S4.3-61) or >20 years for type 1 diabetes mellitus Albuminuria >30μg albumin/mg creatinine eGFR <60mL/min/1.73m<sup>2</sup> Retinopathy
+Cholesterol ester transfer protein (CETP) plays a central role in lipid remodeling. Under hypertriglyceridemic conditions, CETP facilitates the reciprocal equimolar exchange of triglycerides from TG-rL into HDL and LDL particles in exchange for cholesteryl esters. The resulting triglyceride-enriched HDL particles are hydrolyzed by hepatic lipase (HL), generating small, dense HDL particles that undergo accelerated renal filtration and clearance, thereby lowering circulating HDL-C concentrations.
 
-Neuropathy ABI <0.9
+Similarly, triglyceride enrichment of LDL followed by hepatic lipase hydrolysis leads to the formation of small, dense low-density lipoprotein (sdLDL) particles. These dense particles exhibit diminished affinity for LDL receptors, prolonged plasma residence time, enhanced susceptibility to oxidative modification, and marked permeability across the endothelial barrier into the arterial subendothelial matrix, directly fueling atherogenesis.
 
-ABI, ankle brachial index; eGFR, estimated glomerular filtration flow.
+<span id="fig-04-01"></span>![](_page_1_Figure_2.jpeg)
 
-#### Table 4.3
+**Fig. 4.1 HDL and TG in metabolic syndrome and diabetes.** Consistent features (see right side of the figure) are the increased circulating levels of triglycerides (TGs) and decreased high-density lipoprotein (HDL) cholesterol. The basic problem lies in increased levels of the atherogenic particles: very-low density lipoproteins (VLDLs), triglyceride-rich lipoprotein (TG-rL), and apolipoprotein (Apo) B. (Apos have detergent-like properties that solubilize the hydrophobic lipoproteins.) Levels of TG-rL and Apo B are increased by: (1) excess hepatic synthesis of VLDL; (2) high postprandial TG concentrations after a fatty meal; and (3) low levels of lipoprotein lipase (LPL) activity. Adipose tissue releases excess free fatty acids (FFAs), which with hyperglycemia leads to increased hepatic production of VLDL. Cholesterol-ester transfer protein (CETP) increases the transfer of TG to HDL particles to form TG-rich HDL, with a simultaneous transfer of cholesteryl esters (CE) from the HDL particles to TG-rL. TG-rich HDL is broken down by hepatic lipase (HL) to form small, dense HDL particles. A similar process leads to increased formation of small dense low-density lipoprotein (LDL) particles.
 
-#### Risk-enhancing factors according to 2019 ADA guideline "Standard of Medical Care"
+</div></details>
 
-Obesity Hypertension Chronic kidney disease Smoking Family history of premature coronary disease Dyslipidemia Presence of albuminuria
+<details class="med-details"><summary>
 
-T2DM without history of CHD have similar risk of CHD as patients without DM but with prior CHD.<sup>36</sup> By extension, individuals with less than 10 years of T2DM history are not considered CHD risk equivalents. The 2019 ACC/AHA guidelines of preventive CVD state that a T2DM duration of over 10 years is an independent cardiovascular risk enhancer. <sup>37</sup>
+### Diagnostic Criteria and Clinical Recognition</summary><div class="details-content">
 
-## Age of Onset
+Multiple definitions of the metabolic syndrome have been proposed by international bodies, with the National Cholesterol Education Program Adult Treatment Panel III (NCEP ATP III) criteria remaining the most widely utilized in clinical practice ([Table 4.1](#table-04-01)). A diagnosis of metabolic syndrome requires the presence of three or more of the following five criteria: elevated waist circumference (>102 cm in men, >88 cm in women); serum triglycerides ≥ 150 mg/dL (≥ 1.7 mmol/L); serum HDL cholesterol <40 mg/dL (<1.03 mmol/L) in men, <50 mg/dL (<1.30 mmol/L) in women; arterial blood pressure ≥ 130/85 mmHg (or pharmacological treatment for hypertension); and fasting plasma glucose ≥ 100 mg/dL (≥ 5.6 mmol/L, or antidiabetic pharmacotherapy).
 
-Age of T2DM diagnosis is an important prognostic factor for cardiovascular risk.
+<span id="table-04-01"></span>
 
-A study using data from the Swedish National Diabetes Registry showed that patients diagnosed with T2DM before the age of 40 had the highest excess relative risk for CVD-related mortality (HR 1.95 [1.68–2.25]), heart failure (HF) (HR 4.77 [3.86–5.89]), and CHD (HR 4.33 [3.82-4.91]) compared to controls. Controls were randomly selected individuals from the general population matched for age, sex, and county. The authors observed that all CVD risks diminished with each additional decade of diagnostic age. Survival of patients with T2DM diagnosed in adolescence was almost a decade less than controls, while patients diagnosed >80 years had the same survival as controls.<sup>38</sup>
+**Table 4.1 Common Definitions for Metabolic Syndrome (NCEP ATP III)**
 
-Data from a cross-sectional survey of T2DM patients showed that early-onset T2DM (mean diagnostic age 35 years) was associated with a higher risk of nonfatal CVD events compared to late-onset T2DM (mean diagnostic age 55 years) (OR, 1.91; 95% CI, 1.81–2.02).39 While the risk was diminished when adjusted for DM duration, it still remained significant (OR, 1.13; 95% CI 1.06–1.20). This study showed that while duration of T2DM and diagnostic age are associated, age of onset is an independent and significant risk factor for CVD.39,40
+| Criterion | NCEP ATP III Definition (≥ 3 of 5 criteria required) |
+| :--- | :--- |
+| **Abdominal obesity** | Waist circumference >40 inches (>102 cm) in men, >35 inches (>88 cm) in women |
+| **Hypertriglyceridemia** | Triglycerides ≥ 150 mg/dL (≥ 1.7 mmol/L) or specific treatment |
+| **Low HDL cholesterol** | HDL cholesterol <40 mg/dL (<1.03 mmol/L) in men, <50 mg/dL (<1.30 mmol/L) in women |
+| **Elevated blood pressure** | Systolic ≥ 130 mmHg and/or diastolic ≥ 85 mmHg, or drug therapy for hypertension |
+| **Impaired fasting glucose** | Fasting plasma glucose ≥ 100 mg/dL (≥ 5.6 mmol/L) or drug treatment for elevated glucose |
 
-The ADA 2019 Standards of Medical Care specifically point out that patients with youth-onset T2DM have a particularly high risk of suffering from DM complications.<sup>31</sup> A cross-sectional study of 2733 patients showed that youth-onset T2DM is associated with microvascular as well as macrovascular risk burden. <sup>41</sup> Further, β-cell function in patients with youth onset T2DM seems to deteriorate faster than that of βT2 cells of patients with adult-onset DM.<sup>42</sup>
+*Abbreviations:* ATP III, Adult Treatment Panel III; HDL, high-density lipoprotein; NCEP, National Cholesterol Education Program.  
+*Source:* Floege J, et al. Comprehensive Clinical Nephrology. 4th ed. Philadelphia: Saunders; 2010.
 
-# **Coronary Artery Calcium Testing**
+Waist circumference serves as an independent marker of intra-abdominal visceral adiposity and is a superior predictor of myocardial infarction compared to body mass index (BMI) alone. Identification of risk-factor clustering allows cardiologists and primary care clinicians to detect individuals at heightened cardiometabolic risk before the onset of overt diabetes or macrovascular disease.
 
-The CHD and CVD risk variability of patients with T2DM is perhaps best measured by coronary artery calcium (CAC). The CAC score resulting from a noncontrast cardiac-gated computed tomography scan of the heart—is a marker for atherosclerosis burden, in effect measuring the cumulative effect of a lifetime exposure of measured and unmeasured cardiovascular risk factors. 43 Evidence suggests that CAC can improve risk discrimination of CHD and CVD events more effectively than traditional risk factors. 44 Studies have also shown that the CAC score mirrors the variance in CVD risk of patients with T2DM. For instance, a study by Silverman et al. showed that most individuals with DM < 60 years have an extremely low risk at <5 deaths per 1000 person years when CAC =  $0.^{45}$  In contrast, CAC was detected in almost all patients with DM with prior CHD (92.5%) and CVD (82.5%) events. 46
+</div></details>
 
-The Diabetes Heart Study suggested that CAC scoring can reclassify risk of patients with T2DM with a heightened risk for CVD mortality. 47 The study showed that CVD mortality risk increased proportionally to CAC score after adjusting for cardiovascular factors. The area under the curve (AUC) without CAC was 0.70(0.67-0.73) while with CAC was 0.75(0.72-0.78). After addition of the CAC, the model that classified participants into different risk categories reclassified 28% individuals with a net reclassification index (NRI) = 0.13 (0.07-0.19).47
+<details class="med-details"><summary>
 
-The Multi-Ethnic Study of Atherosclerosis (MESA) evaluated the use of CAC in long-term prognostication of incident CHD and ASVD among patients with T2DM. The addition of CAC to global risk assessment significantly improved risk stratification in individuals with T2DM. CAC was independently associated with CAC (HR 1.3 [1.19–1.43]), and the net reclassification improvement with CAC addition to traditional risk assessment was 0.23 (95% CI, 0.10–0.37).<sup>48</sup> In light of this evidence, current DM guidelines endorse CAC testing for cardiovascular risk assessment for intermediate-risk (7.5%–20%) patients where risk and treatment decisions are uncertain.31
+### Cardiovascular and Diabetic Risks of Metabolic Syndrome</summary><div class="details-content">
 
-# Value of Improved Glycemic Control
+The clinical significance of the metabolic syndrome lies in its capacity to predict both type 2 diabetes and atherosclerotic cardiovascular disease. While some authorities have debated whether the syndrome represents more than the sum of its parts, clinical studies establish that the prospective risk of disease increases progressively with the number of coexisting MetSyn components. In prospective cohort studies, individuals possessing 4 or 5 features exhibited a 25-fold higher risk of developing T2DM compared to individuals with no features, representing a profound escalation over the risk associated with a single component.
 
-# Guideline Recommendations on Glycemic Control
+Cardiovascular risk is similarly amplified. In a meta-analysis encompassing 172573 participants across 37 prospective studies, the presence of metabolic syndrome conferred a relative risk (RR) of 1.78 (95% CI 1.58–2.00) for cardiovascular events, an RR of 1.99 (95% CI 1.61–2.46) for cardiovascular mortality, and an RR of 1.58 (95% CI 1.39–1.78) for all-cause mortality.
 
-The major adverse events of T2DM are microvascular and macrovascular complications. Both are affected by the intensity of glycemic control, typically assessed by levels of glycosylated hemoglobin A1c (HbA1c).
+Although the fasting hyperglycemia component drives the greatest proportion of the statistical risk for future diabetes, the clustering of dyslipidemia and hypertension accelerates vascular injury. Early detection provides a crucial window for aggressive lifestyle and pharmacological risk factor modification before irreversible vascular and pancreatic damage supervenes.
 
-While it is established that effective management of all levels of gylcemia reduces microvascular complications,49–<sup>51</sup> results from the large outcome trials (ACCORD, ADVANCE, VADT—Table 4.4) have not shown that more intensive glycemic control significantly reduces CVD outcomes. In response to this evidence, the 2019 ADA/EASD Standards of Medical Care acknowledge the complexity of adequate glycemic control and strongly endorse the importance of shared decision making to incorporate the individual characteristics and preferences of each patient to find optimal glycemic targets.<sup>31</sup> A general target of <7% HbA1c for nonpregnant adults is still recommended. However, in individuals just diagnosed with T2DM, without CVD, patients with long life expectancy or individuals treated with lifestyle therapy and metformin only, more aggressive glycemic management(<6.5%) is reasonable and can prevent microvascular complications.<sup>31</sup> For patients with short life expectancy who may not profit from the long-term benefits of more aggressive glycemic management, or suffer from serious comorbidities and poor self-management, an HbA1c up to 8% is more suitable.<sup>31</sup> Where tight HbA1c levels cannot be achieved safely, higher HbA1c levels are acceptable. In order to personalize
+</div></details>
 
-Table 4.4
+<details class="med-details"><summary>
 
-| Rates<br>of<br>hypoglycemia<br>in<br>the<br>ACCORD,<br>ADVANCE,<br>and<br>VADT<br>clinical<br>trials |                                                 |                                     |                                       |                            |  |
-|------------------------------------------------------------------------------------------------------|-------------------------------------------------|-------------------------------------|---------------------------------------|----------------------------|--|
-|                                                                                                      | HbA1c<br>target, %                              | Standard<br>glucose control<br>arm% | Intensive<br>glucose control<br>arm % | P<br>value                 |  |
-| ACCORD<br>ADVANCE<br>VADT                                                                            | <6<br>6.5<br><<br>If<br>>6,<br>insulin<br>added | 5.1<br>1.5<br>9.9                   | 16.2<br>2.7<br>21.2                   | <0.001<br><0.001<br><0.001 |  |
+### Diabetes Prevention: Lifestyle and Pharmacotherapy</summary><div class="details-content">
 
-Modified from Connelly KA, Yan AT, Leiter LA, Bhatt DL, Verma S. Cardiovascular implications of hypoglycemia in diabetes mellitus. Circulation 2015; 132:2345–2350.
+Extensive randomized clinical trial evidence demonstrates that the progression from prediabetes (impaired fasting glucose or impaired glucose tolerance) to overt T2DM can be substantially delayed or prevented. The landmark Diabetes Prevention Program (DPP) randomized 3234 individuals with prediabetes to an intensive lifestyle modification program, metformin (850 mg twice daily), or placebo. The lifestyle intervention—targeting a 7% reduction in body weight through a low-fat, calorie-restricted diet and ≥ 150 minutes per week of moderate-intensity physical activity—reduced the incidence of diabetes by 58% compared to placebo.
 
-glycemic targets for each patient, the Standards of Medical Care recommend assessing seven categories to decide on the stringency of the glycemic target; risks of hypoglycemia/drug adverse effects, disease duration, life expectancy, comorbidities, established vascular complications, patient preference, and resources and support system.31
+Metformin demonstrated significant efficacy in the DPP, reducing diabetes incidence by 31%, with the greatest relative benefit observed in younger, more obese individuals (BMI ≥ 35 $\\text{kg/m}^2$) and women with a history of gestational diabetes. Long-term follow-up in the DPP Outcomes Study (DPPOS) confirmed that the protective effects of lifestyle and metformin persisted over 15 years. Similar lifestyle benefits were established in the Finnish Diabetes Prevention Study (DPS), which demonstrated a 58% reduction in diabetes risk that correlated directly with sustained lifestyle changes.
 
-# Microvascular Complications
+Pharmacological prevention has also been explored with other antidiabetic agents. In the STOP-NIDDM trial, the alpha-glucosidase inhibitor acarbose reduced progression to diabetes by 25% and was associated with a 49% relative reduction in cardiovascular events, though gastrointestinal side effects limited adherence. Thiazolidinediones demonstrate profound preventive efficacy: in the DREAM trial, rosiglitazone reduced diabetes risk by 60%, and in the ACT NOW trial, pioglitazone reduced incident diabetes by 72%. However, fluid retention, weight gain, and cardiovascular concerns preclude routine TZD use for diabetes prevention.
 
-Multiple randomized controlled studies have repeatedly established that intensive glycemic control can reduce microvascular complications in T2DM.49–<sup>51</sup> The Diabetes Control and Complications Trial (DCCT) reported that a 60% reduction of development of diabetic retinopathy, nephropathy, and neuropathy was achieved in the intensive treatment group (mean HbA1c of 7%) than in the standard group (HbA1c of 9%)<sup>52</sup> in early-onset youths and younger adults with T1DM. The landmark trial, UK Prospective Diabetes Study (UKPDS), which included over 7600 subjects with T2DM and a median follow-up of 10 years, assessed the effects of intensive glycemic control on incidence of complications. One of the major conclusions drawn from the study showed that the microvascular complication rate was reduced by 25% more in the intensive treatment arm (median HbA1c of 7.0%) compared to the control treatment arm (median HbA1c of 7.9%). <sup>49</sup>
+</div></details>
 
-# Macrovascular Complications
+<details class="med-details"><summary>
 
-However, the microvascular benefits of more aggressive glycemic management may be offset by the effects on cardiovascular outcomes. The current discussion of glycemic control on cardiovascular risk is shaped by recent major outcome studies including the ACCORD,<sup>53</sup> ADVANCE,<sup>7</sup> and VADT<sup>54</sup> (Table 4.4).
+### Drug-Induced Diabetes and Antihypertensive Selection</summary><div class="details-content">
 
-ACCORD. In patients with T2DM at high cardiovascular risk, perhaps similar to those that a cardiologist might see, the NIDsupported Action to Control Cardiovascular Risk in Diabetes (ACCORD) study compared intense versus standard glycemic control. Mean HbA1c levels were 6.4% in the intense and 7.5% in the standard arms. ACCORD ended the glycemic control study early after results showing an increased mortality in individuals belonging to the very intense glycemic control arm, with an HbA1c target of <6%, compared to the standard arm (1.41 versus 1.14% per year; 257 versus 203 deaths over a mean 3.5 years of follow-up; hazard ratio [HR] 1.22 [95% CI 1.01–1.46]). As a result, the ACCORD study researchers wrote, "Such a strategy cannot be recommended for high-risk patients with advanced T2D." <sup>53</sup> As a result of the ACCORD study, the subsequently published ADA Standards of Care in Diabetes 2013 guidelines only recommended intensive glycemic control in low 10-year ASCVD risk patients.  $^{55}$ 
+Pharmacological agents commonly prescribed in cardiovascular medicine can adversely affect glucose metabolism. A network meta-analysis of 22 clinical trials encompassing over 140000 patients evaluated the incidence of new-onset T2DM associated with different antihypertensive drug classes compared to placebo ([Fig. 4.3](#fig-04-03)). Thiazide diuretics and conventional non-vasodilating $\\beta$-blockers significantly increased the hazard of incident diabetes, whereas renin-angiotensin-aldosterone system (RAAS) inhibitors demonstrated protective effects.
 
-ADVANCE. The ADVANCE trial (Action in Diabetes and Vascular Disease: Preterax and Diamicron MR Controlled Evaluation) was launched with a similar motivation to ACCORD: to evaluate more aggressive glycemic management on the risk of CVD in patients with T2DM. The primary outcome of ADVANCE combined macrovascular (MI, stroke, and cardiovascular death) and microvascular (nephropathy and retinopathy) events.<sup>56</sup> While intensive glycemic control resulted in a significant reduction of this combined primary endpoint (18.1% intensive versus 20.0% conventional therapy—HR 0.90; 95% CI 0.82–0.98; P = 0.01), this decrease was mainly driven by the reduction of microvascular events (mainly albuminuria). There was no significant reduction in major macrovascular events (10.0% intensive versus 10.6% conventional therapy; HR 0.94; 95% CI 0.84-1.06; P = 0.32). Unlike ACCORD, ADVANCE did not observe an elevated risk in mortality for patients with intensive glucose control.57
+<span id="fig-04-03"></span>![](_page_6_Figure_2.jpeg)
 
-**VADT.** The Veterans Affairs Diabetes Trial (VADT), a prospectiverandomized trial in patients with advanced T2DM, also failed to demonstrate a significant benefit in terms of overall or cardiovascular mortality, herein from lowering HbA1c to 6.9% in the intensivetherapy group versus 8.4% in the standard-therapy group. 54 The VADT trial's population included predominantly (98%) older men with poorly controlled T2DM (median entry HbA1c 9.4%). CVD risk factors such as BP, smoking cessation, aspirin therapy, and statin therapy were treated intensively. While the tight glycemic control group reduced HbA1C levels to 6.9% within the first year of the study, the primary outcome, time to first cardiovascular event, was not significantly reduced in the intensive group (HR 0.88 [95%] CI 0.74–1.05], P = 0.12). The study also reported more CVD deaths in the intensive glycemic control group than in the standard control group (38 versus 29); however, this difference was not statistically significant. More recent analysis has demonstrated that VADT participants randomly assigned to intensive glycemic control over 5.6 vears had fewer CVD events only during the prolonged period in which the glycated hemoglobin curves were separated.<sup>51</sup>
+**Fig. 4.3 Drug-related new diabetes.** Network meta-analysis of 22 clinical trials, using placebo as the referent agent, including earlier high-dose diuretic trials. Thiazide diuretics and conventional beta-blockers demonstrate an increased relative risk of incident type 2 diabetes mellitus, whereas ACE inhibitors and angiotensin receptor blockers (ARBs) significantly reduce the risk of new-onset diabetes. Calcium channel blockers exhibit an intermediate, largely neutral effect. ACE, angiotensin-converting enzyme; ARB, angiotensin receptor blocker; CCB, calcium channel blocker.
 
-**Summary.** Results from these outcome studies suggest that patients with a long history of T2DM, history of hypoglycemia, advanced atherosclerosis, and old age are less likely to benefit from tight glycemic control. <sup>59,60</sup> In all three trials, significantly more hypoglycemic episodes occurred in tight glycemic control groups than in
+Conventional $\\beta$-blockers (e.g., atenolol, metoprolol tartrate) impair insulin secretion by blocking pancreatic islet $\\beta_2$-adrenergic receptors, reduce peripheral microvascular blood flow to skeletal muscle, and promote weight gain. Thiazide diuretics (especially at high doses) induce hypokalemia, which blunts glucose-stimulated insulin secretion from pancreatic $\\beta$-cells, and elevate circulating free fatty acids. In contrast, ACE inhibitors and ARBs increase bradykinin levels, enhance peripheral insulin sensitivity, improve pancreatic islet perfusion, and reduce incident diabetes by 20–25%. Calcium channel blockers remain largely metabolically neutral.
 
-others. In response to ACCORD, VADT, and ADVANCE, the 2019 ADA/EASD Standards of Medical Care state that physicians should be cautious of intensive glucose control for patients with long history of T2DM and cardiovascular risk factors. <sup>31</sup> The risks associated with intensive glycemic control might outweigh its benefits.
+Consequently, international hypertension guidelines advise caution when selecting high-dose thiazides or conventional $\\beta$-blockers in patients with metabolic syndrome or obesity unless compelling indications exist (e.g., post-myocardial infarction or heart failure with reduced ejection fraction). In hypertensive patients with metabolic syndrome, first-line therapy should prioritize ACE inhibitors or ARBs, combined as needed with calcium channel blockers or low-dose thiazide/thiazide-like diuretics (hydrochlorothiazide 12.5–25 mg or indapamide).
 
-# Importance of Large Cardiovascular Disease Outcome Trials
+</div></details>
 
-Until 2008, antidiabetic drugs were exclusively approved on the basis of lowering of HbA1c, as trials with intensive glycemic control demonstrated lower rates of microvascular complications. Most participants in trials evaluating effects of certain glycemic targets had no established ASCVD or very low cardiovascular risk and were generally drug naïve. This study design limited the ability to adequately assess cardiovascular effects of these drugs. Over time, a range of evidence demonstrated that some diabetic drugs might pose risks to cardiovascular safety (Table 4.5). <sup>61</sup>
+</div></details>
 
-Perhaps the most famous trial that initiated the debate on cardiovascular safety of antidiabetic drugs was the study showing that rosiglitazone was associated with an elevated risk of MI and risk of death from cardiovascular causes. <sup>62</sup> Ironically, later studies did not confirm the adverse cardiovascular effects of rosiglitazone, <sup>63</sup> and the FDA since lifted safety regulations against this agent. <sup>64</sup>
+<details class="med-details"><summary>
 
-In response to the overall rosiglitazone trial data<sup>62</sup> and other trials questioning cardiovascular safety of antidiabetic agents, in 2008 the US Food and Drug Administration (FDA) published guidance for industry recommending the inclusion of enough patients with high CVD risk in order for trials to adequately assess the cardiovascular risks of diabetic drugs.<sup>65</sup> In order for novel drugs to demonstrate sufficient cardiovascular safety and win FDA approval, the agency mandated that a premarketing outcomes trial show that the upper bound of the two-sided 95% confidence interval of the estimated hazard ratio is less than 1.8 for composite threepoint MACE (cardiovascular death, nonfatal MI, and nonfatal stroke) or four-point MACE (cardiovascular death, nonfatal MI, nonfatal stroke, and hospitalization for unstable angina).65 For approved drugs, the FDA also required a postmarketing safety trial that must demonstrate that the estimated risk ratio of the upper bound of the two-sided 95% confidence interval is less than 1.3 for the composite MACE outcome. <sup>65</sup> To achieve this, most enrolled patients must have established CVD or high ASCVD risk.
+## Cardiovascular Disease Risk Assessment and Glycemic Targets</summary><div class="details-content">
 
-Table 4.5
+<details class="med-details"><summary>
 
-| C<br>i<br>f<br>2<br>i<br>i<br>f<br>i<br>d<br>l<br>d<br>t<br>l<br>t<br>d<br>t<br>d<br>b<br>t<br>l<br>l<br>t<br>d<br>b<br>d<br>g<br>g<br>a<br>r<br>o<br>v<br>a<br>s<br>c<br>u<br>a<br>r<br>a<br>a<br>o<br>r<br>s<br>e<br>e<br>c<br>e<br>y<br>p<br>e<br>a<br>e<br>e<br>s<br>m<br>e<br>u<br>s<br>r<br>u<br>s<br>e<br>o<br>r<br>e<br>u<br>a<br>n<br>c<br>e |                                                     |                                                          |                                                                                                  |                            |                                      |                                                               |
-|-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|-----------------------------------------------------|----------------------------------------------------------|--------------------------------------------------------------------------------------------------|----------------------------|--------------------------------------|---------------------------------------------------------------|
-| C<br>l<br>a<br>s<br>s                                                                                                                                                                                                                                                                                                                                 | i<br>i<br>M<br>d<br>t<br>e<br>c<br>a<br>o<br>n      | i<br>T<br>l<br>h<br>r<br>a<br>p<br>a<br>s<br>e           | O<br>t<br>u<br>c<br>o<br>m<br>e<br>s                                                             | E<br>t<br>v<br>e<br>n<br>s | S<br>j<br>b<br>t<br>u<br>e<br>c<br>s | O<br>t<br>h<br>t<br>e<br>r<br>o<br>u<br>c<br>o<br>m<br>e<br>s |
-| G<br>L<br>P-<br>1<br>R<br>A                                                                                                                                                                                                                                                                                                                           | E<br>i<br>d<br>t<br>x<br>e<br>n<br>a<br>e           | P<br>h<br>2<br>d<br>3<br>a<br>s<br>e<br>a<br>n           | C<br>d<br>i<br>d<br>i<br>d<br>S<br>A<br>E<br>a<br>r<br>a<br>c<br>s<br>o<br>r<br>e<br>r<br>s<br>s | 2<br>7                     | 2<br>3<br>7<br>1                     | …                                                             |
-|                                                                                                                                                                                                                                                                                                                                                       | L<br>i<br>l<br>t<br>i<br>d<br>g<br>r<br>a<br>u<br>e | 3<br>P<br>h<br>a<br>s<br>e                               | C<br>C<br>S<br>Q<br>t<br>M<br>A<br>E<br>M<br>u<br>s<br>o<br>m                                    | 3<br>8                     | 6<br>6<br>3<br>8                     | …                                                             |
-| i<br>D<br>P<br>P-<br>4                                                                                                                                                                                                                                                                                                                                | S<br>l<br>i<br>t<br>i<br>g<br>a<br>x<br>a<br>p<br>n | 3<br>P<br>h<br>a<br>s<br>e                               | C<br>C<br>S<br>Q<br>t<br>M<br>A<br>E<br>M<br>u<br>s<br>o<br>m                                    | 0<br>4                     | 6<br>0<br>4<br>7                     | …                                                             |
-|                                                                                                                                                                                                                                                                                                                                                       | A<br>l<br>l<br>i<br>t<br>i<br>g<br>o<br>p<br>n      | P<br>h<br>3<br>a<br>s<br>e                               | C<br>t<br>M<br>A<br>C<br>E<br>S<br>M<br>Q<br>s<br>o<br>m<br>u                                    | 1<br>8                     | 4<br>7<br>0<br>2                     | …                                                             |
-|                                                                                                                                                                                                                                                                                                                                                       | S<br>i<br>l<br>i<br>i<br>t<br>t<br>g<br>a<br>p<br>n | P<br>l<br>d<br>h<br>3<br>o<br>o<br>e<br>p<br>a<br>s<br>e | C<br>d<br>i<br>d<br>i<br>d<br>S<br>A<br>E<br>a<br>r<br>a<br>c<br>s<br>o<br>r<br>e<br>r<br>s<br>s | 1<br>2                     | 2<br>3<br>4<br>2                     | …                                                             |
+### Cardiovascular Risk Stratification and Risk Calculators</summary><div class="details-content">
 
-#### DPP-4, Dipeptidyl peptidase 4;
+Patients with type 2 diabetes mellitus (T2DM) face a two- to four-fold higher risk of developing cardiovascular disease compared to non-diabetic peers. Historically, a landmark 1998 population study suggested that diabetic individuals without prior myocardial infarction (MI) carried a risk of future coronary events equivalent to non-diabetic patients with prior MI, giving rise to the concept of diabetes as a categorical "coronary heart disease (CHD) equivalent." However, contemporary epidemiological data demonstrate considerable heterogeneity in cardiovascular risk across the diabetic spectrum.
 
-Modified from Cecilia C, Low Wang M, Brendan M, et al. Cardiovascular safety trials for all new diabetes mellitus drugs? Ten years of FDA guidance requirements to evaluate cardiovascular risk. Circulation 2019;139:1741–1743.
+Patients with recently diagnosed diabetes without target-organ damage or coexisting atherosclerotic risk factors exhibit significantly lower 10-year event rates than individuals with established coronary disease. Consequently, accurate risk stratification is essential to calibrate the intensity of preventative pharmacotherapies (such as high-intensity statins, aspirin, and cardiorenal-protective glucose-lowering drugs). Conventional multivariable risk scores—including the Framingham Risk Score, the UKPDS Risk Engine, and the ACC/AHA Pooled Cohort Equations—frequently underestimate or miscalibrate cardiovascular risk in diabetic individuals by failing to incorporate diabetes-specific factors.
 
-Drug manufacturers quickly adapted to this new regulatory climate. While most trials were designed to only demonstrate the anti-diabetic agent's noninferiority to placebo, some drugs were powered to show superiority compared to standard treatment. <sup>66</sup>
+To address these limitations, modern prevention guidelines recommend evaluating disease duration, glycemic control, renal microvascular damage, and subclinical atherosclerosis to refine risk estimation.
 
-As a result, a multitude of large CVOTs for antidiabetic agents were published after 2008 (Table 4.6). Categorically, the drugs tested demonstrated cardiovascular safety (noninferior cardiovascular outcomes compared to placebo). These post-2008 FDA mandated CVOTs led to a paradigm shift in T2DM treatment; therapies now are not primarily aimed at HbA1c reduction but are focused on other aspects of T2DM comorbidities as well, such as the effects on cardiovascular health. In addition, the information of these CVOTs led to great insights, such as the demanding issue of HF in older patients with T2DM<sup>67</sup> and the effects of these agents on kidney function. <sup>66</sup> In response to the outcome of these trials, the FDA for the first time approved label changes to drugs used to treat patients with diabetes for lower risk of MACE (liraglutide, <sup>68</sup> canagliflozin <sup>69</sup>) and cardiovascular death (empagliflozin <sup>70</sup>). <sup>71</sup>
+</div></details>
 
-After a decade under the 2008 guidance, in October 2018, the FDA Endocrinologic and Metabolic Drugs Advisory Committee discussed whether to provide updated guidance. Perhaps the most important critique about the past CVOTs is the lack of generality of the trial's results. <sup>66</sup> Most participants had high baseline CVD risk, and this limits how much the results can be extrapolated onto the entire population. <sup>66</sup> Further, some point out that focusing new T2DM drugs on atherosclerotic cardiovascular safety is too limited. <sup>71</sup> For instance, members of the committee emphasized the importance of drug development for outcomes such as HF, peripheral artery disease, and fatty liver disease, and these comorbidities are all important to individuals with T2DM. <sup>61</sup> In addition, the high cost and rigor of these large outcome trials might deter the development of novel drugs by pharmaceutical companies. <sup>71</sup>
+<details class="med-details"><summary>
 
-The committee voted 10 to 9 to continue the 2008 guidance; the close decision demonstrates the complexity of the subject. While the new guidelines have not been finalized, a possible outcome of the committee's discussion is that trials assessing new drugs should be more strict than before the implementation of the FDA 2008 guidance for industry, but more lenient than 2008 recommendations. For instance, there were discussions on modifying the approval procedure to a one-step process and altering the preapproval hazard ratios from 1.8 to <1.5, while removing the 1.3 postapproval limit. If implemented by the FDA, this simplified approach to diabetes related CVOT trial design would allow more resources to be directed to development of drugs that show efficacy against outcomes like peripheral artery disease, HF, glycemic variability, quality of life, or kidney disease.
+### Risk-Enhancing Factors and Disease Duration</summary><div class="details-content">
 
-Table 4.6
+The 2019 ACC/AHA Guideline on the Primary Prevention of Cardiovascular Disease identified specific diabetes-related risk-enhancing factors that elevate individuals into higher risk categories ([Table 4.2](#table-04-02)). A disease duration >10 years for T2DM (or >20 years for type 1 diabetes) represents a major independent cardiovascular risk enhancer. Patients with ≥ 10 years of diabetes history exhibit event rates that approach true CHD equivalents.
 
-#### Cardiovascular data for selected type 2 diabetes mellitus drugs after guidance
+<span id="table-04-02"></span>
 
-| C<br>l<br>a<br>s<br>s       | M<br>d<br>i<br>t<br>i<br>e<br>c<br>a<br>o<br>n                                                                                                                              | T<br>i<br>l<br>r<br>a                                                                                                                                                                       | C<br>d<br>i<br>l<br>f<br>i<br>l<br>t<br>g<br>a<br>r<br>o<br>v<br>a<br>s<br>c<br>u<br>a<br>r<br>s<br>a<br>e<br>y<br>s<br>n<br>a<br>s<br>o<br>r<br>C<br>i<br>C<br>i<br>M<br>A<br>E-<br>t<br>h<br>P<br>t<br>V<br>D<br>R<br>k,<br>r<br>e<br>e-<br>o<br>n<br>s<br>H<br>d<br>R<br>t<br>i<br>(<br>9<br>5<br>%<br>C<br>I<br>)<br>a<br>a<br>r<br>a<br>o<br>z | E<br>t<br>e<br>n<br>s<br>v                     | S<br>b<br>j<br>t<br>e<br>c<br>u                          | O<br>t<br>h<br>t<br>e<br>r<br>o<br>c<br>o<br>m<br>e<br>s<br>u                                                                                                    |
-|-----------------------------|-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------|---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|------------------------------------------------|----------------------------------------------------------|------------------------------------------------------------------------------------------------------------------------------------------------------------------|
-| G<br>L<br>P-<br>1<br>R<br>A | L<br>i<br>i<br>i<br>d<br>t<br>x<br>s<br>e<br>n<br>a<br>e<br>c<br>L<br>i<br>l<br>t<br>i<br>d<br>g<br>r<br>a<br>u<br>e<br>S<br>l<br>t<br>i<br>d<br>g<br>e<br>m<br>a<br>e<br>u | a<br>E<br>L<br>I<br>X<br>A<br>(<br>2<br>0<br>1<br>5<br>)<br>2<br>0<br>6<br>L<br>E<br>A<br>D<br>E<br>R<br>(<br>1<br>)<br>S<br>U<br>S<br>T<br>A<br>I<br>N-<br>6<br>(<br>2<br>0<br>1<br>6<br>) | b<br>1.<br>0<br>2<br>(<br>0.<br>8<br>9–<br>1.<br>1<br>7<br>)<br>D<br>0.<br>8<br>0.<br>8–<br>0.<br>9<br>7<br>(<br>7<br>7<br>)<br>D<br>0.<br>7<br>4<br>(<br>0.<br>5<br>8–<br>0.<br>9<br>5<br>)                                                                                                                                                        | 8<br>0<br>5<br>3<br>0<br>2<br>1<br>2<br>5<br>4 | 6<br>0<br>6<br>8<br>9<br>3<br>0<br>4<br>3<br>2<br>9<br>7 | …<br>…<br>R<br>t<br>i<br>t<br>h<br>1.<br>7<br>6<br>e<br>n<br>o<br>p<br>a<br>y<br>D<br>(<br>1.<br>1<br>1–<br>2.<br>7<br>8<br>)                                    |
-|                             | E<br>i<br>d<br>t<br>x<br>e<br>n<br>a<br>e<br>A<br>l<br>b<br>i<br>l<br>i<br>d<br>t<br>g<br>u<br>e                                                                            | E<br>X<br>S<br>C<br>E<br>L<br>(<br>2<br>0<br>1<br>7<br>)<br>H<br>A<br>R<br>M<br>O<br>N<br>Y<br>O<br>U<br>T<br>C<br>O<br>M<br>E<br>S<br>(<br>2<br>0<br>1<br>8<br>)                           | 0.<br>9<br>1<br>(<br>0.<br>8<br>3–<br>1.<br>0<br>0<br>)<br>D<br>0.<br>7<br>8<br>(<br>0.<br>6<br>8–<br>0.<br>9<br>0<br>)                                                                                                                                                                                                                             | 1<br>7<br>4<br>4<br>7<br>6<br>6                | 1<br>4<br>7<br>5<br>2<br>9<br>4<br>6<br>3                | …<br>…                                                                                                                                                           |
-|                             | D<br>l<br>l<br>i<br>d<br>t<br>g<br>u<br>a<br>u<br>e<br>O<br>l<br>r<br>a<br>l<br>t<br>i<br>d<br>g<br>s<br>e<br>m<br>a<br>e<br>u                                              | R<br>E<br>W<br>I<br>N<br>D<br>(<br>2<br>0<br>1<br>9<br>)<br>P<br>I<br>O<br>N<br>E<br>E<br>R-<br>6<br>(<br>2<br>0<br>1<br>9<br>)                                                             | D<br>0.<br>8<br>8<br>(<br>0.<br>7<br>9–<br>0.<br>9<br>9<br>)<br>D<br>0.<br>7<br>9<br>(<br>0.<br>5<br>7–<br>1.<br>1<br>1<br>)                                                                                                                                                                                                                        | 1<br>2<br>5<br>7<br>1<br>3<br>7                | 9<br>9<br>0<br>1<br>3<br>1<br>8<br>3                     | …<br>…                                                                                                                                                           |
-| S<br>G<br>L<br>T-<br>2<br>i | d<br>E<br>l<br>i<br>f<br>l<br>i<br>g<br>m<br>p<br>a<br>o<br>z<br>n<br>d<br>C<br>l<br>i<br>f<br>l<br>i<br>g<br>a<br>n<br>a<br>o<br>z<br>n                                    | E<br>M<br>P<br>A-<br>R<br>E<br>G<br>(<br>2<br>0<br>1<br>5<br>)<br>C<br>A<br>N<br>V<br>A<br>S<br>g<br>p<br>r<br>o<br>r<br>a<br>m<br>(<br>2<br>0<br>1<br>7<br>)                               | D<br>0.<br>8<br>6<br>(<br>0.<br>7<br>4–<br>0.<br>9<br>9<br>)<br>D<br>0.<br>8<br>6<br>(<br>0.<br>7<br>5–<br>0.<br>9<br>7<br>)                                                                                                                                                                                                                        | 7<br>7<br>2<br>1<br>0<br>1<br>1                | 7<br>0<br>2<br>0<br>1<br>0<br>1<br>4<br>2                | …<br>A<br>i<br>1.<br>9<br>7<br>t<br>t<br>m<br>p<br>u<br>a<br>o<br>n<br>D<br>(<br>1.<br>4<br>1–<br>2.<br>7<br>5<br>)                                              |
-|                             | D<br>l<br>i<br>f<br>l<br>i<br>g<br>a<br>p<br>a<br>o<br>z<br>n                                                                                                               | D<br>E<br>C<br>L<br>A<br>R<br>E-<br>T<br>I<br>M<br>I<br>5<br>8<br>(<br>2<br>0<br>1<br>8<br>)                                                                                                | 0.<br>9<br>3<br>(<br>0.<br>8<br>4–<br>1.<br>0<br>3<br>)                                                                                                                                                                                                                                                                                             | 1<br>5<br>5<br>9                               | 1<br>7<br>1<br>6<br>0                                    | D<br>i<br>b<br>i<br>k<br>i<br>d<br>i<br>2.<br>1<br>8<br>t<br>t<br>a<br>e<br>c<br>e<br>o<br>a<br>c<br>o<br>s<br>s<br>D<br>(<br>1.<br>1<br>0–<br>4.<br>3<br>0<br>) |
-| D<br>P<br>P-<br>4<br>i      | C<br>f<br>l<br>i<br>l<br>i<br>g<br>a<br>n<br>a<br>o<br>z<br>n<br>S<br>l<br>i<br>t<br>i<br>g<br>a<br>a<br>p<br>n<br>x                                                        | C<br>C<br>2<br>0<br>9<br>R<br>E<br>D<br>E<br>N<br>E<br>(<br>1<br>)<br>S<br>A<br>V<br>O<br>R-<br>T<br>I<br>M<br>I<br>5<br>3<br>(<br>2<br>0<br>1<br>3<br>)                                    | D<br>0.<br>8<br>0<br>0.<br>6<br>0.<br>9<br>(<br>7-<br>5<br>)<br>1.<br>0<br>0<br>(<br>0.<br>8<br>9–<br>1.<br>1<br>2<br>)                                                                                                                                                                                                                             | 8<br>6<br>4<br>1<br>2<br>2<br>2                | 0<br>4<br>4<br>1<br>1<br>6<br>4<br>9<br>2                | …<br>H<br>F<br>h<br>i<br>t<br>l<br>i<br>t<br>i<br>1.<br>2<br>7<br>o<br>s<br>p<br>a<br>a<br>o<br>n<br>z<br>D<br>(<br>1.<br>0<br>7–<br>1.<br>5<br>1<br>)           |
-|                             | A<br>l<br>l<br>i<br>i<br>g<br>t<br>o<br>p<br>n                                                                                                                              | a<br>E<br>X<br>A<br>M<br>I<br>N<br>E<br>(<br>2<br>0<br>1<br>3<br>)                                                                                                                          | 0.<br>9<br>6<br>(<br>0.<br>8<br>0–<br>1.<br>1<br>6<br>)                                                                                                                                                                                                                                                                                             | 6<br>2<br>1                                    | 5<br>3<br>8<br>0                                         | H<br>F<br>h<br>i<br>l<br>i<br>i<br>1.<br>1<br>9<br>t<br>t<br>o<br>s<br>p<br>a<br>z<br>a<br>o<br>n<br>(<br>0.<br>9<br>0–<br>1.<br>5<br>8<br>)                     |
+**Table 4.2 Risk-Enhancing Factors According to the 2019 ACC/AHA Guidelines on Primary Prevention of Cardiovascular Disease**
 
-| S<br>i<br>l<br>i<br>i<br>t<br>t<br>g<br>a<br>p<br>n | T<br>E<br>C<br>O<br>S<br>(<br>2<br>0<br>1<br>5<br>)                     | B<br>0.<br>9<br>8<br>(<br>0.<br>8<br>9–<br>1.<br>0<br>8<br>) | 1<br>6<br>9<br>0 | 1<br>4<br>6<br>7<br>1 | H<br>F<br>h<br>i<br>l<br>i<br>i<br>1.<br>0<br>0<br>t<br>t<br>o<br>s<br>p<br>a<br>z<br>a<br>o<br>n<br>(<br>0.<br>8<br>3–<br>1.<br>2<br>0<br>) |
-|-----------------------------------------------------|-------------------------------------------------------------------------|--------------------------------------------------------------|------------------|-----------------------|----------------------------------------------------------------------------------------------------------------------------------------------|
-| L<br>i<br>l<br>i<br>t<br>i<br>g<br>n<br>a<br>p<br>n | C<br>2<br>0<br>8<br>A<br>R<br>M<br>E<br>L<br>I<br>N<br>A<br>(<br>1<br>) | 0<br>2<br>0.<br>8<br>9–<br>1.<br>(<br>1.<br>1<br>7<br>)      | 8<br>5<br>4      | 6<br>9<br>9<br>7      | 0.<br>9<br>0<br>H<br>F<br>h<br>i<br>t<br>l<br>i<br>t<br>i<br>o<br>s<br>p<br>a<br>z<br>a<br>o<br>n<br>(<br>0.<br>7<br>4–<br>1.<br>0<br>8<br>) |
+| Clinical Factor | Diagnostic Threshold / Criteria |
+| :--- | :--- |
+| **Long duration of diabetes** | >10 years for type 2 diabetes mellitus or >20 years for type 1 diabetes mellitus |
+| **Albuminuria** | >30 μg albumin/mg creatinine (or ≥ 30 mg/g) |
+| **Impaired renal filtration** | Estimated glomerular filtration rate (eGFR) <60 mL/min/1.73 m² |
+| **Diabetic retinopathy** | Presence of nonproliferative or proliferative retinopathy |
+| **Diabetic neuropathy** | Peripheral or autonomic diabetic neuropathy |
+| **Subclinical vascular disease** | Ankle-brachial index (ABI) <0.9 |
 
-aPatient population with recent acute coronary syndrome
+*Abbreviations:* ABI, ankle-brachial index; ACC, American College of Cardiology; AHA, American Heart Association; eGFR, estimated glomerular filtration rate.  
+*Source:* 2019 ACC/AHA Guideline on the Primary Prevention of Cardiovascular Disease. Circulation. 2019;140(11):e596–e646.
 
-CANVAS, Canagliflozin cardiovascular assessment study; CARMELINA, Cardiovascular and renal microvascular outcome study with linagliptin in patients with type 2 diabetes mellitus; CVD, cardiovascular disease; DECLARE-TIMI 58, Dapagliflozin effect on cardiovascular events– thrombolysis in myocardial infarction 58; DPP-4, Dipeptidyl peptidase 4; ELIXA, Evaluation of lixisenatide in acute coronary syndrome; EMPA-REG, Empagliflozin, cardiovascular outcomes, and mortality in type 2 diabetes trial; EXAMINE, Cardiovascular outcomes study of alogliptin in patients with type 2 diabetes and acute coronary syndrome; EXSCEL, Exenatide study of cardiovascular event lowering trial; HARMONY OUTCOMES, Effect of albiglutide, when added to standard blood glucose lowering therapies on major cardiovascular events in subjects with type 2 diabetes mellitus; GLP-1, glucose like peptide-1; HF, heart failure; LEADER, Liraglutide effect and action in diabetes: evaluation of cardiovascular outcome results; MACE–3-point, major adverse cardiovascular event: myocardial infarction, stroke, or cardiovascular death; REWIND, Researching cardiovascular events with <sup>a</sup> weekly incretin in diabetes; SAVOR-TIMI 53, Saxagliptin assessment of vascular outcomes recorded in patients with diabetes mellitus–thrombolysis in myocardial infarction 53; SGLT, sodium glucose transporter; SMQ, Standardized medical query (of adverse event terms); SUSTAIN-6, Trial to evaluate cardiovascular and other long-term outcomes with semaglutide in subjects with type 2 diabetes; TECOS, Trial evaluating cardiovascular outcomes with sitagliptin.
+Microvascular disease serves as a potent harbinger of macrovascular disease. Persistent albuminuria (>30 $\\mu\\text{g}$ albumin/mg creatinine or urine albumin-to-creatinine ratio ≥ 30 mg/g), reduced glomerular filtration (eGFR <60 mL/min/1.73 m²), nonproliferative or proliferative retinopathy, and peripheral or autonomic neuropathy independently signal widespread microvascular endothelial dysfunction. In addition, an ankle-brachial index (ABI) <0.9 identifies occult peripheral arterial disease, reflecting diffuse systemic atherosclerosis.
 
-Modified from Cecilia C, Low Wang M, Brendan M, et al. Cardiovascular Safety Trials for All New Diabetes Mellitus Drugs? Ten Years of FDA guidance requirements to evaluate cardiovascular risk. Circulation 2019;139:1741–1743.
+Similarly, the 2019 American Diabetes Association (ADA) Standards of Medical Care underscore key risk-enhancing domains including severe obesity, hypertension, chronic kidney disease, tobacco abuse, dyslipidemia, and a family history of premature coronary heart disease ([Table 4.3](#table-04-03)). The age of diabetes onset also carries profound prognostic significance: individuals diagnosed at a younger age (<40 years) endure prolonged lifetime exposure to dysglycemia, experiencing accelerated vascular complications and substantial reductions in life expectancy.
 
-bMACE <sup>+</sup> hospitalization for unstable angina.
+<span id="table-04-03"></span>
 
-cStatistically significant.
+**Table 4.3 Risk-Enhancing Factors According to 2019 ADA Standards of Medical Care in Diabetes**
 
-dApproved for reduction of cardiovascular mortality or MACE in established CVD.
+| Risk-Enhancing Domain | Clinical Features and Markers |
+| :--- | :--- |
+| **Obesity** | Increased visceral adiposity, BMI ≥ 30 $\text{kg/m}^2$, or increased waist circumference |
+| **Hypertension** | Blood pressure ≥ 140/90 mmHg (or ≥ 130/80 mmHg per individual target) or on antihypertensive therapy |
+| **Chronic kidney disease** | Reduced eGFR or progressive renal decline |
+| **Tobacco smoking** | Current cigarette smoking or history of chronic tobacco abuse |
+| **Family history** | Premature coronary heart disease in first-degree relatives (<55 years in men, <65 years in women) |
+| **Atherogenic dyslipidemia** | Elevated triglycerides, low HDL cholesterol, elevated LDL-C or apolipoprotein B |
+| **Albuminuria** | Urine albumin-to-creatinine ratio (UACR) ≥ 30 mg/g |
 
-# Drugs That Lower Cardiovascular Disease Risk
+*Abbreviations:* ADA, American Diabetes Association; BMI, body mass index; eGFR, estimated glomerular filtration rate; HDL, high-density lipoprotein; LDL-C, low-density lipoprotein cholesterol; UACR, urine albumin-to-creatinine ratio.  
+*Source:* American Diabetes Association. Standards of Medical Care in Diabetes—2019. Diabetes Care. 2019;42(Suppl. 1):S1–S193.
 
-# Metformin
+</div></details>
 
-## Drug Class Overview
+<details class="med-details"><summary>
 
-Singly or in combination, metformin is the standard of care to promote glycemic control and is the first-choice agent in international T2DM guidelines.31,73 Importantly, it also suppresses appetite, is associated with modest (2%–3%) weight reduction, appears to be devoid of cardiovascular harm, and may benefit when given to patients with T2DM and HF.<sup>74</sup> In the prolonged UKPDS study, metformin was the only drug to reduce T2DM-related and all-cause mortality, although the number of events was low.<sup>75</sup> Since then, it has been the first-line treatment in overweight patients with T2DM.
+### Coronary Artery Calcium (CAC) Testing</summary><div class="details-content">
 
-#### Mechanisms of Action
+Coronary artery calcium (CAC) scoring by non-contrast cardiac computed tomography has emerged as a premier tool for refining cardiovascular risk in asymptomatic individuals with diabetes. While current prevention guidelines generally classify all diabetic adults aged 40–75 years as candidates for at least moderate-intensity statin therapy, CAC testing provides powerful reclassification for clinical decision-making.
 
-Most of the metabolic effect of metformin occurs in the liver wherein it reduces glucose production.<sup>76</sup> Although the in vivo effects in patients with T2DM or at risk for T2DM remain unproven, in skeletal muscle, metformin phosphorylates, and activates 5' AMP-activated protein kinase (AMPK), which facilitates many of the observed cellular effects of metformin, such as inhibition of glucose and lipid synthesis. AMPK activation also leads to the glucose transporter-4 mediated glucose uptake (Fig. 4.4). Overall, metformin leads to a higher systemic insulin sensitivity.<sup>77</sup> Another putative mechanism of metformin relates to the impact on the intestinal microbiome.<sup>78</sup>
+Data from the Multi-Ethnic Study of Atherosclerosis (MESA) and other large cohorts show that approximately 30% of diabetic individuals without clinical CVD have a CAC score of 0. These individuals experience low 10-year ASCVD event rates (approximately 4–6 per 1000 person-years), providing a "warranty period" of 5–10 years during which cardiovascular risk remains modest.
 
-## Differences Among Drugs in Class
+Conversely, diabetic patients with CAC >100 Agatston units or >75th age- and sex-matched percentile face very high 10-year event rates exceeding 20%, warranting intensification to high-intensity statin regimens, lower LDL-C targets, blood pressure optimization, and initiation of cardioprotective glucose-lowering agents.
 
-Metformin can be administered twice daily in the short-release form or once daily in the long-release form.31 Both forms are equally effective. However, the long release is associated with fewer gastrointestinal effects than the short-release form.<sup>79</sup>
+</div></details>
 
-# Data for Use
+<details class="med-details"><summary>
 
-Overall, the initial treatment with metformin shows many benefits on clinical outcomes, such as less hypoglycemia and weight gain compared to insulin or sulfonylureas.<sup>50</sup>
+### Microvascular Complications: DCCT and UKPDS</summary><div class="details-content">
 
-Glycemic control. Metformin is the first-choice agent for T2DM primarily because of its glycemic efficacy in the absence of side effects seen with other glucose-lowering agents. The United States Multicenter Metformin Study group showed that after 29 weeks,
+The therapeutic value of lowering blood glucose was definitively established for microvascular complications by landmark randomized trials. The Diabetes Control and Complications Trial (DCCT) enrolled 1441 patients with type 1 diabetes and demonstrated that intensive insulin therapy (achieving a mean HbA1c of ~ 7% vs ~ 9% in the conventional group) reduced the development and progression of diabetic retinopathy, nephropathy, and neuropathy by approximately 60%.
 
-#### CELLULAR GLUCOSE METABOLISM
+In type 2 diabetes, the UK Prospective Diabetes Study (UKPDS) randomized 3867 newly diagnosed patients to intensive therapy with sulfonylureas or insulin (median HbA1c 7.0%) versus conventional dietary policy (median HbA1c 7.9%). Over 10 years of active follow-up, intensive glycemic control yielded a significant 25% reduction in microvascular complications ($P = 0.0099$), primarily driven by a 34% reduction in risk of developing clinical albuminuria.
 
-![](_page_20_Picture_3.jpeg)
+These findings confirmed that chronic hyperglycemia is the primary pathophysiological driver of capillary basement membrane thickening, pericyte loss, podocyte injury, and microvascular end-organ damage.
 
-Fig. 4.4 Cellular glucose metabolism. Excess free fatty acid (FFA) entering the muscle cell is activated to long-chain acyl coenzyme A, which inhibits the insulin signaling pathway so that there is less translocation of glucose transporter vesicles (GLUT-4 and GLUT-1 glucose) to the cell surface. Glucose uptake is decreased, and hyperglycemia is promoted. The increased uptake of FFA promotes lipid metabolites accumulation in various organs, including the heart and pancreas. Metformin and exercise, by stimulating adenosine monophosphate protein kinase (AMPK), promote the translocation of transport vesicles to the cell surface to promote glucose entry and to oppose insulin resistance. Protein kinase B, also called Akt, plays a key role. AMPK, 5' AMP-activated protein kinase; G, glucose; IRS-P, insulin receptor substrate-phosphatidyl. (Modified from Opie LH. Heart Physiology, from Cell to Circulation. 4th ed. Philadelphia: Lippincott, Williams and Wilkins; 2004: 313.)
+</div></details>
 
-patients randomly assigned to metformin had a mean HbA1c concentration of 7.1% compared to 8.6% in the placebo group.<sup>80</sup>
+<details class="med-details"><summary>
 
-Weight loss. An additional advantage over other antidiabetics is the weight loss associated with metformin. In the Diabetes Prevention Program, study participants reduced their body weight by  $2.06 \pm$ 5.65% when taking metformin, compared to the  $0.02 \pm 5.52\%$  weight loss of the placebo group (P < 0.001). In a meta-analysis, when combined with insulin, metformin reduced HbA1c by 0.5% and weight gain by 1 kg, whereas the insulin dose fell by 5 U/day.<sup>82</sup>
+### Macrovascular Complications and the "Legacy Effect"</summary><div class="details-content">
 
-Cardiovascular outcomes. Trials on cardiovascular outcomes of metformin preceded the FDA guidance, and as a result there are no definitive CVOTs similar to those with SGLT-2 (sodium-glucose cotransporter-2) inhibitors, GLP-1 receptor agonists, and DPP-4 (dipeptidyl peptidase 4) inhibitors. Evidence on cardiovascular effect of metformin relies on a number of smaller studies that, even though controversial, overall point toward cardiovascular benefits. Evidence from a meta-analysis of 179 trials and 25 observational studies concluded that cardiovascular mortality was lower for metformin compared to sulfonylureas. For example, compared to sulfonylureas, metformin was associated with a lower all-cause mortality (HR 0.5–0.8), lower CVD mortality (HR 0.6–0.9), and lower CVD morbidity (HR 0.3–0.9), In a Danish retrospective national cohort study, Andersson et al. demonstrated that patients with T2DM with HF treated with metformin had a lower risk of mortality compared with sulfonylureas and/or insulin. In the sulfonylureas and/or insulin.
+In contrast to microvascular outcomes, the immediate effect of intensive glycemic control on macrovascular disease (myocardial infarction, stroke, cardiovascular death) in UKPDS was modest and fell short of statistical significance during the active 10-year trial period (16% reduction in MI, $P = 0.052$). However, prolonged post-trial monitoring revealed a critical phenomenon termed the "legacy effect" or metabolic memory.
 
-REMOVAL (Reducing with Metformin Vascular Adverse Lesions), the largest and longest double-blinded randomized control study assessing metformin, observed the progression of atherosclerosis in patients with T1DM. Atherosclerosis progression was measured by average maximal carotid intima-media thickness (CIMT). In the group treated with metformin, CIMT was significantly reduced ( $-0.013\,\mathrm{mm/year}$ , -0.024 to -0.003;  $P\!=\!0.0093$ ), suggesting cardiovascular benefits. There is also evidence that metformin may protect against coronary atherosclerosis in prediabetes and early T2DM in men. This hypothesis is currently being examined in the study VA-IMPACT (Investigation of Metformin in Pre-Diabetes on Atherosclerotic Cardiovascular Outcomes), testing if metformin reduces mortality and cardiovascular morbidity in patients with prediabetes and established ASCVD compared to placebo.
+In the 10-year post-trial follow-up of the UKPDS cohort (UKPDS 80), despite early loss of glycemic differences between the original treatment arms, participants previously randomized to intensive therapy experienced significant, persistent reductions in macrovascular events: a 15% reduction in myocardial infarction ($P = 0.01$) and a 13% reduction in all-cause mortality ($P = 0.007$). Similarly, the EDIC follow-up of the DCCT cohort demonstrated a 42% reduction in cardiovascular events over 17 years.
 
-**Cancer incidence.** In addition, observational studies have observed that metformin may lower cancer incidence.
+These data demonstrate that early, tight glycemic control established near the time of diabetes diagnosis creates durable cellular protection, whereas late glycemic intervention in patients with advanced vascular disease yields limited macrovascular benefit.
 
-#### Side Effects
+</div></details>
 
-The major side effects of metformin are gastrointestinal intolerances such as bloating or diarrhea. A very rare observed occurrence is lactic acidosis at very high circulating metformin levels if patients suffer from overdose, or acute renal failure. Consequently, metformin should be avoided in patients with a predisposition to lactic acidosis. Such factors include an estimated glomerular filtration rate (eGFR)  $<\!30\,\mathrm{mL/min/1.73\,m^2}$  or severe illness with vomiting and dehydration.  $^{87.73}$  Additionally, metformin is potentially
+<details class="med-details"><summary>
 
-associated with Vitamin B12 deficiency.<sup>88</sup> The 2019 ADA Standards of Medical Care state that Vitamin B levels should be routinely measured in patients treated with metformin, especially in patients with anemia or peripheral neuropathy (Level B recommendation).<sup>31</sup>
+### Intensive Glycemic Control and Mortality: ACCORD, ADVANCE, and VADT</summary><div class="details-content">
 
-# Drug Interactions or Major Restriction
+To test whether aggressive glucose lowering could rapidly reduce cardiovascular events in patients with established T2DM and high cardiovascular risk, three major randomized clinical trials were conducted: ACCORD, ADVANCE, and VADT ([Table 4.4](#table-04-04)).
 
-Metformin demonstrates synergistic effects when coadministered with SGLT-2 inhibitors. In comparison to the application of metformin alone, the combination of metformin and SGLT-2 inhibitors improved arterial stiffness in T1DM patients.<sup>89</sup> Endothelial dysfunction is improved through the combination of metformin and saxagliptin in T2DM.90
+<span id="table-04-04"></span>
 
-Metformin and kidney disease. Metformin is renally excreted. Bearing in mind that moderate to severe renal disease with eGFR <60mL/min occurs in 20%–30% of patients with T2DM, metformin dose reduction should be considered at an eGFR <45mL/min and at an eGFR <30mL/min, metformin should not be used.31,73 If eGFR is 30–60mL/min, the 2019 ADA Standards of Medical Care additionally advise to pause metformin treatment before iodinated contrast imaging procedures.<sup>31</sup>
+**Table 4.4 Rates of Severe Hypoglycemia in the ACCORD, ADVANCE, and VADT Clinical Trials**
 
-# SGLT-2 Inhibitors
+| Clinical Trial | Intensive HbA1c Target, % | Intensive Glucose Control Arm, %/yr | Standard Glucose Control Arm, %/yr | $P$ Value |
+| :--- | :--- | :--- | :--- | :--- |
+| **ACCORD** | <6.0 | 16.2 | 5.1 | <0.001 |
+| **ADVANCE** | ≤ 6.5 | 2.7 | 1.5 | <0.001 |
+| **VADT** | <6.0 (insulin added if >6.0) | 21.2 | 9.9 | <0.001 |
 
-## Drug Class Overview
+*Abbreviations:* ACCORD, Action to Control Cardiovascular Risk in Diabetes; ADVANCE, Action in Diabetes and Vascular Disease: Preterax and Diamicron MR Controlled Evaluation; HbA1c, glycated hemoglobin; VADT, Veterans Affairs Diabetes Trial.  
+*Modified from:* Connelly KA, Yan AT, Leiter LA, Bhatt DL, Verma S. Cardiovascular implications of hypoglycemia in diabetes mellitus. Circulation. 2015;132(24):2345–2350.
 
-The 2019 ADA Standards of Medical Care state that if the HbA1c target is not achieved after 3 months of metformin and lifestyle intervention alone, metformin can be combined with additional drugs. For patients with ASCVD, HF, or CKD, the guidelines recommend the addition of SGLT-2 inhibitors or glucagon-like peptide 1 (GLP-1) receptor agonists.<sup>31</sup>
+The Action to Control Cardiovascular Risk in Diabetes (ACCORD) trial enrolled 10251 patients with established T2DM (mean duration 10 years) and either manifest CVD or multiple risk factors, randomizing them to intensive glycemic control (target HbA1c $<6.0\\%$) or standard control (target HbA1c 7.0–7.9%). The intensive glycemic arm was terminated prematurely after a mean follow-up of 3.5 years due to a significant 22% increase in all-cause mortality (1.41% vs 1.14% per year; 257 vs 203 deaths; HR 1.22; 95% CI 1.01–1.46; $P = 0.04$). The excess mortality was primarily attributed to an alarming three-fold increase in severe hypoglycemia requiring medical assistance (16.2% vs 5.1% per year; $P < 0.001$), rapid downward titration, and weight gain.
 
-# Mechanisms of Action
+The ADVANCE trial randomized 11140 patients to intensive control (target HbA1c $\\le 6.5\\%$ using gliclazide MR) or standard therapy. ADVANCE achieved a mean HbA1c of 6.5% without excess mortality, showing a 21% reduction in new or worsening nephropathy, but found no significant reduction in major macrovascular events (HR 0.94; 95% CI 0.84–1.06). The Veterans Affairs Diabetes Trial (VADT) randomized 1791 veterans with poorly controlled diabetes (mean duration 11.5 years) to intensive or standard therapy (median HbA1c 6.9% vs 8.4%); after 5.6 years, no significant difference was observed for primary cardiovascular events or mortality, while severe hypoglycemia was doubled (21.2% vs 9.9% per year; $P < 0.001$).
 
-SGLT-2 inhibitors work by decreasing glucose levels through urinary excretion (Fig. 4.5). Their glucosuric effect, coupled with a diuretic-mediated antihypertensive effect and hemoconcentration, may explain their cardiovascular benefits.<sup>91</sup> The inhibition of SGLT-2 receptors in the kidneys result in increased urinary excretion of glucose, which reduces postprandial glycemic excursions and leads to more effective glycaemic control and weight loss. The weight loss associated with SGLT-2 inhibitors, which was confirmed in a meta-analysis that compared SGLT-2 inhibitors with placebo showing that SGLT-2 inhibitors, were associated with a mean of 2.99 kg reduction in weight over 2 years (95% CI 3.64 to 2.3492), may also contribute CVD risk reductions. These effects
+</div></details>
 
-![](_page_23_Figure_1.jpeg)
+<details class="med-details"><summary>
 
-Fig. 4.5 SGLT-2 inhibitors effect on renal glucose filtration. SGLT, Sodium glucose transporter.
+### Individualized Glycemic Targets and ADA/EASD Recommendations</summary><div class="details-content">
 
-improve insulin sensitivity. The negative energy balance associated with glycosuria leads to ketone body metabolization by cardiac myocytes, which are a more efficient energy fuel.  $^{93}$  The osmotic diuresis contributes to the BP reduction associated with SGLT-2 inhibitors. For example, the CANTATA-M (Canagliflozin Treatment and Trial Analysis – Monotherapy) trial showed that SBP and diastolic blood pressure (DBP) values were reduced with 300 mg canagliflozin by  $-5.4\,\mathrm{mmHg}$  and  $-2\,\mathrm{mmHg}$ , respectively.  $^{94}$ 
+The sobering mortality signal from ACCORD and neutrality in ADVANCE and VADT prompted international guidelines to abandon uniform, rigid glycemic targets in favor of an individualized, patient-centered approach. The ADA/EASD consensus guidelines recommend evaluating seven clinical domains: hypoglycemia risk, disease duration, life expectancy, significant comorbidities, established vascular complications, patient preference, and available resources.
 
-## **Differences Among Drugs in Class**
+For nonpregnant adults without significant hypoglycemia, an HbA1c target $<7.0\\%$ represents the standard goal to prevent microvascular disease while minimizing adverse effects. A more stringent target ($<6.5\\%$) is reasonable for selected patients with short diabetes duration, long life expectancy, no established CVD, and therapy managed by agents with minimal hypoglycemia risk (e.g., lifestyle, metformin, SGLT2 inhibitors, GLP-1 RAs).
 
-While canagliflozin and empagliflozin have demonstrated cardiovascular and renal benefits, canagliflozin was associated with a higher risk of lower limb amputations and fractures. <sup>69</sup> The ADA 2019 Standards of Medical Care state that for patients with established ASCVD, evidence for empagliflozin is the strongest. <sup>73</sup> Dapagliflozin showed significant benefits for individuals with HF. <sup>95</sup>
+Conversely, a more relaxed HbA1c target ($<8.0\\%$ or even $8.0–8.5\\%$) is recommended for frail elderly individuals, patients with a history of severe hypoglycemia or hypoglycemia unawareness, extensive ASCVD, advanced CKD, or limited life expectancy, where the hazards of hypoglycemia clearly exceed the theoretical long-term benefits of tight glycemic control.
 
-#### Data for Use
+</div></details>
 
-Multiple large FDA mandated CVOTs have since reported on the cardiovascular effects of SGLT-2 inhibitors (Table 4.6). The two FDA-approved SGLT-2 inhibitors, empagliflozin and canagliflozin, showed significant reductions in cardiovascular events.
+</div></details>
 
-**EMPA-REG.** EMPA-REG, a randomized double-blinded trial, evaluated the effect of empagliflozin on a composite of cardiovascular death, nonfatal MI, or nonfatal stroke. The Even though designed for noninferiority, the study concluded that empagliflozin was superior to placebo. Empagliflozin reduced risk of the primary outcome, with a relative risk reduction of 14% (10.5% empagliflozin vs 12.1% placebo - HR 0.86 [95% CI 0.74–0.99. P=0.04). In individuals using empagliflozin, cardiovascular death was reduced by 38% (absolute rate 3.7% versus 5.9%, HR 0.62 [95% CI 0.49–0.77], P<0.001). Due to the significant decrease in cardiovascular death associated with empagliflozin, the FDA approved empagliflozin in 2016 "to reduce the risk of cardiovascular death in adult patients with T2DM and cardiovascular disease," even though cardiovascular death reduction was only a secondary outcome.
+<details class="med-details"><summary>
 
-In addition, empagliflozin reduced risk of HF both in patients with and without HF at baseline. The ACC/AHA 2019 Standards of Care recognized empagliflozin's potential for primary prevention of HF.<sup>38</sup> Within the first few months, reduction in cardiovascular mortality was observed in EMPA-REG.<sup>70</sup> This posits that the increased diuresis and improved hemodynamics associated with empagliflozin may result in the cardiovascular benefits, which are independent of glycemic control.<sup>96</sup> The hypothesis that glycemic control
+## Importance of Large Cardiovascular Outcome Trials</summary><div class="details-content">
 
-is not the only cause of empagliflozin's beneficial cardiovascular effect is further established by the observation that patients with HF benefited from empagliflozin, within a large range of HbA1c values. <sup>96</sup> In order to assess if SGLT-2 inhibitors prevent HF independent of glycemic control, the effect of SGLT-2 inhibitors on HF will be measured in EMPEROR HF for empagliflozin (ClinicalTrials.gov trial number NCT03057977) and DAPA HF for dapagliflozin (ClinicalTrials.gov trial number: NCT03036124) in patients without T2DM.
+<details class="med-details"><summary>
 
-**CANVAS.** The CANVAS trial evaluated the cardiovascular effects of canagliflozin. Here, canagliflozin reduced the rate of three-point MACE from 31.5 to 26.9 participants per 1000 patient-years (HR 0.86; 95% CI 0.75 to 0.97; P < 0.001 for noninferiority; P = 0.02 for superiority). However, there were no significant findings for cardiovascular death or death by any cause. Of note, the rate of lower limb amputations almost doubled in the canagliflozin group compared to the control group 6.3 versus 3.4 per 1000 patient years (HR 1.97 [1.41–2.75]).
+### Historical Background and the Rosiglitazone Controversy</summary><div class="details-content">
 
-**CREDENCE.** The CREDENCE trial also studied canagliflozin, but the authors evaluated the renal effects of this drug. The primary outcome was a composite of end-stage kidney disease, doubling of serum creatinine and death from renal/cardiovascular disease. Compared to the placebo group, the rates of the primary outcome were lower in the canagliflozin group (43.2 and 61.2 per 1000 patient-years HR: 0.70; 95% CI 0.59–0.82; P = 0.00001). CREDENCE also showed that canagliflozin positively impact patients with chronic kidney disease (CKD). 97 According the most current guidelines, SGLT-2 inhibitors are not recommended for patients with GFR < 45 mL/min but results from CREDENCE suggest that for precisely these patients, SGLT-2 inhibitors are most beneficial. Even though the CREDENCE population consisted of a population which had slightly higher risk profiles than CANVAS, there was no increase in amputation or fracture as observed as adverse events in the CAN-VAS participants.
+Before 2008, regulatory authorities (including the US FDA and European EMA) approved antidiabetic medications exclusively on the basis of glycemic efficacy—demonstrating a statistically significant reduction in HbA1c over 12–24 weeks. Most premarketing Phase 2 and 3 trials enrolled younger, drug-naïve patients with low baseline cardiovascular risk, excluding patients with established CAD, heart failure, or renal impairment ([Table 4.5](#table-04-05)). Consequently, these studies were inadequately powered and systematically unsuited to evaluate cardiovascular safety.
 
-**DECLARE-TIMI-58.** The impact of dapagliflozin on cardiovascular outcomes was studied in the DECLARE-TIMI-58 trial. <sup>96</sup> This was the first CVOT SGLT-2 inhibitor trial to enroll a majority (59%) primary prevention patients. Only 41% had established ASCVD. While dapagliflozin achieved noninferiority, it was not superior to placebo in the primary outcome, three-point MACE (HR = 0.93, 95% CI 0.84–1.03, P=0.17). However, dapagliflozin did result in lower rates of hospitalization of HF (4.9% versus. 5.8%; HR 0.83; 95% CI 0.73–0.95; P=0.005).
+<span id="table-04-05"></span>
 
-**Summary.** The conclusion from a meta-analysis studying all-cause mortality and cardiovascular mortality was that SGLT-2 inhibitors are the most beneficial to cardiovascular outcomes compared to the other drug classes that underwent the FDA-mandated trials (GLP-1 receptor agonists and DPP-4 inhibitors). SGLT-2 inhibitors were also associated with lower rates of HF and MI outcome, compared to GLP-1 receptor agonists and DPP-4 inhibitors.
+**Table 4.5 Cardiovascular Safety Data for Selected Type 2 Diabetes Mellitus Drugs Before 2008 FDA Guidance**
 
-#### Side Effects
+| Class | Medication | Trial Phase | Evaluated CV Outcomes | Events | Subjects | Outcome Assessment |
+| :--- | :--- | :--- | :--- | :--- | :--- | :--- |
+| **GLP-1 RA** | Exenatide | Phase 2 and 3 | Cardiac disorders SAEs | 27 | 2371 | Noninferior safety signal |
+| **GLP-1 RA** | Liraglutide | Phase 3 | Custom MACE SMQ | 38 | 6638 | Noninferior safety signal |
+| **DPP-4i** | Saxagliptin | Phase 3 | Custom MACE SMQ | 40 | 4607 | Noninferior safety signal |
+| **DPP-4i** | Alogliptin | Phase 3 | Custom MACE SMQ | 18 | 4702 | Noninferior safety signal |
+| **DPP-4i** | Sitagliptin | Pooled phase 3 | Cardiac disorders SAEs | 12 | 2342 | Noninferior safety signal |
 
-The FDA-mandated outcome studies showed that SGLT-2 inhibitors were associated with an increased risk of genital infections due to the glucosuria. In a recent report, the FDA identified 55 cases of Fournier Gangrene receiving SGLT-2 inhibitors. 98 Other adverse events, such as an increase in LDL-C  $(1.09 \pm 2.3 \,\text{mg/dL})$  and an increase in total cholesterol (2.14±3.7 mg/dL), have also been noted. 99 Ten cases of bladder cancer have been noted among patients prescribed dapagliflozin. As the result, the FDA initiated postmarketing surveillance studies for this rare outcome. SGLT-2 inhibitors may cause symptomatic hypotension in older adults when taken simultaneously with ACE inhibitors, ARBs, or diuretics. Postmarketing reports also observed cases of acute kidney injury in patients taking canagliflozin and dapagliflozin.<sup>101</sup> SGLT-2 inhibitors should not be prescribed when eGFR <30 mL/min/1.73 m<sup>2</sup>. Although some studies reported a higher incidence in bone fractures, this could not be confirmed in a meta-analysis of dapagliflozin or empagliflozin. <sup>102</sup> In the CVOTs, the fracture risk was only increased in the CANVAS trial but not in the other SGLT-2 inhibitor trials. 103 Cases of euglycemic ketoacidosis have also been reported with patients taking SGLT-2 inhibitors, and patients with T2DM treated with insulin may be at higher risk. In the post-2008 CVOTs, only canagliflozin showed an elevated risk of lower limb amputation. <sup>69</sup> As a result, the FDA issued a warning that canagliflozin should not be issued to patients at risk of foot amputations. Patients prescribed canagliflozin should be observed for any signs of foot ulceration. 104
+*Abbreviations:* DPP-4i, dipeptidyl peptidase-4 inhibitor; GLP-1 RA, glucagon-like peptide-1 receptor agonist; MACE, major adverse cardiovascular events; SAE, serious adverse event; SMQ, Standardized MedDRA Query.  
+*Modified from:* Low Wang CC, Hess CN, Hiatt WR, Goldfine AB. Clinical Update: Cardiovascular Safety Trials for All New Diabetes Mellitus Drugs? Circulation. 2019;139(14):1741–1743.
 
-## **Drug Interactions or Major Restrictions**
+This regulatory vulnerability erupted into crisis in 2007 with the publication of a landmark meta-analysis by Nissen and Wolski encompassing 42 randomized trials of the thiazolidinedione rosiglitazone. The analysis revealed that rosiglitazone was associated with a significant 43% increase in the risk of myocardial infarction (OR 1.43; 95% CI 1.03–1.98; $P = 0.03$) and an apparent increase in cardiovascular death (OR 1.64; 95% CI 0.98–2.74; $P = 0.06$). Although subsequent prospective trials (such as RECORD) yielded more nuanced conclusions and the FDA later removed prescribing restrictions on rosiglitazone, the crisis exposed an unacceptable blind spot in drug evaluation: a medication could successfully lower blood glucose while simultaneously accelerating cardiovascular morbidity and death.
 
-Overall, SGLT-2 inhibitors show little drug interactions with other drugs used to treat patients with diabetes or other usual concomitant drugs. Only canagliflozin should be given in a higher dose when patients simultaneously are taking UDP-glucuronosyltransferase inducer like rifampicin, phenytoin, or ritonavir. <sup>105</sup>
+</div></details>
 
-## **Experimental Drugs**
+<details class="med-details"><summary>
 
-Sotagliflozin is a dual SGLT-1 receptor (expressed in the gastrointestinal tract) and SGLT-2 (expressed in the kidneys) inhibitor.  $^{107}$ 
+### The 2008 FDA Guidance: Design, Endpoints, and Noninferiority Margins</summary><div class="details-content">
 
-Thus, the agent reduces absorption of glucose in the kidneys as well as in the gastrointestinal tract.<sup>106</sup> Sotagliflozin currently completed phase III trial testing for T1DM patients, while phase III trial testing for T2DM patients is ongoing.<sup>106</sup> In April 2019, the European Union approved the use of sotagliflozin in addition to insulin in T1DM patients with a BMI >27 when insulin therapy is insufficient.<sup>107</sup> In the US, during the January 2019 FDA Endocrinologic and Metabolic Drug Advisory Committee meeting, the committee raised concerns regarding incidence of diabetic ketoacidosis with sotagliflozin. As a result, the FDA deferred approval and issued a complete response letter for sotagliflozin.<sup>108</sup>
+In response to the rosiglitazone controversy, the US FDA issued a revolutionary regulatory guidance for industry in December 2008: *Guidance for Industry: Evaluating Cardiovascular Risk in New Antidiabetic Therapies to Treat Type 2 Diabetes*. This mandate required pharmaceutical sponsors to demonstrate that any new antidiabetic drug does not carry unacceptable cardiovascular risk prior to and following market approval.
 
-# GLP-1 Receptor Agonists
+Under the 2008 framework, sponsors were required to establish an independent clinical endpoint committee to adjudicate major adverse cardiovascular events (MACE). Statistically, premarketing Phase 2 and 3 pooled data had to establish that the upper bound of the two-sided 95% confidence interval for the estimated hazard ratio was <1.8 for composite MACE. If the upper bound fell between 1.3 and 1.8, the drug could receive conditional approval but mandated the conduct of a large, postmarketing cardiovascular outcome trial (CVOT) to prove that the upper bound of the 95% CI was <1.3.
 
-#### Drug Class Overview
+To meet event-rate requirements efficiently, CVOTs were compelled to enroll older patients with established cardiovascular disease, chronic kidney disease, and longstanding diabetes.
 
-GLP-1 receptor agonists stimulate insulin secretion and suppress glucagon release while also reducing appetite and promoting weight loss. For patients with ASCVD, HF, or CKD, the ADA/EASD Standard of Care recommend the addition of SGLT-2 inhibitors or GLP-1 receptor agonists if HbA1c targets are not achieved through metformin or lifestyle intervention alone.31
+</div></details>
 
-## Mechanism of Action
+<details class="med-details"><summary>
 
-GLP-1 receptor agonists and DPP-4 inhibitors are drugs developed on the basis of the incretin system. Incretins are gastrointestinal peptide hormones released during absorption of nutrients to augment insulin secretion. GLP-1 is a hormone secreted into the circulation by the intestinal L-cells in response to ingested food (Fig. 4.6).109 The incretin response system is disturbed in T2DM. The incretin axis also includes the enzyme DPP-4, a serine protease that rapidly degrades GLP-1 and other proteins. Ultimately, this "arc of discovery" has led to new approved diabetes therapies: GLP-1 analogs (exenatide, liraglutide) and DPP-4 inhibitors (saxagliptin, sitagliptin, and others).<sup>109</sup> Incretin mimetics are GLP-1 receptor agonists. GLP-1 regulates glucose levels by stimulating glucosedependent insulin secretion and biosynthesis, and by suppressing glucagon secretion, delayed gastric emptying, and promoting satiety (Fig. 4.6). They regulate glucose metabolism through multiple mechanisms and have beneficial cardiovascular effects, possibly independent of the glucose-lowering activity, which include changes in BP, endothelial function, body weight, cardiac metabolism, lipid metabolism, left ventricular function, atherosclerosis, and the response to ischemia-reperfusion injury.<sup>102</sup>
+### Paradigm Shift: From Glucocentrism to Cardiorenal Organoprotection</summary><div class="details-content">
 
-#### *METHOD OF ACTION: GLP-1 RECEPTORS AGONISTS AND DPP-4 INHIBITORS*
+The 2008 FDA mandate launched an unprecedented era of large-scale clinical trials that fundamentally revolutionized diabetes therapeutics ([Table 4.6](#table-04-06)). Over the subsequent decade, more than 30 dedicated CVOTs were executed, randomizing over 200000 high-risk patients across the world.
 
-![](_page_28_Figure_3.jpeg)
+<span id="table-04-06"></span>
 
-Fig. 4.6 Method of action: GLP-1 receptor agonists and DPP-4 inhibitors. DPP-4, Dipeptidyl peptidase 4; GIP, gastric inhibitor polypeptide; GLP-1, glucose like peptide-1.
+**Table 4.6 Cardiovascular Outcome Trials (CVOTs) for Selected Type 2 Diabetes Mellitus Drugs After 2008 FDA Guidance**
 
-## Differences Among Drugs in Class
+| Class | Medication | Clinical Trial (Year) | Primary Outcome MACE Hazard Ratio (95% CI) | Events | Subjects | Other Key Findings / Safety Signals |
+| :--- | :--- | :--- | :--- | :--- | :--- | :--- |
+| **GLP-1 RA** | Lixisenatide | ELIXA$^a$ (2015) | 1.02 (0.89–1.17)$^b$ | 805 | 6068 | Noninferior ($P<0.001$); superior ($P=0.81$); 4-point MACE$^b$ |
+| **GLP-1 RA** | Liraglutide$^d$ | LEADER (2016) | 0.87 (0.78–0.97)$^c$ | 1302 | 9340 | Statistically superior ($P=0.01$); CV death HR 0.78 (0.66–0.93) |
+| **GLP-1 RA** | Semaglutide | SUSTAIN-6 (2016) | 0.74 (0.58–0.95)$^c$ | 254 | 3297 | Statistically superior; diabetic retinopathy complications HR 1.76 (1.11–2.81) |
+| **GLP-1 RA** | Exenatide QW | EXSCEL (2017) | 0.91 (0.83–1.00) | 1744 | 14752 | Noninferior ($P<0.001$); superiority borderline ($P=0.06$) |
+| **GLP-1 RA** | Albiglutide | HARMONY OUTCOMES (2018) | 0.78 (0.68–0.90)$^c$ | 766 | 9463 | Statistically superior ($P=0.0006$); MI reduction HR 0.75 (0.61–0.90) |
+| **GLP-1 RA** | Dulaglutide | REWIND (2019) | 0.88 (0.79–0.99)$^c$ | 1257 | 9901 | Statistically superior ($P=0.026$); predominantly primary prevention (69%) |
+| **GLP-1 RA** | Oral semaglutide | PIONEER-6 (2019) | 0.79 (0.57–1.11) | 137 | 3183 | Noninferior ($P<0.001$); CV death HR 0.49 (0.27–0.92) |
+| **SGLT-2i** | Empagliflozin$^d$ | EMPA-REG OUTCOME (2015) | 0.86 (0.74–0.99)$^c$ | 772 | 7020 | Statistically superior ($P=0.04$); CV death HR 0.62 (0.49–0.77); HHF HR 0.65 (0.50–0.85) |
+| **SGLT-2i** | Canagliflozin$^d$ | CANVAS Program (2017) | 0.86 (0.75–0.97)$^c$ | 1011 | 10142 | Statistically superior ($P=0.02$); lower limb amputations HR 1.97 (1.41–2.75) |
+| **SGLT-2i** | Dapagliflozin | DECLARE-TIMI 58 (2018) | 0.93 (0.84–1.03) | 1559 | 17160 | HHF/CV death HR 0.83 (0.73–0.95); DKA HR 2.18 (1.10–4.30) |
+| **SGLT-2i** | Canagliflozin | CREDENCE (2019) | 0.80 (0.67–0.95)$^c$ | 486 | 4401 | Renal primary outcome HR 0.70 (0.59–0.82); HHF HR 0.61 (0.47–0.80) |
+| **DPP-4i** | Saxagliptin | SAVOR-TIMI 53 (2013) | 1.00 (0.89–1.12) | 1222 | 16492 | Noninferior; hospital admission for heart failure HR 1.27 (1.07–1.51) |
+| **DPP-4i** | Alogliptin | EXAMINE$^a$ (2013) | 0.96 (0.80–1.16) | 621 | 5380 | Noninferior; HF hospitalization post hoc HR 1.19 (0.90–1.58) |
+| **DPP-4i** | Sitagliptin | TECOS (2015) | 0.98 (0.89–1.08) | 1690 | 14671 | Noninferior; HF hospitalization HR 1.00 (0.83–1.20) |
+| **DPP-4i** | Linagliptin | CARMELINA (2018) | 1.02 (0.89–1.17) | 854 | 6979 | Noninferior; HF hospitalization HR 0.90 (0.74–1.08); renal microvascular neutrality |
 
-GLP-1 receptor agonists are divided into short-and long-acting drugs. Exenatide and lixisenatide are shorter acting and have a more marked effect on postprandial glucose and gastric emptying but less on fasting glucose.110 Lixisenatide is administered once daily, while exenatide is given twice daily. After the initial short-acting GLP-1 receptor agonists were produced, longer-acting versions were developed. Dulaglutide, exenatide extended release (ER), liraglutide, and semaglutide are all long-acting GLP-1 receptor agonists. In contrast to short acting, long-acting agents have a greater effect on fasting glucose and less on gastric emptying.<sup>111</sup> A review of 17 trials assessing the effects of multiple GLP-1 receptor agonists showed that compared to active comparators, liraglutide and exenatide led to greater weight loss.<sup>112</sup> Unlike other GLP-1 receptor agonists, semaglutide may be associated with retinopathy through its potent glucose-lowering effects. <sup>113</sup>
+$^a$Patient population enrolled with recent acute coronary syndrome (<90 days).  
+$^b$Primary outcome was 4-point MACE (CV death, nonfatal MI, nonfatal stroke, or hospitalization for unstable angina).  
+$^c$Statistically significant superiority for primary composite endpoint.  
+$^d$Approved by regulatory authorities for the reduction of CV death (empagliflozin) or MACE (liraglutide, canagliflozin) in adult patients with T2DM and established CVD.  
+*Abbreviations:* CANVAS, Canagliflozin Cardiovascular Assessment Study; CARMELINA, Cardiovascular and Renal Microvascular Outcome Study with Linagliptin; CI, confidence interval; CREDENCE, Canagliflozin and Renal Events in Diabetes with Established Nephropathy Clinical Evaluation; DECLARE-TIMI 58, Dapagliflozin Effect on Cardiovascular Events–Thrombolysis in Myocardial Infarction 58; DKA, diabetic ketoacidosis; DPP-4i, dipeptidyl peptidase-4 inhibitor; ELIXA, Evaluation of Lixisenatide in Acute Coronary Syndrome; EMPA-REG, Empagliflozin Cardiovascular Outcome Event Trial in Type 2 Diabetes Mellitus Patients; EXAMINE, Examination of Cardiovascular Outcomes with Alogliptin versus Standard of Care; EXSCEL, Exenatide Study of Cardiovascular Event Lowering; GLP-1 RA, glucagon-like peptide-1 receptor agonist; HARMONY OUTCOMES, Albiglutide and cardiovascular outcomes in patients with type 2 diabetes and cardiovascular disease; HF, heart failure; HHF, hospitalization for heart failure; HR, hazard ratio; LEADER, Liraglutide Effect and Action in Diabetes: Evaluation of Cardiovascular Outcome Results; MACE, major adverse cardiovascular events; MI, myocardial infarction; PIONEER-6, Peptide Innovation for Early Diabetes Treatment 6; REWIND, Researching Cardiovascular Events with a Weekly Incretin in Diabetes; SAVOR-TIMI 53, Saxagliptin Assessment of Vascular Outcomes Recorded in Patients with Diabetes Mellitus–Thrombolysis in Myocardial Infarction 53; SGLT-2i, sodium-glucose cotransporter-2 inhibitor; SUSTAIN-6, Trial to Evaluate Cardiovascular and Other Long-term Outcomes with Semaglutide in Subjects with Type 2 Diabetes; TECOS, Trial Evaluating Cardiovascular Outcomes with Sitagliptin.
 
-#### Data for Use
+While initially designed as noninferiority safety studies to rule out excess cardiovascular harm, several modern drug classes exceeded safety benchmarks to demonstrate unexpected, profound superiority over standard of care. Landmark trials of SGLT2 inhibitors (EMPA-REG OUTCOME, CANVAS, DECLARE-TIMI 58, CREDENCE) and GLP-1 receptor agonists (LEADER, SUSTAIN-6, REWIND, HARMONY OUTCOMES, PIONEER-6) demonstrated statistically significant reductions in 3-point MACE, cardiovascular death, stroke, heart failure hospitalizations, and renal composite endpoints.
 
-**Glycemic control.** GLP-1 receptor agonists improve glycemic control. A meta-analysis of 17 trials showed that GLP-1 receptor agonists reduce HbA1c by approximately 1% compared to placebo. In patients who require greater glycemic efficacy of injectable therapies, GLP-1 may be a reasonable option versus insulin because the glycemic efficacy is similar with a lower risk of hypoglycemia and more weight loss. In comparison to other glucose-lowering agents, GLP-1 receptor agonists have a higher glycemic efficacy compared to TZDs and sulfonylureas.
+These results prompted regulatory agencies to grant official label updates for empagliflozin, liraglutide, and canagliflozin to reduce cardiovascular death or MACE in adult patients with T2DM and established CVD. In October 2018, an FDA advisory committee voted 10 to 9 to update the 2008 guidance, recognizing that future diabetes drug development should expand beyond atherosclerotic safety to embrace heart failure, renal progression, and broader patient populations.
 
-**Weight loss.** Weight loss is a beneficial therapeutic effect of GLP-1 receptor agonists. A systematic review of 17 randomized trials showed that individuals had a weight reduction of approximately 1.5–2.5 kg over 30 weeks on a GLP-1 receptor agonist compared to a placebo or active comparator (insulin glargine, DPP-4 inhibitor, TZD, sulfonylurea). 112
+</div></details>
 
-**Cardiovascular outcomes.** The cardiovascular safety of GLP-1 receptor agonists was reviewed in a total of eight large CVOTs (Table 4.6).
+</div></details>
 
-**ELIXA.** ELIXA assessed the effect of lixisenatide on cardiovascular outcomes in T2DM patients with recent acute coronary events. <sup>116</sup> Notably, lixisenatide was the only short-acting GLP-1 receptor agonist drug tested in the immediate post 2008 FDA mandated trials. However, while noninferior, lixisenatide did not prove to be superior to the placebo regarding the primary composite outcome of the study. The composite of MI, stroke, cardiovascular death, or hospitalization for unstable angina occurred in 13.4% of the lixisenatide group compared to 13.2% of the placebo group (HR 1.02; 95% CI 0.89 to 1.17; P < 0.001 for inferiority; P = 0.81 for superiority).
+<details class="med-details"><summary>
 
-**LEADER.** LEADER, evaluating the effects of liraglutide, showed a dramatic reduction of cardiovascular mortality. In participants taking liraglutide, MI, stroke, and cardiovascular death occurred in 13% compared to 14.9% in the placebo group (HR 0.87; 95% CI 0.78–0.97; P=0.01). This reduction in primary composite outcome was mainly due to the significant reduction of cardiovascular death (4.7% liraglutide versus 6.0% placebo, HR 0.78; 95% CI 0.66–0.93). While liraglutide was already approved for the reduction of blood glucose in patients with T2DM, in response to the LEADER study, the FDA additionally approved liraglutide "to reduce the risk of MACE in adults with T2DM and established cardiovascular disease" in 2017.
+## Drugs That Lower Cardiovascular Disease Risk</summary><div class="details-content">
 
-**SUSTAIN-6.** SUSTAIN-6 examined the weekly GLP-1 receptor agonist semaglutide for cardiovascular safety. <sup>113</sup> Despite a fewer number of events in a smaller sample, results were similar to LEADER; semaglutide was noninferior to cardiovascular safety compared to placebo. 6.6% of the semaglutide group suffered from the primary outcome (first occurrence of cardiovascular death, nonfatal MI or nonfatal stroke), compared to 8.9% in the placebo group (HR 0.74; 95% CI 0.58–0.95; P < 0.001 for noninferiority).
+<details class="med-details"><summary>
 
-**EXSCEL.** Exenatide ER, observed in the EXSCEL study, demonstrated a borderline statistical benefit in the primary outcome but did not significantly lower cardiovascular events compared to the placebo. The primary outcome (cardiovascular death, MI or stroke) occurred in 11.4% of the Exenatide group compared to the 12.2% of the placebo group (HR 0.91; 95% CI 0.83–1.00; P = 0.06 for superiority; P < 0.001 for noninferiority).
+### Metformin</summary><div class="details-content">
 
-**HARMONY OUTCOMES.** HARMONY OUTCOMES showed that albiglutide significantly reduced major cardiovascular events when added to standard care of T2DM patients. <sup>117</sup> The incidence rate of three-point MACE was 7% in the albiglutide group compared to 9% in the placebo group (HR 0.78; 95% CI 0.68–0.90; P < 0.0001 noninferiority; P = 0.0006 for superiority). However, 2017 sales of albiglutide were discontinued due to limited prescriptions of the drug.
+<details class="med-details"><summary>
 
-**REWIND.** The REWIND study was the CVOT trial with the longest follow-up time of 5.5 years. <sup>118</sup> Noteworthy is also REWIND's inclusion of a high proportion of women (47%), lower baseline HbA1c (7.2%), and higher proportion of primary prevention patients (70%). REWIND showed that dulaglutide is superior to placebo regarding cardiovascular events. Twelve percent of participants of the dulaglutide group suffered three-point MACE events compared to 13.4% in the placebo group (HR 0.88; 95% CI 0.79–0.99; P=0.026). Further, REWIND suggests that dulaglutide may be beneficial for primary prevention.
+#### Class Overview and Historical Context</summary><div class="details-content">
 
-In summary, the results of the CVOTs for GLP-1 receptor agonists showed somewhat heterogenous results. Only four of the trials (LEADER, SUSTAIN-6, REWIND, HARMONY OUTCOMES) significantly reduced the risk of the primary outcome, major cardiovascular events. In addition, only REWIND suggested that GLP-1 receptor agonists may be applicable to primary prevention. ELIXA, HARMONY, LEADER, SUSTAIN-6, and EXSCEL included a majority of patients with a history of CVD, suggesting that these drugs primarily reduce cardiovascular events in individuals with established ASCVD. After reflection on the CVOT trials for GLP-1 receptor agonists, the 2019 ADA/EASD Standards of Care state that liraglutide has strongest evidence for cardiovascular benefit. The 2018 ADA/EASD Standards of Care also noted that evidence is also favorable for semaglutide. The control of the control of the control of the control of the control of the control of the control of the control of the control of the control of the control of the control of the control of the control of the control of the control of the control of the control of the control of the control of the control of the control of the control of the control of the control of the control of the control of the control of the control of the control of the control of the control of the control of the control of the control of the control of the control of the control of the control of the control of the control of the control of the control of the control of the control of the control of the control of the control of the control of the control of the control of the control of the control of the control of the control of the control of the control of the control of the control of the control of the control of the control of the control of the control of the control of the control of the control of the control of the control of the control of the control of the control of the control of the control of the control of the control of the control of the control of the control of the control of the co
+Metformin, a synthetic dimethylbiguanide derived chemically from the French lilac (*Galega officinalis*), has served as the foundational first-line pharmacological therapy for type 2 diabetes mellitus worldwide for several decades. Introduced into clinical practice in Europe in 1950 and approved in the United States in 1995, metformin combines potent glycemic efficacy with weight neutrality, minimal inherent risk of hypoglycemia, and an exceptional long-term safety record.
 
-#### Side Effects
+Unlike insulin secretagogues, metformin is an antihyperglycemic rather than a hypoglycemic agent; it lowers elevated blood glucose toward normal levels without stimulating autonomous insulin secretion. Clinical practice guidelines across the globe unanimously recommend metformin as the primary initial agent in monotherapy or combination therapy upon the diagnosis of T2DM, alongside comprehensive lifestyle modification.
 
-The most common side effects of GLP-1 receptor agonists are gastrointestinal. A meta-analysis showed that diarrhea, vomiting, and nausea occur in 10%–50% of patients.<sup>112</sup> Events of acute pancreatitis have also been associated with GLP-1 receptor agonist treatment. However, the incidence is extremely low; a meta-analysis of individuals enrolled in trials reported only 16 cases of acute pancreatitis.<sup>119</sup> Injection site reactions may also occur. A study concluded that local site reactions were more common (10%) in albiglutide and exenatide compared to insulin (1%–5%).120,121 GLP-1 receptor agonists are also associated with risk of gallbladder events, an adverse effect that may relate to the weight reduction.<sup>122</sup> Patients administered semaglutide in the SUSTAIN-6 trial showed complications of diabetic retinopathy more frequently than the placebo group (HR 1.76; 95% CI 1.11–2.78).<sup>113</sup> However, currently it is unclear if this is a direct effect of the drug or only consequence of the glycemic control through semaglutide. The FDA advises that exenatide should not be used with severe renal impairment, after receiving reports from 78 individuals with acute renal failure or renal insufficiency.<sup>123</sup> Rodent studies also showed that liraglutide and dulaglutide were associated with benign and malignant thyroid C tell tumors.<sup>124</sup> Further, GLP-1 receptor agonists may modestly increase risk of hypoglycemia when added to insulin and sulfonylureas.<sup>125</sup>
+</div></details>
 
-## Experimental Drugs
+<details class="med-details"><summary>
 
-Tirzepatide, a GLP-1 receptor agonist developed for T2DM patients with increased cardiovascular risk, is currently undergoing phase III testing. The phase II trial showed that tirzepatide was associated with greater weight loss and HbA1c reduction compared to Trulicity (standard GLP-1 agonist).<sup>126</sup> SURPASS-4, a phase III trial initiated in 2018, demonstrated the safety and efficacy of tirzepatide in participants with elevated cardiovascular risk.<sup>127</sup>
+#### Cellular Mechanisms, AMPK, and Mitochondrial Energetics</summary><div class="details-content">
 
-# Drugs That Do Not Lower Cardiovascular Disease Risk
+Metformin enters hepatocytes and myocytes primarily through organic cation transporters (predominantly OCT1 in the liver and OCT2 in the kidney). Within the cell, metformin accumulates in the mitochondrial matrix due to its positive electrical charge, where it exerts mild, non-competitive inhibition of complex I (NADH:ubiquinone oxidoreductase) of the mitochondrial respiratory electron transport chain.
 
-# DPP-4 Inhibitors
+This mitochondrial inhibition decreases cellular ATP synthesis, causing a reciprocal rise in intracellular ADP and AMP levels. The elevated AMP:ATP ratio allosterically activates 5'-adenosine monophosphate-activated protein kinase (AMPK), the master energetic sensor of the cell ([Fig. 4.4](#fig-04-04)).
 
-## Drug Class Overview
+<span id="fig-04-04"></span>![](_page_20_Picture_3.jpeg)
 
-DPP-4 inhibitors are chemically derived, selective, competitive inhibitors of DPP-4 and can be administered orally.
+**Fig. 4.4 Cellular glucose metabolism.** Excess free fatty acid (FFA) entering the skeletal muscle cell is activated to long-chain acyl-CoA, which inhibits downstream insulin receptor substrate (IRS) signaling, impairing translocation of glucose transporter vesicles (GLUT-4) to the sarcolemma. Glucose uptake falls and hyperglycemia is promoted. Intracellular accumulation of lipid intermediates (diacylglycerol, ceramides) impairs insulin signaling across multiple organs, including myocardium and pancreas. Metformin and physical exercise stimulate adenosine monophosphate-activated protein kinase (AMPK), promoting GLUT-4 vesicle translocation to the cell surface independently of insulin, enhancing glucose uptake and overcoming insulin resistance. Protein kinase B (Akt) plays a pivotal role in insulin-mediated metabolic control. AMPK, 5'-AMP-activated protein kinase; G, glucose; IRS-P, tyrosine-phosphorylated insulin receptor substrate.
 
-#### **Mechanisms of Action**
+AMPK activation triggers multiple metabolic cascades: (1) phosphorylation and inhibition of acetyl-CoA carboxylase (ACC), which reduces fatty acid synthesis and promotes mitochondrial fatty acid oxidation; (2) downregulation of sterol regulatory element-binding protein-1c (SREBP-1c), diminishing hepatic lipogenesis; and (3) transcriptional suppression of rate-limiting gluconeogenic enzymes—phosphoenolpyruvate carboxykinase (PEPCK) and glucose-6-phosphatase (G6Pase)—resulting in a 50–75% reduction in hepatic glucose production, the primary driver of fasting hyperglycemia. In skeletal muscle, AMPK activation stimulates the translocation of GLUT-4 glucose transporters to the cell membrane independently of insulin, enhancing peripheral glucose uptake and overcoming insulin resistance.
 
-DPP-4 inhibitors counteract the degradation of plasma GLP-1 and GIP after eating (Fig. 4.6). Like GLP-1 agonists, these agents have antidiabetic activity by stimulating the release of insulin from the pancreas and by inhibiting that of glucagon. However, DPP-4 inhibitors only elevate GLP-1 by a modest amount, compared to when administering GLP-1 receptor agonists directly. This could account for the greater beneficial effects on weight, fasting glucose levels, and reduction of HbA1c of GLP-1 compared to DPP-4 inhibitors. <sup>96,128</sup>
+</div></details>
 
-## **Differences Among Drugs in Class**
+<details class="med-details"><summary>
 
-All DPP-4 inhibitors are excreted renally and need to be adjusted according to renal function. Linagliptin is an exception, as it is excreted via the enterohepatic system. Thus, linagliptin dosage does not need to be adjusted for patients with CKD.<sup>73</sup>
+#### Formulations and Clinical Efficacy (UKPDS Evidence)</summary><div class="details-content">
 
-#### Data for Use
+Metformin is available in immediate-release (IR) formulations administered two to three times daily with meals (starting at 500 mg once or twice daily, titrated up to 2000–2550 mg/day) and extended-release (XR) formulations taken once daily with the evening meal (500–2000 mg/day). The XR formulation improves gastrointestinal tolerability and enhances therapeutic compliance. On average, metformin monotherapy reduces HbA1c by 1.0–1.5%, fasting plasma glucose by 50–70 mg/dL, and promotes modest weight loss (1–3 kg).
 
-**Glycemic control.** All DPP-4 inhibitors moderately lower HbA1c to a similar extent. <sup>129</sup> As a second-line treatment, DPP-4 inhibitors are inferior to GLP-1 receptor agonists, but had no advantage over sulfonylureas in a meta-analysis. <sup>130</sup> DPP-4 inhibitors and pioglitazone were associated with the same change in HbA1c from baseline, but pioglitazone was associated with a higher chance of reaching <7% (goal HbaA1c value of the study). <sup>130</sup>
+The primary cardiovascular evidence supporting metformin stems from the landmark UKPDS 34 substudy, which evaluated 1704 overweight patients with newly diagnosed T2DM. Compared to conventional dietary therapy, patients randomized to intensive glycemic control with metformin experienced a 32% reduction in any diabetes-related endpoint ($P = 0.002$), a 39% reduction in myocardial infarction ($P = 0.01$), a 50% reduction in stroke ($P = 0.03$), and a 36% reduction in all-cause mortality ($P = 0.011$).
 
-Cardiovascular effect. In CVOTs examining the cardiovascular outcomes of DPP-4 inhibitors (Table 4.6), no agents were associated with cardiovascular benefit. However, saxagliptin 131 and alogliptin 132 demonstrated an elevated risk for hospitalization from HF, with saxagliptin showing the greater risk. As a consequence of these results, the American Heart Association and Heart Failure Society of America (HFSA) concluded that for patients with HF or at high risk of HF, the use of DPP-4 inhibitors is not justified. 133 In 2017, the FDA issued package insert warnings regarding the increased risk of HF for saxagliptin and alogliptin.
+Crucially, metformin was superior to intensive therapy with sulfonylureas or insulin with respect to all-cause mortality ($P = 0.02$) and stroke ($P = 0.03$), establishing its unique position as a cardioprotective foundation.
 
-**EXAMINE.** The EXAMINE trial evaluated the cardiovascular safety of alogliptin on T2DM with recent acute coronary syndrome. Alogliptin was noninferior to placebo in regard to the primary endpoint, three-point MACE (HR 0.98; 95% CI 0.86–1.12). However, a post hoc analysis showed that alogliptin increased the risk of hospitalization from HF contrast to placebo (HR 1.07; 95% CI 0.79–1.46). 132
+</div></details>
 
-**TECOS.** The authors of the trial TECOS concluded that sitagliptin did not increase the risk of cardiovascular events compared to placebo (HR 0.98; 95% CI 0.88–1.09). <sup>135</sup>
+<details class="med-details"><summary>
 
-**SAVOR TIMI-53.** Saxagliptin did not increase or decrease the rate of ischemic events in the SAVOR-TIMI-53 trial (HR 1.00; 95% CI 0.89–1.12; P=0.99 for superiority and P<0.001 for noninferiority). <sup>131</sup> However, the authors noted an increase in the rates of hospitalization for HF (3.5% saxagliptin versus 2.8% placebo) in the saxagliptin group compared to the control arm.
+#### Adverse Effects, Lactic Acidosis, and Renal Dosing Thresholds</summary><div class="details-content">
 
-**CARMELINA.** The CARMELINA study examined the cardiovascular safety of linagliptin. Linagliptin was noninferior with regard to risk of major cardiovascular events. <sup>136</sup> Notably, the CAR-MELINA study included a patient population who were at high vascular risk. This is significant, as it provides important information on the use of linagliptin with high-risk patients.
+The most common adverse effects of metformin are gastrointestinal, including diarrhea, nausea, abdominal cramping, and metallic taste, occurring in 20–30% of patients. These symptoms are typically transient, dose-dependent, and minimized by gradual dose titration and administration with food or substitution with the XR formulation. Long-term metformin therapy is also associated with intestinal malabsorption of vitamin B12 in 10–15% of patients; annual monitoring of complete blood counts and B12 levels is recommended to prevent peripheral neuropathy and megaloblastic anemia.
 
-#### Side Effects
+Metformin-associated lactic acidosis (MALA) is a rare but life-threatening complication, with an incidence of 3–5 cases per 100000 patient-years and a mortality approaching 30–50%. Lactic acidosis occurs when impaired mitochondrial respiration and excessive accumulation of lactate precursors coincide with reduced renal clearance of the drug.
 
-As a group, DPP-4 inhibitors are well tolerated, and rates of weight gain, gastrointestinal adverse effects, and hypoglycemia are minimal. <sup>137</sup> In contrast to GLP-1 receptor agonists, they are weight neutral rather than promoting weight loss. <sup>130</sup> Importantly, in monotherapy, the incidence of hypoglycemia in DPP-4 inhibitor–treated patients in clinical trials was similar to placebo. <sup>139</sup> Moreover, in older patients on stable insulin doses, linagliptin improved glycemic management without an excess of hypoglycemia. <sup>139</sup> While nasopharyngitis was more prevalent with the DPP-4 inhibitors than with placebo, rates of pancreatitis were lower than with other oral antihyperglycemic agents. <sup>99</sup> Incidences of musculoskeletal side effects have also been noted. <sup>140</sup>
+Modern regulatory guidelines have updated renal dosing recommendations based on estimated glomerular filtration rate (eGFR):
+- $\\text{eGFR} \\\ge 45$ mL/min/1.73 m²: Metformin can be used at full approved doses (up to 2000–2550 mg/day).
+- $\\text{eGFR } 30–44$ mL/min/1.73 m²: Initiation of metformin is not recommended; in patients already receiving metformin, the total daily dose should be reduced by 50% (maximum 1000 mg/day), with close renal monitoring every 3–6 months.
+- $\\text{eGFR } < 30$ mL/min/1.73 m²: Metformin is strictly contraindicated.
 
-# **Drug Interactions or Major Restrictions**
+Metformin must be temporarily withheld prior to intravascular iodinated radiocontrast procedures in patients with eGFR <60 mL/min/1.73 m² or hepatic dysfunction, and held during episodes of acute heart failure, severe sepsis, shock, or tissue hypoxia.
 
-The addition of DPP-4 inhibitors to sulfonylureas increases the risk of hypoglycemia by 50% compared to monotherapy. <sup>141</sup>
+</div></details>
 
-# **Thiazolidinedione**
+</div></details>
 
-## Drug Class Overview
+<details class="med-details"><summary>
 
-Pioglitazone and rosiglitazone belong to the class of TZDs, also called *glitazones*. TZDs are oral agents that improve insulin sensitivity and lower glucose levels very effectively. While they are inexpensive, show atherosclerotic benefits, and have a high glucose efficacy, these benefits have to be balanced with safety concerns like weight gain, <sup>142</sup> fracture risk, <sup>143</sup> HF, <sup>144,145</sup> and possible increased risk for bladder cancer. <sup>146</sup>
+### Sodium-Glucose Cotransporter 2 (SGLT2) Inhibitors</summary><div class="details-content">
 
-#### **Mechanisms of Action**
+<details class="med-details"><summary>
 
-TZDs activate the PPAR- $\gamma$  (gamma) transcriptional system, thereby promoting the metabolism of glucose (Fig. 4.7). Evidence also
+#### Class Overview and Renal Handling of Glucose</summary><div class="details-content">
 
-![](_page_34_Figure_1.jpeg)
+Sodium-glucose cotransporter-2 (SGLT2) inhibitors—including empagliflozin, canagliflozin, dapagliflozin, and ertugliflozin—represent one of the most transformative therapeutic breakthroughs in cardiovascular and renal medicine. Originating chemically from phlorizin, a natural glucoside extracted from apple tree bark, these agents exert their antidiabetic and organoprotective actions through an entirely insulin-independent renal mechanism.
 
-**Fig. 4.7 Thiazolidinediones.** *PPAR* $\gamma$ , Peroxisome proliferator activated receptor  $\gamma$ ; *TNF-a*, tumor necrosis factor alpha. (Modified from Cheng AYY, Fantus IG. Oral antihyperglycemic therapy for type 2 diabetes mellitus. *CMAJ* 2005;172:231–226.)
+Under normal physiological conditions, the glomeruli filter approximately 180 grams of D-glucose each day in healthy adults. Virtually all filtered glucose is reabsorbed along the proximal convoluted tubule, leaving the urine glucose-free. SGLT2 is a high-capacity, low-affinity cotransporter located specifically on the luminal brush border membrane of the early S1 and S2 segments of the proximal tubule, responsible for reabsorbing approximately 90% of filtered glucose coupled with sodium in a 1:1 stoichiometry ([Fig. 4.5](#fig-04-05)).
 
-suggests that TZDs slow the rate of  $\beta\text{-cell}$  function loss more than oral antidiabetics do.  $^{147}$ 
+<span id="fig-04-05"></span>![](_page_23_Figure_1.jpeg)
 
-## **Differences Among Drugs in Class**
+**Fig. 4.5 Effect of SGLT2 inhibitors on renal glucose filtration and reabsorption.** Under physiologic conditions, SGLT2 in the S1/S2 segments of the proximal convoluted tubule reabsorbs approximately 90% of filtered glucose, with SGLT1 in the S3 segment reabsorbing the remaining 10%. SGLT2 inhibitors block this low-affinity, high-capacity carrier, inducing glycosuria, osmotic diuresis, and natriuresis. Enhanced sodium delivery to the macula densa restores tubuloglomerular feedback, leading to afferent arteriolar constriction, reduction of intraglomerular hypertension, and long-term renal and cardioprotection. SGLT, sodium-glucose cotransporter.
 
-The main drugs are rosiglitazone—the first, but now suspended in Europe—and the safer pioglitazone. <sup>148</sup> The FDA restricted access to rosiglitazone in September 2010.
+The remaining 10% is reabsorbed distally in the S3 segment by the high-affinity, low-capacity sodium-glucose cotransporter-1 (SGLT1). In patients with T2DM, chronic hyperglycemia induces upregulation and overexpression of SGLT2 transporters, paradoxically increasing renal glucose reabsorption and exacerbating hyperglycemia.
 
-#### Data for Use
+</div></details>
 
-**Glycemic control.** In the ACT NOW trial, pioglitazone reduced the risk of conversion of impaired glucose tolerance to T2DM by 72% but was associated with significant weight gain and edema. However, TZDs may achieve glycemic control without excessive risk of hypoglycemia. 149
+<details class="med-details"><summary>
 
-Cardiovascular benefits. Pioglitazone (Actos) although found to increase CHF, was associated with decreased mortality, MI, and stroke. In the IRIS (Insulin Resistance Intervention after Stroke) trial, patients with a recent history of ischemic stroke or transient ischemic attack receiving pioglitazone had lower risk of stroke or MI (HR 0.76; 95% CI 0.62–0.93; P = 0.007). While the PROACTIVE (Prospective Pioglitazone Clinical Trial In Macrovascular Events) trial also demonstrated a potential beneficial cardiovascular effect by reducing the risk of the composite primary endpoint (death from any cause, nonfatal MI, coronary revascularization, or revascularization of the leg) compared to placebo (HR 0.90; 95% CI 0.80–1.02; P = 0.095), this result was nonsignificant. However, the secondary endpoint, three-point MACE, was significantly reduced by 16% (HR 0.84, P = 0.027). <sup>145</sup> In a large UK general practice research database on people with a mean follow-up of 7.1 years, pioglitazone was associated with reduced all-cause mortality compared with metformin and with rosiglitazone. 150
+#### Mechanisms of Cardiorenal Protection</summary><div class="details-content">
 
-#### Side Effects
+Pharmacological inhibition of SGLT2 blocks glucose and sodium reabsorption in the proximal tubule, inducing glucosuria of 60–80 grams per day (caloric loss of 240–320 kcal/day), producing an average HbA1c reduction of 0.6–1.0% and sustained weight loss of 2–3 kg. Glucosuria also triggers mild osmotic diuresis (300–400 mL/day) and natriuresis, resulting in a persistent 3–5 mmHg reduction in systolic blood pressure and 1–2 mmHg reduction in diastolic blood pressure without reflex tachycardia.
 
-**Cardiovascular.** While cardiovascular benefits of pioglitazone have been observed, multiple publications suggest possibly harmful cardiovascular effects of the now infrequently used drug rosiglitazone.
+The renal protective mechanism centers on tubuloglomerular feedback (TGF). By inhibiting proximal sodium reabsorption, SGLT2 inhibitors increase sodium chloride delivery downstream to the macula densa. Specialized macula densa cells sense this elevated solute load, transport sodium via the NKCC2 cotransporter, and generate adenosine. Adenosine binds to vascular $A_1$ receptors on the afferent arteriole, causing vasoconstriction. This restores myogenic tone, relieves maladaptive intraglomerular hypertension and hyperfiltration, reduces albuminuria by 30–40%, and preserves glomerular capillary architecture.
 
-Fluid retention seems to be an important side effect of TZDs, which is associated with HF.<sup>152</sup> This explains the results of the two large outcome trials, DREAM (Diabetes Reduction Assessment with Ramipril and Rosiglitazone Medication)<sup>144</sup> and ProACTIVE, <sup>145</sup> which reported relative risk increase of HF. The ADA/EASD 2019 Standards of Care suggest avoiding TZDs in patients with symptomatic HF.<sup>31</sup> This advice was also issued in a scientific statement from the HFSA.<sup>133</sup> Here the authors stated that even in patients with T2DMs without HF, TZDs may increase the risk of HF events.<sup>133</sup>
+Cardiovascular benefits arise through multifaceted systemic effects: (1) osmotic diuresis and natriuresis selectively reduce interstitial fluid volume with minimal depletion of intravascular volume, reducing cardiac preload and ventricular wall tension; (2) afterload reduction improves ventriculo-arterial coupling; (3) induction of mild hyperketonemia increases circulating $\\beta$-hydroxybutyrate, which is avidly extracted by myocardium and consumed as a "super-fuel" that yields more ATP per mole of oxygen than fatty acids; (4) inhibition of myocardial sodium-hydrogen exchanger-1 (NHE1), reducing intracellular sodium and calcium overload; and (5) stimulation of erythropoietin production secondary to renal cortical hypoxia, elevating hematocrit and oxygen delivery.
 
-Weight gain. In addition, TZDs are associated with weight gain. 142
+</div></details>
 
-**Bladder cancer.** There is conflicting evidence on whether pioglitazone is linked to bladder cancer. Nevertheless, the FDA has issued a warning that physicians should not subscribe pioglitazone to patients with active bladder cancer. <sup>146</sup>
+<details class="med-details"><summary>
 
-**Bone fractures.** TZDs may increase the risk of fractures due to reduction in bone mineral density, especially in women. <sup>143</sup> The 2019 ADA/EASD Standards of Care also state that TZDs should be used with care in patients at risk of falls or fractures. <sup>31</sup>
+#### Landmark Outcome Trials (EMPA-REG, CANVAS, DECLARE-TIMI 58, CREDENCE)</summary><div class="details-content">
 
-**Lipid profiles.** Glitazones favorably increase HDL-C by 19%, potentially offsetting an LDL-C increase of 8%, while reducing
+The cardiovascular and renal efficacy of SGLT2 inhibitors has been established in massive randomized clinical trials ([Table 4.6](#table-04-06)):
 
-TGs and glycemia (Fig. 4.1).  $^{153}$  Total LDL-C rose more with rosiglitazone, whereas pioglitazone increased HDL-C levels much more than rosiglitazone.  $^{154}$  Pioglitazone decreased fasting TGs, which was increased by rosiglitazone.  $^{154}$  These changes may help to explain why rosiglitazone but not pioglitazone monotherapy was associated with increased  $\mathrm{MI}^{62,155}$  and mortality.  $^{149}$ 
+- **EMPA-REG OUTCOME (2015):** Randomized 7020 patients with T2DM and established ASCVD to empagliflozin (10 or 25 mg) or placebo. Empagliflozin reduced 3-point MACE by 14% (HR 0.86; 95% CI 0.74–0.99; $P = 0.04$ for superiority), cardiovascular death by 38% (HR 0.62; 95% CI 0.49–0.77; $P < 0.001$), all-cause mortality by 32% (HR 0.68; 95% CI 0.57–0.82; $P < 0.001$), and hospitalization for heart failure (HHF) by 35% (HR 0.65; 95% CI 0.50–0.85; $P = 0.002$). Benefit was evident within weeks of trial initiation.
+- **CANVAS Program (2017):** Combined two trials (CANVAS and CANVAS-R) evaluating canagliflozin (100 or 300 mg) versus placebo in 10142 patients (66% secondary prevention, 34% primary prevention). Canagliflozin significantly reduced 3-point MACE by 14% (HR 0.86; 95% CI 0.75–0.97; $P = 0.02$) and HHF by 33% (HR 0.67; 95% CI 0.52–0.87). However, CANVAS uncovered an unexpected two-fold increase in lower-limb amputations (primarily toe and metatarsal; 6.3 vs 3.4 per 1000 patient-years; HR 1.97; 95% CI 1.41–2.75) and an increase in bone fractures.
+- **DECLARE-TIMI 58 (2018):** Randomized 17160 patients (59% with multiple cardiovascular risk factors / primary prevention, 41% with established ASCVD) to dapagliflozin (10 mg) or placebo. Dapagliflozin met noninferiority for MACE (HR 0.93; 95% CI 0.84–1.03) and significantly reduced the co-primary outcome of CV death or HHF by 17% (HR 0.83; 95% CI 0.73–0.95; $P = 0.005$), driven by a 27% reduction in HHF (HR 0.73; 95% CI 0.61–0.88). Renal composite progression was reduced by 24%.
+- **CREDENCE (2019):** Specifically evaluated renal outcomes in 4401 patients with diabetic nephropathy (eGFR 30–90 mL/min/1.73 m² and UACR $>300–5000$ mg/g on stable RAAS blockade). Canagliflozin reduced the primary composite endpoint of end-stage kidney disease, doubling of serum creatinine, or renal/CV death by 30% (HR 0.70; 95% CI 0.59–0.82; $P = 0.00001$), and reduced HHF by 39% (HR 0.61; 95% CI 0.47–0.80). No amputation excess was observed in CREDENCE.
+- **DAPA-HF (2019):** Enrolled 4744 patients with symptomatic heart failure and reduced ejection fraction (HFrEF $\\le 40\\%$) regardless of diabetes status. Dapagliflozin reduced the primary composite of worsening HF or CV death by 26% (HR 0.74; 95% CI 0.65–0.85; $P < 0.001$), with identical benefits in patients with and without diabetes.
 
-## **Drugs Interactions or Major Restriction**
+</div></details>
 
-Rosiglitazone and pioglitazone are metabolized via cytochrome P450. Consequently, simultaneous subscription with rifampicin decreases the AUC, while the addition to gemfibrozil increases the AUC by almost three fold.  $^{156,157}$ 
+<details class="med-details"><summary>
 
-# **Experimental Drugs**
+#### Adverse Events, Euglycemic DKA, and Clinical Precautions</summary><div class="details-content">
 
-In the last decade, dual PPAR  $\alpha/\gamma$  agonists have gained international attention due to their combination of insulin-sensitizing and lipid-lowering capabilities. While many dual PPAR  $\alpha/\gamma$  agonists failed during preclinical stages due to safety issues or efficacy, saroglitazar is approved in India for the treatment of diabetic dyslipidemia. The phase III trial PRESS V (Prospective Randomized Efficacy and Safety of Saroglitazar V) demonstrated the reduction of plasma TG levels with 2mg saroglitazar by 26.4% and with 4mg by 45%. In this trial HbA1c levels were also decreased by  $-0.3\%\pm0.6\%$  with saroglitazar 4mg.  $^{159}$  Another phase III trial, PRESS VI, also showed that 2mg and 4mg saroglitazar reduced HbA1c TG levels by  $-45.5\%\pm3.03\%$  and  $-46.7\%\pm3.02\%$ , respectively.  $^{159}$  However the reduction of HbA1c levels in this trial was not significant.  $^{159}$ 
+SGLT2 inhibitors demonstrate an excellent overall safety profile, but clinicians must anticipate specific class adverse effects:
+- **Genital mycotic infections:** Glucosuria promotes Candida colonization; vulvovaginitis in women and balanitis in uncircumcised men occur in 5–10% of patients (a 3- to 5-fold increase over placebo), generally responsive to standard topical or oral antifungals.
+- **Volume depletion and orthostatic hypotension:** Osmotic diuresis may cause symptomatic hypotension, particularly in elderly patients receiving loop diuretics. Pre-initiation assessment of volume status and cautious adjustment of loop diuretic doses is advisable.
+- **Euglycemic diabetic ketoacidosis (euDKA):** Characterized by profound metabolic acidosis, ketonemia, and normal or only mildly elevated blood glucose (<250 mg/dL). Glucosuria maintains normoglycemia, masking insulinopenia and delaying diagnosis. Triggered by severe acute illness, sepsis, dehydration, prolonged fasting, or abrupt insulin reduction. SGLT2 inhibitors should be withheld for at least 3 days prior to major elective surgery.
+- **Fournier gangrene:** A rare but necrotizing fasciitis of the perineum and external genitalia requiring emergent surgical debridement and broad-spectrum antibiotics.
+- **Renal thresholds:** While glucosuric glycemic efficacy wanes at eGFR <45 mL/min/1.73 m², cardiorenal benefits persist down to eGFR $\\\ge 20–25$ mL/min/1.73 m².
 
-## **Sulfonylureas**
+Dual SGLT1/2 inhibition (sotagliflozin) combines renal SGLT2 inhibition with intestinal SGLT1 blockade, delaying postprandial intestinal glucose absorption and augmenting GLP-1 release.
 
-## **Drug Class Overview**
+</div></details>
 
-Sulfonylureas are oral antidiabetic drugs known for their high glucose-lowering efficacy while being relatively inexpensive. However, they are also associated with significant weight gain and risk of hypoglycemia. If cost is a determining factor in a patient without known CVD, sulfonylureas may be a reasonable choice. <sup>73</sup>
+</div></details>
 
-#### **Mechanisms of Action**
+<details class="med-details"><summary>
 
-These are insulin secretagogues that stimulate insulin secretion by inhibiting adenosine triphosphate (ATP)–sensitive potassium channels of  $\beta\text{-cells.}^{160}$ 
+### Glucagon-Like Peptide-1 (GLP-1) Receptor Agonists</summary><div class="details-content">
 
-#### **Differences Among Drugs in Class**
+<details class="med-details"><summary>
 
-Sulfonylureas can be distinguished between the older first-generation (tolbutamide) and newer agents belonging to the second generation (glipizide, glibenclamide, [glyburide], gliclazide, and glimepiride). Overall, hypoglycemia is less common with short-acting agents (gliclazide) compared to long-acting sulfonylureas (glibenclamide) <sup>161</sup>; however, in contrast with other sulfonylureas, glibenclamide is associated with the highest risk of hypoglycemia. <sup>162</sup> As a result, the ADA/EASD 2019 Standards of Care state that short-acting agents like glipizide are preferred. Glibenclamide is contraindicated in older adults, as these individuals have a higher risk of hypoglycemia. <sup>31</sup> For patients with renal impairment, it is important to keep in mind that glibenclamide and gliquidone are predominantly excreted biliary, while other agents are excreted through urine. <sup>163</sup>
+#### Class Overview and Incretin Physiology</summary><div class="details-content">
 
-#### Data for Use
+Glucagon-like peptide-1 receptor agonists (GLP-1 RAs) exploit the physiology of the incretin axis. The incretin effect describes the biological phenomenon wherein oral glucose ingestion elicits a markedly greater insulin response than an isoglycemic intravenous glucose infusion. This augmentation is mediated by peptide hormones secreted by enteroendocrine cells in response to luminal nutrients: GLP-1 (secreted by L-cells in the distal ileum and colon) and glucose-dependent insulinotropic polypeptide (GIP, secreted by K-cells in the duodenum).
 
-**Glycemic control.** Sulfonylureas have a high glucose-lowering efficacy. In a systematic review of 31 double-blind randomized controlled trials, sulfonylureas lowered HbA1c levels by 1.51% compared to placebo. In comparison to other oral glucose-lowering agents, sulfonylureas lowered HbA1c by 1.62%, and compared to insulin by 0.46% (mean baseline HbA1c varied from 4.6% to 13.6% between the individual trials). <sup>164</sup> However, it is also known that sulfonylureas do not have a lasting effect on lowering glucose levels. <sup>165</sup>
+In patients with T2DM, the incretin effect is severely diminished or lost. Native GLP-1 has an extremely short biological half-life of 1 to 2 minutes in circulation due to rapid enzymatic cleavage and degradation by dipeptidyl peptidase-4 (DPP-4) ([Fig. 4.6](#fig-04-06)).
 
-#### Side Effects
+<span id="fig-04-06"></span>![](_page_28_Figure_3.jpeg)
 
-Cardiovascular effects. Because the sulfonylurea receptor SUR2a is also expressed on cardiomyocytes, it has long been held that these drugs might also interfere with cardiac function. Indeed. several smaller-scale clinical trials and experimental studies have suggested an impairment of ischemic preconditioning with sulfonylurea drugs. 166 Besides these potential direct effects of sulfonylureas on cardiac and vascular functions, hypoglycemia, as commonly seen during sulfonylurea therapy, is associated with cardiac arrhythmias, thereby providing an additional potential mechanism linking these drugs to increased cardiovascular events. 167 There are few prospective studies on the long-term major clinical effect of these agents on outcomes in T2DM. The University Group Diabetes Program (UGDP) study from the 1960s initially suggested a high incidence of cardiovascular mortality in patients treated with the sulfonylurea agent tolbutamide. <sup>168</sup> In contrast, the UKPD study revealed no significant effect of glibenclamide on either mortality or the incidence of cardiovascular events.<sup>49</sup> There are few
+**Fig. 4.6 Mechanism of action: GLP-1 receptor agonists and DPP-4 inhibitors.** Ingestion of nutrients triggers the release of active incretins (GLP-1 from intestinal L-cells and GIP from K-cells). Native incretins undergo rapid enzymatic degradation by dipeptidyl peptidase-4 (DPP-4) within 1–2 minutes into inactive metabolites. DPP-4 inhibitors prolong the physiologic half-life of endogenous incretins, providing modest elevations in circulating active hormone. In contrast, GLP-1 receptor agonists provide pharmacological, supraphysiological stimulation of GLP-1 receptors that is resistant to DPP-4 cleavage, mediating glucose-dependent insulin secretion, glucagon suppression, delayed gastric emptying, and centrally mediated appetite suppression and weight loss. DPP-4, dipeptidyl peptidase-4; GIP, glucose-dependent insulinotropic polypeptide; GLP-1, glucagon-like peptide-1.
 
-prospective studies on the long-term major clinical effect of these agents on outcomes in T2DM. Monotherapy with the most-used agents, including glimepiride, glibenclamide, glipizide, and tolbutamide, was associated with increased mortality and cardiovascular risk compared with metformin in a large prospective registry trial.  $^{169}$  Findings from a more recent meta-analysis observed no increase in all-cause mortality in comparison to other treatment plans.  $^{170}$  In addition, the recently published CAROLINA study affirmed the cardiovascular safety of sulfonylureas; CAROLINA observed no major differences in cardiovascular risk between glimepiride (sulfonylurea) and linagliptin (DPP4 inhibitor) (three-point MACE occurred in 11.8% of participants subscribed linagliptin and 12.0% of individuals taking glimepiride (HR 0.98; P=0.7625).  $^{171}$ 
+GLP-1 receptor agonists were developed as synthetic peptide analogs modified to resist DPP-4 cleavage, enabling sustained supraphysiological receptor activation. GLP-1 RAs stimulate glucose-dependent insulin secretion from pancreatic $\\beta$-cells: binding to the G-protein-coupled GLP-1 receptor activates adenylate cyclase, elevating intracellular cAMP and activating protein kinase A (PKA) and Epac2. This pathway potentiates calcium-mediated exocytosis of insulin granules only when intracellular glucose metabolism is active (blood glucose >70 mg/dL). Consequently, GLP-1 RAs possess minimal inherent risk of hypoglycemia.
 
-**Weight gain.** In addition, sulfonylureas are also associated with weight gain. Patients prescribed glibenclamide in the UPKDS study gained 4kg of weight in the first 3 years. <sup>49</sup> In the ADOPT study (A Diabetes Outcome Progression Trial), glyburide resulted in a 1.6kg weight gain after 12 months (95% CI 1.0–2.2). <sup>172</sup>
+Concurrently, GLP-1 RAs suppress inappropriate postprandial glucagon secretion from pancreatic $\\alpha$-cells, delay gastric emptying to blunt postprandial glucose surges, and cross the blood-brain barrier to stimulate pro-opiomelanocortin (POMC) neurons and inhibit neuropeptide Y (NPY) neurons in the hypothalamus, promoting satiety and substantial weight reduction (2–6 kg).
 
-**Hypoglycemia.** A systematic review of a population-based study concluded sulfonylureas had a prevalence of mild/moderate (defined as no third-party assistance needed during the episode) hypoglycemic events of 30% and a severe prevalence (third-party assistance was needed) of 5%. Nevertheless, sulfonylureas still had less hypoglycemic incidences than insulin. <sup>174</sup> Evidence suggests that especial care should be taken prescribing sulfonylureas to elderly patients with low HbA1c or impaired renal function, as in these patients hypoglycemic episodes occur more frequently. <sup>174–176</sup>
+</div></details>
 
-## **Drug Interactions or Major Restriction**
+<details class="med-details"><summary>
 
-Evidence suggests that sulfonylureas interact with drugs that utilize CYP2C9 substrates, such as nonsteroidal antiinflammatory drugs and increase risk of hypoglycemia. 177
+#### Intraclass Distinctions and Pharmacokinetics</summary><div class="details-content">
 
-#### Insulin
+GLP-1 RAs are categorized by their pharmacokinetic half-lives and duration of action:
+- **Short-acting formulations:** Exenatide (administered subcutaneously twice daily within 60 minutes before meals) and lixisenatide (administered once daily before breakfast). These agents induce intermittent receptor activation, exert pronounced inhibition of gastric emptying, and primarily reduce postprandial glycemic excursions.
+- **Long-acting formulations:** Provide continuous, 24-hour GLP-1 receptor activation, yielding robust fasting glucose lowering and substantial HbA1c reductions (1.0–1.8%):
+  - *Liraglutide:* Once-daily subcutaneous injection (titrated from 0.6 mg to 1.2 mg and 1.8 mg daily); acyl fatty acid side chain binds reversibly to serum albumin.
+  - *Semaglutide:* Once-weekly subcutaneous injection (0.25 mg, 0.5 mg, 1.0 mg weekly); high-affinity albumin binding via a C18 di-acid chain and Aib8 amino acid substitution to prevent DPP-4 degradation.
+  - *Dulaglutide:* Once-weekly injection (0.75 mg, 1.5 mg weekly); recombinant fusion protein of two modified GLP-1 molecules linked to the Fc fragment of human IgG4.
+  - *Exenatide extended-release:* Once-weekly injection utilizing poly-(D,L-lactide-co-glycolide) microspheres.
+  - *Oral semaglutide:* Once-daily tablet co-formulated with the absorption enhancer sodium N-(8-[2-hydroxybenzoyl] amino) caprylate (SNAC), which elevates local gastric pH to prevent pepsin degradation and facilitates transcellular absorption across the gastric mucosa.
 
-#### **Drug Class Overview**
+</div></details>
 
-After failed oral or GLP-1 receptor agonists (GLP-1 RA) therapy, insulin is the remaining requirement, as in the current Standards of Care.
+<details class="med-details"><summary>
 
-The current 2019 ADA Standards of Care suggest administering insulin if patients show signs of catabolism like weight loss, hyperglycemia, HbA1c levels  $>\!10\%$  (86 mmol/mol), or blood glucose levels over 300 mg/dL (16.7 mmol/L).  $^{31}$ 
+#### Cardiovascular Outcome Trials: LEADER, SUSTAIN-6, REWIND, and PIONEER-6</summary><div class="details-content">
 
-#### Mechanisms of Action
+Large-scale CVOTs have firmly established that long-acting GLP-1 RAs confer significant atherosclerotic cardiovascular protection ([Table 4.6](#table-04-06)):
 
-Long-acting insulin preparations (degludec, insulin glargine) inhibit endogenous glucose production (mostly liver) after meals. Rapid-acting insulins, on the other hand, are used if/ when basal insulin therapy is not sufficient to achieve or maintain level of glycemia.<sup>73</sup> Bolus insulins (lispro, aspart, glulisine) help to limit postprandial increases in plasma glucose after meals. Inhaled insulin is more rapid in onset and, along with bolus insulins, can be used to correct hyperglycemia; however, larger studies are needed to confirm any benefits compared to injectable insulins. These insulins are the preferred agents for T2DM according to the 2018 EASD-ADA Standards of Care. 73 Decludec's insulin mechanism is particularly interesting. The long-acting flat profile of degludec forms a deposit of soluble subcutaneous multihexamers from which insulin is slowly and continuously absorbed into the circulation, thus being "not a revolution but an evolution" of insulin therapy for T1DM and  $T2DM^{180}$ 
+- **ELIXA (2015):** Randomized 6068 patients with T2DM and recent acute coronary syndrome (<90 days) to lixisenatide or placebo. Lixisenatide met noninferiority for 4-point MACE (HR 1.02; 95% CI 0.89–1.17; $P < 0.001$ for noninferiority; $P = 0.81$ for superiority) without adverse safety signals, confirming cardiovascular neutrality in acute post-ACS settings.
+- **LEADER (2016):** Evaluated liraglutide (1.8 mg daily) versus placebo in 9340 high-risk patients with T2DM (81% with established CVD). Liraglutide significantly reduced 3-point MACE by 13% (13.0% vs 14.9%; HR 0.87; 95% CI 0.78–0.97; $P = 0.01$ for superiority), cardiovascular death by 22% (4.7% vs 6.0%; HR 0.78; 95% CI 0.66–0.93; $P = 0.007$), and all-cause mortality by 15% (HR 0.85; 95% CI 0.74–0.97; $P = 0.02$). Nephropathy progression was reduced by 22%.
+- **SUSTAIN-6 (2016):** Evaluated subcutaneous semaglutide (0.5 or 1.0 mg weekly) versus placebo in 3297 patients with T2DM (83% with established CVD). Semaglutide reduced 3-point MACE by 26% (6.6% vs 8.9%; HR 0.74; 95% CI 0.58–0.95; $P = 0.02$ for superiority), primarily driven by a 39% reduction in nonfatal stroke (1.6% vs 2.7%; HR 0.61; 95% CI 0.38–0.99; $P = 0.04$) and a 26% nonsignificant reduction in nonfatal MI (HR 0.74; $P = 0.12$).
+- **EXSCEL (2017):** Evaluated once-weekly exenatide in 14752 patients (73% with prior CVD). Exenatide demonstrated cardiovascular safety (noninferior for MACE, HR 0.91; 95% CI 0.83–1.00; $P < 0.001$), with a trend toward superiority ($P = 0.06$) and an all-cause mortality reduction (HR 0.86; 95% CI 0.77–0.97).
+- **HARMONY OUTCOMES (2018):** Evaluated albiglutide (30–50 mg weekly) versus placebo in 9463 patients with established CVD. Albiglutide significantly reduced 3-point MACE by 22% (HR 0.78; 95% CI 0.68–0.90; $P = 0.0006$ for superiority), driven by a 25% reduction in fatal or nonfatal myocardial infarction (HR 0.75; 95% CI 0.61–0.90; $P = 0.003$).
+- **REWIND (2019):** Evaluated dulaglutide (1.5 mg weekly) in 9901 patients with T2DM. Notably, only 31% had prior CVD, while 69% had cardiovascular risk factors only (primary prevention cohort). Over a median follow-up of 5.4 years, dulaglutide reduced 3-point MACE by 12% (HR 0.88; 95% CI 0.79–0.99; $P = 0.026$) and nonfatal stroke by 24% (HR 0.76; 95% CI 0.61–0.95), establishing the efficacy of GLP-1 RAs in primary cardiovascular prevention.
+- **PIONEER-6 (2019):** Evaluated oral semaglutide (14 mg daily) in 3183 high-risk patients. Oral semaglutide was noninferior for MACE (HR 0.79; 95% CI 0.57–1.11; $P < 0.001$) and demonstrated a significant reduction in cardiovascular death (HR 0.49; 95% CI 0.27–0.92; $P = 0.03$) and all-cause mortality (HR 0.51; $P = 0.008$).
 
-## **Differences Among Drugs in Class**
+Mechanisms of anti-atherosclerotic benefit include direct suppression of vascular smooth muscle proliferation, reduction of macrophage inflammatory activation, enhanced endothelial nitric oxide synthase (eNOS) phosphorylation, blood pressure reduction, and systemic anti-inflammatory actions.
 
-As the most basic difference, insulins differ in their action profile between rapid-, short-, intermediate-, and long-acting agents. Combination insulins include basal and prandial insulin types, which cover a patient's basal and bolus insulin needs simultaneously by one injection. Evidence suggests that long-acting insulins offer a modest advantage compared to neutral protamine Hagedorn (NPH) insulin regarding risk of hypoglycemia but are more costly. <sup>180</sup> Increases in the cost of insulins have been a major issue for patients and treating health care professionals. <sup>181</sup> However, in real-world hospital settings there was no hypoglycemia risk differences in NPH and long-acting insulins. <sup>182</sup> Clinicians should also keep in mind that in patients with high CVD risk, decludec is associated with lower risk of sever hypoglycemia compared to glargine U100. <sup>183</sup>
+</div></details>
 
-#### Data for Use
+<details class="med-details"><summary>
 
-**Glycemic control.** When added to metformin, insulins can reduce HbA1c levels up to 4.9% in patients with T2DM. <sup>184</sup> Well established in clinical practice is the addition of insulin to oral agents for therapy intensification. In a study in which participants were prescribed metformin and insulin, HbA1c was significantly reduced compared to insulin monotherapy. In addition, patients in the insulin-metformin group gained less weight and had fewer incidences of hypoglycemia. <sup>185</sup> A meta-analysis confirmed that not only the combination of metformin and insulin but also the
+#### Adverse Effects, Retinopathy Signals, and Contraindications</summary><div class="details-content">
 
-addition of TZDs and sulfonylureas to insulin improve glycemic control.  $^{186}$  In all studies, the average insulin-sparing effect of the addition of oral agents was 62%.  $^{186}$ 
+- **Gastrointestinal adverse effects:** The most prevalent adverse reactions of GLP-1 RAs are gastrointestinal: nausea (15–25%), vomiting, diarrhea, and constipation. These symptoms peak early after initiation, are transient, and can be mitigated by gradual dose titration (e.g., escalating liraglutide by 0.6 mg increments every 1–2 weeks; starting semaglutide at 0.25 mg weekly for 4 weeks before titrating to 0.5 mg).
+- **Gallbladder events and heart rate:** Gallbladder adverse events (cholelithiasis, cholecystitis) are increased with GLP-1 RAs (relative risk ~ 1.3), associated with delayed gallbladder emptying and rapid weight reduction. A small transient increase in resting heart rate (2–4 bpm) occurs consistently, mediated by sympathetic stimulation and sinoatrial GLP-1 receptor activation, without adverse arrhythmic consequences.
+- **Diabetic retinopathy complications (SUSTAIN-6):** In SUSTAIN-6, an unexpected increase in diabetic retinopathy complications was detected with semaglutide (3.0% vs 1.8%; HR 1.76; 95% CI 1.11–2.81; $P = 0.02$). Detailed post hoc analyses revealed that this adverse signal occurred almost exclusively in patients with pre-existing, advanced proliferative retinopathy and poor baseline glycemic control who experienced a rapid, precipitous drop in HbA1c (>2% within 16 weeks). This phenomenon represents "early worsening of diabetic retinopathy," a well-recognized clinical paradox historically observed with rapid insulin intensification. Retinal examinations prior to initiating therapy and gradual glycemic reduction are advised.
+- **Contraindications and boxed warnings:** GLP-1 RAs carry a boxed warning and are strictly contraindicated in patients with a personal or family history of medullary thyroid carcinoma (MTC) or Multiple Endocrine Neoplasia syndrome type 2 (MEN 2), based on thyroid C-cell adenomas and carcinomas observed in rodent toxicology models. GLP-1 RAs should be used with caution in individuals with a history of acute pancreatitis.
 
-#### Side Effects
+</div></details>
 
-Cardiovascular. The often presumed increased risk of HF caused by fluid retention with insulin treatment has not been translated into a consistent increase in the rate of mortality or hospitalization for HF.<sup>74</sup> In addition, the Outcome Reduction with Initial Glargine Intervention trial (ORIGIN) showed that the addition of the basal insulin glargine and an oral agent in patients with prediabetes or new-onset T2DM does not increase the risk of cardiovascular events. The incident rates of cardiovascular outcomes were similar in the glargine group versus the standard care (2.94 glargine and 2.85 standard care per 100 person-years). A meta-analysis of four trials (ACCORD, ADVANCE, VADT, and UKPDS) evaluating outcomes of tight glycemic control showed an overall 9% reduction in major cardiovascular events (HR 0.91; 95% CI 0.84–0.99) in the intensive glucose-lowering arm compared to the standard arm, mainly due to 15% reduction of MI. 188
+</div></details>
 
-**Hypoglycemia.** The major problem with insulin is that hyperglycemia control may be bought at the cost of hypoglycemia. A meta-analysis of glucose-lowering drugs showed that basal insulins and sulfonylureas had the highest risk of hypoglycemia (OR, 17.9 [95% CI 1.97–162]; RD, 10% [95% CI 0.08%–20%]). <sup>189</sup>
+</div></details>
 
-**Weight gain.** A particularly pressing issue is the weight gain associated with insulin therapy. The UKPDS study demonstrated that after 10 years after insulin therapy initiation, patients gained on average 7kg of weight.<sup>49</sup> Of note, combination injection therapy of GLP-1 receptor agonists and insulin is associated with less weight gain and hypoglycemia, compared to intensified insulin plans, while maintaining the same glucose lowering efficacy.<sup>190</sup>
+<details class="med-details"><summary>
 
-## **Drug Interactions or Major Restriction**
+## Drugs That Do Not Lower Cardiovascular Disease Risk</summary><div class="details-content">
 
-Numerous agents have adverse reactions with insulin. Several substrates have glucose-lowering effects and should not be administered with insulin to avoid the risk of hypoglycemia. Glucose-lowering effects have been observed when insulin is combined with some antibiotics,  $^{191}$   $\beta$ -blockers, salicylates, and alcohol. Diuretics,  $^{192}$  steroids, and oral contraceptives promote peripheral IR and reduce insulin release and thereby may reduce the amount of exogenous insulin needed.
+<details class="med-details"><summary>
 
-Inhaled insulins should not be prescribed to patients who are smokers or suffer from asthma, chronic obstructive pulmonary disease, or other chronic lung diseases.<sup>31</sup>
+### Dipeptidyl Peptidase-4 (DPP-4) Inhibitors</summary><div class="details-content">
 
-# **Hypoglycemia**
+<details class="med-details"><summary>
 
-Not only do microvascular and macrovascular complications of DM pose risks to DM patients, but hypoglycemic episodes equally enhance risks of diabetic morbidity.
+#### Class Characteristics and Mechanisms of Action</summary><div class="details-content">
 
-# **Hypoglycemia and Cardiovascular Risk**
+Dipeptidyl peptidase-4 (DPP-4) inhibitors—also known as gliptins (sitagliptin, saxagliptin, linagliptin, and alogliptin)—are widely prescribed oral glucose-lowering agents that enhance endogenous incretin biology ([Fig. 4.6](#fig-04-06)). DPP-4 is a ubiquitous cell-surface serine protease that rapidly cleaves and inactivates circulating active GLP-1 and GIP within 1 to 2 minutes of secretion from gut enteroendocrine cells.
 
-Rates of change in HbA1c and hypoglycemia with
+By competitively inhibiting the DPP-4 enzyme, gliptins prolong the postprandial half-life of intact endogenous GLP-1 and GIP, elevating active circulating incretin concentrations by two- to three-fold. This elevation stimulates insulin secretion and suppresses glucagon release in a glucose-dependent manner. In contrast to direct GLP-1 receptor agonists—which achieve supraphysiologic, pharmacological receptor stimulation (up to 10- to 20-fold normal)—DPP-4 inhibitors merely preserve physiologic incretin levels. Consequently, gliptins provide modest glycemic efficacy (reducing HbA1c by 0.5–0.8%), are weight-neutral, and do not delay gastric emptying or induce significant central anorexia.
 
- $-1.07^{a}$ 
+</div></details>
 
--0.66 a
+<details class="med-details"><summary>
 
-Hypoglycemia seems to especially affect cardiovascular health. Episodes of hypoglycemia promote platelet aggregation, <sup>193</sup> inflammation, <sup>193</sup> endothelial dysfunction, <sup>194,195</sup> and proarrhythmogenic processes <sup>196</sup> that increase the risk of adverse cardiovascular events (Table 4.7).
+#### Intraclass Pharmacokinetics and Renal Elimination</summary><div class="details-content">
 
-Table 4.7
+The four major DPP-4 inhibitors share similar glycemic efficacy but possess distinct pharmacokinetic, metabolic, and clearance profiles:
+- **Sitagliptin:** Excreted predominantly unchanged via the kidneys (79% renal elimination). Standard dose is 100 mg once daily; dose reduction is mandatory in renal impairment: 50 mg daily for eGFR 30–44 mL/min/1.73 m², and 25 mg daily for eGFR <30 mL/min/1.73 m² or end-stage kidney disease on dialysis.
+- **Saxagliptin:** Metabolized hepatically by CYP3A4/5 to an active metabolite (5-hydroxysaxagliptin), followed by mixed renal and hepatic excretion. Standard dose is 5 mg once daily; reduced to 2.5 mg daily for eGFR <45 mL/min/1.73 m² or with strong CYP3A4/5 inhibitors.
+- **Alogliptin:** Excreted predominantly unchanged by the kidneys (60–70%). Standard dose is 25 mg once daily; reduced to 12.5 mg daily for eGFR 30–59 mL/min/1.73 m², and 6.25 mg daily for eGFR <30 mL/min/1.73 m².
+- **Linagliptin:** Possesses a unique non-renal elimination profile (>90% cleared unchanged via the enterohepatic and biliary system; <5% renal excretion). Linagliptin is administered at a fixed dose of 5 mg once daily without dose titration across the entire spectrum of chronic kidney disease, requiring no monitoring of renal function for dosage adjustments.
 
-| antihyperglycemic agents                                                        |                                                                                      |                                                          |  |  |  |
-|---------------------------------------------------------------------------------|--------------------------------------------------------------------------------------|----------------------------------------------------------|--|--|--|
-|                                                                                 | Change in<br>HbA1c, %                                                                | Hypoglycemia, odds ratio                                 |  |  |  |
-| Sulfonylureas<br>Meglitinides<br>DPP-4 Inhibitors<br>GLP-1 receptor<br>agonists | -0.82 <sup>a</sup><br>-0.71 <sup>a</sup><br>-0.69 <sup>a</sup><br>-1.02 <sup>a</sup> | 8.86 <sup>a</sup><br>10.518 <sup>a</sup><br>1.13<br>0.92 |  |  |  |
-| Basal insulin                                                                   | −0.88 <sup>a</sup>                                                                   | 4.77 <sup>a</sup>                                        |  |  |  |
+</div></details>
 
-<sup>&</sup>lt;sup>a</sup>Significant versus placebo.
+<details class="med-details"><summary>
 
-Premixed insulin
+#### CVOT Findings and Heart Failure Hospitalization Signals</summary><div class="details-content">
 
-SGLT-2 inhibitors
+Extensive post-2008 CVOTs evaluated the cardiovascular safety of all four major DPP-4 inhibitors ([Table 4.6](#table-04-06)):
 
-DPP-4, Dipeptidyl peptidase 4; GLP-1, glucose like peptide-1; HbA1c, hemoglobin A1c; SGLT, sodium glucose transporter.
+- **SAVOR-TIMI 53 (2013):** Evaluated saxagliptin (5 mg daily) versus placebo in 16492 patients with established CVD or multiple risk factors. Saxagliptin met noninferiority for 3-point MACE (HR 1.00; 95% CI 0.89–1.12; $P < 0.001$ for noninferiority; $P = 0.99$ for superiority). However, the trial uncovered an alarming, statistically significant 27% increase in hospitalizations for heart failure (3.5% vs 2.8%; HR 1.27; 95% CI 1.07–1.51; $P = 0.007$), with the greatest risk observed in patients with elevated baseline natriuretic peptides, prior heart failure, or CKD.
+- **EXAMINE (2013):** Evaluated alogliptin versus placebo in 5380 patients with T2DM following recent acute coronary syndrome (<90 days). Alogliptin demonstrated noninferiority for MACE (HR 0.96; 95% CI 0.80–1.16). A subsequent post hoc exploratory analysis revealed a numerical trend toward increased heart failure hospitalization (HR 1.19; 95% CI 0.90–1.58), particularly in patients without a prior history of HF.
+- **TECOS (2015):** Evaluated sitagliptin (100 mg daily) versus placebo in 14671 patients with established CVD. Sitagliptin was cardiovascularly neutral for MACE (HR 0.98; 95% CI 0.89–1.08) and demonstrated complete neutrality for heart failure hospitalization (3.1% vs 3.1%; HR 1.00; 95% CI 0.83–1.20).
+- **CARMELINA (2018):** Evaluated linagliptin (5 mg daily) in 6979 patients selected specifically for high cardiovascular risk and advanced kidney disease (74% with CKD, 33% with eGFR <30 mL/min/1.73 m² or severe macroalbuminuria). Linagliptin was neutral for MACE (HR 1.02; 95% CI 0.89–1.17), heart failure hospitalizations (HR 0.90; 95% CI 0.74–1.08), and composite renal microvascular outcomes.
+- **CAROLINA (2019):** Compared linagliptin to the active sulfonylurea comparator glimepiride in 6033 patients over a median follow-up of 6.3 years. Linagliptin was noninferior for MACE (HR 0.98; 95% CI 0.84–1.14), but conferred a 77% relative reduction in hypoglycemia and avoided the weight gain seen with glimepiride.
 
-17.78 a
+In response to SAVOR-TIMI 53 and EXAMINE, the FDA issued a safety warning in 2016 regarding increased heart failure hospitalization risk with saxagliptin and alogliptin. Professional societies (AHA/HFSA) recommend avoiding saxagliptin and alogliptin in patients with heart failure or high risk of heart failure.
 
-1.28 a
+</div></details>
 
-Modified from Liu SC, Tu YK, Chien MN, Chien KL. Effect of antidiabetic agents added to metformin on glycaemic control, hypoglycaemia and weight change in patients with type 2 diabetes: a network meta-analysis. *Diabetes, Obes Metab* 2012;14810–820.
+<details class="med-details"><summary>
 
-Connelly KA, Yan AT, Leiter LA, Bhatt DL, Verma S. Cardiovascular implications of hypoglycemia in diabetes mellitus. *Circulation* 2015;132:2345–2350.
+#### Adverse Effects and Clinical Tolerability</summary><div class="details-content">
 
-Vasilakou D, Karagiannis T, Athanasiadou E, et al. Sodium-glucose cotransporter 2 inhibitors for type 2 diabetes: a systematic review and meta-analysis. *Ann Intern Med* 2013;159:262–274.
+As a class, DPP-4 inhibitors are exceptionally well tolerated with an adverse event profile comparable to placebo. Hypoglycemia risk is negligible in monotherapy or when combined with metformin. The incidence of gastrointestinal distress is minimal. Postmarketing surveillance identified rare cases of acute pancreatitis and severe, disabling joint pain (arthralgias) that resolved upon drug discontinuation. DPP-4 inhibitors are weight-neutral, making them attractive for older patients when hypoglycemia avoidance is paramount and SGLT2 inhibitors or GLP-1 RAs are not tolerated or contraindicated.
 
-#### **Trial Data**
+</div></details>
 
-Multiple studies have observed the relationship between cardiovascular outcomes and hypoglycemic episodes. In a study including patients examining the association between severe hypoglycemia and adverse clinical outcome, patients with severe hypoglycemia had a significantly higher incidents of macrovascular events (HR 2.88; 95% CI 2.01–4.12) compared to patients without episodes of hypoglycemia. 197 This was confirmed in the EXAMINE trial, in which patients with severe hypoglycemia had a HR of 2.42 (95% CI 1.27–4.60; P=0.007) for risk of major adverse cardiovascular events. 198 Hypoglycemia has also been shown to affect development of atherosclerosis, as a study reported association between hypoglycemia and higher CAC scores (CAC > 100 Agatston units). 199 Data from the Atherosclerosis Risk in Communities (ARIC), a prospective cohort analysis including 1209 individuals, concluded that participants with severe hypoglycemic events had higher rates of cardiovascular disease, CHD, HF, atrial fibrillation, peripheral artery disease, and all-cause mortality. The risk of all-cause mortality (HR 1.73; 95% CI 1.38–2.17), cardiovascular mortality (HR 1.64; 95% CI 1.15-2.34), and CHD (HR 2.02; 95% CI 1.27–3.2) reached statistical significance.<sup>200</sup>
+</div></details>
 
-However, some suggest that this relationship may be explained due to confounding factors. Individuals who experience hypoglycemic episode are older, more likely to suffer from comorbid illnesses, and are also more vulnerable cardiovascular disease. <sup>198</sup> On the other hand, a bias analysis including data from over patients in observational studies showed that there is a strong direct relationship between hypoglycemia and cardiovascular disease. <sup>199</sup> Even though this meta-analysis concluded that a moderate heterogeneity across the included studies exists, in the stratified analysis most subgroups showed similar results. <sup>199</sup>
+<details class="med-details"><summary>
 
-# **Diabetes Drugs and Hypoglycemia**
+### Thiazolidinediones (Glitazones)</summary><div class="details-content">
 
-A marked difference exists between glucose-lowering drugs and their individual risk of hypoglycemia. In a meta-analysis of second-line T2DM agents, only insulins, sulfonylureas, and glinides increased risk of hypoglycemia compared to placebo (OR of 8.86 [95% CI 4.63–17.83], 10.51 [95% CI 3.59–38.32], 4.77 [95% CI 1.35–18.3] and 17.78 [95% CI 4.84–69.98], respectively). Newer antidiabetic drugs like SGLT-2 inhibitors, GLP-1 receptor agonists, and DPP-4 inhibitors have a very low risk or even reduce risk of hypoglycemia.
+<details class="med-details"><summary>
 
-![](_page_43_Figure_1.jpeg)
+#### Class Overview and PPAR-Gamma Agonism</summary><div class="details-content">
 
-Fig. 4.8 2019 Guidelines "Standard of Medical Care in Diabetes". Avoid TZDs in patients with heart failure (HF). CKD, Chronic kidney disease; GLP-1, glucose like peptide-1; SGLT, sodium glucose transporter. (Data from American Diabetes Association. Standards of medical care in diabetes-2019. Diabetes Care. 2019;42(suppl 1):S13–S28. [https://doi.](https://doi.org/10.2337/dc19-Sint01) [org/10.2337/dc19-Sint01](https://doi.org/10.2337/dc19-Sint01)).
+Thiazolidinediones (TZDs), or glitazones—represented clinically by pioglitazone and rosiglitazone—are potent synthetic insulin sensitizers that improve insulin-mediated glucose disposal without stimulating pancreatic insulin secretion. TZDs function as high-affinity, selective ligands for peroxisome proliferator-activated receptor-gamma (PPAR-$\\gamma$), an intranuclear transcription factor expressed predominantly in adipose tissue and to a lesser extent in vascular endothelium, macrophages, liver, and skeletal muscle ([Fig. 4.7](#fig-04-07)).
 
-# Guidelines
+<span id="fig-04-07"></span>![](_page_34_Figure_1.jpeg)
 
-Overall, the 2019 ADA/EASD Standards of Care endorse an individualized approach to pharmacological DM therapy (Fig. 4.8). Key comorbidities (ASCVD, HF, and CKD), effect on weight gain, risk of hypoglycemia, cost, and patient preference should all be taken into consideration when deciding on the antidiabetic agent.
+**Fig. 4.7 Thiazolidinediones.** Thiazolidinediones (TZDs) activate the peroxisome proliferator-activated receptor-gamma (PPAR-gamma) nuclear receptor superfamily, heterodimerizing with retinoid X receptor (RXR) to regulate gene expression. TZDs promote differentiation of preadipocytes into small, insulin-sensitive subcutaneous adipocytes, sequestering free fatty acids (FFAs), downregulating proinflammatory cytokines (TNF-alpha), and increasing adiponectin production. This lipid redistribution relieves lipotoxicity in skeletal muscle and liver, enhancing peripheral insulin sensitivity and preserving pancreatic beta-cell function. However, PPAR-gamma activation in the renal collecting duct upregulates the epithelial sodium channel (ENaC), driving sodium and water retention, peripheral edema, and potentially precipitating congestive heart failure. PPAR-gamma, peroxisome proliferator-activated receptor-gamma; TNF-alpha, tumor necrosis factor-alpha.
 
-Metformin is still recommended as the primary agent for T2DM. If HbA1c target is not achieved after 3 months, the choice of add-on therapy to metformin can be guided by comorbidities. Due to the cardiovascular benefit demonstrated for GLP-1 receptor agonists and SGLT-2 inhibitors, these agents should be used for patients with established ASCVD. If HF or CKD predominates, SGLT-2 inhibitors should be initiated, which demonstrated inhibition of HF and CKD progression in CVOTs, if the eGFR is acceptable. Empagliflozin, dapagliflozin, and canagliflozin have proven to reduce HF incidence and CKD development in CVOTs. If patients do not tolerate SGLT-2 inhibitors or the eGFR is not adequate, GLP-1 receptor agonists should be used with evidence of reducing CVD events. For GLP-1 receptor agonists, liraglutide was shown to have the strongest evidence.
+Upon ligand binding, PPAR-$\\gamma$ forms a heterodimer with the retinoid X receptor (RXR), binds to peroxisome proliferator response elements (PPREs) in regulatory gene regions, and alters the transcription of genes controlling carbohydrate and lipid metabolism. TZDs stimulate the differentiation of preadipocytes into small, highly insulin-sensitive subcutaneous adipocytes while inducing apoptosis of large, hypertrophic, insulin-resistant visceral adipocytes.
 
-TZDs should be avoided in patients with HF. If weight loss is a therapeutic goal, then physicians can prescribe GLP-1 receptor agonists. Semaglutide had the greatest evidence for weight loss. Due to the moderate glucose-lowering efficacy of DPP-4 inhibitors and the possible elevated risk of HF associated with some DPP-4 inhibitor agents, it is only second-line therapy in the guidelines.
+This triggers "lipid partitioning," sequestering circulating free fatty acids and triglycerides into safe subcutaneous adipose depots, which relieves lipotoxicity in skeletal muscle, liver, and pancreatic β-cells. Concurrently, TZDs upregulate the insulin-sensitizing adipokine adiponectin, downregulate inflammatory cytokines (TNF-α, IL-6), and enhance insulin-mediated GLUT-4 translocation in myocytes, yielding durable glycemic control and preserving β-cell function longer than sulfonylureas or metformin.
 
-# Future Directions
+</div></details>
 
-# Cardiometabolic Specialist
+<details class="med-details"><summary>
 
-The strong relationship between DM and CVD has long been established. T2DM medication now also can affect cardiovascular health, as recent large outcome trials of GLP-1 receptor agonists and SGLT-2 inhibitors have demonstrated. In light of this, some argue that T2DM cannot be allotted to one specialty but be described as a cardiometabolic disease requiring expert clinical knowledge of both endocrinologists and cardiologists. Initiation of "cardiometabolic" specialist training programs combining fields of expertise of endocrinologist, cardiologists, and primary care doctors is currently under discussion. The cardiometabolic specialist integrating these disciplines offers the most benefit to the increasingly aging and obese patients with T2DM and cardiovascular disease.<sup>203</sup> The cardiometabolic specialist integrates disciplines that offer the most benefit to the increasingly aging and obese patients with T2DM and cardiovascular disease.<sup>203</sup>
+#### Cardiovascular Outcome Evidence: PROactive and IRIS Trials</summary><div class="details-content">
 
-# Vitamin D
+The cardiovascular profile of TZDs presents a dichotomy between anti-atherosclerotic vascular protection and fluid-retention-mediated heart failure:
 
-Current research has posited low 25-hydroxyvitamin D levels as a risk factor for T2DM, and observational studies have supported this association.2–<sup>4</sup> However, a trial randomizing 2423 participants to 4000IU of vitamin D per day did not find a significantly lower risk of T2DM than placebo.<sup>205</sup>
+- **PROactive (2005):** Randomized 5238 patients with T2DM and extensive macrovascular disease to pioglitazone (titrated to 45 mg daily) or placebo. While the broad primary composite endpoint (including revascularization and amputation) did not achieve statistical significance (HR 0.90; 95% CI 0.80–1.02; $P = 0.095$), the pre-specified main secondary composite endpoint of all-cause mortality, nonfatal MI, and stroke was significantly reduced by 16% (HR 0.84; 95% CI 0.72–0.98; $P = 0.027$).
+- **IRIS Trial (2016):** Evaluated pioglitazone (45 mg daily) versus placebo in 3876 non-diabetic individuals with insulin resistance (HOMA-IR >3.0) and a recent ischemic stroke or transient ischemic attack (TIA). Over 4.8 years, pioglitazone significantly reduced the risk of recurrent stroke or myocardial infarction by 24% (9.0% vs 11.8%; HR 0.76; 95% CI 0.62–0.93; $P = 0.007$) and reduced progression to new-onset diabetes by 52%.
 
-# Oral Semaglutide
+These trials established that pioglitazone exerts genuine anti-atherosclerotic and anti-thrombotic effects on macrovascular beds, reducing smooth muscle proliferation, carotid intima-media thickness, and systemic vascular inflammation.
 
-A novel development in GLP-1 research is the development of an oral formulation of semaglutide that proved successful in multiple trials. The series of PIONEER (Peptide Innovation for Early Diabetes Treatment) trials compared oral semaglutide to placebo,<sup>206</sup> sitagliptin,<sup>207</sup> and liraglutide,<sup>208</sup> and concluded that oral semaglutide was superior to all of these agents in terms of weight loss and HbA1c reduction. In addition, oral semaglutide proved safe for patients with T2DM with renal impairment.<sup>209</sup> Current
+</div></details>
 
-#### 276 4 — Drugs for Diabetes
+<details class="med-details"><summary>
 
-studies have demonstrated promising results regarding cardiovascular outcomes. Oral semaglutide was shown to be noninferior to placebo by reducing the risk of the primary outcome by 21% (P < 0.001) in PIONEER 6, but due to the small scale of the trial (PIONEER 6 enrolled 3183 patients), it was too underpowered to demonstrate superiority. The study also showed oral semaglutide's cardiovascular benefit by extensively lowering the risk of multiple secondary endpoints; oral semaglutide significantly reduced death from cardiovascular cause (HR 0.49; 95% CI 0.27–0.92) and all-cause mortality (HR 0.51; 95% CI 0.31– 0.84) compared to placebo. The oral form of GLP-1 receptor agonists will hopefully improve therapy adherence compared to injectable medication.
+#### Fluid Retention, Heart Failure, and Fracture Risks</summary><div class="details-content">
 
-## References
+Despite vascular benefits, TZDs exert serious adverse hemodynamics driven by renal sodium and water retention. In the distal nephron, PPAR-$\\gamma$ activation in the epithelial cells of the renal cortical collecting duct upregulates transcription of the epithelial sodium channel (ENaC) and stimulates basolateral $\text{Na}^+/\text{K}^+$-ATPase activity. This drives increased distal tubular sodium reabsorption, expanding total body extracellular fluid volume by 1–2 liters.
 
-Complete reference list available at [www.expertconsult.com](https://www.expertconsult.com).
+Clinically, this manifests as dose-dependent peripheral edema (occurring in 5–15% of patients, escalating to 20% when co-prescribed with insulin), hemodilution with a 2–4% drop in hematocrit, and acute precipitation or exacerbation of congestive heart failure. In PROactive, serious heart failure events were increased by 43% with pioglitazone (5.7% vs 4.1%; HR 1.41; 95% CI 1.10–1.80; $P = 0.007$). Consequently, both pioglitazone and rosiglitazone carry an FDA Black Box Warning and are strictly contraindicated in patients with symptomatic New York Heart Association (NYHA) Class III or IV heart failure.
+
+Additional class adverse effects include:
+- **Bone fractures:** A two-fold increase in fractures of distal long bones (forearm, wrist, foot) in postmenopausal women, resulting from PPAR-$\\gamma$ activation skewing mesenchymal stem cell differentiation away from osteoblasts toward adipocytes.
+- **Weight gain:** Dose-dependent weight gain averaging 2–4 kg over the first year, driven by fluid retention and subcutaneous adipose deposition.
+- **Bladder cancer signal:** An early epidemiological concern associating long-term pioglitazone use with urinary bladder neoplasms; extensive subsequent large-scale cohort studies and follow-up data demonstrated no statistically robust causal link.
+
+</div></details>
+
+</div></details>
+
+<details class="med-details"><summary>
+
+### Sulfonylureas and Meglitinides</summary><div class="details-content">
+
+<details class="med-details"><summary>
+
+#### Secretory Cascade and SUR1/K-ATP Channels</summary><div class="details-content">
+
+Sulfonylureas (second-generation agents: glimepiride, glipizide, gliclazide, and glyburide/glibenclamide) and rapid-acting meglitinides (repaglinide, nateglinide) stimulate endogenous insulin exocytosis from pancreatic β-cells independently of circulating glucose levels. The target receptor is the sulfonylurea receptor-1 (SUR1) regulatory subunit of the inwardly rectifying ATP-sensitive potassium ($K_{\text{ATP}}$) channel complex on the β-cell plasma membrane.
+
+Under physiologic conditions, glucose entering the β-cell undergoes glycolysis and mitochondrial oxidation, elevating the intracellular ATP:ADP ratio. ATP binds to and closes $K_{\text{ATP}}$ channels, terminating potassium efflux. The resulting membrane depolarization opens voltage-dependent L-type calcium channels, triggering calcium influx and exocytosis of preformed insulin storage granules.
+
+Sulfonylureas and meglitinides bypass intracellular glucose metabolism by binding directly to the SUR1 subunit, mechanically forcing $K_{\text{ATP}}$ channel closure. Because closure occurs regardless of prevailing ambient glucose concentrations, these agents carry an inescapable, substantial risk of severe and prolonged hypoglycemia ([Table 4.7](#table-04-07)).
+
+<span id="table-04-07"></span>
+
+**Table 4.7 Rates of Change in HbA1c and Hypoglycemia with Antihyperglycemic Agents Added to Metformin**
+
+| Antihyperglycemic Agent Class | Change in HbA1c, % | Hypoglycemia Odds Ratio (95% CI) | Hypoglycemia Risk Category |
+| :--- | :--- | :--- | :--- |
+| **Sulfonylureas** | $-0.82^a$ | $8.86^a$ (4.63–17.83) | High risk |
+| **Meglitinides (Glinides)** | $-0.71^a$ | $10.518^a$ (3.59–38.32) | High risk |
+| **DPP-4 Inhibitors** | $-0.69^a$ | 1.13 (0.75–1.71) | Minimal / Neutral |
+| **GLP-1 Receptor Agonists** | $-1.02^a$ | 0.92 (0.60–1.41) | Minimal / Neutral |
+| **Basal Insulin** | $-0.88^a$ | $4.77^a$ (1.35–18.30) | Substantially elevated |
+| **Premixed Insulin** | $-1.07^a$ | $17.78^a$ (4.84–69.98) | Very high risk |
+| **SGLT-2 Inhibitors** | $-0.66^a$ | $1.28^a$ (1.02–1.60) | Minimal (slight vs placebo) |
+
+$^a$Statistically significant versus placebo ($P < 0.05$).  
+*Abbreviations:* CI, confidence interval; DPP-4, dipeptidyl peptidase-4; GLP-1, glucagon-like peptide-1; HbA1c, glycated hemoglobin; SGLT-2, sodium-glucose cotransporter-2.  
+*Modified from:* Liu SC, Tu YK, Chien MN, Chien KL. Effect of antidiabetic agents added to metformin on glycaemic control, hypoglycaemia and weight change in patients with type 2 diabetes: a network meta-analysis. Diabetes Obes Metab. 2012;14(9):810–820; Connelly KA, Yan AT, Leiter LA, Bhatt DL, Verma S. Cardiovascular implications of hypoglycemia in diabetes mellitus. Circulation. 2015;132(24):2345–2350.
+
+</div></details>
+
+<details class="med-details"><summary>
+
+#### Cardiovascular Concerns and Blunting of Ischemic Preconditioning</summary><div class="details-content">
+
+Beyond hypoglycemia and weight gain, sulfonylureas have generated enduring cardiovascular safety concerns regarding myocardial ischemic tolerance. In cardiac myocytes and vascular smooth muscle cells, $K_{\text{ATP}}$ channels are formed by Kir6.2 subunits coupled to the SUR2A (cardiac) and SUR2B (vascular) regulatory isoforms.
+
+During acute myocardial ischemia or hypoxia, intracellular ATP falls rapidly, opening cardiac SUR2A/$K_{\text{ATP}}$ channels. Potassium efflux hyperpolarizes the sarcolemma, shortens the cardiac action potential duration, restricts calcium influx through L-type channels, conserves high-energy phosphates, and limits mitochondrial calcium overload. This endogenous cardioprotective mechanism—termed ischemic preconditioning—reduces myocardial infarct size and prevents lethal ventricular arrhythmias during subsequent ischemic insults.
+
+Non-selective sulfonylureas—most notoriously glyburide (glibenclamide)—bind with high affinity to both pancreatic SUR1 and cardiac SUR2A receptors, pharmacologically closing myocardial $K_{\text{ATP}}$ channels during ischemia and abolishing ischemic preconditioning. In contrast, modern sulfonylureas such as gliclazide and glimepiride exhibit high selectivity for pancreatic SUR1 over cardiac SUR2A, preserving myocardial ischemic preconditioning. Glyburide should be avoided in patients with coronary heart disease; gliclazide or glimepiride are the preferred agents when a sulfonylurea is necessary due to cost constraints.
+
+</div></details>
+
+<details class="med-details"><summary>
+
+#### Clinical Evidence: UKPDS, ADVANCE, and CAROLINA</summary><div class="details-content">
+
+Sulfonylureas were evaluated in early glycemic control trials:
+- **UKPDS 33 (1998):** Intensive therapy with chlorpropamide, glibenclamide, or insulin in newly diagnosed T2DM reduced microvascular complications by 25%, but showed no statistically significant reduction in myocardial infarction (16% reduction; $P = 0.052$) during the active trial phase.
+- **ADVANCE (2008):** Intensive glucose control based on the modern, SUR1-selective sulfonylurea gliclazide MR demonstrated microvascular renal protection without an increase in cardiovascular mortality or all-cause death.
+- **CAROLINA (2019):** Directly addressed the long-standing controversy of sulfonylurea cardiovascular safety by randomizing 6033 patients with T2DM and high cardiovascular risk to glimepiride (1–4 mg daily) or the DPP-4 inhibitor linagliptin (5 mg daily). Over a median follow-up of 6.3 years, glimepiride was cardiovascularly noninferior to linagliptin for 3-point MACE (HR 0.98; 95% CI 0.84–1.14), with identical rates of cardiovascular mortality. However, glimepiride caused a five-fold higher rate of any hypoglycemia (37.7% vs 10.6%) and significant weight gain.
+
+In addition to hypoglycemia and weight gain, chronic sulfonylurea therapy is associated with secondary failure—progressive β-cell exhaustion and accelerated loss of secretory capacity over 3–5 years.
+
+</div></details>
+
+</div></details>
+
+<details class="med-details"><summary>
+
+### Insulin Therapy</summary><div class="details-content">
+
+<details class="med-details"><summary>
+
+#### Role in Type 2 Diabetes and Physiology</summary><div class="details-content">
+
+Insulin therapy represents the ultimate physiological replacement for progressive pancreatic β-cell failure in T2DM. As glucotoxicity, lipotoxicity, and chronic metabolic stress deplete functional β-cell mass, endogenous insulin secretion eventually becomes insufficient to maintain glycemic targets despite multiple non-insulin therapies.
+
+Modern insulin regimens utilize bioengineered recombinant analogs with tailored pharmacokinetic and pharmacodynamic profiles:
+- **Basal insulins:** Provide flat, peakless, 24-hour background insulin coverage to suppress overnight hepatic gluconeogenesis:
+  - *Insulin glargine (U100 and U300):* Forms microprecipitates in subcutaneous tissue that slowly dissolve; U300 provides a flatter, more prolonged profile exceeding 30 hours.
+  - *Insulin detemir:* Employs a myristic acid side chain that binds reversibly to albumin.
+  - *Insulin degludec (U100 and U200):* Assembles into soluble multi-hexamer chains in subcutaneous depots, yielding an ultra-long, peakless half-life of 25 hours and duration exceeding 42 hours with minimal day-to-day pharmacokinetic variability.
+- **Prandial rapid-acting analogs:** Insulin lispro, aspart, and glulisine rapidly dissociate into monomers, with an onset within 10–15 minutes and peak action at 1–2 hours, closely mimicking physiological postprandial insulin surges with less delayed hypoglycemia than regular human insulin.
+
+</div></details>
+
+<details class="med-details"><summary>
+
+#### Cardiovascular Safety: ORIGIN and DEVOTE Trials</summary><div class="details-content">
+
+Concerns historically arose that exogenous hyperinsulinemia might promote atherogenesis, stimulate vascular smooth muscle proliferation, and worsen cardiovascular outcomes. These fears were definitively refuted by rigorous randomized CVOTs:
+
+- **ORIGIN (2012):** Randomized 12537 individuals with prediabetes or early T2DM and high cardiovascular risk to insulin glargine (titrated to achieve a fasting plasma glucose ≤ 95 mg/dL) or standard care. Over a median follow-up of 6.2 years, insulin glargine had a completely neutral effect on the primary composite cardiovascular outcome (HR 1.02; 95% CI 0.94–1.11; $P = 0.63$), all-cause mortality (HR 0.98; $P = 0.70$), and incident cancer.
+- **DEVOTE (2017):** A double-blind, treat-to-target CVOT randomizing 7637 patients with T2DM and high CV risk to ultra-long-acting insulin degludec or insulin glargine U100. Degludec met noninferiority for 3-point MACE (HR 0.91; 95% CI 0.78–1.06; $P < 0.001$ for noninferiority). Importantly, degludec significantly reduced adjudicated severe hypoglycemia by 40% (4.9% vs 6.6%; OR 0.73; $P < 0.001$) and nocturnal severe hypoglycemia by 53% (OR 0.47; $P < 0.001$), confirming that flatter pharmacokinetic profiles mitigate dangerous hypoglycemic episodes.
+
+</div></details>
+
+<details class="med-details"><summary>
+
+#### Clinical Hazards: Severe Hypoglycemia and Weight Gain</summary><div class="details-content">
+
+The primary clinical limitations of insulin therapy are hypoglycemia and weight gain. In a network meta-analysis of second-line antidiabetic therapies, basal insulin increased the odds of hypoglycemia nearly five-fold (OR 4.77; 95% CI 1.35–18.30) and premixed insulin increased the odds nearly eighteen-fold (OR 17.78; 95% CI 4.84–69.98) compared to placebo ([Table 4.7](#table-04-07)).
+
+Severe hypoglycemia triggers profound sympathetic activation, proarrhythmic electrophysiological shifts, and increased cardiovascular mortality. Weight gain averages 2–5 kg during the first year of insulin intensification, driven by elimination of glucosuria, caloric retention, and direct lipogenic actions. In modern cardiometabolic practice, insulin should be combined with metformin and cardiorenal-protective agents (SGLT2 inhibitors and GLP-1 RAs), which blunt insulin-induced weight gain, lower insulin dose requirements, and eliminate glycemic volatility.
+
+</div></details>
+
+</div></details>
+
+</div></details>
+
+<details class="med-details"><summary>
+
+## Hypoglycemia and Cardiovascular Risk</summary><div class="details-content">
+
+<details class="med-details"><summary>
+
+### Definitions and Staging of Hypoglycemia</summary><div class="details-content">
+
+Historically regarded simply as an acute metabolic nuisance, hypoglycemia is now recognized as a potent, independent driver of cardiovascular morbidity and sudden death in patients with diabetes mellitus. The International Hypoglycaemia Study Group (IHSG) and the American Diabetes Association categorize hypoglycemia into three distinct clinical tiers:
+- **Level 1 (Hypoglycemia alert value):** Measurable plasma glucose <70 mg/dL (<3.9 mmol/L). This threshold represents the physiological trigger for neuroendocrine counter-regulatory hormone release (glucagon and epinephrine) in healthy individuals and serves as a clinical prompt for oral carbohydrate ingestion.
+- **Level 2 (Clinically significant hypoglycemia):** Measurable plasma glucose <54 mg/dL (<3.0 mmol/L). At this concentration, neuroglycopenic symptoms (confusion, diaphoresis, tremors, ataxia) manifest, cognitive function becomes impaired, and immediate corrective action is mandatory.
+- **Level 3 (Severe hypoglycemia):** A severe clinical event characterized by altered mental status and physical disability requiring third-party assistance for recovery, irrespective of the measured glucose concentration.
+
+Repeated episodes of hypoglycemia blunt physiological autonomic responses, inducing "hypoglycemia-associated autonomic failure" (HAAF) and hypoglycemia unawareness, wherein patients lose adrenergic warning signs and progress precipitously to Level 3 neuroglycopenia.
+
+</div></details>
+
+<details class="med-details"><summary>
+
+### Pathophysiological Mechanisms of Hypoglycemia-Induced Cardiovascular Injury</summary><div class="details-content">
+
+Acute hypoglycemia triggers a devastating cascade of neuroendocrine, electrophysiological, and hemorheological disturbances that directly threaten myocardial and vascular integrity:
+- **Sympathoadrenal storm:** Acute glucopenia activates glucose-sensing neurons in the ventromedial hypothalamus, triggering an explosive discharge of the sympathetic nervous system and adrenal medulla. Surging epinephrine and norepinephrine levels induce profound sinus tachycardia, peripheral vasoconstriction, elevated pulse pressure, increased cardiac workload, and sharply augmented myocardial oxygen consumption ($M\text{V}O_2$), provoking subendocardial ischemia in patients with underlying coronary artery disease.
+- **Proarrhythmic electrophysiology and QTc prolongation:** Epinephrine stimulates $\beta_2$-adrenergic receptors linked to $\text{Na}^+/\text{K}^+$-ATPase pumps on skeletal muscle, driving an acute shift of extracellular potassium into cells. The resulting hypokalemia, coupled with high sympathetic tone, inhibits delayed rectifier potassium currents ($I_{\text{Kr}}$), prolongs ventricular repolarization, lengthens the electrocardiographic QTc interval, and increases transmural dispersion of repolarization. This creates an ideal substrate for early afterdepolarizations, polymorphic ventricular tachycardia (torsades de pointes), and ventricular fibrillation—the primary mechanism underlying the catastrophic nocturnal "dead in bed" syndrome.
+- **Prothrombotic state and endothelial injury:** Epinephrine surge activates platelets via $\alpha_2$-adrenergic receptors, accelerates platelet-monocyte aggregate formation, elevates circulating levels of P-selectin, von Willebrand factor, and factor VIII, and upregulates plasminogen activator inhibitor-1 (PAI-1). Fibrinolysis is suppressed while blood viscosity increases, promoting acute intracoronary thrombosis and plaque rupture. Furthermore, acute hypoglycemia uncouples endothelial nitric oxide synthase (eNOS), impairs flow-mediated vasodilation, and triggers a sustained release of proinflammatory cytokines (IL-6, TNF-α) that persists for days following an episode.
+
+</div></details>
+
+<details class="med-details"><summary>
+
+### Evidence from Clinical Trials and Differential Drug Class Risks</summary><div class="details-content">
+
+The cardiovascular hazard of hypoglycemia was vividly demonstrated in the ACCORD, ADVANCE, and VADT trials. In post hoc analyses of all three trials, a history of one or more episodes of severe hypoglycemia was associated with an independent two- to three-fold higher risk of subsequent cardiovascular death, myocardial infarction, and all-cause mortality ([Table 4.4](#table-04-04)).
+
+A striking disparity exists among glucose-lowering drug classes regarding their intrinsic propensity to provoke hypoglycemia ([Table 4.7](#table-04-07)). In comprehensive network meta-analyses of antidiabetic agents added to metformin:
+- Premixed insulins increase hypoglycemia odds nearly 18-fold (OR 17.78; 95% CI 4.84–69.98).
+- Glinides (meglitinides) increase hypoglycemia odds 10.5-fold (OR 10.52; 95% CI 3.59–38.32).
+- Sulfonylureas increase hypoglycemia odds nearly 9-fold (OR 8.86; 95% CI 4.63–17.83).
+- Basal insulins increase hypoglycemia odds nearly 5-fold (OR 4.77; 95% CI 1.35–18.30).
+
+In stark contrast, modern glucose-dependent therapies—including SGLT2 inhibitors (OR 1.28), DPP-4 inhibitors (OR 1.13), and GLP-1 receptor agonists (OR 0.92)—exhibit near-zero risk of hypoglycemia in monotherapy or when paired with metformin. Replacing sulfonylureas and non-analog insulins with incretins and SGLT2 inhibitors represents a premier strategy to eliminate hypoglycemia and safeguard cardiovascular health.
+
+</div></details>
+
+</div></details>
+
+<details class="med-details"><summary>
+
+## Clinical Practice Guidelines and Treatment Algorithms</summary><div class="details-content">
+
+<details class="med-details"><summary>
+
+### The 2019/2020 ADA/EASD Consensus Treatment Algorithm</summary><div class="details-content">
+
+The management of type 2 diabetes has evolved from a linear, stepwise glucose-lowering algorithm into an organoprotective, disease-specific decision tree. The joint consensus statement of the American Diabetes Association (ADA) and the European Association for the Study of Diabetes (EASD) establishes a comprehensive treatment architecture ([Fig. 4.8](#fig-04-08)):
+
+<span id="fig-04-08"></span>![](_page_43_Figure_1.jpeg)
+
+**Fig. 4.8 2019/2020 Guidelines "Standards of Medical Care in Diabetes" Treatment Algorithm.** First-line therapy for type 2 diabetes remains metformin alongside comprehensive lifestyle modification (weight management and physical activity). The next step requires independent stratification based on cardiovascular, heart failure, and renal comorbidities: (1) In established ASCVD or high ASCVD risk indicators (age ≥ 55 years with $>50\\%$ arterial stenosis or LV hypertrophy), choose a GLP-1 receptor agonist with proven CVD benefit or an SGLT2 inhibitor with proven CVD benefit; (2) In patients with heart failure (particularly HFrEF with LVEF $<45\\%$) or CKD (eGFR 30–60 mL/min/1.73 m² or UACR >30 mg/g), prioritize an SGLT2 inhibitor with evidence of reducing HF progression or CKD; if contraindicated or not tolerated, add a GLP-1 RA; (3) In patients without established ASCVD, HF, or CKD, branching depends on compelling clinical needs: minimizing hypoglycemia (DPP-4i, GLP-1 RA, SGLT2i, or TZD), promoting weight loss (GLP-1 RA or SGLT2i), or cost constraints (sulfonylureas or TZD). Note: Avoid TZDs in patients with established heart failure. ASCVD, atherosclerotic cardiovascular disease; CKD, chronic kidney disease; GLP-1 RA, glucagon-like peptide-1 receptor agonist; HF, heart failure; SGLT2i, sodium-glucose cotransporter-2 inhibitor; TZD, thiazolidinedione.
+
+First-line therapy for virtually all patients remains metformin alongside comprehensive lifestyle modification (healthful dietary pattern, weight management, and ≥ 150 minutes/week of moderate physical activity).
+
+Immediately following metformin initiation, patients are stratified into clinical branches based on high-risk comorbidities, independent of baseline HbA1c or individualized glycemic targets:
+1. **Established Atherosclerotic Cardiovascular Disease (ASCVD) or High ASCVD Risk:** Defined as established clinical ASCVD (prior MI, stroke, revascularization, angina) or high-risk indicators (age ≥ 55 years with $>50\%$ coronary, carotid, or lower-extremity stenosis, or left ventricular hypertrophy). In this cohort, clinicians should prioritize:
+   - A GLP-1 receptor agonist with proven CVD benefit (liraglutide, subcutaneous semaglutide, dulaglutide); or
+   - An SGLT2 inhibitor with proven CVD benefit (empagliflozin, canagliflozin, dapagliflozin).
+2. **Heart Failure Predominant (Especially HFrEF with LVEF $<45\%$):** Prioritize an SGLT2 inhibitor with demonstrated efficacy in reducing heart failure hospitalizations (empagliflozin, canagliflozin, dapagliflozin). If an SGLT2 inhibitor is contraindicated or not tolerated, add a GLP-1 RA with proven CVD benefit.
+3. **Chronic Kidney Disease (CKD) Predominant (eGFR 30–60 mL/min/1.73 m² or UACR >30 mg/g):** Prioritize an SGLT2 inhibitor with demonstrated renal progression reduction (empagliflozin, canagliflozin, dapagliflozin). If SGLT2 inhibitors are not tolerated or contraindicated, select a GLP-1 RA with proven renal and CV benefit.
+4. **Patients without Established ASCVD, HF, or CKD:** Therapeutic choice is guided by three patient-specific clinical priorities:
+   - *Compelling need to minimize hypoglycemia:* Choose DPP-4 inhibitor, GLP-1 RA, SGLT2 inhibitor, or TZD.
+   - *Compelling need to promote weight loss or prevent weight gain:* Prioritize GLP-1 RA with high weight-loss efficacy (semaglutide, liraglutide) or an SGLT2 inhibitor.
+   - *Cost represents a major barrier:* Use modern, SUR1-selective sulfonylureas (glimepiride, gliclazide) or generic thiazolidinediones (pioglitazone).
+
+*Absolute contraindications:* Avoid thiazolidinediones in any patient with established heart failure (NYHA Class III/IV). Avoid saxagliptin and alogliptin in patients with heart failure.
+
+</div></details>
+
+</div></details>
+
+<details class="med-details"><summary>
+
+## Future Directions and Emerging Therapeutics</summary><div class="details-content">
+
+<details class="med-details"><summary>
+
+### Cardiometabolic Medicine as an Integrated Specialty</summary><div class="details-content">
+
+The convergence of cardiovascular disease, diabetes, obesity, and chronic kidney disease has catalyzed the emergence of "Cardiometabolic Medicine" as a distinct clinical discipline. Cardiologists, endocrinologists, nephrologists, and primary care physicians must collaborate closely. Cardiologists in particular must embrace the role of initiating and managing SGLT2 inhibitors and GLP-1 RAs, recognizing that these agents are potent cardiovascular disease-modifying therapies rather than mere antidiabetic drugs.
+
+Multidisciplinary clinics focused on cardiorenal-metabolic syndrome optimize comprehensive risk-factor control, integrating lifestyle interventions, high-intensity statin therapy, RAAS blockade, antiplatelet therapy, and organoprotective glucose-lowering drugs into coordinated clinical workflows.
+
+</div></details>
+
+<details class="med-details"><summary>
+
+### Dual and Triple Incretin Receptor Co-Agonists: Tirzepatide and Beyond</summary><div class="details-content">
+
+The therapeutic frontier of incretin biology centers on multi-incretin receptor co-agonism. Tirzepatide is a first-in-class, synthetic 39-amino-acid peptide that functions as a dual glucose-dependent insulinotropic polypeptide (GIP) and GLP-1 receptor co-agonist. By combining GIP and GLP-1 receptor activation, tirzepatide synergistically augments glucose-dependent insulin secretion, improves white adipose tissue insulin sensitivity and buffering capacity, suppresses glucagon, and acts centrally to produce unprecedented appetite suppression.
+
+In the phase 3 SURPASS clinical trial program, tirzepatide demonstrated extraordinary glycemic and weight-reducing efficacy, achieving mean HbA1c reductions exceeding 2.3–2.5% and dose-dependent body weight reductions up to 12–15 kg (and up to 20–22% total body weight in the SURMOUNT obesity trials), substantially outperforming selective GLP-1 RAs (such as semaglutide 1.0 mg). Ongoing CVOTs (including SURPASS-CVOT) are rigorously evaluating whether dual GIP/GLP-1 agonism confers superior macrovascular protection compared to selective GLP-1 RAs.
+
+Beyond dual agonists, triple incretin receptor co-agonists (targeting GLP-1, GIP, and glucagon receptors, such as retatrutide) and non-peptide oral GLP-1 receptor small-molecule agonists (such as danuglipron and orforglipron) are advancing through clinical pipelines, promising transformative non-injectable options for global patient populations.
+
+</div></details>
+
+<details class="med-details"><summary>
+
+### Non-Glycemic Interventions: Vitamin D and Mineralocorticoid Antagonism</summary><div class="details-content">
+
+Interventions targeting auxiliary pathways have provided important negative and positive clinical insights:
+- **Vitamin D supplementation:** Chronic observational studies linked low circulating 25-hydroxyvitamin D concentrations to insulin resistance and increased diabetes risk. However, the randomized, double-blind Vitamin D and Type 2 Diabetes (D2d) trial enrolled 2423 individuals with prediabetes, administering 4000 IU of vitamin D3 daily versus placebo. Over 2.5 years, vitamin D supplementation did not significantly reduce progression to diabetes (HR 0.88; 95% CI 0.75–1.04; $P = 0.12$), indicating that vitamin D deficiency is a marker rather than a causative mediator of cardiometabolic risk.
+- **Non-steroidal mineralocorticoid receptor antagonists (MRAs):** The emergence of finerenone (evaluated in the FIDELIO-DKD and FIGARO-DKD trials) demonstrates that targeting aldosterone-mediated cardiorenal inflammation and fibrosis in diabetic nephropathy significantly reduces cardiovascular events and halts CKD progression without inducing adverse glycemic effects.
+
+</div></details>
+
+<details class="med-details"><summary>
+
+### Chapter Summary: Cardiocentric Principles of Diabetes Management</summary><div class="details-content">
+
+The treatment of type 2 diabetes has definitively entered a new era characterized by cardiorenal organoprotection:
+1. Diabetes is fundamentally a vascular and metabolic disease; cardiovascular death, heart failure, and renal failure are its primary catastrophic endpoints.
+2. Glycemic control is vital for preventing microvascular disease, but macrovascular protection requires specific cardioprotective drug classes rather than indiscriminate glucose lowering.
+3. SGLT2 inhibitors are primary therapies for preventing and treating heart failure and diabetic kidney disease, conferring early mortality and hospitalization benefits through hemodynamic and cellular mechanisms.
+4. GLP-1 receptor agonists are primary therapies for preventing atherosclerotic cardiovascular disease, stroke, and promoting significant weight reduction.
+5. In patients with established ASCVD, heart failure, or CKD, SGLT2 inhibitors and GLP-1 RAs should be initiated early after metformin regardless of baseline HbA1c.
+6. Severe hypoglycemia is an independent cardiovascular toxin that triggers sympathetic surges, prolonged QTc intervals, and fatal ventricular arrhythmias; sulfonylureas and non-analog insulins should be minimized or replaced with safer alternatives.
+7. Cardiovascular clinicians bear a direct responsibility to prescribe, manage, and advocate for organoprotective diabetes pharmacotherapies to extend survival and improve quality of life.
+
+</div></details>
+
+</div></details>

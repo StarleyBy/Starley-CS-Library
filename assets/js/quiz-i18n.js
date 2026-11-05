@@ -174,7 +174,12 @@
             tabPlaylists: "Playlists",
             tabHistory: "History",
             tabSettings: "Settings",
-            cabinetSynced: "🟢 Synced"
+            cabinetSynced: "🟢 Synced",
+            plViewerTitle: "Question List",
+            plViewerSolveAll: "Solve All",
+            plViewerEdit: "Edit",
+            plViewerSearchPh: "Search questions...",
+            plViewerClose: "Close"
         },
         Ru: {
             // General & Common
@@ -345,7 +350,12 @@
             tabPlaylists: "Сборники",
             tabHistory: "История",
             tabSettings: "Настройки",
-            cabinetSynced: "🟢 Синхронизировано"
+            cabinetSynced: "🟢 Синхронизировано",
+            plViewerTitle: "Список вопросов",
+            plViewerSolveAll: "Решить все",
+            plViewerEdit: "Изменить",
+            plViewerSearchPh: "Поиск по вопросам...",
+            plViewerClose: "Закрыть"
         }
     };
 

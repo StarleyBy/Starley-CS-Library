@@ -597,6 +597,177 @@ input[type=range]::-webkit-slider-thumb {
     margin-bottom: 22px;
 }
 
+/* Typography inside explanation content */
+.exp-content h3 {
+    margin: 18px 0 8px 0;
+    font-size: 1.15rem;
+    font-weight: 700;
+    color: var(--quiz-accent);
+    display: flex;
+    align-items: center;
+    gap: 8px;
+}
+.exp-content h3:first-child {
+    margin-top: 0;
+}
+.exp-content p {
+    margin: 0 0 12px 0;
+}
+.exp-content ul {
+    margin: 8px 0 14px 20px;
+    padding: 0;
+}
+.exp-content li {
+    margin-bottom: 6px;
+}
+
+/* ==========================================================================
+   EXPLANATION HIGHLIGHTS & INLINE COLOR ACCESSIBILITY (DARK THEME CONTRAST)
+   Prevents light-on-light illegible text when inline styles or <mark> are used
+   ========================================================================== */
+.exp-content mark,
+.quiz-screen mark,
+.explanation-box mark {
+    background: rgba(245, 158, 11, 0.22) !important;
+    color: #fef08a !important;
+    border: 1px solid rgba(245, 158, 11, 0.4);
+    border-radius: 4px;
+    padding: 1px 6px;
+    font-weight: 600;
+}
+
+/* Automatic conversion of light-yellow / cream backgrounds to accessible amber badge */
+.exp-content [style*="background-color: #ffffcc" i],
+.exp-content [style*="background-color:#ffffcc" i],
+.exp-content [style*="background-color: #fff2cc" i],
+.exp-content [style*="background-color:#fff2cc" i],
+.exp-content [style*="background-color: #FFFF00" i],
+.exp-content [style*="background-color:#FFFF00" i],
+.exp-content [style*="background-color: yellow" i],
+.exp-content [style*="background-color:yellow" i],
+.exp-content [style*="background: #ffffcc" i],
+.exp-content [style*="background:#ffffcc" i],
+.exp-content [style*="background: #fff2cc" i],
+.exp-content [style*="background:#fff2cc" i],
+.exp-content [style*="background: #FFFF00" i],
+.exp-content [style*="background:#FFFF00" i],
+.exp-content [style*="background: yellow" i],
+.exp-content [style*="background:yellow" i],
+.quiz-screen [style*="background-color: #ffffcc" i],
+.quiz-screen [style*="background-color:#ffffcc" i],
+.quiz-screen [style*="background-color: #fff2cc" i],
+.quiz-screen [style*="background-color:#fff2cc" i],
+.quiz-screen [style*="background-color: #FFFF00" i],
+.quiz-screen [style*="background-color: yellow" i] {
+    background-color: rgba(245, 158, 11, 0.22) !important;
+    color: #fef08a !important;
+    border: 1px solid rgba(245, 158, 11, 0.4);
+    border-radius: 4px;
+    padding: 2px 6px !important;
+    display: inline;
+}
+.exp-content [style*="background-color: #ffffcc" i] *,
+.exp-content [style*="background-color:#ffffcc" i] *,
+.exp-content [style*="background-color: #fff2cc" i] *,
+.exp-content [style*="background-color:#fff2cc" i] *,
+.exp-content [style*="background-color: #FFFF00" i] *,
+.exp-content [style*="background-color: yellow" i] *,
+.quiz-screen [style*="background-color: #ffffcc" i] *,
+.quiz-screen [style*="background-color:#ffffcc" i] *,
+.quiz-screen [style*="background-color: #fff2cc" i] *,
+.quiz-screen [style*="background-color: yellow" i] * {
+    color: #fef08a !important;
+}
+
+/* Automatic conversion of light-green / mint backgrounds to accessible emerald badge */
+.exp-content [style*="background-color: #e8f5e9" i],
+.exp-content [style*="background-color:#e8f5e9" i],
+.exp-content [style*="background-color: #e2f0d9" i],
+.exp-content [style*="background-color:#e2f0d9" i],
+.exp-content [style*="background-color: #90EE90" i],
+.exp-content [style*="background-color:#90EE90" i],
+.exp-content [style*="background-color: #00FF00" i],
+.exp-content [style*="background-color:#00FF00" i],
+.quiz-screen [style*="background-color: #e8f5e9" i],
+.quiz-screen [style*="background-color:#e8f5e9" i],
+.quiz-screen [style*="background-color: #e2f0d9" i] {
+    background-color: rgba(34, 197, 94, 0.2) !important;
+    color: #86efac !important;
+    border: 1px solid rgba(34, 197, 94, 0.4);
+    border-radius: 4px;
+    padding: 2px 6px !important;
+    display: inline;
+}
+.exp-content [style*="background-color: #e8f5e9" i] *,
+.exp-content [style*="background-color:#e8f5e9" i] *,
+.exp-content [style*="background-color: #e2f0d9" i] *,
+.exp-content [style*="background-color: #90EE90" i] *,
+.exp-content [style*="background-color: #00FF00" i] *,
+.quiz-screen [style*="background-color: #e8f5e9" i] *,
+.quiz-screen [style*="background-color:#e8f5e9" i] * {
+    color: #86efac !important;
+}
+
+/* Automatic conversion of cyan / light blue backgrounds to accessible sky badge */
+.exp-content [style*="background-color: #00FFFF" i],
+.exp-content [style*="background-color:#00FFFF" i],
+.exp-content [style*="background-color: #ADD8E6" i],
+.exp-content [style*="background-color:#ADD8E6" i],
+.quiz-screen [style*="background-color: #00FFFF" i],
+.quiz-screen [style*="background-color: #ADD8E6" i] {
+    background-color: rgba(56, 189, 248, 0.2) !important;
+    color: #7dd3fc !important;
+    border: 1px solid rgba(56, 189, 248, 0.4);
+    border-radius: 4px;
+    padding: 2px 6px !important;
+    display: inline;
+}
+.exp-content [style*="background-color: #00FFFF" i] *,
+.exp-content [style*="background-color: #ADD8E6" i] *,
+.quiz-screen [style*="background-color: #00FFFF" i] *,
+.quiz-screen [style*="background-color: #ADD8E6" i] * {
+    color: #7dd3fc !important;
+}
+
+/* Automatic conversion of orange backgrounds to accessible orange badge */
+.exp-content [style*="background-color: #FFA500" i],
+.exp-content [style*="background-color:#FFA500" i],
+.quiz-screen [style*="background-color: #FFA500" i] {
+    background-color: rgba(249, 115, 22, 0.2) !important;
+    color: #fdba74 !important;
+    border: 1px solid rgba(249, 115, 22, 0.4);
+    border-radius: 4px;
+    padding: 2px 6px !important;
+    display: inline;
+}
+.exp-content [style*="background-color: #FFA500" i] *,
+.quiz-screen [style*="background-color: #FFA500" i] * {
+    color: #fdba74 !important;
+}
+
+/* Brighten dark blue text (#007bff) for high contrast on dark backgrounds */
+.exp-content [style*="color: #007bff" i],
+.exp-content [style*="color:#007bff" i],
+.quiz-screen [style*="color: #007bff" i] {
+    color: #60a5fa !important;
+    font-weight: 600;
+}
+
+/* Brighten dark green text for high contrast on dark backgrounds */
+.exp-content [style*="color: green" i],
+.exp-content [style*="color:green" i],
+.quiz-screen [style*="color: green" i] {
+    color: #4ade80 !important;
+    font-weight: 600;
+}
+
+/* High contrast red text */
+.exp-content [style*="color: #e74c3c" i],
+.exp-content [style*="color:#e74c3c" i],
+.quiz-screen [style*="color: #e74c3c" i] {
+    color: #f87171 !important;
+}
+
 .exp-actions {
     display: flex;
     gap: 12px;

@@ -1169,6 +1169,39 @@
             </div>
         </div>
 
+        <!-- PLAYLIST QUESTIONS VIEWER MODAL -->
+        <div id="quiz-playlist-viewer-modal" class="quiz-modal-backdrop" style="display: none; position: fixed; inset: 0; background: rgba(0, 0, 0, 0.82); backdrop-filter: blur(8px); z-index: 1350; align-items: center; justify-content: center; padding: 16px;">
+            <div class="quiz-modal-card theme-glass" style="background: var(--quiz-card); border: 1px solid var(--quiz-border); border-radius: 20px; width: 100%; max-width: 620px; max-height: 85vh; display: flex; flex-direction: column; box-shadow: 0 20px 50px rgba(0,0,0,0.7); overflow: hidden; animation: modal-slide-in 0.25s ease-out;">
+                <div class="quiz-modal-header" style="padding: 16px 20px; display: flex; justify-content: space-between; align-items: center; border-bottom: 1px solid var(--quiz-border); background: var(--quiz-surface);">
+                    <div style="display: flex; align-items: center; gap: 10px; min-width: 0;">
+                        <span id="pl-viewer-icon" style="font-size: 1.5rem; line-height: 1;">📁</span>
+                        <div style="min-width: 0;">
+                            <h3 id="pl-viewer-title" data-i18n="plViewerTitle" style="margin: 0; font-size: 1.05rem; font-weight: 800; color: #58a6ff; white-space: nowrap; overflow: hidden; text-overflow: ellipsis;">Список вопросов</h3>
+                            <div id="pl-viewer-subtitle" data-i18n="questions" style="font-size: 0.78rem; color: var(--quiz-muted); margin-top: 2px;">0 вопросов</div>
+                        </div>
+                    </div>
+                    <button type="button" id="btn-close-pl-viewer-modal" class="quiz-modal-close" style="background: none; border: none; color: var(--quiz-muted); font-size: 1.2rem; cursor: pointer; padding: 4px;" title="Close"><i class="fas fa-times"></i></button>
+                </div>
+                
+                <div style="padding: 12px 20px; background: rgba(22, 27, 34, 0.5); border-bottom: 1px solid var(--quiz-border); display: flex; gap: 8px; align-items: center; flex-wrap: wrap;">
+                    <div style="position: relative; flex: 1; min-width: 180px;">
+                        <input type="text" id="input-pl-viewer-search" data-i18n-ph="plViewerSearchPh" placeholder="Поиск по вопросам..." style="width: 100%; padding: 8px 12px 8px 32px; border-radius: 8px; border: 1px solid var(--quiz-border); background: var(--quiz-surface); color: var(--quiz-text); font-size: 0.85rem;">
+                        <i class="fas fa-search" style="position: absolute; left: 10px; top: 50%; transform: translateY(-50%); color: var(--quiz-muted); font-size: 0.8rem; pointer-events: none;"></i>
+                    </div>
+                    <button type="button" id="btn-pl-viewer-solve-all" class="btn-primary" style="padding: 8px 14px; font-size: 0.8rem; border-radius: 8px; white-space: nowrap;">🚀 <span id="lbl-pl-viewer-solve-all" data-i18n="plViewerSolveAll">Решить все</span></button>
+                    <button type="button" id="btn-pl-viewer-edit" class="btn-outline" style="padding: 8px 12px; font-size: 0.8rem; border-radius: 8px; white-space: nowrap;">✏️ <span id="lbl-pl-viewer-edit" data-i18n="plViewerEdit">Изменить</span></button>
+                </div>
+
+                <div id="pl-viewer-body" class="quiz-modal-body" style="padding: 16px 20px; overflow-y: auto; flex: 1; display: flex; flex-direction: column; gap: 8px;">
+                    <!-- Dynamic question rows -->
+                </div>
+
+                <div class="quiz-modal-footer" style="padding: 12px 20px; display: flex; justify-content: flex-end; align-items: center; border-top: 1px solid var(--quiz-border); background: var(--quiz-surface);">
+                    <button type="button" id="btn-pl-viewer-close" class="btn-secondary" style="padding: 8px 18px; border-radius: 8px; font-size: 0.85rem;"><span id="lbl-pl-viewer-close" data-i18n="plViewerClose">Закрыть</span></button>
+                </div>
+            </div>
+        </div>
+
         <!-- EXIT QUIZ SESSION CONFIRM MODAL -->
         <div id="quiz-exit-confirm-modal" class="quiz-modal-backdrop" style="display: none; position: fixed; inset: 0; background: rgba(0, 0, 0, 0.82); backdrop-filter: blur(8px); z-index: 1400; align-items: center; justify-content: center; padding: 16px;">
             <div class="quiz-modal-card theme-glass" style="background: var(--quiz-card); border: 1px solid rgba(248, 113, 113, 0.3); border-radius: 20px; width: 100%; max-width: 440px; display: flex; flex-direction: column; box-shadow: 0 20px 50px rgba(0,0,0,0.7); overflow: hidden; animation: modal-slide-in 0.25s ease-out;">

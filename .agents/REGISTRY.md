@@ -15,6 +15,7 @@
 | L17 | Квиз-Мастер | local | 1.0 | `.agents/skills/quiz-master/SKILL.md` | Манифесты квиза из сборников: вопросы EN/RU, пояснения, таксономия (из существующих id), картинки, раскладка по тематическим квизам, реестры | `tools/validate-quiz.mjs`, `quiz/quiz-taxonomy.json` |
 | L18 | Квиз-Верификатор | local | 1.0 | `.agents/skills/quiz-verifier/SKILL.md` | Независимая приёмка вопросов: ключ по источникам, пояснение↔ответ, EN↔RU, реестры | `tools/validate-quiz.mjs`, `tools/quiz-baseline.json` |
 | L19 | Таксономист | local | 1.1 | `.agents/skills/taxonomist/SKILL.md` | Словарь таксономии, миграция id в манифестах, карта глав по темам, счётчики | `quiz/quiz-taxonomy.json`, `tools/migrate-taxonomy-ids.mjs`, `scripts/generate-taxonomy-bridge.js`, `scripts/build-book-taxonomy-map.js` |
+| L08 | Схематист | local | 1.0 | `.agents/skills/schematist/SKILL.md` | Клинические алгоритмы, схемы, деревья решений в SVG/HTML/Mermaid, атлас `books/summary/algorithms/`, внедрение в главы и квизы | `search/generate-search-index.js`, `tools/validate-chapters.mjs` |
 | L31 | Хранитель кэша и PWA | local | 1.0 | `.agents/skills/cache-keeper/SKILL.md` | Версии кэшей и `APP_SHELL` в `sw.js`, `manifest.json`, `offline.html`; решение, когда поднимать версию | `tools/check-sw-shell.mjs` |
 | L26 | UX квиза | local | 1.0 | `.agents/skills/quiz-ux/SKILL.md` | Интерфейс квиза: лобби, сессия, таймер, результаты, мобильная вёрстка, локализация RU/EN без смешения языков | `tools/map-functions.mjs`, `tools/check-quiz-i18n.mjs`, `tools/quiz-i18n-baseline.json` |
 | L32 | Хранитель репозитория | local | 1.0 | `.agents/skills/repo-keeper/SKILL.md` | Безопасные коммиты (preflight), R2 и pre-commit хук, размер файлов и истории, секреты, остатки LFS, публикация | `tools/preflight.mjs`, `tools/check-repo-health.mjs` |
@@ -35,6 +36,7 @@ ID соответствуют каталогу из плана агентов (L
 
 | Дата | Что изменено |
 |---|---|
+| 2026-11-04 | Добавлен агент «Схематист» (L08, v1.0, `.agents/skills/schematist/SKILL.md`) — синтез клинических схем, деревьев решений, алгоритмов и ведение книги-атласа `books/summary/algorithms/`. Создан атлас алгоритмов, сгенерирована обложка `cover.jpg` |
 | 2026-11-03 | Добавлен агент «Адъютант» (L00, v1.0, `.agents/skills/adjutant/SKILL.md`) — персональный секретарь и координатор задач. Введён единый стандарт обязательных бейджей ролей в ответах чата. Поддержаны шорткоды быстрого переключения агентов (`/adjutant`, `/editor`, `/coder`, `/preflight` и др.). В живой базе Supabase применён триггер защиты ролей, регистрация закрыта (OFF) |
 | 2026-10-26 | Проверка глав откалибрована по новому содержимому (EACVI Echo Handbook, новые главы guide): допустимы `open` в `<details>` и рисунки `<figure id="fig-…">`; базовая линия глав обновлена; новые находки описаны в дополнении к аудиту глав |
 | 2026-10-26 | Добавлен агент «Деплой и CI» (L34, v1.0) и патч `ci-preflight.patch` (шаг `node tools/preflight.mjs` в workflow перед публикацией; проверен на свежем клоне: ≈ 15 секунд, все жёсткие проверки проходят) |

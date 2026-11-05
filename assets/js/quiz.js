@@ -550,10 +550,13 @@ function mapCardToQuestion(card) {
 
 function getQuestionKey(q) {
     if (!q) return 'starley_sr_unknown';
-    const qId = q.id !== undefined ? q.id : (q.questionEn || q.question || '').substring(0, 50).replace(/[^a-zA-Z0-9]/g, '_');
-    const setId = q.setId || ((state.settings && state.settings.setId) ? state.settings.setId : 'full');
-    const bookPath = q.bookPath || state.bookPath || 'general';
-    return `starley_sr_${bookPath.replace(/[^a-zA-Z0-9]/g, '_')}_${setId.replace(/[^a-zA-Z0-9]/g, '_')}_${qId}`;
+    const rawQId = q.id !== undefined ? String(q.id) : (q.questionEn || q.question || '');
+    const qId = String(rawQId).substring(0, 50).replace(/[^a-zA-Z0-9]/g, '_');
+    const rawSetId = q.setId || ((state.settings && state.settings.setId) ? state.settings.setId : 'full');
+    const setId = String(rawSetId).replace(/[^a-zA-Z0-9]/g, '_');
+    const rawBookPath = q.bookPath || state.bookPath || 'general';
+    const bookPath = String(rawBookPath).replace(/[^a-zA-Z0-9]/g, '_');
+    return `starley_sr_${bookPath}_${setId}_${qId}`;
 }
 
 async function loadQuizTaxonomy() {
@@ -713,13 +716,16 @@ function getQuestionTopic(q) {
 }
 
 function getQuestionMastery(q) {
-    const key = getQuestionKey(q);
-    const stored = localStorage.getItem(key);
-    if (!stored) {
-        return { state: 'unseen', consecutiveCorrect: 0, views: 0 };
-    }
     try {
+        const key = getQuestionKey(q);
+        const stored = localStorage.getItem(key);
+        if (!stored) {
+            return { state: 'unseen', consecutiveCorrect: 0, views: 0 };
+        }
         const parsed = JSON.parse(stored);
+        if (!parsed || typeof parsed !== 'object') {
+            return { state: 'unseen', consecutiveCorrect: 0, views: 0 };
+        }
         if (!parsed.state) parsed.state = 'unseen';
         return parsed;
     } catch (e) {
@@ -728,10 +734,15 @@ function getQuestionMastery(q) {
 }
 
 function saveQuestionMastery(q, mastery) {
-    const key = getQuestionKey(q);
-    mastery.views = (mastery.views || 0) + 1;
-    mastery.lastSeen = Date.now();
-    localStorage.setItem(key, JSON.stringify(mastery));
+    try {
+        if (!mastery || typeof mastery !== 'object') return;
+        const key = getQuestionKey(q);
+        mastery.views = (mastery.views || 0) + 1;
+        mastery.lastSeen = Date.now();
+        localStorage.setItem(key, JSON.stringify(mastery));
+    } catch (e) {
+        console.warn('[Quiz] saveQuestionMastery warning:', e);
+    }
 }
 
 /**
@@ -976,8 +987,12 @@ function renderLatexInElement(el) {
 
 function _markdownToHtml(txt) {
     if (!txt) return '';
+    // Strip newlines inside <table> and <svg> to prevent browser foster parenting of <br>
+    let html = txt.replace(/<table[\s\S]*?<\/table>/gi, match => match.replace(/\r?\n\s*/g, ''))
+                  .replace(/<svg[\s\S]*?<\/svg>/gi, match => match.replace(/\r?\n\s*/g, ' '))
+                  .replace(/\$\$[\s\S]*?\$\$/g, match => match.replace(/\r?\n\s*/g, ' '));
     // Convert [text](url) markdown links
-    let html = txt.replace(/\[([^\]]+)\]\(([^)]+)\)/g, (match, label, url) => {
+    html = html.replace(/\[([^\]]+)\]\(([^)]+)\)/g, (match, label, url) => {
         const isTable = url.startsWith('#/tables/') || url.includes('#/tables/') || url.startsWith('#guidelines');
         const targetAttr = isTable ? '' : ' target="_blank" rel="noopener"';
         const cls = isTable ? 'quiz-table-link' : 'quiz-ext-link';
@@ -4000,13 +4015,15 @@ function submitCustomCardAnswer(isCorrect) {
     mastery.lastAnswered = Date.now();
     saveQuestionMastery(q, mastery);
 
-    state.answers.push({
+    const cardAnswerRecord = {
         questionId: q.id,
         chosen: isCorrect ? 'A' : '',
         correct: 'A',
         time: Date.now() - state.questionStartTime,
         isCorrect: isCorrect
-    });
+    };
+    if (!Array.isArray(state.answers)) state.answers = [];
+    state.answers[state.currentIndex] = cardAnswerRecord;
 
     setTimeout(() => {
         if (state.currentIndex < state.questions.length - 1) {
@@ -4114,13 +4131,15 @@ function submitAnswer(forceWrong = false) {
         triggerHaptic('wrong');
     }
 
-    state.answers.push({
+    const answerRecord = {
         questionId: q.id,
         chosen: q.multiAnswer ? userChoices : userChoices[0],
         correct: q.correctAnswer,
         time: Date.now() - state.questionStartTime,
         isCorrect: isCorrect
-    });
+    };
+    if (!Array.isArray(state.answers)) state.answers = [];
+    state.answers[state.currentIndex] = answerRecord;
 
     if (state.settings.exam) {
         const mastery = getQuestionMastery(q);
@@ -4321,10 +4340,17 @@ function showExplanation() {
         nextBtn.style.display = '';
     }
     const isRu = lang === 'Ru';
-    if (state.currentIndex === state.questions.length - 1) {
-        nextBtn.innerHTML = (isRu ? 'Результаты ' : 'See Results ') + '<i class="fas fa-flag-checkered"></i>';
-    } else {
-        nextBtn.innerHTML = (isRu ? 'Далее ' : 'Next Question ') + '<i class="fas fa-chevron-right"></i>';
+    const isLastQ = state.currentIndex === state.questions.length - 1;
+    if (nextBtn) {
+        if (isLastQ) {
+            nextBtn.innerHTML = (isRu ? 'Результаты ' : 'See Results ') + '<i class="fas fa-flag-checkered"></i>';
+        } else {
+            nextBtn.innerHTML = (isRu ? 'Далее ' : 'Next Question ') + '<i class="fas fa-chevron-right"></i>';
+        }
+    }
+    const cdNextTxt = document.getElementById('txt-cd-next-action');
+    if (cdNextTxt) {
+        cdNextTxt.textContent = isLastQ ? (isRu ? 'Итоги' : 'Results') : (isRu ? 'Далее' : 'Next');
     }
 }
 
@@ -4616,23 +4642,34 @@ window.addEventListener('popstate', () => {
 function setupQuestionListeners() {
     // Shared Next Question handler used by both #btn-next-q and bottom CD action
     const handleNextQuestionFlow = () => {
-        const q = state.questions[state.currentIndex];
-        const confContainer = document.getElementById('confidence-rating-container');
-        if (confContainer && confContainer.style.display === 'block') {
-            const btnUnsure = document.getElementById('chip-unsure');
-            const btnEasy = document.getElementById('chip-easy');
-            if (btnUnsure && btnEasy && !btnUnsure.classList.contains('active') && !btnEasy.classList.contains('active')) {
-                const mastery = getQuestionMastery(q);
-                mastery.consecutiveCorrect = (mastery.consecutiveCorrect || 0) + 1;
-                if (mastery.consecutiveCorrect === 1) mastery.state = 'yellow';
-                else if (mastery.consecutiveCorrect >= 2) mastery.state = 'green';
-                mastery.lastAnswered = Date.now();
-                saveQuestionMastery(q, mastery);
+        const q = state.questions && state.questions[state.currentIndex];
+        try {
+            const confContainer = document.getElementById('confidence-rating-container');
+            if (confContainer && confContainer.style.display === 'block' && q) {
+                const btnUnsure = document.getElementById('chip-unsure');
+                const btnEasy = document.getElementById('chip-easy');
+                if (btnUnsure && btnEasy && !btnUnsure.classList.contains('active') && !btnEasy.classList.contains('active')) {
+                    const mastery = getQuestionMastery(q);
+                    mastery.consecutiveCorrect = (mastery.consecutiveCorrect || 0) + 1;
+                    if (mastery.consecutiveCorrect === 1) mastery.state = 'yellow';
+                    else if (mastery.consecutiveCorrect >= 2) mastery.state = 'green';
+                    mastery.lastAnswered = Date.now();
+                    saveQuestionMastery(q, mastery);
+                }
             }
+        } catch (e) {
+            console.warn('[Quiz] confidence rating auto-save error:', e);
         }
 
         // Check if there are unanswered questions in the deck queue
-        const totalQ = state.questions.length;
+        const totalQ = (state.questions || []).length;
+        if (totalQ === 0) return;
+
+        // Ensure deck queue is always valid and in sync
+        if (!state.deck || state.deck.length !== totalQ) {
+            state.deck = Array.from({ length: totalQ }, (_, i) => i);
+        }
+
         const answeredCount = (state.answers || []).filter(a => a && a.chosen != null).length;
 
         // If current question index in deck has a next question, step forward
@@ -9205,16 +9242,19 @@ function renderPlaylistsTab() {
 
             return `
                 <div style="background: rgba(13, 17, 23, 0.7); border: 1px solid var(--quiz-border); border-radius: 12px; padding: 14px; display: flex; flex-direction: column; justify-content: space-between;">
-                    <div>
+                    <div onclick="openPlaylistViewerModal('${pl.id}')" style="cursor: pointer;" title="${isRu ? 'Открыть список вопросов' : 'View questions list'}">
                         <div style="display: flex; align-items: center; gap: 10px; margin-bottom: 6px;">
                             <span style="font-size: 1.5rem; line-height: 1;">${iconChar}</span>
                             <div style="font-weight: 800; font-size: 0.95rem; color: var(--quiz-text); white-space: nowrap; overflow: hidden; text-overflow: ellipsis;">${escapeHTML(pl.title)}</div>
                         </div>
                         <div style="font-size: 0.78rem; color: var(--quiz-muted);">${qCount} ${isRu ? 'вопросов' : 'questions'} (${isRu ? 'Сборник' : 'Collection'} #${idx + 1})</div>
                     </div>
-                    <div style="display: flex; gap: 6px; margin-top: 12px;">
-                        <button type="button" onclick="launchPlaylistQuiz('${pl.id}')" class="btn-primary" style="flex: 1; padding: 6px; font-size: 0.78rem; border-radius: 8px;">🚀 ${isRu ? 'Старт' : 'Play'}</button>
-                        <button type="button" onclick="openPlaylistEditorModal('${pl.id}')" class="btn-outline" style="padding: 6px 10px; font-size: 0.78rem; border-radius: 8px;" title="Edit Title & Icon">✏️ ${isRu ? 'Изменить' : 'Edit'}</button>
+                    <div style="display: flex; flex-direction: column; gap: 6px; margin-top: 12px;">
+                        <button type="button" onclick="launchPlaylistQuiz('${pl.id}')" class="btn-primary" style="width: 100%; padding: 7px 10px; font-size: 0.8rem; border-radius: 8px; font-weight: 700;" ${qCount === 0 ? 'disabled style="opacity: 0.5; width: 100%; padding: 7px 10px; font-size: 0.8rem; border-radius: 8px; font-weight: 700;"' : ''}>🚀 ${isRu ? 'Старт (все)' : 'Play All'}</button>
+                        <div style="display: flex; gap: 6px;">
+                            <button type="button" onclick="openPlaylistViewerModal('${pl.id}')" class="btn-outline" style="flex: 1; padding: 6px 8px; font-size: 0.78rem; border-radius: 8px; color: #58a6ff; border-color: rgba(88,166,255,0.4);" title="${isRu ? 'Просмотреть вопросы' : 'View questions'}">📋 ${isRu ? 'Вопросы' : 'Questions'} (${qCount})</button>
+                            <button type="button" onclick="openPlaylistEditorModal('${pl.id}')" class="btn-outline" style="padding: 6px 10px; font-size: 0.78rem; border-radius: 8px;" title="${isRu ? 'Редактировать название и иконку' : 'Edit Title & Icon'}">✏️</button>
+                        </div>
                     </div>
                 </div>
             `;
@@ -9427,6 +9467,181 @@ window.addSelectedQuestionToPlaylist = function() {
     }
 };
 
+let currentViewingPlaylistId = null;
+
+window.openPlaylistViewerModal = async function(playlistId) {
+    if (!Array.isArray(state.userPlaylists)) state.userPlaylists = [];
+    const pl = state.userPlaylists.find(p => p.id === playlistId || String(p.id) === String(playlistId));
+    if (!pl) return;
+
+    currentViewingPlaylistId = pl.id;
+
+    const modal = document.getElementById('quiz-playlist-viewer-modal');
+    if (!modal) return;
+
+    const isRu = (state.settings && state.settings.lang) ? state.settings.lang === 'Ru' : true;
+    const searchInput = document.getElementById('input-pl-viewer-search');
+    if (searchInput) {
+        searchInput.value = '';
+        searchInput.placeholder = isRu ? 'Поиск по вопросам...' : 'Search questions...';
+        searchInput.oninput = () => renderPlaylistViewerQuestions();
+    }
+
+    const btnSolveAll = document.getElementById('btn-pl-viewer-solve-all');
+    if (btnSolveAll) {
+        btnSolveAll.onclick = () => {
+            modal.style.display = 'none';
+            launchPlaylistQuiz(pl.id);
+        };
+    }
+
+    const btnEdit = document.getElementById('btn-pl-viewer-edit');
+    if (btnEdit) {
+        btnEdit.onclick = () => {
+            modal.style.display = 'none';
+            openPlaylistEditorModal(pl.id);
+        };
+    }
+
+    const btnClose = document.getElementById('btn-close-pl-viewer-modal');
+    if (btnClose) {
+        btnClose.onclick = () => { modal.style.display = 'none'; };
+    }
+
+    const btnFooterClose = document.getElementById('btn-pl-viewer-close');
+    if (btnFooterClose) {
+        btnFooterClose.onclick = () => { modal.style.display = 'none'; };
+    }
+
+    modal.onclick = (e) => {
+        if (e.target === modal) modal.style.display = 'none';
+    };
+
+    modal.style.display = 'flex';
+
+    if (!state.allQuizRegistry || state.allQuizRegistry.length === 0) {
+        loadAllQuizManifestIndex().then(() => {
+            renderPlaylistViewerQuestions();
+        }).catch(() => {});
+    }
+
+    renderPlaylistViewerQuestions();
+};
+
+window.renderPlaylistViewerQuestions = function() {
+    const pl = state.userPlaylists.find(p => p.id === currentViewingPlaylistId || String(p.id) === String(currentViewingPlaylistId));
+    if (!pl) return;
+    if (!Array.isArray(pl.questionIds)) pl.questionIds = [];
+
+    const isRu = (state.settings && state.settings.lang) ? state.settings.lang === 'Ru' : true;
+
+    const iconEl = document.getElementById('pl-viewer-icon');
+    const titleEl = document.getElementById('pl-viewer-title');
+    const subtitleEl = document.getElementById('pl-viewer-subtitle');
+    const bodyEl = document.getElementById('pl-viewer-body');
+    const lblSolveAll = document.getElementById('lbl-pl-viewer-solve-all');
+    const lblEdit = document.getElementById('lbl-pl-viewer-edit');
+    const lblClose = document.getElementById('lbl-pl-viewer-close');
+
+    if (iconEl) iconEl.textContent = getPlaylistIconChar(pl.iconId);
+    if (titleEl) titleEl.textContent = pl.title || (isRu ? 'Сборник' : 'Collection');
+    if (subtitleEl) subtitleEl.textContent = `${pl.questionIds.length} ${isRu ? 'вопросов' : 'questions'}`;
+    if (lblSolveAll) lblSolveAll.textContent = isRu ? 'Решить все' : 'Solve All';
+    if (lblEdit) lblEdit.textContent = isRu ? 'Изменить' : 'Edit';
+    if (lblClose) lblClose.textContent = isRu ? 'Закрыть' : 'Close';
+
+    const searchInput = document.getElementById('input-pl-viewer-search');
+    const query = (searchInput ? searchInput.value : '').trim().toLowerCase();
+
+    if (!bodyEl) return;
+
+    if (pl.questionIds.length === 0) {
+        bodyEl.innerHTML = `
+            <div style="color: var(--quiz-muted); text-align: center; padding: 32px 16px; font-size: 0.9rem;">
+                <div style="font-size: 2rem; margin-bottom: 8px;">📭</div>
+                <div>${isRu ? 'В этом сборнике пока нет вопросов.' : 'No questions in this collection yet.'}</div>
+                <div style="font-size: 0.8rem; margin-top: 6px; color: var(--quiz-muted);">${isRu ? 'Нажмите ⭐ или кнопку включения в сборник во время квиза, либо добавьте их через кнопку «Изменить».' : 'Add questions by clicking ⭐ or the collection button during a quiz, or via "Edit".'}</div>
+            </div>
+        `;
+        return;
+    }
+
+    const items = [];
+    pl.questionIds.forEach((specId, idx) => {
+        const cleanId = String(specId).trim();
+        const parsed = parseSpecialId(cleanId);
+        const resolvedQ = resolveQuestionBySpecialId(cleanId);
+        const qText = resolvedQ ? ((isRu ? (resolvedQ.questionRu || resolvedQ.questionEn) : (resolvedQ.questionEn || resolvedQ.questionRu)) || '') : '';
+        const cleanSnippet = qText.replace(/<[^>]*>/g, '').trim();
+        const displaySnippet = cleanSnippet || (isRu ? `Вопрос со спец-ID: ${cleanId}` : `Question with special ID: ${cleanId}`);
+
+        if (query) {
+            const matchesText = cleanSnippet.toLowerCase().includes(query);
+            const matchesId = cleanId.toLowerCase().includes(query) || (parsed && parsed.cleanSpecialId.toLowerCase().includes(query));
+            if (!matchesText && !matchesId) return;
+        }
+
+        items.push({
+            idx,
+            specId: cleanId,
+            parsed,
+            resolvedQ,
+            snippet: displaySnippet
+        });
+    });
+
+    if (items.length === 0) {
+        bodyEl.innerHTML = `<div style="color: var(--quiz-muted); text-align: center; padding: 24px; font-size: 0.85rem;">${isRu ? 'По вашему запросу ничего не найдено.' : 'No questions match your search query.'}</div>`;
+        return;
+    }
+
+    bodyEl.innerHTML = items.map(item => `
+        <div style="display: flex; justify-content: space-between; align-items: center; gap: 10px; padding: 10px 12px; background: rgba(22, 27, 34, 0.6); border: 1px solid var(--quiz-border); border-radius: 10px; font-size: 0.85rem; color: var(--quiz-text); transition: background 0.15s;" onmouseover="this.style.background='rgba(88,166,255,0.08)'" onmouseout="this.style.background='rgba(22,27,34,0.6)'">
+            <div onclick="previewQuestionFromPlaylist('${escapeHTML(item.specId)}')" style="flex: 1; min-width: 0; cursor: pointer;" title="${isRu ? 'Нажмите, чтобы решить этот вопрос' : 'Click to solve this question'}">
+                <div style="display: flex; align-items: center; gap: 6px; margin-bottom: 4px;">
+                    <span style="color: var(--quiz-muted); font-size: 0.75rem; font-weight: 700;">#${item.idx + 1}</span>
+                    <span style="color: #eab308; font-weight: 800; font-size: 0.78rem; background: rgba(234,179,8,0.12); padding: 1px 6px; border-radius: 4px;">[${item.parsed ? item.parsed.cleanSpecialId : escapeHTML(item.specId)}]</span>
+                </div>
+                <div style="font-size: 0.85rem; line-height: 1.35; color: var(--quiz-text); overflow: hidden; text-overflow: ellipsis; display: -webkit-box; -webkit-line-clamp: 2; -webkit-box-orient: vertical;">${escapeHTML(item.snippet)}</div>
+            </div>
+            <div style="display: flex; gap: 6px; align-items: center; flex-shrink: 0;">
+                <button type="button" onclick="previewQuestionFromPlaylist('${escapeHTML(item.specId)}')" class="btn-primary" style="padding: 5px 10px; font-size: 0.75rem; border-radius: 6px; white-space: nowrap;">▶ ${isRu ? 'Решить' : 'Solve'}</button>
+                <button type="button" onclick="removeQuestionFromPlaylistViewer('${escapeHTML(item.specId)}')" style="background: none; border: none; color: #f87171; cursor: pointer; font-size: 0.95rem; padding: 4px 6px; border-radius: 4px;" title="${isRu ? 'Удалить из сборника' : 'Remove from collection'}">✕</button>
+            </div>
+        </div>
+    `).join('');
+};
+
+window.previewQuestionFromPlaylist = function(specId) {
+    const viewerModal = document.getElementById('quiz-playlist-viewer-modal');
+    if (viewerModal) viewerModal.style.display = 'none';
+    previewFavoriteQuestion(specId);
+};
+
+window.removeQuestionFromPlaylistViewer = function(specId) {
+    const pl = state.userPlaylists.find(p => p.id === currentViewingPlaylistId || String(p.id) === String(currentViewingPlaylistId));
+    if (!pl) return;
+    const isRu = (state.settings && state.settings.lang) ? state.settings.lang === 'Ru' : true;
+
+    if (!confirm(isRu ? 'Удалить этот вопрос из сборника?' : 'Remove this question from the collection?')) {
+        return;
+    }
+
+    if (Array.isArray(pl.questionIds)) {
+        pl.questionIds = pl.questionIds.filter(id => id !== specId);
+        pl.count = pl.questionIds.length;
+    }
+    const user = window.AuthSystem ? window.AuthSystem.getCurrentUser() : null;
+    if (user && !user.isGuest && window.SupabaseAPI) {
+        window.SupabaseAPI.togglePlaylistItem(pl.id, specId, false)
+            .catch(err => console.warn('[Playlist] remove item failed:', err));
+    } else {
+        localStorage.setItem('starley_user_playlists', JSON.stringify(state.userPlaylists));
+    }
+    renderPlaylistViewerQuestions();
+    renderPlaylistsTab();
+};
+
 window.openPlaylistEditorModal = function(playlistId) {
     const pl = state.userPlaylists.find(p => p.id === playlistId || String(p.id) === String(playlistId));
     if (!pl) return;
@@ -9545,8 +9760,12 @@ window.launchPlaylistQuiz = async function(playlistId) {
         return;
     }
 
+    const viewerModal = document.getElementById('quiz-playlist-viewer-modal');
+    if (viewerModal) viewerModal.style.display = 'none';
+
     state.questions = shuffleArray(plQuestions);
     state.currentIndex = 0;
+    state.deck = Array.from({ length: state.questions.length }, (_, i) => i);
     state.score = 0;
     state.answers = [];
     state.startTime = Date.now();
@@ -9583,6 +9802,8 @@ window.previewFavoriteQuestion = async function(specialIdStr) {
 
     const cabinetModal = document.getElementById('quiz-profile-modal');
     if (cabinetModal) cabinetModal.style.display = 'none';
+    const viewerModal = document.getElementById('quiz-playlist-viewer-modal');
+    if (viewerModal) viewerModal.style.display = 'none';
 
     await loadAllQuizManifestIndex();
     let targetQ = resolveQuestionBySpecialId(cleanId);
@@ -9601,6 +9822,7 @@ window.previewFavoriteQuestion = async function(specialIdStr) {
     // Launch single question in test mode
     state.questions = [targetQ];
     state.currentIndex = 0;
+    state.deck = [0];
     state.score = 0;
     state.answers = [];
     state.startTime = Date.now();

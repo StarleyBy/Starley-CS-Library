@@ -5,7 +5,13 @@
       "title": "Summary",
       "path": "books/summary",
       "books": [
-        { "folder": "mysummary", "visibility": "admin-only" }
+        {
+          "folder": "mysummary",
+          "visibility": "admin-only"
+        },
+        {
+          "folder": "algorithms"
+        }
       ]
     },
     {
@@ -13,10 +19,18 @@
       "title": "Intensive therapy",
       "path": "books/icu",
       "books": [
-        { "folder": "bojar" },
-        { "folder": "oxford" },
-        { "folder": "Pilbeam" },    
-        { "folder": "marino" }
+        {
+          "folder": "bojar"
+        },
+        {
+          "folder": "oxford"
+        },
+        {
+          "folder": "Pilbeam"
+        },
+        {
+          "folder": "marino"
+        }
       ]
     },
     {
@@ -24,12 +38,24 @@
       "title": "Cardiac Surgery",
       "path": "books/cardiac-surgery",
       "books": [
-        { "folder": "cohn" },
-        { "folder": "Kirklin5" },
-        { "folder": "Spray6" },
-        { "folder": "sellke" },
-        { "folder": "Key-questions-in-congenital-cardiac-surgery" },
-        { "folder": "Key-questions-in-cardiac-surgery" }    
+        {
+          "folder": "cohn"
+        },
+        {
+          "folder": "Kirklin5"
+        },
+        {
+          "folder": "Spray6"
+        },
+        {
+          "folder": "sellke"
+        },
+        {
+          "folder": "Key-questions-in-congenital-cardiac-surgery"
+        },
+        {
+          "folder": "Key-questions-in-cardiac-surgery"
+        }
       ]
     },
     {
@@ -37,25 +63,35 @@
       "title": "Thoracic Surgery",
       "path": "books/thoracic-surgery",
       "books": [
-        { "folder": "Sugarbaker2" }
-     ]
+        {
+          "folder": "Sugarbaker2"
+        }
+      ]
     },
     {
       "id": "cardiology",
       "title": "Cardiology",
       "path": "books/cardiology",
       "books": [
-        { "folder": "Hurst" }
-     ]
+        {
+          "folder": "Hurst"
+        }
+      ]
     },
     {
       "id": "anatomy",
       "title": "Anatomy",
       "path": "books/anatomy",
       "books": [
-        { "folder": "mori" },
-        { "folder": "wilcox" },
-        { "folder": "Netter-Cardiothoracic-Anatomy" }
+        {
+          "folder": "mori"
+        },
+        {
+          "folder": "wilcox"
+        },
+        {
+          "folder": "Netter-Cardiothoracic-Anatomy"
+        }
       ]
     },
     {
@@ -63,26 +99,38 @@
       "title": "Cardiovascular System",
       "path": "books/cardiovascular-system",
       "books": [
-            { "folder": "cardiovascular-system-glance" },
-            { "folder": "handbook-of-cardiac-anatomy" }
+        {
+          "folder": "cardiovascular-system-glance"
+        },
+        {
+          "folder": "handbook-of-cardiac-anatomy"
+        }
       ]
     },
-      {
-        "id": "cardiac echo",
-        "title": "Cardiac Echo",
-        "path": "books/cardiac-echo",
-        "books": [
-          { "folder": "Echo6" },
-          { "folder": "eacvi-echo-handbook" }
-        ]
-      },
+    {
+      "id": "cardiac echo",
+      "title": "Cardiac Echo",
+      "path": "books/cardiac-echo",
+      "books": [
+        {
+          "folder": "Echo6"
+        },
+        {
+          "folder": "eacvi-echo-handbook"
+        }
+      ]
+    },
     {
       "id": "ecg",
       "title": "ECG",
       "path": "books/ecg",
       "books": [
-            { "folder": "ECG_Interpretation_for_Everyone" },
-            { "folder": "ECGs_Made_Easy" }
+        {
+          "folder": "ECG_Interpretation_for_Everyone"
+        },
+        {
+          "folder": "ECGs_Made_Easy"
+        }
       ]
     },
     {
@@ -90,8 +138,12 @@
       "title": "Drugs",
       "path": "books/drugs",
       "books": [
-            { "folder": "drugs-in-icu-oxford" },
-            { "folder": "opie's-cardiovascular-drugs" }
+        {
+          "folder": "drugs-in-icu-oxford"
+        },
+        {
+          "folder": "opie's-cardiovascular-drugs"
+        }
       ]
     },
     {
@@ -99,17 +151,26 @@
       "title": "Guidelines",
       "path": "books/guidelines",
       "books": [
-            { "folder": "guide" },
-            { "folder": "article" }
-      ] 
+        {
+          "folder": "guide"
+        },
+        {
+          "folder": "article"
+        }
+      ]
     },
     {
       "id": "work",
       "title": "Service",
       "path": "books/work",
       "books": [
-            { "folder": "wolfson", "visibility": "admin-only"  },
-            { "folder": "examen"}
+        {
+          "folder": "wolfson",
+          "visibility": "admin-only"
+        },
+        {
+          "folder": "examen"
+        }
       ]
     }
   ]

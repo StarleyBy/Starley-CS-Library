@@ -1,0 +1,64 @@
+[
+  {
+    "title": "STARLEY CLINICAL ALGORITHMS & FLOWCHARTS",
+    "russian_title": "Клинические алгоритмы и расчетные схемы Starley",
+    "cover_image": "cover.jpg",
+    "category": [
+      "cardiology",
+      "cardiac-surgery",
+      "thoracic",
+      "icu",
+      "summary"
+    ],
+    "authors": [
+      "Starley"
+    ],
+    "magazine": false,
+    "quiz": false,
+    "versions": {
+      "original": true,
+      "russian": true,
+      "starley": true,
+      "hebrew": false
+    },
+    "chapters": [
+      {
+        "file": "chapter-01.md",
+        "title": "1. Cardiology & Diagnostic Algorithms",
+        "russian": "1. Кардиология и диагностические алгоритмы"
+      },
+      {
+        "file": "chapter-02.md",
+        "title": "2. Adult Cardiac Surgery",
+        "russian": "2. Кардиохирургия взрослых"
+      },
+      {
+        "file": "chapter-03.md",
+        "title": "3. Congenital Heart Disease (CHD)",
+        "russian": "3. Врожденные пороки сердца (ВПС)"
+      },
+      {
+        "file": "chapter-04.md",
+        "title": "4. General Thoracic Surgery",
+        "russian": "4. Торакальная хирургия"
+      },
+      {
+        "file": "chapter-05.md",
+        "title": "5. Critical Care & Perioperative Hemodynamics",
+        "russian": "5. Интенсивная терапия и периоперационная гемодинамика"
+      },
+      {
+        "file": "chapter-06.md",
+        "title": "6. Cardiovascular Physiology & Hemodynamic Calculations",
+        "russian": "6. Сердечно-сосудистая физиология и расчеты гемодинамики"
+      },
+      {
+        "file": "chapter-07.md",
+        "title": "7. Vascular Surgery",
+        "russian": "7. Сосудистая хирургия"
+      }
+    ],
+    "appendices": []
+  }
+]
+
