@@ -1,0 +1,25 @@
+/* Scheme Zoom Overlay Styles */
+.scheme-zoom-wrapper {
+    position: fixed;
+    inset: 0;
+    background: rgba(0,0,0,.85);
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    z-index: 12000; /* above all UI */
+    cursor: zoom-out;
+    overflow: auto; /* allow scrolling when zoomed larger */
+}
+.scheme-zoom-wrapper svg {
+    /* Remove max size limits to allow arbitrary scaling */
+    max-width: none;
+    max-height: none;
+    width: auto;
+    height: auto;
+    animation: fadeIn 0.2s ease-out;
+}
+@keyframes fadeIn {
+    from { opacity: 0; }
+    to   { opacity: 1; }
+}
+
