@@ -4,7 +4,7 @@
 
 <details class="med-details"><summary>
 
-## Executive Summary: Evidence-Based Diabetology and Cardiorenal Protection</summary><div class="details-content">
+## Executive Summary</summary><div class="details-content">
 
 <details class="med-details"><summary>
 
@@ -113,11 +113,11 @@ This revolution was catalyzed by the 2008 US Food and Drug Administration (FDA) 
 
 <details class="med-details"><summary>
 
-## Metabolic Syndrome and Prediabetes</summary><div class="details-content">
+## 1. Metabolic Syndrome and Prediabetes</summary><div class="details-content">
 
 <details class="med-details"><summary>
 
-### Pathophysiology of the Metabolic Syndrome</summary><div class="details-content">
+### 1.1 Pathophysiology of the Metabolic Syndrome</summary><div class="details-content">
 
 Obesity has become an escalating global public health crisis and represents the single strongest clinical predictor of type 2 diabetes mellitus (T2DM). In Western societies, it is estimated that nearly one-third of the population will develop T2DM over their lifespan, predisposing individuals to extensive macrovascular and microvascular complications. The metabolic syndrome (MetSyn) describes a constellation of metabolic derangements—a prediabetic state—characterized by central adiposity, fasting hyperglycemia, elevated arterial blood pressure, elevated circulating triglycerides, and reduced high-density lipoprotein cholesterol (HDL-C).
 
@@ -133,7 +133,7 @@ In the liver, high FFA delivery and hyperinsulinemia drive excessive hepatic glu
 
 <details class="med-details"><summary>
 
-### Atherogenic Dyslipidemia in Metabolic Syndrome</summary><div class="details-content">
+### 1.2 Atherogenic Dyslipidemia in Metabolic Syndrome</summary><div class="details-content">
 
 A consistent hallmark of the metabolic syndrome is atherogenic dyslipidemia, characterized by elevated circulating triglycerides and reduced HDL cholesterol ([Fig. 4.1](#fig-04-01)). The core abnormality stems from overproduction and delayed clearance of apolipoprotein B (ApoB)-containing lipoproteins: VLDL and triglyceride-rich lipoprotein remnants (TG-rL). Levels of TG-rL and ApoB rise secondary to accelerated hepatic VLDL synthesis, prolonged postprandial lipemia following dietary fat intake, and diminished peripheral lipoprotein lipase (LPL) activity.
 
@@ -149,7 +149,7 @@ Similarly, triglyceride enrichment of LDL followed by hepatic lipase hydrolysis 
 
 <details class="med-details"><summary>
 
-### Diagnostic Criteria and Clinical Recognition</summary><div class="details-content">
+### 1.3 Diagnostic Criteria and Clinical Recognition</summary><div class="details-content">
 
 Multiple definitions of the metabolic syndrome have been proposed by international bodies, with the National Cholesterol Education Program Adult Treatment Panel III (NCEP ATP III) criteria remaining the most widely utilized in clinical practice ([Table 4.1](#table-04-01)). A diagnosis of metabolic syndrome requires the presence of three or more of the following five criteria: elevated waist circumference (>102 cm in men, >88 cm in women); serum triglycerides ≥ 150 mg/dL (≥ 1.7 mmol/L); serum HDL cholesterol <40 mg/dL (<1.03 mmol/L) in men, <50 mg/dL (<1.30 mmol/L) in women; arterial blood pressure ≥ 130/85 mmHg (or pharmacological treatment for hypertension); and fasting plasma glucose ≥ 100 mg/dL (≥ 5.6 mmol/L, or antidiabetic pharmacotherapy).
 
@@ -174,7 +174,7 @@ Waist circumference serves as an independent marker of intra-abdominal visceral 
 
 <details class="med-details"><summary>
 
-### Cardiovascular and Diabetic Risks of Metabolic Syndrome</summary><div class="details-content">
+### 1.4 Cardiovascular and Diabetic Risks of Metabolic Syndrome</summary><div class="details-content">
 
 The clinical significance of the metabolic syndrome lies in its capacity to predict both type 2 diabetes and atherosclerotic cardiovascular disease. While some authorities have debated whether the syndrome represents more than the sum of its parts, clinical studies establish that the prospective risk of disease increases progressively with the number of coexisting MetSyn components. In prospective cohort studies, individuals possessing 4 or 5 features exhibited a 25-fold higher risk of developing T2DM compared to individuals with no features, representing a profound escalation over the risk associated with a single component.
 
@@ -186,7 +186,7 @@ Although the fasting hyperglycemia component drives the greatest proportion of t
 
 <details class="med-details"><summary>
 
-### Diabetes Prevention: Lifestyle and Pharmacotherapy</summary><div class="details-content">
+### 1.5 Diabetes Prevention: Lifestyle and Pharmacotherapy</summary><div class="details-content">
 
 Extensive randomized clinical trial evidence demonstrates that the progression from prediabetes (impaired fasting glucose or impaired glucose tolerance) to overt T2DM can be substantially delayed or prevented. The landmark Diabetes Prevention Program (DPP) randomized 3234 individuals with prediabetes to an intensive lifestyle modification program, metformin (850 mg twice daily), or placebo. The lifestyle intervention—targeting a 7% reduction in body weight through a low-fat, calorie-restricted diet and ≥ 150 minutes per week of moderate-intensity physical activity—reduced the incidence of diabetes by 58% compared to placebo.
 
@@ -198,7 +198,7 @@ Pharmacological prevention has also been explored with other antidiabetic agents
 
 <details class="med-details"><summary>
 
-### Drug-Induced Diabetes and Antihypertensive Selection</summary><div class="details-content">
+### 1.6 Drug-Induced Diabetes and Antihypertensive Selection</summary><div class="details-content">
 
 Pharmacological agents commonly prescribed in cardiovascular medicine can adversely affect glucose metabolism. A network meta-analysis of 22 clinical trials encompassing over 140000 patients evaluated the incidence of new-onset T2DM associated with different antihypertensive drug classes compared to placebo ([Fig. 4.3](#fig-04-03)). Thiazide diuretics and conventional non-vasodilating $\\beta$-blockers significantly increased the hazard of incident diabetes, whereas renin-angiotensin-aldosterone system (RAAS) inhibitors demonstrated protective effects.
 
@@ -216,11 +216,11 @@ Consequently, international hypertension guidelines advise caution when selectin
 
 <details class="med-details"><summary>
 
-## Cardiovascular Disease Risk Assessment and Glycemic Targets</summary><div class="details-content">
+## 2. Cardiovascular Disease Risk Assessment and Glycemic Targets</summary><div class="details-content">
 
 <details class="med-details"><summary>
 
-### Cardiovascular Risk Stratification and Risk Calculators</summary><div class="details-content">
+### 2.1 Cardiovascular Risk Stratification and Risk Calculators</summary><div class="details-content">
 
 Patients with type 2 diabetes mellitus (T2DM) face a two- to four-fold higher risk of developing cardiovascular disease compared to non-diabetic peers. Historically, a landmark 1998 population study suggested that diabetic individuals without prior myocardial infarction (MI) carried a risk of future coronary events equivalent to non-diabetic patients with prior MI, giving rise to the concept of diabetes as a categorical "coronary heart disease (CHD) equivalent." However, contemporary epidemiological data demonstrate considerable heterogeneity in cardiovascular risk across the diabetic spectrum.
 
@@ -232,7 +232,7 @@ To address these limitations, modern prevention guidelines recommend evaluating 
 
 <details class="med-details"><summary>
 
-### Risk-Enhancing Factors and Disease Duration</summary><div class="details-content">
+### 2.2 Risk-Enhancing Factors and Disease Duration</summary><div class="details-content">
 
 The 2019 ACC/AHA Guideline on the Primary Prevention of Cardiovascular Disease identified specific diabetes-related risk-enhancing factors that elevate individuals into higher risk categories ([Table 4.2](#table-04-02)). A disease duration >10 years for T2DM (or >20 years for type 1 diabetes) represents a major independent cardiovascular risk enhancer. Patients with ≥ 10 years of diabetes history exhibit event rates that approach true CHD equivalents.
 
@@ -277,7 +277,7 @@ Similarly, the 2019 American Diabetes Association (ADA) Standards of Medical Car
 
 <details class="med-details"><summary>
 
-### Coronary Artery Calcium (CAC) Testing</summary><div class="details-content">
+### 2.3 Coronary Artery Calcium (CAC) Testing</summary><div class="details-content">
 
 Coronary artery calcium (CAC) scoring by non-contrast cardiac computed tomography has emerged as a premier tool for refining cardiovascular risk in asymptomatic individuals with diabetes. While current prevention guidelines generally classify all diabetic adults aged 40–75 years as candidates for at least moderate-intensity statin therapy, CAC testing provides powerful reclassification for clinical decision-making.
 
@@ -289,7 +289,7 @@ Conversely, diabetic patients with CAC >100 Agatston units or >75th age- and sex
 
 <details class="med-details"><summary>
 
-### Microvascular Complications: DCCT and UKPDS</summary><div class="details-content">
+### 2.4 Microvascular Complications: DCCT and UKPDS</summary><div class="details-content">
 
 The therapeutic value of lowering blood glucose was definitively established for microvascular complications by landmark randomized trials. The Diabetes Control and Complications Trial (DCCT) enrolled 1441 patients with type 1 diabetes and demonstrated that intensive insulin therapy (achieving a mean HbA1c of ~ 7% vs ~ 9% in the conventional group) reduced the development and progression of diabetic retinopathy, nephropathy, and neuropathy by approximately 60%.
 
@@ -301,7 +301,7 @@ These findings confirmed that chronic hyperglycemia is the primary pathophysiolo
 
 <details class="med-details"><summary>
 
-### Macrovascular Complications and the "Legacy Effect"</summary><div class="details-content">
+### 2.5 Macrovascular Complications and the "Legacy Effect"</summary><div class="details-content">
 
 In contrast to microvascular outcomes, the immediate effect of intensive glycemic control on macrovascular disease (myocardial infarction, stroke, cardiovascular death) in UKPDS was modest and fell short of statistical significance during the active 10-year trial period (16% reduction in MI, $P = 0.052$). However, prolonged post-trial monitoring revealed a critical phenomenon termed the "legacy effect" or metabolic memory.
 
@@ -313,7 +313,7 @@ These data demonstrate that early, tight glycemic control established near the t
 
 <details class="med-details"><summary>
 
-### Intensive Glycemic Control and Mortality: ACCORD, ADVANCE, and VADT</summary><div class="details-content">
+### 2.6 Intensive Glycemic Control and Mortality: ACCORD, ADVANCE, and VADT</summary><div class="details-content">
 
 To test whether aggressive glucose lowering could rapidly reduce cardiovascular events in patients with established T2DM and high cardiovascular risk, three major randomized clinical trials were conducted: ACCORD, ADVANCE, and VADT ([Table 4.4](#table-04-04)).
 
@@ -338,7 +338,7 @@ The ADVANCE trial randomized 11140 patients to intensive control (target HbA1c $
 
 <details class="med-details"><summary>
 
-### Individualized Glycemic Targets and ADA/EASD Recommendations</summary><div class="details-content">
+### 2.7 Individualized Glycemic Targets and ADA/EASD Recommendations</summary><div class="details-content">
 
 The sobering mortality signal from ACCORD and neutrality in ADVANCE and VADT prompted international guidelines to abandon uniform, rigid glycemic targets in favor of an individualized, patient-centered approach. The ADA/EASD consensus guidelines recommend evaluating seven clinical domains: hypoglycemia risk, disease duration, life expectancy, significant comorbidities, established vascular complications, patient preference, and available resources.
 
@@ -352,11 +352,11 @@ Conversely, a more relaxed HbA1c target ($<8.0\\%$ or even $8.0–8.5\\%$) is re
 
 <details class="med-details"><summary>
 
-## Importance of Large Cardiovascular Outcome Trials</summary><div class="details-content">
+## 3. Importance of Large Cardiovascular Outcome Trials</summary><div class="details-content">
 
 <details class="med-details"><summary>
 
-### Historical Background and the Rosiglitazone Controversy</summary><div class="details-content">
+### 3.1 Historical Background and the Rosiglitazone Controversy</summary><div class="details-content">
 
 Before 2008, regulatory authorities (including the US FDA and European EMA) approved antidiabetic medications exclusively on the basis of glycemic efficacy—demonstrating a statistically significant reduction in HbA1c over 12–24 weeks. Most premarketing Phase 2 and 3 trials enrolled younger, drug-naïve patients with low baseline cardiovascular risk, excluding patients with established CAD, heart failure, or renal impairment ([Table 4.5](#table-04-05)). Consequently, these studies were inadequately powered and systematically unsuited to evaluate cardiovascular safety.
 
@@ -381,7 +381,7 @@ This regulatory vulnerability erupted into crisis in 2007 with the publication o
 
 <details class="med-details"><summary>
 
-### The 2008 FDA Guidance: Design, Endpoints, and Noninferiority Margins</summary><div class="details-content">
+### 3.2 The 2008 FDA Guidance: Design, Endpoints, and Noninferiority Margins</summary><div class="details-content">
 
 In response to the rosiglitazone controversy, the US FDA issued a revolutionary regulatory guidance for industry in December 2008: *Guidance for Industry: Evaluating Cardiovascular Risk in New Antidiabetic Therapies to Treat Type 2 Diabetes*. This mandate required pharmaceutical sponsors to demonstrate that any new antidiabetic drug does not carry unacceptable cardiovascular risk prior to and following market approval.
 
@@ -393,7 +393,7 @@ To meet event-rate requirements efficiently, CVOTs were compelled to enroll olde
 
 <details class="med-details"><summary>
 
-### Paradigm Shift: From Glucocentrism to Cardiorenal Organoprotection</summary><div class="details-content">
+### 3.3 Paradigm Shift: From Glucocentrism to Cardiorenal Organoprotection</summary><div class="details-content">
 
 The 2008 FDA mandate launched an unprecedented era of large-scale clinical trials that fundamentally revolutionized diabetes therapeutics ([Table 4.6](#table-04-06)). Over the subsequent decade, more than 30 dedicated CVOTs were executed, randomizing over 200000 high-risk patients across the world.
 
@@ -435,11 +435,11 @@ These results prompted regulatory agencies to grant official label updates for e
 
 <details class="med-details"><summary>
 
-## Drugs That Lower Cardiovascular Disease Risk</summary><div class="details-content">
+## 4. Drugs That Lower Cardiovascular Disease Risk</summary><div class="details-content">
 
 <details class="med-details"><summary>
 
-### Metformin</summary><div class="details-content">
+### 4.1 Metformin</summary><div class="details-content">
 
 <details class="med-details"><summary>
 
@@ -500,7 +500,7 @@ Metformin must be temporarily withheld prior to intravascular iodinated radiocon
 
 <details class="med-details"><summary>
 
-### Sodium-Glucose Cotransporter 2 (SGLT2) Inhibitors</summary><div class="details-content">
+### 4.2 Sodium-Glucose Cotransporter 2 (SGLT2) Inhibitors</summary><div class="details-content">
 
 <details class="med-details"><summary>
 
@@ -563,7 +563,7 @@ Dual SGLT1/2 inhibition (sotagliflozin) combines renal SGLT2 inhibition with int
 
 <details class="med-details"><summary>
 
-### Glucagon-Like Peptide-1 (GLP-1) Receptor Agonists</summary><div class="details-content">
+### 4.3 Glucagon-Like Peptide-1 (GLP-1) Receptor Agonists</summary><div class="details-content">
 
 <details class="med-details"><summary>
 
@@ -625,6 +625,67 @@ Mechanisms of anti-atherosclerotic benefit include direct suppression of vascula
 - **Diabetic retinopathy complications (SUSTAIN-6):** In SUSTAIN-6, an unexpected increase in diabetic retinopathy complications was detected with semaglutide (3.0% vs 1.8%; HR 1.76; 95% CI 1.11–2.81; $P = 0.02$). Detailed post hoc analyses revealed that this adverse signal occurred almost exclusively in patients with pre-existing, advanced proliferative retinopathy and poor baseline glycemic control who experienced a rapid, precipitous drop in HbA1c (>2% within 16 weeks). This phenomenon represents "early worsening of diabetic retinopathy," a well-recognized clinical paradox historically observed with rapid insulin intensification. Retinal examinations prior to initiating therapy and gradual glycemic reduction are advised.
 - **Contraindications and boxed warnings:** GLP-1 RAs carry a boxed warning and are strictly contraindicated in patients with a personal or family history of medullary thyroid carcinoma (MTC) or Multiple Endocrine Neoplasia syndrome type 2 (MEN 2), based on thyroid C-cell adenomas and carcinomas observed in rodent toxicology models. GLP-1 RAs should be used with caution in individuals with a history of acute pancreatitis.
 
+<span id="diag-04-01"></span>
+
+### DIAGRAM 4.1: Distinct & Complementary Cardiorenal Pathways: SGLT2 Inhibitors vs GLP-1 RAs
+
+<svg viewBox="0 0 1000 680" style="width:100%; max-width:1000px; height:auto; display:block; margin:16px auto;" xmlns="http://www.w3.org/2000/svg">
+<rect width="1000" height="680" rx="12" fill="#0f172a" stroke="#334155" stroke-width="2"/>
+<text x="500" y="32" fill="#38bdf8" font-family="system-ui, sans-serif" font-size="15" font-weight="700" text-anchor="middle" letter-spacing="1">DISTINCT & COMPLEMENTARY CARDIORENAL PATHWAYS: SGLT2 INHIBITORS VS GLP-1 RAS</text>
+<text x="500" y="52" fill="#94a3b8" font-family="system-ui, sans-serif" font-size="11" text-anchor="middle">Hemodynamic Decongestion & Tubuloglomerular Feedback vs Anti-Atherosclerotic Incretin Vascular Protection</text>
+<!-- Column 1: SGLT2i -->
+<rect x="35" y="72" width="455" height="470" rx="10" fill="#082f49" stroke="#0284c7" stroke-width="2"/>
+<rect x="45" y="82" width="435" height="42" rx="6" fill="#0369a1"/>
+<text x="262" y="100" fill="#bae6fd" font-family="system-ui, sans-serif" font-size="13" font-weight="700" text-anchor="middle">SGLT2 INHIBITORS (GLIFLOZINS)</text>
+<text x="262" y="116" fill="#7dd3fc" font-family="system-ui, sans-serif" font-size="10" font-weight="600" text-anchor="middle">Dapagliflozin, Empagliflozin, Canagliflozin</text>
+<rect x="45" y="132" width="435" height="155" rx="8" fill="#0c4a6e" stroke="#38bdf8" stroke-width="1"/>
+<text x="55" y="152" fill="#38bdf8" font-family="system-ui, sans-serif" font-size="11" font-weight="700">Renal Mechanisms (Tubuloglomerular Feedback - TGF Restoration):</text>
+<text x="55" y="172" fill="#f0f9ff" font-family="system-ui, sans-serif" font-size="9.5">
+<tspan x="55" dy="0">• Blockade of proximal tubular Na⁺ and glucose reabsorption</tspan>
+<tspan x="55" dy="18">• Restores Na⁺ delivery to macula densa -> Afferent arteriolar constriction</tspan>
+<tspan x="55" dy="18">• Normalizes intraglomerular hypertension & arrests hyperfiltration</tspan>
+<tspan x="55" dy="18">• Robust, sustained slowing of CKD progression & ESRD across stages</tspan>
+</text>
+<rect x="45" y="295" width="435" height="135" rx="8" fill="#0c4a6e" stroke="#38bdf8" stroke-width="1"/>
+<text x="55" y="315" fill="#38bdf8" font-family="system-ui, sans-serif" font-size="11" font-weight="700">Hemodynamic & Myocardial Energetics:</text>
+<text x="55" y="335" fill="#f0f9ff" font-family="system-ui, sans-serif" font-size="9.5">
+<tspan x="55" dy="0">• Osmotic nephron diuresis: selective interstitial volume reduction</tspan>
+<tspan x="55" dy="18">• Myocardial substrate fuel shift: high-efficiency ketone body utilization</tspan>
+<tspan x="55" dy="18">• Direct cardiomyocyte NHE-1 inhibition prevents hypertrophy & fibrosis</tspan>
+</text>
+<rect x="45" y="440" width="435" height="90" rx="8" fill="#1e293b" stroke="#38bdf8" stroke-width="1.5"/>
+<text x="262" y="475" fill="#38bdf8" font-family="system-ui, sans-serif" font-size="11" font-weight="700" text-anchor="middle">PRIMARY OUTCOME:</text>
+<text x="262" y="500" fill="#67e8f9" font-family="system-ui, sans-serif" font-size="12" font-weight="800" text-anchor="middle"> 30% TO 35% REDUCTION IN HEART FAILURE HOSPITALIZATION</text>
+<!-- Column 2: GLP-1 RA -->
+<rect x="510" y="72" width="455" height="470" rx="10" fill="#064e3b" stroke="#10b981" stroke-width="2"/>
+<rect x="520" y="82" width="435" height="42" rx="6" fill="#047857"/>
+<text x="737" y="100" fill="#a7f3d0" font-family="system-ui, sans-serif" font-size="13" font-weight="700" text-anchor="middle">GLP-1 RECEPTOR AGONISTS (INCRETIN MIMETICS)</text>
+<text x="737" y="116" fill="#6ee7b7" font-family="system-ui, sans-serif" font-size="10" font-weight="600" text-anchor="middle">Semaglutide, Liraglutide, Dulaglutide</text>
+<rect x="520" y="132" width="435" height="155" rx="8" fill="#065f46" stroke="#34d399" stroke-width="1"/>
+<text x="530" y="152" fill="#34d399" font-family="system-ui, sans-serif" font-size="11" font-weight="700">Vascular & Anti-Atherosclerotic Biology:</text>
+<text x="530" y="172" fill="#ecfdf5" font-family="system-ui, sans-serif" font-size="9.5">
+<tspan x="530" dy="0">• Direct GLP-1R activation on endothelial & vascular smooth muscle cells</tspan>
+<tspan x="530" dy="18">• Endothelial NO-synthase (eNOS) induction & flow-mediated dilation</tspan>
+<tspan x="530" dy="18">• Suppression of VCAM-1, foam cell accumulation, and plaque inflammation</tspan>
+<tspan x="530" dy="18">• Stabilization of vulnerable coronary & carotid atherosclerotic lesions</tspan>
+</text>
+<rect x="520" y="295" width="435" height="135" rx="8" fill="#065f46" stroke="#34d399" stroke-width="1"/>
+<text x="530" y="315" fill="#34d399" font-family="system-ui, sans-serif" font-size="11" font-weight="700">Central Neuroendocrine & Metabolic Actions:</text>
+<text x="530" y="335" fill="#ecfdf5" font-family="system-ui, sans-serif" font-size="9.5">
+<tspan x="530" dy="0">• Hypothalamic arcuate POMC stimulation -> Central appetite suppression</tspan>
+<tspan x="530" dy="18">• Slowed gastric emptying -> Robust 10% to 15% body weight reduction</tspan>
+<tspan x="530" dy="18">• Marked attenuation of postprandial triglycerides & atherogenic apoB</tspan>
+</text>
+<rect x="520" y="440" width="435" height="90" rx="8" fill="#1e293b" stroke="#34d399" stroke-width="1.5"/>
+<text x="737" y="475" fill="#34d399" font-family="system-ui, sans-serif" font-size="11" font-weight="700" text-anchor="middle">PRIMARY OUTCOME:</text>
+<text x="737" y="500" fill="#a7f3d0" font-family="system-ui, sans-serif" font-size="12" font-weight="800" text-anchor="middle"> 12% TO 26% REDUCTION IN 3-POINT MACE (MI, STROKE, CV DEATH)</text>
+<!-- Bottom Banner -->
+<rect x="35" y="555" width="930" height="105" rx="10" fill="#1e293b" stroke="#f59e0b" stroke-width="2"/>
+<text x="500" y="580" fill="#fde68a" font-family="system-ui, sans-serif" font-size="12" font-weight="700" text-anchor="middle" letter-spacing="0.5">COMPLEMENTARY CARDIORENAL SYNERGY OF DUAL COMBINATION</text>
+<text x="500" y="605" fill="#f1f5f9" font-family="system-ui, sans-serif" font-size="10.5" text-anchor="middle">Hemodynamic decongestion and renal preservation by SGLT2i synergize perfectly with systemic atheroprotection and metabolic weight loss from GLP-1 RA, establishing total cardiorenal defense in T2D.</text>
+<text x="500" y="635" fill="#fbbf24" font-family="system-ui, sans-serif" font-size="11" font-weight="700" text-anchor="middle">ADA / EASD & ESC GUIDELINE DIRECTIVE: INDEPENDENT OF BASELINE HbA1c OR METFORMIN</text>
+</svg>
+
 </div></details>
 
 </div></details>
@@ -633,11 +694,11 @@ Mechanisms of anti-atherosclerotic benefit include direct suppression of vascula
 
 <details class="med-details"><summary>
 
-## Drugs That Do Not Lower Cardiovascular Disease Risk</summary><div class="details-content">
+## 5. Drugs That Do Not Lower Cardiovascular Disease Risk</summary><div class="details-content">
 
 <details class="med-details"><summary>
 
-### Dipeptidyl Peptidase-4 (DPP-4) Inhibitors</summary><div class="details-content">
+### 5.1 Dipeptidyl Peptidase-4 (DPP-4) Inhibitors</summary><div class="details-content">
 
 <details class="med-details"><summary>
 
@@ -689,7 +750,7 @@ As a class, DPP-4 inhibitors are exceptionally well tolerated with an adverse ev
 
 <details class="med-details"><summary>
 
-### Thiazolidinediones (Glitazones)</summary><div class="details-content">
+### 5.2 Thiazolidinediones (Glitazones)</summary><div class="details-content">
 
 <details class="med-details"><summary>
 
@@ -739,7 +800,7 @@ Additional class adverse effects include:
 
 <details class="med-details"><summary>
 
-### Sulfonylureas and Meglitinides</summary><div class="details-content">
+### 5.3 Sulfonylureas and Meglitinides</summary><div class="details-content">
 
 <details class="med-details"><summary>
 
@@ -800,7 +861,7 @@ In addition to hypoglycemia and weight gain, chronic sulfonylurea therapy is ass
 
 <details class="med-details"><summary>
 
-### Insulin Therapy</summary><div class="details-content">
+### 5.4 Insulin Therapy</summary><div class="details-content">
 
 <details class="med-details"><summary>
 
@@ -844,11 +905,11 @@ Severe hypoglycemia triggers profound sympathetic activation, proarrhythmic elec
 
 <details class="med-details"><summary>
 
-## Hypoglycemia and Cardiovascular Risk</summary><div class="details-content">
+## 6. Hypoglycemia and Cardiovascular Risk</summary><div class="details-content">
 
 <details class="med-details"><summary>
 
-### Definitions and Staging of Hypoglycemia</summary><div class="details-content">
+### 6.1 Definitions and Staging of Hypoglycemia</summary><div class="details-content">
 
 Historically regarded simply as an acute metabolic nuisance, hypoglycemia is now recognized as a potent, independent driver of cardiovascular morbidity and sudden death in patients with diabetes mellitus. The International Hypoglycaemia Study Group (IHSG) and the American Diabetes Association categorize hypoglycemia into three distinct clinical tiers:
 - **Level 1 (Hypoglycemia alert value):** Measurable plasma glucose <70 mg/dL (<3.9 mmol/L). This threshold represents the physiological trigger for neuroendocrine counter-regulatory hormone release (glucagon and epinephrine) in healthy individuals and serves as a clinical prompt for oral carbohydrate ingestion.
@@ -861,7 +922,7 @@ Repeated episodes of hypoglycemia blunt physiological autonomic responses, induc
 
 <details class="med-details"><summary>
 
-### Pathophysiological Mechanisms of Hypoglycemia-Induced Cardiovascular Injury</summary><div class="details-content">
+### 6.2 Pathophysiological Mechanisms of Hypoglycemia-Induced Cardiovascular Injury</summary><div class="details-content">
 
 Acute hypoglycemia triggers a devastating cascade of neuroendocrine, electrophysiological, and hemorheological disturbances that directly threaten myocardial and vascular integrity:
 - **Sympathoadrenal storm:** Acute glucopenia activates glucose-sensing neurons in the ventromedial hypothalamus, triggering an explosive discharge of the sympathetic nervous system and adrenal medulla. Surging epinephrine and norepinephrine levels induce profound sinus tachycardia, peripheral vasoconstriction, elevated pulse pressure, increased cardiac workload, and sharply augmented myocardial oxygen consumption ($M\text{V}O_2$), provoking subendocardial ischemia in patients with underlying coronary artery disease.
@@ -872,7 +933,7 @@ Acute hypoglycemia triggers a devastating cascade of neuroendocrine, electrophys
 
 <details class="med-details"><summary>
 
-### Evidence from Clinical Trials and Differential Drug Class Risks</summary><div class="details-content">
+### 6.3 Evidence from Clinical Trials and Differential Drug Class Risks</summary><div class="details-content">
 
 The cardiovascular hazard of hypoglycemia was vividly demonstrated in the ACCORD, ADVANCE, and VADT trials. In post hoc analyses of all three trials, a history of one or more episodes of severe hypoglycemia was associated with an independent two- to three-fold higher risk of subsequent cardiovascular death, myocardial infarction, and all-cause mortality ([Table 4.4](#table-04-04)).
 
@@ -890,11 +951,11 @@ In stark contrast, modern glucose-dependent therapies—including SGLT2 inhibito
 
 <details class="med-details"><summary>
 
-## Clinical Practice Guidelines and Treatment Algorithms</summary><div class="details-content">
+## 7. Clinical Practice Guidelines and Treatment Algorithms</summary><div class="details-content">
 
 <details class="med-details"><summary>
 
-### The 2019/2020 ADA/EASD Consensus Treatment Algorithm</summary><div class="details-content">
+### 7.1 The 2019/2020 ADA/EASD Consensus Treatment Algorithm</summary><div class="details-content">
 
 The management of type 2 diabetes has evolved from a linear, stepwise glucose-lowering algorithm into an organoprotective, disease-specific decision tree. The joint consensus statement of the American Diabetes Association (ADA) and the European Association for the Study of Diabetes (EASD) establishes a comprehensive treatment architecture ([Fig. 4.8](#fig-04-08)):
 
@@ -917,17 +978,102 @@ Immediately following metformin initiation, patients are stratified into clinica
 
 *Absolute contraindications:* Avoid thiazolidinediones in any patient with established heart failure (NYHA Class III/IV). Avoid saxagliptin and alogliptin in patients with heart failure.
 
+<span id="diag-04-02"></span>
+
+### DIAGRAM 4.2: Cardiorenal Risk-Stratified Management Algorithm in Type 2 Diabetes (ADA/EASD)
+
+<svg viewBox="0 0 1000 700" style="width:100%; max-width:1000px; height:auto; display:block; margin:16px auto;" xmlns="http://www.w3.org/2000/svg">
+<rect width="1000" height="700" rx="12" fill="#0f172a" stroke="#334155" stroke-width="2"/>
+<text x="500" y="32" fill="#38bdf8" font-family="system-ui, sans-serif" font-size="15" font-weight="700" text-anchor="middle" letter-spacing="1">CARDIORENAL RISK-STRATIFIED MANAGEMENT ALGORITHM IN TYPE 2 DIABETES</text>
+<text x="500" y="52" fill="#94a3b8" font-family="system-ui, sans-serif" font-size="11" text-anchor="middle">ADA/EASD and ESC Consensus: Prioritizing Organ Protection Over Glycemic Targets</text>
+<!-- Root Node -->
+<rect x="150" y="70" width="700" height="60" rx="8" fill="#1e293b" stroke="#64748b" stroke-width="2"/>
+<text x="500" y="93" fill="#f8fafc" font-family="system-ui, sans-serif" font-size="13" font-weight="700" text-anchor="middle">PATIENT DIAGNOSED WITH TYPE 2 DIABETES MELLITUS</text>
+<text x="500" y="112" fill="#94a3b8" font-family="system-ui, sans-serif" font-size="10.5" text-anchor="middle">Foundation: Structured Lifestyle Intervention + Metformin (unless contraindicated by eGFR < 30 mL/min)</text>
+<!-- Connecting Lines down to 4 Branches -->
+<line x1="500" y1="130" x2="500" y2="155" stroke="#38bdf8" stroke-width="2"/>
+<line x1="145" y1="155" x2="855" y2="155" stroke="#38bdf8" stroke-width="2"/>
+<line x1="145" y1="155" x2="145" y2="180" stroke="#38bdf8" stroke-width="2"/>
+<line x1="380" y1="155" x2="380" y2="180" stroke="#38bdf8" stroke-width="2"/>
+<line x1="620" y1="155" x2="620" y2="180" stroke="#38bdf8" stroke-width="2"/>
+<line x1="855" y1="155" x2="855" y2="180" stroke="#38bdf8" stroke-width="2"/>
+<!-- Branch 1: ASCVD -->
+<rect x="35" y="180" width="220" height="420" rx="10" fill="#1e1b4b" stroke="#818cf8" stroke-width="2"/>
+<rect x="45" y="190" width="200" height="30" rx="5" fill="#312e81"/>
+<text x="145" y="210" fill="#e0e7ff" font-family="system-ui, sans-serif" font-size="10" font-weight="700" text-anchor="middle">ESTABLISHED ASCVD / HIGH RISK</text>
+<text x="45" y="240" fill="#c7d2fe" font-family="system-ui, sans-serif" font-size="9.5" font-weight="600">
+<tspan x="45" dy="0">Clinical ASCVD (CAD, PAD, Stroke</tspan>
+<tspan x="45" dy="14">) or Indicators of High Risk (Age >= 55, LVH)</tspan>
+</text>
+<rect x="45" y="280" width="200" height="305" rx="8" fill="#0f172a" stroke="#6366f1" stroke-width="1"/>
+<text x="55" y="302" fill="#818cf8" font-family="system-ui, sans-serif" font-size="9.5" font-weight="700">PREFERRED FIRST-LINE:</text>
+<text x="55" y="325" fill="#f8fafc" font-family="system-ui, sans-serif" font-size="9">
+<tspan x="55" dy="0">• GLP-1 RA with proven MACE benefit (Semaglutide / Liraglutide) OR</tspan>
+<tspan x="55" dy="16">• SGLT2i with proven CVD benefit (Empagliflozin / Dapagliflozin)</tspan>
+<tspan x="55" dy="20" fill="#fbbf24" font-weight="600">• If HbA1c above individualized target: combine both classes!</tspan>
+</text>
+<!-- Branch 2: Heart Failure -->
+<rect x="270" y="180" width="220" height="420" rx="10" fill="#082f49" stroke="#0284c7" stroke-width="2"/>
+<rect x="280" y="190" width="200" height="30" rx="5" fill="#0369a1"/>
+<text x="380" y="210" fill="#e0f2fe" font-family="system-ui, sans-serif" font-size="10" font-weight="700" text-anchor="middle">HEART FAILURE (HFrEF / HFpEF)</text>
+<text x="280" y="240" fill="#bae6fd" font-family="system-ui, sans-serif" font-size="9.5" font-weight="600">
+<tspan x="280" dy="0">Heart Failure with Reduced (HFrE</tspan>
+<tspan x="280" dy="14">F) or Preserved (HFpEF) Ejection Fraction</tspan>
+</text>
+<rect x="280" y="280" width="200" height="305" rx="8" fill="#0f172a" stroke="#0284c7" stroke-width="1"/>
+<text x="290" y="302" fill="#38bdf8" font-family="system-ui, sans-serif" font-size="9" font-weight="700">PREFERRED FIRST-LINE (CLASS I, LEVEL A):</text>
+<text x="290" y="325" fill="#f8fafc" font-family="system-ui, sans-serif" font-size="9">
+<tspan x="290" dy="0">• SGLT2i (Dapagliflozin or Empagliflozin)</tspan>
+<tspan x="290" dy="16">• Proven reduction in cardiovascular mortality and HF hospitalizations</tspan>
+<tspan x="290" dy="20" fill="#34d399" font-weight="600">• Effective and indicated irrespective of baseline HbA1c</tspan>
+</text>
+<!-- Branch 3: CKD -->
+<rect x="510" y="180" width="220" height="420" rx="10" fill="#451a03" stroke="#f59e0b" stroke-width="2"/>
+<rect x="520" y="190" width="200" height="30" rx="5" fill="#b45309"/>
+<text x="620" y="210" fill="#fef3c7" font-family="system-ui, sans-serif" font-size="10" font-weight="700" text-anchor="middle">CHRONIC KIDNEY DISEASE (CKD)</text>
+<text x="520" y="240" fill="#fde68a" font-family="system-ui, sans-serif" font-size="9.5" font-weight="600">
+<tspan x="520" dy="0">CKD with eGFR 20 to 60 mL/min or</tspan>
+<tspan x="520" dy="14"> Urinary Albumin-to-Creatinine Ratio > 30 mg/g</tspan>
+</text>
+<rect x="520" y="280" width="200" height="305" rx="8" fill="#0f172a" stroke="#f59e0b" stroke-width="1"/>
+<text x="530" y="302" fill="#fbbf24" font-family="system-ui, sans-serif" font-size="9.5" font-weight="700">PREFERRED FIRST-LINE:</text>
+<text x="530" y="325" fill="#f8fafc" font-family="system-ui, sans-serif" font-size="9">
+<tspan x="530" dy="0">• SGLT2i (halts progression to end-stage kidney disease)</tspan>
+<tspan x="530" dy="16">• If residual albuminuria / SGLT2i intolerant: Finerenone (nonsteroidal MRA)</tspan>
+<tspan x="530" dy="20" fill="#67e8f9" font-weight="600">• Incretin renal protection: GLP-1 RA (FLOW Trial benchmark)</tspan>
+</text>
+<!-- Branch 4: Obesity -->
+<rect x="745" y="180" width="220" height="420" rx="10" fill="#064e3b" stroke="#10b981" stroke-width="2"/>
+<rect x="755" y="190" width="200" height="30" rx="5" fill="#047857"/>
+<text x="855" y="210" fill="#d1fae5" font-family="system-ui, sans-serif" font-size="10" font-weight="700" text-anchor="middle">OBESITY / WEIGHT LOSS PRIORITY</text>
+<text x="755" y="240" fill="#a7f3d0" font-family="system-ui, sans-serif" font-size="9.5" font-weight="600">
+<tspan x="755" dy="0">Compelling Clinical Priority to </tspan>
+<tspan x="755" dy="14">Minimize Weight / Treat Adiposity</tspan>
+</text>
+<rect x="755" y="280" width="200" height="305" rx="8" fill="#0f172a" stroke="#10b981" stroke-width="1"/>
+<text x="765" y="302" fill="#34d399" font-family="system-ui, sans-serif" font-size="9.5" font-weight="700">PREFERRED FIRST-LINE:</text>
+<text x="765" y="325" fill="#f8fafc" font-family="system-ui, sans-serif" font-size="9">
+<tspan x="765" dy="0">• Tirzepatide (Dual GIP / GLP-1 RA; up to 20% total body weight loss)</tspan>
+<tspan x="765" dy="16">• Semaglutide (High-dose GLP-1 RA; up to 15% weight reduction)</tspan>
+<tspan x="765" dy="20" fill="#f87171" font-weight="600">• Strictly avoid sulfonylureas and insulins that promote adiposity</tspan>
+</text>
+<!-- Footer -->
+<rect x="35" y="620" width="930" height="60" rx="8" fill="#1e293b" stroke="#475569" stroke-width="1.5"/>
+<text x="500" y="645" fill="#38bdf8" font-family="system-ui, sans-serif" font-size="11" font-weight="700" text-anchor="middle">GLYCEMIC CONTROL (HbA1c TARGET 6.5% - 7.0%) MUST NOT DELAY INITIATION OF CARDIORENAL AGENTS</text>
+<text x="500" y="665" fill="#94a3b8" font-family="system-ui, sans-serif" font-size="10" text-anchor="middle">Initiate organ-protective SGLT2i and/or GLP-1 RA first, then titrate secondary agents to glycemic goals</text>
+</svg>
+
 </div></details>
 
 </div></details>
 
 <details class="med-details"><summary>
 
-## Future Directions and Emerging Therapeutics</summary><div class="details-content">
+## 8. Future Directions and Emerging Therapeutics</summary><div class="details-content">
 
 <details class="med-details"><summary>
 
-### Cardiometabolic Medicine as an Integrated Specialty</summary><div class="details-content">
+### 8.1 Cardiometabolic Medicine as an Integrated Specialty</summary><div class="details-content">
 
 The convergence of cardiovascular disease, diabetes, obesity, and chronic kidney disease has catalyzed the emergence of "Cardiometabolic Medicine" as a distinct clinical discipline. Cardiologists, endocrinologists, nephrologists, and primary care physicians must collaborate closely. Cardiologists in particular must embrace the role of initiating and managing SGLT2 inhibitors and GLP-1 RAs, recognizing that these agents are potent cardiovascular disease-modifying therapies rather than mere antidiabetic drugs.
 
@@ -937,7 +1083,7 @@ Multidisciplinary clinics focused on cardiorenal-metabolic syndrome optimize com
 
 <details class="med-details"><summary>
 
-### Dual and Triple Incretin Receptor Co-Agonists: Tirzepatide and Beyond</summary><div class="details-content">
+### 8.2 Dual and Triple Incretin Receptor Co-Agonists: Tirzepatide and Beyond</summary><div class="details-content">
 
 The therapeutic frontier of incretin biology centers on multi-incretin receptor co-agonism. Tirzepatide is a first-in-class, synthetic 39-amino-acid peptide that functions as a dual glucose-dependent insulinotropic polypeptide (GIP) and GLP-1 receptor co-agonist. By combining GIP and GLP-1 receptor activation, tirzepatide synergistically augments glucose-dependent insulin secretion, improves white adipose tissue insulin sensitivity and buffering capacity, suppresses glucagon, and acts centrally to produce unprecedented appetite suppression.
 
@@ -949,7 +1095,7 @@ Beyond dual agonists, triple incretin receptor co-agonists (targeting GLP-1, GIP
 
 <details class="med-details"><summary>
 
-### Non-Glycemic Interventions: Vitamin D and Mineralocorticoid Antagonism</summary><div class="details-content">
+### 8.3 Non-Glycemic Interventions: Vitamin D and Mineralocorticoid Antagonism</summary><div class="details-content">
 
 Interventions targeting auxiliary pathways have provided important negative and positive clinical insights:
 - **Vitamin D supplementation:** Chronic observational studies linked low circulating 25-hydroxyvitamin D concentrations to insulin resistance and increased diabetes risk. However, the randomized, double-blind Vitamin D and Type 2 Diabetes (D2d) trial enrolled 2423 individuals with prediabetes, administering 4000 IU of vitamin D3 daily versus placebo. Over 2.5 years, vitamin D supplementation did not significantly reduce progression to diabetes (HR 0.88; 95% CI 0.75–1.04; $P = 0.12$), indicating that vitamin D deficiency is a marker rather than a causative mediator of cardiometabolic risk.
@@ -959,7 +1105,7 @@ Interventions targeting auxiliary pathways have provided important negative and 
 
 <details class="med-details"><summary>
 
-### Chapter Summary: Cardiocentric Principles of Diabetes Management</summary><div class="details-content">
+### 8.4 Chapter Summary: Cardiocentric Principles of Diabetes Management</summary><div class="details-content">
 
 The treatment of type 2 diabetes has definitively entered a new era characterized by cardiorenal organoprotection:
 1. Diabetes is fundamentally a vascular and metabolic disease; cardiovascular death, heart failure, and renal failure are its primary catastrophic endpoints.

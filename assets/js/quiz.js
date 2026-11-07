@@ -990,6 +990,7 @@ function _markdownToHtml(txt) {
     // Strip newlines inside <table> and <svg> to prevent browser foster parenting of <br>
     let html = txt.replace(/<table[\s\S]*?<\/table>/gi, match => match.replace(/\r?\n\s*/g, ''))
                   .replace(/<svg[\s\S]*?<\/svg>/gi, match => match.replace(/\r?\n\s*/g, ' '))
+                  .replace(/<iframe[\s\S]*?<\/iframe>/gi, match => match.replace(/\r?\n\s*/g, ' '))
                   .replace(/\$\$[\s\S]*?\$\$/g, match => match.replace(/\r?\n\s*/g, ' '));
     // Convert [text](url) markdown links
     html = html.replace(/\[([^\]]+)\]\(([^)]+)\)/g, (match, label, url) => {
@@ -1002,9 +1003,22 @@ function _markdownToHtml(txt) {
     html = html.replace(/\*\*(.+?)\*\*/g, '<strong>$1</strong>');
     // Convert *italic* to <em>
     html = html.replace(/\*(.+?)\*/g, '<em>$1</em>');
-    // Convert newlines to <br>
-    return html.replace(/\n/g, '<br>');
+    // Convert ### and #### headers
+    html = html.replace(/^###\s+(.+)$/gm, '<h3>$1</h3>');
+    html = html.replace(/^####\s+(.+)$/gm, '<h4>$1</h4>');
+    // Convert newlines to <br> (skip right after headings)
+    return html.replace(/<\/h[34]>\r?\n/gi, '</h$1>').replace(/\n/g, '<br>');
 }
+
+// Auto-resize embedded interactive iframes (e.g. IABP Atlas)
+window.addEventListener('message', (e) => {
+    if (e.data && typeof e.data.iabpHeight === 'number') {
+        const frames = document.querySelectorAll('#exp-text iframe, .iabp-frame');
+        frames.forEach(f => {
+            f.style.height = `${Math.ceil(e.data.iabpHeight) + 12}px`;
+        });
+    }
+});
 
 document.addEventListener('DOMContentLoaded', async () => {
     const params = new URLSearchParams(window.location.search);
@@ -4297,9 +4311,26 @@ function showExplanation() {
     }
 
     const rawExp = q['explanation' + lang] || q['explanationEn'] || q.explanation || 'No explanation provided.';
-    // Convert newlines to paragraphs
+    // Convert newlines to structured elements
     const formattedExp = rawExp.split('\n\n')
-        .map(p => `<p>${_markdownToHtml(p.trim())}</p>`)
+        .map(p => {
+            const trimmed = p.trim();
+            if (!trimmed) return '';
+            if (trimmed.startsWith('### ')) {
+                return `<h3>${_markdownToHtml(trimmed.slice(4))}</h3>`;
+            }
+            if (trimmed.startsWith('#### ')) {
+                return `<h4>${_markdownToHtml(trimmed.slice(5))}</h4>`;
+            }
+            if (trimmed === '---') {
+                return '<hr>';
+            }
+            if (trimmed.startsWith('<iframe') && trimmed.endsWith('</iframe>')) {
+                return trimmed;
+            }
+            return `<p>${_markdownToHtml(trimmed)}</p>`;
+        })
+        .filter(Boolean)
         .join('');
     
     const expTextEl = document.getElementById('exp-text');

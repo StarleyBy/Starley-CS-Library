@@ -269,8 +269,9 @@ function checkFile(file) {
 
     if (RE_REF_HEADING.test(t)) add('error', 'E010', L.n, 'Раздел литературы (References/Список литературы) должен быть удалён');
     // исключение: маркер 📋 внутри ссылки на интерактивную таблицу гайдлайна ([📋 …](#/tables/…))
-    const noTableLinkEmoji = raw.replace(/\[[^\]]*\]\(#\/tables\/[^)]*\)/g, '');
-    if (RE_EMOJI.test(noTableLinkEmoji)) add('error', 'E011', L.n, 'Эмодзи в файле главы запрещены (исключение: [📋 …](#/tables/…))');
+    // и маркер 🎛️ для интерактивных схем/симуляторов
+    const noTableLinkEmoji = raw.replace(/\[[^\]]*\]\(#\/tables\/[^)]*\)/g, '').replace(/🎛️/gu, '');
+    if (RE_EMOJI.test(noTableLinkEmoji)) add('error', 'E011', L.n, 'Эмодзи в файле главы запрещены (исключения: [📋 …](#/tables/…), 🎛️)');
     if (/\[\?\]/.test(raw)) add('error', 'E012', L.n, 'Остался маркер [?] (нечитаемый фрагмент не разрешён)');
 
     const bare = stripInline(raw);

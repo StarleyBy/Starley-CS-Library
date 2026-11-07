@@ -1,0 +1,48 @@
+[
+  {
+    "id": "iabp-atlas",
+    "titleRu": "Атлас и симулятор тайминга ВАБК (режим 1:2)",
+    "titleEn": "IABP Timing Atlas & Simulator (1:2 Mode)",
+    "descriptionRu": "Интерактивная двухцикловая кривая артериального давления при контрпульсации (режим 1:2): 6 сценариев (норма, ранняя/поздняя инфляция, раннее/позднее сдувание), сравнение с исходной базой, маркеры контрольных точек давления (DN, PDP, BAEDP, PAEDP, APSP, PSP), интерактивный тест распознавания дефектов.",
+    "descriptionEn": "Interactive two-beat arterial pressure waveform during IABP counterpulsation (1:2 assist mode): 6 scenarios (baseline, optimal, early/late inflation, early/late deflation), comparison overlays, clickable pressure landmarks (DN, PDP, BAEDP, PAEDP, APSP, PSP), spot-the-error quiz mode.",
+    "path": "assets/interactive/iabp-atlas.html",
+    "badge": "🎛️",
+    "category": "icu_cardiac",
+    "tags": [
+      "iabp",
+      "counterpulsation",
+      "hemodynamic_monitoring",
+      "dicrotic_notch",
+      "timing_errors",
+      "afterload",
+      "coronary_perfusion"
+    ],
+    "sources": [
+      "Bojar RM. Manual of Perioperative Care in Adult Cardiac Surgery, 6th ed., Ch. 11",
+      "Getinge / Datascope Intra-Aortic Balloon Counterpulsation Clinical Guide",
+      "LITFL Critical Care Compendium (IABP Waveform Analysis)"
+    ],
+    "embeddings": [
+      {
+        "type": "chapter",
+        "book": "books/icu/bojar",
+        "chapter": "chapter-11",
+        "section": "IV. E",
+        "titleRu": "Синхронизация ВБК (IABP timing)",
+        "titleEn": "IABP timing"
+      },
+      {
+        "type": "quiz",
+        "manifest": "books/work/examen/quiz/quiz-icu.json",
+        "questionId": 23,
+        "defaultParams": "embed=1&lang=ru&show=baseline,early-inf,optimal"
+      },
+      {
+        "type": "quiz",
+        "manifest": "books/work/examen/quiz/quiz-seats2.json",
+        "questionId": 169,
+        "defaultParams": "embed=1&lang=ru&show=baseline,early-inf,optimal"
+      }
+    ]
+  }
+]

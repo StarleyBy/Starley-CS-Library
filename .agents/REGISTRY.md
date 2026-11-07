@@ -22,6 +22,7 @@
 | L33 | Supabase-инженер | local | 1.0 | `.agents/skills/supabase-engineer/SKILL.md` | Схема, политики доступа (RLS), функции базы, Edge Function `admin-create-user`, вход по PIN; исправления как предложения | `tools/check-supabase-sql.mjs`, `tools/check-sql-syntax.py`, `quiz/verify-live-db.sql` |
 | L34 | Деплой и CI | local | 1.0 | `.agents/skills/deploy-ci/SKILL.md` | Workflow публикации GitHub Pages: порядок шагов, проверки перед публикацией (preflight), индекс, R2, очистка, разбор упавшей сборки | `.github/workflows/*`, `tools/preflight.mjs` |
 | L24 | Кодер | local | 1.1 | `.agents/skills/coder/SKILL.md` | Код приложения, поиск, Service Worker, тесты | `tests/run-all.mjs`, `tests/unit/` |
+| L35 | Интеракционист | local | 1.0 | `.agents/skills/interactive-engineer/SKILL.md` | Разработка и интеграция интерактивных схем, симуляторов, врезка HTML в главы и квизы, реестр интерактивных схем | `data/interactive/interactive-index.json`, `tools/list-interactive.mjs`, `sw.js` |
 
 ID соответствуют каталогу из плана агентов (L — локальные, G — глобальные).
 
@@ -36,6 +37,7 @@ ID соответствуют каталогу из плана агентов (L
 
 | Дата | Что изменено |
 |---|---|
+| 2026-11-06 | Добавлен агент «Интеракционист» (L35, v1.0, `.agents/skills/interactive-engineer/SKILL.md`) — разработка автономных интерактивных схем (HTML5/SVG/Vanilla JS), симуляторов и атласов (`assets/interactive/`), ведение реестра `data/interactive/interactive-index.json`, внедрение во фреймах в главы (`#### 🎛️ ...`) и квизы. Создан инструмент `tools/list-interactive.mjs` (--validate вшит в `preflight.mjs`) |
 | 2026-11-04 | Добавлен агент «Схематист» (L08, v1.0, `.agents/skills/schematist/SKILL.md`) — синтез клинических схем, деревьев решений, алгоритмов и ведение книги-атласа `books/summary/algorithms/`. Создан атлас алгоритмов, сгенерирована обложка `cover.jpg` |
 | 2026-11-03 | Добавлен агент «Адъютант» (L00, v1.0, `.agents/skills/adjutant/SKILL.md`) — персональный секретарь и координатор задач. Введён единый стандарт обязательных бейджей ролей в ответах чата. Поддержаны шорткоды быстрого переключения агентов (`/adjutant`, `/editor`, `/coder`, `/preflight` и др.). В живой базе Supabase применён триггер защиты ролей, регистрация закрыта (OFF) |
 | 2026-10-26 | Проверка глав откалибрована по новому содержимому (EACVI Echo Handbook, новые главы guide): допустимы `open` в `<details>` и рисунки `<figure id="fig-…">`; базовая линия глав обновлена; новые находки описаны в дополнении к аудиту глав |

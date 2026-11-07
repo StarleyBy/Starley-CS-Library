@@ -66,7 +66,8 @@ const APP_SHELL = [
   './assets/js/settings.js',
   './assets/js/radial-menu.js',
   './assets/js/tab-manager.js',
-  './assets/js/navigation.js'
+  './assets/js/navigation.js',
+  './assets/interactive/iabp-atlas.html'
 ];
 
 // Установка

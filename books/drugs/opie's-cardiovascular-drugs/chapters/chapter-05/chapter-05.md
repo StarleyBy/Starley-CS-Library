@@ -56,18 +56,28 @@
 
 <details class="med-details"><summary>
 
-### Drug Class Overview and Guidelines</summary><div class="details-content">
+## 1. Drug Class Overview and Clinical Guidelines</summary><div class="details-content">
 
-#### Epidemiologic and Economic Burden of Obesity
+<details class="med-details"><summary>
+
+### 1.1 Epidemiologic and Economic Burden of Obesity</summary><div class="details-content">
+
+#### Global Prevalence and Mortality Burden
 Obesity is a worldwide societal and medical problem. The most recent estimates suggest that more than 1.9 billion people in the world are overweight (body mass index [BMI] 25–29 kg/m²) and over 650 million are obese (BMI ≥ 30 kg/m²). In the United States, over 39% of the adult population are obese and 33% are overweight, and obesity rates have doubled over the last 20 years. Globally, rates of obesity have tripled since 1975 with most of the global population living in countries where overweight and obesity kills more people than poor nutrition.
 
 There is a well-accepted relationship between BMI and overall mortality with a steady increase in risk starting at a BMI greater than 25 kg/m². It is estimated that there are between 115,000 and 300,000 obesity-related deaths in the United States each year and over 2.8 million deaths attributable to obesity worldwide. The costs associated with obesity are estimated to be almost 150 billion USD a year in the United States alone.
 
+#### Clinical Consensus and Economic Rationale
 There is a consensus that losing weight is important to improve health, in particular for prevention of diabetes and other obesity-related diseases such as sleep apnea, fatty liver, and polycystic ovary disease. Even relatively small weight loss (5%–10%) will result in favorable metabolic improvements. However, it has been challenging to identify either weight loss strategies or specific medical therapies that achieve meaningful and sustained weight loss.
 
 Moreover, the history of pharmacotherapy for weight loss includes many instances of drugs that caused serious side effects and therefore limited the interest in the clinical use of pharmacotherapy for the treatment of obesity. More challenging is the fact that no study of the weight loss strategy or therapy has definitively demonstrated cardiovascular benefit. While multiple weight loss studies have improved glycemic indices or reduced cardiac risk factors, none resulted in reductions in cardiovascular events such as myocardial infarction, stroke, revascularization, heart failure, or cardiovascular death. The absence to date of any study demonstrating cardiovascular benefit of weight loss has raised the question whether there is truly a causal relationship between obesity and cardiovascular outcomes, or whether obesity simply exacerbates other known cardiovascular risk factors, or is just a marker of worse metabolic health.
 
-#### Spectrum of Weight Loss Interventions
+</div></details>
+
+<details class="med-details"><summary>
+
+### 1.2 Spectrum of Weight Loss Interventions</summary><div class="details-content">
+
 The clinical challenge in choosing weight loss therapies is that the most effective weight loss strategy is bariatric surgery, which is invasive and only available to a relatively small proportion of patients. Bariatric surgery tends to be used in younger patients with fewer comorbidities but significant burden of obesity-related risks. At the other end of the therapeutic spectrum for obesity therapy are the diet and lifestyle interventions, for which there are many different programs (some with better evidence than others) but that in general attain modest weight loss that is difficult to maintain over time.
 
 Pharmacologic therapy falls in between the ends of the therapeutic spectrum but historically provided only modest weight loss at relatively high cost and with treatment-limiting side effects. There is therefore great clinical need to bridge this spectrum by discovering more effective weight loss pharmacotherapy that can achieve greater and sustained weight loss without safety concerns and therefore expand the potential patients population that could achieve significant and sustained weight loss ([Fig. 5.1](#fig-05-01)).
@@ -76,7 +86,12 @@ Pharmacologic therapy falls in between the ends of the therapeutic spectrum but 
 
 **Fig. 5.1 Obesity treatment options.** Currently, there is a large gap between diet/lifestyle/pharmacologic therapy on the left and bariatric surgery on the right in terms of effectiveness. Ideally, on the right, pharmacologic therapy will safely achieve greater weight loss and expand treatment options.
 
-#### Historical Perspective and FDA Safety Guidance
+</div></details>
+
+<details class="med-details"><summary>
+
+### 1.3 Historical Perspective and FDA Safety Guidance</summary><div class="details-content">
+
 The past several decades unfortunately witnessed several notable failures among pharmacologic weight loss therapy. In 1997, the combination pill fenfluramine–phentermine, a nonselective serotonin agonist, was found to increase the risk of valvulopathy and pulmonary hypertension after a relatively short treatment duration, leading to its removal from the market. Rimonabant, a cannabinoid antagonist, received approval for use in Europe. A large randomized study subsequently demonstrated an unacceptable increase in neuropsychiatric side effects that led to its withdrawal. Another drug, sibutramine, a sympathomimetic, facilitates weight loss; however, in a randomized trial, it increased myocardial infarction and stroke. A full list of drugs withdrawn or not approved in the United States is presented in [Table 5.1](#table-05-01).
 
 Based on this history, the US Food and Drug Administration (FDA) provided new guidance for the industry developing products for weight management, which required that to achieve approval, a drug must first demonstrate efficacy for weight loss, defined as both:
@@ -85,14 +100,23 @@ Based on this history, the US Food and Drug Administration (FDA) provided new gu
 
 In addition, the FDA required that any new agent must demonstrate cardiovascular safety through a post-marketing cardiovascular outcome trial, where the trial must exclude an excess risk defined by a noninferiority boundary of the upper amount of the 95% confidence interval (CI) < 1.4 for a composite major adverse cardiovascular endpoint. As in the diabetes area, this guidance has dramatically changed the development programs for obesity-related medications.
 
-#### Clinical Practice Guidelines and Treatment Thresholds
+</div></details>
+
+<details class="med-details"><summary>
+
+### 1.4 Clinical Practice Guidelines and Treatment Thresholds</summary><div class="details-content">
+
 Weight loss treatment must be multimodal and address underlying medical, behavioral, and lifestyle conditions that can often prevent adequate and sustained weight loss. Guidelines recommend that all obese and overweight patients receive lifestyle therapy (reduced-calorie healthy meal plan, physical activity, and behavioral interventions).
 
 For all obese patients (BMI ≥ 30 kg/m²) and those overweight patients (BMI ≥ 27 kg/m²; in some guidelines BMI ≥ 25 kg/m²) with adiposity-related complications, weight loss medications are recommended if lifestyle therapy does not achieve adequate weight loss. Bariatric surgery is recommended for those overweight and obese patients with at least one severe complication.
 
 <span id="table-05-01"></span>
 
-### Table 5.1 Historical list of medications used for managing body weight that were withdrawn or not approved in the United States
+</div></details>
+
+<span id="tab-05-01"></span>
+
+### TABLE 5.1 Historical list of medications used for managing body weight that were withdrawn or not approved in the United States
 
 | Drug | Year introduced or withdrawn | Comments |
 |---|---|---|
@@ -111,9 +135,12 @@ For all obese patients (BMI ≥ 30 kg/m²) and those overweight patients (BMI �
 
 <details class="med-details"><summary>
 
-### Pathophysiology and Mechanism of Action</summary><div class="details-content">
+## 2. Pathophysiology and Mechanisms of Energy Homeostasis</summary><div class="details-content">
 
-#### Energy Balance and Metabolic Set Points
+<details class="med-details"><summary>
+
+### 2.1 Energy Balance and Metabolic Set Points</summary><div class="details-content">
+
 The pathophysiology of obesity is a complex lifelong interplay between genetic, societal, cultural, behavioral, psychological, and medical factors, to name just a few, that result in the final heterogeneous manifestation of excess weight gain. The simplest calculation for obesity is the relationship between energy (caloric) intake and energy expenditure.
 
 However, each side of this balance becomes much more complicated based on nutritional content, central signaling, metabolic set points, and hormonal variations. [Fig. 5.2](#fig-05-02) provides a broad overview of energy balance together with potential areas for prevention. In general, one can tilt this scale by:
@@ -126,7 +153,12 @@ However, each side of this balance becomes much more complicated based on nutrit
 
 **Fig. 5.2 Pathophysiology of obesity.** Energy balance is modulated by the complex central integration of adiposity signals (leptin, insulin) and gut-derived peptides influencing anabolic food intake versus catabolic energy expenditure. Potential therapeutic targets include blocking nutrient uptake, centrally suppressing appetite, enhancing metabolic rate, and altering peripheral adiposity signaling.
 
-#### Hypothalamic Regulators and Central Neurocircuitry
+</div></details>
+
+<details class="med-details"><summary>
+
+### 2.2 Hypothalamic Regulators and Central Neurocircuitry</summary><div class="details-content">
+
 Centrally acting drugs affect a variety of pathways within the hypothalamus. [Fig. 5.3](#fig-05-03) reviews the complex interplay between anorexigenic (loss of appetite) and orexigenic (appetite stimulant) signaling in key areas such as the nucleus accumbens neurons, the dorsal vagal complex, paraventricular nucleus, lateral hypothalamic area, and the arcuate nucleus.
 
 Different therapeutic agents will inhibit orexigenic or augment anorexigenic pathways, but the redundancy in the different pathways highlights why single agents are often ineffective in achieving significant weight loss.
@@ -137,16 +169,84 @@ Different therapeutic agents will inhibit orexigenic or augment anorexigenic pat
 
 </div></details>
 
+<span id="diag-05-01"></span>
+
+### DIAGRAM 5.1 Central & Peripheral Appetite Regulators and Pharmacological Targets in Obesity
+
+<svg viewBox="0 0 1000 620" style="width:100%; max-width:1000px; height:auto; display:block; margin:16px auto;" xmlns="http://www.w3.org/2000/svg">
+<rect width="1000" height="620" rx="12" fill="#0f172a" stroke="#334155" stroke-width="2"/>
+<text x="500" y="32" fill="#38bdf8" font-family="system-ui, sans-serif" font-size="15" font-weight="700" text-anchor="middle" letter-spacing="1">CENTRAL & PERIPHERAL APPETITE REGULATION & PHARMACOLOGICAL TARGETS IN OBESITY</text>
+<text x="500" y="52" fill="#94a3b8" font-family="system-ui, sans-serif" font-size="11" text-anchor="middle">Hypothalamic Arcuate Nucleus, Vagal-Gut Axis, Adiposity Signals & Targeted Anti-Obesity Agents</text>
+<!-- Top Hypothalamus Container -->
+<rect x="40" y="70" width="920" height="180" rx="10" fill="#1e293b" stroke="#475569" stroke-width="1.5"/>
+<text x="500" y="92" fill="#f8fafc" font-family="system-ui, sans-serif" font-size="13" font-weight="700" text-anchor="middle">HYPOTHALAMIC ARCUATE NUCLEUS (ARC) & METABOLIC INTEGRATION</text>
+<!-- Left: POMC/CART -->
+<rect x="60" y="105" width="425" height="130" rx="8" fill="#064e3b" stroke="#10b981" stroke-width="1.5"/>
+<text x="272" y="128" fill="#34d399" font-family="system-ui, sans-serif" font-size="12" font-weight="700" text-anchor="middle">ANOREXIGENIC PATHWAY (SATIETY)</text>
+<text x="272" y="146" fill="#a7f3d0" font-family="system-ui, sans-serif" font-size="11" font-weight="600" text-anchor="middle">POMC / CART Neurons in Arcuate Nucleus</text>
+<text x="272" y="172" fill="#e2e8f0" font-family="system-ui, sans-serif" font-size="10.5" text-anchor="middle">Stimulated by: Leptin (+), Insulin (+), GLP-1 (+)</text>
+<text x="272" y="195" fill="#6ee7b7" font-family="system-ui, sans-serif" font-size="10" text-anchor="middle">Releases alpha-MSH -> Activates MC4R -> Suppresses Hunger & Increases Energy Expenditure</text>
+<!-- Right: NPY/AgRP -->
+<rect x="515" y="105" width="425" height="130" rx="8" fill="#7f1d1d" stroke="#ef4444" stroke-width="1.5"/>
+<text x="727" y="128" fill="#f87171" font-family="system-ui, sans-serif" font-size="12" font-weight="700" text-anchor="middle">OREXIGENIC PATHWAY (HUNGER)</text>
+<text x="727" y="146" fill="#fca5a5" font-family="system-ui, sans-serif" font-size="11" font-weight="600" text-anchor="middle">NPY / AgRP Neurons in Arcuate Nucleus</text>
+<text x="727" y="172" fill="#e2e8f0" font-family="system-ui, sans-serif" font-size="10.5" text-anchor="middle">Stimulated by: Ghrelin (+); Inhibited by: Leptin (-), PYY (-), GLP-1 (-)</text>
+<text x="727" y="195" fill="#fca5a5" font-family="system-ui, sans-serif" font-size="10" text-anchor="middle">Releases NPY & AgRP -> Competitive Antagonist at MC4R -> Stimulates Food Intake</text>
+<!-- Middle: Gut Peptides Banner -->
+<rect x="40" y="260" width="920" height="60" rx="8" fill="#1e1b4b" stroke="#6366f1" stroke-width="1.5"/>
+<text x="500" y="282" fill="#c7d2fe" font-family="system-ui, sans-serif" font-size="12" font-weight="700" text-anchor="middle">PERIPHERAL GUT-BRAIN AXIS & INCRETIN HORMONES</text>
+<text x="500" y="304" fill="#a5b4fc" font-family="system-ui, sans-serif" font-size="11" text-anchor="middle">Intestinal L-cells: GLP-1, PYY, Oxyntomodulin | K-cells: GIP | Stomach: Ghrelin (Orexigenic) | Adipose Tissue: Leptin</text>
+<!-- Bottom: Pharmacotherapy Grid -->
+<rect x="40" y="330" width="920" height="270" rx="10" fill="#1e293b" stroke="#334155" stroke-width="1.5"/>
+<text x="500" y="352" fill="#38bdf8" font-family="system-ui, sans-serif" font-size="12" font-weight="700" text-anchor="middle">PHARMACOLOGICAL DRUG CLASSES & CELLULAR TARGETS</text>
+<!-- Drug Card 1: Incretins -->
+<rect x="60" y="365" width="425" height="105" rx="8" fill="#0f172a" stroke="#0ea5e9" stroke-width="1.5"/>
+<text x="75" y="388" fill="#38bdf8" font-family="system-ui, sans-serif" font-size="12" font-weight="700">GLP-1 RAs & Dual GIP/GLP-1 RAs</text>
+<text x="75" y="410" fill="#cbd5e1" font-family="system-ui, sans-serif" font-size="10.5">Semaglutide 2.4 mg, Liraglutide 3.0 mg, Tirzepatide (GIP/GLP-1)</text>
+<text x="75" y="430" fill="#94a3b8" font-family="system-ui, sans-serif" font-size="10">Direct POMC activation, AgRP inhibition, delays gastric emptying</text>
+<text x="75" y="452" fill="#10b981" font-family="system-ui, sans-serif" font-size="10" font-weight="600">Weight Loss: -15% to -21% | Proven CV Benefit (SELECT Trial)</text>
+<!-- Drug Card 2: Phentermine/Topiramate -->
+<rect x="515" y="365" width="425" height="105" rx="8" fill="#0f172a" stroke="#8b5cf6" stroke-width="1.5"/>
+<text x="530" y="388" fill="#a78bfa" font-family="system-ui, sans-serif" font-size="12" font-weight="700">Sympathomimetic / Anticonvulsant</text>
+<text x="530" y="410" fill="#cbd5e1" font-family="system-ui, sans-serif" font-size="10.5">Phentermine / Topiramate ER (Qsymia)</text>
+<text x="530" y="430" fill="#94a3b8" font-family="system-ui, sans-serif" font-size="10">Hypothalamic NE release, GABA-A potentiation, AMPA/kainate antagonism</text>
+<text x="530" y="452" fill="#fbbf24" font-family="system-ui, sans-serif" font-size="10" font-weight="600">Weight Loss: -8% to -10% | REMS (Teratogenicity) | Check HR/BP</text>
+<!-- Drug Card 3: Naltrexone/Bupropion -->
+<rect x="60" y="480" width="425" height="105" rx="8" fill="#0f172a" stroke="#f59e0b" stroke-width="1.5"/>
+<text x="75" y="503" fill="#fbbf24" font-family="system-ui, sans-serif" font-size="12" font-weight="700">Opioid Antagonist / DNRI</text>
+<text x="75" y="525" fill="#cbd5e1" font-family="system-ui, sans-serif" font-size="10.5">Naltrexone / Bupropion SR (Contrave)</text>
+<text x="75" y="545" fill="#94a3b8" font-family="system-ui, sans-serif" font-size="10">Bupropion stimulates POMC; Naltrexone blocks beta-endorphin autoinhibition</text>
+<text x="75" y="567" fill="#f87171" font-family="system-ui, sans-serif" font-size="10" font-weight="600">Weight Loss: -5% to -6% | Seizure Contraindication | Avoid with Opioids</text>
+<!-- Drug Card 4: Orlistat -->
+<rect x="515" y="480" width="425" height="105" rx="8" fill="#0f172a" stroke="#10b981" stroke-width="1.5"/>
+<text x="530" y="503" fill="#34d399" font-family="system-ui, sans-serif" font-size="12" font-weight="700">Gastrointestinal Lipase Inhibitor</text>
+<text x="530" y="525" fill="#cbd5e1" font-family="system-ui, sans-serif" font-size="10.5">Orlistat (Xenical, Alli)</text>
+<text x="530" y="545" fill="#94a3b8" font-family="system-ui, sans-serif" font-size="10">Inhibits gastric & pancreatic lipases -> Blocks 30% dietary fat absorption</text>
+<text x="530" y="567" fill="#38bdf8" font-family="system-ui, sans-serif" font-size="10" font-weight="600">Weight Loss: -3% to -5% | GI Steatorrhea | Fat-Soluble Vitamins (A, D, E, K)</text>
+</svg>
+
+*Comprehensive neuroendocrine and peripheral signaling pathways governing energy homeostasis, appetite, and satiety in obesity, detailing targeted sites of action for currently approved and emerging anti-obesity pharmacotherapies.*
+
+</div></details>
+
 <details class="med-details"><summary>
 
-### Lifestyle Interventions, Clinical Outcomes, and Bariatric Approaches</summary><div class="details-content">
+## 3. Lifestyle Interventions, Clinical Outcomes, and Bariatric Approaches</summary><div class="details-content">
 
-#### Lifestyle and Behavioral Modification Programs
+<details class="med-details"><summary>
+
+### 3.1 Lifestyle and Behavioral Modification Programs</summary><div class="details-content">
+
 Lifestyle and diet can typically achieve a clinically relevant 5% to 10% weight loss, though it requires dedicated interventions to activate and sustain patients over time. Current guidelines recommend that a comprehensive program provide at least 14 direct patient–provider interventions over the first 6 months to initiate and sustain a calorie-reduced diet, increased aerobic exercise and physical activity, and structured behavioral therapy.
 
 Most patients will achieve their greatest weight loss over the initial 6 months. However, sustaining long-term weight reduction is exceptionally challenging and generally mandates ongoing high-volume physical activity alongside persistent dietary vigilance.
 
-#### Randomized Long-Term Outcomes: DPP, Look AHEAD, and Da Qing
+</div></details>
+
+<details class="med-details"><summary>
+
+### 3.2 Randomized Long-Term Outcomes: DPP, Look AHEAD, and Da Qing</summary><div class="details-content">
+
 Several landmark studies have evaluated the intermediate to long-term impact of lifestyle and dietary modification on cardiometabolic endpoints:
 
 * **The Diabetes Prevention Program (DPP):** Randomized 3,234 adults with impaired glucose tolerance and a mean baseline BMI of 34 kg/m² to placebo, metformin (850 mg twice daily), or an intensive lifestyle-modification program targeting ≥ 7% weight loss and ≥ 150 minutes of moderate-intensity physical activity per week. Over an average follow-up of 2.8 years, the incidence of diabetes was 11.0, 7.8, and 4.8 cases per 100 person-years in the placebo, metformin, and lifestyle groups, respectively. The lifestyle intervention reduced diabetes incidence by 58% compared to placebo and was significantly more effective than metformin (31% reduction). After 15 years of extended follow-up, cumulative diabetes incidences were 62% (placebo), 56% (metformin), and 55% (lifestyle), though aggregate rates of microvascular complications did not significantly differ between arms.
@@ -159,12 +259,22 @@ Several landmark studies have evaluated the intermediate to long-term impact of 
 
 Lifestyle and diet will always represent the essential cornerstone of weight management and long-term health. Nevertheless, clinical trials demonstrate that individual lifestyle changes alone are frequently insufficient to alter the severe macrovascular complications associated with chronic obesity on a broad scale. Broader economic, societal, and regulatory policies that encourage physical activity and healthier nutritional environments are necessary to sustain population-level weight management.
 
-#### Bariatric Surgical Modalities and Clinical Evidence
+</div></details>
+
+<details class="med-details"><summary>
+
+### 3.3 Bariatric Surgical Modalities and Clinical Evidence</summary><div class="details-content">
+
 The two most commonly performed metabolic surgeries for weight loss are sleeve gastrectomy and Roux-en-Y gastric bypass:
 * **Roux-en-Y Gastric Bypass:** Represents the most effective surgical therapy, combining restriction of gastric capacity with intestinal malabsorption and profound incretin alterations. It achieves up to 40% total body weight loss at 1 year, with sustained weight loss exceeding 25% at 5 years.
 * **Sleeve Gastrectomy:** Involves longitudinal resection of approximately 80% of the stomach along the greater curvature, reducing ghrelin secretion and gastric volume. It achieves up to 30% weight loss at 1 year and ~ 20% over 5 years. Because sleeve gastrectomy is technically less complex and avoids intestinal rerouting and anastomotic ulcerations, it is performed with lower perioperative morbidity and has become the predominant procedure globally.
 
-#### STAMPEDE Trial and Long-Term Observational Cohorts (SOS)
+</div></details>
+
+<details class="med-details"><summary>
+
+### 3.4 STAMPEDE Trial and Long-Term Observational Cohorts (SOS)</summary><div class="details-content">
+
 Metabolic surgery has been evaluated against medical therapy in rigorous clinical trials and large observational registries:
 
 * **The STAMPEDE Trial:** Randomized 150 obese patients with uncontrolled type 2 diabetes to receive intensive medical therapy alone, medical therapy plus Roux-en-Y gastric bypass, or medical therapy plus sleeve gastrectomy. The primary endpoint was achieving glycated hemoglobin (HbA1c) ≤ 6.0% with or without anti-hyperglycemic medications. At 5 years of follow-up, the primary endpoint was achieved by only 2% of patients in the medical therapy group compared with 29% of patients who underwent gastric bypass and 23% who received sleeve gastrectomy (P = 0.003). Absolute HbA1c reductions were 2.1% with surgery versus 0.3% with medical therapy alone. Mean weight reduction was 23.3 kg with gastric bypass, 18.6 kg with sleeve gastrectomy, and 5.3 kg with intensive medical therapy (P < 0.05 for all comparisons).
@@ -173,7 +283,12 @@ Metabolic surgery has been evaluated against medical therapy in rigorous clinica
 
 Although large observational studies cannot fully eliminate residual confounding, bariatric surgery is firmly recommended in clinical guidelines for appropriate obese patients with diabetes or severe metabolic comorbidities because of marked improvements in glycemic stability, hypertension, atherogenic dyslipidemia, obstructive sleep apnea, and overall quality of life.
 
-#### Endoscopic and Mechanical Anti-Obesity Devices
+</div></details>
+
+<details class="med-details"><summary>
+
+### 3.5 Endoscopic and Mechanical Anti-Obesity Devices</summary><div class="details-content">
+
 Several minimally invasive and mechanical devices are approved for the treatment of obesity to facilitate weight loss without permanent anatomical alteration:
 * **Intragastric Balloons:** Fluid- or gas-filled balloons placed endoscopically or swallowed to occupy gastric space, delaying gastric emptying and inducing early satiety;
 * **Vagal Nerve Stimulation:** Implanted subcutaneous neurostimulators that intermittently stimulate the intra-abdominal vagus nerve to decrease appetite;
@@ -183,27 +298,44 @@ These devices typically produce modest weight loss (less than 10% placebo-subtra
 
 </div></details>
 
+</div></details>
+
 <details class="med-details"><summary>
 
-### Pharmacologic Therapy: Established and Historical Agents</summary><div class="details-content">
+## 4. Established and Historical Anti-Obesity Pharmacotherapies</summary><div class="details-content">
 
-#### Principles of Pharmacotherapy and the 12-Week Rule
+<details class="med-details"><summary>
+
+### 4.1 Principles of Pharmacotherapy and the 12-Week Rule</summary><div class="details-content">
+
 Pharmacotherapy should be considered for patients with obesity (BMI ≥ 30 kg/m²) or overweight patients (BMI ≥ 27 kg/m²; in some frameworks BMI > 25 kg/m²) who have an adiposity-related comorbidity such as type 2 diabetes, nonalcoholic fatty liver disease, hypertension, dyslipidemia, or obstructive sleep apnea.
 
 Unfortunately, there are very few direct head-to-head clinical trials of weight-loss agents, making comparative efficacy assessments a persistent clinical challenge. Furthermore, most registration trials have been conducted in relatively young, selected populations, typically spanned no more than 1 year, and suffered from high treatment discontinuation rates driven by either adverse effects or plateaued weight loss.
 
 Pharmacotherapy is investigated and indicated strictly as an adjunct to lifestyle modification, never as monotherapy. In clinical practice, the **12-week stopping rule** applies: if a patient fails to lose at least 5% of baseline body weight after 12 weeks of therapy at the recommended therapeutic dose, they are considered a non-responder and unlikely to derive meaningful clinical benefit from continued use. Because obesity is a heterogeneous disease mediated by redundant pathophysiologic pathways, patients may respond variably depending on individual neurochemical sensitivity, making class cycling a recognized clinical approach.
 
-#### Lipase Inhibitors: Orlistat
+</div></details>
+
+<details class="med-details"><summary>
+
+### 4.2 Lipase Inhibitors: Orlistat</summary><div class="details-content">
+
+#### Mechanism of Action and Gastrointestinal Effects
 Orlistat is a reversible inhibitor of gastric and pancreatic lipases. By covalently binding to active serine residues within the catalytic site of gastrointestinal lipases, it blocks the enzymatic hydrolysis of dietary triglycerides into absorbable free fatty acids and monoglycerides, thereby increasing fecal fat excretion.
 
 When consumed alongside a standard diet, therapeutic dosing of orlistat (120 mg three times daily with meals) inhibits the absorption of approximately 25% to 30% of dietary fat calories. Across clinical trials, the 1-year placebo-subtracted weight loss with orlistat is modest, averaging approximately 3%.
 
+#### Landmark Trial Evidence and Safety Profile
 In a landmark 4-year double-blind trial of 3,304 obese or overweight patients (the XENDOS trial), orlistat significantly reduced the cumulative incidence of type 2 diabetes (6.2% with orlistat versus 9.0% with placebo, representing a 37% relative risk reduction). In a trial of 892 subjects, orlistat led to an 8 mg/dL (0.2 mmol/L) greater reduction in fasting low-density lipoprotein cholesterol (LDL-C) compared to placebo, an effect partly independent of weight loss due to decreased intestinal fat absorption.
 
 Because orlistat is essentially not absorbed systemically, it causes no systemic cardiovascular toxicity. However, its intraluminal mechanism of action frequently induces unpleasant gastrointestinal adverse events, including steatorrhea, oily spotting, fecal urgency, flatulence with discharge, and fecal incontinence, which significantly undermine patient adherence. Patients must take daily multivitamin supplements containing fat-soluble vitamins (vitamins A, D, E, and K) separated by at least 2 hours from drug administration to prevent deficiency. Oxalate-induced acute kidney injury and nephrolithiasis have also been reported, resulting from excessive enteric calcium binding by unabsorbed fatty acids, leaving unbound oxalate free to be hyperabsorbed into the circulation and precipitated in renal tubules.
 
-#### Sympathomimetic Amines: Phentermine and Noradrenergic Agents
+</div></details>
+
+<details class="med-details"><summary>
+
+### 4.3 Sympathomimetic Amines: Phentermine and Noradrenergic Agents</summary><div class="details-content">
+
 Sympathomimetic amines induce weight reduction primarily by stimulating the release of norepinephrine and, to a lesser extent, dopamine in hypothalamic satiety centers, stimulating α1- and β2-adrenergic pathways to induce early anorexia.
 
 Four sympathomimetic agents are approved by the FDA strictly for short-term adjunctive management (typically defined as up to 12 weeks) of obesity:
@@ -216,7 +348,12 @@ Because these agents are chemically and pharmacologically related to amphetamine
 
 Phentermine remains the most frequently prescribed anti-obesity medication in the United States. In randomized short-term trials, phentermine monotherapy (15–37.5 mg/day) produces an average placebo-subtracted weight loss of 4% to 6%. Beyond tachycardia and blood pressure elevation, common adverse effects include insomnia, anxiety, motor restlessness, palpitations, and xerostomia. Sibutramine, a related sympathomimetic agent that inhibited norepinephrine and serotonin reuptake, was withdrawn globally after the SCOUT trial showed an increased risk of nonfatal myocardial infarction and stroke.
 
-#### Phentermine / Topiramate Extended-Release (Qsymia)
+</div></details>
+
+<details class="med-details"><summary>
+
+### 4.4 Phentermine / Topiramate Extended-Release (Qsymia)</summary><div class="details-content">
+
 In 2012, the FDA approved a fixed-dose combination capsule of immediate-release phentermine and extended-release topiramate for chronic weight management in adults with a BMI ≥ 30 kg/m², or BMI ≥ 27 kg/m² in the presence of at least one weight-related comorbidity.
 
 Topiramate is a neurotherapeutic agent approved for seizure disorders and migraine prophylaxis that promotes weight loss through complex neurochemical actions: enhancement of γ-aminobutyric acid (GABA) activity, inhibition of AMPA/kainate glutamate receptors, and weak inhibition of carbonic anhydrase isozymes. Combining topiramate with the noradrenergic stimulant phentermine produces profound synergistic appetite suppression at lower doses than either agent as monotherapy.
@@ -232,7 +369,12 @@ The most frequent adverse events in clinical trials were dry mouth, paresthesias
 
 Topiramate is a potent teratogen, significantly increasing the incidence of congenital oral clefts (cleft lip with or without cleft palate) when taken during the first trimester of pregnancy. Consequently, the combination is contraindicated during pregnancy. Women of reproductive potential must obtain a negative pregnancy test prior to treatment initiation, utilize reliable contraception, and undergo monthly pregnancy testing throughout therapy. In the United States, the medication is distributed under a mandatory Risk Evaluation and Mitigation Strategy (REMS).
 
-#### 5-HT2C Serotonin Agonists: Lorcaserin (Belviq)
+</div></details>
+
+<details class="med-details"><summary>
+
+### 4.5 5-HT2C Serotonin Agonists: Lorcaserin (Belviq)</summary><div class="details-content">
+
 Lorcaserin is a selective serotonin 5-HT2C receptor agonist approved in 2012 as an adjunct to a reduced-calorie diet and exercise. Unlike older nonselective serotonergic agents such as fenfluramine and dexfenfluramine—which stimulated 5-HT2B receptors expressed on cardiac valvular interstitial cells and pulmonary arterial smooth muscle, causing fibrotic valvulopathy and pulmonary hypertension—lorcaserin exhibits approximately 100-fold greater functional selectivity for central hypothalamic 5-HT2C receptors over human 5-HT2B and 5-HT2A subtypes.
 
 Lorcaserin was evaluated across three large phase 3 trials:
@@ -240,7 +382,12 @@ Lorcaserin was evaluated across three large phase 3 trials:
 2. **The BLOSSOM Study:** Randomized 4,008 patients to lorcaserin 10 mg twice daily, 10 mg once daily, or placebo. Rates of ≥ 5% weight loss were 47.2%, 40.2%, and 25.0%, respectively (P < 0.001); rates of ≥ 10% weight loss were 22.6%, 17.4%, and 9.7%. Valvulopathy rates did not differ from placebo.
 3. **The BLOOM-DM Study:** Evaluated 604 obese patients with type 2 diabetes. Weight loss was 4.5% with twice-daily lorcaserin, 5.0% with once-daily lorcaserin, and 1.5% with placebo; HbA1c reductions were 0.9%, 1.0%, and 0.4%, respectively (P < 0.001 for all comparisons).
 
-#### CAMELLIA–TIMI 61 Safety Trial and Market Withdrawal
+</div></details>
+
+<details class="med-details"><summary>
+
+### 4.6 CAMELLIA–TIMI 61 Safety Trial and Market Withdrawal</summary><div class="details-content">
+
 Lorcaserin was the first anti-obesity medication to complete an FDA-mandated cardiovascular safety trial:
 
 * **The CAMELLIA–TIMI 61 Trial:** Randomized 12,000 overweight or obese patients with established atherosclerotic cardiovascular disease or diabetes with additional cardiovascular risk factors to lorcaserin 10 mg twice daily or placebo. The primary safety endpoint was 3-point MACE (cardiovascular death, myocardial infarction, or stroke). Coprimary efficacy endpoints were expanded MACE (adding heart failure hospitalization, unstable angina, or revascularization) and incident type 2 diabetes among patients with prediabetes.
@@ -253,7 +400,12 @@ Lorcaserin was the first anti-obesity medication to complete an FDA-mandated car
 
 Despite cardiovascular safety confirmation, extended follow-up analysis of the CAMELLIA–TIMI 61 dataset revealed an increased incidence of cancer diagnoses in the lorcaserin arm compared with placebo (462 patients [7.7%] vs 423 patients [7.1%]; P = 0.055), with diverse malignancies including pancreatic, colorectal, and lung neoplasms. In February 2020, at the request of the FDA, the manufacturer voluntarily withdrew lorcaserin from the US and global markets.
 
-#### Naltrexone / Bupropion Combination (Contrave)
+</div></details>
+
+<details class="med-details"><summary>
+
+### 4.7 Naltrexone / Bupropion Combination (Contrave)</summary><div class="details-content">
+
 The fixed-dose combination of naltrexone and bupropion extended-release was approved by the FDA in 2014 for chronic weight management. The formulation pairs bupropion, an aminoketone antidepressant that acts as a weak norepinephrine–dopamine reuptake inhibitor (NDRI) and nicotinic acetylcholine receptor antagonist, with naltrexone, a pure μ-opioid receptor antagonist.
 
 In the hypothalamic arcuate nucleus, bupropion stimulates POMC neurons to release α-MSH, which binds MC4R to reduce appetite. Concurrently, POMC activation releases β-endorphin, an endogenous opioid peptide that acts through μ-opioid receptors on POMC neurons to exert negative autoinhibitory feedback. By competitively blocking μ-opioid receptors, naltrexone prevents β-endorphin autoinhibition, sustaining POMC firing and producing synergistic appetite suppression and reduction of hedonic food cravings in the mesolimbic dopamine reward system.
@@ -264,18 +416,28 @@ The pivotal Contrave Obesity Research I (COR-I) trial randomized 1,742 overweigh
 
 **Fig. 5.7 Change in body weight with naltrexone plus bupropion versus placebo.** Observed least squares mean percentage change from baseline in body weight and number of participants remaining on treatment at each visit over 56 weeks in the COR-I trial.
 
-#### Cardiovascular Evaluation: The LIGHT Trial and Breaches of Integrity
+</div></details>
+
+<details class="med-details"><summary>
+
+### 4.8 Cardiovascular Evaluation: The LIGHT Trial and Breaches of Integrity</summary><div class="details-content">
+
 Naltrexone/bupropion was evaluated for long-term cardiovascular safety in the LIGHT trial, a post-marketing cardiovascular outcome study that randomized 8,910 overweight or obese patients with established cardiovascular disease or type 2 diabetes with risk factors to naltrexone/bupropion or placebo. The trial was powered to rule out an upper 95% CI bound of 1.4 for MACE.
 
 During an interim 25% analysis conducted by the Data Monitoring Committee, confidential unblinded data suggesting an early cardiovascular benefit were improperly disclosed by the sponsor to third parties and patent attorneys, leading to public dissemination. As follow-up continued to 50% of target events, the apparent early benefit completely attenuated toward neutrality. Furthermore, by 26 weeks, premature treatment discontinuation exceeded 60% of enrolled subjects. Because these fundamental breaches severely compromised the scientific integrity of the trial, the executive steering committee and FDA terminated the LIGHT study prematurely, with the FDA mandating that a new, uncompromised CVOT be performed.
 
 </div></details>
 
+</div></details>
+
 <details class="med-details"><summary>
 
-### Incretin-Based Therapies and Next-Generation Co-Agonists</summary><div class="details-content">
+## 5. Incretin-Based Therapies and Next-Generation Co-Agonists</summary><div class="details-content">
 
-#### Biology of Glucagon-Like Peptide-1 (GLP-1) in Energy Balance
+<details class="med-details"><summary>
+
+### 5.1 Biology of Glucagon-Like Peptide-1 (GLP-1) in Energy Balance</summary><div class="details-content">
+
 Glucagon-like peptide-1 (GLP-1) is an endogenous incretin peptide hormone secreted by enteroendocrine L cells of the distal ileum and colon in response to nutrient ingestion. It acts through specific G-protein-coupled GLP-1 receptors to stimulate glucose-dependent insulin secretion from pancreatic β-cells while concurrently suppressing postprandial glucagon release from α-cells.
 
 Beyond its glycemic actions, GLP-1 exerts profound regulatory effects on whole-body energy balance:
@@ -285,7 +447,12 @@ Beyond its glycemic actions, GLP-1 exerts profound regulatory effects on whole-b
 
 Several GLP-1 receptor agonists are approved for type 2 diabetes as daily or once-weekly injectable formulations, as well as an oral formulation. Among these, multiple agents (liraglutide, semaglutide, dulaglutide, and albiglutide) have definitively demonstrated significant reductions in major adverse cardiovascular events—specifically cardiovascular mortality, nonfatal myocardial infarction, and nonfatal stroke—in dedicated cardiovascular outcome trials in patients with diabetes. Among GLP-1 receptor agonists, the degree of weight reduction is both drug- and dose-dependent.
 
-#### Liraglutide 3.0 mg (Saxenda): The SCALE Clinical Program
+</div></details>
+
+<details class="med-details"><summary>
+
+### 5.2 Liraglutide 3.0 mg (Saxenda): The SCALE Clinical Program</summary><div class="details-content">
+
 Liraglutide was the first GLP-1 receptor agonist approved specifically for the chronic management of obesity in patients with or without type 2 diabetes, utilizing a higher once-daily subcutaneous maintenance dose (3.0 mg/day) than the dose approved for diabetes management (1.8 mg/day).
 
 The clinical efficacy and safety of high-dose liraglutide were established across the extensive Satiety and Clinical Adiposity—Liraglutide Evidence in Non-diabetic and Diabetic Adults (SCALE) program:
@@ -300,7 +467,12 @@ The clinical efficacy and safety of high-dose liraglutide were established acros
 
 The most common adverse events with liraglutide are gastrointestinal, predominantly transient mild-to-moderate nausea, diarrhea, constipation, and vomiting, which typically abate with gradual weekly dose titration (initiating at 0.6 mg daily and escalating weekly by 0.6 mg increments to 3.0 mg).
 
-#### Semaglutide (Wegovy): Potency, Phase 2 Data, and the SELECT Trial
+</div></details>
+
+<details class="med-details"><summary>
+
+### 5.3 Semaglutide (Wegovy): Potency, Phase 2 Data, and the SELECT Trial</summary><div class="details-content">
+
 Semaglutide is a modified human GLP-1 analogue engineered with fatty acid diacid acylation, conferring tight albumin binding and resistance to dipeptidyl peptidase-4 (DPP-4) cleavage, which extends its plasma half-life to approximately 165 hours and enables once-weekly subcutaneous administration.
 
 In a landmark phase 2, randomized, double-blind, dose-ranging trial in 957 overweight or obese adults with or without diabetes, escalating doses of once-weekly subcutaneous semaglutide (0.05 to 0.4 mg/day equivalent, up to 2.8 mg/week) were compared with liraglutide 3.0 mg daily and placebo over 52 weeks. Semaglutide induced marked, dose-dependent weight loss:
@@ -315,7 +487,12 @@ In a landmark phase 2, randomized, double-blind, dose-ranging trial in 957 overw
 
 To definitively test whether weight loss induced by potent GLP-1 receptor agonism translates into cardiovascular secondary prevention in non-diabetic patients, the seminal **SELECT trial** (Semaglutide Effects on Cardiovascular Outcomes in People With Overweight or Obesity; ClinicalTrials.gov Identifier: NCT03574597) was launched, enrolling 17,500 overweight or obese patients with established cardiovascular disease but without diabetes randomized to semaglutide 2.4 mg once weekly or placebo.
 
-#### Dual GIP/GLP-1 Receptor Agonists: LY3298176 (Tirzepatide)
+</div></details>
+
+<details class="med-details"><summary>
+
+### 5.4 Dual GIP/GLP-1 Receptor Agonists: LY3298176 (Tirzepatide)</summary><div class="details-content">
+
 The novel multi-agonist peptide LY3298176 (tirzepatide) is a synthetic 39-amino-acid peptide with dual agonist activity at both the glucose-dependent insulinotropic polypeptide (GIP) receptor and the GLP-1 receptor. Endogenous GIP acts synergistically with GLP-1 to enhance glucose-stimulated insulin secretion, optimize white adipose tissue lipid buffering, improve insulin sensitivity, and modulate hypothalamic feeding centers.
 
 In a 26-week, double-blind, phase 2 dose-ranging study involving 555 adults with type 2 diabetes and a BMI between 23 and 50 kg/m², participants were randomized to once-weekly LY3298176 (1 mg, 5 mg, 10 mg, or 15 mg), dulaglutide 1.5 mg once weekly, or placebo:
@@ -329,18 +506,27 @@ In a 26-week, double-blind, phase 2 dose-ranging study involving 555 adults with
 
 </div></details>
 
+</div></details>
+
 <details class="med-details"><summary>
 
-### Cardiovascular Considerations, Clinical Synthesis, and Future Directions</summary><div class="details-content">
+## 6. Cardiovascular Considerations, Clinical Synthesis, and Treatment Algorithms</summary><div class="details-content">
 
-#### Hemodynamic Profiles and Blood Pressure Interactions
+<details class="med-details"><summary>
+
+### 6.1 Hemodynamic Profiles and Blood Pressure Interactions</summary><div class="details-content">
+
 There are multiple weight-loss agents available, all with differing mechanisms of action, degrees of efficacy for weight loss, and side effects ([Table 5.2](#table-05-02)). A critical clinical consideration in the selection of anti-obesity pharmacotherapy is the differential impact of individual drug classes on resting heart rate, systemic arterial blood pressure, and vascular outcomes.
 
 While sympathomimetic agents such as phentermine and bupropion elevate central adrenergic tone and can raise arterial pressure, drugs that induce substantial weight loss (such as phentermine/topiramate and incretin mimetics) typically lower blood pressure secondary to weight reduction, despite mild reflex or direct increases in heart rate.
 
 <span id="table-05-02"></span>
 
-### Table 5.2 Cardiovascular considerations: effect of obesity therapies on heart rate and blood pressure
+</div></details>
+
+<span id="tab-05-02"></span>
+
+### TABLE 5.2 Cardiovascular considerations: effect of obesity therapies on heart rate and blood pressure
 
 | Drug | Heart rate | Blood pressure | Cardiovascular effect | Prevention of diabetes |
 |---|---|---|---|---|
@@ -350,9 +536,142 @@ While sympathomimetic agents such as phentermine and bupropion elevate central a
 | **Liraglutide** | ↑ | ↓ | Cardioprotective at diabetes dosing | Yes |
 | **Lorcaserin** | ↓ | ↓ | Neither increases nor reduces cardiovascular risk | Yes |
 
-#### Clinical Synthesis and Therapeutic Implications
+<details class="med-details"><summary>
+
+### 6.2 Clinical Synthesis and Therapeutic Implications</summary><div class="details-content">
+
 While no agent had yet demonstrated definitive cardiovascular event reduction in obese patients without diabetes at the time of initial guideline formulation, the extensive evidence of cardiovascular benefit of GLP-1 receptor agonists in patients with type 2 diabetes (most of whom are also obese) positions GLP-1 receptor agonists as the most clinically appealing pharmacologic weight-loss option at this time, especially for patients with diabetes or at higher cardiovascular risk.
 
 Future research to identify potential mechanisms of benefit of this class of drugs, the completion of large-scale cardiovascular outcome trials in non-diabetic cohorts such as SELECT, and the development of additional safe and highly effective dual and triple incretin receptor co-agonists are urgently needed as part of a comprehensive societal approach to obesity and its related cardiometabolic comorbidities.
+
+</div></details>
+
+<span id="diag-05-02"></span>
+
+### DIAGRAM 5.2 Evidence-Based Risk-Stratified Clinical Management Algorithm for Obesity
+
+<svg viewBox="0 0 1000 680" style="width:100%; max-width:1000px; height:auto; display:block; margin:16px auto;" xmlns="http://www.w3.org/2000/svg">
+<rect width="1000" height="680" rx="12" fill="#0f172a" stroke="#334155" stroke-width="2"/>
+<text x="500" y="32" fill="#38bdf8" font-family="system-ui, sans-serif" font-size="15" font-weight="700" text-anchor="middle" letter-spacing="1">EVIDENCE-BASED RISK-STRATIFIED CLINICAL ALGORITHM FOR OBESITY MANAGEMENT</text>
+<text x="500" y="52" fill="#94a3b8" font-family="system-ui, sans-serif" font-size="11" text-anchor="middle">Clinical Staging, Phenotype-Guided Pharmacotherapy, the 12-Week Rule & Metabolic Surgery</text>
+<!-- Step 1: Evaluation -->
+<rect x="50" y="70" width="900" height="65" rx="8" fill="#1e293b" stroke="#3b82f6" stroke-width="1.5"/>
+<text x="500" y="93" fill="#93c5fd" font-family="system-ui, sans-serif" font-size="12" font-weight="700" text-anchor="middle">STEP 1: CLINICAL EVALUATION & BMI STAGING</text>
+<text x="500" y="115" fill="#cbd5e1" font-family="system-ui, sans-serif" font-size="10.5" text-anchor="middle">BMI >= 25 (Overweight) | BMI >= 30 (Obesity Class I: 30-34.9; Class II: 35-39.9; Class III: >= 40)</text>
+<text x="500" y="129" fill="#94a3b8" font-family="system-ui, sans-serif" font-size="10" text-anchor="middle">Screen for Adiposity-Based Chronic Disease: T2D, ASCVD, HTN, OSA, NAFLD/MASH, Osteoarthritis</text>
+<!-- Arrow -->
+<line x1="500" y1="135" x2="500" y2="150" stroke="#64748b" stroke-width="2" marker-end="url(#arrow)"/>
+<!-- Step 2: Lifestyle -->
+<rect x="50" y="150" width="900" height="48" rx="8" fill="#064e3b" stroke="#10b981" stroke-width="1.5"/>
+<text x="500" y="170" fill="#6ee7b7" font-family="system-ui, sans-serif" font-size="11.5" font-weight="700" text-anchor="middle">STEP 2: COMPREHENSIVE LIFESTYLE & BEHAVIORAL INTERVENTIONS</text>
+<text x="500" y="188" fill="#a7f3d0" font-family="system-ui, sans-serif" font-size="10.5" text-anchor="middle">500-750 kcal/day energy deficit | Structured physical activity (>= 150-300 min/week) | Behavioral therapy</text>
+<!-- Arrow -->
+<line x1="500" y1="198" x2="500" y2="213" stroke="#64748b" stroke-width="2"/>
+<!-- Step 3: Threshold -->
+<rect x="150" y="213" width="700" height="42" rx="8" fill="#1e1b4b" stroke="#6366f1" stroke-width="1.5"/>
+<text x="500" y="232" fill="#c7d2fe" font-family="system-ui, sans-serif" font-size="11.5" font-weight="700" text-anchor="middle">STEP 3: PHARMACOTHERAPY INDICATION THRESHOLD</text>
+<text x="500" y="248" fill="#e0e7ff" font-family="system-ui, sans-serif" font-size="10.5" text-anchor="middle">BMI >= 30 kg/m2 OR BMI >= 27 kg/m2 with >= 1 Weight-Related Comorbidity</text>
+<!-- Fork Lines to Phenotypes -->
+<path d="M 500 255 L 500 270 M 150 270 L 850 270 M 150 270 L 150 285 M 380 270 L 380 285 M 620 270 L 620 285 M 850 270 L 850 285" fill="none" stroke="#64748b" stroke-width="1.5"/>
+<!-- Phenotype 1: High Efficacy / T2D / ASCVD -->
+<rect x="50" y="285" width="205" height="160" rx="8" fill="#0f172a" stroke="#0ea5e9" stroke-width="1.5"/>
+<rect x="50" y="285" width="205" height="26" rx="8" fill="#0284c7"/>
+<text x="152" y="302" fill="#ffffff" font-family="system-ui, sans-serif" font-size="10.5" font-weight="700" text-anchor="middle">ASCVD / T2D / HFpEF</text>
+<text x="152" y="325" fill="#38bdf8" font-family="system-ui, sans-serif" font-size="11" font-weight="700" text-anchor="middle">SEMAGLUTIDE 2.4 mg</text>
+<text x="152" y="340" fill="#38bdf8" font-family="system-ui, sans-serif" font-size="11" font-weight="700" text-anchor="middle">TIRZEPATIDE 15 mg</text>
+<text x="60" y="362" fill="#cbd5e1" font-family="system-ui, sans-serif" font-size="9.5">- Weight loss: -15% to -21%</text>
+<text x="60" y="378" fill="#cbd5e1" font-family="system-ui, sans-serif" font-size="9.5">- 20% MACE reduction (SELECT)</text>
+<text x="60" y="394" fill="#cbd5e1" font-family="system-ui, sans-serif" font-size="9.5">- Renal protection & HF benefits</text>
+<text x="60" y="425" fill="#10b981" font-family="system-ui, sans-serif" font-size="9.5" font-weight="600">Preferred First-Line Choice</text>
+<!-- Phenotype 2: Smoking / Depression -->
+<rect x="275" y="285" width="210" height="160" rx="8" fill="#0f172a" stroke="#f59e0b" stroke-width="1.5"/>
+<rect x="275" y="285" width="210" height="26" rx="8" fill="#d97706"/>
+<text x="380" y="302" fill="#ffffff" font-family="system-ui, sans-serif" font-size="10.5" font-weight="700" text-anchor="middle">Smoking / Depression</text>
+<text x="380" y="325" fill="#fbbf24" font-family="system-ui, sans-serif" font-size="11" font-weight="700" text-anchor="middle">NALTREXONE / BUPROPION</text>
+<text x="285" y="352" fill="#cbd5e1" font-family="system-ui, sans-serif" font-size="9.5">- Weight loss: -5% to -6%</text>
+<text x="285" y="370" fill="#cbd5e1" font-family="system-ui, sans-serif" font-size="9.5">- Dual benefit: smoking cessation</text>
+<text x="285" y="388" fill="#fca5a5" font-family="system-ui, sans-serif" font-size="9.5">- Contraindicated: Seizures, HTN</text>
+<text x="285" y="425" fill="#f59e0b" font-family="system-ui, sans-serif" font-size="9.5" font-weight="600">Avoid with chronic opioids</text>
+<!-- Phenotype 3: Migraine / Young / Cost -->
+<rect x="505" y="285" width="215" height="160" rx="8" fill="#0f172a" stroke="#8b5cf6" stroke-width="1.5"/>
+<rect x="505" y="285" width="215" height="26" rx="8" fill="#7c3aed"/>
+<text x="612" y="302" fill="#ffffff" font-family="system-ui, sans-serif" font-size="10.5" font-weight="700" text-anchor="middle">Migraine / Young / Cost</text>
+<text x="612" y="325" fill="#a78bfa" font-family="system-ui, sans-serif" font-size="11" font-weight="700" text-anchor="middle">PHENTERMINE / TOPIRAMATE</text>
+<text x="515" y="352" fill="#cbd5e1" font-family="system-ui, sans-serif" font-size="9.5">- Weight loss: -8% to -10%</text>
+<text x="515" y="370" fill="#cbd5e1" font-family="system-ui, sans-serif" font-size="9.5">- Migraine prophylaxis synergy</text>
+<text x="515" y="388" fill="#fca5a5" font-family="system-ui, sans-serif" font-size="9.5">- Strict REMS (Teratogenicity)</text>
+<text x="515" y="425" fill="#fbbf24" font-family="system-ui, sans-serif" font-size="9.5" font-weight="600">Monitor Heart Rate & BP</text>
+<!-- Phenotype 4: Local / Minimal Absorption -->
+<rect x="740" y="285" width="210" height="160" rx="8" fill="#0f172a" stroke="#10b981" stroke-width="1.5"/>
+<rect x="740" y="285" width="210" height="26" rx="8" fill="#059669"/>
+<text x="845" y="302" fill="#ffffff" font-family="system-ui, sans-serif" font-size="10.5" font-weight="700" text-anchor="middle">Minimal Systemic Absorption</text>
+<text x="845" y="325" fill="#34d399" font-family="system-ui, sans-serif" font-size="11" font-weight="700" text-anchor="middle">ORLISTAT (120 mg TID)</text>
+<text x="750" y="352" fill="#cbd5e1" font-family="system-ui, sans-serif" font-size="9.5">- Weight loss: -3% to -5%</text>
+<text x="750" y="370" fill="#cbd5e1" font-family="system-ui, sans-serif" font-size="9.5">- Blocks 30% dietary fat absorption</text>
+<text x="750" y="388" fill="#fca5a5" font-family="system-ui, sans-serif" font-size="9.5">- GI side effects (steatorrhea)</text>
+<text x="750" y="425" fill="#34d399" font-family="system-ui, sans-serif" font-size="9.5" font-weight="600">Supplement fat-soluble vit.</text>
+<!-- Convergence to 12-Week Rule -->
+<path d="M 150 445 L 150 460 M 380 445 L 380 460 M 612 445 L 612 460 M 845 445 L 845 460 M 150 460 L 845 460 M 500 460 L 500 475" fill="none" stroke="#64748b" stroke-width="1.5"/>
+<!-- Step 5: 12-Week Rule Box -->
+<rect x="50" y="475" width="900" height="95" rx="8" fill="#1e293b" stroke="#f59e0b" stroke-width="1.5"/>
+<text x="500" y="498" fill="#fbbf24" font-family="system-ui, sans-serif" font-size="12" font-weight="700" text-anchor="middle">STEP 5: THE MANDATORY 12-WEEK STOPPING / RE-EVALUATION RULE</text>
+<rect x="70" y="510" width="415" height="48" rx="6" fill="#064e3b" stroke="#10b981" stroke-width="1"/>
+<text x="277" y="538" fill="#6ee7b7" font-family="system-ui, sans-serif" font-size="10.5" font-weight="600" text-anchor="middle">>= 5% Weight Loss at 12 Weeks on Target Dose -> CONTINUE Long-Term Maintenance</text>
+<rect x="515" y="510" width="415" height="48" rx="6" fill="#7f1d1d" stroke="#ef4444" stroke-width="1"/>
+<text x="722" y="538" fill="#fca5a5" font-family="system-ui, sans-serif" font-size="10.5" font-weight="600" text-anchor="middle">< 5% Weight Loss at 12 Weeks -> Discontinue Medication & Switch to Alternative Class</text>
+<!-- Step 6: Bariatric Surgery -->
+<rect x="50" y="590" width="900" height="65" rx="8" fill="#311042" stroke="#d946ef" stroke-width="1.5"/>
+<text x="500" y="613" fill="#f0abfc" font-family="system-ui, sans-serif" font-size="12" font-weight="700" text-anchor="middle">STEP 6: METABOLIC & BARIATRIC SURGERY CRITERIA</text>
+<text x="500" y="635" fill="#e879f9" font-family="system-ui, sans-serif" font-size="11" text-anchor="middle">BMI >= 40 kg/m2 OR BMI >= 35 kg/m2 with Serious Comorbidities failing medical/lifestyle therapy</text>
+</svg>
+
+*Clinical management algorithm for overweight and obesity, integrating BMI and adiposity-based complication staging, lifestyle foundation, phenotype-guided drug selection, the 12-week stopping rule, and indications for metabolic surgery.*
+
+</div></details>
+
+<details class="med-details"><summary>
+
+## 7. High-Yield Clinical Pearls in Obesity Pharmacotherapy</summary><div class="details-content">
+
+Twenty-five essential, board-relevant clinical pearls summarizing the contemporary pharmacotherapeutic, pathophysiological, and regulatory principles of obesity medicine.
+
+<details class="med-details"><summary>
+
+### 7.1 Pathophysiology, Diagnostics, and Drug Selection (Pearls 1–12)</summary><div class="details-content">
+
+1. **Obesity as a Chronic Relapsing Disease:** Obesity is recognized by major international societies as a chronic, progressive, relapsing neurobehavioral and metabolic disease, not a failure of willpower. Weight loss triggers persistent biological counter-regulatory adaptations (elevated ghrelin, suppressed leptin/PYY/GLP-1, and reduced resting energy expenditure) that vigorously drive weight regain.
+2. **Pharmacotherapy Indication Thresholds:** Anti-obesity medications are indicated as adjuncts to comprehensive lifestyle modification in adults with an initial $\text{BMI} \ge 30\text{ kg/m}^2$, or $\text{BMI} \ge 27\text{ kg/m}^2$ in the presence of at least one weight-related comorbid condition (e.g., hypertension, type 2 diabetes, dyslipidemia, obstructive sleep apnea).
+3. **The Mandatory 12-Week Rule:** If a patient has not lost at least **5% of baseline body weight** after 12 weeks of therapy at the maximum tolerated or approved target dose, the medication should be discontinued and an alternative therapeutic class selected.
+4. **Superior Efficacy of Multi-Incretin Agonists:** Dual GIP/GLP-1 receptor co-agonists (tirzepatide, up to 15 mg weekly) achieve up to **20.9% mean weight loss** at 72 weeks (SURMOUNT-1), approaching weight reductions historically achievable only via bariatric surgery.
+5. **Cardiovascular Outcome Evidence (The SELECT Trial):** In the 17,604-patient SELECT trial, semaglutide 2.4 mg once weekly significantly reduced the composite risk of cardiovascular death, nonfatal myocardial infarction, or nonfatal stroke (3-point MACE) by **20%** ($\text{HR } 0.80$, $p < 0.001$) in patients with established cardiovascular disease and overweight/obesity without diabetes.
+6. **Phentermine Monotherapy Duration:** Phentermine is FDA-approved only for **short-term use (up to 12 weeks)** as monotherapy due to historical concerns regarding sympathomimetic abuse and cardiovascular stimulation. In contrast, phentermine/topiramate ER (Qsymia) is approved for long-term chronic weight management.
+7. **Phentermine/Topiramate Teratogenicity (REMS):** Topiramate causes major congenital malformations, specifically oral clefts (cleft lip with or without cleft palate). Phentermine/topiramate is classified as Pregnancy Category X and is subject to a strict Risk Evaluation and Mitigation Strategy (REMS) requiring pregnancy testing before initiation and monthly thereafter.
+8. **Topiramate Adverse Cognitive Profile:** Common neurological side effects of topiramate include paresthesias (tingling in fingers/toes), dysgeusia (metallic taste, altered taste of carbonated beverages), and cognitive dysfunction ("brain fog", word-finding difficulty, impaired concentration).
+9. **Naltrexone/Bupropion Synergy:** Bupropion stimulates hypothalamic POMC neurons to release $\alpha$-MSH (promoting satiety), but this cascade is normally self-limited by concurrent release of $\beta$-endorphin, which acts on $\mu$-opioid receptors to inhibit POMC firing. Naltrexone competitively blocks the $\mu$-opioid receptor, preventing autoinhibition and sustaining satiety signaling.
+10. **Seizure Contraindication with Bupropion:** Naltrexone/bupropion is **strictly contraindicated** in patients with a history of seizure disorders, anorexia nervosa, bulimia, or abrupt discontinuation of alcohol, benzodiazepines, or sedatives, due to dose-dependent reduction in the seizure threshold.
+11. **Opioid Interaction with Naltrexone:** Naltrexone blocks exogenous opioid analgesics. Naltrexone/bupropion must be discontinued at least **7 to 10 days** prior to elective procedures requiring opioid analgesia. Administration to opioid-dependent individuals triggers acute, severe withdrawal.
+12. **Orlistat Mechanism and Fat Malabsorption:** Orlistat reversibly inhibits gastric and pancreatic lipases in the gastrointestinal lumen, preventing the hydrolysis of dietary triglycerides and reducing fat absorption by approximately **30%**. It acts locally with minimal ($<1\%$) systemic absorption.
+
+</div></details>
+
+<details class="med-details"><summary>
+
+### 7.2 Clinical Trials, Safety Profiles, and Special Populations (Pearls 13–25)</summary><div class="details-content">
+
+13. **Orlistat Fat-Soluble Vitamin Supplementation:** Because orlistat impairs the absorption of fat-soluble vitamins (A, D, E, K) and beta-carotene, all patients taking orlistat must receive a daily multivitamin supplement taken at bedtime or at least **2 hours before or after** the orlistat dose.
+14. **Cyclosporine and Warfarin Interactions with Orlistat:** Orlistat markedly decreases systemic absorption of cyclosporine (doses must be separated by at least 3 hours) and can destabilize warfarin anticoagulation due to reduced vitamin K absorption, requiring frequent INR monitoring.
+15. **Pancreatitis and Gallstone Disease with Incretins:** Both GLP-1 RAs and dual GIP/GLP-1 RAs carry warnings for acute pancreatitis and acute gallbladder disease (cholelithiasis, cholecystitis). Rapid weight loss per se is an independent risk factor for biliary sludge and gallstone formation.
+16. **Thyroid C-Cell Carcinoma Boxed Warning:** All long-acting GLP-1 RAs and dual GIP/GLP-1 RAs carry a boxed warning regarding the risk of thyroid C-cell tumors based on rodent carcinogenicity studies. They are **contraindicated** in patients with a personal or family history of medullary thyroid carcinoma (MTC) or Multiple Endocrine Neoplasia syndrome type 2 (MEN 2).
+17. **Heart Rate Acceleration with Anti-Obesity Agents:** Both sympathomimetic agents (phentermine, phentermine/topiramate, bupropion) and incretin mimetics (liraglutide, semaglutide, tirzepatide) cause a mild, sustained increase in resting heart rate of **1 to 4 beats per minute**.
+18. **Blood Pressure Paradox:** Despite heart rate increases, clinically meaningful weight loss ($\ge 5–10\%$) induced by GLP-1 RAs and dual incretins produces a net reduction in systolic and diastolic blood pressure (typically $-2\text{ to } -6\text{ mmHg}$) through reduced arterial stiffness and sympathetic tone.
+19. **Bariatric Surgery Indications:** According to updated ASMBS/IFSO guidelines, metabolic and bariatric surgery is indicated in individuals with a $\text{BMI} \ge 35\text{ kg/m}^2$ regardless of presence or absence of comorbidities, and in individuals with a $\text{BMI } 30–34.9\text{ kg/m}^2$ who have metabolic disease (e.g., T2D) refractory to medical/lifestyle therapy.
+20. **STAMPEDE Trial Long-Term Durability:** In the randomized STAMPEDE trial, bariatric surgery (Roux-en-Y gastric bypass or sleeve gastrectomy) combined with medical therapy was significantly more effective than intensive medical therapy alone in achieving glycemic control ($\text{HbA}_{1c} \le 6.0\%$) and weight loss at 5 years.
+21. **Post-Bariatric Hypoglycemia:** Roux-en-Y gastric bypass can lead to late hyperinsulinemic hypoglycemia (dumping syndrome), characterized by exaggerated postprandial GLP-1 and insulin release 1 to 3 hours after carbohydrate meals, requiring dietary carbohydrate restriction or acarbose.
+22. **Withdrawal of Lorcaserin (Belviq):** Lorcaserin, a selective $5\text{-HT}_{2\text{C}}$ receptor agonist, was voluntarily withdrawn from the worldwide market in 2020 following the CAMELLIA-TIMI 61 trial, which revealed an unexplained increased occurrence of malignancies (pancreatic, colorectal, and lung cancer).
+23. **Historical Fen-Phen Toxicity:** The combination of fenfluramine and phentermine ("Fen-Phen") was withdrawn in 1997 after causing drug-induced valvular heart disease (aortic and mitral regurgitation) and severe pulmonary arterial hypertension, mediated by excessive non-selective $5\text{-HT}_{2\text{B}}$ receptor activation on cardiac fibroblasts and pulmonary endothelium.
+24. **Sibutramine Cardiotoxicity (The SCOUT Trial):** The non-selective serotonin-norepinephrine reuptake inhibitor sibutramine was withdrawn in 2010 after the SCOUT trial showed a 16% increase in nonfatal myocardial infarction and stroke, driven by persistent elevations in blood pressure and heart rate.
+25. **Sarcopenic Obesity and Resistance Training:** Pharmacologically induced rapid weight loss ($-15\text{ to } -25\%$) with high-potency incretins can result in the loss of substantial lean skeletal muscle mass (up to 25–40% of total lost mass). Concurrent high-protein intake ($1.2–1.5\text{ g/kg/day}$) and structured progressive resistance training are mandatory to preserve muscle mass and metabolic rate.
+
+</div></details>
 
 </div></details>

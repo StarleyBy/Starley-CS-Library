@@ -53,11 +53,11 @@
 
 <details class="med-details"><summary>
 
-## β-Blockers (β-Adrenergic Receptor Antagonists)</summary><div class="details-content">
+## 1. β-Blockers (β-Adrenergic Receptor Antagonists)</summary><div class="details-content">
 
 <details class="med-details"><summary>
 
-### Mechanism of Action & Signal Transduction</summary><div class="details-content">
+### 1.1 Mechanism of Action & Signal Transduction</summary><div class="details-content">
 
 <details class="med-details"><summary>
 
@@ -176,7 +176,7 @@ Increased cAMP also increases the phosphorylation of troponin-I, so that the int
 
 <details class="med-details"><summary>
 
-### Cardiovascular & Hemodynamic Effects</summary><div class="details-content">
+### 1.2 Cardiovascular & Hemodynamic Effects</summary><div class="details-content">
 
 <details class="med-details"><summary>
 
@@ -204,13 +204,79 @@ Conversely, while $\beta$-blockade might be expected to cause vasoconstriction b
 
 **FIGURE 1-5** Effects of β-blockade on the ischemic heart. Bradycardia extends diastolic filling and perfusion time, augmenting subendocardial blood flow, while reduced contractility and heart rate lower myocardial oxygen demand. In vasospastic angina, unopposed $\alpha$-adrenergic vasoconstriction may paradoxically worsen coronary spasm.
 
+<span id="diag-01-01"></span>
+
+### DIAGRAM 1.1: Myocardial Oxygen Supply vs. Demand Balance & Pharmacological Targets
+
+<svg viewBox="0 0 1000 620" style="width:100%; max-width:1000px; height:auto; display:block; margin:16px auto;" xmlns="http://www.w3.org/2000/svg">
+<rect width="1000" height="620" rx="12" fill="#0f172a" stroke="#334155" stroke-width="2"/>
+<text x="500" y="32" fill="#38bdf8" font-family="system-ui, sans-serif" font-size="15" font-weight="700" text-anchor="middle" letter-spacing="1">MYOCARDIAL OXYGEN SUPPLY VS. DEMAND BALANCE & PHARMACOLOGICAL TARGETS</text>
+<text x="500" y="52" fill="#94a3b8" font-family="system-ui, sans-serif" font-size="11" text-anchor="middle">Pathophysiological Determinants of Ischemia and Sites of Action for Antianginal Drug Classes</text>
+<!-- Left Column: Demand -->
+<rect x="40" y="70" width="445" height="520" rx="10" fill="#1e293b" stroke="#f87171" stroke-width="1.5"/>
+<rect x="40" y="70" width="445" height="34" rx="10" fill="#7f1d1d"/>
+<text x="262" y="92" fill="#fca5a5" font-family="system-ui, sans-serif" font-size="13" font-weight="700" text-anchor="middle">MYOCARDIAL OXYGEN DEMAND (MVO2)</text>
+<!-- Demand Box 1: HR -->
+<rect x="55" y="115" width="415" height="115" rx="8" fill="#0f172a" stroke="#ef4444" stroke-width="1.2"/>
+<text x="70" y="138" fill="#f87171" font-family="system-ui, sans-serif" font-size="12" font-weight="700">Heart Rate (HR)</text>
+<text x="70" y="158" fill="#cbd5e1" font-family="system-ui, sans-serif" font-size="10.5">Primary determinant of minute energy consumption</text>
+<rect x="65" y="172" width="395" height="46" rx="6" fill="#1e1b4b" stroke="#6366f1" stroke-width="1"/>
+<text x="75" y="192" fill="#a5b4fc" font-family="system-ui, sans-serif" font-size="10" font-weight="600">Targets:</text>
+<text x="75" y="208" fill="#38bdf8" font-family="system-ui, sans-serif" font-size="10.5" font-weight="700"> Beta-Blockers, Non-DHP CCBs, Ivabradine</text>
+<!-- Demand Box 2: Contractility -->
+<rect x="55" y="245" width="415" height="115" rx="8" fill="#0f172a" stroke="#f59e0b" stroke-width="1.2"/>
+<text x="70" y="268" fill="#fbbf24" font-family="system-ui, sans-serif" font-size="12" font-weight="700">Contractility (Inotropy)</text>
+<text x="70" y="288" fill="#cbd5e1" font-family="system-ui, sans-serif" font-size="10.5">Rate of LV pressure development (dP/dt)</text>
+<rect x="65" y="302" width="395" height="46" rx="6" fill="#1e1b4b" stroke="#6366f1" stroke-width="1"/>
+<text x="75" y="322" fill="#a5b4fc" font-family="system-ui, sans-serif" font-size="10" font-weight="600">Targets:</text>
+<text x="75" y="338" fill="#38bdf8" font-family="system-ui, sans-serif" font-size="10.5" font-weight="700"> Beta-Blockers, Verapamil, Diltiazem</text>
+<!-- Demand Box 3: Wall Tension -->
+<rect x="55" y="375" width="415" height="195" rx="8" fill="#0f172a" stroke="#fbbf24" stroke-width="1.2"/>
+<text x="70" y="398" fill="#fde047" font-family="system-ui, sans-serif" font-size="12" font-weight="700">LV Wall Tension (Laplace's Law)</text>
+<text x="70" y="418" fill="#cbd5e1" font-family="system-ui, sans-serif" font-size="10.5">Preload (EDV/EDP) & Afterload (SBP/SVR)</text>
+<rect x="65" y="432" width="395" height="125" rx="6" fill="#1e1b4b" stroke="#6366f1" stroke-width="1"/>
+<text x="75" y="452" fill="#34d399" font-family="system-ui, sans-serif" font-size="10.5" font-weight="700">PRELOAD REDUCTION (Venodilation):</text>
+<text x="75" y="470" fill="#e2e8f0" font-family="system-ui, sans-serif" font-size="10">Organic Nitrates (NTG, ISDN, ISMN) -> Decreases LVEDP</text>
+<text x="75" y="495" fill="#38bdf8" font-family="system-ui, sans-serif" font-size="10.5" font-weight="700">AFTERLOAD REDUCTION (Arteriolar Dilation):</text>
+<text x="75" y="513" fill="#e2e8f0" font-family="system-ui, sans-serif" font-size="10">Dihydropyridine CCBs (Amlodipine, Felodipine) -> Decreases SVR</text>
+<text x="75" y="538" fill="#a78bfa" font-family="system-ui, sans-serif" font-size="10" font-weight="600">Net Effect: Markedly reduces wall stress and myocardial workload</text>
+<!-- Right Column: Supply -->
+<rect x="515" y="70" width="445" height="520" rx="10" fill="#1e293b" stroke="#10b981" stroke-width="1.5"/>
+<rect x="515" y="70" width="445" height="34" rx="10" fill="#064e3b"/>
+<text x="737" y="92" fill="#6ee7b7" font-family="system-ui, sans-serif" font-size="13" font-weight="700" text-anchor="middle">MYOCARDIAL OXYGEN SUPPLY</text>
+<!-- Supply Box 1: Flow -->
+<rect x="530" y="115" width="415" height="115" rx="8" fill="#0f172a" stroke="#10b981" stroke-width="1.2"/>
+<text x="545" y="138" fill="#34d399" font-family="system-ui, sans-serif" font-size="12" font-weight="700">Coronary Blood Flow & Vasomotor Tone</text>
+<text x="545" y="158" fill="#cbd5e1" font-family="system-ui, sans-serif" font-size="10.5">Epicardial vessel caliber & microvascular resistance</text>
+<rect x="540" y="172" width="395" height="46" rx="6" fill="#1e1b4b" stroke="#6366f1" stroke-width="1"/>
+<text x="550" y="192" fill="#a5b4fc" font-family="system-ui, sans-serif" font-size="10" font-weight="600">Targets:</text>
+<text x="550" y="208" fill="#34d399" font-family="system-ui, sans-serif" font-size="10.5" font-weight="700"> Nitrates, CCBs, Nicorandil</text>
+<!-- Supply Box 2: Diastolic Time -->
+<rect x="530" y="245" width="415" height="115" rx="8" fill="#0f172a" stroke="#0ea5e9" stroke-width="1.2"/>
+<text x="545" y="268" fill="#38bdf8" font-family="system-ui, sans-serif" font-size="12" font-weight="700">Diastolic Perfusion Time</text>
+<text x="545" y="288" fill="#cbd5e1" font-family="system-ui, sans-serif" font-size="10.5">Subendocardial perfusion occurs almost solely in diastole</text>
+<rect x="540" y="302" width="395" height="46" rx="6" fill="#1e1b4b" stroke="#6366f1" stroke-width="1"/>
+<text x="550" y="322" fill="#a5b4fc" font-family="system-ui, sans-serif" font-size="10" font-weight="600">Targets:</text>
+<text x="550" y="338" fill="#38bdf8" font-family="system-ui, sans-serif" font-size="10.5" font-weight="700"> Beta-Blockers, Ivabradine (Bradycardia)</text>
+<!-- Supply Box 3: Cellular Energetics -->
+<rect x="530" y="375" width="415" height="195" rx="8" fill="#0f172a" stroke="#8b5cf6" stroke-width="1.2"/>
+<text x="545" y="398" fill="#a78bfa" font-family="system-ui, sans-serif" font-size="12" font-weight="700">Cellular Ischemic Energetics</text>
+<text x="545" y="418" fill="#cbd5e1" font-family="system-ui, sans-serif" font-size="10.5">Late INa calcium overload & fatty acid oxidation</text>
+<rect x="540" y="432" width="395" height="125" rx="6" fill="#1e1b4b" stroke="#6366f1" stroke-width="1"/>
+<text x="550" y="452" fill="#a78bfa" font-family="system-ui, sans-serif" font-size="10.5" font-weight="700">RANOLAZINE (Inhibitor of Late INa Current):</text>
+<text x="550" y="470" fill="#e2e8f0" font-family="system-ui, sans-serif" font-size="10">Prevents cellular Na+ overload -> Prevents NCX Ca2+ overload</text>
+<text x="550" y="495" fill="#f59e0b" font-family="system-ui, sans-serif" font-size="10.5" font-weight="700">TRIMETAZIDINE (Selective pFOX Inhibitor):</text>
+<text x="550" y="513" fill="#e2e8f0" font-family="system-ui, sans-serif" font-size="10">Shifts ATP synthesis from fatty acid oxidation to glucose oxidation</text>
+<text x="550" y="538" fill="#38bdf8" font-family="system-ui, sans-serif" font-size="10" font-weight="600">Net Effect: Relieves angina without lowering heart rate or blood pressure</text>
+</svg>
+
 </div></details>
 
 </div></details>
 
 <details class="med-details"><summary>
 
-### Pharmacokinetic Properties of β-Blockers</summary><div class="details-content">
+### 1.3 Pharmacokinetic Properties of β-Blockers</summary><div class="details-content">
 
 <details class="med-details"><summary>
 
@@ -273,7 +339,7 @@ Conversely, hepatic enzyme inducers (rifampin, phenobarbital, phenytoin, and cig
 
 <details class="med-details"><summary>
 
-### Clinical Indications in Ischemic Heart Disease</summary><div class="details-content">
+### 1.4 Clinical Indications in Ischemic Heart Disease</summary><div class="details-content">
 
 <details class="med-details"><summary>
 
@@ -355,7 +421,7 @@ Noncardiac indications include migraine prophylaxis (propranolol, timolol), esse
 
 <details class="med-details"><summary>
 
-### Classification & Specific β-Adrenergic Antagonists</summary><div class="details-content">
+### 1.5 Classification & Specific β-Adrenergic Antagonists</summary><div class="details-content">
 
 <details class="med-details"><summary>
 
@@ -418,7 +484,7 @@ Esmolol is ideal for acute aortic dissection, perioperative hypertension, unstab
 
 <details class="med-details"><summary>
 
-### Adverse Effects, Concomitant Diseases & Overdose Management</summary><div class="details-content">
+### 1.6 Adverse Effects, Concomitant Diseases & Overdose Management</summary><div class="details-content">
 
 <details class="med-details"><summary>
 
@@ -507,11 +573,11 @@ Their therapeutic index is optimized by individualized drug selection, gradual u
 
 <details class="med-details"><summary>
 
-## Nitrates and Nitrite Drugs</summary><div class="details-content">
+## 2. Nitrates and Nitrite Drugs</summary><div class="details-content">
 
 <details class="med-details"><summary>
 
-### Mechanisms of Action & Vascular Physiology</summary><div class="details-content">
+### 2.1 Mechanisms of Action & Vascular Physiology</summary><div class="details-content">
 
 <details class="med-details"><summary>
 
@@ -553,7 +619,7 @@ Activated sGC catalyzes the synthesis of cyclic guanosine monophosphate (cGMP) f
 
 <details class="med-details"><summary>
 
-### Clinical Preparations & Regimens</summary><div class="details-content">
+### 2.2 Clinical Preparations & Regimens</summary><div class="details-content">
 
 <details class="med-details"><summary>
 
@@ -636,7 +702,7 @@ Hydralazine additionally acts as a powerful vascular antioxidant, inhibiting mem
 
 <details class="med-details"><summary>
 
-### Side Effects, Tolerance & Drug Interactions</summary><div class="details-content">
+### 2.3 Side Effects, Tolerance & Drug Interactions</summary><div class="details-content">
 
 <details class="med-details"><summary>
 
@@ -742,7 +808,7 @@ A structured step-care algorithm begins with short-acting nitroglycerin as neede
 
 <details class="med-details"><summary>
 
-### Cellular Mechanisms, Molecular Anatomy & Classification</summary><div class="details-content">
+### 3.1 Cellular Mechanisms, Molecular Anatomy & Classification</summary><div class="details-content">
 
 <details class="med-details"><summary>
 
@@ -815,7 +881,7 @@ Tissue specificity dictates clinical behavior. Dihydropyridines exhibit profound
 
 <details class="med-details"><summary>
 
-### Non-Dihydropyridines: Verapamil & Diltiazem</summary><div class="details-content">
+### 3.2 Non-Dihydropyridines: Verapamil & Diltiazem</summary><div class="details-content">
 
 <details class="med-details"><summary>
 
@@ -911,7 +977,7 @@ Diltiazem is widely used for exertional angina, coronary vasospasm (Prinzmetal v
 
 <details class="med-details"><summary>
 
-### Dihydropyridines: Nifedipine, Amlodipine & Newer Generations</summary><div class="details-content">
+### 3.3 Dihydropyridines: Nifedipine, Amlodipine & Newer Generations</summary><div class="details-content">
 
 <details class="med-details"><summary>
 
@@ -993,11 +1059,11 @@ Comparative hemodynamics show that while DHP CCBs reduce afterload and improve c
 
 <details class="med-details"><summary>
 
-## Newer (Nontraditional) Antianginal Agents</summary><div class="details-content">
+## 4. Newer (Nontraditional) Antianginal Agents</summary><div class="details-content">
 
 <details class="med-details"><summary>
 
-#### Late Inward Sodium Current Inhibition: Ranolazine</summary><div class="details-content">
+### 4.1 Late Inward Sodium Current Inhibition: Ranolazine</summary><div class="details-content">
 
 Ranolazine is the prototype inhibitor of the late inward sodium current ($I_{Na,late}$) in cardiac myocytes ([Fig. 1.30](#fig-01-30)). During myocardial ischemia, pathological phosphorylation and oxidative modification of voltage-gated cardiac sodium channels ($Nav1.5$) cause a persistent, non-inactivating late sodium influx. Intracellular sodium accumulation drives the reverse mode of the sodium-calcium exchanger ($NCX$), leading to pathological cytosolic and mitochondrial calcium overload.
 
@@ -1013,7 +1079,7 @@ In the pivotal MARISA, CARISA, and ERICA clinical trials, ranolazine significant
 
 <details class="med-details"><summary>
 
-#### Sinoatrial Pacemaker Current (If) Inhibition: Ivabradine</summary><div class="details-content">
+### 4.2 Sinoatrial Pacemaker Current (If) Inhibition: Ivabradine</summary><div class="details-content">
 
 Ivabradine is a direct and selective inhibitor of the hyperpolarization-activated cyclic nucleotide-gated (HCN) funny pacemaker current ($I_f$) in the sinoatrial node. By slowing the diastolic depolarization slope, ivabradine produces pure, dose-dependent heart rate reduction without altering myocardial contractility, ventricular repolarization, intracardiac conduction velocity, or peripheral vascular resistance.
 
@@ -1023,7 +1089,7 @@ In patients with stable coronary artery disease and left ventricular systolic dy
 
 <details class="med-details"><summary>
 
-#### Metabolic Modulators & Potassium Channel Openers: Trimetazidine, Perhexiline & Nicorandil</summary><div class="details-content">
+### 4.3 Metabolic Modulators & Potassium Channel Openers: Trimetazidine, Perhexiline & Nicorandil</summary><div class="details-content">
 
 Trimetazidine and perhexiline: Metabolic antianginals. Trimetazidine is a selective inhibitor of mitochondrial long-chain 3-ketoacyl coenzyme A thiolase (3-KAT). By selectively suppressing free fatty acid (FFA) $\beta$-oxidation in ischemic cardiomyocytes, trimetazidine shifts substrate utilization toward glucose oxidation. Because aerobic glucose metabolism generates substantially more ATP molecules per atom of oxygen consumed than fatty acid oxidation, trimetazidine preserves intracellular high-energy phosphate stores, maintains cellular homeostasis, and reduces acidosis during ischemia without exerting any hemodynamic effects.
 
@@ -1035,11 +1101,11 @@ Perhexiline acts upstream by inhibiting carnitine palmitoyltransferase-1 (CPT-1)
 
 <details class="med-details"><summary>
 
-## Summary & Comparative Antianginal Algorithms</summary><div class="details-content">
+## 5. Summary & Comparative Antianginal Algorithms</summary><div class="details-content">
 
 <details class="med-details"><summary>
 
-### Comparative Clinical Synthesis of Major Antianginal Classes</summary><div class="details-content">
+### 5.1 Comparative Clinical Synthesis of Major Antianginal Classes</summary><div class="details-content">
 
 Integrated clinical synthesis of antianginal pharmacotherapy. The contemporary management of chronic stable angina pectoris and acute coronary syndromes is grounded in the complementary pharmacological actions of three traditional drug classes (nitrates, β-blockers, and calcium channel blockers) along with modern metabolic and late inward sodium current inhibitors.
 
@@ -1051,7 +1117,7 @@ Integrated clinical synthesis of antianginal pharmacotherapy. The contemporary m
 
 <details class="med-details"><summary>
 
-### Calcium Antagonists, Dihydropyridines & Second-Line Metabolic Therapies</summary><div class="details-content">
+### 5.2 Calcium Antagonists, Dihydropyridines & Second-Line Metabolic Therapies</summary><div class="details-content">
 
 3. **Calcium Channel Blockers (CCBs):** Exhibit functional dichotomy based on molecular binding sites on the L-type channel $\alpha_1$ subunit:
 
@@ -1065,7 +1131,7 @@ Integrated clinical synthesis of antianginal pharmacotherapy. The contemporary m
 
 <details class="med-details"><summary>
 
-### Integrated Clinical Practice Algorithm for Chronic Coronary Syndromes</summary><div class="details-content">
+### 5.3 Integrated Clinical Practice Algorithm for Chronic Coronary Syndromes</summary><div class="details-content">
 
 Structured step-care clinical algorithm for chronic stable angina:
 
@@ -1074,6 +1140,101 @@ Structured step-care clinical algorithm for chronic stable angina:
 * **Step 2 (First-Line Combination Therapy):** If angina or ischemic symptoms persist despite optimal β-blocker monotherapy, add a long-acting dihydropyridine CCB (amlodipine 5 to 10 mg once daily or nifedipine GITS 30 to 60 mg once daily) for synergistic arterial unloading and coronary vasodilation.
 
 * **Step 3 (Triple Therapy & Novel Adjuncts):** In refractory exertional angina, add a long-acting nitrate with an asymmetric dosing schedule (e.g., isosorbide mononitrate extended-release 30 to 120 mg every morning) or add ranolazine (500 to 1000 mg twice daily). For patients in sinus rhythm with resting HR $\ge 70$ bpm despite maximal tolerated β-blockade, add ivabradine (5 to 7.5 mg twice daily). Prompt coronary angiography and revascularization (PCI or CABG) must be pursued in high-risk patients or those with medically refractory ischemia.
+
+<span id="diag-01-02"></span>
+
+### DIAGRAM 1.2: Stepwise Evidence-Based Antianginal Algorithm for Chronic Coronary Syndromes
+
+<svg viewBox="0 0 1000 680" style="width:100%; max-width:1000px; height:auto; display:block; margin:16px auto;" xmlns="http://www.w3.org/2000/svg">
+<rect width="1000" height="680" rx="12" fill="#0f172a" stroke="#334155" stroke-width="2"/>
+<text x="500" y="32" fill="#38bdf8" font-family="system-ui, sans-serif" font-size="15" font-weight="700" text-anchor="middle" letter-spacing="1">STEPWISE EVIDENCE-BASED ANTIANGINAL ALGORITHM FOR CHRONIC CORONARY SYNDROMES</text>
+<text x="500" y="52" fill="#94a3b8" font-family="system-ui, sans-serif" font-size="11" text-anchor="middle">ESC / ACC Guideline-Directed Pharmacotherapy Based on Baseline Heart Rate, Blood Pressure & LV Function</text>
+<!-- Step 1: Base -->
+<rect x="50" y="70" width="900" height="52" rx="8" fill="#1e293b" stroke="#3b82f6" stroke-width="1.5"/>
+<text x="500" y="91" fill="#93c5fd" font-family="system-ui, sans-serif" font-size="11.5" font-weight="700" text-anchor="middle">GENERAL FOUNDATION & ACUTE SYMPTOM RELIEF (CLASS I)</text>
+<text x="500" y="109" fill="#cbd5e1" font-family="system-ui, sans-serif" font-size="10.5" text-anchor="middle">Short-Acting Sublingual NTG (Acute attacks) + Secondary Prevention: Aspirin (or Clopidogrel), High-Intensity Statin, ACEi/ARB</text>
+<!-- Line down -->
+<line x1="500" y1="122" x2="500" y2="138" stroke="#64748b" stroke-width="2"/>
+<!-- Step 2 Title Banner -->
+<rect x="50" y="138" width="900" height="28" rx="6" fill="#064e3b" stroke="#10b981" stroke-width="1.5"/>
+<text x="500" y="157" fill="#6ee7b7" font-family="system-ui, sans-serif" font-size="11.5" font-weight="700" text-anchor="middle">FIRST-LINE ANTIANGINAL THERAPY: PHENOTYPE-GUIDED MONOTHERAPY / DUAL THERAPY</text>
+<!-- Phenotype 5 Boxes -->
+<path d="M 500 166 L 500 178 M 130 178 L 870 178 M 130 178 L 130 190 M 315 178 L 315 190 M 500 178 L 500 190 M 685 178 L 685 190 M 870 178 L 870 190" fill="none" stroke="#64748b" stroke-width="1.5"/>
+<!-- Pheno 1: Elevated HR -->
+<rect x="45" y="190" width="170" height="150" rx="8" fill="#0f172a" stroke="#ef4444" stroke-width="1.2"/>
+<rect x="45" y="190" width="170" height="26" rx="8" fill="#991b1b"/>
+<text x="130" y="207" fill="#ffffff" font-family="system-ui, sans-serif" font-size="9" font-weight="700" text-anchor="middle">Standard / Elevated HR </text>
+<text x="130" y="230" fill="#f87171" font-family="system-ui, sans-serif" font-size="10" font-weight="700" text-anchor="middle">BETA-BLOCKER</text>
+<text x="130" y="245" fill="#f87171" font-family="system-ui, sans-serif" font-size="9.5" font-weight="700" text-anchor="middle">or Non-DHP CCB</text>
+<text x="55" y="270" fill="#cbd5e1" font-family="system-ui, sans-serif" font-size="9">- Target resting HR: 55-60</text>
+<text x="55" y="288" fill="#cbd5e1" font-family="system-ui, sans-serif" font-size="9">- Blunts exercise ischemia</text>
+<text x="55" y="325" fill="#10b981" font-family="system-ui, sans-serif" font-size="9" font-weight="600">Standard First Choice</text>
+<!-- Pheno 2: Low HR -->
+<rect x="230" y="190" width="170" height="150" rx="8" fill="#0f172a" stroke="#3b82f6" stroke-width="1.2"/>
+<rect x="230" y="190" width="170" height="26" rx="8" fill="#1d4ed8"/>
+<text x="315" y="207" fill="#ffffff" font-family="system-ui, sans-serif" font-size="9" font-weight="700" text-anchor="middle">Low Baseline HR </text>
+<text x="315" y="235" fill="#60a5fa" font-family="system-ui, sans-serif" font-size="10.5" font-weight="700" text-anchor="middle">DHP CCB</text>
+<text x="240" y="260" fill="#cbd5e1" font-family="system-ui, sans-serif" font-size="9">Amlodipine 5-10 mg</text>
+<text x="240" y="275" fill="#cbd5e1" font-family="system-ui, sans-serif" font-size="9">Felodipine / Nifedipine ER</text>
+<text x="240" y="295" fill="#fca5a5" font-family="system-ui, sans-serif" font-size="9">- Avoid BB & Non-DHP</text>
+<text x="240" y="325" fill="#60a5fa" font-family="system-ui, sans-serif" font-size="9" font-weight="600">No negative chronotropy</text>
+<!-- Pheno 3: HFrEF -->
+<rect x="415" y="190" width="170" height="150" rx="8" fill="#0f172a" stroke="#8b5cf6" stroke-width="1.2"/>
+<rect x="415" y="190" width="170" height="26" rx="8" fill="#6d28d9"/>
+<text x="500" y="207" fill="#ffffff" font-family="system-ui, sans-serif" font-size="9" font-weight="700" text-anchor="middle">HFrEF (EF &lt;= 40%)</text>
+<text x="500" y="235" fill="#c084fc" font-family="system-ui, sans-serif" font-size="10" font-weight="700" text-anchor="middle">GDMT BETA-BLOCKER</text>
+<text x="425" y="260" fill="#cbd5e1" font-family="system-ui, sans-serif" font-size="9">Carvedilol / Bisoprolol /</text>
+<text x="425" y="275" fill="#cbd5e1" font-family="system-ui, sans-serif" font-size="9">Metoprolol succinate</text>
+<text x="425" y="295" fill="#fca5a5" font-family="system-ui, sans-serif" font-size="9">- Verapamil/Diltiazem BANNED</text>
+<text x="425" y="325" fill="#c084fc" font-family="system-ui, sans-serif" font-size="9" font-weight="600">Proven mortality benefit</text>
+<!-- Pheno 4: Vasospastic -->
+<rect x="600" y="190" width="170" height="150" rx="8" fill="#0f172a" stroke="#f59e0b" stroke-width="1.2"/>
+<rect x="600" y="190" width="170" height="26" rx="8" fill="#b45309"/>
+<text x="685" y="207" fill="#ffffff" font-family="system-ui, sans-serif" font-size="9" font-weight="700" text-anchor="middle">Prinzmetal / Spasm</text>
+<text x="685" y="230" fill="#fbbf24" font-family="system-ui, sans-serif" font-size="10" font-weight="700" text-anchor="middle">DHP CCB + NITRATE</text>
+<text x="610" y="255" fill="#cbd5e1" font-family="system-ui, sans-serif" font-size="9">High-dose CCB (Diltiazem</text>
+<text x="610" y="270" fill="#cbd5e1" font-family="system-ui, sans-serif" font-size="9">or Amlodipine) + ISMN</text>
+<text x="610" y="295" fill="#f87171" font-family="system-ui, sans-serif" font-size="9">- BBs CONTRAINDICATED</text>
+<text x="610" y="325" fill="#fbbf24" font-family="system-ui, sans-serif" font-size="9" font-weight="600">Prevents coronary spasm</text>
+<!-- Pheno 5: Low BP -->
+<rect x="785" y="190" width="170" height="150" rx="8" fill="#0f172a" stroke="#10b981" stroke-width="1.2"/>
+<rect x="785" y="190" width="170" height="26" rx="8" fill="#047857"/>
+<text x="870" y="207" fill="#ffffff" font-family="system-ui, sans-serif" font-size="9" font-weight="700" text-anchor="middle">Low BP (SBP &lt;= 100)</text>
+<text x="870" y="230" fill="#34d399" font-family="system-ui, sans-serif" font-size="10" font-weight="700" text-anchor="middle">RANOLAZINE /</text>
+<text x="870" y="245" fill="#34d399" font-family="system-ui, sans-serif" font-size="10" font-weight="700" text-anchor="middle">TRIMETAZIDINE</text>
+<text x="795" y="270" fill="#cbd5e1" font-family="system-ui, sans-serif" font-size="9">or Low-Dose BB</text>
+<text x="795" y="288" fill="#cbd5e1" font-family="system-ui, sans-serif" font-size="9">No effect on SBP or HR</text>
+<text x="795" y="325" fill="#34d399" font-family="system-ui, sans-serif" font-size="9" font-weight="600">Hemodynamically neutral</text>
+<!-- Down to Step 3 -->
+<path d="M 130 340 L 130 360 M 315 340 L 315 360 M 500 340 L 500 360 M 685 340 L 685 360 M 870 340 L 870 360 M 130 360 L 870 360 M 500 360 L 500 375" fill="none" stroke="#64748b" stroke-width="1.5"/>
+<!-- Step 3: Second Line -->
+<rect x="50" y="375" width="900" height="160" rx="8" fill="#1e293b" stroke="#f59e0b" stroke-width="1.5"/>
+<rect x="50" y="375" width="900" height="28" rx="8" fill="#b45309"/>
+<text x="500" y="394" fill="#ffffff" font-family="system-ui, sans-serif" font-size="11.5" font-weight="700" text-anchor="middle">SECOND-LINE ANTIANGINAL PHARMACOTHERAPY (PERSISTENT SYMPTOMS)</text>
+<!-- 3 Subcards in Second-Line -->
+<rect x="70" y="415" width="270" height="105" rx="6" fill="#0f172a" stroke="#0ea5e9" stroke-width="1.2"/>
+<text x="205" y="438" fill="#38bdf8" font-family="system-ui, sans-serif" font-size="11" font-weight="700" text-anchor="middle">DUAL COMBINATION: BB + DHP CCB</text>
+<text x="80" y="460" fill="#cbd5e1" font-family="system-ui, sans-serif" font-size="9.5">- Bisoprolol/Metoprolol + Amlodipine</text>
+<text x="80" y="478" fill="#cbd5e1" font-family="system-ui, sans-serif" font-size="9.5">- Most effective synergistic combination</text>
+<text x="80" y="502" fill="#10b981" font-family="system-ui, sans-serif" font-size="9.5" font-weight="600">Class I ESC Recommendation</text>
+<rect x="365" y="415" width="270" height="105" rx="6" fill="#0f172a" stroke="#8b5cf6" stroke-width="1.2"/>
+<text x="500" y="438" fill="#c084fc" font-family="system-ui, sans-serif" font-size="11" font-weight="700" text-anchor="middle">ADD-ON RANOLAZINE / TRIMETAZIDINE</text>
+<text x="375" y="460" fill="#cbd5e1" font-family="system-ui, sans-serif" font-size="9.5">- Ranolazine 500-1000 mg BID</text>
+<text x="375" y="478" fill="#cbd5e1" font-family="system-ui, sans-serif" font-size="9.5">- Trimetazidine MR 35 mg BID</text>
+<text x="375" y="502" fill="#c084fc" font-family="system-ui, sans-serif" font-size="9.5" font-weight="600">Effective without BP/HR drops</text>
+<rect x="660" y="415" width="270" height="105" rx="6" fill="#0f172a" stroke="#10b981" stroke-width="1.2"/>
+<text x="795" y="438" fill="#34d399" font-family="system-ui, sans-serif" font-size="11" font-weight="700" text-anchor="middle">ADD IVABRADINE OR LONG-ACTING NITRATE</text>
+<text x="670" y="460" fill="#cbd5e1" font-family="system-ui, sans-serif" font-size="9.5">- Ivabradine 5-7.5 mg BID (if sinus HR >= 70)</text>
+<text x="670" y="478" fill="#cbd5e1" font-family="system-ui, sans-serif" font-size="9.5">- ISMN / Transdermal NTG (with nitrate-free interval)</text>
+<text x="670" y="502" fill="#34d399" font-family="system-ui, sans-serif" font-size="9.5" font-weight="600">Caution: Nitrate tolerance</text>
+<!-- Down to Step 4 -->
+<line x1="500" y1="535" x2="500" y2="555" stroke="#64748b" stroke-width="2"/>
+<!-- Step 4: Refractory -->
+<rect x="50" y="555" width="900" height="95" rx="8" fill="#311042" stroke="#d946ef" stroke-width="1.5"/>
+<text x="500" y="580" fill="#f0abfc" font-family="system-ui, sans-serif" font-size="12" font-weight="700" text-anchor="middle">THIRD-LINE / REFRACTORY ANGINA STRATEGIES</text>
+<text x="500" y="602" fill="#e879f9" font-family="system-ui, sans-serif" font-size="11" text-anchor="middle">Triple Antianginal Combination  +  Invasive Coronary Angiography (ICA) for Revascularization (PCI / CABG)</text>
+<text x="500" y="625" fill="#fbcfe8" font-family="system-ui, sans-serif" font-size="10.5" text-anchor="middle">Assess anatomical complexity (SYNTAX Score) -> Heart Team decision: Percutaneous Coronary Intervention vs. CABG Surgery</text>
+</svg>
 
 </div></details>
 

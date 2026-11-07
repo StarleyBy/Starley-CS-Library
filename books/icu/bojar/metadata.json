@@ -80,7 +80,8 @@
       {
         "file": "chapter-11.md",
         "title": "11. Cardiovascular Management",
-        "russian": "11. Ведение пациентов с сердечно-сосудистыми нарушениями"
+        "russian": "11. Ведение пациентов с сердечно-сосудистыми нарушениями",
+        "interactive": true
       },
       {
         "file": "chapter-12.md",

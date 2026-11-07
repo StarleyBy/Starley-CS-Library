@@ -1,322 +1,228 @@
-# Chapter 8
+# The Pulmonary Artery Catheter
 
-# **The Pulmonary Artery Catheter**
+<details class="med-details" open><summary>
 
-*A searchlight cannot be used effectively without a fairly thorough knowledge of the territory to be searched.*
+## Executive Summary</summary><div class="details-content">
 
-Fergus Macartney (*[a](#page-15-0)*)
+* **Historical Perspective and Evolution:** Introduced in 1970 by H.J.C. Swan and William Ganz, the flow-directed balloon-tipped pulmonary artery catheter (PAC) revolutionized bedside hemodynamic monitoring in critical illness. Subsequent randomized multicenter trials (such as the Connors study and the ESCAPE trial) demonstrated that routine PAC utilization did not improve patient survival or shorten ICU length of stay, while exposing patients to procedural hazards. Routine use has declined, but the PAC remains essential in complex right ventricular failure, unexplained pulmonary hypertension, and cardiogenic shock.
+* **Catheter Architecture and Insertion:**
+  * Standard 110 cm, 7–8 French catheter with quadruple lumens: distal port (pulmonary artery pressure, wedge pressure, mixed venous blood sampling), proximal port at 30 cm (central venous pressure, right atrial pressure, injectate port for thermodilution), balloon lumen (1.5 mL capacity for flow-guided floatation), and thermistor wire (temperature sensor 4 cm proximal to tip).
+  * Monitored chamber transitions during insertion: Right Atrium ($0\text{--}5\text{ mm Hg}$) $\rightarrow$ Right Ventricle (systolic $20\text{--}30\text{ mm Hg}$, diastolic $0\text{--}5\text{ mm Hg}$) $\rightarrow$ Pulmonary Artery (systolic $20\text{--}30\text{ mm Hg}$, diastolic $8\text{--}15\text{ mm Hg}$ with dicrotic notch) $\rightarrow$ Pulmonary Capillary Wedge Position ($6\text{--}12\text{ mm Hg}$, disappearance of dicrotic notch, appearance of atrial-like $a$ and $v$ waveforms).
+* **The Wedge Pressure Principle:**
+  * Balloon occlusion arrests pulmonary arterial blood flow distal to the catheter tip, creating a static column of blood extending through the pulmonary capillary bed and pulmonary veins to the left atrium.
+  * Because frictional pressure dissipation ceases when blood flow is zero ($\Delta P = Q \times R = 0$), the pressure at the catheter tip equilibrates directly with left atrial pressure (PLA). In the absence of mitral stenosis, PLA approximates left ventricular end-diastolic pressure (LVEDP), reflecting left ventricular preload.
+  * **West Zone 3 Requirement:** Equilibrated measurement requires an uninterrupted column of blood. The catheter tip must reside in physiological West Zone 3 ($Pa > Pv > PA$). If located in Zone 1 or 2, alveolar pressure ($PA$) collapses surrounding capillaries, and the catheter measures alveolar pressure or airway PEEP rather than left atrial pressure.
+* **Respiratory Artifacts and Measurement Timing:**
+  * Intrathoracic pressure swings during respiration alter measured vascular pressures. In spontaneous breathing, negative inspiratory pleural pressure creates downward deflections; in positive-pressure mechanical ventilation, positive inspiratory airway pressure creates upward deflections.
+  * All intracardiac and vascular pressures must be recorded strictly at **end-expiration**, when pleural pressure is closest to atmospheric zero.
+* **Thermodilution Cardiac Output:**
+  * Determined using the Stewart-Hamilton equation by injecting a known volume of cold saline ($10\text{ mL}$) into the proximal right atrial port; the downstream thermistor records temperature drop over time.
+  * The area under the thermodilution curve is inversely proportional to cardiac output. In severe tricuspid regurgitation, retrograde thermal recirculation distorts the clearance curve, falsely underestimating cardiac output.
+* **Comprehensive Hemodynamic Profiling:**
+  * Derives cardiac index ($CI\ 2.4\text{--}4.0\text{ L/min/m}^2$), stroke index ($SI\ 20\text{--}40\text{ mL/m}^2$), systemic vascular resistance index ($SVRI\ 1970\text{--}2390\text{ dynes}\cdot\text{s}\cdot\text{cm}^{-5}\cdot\text{m}^2$ or $25\text{--}30\text{ Wood Units}$), and pulmonary vascular resistance index ($PVRI\ 80\text{--}160\text{ dynes}\cdot\text{s}\cdot\text{cm}^{-5}\cdot\text{m}^2$ or $1\text{--}2\text{ Wood Units}$).
 
-In 1970, a vascular catheter was introduced that would revolutionize the practice of bedside hemodynamic monitoring [\(1](#page-15-1)). It was a very long, centrally-placed catheter with a small inflatable balloon at its distal end. When inflated, the balloon allowed the flow of venous blood to carry the catheter through the right side of the heart and into one of the pulmonary arteries (like floating down a river on an inflatable inner tube). This balloon flotation effect allowed a right heart catheterization to be performed at the bedside, without the need for fluoroscopic guidance. An added bonus was a temperature-sensitive thermistor on the catheter, which allowed measurements of cardiac output using the *thermodilution* technique. When used appropriately, this *pulmonary artery balloon flotation catheter* could generate a comprehensive set of physiological measurements for evaluating cardiac performance and systemic oxygen transport ([2\)](#page-15-2).
+</div></details>
 
-Not surprisingly, the pulmonary artery (PA) catheter gained rapid and widespread acceptance, and became a staple of critical care management in the latter years of the twentieth century. However, storm clouds appeared in the early years of the twenty-first century, when a series of (poorly designed) clinical studies showed that PA catheters did not improve survival ([3\)](#page-15-3). The fallout from these studies was a swift and precipitous decline in the use of PA catheters; e.g., one large survey showed a 70% decrease in PA catheter use over the years from 1999 to 2013 ([4\)](#page-15-4).
+<details class="med-details" open><summary>
 
-The PA catheter's fall from grace is undeserved (see A FINAL WORD at the end of the chapter), as this catheter provides a wealth of information that can be useful if applied appropriately ([5,](#page-15-5)[6\)](#page-15-6). The goal of this chapter is to introduce you to these measurements, and how they are obtained. As suggested in the introductory quote, the benefit derived from the PA catheter will depend on your knowledge of cardiovascular physiology.
+## Catheter Structure and Insertion Dynamics</summary><div class="details-content">
 
-# **THE CATHETER**
+The flow-directed balloon-tipped pulmonary artery catheter (Swan-Ganz catheter) enables direct catheterization of the right heart chambers and pulmonary arterial tree without fluoroscopy.
 
-The basic features of a PA catheter are shown in [Figure](#page-1-0) 8.1. The catheter is 110 cm long and has an outside diameter of 2.3 mm (about 7 French). There are two internal channels: one channel emerges at the tip of the catheter (the distal or PA lumen), and the other channel emerges 30 cm proximal to the catheter tip (the proximal or RA lumen), which should be situated in the right atrium. The tip of the catheter has a small inflatable balloon (1.5 mL capacity) that helps to carry the catheter to its final destination. When the balloon is fully inflated, it creates a recess for the tip of the catheter that prevents the tip from scraping along the vessel wall as the catheter is advanced. A small thermistor (a temperature-sensing transducer) is placed near the tip of the catheter, and is used to measure the cardiac output using the thermodilution technique (described later in the chapter).
+<span id="fig-8-1"></span>
+![](_page_1_Figure_1.jpeg)
 
-<span id="page-1-0"></span>![](_page_1_Figure_1.jpeg)
+<span class="caption">**FIGURE 8.1** Structural architecture of the quadruple-lumen pulmonary artery catheter, showing the distal pulmonary artery port, proximal right atrial port, balloon inflation valve, and thermistor connector.</span>
 
-**FIGURE 8.1** The basic features of a pulmonary artery (PA) catheter. Note that the PA catheter has been threaded through a large-bore introducer catheter that has a side-arm infusion port.
+### Catheter Architecture
+The standard pulmonary artery catheter measures 110 cm in length with an outer diameter of 7 to 8 French ($2.3\text{--}2.7\text{ mm}$) ([Fig. 8.1](#fig-8-1)):
+1. **Distal Lumen:** Terminates at the absolute tip of the catheter. Connected to a pressure transducer, it records pulmonary artery pressure (PAP) when the balloon is deflated, records pulmonary capillary wedge pressure (PCWP) when inflated, and serves as the port for sampling mixed venous blood ($\text{SvO}_2$).
+2. **Proximal Lumen:** Opens 30 cm proximal to the tip. In an average-sized adult, this orifice resides within the right atrium or superior vena cava. It monitors central venous pressure (CVP / RAP) and serves as the injection port for cold thermal indicator during thermodilution cardiac output measurements.
+3. **Balloon Inflation Lumen:** Connects to a compliant latex or silicone balloon at the tip (maximum capacity $1.5\text{ mL}$ of air). When inflated, the balloon covers the rigid catheter tip, allowing directional blood flow to carry the catheter through the right heart while cushioning against myocardial perforation.
+4. **Thermistor Wire:** Houses temperature-sensitive electrical circuitry terminating in a thermistor bead located 4 cm proximal to the catheter tip, recording pulmonary arterial blood temperature for thermodilution curves and core body temperature monitoring.
 
-## **Catheter Placement**
+<span id="fig-8-2"></span>
+![](_page_3_Figure_0.jpeg)
 
-The PA catheter is inserted through a large bore (8–9 French) introducer sheath that has been placed in the subclavian vein or internal jugular vein (see [Figure](#page-1-0) 8.1). The distal lumen of the catheter is attached to a pressure transducer to monitor vascular pressures as the catheter is advanced. When the catheter is passed through the introducer sheath and enters the superior vena cava, a venous pressure waveform appears. When this occurs, the balloon is inflated with 1.5 mL of air, and the catheter is advanced with the balloon inflated. The location of the catheter tip is
+<span class="caption">**FIGURE 8.2** Characteristic pressure waveforms observed during flow-guided passage of the pulmonary artery catheter from the right atrium through the right ventricle into the pulmonary artery and wedge position.</span>
 
-determined by the pressure tracings recorded from the distal lumen, as shown in [Figure](#page-3-0) 8.2.
+### Insertion Waveforms and Chamber Progression
+Under continuous dynamic pressure monitoring from the distal lumen, the catheter is advanced through an introducer sheath in the internal jugular or subclavian vein ([Fig. 8.2](#fig-8-2)):
 
-- 1. The superior vena cava pressure is identified by a venous pressure waveform, which appears as small amplitude oscillations. This pressure remains unchanged until the catheter enters the right ventricle, and it represents the mean pressure in the right atrium, more commonly known as the *central venous pressure*.
-- 2. When the catheter tip is advanced across the tricuspid valve and into the right ventricle, a pulsatile waveform appears. The peak (systolic) pressure is a function of the strength of right ventricular contraction, and the lowest (diastolic) pressure is equivalent to the mean right atrial pressure.
-- 3. When the catheter moves across the pulmonic valve and into a main pulmonary artery, the pressure waveform shows a sudden rise in diastolic pressure with no change in the systolic pressure. (*Note:* The systolic pressure will increase in the presence of pulmonary hypertension). The rise in diastolic pressure is caused by resistance to flow in the pulmonary circulation.
-- 4. As the catheter is advanced along the pulmonary artery, the pulsatile waveform disappears, leaving a nonpulsatile pressure that is normally at the same level as the diastolic pressure of the pulsatile waveform. This is the *pulmonary artery occlusion pressure*, more commonly known as the *wedge pressure*, and is a reflection of the filling pressure on the left side of the heart (see the next section).
-- 5. When the wedge pressure tracing appears, the balloon is deflated, and the pulsatile pressure waveform should reappear. The catheter is then secured in place, and the balloon is left deflated. (*Note:* Prolonged balloon inflation creates the risk of pulmonary artery rupture or pulmonary infarction.)
-- 6. On occasion, the pulsatile pressure in the pulmonary arteries never disappears despite advancing the catheter maximally. In this situation, the pulmonary artery diastolic pressure can be used as a surrogate measure of the wedge pressure, but only if there is no evidence of pulmonary hypertension (see next section).
+#### 1. Right Atrium (RA)
+* Entered at approximately 15 to 20 cm from a right internal jugular approach.
+* **Waveform:** Low-amplitude undulating venous contour ($0\text{ to }5\text{ mm Hg}$) displaying characteristic atrial waves: an $a$ wave (atrial systole), a $c$ wave (tricuspid valve closure), and a $v$ wave (atrial diastolic filling).
 
-<span id="page-3-0"></span>![](_page_3_Figure_0.jpeg)
+#### 2. Right Ventricle (RV)
+* Once the catheter tip enters the right atrium, the balloon is inflated with $1.5\text{ mL}$ of air. The floating balloon traverses the tricuspid valve into the right ventricle at 25 to 30 cm.
+* **Waveform:** Abrupt appearance of high-amplitude pulsatile pressure spikes. Systolic pressure rises rapidly to $20\text{--}30\text{ mm Hg}$, while end-diastolic pressure drops precipitously to near zero ($0\text{--}5\text{ mm Hg}$).
+* **Arrhythmia Hazard:** Irritation of the right ventricular endocardium commonly triggers premature ventricular contractions (PVCs) or non-sustained ventricular tachycardia. Prompt advancement into the pulmonary artery resolves mechanical irritation.
 
-**FIGURE 8.2** The pressure waveforms at different points along the normal course of a pulmonary artery catheter. These waveforms are used to identify the location of the catheter tip as it is advanced.
+#### 3. Pulmonary Artery (PA)
+* Flow-guided floatation sweeps the catheter through the pulmonic valve into the pulmonary artery at 35 to 45 cm.
+* **Waveform:** Systolic pressure matches that of the right ventricle ($20\text{--}30\text{ mm Hg}$), but *diastolic pressure rises sharply* to $8\text{--}15\text{ mm Hg}$ due to pulmonic valve closure and downstream vascular resistance. A prominent **dicrotic notch** (incisura) appears on the downstroke, marking pulmonic valve closure.
 
-# **THE WEDGE PRESSURE**
+<span id="fig-8-3"></span>
+![](_page_4_Figure_0.jpeg)
 
-The wedge pressure is obtained by slowly inflating the balloon at the tip of the PA catheter until the pulsatile pressure disappears, as shown in [Figure](#page-4-0) 8.3. Note that the wedge pressure is at the same level as the diastolic pressure in the pulmonary artery. This relationship is altered in pulmonary hypertension, where the wedge pressure is lower than the pulmonary artery diastolic pressure.
+<span class="caption">**FIGURE 8.3** Continuous pressure tracing demonstrating the transition from pulsatile pulmonary artery pressure to the non-pulsatile, lower-pressure pulmonary capillary wedge waveform upon balloon inflation.</span>
 
-# **Wedge Pressure Tracing**
+#### 4. Pulmonary Capillary Wedge Position (PCWP)
+* Continued advancement with the balloon inflated wedges the balloon in a small branch of the pulmonary artery at 45 to 55 cm ([Fig. 8.3](#fig-8-3)).
+* **Waveform:** Immediate dampening and disappearance of the arterial dicrotic notch, replaced by a lower-amplitude venous-like waveform ($6\text{ to }12\text{ mm Hg}$) reflecting left atrial pulsations ($a$ and $v$ waves). The mean wedge pressure is always lower than the pulmonary artery diastolic pressure.
+* **Safety Mandate:** Once the wedge waveform is confirmed, the balloon must be deflated immediately. The catheter should wedge only upon full inflation of $1.25\text{ to }1.5\text{ mL}$ of air; wedging with $< 1.0\text{ mL}$ indicates excessive distal migration, risking pulmonary artery rupture.
 
-The wedge pressure represents the venous pressure on the left side of the heart, and the magnified section of the wedge pressure in [Figure](#page-4-0) 8.3 shows a contour that is similar to the venous pressure on the right side of the heart. The *a* wave is produced by left atrial contraction, the *c* wave is produced by closure of the mitral valve (during isometric contraction of the left ventricle), and the *v* wave is produced by systolic contraction of the left ventricle against a closed mitral valve. These components are often difficult to distinguish, but prominent *v* waves are readily apparent in patients with mitral regurgitation.
+</div></details>
 
-<span id="page-4-0"></span>![](_page_4_Figure_0.jpeg)
+<details class="med-details" open><summary>
 
-**FIGURE 8.3** Pressure tracing showing the transition from a pulsatile pulmonary artery pressure to a balloon occlusion (wedge) pressure. The magnified area shows the components of the wedge pressure: *a* wave (atrial contraction), *c* wave (mitral valve closure), and *v* wave (ventricular contraction).
+## The Wedge Pressure: Principles and Artifacts</summary><div class="details-content">
 
-# **Wedge Pressure Principle**
+The pulmonary capillary wedge pressure (PCWP, also designated pulmonary artery wedge pressure [PAWP] or pulmonary artery occlusion pressure [PAOP]) provides a non-invasive hemodynamic window into left heart filling pressures.
 
-The underlying principle for the wedge pressure is illustrated in [Figure](#page-5-0) 8.4. When the balloon on the PA catheter is inflated to obstruct flow (Q = 0), there is a static column of blood between the tip of the catheter and the left atrium, and the wedge pressure at the tip of the catheter (PW) is equivalent to the pulmonary capillary pressure (PC) and the pressure in the left atrium (PLA). To summarize: if Q = 0, then PW = PC = PLA. If the mitral valve is behaving normally, the wedge pressure (left atrial pressure) will be equivalent to the left ventricular end-diastolic pressure. Therefore, *in the absence of mitral valve disease, the wedge pressure is a measure of the filling pressure of the left ventricle*.
+<span id="fig-8-4"></span>
+![](_page_5_Figure_0.jpeg)
 
-# *Respiratory Variations*
+<span class="caption">**FIGURE 8.4** Anatomical basis of the wedge pressure measurement. Balloon inflation arrests arterial flow, creating a continuous static column of blood extending from the catheter tip to the left atrium.</span>
 
-The wedge pressure is a reflection of the left atrial pressure only if the pulmonary capillary pressure is greater than the alveolar pressure (PC > PA in [Figure](#page-5-0) 8.4), otherwise the wedge pressure will reflect the alveolar pressure. This latter condition occurs when there are respiratory variations in the wedge pressure tracing [\(7](#page-15-7)). When this occurs, the wedge pressure should be measured at the end of expiration, as explained next.
+### Fluid-Column Physics of the Wedge Position
+Under normal flow conditions, blood flows continuously from the pulmonary artery across the pulmonary capillary bed into the pulmonary veins and left atrium:
 
-<span id="page-5-0"></span>![](_page_5_Figure_0.jpeg)
+$$\Delta P = Q \times R$$
 
-**FIGURE 8.4** The basis of the wedge pressure measurement. When flow ceases because of balloon inflation (Q = 0), the wedge pressure (PW) is equivalent to the pulmonary capillary pressure (PC) and the pressure in the left atrium (PLA). This occurs only when the pulmonary capillary pressure is greater than the alveolar pressure (PC > PA).
+Where $\Delta P$ is the pressure drop across the pulmonary vascular bed, $Q$ is pulmonary blood flow, and $R$ is pulmonary vascular resistance. 
 
-Changes in intrathoracic pressure can be transmitted into intrathoracic blood vessels (usually low pressure vessels like veins and capillaries), and this creates respiratory variations in the recorded pressure. This is illustrated in [Figure](#page-6-0) 8.5 for a central venous pressure (CVP) tracing. The undulating pattern in the recorded (intravascular) pressure is misleading, because the physiologically important (transmural) pressure is not changing. When this occurs, *the pressure should be measured at the end of expiration, when the intrathoracic pressure is zero (i.e., atmospheric pressure) and the intravascular and transmural pressures are equivalent*. The pressure tracing in [Figure](#page-6-0) 8.5 was recorded during positive pressure mechanical ventilation, so the end-expiratory pressure is the lowest point in each of the pressure undulations. (If this tracing was obtained during spontaneous breathing, the end-expiratory pressure would be the peak pressure for each respiratory cycle.)
+When the balloon is inflated in a pulmonary artery branch, forward blood flow downstream from the balloon drops to zero ($Q = 0$) ([Fig. 8.4](#fig-8-4)):
+* Because flow is zero, frictional resistance dissipation ceases ($\Delta P = 0 \times R = 0$).
+* A continuous, static column of fluid extends uninterrupted from the wedged catheter tip through the pulmonary capillary plexus and pulmonary venules directly into the left atrium.
+* Consequently, the hydrostatic pressure recorded by the transducer at the catheter tip equilibrates precisely with **left atrial pressure (PLA)**.
+* In the absence of mitral valve stenosis or left atrial myxoma, the left atrial pressure at end-diastole equilibrates across the open mitral valve with **left ventricular end-diastolic pressure (LVEDP)**:
 
-**POSITIVE END-EXPIRATORY PRESSURE:** Positive end-expiratory pressure (PEEP) can falsely elevate the wedge pressure (and CVP) at end-expiration because the intrathoracic pressure is higher than atmospheric (zero) pressure. When PEEP is applied during mechanical ventilation (which is a routine practice), the patient can be briefly disconnected from the ventilator to measure the wedge pressure ([8\)](#page-15-8). For patients with "intrinsic PEEP" (caused by incomplete emptying of the lungs), accurate measurements of the wedge pressure can be difficult ([9\)](#page-15-9). Chapter 29 includes a description of intrinsic PEEP and a method for correcting the wedge pressure in the presence of intrinsic PEEP.
+$$\text{PCWP} \approx \text{PLA} \approx \text{LVEDP}$$
 
-<span id="page-6-0"></span>![](_page_6_Figure_0.jpeg)
+Thus, PCWP serves as a surrogate marker of left ventricular preload.
 
-**FIGURE 8.5** Respiratory variation in the central venous pressure (CVP) during mechanical ventilation. The CVP should be measured at the end of expiration, which corresponds to the lowest points in the pressure undulations. See text for further explanation.
+### West Pulmonary Zonal Physiology
+The assumption that a static column of blood connects the catheter tip to the left atrium holds true only if the vascular channels remain patent and open throughout the cardiac cycle. 
 
-### *Spontaneous Variations*
+John West described three distinct gravitational perfusion zones in the lung, based on the relationship between pulmonary arterial pressure ($Pa$), pulmonary venous pressure ($Pv$), and alveolar gas pressure ($PA$):
+* **Zone 1 ($PA > Pa > Pv$):** Alveolar pressure exceeds intravascular pressures, compressing capillaries and halting flow (alveolar dead space).
+* **Zone 2 ($Pa > PA > Pv$):** Arterial pressure exceeds alveolar pressure, but alveolar pressure exceeds venous pressure.
+* **Zone 3 ($Pa > Pv > PA$):** Intravascular arterial and venous pressures both exceed alveolar pressure throughout the cardiac cycle. Capillaries remain widely patent and distended.
 
-In addition to respiratory variations, the wedge pressures can vary spontaneously. This variation in wedge pressure is ≤4 mm Hg in 60% of patients, but it can be as high as 7 mm Hg ([10\)](#page-15-10). In general, *a change in the wedge pressure of >4 mm Hg is considered a clinically significant change*.
+**The Zone 3 Mandate:** Reliable wedge pressure recording mandates that the catheter tip reside strictly within **West Zone 3**. Because Zone 3 occupies the gravity-dependent portions of the lung, a catheter inserted in the supine position naturally floats into Zone 3 (the posterior lung bases).
 
-# **Wedge vs Hydrostatic Pressure**
+#### Zone 1 and 2 Artifacts
+If hypovolemia develops or high positive end-expiratory pressure (PEEP) is applied, alveolar pressure ($PA$) rises above pulmonary venous pressure ($Pv$), converting Zone 3 lung regions into Zone 1 or 2. Alveolar pressure collapses pulmonary capillaries around the catheter tip, severing the fluid column to the left atrium. The catheter ceases measuring left atrial pressure and instead measures **alveolar airway pressure**.
 
-The wedge pressure is often mistaken as the hydrostatic pressure in the pulmonary capillaries. However, this is not the case ([11,](#page-15-11)12), because the wedge pressure is measured in the absence of blood flow. When the balloon is deflated and flow resumes, the pressure in the pulmonary capillaries (PC) will be higher than the pressure in the left atrium (PLA), and the difference in pressures will dependent on the flow rate (Q) and the resistance to flow in the pulmonary veins (RV); i.e.,
+<span id="fig-8-5"></span>
+![](_page_6_Figure_0.jpeg)
 
-$$PC - PLA = Q \times RV \tag{8.1}$$
+<span class="caption">**FIGURE 8.5** Respiratory variation in central venous pressure (CVP) and wedge pressure tracings during positive-pressure mechanical ventilation. Measurement must be performed strictly at the nadir of positive-pressure cycles (end-expiration).</span>
 
-Since the wedge pressure (PW) is equivalent to left atrial pressure (PLA), Equation (8.1) can be restated as:
+### Respiratory Variations and Measurement Timing
+Pressure transducers measure intravascular pressure relative to atmospheric pressure outside the thorax. However, intravascular structures reside within the pleural space; myocardial filling is governed by **transmural pressure** ($P_{\text{transmural}} = P_{\text{intravascular}} - P_{\text{pleural}}$).
 
-$$PC - PW = Q \times RV \tag{8.2}$$
+Spontaneous respiration and positive-pressure mechanical ventilation generate marked fluctuations in intrathoracic pleural pressure ([Fig. 8.5](#fig-8-5)):
+* **Spontaneous Respiration:** Active diaphragmatic contraction creates negative intrathoracic pressure, pulling intravascular pressure tracings downward during inspiration.
+* **Mechanical Ventilation:** The ventilator inflates the lungs by delivering positive pressure, pushing intrathoracic pressure upward and causing upward spikes in the vascular pressure tracing during inspiration.
+* **The End-Expiration Rule:** At the conclusion of exhalation (functional residual capacity), respiratory muscles are completely relaxed and lung recoil matches chest wall expansion. Pleural pressure is at its baseline, closest to zero atmospheric pressure. Therefore, *all hemodynamic pressures (CVP, PAP, PCWP) must be measured strictly at end-expiration*.
 
-*Therefore, the capillary hydrostatic pressure must be greater than the wedge pressure to create a pressure gradient for venous flow to the left side of the heart*. The magnitude of this difference is unclear because it is not possible to determine the resistance to flow in the pulmonary veins (RV). However, the PC – PW difference will be magnified by conditions that promote pulmonary venoconstriction, such as hypoxemia, endotoxemia, vasopressor infusions, and the acute respiratory distress syndrome (13,14).
+</div></details>
 
-# *Wedge Pressure in ARDS*
+<details class="med-details" open><summary>
 
-The wedge pressure has been used to differentiate hydrostatic (cardiogenic) pulmonary edema from the leaky-capillary pulmonary edema that characterizes the acute respiratory distress syndrome (ARDS); i.e., a normal wedge pressure is considered evidence of ARDS (15). However, since the capillary hydrostatic pressure is normally higher than the wedge pressure, and this difference is magnified in ARDS (14), *a normal wedge pressure does not exclude the*
+## Thermodilution Cardiac Output</summary><div class="details-content">
 
-*diagnosis of hydrostatic pulmonary edema*. Therefore, the use of a normal wedge pressure as a diagnostic criterion for ARDS should be abandoned.
+Measurement of cardiac output by thermodilution represents one of the primary historical indications for pulmonary artery catheterization.
 
-# **THERMODILUTION CARDIAC OUTPUT**
+<span id="fig-8-6"></span>
+![](_page_8_Picture_0.jpeg)
 
-The presence of a temperature-sensitive thermistor on the PA catheter allows a measurement of the cardiac output by the thermodilution technique. This is considered the gold standard method for measuring cardiac output at the bedside.
+<span class="caption">**FIGURE 8.6** The thermodilution technique. A cold saline indicator is injected into the proximal right atrial port; downstream thermal dilution is recorded by the thermistor in the pulmonary artery.</span>
 
-# **The Method**
+### Stewart-Hamilton Physics
+Thermodilution applies the indicator-dilution principle using negative thermal energy (cold saline) as an indicator ([Fig. 8.6](#fig-8-6)).
 
-The indicator dilution method of measuring blood flow is based on the premise that, when an indicator substance is added to circulating blood, the rate of blood flow is inversely proportional to the change in concentration of the indicator over time. The thermodilution method employs temperature as the indicator.
+A bolus of sterile cold fluid (typically $10\text{ mL}$ of iced or room-temperature $0.9\%$ sodium chloride) is rapidly and smoothly injected through the proximal right atrial port. As the cold injectate mixes with systemic venous blood in the right ventricle and sweeps past the distal catheter thermistor in the pulmonary artery, the thermistor records the change in blood temperature over time ($\Delta T_B(t)$), generating a **thermodilution washout curve** ([Fig. 8.7](#fig-8-7)).
 
-The thermodilution method is illustrated in [Figure](#page-8-0) 8.6. A bolus (usually 10 mL) of a saline solution that is colder than blood is injected through the proximal port of the catheter in the right atrium. The cold fluid mixes with blood in the right heart chambers, and the cooled blood is ejected into the pulmonary artery and flows past the thermistor on the distal end of the catheter. The thermistor records the change in blood temperature with time. The area under this curve is inversely proportional to flow rate in the pulmonary artery, which is equivalent to the cardiac output (in the absence of intracardiac shunts). Electronic PA monitors integrate the area under the temperature–time curves and provide a digital display of the cardiac output.
+#### Mathematical Derivation of Cardiac Output
+Cardiac output is computed via the modified Stewart-Hamilton equation:
 
-#### *Thermodilution Curves*
+$$CO = \frac{V_I \times (T_B - T_I) \times S_I \times C_I}{S_B \times C_B \times \int_0^\infty \Delta T_B(t)\,dt} \times 60$$
 
-Examples of thermodilution curves are shown in [Figure](#page-9-0) 8.7. The low cardiac output curve (upper panel) has a gradual rise and fall, whereas the high output curve (middle panel) has a rapid rise, an abbreviated peak, and a steep downslope. Note that the area under the low cardiac output curve is greater than the area under the high output curve (i.e., indicating that the area under these curves is inversely related to the flow rate).
+Where $V_I$ is injectate volume, $T_B$ is baseline blood temperature, $T_I$ is injectate temperature, $(S_I \times C_I) / (S_B \times C_B)$ is the ratio of specific heat and specific gravity between injectate and blood, and $\int_0^\infty \Delta T_B(t)\,dt$ represents the area under the temperature-time curve.
 
-<span id="page-8-0"></span>![](_page_8_Picture_0.jpeg)
+<span id="fig-8-7"></span>
+![](_page_9_Figure_0.jpeg)
 
-**FIGURE 8.6** The thermodilution method of measuring cardiac output. See text for explanation.
+<span class="caption">**FIGURE 8.7** Thermodilution curves under differing hemodynamic states: low cardiac output (top, prolonged washout), normal or high cardiac output (middle, rapid sharp washout), and severe tricuspid regurgitation (bottom, erratic dampened recirculation).</span>
 
-<span id="page-9-0"></span>![](_page_9_Figure_0.jpeg)
+### Curve Interpretation and Sources of Error
+As illustrated in ([Fig. 8.7](#fig-8-7)), the area under the thermodilution curve is **inversely proportional to cardiac output**:
+* **High Cardiac Output:** High blood velocity rapidly carries the cold bolus past the thermistor, producing a tall, narrow curve with a small area under the curve.
+* **Low Cardiac Output:** Sluggish blood flow dilutes the cold thermal bolus slowly, generating a low-amplitude curve with prolonged, delayed washout and a large area under the curve.
 
-**FIGURE 8.7** Thermodilution curves for a low cardiac output (upper panel), a high cardiac output (middle panel), and tricuspid insufficiency (lower panel). The sharp inflection in each curve marks the end of the measurement period. CO = cardiac output.
+#### Technical Pitfalls
+1. **Severe Tricuspid Regurgitation:** Backward systolic regurgitation of cold injectate into the right atrium and vena cava delays forward clearance, producing an abnormally broad, low curve ([Fig. 8.7](#fig-8-7), lower panel) that falsely underestimates true cardiac output.
+2. **Rapid Peripheral Fluid Infusions:** Rapid co-infusion of cold intravenous crystalloids or blood through central venous catheters creates baseline thermal drift, distorting the integration baseline.
+3. **Intracardiac Shunts:** Left-to-right or right-to-left shunts permit early indicator recirculation, rendering thermodilution inaccurate.
 
-#### *How Many Measurements?*
+</div></details>
 
-Serial measurements are recommended for each cardiac output determination. Three measurements are sufficient if they differ by 10% or less, and the cardiac output is taken as the average of all measurements. Serial measurements that differ by more than 10% are considered unreliable (16).
+<details class="med-details" open><summary>
 
-### *Variability*
+## Derived Hemodynamic Parameters and Clinical Utility</summary><div class="details-content">
 
-Thermodilution cardiac output can vary by as much as 10% without any apparent change in the clinical condition of the patient (17). Therefore, *a change in thermodilution cardiac output should exceed 10% to be considered clinically significant*.
+Integrating pressure measurements with thermodilution cardiac output enables comprehensive mathematical calculation of systemic and pulmonary vascular parameters ([Table 8.1](#table-8-1)).
 
-### **Sources of Error**
+<span id="table-8-1"></span>
 
-As mentioned earlier, thermodilution is considered the gold standard method for measuring cardiac output at the bedside. However there are sources of error in the methodology, and the
+| TABLE 8.1 | Hemodynamic Parameters Available with PA Catheters | | |
+|---|---|---|---|
+| **Parameter** | **Abbreviation** | **Standard Formula** | **Reference Range** |
+| **Central Venous Pressure** | CVP | Direct measurement | 0–5 mm Hg |
+| **Pulmonary Capillary Wedge Pressure** | PCWP | Direct measurement | 6–12 mm Hg |
+| **Cardiac Index** | CI | $CO / BSA$ | 2.4–4.0 L/min/m<sup>2</sup> |
+| **Stroke Index** | SI | $CI / HR \times 1000$ | 20–40 mL/m<sup>2</sup> |
+| **Systemic Vascular Resistance Index** | SVRI | $\frac{MAP - CVP}{CI} \times 80$ | 1970–2390 dynes·s·cm<sup>-5</sup>·m<sup>2</sup><br>*(25–30 Wood Units)* |
+| **Pulmonary Vascular Resistance Index** | PVRI | $\frac{MPAP - PCWP}{CI} \times 80$ | 80–160 dynes·s·cm<sup>-5</sup>·m<sup>2</sup><br>*(1–2 Wood Units)* |
+| **Mixed Venous O<sub>2</sub> Saturation** | SvO<sub>2</sub> | Direct fiberoptic / co-oximetry | 70–75% |
+| **Oxygen Delivery Index** | DO<sub>2</sub>I | $CI \times CaO_2 \times 10$ | 520–570 mL/min/m<sup>2</sup> |
+| **Oxygen Uptake Index** | VO<sub>2</sub>I | $CI \times (CaO_2 - CvO_2) \times 10$ | 110–160 mL/min/m<sup>2</sup> |
+| **Oxygen Extraction Ratio** | O<sub>2</sub>ER | $VO_2 / DO_2$ | 0.20–0.30 |
 
-more notable ones are summarized here.
+*(Note: In Wood Units, the multiplier 80 is omitted: $SVRI = \frac{MAP - CVP}{CI}$ in $\text{mm Hg / (L/min/m}^2\text{)}$).*
 
-### *Operator Error*
+### Hemodynamic Formulas
 
-Low-volume or inappropriately warm injectates can result in overestimation of the cardiac output, and variability in the timing of the injectate in relation to the respiratory cycle can also produce spurious results ([6\)](#page-15-6).
+#### 1. Systemic Vascular Resistance Index (SVRI)
+Reflects total left ventricular afterload:
 
-## *Tricuspid Regurgitation*
+$$SVRI = \frac{MAP - CVP}{CI} \times 80 \quad (\text{dynes}\cdot\text{s}\cdot\text{cm}^{-5}\cdot\text{m}^2)$$
 
-Tricuspid regurgitation can result in underestimation or overestimation of the cardiac output ([6](#page-15-6)). Regurgitant flow across the tricuspid valve causes the injectate to be recycled, producing a prolonged, low amplitude [thermodilution](#page-9-0) curve similar to the one in the bottom frame of Figure 8.7. This results in a falsely low cardiac output measurement (18). Overestimation of the cardiac output can occur when the injectate is warmed because of recycling across the tricuspid valve.
+* Elevated SVRI ($> 2500\text{ dynes}\cdot\text{s}\cdot\text{cm}^{-5}\cdot\text{m}^2$) characterizes cardiogenic and hypovolemic shock (compensatory vasoconstriction).
+* Depressed SVRI ($< 1500\text{ dynes}\cdot\text{s}\cdot\text{cm}^{-5}\cdot\text{m}^2$) defines distributive septic shock and anaphylaxis.
 
-### *Intracardiac Shunts*
+#### 2. Pulmonary Vascular Resistance Index (PVRI)
+Reflects right ventricular afterload:
 
-Intracardiac shunts produce falsely elevated cardiac output measurements. In right-to-left shunts, a portion of the cold indicator fluid passes through the shunt, thereby creating an abbreviated thermodilution curve similar to the high-output curve in the middle panel of [Figure](#page-9-0) 8.7. In leftto-right shunts, the thermodilution curve is abbreviated because the shunted blood increases the blood volume in the right heart chambers, and this dilutes the indicator solution that is injected.
+$$PVRI = \frac{MPAP - PCWP}{CI} \times 80 \quad (\text{dynes}\cdot\text{s}\cdot\text{cm}^{-5}\cdot\text{m}^2)$$
 
-# **Continuous Cardiac Output Measurements**
+* Distinguishes pre-capillary pulmonary hypertension ($PVRI > 2\text{--}3\text{ Wood Units}$, normal PCWP) from post-capillary pulmonary venous hypertension (normal PVRI, elevated PCWP).
 
-Pulmonary artery catheters are available that can provide thermodilution cardiac output measurements as rapidly as every 20 seconds, without the need for bolus injections of cold fluid. These catheters have a small heating filament (near the proximal port of the catheter) that is activated by brief, randomly-generated electrical pulses that raise the surrounding blood temperature by about 0.02°C. The downstream thermistor averages the temperature-time curves over a 3 minute period to determine the cardiac output, which is updated every 20–30 seconds. (The small temperature change creates a poor signal-to-noise ratio, which is why multiple temperature-time curves must be measured and averaged.) This "pulsed warm thermodilution technique" has shown a good correlation with the traditional "intermittent bolus" technique (19,20).
+### The Decline of the Pulmonary Artery Catheter
+Between 1975 and 1995, over 2 million pulmonary artery catheters were placed annually in the United States. However, a series of landmark prospective clinical investigations challenged this practice:
+* **The Connors Study (1996):** An observational trial of 5,735 critically ill patients demonstrating that patients managed with a PAC suffered higher 30-day mortality and greater hospital resource utilization.
+* **The ESCAPE Trial (2005):** A randomized trial in severe heart failure confirming that adding PAC-guided therapy to clinical assessment provided zero reduction in mortality or days hospitalized.
+* **Procedural Complications:** PAC placement carries serious risks: severe ventricular arrhythmias (30%), complete right bundle branch block (3%), pulmonary artery rupture and fatal pseudoaneurysm formation (0.1–0.2%), pulmonary infarction from persistent wedging, catheter knotting, and line sepsis.
 
-The automated continuous thermodilution technique provides a more dynamic assessment of the cardiac output, and it also eliminates the time commitment, risk of operator error, and the volume infusions associated with the intermittent bolus technique. Moreover, there are PA catheters that allow continuous monitoring of both cardiac output and mixed venous O<sup>2</sup> saturation (SvO<sup>2</sup> ) (21), which adds the ability to monitor an indirect measure of tissue oxygenation. (See Chapter 9 for an explanation of the SvO<sup>2</sup> .)
+### Contemporary Evidence-Based Indications
+Professional societies (ACC, AHA, SCCM) recommend pulmonary artery catheterization selectively in:
+1. Severe cardiogenic shock unresponsive to initial inotropic and vasopressor therapy.
+2. Differentiation of complex, mixed forms of shock (e.g., combined cardiogenic and septic shock).
+3. Evaluation and pharmacological vasodilator testing in severe pulmonary arterial hypertension.
+4. Pre-operative hemodynamic optimization prior to cardiac transplantation or mechanical circulatory support (LVAD / BiVAD).
+5. Severe acute right ventricular infarction and refractory decompensated biventricular heart failure.
 
-# **CATHETER-DERIVED HEMODYNAMICS**
-
-The PA catheter provides a wealth of information on cardiovascular function and systemic oxygen transport The following is a description of 10 hemodynamic parameters that can be
-
-monitored using PA catheters. These are listed in [Table](#page-11-0) 8.1.
-
-# **Body Size**
-
-Hemodynamic parameters are often expressed in relation to body size, and the favored measure of body size for hemodynamic measurements is the body surface area (BSA), which can be determined with the following simple equation (22):
-
-BSA 
-$$(m^2)$$
- = Ht  $(cm)$  + Wt  $(kg)$  –  $60/100$  (8.3)
-
-(*Note:* BSA is preferred over weight as an index of body size because cardiac output is linked to metabolic rate, and the basal metabolic rate is expressed in terms of body surface area.) Measurements that are expressed in relation to BSA are referred to as an "index" (e.g., cardiac index instead of cardiac output). The average-sized adult has a body surface area of 1.7 m2.
-
-<span id="page-11-0"></span>
-
-| TABLE<br>8.1<br>Measurements<br>Available<br>with<br>PA<br>Catheters      |              |                                              |
-|---------------------------------------------------------------------------|--------------|----------------------------------------------|
-| Parameter                                                                 | Abbreviation | Normal Range                                 |
-| Central Venous Pressure                                                   | CVP          | 0–5 mm Hg                                    |
-| Pulmonary Artery Wedge Pressure                                           | PAWP         | 6–12 mm Hg                                   |
-| Cardiac Index                                                             | CI           | 2.4–4.0 L/min/m2                             |
-| Stroke Index                                                              | SI           | 20–40 mL/m2                                  |
-| Systemic Vascular Resistance Index<br>Pulmonary Vascular Resistance Index | SVRI<br>PVRI | †<br>25–30 Wood Units<br>†<br>1–2 Wood Units |
-| Mixed Venous O2                                                           | SvO2         | 70–75%                                       |
-| Oxygen Delivery (Index)                                                   | DO2          | 520–570 mL/min/m2                            |
-| Oxygen Uptake (Index)                                                     | VO2          | 110–160 mL/min/m2                            |
-| Oxygen Extraction Ratio                                                   | O2ER         | 0.2–0.3                                      |
-
-<sup>†</sup>mm Hg /L/min/m 2.
-
-## **Cardiovascular Parameters**
-
-The following parameters are used to evaluate cardiac performance and global tissue perfusion. The reference ranges for these parameters are included in [Table](#page-11-0) 8.1 Size-adjusted parameters are expressed as an *index* (e.g., cardiac index instead of cardiac output).
-
-#### *Central Venous Pressure*
-
-When the PA catheter is properly placed, the proximal port of the catheter will be in the right atrium, and the pressure recorded from this port should be the right atrial pressure (PRA). As mentioned previously, the pressure in the right atrium is the same as the pressure in the superior vena cava, and these pressures are collectively called the central venous pressure (CVP). In the absence of tricuspid valve dysfunction, the CVP should be equivalent to the right ventricular end diastolic pressure (RVEDP).
-
-$$CVP = PRA = RVEDP (8.4)$$
-
-The CVP is then a measure of the filling pressure for the right side of the heart. The normal range for the CVP is 0–5 mm Hg, and it can be a negative pressure in the sitting position.
-
-### *Wedge Pressure*
-
-As described earlier, the pulmonary artery wedge pressure (PAWP) is a measure of the left atrial pressure (PLA), and this pressure should be equivalent to the left ventricular end diastolic pressure (LVEDP) when mitral valve function is normal.
-
-$$PAWP = PLA = LVEDP (8.5)$$
-
-The wedge pressure is thus a measure of the filling pressure for the left side of the heart. This pressure is slightly higher than the CVP (to keep the foramen ovale closed), and the normal range is 6–12 mm Hg.
-
-### *Cardiac Index*
-
-The cardiac output (CO) measurement is the single most important contribution of the PA catheter to hemodynamic assessments, as it not only provides an assessment of cardiac contractile strength (using the stroke volume), it also creates the ability to monitor systemic oxygen transport (see later). The cardiac output is typically expressed in relation to body surface area (BSA), and is called the *cardiac index* (CI).
-
-$$CI = CO/BSA$$
- (8.6)
-
-The normal range for the cardiac index is 2.4–4 L/min/m2, which is typically about 60% of the normal range for the cardiac output.
-
-#### *Stroke Index*
-
-The stroke volume (i.e., the volume of blood ejected during systole) is used to assess the strength of ventricular contractions, and the relationship between stroke volume and the pulmonary artery wedge pressure can be used to generate ventricular function curves. When adjusted for body size, the stroke volume is called the *stroke index* (SI), and it is derived as the cardiac index (CI) divided by the heart rate (HR):
-
-$$SI = CI/HR$$
- (8.7)
-
-The normal range of the SI in adults is 20–40 mL/m2.
-
-#### *Systemic Vascular Resistance Index*
-
-The hydraulic resistance in the systemic circulation is not a measurable quantity for a variety of reasons (e.g., resistance is flow-dependent and varies in different regions). Instead, the systemic vascular resistance (SVR) is a global measure of the relationship between systemic pressure and flow. The SVR is directly related to the mean pressure drop from the aorta to the right atrium (i.e., mean arterial pressure or MAP minus the CVP), and is inversely related to the cardiac
-
-output. The size-adjusted SVR index (SVRI) is derived using the cardiac index (CI).
-
-$$SVRI = (MAP - CVP)/CI$$
- (8.8)
-
-The SVRI is expressed in Wood units (mm Hg/L/min/m2), which can be multiplied by 80 to obtain more conventional units of resistance (dynes∙sec-1∙cm-5/m2), but this conversion offers no advantage (23).
-
-### *Pulmonary Vascular Resistance Index*
-
-The pulmonary vascular resistance (PVR) has the same limitations as mentioned for the systemic vascular resistance. The PVR is a global measure of the relationship between pressure and flow in the lungs, and is derived as the mean pressure drop from the pulmonary artery to the left atrium, divided by the cardiac output. Because the pulmonary artery wedge pressure (PAWP) is equivalent to the left atrial pressure, the pressure gradient across the lungs can be expressed as the difference between the mean pulmonary artery pressure and the wedge pressure (PAP – PAWP). The size-adjusted PVR index (PVRI) is derived using the cardiac index (CI):
-
-$$PVRI = (PAP - PAWP)/CI$$
- (8.9)
-
-Like the SVRI, the PVRI is expressed in Wood units (mm Hg/L/min/m2).
-
-# **Oxygen Transport Parameters**
-
-The oxygen transport parameters provide a global measure of oxygen supply and oxygen consumption. These parameters are described in detail in Chapter 9.
-
-# *Oxygen Delivery*
-
-The rate of oxygen transport in arterial blood is called the *oxygen delivery* (DO<sup>2</sup> ), and is the product of the cardiac output and the oxygen concentration in arterial blood (CaO<sup>2</sup> ).
-
-$$DO_2 = CO \times CaO_2 \tag{8.10}$$
-
-The O<sup>2</sup> concentration in arterial blood (CaO<sup>2</sup> ) is a function of the hemoglobin concentration (Hb), the O<sup>2</sup> carrying capacity of hemoglobin (1.34 mL per gram), and the arterial oxyhemoglobin saturation (SaO<sup>2</sup> ): i.e., CaO<sup>2</sup> = 1.34 × Hb × SaO<sup>2</sup> . Therefore, the DO<sup>2</sup> equation can be rewritten as:
-
-$$DO_2 = CO \times (1.34 \times Hb \times SaO_2)$$
- (8.11)
-
-The size-adjusted DO<sup>2</sup> is calculated using the cardiac index instead of cardiac output, and it is expressed as mL/min/m2. The normal range is shown in [Table](#page-11-0) 8.1
-
-#### *Oxygen Uptake*
-
-Oxygen uptake (VO<sup>2</sup> ), also called *oxygen consumption*, is the rate at which oxygen is taken up from the systemic capillaries into the tissues. The VO<sup>2</sup> is calculated as the product of the cardiac
-
-output (CO) and the difference in O<sup>2</sup> concentration between arterial and venous blood (CaO<sup>2</sup> – CvO<sup>2</sup> ). The venous blood in this instance is "mixed" venous blood in the pulmonary artery.
-
-$$VO_2 = CO \times (CaO_2 - CvO_2)$$
- (8.12)
-
-If the CaO<sup>2</sup> and CvO<sup>2</sup> are each broken down into their component parts, the VO<sup>2</sup> equation can be rewritten as:
-
-$$VO_2 = CO \times 1.34 \times Hb \times (SaO_2 - SvO_2)$$
-(8.13)
-
-SaO<sup>2</sup> and SvO<sup>2</sup> are the oxyhemoglobin saturations in arterial and mixed venous blood, respectively. The SaO<sup>2</sup> is continuously monitored with pulse oximetry, and the SvO<sup>2</sup> can also be continuously monitored with specialized PA catheters (mentioned earlier). The SvO<sup>2</sup> can also be measured in a blood sample drawn through the distal port of the PA catheter.
-
-The size-adjusted VO<sup>2</sup> is calculated using the cardiac index instead of the cardiac output, and it is expressed as mL/min/m2. The normal range is shown in [Table](#page-11-0) 8.1. Note that the VO<sup>2</sup> is much lower than the DO<sup>2</sup> (see next).
-
-### *Oxygen Extraction Ratio*
-
-The oxygen extraction ratio (O<sup>2</sup> ER) is the ratio of O<sup>2</sup> uptake to O<sup>2</sup> delivery:
-
-$$O_2 ER = VO_2/DO_2$$
- (8.14)
-
-The normal range for the O<sup>2</sup> ER is 0.2 to 0.3, which means that O<sup>2</sup> uptake into tissues represents only 20% to 30% of the O<sup>2</sup> delivered to the systemic microcirculation. Oxygen extraction can increase to 0.50 or even higher to compensate for decreases in O<sup>2</sup> delivery. (See Chapter 9 for a more detailed explanation of this topic.)
-
-# **Applications**
-
-The following are some examples of clinical situations where the information generated by PA catheters can be useful:
-
-- 1. The management of acute, decompensated heart failure, especially when complicated by labile blood pressures or worsening renal function.
-- 2. Perioperative management of patients undergoing cardiac surgery.
-- 3. The management of circulatory shock (24), especially cardiogenic shock, where use of the PA catheter has had some success in improving outcomes (25).
-- 4. Identifying responsiveness to volume infusion [\(6](#page-15-6)).
-- 5. Determining the need for, and response to, erythrocyte transfusions (see Chapter 12). Ditto for oxygen therapy (see Chapter 25).
-- 6. Identifying occult cases of weaning-induced cardiac dysfunction (26) in patients who have difficulty weaning from mechanical ventilation.
-
-The measurements generated by PA catheters will appear in many chapters in this book, including Chapter 9 (Systemic Oxygenation), Chapter 11 (Fluid Management), Chapter 12 (Anemia and Red Blood Cell Transfusions), Chapters 14–17 (Shock Syndromes), Chapter 18 (Acute Heart Failure), Chapter 25 (Oxygen Inhalation), Chapter 26 (Noninvasive Ventilation), and Chapter 30 (Discontinuing Mechanical Ventilation).
-
-# **A FINAL WORD**
-
-# **An Undeserved Reputation**
-
-Despite the wealth of physiologically relevant information it provides, the PA catheter has been vilified and almost abandoned because clinical studies have shown no survival benefit associated with use of the catheter ([3\)](#page-15-3). The following are some points in support of the PA catheter.
-
-- 1. First and foremost, *the PA catheter is a monitoring device, not a therapy*, and clinical outcomes (e.g., mortality rate) should be used to evaluate therapies, not measurements.
-- 2. Surveys indicate that *physicians often don't understand the measurements provided by PA catheters* (27,28), and any tool can be ineffective in the wrong hands.
-- 3. Finally, the incessant use of mortality rates to evaluate critical care interventions is problematic because *the presumption that every intervention has to save lives to be of value is not valid*. Interventions have more specific and immediate goals other than life or death (e.g., the goal of a vasopressor drug infusion is to increase the blood pressure). In the case of a monitoring device, the goal is to provide useful information, and the PA catheter achieves this goal with distinction.
-
-# *References*
-
-- <span id="page-15-0"></span>*a.* Fergus Macartney (1940–2005) was a Fellow of the Royal College of Physicians, and was the first Chief of Pediatric Cardiology at the Great Ormond Street Hospital for Children.
-- <span id="page-15-1"></span>1. Swan HJ, Ganz W, Forrester J, et al. Catheterization of the heart in man with use of a flow-directed balloon-tipped catheter. N Engl J Med. 1970; 283:447–451.
-- <span id="page-15-2"></span>2. Marino PL, Krasner JB. Computerized interpretation of hemodynamic profiles in the ICU. Crit Care Med 1984; 12: 601–604.
-- <span id="page-15-3"></span>3. Rajaram SS, Desai NK, Kalra A, et al. Pulmonary artery catheters for adult patients in intensive care. Cochrane Database Syst Rev 2013; 2013:CD003408.
-- <span id="page-15-4"></span>4. Ikuta K, Wang Y, Robinson A, et al. National trends in use and outcomes of pulmonary artery catheters among Medicare beneficiaries, 1999–2013. JAMA Cardiol 2017; 2:908–913.
-- <span id="page-15-5"></span>5. Bootsma IT, Boerma EC, de Lange F, Scheeren TWL. The contemporary pulmonary artery catheter. Part 1: placement and waveform analysis. J Clin Monit Comput 2022; 36:5–15.
-- <span id="page-15-6"></span>6. Bootsma IT, Boerma EC, Scheeren TWL, de Lange F. The contemporary pulmonary artery catheter. Part 2: measurements, limitations, and clinical applications. J Clin Monit Comput 2022; 36:17–31.
-
-#### <span id="page-15-7"></span>*The Wedge Pressure*
-
-- 7. O'Quin R, Marini JJ. Pulmonary artery occlusion pressure: clinical physiology, measurement, and interpretation. Am Rev Respir Dis 1983; 128:319–326.
-- <span id="page-15-8"></span>8. Pinsky M, Vincent JL, De Smet JM. Estimating left ventricular filling pressure during positive end expiratory pressure in humans. Am Rev Respir Dis 1991; 143: 25–31.
-- <span id="page-15-9"></span>9. Teboul J-L, Pinsky MR, Mercat A, et al. Estimating cardiac filling pressure in mechanically ventilated patients with hyperinflation. Crit Care Med 2000; 28:3631–3636.
-- <span id="page-15-10"></span>10. Nemens EJ, Woods SL. Normal fluctuations in pulmonary artery and pulmonary capillary wedge pressures in acutely ill patients. Heart Lung 1982; 11:393–398.
-- <span id="page-15-11"></span>11. Cope DK, Grimbert F, Downey JM, et al. Pulmonary capillary pressure: a review. Crit Care Med 1992; 20:1043–1056.
+</div></details>

@@ -1,331 +1,358 @@
-# Chapter 38
+# Calcium and Phosphorus
 
-# **Calcium and Phosphorus**
+> *Nature never deceives us, it is always we who deceive ourselves.*  
+> — Jean Jacques Rousseau (1754)
 
-*Nature never deceives us, it is always we who deceive ourselves.*
+<details class="med-details" open><summary>
 
-Jean Jacques Rousseau (1754)
+## Executive Summary</summary><div class="details-content">
 
-Calcium and phosphorus are responsible for much of the structural integrity of the bony skeleton. Although neither element is found in abundance in soft tissue, both have important roles in vital cell functions. Phosphorus participates in aerobic energy production, whereas calcium participates in blood coagulation, neuromuscular transmission, and smooth muscle contraction. In light of these roles, it is surprising that abnormalities in calcium and phosphorus balance are devoid of adverse consequences in most patients.
+### Clinical Insights into Calcium and Phosphorus Disorders
 
-### **CALCIUM BASICS**
+- **Structural Abundance vs. Regulatory Flux:** Over 99% of total body calcium ($> 500\text{ g}$) and 85% of total body phosphorus reside in the mineralized matrix of the bony skeleton. Extracellular concentrations represent tightly regulated ionic fractions critical for vascular tone, coagulation, enzymatic phosphorylation, and neuromuscular transmission.
+- **The Fallacy of Total Calcium and Albumin Correction:** Only ionized calcium ($\approx 50\%$ of circulating calcium) is biologically active. In hypoalbuminemic critically ill patients, total calcium is severely depressed while ionized calcium remains completely normal. Mathematical albumin-correction formulas are notoriously unreliable in the ICU; direct measurement of ionized calcium using ion-selective electrodes is mandatory.
+- **Ubiquitous Ionized Hypocalcemia:** Ionized hypocalcemia ($< 4.6\text{ mg/dL}$ or $< 1.15\text{ mmol/L}$) is documented in up to 88% of ICU patients, provoked by respiratory or metabolic alkalosis, concurrent magnesium deficiency (which blunts parathyroid hormone release), systemic sepsis, and massive blood transfusion (citrate chelation).
+- **The Danger of Routine Calcium Infusion:** Most cases of ionized hypocalcemia in critical illness are asymptomatic and represent an adaptive or non-pathological marker of acute illness. Routine intravenous calcium replacement does not improve hemodynamics and can provoke lethal intracellular calcium overload, accelerating cell death and multiorgan failure. Parenteral calcium is indicated strictly for symptomatic tetany, life-threatening arrhythmias, severe hyperkalemia, or massive citrate toxicity.
+- **Emergency Management of Hypercalcemia:** Hypercalcemia ($> 12.5\text{ mg/dL}$ or ionized $> 3.0\text{ mmol/L}$) in the ICU is overwhelmingly driven by malignancy. Treatment mandates aggressive volume expansion with $0.9\%$ isotonic saline ($100\text{–}150\text{ mL/hr}$) to reverse hypercalciuric volume depletion. Furosemide does not enhance calcium clearance and is indicated only to alleviate iatrogenic volume overload. Definitive antiresorptive therapy requires intravenous bisphosphonates (zoledronate $4\text{ mg}$ or pamidronate $90\text{ mg}$), bridged by rapid-acting salmon calcitonin ($4\text{ U/kg}$ SQ every 12 hours for 24–48 hours).
+- **Hypophosphatemia and Refeeding Syndrome:** Hypophosphatemia ($< 2.5\text{ mg/dL}$ or $< 0.8\text{ mmol/L}$) affects up to 80% of ICU patients. Carbohydrate loading (total parenteral nutrition, refeeding after starvation, insulin therapy for DKA) drives transcellular phosphate influx to fuel glycolysis, precipitating acute diaphragm weakness, failure to wean from mechanical ventilation, impaired cardiac contractility, and hemolysis.
+- **The Normalization Heuristic:** Compulsive pharmacological correction of abnormal laboratory numbers to reach arbitrary statistical reference intervals—the *normalization heuristic*—is frequently counterproductive and hazardous in the ICU. Deviations in divalent cations frequently represent homeostatic adaptations rather than primary diseases.
+</div></details>
 
-Calcium is the most abundant electrolyte in the human body, (the average adult has more than half a kilogram of calcium), but 99% is in bone ([1,](#page-11-0)[2\)](#page-11-1). Parathyroid hormone and vitamin D (calcitriol) promote calcium resorption from bone and thereby maintain plasma calcium levels, while calcitonin (from the thyroid gland) has the opposite effect and inhibits calcium release from bone.
+<details class="med-details" open><summary>
 
-### **Plasma Calcium**
+## Calcium Homeostasis and Laboratory Assessment</summary><div class="details-content">
 
-The calcium in plasma is present in three forms, as depicted in [Figure](#page-1-0) 38.1. Approximately half of the calcium is ionized (biologically active) and the remainder is either bound to albumin (80%) or complexed with sulfate and phosphate anions (20%) ([1,](#page-11-0)[2\)](#page-11-1). The concentration of total and ionized calcium in plasma is shown in [Table](#page-0-0) 38.1. These values may vary slightly in different clinical laboratories.
+<details class="med-details" open><summary>
 
-<span id="page-0-0"></span>
+### Skeletal Storage and Hormonal Regulation</summary><div class="details-content">
 
-| TABLE<br>38.1<br>Normal<br>Ranges<br>for<br>Calcium<br>and<br>Phosphate<br>in<br>Blood |                           |                    |                   |
-|----------------------------------------------------------------------------------------|---------------------------|--------------------|-------------------|
-| Serum Electrolyte                                                                      | Traditional Units (mg/dL) | Conversion Factor* | SI Units (mmol/L) |
-| Total Calcium                                                                          | 9.0–10.0                  | 0.25               | 2.25–2.50         |
-|                                                                                        |                           |                    |                   |
+Calcium ($\text{Ca}^{2+}$) is the most abundant electrolyte in the human body. The average adult contains more than $1\text{ kg}$ ($25,000\text{ mEq}$) of elemental calcium, with over 99% sequestered within the hydroxyapatite crystal lattice of bone.
 
-| Ionized Calcium | 4.6–5.0 | 0.25 | 1.15–1.25 |
-|-----------------|---------|------|-----------|
-| Phosphorus      | 2.5–5.0 | 0.32 | 0.8–1.6   |
+Extracellular calcium homeostasis is maintained through a coordinated hormonal triad acting upon bone, kidneys, and intestines:
 
-<sup>\*</sup>Multiply traditional units by conversion factor to derive SI Units or divide SI Units by conversion factor to derive traditional units.
+- **Parathyroid Hormone (PTH):** Released by the parathyroid glands in response to hypocalcemia; stimulates osteoclastic bone resorption, increases renal tubular calcium reabsorption, and activates renal 1-alpha-hydroxylase.
+- **Calcitriol ($1,25\text{-dihydroxyvitamin D}_3$):** Synthesized in the proximal renal tubules; promotes active intestinal calcium and phosphate absorption and enhances PTH-mediated osteolysis.
+- **Calcitonin:** Secreted by thyroid parafollicular C-cells in response to hypercalcemia; inhibits osteoclastic bone resorption and accelerates urinary calcium excretion.
+</div></details>
 
-#### *Total vs. Ionized Calcium*
+<details class="med-details" open><summary>
 
-The calcium assay used by most clinical laboratories measures all three fractions of calcium in plasma, and this can be misleading in patients with hypoalbuminemia. This is demonstrated in [Figure](#page-1-0) 38.1, which shows that a decrease in plasma albumin will decrease the total calcium concentration without affecting the ionized calcium concentration. Since the ionized calcium is the physiologically active fraction, the hypocalcemia caused by hypoalbuminemia is not physiologically significant.
+### Physicochemical Fractions in Plasma</summary><div class="details-content">
 
-A variety of correction factors have been proposed for adjusting the plasma calcium concentration in patients with hypoalbuminemia. However, none of these are reliable [\(3](#page-11-2)[,4](#page-11-3)), and *the measurement of ionized calcium with ion-specific electrodes is necessary for accuracy.*
+Circulating plasma calcium exists in three distinct, balanced physicochemical states, as detailed in Table 38.1 and Figure 38.1.
 
-<span id="page-1-0"></span>![](_page_1_Figure_5.jpeg)
+<details class="med-details" open><summary>
+
+#### <span id="tbl-38-1"></span>TABLE 38.1 Normal Ranges for Calcium and Phosphate in Blood</summary><div class="details-content">
+
+| Serum Electrolyte | Traditional Units ($\text{mg/dL}$) | Conversion Factor* | SI Units ($\text{mmol/L}$) |
+| :--- | :---: | :---: | :---: |
+| **Total Calcium** | 9.0–10.0 | 0.25 | 2.25–2.50 |
+| **Ionized Calcium** | 4.6–5.0 | 0.25 | 1.15–1.25 |
+| **Inorganic Phosphorus** | 2.5–5.0 | 0.32 | 0.8–1.6 |
+
+*Multiply traditional units ($\text{mg/dL}$) by conversion factor to derive SI units ($\text{mmol/L}$), or divide SI units by conversion factor.*
+
+</div></details>
+
+<span id="fig-38-1"></span>
+![FIGURE 38.1](images/_page_1_Figure_5.jpeg)
 
 **FIGURE 38.1** The three fractions of calcium in plasma and the contribution of each to the total calcium concentration. The column on the right shows how a decrease in plasma albumin can reduce the total plasma calcium without influencing the ionized (active) fraction.
 
-Some precautions are necessary when collecting blood samples for an ionized calcium measurement. Loss of carbon dioxide from a blood sample could falsely lower the ionized calcium (by increasing calcium binding to albumin), so it is important to avoid gas bubbles in the blood sample. Anticoagulants (e.g., heparin, citrate, and EDTA) can bind calcium, so blood samples should not be placed in collection tubes that contain these anticoagulants. Tubes with red stoppers ("red top" tubes) contain silicone and are adequate for measuring ionized calcium in serum samples.
+#### Distribution of Circulating Fractions
 
-## **IONIZED HYPOCALCEMIA**
+As illustrated in Figure 38.1:
 
-Ionized hypocalcemia (plasma ionized Ca++ < 4.6 mg/dL or <1.7 mmol/L) is extremely common in ICUs [\(5](#page-11-4)[–7](#page-11-5)), with one multicenter survey reporting an incidence of 88% in ICU patients ([7\)](#page-11-5). The conditions that predispose to ionized hypocalcemia in ICU patients are listed in [Table](#page-2-0) 38.2.
+- **Ionized (Free) Calcium ($\approx 50\%$):** The unbound, physiologically active fraction that regulates cellular signaling, coagulation, and neuromuscular excitability ($1.15\text{–}1.25\text{ mmol/L}$).
+- **Protein-Bound Calcium ($\approx 40\%$):** Non-diffusible fraction bound primarily to albumin ($80\%$) and globulins ($20\%$).
+- **Complexed Calcium ($\approx 10\%$):** Diffusible fraction chelated to divalent and trivalent organic anions, including bicarbonate, citrate, phosphate, and sulfate.
+</div></details>
 
-### **Predisposing Conditions**
+<details class="med-details" open><summary>
 
-Hypoparathyroidism is a leading cause of hypocalcemia in outpatients, but is not a consideration in the ICU unless a patient has had recent thyroid surgery.
+### Total vs. Ionized Calcium and Phlebotomy Precautions</summary><div class="details-content">
 
-<span id="page-2-0"></span>
+Standard clinical laboratory profiles report total serum calcium. Because roughly 40% of calcium is bound to albumin, alterations in serum protein concentrations directly skew total calcium measurements without altering the physiologically vital ionized fraction.
 
-| TABLE<br>38.2<br>Causes<br>of | Ionized<br>Hypocalcemia<br>in<br>the<br>ICU |  |  |
-|-------------------------------|---------------------------------------------|--|--|
-| Most Common                   | Others                                      |  |  |
-| Alkalosis                     | Massive Transfusion                         |  |  |
-| Magnesium Deficiency          | Pancreatitis                                |  |  |
-| Renal Failure                 | Rhabdomyolysis                              |  |  |
-| Sepsis                        | Tumor Lysis Syndrome                        |  |  |
+In hypoalbuminemic critically ill patients, total calcium falls linearly, creating an illusion of hypocalcemia (*pseudohypocalcemia*), while ionized calcium remains completely normal.
 
-#### *Alkalosis*
+#### Unreliability of Correction Formulas
 
-Alkalosis promotes the binding of calcium to albumin, and thereby reduces the fraction of ionized calcium in blood. Infusions of sodium bicarbonate can also promote ionized hypocalcemia because the infused bicarbonate forms complexes with free calcium.
+Numerous mathematical adjustment algorithms have been proposed (e.g., $\text{Corrected Ca} = \text{Measured Ca} + [0.8 \times (4.0 - \text{Albumin})]$). Prospective clinical validations in intensive care populations have demonstrated that **all mathematical correction formulas are completely unreliable**, misclassifying calcium status in up to 40% of ICU patients. Direct quantification of ionized calcium using an ion-specific electrode is mandatory.
 
-#### *Magnesium Depletion*
+#### Pre-Analytical Phlebotomy Requirements
 
-Magnesium depletion promotes hypocalcemia by inhibiting parathormone secretion [\(8](#page-11-6)) and reducing end organ responsiveness to parathormone ([9\)](#page-11-7). *Hypocalcemia from magnesium depletion is refractory to calcium replacement therapy, and magnesium replacement often corrects the hypocalcemia*.
+- **Avoid Gas Exposure:** Exposure of blood to room air allows carbon dioxide to escape, elevating specimen pH; alkalemia increases the negative charge on albumin, artificially binding ionized calcium and lowering measured levels. Blood-gas syringes must be purged of bubbles and analyzed anaerobically.
+- **Anticoagulant Selection:** Standard anticoagulants (citrate, EDTA, liquid heparin) chelate divalent cations. Specimens must be collected in balanced lithium-heparin syringes or untreated silicone-coated tubes ("red-top" tubes).
+</div></details>
+</div></details>
 
-#### *Systemic Inflammation*
+<details class="med-details" open><summary>
 
-Systemic inflammation promotes ionized hypocalcemia via the actions of cytokines to stimulate calcitonin release and blunt the response to parathormone [\(5](#page-11-4)[,6](#page-11-8)). This makes sepsis a common cause of hypocalcemia in the ICU.
+## Ionized Hypocalcemia: Etiology and Clinical Management</summary><div class="details-content">
 
-#### *Renal Failure*
+<details class="med-details" open><summary>
 
-Renal failure can promote ionized hypocalcemia as a result of phosphate retention and impaired conversion of vitamin D to its active form in the kidneys. However, the acidosis in renal failure will decrease the binding of calcium to albumin, which helps to maintain ionized calcium levels.
+### Predisposing Etiologies in the Intensive Care Unit</summary><div class="details-content">
 
-#### *Massive Transfusion*
+Ionized hypocalcemia ($[\text{Ca}^{2+}] < 4.6\text{ mg/dL}$ or $< 1.15\text{ mmol/L}$) is extraordinarily prevalent in the ICU, with multicenter studies reporting an incidence of 85% to 88%.
 
-Ionized hypocalcemia is almost universal in trauma victims who receive massive blood transfusions, and the hypocalcemia can be severe (<0.9 mmol/L) in over half of the patients ([10\)](#page-11-9). The culprit is the citrate anticoagulant used in banked blood, which complexes with calcium.
+<details class="med-details" open><summary>
 
-#### *Others*
+#### <span id="tbl-38-2"></span>TABLE 38.2 Causes of Ionized Hypocalcemia in the ICU</summary><div class="details-content">
 
-Other sources of ionized hypocalcemia include acute pancreatitis (usually severe),
+| Primary ICU Causes | Secondary ICU Causes |
+| :--- | :--- |
+| • **Systemic Alkalosis** (respiratory or metabolic)<br>• **Magnesium Deficiency**<br>• **Sepsis and Systemic Inflammation**<br>• **Acute and Chronic Renal Failure** | • **Massive Blood Transfusion** (citrate toxicity)<br>• **Acute Severe Pancreatitis**<br>• **Rhabdomyolysis**<br>• **Tumor Lysis Syndrome** |
 
-rhabdomyolysis, and tumor lysis syndrome.
+</div></details>
 
-### **Clinical Manifestations**
+#### Pathophysiological Mechanisms
 
-Potential consequences of hypocalcemia include enhanced cardiac and neuromuscular excitability, and reduced contractile force in cardiac muscle and vascular smooth muscle. However, *most cases of ionized hypocalcemia in the ICU have no apparent adverse consequences* [\(5](#page-11-4)[–7](#page-11-5)), and this has prompted the suggestion that routine monitoring of calcium should be abandoned in ICU patients ([6\)](#page-11-8).
+- **Systemic Alkalosis:** Elevation of extracellular pH increases the net negative surface charge on albumin, driving rapid binding of ionized calcium. Infusion of sodium bicarbonate accelerates both protein binding and chemical precipitation.
+- **Magnesium Depletion:** Hypomagnesemia suppresses parathyroid gland adenylate cyclase, inhibiting PTH secretion and inducing target-organ resistance. Hypocalcemia secondary to magnesium depletion is **completely refractory to calcium administration** until magnesium stores are replenished.
+- **Sepsis and Cytokines:** Inflammatory cytokines (TNF-alpha, IL-1, IL-6) upregulate calcitonin gene expression and blunt parathyroid responsiveness, establishing hypocalcemia as a universal feature of septic shock.
+- **Citrate Toxicity from Massive Transfusion:** Banked blood contains sodium citrate ($1.66\text{ g}$ per unit) to prevent clotting. When transfusion rates exceed hepatic citrate clearance ($> 1\text{ unit every 5 minutes}$, or in hypothermia and liver failure), free citrate chelates ionized calcium, dropping levels below $0.9\text{ mmol/L}$.
+</div></details>
 
-#### *Neuromuscular*
+<details class="med-details" open><summary>
 
-The neuromuscular manifestations of hypocalcemia that are often cited include hyperreflexia, paresthesias, seizures and tetany [\(11](#page-11-10)). However, these rarely occur in ICU patients ([5–](#page-11-4)[7\)](#page-11-5). *Chvostek's sign* (facial twitching when tapping the facial nerve) is cited as a sign of hypocalcemia, but this sign *has been reported in over 50% of healthy subjects with normocalcemia* [\(12](#page-11-11)). Trousseau's sign (i.e., carpopedal spasms in the same arm where a blood pressure cuff is inflated to exceed the systolic pressure) is also considered a reliable sign of hypocalcemia ([13\)](#page-11-12), but this is poorly documented.
+### Clinical Manifestations and Diagnostic Pitfalls</summary><div class="details-content">
 
-#### *Cardiovascular*
+Ionized calcium regulates myocardial excitation-contraction coupling and neuronal membrane threshold potentials. Despite severe biochemical depression, **the overwhelming majority of ICU patients with ionized hypocalcemia exhibit no demonstrable clinical compromise**.
 
-The cardiovascular complications of hypocalcemia include hypotension, decreased cardiac output, and ventricular ectopic activity. However, these complications are rare, and are reported only in cases of extreme ionized hypocalcemia (<0.65 mmol/L) ([14\)](#page-11-13).
+#### Neuromuscular Signs: The Chvostek and Trousseau Fallacy
 
-### **Calcium Replacement Therapy**
+Classic physical signs of latent tetany are historically emphasized but clinically misleading in critical care:
 
-Calcium replacement therapy is recommended only in the rare instances where hypocalcemia causes a serious adverse reaction. (The principal use of intravenous calcium is to block the cardiotoxic effects of hyperkalemia.) If calcium replacement is necessary, the intravenous calcium solutions and a recommended dosing regimen are shown in [Table](#page-3-0) 38.3.
+- **Chvostek's Sign:** Contraction of ipsilateral facial muscles elicited by tapping the facial nerve anterior to the ear. Controlled studies show this sign is present in **up to 50% of healthy individuals with completely normal calcium levels**, rendering it diagnostically useless.
+- **Trousseau's Sign:** Carpopedal spasm provoked by inflating a sphygmomanometer cuff above systolic pressure for 3 minutes. While more specific than Chvostek's sign, it is rarely elicited in sedated or critically ill patients.
 
-<span id="page-3-0"></span>
+#### Cardiovascular Complications
 
-| TABLE<br>38.3                                 | Intravenous<br>Calcium<br>Replacement<br>Therapy |                                |                            |
-|-----------------------------------------------|--------------------------------------------------|--------------------------------|----------------------------|
-| Solution                                      | Elemental Ca                                     | Unit Volume                    | Osmolarity                 |
-| 10% Calcium chloride<br>10% Calcium gluconate | 27 mg/mL<br>9 mg/mL                              | 10 mL ampules<br>10 mL ampules | 2,000 mosm/L<br>680 mosm/L |
+Cardiovascular instability—manifesting as systemic hypotension, reduced left ventricular stroke work, diminished responsiveness to exogenous catecholamines, and prolonged QT intervals—is confined almost exclusively to patients with **extreme ionized hypocalcemia ($[\text{Ca}^{2+}] < 0.65\text{ mmol/L}$)**.
+</div></details>
 
-For symptomatic hypocalcemia:
+<details class="med-details" open><summary>
 
-- 1. Give a bolus dose of 200 mg elemental calcium (e.g., 22 mL of 10% calcium gluconate) in 100 mL isotonic saline over 10 minutes.
-- 2. Follow with a continuous infusion of 1–2 mg/kg per hour for 6–12 hrs.
-- 3. Monitor ionized calcium levels hourly for the first few hours.
+### Protocols for Calcium Replacement Therapy</summary><div class="details-content">
 
-#### *Calcium Salt Solutions*
+Because mild-to-moderate hypocalcemia rarely causes harm, routine replacement in asymptomatic patients is strongly discouraged. Therapy is indicated strictly for acute symptomatic manifestations: tetany, generalized seizures, severe citrate intoxication during massive transfusion, or hyperkalemic conduction block.
 
-The calcium solutions for intravenous use are 10% calcium chloride and 10% calcium gluconate. *Calcium chloride contains three times more elemental calcium than calcium gluconate*, but calcium gluconate is usually preferred because it has a lower osmolarity, and is less irritating
+<details class="med-details" open><summary>
 
-when injected.
+#### <span id="tbl-38-3"></span>TABLE 38.3 Intravenous Calcium Replacement Therapy</summary><div class="details-content">
 
-#### *Dosing Regimen*
+| Calcium Preparation | Elemental Calcium Content | Unit Packaging | Solution Osmolarity |
+| :--- | :---: | :---: | :---: |
+| **$10\%$ Calcium Chloride** | $27\text{ mg/mL}$ ($1.35\text{ mEq/mL}$) | $10\text{ mL}$ ampule ($270\text{ mg}$) | $2,000\text{ mosm/L}$ |
+| **$10\%$ Calcium Gluconate** | $9\text{ mg/mL}$ ($0.45\text{ mEq/mL}$) | $10\text{ mL}$ ampule ($90\text{ mg}$) | $680\text{ mosm/L}$ |
 
-A bolus dose of 200 mg elemental calcium (diluted in 100 mL isotonic saline and given over 5– 10 minutes) should raise the total serum calcium by 0.5 mg/dL ([14\)](#page-11-13), but levels will begin to fall after 30 minutes. Therefore, the bolus dose of calcium should be followed by a continuous infusion at a dose rate of 1–2 mg/kg/hr (elemental calcium) for at least 6 hours. Individual responses will vary, so calcium dosing should be guided by the level of ionized calcium in blood.
+</div></details>
 
-**CAUTION:** Intravenous calcium has been shown to promote multiorgan failure in critically ill patients ([15\)](#page-11-14), possibly by promoting intracellular calcium overload, which can produce a lethal cell injury ([16\)](#page-11-15).
+#### Calcium Salt Formulations
 
-### **Summation**
+As detailed in Table 38.3, calcium chloride delivers **three times more elemental calcium** than calcium gluconate. However, calcium chloride is markedly hyperosmolar and causes severe tissue necrosis if extravasated; it is reserved for emergent central venous administration during cardiac arrest or circulatory collapse. Calcium gluconate is preferred for peripheral infusion.
 
-Hypocalcemia in ICU patients is considered to be more of a general marker of illness than a pathological condition that requires treatment. Most cases of symptomatic hypocalcemia occur in patients with hypoparathyroidism, which is rarely encountered in the ICU.
+#### Infusion Dosing and Cellular Toxicity Risks
 
-### **HYPERCALCEMIA**
+- **Emergency Bolus:** Administer $200\text{ mg}$ of elemental calcium (equivalent to $22\text{ mL}$ of $10\%$ calcium gluconate, or approximately two $10\text{ mL}$ ampules) diluted in $100\text{ mL}$ of $0.9\%$ saline IV over 10 minutes.
+- **Continuous Infusion:** Because bolus calcium redistributes within 30 minutes, follow with a continuous infusion of $1\text{–}2\text{ mg/kg/hr}$ of elemental calcium for 6 to 12 hours, titrated to maintain ionized calcium between $1.0\text{–}1.2\text{ mmol/L}$.
 
-Hypercalcemia is usually the result of a hyperparathyroidism or malignancy, with malignancy being the usual culprit in ICU patients [\(17](#page-11-16)). The malignancies associated with hypercalcemia include multiple myeloma, breast, lung, and ovarian cancer, squamous cell carcinoma of the head and neck, and some lymphomas (18).
+##### Hazards of Calcium Administration in Sepsis
 
-### **Clinical Manifestations**
+Experimental and clinical trials demonstrate that **intravenous calcium supplementation during sepsis accelerates mortality and organ dysfunction**. High extracellular calcium drives uncontrolled intracellular calcium influx via leaky membranes, activating intracellular proteases, mitochondrial permeability transition pores, and apoptotic cascades.
+</div></details>
+</div></details>
 
-The manifestations of hypercalcemia are varied and nonspecific. Potential manifestations can be organized as follows:
+<details class="med-details" open><summary>
 
-- 1. *Gastrointestinal:* nausea, vomiting, constipation, and ileus.
-- 2. *Cardiovascular:* hypovolemia, hypotension, and shortened QT interval.
-- 3. *Renal:* polyuria and acute kidney injury.
-- 4. *Neurologic:* confusion, depressed consciousness, and coma.
+## Hypercalcemia: Malignancy and Emergency Resuscitation</summary><div class="details-content">
 
-Manifestations usually begin to appear when the serum calcium is >12.5 mg/dL (or the ionized calcium is >3.0 mmol/L), and they are almost always present when the serum calcium is >14 mg/dL (or the ionized calcium is >3.5 mmol/L) [\(17](#page-11-16)). Manifestations are more likely to appear with rapid increases in serum calcium.
+<details class="med-details" open><summary>
 
-### **Management**
+### Etiology and Clinical Presentation</summary><div class="details-content">
 
-Treatment is indicated when the serum calcium is >14 mg/dL (or ionized calcium is >3.5 mmol/L), or when there are neurologic symptoms. The treatment options for hypercalcemia are summarized in [Table](#page-5-0) 38.4
+Hypercalcemia in the intensive care unit is overwhelmingly caused by **malignancy** (80% of ICU cases) or severe primary hyperparathyroidism. Malignancies frequently implicated include multiple myeloma, squamous cell lung cancer, breast carcinoma, renal cell carcinoma, and adult T-cell lymphomas.
 
-#### *Saline Infusion*
+Malignancy drives hypercalcemia through three pathways: systemic secretion of parathyroid hormone-related peptide (PTHrP), local osteolytic cytokine release by skeletal metastases, or ectopic production of active $1,25\text{-dihydroxyvitamin D}$.
 
-Hypercalcemia promotes calcium loss in the urine (hypercalciuria), and this produces an osmotic diuresis that can result in hypovolemia. When this occurs, urinary calcium excretion decreases, resulting in a more rapid rise in the serum calcium. Therefore, *volume resuscitation to correct hypovolemia and promote renal calcium excretion is the first goal of management* for hypercalcemia. Isotonic saline is recommended to maintain a urine output of 100–150 mL/hr, and this can decrease the serum calcium by 1–2 mg/dL [\(17](#page-11-16)).
+#### Clinical Manifestations
 
-#### *Furosemide*
+Symptoms correlate with the rapidity of calcium elevation and become prominent at total serum calcium $> 12.5\text{ mg/dL}$ ($> 3.0\text{ mmol/L}$ ionized), becoming life-threatening at $> 14.0\text{ mg/dL}$ ($> 3.5\text{ mmol/L}$ ionized):
 
-Loop diuretics like furosemide can increase urinary calcium excretion, but there is no evidence that intravenous furosemide adds to the benefit of saline infusions (19), and it can be counterproductive by promoting hypovolemia. Therefore, *furosemide is recommended only to alleviate volume overload* ([17,](#page-11-16)19).
+- **Neurological:** Progressive lethargy, acute delirium, motor weakness, hyporeflexia, stupor, and coma.
+- **Renal:** Nephrogenic diabetes insipidus (calcium downregulates medullary aquaporin-2 channels), polyuria, dehydration, and prerenal azotemia.
+- **Gastrointestinal:** Nausea, intractable vomiting, obstipation, and acute pancreatitis.
+- **Cardiovascular:** Shortened QT interval, PR prolongation, digitalis hypersensitivity, and ventricular arrhythmias.
+</div></details>
 
-<span id="page-5-0"></span>
+<details class="med-details" open><summary>
 
-| TABLE<br>38.4   | Management<br>of<br>Severe<br>Hypercalcemia                                                                                                                                                                                 |
-|-----------------|-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
-| Agent           | Dosing Regimens and Comments                                                                                                                                                                                                |
-| Isotonic saline | Dosing: Infuse to maintain a urine output of 100–150 mL/hr.<br>Comment: Can reduce the serum Ca++ by<br>1–2 mg/dL.                                                                                                          |
-| Calcitonin      | Dosing: 4 Units/kg by subQ injection every 12 hrs for 24–48 hrs.<br>Comment: Rapid onset of action (2 hrs). Tachyphylaxis is common.                                                                                        |
-| Bisphosphonates | Dosing: Zoledronate (4 mg IV over 15 min) or Pamidronate (60–90 mg IV over 4 hrs).<br>Comment: First line drugs, but have a delayed onset of action (48 hrs), and can be nephrotoxic.<br>Zoledronate may be more effective. |
-| Glucocorticoids | Dosing: IV Hydrocortisone (200–400 mg daily) for 3 days, then Prednisone (10–20 mg daily)<br>for 7 days.<br>Comment: Most effective in patients with myeloma and lymphoma.                                                  |
+### Resuscitation and Pharmacological Management</summary><div class="details-content">
 
-From References 17,18.
+Acute severe hypercalcemia ($> 14\text{ mg/dL}$ or symptomatic) represents a medical emergency requiring rapid, coordinated multi-agent therapy.
 
-#### *Calcitonin*
+<details class="med-details" open><summary>
 
-As mentioned earlier, calcitonin lowers serum calcium by inhibiting calcium release from bone. Salmon calcitonin can be given subcutaneously in a dose of 4 Units/kg every 12 hours. The response is rapid (onset within a few hours), and the serum calcium can decrease by 1–2 mg/dL (18). However, tachyphylaxis is common, and the treatment is discontinued after 24–48 hrs.
+#### <span id="tbl-38-4"></span>TABLE 38.4 Management of Severe Hypercalcemia</summary><div class="details-content">
 
-#### *Glucocorticoids*
+| Therapeutic Agent | Clinical Dosing Regimen | Mechanism and Pharmacodynamics |
+| :--- | :--- | :--- |
+| **Isotonic Saline ($0.9\%$)** | $200\text{–}300\text{ mL/hr}$ initially, titrated to maintain urine output at $100\text{–}150\text{ mL/hr}$ | Reverses hypovolemic sodium-calcium reabsorption; lowers serum calcium by $1\text{–}2\text{ mg/dL}$ |
+| **Salmon Calcitonin** | $4\text{ U/kg}$ subcutaneously or intramuscularly every 12 hours for 24–48 hours | Rapid inhibition of osteoclast bone resorption; onset 2–4 hours; tachyphylaxis common after 48 hours |
+| **Intravenous Bisphosphonates** | • **Zoledronate:** $4\text{ mg}$ IV over 15 minutes<br>• **Pamidronate:** $60\text{–}90\text{ mg}$ IV over 2–4 hours | Potent osteoclast apoptosis; first-line therapy; delayed onset (48 hours), duration 2–4 weeks; nephrotoxic risk |
+| **Systemic Glucocorticoids** | Hydrocortisone $200\text{–}400\text{ mg/day}$ IV for 3 days, then oral prednisone $10\text{–}20\text{ mg/day}$ for 7 days | Inhibits vitamin D conversion and osteoclast activity; drug of choice in lymphoma and myeloma |
 
-Glucocorticoids have several effects that can decrease the serum calcium, including decreased osteoclast activity in bone, and decreased extrarenal production of calcitriol (in lymph nodes). The glucocorticoid regimen usually begins with IV hydrocortisone (200–400 mg daily) for 3 days, followed by prednisone (10–20 mg/day) for 7 days (18). Effectiveness is most evident in patients with multiple myeloma and lymphoma ([17\)](#page-11-16).
+</div></details>
 
-#### *Bisphosphonates*
+#### Saline Hydration and the Furosemide Controversy
 
-The bisphosphonates are potent inhibitors of osteoclast activity. Two drugs in this class, *zoledronate* (4 mg IV over 15 min) and *pamidronate* (90 mg IV over 2 hours) are considered first line agents in the treatment of severe hypercalcemia ([17,](#page-11-16)18). Zoledronate is favored because it is easier to administer, and it may be more effective than pamidronate ([17,](#page-11-16)18). Both drugs have a delayed onset of action (2–4 days), and should be started as soon as the decision to treat is made. The peak effect is at 4–7 days, and the effect lasts 1–4 weeks. These agents can be nephrotoxic, and some recommend reduced dosing when the creatinine clearance is <50 mL/min (18).
+Hypercalcemic nephrogenic diabetes insipidus and vomiting induce severe intravascular volume depletion (deficits of 3–5 Liters). Extracellular contraction stimulates avid proximal tubular reabsorption of sodium and calcium, escalating serum calcium levels.
 
-#### *Dialysis*
+- **Primary Therapy:** Infuse isotonic saline ($0.9\%$) at $200\text{–}300\text{ mL/hr}$ to restore intravascular volume, targeting a urine output of $100\text{–}150\text{ mL/hr}$. Expansion enhances distal calcium excretion and drops serum calcium by $1\text{–}2\text{ mg/dL}$.
+- **The Furosemide Myth:** Loop diuretics promote calciuresis, but clinical trials demonstrate that furosemide **adds zero therapeutic benefit over saline alone** while aggravating hypovolemia, hypokalemia, and hypomagnesemia. Furosemide is indicated exclusively to treat iatrogenic volume overload.
 
-If necessary, hemodialysis or peritoneal dialysis can be used to remove calcium in patients with renal failure.
+#### Antiresorptive and Anti-inflammatory Therapies
 
-## **HYPOPHOSPHATEMIA**
+- **Calcitonin:** Serves as a rapid temporizing bridge (onset within 2 hours), lowering calcium by $1\text{–}2\text{ mg/dL}$ while awaiting bisphosphonate action.
+- **Bisphosphonates:** Zoledronic acid ($4\text{ mg}$ IV) is the definitive agent of choice, exhibiting superior potency and complete response rates compared to pamidronate. Dose reduction is recommended if baseline creatinine clearance is $< 50\text{ mL/min}$.
+- **Hemodialysis:** Indicated for refractory hypercalcemia complicated by oliguric renal failure or life-threatening neurological collapse, utilizing a low- or zero-calcium dialysate.
+</div></details>
+</div></details>
 
-Inorganic phosphate (PO<sup>4</sup> ) is predominantly intracellular in location, where it participates in glycolysis and high energy phosphate (ATP) production. The normal concentration of PO<sup>4</sup> in plasma is shown in [Table](#page-0-0) 38.1 (18).
+<details class="med-details" open><summary>
 
-Hypophosphatemia (serum PO<sup>4</sup> < 2.5 mg/dL or <0.8 mmol/L) is present in as many as 80% of ICU patients (20), and is especially common after major surgery, and in multisystem trauma and fulminant sepsis.
+## Hypophosphatemia: Pathogenesis and Energy Depletion</summary><div class="details-content">
 
-### **Predisposing Conditions**
+<details class="med-details" open><summary>
 
-Hypophosphatemia can be the result of reduced phosphate absorption from the GI tract, increased phosphate excretion in the urine, or the transcellular movement of phosphate into cells.
+### Cellular Roles and Etiological Triggers</summary><div class="details-content">
 
-<span id="page-7-0"></span>![](_page_7_Figure_0.jpeg)
+Inorganic phosphate ($\text{PO}_4^{3-}$) is the principal intracellular divalent anion. It forms the structural backbone of nucleic acids, phospholipids, 2,3-diphosphoglycerate (2,3-DPG), and high-energy adenosine triphosphate ($\text{ATP}$).
 
-**FIGURE 38.2** The effect of total parenteral nutrition (TPN) on the serum phosphate level. Data from Reference 21.
+Hypophosphatemia ($[\text{PO}_4] < 2.5\text{ mg/dL}$ or $< 0.8\text{ mmol/L}$) affects up to 80% of intensive care patients, particularly following major abdominal surgery, severe burn trauma, and septic shock.
 
-#### *Glucose Loading*
+<span id="fig-38-2"></span>
+![FIGURE 38.2](images/_page_7_Figure_0.jpeg)
 
-The movement of glucose into cells is accompanied by a similar movement of PO<sup>4</sup> into cells (presumably because PO<sup>4</sup> is needed for glycolysis), and this can lead to hypophosphatemia if extracellular PO<sup>4</sup> levels are marginal. *Glucose loading is the most common cause of hypophosphatemia in hospitalized patients* (21,22), and typically occurs with refeeding in alcoholic, malnourished, or debilitated patients. In fact, hypophosphatemia is considered a major source of *refeeding syndrome*, which can culminate in respiratory failure and cardiovascular collapse (22,23).
+**FIGURE 38.2** The effect of total parenteral nutrition (TPN) on the serum phosphate level.
 
-An example of the glucose loading effect is demonstrated in [Figure](#page-7-0) 38.2, which shows the effect of total parenteral nutrition (TPN) on serum PO<sup>4</sup> levels (21). Note that hypophosphatemia appeared after 2 days of TPN, and reached severe levels (serum PO<sup>4</sup> < 1 mg/dL) after one week. TPN regimens are characteristically rich in carbohydrates (see Chapter 50), and the risk of hypophosphatemia mandates close monitoring of the serum PO<sup>4</sup> levels during TPN.
+#### Glucose Loading and Refeeding Syndrome
 
-The glucose loading effect is also responsible for the hypophosphatemia that occurs in *diabetic ketoacidosis* (see Chapter 32). In this situation, the prolonged hyperglycemia results in an osmotic diuresis (from glycosuria) that promotes urinary PO<sup>4</sup> losses, and the hypophosphatemia appears when insulin is given (which drives glucose and PO<sup>4</sup> into cells).
+The movement of glucose into skeletal muscle and hepatocytes stimulates hexokinase and phosphofructokinase, consuming inorganic phosphate to generate glucose-6-phosphate.
 
-#### *Respiratory Alkalosis*
+As demonstrated in Figure 38.2, initiating carbohydrate-dense total parenteral nutrition (TPN) or enteral feeding in malnourished, alcoholic, or catabolic patients precipitates a catastrophic transcellular phosphate collapse:
 
-Respiratory alkalosis can increase intracellular pH, and this accelerates glycolysis. The increase in glucose utilization is then accompanied by an increase in glucose and PO<sup>4</sup> movement into cells (24). This may be an important source of hypophosphatemia in ventilator-dependent patients, because overventilation and respiratory alkalosis are common in these patients.
+- Serum phosphate falls precipitously within 48 to 72 hours, reaching critical levels ($< 1.0\text{ mg/dL}$) within 7 days.
+- This acute depletion represents the cardinal hallmark of **refeeding syndrome**, which can culminate in acute respiratory failure and cardiopulmonary collapse.
 
-#### *Physiological Stress*
+#### Respiratory Alkalosis and Systemic Inflammation
 
-Stimulation of β-adrenergic receptors can move PO<sup>4</sup> into cells, and this creates a risk of hypophosphatemia during periods of physiological stress (from the actions of endogenous catecholamines). This is demonstrated by the common association of hypophosphatemia with panic attacks (25).
+- **Acute Hyperventilation:** Respiratory alkalosis drives carbon dioxide out of cells, elevating intracellular pH. This stimulates phosphofructokinase, accelerating glycolysis and trapping circulating phosphate intracellularly.
+- **Catecholamine Surges:** Beta-2 adrenergic stimulation driven by endogenous epinephrine in shock, severe trauma, or panic attacks promotes transcellular phosphate shifting into cells.
+- **Phosphate Binders:** Enteral administration of aluminum- or magnesium-containing antacids and sucralfate precipitates insoluble phosphate salts in the gut lumen, completely blocking absorption.
+</div></details>
 
-#### *Systemic Inflammation*
+<details class="med-details" open><summary>
 
-There is an inverse relationship between serum PO<sup>4</sup> and circulating levels of inflammatory cytokines (26). Possible explanations include increased PO<sup>4</sup> utilization by activated neutrophils, and a transcellular shift of PO<sup>4</sup> caused by endogenous catecholamines.
+### Consequences on Oxidative Metabolism and Myopathy</summary><div class="details-content">
 
-#### *Phosphate Binding Agents*
+Mild hypophosphatemia is generally well tolerated, but severe depletion ($< 1.0\text{ mg/dL}$ or $< 0.3\text{ mmol/L}$) cripples cellular bioenergetics across multiple organ systems.
 
-Aluminum can form insoluble complexes with inorganic phosphates. As a result, aluminumcontaining compounds such as sucralfate can impede the absorption of phosphate in the upper GI tract and promote phosphate depletion (27).
+<span id="fig-38-3"></span>
+![FIGURE 38.3](images/_page_9_Figure_0.jpeg)
 
-### **Clinical Manifestations**
+**FIGURE 38.3** The effects of hypophosphatemia that threaten oxidative metabolism and cellular energy production.
 
-Hypophosphatemia is often clinically silent, even when the serum PO<sup>4</sup> falls to extremely low levels. In one study of patients with severe hypophosphatemia (i.e., serum PO<sup>4</sup> < 1 mg/dL), none of the patients showed evidence of harm (28). However, severe phosphate depletion creates a risk for impaired oxidative metabolism.
+#### Impairment of Cellular Bioenergetics
 
-#### *Oxidative Metabolism*
+As illustrated in Figure 38.3:
 
-Phosphate depletion has several effects that could impair oxidative metabolism. These are summarized below, and indicated in [Figure](#page-9-0) 38.3.
+- **Impaired Myocardial Contractility:** Depletion of myocardial ATP impairs actin-myosin cross-bridging and sarcoplasmic calcium uptake, depressing stroke volume. Intravenous repletion acutely restores cardiac output in hypophosphatemic heart failure.
+- **Diaphragmatic Fatigue and Ventilatory Failure:** Respiratory muscle weakness is a frequent cause of weaning failure from mechanical ventilation. Restoring normal phosphate levels improves maximal inspiratory pressures.
+- **Tissue Hypoxia via 2,3-DPG Depletion:** Erythrocytic 2,3-DPG synthesis plummets, shifting the oxyhemoglobin dissociation curve to the left. Hemoglobin binds oxygen with heightened affinity, starving peripheral tissues of oxygen.
+- **Hemolysis and Rhabdomyolysis:** Red blood cells lose membrane deformability without adequate ATP, resulting in acute hemolytic anemia. Skeletal muscle sarcolemmal integrity fails, producing acute rhabdomyolysis.
+</div></details>
 
-- 1. *Cardiac output:* Phosphate depletion can impair myocardial contractility and reduce cardiac output. Hypophosphatemic patients with heart failure have shown improved cardiac performance after phosphate supplementation (29).
-- 2. *Erythrocytes:* Reduction of high energy phosphate production from glycolysis in erythrocytes can reduce the deformability of red cells. This may explain why severe hypophosphatemia can be accompanied by a hemolytic anemia (30).
-- 3. *Oxyhemoglobin Dissociation:* Phosphate depletion is accompanied by depletion of 2,3 diphosphoglycerate, and this shifts the oxyhemoglobin dissociation curve to the left. When this occurs, hemoglobin is less likely to release oxygen to the tissues.
-- 4. *Energy Availability:* Phosphate depletion can reduce the availability of cellular energy by impeding the production of high-energy phosphate compounds (ATP).
+<details class="med-details" open><summary>
 
-#### *Muscle Disorders*
+### Intravenous Phosphate Replacement Protocol</summary><div class="details-content">
 
-Hypophosphatemia is a reported cause of rhabdomyolysis (31) and respiratory muscle weakness (32), but the clinical significance of these associations is unclear.
+Intravenous replacement is indicated for severe hypophosphatemia ($< 1.0\text{ mg/dL}$ or $< 0.3\text{ mmol/L}$), or in the presence of respiratory muscle weakness, cardiac dysfunction, or refeeding syndrome.
 
-<span id="page-9-0"></span>![](_page_9_Figure_0.jpeg)
+<details class="med-details" open><summary>
 
-**FIGURE 38.3** The effects of hypophosphatemia that threaten oxidative metabolism and cellular energy production. See text for explanation
+#### <span id="tbl-38-5"></span>TABLE 38.5 Phosphate Replacement Therapy</summary><div class="details-content">
 
-### **Phosphate Replacement**
+| Replacement Parameter | Potassium Phosphate Solution | Sodium Phosphate Solution |
+| :--- | :--- | :--- |
+| **Phosphate Content** | $93\text{ mg/mL}$ ($3.0\text{ mmol/mL}$) | $93\text{ mg/mL}$ ($3.0\text{ mmol/mL}$) |
+| **Accompanying Cation** | $\text{K}^+: 4.3\text{ mEq/mL}$ | $\text{Na}^+: 4.0\text{ mEq/mL}$ |
+| **Cation Selection Rule** | Indicated if serum $\text{K}^+ < 4.0\text{ mEq/L}$ | Indicated if serum $\text{K}^+ \ge 4.0\text{ mEq/L}$ |
 
-Intravenous phosphate replacement is recommended for all patients with severe hypophosphatemia (i.e., serum PO<sup>4</sup> < 1.0 mg/dL or 0.3 mmol/L), and for patients with hypophosphatemia of any degree who also have cardiac dysfunction, respiratory failure, or rhabdomyolysis. The phosphate solutions and dosing regimen are shown in [Table](#page-9-1) 38.5 (33).
+##### Weight-Based Dosing Protocol
 
-<span id="page-9-1"></span>
+| Baseline Serum Phosphate | Weight Band: 40–60 kg | Weight Band: 61–80 kg | Weight Band: 81–120 kg |
+| :--- | :---: | :---: | :---: |
+| **$< 1.0\text{ mg/dL}$ ($< 0.3\text{ mmol/L}$)** | $30\text{ mmol}$ | $40\text{ mmol}$ | $50\text{ mmol}$ |
+| **$1.0\text{–}1.7\text{ mg/dL}$ ($0.3\text{–}0.55\text{ mmol/L}$)** | $20\text{ mmol}$ | $30\text{ mmol}$ | $40\text{ mmol}$ |
+| **$1.8\text{–}2.5\text{ mg/dL}$ ($0.55\text{–}0.8\text{ mmol/L}$)** | $10\text{ mmol}$ | $15\text{ mmol}$ | $20\text{ mmol}$ |
 
-| TABLE<br>38.5                                  | Phosphate<br>Replacement<br>Therapy       |                                           |                                            |  |
-|------------------------------------------------|-------------------------------------------|-------------------------------------------|--------------------------------------------|--|
-| Solution†                                      | PO4<br>Content                            |                                           | Other Content                              |  |
-| Sodium Phosphate<br>Potassium Phosphate        | 93 mg (3 mmol)/mL<br>93 mg (3 mmol)/mL    |                                           | Na+:<br>4.0 mEq/L<br>K+:<br>4.3 mEq/L      |  |
-| PO4<br>Replacement (IV) by Body Weight         |                                           |                                           |                                            |  |
-| Serum PO4<br>(mg/dL)<br><1<br>1–1.7<br>1.8–2.5 | 40–60 kg<br>30 mmol<br>20 mmol<br>10 mmol | 61–80 kg<br>40 mmol<br>30 mmol<br>15 mmol | 81–120 kg<br>50 mmol<br>40 mmol<br>20 mmol |  |
+</div></details>
 
-<sup>†</sup>If the plasma K+ is ≥4 mEq/L, use sodium phosphate, and if the plasma K+ is <4 mEq/L, use potassium phosphate.
+#### Dosing Regimen and Solution Selection
 
-### **Summation**
+As outlined in Table 38.5:
 
-Like hypocalcemia, hypophosphatemia is common and often clinically silent, and is considered more of a general marker of illness than a pathological condition that deserves corrective action (20).
+- **Infusion Rate:** Dilute calculated dose in $250\text{–}500\text{ mL}$ $0.9\%$ saline or $5\%$ dextrose and infuse over 4 to 6 hours ($\le 7\text{ mmol/hr}$).
+- **Safety Precaution:** Overly rapid intravenous infusion carries risks of hypocalcemia (precipitation of calcium phosphate salts), metastatic soft tissue calcification, hypotension, and acute kidney injury.
+</div></details>
+</div></details>
 
-### **HYPERPHOSPHATEMIA**
+<details class="med-details" open><summary>
 
-The principal cause of hyperphosphatemia in the ICU is end-stage renal disease (usually chronic, and often dialysis-dependent). Less common sources are tumor lysis syndrome and hypoparathyroidism.
+## Hyperphosphatemia and the Normalization Heuristic</summary><div class="details-content">
 
-### **Clinical Manifestations**
+<details class="med-details" open><summary>
 
-The consequences of hyperphosphatemia include the formation of insoluble calcium–phosphate complexes (with deposition into soft tissues), and hypocalcemia ([11\)](#page-11-10). However, neither of these manifestations has any proven significance in ICU patients.
+### Etiology, Clinical Impact, and Phosphate Binders</summary><div class="details-content">
 
-### **Management**
+Hyperphosphatemia ($[\text{PO}_4] > 5.0\text{ mg/dL}$ or $> 1.6\text{ mmol/L}$) in the ICU is almost exclusively encountered in acute kidney injury or chronic renal failure when GFR drops below $25\text{ mL/min}$. Secondary causes include massive endogenous release during rhabdomyolysis and tumor lysis syndrome.
 
-The management of hyperphosphatemia usually involves the use of phosphate binders to reduce GI absorption of phosphate.
+The primary hazard of hyperphosphatemia is the precipitation of insoluble calcium phosphate crystals when the calcium-phosphate product exceeds $55\text{ mg}^2/\text{dL}^2$, provoking vascular calcification, soft tissue necrosis, and acute secondary hypocalcemia.
 
-### *Phosphate Binders*
+<details class="med-details" open><summary>
 
-Phosphate binders are separated into calcium-containing and non-calcium-containing products. Some prefer the non-calcium-containing binders because there is a daily limit of calcium intake (<800 mg) in patients with chronic kidney disease. However, there is no evidence that one type of phosphate binder is superior to the other (34). The following are examples of each type of phosphate binder.
+#### <span id="tbl-38-6"></span>TABLE 38.6 Sevelamer Dosage Stratified by Serum Phosphate Level</summary><div class="details-content">
 
-**SEVELAMER:** Sevelamer is a non-calcium-containing phosphate binder that is provided as a powder, and is reconstituted in water. The dose is determined by the serum PO<sup>4</sup> level (35):
+| Serum Inorganic Phosphate Level | Recommended Oral Sevelamer Dosage |
+| :---: | :--- |
+| **$5.6\text{–}7.4\text{ mg/dL}$ ($1.8\text{–}2.4\text{ mmol/L}$)** | $800\text{ mg}$ orally three times daily with meals |
+| **$7.5\text{–}8.9\text{ mg/dL}$ ($2.4\text{–}2.9\text{ mmol/L}$)** | $1,200\text{–}1,600\text{ mg}$ orally three times daily with meals |
+| **$\ge 9.0\text{ mg/dL}$ ($\ge 2.9\text{ mmol/L}$)** | $1,600\text{ mg}$ orally three times daily with meals |
 
-| Serum<br>PO4<br>(mg/dL) | Dosage                   |
-|-------------------------|--------------------------|
-| 5.6–7.4                 | 800<br>mg<br>TID         |
-| 7.5–8.9                 | 1,200–1,600<br>mg<br>TID |
-| >9                      | 1,600<br>TID             |
+</div></details>
 
-(TID is three times daily). Sevelamer gluconate is preferred to sevelamer hydrochloride because the latter preparation can cause a metabolic acidosis (36).
+#### Pharmacological Phosphate Binders
 
-**CALCIUM ACETATE:** Calcium acetate (PhosLo®) is available in tablets (667 mg per tab) or an oral solution (667 mg/5 mL). The initial dose is 1,334 mg (2 tabs or 10 mL) three times daily, and
+- **Sevelamer Carbonate:** A non-absorbable, non-calcium polymer that binds dietary phosphate in the gut lumen. As detailed in Table 38.6, doses are titrated according to serum levels. The carbonate salt is preferred over sevelamer hydrochloride because the latter induces hyperchloremic metabolic acidosis.
+- **Calcium Acetate (PhosLo):** A calcium-based binder ($667\text{ mg}$ tablets containing $169\text{ mg}$ elemental calcium). Initial dose is $1,334\text{ mg}$ (2 tablets) orally three times daily with meals, titrated to maintain serum phosphate $< 6.0\text{ mg/dL}$, monitoring closely to avert hypercalcemia.
+</div></details>
 
-this can be increased to achieve a serum PO<sup>4</sup> < 6 mg/dL, as long as hypercalcemia does not develop (37).
+<details class="med-details" open><summary>
 
-### **A FINAL WORD**
+### The Normalization Heuristic in Critical Care</summary><div class="details-content">
 
-### **The Normalization Heuristic**
+The pervasive tendency in intensive care to reflexively administer pharmacological agents to force abnormal laboratory numbers back into statistical reference intervals is known as the **normalization heuristic**.
 
-Disorders of calcium and phosphate in ICU patients are notable for the lack of apparent adverse consequences in most patients. This is especially true for hypocalcemia and hypophosphatemia, which seem to be general markers of illness rather than pathologic disorders that need corrective treatment.
+This practice is driven by two false assumptions: that statistical normality represents optimal physiology, and that laboratory abnormalities are direct causes of morbidity rather than epiphenomena.
 
-The practice of correcting abnormal electrolyte values, even when there is no apparent harm, has been termed the *normalization heuristic* (38), and has two characteristic features: it is very common, and is lacking in merit. It is important to emphasize that the normal range for electrolytes is a statistically-determined domain (i.e., two standard deviations around the mean), and values outside this domain can be normal outliers, and not pathological entities that need corrective action.
+#### Physiological Realities
 
-### *References*
-
-#### *Calcium Basics*
-
-- <span id="page-11-0"></span>1. Baker SB, Worthley LI. The essentials of calcium, magnesium and phosphate metabolism: part I. Physiology. Crit Care Resusc 2002; 4:301–306.
-- <span id="page-11-1"></span>2. Wynne Z, Falat C. Disorders of calcium and magnesium. Emerg Med Clin N Am 2023; 41:833–848.
-- <span id="page-11-2"></span>3. Smith JD, Wilson S, Schneider HG. Misclassification of calcium status based on albumin-adjusted calcium: studies in a tertiary hospital setting. Clin Chem 2018; 64:1713–1722.
-- <span id="page-11-3"></span>4. Slomp J, van der Voort PH, Gerritsen RT, et al. Albumin-adjusted calcium is not suitable for diagnosis of hyper- and hypocalcemia in the critically ill. Crit Care Med 2003; 31:1389–1393.
-
-#### *Ionized Hypocalcemia*
-
-- <span id="page-11-4"></span>5. Melchers M, van Zanten ARH. Management of hypocalcemia in the critically ill. Curr Opin Crit Care 2023; 29:330–338.
-- <span id="page-11-8"></span>6. Aberegg SK. Ionized calcium in the ICU. Should it be measured and corrected? Chest 2016; 149:846–855.
-- <span id="page-11-5"></span>7. Moritoki E, Kim I, Nichol A, et al. Ionized calcium concentration and outcome in critical illness. Crit Care Med 2011; 39:314–321.
-- <span id="page-11-6"></span>8. Anast CS, Winnacker JL, Forte LR, et al. Impaired release of parathyroid hormone in magnesium deficiency. J Clin Endocrinol Metab 1976; 42:707–717.
-- <span id="page-11-7"></span>9. Rude RK, Oldham SB, Singer FR. Functional hypoparathyroidism and parathyroid hormone end-organ resistance in human magnesium deficiency. Clin Endocrinol 1976; 5:209–224.
-- <span id="page-11-9"></span>10. Giancarelli A, Birrer KL, Alban RF, et al. Hypocalcemia in trauma patients receiving massive transfusion. J Surg Res. 2016; 202:182–187.
-- <span id="page-11-10"></span>11. Baker SB, Worthley LI. The essentials of calcium, magnesium and phosphate metabolism: part II. Disorders. Crit Care Resusc 2002;4:307–315.
-- <span id="page-11-11"></span>12. Méneret A, Guey S, Degos B. Chvostek sign, frequently found in healthy subjects, is not a useful clinical sign. Neurology 2013; 80:1067
-- <span id="page-11-12"></span>13. van Bussel BCT, Koopmans RP. Trousseau's sign at the emergency department. BMJ Case Rep 2016; 2016.
-- <span id="page-11-13"></span>14. Zaloga GP. Hypocalcemia in critically ill patients. Crit Care Med 1992; 20:251–262.
-- <span id="page-11-14"></span>15. Collage RD, Howell GM, Zhang X, et al. Calcium supplementation during sepsis exacerbates organ failure and mortality via calcium/calmodulin-dependent protein kinase kinase signaling. Crit Care Med 2013; 41:e352–e360.
-- <span id="page-11-15"></span>16. Trump BF, Berezesky IK. Calcium-mediated cell injury and cell death. Faseb J 1995; 9:219–228.
-
-#### <span id="page-11-16"></span>*Hypercalcemia*
-
-17. Maier JD, Levine SN. Hypercalcemia in the intensive care unit: A review of pathophysiology, diagnosis, and modern therapy.
+- The normal laboratory range represents two standard deviations around the mean in healthy ambulatory populations. In critically ill patients experiencing profound metabolic, inflammatory, and neuroendocrine stress, altered mineral levels frequently reflect protective or homeostatic adaptations.
+- Forcing serum calcium or phosphate into normal ranges with intravenous boluses routinely exacerbates cellular injury, promotes metastatic calcification, and worsens patient outcomes.
+- Therapy must be reserved for clear, objective organ dysfunction rather than nominal numerical deviations on a laboratory monitor.
+</div></details>
+</div></details>

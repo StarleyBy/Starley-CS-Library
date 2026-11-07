@@ -1,270 +1,401 @@
-# Chapter 39
+# Liver Failure
 
-# **Liver Failure**
+> *Intellectually, we stand on an islet in the midst of an illimitable ocean of inexplicability. Our business... is to reclaim a little more land.*  
+> — T.H. Huxley (1887)*
 
-*Intellectually, we stand on an islet in the midst of an illimitable ocean of inexplicability. Our business . . . is to reclaim a little more land.*
+*\*As quoted in Sagan C. Cosmos. New York: Random House, 1980.*
 
-T.H. Huxley (*[a](#page-11-0)*)
+The management of patients with liver failure is a formidable clinical challenge because of the diverse life-sustaining functions compromised when the liver fails. These vital operations include: (*a*) the synthetic production of approximately 20,000 proteins, encompassing all circulating coagulation factors and transport proteins, (*b*) the enzymatic biotransformation and clearance of endogenous and exogenous substances, and (*c*) the reticuloendothelial phagocytosis of microbes crossing the gastrointestinal mucosal barrier.
 
-The management of patients with liver failure is a particular challenge because of the numerous life-supporting functions that are lost when the liver fails. These include: (*a*) the production of about 20,000 proteins, including all the coagulation factors and transport proteins in blood, (*b*) the metabolism of innumerable endogenous and exogenous substances, and (*c*) the removal of microbes that breach the mucosal barrier in the GI tract.
+This chapter details the primary acute crises prompting intensive care admission in patients with liver failure, addressing both *de novo* acute liver failure (ALF) in individuals without previous hepatic disease and acute-on-chronic liver failure (ACLF) in decompensated cirrhosis (1–5).
 
-This chapter describes the major problems that prompt ICU admission in patients with liver failure, and includes the problems associated with both acute liver failure (with no prior history of liver disease) and decompensated cirrhosis. This is an expansive topic that is only briefly described here, and a number of clinical practice guidelines are included in the bibliography at the end of the chapter (1–5).
+<details class="med-details" open><summary>
 
-## **ACUTE LIVER FAILURE**
+## Executive Summary</summary><div class="details-content">
 
-Acute liver failure (ALF) is an abrupt and rapid deterioration in liver function that occurs *de novo*, without prior liver disease. This is an uncommon condition, as demonstrated in [Figure](#page-1-0) 39.1 by the number of cases (2,614) recorded in the United States over a period of 20 years (6).
+<details class="med-details" open><summary>
 
-### **Etiologies**
+### Key Principles and Clinical Recommendations</summary><div class="details-content">
 
-The conditions included in [Figure](#page-1-0) 39.1 were responsible for about 80% of cases of ALF in the United States, and acetaminophen tops the list by a great margin.
+- **Syndromic Dichotomy:** Liver failure in the ICU encompasses two distinct clinical syndromes: *Acute Liver Failure (ALF)*, characterized by acute *de novo* necrosis without antecedent liver disease, rapidly culminating in cytotoxic cerebral edema and hyperdynamic shock; and *Acute-on-Chronic Liver Failure (ACLF)*, occurring on a cirrhotic substrate and dominated by portal hypertension, variceal hemorrhage, spontaneous bacterial peritonitis, and hepatorenal syndrome.
+- **Acetaminophen Hepatotoxicity:** Acetaminophen overdose is the single leading cause of ALF (accounting for 46% of cases in the United States and 64% in the United Kingdom). Approximately 50% of toxic ingestions are unintentional, and plasma drug levels are undetectable in 50% of presenting patients due to delayed admission. Depletion of hepatic glutathione stores unleashes toxic oxidative necrosis peaking at 3–5 days.
+- **N-Acetylcysteine Protocol:** Intravenous N-acetylcysteine (NAC) serves as a glutathione surrogate and is most potent when started within 10 hours of ingestion. Because its therapeutic index is favorable, empirical NAC is indicated at any elapsed time in suspected acetaminophen toxicity, and in ALF of undetermined etiology. Approximately 75% of acetaminophen-induced ALF cases resolve with NAC without emergency liver transplantation.
+- **Cytotoxic Cerebral Edema in ALF:** Unlike cirrhotic encephalopathy, encephalopathy in ALF is complicated by high-grade cerebral edema and intracranial hypertension. Splanchnic ammonia crosses the blood-brain barrier and is metabolized by astrocytes into glutamine, creating an intracellular hyperosmolar state that draws water into astrocytes. An arterial ammonia level $> 150\ \mu\text{mol/L}$ indicates severe risk of brainstem herniation.
+- **Extracorporeal Ammonia Clearance:** In ALF complicated by severe hyperammonemia ($> 150\ \mu\text{mol/L}$) or cerebral edema, continuous venovenous hemofiltration (CVVH) provides superior, rapid systemic ammonia clearance compared to enteral therapies (lactulose and rifaximin). CVVH should be instituted promptly to halt irreversible neurological injury.
+- **Resuscitation Fluid Strategy:** In both ALF and decompensated cirrhosis, 5% or 25% albumin is the preferred volume expander when serum albumin is $< 3\text{ g/dL}$ ($< 30\text{ g/L}$). Hypotonic crystalloids, particularly Ringer's lactate, are contraindicated because free-water delivery induces hyponatremia and exacerbates fatal cerebral edema.
+- **Variceal Hemorrhage Protocol:** Acute variceal hemorrhage demands a structured management bundle: diagnostic and therapeutic endoscopy within 12 hours, restrictive blood transfusion targeting a hemoglobin of $7\text{ g/dL}$ ($70\text{ g/L}$), splanchnic vasoconstriction with octreotide ($50\ \mu\text{g}$ IV bolus followed by $50\ \mu\text{g/hr}$ continuous IV infusion for 2–5 days), and prophylactic ceftriaxone ($1\text{–}2\text{ g}$ IV daily for 5–7 days). Routine reliance on the INR is fallacious; viscoelastic testing (thromboelastography, TEG) must direct blood component therapy.
+- **Spontaneous Bacterial Peritonitis (SBP):** Occurs in up to one-third of cirrhotic ICU admissions due to bacterial translocation across an impaired mucosal barrier. An ascitic absolute neutrophil count $> 250/\text{mm}^3$ ($> 0.25 \times 10^9/\text{L}$) confirms the diagnosis. Treatment mandates empirical broad-spectrum antibiotics and concentrated 25% albumin infusions ($1.5\text{ g/kg}$ on day 1, $1.0\text{ g/kg}$ on day 3) to prevent hepatorenal syndrome and reduce mortality.
+- **Hepatorenal Syndrome (HRS):** A functional vasoconstrictive form of acute kidney injury driven by profound splanchnic arterial vasodilation and compensatory intrarenal arterial spasm. First-line therapy is intravenous terlipressin ($1\text{ mg}$ IV every 4–6 hours or continuous infusion $2\text{ mg/day}$) combined with 25% albumin ($20\text{–}40\text{ g/day}$); norepinephrine is an equally effective alternative. In patients with tense ascites and intra-abdominal pressure $> 12\text{ cm H}_2\text{O}$ ($> 9\text{ mm Hg}$), large-volume decompressive paracentesis with albumin replacement improves renal hemodynamics.
+- **The Reticuloendothelial Shield:** The liver harbors three-quarters of the body's reticuloendothelial phagocytic capacity (Kupffer cells), serving as a crucial secondary firewall against translocated enteric bacteria. When cirrhosis or acute necrosis disarms this barrier, translocated luminal pathogens disseminate unchecked into systemic circulation.
 
-#### *Acetaminophen*
+</div></details>
+</div></details>
 
-Acetaminophen is the leading cause of ALF in both the United States and the United Kingdom (being responsible for 46% and 64% of cases, respectively) (6). Acetaminophen hepatotoxicity is described in detail in Chapter 52, and is only briefly reviewed here. The source of the liver injury is depletion of hepatic glutathione stores, which results in oxidative cell injury from an
+<details class="med-details" open><summary>
 
-acetaminophen metabolite. (Glutathione is the major intracellular antioxidant in the body, as described in Chapter 25.) The liver injury can begin as early as 12 hours after ingestion, and it peaks in 3 to 5 days (7). The laboratory abnormalities in the early stages of injury are characterized by high alanine aminotransferase (ALT) levels, with only mild increases in bilirubin (6). Acetaminophen-induced liver injury has two unfortunate features:
+## Acute Liver Failure</summary><div class="details-content">
 
-<span id="page-1-0"></span>![](_page_1_Figure_1.jpeg)
+Acute liver failure (ALF) is an abrupt, catastrophic deterioration in hepatic metabolic and synthetic capacity occurring *de novo* in patients without antecedent liver disease.
+
+This condition is uncommon, as demonstrated by the 2,614 cases recorded by the United States Adult Acute Liver Failure Registry over a 20-year surveillance period (6). Despite its rarity, ALF carries exceptional lethality, demanding immediate, aggressive critical care intervention and early contact with a liver transplant center.
+
+<details class="med-details" open><summary>
+
+### Etiologies of Acute Liver Failure</summary><div class="details-content">
+
+The specific causes recorded in the United States Adult Acute Liver Failure Registry are illustrated in Figure 39.1, accounting for roughly 80% of all cases nationwide (6).
+
+#### Acetaminophen Hepatotoxicity
+
+Acetaminophen poisoning represents the preeminent cause of acute liver failure in both the United States and the United Kingdom, accounting for 46% and 64% of all reported cases, respectively (6). The fundamental mechanism of hepatocellular necrosis is profound depletion of hepatic glutathione stores. As described in Chapter 25, glutathione is the principal intracellular antioxidant protecting hepatocytes from oxidative damage. When excessive acetaminophen saturates normal glucuronidation and sulfation pathways, cytochrome P450 enzymes generate N-acetyl-p-benzoquinone imine (NAPQI), a reactive metabolite that covalently binds to cellular macromolecules and triggers mitochondrial collapse.
+
+Hepatic injury typically initiates within 12 hours of acute toxic ingestion, reaching peak cytolysis between 3 and 5 days (7). Early laboratory investigations demonstrate marked elevations in serum alanine aminotransferase (ALT) and aspartate aminotransferase (AST), often exceeding several thousand units per liter, accompanied by comparatively modest initial increases in serum bilirubin (6). Acetaminophen-induced hepatotoxicity possesses two treacherous clinical pitfalls:
+
+- 1. Approximately 50% of acetaminophen overdoses are unintentional (7), resulting from repeated therapeutic attempts to alleviate severe pain. This risk is amplified by public unawareness and the presence of acetaminophen in over 600 prescription and over-the-counter products.
+- 2. Serum acetaminophen is completely undetectable in the plasma in approximately 50% of patients who develop severe liver necrosis (8). Because acetaminophen clearance is rapid, patients presenting 24 to 48 hours post-ingestion may have zero measurable drug despite lethal hepatocellular injury, leading to delayed antidote initiation.
+
+<span id="fig-39-1"></span>
+![FIGURE 39.1](images/_page_1_Figure_1.jpeg)
 
 **FIGURE 39.1** Causes of acute liver failure recorded by the United States Adult Acute Liver Failure Registry over the time period from Jan, 1998 to March, 2019. Adapted from Reference 6.
 
-- 1. About half of acetaminophen overdoses are unintentional (7), and are the result of attempts to alleviate pain. This is partly due to consumer ignorance about the potential toxicity of acetaminophen, and is partly due to the inclusion of acetaminophen in more than 600 over-thecounter products.
-- 2. Acetaminophen is undetectable in the plasma in about 50% of the cases where it causes liver injury (8). This creates a risk of missed diagnoses and poor outcomes, since the condition is treatable.
+##### N-Acetylcysteine Antidote Therapy
 
-**N-ACETYLCYSTEINE:** The antidote for acetaminophen hepatotoxicity is N-acetylcysteine (NAC), which acts as a glutathione surrogate (see Figure 25.7). It is usually given intravenously (see Chapter 52 for the dosing regimen), and is started as soon as an acetaminophen overdose is confirmed or suspected. It is most effective when treatment is started within 10 hours of ingestion (7), and the efficacy declines with time thereafter. However, NAC is started at any time after a suspected or confirmed overdose of acetaminophen, and treatment is continued until there is evidence of improvement in liver function. About 75% of cases resolve without the need for liver transplantation (6).
+The specific antidote for acetaminophen hepatotoxicity is N-acetylcysteine (NAC), which acts as an effective glutathione surrogate by restoring hepatic cysteine pools and scavenging toxic reactive intermediates (see Figure 25.7). NAC is typically administered by continuous intravenous infusion (see Chapter 52 for detailed dosing regimens) and should be initiated immediately whenever acetaminophen toxicity is suspected.
 
-The success of NAC in acetaminophen-induced ALF has led to its use in cases of ALF that are not linked to acetaminophen. Although there is no convincing evidence of benefit (9), it is considered reasonable to use NAC empirically in ALF of undetermined etiology (10).
+Therapeutic efficacy is highest when NAC is administered within 10 hours of ingestion (7), but intravenous treatment is strongly indicated at any time point following ingestion as long as ongoing hepatocellular injury or encephalopathy persists. Under aggressive NAC therapy, approximately 75% of patients with acetaminophen-induced ALF survive without requiring liver transplantation (6).
 
-#### *Other Drugs*
+Given its safety profile and microcirculatory benefits, empirical NAC is also considered reasonable in cases of non-acetaminophen ALF of indeterminate etiology (9,10).
 
-The drugs that have been reported to cause acute liver injury are listed in [Table](#page-2-0) 39.1 (11). Druginduced liver injury can be dose-related or idiosyncratic, and is more likely to occur in patients who are elderly, debilitated, or alcoholic. The idiosyncratic reactions are the most troublesome, with a survival rate of only 40% without liver transplantation (6).
+#### Idiosyncratic and Dose-Related Drug Injury
 
-<span id="page-2-0"></span>
+A broad array of prescription pharmaceuticals and herbal preparations can provoke acute hepatocellular necrosis, as summarized in Table 39.1 (11). Drug-induced liver injury (DILI) is categorized into intrinsic dose-related hepatotoxicity (predictable and reproducible) and idiosyncratic reactions (unpredictable, host-dependent immunoallergic or metabolic events).
 
-| TABLE<br>39.1                                                                                                            | Failure†<br>Drugs<br>Associated<br>with<br>Acute<br>Liver |                                                                                         |
-|--------------------------------------------------------------------------------------------------------------------------|-----------------------------------------------------------|-----------------------------------------------------------------------------------------|
-| Dose-Related                                                                                                             |                                                           | Idiosyncratic                                                                           |
-| Acetaminophen<br>Amiodarone§<br>Antimetabolites<br>Antiretroviral Drugs<br>Cyclosporine<br>§<br>Statins<br>Valproic Acid | Lisinopril<br>Statins                                     | Amiodarone§<br>Amoxicillin<br>Dantrolene<br>Halothane<br>Phenytoin<br>§<br>Sulfonamides |
+Adverse hepatic reactions occur with increased frequency in elderly, chronically debilitated, or malnourished patients, as well as individuals with chronic alcohol use. Idiosyncratic drug reactions represent the most lethal subset of DILI, exhibiting a spontaneous transplant-free survival rate of only 40% (6).
 
-<sup>†</sup>For a more complete list, see References 6 and 11.
+<details class="med-details" open><summary>
 
-#### *Ischemic Injury*
+#### <span id="tbl-39-1"></span>TABLE 39.1 Drugs Associated with Acute Liver Failure</summary><div class="details-content">
 
-Ischemic liver injury (sometimes called ischemic hepatitis), typically follows a period of systemic hypoperfusion (e.g., from hemorrhagic shock), and is characterized by very high transaminase levels (e.g., >3,000 IU/L) with only mild increases in bilirubin (<5 mg/dL) (6). This condition tends to resolve if the hypoperfusion resolves, but about 25% of cases need liver transplantation (6).
+| Dose-Related Hepatotoxicity | Idiosyncratic Hepatotoxicity |
+| :--- | :--- |
+| Acetaminophen | Amiodarone* |
+| Amiodarone* | Amoxicillin / Clavulanate |
+| Antimetabolites | Dantrolene |
+| Antiretroviral agents | Halothane |
+| Cyclosporine | Lisinopril |
+| Statins* | Phenytoin |
+| Valproic acid | Statins* |
+| | Sulfonamides |
 
-#### *Acute Hepatitis*
+*\*Hepatic injury can be either dose-related or idiosyncratic.*  
+*Adapted from References 6 and 11.*
 
-Autoimmune hepatitis has a more insidious onset than the other sources of ALF, and the diagnosis often rests on a clinical history of autoimmune disease, or positive serologies (e.g., antinuclear antibodies or anti-smooth muscle antibodies). About 80% of cases are in women (6), and hypergammaglobulinemia is common.
+</div></details>
 
-Viral hepatitis is responsible for <10% of cases of ALF in developed countries (5). Most cases are caused by the hepatitis B virus, which can be a new infection, or a latent infection that is sparked by immunosuppressive therapy. Once liver failure develops, treatment (with nucleoside analogues) is of little value (12), and survival is only 25% without liver transplantation (6).
+#### Ischemic Liver Injury
 
-#### *Other Causes*
+Ischemic liver injury (often designated ischemic hepatitis or "shock liver") occurs following a severe episode of systemic hypoperfusion, such as hemorrhagic shock, cardiac arrest, or prolonged low-output cardiac failure.
 
-Causes of ALF that are not included in [Figure](#page-1-0) 39.1 include the HELLP syndrome (hemolysis, elevated liver enzymes and low platelets in pregnant and post-partum women), Budd Chiari
+The hallmark laboratory derangement is a precipitous, explosive surge in serum transaminases (ALT and AST $> 3{,}000\text{ IU/L}$), contrasting sharply with relatively minor elevations in serum bilirubin ($< 5\text{ mg/dL}$ or $< 85.5\ \mu\text{mol/L}$) (6).
 
-<sup>§</sup>Hepatic injury can be dose-related or idiosyncratic.
+Ischemic hepatitis generally resolves rapidly once systemic hemodynamics and hepatic arterial perfusion are restored. Nevertheless, roughly 25% of affected individuals progress to fulminant necrosis and require emergency liver transplantation (6).
 
-syndrome (hepatic vein occlusion), other viral infections (e.g., herpes simplex), and infiltrating neoplasms (6).
+#### Acute Hepatitis and Other Etiologies
 
-#### **Clinical Features**
+Autoimmune hepatitis displays an insidious onset compared to toxic insults. Diagnosis relies on positive autoimmune serologies (antinuclear antibodies, ANA; anti-smooth muscle antibodies, ASMA) and elevated serum IgG. Approximately 80% of patients are women (6).
 
-Unlike the liver failure associated with cirrhosis, ALF is not accompanied by ascites or bleeding from esophageal varices. Instead, the clinical picture is dominated by systemic inflammation (originating from the damaged liver) with hemodynamic instability and multiorgan dysfunction (similar to inflammatory shock, as described in Chapter 17).
+Viral hepatitis accounts for $< 10\%$ of ALF cases in developed nations (5). The primary pathogen is the hepatitis B virus (HBV), presenting either as acute infection or as lethal reactivation sparked by immunosuppressive therapy. Once fulminant failure emerges, antiviral nucleoside analogues provide negligible survival benefit (12), and spontaneous survival is only 25% without transplantation (6).
 
-#### *Hemodynamics*
+Additional causes include HELLP syndrome in obstetric patients, acute Budd-Chiari syndrome (hepatic vein thrombosis), disseminated herpes simplex virus (HSV), and diffuse neoplastic infiltration (6).
 
-The hemodynamic instability in ALF is due to vasodilation, and an ineffective circulating blood volume from hypoalbuminemia (10). The management involves volume resuscitation and vasopressors if needed, and *albumin is recommended as the resuscitation fluid*, especially when the serum albumin is below 3 g/dL (2). Albumin is available as a 5% solution that has an albumin concentration of 5 g/dL (similar to the normal concentration in plasma), and about 70% of the infused solution will remain in the intravascular space (see Figure 10.1). The use of *Ringer's lactate is not advised* because it promotes hyponatremia, which will exacerbate the cerebral edema in hepatic encephalopathy.
+</div></details>
 
-#### *Acute Kidney Injury*
+<details class="med-details" open><summary>
 
-Acute kidney injury (AKI) is reported in 70% of patients with ALF, and is usually seen in patients with acetaminophen hepatotoxicity, or those with hypotension who require vasopressors (13). Renal replacement therapy is used more aggressively in ALF because it protects against hepatic encephalopathy by removing ammonia as well as excess volume (see next).
+### Clinical Features and Systemic Impact</summary><div class="details-content">
 
-### **Hepatic Encephalopathy**
+Unlike the decompensated state seen in chronic cirrhosis, acute liver failure is not accompanied by ascites, portal collateral formation, or bleeding from esophageal varices.
 
-Encephalopathy is the dominant feature of acute liver failure, and is characterized by cerebral edema (as shown in [Figure](#page-4-0) 39.2).
+Instead, the clinical presentation is dominated by fulminant systemic inflammation triggered by circulating necrotic hepatic debris and damage-associated molecular patterns (DAMPs), creating profound hemodynamic instability and multiorgan failure resembling distributive septic shock (see Chapter 17).
 
-<span id="page-4-0"></span>![](_page_4_Figure_0.jpeg)
+#### Hemodynamic Instability and Fluid Selection
+
+The hemodynamic collapse of ALF is characterized by intense systemic vasodilation, depressed systemic vascular resistance, and an ineffective circulating blood volume exacerbated by acute hypoalbuminemia (10). Optimal resuscitation combines careful intravascular volume repletion with early vasoactive support.
+
+Intravenous 5% albumin is strongly recommended as the preferred resuscitation colloid, particularly when the serum albumin falls below $3\text{ g/dL}$ ($< 30\text{ g/L}$) (2). A 5% albumin solution provides an oncotically balanced concentration of $5\text{ g/dL}$, ensuring that approximately 70% of the infused volume remains confined within the intravascular space (see Figure 10.1).
+
+Conversely, *Ringer's lactate is strictly contraindicated* in ALF. The relative hypotonicity of Ringer's lactate delivers excess solute-free water, provoking acute hyponatremia that exacerbates cytotoxic cerebral edema.
+
+#### Acute Kidney Injury in ALF
+
+Acute kidney injury (AKI) develops in up to 70% of patients with ALF (13). It is particularly prevalent in acetaminophen toxicity due to direct renal tubular toxicity, as well as in patients requiring vasopressor infusions for refractory hypotension.
+
+Continuous renal replacement therapy (CRRT), primarily continuous venovenous hemofiltration (CVVH), is utilized aggressively in ALF. In addition to volume control and acid-base regulation, CVVH clears circulating ammonia and prevents catastrophic intracranial hypertension.
+
+</div></details>
+
+<details class="med-details" open><summary>
+
+### Hepatic Encephalopathy and Cerebral Edema</summary><div class="details-content">
+
+Hepatic encephalopathy represents the defining clinical hallmark of acute liver failure. In contrast to cirrhotic encephalopathy, ALF is complicated by fulminant cerebral edema and intracranial hypertension, as illustrated in Figure 39.2.
+
+<span id="fig-39-2"></span>
+![FIGURE 39.2](images/_page_4_Figure_0.jpeg)
 
 **FIGURE 39.2** CT images of the head in a patient with acute liver failure, taken before (image on the left) and after (image on the right) the onset of cerebral edema. Note the effacement of sulci and loss of the grey-white interface in the image on the right. Images from Reference 6.
 
-#### *Pathogenesis*
+#### Pathogenesis of Cytotoxic Cerebral Edema
 
-Ammonia has an important role in the cerebral edema that can develop in liver failure (14). Ammonia is a byproduct of protein degradation, and is produced primarily in the bowel (and to a lesser degree in skeletal muscle and kidneys). The liver plays a major role in clearing ammonia by converting it to urea via the urea cycle. This clearance mechanism is impaired or lost in liver failure, resulting in a progressive rise in ammonia levels in blood. Ammonia eventually crosses the blood-brain barrier and is taken up by astrocytes, where it is used to produce glutamine. The subsequent accumulation of glutamine then creates an osmotic force that draws water into the astrocytes and creates *a "cytotoxic" type of cerebral edema*.
+Circulating ammonia ($\text{NH}_3$) plays a central role in the induction of cerebral edema in liver failure (14). Ammonia is generated primarily by bacterial and enzymatic deamination of nitrogenous compounds in the gastrointestinal tract, with secondary production in skeletal muscle and kidneys. In health, the liver clears ammonia via hepatic conversion to urea within the urea cycle. When hepatocellular necrosis destroys this clearance pathway, arterial ammonia climbs relentlessly.
 
-#### *Clinical Features*
+Uncharged ammonia readily crosses the blood-brain barrier and is taken up by astrocytes, where glutamine synthetase couples ammonia with glutamate to synthesize glutamine. Because glutamine is an osmotically active amino acid that cannot rapidly diffuse out of astrocytes, its progressive intracellular accumulation generates an obligate osmotic gradient.
 
-The clinical manifestations of hepatic encephalopathy include both cognitive and motor deficits. The cognitive changes that appear in progressive stages of hepatic encephalopathy are shown in [Table](#page-4-1) 39.2 (15). Personality changes and mild disorientation are prominent in the early stages, while depressed consciousness dominates the later stages. The motor deficits can appear at any stage, and include extrapyramidal and cerebellar signs like rigidity, dysphagia, ataxia, and a flapping tremor (asterixis).
+This osmotic gradient pulls water into astrocytes, producing a classic *cytotoxic cerebral edema* with astrocyte swelling, loss of cortical sulci, effacement of the grey-white interface, and life-threatening transtentorial herniation.
 
-<span id="page-4-1"></span>
+#### Clinical Staging and West Haven Criteria
 
-| TABLE<br>39.2 | The<br>"West<br>Haven"<br>Criteria<br>for<br>Hepatic<br>Encephalopathy |
-|---------------|------------------------------------------------------------------------|
-| Grade         | Features                                                               |
-| Grade 1       | • Short attention span                                                 |
+The manifestations of hepatic encephalopathy encompass cognitive, psychiatric, and motor disturbances. Cognitive changes progress predictably from subtle attentional deficits to irreversible coma, as categorized by the West Haven Criteria in Table 39.2 (15).
 
-|         | • Personality change                                          |
-|---------|---------------------------------------------------------------|
-| Grade 2 | • Apathy or lethargy<br>• Disoriented to time                 |
-| Grade 3 | • Stuporous but responsive<br>• Disoriented to place and time |
-| Grade 4 | • Coma                                                        |
+Motor signs can appear at any stage and include asterixis (a characteristic bilateral, arrhythmic flapping tremor of outstretched hands), cogwheel rigidity, dysphagia, ataxia, hyperreflexia, and abnormal posturing.
 
-From Reference 15.
+<details class="med-details" open><summary>
 
-**PLASMA AMMONIA LEVEL:** Plasma ammonia levels are almost always elevated in patients with hepatic encephalopathy, and in many (but not all) cases, there is a correlation between the degree of elevation of the plasma ammonia and the severity of the encephalopathy (16). (This correlation occurs more frequently in ALF than in decompensated cirrhosis.) Arterial ammonia levels may be more predictive than venous levels, at least in the early stages of encephalopathy (16). *An arterial ammonia level >150 μmol/L (normal <60 μmol/L) marks an increased risk of cerebral edema* (17).
+#### <span id="tbl-39-2"></span>TABLE 39.2 The "West Haven" Criteria for Hepatic Encephalopathy</summary><div class="details-content">
 
-#### *Management*
+| Encephalopathy Stage | Clinical Manifestations and Neuropsychiatric Features |
+| :---: | :--- |
+| **Grade 1** | • Shortened attention span, mild personality change, irritability<br>• Inverted sleep-wake cycle, impaired addition/subtraction, subtle asterixis |
+| **Grade 2** | • Lethargy or apathy, disorientation for time (day, month, season)<br>• Evident asterixis, inappropriate behavior, slurred speech |
+| **Grade 3** | • Somnolence to stupor (responsive to noxious stimuli), disorientation for place and time<br>• Marked confusion, pronounced clonus, muscular rigidity |
+| **Grade 4** | • Coma (unresponsive to verbal commands)<br>• Decerebrate or decorticate posturing, loss of corneal and pupillary reflexes |
 
-The prevention and treatment of hepatic encephalopathy is aimed at reducing the ammonia burden in the central nervous system. This is done by reducing ammonia production in the bowel (e.g., with lactulose and a nonabsorbable antibiotic), and clearing ammonia from the bloodstream (with hemofiltration).
+*Adapted from Reference 15.*
 
-**LACTULOSE:** Lactulose is a disaccharide that is metabolized by "lactic acid bacteria" (e.g., *Lactobacillus acidophilus*) in the bowel (18). This promotes the formation of short-chain fatty acids, and the resulting acidification of the bowel lumen helps to eradicate ammonia-producing microbes. (The bactericidal actions of an acid pH are illustrated in Figure 4.3.) The dosing recommendations for lactulose are as follows (19):
+</div></details>
 
-- 1. *Oral or Nasogastric Route:* Start with 20–30 g (30–45 mL) every hour until laxation occurs, then reduce to 20 g (30 mL) every 8 hours, and titrate to achieve 2–3 loose stools daily.
-- 2. *Retention Enema:* Mix 200 g (300 mL) with 700 mL of tap water. Administer by high rectal enema, and retain for 30–60 minutes with patient in the Trendelenburg position.
+##### Plasma Ammonia Levels and Thresholds
 
-Lactulose can produce an osmotic diarrhea, and the dosage should be reduced (or temporarily halted) if diarrhea appears.
+Plasma ammonia is elevated in almost all patients with acute hepatic encephalopathy (16). While venous levels fluctuate widely, arterial ammonia correlates closely with the severity of intracranial hypertension and cerebral herniation risk (16).
 
-**RIFAXIMIN:** Rifaximin is a nonabsorbable antibiotic with a wide spectrum of activity that has proven successful in alleviating symptoms of hepatic encephalopathy when given in a dose of 400 mg three times daily for at least 10 days (20). Although effective when used alone, it is usually combined with lactulose.
+An arterial ammonia level $> 150\ \mu\text{mol/L}$ (normal reference $< 60\ \mu\text{mol/L}$) represents a critical threshold marking a dramatically increased hazard of cerebral edema, intracranial hypertension, and brainstem herniation (17).
 
-**HEMOFILTRATION:** Continuous venovenous hemofiltration (CVVH) can lower plasma ammonia levels and improve outcomes in patients with ALF (21), especially with continued use (20). At
+#### Medical and Dialytic Management
 
-the present time, CVVH is considered superior to lactulose or rifaximin for patients with ALF and hepatic encephalopathy, and should be considered in the following situations: (*a*) persistent oliguria, (*b*) plasma ammonia level >150 μmol/L, and (*c*) evidence of cerebral edema, regardless of the serum creatinine (5). CVVH should be started as soon as possible, as its effectiveness is time-dependent (22).
+The primary goal of encephalopathy management is the rapid reduction of systemic and central nervous system ammonia burdens (18). This is achieved through enteral therapies that decrease bowel ammonia production and extracorporeal therapies that extract ammonia from the blood.
 
-#### *Liver Transplantation*
+##### Lactulose Administration Protocols
 
-Liver transplantation is the definitive treatment for ALF, and has reduced the mortality rate from 80% to 33% (6). There are several scoring systems that are used to identify who will benefit from transplantation, but this is the domain of the transplant specialist, who should be consulted for any patient with ALF who develops progressive hepatic encephalopathy.
+Lactulose is a synthetic nonabsorbable disaccharide metabolized by colonic lactic acid bacteria (*Lactobacillus acidophilus*) into short-chain fatty acids (18). Luminal acidification converts diffusible ammonia ($\text{NH}_3$) into nondiffusible ammonium ions ($\text{NH}_4^+$), trapping nitrogen in the bowel lumen (the bactericidal and physicochemical mechanisms of acidic pH are illustrated in Figure 4.3). Dosing protocols are structured as follows (19):
 
-### **ACUTE-ON-CHRONIC LIVER FAILURE**
+- 1. *Oral or Nasogastric Administration:* Initial bolus of $20\text{–}30\text{ g}$ ($30\text{–}45\text{ mL}$) hourly until laxation is achieved, followed by maintenance dosing of $20\text{ g}$ ($30\text{ mL}$) every 8 hours, carefully titrated to maintain 2 to 3 soft stools per day.
+- 2. *Retention Enema Formulation:* Dilute $200\text{ g}$ ($300\text{ mL}$) of lactulose syrup in $700\text{ mL}$ of tap water. Administer via high rectal tube and retain for 30 to 60 minutes with the patient positioned in Trendelenburg position.
 
-Most admissions to the ICU for liver failure involve patients with chronic liver disease (usually cirrhosis) who experience an abrupt deterioration in liver function. This *acute-on-chronic liver failure* is often complicated by: (*a*) bleeding from gastroesophageal varices, (*b*) hepatic encephalopathy, (*c*) infections, and (*d*) acute kidney injury. This section describes each of these complications, with the exception of hepatic encephalopathy, which is described in the previous section.
+Lactulose can produce profuse osmotic diarrhea leading to severe hypovolemia and hypernatremia; dosage must be decreased or suspended if excessive loose stools occur.
 
-<span id="page-6-0"></span>![](_page_6_Picture_5.jpeg)
+##### Rifaximin Antibiotic Therapy
+
+Rifaximin is an oral, minimally absorbed rifamycin-derivative antibiotic with broad-spectrum activity against ammoniagenic enteric bacteria.
+
+Administered at a dose of $400\text{ mg}$ three times daily (or $550\text{ mg}$ twice daily) for at least 10 days, rifaximin significantly reduces recurrent encephalopathy and blood ammonia (20). In clinical practice, rifaximin is routinely co-administered with lactulose.
+
+##### Continuous Venovenous Hemofiltration
+
+Continuous venovenous hemofiltration (CVVH) provides rapid, high-clearance convective extraction of circulating ammonia, substantially outperforming enteral therapies in acute liver failure (21).
+
+CVVH should be instituted promptly in ALF when any of the following triggers are met: (*a*) persistent oliguric acute kidney injury, (*b*) arterial ammonia $> 150\ \mu\text{mol/L}$, or (*c*) clinical or radiographic evidence of cerebral edema, irrespective of baseline serum creatinine (5). Early initiation is critical because the protective efficacy of ammonia clearance on brain edema is highly time-dependent (22).
+
+#### Emergency Liver Transplantation in ALF
+
+Emergency liver transplantation is the definitive, life-saving therapy for acute liver failure, increasing overall survival from 20% to over 67% (reducing mortality from 80% to 33%) (6).
+
+Multiple prognostic scoring algorithms (including the King's College Criteria) assist in selecting candidates who cannot survive without a graft. A transplant center must be consulted immediately whenever an ALF patient exhibits progressive Grade 2 or 3 encephalopathy.
+
+</div></details>
+</div></details>
+
+<details class="med-details" open><summary>
+
+## Acute-on-Chronic Liver Failure</summary><div class="details-content">
+
+The vast majority of ICU admissions for liver disease involve patients with chronic cirrhosis who experience acute decompensation, designated *acute-on-chronic liver failure* (ACLF).
+
+ACLF is characterized by intense systemic inflammation and rapid progression to multiorgan failure. The acute clinical presentation is dominated by four major life-threatening complications: (*a*) acute variceal hemorrhage, (*b*) acute-on-chronic hepatic encephalopathy, (*c*) spontaneous bacterial peritonitis (SBP), and (*d*) hepatorenal syndrome (HRS).
+
+<details class="med-details" open><summary>
+
+### Variceal Hemorrhage</summary><div class="details-content">
+
+Gastroesophageal varices are tortuous, engorged submucosal veins that develop as portosystemic collateral pathways in response to severe portal hypertension (Figure 39.3). Rupture of these pressurized varices produces massive, life-threatening upper gastrointestinal hemorrhage.
+
+<span id="fig-39-3"></span>
+![FIGURE 39.3](images/_page_6_Picture_5.jpeg)
 
 **FIGURE 39.3** Endoscopic view of esophageal varices, which appear as engorged submucosal veins (outlined by the dotted line). Image courtesy of S. Bhimji, MD; digitally retouched.
 
-### **Variceal Hemorrhage**
+#### Resuscitation and Hemostatic Protocol
 
-Gastroesophageal varices are engorged submucosal veins that appear as a consequence of portal hypertension (see [Figure](#page-6-0) 39.3). Acute bleeding from ruptured varices is one of the more lifethreatening complications of advanced liver disease.
+The emergency management of acute variceal bleeding involves a multidisciplinary resuscitation package combining endoscopic source control, careful blood component transfusion, splanchnic vasoconstrictor infusions, and prophylactic broad-spectrum antibiotics, as summarized in Table 39.3 (1,4).
 
-#### *Management*
+<details class="med-details" open><summary>
 
-The management of acute variceal bleeding, which is outlined in [Table](#page-7-0) 39.3 (4), involves source
+#### <span id="tbl-39-3"></span>TABLE 39.3 The Management of Acute Variceal Bleeding</summary><div class="details-content">
 
-control (with endoscopy), resuscitation (with fluids and blood products), vasoactive therapy (with octreotide), and prophylactic measures (with antibiotics). Intubation may also be necessary in patients with altered mentation.
+| Intervention Component | Clinical Recommendations and Protocols |
+| :--- | :--- |
+| **Urgent Endoscopy** | • Perform within 12 hours of presentation.<br>• Perform endoscopic band ligation or clip application on bleeding varices. |
+| **Volume Resuscitation** | • Maintain MAP $\ge 65\text{ mm Hg}$.<br>• Infuse 5% albumin if serum albumin $< 3\text{ g/dL}$ ($< 30\text{ g/L}$).<br>• Strictly avoid hypotonic crystalloids (e.g., Ringer's lactate) to prevent cerebral edema. |
+| **Hemostatic Resuscitation** | • Transfuse RBCs, plasma, and platelets in a 1:1:1 ratio during active massive hemorrhage.<br>• Restrictive RBC transfusion target: hemoglobin of $7\text{ g/dL}$ ($70\text{ g/L}$).<br>• Utilize thromboelastography (TEG) to direct blood products; the INR is inaccurate in cirrhosis. |
+| **Splanchnic Vasoconstrictor** | • Octreotide: $50\ \mu\text{g}$ IV bolus, followed by continuous IV infusion of $50\ \mu\text{g/hr}$ for 2–5 days. |
+| **Prophylactic Antibiotics** | • Ceftriaxone $1\text{–}2\text{ g}$ IV daily for 5–7 days.<br>• Administer the initial dose prior to diagnostic endoscopy. |
 
-<span id="page-7-0"></span>
+*Adapted from clinical practice guidelines in References 1 and 4.*
 
-| TABLE<br>39.3              | The<br>Management<br>of<br>Acute<br>Variceal<br>Bleeding                                                                                                             |  |
-|----------------------------|----------------------------------------------------------------------------------------------------------------------------------------------------------------------|--|
-| Component                  | Recommendations                                                                                                                                                      |  |
-| Endoscopy                  | • Perform within 12 hrs.                                                                                                                                             |  |
-| Volume Resuscitation       | • Maintain MAP of 65 mm Hg.<br>• Use 5% albumin as a resuscitation fluid if serum albumin <3 g/dL.<br>• Avoid hypotonic fluids.                                      |  |
-| Blood Products             | • Transfuse RBCs, plasma, and platelets in a 1:1:1 ratio.<br>• Use a target Hb of 7 g/dL.<br>• Use thromboelastography to guide hemostatic therapy (see Table 15.1). |  |
-| Splanchnic Vasoconstrictor | • Octreotide: 50 μg as IV bolus, then infuse at 50 μg/hr for 2–5 days.                                                                                               |  |
-| Antibiotic Prophylaxis     | • Ceftriaxone, 1 g IV daily for 5–7 days.<br>• First dose before endoscopy.                                                                                          |  |
+</div></details>
 
-From the guidelines in References 1 and 4.
+##### Key Principles of Variceal Management
 
-Endoscopy is recommended within 12 hours of presentation (1,4), both to identify the source of the bleeding (which has prognostic value) and to clip or band the bleeding varix. The resuscitation with asanguinous fluids and blood products is the same as described for hemorrhagic shock in Chapter 15, with the following exceptions:
+Emergent upper endoscopy should be executed within 12 hours of presentation (1,4), both to verify the bleeding source and to achieve mechanical hemostasis via endoscopic band ligation. Fluid resuscitation mirrors the principles of hemorrhagic shock outlined in Chapter 15, with essential modifications:
 
-- 1. Albumin is recommended as a resuscitation fluid, especially when the serum albumin is less than 3 g/dL (2). The 5% albumin solution has an albumin concentration of 5 g/dL, which is close to the normal albumin concentration in plasma, and about 70% of the infused volume will expand the plasma volume.
-- 2. Hypotonic fluids like Ringer's lactate are not recommended because they add to the risk of cerebral edema (which is responsible for hepatic encephalopathy).
-- 3. The INR is not a valid measure of bleeding risk in patients with cirrhosis (4), and thromboelastography (described in Chapter 15) is recommended to guide hemostatic therapy (1).
+- 1. Albumin is the resuscitation colloid of choice when serum albumin is $< 3\text{ g/dL}$ (2). A 5% albumin solution provides an oncotically physiologic concentration of $5\text{ g/dL}$, retaining approximately 70% of the infused volume intravascularly.
+- 2. Hypotonic crystalloids such as Ringer's lactate are avoided because they lower plasma osmolality and promote cerebral edema.
+- 3. The INR is an invalid guide to bleeding risk in cirrhosis (4). Cirrhotic patients exhibit a "rebalanced" hemostatic system with parallel reductions in procoagulant factors and endogenous anticoagulants (protein C, protein S, and antithrombin). Thromboelastography (TEG) is strongly recommended to evaluate functional clot formation (1).
+- 4. Splanchnic vasoconstrictor therapy with *octreotide* (a synthetic somatostatin analogue) reduces portal venous inflow and pressure; it should be initiated immediately upon suspected variceal bleeding. Prophylactic *ceftriaxone* ($1\text{–}2\text{ g}$ IV daily for 5–7 days) significantly reduces bacterial translocation, rebleeding episodes, and hospital mortality (2,4).
 
-The management of variceal bleeding also includes a splanchnic vasoconstrictor like *octreotide*, a somatostatin analogue that is started as soon as possible, using the dosing regimen in [Table](#page-7-0) 39.3. Prophylactic antibiotics should also be started as soon as possible, and *ceftriaxone* (2 grams daily) is recommended in most guidelines (2,4). (*Note:* This recommendation assumes that resistant microbes are not prevalent in your ICU.)
+#### Refractory Bleeding and Shunt Procedures
 
-#### *Refractory Bleeding*
+Variceal bleeding proves refractory to combined pharmacological and endoscopic interventions in approximately 20% of patients (4). In this setting, emergency transjugular intrahepatic portosystemic shunt (TIPS) must be considered.
 
-Variceal bleeding is refractory to endoscopy and optimal medical management in about 20% of
+TIPS establishes an artificial low-resistance conduit between the intrahepatic portal vein and the hepatic vein, immediately decompressing the portal venous bed and arresting hemorrhage.
 
-cases (4). In this situation, a transesophageal portosystemic shunt (TIPS) procedure should be considered. TIPS is a noninvasive method that creates a shunt between the portal and hepatic veins, thereby alleviating the portal venous hypertension that creates varices. Unfortunately, the TIPS procedure trades one problem for another, as bypassing the liver increases the risk of hepatic encephalopathy.
+However, TIPS trades hemostatic stability for neurocognitive decline: shunting unfiltered portal blood directly into the systemic circulation markedly escalates the risk and severity of hepatic encephalopathy.
 
-### **Spontaneous Bacterial Peritonitis**
+</div></details>
 
-About one-third of patients with decompensated cirrhosis have a bacterial infection, and the most common infection is *spontaneous bacterial peritonitis* (SBP), which is an infection of ascitic fluid without a primary site of infection in the abdomen (5). The source of this infection is the "translocation" of enteric pathogens across the bowel mucosa. SBP occurs only in patients with cirrhosis and ascites, because cirrhosis impairs the normal function of the liver to eradicate microbes that translocate across the bowel wall.
+<details class="med-details" open><summary>
 
-About 50% of cases of SBP are community-acquired, while 25% are classified as "healthcare-associated" (i.e., the patient has had contact with a healthcare facility within 90 days), and the remaining 25% are nosocomial (23). A single organism is isolated in most cases of SBP, and the most common isolates are gram-negative organisms (especially *Escherichia coli* and *Klebsiella pneumoniae*) with gram-positive organisms (usually staphylococci and enterococci) a distant second (23). Resistant organisms are isolated in 35% of cases worldwide, but the prevalence is much lower (16%) in the United States (23).
+### Spontaneous Bacterial Peritonitis</summary><div class="details-content">
 
-#### *Diagnosis*
+Approximately one-third of cirrhotic patients admitted to an ICU harbor an active bacterial infection (5). The most frequent and dangerous manifestation is *spontaneous bacterial peritonitis* (SBP), defined as an acute infection of ascitic fluid occurring without an identifiable surgically treatable intra-abdominal source.
 
-SBP can present with fever, abdominal pain, and rebound tenderness, but it is asymptomatic in one-third of cases (24). A paracentesis is required for the diagnosis, and *an absolute neutrophil count >250/mm3 in ascitic fluid secures the diagnosis, regardless of the culture result* (5). An organism is isolated in about 60% of cases (23). A positive culture without the required neutrophil count in ascitic fluid is not sufficient for the diagnosis of SBP (5). (In this situation, a repeat paracentesis is wise.)
+The pathogenesis of SBP is driven by bacterial translocation: enteric microorganisms migrate across an edematous, dysfunctional intestinal mucosa into mesenteric lymph nodes and ascitic fluid. SBP develops almost exclusively in cirrhotic ascites because chronic portal hypertension impairs hepatic reticuloendothelial filtering of portal blood.
 
-SBP should be suspected in all patients with decompensated cirrhosis and liver failure who are admitted to the ICU, or who experience a sudden deterioration while in the hospital (5). A paracentesis should be performed when SBP is suspected, and the fluid sent for cell count and culture. For optimal culture results, the ascitic fluid should be added to blood culture bottles (aerobic and anaerobic) at the bedside.
+Epidemiological surveillance demonstrates that 50% of SBP cases are community-acquired, 25% are healthcare-associated (prior hospital exposure within 90 days), and 25% are nosocomial (23). The majority of infections are monomicrobial; enteric gram-negative bacilli (*Escherichia coli* and *Klebsiella pneumoniae*) predominate, while gram-positive cocci (staphylococci and enterococci) represent secondary isolates (23). Resistant organisms occur in 35% of cases globally and 16% in the United States (23).
 
-### *Antibiotic Therapy*
+#### Diagnostic Evaluation and Paracentesis
 
-Antibiotic therapy is started in all cases when the absolute neutrophil count is >250/mm3 (before the culture results are available). The choice of antibiotic is determined by the place of origin of the infection, and the prevalence of resistant organisms in your ICU. This is shown in the algorithm in [Figure](#page-9-0) 39.4 (25), which can be summarized as follows:
+While classic SBP manifests with fever, abdominal pain, and rebound tenderness, it is entirely asymptomatic in one-third of ICU presentations (24). Consequently, a diagnostic paracentesis must be performed immediately in all cirrhotic patients admitted to the ICU or experiencing sudden clinical decompensation (5).
 
-- 1. Resistant organisms are unlikely in community-acquired SBP (23), and a third generation cephalosporin (e.g., cefotaxime or ceftriaxone) is generally recommended.
-- 2. Resistant organisms are typically isolated in nosocomial cases of SBP, and less frequently in healthcare-associated infections (23). (*Note:* A nosocomial infection is one that appears after
+*An absolute neutrophil count $> 250/\text{mm}^3$ ($> 0.25 \times 10^9/\text{L}$) in ascitic fluid definitively confirms the diagnosis of SBP, regardless of microbiological culture results* (5).
 
-48 hrs in the hospital, while a healthcare-associated infection is one that appears within 48 hrs after admission in a patient who has had contact with a healthcare facility in the last 90 days.)
+Microorganisms are successfully isolated in approximately 60% of cases (23). To maximize culture sensitivity, at least $10\text{ mL}$ of ascitic fluid should be inoculated directly into blood culture bottles (aerobic and anaerobic) at the patient's bedside. A positive culture with an ascitic neutrophil count $< 250/\text{mm}^3$ represents "bacterascites," which requires a repeat paracentesis within 48 hours.
 
-- a. If a resistant infection is possible, a carbapenem (e.g., meropenem 1 gram every 8 hours) is recommended (25), with vancomycin added if methicillin-resistant *Staphylococcus aureus* is a potential offender, or daptomycin if vancomycin-resistant enterococci are suspected.
-- b. If a resistant organism is unlikely, broad-spectrum coverage for enteric pathogens (e.g., with piperacillin-tazobactam) is sufficient.
+#### Empiric Antibiotic Regimens and Algorithmic Selection
 
-<span id="page-9-0"></span>Antibiotics should be continued for at least 7 days, regardless of the culture results. The response to antibiotics can be assessed by a repeat paracentesis after 48 hours: i.e., a favorable response is defined as a ≥25% decrease in the neutrophil count (5).
+Intravenous antibiotic therapy must be administered immediately upon identifying an ascitic neutrophil count $> 250/\text{mm}^3$, without awaiting culture results. Regimen selection is governed by the setting of acquisition and local antimicrobial resistance patterns, as outlined in Figure 39.4 (25):
 
-![](_page_9_Figure_4.jpeg)
+- 1. *Community-Acquired SBP:* Resistant pathogens are uncommon in community presentations (23). A third-generation cephalosporin (cefotaxime $2\text{ g}$ IV every 8 hours, or ceftriaxone $1\text{–}2\text{ g}$ IV daily) provides outstanding efficacy.
+- 2. *Nosocomial and Healthcare-Associated SBP:* Infections acquired after 48 hours of hospitalization, or within 48 hours of admission in patients exposed to healthcare facilities in the prior 90 days, exhibit high rates of multiresistant pathogens (23).
+  - a. *High Risk of Resistant Pathogens:* A carbapenem (meropenem $1\text{ g}$ IV every 8 hours) is recommended (25), with the addition of vancomycin ($15\text{–}20\text{ mg/kg}$ IV every 12 hours) if methicillin-resistant *Staphylococcus aureus* (MRSA) is suspected, or daptomycin if vancomycin-resistant enterococci (VRE) are prevalent.
+  - b. *Low Risk of Resistant Pathogens:* Broad-spectrum antipseudomonal penicillin (piperacillin-tazobactam $4.5\text{ g}$ IV every 6 hours) is generally sufficient.
 
-**FIGURE 39.4** Algorithm for the empiric antibiotic treatment of spontaneous bacterial peritonitis. From Reference 25.
+Antibiotic therapy must be maintained for at least 7 days. Therapeutic efficacy is verified by a repeat paracentesis performed at 48 hours; a favorable response is defined as a $\ge 25\%$ decrease in the ascitic absolute neutrophil count (5).
 
-#### *Albumin Infusions*
+<span id="fig-39-4"></span>
+![FIGURE 39.4](images/_page_9_Figure_4.jpeg)
 
-Infusions of albumin have been shown to improve survival in SBP (26,27). This was originally attributed to an improvement in renal function (27), because acute kidney injury develops in 30% of patients with SBP (25), and this increases the mortality rate considerably (28). However, more recent studies have shown that the survival benefit of albumin is independent of the serum creatinine (26). The recommended albumin regimen is 1.5 g/kg on day one, followed by 1 g/kg on day 3 (5). The 25% albumin solution (25 g/100 mL) is recommended, to limit the infusion volume.
+**FIGURE 39.4** Algorithm for the empiric antibiotic treatment of spontaneous bacterial peritonitis. Adapted from Reference 25.
 
-#### **Hepatorenal Syndrome**
+#### Intravenous Albumin Therapy in SBP
 
-Acute kidney injury (AKI) is reported in as many as 50% of patients with decompensated cirrhosis (5). The hepatorenal syndrome (HRS) is a type of "functional AKI" that occurs without intrinsic renal disease, and its appearance heralds a poor prognosis.
+Intravenous albumin infusions produce a marked reduction in mortality and prevent the onset of acute kidney injury in patients with SBP (26,27). Acute kidney injury develops in 30% of SBP episodes (25) and escalates hospital mortality dramatically (28). While early studies attributed albumin's benefit strictly to renal protection (27), recent evidence confirms that albumin confers an independent survival benefit irrespective of baseline serum creatinine (26).
 
-#### *Pathogenesis*
+The established dosing protocol is $1.5\text{ g/kg}$ of body weight administered on day 1, followed by $1.0\text{ g/kg}$ on day 3 (5). Concentrated 25% albumin ($25\text{ g}$ per $100\text{ mL}$) is strongly recommended to restrict excessive fluid volume delivery.
 
-HRS is the result of hemodynamic alterations in the splanchnic and renal circulations. Cirrhosis is associated with splanchnic vasodilation, and the neurohumoral (renin system) response to this vasodilation results in vasoconstriction in other organs, including the kidneys. The renal vasoconstriction creates a situation where the glomerular filtration rate is vulnerable to small decrements in cardiac output. Sepsis enhances the vasodilation from cirrhosis, and HRS is more frequent when cirrhosis is accompanied by sepsis.
+</div></details>
 
-#### *Diagnosis*
+<details class="med-details" open><summary>
 
-The diagnostic criteria for HRS are listed in [Table](#page-10-0) 39.4 (29). The criteria include evidence of AKI (i.e., an increase in serum creatinine ≥0.3 mg/dL within 48 hrs) with no other apparent cause (i.e., no circulatory shock or nephrotoxic drugs), and no evidence of intrinsic kidney disease. Urinary indices in HRS are similar to "prerenal" indices (i.e., low sodium and high osmolarity), and these could differentiate HRS from acute tubular necrosis.
+### Hepatorenal Syndrome</summary><div class="details-content">
 
-#### <span id="page-10-0"></span>**TABLE 39.4 Diagnosis and Management of Hepatorenal Syndrome**
+Acute kidney injury develops in up to 50% of patients with decompensated cirrhosis (5). Hepatorenal syndrome (HRS) is a unique form of "functional" AKI occurring in the absence of intrinsic structural renal pathology, and its appearance heralds an exceptionally grave prognosis.
 
-- I. *Diagnostic Criteria:*
-  - 1. Cirrhosis with ascites.
-  - 2. Increase in SCr of ≥0.3 mg/dL within 48 hrs, or SCr ≥1.5 times baseline.
-  - 3. No response to diuretic withdrawal and 2 days of fluid challenges with albumin (1 g/kg/day).
-  - 4. No evidence of shock, and no recent use of nephrotoxic drugs.
-  - 5. No signs of structural kidney injury:
-    - a. Absence of proteinuria (>500 mg/day).
-    - b. Absence of hematuria (>50 RBC's per high power field).
-    - c. Normal findings on renal ultrasound.
-- II. *Management:*
-  - 1. Albumin (25%): 20–40 g daily.
-  - 2. Splanchnic vasoconstriction with one of the following:
-    - a. Terlipressin: 1 mg IV every 4–6 hrs, or infuse at 84 μg/hr (2 mg/day).
-    - b. Norepinephrine: 5–40 μg/min by continuous infusion.
-    - c. Octreotide (100–200 μg subQ) plus midodrine (7.5–15 mg PO) three times daily.
+#### Pathophysiologic Mechanisms
 
-From Reference 29.
+HRS is the downstream consequence of extreme hemodynamic derangements within the splanchnic and renal vascular beds. Advanced cirrhosis produces massive splanchnic arterial vasodilation, triggered by local endothelial release of nitric oxide and other vasodilators.
 
-#### *Management*
+The pooling of blood in the dilated splanchnic circulation creates severe arterial underfilling and drops systemic vascular resistance. In response, endogenous neurohumoral vasoconstrictor systems—the renin-angiotensin-aldosterone axis, the sympathetic nervous system, and nonosmotic vasopressin release—become maximally activated.
 
-The management of HRS is included in [Table](#page-10-0) 39.4. Daily doses of albumin are recommended at a dose of 20–40 grams daily, which should be given as a 25% albumin solution (25 grams per 100 mL) to limit the volume infused. The benefits of albumin may not be related to volume, as albumin is also an antioxidant, and has immunomodulating effects (30).
+This neurohumoral surge provokes intense intrarenal arterial vasoconstriction, plunging renal blood flow and making the glomerular filtration rate hyper-dependent on cardiac output. Systemic sepsis and SBP amplify splanchnic vasodilation, frequently precipitating acute HRS.
 
-The mainstay of treatment for HRS is to promote splanchnic vasoconstriction and reverse the hemodynamic changes that precipitate the condition. The drug of choice for this is *terlipressin*, a synthetic vasopressin analogue that acts primarily as a splanchnic vasoconstrictor. Clinical studies have shown that terlipressin improves renal function in HRS (31,32), but it does not improve survival or reduce the need for liver transplantation (32). Side effects of terlipressin include abdominal pain, diarrhea, pulmonary edema (hydrostatic), and ischemic events. The drug was approved for use in the United States in 2022.
+#### Diagnostic Criteria and Differential Diagnosis
 
-Alternatives to terlipressin include *norepinephrine*, and the combination of *midodrine and octreotide* (33). (See [Table](#page-10-0) 39.4 for dosing recommendations.) Norepinephrine has been equivalent to terlipressin in clinical trials (34), but the experience is limited, while midodrine plus octreotide is inferior to terlipressin (35), and is limited to use in countries where terlipressin is not available.
+The diagnostic criteria for HRS, formulated by the International Club of Ascites, are detailed in Table 39.4 (29). The definition requires acute kidney injury (an increase in serum creatinine $\ge 0.3\text{ mg/dL}$ within 48 hours, or $\ge 50\%$ from baseline) that fails to improve after 48 hours of diuretic withdrawal and volume expansion with intravenous albumin ($1\text{ g/kg/day}$), in the absence of shock, nephrotoxic drugs, or structural kidney disease.
 
-#### *Increased Abdominal Pressure*
+<details class="med-details" open><summary>
 
-Increased intra-abdominal pressure is an overlooked cause of AKI in critically ill patients (36), as described in Chapter 34, and it is possible that it could also promote HRS. This is supported by a study showing that large-volume paracentesis (i.e., removal of ≥4 liters of fluid) improved renal function in patients with tense ascites and HRS (37). Therefore, measurement of intra-abdominal pressure is advised for all patients with tense ascites and HRS (see Chapter 34 for the method of measuring intra-abdominal pressure), and large-volume paracentesis is encouraged if the abdominal pressure exceeds 12 cm H2O (29). However, careful hemodynamic monitoring is needed after large-volume paracentesis, to avoid hemodynamic compromise.
+#### <span id="tbl-39-4"></span>TABLE 39.4 Diagnostic Criteria and Management of Hepatorenal Syndrome</summary><div class="details-content">
 
-#### *Liver Transplantation*
+| Diagnostic / Therapeutic Category | Consensus Clinical Criteria and Protocols |
+| :--- | :--- |
+| **Diagnostic Criteria** | 1. Diagnosis of cirrhosis with ascites.<br>2. Development of AKI: rise in serum creatinine $\ge 0.3\text{ mg/dL}$ within 48 hours, or $\ge 1.5\times$ baseline.<br>3. No sustained renal improvement after $\ge 48$ hours of diuretic withdrawal and volume expansion with IV albumin ($1\text{ g/kg/day}$, maximum $100\text{ g/day}$).<br>4. Absence of shock and no recent exposure to nephrotoxic agents.<br>5. Absence of intrinsic structural renal disease: proteinuria $< 500\text{ mg/day}$, microhematuria $< 50\text{ RBCs/HPF}$, and normal findings on renal ultrasonography. |
+| **Therapeutic Management** | 1. **Intravenous Albumin (25% solution):** $20\text{–}40\text{ g/day}$ continuous or divided IV.<br>2. **Splanchnic Vasoconstrictor Therapy (select one option):**<br>&nbsp;&nbsp;• **Terlipressin:** $1\text{ mg}$ IV bolus every 4–6 hours, or continuous IV infusion at $2\text{ mg/day}$ ($84\ \mu\text{g/hr}$), titrated up to $12\text{ mg/day}$.<br>&nbsp;&nbsp;• **Norepinephrine:** Continuous IV infusion at $5\text{–}40\ \mu\text{g/min}$ ($0.5\text{–}3.0\text{ mg/hr}$), titrated to increase MAP by $\ge 10\text{ mm Hg}$.<br>&nbsp;&nbsp;• **Midodrine plus Octreotide:** Midodrine $7.5\text{–}15\text{ mg}$ PO TID plus Octreotide $100\text{–}200\ \mu\text{g}$ SQ TID (if terlipressin is unavailable). |
 
-Liver transplantation is the definitive treatment for HRS, and a consultation for liver transplantation should be obtained whenever HRS is diagnosed.
+*Adapted from International Club of Ascites Consensus Guidelines (Reference 29).*
 
-### **A FINAL WORD**
+</div></details>
 
-### **The Liver & Bowel Sepsis**
+##### Urinary Indices and Differential Diagnostics
 
-One of the recurring themes in this book is the importance of the bowel as a source of systemic infection and inflammation in critically ill patients (see Chapters 4 and 41). Much of the attention in this area is directed at the breakdown of the mucosal barrier in the bowel, but there is a second line of defense in the event of mucosal breakdown. This is illustrated by the occurrence of spontaneous bacterial peritonitis in patients with liver failure; an infection that is caused by enteric pathogens that escape across the bowel mucosa. This infection demonstrates the importance of the liver as a second line of defense against microbes that breach the mucosal barrier in the bowel. In fact, about three-quarters of the reticuloendothelial system is located in the abdomen (mostly represented by the liver), where it is positioned to protect against the systemic spread of enteric pathogens.
+Urinary indices in HRS reflect intact tubular sodium reabsorption: urinary sodium is typically $< 10\text{ mEq/L}$, fractional excretion of sodium ($\text{FENa}$) is $< 1\%$, urine osmolality exceeds plasma osmolality, and urinary sediment is completely bland. These features help differentiate HRS from acute tubular necrosis (ATN), where tubular injury yields elevated urinary sodium ($> 40\text{ mEq/L}$) and muddy brown granular casts.
 
-#### *References*
+#### Pharmacotherapy and Clinical Evidence
 
-<span id="page-11-0"></span>*a.* As quoted in Sagan C. *Cosmos*. New York: Random House, 1980.
+The cornerstone of medical therapy for HRS is splanchnic vasoconstriction, which counteracts splanchnic arterial pooling and restores effective renal perfusion pressure (30).
+
+The agent of choice is *terlipressin*, a synthetic vasopressin analogue acting primarily as a splanchnic $V_1$-receptor vasoconstrictor. Large randomized trials demonstrate that terlipressin significantly reverses renal failure in HRS (31,32), although it does not independently reduce the requirement for liver transplantation (32). Potential adverse effects include ischemic intestinal events, peripheral cyanosis, abdominal cramps, diarrhea, and hydrostatic pulmonary edema. Terlipressin was approved for HRS in the United States in 2022.
+
+##### Vasoconstrictor Alternatives and Albumin Synergy
+
+Effective alternatives to terlipressin include *norepinephrine* and the combination of *midodrine and octreotide* (33). Continuous norepinephrine infusion is therapeutically equivalent to terlipressin in reversing HRS (34), while midodrine plus octreotide exhibits inferior efficacy (35) and is restricted to settings where intravenous vasoconstrictors cannot be administered.
+
+Concurrently, *intravenous albumin* is administered at a dose of $20\text{–}40\text{ g/day}$ using a 25% concentrated solution ($25\text{ g}$ per $100\text{ mL}$). Albumin exerts beneficial oncotic expansion, scavenges reactive oxygen species, and provides immunomodulatory protection (30).
+
+#### Intra-Abdominal Hypertension and Paracentesis
+
+Elevated intra-abdominal pressure (IAP) is an underrecognized contributor to acute renal failure in the critically ill (36). In cirrhotic patients with tense ascites, marked intra-abdominal hypertension ($> 12\text{ cm H}_2\text{O}$ or $> 9\text{ mm Hg}$) compresses the renal veins, creating high renal venous backpressure that reduces glomerular filtration.
+
+Large-volume paracentesis (evacuation of $\ge 4\text{ L}$ of fluid) has been shown to rapidly reduce intra-abdominal pressure and improve renal function in tense ascites complicated by HRS (37). Measurement of IAP via the bladder catheter is recommended in all patients with tense ascites and HRS (see Chapter 34).
+
+Whenever large-volume paracentesis is performed, intravenous albumin must be co-infused ($8\text{ g}$ of albumin per liter of ascites removed beyond 4 liters) to prevent post-paracentesis circulatory dysfunction and precipitous arterial collapse (29).
+
+#### Definitive Management with Liver Transplantation
+
+Liver transplantation is the only definitive curative therapy for hepatorenal syndrome, completely reversing renal dysfunction and portal hypertension. Urgent transplant evaluation must be initiated as soon as the diagnosis of HRS is confirmed.
+
+</div></details>
+</div></details>
+
+<details class="med-details" open><summary>
+
+## A Final Word: The Liver and Bowel Sepsis</summary><div class="details-content">
+
+<details class="med-details" open><summary>
+
+### The Gut-Liver Reticuloendothelial Barrier</summary><div class="details-content">
+
+One of the central physiological themes recurring throughout this text is the critical role of the gastrointestinal tract as a primary reservoir for systemic infection and multiorgan failure in the critically ill (see Chapters 4 and 41).
+
+Substantial attention focuses on the structural breakdown of the mucosal epithelial barrier. However, mucosal integrity represents only the initial line of host defense.
+
+#### The Secondary Hepatic Firewall
+
+When mucosal permeability is disrupted, the body relies on a second, formidable anatomical firewall: the liver and its extensive reticuloendothelial network. Approximately three-quarters of the entire human reticuloendothelial phagocytic system is situated within the abdominal splanchnic bed, predominantly represented by hepatic sinusoidal Kupffer cells.
+
+The clinical occurrence of spontaneous bacterial peritonitis in liver failure illustrates the vulnerability created when this hepatic filter collapses. Enteric microbes that routinely breach the intestinal mucosa are normally intercepted and eradicated within the hepatic sinusoids.
+
+In patients with advanced liver failure, the destruction of hepatic parenchyma and development of portosystemic shunts extinguish this second line of defense. Escaping enteric bacteria cross into the ascitic fluid and systemic circulation unrestrained, transforming routine mucosal translocation into lethal bacteremia, peritonitis, and septic shock.
+
+</div></details>
+</div></details>

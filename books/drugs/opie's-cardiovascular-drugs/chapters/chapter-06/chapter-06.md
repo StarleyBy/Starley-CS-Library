@@ -4,7 +4,7 @@
 
 <details class="med-details"><summary>
 
-## Executive Summary: Evidence-Based Lipid Lowering and Cardiovascular Risk Reduction</summary><div class="details-content">
+## Executive Summary</summary><div class="details-content">
 
 <details class="med-details"><summary>
 
@@ -98,11 +98,11 @@ Contemporary lipid management has evolved from isolated cholesterol reduction in
 
 <details class="med-details"><summary>
 
-## Inflammation, Atherogenesis, and the Blood Lipid Profile</summary><div class="details-content">
+## 1. Inflammation, Atherogenesis, and the Blood Lipid Profile</summary><div class="details-content">
 
 <details class="med-details"><summary>
 
-### Pathophysiology of Atherosclerosis and Role of Lipoproteins</summary><div class="details-content">
+### 1.1 Pathophysiology of Atherosclerosis and Role of Lipoproteins</summary><div class="details-content">
 
 <details class="med-details"><summary>
 
@@ -110,7 +110,7 @@ Contemporary lipid management has evolved from isolated cholesterol reduction in
 
 Atherosclerosis is fundamentally a chronic, maladaptive inflammatory disease of the arterial intima initiated by the subendothelial retention and subsequent modification of apolipoprotein B (apoB)–containing lipoproteins. Under physiological conditions, circulating low-density lipoprotein (LDL) particles traverse the intact vascular endothelium via transcellular vesicular transport. In regions of disturbed, non-laminar shear stress—such as arterial branch points and bifurcations—endothelial permeability is heightened, and circulating LDL, very-low-density lipoproteins (VLDL), intermediate-density lipoproteins (IDL), and lipoprotein(a) [Lp(a)] penetrate into the subendothelial extracellular space ([Fig. 6.2](#fig-06-02)).
 
-Once in the subendothelium, the positively charged basic amino acid residues (lysine and arginine) of apolipoprotein B-100 interact electrostatically with negatively charged glycosaminoglycan side chains of extracellular proteoglycans (such as biglycan, decorin, and versican). This physical entrapment markedly prolongs the residence time of lipoproteins within the arterial wall, exposing them to local oxidizing agents and hydrolytic enzymes. Retained lipoproteins undergo progressive oxidative modification driven by reactive oxygen species (ROS), myeloperoxidase, 12/15-lipoxygenase, and secretory phospholipase A2 ($ ext{sPLA}_2$), generating minimally modified LDL and extensively oxidized LDL (oxLDL).
+Once in the subendothelium, the positively charged basic amino acid residues (lysine and arginine) of apolipoprotein B-100 interact electrostatically with negatively charged glycosaminoglycan side chains of extracellular proteoglycans (such as biglycan, decorin, and versican). This physical entrapment markedly prolongs the residence time of lipoproteins within the arterial wall, exposing them to local oxidizing agents and hydrolytic enzymes. Retained lipoproteins undergo progressive oxidative modification driven by reactive oxygen species (ROS), myeloperoxidase, 12/15-lipoxygenase, and secretory phospholipase A2 ($\text{sPLA}_2$), generating minimally modified LDL and extensively oxidized LDL (oxLDL).
 
 <span id="fig-06-02"></span>![](_page_4_Figure_3.jpeg)
 
@@ -133,7 +133,7 @@ Once in the subendothelium, the positively charged basic amino acid residues (ly
 
 <details class="med-details"><summary>
 
-### C-Reactive Protein, Vascular Inflammation, and Residual Inflammatory Risk</summary><div class="details-content">
+### 1.2 C-Reactive Protein, Vascular Inflammation, and Residual Inflammatory Risk</summary><div class="details-content">
 
 <details class="med-details"><summary>
 
@@ -159,7 +159,7 @@ The causal role of inflammation in human atherothrombosis was definitively valid
 
 <details class="med-details"><summary>
 
-### Total Cholesterol and Low-Density Lipoprotein Cholesterol (LDL-C)</summary><div class="details-content">
+### 1.3 Total Cholesterol and Low-Density Lipoprotein Cholesterol (LDL-C)</summary><div class="details-content">
 
 <details class="med-details"><summary>
 
@@ -195,7 +195,7 @@ Observational epidemiology, mendelian randomization studies, and clinical trials
 
 <details class="med-details"><summary>
 
-### High-Density Lipoprotein Cholesterol (HDL-C) and Reverse Cholesterol Transport</summary><div class="details-content">
+### 1.4 High-Density Lipoprotein Cholesterol (HDL-C) and Reverse Cholesterol Transport</summary><div class="details-content">
 
 <details class="med-details"><summary>
 
@@ -203,7 +203,7 @@ Observational epidemiology, mendelian randomization studies, and clinical trials
 
 High-density lipoproteins (HDL) represent a heterogeneous class of small, dense, protein-rich particles characterized by their structural scaffold protein apolipoprotein A-I (apoA-I). Epidemiologically, serum HDL-C concentration exhibits a strong, inverse, independent association with incident ASCVD; across large population cohorts, each 1 mg/dL (0.026 mmol/L) increment in HDL-C is associated with a 2% to 3% decrement in coronary event risk.
 
-The primary antiatherogenic mechanism attributed to HDL is reverse cholesterol transport (RCT), the physiological pathway whereby excess unesterified cholesterol is cleared from peripheral tissues—including arterial wall foam cells—and delivered to the liver for excretion into bile and feces. The RCT cascade begins with the synthesis and secretion of lipid-poor apoA-I by hepatocytes and enterocytes. ApoA-I interacts with ATP-binding cassette transporter A1 (ABCA1) on macrophage membranes, extracting cellular phospholipids and free cholesterol to form nascent, discoidal pre-β-HDL particles. Within the plasma, lecithin-cholesterol acyltransferase (LCAT) esterifies free cholesterol into hydrophobic cholesteryl esters, which partition into the particle core, transforming discoidal HDL into mature, spherical α-HDL ($ ext{HDL}_3$ and $ ext{HDL}_2$).
+The primary antiatherogenic mechanism attributed to HDL is reverse cholesterol transport (RCT), the physiological pathway whereby excess unesterified cholesterol is cleared from peripheral tissues—including arterial wall foam cells—and delivered to the liver for excretion into bile and feces. The RCT cascade begins with the synthesis and secretion of lipid-poor apoA-I by hepatocytes and enterocytes. ApoA-I interacts with ATP-binding cassette transporter A1 (ABCA1) on macrophage membranes, extracting cellular phospholipids and free cholesterol to form nascent, discoidal pre-β-HDL particles. Within the plasma, lecithin-cholesterol acyltransferase (LCAT) esterifies free cholesterol into hydrophobic cholesteryl esters, which partition into the particle core, transforming discoidal HDL into mature, spherical α-HDL ($\text{HDL}_3$ and $\text{HDL}_2$).
 
 </div></details>
 
@@ -223,7 +223,7 @@ Despite robust observational associations, extensive clinical trials have defini
 
 <details class="med-details"><summary>
 
-### Triglycerides, Remnant Lipoproteins, and Pancreatitis Risk</summary><div class="details-content">
+### 1.5 Triglycerides, Remnant Lipoproteins, and Pancreatitis Risk</summary><div class="details-content">
 
 <details class="med-details"><summary>
 
@@ -263,7 +263,7 @@ Immediate treatment of severe hypertriglyceridemia requires a very-low-fat diet 
 
 <details class="med-details"><summary>
 
-### Apolipoprotein B and Lipoprotein(a): Clinical Utility and Lifetime Risk</summary><div class="details-content">
+### 1.6 Apolipoprotein B and Lipoprotein(a): Clinical Utility and Lifetime Risk</summary><div class="details-content">
 
 While standard lipid panels report the mass concentration of cholesterol carried within lipoprotein subfractions (LDL-C, HDL-C, and triglycerides), contemporary lipidology increasingly recognizes the diagnostic and prognostic superiority of measuring particle number and specialized atherogenic fractions: apolipoprotein B (apoB) and lipoprotein(a) [Lp(a)].
 
@@ -283,7 +283,7 @@ The 2018 AHA/ACC guidelines recognize an apoB level ≥130 mg/dL (1.3 g/L) as a 
 
 #### Lipoprotein(a) [Lp(a)]</summary><div class="details-content">
 
-Lipoprotein(a) is a unique, highly atherogenic variant of LDL consisting of a central LDL core containing apoB-100 covalently linked via a single disulfide bond to a specialized, polymorphic glycoprotein termed apolipoprotein(a) [apo(a)]. Apo(a) shares marked structural homology with the fibrinolytic proenzyme plasminogen, consisting of a series of repeated tri-loop protein motifs termed "kringle" domains (specifically kringle IV and kringle V) and an inactive protease-like domain. Kringle IV type 2 ($ ext{KIV}_2$) repeats vary genetically from 1 to >40 copies, resulting in extensive size polymorphism; smaller apo(a) isoforms are secreted more efficiently by hepatocytes and correlate inversely with circulating Lp(a) concentrations.
+Lipoprotein(a) is a unique, highly atherogenic variant of LDL consisting of a central LDL core containing apoB-100 covalently linked via a single disulfide bond to a specialized, polymorphic glycoprotein termed apolipoprotein(a) [apo(a)]. Apo(a) shares marked structural homology with the fibrinolytic proenzyme plasminogen, consisting of a series of repeated tri-loop protein motifs termed "kringle" domains (specifically kringle IV and kringle V) and an inactive protease-like domain. Kringle IV type 2 ($\text{KIV}_2$) repeats vary genetically from 1 to >40 copies, resulting in extensive size polymorphism; smaller apo(a) isoforms are secreted more efficiently by hepatocytes and correlate inversely with circulating Lp(a) concentrations.
 
 Circulating Lp(a) levels are >90% genetically determined in an autosomal codominant pattern, remaining virtually stable throughout an individual’s life and largely unaffected by diet, physical exercise, or standard statin therapy. Large-scale genome-wide association studies and mendelian randomization investigations have established that elevated Lp(a) is an independent, causal, genetically driven risk factor for coronary artery disease, stroke, peripheral arterial disease, and calcific aortic valve stenosis.
 
@@ -302,11 +302,11 @@ In the 2018 AHA/ACC guidelines, an Lp(a) level ≥50 mg/dL (or ≥125 nmol/L) se
 
 <details class="med-details"><summary>
 
-## Cardiovascular Risk Assessment, Prevention Strategies, and Special Populations</summary><div class="details-content">
+## 2. Cardiovascular Risk Assessment, Prevention Strategies, and Special Populations</summary><div class="details-content">
 
 <details class="med-details"><summary>
 
-### 10-Year ASCVD Risk Estimation: Pooled Cohort Equations and SCORE</summary><div class="details-content">
+### 2.1 10-Year ASCVD Risk Estimation: Pooled Cohort Equations and SCORE</summary><div class="details-content">
 
 Cardiovascular risk assessment represents the cornerstone of modern preventive cardiology. Clinical decision-making regarding the initiation and intensity of lipid-lowering pharmacotherapy is guided by estimating an individual’s absolute risk of developing an atherosclerotic event over the subsequent 10 years, balanced against potential drug toxicities, patient preferences, and lifetime exposure.
 
@@ -337,7 +337,7 @@ In European clinical practice, the European Society of Cardiology (ESC) guidelin
 
 <details class="med-details"><summary>
 
-### Risk-Enhancing Factors and Coronary Artery Calcium (CAC) Scoring</summary><div class="details-content">
+### 2.2 Risk-Enhancing Factors and Coronary Artery Calcium (CAC) Scoring</summary><div class="details-content">
 
 While multivariable risk calculators provide population-level estimates, individual risk is frequently underestimated or overestimated. When clinical decision-making regarding statin initiation is ambiguous—specifically in adults at **borderline (5% to <7.5%)** or **intermediate (7.5% to <20%)** risk—guidelines recommend evaluating clinical **risk-enhancing factors** ([Table 6.1](#table-06-01)). The presence of risk-enhancing factors reclassifies patients toward higher risk, favoring the initiation or uptitration of statin pharmacotherapy.
 
@@ -350,7 +350,7 @@ If risk decision remains uncertain after evaluating risk-enhancing factors, meas
 
 <details class="med-details"><summary>
 
-### Primary and Secondary Prevention Paradigms</summary><div class="details-content">
+### 2.3 Primary and Secondary Prevention Paradigms</summary><div class="details-content">
 
 Clinical lipidology distinguishes sharply between two fundamental treatment paradigms: primary prevention and secondary prevention.
 
@@ -383,7 +383,7 @@ Primary prevention applies to asymptomatic individuals without established clini
 
 <details class="med-details"><summary>
 
-### Metabolic Syndrome: Pathophysiology and Diagnostic Criteria</summary><div class="details-content">
+### 2.4 Metabolic Syndrome: Pathophysiology and Diagnostic Criteria</summary><div class="details-content">
 
 Metabolic syndrome is a multifaceted constellation of atherogenic, metabolic, and hemodynamic abnormalities driven by visceral adiposity, ectopic fat accumulation, and peripheral insulin resistance ([Fig. 6.4](#fig-06-04)). The prevalence of metabolic syndrome escalates sharply with advancing age, physical inactivity, and obesity, affecting over one-third of the adult population in Western nations.
 
@@ -406,7 +406,7 @@ In the 2018 AHA/ACC guidelines, metabolic syndrome is recognized as a major risk
 
 <details class="med-details"><summary>
 
-### Secondary Dyslipidemias and Drug-Induced Lipid Derangements</summary><div class="details-content">
+### 2.5 Secondary Dyslipidemias and Drug-Induced Lipid Derangements</summary><div class="details-content">
 
 Prior to initiating pharmacological lipid-lowering therapy, clinicians must systematically exclude and address secondary causes of dyslipidemia. Common systemic conditions that alter lipoprotein metabolism include:
 - **Hypothyroidism:** Decreased thyroid hormone levels downregulate hepatic LDL receptor expression, impairing LDL clearance and markedly elevating total cholesterol and LDL-C; initiating levothyroxine replacement often normalizes the lipid panel without requiring statins.
@@ -447,7 +447,7 @@ Crucially, protective cardiovascular medications—such as $\\beta$-blockers in 
 
 <details class="med-details"><summary>
 
-### Dyslipidemia Management in Diabetic Patients</summary><div class="details-content">
+### 2.6 Dyslipidemia Management in Diabetic Patients</summary><div class="details-content">
 
 Patients with type 2 diabetes mellitus carry a 2- to 4-fold higher risk of incident ASCVD and cardiovascular death compared to nondiabetic individuals. Diabetic dyslipidemia is classically characterized by the "atherogenic lipid triad":
 1. Hypertriglyceridemia (elevated fasting and postprandial VLDL and remnant lipoproteins)
@@ -462,7 +462,7 @@ In adults aged 40 to 75 years with diabetes mellitus, clinical guidelines establ
 
 <details class="med-details"><summary>
 
-### Dyslipidemia in Older Adults, Women, and Pregnancy</summary><div class="details-content">
+### 2.7 Dyslipidemia in Older Adults, Women, and Pregnancy</summary><div class="details-content">
 
 Special clinical considerations govern lipid-lowering management across distinct demographic groups:
 
@@ -502,11 +502,11 @@ Physiological hyperlipidemia occurs during the second and third trimesters of no
 
 <details class="med-details"><summary>
 
-## Lifestyle and Dietary Interventions for Dyslipidemia</summary><div class="details-content">
+## 3. Lifestyle and Dietary Interventions for Dyslipidemia</summary><div class="details-content">
 
 <details class="med-details"><summary>
 
-### Dietary Strategies and Nutritional Patterns</summary><div class="details-content">
+### 3.1 Dietary Strategies and Nutritional Patterns</summary><div class="details-content">
 
 Lifestyle modification represents the foundational cornerstone of cardiovascular disease prevention and lipid management, applicable to all patients across every tier of cardiovascular risk. While pharmacological therapies produce potent, targeted reductions in specific atherogenic lipoprotein fractions, optimal dietary patterns exert pleiotropic cardiovascular benefits by simultaneously modifying circulating lipoprotein particle concentrations, lowering systemic blood pressure, enhancing insulin sensitivity, mitigating systemic low-grade inflammation, and reducing oxidative stress.
 
@@ -553,7 +553,7 @@ Clinical trials and international consensus guidelines (AHA/ACC, ESC/EAS) emphas
 
 <details class="med-details"><summary>
 
-### Physical Activity, Weight Management, and Exercise Prescription</summary><div class="details-content">
+### 3.2 Physical Activity, Weight Management, and Exercise Prescription</summary><div class="details-content">
 
 Physical inactivity and visceral adiposity are cardinal drivers of atherogenic dyslipidemia, characterized by elevated fasting and postprandial triglycerides, accumulation of triglyceride-rich lipoprotein (TRL) remnants, decreased HDL-C, and an abundance of small, dense LDL particles.
 
@@ -604,11 +604,11 @@ A sustained reduction in body weight of 5% to 10% in overweight and obese indivi
 
 <details class="med-details"><summary>
 
-## Statins: HMG-CoA Reductase Inhibitors and Landmark Clinical Trials</summary><div class="details-content">
+## 4. Statins: HMG-CoA Reductase Inhibitors and Landmark Clinical Trials</summary><div class="details-content">
 
 <details class="med-details"><summary>
 
-### Mechanism of Action, Pharmacodynamics, and Pleiotropic Effects</summary><div class="details-content">
+### 4.1 Mechanism of Action, Pharmacodynamics, and Pleiotropic Effects</summary><div class="details-content">
 
 Statins (3-hydroxy-3-methylglutaryl-coenzyme A reductase inhibitors) represent the foundational first-line pharmacotherapy for both primary and secondary prevention of atherosclerotic cardiovascular disease (ASCVD). Their introduction transformed cardiovascular therapeutics by demonstrating incontrovertible reductions in total mortality, myocardial infarction, ischemic stroke, and coronary revascularization across diverse patient populations.
 
@@ -645,7 +645,7 @@ In addition to lowering atherogenic lipoproteins, statins exert multifaceted vas
 
 <details class="med-details"><summary>
 
-### Statin Intensity Classification and LDL-C Reduction Tiers</summary><div class="details-content">
+### 4.2 Statin Intensity Classification and LDL-C Reduction Tiers</summary><div class="details-content">
 
 Both the 2018 AHA/ACC and 2019 ESC/EAS guidelines categorize statin regimens into three standardized tiers based on their expected percentage reduction in circulating LDL-C from untreated baseline.
 
@@ -676,7 +676,7 @@ Both the 2018 AHA/ACC and 2019 ESC/EAS guidelines categorize statin regimens int
 
 <details class="med-details"><summary>
 
-### Landmark Statin Clinical Trials and Evidence Base</summary><div class="details-content">
+### 4.3 Landmark Statin Clinical Trials and Evidence Base</summary><div class="details-content">
 
 The clinical efficacy and safety of statins have been established through some of the largest, most rigorous double-blind randomized controlled trials in medical history. [Table 6.3](#table-06-03) provides a granular summary of landmark trials establishing mortality and cardiovascular event reductions across primary and secondary prevention.
 
@@ -725,7 +725,7 @@ The clinical efficacy and safety of statins have been established through some o
 
 <details class="med-details"><summary>
 
-### Safety, Adverse Effects, and Management of Statin-Associated Symptoms</summary><div class="details-content">
+### 4.4 Safety, Adverse Effects, and Management of Statin-Associated Symptoms</summary><div class="details-content">
 
 Statins exhibit an exceptional overall safety profile established over four decades of global clinical use. However, patient perception of adverse effects is heavily confounded by the "nocebo" and "drucebo" effects—where anticipating negative outcomes causes non-pharmacological somatic symptoms. In blinded randomized trials, the excess incidence of muscle symptoms attributable to statin versus placebo is <1%, whereas observational registries report statin discontinuation rates of 10% to 20% due to subjective muscular complaints.
 
@@ -812,7 +812,7 @@ Early observational reports raised concerns regarding statin-induced memory impa
 
 <details class="med-details"><summary>
 
-### Individual Statin Profiles and Clinical Pharmacology</summary><div class="details-content">
+### 4.5 Individual Statin Profiles and Clinical Pharmacology</summary><div class="details-content">
 
 Each of the seven clinically available statins possesses distinct physicochemical, pharmacokinetic, and metabolic properties that govern potency, dosing flexibility, renal safety, and drug-interaction profiles.
 
@@ -863,7 +863,7 @@ Each of the seven clinically available statins possesses distinct physicochemica
 
 <details class="med-details"><summary>
 
-### Drug-Drug Interactions and Cytochrome P450 Metabolism</summary><div class="details-content">
+### 4.6 Drug-Drug Interactions and Cytochrome P450 Metabolism</summary><div class="details-content">
 
 Pharmacokinetic drug-drug interactions are the primary precipitating cause of severe statin toxicity, acute rhabdomyolysis, and renal failure in clinical practice. The vast majority of dangerous interactions involve inhibition of hepatic Cytochrome P450 enzymes (specifically CYP3A4) or interference with organic anion transporting polypeptides (OATP1B1/OATP1B3).
 
@@ -889,11 +889,11 @@ Pharmacokinetic drug-drug interactions are the primary precipitating cause of se
 
 <details class="med-details"><summary>
 
-## Non-Statin LDL-C-Lowering Therapies: Ezetimibe, PCSK9 Inhibitors, and Bempedoic Acid</summary><div class="details-content">
+## 5. Non-Statin LDL-C-Lowering Therapies: Ezetimibe, PCSK9 Inhibitors, and Bempedoic Acid</summary><div class="details-content">
 
 <details class="med-details"><summary>
 
-### Cholesterol Absorption Inhibitors: Ezetimibe</summary><div class="details-content">
+### 5.1 Cholesterol Absorption Inhibitors: Ezetimibe</summary><div class="details-content">
 
 Ezetimibe (Zetia) is the first-line non-statin agent recommended by all major international consensus guidelines to augment statin therapy or serve as primary monotherapy in patients with verified statin intolerance.
 
@@ -940,7 +940,7 @@ The clinical efficacy of ezetimibe was decisively proven in the landmark **IMPRO
 
 <details class="med-details"><summary>
 
-### Proprotein Convertase Subtilisin/Kexin Type 9 (PCSK9) Inhibitors</summary><div class="details-content">
+### 5.2 Proprotein Convertase Subtilisin/Kexin Type 9 (PCSK9) Inhibitors</summary><div class="details-content">
 
 The discovery of proprotein convertase subtilisin/kexin type 9 (PCSK9) and its therapeutic inhibition represents the most significant breakthrough in cardiovascular therapeutics since the development of statins.
 
@@ -991,7 +991,7 @@ Evolocumab (Repatha) and Alirocumab (Praluent) are fully human monoclonal antibo
 
 <details class="med-details"><summary>
 
-### Small Interfering RNA (siRNA) Therapeutics: Inclisiran</summary><div class="details-content">
+### 5.3 Small Interfering RNA (siRNA) Therapeutics: Inclisiran</summary><div class="details-content">
 
 Inclisiran (Leqvio) represents a revolutionary therapeutic paradigm: utilizing RNA interference (RNAi) to switch off PCSK9 synthesis intracellularly at the level of hepatic mRNA translation.
 
@@ -1024,7 +1024,7 @@ In the pivotal Phase 3 trials (**ORION-9** in heterozygous familial hypercholest
 
 <details class="med-details"><summary>
 
-### Bempedoic Acid: Mechanism, Clinical Evidence, and Safety</summary><div class="details-content">
+### 5.4 Bempedoic Acid: Mechanism, Clinical Evidence, and Safety</summary><div class="details-content">
 
 Bempedoic acid (Nexletol; in combination with ezetimibe: Nexlizet; in Europe: Nilemdo, Nustendi) is an orally active, non-statin prodrug that targets hepatic cholesterol synthesis upstream of HMG-CoA reductase.
 
@@ -1077,7 +1077,7 @@ While lacking muscular toxicity, bempedoic acid inhibits the renal organic anion
 
 <details class="med-details"><summary>
 
-### Bile Acid Sequestrants and Nicotinic Acid (Historical Non-Statins)</summary><div class="details-content">
+### 5.5 Bile Acid Sequestrants and Nicotinic Acid (Historical Non-Statins)</summary><div class="details-content">
 
 <details class="med-details"><summary>
 
@@ -1115,11 +1115,11 @@ While lacking muscular toxicity, bempedoic acid inhibits the renal organic anion
 
 <details class="med-details"><summary>
 
-## Triglyceride-Lowering and Remnant-Targeting Therapies: Fibrates and Omega-3 Fatty Acids</summary><div class="details-content">
+## 6. Triglyceride-Lowering and Remnant-Targeting Therapies: Fibrates and Omega-3 Fatty Acids</summary><div class="details-content">
 
 <details class="med-details"><summary>
 
-### Fibrates: Peroxisome Proliferator-Activated Receptor-α (PPAR-α) Agonists</summary><div class="details-content">
+### 6.1 Fibrates: Peroxisome Proliferator-Activated Receptor-α (PPAR-α) Agonists</summary><div class="details-content">
 
 Fibrates (fibric acid derivatives) are synthetic agonists of the nuclear transcription factor peroxisome proliferator-activated receptor-alpha (PPAR-α), utilized primarily to treat severe hypertriglyceridemia and modify atherogenic remnant dyslipidemia.
 
@@ -1186,7 +1186,7 @@ The choice of fibrate is governed by an absolute safety dichotomy when co-prescr
 
 <details class="med-details"><summary>
 
-### Prescription Omega-3 Fatty Acids: EPA, DHA, and the REDUCE-IT Paradigm</summary><div class="details-content">
+### 6.2 Prescription Omega-3 Fatty Acids: EPA, DHA, and the REDUCE-IT Paradigm</summary><div class="details-content">
 
 Prescription omega-3 polyunsaturated fatty acids (PUFAs)—derived from marine fish oil—occupy an evidence-based niche for severe hypertriglyceridemia and cardiovascular risk reduction in residual-risk populations.
 
@@ -1265,11 +1265,11 @@ High-dose prescription omega-3 therapy carries two distinct clinical adverse eff
 
 <details class="med-details"><summary>
 
-## Emerging Therapeutics and Future Horizons in Lipidology</summary><div class="details-content">
+## 7. Emerging Therapeutics and Future Horizons in Lipidology</summary><div class="details-content">
 
 <details class="med-details"><summary>
 
-### Therapeutics Directly Targeting Lipoprotein(a)</summary><div class="details-content">
+### 7.1 Therapeutics Directly Targeting Lipoprotein(a)</summary><div class="details-content">
 
 Lipoprotein(a) [Lp(a)] has emerged as the foremost unaddressed causal, genetically determined cardiovascular risk factor worldwide. Because conventional statins fail to lower Lp(a)—and in fact modestly increase its circulating concentrations by 10% to 20%—the development of targeted nucleic acid therapeutics that selectively silence hepatic apolipoprotein(a) synthesis represents a historic milestone in preventive cardiology.
 
@@ -1309,7 +1309,7 @@ Lipoprotein(a) [Lp(a)] has emerged as the foremost unaddressed causal, genetical
 
 <details class="med-details"><summary>
 
-### ANGPTL3 and APOC3 Inhibitors: Resolving Severe Refractory Dyslipidemias</summary><div class="details-content">
+### 7.2 ANGPTL3 and APOC3 Inhibitors: Resolving Severe Refractory Dyslipidemias</summary><div class="details-content">
 
 Angiopoietin-like protein 3 (ANGPTL3) and apolipoprotein C-III (apoC-III) represent endogenous negative regulators of lipid clearance whose therapeutic antagonism provides breakthrough efficacy for severe refractory familial dyslipidemias.
 
@@ -1353,7 +1353,7 @@ Angiopoietin-like protein 3 (ANGPTL3) and apolipoprotein C-III (apoC-III) repres
 
 <details class="med-details"><summary>
 
-### The Renaissance of CETP Inhibitors: Obicetrapib</summary><div class="details-content">
+### 7.3 The Renaissance of CETP Inhibitors: Obicetrapib</summary><div class="details-content">
 
 Cholesteryl ester transfer protein (CETP) facilitates the bidirectional equimolar exchange of neutral lipids in plasma: transferring cholesteryl esters from antiatherogenic HDL particles to proatherogenic apoB-containing lipoproteins (VLDL, IDL, LDL) in exchange for triglycerides.
 
@@ -1393,11 +1393,11 @@ Obicetrapib is an orally administered, highly potent, selective CETP inhibitor e
 
 <details class="med-details"><summary>
 
-## Clinical Guidelines, Target Thresholds, and Stepwise Algorithms</summary><div class="details-content">
+## 8. Clinical Guidelines, Target Thresholds, and Stepwise Algorithms</summary><div class="details-content">
 
 <details class="med-details"><summary>
 
-### Guideline Harmonization: AHA/ACC 2018 versus ESC/EAS 2019</summary><div class="details-content">
+### 8.1 Guideline Harmonization: AHA/ACC 2018 versus ESC/EAS 2019</summary><div class="details-content">
 
 A critical synthesis of contemporary guidelines reveals distinct philosophical approaches between American (2018 AHA/ACC/AACVPR/AAPA/ABC/ACPM/ADA/AGS/APhA/ASPC/NLA/PCNA) and European (2019 ESC/EAS) cholesterol recommendations.
 
@@ -1443,7 +1443,7 @@ A critical synthesis of contemporary guidelines reveals distinct philosophical a
 
 <details class="med-details"><summary>
 
-### Stepwise Escalation Algorithms in Clinical Practice</summary><div class="details-content">
+### 8.2 Stepwise Escalation Algorithms in Clinical Practice</summary><div class="details-content">
 
 Achieving modern guideline-mandated lipid targets requires an aggressive, stepwise algorithm combining complementary drug classes with distinct biological mechanisms.
 
@@ -1467,7 +1467,7 @@ Achieving modern guideline-mandated lipid targets requires an aggressive, stepwi
 
 <details class="med-details"><summary>
 
-### Chapter Synthesis and Comprehensive Practice Takeaways</summary><div class="details-content">
+### 8.3 Chapter Synthesis and Comprehensive Practice Takeaways</summary><div class="details-content">
 
 To provide clinicians with an immediate reference synthesis, the table below consolidates the clinical spectrum of lipid-modifying therapeutics.
 

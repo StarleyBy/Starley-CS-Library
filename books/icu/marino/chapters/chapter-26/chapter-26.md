@@ -1,210 +1,208 @@
-# Chapter 26
+# Noninvasive Ventilation
 
-# **Noninvasive Ventilation**
+> *We…repeatedly enlarge our instrumentalities without improving our purpose.*
+> 
+> — Will Durant
 
-*We…repeatedly enlarge our instrumentalities without improving our purpose.*
+Noninvasive positive pressure breathing was introduced in 1940 (about a decade before conventional mechanical ventilation), but it was delivered through a mouthpiece and could only be used for brief intervals of 10–15 minutes. For the subsequent 40 years, intermittent positive pressure breathing (IPPB) was employed primarily to deliver aerosolized bronchodilators and prevent postoperative atelectasis. Continuous positive airway pressure (CPAP) was introduced in 1980, rapidly becoming the cornerstone therapy for obstructive sleep apnea. This spurred advancements in mask interfaces, and by 1990, clinical reports demonstrated the utility of positive pressure ventilation via full face masks in acute respiratory failure. Since that time, the adoption of noninvasive ventilation (NIV) has expanded dramatically, though its clinical benefits vary across different patient populations.
 
-Will Durant (*[a](#page-12-0)*)
+This chapter describes the fundamentals of noninvasive ventilation, including modalities, monitoring, patient selection criteria, and anticipated responses in acute respiratory failure. The final section examines the hemodynamic consequences of positive intrathoracic pressure on cardiac performance.
 
-Noninvasive positive pressure breathing was introduced in the 1940s (about a decade before conventional mechanical ventilation), but it was delivered through a mouthpiece, and could only be used for brief periods of time (10–15 minutes) (1). For the next 40 years, this method of "intermittent positive pressure breathing" (IPPB) was used for delivering inhaled bronchodilators, and for the prevention of postoperative atelectasis. The use of "continuous positive airway pressure" (CPAP) was introduced in the early 1980s, and rapidly gained traction as a treatment for obstructive sleep apnea (2). This led to improvements in mask design, and by the 1990s, reports began to appear about the use of positive pressure breathing through face masks to manage patients with acute respiratory failure (3). Since that time, the popularity of *noninvasive ventilation* has skyrocketed, but the benefits have been variable (as described in this chapter).
+<details class="med-details" open><summary>
 
-This chapter describes the fundamentals of using noninvasive ventilation, including what to use, what to monitor, and what to expect in different types of acute respiratory failure (4). The last section describes the effects of positive pressure breathing on cardiac performance.
+## Executive Summary</summary><div class="details-content">
 
-# **METHODS OF NONINVASIVE VENTILATION**
+- **Modalities:** Continuous positive airway pressure (CPAP) maintains constant positive pressure throughout inspiration and expiration without augmenting tidal volume. Bi-level positive airway pressure (BiPAP) delivers patient-triggered, pressure-targeted breaths with distinct inspiratory (IPAP 10–20 $\text{cm H}_2\text{O}$) and expiratory (EPAP/PEEP 5–10 $\text{cm H}_2\text{O}$) pressures.
+- **Interactive Modes:** Pressure support ventilation (PSV) servo-adjusts inspiratory flow to maintain target pressure and terminates inflation when inspiratory flow decreases to 25% of peak. Proportional assist ventilation (PAV) adjusts pressure in proportion to instantaneous patient effort.
+- **Interfaces and Tolerance:** Oronasal full face masks are mandatory for BiPAP. Mask intolerance accounts for approximately 18% of NIV failures due to discomfort, claustrophobia, and bridge-of-nose skin breakdown. Transparent helmet hoods seal at the neck and improve tolerance, though they are rarely utilized in adults.
+- **Patient Selection:** Strict contraindications include agonal breathing, hemodynamic collapse, severe encephalopathy or coma without airway reflexes, uncontrolled vomiting, hematemesis, and upper airway obstruction.
+- **Hypercapnic Respiratory Failure:** NIV is the first-line treatment of choice for acute hypercapnic respiratory failure in COPD exacerbations, reducing intubation rates by over 60% and improving hospital survival. Failure of $\text{PaCO}_2$ to decline by $\geq 10\%$ after 1 hour identifies NIV failure.
+- **Hypoxemic Respiratory Failure:** Success varies by etiology: highly effective in cardiogenic pulmonary edema (failure rate $\sim 10\%$), but exhibits high failure rates in ARDS and severe community-acquired pneumonia (failure rates 50–60%).
+- **High-Flow Nasal Oxygen (HFNO):** Serves as an effective, better-tolerated alternative to NIV in acute hypoxemic failure, providing equivalent intubation prevention and superior outcomes in immunocompromised hosts.
+- **Hemodynamics:** Positive intrathoracic pressure reduces venous return and ventricular preload (a risk in hypovolemia or normal hearts), but decreases left ventricular afterload. In acute heart failure operating on the flat portion of the Starling curve, positive pressure enhances left ventricular stroke output.
+- **Intubation Vigilance:** If clinical improvement, respiratory distress alleviation, and gas exchange correction are not evident within 1 hour, proceed promptly to endotracheal intubation to avoid crash intubations and patient self-induced lung injury (P-SILI).
+</div></details>
 
-The following is a description of the principal methods of pressure-assisted breathing that do not require endotracheal intubation.
+<details class="med-details" open><summary>
 
-## **Continuous Positive Airway Pressure**
+## Methods of Noninvasive Ventilation</summary><div class="details-content">
 
-During normal breathing, the descent of the diaphragm creates a negative intrathoracic pressure that draws air into the lungs, and exhalation proceeds passively until the intrathoracic pressure returns to atmospheric (zero reference) pressure). When breathing with "continuous positive airway pressure" (CPAP), the pressure at the end of expiration is positive relative to atmospheric pressure, and the positive pressure is maintained through the respiratory cycle. This is
+Noninvasive positive pressure ventilation delivers ventilatory assistance without establishing an artificial invasive airway (endotracheal tube or tracheostomy).
 
-demonstrated in [Figure](#page-2-0) 26.1, which shows a spontaneous breathing pattern with a positive endexpiratory pressure of 5 cm H2O.
+### Continuous Positive Airway Pressure
 
-The positive pressure in CPAP is created by a constant flow of air or oxygen that is adjusted to achieve the desired pressure level (usually 5–10 cm H2O). This pressure helps to prevent collapse of the small airways and alveoli at the end of expiration, and increases the endexpiratory lung volume (i.e., the functional residual capacity), but it does not augment the tidal volume.
+During normal spontaneous breathing, diaphragmatic contraction creates negative intrathoracic pressure that pulls air into the lungs, and expiration proceeds passively to atmospheric (zero reference) pressure. With continuous positive airway pressure (CPAP), pressure at the end of expiration remains positive relative to atmosphere, and this positive airway pressure is maintained continuously throughout inspiration and expiration (Figure 26.1).
 
-#### *Clinical Uses*
+![Figure 26.1](images/_page_2_Figure_0.jpeg)
 
-The principal use of CPAP is in patients with obstructive sleep apnea, where the positive pressure prevents the inspiratory collapse of the pharynx that causes the obstruction to airflow (5). CPAP has also been successful in managing patients with acute cardiogenic pulmonary edema (6), for reasons described later in the chapter. Overall, CPAP provides only limited pressure support, and it is rarely used to manage patients with acute respiratory failure.
+**FIGURE 26.1** Airway pressure waveforms for continuous positive airway pressure (CPAP) and bi-level positive airway pressure (BiPAP).
 
-## **Bi-Level Positive Airway Pressure**
+CPAP is generated by a continuous high flow of gas adjusted against a threshold resistor to establish 5–10 $\text{cm H}_2\text{O}$ of positive pressure. This splints open small airways and alveoli, elevating functional residual capacity (FRC), but does not augment tidal volume or deliver active inspiratory assistance.
 
-by Philips Respironics), and is used sparingly in this chapter.
+#### Clinical Applications of CPAP
 
-Noninvasive ventilation is typically a patient-triggered, pressure-targeted mode of ventilation that provides pressure-augmented tidal volumes along with positive end-expiratory pressure (PEEP) (7). This is illustrated in [Figure](#page-2-0) 26.1. The patient triggers each positive-pressure lung inflation (indicated by the negative pressure swings), and the inspiratory pressure gradually rises until it reaches a pre-selected pressure. Exhalation then proceeds until the pressure reaches a preselected positive end-expiratory pressure (PEEP). Peak inspiratory pressures are typically 10–20 cm H2O, and PEEP levels are usually 5–10 cm H2O. Higher pressure are generally not advised because they are poorly tolerated by patients, and they promote leaks around the face mask. *(Note:* The mode of ventilation just described is typically called *bi-level positive airway pressure*, or simply *BiPAP, however* this is a proprietary name (registered as a trademark name
+The primary outpatient role for CPAP is in obstructive sleep apnea, where positive intraluminal pressure prevents inspiratory pharyngeal collapse. In the acute setting, CPAP is highly effective for cardiogenic pulmonary edema by reducing left ventricular afterload and improving gas exchange, but it is rarely indicated as monotherapy for severe acute respiratory failure.
 
-<span id="page-2-0"></span>![](_page_2_Figure_0.jpeg)
+### Bi-Level Positive Airway Pressure
 
-**FIGURE 26.1** Airway pressure waveforms for continuous positive airway pressure (CPAP) and bi-level positive airway pressure (BiPAP). See text for explanation.
+Noninvasive ventilation is predominantly delivered as a patient-triggered, pressure-targeted mode that provides pressure-augmented tidal volume combined with positive end-expiratory pressure (Figure 26.1). The patient initiates each breath (producing a small negative trigger deflection), and the machine rapidly pressurizes the circuit to a preset inspiratory positive airway pressure (IPAP). When inspiration ends, pressure drops to a preset expiratory positive airway pressure (EPAP or PEEP). 
 
-## **Pressure Support Ventilation**
+Typical IPAP settings range from 10 to 20 $\text{cm H}_2\text{O}$, while EPAP is set at 5 to 10 $\text{cm H}_2\text{O}$. Higher pressures ($> 20\text{ cm H}_2\text{O}$) are poorly tolerated, promote gastric insufflation, and worsen air leakage around the mask. Bi-level positive airway pressure is commonly referred to by the proprietary trademark BiPAP.
 
-Pressure support ventilation (PSV) is an interactive form of pressure-targeted ventilation that adjusts the ventilator breath to the ventilatory demands of the patient (7,8). This is explained using the pressure waveform in [Figure](#page-3-0) 26.2. The following statements correspond to the numbers located at different points on the waveform.
+### Pressure Support Ventilation
 
-- 1. PSV is a patient-triggered mode of ventilation, and the initial negative pressure deflection represents the spontaneous inspiratory effort that triggers the ventilator breath.
-- 2. Once the ventilator breath is triggered, high flow rates are used to produce a rapid rise in airway pressure, in order to reach the desired inspiratory pressure as soon as possible.
-- 3. When the desired pressure level is achieved, it is kept constant by servo-adjusting the ventilator flow rate to the inspiratory flow demands of the patient.
-- 4. The lung inflation is terminated when the patient's inspiratory flow rate drops to 25% of the peak flow.
+Pressure support ventilation (PSV) is an interactive, patient-regulated mode of pressure ventilation that responds to patient effort (Figure 26.2). The numbered sequence in the pressure waveform reflects the following operational cycle:
 
-<span id="page-3-0"></span>![](_page_3_Figure_0.jpeg)
+1. **Patient Trigger:** Inspiration begins with a negative pressure deflection generated by spontaneous patient effort.
+2. **Rapid Pressurization:** Once triggered, high inspiratory flow rates rapidly elevate circuit pressure to reach the target pressure target.
+3. **Servo Flow Regulation:** As target pressure is reached, the ventilator servo-adjusts inspiratory gas flow to meet the patient's instantaneous demand while keeping pressure stable.
+4. **Flow Cycling:** Inflation is terminated when inspiratory flow decelerates to 25% of the initial peak flow, allowing passive expiration down to the baseline PEEP level.
 
-**FIGURE 26.2** The pressure waveform in pressure support ventilation (PSV). The numbers at different points on the waveform are explained in the text.
+![Figure 26.2](images/_page_3_Figure_0.jpeg)
 
-This interaction allows the patient to determine the inflation time and tidal volume, which promotes patient-ventilator synchrony, and reduces the work of breathing (8). PSV is typically reserved for cases of patient-ventilator asynchrony, and is also popular for spontaneous breathing trials used in the process of weaning patients from mechanical ventilation (see Chapter 30).
+**FIGURE 26.2** Pressure waveform in pressure support ventilation (PSV). Numbers correspond to phases of the breath described in the text.
 
-## **Proportional Assist Ventilation**
+Because the patient governs inspiratory duration, flow rate, and tidal volume, PSV enhances patient-ventilator synchrony and reduces the work of breathing.
 
-Proportional assist ventilation (PAV) is another interactive form of noninvasive ventilation that adjusts the peak inspiratory pressure to the patient's work of breathing (10). This is accomplished by periodic measurements of respiratory mechanics (i.e., compliance and resistance), which are carried out (in a proprietary fashion) by ventilators capable of delivering PAV. There is no evidence that PAV is superior to PSV as a mode of noninvasive ventilation (11).
+### Proportional Assist Ventilation
 
-#### **Face Masks**
+Proportional assist ventilation (PAV) is an interactive modality where the ventilator continuously estimates respiratory system elastance and resistance, delivering airway pressure in direct proportion to the patient's instantaneous muscular effort. Despite physiological elegance, clinical trials have not demonstrated superiority of PAV over conventional PSV during noninvasive ventilation.
 
-The emergence of noninvasive ventilation is largely due to advances in the design of the mask interface. Low-level CPAP can be delivered by nasal masks, but full face masks are required for BiPAP, and the face masks must be tight-fitting to minimize leaks (although most BiPAP machines can compensate for mask leaks). These face masks are [uncomfortable](#page-4-0) (see Figure 26.3), and are poorly tolerated by patients. In addition to general discomfort, masks can cause skin breakdown at points of contact, especially on the bridge of the nose. "Mask intolerance" is a significant source of failed attempts to prevent intubation with noninvasive ventilation. In one study, 18% of the noninvasive ventilation failures were attributed to mask intolerance (12).
+### Mask Interfaces and Tolerance
 
-<span id="page-4-0"></span>![](_page_4_Picture_0.jpeg)
+The success of noninvasive ventilation depends critically upon mask interface fit and tolerance. While mild CPAP can be delivered via nasal prongs, bi-level positive airway pressure requires an oronasal full face mask covering both nose and mouth (Figure 26.3).
 
-**FIGURE 26.3** A tightly-secured face mask used for noninvasive ventilation.
+![Figure 26.3](images/_page_4_Picture_0.jpeg)
 
-#### *The Helmet*
+**FIGURE 26.3** Tightly-secured oronasal face mask used for noninvasive ventilation.
 
-An alternative to the tight-fitting face masks is available with a device called a "helmet", which is a transparent hood that encloses the entire head, and has a soft collar that provides a seal at the neck. Studies comparing helmets and face masks have shown fewer intubations and even fewer deaths with the use of helmets (13). However, these devices are rarely used in adults.
+Tight harness strapping is necessary to minimize gas leaks, but introduces severe drawbacks: patient claustrophobia, facial pain, eye irritation from air leaks, inability to expectorate, and ischemic skin necrosis over the nasal bridge. In clinical studies, mask intolerance accounts for approximately 18% of all NIV failures.
 
-# **USING NONINVASIVE VENTILATION**
+#### The Helmet Interface
 
-The utility and success of noninvasive ventilation (NIV) is determined by several factors, including the type of patient, the type and severity of illness, and the type of respiratory failure.
+The helmet is a transparent hood enclosing the entire head, sealed with a soft silicone neck ring without facial contact. Comparative trials demonstrated lower intubation rates and reduced mortality with helmets compared to face masks in ARDS, primarily because higher PEEP can be maintained comfortably without facial skin ulceration. However, helmets remain rarely utilized in adult intensive care units in North America.
+</div></details>
 
-## **Type of Patient**
+<details class="med-details" open><summary>
 
-The patient selection criteria for NIV are presented as a checklist in [Table](#page-5-0) 26.1. As a general rule, all patients with acute respiratory failure are candidates for NIV if the following criteria are satisfied: (a) the acute respiratory failure is not an immediate threat to life, (b) there is no lifethreatening circulatory collapse, (c) the patient is awake or arousable, and is cooperative, (d) there are no persistent or recurrent seizures, (e) there is no hematemesis or persistent vomiting, and (f) there is no obstruction that will prevent effective ventilatory support through a face mask (e.g., laryngeal mass or edema). These criteria do not apply to patients who refuse intubation and mechanical ventilation, which has been reported in 20% of patients receiving NIV (14).
+## Clinical Applications and Patient Selection</summary><div class="details-content">
 
-<span id="page-5-0"></span>
+The clinical success of noninvasive ventilation depends upon strict patient selection, the underlying pathology, and early response assessment.
 
-| TABLE<br>26.1 | Checklist<br>for<br>Noninvasive | Ventilation |  |
-|---------------|---------------------------------|-------------|--|
-|               |                                 |             |  |
-|               |                                 |             |  |
-|               |                                 |             |  |
-|               |                                 |             |  |
-|               |                                 |             |  |
-|               |                                 |             |  |
-|               |                                 |             |  |
-|               |                                 |             |  |
-|               |                                 |             |  |
+### Patient Selection Criteria
 
-NIV is a consideration in any case of acute respiratory failure that does not meet the criteria in [Table](#page-5-0) 26.1. However, *the likelihood of success* (i.e., preventing intubation) *is dependent on the type of respiratory failure* (i.e., hypercapnic or purely hypoxemic respiratory failure), *and the underling illness* (see next).
+Table 26.1 presents the clinical checklist for noninvasive ventilation candidacy. Noninvasive ventilation should be considered only when the patient meets all selection criteria.
 
-## **Hypercapnic Respiratory Failure**
+### TABLE 26.1 Checklist for Noninvasive Ventilation
 
-*The most successful use of NIV is in patients with acute hypercapnic respiratory failure from an acute [exacerbation](#page-6-0) of COPD* (15). The benefits of NIV in this condition are shown in Figure 26.4. The graphs in this figure display the averaged results of 17 clinical studies, and they show that NIV drastically reduces the intubation rate, and has a smaller but significant survival benefit (15). As a result, *noninvasive ventilation is recommended as a first-line therapy for acute exacerbations of COPD that are associated with acute hypercapnic respiratory failure* (4). NIV does not have this benefit when the hypercapnia is chronic (4).
+| Condition Present in Acute Respiratory Failure? | Yes | No |
+| :--- | :---: | :---: |
+| 1. Agonal breathing | $\square$ | $\boxtimes$ |
+| 2. Life-threatening circulatory collapse | $\square$ | $\boxtimes$ |
+| 3. Severe agitation or uncontrolled seizures | $\square$ | $\boxtimes$ |
+| 4. An acute confusional state | $\square$ | $\boxtimes$ |
+| 5. Coma with inadequate airway protection | $\square$ | $\boxtimes$ |
+| 6. Hematemesis or persistent vomiting | $\square$ | $\boxtimes$ |
 
-## *Evaluating the Response*
+*Note:* If the answer is NO to all of the above, the patient is an appropriate candidate for noninvasive ventilation. Patients with anatomical facial deformities or upper airway obstruction are likewise excluded.
 
-About 10–20% of COPD patients with acute hypercapnia will not respond favorably to NIV (15,16). These patients can be identified by checking the PaCO<sup>2</sup> after one hour of NIV, and comparing it to the baseline PaCO<sup>2</sup> . *Failure of the PaCO<sup>2</sup> to decrease significantly (e.g., by at least 10%) after one hour of NIV is evidence of a poor response; i.e., NIV failure* (16). Altered mentation (e.g., from hypercapnia) can take longer to resolve (17), and should not be used as an early indication of NIV failure.
+### Hypercapnic Respiratory Failure
 
-There is a reluctance to intubate patients with advanced COPD (because of the fear that mechanical ventilation will be a permanent condition), but delays to intubation can also have adverse consequences, and intubation should be a serious consideration at first evidence of NIV failure.
+The most robust and successful indication for NIV is acute hypercapnic respiratory failure complicating an acute exacerbation of COPD (Figure 26.4). Meta-analyses of clinical trials demonstrate that NIV reduces endotracheal intubation rates by more than 60% and provides a significant hospital survival benefit. Consequently, noninvasive ventilation is established as the first-line therapy of choice for acute hypercapnic COPD exacerbations. NIV does not confer this benefit in stable chronic hypercapnia.
 
-#### *Obesity Hypoventilation Syndrome*
+![Figure 26.4](images/_page_6_Figure_3.jpeg)
 
-Despite a paucity of studies, the available evidence shows that NIV is effective in reducing the intubation rate in patients with acute hypercapnic respiratory failure from the obesity hypoventilation syndrome (18). It seems reasonable to assume that the one-hour PaCO<sup>2</sup> evaluation just described is also valid for this condition.
+**FIGURE 26.4** The effects of noninvasive ventilation on intubation rate and mortality rate in patients with acute exacerbation of COPD and hypercapnic respiratory failure. Data represent pooled results from 17 clinical studies.
 
-<span id="page-6-0"></span>![](_page_6_Figure_3.jpeg)
+#### Evaluating Response in COPD
 
-**FIGURE 26.4** The effects of noninvasive ventilation on intubation rate and mortality rate in patients with acute exacerbation of COPD and hypercapnic respiratory failure. Data represents the pooled results from 17 clinical studies. From Reference 14.
+Approximately 10–20% of COPD patients with acute hypercapnia fail to respond to NIV. These patients should be identified early by obtaining an arterial blood gas after 1 hour of ventilation. Failure of $\text{PaCO}_2$ to decrease by $\geq 10\%$ compared to baseline indicates treatment failure. While hypercapnic encephalopathy can take several hours to clear, worsening tachypnea or rising $\text{PaCO}_2$ requires immediate endotracheal intubation.
 
-## **Hypoxemic Respiratory Failure**
+#### Obesity Hypoventilation Syndrome
 
-The success of NIV in hypoxemic respiratory failure is dependent on the underlying condition. This is demonstrated in [Figure](#page-7-0) 26.5, which shows the frequency of NIV failure in a variety of conditions that produce hypoxemic respiratory failure (19–21). The failure rate is lowest in cardiogenic pulmonary edema, and highest in community-acquired pneumonia. In the acute respiratory distress syndrome (ARDS), the likelihood of failure is dependent on the severity of illness (see also Figure 24.5) (20).
+In acute hypercapnic exacerbations of obesity hypoventilation syndrome (OHS), noninvasive ventilation similarly reduces intubation rates, and the 1-hour gas exchange reassessment applies equally to this patient population.
 
-## *Evaluating the Response*
+### Hypoxemic Respiratory Failure
 
-Observations from clinical studies have shown that *failure to increase the PaO<sup>2</sup> /FIO<sup>2</sup> ratio after one hour of NIV is evidence of a poor response; i.e., NIV failure* (19). This should be an indication for intubation if the hypoxemia is severe, or the underlying illness has a high failure rate for NIV.
+The efficacy of NIV in hypoxemic respiratory failure is highly variable and depends on the underlying etiology (Figure 26.5). Failure rates are lowest in cardiogenic pulmonary edema ($\sim 10\%$), but exceed 50–60% in acute respiratory distress syndrome (ARDS) and severe community-acquired pneumonia (CAP).
 
-#### *Cardiogenic Pulmonary Edema*
+![Figure 26.5](images/_page_7_Figure_1.jpeg)
 
-Both CPAP and NIV are highly successful (and equally effective) in cardiogenic pulmonary edema (22). This benefit is not limited to improvements in lung function, because *positive [intrathoracic](#page-9-0) pressure can increase cardiac stroke output* (23,24). This is illustrated in Figure 26.6, which shows the changes in arterial pressure that occur during a positive pressure lung inflation. The positive airway (intrathoracic) pressure is accompanied by a steady rise in arterial pressure, which subsides as the pressure returns to baseline. The shaded areas in the arterial pressure waveforms (which are proportional to stroke volume) show that the increase in arterial pressure is a reflection of an increase in cardiac stroke output. This figure demonstrates that positive intrathoracic pressure increases the stroke output of the left ventricle. This effect is due to a decrease in left ventricular afterload (25), which is explained in the upcoming section on cardiac performance. (*Note:* The respiratory changes in stroke volume during mechanical ventilation can be used to evaluate fluid responsiveness, as shown in Figure 11.5).
+**FIGURE 26.5** Failure rate of noninvasive ventilation in common conditions causing acute hypoxemic respiratory failure. $\text{CPE}$ = cardiogenic pulmonary edema, $\text{ARDS}$ = acute respiratory distress syndrome, $\text{CAP}$ = community-acquired pneumonia.
 
-<span id="page-7-0"></span>![](_page_7_Figure_1.jpeg)
+#### Evaluating Response in Hypoxemia
 
-**FIGURE 26.5** The failure rate of noninvasive ventilation in common conditions that cause acute hypoxemic respiratory failure. CPE = cardiogenic pulmonary edema, ARDS = acute respiratory distress syndrome, CAP = community acquired pneumonia. Data from References 19–21.
+In hypoxemic respiratory failure, failure to achieve a significant rise in the $\text{PaO}_2/\text{FiO}_2$ ratio after 1 hour of NIV strongly predicts treatment failure. When $\text{PaO}_2/\text{FiO}_2$ remains $< 150$ or respiratory distress persists, urgent intubation should be performed.
 
-#### *The Role of High-Flow Oxygen*
+#### Cardiogenic Pulmonary Edema
 
-High-flow nasal oxygen (HFNO), which is described in Chapter 25, is traditionally used for cases of hypoxemic respiratory failure when the hypoxemia is refractory to conventional methods of O<sup>2</sup> inhalation. However, HFNO has beneficial effects other than oxygenation, including an increase in lung compliance (distensibility), a decrease in the work of breathing, and a decrease in labored breathing (see Table 25.3) (26,27). These added benefits (which are attributed to the high flow rates) make HFNO a potential alternative to NIV for patients with hypoxemic respiratory failure, and this has been validated in studies showing equivalent intubation rates with HFNO and NIV in patients with acute hypoxemic respiratory failure (28). In addition, there is evidence that HFNO is superior to NIV for preventing intubation in immunocompromised patients (29).
+Both CPAP and BiPAP are effective in cardiogenic pulmonary edema, reducing intubation rates to $< 10\%$. This response occurs because positive intrathoracic pressure not only improves alveolar recruitment and oxygenation, but also directly enhances left ventricular systolic performance by reducing left ventricular afterload (see below).
 
-The overall evidence indicates that *HFNO is equivalent to NIV for preventing intubation in*
+#### The Role of High-Flow Nasal Oxygen
 
-*patients with acute hypoxemic respiratory failure*, and it may be more effective than NIV in immunocompromised patients. Considering that HFNO avoids the use of face masks, and thus is more comfortable for patients, while also allowing the oral intake of food and medications, it seems that HFNO should be preferred to NIV for patients with acute hypoxemic respiratory failure.
+High-flow nasal oxygen (HFNO) has emerged as an attractive alternative to NIV in hypoxemic respiratory failure. By providing flow rates up to 60 L/min with warmed, humidified gas, HFNO flushes dead space, generates modest PEEP, reduces respiratory rate, and prevents patient self-induced lung injury (P-SILI) without requiring a tight mask. 
 
-## **CARDIAC PERFORMANCE**
+Clinical trials demonstrate equivalent intubation rates between HFNO and NIV in acute hypoxemic failure, with superior survival and reduced intubation rates observed with HFNO in immunocompromised patients. Because HFNO avoids facial skin breakdown and permits speech and oral nutrition, it is increasingly preferred over NIV for purely hypoxemic respiratory failure.
+</div></details>
 
-The cardiorespiratory interactions in [Figure](#page-9-0) 26.6 demonstrate that the effects of positive pressure are not limited to the lungs. The cardiac effects of positive pressure breathing are complex, and involve the preload and afterload forces for the right and left sides of the heart (30).
+<details class="med-details" open><summary>
 
-## **Preload**
+## Cardiorespiratory Interactions: Effects on Cardiac Performance</summary><div class="details-content">
 
-The term "preload" refers to a force that stretches a resting muscle to a new length. An increase in preload (resting muscle length) increases the force of muscle contraction (as explained by the sliding filament model of muscle contraction). The preload force for the intact heart is the volume in the ventricles at the end of diastole, and *the Frank-Starling law of the heart* states that ventricular end-diastolic volume (preload) is the principal force that governs the strength of ventricular contraction (31). Thus, factors that affect preload can have a profound effect on cardiac output.
+The physiological effects of positive pressure ventilation extend beyond the lungs to exert profound effects on cardiac performance, mediated by alterations in right and left ventricular preload and afterload (Figure 26.6).
 
-<span id="page-9-0"></span>![](_page_9_Figure_0.jpeg)
+![Figure 26.6](images/_page_9_Figure_0.jpeg)
 
-**FIGURE 26.6** Changes in arterial pressure associated with a positive pressure breath. The increase in arterial pressure is a reflection of an increase in left ventricular stroke volume, as indicated by the shaded areas in the arterial pressure waveforms. See text for further explanation.
+**FIGURE 26.6** Changes in arterial pressure associated with a positive pressure breath. The increase in systolic pressure reflects an increase in left ventricular stroke volume (shaded area).
 
-#### *Positive Intrathoracic Pressure*
+### Preload
 
-Positive intrathoracic pressure can reduce ventricular preload (end-diastolic volume) in a number of ways. These are shown in [Figure](#page-10-0) 26.7, and are summarized below.
+Ventricular preload represents the end-diastolic myocardial fiber stretch that governs contractile force via the Frank-Starling mechanism. Positive intrathoracic pressure reduces ventricular preload through four distinct mechanisms (Figure 26.7):
 
-- 1. Positive intrathoracic pressure decreases the pressure gradient for venous inflow into the thorax, which decreases right ventricular filling.
-- 2. The positive intrathoracic pressures used during mechanical ventilation (noninvasive and invasive) often exceed the pressures in the pulmonary veins, and this compresses the veins and impedes left ventricular filling.
-- 3. Ventricular filling is a function of the end-diastolic *transmural* pressure (i.e., across the wall of the ventricles), so a positive pleural pressure will decrease this transmural pressure and thereby impede ventricular filling. This will have a greater effect on right ventricular filling, because the end-diastolic chamber pressure is lower in the right ventricle.
-- 4. High intrathoracic pressures will increase pulmonary vascular resistance, and this can impede right ventricular outflow. In patients with right ventricular systolic dysfunction, this can
+1. **Impeded Venous Return:** Positive pleural pressure decreases the pressure gradient driving extrathoracic venous inflow into the right atrium.
+2. **Pulmonary Venous Compression:** Elevated intrathoracic pressures can exceed pulmonary venous pressure, compressing veins and impeding left atrial inflow.
+3. **Decreased Transmural Filling Pressure:** True filling pressure is transmural (intracavitary pressure minus pleural pressure). Elevated pleural pressure reduces transmural filling pressure, impairing diastolic filling (especially in the low-pressure right ventricle).
+4. **Ventricular Interdependence:** High airway pressures increase pulmonary vascular resistance, impeding right ventricular outflow and dilating the right ventricle. This shifts the interventricular septum leftward, encroaching on left ventricular cavity dimensions and reducing filling.
 
-increase right ventricular volume and push the interventricular septum toward the left ventricle, thereby reducing left ventricular filling.
+![Figure 26.7](images/_page_10_Picture_2.jpeg)
 
-Positive pressure breathing is thus a real threat to cardiac filling. This threat is magnified by hypovolemia, so avoiding hypovolemia is imperative during positive pressure ventilation (especially when high pressures are required for lung inflation).
+**FIGURE 26.7** Mechanisms by which positive intrathoracic pressure reduces filling of the right and left ventricles.
 
-<span id="page-10-0"></span>![](_page_10_Picture_2.jpeg)
+Because positive pressure ventilation threatens ventricular filling, hypovolemia exacerbates hemodynamic instability during mechanical ventilation.
 
-**FIGURE 26.7** The different ways that positive intrathoracic pressure can decrease filling of the right and left ventricles.
+### Afterload
 
-#### **Afterload**
+Ventricular afterload is the peak transmural wall stress opposing ventricular ejection during systole. Afterload is governed by transmural pressure:
 
-The term "afterload" refers to the force that must be overcome by muscle contraction. Unlike the preload force, which facilitates muscle contraction, the afterload force opposes muscle contraction. In the intact heart, *the afterload force is equivalent to the peak transmural wall pressure developed during systole*, which is the pressure needed to eject the stroke volume. This is a somewhat simplified view of afterload (which is more closely related to wall tension, and thus is dependent on wall thickness and chamber size), but it is adequate for describing the effects of positive pressure breathing.
+$$\text{Afterload} = \text{Chamber Pressure} - \text{Pleural Pressure} \tag{26.1}$$
 
-#### *Positive Intrathoracic Pressure*
+![Figure 26.8](images/_page_11_Figure_3.jpeg)
 
-The determinants of left ventricular afterload are shown in [Figure](#page-11-0) 26.8. There is a tendency to view afterload as a sole function of impedance and resistance in the systemic circulation, but afterload is a *transmural pressure*, and thus is also a function of the pleural pressure surrounding
+**FIGURE 26.8** Determinants of left ventricular afterload as a transmural pressure across the myocardium.
 
-(26.1) Afterload = Chamber Pressure – Pleural Pressure
+During normal spontaneous inspiration, negative intrathoracic (pleural) pressure increases left ventricular afterload by opposing systolic inward wall motion, leading to the normal inspiratory decline in systolic blood pressure. An exaggerated fall ($> 10\text{ mm Hg}$) is termed *pulsus paradoxus*.
 
-The negative intrathoracic (pleural) pressure that occurs during spontaneous breathing will increase left ventricular afterload (by opposing the inward movement of the ventricular wall during systole), and this explains why the systolic blood pressure normally decreases during a spontaneous inspiration. An exaggeration of the inspiratory decrease in systolic blood pressure (>10 mm Hg) is a condition known as *pulsus paradoxus* (which is a misnomer, since the condition is not paradoxical), and this condition can be produced by exaggerated inspiratory efforts (32), as occurs in acute asthma.
+Conversely, positive intrathoracic pressure decreases left ventricular afterload by aiding systolic inward motion of the ventricular wall. This produces an inspiratory increase in systolic pressure and stroke volume (reversed pulsus paradoxus), as shown in Figure 26.6.
 
-<span id="page-11-0"></span>![](_page_11_Figure_3.jpeg)
+### Cardiac Output
 
-**FIGURE 26.8** The determinants of left ventricular afterload. See text for explanation.
+The net effect of positive intrathoracic pressure on cardiac output depends upon the balance between reduced preload and reduced afterload, which is dictated by underlying cardiac function:
 
-On the other hand, *positive intrathoracic pressure will decrease left ventricular afterload (by promoting the inward movement of the ventricle during systole)*, and this explains the inspiratory increase in systolic pressure in [Figure](#page-10-0) 26.7. (This change is also known as *reversed pulsus paradoxus*.) Positive intrathoracic pressure thus assists the left ventricle in ejecting the stroke volume. This action is one of the proposed mechanisms for the ability of chest compressions to promote cardiac output (i.e., the thoracic pump model).
+1. **Normal Cardiac Function:** The normal heart operates on the steep ascending limb of the Frank-Starling preload curve and the flat portion of the afterload curve. In this setting, preload reduction dominates, and positive pressure ventilation tends to decrease cardiac output unless intravascular volume is replete.
+2. **Failing Left Ventricle:** The failing, dilated ventricle operates on the flat portion of the Starling preload curve and the steep portion of the afterload curve. Under these conditions, afterload reduction dominates, and positive intrathoracic pressure enhances left ventricular ejection and stroke volume without compromising output. This explains the marked efficacy of CPAP and NIV in acute cardiogenic pulmonary edema.
+</div></details>
 
-## **Cardiac Output**
+<details class="med-details" open><summary>
 
-The overall effect of positive pressure ventilation on cardiac output will be determined by the balance between the preload and afterload effects of positive intrathoracic pressure, and this balance will be determined by three factors: the intravascular volume, the level of the intrathoracic pressure, and the presence or absence of cardiac dysfunction. The role of intravascular volume is mentioned previously, and the role of cardiac function is described next.
+## Timely Intubation: Avoiding Hazardous Delays</summary><div class="details-content">
 
-#### *The Role of Cardiac Function*
+Noninvasive ventilation is instituted to prevent intubation, but continuing ineffective NIV in the face of progressive respiratory failure is dangerous. 
 
-The following statements are based on the relationships between preload, afterload, and cardiac output in the normal and failing heart. These relationships are shown graphically in Figure 16.2.
+### Key Clinical Rules for NIV Trials
 
-- 1. The normal heart operates on the steep portion of the preload curve and the flat portion of the afterload curve. In this situation, a decrease in preload has a greater influence on cardiac output than a decrease in afterload, so positive pressure ventilation is more likely to impair cardiac output by its actions to impede ventricular filling.
-- 2. In contrast, the failing heart operates on the flat portion of the preload curve and the steep portion of the afterload curve. In this situation, a decrease in afterload has a greater influence on cardiac output than a decrease in preload, so positive pressure ventilation is more likely to promote cardiac output by its actions to reduce left ventricular afterload. This would explain the benefit of CPAP and NIV in cardiogenic pulmonary edema, as described earlier.
+1. **One-Hour Trial Horizon:** Objective evidence of improvement must appear within 1 hour. In hypercapnic failure, look for a $\geq 10\%$ decrease in $\text{PaCO}_2$; in hypoxemic failure, look for a significant rise in $\text{PaO}_2/\text{FiO}_2$ and relief of tachypnea.
+2. **Persistent Respiratory Distress and P-SILI:** Vigorous, unalleviated inspiratory efforts generate high transpulmonary pressure swings, provoking patient self-induced lung injury (P-SILI) and worsening alveolar edema.
+3. **Risks of Crash Intubation:** Prolonging ineffective NIV leads to profound exhaustion, severe acidemia, and emergent intubation *in extremis*, which carries high risks of cardiac arrest, severe hypotension, and aspiration.
 
-These statements have two important implications. First, in patients with normal cardiac function, it is essential to maintain intravascular volume to support venous return during positive pressure ventilation. Second, in patients with left ventricular dysfunction, positive intrathoracic pressure can promote cardiac stroke output as long as it does not impede venous inflow to the right heart.
-
-## **A FINAL WORD**
-
-## **Don't Forget About Intubation**
-
-The popularity of noninvasive ventilation is based on the desire to avoid intubation, but there is a tendency to prolong noninvasive ventilation when there is no evidence of benefit, and this can be harmful. The following statements are relevant in this regard.
-
-- 1. Evidence of benefit should be evident after one hour of noninvasive ventilation. This evidence includes a decrease in PaCO<sup>2</sup> in hypercapnic respiratory failure, an increase in the PaO<sup>2</sup> /FIO<sup>2</sup> ratio in hypoxemic respiratory failure, and alleviation of respiratory distress.
-- 2. Continued evidence of respiratory distress is particularly concerning, because it is often associated with increased spontaneous tidal volumes, and this can lead to *patient self-induced lung injury* (33) which is described in Chapter 24 (see Figure 24.4), and has been implicated in the failure of noninvasive ventilation (34).
-- 3. Delays to intubation creates unnecessary risk because emergent intubations in patients who are *in extremis* can be troublesome.
-
-Although rarely viewed in a positive light, intubation and mechanical ventilation provide a greater level of ventilatory control, which may be necessary to slow or halt the progression of acute respiratory failure.
-
-#### *References*
-
-<span id="page-12-0"></span>*a.* Durant W, Durant A. The Lessons of History. New York: Simon & Schuster, 1968.
+When a 1-hour trial fails to demonstrate clinical and gas exchange improvement, proceed without delay to endotracheal intubation.
+</div></details>

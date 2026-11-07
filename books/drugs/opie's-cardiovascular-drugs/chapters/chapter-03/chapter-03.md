@@ -4,7 +4,7 @@
 
 <details class="med-details" open><summary>
 
-## Executive Summary: Core Pharmacotherapeutic Evidence in Heart Failure</summary><div class="details-content">
+## Executive Summary</summary><div class="details-content">
 
 * **Phenotypic Classification of Heart Failure:** Heart failure is categorized by left ventricular ejection fraction into HFrEF (LVEF $\le 40\%$), HFmrEF (LVEF 41–49%), and HFpEF (LVEF $\ge 50\%$), with distinctive pathophysiological targets and clinical trial evidence.
 
@@ -110,11 +110,11 @@
 
 <details class="med-details" open><summary>
 
-## Acute Decompensated Heart Failure: Clinical Assessment and Hemodynamic Profiling</summary><div class="details-content">
+## 1. Acute Decompensated Heart Failure: Clinical Assessment and Hemodynamic Profiling</summary><div class="details-content">
 
 <details class="med-details"><summary>
 
-### Definitions, Epidemiology, and Precipitants of ADHF</summary><div class="details-content">
+### 1.1 Definitions, Epidemiology, and Precipitants of ADHF</summary><div class="details-content">
 
 Acute decompensated heart failure (ADHF) is a life-threatening clinical syndrome defined as either a first occurrence (*de novo* presentation) or, far more commonly, an acute exacerbation of preexisting chronic heart failure. It affects primarily elderly patients and frequently necessitates emergency department evaluation and urgent hospital admission ([Table 3.1](#table-03-01)).
 
@@ -124,7 +124,7 @@ Patients with *de novo* ADHF characteristically present with sudden-onset pulmon
 
 <details class="med-details"><summary>
 
-### Functional and Structural Classification: NYHA and ACC/AHA Staging</summary><div class="details-content">
+### 1.2 Functional and Structural Classification: NYHA and ACC/AHA Staging</summary><div class="details-content">
 
 Clinical classification of heart failure integrates functional capacity, determined by the New York Heart Association (NYHA) system, with structural disease progression, outlined by the American College of Cardiology/American Heart Association (ACC/AHA) stages ([Table 3.1](#table-03-01)).
 
@@ -147,7 +147,7 @@ Clinical classification of heart failure integrates functional capacity, determi
 
 <details class="med-details"><summary>
 
-### Initial Bedside Assessment, Risk Stratification, and Chronic Drug Management</summary><div class="details-content">
+### 1.3 Initial Bedside Assessment, Risk Stratification, and Chronic Drug Management</summary><div class="details-content">
 
 Although prehospital management is recommended, it should never delay transfer to an appropriate medical environment. Bedside assessment focuses on rapid severity discrimination and adjudication of the relative contributions of fluid congestion versus peripheral hypoperfusion. In the absence of cardiogenic shock, immediate echocardiography is not mandatory, since initial stabilization of ADHF is similar in patients with HFrEF or HFpEF, centering on prompt decongestion with loop diuretics and restoration of adequate perfusion.
 
@@ -157,7 +157,7 @@ Major adverse prognostic markers identifying high-risk patients include an eleva
 
 <details class="med-details"><summary>
 
-### Bedside Hemodynamic Profiles (Forrester/Stevenson 2x2 Classification)</summary><div class="details-content">
+### 1.4 Bedside Hemodynamic Profiles (Forrester/Stevenson 2x2 Classification)</summary><div class="details-content">
 
 A 2x2 bedside clinical paradigm classifies patients into four distinctive hemodynamic profiles based on clinical signs of congestion ("wet" vs. "dry") and peripheral perfusion ("warm" vs. "cold"). Patients with a "wet" profile have elevated pulmonary capillary wedge pressure (PCWP $>18$ mmHg), whereas those with a "cold" profile demonstrate severely depressed cardiac performance (cardiac index $\le 2.2\text{ L/min/m}²$).
 
@@ -171,7 +171,7 @@ Signs of congestion include orthopnea, elevated jugular venous distention, pulmo
 
 <details class="med-details"><summary>
 
-### Clinical Management Algorithm Based on Hemodynamic Profiles</summary><div class="details-content">
+### 1.5 Clinical Management Algorithm Based on Hemodynamic Profiles</summary><div class="details-content">
 
 The 2016 European Society of Cardiology (ESC) algorithm structures pharmacotherapeutic interventions according to these bedside hemodynamic profiles ([Figure 3.2](#fig-03-02)). Warm and wet patients represent the majority (~ 80%) and are treated with intravenous loop diuretics plus vasodilators when SBP is preserved. Cold and wet patients (hypoperfusion with congestion) require loop diuretics combined with inotropes or vasopressors depending on blood pressure. Cold and dry patients require cautious fluid challenge, whereas warm and dry patients require adjustment of oral maintenance therapy.
 
@@ -179,17 +179,83 @@ The 2016 European Society of Cardiology (ESC) algorithm structures pharmacothera
 
 **FIGURE 3-2** Algorithm for management of patients admitted with acute heart failure (AHF) based on clinical profiles. (Data from Ponikowski P, Voors AA, Anker SD, et al. 2016 ESC guidelines for the diagnosis and treatment of acute and chronic heart failure: The task force for the diagnosis and treatment of acute and chronic heart failure of the European Society of Cardiology (ESC). Developed with the special contribution of the Heart Failure Association (HFA) of the ESC. *Eur Heart J* 2016;18:891–975.)
 
+<span id="diag-03-02"></span>
+
+### DIAGRAM 3.2: Hemodynamic Classification (Forrester Matrix) & Pharmacotherapy in Acute Heart Failure
+
+<svg viewBox="0 0 1000 700" style="width:100%; max-width:1000px; height:auto; display:block; margin:16px auto;" xmlns="http://www.w3.org/2000/svg">
+<rect width="1000" height="700" rx="12" fill="#0f172a" stroke="#334155" stroke-width="2"/>
+<text x="500" y="32" fill="#38bdf8" font-family="system-ui, sans-serif" font-size="15" font-weight="700" text-anchor="middle" letter-spacing="1">HEMODYNAMIC CLASSIFICATION (FORRESTER MATRIX) & PHARMACOTHERAPY IN ADHF</text>
+<text x="500" y="52" fill="#94a3b8" font-family="system-ui, sans-serif" font-size="11" text-anchor="middle">Congestion (Wet vs Dry: PCWP 18 mmHg) & Perfusion (Warm vs Cold: Cardiac Index 2.2 L/min/m²)</text>
+<!-- Top Left: Warm & Wet (Profile B) -->
+<rect x="50" y="75" width="435" height="260" rx="10" fill="#1e293b" stroke="#3b82f6" stroke-width="2"/>
+<rect x="60" y="85" width="415" height="28" rx="5" fill="#1d4ed8"/>
+<text x="267" y="103" fill="#eff6ff" font-family="system-ui, sans-serif" font-size="11" font-weight="700" text-anchor="middle">WARM & WET | PROFILE B (~ 70% OF ADHF CASES)</text>
+<text x="267" y="130" fill="#93c5fd" font-family="system-ui, sans-serif" font-size="10" font-weight="600" text-anchor="middle">Significant volume overload / congestion with preserved perfusion</text>
+<text x="75" y="155" fill="#f1f5f9" font-family="system-ui, sans-serif" font-size="10">
+<tspan x="75" dy="0">• IV Loop Diuretics upfront (furosemide 2-2.5x home dose bolus or infusion)</tspan>
+<tspan x="75" dy="20">• IV Vasodilators (Nitroglycerin / Nitroprusside) if SBP > 110 mmHg</tspan>
+<tspan x="75" dy="20">• Dual nephron blockade (+chlorothiazide / acetazolamide) if diuretic resistance</tspan>
+</text>
+<rect x="75" y="240" width="385" height="65" rx="6" fill="#0f172a" stroke="#60a5fa" stroke-width="1"/>
+<text x="267" y="260" fill="#38bdf8" font-family="system-ui, sans-serif" font-size="10" font-weight="700" text-anchor="middle">PRIMARY GOAL: RAPID INTERSTITIAL & VASCULAR DECONGESTION</text>
+<text x="267" y="280" fill="#cbd5e1" font-family="system-ui, sans-serif" font-size="9" text-anchor="middle">Monitor urine output hourly: Target >= 100-150 mL/h in first 6 hours</text>
+<!-- Top Right: Cold & Wet (Profile C - Cardiogenic Shock) -->
+<rect x="515" y="75" width="435" height="260" rx="10" fill="#450a0a" stroke="#ef4444" stroke-width="2"/>
+<rect x="525" y="85" width="415" height="28" rx="5" fill="#b91c1c"/>
+<text x="732" y="103" fill="#fef2f2" font-family="system-ui, sans-serif" font-size="11" font-weight="700" text-anchor="middle">COLD & WET | PROFILE C (CARDIOGENIC SHOCK)</text>
+<text x="732" y="130" fill="#fca5a5" font-family="system-ui, sans-serif" font-size="10" font-weight="600" text-anchor="middle">Critical low cardiac output combined with severe venous congestion</text>
+<text x="535" y="155" fill="#fee2e2" font-family="system-ui, sans-serif" font-size="9.5">
+<tspan x="535" dy="0">• IV Inotropes: Dobutamine (2-20 mcg/kg/min) or Milrinone (0.375-0.75 mcg/kg/min)</tspan>
+<tspan x="535" dy="18">• Vasopressors: Norepinephrine first-line if SBP < 85 or profound vasoplegia</tspan>
+<tspan x="535" dy="18">• Short-term Mechanical Circulatory Support (MCS: IABP, Impella, VA-ECMO)</tspan>
+<tspan x="535" dy="18">• Urgent coronary angiography / PCI if triggered by acute coronary syndrome</tspan>
+</text>
+<rect x="535" y="240" width="395" height="65" rx="6" fill="#1e1b4b" stroke="#f87171" stroke-width="1"/>
+<text x="732" y="260" fill="#f87171" font-family="system-ui, sans-serif" font-size="10" font-weight="700" text-anchor="middle">EMERGENCY ICU PROTOCOL: INOTROPES + VASOPRESSORS + MCS</text>
+<text x="732" y="280" fill="#fecaca" font-family="system-ui, sans-serif" font-size="9" text-anchor="middle">Invasive arterial line + PAC / Echo monitoring; avoid beta-blockers acutely</text>
+<!-- Bottom Left: Warm & Dry (Profile A) -->
+<rect x="50" y="355" width="435" height="260" rx="10" fill="#064e3b" stroke="#10b981" stroke-width="2"/>
+<rect x="60" y="365" width="415" height="28" rx="5" fill="#065f46"/>
+<text x="267" y="383" fill="#ecfdf5" font-family="system-ui, sans-serif" font-size="11" font-weight="700" text-anchor="middle">WARM & DRY | PROFILE A (COMPENSATED)</text>
+<text x="267" y="410" fill="#a7f3d0" font-family="system-ui, sans-serif" font-size="10" font-weight="600" text-anchor="middle">Preserved organ perfusion and no pulmonary/systemic congestion</text>
+<text x="75" y="440" fill="#f0fdf4" font-family="system-ui, sans-serif" font-size="10">
+<tspan x="75" dy="0">• Optimize, initiate, or uptitrate oral 4-pillar GDMT</tspan>
+<tspan x="75" dy="22">• Investigate precipitants (dietary noncompliance, NSAIDs, ischemia)</tspan>
+<tspan x="75" dy="22">• Outpatient monitoring of cardiorenal labs and electrolytes</tspan>
+</text>
+<rect x="75" y="530" width="385" height="65" rx="6" fill="#0f172a" stroke="#34d399" stroke-width="1"/>
+<text x="267" y="555" fill="#34d399" font-family="system-ui, sans-serif" font-size="10" font-weight="700" text-anchor="middle">EUVOLEMIC STABILITY: GDMT TITRATION TO TARGET DOSES</text>
+<text x="267" y="575" fill="#cbd5e1" font-family="system-ui, sans-serif" font-size="9" text-anchor="middle">Maintain lowest effective maintenance diuretic dose to prevent neurohumoral activation</text>
+<!-- Bottom Right: Cold & Dry (Profile L) -->
+<rect x="515" y="355" width="435" height="260" rx="10" fill="#451a03" stroke="#f59e0b" stroke-width="2"/>
+<rect x="525" y="365" width="415" height="28" rx="5" fill="#78350f"/>
+<text x="732" y="383" fill="#fffbeb" font-family="system-ui, sans-serif" font-size="11" font-weight="700" text-anchor="middle">COLD & DRY | PROFILE L (EUVOLUMIC / HYPOVOLEMIC)</text>
+<text x="732" y="410" fill="#fde68a" font-family="system-ui, sans-serif" font-size="10" font-weight="600" text-anchor="middle">Severe hypoperfusion without systemic venous congestion</text>
+<text x="535" y="440" fill="#fef3c7" font-family="system-ui, sans-serif" font-size="10">
+<tspan x="535" dy="0">• Cautious fluid challenge with balanced crystalloids (250-500 mL)</tspan>
+<tspan x="535" dy="22">• Temporarily withhold or reduce loop diuretics and vasodilators</tspan>
+<tspan x="535" dy="22">• Rule out non-cardiac etiology of shock (sepsis, adrenal, occult bleeding)</tspan>
+</text>
+<rect x="535" y="530" width="395" height="65" rx="6" fill="#0f172a" stroke="#fbbf24" stroke-width="1"/>
+<text x="732" y="555" fill="#fbbf24" font-family="system-ui, sans-serif" font-size="10" font-weight="700" text-anchor="middle">CAUTIOUS FLUID TRIAL: WATCH FOR PRELOAD RESPONSIVENESS</text>
+<text x="732" y="575" fill="#cbd5e1" font-family="system-ui, sans-serif" font-size="9" text-anchor="middle">Stop fluids immediately if dyspnea, crackles, or worsening oxygenation develops</text>
+<!-- Axes indicators -->
+<text x="500" y="640" fill="#38bdf8" font-family="system-ui, sans-serif" font-size="10.5" font-weight="700" text-anchor="middle">CONGESTION: PCWP > 18 mmHg, elevated JVP, pulmonary crackles, peripheral edema</text>
+<text x="500" y="660" fill="#94a3b8" font-family="system-ui, sans-serif" font-size="10" text-anchor="middle">HYPOPERFUSION: CI < 2.2 L/min/m², cold clammy extremities, oliguria, elevated lactate</text>
+</svg>
+
 </div></details>
 
 </div></details>
 
 <details class="med-details" open><summary>
 
-## Diuretic Pharmacotherapy in Acute Decompensated Heart Failure</summary><div class="details-content">
+## 2. Diuretic Pharmacotherapy in Acute Decompensated Heart Failure</summary><div class="details-content">
 
 <details class="med-details"><summary>
 
-### Mechanisms of Action, Pharmacology, and Bioavailability of Loop Diuretics</summary><div class="details-content">
+### 2.1 Mechanisms of Action, Pharmacology, and Bioavailability of Loop Diuretics</summary><div class="details-content">
 
 Congestion is the leading cause of hospitalization in patients with ADHF. Although large-scale placebo-controlled outcome trials are lacking, clinical experience and registry data demonstrate that diuretics effectively reduce elevated ventricular filling pressures and relieve dyspnea, even in de novo presentations where pulmonary edema occurs with minimal total-body volume overload. During hospitalization, net changes in weight, cumulative fluid balance, and clinical signs of congestion serve as surrogate metrics of decongestive efficacy.
 
@@ -201,7 +267,7 @@ Loop diuretics are highly protein-bound organic anions that access the tubular l
 
 <details class="med-details"><summary>
 
-### Dosing Equivalency, Pharmacokinetics, and Table of Clinical Diuretics</summary><div class="details-content">
+### 2.2 Dosing Equivalency, Pharmacokinetics, and Table of Clinical Diuretics</summary><div class="details-content">
 
 Torsemide possesses a significantly longer elimination half-life ($\sim 3.5\text{ hours}$) compared to furosemide ($0.5–2$ hours) or bumetanide ($1.0–1.5$ hours), providing more sustained natriuresis and less post-diuretic rebound sodium retention. In advanced heart failure, the natriuretic threshold is shifted upward and to the right, meaning that subtherapeutic serum concentrations fail to elicit natriuresis; intravenous administration is therefore mandatory in ADHF to achieve rapid peak concentrations above this threshold within minutes ([Table 3.2](#table-03-02)).
 
@@ -232,7 +298,7 @@ Torsemide possesses a significantly longer elimination half-life ($\sim 3.5\text
 
 <details class="med-details"><summary>
 
-### Evidence from the DOSE Trial: Continuous Infusion vs. Intermittent Boluses</summary><div class="details-content">
+### 2.3 Evidence from the DOSE Trial: Continuous Infusion vs. Intermittent Boluses</summary><div class="details-content">
 
 Diuretic dosing must be individualized and titrated against clinical decongestion. Patients receiving chronic loop diuretic therapy require higher initial doses during acute decompensation. The landmark prospective randomized DOSE-AHF trial evaluated two strategies in 308 patients with ADHF: high dose (2.5 times the previous oral daily dose administered IV) versus low dose (equivalent to the previous oral dose IV), and continuous infusion versus bolus administration every 12 hours.
 
@@ -242,7 +308,7 @@ The trial demonstrated no significant difference in global symptom relief or cha
 
 <details class="med-details"><summary>
 
-### Diuretic Resistance: Braking Phenomenon and Cardiorenal Interactions</summary><div class="details-content">
+### 2.4 Diuretic Resistance: Braking Phenomenon and Cardiorenal Interactions</summary><div class="details-content">
 
 Impaired diuretic responsiveness occurs in up to one-third of ADHF admissions and strongly predicts prolonged hospitalization, worsening cardiorenal syndrome, and post-discharge mortality. Diuretic resistance arises from multiple interdependent mechanisms: the acute "braking phenomenon" (compensatory post-diuretic sodium retention mediated by reflex sympathetic and RAAS activation), chronic distal tubular hypertrophy (induced by longstanding sodium delivery to distal segments), and impaired tubular secretion due to renal hypoperfusion or competitive organic anions.
 
@@ -254,7 +320,7 @@ Worsening renal function (WRF), defined as an increase in serum creatinine $\ge 
 
 <details class="med-details"><summary>
 
-### Sequential Nephron Blockade and Stepped Diuretic Assessment Algorithm</summary><div class="details-content">
+### 2.5 Sequential Nephron Blockade and Stepped Diuretic Assessment Algorithm</summary><div class="details-content">
 
 To overcome distal tubular hypertrophy and refractory sodium retention, sequential nephron blockade combines loop diuretics with agents acting at complementary tubular sites. Oral metolazone ($2.5–10$ mg once daily) or oral thiazides (hydrochlorothiazide $25–100$ mg) block the $\text{Na}^+-\text{Cl}^-$ cotransporter (NCCT) in the distal convoluted tubule; administering metolazone 30 minutes prior to the intravenous loop diuretic ensures maximal synergistic natriuresis. Intravenous chlorothiazide ($500–1000$ mg) provides parenteral distal blockade, while acetazolamide ($250–375$ mg) inhibits proximal bicarbonate and sodium reabsorption.
 
@@ -270,11 +336,11 @@ The practical HFA/ESC stepped diuretic algorithm formalizes early objective moni
 
 <details class="med-details" open><summary>
 
-## Vasodilator Pharmacotherapy in Acute Decompensated Heart Failure</summary><div class="details-content">
+## 3. Vasodilator Pharmacotherapy in Acute Decompensated Heart Failure</summary><div class="details-content">
 
 <details class="med-details"><summary>
 
-### Physiological Mechanisms and Soluble Guanylyl Cyclase (sGC) Pathways</summary><div class="details-content">
+### 3.1 Physiological Mechanisms and Soluble Guanylyl Cyclase (sGC) Pathways</summary><div class="details-content">
 
 Intravenous vasodilators represent the second major class of parenteral pharmacotherapy in ADHF. By relaxing vascular smooth muscle, they reduce left ventricular filling pressures (preload reduction) and systemic vascular resistance (afterload reduction), enhancing forward stroke volume without increasing myocardial oxygen consumption. Their use requires close hemodynamic monitoring and is restricted to patients with adequate systolic blood pressure (SBP $\ge 90–100\text{ mmHg}$), being strictly contraindicated in severe hypotension, hypovolemia, severe aortic stenosis, and recent exposure to phosphodiesterase-5 (PDE-5) inhibitors (sildenafil, vardenafil, tadalafil).
 
@@ -288,7 +354,7 @@ Traditional direct vasodilators—nitroglycerin, isosorbide dinitrate, sodium ni
 
 <details class="med-details"><summary>
 
-### Organic Nitrates: Hemodynamics, Dosing, and Nitrate Tolerance</summary><div class="details-content">
+### 3.2 Organic Nitrates: Hemodynamics, Dosing, and Nitrate Tolerance</summary><div class="details-content">
 
 Nitroglycerin (NTG) and isosorbide dinitrate primarily dilate capacitance veins at lower infusion rates ($<100$ mcg/min), rapidly reducing central venous pressure and PCWP with minimal change in heart rate or cardiac index. At higher doses ($>100–400$ mcg/min), progressive arteriolar vasodilation occurs, unloading systemic resistance and augmenting cardiac output, making high-dose nitrate therapy particularly valuable in hypertensive acute pulmonary edema.
 
@@ -298,7 +364,7 @@ The major clinical limitation of organic nitrates is pharmacological tolerance, 
 
 <details class="med-details"><summary>
 
-### Sodium Nitroprusside: Arteriolar Unloading, Coronary Steal, and Cyanide Toxicity</summary><div class="details-content">
+### 3.3 Sodium Nitroprusside: Arteriolar Unloading, Coronary Steal, and Cyanide Toxicity</summary><div class="details-content">
 
 Sodium nitroprusside (SNP) is an ultrashort-acting non-enzymatic nitric oxide donor that produces potent, balanced dilation of both arterial resistance vessels and venous capacitance beds. It produces immediate reductions in systemic vascular resistance, PCWP, and blood pressure, making it the vasodilator of choice in severe hypertensive emergencies, acute mitral regurgitation, and post-infarction ventricular septal defect.
 
@@ -310,7 +376,7 @@ The primary hazard of prolonged or high-dose SNP therapy ($>400$ mcg/min or $>2�
 
 <details class="med-details"><summary>
 
-### Nesiritide (Recombinant BNP): VMAC, ASCEND-HF, and ROSE-ADHF Trials</summary><div class="details-content">
+### 3.4 Nesiritide (Recombinant BNP): VMAC, ASCEND-HF, and ROSE-ADHF Trials</summary><div class="details-content">
 
 Nesiritide is a recombinant human B-type natriuretic peptide (BNP) produced via recombinant DNA technology. Binding to natriuretic peptide receptor-A (NPR-A) stimulates particulate guanylyl cyclase to increase intracellular cGMP, producing balanced venodilation and arteriolar dilation, reductions in PCWP and RAP, and modest improvements in cardiac output without direct inotropic stimulation.
 
@@ -320,7 +386,7 @@ The clinical efficacy of nesiritide was rigorously tested in multiple large rand
 
 <details class="med-details"><summary>
 
-### Table of Intravenous Vasodilators Used in Acute Heart Failure</summary><div class="details-content">
+### 3.5 Table of Intravenous Vasodilators Used in Acute Heart Failure</summary><div class="details-content">
 
 Clinical dosing, titration intervals, and primary adverse effects for intravenous vasodilators utilized in acute heart failure management are summarized in [Table 3.3](#table-03-03).
 
@@ -339,7 +405,7 @@ Clinical dosing, titration intervals, and primary adverse effects for intravenou
 
 <details class="med-details"><summary>
 
-### Novel Vasodilators and sGC Modulators: RELAX-AHF, TRUE-AHF, and VICTORIA</summary><div class="details-content">
+### 3.6 Novel Vasodilators and sGC Modulators: RELAX-AHF, TRUE-AHF, and VICTORIA</summary><div class="details-content">
 
 Extensive efforts to develop novel vasodilator therapies in ADHF have yielded critical pharmacological insights. Serelaxin, a recombinant human relaxin-2 hormone that increases NO production and upregulates endothelin B receptors, demonstrated early dyspnea relief and biomarker reductions in RELAX-AHF, but failed to meet primary endpoints for cardiovascular mortality or worsening heart failure in the confirmatory RELAX-AHF-2 trial. Ularitide (synthetic urodilatin) similarly failed to reduce cardiovascular mortality in TRUE-AHF despite transient hemodynamic unloading.
 
@@ -353,11 +419,11 @@ Modulation of the nitric oxide-soluble guanylyl cyclase pathway independent of e
 
 <details class="med-details" open><summary>
 
-## Inotropic Pharmacotherapy in Acute Decompensated Heart Failure</summary><div class="details-content">
+## 4. Inotropic Pharmacotherapy in Acute Decompensated Heart Failure</summary><div class="details-content">
 
 <details class="med-details"><summary>
 
-### Cellular Calcium Biology, Hazards, and Indications for Inotropic Support</summary><div class="details-content">
+### 4.1 Cellular Calcium Biology, Hazards, and Indications for Inotropic Support</summary><div class="details-content">
 
 Inotropic pharmacotherapy should be reserved strictly for selected patients with advanced heart failure presenting with low cardiac output syndrome, peripheral hypoperfusion, and impending end-organ dysfunction to prevent irreversible hemodynamic collapse. Inotropes also provide a vital pharmacologic bridge to advanced mechanical circulatory support or urgent heart transplantation in end-stage disease.
 
@@ -367,7 +433,7 @@ The fundamental cellular mechanism of conventional positive inotropes involves a
 
 <details class="med-details"><summary>
 
-### β-Adrenergic Agonists: Dobutamine, Dopamine, Epinephrine, and Isoproterenol</summary><div class="details-content">
+### 4.2 β-Adrenergic Agonists: Dobutamine, Dopamine, Epinephrine, and Isoproterenol</summary><div class="details-content">
 
 Dobutamine is a synthetic catecholamine analog of dopamine with predominant $\beta_1 > \beta_2$ activity and mild $\alpha_1$ agonism. Cardiac $\beta_1$-stimulation activates adenylyl cyclase via $G_s$, elevating intracellular cyclic adenosine monophosphate (cAMP) and activating protein kinase A (PKA). At low doses, peripheral $\beta_2$-stimulation promotes arterial vasodilation, reducing afterload; at higher doses, $\alpha_1$-mediated vasoconstriction may emerge. Dobutamine is often blunted in patients chronically maintained on $\beta$-blockers, requiring higher doses that escalate tachyarrhythmia risks.
 
@@ -379,7 +445,7 @@ Epinephrine possesses balanced $\beta_1$- and $\beta_2$-agonist actions at lower
 
 <details class="med-details"><summary>
 
-### Phosphodiesterase-III Inhibitors (Milrinone, Enoximone) and Inodilator Mechanisms</summary><div class="details-content">
+### 4.3 Phosphodiesterase-III Inhibitors (Milrinone, Enoximone) and Inodilator Mechanisms</summary><div class="details-content">
 
 Milrinone and enoximone belong to the bipyridine class of non-adrenergic inotropic dilators ("inodilators"). They act downstream of the $\beta$-adrenergic receptor by selectively inhibiting phosphodiesterase-III (PDE-III), the cytosolic enzyme responsible for the hydrolytic degradation of cAMP in cardiac myocytes and vascular smooth muscle ([Figure 3.5](#fig-03-05)).
 
@@ -393,7 +459,7 @@ In the myocardium, accumulated cAMP enhances calcium entry and contractility; si
 
 <details class="med-details"><summary>
 
-### Calcium Sensitizers (Levosimendan) and Long-Acting Metabolite OR-1896</summary><div class="details-content">
+### 4.4 Calcium Sensitizers (Levosimendan) and Long-Acting Metabolite OR-1896</summary><div class="details-content">
 
 Levosimendan is a pyridazinone-dinitrile derivative that represents the calcium sensitizer class of inotropic agents. It selectively binds to the N-terminal domain of cardiac troponin C in a calcium-dependent conformation, stabilizing calcium-induced troponin configuration and enhancing myofilament cross-bridge cycling during systole without increasing peak cytosolic calcium concentration or myocardial oxygen demand. During diastole, as cytosolic calcium falls, levosimendan dissociates, preserving ventricular relaxation.
 
@@ -403,7 +469,7 @@ Levosimendan also exerts direct vasodilatory actions by opening adenosine tripho
 
 <details class="med-details"><summary>
 
-### Table of Positive Inotropes and Vasopressors Used in Acute Heart Failure</summary><div class="details-content">
+### 4.5 Table of Positive Inotropes and Vasopressors Used in Acute Heart Failure</summary><div class="details-content">
 
 Hemodynamic properties, receptor affinities, elimination kinetics, and intravenous infusion dosing ranges for positive inotropic and vasopressor agents utilized in acute decompensation are summarized in [Table 3.4](#table-03-04).
 
@@ -428,7 +494,7 @@ Hemodynamic properties, receptor affinities, elimination kinetics, and intraveno
 
 <details class="med-details"><summary>
 
-### Novel Inotropic Mechanisms: Omecamtiv Mecarbil and Istaroxime</summary><div class="details-content">
+### 4.6 Novel Inotropic Mechanisms: Omecamtiv Mecarbil and Istaroxime</summary><div class="details-content">
 
 Recognition of the lethal arrhythmogenic liability of calcium-dependent inotropes prompted the development of novel agents with calcium-independent mechanisms. Omecamtiv mecarbil is a selective cardiac myosin activator that directly binds the catalytic catalytic domain of myosin, stabilizing the pre-powerstroke state and increasing the number of myosin heads engaged in cross-bridge formation with actin filaments. In phase II (COSMIC-HF) and phase III (GALACTIC-HF) trials, omecamtiv mecarbil significantly prolonged systolic ejection time and augmented stroke volume without increasing myocardial oxygen consumption, intracellular calcium transients, or ventricular arrhythmias.
 
@@ -440,11 +506,11 @@ Istaroxime is a dual-acting investigational agent that combines inhibition of th
 
 <details class="med-details" open><summary>
 
-## Vasopressors and Neuromodulation of Vascular Tone</summary><div class="details-content">
+## 5. Vasopressors and Neuromodulation of Vascular Tone</summary><div class="details-content">
 
 <details class="med-details"><summary>
 
-### Adrenergic Neuroeffector Junction and Vascular Neuromodulation</summary><div class="details-content">
+### 5.1 Adrenergic Neuroeffector Junction and Vascular Neuromodulation</summary><div class="details-content">
 
 Vascular tone is tightly modulated by complex neurohumoral interactions at the adrenergic sympathetic neuroeffector junction ([Figure 3.6](#fig-03-06)). Sympathetic nerve terminal depolarization triggers exocytotic release of norepinephrine into the synaptic cleft. Norepinephrine binds to post-junctional vascular smooth muscle $\alpha_1$- and $\alpha_2$-adrenoceptors, activating phospholipase C via $G_q$ to generate inositol trisphosphate ($IP_3$) and diacylglycerol ($DAG$), inducing calcium mobilization, phosphorylation of myosin light-chain kinase, and marked arteriolar vasoconstriction.
 
@@ -458,7 +524,7 @@ Simultaneously, junctional norepinephrine stimulates presynaptic autoinhibitory 
 
 <details class="med-details"><summary>
 
-### Vasopressor Selection: Norepinephrine, Vasopressin, and Phenylephrine</summary><div class="details-content">
+### 5.2 Vasopressor Selection: Norepinephrine, Vasopressin, and Phenylephrine</summary><div class="details-content">
 
 Norepinephrine is the first-line vasopressor for restoring coronary and systemic perfusion pressure in cardiogenic shock. It possesses potent vascular $\alpha_1$- and $\alpha_2$-adrenoceptor agonist activity combined with modest cardiac $\beta_1$-agonist stimulation, increasing mean arterial pressure and cardiac output with substantially lower arrhythmogenic potential than dopamine. In the landmark multicenter SOAP-II trial of 1679 shock patients, dopamine was associated with a significantly higher rate of tachyarrhythmias and excess 28-day mortality in the prespecified cardiogenic shock subgroup compared to norepinephrine.
 
@@ -470,11 +536,11 @@ Vasopressin stimulates vascular $V_1$ receptors coupled to $G_q$, producing pote
 
 <details class="med-details" open><summary>
 
-## Management of Special Clinical Situations in Acute Heart Failure</summary><div class="details-content">
+## 6. Management of Special Clinical Situations in Acute Heart Failure</summary><div class="details-content">
 
 <details class="med-details"><summary>
 
-### Acute Coronary Syndromes and Hypertensive Emergencies in ADHF</summary><div class="details-content">
+### 6.1 Acute Coronary Syndromes and Hypertensive Emergencies in ADHF</summary><div class="details-content">
 
 Acute coronary syndromes (ACS) account for nearly 20% of ADHF hospitalizations. Management mandates emergency coronary angiography and immediate percutaneous coronary intervention (PCI), as early revascularization is the only therapy proven to improve survival. Intravenous nitrates are first-line for relieving ischemic chest pain and pulmonary congestion; sodium nitroprusside is contraindicated due to the coronary steal phenomenon. Inotropic agents must be avoided or restricted to the lowest doses in shock to prevent extending myocardial necrosis.
 
@@ -484,7 +550,7 @@ Hypertensive ADHF represents approximately 10% of acute decompensations, occurri
 
 <details class="med-details"><summary>
 
-### Right Ventricular Heart Failure and Acute Cor Pulmonale</summary><div class="details-content">
+### 6.2 Right Ventricular Heart Failure and Acute Cor Pulmonale</summary><div class="details-content">
 
 Isolated right ventricular (RV) heart failure is precipitated by acute right ventricular myocardial infarction, massive pulmonary embolism, or severe acute-on-chronic pulmonary arterial hypertension. The thin-walled right ventricle is highly sensitive to afterload changes and dependent on adequate preload. In acute RV infarction, nitrates and excessive diuretics are dangerous, as acute preload reduction causes catastrophic systemic hypotension.
 
@@ -494,7 +560,7 @@ Hemodynamic stabilization requires careful, monitored volume loading to achieve 
 
 <details class="med-details"><summary>
 
-### Cardiogenic Shock Pathophysiology, Pharmacotherapy, and Mechanical Support</summary><div class="details-content">
+### 6.3 Cardiogenic Shock Pathophysiology, Pharmacotherapy, and Mechanical Support</summary><div class="details-content">
 
 Cardiogenic shock is defined as sustained hypotension (systolic $\text{BP} < 90\text{ mmHg}$ for $\ge 30\text{ minutes}$ or requiring vasopressor support) with a reduced cardiac index ($<2.2$ L/min/m²), elevated filling pressures ($\text{PCWP} > 15\text{ mmHg}$), and clinical evidence of vital organ hypoperfusion (elevated serum lactate $>2.0$ mmol/L, oliguria $<0.5$ mL/kg/h, altered sensorium, cold clammy extremities). Acute myocardial infarction with extensive LV dysfunction accounts for $\sim 80\%$ of cases; mechanical complications—acute mitral regurgitation from papillary muscle rupture, post-infarction ventricular septal defect, or free-wall rupture—must be excluded immediately with bedside echocardiography.
 
@@ -506,11 +572,11 @@ Initial pharmacotherapy employs norepinephrine to restore coronary perfusion pre
 
 <details class="med-details" open><summary>
 
-## Heart Failure with Reduced Ejection Fraction: Pathophysiology and Staged Prevention</summary><div class="details-content">
+## 7. Heart Failure with Reduced Ejection Fraction: Pathophysiology and Staged Prevention</summary><div class="details-content">
 
 <details class="med-details"><summary>
 
-### Stage-Based Approach and Prevention in At-Risk Cohorts (Stages A and B)</summary><div class="details-content">
+### 7.1 Stage-Based Approach and Prevention in At-Risk Cohorts (Stages A and B)</summary><div class="details-content">
 
 Over the past three decades, the management of chronic heart failure with reduced ejection fraction (HFrEF; LVEF $\le 40\%$) has undergone transformative evolution. Modern therapy conceptualizes heart failure as an incremental continuum spanning four interrelated stages: modifying risk factors in asymptomatic individuals at risk (Stage A), arresting progressive structural cardiac injury before symptoms appear (Stage B), mitigating symptoms, hospitalizations, and mortality in overt disease (Stage C), and deploying advanced therapies in refractory illness (Stage D).
 
@@ -520,7 +586,7 @@ In Stage A, rigorous primary prevention modifies clinical trajectories: the SPRI
 
 <details class="med-details"><summary>
 
-### Neurohormonal Activation: Sympathetic, RAAS, and Natriuretic Systems</summary><div class="details-content">
+### 7.2 Neurohormonal Activation: Sympathetic, RAAS, and Natriuretic Systems</summary><div class="details-content">
 
 HFrEF develops following an initial myocardial insult—acute ischemic injury, chronic pressure or volume overload, myocarditis, or genetic mutations disrupting sarcomeric contractility. Impaired ventricular pumping triggers intense compensatory neurohumoral activation. Although historically viewed as endocrine responses, critical neurohormones—including norepinephrine, angiotensin II, and inflammatory cytokines—are synthesized locally within the myocardium, exerting autocrine and paracrine actions that accelerate cardiac remodeling.
 
@@ -532,11 +598,11 @@ Sustained sympathetic overdrive produces excessive cardiac norepinephrine spillo
 
 <details class="med-details" open><summary>
 
-## Guideline-Directed Medical Therapy: The Four Pharmacological Pillars</summary><div class="details-content">
+## 8. Guideline-Directed Medical Therapy: The Four Pharmacological Pillars</summary><div class="details-content">
 
 <details class="med-details"><summary>
 
-### β-Blockers: Survival Evidence across Bisoprolol, Carvedilol, and Metoprolol Succinate</summary><div class="details-content">
+### 8.1 β-Blockers: Survival Evidence across Bisoprolol, Carvedilol, and Metoprolol Succinate</summary><div class="details-content">
 
 Once considered strictly contraindicated due to acute negative inotropy, $\beta$-blockers are now established as a cornerstone of HFrEF therapy. Chronic $\beta$-blockade shields the failing heart from cardiotoxic sympathetic hyperactivation, upregulates and resensitizes down-regulated myocardial $\beta_1$-receptors, slows heart rate to prolong diastolic coronary perfusion, suppresses ventricular arrhythmias, and halts progressive left ventricular dilation.
 
@@ -548,7 +614,7 @@ Metoprolol succinate CR/XL (extended-release) was evaluated in the MERIT-HF tria
 
 <details class="med-details"><summary>
 
-### Differences Among β-Blockers, Failed Trials, and Practical Titration Rules</summary><div class="details-content">
+### 8.2 Differences Among β-Blockers, Failed Trials, and Practical Titration Rules</summary><div class="details-content">
 
 Beneficial effects in HFrEF do not constitute a universal class effect. Agents with intrinsic sympathomimetic activity (such as xamoterol) increased mortality in clinical trials. Bucindolol failed to reduce all-cause mortality in the overall cohort of the BEST trial, and nebivolol in the SENIORS trial (evaluating elderly patients aged $\ge 70\text{ years}$) achieved a 14% relative reduction in the primary composite of mortality or cardiovascular hospitalization, but had no significant effect on all-cause mortality.
 
@@ -560,7 +626,7 @@ Transient weight gain or peripheral edema within the first 3 to 5 days of initia
 
 <details class="med-details"><summary>
 
-### Table of Guideline-Directed Medical Therapies for Chronic HFrEF</summary><div class="details-content">
+### 8.3 Table of Guideline-Directed Medical Therapies for Chronic HFrEF</summary><div class="details-content">
 
 Evidence-based starting doses, target maintenance regimens, and landmark randomized clinical trial evidence for disease-modifying therapies in chronic HFrEF are detailed in [Table 3.5](#table-03-05).
 
@@ -595,7 +661,7 @@ Evidence-based starting doses, target maintenance regimens, and landmark randomi
 
 <details class="med-details"><summary>
 
-### ACE Inhibitors and ARBs: Foundational Survival Trials and Initiation Order</summary><div class="details-content">
+### 8.4 ACE Inhibitors and ARBs: Foundational Survival Trials and Initiation Order</summary><div class="details-content">
 
 Angiotensin-converting enzyme (ACE) inhibitors suppress angiotensin II synthesis and retard bradykinin degradation, reducing systemic vascular resistance, decreasing ventricular filling pressures, promoting natriuresis, and attenuating myocardial hypertrophy. Foundational survival trials—CONSENSUS in severe heart failure (40% mortality reduction at 6 months) and SOLVD-Treatment in mild-to-moderate heart failure (16% mortality reduction)—established ACE inhibitors as life-prolonging therapy across enalapril, captopril (SAVE), ramipril (AIRE), lisinopril (ATLAS), and trandolapril (TRACE). The ATLAS trial proved that high-dose lisinopril (32.5–35 mg daily) yielded a significant 12% reduction in hospitalizations compared to low dose (2.5–5 mg daily).
 
@@ -607,7 +673,7 @@ Angiotensin receptor blockers (ARBs)—such as candesartan (CHARM-Alternative: 2
 
 <details class="med-details"><summary>
 
-### Angiotensin Receptor-Neprilysin Inhibitors (ARNI): PARADIGM-HF, PIONEER-HF, and Safety</summary><div class="details-content">
+### 8.5 Angiotensin Receptor-Neprilysin Inhibitors (ARNI): PARADIGM-HF, PIONEER-HF, and Safety</summary><div class="details-content">
 
 The angiotensin receptor-neprilysin inhibitor (ARNI) sacubitril/valsartan represents a major breakthrough in neurohumoral modulation. Neprilysin is an endogenous neutral endopeptidase responsible for the degradation of biologically active vasoactive peptides, including atrial natriuretic peptide (ANP), B-type natriuretic peptide (BNP), bradykinin, and adrenomedullin. Because neprilysin also degrades angiotensin II, selective neprilysin inhibition must be paired with an $\text{AT}_1$ receptor blocker (valsartan) rather than an ACE inhibitor to prevent severe angioneurotic edema.
 
@@ -619,7 +685,7 @@ The subsequent PIONEER-HF trial established that inpatient initiation of sacubit
 
 <details class="med-details"><summary>
 
-### Mineralocorticoid Receptor Antagonists: RALES, EPHESUS, EMPHASIS-HF, and Nonsteroidal Agents</summary><div class="details-content">
+### 8.6 Mineralocorticoid Receptor Antagonists: RALES, EPHESUS, EMPHASIS-HF, and Nonsteroidal Agents</summary><div class="details-content">
 
 Aldosterone exerts potent profibrotic, proinflammatory, and proarrhythmic effects independent of renal sodium retention. Mineralocorticoid receptor antagonists (MRAs)—spironolactone and eplerenone—block genomic and non-genomic mineralocorticoid actions, attenuating cardiac fibrosis and vascular stiffening. The landmark RALES trial in 1663 patients with severe HFrEF (NYHA III–IV, LVEF $\le 35\%$) demonstrated that low-dose spironolactone (mean dose 26 mg daily) reduced all-cause mortality by 30% ($P < 0.001$) and heart failure hospitalizations by 35%.
 
@@ -631,11 +697,70 @@ The primary risk of MRA therapy is severe hyperkalemia. Therapy should not be in
 
 <details class="med-details"><summary>
 
-### Sodium-Glucose Cotransporter-2 (SGLT2) Inhibitors: DAPA-HF, EMPEROR-Reduced, and Beyond</summary><div class="details-content">
+### 8.7 Sodium-Glucose Cotransporter-2 (SGLT2) Inhibitors: DAPA-HF, EMPEROR-Reduced, and Beyond</summary><div class="details-content">
 
 Sodium-glucose cotransporter-2 (SGLT2) inhibitors, originally developed as oral antihyperglycemic agents, have emerged as the foundational fourth pillar of GDMT in HFrEF. Initial cardiovascular safety trials in type 2 diabetes—EMPA-REG OUTCOME (empagliflozin), CANVAS (canagliflozin), and DECLARE-TIMI 58 (dapagliflozin)—demonstrated a consistent, rapid 30% to 35% reduction in heart failure hospitalizations.
 
 The landmark DAPA-HF trial evaluated dapagliflozin (10 mg once daily) in 4744 patients with symptomatic HFrEF (LVEF $\le 40\%$) regardless of diabetes status. Over a median follow-up of 18.2 months, dapagliflozin reduced the primary composite outcome of worsening heart failure or cardiovascular death by 26% (HR 0.74; $P < 0.001$), with identical efficacy in patients without diabetes ($P_{\text{interaction}} = 0.80$), along with a 17% reduction in all-cause mortality. The parallel EMPEROR-Reduced trial confirmed an equivalent 25% reduction in cardiovascular death or heart failure hospitalization with empagliflozin (10 mg daily) and demonstrated significant slowing of renal function decline. Beyond glycosuria, SGLT2 inhibitors provide cardiac benefit via osmotic diuresis, reduction of ventricular loading, shift in myocardial substrate utilization toward energetic ketone bodies, inhibition of cardiac $\text{Na}^+/\text{H}^+$ exchanger-1 (NHE-1), and attenuation of renal hyperfiltration.
+
+<span id="diag-03-01"></span>
+
+### DIAGRAM 3.1: The Four Pharmacological Pillars of GDMT in HFrEF: Molecular Targets & Survival Benefit
+
+<svg viewBox="0 0 1000 680" style="width:100%; max-width:1000px; height:auto; display:block; margin:16px auto;" xmlns="http://www.w3.org/2000/svg">
+<rect width="1000" height="680" rx="12" fill="#0f172a" stroke="#334155" stroke-width="2"/>
+<text x="500" y="32" fill="#38bdf8" font-family="system-ui, sans-serif" font-size="15" font-weight="700" text-anchor="middle" letter-spacing="1">THE FOUR PHARMACOLOGICAL PILLARS OF GDMT IN HFrEF: MOLECULAR TARGETS & SURVIVAL</text>
+<text x="500" y="52" fill="#94a3b8" font-family="system-ui, sans-serif" font-size="11" text-anchor="middle">Mechanisms of Action, Reverse Remodeling and Synergistic All-Cause Mortality Reduction (-63% at 2 Years)</text>
+<!-- Pillar 1: ARNI -->
+<rect x="35" y="72" width="455" height="230" rx="10" fill="#1e1b4b" stroke="#6366f1" stroke-width="2"/>
+<rect x="45" y="82" width="435" height="42" rx="6" fill="#312e81"/>
+<text x="262" y="100" fill="#c7d2fe" font-family="system-ui, sans-serif" font-size="13" font-weight="700" text-anchor="middle">1. ARNI / ACEi / ARB</text>
+<text x="262" y="116" fill="#a5b4fc" font-family="system-ui, sans-serif" font-size="10" font-weight="600" text-anchor="middle">Sacubitril / Valsartan (PARADIGM-HF Benchmark)</text>
+<text x="55" y="145" fill="#e0e7ff" font-family="system-ui, sans-serif" font-size="10">
+<tspan x="55" dy="0">• Dual mechanism: Neprilysin inhibition + AT₁ receptor blockade</tspan>
+<tspan x="55" dy="18">• Augmentation of endogenous natriuretic peptides (BNP, ANP)</tspan>
+<tspan x="55" dy="18">• Vasodilation, natriuresis, and anti-fibrotic reverse remodeling</tspan>
+<tspan x="55" dy="18" fill="#38bdf8" font-weight="600">• 20% CV death reduction superiority over enalapril</tspan>
+</text>
+<!-- Pillar 2: Beta-Blockers -->
+<rect x="510" y="72" width="455" height="230" rx="10" fill="#064e3b" stroke="#10b981" stroke-width="2"/>
+<rect x="520" y="82" width="435" height="42" rx="6" fill="#065f46"/>
+<text x="737" y="100" fill="#a7f3d0" font-family="system-ui, sans-serif" font-size="13" font-weight="700" text-anchor="middle">2. EVIDENCE-BASED β-BLOCKERS</text>
+<text x="737" y="116" fill="#6ee7b7" font-family="system-ui, sans-serif" font-size="10" font-weight="600" text-anchor="middle">Bisoprolol, Carvedilol, Metoprolol Succinate ER</text>
+<text x="530" y="145" fill="#ecfdf5" font-family="system-ui, sans-serif" font-size="10">
+<tspan x="530" dy="0">• Anti-adrenergic protection against chronic cardiotoxicity</tspan>
+<tspan x="530" dy="18">• Heart rate deceleration, antiarrhythmic, and anti-ischemic</tspan>
+<tspan x="530" dy="18">• Dramatic reverse LV remodeling and EF recovery</tspan>
+<tspan x="530" dy="18" fill="#34d399" font-weight="600">• 34-35% all-cause mortality reduction (CIBIS-II, MERIT-HF, COPERNICUS)</tspan>
+</text>
+<!-- Pillar 3: MRA -->
+<rect x="35" y="315" width="455" height="230" rx="10" fill="#451a03" stroke="#f59e0b" stroke-width="2"/>
+<rect x="45" y="325" width="435" height="42" rx="6" fill="#78350f"/>
+<text x="262" y="343" fill="#fde68a" font-family="system-ui, sans-serif" font-size="13" font-weight="700" text-anchor="middle">3. MINERALOCORTICOID ANTAGONISTS</text>
+<text x="262" y="359" fill="#fcd34d" font-family="system-ui, sans-serif" font-size="10" font-weight="600" text-anchor="middle">Spironolactone, Eplerenone (RALES, EMPHASIS-HF)</text>
+<text x="55" y="388" fill="#fffbeb" font-family="system-ui, sans-serif" font-size="10">
+<tspan x="55" dy="0">• Direct antagonism of nuclear MR in cardiomyocytes and vessels</tspan>
+<tspan x="55" dy="18">• Arrests myocardial interstitial fibrosis and stiffness</tspan>
+<tspan x="55" dy="18">• Renal K⁺/Mg²⁺ conservation prevents malignant arrhythmias</tspan>
+<tspan x="55" dy="18" fill="#fbbf24" font-weight="600">• 30% reduction in all-cause mortality across NYHA II-IV</tspan>
+</text>
+<!-- Pillar 4: SGLT2i -->
+<rect x="510" y="315" width="455" height="230" rx="10" fill="#082f49" stroke="#0284c7" stroke-width="2"/>
+<rect x="520" y="325" width="435" height="42" rx="6" fill="#075985"/>
+<text x="737" y="343" fill="#bae6fd" font-family="system-ui, sans-serif" font-size="13" font-weight="700" text-anchor="middle">4. SGLT2 INHIBITORS</text>
+<text x="737" y="359" fill="#7dd3fc" font-family="system-ui, sans-serif" font-size="10" font-weight="600" text-anchor="middle">Dapagliflozin, Empagliflozin (DAPA-HF, EMPEROR-Reduced)</text>
+<text x="530" y="388" fill="#f0f9ff" font-family="system-ui, sans-serif" font-size="10">
+<tspan x="530" dy="0">• Osmotic nephron diuresis without reflex neurohumoral activation</tspan>
+<tspan x="530" dy="18">• Favorable metabolic fuel shift to beta-hydroxybutyrate</tspan>
+<tspan x="530" dy="18">• Interstitial decongestion and renal preservation</tspan>
+<tspan x="530" dy="18" fill="#38bdf8" font-weight="600">• 25-26% reduction in CV death or HF hospitalization (independent of T2D)</tspan>
+</text>
+<!-- Bottom Synergy Banner -->
+<rect x="35" y="560" width="930" height="102" rx="10" fill="#1e293b" stroke="#e11d48" stroke-width="2"/>
+<text x="500" y="582" fill="#fb7185" font-family="system-ui, sans-serif" font-size="12" font-weight="700" text-anchor="middle" letter-spacing="0.5">SYNERGISTIC QUADRUPLE GDMT FOUNDATION IMPACT</text>
+<text x="500" y="605" fill="#f1f5f9" font-family="system-ui, sans-serif" font-size="10.5" text-anchor="middle">Rapid upfront initiation of all four pillars in low starting doses followed by simultaneous uptitration delivers an absolute ~ 63% relative risk reduction in 2-year all-cause mortality (HR 0.37) and adds 5 to 6 years of extended life in HFrEF.</text>
+<text x="500" y="635" fill="#fda4af" font-family="system-ui, sans-serif" font-size="11" font-weight="700" text-anchor="middle">COMBINED HAZARD RATIO: 0.37 (95% CI 0.28-0.49) | NNT = 4 AT 24 MONTHS</text>
+</svg>
 
 </div></details>
 
@@ -643,11 +768,11 @@ The landmark DAPA-HF trial evaluated dapagliflozin (10 mg once daily) in 4744 pa
 
 <details class="med-details" open><summary>
 
-## Additional Pharmacotherapies in Chronic HFrEF and Staged Management Algorithm</summary><div class="details-content">
+## 9. Additional Pharmacotherapies in Chronic HFrEF and Staged Management Algorithm</summary><div class="details-content">
 
 <details class="med-details"><summary>
 
-### Diuretic Therapy for Maintenance of Euvolemia in Chronic HFrEF</summary><div class="details-content">
+### 9.1 Diuretic Therapy for Maintenance of Euvolemia in Chronic HFrEF</summary><div class="details-content">
 
 Diuretics remain the cornerstone of symptomatic therapy for congestive fluid overload across all stages of heart failure. Unlike neurohormonal antagonists, loop diuretics have not been shown in randomized controlled trials to reduce all-cause mortality; however, failure to relieve pulmonary congestion and elevated central venous pressure accelerates disease progression, induces cardiorenal syndrome, and provokes recurrent hospitalizations. In outpatients with chronic HFrEF, the therapeutic objective is maintenance of a stable euvolemic 'dry weight' utilizing the lowest effective maintenance dose.
 
@@ -659,7 +784,7 @@ Chronic diuretic therapy requires rigorous vigilance for adverse metabolic conse
 
 <details class="med-details"><summary>
 
-### Combination of Hydralazine Plus Isosorbide Dinitrate (H-ISDN) and Race-Specific Mortality Reduction</summary><div class="details-content">
+### 9.2 Combination of Hydralazine Plus Isosorbide Dinitrate (H-ISDN) and Race-Specific Mortality Reduction</summary><div class="details-content">
 
 The combination of hydralazine plus isosorbide dinitrate (H-ISDN) represents an evidence-based vasodilating regimen that acts via complementary hemodynamic and molecular mechanisms. Isosorbide dinitrate generates exogenous nitric oxide (NO) in venous capacitance vessels, producing potent venodilation, augmenting systemic vascular capacitance, and reducing left ventricular filling pressures (preload). Hydralazine acts primarily as an arteriolar vasodilator that decreases systemic vascular resistance and reduces LV afterload, while concurrently inhibiting membrane-bound vascular NADPH oxidase, thereby preventing superoxide-mediated NO degradation and blunting the development of nitrate tolerance.
 
@@ -671,7 +796,7 @@ A-HeFT was terminated early due to overwhelming efficacy, demonstrating a 43% re
 
 <details class="med-details"><summary>
 
-### Inhibition of Pacemaker Current: Ivabradine and the SHIFT Trial</summary><div class="details-content">
+### 9.3 Inhibition of Pacemaker Current: Ivabradine and the SHIFT Trial</summary><div class="details-content">
 
 Elevated resting heart rate constitutes an independent determinant of adverse cardiovascular outcomes and mortality in chronic HFrEF. Tachycardia escalates myocardial oxygen consumption, curtails diastolic coronary perfusion time, and induces calcium cycling abnormalities that accelerate structural ventricular remodeling. Conventional heart rate control with $\beta$-blockers is frequently limited by systemic hypotension, fatigue, or reactive bronchospasm, leaving many patients with persistent resting heart rates $>70$ bpm.
 
@@ -683,7 +808,7 @@ Ivabradine achieved an 18% relative reduction in the primary composite endpoint 
 
 <details class="med-details"><summary>
 
-### Digitalis Glycosides: Hemodynamics, Neurohumoral Effects, and the DIG Trial</summary><div class="details-content">
+### 9.4 Digitalis Glycosides: Hemodynamics, Neurohumoral Effects, and the DIG Trial</summary><div class="details-content">
 
 Digoxin, a cardiac glycoside derived from the foxglove plant (*Digitalis purpurea*), has been utilized in cardiovascular medicine for over two centuries. Its primary molecular mechanism involves reversible inhibition of the sarcolemmal $Na^+/K^+$-ATPase pump in cardiac myocytes. This enzymatic blockade elevates intracellular sodium concentration, which in turn blunts the forward-mode extrusion of calcium via the $Na^+/Ca^{2+}$ exchanger (NCX), leading to enhanced sarcoplasmic reticulum calcium storage and augmented contractile force during systole (positive inotropy).
 
@@ -699,7 +824,7 @@ Clinical validation of digoxin was established through withdrawal trials (PROVED
 
 <details class="med-details"><summary>
 
-### Digoxin Toxicity: Precipitating Factors, Clinical Manifestations, and Management</summary><div class="details-content">
+### 9.5 Digoxin Toxicity: Precipitating Factors, Clinical Manifestations, and Management</summary><div class="details-content">
 
 Digoxin possesses an exceptionally narrow therapeutic window, predisposing patients to life-threatening digitalis toxicity. Because digoxin is eliminated predominantly (>70–80%) unchanged by glomerular filtration and tubular secretion via P-glycoprotein, declines in renal function or coadministration of P-glycoprotein inhibitors (amiodarone, dronedarone, verapamil, quinidine, clarithromycin) produce precipitous increases in serum concentrations. Concomitant carvedilol therapy can increase digoxin levels by 15% to 30% through competitive P-glycoprotein inhibition, requiring systematic dosage reduction upon initiation.
 
@@ -711,7 +836,7 @@ Management of toxicity mandates immediate discontinuation of digoxin and potassi
 
 <details class="med-details"><summary>
 
-### Intravenous Iron Repletion and Correction of Anemia in Heart Failure</summary><div class="details-content">
+### 9.6 Intravenous Iron Repletion and Correction of Anemia in Heart Failure</summary><div class="details-content">
 
 Anemia is present in 30% to 50% of patients with chronic heart failure and constitutes a strong, independent predictor of functional decline, recurrent hospitalization, and mortality. However, iron deficiency (ID)—defined in heart failure as a serum ferritin $<100$ ng/mL, or ferritin between 100 and 299 ng/mL with a transferrin saturation (TSAT) $<20\%$—occurs in up to 50% of HFrEF patients irrespective of whether hemoglobin levels are reduced. Iron serves as an indispensable cofactor for iron-sulfur clusters in the mitochondrial electron transport chain (complexes I, II, and III); profound myocardial and skeletal muscle iron depletion directly cripples cellular ATP synthesis, impairing both systolic contraction and exercise capacity.
 
@@ -723,7 +848,7 @@ Landmark randomized trials—FAIR-HF (ferric carboxymaltose [FCM] in 459 patient
 
 <details class="med-details"><summary>
 
-### Marine Omega-3 Polyunsaturated Fatty Acids (PUFAs)</summary><div class="details-content">
+### 9.7 Marine Omega-3 Polyunsaturated Fatty Acids (PUFAs)</summary><div class="details-content">
 
 Polyunsaturated fatty acids (PUFAs) of marine origin, predominantly eicosapentaenoic acid (EPA) and docosahexaenoic acid (DHA), exert favorable cardiovascular modulatory actions. Upon incorporation into phospholipid bilayers, omega-3 PUFAs enhance myocardial sarcolemmal fluidity, suppress the generation of pro-inflammatory eicosanoids (leukotrienes, thromboxane $A_2$), reduce circulating cytokines, modulate autonomic balance by enhancing parasympathetic tone, and stabilize cardiac electrophysiology against triggered ventricular arrhythmias.
 
@@ -735,7 +860,7 @@ Omega-3 PUFA therapy demonstrates exceptional tolerability, with minor gastroint
 
 <details class="med-details"><summary>
 
-### Micronutrient Supplementation: Thiamine, Carnitine, and Coenzyme Q10</summary><div class="details-content">
+### 9.8 Micronutrient Supplementation: Thiamine, Carnitine, and Coenzyme Q10</summary><div class="details-content">
 
 Micronutrient deficiencies are frequently encountered in patients with advanced HFrEF as a consequence of anorexia, cardiac cachexia, impaired gastrointestinal absorption, and accelerated urinary losses. Thiamine (vitamin B1) serves as an essential cofactor for pyruvate dehydrogenase and $\alpha$-ketoglutarate dehydrogenase in the citric acid cycle; chronic aggressive loop diuretic therapy substantially accelerates urinary thiamine excretion, precipitating subclinical or overt beriberi-like cardiac metabolic failure. Thiamine replacement (100–200 mg daily) should be administered when biochemical deficiency is suspected, particularly in patients with persistent biventricular failure despite escalating diuretic regimens.
 
@@ -745,7 +870,7 @@ L-carnitine is indispensable for the transport of long-chain fatty acids into mi
 
 <details class="med-details"><summary>
 
-### Antithrombotic and Anticoagulation Strategies in Sinus Rhythm and Atrial Fibrillation</summary><div class="details-content">
+### 9.9 Antithrombotic and Anticoagulation Strategies in Sinus Rhythm and Atrial Fibrillation</summary><div class="details-content">
 
 Heart failure fulfills all three components of Virchow's classic triad of thrombogenesis: circulatory stasis within dilated, hypokinetic cardiac chambers; endothelial dysfunction accompanied by elevated von Willebrand factor; and a systemic hypercoagulable state characterized by increased platelet reactivity, elevated thrombin generation, and impaired endogenous fibrinolysis. In patients with concomitant atrial fibrillation (AFib), full therapeutic oral anticoagulation is mandatory to prevent cardioembolic stroke, with direct oral anticoagulants (DOACs: apixaban, rivaroxaban, dabigatran, edoxaban) strongly favored over warfarin due to superior safety profiles and significantly reduced rates of intracranial hemorrhage.
 
@@ -757,7 +882,7 @@ Specific clinical indications for anticoagulation in sinus rhythm remain restric
 
 <details class="med-details"><summary>
 
-### Statins in Heart Failure: The CORONA and GISSI-HF Trials and the Cholesterol Paradox</summary><div class="details-content">
+### 9.10 Statins in Heart Failure: The CORONA and GISSI-HF Trials and the Cholesterol Paradox</summary><div class="details-content">
 
 Hydroxymethylglutaryl-coenzyme A (HMG-CoA) reductase inhibitors (statins) provide transformative primary and secondary prevention in atherosclerotic cardiovascular disease. In patients with Stage A and Stage B heart failure secondary to coronary artery disease, statins prevent ischemic injury, stabilize vulnerable plaques, and reduce incident heart failure events. However, in patients with established, overt chronic HFrEF, statin therapy has failed to demonstrate clinical benefit in large randomized prospective outcome trials.
 
@@ -769,7 +894,7 @@ This neutral efficacy reflects the complex 'cholesterol paradox' of end-stage he
 
 <details class="med-details"><summary>
 
-### Management of Arrhythmias in HFrEF: Antiarrhythmic Drug Safety and Catheter Ablation</summary><div class="details-content">
+### 9.11 Management of Arrhythmias in HFrEF: Antiarrhythmic Drug Safety and Catheter Ablation</summary><div class="details-content">
 
 Arrhythmias occur with high prevalence in HFrEF, contributing substantially to symptom deterioration, hemodynamic collapse, and sudden cardiac death. Atrial fibrillation affects up to 50% of advanced heart failure cohorts, leading to loss of atrial kick, irregular ventricular response, and tachycardia-induced cardiomyopathy. Management focuses on rate control or rhythm control depending on clinical stability and left ventricular functional recovery potential.
 
@@ -781,7 +906,7 @@ Amiodarone and dofetilide represent the only antiarrhythmic agents with proven n
 
 <details class="med-details"><summary>
 
-### Direct Renin Inhibitors: The ASTRONAUT and ATMOSPHERE Trials</summary><div class="details-content">
+### 9.12 Direct Renin Inhibitors: The ASTRONAUT and ATMOSPHERE Trials</summary><div class="details-content">
 
 The incomplete suppression of plasma renin activity during chronic ACE inhibitor or ARB therapy ('renin rebound') provided the mechanistic rationale for targeting the rate-limiting initial step of the RAAS cascade with direct renin inhibitors. Aliskiren binds the catalytic site of renin, preventing angiotensinogen cleavage into angiotensin I. Although early phase II trials (such as ALOFT) showed substantial reductions in plasma NT-proBNP and urinary aldosterone excretion, large-scale clinical outcome trials demonstrated absence of efficacy and marked clinical harm.
 
@@ -793,7 +918,7 @@ Similarly, the ATMOSPHERE trial evaluated 7006 chronic HFrEF patients randomized
 
 <details class="med-details"><summary>
 
-### ACC/AHA/HFSA Staged Treatment Algorithm for HFrEF (Stages C and D)</summary><div class="details-content">
+### 9.13 ACC/AHA/HFSA Staged Treatment Algorithm for HFrEF (Stages C and D)</summary><div class="details-content">
 
 The contemporary therapeutic approach to chronic heart failure with reduced ejection fraction demands early, coordinated implementation of guideline-directed medical therapy (GDMT) coupled with systematic device assessment ([Figure 3-8](#fig-03-08)). All patients with Stage C HFrEF (LVEF $\le 40\%$) must be rapidly initiated on the four foundational pillars: an ARNI (sacubitril/valsartan preferred) or ACEi/ARB, an evidence-based $\beta$-blocker (bisoprolol, carvedilol, or metoprolol succinate), an MRA (spironolactone or eplerenone), and an SGLT2 inhibitor (dapagliflozin or empagliflozin). Doses must be progressively up-titrated to target levels demonstrated in clinical trials.
 
@@ -811,11 +936,11 @@ Simultaneously, patients with persistent LVEF $\le 35\%$ despite $\ge 3\text{ mo
 
 <details class="med-details" open><summary>
 
-## Heart Failure with Preserved Ejection Fraction and Specific Cardiomyopathies</summary><div class="details-content">
+## 10. Heart Failure with Preserved Ejection Fraction and Specific Cardiomyopathies</summary><div class="details-content">
 
 <details class="med-details"><summary>
 
-### HFpEF & HFmrEF: Definition, Epidemiology, and the H2FPEF Diagnostic Score</summary><div class="details-content">
+### 10.1 HFpEF & HFmrEF: Definition, Epidemiology, and the H2FPEF Diagnostic Score</summary><div class="details-content">
 
 Heart failure with preserved ejection fraction (HFpEF; LVEF $\ge 50\%$) and heart failure with mildly reduced / mid-range ejection fraction (HFmrEF; LVEF 41–49%) represent at least half of all heart failure presentations worldwide. HFpEF predominates among elderly individuals, women, and patients with multimorbid metabolic disease—including essential hypertension, obesity, type 2 diabetes mellitus, chronic kidney disease, obstructive sleep apnea, and atrial fibrillation. The clinical trajectory of HFpEF is characterized by severe exercise intolerance, recurrent hospitalizations, and a high proportion of non-cardiovascular deaths driven by systemic multimorbidity.
 
@@ -827,7 +952,7 @@ To resolve diagnostic ambiguity in dyspneic outpatients, the validated $H_2\text
 
 <details class="med-details"><summary>
 
-### Diuretics and Hemodynamic Preload Constraints in Diastolic Dysfunction</summary><div class="details-content">
+### 10.2 Diuretics and Hemodynamic Preload Constraints in Diastolic Dysfunction</summary><div class="details-content">
 
 Loop diuretics (furosemide, bumetanide, torsemide) represent the principal pharmacological intervention for mitigating congestive symptoms and peripheral edema in HFpEF and HFmrEF. Clinical trials and hemodynamic registries confirm that loop diuretics effectively lower central venous pressure, relieve pulmonary venous hypertension, and improve functional functional capacity in volume-overloaded patients.
 
@@ -839,7 +964,7 @@ Optimal management mandates cautious, dynamic diuretic dosing targeting the lowe
 
 <details class="med-details"><summary>
 
-### Neurohormonal Inhibition in HFpEF: PEP-CHF, CHARM-Preserved, I-PRESERVE, and TOPCAT</summary><div class="details-content">
+### 10.3 Neurohormonal Inhibition in HFpEF: PEP-CHF, CHARM-Preserved, I-PRESERVE, and TOPCAT</summary><div class="details-content">
 
 Extensive clinical trial programs have evaluated whether neurohormonal antagonists that reduce mortality in HFrEF provide comparable efficacy in HFpEF. ACE inhibitors were investigated in the PEP-CHF trial (Perindopril in Elderly People with Chronic Heart Failure; 850 patients with LVEF $\ge 40\%$), which demonstrated a trend toward reduced heart failure hospitalizations at 1 year (HR 0.69; $P = 0.055$), but no long-term benefit on total mortality or cardiovascular events over extended follow-up. Angiotensin receptor blockers were assessed in two large-scale trials: CHARM-Preserved (candesartan; 3023 patients with LVEF $\ge 40\%$) and I-PRESERVE (irbesartan 300 mg daily; 4128 patients with LVEF $\ge 45\%$). CHARM-Preserved observed a moderate reduction in heart failure hospitalizations (HR 0.85; $P = 0.017$), but I-PRESERVE yielded completely neutral results on all-cause mortality (5.2 vs. 5.2 per 100 patient-years; HR 1.00; $P = 0.98$) and cardiovascular hospitalizations.
 
@@ -851,7 +976,7 @@ Crucially, profound regional variation invalidated the overall trial results: pa
 
 <details class="med-details"><summary>
 
-### ARNI and SGLT2 Inhibitors in HFpEF and HFmrEF: PARAGON-HF, EMPEROR-Preserved, and DELIVER</summary><div class="details-content">
+### 10.4 ARNI and SGLT2 Inhibitors in HFpEF and HFmrEF: PARAGON-HF, EMPEROR-Preserved, and DELIVER</summary><div class="details-content">
 
 Dual angiotensin receptor-neprilysin inhibition was evaluated in the phase III PARAGON-HF trial, which enrolled 4796 patients with symptomatic heart failure, LVEF $\ge 45\%$, elevated natriuretic peptides, and structural heart disease, randomized to sacubitril/valsartan (target 97/103 mg twice daily) or valsartan (160 mg twice daily). Over a median follow-up of 35 months, sacubitril/valsartan achieved an overall 13% relative reduction in total heart failure hospitalizations and cardiovascular death, narrowly missing the threshold for conventional statistical significance (RR 0.87; 95% CI 0.75–1.01; $P = 0.059$). However, pre-specified subgroup analyses revealed significant heterogeneity: robust clinical benefits were observed in individuals with LVEF below the median (LVEF 45–57%; RR 0.78; $P = 0.03$) and in women (RR 0.73; $P = 0.017$). This evidence established that neurohormonal blockade retains efficacy across the mid-range and lower-preserved ejection fraction spectrum, leading the FDA to expand sacubitril/valsartan's indication to include heart failure with LVEF 'below normal'.
 
@@ -863,7 +988,7 @@ Shortly thereafter, the DELIVER trial randomized 6263 patients with LVEF $>40\%$
 
 <details class="med-details"><summary>
 
-### Role of Beta-Blockers, CCBs, Digoxin, and Ivabradine Across the EF Spectrum</summary><div class="details-content">
+### 10.5 Role of Beta-Blockers, CCBs, Digoxin, and Ivabradine Across the EF Spectrum</summary><div class="details-content">
 
 Beta-adrenergic antagonists lack randomized controlled trial evidence demonstrating mortality or hospitalization reduction in pure HFpEF. Large registries, such as OPTIMIZE-HF, demonstrated no survival or rehospitalization benefit associated with $\beta$-blocker therapy at discharge. Furthermore, chronotropic incompetence—the inability to adequately increase sinus rate during physical exertion—affects up to 30% to 50% of HFpEF patients; in these individuals, aggressive $\beta$-blockade exacerbates exercise intolerance by artificially restricting cardiac output reserve. Beta-blockers remain indicated in HFpEF only for specific coexisting conditions: rate control in atrial fibrillation, symptomatic angina, or post-myocardial infarction secondary prevention. In contrast, in HFmrEF (LVEF 41–49%), meta-analyses demonstrate that $\beta$-blockers confer substantial reductions in cardiovascular mortality, behaving similarly to HFrEF.
 
@@ -875,7 +1000,7 @@ Ivabradine was formally investigated in HFpEF in the randomized, double-blind ED
 
 <details class="med-details"><summary>
 
-### Nitric Oxide-cGMP Pathway Modulators: RELAX, NEAT-HFpEF, and sGC Stimulators</summary><div class="details-content">
+### 10.6 Nitric Oxide-cGMP Pathway Modulators: RELAX, NEAT-HFpEF, and sGC Stimulators</summary><div class="details-content">
 
 Impairment of the vascular endothelial nitric oxide (NO)–cyclic guanosine monophosphate (cGMP)–protein kinase G (PKG) signaling axis is a central molecular hallmark of HFpEF. Comorbidity-induced microvascular oxidative stress promotes uncoupling of endothelial nitric oxide synthase (eNOS) and generates reactive oxygen species that rapidly convert NO to peroxynitrite. The resulting deficit in active cGMP inhibits PKG, precipitating hypophosphorylation of the giant cytoskeletal elastic protein titin, which increases resting myofilament stiffness and amplifies myocardial passive diastolic tension.
 
@@ -887,7 +1012,7 @@ Consequently, practice guidelines explicitly issue a strong recommendation again
 
 <details class="med-details"><summary>
 
-### Reverse Cardiac Remodeling: Biological Remission Versus Clinical Recovery (TRED-HF)</summary><div class="details-content">
+### 10.7 Reverse Cardiac Remodeling: Biological Remission Versus Clinical Recovery (TRED-HF)</summary><div class="details-content">
 
 Guideline-directed medical therapy (GDMT), cardiac resynchronization therapy (CRT), and mechanical unloading with left ventricular assist devices can induce dramatic 'reverse cardiac remodeling' in chronic HFrEF. Reverse remodeling is defined by normalization of left ventricular ejection fraction (LVEF $\ge 50\%$), substantial reductions in left ventricular end-diastolic and end-systolic volume indices, and normalization of circulating biomarkers—a clinical phenotype now formally classified as Heart Failure with Improved Ejection Fraction (HFimpEF).
 
@@ -899,7 +1024,7 @@ The trial demonstrated unequivocal results: within six months of medication with
 
 <details class="med-details"><summary>
 
-### Harmful Drug Interactions and Medications That Must Be Avoided in Heart Failure</summary><div class="details-content">
+### 10.8 Harmful Drug Interactions and Medications That Must Be Avoided in Heart Failure</summary><div class="details-content">
 
 Polypharmacy is exceptionally prevalent among heart failure patients, creating extensive susceptibility to iatrogenic decompensation, drug-induced organ toxicity, and fatal proarrhythmias. Specific drug classes that must be strictly avoided or used with extreme caution include:
 
@@ -917,7 +1042,7 @@ Polypharmacy is exceptionally prevalent among heart failure patients, creating e
 
 <details class="med-details"><summary>
 
-### ATTR Cardiac Amyloidosis: Pathophysiology and Breakthrough Therapies (Tafamidis, Patisiran)</summary><div class="details-content">
+### 10.9 ATTR Cardiac Amyloidosis: Pathophysiology and Breakthrough Therapies (Tafamidis, Patisiran)</summary><div class="details-content">
 
 Cardiac amyloidosis is a life-threatening infiltrative cardiomyopathy caused by the extracellular deposition of insoluble, misfolded amyloid fibrils within the myocardial interstitium. The predominant forms are light-chain (AL) amyloidosis, arising from clonal plasma cell dyscrasias, and transthyretin (ATTR) amyloidosis, which exists as a hereditary variant (ATTRv, caused by mutations in the *TTR* gene such as Val122Ile or Thr60Ala) or an acquired wild-type form (ATTRwt, formerly termed senile systemic amyloidosis). ATTRwt represents an increasingly recognized, vastly underdiagnosed cause of HFpEF and low-flow severe aortic stenosis in older men.
 
@@ -929,7 +1054,7 @@ Crucially, standard heart failure medications are poorly tolerated and frequentl
 
 <details class="med-details"><summary>
 
-### Hypertrophic Cardiomyopathy (HCM): Medical Management and Mavacamten</summary><div class="details-content">
+### 10.10 Hypertrophic Cardiomyopathy (HCM): Medical Management and Mavacamten</summary><div class="details-content">
 
 Hypertrophic cardiomyopathy (HCM) is the most common monogenic cardiovascular disorder (prevalence ~ 1 in 500), characterized by unexplained asymmetric left ventricular hypertrophy, dynamic left ventricular outflow tract (LVOT) obstruction (present at rest or with physiological provocation in ~ 70% of patients), diastolic dysfunction, microvascular ischemia, and susceptibility to ventricular tachyarrhythmias.
 
@@ -941,7 +1066,7 @@ A paradigm-shifting breakthrough occurred with the development of mavacamten, a 
 
 <details class="med-details"><summary>
 
-### Specific Cardiomyopathies: Chagas, Peripartum, Takotsubo, and Fabry Disease</summary><div class="details-content">
+### 10.11 Specific Cardiomyopathies: Chagas, Peripartum, Takotsubo, and Fabry Disease</summary><div class="details-content">
 
 Several distinct cardiomyopathic etiologies necessitate tailored diagnostic and therapeutic strategies:
 
@@ -957,7 +1082,7 @@ Several distinct cardiomyopathic etiologies necessitate tailored diagnostic and 
 
 <details class="med-details"><summary>
 
-### Future Perspectives: Molecular Targets, Gene Editing, and Novel Therapeutics</summary><div class="details-content">
+### 10.12 Future Perspectives: Molecular Targets, Gene Editing, and Novel Therapeutics</summary><div class="details-content">
 
 The management of heart failure continues to evolve toward precision medicine guided by molecular phenotyping and genetic engineering. In HFrEF, therapies targeting calcium handling—such as istaroxime (which simultaneously inhibits $Na^+/K^+$-ATPase and stimulates sarcoplasmic reticulum $Ca^{2+}$-ATPase [SERCA2a])—offer positive inotropy without provoking intracellular calcium overload, oxygen waste, or fatal arrhythmias. Omecamtiv mecarbil selectively binds cardiac myosin to prolong systolic ejection time without increasing intracellular calcium transients, representing a proven inotropic option for advanced systolic dysfunction.
 
@@ -969,7 +1094,7 @@ At the genetic frontier, adeno-associated viral (AAV) vector-mediated gene deliv
 
 <details class="med-details"><summary>
 
-### Summary of Clinical Recommendations for Heart Failure Pharmacotherapy</summary><div class="details-content">
+### 10.13 Summary of Clinical Recommendations for Heart Failure Pharmacotherapy</summary><div class="details-content">
 
 1. Heart failure encompasses distinct hemodynamic and clinical phenotypes—acute decompensated heart failure (ADHF), chronic HFrEF, HFmrEF, and HFpEF—each demanding precise, phenotype-specific pharmacotherapy.
 

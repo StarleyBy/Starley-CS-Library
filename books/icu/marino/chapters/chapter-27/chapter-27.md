@@ -1,313 +1,252 @@
-# Chapter 27
+# Conventional Mechanical Ventilation
 
-# **Conventional Mechanical Ventilation**
+> *Medicine is a science which has been more laboured than advanced. For I find much iteration, but small addition.*
+> 
+> — Sir Francis Bacon
 
-*Medicine is a science which has been more laboured than advanced. For I find much iteration, but small addition.*
+The earliest mechanical ventilators, introduced in 1920, were negative-pressure chambers known as *iron lungs* that enclosed the patient from the neck to the feet. These behemoths (early models weighed approximately one ton) remained the predominant mode of ventilatory support until the devastating poliomyelitis epidemic in 1950, when the demand for assisted ventilation overwhelmed the supply of negative-pressure chambers. In Copenhagen, tracheostomies were rapidly adopted, and medical students worked in 8-hour shifts as human ventilators, manually bagging the lungs of stricken patients. Concurrently in Boston, a prototype positive-pressure lung ventilator designed by the Emerson Company was deployed at the Massachusetts General Hospital, achieving immediate clinical success.
 
-Sir Francis Bacon (*[a](#page-14-0)*)
+Seven decades (70 years) later, an estimated 174 different modes of mechanical ventilation are available on modern intensive care ventilators. However, only one strategy has consistently demonstrated improved clinical outcomes: lung protective ventilation with low tidal volumes, and solely because it limits the iatrogenic pulmonary damage inflicted by positive pressure itself. Mechanical ventilation is often made far more complicated than necessary; in practice, simpler approaches yield superior outcomes.
 
-The earliest ventilators (introduced in the late 1920s) were negative pressure chambers known as *iron lungs* that enclosed the patient from the neck to the ankles. These behemoths (early models weighed about a ton) were the sole means of ventilatory support until the polio epidemic in the 1950's, when the demand for assisted ventilation exceeded the supply of iron lungs. In Copenhagen, Denmark, tracheostomies were introduced, and medical students worked in 8 hour shifts as human ventilators, manually inflating the lungs of afflicted patients [\(1](#page-14-1)). In Boston, the local Emerson Company had a prototype device for positive pressure lung inflations, which was put to use at the Massachusetts General Hospital, and became an instant success.
+This chapter details the fundamental principles of conventional positive-pressure mechanical ventilation, providing the physiological foundation required to manage the overwhelming majority of critically ill patients.
 
-Fast forward about 70 years, and there are estimated 174 different modes of ventilation ([2\)](#page-14-2). However, only one has shown evidence of improved clinical outcomes [\(3](#page-14-3)[,4](#page-14-4)), and only because it limits the lung damage produced by positive pressure ventilation (see Chapter 24). What this means is that mechanical ventilation is much more complicated than it needs to be, and that "less is better" with this form of support.
+<details class="med-details" open><summary>
 
-This chapter describes the basic methods of positive pressure ventilation. Although far fewer than the bloated number of available methods, they will provide effective ventilatory support for most (if not all) of your patients.
+## Executive Summary</summary><div class="details-content">
 
-## **THE VENTILATOR BREATH**
+- **Ventilator Breath Types:** In volume-control ventilation (VCV), a preset tidal volume ($V_T$) is delivered at a constant flow rate, causing airway pressure to rise progressively. In pressure-control ventilation (PCV), a preset inspiratory pressure is applied with a decelerating flow pattern, reaching peak pressure early with variable tidal volume.
+- **Plateau Pressure and Mechanics:** An end-inspiratory pause (inflation hold) eliminates airflow resistance ($P_{\text{res}}$), revealing alveolar pressure ($P_{\text{plateau}}$), which reflects chest wall and lung elastance ($P_{\text{el}}$): $P_{\text{peak}} = P_{\text{res}} + P_{\text{el}}$. Alveolar overdistension and volutrauma are minimized when $P_{\text{plateau}} \leq 30\text{ cm H}_2\text{O}$.
+- **Thoracic Compliance:** Static compliance ($C_{\text{stat}} = V_T / [P_{\text{plateau}} - \text{PEEP}_{\text{tot}}]$) normal values range between 50 and 80 mL/$\text{cm H}_2\text{O}$, falling to $< 25\text{ mL/cm H}_2\text{O}$ in ARDS or pulmonary edema. Measurements must account for ventilator circuit tubing compliance ($\sim 3\text{ mL/cm H}_2\text{O}$).
+- **End-Expiratory Pressure:** Occult (auto/intrinsic) PEEP occurs when expiratory flow fails to reach zero prior to the next inspiration (dynamic hyperinflation). It is quantified via an end-expiratory occlusion hold in passively breathing patients.
+- **Assist-Control Ventilation (ACV):** Delivers fully assisted volume- or pressure-cycled breaths for every trigger effort. Flow-triggering (1–10 L/min) is the standard modality, significantly reducing work of breathing compared to negative pressure triggering.
+- **Synchronized Intermittent Mandatory Ventilation (SIMV):** Permits spontaneous breaths between set machine breaths, augmented with pressure support ($\sim 10\text{ cm H}_2\text{O}$). Indicated for rapid breathing with severe alkalemia or occult PEEP during ACV; contraindicated in diaphragmatic exhaustion and severe left ventricular failure.
+- **Best PEEP Concept:** PEEP prevents small airway collapse (atelectrauma) and recruits non-aerated alveoli. However, excessive PEEP overdistends healthy lung units (volutrauma) and compresses pulmonary capillaries, increasing right ventricular afterload and decreasing cardiac output. "Best PEEP" balances lung recruitment (maximal compliance, minimal driving pressure) with systemic oxygen delivery ($\text{DO}_2$).
+- **Lung Protective Strategy:** Initial settings for acute respiratory failure: volume control ACV, initial $V_T = 8\text{ mL/kg}$ predicted body weight (PBW), down-titrated over 2 hours to 6 mL/kg PBW, initial PEEP 5–8 $\text{cm H}_2\text{O}$, target $P_{\text{plateau}} \leq 30\text{ cm H}_2\text{O}$, and $\text{I:E ratio} \geq 1:2$.
+</div></details>
 
-There are two basic methods of positive-pressure lung inflation. These are summarized below, and are illustrated in [Figure](#page-1-0) 27.1.
+<details class="med-details" open><summary>
 
-- 1. *Volume-control ventilation*, where the desired inflation volume (tidal volume) is preselected. The gas is delivered at a constant flow rate, and there is a steady rise in volume and airway pressure until the target volume is reached. Exhalation is then passive.
-- 2. *Pressure-control ventilation*, where the desired inflation pressure is preselected. In this case,
+## The Ventilator Breath</summary><div class="details-content">
 
-the inspiratory flow rate has a decelerating pattern, with the peak flow rate in the initial phase of inspiration, and the flow rate then decreasing to zero by the end of inspiration. Because of this flow profile, the increments in lung volume and airway pressure are greater in the early phase of inspiration. The desired (peak) pressure is reached early, and a preselected inspiratory time then determines the end of inspiration. Exhalation occurs passively.
+Positive-pressure lung inflation is governed by two fundamental delivery methods, as illustrated in Figure 27.1.
 
-<span id="page-1-0"></span>![](_page_1_Figure_1.jpeg)
+![Figure 27.1](images/_page_1_Figure_1.jpeg)
 
-**FIGURE 27.1** Changes in lung volume, airway pressure, and flow rate during a single ventilator breath using volume control and pressure control methods of lung inflation. I = inspiration, E = expiration. See text for further explanation.
+**FIGURE 27.1** Changes in lung volume, airway pressure, and flow rate during a single ventilator breath using volume-control and pressure-control modes of lung inflation. $\text{I}$ = inspiration, $\text{E}$ = expiration.
 
-All variables (i.e., volume, pressure, and flow) are recorded and displayed by the ventilator, but the measurements are made at the level of the endotracheal tube, and may not reflect conditions in the distal airspaces (the alveoli). In addition, the airway pressures are measured as *transthoracic* pressures (i.e., airway pressure relative to atmospheric pressure), and are influenced by both the lungs and the chest wall. The measurement of *transpulmonary* pressure (i.e., airway pressure relative to pleural pressure) eliminates the influence of the chest wall, but requires an esophageal balloon to measure the intrapleural pressure.
+1. **Volume-Control Ventilation (VCV):** The operator sets a target tidal volume ($V_T$) and a constant inspiratory flow rate. Airway pressure rises linearly to a peak as the volume is delivered, after which expiration occurs passively.
+2. **Pressure-Control Ventilation (PCV):** The operator preselects the inspiratory pressure and inspiratory time ($T_I$). The inspiratory flow follows a decelerating profile, peaking immediately at breath initiation and tapering toward zero as lung units fill. Volume delivery depends entirely on respiratory system compliance and airway resistance.
 
-### **Volume Control**
+### Volume-Control Ventilation and Airway Pressures
 
-Volume-control ventilation (VCV) delivers a preselected tidal volume at a constant flow rate, and the peak airway pressure (Ppeak), is determined by the mechanical properties (resistance and elastance) of the lungs and chest wall. This can be expressed as follows:
+In VCV, peak airway pressure ($P_{\text{peak}}$) is the sum of pressure needed to overcome airway resistance ($P_{\text{res}}$) and pressure needed to distend the elastic recoil of the lungs and chest wall ($P_{\text{el}}$):
 
-$$Ppeak = Pres + Pel$$
- (27.1)
+$$P_{\text{peak}} = P_{\text{res}} + P_{\text{el}} \tag{27.1}$$
 
-where Pres is the pressure attributed to airflow resistance in the airways, and Pel is the pressure attributed to the elastic recoil force of the lungs and chest wall (elastance). (*Note:* Elastance is the resistance of an object to being deformed.)
+#### The Plateau Pressure and Inflation-Hold Maneuver
 
-#### *The Plateau Pressure*
+The individual contributions of resistance and elastance can be differentiated by applying a brief end-inspiratory occlusion (an inflation-hold maneuver lasting 0.5–1.0 second), as demonstrated in Figure 27.2. 
 
-The relative contributions of resistance and elastance to the peak airway pressure can be identified by briefly occluding the ventilator circuit at the end of lung inflation [\(5](#page-14-5)). This "inflation-hold" maneuver is illustrated in [Figure](#page-2-0) 27.2. The peak pressure decreases initially during the inflation hold, and then reaches a constant *plateau pressure* until the occlusion is released and exhalation proceeds. Since there is no airflow during the inflation hold maneuver, the plateau pressure is equivalent to the pressure in the alveoli (Palv), and this is the pressure generated by the elastic recoil force of the lungs and chest wall (Pel): i.e.,
+![Figure 27.2](images/_page_2_Figure_7.jpeg)
 
-$$Pplateau = Palv = Pel (27.2)$$
+**FIGURE 27.2** Airway pressure profile for a volume-controlled breath with an end-inspiratory occlusion (inflation-hold). $P_{\text{peak}}$ = peak airway pressure, $P_{\text{plateau}}$ = end-inspiratory occlusion pressure, $P_{\text{alv}}$ = alveolar pressure, $P_{\text{res}}$ = resistive pressure, and $P_{\text{el}}$ = elastic recoil pressure.
 
-(*Note:* Positive end-expiratory pressure or PEEP is used commonly during mechanical ventilation, as described later, and this must be subtracted from the plateau pressure to obtain the actual alveolar pressure.) The difference between the peak and plateau pressures is then the pressure needed to overcome the resistance to airflow (Pres): i.e.,
+When gas flow ceases at end-inspiration, the resistive pressure drops abruptly to zero, revealing a static plateau pressure ($P_{\text{plateau}}$). Because there is no flow, $P_{\text{plateau}}$ equals alveolar pressure ($P_{\text{alv}}$) and reflects purely the elastic distension of the lungs and chest wall:
 
-$$(Ppeak - Pplateau) = Pres$$
- (27.3)
+$$P_{\text{plateau}} = P_{\text{alv}} = P_{\text{el}} \tag{27.2}$$
 
-<span id="page-2-0"></span>![](_page_2_Figure_7.jpeg)
+#### Differentiating Resistance and Elastance
 
-**FIGURE 27.2** Airway pressure profile for a volume-controlled lung inflation with a brief endinspiratory occlusion (inflation-hold). Ppeak is the peak airway pressure, Pplateau is the endinspiratory occlusion pressure, Palv is the alveolar pressure, Pres is the pressure attributed to airway resistance, and Pel is the pressure attributed to the elastic recoil force of the lungs and chest wall. See text for explanation.
+The difference between peak and plateau pressure represents the resistive pressure dissipating across the conducting airways and endotracheal tube:
 
-**RISK OF ALVEOLAR INJURY:** The peak airway pressure is higher with VCV than with pressure control ventilation (see [Figure](#page-1-0) 27.1), and there is a misconception that this increases the risk of alveolar rupture. However, this risk is a function of the alveolar pressure; i.e., the plateau pressure. Clinical studies indicate that *the risk of alveolar rupture is negligible if the alveolar pressure (plateau pressure) is ≤30 cm H2O* [\(2](#page-14-2)[,4](#page-14-4)), and this is one of the major goals of *lung protective ventilation* [\(2](#page-14-2)), which is described later (see [Table](#page-12-0) 27.1).
+$$P_{\text{peak}} - P_{\text{plateau}} = P_{\text{res}} \tag{27.3}$$
 
-#### *Advantages*
+An elevation in $P_{\text{peak}}$ with an unchanged $P_{\text{plateau}}$ signals increased airway resistance (bronchospasm, secretions, kinking of the endotracheal tube). Conversely, a concurrent rise in both $P_{\text{peak}}$ and $P_{\text{plateau}}$ signals reduced thoracic compliance (pneumothorax, worsening pulmonary edema, pneumonia, abdominal distension).
 
-The major advantage of VCV is the ability to maintain a constant tidal volume despite changes in the mechanical properties of the lungs. This is especially important for limiting the tidal volumes used during mechanical ventilation, which is the basis of lung protective ventilation.
+#### Risk of Alveolar Injury
 
-## *Disadvantages*
+Peak airway pressure is higher during VCV than PCV, which historically prompted concern for barotrauma. However, alveolar stretch and tissue damage (volutrauma) are determined by alveolar pressure ($P_{\text{plateau}}$), not proximal peak circuit pressure. Extensive clinical trials establish that the risk of alveolar overdistension and rupture is negligible when $P_{\text{plateau}} \leq 30\text{ cm H}_2\text{O}$, which forms the foundational limit of lung protective mechanical ventilation.
 
-The constant inspiratory flow rate during VCV creates two potential disadvantages. First, the duration of inspiration is relatively short, and this can lead to uneven alveolar filling. Second, the maximum inspiratory flow is limited when flow is constant; as a result the inspiratory flow rate can be inadequate for patients with high ventilatory demands. A decelerating flow pattern is available for VCV, and has been shown to improve patient comfort ([6\)](#page-14-6).
+#### Advantages and Disadvantages of VCV
 
-## **Pressure Control**
+- **Advantages:** Guaranteed minute ventilation and precise tidal volume delivery, ensuring strict adherence to lung-protective protocols.
+- **Disadvantages:** Constant square-wave flow may fail to meet the instantaneous demands of tachypneic patients, causing flow starvation and patient-ventilator dyssynchrony. A decelerating flow pattern can improve comfort during volume-targeted ventilation.
 
-With pressure control ventilation (PCV), the desired inflation pressure is preselected, and a decelerating inspiratory flow rate provides high flows at the onset of the lung inflation, to attain the desired inflation pressure quickly. The inspiratory time is adjusted to allow enough time for the inspiratory flow rate to fall to zero at the end of inspiration. *Since there is no airflow at the end of the inspiration, the end-inspiratory airway pressure is equivalent to the alveolar pressure*.
+### Pressure-Control Ventilation
 
-#### *Advantages*
+In PCV, the target inspiratory pressure is held constant throughout the preset inspiratory time. The high initial flow rapidly fills lung units, promoting more homogeneous gas distribution and improving patient comfort in tachypneic individuals.
 
-The major advantage of PCV is the increased patient acceptance and reduced risk of ventilatory asynchrony when compared to VCV [\(7](#page-14-7)). This advantage is attributed to the high initial flow rates and the longer duration of inspiration with PCV.
+#### Advantages and Disadvantages of PCV
 
-### *Disadvantages*
+- **Advantages:** Decelerating flow matches patient demand, reduces peak airway pressures, and promotes more uniform alveolar ventilation in heterogeneous lung disease.
+- **Disadvantages:** Tidal volume varies dynamically with changes in patient compliance and airway resistance. Bronchospasm or worsening edema will cause tidal volume to plummet, whereas improving compliance risks unexpected alveolar overdistension.
 
-The major disadvantage with PCV is the change in tidal volume that occurs with changes in airway resistance or lung elastance, since this can increase the risk of alveolar overdistension and ventilator-induced lung injury (see Chapter 24). However, this disadvantage is corrected with the adaptive mode of ventilation described next.
+#### Pressure-Regulated Volume Control
 
-### *Pressure-Regulated, Volume Control*
+Pressure-regulated volume control (PRVC) combines the attributes of both modes. The ventilator delivers decelerating flow breaths while test-measuring lung compliance on each cycle, continuously adjusting the required inspiratory pressure to deliver the preselected target tidal volume at the lowest feasible airway pressure. However, in patients with vigorous, erratic breathing drives, PRVC can cause inappropriate pressure reductions and dyssynchrony.
 
-Pressure-regulated, volume control ventilation (PRVC) is an adaptive mode of ventilation that provides a constant tidal volume (like volume control) but limits the end-inspiratory airway pressures (like pressure control). PRVC operates like an intelligent form of volume control; i.e., the ventilator monitors lung compliance, and uses these measurements to select the lowest airway pressure needed to deliver the desired tidal volume (8). This has become a popular mode of mechanical ventilation, but patients with a high ventilatory drive may not receive the needed
+### End-Expiratory Pressure
 
-inspiratory flow rate, leading to ventilator asynchrony (9).
+End-expiratory pressure represents the lowest baseline pressure present in the alveoli at the completion of expiration (Figure 27.3).
 
-## **End-Expiratory Pressure**
+![Figure 27.3](images/_page_4_Figure_9.jpeg)
 
-The end-expiratory pressure is the minimum pressure in the alveoli during a ventilatory cycle. The different forms of end-expiratory pressure are illustrated in [Figure](#page-4-0) 27.3.
+**FIGURE 27.3** Forms of end-expiratory pressure: ZEEP, applied extrinsic PEEP, and occult (intrinsic/auto) PEEP revealed by an end-expiratory hold.
 
-#### *ZEEP*
+- **ZEEP (Zero End-Expiratory Pressure):** In quiet breathing with unobstructed airways, alveolar pressure equilibrates with atmospheric pressure at the end of expiration.
+- **Applied PEEP:** Positive end-expiratory pressure added extrinsically via an exhalation threshold resistor valve in the ventilator circuit. Applied PEEP prevents terminal alveolar collapse and recruits flooded or atelectatic lung units.
+- **Occult (Intrinsic or Auto) PEEP:** When expiration is truncated before the lungs fully deflate, gas remains trapped, and alveolar pressure remains positive even though proximal airway pressure reads zero. Occult PEEP is prominent in obstructive diseases (COPD, asthma) and during ventilation with high respiratory rates or inadequate expiratory time.
 
-During appropriate ventilation in the normal lung, there is no airflow at the end of expiration, and the pressure in the alveoli is equivalent to atmospheric pressure. Since atmospheric pressure is a zero reference point for breathing, this condition is called *zero end-expiratory pressure*, or ZEEP.
+#### Detecting Occult PEEP
 
-#### *Applied PEEP*
+Occult PEEP is visually identified on flow-time scalar waveforms when expiratory flow fails to return to zero prior to the initiation of the next breath. In a passively breathing, non-effortful patient, occult PEEP is quantified by performing an end-expiratory occlusion maneuver, which allows alveolar pressure to equilibrate with the proximal circuit sensor (Figure 27.3).
 
-Positive end-expiratory pressure (PEEP) can be added through the ventilatory circuit (via a pressure-sensitive valve in the expiratory limb of the circuit) so that exhalation will cease when the airway pressure falls to the preselected PEEP level. Applied PEEP is used routinely during mechanical ventilation to prevent the collapse of small airways at the end of expiration, and to open collapsed alveoli (recruitment). The uses, advantages, and disadvantages of applied PEEP are described later in the chapter.
+### Mean Airway Pressure
 
-#### *Occult PEEP*
+Mean airway pressure ($P_{\text{mean}}$) is the average circuit pressure integrated over the entire respiratory cycle. It is influenced by peak pressure, waveform contour, PEEP level, inspiratory time fraction ($T_I/T_{\text{tot}}$), and respiratory rate. Typical $P_{\text{mean}}$ values are:
+- Normal lungs: 5–10 $\text{cm H}_2\text{O}$
+- Obstructive airway disease: 10–20 $\text{cm H}_2\text{O}$
+- Stiff, noncompliant lungs (ARDS): 20–30 $\text{cm H}_2\text{O}$
 
-When there is continued airflow at the end of expiration, the lungs do not completely empty, and the alveolar pressure remains positive even though the proximal airway pressure falls to atmospheric (zero) pressure. This pressure is sometimes called intrinsic PEEP or auto-PEEP, but *occult PEEP* is also used because the PEEP *is not apparent in proximal airway pressure recordings* (10). Occult PEEP can be the result of dynamic hyperinflation in patients with asthma and COPD, as described in Chapter 23, or it can be the result of ventilator settings that predispose to end-expiratory airflow (e.g., high tidal volumes, decreased time for exhalation).
+$P_{\text{mean}}$ correlates directly with the hemodynamic consequences of positive-pressure breathing and with mean alveolar recruitment.
 
-<span id="page-4-0"></span>![](_page_4_Figure_9.jpeg)
+### Thoracic Compliance
 
-**FIGURE 27.3** Different types of end-expiratory pressure. See text for explanation.
+Compliance ($\Delta V / \Delta P$) is the reciprocal of elastance, quantifying the distensibility of a hollow chamber. In mechanical ventilation, measured compliance reflects total thoracic compliance, incorporating both the lung parenchyma and the chest wall.
 
-Occult PEEP can be detected on the flow tracing by noting the presence of airflow at the end of expiration, as illustrated in Figure 23.5. If occult PEEP is present, it can be quantified by occluding the expiratory circuit at the end of expiration. During an end-expiratory occlusion, alveolar pressure will equilibrate with proximal airway pressure, and the occult PEEP becomes apparent as a abrupt increase in airway pressure, as shown in [Figure](#page-4-0) 27.3. This maneuver is successful *only in patients who have no respiratory efforts*. Occult PEEP is described in more detail in Chapter 28.
+#### Static Compliance in Volume-Control Ventilation
 
-#### **Mean Airway Pressure**
+During VCV with an end-inspiratory pause, static compliance ($C_{\text{stat}}$) is calculated as:
 
-The mean airway pressure is the average pressure in the airway during the ventilatory cycle, and is influenced by several variables, including the peak airway pressure, the contour of the pressure waveform, the PEEP level, the respiratory rate, and the inflation time relative to the total time of the ventilatory cycle (T<sup>I</sup> /Ttot). The mean airway pressure that is displayed by ventilators is obtained by integrating the area under the airway pressure waveform.
+$$C_{\text{stat}} = \frac{V_T}{P_{\text{plateau}} - \text{PEEP}_{\text{tot}}} \tag{27.4}$$
 
-The mean airway pressure is linked to the hemodynamic effects of positive pressure ventilation. (The intrapleural pressure is the important influence on cardiac function, but this pressure requires measurement with an intraesophageal balloon, and is not monitored routinely.) Typical values for mean airway pressure during positive pressure ventilation are 5–10 cm H2O for normal lungs, 10–20 cm H2O for airflow obstruction, and 20–30 cm H2O for noncompliant (stiff) lungs (11).
+where $\text{PEEP}_{\text{tot}}$ is total PEEP (applied extrinsic PEEP plus occult PEEP). In patients with normal lungs, $C_{\text{stat}}$ is 50–80 mL/$\text{cm H}_2\text{O}$. In infiltrative parenchymal disorders (ARDS, severe cardiogenic edema), $C_{\text{stat}}$ drops to $< 25\text{ mL/cm H}_2\text{O}$.
 
-## **Thoracic Compliance**
+#### Static Compliance in Pressure-Control Ventilation
 
-Compliance (∆volume/∆pressure) is the reciprocal of elastance, and is the traditional term used to express the elastic properties of structures with chambers (like the heart and lungs). Compliance expresses *distensibility*, or the tendency of a chamber to increase in volume when exposed to a given distending pressure. The compliance that is measured during mechanical ventilation is a *thoracic compliance*, and includes both the lungs and the chest wall.
+During PCV, when inspiratory flow decelerates to zero at end-inspiration, end-inspiratory airway pressure ($P_{\text{aw}}$) equals alveolar pressure, and $C_{\text{stat}}$ is calculated using the exhaled tidal volume ($V_T$):
 
-#### *Volume-Control Ventilation*
+$$C_{\text{stat}} = \frac{\text{Exhaled } V_T}{P_{\text{aw}}(\text{end-insp}) - \text{PEEP}_{\text{tot}}} \tag{27.5}$$
 
-During VCV, the static compliance of the thorax (Cstat) is expressed as the preselected tidal volume (VT) divided by the difference between the plateau pressure and the total PEEP level (applied plus occult PEEP):
+#### Sources of Error in Compliance Calculations
 
-$$Cstat = V_T/[Pplateau - PEEP(tot)]$$
- (27.4)
+1. **Chest Wall Muscle Contraction:** During passive ventilation, the chest wall contributes approximately 35% of total thoracic elastance. Active patient muscle tone distorts pressure readings; compliance should only be measured in relaxed or sedated patients without active respiratory efforts.
+2. **Volume-Dependence:** Compliance decreases nonlinearly at high lung volumes. Serial comparisons must be performed at identical tidal volumes.
+3. **Tubing Circuit Compressibility:** Ventilator tubing expands under pressure, absorbing approximately 3 mL/$\text{cm H}_2\text{O}$ of delivered volume. If delivered $V_T = 500\text{ mL}$ and $P_{\text{peak}} = 40\text{ cm H}_2\text{O}$, $3 \times 40 = 120\text{ mL}$ is lost to circuit expansion, delivering only 380 mL to the patient.
+</div></details>
 
-This is a "static" compliance because the pressures involved are measured in the absence of airflow. In patients with normal lungs, Cstat is 50–80 mL/cm H2O (12), and in patients with infiltrative lung diseases (e.g., pulmonary edema or acute respiratory distress syndrome), Cstat is typically <25 mL/cm H2O (13).
+<details class="med-details" open><summary>
 
-#### *Pressure-Control Ventilation*
+## Assist-Control Ventilation</summary><div class="details-content">
 
-During PCV, Cstat is the exhaled tidal volume (exhaled VT) divided by the difference between the end-inspiratory airway pressure (Paw) and the total PEEP level:
+Assist-control ventilation (ACV) guarantees a preset baseline respiratory rate while enabling the patient to trigger additional full-volume or full-pressure assisted breaths (Figure 27.4).
 
-#### *Sources of Error*
+![Figure 27.4](images/_page_7_Figure_0.jpeg)
 
-- 1. During passive ventilation, the chest wall can account for 35% of the total thoracic compliance (14,15), and this contribution increases when the chest wall muscles contract. Therefore, to avoid errors in interpreting changes in thoracic compliance, the *compliance measurements should be performed in patients with minimal or no breathing efforts*.
-- 2. Thoracic compliance is volume-dependent; i.e., it decreases as lung volume increases. Absolute lung volumes cannot be measured during mechanical ventilation, so *compliance measurements should be performed at the same tidal volume*.
-- 3. The tidal volume used for the compliance measurement should be adjusted for the compliance of the ventilator tubing, which is typically 3 mL/cm H2O (13). For example, if the preselected tidal volume during VCV is 500 mL and the peak airway pressure is 40 cm H2O, then 3 × 40 = 120 mL of the delivered volume will be lost to expansion of the ventilator tubing, and the actual tidal volume reaching the patient will be 500 – 120 = 380 mL. When using exhaled tidal volumes during PCV, the airway pressure at end-inspiration should be used for the volume adjustments.
+**FIGURE 27.4** Airway pressure waveforms in assist-control ventilation (ACV) and synchronized intermittent mandatory ventilation (SIMV).
 
-## **ASSIST-CONTROL VENTILATION**
+### Triggering Mechanisms
 
-Assist-control ventilation (ACV) allows the patient to initiate the ventilator breath, but if this is not possible, ventilator breaths are delivered at a preselected rate (controlled or time-triggered ventilation). The ventilator breaths during ACV can be volume-cycled or pressure-cycled.
+Breaths in ACV are either patient-triggered (initiating from patient effort) or time-triggered (delivered automatically if the patient fails to breathe within a preset interval).
 
-<span id="page-7-0"></span>![](_page_7_Figure_0.jpeg)
+- **Pressure Triggering:** The patient must generate a negative airway pressure swing of 2–3 $\text{cm H}_2\text{O}$ to open the inspiratory valve. Approximately one-third of patient inspiratory efforts fail to trigger a breath with pressure triggering due to auto-PEEP or weakness.
+- **Flow Triggering:** The ventilator maintains a continuous baseline bias flow through the circuit. When the patient begins to inhale, a portion of this flow is diverted into the patient's lungs. When the returning expiratory flow drops by a preset threshold (typically 1–10 L/min), inspiration is triggered immediately. Flow triggering requires minimal patient work and is the current worldwide standard.
 
-**FIGURE 27.4** Airway pressure patterns in assist-control ventilation (ACV) and synchronized intermittent mandatory ventilation (SIMV). See text for further explanation.
+### The Respiratory Cycle and I:E Ratio
 
-## **Triggers**
+Mechanical ventilation requires sufficient expiratory time to prevent air trapping. The inspiratory-to-expiratory time ratio (I:E ratio) should normally be maintained at $\geq 1:2$. When expiratory time is curtailed, the I:E ratio can be expanded by:
+1. Increasing peak inspiratory flow rate.
+2. Reducing tidal volume.
+3. Decreasing inspiratory time ($T_I$) in pressure-targeted modes.
 
-The ventilator breaths in ACV can be initiated (triggered) in two ways, as shown in the upper panel of [Figure](#page-7-0) 27.4. The pressure waveform on the left is preceded by a negative pressure deflection, which represents a spontaneous inspiratory effort by the patient. This is a *patienttriggered* ventilator breath. The pressure waveform on the right is not preceded by a negative pressure deflection, indicating the absence of a spontaneous inspiratory effort. In this case, there is no interaction between the patient and the ventilator, and the ventilator breaths are delivered at a preselected rate. This is a *time-triggered* ventilator breath.
+In patients breathing rapidly on ACV, every breath triggers a full tidal volume, drastically reducing expiratory time and multiplying the risk of dynamic hyperinflation and occult PEEP.
+</div></details>
 
-### *Patient-Related Triggers*
+<details class="med-details" open><summary>
 
-There are two types of signals that allow patients to trigger a ventilator breath: negative pressure and inspiratory flow rate.
+## Intermittent Mandatory Ventilation</summary><div class="details-content">
 
-**NEGATIVE PRESSURE:** Patients can trigger a ventilator breath by generating a negative airway pressure of 2 to 3 cm H2O, which opens a pressure-sensitive valve in the ventilator. Despite this low pressure requirement, about one-third of inspiratory efforts fail to trigger a ventilator breath when negative pressure is the trigger signal (16).
+Intermittent mandatory ventilation (IMV) was devised to permit spontaneous unassisted breathing between mandatory ventilator breaths, preventing respiratory alkalosis and air trapping in tachypneic patients.
 
-**FLOW RATE:** Flow triggering involves little or no change in pressures and volumes, and thus
+### Synchronization and Pressure Support
 
-involves less mechanical work than pressure triggering. For this reason, flow has replaced pressure as the standard trigger mechanism. The flow rate that is required to trigger a ventilator breath differs for each brand of ventilator, but rates of 1–10 L/min are usually required. Autotriggering from system leaks (which create flow changes) is the major problem associated with flow triggering (17).
+In modern practice, mandatory breaths are synchronized to the patient's spontaneous efforts (**Synchronized IMV / SIMV**), as shown in the lower panel of Figure 27.4. Spontaneous breaths taken between mandatory cycles are typically augmented with pressure support (e.g., 10 $\text{cm H}_2\text{O}$) to overcome the internal resistance of the endotracheal tube and breathing circuit.
 
-## **The Respiratory Cycle**
+### Adverse Effects of SIMV
 
-A general rule of thumb during mechanical ventilation is to allow at least twice the amount of time for expiration as allowed for inspiration. This is equivalent to an inspiration:expiration time ratio (I:E ratio) of at least 1:2. The goal is to allow enough time for complete exhalation to prevent dynamic hyperinflation and intrinsic or occult PEEP (see Figure 23.5) If the duration of exhalation is too short, the I:E ratio can be increased by: (a) increasing the inspiratory flow rate, (b) reducing the tidal volume, or (c) decreasing the inspiratory time (for pressure control).
+1. **Increased Work of Breathing:** Breathing through the circuit without adequate pressure support significantly increases diaphragmatic workload and can induce muscle fatigue.
+2. **Decreased Cardiac Output:** While positive-pressure breaths reduce left ventricular afterload, spontaneous negative-pressure breaths increase left ventricular afterload. In patients with severe left ventricular systolic dysfunction, switching from ACV to SIMV can precipitate acute heart failure and drop cardiac output.
 
-#### *Rapid Breathing*
+### Clinical Indications
 
-When each breath is a patient-triggered ventilator breath, rapid breathing like that shown in [Figure](#page-7-0) 27.4 can severely curtail the time for exhalation and increase the risk of dynamic hyperinflation and occult PEEP. When rapid breathing is the result of a condition other than discomfort or anxiety, attempts to reduce the respiratory rate with sedation or inspiratory flow adjustments are often unsuccessful. In this situation, the ventilator mode described next may be the answer.
+The primary indication for SIMV is rapid, tachypneic breathing during ACV that causes respiratory alkalosis and occult PEEP refractory to adjustments in flow and sedation. SIMV is contraindicated in patients with severe respiratory muscle fatigue or decompensated left heart failure.
+</div></details>
 
-## **INTERMITTENT MANDATORY VENTILATION**
+<details class="med-details" open><summary>
 
-Difficulties with rapid breathing during ACV in neonates with respiratory distress syndrome, who typically have respiratory rates above 40 breaths/minute, led to the introduction of *intermittent mandatory ventilation* (IMV).
+## Positive End-Expiratory Pressure and Best PEEP</summary><div class="details-content">
 
-## **The Method**
+In acute lung injury, cyclical alveolar collapse at end-expiration followed by violent re-expansion on inspiration inflicts high shear stresses that tear epithelial linings, a mechanism known as *atelectrauma*. Applied PEEP splints open unstable lung units, maintaining patency throughout the ventilatory cycle.
 
-IMV is designed to allow spontaneous breathing between ventilator breaths. This is accomplished by placing a spontaneous breathing circuit in parallel with the ventilator circuit, with a unidirectional valve that opens the spontaneous breathing circuit when a ventilator breath is not being delivered. The ventilatory pattern in IMV is illustrated in the lower panel of Figure 27.4. Note that the ventilator breath is delivered in synchrony with the [spontaneous](#page-7-0) breath, which is called *synchronized IMV* (SIMV).
+### The Concept of Best PEEP
 
-The ventilator breaths during SIMV can be volume-cycled or pressure-cycled. The rate of ventilator breaths can be started at 10 breaths/min, and then adjusted as needed to achieve the desired minute ventilation (spontaneous plus assisted breaths).
+While moderate PEEP (5–10 $\text{cm H}_2\text{O}$) prevents end-expiratory collapse, higher levels (10–20 $\text{cm H}_2\text{O}$) actively recruit previously consolidated or fluid-filled alveoli, expanding the surface area for gas exchange. However, excessive PEEP overdistends compliant, normal alveoli, causing volutrauma and compressing intra-alveolar capillaries. "Best PEEP" represents the optimal pressure that maximizes alveolar recruitment while avoiding overdistension and circulatory depression.
 
-## **Adverse Effects**
+![Figure 27.5](images/_page_10_Figure_4.jpeg)
 
-The principal adverse effects of IMV are: (a) an increased work of breathing, and (b) a decrease in cardiac output, primarily in patients with left ventricular dysfunction. Both effects are the result of the spontaneous breathing period.
+**FIGURE 27.5** Effects of incremental PEEP on thoracic compliance and driving pressure at a constant tidal volume of 4 mL/kg predicted body weight. The inflection point identifies "best PEEP".
 
-#### *Work of Breathing*
+#### Compliance and Driving Pressure Titration
 
-The heightened work of breathing during the spontaneous breathing period in IMV is attributed to resistance in the ventilator circuit. Spontaneous breathing with pressure support, which is described in Chapter 26 (see Figure 26.2), overcomes the added resistance of the ventilator circuit and reduces the work of breathing (18). As a result, pressure-support ventilation (at 10 cm H2O) is now used routinely during the spontaneous breathing periods in IMV.
+As PEEP recruits collapsed alveoli, total thoracic compliance rises and the driving pressure ($\Delta P = P_{\text{plateau}} - \text{PEEP}$) falls (Figure 27.5). When incremental PEEP begins to overdistend already open alveoli, compliance begins to decline and driving pressure increases. The inflection point of maximal compliance and minimal driving pressure defines the mechanical "best PEEP".
 
-#### *Cardiac Output*
+### PaO2/FiO2 Ratio and Oxygen Delivery
 
-As described in Chapter 26, positive pressure ventilation reduces left ventricular afterload and can increase cardiac output (see Figure 26.6) (19). IMV has the opposite effect and increases left ventricular afterload (during the spontaneous breathing periods), which results in a decrease in cardiac output in patients with left ventricular dysfunction (20).
+Although higher PEEP routinely improves arterial oxygenation ($\text{PaO}_2/\text{FiO}_2$), this does not necessarily translate into improved tissue oxygen delivery ($\text{DO}_2$), which depends upon both arterial oxygen content ($\text{CaO}_2$) and cardiac output ($\text{CO}$):
 
-## **Summary**
+$$\text{DO}_2 = \text{CO} \times \text{CaO}_2 \tag{27.6}$$
 
-The major indication for IMV is rapid breathing with incomplete exhalation during assist-control ventilation. The spontaneous breathing periods during IMV promote alveolar emptying and reduce the risk of air trapping and intrinsic PEEP. IMV can increase the work of breathing and impair cardiac output in patients with left ventricular dysfunction; as a result, *IMV is not advised for patients with respiratory muscle weakness or left heart failure*.
+![Figure 27.6](images/_page_11_Figure_4.jpeg)
 
-## **POSITIVE END-EXPIRATORY PRESSURE**
+**FIGURE 27.6** Opposing effects of positive end-expiratory pressure (PEEP) on arterial oxygenation ($\text{PaO}_2/\text{FiO}_2$) and cardiac index in patients with ARDS.
 
-Ventilator-dependent patients usually have an increase in airway resistance (e.g., from COPD) or a decrease in lung compliance (e.g., from lung consolidation), and both of these conditions promote the collapse of small airways and alveoli at the end of expiration. This impairs gas exchange in the lungs and promotes hypoxemia. In addition, collapsed airspaces can reopen in the ensuing lung inflation, and the repetitive opening and closing of small airways can damage the airway epithelium by generating excessive shear forces (21). This type of injury is called *atelectrauma* (22), and it is one of the mechanisms for *ventilator-induced lung injury* (which is described in detail in Chapter 24).
+As illustrated in Figure 27.6, aggressive PEEP titration improves $\text{PaO}_2/\text{FiO}_2$ but simultaneously impairs venous return, precipitating a steep decline in cardiac index. As a consequence, systemic $\text{DO}_2$ may actually drop despite a rising $\text{PaO}_2$. Central venous oxygen saturation ($\text{ScvO}_2$) can serve as a clinical monitor to ensure that cardiac output is not compromised during PEEP titration.
+</div></details>
 
-To combat this tendency for alveolar collapse, positive end-expiratory pressure (PEEP) is used routinely during mechanical ventilation. The standard practice is to begin with a pressure of 5–8 cm H2O, but the optimal level of PEEP may differ for each patient, as described next.
+<details class="med-details" open><summary>
 
-### **Best PEEP**
+## Initial Ventilator Setup and Protocol</summary><div class="details-content">
 
-Relatively small levels of PEEP (5–10 cm H2O) can prevent the collapse of distal airspaces, while higher PEEP levels (10–20 cm H2O) can open airspaces that are collapsed. This latter effect is known as *alveolar recruitment*, and it increases the available surface area in the lungs for gas exchange (23). However, higher levels of PEEP can also overdistend and rupture alveoli in normal lung regions. This is known as *volutrauma*, and is the principal form of ventilatorinduced lung injury (23). The following are some ways to determine whether PEEP is promoting alveolar recruitment (favorable response) or promoting alveolar overdistension (unfavorable response).
+When instituting mechanical ventilation in an adult intensive care patient, settings should be methodically configured following proven lung-protective principles.
 
-#### *Lung Compliance*
+### Protocol for Lung Protective Ventilation
 
-When PEEP is promoting alveolar recruitment, the compliance (distensibility) of the lungs will increase, but when PEEP is overdistending alveoli, lung compliance will decrease. Therefore, monitoring the changes in thoracic compliance (as in Equations 27.4 and 27.5) in response to incremental levels of PEEP can identify whether PEEP is beneficial or harmful. This is demonstrated in [Figure](#page-10-0) 27.5 (24). The upper curve in this figure shows that compliance initially increases in response to PEEP, but eventually begins to decrease. The transition point then identifies the "best PEEP" level.
+Table 27.1 summarizes the landmark ARDSNet protocol, which has established standard care across intensive care units worldwide.
 
-#### *Driving Pressure*
+### TABLE 27.1 Protocol for Lung Protective Ventilation
 
-At any given tidal volume, lung compliance is a function of the difference between the peak alveolar pressure and the PEEP level (as shown in Equations 27.4 and 27.5). This pressure difference is the "driving pressure" for alveolar distension, and the changes in this pressure can identify if PEEP is promoting alveolar recruitment or overdistension. This is demonstrated in the lower curve in [Figure](#page-10-0) 27.5 (24). The driving pressure decreases with lower levels of PEEP (indicating that alveolar recruitment is the predominant response), but begins to increase at higher levels of PEEP (indicating that alveolar overdistension is a risk), and the transition point is then the "best PEEP" level.
+| Stage | Action Steps |
+| :--- | :--- |
+| **First Stage** | 1. Calculate patient's predicted body weight (PBW):<br>• Males: $\text{PBW (kg)} = 50 + [2.3 \times (\text{height in inches} - 60)]$<br>• Females: $\text{PBW (kg)} = 45.5 + [2.3 \times (\text{height in inches} - 60)]$<br>2. Set initial tidal volume ($V_T$) at 8 mL/kg PBW.<br>3. Add positive end-expiratory pressure (PEEP) of 5 $\text{cm H}_2\text{O}$.<br>4. Select lowest $\text{FiO}_2$ that achieves target $\text{SpO}_2$ of 88–95%.<br>5. Reduce $V_T$ by 1 mL/kg PBW every 2 hours until $V_T = 6\text{ mL/kg PBW}$. |
+| **Second Stage** | 1. When $V_T = 6\text{ mL/kg PBW}$, measure plateau pressure ($P_{\text{plateau}}$).<br>2. If $P_{\text{plateau}} > 30\text{ cm H}_2\text{O}$, decrease $V_T$ in 1 mL/kg increments until $P_{\text{plateau}} \leq 30\text{ cm H}_2\text{O}$ or $V_T = 4\text{ mL/kg PBW}$. |
+| **Third Stage** | 1. Monitor arterial blood gases for respiratory acidosis.<br>2. If $\text{pH} = 7.15–7.30$, increase respiratory rate until $\text{pH} > 7.30$ or $\text{RR} = 35\text{ breaths/min}$.<br>3. If $\text{pH} < 7.15$, increase RR to 35 breaths/min; if $\text{pH}$ remains $< 7.15$, increase $V_T$ by 1 mL/kg increments until $\text{pH} > 7.15$. |
+| **Target Goals** | $V_T = 6\text{ mL/kg PBW}$, $P_{\text{plateau}} \leq 30\text{ cm H}_2\text{O}$, $\text{SpO}_2 = 88–95\%$, $\text{pH} = 7.30–7.45$. |
 
-<span id="page-10-0"></span>![](_page_10_Figure_4.jpeg)
+### Systematic Initial Settings
 
-**FIGURE 27.5** The effects of incremental levels of PEEP on thoracic compliance and driving pressure, which were measured at a constant tidal volume (V<sup>T</sup> ) of 4 mL/kg predicted body weight (PBW). The point of transition in each curve identifies the "best PEEP". Data from Reference 24. See text for further explanation.
+1. **Mode:** Initiate assist-control ventilation (ACV) using volume control (VCV) or pressure-regulated volume control (PRVC) to ensure precise control over tidal volume.
+2. **Inspiratory Flow Rate:** Set baseline flow at 60 L/min for quiet breathing; increase to $\geq 80\text{ L/min}$ for tachypneic patients with high ventilatory drive to prevent flow starvation.
+3. **I:E Ratio:** Maintain an I:E ratio of $\geq 1:2$. Expand expiratory time if airway obstruction or occult PEEP is detected.
+4. **Respiratory Rate:** Set at 12–16 breaths/min (or matching pre-intubation minute ventilation, maximum 35 breaths/min). Check arterial blood gases at 30 minutes and adjust rate accordingly.
+5. **Initial PEEP:** Set at 5–8 $\text{cm H}_2\text{O}$. Titrate upward if high $\text{FiO}_2$ ($> 60\%$) is required to maintain $\text{SpO}_2 \geq 90\%$.
+6. **Management of Occult PEEP:** If expiratory flow does not return to zero at end-expiration, extend expiratory time by increasing flow rate or reducing $V_T$. If occult PEEP persists, extrinsic PEEP may be added up to 80% of occult PEEP to reduce the inspiratory trigger work.
+</div></details>
 
-### *PaO<sup>2</sup> /FIO<sup>2</sup> Ratio*
+<details class="med-details" open><summary>
 
-The relationship between the arterial PO<sup>2</sup> and the fractional concentration of inspired oxygen, as expressed by the PaO<sup>2</sup> /FIO<sup>2</sup> ratio, is a measure of the efficiency of gas exchange in the lungs.
+## Clinical Perspective: Loss of Focus</summary><div class="details-content">
 
-When PEEP promotes alveolar recruitment, the  $PaO_2/FiO_2$  ratio will increase, and when PEEP does not promote alveolar recruitment, the  $PaO_2/FiO_2$  ratio will remain unchanged or will decrease. An example of a beneficial response in the  $PaO_2/FiO_2$  ratio (indicating alveolar recruitment) is shown in Figure 27.6. However, an increase in the  $PaO_2/FiO_2$  ratio is not synonymous with an increases in  $O_2$  delivery to tissues, as explained next.
+Since the inception of positive-pressure mechanical ventilation, an immense volume of engineering effort has been expended creating over 174 ventilation modes, yet only low-tidal-volume lung protective ventilation has conclusively demonstrated improved patient survival. 
 
-**OXYGEN DELIVERY**: The beneficial effects of PEEP on arterial oxygenation may not be accompanied by a similar benefit in oxygen delivery to tissues, because the rate of  $O_2$  delivery in arterial blood ( $DO_2$ ) is dependent on the cardiac output (CO) as well as the arterial  $O_2$  content ( $CaO_2$ ): i.e.,
-
-$$DO_2 = CO \times CaO_2 \tag{27.6}$$
-
-The effects of positive pressure ventilation that impair cardiac filling are described in Chapter 26 (see Figure 26.7), and PEEP magnifies these effects (25). This means that PEEP can decrease the cardiac output and negate the beneficial effects on arterial oxygenation. This is shown in Figure 27.6, where the progressive increase in  $PaO_2/FiO_2$  ratio in response to incremental PEEP is accompanied by a progressive decrease in cardiac output (26). Thus, PEEP can promote alveolar recruitment and increase arterial oxygenation, but systemic  $O_2$  delivery may not improve if PEEP also decreases the cardiac output.
-
-<span id="page-11-0"></span>![](_page_11_Figure_4.jpeg)
-
-**FIGURE 27.6** The opposing effects of positive end expiratory pressure (PEEP) on oxygenation (PaO<sub>2</sub> /FIO<sub>2</sub>) and cardiac index in patients with ARDS. Data from Reference 26.
-
-The opposing effects of PEEP on arterial oxygenation and cardiac output emphasize the need to include a measure of systemic O<sup>2</sup> delivery in the determination of "best PEEP". Since cardiac output is not frequently monitored during mechanical ventilation, the central venous O<sup>2</sup> saturation can be used as a surrogate measure of changes in cardiac output and O<sup>2</sup> delivery, as explained in Chapter 9.
-
-## **VENTILATOR SETTINGS**
-
-When mechanical ventilation is initiated, the respiratory therapist will ask you for the following parameters: (a) mode of ventilation, (b) tidal volume, (c) respiratory rate, (d) PEEP level, and (e) inspired O<sup>2</sup> concentration. The following is a list of suggestions for setting up mechanical ventilation.
-
-## **Assist-Control Ventilation**
-
-- 1. Select assist-control as the initial mode of ventilation.
-- 2. It may be necessary to switch to synchronized IMV in patients who are breathing too rapidly in the assist-control mode (see later).
-
-## **Volume vs. Pressure Control**
-
-- 1. Use volume control of some form (either standard volume control or pressure-regulated volume control) in order to use *lung protective ventilation*, where control of the tidal volume is a necessity.
-- 2. If lung protective ventilation is not improving gas exchange in patients with ARDS, consider switching to "airway pressure release ventilation" (see Figure 24.7).
-
-### **Tidal Volume**
-
-The following recommendations are from the protocol for lung protective ventilation, which is summarized in [Table](#page-12-0) 27.1.
-
-- 1. Select an initial tidal volume of 8 mL/kg using *predicted body weight*. (The formulas for predicted body weight are in [Table](#page-12-0) 27.1.)
-- 2. Reduce the tidal volume to 6 mL/kg over the next 2 hours, if possible.
-- 3. Monitor the end-inspiratory alveolar pressure (i.e., the plateau pressure) and keep it ≤30 cm H2O (to limit the risk of volutrauma).
-
-<span id="page-12-0"></span>
-
-| TABLE       | 27.1<br>Protocol<br>for<br>Lung<br>Protective<br>Ventilation                                                                                                      |
-|-------------|-------------------------------------------------------------------------------------------------------------------------------------------------------------------|
-| First Stage | 1. Calculate patient's predicted body weight (PBW).<br>Males: PBW = 50 + [2.3 x (height in inches – 60)]<br>Females: PBW = 45.5 + [2.3 x (height in inches – 60)] |
-
-|                  | <ol> <li>Set initial tidal volume (V<sub>T</sub>) at 8 mL/kg PBW.</li> <li>Add positive end-expiratory pressure (PEEP) of 5 cm H<sub>2</sub>O.</li> <li>Select the lowest FIO<sub>2</sub> that achieves an SpO<sub>2</sub> of 88–95%.</li> <li>Reduce V<sub>T</sub> by 1 mL/kg every 2 hrs until V<sub>T</sub> = 6 mL/kg.</li> </ol> |
-|------------------|--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
-| Second<br>Stage  | <ol> <li>When V<sub>T</sub> = 6 mL/kg, measure plateau pressure (Ppl).</li> <li>If Ppl &gt;30 cm H<sub>2</sub>O decrease V<sub>T</sub> in 1 mL/kg increments until Ppl &lt;30 cm H<sub>2</sub>O or V<sub>T</sub>. = 4 mL/kg.</li> </ol>                                                                                              |
-| Third Stage      | <ol> <li>Monitor blood gases for respiratory acidosis.</li> <li>If pH = 7.15–7.30, increase respiratory rate (RR) until pH &gt;7.30 or RR = 35 bpm.</li> <li>If pH &lt;7.15, increase RR to 35 bpm. If pH is still &lt;7.15, increase V<sub>T</sub> in 1 mL/kg increments until pH &gt;7.15.</li> </ol>                              |
-| Optimal<br>Goals | $V_T = 6 \text{ mL/kg}$ , Ppl $\leq$ 30 cm $H_2O$ , $SpO_2 = 88-95\%$ , pH = 7.30-7.45.                                                                                                                                                                                                                                              |
-
-Adapted from the protocol developed by the ARDS Network, available at www.ardsnet.org.
-
-#### **Inspiratory Flow Rate**
-
-- . Select an inspiratory flow rate of 60 L/min if the patient is breathing quietly or has no spontaneous respirations.
-- . Use higher inspiratory flow rates (e.g., ≥80 L/min) for patients with respiratory distress or a high minute ventilation (≥10 L/min).
-
-#### I:E Ratio
-
-- . The I:E ratio should be  $\geq$ 1:2.
-- . If the I:E ratio is <1:2, the options for increasing the I:E ratio include: (a) increasing the inspiratory flow rate, (b) decreasing the tidal volume, or (c) decreasing the respiratory rate, if possible.
-
-## **Respiratory Rate**
-
-- . If the patient has no spontaneous respirations, set the respiratory rate to achieve your estimate of the patient's minute ventilation just prior to intubation, but do not exceed 35 breaths/minute.
-- . If the patient is triggering each ventilator breath, set the machine rate just below the patient's spontaneous respiratory rate.
-- . After 30 minutes, check the arterial  $PCO_2$ , and adjust the respiratory rate, if necessary, to achieve the desired  $PCO_2$ .
-- . For patients who are breathing rapidly and have an acute respiratory alkalosis or evidence of occult PEEP, consider switching to synchronized IMV (SIMV) as the mode of ventilation.
-
-#### **PEEP**
-
-- 1. Set the initial PEEP to 5–8 cm H2O.
-- 2. Further increases in PEEP may be necessary for the following reasons:
-  - a. To increase the PaO<sup>2</sup> /FIO<sup>2</sup> ratio in cases where a toxic level of inhaled oxygen (>60%) is required to maintain adequate oxygenation (SaO<sup>2</sup> ≥90%).
-  - b. To determine the "best PEEP" for that patient.
-
-## **Occult PEEP**
-
-- 1. Check the flow rate at the end of expiration: if the expiratory flow rate has not returned to zero at end-expiration, this is evidence of dynamic hyperinflation and occult PEEP (see Figure 23.5).
-- 2. If there is evidence of occult PEEP, attempt to prolong the time for expiration by increasing the I:E ratio using the maneuvers described previously.
-- 3. If increasing the I:E ratio is not possible or is not successful, then measure the level of occult PEEP with the end-inspiratory occlusion method, and add extrinsic PEEP at a level that is just below the occult PEEP. (The rationale for this maneuver is explained in Chapter 28.)
-
-## **A FINAL WORD**
-
-## **A Loss of Focus**
-
-Since the advent of mechanical ventilation, an enormous amount of time and energy has been devoted to the development of newer methods of ventilation (174 of them at last count), with only one of these showing evidence of improved outcomes (and only because it involves a decrease in ventilatory support) ([3\)](#page-14-3). What has been lost in these endeavors is the simple fact that mechanical ventilation is a temporary support measure for acute respiratory failure, and is not a treatment modality for lung disease. Therefore, if we want to improve outcomes in ventilatordependent patients, less attention should be given to the knobs on ventilators, and more attention should be directed at the diseases that create ventilator dependency.
-
-## *References*
-
-- <span id="page-14-0"></span>*a.* Bacon F. *The Advancement of Learning*, 1605.
-- <span id="page-14-1"></span>1. Lassen HCA. A preliminary report on the 1952 epidemic of poliomyelitis in Copenhagen with special reference to the treatment of acute respiratory insufficiency. Lancet 1953; 1:37–41.
-- <span id="page-14-2"></span>2. Cairo JM, Pilbean SP. Mosby's Respiratory Care Equipment. 8th ed. St. Louis: Mosby Elsevier; 2010.
-- <span id="page-14-3"></span>3. The Acute Respiratory Distress Syndrome Network. Ventilation with lower tidal volumes as compared with traditional tidal volumes for acute lung injury and the acute respiratory distress syndrome. N Engl J Med 2000; 342(18):1301–1308.
-- <span id="page-14-4"></span>4. Petrucci N, De Feo C. Lung protective ventilation strategy for the acute respiratory distress syndrome. Cochrane Database Syst Rev 2013:CD003844.
-
-#### *The Ventilator Breath*
-
-- <span id="page-14-5"></span>5. Pham T, Brochard LJ, Slutsky AS. Mechanical ventilation: state of the art. Mayo Clin Proc 2017; 92:1382–1400.
-- <span id="page-14-6"></span>6. Yang SC, Yang SP. Effects of inspiratory flow waveforms on lung mechanics, gas exchange, and respiratory metabolism in COPD patients during mechanical ventilation. Chest 2002; 122:2096–2104.
-- <span id="page-14-7"></span>7. Kallet RH, Campbell AR, Alonzo JA, et al. The effects of pressure control versus volume control on patient work of breathing in acute lung injury and acute respiratory distress syndrome. Respir Care 2000; 45:1085–1096.
+What has frequently been overlooked in modern intensive care is that mechanical ventilation is strictly a temporary supportive bridge, not a curative therapy for underlying pulmonary pathology. To optimize clinical outcomes in ventilator-dependent patients, less attention should be devoted to esoteric ventilator dials, and far greater focus directed toward reversing the diseases that necessitate mechanical support.
+</div></details>

@@ -1,391 +1,307 @@
-# Chapter 9
+# Systemic Oxygenation
 
-# **Systemic Oxygenation**
+<details class="med-details" open><summary>
 
-If one were to name the universal factor in all death... it would certainly be loss of oxygen.
+## Executive Summary</summary><div class="details-content">
 
-Sherwin Nuland, MD (a)
+The clinical management of critically ill patients centers around preserving and restoring tissue oxygenation. Because direct bedside measurement of intracellular or mitochondrial oxygen tension is not feasible, clinical practice relies on indirect surrogate indices:
+* **Systemic Oxygen Delivery ($\text{DO}_2$):** The total volume of oxygen transported to the systemic microcirculation per minute, governed by cardiac output, hemoglobin concentration, and arterial oxygen saturation.
+* **Systemic Oxygen Consumption ($\text{VO}_2$):** The rate of oxygen extracted by tissues, derived via the reverse Fick calculation or measured through indirect calorimetry.
+* **Oxygen Extraction Ratio ($\text{O}_2\text{ER}$):** The fraction of delivered oxygen consumed by tissues (normally $0.20\text{--}0.30$), which increases adaptively when delivery falls.
+* **Venous Oximetry ($\text{SvO}_2$ and $\text{ScvO}_2$):** Continuous or intermittent markers of the balance between global oxygen supply and demand.
+* **Plasma Lactate:** Long considered a hallmark of anaerobic metabolism and tissue hypoxia, hyperlactatemia in critical illness is now recognized as predominantly aerobic in origin, driven by cytokine-mediated inhibition of pyruvate dehydrogenase, catecholamine-stimulated accelerated glycolysis, and metabolic fuel switching where lactate functions as a vital oxidative energy substrate for the myocardium and brain.
 
-The management of critically ill patients is dominated by interventions that promote tissue oxygenation, yet it is not possible to monitor tissue  $O_2$  levels in a clinical setting. Instead, tissue oxygenation is evaluated indirectly using global measures of systemic oxygen transport (i.e.,  $O_2$  delivery and  $O_2$  uptake) along with a presumed marker of inadequate tissue oxygenation (i.e., the plasma lactate level). This chapter describes these measures, and how they are used (and misused). The information in this chapter is part of the core knowledge base in critical care; i.e., the knowledge that distinguishes ICU-level care from patient care on a general medical or surgical service.
+</div></details>
 
-### **OXYGEN IN BLOOD**
+<details class="med-details" open><summary>
 
-The relevant measures of oxygen  $(O_2)$  in blood include the partial pressure of  $O_2$  (PO<sub>2</sub>), the  $O_2$  saturation of hemoglobin (SO<sub>2</sub>), the concentrations of hemoglobin-bound  $O_2$  and dissolved  $O_2$ , and the total  $O_2$  concentration (also called the  $O_2$  content). The reference values for these measures in arterial and venous blood are shown in Table 9.1.
+## Oxygen in Blood and the Oxyhemoglobin Dissociation Curve</summary><div class="details-content">
 
-<span id="page-0-0"></span>
+Oxygen is transported in blood in two physical forms: chemically bound to hemoglobin within erythrocytes, and physically dissolved in plasma water.
 
-| Normal Measures of Oxygen in Arterial and Venous Blood |                                           |  |
-|--------------------------------------------------------|-------------------------------------------|--|
-| Arterial Blood                                         | Venous Blood                              |  |
-| 90 mm Hg                                               | 40 mm Hg                                  |  |
-| 98%                                                    | 73%                                       |  |
-| 19.7 mL/dL                                             | 14.7 mL/dL                                |  |
-| 0.27 mL/dL                                             | 0.1 mL/dL                                 |  |
-|                                                        | Arterial Blood  90 mm Hg  98%  19.7 mL/dL |  |
+<span id="tab-9-1"></span>
 
-| Content1<br>Total O2 | 20 mL/dL | 15 mL/dL |
-|----------------------|----------|----------|
-| Blood Volume2        | 1.25 L   | 3.75 L   |
-| Total Volume of O2   | 250 mL   | 555 mL   |
+### Table 9.1. Normal Measures of Oxygen in Arterial and Venous Blood
 
-Values shown are for a body temperature of 37 °C and a hemoglobin concentration of 15 g/dL.
+| Parameter | Arterial Blood | Venous Blood |
+| :--- | :--- | :--- |
+| Oxygen Partial Pressure ($\text{PO}_2$) | 90 mm Hg | 40 mm Hg |
+| Hemoglobin Oxygen Saturation ($\text{SO}_2$) | 98% | 73% |
+| Hemoglobin-Bound $\text{O}_2$ | 19.7 mL/dL | 14.7 mL/dL |
+| Dissolved $\text{O}_2$ | 0.27 mL/dL | 0.10 mL/dL |
+| Total $\text{O}_2$ Content ($\text{C}_{\text{O}_2}$) | 20 mL/dL | 15 mL/dL |
+| Blood Volume Distribution | 1.25 L | 3.75 L |
+| Total Circulating $\text{O}_2$ Volume | 250 mL | 555 mL |
 
-### **Oxyhemoglobin Dissociation Curve**
+*Note:* Values reflect a standard body temperature of 37 °C, total blood volume of 5 L (25% arterial, 75% venous), and hemoglobin concentration of 15 g/dL. Total volumes rounded to nearest whole integer.
 
-The oxygenation of the hemoglobin pool is expressed as the *oxygen saturation of hemoglobin* (SO<sup>2</sup> ), and is the fraction of the hemoglobin pool that is fully saturated with oxygen. The SO<sup>2</sup> is measured (by oximetry) as the ratio of oxygenated hemoglobin to total hemoglobin. (See Chapter 7 for a description of oximetry.) The principal determinants of SO<sup>2</sup> are the PO<sup>2</sup> in blood, and the affinity of hemoglobin for binding O<sup>2</sup> . These relationships are described by the oxyhemoglobin dissociation curve, which is shown in [Figure](#page-2-0) 9.1. The "S" shape of the curve offers two advantages. First, the arterial PO<sup>2</sup> (PaO<sup>2</sup> ) is normally on the upper, flat part of the curve, which means that a large drop in PaO<sup>2</sup> (down to 60 mm Hg) results in only minor changes in the oxygenation of hemoglobin (the SO<sup>2</sup> ). Secondly, the venous PO<sup>2</sup> (which is ≈40 mm Hg) is on the steep portion of the curve, which facilitates O<sup>2</sup> uptake in the pulmonary capillaries.
+### The Oxyhemoglobin Dissociation Curve
+The fraction of total hemoglobin binding sites occupied by oxygen is defined as the oxygen saturation of hemoglobin ($\text{SO}_2$). The non-linear relationship between blood $\text{PO}_2$ and $\text{SO}_2$ is defined by the sigmoid oxyhemoglobin dissociation curve ([Fig. 9.1](#fig-9-1)).
 
-**SHIFTS IN THE CURVE:** A number of conditions can alter the affinity of hemoglobin for O<sup>2</sup> and thereby shift the position of the oxyhemoglobin dissociation curve. These conditions are listed in [Figure](#page-2-0) 9.1. A shift of the curve to the right facilitates O<sup>2</sup> release in tissues, while a shift to the left impedes O<sup>2</sup> release. The position of the curve is indicated by the P50, which is the PO<sup>2</sup> that corresponds to an SO<sup>2</sup> of 50%. The P50 is normally about 27 mm Hg (1), and will increase when the curve shifts to the right, and decrease when the curve shifts to the left. For example, a decrease in the P50 to 15 mm Hg (indicating a leftward shift of the curve) has been reported in blood that is stored in acid-citrate-dextrose (ACD) preservative for 3 weeks, and is attributed to depletion of 2,3 diphosphoglycerate (2,3-DPG) in the red blood cells (2).
+<span id="fig-9-1"></span>
+![](_page_2_Figure_0.jpeg)
 
-<sup>1</sup>Numbers rounded to nearest whole number.
+<span class="caption">**FIGURE 9.1** The oxyhemoglobin dissociation curve illustrating the sigmoidal relationship between blood $\text{PO}_2$ and hemoglobin oxygen saturation ($\text{SO}_2$). The $\text{P}_{50}$ designates the oxygen tension at 50% saturation (normal $\approx 27\text{ mm Hg}$). Physiological conditions shifting the curve to the right (facilitating offloading) or left (facilitating loading) are displayed.</span>
 
-<sup>2</sup>Volume estimates based on a total blood volume of 5 Liters, with 25% of the volume in arteries and 75% in veins.
+The S-shape of the curve imparts two distinct physiological benefits:
+1. **Upper Plateau ($> 60\text{ mm Hg}$):** The arterial operating point ($\text{PaO}_2 \approx 90\text{ mm Hg}$) resides on the flat portion of the curve. Large fluctuations in arterial oxygen tension down to 60 mm Hg cause only trivial decrements in arterial saturation ($\text{SaO}_2$ remains $\ge 90\%$).
+2. **Steep Slope ($20\text{--}40\text{ mm Hg}$):** The venous operating point ($\text{PvO}_2 \approx 40\text{ mm Hg}$) lies on the steep segment. In systemic capillaries, modest drops in tissue $\text{PO}_2$ liberate substantial volumes of oxygen from hemoglobin. In pulmonary capillaries, small increments in $\text{PO}_2$ drive rapid oxygen loading.
 
-<span id="page-2-0"></span>![](_page_2_Figure_0.jpeg)
+### Curve Shifts and P50
+The affinity of hemoglobin for oxygen is quantified by the $\text{P}_{50}$, defined as the partial pressure of oxygen at which 50% of hemoglobin binding sites are saturated.
+* **Normal $\text{P}_{50}$:** In human adults at 37 °C and pH 7.40, the baseline $\text{P}_{50}$ is approximately 27 mm Hg.
+* **Rightward Shift:** Caused by hypercapnia (increased $\text{PCO}_2$), acidosis (decreased pH, Bohr effect), hyperthermia, and increased red cell 2,3-diphosphoglycerate (2,3-DPG). A right shift raises $\text{P}_{50}$, lowering hemoglobin affinity and promoting oxygen unloading into tissues.
+* **Leftward Shift:** Caused by hypocapnia, alkalosis, hypothermia, fetal hemoglobin, carboxyhemoglobin, methemoglobin, and 2,3-DPG depletion. A left shift lowers $\text{P}_{50}$, increasing oxygen affinity and impeding tissue release.
+* **Stored Blood:** Erythrocytes stored in acid-citrate-dextrose (ACD) preservative for 3 weeks experience severe 2,3-DPG depletion, driving the $\text{P}_{50}$ down to 15 mm Hg and creating significant oxygen-binding avidities that hinder peripheral delivery.
 
-**FIGURE 9.1** Oxyhemoglobin dissociation curve showing the normal relationship between the  $PO_2$  in blood and the  $O_2$  saturation of hemoglobin ( $SO_2$ ). The  $P_{50}$  is the  $PO_2$  that corresponds to an  $SO_2$  of 50%. Abbreviations:  $PaO_2$  = arterial  $PO_2$ ,  $PvO_2$  = venous  $PO_2$ ,  $SaO_2$  = arterial  $SO_2$ ,  $SvO_2$  = venous  $SO_2$ .
+</div></details>
 
-Shifts in the oxyhemoglobin dissociation curve have opposing effects in the pulmonary and systemic capillaries; i.e., a shift to the left impedes  $O_2$  release systemically but facilitates  $O_2$  uptake in the lungs. Therefore, the significance of these shifts for overall  $O_2$  exchange is unclear.
+<details class="med-details" open><summary>
 
-### **Oxygen Content of Blood**
+## Blood Oxygen Content and Transport Equations</summary><div class="details-content">
 
-The concentration (content) of  $O_2$  in blood is the summed contribution of the  $O_2$  that is bound to hemoglobin and the  $O_2$  that is dissolved in plasma.
+Total oxygen concentration in blood ($\text{C}_{\text{O}_2}$) is the sum of hemoglobin-bound oxygen and physically dissolved oxygen in plasma water.
 
 ### Hemoglobin-Bound Oxygen
+Each gram of fully saturated hemoglobin can bind $1.34\text{ mL}$ of molecular oxygen (the Hüfner constant):
+* **Binding Formula:**
+  $$\text{HbO}_2 = 1.34 \times [\text{Hb}] \times \text{SO}_2 \quad (\text{mL/dL})$$
+  *(where $[\text{Hb}]$ is expressed in g/dL and $\text{SO}_2$ is expressed as a fraction from 0 to 1.0)*
+
+### Dissolved Oxygen
+Oxygen has low solubility in aqueous solutions. At 37 °C, the Bunsen solubility coefficient of oxygen in plasma is $0.03\text{ mL/L/mm Hg}$ ($0.003\text{ mL/dL/mm Hg}$):
+* **Dissolved Formula:**
+  $$\text{Dissolved } \text{O}_2 = 0.003 \times \text{PO}_2 \quad (\text{mL/dL})$$
+
+### Arterial Oxygen Content (CaO2)
+Combining bound and dissolved fractions yields the complete equation for arterial oxygen content:
+* **Arterial Content Formula:**
+  $$\text{CaO}_2 = (1.34 \times [\text{Hb}] \times \text{SaO}_2) + (0.003 \times \text{PaO}_2) \quad (\text{mL/dL})$$
+* **Standard Values:** In a healthy subject with $[\text{Hb}] = 15\text{ g/dL}$, $\text{SaO}_2 = 0.98$, and $\text{PaO}_2 = 90\text{ mm Hg}$:
+  $$\text{CaO}_2 = 19.7 + 0.27 \approx 20\text{ mL/dL} \quad (200\text{ mL/L})$$
+  Dissolved oxygen accounts for only $1.5\%$ of the total arterial oxygen content under ambient atmospheric conditions.
+
+<span id="fig-9-2"></span>
+![](_page_4_Figure_0.jpeg)
+
+<span class="caption">**FIGURE 9.2** The disproportionate impact of equivalent 50% reductions in hemoglobin concentration versus arterial oxygen tension ($\text{PaO}_2$) on arterial oxygen content ($\text{CaO}_2$). Anemia exerts a far greater depressive effect on systemic oxygen carriage than hypoxemia.</span>
+
+### Anemia versus Hypoxemia
+The relative clinical impact of anemia versus hypoxemia is illustrated in [Fig. 9.2](#fig-9-2):
+* **50% Reduction in Hemoglobin:** Dropping $[\text{Hb}]$ by 50% from 15 to 7.5 g/dL causes an exact 50% decrease in $\text{CaO}_2$, falling from 20 to 10 mL/dL.
+* **50% Reduction in Arterial PO2:** Dropping $\text{PaO}_2$ by 50% from 90 to 45 mm Hg (which lowers $\text{SaO}_2$ from 98% to 78% along the dissociation curve) reduces $\text{CaO}_2$ by only 20%, falling from 20 to 16 mL/dL.
+* **Clinical Principle:** Severe anemia compromises systemic oxygen carrying capacity substantially more than moderate or even severe arterial hypoxemia.
+
+### Mixed Venous Oxygen Content (CvO2) and Arteriovenous Difference
+Mixed venous blood sampled from the pulmonary artery reflects the balance after systemic capillary extraction:
+* **Venous Content Formula:**
+  $$\text{CvO}_2 = (1.34 \times [\text{Hb}] \times \text{SvO}_2) + (0.003 \times \text{PvO}_2) \quad (\text{mL/dL})$$
+* At $[\text{Hb}] = 15\text{ g/dL}$, $\text{SvO}_2 = 0.73$, and $\text{PvO}_2 = 40\text{ mm Hg}$, normal $\text{CvO}_2$ is $14.7 + 0.10 \approx 15\text{ mL/dL}$ ($150\text{ mL/L}$).
+* **Arteriovenous Difference ($\text{C(a-v)O}_2$):**
+  $$\text{CaO}_2 - \text{CvO}_2 = 20 - 15 = 5\text{ mL/dL} \quad (50\text{ mL/L})$$
+  Each liter of blood traversing systemic microvessels surrenders $50\text{ mL}$ of oxygen. At a standard cardiac output of $5\text{ L/min}$, total extracted oxygen equals $5 \times 50 = 250\text{ mL/min}$, matching resting whole-body consumption.
+
+### Anatomical Volume Distribution of Oxygen
+Although arterial blood possesses higher oxygen concentration than venous blood ($20\text{ vs. } 15\text{ mL/dL}$), the total volume of oxygen in the arterial tree is less than half that in the venous circulation ([Table 9.1](#tab-9-1)):
+* **Asymmetrical Capacitance:** The high-capacitance venous bed accommodates 75% of total blood volume (3.75 L), holding $555\text{ mL}$ of oxygen. The arterial bed accommodates only 25% (1.25 L), containing $250\text{ mL}$ of oxygen.
+* **Unavailable Oxygen Pool:** Of the $805\text{ mL}$ total oxygen present in the circulatory system ($250 + 555 = 805\text{ mL}$), approximately 70% ($555/805$) resides downstream in veins and cannot directly supply aerobic metabolism without recirculating through pulmonary gas exchange.
+
+</div></details>
+
+<details class="med-details" open><summary>
+
+## Systemic Oxygen Transport Dynamics</summary><div class="details-content">
+
+Transport from the alveolar-capillary membrane to consuming microvascular beds is defined by three interconnected variables: oxygen delivery ($\text{DO}_2$), oxygen consumption ($\text{VO}_2$), and the oxygen extraction ratio ($\text{O}_2\text{ER}$).
+
+<span id="tab-9-2"></span>
+
+### Table 9.2. Normal Reference Ranges for Oxygen Transport Parameters
+
+| Parameter | Absolute Range | Size-Adjusted Range (Index) |
+| :--- | :--- | :--- |
+| Cardiac Output ($\text{CO}$) | 5–6 L/min | 2.4–4.0 $\text{L/min/m}^2$ |
+| Oxygen Delivery ($\text{DO}_2$) | 900–1,100 mL/min | 520–600 $\text{mL/min/m}^2$ |
+| Oxygen Uptake ($\text{VO}_2$) | 200–270 mL/min | 110–160 $\text{mL/min/m}^2$ |
+| Oxygen Extraction Ratio ($\text{O}_2\text{ER}$) | 0.20–0.30 | — |
+
+*Note:* Size-adjusted indices are normalized to body surface area (BSA) in square meters ($m^2$). In an average adult, baseline $\text{BSA} \approx 1.7\text{ m}^2$.
+
+### Oxygen Delivery (DO2)
+Oxygen delivery represents the volume of oxygen entering the systemic arterial circulation per minute:
+* **Calculation:**
+  $$\text{DO}_2 = \text{CO} \times \text{CaO}_2 \times 10 = \text{CO} \times (1.34 \times [\text{Hb}] \times \text{SaO}_2) \times 10 \quad (\text{mL/min})$$
+  *(The factor of 10 converts $\text{CaO}_2$ from mL/dL to mL/L).*
+* When indexed to body surface area, cardiac index ($\text{CI}$) replaces cardiac output:
+  $$\text{DO}_2\text{I} = \text{CI} \times \text{CaO}_2 \times 10 \quad (\text{mL/min/m}^2)$$
+* The normal resting $\text{DO}_2$ is $900\text{--}1,100\text{ mL/min}$ ($520\text{--}600\text{ mL/min/m}^2$).
+
+### Oxygen Uptake and Consumption (VO2)
+Because tissues do not store oxygen, the steady-state rate of oxygen extraction from capillaries equals metabolic consumption:
+* **Reverse Fick Formulation:**
+  $$\text{VO}_2 = \text{CO} \times (\text{CaO}_2 - \text{CvO}_2) \times 10 \quad (\text{mL/min})$$
+  $$\text{VO}_2 = \text{CO} \times 1.34 \times [\text{Hb}] \times (\text{SaO}_2 - \text{SvO}_2) \times 10 \quad (\text{mL/min})$$
+* **Indexed Value ($\text{VO}_2\text{I}$):** Standard resting value is $110\text{--}160\text{ mL/min/m}^2$ ($200\text{--}270\text{ mL/min}$).
+
+<span id="tab-9-3"></span>
+
+### Table 9.3. Variability of Measurements Used to Calculate Oxygen Consumption
+
+| Measurement | Methodological Variability |
+| :--- | :--- |
+| Thermodilution Cardiac Output ($\text{CO}$) | $\pm 10\%$ |
+| Hemoglobin Concentration ($[\text{Hb}]$) | $\pm 2\%$ |
+| Oxygen Saturation of Hemoglobin ($\text{SO}_2$) | $\pm 2\%$ |
+| Blood Oxygen Content ($\text{C}_{\text{O}_2}$) | $\pm 4\%$ |
+| Arteriovenous Content Difference ($\text{CaO}_2 - \text{CvO}_2$) | $\pm 8\%$ |
+| **Calculated $\text{VO}_2$ (Reverse Fick)** | **$\pm 18\%$** |
+| **Measured $\text{VO}_2$ (Indirect Calorimetry)** | **$\pm 5\%$** |
+
+### Calculated versus Measured VO2
+* **Mathematical Coupling and Error:** Deriving $\text{VO}_2$ through the reverse Fick method compounds the error of each constituent parameter ([Table 9.3](#tab-9-3)). A change in calculated $\text{VO}_2$ must exceed $\pm 18\%$ to represent true clinical change.
+* **Omission of Pulmonary Consumption:** The Fick method measures extraction downstream from the pulmonary artery; it excludes the oxygen consumed by lung parenchyma itself. Lung $\text{VO}_2$ normally accounts for $< 5\%$ of total body consumption, but can escalate to 20% in acute lung injury or severe pneumonitis.
+* **Indirect Calorimetry:** True whole-body consumption is measured directly using respiratory gas analysis (metabolic carts):
+  $$\text{VO}_2 = \text{V}_\text{E} \times (\text{FiO}_2 - \text{FeO}_2)$$
+  With an error margin of only $\pm 5\%$, measured $\text{VO}_2$ is far more accurate than calculated $\text{VO}_2$, though limited by logistical demands.
+
+### Oxygen Extraction Ratio (O2ER)
+The fraction of delivered oxygen extracted by systemic tissues is the extraction ratio:
+* **General Ratio:**
+  $$\text{O}_2\text{ER} = \frac{\text{VO}_2}{\text{DO}_2} = \frac{\text{SaO}_2 - \text{SvO}_2}{\text{SaO}_2}$$
+* When arterial saturation is near 100% ($\text{SaO}_2 \approx 1.0$):
+  $$\text{O}_2\text{ER} \approx \text{SaO}_2 - \text{SvO}_2 \approx 1 - \text{SvO}_2$$
+* At rest, $\text{O}_2\text{ER}$ is $0.20\text{--}0.30$ ($20\text{--}30\%$). Under normal baseline conditions, tissues consume only one-quarter of available delivered oxygen, leaving a substantial 75% extraction reserve.
 
-The concentration of hemoglobin-bound  $O_2$  (HbO<sub>2</sub>) is determined by the concentration of hemoglobin [Hb] (usually expressed as grams per deciliter (100 mL), the  $O_2$  binding capacity of hemoglobin (which is 1.34 mL  $O_2$  per gram Hb), and the  $O_2$  saturation of hemoglobin (SO<sub>2</sub>).
+</div></details>
 
-This relationship is expressed as follows (3):
+<details class="med-details" open><summary>
 
-$$HbO_2 = 1.34 \times [Hb] \times SO_2 (mL/dL)$$
- (9.1)
+## Physiological Oxygen Extraction and Critical Thresholds</summary><div class="details-content">
 
-(The  $SO_2$  in this equation is expressed as a decimal rather than percentage: e.g., 0.75 instead of 75%.)
+The systemic oxygen transport system preserves a steady metabolic consumption ($\text{VO}_2$) during acute reductions in delivery ($\text{DO}_2$) through compensatory microvascular recruitment and increased extraction:
+$$\text{VO}_2 = \text{DO}_2 \times \text{O}_2\text{ER}$$
 
-#### Dissolved Oxygen
+<span id="fig-9-3"></span>
+![](_page_9_Figure_0.jpeg)
 
-Plasma is about 93% water, and oxygen does not readily dissolve in water (which is why hemoglobin is needed as an  $O_2$  carrier). The solubility of  $O_2$  in plasma is temperature-dependent, and varies inversely with a change in body temperature. At a normal body temperature (37 °C), each increment in  $PO_2$  of 1 mm Hg will increase the concentration of dissolved  $O_2$  in plasma by 0.03 mL/L (4). This is expressed as a *solubility coefficient* of 0.03 mL/L/mm Hg (or 0.003 mL/dL/mm Hg) The concentration of dissolved  $O_2$  in plasma at 37 °C is then determined as follows:
+<span class="caption">**FIGURE 9.3** The biphasic relationship between systemic oxygen delivery ($\text{DO}_2$) and oxygen consumption ($\text{VO}_2$). Above the critical delivery threshold ($\text{DO}_{2\text{crit}}$), $\text{VO}_2$ is supply-independent. Below this threshold, maximum extraction capacity ($\text{O}_2\text{ER} \approx 50\text{--}60\%$) is exhausted, rendering $\text{VO}_2$ supply-dependent and precipitating anaerobic cellular metabolism.</span>
 
-Dissolved 
-$$O_2 = 0.003 \times PO_2 \text{ (mL/dL)}$$
- (9.2)
+### Supply Independence and Critical DO2
+The relationship between delivery and consumption is biphasic ([Fig. 9.3](#fig-9-3)):
+1. **Supply-Independent Region:** Under physiological conditions, $\text{VO}_2$ is governed strictly by metabolic demand. As $\text{DO}_2$ falls, tissues compensate by increasing oxygen extraction ($\text{SaO}_2 - \text{SvO}_2$ widens). $\text{VO}_2$ remains perfectly constant.
+2. **Critical Oxygen Delivery ($\text{DO}_{2\text{crit}}$):** When delivery drops below a critical point, tissue extraction reaches its maximal ceiling ($\text{O}_2\text{ER} \ge 50\%$).
+3. **Supply-Dependent Region:** Further reductions in $\text{DO}_2$ force an inevitable decline in $\text{VO}_2$. Cellular metabolism becomes oxygen-limited, causing an intracellular energy crisis.
 
-This equation emphasizes the limited volume of dissolved  $O_2$  in the physiological  $PO_2$  range (see next).
+<span id="tab-9-4"></span>
 
-#### **Arterial O<sub>2</sub> Content**
+### Table 9.4. Surrogate Measures of Oxygen Extraction
 
-The  $O_2$  content in arterial blood (CaO<sub>2</sub>) is determined by combining Equations 9.1 and 9.2 and inserting the  $SO_2$  and  $PO_2$  of arterial blood (SaO<sub>2</sub> and  $PaO_2$ ): i.e.,
+| Measure | Normal Baseline | Tissue Oxygenation Threatened | Defect in $\text{O}_2$ Utilization |
+| :--- | :--- | :--- | :--- |
+| $\text{SaO}_2 - \text{SvO}_2$ | 20–30% | $\ge 50\%$ | $< 20\%$ |
+| Mixed Venous Saturation ($\text{SvO}_2$) | 65–75% | $\le 50\%$ | $> 80\%$ |
 
-$$CaO_2 = (1.34 \times [Hb] \times SaO_2) + (0.003 \times PaO_2) (mL/dL)$$
- (9.3)
+### Clinical Interpretation of (SaO2 - SvO2) and SvO2
+Assuming a constant metabolic rate, venous oximetry provides bedside tracking of microcirculatory oxygen balance ([Table 9.4](#tab-9-4)):
+* **Normal Range:** Mixed venous saturation ($\text{SvO}_2$) ranges from 65% to 75%, with $\text{SaO}_2 - \text{SvO}_2 = 20\text{--}30\%$. Spontaneous physiological fluctuations average 5%; therefore, changes must exceed 5% to be clinically meaningful.
+* **Compensatory Widening ($\text{SvO}_2 < 65\%$, $\text{SaO}_2 - \text{SvO}_2 > 30\%$):** Indicates inadequate delivery relative to demand, caused by hypoxemia, acute anemia, low cardiac output, or hypermetabolism.
+* **Impaired Oxygenation Threshold ($\text{SvO}_2 \le 50\%$, $\text{SaO}_2 - \text{SvO}_2 \ge 50\%$):** Signals that extraction capacity is near exhaustion. Tissue oxygenation is critically threatened, and anaerobic metabolism is imminent.
+* **Utilization Defect / Peripheral Shunting ($\text{SvO}_2 > 80\%$, $\text{SaO}_2 - \text{SvO}_2 < 20\%$):** Pathognomonic of septic shock and severe mitochondrial dysfunction (cytopathic dysoxia). Impaired cellular oxygen uptake and microvascular shunting cause venous blood to return to the pulmonary artery without unloading oxygen.
 
-Using normal values for {Hb] (15 g/dL),  $SaO_2$  (0.98), and  $PaO_2$  (90 mm Hg) yields the following:
+### Central Venous Oxygen Saturation (ScvO2)
+Because pulmonary artery catheters are less frequently placed, central venous catheters positioned at the junction of the superior vena cava and right atrium are used to measure $\text{ScvO}_2$:
+* **Discrepancy with Mixed Venous Blood:** In healthy individuals, $\text{ScvO}_2$ is lower than $\text{SvO}_2$. In critically ill patients, $\text{ScvO}_2$ is higher than $\text{SvO}_2$ by an average of 7%, and can exceed $\text{SvO}_2$ by up to 18% during circulatory shock. This reflects intense peripheral vasoconstriction in splanchnic and lower-extremity vascular beds with preferential preservation of cerebral blood flow.
+* **Clinical Utility:** Despite numerical differences, dynamic changes in $\text{ScvO}_2$ mirror changes in $\text{SvO}_2$. Tracking directional trends in $\text{ScvO}_2$ is clinically dependable, with an $\text{ScvO}_2$ target of $\ge 70\%$ widely recommended during early resuscitation of shock.
 
-<span id="page-3-0"></span>
-$$CaO_2 = (19.7) + (0.27)$$
- (9.4)
+### Tissue Oxygen Saturation (StO2) via Near-Infrared Spectroscopy
+Near-infrared spectroscopy (NIRS) applies an optical sensor to skin (typically over the thenar eminence) to measure hemoglobin oxygen saturation in underlying skeletal muscle microvessels ($\text{StO}_2$):
+* Because the microcirculation is predominantly venular, $\text{StO}_2$ mainly reflects local post-capillary venous saturation.
+* Although skeletal muscle $\text{StO}_2$ correlates with systemic $\text{DO}_2$ during circulatory shock, deep photon scattering creates wide inter-individual variability, preventing the definition of universal normal reference ranges.
 
-Thus, the normal arterial  $O_2$  content is about 20 mL/dL (or 200 mL/L), and *only 1.5% represents dissolved oxygen*.
+</div></details>
 
-### Anemia vs. Hypoxemia
+<details class="med-details" open><summary>
 
-The relative impact of anemia and hypoxemia on the arterial  $O_2$  content ( $CaO_2$ ) is shown in Figure 9.2. Note that a 50% reduction in [Hb] (from 15 to 7.5 g/dL) results in an equivalent 50% reduction in  $CaO_2$  (from 20 to 10 mL/dL), while a 50% reduction in the  $PaO_2$  (from 90 to 45 mm Hg, corresponding to a decrease in  $SaO_2$  from 98% to 78%) results in only a 20% decrease in  $CaO_2$  (from 20 to 16 mL/dL). This demonstrates that *anemia has a much greater influence on arterial oxygenation than hypoxemia*.
+## Plasma Lactate and Aerobic Metabolism</summary><div class="details-content">
 
-<span id="page-4-0"></span>![](_page_4_Figure_0.jpeg)
+An elevated plasma lactate concentration ($> 2\text{ mmol/L}$) is widely utilized as the principal biomarker of circulatory shock and tissue hypoperfusion. However, contemporary biochemical evidence contradicts the dogma that hyperlactatemia is synonymous with tissue hypoxia.
 
-**FIGURE 9.2** The influence of proportional degrees of anemia and hypoxemia on the oxygen content in arterial blood  $(CaO_2)$ .
+<span id="fig-9-4"></span>
+![](_page_13_Figure_0.jpeg)
 
-#### **Venous O<sub>2</sub> Content**
+<span class="caption">**FIGURE 9.4** Clinical prognostic value of plasma lactate. Left: In-hospital mortality rises progressively with admission plasma lactate concentration. Right: Mortality escalates substantially as the time required for lactate clearance to normal levels lengthens.</span>
 
-The venous  $O_2$  content ( $CvO_2$ ) represents the  $O_2$  content in "mixed" venous blood (from the right heart or pulmonary artery). The equation describing  $CvO_2$  is similar in format to Equation 9.3, but the  $SO_2$  and  $PO_2$  are for mixed venous blood ( $SvO_2$  and  $PvO_2$ ).
+### Prognostic Significance versus Mechanistic Fallacy
+Plasma lactate levels demonstrate robust clinical prognostic validity ([Fig. 9.4](#fig-9-4)):
+* **Mortality Correlation:** Hospital mortality rises in direct proportion to admission plasma lactate concentrations.
+* **Lactate Clearance:** Failure to clear elevated lactate levels within 24 hours reflects ongoing physiological derangement and portends high mortality.
+* **The Fallacy of Circular Reasoning:** The clinical association between lactate and death has been mistakenly interpreted as proof of widespread cellular oxygen starvation. However, this assumption is circular: cellular hypoxia is diagnosed based on hyperlactatemia, and hyperlactatemia is assumed to represent cellular hypoxia.
 
-$$CvO_2 = (1.34 \times [Hb] \times SvO_2) + (0.003 \times PvO_2)$$
- (9.5)
+### Evidence Against Cellular Hypoxia in Critical Illness
+Direct physical measurements refute widespread tissue hypoxia in sepsis:
+* **Cellular Positron Imaging:** Positron-emission studies with the hypoxia-specific tracer $^{18}\text{F}$-fluoromisonidazole demonstrate zero evidence of cellular hypoxia in vital organs during septic shock.
+* **Intramuscular Oxygen Tension:** Direct microelectrode recordings demonstrate that skeletal muscle $\text{PO}_2$ levels are preserved or even elevated in human septic shock.
+* **Low Baseline Intracellular PO2:** Normal intracellular oxygen tension is remarkably low: skeletal muscle averages $5\text{ mm Hg}$ (frequently $< 1\text{ mm Hg}$), and cardiac myocytes operate at $0.2\text{--}2.4\text{ mm Hg}$. Mitochondria can maintain aerobic ATP generation down to a $\text{PO}_2 \le 0.5\text{ mm Hg}$. Cells naturally operate in a hypoxic milieu to protect vital organelles from reactive oxygen species.
 
-As shown in Table 9.1, the normal mixed venous  $O_2$  content is about 15 mL/dL, and less than 1% (0.1 mL/dL) represents dissolved  $O_2$ . Note also that the difference between the arterial and venous  $O_2$  content ( $CaO_2 - CvO_2$ ) is 5 mL/dL, or 50 mL/L, which means that 50 mL of  $O_2$  is extracted from each liter of blood flowing through the capillaries. At a normal cardiac output of 5 L/min, the  $O_2$  extracted from capillary blood would be 5 × 50 = 250 mL/min, which is the normal  $O_2$  consumption in an adult at rest. This demonstrates how the oxygenation of blood can provide information about the oxygen utilization in tissues.
-
-### Simplified O<sub>2</sub> Content Equation
-
-The dissolved  $O_2$  is such a small fraction of the total  $O_2$  content that it is usually eliminated from the equation describing  $O_2$  content, as shown below.
-
-### **Volume Distribution of O<sup>2</sup> in Blood**
-
-Although the O<sup>2</sup> content in arterial blood exceeds that in venous blood, the volume of O<sup>2</sup> (i.e., the product of the O<sup>2</sup> content and blood volume), in arterial blood is far lower than in venous blood. This is shown in [Table](#page-0-0) 9.1, where the volume of O<sup>2</sup> in arterial blood (250 mL) is less than half the volume in venous blood (555 mL). This is a reflection of the uneven distribution of blood volume in arteries and veins: i.e., the arteries contain only 25% of the total blood volume, while the remaining 75% is in the venous circulation. Thus, of the total volume of O<sup>2</sup> in the blood (250 + 555 = 805 mL), about 70% (555/805) is not available for aerobic metabolism because it is in the venous circulation.
-
-### **OXYGEN TRANSPORT**
-
-The transport of O<sup>2</sup> from the lungs to metabolizing tissues is described by three parameters: the rate of O<sup>2</sup> delivery in arterial blood (O<sup>2</sup> delivery), the rate of O<sup>2</sup> uptake from the systemic microcirculation (O<sup>2</sup> uptake), and the fractional extraction of O<sup>2</sup> from capillary blood (O<sup>2</sup> extraction ratio). The reference ranges for these measures are listed in [Table](#page-5-0) 9.2, including both absolute and size-adjusted ranges. The preferred measure of body size for hemodynamic parameters is the body surface area (BSA) in square meters (m2). (See Equation 8.3 for the calculation of BSA.) An average-sized adult has a BSA of about 1.7 m2.
-
-<span id="page-5-0"></span>
-
-| TABLE<br>9.2           | Normal<br>Ranges<br>for<br>Oxygen<br>Transport<br>Parameters |                      |  |
-|------------------------|--------------------------------------------------------------|----------------------|--|
-| Parameter              | Absolute Range                                               | Size-Adjusted Range† |  |
-| Cardiac Output         | 5–6 L/min                                                    | 2.4–4.0 L/min/m2     |  |
-| O2<br>Delivery         | 900–1,100 mL/min                                             | 520–600 mL/min/m2    |  |
-| O2<br>Uptake           | 200–270 mL/min                                               | 110–160 mL/min/m2    |  |
-| O2<br>Extraction Ratio | 0.2–0.3                                                      |                      |  |
-
-<sup>†</sup>Size-adjusted values are the absolute values divided by the patient's body surface area in square meters (m2).
-
-## **Oxygen Delivery (DO2)**
-
-The rate of O<sup>2</sup> delivery in arterial blood (DO<sup>2</sup> ) is the product of the cardiac output (CO) and the O<sup>2</sup> content of arterial blood (CaO<sup>2</sup> ) (5); i.e.,
-
-<span id="page-5-1"></span>
-$$DO_2 = CO \times CaO_2 \times 10 \text{ (mL/min)}$$
-(9.7)
-
-(The multiplier of 10 is used to convert the CaO<sup>2</sup> from mL/dL to mL/L.) If the CaO<sup>2</sup> is broken down into its components (1.34 × [Hb] × SaO<sup>2</sup> ), [Equation](#page-5-1) 9.7 can be rewritten as:
-
-$$DO_2 = CO \times (1.34 \times [Hb] \times SaO_2) \times 10$$
-(9.8)
-
-Three measurements are needed to calculate the DO<sup>2</sup> : cardiac output, hemoglobin concentration, and arterial O<sup>2</sup> saturation. If the DO<sup>2</sup> is expressed in relation to body size (BSA), the "cardiac index" (CI = CO/BSA) is used instead of the cardiac output. The DO<sup>2</sup> in healthy adults at rest is 900**–**1,100 mL/min, or 500**–**600 mL/min/m2 when ad-justed for body size.
-
-### **Oxygen Uptake**
-
-The rate of O<sup>2</sup> transport from the systemic capillaries into the tissues is called the *oxygen uptake* (VO<sup>2</sup> ). Since oxygen is not stored in tissues, the VO<sup>2</sup> is also a measure of the *oxygen consumption* in systemic tissues. The VO<sup>2</sup> can be calculated as the product of the cardiac output (CO) and the difference between arterial and venous O<sup>2</sup> content (CaO<sup>2</sup> – CvO<sup>2</sup> ).
-
-<span id="page-6-0"></span>
-$$VO_2 = CO \times (CaO_2 - CvO_2) \times 10 \text{ (mL/min)}$$
-(9.9)
-
-(The multiplier of 10 is included for the same reason as explained for the DO<sup>2</sup> .) This equation is a modified version of the Fick equation for cardiac output (i.e., CO = VO<sup>2</sup> / CaO<sup>2</sup> – CvO<sup>2</sup> ), and has been called the *reverse Fick method* (6). The CaO<sup>2</sup> and CvO<sup>2</sup> in [Equation](#page-6-0) 9.9 share a common term (1.34 × [Hb]), so the equation can be restated as:
-
-$$VO_2 = CO \times 1.34 \times [Hb] \times (SaO_2 - SvO_2) \times 10$$
- (9.10)
-
-Thus, four measurements are required to calculate the VO<sup>2</sup> : the same 3 measurements used to calculate the DO<sup>2</sup> , plus the O<sup>2</sup> saturation in "mixed" venous blood in the pulmonary arteries (SvO<sup>2</sup> ), which requires a pulmonary artery catheter. When the VO<sup>2</sup> is expressed in relation to body size (BSA), the "cardiac index" (CI = CO/BSA) is used instead of the cardiac output. The VO<sup>2</sup> in healthy adults at rest is 200–300 mL/min, or 110–160 mL/min/m2.
-
-#### *Variability*
-
-Each of the 4 measurements used to derive the VO<sup>2</sup> has an inherent variability, and these are shown in [Table](#page-7-0) 9.3 (6–8). The variability of the calculated VO<sup>2</sup> is ±18%, which is the summed variability of the individual components. Therefore, *the VO<sup>2</sup> that is calculated from the modified Fick equation must change by at least 18% for the change to be considered significant.*
-
-### *Calculated vs. Measured VO<sup>2</sup>*
-
-*The calculated VO<sup>2</sup> is not the whole-body VO<sup>2</sup> because it does not include the VO<sup>2</sup> of the lungs*. Normally, the VO<sup>2</sup> of the lungs accounts for less than 5% of the whole-body VO<sup>2</sup> (9), but it can make up 20% of the whole body VO<sup>2</sup> when there is inflammation in the lungs (10).
-
-**MEASURED VO<sup>2</sup> :** The measurement of the whole body VO<sup>2</sup> involves simultaneous measurements of the O<sup>2</sup> concentration in inhaled and exhaled gas. This requires an instrument that is equipped with an oxygen analyzer, such as the "metabolic carts" used for indirect calorimetry (see Chapter
-
-48). The  $O_2$  analyzer is connected to the proximal airway (usually in intubated patients) to record the fractional concentration of  $O_2$  in inhaled and exhaled gas (Fi $O_2$  and Fe $O_2$ ). The instrument also records the minute ventilation (VE), and the VO<sub>2</sub> is derived as follows:
-
-$$VO_2 = VE \times (FiO_2 - FeO_2)$$
- (9.11)
-
-The measured  $VO_2$  has a reported variability of  $\pm 5\%$  (6,8), which is much less than the variability of the calculated  $VO_2$  ( $\pm 18\%$ ). The major drawback of the  $VO_2$  measurement is the need for specialized equipment and trained personnel, which limits availability.
-
-<span id="page-7-0"></span>
-
-| TABLE 9.3 Variability of Measurements Used to C<br>Consumption                                                                                                    | Variability of Measurements Used to Calculate the Oxygen Consumption |  |
-|-------------------------------------------------------------------------------------------------------------------------------------------------------------------|----------------------------------------------------------------------|--|
-| Measurement                                                                                                                                                       | Variability                                                          |  |
-| Thermodilution Cardiac Output Hemoglobin Concentration O <sub>2</sub> Saturation of Hemoglobin O <sub>2</sub> Content of Blood CaO <sub>2</sub> -CvO <sub>2</sub> | ± 10%<br>± 2%<br>± 2%<br>± 4%<br>± 8%                                |  |
-| Calculated VO <sub>2</sub> Measured VO <sub>2</sub>                                                                                                               | ± 18%<br>± 5%                                                        |  |
-
-From References 6-8.
-
-### **Oxygen Extraction Ratio**
-
-The fractional uptake of  $O_2$  into tissues is expressed as the *oxygen extraction ratio* ( $O_2$ ER), which is the ratio of  $O_2$  uptake ( $VO_2$ ) to  $O_2$  delivery ( $DO_2$ ).
-
-<span id="page-7-2"></span><span id="page-7-1"></span>
-$$O_2ER = VO_2 / DO_2$$
- (9.12)
-
-This ratio can be multiplied by 100 and expressed as a percentage. The  $VO_2$  and  $DO_2$  share common terms (Q × 1.34 x [Hb] x 10), which allows Equation 9.12 to be restated as follows:
-
-$$O_2ER = (SaO_2 - SvO_2) / SaO_2$$
- (9.13)
-
-If the  $SaO_2$  is close to 100% (close to 1.0), the denominator in Equation 9.13 can be eliminated; i.e.,
-
-$$O_2ER = (SaO_2 - SvO_2)$$
- (9.14)
-
-or the equation can be futher simplified to include only a single variable:
-
-<span id="page-7-4"></span><span id="page-7-3"></span>
-$$O_2ER = 1 - SvO_2$$
- (9.15)
-
-The VO<sup>2</sup> is normally about 25% of the DO<sup>2</sup> , so the normal O2ER is 0.25 (range = 0.2–0.3), as shown in [Table](#page-5-0) 9.2. Thus, *only 25% of the O<sup>2</sup> delivered to the capillaries is taken up into the tissues* when conditions are normal. This changes when O<sup>2</sup> delivery is reduced, as described next.
-
-# **OXYGEN EXTRACTION**
-
-The oxygen transport system operates to maintain a constant VO<sup>2</sup> in the face of decreases in O<sup>2</sup> delivery (DO<sup>2</sup> ), and this is accomplished by compensatory increases in the O<sup>2</sup> extraction ratio (O2ER) (11). This is explained by rearranging the terms in [Equation](#page-7-1) 9.12 so that VO<sup>2</sup> is the derived variable:
-
-<span id="page-8-0"></span>
-$$VO_2 = DO_2 \times O_2 ER \tag{9.16}$$
-
-This equation predicts that the VO<sup>2</sup> will remain constant when DO<sup>2</sup> is decreased if there is an proportional increase in O<sup>2</sup> extraction. However, if the increase in O<sup>2</sup> extraction cannot fully compensate for a decrease in DO<sup>2</sup> , then the VO<sup>2</sup> will begin to decrease, and this marks the onset of oxygen-limited (anaerobic) metabolism.
-
-The relationships in [Equation](#page-8-0) 9.16 are illustrated in [Figure](#page-9-0) 9.3. The graph shows the effects of a progressive decrease in DO<sup>2</sup> on the VO<sup>2</sup> , and the boxes show the O<sup>2</sup> extraction at relevant points on the curve. In this case, O<sup>2</sup> extraction is represented by the (SaO2–SvO<sup>2</sup> ) difference, which is allowed because the SaO<sup>2</sup> is typically maintained at >90% (i.e., close to 1.0). This creates the following relationships:
-
-$$VO_2 = DO_2 \times (SaO_2 - SvO_2)$$
- (9.17)
-
-The graph indicates that, as DO<sup>2</sup> decreases below normal (moving to the left along the curve), the VO<sup>2</sup> initially remains unchanged, indicating that there is a compensatory increase in (SaO2– SvO<sup>2</sup> ). However, a point is eventually reached where the VO<sup>2</sup> begins to decrease, and at this point, the (SaO2–SvO<sup>2</sup> ) difference has increased from 25% to 50%. Beyond this point, the VO<sup>2</sup> decreases in response to a decrease in DO<sup>2</sup> , indicating that O<sup>2</sup> extraction is no longer able to fully compensate for the declining DO<sup>2</sup> . The point where the VO<sup>2</sup> becomes "delivery-dependent" is the threshold for O<sup>2</sup> -limited metabolism (12).
-
-<span id="page-9-0"></span>![](_page_9_Figure_0.jpeg)
-
-**FIGURE 9.3** Graph showing the relationship between  $O_2$  delivery (DO<sub>2</sub>) and  $O_2$  uptake (VO<sub>2</sub>). The  $O_2$  extraction ratio (O<sub>2</sub>ER) is represented by (SaO<sub>2</sub> – SvO<sub>2</sub>) difference. See text for explanation).
-
-The relationships in Figure 9.3 indicate that the  $(SaO_2-SvO_2)$  difference can be used to assess the balance between  $O_2$  delivery and  $O_2$  consumption, and more importantly, to identify when tissue oxygenation is threatened or impaired.
-
-### The (SaO<sub>2</sub> - SvO<sub>2</sub>) Difference
-
-As shown in Equation 9.14, the  $(SaO_2-SvO_2)$  difference can be used as a measure of  $O_2$  extraction as long as the  $SaO_2$  exceeds 90%. The following are some guidelines for the interpretation of the  $(SaO_2-SvO_2)$  difference, which are summarized in Table 9.4. (*Note:*  $O_2$  extraction is influenced by the metabolic rate, and the following guidelines are valid only if the metabolic rate is normal.)
-
-- . The normal  $(SaO_2 SvO_2)$  is 20–30%.
-- . An increase in  $(SaO_2 SvO_2)$  above 30% indicates a decrease in  $O_2$  delivery (from hypoxemia, anemia, or decreased cardiac output).
-- . An increase in  $(SaO_2 SvO_2)$  to  $\geq 50\%$  indicates that tissue oxygenation is threatened or impaired. This has been validated in animal studies (13).
-- . A decrease in (SaO $_2$  SvO $_2$ ) to <20% indicates a defect in O $_2$  utilization in tissues, which is
-
-usually the result of sepsis. This condition has also been called "peripheral shunting", since it mimics the changes produced by peripheral arteriovenous shunts.
-
-The SaO<sup>2</sup> is monitored continuously with pulse oximetry (which is mandatory in ICU patients), and the SvO<sup>2</sup> is measured in "mixed venous" blood in the pulmonary arteries, which requires a pulmonary artery (PA) catheter. The SvO<sup>2</sup> can be monitored continuously with specialized PA catheters capable of venous oximetry (e.g., Triox™-PAC, ICU Medical, San Clemente, CA). The technique of venous oximetry is described in Chapter 7, and illustrated in Figure 7.5.
-
-## **Venous O<sup>2</sup> Saturation (SvO2)**
-
-When the SaO<sup>2</sup> approaches 100%, the SvO<sup>2</sup> can be used alone to evaluate O<sup>2</sup> extraction, as described in [Equation](#page-7-4) 9.15. This equation demonstrates that the SvO<sup>2</sup> varies inversely with changes in O<sup>2</sup> extraction: e.g., an increase in O<sup>2</sup> extraction will result in a decrease in SvO<sup>2</sup> . The following are some guidelines for interpreting the SvO<sup>2</sup> , which are summarized in [Table](#page-10-0) 9.4.
-
-- 1. The normal range for SvO<sup>2</sup> in pulmonary artery blood is 65–75% (14).
-- 2. The SvO<sup>2</sup> varies spontaneously by an average of 5% (15), so a change in SvO<sup>2</sup> should exceed 5% to be considered significant.
-- 3. A decrease in SvO<sup>2</sup> to <65% indicates a decrease in O<sup>2</sup> delivery (from hypoxemia, anemia, or decreased cardiac output).
-- 4. A decrease in SvO<sup>2</sup> to ≤50% indicates that tissue oxygenation is threatened or impaired (16).
-- 5. An SvO<sup>2</sup> that is 80% or higher is a sign of impaired O<sup>2</sup> utilization in metabolizing tissues, and is usually the result of sepsis.
-
-<span id="page-10-0"></span>
-
-| TABLE<br>9.4   | Surrogate<br>Measures<br>of<br>O2<br>Extraction |                         |                             |
-|----------------|-------------------------------------------------|-------------------------|-----------------------------|
-| Measure        | Normal Range                                    | Tissue O2<br>Threatened | Defect in O2<br>Utilization |
-| SaO2<br>– SvO2 | 20-30%                                          | ≥50%                    | <20%                        |
-| SvO2           | 65-75%                                          | ≤50%                    | >80%                        |
-
-### **Central Venous O<sup>2</sup> Saturation (ScvO2)**
-
-The decline in popularity of pulmonary artery catheters has shifted attention to the O<sup>2</sup> saturation in the superior vena cava; i.e., the "central venous O<sup>2</sup> saturation" (ScvO<sup>2</sup> ). The relevant information about ScvO<sup>2</sup> is summarized in the following statements.
-
-1. The ScvO<sup>2</sup> is lower than the SvO<sup>2</sup> in healthy subjects. However, it is higher than the SvO<sup>2</sup> (by an average of 7%) in critically ill patients (14,17), and this difference can be as high as 18% in patients with circulatory shock (17,18). The ScvO<sup>2</sup> is heavily influenced by the cerebral
-
-venous O<sup>2</sup> saturation, and the elevated ScvO<sup>2</sup> in circulatory shock is attributed to peripheral vasoconstriction with relative preservation of cerebral blood flow.
-
-- 2. Despite the discrepancy between ScvO<sup>2</sup> and SvO<sup>2</sup> , changes in ScvO<sup>2</sup> generally mirror those in the SvO<sup>2</sup> (17), and *trends in the ScvO<sup>2</sup> are considered more reliable than individual measurements* (19). The definition of a significant change in ScvO<sup>2</sup> is the same as that mentioned for the SVO<sup>2</sup> (i.e., Δ >5%).
-- 3. The normal range of ScvO<sup>2</sup> is not well defined, but an ScvO<sup>2</sup> of 70% is one of the recommended goals of hemodynamic management in circulatory shock (20).
-
-The ScvO<sup>2</sup> can be monitored with central venous catheters or peripherally-inserted central catheters (PICCs); both catheters are available as oximetry catheters (e.g., Triox™-CVC and Triox™-PICC, ICU Medical, San Clemente, CA) that provide continuous ScvO<sup>2</sup> monitoring.
-
-### **Tissue O<sup>2</sup> Saturation (StO2)**
-
-The technique of *near-infrared spectroscopy* (NIRS) is a form of oximetry that uses an optical probe on the skin to measure the O<sup>2</sup> saturation of hemoglobin in the microcirculation of the underlying tissue. This measurement is known as the *tissue O<sup>2</sup> saturation* (StO<sup>2</sup> ), which is a misleading term because the measured variable is mostly in blood. Since most of the blood in the microcirculation is in the venules, the StO<sup>2</sup> is primarily a reflection of venous O<sup>2</sup> saturation (SvO<sup>2</sup> or ScvO<sup>2</sup> ) (21). (The StO<sup>2</sup> in muscle can also be influenced by the O<sup>2</sup> saturation of myoglobin) (22).
-
-In adults, NIRS has been used to monitor the StO<sup>2</sup> in the cerebral cortex (23) and in skeletal muscle (24). In patients with circulatory shock, there is a close correlation between changes in skeletal muscle StO<sup>2</sup> and changes in systemic O<sup>2</sup> delivery (DO<sup>2</sup> ), suggesting that StO<sup>2</sup> monitoring could serve as a noninvasive means of tracking changes in O<sup>2</sup> delivery (24).
-
-One of the major limitations of the StO<sup>2</sup> measurement is the inability to define normal and abnormal levels, since there is a marked variability in the StO<sup>2</sup> in healthy subjects, and in patients with circulatory shock (25). This could be a reflection of the methodology, because photons scatter in tissues (i.e., they do not follow a straight path from light source back to the photodetector), and the degree of scatter can vary greatly in individual subjects and in different pathological states.
-
-## **LACTATE**
-
-An increase in the plasma lactate concentration (>2 mmol/L) is considered the most reliable marker of inadequate tissue oxygenation, and it is a stated requirement for the diagnosis of circulatory shock (26). However, the traditional concepts about lactate are changing, as explained in this section.
-
-#### **Lactate and Survival**
-
-Clinical studies have consistently shown that the mortality rate in critically ill patients is directly
-
-related to the initial plasma lactate level, and to the time required for the lactate level to return to normal after treatment is initiated. This is demonstrated in [Figure](#page-13-0) 9.4. The graph on the left shows the relationship between the initial lactate level and in-hospital mortality (27), and the graph on the right shows the relationship between mortality and the time required to normalize the plasma lactate (called "lactate clearance") (28).
-
-The relationship between plasma lactate levels and survival highlights the importance of monitoring plasma lactate in critically ill patients. However, this relationship is *not* evidence that lactate is a marker of inadequate tissue oxygenation, as explained next.
-
-#### *Circular Reasoning*
-
-The relationship between plasma lactate levels and survival is considered evidence that lactate is a marker of inadequate tissue oxygenation because of the popular notion that oxygen deprivation is the universal source of cell death in critically ill patients. However, this notion is largely *based* on the relationship between plasma lactate levels and survival.
-
-#### *Contrary Evidence*
-
-Because of the difficulties in recording the PO<sup>2</sup> in cells (and especially in mitochondria), there is no evidence that cell death in critically ill patients is the result of O<sup>2</sup> deprivation. However, there is evidence to the contrary: i.e., in animal studies using a positron-emitting marker of cell hypoxia (18F-fluoromisonidazole), there was no evidence of cell hypoxia in any of the major organs in septic shock (29), and human studies using PO<sup>2</sup> recordings from skeletal muscle have reported that *tissue PO<sup>2</sup> levels are actually increased in patients with septic shock* (30,31).
-
-Considering that the intracellular PO<sup>2</sup> in skeletal muscle averages 5 mm Hg, and can be <1 mm Hg (32), while the recorded PO<sup>2</sup> in cardiac myocytes is 0.2–2.4 mm Hg (33), it seems that cells normally operate at very low PO<sup>2</sup> levels, which is contrary to the idea that cell death is the result of low PO<sup>2</sup> levels. In fact, an oxygen-poor environment in cells is advantageous because it limits the risk of oxidative cell injury.
-
-The observations just presented suggest that cellular O<sup>2</sup> deprivation may not be the universal culprit in cell death (and organ failure) in critically ill patients, and this implies that aerobic lactate production may be much more common than suspected (see next).
-
-<span id="page-13-0"></span>![](_page_13_Figure_0.jpeg)
-
-**FIGURE 9.4** Graphs showing the relationship between plasma lactate levels and in-hospital mortality in critically ill patients. The graph on the left shows the relationship between the initial lactate level and mortality (27), and the graph on the right shows the relationship between the mortality rate and the time for increased lactate levels to normalize (lactate clearance) (28).
-
-#### **Aerobic Lactate Production**
-
-The role of aerobic lactate production is explained using the pathways of glucose metabolism in [Figure](#page-15-0) 9.5. There are two general pathways for glucose metabolism: one is located in the cytoplasm, and is known as *glycolysis*, and the other is located in mitochondria, and is involved in *oxidative phosphorylation* (i.e., the production of ATP). The glycolytic pathway operates in the presence or absence of oxygen, while the mitochondrial pathway proceeds only in the presence of oxygen. The traditional teaching is that glycolysis reaches a pivotal point with the formation of pyruvate: when O<sup>2</sup> is available, pyruvate moves into mitochondria via the enzyme pyruvate dehydrogenase, and when O<sup>2</sup> is not available, pyruvate is reduced to lactate using the enzyme lactate dehydrogenase (LDH).
-
-According to the scheme just presented, pyruvate is the end-point of aerobic glycolysis, and lactate is the end-point of anaerobic glycolysis. However this is not the case, because lactate is produced under aerobic conditions: i.e., the daily production of lactate averages about 20 mmol/kg body weight (34). In fact, the reaction that converts pyruvate to lactate has an equilibrium constant that strongly favors lactate formation. The aerobic production of lactate is enhanced in several clinical conditions, including those listed in [Table](#page-14-0) 9.5. Many of the conditions in this table are likely to be encountered in critically ill patients, including those described next.
-
-<span id="page-14-0"></span>
-
-| TABLE<br>9.5        | Sources<br>of<br>Aerobic<br>Hyperlactatemia |  |
-|---------------------|---------------------------------------------|--|
-| Conditions          | Drugs and Toxins                            |  |
-| Asthma (severe)     | β Agonists                                  |  |
-| Ketoacidosis        | Catecholamines                              |  |
-| Liver Dysfunction   | Cyanide                                     |  |
-| Seizures            | Metformin                                   |  |
-| Sepsis              | Propofol                                    |  |
-| Stress              | Propylene Glycol                            |  |
-| Thiamine Deficiency | Salicylates                                 |  |
-| Tumors              | Toxic Alcohols                              |  |
-
-#### *Sepsis*
-
-Hyperlactatemia is considered a universal consequence of sepsis and septic shock (26, 35), and two sources of this phenomenon have been identified. The principal source is inhibition of the pyruvate dehydrogenase (PDH) enzyme that allows pyruvate to enter mitochondria and fuel oxidative phosphorylation (see [Figure](#page-15-0) 9.5) (36). The culprits in this inhibition are bacterial products (e.g., endotoxin) and proinflammatory cytokines (37,38). The result is enhanced lactate production that is not the result of cellular hypoxia. Sepsis-induced inhibition of the PDH enzyme would explain why the cell injury in sepsis is attributed to a defect in O<sup>2</sup> utilization in mitochondria (38). Sepsis is also associated with a catecholamine-driven increase in the rate of glycolysis (39), and this (especially when combined with inhibition of the PDH enzyme) is the second source of aerobic lactate production in sepsis.
-
-As just described, there is considerable evidence that the hyperlactatemia in sepsis is the result of aerobic (not anaerobic) lactate production. Considering that sepsis is the leading cause of in-hospital deaths in the United States (40), it is reasonable to conclude that aerobic hyperlactatemia is much more common than suspected in critically ill patients.
-
-#### *Physiological Stress*
-
-Stressful conditions are associated with an increase in glucose uptake into cells, which is attributed to the accumulation of a glucose transporter protein at the cell surface (41). This effect, combined with the stimulatory effect of catecholamines mentioned previously (39), results in a considerable (40–50%) increase in the rate of aerobic glycolysis, and a subsequent increase in aerobic lactate production (29).
-
-### *Thiamine Deficiency*
-
-The PDH enzyme that draws pyruvate into the mitochondrion (and thereby fuels oxidative phosphorylation) requires thiamine pyrophosphate (TPP) as a cofactor (see [Figure](#page-15-0) 9.5), and deficiency of this cofactor will divert pyruvate to the production of lactate and enhance aerobic lactate production. This is the mechanism for the hyperlactatemia in thiamine deficiency (42), which is considered a common and often unrecognized condition in critically ill patients (43).
-
-<span id="page-15-0"></span>(See Chapter 48 for more on thiamine deficiency.)
-
+<span id="fig-9-5"></span>
 ![](_page_15_Figure_1.jpeg)
 
-**FIGURE 9.5** The pathways of glucose metabolism. ATP = adenosine triphosphate, PDH = pyruvate dehydrogenase, TPP = thiamine pyrophosphate, LDH = lactate dehydrogenase, NAD and NADH = nicotinamide adenine dinucleotide (oxidized and reduced), FADH<sup>2</sup> = flavin adenine dinucleotide (reduced). See text for further explanation.
+<span class="caption">**FIGURE 9.5** Biochemical pathways of carbohydrate metabolism. Cytosolic glycolysis converts glucose to pyruvate, generating ATP and NADH. Pyruvate either enters the mitochondrion via pyruvate dehydrogenase (PDH) and thiamine pyrophosphate (TPP) to enter the Krebs cycle, or is reduced to lactate by lactate dehydrogenase (LDH). In critical illness, PDH inhibition and adrenergic stimulation drive accelerated aerobic lactate production.</span>
 
-#### *Conclusion*
+<span id="tab-9-5"></span>
 
-The information just presented indicates that *increased lactate production in critically ill patients may be predominantly aerobic in origin*. In fact, anaerobic lactate production is likely to be an uncommon event, as stated in a recent review of this topic (44):
+### Table 9.5. Sources of Aerobic Hyperlactatemia in Critical Care
 
-Today, it is well established that any increase in lactate concentration typically represents something other than O<sup>2</sup> limitation; hypoxia-driven lactate accumulation is very much the exception rather than the rule.
+| Clinical Conditions | Pharmacological Agents and Toxins |
+| :--- | :--- |
+| Severe asthma | $\beta_2$-Adrenergic agonists (albuterol, terbutaline) |
+| Diabetic or alcoholic ketoacidosis | Catecholamines (epinephrine, norepinephrine) |
+| Hepatic dysfunction / clearance impairment | Cyanide |
+| Generalized seizures | Metformin |
+| Sepsis and septic shock | Propofol |
+| Severe physiological stress | Propylene glycol (sedative drug vehicle) |
+| Thiamine deficiency (Beri-beri) | Salicylates |
+| Malignant tumors (Warburg effect) | Toxic alcohols (ethylene glycol, methanol) |
 
-So why is lactate production increased in critical illness? One possible answer is presented next.
+### Pathophysiology of Aerobic Hyperlactatemia
+Aerobic glycolysis normally generates approximately $20\text{ mmol/kg}$ of lactate daily. The equilibrium constant of lactate dehydrogenase (LDH) heavily favors lactate formation over pyruvate. In critically ill patients, hyperlactatemia occurs primarily through aerobic mechanisms ([Table 9.5](#tab-9-5)):
+1. **Pyruvate Dehydrogenase (PDH) Inhibition in Sepsis:** Bacterial endotoxins and inflammatory cytokines (TNF-$\alpha$, IL-1) directly inhibit mitochondrial PDH ([Fig. 9.5](#fig-9-5)). Blocked from mitochondrial entry, pyruvate accumulates in the cytosol and is converted to lactate, independent of oxygen availability.
+2. **Adrenergic Glycolytic Acceleration:** Stress-induced releases of endogenous catecholamines and exogenous $\beta_2$-agonist infusions stimulate the $\text{Na}^+/\text{K}^+$-ATPase pump and accelerate aerobic glycolysis by 40–50%, overwhelming PDH processing capacity and generating excess lactate.
+3. **Thiamine Deficiency:** Thiamine pyrophosphate (TPP) is an indispensable cofactor for PDH. Undetected thiamine deficiency halts mitochondrial pyruvate entry, causing profound aerobic hyperlactatemia that responds rapidly to intravenous thiamine repletion.
 
-#### **Lactate as an Oxidative Fuel**
+</div></details>
 
-Lactate can be viewed, not as a waste product of anaerobic metabolism, but rather as an alternative fuel source during periods of metabolic stress (39,44). The energy yield from the oxidative metabolism of lactate is equivalent to that of glucose, and this is shown in [Table](#page-16-0) 9.6. The caloric density (kcal/g) of lactate and glucose are equivalent and, since one glucose molecule
+<details class="med-details" open><summary>
 
-produces 2 lactate molecules, the energy yield from the complete oxidation of lactate and glucose are equivalent. Thus, lactate can serve as a source of energy when glucose availability is threatened by heightened metabolic demands.
+## Lactate as an Oxidative Super-Fuel</summary><div class="details-content">
 
-<span id="page-16-0"></span>
+Rather than being a toxic metabolic byproduct of cellular suffocation, lactate functions as an efficient, energy-dense metabolic fuel during physiological crisis.
 
-| TABLE<br>9.6 | Glucose<br>vs.<br>Lactate<br>as<br>Oxidative<br>Fuels |              |          |
-|--------------|-------------------------------------------------------|--------------|----------|
-|              |                                                       | Energy Yield |          |
-| Substrate    | Molecular Weight (g/mole)                             | (kcal/mole)  | (kcal/g) |
-| Glucose      | 180                                                   | 673          | 3.74     |
-| Lactate      | 90                                                    | 326          | 3.62     |
-| Lactate x 2  | 180                                                   | 652          | 3.62     |
+<span id="tab-9-6"></span>
 
-In conditions of metabolic stress (such as sepsis), lactate is often used as an oxidative fuel by the heart and brain. In this situation, lactate can provide 60% of the energy needs of the myocardium (44), and there is evidence that lactate improves cardiac performance in circulatory shock (45). Lactate can also provide about 25–30% of the energy needs of the brain in stressful conditions (46). Adaptations like these help to preserve the viability of the heart and brain in lifethreatening conditions.
+### Table 9.6. Comparison of Glucose versus Lactate as Oxidative Substrates
 
-# **A FINAL WORD**
+| Substrate | Molecular Weight (g/mol) | Energy Yield (kcal/mol) | Caloric Density (kcal/g) |
+| :--- | :--- | :--- | :--- |
+| Glucose | 180 | 673 | 3.74 |
+| Lactate | 90 | 326 | 3.62 |
+| Lactate $\times 2$ | 180 | 652 | 3.62 |
 
-### **Is Cellular Hypoxia a Common Cause of Death?**
+### Bioenergetics of Lactate Oxidation
+As shown in [Table 9.6](#tab-9-6), the caloric densities of glucose and lactate are nearly identical ($3.74\text{ vs. } 3.62\text{ kcal/g}$). Because one mole of glucose yields two moles of lactate, complete oxidation of two lactate molecules produces $652\text{ kcal}$, virtually matching the $673\text{ kcal}$ obtained from glucose:
+* **Myocardial Energy Substrate:** During severe physiological stress and shock, the heart shifts preferentially from fatty acid and glucose oxidation to lactate utilization. Lactate provides up to 60% of total myocardial energy expenditure during shock, enhancing ventricular contractility and cardiac performance.
+* **Cerebral Metabolism:** In acute neurotrauma and systemic shock, astrocytes convert glucose into lactate via the astrocyte-neuron lactate shuttle, providing 25–30% of total cerebral oxidative energy.
+* **Adaptive Value:** Hyperlactatemia provides an immediate, mobile carbohydrate substrate that vital organs burn oxidatively when glucose transport or processing is compromised.
 
-Since it is not possible to monitor tissue O<sup>2</sup> levels, the notion that impaired tissue oxygenation is responsible for multiorgan failure and fatal outcomes in critically ill patients is largely based on studies showing a correlation between plasma lactate levels and mortality. However, this interpretation is based on the assumption that lactate elevation is a marker of anaerobic metabolism in critically ill patients, which is likely not the case (as presented in the latter part of this chapter).
+</div></details>
 
-There is evidence (from animal studies) that intracellular PO<sup>2</sup> levels are as low as 1 mm Hg (47), and further, that aerobic production of ATP can continue down to PO<sup>2</sup> levels of ≤0.5 mm Hg (33,48). These observations indicate that *there is an oxygen-poor environment in the interior of cells, and that aerobic metabolism is designed to operate in such an environment* (49). As such, cell injury from a low PO<sup>2</sup> seems unlikely. The culprit in multiorgan failure is more likely to be inflammatory cell injury, especially in sepsis/septic shock, which is the leading cause of inhospital deaths in the United States (40).
+<details class="med-details" open><summary>
 
-So, why is there an oxygen-poor environment in our cells? For the same reason that we store food in vacuum-sealed containers, and wrap our sandwiches in cellophane; i.e., because *oxygen disrupts or decomposes organic (carbon-based) matter,* which includes all of our vital cell components. (See Chapter 25 for more on oxygen-related cell injury.)
+## A Final Word: Cellular Hypoxia and Critical Illness</summary><div class="details-content">
 
-#### *References*
+The enduring belief that multiorgan dysfunction in critical illness results from widespread cellular hypoxia is an oversimplification unsupported by microvascular measurements:
+* **Mitochondrial Oxygen Margins:** Human mitochondria generate ATP efficiently at an intracellular $\text{PO}_2 \le 0.5\text{ mm Hg}$. With normal cellular $\text{PO}_2$ ranging between 0.2 and 5 mm Hg, cellular machinery is genetically tailored to an oxygen-sparse environment.
+* **Evolutionary Rationale:** Oxygen is an intrinsically reactive biradical that readily degrades organic carbon compounds and generates cytotoxic reactive oxygen species (ROS). Intracellular hypoxia protects essential structures from oxidative destruction, analogous to sealing perishable foodstuffs in vacuum packaging.
+* **Cytopathic Dysoxia:** Organ failure in sepsis and critical illness is driven primarily by inflammatory mitochondrial injury, microvascular endothelial disruption, and enzymatic downregulation (cytopathic dysoxia), rather than simple lack of delivered molecular oxygen. Resuscitative strategies that drive systemic oxygen delivery to supraphysiological levels do not improve survival and often exacerbate oxidative damage.
+
+</div></details>

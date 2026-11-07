@@ -1,334 +1,400 @@
-# Chapter 34
+# Acute Kidney Injury
 
-# **Acute Kidney Injury**
+> *You can never solve all difficulties at once.*  
+> — Paul A.M. Dirac
 
-*You can never solve all difficulties at once.*
+<details class="med-details" open><summary>
 
-Paul A.M. Dirac (*[a](#page-14-0)*)
+## Executive Summary</summary><div class="details-content">
 
-As many as 60% of ICU patients experience an acute deterioration in renal function, which has been given the umbrella term, *acute kidney injury* [\(1](#page-14-1)). As expected, this condition has a multitude of etiologies, but most of the inciting factors can be classified as inflammatory, ischemic, or nephrotoxic in nature ([2,](#page-14-2)[3\)](#page-14-3). The consequences of this condition are as varied as the etiologies, but about 15% of the patients require renal replacement therapy [\(4](#page-14-4)), and as many as 60% of the patients will not survive [\(5](#page-14-5)).
+### Clinical Insights into Acute Kidney Injury
 
-This chapter begins by presenting the diagnostic criteria for acute kidney injury (including the shortcomings), then proceeds with a description of the most common inciting conditions, and finishes with a description of the renal replacement therapies. Some authoritative reviews of this rather massive topic are included in the bibliography at the end of the chapter [\(2](#page-14-2)[–4](#page-14-4)).
+- **Epidemiology and Severity:** Up to 60% of ICU patients develop acute kidney injury (AKI). Approximately 15% require renal replacement therapy (RRT), and overall ICU mortality reaches 60%.
+- **KDIGO Diagnostic Criteria:** Diagnosis requires an increase in serum creatinine $\ge 0.3\text{ mg/dL}$ ($\ge 26.5\ \mu\text{mol/L}$) within 48 hours, a rise to $\ge 1.5$ times baseline within 7 days, or urine output $< 0.5\text{ mL/kg/hr}$ for 6 consecutive hours.
+- **Fallacy of Serum Creatinine:** Critically ill patients lose roughly 2% of muscle mass daily, and sepsis directly impairs hepatic and muscular creatine synthesis. Creatinine-based formulas (Cockcroft-Gault, MDRD) consistently overestimate true GFR in critical illness. Cystatin C is unaffected by muscle mass, but tends to underestimate GFR.
+- **Glomerular Hemodynamics:** Net filtration pressure (filtration gradient) is determined by $(P_{\bar{a}} - P_v) - P_{\text{PT}}$. Elevated renal venous pressure (heart failure, pulmonary hypertension) and elevated tubular pressure (cast obstruction in ATN) impair GFR as severely as arterial hypotension.
+- **Cardiorenal Venous Congestion:** In decompensated heart failure, central venous pressure (right atrial pressure) correlates more strongly with worsening renal function than cardiac output or mean arterial pressure.
+- **Abdominal Compartment Syndrome (ACS):** Defined as sustained intra-abdominal pressure (IAP) $> 20\text{ mmHg}$ associated with new organ failure. Intra-abdominal hypertension (IAH, $\text{IAP} \ge 12\text{ mmHg}$) occurs in up to 60% of ICU patients, frequently provoked by overzealous crystalloid resuscitation. Net filtration gradient is compromised by $P_{\bar{a}} - (2 \times \text{IAP})$.
+- **Radiocontrast and Rhabdomyolysis:** Modern controlled studies confirm that iodinated radiocontrast does not increase AKI incidence in ICU patients unless baseline GFR is $< 30\text{ mL/min/1.73 m}^2$. In rhabdomyolysis, myoglobin heme iron drives tubular oxidative injury; aggressive early volume resuscitation (10–20 mL/kg, targeting urine output $\ge 1\text{ mL/kg/hr}$) is the primary therapy. Bicarbonate alkalinization and diuretics provide no proven benefit.
+- **Urinary Indices:** Fractional excretion of urea ($\text{FE}_{\text{U}} < 35\%$ for prerenal, $> 50\%$ for tubular injury) is superior to fractional excretion of sodium ($\text{FE}_{\text{Na}}$) in patients receiving diuretics.
+- **Renal Replacement Modalities:** Intermittent hemodialysis provides rapid clearance of small solutes via diffusion but risks hemodynamic instability. Continuous venovenous hemofiltration (CVVH) removes large fluid volumes and inflammatory cytokines via convection (solvent drag) with superior hemodynamic tolerance. Continuous venovenous hemodiafiltration (CVVHD) combines both principles.
+</div></details>
 
-## **DIAGNOSTIC CRITERIA**
+<details class="med-details" open><summary>
 
-The term "acute renal failure" was introduced in 1951 ([5\)](#page-14-5), but due to a lack of agreement about this condition, the term "acute kidney injury" (AKI) was introduced in 2002, and ten years later (in 2012), the defining criteria for AKI were adopted and published as the "Kidney Disease Improving Global Outcomes (KDIGO) guidelines ([6\)](#page-14-6), which are shown in [Table](#page-0-0) 34.1.
+## Diagnostic Criteria and Glomerular Filtration Assessment</summary><div class="details-content">
 
-### <span id="page-0-0"></span>**TABLE 34.1 Diagnostic Criteria for Acute Kidney Injury**
+<details class="med-details" open><summary>
 
-The diagnosis of acute kidney injury (AKI) requires one of the following conditions:
+### KDIGO Consensus Definitions</summary><div class="details-content">
 
-- 1. An increase in serum creatinine of ≥0.3 mg/dL (≥26.5 μmol/L) within 48 hours.
-- 2. An increase in serum creatinine to ≥1.5 times baseline within the previous 7 days.
-- 3. Urine volume <0.5 mL/kg/hr (ideal body weight) for 6 hours.
+The Kidney Disease: Improving Global Outcomes (KDIGO) criteria define acute kidney injury according to specific thresholds of serum creatinine elevation and oliguria.
 
-From Reference 6.
+<details class="med-details" open><summary>
 
-### **Limitations**
+#### <span id="tbl-34-1"></span>TABLE 34.1 Diagnostic Criteria for Acute Kidney Injury (KDIGO)</summary><div class="details-content">
 
-There are a number of limitations in the diagnostic criteria for AKI, and the major ones are listed below:
+| Diagnostic Criterion | Specific Threshold |
+| :--- | :--- |
+| **Acute Absolute Creatinine Rise** | Increase in serum creatinine $\ge 0.3\text{ mg/dL}$ ($\ge 26.5\ \mu\text{mol/L}$) within 48 hours |
+| **Relative Creatinine Elevation** | Increase in serum creatinine to $\ge 1.5$ times baseline within the previous 7 days |
+| **Oliguric Duration** | Urine output $< 0.5\text{ mL/kg/hr}$ (based on ideal body weight) for 6 consecutive hours |
 
-- 1. The presence of oliguria (urine output <0.5 mL/kg/hr) can be an appropriate renal adjustment to decreased renal perfusion, rather than a sign of kidney "injury".
-- 2. There is a lack of agreement about the minimum increase in serum creatinine required for the diagnosis of acute kidney injury.
-- 3. The baseline serum creatinine may not be known.
-- 4. The serum creatinine can be misleading as a marker of the glomerular filtration rate, as described next.
+</div></details>
 
-### *Serum Creatinine*
+AKI persisting beyond several days is categorized as *acute kidney disease* (AKD), and impairment persisting for $\ge 90$ days is designated *chronic kidney disease* (CKD).
+</div></details>
 
-The serum creatinine is the traditional marker of the glomerular filtration rate (GFR), and Figure 34.1 shows the popular [creatinine-based](#page-2-0) methods for estimating the GFR. However, the serum creatinine level has the following limitations as a marker of the GFR:
+<details class="med-details" open><summary>
 
-- 1. The creatinine in blood is derived from the creatine produced in muscle, and thus is influenced by muscle mass, and the rate of creatine production in muscle.
-- 2. The serum creatinine concentration is influenced by changes in plasma volume.
-- 3. Creatinine is not only filtered at the glomerulus, but is also secreted by the renal tubules.
+### Diagnostic Limitations of Serum Creatinine</summary><div class="details-content">
 
-The influence of creatine production in muscle is an important consideration because critically ill patients lose about 2% of their muscle mass each day [\(7](#page-14-7)), and a decreased rate of creatine production has been reported in sepsis [\(8](#page-14-8)), which is the most common cause of AKI (see later). As a result, the serum creatinine can be an unreliable marker of the GFR in critically ill patients. This is supported by studies showing that *estimates of the GFR based on the serum creatinine level consistently overestimate the true GFR in critically ill patients* [\(9](#page-14-9),10). This has important implications not only for the evaluation of renal function, but also for the appropriate dosing of drugs based on estimates of the GFR.
+Serum creatinine is an imperfect surrogate for glomerular filtration rate (GFR) in the ICU due to three major physiological confounds:
 
-<span id="page-2-0"></span>
-$$GFR = \frac{(140 - Age) \times wt (kg) \times (0.85 \text{ if Female})}{72 \times Serum Creatinine (mg/dL)} (mL/min)$$
+- Blood creatinine is derived from non-enzymatic conversion of muscle creatine; muscle mass and dietary intake directly dictate production.
+- Aggressive intravenous fluid administration causes dilutional underestimation of serum creatinine.
+- Creatinine undergoes both glomerular filtration and proximal tubular secretion, with tubular secretion increasing disproportionately as GFR declines.
+
+Critically ill patients lose approximately 2% of skeletal muscle mass each day of bed rest. Furthermore, systemic sepsis impairs hepatic and muscular creatine synthesis. Consequently, standard creatinine-based equations consistently overestimate true GFR in critical illness.
+
+<details class="med-details" open><summary>
+
+#### <span id="fig-34-1"></span>FIGURE 34.1 Popular Formulas for Estimating Glomerular Filtration Rate</summary><div class="details-content">
+
+![FIGURE 34.1](images/_fig_34_1.jpeg)
+
+##### Cockcroft-Gault Equation
+
+$$\text{GFR} = \frac{(140 - \text{Age}) \times \text{Weight (kg)} \times (0.85\text{ if Female})}{72 \times \text{Serum Creatinine (mg/dL)}}\text{ (mL/min)}$$
+
+##### Modification of Diet in Renal Disease (MDRD) Equation
+
+$$\text{GFR} = 186 \times (\text{Serum Creatinine (mg/dL)})^{-1.154} \times \text{Age}^{-0.203} \times (0.74\text{ if Female})$$
+
+*Units expressed as $\text{mL/min/1.73 m}^2$, where $1.73\text{ m}^2$ is the standard adult body surface area ($63\text{ kg}$, $1.7\text{ m}$).*
 
 **FIGURE 34.1** Popular formulas for estimating the glomerular filtration rate (GFR) based on the serum creatinine level. MDRD = Modification of Diet in Renal Disease.
 
-**CYSTATIN C:** Cystatin C is a protein produced by most cells in the body that is completely cleared by the GFR. Serum levels of cystatin C are not influenced by muscle mass, which gives cystatin a potential advantage over creatinine. Estimates of the GFR based on the serum cystatin C level are more accurate than creatinine-based estimates, but they often underestimate the true GFR in critically ill patients [\(9](#page-14-9),10). Combining cystatin-based and creatinine-based estimates of GFR increases the accuracy further ([9,](#page-14-9)10), but the complexity of this approach is far from appealing.
+</div></details>
+</div></details>
 
-### **Other Monikers**
+<details class="med-details" open><summary>
 
-Acute kidney injury that persists for more than a few days is called *acute kidney disease*, and if this condition persists for ≥90 days, it is called *chronic kidney disease* [\(5](#page-14-5)). The reasoning for these distinctions is unclear (i.e., injury vs. disease, and 90 days vs. 60 days)
+### Role of Serum Cystatin C</summary><div class="details-content">
 
-## **COMMON CAUSES OF ACUTE KIDNEY INJURY**
+Cystatin C is a 13-kDa non-glycosylated basic protein produced by all nucleated cells at a constant rate and eliminated exclusively by glomerular filtration, without tubular secretion.
 
-As mentioned in the introduction, most cases of AKI are the result of inflammatory injury, hemodynamic aberrations, or a nephrotoxic agent, and [Table](#page-2-1) 34.2 shows the common causes of AKI in each of these categories.
+Serum cystatin C concentrations are independent of muscle mass, age, and sex. While cystatin-based GFR estimates avoid muscle-wasting artifacts, they often underestimate true GFR in critical illness due to non-renal clearance alterations induced by inflammation, corticosteroid administration, and thyroid dysfunction. Combining cystatin C and creatinine measurements enhances predictive accuracy but remains labor-intensive.
+</div></details>
+</div></details>
 
-<span id="page-2-1"></span>
+<details class="med-details" open><summary>
 
-| TABLE<br>34.2 | Common<br>Causes<br>of<br>Acute<br>Kidney<br>Injury |  |  |
-|---------------|-----------------------------------------------------|--|--|
-| Mechanism     | Conditions                                          |  |  |
-| Inflammation  | Major Surgery<br>Multisystem Trauma<br>†<br>Sepsis  |  |  |
+## Etiologies and Renal Hemodynamics</summary><div class="details-content">
 
-| Hemodynamic Compromise | Cardiac Arrest<br>Heart Failure<br>Hemorrhage<br>Increased Abdominal Pressure<br>Liver Failure |
-|------------------------|------------------------------------------------------------------------------------------------|
-| Nephrotoxic            | Radiocontrast Dye<br>Rhabdomyolysis<br>Nephrotoxic Drugs & Toxins                              |
+<details class="med-details" open><summary>
 
-<span id="page-3-0"></span><sup>†</sup>The leading cause of acute kidney injury.
+### Classification of Common Causes</summary><div class="details-content">
 
-![](_page_3_Picture_2.jpeg)
+Acute kidney injury in critical illness arises from inflammatory insults, hemodynamic perturbations, and nephrotoxic exposures.
 
-**FIGURE 34.2** Schematic depiction of the pressures that influence the glomerular filtration rate (GFR). Pā = mean arterial pressure, Pv = venous pressure, PPT = pressure in the proximal tubules.
+<details class="med-details" open><summary>
 
-### **Relevant Pressures**
+#### <span id="tbl-34-2"></span>TABLE 34.2 Common Causes of Acute Kidney Injury</summary><div class="details-content">
 
-Before describing the common causes of AKI, a quick review of the pressures that influence the glomerular filtration rate (GFR) is warranted. This is illustrated in [Figure](#page-3-0) 34.2. Flow through the glomerulus is determined by the difference between the mean arterial pressure and the renal venous pressure (Pā – Pv). This is also called the *glomerular filtration pressure*. The net filtration pressure across the glomerulus, which is also called the *filtration gradient*, is the difference between the glomerular filtration pressure and the pressure in the proximal renal tubules (PPT); i.e.,
+| Primary Mechanism | Specific Clinical Etiologies |
+| :--- | :--- |
+| **Inflammation** | - **Sepsis and septic shock** (leading cause, $\approx 50\%$ of ICU cases)<br>- Major surgical procedures (cardiac surgery 18%, liver transplant > 50%, major abdominal 13%)<br>- Multisystem trauma |
+| **Hemodynamic Compromise** | - Cardiac arrest and resuscitation<br>- Congestive heart failure (cardiorenal syndrome)<br>- Acute hemorrhagic shock<br>- Intra-abdominal hypertension / Abdominal compartment syndrome<br>- Fulminant hepatic failure |
+| **Nephrotoxic Exposure** | - Iodinated radiocontrast agents<br>- Rhabdomyolysis (myoglobinuria)<br>- Nephrotoxic antimicrobials and chemotherapeutic agents |
 
-Filtration Gradient = 
-$$(P\bar{a} - Pv) - P_{PT}$$
- (34.1)
+</div></details>
+</div></details>
 
-These relationships predict that the GFR will decrease not only when there is a decrease in mean arterial pressure, but also when there is an increase in venous pressure (i.e., renal venous pressure or central venous pressure) or an increase in pressure in the proximal tubules.
+<details class="med-details" open><summary>
 
-### **Sepsis**
+### Biophysics of Glomerular Filtration</summary><div class="details-content">
 
-Sepsis is the leading cause of AKI, and is responsible for about half of the cases of AKI in the
+Glomerular filtration depends on a delicate balance of vascular and hydrostatic pressures across the capillary tuft.
 
-ICU population [\(3](#page-14-3)). The principal mechanism is inflammatory (oxidative) injury involving both the capillary endothelium in the glomerulus and the epithelial lining of the renal tubules (11). The renal tubular injury is also called *acute tubular necrosis* (ATN), and is characterized by sloughing of the damaged cells into the lumen of the renal tubules, as shown in [Figure](#page-5-0) 34.3 (12). This creates a luminal obstruction, which increases the pressure in the proximal tubules, and hence decreases the GFR (according to [Figure](#page-3-0) 34.2). This phenomenon is called *tubuloglomerular feedback* (13).
+<span id="fig-34-2"></span>
+![FIGURE 34.2](images/_page_3_Picture_2.jpeg)
 
-Major surgery and multisystem trauma are other causes of AKI in which inflammation plays a major role (although hemodynamic factors may also be involved). AKI has been reported in over 50% of patients after liver transplantation, in 18% of patients following cardiac surgery, and in 13% of patients undergoing major abdominal surgery [\(3](#page-14-3)). Multisystem trauma is accompanied by AKI in about 30% of cases, and rhabdomyolysis is responsible for 30% of these cases (14).
+**FIGURE 34.2** Schematic depiction of the pressures that influence the glomerular filtration rate (GFR). $P_{\bar{a}}$ = mean arterial pressure, $P_v$ = venous pressure, $P_{\text{PT}}$ = pressure in the proximal tubules.
 
-### **Cardiorenal Syndrome**
+#### Glomerular Pressure Relationships
 
-Heart failure and renal dysfunction are common companions; i.e., in a review that included about 80,000 hospitalized patients with heart failure, renal dysfunction was present in 63% of the patients (15). This association between heart failure and renal impairment is known as the *cardiorenal syndrome* (16).
+Flow through the glomerulus is driven by the glomerular filtration pressure, defined as the difference between mean renal arterial pressure ($P_{\bar{a}}$) and renal venous pressure ($P_v$).
 
-#### *Venous Congestion*
+#### Filtration Gradient Equation
 
-The renal impairment associated with heart failure has traditionally been attributed to a decrease in renal perfusion pressure, but the increase in central venous pressure in heart failure also plays a role in reducing the GFR (17). In fact, in a study of patients with heart failure who were managed with pulmonary artery catheters, the right atrial pressure (central venous pressure) was the only parameter that showed a correlation with renal dysfunction (18). It seems likely that a decrease in renal perfusion pressure plays a major role in the renal dysfunction associated with acute heart failure, while venous congestion assumes an important role in cases of chronic, decompensated heart failure (19).
+The net driving pressure propelling plasma across the glomerular basement membrane—the *filtration gradient*—equals the glomerular filtration pressure minus the opposing hydrostatic pressure within the proximal tubule ($P_{\text{PT}}$):
 
-<span id="page-5-0"></span>![](_page_5_Figure_0.jpeg)
+$$\text{Filtration Gradient} = (P_{\bar{a}} - P_v) - P_{\text{PT}} \tag{34.1}$$
 
-**FIGURE 34.3** Photomicrograph of acute tubular necrosis (ATN) showing a proximal tubule (outlined by the dotted line) filled with exfoliated renal tubular cells. Image retouched, from Reference 12.
+This relationship demonstrates that GFR drops not only with arterial hypotension, but equally with elevations in renal venous pressure or proximal tubular pressure.
+</div></details>
 
-The influence of venous pressure on the GFR means that AKI can be the result of any disorder that results in pulmonary hypertension and right heart failure. The abdominal compartment syndrome is another cause of AKI mediated by venous pressure, as explained next.
+<details class="med-details" open><summary>
 
-### **Abdominal Compartment Syndrome**
+### Pathogenesis of Sepsis-Induced AKI</summary><div class="details-content">
 
-Abdominal compartment syndrome (ACS) is an increase in intra-abdominal pressure that is great enough to cause dysfunction in one or more vital organs (20). The organ dysfunction usually involves the bowel, kidneys, and/or cardiovascular system. *ACS is more common than suspected in critically ill patients, and is often overlooked as a cause of AKI in ICU patients* (21).
+Sepsis accounts for approximately half of all AKI episodes in the intensive care unit. The traditional view that sepsis-induced AKI represents ischemic hypoperfusion has been refuted: global renal blood flow is frequently normal or increased in clinical sepsis.
 
-### *Relevant Pressures*
+Damage is driven by microvascular endothelial inflammation, microthrombi formation, and generation of reactive oxygen species within tubular epithelial cells. This process culminates in *acute tubular necrosis* (ATN).
 
-The intra-abdominal pressure (IAP) is normally 5–7 mm Hg in the supine position. Intraabdominal hypertension (IAH) is defined as a supine IAP ≥ 12 mm Hg, and ACS is defined as a supine IAP > 20 mm Hg that is associated with AKI or acute dysfunction in another organ systems.
+<span id="fig-34-3"></span>
+![FIGURE 34.3](images/_page_5_Figure_0.jpeg)
 
-**ABDOMINAL PERFUSION PRESSURE:** As shown in [Figure](#page-3-0) 34.2, the driving pressure for glomerular blood flow is the difference between the mean arterial pressure and the pressure in the renal veins (Pā – Pv). However, when IAP exceeds the renal venous pressure, the driving pressure for glomerular flow is the difference between the mean arterial pressure and the IAP. This pressure difference is called the *abdominal perfusion pressure* (APP):
+**FIGURE 34.3** Photomicrograph of acute tubular necrosis (ATN) showing a proximal tubule (outlined by the dotted line) filled with exfoliated renal tubular cells.
 
-$$APP = P\bar{a} - IAP \tag{34.2}$$
+Exfoliated tubular cells and necrotic debris form obstructive casts within the tubular lumen. Intraluminal obstruction elevates $P_{\text{PT}}$, extinguishing the filtration gradient. Concurrently, tubuloglomerular feedback constricts the afferent arteriole, drastically reducing GFR.
+</div></details>
 
-The APP needed to preserve renal blood flow is not well defined, but studies of patients with IAH and ACS have shown that an APP > 60 mm Hg is associated with improved outcomes (20).
+<details class="med-details" open><summary>
 
-**FILTRATION GRADIENT:** When the IAP is increased, the pressure in the proximal tubules is considered equivalent to the IAP, so the filtration gradient is determined as follows:
+### Cardiorenal Syndrome and Venous Congestion</summary><div class="details-content">
 
-Filtration Gradient = 
-$$P\bar{a} - (IAP \times 2)$$
- (34.3)
+Renal dysfunction complicates up to 63% of hospitalizations for decompensated heart failure (*cardiorenal syndrome*). 
 
-This relationship predicts that an increase in IAP will have a greater impact on the GFR than an equivalent decrease in arterial pressure. This might explain why *oliguria is one of the first signs of ACS* (20).
+While acute cardiogenic shock causes forward hypoperfusion, renal dysfunction in chronic and subacute decompensation is driven primarily by backward *venous congestion*. Invasive hemodynamic monitoring demonstrates that right atrial pressure (central venous pressure) is the single hemodynamic variable that independently correlates with worsening GFR. Increased renal venous pressure transmits directly to the capillary bed, elevating $P_v$ and abolishing the filtration gradient.
+</div></details>
+</div></details>
 
-### *Predisposing Conditions*
+<details class="med-details" open><summary>
 
-ACS is traditionally associated with abdominal trauma or surgery, but several medical conditions can raise the IAP and predispose to ACS, including gastric distension, bowel obstruction, ileus, ascites, bowel wall edema, hepatomegaly, positive-pressure breathing, upright body position, and obesity (22). Several of these factors can co-exist in critically ill patients, which explains why *IAH is discovered in as many as 60% of patients in medical and surgical ICUs* (23).
+## Abdominal Compartment Syndrome and Hepatorenal Syndrome</summary><div class="details-content">
 
-**CRYSTALLOID RESUSCITATION:** One of the more common and unrecognized causes of IAH is volume resuscitation with crystalloid fluids, which can raise the IAP by promoting edema in the abdominal organs (especially the bowel). (The distribution of crystalloid fluids is described in Chapter 10: see Figure 10.1.) In one report of ICU patients with a positive fluid balance >5 liters over 24 hours, IAH was present in 85% of the patients, and ACS was diagnosed in 25% of the patients (24). This observation adds to the growing consensus that avoiding a positive fluid balance will reduce morbidity and mortality during the ICU stay. (See Chapter 11 for more on the concerns about fluid accumulation.)
+<details class="med-details" open><summary>
 
-### *Measuring Intra-abdominal Pressure*
+### Intra-Abdominal Hypertension and Renal Failure</summary><div class="details-content">
 
-The physical examination is insensitive for detecting increases in IAP (25), so IAP must be measured. The standard measure of IAP is the pressure in a decompressed urinary bladder, which is measured with specialized bladder drainage catheters. The following conditions are required for each measurement (20): (*a*) the patient must be in the supine position, with the pressure transducer zeroed in the mid-axillary line, (*b*) a small volume (25 mL) of isotonic saline is injected into the bladder 30–60 seconds prior to each measurement, and (*c*) the IAP is measured only at the end of expiration, and only when there is no evidence of abdominal muscle contractions. The IAP is measured in mm Hg, not cm H2O (1 mm Hg = 1.36 cm H2O).
+Abdominal compartment syndrome (ACS) represents an overlooked etiology of acute oliguria and renal failure in medical and surgical ICUs.
 
-### **Hepatorenal Syndrome**
+- **Baseline Intra-Abdominal Pressure (IAP):** Normal IAP in supine resting adults is 5–7 mmHg.
+- **Intra-Abdominal Hypertension (IAH):** Defined as a sustained, pathologically elevated supine $\text{IAP} \ge 12\text{ mmHg}$.
+- **Abdominal Compartment Syndrome (ACS):** Defined as a sustained supine $\text{IAP} > 20\text{ mmHg}$ accompanied by new organ failure (oliguria, respiratory failure, or hemodynamic collapse).
 
-Acute kidney injury has been reported in 50% of patients with end-stage liver disease (26). The AKI in this setting can be the result of hypovolemia or sepsis (especially spontaneous bacterial peritonitis), or it can be a manifestation of the *hepatorenal syndrome* (HRS), a serious condition caused by the diversion of blood flow away from the kidneys due to the combination of renal
+#### Altered Perfusion Dynamics
 
-vasoconstriction and splanchnic vasodilation (27). The diagnosis of HRS is suggested by excluding hypovolemia and sepsis as a cause of AKI, and the urinary indices (described later) can distinguish HRS from ATN.
+When intra-abdominal pressure exceeds renal venous pressure, the effective driving pressure for glomerular blood flow becomes the *abdominal perfusion pressure* (APP):
 
-HRS typically carries a very poor prognosis, with liver transplantation being the definitive treatment. There is, however, a short-term management strategy, which is presented in Chapter 39.
+$$\text{APP} = P_{\bar{a}} - \text{IAP} \tag{34.2}$$
 
-### **Nephrotoxins**
+#### Filtration Impact of Abdominal Hypertension
 
-A variety of drugs can precipitate AKI, as shown in [Table](#page-7-0) 34.3, and avoiding these (or any) drugs is always wise when possible (28).
+Clinical outcomes improve when resuscitation maintains $\text{APP} > 60\text{ mmHg}$. Furthermore, elevated IAP compresses the renal parenchyma, equating proximal tubular pressure ($P_{\text{PT}}$) to IAP. The net filtration gradient becomes:
 
-<span id="page-7-0"></span>
+$$\text{Filtration Gradient} = P_{\bar{a}} - (\text{IAP} \times 2) \tag{34.3}$$
 
-| TABLE<br>34.3<br>Drugs<br>Most<br>Often<br>Implicated<br>in<br>Acute<br>Kidney<br>Injury |                                                                                                                                                                                                         |  |
-|------------------------------------------------------------------------------------------|---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|--|
-| Mechanism                                                                                | Offending Drugs                                                                                                                                                                                         |  |
-| Altered Renal                                                                            | Most Cited: Nonsteroidal anti-inflammatory agents (NSAIDs)                                                                                                                                              |  |
-| Hemodynamics                                                                             | Others: ACE inhibitors, angiotensin receptor blockers, cyclosporine, tacrolimus                                                                                                                         |  |
-| Osmotic                                                                                  | Most Cited: Hydroxyethyl starches                                                                                                                                                                       |  |
-| Nephropathy                                                                              | Others: Mannitol, intravenous immunoglobulins                                                                                                                                                           |  |
-| Renal Tubular                                                                            | Most Cited: Aminoglycosides                                                                                                                                                                             |  |
-| Injury                                                                                   | Others: Amphotericin B, antiretrovirals, cisplatin                                                                                                                                                      |  |
-| Interstitial<br>Nephritis                                                                | Most Cited: Antimicrobials (penicillins, cephalosporins, sulfonamides, vancomycin, macrolides)<br>Others: Anticonvulsants (phenytoin, valproic acid), H2<br>blockers, NSAIDs, proton pump<br>inhibitors |  |
+Because IAP is doubled in this equation, every 1 mmHg elevation in intra-abdominal pressure exerts twice the negative impact on GFR compared to an equivalent 1 mmHg drop in mean arterial pressure. Oliguria is invariably the earliest manifestation of developing ACS.
+</div></details>
 
-Adapted from Reference 28.
+<details class="med-details" open><summary>
 
-### *Radiocontrast Dye*
+### Crystalloid Resuscitation and Monitoring Technique</summary><div class="details-content">
 
-Iodinated contrast agents have traditionally been perceived as a cause of AKI in critically ill patients, but this was based on observational studies. More recent and better controlled studies have revealed that *radiocontrast dye injections do not increase the incidence of AKI in critically ill patients* (29)*, and they do not worsen renal function in patients with pre-existing AKI* (30). However, iodinated contrast dye is still considered risky in patients with chronic kidney disease and a GFR < 30 mL/min/1.73 m2 (31).
+IAH is documented in up to 60% of intensive care patients. Massive crystalloid resuscitation is the primary iatrogenic driver of secondary ACS. Crystalloids rapidly distribute into the interstitial space, provoking severe visceral, mesenteric, and retroperitoneal edema. 
 
-**PROPHYLACTIC FLUIDS:** Despite the favorable data on radiocontrast agents, the most recent consensus statement includes the following recommendations (31).
+In patients accumulating a positive fluid balance $> 5\text{ Liters}$ over 24 hours, IAH develops in 85% and overt ACS in 25%. Restricting unnecessary fluid volume is vital to preserve renal function.
 
-- 1. Prophylactic saline infusions are recommended for radiocontrast dye injections in patients with AKI, or with an estimated GFR < 30 mL/min/1.73 m2. This recommendation does not necessarily apply to patients with heart failure.
-- 2. The infusion should begin 1 hour prior to the study, and should continue for 3–12 hours after the study. There is no firm recommendation regarding the volume infused.
+#### Standard Bladder Pressure Technique
 
-### *Rhabdomyolysis*
+Clinical palpation of the abdominal wall has an accuracy of only 50% for detecting IAH. Objective measurement via a urinary bladder catheter is mandatory. Protocol requirements include:
 
-AKI is the most serious complication of diffuse muscle injury (rhabdomyolysis). The culprit is myoglobin, which is released by the injured muscle and is capable of damaging the renal tubular epithethial cells (32,33). The source of this injury may be the iron moiety in heme, which is capable of oxidative cell injury via the production of hydroxyl radicals (see Figure 25.6).
+- Patient placed strictly supine with transducer zeroed at the mid-axillary line at the iliac crest.
+- Instillation of 25 mL of sterile saline into the aspirated bladder 30–60 seconds prior to measurement.
+- Pressure recorded at end-expiration in the absence of voluntary abdominal contractions, measured in mmHg ($1\text{ mmHg} = 1.36\text{ cmH}_2\text{O}$).
+</div></details>
 
-**DIAGNOSIS:** The diagnosis of AKI can be difficult in the setting of rhabdomyolysis because the injured muscle releases creatine, which elevates the serum creatinine level. Elevation of the creatine kinase (CK) in blood is essential for the diagnosis of rhabdomyolysis, but the CK level correlates more with the severity of the muscle injury than the risk of AKI (32). The presence of myoglobinuria is thus a critical component of diagnosing AKI in patients with rhabdomyolysis. A urine myoglobin level >20 μg/L is evidence of significant myoglobinuria (urine usually begins to turn brown at this level) (33).
+<details class="med-details" open><summary>
 
-Myoglobin can also be detected in urine with the orthotoluidine dipstick reaction (Hemastix), which is used to detect occult blood in urine. If the test is positive, the urine should be centrifuged (to separate erythrocytes) and the supernatant should be passed through a micropore filter (to remove hemoglobin). A persistently positive test after these measures is evidence of myoglobin in urine. An alternative approach is to inspect the urine sediment for red blood cells; i.e., a positive dipstick test for blood without red blood cells in the urine sediment can be used as evidence of myoglobinuria.
+### Hepatorenal Syndrome (HRS)</summary><div class="details-content">
 
-**MANAGEMENT:** The following measures are available for preventing or limiting myoglobinuric renal injury (32,33).
+Acute kidney injury develops in up to 50% of patients with advanced cirrhosis. Beyond hypovolemia and sepsis (spontaneous bacterial peritonitis), *hepatorenal syndrome* represents functional renal failure driven by severe splanchnic arterial vasodilation. 
 
-- 1. Aggressive volume resuscitation to promote renal tubular flow is the most effective measure for preventing or limiting myoglobin nephrotoxicity. Isotonic saline can be given in volume of 10–20 mL/kg initially, and then infused to maintain a urine output of at least 1 mg/kg/hr. However, if oliguria persists after a few hours, it is important to abandon this strategy to prevent fluid overload.
-- 2. Alkalinization of the urine to a pH > 6.5 with bicarbonate infusions can inhibit cast formation in the renal tubules, but this is difficult to accomplish, and bicarbonate has its own problems (see Chapter 32).
-- 3. Diuresis with mannitol or furosemide has been used to promote renal tubular flow, but diuresis is risky because it is counterproductive to the planned volume resuscitation.
+Portal hypertension induces local nitric oxide release, pooling blood in the splanchnic circulation and triggering extreme compensatory activation of the renin-angiotensin and sympathetic nervous systems, causing intense renal vasoconstriction.
+</div></details>
+</div></details>
 
-As many as 30% of patients will require renal replacement therapy (34), which is described later in the chapter.
+<details class="med-details" open><summary>
 
-## **DIAGNOSTIC CONSIDERATIONS**
+## Nephrotoxic Exposures: Drugs, Contrast, and Rhabdomyolysis</summary><div class="details-content">
 
-The following measures can be helpful if there is uncertainty about the diagnosis of AKI or its source.
+<details class="med-details" open><summary>
 
-### **Ultrasound**
+### Pharmaceutical Nephrotoxicity</summary><div class="details-content">
 
-A beside ultrasound can be useful for uncovering chronic kidney disease (i.e., small kidneys),
+Nephrotoxic drugs provoke AKI through distinct mechanisms including hemodynamic alterations, osmotic nephropathy, tubular toxicity, and acute interstitial nephritis.
 
-and for identifying post-renal obstruction (i.e., hydronephrosis). This latter condition is especially important, as emergent drainage may be necessary, especially if the urine is infected.
+<details class="med-details" open><summary>
 
-### **Urinary Indices**
+#### <span id="tbl-34-3"></span>TABLE 34.3 Drugs Most Often Implicated in Acute Kidney Injury</summary><div class="details-content">
 
-The measures in [Table](#page-9-0) 34.4 can help to determine if the source of AKI is renal hypoperfusion (i.e., from hypovolemia or low cardiac output) or renal tubular injury (e.g., from sepsis) (35). However, each of these measures has its limitations. (*Note:* Biomarkers are often mentioned for identifying renal tubular injury, but they are not readily available.)
+| Pathological Mechanism | Prominent Offending Agents | Secondary Offending Drugs |
+| :--- | :--- | :--- |
+| **Altered Glomerular Hemodynamics** | **NSAIDs** (inhibit afferent prostaglandin vasodilation) | ACE inhibitors, ARBs (inhibit efferent arteriolar constriction), calcineurin inhibitors (cyclosporine, tacrolimus) |
+| **Osmotic Nephropathy** | **Hydroxyethyl starches (HES)** | Mannitol, intravenous immunoglobulin preparations (sucrose/maltose stabilizers) |
+| **Direct Tubular Epithelial Injury** | **Aminoglycosides** (gentamicin, tobramycin, amikacin) | Amphotericin B, cisplatin, nucleotide reverse transcriptase inhibitors |
+| **Acute Interstitial Nephritis (AIN)** | **Antimicrobials** (penicillins, cephalosporins, sulfonamides, vancomycin, fluoroquinolones) | Anticonvulsants (phenytoin, valproate), proton pump inhibitors, $\text{H}_2$-blockers, NSAIDs |
 
-### *Spot Urine Sodium*
+</div></details>
+</div></details>
 
-Renal hypoperfusion is accompanied by an increase in sodium reabsorption and a subsequent decrease in urine sodium concentration. In contrast, renal tubular injury results in impaired sodium reabsorption and increased urinary sodium losses. Therefore, when a random urine sample (spot urine) is obtained in a patient with AKI, a urine sodium <20 mEq/L is used as evidence of renal hypoperfusion, while a urine sodium >40 mEq/L is used as evidence of renal tubular injury.
+<details class="med-details" open><summary>
 
-**EXCEPTIONS:** Unfortunately, there are exceptions to the predicted behavior of the spot urine sodium. For example, renal hypoperfusion can be associated with a high urine sodium (>40 mEq/L) if there is ongoing diuretic therapy, or the patient has chronic renal disease (where there is "obligatory" sodium loss in the urine).
+### Radiocontrast-Induced Nephropathy</summary><div class="details-content">
 
-<span id="page-9-0"></span>
+Iodinated radiocontrast media have historically been considered a primary cause of hospital-acquired AKI. However, contemporary prospective and propensity-matched studies demonstrate that intravascular radiocontrast administration does not increase the incidence of AKI in critically ill patients, nor does it accelerate disease progression in patients with pre-existing mild-to-moderate AKI.
 
-| TABLE<br>34.4                  | Urinary<br>Indices<br>for<br>the<br>Evaluation<br>of<br>AKI |                      |  |
-|--------------------------------|-------------------------------------------------------------|----------------------|--|
-| Measure                        | Renal Hypoperfusion                                         | Renal Tubular Injury |  |
-| Spot Urine Sodium              | <20 mEq/L                                                   | >40 mEq/L            |  |
-| Fractional Excretion of Sodium | <1%                                                         | >12%                 |  |
-| Fractional Excretion of Urea   | <35%                                                        | >50%                 |  |
-| Urine Osmolality               | >500 mOsm/kg                                                | 300–400 mOsm/kg      |  |
-| U/P Osmolality                 | >1.5                                                        | 1–1.3                |  |
+Contrast nephropathy risk is confined almost exclusively to patients with advanced chronic kidney disease exhibiting a baseline $\text{GFR} < 30\text{ mL/min/1.73 m}^2$. In this high-risk subset, consensus guidelines recommend isotonic saline prophylaxis (10–20 mL/kg initiated 1 hour prior to imaging and continued for 3–12 hours post-procedure).
+</div></details>
 
-### *Fractional Excretion of Sodium*
+<details class="med-details" open><summary>
 
-The fractional excretion of sodium (FENa) is considered a more accurate measure of renal tubular function than the spot urine sodium. The FENa is equivalent to the fractional sodium clearance divided by the fractional creatinine clearance, as expressed by the following equation:
+### Rhabdomyolysis and Myoglobinuria</summary><div class="details-content">
 
-$$FENa (\%) = \frac{U/P [Na]}{U/P [Cr]}$$
-(34.4)
+Rhabdomyolysis induces acute tubular injury via release of massive amounts of myoglobin from damaged skeletal muscle fibers.
 
-where U/P is the urine-to-plasma ratio for sodium and creatinine concentrations. In euvolemic patients with normal renal function, the FENa is 1% (i.e., only 1% of the filtered sodium is excreted in the urine). When renal hypoperfusion is present, the FENa is <1% (reflecting sodium
+#### Mechanisms of Myoglobin Injury
 
-conservation), and when renal tubular injury is present, the FENa is typically >2% (reflecting an increase in urinary sodium excretion) (36).
+Myoglobin is a 17-kDa hemoprotein that is filtered freely by the glomerulus. In the acidic environment of the renal tubule, myoglobin precipitates with Tamm-Horsfall protein to form obstructing casts. Furthermore, the heme iron moiety catalyzes Fenton reactions, generating cytotoxic hydroxyl free radicals that induce lipid peroxidation and tubular necrosis.
 
-**EXCEPTIONS:** Like the spot urine sodium, the FENa can be elevated (>1%) by diuretic therapy and chronic renal insufficiency (36). In addition, the FENa can be falsely low (<1%) in patients with acute tubular injury from sepsis (37), or myoglobinuria (38).
+#### Diagnostic Evaluation
 
-### *Fractional Excretion of Urea*
+Serum creatine kinase (CK) elevation confirms muscle injury, but absolute CK levels correlate poorly with renal injury risk. Significant myoglobinuria is marked by urine myoglobin concentrations $> 20\ \mu\text{g/L}$, imparting a dark reddish-brown ("tea-colored") appearance.
 
-The fractional excretion of urea (FEU) is conceptually similar to the FENa, and is equivalent to the fractional urea clearance divided by the fractional creatinine clearance, as expressed by the following equation:
+The chemical orthotoluidine test (Hemastix) detects the pseudoperoxidase activity of heme, reacting positively to hemoglobin and myoglobin. Centrifugation of urine with absence of red blood cells on microscopic examination confirms myoglobinuria.
 
-$$FEU (\%) = \frac{U/P [Urea]}{U/P [Cr]}$$
-(34.5)
+#### Resuscitation Protocol
 
-U/P [Cr]
+Prevention and management of myoglobinuric AKI rest on aggressive crystalloid volume resuscitation:
 
-where U/P is the urine-to-plasma ratio for urea and creatinine concentrations. The FEU is low (<35%) with renal hypoperfusion, and high (>50%) with renal tubular injury. *The FEU is not influenced by diuretics* (39), which is the major advantage over the FENa.
+- Administer isotonic crystalloids initially at 10–20 mL/kg, followed by continuous infusion titrated to maintain a high tubular flow rate with target urine output $\ge 1\text{ mL/kg/hr}$.
+- If oliguria persists despite adequate volume loading, stop aggressive fluids immediately to prevent pulmonary edema.
+- Routine urinary alkalinization with sodium bicarbonate and forced diuresis with mannitol or furosemide lack proven efficacy and introduce substantial metabolic risks. Up to 30% of severe rhabdomyolysis cases require renal replacement therapy.
+</div></details>
+</div></details>
 
-### **MANAGEMENT**
+<details class="med-details" open><summary>
 
-### **General Considerations**
+## Diagnostic Evaluation: Ultrasound and Urinary Indices</summary><div class="details-content">
 
-The following comments about the general management of AKI deserve mention.
+<details class="med-details" open><summary>
 
-### *Fluid Challenges*
+### Point-of-Care Renal Ultrasonography</summary><div class="details-content">
 
-Volume infusion is typically the initial intervention in patients with AKI, since it is often not possible to rule out renal hypoperfusion as a contributing factor at that time, and the urine output may also be diminished. The fluid challenge is usually 500 mL of a crystalloid fluid infused over 10–15 minutes. (The rate of infusion is more important than the volume). Changes in stroke volume can be used to determine fluid responsiveness, as described in Chapter 11. Fluid challenges should be stopped if there is no response in the stroke volume or urine output.
+Bedside renal ultrasound is the primary imaging modality for evaluating unexplained AKI. It rapidly differentiates acute processes from chronic kidney disease (identified by small, echogenic kidneys with cortical thinning) and rules out post-renal urinary tract obstruction (hydronephrosis), which mandates emergent decompression.
+</div></details>
 
-#### *Diuretics*
+<details class="med-details" open><summary>
 
-A trial of intravenous furosemide is reasonable as an attempt to mitigate fluid accumulation in AKI. However, *diuretics should never be given to increase urine output if renal hypoperfusion is a contributing factor in AKI*. Intravenous furosemide does not improve renal function, and is used solely for fluid management (40,41).
+### Urinary Chemical Indices</summary><div class="details-content">
 
-#### *Low-Dose Dopamine*
+Urinary chemical indices distinguish functional renal hypoperfusion (prerenal azotemia with intact tubular reabsorption) from intrinsic acute tubular necrosis.
 
-Dopamine infusions at low dose rates (2 μg/kg/min) can promote renal vasodilation, which led to the popularity of low-dose dopamine as a treatment for AKI (42). However, this practice fell from favor because it did not improve renal function, and had undesirable effects (e.g., decreased
+<details class="med-details" open><summary>
 
-splanchnic blood flow) (42,43). The use of low-dose dopamine in AKI is now considered *bad medicine* (from the title of Reference 43).
+#### <span id="tbl-34-4"></span>TABLE 34.4 Urinary Indices for the Evaluation of AKI</summary><div class="details-content">
 
-### **Renal Replacement Therapy**
+| Diagnostic Index | Renal Hypoperfusion (Prerenal) | Intrinsic Renal Tubular Injury (ATN) |
+| :--- | :---: | :---: |
+| **Spot Urine Sodium ($\text{U}_{\text{Na}}$)** | $< 20\text{ mEq/L}$ | $> 40\text{ mEq/L}$ |
+| **Fractional Excretion of Sodium ($\text{FE}_{\text{Na}}$)** | $< 1\%$ | $> 2\%$ |
+| **Fractional Excretion of Urea ($\text{FE}_{\text{U}}$)** | $< 35\%$ | $> 50\%$ |
+| **Urine Osmolality** | $> 500\text{ mOsm/kg}$ | $300\text{–}400\text{ mOsm/kg}$ |
+| **Urine-to-Plasma Osmolality Ratio ($\text{U}/\text{P}_{\text{Osm}}$)** | $> 1.5$ | $1.0\text{–}1.3$ |
 
-About 10-15% of ICU patients receive renal replacement therapy (RRT) [\(4](#page-14-4)). The usual indications include: (a) symptomatic uremia (e.g., encephalopathy), (b) volume overload, (c) lifethreatening, refractory hyperkalemia, and (c) removal of toxin (44).
+</div></details>
 
-There is a growing body of RRT techniques, but the descriptions that follow are limited to hemodialysis and hemofiltration. The mechanisms of fluid and solute removal by each of these techniques is shown in [Figure](#page-12-0) 34.4.
+#### Spot Urine Sodium and FENa
 
-### *Hemodialysis*
+In renal hypoperfusion, avid tubular sodium reclamation drops spot urinary sodium below 20 mEq/L. In ATN, tubular epithelial destruction eliminates reabsorptive capacity, spilling sodium ($> 40\text{ mEq/L}$).
 
-Hemodialysis is an intermittent form of RRT that removes solutes by *diffusion*, which is driven by the concentration gradient of the solutes across a semipermeable membrane. To maintain this concentration gradient, a technique called *countercurrent exchange* is used, where blood and dialysis fluid are driven in opposite directions across the dialysis membrane. A blood pump is used to move blood in one direction at a rate of 200–300 mL/min, while the dialysis fluid on the other side of the membrane moves at a higher rate (500–800 mL/min) (37).
+##### Fractional Excretion of Sodium Formula
 
-<span id="page-12-0"></span>![](_page_12_Figure_0.jpeg)
+The fractional excretion of sodium ($\text{FE}_{\text{Na}}$) relates sodium clearance to creatinine clearance:
 
-**FIGURE 34.4** Mechanisms of solute clearance by hemodialysis and hemofiltration. The smaller particles represent small solutes (e.g., urea), which can be cleared by both techniques, while the larger particles represent larger solutes (e.g., toxins) that can be cleared by hemofiltration, but not by hemodialysis.
+$$\text{FE}_{\text{Na}}\text{ (\%)} = \frac{U_{\text{Na}} / P_{\text{Na}}}{U_{\text{Cr}} / P_{\text{Cr}}} \times 100 \tag{34.4}$$
 
-Large-bore, central venous catheters like the one in [Figure](#page-13-0) 34.5 are used for acute hemodialysis in the ICU. Note that the catheter has 12-gauge infusion channels, to accommodate the flow rates of 200–300 mL/min used during hemodialysis. These catheters are inserted into the internal jugular or femoral veins in the same manner as other central venous catheters (see Chapter 2). (*Note:* The subclavian vein is not cannulated, which avoids the risk of subclavian
+##### Clinical Interpretation of FENa
 
-stenosis that could hamper the selection of access sites for long-term hemodialysis.) Each hemodialysis session lasts about 4 hours, and no more than 2–3 liters of fluid can be removed per session.
+A value $< 1\%$ indicates prerenal conservation, whereas $> 2\%$ indicates tubular injury. However, $\text{FE}_{\text{Na}}$ is rendered invalidly high ($> 1\%$) by concurrent diuretic administration and pre-existing chronic renal failure. It can also be paradoxically low ($< 1\%$) in sepsis-induced ATN and pigment nephropathy.
+</div></details>
 
-**ADVANTAGES:** The principal benefit of hemodialysis is rapid clearance of small solutes. Only a few hours of hemodialysis is needed to clear a life-threatening accumulation of potassium, or to remove a day's worth of accumulated nitrogenous waste.
+<details class="med-details" open><summary>
 
-**DISADVANTAGES:** The disadvantages of hemodialysis include: (a) limited removal of fluid and large molecules (drugs and toxins) and (b) the risk of hypotension in patients who are hemodynamically unstable.
+### Fractional Excretion of Urea</summary><div class="details-content">
 
-<span id="page-13-0"></span>![](_page_13_Picture_3.jpeg)
+Urea is handled passively in the proximal tubule and collecting ducts without active tubular secretion.
+
+#### Fractional Excretion of Urea Formula
+
+The fractional excretion of urea ($\text{FE}_{\text{U}}$) is defined:
+
+$$\text{FE}_{\text{U}}\text{ (\%)} = \frac{U_{\text{Urea}} / P_{\text{Urea}}}{U_{\text{Cr}} / P_{\text{Cr}}} \times 100 \tag{34.5}$$
+
+Values $< 35\%$ signify prerenal hypoperfusion, while values $> 50\%$ signify intrinsic ATN. Because urea reabsorption is largely independent of loop of Henle ion transporters, **$\text{FE}_{\text{U}}$ is not altered by loop or thiazide diuretics**, establishing it as the diagnostic index of choice in patients receiving diuretic therapy.
+</div></details>
+</div></details>
+
+<details class="med-details" open><summary>
+
+## Medical Management and Renal Replacement Therapy</summary><div class="details-content">
+
+<details class="med-details" open><summary>
+
+### Medical Resuscitation and Pitfalls</summary><div class="details-content">
+
+Initial management of acute oliguria and azotemia requires cautious hemodynamic optimization:
+
+- **Fluid Challenge:** When hypoperfusion cannot be excluded, deliver a standardized fluid challenge of 500 mL crystalloid over 10–15 minutes. Assess stroke volume responsiveness using dynamic hemodynamic monitors. If stroke volume or urine output does not respond, cease volume administration immediately.
+- **Diuretic Overuse:** Loop diuretics (furosemide) do not restore GFR, prevent ATN, or hasten renal recovery. Diuretics are indicated exclusively for the management of extracellular volume overload. Administering diuretics to force urine output in the presence of uncorrected hypoperfusion exacerbates ischemic injury.
+- **Low-Dose "Renal" Dopamine:** Dopamine infusions at $2\ \mu\text{g/kg/min}$ do not improve renal outcomes, reduce the need for RRT, or lower mortality. Low-dose dopamine causes tachyarrhythmias, suppresses anterior pituitary hormones, and diminishes splanchnic perfusion, earning its designation as obsolete practice.
+</div></details>
+
+<details class="med-details" open><summary>
+
+### Intermittent Hemodialysis</summary><div class="details-content">
+
+Renal replacement therapy is required in 10% to 15% of ICU patients with AKI. Classical indications include refractory hyperkalemia, severe metabolic acidosis, intractable volume overload, and symptomatic uremic complications (encephalopathy, pericarditis).
+
+<span id="fig-34-4"></span>
+![FIGURE 34.4](images/_page_12_Figure_0.jpeg)
+
+**FIGURE 34.4** Mechanisms of solute clearance by hemodialysis and hemofiltration. The smaller particles represent small solutes (e.g., urea), which can be cleared by both techniques, while the larger particles represent larger solutes (e.g., toxins, cytokines) that can be cleared by hemofiltration, but not by hemodialysis.
+
+Intermittent hemodialysis (IHD) removes solutes by *diffusion* across a semipermeable membrane down a concentration gradient.
+
+Efficiency is maximized by countercurrent flow: blood is pumped through dialyzer fibers at 200–300 mL/min, while dialysate flows in the opposite direction at 500–800 mL/min. IHD provides rapid clearance of small solutes (potassium, urea), making it ideal for acute life-threatening hyperkalemia. However, rapid fluid shifts over 3–4 hour sessions frequently provoke severe hypotension in unstable ICU patients.
+
+<span id="fig-34-5"></span>
+![FIGURE 34.5](images/_page_13_Picture_3.jpeg)
 
 **FIGURE 34.5** Central venous catheter for hemodialysis, which has two 12-gauge infusion channels, and is 20 cm (8 inches) in length.
 
-#### *Hemofiltration*
+Vascular access requires a specialized dual-lumen, large-bore (12-gauge) central venous catheter placed in the internal jugular or femoral vein. The subclavian vein is avoided to prevent subclavian vein stenosis, which destroys the ipsilateral arm for future arteriovenous fistula creation.
+</div></details>
 
-Hemofiltration removes solutes by *convection*, where a hydrostatic pressure gradient is used to move a solute-containing fluid across a semipermeable membrane. The bulk movement of fluid "drags" the solute across the membrane, hence this process is also known as *solvent drag* (45).
+<details class="med-details" open><summary>
 
-Hemofiltration can remove large volumes of fluid (up to 3 liters per hour), but the rate of small solute clearance is much slower than during hemodialysis. As a result, *hemofiltration must be performed continuously to provide effective solute clearance*. The popular method is *continuous venovenous hemofiltration* (CVVH), where venous blood is removed and returned through large-bore, double-lumen catheters like the ones used for hemodialysis. Because solutes are cleared with water, the plasma concentration of these solutes does not decrease unless a
+### Continuous Renal Replacement Therapy (CRRT)</summary><div class="details-content">
 
-solute-free intravenous fluid is infused to replace some of the ultrafiltrate that is lost.
+#### Continuous Venovenous Hemofiltration (CVVH)
 
-**ADVANTAGES:** The advantages of CVVH include: (*a*) improved tolerance in hemodynamically unstable patients, (*b*) ability to remove large volumes of fluid, and (*c*) ability to remove drugs and toxins. CVVH with increased pore size is also effective in removing inflammatory cytokines from blood (46), which has important implications for patients with sepsis and septic shock (where the organ dysfunction is inflammatory in origin).
+CVVH clears solutes by *convection* (solvent drag): a hydrostatic transmembrane pressure gradient drives bulk fluid movement across a high-flux membrane, dragging dissolved solutes along.
 
-**DISADVANTAGES:** The major disadvantage of hemofiltration is the slow removal of small solutes, which is not well suited for clearing nitrogenous waste or for life-threatening hyperkalemia.
+Because fluid and solutes are removed proportionally, circulating solute concentrations drop only when replacement fluid (free of urea/potassium) is infused pre- or post-filter. CVVH clears larger middle molecules (including inflammatory cytokines) and permits continuous ultrafiltration (up to 2–3 L/hr) with excellent hemodynamic stability.
 
-### *Hemodiafiltration*
+#### Continuous Venovenous Hemodiafiltration (CVVHD)
 
-Hemodiafiltration combines the benefits of dialysis (rapid clearance of small solutes) and hemofiltration (removal of fluid and toxins), and can be delivered as *continuous venovenous hemodiafiltration* (CVVHD). This has become the favored method of renal replacement therapy in the ICU, although the performance can be fickle.
+CVVHD integrates diffusion and convection by simultaneously infusing dialysate countercurrent to blood while applying transmembrane hydrostatic pressure for ultrafiltration. It provides both rapid small solute clearance and continuous volume control, representing the predominant RRT modality in modern critical care units.
+</div></details>
 
-### **A FINAL WORD**
+<details class="med-details" open><summary>
 
-### **The Dirac Equation & Acute Kidney Injury**
+### The Dirac Analogy</summary><div class="details-content">
 
-The author of the introductory quote (Paul Dirac) was a theoretical physicist who introduced an equation (the Dirac equation) to describe the behavior of all electrons (*a*). However, the equation ultimately failed in its intended task, which prompted the introductory quote. This has some similarities to the concept of acute kidney injury, which attempts to encompass the entire spectrum of acute renal dysfunction, but ultimately fails in its intended task. (For example, it fails to reliably identify renal dysfunction because it relies on the serum creatinine.) In fact, it is not entirely clear how the term "acute kidney injury" offers anything over the time-honored term "acute renal dysfunction".
-
-### *References*
-
-- <span id="page-14-0"></span>*a.* Farmelo G. *The Strangest Man. The Hidden Life of Paul Dirac, Mystic of the Atom*. New York: Basic Books, 2009.
-- <span id="page-14-1"></span>1. Hoste EA, Bagshaw SM, Bellomo R, et al. Epidemiology of acute kidney injury in critically ill patients: the multinational AKI-EPI study. Intensive Care Med 2015; 41:1411–1423.
-
-#### *Reviews*
-
-- <span id="page-14-2"></span>2. Pickkers P, Darmon M, Hoste E, et al. Acute kidney injury in the critically ill: an updated review on pathophysiology and management. Intensive Care Med 2021; 47:835–850.
-- <span id="page-14-3"></span>3. Kellum JA, Prowle R. Paradigms of acute kidney injury in the intensive care setting. Nat Rev Nephrol 2018; 4:217–230.
-- <span id="page-14-4"></span>4. Bellomo R, Baldwin I, Ronco C, Kellum JA. ICU-based renal replacement therapy. Crit Care Med 2021; 49:406–418.
-
-#### <span id="page-14-5"></span>*Diagnostic Criteria*
-
-- 5. Verma S, Kellum JA. Defining acute kidney injury. Crit Care Clin 2021; 37:251–266.
-- <span id="page-14-6"></span>6. KHwaja A. KDIGO clinical practice guidelines for acute kidney injury. Nephron Clin Pract 2012; 120:c179–c184.
-- <span id="page-14-7"></span>7. Puthucheary ZA, Rawal J, McPhail M, et al. Acute skeletal muscle wasting in critical illness. JAMA 2013; 310:1591–1600.
-- <span id="page-14-8"></span>8. Doi K, Yuen PS, Eisner C, et al. Reduced production of creatine limits its use as a marker of kidney injury in sepsis. J Am Soc Nephrol 2009; 20:1217–1221.
-- <span id="page-14-9"></span>9. Sangla F, Marti PE, Verissimo T, et al. Measured and estimated glomerular filtration rate in the ICU: a prospective study. Crit
+Paul Dirac formulated a unifying relativistic wave equation for the electron, yet recognized that no single formulation can resolve all natural difficulties simultaneously. Similarly, the concept of "acute kidney injury" strives to unify the spectrum of acute renal failure under consensus criteria, yet remains constrained by reliance on serum creatinine and arbitrary oliguric cutoffs. Clinical management must look beyond nominal labels to address the individual vascular, inflammatory, and tubular drivers of disease.
+</div></details>
+</div></details>

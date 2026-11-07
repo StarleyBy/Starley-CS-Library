@@ -1,0 +1,245 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width,initial-scale=1,viewport-fit=cover">
+<title>IABP Timing Atlas</title>
+<style>
+:root{--bg:#0b0f17;--card:#0f172a;--ln:#1e293b;--ln2:#334155;--tx:#e2e8f0;--mu:#94a3b8;--ac:#38bdf8}
+*{box-sizing:border-box}
+body{margin:0;padding:max(10px,env(safe-area-inset-top)) 10px max(10px,env(safe-area-inset-bottom));background:var(--bg);color:var(--tx);font:14px/1.45 -apple-system,BlinkMacSystemFont,"SF Pro Text",system-ui,"Segoe UI",Roboto,sans-serif;-webkit-text-size-adjust:100%}
+[data-theme=oled]{--bg:#000;--card:#0a0a0c;--ln:#1c1c1e;--ln2:#2c2c2e}
+[data-theme=light]{--bg:#f8fafc;--card:#ffffff;--ln:#e2e8f0;--ln2:#cbd5e1;--tx:#0f172a;--mu:#64748b;--ac:#0284c7}
+.w{max-width:1200px;margin:0 auto;display:grid;gap:12px}
+.card{background:var(--card);border:1px solid var(--ln);border-radius:16px;padding:12px}
+h1{font-size:18px;margin:0}.sub{color:var(--mu);font-size:12px;margin:2px 0 0}
+.bar{display:flex;flex-wrap:wrap;gap:10px;align-items:center;justify-content:space-between}
+.btns{display:flex;flex-wrap:wrap;gap:6px}
+button{font:inherit;font-size:12px;color:var(--tx);background:var(--ln);border:1px solid var(--ln2);border-radius:999px;padding:7px 14px;cursor:pointer;min-height:36px}
+@media(pointer:coarse){button{min-height:44px}}
+#info .btns button{flex:1 1 150px}
+button.on{border-color:var(--ac);color:var(--ac)}
+.lg button{display:inline-flex;align-items:center;gap:7px;border-color:var(--c)}
+.lg button i{width:14px;height:4px;border-radius:2px;background:var(--c)}
+.lg button.off{opacity:.4;text-decoration:line-through}
+.sc{overflow-x:auto;padding:8px}
+svg{display:block;width:100%;min-width:720px;height:auto;touch-action:pan-y;user-select:none}
+svg text{font-family:ui-monospace,Consolas,monospace;font-size:13px;fill:var(--mu)}
+.g{stroke:var(--ln);stroke-dasharray:3 3}.mj{stroke:var(--ln2);stroke-dasharray:none}
+.dl{stroke:#475569;stroke-dasharray:6 4}.gl{stroke:#64748b;stroke-dasharray:2 4}
+.mk{cursor:pointer}.mk text{font-weight:700}
+#info{min-height:70px;font-size:13px}#info p{margin:.4em 0}
+.gm{display:grid;grid-template-columns:repeat(auto-fit,minmax(150px,1fr));gap:8px}
+.gm div{background:var(--bg);border:1px solid var(--ln);border-radius:10px;padding:8px;font-size:11px;color:var(--mu)}
+.gm b{display:block;font-size:13px;color:var(--tx);margin-top:2px}
+.tw{overflow-x:auto}table{border-collapse:collapse;min-width:860px;font-size:12px}
+th,td{text-align:left;vertical-align:top;padding:9px;border-bottom:1px solid var(--ln)}
+th{color:var(--mu);font-size:11px;text-transform:uppercase}td:first-child{font-weight:700;color:var(--c)}
+footer{color:var(--mu);font-size:11px;text-align:center}
+.embed .nm{display:none}.embed body,body.embed{padding:4px}.embed .w{gap:6px}
+@media(max-width:700px){svg{min-width:640px}table{min-width:0}thead{display:none}tr{display:block;border:1px solid var(--ln);border-radius:12px;margin-bottom:10px;padding:4px 0}td{display:block;border:0;padding:5px 10px}td[data-l]::before{content:attr(data-l);display:block;font-size:10px;color:var(--mu);text-transform:uppercase}td:first-child{font-size:14px}}
+</style>
+</head>
+<body>
+<div class="w" id="app">
+  <header class="card nm bar">
+    <div><h1 id="h1"></h1><p class="sub" id="sub"></p></div>
+    <div class="btns" id="ctl"></div>
+  </header>
+  <div class="card lg" id="lg"></div>
+  <div class="card sc"><svg id="c" viewBox="0 0 1000 560" role="img"></svg></div>
+  <div class="card" id="info"></div>
+  <div class="gm nm" id="gm"></div>
+  <section class="card tw nm"><table id="tb"></table></section>
+  <footer class="nm" id="ft"></footer>
+</div>
+<script>
+/* ===== i18n: arrays are [ru, en] ===== */
+const U={
+ title:['Атлас тайминга ВАБК (режим 1:2)','IABP Timing Atlas (1:2 mode)'],
+ sub:['Шесть сценариев в одной системе координат. Схема: значения округлены и утрированы для обучения.','Six scenarios on one coordinate system. Schematic: values are rounded and exaggerated for teaching.'],
+ all:['Показать все','Show all'],ideal:['Идеал vs база','Ideal vs baseline'],marks:['Метки','Markers'],
+ quiz:['Тест: найди ошибку','Quiz: spot the error'],next:['Дальше','Next'],exit:['Выйти','Exit'],
+ b1:['Удар 1: своя систола + аугментация','Beat 1: own systole + augmentation'],
+ b2:['Удар 2: ассист. систола + своя диастола','Beat 2: assisted systole + own diastole'],
+ ecg:['ЭКГ','ECG'],bal:['Баллон','Balloon'],mm:['АД, мм рт. ст.','BP, mmHg'],u:['мм рт. ст.','mmHg'],
+ hint:['Нажмите на метку на графике или наведите курсор.','Tap or hover a marker on the chart.'],
+ qp:['Какая ошибка тайминга у белой кривой (по сравнению с базой)?','Which timing error is the white trace (vs baseline)?'],
+ ok:['Верно! ','Correct! '],no:['Неверно. Правильно: ','Incorrect. Answer: '],fx:['Коррекция','Fix'],
+ th:[['Сценарий','Scenario'],['Морфология','Waveform'],['Гемодинамика','Hemodynamics'],['Риски','Risks'],['Коррекция','Fix']],
+ ft:['Учебная схема; не заменяет инструкцию к консоли и клиническое решение. Критерии сверены с материалами производителя (Getinge/Datascope), LITFL, Deranged Physiology, EMCrit IBCC. Оценивайте тайминг в режиме 1:2, меняйте один параметр за раз, сначала инфляцию.','Teaching schematic; not a substitute for the console manual or clinical judgment. Criteria cross-checked against manufacturer material (Getinge/Datascope), LITFL, Deranged Physiology and EMCrit IBCC. Judge timing in 1:2, change one setting at a time, inflation first.']
+};
+const MET=[
+ [['Своя систола (PSP)','Unassisted systole (PSP)'],['~125 мм рт. ст.','~125 mmHg']],
+ [['Пик аугментации (PDP)','Peak diastolic (PDP)'],['обычно > PSP','usually > PSP']],
+ [['Конец диастолы (BAEDP)','End-diastole (BAEDP)'],['на ≈10–15 ниже PAEDP','≈10–15 below PAEDP']],
+ [['Ассист. систола (APSP)','Assisted systole (APSP)'],['< PSP','< PSP']],
+ [['Инфляция','Inflation'],['на DN (≈ зубец T)','at DN (≈ T wave)']],
+ [['Дефляция','Deflation'],['до систолы (≈ R)','before systole (≈ R)']]
+];
+/* ===== waveform model (x in px, P in mmHg) ===== */
+const Y=p=>400-(p-40)*3,X0=120;
+const TL=[[155,100],[166,103],[200,96],[270,88],[340,82],[400,80]];
+const sys=(p0,pk)=>{const d=pk-p0;return[[0,p0],[18,p0+d*.42],[40,p0+d*.93],[70,pk],[105,pk-8],[140,Math.min(106,pk-12)],...TL]};
+const US=sys(80,126).slice(0,6);
+const AUG=[[155,100,1],[185,125],[215,142],[240,146]];
+const DEF=[[342,106],[372,76],[392,68],[400,68]];
+const mk=(b1,b2)=>{const a=b1.map(p=>[p[0]+X0,p[1],p[2]]);a[0][2]=1;a[a.length-1][2]=1;
+ return[[70,80],...a,...b2.slice(1).map(p=>[p[0]+X0+400,p[1],p[2]]),[980,80]]};
+function toPath(pts){const q=pts.map(p=>[p[0],Y(p[1]),p[2]]),ch=[[q[0]]];
+ for(let i=1;i<q.length;i++){ch[ch.length-1].push(q[i]);if(q[i][2])ch.push([q[i]])}
+ let d='M'+q[0][0]+','+q[0][1].toFixed(1);const f=n=>n.toFixed(1);
+ ch.forEach(c=>{for(let i=0;i<c.length-1;i++){const a=c[i],b=c[i+1],
+  p0=c[i-1]||[2*a[0]-b[0],2*a[1]-b[1]],p3=c[i+2]||[2*b[0]-a[0],2*b[1]-a[1]];
+  d+=`C${f(a[0]+(b[0]-p0[0])/6)},${f(a[1]+(b[1]-p0[1])/6)} ${f(b[0]-(p3[0]-a[0])/6)},${f(b[1]-(p3[1]-a[1])/6)} ${b[0]},${f(b[1])}`}});
+ return d}
+const LATE_B2=[[0,100],[30,102],[60,108],[95,118],[125,124],[150,118],[165,104],[176,106],[205,98],[270,89],[340,82],[400,80]];
+const SC=[
+{id:'baseline',c:'#94a3b8',w:2.5,dash:'6 3',pts:mk(sys(80,126),sys(80,126)),win:null,
+ n:['1. База (без ВАБК)','1. Baseline (no IABP)'],
+ m:['Систолический пик ~125, чёткая дикротическая вырезка (DN), плавный спад до ~80.','Systolic peak ~125, distinct dicrotic notch (DN), smooth decay to ~80.'],
+ h:['Исходный сердечный выброс без механической поддержки.','Native cardiac output without mechanical support.'],
+ r:['Нет поддержки диастолического давления и разгрузки ЛЖ.','No diastolic pressure support or LV unloading.'],
+ f:['Референс (неассистированный удар).','Reference (unassisted beat).']},
+{id:'optimal',c:'#22c55e',w:3.5,pts:mk([...US,...AUG,[275,138],[310,124],...DEF],sys(68,115)),win:[155,392],
+ n:['2. Оптимальный тайминг','2. Optimal timing'],
+ m:['Острая V-вырезка на DN; PDP обычно выше PSP; подъём аугментации параллелен систолическому; BAEDP ниже PAEDP (≈10–15); APSP ниже PSP.','Sharp V at the DN; PDP usually above PSP; augmentation upstroke parallel to systolic upstroke; BAEDP below PAEDP (≈10–15); APSP below PSP.'],
+ h:['↑ диастолическое давление в корне аорты (перфузионное давление коронарных и мозговых артерий), ↓ постнагрузка и работа ЛЖ.','↑ diastolic aortic root pressure (coronary and cerebral perfusion pressure), ↓ LV afterload and work.'],
+ r:['Нет при корректной настройке.','None when correctly timed.'],
+ f:['Коррекция не требуется.','No adjustment needed.']},
+{id:'early-inf',c:'#ef4444',w:3,pts:mk([[0,80],[18,100],[40,122],[70,127],[100,128],[128,134],[160,145],[205,148],[255,138],[305,122],...DEF],sys(68,118)),win:[118,392],
+ n:['3. Раннее раздувание','3. Early inflation'],
+ m:['Инфляция до закрытия клапана: DN стёрта или отсутствует, аугментация «наползает» на систолу и сливается с пиком.','Inflation before aortic valve closure: DN obscured or absent; augmentation encroaches on systole and merges with the peak.'],
+ h:['Баллон сопротивляется ещё открытому клапану: короче изгнание, ↓ ударный объём, ↑ КСО, ↑ постнагрузка и MVO₂.','Balloon opposes the still-open valve: shorter ejection, ↓ stroke volume, ↑ LVESV, ↑ afterload and MVO₂.'],
+ r:['Преждевременное закрытие клапана, аортальная регургитация, ↑ давление в ЛЖ, ишемия, отёк лёгких.','Premature valve closure, aortic regurgitation, ↑ LV pressure, ischaemia, pulmonary oedema.'],
+ f:['Отсрочить инфляцию (сместить позже), чтобы она пришлась на DN.','Delay inflation (shift later) so it falls on the DN.']},
+{id:'late-inf',c:'#c084fc',w:3,pts:mk([...US,[155,100],[168,103],[200,99],[232,103],[262,114],[290,121],[318,120],...DEF],sys(68,115)),win:[232,392],
+ n:['4. Позднее раздувание','4. Late inflation'],
+ m:['DN полностью видна, нет острой V; U-образная пауза перед аугментацией; PDP занижен (может не превышать PSP).','DN fully visible, no sharp V; U-shaped pause before augmentation; PDP reduced (may not exceed PSP).'],
+ h:['Часть ранней диастолы потеряна: слабая аугментация, субоптимальная коронарная перфузия.','Early diastole wasted: weak augmentation, suboptimal coronary perfusion.'],
+ r:['Меньше перфузионное давление (шунты, миокард); разгрузка систолы может сохраняться.','Reduced perfusion pressure (grafts, myocardium); systolic unloading may be preserved.'],
+ f:['Ускорить инфляцию (сместить раньше) до DN.','Advance inflation (shift earlier) to the DN.']},
+{id:'early-def',c:'#fb923c',w:3,pts:mk([...US,...AUG,[258,138],[272,108],[286,84],[304,74],[340,76],[385,79],[400,80]],sys(80,126)),win:[155,272],
+ n:['5. Раннее сдувание','5. Early deflation'],
+ m:['Резкий спад сразу после аугментации в середине диастолы, затем возврат; BAEDP равно или ниже PAEDP, но к систоле «вакуума» уже нет; APSP не снижено.','Sharp drop right after augmentation in mid-diastole, then recovery; BAEDP equal to or below PAEDP, yet no vacuum remains at systole onset; APSP not reduced.'],
+ h:['Укороченная аугментация, нет разгрузки ЛЖ (↑ MVO₂); возможен ретроградный ток из коронарных и сонных артерий.','Shortened augmentation, no LV unloading (↑ MVO₂); possible retrograde flow from coronary and carotid arteries.'],
+ r:['Субоптимальная коронарная перфузия, возможна стенокардия.','Suboptimal coronary perfusion; angina possible.'],
+ f:['Отсрочить дефляцию (сместить позже), ближе к началу систолы.','Delay deflation (shift later), closer to systole onset.']},
+{id:'late-def',c:'#38bdf8',w:3,pts:mk([...US,...AUG,[275,138],[315,126],[355,114],[390,102],[400,100]],LATE_B2),win:[155,430],
+ n:['6. Позднее сдувание','6. Late deflation'],
+ m:['Аугментация сливается с систолой: BAEDP равно или выше PAEDP, подъём ассистированной систолы пологий и затяжной.','Augmentation runs into systole: BAEDP equal to or above PAEDP; assisted systolic upstroke slurred and prolonged.'],
+ h:['ЛЖ изгоняет против ещё раздутого баллона: ↑ постнагрузка, ↑ MVO₂, ↓ ударный объём.','LV ejects against a still-inflated balloon: ↑ afterload, ↑ MVO₂, ↓ stroke volume.'],
+ r:['Особенно опасная ошибка: препятствие изгнанию, возможна декомпенсация.','Particularly hazardous: impedes ejection; may precipitate decompensation.'],
+ f:['Ускорить дефляцию (сместить раньше) — до начала изгнания.','Advance deflation (shift earlier) — before ejection begins.']}
+];
+SC.forEach(s=>s.d=toPath(s.pts));
+/* markers: key,x,P,color,owners,dx,dy,anchor,label */
+const G='#22c55e',GR='#94a3b8';
+const MK=[
+ ['dn',275,100,G,['optimal'],10,22,'start','DN'],
+ ['pdp',360,146,G,['optimal'],0,-13,'middle','PDP ≈146'],
+ ['baedp',520,68,G,['optimal'],0,24,'middle','BAEDP ≈68'],
+ ['apsp',590,115,G,['optimal'],0,-13,'middle','APSP ≈115'],
+ ['psp',190,126,GR,['baseline','optimal'],0,-13,'middle','PSP ≈126'],
+ ['paedp',920,80,GR,['baseline','optimal'],-8,-12,'end','PAEDP 80'],
+ ['ed',424,74,'#fb923c',['early-def'],0,22,'middle',['провал','dip']],
+ ['ld',520,100,'#38bdf8',['late-def'],10,-10,'start','BAEDP ↑ ~100']
+];
+const PD={
+ dn:[['DN — точка инфляции','DN — inflation point'],['Баллон надувается в момент закрытия аортального клапана: резкая V-образная вырезка без U-паузы.','The balloon inflates at aortic valve closure, giving a sharp V without a U-shaped pause.']],
+ pdp:[['PDP — пик диастолической аугментации','PDP — peak diastolic augmentation'],['Максимальное давление при раздутом баллоне. Обычно выше PSP; повышает диастолическое перфузионное давление. Малый PDP может отражать не только тайминг, но и малый объём баллона или низкое ОПСС.','Highest pressure with the balloon inflated. Usually above PSP; raises diastolic perfusion pressure. A low PDP can reflect balloon volume or low SVR, not only timing.']],
+ baedp:[['BAEDP — конечно-диастолическое давление (ассистированное)','BAEDP — assisted end-diastolic pressure'],['Дефляция перед систолой создаёт «вакуум»: давление примерно на 10–15 мм рт. ст. ниже PAEDP, ЛЖ изгоняет против меньшей постнагрузки.','Deflation just before systole creates a "vacuum": pressure about 10–15 mmHg below PAEDP, so the LV ejects against lower afterload.']],
+ paedp:[['PAEDP — конечно-диастолическое давление (неассистированное)','PAEDP — unassisted end-diastolic pressure'],['Конец диастолы неассистированного удара — точка отсчёта для оценки BAEDP.','End-diastole of the unassisted beat — the reference for judging BAEDP.']],
+ apsp:[['APSP — ассистированная систола','APSP — assisted peak systolic pressure'],['Ниже PSP: меньше постнагрузка и потребность миокарда в O₂. Величина снижения зависит от пациента (на схеме ≈10 мм рт. ст.).','Lower than PSP: less afterload and myocardial O₂ demand. The size of the drop varies by patient (≈10 mmHg on this schematic).']],
+ psp:[['PSP — собственная систола','PSP — unassisted peak systolic pressure'],['Пик неассистированного удара; сравнивается с APSP.','Peak of the unassisted beat; compared with APSP.']],
+ ed:[['Раннее сдувание: провал','Early deflation: dip'],['Баллон сдулся в диастоле: давление резко падает, к систоле разрежения уже нет, постнагрузка не снижена.','Balloon deflated in diastole: pressure drops sharply, no vacuum remains at systole onset, afterload is not reduced.']],
+ ld:[['Позднее сдувание: высокое BAEDP','Late deflation: high BAEDP'],['Баллон ещё раздут в начале изгнания: диастолическое давление не падает, ЛЖ преодолевает дополнительное сопротивление.','Balloon still inflated at ejection onset: diastolic pressure does not fall, so the LV works against extra resistance.']]
+};
+/* ===== state ===== */
+const Q_=new URLSearchParams(location.search);
+let lang=Q_.get('lang')||(()=>{try{return localStorage.getItem('iabp-lang')}catch(e){}})()||'en';
+if(lang!=='ru')lang='en';
+const act={};SC.forEach(s=>act[s.id]=true);
+if(Q_.get('show')){const L=Q_.get('show').split(',');SC.forEach(s=>act[s.id]=L.includes(s.id))}
+let pts=Q_.get('points')!=='0',cur=null,Q=null;
+const setTheme=n=>n?document.body.dataset.theme=n:delete document.body.dataset.theme;
+setTheme(Q_.get('theme'));
+if(Q_.get('embed')==='1')document.body.classList.add('embed');
+const li=()=>lang==='ru'?0:1,t=a=>a[li()],u=k=>t(U[k]);
+const vis=id=>Q?(id==='baseline'||id===Q.id):act[id];
+const hide=()=>Q&&!Q.done;
+/* ===== rendering ===== */
+function ecg(){let d='M70,462';const b=(a,c,h)=>`L${a},462Q${(a+c)/2},${462-2*h} ${c},462`;
+ [105,505,905].forEach(r=>{if(r-82>=70)d+=b(r-82,r-50,7);d+=`L${r-8},462L${r-4},466L${r},436L${r+5},476L${r+10},462`;if(r+170<=980)d+=b(r+70,r+170,12)});
+ return d+'L980,462'}
+const ECG=ecg();
+function svgHTML(){
+ let s='';
+ for(let p=40;p<=160;p+=20)s+=`<line x1="70" x2="980" y1="${Y(p)}" y2="${Y(p)}" class="g ${p%40?'':'mj'}"/><text x="62" y="${Y(p)+4}" text-anchor="end">${p}</text>`;
+ [120,520,920].forEach(x=>s+=`<line x1="${x}" x2="${x}" y1="30" y2="545" class="dl"/>`);
+ s+=`<text x="16" y="215" text-anchor="middle" transform="rotate(-90 16 215)">${u('mm')}</text>`;
+ s+=`<text x="130" y="20" style="fill:#38bdf8">${u('b1')}</text><text x="530" y="20">${u('b2')}</text>`;
+ s+=`<line x1="275" x2="275" y1="30" y2="482" class="gl"/><line x1="505" x2="505" y1="30" y2="482" class="gl"/>`;
+ s+=`<text x="281" y="42">▼ ${t(MET[4][0])}: ${t(MET[4][1])}</text><text x="499" y="58" text-anchor="end">▼ ${t(MET[5][0])}: ${t(MET[5][1])}</text>`;
+ s+=`<text x="8" y="466">${u('ecg')}</text><path d="${ECG}" fill="none" stroke="#34d399" stroke-width="1.6" opacity=".8"/>`;
+ s+=`<text x="8" y="520">${u('bal')}</text>`;
+ SC.forEach(sc=>{const on=vis(sc.id),col=Q&&!Q.done&&sc.id===Q.id?'#f8fafc':sc.c;
+  s+=`<path d="${sc.d}" fill="none" stroke="${col}" stroke-width="${on?sc.w:1}" opacity="${on?1:.06}" stroke-linecap="round" stroke-linejoin="round"${sc.dash?` stroke-dasharray="${sc.dash}"`:''} style="filter:drop-shadow(0 0 5px ${col}77)"/>`});
+ if(!hide())SC.filter(x=>x.win).forEach((sc,i)=>{if(vis(sc.id))s+=`<rect x="${X0+sc.win[0]}" y="${494+i*11}" width="${sc.win[1]-sc.win[0]}" height="7" rx="3.5" fill="${sc.c}"/>`});
+ if(pts&&!hide())MK.forEach(m=>{if(!m[4].some(vis))return;const lb=Array.isArray(m[8])?t(m[8]):m[8];
+  s+=`<g class="mk" data-k="${m[0]}" transform="translate(${m[1]},${Y(m[2])})"><circle r="14" fill="transparent"/><circle r="8" fill="${m[3]}" opacity=".25"/><circle r="4.5" fill="${m[3]}" stroke="#fff" stroke-width="1.5"/><text x="${m[5]}" y="${m[6]}" text-anchor="${m[7]}" style="fill:${m[3]}">${lb}</text></g>`});
+ s+=`<g id="xh" style="display:none" pointer-events="none"><line id="xv" y1="30" y2="420" stroke="#64748b" stroke-dasharray="2 2"/><line id="xl" x1="70" x2="980" stroke="#64748b" stroke-dasharray="2 2"/><rect id="xb" width="190" height="24" rx="6" fill="#020617" stroke="#334155"/><text id="xt" style="fill:#38bdf8;font-weight:700"></text></g>`;
+ return s}
+function explain(s){return`<p>${t(s.m)}</p><p>${t(s.h)}</p><p><b>${u('fx')}:</b> ${t(s.f)}</p>`}
+function infoHTML(){
+ if(hide())return`<b>${u('qp')}</b><div class="btns" style="margin-top:8px">${SC.slice(1).map(s=>`<button style="border-color:${s.c}" onclick="ans('${s.id}')">${t(s.n)}</button>`).join('')}</div>`;
+ if(Q){const s=SC.find(x=>x.id===Q.id),ok=Q.pick===Q.id;
+  return`<b style="color:${ok?'#4ade80':'#f87171'}">${ok?u('ok'):u('no')+t(s.n)}</b>${explain(s)}<div class="btns"><button onclick="startQ()">${u('next')}</button><button onclick="endQ()">${u('exit')}</button></div>`}
+ if(cur&&PD[cur])return`<b>${t(PD[cur][0])}</b><p>${t(PD[cur][1])}</p>`;
+ return`<span style="color:var(--mu)">${u('hint')}</span>`}
+function render(){
+ document.documentElement.lang=lang;document.title=u('title');
+ const $=i=>document.getElementById(i);
+ $('h1').textContent=u('title');$('sub').textContent=u('sub');$('ft').textContent=u('ft');
+ $('ctl').innerHTML=`<button onclick="all()">${u('all')}</button><button onclick="ideal()">${u('ideal')}</button><button class="${pts?'on':''}" onclick="pts=!pts;render()">${u('marks')}</button><button class="${Q?'on':''}" onclick="Q?endQ():startQ()">${u('quiz')}</button><button onclick="setLang()">${lang==='ru'?'EN':'RU'}</button>`;
+ $('lg').innerHTML=`<div class="btns">${SC.map(s=>`<button style="--c:${s.c}" class="${vis(s.id)?'':'off'}" ${Q?'disabled':''} onclick="tg('${s.id}')"><i></i>${t(s.n)}</button>`).join('')}</div>`;
+ $('c').innerHTML=svgHTML();$('info').innerHTML=infoHTML();
+ $('gm').innerHTML=MET.map(m=>`<div>${t(m[0])}<b>${t(m[1])}</b></div>`).join('');
+ $('tb').innerHTML=`<thead><tr>${U.th.map(h=>`<th>${t(h)}</th>`).join('')}</tr></thead><tbody>${SC.map(s=>`<tr><td style="--c:${s.c}">${t(s.n)}</td><td data-l="${t(U.th[1])}">${t(s.m)}</td><td data-l="${t(U.th[2])}">${t(s.h)}</td><td data-l="${t(U.th[3])}">${t(s.r)}</td><td data-l="${t(U.th[4])}">${t(s.f)}</td></tr>`).join('')}</tbody>`;
+ if(top!==self)parent.postMessage({iabpHeight:document.documentElement.scrollHeight},'*')}
+/* ===== actions ===== */
+function tg(id){act[id]=!act[id];render()}
+function all(){SC.forEach(s=>act[s.id]=true);render()}
+function ideal(){SC.forEach(s=>act[s.id]=(s.id==='baseline'||s.id==='optimal'));render()}
+function setLang(l){lang=l||(lang==='ru'?'en':'ru');try{localStorage.setItem('iabp-lang',lang)}catch(e){}render()}
+function startQ(){const ids=SC.slice(1).map(s=>s.id);Q={id:ids[Math.random()*ids.length|0],done:0,pick:null};cur=null;render()}
+function ans(id){Q.done=1;Q.pick=id;render()}
+function endQ(){Q=null;render()}
+/* ===== interaction ===== */
+const svg=document.getElementById('c');
+svg.addEventListener('click',e=>{const g=e.target.closest('.mk');if(g){cur=g.dataset.k;document.getElementById('info').innerHTML=infoHTML()}});
+svg.addEventListener('pointerover',e=>{const g=e.target.closest('.mk');if(g&&e.pointerType==='mouse'){cur=g.dataset.k;document.getElementById('info').innerHTML=infoHTML()}});
+svg.addEventListener('pointermove',e=>{
+ const r=svg.getBoundingClientRect(),x=(e.clientX-r.left)/r.width*1000,y=(e.clientY-r.top)/r.width*1000,xh=document.getElementById('xh');
+ if(!xh)return;
+ if(x<70||x>980||y<30||y>420){xh.style.display='none';return}
+ xh.style.display='block';
+ const g=i=>document.getElementById(i),tx=Math.min(x+12,790);
+ g('xv').setAttribute('x1',x);g('xv').setAttribute('x2',x);g('xl').setAttribute('y1',y);g('xl').setAttribute('y2',y);
+ g('xb').setAttribute('x',tx);g('xb').setAttribute('y',Math.max(y-34,32));
+ g('xt').setAttribute('x',tx+8);g('xt').setAttribute('y',Math.max(y-17,49));
+ g('xt').textContent=`${Math.round(40+(400-y)/3)} ${u('u')} · ${x<520?'1':'2'}`});
+svg.addEventListener('pointerleave',()=>{const x=document.getElementById('xh');if(x)x.style.display='none'});
+/* host page API (iframe): postMessage({lang:'ru'|'en', show:['optimal','baseline'], quiz:true}) */
+addEventListener('message',e=>{const d=e.data||{};
+ if('theme' in d)setTheme(d.theme);
+ if(d.vars)for(const k in d.vars)document.documentElement.style.setProperty(k,d.vars[k]);
+ if(d.lang)lang=d.lang==='ru'?'ru':'en';
+ if(Array.isArray(d.show))SC.forEach(s=>act[s.id]=d.show.includes(s.id));
+ if(d.quiz===true)Q={id:SC[1+Math.random()*5|0].id,done:0,pick:null};if(d.quiz===false)Q=null;
+ render()});
+if(window.ResizeObserver&&top!==self){new ResizeObserver(()=>{parent.postMessage({iabpHeight:document.documentElement.scrollHeight},'*')}).observe(document.body)}
+if(Q_.get('quiz')==='1')startQ();else render();
+</script>
+</body>
+</html>

@@ -169,7 +169,7 @@
         "russian": "30. Отлучение от искусственной вентиляции легких"
       },
       {
-        "file": "chapter-31md",
+        "file": "chapter-31.md",
         "title": "31. Acid-Base Analysis",
         "russian": "31. Анализ кислотно-основного состояния"
       },
@@ -287,16 +287,19 @@
     "appendices": [
       {
         "file": "appendix-01.md",
-        "title": "Units and Conversions"
+        "title": "Units and Conversions",
+        "russian": "Единицы измерения и конвертация"
       },
       {
         "file": "appendix-02.md",
-        "title": "Selected Reference Ranges"
+        "title": "Selected Reference Ranges",
+        "russian": "Избранные референсные интервалы"
       },
       {
         "file": "appendix-03.md",
-        "title": "The Body Fantastic"
+        "title": "The Body Fantastic",
+        "russian": "Физиологические константы и формулы (The Body Fantastic)"
       }
     ]
   }
-]
+]

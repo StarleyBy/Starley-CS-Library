@@ -6,7 +6,7 @@
 
 <details class="med-details"><summary>
 
-## Краткое содержание</summary><div class="details-content">
+## Краткое резюме</summary><div class="details-content">
 
 ### Эволюционные основы и два звена иммунитета
 * **Врожденный иммунитет:** Древняя, эволюционно консервативная система быстрой защиты, присутствующая у беспозвоночных (морские звезды, мечехвосты); мобилизуется в течение минут и часов посредством зародышевых паттерн-распознающих рецепторов (PRR), не требует предварительной сенсибилизации и не формирует иммунологической памяти. Главный клеточный эффектор — мононуклеарные фагоциты (моноциты и тканевые макрофаги).
@@ -101,7 +101,7 @@
 
 <details class="med-details"><summary>
 
-### Эволюционные основы: врожденный и адаптивный иммунитет</summary><div class="details-content">
+### 1.1 Эволюционные основы: врожденный и адаптивный иммунитет</summary><div class="details-content">
 
 <details class="med-details"><summary>
 
@@ -127,7 +127,7 @@
 
 <details class="med-details"><summary>
 
-### Клеточная архитектура и молекулярное взаимодействие</summary><div class="details-content">
+### 1.2 Клеточная архитектура и молекулярное взаимодействие</summary><div class="details-content">
 
 <details class="med-details"><summary>
 
@@ -183,7 +183,7 @@
 
 <details class="med-details"><summary>
 
-### Атерогенные липопротеины и сосудистое воспаление</summary><div class="details-content">
+### 2.1 Атерогенные липопротеины и сосудистое воспаление</summary><div class="details-content">
 
 <details class="med-details"><summary>
 
@@ -209,7 +209,7 @@
 
 <details class="med-details"><summary>
 
-### Гемодинамический стресс и окислительные пути</summary><div class="details-content">
+### 2.2 Гемодинамический стресс и окислительные пути</summary><div class="details-content">
 
 <details class="med-details"><summary>
 
@@ -235,7 +235,7 @@
 
 <details class="med-details"><summary>
 
-### Инфекционные и средовые факторы</summary><div class="details-content">
+### 2.3 Инфекционные и средовые факторы</summary><div class="details-content">
 
 <details class="med-details"><summary>
 
@@ -259,7 +259,7 @@
 
 <details class="med-details"><summary>
 
-### Повреждение тканей и жировая ткань как усилители воспаления</summary><div class="details-content">
+### 2.4 Повреждение тканей и жировая ткань как усилители воспаления</summary><div class="details-content">
 
 <details class="med-details"><summary>
 
@@ -301,7 +301,7 @@
 
 <details class="med-details"><summary>
 
-### Механизмы отторжения аллотрансплантата</summary><div class="details-content">
+### 3.1 Механизмы отторжения аллотрансплантата</summary><div class="details-content">
 
 <details class="med-details"><summary>
 
@@ -329,7 +329,7 @@
 
 <details class="med-details"><summary>
 
-### Клиническая фармакотерапия иммуносупрессии при трансплантации сердца</summary><div class="details-content">
+### 3.2 Клиническая фармакотерапия иммуносупрессии при трансплантации сердца</summary><div class="details-content">
 
 <details class="med-details"><summary>
 
@@ -370,7 +370,7 @@
 
 <details class="med-details"><summary>
 
-### Вирусный и аутоиммунный патогенез повреждения миокарда</summary><div class="details-content">
+### 4.1 Вирусный и аутоиммунный патогенез повреждения миокарда</summary><div class="details-content">
 
 <details class="med-details"><summary>
 
@@ -398,7 +398,7 @@
 
 <details class="med-details"><summary>
 
-### Доказательная иммуносупрессия и токсичность ингибиторов контрольных точек</summary><div class="details-content">
+### 4.2 Доказательная иммуносупрессия и токсичность ингибиторов контрольных точек</summary><div class="details-content">
 
 <details class="med-details"><summary>
 
@@ -419,6 +419,10 @@
 Широкое внедрение ингибиторов иммунных контрольных точек (ICI) в онкологии привело к возникновению Т-клеточного миокардита у < 1% пациентов. Несмотря на высокодозную иммуносупрессивную терапию, почти половина этих больных переносят тяжелейшие сердечно-сосудистые осложнения (MACE), включая сердечно-сосудистую смерть, кардиогенный шок, остановку сердца и гемодинамически значимую полную атриовентрикулярную блокаду.
 
 Ведение пациентов с подозрением на ICI-индуцированный миокардит требует экстренной отмены онкопрепарата, немедленного начала пульс-терапии высокими дозами глюкокортикоидов и раннего подключения таргетной иммуносупрессии при отсутствии быстрого терапевтического ответа.
+
+<span id="diag-07-01"></span>
+
+### СХЕМА 7.1: Миокардит, индуцированный ингибиторами контрольных точек: патофизиология и терапия
 
 <svg viewBox="0 0 1000 680" style="width:100%; max-width:1000px; height:auto; display:block; margin:20px auto; background:#0f172a; border-radius:12px; border:1px solid #1e293b; font-family:system-ui, -apple-system, sans-serif;" xmlns="http://www.w3.org/2000/svg">
   <defs>
@@ -508,7 +512,7 @@
 
 <details class="med-details"><summary>
 
-### Каскад комплемента в сосудистом повреждении</summary><div class="details-content">
+### 5.1 Каскад комплемента в сосудистом повреждении</summary><div class="details-content">
 
 <details class="med-details"><summary>
 
@@ -524,7 +528,7 @@
 
 <details class="med-details"><summary>
 
-### Клональный гематопоэз неопределенного потенциала (CHIP)</summary><div class="details-content">
+### 5.2 Клональный гематопоэз неопределенного потенциала (CHIP)</summary><div class="details-content">
 
 <details class="med-details"><summary>
 
@@ -562,7 +566,7 @@
 
 <details class="med-details"><summary>
 
-### Архитектура сигнального пути NF-κB</summary><div class="details-content">
+### 6.1 Архитектура сигнального пути NF-κB</summary><div class="details-content">
 
 <details class="med-details"><summary>
 
@@ -578,7 +582,7 @@
 
 <details class="med-details"><summary>
 
-### Инфламмасома NLRP3: главный сенсор метаболической опасности</summary><div class="details-content">
+### 6.2 Инфламмасома NLRP3: главный сенсор метаболической опасности</summary><div class="details-content">
 
 <details class="med-details"><summary>
 
@@ -599,6 +603,10 @@
 #### Фармакологическое ингибирование каскада инфламмасомы NLRP3</summary><div class="details-content">
 
 Таргетное воздействие на инфламмасому открыло принципиально новые направления разработки противовоспалительных препаратов. Ингибирование сборки этого комплекса позволяет селективно предотвратить созревание IL-1β и IL-18 без тотальной блокады других защитных механизмов иммунитета.
+
+<span id="diag-07-02"></span>
+
+### СХЕМА 7.2: Воспалительная ось NLRP3 → IL-1β → IL-6 → СРБ и терапевтические мишени
 
 <svg viewBox="0 0 1000 680" style="width:100%; max-width:1000px; height:auto; display:block; margin:20px auto; background:#0f172a; border-radius:12px; border:1px solid #1e293b; font-family:system-ui, -apple-system, sans-serif;" xmlns="http://www.w3.org/2000/svg">
   <defs>
@@ -714,7 +722,7 @@
 
 <details class="med-details"><summary>
 
-### Крюппель-подобные факторы (KLF) и плейотропия статинов</summary><div class="details-content">
+### 6.3 Крюппель-подобные факторы (KLF) и плейотропия статинов</summary><div class="details-content">
 
 <details class="med-details"><summary>
 
@@ -738,7 +746,7 @@
 
 <details class="med-details"><summary>
 
-### Эпигенетическая регуляция сосудистого воспаления</summary><div class="details-content">
+### 6.4 Эпигенетическая регуляция сосудистого воспаления</summary><div class="details-content">
 
 <details class="med-details"><summary>
 
@@ -772,7 +780,7 @@
 
 <details class="med-details"><summary>
 
-### Рекрутмент лейкоцитов и каскады сосудистой адгезии</summary><div class="details-content">
+### 7.1 Рекрутмент лейкоцитов и каскады сосудистой адгезии</summary><div class="details-content">
 
 <details class="med-details"><summary>
 
@@ -814,7 +822,7 @@
 
 <details class="med-details"><summary>
 
-### Модифицированные липиды, фосфолипазы и биология пенистых клеток</summary><div class="details-content">
+### 7.2 Модифицированные липиды, фосфолипазы и биология пенистых клеток</summary><div class="details-content">
 
 <details class="med-details"><summary>
 
@@ -840,7 +848,7 @@
 
 <details class="med-details"><summary>
 
-### Ремоделирование внеклеточного матрикса и протеиназы</summary><div class="details-content">
+### 7.3 Ремоделирование внеклеточного матрикса и протеиназы</summary><div class="details-content">
 
 <details class="med-details"><summary>
 
@@ -866,7 +874,7 @@
 
 <details class="med-details"><summary>
 
-### Биоактивные липидные медиаторы: эйкозаноиды, лейкотриены и резолвины</summary><div class="details-content">
+### 7.4 Биоактивные липидные медиаторы: эйкозаноиды, лейкотриены и резолвины</summary><div class="details-content">
 
 <details class="med-details"><summary>
 
@@ -902,7 +910,7 @@
 
 <details class="med-details"><summary>
 
-### Терапевтическая модуляция адаптивного иммунитета</summary><div class="details-content">
+### 7.5 Терапевтическая модуляция адаптивного иммунитета</summary><div class="details-content">
 
 <details class="med-details"><summary>
 
@@ -934,7 +942,7 @@
 
 <details class="med-details"><summary>
 
-### Исследование CANTOS: доказательство концепции таргетного ингибирования цитокинов</summary><div class="details-content">
+### 8.1 Исследование CANTOS: доказательство концепции таргетного ингибирования цитокинов</summary><div class="details-content">
 
 <details class="med-details"><summary>
 
@@ -974,7 +982,7 @@
 
 <details class="med-details"><summary>
 
-### Альтернативные цитокиновые и таргетные вмешательства</summary><div class="details-content">
+### 8.2 Альтернативные цитокиновые и таргетные вмешательства</summary><div class="details-content">
 
 <details class="med-details"><summary>
 
@@ -1020,7 +1028,7 @@
 
 <details class="med-details"><summary>
 
-### Нетаргетные противовоспалительные испытания: исследование CIRT и метотрексат</summary><div class="details-content">
+### 9.1 Нетаргетные противовоспалительные испытания: исследование CIRT и метотрексат</summary><div class="details-content">
 
 <details class="med-details"><summary>
 
@@ -1036,7 +1044,7 @@
 
 <details class="med-details"><summary>
 
-### Ось «интерлейкин-1β — интерлейкин-6» как терапевтический фронтир</summary><div class="details-content">
+### 9.2 Ось «интерлейкин-1β — интерлейкин-6» как терапевтический фронтир</summary><div class="details-content">
 
 <details class="med-details"><summary>
 
@@ -1076,7 +1084,7 @@ IL-18 обладает широким спектром провоспалите�
 
 <details class="med-details"><summary>
 
-### Прецизионная кардиология под контролем биомаркеров</summary><div class="details-content">
+### 9.3 Прецизионная кардиология под контролем биомаркеров</summary><div class="details-content">
 
 <details class="med-details"><summary>
 
@@ -1100,7 +1108,7 @@ IL-18 обладает широким спектром провоспалите�
 
 <details class="med-details"><summary>
 
-### Сводная парадигма кардиоваскулярной иммунотерапии</summary><div class="details-content">
+### 9.4 Сводная парадигма кардиоваскулярной иммунотерапии</summary><div class="details-content">
 
 <details class="med-details"><summary>
 

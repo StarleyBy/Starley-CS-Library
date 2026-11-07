@@ -1,333 +1,348 @@
-# Chapter 3
-
 # The Indwelling Vascular Catheter
 
-See, and then reason and compare and control. But see first.
+##### A comprehensive clinical guide to the routine maintenance, declotting protocols, non-infectious mechanical and thrombotic hazards, biofilm pathophysiology, paired-culture diagnostics, and antimicrobial management of indwelling vascular lines.
 
-Sir William Osler (a)
+<details class="med-details"><summary>
 
-The ubiquitous presence of indwelling vascular catheters requires attention to their maintenance and vigilance for their troublesome complications. This chapter begins by describing the routine care and maintenance of indwelling catheters, including how to restore patency in an occluded catheter, and then focuses on the major complications of indwelling catheters: i.e., thrombosis, vascular perforation, and catheter-related infections.
+## Executive Summary</summary><div class="details-content">
 
-# **ROUTINE CATHETER CARE**
+### Routine Maintenance and Line Care
+* **Protective Dressings:** Transparent polyurethane occlusive dressings allow continuous visual inspection of the puncture site and provide a protective barrier; however, accumulated moisture or blood under occlusive dressings paradoxically promotes bacterial proliferation and mandates immediate replacement. Sterile gauze dressings are preferred when the insertion site is oozing or damp.
+* **Replacement Policy:** Routine or scheduled catheter replacement (either by new venipuncture or over a guidewire) is strictly contraindicated; it does not reduce infection rates and introduces cumulative mechanical and infectious complications. Lines are replaced only for clinical indications (phlebitis, purulence, documented bacteremia, or irreversible occlusion).
+* **Flushing and Locking:** Preservative-free 0.9% sodium chloride is the standard flushing and locking solution for all venous catheters, eliminating the risk of heparin-induced thrombocytopenia (HIT). For indwelling arterial lines, 1.4% sodium citrate or low-dose heparinized saline remains necessary.
 
-The considerations involved in routine catheter care are summarized in Table 3.1.
+### Management of Catheter Occlusion
+* **Thrombotic Occlusion (~ 60% of cases):** Restoring patency with local alteplase (recombinant tissue plasminogen activator, 2 mg in 2 mL sterile water per lumen, 30–120 minutes dwell time) succeeds in 80–90% of obstructed central venous lines without systemic fibrinolysis. Guidewire clearance of occluded lines is unsafe due to the risk of dislodging pulmonary emboli.
+* **Non-Thrombotic Occlusion:**
+  * *Alkaline drug precipitates* (acyclovir, ganciclovir, phenytoin, ampicillin): Instill 8.4% sodium bicarbonate or 0.1 mmol/L sodium hydroxide.
+  * *Acidic drug precipitates* (vancomycin, ceftriaxone, parenteral nutrition): Instill 0.1 N hydrochloric acid or L-cysteine (50 mg/mL).
+  * *Mineral precipitates* (calcium phosphate): Instill 0.1 N NaOH followed by L-cysteine.
+  * *Lipid residues* (propofol, parenteral lipid emulsions): Instill 70% ethanol or 0.1 N NaOH (dwell 2 hours).
 
-# **Protective Dressings**
+### Non-Infectious Hazards: Thrombosis and Perforation
+* **Upper Extremity DVT:** More than 90% of upper extremity deep vein thromboses involve indwelling catheters (midlines or PICCs). Signs include arm swelling, discomfort, and dilated collateral shoulder veins (Urschel sign). Compression ultrasonography has 97% sensitivity and 96% specificity. Catheter removal is not mandatory unless limb ischemia occurs or anticoagulation is contraindicated.
+* **Vascular Perforation:** Left-sided central lines entering the superior vena cava (SVC) can abut the lateral vascular wall at an acute angle; chronic pulsatile erosion produces mediastinal extravasation, acute mediastinal widening, and massive pleural effusion. Confirm by pleural fluid analysis and radiocontrast injection; remove the catheter immediately.
+* **Cardiac Tamponade:** Rare but lethal (40–100% mortality) consequence of right atrial perforation by stiff or malpositioned catheter tips. Characterized by sudden dyspnea progressing rapidly to cardiovascular collapse; mandates urgent bedside echocardiography and emergent pericardiocentesis.
 
-Catheter insertion sites should be covered with a sterile dressing for the life of the catheter. There are three types of dressings (1–3):
+### Catheter-Related Bloodstream Infections (CRBSI)
+* **Biofilms and Antimicrobial Resistance:** Within 24 hours of insertion, catheters become coated with a host-protein conditioning film and bacterial extracellular slime (biofilm). Bacteria embedded within biofilms withstand antibiotic concentrations 100 to 1,000 times higher than minimum bactericidal concentrations for planktonic organisms, rendering systemic monotherapy ineffective for catheter sterilization.
+* **Paired Diagnostic Blood Cultures:**
+  * *Differential Quantitative Cultures:* Colony counts from blood drawn through the catheter $\ge 3$ times higher than simultaneous peripheral venipuncture blood (94% accuracy).
+  * *Differential Time to Positivity (DTP):* Positive signal in catheter blood at least 2 hours earlier than peripheral blood (91% accuracy).
+  * *Multi-Lumen Sampling:* Drawing blood cultures from only a single lumen misses 38% of CRBSIs; blood should be drawn through every individual catheter lumen.
+* **Catheter Removal Criteria:** Documented infection with *Staphylococcus aureus*, *Candida* species, *Pseudomonas aeruginosa*, multidrug-resistant gram-negative bacilli, persistent bacteremia > 96 hours, or septic thrombophlebitis / endocarditis mandates prompt catheter removal.
+* **Novel Pathogenetic Model:** While classical doctrine blames skin migration, evidence indicates that hematogenous seeding of long catheter segments by gut-derived microbes (translocation across impaired intestinal barriers) plays a major role in ICU catheter infections.
 
-- . Sterile gauze pads, which are secured to the skin with hypo-allergenic tape.
-- . Transparent polyurethane dressings, which are permeable to  $O_2$ ,  $CO_2$ , and water vapor, but trap moisture that collects on the underlying skin. These dressings have a skin adhesive that produces a seal around the catheter insertion site, and they are commonly known as "occlusive" dressings.
-- . Chlorhexidine gluconate-impregnated sponge dressings, which can be placed over the catheter insertion site, and then covered with the transparent dressing.
+</div></details>
 
-The transparent occlusive dressings are favored because they allow routine inspection of the catheter insertion site, and also provide a seal that isolates the insertion site. However, the skin adhesive on these dressings does not work well when the skin is wet, so gauze dressings are preferred when the skin is difficult to keep dry. The chlorhexidine-impregnated dressings are typically available as a small sponge (e.g., Biopatch®) that is included in many central venous
+<details class="med-details" open><summary>
 
-catheter insertion sets.
+## Routine Catheter Care</summary><div class="details-content">
 
-Sterile gauze dressings and occlusive dressings are considered equivalent in preventing catheter colonization and infection (1–3). Chlorhexidine-impregnated dressings provide the best protection against catheter infections (1,2), but they are currently recommended only in settings where catheter-related infections are problematic (4).
+*See, and then reason and compare and control. But see first.*  
+— Sir William Osler
 
-<span id="page-1-0"></span>
+The ubiquitous presence of indwelling vascular catheters requires constant attention to their maintenance and vigilance for their complications. This chapter outlines the routine care and maintenance of indwelling catheters, provides practical protocols for declotting occluded lines, and examines the major non-infectious and infectious complications of vascular access. The recommendations for routine catheter care are summarized in ([Table 3.1](#table-3-1)).
 
-| TABLE                  | 3.1<br>Recommendations<br>for<br>Routine<br>Catheter<br>Care                                                                                                                                                                                                                        |
-|------------------------|-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
-| Task                   | Recommendations                                                                                                                                                                                                                                                                     |
-| Dressing<br>Changes    | Adhesive transparent dressings should be changed at least every 7 days, or (1) when moisture or<br>blood accumulates under the dressing, or (2) the adhesive seal is disrupted.<br>Gauze dressings should be changed at least every 48 hrs, or when the dressing is visibly soiled. |
-| Flushing<br>Catheters  | Preservative-free 0.9% saline is preferred to heparinized saline for flushing venous catheters                                                                                                                                                                                      |
-| Replacing<br>Catheters | Routine or scheduled replacement of catheters is not necessary, and can create complications.                                                                                                                                                                                       |
+<span id="table-3-1"></span>
 
-#### *Dressing Changes*
+| TABLE 3.1 | Recommendations for Routine Catheter Care |
+|---|---|
+| **Task** | **Clinical Recommendations** |
+| **Dressing Changes** | Adhesive transparent dressings should be changed at least every 7 days, or immediately if: (1) moisture or blood accumulates under the dressing, or (2) the adhesive seal is compromised.<br>Gauze dressings should be changed at least every 48 hours, or when visibly damp or soiled. |
+| **Flushing Catheters** | Preservative-free 0.9% sodium chloride is preferred over heparinized saline for flushing and locking venous catheters. |
+| **Replacing Catheters** | Routine or scheduled replacement of catheters is not advised and increases complications. |
 
-The occlusive transparent dressings should be changed at least every 7 days, or when the adhesive seal is disrupted (2,3). In addition, *occlusive dressings can paradoxically promote colonization and infection when moisture or blood accumulates under the dressing* (5), and evidence of such should prompt a dressing change. Gauze dressings should be changed at least every 48 hours, or when the dressing is no longer dry (2,3).
+### Protective Dressings and Dressing Changes
+Catheter insertion sites should remain covered with a sterile protective dressing throughout the lifespan of the catheter. Three types of dressings are in clinical use:
+1. Sterile gauze pads, secured to the skin with hypoallergenic tape.
+2. Transparent polyurethane dressings, which are permeable to $O_2$, $CO_2$, and water vapor, but trap liquid moisture that collects on the underlying skin. These dressings use a medical-grade skin adhesive that creates an airtight seal around the insertion site ("occlusive" dressings).
+3. Chlorhexidine gluconate-impregnated sponge dressings (e.g., Biopatch), which are placed directly over the cutaneous puncture site and covered by a transparent dressing.
 
-# **Replacing Catheters**
+Transparent occlusive dressings are preferred because they permit continuous visual inspection of the entry site while maintaining a physical barrier against external contamination. However, their adhesive backing fails on wet or diaphoretic skin; sterile gauze dressings are indicated when the puncture site is oozing blood or fluid.
 
-Routine or scheduled replacement of catheters is not advised (3) because it does not reduce the incidence of catheter-related infections (6), and actually increases the risk of catheter-associated complications (both mechanical and infectious) (7,8).
+Sterile gauze dressings and transparent occlusive dressings demonstrate equivalent efficacy in preventing catheter colonization and bacteremia. Chlorhexidine-impregnated sponge dressings provide superior antimicrobial protection, but are currently recommended primarily in units where baseline catheter-associated infection rates remain elevated despite standard bundles.
 
-### *Peripheral Vein Catheters*
+Transparent occlusive dressings must be replaced every 7 days, or whenever the adhesive seal is compromised. Critically, *occlusive dressings can paradoxically promote rapid bacterial colonization and bloodstream infection when fluid, blood, or sweat accumulates under the membrane*. Any evidence of sub-dressing fluid collection requires immediate dressing removal, skin re-cleansing with chlorhexidine, and application of a fresh dry dressing. Gauze dressings must be changed at least every 48 hours.
 
-Peripheral vein catheters are replaced when there is evidence of: (a) localized phlebitis (i.e., painful erythema around the insertion site, which can extend centrally along the course of the vein), (b) extravasation of the infusate, or (c) catheter obstruction that cannot be relieved (see later) (2). The phlebitis is typically the result of mechanical or chemical irritation of the target vessel, and does not represent infection (unless there is purulence emanating from the puncture site).
+### Catheter Replacement Strategies
+Routine or scheduled replacement of vascular catheters at fixed calendar intervals is strongly discouraged. Scheduled replacement does not reduce catheter-related bloodstream infections, and repeatedly subjecting patients to new venipunctures or guidewire exchanges substantially increases mechanical trauma and cumulative infectious complications.
 
-#### *Central Venous Catheters*
+#### Peripheral Catheters
+Peripheral intravenous cannulas should be replaced only when clinical indications arise:
+* Localized phlebitis (painful erythema, induration, or palpable venous cord extending proximally). Phlebitis typically represents sterile mechanical or chemical endothelial irritation rather than bacterial infection, unless gross purulence exudes from the puncture site.
+* Extravasation or infiltration of intravenous infusions.
+* Irreversible luminal occlusion.
 
-Central venous catheters are replaced when there is evidence of infection (either purulence at the insertion site or confirmed catheter-related septicemia). Catheter replacement is not necessary when there is erythema at the catheter insertion site without other signs of infection, since erythema alone is not predictive of catheter-related infection (9).
+#### Central Venous Catheters
+Central lines should be replaced only when there is objective evidence of infection (gross purulence at the exit site or laboratory-confirmed catheter-related bloodstream infection). Erythema isolated to the skin margin without purulence or systemic bacteremia is not predictive of infection and does not warrant line removal.
 
-### **Flushing Catheters**
+### Catheter Flushing and Locking Protocols
+Vascular catheters utilized for intermittent infusions are prone to intraluminal thrombosis during idle periods. To maintain patency, lumens are flushed at regular intervals and instilled with a locking solution that remains within the catheter bore between uses.
 
-Vascular catheters that are used intermittently are at risk of developing an occlusive thrombosis when not in use. To prevent this, the catheters are flushed at regular intervals, and the flush solution is left in the lumen of the catheter when it is not in use (known as "locking" the catheter). Flush solutions have traditionally contained heparin (in concentrations ranging from 10 to 1,000 units/mL, in isotonic saline), but these solutions are concerning because of the risk of heparin-induced thrombocytopenia (see Chapter 13). Isotonic saline has proven as effective as heparinized saline as a flushing and locking solution (10), and *preservative-free saline is now recommended as the preferred solution for flushing and locking venous catheters* (11). However, this is not the case for arterial catheters (12), where 1.4% sodium citrate is a suitable alternative to heparinized saline for maintaining catheter patency (13).
+Flush solutions historically relied on heparinized saline (10 to 1,000 units/mL). However, heparin exposure carries the dangerous risk of triggering immune-mediated heparin-induced thrombocytopenia (HIT). Large randomized trials have demonstrated that plain isotonic saline is fully equivalent to heparinized saline for maintaining venous line patency. 
 
-# **Occluded Catheters**
+Consequently, *preservative-free 0.9% sodium chloride is now recommended as the standard flushing and locking solution for all central and peripheral venous catheters*. 
 
-Occlusion of indwelling vascular catheters is common, and can be the result of thrombus formation (60% of cases) mechanical factors (e.g., constriction from a suture), catheter malposition, or insoluble precipitates from drugs or minerals in the infusate (14). The occlusion can be partial or complete, and can appear as sluggish flow, loss of flow, or frequent triggering of alarms on infusion pumps (indicating excessive infusion pressures). Aspiration of blood through the catheter becomes difficult, or is not possible. (*Note:* Small-barrel syringes are preferred for aspiration through a catheter because they generate smaller negative pressures, and are less likely to collapse the lumen of the catheter.)
+For indwelling arterial catheters, however, simple saline flushes are insufficient; continuous pressurized flushes using 1.4% sodium citrate or low-dose heparinized saline remain necessary to maintain arterial waveform fidelity and prevent damping.
 
-### *Restoring Patency*
+</div></details>
 
-Short, peripheral vein catheters that become occluded are typically replaced, but for long catheters that are more difficult to replace (e.g., central venous catheters), every effort should be made to restore patency. Advancing a guidewire through the catheter to restore patency is not advised, since this can dislodge an obstructing mass and create an embolus. Chemical dissolution of the obstructing mass (described next) is the standard method of restoring patency.
+<details class="med-details" open><summary>
 
-**THROMBOTIC OCCLUSION:** Since thrombosis is the most common cause of catheter occlusion, the initial attempt to restore patency should involve the local instillation of a thrombolytic agent. Alteplase (recombinant tissue plasminogen activator) is currently the favored thrombolytic agent for restoring catheter patency; the regimen shown in [Table](#page-2-0) 3.2 can restore patency in 80–90% of occluded catheters (15,16). There are 11 reports of angioedema associated with this regimen (17), and no reports of abnormal bleeding (16).
+## Occluded Catheters and Declotting Protocols</summary><div class="details-content">
 
-<span id="page-2-0"></span>
+Luminal occlusion of indwelling catheters is a frequent problem, arising from intraluminal thrombus formation (~ 60% of episodes), mechanical factors (constricting sutures, catheter kinks, anatomical compression), tip abutment against a vessel wall, or insoluble chemical precipitates from incompatible drugs or parenteral nutrition components. 
 
-| TABLE<br>3.2<br>Protocol<br>for<br>Declotting<br>Central<br>Venous<br>Catheters |                                                                                                                                                                            |  |
-|---------------------------------------------------------------------------------|----------------------------------------------------------------------------------------------------------------------------------------------------------------------------|--|
-| Drug                                                                            | Alteplase (recombinant tissue plasminogen activator)                                                                                                                       |  |
-| Preparation                                                                     | Cathflo Activase (Genentech, Inc.) available as a powder in 2 mg vials.<br>Add 2 mL sterile water to each vial for a drug concentration of 1 mg/mL.                        |  |
-| Regimen                                                                         | 1. Instill 2 mL (2 mg) of drug solution into the occluded catheter and cap the hub of the catheter.<br>2. Wait 30 minutes and attempt to withdraw blood from the catheter. |  |
+Occlusion may be partial (sluggish gravity flow, high-pressure infusion pump alarms) or complete (inability to infuse or aspirate). When evaluating catheter patency, small-barrel syringes (3–5 mL) are preferred because they generate lower negative aspiration pressures and avoid collapsing soft catheter walls.
 
-- 3. If the occlusion persists, wait another 90 minutes (total dwell time = 120 min) and attempt to withdraw blood from the catheter.
-- 4. If the occlusion persists, prepare a second dose of alteplase (2 mg) and repeat steps 1–3.
-- 5. If patency is restored, withdraw 5 mL of blood through the catheter to remove any residual clot.
-- 6. If this regimen does not restore patency, consider the non-thrombotic sources of obstruction in [Table](#page-3-0) 3.3.
+### Restoring Patency in Occluded Lines
+While occluded short peripheral cannulas are readily replaced, long lines (central venous catheters, PICCs, midlines) should be salvaged whenever possible. 
 
-From Reference 16.
+Advancing a guidewire through an occluded catheter to mechanically dislodge a clot is unsafe, as it can fragment the thrombus and shower emboli into the pulmonary circulation. Chemical clearance is the standard and safest approach.
 
-<span id="page-3-0"></span>
+#### Declotting Protocol for Thrombotic Occlusion
+Because thrombosis is the predominant mechanism of catheter failure, initial salvage efforts should employ a thrombolytic agent. Alteplase (recombinant tissue plasminogen activator, rt-PA) is the preferred drug. 
 
-| TABLE<br>3.3 | Non-Thrombotic<br>Catheter<br>Occlusion |  |  |  |  |
-|--------------|-----------------------------------------|--|--|--|--|
-|              |                                         |  |  |  |  |
-|              |                                         |  |  |  |  |
-|              |                                         |  |  |  |  |
-|              |                                         |  |  |  |  |
-|              |                                         |  |  |  |  |
-|              |                                         |  |  |  |  |
-|              |                                         |  |  |  |  |
-|              |                                         |  |  |  |  |
-|              |                                         |  |  |  |  |
+The standardized declotting protocol detailed in ([Table 3.2](#table-3-2)) restores patency in 80–90% of occluded central lines. Because the drug remains locked within the catheter bore and is subsequently aspirated, systemic fibrinolysis and bleeding complications do not occur.
 
-**NON-THROMBOTIC OCCLUSION:** Failure of the thrombolytic regimen to restore patency should prompt consideration of the non-thrombotic causes of catheter occlusion shown in [Table](#page-3-0) 3.3. Note that alkaline precipitates are cleared with an alkaline solution (sodium bicarbonate or sodium hydroxide) and acidic precipitates are cleared with an acid (hydrochloric acid), while lipid residues can be cleared with 70% ethanol (11,14).
+<span id="table-3-2"></span>
 
-# **NON-INFECTIOUS COMPLICATIONS**
+| TABLE 3.2 | Protocol for Declotting Central Venous Catheters |
+|---|---|
+| **Drug** | Alteplase (recombinant tissue plasminogen activator, rt-PA) |
+| **Preparation** | Cathflo Activase: Supplied as lyophilized powder in 2 mg vials.<br>Reconstitute with 2.2 mL sterile water to achieve a final drug concentration of 1 mg/mL. |
+| **Procedure** | 1. Instill 2 mL (2 mg) of alteplase solution into the occluded catheter lumen and cap the hub.<br>2. Allow the drug to dwell for 30 minutes, then attempt gentle blood aspiration.<br>3. If occlusion persists, extend dwell time for an additional 90 minutes (total dwell time = 120 minutes) and re-attempt aspiration.<br>4. If occlusion persists, prepare a second 2 mg dose of alteplase and repeat steps 1–3.<br>5. Once patency is restored, aspirate 5 mL of blood and discard to clear lysed clot fragments and drug.<br>6. Flush the lumen thoroughly with 10–20 mL of sterile 0.9% saline.<br>7. If the catheter remains occluded after 2 alteplase cycles, evaluate for non-thrombotic etiologies ([Table 3.3](#table-3-3)). |
 
-The non-infectious complications of indwelling catheters include catheter-related venous thrombosis and vascular perforation.
+#### Chemical Clearance of Non-Thrombotic Occlusions
+When thrombolytic instillation fails to clear the obstruction, non-thrombotic precipitates should be suspected. Chemical clearance relies on matching the clearing agent to the pH and chemical composition of the precipitate ([Table 3.3](#table-3-3)):
+* Alkaline drug precipitates are dissolved by instilling an alkaline solution (8.4% sodium bicarbonate or 0.1 mmol/L sodium hydroxide).
+* Acidic drug precipitates are dissolved by instilling 0.1 N hydrochloric acid or L-cysteine.
+* Lipid residues from propofol or parenteral nutrition are dissolved by instilling 70% ethanol.
 
-### **Catheter-Related Thrombosis**
+<span id="table-3-3"></span>
 
-Indwelling catheters can trigger localized thrombus formation by injuring the vascular endothelium, or by platelet adhesion to the catheter. Catheter-related thrombosis is especially prevalent with peripherally inserted central catheters (PICCs), but the thrombosis is clinically silent in more than 95% of cases (18). There is an increased risk of catheter-related thrombosis in cancer patients, especially those with long-term, tunneled catheters for chemotherapy (19).
+| TABLE 3.3 | Chemical Protocols for Non-Thrombotic Catheter Occlusion | |
+|---|---|---|
+| **Etiology** | **Treatment Agent** | **Regimen** |
+| **Alkaline Drug Precipitates**<br>Acyclovir, ampicillin, diazepam, ganciclovir, heparin, imipenem, phenytoin | $\text{NaHCO}_3$ (8.4%) or<br>$\text{NaOH}$ (0.1 mmol/L) | 1. Instill 1 mL or exact catheter lumen volume.<br>2. Dwell for 60 minutes.<br>3. Attempt flushing with 10–20 mL 0.9% saline.<br>4. Repeat if needed. |
+| **Acidic Drug Precipitates**<br>Calcium gluconate, ceftriaxone, parenteral nutrition mixtures, vancomycin | $\text{HCl}$ (0.1 N) or<br>L-cysteine (50 mg/mL) | 1. Instill 1 mL or exact catheter lumen volume.<br>2. Dwell for 60 minutes.<br>3. Attempt flushing with 10–20 mL 0.9% saline.<br>4. Repeat if needed. |
+| **Mineral Precipitates**<br>Parenteral nutrition mixtures rich in $\text{Ca}^{2+}$ and $\text{PO}_4^{3-}$ | $\text{NaOH}$ (0.1 N) for first attempt, then L-cysteine (50 mg/mL) | 1. Instill 1 mL or exact catheter lumen volume.<br>2. Dwell for 60 minutes.<br>3. Attempt flushing with 10–20 mL 0.9% saline.<br>4. Repeat if needed. |
+| **Lipid or Protein Residues**<br>Parenteral lipid emulsions, propofol | $\text{Ethanol}$ (70%) for lipids;<br>$\text{NaOH}$ (0.1 N) for lipids and proteins | 1. Instill 10 mL over 60 minutes.<br>2. Dwell for 2 hours.<br>3. Attempt flushing with 10–20 mL 0.9% saline.<br>4. Repeat if needed. |
 
-#### *Upper Extremity Thrombosis*
+</div></details>
 
-Deep vein thrombosis (DVT) is not limited to the lower extremities; i.e., about 5% of cases involve the deep veins above the elbow (19,20), and as many as 90% of these are attributed to the presence of a catheter (e.g., a midline catheter or PICC) (20). The other risk factor for this type of DVT is malignancy; i.e., one-quarter to one-third of patients with upper extremity DVT have an active malignancy (19).
+<details class="med-details" open><summary>
 
-Upper extremity DVT can be clinically silent, and the only consequence may be difficulty aspirating blood through the involved catheter. Complete thrombotic obstruction eventually produces swelling of the upper arm, which can be accompanied by discomfort, paresthesias, arm weakness, and engorgement of the superficial veins around the shoulder (Urschel's sign!) (19). The thrombosis can also propagate into the superior vena cava, but the *superior vena cava syndrome* (with facial swelling, headache, etc.) is a rare consequence of catheter-associated DVT (21). Finally, fewer than 10% of upper extremity DVTs are associated with symptomatic pulmonary emboli (22).
+## Non-Infectious Mechanical and Thrombotic Hazards</summary><div class="details-content">
 
-**DIAGNOSIS:** Compression ultrasonography is the diagnostic test of choice for upper extremity DVT (see Figure 1.7 for a normal compression test). A positive test (i.e., clot-filled veins are not compressible) has s sensitivity of 97% and a specificity of 96% for upper extremity DVT (19). D-dimer levels are not reliable as a screening test for DVT because critically ill patients often have elevated D-dimer levels.
+Non-infectious complications of indwelling catheters include catheter-associated venous thrombosis and structural perforation of great vessels and cardiac chambers.
 
-**MANAGEMENT:** Removal of the offending catheter is not mandatory in upper extremity DVT, and is recommended only when arm swelling is severe or painful, or when anticoagulant therapy is contraindicated (19,20). The anticoagulant regimens used for lower extremity DVT have been adopted for the upper extremity. These regimens are described in Chapter 22.
+### Catheter-Related Venous Thrombosis
+Indwelling vascular catheters provoke thrombosis through mechanical endothelial denudation and foreign-body platelet activation. 
 
-#### *Lower Extremity Thrombosis*
+Catheter-related thrombosis is most prevalent with peripherally inserted central catheters (PICCs), although more than 95% of cases remain clinically silent. Malignancy substantially compounds thrombotic risk, particularly in patients with long-term tunneled chemotherapy ports.
 
-Femoral vein catheters are considered high-risk for catheter-related thrombosis, especially when left in place for several days. However, the reported incidence of symptomatic DVT with these catheters is only 1.6% (23), and there is no documented correlation between the duration of catheter use and the appearance of DVT (23). Therefore, the risk of DVT with these catheters is overstated.
+#### Upper Extremity Deep Vein Thrombosis
+Approximately 5% of all deep vein thromboses involve the deep veins above the elbow (axillary, brachial, and subclavian veins). Catheters (PICCs and midlines) account for up to 90% of these cases; underlying malignancy is present in one-quarter to one-third of affected patients.
 
-### **Vascular Perforation**
+Upper extremity DVT can remain entirely asymptomatic, presenting solely as difficulty in aspirating blood. Complete venous occlusion causes upper extremity edema, aching pain, paresthesias, motor weakness, and visible dilatation of subcutaneous collateral veins over the anterior shoulder and chest wall (**Urschel sign**). Extension into the superior vena cava can trigger SVC syndrome, although symptomatic pulmonary embolism develops in fewer than 10% of cases.
 
-Perforation of the superior vena cava or right atrium is an uncommon but potentially lifethreatening complication of central venous cannulation. This complication is also avoidable with vigilance for malpositioned catheters.
+Compression ultrasonography is the diagnostic test of choice (demonstrating non-compressible deep veins), yielding a sensitivity of 97% and a specificity of 96%. Plasma D-dimer testing lacks diagnostic utility in this population due to non-specific elevation in ICU patients.
 
-### *Superior Vena Cava Perforation*
+Catheter removal is not routinely mandatory in catheter-related upper extremity DVT. The line may be retained if it remains functional and clinically essential, provided therapeutic anticoagulation is initiated and limb swelling is not severe. Systemic anticoagulation regimens mirror those established for lower extremity DVT.
 
-Left-sided central venous catheters that are advanced into the superior vena cava (SVC) do not always make the acute turn downward toward the right atrium. When this occurs, the tip of the catheter abuts the lateral wall of the SVC, as shown in the upper chest x-ray in [Figure](#page-5-0) 3.1. If the catheter remains in this position, the tip of the catheter can erode through the vessel wall, resulting in leakage of blood and intravenous fluids into the mediastinum and pleural space. The symptoms from SVC perforation i.e. (substernal chest pain, cough, and dyspnea) are nonspecific, and suspicion of perforation is often prompted by the sudden appearance of mediastinal widening and a pleural effusion on the chest x-ray, like the lower x-ray in [Figure](#page-5-0) 3.1 (24).
+#### Lower Extremity Femoral Thrombosis
+Although femoral lines have historically been labeled as excessively thrombogenic, prospective clinical trials demonstrate an incidence of symptomatic deep vein thrombosis of only 1.4% to 1.6%. Furthermore, there is no direct correlation between the duration of femoral catheterization and the emergence of DVT.
 
-<span id="page-5-0"></span>![](_page_5_Picture_4.jpeg)
+### Vascular and Atrial Perforation
+Perforation of the superior vena cava or right atrium is an uncommon but catastrophic complication of central line placement.
 
-**FIGURE 3.1** Chest x-rays showing a subclavian vein catheter that is positioned to perforate the superior vena cava (upper panel), and a similarly positioned catheter that has perforated the vena cava (lower panel). Lower chest x-ray from Reference 24.
+#### Superior Vena Cava Perforation
+Central lines inserted via left-sided approaches (left internal jugular or left subclavian veins) must negotiate two acute anatomical turns to enter the superior vena cava. If the catheter fails to make this turn, its tip abuts the lateral wall of the SVC at an impingement angle ([Fig. 3.1](#fig-3-1), upper panel). 
 
-**DIAGNOSIS:** The pleural effusions can be largely composed of intravenous fluids that escape through the perforation; as such, a thoracentesis can support the diagnosis of SVC perforation if the pleural fluid is similar in composition to the intravenous infusion fluid. The perforation is confirmed by injecting radiocontrast dye through the catheter and noting the presence of dye in the mediastinum or pleural space.
+Repetitive systolic cardiac pulsations cause the rigid catheter tip to gradually erode through the caval wall, resulting in extravasation of blood and infused fluids into the mediastinum and pleural cavity. Symptoms (retrosternal chest pain, cough, dyspnea) are non-specific; suspicion is typically prompted by sudden mediastinal widening and unilateral pleural effusion on portable chest radiography ([Fig. 3.1](#fig-3-1), lower panel).
 
-**MANAGEMENT:** When vena cava perforation is first suspected, infusion through the catheter should be stopped immediately. If the diagnosis is confirmed, the catheter should be removed (this does not provoke mediastinal bleeding) (24). Antibiotic therapy is not necessary unless there is evidence of infection in the pleural fluid (24).
+<span id="fig-3-1"></span>
+![](_page_5_Picture_4.jpeg)
 
-### *Cardiac Tamponade*
+<span class="caption">**FIGURE 3.1** Portable chest radiographs showing a left-sided central venous catheter positioned with its tip impinging against the lateral wall of the superior vena cava (upper panel), and subsequent transmural perforation with mediastinal widening and pleural extravasation (lower panel).</span>
 
-The most life-threatening complication of central venous catheters is cardiac tamponade from a catheter tip that perforates the right atrium. Fortunately, this complication is rare (see References 44 and 45 in Chapter 1). The first sign of tamponade is usually the abrupt onset of dyspnea, which can progress to cardiovascular collapse within an hour. The diagnosis requires ultrasound evidence of a pericardial effusion with diastolic collapse of the right heart, and immediate pericardiocentesis is necessary to reduce the pericardial pressure and allow the right heart to fill. Emergency thoracotomy may also be necessary if there is a large tear in the wall of the heart. The mortality rate in this condition varies from 40% to 100% in published reports (25).
+Diagnostic thoracentesis reveals pleural fluid with glucose, electrolyte, or medication concentrations identical to the intravenous infusate. Perforation is definitively confirmed by injecting radiocontrast dye through the catheter under fluoroscopy or CT, demonstrating extravasation.
 
-# **CATHETER-RELATED BLOODSTREAM INFECTIONS**
+Upon suspicion of caval perforation, all infusions must be halted immediately. Once confirmed, the catheter should be removed; withdrawal does not trigger uncontrollable mediastinal bleeding because tissue recoil closes the small puncture defect.
 
-Indwelling vascular catheters (with the exception of short, peripheral vein catheters) are the leading source of nosocomial bloodstream infections, and septicemia from indwelling catheters has a mortality rate of 12–25% in ICU patients (26,27). The average rate of infections involving central venous access catheters is 4.6 per 1,000 catheter days (28).
+#### Cardiac Tamponade
+Perforation of the right atrium by a rigid or malpositioned catheter tip is the most fatal complication of central lines, carrying a reported mortality of 40% to 100%. 
 
-# **Pathogenesis**
+Tamponade is heralded by acute respiratory distress and rapid progression to electromechanical dissociation and shock. Diagnosis requires urgent bedside echocardiography demonstrating pericardial effusion with diastolic collapse of the right atrium and ventricle. 
 
-Colonization of indwelling vascular catheters has several potential sources, as indicated in Figure 3.2. Each of these sources is described below using the [corresponding](#page-7-0) numbers in the illustration.
+Emergent pericardiocentesis is life-saving; immediate surgical thoracotomy or sternotomy is indicated if high-pressure bleeding persists.
 
-- 1. Microbes can gain access to the bloodstream via contaminated infusates (e.g., blood products), but this occurs rarely.
-- 2. Contamination of the internal lumen of vascular catheters can occur through break points in the infusion system, such as catheter hubs. This may be a prominent route of infection for catheters inserted through subcutaneous tunnels.
-- 3. Microbes on the skin can migrate along the subcutaneous tract of an indwelling catheter. This is considered the principal route of infection for percutaneous (non-tunneled) catheters, which includes most of the catheters used in the ICU. (For a novel view concerning this route of
+</div></details>
 
-infection, see A FINAL WORD at the very end of the chapter).
+<details class="med-details" open><summary>
 
-4. Microorganisms in circulating blood can attach to the intravascular portion of the catheter. The catheter is not considered the primary source of infection in this situation, but it is possible that the proliferation of the microbes on the catheter reaches a point where the catheter becomes a source of bacteremia.
+## Catheter-Related Bloodstream Infections</summary><div class="details-content">
 
-<span id="page-7-0"></span>![](_page_7_Picture_2.jpeg)
+Indwelling vascular catheters are the leading cause of healthcare-associated bloodstream infections in ICUs, with catheter-related septicemia carrying an attributable mortality of 12% to 25%. The benchmark infection rate for central venous catheters is 4.6 per 1,000 catheter days.
 
-**FIGURE 3.2** Sources of microbial colonization of intravascular catheters. See text for explanation.
+### Pathogenesis and Colonization Routes
+Microbial colonization of vascular catheters occurs through four potential mechanisms ([Fig. 3.2](#fig-3-2)):
+1. Infusate contamination (rare intrinsic contamination of intravenous fluids or blood products).
+2. Intraluminal colonization through connection hubs and injection ports handled during line access.
+3. Extraluminal migration of skin microorganisms along the subcutaneous tract from the skin insertion site.
+4. Hematogenous seeding of the intravascular catheter segment during transient bacteremias from distant foci.
 
-### *Biofilms*
+<span id="fig-3-2"></span>
+![](_page_7_Picture_2.jpeg)
 
-Microbes have a propensity to congregate on inert surfaces. Once in contact with a surface, they releases adhesive molecules (called *adhesins*, of course) that firmly attach them to the surface. They then begin secreting an extracellular matrix (known as *slime*) that consists of polysaccharides, proteins, fibrin, and extracellular DNA (29). This extracellular matrix creates a protective environment called a *biofilm* that allows microbes to thrive and proliferate without being damaged by the surrounding environment. Phagocytic cells are unable to ingest organisms that are embedded in a biofilm, and *antibiotic concentrations that eradicate free-living bacteria must be 100 to 1,000 times higher to eradicate bacteria in biofilms* (30).
+<span class="caption">**FIGURE 3.2** Pathways of microbial colonization and infection of intravascular catheters: (1) contaminated infusate, (2) hub and intraluminal contamination, (3) extraluminal skin tract migration, and (4) hematogenous seeding.</span>
 
-Biofilms are ubiquitous in nature, and predominate on surfaces that are exposed to moisture. (The slippery film that covers rocks in a stream is a familiar example of a biofilm.) They also form on indwelling medical devices such as endotracheal tubes, urinary catheters, and vascular catheters, and can be found on biological surfaces such as the oral mucosa, the epithelial surface in the airways, the mucosal lining of the GI tract, and the surface of native heart valves.
+### Biofilms and Antimicrobial Resistance
+Bacteria adhere avidly to polymer catheter surfaces using surface adhesins. Once attached, they synthesize a copious extracellular matrix of hydrated exopolysaccharides, structural proteins, and extracellular DNA, termed **slime** or **biofilm**. 
 
-**CATHETER-RELATED INFECTIONS:** Biofilms play an important role in catheter-related infections, as shown by the following observations:
+The biofilm encases the microbial community, shielding bacteria from host phagocytes and neutralizing antibodies. Crucially, *bacteria within biofilms withstand antibiotic concentrations 100 to 1,000 times higher than those required to kill free-floating (planktonic) organisms of the exact same strain*.
 
-- 1. Examination of indwelling vascular catheters with scanning electron microscopy has revealed extensive biofilm formation on the surface of the catheters, including those that were in place for only one day (31).
-- 2. Coagulase-negative staphylococci, which are the leading cause of catheter-related infections, readily adhere to polymer surfaces and produce slime (32). A biofilm of *Staphylococcus*
-
-<span id="page-8-0"></span>*epidermidis* is shown in [Figure](#page-8-0) 3.3.
-
+<span id="fig-3-3"></span>
 ![](_page_8_Picture_1.jpeg)
 
-**FIGURE 3.3** Electron micrograph of *Staphylococcus epidermidis* encased in a biofilm. Image courtesy of Jeanne VanBriesen, Ph.D., Carnegie Mellon University. Image colorized digitally.
+<span class="caption">**FIGURE 3.3** Scanning electron micrograph of *Staphylococcus epidermidis* embedded in a dense extracellular slime biofilm on a vascular catheter surface.</span>
 
-The ubiquitous presence of biofilms on indwelling vascular catheters means that antibiotic therapy is not the optimal treatment for catheter-related bloodstream infections. (The doses of antibiotics needed to achieve bactericidal levels in biofilms would be toxic to the host.) Several anti-biofilm strategies are being evaluated (33), but nothing has reached clinical testing at this time.
+Biofilms form rapidly on all intravascular catheters within 24 hours of insertion. Coagulase-negative staphylococci (*Staphylococcus epidermidis*), the predominant causative agent of line infections, are prolific biofilm producers ([Fig. 3.3](#fig-3-3)). 
 
-### **Clinical Features**
+Because systemic antibiotic levels cannot achieve the extreme bactericidal concentrations needed to penetrate biofilms without inducing host organ toxicity, systemic antibiotic monotherapy is intrinsically incapable of sterilizing infected catheter surfaces.
 
-Catheter-related infections do not appear in the first 48 hours after catheter insertion (which presumably is the time required for colonization of the catheter tip). When they do appear, the clinical manifestations are non-specific: e.g.,
+### Clinical Features and Diagnostic Dilemmas
+Catheter-related bloodstream infections rarely manifest within the first 48 hours following catheter placement. When clinical signs appear, they are entirely non-specific:
+* Fever, rigors, and leukocytosis are generalized inflammatory responses with zero specificity for a catheter source.
+* Exit-site erythema is common but completely unhelpful; isolated erythema has no predictive value for systemic bacteremia.
+* Purulent exudate at the puncture site confirms local exit-site infection, but occurs in only a small minority of bacteremic patients.
 
-- 1. Fever and leukocytosis are common manifestations, but these are signs of inflammation, and are not evidence of infection.
-- 2. There may be erythema around the catheter insertion site, but this has no predictive value for identifying catheter-related infections (9).
-- 3. Purulent drainage from the catheter insertion site is evidence of infection, but it can be an exitsite infection, without invasion of the bloodstream (34).
+Because physical examination is unreliable, objective microbiological diagnosis is mandatory.
 
-Because of the non-specific nature of these clinical findings, the diagnosis of catheter-related infections is not possible on clinical grounds.
+### Paired Blood Culture Diagnostics
+Semiquantitative catheter tip culture (the Maki roll-plate method) has been abandoned in modern ICUs because it requires premature catheter removal and evaluates only the extraluminal surface, missing purely intraluminal infections.
 
-### **Diagnosis**
+Modern diagnosis relies on paired blood cultures drawn simultaneously from the catheter and a peripheral venipuncture site ([Table 3.4](#table-3-4)).
 
-The diagnosis of catheter-related septicemia requires a positive blood culture from a site other than the catheter, plus some evidence that the catheter is the source of the positive blood culture (and is not secondarily seeded). This evidence was originally provided by a semiquantitative culture of the catheter tip, but this method fell from favor because it required removal of the catheter (which is not desirable, because many cases of suspected catheter-related infection are not confirmed), and the outer surface of the catheter was cultured, thereby missing infections arising from the lumen(s) of the catheter. The culture methods that are currently recommended are summarized in [Table](#page-9-0) 3.4 (35,36).
+<span id="table-3-4"></span>
 
-<span id="page-9-0"></span>
+| TABLE 3.4 | Recommended Diagnostic Blood Culture Methods for Catheter-Related Septicemia |
+|---|---|
+| **Method** | **Diagnostic Criteria** |
+| **Differential Quantitative Blood Cultures** | Isolation of the same organism from both catheter blood and peripheral venipuncture blood, with the **colony count from catheter blood $\ge 3$ times greater** than the peripheral colony count.<br>*(Diagnostic accuracy = 94%)* |
+| **Differential Time to Positivity (DTP)** | Isolation of the same organism from both catheter and peripheral blood, with **automated microbial growth detected in the catheter bottle at least 2 hours earlier** than in the peripheral bottle.<br>*(Diagnostic accuracy = 91%)* |
 
-| TABLE<br>3.4                                   | Recommended<br>Culture<br>Methods<br>for<br>the<br>Diagnosis<br>of<br>Catheter-Related<br>Septicemia                                                                            |
-|------------------------------------------------|---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
-| Culture Method                                 | Diagnostic Criteria                                                                                                                                                             |
-| Differential<br>Quantitative Blood<br>Cultures | Same organism in peripheral blood & catheter blood, and colony count from catheter<br>blood ≥3 times greater than colony count from peripheral blood.<br>(Accuracy = 94%)1      |
-| Differential Time to<br>Positive Cultures      | Same organism in peripheral blood & catheter blood, and onset of growth in catheter<br>blood at least 2 hours before onset of growth in peripheral blood.<br>(Accuracy = 91%)1. |
-
-From the clinical practice guidelines in Reference 34.
-
-<span id="page-9-1"></span><sup>1</sup> From Reference 37.
-
+<span id="fig-3-4"></span>
 ![](_page_9_Figure_6.jpeg)
 
-**FIGURE 3.4** Culture plates from a case of catheter-related septicemia showing denser growth in blood drawn through a central venous catheter *(Catheter Blood)* compared to blood from a
+<span class="caption">**FIGURE 3.4** Quantitative blood culture plates from a patient with catheter-related septicemia, demonstrating markedly denser colony growth in blood drawn through the catheter (left) compared to peripheral venous blood (right).</span>
 
-#### *Quantitative Culture Method*
+#### Differential Quantitative Cultures
+Expressed in colony-forming units per milliliter (CFU/mL), a 3-fold higher colony count in catheter-drawn blood confirms the catheter as the primary septic focus ([Fig. 3.4](#fig-3-4)). Although offering superior accuracy (94%), quantitative plating is labor-intensive and not universally available.
 
-This method uses paired blood cultures (one drawn through the catheter, and one from a peripheral venipuncture site), and is based on the expectation that if the catheter is the source of a bloodstream infection, blood drawn through the catheter will have a higher growth density than the peripheral blood. This requires a "quantitative" blood culture, where growth is expressed as the number of colony forming units per mL (like urine cultures). The diagnosis of catheterrelated infection is confirmed if the same organism is isolated from catheter blood and peripheral blood, and the colony count in catheter blood is at least 3 times greater than the colony count in peripheral blood. An example of the comparative growth density in a case of catheter-related septicemia is shown in [Figure](#page-9-1) 3.4.
+#### Differential Time to Positivity (DTP)
+Using standard automated continuous-monitoring blood culture systems, the time elapsed until detection of microbial growth is recorded. Because blood aspirated from an infected catheter contains a much higher initial bacterial inoculum than systemic peripheral blood, the catheter bottle flags positive significantly faster. 
 
-### *Timed Culture Method*
+A time differential of $\ge 2\text{ hours}$ confirms CRBSI with 91% accuracy.
 
-This method also uses paired blood cultures (one drawn through the catheter, and one from a peripheral venipuncture site), and is based on the expectation that if the catheter is the source of a bloodstream infection, the blood withdrawn through the catheter will show microbial growth at an earlier time than peripheral blood. This method uses routine (qualitative) blood cultures, and the diagnosis of catheter-related infection is confirmed if the same organism is isolated from the catheter blood and peripheral blood, and growth is detected at least 2 hours earlier in the catheter blood.
+#### Multi-Lumen Sampling Mandate
+Central lines possess 3 to 4 independent lumens, each representing an isolated microenvironment. Current guidelines frequently advocate sampling only a single lumen. 
 
-#### *Which Method is Preferred?*
+However, prospective clinical data demonstrate that *sampling only one lumen fails to detect 38% of catheter-related bloodstream infections*. Pooling blood from multiple lumens reduces sensitivity. Therefore, diagnostic blood cultures must be drawn separately from every individual catheter lumen.
 
-Neither method is clearly superior to the other. The quantitative method has a sightly higher accuracy (37), but the difference is small (94% versus 91%), and may not justify the higher cost of the quantitative method. There is actually little enthusiasm for either culture method, and the diagnosis of catheter-related infection is often based on the same organism being isolated in catheter blood and peripheral blood, with no other apparent source of infection.
+</div></details>
 
-**HOW MANY LUMENS TO CULTURE?** Central venous catheters typically have three lumens (and can have four) and each lumen is a potential source of septicemia (38). However, the recommended practice is to obtain catheter-derived blood cultures from a single lumen (34). The problem with this practice is highlighted by a study showing that *38% of catheter-related infections would be missed if single-lumen cultures were used in the diagnostic evaluation* (39). Using a pooled blood culture from all lumens (to reduce the volume of blood needed to culture multiple lumens) has not proven to be as sensitive as cultures from each lumen (40). At the present time, the available evidence indicates that *the diagnostic approach to catheter-related infection is optimal when blood cultures are drawn through each lumen of the catheter*.
+<details class="med-details" open><summary>
 
-<span id="page-10-0"></span>
+## Antimicrobial and Catheter Management</summary><div class="details-content">
 
-| TABLE<br>3.5                          | The<br>Top<br>Ten<br>Pathogens<br>in<br>Catheter-Related<br>Septicemia |                            |  |
-|---------------------------------------|------------------------------------------------------------------------|----------------------------|--|
-| 1–5                                   |                                                                        | 6–10                       |  |
-| 1. Coag-negative staphylococci (16%)† |                                                                        | 6. Candida albicans (6%)   |  |
-| 2. Staphylococcus aureus (13%)        |                                                                        | 7. Escherichia coli (5.4%) |  |
+Empiric intravenous antimicrobial therapy must be initiated immediately upon suspicion of catheter sepsis in critically ill patients, following the acquisition of paired blood cultures.
 
-| 3. Enterococcus faecalis (8.4%) | 8. Other Candida spp. (5%)      |
-|---------------------------------|---------------------------------|
-| 4. Klebsiella pneumoniae (8.4%) | 9. Enterobacter spp. (4.4%)     |
-| 5. Enterococcus faecium (7%)    | 10. Pseudomonas aeruginosa (4%) |
+### Pathogen Distribution and Empiric Regimens
+The ten most common pathogens responsible for catheter-related bloodstream infections, derived from the National Healthcare Safety Network (NHSN) surveillance of 4,515 hospitals, are listed in ([Table 3.5](#table-3-5)). Staphylococci and enterococci account for 45% of all isolates.
 
-<sup>†</sup>Numbers in parentheses represent percentage of all isolates. From Reference 41.
+<span id="table-3-5"></span>
 
-## **Management**
+| TABLE 3.5 | Top Ten Pathogens in Catheter-Related Bloodstream Infections |
+|---|---|
+| **Rank 1–5** | **Rank 6–10** |
+| 1. Coagulase-negative staphylococci (16%) | 6. *Candida albicans* (6%) |
+| 2. *Staphylococcus aureus* (13%) | 7. *Escherichia coli* (5.4%) |
+| 3. *Enterococcus faecalis* (8.4%) | 8. Non-*albicans Candida* spp. (5%) |
+| 4. *Klebsiella pneumoniae* (8.4%) | 9. *Enterobacter* spp. (4.4%) |
+| 5. *Enterococcus faecium* (7%) | 10. *Pseudomonas aeruginosa* (4%) |
 
-Empiric antibiotics are recommended for all ICU patients with suspected catheter-related infection, and they should be started immediately after cultures are obtained. The pathogens that are most frequently involved in catheter-related infections are shown in [Table](#page-10-0) 3.5. This list is from the National Healthcare Safety Network (41), and it represents the summed contribution of 4,515 hospitals. Note that staphylococci and enterococci together account for 45% of all offending pathogens.
+Empiric antimicrobial coverage should be tailored to the pathogen spectrum shown in ([Table 3.6](#table-3-6)).
 
-### *Empiric Antibiotic Therapy*
+<span id="table-3-6"></span>
 
-The recommendations for empiric antibiotic coverage are shown in [Table](#page-11-0) 3.6. Van comycin is the backbone of the empiric regimen because it is the most active agent against staphylococci (including coagulase-negative and methicillin-resistant strains), and enterococci. Daptomycin can substitute for vancomycin if there is evidence of van comycinresistance. Empiric coverage for gram-negative enteric organisms is advised for neutropenic or seriously ill patients (35); suitable antibiotics include the carbapenems (e.g., meropenem), the fourth-generation cephalosporins (e.g., cefepime), and the β-lactam/β-lactamase inhibitor combinations (e.g., piperacillin/tazobactam). Additional gram-negative coverage (with an aminoglycoside) is recommended when multidrug-resistant gram-negative organisms are possible offenders
+| TABLE 3.6 | Empiric Antimicrobial Regimens for Catheter-Related Infections | |
+|---|---|---|
+| **Target Organism** | **First-Line Agent** | **Clinical Comments** |
+| **Staphylococci** | Vancomycin | Use daptomycin if the local prevalence of MRSA isolates with vancomycin $\text{MIC} > 2\text{ mg/L}$ is high. |
+| **Enterococci** | Vancomycin | Substitute daptomycin or linezolid if vancomycin-resistant enterococci (VRE) are suspected. |
+| **Gram-Negative Bacilli** | Carbapenem (meropenem, imipenem),<br>Cefepime, or<br>Piperacillin-tazobactam | Add an aminoglycoside (amikacin) in neutropenic septic shock or high suspicion of multidrug-resistant pathogens. |
+| **Candida Species** | Echinocandin (caspofungin, micafungin, anidulafungin) | Indicated in: femoral lines, TPN, hematologic malignancy, prolonged broad-spectrum antibiotics, recent organ transplant, or fungal colonization at multiple sites. |
 
-Empiric coverage for candidemia is recommended when the conditions listed in [Table](#page-11-0) 3.6 are present. The echinocandins (caspofungin, micafungin, and anidulafungin) are more active than the azoles (e.g., fluconazole) against all *Candida* species and thus are favored for empiric antifungal coverage (35).
+### Catheter Retention versus Removal
+Because fewer than 11–15% of suspected catheter infections are confirmed by subsequent culture, catheters should generally be left in place while awaiting laboratory confirmation, avoiding unnecessary re-cannulations.
 
-### *Catheter Management*
+#### Mandatory Criteria for Catheter Removal
+Once catheter-related infection is laboratory-confirmed, the line must be promptly removed if any of the following are present:
+1. Severe hemodynamic instability or refractory septic shock.
+2. Clinical evidence of suppurative thrombophlebitis or infective endocarditis.
+3. Infection caused by virulent or difficult-to-eradicate pathogens: *Staphylococcus aureus*, *Candida* species, *Pseudomonas aeruginosa*, or multidrug-resistant gram-negative bacilli.
+4. Persistent bacteremia persisting $> 96\text{ hours}$ despite appropriate targeted antimicrobial therapy.
 
-As mentioned earlier, most cases of suspected catheter-related infections are not con firmed by culture results: e.g., in one study, 1,527 catheters were removed for suspected catheter-related infection, and the diagnosis was confirmed in only 169 (11%) of the cases (28). Therefore, catheters should be left in place pending culture results.
+When removing an infected catheter, replacement should occur at a fresh anatomical site; guidewire exchange of an infected line carries a high rate of immediate re-infection and is acceptable only in extreme situations of exhausted vascular access.
 
-<span id="page-11-0"></span>
+#### Antibiotic Lock Therapy
+When an infected line cannot be removed due to lack of alternative access, systemic antibiotics must be combined with **antibiotic lock therapy** to overcome the intraluminal biofilm. 
 
-| TABLE<br>3.6  | Empiric    | Antibiotic<br>Coverage<br>for<br>Common<br>Pathogens<br>in<br>Catheter-Related<br>Infections |  |
-|---------------|------------|----------------------------------------------------------------------------------------------|--|
-| Organism      | Antibiotic | Comment                                                                                      |  |
-| Staphylococci | Vancomycin | If MRSA isolates with MIC >2 mg/mL are prevalent, use<br>daptomycin                          |  |
-| Enterococci   | Vancomycin | If vancomycin resistance is a concern, use daptomycin.                                       |  |
+A concentrated antibiotic solution (2 to 5 mg/mL of vancomycin, daptomycin, or ceftazidime in heparinized saline) is instilled into each catheter lumen and left to dwell for 24 hours daily throughout the 10–14 day course of systemic therapy.
 
-| Gram<br>Negative<br>Bacilli | Carbapenema or<br>Cefepime or<br>Piperacillin-Tazobactam | Add aminoglycoside for neutropenia or concern for multidrug<br>resistant organisms.                                                      |
-|-----------------------------|----------------------------------------------------------|------------------------------------------------------------------------------------------------------------------------------------------|
-| Candida<br>species          | Echinocandinb                                            | Indications:<br>Femoral catheter, TPN, hematologic malignancy, prolonged<br>antibiotic Rx, recent transplant, or Candida spp. elsewhere. |
+#### Duration of Targeted Therapy
+* *Coagulase-negative staphylococci:* 5 to 7 days if the catheter is removed and bacteremia clears rapidly; 10 to 14 days with antibiotic locks if the catheter is retained.
+* *Staphylococcus aureus:* Minimum 14 days of IV therapy for uncomplicated bacteremia (requires: catheter removal, transesophageal echocardiogram excluding endocarditis, absence of metastatic foci, and negative follow-up blood cultures within 48–72 hours). If endocarditis or deep seeding is present, 4 to 6 weeks of therapy is mandatory.
+* *Enterococci and Gram-Negative Bacilli:* 7 to 14 days of therapy.
+* *Candidemia:* Minimum 14 days after the first negative blood culture, combined with mandatory catheter removal and dilated fundoscopic examination to exclude fungal endophthalmitis.
 
-From References 34,35.
+### Persistent Sepsis and Metastatic Foci
+Persistent bacteremia or clinical sepsis $> 72\text{ hours}$ after initiating appropriate antimicrobial therapy signals deep intravascular infection:
 
-INDICATIONS FOR CATHETER REMOVAL: If the diagnosis of catheter-related infection is confirmed, catheters should be removed if any of the following is present:
+#### Suppurative Thrombophlebitis
+Thrombi coating indwelling catheters serve as ideal culture media for bacterial entrapment, converting the clot into an endovascular abscess. *Staphylococcus aureus* is the primary pathogen. 
 
-- 1. Hemodynamic instability or progressive multiorgan dysfunction.
-- 2. Evidence of endocarditis or septic thrombophlebitis.
-- 3. Infections with *Staphylococcus aureus*, *Candida* species, *Pseudomonas* species, or multidrugresistant gram-negative bacilli.
-- 4. Persistent bacteremia for >96 hrs despite appropriate antimicrobial therapy.
+Diagnosis requires duplex ultrasound demonstrating intraluminal venous thrombosis accompanied by persistent bacteremia. Management mandates catheter removal, 4 to 6 weeks of parenteral antibiotics, and consideration of systemic therapeutic anticoagulation.
 
-Catheters should not be replaced over a guidewire, but instead should be removed and reinserted at a new venipuncture site. However, guidewire replacement may be the best option if there is very limited venous access.
+#### Nosocomial Catheter-Related Endocarditis
+Vascular catheters account for 30% to 50% of hospital-acquired infective endocarditis cases, with *Staphylococcus aureus* implicated in 75%. 
 
-There is an increasing tendency to leave catheters in place, because inserting a new catheter is time consuming, costly, and can be risky. Even guidewire exchanges can have complications (7). When a catheter is left in place, systemic antibiotics will have limited or no efficacy in decontaminating the catheter (because of the biofilm on the catheter), and recurrent infections are expected (42). In this situation, antibiotic lock therapy should be considered.
+Because peripheral stigmata and new heart murmurs are absent in up to two-thirds of nosocomial cases, **transesophageal echocardiography (TEE) is mandatory for all ICU patients with catheter-related Staphylococcus aureus bacteremia**.
 
-**ANTIBIOTIC LOCK THERAPY:** Instilling concentrated antibiotic solutions into indwelling catheters and allowing an extended dwell time will enhance the ability to disrupt biofilms and eradicate persistent organisms (35). The antibiotic "lock" solution contains the same antibiotic used systemically, in a concentration of 2–5 mg/mL in heparinized saline. This solution is injected into each lumen of the indwelling catheter and allowed to dwell for 24 hours, and is replaced every 24 hours for the duration of the systemic antibiotic therapy. If the catheter is never idle and antibiotic lock therapy is not possible, the systemic antibiotic(s) should be delivered through the suspect lumen.
+</div></details>
 
-#### *Duration of Antimicrobial Treatment*
+<details class="med-details" open><summary>
 
-The duration of antibiotic therapy is determined by several factors, including the offending pathogen, the status of the catheter (i.e., replaced or retained), and the response to antimicrobial therapy. The following are some general suggestions (34):
+## A Final Word</summary><div class="details-content">
 
-1. If the infection involves a microbe with limited pathogenicity (e.g., coagulase-negative staphylococci), and there is a favorable response to antimicrobial therapy within 72 hours, then
+### A Novel Paradigm of Catheter-Related Infections
+A cornerstone doctrine of critical care medicine is the belief that catheter-related bloodstream infections originate from cutaneous microflora that migrate extraluminally down the subcutaneous catheter tract to colonize the intravascular tip. While rarely questioned, several clinical observations fail to support this traditional model:
+1. There is notoriously poor correlation between skin surface cultures at the insertion site and tip cultures from infected central lines.
+2. Topical decontamination of catheter entry sites with antimicrobial ointments does not reduce bloodstream infection rates.
+3. Short peripheral intravenous cannulas, which possess the shortest subcutaneous tract into superficial veins, have the lowest incidence of bloodstream infection among all vascular devices.
 
-aCarbapenems include imipenem, meropenem, and doripenem.
+Conversely, compelling evidence implicates the gastrointestinal tract as a primary source of catheter seeding:
+1. Gram-negative bacilli, enterococci, and *Candida* species account for approximately 50% of catheter-related bloodstream infections ([Table 3.5](#table-3-5)). These organisms are normal inhabitants of the gut, not the skin.
+2. In bacteremic patients, surveillance cultures of the upper gastrointestinal tract demonstrate far higher concordance with catheter tip isolates than skin insertion-site cultures.
+3. Selective digestive tract decontamination (SDD) using nonabsorbable oral antibiotics markedly reduces catheter-related bacteremia, abolishing line infections in several prospective trials.
 
-b Echinocandins include caspofungin, micafungin, and anidulafungin.
+The high prevalence of staphylococci does not refute an enteric origin: under the selective pressure of broad-spectrum antibiotics, staphylococci heavily colonize the gut in critically ill patients. *Staphylococcus epidermidis* is one of the most abundant isolates recovered from the upper GI tract in patients with multiple organ failure. 
 
-no more than 7 days of treatment is necessary (34).
+Because central catheters possess long intravascular segments (15 to 50 cm), they are vulnerable to hematogenous colonization during transient, occult bacteremic spikes originating from increased gut mucosal permeability (bacterial translocation). 
 
-- 2. For cases of *Staph aureus* bacteremia, the accepted practice is to look for evidence of endocarditis with transesophageal ultrasound (the rationale for this is stated later). If there is no evidence of endocarditis, antibiotic therapy can be limited to 14 days if the following conditions are satisfied: the catheter has been removed, the patient is not immunocompromised, and there are no intravascular prosthetic devices in place (34). Evidence of endocarditis mandates 4–6 weeks of antimicrobial therapy, and an infectious disease consult.
-- 3. For infections caused by enterococci or gram-negative bacilli, 7–14 days of antibiotic therapy is advised, regardless of whether the catheter is replaced or retained (34).
+Once seeded, bacterial proliferation within intraluminal biofilms creates a self-sustaining endovascular focus, generating the clinical illusion of a primary line infection. If the gastrointestinal tract rather than the skin is the true origin of many catheter infections, current clinical practice may be expending immense resources decontaminating the wrong surface.
 
-# **Persistent Sepsis**
-
-Continued signs of sepsis or persistent septicemia after 72 hours of antimicrobial therapy should prompt a search for the following conditions.
-
-### *Suppurative Thrombophlebitis*
-
-The thrombi that form around indwelling vascular catheters can trap microbes from a colonized catheter. These microbes can then proliferate (since blood is a good culture medium) and transform the thrombus into an intravascular abscess. This condition is known as *suppurative thrombophlebitis*, and the most common offending organism is *Staphylococcus aureus* (34). Clinical manifestations are often absent, but can include purulent drainage from the catheter insertion site, limb swelling from thrombotic venous occlusion, and multiple cavitary lesions in the lungs from septic emboli.
-
-The diagnosis of septic thrombophlebitis requires evidence of thrombosis in the cannulated blood vessel (by ultrasound) and persistent septicemia with no other apparent source. Treatment includes catheter removal and systemic antibiotic therapy for 4–6 weeks (2). Surgical excision of the infected thrombus is usually not necessary, and is reserved for cases of refractory septicemia. There is no consensus on the use of heparin anticoagulation in suppurative thrombophlebitis, and current guidelines (34) recommend that heparin therapy should be considered.
-
-### *Endocarditis*
-
-Nosocomial endocarditis is uncommon, with the reported incidence in university teaching hospitals being 2–3 cases annually (43,44). Vascular catheters are implicated in 30 to 50% of cases, and staphylococci (mostly *S. aureus*) are the offending organisms in up to 75% of cases (43,44). Methicillin-resistant strains of *S. aureus* (MRSA) predominate in some reports (45).
-
-Typical manifestations of endocarditis (e.g., new or changing cardiac murmur) can be absent in as many as two-thirds of patients with nosocomial endocarditis involving *Staphylococcus aureus* (45), which is why a search for endocarditis (with transesophageal ultrasound) is advised for all patients with *S. aureus* bacteremia.
-
-# **A FINAL WORD**
-
-# **A Novel View of Catheter-Related Infections**
-
-One of the core beliefs in critical care is the notion that catheter-related bloodstream infections are caused by skin microbes that travel down the tract of the catheter and colonize the distal end of the catheter. This paradigm for catheter-related infections is rarely questioned, yet there are a number of observations that do not fit the model. The following observations suggest that the skin is *not* the source of catheter colonization and infection.
-
-- 1. There is a poor correlation between the organisms found on the skin at the catheter insertion site, and the organisms found on the distal end of central venous catheters (46).
-- 2. Decontamination of the catheter insertion site with antibiotic ointments does not reduce the incidence of catheter-related bloodstream infections (3).
-- 3. The shortest route for skin microbes to enter the bloodstream is via peripheral vein catheters, which sit in superficial veins, yet these catheters are rarely implicated as a cause of catheterrelated septicemia.
-
-The next set of observations suggest that the bowel is the source of catheter-related infections:
-
-- 1. Gram-negative bacilli, enterococci, and *Candida* species account for about half of the microbes that are responsible for catheter-related infections (see [Table](#page-10-0) 3.5), and these organisms are inhabitants of the bowel, not the skin.
-- 2. In cases of catheter-related infections, cultures of the upper GI tract show a better correlation with catheter tip cultures than cultures of the skin around the catheter insertion site (47).
-- 3. Decontamination of the bowel with nonabsorbable antibiotics has been shown to markedly reduce the incidence of catheter-related infections, and in some studies, these infections were completely abolished by bowel decontamination (48).
-
-The prominence of staphylococci in catheter-related infections does not eliminate the bowel as a source of these infections because staphylococci are prominent inhabitants of the bowel during prolonged antibiotic therapy (49), and in critically ill patients (50). In fact *Staphylococcus epidermidis* (the leading cause of catheter-related infections) *is one of the most prevalent organisms in the upper GI tract of patients with multiorgan failure* (50). The species name *epidermidis* is thus a misnomer, since these organisms do not exclusively inhabit the epidermis.
-
-The catheters that are responsible for catheter-related infections are lengthy (i.e., 6 to 12 inches for central venous catheters, and 15 to 20 inches for peripherally inserted central catheters) and the long intravascular segments of these catheters may be prone to seeding during occult or transient bacteremias. Once seeded, microbial proliferation on the catheter could reach the point where the catheter seeds the bloodstream, creating the appearance of a primary catheter-related bloodstream infection. Seeding of the catheters with bowel organisms is very possible, because the bowel is considered a prominent source of occult sepsis in critically ill patients (50). (See Chapter 4.)
-
-Why does this matter? Because if the skin is not the site of origin for catheter-related infections, then we are spending a lot of time and money decontaminating the wrong surface.
-
-### *References*
+</div></details>

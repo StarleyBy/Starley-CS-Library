@@ -74,11 +74,11 @@
 
 <details class="med-details"><summary>
 
-## Introduction & Pathophysiology of Hypertension</summary><div class="details-content">
+## 1. Introduction & Pathophysiology of Hypertension</summary><div class="details-content">
 
 <details class="med-details"><summary>
 
-### Definition of Hypertension & Continuous Cardiovascular Risk</summary><div class="details-content">
+### 1.1 Definition of Hypertension & Continuous Cardiovascular Risk</summary><div class="details-content">
 
 The formal classification and blood pressure (BP) threshold to define an individual as having hypertension continues to vary based on available evidence. The appraisal of such evidence by professional associations and societies has led to different BP thresholds adopted in guidelines worldwide. Given that the thresholds by which we define hypertension can and will continue to evolve, it is less helpful to think of hypertension in a binary sense, but more helpful to view increasing BP as a risk factor with a continuous linear-log relationship with coronary artery disease, stroke, heart failure (HF), and cardiovascular (CV) mortality.
 
@@ -88,7 +88,7 @@ Ultimately, most clinicians would be operationally well served to consider defin
 
 <details class="med-details"><summary>
 
-### Pathophysiologic Mechanisms & Target-Organ Complications</summary><div class="details-content">
+### 1.2 Pathophysiologic Mechanisms & Target-Organ Complications</summary><div class="details-content">
 
 There are ten different medication classes available to lower blood pressure. Each class addresses one or more of the multiple pathophysiological processes that are associated with the development and maintenance of hypertension ([Fig. 2.1](#fig-02-01)) and subsequent target-organ cardiovascular and renal complications ([Fig. 2.2](#fig-02-02)).
 
@@ -108,11 +108,11 @@ Although guidelines tend to favor certain drug classes in specific patient popul
 
 <details class="med-details"><summary>
 
-## Drug Class Overview and Guidelines</summary><div class="details-content">
+## 2. Drug Class Overview and Guidelines</summary><div class="details-content">
 
 <details class="med-details"><summary>
 
-### Overview of Antihypertensive Drug Classes & Anatomic Sites of Action</summary><div class="details-content">
+### 2.1 Overview of Antihypertensive Drug Classes & Anatomic Sites of Action</summary><div class="details-content">
 
 Blood pressure-lowering medications can be grouped into ten major categories, with some subcategories within the group ([Table 2.1](#table-02-01)). These categories act by different mechanisms and at different sites in the body to address alterations in BP ([Fig. 2.3](#fig-02-03)). Certain antihypertensive medications lower BP by more than a single mechanism; for example, carvedilol has both $\beta$- and $\alpha_1$-blocking properties, and spironolactone is a mineralocorticoid receptor antagonist that also acts as a mild natriuretic diuretic at higher doses.
 
@@ -164,7 +164,7 @@ Blood pressure-lowering medications can be grouped into ten major categories, wi
 
 <details class="med-details"><summary>
 
-### Contemporary Guidelines & Upfront Combination Therapy Rationale</summary><div class="details-content">
+### 2.2 Contemporary Guidelines & Upfront Combination Therapy Rationale</summary><div class="details-content">
 
 Contemporary hypertension clinical guidelines from the United States (ACC/AHA 2017) and Europe (ESC/ESH 2018) share broad core principles while exhibiting distinct threshold recommendations. Both guidelines strongly emphasize earlier initiation of combination therapy (multiple medications in a single fixed-dose pill). The ESC/ESH guidelines recommend upfront two-drug combination therapy as initial strategy in the vast majority of hypertensive patients, whereas US guidelines mandate upfront combination therapy for patients who present with BP $>20/10$ mmHg above goal.
 
@@ -189,6 +189,83 @@ Multiple randomized trials demonstrate that upfront combination therapy provides
 | **Clonidine** | 150–300 µg IV infusion over 10–15 min | 30 min | 4–6 h | Central $\alpha_2$-agonist; reserved for hypertensive urgencies; risk of sedation and severe rebound hypertension if discontinued abruptly |
 
 ###### AV, Atrioventricular; BP, blood pressure; HFrEF, heart failure with reduced ejection fraction; IM, intramuscular; IV, intravenous. Adapted from ESC Guidelines on Hypertensive Emergencies (Van den Born et al., 2019).
+
+<span id="diag-02-02"></span>
+
+### DIAGRAM 2.2: Evidence-Based Stepped-Care Antihypertensive Treatment Algorithm (ESC/ESH & ACC/AHA)
+
+<svg viewBox="0 0 1000 700" style="width:100%; max-width:1000px; height:auto; display:block; margin:16px auto;" xmlns="http://www.w3.org/2000/svg">
+<rect width="1000" height="700" rx="12" fill="#0f172a" stroke="#334155" stroke-width="2"/>
+<text x="500" y="32" fill="#38bdf8" font-family="system-ui, sans-serif" font-size="15" font-weight="700" text-anchor="middle" letter-spacing="1">STEPWISE EVIDENCE-BASED ANTIHYPERTENSIVE MANAGEMENT ALGORITHM</text>
+<text x="500" y="52" fill="#94a3b8" font-family="system-ui, sans-serif" font-size="11" text-anchor="middle">ESC/ESH and ACC/AHA Consensus: From Upfront Single-Pill Combination to Resistant Hypertension</text>
+<!-- Step 1 Container -->
+<rect x="40" y="70" width="920" height="115" rx="10" fill="#1e293b" stroke="#3b82f6" stroke-width="2"/>
+<rect x="50" y="80" width="220" height="24" rx="5" fill="#1d4ed8"/>
+<text x="160" y="96" fill="#eff6ff" font-family="system-ui, sans-serif" font-size="10.5" font-weight="700" text-anchor="middle">STEP 1 / ШАГ 1</text>
+<text x="290" y="97" fill="#93c5fd" font-family="system-ui, sans-serif" font-size="12" font-weight="700">STEP 1: INITIAL DUAL COMBINATION THERAPY (SINGLE-PILL COMBINATION - SPC)</text>
+<rect x="60" y="112" width="880" height="32" rx="6" fill="#0f172a" stroke="#60a5fa" stroke-width="1"/>
+<text x="500" y="133" fill="#67e8f9" font-family="system-ui, sans-serif" font-size="12" font-weight="700" text-anchor="middle">ACEi or ARB  +  Dihydropyridine CCB or Thiazide/Thiazide-Like Diuretic</text>
+<text x="70" y="158" fill="#cbd5e1" font-family="system-ui, sans-serif" font-size="9.5">
+<tspan x="70" dy="0">Preferred as a Single-Pill Combination (SPC) to maximize adherence. Monotherapy reserved strictly for:</tspan>
+<tspan x="70" dy="13">• Low-risk Grade 1 HTN (SBP <150 mmHg)</tspan>
+</text>
+<!-- Arrow Step 1 to Step 2 -->
+<line x1="500" y1="185" x2="500" y2="205" stroke="#38bdf8" stroke-width="2.5"/>
+<!-- Step 2 Container -->
+<rect x="40" y="205" width="920" height="100" rx="10" fill="#1e293b" stroke="#f59e0b" stroke-width="2"/>
+<rect x="50" y="215" width="220" height="24" rx="5" fill="#b45309"/>
+<text x="160" y="231" fill="#fffbeb" font-family="system-ui, sans-serif" font-size="10.5" font-weight="700" text-anchor="middle">STEP 2 / ШАГ 2</text>
+<text x="290" y="232" fill="#fde68a" font-family="system-ui, sans-serif" font-size="12" font-weight="700">STEP 2: TRIPLE COMBINATION THERAPY (SINGLE-PILL COMBINATION AT FULL DOSES)</text>
+<rect x="60" y="247" width="880" height="32" rx="6" fill="#0f172a" stroke="#fbbf24" stroke-width="1"/>
+<text x="500" y="268" fill="#fef08a" font-family="system-ui, sans-serif" font-size="12" font-weight="700" text-anchor="middle">ACEi or ARB  +  CCB (Amlodipine)  +  Thiazide-Like Diuretic (Indapamide / Chlorthalidone)</text>
+<text x="70" y="293" fill="#cbd5e1" font-family="system-ui, sans-serif" font-size="9.5">Uptitrate to maximum tolerated guideline doses. Confirm adherence and assess BP at 4-8 weeks.</text>
+<!-- Arrow Step 2 to Step 3 -->
+<line x1="500" y1="305" x2="500" y2="325" stroke="#38bdf8" stroke-width="2.5"/>
+<!-- Step 3 Container -->
+<rect x="40" y="325" width="920" height="170" rx="10" fill="#1e293b" stroke="#ef4444" stroke-width="2"/>
+<rect x="50" y="335" width="220" height="24" rx="5" fill="#b91c1c"/>
+<text x="160" y="351" fill="#fef2f2" font-family="system-ui, sans-serif" font-size="10.5" font-weight="700" text-anchor="middle">STEP 3 / ШАГ 3</text>
+<text x="290" y="352" fill="#fca5a5" font-family="system-ui, sans-serif" font-size="12" font-weight="700">STEP 3: RESISTANT HYPERTENSION WORKUP & FOURTH-LINE ADD-ON</text>
+<text x="60" y="375" fill="#f87171" font-family="system-ui, sans-serif" font-size="10" font-weight="600">BP >=130/80 mmHg despite adherence to maximally tolerated Step 2 triple regimen. Confirm by ABPM.</text>
+<!-- Step 3 Left: Spironolactone -->
+<rect x="60" y="388" width="425" height="92" rx="8" fill="#064e3b" stroke="#10b981" stroke-width="1.5"/>
+<text x="272" y="412" fill="#a7f3d0" font-family="system-ui, sans-serif" font-size="10" font-weight="700" text-anchor="middle">First-Line Add-On (PATHWAY-2 Trial Gold Standard):</text>
+<text x="272" y="435" fill="#f0fdf4" font-family="system-ui, sans-serif" font-size="11" font-weight="700" text-anchor="middle">SPIRONOLACTONE (25 to 50 mg daily) or Eplerenone</text>
+<text x="272" y="458" fill="#6ee7b7" font-family="system-ui, sans-serif" font-size="9.5" text-anchor="middle">Reduces SBP by 8-10 mmHg; Gold Standard in PATHWAY-2</text>
+<!-- Step 3 Right: Alternative -->
+<rect x="505" y="388" width="435" height="92" rx="8" fill="#451a03" stroke="#f97316" stroke-width="1.5"/>
+<text x="722" y="408" fill="#fed7aa" font-family="system-ui, sans-serif" font-size="9.5" font-weight="700" text-anchor="middle">If MRA contraindicated or Hyperkalemia (K+ > 4.5 mEq/L, eGFR < 45 mL/min):</text>
+<text x="520" y="426" fill="#ffedd5" font-family="system-ui, sans-serif" font-size="9.5">
+<tspan x="520" dy="0">• Amiloride (10 to 20 mg daily)</tspan>
+<tspan x="520" dy="14">• Vasodilating β-blocker (Bisoprolol / Carvedilol)</tspan>
+<tspan x="520" dy="14">• α1-blocker (Doxazosin gastroresistant) or Clonidine</tspan>
+</text>
+<!-- Bottom Compelling Indications Grid -->
+<rect x="40" y="510" width="920" height="175" rx="10" fill="#0f172a" stroke="#475569" stroke-width="1.5"/>
+<text x="500" y="530" fill="#38bdf8" font-family="system-ui, sans-serif" font-size="12" font-weight="700" text-anchor="middle">COMPELLING CLINICAL PHENOTYPES & PHARMACOTHERAPY</text>
+<!-- 4 Cards -->
+<rect x="55" y="542" width="210" height="130" rx="8" fill="#1e293b" stroke="#64748b" stroke-width="1"/>
+<text x="65" y="562" fill="#38bdf8" font-family="system-ui, sans-serif" font-size="10" font-weight="700">CAD / Prior MI / Effort Angina:</text>
+<text x="65" y="582" fill="#e2e8f0" font-family="system-ui, sans-serif" font-size="9">
+<tspan x="65" dy="0">β-blocker + ACEi/ARB (+ DHP-CCB if needed for angina)</tspan>
+</text>
+<rect x="277" y="542" width="210" height="130" rx="8" fill="#1e293b" stroke="#64748b" stroke-width="1"/>
+<text x="287" y="562" fill="#38bdf8" font-family="system-ui, sans-serif" font-size="10" font-weight="700">Heart Failure with Reduced EF (HFrEF):</text>
+<text x="287" y="582" fill="#e2e8f0" font-family="system-ui, sans-serif" font-size="9">
+<tspan x="287" dy="0">Four Pillars: ARNI + Evidence β-blocker + MRA + SGLT2i</tspan>
+</text>
+<rect x="499" y="542" width="210" height="130" rx="8" fill="#1e293b" stroke="#64748b" stroke-width="1"/>
+<text x="509" y="562" fill="#38bdf8" font-family="system-ui, sans-serif" font-size="10" font-weight="700">CKD & Proteinuria / Albuminuria:</text>
+<text x="509" y="582" fill="#e2e8f0" font-family="system-ui, sans-serif" font-size="9">
+<tspan x="509" dy="0">ACEi or ARB cornerstone (strictly avoid dual RAAS blockade)</tspan>
+</text>
+<rect x="721" y="542" width="225" height="130" rx="8" fill="#1e293b" stroke="#f43f5e" stroke-width="1"/>
+<text x="731" y="562" fill="#fda4af" font-family="system-ui, sans-serif" font-size="10" font-weight="700">Hypertension in Pregnancy:</text>
+<text x="731" y="582" fill="#e2e8f0" font-family="system-ui, sans-serif" font-size="8.5">
+<tspan x="731" dy="0">Labetalol, Methyldopa, Extended-Release Nifedipine.</tspan>
+<tspan x="731" dy="16" fill="#f43f5e" font-weight="600">CONTRAINDICATED: ACEi, ARB, ARNI, MRA, Aliskiren</tspan>
+</text>
+</svg>
 </div></details>
 
 </div></details>
@@ -197,11 +274,11 @@ Multiple randomized trials demonstrate that upfront combination therapy provides
 
 <details class="med-details"><summary>
 
-## Diuretics (Thiazide-Type, Loop & Potassium-Sparing)</summary><div class="details-content">
+## 3. Diuretics (Thiazide-Type, Loop & Potassium-Sparing)</summary><div class="details-content">
 
 <details class="med-details"><summary>
 
-### Renal Mechanisms of Action & Tubular Physiology</summary><div class="details-content">
+### 3.1 Renal Mechanisms of Action & Tubular Physiology</summary><div class="details-content">
 
 <details class="med-details"><summary>
 
@@ -255,7 +332,7 @@ Potassium-sparing diuretics (amiloride, triamterene) act on the late distal tubu
 
 <details class="med-details"><summary>
 
-### Differences Among Drugs in Class & Pharmacokinetics</summary><div class="details-content">
+### 3.2 Differences Among Drugs in Class & Pharmacokinetics</summary><div class="details-content">
 
 <details class="med-details"><summary>
 
@@ -281,7 +358,7 @@ Consequently, oral furosemide for hypertension must be dosed twice daily (early 
 
 <details class="med-details"><summary>
 
-### Clinical Applications & Major Outcome Trials Evidence</summary><div class="details-content">
+### 3.3 Clinical Applications & Major Outcome Trials Evidence</summary><div class="details-content">
 
 <details class="med-details"><summary>
 
@@ -307,7 +384,7 @@ Combination therapy pairing a thiazide-type diuretic with an ACE inhibitor or AR
 
 <details class="med-details"><summary>
 
-### Adverse Effects, Electrolyte Disturbances & Drug Interactions</summary><div class="details-content">
+### 3.4 Adverse Effects, Electrolyte Disturbances & Drug Interactions</summary><div class="details-content">
 
 <details class="med-details"><summary>
 
@@ -335,11 +412,11 @@ Critical drug interactions: Nonsteroidal anti-inflammatory drugs (NSAIDs) inhibi
 
 <details class="med-details"><summary>
 
-## Calcium Channel Blockers (CCBs)</summary><div class="details-content">
+## 4. Calcium Channel Blockers (CCBs)</summary><div class="details-content">
 
 <details class="med-details"><summary>
 
-### Mechanisms of Action & Vascular Physiology</summary><div class="details-content">
+### 4.1 Mechanisms of Action & Vascular Physiology</summary><div class="details-content">
 
 <details class="med-details"><summary>
 
@@ -373,7 +450,7 @@ In contrast, non-dihydropyridines (diltiazem and verapamil) dilate both afferent
 
 <details class="med-details"><summary>
 
-### Clinical Applications & Landmark Outcome Trials</summary><div class="details-content">
+### 4.2 Clinical Applications & Landmark Outcome Trials</summary><div class="details-content">
 
 <details class="med-details"><summary>
 
@@ -399,7 +476,7 @@ Similarly, in the ASCOT-BPLA trial (19,257 patients), an amlodipine-based regime
 
 <details class="med-details"><summary>
 
-### Side Effects, Contraindications & Drug-Drug Interactions</summary><div class="details-content">
+### 4.3 Side Effects, Contraindications & Drug-Drug Interactions</summary><div class="details-content">
 
 <details class="med-details"><summary>
 
@@ -427,11 +504,11 @@ Verapamil increases serum digoxin concentrations by 50% to 75% via P-glycoprotei
 
 <details class="med-details"><summary>
 
-## Angiotensin-Converting Enzyme (ACE) Inhibitors</summary><div class="details-content">
+## 5. Angiotensin-Converting Enzyme (ACE) Inhibitors</summary><div class="details-content">
 
 <details class="med-details"><summary>
 
-### Mechanisms of Action & Angiotensin II Pathobiology</summary><div class="details-content">
+### 5.1 Mechanisms of Action & Angiotensin II Pathobiology</summary><div class="details-content">
 
 Angiotensin-converting enzyme (ACE) inhibitors lower blood pressure primarily by blocking the conversion of the inactive decapeptide angiotensin I to the potent octapeptide vasoconstrictor angiotensin II. Angiotensin II exerts widespread multi-organ pathobiology ([Table 2.6](#table-02-06)), including intense arteriolar vasoconstriction, cardiomyocyte hypertrophy, interstitial myocardial and vascular fibrosis, stimulation of adrenal aldosterone release, enhanced renal tubular sodium reabsorption, and activation of central and peripheral sympathetic outflow.
 
@@ -457,7 +534,7 @@ In addition, ACE is functionally identical to kininase II, the primary enzyme re
 
 <details class="med-details"><summary>
 
-### Pharmacokinetics, Dosing & Landmark Outcome Trials</summary><div class="details-content">
+### 5.2 Pharmacokinetics, Dosing & Landmark Outcome Trials</summary><div class="details-content">
 
 Pharmacologic properties, dosing and differences among agents. Most ACE inhibitors are prodrugs requiring hepatic esterase hydrolysis to become active diacid metabolites (e.g., enalapril to enalaprilat, ramipril to ramiprilat, perindopril to perindoprilat), whereas captopril and lisinopril are active parent drugs ([Table 2.7](#table-02-07)). Lisinopril is water-soluble and cleared 100% unchanged by the kidneys, while fosinopril uniquely possesses compensatory balanced dual elimination (50% renal and 50% hepatic), requiring no dosage adjustment in mild-to-moderate renal or hepatic dysfunction.
 
@@ -486,7 +563,7 @@ Clinical outcome trials established ACE inhibitors as foundational cardioprotect
 
 <details class="med-details"><summary>
 
-### Adverse Effects, Class Contraindications & Clinical Cautions</summary><div class="details-content">
+### 5.3 Adverse Effects, Class Contraindications & Clinical Cautions</summary><div class="details-content">
 
 Adverse effects and class contraindications. A persistent, dry, nonproductive, hacking cough occurs in 5% to 20% of patients taking ACE inhibitors, appearing from days to months after initiation, which does not respond to cough suppressants and resolves only upon discontinuing the drug. Angioedema is a rare but potentially fatal adverse reaction (0.3% to 0.7% in whites; elevated to 1.6% in Black patients) characterized by rapid swelling of the lips, tongue, pharynx, and larynx, requiring emergency airway management; a history of ACE inhibitor-induced angioedema is an absolute lifelong contraindication to all agents in the class.
 
@@ -498,11 +575,11 @@ ACE inhibitors cause a functional, hemodynamically mediated rise in serum creati
 
 <details class="med-details"><summary>
 
-## Angiotensin II Receptor Blockers (ARBs)</summary><div class="details-content">
+## 6. Angiotensin II Receptor Blockers (ARBs)</summary><div class="details-content">
 
 <details class="med-details"><summary>
 
-### Molecular Mechanisms of Action & AT-1 Receptor Blockade</summary><div class="details-content">
+### 6.1 Molecular Mechanisms of Action & AT-1 Receptor Blockade</summary><div class="details-content">
 
 Angiotensin II receptor blockers (ARBs) act as selective, competitive antagonists of the angiotensin II type 1 ($AT_1$) receptor ([Fig. 2.6](#fig-02-06)). While ACE inhibitors only partially block angiotensin II formation (because alternative non-ACE pathways such as tissue chymases continue to generate angiotensin II), ARBs provide complete, direct blockade of the $AT_1$ receptor regardless of the enzymatic pathway of angiotensin II synthesis.
 
@@ -533,7 +610,7 @@ Uncoupling of the $AT_1$ receptor allows circulating angiotensin II to stimulate
 
 <details class="med-details"><summary>
 
-### Differences Among Drugs in Class & Key Clinical Trials</summary><div class="details-content">
+### 6.2 Differences Among Drugs in Class & Key Clinical Trials</summary><div class="details-content">
 
 Clinical pharmacokinetics, outcome evidence and individual agents. Losartan was the prototype ARB; it undergoes hepatic conversion to a potent long-acting active metabolite (EXP3174) and possesses a unique uricosuric property via inhibition of the renal urate transporter URAT-1, significantly lowering serum uric acid. Telmisartan features the longest elimination half-life of any ARB (24 hours), highest lipophilicity, and partial PPAR-$\gamma$ agonist activity. In the landmark ONTARGET trial (25,620 high-risk patients), telmisartan (80 mg once daily) proved non-inferior to ramipril (10 mg daily) in preventing cardiovascular death, MI, and stroke, with significantly better patient tolerability and compliance.
 
@@ -543,7 +620,7 @@ In the LIFE trial (9,193 hypertensive patients with ECG-documented LVH), losarta
 
 <details class="med-details"><summary>
 
-### Safety Profile & Absolute Prohibition of Dual RAAS Blockade</summary><div class="details-content">
+### 6.3 Safety Profile & Absolute Prohibition of Dual RAAS Blockade</summary><div class="details-content">
 
 Safety profile, contraindications and absolute prohibition of dual RAAS blockade. ARBs share the class contraindications of ACE inhibitors, including an absolute boxed warning against use during any trimester of pregnancy due to fatal oligohydramnios and renal agenesis, as well as contraindications in bilateral renal artery stenosis and severe hyperkalemia ([Table 2.9](#table-02-09)).
 
@@ -562,6 +639,96 @@ Dual RAAS blockade—combining an ACE inhibitor with an ARB, or combining either
 | **Relative Contraindications & Strict Cautions** | Bilateral renal artery stenosis (or unilateral in solitary kidney)<br>Severe preexisting hyperkalemia ($K^+ >5.0$ mmol/L)<br>Severe aortic valve stenosis or severe obstructive cardiomyopathy<br>Severe volume depletion or acute dehydration | Precipitous drop in GFR leading to acute renal failure; loss of preload in severe outflow tract obstruction precipitates severe cerebral and coronary hypoperfusion |
 
 ###### ACE, Angiotensin-converting enzyme; ARB, angiotensin receptor blocker; CKD, chronic kidney disease; FDA, Food and Drug Administration; GFR, glomerular filtration rate; RAAS, renin-angiotensin-aldosterone system.
+
+<span id="diag-02-01"></span>
+
+### DIAGRAM 2.1: The RAAS Cascade, Mineralocorticoid Signaling & Antihypertensive Targets
+
+<svg viewBox="0 0 1000 660" style="width:100%; max-width:1000px; height:auto; display:block; margin:16px auto;" xmlns="http://www.w3.org/2000/svg">
+<rect width="1000" height="660" rx="12" fill="#0f172a" stroke="#334155" stroke-width="2"/>
+<text x="500" y="32" fill="#38bdf8" font-family="system-ui, sans-serif" font-size="15" font-weight="700" text-anchor="middle" letter-spacing="1">THE RAAS CASCADE, MINERALOCORTICOID SIGNALING & ANTIHYPERTENSIVE TARGETS</text>
+<text x="500" y="52" fill="#94a3b8" font-family="system-ui, sans-serif" font-size="11" text-anchor="middle">Angiotensin II, Aldosterone, Bradykinin Pathways and Precision Sites of Pharmacological Inhibition</text>
+<!-- Step 1: Angiotensinogen -->
+<rect x="50" y="75" width="220" height="48" rx="8" fill="#1e293b" stroke="#64748b" stroke-width="1.5"/>
+<text x="160" y="96" fill="#f8fafc" font-family="system-ui, sans-serif" font-size="12" font-weight="700" text-anchor="middle">Angiotensinogen</text>
+<text x="160" y="112" fill="#94a3b8" font-family="system-ui, sans-serif" font-size="10" text-anchor="middle">Liver</text>
+<!-- Arrow down with Renin -->
+<line x1="160" y1="123" x2="160" y2="165" stroke="#38bdf8" stroke-width="2" marker-end="url(#arrow-blue)"/>
+<text x="175" y="148" fill="#38bdf8" font-family="system-ui, sans-serif" font-size="10" font-weight="600">Renin (Juxtaglomerular Cells)</text>
+<!-- Aliskiren inhibitor box -->
+<rect x="330" y="125" width="200" height="42" rx="6" fill="#7f1d1d" stroke="#ef4444" stroke-width="1.5"/>
+<text x="430" y="142" fill="#fecaca" font-family="system-ui, sans-serif" font-size="10.5" font-weight="700" text-anchor="middle">DIRECT RENIN INHIBITOR</text>
+<text x="430" y="157" fill="#fca5a5" font-family="system-ui, sans-serif" font-size="9.5" text-anchor="middle">(Aliskiren) [-]</text>
+<line x1="330" y1="146" x2="165" y2="146" stroke="#ef4444" stroke-width="2" stroke-dasharray="4,3"/>
+<!-- Step 2: Angiotensin I -->
+<rect x="50" y="170" width="220" height="42" rx="8" fill="#1e293b" stroke="#64748b" stroke-width="1.5"/>
+<text x="160" y="196" fill="#f8fafc" font-family="system-ui, sans-serif" font-size="12" font-weight="700" text-anchor="middle">Angiotensin I (1-10)</text>
+<!-- Arrow down with ACE -->
+<line x1="160" y1="212" x2="160" y2="260" stroke="#38bdf8" stroke-width="2"/>
+<text x="175" y="240" fill="#38bdf8" font-family="system-ui, sans-serif" font-size="10" font-weight="600">ACE (Kininase II, Endothelium)</text>
+<!-- ACEi inhibitor box -->
+<rect x="330" y="222" width="230" height="42" rx="6" fill="#7f1d1d" stroke="#ef4444" stroke-width="1.5"/>
+<text x="445" y="238" fill="#fecaca" font-family="system-ui, sans-serif" font-size="10.5" font-weight="700" text-anchor="middle">ACE INHIBITORS (ACEi)</text>
+<text x="445" y="253" fill="#fca5a5" font-family="system-ui, sans-serif" font-size="9.5" text-anchor="middle">(Enalapril, Ramipril, Lisinopril) [-]</text>
+<line x1="330" y1="243" x2="165" y2="243" stroke="#ef4444" stroke-width="2" stroke-dasharray="4,3"/>
+<!-- Step 3: Angiotensin II -->
+<rect x="50" y="265" width="220" height="45" rx="8" fill="#0369a1" stroke="#38bdf8" stroke-width="2"/>
+<text x="160" y="293" fill="#f0f9ff" font-family="system-ui, sans-serif" font-size="13" font-weight="700" text-anchor="middle">Angiotensin II (1-8)</text>
+<!-- Split from Ang II: Left to AT1R, Middle to AT2R, Right to Aldosterone -->
+<line x1="100" y1="310" x2="100" y2="350" stroke="#f87171" stroke-width="2"/>
+<line x1="220" y1="310" x2="350" y2="350" stroke="#34d399" stroke-width="2"/>
+<line x1="260" y1="300" x2="520" y2="350" stroke="#fbbf24" stroke-width="2"/>
+<!-- ARB Inhibitor Box -->
+<rect x="30" y="325" width="220" height="38" rx="6" fill="#7f1d1d" stroke="#ef4444" stroke-width="1.5"/>
+<text x="140" y="340" fill="#fecaca" font-family="system-ui, sans-serif" font-size="10" font-weight="700" text-anchor="middle">ANGIOTENSIN RECEPTOR BLOCKERS (ARBs)</text>
+<text x="140" y="354" fill="#fca5a5" font-family="system-ui, sans-serif" font-size="9" text-anchor="middle">(Losartan, Valsartan, Telmisartan) [-]</text>
+<!-- AT1R Container -->
+<rect x="30" y="375" width="280" height="135" rx="8" fill="#1e1b4b" stroke="#818cf8" stroke-width="1.5"/>
+<text x="170" y="396" fill="#c7d2fe" font-family="system-ui, sans-serif" font-size="11" font-weight="700" text-anchor="middle">AT₁ RECEPTOR (AT1R)</text>
+<text x="170" y="410" fill="#a5b4fc" font-family="system-ui, sans-serif" font-size="9" text-anchor="middle">(Pathological Effects)</text>
+<text x="42" y="430" fill="#e2e8f0" font-family="system-ui, sans-serif" font-size="9.5" xml:space="preserve">
+<tspan x="42" dy="0">• Arteriolar vasoconstriction (+SVR)</tspan>
+<tspan x="42" dy="15">• Adrenal aldosterone secretion</tspan>
+<tspan x="42" dy="15">• Renal Na⁺/H₂O retention & K⁺ loss</tspan>
+<tspan x="42" dy="15">• Myocardial remodeling & interstitial fibrosis</tspan>
+<tspan x="42" dy="15">• Sympathetic nervous hyperactivation</tspan>
+</text>
+<!-- AT2R Container -->
+<rect x="330" y="375" width="260" height="135" rx="8" fill="#064e3b" stroke="#34d399" stroke-width="1.5"/>
+<text x="460" y="396" fill="#a7f3d0" font-family="system-ui, sans-serif" font-size="11" font-weight="700" text-anchor="middle">AT₂ RECEPTOR (AT2R)</text>
+<text x="460" y="410" fill="#6ee7b7" font-family="system-ui, sans-serif" font-size="9" text-anchor="middle">(Protective Counter-Regulation)</text>
+<text x="342" y="435" fill="#e2e8f0" font-family="system-ui, sans-serif" font-size="9.5">
+<tspan x="342" dy="0">• Vasodilation via NO/cGMP stimulation</tspan>
+<tspan x="342" dy="18">• Antiproliferative & anti-inflammatory</tspan>
+<tspan x="342" dy="18">• Natriuresis & suppression of fibrosis</tspan>
+</text>
+<!-- Aldosterone and MRA branch -->
+<rect x="610" y="325" width="350" height="45" rx="8" fill="#1e293b" stroke="#fbbf24" stroke-width="1.5"/>
+<text x="785" y="352" fill="#fde68a" font-family="system-ui, sans-serif" font-size="12" font-weight="700" text-anchor="middle">Aldosterone (Adrenal Cortex)</text>
+<!-- MRA inhibitor box -->
+<rect x="610" y="380" width="350" height="38" rx="6" fill="#7f1d1d" stroke="#ef4444" stroke-width="1.5"/>
+<text x="785" y="395" fill="#fecaca" font-family="system-ui, sans-serif" font-size="10" font-weight="700" text-anchor="middle">MR ANTAGONISTS (MRAs)</text>
+<text x="785" y="409" fill="#fca5a5" font-family="system-ui, sans-serif" font-size="9" text-anchor="middle">(Spironolactone, Eplerenone, Finerenone) [-]</text>
+<!-- MR Container -->
+<rect x="610" y="428" width="350" height="110" rx="8" fill="#451a03" stroke="#f59e0b" stroke-width="1.5"/>
+<text x="785" y="448" fill="#fde68a" font-family="system-ui, sans-serif" font-size="11" font-weight="700" text-anchor="middle">MINERALOCORTICOID RECEPTOR (MR)</text>
+<text x="785" y="462" fill="#fbbf24" font-family="system-ui, sans-serif" font-size="9" text-anchor="middle">Distal Nephron & Cardiovascular Tissues</text>
+<text x="622" y="480" fill="#fef3c7" font-family="system-ui, sans-serif" font-size="9.5">
+<tspan x="622" dy="0">• ENaC & basolateral Na⁺/K⁺-ATPase induction</tspan>
+<tspan x="622" dy="15">• Plasma volume expansion & hypertension</tspan>
+<tspan x="622" dy="15">• Renal K⁺ & Mg²⁺ wasting (hypokalemia)</tspan>
+<tspan x="622" dy="15">• Endothelial dysfunction & cardiac stiffness</tspan>
+</text>
+<!-- Bradykinin Panel at Bottom -->
+<rect x="30" y="550" width="930" height="92" rx="8" fill="#1e293b" stroke="#0284c7" stroke-width="1.5"/>
+<text x="495" y="570" fill="#38bdf8" font-family="system-ui, sans-serif" font-size="11.5" font-weight="700" text-anchor="middle">BRADYKININ PATHWAY (KININ-KALLIKREIN)</text>
+<text x="50" y="590" fill="#e2e8f0" font-family="system-ui, sans-serif" font-size="9.5">
+<tspan x="50" dy="0">Bradykinin -> Inactivated by ACE (Kininase II)</tspan>
+<tspan x="50" dy="14">ACEi prevents degradation -> Bradykinin accumulation</tspan>
+<tspan x="50" dy="14">-> Endothelial NO & PGI₂ release (synergistic BP reduction)</tspan>
+<tspan x="50" dy="14" fill="#fb7185">-> Class adverse effects: Dry cough (~ 10-15%) & Angioedema</tspan>
+</text>
+</svg>
 </div></details>
 
 </div></details>
@@ -570,11 +737,11 @@ Dual RAAS blockade—combining an ACE inhibitor with an ARB, or combining either
 
 <details class="med-details" open><summary>
 
-## Mineralocorticoid Receptor Antagonists</summary><div class="details-content">
+## 7. Mineralocorticoid Receptor Antagonists</summary><div class="details-content">
 
 <details class="med-details"><summary>
 
-### Mechanism of Action and Receptor Biology</summary><div class="details-content">
+### 7.1 Mechanism of Action and Receptor Biology</summary><div class="details-content">
 
 Although once described as aldosterone blockers, pharmacotherapies such as eplerenone and spironolactone are more appropriately termed mineralocorticoid receptor antagonists. Originally aldosterone was thought to be the sole physiologic ligand for the mineralocorticoid receptor, and that aldosterone increased BP via its sodium retention and subsequent volume effect.
 
@@ -586,7 +753,7 @@ Aldosterone exerts multiple physiologic actions that raise BP, including mediati
 
 <details class="med-details"><summary>
 
-### Differences Among Drugs in Class</summary><div class="details-content">
+### 7.2 Differences Among Drugs in Class</summary><div class="details-content">
 
 Eplerenone is a newer, more selective mineralocorticoid receptor antagonist with significantly fewer antiandrogenic effects than spironolactone. This greatly enhances its tolerability and likely patient adherence to pharmacotherapy.
 
@@ -596,7 +763,7 @@ Preclinical studies with eplerenone have demonstrated a >100-fold lower affinity
 
 <details class="med-details"><summary>
 
-### Clinical Application and Primary Aldosteronism</summary><div class="details-content">
+### 7.3 Clinical Application and Primary Aldosteronism</summary><div class="details-content">
 
 Clearly if primary aldosteronism is identified as the cause of a patient's elevated BPs, then use of a mineralocorticoid antagonist is indicated, particularly if unable to address with surgical treatment. Medical therapy with eplerenone or spironolactone can be used in patients with bilateral adrenal adenomas, adenomas that cannot be excised surgically, in individuals with bilateral adrenal hyperplasia, and in those with significant responses to mineralocorticoid receptor antagonists who do not desire surgery.
 
@@ -608,7 +775,7 @@ There also exist a subset of patients who, although they do not meet the strict 
 
 <details class="med-details"><summary>
 
-### Resistant Hypertension, PATHWAY-2 Trial, and Renal Safety</summary><div class="details-content">
+### 7.4 Resistant Hypertension, PATHWAY-2 Trial, and Renal Safety</summary><div class="details-content">
 
 This study is the most comprehensive study of pharmacotherapy for resistant hypertension to date and demonstrates that spironolactone is the most effective add-on drug for the treatment of resistant hypertension, when compared with bisoprolol and doxazosin. As such, guidelines now recommend the addition of a mineralocorticoid receptor antagonist (spironolactone or eplerenone) as fourth-line therapy for uncontrolled hypertension. Subsequent additional pharmacotherapies are based on expert opinion, lacking large-scale clinical trials, and should be individualized for the patient.
 
@@ -620,7 +787,7 @@ Given the side effects associated with spironolactone, eplerenone use is increas
 
 <details class="med-details"><summary>
 
-### Side Effects, Endocrine Profiles, and Potassium Monitoring</summary><div class="details-content">
+### 7.5 Side Effects, Endocrine Profiles, and Potassium Monitoring</summary><div class="details-content">
 
 Major adverse effects of mineralocorticoid receptor blockers include sexual dysfunction. A major reason for spironolactone treatment discontinuation is its tendency to produce undesirable sexual adverse effects including erectile dysfunction, gynecomastia, and breast tenderness.
 
@@ -632,7 +799,7 @@ Hyperkalemia especially in setting of coexisting renal dysfunction or HF is clea
 
 <details class="med-details"><summary>
 
-### Drug Interactions and Dietary Sodium Influence</summary><div class="details-content">
+### 7.6 Drug Interactions and Dietary Sodium Influence</summary><div class="details-content">
 
 When aldosterone antagonists are used in combination with ACE inhibitors or ARBs, particularly in patients who have renal insufficiency, there is an increased risk of hyperkalemia. Often concomitant treatment for hypertension includes a diuretic appropriate for renal function, thus lessening the risk of excess serum potassium.
 
@@ -646,11 +813,11 @@ Although not a true drug per se, excess sodium intake facilitates the deleteriou
 
 <details class="med-details" open><summary>
 
-## β-Blockers</summary><div class="details-content">
+## 8. β-Blockers</summary><div class="details-content">
 
 <details class="med-details"><summary>
 
-### Mechanism of Action and Hemodynamic Effects</summary><div class="details-content">
+### 8.1 Mechanism of Action and Hemodynamic Effects</summary><div class="details-content">
 
 There are multiple mechanisms by which β-blockers lower BP. Among the likely mechanisms are reducing heart rate and cardiac output, inhibiting the release of renin (the release of which is partly regulated by β₁-adrenoceptors in the renal juxtaglomerular apparatus), inhibiting the central nervous system, improving vascular compliance, reducing norepinephrine release, and attenuating of the pressor response to catecholamines.
 
@@ -664,7 +831,7 @@ There are multiple mechanisms by which β-blockers lower BP. Among the likely me
 
 <details class="med-details"><summary>
 
-### Receptor Selectivity and Vasodilating Actions</summary><div class="details-content">
+### 8.2 Receptor Selectivity and Vasodilating Actions</summary><div class="details-content">
 
 The pharmacologic effect of β-blockers are heterogeneous based on certain factors such as the degree of β₁-selectivity, presence of intrinsic sympathomimetic activity, α₁-blocking effect, lipid solubility, degree of first-pass hepatic metabolism, penetration into the central nervous system, endothelial nitric oxide production and vasodilation in the case of nebivolol, as well as the potency of medication effect and duration of action.
 
@@ -676,7 +843,7 @@ Carvedilol and labetalol are β-blockers that not only block β-adrenoreceptors 
 
 <details class="med-details"><summary>
 
-### Pharmacokinetics, Hepatic vs Renal Clearance, and Dialyzability</summary><div class="details-content">
+### 8.3 Pharmacokinetics, Hepatic vs Renal Clearance, and Dialyzability</summary><div class="details-content">
 
 β-Blockers may also be sorted based on their pharmacokinetic properties and grouped as those primarily eliminated by hepatic metabolism, and those drugs excreted unchanged by the kidney. The former is lipid soluble and include propranolol and metoprolol. They can have a significant effect on the central nervous system, short half-lives, wider variations in plasma concentration, and cause an increased incidence of side effects compared to the latter group: water-soluble agents.
 
@@ -688,7 +855,7 @@ Given the high incidence of hypertension and end-stage renal disease (ESRD), an 
 
 <details class="med-details"><summary>
 
-### Role in Primary Prevention, Cochrane Review, and ASCOT Trial Evidence</summary><div class="details-content">
+### 8.4 Role in Primary Prevention, Cochrane Review, and ASCOT Trial Evidence</summary><div class="details-content">
 
 β-Blockers are no longer recommended for initial therapy in the treatment of primary hypertension and are now often relegated to fourth- or fifth-line therapy in the absence of other compelling indications. Propranolol was the first β-blocker approved as an oral antihypertensive agent. Since that time, many publications have demonstrated that β-blockers do not protect against heart attack better than other classes and suggest an increased risk of stroke.
 
@@ -700,7 +867,7 @@ The Anglo-Scandinavian Cardiac Outcomes Trial (ASCOT) conducted between 1998 and
 
 <details class="med-details"><summary>
 
-### Secondary Outcomes, ASCOT Legacy, and Hemodynamic Determinants</summary><div class="details-content">
+### 8.5 Secondary Outcomes, ASCOT Legacy, and Hemodynamic Determinants</summary><div class="details-content">
 
 Secondary outcomes suggest a possible reduction in CV morbidity and mortality using amlodipine and perindopril, although this has been ascribed to differences in BP between the two study arms. The primary composite outcome of nonfatal MI and fatal coronary artery disease demonstrated a nonstatistically significant reduction of 10% in the amlodipine/perindopril treatment arm. The lack of statistical significance may have been due to early trial termination. The amlodipine-based arm had a significantly lower BP than the atenolol-based arm throughout the entire study, which may explain the differences in outcomes. Of note, the amlodipine-based arm also demonstrated a significant reduction in new-onset diabetes mellitus and decreased risk of developing peripheral artery disease or renal impairment.
 
@@ -712,7 +879,7 @@ The relative ineffectiveness of β-blockade for primary prevention may be attrib
 
 <details class="med-details"><summary>
 
-### Compelling Indications and Rational Combination Strategies</summary><div class="details-content">
+### 8.6 Compelling Indications and Rational Combination Strategies</summary><div class="details-content">
 
 First-line therapy with β-blockers is recommended for patients with recent myocardial infarction, left ventricular systolic dysfunction, hypertrophic cardiomyopathy, and tachyarrhythmias. β-blockers may be useful in patients with BP driven particularly by excess adrenergic activation, or with concomitant palpitations, tachycardia, and anxiety. Sufferers from migraine headache and essential tremor may also benefit. β-blockers tend to be less effective in older patients.
 
@@ -722,7 +889,7 @@ Ideally in the treatment of hypertension, a β-blocker would be long acting, car
 
 <details class="med-details"><summary>
 
-### Bronchospasm, Bradycardia, and Metabolic Impact in Diabetes (GEMINI Study)</summary><div class="details-content">
+### 8.7 Bronchospasm, Bradycardia, and Metabolic Impact in Diabetes (GEMINI Study)</summary><div class="details-content">
 
 Asthma and reactive airway disease may worsen while administering β-blockers. β-blockers that are β₁-selective (i.e., atenolol, metoprolol, and nebivolol) inhibit cardiac β₁-receptors but have less influence on bronchial smooth muscles theoretically resulting in less symptoms. However, higher doses of β₁-selective agents will also block β₂-receptors. Caution must be used in acute decompensated HF, higher degrees of heart block, and baseline bradycardia.
 
@@ -734,7 +901,7 @@ Participants had hypertension, diabetes, and were already receiving therapy with
 
 <details class="med-details"><summary>
 
-### Withdrawal Syndrome, Lipid Perturbations, and Drug Interactions</summary><div class="details-content">
+### 8.8 Withdrawal Syndrome, Lipid Perturbations, and Drug Interactions</summary><div class="details-content">
 
 Caution must be used when discontinuing a β-blocker. This is particularly true at higher doses. Withdrawal may be followed by adrenergically mediated symptoms. Therefore, a stepwise reduction in patient receiving higher doses is advised, particularly in high-risk patients.
 
@@ -748,11 +915,11 @@ Combining β-blockers with nondihydropyridine CCBs can synergistically depress t
 
 <details class="med-details" open><summary>
 
-## Central Sympatholytic Agents</summary><div class="details-content">
+## 9. Central Sympatholytic Agents</summary><div class="details-content">
 
 <details class="med-details"><summary>
 
-### Mechanisms of Action and Central Receptors</summary><div class="details-content">
+### 9.1 Mechanisms of Action and Central Receptors</summary><div class="details-content">
 
 Central sympatholytic agents lower BP by decreasing sympathetic outflow to the heart and peripheral circulation. More specifically, they stimulate central α₂-adrenergic receptors in the rostral ventrolateral medulla (i.e., brainstem), thereby reducing sympathetic nerve activity, and by inhibition of presynaptic release of norepinephrine from peripheral sympathetic nerve terminals.
 
@@ -762,7 +929,7 @@ Activation of imidazoline-1 receptors in the brainstem also contributes to a sym
 
 <details class="med-details"><summary>
 
-### Differences Among Drugs in Class: Methyldopa and Clonidine</summary><div class="details-content">
+### 9.2 Differences Among Drugs in Class: Methyldopa and Clonidine</summary><div class="details-content">
 
 Methyldopa, or α-methyldopa, was the first of the class to be commonly used and is a prodrug. It is still used in certain instances despite adverse central nervous system symptoms and potentially serious hepatic and hematologic side effects. α-Methyldopa does not directly reduce BP; it first requires conversion to α-methylnorepinephrine in the central nervous system, which leads to activation of central α₂-adrenergic receptors and inhibition of sympathetic outflow. In hypertensive patients, methyldopa reduces BP mainly by reducing systemic vascular resistance with minimal effects on heart rate or cardiac output.
 
@@ -772,7 +939,7 @@ Clonidine, guanabenz, and guanfacine provide the BP-lowering effects of methyldo
 
 <details class="med-details"><summary>
 
-### Guanabenz, Guanfacine, and Historical Reserpine</summary><div class="details-content">
+### 9.3 Guanabenz, Guanfacine, and Historical Reserpine</summary><div class="details-content">
 
 Guanabenz resembles clonidine but may cause less fluid retention. It is predominantly eliminated via hepatic biotransformation, so dose adjustment is required in those with chronic liver diseases. Guanfacine is a similar agent that can be given once daily (and typically at bedtime to decrease the occurrence of daytime somnolence), with less risk of rebound hypertension if abruptly discontinued. Guanfacine demonstrates 12 to 25 times higher selectivity than clonidine for the α₂-adrenergic receptors when compared to the α₁-adrenergic receptors and reduces BP mainly by reducing total vascular resistance rather than cardiac output. Guanfacine reduces resting heart rate both at rest and during exercise with minimal effects on cardiac output.
 
@@ -782,7 +949,7 @@ In contrast to the above-mentioned agents, reserpine reduces BP by depleting nor
 
 <details class="med-details"><summary>
 
-### Clinical Application and Safety in Pregnancy</summary><div class="details-content">
+### 9.4 Clinical Application and Safety in Pregnancy</summary><div class="details-content">
 
 Although it was once the backbone of antihypertensive therapy, α-methyldopa is generally only used in pregnant women with hypertension because of its established safety profile in pregnancy, owing to a lack of teratogenicity or fetal side effects. Maternal cardiac output, uterine blood flow, and renal blood flow are also unaffected by α-methyldopa.
 
@@ -792,7 +959,7 @@ In patients who are adherent to treatment, central sympatholytic drugs remain an
 
 <details class="med-details"><summary>
 
-### Trial Evidence: VA Cooperative Study and Guanabenz in LVH</summary><div class="details-content">
+### 9.5 Trial Evidence: VA Cooperative Study and Guanabenz in LVH</summary><div class="details-content">
 
 In the VA Cooperative study, clonidine was among the more effective of the agents tested. It worked equally well in younger and older age groups, and in black and white patients. The major disadvantage in that trial was that clonidine demonstrated the highest incidence of drug intolerance, which was present in 14% of participants.
 
@@ -802,7 +969,7 @@ Guanabenz has been shown to be effective in reducing LVH in hypertensive patient
 
 <details class="med-details"><summary>
 
-### Adverse Effects: Autoimmunity, Sedation, and Reserpine Depression</summary><div class="details-content">
+### 9.6 Adverse Effects: Autoimmunity, Sedation, and Reserpine Depression</summary><div class="details-content">
 
 Side effects of α-methyldopa that ultimately require drug discontinuation are infrequent. However, there are numerous potential side effects including positive Coombs test, drug-induced fever, pancreatitis, hemolytic anemia, hepatic dysfunction, nasal congestion, exacerbation of parkinsonism, hyperprolactinemia, and gynecomastia.
 
@@ -812,7 +979,7 @@ Higher doses of reserpine have been associated with significant side effects, in
 
 <details class="med-details"><summary>
 
-### Rebound Hypertension and Crucial Antidote Strategies</summary><div class="details-content">
+### 9.7 Rebound Hypertension and Crucial Antidote Strategies</summary><div class="details-content">
 
 Rebound hypertension is another major concern in certain drugs with a short half-life, such as oral clonidine. Abrupt cessation is known to precipitate symptoms of sympathetic overactivity, and result in anxiety, tremor, headache, palpitation, and rebound hypertension within 1 to 3 days of discontinuation.
 
@@ -824,11 +991,11 @@ The rebound phenomenon may be amplified in patients under concurrent treatment w
 
 <details class="med-details" open><summary>
 
-## α₁-Adrenoreceptor Antagonists</summary><div class="details-content">
+## 10. α₁-Adrenoreceptor Antagonists</summary><div class="details-content">
 
 <details class="med-details"><summary>
 
-### Mechanisms of Action and Vascular Beds</summary><div class="details-content">
+### 10.1 Mechanisms of Action and Vascular Beds</summary><div class="details-content">
 
 It is important to understand that what are commonly referred to as α-blockers in today's medical parlance lower BP by selective inhibition of postsynaptic α₁-adrenoreceptors. They dilate both the resistance and capacitance sides of the vasculature, because blocking α₁-adrenoreceptors antagonizes catecholamine-induced constriction of both arterial and venous vascular beds.
 
@@ -838,7 +1005,7 @@ Initial study of α-receptor antagonists led to the development of phentolamine 
 
 <details class="med-details"><summary>
 
-### Differences Among Drugs: Prazosin, Terazosin, and Doxazosin</summary><div class="details-content">
+### 10.2 Differences Among Drugs: Prazosin, Terazosin, and Doxazosin</summary><div class="details-content">
 
 Postsynaptic α₁-adrenoreceptor antagonists in use today include prazosin, terazosin, and doxazosin. These agents differ predominantly in their pharmacokinetic profiles. Prazosin was originally approved for use in the United States. Although useful when initially developed, it is not commonly used today. This is because of its relatively short duration of action resulting in compulsory multiple daily doses to provide sustained BP lowering.
 
@@ -850,7 +1017,7 @@ Terazosin and, subsequently, doxazosin are later-generation selective postsynapt
 
 <details class="med-details"><summary>
 
-### TOMHS Trial and Premature Termination of ALLHAT Doxazosin Arm</summary><div class="details-content">
+### 10.3 TOMHS Trial and Premature Termination of ALLHAT Doxazosin Arm</summary><div class="details-content">
 
 α₁-Adrenoreceptor antagonists are not recommended as first-line BP-lowering therapy. This was made clear during the Antihypertensive and Lipid-Lowering Treatment to Prevent Heart Attack Trial (ALLHAT).
 
@@ -862,7 +1029,7 @@ ALLHAT randomized more than 42,000 North American participants with stage 1 or 2
 
 <details class="med-details"><summary>
 
-### Methodological Insights from ALLHAT and PATHWAY-2 Resistant HTN Results</summary><div class="details-content">
+### 10.4 Methodological Insights from ALLHAT and PATHWAY-2 Resistant HTN Results</summary><div class="details-content">
 
 At annual study visits, systolic BP was between 2 and 3 mmHg higher in the doxazosin compared with the chlorthalidone treatment arm. In ALLHAT participants with glucose disorders, doxazosin was equally as effective as chlorthalidone in preventing the occurrence of the primary study endpoint; however, there were higher rates of combined CV disease and HF despite lower glucose levels in the doxazosin group. One major caveat that must be stated with respect to ALLHAT is that in-study use of diuretics was not allowed as either second- or third-line therapy in any of the ALLHAT randomized treatment groups as would optimally be done in contemporary medical practice (i.e., combination of an α-blocker and diuretic). Given the known fluid retention seen with doxazosin, this may explain why the doxazosin arm of the ALLHAT study was terminated because of an excess of HF, compared with the reference diuretic, chlorthalidone.
 
@@ -872,7 +1039,7 @@ At annual study visits, systolic BP was between 2 and 3 mmHg higher in the doxaz
 
 <details class="med-details"><summary>
 
-### Favorable Metabolic Actions and Clinical Niche in BPH</summary><div class="details-content">
+### 10.5 Favorable Metabolic Actions and Clinical Niche in BPH</summary><div class="details-content">
 
 In addition to their BP-lowering effect, α₁-adrenoreceptor antagonists demonstrate favorable effects on metabolic and lipid profiles. In TOMHS, doxazosin reduced total cholesterol by 6%, LDL cholesterol by 7%, and increased HDL cholesterol by 5%. Doxazosin was the only pharmacotherapy in TOMHS that lowered fasting blood glucose as well as fasting insulin levels. These beneficial effects are due to antagonism of α₁-adrenoreceptors that results in an increase in LDL receptor number, down-regulation of hydroxymethylglutaryl-coenzyme A (HMG-CoA) reductase, reduced synthesis of very-low-density lipoprotein (VLDL), and upregulation of lipoprotein lipase activity.
 
@@ -882,7 +1049,7 @@ Despite the results of ALLHAT, α₁-adrenoreceptor antagonists may be used as a
 
 <details class="med-details"><summary>
 
-### Fluid Retention, Orthostatic Hypotension, and Tolerance</summary><div class="details-content">
+### 10.6 Fluid Retention, Orthostatic Hypotension, and Tolerance</summary><div class="details-content">
 
 When used over a prolonged period, α₁-blockers cause expansion of extracellular fluid and plasma volumes, which leads to weight gain and attenuation of BP-lowering efficacy in persons who are consuming moderate or greater levels of dietary sodium. Use of diuretics in combination with α₁-blockers is beneficial because these agents minimize expansion of extracellular and plasma volumes while providing additional reductions in BP.
 
@@ -896,11 +1063,11 @@ Although minimal adverse metabolic and lipid effects are seen when prescribing �
 
 <details class="med-details" open><summary>
 
-## Direct Vasodilators</summary><div class="details-content">
+## 11. Direct Vasodilators</summary><div class="details-content">
 
 <details class="med-details"><summary>
 
-### Mechanisms of Action: Hydralazine, Minoxidil, and Nitric Oxide</summary><div class="details-content">
+### 11.1 Mechanisms of Action: Hydralazine, Minoxidil, and Nitric Oxide</summary><div class="details-content">
 
 Hydralazine, nitrates, nitroprusside, and minoxidil are the most commonly encountered direct vasodilators in clinical practice. Hydralazine exerts its BP-lowering effect by dilating resistance arterioles, therefore reducing peripheral resistance.
 
@@ -912,7 +1079,7 @@ Similarly, minoxidil dilates resistance vessels with minimal effect on the venou
 
 <details class="med-details"><summary>
 
-### Differences Among Drugs: Metabolism, Bioavailability, and Dosing</summary><div class="details-content">
+### 11.2 Differences Among Drugs: Metabolism, Bioavailability, and Dosing</summary><div class="details-content">
 
 Hydralazine is metabolized in the liver, primarily by N-acetylation. The plasma half-life is short, but the clinical effect appears to be longer, and studies have demonstrated efficacy even when given as a twice-a-day regimen. Dosing in clinical hypertension varies from 25 mg twice a day to 100 mg 3 times a day.
 
@@ -924,7 +1091,7 @@ Long-term nitrates include oral isosorbide dinitrate, isosorbide mononitrate, or
 
 <details class="med-details"><summary>
 
-### Clinical Application: Resistant Hypertension, BiDil in HFrEF, and Inpatient Caution</summary><div class="details-content">
+### 11.3 Clinical Application: Resistant Hypertension, BiDil in HFrEF, and Inpatient Caution</summary><div class="details-content">
 
 Although still used as a fifth- or sixth-line agent in patients with resistant hypertension, use of hydralazine has been supplanted with the introduction of CCBs, which exert similar vasodilation effects without nearly the degree of side effects. Hydralazine is still used widely in developing countries because it is inexpensive.
 
@@ -934,7 +1101,7 @@ Hydralazine is most commonly used in the United States when it is combined with 
 
 <details class="med-details"><summary>
 
-### Long-Term Nitrates and Sodium Nitroprusside in Emergencies</summary><div class="details-content">
+### 11.4 Long-Term Nitrates and Sodium Nitroprusside in Emergencies</summary><div class="details-content">
 
 No long-term outcome trials of oral nitrates for the treatment of hypertension exist. Small, short-term studies display effective BP lowering in isolated systolic hypertension in the elderly. Longer-acting nitrate formulations are effective in lowering systolic BP without the development of nitrate tolerance, particularly when used with an antioxidant, such as hydralazine.
 
@@ -944,7 +1111,7 @@ In the treatment of severe left ventricular failure or hypertensive emergency, s
 
 <details class="med-details"><summary>
 
-### Hemodynamic Side Effects, Nitrate Tolerance, and Cyanide Toxicity</summary><div class="details-content">
+### 11.5 Hemodynamic Side Effects, Nitrate Tolerance, and Cyanide Toxicity</summary><div class="details-content">
 
 Adverse effects of direct vasodilators include predictable tachycardia, fluid retention, and headache, caused by vasodilation, especially soon after beginning therapy. These can be reduced with use of β-blockade and diuretics.
 
@@ -954,7 +1121,7 @@ Use of long-acting nitrates may cause headache, but can be prevented by slow inc
 
 <details class="med-details"><summary>
 
-### Hydralazine Lupus Syndrome and Minoxidil Polyserositis/Hypertrichosis</summary><div class="details-content">
+### 11.6 Hydralazine Lupus Syndrome and Minoxidil Polyserositis/Hypertrichosis</summary><div class="details-content">
 
 Hydralazine, because it is N-acetylated, puts patients at risk of drug-induced lupus with high doses and long-term use. It is more likely to be seen in patients that are slow acetylators and is less often seen in African American patients.
 

@@ -1757,6 +1757,18 @@ function _handleDeepLinkJump() {
     }
 }
 
+// Auto-resize embedded interactive iframes (e.g. IABP Atlas)
+if (typeof window !== 'undefined') {
+    window.addEventListener('message', (e) => {
+        if (e.data && typeof e.data.iabpHeight === 'number') {
+            const frames = document.querySelectorAll('#content-area iframe, .iabp-frame');
+            frames.forEach(f => {
+                f.style.height = `${Math.ceil(e.data.iabpHeight) + 12}px`;
+            });
+        }
+    });
+}
+
 // Expose core reader APIs globally
 if (typeof window !== 'undefined') {
     window.loadChapter = loadChapter;

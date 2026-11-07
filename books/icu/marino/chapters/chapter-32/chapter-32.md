@@ -1,340 +1,345 @@
-# Chapter 32
+# Lactic Acidosis and Ketoacidosis
 
-# **Lactic Acidosis and Ketoacidosis**
+> *Fundamental progress has to do with the reinterpretation of basic ideas.*  
+> — Alfred North Whitehead
 
-*Fundamental progress has to do with the reinterpretation of basic ideas.*
+<details class="med-details" open><summary>
 
-Alfred North Whitehead (*[a](#page-13-0)*)
+## Executive Summary</summary><div class="details-content">
 
-This chapter focuses on the two most prominent acid-base disorders you will encounter in the ICU: lactic acidosis and ketoacidosis. However, as you will learn, the problem with these disorders has little to do with the acid-base disturbances they promote. Also covered in this chapter is alkali therapy with bicarbonate, and the reasons to avoid it.
+### Clinical Insights into High Anion Gap Acidoses
 
-## **LACTIC ACIDOSIS**
+- **The Modern Lactate Paradigm:** Lactate production is not an obligate consequence of anaerobic metabolism, and lactate itself is not an acid. Glycolysis terminates in the lactate anion and consumes hydrogen ions ($\text{H}^+$). Rather than a toxic waste product, lactate serves as a high-octane oxidative substrate providing up to 60% of myocardial energy and 30% of cerebral energy under metabolic stress.
+- **Sepsis and Hyperlactatemia:** Lactic acidosis in septic shock is driven by accelerated aerobic glycolysis coupled with mitochondrial pyruvate dehydrogenase (PDH) inhibition (*cytopathic hypoxia*), not by inadequate tissue oxygen delivery.
+- **Prognostic Impact of Clearance:** Although baseline lactate correlates with mortality, the rate of lactate clearance carries greater prognostic value. Normalization of serum lactate within 24 hours indicates favorable resuscitation and minimal mortality.
+- **D-Lactic Acidosis:** Bowel bacterial fermentation following extensive small-bowel resection or jejunoileal bypass produces D-lactate. Standard automated laboratory assays detect only L-lactate, necessitating a specific D-lactate assay when unexplained anion gap acidosis with encephalopathy occurs.
+- **The Sodium Bicarbonate Paradox:** Sodium bicarbonate has no demonstrated clinical benefit in lactic acidosis. Standard 8.4% solutions impose a massive $\text{CO}_2$ burden ($P\text{CO}_2 \approx 200\text{ mmHg}$ in the vial), cross cell membranes to cause paradoxically worsened intracellular and CSF acidemia, lower ionized calcium, and stimulate further glycolytic lactate production.
+- **Biochemistry of Ketogenesis:** Under carbohydrate starvation or insulin deficiency, hepatic beta-oxidation generates acetoacetate (AcAc) and $\beta$-hydroxybutyrate ($\beta$-OHB). The physiological redox equilibrium heavily favors $\beta$-OHB (ratio 3:1 in DKA, up to 8:1 in alcoholic ketoacidosis).
+- **Pitfall of the Nitroprusside Test:** Common test strips and tablets (Acetest, Ketostix) detect only acetoacetate and acetone. In alcoholic ketoacidosis, total ketoacids may exceed 13 mmol/L while the nitroprusside reaction remains completely negative. Quantitative blood $\beta$-OHB testing with portable meters is the standard of care.
+- **DKA Resuscitation Strategy:** Resuscitate with balanced crystalloids (Plasma-Lyte or Lactated Ringer's) to prevent hyperchloremic non-gap acidosis. Withhold insulin if serum $\text{K}^+ < 3.3\text{ mEq/L}$. Maintain IV regular insulin until the anion gap normalizes and bicarbonate exceeds 18 mEq/L.
+- **Alcoholic Ketoacidosis (AKA):** Characterized by dehydration, vomiting, ketonemia, and mixed acid-base disorders in malnourished alcoholics. Management requires simple dextrose-containing saline infusions (to stimulate endogenous insulin and suppress lipolysis) accompanied by thiamine administration.
+</div></details>
 
-Lactate is a three-carbon anion that is formed by the chemical reduction of pyruvate in the cytoplasm, in a reaction catalyzed by the lactate dehydrogenase (LDH) enzyme. About 1,500 mmoles of lactate are produced daily under aerobic conditions (1,2), and the principal sites of production are skeletal muscle (25%), skin (25%), red blood cells (20%), brain (20%), and intestine (10%). Activated neutrophils are an additional source of lactate in inflammatory conditions (3). The concentration of lactate in plasma is usually ≤2 mmol/L, with a lactate:pyruvate ratio of 10:1 (1,2). Lactate is cleared from plasma by the liver (60%), kidneys (30%) and heart (10%).
+<details class="med-details" open><summary>
 
-## **The Evolving Lactate Paradigm**
+## Lactic Acidosis: The Evolving Paradigm</summary><div class="details-content">
 
-The traditional teaching has been that anaerobic conditions are the principle source of increased lactate production. However, the description of lactate metabolism in Chapter 9 introduces the following notions:
+### Physiology of Lactate Metabolism
 
-- 1. Lactate production is NOT driven by anaerobic metabolism (see Table 9.5).
-- 2. Lactate serves as an oxidative fuel in conditions of metabolic stress, with a caloric yield that is equivalent to glucose (see Table 9.6).
+Lactate is a three-carbon anion formed in the cytoplasm through the reduction of pyruvate, a reaction catalyzed by lactate dehydrogenase (LDH). Under basal aerobic conditions, approximately 1,500 mmol of lactate are produced daily. The primary contributing organs are skeletal muscle (25%), skin (25%), red blood cells (20%), brain (20%), and the gastrointestinal tract (10%). Activated neutrophils act as an auxiliary source during severe inflammatory states.
 
-During conditions of metabolic stress, when glucose availability is limited, lactate can
+Normal circulating plasma lactate is $\le 2\text{ mmol/L}$, maintaining a stable lactate-to-pyruvate ratio of approximately 10:1. Systemic clearance is mediated predominantly by hepatic gluconeogenesis and oxidation (60%), renal tubular metabolism and excretion (30%), and myocardial extraction (10%).
 
-provide 60% of the energy needs of the myocardium (4), and 30% of the energy needs of the brain (5). During exercise, about three-quarters of the lactate produced is used as an oxidative fuel, and in exercising muscle, there is an intercellular lactate shuttle that transfers lactate from white "glycolytic" muscle fibers to red "oxidative" muscle fibers (6). (Please review the material in Chapter 9 for a more detailed description of these issues.) Another misconception about lactate production that has been known for years, but is rarely mentioned, is described next.
+### Misconceptions Surrounding Lactate
 
-#### *Lactate is Not an Acid*
+Traditional medical teaching maintained that anaerobic tissue hypoperfusion is the mandatory source of elevated blood lactate. However, modern metabolic investigation demonstrates two critical principles:
 
-The traditional teaching has been that lactic acid is the end-product of glucose metabolism in the cytoplasm (glycolysis), but there are a number of problems with this scenario, as indicated by the numbers in [Figure](#page-2-0) 32.1 (7,8).
+- Lactate generation is not exclusively driven by tissue hypoxia or anaerobic conditions.
+- Lactate serves as a vital oxidative fuel during metabolic stress, with a caloric yield identical to that of glucose.
 
-- 1. The end-product of glycolysis is the lactate anion, which is not an acid.
-- 2. The chemical reaction that produces lactate actually *consumes* hydrogen ions, which should have the opposite effect to the production of an acid.
-- 3. The hydrogen ions associated with lactate production are attributed to the hydrolysis of the 2 ATP molecules formed during glycolysis (8), but how this influences extracellular pH is unclear.
+Under physiological duress when circulating glucose availability becomes restricted, lactate supplies 60% of the energy requirements of the myocardium and 30% of the brain's metabolic fuel. In vigorously exercising skeletal muscle, three-quarters of generated lactate is oxidized locally, facilitated by an intercellular lactate shuttle transferring lactate from glycolytic white muscle fibers to oxidative red muscle fibers.
 
-Each of these points is contrary to the traditional explanation for lactic acidosis, and an alternative explanation is warranted. The fact that hyperlactatemia can exist without an associated acidosis (9) is further evidence of the incomplete understanding of the relationship between lactate production and acidosis.
+#### Chemical Dissociation of Lactate and Acid
 
-<span id="page-2-0"></span>![](_page_2_Figure_0.jpeg)
+The standard assertion that lactic acid is the direct end-product of cytoplasmic glycolysis presents fundamental chemical inconsistencies:
+
+- The biochemical terminal product of glycolysis is the ionized lactate anion, not undissociated lactic acid.
+- The reduction of pyruvate to lactate catalyzed by LDH consumes, rather than generates, hydrogen ions:
+
+$$\text{Pyruvate} + \text{NADH} + \text{H}^+ \rightleftharpoons \text{Lactate}^- + \text{NAD}^+$$
+
+- Protons associated with hyperlactatemia arise from the rapid turnover and hydrolysis of adenosine triphosphate (ATP), rather than from the lactate molecule itself:
+
+$$\text{ATP} + \text{H}_2\text{O} \rightarrow \text{ADP} + \text{P}_i + \text{H}^+$$
+
+Hyperlactatemia frequently manifests without concomitant systemic acidemia, confirming that lactate accumulation and proton accumulation represent distinct cellular events.
+
+<span id="fig-32-1"></span>
+![FIGURE 32.1](images/_page_2_Figure_0.jpeg)
 
 **FIGURE 32.1** Problems with the association between lactate production and acidosis. See text for explanation. PDH = pyruvate dehydrogenase, LDH = lactate dehydrogenase, TPP = thiamine pyrophosphate.
 
-## **Prognostic Value**
+### Prognostic Significance and Clearance
 
-Regardless of its origins or function, plasma lactate levels have prognostic significance in critically ill patients: i.e.,
+Regardless of underlying cellular mechanisms, elevated circulating lactate is an established prognostic indicator in critical illness.
 
-- 1. The initial lactate level has a direct relationship with mortality rates, as shown in the left-hand graph in Figure 9.4 (10,11).
-- 2. The time required for lactate levels to return to normal (lactate clearance) has greater predictive value than the initial lactate level. Normalization of lactate levels within 24 hours is associated with the lowest mortality rates (see the graph on the right in Figure 9.4) (11).
+- **Baseline Lactate:** Admission lactate concentration correlates directly with overall mortality across all shock etiologies.
+- **Lactate Clearance:** The rate of decline in blood lactate during active resuscitation possesses superior prognostic sensitivity compared to initial values. Clearance achieving normalization ($\le 2\text{ mmol/L}$) within 24 hours of admission confers the highest probability of survival.
+</div></details>
 
-## **Causes of Hyperlactatemia**
+<details class="med-details" open><summary>
 
-There are numerous causes of elevated plasma lactate levels, and the major ones are listed in [Table](#page-2-1) 32.1.
+## Etiologies of Hyperlactatemia</summary><div class="details-content">
 
-<span id="page-2-1"></span>
+### Clinical Classification
 
-| TABLE<br>32.1 | The<br>Myriad<br>Causes<br>of<br>Hyperlactatemia |                  |
-|---------------|--------------------------------------------------|------------------|
-|               | Conditions                                       | Drugs and Toxins |
+Circulating lactate elevation arises from an extensive array of pathological disorders, toxic exposures, and pharmacological agents, categorized in Table 32.1.
 
-Asthma (acute) Circulatory Shock
+<div id="tbl-32-1"></div>
 
-Compartment Syndromes
+### TABLE 32.1 The Myriad Causes of Hyperlactatemia
 
-DKA
+| Clinical Conditions | Pharmacological Agents & Toxins |
+| :--- | :--- |
+| **Acute severe asthma** | **Antiretroviral agents** (NRTIs: didanosine, stavudine) |
+| **Circulatory shock** (septic, cardiogenic, hypovolemic) | **Epinephrine** (and high-dose albuterol) |
+| **Compartment syndromes** (abdominal, limb) | **Linezolid** |
+| **Diabetic ketoacidosis** | **Metformin** |
+| **Fulminant hepatic failure** | **Propofol** (PRIS) |
+| **Leukemia and lymphoma** | **Carbon monoxide** |
+| **Mesenteric ischemia** | **Cyanide** |
+| **Pheochromocytoma** | **Propylene glycol** (solvent in lorazepam, diazepam, phenytoin) |
+| **Status epilepticus / Generalized seizures** | |
+| **Strenuous physical exertion** | |
+| **Systemic sepsis** | |
+| **Thiamine deficiency** (wet beriberi) | |
 
-Liver Failure
+### Shock and Inflammatory States
 
-Leukemia/Lymphoma Mesenteric Ischemia
+#### Septic Shock Pathophysiology
 
-Pheochromocytoma
+Sepsis represents the most prevalent cause of profound lactic acidosis in the intensive care unit. Historically attributed to macrovascular or microvascular ischemia, elevated lactate in sepsis predominantly reflects two non-hypoxic mechanisms:
 
-Seizures Sepsis
+- Beta-2 adrenergic stimulation driven by endogenous epinephrine accelerates the glycolytic cascade beyond the processing capacity of mitochondria, accumulating pyruvate.
+- Direct inflammatory inhibition of the pyruvate dehydrogenase enzyme complex halts pyruvate entry into the citric acid cycle. This mitochondrial dysfunction without tissue hypoxia is termed *cytopathic hypoxia*. Regional microvascular tissue oxygenation is frequently preserved or elevated.
 
-Strenuous Exercise Thiamine Deficiency Drugs:
+#### Stress Hyperlactatemia
 
-Antiretrovirals Epinephrine Linezolid Metformin Propofol
+Systemic inflammatory response syndrome (SIRS) provoked by pancreatitis, major surgery, or trauma causes mild hyperlactatemia (2–5 mEq/L) characterized by a normal lactate-to-pyruvate ratio (10:1) and neutral arterial pH. This entity represents hypermetabolic stress glycolysis without mitochondrial impairment.
 
-Toxins:
+#### Thiamine Deficiency
 
-Carbon Monoxide
+Thiamine pyrophosphate (TPP) functions as an obligatory cofactor for the pyruvate dehydrogenase multi-enzyme complex. In thiamine depletion (malnutrition, critical illness, chronic alcoholism), pyruvate cannot enter the Krebs cycle and is shunted to lactate. Severe, refractory lactic acidosis can be the presenting hallmark of unrecognized beriberi in the ICU.
 
-Cyanide
+### Drug-Induced and Toxic Hyperlactatemia
 
-Propylene Glycol
+#### Vasoactive and Respiratory Agents
 
-#### *Clinical Shock Syndromes*
+Epinephrine infusions and high-dose nebulized albuterol stimulate skeletal muscle beta-2 receptors, activating cyclic adenosine monophosphate (cAMP) and accelerating glycogenolysis. This yields aerobic hyperlactatemia without cellular hypoperfusion.
 
-The most notable, and most feared sources of hyperlactatemia are the *clinical shock syndromes;* i.e., hypovolemic, cardiogenic, and septic shock.
+#### Metformin-Associated Lactic Acidosis (MALA)
 
-**SEPTIC SHOCK:** Sepsis or septic shock may be the most common cause of lactic acidosis in critically ill patients. The source of elevated lactate levels is a combination of increased production of pyruvate (12) and a defect in O<sup>2</sup> utilization in mitochondria (called c*ytopathic hypoxia*) (13), which may be caused by inhibition of the pyruvate dehydrogenase enzyme responsible for pyruvate entry into mitochondria (see [Figure](#page-2-0) 32.1) (14,15). Tissue oxygenation is not impaired, and can actually be increased (see Figure 17.3).
+Metformin inhibits hepatic complex I of the mitochondrial respiratory chain, diminishing gluconeogenesis from lactate. MALA carries a high mortality (17–30%) and occurs primarily when metformin accumulates during acute kidney injury. Optimal therapy is urgent intermittent hemodialysis, which simultaneously clears both metformin and excess organic acids.
 
-#### *Systemic Inflammatory Response Syndrome*
+#### Nucleoside Reverse Transcriptase Inhibitors (NRTIs)
 
-Systemic inflammation (fever, leukocytosis, etc.) can be accompanied by mild elevations of blood lactate (2 to 5 mEq/L) with a normal lactate:pyruvate ratio and a normal plasma pH. This condition is called *stress hyperlactatemia*, and is the result of an increase in the production of pyruvate without a defect in tissue oxygenation or oxygen utilization (13). The lactate elevation in severe sepsis and septic shock is usually associated with increased lactate:pyruvate ratios and a decrease in plasma pH.
+Antiretroviral nucleoside analogues (stavudine, didanosine) inhibit human mitochondrial DNA polymerase gamma, impairing respiratory enzyme synthesis. Blood lactate elevations above 10 mmol/L carry a mortality rate of 33–57%.
 
-#### *Thiamine Deficiency*
+#### Linezolid
 
-The manifestations of thiamine deficiency include high-output heart failure (wet beriberi), Wernicke's encephalopathy, peripheral neuropathy (dry beriberi), and lactic acidosis. The lactic acidosis can be severe (16), and is caused by a deficiency in thiamine pyrophosphate, which serves as a co-factor for pyruvate dehydrogenase (see [Figure](#page-2-0) 32.1). Thiamine deficiency may be more common than suspected in critically ill patients, and should be considered in all cases of unexplained lactic acidosis. (See Chapter 48 for a more detailed description of thiamine deficiency.)
+Linezolid inhibits bacterial ribosomal protein synthesis but exhibits cross-reactivity with human mitochondrial ribosomes, disrupting oxidative phosphorylation. Lactic acidosis is an idiosyncratic, potentially fatal complication (25% mortality) appearing at any duration of therapy.
 
-#### *Pharmaceutical Agents*
+#### Propylene Glycol Toxicity
 
-More than 300 medications have been implicated as a cause of elevated plasma lactate levels (17), and the common ones are listed in the right-hand column of [Table](#page-2-1) 32.1.
+Propylene glycol is a non-aqueous solvent used to stabilize parenteral medications including lorazepam, diazepam, phenytoin, esmolol, and nitroglycerin. Approximately 55–75% of an administered dose is metabolized by the liver into L-lactate and D-lactate. Toxicity manifests as unexplained lactic acidosis, hyperosmolality, renal failure, and CNS depression in 19–66% of patients receiving high-dose IV lorazepam (> 0.1 mg/kg/hr) for greater than 48 hours (2 days).
 
-**EPINEPHRINE:** Hyperlactatemia is a consequence of high-dose therapy with epinephrine and albuterol (17). Both act by increasing the rate of glycolysis, and produce hyperlactatemia that is aerobic in origin. The albuterol effect may explain reports of lactic acidosis in cases of acute asthma.
+#### Lactic Alkalosis
 
-**METFORMIN:** Metformin is an oral hypoglycemic agent that can precipitate lactic acidosis during therapeutic dosing. The mechanism for the lactic acidosis is unclear, but it occurs primarily in patients with renal insufficiency, and has a mortality rate of 17–30% (18,19). Plasma metformin levels are not routinely available, and the diagnosis is based on excluding other causes of lactic acidosis. The preferred treatment is hemodialysis rather than alkali therapy (18,19).
+Severe systemic alkalemia (arterial $\text{pH} \ge 7.60$, respiratory or metabolic) stimulates phosphofructokinase, the rate-limiting enzyme of glycolysis, triggering increased production of lactate that manifests as *lactic alkalosis*.
+</div></details>
 
-**ANTIRETROVIRAL AGENTS:** Hyperlactatemia is reported in 8–18% of patients receiving antiretroviral therapy for HIV infection (20). The responsible drugs are the nucleoside analogues (e.g., didanosine, stavudine), and the presumed mechanism is inhibition of mitochondrial DNA polymerase (21). In most cases, the hyperlactatemia is mild and not associated with acidemia, but lactate levels above 10 mmol/L have a reported mortality rate of 33–57% (21).
+<details class="med-details" open><summary>
 
-**LINEZOLID:** Lactic acidosis is an uncommon but life-threatening complication of therapy with linezolid. The mechanism is unknown, and the reported mortality rate is 25% (22). It is more common in men, and can appear at any time during linezolid therapy.
+## Diagnostic Considerations and D-Lactic Acidosis</summary><div class="details-content">
 
-#### *Non-Pharmaceutical Toxidromes*
+### Clinical Evaluation of Blood Lactate
 
-Lactic acidosis can be the result of intoxications with cyanide, carbon monoxide, and propylene glycol. Cyanide and carbon monoxide intoxication are described in Chapter 53, and the following is a brief description of propylene glycol toxicity.
+Blood lactate can be evaluated on either arterial or central/free-flowing peripheral venous specimens without significant clinical divergence. If immediate point-of-care analysis is unavailable, blood specimens must be transferred on wet ice to halt in vitro erythrocyte glycolysis.
 
-**PROPYLENE GLYCOL:** Propylene glycol is used as a solvent to increase the water solubility of some intravenous drug preparations, most notably lorazepam, diazepam, esmolol, nitroglycerin, and phenytoin. About 55–75% of propylene glycol is metabolized by the liver and the primary metabolite is lactate (both levo and dextro isomers) (23). *Propylene glycol toxicity* (i.e., agitation, coma, seizures, hypotension, and lactic acidosis) *has been reported in 19% to 66%* of *patients receiving high-dose intravenous lorazepam for more than 2 days* (24,25). If suspected, the drug infusion should be stopped and another sedative agent (other than diazepam) should be selected. An assay for propylene glycol in blood is available, but the acceptable range has not been determined.
+Although lactic acidosis classically presents with a widened serum anion gap, numerous clinical series document normal anion gap lactic acidosis, particularly in patients with concomitant severe hypoalbuminemia. Consequently, calculation of the serum anion gap must never be used to screen for or exclude hyperlactatemia. Direct quantitative lactate assays are mandatory.
 
-#### *Lactic Alkalosis*
+### D-Lactic Acidosis
 
-Severe alkalosis (respiratory or metabolic) can raise blood lactate levels as a result of increased activity of pH-dependent enzymes in the glycolytic pathway (9,26). When liver function is normal, the liver clears the extra lactate generated during alkalosis, and *lactic alkalosis* becomes evident only when the blood pH is 7.6 or higher. However, in patients with impaired liver function, hyperlactatemia can be seen with less severe degrees of alkalemia.
+#### Pathogenesis and Presentation
 
-#### *Other Sources*
+Mammalian tissues produce and metabolize L-lactate. In contrast, D-lactate is synthesized by specific colonic bacteria (e.g., *Lactobacillus* species). In patients with short bowel syndrome following extensive small bowel resection or jejunoileal bypass for morbid obesity, undigested carbohydrates enter the colon in large quantities. Bacterial fermentation generates substantial quantities of D-lactic acid, which is absorbed across the colonic mucosa into the systemic circulation.
 
-Other possible causes of hyperlactatemia in ICU patients include *generalized seizures* (from
+Patients present with acute encephalopathy, dysarthria, ataxia, confusion, and a severe high anion gap metabolic acidosis.
 
-hypermetabolism) (27), *hepatic insufficiency* (from reduced lactate clearance) (28), *acute asthma* (from enhanced lactate production by albuterol or respiratory muscles) (29), and *hematologic malignancies* (30). Hyperlactatemia that accompanies generalized seizures can be severe (with plasma lactate levels up to 15 mmol/L) but is transient (27).
+#### Diagnostic Pitfall
 
-## **Diagnostic Considerations**
+Standard enzymatic laboratory analyzers utilize L-lactate dehydrogenase, which is stereospecific and completely unresponsive to D-lactate. When an unexplained high anion gap acidosis is accompanied by acute neurological symptoms in a patient with altered gastrointestinal anatomy, a specific D-lactate stereoisomeric assay must be ordered. Treatment consists of oral non-absorbable antibiotics, carbohydrate restriction, and correction of dehydration.
+</div></details>
 
-The normal lactate concentration in blood is ≤2 mmol/L, but increases in lactate concentration do not have prognostic value until they reach 4 mmol/L (1). Measurements can be obtained on arterial or venous blood samples. If immediate measurements are unavailable, the blood should be placed on ice to retard lactate production by red blood cells.
+<details class="med-details" open><summary>
 
-The anion gap (described in Chapter 31) should be elevated in lactic acidosis, but there are numerous reports of a normal anion gap in patients with lactic acidosis (31). As a result, *the anion gap should not be used as a screening test for lactic acidosis*.
+## Alkali Therapy and the Sodium Bicarbonate Controversy</summary><div class="details-content">
 
-#### *D-Lactic Acidosis*
+### Physiological Impact of Acidemia
 
-The lactate produced by mammalian tissues is a levo isomer (l-lactate), whereas a dextro isomer of lactate (d-lactate) is produced by certain strains of bacteria that can populate the bowel (32). D-lactate generated by bacterial fermentation in the bowel can gain access to the systemic circulation and produce a metabolic acidosis, often combined with a metabolic encephalopathy (33). Most cases of d-lactic acidosis have been reported after extensive small bowel resection or after jejunoileal bypass for morbid obesity (32–34).
+The central rationale for administering sodium bicarbonate is the apprehension that severe acidemia ($\text{pH} < 7.20$) suppresses myocardial contractility and induces arteriolar vasodilation. However, these suppressive effects are demonstrated primarily in isolated, denervated muscle tissue preparations.
 
-**DIAGNOSIS:** D-lactic acidosis can produce an elevated anion gap, but the standard laboratory assay for blood lactate measures only l-lactate. If d-lactic acidosis is suspected, you must specifically request a d-lactate assay.
+In the intact organism with an intact sympathetic nervous system, acute systemic acidemia stimulates central sympathetic discharge and release of adrenal catecholamines, which enhances myocardial contractility and increases cardiac output. Acidemia also shifts the oxyhemoglobin dissociation curve to the right (Bohr effect), promoting oxygen unloading in peripheral capillaries. Extracellular acidosis protects energy-depleted cells from necrotic membrane lysis, a cytoprotective effect exploited in food pickling.
 
-## **ALKALI THERAPY**
+### Inefficacy of Bicarbonate as a Buffer
 
-The primary goal of therapy in lactic acidosis is to correct the underlying metabolic abnormality. Alkali therapy aimed at correcting the pH is of questionable value (35). The following is a brief summary of the pertinent issues regarding alkali therapy for lactic acidosis.
+Sodium bicarbonate routinely fails to generate sustained correction of systemic pH in organic lactic acidosis. This limitation is dictated by the Henderson-Hasselbalch chemistry of the bicarbonate-carbonic acid system:
 
-#### **Acidosis is Not Harmful**
+$$\text{CO}_2 + \text{H}_2\text{O} \rightleftharpoons \text{H}_2\text{CO}_3 \rightleftharpoons \text{H}^+ + \text{HCO}_3^- \tag{32.1}$$
 
-The principal fear from acidosis is the risk of impaired myocardial contractility (36), but this observation comes from isolated heart preparations. *In the intact organism, acidemia is accompanied by an increase in cardiac output* (37), because acidosis stimulates catecholamine release from the adrenal glands.
+The dissociation constant ($pK_a$) for carbonic acid is 6.1. Chemical buffers exert meaningful buffering capacity only within 1.0 pH unit of their $pK_a$ (range 5.1 to 7.1). Consequently, bicarbonate cannot function as an effective biological buffer within the physiological extracellular pH range (7.35 to 7.45). Bicarbonate in vivo is the terminal transport metabolite of carbon dioxide rather than a buffering base.
 
-#### *Protective Role?*
+<span id="fig-32-2"></span>
+![FIGURE 32.2](images/_page_6_Figure_4.jpeg)
 
-Acidosis may have a protective role in life-threatening conditions, since extracellular acidosis has been shown to protect energy depleted cells from cell death (38). The protective role of acidosis is the basis for *pickling*, which is the preservation of food in vinegar (acetic acid), which typically has a pH of 4.0.
+**FIGURE 32.2** The titration curve for the carbonic acid-bicarbonate buffer system. The large shaded area indicates the effective pH range for the bicarbonate buffer system, which does not coincide with the physiological pH range of extracellular fluid.
 
-#### **Bicarbonate is Not an Effective Buffer**
+### Adverse Pathophysiological Effects of Bicarbonate
 
-Sodium bicarbonate has limited success in raising the plasma pH in cases of lactic acidosis (39). This can be explained by the titration curve for the carbonic acid bicarbonate buffer system, which is shown in [Figure](#page-6-0) 32.2. The HCO<sup>3</sup> buffer pool is generated by the dissociation of carbonic acid (H2CO<sup>3</sup> ):
+Infusion of hypertonic sodium bicarbonate creates serious unintended clinical complications:
 
-$$CO_2 + H_2O \Leftrightarrow H_2CO_3 \Leftrightarrow H^+ + HCO_3^-$$
- (32.1)
+- **Intracellular and CSF Paradoxical Acidosis:** The reaction of exogenous bicarbonate with circulating protons generates carbonic acid, which dissociates into carbon dioxide and water. Because standard 8.4% sodium bicarbonate solutions exhibit a dissolved $P\text{CO}_2$ of approximately 200 mmHg, infusion delivers an acute $\text{CO}_2$ load. Whereas bicarbonate ions cross lipophilic cell membranes and the blood-brain barrier very slowly, gaseous $\text{CO}_2$ diffuses instantaneously into cells and cerebrospinal fluid, generating intracellular and central nervous system acidemia.
+- **Hypocalcemia:** Alkalinization increases the negative surface charge of circulating albumin, binding free ionized calcium ($\text{Ca}^{2+}$). Resultant acute hypocalcemia diminishes vascular tone and impairs myocardial contractility.
+- **Augmented Lactate Generation:** Alkalinization removes the physiological feedback inhibition of phosphofructokinase, accelerating glycolysis and escalating lactate production.
+- **Hyperosmolar Hypernatremia:** Standard 8.4% solutions are markedly hypertonic (2,000 mosm/L), risking fluid overload and cerebral vascular stress.
 
-The dissociation constant (pK) for carbonic acid (i.e., the pH at which the acid is 50% dissociated) is 6.1, as indicated on the titration curve. Buffers are effective within 1 pH unit on either side of the pK (40), so the effective range of the bicarbonate buffer system is an extracellular pH between 5.1 and 7.1 pH units (indicated by the shaded area on the titration curve). Therefore, *bicarbonate is not an effective buffer in the usual pH range of extracellular fluid*. Bicarbonate is not really a buffer; rather, it is the end-product of CO<sup>2</sup> transport in blood (i.e., the CO<sup>2</sup> added to venous blood enters red blood cells (RBCs), where the carbonic anhydrase enzyme promotes the conversion of CO<sup>2</sup> to H<sup>+</sup> and HCO<sup>3</sup> −. The H+ is buffered by hemoglobin, and the HCO<sup>3</sup> − is transported out of the RBCs and into plasma in exchange for chloride ions).
+### Clinical Indications and Dosing Protocol
 
-<span id="page-6-0"></span>![](_page_6_Figure_4.jpeg)
+Despite physiological hazards, consensus guidelines consider cautious bicarbonate administration acceptable only when arterial pH falls to $\le 7.10$ or bicarbonate is $\le 5\text{ mEq/L}$ in the presence of severe hemodynamic instability (e.g., refractory shock requiring high-dose vasopressors) or concurrent acute kidney injury.
 
-**FIGURE 32.2** The titration curve for the carbonic acid-bicarbonate buffer system. The large, shaded area indicates the effective pH range for the bicarbonate buffer system, which does not coincide with the physiological pH range of extracellular fluid. Adapted from Reference 40.
+#### Deficit Calculation Formula
 
-## **Bicarbonate is Counterproductive**
+The total bicarbonate deficit is calculated:
 
-Bicarbonate infusions generate CO<sup>2</sup> , which enters cells and cerebrospinal fluid and actually *lowers the intracellular pH* and cerebrospinal fluid pH (41,42). In fact, considering that *the PCO<sup>2</sup> is 200 mm Hg in standard bicarbonate solutions*, bicarbonate is really a CO<sup>2</sup> load that
+$$\text{HCO}_3^-\text{ Deficit (mEq)} = 0.6 \times \text{Body Weight (kg)} \times (15 - \text{measured } [\text{HCO}_3^-]) \tag{32.2}$$
 
-must be removed by the lungs.
+where 15 mEq/L represents the safe initial target. Replace only half of this estimated deficit, administered as an isotonic dilution in 5% dextrose over several hours, while simultaneously escalating mechanical minute ventilation to clear generated $\text{CO}_2$ and monitoring ionized calcium.
 
-*Bicarbonate infusions can also increase blood lactate levels* (42). This effect is attributed to alkalosis-induced increase in lactate production, which is far from desirable for a proposed therapy of lactic acidosis.
+<div id="tbl-32-2"></div>
 
-## **Recommendation**
+### TABLE 32.2 Composition of Sodium Bicarbonate Solutions
 
-Despite the wealth of evidence showing no benefits, and potential harm, from bicarbonate therapy, most (but not all) experts recommend bicarbonate therapy for severe lactic acidosis, when the pH is ≤7.1 and/or the plasma HCO<sup>3</sup> is ≤5 mEq/L) (43,44). It seems more reasonable to include only patients who are hemodynamically unstable (e.g., on vasopressors).
+| Parameter | 7.5% $\text{NaHCO}_3$ | 8.4% $\text{NaHCO}_3$ |
+| :--- | :---: | :---: |
+| **Unit Volume (ampule)** | 50 mL | 50 mL |
+| **$\text{HCO}_3^-$ Concentration** | 0.9 mEq/mL | 1.0 mEq/mL |
+| **$\text{HCO}_3^-$ Content per Ampule** | 45 mEq | 50 mEq |
+| **Osmolarity** | 1,790 mosm/L | 2,000 mosm/L |
+</div></details>
 
-Bicarbonate therapy is probably most helpful in patients with lactic acidosis and renal insufficiency (where part of the problem is loss of HCO<sup>3</sup> ). The HCO<sup>3</sup> deficit can be estimated as follows (42):
+<details class="med-details" open><summary>
 
-$$HCO_3$$
- deficit (mEq) =  $0.6 \times wt$  (kg)  $\times$  (15 – measured  $HCO_3$ ) (32.2)
+## Biochemistry and Clinical Features of Ketogenesis</summary><div class="details-content">
 
-(where 15 mEq/L is the desired plasma HCO<sup>3</sup> ). Half of this deficit can be replaced, and if this results hemodynamic improvement, bicarbonate therapy can be continued to maintain the plasma HCO<sup>3</sup> at 15 mEq/L. If no improvement or further deterioration occurs, further bicarbonate administration is not warranted. The composition of commonly used bicarbonate solutions is shown in [Table](#page-7-0) 32.2.
+### Hepatic Synthesis of Ketone Bodies
 
-<span id="page-7-0"></span>
+When intracellular carbohydrate availability is restricted by insulin deficiency or prolonged fasting, lipolysis in adipose tissue releases free fatty acids into circulation. Hepatocytes transport fatty acids into mitochondria via the carnitine palmitoyltransferase shuttle for beta-oxidation, yielding acetoacetate (AcAc), $\beta$-hydroxybutyrate ($\beta$-OHB), and acetone.
 
-| TABLE<br>32.2<br>Composition | of<br>Sodium<br>Bicarbonate<br>Solutions |               |  |
-|------------------------------|------------------------------------------|---------------|--|
-|                              | 7.5% NaHCO3                              | 8.4% NaHCO3   |  |
-| Unit Volume (ampule)         | 50 mL                                    | 50 mL         |  |
-| HCO3<br>Concentration        | 0.9 mEq/mL                               | 1 mEq/mL      |  |
-| HCO3<br>Content              | 45 mEq/ampule                            | 50 mEq/ampule |  |
-| Osmolarity                   | 1,790 mosm/L                             | 2,000 mosm/L  |  |
-
-Sodium bicarbonate is also available as 4.2% and 5% solutions, but these are rarely used.
-
-**EXAMPLE:** For a 70 kg adult with a pH of 7.0 and a plasma HCO<sup>3</sup> of 5 mEq/L, the HCO<sup>3</sup> deficit is 0.6 × 70 × 10 = 420 mEq. One ampule (50 mL) of 8.4% NaHCO<sup>3</sup> contains 50 mEq HCO<sup>3</sup> (1 mEq/mL), so 4 amps of 8.4% NaHCO<sup>3</sup> (200 mEq HCO<sup>3</sup> ) would replace about half of the HCO<sup>3</sup> deficit. Since 8.4% NaHCO<sup>3</sup> is very hypertonic (2,000 mosm/L), it should be mixed with D5W and infused slowly (over hours). The ionized calcium should be monitored during bicarbonate infusions, as raising the pH will decrease the ionized calcium, and this can lead to hemodynamic instability. In ventilator-dependent patients, an increase in minute ventilation will also be needed to eliminate the extra CO<sup>2</sup> produced by the bicarbonate infusion.
-
-## **Ketogenesis**
-
-When carbohydrates are not available for metabolic energy production, there is a breakdown of triglycerides in adipose tissue to generate fatty acids, which are transported to the liver and metabolized to form three ketones; i.e., acetoacetate, β-hydroxybutyrate, and acetone. This is illustrated in [Figure](#page-8-0) 32.3. These ketones are released from the liver and can be used as oxidative fuels by vital organs such as the heart and central nervous system. The oxidative metabolism of ketones yields 4 kcal/g, which is slightly in excess of the energy yield from the oxidative metabolism of glucose (3.7 kcal/g).
-
-<span id="page-8-0"></span>![](_page_8_Picture_3.jpeg)
+<span id="fig-32-3"></span>
+![FIGURE 32.3](images/_page_8_Picture_3.jpeg)
 
 **FIGURE 32.3** Ketogenesis in the liver, which occurs in response to diminished availability of glucose. Acetone is a ketone, but is not a ketoacid.
 
-#### **Ketoacids in Blood**
+Ketones circulate to peripheral tissues, providing 4 kcal/g through oxidation in myocardium, renal cortex, and brain, exceeding the caloric density of glucose (3.7 kcal/g).
 
-The normal concentration of ketones in the blood is negligible (0.1 mmol/L), but blood ketone levels increase tenfold (to 1 mmol/L) after just 3 days of starvation. Acetone is not a ketoacid, but is responsible for the "fruity" odor of breath in patients with ketoacidosis. Acetoacetate (AcAc) and β-hydroxybutyrate (β-OHB) are strong acids, and produce a decrease in plasma pH when their plasma concentrations reach 3 mmol/L (45). The balance of AcAc and β-OHB in blood is determined by the following redox reaction (as shown in [Figure](#page-8-0) 32.3):
+### Redox State and Circulating Ketoacids
 
-AcAc + NADH + H<sup>+</sup> 
-$$\leftrightarrow$$
-  $\beta$ -OHB + NAD (32.3)
+Normal serum ketone concentration is negligible ($\approx 0.1\text{ mmol/L}$). Acetoacetate and $\beta$-hydroxybutyrate are strong organic acids with low $pK_a$ values ($\approx 3.6$ to 4.7), fully dissociating at physiological pH and lowering bicarbonate once their combined concentration reaches 3 mmol/L.
 
-The balance of this reaction normally favors the formation of β-OHB: i.e., in conditions of enhanced ketone production, the β-OHB:AcAc ratio ranges from 3:1 in diabetic ketoacidosis, to as high as 8:1 in alcoholic ketoacidosis. The concentration of ketoacids in the blood in diabetic and alcoholic ketoacidosis is shown in [Figure](#page-9-0) 32.4. Note the preponderance of β-OHB in both conditions.
+#### Redox Equilibrium Reaction
 
-#### *The Nitroprusside Reaction*
+The interconversion between acetoacetate and $\beta$-hydroxybutyrate is governed by the mitochondrial redox state:
 
-The nitroprusside reaction is a colorimetric method for detecting AcAc and acetone in blood and urine. The test can be performed with tablets (Acetest) or reagent strips (Ketostix, Labstix, Multistix). A detectable reaction requires a minimum AcAc concentration of 3 mmol/L. Because *this reaction does not detect the predominant ketoacid, β-hydroxybutyrate* (45), it is an insensitive method for monitoring the severity of ketoacidosis. This is illustrated in [Figure](#page-9-0) 32.4. In alcoholic ketoacidosis, the total concentration of ketoacids in blood is 13 mmol/L, which represents more than a hundredfold increase over the normal concentration of blood ketones, yet the nitroprusside reaction will be negative because the AcAc concentration is below 3 mmol/L.
+$$\text{Acetoacetate} + \text{NADH} + \text{H}^+ \rightleftharpoons \beta\text{-Hydroxybutyrate} + \text{NAD}^+ \tag{32.3}$$
 
-<span id="page-9-0"></span>![](_page_9_Figure_3.jpeg)
+In diabetic ketoacidosis, enhanced NADH shifts the equilibrium, establishing a $\beta\text{-OHB}:\text{AcAc}$ ratio of approximately 3:1. In alcoholic ketoacidosis, massive NADH generation from alcohol dehydrogenase elevates this ratio up to 8:1.
 
-**FIGURE 32.4** The concentrations of acetoacetate and β-hydroxybutyrate in the blood in diabetic ketoacidosis (DKA) and alcoholic ketoacidosis (AKA). The horizontal hatched line represents the minimum concentration of acetoacetate required to produce a positive nitroprusside reaction.
+<span id="fig-32-4"></span>
+![FIGURE 32.4](images/_page_9_Figure_3.jpeg)
 
-## *β-hydroxybutyrate Testing*
+**FIGURE 32.4** The concentrations of acetoacetate and $\beta$-hydroxybutyrate in the blood in diabetic ketoacidosis (DKA) and alcoholic ketoacidosis (AKA). The horizontal hatched line represents the minimum concentration of acetoacetate required to produce a positive nitroprusside reaction.
 
-There are now portable "ketone meters" that provide reliable measurements of β-OHB concentrations in fingerstick (capillary) blood in about 10 seconds (46). The American Diabetes Association considers measurements of plasma β-OHB with these meters as the preferred method for monitoring patients with diabetic ketoacidosis (47).
+### Limitations of the Nitroprusside Reaction
 
-## **DIABETIC KETOACIDOSIS**
+The traditional nitroprusside test (Acetest tablets, Ketostix urine dipsticks) reacts with acetoacetate and acetone (which is chemically a neutral ketone, not an acid), but completely fails to detect $\beta$-hydroxybutyrate. Because $\beta$-OHB is the predominant circulating ketoacid, nitroprusside assays frequently underestimate ketoacidosis severity. In alcoholic ketoacidosis, profound ketoacidosis (total ketoacids 13 mmol/L) routinely produces a completely negative nitroprusside reaction.
 
-Diabetic ketoacidosis (DKA) can be seen in patients with type 1 or type 2 diabetes, and there is no previous history of diabetes mellitus in up to 37% of cases (48). The most common precipitating factors in DKA are inappropriate insulin dosing and concurrent illness (e.g., infection). The mortality rate in DKA has decreased to ≤1% (49).
+Bedside quantitative $\beta$-hydroxybutyrate capillary blood meters provide accurate results within 10 seconds and represent the gold standard for clinical monitoring.
+</div></details>
 
-## **Clinical Features**
+<details class="med-details" open><summary>
 
-The features of DKA proposed by the American Diabetes Association include a blood glucose >250 mg/dL, plasma HCO<sup>3</sup> <18 mEq/L, plasma pH ≤7.30, an elevated anion gap, and evidence of ketones in blood or urine (47). However, there are exceptions:
+## Diabetic Ketoacidosis</summary><div class="details-content">
 
-- 1. The blood glucose is <250 mg/dL in about 3% of cases of DKA (49). This condition is known as *euglycemic diabetic ketoacidosis* (50) and it is most common in patients treated with sodium-glucose cotransporter-2 (SGLT2) inhibitors, and in pregnancy and starvation.
-- 2. Although uncommon, the anion gap can be normal in DKA (51). The renal excretion of ketones is accompanied by an increase in chloride reabsorption in the renal tubules, and the resulting hyperchloremia limits the increase in the anion gap.
+### Diagnostic Criteria and Pitfalls
 
-Additional features of interest in DKA are as follows:
+Diabetic ketoacidosis (DKA) occurs in type 1 and type 2 diabetes mellitus, and up to 37% of admissions represent the first manifestation of undiagnosed diabetes. Classic presentation includes blood glucose $> 250\text{ mg/dL}$ ($> 13.9\text{ mmol/L}$), arterial $\text{pH} \le 7.30$, serum $[\text{HCO}_3^-] < 18\text{ mEq/L}$, and a widened anion gap ($> 12\text{ mEq/L}$) with ketonemia.
 
-- 1. Leukocytosis is not a reliable marker of infection in DKA because ketonemia produces a leukocytosis, which is proportional to the concentration of ketones in plasma (47). However, an increase in immature neutrophils (band forms) can be a reliable marker of infection in patients with DKA (52).
-- 2. Elevated troponin I levels without evidence of an acute coronary event has been reported in 27% of patients with DKA (53).
-- 3. Dehydration is almost universal in DKA, but this may not be reflected in the plasma sodium concentration because hyperglycemia has a dilutional effect on plasma sodium; i.e., the plasma sodium concentration decreases by 2.4 mEq/L for every 100 mg/dL increase in the plasma glucose concentration (54).
-- 4. Hyperglycemia also has a dilutional effect on the plasma chloride concentration, so the measured plasma sodium (not the corrected value) should be used to calculate the anion gap (55).
+Key diagnostic exceptions must be recognized:
 
-## **Management**
+- **Euglycemic DKA:** Approximately 3% of DKA episodes occur with blood glucose $< 250\text{ mg/dL}$, particularly in patients taking sodium-glucose cotransporter-2 (SGLT2) inhibitors, during pregnancy, or with severe starvation.
+- **Normal Anion Gap DKA:** Prolonged osmotic diuresis can eliminate large quantities of ketoacid anions accompanied by preferential renal chloride reabsorption, yielding a hyperchloremic non-gap acidosis.
+- **Leukocytosis:** Ketonemia directly stimulates bone marrow demargination, inducing leukocytosis in the absence of infection. An increase in immature band forms remains a more reliable sign of sepsis.
+- **Pseudonormonatremia:** Hyperglycemia shifts water from the intracellular to the extracellular space, diluting serum sodium by 2.4 mEq/L for every 100 mg/dL elevation of glucose above normal (100 mg/dL). Always use measured (uncorrected) sodium when calculating the anion gap.
 
-The management of DKA is summarized in [Table](#page-11-0) 32.3.
+### Resuscitation and Treatment Protocol
 
-#### *Volume Resuscitation*
+Protocolized management of DKA is detailed in Table 32.3.
 
-Volume deficits in DKA average 50–100 mL/kg (or 4–8 L for a 175 lb adult) (47). The traditional resuscitation fluid in DKA has been isotonic ("normal") saline, but balanced salt solutions with a lower chloride concentration (e.g., Plasma-Lyte®, or Ringer's lactate) have been shown to hasten resolution of the acidosis in DKA (56,57), and these fluids should be preferred to isotonic saline. In cases of euglycemic ketoacidosis, 5% dextrose should be added to all resuscitation fluids.
+<div id="tbl-32-3"></div>
 
-Volume resuscitation should begin at a rate of 15–20 mL/kg/hr (or 1 L/hour) for the first few
+### TABLE 32.3 Management Protocol for Diabetic Ketoacidosis
 
-hours (47). When the patient stabilizes, the infusion rate can be decreased to 250 mL/hr. When the blood glucose falls to 250 mg/dL, change the intravenous fluid to 5% dextrose in 0.45% (half-normal) saline, and decrease the infusion rate to 150–200 mL/hr.
+| Component | Clinical Action |
+| :--- | :--- |
+| **Intravenous Fluids** | - Resuscitate with balanced crystalloid (Lactated Ringer's or Plasma-Lyte) at 15–20 mL/kg/hr (approx. 1 L/hr) for 2–4 hours.<br>- Reduce infusion rate to 250 mL/hr upon hemodynamic stabilization.<br>- Transition to 5% dextrose in 0.45% saline at 150–200 mL/hr once plasma glucose decreases to $\le 250\text{ mg/dL}$.<br>- *Note:* In euglycemic DKA, initiate 5% dextrose from the outset. |
+| **Insulin Therapy** | - Verify serum $\text{K}^+ > 3.3\text{ mEq/L}$ prior to insulin initiation.<br>- Administer regular insulin IV bolus of 0.1 units/kg directly into the venous catheter (to avoid tubing adsorption).<br>- Maintain continuous IV infusion of regular insulin at 0.1 units/kg/hr (prime and discard first 10 mL through tubing).<br>- Titrate infusion rate to achieve a glucose decline of 50–100 mg/dL per hour (2.8–5.5 mmol/L/hr).<br>- Decrease rate to 0.05 units/kg/hr when glucose reaches 250 mg/dL, maintaining glucose at 150–200 mg/dL (8.3–11.1 mmol/L).<br>- Continue infusion until anion gap normalizes and $[\text{HCO}_3^-] > 18\text{ mEq/L}$. Continue IV insulin for 1–2 hours after first subcutaneous dose. |
 
-#### *Insulin*
+### Electrolyte Management
 
-Insulin therapy is started only when the plasma K+ is >3.3 mEq/L (because insulin drives K+ into cells). Regular insulin is given intravenously, starting with a bolus dose of 0.1 units per kilogram body weight and followed with a continuous infusion at 0.1 units/kg/hr. Because *insulin adsorbs to intravenous tubing*, the bolus insulin dose should be injected directly into the vein, and the initial 10 mL of infusate should be run through the IV setup before the insulin drip is started. The blood glucose levels should decrease by about 100 mg/dL per hour (49), and the insulin infusion should be adjusted to achieve this goal. When the blood glucose level falls to 250 mg/dL, the insulin infusion rate should be decreased to 0.05 units/kg/hr. Thereafter, the blood glucose levels should be maintained between 150–200 mg/dL. Achieving euglycemia is not recommended because of the risk of hypoglycemia.
+#### Potassium Protocol
 
-The insulin infusion is continued until the acidosis resolves (i.e., the anion gap normalizes and the plasma HCO<sup>3</sup> is >18 mEq/L). Subcutaneous insulin can then be started, but the insulin infusion should be continued for at least one hour after the first subcutaneous dose. Patients who were insulin-dependent prior to admission can be placed on their usual outpatient regimen. Patients who are new to insulin should receive 0.5–0.8 Units/kg/day: half of this can be given as a long-acting preparation (e.g., glargine), and the remaining half as a short-acting preparation (e.g., lispro) in divided doses, to cover meals (49).
+Total body potassium depletion averages 3–5 mEq/kg in DKA. Because acidosis and hypertonicity shift potassium out of cells, admission serum potassium is normal or elevated in 96% of cases. Serum $\text{K}^+ < 3.3\text{ mEq/L}$ indicates critical, life-threatening depletion. Insulin administration must be deferred until aggressive repletion elevates serum potassium $> 3.3\text{ mEq/L}$.
 
-## <span id="page-11-0"></span>**TABLE 32.3 Management of Diabetic Ketoacidosis**
+<div id="tbl-32-4"></div>
 
-#### *I. Intravenous Fluids*
+### TABLE 32.4 Potassium Replacement in Diabetic Ketoacidosis
 
-- 1. Start with a balanced crystalloid fluid (e.g., Ringer's lactate) and infuse at a rate of 15–20 mL/kg/hr (or 1 L/hr) for a few hours.
-- 2. When patient stabilizes, decrease rate to 250 mL/hr.
-- 3. When blood glucose falls to ≤250 mg/dL, change IV fluid to 5% dextrose in 0.45% saline and reduce rate to 150–200 mL/hr.
-- 4. Continue IV fluids until patient can tolerate oral fluids.
-- 5. *Note:* In cases of euglycemic ketoacidosis, 5% dextrose should be added to all IV fluids.
+| Serum $\text{K}^+$ Concentration | Clinical Replacement Strategy |
+| :--- | :--- |
+| **$< 3.3\text{ mEq/L}$** | **Hold insulin infusion.** Administer IV potassium at 40 mEq/hr until $\text{K}^+ > 3.3\text{ mEq/L}$. |
+| **3.3–4.0 mEq/L** | Administer IV potassium at 20 mEq/hr (add 20–30 mEq per liter of IV maintenance fluid). |
+| **4.0–5.5 mEq/L** | Administer IV potassium at 10 mEq/hr to maintain target 4.0–5.0 mEq/L. |
+| **$> 5.5\text{ mEq/L}$** | Do not add potassium to fluids. Recheck serum $\text{K}^+$ every 2 hours. |
 
-#### *II. Insulin*
+#### Phosphate and Bicarbonate Guidelines
 
-- 1. Start insulin only if plasma K+ >3.3 mEq/L.
-- 2. Use regular insulin -start with a bolus of 0.1 U/kg, and inject directly into vein (insulin adsorbs to IV tubing). Then infuse at 0.1 U/kg/hr (run first 10 mL through IV tubing and discard).
-- 3. Adjust rate, if needed, for a decrease in blood glucose of 100 mg/dL/hr.
-- 4. When blood glucose falls to ≤250 mg/dL, decrease rate to 0.05 U/kg/hr.
-- 5. Continue infusion until anion gap normalizes and plasma HCO<sup>3</sup> >18 mEq/L. Then transition to subQ insulin, but continue infusion for at least 1 hr after first subQ dose.
+Total phosphate deficits average 1.0–1.5 mmol/kg. Routine replacement demonstrates no outcome benefit and is indicated only for profound hypophosphatemia ($< 1.0\text{ mg/dL}$ [0.32 mmol/L]) to prevent diaphragmatic weakness and hemolysis. Routine bicarbonate therapy is contraindicated in DKA.
+</div></details>
 
-#### *Potassium*
+<details class="med-details" open><summary>
 
-Potassium depletion is universal in DKA, and the average deficit is 3–5 mEq/kg (58). However, the initial plasma K+ is normal or elevated in 96% of patients with DKA because of the
+## Alcoholic Ketoacidosis and Summary</summary><div class="details-content">
 
-concurrent acidosis (58). The presence of hypokalemia at presentation of DKA indicates severe potassium depletion.
+### Pathogenesis of Alcoholic Ketoacidosis
 
-The recommendations for K+ replacement in DKA are shown in [Table](#page-12-0) 32.4. It is important not to start insulin if the initial plasma K+ is less than 3.3 mEq/L because insulin drives K+ into cells, and this can precipitate life-threatening hypokalemia. Regardless of the initial potassium regimen, the plasma K+ should be checked every 1–2 hours for the first 6 hours.
+Alcoholic ketoacidosis (AKA) develops in chronically malnourished individuals with alcohol dependence, typically presenting 1 to 3 days following the abrupt cessation of a severe drinking binge precipitated by intractable vomiting, abdominal pain, or gastritis.
 
-<span id="page-12-0"></span>
+The condition is driven by three intersecting pathophysiological mechanisms:
 
-| TABLE<br>32.4<br>Potassium<br>Replacement<br>in<br>Diabetic<br>Ketoacidosis |                                                                                            |
-|-----------------------------------------------------------------------------|--------------------------------------------------------------------------------------------|
-| Plasma K+                                                                   | Recommendation                                                                             |
-| <3.3 mEq/L                                                                  | Hold insulin infusion and give 40 mEq K+ per<br>hour IV until the plasma K+ >3.3<br>mEq/L. |
-| 3.3–4.0 mEq/L                                                               | Give 20 mEq K+ per<br>hour IV.                                                             |
-| 4.0–5.5 mEq/L                                                               | Give 10 mEq K+ per<br>hour IV.                                                             |
-| >5.5 mEq/L                                                                  | Check plasma K+ every<br>2 hours.                                                          |
+- Depletion of glycogen stores and starvation suppress insulin secretion while markedly elevating counter-regulatory hormones (glucagon, cortisol, growth hormone, epinephrine), unleashing vigorous lipolysis.
+- Hepatic oxidation of ethanol via alcohol dehydrogenase and acetaldehyde dehydrogenase produces massive quantities of NADH, heavily driving the reduction of acetoacetate to $\beta$-hydroxybutyrate and promoting pyruvate conversion to lactate.
+- Volume contraction from protracted vomiting limits renal perfusion, impairing the urinary clearance of circulating ketoacid anions.
 
-From Reference 49.
+### Clinical Presentation and Diagnostic Findings
 
-#### *Phosphate*
+Patients present malnourished, tachypneic, and dehydrated. Mixed acid-base disorders are the hallmark of AKA:
 
-Phosphate depletion is also common in DKA, and averages 1–1.5 mmol/kg (58). However, phosphate replacement has no documented benefit in DKA, and is not recommended unless the phosphate level falls to <1 mg/dL (47,48,58). (See Chapter 38 for recommendations on phosphate repletion.)
+- High anion gap metabolic acidosis from ketonemia.
+- Metabolic alkalosis secondary to gastric hydrochloric acid loss from vomiting.
+- Respiratory alkalosis triggered by pain, hepatic disease, or alcohol withdrawal.
 
-#### *Bicarbonate*
+Arterial pH can therefore vary from mild acidemia to frank alkalemia. Ketonemia is severe, but nitroprusside tests are notoriously false-negative due to the overwhelming predominance of $\beta$-hydroxybutyrate. Blood ethanol concentrations are frequently zero at admission.
 
-Bicarbonate therapy has no documented benefit in DKA, and is not recommended as a routine measure (47,48).
+### Treatment Strategy
 
-## **Monitoring Acid-Base Status**
+The management of AKA is elegant and straightforward:
 
-Normalization of the anion gap is considered evidence that the ketonemia has resolved. The plasma HCO<sup>3</sup> can remain in the acidotic range if isotonic saline is used as the resuscitation fluid, because the high chloride concentration (154 mEq/L) creates a hyperchloremic (normal anion gap) metabolic acidosis that temporarily replaces the high anion gap acidosis from the ketonemia. This resolves when the intravenous infusion is slowed, and should not be a problem if balanced crystalloid fluids are used.
+- **Dextrose and Saline Resuscitation:** Infusion of 5% dextrose in normal saline (or balanced crystalloids) reverses the underlying metabolic defect. Circulating glucose stimulates endogenous pancreatic insulin release, shutting down adipose lipolysis and hepatic ketogenesis. Volume repletion restores glomerular filtration, enabling rapid renal excretion of ketoacids.
+- **Thiamine Administration:** Parenteral thiamine (100–500 mg IV) must be administered concurrently with or prior to glucose infusions to prevent precipitating acute Wernicke-Korsakoff encephalopathy in thiamine-depleted patients.
+- **Electrolyte Repletion:** Aggressively correct concurrent hypokalemia, hypophosphatemia, and hypomagnesemia.
 
-## **ALCOHOLIC KETOACIDOSIS**
+### Concluding Principles
 
-Alcoholic ketoacidosis (AKA) is a complex acid base disorder that occurs in chronic, malnourished alcoholics, and typically appears 1 to 3 days after a period of heavy binge drinking (59,60). Several mechanisms are involved, including reduced nutrient intake (which initiates lipolysis and ketogenesis), hepatic oxidation of ethanol (which generates NADH and enhances βhydroxybutyrate and lactate formation), and dehydration (which impairs ketone excretion in the
-
-urine).
-
-## **Clinical Features**
-
-Patients with AKA appear debilitated, and typically present with nausea, vomiting, and abdominal pain (59). Electrolyte abnormalities are common, particularly the *hypo's* (e.g., hyponatremia, hypokalemia, hypophosphatemia, hypomagnesemia, hypoglycemia). Mixed acid base disorders are common in AKA, with a high anion gap metabolic acidosis from the ketonemia and mild elevations in plasma lactate, along with a metabolic alkalosis from vomiting. Acidemia is usually mild, and some patients are alkalemic (from protracted vomiting) (60).
-
-## **Diagnosis**
-
-The diagnosis of AKA is suggested by the patient history (i.e., a debilitated alcoholic with a recent bout of binge drinking), along with evidence of dehydration, an elevated anion gap, and the presence of ketones in the blood or urine without hyperglycemia. However, *the nitroprusside reaction for detecting ketones can be negative in AKA*, as shown in [Figure](#page-9-0) 32.4. The oxidation of ethanol in the liver generates NADH, and this favors the conversion of acetoacetate to βhydroxybutyrate, which results in a low concentration of acetoacetate in blood and urine. Lactate elevations may be present, but are generally mild, and blood ethanol levels can be negative (59). Patients often present with abdominal pain, and pancreatitis should be ruled out.
-
-## **Management**
-
-The management of AKA is notable for its simplicity; i.e., infusion of dextrose-containing saline solutions is usually all that is required. The glucose infusion is needed to correct the acidosis (59,60), while the infused volume corrects volume loss and promotes the renal clearance of ketones. The ketoacidosis usually resolves within 24 hours. Other electrolyte deficiencies are corrected as needed, and thiamine supplementation is recommended because glucose infusions can deplete marginal thiamine reserves (59). (See Chapter 48 for more on thiamine deficiency and replacement.)
-
-## **A FINAL WORD**
-
-## **Don't Focus on the Acidosis**
-
-There are two points in this chapter that deserve emphasis:
-
-- 1. The problem with lactic acidosis and ketoacidosis is not the acidosis, but the underlying condition causing the problem. As a result, the management of these conditions should focus on correcting the underlying cause, and not correcting the acidosis.
-- 2. Bicarbonate is not a buffer in the physiological pH range, but is simply an end-product of CO<sup>2</sup> transport in blood. As such, it is an ineffective (and potentially harmful) alkalinizing agent.
-
-#### *References*
-
-<span id="page-13-0"></span>*a.* Whitehead AN. *Essays in Science and Philosophy*. Philosophical Library, 1948.
+- Lactic acidosis and ketoacidosis represent manifestations of underlying systemic illness rather than direct causes of mortality. Therapeutic efforts must focus entirely on resolving the primary metabolic driver.
+- Sodium bicarbonate is an ineffective biological buffer at physiological pH and introduces substantial hazards, including paradoxical cellular acidification and hypocalcemia.
+</div></details>

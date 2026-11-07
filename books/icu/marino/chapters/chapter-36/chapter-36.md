@@ -1,257 +1,416 @@
-# Chapter 36
+# Potassium
 
-# **Potassium**
+> *No knowledge can be more satisfactory to a man than that of his own frame, its parts, their functions and actions.*  
+> — Thomas Jefferson
 
-*No knowledge can be more satisfactory to a man than that of his own frame, its parts, their functions and actions.*
+<details class="med-details" open><summary>
 
-Thomas Jefferson (*[a](#page-11-0)*)
+## Executive Summary</summary><div class="details-content">
 
-The last chapter introduced the notion that the ocean served as extracellular fluid for the first unicellular organisms. Seawater is essentially a saline solution that is rich in sodium and chloride, and "poor" in potassium, similar to our extracellular fluid. Why there is so little potassium in seawater is not entirely explained, but the paucity of potassium in our extracellular fluid is the consequence of a membrane pump that keeps potassium in cells. About 98% of the total body potassium is located inside cells, and only 2% remains in the extracellular fluid ([1–](#page-11-1)[3\)](#page-11-2). As a result, monitoring the plasma (extracellular) potassium level as an index of total body potassium is like evaluating an iceberg by its tip. With this limitation in mind, this chapter describes the causes and consequences of abnormalities in the plasma potassium concentration.
+### Clinical Insights into Potassium Homeostasis
 
-## **POTASSIUM BASICS**
+- **The Cellular Iceberg:** Approximately 98% of total body potassium is sequestered within the intracellular fluid ($140\text{–}150\text{ mEq/L}$), while only 2% resides in the extracellular space ($3.5\text{–}5.0\text{ mEq/L}$). Total plasma potassium represents a mere $15\text{ mEq}$ ($0.4\%$ of total body stores) in a $70\text{ kg}$ adult. Serum potassium concentration reflects the visible tip of a vast intracellular reservoir.
+- **Curvilinear Relationship:** The relationship between serum potassium and total body potassium is distinctly non-linear. In potassium depletion, a $1\text{ mEq/L}$ drop in serum potassium represents a systemic deficit of $200\text{–}400\text{ mEq}$. Conversely, in potassium excess, a $1\text{ mEq/L}$ rise requires only a $100\text{–}200\text{ mEq}$ surplus. The systemic shift is twofold greater in hypokalemia than in hyperkalemia.
+- **Transcellular Potassium Redistribution:** Beta-2 adrenergic stimulation, insulin, systemic alkalosis, and hypothermia drive potassium into cells. Acidosis, alpha-adrenergic stimulation, cell lysis (rhabdomyolysis, tumor lysis syndrome), succinylcholine, and digitalis toxicity promote transcellular efflux.
+- **Hypokalemia and Diuretic Therapy:** Diuretics represent the predominant cause of hypokalemia in critical care. Renal potassium wasting is severely aggravated by concurrent magnesium depletion. Uncorrected hypomagnesemia impairs tubular $\text{Na}^+/\text{K}^+$-ATPase activity, rendering hypokalemia completely refractory to potassium repletion until magnesium is replenished.
+- **Pseudohyperkalemia (Factitious Hyperkalemia):** In vitro release of potassium from damaged formed blood elements causes spurious elevations. Common culprits include mechanical trauma during pneumatic tube transport, excessive syringe vacuum, fist-clenching during phlebotomy, thrombocytosis ($> 500 \times 10^9\text{/L}$), and severe leukocytosis.
+- **Fallacy of ECG Changes in Hyperkalemia:** There is no predictable relationship between serum potassium levels and the presence of electrocardiographic abnormalities. Up to 60% of patients with serum $\text{K}^+ > 7.0\text{ mEq/L}$ lack classic peaked T waves or conduction disturbances. Clinical urgency is dictated by electrocardiographic instability rather than nominal concentration alone.
+- **Triphasic Emergency Protocol for Severe Hyperkalemia:**
+  1. *Membrane Stabilization:* $10\%$ calcium gluconate ($10\text{ mL}$ IV over 3 minutes) immediately antagonizes cardiac depolarization. Calcium chloride ($10\%$, $10\text{ mL}$) delivers three times more elemental calcium ($270\text{ mg}$ vs. $90\text{ mg}$) and is preferred in circulatory collapse.
+  2. *Intracellular Shifting:* Regular insulin ($10\text{ units}$ IV) paired with $50\text{ mL}$ of $50\%$ dextrose, supplemented by high-dose inhaled albuterol ($10\text{–}20\text{ mg}$). Sodium bicarbonate is ineffective in the absence of metabolic acidosis and binds calcium.
+  3. *Active Elimination:* Novel selective cation exchangers like sodium zirconium cyclosilicate (Lokelma, $10\text{ g}$ orally) provide rapid gastrointestinal clearance without the risk of colonic necrosis seen with sodium polystyrene sulfonate (Kayexalate). Emergent hemodialysis remains the definitive clearance modality, removing $1\text{ mEq/L}$ in 1 hour and $2\text{ mEq/L}$ in 3 hours.
+</div></details>
 
-### **Potassium Distribution**
+<details class="med-details" open><summary>
 
-The intracellular preponderance of potassium is the result of a sodium–potassium (Na+–K+) exchange pump on cell membranes that moves Na+ out of cells and moves K+ into cells in a 3:2 ratio ([1\)](#page-11-1). One of the major roles of this pump is to create a voltage gradient across cell membranes in "excitable" tissues (i.e., nerves and muscle), which allows for the transmission of electrical impulses in these tissues.
+## Potassium Homeostasis and Distribution</summary><div class="details-content">
 
-The marked difference between intracellular and extracellular K+ is illustrated in [Figure](#page-1-0) 36.1. The total body potassium in healthy adults is about 50–55 mEq per kg body weight ([1\)](#page-11-1). Using the conservative estimate of 50 mg/kg in a 70 kg adult yields a total body potassium of 3,500 mEq, with 70 mEq (2%) in extracellular fluid. Because the plasma accounts for about 20% of the extracellular fluid, the *potassium content of plasma* will be about 15 mEq, which *is only 0.4% of the total body potassium*. This emphasizes the limited size of the K+ pool that is available for evaluating total body K+.
+<details class="med-details" open><summary>
 
-## **Serum Potassium**
+### Physiological Distribution and the Cellular Iceberg</summary><div class="details-content">
 
-The relationship between total body K+ and serum (plasma) K+ is shown in [Figure](#page-2-0) 36.2 ([4,](#page-11-3)[5\)](#page-11-4). Note the curvilinear shape of the curve, with the flat portion of the curve in the region of potassium deficiency. In an average-sized adult with a normal serum K+ of 4 mEq/L, a total body K+ deficit of 200–400 mEq is required to produce a decrease in plasma K+ of 1 mEq/L, while a total body K+ excess of 100–200 mEq is required to produce a similar (1 mEq/L) increase in plasma K+ ([5\)](#page-11-4). Therefore, *for a given change in serum K+, the change in total body K+ is twofold greater with K+ depletion (hypokalemia) than with K+ excess (hyperkalemia)*. The larger K+ deficit associated with hypokalemia is due to the large pool of intracellular K+ that can replenish extracellular K+ (and help to maintain serum K+) when K+ is lost.
+The steep concentration gradient between intracellular and extracellular potassium is maintained by the active $\text{Na}^+/\text{K}^+$-ATPase pump present on all cell membranes. This transport mechanism continuously extrudes three sodium ions from the cell in exchange for two potassium ions pumped inward.
 
-<span id="page-1-0"></span>![](_page_1_Figure_2.jpeg)
+The primary physiological role of this transmembrane gradient is the generation of a resting membrane potential (approximately $-70\text{ to } -90\text{ mV}$) across excitable tissues (nerves, skeletal muscle, and myocardium), enabling the rapid propagation of electrical action potentials.
 
-**FIGURE 36.1** IIllustration of the marked difference between intracellular and extracellular potassium in a 70 kg adult with an estimated total body potassium of 50 mEq/kg. Each gold bar represents 100 mEq of potassium.
+<span id="fig-36-1"></span>
+![FIGURE 36.1](images/_page_1_Figure_2.jpeg)
 
-## **Potassium Excretion**
+**FIGURE 36.1** Illustration of the marked difference between intracellular and extracellular potassium in a 70 kg adult with an estimated total body potassium of 50 mEq/kg. Each gold bar represents 100 mEq of potassium.
 
-Small amounts of K+ are lost in stool (5–10 mEq/day) and sweat (0–10 mEq/day), but the majority of K+ loss is in urine (40–120 mEq/day, depending on K+ intake) [\(1](#page-11-1)).
+#### Total Body Potassium Quantitation
 
-#### *Renal Excretion*
+Total body potassium in healthy adults averages $50\text{–}55\text{ mEq/kg}$ of body weight. In a standard $70\text{ kg}$ adult:
 
-Most of the K+ that is filtered at the glomerulus is passively reabsorbed in the proximal tubules (along with sodium and water), and K+ is then secreted in the distal tubules and collecting ducts ([1\)](#page-11-1). Potassium excretion in urine is primarily a function of K+ secretion in the distal nephron, which is controlled by plasma K+ and (primarily by) aldosterone. When renal function is normal, the capacity for renal K+ excretion is great enough to prevent a sustained rise in serum K+ in response to an increased K+ load [\(1](#page-11-1)).
+- **Total Body Potassium:** $\approx 3,500\text{ mEq}$ ($100\%$).
+- **Intracellular Compartment:** $\approx 3,430\text{ mEq}$ ($98\%$), with an intracellular concentration of $140\text{–}150\text{ mEq/L}$.
+- **Extracellular Compartment:** $\approx 70\text{ mEq}$ ($2\%$), maintaining a normal extracellular concentration of $3.5\text{–}5.0\text{ mEq/L}$.
+- **Intravascular Plasma Volume:** Plasma accounts for roughly 20% of the extracellular fluid, containing only $\approx 14\text{–}15\text{ mEq}$ of potassium, which constitutes a mere **0.4% of total body potassium**.
 
-**ALDOSTERONE:** Aldosterone is a mineralocorticoid that is released by the adrenal cortex in
+Because plasma represents such an infinitesimal fraction of the systemic potassium reservoir, monitoring serum potassium is akin to evaluating an iceberg by inspecting its visible tip above the waterline.
+</div></details>
 
-response to an increase in plasma K+ (and angiotensin II), and it stimulates K+ secretion in the distal nephron (and hence increases urinary K+ excretion). Potassium secretion in the distal nephron is linked to sodium reabsorption, so aldosterone also promotes sodium and water retention. The diuretic *spironolactone* acts by blocking the actions of aldosterone in the kidneys. As a result, spironolactone is a *potassium-sparing diuretic*.
+<details class="med-details" open><summary>
 
-<span id="page-2-0"></span>![](_page_2_Figure_1.jpeg)
+### Serum Potassium and the Curvilinear Pool</summary><div class="details-content">
 
-**FIGURE 36.2** Relationship between the serum potassium concentration and total body potassium. Redrawn from Reference 4.
+The correlation between extracellular serum potassium concentration and systemic total body stores follows a distinct non-linear curve.
 
-## **HYPOKALEMIA**
+<span id="fig-36-2"></span>
+![FIGURE 36.2](images/_page_2_Figure_1.jpeg)
 
-Hypokalemia (serum K+ < 3.5 mEq/L) can be the result of K+ movement into cells (transcellular shift), or K+ depletion from renal and extrarenal losses ([3–](#page-11-2)[6\)](#page-11-5).
+**FIGURE 36.2** Relationship between the serum potassium concentration and total body potassium.
 
-## **Transcellular Shift**
+#### Asymmetry of Depletion and Excess
 
-The movement of K<sup>+</sup> into cells is facilitated by β<sup>2</sup> -adrenergic receptors on cell membranes in muscle, and this explains the decrease in serum K<sup>+</sup> associated with *inhaled β<sup>2</sup> -agonist bronchodilators* (e.g., albuterol) [\(7](#page-11-6)). This effect is mild (≤0.5 mEq/L) in the usual therapeutic doses ([7\)](#page-11-6), but is more significant when inhaled β<sup>2</sup> -agonists are used in combination with diuretics
+As demonstrated in Figure 36.2, the curve flattens significantly in the hypokalemic range:
 
-([8\)](#page-11-7). Other factors that promote K+ movement into cells include *alkalosis* (respiratory or metabolic), *hypothermia* (accidental or induced), and *insulin*. Alkalosis has a variable and unpredictable effect on serum K+ [\(9](#page-11-8)). Hypothermia causes a transient drop in serum K+ that resolves on rewarming [\(10](#page-11-9)).
+- In an adult with a baseline serum $\text{K}^+ = 4.0\text{ mEq/L}$, a total body potassium deficit of **$200\text{–}400\text{ mEq}$** is required to lower serum potassium by $1.0\text{ mEq/L}$.
+- In contrast, a total body potassium excess of only **$100\text{–}200\text{ mEq}$** is sufficient to produce a matching $1.0\text{ mEq/L}$ rise in serum potassium.
 
-### **Potassium Depletion**
+Consequently, **for an identical numerical change in serum potassium, the systemic shift in total body potassium is twofold greater with hypokalemia than with hyperkalemia**. The larger systemic deficit required to produce hypokalemia is buffered by the enormous intracellular reservoir, which donates potassium to the extracellular space in an effort to maintain circulating concentrations.
+</div></details>
 
-Potassium depletion can be the result of K+ loss via the kidneys or gastrointestinal tract. The site of K+ loss (renal or extrarenal) is usually obvious, but can be identified by measuring spot urine potassium and chloride concentrations, as shown in [Figure](#page-3-0) 36.3.
+<details class="med-details" open><summary>
 
-## **Renal Potassium Loss**
+### Renal and Extrarenal Potassium Excretion</summary><div class="details-content">
 
-The leading cause of renal K+ loss is *diuretic therapy*. Other causes likely to be seen in the ICU include nasogastric drainage, alkalosis, and magnesium depletion. Nasogastric drainage has a low concentration of K+ (10–15 mEq/L), but the resulting loss of volume and H+ promotes K+ loss in the urine. The urine chloride is low (<15 mEq/L) with nasogastric drainage and alkalosis, and it is high (>25 mEq/L) with diuretic therapy and magnesium depletion. *Magnesium depletion* impairs K+ reabsorption in the renal tubules and *may play a very important role in promoting K+ depletion* in critically ill patients, particularly those receiving diuretics [\(11](#page-11-10)).
+Potassium balance is maintained by matching daily systemic intake with biological excretion:
 
-<span id="page-3-0"></span>![](_page_3_Figure_5.jpeg)
+- **Gastrointestinal Loss:** Normal stool eliminates only $5\text{–}10\text{ mEq/day}$.
+- **Cutaneous Loss:** Sweat accounts for $0\text{–}10\text{ mEq/day}$.
+- **Renal Excretion:** The kidneys provide the primary regulatory pathway, excreting $40\text{–}120\text{ mEq/day}$ in accordance with dietary intake.
 
-**FIGURE 36.3** Evaluation to identify the site of potassium loss.
+#### Mechanisms of Renal Potassium Handling
 
-### **Extrarenal Potassium Loss**
+Freely filtered at the glomerulus, approximately $90\%$ of filtered potassium is obligatorily reabsorbed in the proximal convoluted tubule and the thick ascending limb of the loop of Henle alongside sodium and water.
 
-The major cause of extrarenal K+ loss is *diarrhea*. Normal K+ loss in stool is only 5–10 mEq daily. In secretory and inflammatory diarrhea, the concentration of K+ in stool is 15–40 mEq/L, and the daily stool volume can reach 10 liters in severe cases. Therefore, K+ losses can reach 400 mEq daily in severe cases of inflammatory or secretory diarrhea [\(12](#page-11-11)).
+Final urinary potassium excretion is governed by distal tubular secretion within the cortical collecting ducts, carried out by principal cells and modulated by two factors:
 
-## **Clinical Manifestations**
+- **Aldosterone:** Stimulates apical epithelial sodium channels (ENaC) and basolateral $\text{Na}^+/\text{K}^+$-ATPase in principal cells, accelerating luminal sodium reabsorption and driving electronegative potassium secretion.
+- **Distal Sodium Delivery and Flow Rate:** High tubular flow rates and increased luminal sodium delivery wash away secreted potassium, maintaining a steep chemical gradient that facilitates continued potassium excretion.
 
-Severe hypokalemia (serum K+ < 2.5 mEq/L) can be associated with diffuse muscle weakness ([3\)](#page-11-2), but in most cases, hypokalemia is asymptomatic. Abnormalities in the ECG are the major manifestation of hypokalemia, and can be present in 50% of cases ([13\)](#page-11-12). The ECG abnormalities include prominent U waves (more than 1 mm in height), flattening and inversion of T waves, and prolongation of the QT interval. However, these changes are not specific for hypokalemia; i.e., the T wave changes and U waves can be seen with left ventricular hypertrophy, and QT prolongation has a multitude of potential offenders.
+When renal function is intact, the tubular secretory reserve is substantial, capable of clearing massive exogenous potassium loads to avert sustained systemic hyperkalemia.
+</div></details>
+</div></details>
 
-#### *Arrhythmias*
+<details class="med-details" open><summary>
 
-Contrary to popular belief, *hypokalemia alone is not a risk for serious arrhythmias* [\(3](#page-11-2)). However, hypokalemia can add to the risk of serious arrhythmias from other conditions (e.g., myocardial ischemia) ([3\)](#page-11-2).
+## Hypokalemia: Etiology and Clinical Evaluation</summary><div class="details-content">
 
-## **Management of Hypokalemia**
+<details class="med-details" open><summary>
 
-The first concern in hypokalemia is to eliminate or treat any condition that promotes transcellular potassium shifts (e.g., alkalosis) ([3\)](#page-11-2). If the hypokalemia is due to K+ depletion, proceed as described next.
+### Transcellular Shifts</summary><div class="details-content">
 
-### *Estimate Potassium Deficits*
+Hypokalemia ($\text{K}^+ < 3.5\text{ mEq/L}$) can develop rapidly from acute transcellular redistribution without any actual loss of total body potassium.
 
-About 10% of total body K+ is lost for every 1 mEq/L decrease in serum K+ [\(13](#page-11-12)). For a 70 kg adult with a normal total body K+ of 50 mEq/kg, the estimated K+ deficits associated with progressive hypokalemia are shown in [Table](#page-4-0) 36.1. Note that even mild hypokalemia (serum K+ = 3 mEq/L) is associated with a considerable K+ deficit (175 mEq).
+#### Mediators of Intracellular Redistribution
 
-<span id="page-4-0"></span>
+- **Beta-2 Adrenergic Agonists:** Stimulation of beta-2 adrenergic receptors activates adenylate cyclase and protein kinase A, directly phosphorylating and accelerating the membrane $\text{Na}^+/\text{K}^+$-ATPase pump. Inhaled bronchodilators (e.g., albuterol) lower serum potassium by $0.2\text{–}0.5\text{ mEq/L}$ at standard doses, but cumulative high-dose nebulization causes substantial hypokalemia.
+- **Insulin:** Activates $\text{Na}^+/\text{K}^+$-ATPase independently of glucose transport, driving potassium into skeletal muscle and hepatic parenchyma.
+- **Systemic Alkalosis:** Extracellular proton deficits cause intracellular protons to exit cells in exchange for extracellular potassium ions entering cells. Every $0.1$ unit increase in arterial pH reduces serum potassium by approximately $0.3\text{–}0.5\text{ mEq/L}$.
+- **Hypothermia:** Accidental exposure or therapeutic temperature management induces transient intracellular potassium sequestration, which spontaneously reverses during active rewarming.
+</div></details>
 
-| TABLE<br>36.1    | Estimated<br>Potassium<br>Deficits<br>in<br>Hypokalemia† |                  |                     |
-|------------------|----------------------------------------------------------|------------------|---------------------|
-| Serum K+ (mEq/L) | K+ Deficit<br>(mEq)                                      | Serum K+ (mEq/L) | K+ Deficit<br>(mEq) |
-| 3.4              | 35                                                       | 2.9              | 210                 |
-| 3.3              | 70                                                       | 2.8              | 245                 |
-| 3.2              | 105                                                      | 2.7              | 280                 |
-| 3.1              | 140                                                      | 2.6              | 315                 |
-| 3.0              | 175                                                      | 2.5              | 350                 |
+<details class="med-details" open><summary>
 
-<sup>†</sup>Estimates based on a lean body weight of 70 kg and a total body K+ of 50 mEq/kg.
+### Renal and Extrarenal Potassium Losses</summary><div class="details-content">
 
-## *Potassium Replacement*
+True potassium depletion results from abnormal losses through the kidneys or the gastrointestinal tract.
 
-**FLUIDS:** The usual replacement fluid is potassium chloride, which is available as a concentrated solution (1–2 mEq/mL) in ampules containing 10, 20, 30, and 40 mEq of potassium. These solutions are *extremely hyperosmotic* (the 2 mEq/mL solution has an osmolarity of 4,000 mosm/L) and *must be diluted* ([14\)](#page-11-13). A potassium phosphate solution is also available that contains 4.5 mEq potassium and 3 mmol phosphate per mL, and is preferred by some for potassium replacement in diabetic ketoacidosis (because of the phosphate depletion that accompanies ketoacidosis).
+<span id="fig-36-3"></span>
+![FIGURE 36.3](images/_page_3_Figure_5.jpeg)
 
-**RATE OF REPLACEMENT:** The standard method of intravenous K+ replacement is to add 20 mEq of K+ to 100 mL of isotonic saline and infuse over 1 hour [\(15](#page-11-14)). The *maximum rate* of intravenous potassium replacement is usually set at *20 mEq/hr* [\(15](#page-11-14)), but dose rates of 40 mEq/hr may be necessary for severe hypokalemia, and *dose rates as high as 100 mEq/hr have been used safely* (16). Infusion through a large, central vein is preferred, if possible, because of the irritating properties of the hyperosmotic KCL solutions. However, delivery into the superior vena cava is not recommended if the desired rate of replacement exceeds 20 mEq/hr because there is a (poorly documented) risk of producing asystole.
+**FIGURE 36.3** Evaluation algorithm to identify the site of potassium loss based on urine potassium and chloride concentrations.
 
-**RESPONSE:** The serum K+ may be slow to correct initially, as predicted by the flat portion of the curve in [Figure](#page-2-0) 36.2. If the hypokalemia is resistant or refractory to K+ replacement, magnesium depletion should be considered. Magnesium depletion promotes urinary K+ loss (as described earlier), and *in patients who are magnesium deficient, hypokalemia is often resistant to K+ replacement until the magnesium is repleted* (17). Magnesium deficiency may play an important role in diuretic-induced hypokalemia, as described in the next chapter.
+#### Differentiation by Spot Urinary Indices
 
-## **HYPERKALEMIA**
+As outlined in Figure 36.3, spot urinary potassium and chloride concentrations identify the anatomical site and mechanism of loss:
 
-While hypokalemia is often well tolerated, hyperkalemia (serum K+ > 5.5 mEq/L) can be a life threatening condition
+- **Renal Potassium Wasting:** Defined by spot urine $\text{K}^+ > 20\text{ mEq/L}$.
+  - *Diuretic Therapy:* Loop and thiazide diuretics enhance distal sodium delivery and flow rate while activating secondary hyperaldosteronism, provoking massive kaliuresis. Urine chloride is elevated ($> 25\text{ mEq/L}$).
+  - *Nasogastric Suction and Vomiting:* Gastric secretions contain only $10\text{–}15\text{ mEq/L}$ of potassium. However, loss of hydrochloric acid provokes metabolic alkalosis and volume contraction, which stimulates secondary hyperaldosteronism and drives marked *renal* potassium wasting. Urine chloride is characteristically low ($< 15\text{ mEq/L}$).
+  - *Magnesium Depletion:* Concomitant hypomagnesemia impairs tubular $\text{Na}^+/\text{K}^+$-ATPase function and removes inhibitory control over renal outer medullary potassium (ROMK) channels, allowing unchecked potassium leakage into urine.
+- **Extrarenal Potassium Losses:** Defined by spot urine $\text{K}^+ < 20\text{ mEq/L}$ (reflecting appropriate renal conservation).
+  - *Diarrhea:* Secretory and inflammatory diarrheal stool contains $15\text{–}40\text{ mEq/L}$ of potassium. In severe enteritis with voluminous output (up to $10\text{ L/day}$), fecal potassium losses can reach $400\text{ mEq/day}$.
+</div></details>
 
-## **Mechanisms**
+<details class="med-details" open><summary>
 
-Hyperkalemia can be the result of potassium release from cells (transcellular shift), or impaired renal excretion of potassium. If the source of the hyperkalemia is unclear, a spot urine K+ can be useful, as *a low urine K+ (<30 mEq/L) is evidence of impaired renal excretion* (18). If the hyperkalemia is unexpected, the condition described next should be considered.
+### Clinical Manifestations and Arrhythmias</summary><div class="details-content">
 
-## *Factitious Hyperkalemia*
+Mild hypokalemia ($3.0\text{–}3.5\text{ mEq/L}$) is generally asymptomatic. Severe hypokalemia ($< 2.5\text{ mEq/L}$) hyperpolarizes cell membranes, impairing neuromuscular transmission and causing generalized muscle weakness, hyporeflexia, paralytic ileus, and respiratory insufficiency due to diaphragmatic fatigue.
 
-Hyperkalemia can be present *ex vivo* (i.e., in the blood sample), but not *in vivo* (i.e., in the bloodstream) when K+ is released from blood cells that are damaged when the blood specimen is obtained. This *factitious hyperkalemia* (also called "pseudohyperkalemia") usually originates from hemolysis of red blood cells, but platelets can contribute in the setting of thrombocytosis (platelet count >500 × 109/L), and severe leukocytosis can be a factor in patients with lymphoproliferative disorders (19).
+#### Electrocardiographic Findings
 
-The following factors have been identified as contributing to factitious hyperkalemia (19): (*a*) the use of fist-clenching to help identify veins (which can release K+ from skeletal muscle)
+Electrocardiographic changes appear in approximately 50% of patients with significant hypokalemia:
 
-(20), (*b*) the use of excessive suction (e.g., with "vacutainers") to withdraw the blood specimen, (*c*) trauma to the specimen during transport in pneumatic tube systems (21), and (*d*) delays in processing the blood specimen.
+- Depression and flattening of T waves.
+- Progressive appearance of prominent U waves ($> 1\text{ mm}$ amplitude), frequently merging with T waves in precordial leads.
+- Apparent prolongation of the QT interval (more accurately termed the QU interval).
+- ST segment depression.
 
-Factitious hyperkalemia should be suspected when there is no apparent reason for hyperkalemia (the lab is often unable to identify these cases). In this situation, you should draw the blood specimen yourself, with attention to minimizing or avoiding potential contributing factors.
+#### Arrhythmogenic Risk
 
-#### *Transcellular Shift:*
+Contrary to widespread clinical belief, **hypokalemia in isolation rarely triggers malignant ventricular arrhythmias** in the absence of structural heart disease. However, hypokalemia significantly augments myocardial electrical instability in the presence of acute myocardial ischemia, heart failure, left ventricular hypertrophy, or concurrent digitalis administration.
+</div></details>
+</div></details>
 
-The conditions associated with K+ movement out of cells include acidosis, rhabdomyolysis, tumor lysis syndrome, drugs, and blood transfusions.
+<details class="med-details" open><summary>
 
-**ACIDOSIS:** The presumed mechanism for the relationship between acidosis and hyperkalemia is competition between H+ and K+ for the same site on the membrane pump that moves K+ into cells. However, the causal link between acidosis and hyperkalemia is being questioned because lactic acidosis is not associated with hyperkalemia [\(9](#page-11-8)), and respiratory acidosis has an inconsistent association with hyperkalemia [\(9](#page-11-8)).
+## Management of Hypokalemia</summary><div class="details-content">
 
-**TUMOR LYSIS SYNDROME:** Tumor lysis syndrome is an acute, life-threatening condition that appears within 7 days after the initiation of cytotoxic therapy for selected malignancies (e.g., non-Hodgkin lymphoma). Characteristic features include the combination of hyperkalemia, hyperphosphatemia, hypocalcemia, and hyperuricemia, often accompanied by acute kidney injury (22). Hyperkalemia is the most immediate threat to life.
+<details class="med-details" open><summary>
 
-**DRUGS:** The drugs that promote K+ movement out of cells are listed in [Table](#page-6-0) 36.2. Digitalis inhibits the membrane Na+-K+ exchange pump, but hyperkalemia occurs only with acute (not chronic) digitalis toxicity (23). *Succinylcholine* is an ultra short-acting neuromuscular blocking agent that inhibits the membrane Na+–K+ exchange pump (a depolarizing effect). This normally results in a minor increase in potassium (<1 mEq/L) that lasts 5–10 minutes (24), but lifethreatening increases in serum K+ have been reported when succinylcholine is used in patients with spinal cord injury; an effect attributed to "denervation hypersensitivity" to depolarizing agents.
+### Estimation of Potassium Deficits</summary><div class="details-content">
 
-<span id="page-6-0"></span>
+Management begins by eliminating conditions that drive transcellular shifts (such as alkalosis or excessive beta-agonist therapy). When hypokalemia reflects true depletion, replacement must be guided by estimated systemic deficits.
 
-| TABLE<br>36.2                              | Drugs<br>that<br>Promote<br>Hyperkalemia                                   |  |
-|--------------------------------------------|----------------------------------------------------------------------------|--|
-| Promote Transcellular Shift                | Reduce Renal Excretion                                                     |  |
-| β-Blockers<br>Digitalis<br>Succinylcholine | ACE inhibitors<br>ARBs<br>Amiloride<br>NSAIDs<br>Spironolactone<br>TMP-SMX |  |
+<details class="med-details" open><summary>
 
-ARBs = angiotensive receptor blockers, TMP-SMX = trimethoprim sulfamethoxazole.
+#### <span id="tbl-36-1"></span>TABLE 36.1 Estimated Potassium Deficits in Hypokalemia</summary><div class="details-content">
 
-## *Impaired Renal Excretion*
+| Serum $\text{K}^+$ ($\text{mEq/L}$) | $\text{K}^+$ Deficit ($\text{mEq}$) | Serum $\text{K}^+$ ($\text{mEq/L}$) | $\text{K}^+$ Deficit ($\text{mEq}$) |
+| :---: | :---: | :---: | :---: |
+| **3.4** | 35 | **2.9** | 210 |
+| **3.3** | 70 | **2.8** | 245 |
+| **3.2** | 105 | **2.7** | 280 |
+| **3.1** | 140 | **2.6** | 315 |
+| **3.0** | 175 | **2.5** | 350 |
 
-As mentioned earlier, the capacity for urinary K+ excretion is great enough to prevent sustained hyperkalemia after a potassium load [\(1](#page-11-1)). As a result, *hyperkalemia always involves (at least in part) a defect in renal potassium excretion*. This can be the result of renal disease, adrenal insufficiency, or drugs. Adrenal insufficiency impairs renal potassium excretion, but *hyperkalemia is seen only in chronic adrenal insufficiency*.
+*Estimates based on a lean body weight of $70\text{ kg}$ and a baseline total body potassium of $50\text{ mEq/kg}$.*
 
-**DRUGS:** Drugs that impair renal potassium excretion are a common cause of hyperkalemia, and the frequent offenders are listed in [Table](#page-6-0) 36.2 (24–28). All of these agents promote hyperkalemia by inhibiting some part of the renin–angiotensin–aldosterone system. (The exception is trimethoprim-sulfamethoxazole, which directly inhibits potassium secretion in the distal tubules.) Drug-induced hyperkalemia often occurs in combination with K+ supplements or renal insufficiency.
+</div></details>
 
-## **Blood Transfusion**
+As detailed in Table 36.1, approximately $10\%$ of total body potassium is lost for every $1.0\text{ mEq/L}$ drop in serum potassium. Even mild hypokalemia ($\text{K}^+ = 3.0\text{ mEq/L}$) represents a substantial deficit ($175\text{ mEq}$).
+</div></details>
 
-Hyperkalemia is a recognized (but inconsistent) complication of massive blood transfusion (i.e., blood replacement equivalent to the blood volume). The temperature used to store red blood cells (4º C) shuts off the Na+-K+ exchange pump in the erythrocyte cell membrane, and this results in a steady leakage of K+ from the cells (29). The K+ concentration in the supernatant increases steadily as the storage time increases. After 18 days of storage (the average time that blood is stored) the potassium load in one unit of packed red blood cells is 2–3 mEq (29), so massive transfusion (usually at least 6 units of red blood cells) represents a K+ load of at least 12–18 mEq. This is a considerable load, considering that plasma contains about 9–10 mEq of K+ in an average-sized adult.
+<details class="med-details" open><summary>
 
-The potassium load in transfused blood is normally cleared by the kidneys, but when systemic blood flow is compromised (which applies to most patients who need massive blood transfusions), renal K+ excretion is impaired, and the K+ in blood transfusions will accumulate. The transfusion volume needed to produce hyperkalemia will vary, but one study has shown that hyperkalemia begins to appear after transfusion of 7 units of red blood cells (30).
+### Potassium Replacement Regimens and Safety</summary><div class="details-content">
 
-## **Cautopyreiophagia**
+Oral potassium replacement is preferred in stable patients due to its safety and physiologic absorption. In critically ill or symptomatic patients, parenteral therapy is required.
 
-In 1985, a case report was published describing a patient with severe hyperkalemia who was discovered to be ingesting 1,500 burnt match heads daily (a pica) (31). It turns out that burnt match heads are rich in potassium chlorate, and the habit of eating burnt match heads is known as *cautopyreiophagia*. This case is mentioned to demonstrate that anything is possible in clinical practice, and that there is a name for everything.
+#### Intravenous Replacement Solutions
 
-## **Clinical Consequences**
+Potassium chloride ($\text{KCl}$) is the standard preparation for parenteral repletion. Commercial ampules contain concentrated $\text{KCl}$ ($1\text{–}2\text{ mEq/mL}$):
 
-The principal threat with hyperkalemia is slowed impulse transmission in the heart (from depolarization of cardiac muscle), which can progress to heart block and cardiac arrest.
+- Concentrated $\text{KCl}$ solutions are **extremely hyperosmolar** ($2\text{ mEq/mL} = 4,000\text{ mosm/L}$) and are fatal if administered undiluted.
+- Potassium phosphate ($4.5\text{ mEq}$ potassium and $3\text{ mmol}$ phosphate per mL) is preferred in diabetic ketoacidosis to simultaneously treat coexisting phosphate depletion.
 
-<span id="page-8-0"></span>![](_page_8_Figure_0.jpeg)
+#### Standard Infusion Protocol and Limits
+
+- **Standard Regimen:** $20\text{ mEq}$ of $\text{KCl}$ diluted in $100\text{ mL}$ of $0.9\%$ sodium chloride, infused over 1 hour.
+- **Maximum Infusion Rate:** Standard safety guidelines restrict peripheral intravenous repletion to $\le 20\text{ mEq/hr}$.
+- **Emergency Escalation:** In severe symptomatic hypokalemia (e.g., life-threatening arrhythmias, severe quadriplegia), infusion rates of $40\text{ mEq/hr}$ (and up to $100\text{ mEq/hr}$ in extreme resuscitations) have been utilized safely under continuous cardiac monitoring.
+- **Central Venous Administration:** Infusions exceeding $20\text{ mEq/hr}$ should avoid catheter tip positioning in the superior vena cava adjacent to the right atrium, which carries a theoretical risk of producing local hyperkalemic cardiac arrest.
+
+#### Refractory Hypokalemia and Magnesium
+
+Because of the non-linear relationship (Figure 36.2), serum potassium initially corrects slowly as infused ions shift intracellularly.
+
+If hypokalemia proves refractory to aggressive replacement, **concomitant magnesium deficiency must be presumed**. Hypomagnesemia increases renal tubular potassium excretion, and potassium levels will not normalize until magnesium is repleted ($2\text{ g}$ magnesium sulfate IV over 15 minutes).
+</div></details>
+</div></details>
+
+<details class="med-details" open><summary>
+
+## Hyperkalemia: Mechanisms and Etiologies</summary><div class="details-content">
+
+<details class="med-details" open><summary>
+
+### Factitious Hyperkalemia (Pseudohyperkalemia)</summary><div class="details-content">
+
+Factitious hyperkalemia refers to spurious in vitro potassium elevations resulting from cell lysis during or after phlebotomy, while true circulating in vivo potassium remains normal.
+
+#### Contributing Pre-Analytical Factors
+
+- **Mechanical Trauma and Tourniquet Use:** Excessive fist-clenching during venipuncture releases potassium from exercising forearm muscles. Prolonged tourniquet application and high syringe vacuum cause erythrocyte shear injury.
+- **Pneumatic Tube Transport:** Rapid acceleration and deceleration forces in hospital pneumatic tube systems provoke mechanical hemolysis.
+- **Extreme Thrombocytosis and Leukocytosis:** In clotting serum tubes, platelet counts $> 500 \times 10^9\text{/L}$ or white blood cell counts $> 50 \times 10^9\text{/L}$ release massive intracellular potassium during clot retraction.
+
+When hyperkalemia is unexpected and incongruent with the clinical picture, repeat phlebotomy should be performed via gentle venipuncture without fist-clenching or tourniquet stasis, hand-delivered to the laboratory in a heparinized blood-gas syringe for immediate whole-blood analysis.
+</div></details>
+
+<details class="med-details" open><summary>
+
+### Transcellular Shifts and Cell Lysis</summary><div class="details-content">
+
+Rapid efflux of intracellular potassium into the extracellular compartment produces hyperkalemia even in the presence of normal total body potassium stores.
+
+#### Clinical Conditions Driving Transcellular Efflux
+
+- **Severe Metabolic Acidosis:** Mineral (inorganic) acidosis drives $\text{H}^+/\text{K}^+$ exchange across cell membranes. Conversely, organic acidoses (lactic acidosis, ketoacidosis) do not consistently produce transcellular shifts because the conjugate organic anion enters the cell alongside the proton.
+- **Rhabdomyolysis and Trauma:** Massive lysis of skeletal muscle cells releases high concentrations of intracellular potassium directly into the systemic circulation.
+- **Tumor Lysis Syndrome:** Rapid destruction of malignant cells following initiation of cytotoxic chemotherapy (especially in hematologic malignancies) produces a deadly tetrad of hyperkalemia, hyperphosphatemia, hypocalcemia, and hyperuricemia within 7 days.
+- **Pharmacological Shift:** Beta-blockers impair cellular uptake; digitalis toxicity poisons the $\text{Na}^+/\text{K}^+$-ATPase pump; succinylcholine depolarizes muscle membranes, inducing transient potassium release ($< 1\text{ mEq/L}$), which can become catastrophic in patients with denervation hypersensitivity (spinal cord injury, extensive burns).
+</div></details>
+
+<details class="med-details" open><summary>
+
+### Impaired Renal Excretion and Drug-Induced Hyperkalemia</summary><div class="details-content">
+
+Because intact kidneys possess enormous capacity to excrete excess potassium, sustained hyperkalemia almost invariably involves impaired renal tubular excretion.
+
+A spot urinary potassium concentration $< 30\text{ mEq/L}$ in the presence of hyperkalemia confirms inadequate renal elimination. Impairment arises from acute kidney injury, chronic renal failure, or primary adrenal insufficiency.
+
+<details class="med-details" open><summary>
+
+#### <span id="tbl-36-2"></span>TABLE 36.2 Drugs That Promote Hyperkalemia</summary><div class="details-content">
+
+| Mechanism of Hyperkalemia | Implicated Pharmacological Agents |
+| :--- | :--- |
+| **Promote Transcellular Efflux** | • $\beta$-Blockers<br>• Digitalis (acute toxicity)<br>• Succinylcholine |
+| **Impair Renal Potassium Excretion** | • ACE inhibitors (enalapril, lisinopril)<br>• Angiotensin receptor blockers (ARBs: losartan, valsartan)<br>• Aldosterone receptor antagonists (spironolactone, eplerenone)<br>• Epithelial sodium channel blockers (amiloride, triamterene)<br>• Nonsteroidal anti-inflammatory drugs (NSAIDs)<br>• Calcineurin inhibitors (cyclosporine, tacrolimus)<br>• Antimicrobials: Trimethoprim-sulfamethoxazole (TMP-SMX) |
+
+</div></details>
+
+As outlined in Table 36.2, pharmacological agents are the leading iatrogenic driver of impaired potassium excretion in the ICU, primarily through inhibition of the renin-angiotensin-aldosterone axis. Trimethoprim acts as a structural analog of amiloride, directly blocking ENaC channels in the distal tubule.
+</div></details>
+
+<details class="med-details" open><summary>
+
+### Massive Blood Transfusion and Cautopyreiophagia</summary><div class="details-content">
+
+#### Potassium Burden of Stored Blood
+
+Refrigerated storage of packed red blood cells at $4^\circ\text{C}$ disables the erythrocyte $\text{Na}^+/\text{K}^+$-ATPase pump, resulting in steady passive potassium leakage from erythrocytes into extracellular plasma.
+
+- Supernatant potassium rises linearly over time, reaching **$2\text{–}3\text{ mEq}$ per unit** after 18 days of storage (the average storage age).
+- Massive transfusion ($\ge 6\text{ units}$) introduces an acute exogenous potassium burden of $12\text{–}18\text{ mEq}$ into an intravascular plasma volume that normally contains only $14\text{ mEq}$.
+- In hypoperfused patients with compromised renal clearance, hyperkalemia routinely emerges after transfusion of $\ge 7\text{ units}$ of packed red blood cells.
+
+#### Cautopyreiophagia
+
+A fascinating clinical curiosity is *cautopyreiophagia*—the compulsive ingestion of burnt match heads (a form of pica). Burnt match heads are richly coated with potassium chlorate ($1,500\text{ heads/day}$ reported in literature), illustrating that extreme exogenous ingestion can singlehandedly overwhelm renal secretory capacity.
+</div></details>
+</div></details>
+
+<details class="med-details" open><summary>
+
+## Cardiotoxicity and Emergency Management</summary><div class="details-content">
+
+<details class="med-details" open><summary>
+
+### Electrocardiographic Progression and Pitfalls</summary><div class="details-content">
+
+The foremost clinical threat of hyperkalemia is cardiac conduction failure and fatal dysrhythmias secondary to resting membrane depolarization of cardiomyocytes.
+
+<span id="fig-36-4"></span>
+![FIGURE 36.4](images/_page_8_Figure_0.jpeg)
 
 **FIGURE 36.4** ECG abnormalities in progressive hyperkalemia.
 
-#### *ECG Changes*
+#### The Classic Electrocardiographic Sequence
 
-The expected ECG changes in progressive hyperkalemia are shown in [Figure](#page-8-0) 36.4. The earliest change is the appearance of a tall, tapering (tented) T wave that is most evident in precordial leads V<sup>2</sup> and V<sup>3</sup> . As the hyperkalemia progresses, the P wave amplitude decreases and the PR interval lengthens. The P waves eventually disappear and the QRS complex widens to produce a complete heart block. The final event is ventricular fibrillation or asystole.
+- **Early Phase:** Narrow, peaked ("tented") T waves with a shortened QT interval, most prominent in precordial leads V2 and V3.
+- **Intermediate Phase:** Widening of the PR interval and progressive flattening and loss of the P wave.
+- **Advanced Phase:** Marked widening and slurring of the QRS complex, developing into a sinusoidal "sine wave" appearance.
+- **Terminal Phase:** Ventricular fibrillation, idioventricular rhythm, or asystole.
 
-Contrary to popular lore, *there is no predictable relationship between the severity of hyperkalemia and the presence of ECG changes* (32). For example, the traditional teaching has been that ECG changes begin to appear when the serum K+ approaches 6 mEq/L (32), but one clinical study found that only 40% of patients with a serum K+ above 7 mEq/L had ECG changes
+#### Diagnostic Unreliability of the ECG
 
-(33). Another more extreme example of this is a case report of a patient with a serum K+ of 14 mEq/L who had no ECG changes (34). This lack of correlation between the serum K and the ECG has led to the suggestion that hyperkalemia alone may not be responsible for the ECG changes.
+Despite textbook descriptions, **the electrocardiogram is an insensitive and unreliable indicator of hyperkalemic severity**:
 
-## **Management of Severe Hyperkalemia**
+- A prospective study of patients with severe hyperkalemia ($\text{K}^+ > 7.0\text{ mEq/L}$) revealed that only **$40\%$** exhibited classic electrocardiographic abnormalities.
+- Documented case reports describe patients with serum potassium levels as high as $14.0\text{ mEq/L}$ with completely normal electrocardiograms.
 
-Severe hyperkalemia is defined as a serum K+ > 6.5 mEq/L, or any serum K+ that produces ECG changes (35). The management of this condition has 3 goals (36): (*a*) blocking the effects of hyperkalemia on the cardiac conduction system, (*b*) moving K+ into cells, and (*c*) removing excess K+ from the body. The methods used to achieve these goals are [summarized](#page-9-0) in Table 36.3.
+The presence of ECG abnormalities mandates immediate therapy, but their absence does not permit complacency when serum potassium exceeds $6.5\text{ mEq/L}$.
+</div></details>
 
-<span id="page-9-0"></span>
+<details class="med-details" open><summary>
 
-| TABLE<br>36.3               | Management<br>of<br>Severe<br>Hyperkalemia                                                                                                                                                                |  |
-|-----------------------------|-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|--|
-| Sequential Goals            | Treatment Regimen                                                                                                                                                                                         |  |
-| 1. Cardiac<br>stabilization | • 10% calcium gluconate: 10 mL IV over 3 min, and repeat after 5 min, if necessary.<br>• Use 10% calcium chloride only for circulatory collapse (has triple the Ca++ content<br>of<br>calcium gluconate). |  |
-| 2. Move K+ into<br>cells    | • Regular insulin: 10 units as an IV bolus, plus 50 mL of 50% dextrose as an IV bolus.<br>• Albuterol: 20 mg as inhaled aerosol.                                                                          |  |
-| 3. Eliminate Excess<br>K+   | • Sodium zirconium cyclosilicate: 10 g every 8 hr for 48 hr, then decrease dose.                                                                                                                          |  |
+### Protocol for Severe Hyperkalemia</summary><div class="details-content">
 
-#### *Cardiac Stabilization*
+Severe hyperkalemia is defined as a serum potassium $> 6.5\text{ mEq/L}$, or any level producing electrocardiographic changes.
 
-Hyperkalemia has a depolarizing effect on myocardial cell membranes, which closes sodium channels and slows electrical transmission (37). These effects are antagonized by the hyperpolarizing effects of calcium, which is the treatment of choice for the cardiotoxic effects of hyperkalemia.
+<details class="med-details" open><summary>
 
-**REGIMEN:** Calcium is available in two intravenous preparations: *10% calcium gluconate*, which contains 9 mg/mL of elemental calcium in a 10 mL ampule, and *10% calcium chloride*, which contains 27 mg/mL of elemental calcium in a 10 mL ampule. Therefore, the calcium chloride preparation delivers three times more calcium than the calcium gluconate preparation. The less concentrated gluconate preparation is used in most instances, while the calcium chloride is reserved for cases of cardiovascular collapse or cardiac arrest.
+#### <span id="tbl-36-3"></span>TABLE 36.3 Management of Severe Hyperkalemia</summary><div class="details-content">
 
-The calcium regimen is shown in [Table](#page-9-0) 36.3. The calcium effect should be evident after a few minutes. However, the effect dissipates in 30–60 minutes, so the other [interventions](#page-9-0) in Table 36.3 should be combined with the calcium treatment.
+| Sequential Treatment Goals | Recommended Regimen |
+| :--- | :--- |
+| **1. Cardiac Stabilization** | • **$10\%$ Calcium gluconate:** $10\text{ mL}$ IV over 3 minutes; repeat after 5 minutes if ECG abnormalities persist.<br>• **$10\%$ Calcium chloride:** $10\text{ mL}$ IV (triple the elemental calcium of gluconate; preferred in circulatory collapse). |
+| **2. Intracellular Potassium Shifting** | • **Regular insulin:** $10\text{ units}$ IV bolus, accompanied by $50\text{ mL}$ of $50\%$ dextrose IV bolus.<br>• **Albuterol:** $10\text{–}20\text{ mg}$ nebulized over 15 minutes. |
+| **3. Active Potassium Elimination** | • **Sodium zirconium cyclosilicate (Lokelma):** $10\text{ g}$ orally every 8 hours for 48 hours.<br>• **Hemodialysis:** Emergent initiation for refractory or severe life-threatening hyperkalemia. |
 
-**INDICATIONS:** The published indications for calcium include a serum K+ > 6.5 mEq/L (with or without ECG changes), and ECG changes (regardless of the serum K+) (35). However, some prefer to use calcium only when there are appropriate ECG changes; a strategy that seems appropriate, given the poor correlation between the serum K+ level and the risk of ECG changes.
+</div></details>
 
-**DIGITALIS**: Calcium has traditionally been contraindicated for managing the hyperkalemia associated with digitalis toxicity (because digitalis toxicity poisons the membrane pump, which leads to life-threatening calcium accumulation in cells). However, retrospective studies have revealed numerous instances where intravenous calcium was given to patients with digitalis toxicity, without harm (38).
+The management strategy summarized in Table 36.3 follows a synchronized, three-tiered approach: immediate membrane stabilization, rapid transcellular shifting, and definitive elimination.
+</div></details>
 
-#### **Moving Potassium Into Cells**
+<details class="med-details" open><summary>
 
-There are three methods that are used to move K<sup>+</sup> into cells.
+### Phase 1: Membrane Stabilization with Calcium</summary><div class="details-content">
 
-**INSULIN-DEXTROSE**: Insulin drives K<sup>+</sup> into skeletal muscle cells by activating the membrane Na<sup>+</sup>– K<sup>+</sup> exchange pump, and the insulin-dextrose regimen in Table 36.3 will decrease the serum K<sup>+</sup> by at least 0.6 mEq/L (35). However, this effect is temporary (peak effect at 30–60 min), so measures that promote K<sup>+</sup> elimination should be started as well.
+Hyperkalemia depolarizes the resting membrane potential of cardiomyocytes, inactivating voltage-gated fast sodium channels and slowing intracardiac conduction velocity.
 
-**β<sub>2</sub>-AGONISTS**: Inhaled β<sub>2</sub>-agonists (e.g., albuterol) produce a small decrease in plasma  $K^+$  (<0.5 mEq/L) in therapeutic doses (7). The dose needed to produce a significant (0.5–1 mEq/L) drop in serum  $K^+$  is at least 4 times the therapeutic dose (35), and this can produce unwanted side effects (e.g., tachycardia). Despite this risk, inhaled β<sub>2</sub>-agonists have become part of the standard management protocol for severe hyperkalemia in many emergency departments. However, these agents should never be used alone to manage severe hyperkalemia.
+Calcium antagonizes these cardiotoxic effects by shifting the threshold potential to a less negative value, restoring the normal difference between resting membrane potential and threshold potential without altering serum potassium concentrations.
 
-**SODIUM BICARBONATE**: Sodium bicarbonate has been used to move  $K^+$  into cells by promoting alkalosis, but there are two reasons why bicarbonate is not advised in this setting: (*a*) short-term infusions of sodium bicarbonate (up to four hours) have no effect on serum  $K^+$  levels in the absence of a metabolic acidosis (35) and (*b*) bicarbonate can form complexes with calcium, which is counterproductive when calcium is used to antagonize the effects of hyperkalemia.
+#### Calcium Salt Formulations
 
-#### **Eliminating Excess Potassium**
+Intravenous calcium is available in two distinct formulations:
 
-Excess K<sup>+</sup> can be removed via the bowel using cation (Na-K) exchange resins, or it can be removed directly from the bloodstream with hemodialysis.
+- **$10\%$ Calcium Gluconate:** Contains $9\text{ mg/mL}$ ($0.45\text{ mEq/mL}$) of elemental calcium in a $10\text{ mL}$ ampule (total $90\text{ mg}$ elemental calcium). It is the agent of choice for routine stabilization due to lower risk of severe tissue necrosis if extravasation occurs.
+- **$10\%$ Calcium Chloride:** Contains $27\text{ mg/mL}$ ($1.35\text{ mEq/mL}$) of elemental calcium in a $10\text{ mL}$ ampule (total $270\text{ mg}$ elemental calcium). Because it delivers **three times more elemental calcium**, it is reserved for severe circulatory collapse or cardiac arrest.
 
-**CATION EXCHANGE RESINS:** Sodium polystyrene sulfonate or SPS (Kayexalate®) is the original cation exchange resin approved for use in severe hyperkalemia. It can be given orally (as a slurry) in a dose of 15 g every 6 hours, or rectally (as a retention enema) in a dose of 30–50 g every 6 hours. Although once the standard of care for severe hyperkalemia, the use of this agent is questioned because of uncertain efficacy, slow onset of action, and reports of necrotic lesions in the bowel linked to its use (39).
+#### Clinical Administration and Digitalis
 
-Another cation exchange resin, *sodium zirconium cyclosilicate* or SZC (Lokelma®) has been effective in managing hyperkalemia in outpatients (40) and recently has been shown to be equivalent to SPS for acute management of hyperkalemia (41). The SCZ resin does not have the adverse risks associated with SPS, and seems to be the favored choice at the present time. The dose is 10 grams orally, given 3 times daily for 48 hours (then the dose is reduced as needed). A clinically significant effect is reported after one hour (40).
+Administer $10\text{ mL}$ IV over 2–3 minutes under continuous cardiac monitoring. Electrocardiographic improvement should be visible within 1–3 minutes. The duration of cardioprotection is brief ($30\text{–}60\text{ minutes}$), requiring simultaneous initiation of potassium-lowering measures.
 
-**HEMODIALYSIS**: The most effective method of potassium removal is hemodialysis, which can
+*Digitalis Toxicity:* While historically contraindicated due to fears of inducing "stone heart", contemporary clinical evidence demonstrates that intravenous calcium can be administered safely in digitalis-toxic patients with life-threatening hyperkalemic conduction block.
+</div></details>
 
-produce a 1 mEq/L drop in serum K+ after one hour, and a 2 mEq/L drop after 3 hours (35).
+<details class="med-details" open><summary>
 
-## **A FINAL WORD**
+### Phase 2: Transcellular Potassium Shifting</summary><div class="details-content">
 
-## **Tip of the Iceberg**
+Temporary temporizing measures rapidly redistribute extracellular potassium into cells.
 
-Considering that only 2% of the potassium in the body is outside cells, and that only 20% of the extracellular potassium is in plasma, monitoring the plasma K+ gives us information about <1% of the potassium in the body. That might explain why hypokalemia is often clinically silent, and why there is a poor correlation between the severity of hyperkalemia and the presence of ECG changes.
+#### Insulin and Dextrose
 
-That said, there are a few points in this chapter that deserve emphasis:
+Intravenous regular insulin ($10\text{ units}$) stimulates the $\text{Na}^+/\text{K}^+$-ATPase pump in skeletal muscle. To prevent hypoglycemia, $50\text{ mL}$ of $50\%$ dextrose ($25\text{ g}$ glucose) is administered simultaneously (withhold dextrose if baseline glucose $> 250\text{ mg/dL}$).
 
-- 1. Hypokalemia is not a risk for serious arrhythmias unless combined with a drug or clinical condition that can trigger arrhythmias ([3\)](#page-11-2).
-- 2. When hypokalemia is refractory to K+ replacement, Mg++ deficiency is likely the source of the problem (17).
-- 3. When using calcium to antagonize the cardiac effects of hyperkalemia, make sure you know which preparation you are using (calcium gluconate or calcium chloride), since calcium chloride has three times more elemental calcium than calcium gluconate.
+This intervention reduces serum potassium by **$0.6\text{–}1.0\text{ mEq/L}$** within 15–30 minutes, with a peak effect at 60 minutes and duration of 4–6 hours. Point-of-care blood glucose must be monitored hourly for at least 4 hours.
 
-## *References*
+#### Inhaled Beta-2 Agonists
 
-<span id="page-11-0"></span>*a.* Washington HA (ed). *The Writings of Thomas Jefferson: Correspondence*, 1824.
+Inhaled albuterol ($10\text{–}20\text{ mg}$ in $4\text{ mL}$ normal saline via nebulizer over 15 minutes) stimulates beta-2 receptors, lowering serum potassium by $0.5\text{–}1.0\text{ mEq/L}$. The dose required is four times higher than the standard bronchodilator dose. Albuterol should never be used as monotherapy, but acts synergistically when combined with insulin.
 
-#### *Basics*
+#### The Fallacy of Sodium Bicarbonate
 
-- <span id="page-11-1"></span>1. Rose BD, Post TW. Potassium homeostasis. In: *Clinical Physiology of Acid-Base and Electrolyte Disorders.* 5th ed. New York, NY: McGraw-Hill, 2001; 372–402.
-- 2. Alfonzo AVM, Isles C, Geddes C, Deighan C. Potassium disorders—clinical spectrum and emergency management. Resusc 2006; 70:10–25.
-- <span id="page-11-2"></span>3. Schaefer TJ, Wolford RW. Disorders of potassium. Emerg Med Clin North Am 2005; 23:723–747.
-- <span id="page-11-3"></span>4. Brown RS. Extrarenal potassium homeostasis. Kidney Int 1986; 30:116–127.
-- <span id="page-11-4"></span>5. Sterns RH, Cox M, Feig PU, et al. Internal potassium balance and the control of the plasma potassium concentration. Medicine 1981; 60:339–354.
+Infusion of sodium bicarbonate to drive potassium into cells is **not recommended** in acute hyperkalemia. Controlled clinical trials have repeatedly demonstrated that bicarbonate infusions fail to lower serum potassium over a 4-hour window unless accompanied by marked non-gap metabolic acidosis. Furthermore, bicarbonate forms insoluble complexes with calcium, blunting cardioprotective stabilization.
+</div></details>
 
-#### *Hypokalemia*
+<details class="med-details" open><summary>
 
-- <span id="page-11-5"></span>6. Glover P. Hypokalemia. Crit Care Resusc 1999; 1:239–251.
-- <span id="page-11-6"></span>7. Allon M, Copkney C. Albuterol and insulin for treatment of hyperkalemia in hemodialysis patients. Kidney Int 1990; 38:869– 872.
-- <span id="page-11-7"></span>8. Lipworth BJ, McDevitt DG, Struthers AD. Prior treatment with diuretic augments the hypokalemic and electrocardiographic effects of inhaled albuterol. Am J Med 1989; 86:653–657.
-- <span id="page-11-8"></span>9. Adrogue HJ, Madias NE. Changes in plasma potassium concentration during acute acid-base disturbances. Am J Med 1981; 71:456–467.
-- <span id="page-11-9"></span>10. Bernard SA, Buist M. Induced hypothermia in critical care medicine: a review. Crit Care Med 2003; 31:2041–2051.
-- <span id="page-11-10"></span>11. Salem M, Munoz R, Chernow B. Hypomagnesemia in critical illness. A common and clinically important problem. Crit Care Clin 1991; 7:225–252.
-- <span id="page-11-11"></span>12. Gennari FJ, Weise WJ. Acid-base disturbances in gastrointestinal disease. Clin J Am Soc Nephrol 2008; 3:1861–1868.
-- <span id="page-11-12"></span>13. Stanaszek WF, Romankiewicz JA. Current approaches to management of potassium deficiency. Drug Intell Clin Pharm 1985; 19:176–184.
-- <span id="page-11-13"></span>14. Trissel LA. *Handbook on Injectable Drugs*. 13th ed. Bethesda, MD: Amer Soc Health System Pharmacists, 2005; 1230.
-- <span id="page-11-14"></span>15. Kruse JA, Carlson RW. Rapid correction of hypokalemia using concentrated intravenous potassium chloride infusions. Arch
+### Phase 3: Potassium Elimination</summary><div class="details-content">
+
+Definitive management requires permanent removal of excess potassium from the body.
+
+#### Novel Cation Exchange Resins
+
+- **Sodium Zirconium Cyclosilicate (SZC / Lokelma):** An inorganic crystal that selectively binds potassium in the gastrointestinal tract in exchange for sodium and hydrogen. The recommended dose is $10\text{ g}$ orally three times daily for 48 hours. SZC demonstrates significant potassium reduction within 1 hour of administration and is free of the gastrointestinal toxicity associated with older agents.
+- **Sodium Polystyrene Sulfonate (SPS / Kayexalate):** A non-selective organic resin administered orally ($15\text{ g}$) or rectally ($30\text{–}50\text{ g}$). Its clinical utility in acute emergencies is obsolete due to slow onset ($> 4\text{ hours}$), unpredictable efficacy, and a documented risk of intestinal necrosis and bowel perforation (particularly when formulated in sorbitol).
+
+#### Emergent Hemodialysis
+
+Intermittent hemodialysis is the single most rapid, effective, and reliable method of potassium elimination:
+
+- Clears potassium by diffusion down a steep concentration gradient using a low-potassium dialysate.
+- Lowers serum potassium by **$1.0\text{ mEq/L}$ after the first hour** and by **$2.0\text{ mEq/L}$ after 3 hours**.
+- Indicated as primary initial therapy in patients with end-stage renal disease, severe oliguric AKI, massive rhabdomyolysis, or hyperkalemia refractory to medical temporization.
+</div></details>
+
+<details class="med-details" open><summary>
+
+### Concluding Principles: The Cellular Iceberg</summary><div class="details-content">
+
+The management of potassium derangements in critical care requires synthesis of core physiological principles:
+
+- The extracellular potassium concentration represents less than $1\%$ of total body stores. Monitoring serum potassium evaluates only the visible tip of an enormous intracellular iceberg.
+- Hypokalemia is generally benign in isolation, but refractory cases almost universally signal uncorrected hypomagnesemia.
+- Hyperkalemia poses an immediate lethal electrophysiological threat that correlates poorly with numerical serum concentrations.
+- Management must prioritize immediate cardiac membrane stabilization with calcium, followed by rapid intracellular redistribution and definitive systemic elimination.
+</div></details>
+</div></details>

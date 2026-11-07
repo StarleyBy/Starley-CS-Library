@@ -12,7 +12,7 @@ A chapter dedicated to cardiovascular drugs and antithrombotic therapy would not
 
 <details class="med-details"><summary>
 
-### Cellular and Protease Mechanisms of Arterial Thrombosis</summary><div class="details-content">
+### 1.1 Cellular and Protease Mechanisms of Arterial Thrombosis</summary><div class="details-content">
 
 <details class="med-details"><summary>
 
@@ -54,7 +54,7 @@ Platelets play an essential role in sensing and responding to perturbations in t
 
 <details class="med-details"><summary>
 
-### The Cell-Based Coagulation Cascade and Contact Activation System</summary><div class="details-content">
+### 1.2 The Cell-Based Coagulation Cascade and Contact Activation System</summary><div class="details-content">
 
 <details class="med-details"><summary>
 
@@ -92,7 +92,7 @@ Human FXII is an 80-kDa glycoprotein that autoactivates upon binding to negative
 
 <details class="med-details"><summary>
 
-### Venous Thrombosis, Prosthetic Surfaces, and Immunothrombosis</summary><div class="details-content">
+### 1.3 Venous Thrombosis, Prosthetic Surfaces, and Immunothrombosis</summary><div class="details-content">
 
 <details class="med-details"><summary>
 
@@ -134,7 +134,7 @@ The pivotal role of platelets in thrombosis provides a biology-based platform fo
 
 <details class="med-details"><summary>
 
-### Aspirin: Molecular Pharmacology and Pharmacokinetics</summary><div class="details-content">
+### 2.1 Aspirin: Molecular Pharmacology and Pharmacokinetics</summary><div class="details-content">
 
 <details class="med-details"><summary>
 
@@ -180,7 +180,7 @@ The major adverse effect of aspirin is upper gastrointestinal mucosal injury (ga
 
 <details class="med-details"><summary>
 
-### Evidence-Based Clinical Applications of Aspirin</summary><div class="details-content">
+### 2.2 Evidence-Based Clinical Applications of Aspirin</summary><div class="details-content">
 
 <details class="med-details"><summary>
 
@@ -236,7 +236,7 @@ Co-administration of reversible traditional NSAIDs, especially ibuprofen and nap
 
 <details class="med-details"><summary>
 
-### Phosphodiesterase Inhibitors: Dipyridamole and Cilostazol</summary><div class="details-content">
+### 2.3 Phosphodiesterase Inhibitors: Dipyridamole and Cilostazol</summary><div class="details-content">
 
 <details class="med-details"><summary>
 
@@ -270,7 +270,7 @@ The platelet P2Y12 receptor is a G protein-coupled purinergic receptor (Gi-coupl
 
 <details class="med-details"><summary>
 
-### Pharmacological Classification and Mechanisms</summary><div class="details-content">
+### 3.1 Pharmacological Classification and Mechanisms</summary><div class="details-content">
 
 <details class="med-details"><summary>
 
@@ -301,7 +301,7 @@ The thienopyridines are prodrugs that require hepatic metabolic bioactivation to
 
 <details class="med-details"><summary>
 
-### Clinical Trials and Guidelines in ACS and PCI</summary><div class="details-content">
+### 3.2 Clinical Trials and Guidelines in ACS and PCI</summary><div class="details-content">
 
 <details class="med-details"><summary>
 
@@ -372,7 +372,7 @@ Conversely, carriers of the gain-of-function allele (*CYP2C19\*17*) exhibit enha
 
 <details class="med-details"><summary>
 
-### Periprocedural Management and Surgical Bridging</summary><div class="details-content">
+### 3.3 Periprocedural Management and Surgical Bridging</summary><div class="details-content">
 
 <details class="med-details"><summary>
 
@@ -465,7 +465,7 @@ Platelet glycoprotein IIb/IIIa (integrin αIIbβ3) is the most abundant receptor
 
 <details class="med-details"><summary>
 
-### Molecular Mechanisms and Pharmacology</summary><div class="details-content">
+### 4.1 Molecular Mechanisms and Pharmacology</summary><div class="details-content">
 
 <details class="med-details"><summary>
 
@@ -507,6 +507,9 @@ Three intravenous GP IIb/IIIa inhibitors were developed and approved for clinica
 The molecular convergence of multiple platelet activation pathways onto the glycoprotein IIb/IIIa integrin illustrates why GP IIb/IIIa antagonists provide the most profound level of platelet aggregation blockade achievable in clinical medicine ([Diagram 8.1](#diag-08-01)).
 
 <span id="diag-08-01"></span>
+
+### DIAGRAM 8.1: Platelet Activation Pathways & Pharmacological Antiplatelet Targets
+
 <svg viewBox="0 0 1000 680" style="width:100%; max-width:1000px; height:auto; display:block; margin:20px auto; background:#0f172a; border-radius:12px; border:1px solid #1e293b; font-family:system-ui, -apple-system, sans-serif;" xmlns="http://www.w3.org/2000/svg">
   <defs>
     <linearGradient id="gradP1Platelet" x1="0%" y1="0%" x2="100%" y2="100%">
@@ -599,7 +602,7 @@ The molecular convergence of multiple platelet activation pathways onto the glyc
 
 <details class="med-details"><summary>
 
-### Clinical Role in Modern Interventional Cardiology</summary><div class="details-content">
+### 4.2 Clinical Role in Modern Interventional Cardiology</summary><div class="details-content">
 
 <details class="med-details"><summary>
 
@@ -628,7 +631,7 @@ If acute profound thrombocytopenia occurs, the GP IIb/IIIa inhibitor and concurr
 
 <details class="med-details"><summary>
 
-### Guidelines for Antithrombotic Therapy in Acute Coronary Syndromes</summary><div class="details-content">
+### 4.3 Guidelines for Antithrombotic Therapy in Acute Coronary Syndromes</summary><div class="details-content">
 
 <details class="med-details"><summary>
 
@@ -674,7 +677,7 @@ Parenteral anticoagulants represent a cornerstone of inpatient cardiovascular th
 
 <details class="med-details"><summary>
 
-### Molecular Mechanisms, Pharmacokinetics, and Labeled Indications</summary><div class="details-content">
+### 5.1 Molecular Mechanisms, Pharmacokinetics, and Labeled Indications</summary><div class="details-content">
 
 <details class="med-details"><summary>
 
@@ -733,7 +736,7 @@ The pharmacological profile of parenteral anticoagulants is dictated by molecula
 
 <details class="med-details"><summary>
 
-### Unfractionated Heparin: Pharmacology, Monitoring, and Complications</summary><div class="details-content">
+### 5.2 Unfractionated Heparin: Pharmacology, Monitoring, and Complications</summary><div class="details-content">
 
 <details class="med-details"><summary>
 
@@ -810,7 +813,7 @@ A 4Ts score of 0–3 indicates low probability (< 5% true HIT), 4–5 indicates 
 
 <details class="med-details"><summary>
 
-### Low-Molecular-Weight Heparins (LMWH) and Synthetic Pentasaccharides</summary><div class="details-content">
+### 5.3 Low-Molecular-Weight Heparins (LMWH) and Synthetic Pentasaccharides</summary><div class="details-content">
 
 <details class="med-details"><summary>
 
@@ -874,7 +877,7 @@ Fondaparinux is administered as a fixed subcutaneous dose of **2.5 mg once daily
 
 <details class="med-details"><summary>
 
-### Parenteral Direct Thrombin Inhibitors: Bivalirudin and Argatroban</summary><div class="details-content">
+### 5.4 Parenteral Direct Thrombin Inhibitors: Bivalirudin and Argatroban</summary><div class="details-content">
 
 <details class="med-details"><summary>
 
@@ -907,7 +910,7 @@ Argatroban is a synthetic, small-molecule direct univalent thrombin inhibitor de
 
 <details class="med-details"><summary>
 
-### Antidotes, Reversal Strategies, and Bleeding Management</summary><div class="details-content">
+### 5.5 Antidotes, Reversal Strategies, and Bleeding Management</summary><div class="details-content">
 
 <details class="med-details"><summary>
 
@@ -954,7 +957,7 @@ Vitamin K antagonists (VKAs), predominantly warfarin, have served as the histori
 
 <details class="med-details"><summary>
 
-### Molecular Mechanism and Pharmacokinetics</summary><div class="details-content">
+### 6.1 Molecular Mechanism and Pharmacokinetics</summary><div class="details-content">
 
 <details class="med-details"><summary>
 
@@ -1002,7 +1005,7 @@ Genetic variations in *CYP2C9* and *VKORC1* account for up to 30% to 50% of inte
 
 <details class="med-details"><summary>
 
-### Monitoring, Clinical Indications, and Valvular Heart Disease</summary><div class="details-content">
+### 6.2 Monitoring, Clinical Indications, and Valvular Heart Disease</summary><div class="details-content">
 
 <details class="med-details"><summary>
 
@@ -1052,7 +1055,7 @@ Warfarin is the indispensable standard of care in mechanical heart valve prosthe
 
 <details class="med-details"><summary>
 
-### Complications, Teratogenicity, and Urgent Reversal</summary><div class="details-content">
+### 6.3 Complications, Teratogenicity, and Urgent Reversal</summary><div class="details-content">
 
 <details class="med-details"><summary>
 
@@ -1093,7 +1096,7 @@ Direct oral anticoagulants (DOACs)—encompassing the direct thrombin inhibitor 
 
 <details class="med-details"><summary>
 
-### Pharmacological Profiles and Clinical Pharmacokinetics</summary><div class="details-content">
+### 7.1 Pharmacological Profiles and Clinical Pharmacokinetics</summary><div class="details-content">
 
 <details class="med-details"><summary>
 
@@ -1167,7 +1170,7 @@ The clinical differentiation of DOACs is rooted in their distinct elimination ro
 
 <details class="med-details"><summary>
 
-### Landmark Clinical Trials and Evidence in Atrial Fibrillation</summary><div class="details-content">
+### 7.2 Landmark Clinical Trials and Evidence in Atrial Fibrillation</summary><div class="details-content">
 
 <details class="med-details"><summary>
 
@@ -1204,7 +1207,7 @@ Based on this incontrovertible evidence, ACC/AHA and ESC guidelines uniformly re
 
 <details class="med-details"><summary>
 
-### Expanded Indications and Periprocedural Management</summary><div class="details-content">
+### 7.3 Expanded Indications and Periprocedural Management</summary><div class="details-content">
 
 <details class="med-details"><summary>
 
@@ -1238,7 +1241,7 @@ DOACs are recommended first-line over VKAs for acute deep vein thrombosis (DVT) 
 
 <details class="med-details"><summary>
 
-### Peripheral Artery Disease (PAD): Evidence-Based Antithrombotic Regimens</summary><div class="details-content">
+### 8.1 Peripheral Artery Disease (PAD): Evidence-Based Antithrombotic Regimens</summary><div class="details-content">
 
 * **Systemic Atherosclerotic Burden in PAD:** Peripheral artery disease (PAD) represents a severe manifestation of systemic atherosclerosis associated with extensive cardiovascular morbidity, stroke, myocardial infarction (MI), and critical limb-threatening ischemia leading to amputation. 
 * **Oral Anticoagulation Trials & WAVE Meta-Analysis:** A number of randomized clinical trials have evaluated the role of oral anticoagulation in patients with lower extremity peripheral artery disease. The Warfarin Antiplatelet Vascular Evaluation (WAVE) trial investigators conducted a comprehensive meta-analysis of 9 trials involving 4889 patients and demonstrated that, compared with antiplatelet therapy (aspirin alone), full-dose oral anticoagulant therapy with vitamin K antagonists (VKAs) did not reduce overall mortality (odds ratio [OR] = 1.04; 95% confidence interval [CI] 0.55–1.29) or prevent arterial bypass graft occlusion (OR = 0.91; 95% CI 0.77–1.06), while causing a greater than two-fold increase in major life-threatening bleeding (OR = 2.13; 95% CI 1.27–3.57). Consequently, full-dose therapeutic anticoagulation with VKAs alone or in combination with antiplatelet therapy is not recommended for routine management of PAD without alternative indications.
@@ -1251,7 +1254,7 @@ DOACs are recommended first-line over VKAs for acute deep vein thrombosis (DVT) 
 
 <details class="med-details"><summary>
 
-### Antithrombotic Management in Patients With Atrial Fibrillation Undergoing Percutaneous Coronary Intervention (PCI)</summary><div class="details-content">
+### 8.2 Antithrombotic Management in Patients With Atrial Fibrillation Undergoing Percutaneous Coronary Intervention (PCI)</summary><div class="details-content">
 
 Among the most challenging clinical scenarios in cardiovascular medicine is the management of antithrombotic therapy in patients with atrial fibrillation (AF) who present with an acute coronary syndrome (ACS) or undergo percutaneous coronary intervention (PCI). Approximately 5–10% of patients undergoing PCI have a concomitant indication for long-term oral anticoagulation, predominantly non-valvular AF ([Fig. 8.9](#fig-08-09), [Fig. 8.10](#fig-08-10)).
 
@@ -1284,7 +1287,7 @@ Over the past decade, five randomized clinical trials transformed global guideli
 
 <details class="med-details"><summary>
 
-### Management of Vitamin K Antagonist (VKA)-Associated Bleeding and 4F-PCC Reversal</summary><div class="details-content">
+### 8.3 Management of Vitamin K Antagonist (VKA)-Associated Bleeding and 4F-PCC Reversal</summary><div class="details-content">
 
 Bleeding complications associated with warfarin therapy correlate directly with the intensity of anticoagulation as measured by the International Normalized Ratio (INR), advanced patient age, comorbid hypertension, chronic kidney disease, concomitant antiplatelet medications, and genetic variations in CYP2C9 and VKORC1.
 
@@ -1316,7 +1319,7 @@ Management of bleeding while on VKA is dictated by both the severity of hemorrha
 
 <details class="med-details"><summary>
 
-### Idarucizumab: Specific Fab Fragment Antidote for Dabigatran</summary><div class="details-content">
+### 9.1 Idarucizumab: Specific Fab Fragment Antidote for Dabigatran</summary><div class="details-content">
 
 Idarucizumab (Praxbind®) is a humanized monoclonal antibody antigen-binding fragment (Fab, molecular weight 47.8 kDa) engineered to bind dabigatran and its acylglucuronide active metabolites with high specificity and equimolar 1:1 affinity. 
 
@@ -1364,7 +1367,7 @@ The safety and efficacy of idarucizumab were evaluated in the pivotal prospectiv
 
 <details class="med-details"><summary>
 
-### Andexanet Alfa: Recombinant Modified Decoy Factor Xa for Rivaroxaban & Apixaban Reversal</summary><div class="details-content">
+### 9.2 Andexanet Alfa: Recombinant Modified Decoy Factor Xa for Rivaroxaban & Apixaban Reversal</summary><div class="details-content">
 
 Andexanet alfa (Andexxa®, coagulation factor Xa [recombinant], inactivated-zhzo) is a genetically engineered, recombinant human factor Xa variant that functions as an inert, high-affinity decoy receptor to bind and sequester direct and indirect factor Xa inhibitors.
 
@@ -1419,7 +1422,7 @@ Andexanet alfa (Andexxa®, coagulation factor Xa [recombinant], inactivated-zhzo
 
 <details class="med-details"><summary>
 
-### Multidisciplinary Management of DOAC-Associated Bleeding & Resumption Protocols</summary><div class="details-content">
+### 9.3 Multidisciplinary Management of DOAC-Associated Bleeding & Resumption Protocols</summary><div class="details-content">
 
 Management of life-threatening bleeding in anticoagulated patients requires a comprehensive, coordinated, multidisciplinary strategy incorporating emergency medicine, cardiology, neurology/neurosurgery, hematology, and critical care ([Fig. 8.11](#fig-08-11), [Fig. 8.12](#fig-08-12), [Fig. 8.13](#fig-08-13), [Fig. 8.14](#fig-08-14)).
 
@@ -1442,6 +1445,9 @@ Management of life-threatening bleeding in anticoagulated patients requires a co
 The overarching resuscitation and reversal pathway is synthesized in the interactive clinical algorithm ([Diagram 8.2](#diag-08-02)):
 
 <span id="diag-08-02"></span>
+
+### DIAGRAM 8.2: Evidence-Based Critical Bleeding & Specific Reversal Algorithm for Anticoagulated Patients
+
 <svg viewBox="0 0 1000 780" style="width:100%; max-width:1000px; height:auto; display:block; margin:20px auto; background:#0f172a; border-radius:12px; border:1px solid #1e293b; font-family:system-ui, -apple-system, sans-serif;" xmlns="http://www.w3.org/2000/svg">
   <defs>
     <linearGradient id="gHead" x1="0%" y1="0%" x2="100%" y2="100%">
@@ -1602,7 +1608,7 @@ The overarching resuscitation and reversal pathway is synthesized in the interac
 
 <details class="med-details"><summary>
 
-### Contact Activation & Thrombo-Inflammation Targets: Nucleic Acids, Histones, Polyphosphates, and Microvesicles</summary><div class="details-content">
+### 10.1 Contact Activation & Thrombo-Inflammation Targets: Nucleic Acids, Histones, Polyphosphates, and Microvesicles</summary><div class="details-content">
 
 Traditional anticoagulants target downstream proteases common to both physiological hemostasis and pathological thrombosis—specifically thrombin (Factor IIa) and Factor Xa. Consequently, all currently approved anticoagulants inevitably impair physiological clot formation and carry an intrinsic risk of hemorrhage.
 
@@ -1624,7 +1630,7 @@ A deeper understanding of vascular biology, innate immunity, and the contact act
 
 <details class="med-details"><summary>
 
-### Factor XI and Factor XII Inhibitors: The Quest for Hemostasis-Sparing Anticoagulation</summary><div class="details-content">
+### 10.2 Factor XI and Factor XII Inhibitors: The Quest for Hemostasis-Sparing Anticoagulation</summary><div class="details-content">
 
 The discovery that the intrinsic contact activation pathway is dispensable for normal physiological hemostasis but indispensable for pathological thrombus propagation has made **Factor XI (FXI)** and **Factor XII (FXII)** the premier targets for next-generation antithrombotic drug development:
 * **Genetic Validation:** Individuals with severe congenital factor XI deficiency (hemophilia C, Rosenthal syndrome) rarely suffer spontaneous life-threatening or intracranial bleeding, yet experience significantly reduced rates of ischemic stroke and venous thromboembolism. In contrast, individuals with congenital factor XII deficiency (Hageman trait) display marked prolongation of the in vitro aPTT but have **no bleeding phenotype whatsoever**, even during major surgical procedures.
@@ -1650,7 +1656,7 @@ The discovery that the intrinsic contact activation pathway is dispensable for n
 
 <details class="med-details"><summary>
 
-### 50 High-Yield Clinical Pearls in Antithrombotic Therapy</summary><div class="details-content">
+### 11.1 50 High-Yield Clinical Pearls in Antithrombotic Therapy</summary><div class="details-content">
 
 1. **Aspirin Primary Prevention:** Low-dose aspirin (75–100 mg once daily) is no longer recommended for routine primary prevention in adults &gt;70 years of age or in individuals of any age with increased bleeding risk (ASPREE, ARRIVE, ASCEND trials). It may be considered only in select high-risk adults aged 40–70 years with high atherosclerotic cardiovascular disease (ASCVD) risk and low bleeding risk.
 2. **Aspirin Secondary Prevention:** Aspirin (75–100 mg once daily) remains foundational for secondary prevention in established CAD, prior MI, stable angina, prior stroke, and peripheral artery disease; higher doses (325 mg) offer no superior efficacy and substantially increase gastrointestinal ulceration and bleeding.

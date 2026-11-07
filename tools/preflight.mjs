@@ -11,17 +11,18 @@
  *   node tools/preflight.mjs --verbose         # полный вывод проваленных проверок
  *   node tools/preflight.mjs --json
  *
- * Проверки (id): tests, tables, chapters, library, quiz, i18n, sw, supabase, repo
+ * Проверки (id): tests, tables, chapters, library, quiz, i18n, sw, interactive, supabase, repo
  * Проверка supabase «мягкая»: при находках показывается как WARN и не мешает коду возврата (пока владелец не принял решение по аудиту)
- *   tests    node tests/run-all.mjs                         (нужны зависимости: npm ci --ignore-scripts)
- *   tables   node tools/validate-tables.mjs                 (нужны зависимости)
- *   chapters node tools/validate-chapters.mjs --baseline
- *   library  node tools/validate-library.mjs --baseline
- *   quiz     node tools/validate-quiz.mjs --baseline
- *   i18n     node tools/check-quiz-i18n.mjs --baseline
- *   sw       node tools/check-sw-shell.mjs
- *   supabase node tools/check-supabase-sql.mjs        (мягкая: WARN вместо FAIL)
- *   repo     node tools/check-repo-health.mjs
+ *   tests       node tests/run-all.mjs                         (нужны зависимости: npm ci --ignore-scripts)
+ *   tables      node tools/validate-tables.mjs                 (нужны зависимости)
+ *   chapters    node tools/validate-chapters.mjs --baseline
+ *   library     node tools/validate-library.mjs --baseline
+ *   quiz        node tools/validate-quiz.mjs --baseline
+ *   i18n        node tools/check-quiz-i18n.mjs --baseline
+ *   sw          node tools/check-sw-shell.mjs
+ *   interactive node tools/list-interactive.mjs --validate
+ *   supabase    node tools/check-supabase-sql.mjs        (мягкая: WARN вместо FAIL)
+ *   repo        node tools/check-repo-health.mjs
  *
  * Код возврата: 0 — все выполненные проверки пройдены; 1 — есть проваленные; 2 — ошибка запуска.
  */
@@ -47,6 +48,7 @@ const steps = [
   { id: 'quiz', name: 'Манифесты квиза (новые дефекты)', script: 'tools/validate-quiz.mjs', args: ['--baseline', '--quiet'] },
   { id: 'i18n', name: 'Локализация квиза (новые отклонения)', script: 'tools/check-quiz-i18n.mjs', args: ['--baseline', '--quiet'] },
   { id: 'sw', name: 'Service Worker и оболочка PWA', script: 'tools/check-sw-shell.mjs', args: ['--quiet'] },
+  { id: 'interactive', name: 'Интерактивные схемы и симуляторы', script: 'tools/list-interactive.mjs', args: ['--validate'] },
   { id: 'supabase', name: 'Безопасность SQL и Edge Functions Supabase (статическая)', script: 'tools/check-supabase-sql.mjs', args: ['--quiet'], soft: true },
   { id: 'repo', name: 'Гигиена репозитория и секреты', script: 'tools/check-repo-health.mjs', args: ['--quiet'] },
 ];

@@ -4,7 +4,7 @@
 
 <details class="med-details"><summary>
 
-## Краткое содержание</summary><div class="details-content">
+## Краткое резюме</summary><div class="details-content">
 
 ### Патофизиология стенокардии и кислородный баланс миокарда
 * **Детерминанты потребления миокардом кислорода ($MVO_2$):** $MVO_2$ определяется четырьмя основными механическими и метаболическими факторами: частотой сердечных сокращений (ЧСС), сократимостью миокарда (инотропным состоянием), пиковым систолическим напряжением стенки левого желудочка (постнагрузкой) и конечно-диастолическим напряжением/объёмом стенки ЛЖ (преднагрузкой). Антиангинальные средства действуют за счёт снижения одного или нескольких из этих факторов либо за счёт увеличения перфузии ишемизированного миокарда.
@@ -57,7 +57,7 @@
 
 <details class="med-details"><summary>
 
-### Механизм действия и передача сигнала</summary><div class="details-content">
+### 1.1 Механизм действия и передача сигнала</summary><div class="details-content">
 
 <details class="med-details"><summary>
 
@@ -176,7 +176,7 @@ $\beta_1$-Адренорецепторы и передача сигнала. Р�
 
 <details class="med-details"><summary>
 
-### Сердечно-сосудистые и гемодинамические эффекты</summary><div class="details-content">
+### 1.2 Сердечно-сосудистые и гемодинамические эффекты</summary><div class="details-content">
 
 <details class="med-details"><summary>
 
@@ -204,13 +204,79 @@ $\beta_1$-Адренорецепторы и передача сигнала. Р�
 
 **РИСУНОК 1-5** Влияние β-адреноблокады на ишемизированный миокард. Брадикардия удлиняет диастолическое наполнение и время перфузии, существенно увеличивая субэндокардиальный кровоток, тогда как падение сократимости и ЧСС уменьшает потребность в кислороде. При вазоспастической стенокардии некомпенсированная $\alpha$-стимуляция может парадоксально усиливать спазм коронарных артерий.
 
+<span id="diag-01-01"></span>
+
+### СХЕМА 1.1: Баланс доставки и потребности миокарда в кислороде и фармакологические мишени
+
+<svg viewBox="0 0 1000 620" style="width:100%; max-width:1000px; height:auto; display:block; margin:16px auto;" xmlns="http://www.w3.org/2000/svg">
+<rect width="1000" height="620" rx="12" fill="#0f172a" stroke="#334155" stroke-width="2"/>
+<text x="500" y="32" fill="#38bdf8" font-family="system-ui, sans-serif" font-size="15" font-weight="700" text-anchor="middle" letter-spacing="1">БАЛАНС ДОСТАВКИ И ПОТРЕБНОСТИ МИОКАРДА В КИСЛОРОДЕ И МИШЕНИ ФАРМАКОТЕРАПИИ</text>
+<text x="500" y="52" fill="#94a3b8" font-family="system-ui, sans-serif" font-size="11" text-anchor="middle">Патофизиологические детерминанты ишемии и точки приложения основных классов антиангинальных средств</text>
+<!-- Left Column: Demand -->
+<rect x="40" y="70" width="445" height="520" rx="10" fill="#1e293b" stroke="#f87171" stroke-width="1.5"/>
+<rect x="40" y="70" width="445" height="34" rx="10" fill="#7f1d1d"/>
+<text x="262" y="92" fill="#fca5a5" font-family="system-ui, sans-serif" font-size="13" font-weight="700" text-anchor="middle">ПОТРЕБНОСТЬ МИОКАРДА В КИСЛОРОДЕ (MVO2)</text>
+<!-- Demand Box 1: HR -->
+<rect x="55" y="115" width="415" height="115" rx="8" fill="#0f172a" stroke="#ef4444" stroke-width="1.2"/>
+<text x="70" y="138" fill="#f87171" font-family="system-ui, sans-serif" font-size="12" font-weight="700">Частота сердечных сокращений (ЧСС)</text>
+<text x="70" y="158" fill="#cbd5e1" font-family="system-ui, sans-serif" font-size="10.5">Главный регулятор минутного расхода энергии</text>
+<rect x="65" y="172" width="395" height="46" rx="6" fill="#1e1b4b" stroke="#6366f1" stroke-width="1"/>
+<text x="75" y="192" fill="#a5b4fc" font-family="system-ui, sans-serif" font-size="10" font-weight="600">Мишени:</text>
+<text x="75" y="208" fill="#38bdf8" font-family="system-ui, sans-serif" font-size="10.5" font-weight="700"> β-Адреноблокаторы, не-ДГП БКК, Ивабрадин</text>
+<!-- Demand Box 2: Contractility -->
+<rect x="55" y="245" width="415" height="115" rx="8" fill="#0f172a" stroke="#f59e0b" stroke-width="1.2"/>
+<text x="70" y="268" fill="#fbbf24" font-family="system-ui, sans-serif" font-size="12" font-weight="700">Сократимость миокарда (Инотропия)</text>
+<text x="70" y="288" fill="#cbd5e1" font-family="system-ui, sans-serif" font-size="10.5">Скорость нарастания давления в ЛЖ (dP/dt)</text>
+<rect x="65" y="302" width="395" height="46" rx="6" fill="#1e1b4b" stroke="#6366f1" stroke-width="1"/>
+<text x="75" y="322" fill="#a5b4fc" font-family="system-ui, sans-serif" font-size="10" font-weight="600">Мишени:</text>
+<text x="75" y="338" fill="#38bdf8" font-family="system-ui, sans-serif" font-size="10.5" font-weight="700"> β-Адреноблокаторы, Верапамил, Дилтиазем</text>
+<!-- Demand Box 3: Wall Tension -->
+<rect x="55" y="375" width="415" height="195" rx="8" fill="#0f172a" stroke="#fbbf24" stroke-width="1.2"/>
+<text x="70" y="398" fill="#fde047" font-family="system-ui, sans-serif" font-size="12" font-weight="700">Напряжение стенки ЛЖ (Закон Лапласа)</text>
+<text x="70" y="418" fill="#cbd5e1" font-family="system-ui, sans-serif" font-size="10.5">Преднагрузка (КДО/КДД) и постнагрузка (САД/ОПСС)</text>
+<rect x="65" y="432" width="395" height="125" rx="6" fill="#1e1b4b" stroke="#6366f1" stroke-width="1"/>
+<text x="75" y="452" fill="#34d399" font-family="system-ui, sans-serif" font-size="10.5" font-weight="700">PRELOAD REDUCTION (Venodilation):</text>
+<text x="75" y="470" fill="#e2e8f0" font-family="system-ui, sans-serif" font-size="10">Organic Nitrates (NTG, ISDN, ISMN) -> Decreases LVEDP</text>
+<text x="75" y="495" fill="#38bdf8" font-family="system-ui, sans-serif" font-size="10.5" font-weight="700">AFTERLOAD REDUCTION (Arteriolar Dilation):</text>
+<text x="75" y="513" fill="#e2e8f0" font-family="system-ui, sans-serif" font-size="10">Dihydropyridine CCBs (Amlodipine, Felodipine) -> Decreases SVR</text>
+<text x="75" y="538" fill="#a78bfa" font-family="system-ui, sans-serif" font-size="10" font-weight="600">Net Effect: Markedly reduces wall stress and myocardial workload</text>
+<!-- Right Column: Supply -->
+<rect x="515" y="70" width="445" height="520" rx="10" fill="#1e293b" stroke="#10b981" stroke-width="1.5"/>
+<rect x="515" y="70" width="445" height="34" rx="10" fill="#064e3b"/>
+<text x="737" y="92" fill="#6ee7b7" font-family="system-ui, sans-serif" font-size="13" font-weight="700" text-anchor="middle">ДОСТАВКА КИСЛОРОДА К МИОКАРДУ</text>
+<!-- Supply Box 1: Flow -->
+<rect x="530" y="115" width="415" height="115" rx="8" fill="#0f172a" stroke="#10b981" stroke-width="1.2"/>
+<text x="545" y="138" fill="#34d399" font-family="system-ui, sans-serif" font-size="12" font-weight="700">Коронарный кровоток и вазомоторный тонус</text>
+<text x="545" y="158" fill="#cbd5e1" font-family="system-ui, sans-serif" font-size="10.5">Калибр эпикардиальных артерий и микрососудистое русло</text>
+<rect x="540" y="172" width="395" height="46" rx="6" fill="#1e1b4b" stroke="#6366f1" stroke-width="1"/>
+<text x="550" y="192" fill="#a5b4fc" font-family="system-ui, sans-serif" font-size="10" font-weight="600">Мишени:</text>
+<text x="550" y="208" fill="#34d399" font-family="system-ui, sans-serif" font-size="10.5" font-weight="700"> Нитраты, БКК, Никорандил</text>
+<!-- Supply Box 2: Diastolic Time -->
+<rect x="530" y="245" width="415" height="115" rx="8" fill="#0f172a" stroke="#0ea5e9" stroke-width="1.2"/>
+<text x="545" y="268" fill="#38bdf8" font-family="system-ui, sans-serif" font-size="12" font-weight="700">Продолжительность диастолической перфузии</text>
+<text x="545" y="288" fill="#cbd5e1" font-family="system-ui, sans-serif" font-size="10.5">Субэндокард кровоснабжается исключительно в диастолу</text>
+<rect x="540" y="302" width="395" height="46" rx="6" fill="#1e1b4b" stroke="#6366f1" stroke-width="1"/>
+<text x="550" y="322" fill="#a5b4fc" font-family="system-ui, sans-serif" font-size="10" font-weight="600">Мишени:</text>
+<text x="550" y="338" fill="#38bdf8" font-family="system-ui, sans-serif" font-size="10.5" font-weight="700"> β-Адреноблокаторы, Ивабрадин (Брадикардия)</text>
+<!-- Supply Box 3: Cellular Energetics -->
+<rect x="530" y="375" width="415" height="195" rx="8" fill="#0f172a" stroke="#8b5cf6" stroke-width="1.2"/>
+<text x="545" y="398" fill="#a78bfa" font-family="system-ui, sans-serif" font-size="12" font-weight="700">Клеточный метаболизм и энергобаланс</text>
+<text x="545" y="418" fill="#cbd5e1" font-family="system-ui, sans-serif" font-size="10.5">Кальциевая перегрузка через поздний INa ток и окисление ЖК</text>
+<rect x="540" y="432" width="395" height="125" rx="6" fill="#1e1b4b" stroke="#6366f1" stroke-width="1"/>
+<text x="550" y="452" fill="#a78bfa" font-family="system-ui, sans-serif" font-size="10.5" font-weight="700">RANOLAZINE (Inhibitor of Late INa Current):</text>
+<text x="550" y="470" fill="#e2e8f0" font-family="system-ui, sans-serif" font-size="10">Prevents cellular Na+ overload -> Prevents NCX Ca2+ overload</text>
+<text x="550" y="495" fill="#f59e0b" font-family="system-ui, sans-serif" font-size="10.5" font-weight="700">TRIMETAZIDINE (Selective pFOX Inhibitor):</text>
+<text x="550" y="513" fill="#e2e8f0" font-family="system-ui, sans-serif" font-size="10">Shifts ATP synthesis from fatty acid oxidation to glucose oxidation</text>
+<text x="550" y="538" fill="#38bdf8" font-family="system-ui, sans-serif" font-size="10" font-weight="600">Net Effect: Relieves angina without lowering heart rate or blood pressure</text>
+</svg>
+
 </div></details>
 
 </div></details>
 
 <details class="med-details"><summary>
 
-### Фармакокинетические свойства β-адреноблокаторов</summary><div class="details-content">
+### 1.3 Фармакокинетические свойства β-адреноблокаторов</summary><div class="details-content">
 
 <details class="med-details"><summary>
 
@@ -273,7 +339,7 @@ $\beta_1$-Адренорецепторы и передача сигнала. Р�
 
 <details class="med-details"><summary>
 
-### Клинические показания при ишемической болезни сердца</summary><div class="details-content">
+### 1.4 Клинические показания при ишемической болезни сердца</summary><div class="details-content">
 
 <details class="med-details"><summary>
 
@@ -355,7 +421,7 @@ $\beta_1$-Адренорецепторы и передача сигнала. Р�
 
 <details class="med-details"><summary>
 
-### Классификация и клиническая фармакология отдельных β-адреноблокаторов</summary><div class="details-content">
+### 1.5 Классификация и клиническая фармакология отдельных β-адреноблокаторов</summary><div class="details-content">
 
 <details class="med-details"><summary>
 
@@ -418,7 +484,7 @@ $\beta_1$-Адренорецепторы и передача сигнала. Р�
 
 <details class="med-details"><summary>
 
-### Побочные эффекты, сопутствующие заболевания и ведение передозировки</summary><div class="details-content">
+### 1.6 Побочные эффекты, сопутствующие заболевания и ведение передозировки</summary><div class="details-content">
 
 <details class="med-details"><summary>
 
@@ -507,11 +573,11 @@ $\beta_1$-Адренорецепторы и передача сигнала. Р�
 
 <details class="med-details"><summary>
 
-## Нитраты и нитритные препараты</summary><div class="details-content">
+## 2. Нитраты и нитритные препараты</summary><div class="details-content">
 
 <details class="med-details"><summary>
 
-### Механизмы действия и физиология сосудистого русла</summary><div class="details-content">
+### 2.1 Механизмы действия и физиология сосудистого русла</summary><div class="details-content">
 
 <details class="med-details"><summary>
 
@@ -553,7 +619,7 @@ $\beta_1$-Адренорецепторы и передача сигнала. Р�
 
 <details class="med-details"><summary>
 
-### Лекарственные препараты, формы выпуска и схемы терапии</summary><div class="details-content">
+### 2.2 Лекарственные препараты, формы выпуска и схемы терапии</summary><div class="details-content">
 
 <details class="med-details"><summary>
 
@@ -636,7 +702,7 @@ $\beta_1$-Адренорецепторы и передача сигнала. Р�
 
 <details class="med-details"><summary>
 
-### Побочные эффекты, толерантность и лекарственные взаимодействия</summary><div class="details-content">
+### 2.3 Побочные эффекты, толерантность и лекарственные взаимодействия</summary><div class="details-content">
 
 <details class="med-details"><summary>
 
@@ -742,7 +808,7 @@ $\beta_1$-Адренорецепторы и передача сигнала. Р�
 
 <details class="med-details"><summary>
 
-### Клеточные механизмы, молекулярная анатомия и классификация БКК</summary><div class="details-content">
+### 3.1 Клеточные механизмы, молекулярная анатомия и классификация БКК</summary><div class="details-content">
 
 <details class="med-details"><summary>
 
@@ -815,7 +881,7 @@ $\beta_1$-Адренорецепторы и передача сигнала. Р�
 
 <details class="med-details"><summary>
 
-### Недигидропиридиновые БКК: Верапамил и Дилтиазем</summary><div class="details-content">
+### 3.2 Недигидропиридиновые БКК: Верапамил и Дилтиазем</summary><div class="details-content">
 
 <details class="med-details"><summary>
 
@@ -911,7 +977,7 @@ $\beta_1$-Адренорецепторы и передача сигнала. Р�
 
 <details class="med-details"><summary>
 
-### Дигидропиридиновые БКК: Нифедипин, Амлодипин и третье поколение</summary><div class="details-content">
+### 3.3 Дигидропиридиновые БКК: Нифедипин, Амлодипин и третье поколение</summary><div class="details-content">
 
 <details class="med-details"><summary>
 
@@ -993,11 +1059,11 @@ $\beta_1$-Адренорецепторы и передача сигнала. Р�
 
 <details class="med-details"><summary>
 
-## Новые (нетрадиционные) антиангинальные средства</summary><div class="details-content">
+## 4. Новые (нетрадиционные) антиангинальные средства</summary><div class="details-content">
 
 <details class="med-details"><summary>
 
-#### Ингибирование позднего входящего натриевого тока: Ранолазин</summary><div class="details-content">
+### 4.1 Ингибирование позднего входящего натриевого тока: Ранолазин</summary><div class="details-content">
 
 Ранолазин является эталонным селективным ингибитором позднего входящего натриевого тока ($I_{Na,late}$) в кардиомиоцитах ([Рис. 1.30](#fig-01-30)). В условиях ишемии миокарда патологическое фосфорилирование и окислительная модификация потенциал-зависимых натриевых каналов сердца ($Nav1.5$) приводят к возникновению незатухающего позднего натриевого тока. Внутриклеточное накопление натрия запускает работу натрий-кальциевого обменника ($NCX$) в реверсивном режиме, что ведёт к вторичной токсической перегрузке цитозоля и митохондрий ионами кальция.
 
@@ -1013,7 +1079,7 @@ $\beta_1$-Адренорецепторы и передача сигнала. Р�
 
 <details class="med-details"><summary>
 
-#### Селективное ингибирование пейсмекерного If-тока синусового узла: Ивабрадин</summary><div class="details-content">
+### 4.2 Селективное ингибирование пейсмекерного If-тока синусового узла: Ивабрадин</summary><div class="details-content">
 
 Ивабрадин — прямой селективный ингибитор пейсмекерного тока $I_f$ ("funny" current) гиперполяризационно-активируемых циклонуклеотид-зависимых (HCN) каналов клеток синоатриального узла. Замедляя фазу спонтанной диастолической деполяризации, ивабрадин обеспечивает чистое, дозозависимое урежение частоты сердечных сокращений без влияния на сократимость миокарда, реполяризацию желудочков, внутрисердечную проводимость и сосудистый тонус.
 
@@ -1023,7 +1089,7 @@ $\beta_1$-Адренорецепторы и передача сигнала. Р�
 
 <details class="med-details"><summary>
 
-#### Метаболические модуляторы и активаторы калиевых каналов: Триметазидин, Пергексилин и Никорандил</summary><div class="details-content">
+### 4.3 Метаболические модуляторы и активаторы калиевых каналов: Триметазидин, Пергексилин и Никорандил</summary><div class="details-content">
 
 Триметазидин и пергексилин: метаболические антиангинальные средства. Триметазидин избирательно ингибирует митохондриальную 3-кетоацил-КоА-тиолазу (3-КАТ), подавляя энергозатратное $\beta$-окисление свободных жирных кислот и переключая энергетический метаболизм кардиомиоцита на окисление глюкозы. Поскольку аэробный гликолиз требует значительно меньше кислорода на синтез каждой молекулы АТФ, триметазидин сохраняет внутриклеточный пул макроэргов, поддерживает клеточный гомеостаз и устраняет внутриклеточный ацидоз при ишемии без влияния на гемодинамику.
 
@@ -1035,11 +1101,11 @@ $\beta_1$-Адренорецепторы и передача сигнала. Р�
 
 <details class="med-details"><summary>
 
-## Резюме и сравнительные алгоритмы антиангинальной терапии</summary><div class="details-content">
+## 5. Резюме и сравнительные алгоритмы антиангинальной терапии</summary><div class="details-content">
 
 <details class="med-details"><summary>
 
-### Сравнительный клинический синтез основных антиангинальных классов</summary><div class="details-content">
+### 5.1 Сравнительный клинический синтез основных антиангинальных классов</summary><div class="details-content">
 
 Интегрированный клинический синтез антиангинальной фармакотерапии. Современная терапия хронической стабильной стенокардии напряжения и острых коронарных синдромов базируется на взаимодополняющем фармакологическом действии трёх классических классов препаратов (нитраты, β-адреноблокаторы и блокаторы кальциевых каналов) в сочетании с современными метаболическими средствами и ингибиторами позднего входящего натриевого тока.
 
@@ -1051,7 +1117,7 @@ $\beta_1$-Адренорецепторы и передача сигнала. Р�
 
 <details class="med-details"><summary>
 
-### Антагонисты кальция, дигидропиридины и метаболическая терапия второй линии</summary><div class="details-content">
+### 5.2 Антагонисты кальция, дигидропиридины и метаболическая терапия второй линии</summary><div class="details-content">
 
 3. **Блокаторы кальциевых каналов (БКК):** Подразделяются на две функциональные подгруппы в зависимости от молекулярного связывания с $\alpha_1$-субъединицей канала L-типа:
 
@@ -1065,7 +1131,7 @@ $\beta_1$-Адренорецепторы и передача сигнала. Р�
 
 <details class="med-details"><summary>
 
-### Интегрированный клинический алгоритм ведения хронических коронарных синдромов</summary><div class="details-content">
+### 5.3 Интегрированный клинический алгоритм ведения хронических коронарных синдромов</summary><div class="details-content">
 
 Ступенчатый клинический алгоритм ведения хронических коронарных синдромов:
 
@@ -1074,6 +1140,101 @@ $\beta_1$-Адренорецепторы и передача сигнала. Р�
 * **Шаг 2 (Комбинированная терапия первого ряда):** При сохранении симптомов стенокардии на фоне оптимальной дозы β-блокатора присоединяют пролонгированный дигидропиридиновый БКК (амлодипин 5–10 мг 1 раз в сутки или нифедипин GITS 30–60 мг 1 раз в сутки) для достижения двойной вазодилатации и устранения ишемии.
 
 * **Шаг 3 (Тройная терапия и резервные средства):** При рефрактерной стенокардии добавляют нитрат длительного действия с обязательным эксцентрическим режимом приёма (изосорбида мононитрат ретард 30–120 мг утром) или ранолазин (500–1000 мг 2 раза в сутки). Пациентам с синусовым ритмом и ЧСС $\ge 70$ уд/мин на фоне максимально переносимой дозы β-блокатора показано присоединение ивабрадина (5–7,5 мг 2 раза в сутки). При сохранении рефрактерной ишемии показано безотлагательное проведение коронароангиографии с реваскуляризацией миокарда (ЧКВ или КШ).
+
+<span id="diag-01-02"></span>
+
+### СХЕМА 1.2: Пошаговый клинический алгоритм антиангинальной терапии хронических коронарных синдромов
+
+<svg viewBox="0 0 1000 680" style="width:100%; max-width:1000px; height:auto; display:block; margin:16px auto;" xmlns="http://www.w3.org/2000/svg">
+<rect width="1000" height="680" rx="12" fill="#0f172a" stroke="#334155" stroke-width="2"/>
+<text x="500" y="32" fill="#38bdf8" font-family="system-ui, sans-serif" font-size="15" font-weight="700" text-anchor="middle" letter-spacing="1">СТУПЕНЧАТЫЙ АЛГОРИТМ АНТИАНГИНАЛЬНОЙ ТЕРАПИИ ХРОНИЧЕСКИХ КОРОНАРНЫХ СИНДРОМОВ</text>
+<text x="500" y="52" fill="#94a3b8" font-family="system-ui, sans-serif" font-size="11" text-anchor="middle">Дифференцированный выбор препаратов ESC/ACC в зависимости от ЧСС, АД и функции левого желудочка</text>
+<!-- Step 1: Base -->
+<rect x="50" y="70" width="900" height="52" rx="8" fill="#1e293b" stroke="#3b82f6" stroke-width="1.5"/>
+<text x="500" y="91" fill="#93c5fd" font-family="system-ui, sans-serif" font-size="11.5" font-weight="700" text-anchor="middle">БАЗИСНАЯ ВТОРИЧНАЯ ПРОФИЛАКТИКА И КУПИРОВАНИЕ ПРИСТУПОВ (КЛАСС I)</text>
+<text x="500" y="109" fill="#cbd5e1" font-family="system-ui, sans-serif" font-size="10.5" text-anchor="middle">Нитроглицерин сублингвально (для купирования) + Аспирин (или клопидогрел), высокоинтенсивный статин, иАПФ/БРА</text>
+<!-- Line down -->
+<line x1="500" y1="122" x2="500" y2="138" stroke="#64748b" stroke-width="2"/>
+<!-- Step 2 Title Banner -->
+<rect x="50" y="138" width="900" height="28" rx="6" fill="#064e3b" stroke="#10b981" stroke-width="1.5"/>
+<text x="500" y="157" fill="#6ee7b7" font-family="system-ui, sans-serif" font-size="11.5" font-weight="700" text-anchor="middle">ПЕРВАЯ ЛИНИЯ АНТИАНГИНАЛЬНОЙ ТЕРАПИИ: ФЕНОТИП-ОРИЕНТИРОВАННЫЙ ВЫБОР</text>
+<!-- Phenotype 5 Boxes -->
+<path d="M 500 166 L 500 178 M 130 178 L 870 178 M 130 178 L 130 190 M 315 178 L 315 190 M 500 178 L 500 190 M 685 178 L 685 190 M 870 178 L 870 190" fill="none" stroke="#64748b" stroke-width="1.5"/>
+<!-- Pheno 1: Elevated HR -->
+<rect x="45" y="190" width="170" height="150" rx="8" fill="#0f172a" stroke="#ef4444" stroke-width="1.2"/>
+<rect x="45" y="190" width="170" height="26" rx="8" fill="#991b1b"/>
+<text x="130" y="207" fill="#ffffff" font-family="system-ui, sans-serif" font-size="9" font-weight="700" text-anchor="middle">Стандартная / повышенная ЧСС </text>
+<text x="130" y="230" fill="#f87171" font-family="system-ui, sans-serif" font-size="10" font-weight="700" text-anchor="middle">BETA-BLOCKER</text>
+<text x="130" y="245" fill="#f87171" font-family="system-ui, sans-serif" font-size="9.5" font-weight="700" text-anchor="middle">or Non-DHP CCB</text>
+<text x="55" y="270" fill="#cbd5e1" font-family="system-ui, sans-serif" font-size="9">- Target resting HR: 55-60</text>
+<text x="55" y="288" fill="#cbd5e1" font-family="system-ui, sans-serif" font-size="9">- Blunts exercise ischemia</text>
+<text x="55" y="325" fill="#10b981" font-family="system-ui, sans-serif" font-size="9" font-weight="600">Standard First Choice</text>
+<!-- Pheno 2: Low HR -->
+<rect x="230" y="190" width="170" height="150" rx="8" fill="#0f172a" stroke="#3b82f6" stroke-width="1.2"/>
+<rect x="230" y="190" width="170" height="26" rx="8" fill="#1d4ed8"/>
+<text x="315" y="207" fill="#ffffff" font-family="system-ui, sans-serif" font-size="9" font-weight="700" text-anchor="middle">Низкая ЧСС </text>
+<text x="315" y="235" fill="#60a5fa" font-family="system-ui, sans-serif" font-size="10.5" font-weight="700" text-anchor="middle">DHP CCB</text>
+<text x="240" y="260" fill="#cbd5e1" font-family="system-ui, sans-serif" font-size="9">Amlodipine 5-10 mg</text>
+<text x="240" y="275" fill="#cbd5e1" font-family="system-ui, sans-serif" font-size="9">Felodipine / Nifedipine ER</text>
+<text x="240" y="295" fill="#fca5a5" font-family="system-ui, sans-serif" font-size="9">- Avoid BB & Non-DHP</text>
+<text x="240" y="325" fill="#60a5fa" font-family="system-ui, sans-serif" font-size="9" font-weight="600">No negative chronotropy</text>
+<!-- Pheno 3: HFrEF -->
+<rect x="415" y="190" width="170" height="150" rx="8" fill="#0f172a" stroke="#8b5cf6" stroke-width="1.2"/>
+<rect x="415" y="190" width="170" height="26" rx="8" fill="#6d28d9"/>
+<text x="500" y="207" fill="#ffffff" font-family="system-ui, sans-serif" font-size="9" font-weight="700" text-anchor="middle">HFrEF (EF &lt;= 40%)</text>
+<text x="500" y="235" fill="#c084fc" font-family="system-ui, sans-serif" font-size="10" font-weight="700" text-anchor="middle">GDMT BETA-BLOCKER</text>
+<text x="425" y="260" fill="#cbd5e1" font-family="system-ui, sans-serif" font-size="9">Carvedilol / Bisoprolol /</text>
+<text x="425" y="275" fill="#cbd5e1" font-family="system-ui, sans-serif" font-size="9">Metoprolol succinate</text>
+<text x="425" y="295" fill="#fca5a5" font-family="system-ui, sans-serif" font-size="9">- Verapamil/Diltiazem BANNED</text>
+<text x="425" y="325" fill="#c084fc" font-family="system-ui, sans-serif" font-size="9" font-weight="600">Proven mortality benefit</text>
+<!-- Pheno 4: Vasospastic -->
+<rect x="600" y="190" width="170" height="150" rx="8" fill="#0f172a" stroke="#f59e0b" stroke-width="1.2"/>
+<rect x="600" y="190" width="170" height="26" rx="8" fill="#b45309"/>
+<text x="685" y="207" fill="#ffffff" font-family="system-ui, sans-serif" font-size="9" font-weight="700" text-anchor="middle">Prinzmetal / Spasm</text>
+<text x="685" y="230" fill="#fbbf24" font-family="system-ui, sans-serif" font-size="10" font-weight="700" text-anchor="middle">DHP CCB + NITRATE</text>
+<text x="610" y="255" fill="#cbd5e1" font-family="system-ui, sans-serif" font-size="9">High-dose CCB (Diltiazem</text>
+<text x="610" y="270" fill="#cbd5e1" font-family="system-ui, sans-serif" font-size="9">or Amlodipine) + ISMN</text>
+<text x="610" y="295" fill="#f87171" font-family="system-ui, sans-serif" font-size="9">- BBs CONTRAINDICATED</text>
+<text x="610" y="325" fill="#fbbf24" font-family="system-ui, sans-serif" font-size="9" font-weight="600">Prevents coronary spasm</text>
+<!-- Pheno 5: Low BP -->
+<rect x="785" y="190" width="170" height="150" rx="8" fill="#0f172a" stroke="#10b981" stroke-width="1.2"/>
+<rect x="785" y="190" width="170" height="26" rx="8" fill="#047857"/>
+<text x="870" y="207" fill="#ffffff" font-family="system-ui, sans-serif" font-size="9" font-weight="700" text-anchor="middle">Low BP (SBP &lt;= 100)</text>
+<text x="870" y="230" fill="#34d399" font-family="system-ui, sans-serif" font-size="10" font-weight="700" text-anchor="middle">RANOLAZINE /</text>
+<text x="870" y="245" fill="#34d399" font-family="system-ui, sans-serif" font-size="10" font-weight="700" text-anchor="middle">TRIMETAZIDINE</text>
+<text x="795" y="270" fill="#cbd5e1" font-family="system-ui, sans-serif" font-size="9">or Low-Dose BB</text>
+<text x="795" y="288" fill="#cbd5e1" font-family="system-ui, sans-serif" font-size="9">No effect on SBP or HR</text>
+<text x="795" y="325" fill="#34d399" font-family="system-ui, sans-serif" font-size="9" font-weight="600">Hemodynamically neutral</text>
+<!-- Down to Step 3 -->
+<path d="M 130 340 L 130 360 M 315 340 L 315 360 M 500 340 L 500 360 M 685 340 L 685 360 M 870 340 L 870 360 M 130 360 L 870 360 M 500 360 L 500 375" fill="none" stroke="#64748b" stroke-width="1.5"/>
+<!-- Step 3: Second Line -->
+<rect x="50" y="375" width="900" height="160" rx="8" fill="#1e293b" stroke="#f59e0b" stroke-width="1.5"/>
+<rect x="50" y="375" width="900" height="28" rx="8" fill="#b45309"/>
+<text x="500" y="394" fill="#ffffff" font-family="system-ui, sans-serif" font-size="11.5" font-weight="700" text-anchor="middle">ВТОРАЯ ЛИНИЯ ТЕРАПИИ (ПРИ СОХРАНЕНИИ ПРИСТУПОВ СТЕНОКАРДИИ)</text>
+<!-- 3 Subcards in Second-Line -->
+<rect x="70" y="415" width="270" height="105" rx="6" fill="#0f172a" stroke="#0ea5e9" stroke-width="1.2"/>
+<text x="205" y="438" fill="#38bdf8" font-family="system-ui, sans-serif" font-size="11" font-weight="700" text-anchor="middle">DUAL COMBINATION: BB + DHP CCB</text>
+<text x="80" y="460" fill="#cbd5e1" font-family="system-ui, sans-serif" font-size="9.5">- Bisoprolol/Metoprolol + Amlodipine</text>
+<text x="80" y="478" fill="#cbd5e1" font-family="system-ui, sans-serif" font-size="9.5">- Most effective synergistic combination</text>
+<text x="80" y="502" fill="#10b981" font-family="system-ui, sans-serif" font-size="9.5" font-weight="600">Class I ESC Recommendation</text>
+<rect x="365" y="415" width="270" height="105" rx="6" fill="#0f172a" stroke="#8b5cf6" stroke-width="1.2"/>
+<text x="500" y="438" fill="#c084fc" font-family="system-ui, sans-serif" font-size="11" font-weight="700" text-anchor="middle">ADD-ON RANOLAZINE / TRIMETAZIDINE</text>
+<text x="375" y="460" fill="#cbd5e1" font-family="system-ui, sans-serif" font-size="9.5">- Ranolazine 500-1000 mg BID</text>
+<text x="375" y="478" fill="#cbd5e1" font-family="system-ui, sans-serif" font-size="9.5">- Trimetazidine MR 35 mg BID</text>
+<text x="375" y="502" fill="#c084fc" font-family="system-ui, sans-serif" font-size="9.5" font-weight="600">Effective without BP/HR drops</text>
+<rect x="660" y="415" width="270" height="105" rx="6" fill="#0f172a" stroke="#10b981" stroke-width="1.2"/>
+<text x="795" y="438" fill="#34d399" font-family="system-ui, sans-serif" font-size="11" font-weight="700" text-anchor="middle">ADD IVABRADINE OR LONG-ACTING NITRATE</text>
+<text x="670" y="460" fill="#cbd5e1" font-family="system-ui, sans-serif" font-size="9.5">- Ivabradine 5-7.5 mg BID (if sinus HR >= 70)</text>
+<text x="670" y="478" fill="#cbd5e1" font-family="system-ui, sans-serif" font-size="9.5">- ISMN / Transdermal NTG (with nitrate-free interval)</text>
+<text x="670" y="502" fill="#34d399" font-family="system-ui, sans-serif" font-size="9.5" font-weight="600">Caution: Nitrate tolerance</text>
+<!-- Down to Step 4 -->
+<line x1="500" y1="535" x2="500" y2="555" stroke="#64748b" stroke-width="2"/>
+<!-- Step 4: Refractory -->
+<rect x="50" y="555" width="900" height="95" rx="8" fill="#311042" stroke="#d946ef" stroke-width="1.5"/>
+<text x="500" y="580" fill="#f0abfc" font-family="system-ui, sans-serif" font-size="12" font-weight="700" text-anchor="middle">ТРЕТЬЯ ЛИНИЯ / РЕФРАКТЕРНАЯ СТЕНОКАРДИЯ</text>
+<text x="500" y="602" fill="#e879f9" font-family="system-ui, sans-serif" font-size="11" text-anchor="middle">Тройная антиангинальная терапия  +  Инвазивная коронароангиография (КАГ) и реваскуляризация (ЧКВ / АКШ)</text>
+<text x="500" y="625" fill="#fbcfe8" font-family="system-ui, sans-serif" font-size="10.5" text-anchor="middle">Assess anatomical complexity (SYNTAX Score) -> Heart Team decision: Percutaneous Coronary Intervention vs. CABG Surgery</text>
+</svg>
 
 </div></details>
 

@@ -253,6 +253,10 @@ Many of the techniques of mitral valve reconstruction have been applied to repai
 
 When TV replacement is required, the leaflets are excised, and a 3- to 5-mm fringe of leaflet tissue is left on the anulus (Fig. 13.7). Alternatively, the septal leaflet may be left in situ. Interrupted pledgeted mattress sutures are placed in the remaining skirt of leaflet tissue along the area occupied by the septal leaflet to avoid damaging the AV node and the bundle of His. Either a continuous polypropylene suture or interrupted pledgeted mattress sutures may be used for the remainder of the insertion. Alternatively, simple interrupted sutures may be used throughout.
 
+![](_page_7_Figure_2.jpeg)
+
+**Figure 13.7** TV replacement. (A) Exposure is as for repair. All three leaflets of the TV are excised, leaving a cuff at the base of the septal leaflet 5 to 8 mm wide. Alternatively, the septal leaflet may be left in situ. (B) Starting at the midpoint of the septal leaflet cuff, interrupted horizontal mattress sutures buttressed with felt pledgets are placed first into remaining valve tissue and then through the sewing ring of the replacement device. (C) After placing four to five interrupted mattress sutures, remainder of the insertion might be completed using a continuous suture technique. Interrupted sutures can also be used circumferentially. Bites may be through the anulus, mindful that the right coronary artery lies deep to the anulus anteriorly. *AV,* Atrioventricular.
+
 </div></details>
 
 <details class="med-details"><summary>

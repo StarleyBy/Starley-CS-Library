@@ -1,306 +1,386 @@
-# Chapter 37
+# Magnesium
 
-# **Magnesium**
+> *You can know the name of a bird in all the languages of the world, but you'll know absolutely nothing about the bird. So let's look at the bird and see what it's doing – that's what counts.*  
+> — Richard Feynman
 
-*You can know the name of a bird in all the languages of the world, but you'll know absolutely nothing about the bird. So let's look at the bird and see what it's doing – that's what counts.*
+<details class="med-details" open><summary>
 
-Richard Feynman (*[a](#page-9-0)*)
+## Executive Summary</summary><div class="details-content">
 
-Magnesium is essential for energy utilization in the organic world. To begin with, magnesium is the heart of the chlorophyll molecule in green plants, which captures the radiant energy in sunlight and stores it in the carbon bonds that hold carbohydrates together. Aerobic organisms then transfer this energy to adenosine triphosphate (ATP), and the release of energy from ATP requires magnesium (which is an essential cofactor for ATPase enzymes). Thus, magnesium is essential for providing us with energy from the sun, and for allowing us to utilize this energy to sustain life.
+### Clinical Insights into Magnesium Homeostasis
 
-Magnesium is also essential for the proper functioning of the Na+–K+ exchange pump (which is a magnesium-dependent ATPase) that is responsible for the electrical gradient across cell membranes. As a result, magnesium plays an important role in the activity of excitable tissues ([1–](#page-9-1)[4\)](#page-9-2). Magnesium also regulates the movement of calcium into smooth muscle cells, which gives it a pivotal role in the maintenance of cardiac contractile strength and peripheral vascular tone ([4\)](#page-9-2).
+- **The Master Energetic Cofactor:** Magnesium is the central coordinating atom in chlorophyll and the indispensable cofactor for all ATP-dependent enzymatic reactions, including the $\text{Na}^+/\text{K}^+$-ATPase pump and vascular smooth muscle calcium channels.
+- **Extreme Intracellular Compartmentalization:** An adult human body contains approximately $24\text{ g}$ ($1\text{ mol}$ or $2,000\text{ mEq}$) of magnesium. Over 50% resides in the mineralized matrix of bone and 46% within intracellular soft tissues. Less than 1% ($0.3\%$ in plasma) circulates in the extracellular space. Normal serum magnesium levels routinely coexist with severe total body magnesium depletion.
+- **High Prevalence in Critical Illness:** Hypomagnesemia develops in up to 65% of ICU patients, overwhelmingly driven by loop diuretics (furosemide causes magnesium deficiency in 50% of chronic users), aminoglycosides, proton pump inhibitors, chronic alcohol use disorder (44%), and diabetic ketoacidosis.
+- **Refractory Secondary Electrolyte Derangements:** Magnesium depletion disables renal tubular $\text{Na}^+/\text{K}^+$-ATPase and unblocks apical ROMK channels, causing refractory kaliuresis. It also blunts parathyroid hormone release and creates end-organ parathyroid resistance. Hypokalemia and hypocalcemia are completely refractory to replacement therapy until magnesium deficits are corrected.
+- **Electrophysiological Hazards:** Hypomagnesemia hyperpolarizes resting membrane potentials, exacerbating digitalis toxicity and provoking refractory ventricular arrhythmias, most notably torsades de pointes.
+- **Protocolized Parenteral Resuscitation:** Because erratic enteral absorption limits oral repletion in critical illness, intravenous magnesium sulfate heptahydrate ($\text{MgSO}_4 \cdot 7\text{H}_2\text{O}$, containing $8\text{ mEq}$ or $4\text{ mmol}$ elemental magnesium per gram) is required. Severe or life-threatening hypomagnesemia requires an initial bolus of $2\text{ g}$ IV over 2–5 minutes, followed by continuous infusions of $5\text{ g}$ over 6 hours and $5\text{ g}$ every 12 hours for 5 days.
+- **The Magnesium Retention Test:** In patients with preserved renal function, measuring 24-hour urinary magnesium excretion following an intravenous load of $6\text{ g}$ $\text{MgSO}_4$ provides the gold standard assessment of tissue saturation: excretion of $< 50\%$ indicates persistent tissue depletion, whereas $> 80\%$ confirms repletion.
+- **Hypermagnesemia and Antagonism:** Hypermagnesemia ($> 2.4\text{ mg/dL}$ or $> 2.0\text{ mEq/L}$) is primarily seen when renal failure ($\text{CrCl} < 30\text{ mL/min}$) is combined with exogenous intake. Acting as a physiological calcium channel blocker, levels $> 5\text{ mEq/L}$ produce conduction block and $> 13\text{ mEq/L}$ trigger cardiac arrest. Immediate emergency antagonism requires $1\text{ g}$ of $10\%$ calcium gluconate IV, followed by emergent hemodialysis.
+</div></details>
 
-Now that's an element.
+<details class="med-details" open><summary>
 
-# **MAGNESIUM BASICS**
+## Biophysics, Distribution, and Laboratory Measurement</summary><div class="details-content">
 
-The distribution of magnesium (Mg) in the human body is shown in [Table](#page-1-0) 37.1 [\(5](#page-9-3)). The averagesized adult contains approximately 24 g (1 mole, or 2,000 mEq) of magnesium; a little over half is located in bone, whereas *less than 1% is located in plasma*. This lack of representation in the plasma limits the value of the plasma Mg as a measure of total body Mg (similar to the limitation described for the plasma K+ measurement). One consequence of this is that *plasma Mg levels can be normal in the face of total body Mg depletion* ([5,](#page-9-3)[6\)](#page-9-4).
+<details class="med-details" open><summary>
 
-## **Serum Magnesium**
+### Physiological Roles and Total Body Distribution</summary><div class="details-content">
 
-Serum is favored over plasma for measuring Mg levels because the anticoagulant used for plasma samples can be contaminated with citrate or other anions that bind Mg [\(5](#page-9-3)). The reference range for serum Mg depends on the daily Mg intake, which varies according to geographic region. The normal range of serum Mg for [healthy](#page-2-0) adults in the United States is shown in Table 37.2 ([7\)](#page-9-5).
+Magnesium is the second most abundant intracellular cation (surpassed only by potassium) and the fourth most abundant cation in the human body. It acts as an obligate cofactor in more than 300 enzymatic reactions, primarily those involving the transphosphorylation of adenosine triphosphate ($\text{ATP}$). Because biologically active ATP exists as a chelated magnesium complex ($\text{Mg-ATP}^{2-}$), cellular energy production, protein synthesis, and nucleic acid stability are strictly magnesium-dependent.
 
-## *Converting Units*
+Furthermore, magnesium regulates the inward flux of calcium through L-type calcium channels in vascular smooth muscle and myocardium, directly modulating systemic vascular resistance, cardiac contractility, and membrane stability.
 
-The clinical laboratory typically reports the serum Mg concentration in mg/dL (because Mg is partially bound to plasma proteins), while the medical literature typically uses mEq/L for the serum Mg concentration. The conversion is as follows:
+<details class="med-details" open><summary>
 
-$$mEq/L = \frac{mg/dL \times 10}{mol \text{ wt}} \times \text{valence}$$
- (37.1)
+#### <span id="tbl-37-1"></span>TABLE 37.1 Magnesium Distribution in a 70 kg Adult</summary><div class="details-content">
 
-where mol wt is the molecular weight (atomic weight in the case of Mg) and valence is the number of charges on the atom or molecule. Magnesium has an atomic weight of 24 and a valence of 2, so a serum Mg concentration of 1.7 mg/dL is equivalent to (1.7 × 10)/24 × 2 = 1.4 mEq/L.
+| Anatomical Compartment | Percentage of Total Body Mg | Total Amount ($\text{mEq}$) | Total Amount ($\text{g}$) |
+| :--- | :---: | :---: | :---: |
+| **Bone (Mineral Matrix)** | 53% | 1,060 | 12.7 |
+| **Skeletal Muscle** | 27% | 540 | 6.5 |
+| **Non-Muscle Soft Tissues** | 19% | 380 | 4.6 |
+| **Extracellular Fluid (ECF)** | 1% | 20 | 0.24 |
+| • *Interstitial Fluid* | 0.7% | 14 | 0.17 |
+| • *Plasma (Intravascular)* | 0.3% | 6 | 0.07 |
+| **Total Body Magnesium** | **100%** | **2,000** | **24.0** |
 
-To complicate matters further, the International System of Units (SI units) uses mmol/L to express the serum Mg concentration. The conversion is: mmol/L = mEq/L × 0.5.
+</div></details>
 
-<span id="page-1-0"></span>
+As detailed in Table 37.1, an average $70\text{ kg}$ adult possesses approximately $24\text{ g}$ ($1\text{ mole}$, or $2,000\text{ mEq}$) of magnesium. Over half is bound within the hydroxyapatite crystal lattice of bone, serving as a slow-exchange reservoir, while $46\%$ resides inside soft tissue cells.
 
-| TABLE<br>37.1 | Magnesium<br>Distribution<br>in<br>a<br>70<br>kg<br>Adult |  |  |
-|---------------|-----------------------------------------------------------|--|--|
-|               |                                                           |  |  |
-|               |                                                           |  |  |
-|               |                                                           |  |  |
-|               |                                                           |  |  |
-|               |                                                           |  |  |
-|               |                                                           |  |  |
-|               |                                                           |  |  |
+Because intravascular plasma accounts for only **$0.3\%$ of total body magnesium**, routine serum measurements evaluate a minuscule fraction of systemic stores. Normal serum levels routinely mask severe total body depletion.
+</div></details>
 
-#### *Ionized Magnesium*
+<details class="med-details" open><summary>
 
-About 67% of the Mg in plasma is in the ionized (active) form (see [Table](#page-2-0) 37.2), and the remaining 33% is either bound to plasma proteins, or chelated with divalent anions such as phosphate and sulfate [\(8](#page-9-6)). The standard assay for Mg measures all three fractions, so in cases of hypomagnesemia, it is not possible to determine if the problem is a decrease in the ionized (active) fraction, or a decrease in the bound fractions (e.g., hypoproteinemia) ([9\)](#page-9-7). The level of ionized Mg can be measured with an ion-specific electrode, but this is not routinely available.
+### Serum Magnesium Fractions and Unit Conversions</summary><div class="details-content">
 
-However, the clinical significance of monitoring ionized Mg versus total Mg is unclear.
+Clinical laboratories report magnesium in either mass concentration ($\text{mg/dL}$), chemical equivalence ($\text{mEq/L}$), or SI molarity ($\text{mmol/L}$). Serum is preferred over plasma because common plasma anticoagulants (citrate, EDTA) chelate divalent cations and distort spectrophotometric assays.
 
-<span id="page-2-0"></span>
+#### Mathematical Conversion of Units
 
-| TABLE<br>37.2  | Reference<br>Ranges<br>for<br>Serum<br>Magnesium |         |         |
-|----------------|--------------------------------------------------|---------|---------|
-|                | mg/dL                                            | mEq/L   | mmol/L  |
-| Total Serum Mg | 1.7–2.4                                          | 1.4–2.0 | 0.7–1.0 |
-| Ionized Mg     | —                                                | 0.8–1.1 | 0.4–0.6 |
+Magnesium has an atomic weight of 24 and a chemical valence of 2. Conversion between units is calculated:
 
-## **Urinary Magnesium**
+$$\text{mEq/L} = \frac{\text{mg/dL} \times 10}{\text{atomic weight}} \times \text{valence} = \frac{\text{mg/dL} \times 10}{24} \times 2 \tag{37.1}$$
 
-Only small quantities of Mg are normally excreted in the urine (i.e., about 5–15 mEq in 24 hrs) ([7\)](#page-9-5). When Mg intake is deficient, the kidneys conserve Mg further, and urinary Mg excretion falls to negligible levels. This is shown in [Figure](#page-2-1) 37.1 [\(10](#page-9-8)). Note that the plasma Mg remains in the normal range one week after starting a magnesium-free diet, while the urinary Mg excretion has dropped to negligible levels. This illustrates the relative value of urinary Mg excretion in the early detection of Mg deficiency.
+##### SI Molar Conversion Formula
 
-<span id="page-2-1"></span>![](_page_2_Figure_4.jpeg)
+$$\text{mmol/L} = \text{mEq/L} \times 0.5 \tag{37.2}$$
 
-**FIGURE 37.1** Urinary magnesium excretion and plasma magnesium levels in a healthy volunteer placed on a magnesium-free diet. Solid bars on the vertical axis represent the normal range for each variable. Adapted from Reference 10.
+For example, a serum magnesium concentration of $1.7\text{ mg/dL}$ equates to $(1.7 \times 10 / 24) \times 2 = 1.4\text{ mEq/L}$, or $0.7\text{ mmol/L}$.
 
-# **MAGNESIUM DEFICIENCY**
+<details class="med-details" open><summary>
 
-Hypomagnesemia (total serum Mg < 1.7 mg/dL or <0.7 mmol/L) is reported in as many as 65% of ICU patients ([2,](#page-9-9)[11\)](#page-9-10), and the frequency of magnesium deficiency is likely to be higher (because magnesium deficiency can exist without hypomagnesemia).
+#### <span id="tbl-37-2"></span>TABLE 37.2 Reference Ranges for Serum Magnesium</summary><div class="details-content">
 
-# **Predisposing Conditions**
+| Magnesium Fraction | Concentration ($\text{mg/dL}$) | Concentration ($\text{mEq/L}$) | Concentration ($\text{mmol/L}$) |
+| :--- | :---: | :---: | :---: |
+| **Total Serum Magnesium** | 1.7–2.4 | 1.4–2.0 | 0.7–1.0 |
+| **Ionized (Free) Magnesium** | — | 0.8–1.1 | 0.4–0.6 |
 
-The most common predisposing conditions for magnesium depletion in the ICU are listed in [Table](#page-3-0) 37.3.
+</div></details>
 
-<span id="page-3-0"></span>
+#### Ionized vs. Total Magnesium
 
-| TABLE<br>37.3                                                                                                                                                                                | Markers<br>of<br>Possible<br>Magnesium<br>Depletion§                                                                                                                                                                               |  |  |
-|----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|--|--|
-| Predisposing Conditions                                                                                                                                                                      | Clinical Findings                                                                                                                                                                                                                  |  |  |
-| Drug Therapy:<br>Furosemide (50%)<br>Aminoglycosides (30%)<br>Proton Pump Inhibitors<br>Insulin<br>Alcohol Use Disorder (44%)<br>Diabetes Mellitus<br>Diarrhea (secretory)<br>Acute MI (80%) | Electrolyte Disorders:<br>Hypokalemia (40%)<br>Hypophosphatemia (30%)<br>Hyponatremia (27%)<br>Hypocalcemia (22%)<br>Cardiac Manifestations:<br>Coronary Ischemia<br>Arrhythmias<br>Digitalis Toxicity<br>Hyperactive CNS Syndrome |  |  |
+As outlined in Table 37.2, total serum magnesium comprises three distinct physicochemical fractions:
 
-<sup>§</sup>Parentheses indicate frequency of associated hypomagnesemia.
+- **Ionized (Free) Magnesium ($67\%$):** The biologically active, diffusible fraction.
+- **Protein-Bound Magnesium ($20\text{–}25\%$):** Bound predominantly to albumin, decreasing in hypoalbuminemic states.
+- **Complexed Magnesium ($8\text{–}13\%$):** Chelate complexes formed with divalent anions (phosphate, sulfate, citrate, bicarbonate).
 
-#### *Diuretic Therapy*
+Standard clinical assays measure total serum magnesium. In critically ill patients with severe hypoalbuminemia, total serum magnesium can be spuriously depressed despite normal ionized magnesium concentrations. Point-of-care ion-selective electrodes measure ionized magnesium directly, though routine clinical utility remains unstandardized.
+</div></details>
 
-Diuretics are a leading cause of Mg deficiency in ICUs. Diuretic-induced inhibition of sodium reabsorption also interferes with magnesium reabsorption, and the resultant urinary magnesium losses can parallel urinary sodium losses. Urinary magnesium excretion is most pronounced with the loop diuretics (furosemide and ethacrynic acid). *Magnesium deficiency has been reported in 50% of patients receiving chronic therapy with furosemide* ([12\)](#page-9-11). Thiazides have a similar tendency to produce hypomagnesemia [\(3](#page-9-12)). Magnesium depletion does not occur with potassiumsparing diuretics ([13\)](#page-9-13).
+<details class="med-details" open><summary>
 
-## *Other Drugs*
+### Renal Conservation and Urinary Excretion</summary><div class="details-content">
 
-The following drugs are notable for causing hypomagnesemia:
+Under physiological conditions, the kidneys excrete only $5\text{–}15\text{ mEq}$ ($60\text{–}180\text{ mg}$) of magnesium daily, corresponding to roughly 3–5% of the filtered load.
 
-- 1. The aminoglycosides block magnesium reabsorption in the ascending loop of Henley, and hypomagnesemia has been reported in 30% of patients receiving aminoglycosides [\(14](#page-9-14)).
-- 2. Proton pump inhibitors and metformin can produce hypomagnesemia by blocking magnesium absorption in the GI tract [\(3](#page-9-12)[,15](#page-9-15)).
-- 3. Insulin and epinephrine produce hypomagnesemia by shifting magnesium into cells [\(3](#page-9-12)).
-- 4. Cisplatin and carboplatin can cause hypomagnesemia by promoting renal magnesium excretion ([3\)](#page-9-12).
+Unlike sodium and calcium, which are predominantly reabsorbed in the proximal tubule, **the primary site of magnesium reabsorption is the thick ascending limb of the loop of Henle (TAL)**, which accounts for $60\text{–}70\%$ of tubular reabsorption via the paracellin-1 (claudin-16/19) paracellular channel.
 
-#### *Alcohol-Use Disorder*
+<span id="fig-37-1"></span>
+![FIGURE 37.1](images/_page_2_Figure_4.jpeg)
 
-Hypomagnesemia is reported in 44% of patients with chronic alcohol-use disorder ([16\)](#page-9-16). Multiple factors are involved, including malnutrition, chronic diarrhea, and a blunted renal response to magnesium depletion.
+**FIGURE 37.1** Urinary magnesium excretion and plasma magnesium levels in a healthy volunteer placed on a magnesium-free diet. Solid bars on the vertical axis represent the normal range for each variable.
 
-# *Secretory Diarrhea*
+#### Dynamics of Renal Conservation
 
-Secretions from the lower GI tract are rich in magnesium (10–14 mEq/L) [\(17](#page-9-17)), and secretory diarrhea can be accompanied by profound magnesium depletion [\(18](#page-9-18)). Upper GI tract secretions are not rich in magnesium (1–2 mEq/L), so vomiting does not pose a risk for magnesium depletion.
+As demonstrated in Figure 37.1, when dietary magnesium intake ceases, the healthy kidney exhibits rapid, avid conservation: urinary magnesium excretion plummets to negligible levels within 48 to 72 hours.
 
-#### *Diabetes Mellitus*
+Remarkably, **serum magnesium concentrations remain entirely within the normal range for over a week** following dietary deprivation, while urinary excretion reaches near-zero. Consequently, measuring urinary magnesium excretion is vastly superior to serum measurements for detecting early magnesium depletion.
+</div></details>
+</div></details>
 
-Magnesium depletion is common in insulin-dependent diabetic patients, probably as a result of urinary Mg losses that accompany glycosuria ([19\)](#page-9-19). Hypomagnesemia is reported in only 7% of admissions for diabetic ketoacidosis, but the incidence increases to 50% over the first 12 hours after admission ([20\)](#page-9-20), probably as a result of insulin-induced movement of magnesium into cells.
+<details class="med-details" open><summary>
 
-### *Acute Myocardial Infarction*
+## Magnesium Deficiency: Etiologies and Clinical Manifestations</summary><div class="details-content">
 
-Hypomagnesemia is reported in as many as 80% of patients with acute myocardial infarction ([21\)](#page-9-21). Several mechanisms may be involved, including an intracellular shift of Mg from excess catecholamines.
+<details class="med-details" open><summary>
 
-# **Clinical Manifestations**
+### Prevalence and Predisposing Conditions</summary><div class="details-content">
 
-There are no specific clinical manifestations of Mg deficiency, but the following clinical findings can increase suspicion of Mg deficiency.
+Hypomagnesemia ($\text{total serum Mg} < 1.7\text{ mg/dL}$ or $< 0.7\text{ mmol/L}$) occurs in up to 65% of patients admitted to medical and surgical intensive care units. Because systemic depletion frequently exists without overt hypomagnesemia, the true prevalence of tissue magnesium deficiency is even higher.
 
-#### *Other Electrolyte Abnormalities*
+<details class="med-details" open><summary>
 
-Magnesium depletion is often accompanied by a decrease in serum levels of sodium, potassium, phosphate, and calcium (see [Table](#page-3-0) 37.3) ([22\)](#page-9-22).
+#### <span id="tbl-37-3"></span>TABLE 37.3 Markers of Possible Magnesium Depletion</summary><div class="details-content">
 
-**HYPOKALEMIA:** Hypokalemia is reported in 40% of cases of Mg depletion ([22\)](#page-9-22). More importantly, *the hypokalemia that accompanies Mg depletion can be refractory to K+ replacement*, and Mg replacement is necessary before the hypokalemia can be corrected [\(23](#page-9-23)).
+| Predisposing Conditions (Frequency) | Associated Clinical & Laboratory Findings |
+| :--- | :--- |
+| **Pharmacotherapy:**<br>• Furosemide therapy (50%)<br>• Aminoglycosides (30%)<br>• Proton pump inhibitors (PPIs)<br>• Intravenous insulin infusions<br>• Platinum chemotherapeutics (cisplatin) | **Concurrent Electrolyte Derangements:**<br>• Hypokalemia (40%)<br>• Hypophosphatemia (30%)<br>• Hyponatremia (27%)<br>• Hypocalcemia (22%) |
+| **Clinical Disorders:**<br>• Chronic alcohol use disorder (44%)<br>• Diabetes mellitus / DKA (50% at 12 hr)<br>• Severe secretory diarrhea<br>• Acute myocardial infarction (80%) | **Cardiovascular & Neurological Signs:**<br>• Coronary vasospasm & ischemia<br>• Ventricular arrhythmias / Torsades de pointes<br>• Exaggerated digitalis cardiotoxicity<br>• Hyperactive CNS syndrome & seizures |
 
-**HYPOCALCEMIA:** Magnesium depletion can cause hypocalcemia as a result of impaired parathormone release ([24\)](#page-9-24) combined with an impaired end-organ response to parathormone [\(25](#page-9-25)). As with the hypokalemia, *the hypocalcemia that accompanies Mg depletion is difficult to correct until Mg deficits are corrected*.
+</div></details>
 
-**HYPOPHOSPHATEMIA:** Phosphate depletion is a cause rather than an effect of Mg depletion. The mechanism is enhanced renal Mg excretion [\(26](#page-9-26)).
+Table 37.3 synthesizes the multifaceted etiology and presentation of magnesium depletion in critical care.
+</div></details>
 
-# *Arrhythmias*
+<details class="med-details" open><summary>
 
-Magnesium depletion will depolarize cardiac cells and promote arrhythmias. The following information regarding Mg and arrhythmias deserves mention:
+### Pharmacological and Gastrointestinal Drivers</summary><div class="details-content">
 
-- 1. Both digitalis and Mg deficiency act to inhibit the membrane pump, so Mg deficiency will promote digitalis cardiotoxicity. Intravenous magnesium can suppress digitalis-toxic arrhythmias, even when serum Mg levels are normal [\(27](#page-9-27)).
-- 2. Intravenous magnesium can also abolish refractory ventricular arrhythmias when serum Mg levels are normal [\(28](#page-9-28)). This effect may be due to a membrane-stabilizing effect of magnesium that is unrelated to Mg repletion.
-- 3. The most cited arrhythmia linked to magnesium depletion is polymorphic ventricular tachycardia, better known as *torsade de pointes*. The role of magnesium in this arrhythmia is
+Iatrogenic and enteric mechanisms represent the leading causes of magnesium loss in the ICU:
 
-presented in Chapter 19 (see Figure 19.9).
+#### Diuretic-Induced Wasting
 
-#### *Neurologic Manifestations*
+Loop diuretics (furosemide, bumetanide) inhibit the $\text{Na}^+/\text{K}^+/2\text{Cl}^-$ cotransporter in the thick ascending limb, abolishing the lumen-positive electrical potential that drives passive paracellular magnesium reabsorption.
 
-The neurologic manifestations of magnesium deficiency can include altered mentation, tremors, hyperreflexia, and generalized seizures. All are uncommon and nonspecific, but the following neurotoxic syndromes deserve mention.
+Magnesium deficiency develops in **50% of patients receiving chronic furosemide therapy**. Thiazide diuretics similarly promote magnesium wasting through distal mechanisms, whereas potassium-sparing diuretics (spironolactone, amiloride) promote magnesium retention.
 
-**HYPERACTIVE CNS SYNDROME:** A magnesium-related neurologic syndrome has been reported that presents with ataxia, slurred speech, excessive salivation, diffuse muscle spasms, generalized seizures, and progressive obtundation ([29\)](#page-9-29). The symptoms are often triggered by loud noises or bodily contact. This syndrome is associated with reduced Mg levels in cerebrospinal fluid, and it resolves with Mg infusions. The prevalence of this disorder is unknown.
+#### Nephrotoxic and Malabsorptive Drugs
 
-**WERNICKE'S:** Magnesium is required for the transformation of thiamine into thiamine pyrophosphate, so *magnesium deficiency can promote thiamine deficiency, even in the face of adequate thiamine intake* [\(30](#page-9-30),31).
+- **Aminoglycosides:** Inhibit magnesium reabsorption in the thick ascending limb, producing hypomagnesemia in 30% of treated patients.
+- **Proton Pump Inhibitors (PPIs):** Long-term PPI therapy impairs active intestinal absorption by downregulating the transient receptor potential melastatin-6 (TRPM6) channel.
+- **Platinum Chemotherapeutics:** Cisplatin and carboplatin induce persistent renal tubular damage with severe, protracted magnesium wasting.
+- **Transcellular Shifting Agents:** Intravenous insulin and high circulating epinephrine drive magnesium into cells alongside potassium.
 
-# **Magnesium Replacement**
+#### Secretory Diarrhea and Enteral Losses
 
-The daily requirement for magnesium in healthy adults is 420 mg (35 mEq) for males and 320 mg (26 mEq) for females (see [Table](#page-5-0) 37.4) (32). (*Note:* The daily requirements for magnesium are likely to be higher in ICU patients because conditions that predispose to magnesium depletion are common in these patients.) The popular oral preparation for magnesium maintenance therapy is magnesium oxide, available in 400 mg tablets, which contain 241 mg (20 mEq) of elemental magnesium (33).
+Lower gastrointestinal secretions contain high concentrations of magnesium ($10\text{–}14\text{ mEq/L}$). Severe secretory or inflammatory diarrhea can rapidly exhaust total body stores. In contrast, upper gastrointestinal secretions contain negligible magnesium ($1\text{–}2\text{ mEq/L}$); thus, nasogastric suction and vomiting do not directly cause magnesium depletion.
+</div></details>
 
-Absorption of magnesium from the GI tract can be erratic in ICU patients, so intravenous magnesium is used for magnesium replacement. The standard intravenous preparation is magnesium sulfate (MgSO<sup>4</sup> ), which is available as magnesium sulfate heptahydrate (MgSO<sup>4</sup> ·7H2O) (34). *Each gram of this MgSO<sup>4</sup> preparation has about 8 mEq (4 mmol) of elemental magnesium* (whereas one gram of MgSO<sup>4</sup> has about twice the amount of elemental magnesium) (34). Ringer's solutions should not be used as the diluent for MgSO<sup>4</sup> because the calcium in Ringer's solutions will counteract the actions of magnesium.
+<details class="med-details" open><summary>
 
-<span id="page-5-0"></span>
+### Systemic and Metabolic Disorders</summary><div class="details-content">
 
-| TABLE<br>37.4<br>Magnesium                                                     | Preparations<br>and<br>Daily<br>Requirements           |  |
-|--------------------------------------------------------------------------------|--------------------------------------------------------|--|
-|                                                                                | Elemental Mg                                           |  |
-| Normal Daily Requirements:<br>Adult Males (>30 yrs)<br>Adult Females (>30 yrs) | 420 mg (35 mEq, 17.5 mmol)<br>320 mg (26 mEq, 13 mmol) |  |
-| Oral Preparation:<br>Magnesium Oxide (400 mg)                                  | 241 mg (20 mEq, 10 mmol)                               |  |
-| IV Preparation:<br>Magnesium Sulfate (MgSO4<br>)                               | 98 mg (8 mEq, 4 mmol)/gram)§                           |  |
+Specific systemic diseases are strongly associated with magnesium deficiency:
 
-The magnesium content is for magnesium sulfate heptahydrate (MgSO<sup>4</sup> ·7 H2O), which is the usual MgSO<sup>4</sup> preparation.
+#### Alcohol Use Disorder
 
-The following magnesium replacement protocols are recommended for patients with normal renal function (35). (*Note:* The MgSO<sup>4</sup> in these recommendations is for the MgSO<sup>4</sup> ·7H2O preparation.)
+Hypomagnesemia is documented in 44% of patients with chronic alcohol use disorder. Contributing mechanisms include inadequate nutritional intake, alcohol-induced tubular dysfunction, metabolic acidosis, and chronic diarrhea.
 
-#### *Mild Hypomagnesemia*
+#### Diabetes Mellitus and Diabetic Ketoacidosis
 
-The following dosing regimen can be used for a serum Mg of 1–1.4 mEq/L (1.2– 1.7 mg/dL, or 0.5–1 mmol/L) that is clinically silent:
+Glycosuria induces an osmotic diuresis that accelerates renal magnesium excretion. While hypomagnesemia is present in only 7% of patients at initial presentation for diabetic ketoacidosis, **the incidence rises to 50% during the first 12 hours of resuscitation** as insulin therapy drives magnesium into cells.
 
-- 1. Assume a total magnesium deficit of 1–2 mEq/kg.
-- 2. Because 50% of the infused magnesium can be lost in the urine, assume that the total magnesium requirement is twice the magnesium deficit.
-- 3. Replace 1 mEq/kg for the first 24 hours, and 0.5 mEq/kg daily for the next 3–5 days.
+#### Acute Myocardial Infarction
 
-#### *Moderate Hypomagnesemia*
+Hypomagnesemia is present in up to 80% of patients during acute myocardial infarction, driven in part by stress-induced catecholamine surges causing transcellular shifts into ischemic myocardium and adipocytes.
+</div></details>
 
-The following protocol is recommended for a serum Mg < 1 mEq/L (<1.2 mg/dL, or <0.5 mmol/L), or for hypomagnesemia that is accompanied by other electrolyte abnormalities:
+<details class="med-details" open><summary>
 
-- 1. Add 6 g MgSO<sup>4</sup> (48 mEq of Mg) to 250 or 500 mL isotonic saline and infuse over 3 hours.
-- 2. Follow with 5 g MgSO<sup>4</sup> (40 mEq of Mg) in 250 or 500 mL isotonic saline infused over the next 6 hours.
-- 3. Continue with 5 g MgSO<sup>4</sup> every 12 hours (by continuous infusion) for the next 5 days.
+### Clinical Manifestations and Refractory Electrolyte Disturbances</summary><div class="details-content">
 
-# *Life-Threatening Hypomagnesemia*
+Although magnesium deficiency lacks isolated pathognomonic physical signs, it generates profound neuromuscular and cardiac instability:
 
-The following is recommended for hypomagnesemia associated with serious cardiac arrhythmias (e.g., torsade de pointes) or generalized seizures:
+#### Refractory Hypokalemia and Hypocalcemia
 
-- 1. Infuse 2 g MgSO<sup>4</sup> (16 mEq, or 8 mmol of Mg) intravenously over 2–5 minutes.
-- 2. Follow with 5 g MgSO<sup>4</sup> (40 mEq, or 20 mmol of Mg) in 250 or 500 mL isotonic saline and infuse over the next 6 hours.
-- 3. Continue with 5 g MgSO<sup>4</sup> every 12 hours (by continuous infusion) for the next 5 days.
+- **Refractory Hypokalemia (40%):** Intracellular magnesium inhibits the renal outer medullary potassium (ROMK) channel. When intracellular magnesium drops, ROMK channels remain open, resulting in unchecked potassium excretion into the collecting tubule. **Hypokalemia cannot be corrected until magnesium is repleted.**
+- **Refractory Hypocalcemia (22%):** Severe magnesium depletion impairs the synthesis and release of parathyroid hormone (PTH) and induces skeletal end-organ resistance to circulating PTH. Hypocalcemia resolves only after magnesium repletion restores normal parathyroid function.
+- **Hypophosphatemia (30%):** Phosphate depletion enhances urinary magnesium wasting, creating a mutually reinforcing cycle of mineral depletion.
 
-# *Hypomagnesemia and Renal Insufficiency*
+#### Arrhythmias and Torsades de Pointes
 
-Hypomagnesemia is not common in patients with renal insufficiency but it can occur when extrarenal Mg losses are combined with a creatinine clearance of 30–50 mL/min. When magnesium is replaced in patients with renal insufficiency, no more than 50% of the magnesium in the standard replacement protocols should be administered (35), and the serum Mg should be monitored carefully.
+Magnesium depletion depolarizes cardiac resting potentials, prolongs repolarization, and promotes afterdepolarizations:
 
-# **Monitoring Magnesium Replacement**
+- **Digitalis Toxicity:** Both digitalis and magnesium deficiency inhibit the cardiac cell membrane $\text{Na}^+/\text{K}^+$-ATPase. Magnesium deficiency dramatically lowers the threshold for digitalis-induced arrhythmias.
+- **Torsades de Pointes:** Polymorphic ventricular tachycardia associated with QT prolongation is the classical malignant arrhythmia provoked by hypomagnesemia. Intravenous magnesium is the first-line therapy of choice.
+- **Refractory Ventricular Fibrillation:** Empiric intravenous magnesium terminates recurrent ventricular tachycardia and fibrillation even when serum magnesium levels are numerically normal, acting via non-specific membrane stabilization.
 
-Serum Mg levels will rise after the initial magnesium bolus, but will begin to fall after 15
+#### Neurological Syndromes: Hyperactive CNS and Wernicke Encephalopathy
 
-minutes. Therefore, it is important to follow the bolus dose with a continuous magnesium infusion. Serum Mg levels may normalize after 1 to 2 days, but it will take several days to replenish the total body Mg stores. The magnesium retention test in [Table](#page-7-0) 37.5 can be valuable for identifying the end-point of Mg replacement therapy [\(3](#page-9-12),36).
+- **Hyperactive CNS Syndrome:** Presents with ataxia, dysarthria, hyperreflexia, muscle fasciculations, generalized seizures, and progressive stupor, frequently triggered by tactile or auditory stimuli. It is linked to depleted cerebrospinal fluid magnesium and resolves completely upon magnesium infusion.
+- **Wernicke Encephalopathy:** Magnesium is an essential cofactor for thiamine pyrophosphokinase, the enzyme that converts thiamine into active thiamine pyrophosphate (TPP). **Magnesium deficiency provokes functional Wernicke encephalopathy that fails to respond to thiamine alone until magnesium is co-administered.**
+</div></details>
+</div></details>
 
-#### <span id="page-7-0"></span>**TABLE 37.5 Magnesium Retention Test**
+<details class="med-details" open><summary>
 
-#### *Protocol:*
+## Management of Magnesium Deficiency</summary><div class="details-content">
 
-- 1. Add 6 grams MgSO<sup>4</sup> (24 mmol or 48 mEq elemental Mg) to 250 mL of isotonic saline and infuse over 1 hr.
-- 2. Collect urine for 24 hrs, beginning with the onset of the magnesium infusion.
+<details class="med-details" open><summary>
 
-#### *Results:*
+### Pharmacological Preparations and Daily Requirements</summary><div class="details-content">
 
-- 1. Urinary Mg excretion ≤12 mmol (24 mEq) in 24 hrs (i.e., ≤50% of the infused Mg) is evidence of continued Mg depletion.
-- 2. Urinary Mg excretion >19 mmol (38 mEq) in 24 hrs (i.e., >80% of the infused Mg) indicates sufficient Mg stores.
+Daily dietary requirements for magnesium in healthy adults are $420\text{ mg}$ ($35\text{ mEq}$, or $17.5\text{ mmol}$) for men and $320\text{ mg}$ ($26\text{ mEq}$, or $13\text{ mmol}$) for women. Critically ill patients exhibit substantially higher requirements due to ongoing renal and enteric losses.
 
-From Reference 36.
+<details class="med-details" open><summary>
 
-#### *Magnesium Retention Test*
+#### <span id="tbl-37-4"></span>TABLE 37.4 Magnesium Preparations and Daily Requirements</summary><div class="details-content">
 
-The magnesium retention test evaluates the percentage of an infused magnesium load that is excreted in the urine. The normal rate of magnesium reabsorption is close to the maximum rate (Tmax), so most of an infused magnesium load will be excreted in the urine when magnesium stores are normal. However, when magnesium stores are deficient, the magnesium reabsorption rate is much lower than the Tmax, so more of the infused magnesium will be reabsorbed, and less will be excreted in the urine. *Magnesium deficiency is likely when less than 50% of the infused Mg is recovered in the urine, and is unlikely when more than 80% of the infused Mg is excreted in the urine* (36,37).
+| Preparation / Parameter | Chemical Form | Elemental Magnesium Content |
+| :--- | :--- | :--- |
+| **Normal Daily Intake (Men > 30 yr)** | Dietary intake | $420\text{ mg}$ ($35\text{ mEq}$, $17.5\text{ mmol}$) |
+| **Normal Daily Intake (Women > 30 yr)** | Dietary intake | $320\text{ mg}$ ($26\text{ mEq}$, $13\text{ mmol}$) |
+| **Oral Supplement (Standard)** | Magnesium oxide ($400\text{ mg}$ tablet) | $241\text{ mg}$ ($20\text{ mEq}$, $10\text{ mmol}$) |
+| **Intravenous Preparation (Standard)** | Magnesium sulfate heptahydrate ($\text{MgSO}_4 \cdot 7\text{H}_2\text{O}$) | **$98\text{ mg}$ ($8\text{ mEq}$, $4\text{ mmol}$) per gram** |
 
-The magnesium retention test has one unfortunate shortcoming: i.e., it can be unreliable when renal function is impaired (which is the case in many ICU patients).
+</div></details>
 
-# **HYPERMAGNESEMIA**
+Because gastrointestinal absorption of oral magnesium is erratic and causes osmotic diarrhea, **intravenous magnesium sulfate is the mandatory route in the ICU**.
 
-Hypermagnesemia is uncommon in hospitalized patients, with one survey showing a prevalence of 5% (38).
+As specified in Table 37.4, commercial intravenous vials contain magnesium sulfate heptahydrate ($\text{MgSO}_4 \cdot 7\text{H}_2\text{O}$), delivering **$8\text{ mEq}$ ($4\text{ mmol}$ or $98\text{ mg}$) of elemental magnesium per gram of salt**. Lactated Ringer's solution must never be used as a carrier vehicle because its calcium content directly antagonizes magnesium action.
+</div></details>
 
-# **Predisposing Conditions**
+<details class="med-details" open><summary>
 
-Most cases of hypermagnesemia are the result of impaired renal function (i.e., creatinine clearance <30 mL/min) combined with a source of magnesium intake (e.g., from magnesiumcontaining antacids or laxatives) ([3\)](#page-9-12).
+### Protocolized Replacement Regimens</summary><div class="details-content">
 
-## *Massive Hemolysis*
+Intravenous replacement protocols depend upon clinical acuity and renal function:
 
-The Mg concentration in erythrocytes is approximately three times greater than in serum (39), so hemolysis can increase the serum Mg. The serum Mg is expected to rise by 0.1 mEq/L for every 250 mL of erythrocytes that lyse completely (39), so hypermagnesemia is expected only with
+#### Mild Asymptomatic Hypomagnesemia
 
-massive hemolysis.
+For stable patients with serum magnesium $1.0\text{–}1.4\text{ mEq/L}$ ($1.2\text{–}1.7\text{ mg/dL}$, or $0.5\text{–}0.7\text{ mmol/L}$):
 
-#### *Other Conditions*
+- Assume a total body deficit of $1\text{–}2\text{ mEq/kg}$.
+- Because approximately 50% of an acutely infused magnesium load is excreted by the kidneys before cellular uptake can occur, double the calculated requirement.
+- Administer **$1\text{ mEq/kg}$ over the first 24 hours**, followed by **$0.5\text{ mEq/kg/day}$ for the subsequent 3 to 5 days**.
 
-Other conditions associated with (mild) hypermagnesemia are adrenal insufficiency, hyperparathyroidism, and lithium intoxication [\(3](#page-9-12)).
+#### Moderate-to-Severe Hypomagnesemia
 
-# **Clinical Features**
+For serum magnesium $< 1.0\text{ mEq/L}$ ($< 1.2\text{ mg/dL}$, or $< 0.5\text{ mmol/L}$), or hypomagnesemia accompanied by concurrent hypokalemia/hypocalcemia:
 
-The clinical consequences of progressive hypermagnesemia are listed below (39).
+- **Initial Load:** $6\text{ g}$ $\text{MgSO}_4$ ($48\text{ mEq}$ elemental Mg) in $250\text{–}500\text{ mL}$ $0.9\%$ saline IV over 3 hours.
+- **Secondary Infusion:** $5\text{ g}$ $\text{MgSO}_4$ ($40\text{ mEq}$ elemental Mg) in $250\text{–}500\text{ mL}$ saline IV over the next 6 hours.
+- **Maintenance Phase:** $5\text{ g}$ $\text{MgSO}_4$ every 12 hours as a continuous infusion for the next 5 days.
 
-| Threshold<br>Serum<br>Mg | Manifestation              |
-|--------------------------|----------------------------|
-| >4<br>mEq/L              | Hyporeflexia               |
-| >5<br>mEq/L              | 1st°<br>AV<br>Block        |
-| >10<br>mEq/L             | Complete<br>Heart<br>Block |
-| >13<br>mEq/L             | Cardiac<br>Arrest          |
+#### Life-Threatening Hypomagnesemia (Torsades de Pointes and Seizures)
 
-Magnesium has been described as *nature's physiologic calcium blocker* (40), and most of the serious consequences of hypermagnesemia are the result of calcium antagonism in the AV conduction system of the heart. Depressed contractility and vasodilation are not prominent.
+In the presence of malignant arrhythmias, generalized seizures, or eclampsia:
 
-# **Management**
+- **Emergency Bolus:** **$2\text{ g}$ $\text{MgSO}_4$ ($16\text{ mEq}$ elemental Mg)** administered IV over 2 to 5 minutes.
+- **Subsequent Infusion:** Follow immediately with $5\text{ g}$ $\text{MgSO}_4$ in $250\text{–}500\text{ mL}$ saline over 6 hours.
+- **Continuation:** Continuous infusion of $5\text{ g}$ every 12 hours for 5 days.
 
-Hemodialysis is the treatment of choice for severe hypermagnesemia. Intravenous calcium gluconate (1 g IV over 2 to 3 minutes) can be used to antagonize the cardiovascular effects of hypermagnesemia *temporarily*, until dialysis is started (41). If fluids are permissible and some renal function is preserved, aggressive volume infusion combined with furosemide may be effective in reducing the serum magnesium levels in less advanced cases of hypermagnesemia.
+#### Dosing in Renal Insufficiency
 
-# **A FINAL WORD**
+In patients with renal impairment ($\text{CrCl } 30\text{–}50\text{ mL/min}$), tubular excretion is diminished. Dosing must be **reduced by at least 50%**, with frequent monitoring of serum magnesium and patellar reflexes to avert iatrogenic hypermagnesemia.
+</div></details>
 
-Magnesium often takes a back seat to other cations like sodium and potassium, but considering the vital roles of magnesium described in the introduction to this chapter, it deserves much more attention that it receives. The following are some specific points about magnesium that warrant emphasis:
+<details class="med-details" open><summary>
 
-- 1. The serum magnesium level can be normal in patients who are magnesium depleted.
-- 2. Hypomagnesemia is reported in over 50% of ICU patients, and the frequency of magnesium depletion is likely to be even higher (because of statement #1). Diuretic therapy with furosemide is the leading cause of magnesium depletion in ICUs.
-- 3. Magnesium depletion should be suspected in any patient with diuretic-induced hypokalemia, especially when hypokalemia is refractory to potassium replacement.
-- 4. Magnesium replacement will correct the serum magnesium before total body stores of magnesium are replenished. The best indicator of magnesium repletion is the urinary retention
+### Monitoring Therapy: The Magnesium Retention Test</summary><div class="details-content">
 
-test (see [Table](#page-7-0) 37.5).
+Serum magnesium levels rise rapidly during an intravenous infusion but decline precipitously within 15 minutes of completion as ions distribute into bone and soft tissues. While serum levels may normalize within 24 to 48 hours, **replenishing intracellular and skeletal stores requires 5 to 7 days of sustained infusion**.
 
-## *References*
+<details class="med-details" open><summary>
 
-- <span id="page-9-0"></span>*a.* Feynman RP. *What Do You Care What Other People Think?: Further Adventures of a Curious Character.* New York: Bantam Books, 1989.
-- <span id="page-9-1"></span>1. Fiorentini D, Cappadone C, Farruggia G, Prata C. Magnesium: biochemistry, nutrition, detection, and social impact of diseases linked to its deficiency. Nutrients 2021; 13:1136.
-- <span id="page-9-9"></span>2. Noronha JL, Matuschak GM. Magnesium in critical illness: metabolism, assessment, and treatment. Intensive Care Med 2002; 28:667–679.
-- <span id="page-9-12"></span>3. Wynne Z, Falat C. Disorders of calcium and magnesium. Emerg Med Clin N Am 2023; 41:833–848.
-- <span id="page-9-2"></span>4. Tangvoraphonkchai K, Davenport A. Magnesium and cardiovascular disease. Adv Chronic Kidney Dis 2018; 25:251–260.
+#### <span id="tbl-37-5"></span>TABLE 37.5 Magnesium Retention Test Protocol and Interpretation</summary><div class="details-content">
 
-#### *Magnesium Basics*
+| Parameter | Clinical Protocol Specification |
+| :--- | :--- |
+| **Infusion Protocol** | Administer $6\text{ g}$ $\text{MgSO}_4$ ($24\text{ mmol}$ or $48\text{ mEq}$ elemental Mg) in $250\text{ mL}$ $0.9\%$ saline IV over 1 hour. |
+| **Urine Collection** | Collect all urine for exactly 24 hours, commencing with the start of the magnesium infusion. |
+| **Interpretation: Deficit** | 24-hour urinary excretion **$\le 12\text{ mmol}$ ($\le 24\text{ mEq}$)**, representing $\le 50\%$ excretion of the infused load, confirms **ongoing magnesium deficiency**. |
+| **Interpretation: Repleted** | 24-hour urinary excretion **$> 19\text{ mmol}$ ($> 38\text{ mEq}$)**, representing $> 80\%$ excretion of the infused load, confirms **complete tissue repletion**. |
 
-- <span id="page-9-3"></span>5. Elin RJ. Assessment of magnesium status. Clin Chem 1987; 33:1965–1970.
-- <span id="page-9-4"></span>6. Reinhart RA. Magnesium metabolism. A review with special reference to the relationship between intracellular content and serum levels. Arch Intern Med 1988; 148:2415–2420.
-- <span id="page-9-5"></span>7. Lowenstein FW, Stanton MF. Serum magnesium levels in the United States, 1971–1974. J Am Coll Nutr 1986; 5:399–414.
-- <span id="page-9-6"></span>8. Altura BT, Altura BM. A method for distinguishing ionized, complexed and protein-bound Mg in normal and diseased subjects. Scand J Clin Lab Invest 1994; 217:83–87.
-- <span id="page-9-7"></span>9. Kroll MH, Elin RJ. Relationships between magnesium and protein concentrations in serum. Clin Chem 1985; 31:244–246.
-- <span id="page-9-8"></span>10. Shils ME. Experimental human magnesium deficiency. Medicine 1969; 48:61–82.
+</div></details>
 
-#### <span id="page-9-10"></span>*Magnesium Depletion*
+#### Physiology of Tubular Retention
 
-- 11. Tong GM, Rude RK. Magnesium deficiency in critical illness. J Intensive Care Med 2005; 20:3–17.
-- <span id="page-9-11"></span>12. Dyckner T, Wester PO. Potassium/magnesium depletion in patients with cardiovascular disease. Am J Med 1987; 82:11–17.
-- <span id="page-9-13"></span>13. Ryan MP. Diuretics and potassium/magnesium depletion. Directions for treatment. Am J Med 1987; 82:38–47.
-- <span id="page-9-14"></span>14. Zaloga GP, Chernow B, Pock A, et al. Hypomagnesemia is a common complication of aminoglycoside therapy. Surg Gynecol Obstet 1984; 158:561–565.
-- <span id="page-9-15"></span>15. Florentin M, Elisaf MS. Proton pump inhibitor-induced hypomagnesemia: A new challenge. World J Nephrol 2012; 1:151– 154.
-- <span id="page-9-16"></span>16. Vanoni FO, Nilani GP, Agostoni C, et al. Magnesium metabolism in chronic alcohol-use disorder: meta-analysis and systemic review. Nutrients 2021; 13:1959.
-- <span id="page-9-17"></span>17. Kassirer J, Hricik D, Cohen J. *Repairing Body Fluids: Principles and Practice*. Philadelphia, PA: WB Saunders, 1989: 118– 129.
-- <span id="page-9-18"></span>18. Martin HE. Clinical magnesium deficiency. Ann NY Acad Sci 1969; 162:891–900.
-- <span id="page-9-19"></span>19. Sjogren A, Floren CH, Nilsson A. Magnesium deficiency in IDDM related to level of glycosylated hemoglobin. Diabetes 1986; 35:459–463.
-- <span id="page-9-20"></span>20. Lau K. Magnesium metabolism: normal and abnormal. In: Arieff AI, DeFronzo RA, eds. *Fluids, Electrolytes, and Acid -Base Disorders*. New York: Churchill Livingstone, 1985; 575–623.
-- <span id="page-9-21"></span>21. Abraham AS, Rosenmann D, Kramer M, et al. Magnesium in the prevention of lethal arrhythmias in acute myocardial infarction. Arch Intern Med 1987; 147:753–755.
+As detailed in Table 37.5, the magnesium retention test exploits renal transport kinetics:
 
-#### <span id="page-9-22"></span>*Clinical Manifestations*
+- In magnesium-repleted individuals, the renal tubular transport maximum ($T_{\text{max}}$) is already saturated; consequently, $> 80\%$ of an acute exogenous load is spilled into the urine.
+- In magnesium-depleted states, tubular avidity is markedly enhanced; the kidney avidly retains the cation, excreting $< 50\%$ of the infused load.
 
-- 22. Whang R, Oei TO, Aikawa JK, et al. Predictors of clinical hypomagnesemia. Hypokalemia, hypophosphatemia, hyponatremia, and hypocalcemia. Arch Intern Med 1984; 144:1794–1796.
-- <span id="page-9-23"></span>23. Whang R, Flink EB, Dyckner T, et al. Magnesium depletion as a cause of refractory potassium repletion. Arch Intern Med 1985; 145:1686–1689.
-- <span id="page-9-24"></span>24. Anast CS, Winnacker JL, Forte LR, et al. Impaired release of parathyroid hormone in magnesium deficiency. J Clin Endocrinol Metab 1976; 42:707–717.
-- <span id="page-9-25"></span>25. Rude RK, Oldham SB, Singer FR. Functional hypoparathyroidism and parathyroid hormone end-organ resistance in human magnesium deficiency. Clin Endocrinol 1976; 5:209–224.
-- <span id="page-9-26"></span>26. Dominguez JH, Gray RW, Lemann J Jr. Dietary phosphate deprivation in women and men: effects on mineral and acid balances, parathyroid hormone and the metabolism of 25-OH-vitamin D. J Clin Endocrinol Metab 1976; 43:1056–1068.
-- <span id="page-9-27"></span>27. Cohen L, Kitzes R. Magnesium sulfate and digitalis-toxic arrhythmias. JAMA 1983; 249:2808–2810.
-- <span id="page-9-28"></span>28. Tzivoni D, Keren A. Suppression of ventricular arrhythmias by magnesium. Am J Cardiol 1990; 65:1397–1399.
-- <span id="page-9-29"></span>29. Langley WF, Mann D. Central nervous system magnesium deficiency. Arch Intern Med 1991; 151: 593–596.
-- <span id="page-9-30"></span>30. Dyckner T, Ek B, Nyhlin H, et al. Aggravation of thiamine deficiency by magnesium depletion. A case report. Acta Med Scand 1985; 218:129–131.
+The primary limitation of this test is that impaired baseline renal function invalidates the results.
+</div></details>
+</div></details>
+
+<details class="med-details" open><summary>
+
+## Hypermagnesemia: Pathophysiology and Emergency Management</summary><div class="details-content">
+
+<details class="med-details" open><summary>
+
+### Predisposing Etiologies</summary><div class="details-content">
+
+Hypermagnesemia ($\text{serum Mg} > 2.4\text{ mg/dL}$ or $> 2.0\text{ mEq/L}$) is an uncommon electrolyte disturbance in critical care, documented in approximately 5% of hospitalized patients.
+
+#### Renal Failure and Exogenous Intake
+
+Because healthy kidneys readily clear excess magnesium, severe hypermagnesemia almost exclusively occurs when severe renal insufficiency ($\text{CrCl} < 30\text{ mL/min}$) coincides with exogenous magnesium administration:
+
+- Magnesium-containing antacids (aluminum-magnesium hydroxide).
+- Magnesium-containing cathartics (magnesium citrate, milk of magnesia).
+- Overzealous intravenous magnesium repletion.
+
+#### Massive Hemolysis
+
+Intra-erythrocytic magnesium concentration ($5\text{–}6\text{ mEq/L}$) is three times higher than plasma concentration. Lysis of $250\text{ mL}$ of packed red blood cells elevates serum magnesium by approximately $0.1\text{ mEq/L}$. Consequently, clinically significant hypermagnesemia arises only in massive intravascular hemolysis.
+
+#### Endocrine and Pharmacological Triggers
+
+Mild hypermagnesemia can accompany primary adrenal insufficiency, severe hypothyroidism, lithium therapy, and familial hypocalciuric hypercalcemia.
+</div></details>
+
+<details class="med-details" open><summary>
+
+### Clinical Features and Electrophysiological Toxicity</summary><div class="details-content">
+
+Magnesium acts as **nature's physiological calcium channel blocker**, antagonizing calcium at presynaptic neuromuscular junctions and cardiac conduction tissues:
+
+<details class="med-details" open><summary>
+
+#### <span id="tbl-37-6"></span>TABLE 37.6 Clinical Manifestations of Progressive Hypermagnesemia</summary><div class="details-content">
+
+| Serum Magnesium Threshold | Clinical Manifestations and Toxic Complications |
+| :---: | :--- |
+| **$> 4\text{ mEq/L}$ ($> 4.8\text{ mg/dL}$)** | Loss of deep tendon reflexes (hyporeflexia), sedation, cutaneous flushing, nausea |
+| **$> 5\text{ mEq/L}$ ($> 6.0\text{ mg/dL}$)** | First-degree AV block, PR prolongation, QRS widening, hypotension, bradycardia |
+| **$> 10\text{ mEq/L}$ ($> 12.0\text{ mg/dL}$)** | Complete atrioventricular heart block, respiratory depression, flaccid quadriplegia |
+| **$> 13\text{ mEq/L}$ ($> 15.6\text{ mg/dL}$)** | Ventricular asystole and fatal cardiac arrest |
+
+</div></details>
+
+#### Neuromuscular and Cardiac Inhibition
+
+As detailed in Table 37.6, the loss of deep tendon reflexes (patellar hyporeflexia) at $4\text{ mEq/L}$ serves as the earliest physical herald of magnesium toxicity.
+
+At levels exceeding $5\text{ mEq/L}$, impaired presynaptic acetylcholine release and myocardial calcium antagonism slow atrioventricular nodal conduction, progressing to complete heart block and fatal cardiac arrest at concentrations $> 13\text{ mEq/L}$.
+</div></details>
+
+<details class="med-details" open><summary>
+
+### Therapeutic Interventions</summary><div class="details-content">
+
+Emergency management depends upon the presence of conduction abnormalities and the degree of renal impairment:
+
+#### Calcium Antagonism
+
+Intravenous calcium directly antagonizes the neuromuscular and cardiac cardiotoxic effects of hypermagnesemia:
+
+- Administer **$1\text{ g}$ of $10\%$ calcium gluconate** ($10\text{ mL}$) IV over 2 to 3 minutes under continuous cardiac monitoring.
+- Calcium reverses hypotension and conduction blocks within minutes. However, this antagonism is purely temporary ($30\text{–}60\text{ minutes}$), serving as a bridge to definitive clearance.
+
+#### Forced Diuresis and Emergent Hemodialysis
+
+- **Forced Diuresis:** If renal function is preserved, infuse isotonic saline combined with intravenous furosemide ($20\text{–}40\text{ mg}$) to accelerate calciuresis and magnesiuresis.
+- **Emergent Hemodialysis:** In patients with renal failure, refractory conduction blocks, or serum $\text{Mg} > 8\text{ mEq/L}$, intermittent hemodialysis against a zero- or low-magnesium dialysate is the definitive treatment of choice, rapidly eliminating the cation from the circulation.
+</div></details>
+
+<details class="med-details" open><summary>
+
+### Concluding Principles</summary><div class="details-content">
+
+The management of magnesium disorders in critical illness requires constant vigilance:
+
+- Less than 1% of total body magnesium is located in plasma; a normal serum level does not exclude profound tissue deficit.
+- Hypomagnesemia should be presumed in every patient with diuretic-induced hypokalemia, particularly when hypokalemia or hypocalcemia proves resistant to replacement therapy.
+- Replenishing tissue stores requires 5 to 7 days of sustained parenteral therapy, long after the serum concentration has normalized.
+- Hypermagnesemia is a life-threatening complication of renal insufficiency combined with exogenous intake, requiring immediate calcium antagonism and emergent hemodialysis.
+</div></details>
+</div></details>

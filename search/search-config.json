@@ -49,6 +49,10 @@
       "title": "Guidelines",
       "icon": "📋"
     },
+    "interactive": {
+      "title": "Interactive Schemes & Simulators",
+      "icon": "🎛️"
+    },
     "work": {
       "title": "Service",
       "icon": "🛠️"

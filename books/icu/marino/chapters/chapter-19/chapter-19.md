@@ -1,415 +1,396 @@
-# Chapter 19
-
-# **Tachyarrhythmias**
+# Tachyarrhythmias
 
 *Variability is the law of life . . .*
+— William Osler
 
-William Osler (*[a](#page-18-0)*)
+A rapid heart rate or tachycardia while at rest is evidence of a problem, but the tachycardia itself may not be the problem. This chapter describes tachycardias that are a problem (i.e., tachyarrhythmias) and require prompt evaluation and management.
 
-A rapid heart rate or *tachycardia* while at rest is evidence of a problem, but the tachycardia itself may not be the problem. This chapter describes tachycardias that *are* a problem (i.e., *tachyarrhythmias*), and require prompt evaluation and management. Many of the recommendations in this chapter are borrowed from the clinical practice guidelines listed in the bibliography at the end of the chapter ([1–](#page-18-1)[6\)](#page-18-2).
+<details class="med-details" open>
+<summary>
 
-## **RECOGNITION**
+## Executive Summary</summary>
+<div class="details-content">
 
-The diagnostic evaluation of tachycardias (heart rate >100 beats/min) is based on 3 findings on the ECG: i.e., the duration of the QRS complex, the uniformity of the R-R intervals, and the characteristics of the atrial activity. This approach is outlined in the flow diagram in [Figure](#page-1-0) 19.1. The duration of the QRS complex is used to distinguish *narrow-QRS-complex tachycardias* (QRS duration ≤0.12 sec) from *wide-QRS-complex tachycardias* (QRS duration >0.12 sec), which helps to identify the point of origin of the tachycardia, as described next.
+- **Diagnostic Approach:** Tachycardias (heart rate > 100 bpm) are categorized by QRS duration into narrow-complex ($\le 0.12$ s, supraventricular origin) and wide-complex (> 0.12 s, ventricular origin or SVT with aberrancy), followed by rhythm regularity and atrial activity.
+- **Atrial Fibrillation (AF):** The most common ICU arrhythmia. Loss of atrial kick (normally 25% of ventricular filling) and rapid rate impair stroke output, producing a pulse deficit.
+  - *Acute rate control:* Intravenous diltiazem (0.25 mg/kg bolus, then 5–15 mg/hr) or amiodarone (150 mg bolus, then 1 mg/min for 6 hr, 0.5 mg/min for 18 hr; preferred in HFrEF). Beta-blockers (metoprolol 2.5–5 mg, esmolol 500 mcg/kg bolus) are effective in hyperadrenergic states. Digoxin has a delayed onset and should not be used alone acutely.
+  - *Cardioversion:* Hemodynamically unstable patients require synchronized DC cardioversion (100 J biphasic). Valvular thrombi must be excluded if AF duration > 48 hr.
+  - *Thromboembolism prophylaxis:* Evaluated via CHA2DS2-VASc. DOACs (dabigatran, rivaroxaban, apixaban, edoxaban) are preferred for nonvalvular AF; warfarin is mandatory for valvular AF.
+  - *WPW syndrome:* AV-nodal blocking drugs (diltiazem, beta-blockers, digoxin, adenosine) are strictly contraindicated because they precipitate ventricular fibrillation via the accessory pathway.
+- **Multifocal Atrial Tachycardia (MAT):** Seen in elderly patients with chronic lung disease (COPD). Managed by electrolyte correction, empiric IV magnesium sulfate (2 g over 15 min, then 6 g over 6 hr; 88% success rate), and metoprolol or verapamil.
+- **Paroxysmal SVT (AVNRT):** Narrow-complex regular tachycardia without visible P waves. Initiated by modified Valsalva maneuver (44% success). Drug of choice is rapid IV adenosine (6 mg, followed by 12 mg if needed; reduce dose by 50% for central line administration).
+- **Ventricular Tachycardia (VT):** Wide-complex tachycardia originating below the AV node. In patients with structural heart disease, 95% of wide-complex tachycardias are VT. Clues include AV dissociation and fusion beats.
+  - Hemodynamically compromised patients require immediate synchronized cardioversion (100 J biphasic).
+  - Stable patients receive IV amiodarone. Adenosine can be used diagnostically to unmask or terminate SVT with aberrancy.
+- **Torsade de Pointes:** Polymorphic VT twisting around the isoelectric line, caused by QT prolongation (QTc > 0.50 s) from drugs (Class IA/III antiarrhythmics, macrolides, neuroleptics) or electrolyte depletion (hypokalemia, hypomagnesemia). Managed with unsynchronized defibrillation, IV magnesium sulfate (1–2 g over 15 min), and withdrawal of offending agents.
 
-## **Narrow-QRS-Complex Tachycardias**
+</div></details>
 
-Tachycardias with a narrow QRS complex (≤0.12 sec) originate from a site above the AV conduction system, and are also known as *supraventricular tachycardias*. These include sinus tachycardia, atrial tachycardia, AV nodal re-entrant tachycardia (also called paroxysmal supraventricular tachycardia), atrial flutter, and atrial fibrillation. The specific arrhythmia can be identified using the uniformity of the R-R interval (i.e., the regularity of the rhythm), and the characteristics of the atrial activity, as described next.
+<details class="med-details" open>
+<summary>
 
-## *Regular Rhythm*
+## Diagnostic Evaluation</summary>
+<div class="details-content">
 
-If the R-R intervals are uniform in length (indicating a regular rhythm), the possible arrhythmias include sinus tachycardia, AV nodal re-entrant tachycardia, and atrial flutter with a fixed (2:1, 3:1) AV block. The atrial activity on the ECG can identify each of these rhythms using the
+The diagnostic evaluation of tachycardias (heart rate > 100 beats/min) is based on 3 findings on the ECG: the duration of the QRS complex, the uniformity of the R-R intervals, and the characteristics of the atrial activity. This approach is outlined in Figure 19.1.
 
-### following criteria:
+The duration of the QRS complex is used to distinguish narrow-QRS-complex tachycardias (QRS duration $\le 0.12$ s) from wide-QRS-complex tachycardias (QRS duration > 0.12 s), which helps to identify the point of origin of the tachycardia.
 
-- 1. Uniform P waves and P–R intervals are evidence of sinus tachycardia.
-- 2. The absence of P waves suggests an AV nodal re-entrant tachycardia (see [Figure](#page-2-0) 19.2).
-- <span id="page-1-0"></span>3. Sawtooth waves are evidence of atrial flutter.
+![Flow diagram for the evaluation of tachycardias](images/_page_1_Figure_4.jpeg)
 
-![](_page_1_Figure_4.jpeg)
+**FIGURE 19.1** Flow diagram for the diagnostic evaluation of tachycardias based on QRS duration, rhythm regularity, and atrial activity.
 
-**FIGURE 19.1** Flow diagram for the evaluation of tachycardias. See text for further details.
+### Narrow-QRS-Complex Tachycardias
 
-<span id="page-2-0"></span>![](_page_2_Figure_0.jpeg)
+Tachycardias with a narrow QRS complex ($\le 0.12$ s) originate from a site above the AV conduction system and are also known as supraventricular tachycardias (SVT). These include sinus tachycardia, atrial tachycardia, AV nodal re-entrant tachycardia (also called paroxysmal supraventricular tachycardia), atrial flutter, and atrial fibrillation. The specific arrhythmia is identified by rhythm regularity and atrial activity:
 
-**FIGURE 19.2** Narrow-QRS-complex tachycardia with a regular rhythm. Note the absence of visible P waves. This is an AV nodal re-entrant tachycardia, also known as a "paroxysmal supraventricular tachycardia" (paroxysmal SVT) because of its abrupt onset.
+- **Regular Rhythm:** Uniform R-R intervals indicate sinus tachycardia, AV nodal re-entrant tachycardia, or atrial flutter with fixed AV block (e.g., 2:1 or 3:1).
+  - *Sinus tachycardia:* Uniform P waves and normal P-R intervals.
+  - *AV nodal re-entrant tachycardia:* Absence of visible P waves (Figure 19.2).
+  - *Atrial flutter:* Sawtooth flutter waves.
+- **Irregular Rhythm:** Variable R-R intervals indicate multifocal atrial tachycardia or atrial fibrillation.
+  - *Multifocal atrial tachycardia (MAT):* Multiple P wave morphologies (at least 3 distinct shapes) and variable P-R intervals (Figure 19.3, Panel A).
+  - *Atrial fibrillation (AF):* Complete absence of distinct P waves with disorganized, rapid atrial fibrillatory waves (Figure 19.3, Panel B).
 
-### *Irregular Rhythm*
+![Narrow-QRS-complex tachycardia with a regular rhythm](images/_page_2_Figure_0.jpeg)
 
-If the R-R intervals are not uniform in length (indicating an irregular rhythm), the most likely arrhythmias are multifocal atrial tachycardia and atrial fibrillation. Once again, the atrial activity on the ECG helps to identify each of these rhythms; i.e.,
+**FIGURE 19.2** Narrow-QRS-complex tachycardia with a regular rhythm and absent visible P waves, diagnostic of AV nodal re-entrant tachycardia (paroxysmal SVT).
 
-- 1. Multiple P wave morphologies and variable PR intervals are evidence of multifocal atrial tachycardia (see Panel A, [Figure](#page-2-1) 19.3).
-- <span id="page-2-1"></span>2. The absence of P waves with highly disorganized atrial activity (fibrillation waves) is evidence of atrial fibrillation (see Panel B, [Figure](#page-2-1) 19.3).
+![Narrow-QRS-complex tachycardias with an irregular rhythm](images/_page_2_Figure_6.jpeg)
 
-![](_page_2_Figure_6.jpeg)
+![Atrial fibrillation tracing](images/_page_2_Figure_7.jpeg)
 
-![](_page_2_Figure_7.jpeg)
+**FIGURE 19.3** Narrow-QRS-complex tachycardias with an irregular rhythm. Panel A (top) shows multifocal atrial tachycardia (MAT), characterized by distinct P wave morphologies and variable P-R intervals. Panel B (bottom) shows atrial fibrillation, characterized by fibrillatory waves and irregular ventricular response.
 
-**FIGURE 19.3** Narrow-QRS-complex tachycardias with an irregular rhythm. Panel A shows a multifocal atrial tachycardia (MAT), identified by multiple P wave morphologies and variable PR intervals. Panel B is atrial fibrillation, identified by the absence of P waves with highly disorganized atrial activity (fibrillation waves).
+### Wide-QRS-Complex Tachycardias
 
-## **Wide- QRS- Complex Tachycardias**
+Tachycardias with a wide QRS complex (> 0.12 s) can originate from a site below the AV conduction system (ventricular tachycardia) or can represent a supraventricular tachycardia with aberrant AV conduction (e.g., pre-existing bundle branch block or rate-dependent aberration).
 
-Tachycardias with a wide QRS complex (>0.12 sec) can originate from a site below the AV
+An irregular wide-complex rhythm is typical of SVT with aberrant conduction (such as rapid AF with bundle branch block). In contrast, regular wide-complex tachycardias should be treated presumptively as ventricular tachycardia until proven otherwise.
 
-conduction system (i.e., ventricular tachycardia), or they can represent a supraventricular tachycardia (SVT) with prolonged AV conduction (e.g., from a bundle branch block). These two arrhythmias can be difficult to distinguish. An irregular rhythm is evidence of an SVT with aberrant AV conduction, while certain ECG abnormalities (e.g., AV dissociation) provide evidence of VT. The distinction between VT and SVT with aberrant conduction is described in more detail later in the chapter.
+</div></details>
 
-## **ATRIAL FIBRILLATION**
+<details class="med-details" open>
+<summary>
 
-Atrial fibrillation (AF) is the most common cardiac arrhythmia in adults (prevalence = 2–4%), and is classified as paroxysmal (present ≤7 days), persistent (present for >7 days), long-standing persistent (present for >1 year), or permanent (when repeated attempts to restore sinus rhythm are unsuccessful) ([3\)](#page-18-3). Most patients are elderly (median age = 75 years) and have underlying cardiovascular or pulmonary disease (with the exception of hyperthyroidism). AF can also appear *de novo* in certain groups of hospitalized patients (see next).
+## Atrial Fibrillation</summary>
+<div class="details-content">
 
-## **Hospital-Related AF**
+Atrial fibrillation (AF) is the most common sustained cardiac arrhythmia in adults (prevalence of 2% to 4%). It is classified clinically into four categories:
+- **Paroxysmal AF:** Terminates spontaneously or with intervention within 7 days of onset.
+- **Persistent AF:** Continuous and sustained for more than 7 days.
+- **Long-standing Persistent AF:** Continuous for more than 1 year when a rhythm control strategy is pursued.
+- **Permanent AF:** Patient and physician accept the rhythm; no further attempts are made to restore sinus rhythm.
 
-New-onset AF is a reported risk in ICU patients, and in the postoperative period following major surgery.
+Most patients are elderly (median age of 75 years) with underlying cardiovascular or pulmonary disease.
 
-#### *ICU-Related AF*
+### Hospital-Related Atrial Fibrillation
 
-The reported incidence of ICU-related AF varies widely (from 2% to 44%), and is more likely to appear in elderly patients with coronary disease, sepsis, shock, or respiratory failure [\(7](#page-18-4)[,8](#page-18-5)). The AF resolves spontaneously in up to 25% of cases ([7\)](#page-18-4), but it tends to recur, and rehospitalization for AF is reported in 20% of cases [\(8](#page-18-5)). Stroke is a risk, but the reported incidence is only 1% in the ensuing 3 years [\(8](#page-18-5)).
+New-onset AF is a frequent complication in the hospital environment, particularly in critical illness and postoperatively:
 
-## *Postoperative AF*
+- **ICU-Related AF:** The incidence ranges from 2% to 44% in critically ill patients, predominantly associated with sepsis, shock, systemic inflammation, and respiratory failure. Although AF resolves spontaneously in up to 25% of cases, recurrences occur in 20% of patients, and the 3-year risk of stroke is approximately 1%.
+- **Postoperative AF:** Occurs in up to 45% of patients undergoing cardiac or thoracic surgery, and in up to 10% of patients undergoing major non-thoracic surgery. It typically develops between postoperative days 2 and 5. Prophylaxis with beta-blockers and intravenous magnesium significantly reduces postoperative incidence.
 
-Postoperative AF is reported in up to 45% of cases involving cardiac and non-cardiac thoracic surgery, and up to 10% of cases involving other major surgeries [\(7](#page-18-4)[,9](#page-18-6)). It usually appears in the first 5 postoperative days [\(9](#page-18-6)), and follows the same course as ICU-related AF. Prophylaxis with β-blockers and magnesium has been effective in the AF that follows cardiac surgery AF [\(10](#page-18-7)).
+### Hemodynamic and Thromboembolic Consequences
 
-## **Adverse Consequences**
+Atrial fibrillation impairs cardiac function through two primary mechanisms:
 
-AF can impair cardiac performance and increase the risk of thromboembolic stroke.
+- **Loss of Atrial Kick:** Atrial contraction normally accounts for approximately 25% of ventricular end-diastolic volume. In healthy ventricles, loss of this contribution is well tolerated at rest. However, in patients with diastolic dysfunction, mitral stenosis, or ventricular hypertrophy, loss of atrial filling markedly reduces stroke volume.
+- **Shortened Diastolic Filling Time:** Rapid ventricular rates shorten diastole, severely reducing preload and cardiac output. This phenomenon creates a *pulse deficit* (apical heart rate exceeding peripheral arterial pulse rate), as shown in Figure 19.4.
+- **Thromboembolism:** Stasis of blood in the fibrillating left atrium, especially in the left atrial appendage, promotes thrombus formation. AF increases the overall risk of ischemic stroke five-fold.
 
-#### *Cardiac Performance*
+![Arterial pressure tracings in AF](images/_page_4_Figure_1.jpeg)
 
-Atrial contraction is responsible for about 25% of the ventricular end diastolic volume [\(11](#page-18-8)). Loss of this atrial contribution (from AF) has little noticeable effect unless diastolic filling is already impaired by mitral stenosis or reduced ventricular compliance (e.g., from ventricular hypertrophy). Under these conditions, a rapid heart rate can decrease cardiac stroke output (because of the decreased time for ventricular filling).
+**FIGURE 19.4** Arterial pressure tracings in atrial fibrillation demonstrating the pulse deficit. Closely spaced beats provide insufficient ventricular filling time, producing reduced stroke output and low systolic peaks that fail to propagate peripherally.
 
-The influence of ventricular filling time in AF is illustrated by the arterial pressure
+### Acute Heart Rate Control
 
-waveforms in [Figure](#page-4-0) 19.4. Note that close spacing between two heart beats (which shortens the time for ventricular filling), results in a decrease in systolic pressure (which is a reflection of the stroke volume). This effect can result in a "pulse deficit" (i.e., a decrease in the peripheral pulse rate relative to the apical impulses), indicating that the stroke output of the heart is not always reaching the periphery. Although rarely mentioned, monitoring the pulse deficit could be useful for identifying the end-point of rate control in AF ([12\)](#page-18-9).
+In hemodynamically stable patients with rapid ventricular response, the initial therapeutic goal is to slow AV nodal conduction. Common intravenous regimens are summarized in Table 19.1.
 
-<span id="page-4-0"></span>![](_page_4_Figure_1.jpeg)
+| Drug | Intravenous Dosing Regimen | Clinical Considerations |
+|---|---|---|
+| **Diltiazem** | 0.25 mg/kg IV over 2 min; may repeat with 0.35 mg/kg after 15 min; maintenance infusion: 5–15 mg/hr | Agent of choice for acute rate control. Effective within 1 hour in 55% of patients; controls rate in up to 90% during infusion. Causes hypotension in 20% to 30%. Avoid in HFrEF. |
+| **Amiodarone** | 150 mg IV over 10 min; repeat if needed; then 1 mg/min for 6 hr, followed by 0.5 mg/min for 18 hr (max 2.2 g in 24 hr) | Preferred in patients with HFrEF or borderline hypotension. Produces minimal negative inotropic effect. May cause conversion to sinus rhythm. |
+| **Metoprolol** | 2.5–5 mg IV over 2 min; repeat every 5–10 min up to 3 doses (total 15 mg) | Highly effective in hyperadrenergic states (e.g., post-surgery, sepsis). Can induce hypotension and negative inotropic depression. |
+| **Esmolol** | 500 mcg/kg IV bolus over 1 min, then infuse at 50 mcg/kg/min; titrate by 25 mcg/kg/min every 5 min (max 200 mcg/kg/min) | Ultra-short-acting beta-1 blocker (half-life of 9 min) allowing rapid titration and quick recovery if hypotension develops. |
+| **Digoxin** | 0.25 mg IV every 2 hr up to total 1.5 mg; maintenance: 0.125–0.375 mg IV daily | Delayed onset (> 1 hr; peak effect at 6 hr). Ineffective as monotherapy for acute rate control; useful adjunct in HFrEF. |
 
-**FIGURE 19.4** Arterial pressure tracings in AF. Note that there is a decrease in systolic pressure when two heart beats occur in rapid succession. This effect can produce a "pulse deficit", where apical impulses are not always transmitted to the periphery.
+![Comparison of acute rate control](images/_page_6_Figure_0.jpeg)
 
-#### *Stroke*
+**FIGURE 19.5** Comparison of acute heart rate reduction with intravenous diltiazem, amiodarone, and digoxin in patients with atrial fibrillation. Diltiazem achieves target rate (< 100 bpm) rapidly within the first 2 hours, whereas digoxin requires more than 6 hours.
 
-Atrial fibrillation predisposes to thrombus formation in the left atrium, especially in the left atrial appendage, and these thrombi can dislodge and embolize in the cerebral circulation to produce an acute ischemic stroke. Overall, AF increases the risk of stroke 5-fold ([3–](#page-18-3)[5\)](#page-18-10), but the risk is not homogeneous, and is influenced by the presence of certain risk factors (which are described later). The increased risk of stroke pertains to all types of AF, except first episodes of AF that are <48 hrs in duration. Recommendations for stroke-prevention with antithrombotic therapy are presented later.
+#### Diltiazem
 
-### **Heart Rate Control**
+Diltiazem is a nondihydropyridine calcium channel blocker and the most widely used first-line agent for acute rate control. A bolus of 0.25 mg/kg controls heart rate within 1 hour in 55% of patients, and a continuous infusion (5–15 mg/hr) maintains control in 90%.
 
-In patients with rapid AF who are hemodynamically stable, the initial goal is to slow the heart rate with drugs that prolong AV conduction. A variety of drugs are available for this purpose ([13\)](#page-18-11), and the popular ones are included in [Table](#page-4-1) 19.1. The following is a brief description of each drug. (*Caveat:* These drugs should not be used if the AF originates from an accessory pathway in the AV node, as described later).
+- *Adverse Effects:* Hypotension occurs in 20% to 30% of patients. Because of its negative inotropic properties, diltiazem is contraindicated in acute decompensated heart failure and HFrEF.
 
-<span id="page-4-1"></span>
+#### Beta-Receptor Antagonists
 
-| TABLE<br>19.1<br>Drug<br>Regimens<br>for<br>Acute<br>Rate<br>Control<br>in<br>Atrial<br>Fibrillation |                                                                                                                                                                                                                          |  |
-|------------------------------------------------------------------------------------------------------|--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|--|
-| Drug                                                                                                 | Dosing Regimens and Comments                                                                                                                                                                                             |  |
-| Diltiazem                                                                                            | Dosing: 0.25 mg/kg IV over 2 min, then infuse at 5–15 mg/hr.<br>Comment: A popular agent for acute rate control, but use is limited by the risk of hypotension (20–<br>30% of cases), and by negative inotropic effects. |  |
+Beta-blockers achieve rate control in 70% of cases, particularly when sympathetic tone is elevated. Cardioselective beta-1 blockers are preferred:
+- *Metoprolol:* Administered as intermittent IV boluses of 2.5 to 5 mg.
+- *Esmolol:* An ultra-short-acting agent with an elimination half-life of 9 minutes, allowing rapid titration and prompt resolution of adverse effects upon discontinuation.
 
-| Amiodarone | Dosing: 150 mg IV over 10 min, and repeat if needed, then infuse at 1 mg/min for 6 hr and 0.5<br>mg/min for 18 hr. Total dose should not exceed 2.2 grams in 24 hrs.<br>Comment: An effective alternative to diltiazem and beta blockers, and may be preferred in HFrEF.<br>Can occasionally promote conversion to sinus rhythm. |
-|------------|----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
-| Metoprolol | Dosing: 2.5–5 mg IV over 2 min, and repeat every 5–10 min if needed to a total of 3 doses.<br>Comment: Most effective in AF associated with hyperadrenergic states. Similar to diltiazem in risk of<br>hypotension and negative inotropic effects.                                                                               |
-| Esmolol    | Dosing: 500 μg/kg IV bolus, then infuse at 50 μg/kg/min. Increase dose in increments of 25<br>μg/kg/min every 5 min if needed to a maximum rate of 200 μg/kg/min.<br>Comment: An ultra-short-acting β blocker that permits rapid dose titration. Other features similar to<br>metoprolol.                                        |
-| Digoxin    | Dosing: 0.25 mg IV every 2 hrs to a total dose of 1.5 mg, then 0.125–0.375 mg IV daily.<br>Comment: Slow-acting drug that should not be used alone for acute rate control. Used primarily for<br>long-term rate control in patients with HFrEF.                                                                                  |
+#### Amiodarone
 
-See text for references. HFrEF = heart failure with reduced ejection fraction.
+Amiodarone is an effective alternative when beta-blockers and calcium channel blockers are contraindicated or ineffective. It exerts minimal negative inotropic effects and is preferred in patients with heart failure and reduced ejection fraction.
 
-## *Diltiazem*
+- *Adverse Effects:* Intravenous amiodarone avoids the chronic toxicities of oral therapy (pulmonary fibrosis, thyroid disease). Hypotension is related to the polysorbate 80 solvent rather than amiodarone itself and is avoided with aqueous formulations. QT prolongation can occur, though torsade de pointes is rare.
+- *Oral Transition:* Transition to oral amiodarone begins with an oral dose of 400 mg given 4 to 5 hours before stopping the infusion. A regimen of 400 mg twice daily is continued until a cumulative loading dose of 10 g (IV plus PO) is reached, followed by a maintenance dose of 100 to 200 mg once daily.
 
-The most popular agent for acute rate control in AF is the calcium channel blocker diltiazem, which is given as an intravenous bolus followed by a continuous infusion. The bolus dose produces effective rate control within one hour in 55% of patients ([14\)](#page-18-12), and the continuous infusion maintains rate control in up to 90% of cases [\(15](#page-18-13)). The graph in [Figure](#page-6-0) 19.5 shows that diltiazem is more effective than either amiodarone or digoxin in the first few hours of drug therapy ([16\)](#page-18-14).
+#### Digoxin
 
-**COMPLICATIONS:** The use of diltiazem is limited by the risk of hypotension, which is reported in about 20–30% of cases ([15,](#page-18-13)[17\)](#page-18-15). Diltiazem also has negative inotropic effects, which limits its use in patients with heart failure associated with reduced ejection fraction.
+Digoxin enhances vagal tone and slows AV conduction. Because of its delayed onset (> 1 hour, with peak effects taking 6 hours or longer), intravenous digoxin is ineffective as monotherapy for acute rate control. It is used as an adjunctive agent in patients with HFrEF.
 
-<span id="page-6-0"></span>![](_page_6_Figure_0.jpeg)
+#### Target Endpoint for Rate Control
 
-**FIGURE 19.5** Comparison of acute rate control with intravenous diltiazem, amiodarone, and digoxin in patients with uncomplicated atrial fibrillation. Data from Reference 16.
+Clinical guidelines accept a resting heart rate target between 80 and 110 bpm. A more physiologic endpoint is the abolition of the pulse deficit (resolution of variable systolic pulse waves shown in Figure 19.4), ensuring adequate ventricular filling and peripheral tissue perfusion.
 
-#### *β-Receptor Antagonists*
+### Electrical Cardioversion
 
-β-blockers achieve successful rate control in 70% of cases of rapid AF [\(18](#page-18-16)), and are most effective in hyperadrenergic states. Two β-blockers with proven efficacy in acute rate control are *esmolol* (Brevibloc) and *metoprolol* (Lopressor), and their dosing regimens are shown in Table 19.1. Both are [cardioselective](#page-4-1) agents that preferentially block β-1 receptors in the heart, but both are limited by the risk of hypotension. Esmolol is more appealing than metoprolol because it is an ultra short-acting drug (serum half-life is only 9 minutes), which allows rapid dose titration ([19\)](#page-18-17).
+Synchronized direct-current cardioversion is indicated immediately in hemodynamically unstable patients (hypotension, ongoing ischemia, pulmonary edema).
+- **Shock Energy:** Biphasic shocks have superior efficacy compared to monophasic shocks. An initial synchronized shock of 100 J biphasic (or 200 J monophasic) is successful in the majority of cases. Fixed-energy shocks are more effective than escalating energy.
+- **Thromboembolic Precautions:** If AF has been present for > 48 hours (or of unknown duration), cardioversion carries a substantial risk of embolic stroke. Transesophageal echocardiography (TEE) must exclude left atrial thrombus before elective cardioversion, and therapeutic anticoagulation must be initiated. In new-onset AF (< 48 hours duration), immediate cardioversion can proceed without prior TEE.
 
-## *Amiodarone*
+### Stroke Risk Assessment and Anticoagulation
 
-Amiodarone is an effective alternative to diltiazem or beta blockers in patients who are resistant or intolerant to these drugs ([20\)](#page-18-18). It also produces less cardiac depression than diltiazem or beta blockers, and is favored in some guidelines for patients with heart failure and reduced ejection fraction [\(4](#page-18-19)). Amiodarone is also an antiarrhythmic agent (Class III), and is capable of converting AF to a sinus rhythm. However, the success rate for cardioversion is variable, and some studies show no difference in the rate of cardioversion with amiodarone and diltiazem [\(17](#page-18-15)).
+The risk of thromboembolic stroke in nonvalvular AF is determined using the CHA2DS2-VASc scoring system, shown in Table 19.2.
 
-**COMPLICATIONS:** Intravenous amiodarone does not have the feared side effects associated with long-term therapy (e.g., pulmonary fibrosis, thyroid dysfunction). Hypotension can occur, but the incidence is far lower than with diltiazem [\(17](#page-18-15)). The hypotensive effect can be attributed to a solvent (polysorbate 80 surfactant) used to enhance the water solubility of amiodarone, since the aqueous formulation of amiodarone does not cause hypotension [\(21](#page-18-20)). Amiodarone can also
+| Risk Factor Condition | Points | Anticoagulation Recommendation |
+|---|---|---|
+| **(C)** Congestive Heart Failure | 1 | **Definite Anticoagulation:** |
+| **(H)** Hypertension | 1 | • Males: score $\ge 2$ points |
+| **(A)** Age $\ge 75$ years | 2 | • Females: score $\ge 3$ points |
+| **(D)** Diabetes mellitus | 1 | |
+| **(S)** Prior Stroke, TIA, or Thromboembolism | 2 | **Consider Anticoagulation:** |
+| **(V)** Vascular disease (prior MI, PAD, aortic plaque) | 1 | • Males: score = 1 point |
+| **(A)** Age 65–74 years | 1 | • Females: score = 2 points |
+| **(Sc)** Sex category (female) | 1 | |
 
-prolong the QT interval, and "torsade de pointes" has been reported, although rarely ([22\)](#page-18-21). Finally, amiodarone has several drug interactions by virtue of its metabolism by the cytochrome P450 enzyme system in the liver. The most relevant interactions in the ICU setting are inhibition of digoxin and warfarin metabolism.
+*Note:* Contraindications to anticoagulation include active hemorrhage, recent intracranial hemorrhage, intracranial neoplasm, and severe thrombocytopenia (platelet count < 50,000/$\mu$L). A history of falls is *not* a contraindication to anticoagulation.
 
-**TRANSITION TO ORAL THERAPY:** Transition from IV to oral amiodarone begins with an oral dose of 400 mg, which is given 4–5 hours before discontinuing the infusion. The initial oral regimen is 400 mg twice daily, which is continued until the total loading dose (IV and PO) reaches 10 grams ([22\)](#page-18-21). (The initial 24-hour IV regimen is a total dose of about one gram.) Thereafter, the daily dose can be reduced to the usual maintenance dose (100–200 mg once daily).
+Valvular AF (defined as AF in the presence of moderate-to-severe mitral stenosis or mechanical heart valves) always requires anticoagulation with warfarin, regardless of the CHA2DS2-VASc score.
 
-#### *Digoxin*
+### Oral Anticoagulant Therapies
 
-Digoxin prolongs conduction in the AV node, and is used for long-term rate control in patients with AF and heart failure with reduced ejection fraction. However, its value for acute rate control is limited because *the response to intravenous digoxin is slow to develop*. This is demonstrated in [Figure](#page-6-0) 19.5 [\(16](#page-18-14)). Note that there is little effect in the first hour after drug administration, and the heart rate has not reached the desired end-point (<100 bpm) after 6 hours. Because of this delayed response, intravenous digoxin should not be used alone for acute rate control in AF ([3,](#page-18-3)[13\)](#page-18-11). It can, however, be used as an adjunct to diltiazem or beta blockers in patients with heart failure or labile BP.
+Oral anticoagulants used for stroke prophylaxis are listed in Table 19.3.
 
-#### *End-Point of Rate Control*
+| Drug | Class / Mechanism | Standard Dosing | Renal and Clinical Dose Adjustments |
+|---|---|---|---|
+| **Dabigatran** | Direct thrombin inhibitor | 150 mg BID | Reduce to 110 mg BID if age $\ge 80$ years or CrCl 30–50 mL/min. Avoid if CrCl < 30 mL/min. |
+| **Rivaroxaban** | Direct Factor Xa inhibitor | 20 mg once daily with food | Reduce to 15 mg once daily if CrCl 15–49 mL/min. Avoid if CrCl < 15 mL/min. |
+| **Apixaban** | Direct Factor Xa inhibitor | 5 mg BID | Reduce to 2.5 mg BID if 2 of 3 criteria met: age $\ge 80$ years, weight $\le 60$ kg, serum creatinine $\ge 1.5$ mg/dL (133 $\mu$mol/L). |
+| **Edoxaban** | Direct Factor Xa inhibitor | 60 mg once daily | Reduce to 30 mg once daily if CrCl 15–50 mL/min, weight $\le 60$ kg, or concurrent potent P-gp inhibitor. |
+| **Warfarin** | Vitamin K antagonist | Initial 5 mg daily; titrate to INR 2.0–3.0 | Required drug of choice for valvular AF and mechanical valves. Routine INR monitoring mandatory. |
 
-There is a surprising lack of agreement about the end-point of rate reduction in AF, and heart rates of 80 bpm to 110 bpm have been used as end-points in individual studies [\(3](#page-18-3)). However the phenomenon shown in [Figure](#page-4-0) 19.4 suggests another approach to this issue; i.e., *elimination of the pulse deficit, or resolution of the variable systolic pressure in rapid AF, provides a more physiological goal of heart rate reduction in AF.* This approach is often overlooked, but deserves your consideration.
+#### Direct-Acting Oral Anticoagulants (DOACs)
 
-## **Electrical Cardioversion**
+Direct-acting oral anticoagulants (dabigatran, rivaroxaban, apixaban, and edoxaban) are preferred over warfarin for nonvalvular AF because they produce equivalent or superior stroke prevention with significantly lower rates of intracranial hemorrhage. They do not require routine coagulation monitoring.
+- *Limitations:* DOACs are contraindicated in patients with mechanical prosthetic heart valves and moderate-to-severe mitral stenosis. In severe renal failure (creatinine clearance < 15 mL/min), DOACs should be avoided.
 
-Synchronized, direct-current cardioversion is reserved for hemodynamically unstable patients. Biphasic shocks have a greater success rate and require lower energy levels than monophasic shocks (23). An energy level of 100 joules is usually successful with biphasic shocks (vs. 200 joules for monophasic shocks) (23). Fixed-energy attempts are considered more effective than an escalating energy approach [\(3](#page-18-3)). The success rate of cardioversion is greatest for new-onset or recent-onset AF.
+### Wolff-Parkinson-White Syndrome with AF
 
-Cardiac ultrasound (via the transesophageal approach, if time permits) is required prior to cardioversion to determine the presence or absence of atrial thrombi. Anticoagulation with a direct-acting oral agent is started as soon as possible (prior to, or immediately after the procedure) in appropriate candidates. Anticoagulation is not required for new-onset AF that is less than 48 hours in duration.
+When atrial fibrillation occurs in patients with an accessory pathway (Wolff-Parkinson-White syndrome), impulses can conduct rapidly down the accessory pathway without physiological AV nodal delay.
 
-### **Stroke Prevention**
+- *Contraindicated Drugs:* Drugs that block conduction through the AV node (diltiazem, verapamil, beta-blockers, digoxin, adenosine) facilitate 1:1 conduction down the accessory pathway, precipitating ventricular fibrillation and cardiac arrest.
+- *Management:* Immediate synchronized DC cardioversion is the treatment of choice in unstable patients. Pharmacologic cardioversion can be attempted with intravenous procainamide or amiodarone.
 
-As mentioned earlier, there is an increased risk of thromboembolic stroke in AF, but a number of
+</div></details>
 
-factors influence this risk (as well as the need for anticoagulant prophylaxis).
+<details class="med-details" open>
+<summary>
 
-## *Risk Assessment*
+## Multifocal Atrial Tachycardia</summary>
+<div class="details-content">
 
-The decision to use anticoagulant therapy in AF is based on a scoring system that is shown in [Table](#page-8-0) 19.2. There are 10 identified risk factors for stroke, with the highest risk being advanced age (>75 years), and a prior history of stroke, transient ischemic attack (TIA) or venous thromboembolism (VTE). Patients who are definite candidates for anticoagulation are considered to have at least a five-fold higher risk of stroke (or a yearly incidence >5%). It is important to mention that the risk assessment in [Table](#page-8-0) 19.2 does not apply to valvular AF (i.e., AF associated with mitral stenosis or a prosthetic valve), which always requires anticoagulation ([3\)](#page-18-3).
+Multifocal atrial tachycardia (MAT) is characterized by an irregular narrow-complex tachycardia with a rate of 100 to 150 bpm and at least 3 distinct P wave morphologies with variable P-R intervals (Figure 19.3, Panel A).
 
-Contraindications to anticoagulation in AF include active hemorrhage, a history of intracerebral hemorrhage, intracranial tumor, recurrent bleeding from a lesion that is still present, and a platelet count <50,000/μL ([3,](#page-18-3)[4\)](#page-18-19). Of interest, *a history of falls is not a contraindication to anticoagulant therapy* (24).
+It occurs primarily in elderly patients (mean age of 70 years), with over 50% of cases arising in patients with acute exacerbations of chronic obstructive pulmonary disease (COPD) or respiratory failure. Additional predisposing factors include hypomagnesemia, hypokalemia, and coronary artery disease.
 
-<span id="page-8-0"></span>
+### Acute Management
 
-| TABLE<br>19.2<br>Risk<br>Assessment<br>for<br>Oral<br>Anticoagulation<br>in<br>Atrial<br>Fibrillation |        |                                     |  |  |  |  |  |
-|-------------------------------------------------------------------------------------------------------|--------|-------------------------------------|--|--|--|--|--|
-| CHA2DS2<br>-VASc Scoring                                                                              |        |                                     |  |  |  |  |  |
-| Condition                                                                                             | Points | Indications for Anticoagulation     |  |  |  |  |  |
-| (C) CHF                                                                                               | 1      | Definite                            |  |  |  |  |  |
-| (H) Hypertension                                                                                      | 1      | Males: ≥2 points Females: ≥3 points |  |  |  |  |  |
-| (A) Age >75 yrs                                                                                       | 2      |                                     |  |  |  |  |  |
-| (D) Diabetes                                                                                          | 1      |                                     |  |  |  |  |  |
-| (S) Stroke/TIA/VTE                                                                                    | 2      | Consider                            |  |  |  |  |  |
-| (V) Vascular Disease                                                                                  | 1      | Males: 1 point Females: 2 points    |  |  |  |  |  |
-| (A) Age 65–74 yrs                                                                                     | 1      |                                     |  |  |  |  |  |
-| (Sc) Sex Category (♀)                                                                                 | 1      |                                     |  |  |  |  |  |
+MAT is notoriously refractory to electrical cardioversion and antiarrhythmic agents. Treatment focuses on underlying pulmonary and electrolyte disorders:
 
-VTE = venous thromboembolism. From References 3–5.
+- **Electrolyte Repletion:** Correct hypokalemia and hypomagnesemia. Potassium deficits cannot be replenished until hypomagnesemia is corrected.
+- **Empiric Magnesium Sulfate Infusion:** Because intracellular magnesium depletion can exist despite normal serum levels, empiric intravenous magnesium sulfate is recommended:
+  - *Regimen:* 2 g magnesium sulfate ($\text{MgSO}_4$) in 50 mL saline IV over 15 minutes, followed by a continuous infusion of 6 g $\text{MgSO}_4$ in 500 mL saline over 6 hours.
+  - This protocol converts MAT to sinus rhythm in up to 88% of patients, regardless of baseline serum magnesium concentration.
+- **Metoprolol:** If COPD is not decompensated with severe bronchospasm, IV metoprolol converts MAT to sinus rhythm in up to 80% of patients.
+- **Verapamil:** If beta-blockers are contraindicated by bronchospasm, IV verapamil (0.25 to 5 mg IV over 2 minutes, repeated every 15 to 30 minutes up to 20 mg) can slow ventricular rate and converts to sinus rhythm in approximately 40% to 50% of cases. Verapamil should be avoided in patients with HFrEF.
 
-## *Oral Anticoagulants*
+</div></details>
 
-The oral anticoagulants used for stroke prevention in AF are shown in [Table](#page-9-0) 19.3.
+<details class="med-details" open>
+<summary>
 
-#### *Warfarin:*
+## Paroxysmal Supraventricular Tachycardias</summary>
+<div class="details-content">
 
-Warfarin is the first oral anticoagulant approved for clinical use (in the 1950s), and acts indirectly by inhibiting the synthesis of vitamin K-dependent clotting factors (Factors II, VII, IX, and X). Anticoagulation with warfarin reduces the incidence of stroke (by as much as 65%) in both valvular and nonvalvular AF (3–5,13,25). However, warfarin has a narrow therapeutic window (i.e., the difference between therapeutic and toxic drug levels), which increases the likelihood of both inadequate and excessive anticoagulation, and requires routine monitoring of hemostasis (with the international normalized ratio, or INR).
+Paroxysmal supraventricular tachycardias (PSVT) are narrow-QRS regular tachycardias that represent the second most common sustained tachyarrhythmia after atrial fibrillation.
 
-<span id="page-9-0"></span>
+### Mechanism of Re-entry
 
-| TABLE<br>19.3            | Oral<br>Anticoagulants<br>for<br>Atrial<br>Fibrillation                                                                                                 |  |  |  |
-|--------------------------|---------------------------------------------------------------------------------------------------------------------------------------------------------|--|--|--|
-| Drug                     | Dosing Recomendations                                                                                                                                   |  |  |  |
-| Dabigatran<br>(Pradaxa)  | Standard Dose: 50 mg BID.<br>Reduced Dose: 110 mg BID for age ≥80 yrs or CrCL <30 mL/min.                                                               |  |  |  |
-| Rivaroxaban<br>(Xarelto) | Standard Dose: 20 mg once daily.<br>Reduced Dose: 15 mg once daily for CrCL <30 mL/min.                                                                 |  |  |  |
-| Apixaban<br>(Eliquis)    | Standard Dose: 5 mg BID.<br>Reduced Dose: 2.5 mg BID for 2 of the following: age ≥80 yrs, weight ≤60 kg, serum creatinine<br>≥1.5 mg/dL.                |  |  |  |
-| Edoxaban                 | Standard Dose: 60 mg once daily.<br>Reduced Dose: 30 mg once daily for CrCL <30 mL/min, weight ≤60 kg, or therapy with<br>erythromycin or ketoconazole. |  |  |  |
-| Warfarin<br>(Coumadin)   | Starting dose is usually 5 mg once daily, which is adjusted to achieve an INR of 2–3.                                                                   |  |  |  |
+PSVT results from re-entrant circuits involving dual pathways within the AV node or an accessory bypass tract. An ectopic atrial beat encounters unidirectional block in one pathway and slow conduction down the adjacent pathway. By the time the impulse traverses the slow pathway, the previously blocked pathway has repolarized, allowing retrograde conduction back to the atria. This reciprocating loop creates a self-sustaining re-entrant tachycardia.
 
-From the clinical practice guidelines in Reference 3. CrCL =-creatinine clearance (estimated).
+### AV Nodal Re-entrant Tachycardia (AVNRT)
 
-## *Direct-Acting Oral Anticoagulants*
+AVNRT accounts for 50% to 60% of all PSVT cases. It characteristically affects young, otherwise healthy individuals without structural heart disease (more common in females).
+- *Clinical Presentation:* Abrupt onset and termination, rapid palpitations, lightheadedness, and neck pulsations. Hemodynamic instability is rare.
+- *ECG Features:* Regular narrow-QRS tachycardia at 140 to 250 bpm. P waves are typically buried within the QRS complexes or appear as pseudo-$r'$ waves in lead V1 and pseudo-$S$ waves in inferior leads (Figure 19.2).
 
-The direct-acting oral anticoagulants (DOACs), which include direct thrombin inhibitors (e.g., dabigatran) and drugs that inhibit Factor Xa (e.g., rivaroxaban, apixaban, and edoxaban), have a more predictable anticoagulant effect than warfarin, and are given in fixed doses, without monitoring any tests of hemostasis. Clinical studies in patients with nonvalvular AF have shown that DOACs are as effective as warfarin in reducing the incidence of stroke, and have a lower incidence of major bleeding (26–29). Based on these observations, *DOACs are preferred to warfarin for stroke reduction in patients with nonvalvular AF* [\(3](#page-18-3)[–5](#page-18-10)). Each DOAC is considered equivalent to the others, but edoxaban may be less effective for stroke reduction (29), and dabigatran may have a greater risk of bleeding (26).
+### Vagal Maneuvers
 
-*The preference for DOACs does not extend to valvular AF* (i.e., AF associated with significant mitral stenosis or the presence of any prosthetic valve). In this situation, warfarin is considered superior to DOACs for stroke prevention ([3–](#page-18-3)[5\)](#page-18-10).
+Non-pharmacologic maneuvers that stimulate the vagus nerve increase AV nodal refractoriness and can terminate AVNRT:
+- **Carotid Sinus Massage:** Applied for 5 to 10 seconds over the carotid bulb (only after confirming the absence of carotid bruits). Success rate is 9%.
+- **Standard Valsalva Maneuver:** Forced expiration against a closed glottis (or blowing into a 10 mL syringe to 40 mmHg) for 15 seconds. Success rate is 24%.
+- **Modified Valsalva Maneuver:** Immediately following the 15-second strain phase, the patient is laid flat and their legs are passively elevated to 45 degrees for 15 seconds. This enhances venous return and vagal stimulation, achieving a 44% conversion rate.
 
-**DOSING:** The recommended dosing for each DOAC is shown in [Table](#page-9-0) 19.3. Note that a dose reduction is required for all DOACs in patients with renal insufficiency (creatinine clearance <30 mL/min). In this situation, Factor Xa levels can be measured to assess the adequacy of anticoagulation. The consensus opinion is that DOACs should be avoided in patients with endstage renal failure (creatinine clearance <15 mL/min) ([3–](#page-18-3)[5\)](#page-18-10).
+### Adenosine Therapy
 
-## **Wolff-Parkinson-White Syndrome**
+When vagal maneuvers fail, intravenous adenosine is the first-line pharmacologic agent for terminating AVNRT. Adenosine is an endogenous purine nucleoside that binds to A1 receptors in the AV node, causing profound transient AV nodal block with an onset under 30 seconds and an elimination half-life under 10 seconds. Recommendations for adenosine are summarized in Table 19.4.
 
-The Wolff-Parkinson-White (WPW) syndrome (short P–R interval and delta waves before the QRS) is characterized by recurrent supraventricular tachycardias that originate from an accessory pathway in the AV node. (The mechanism for these tachycardias is explained in the section on re-entrant tachycardias.) When atrial fibrillation occurs in a patient with an accessory pathway,
+| Category | Clinical Guidance and Dosing |
+|---|---|
+| **Dosing Regimen** | • Administer via a large peripheral vein (antecubital fossa).<br>• Initial dose: **6 mg** rapid IV bolus over 1–2 seconds, followed immediately by a rapid 20 mL saline flush.<br>• If no conversion within 2 minutes, administer a **12 mg** rapid IV bolus with saline flush.<br>• If needed, a second 12 mg bolus may be given 2 minutes later.<br>• Overall conversion rate exceeds 90%. |
+| **Dose Adjustments** | • **Reduce dose by 50% (initial 3 mg)** if delivered through a central venous catheter (risk of prolonged asystole) or in patients taking dipyridamole.<br>• **Increase dose** in patients receiving theophylline or caffeine (competitive adenosine receptor antagonists). |
+| **Drug Interactions** | • Dipyridamole blocks cellular uptake of adenosine, markedly potentiating its effects.<br>• Methylxanthines (theophylline, aminophylline) competitively block A1 receptors. |
+| **Adverse Effects** | • Transient high-grade AV block or sinus pause (50%, resolves within 60 s).<br>• Facial flushing (20%).<br>• Dyspnea (12%).<br>• Chest tightness or pressure (7%). |
+| **Contraindications** | • Asthma and severe bronchospastic disease.<br>• Second- or third-degree AV block (without a functioning pacemaker).<br>• Sick sinus syndrome. |
 
-drugs that block conduction in the AV node, (e.g., calcium channel blockers, β-blockers, digoxin) are unlikely to slow the ventricular rate because the accessory pathway is not blocked. Furthermore, selective block of the AV node can precipitate ventricular fibrillation ([6\)](#page-18-2). Therefore, *drugs that block the AV node should NOT be used when AF is associated with the WPW syndrome*. The preferred management in this situation is electrical cardioversion, or pharmacological cardioversion with amiodarone or procainamide.
+#### Alternative Therapies
 
-## **MULTIFOCAL ATRIAL TACHYCARDIA**
+If adenosine fails to convert PSVT, intravenous calcium channel blockers (diltiazem 0.25 mg/kg or verapamil 5 mg IV) or beta-blockers (metoprolol 5 mg IV) are effective. Synchronized electrical cardioversion (initial energy 50 to 100 J) is indicated if the patient becomes hemodynamically compromised.
 
-Multifocal atrial tachycardia or MAT (see Panel A in [Figure](#page-2-1) 19.3) is a disorder of the elderly (average age = 70), and over half of the cases occur in patients with chronic lung disease (30). Other associated conditions include magnesium and potassium depletion, and coronary artery disease (31).
+</div></details>
 
-## **Acute Management**
+<details class="med-details" open>
+<summary>
 
-The following measures are recommended for the acute management of MAT, but this is a stubborn arrhythmia that is often refractory to medical management.
+## Ventricular Tachycardia</summary>
+<div class="details-content">
 
-- 1. Correct hypomagnesemia and hypokalemia if necessary. If both electrolyte abnormalities coexist, the magnesium deficiency must be corrected before potassium deficits can be replaced. This is explained in Chapter 37.
-- 2. Since serum magnesium levels can be normal when total body magnesium is depleted (also explained in Chapter 37), intravenous magnesium can be given empirically using the following regimen: *Start with 2 grams MgSO<sup>4</sup> (in 50 mL saline) IV over 15 minutes, then infuse 6 grams MgSO<sup>4</sup> (in 500 mL saline) over 6 hours*. This regimen had a remarkable 88% success rate in converting MAT to a sinus rhythm in one study (31), and the effect was independent of serum magnesium level.
-- 3. If the prior measures fail, and COPD is not the cause of the MAT, *metoprolol in the doses shown in [Table](#page-4-1) 19.1 has a reported 80% success rate in converting MAT to sinus rhythm* (30).
-- 4. If metoprolol is a concern in patients with COPD, the calcium channel blocker *verapamil* can be effective. Verapamil converts MAT to sinus rhythm in less than 50% of cases (30), but it can slow the ventricular rate. *The dose is 0.25–5 mg IV over 2 min, which can be repeated every 15–30 min, if necessary, to a total dose of 20 mg* (32). Verapamil is a potent negative inotropic agent, and is not recommended for patients with heart failure and a reduced ejection fraction (32).
+Ventricular tachycardia (VT) is a wide-QRS-complex tachycardia (> 0.12 s) with a rate typically between 140 and 200 bpm, originating from ventricular myocardium or the His-Purkinje system. Sustained VT (persisting for > 30 seconds or causing immediate hemodynamic collapse) is a medical emergency.
 
-## **PAROXYSMAL SUPRAVENTRICULAR TACHYCARDIAS**
+### Differentiating VT from SVT with Aberrancy
 
-Paroxysmal supraventricular tachycardias (PSVT) are narrow-QRS-complex tachycardias that are second only to atrial fibrillation as the most prevalent rhythm disturbances in the general population.
+Distinguishing monomorphic VT from SVT with bundle branch block is a classic diagnostic challenge:
 
-## **Mechanism**
+![Monomorphic VT versus SVT with bundle branch block](images/_page_13_Figure_7.jpeg)
 
-These arrhythmias occur when impulse transmission in one pathway of the AV conduction system is slowed. This creates a difference in the refractory period for impulse transmission in the abnormal and normal conduction pathways, and this allows impulses travelling down one pathway to travel back through the other pathway. The retrograde transmission of impulses is called *re-entry*, and it results in a circular pattern of impulse transmission that is self-sustaining; i.e., a *re-entrant tachycardia*. Re-entry is triggered by an ectopic atrial impulse in one of the two conduction pathways, which results in the abrupt onset that is characteristic of re-entrant tachycardias.
+**FIGURE 19.6** Monomorphic wide-complex tachycardia (top tracing) resembling ventricular tachycardia. Spontaneous conversion to sinus rhythm (bottom tracing) reveals a persistent bundle branch block with identical QRS morphology, proving that the tachycardia was an SVT with pre-existing conduction aberration.
 
-There are 5 different types of PSVT, based on the location of the re-entrant pathway. The most common PSVT is *AV nodal re-entrant tachycardia*, where the re-entrant pathway is located in the AV node.
+#### Diagnostic Clues Favoring VT
 
-## **AV Nodal Re-Entrant Tachycardia**
+- **AV Dissociation:** Independent atrial and ventricular activity, with P waves marching through QRS complexes at a slower rate than the ventricular rhythm. AV dissociation is diagnostic of VT.
+- **Fusion Beats:** A hybrid QRS complex produced when a supraventricular impulse conducts down the AV node and collides with a concurrent ventricular ectopic impulse (Figure 19.7). Fusion beats are definitive evidence of ventricular origin.
+- **Capture Beats:** A normal, narrow QRS complex that occurs during wide-complex tachycardia when a supraventricular impulse catches the conduction system in a receptive state.
+- **Clinical History:** In patients with known structural heart disease (previous myocardial infarction, cardiomyopathy, low ejection fraction), **95% of wide-complex tachycardias are VT**.
 
-AV nodal re-entrant tachycardia (AVNRT) accounts for 50 to 60% of cases of PSVT (33). It typically appears in patients who have no history of heart disease, and is more common in women than men. The onset is abrupt, and the predominant complaints are palpitations and lightheadedness. There is no evidence of heart failure or myocardial ischemia, and significant hemodynamic compromise is uncommon. The ECG shows a narrow- QRS-complex tachycardia with a regular rhythm and a heart rate between 140 and 250 bpm (33). There are often no visible P waves on the ECG, as shown in [Figure](#page-2-0) 19.2.
+![Fusion beat](images/_page_14_Figure_6.jpeg)
 
-Because AVNRT has a regular rhythm, it is often mistaken for sinus tachycardia. However, the onset is abrupt in AVNRT and gradual in sinus tachycardia, while the ECG shows no visible P waves in AVNRT, but there are P waves before each QRS complex in sinus tachycardia. A 12 lead ECG is often necessary for identifying P waves (which are usually most prominent in the anterior precordial leads and inferior limb leads).
+**FIGURE 19.7** Electrocardiographic tracing showing a fusion beat (circled in red), representing fusion between a sinus impulse and a ventricular ectopic impulse during wide-QRS tachycardia.
 
-#### *Vagal Maneuvers*
+### Acute Management Algorithm
 
-Maneuvers that increase vagal tone are recommended as an initial attempt to terminate AVNRT (34). A variety of maneuvers have been identified (34), including (with the patient in the supine position) carotid sinus massage (only when there are no carotid bruits), the Valsalva maneuver (maximal expiratory effort with a closed glottis), the Mueller maneuver (maximal inspiratory effort with a closed glottis), induced gag reflex (by stimulating the posterior oropharynx with a tongue depressor), and application of an ice-cold, wet towel to the face (in an attempt to elicit a diving reflex).
+The management strategy for wide-QRS-complex tachycardia is outlined in Figure 19.8.
 
-Vagal maneuvers have had limited success in terminating AVNRTs. In one prospective study, the conventional Valsalva maneuver and carotid sinus massage had success rates of 24% and 9%, respectively (35). However in the same study, a modified Valsalva maneuver (performed by elevating the patients legs after the standard Valsalva maneuver) had a success rate of 44% (35).
+![Management algorithm for wide-QRS tachycardia](images/_page_15_Figure_1.jpeg)
 
-### **Adenosine**
+**FIGURE 19.8** Algorithm for the acute management of wide-QRS-complex tachycardia based on hemodynamic stability and diagnostic certainty.
 
-When vagal maneuvers are ineffective, *adenosine is the drug of choice for terminating AVNRT* (34). Adenosine is an endogenous nucleotide that relaxes vascular smooth muscle and slows
+- **Hemodynamically Unstable VT:** Patients with hypotension, altered mental status, pulmonary edema, or ischemic chest pain require immediate synchronized DC cardioversion:
+  - Initial shock: 100 J biphasic (or 200 J monophasic).
+  - If unsuccessful, escalate to 200 J biphasic. High-energy shocks (360 J) should be avoided because they cause myocardial injury.
+- **Stable Monomorphic VT:** Intravenous amiodarone is the first-line pharmacologic agent:
+  - Administer 150 mg IV over 10 minutes; repeat 150 mg every 10 to 15 minutes as needed for recurrent VT.
+  - Follow with a continuous maintenance infusion of 1 mg/min for 6 hours, then 0.5 mg/min for 18 hours (maximum 2.2 g in 24 hours).
+- **Stable Wide-Complex Tachycardia of Uncertain Etiology:** If the diagnosis between VT and SVT with aberrancy remains uncertain in a stable patient, intravenous adenosine (6 mg, then 12 mg) can be administered:
+  - Adenosine will promptly terminate SVT with aberrancy or expose flutter waves.
+  - Adenosine will not convert VT, confirming the indication for amiodarone.
 
-conduction in the AV node. When given by rapid intravenous injection, adenosine has a rapid onset of action (<30 sec) and produces a transient AV block that can terminate AV nodal reentrant tachycardias. Adenosine is quickly cleared from the bloodstream (by receptors on RBCs and endothelial cells), and the effects last only 1–2 minutes.
+</div></details>
 
-<span id="page-12-0"></span>
+<details class="med-details" open>
+<summary>
 
-| TABLE<br>19.4       | Intravenous<br>Adenosine<br>for<br>Paroxysmal<br>SVT                                                                                                                                                                                                                                                                        |  |  |  |  |
-|---------------------|-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|--|--|--|--|
-| Feature             | Recommendations                                                                                                                                                                                                                                                                                                             |  |  |  |  |
-| Dosing Regimen      | 1. Deliver through a peripheral vein.<br>2. Give 6 mg by rapid IV injection and flush catheter with saline.<br>3. If response inadequate after 2 min, give 12 mg by rapid IV injection and flush catheter with<br>saline.<br>4. If response still inadequate after 2 min, another 12 mg can be given by rapid IV injection. |  |  |  |  |
-| Dose<br>Adjustments | Decrease dose by 50% for:<br>• Drug delivery into the superior vena cava<br>• Patient receiving calcium channel blocker, β-blocker, or dipyridamole.                                                                                                                                                                        |  |  |  |  |
-| Drug Interactions   | • Dipyridamole (blocks adenosine uptake)<br>• Theophylline (blocks adenosine receptors)                                                                                                                                                                                                                                     |  |  |  |  |
-| Adverse Effects     | • Bradycardia, AV Block (50%)<br>• Facial flushing (20%)<br>• Dyspnea (12%)<br>• Chest Pressure (7%)                                                                                                                                                                                                                        |  |  |  |  |
-| Contraindications   | • Asthma<br>• 2nd or 3rd⁰ AV block<br>• Sick sinus syndrome                                                                                                                                                                                                                                                                 |  |  |  |  |
+## Torsade de Pointes</summary>
+<div class="details-content">
 
-From References 34,36, and 37.
+Torsade de pointes ("twisting of the points") is a form of polymorphic ventricular tachycardia characterized by QRS complexes whose peaks continuously twist around the isoelectric baseline (Figure 19.9).
 
-### *Dosing Considerations*
+![Torsade de pointes tracing](images/_page_16_Figure_0.jpeg)
 
-The dosing regimen for adenosine is shown in [Table](#page-12-0) 19.4 (34,36,37). The initial dose is 6 mg, which is injected rapidly into a peripheral vein and followed by a saline flush. Optimal results are obtained if the drug is injected at the hub of the catheter. If conversion to sinus rhythm does not occur after 2 minutes, a second 12 mg dose is given, and this can be repeated once if necessary. This regimen *terminates re-entrant tachycardias in over 90% of cases* (34).
+**FIGURE 19.9** Electrocardiographic tracing of torsade de pointes demonstrating polymorphic QRS complexes twisting around the isoelectric line in the setting of QT interval prolongation.
 
-The effective dose of adenosine for terminating AVNRT was determined in studies that used drug injection into peripheral veins. However, ventricular asystole has been reported when standard doses of adenosine are given through central venous catheters (38), so *a dose reduction of 50% has been recommended* by some (including the manufacturer) *when adenosine is delivered through a central venous catheter* (38).
+Torsade de pointes is triggered by early afterdepolarizations in the setting of prolonged ventricular repolarization (prolonged QT interval). It may be congenital or acquired. Acquired QT prolongation is far more common in ICU patients and is caused by QT-prolonging medications and electrolyte imbalances.
 
-#### *Adverse Effects*
+*Polymorphic VT with a normal QT interval* is not torsade de pointes; it is usually caused by acute myocardial ischemia.
 
-The adverse effects of adenosine are short-lived. The most frequent adverse effect is postconversion bradycardia, including various degrees of AV block. The AV block is refractory to atropine, but resolves spontaneously within 60 seconds (37). Dipyridamole enhances the AV
+### Predisposing Drugs and Electrolyte Disorders
 
-block produced by adenosine, and the two drugs should not be used together (37). Adenosine is contraindicated in patients with asthma; i.e., there is evidence that adenosine produces a sense of dyspnea, but not bronchospasm, in asthmatic subjects (39).
+Common pharmacologic agents associated with torsade de pointes are presented in Table 19.5.
 
-### *Other Therapies*
+| Class / Category | Implicated Medications |
+|---|---|
+| **Antiarrhythmics (Class IA)** | Quinidine, Disopyramide, Procainamide |
+| **Antiarrhythmics (Class III)** | Ibutilide, Sotalol, Amiodarone (rare) |
+| **Antimicrobial Agents** | Clarithromycin, Erythromycin, Pentamidine |
+| **Neuroleptics / Antipsychotics** | Chlorpromazine, Thioridazine, Droperidol, Haloperidol |
+| **Other Agents** | Cisapride, Methadone |
 
-When PSVT does not respond to adenosine, the calcium channel blockers diltiazem or verapamil can be effective. (The dosing regimen for diltiazem is shown in [Table](#page-4-1) 19.1, and the dosing regimen for verapamil is presented in the section on multifocal atrial tachycardia). For the rare case of PSVT that is resistant to drugs or is hemodynamically unstable, synchronized electrical cardioversion will terminate the rhythm, but energy levels greater than 100 J may be necessary (34).
+Predisposing electrolyte abnormalities include hypokalemia, hypomagnesemia, and hypocalcemia. Bradycardia also prolongs repolarization and potentiates the risk.
 
-## **VENTRICULAR TACHYCARDIA**
+### Measuring the Rate-Corrected QT Interval
 
-Ventricular tachycardia (VT) is a wide-QRS-complex tachycardia that has an abrupt onset, a regular rhythm, and a rate that is typically 140–200 bpm. The appearance can be *monomorphic* (uniform QRS complexes) or *polymorphic* (multiple QRS morphologies). VT rarely occurs in the absence of structural heart disease ([2\)](#page-18-22), and when it is sustained (i.e., lasts longer than 30 seconds), it can be an immediate threat to life.
+The QT interval is measured from the start of the QRS complex to the end of the T wave, usually in leads V3, V4, or lead II. Because the QT interval varies inversely with heart rate, the rate-corrected QT interval (QTc) is calculated using Bazett's formula:
 
-## **VT versus SVT**
+$$QTc = \frac{QT}{\sqrt{R\text{-}R}}$$
+*(Equation 19.1)*
 
-Monomorphic VT can be difficult to distinguish from an SVT with prolonged AV conduction. This is demonstrated in [Figure](#page-13-0) 19.6. The tracing in the upper panel shows a wide-QRS-complex tachycardia that looks like monomorphic VT. The tracing in the lower panel shows spontaneous conversion to sinus rhythm. Note that the QRS complex remains unchanged after the arrhythmia is terminated, revealing an underlying bundle branch block. Thus, the apparent VT in the upper panel is actually an SVT with a pre-existing bundle branch block.
+- A normal QTc is $\le 0.44$ s.
+- A QTc > 0.50 s indicates a significantly increased risk for torsade de pointes.
 
-<span id="page-13-0"></span>![](_page_13_Figure_7.jpeg)
+### Acute Management
 
-**FIGURE 19.6** Upper panel shows a wide-QRS-complex tachycardia that looks like monomorphic VT. However, the lower panel shows spontaneous conversion to a sinus rhythm,
+- **Defibrillation:** Sustained polymorphic VT with hemodynamic collapse requires immediate unsynchronized electrical cardioversion (defibrillation with 200 J biphasic), because the twisting QRS peaks prevent accurate R-wave synchronization.
+- **Intravenous Magnesium Sulfate:** First-line pharmacologic therapy is magnesium sulfate, which suppresses early afterdepolarizations:
+  - Administer 1 to 2 g $\text{MgSO}_4$ IV diluted in 50 to 100 mL of 5% dextrose in water over 15 minutes.
+  - Can be repeated after 15 minutes, followed by a continuous infusion of 3 to 10 mg/min.
+- **Discontinue Offending Agents:** Promptly stop all QT-prolonging drugs.
+- **Correct Electrolytes:** Maintain serum potassium at 4.5 to 5.0 mEq/L and serum magnesium > 2.0 mg/dL.
+- **Overdrive Pacing:** For recurrent torsade resistant to magnesium, overdrive transvenous cardiac pacing (rate 100 to 120 bpm) or isoproterenol infusion shortens ventricular repolarization and suppresses recurrences.
 
-which reveals an underlying bundle branch block, indicating that the rhythm in the upper panel is an SVT with a pre-existing bundle branch block. Tracings courtesy of Dr. Richard M. Greenberg, MD.
+</div></details>
 
-#### *Clues*
+<details class="med-details" open>
+<summary>
 
-There are two abnormalities on an ECG that will identify VT as the cause of a wide-QRScomplex tachycardia.
+## Practical Approach to Arrhythmias</summary>
+<div class="details-content">
 
-- 1. The atria and ventricles beat independently in VT, and this results in *AV dissociation* on the ECG, where there is no fixed relationship between P waves and QRS complexes. (P waves are most visible in the inferior limb leads and the anterior precordial leads.)
-- 2. The presence of fusion beats like the one in [Figure](#page-14-0) 19.7 is indirect evidence of VT. A fusion beat is produced by the retrograde transmission of a ventricular ectopic impulse that collides with a supraventricular (e.g., sinus node) impulse. The result is a hybrid QRS complex that is a mixture of the normal QRS complex and the ventricular ectopic impulse. The presence of a fusion beat (which should be evident on a single-lead ECG tracing) is thus indirect evidence of ventricular ectopic activity.
+When confronted with an acute tachycardia in the intensive care unit, the following systematic checklist prevents diagnostic confusion:
 
-If there is no definitive evidence of VT on the ECG, the presence or absence of heart disease can be useful; i.e., *VT is the cause of 95% of wide-QRS-complex tachycardias in patients with underlying heart disease* (40). Therefore, a wide-QRS-complex tachycardia should be treated as probable VT in any patient with underlying heart disease.
+### For Narrow-Complex Tachycardias ($\le 0.12$ s)
 
-<span id="page-14-0"></span>![](_page_14_Figure_6.jpeg)
+- **Regular Rhythm:**
+  - *Sinus Tachycardia:* Gradual onset and termination; uniform P waves; treat underlying cause (hypovolemia, fever, pain, sepsis).
+  - *AVNRT (PSVT):* Abrupt onset; absent or retrograde P waves; responds to modified Valsalva and adenosine.
+  - *Atrial Flutter:* Atrial rate 300 bpm with 2:1 block (ventricular rate 150 bpm); sawtooth flutter waves.
+- **Irregular Rhythm:**
+  - *Atrial Fibrillation:* Completely irregular; absent P waves; controlled with diltiazem, beta-blockers, or amiodarone.
+  - *Multifocal Atrial Tachycardia (MAT):* Irregular with distinct P waves of $\ge 3$ morphologies; seen in severe lung disease; treat with IV magnesium and metoprolol.
+  - *Caveat:* Very rapid atrial fibrillation (> 150 bpm) may appear regular on a quick glance at the monitor.
 
-**FIGURE 19.7** An example of a fusion beat (circled in red), which is a hybrid QRS complex produced by the collision of a ventricular ectopic impulse and a supraventricular (e.g., sinus node) impulse. The presence of fusion beats is evidence of ventricular ectopic activity.
+### For Wide-Complex Tachycardias (> 0.12 s)
 
-## **Management**
+- **Irregular Rhythm:**
+  - Most commonly atrial fibrillation with pre-existing or rate-dependent bundle branch block.
+  - *Rule:* Ventricular tachycardia is virtually never irregular.
+- **Regular Rhythm:**
+  - Presume ventricular tachycardia until proven otherwise, especially in patients with underlying cardiac disease.
+  - If hemodynamically unstable, deliver synchronized DC shocks (100 J biphasic).
+  - If stable, treat with IV amiodarone or perform an adenosine trial.
+- **Undulating / Twisting Amplitude:**
+  - Torsade de pointes; treat with unsynchronized defibrillation and IV magnesium sulfate.
 
-The management of patients with a wide-QRS-complex tachycardia can be organized as shown in [Figure](#page-15-0) 19.8.
-
-- 1. If there is evidence of hemodynamic compromise, *electrical cardioversion* is the appropriate intervention, regardless of whether the rhythm is VT or SVT with aberrant conduction. The shocks should be synchronized (timed with the QRS complex) and a low-energy shock of 100 J (biphasic or monophasic shocks) should terminate most cases of monomorphic VT (41). If this is unsuccessful, try 100 J again but use biphasic shocks. You can escalate to 200 J, but avoid higher energy shocks (e.g., 360 J) because they damage the myocardium (41).
-- 2. If there is no evidence of hemodynamic compromise and the diagnosis of VT is certain, intravenous amiodarone should be used to terminate the arrhythmia. *Amiodarone is the favored drug for suppressing monomorphic VT* [\(4](#page-18-19)), and the dosing regimen is shown in [Figure](#page-15-0) 19.8.
-
-3. If there is no evidence of hemodynamic compromise and the diagnosis of VT is uncertain, the response to adenosine can be helpful because adenosine will abruptly terminate most cases of paroxysmal SVT, but will not terminate VT. If a wide-QRS-complex tachycardia is refractory to adenosine, the likely diagnosis is VT, and intravenous amiodarone is indicated for arrhythmia suppression.
-
-<span id="page-15-0"></span>![](_page_15_Figure_1.jpeg)
-
-**FIGURE 19.8** Flow diagram for the acute management of patients with wide-QRS-complex tachycardia. Based on recommendations in Reference 4.
-
-<span id="page-16-0"></span>![](_page_16_Figure_0.jpeg)
-
-**FIGURE 19.9** Torsade de pointes, a polymorphic ventricular tachycardia described as "twisting around the (isoelectric) points". Tracing courtesy of Dr. Richard M. Greenberg, MD.
-
-## **Torsade de Pointes**
-
-Torsade de pointes ("twisting around the points") is a polymorphic VT with QRS complexes that appear to be twisting around the isoelectric line of the ECG, as shown in [Figure](#page-16-0) 19.9. This arrhythmia is usually associated with a prolonged QT interval, and it can be congenital or acquired. The acquired form is much more prevalent, and is caused by a variety of drugs and electrolyte abnormalities that prolong the QT interval (42,43). There is also a polymorphic VT that is associated with a normal QT interval, and the predisposing condition in this case is myocardial ischemia (42).
-
-### *Predisposing Factors*
-
-The drugs most frequently implicated in torsade de pointes are listed in [Table](#page-16-1) 19.5 (43). The prominent offenders are antiarrhythmic agents (Class IA and III), macrolide antibiotics, neuroleptic agents (phenothiazines and butyrophenones), and cisapride (a pro-motility drug). The electrolyte disorders that prolong the QT interval include hypokalemia, hypocalcemia, and hypomagnesemia.
-
-<span id="page-16-1"></span>
-
-| TABLE<br>19.5 | Drugs<br>That<br>Can<br>Induce<br>Torsade<br>de<br>Pointes |  |  |  |
-|---------------|------------------------------------------------------------|--|--|--|
-|               |                                                            |  |  |  |
-|               |                                                            |  |  |  |
-
-## *Measuring the QT Interval*
-
-The QT interval is the ECG manifestation of ventricular depolarization and repolarization, and is measured from the onset of the QRS complex to the end of the T wave. The longest QT intervals are usually in precordial leads V3 and V4, and these leads are most reliable for assessing QT prolongation. The QT interval varies inversely with heart rate, and a rate-corrected QT interval (QTc) provides a more accurate assessment of QT prolongation. The accepted method for
-
-determining the QTc is to divide the QT interval by the square root of the R-R interval (43–45); i.e.,
-
-$$QTc = QT/\sqrt{R-R}$$
- (19.1)
-
-A normal QTc is ≤0.44 seconds, and a QTc >0.5 seconds represents a risk for torsade de pointes (45). However, the importance of QT prolongation as a risk factor for torsade de pointes is not as advertised, because prolonged QT intervals are commonplace in ICU patients, while torsade de pointes is an uncommon arrhythmia.
-
-#### *Management*
-
-The management of polymorphic VT can be summarized as follows:
-
-- 1. Sustained polymorphic VT requires nonsynchronized electrical cardioversion (i.e., defibrillation) (42).
-- 2. Intravenous magnesium is popular for terminating torsade de pointes, and can be combined with electrical cardioversion (46). There is no consensus about the magnesium dose in this setting, but the current ACLS guidelines recommend 1–2 grams of magnesium sulfate (MgSO<sup>4</sup> ) IV over 15 minutes [\(6](#page-18-2)).
-- 3. Other measures aimed at preventing recurrences of torsade de pointes include correcting hypokalemia and hypomagnesemia (high-risk electrolyte abnormalities) and discontinuing high-risk drugs (e.g., haloperidol).
-- 4. For polymorphic VT with a normal QT interval, amiodarone or β-blockers can help to prevent recurrences (47).
-
-## **A FINAL WORD**
-
-## **Managing the Muddle**
-
-The first glance at the variety of cardiac arrhythmias and treatment options is often a befuddling experience, and the following tips can help to unravel things.
-
-## *For a narrow-complex tachycardia:*
-
-- 1. If the rhythm is regular, the candidates are sinus tachycardia, paroxysmal supraventricular tachycardia (PSVT), or atrial flutter. However, PSVT is uncommon in ICU patients (and usually occurs in younger patients with no structural heart disease).
-- 2. If the rhythm is highly irregular, it is most likely atrial fibrillation. Another candidate is multifocal atrial tachycardia (MAT), which is seen in patients with chronic lung disease.
-- 3. Be aware that rapid atrial fibrillation can appear to be a regular rhythm.
-
-## *For a wide-complex tachycardia:*
-
-1. If the rhythm is irregular, it is likely to be atrial fibrillation (or MAT) with prolonged AV
-
-conduction. Ventricular tachycardia is never irregular.
-
-- 2. If the rhythm is regular, it is most likely ventricular tachycardia. However, rapid atrial fibrillation with prolonged AV conduction can also appear to be regular.
-- 3. If the height of the complexes is increasing and decreasing, the rhythm is likely to be "torsade de pointes".
-
-Finally, atrial fibrillation is (by far) the most common arrhythmia you will encounter in the ICU, so focus your attention accordingly.
-
-## *References*
-
-<span id="page-18-0"></span>*a.* Osler W. On the educational value of the medical society. Yale Medical Journal, 1903.
-
-#### *Guidelines and Reviews*
-
-- <span id="page-18-1"></span>1. Al-Salamah T, AlAgeel M, Alblaihed L. Narrow Complex Tachycardias. Emerg Med Clin N Am 2022; 40:717–732.
-- <span id="page-18-22"></span>2. Alblaihed L, Al-Salamah T. Wide-complex tachycardias. Emerg Med Clin N Am 2022; 40:733–753.
-- <span id="page-18-3"></span>3. Hindricks G, Potpara T, Dagres N, et al. 2020 ESC Guidelines for the diagnosis and management of atrial fibrillation developed in collaboration with the European Association of Cardio-Thoracic Surgery (EACTS). Eur Heart J 2020; 42:373– 498.
-- <span id="page-18-19"></span>4. January CT, Wann LS, Calkins H, et al. 2019 AHA/ACC/HRS focused update of the 2014 AHA/ACC/HRS guideline for the management of patients with atrial fibrillation: a report of the American College of Cardiology/American Heart Association Task Force on Clinical Practice Guidelines and the Heart Rhythm Society. Circulation. 2019; 140:e125–e151.
-- <span id="page-18-10"></span>5. January CT, Wann SL, Alpert JS, et al. 2014 AHA/ACC/HRS guidelines for the management of patients with atrial fibrillation: executive summary. J Am Coll Cardiol 2014; 64:2246–2280.
-- <span id="page-18-2"></span>6. Panchal AR, Bartos JA, Carbañas JG, et al. Part 3: Adult basic and advanced life support: 2020 American Heart Association Guidelines for Cardiopulmonary Resuscitation and Emergency Cardiovascular Care. Circulation 2020; 142(Suppl 2):S366– S468.
-
-#### *Atrial Fibrillation*
-
-- <span id="page-18-4"></span>7. Wetterslev M, Haase N, Hassager C, et al. New-onset atrial fibrillation in adult critically ill patients: a scoping review. Intensive Care Med 2019; 45:928–938.
-- <span id="page-18-5"></span>8. Bedford JP, Ferrando-Vivas P, Redfern O, et al. New-onset atrial fibrillation in intensive care: epidemiology and outcomes. Eur Heart J Acute Cardiovasc Care 2022; 11:620–628.
-- <span id="page-18-6"></span>9. Mayson SE, Greenspon AJ, Adams S, et al. The changing face of postoperative atrial fibrillation: a review of current medical therapy. Cardiol Rev 2007; 15:231–241.
-- <span id="page-18-7"></span>10. Davis EM, Packard KA, Hilleman DE. Pharmacologic prophylaxis of postoperative atrial fibrillation in patients undergoing cardiac surgery: beyond beta blockers. Pharmacotherapy 2010; 30:274e–318e.
-- <span id="page-18-8"></span>11. Guyton AC. The relationship of cardiac output and arterial pressure control. Circulation 1981; 64:1079–1088.
-- <span id="page-18-9"></span>12. Karadavut S, Altintop I. Pulse deficit in atrial fibrillation—a different perspective on rhythm or rate control strategy. Kardiol Pol 2021; 79:1231–1238.
-- <span id="page-18-11"></span>13. Drugs for atrial fibrillation. Med Lett Drugs Ther 2019; 61:137–144.
-- <span id="page-18-12"></span>14. Posen A, Bursua A, Petzel R. Dosing strategy effectiveness of diltiazem in atrial fibrillation with rapid ventricular response. Ann Emerg Med 2023; 81:288–296.
-- <span id="page-18-13"></span>15. Ellenbogen KA, Dias VC, Cardello FP, et al. Safety and efficacy of intravenous diltiazem in atrial fibrillation or atrial flutter. Am J Cardiol. 1995; 75:45–49.
-- <span id="page-18-14"></span>16. Siu C-W, Lau C-P, Lee W-L, et al. Intravenous diltiazem is superior to intravenous amiodarone or digoxin for achieving ventricular rate control in patients with acute uncomplicated atrial fibrillation. Crit Care med 2009; 37:2174–2179.
-- <span id="page-18-15"></span>17. Karth GD, Geppert A, Neunteufl T, et al. Amiodarone versus diltiazem for rate control in critically ill patients with atrial tachyarrhythmias. Crit Care Med 2001; 29:1149–1153.
-- <span id="page-18-16"></span>18. Olshansky B, RosenfeldLE, Warner AI, et al. The Atrial Fibrillation Follow-up Investigation of Rhythm Management (AFFIRM) study: approaches to control rate in atrial fibrillation. J Am Coll Cardiol 2004; 43:1201–1208.
-- <span id="page-18-17"></span>19. Gray RJ. Managing critically ill patients with esmolol. An ultra short acting β-adrenergic blocker. Chest 1988; 93:398–404.
-- <span id="page-18-18"></span>20. Clemo HF, Wood MA, Gilligan DM, Ellenbogen KA. Intravenous amiodarone for acute heart rate control in the critically ill patient with atrial tachyarrhythmias. Am J Cardiol. 1998; 81:594–598.
-- <span id="page-18-20"></span>21. Gallik DM, Singer I, Meissner MD, et al. Hemodynamic and surface electrocardiographic effects of a new aqueous formulation of intravenous amiodarone. Am J Cardiol 2002; 90:964–968.
-- <span id="page-18-21"></span>22. Giardina E-G, Passman R. Amiodarone: clinical uses. UpToDate [\(www.uptodate.com\)](http://www.uptodate.com). Accessed 10/20/2023.
+</div></details>

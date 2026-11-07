@@ -1,220 +1,293 @@
-# Chapter 40
+# Acute Pancreatitis
 
-# **Acute Pancreatitis**
+> *Medicine cures the man who is fated not to die.*  
+> — Chinese Proverb
 
-*Medicine cures the man who is fated not to die.*
+Acute pancreatitis is cited as one of the leading gastrointestinal disorders requiring hospital admission (1). Although the vast majority of episodes pursue a mild, self-limited clinical course, patients who develop severe disease requiring intensive care unit (ICU) admission are frequently among the critically ill patients in the hospital.
 
-Chinese Proverb
+The clinical management of severe pancreatitis presents unique therapeutic challenges because no targeted pharmacological therapy exists to arrest the inflammatory cascade once initiated. Consequently, supportive care remains the cornerstone of management, and the overall mortality rate in severe acute pancreatitis (approximately 20% to 25%) has remained largely unchanged over the past two decades (1,2).
 
-Acute pancreatitis is cited as one of the leading abdominal disorders that requires hospitalization ([1\)](#page-8-0), but most cases are not severe enough to warrant ICU admission. However, the cases that do require ICU admission are often (or quickly become) the sickest patients in the ICU.
+<details class="med-details" open><summary>
 
-This chapter describes the clinical features and management of acute pancreatitis, with emphasis on the severe cases that require ICU-level care. Management of severe pancreatits is challenging, because there is no specific treatment (other than removing any predisposing condition), and the overall mortality rate (about 25%) has not changed over the past two decades ([2\)](#page-8-1).
+## Executive Summary</summary><div class="details-content">
 
-# **PATHOGENESIS & PRESENTATION**
+<details class="med-details" open><summary>
 
-The pancreas houses two types of cells: (*a*) "islet" cells that have an endocrine function, and secrete insulin, glucagon, and somatostatin, and (*b*) "acinar" cells that have an exocrine function, and secrete digestive enzymes such as amylase, lipase, and trypsin. Acute pancreatitis is an inflammatory process that primarily affects the acinar (exocrine) cells. Disruption of these cells releases digestive enzymes, and proteolytic enzymes like trypsin can aggravate the pancreatic injury and promote "autodigestion" of the pancreas. The pancreatic injury triggers a systemic inflammatory response, which can lead to inflammatory injury in other organs, culminating in multiorgan failure.
+### Key Principles and Clinical Recommendations</summary><div class="details-content">
 
-# **Etiologies**
+- **Epidemiology and Lethality:** Acute pancreatitis is a leading cause of gastrointestinal hospitalization. While mild edematous disease is self-limited, severe necrotizing pancreatitis requiring ICU admission carries an overall mortality of approximately 20% to 25%, a figure that has remained stubborn across decades.
+- **Etiological Distribution:** Gallstones (21% to 33%) and chronic alcohol abuse (16% to 27%) account for the majority of identifiable cases, followed by idiopathic causes (10% to 15%), severe hypertriglyceridemia (2% to 7%), and idiosyncratic drug reactions (3% to 4%).
+- **Hypertriglyceridemic Pancreatitis:** Serum triglyceride levels exceeding $1{,}000\text{ mg/dL}$ ($> 11.3\text{ mmol/L}$) trigger aggressive lipolysis and release of cytotoxic polyunsaturated free fatty acids. Treatment combines complete fasting with intravenous regular insulin ($0.1\text{–}0.4\text{ U/kg/hr}$) and dextrose ($5\%\text{–}10\%$) infusions to activate endothelial lipoprotein lipase, reducing triglycerides by 85% to 90% within 24 hours (target $< 500\text{ mg/dL}$).
+- **The Revised Atlanta Classification:** Diagnosis requires at least two of three criteria: (1) characteristic epigastric pain radiating to the back, (2) serum lipase or amylase $> 3\times$ the upper limit of normal, and (3) characteristic cross-sectional imaging findings. Lipase is significantly superior to amylase due to earlier peak (4 to 8 hours), prolonged elevation (8 to 14 days), and higher organ specificity.
+- **Staging Disease Severity:** The Revised Atlanta Classification stratifies pancreatitis into: *Mild* (no organ failure or local complications), *Moderately Severe* (transient organ failure resolving within 48 hours or local/systemic complications without persistent organ failure), and *Severe* (persistent single or multiple organ failure $> 48\text{ hours}$). Extrapancreatic failure (ARDS, acute kidney injury, shock) dictates prognosis, not serum enzyme levels or initial imaging.
+- **Goal-Directed Fluid Resuscitation:** Hypovolemia from third-spacing accelerates secondary pancreatic ischemia and necrosis. Ringer's lactate is the resuscitation fluid of choice, as it blunts systemic inflammation compared to normal saline. Fluid must be administered with moderation: an initial bolus of $10\text{ mL/kg}$ for overt hypovolemia, followed by $1.5\text{ mL/kg/hr}$ (targeting MAP $\ge 65\text{ mm Hg}$ and urine output $\ge 0.5\text{ mL/kg/hr}$). Overly aggressive hydration ($20\text{ mL/kg}$ bolus or $3\text{ mL/kg/hr}$) induces pulmonary edema, abdominal compartment syndrome, and increased mortality.
+- **Early Enteral Nutrition:** Total parenteral nutrition (TPN) is associated with mucosal atrophy, bacterial translocation, infectious necrosis, and increased mortality. Early enteral feeding (via oral route if tolerated, or nasogastric/nasojejunal tube) should be initiated within 48 hours. Enteral nutrition preserves the mucosal barrier and significantly reduces infectious complications and multiorgan failure.
+- **Infected Necrosis and Step-Up Approach:** Approximately one-third of patients with necrotizing pancreatitis develop secondary bacterial infection of necrotic tissue 7 to 10 days into the illness. Prophylactic antibiotics do not prevent infection and are contraindicated. Infected necrosis (characterized by gas bubbles on CT or clinical deterioration) is managed via broad-spectrum antibiotics covering enteric pathogens and a minimally invasive "step-up" drainage approach (percutaneous or endoscopic drainage before surgical necrosectomy).
+- **Abdominal Compartment Syndrome:** Intra-abdominal hypertension (IAP $> 12\text{ cm H}_2\text{O}$ or $> 9\text{ mm Hg}$) occurs in up to 55% of severe pancreatitis cases. Sustained pressures $> 20\text{ cm H}_2\text{O}$ ($> 15\text{ mm Hg}$) provoke renal hypoperfusion and oliguria, mandating bladder pressure monitoring and decompressive measures.
+- **The Alcohol Fallacy:** Although alcohol is commonly assumed to be the cause whenever present in the history, $< 1\%$ (0.2%) of heavy drinkers develop acute pancreatitis annually. Salivary amylase release during acute intoxication frequently masquerades as pancreatitis. Clinicians must not prematurely abandon the diagnostic search for gallstones, hypertriglyceridemia, or occult structural causes simply because an alcohol history exists.
 
-The causes of acute pancreatitis are listed in [Table](#page-1-0) 40.1. About three-quarters of the cases are the result of gallstones, alcohol abuse, or are idiopathic [\(1](#page-8-0)[,3](#page-8-2)), while the other causes that deserve mention are hypertriglyceridemia ([4,](#page-8-3)[5\)](#page-8-4), drugs [\(6](#page-8-5)), and infections ([7\)](#page-8-6).
+</div></details>
+</div></details>
 
-# *Hypertriglyceridemia*
+<details class="med-details" open><summary>
 
-Severe hypertriglyceridemia (serum triglyceride levels >1,000 mg/dL) is responsible for up to
+## Pathogenesis and Presentation</summary><div class="details-content">
 
-7% of cases of acute pancreatitis [\(4](#page-8-3)), and the frequency of cases has increased considerably in recent years ([5\)](#page-8-4). Several mechanisms may be involved, but one of the major ones is the release of polyunsaturated fatty acids (PUFA) from triglycerides, since PUFAs are highly oxidizable, and are capable of inciting an inflammatory response. (*Note:* The oxidation of PUFAs in food products is responsible for "rancidity".)
+The pancreas contains two distinct functional cell populations: (*a*) endocrine "islet" cells that secrete insulin, glucagon, and somatostatin directly into the bloodstream, and (*b*) exocrine "acinar" cells that synthesize and store digestive proenzymes, including amylase, lipase, and trypsinogen.
 
-The pancreatitis from hypertriglyceridemia is more severe than other types of pancreatitis, and is associated with a greater degree of systemic inflammation and extrapancreatic organ injury ([4\)](#page-8-3). Fortunately, there is an effective treatment, which is described later in the chapter.
+Acute pancreatitis is primarily an inflammatory destruction of acinar cells. Pathological disruption of acinar membranes uncouples intracellular protective mechanisms, permitting the premature intrapancreatic activation of trypsinogen to active trypsin. Active trypsin then digests adjacent cellular structures and activates downstream zymogens (elastase, phospholipase A2, carboxypeptidase), initiating enzymatic autodigestion of the pancreatic gland.
 
-<span id="page-1-0"></span>
+This localized parenchymal destruction liberates potent inflammatory cytokines and damage-associated molecular patterns (DAMPs) into the microcirculation. This cascade incites systemic endothelial injury, increased capillary permeability, microvascular thrombosis, and systemic inflammatory response syndrome (SIRS), which can culminate in multiorgan failure.
 
-| TABLE<br>40.1               | Etiologies<br>of | Acute<br>Pancreatitis |
-|-----------------------------|------------------|-----------------------|
-| More Common†                |                  | Less Common           |
-| Gallstones (21–33%)         |                  | Abdominal Trauma      |
-| Alcohol (16–27%)            |                  | Hypercalcemia         |
-| Idiopathic (10–15%)         |                  | Infections            |
-| Hypertriglyceridemia (2–7%) |                  | Pregnancy             |
-| Drugs (3–4%)                |                  | Vasculitis            |
+<details class="med-details" open><summary>
 
-<sup>†</sup>Reported prevalence indicated in parentheses.
+### Etiologies of Acute Pancreatitis</summary><div class="details-content">
 
-#### *Drugs*
+The predisposing factors for acute pancreatitis are detailed in Table 40.1. Approximately three-quarters of all clinical episodes are attributable to biliary calculi, chronic alcohol consumption, or remain idiopathic after initial investigation (1,3). The remaining etiologies comprise hypertriglyceridemia (4,5), pharmaceuticals (6), and infectious agents (7).
 
-At least 36 drugs have been implicated as a causative factor in acute pancreatitis [\(1](#page-8-0)[,6](#page-8-5)), but many of the cases are idiosyncratic reactions in case reports. The most frequently reported drugs are hydrochlorothiazide, azathioprine, and doxycycline ([6\)](#page-8-5), while the other implicated drugs include (in alphabetical order) acetaminophen, enalapril, furosemide, metronidazole, procainamide, trimethoprim-sulfamethoxazole, and valproic acid [\(1](#page-8-0)[,6](#page-8-5)).
+<details class="med-details" open><summary>
 
-#### *Infections*
+#### <span id="tbl-40-1"></span>TABLE 40.1 Etiologies of Acute Pancreatitis</summary><div class="details-content">
 
-A variety of infectious agents can cause pancreatitis ([7\)](#page-8-6), including viruses (HIV, cytomegalovirus, varicella-zoster, herpes simplex, and hepatitis B), bacteria (Mycoplasma, Legionella, Leptospira, and Salmonella), fungi (Aspergillus) and parasites (Toxoplasma, Cryptosporidium). Suspicion of an infectious agent is based on the presence of other manifestations of the infection.
+| Common Etiologies (Reported Prevalence) | Less Common Etiologies |
+| :--- | :--- |
+| **Gallstones** (21% to 33%) | Abdominal trauma |
+| **Alcohol abuse** (16% to 27%) | Hypercalcemia |
+| **Idiopathic** (10% to 15%) | Infectious pathogens |
+| **Hypertriglyceridemia** (2% to 7%) | Pregnancy |
+| **Medications** (3% to 4%) | Systemic vasculitis |
 
-## **General Features**
+*Adapted from References 1, 3, 4, 6, and 7.*
 
-The general features of acute pancreatitis are summarized in [Table](#page-2-0) 40.2. This is the revised Atlanta classification for acute pancreatitis [\(8](#page-8-7)), and it has three components: (*a*) a classification based on morphology, (*b*) diagnostic criteria, and (*c*) a severity of illness classification. Each of these is described next.
+</div></details>
 
-# **Morphology**
+#### Severe Hypertriglyceridemia
 
-There are two types of acute pancreatitis, based on the presence or absence of pancreatic necrosis.
+Severe hypertriglyceridemia (serum triglyceride concentrations exceeding $1{,}000\text{ mg/dL}$ or $> 11.3\text{ mmol/L}$) is responsible for 2% to 7% of acute pancreatitis presentations (4), and its relative prevalence has escalated significantly in recent clinical registries (5).
 
-1. *Edematous pancreatitis* is characterized by diffuse inflammation of the pancreas, with no
+The pathophysiology involves the enzymatic breakdown of excessive circulating triglycerides by pancreatic lipase. This hydrolysis releases massive quantities of cytotoxic polyunsaturated free fatty acids (PUFAs). Unbound PUFAs are vulnerable to peroxidation, generating reactive oxygen species that damage acinar cell membranes, induce capillary thrombosis, and aggravate local ischemia. (The oxidation of PUFAs in foodstuffs is the chemical basis of rancidity.)
 
-evidence of pancreatic necrosis. This is the most common type of pancreatitis, and the clinical presentation is typically mild and self-limited, with no involvement of other organs ([1,](#page-8-0)[2\)](#page-8-1).
+Pancreatitis triggered by hypertriglyceridemia displays a more aggressive clinical trajectory than gallstone or alcoholic pancreatitis, producing higher rates of systemic inflammation, infected necrosis, and extrapancreatic organ failure (4). Fortunately, targeted therapy with insulin infusion can rapidly reverse this state.
 
-2. *Necrotizing pancreatitis* is characterized by areas of necrotic destruction in the pancreas, which can extend into the peripancreatic tissues. This condition can be complicated by local infection and extrapancreatric organ injury. The incidence of this type of pancreatitis varies in different reports, from as low as 5% [\(8](#page-8-7)) to as high as 40% ([4\)](#page-8-3).
+#### Drug-Induced Pancreatitis
 
-<span id="page-2-0"></span>
+At least 36 pharmaceuticals have been implicated as causative triggers of acute pancreatitis (1,6). Although drug-induced pancreatitis accounts for only 3% to 4% of total presentations, the diagnosis is frequently delayed because injury often represents an unpredictable, idiosyncratic metabolic or immunoallergic reaction.
 
-| TABLE<br>40.2                                              | Classification<br>of<br>Acute<br>Pancreatitis†                                                                                                                              |  |
-|------------------------------------------------------------|-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------|--|
-| Feature                                                    | Definitions or Criteria                                                                                                                                                     |  |
-| Morphology                                                 | 1. Edematous Pancreatitis<br>2. Necrotizing Pancreatitis                                                                                                                    |  |
-| Diagnostic Criteria                                        | Any 2 of the following:<br>1. Characteristic abdominal pain<br>2. Serum amylase or lipase >3 times upper limit of normal<br>3. Characteristic imaging                       |  |
-| Severity of Illness:<br>A. Mild<br>B. Moderately<br>Severe | A. No organ failure, and no local or systemic complications<br>B. Transient organ failure (<48 hrs), or local or systemic complications without persistent<br>organ failure |  |
-| C. Severe                                                  | C. Persistent organ failure (>48 hrs), single or multiple                                                                                                                   |  |
+The medications most frequently verified in clinical series include hydrochlorothiazide, azathioprine, and doxycycline (6). Other documented agents include (in alphabetical order) acetaminophen, enalapril, furosemide, metronidazole, procainamide, trimethoprim-sulfamethoxazole, and valproic acid (1,6).
 
-<sup>†</sup>The revised Atlanta classification, from Reference 8.
+#### Infectious Etiologies
 
-# **Diagnostic Criteria**
+Infectious pathogens account for a minor subset of pancreatitis cases (7). Documented agents encompass viruses (human immunodeficiency virus [HIV], cytomegalovirus [CMV], varicella-zoster virus, herpes simplex virus, and hepatitis B virus), bacteria (*Mycoplasma*, *Legionella*, *Leptospira*, and *Salmonella*), fungi (*Aspergillus*), and parasites (*Toxoplasma*, *Cryptosporidium*).
 
-The diagnosis of acute pancreatitis requires two of the following: (*a*) abdominal pain that is characteristic of acute pancreatitis, (*b*) an increase in serum amylase or lipase levels to three times the normal range, and (*c*) a contrast enhanced CT scan (or MRI) showing edema or necrotic lesions in the pancreas.
+Infectious pancreatitis should be suspected when characteristic pancreatic inflammation arises in the setting of systemic infectious symptoms, particularly in immunocompromised hosts.
 
-## *Pancreatic Enzymes*
+</div></details>
 
-Although no distinction is made between amylase and lipase in the diagnostic criteria, *lipase should be favored over amylase* for the following reasons:
+<details class="med-details" open><summary>
 
-- 1. An increase in serum lipase to three times normal has a greater specificity for acute pancreatitis than a similar increase in serum amylase [\(9](#page-8-8)).
-- 2. The elevation in lipase occurs earlier than the elevation in amylase (4–8 hrs vs. 6–12 hrs, respectively), and it lasts much longer (i.e., 8–14 days for lipase, versus 3–5 days for amylase) ([9\)](#page-8-8).
-- 3. Monitoring the lipase level alone has the same diagnostic accuracy as monitoring both (amylase and lipase) levels [\(9](#page-8-8)).
+### Diagnostic Criteria and Imaging</summary><div class="details-content">
 
-The combination of abdominal pain and increased pancreatic enzymes is diagnostic in about 75–80% of cases of acute pancreatitis ([1\)](#page-8-0), but imaging studies are a valued addition (see next).
+The contemporary diagnostic framework for acute pancreatitis is defined by the Revised Atlanta Classification, summarized in Table 40.2 (8). Formal diagnosis requires the presence of at least two of the following three features: (*a*) characteristic severe epigastric abdominal pain radiating to the back, (*b*) an elevation of serum amylase or lipase to at least three times ($> 3\times$) the upper limit of normal, and (*c*) cross-sectional imaging (contrast-enhanced CT or MRI) confirming characteristic pancreatic inflammation.
 
-#### *Imaging*
+<details class="med-details" open><summary>
 
-CT scans of the abdomen (contrast-enhanced) are often included in the diagnostic evaluation of pancreatitis because they can identify the type of pancreatitis (edematous vs. necrotizing) and reveal localized complications (e.g., infection). [Figure](#page-3-0) 40.1 shows a contrast-enhanced CT image of edematous pancreatitis. The pancreas is thickened and enhances completely, and the border of the pancreas is blurred, which is characteristic of pancreatic edema. Compare this with the image in [Figure](#page-4-0) 40.2, which shows a large area in the pancreas that is not contrast-enhanced. This represents pancreatic necrosis, and identifies the condition as necrotizing pancreatitis. Pancreatic necrosis may not appear for the first week after the onset of symptoms ([1\)](#page-8-0), so repeat imaging is advised in patients with persistent symptoms or severe pancreatitis.
+#### <span id="tbl-40-2"></span>TABLE 40.2 Classification of Acute Pancreatitis</summary><div class="details-content">
 
-<span id="page-3-0"></span>![](_page_3_Picture_2.jpeg)
+| Diagnostic / Staging Category | Clinical Definitions and Atlanta Criteria |
+| :--- | :--- |
+| **Morphologic Types** | 1. **Edematous (Interstitial) Pancreatitis:** Diffuse inflammatory enlargement without parenchymal necrosis.<br>2. **Necrotizing Pancreatitis:** Non-enhancing necrotic destruction of pancreatic parenchyma or peripancreatic tissue. |
+| **Diagnostic Criteria** | **Requires at least 2 of 3 features:**<br>1. Acute epigastric abdominal pain radiating to the back.<br>2. Serum amylase or lipase $> 3\times$ upper limit of normal.<br>3. Characteristic cross-sectional imaging findings (contrast CT or MRI). |
+| **Severity Stratification** | **A. Mild:** No organ failure and absence of local or systemic complications.<br>**B. Moderately Severe:** Transient organ failure resolving within 48 hours, or local/systemic complications without persistent organ failure.<br>**C. Severe:** Persistent single or multiple organ failure exceeding 48 hours ($> 48\text{ hrs}$). |
+
+*Adapted from the Revised Atlanta Classification consensus guidelines (Reference 8).*
+
+</div></details>
+
+#### Pancreatic Enzymes: Lipase vs Amylase
+
+Although traditional criteria accept elevations in either amylase or lipase, *serum lipase is superior to amylase* in critical care practice for three key reasons:
+
+- 1. Lipase displays substantially greater clinical specificity than amylase, as amylase is abundantly secreted by extrapancreatic tissues (including salivary glands, fallopian tubes, and small bowel) (9).
+- 2. Serum lipase rises earlier (within 4 to 8 hours vs 6 to 12 hours for amylase) and remains elevated significantly longer (8 to 14 days vs 3 to 5 days for amylase), ensuring diagnostic utility in patients presenting late (9).
+- 3. Tracking lipase in isolation provides identical diagnostic accuracy to combined testing; simultaneous measurement of serum amylase adds financial cost without improving diagnostic sensitivity (9).
+
+The clinical triad of typical abdominal pain and a threefold enzyme elevation confirms the diagnosis in 75% to 80% of patients without immediate emergency imaging (1).
+
+#### Cross-Sectional Imaging
+
+Contrast-enhanced computed tomography (CECT) of the abdomen is the gold standard for morphological characterization. CECT reliably differentiates between interstitial edematous pancreatitis and necrotizing pancreatitis, and identifies local complications.
+
+Figure 40.1 illustrates interstitial edematous pancreatitis: the pancreatic parenchyma is diffusely enlarged and enhances homogeneously following intravenous contrast administration, with hazy infiltration (stranding) of the peripancreatic fat representing fluid accumulation.
+
+<span id="fig-40-1"></span>
+![FIGURE 40.1](images/_page_3_Picture_2.jpeg)
 
 **FIGURE 40.1** Contrast-enhanced CT image showing edematous pancreatitis. The pancreas (outlined by the dotted line) is enlarged and enhances completely. There is also blurring of the pancreatic border, which is characteristic of edema formation.
 
-When IV contrast cannot be administered (e.g., because of a dye allergy), CT imaging is less likely to distinguish between edematous and necrotizing pancreatitis. In this situation, magnetic resonance imaging (MRI) is a suitable alternative.
+##### Evaluation of Pancreatic Necrosis
 
-# **Severity of Disease**
+In contrast to edematous disease, Figure 40.2 demonstrates necrotizing pancreatitis, defined by focal or confluent zones of non-enhancing, devitalized parenchyma. Necrotizing pancreatitis occurs in 5% to 40% of presentations (4,8).
 
-The revised Atlanta classification of acute pancreatitis includes three categories for severity of disease, based on the presence or absence of complications, and extrapancreatic organ failure (see [Table](#page-2-0) 40.2). About 50% of cases are classified as *mild disease* (symptoms self-limited, and no evidence of complications or organ failure), while the remaining 50% are equally divided
+Importantly, pancreatic parenchymal necrosis is an evolving process that may not fully demarcate on imaging during the first 48 to 72 hours following symptom onset (1). Consequently, initial early CT scans may underestimate tissue injury; repeat contrast-enhanced imaging is recommended after 5 to 7 days if the patient deteriorates or fails to improve.
 
-between *moderately severe disease* (transient organ failure, resolves in less than 48 hours) and *severe disease* (organ failure persists for longer than 48 hours) ([10\)](#page-8-9). The mortality in acute pancreatitis is mostly limited to patients with severe disease, and is about 20–25% [\(1](#page-8-0)[,2](#page-8-1)). *Pancreatic enzymes and CT images have a poor correlation with the severity of illness*.
+When iodinated contrast is contraindicated (e.g., severe anaphylactoid reaction), magnetic resonance imaging (MRI) with gadolinium or non-contrast secretin MR cholangiopancreatography (MRCP) serves as an accurate non-nephrotoxic modality.
 
-The extrapancreatic organ involvement in acute pancreatitis is related to the systemic inflammatory response, and can involve single or multiple organs. The organs typically involved are the lungs (i.e., acute respiratory distress syndrome), the kidneys (acute kidney injury), and the circulatory system (hypotension and circulatory shock). This organ involvement may not appear in the early stages of illness.
-
-<span id="page-4-0"></span>![](_page_4_Picture_2.jpeg)
+<span id="fig-40-2"></span>
+![FIGURE 40.2](images/_page_4_Picture_2.jpeg)
 
 **FIGURE 40.2** Contrast-enhanced CT image showing necrotizing pancreatitis. The area that is not contrast-enhanced (indicated by the arrows) represents necrosis in the neck and body of the pancreas. Image from Reference 8.
 
-# **Biliary Evaluation**
+#### Evaluation of the Biliary Tree
 
-Since gallstones are the leading cause of acute pancreatitis, an evaluation of the gall bladder and biliary tree is advised in all cases of confirmed acute pancreatitis. Contrast-enhanced CT images may suffice for this evaluation, but in cases where a CT scan is unavailable or inconclusive, bedside ultrasonography is recommended.
+Because choledocholithiasis is the leading reversible cause of acute pancreatitis, emergency evaluation of the gallbladder and extrahepatic biliary tree is recommended in all patients.
 
-# **MANAGEMENT**
+While contrast CT can identify biliary ductal dilatation, transabdominal ultrasonography at the bedside remains the screening modality of choice for detecting cholelithiasis and choledocholithiasis.
 
-Management in the ICU is primarily for patients with moderately severe or severe disease, and mostly involves supportive care, especially with fluids and nutrition.
+</div></details>
 
-### **Fluid Management**
+<details class="med-details" open><summary>
 
-Severe pancreatitis is associated with loss of intravascular fluid through leaky systemic capillaries, and the resulting hypovolemia can produce additional pancreatic necrosis. For this reason, attention to volume resuscitation is recommended early in the course of severe pancreatitis. The following fluid regimen is recommended:
+### Severity Stratification and Organ Failure</summary><div class="details-content">
 
-- 1. Ringer's lactate (RL) is the recommended fluid, based on evidence of improved outcomes with RL compared to isotonic saline ([11,](#page-8-10)[12\)](#page-8-11). However, since RL contains calcium, it should not be used in hypercalcemia-related pancreatitis.
-- 2. Start with a bolus infusion of 10 mL/kg in patients with hypovolemia, and follow with a continuous infusion of 1.5 mL/kg per hour ([13\)](#page-8-12). Avoid the bolus infusion if there is no evidence of hypovolemia.
-- 3. *Caution:* More aggressive volume infusion (i.e., bolus of 20 mL/kg, and a rate of 3 mL/kg/hr) promotes fluid overload, and does not improve outcomes [\(13](#page-8-12)).
-- 4. The goal of fluid management is to maintain a mean arterial pressure ≥65 mm Hg, and a urine output ≥0.5 mL/kg per hour.
+The Revised Atlanta Classification stratifies acute pancreatitis into three severity grades based on systemic complications and duration of organ failure (see Table 40.2).
 
-#### *Vasopressors*
+Approximately 50% of patients exhibit *mild disease*, characterized by self-limited symptoms without organ failure or local complications. The remaining 50% of admissions are evenly divided between *moderately severe disease* (transient organ failure resolving in $< 48\text{ hours}$, or sterile local complications) and *severe disease* (persistent single or multiple organ failure persisting beyond 48 hours) (10).
 
-As always, vasopressors are advised if fluid therapy does not achieve the desired blood pressure. There are no official recommendations regarding vasopressor therapy in severe pancreatitis, but norepinephrine is an appropriate choice. All vasoconstrictor drugs can reduce splanchnic blood flow (especially phenylephrine), which could promote pancreatic necrosis, so careful titration of infusion rates (and avoidance of phenylephrine) is advised.
+Clinical mortality is heavily concentrated in patients with severe disease, ranging between 20% and 25% (1,2). *Serum lipase concentrations and initial CT severity scores show poor correlation with the development of multiorgan failure and death*.
 
-# **Nutrition**
+#### Extrapancreatic Organ Dysfunction
 
-Nutrition should be started early (within 48 hours after the onset of illness) using an oral diet (if tolerated) or enteral tube feedings [\(1](#page-8-0)[,14](#page-8-13)). Parenteral nutrition is reserved for cases where enteral feeding is not tolerated (e.g., from an ileus).
+Systemic multiorgan dysfunction in severe pancreatitis is driven by the systemic inflammatory response and can develop across three vital physiological organ systems:
 
-#### *Enteral Nutrition*
+- 1. *Respiratory System:* Acute respiratory distress syndrome (ARDS) secondary to circulating phospholipase A2 and free fatty acids disrupting alveolar surfactant.
+- 2. *Renal System:* Acute kidney injury (AKI) from profound hypovolemia, microvascular thrombosis, and abdominal compartment syndrome.
+- 3. *Cardiovascular System:* Circulatory shock characterized by marked peripheral vasodilation, capillary leakage, and myocardial depression.
 
-The preference for enteral nutrition is based on the ability of oral feeding to exert a trophic effect on the bowel mucosa. This helps to maintain the integrity of the bowel mucosa and reduce the risk of bacterial translocation across the bowel wall, which is considered the major source of pancreatic infections [\(15](#page-8-14)). Clinical studies have shown that *enteral nutrition is associated with fewer infections, less multiorgan failure, and a lower mortality rate than total parenteral nutrition* in patients with severe pancreatitis ([16\)](#page-8-15).
+</div></details>
+</div></details>
 
-When enteral tube feedings are used, it is unclear if gastric or jejunal feeding is optimal ([17\)](#page-8-16). Based on evidence that nasogastric feeding produces no apparent harm in severe pancreatitis ([18\)](#page-8-17), it is reasonable to start with nasogastric feeding. Elemental feeding formulas (which are
+<details class="med-details" open><summary>
 
-low in fat) should be preferred.
+## Management in the ICU</summary><div class="details-content">
 
-# **Abdominal Complications**
+Admission to the intensive care unit is indicated primarily for patients exhibiting moderately severe or severe acute pancreatitis. Because no pharmacological antagonist directly halts pancreatic autodigestion, treatment relies on supportive critical care: goal-directed fluid resuscitation, early enteral nutrition, and monitoring for abdominal complications.
 
-Local complications of pancreatitis include infection, pseudocyst formation, and abdominal compartment syndrome.
+<details class="med-details" open><summary>
 
-#### *Pancreatic Infection*
+### Fluid Resuscitation Protocols</summary><div class="details-content">
 
-About one-third of patients with necrotizing pancreatitis develop an infection in the necrotic areas of the pancreas, which typically appears 7–10 days after the onset of illness [\(19](#page-8-18)). Infection may be heralded by persistent or recurrent fever and leukocytosis, but these findings are also common in necrotic pancreatitis without infection. A contrast-enhanced CT image can reveal probable infection by the presence of gas bubbles, as shown in [Figure](#page-6-0) 40.3.
+Severe pancreatitis is characterized by massive third-space fluid sequestration. Activated enzymes and systemic inflammatory mediators disrupt endothelial tight junctions, precipitating widespread capillary leakage into the retroperitoneum, peritoneal cavity, and bowel wall. The resulting hypovolemia induces splanchnic vasoconstriction, which starves the pancreas of arterial perfusion and transforms viable tissue into irreversible necrosis.
 
-If infection is suspected, antibiotic therapy should be started, with coverage for gramnegative enteric pathogens. (*Note:* Prophylactic antibiotics do not reduce the incidence of pancreatic infections, and are not recommended [\(20](#page-8-19)).) However, these infections are difficult to treat with antibiotics, and CT-guided drainage may be necessary. There is some debate about the timing of drainage, but there is evidence that early drainage produces better results than delayed drainage [\(21](#page-8-20)). If noninvasive drainage is not successful, then surgical debridement (necrosectomy) may be necessary.
+Consequently, rapid intravenous volume resuscitation is indicated during the initial resuscitation phase. The following protocol is recommended:
 
-<span id="page-6-0"></span>![](_page_6_Picture_6.jpeg)
+- 1. *Fluid Selection:* Ringer's lactate (RL) is the preferred resuscitation crystalloid, supported by randomized trials demonstrating a lower incidence of SIRS and reduced inflammatory markers compared to $0.9\%$ normal saline (11,12). Because normal saline induces hyperchloremic metabolic acidosis, it can worsen tissue hypoperfusion. However, because RL contains calcium, it is contraindicated in rare cases of hypercalcemia-induced pancreatitis.
+- 2. *Controlled Infusion Rate:* In patients exhibiting clinical signs of hypovolemia (tachycardia, hemoconcentration, oliguria), administer an initial crystalloid bolus of $10\text{ mL/kg}$ over 2 hours, followed by a maintenance infusion of $1.5\text{ mL/kg/hr}$ (13). Omit the initial bolus if clinical hypovolemia is absent.
+- 3. *The Hazard of Hypervolemia:* Overly aggressive hydration (e.g., boluses of $20\text{ mL/kg}$ and rates of $3\text{ mL/kg/hr}$) does not improve outcomes; rather, it significantly increases the incidence of pulmonary edema, abdominal compartment syndrome, mechanical ventilation, and mortality (13).
+- 4. *Hemodynamic Endpoints:* Fluid titration must be guided by objective endpoints: maintaining a mean arterial pressure (MAP) $\ge 65\text{ mm Hg}$, a urine output $\ge 0.5\text{ mL/kg/hr}$, and resolution of hemoconcentration (hematocrit $< 35\%$).
+
+#### Vasoactive Support
+
+When fluid administration fails to restore a MAP $\ge 65\text{ mm Hg}$, vasoactive support must be instituted promptly. Norepinephrine is the first-line vasopressor of choice.
+
+Pure alpha-1 adrenergic agonists such as phenylephrine must be strictly avoided; powerful splanchnic vasoconstriction can compromise pancreatic microcirculatory flow and accelerate parenchymal necrosis.
+
+</div></details>
+
+<details class="med-details" open><summary>
+
+### Nutritional Support</summary><div class="details-content">
+
+Nutritional support must be initiated early—within 24 to 48 hours of ICU admission—rather than maintaining prolonged periods of therapeutic starvation (1,14). Historically, patients were kept "nil per os" (NPO) for weeks under the mistaken belief that gut rest would prevent pancreatic enzyme secretion.
+
+Clinical trials have conclusively shown that prolonged bowel rest results in rapid atrophy of intestinal mucosal villi, breakdown of epithelial tight junctions, and unchecked bacterial translocation from the gut lumen into the retroperitoneum (15).
+
+Parenteral nutrition (TPN) is strictly reserved as second-line rescue therapy for patients who cannot tolerate enteral feeding due to prolonged mechanical obstruction, severe paralytic ileus, or complex fistulae.
+
+#### Enteral Feeding Advantages
+
+Enteral nutrition maintains the mucosal barrier by providing luminal nutrients that exert direct trophic effects on intestinal epithelial cells. This suppresses the systemic inflammatory response and reduces bacterial seeding of necrotic pancreatic beds (15).
+
+Meta-analyses demonstrate that *enteral nutrition is associated with a 50% reduction in infectious complications, significant decreases in multiorgan failure, and a reduced mortality rate compared to total parenteral nutrition* in severe pancreatitis (16).
+
+When tube feeding is required, continuous nasogastric (NG) infusion of an elemental, low-fat formula is as safe and clinically effective as nasojejunal (NJ) feeding (17,18). Nasogastric feeding is simpler to initiate at the bedside, whereas post-pyloric jejunal feeding is reserved for patients with severe gastroparesis or gastric outlet obstruction.
+
+</div></details>
+
+<details class="med-details" open><summary>
+
+### Abdominal Complications</summary><div class="details-content">
+
+Local complications of severe acute pancreatitis encompass peripancreatic fluid collections, acute pseudocysts, walled-off necrosis (WON), infected necrosis, and abdominal compartment syndrome.
+
+#### Infected Pancreatic Necrosis
+
+Secondary bacterial infection of devitalized tissue develops in approximately one-third of patients with necrotizing pancreatitis (19). Infection rarely occurs during the first week; it typically emerges during the second to third week of hospitalization (7 to 10 days post-onset).
+
+Infection should be suspected upon the development of new-onset or persistent fever, leukocytosis, or unexplained clinical deterioration in a patient with necrotizing disease. Contrast-enhanced CT reveals infected necrosis by the presence of extraluminal retroperitoneal gas bubbles trapped within necrotic tissue (Figure 40.3).
+
+<span id="fig-40-3"></span>
+![FIGURE 40.3](images/_page_6_Picture_6.jpeg)
 
 **FIGURE 40.3** Contrast-enhanced CT image showing extensive necrosis of the pancreas with numerous gas bubbles, indicating infection.
 
-#### *Abdominal Compartment Syndrome*
+##### Antimicrobial Stewardship and the Step-Up Approach
 
-There are several sources of increased intra-abdominal pressure in severe pancreatitis, including peripancreatic fluid collections, ascites, and edema of the bowel wall (from aggressive volume infusion). An increase in intra-abdominal pressure (>12 cm H2O) has been reported in 55% of patients with severe pancreatitis ([22\)](#page-8-21), and pressures that exceed 20 cm H2O can cause oliguria (as described in Chapter 34). Therefore, an abdominal pressure measurement is recommended for any patient with severe pancreatitis complicated by oliguria.
+Prophylactic antibiotics do not reduce the incidence of infected necrosis or mortality and are *not recommended* (20). When infection is confirmed or strongly suspected, therapeutic broad-spectrum antibiotics penetrating pancreatic necrosis must be started (carbapenems such as meropenem $1\text{ g}$ every 8 hours, or fluoroquinolones plus metronidazole).
 
-### **Specific Therapies**
+Infected necrotizing pancreatitis was historically treated by immediate open surgical necrosectomy, carrying a surgical mortality exceeding 40%. Contemporary management mandates a minimally invasive "step-up" approach (21).
 
-The following management is specific to the cause of the pancreatitis.
+Initial intervention consists of image-guided percutaneous catheter drainage or endoscopic transluminal drainage. Minimally invasive drainage alone successfully resolves infected necrosis in roughly 35% of patients without requiring surgery; if clinical recovery stalls, video-assisted retroperitoneal debridement (VARD) or necrosectomy is performed.
 
-### *Hypertriglyceridemia*
+#### Intra-Abdominal Hypertension and Compartment Syndrome
 
-The pancreatitis associated with hypertriglyceridemia can be treated with insulin, which acts on lipoprotein lipase to reduce serum triglyceride levels ([4\)](#page-8-3). An intravenous infusion of insulin (0.1–0.4 Units/kg/hr) can reduce triglyceride levels by 85–90% in 24 hours if combined with fasting ([23\)](#page-8-22). The goal of treatment in acute pancreatitis is a serum triglyceride below 500 mg/dL ([4\)](#page-8-3). A 5–10% dextrose infusion is advised during the insulin infusion, along with careful monitoring of serum glucose levels. Once the pancreatitis has been successfully managed, continued treatment with lipid-lowering drugs like gemfibrozil or fenofibric acid may be needed to keep triglyceride levels below 500 mg/dL ([4\)](#page-8-3).
+Severe acute pancreatitis generates marked intra-abdominal hypertension (IAH) through massive retroperitoneal fluid collections, ascites, paralytic ileus, and visceral edema driven by aggressive fluid administration.
 
-#### *Gallstone Pancreatitis*
+Intra-abdominal hypertension (IAP $> 12\text{ cm H}_2\text{O}$ or $> 9\text{ mm Hg}$) occurs in up to 55% of patients with severe pancreatitis (22). When intra-abdominal pressure exceeds $20\text{ cm H}_2\text{O}$ ($> 15\text{ mm Hg}$) with new organ dysfunction (e.g., oliguria or ventilatory failure), abdominal compartment syndrome (ACS) is diagnosed (see Chapter 34).
 
-When acute pancreatitis is associated with gallstones, endoscopic retrograde cholangiopancreatography (ERCP) with sphincterotomy is indicated if there is evidence of biliary obstruction (e.g., by ultrasound). Cholecystectomy can be performed during the initial hospitalization for mild pancreatitis, but it is delayed (4–6 weeks) after an episode of severe pancreatitis.
+Routine transvesical IAP monitoring via a Foley catheter is advised for all ICU patients with severe pancreatitis. Management involves gastric decompression, prokinetics, judicious fluid restriction, paracentesis of ascites, and surgical decompression in refractory cases.
 
-# **A FINAL WORD**
+</div></details>
 
-# **Alcohol & Pancreatitis (?)**
+<details class="med-details" open><summary>
 
-Although alcohol is widely regarded as a major source of pancreatitis, the strong link between alcohol and pancreatitis was made at a time when the diagnosis of pancreatitis was based solely on elevation of the serum amylase. The problem is that amylase is also secreted by the parotid glands, and alcohol stimulates the release of salivary amylase. In fact, *hyperamylasemia of salivary origin is reported in 40% of cases of acute alcohol intoxication* ([6\)](#page-8-5). It is thus possible that elevations of salivary amylase created the strong association of alcohol abuse and pancreatitis.
+### Etiology-Specific Interventions</summary><div class="details-content">
 
-There are about 30 million alcoholics in the United States ([24\)](#page-8-23), and the number of hospital admissions for pancreatitis is 275,000 per year ([25\)](#page-8-24), or about 69,000 per year if you assume that 25% of cases of acute pancreatitis are caused by alcohol. This means that less than 1% (0.2%) of alcoholics develop acute pancreatitis each year, which is not a very strong association.
+Specific therapeutic strategies are dictated by the underlying etiology of the pancreatic inflammation.
 
-Why is this important? Because, whenever a patient with acute pancreatitis has a history of alcohol abuse, no efforts are made to find another cause of the illness. It seems wise not to continue this behavior.
+#### Management of Severe Hypertriglyceridemia
 
-## *References*
+In hypertriglyceridemia-induced pancreatitis, rapid reduction of serum triglycerides below $500\text{ mg/dL}$ ($< 5.65\text{ mmol/L}$) halts cytotoxic free fatty acid production (4). This is achieved by combining total fasting with a continuous intravenous infusion of regular insulin ($0.1\text{–}0.4\text{ U/kg/hr}$) (23).
 
-- <span id="page-8-0"></span>1. Mederos MA, Reber HA, Girgis MD. Acute pancreatitis. A review. JAMA 2021; 325:382–390.
-- <span id="page-8-1"></span>2. Wolbrink DRJ, van de Poll MCG, Termorshuizen F, et al. Trends in early and late mortality in patients with severe acute pancreatitis admitted to ICUs: a nationwide cohort study. Crit Care Med 2022; 50:1513–1521.
+Insulin activates endothelial lipoprotein lipase, accelerating the peripheral hydrolysis of chylomicrons and clearing triglycerides from plasma by 85% to 90% within 24 hours. A concurrent infusion of $5\%\text{–}10\%$ dextrose is co-administered to maintain euglycemia ($140\text{–}180\text{ mg/dL}$). Once the acute episode resolves, long-term oral therapy with fibrates (fenofibrate or gemfibrozil) is maintained (4).
 
-#### *Pathogenesis and Presentation*
+#### Management of Gallstone Pancreatitis
 
-- <span id="page-8-2"></span>3. Forsmark CE, Baille J. AGA Institute technical review on acute pancreatitis. Gastroenterology 2007; 132:2022–2044.
-- <span id="page-8-3"></span>4. Rawla P, Sunkara T, Thandra KC, Gaduputi V. Hypertriglyceridemia-induced pancreatitis: updated review of treatment and preventive strategies. Clin J Gastroenterol 2018; 11:441–448.
-- <span id="page-8-4"></span>5. Yiteng M, Oeiyu H, Xiaoyu M, et al. Research progress on the mechanism of acute hyper- triglyceridemic pancreatitis. Pancreas 2024, May 1 (epub ahead of print).
-- <span id="page-8-5"></span>6. Chadalavada P, Simons-Linares CR, Chahal P. Drug-induced acute pancreatitis: prevalence, causative agents, and outcomes. Pancreatology 2020; 20:1281–1286.
-- <span id="page-8-6"></span>7. Parenti DM, Steinberg W, Kang P. Infectious causes of acute pancreatitis. Pancreas 1996; 13:356–371.
-- <span id="page-8-7"></span>8. Banks PA, Bollen TL, Dervenis C, et al. Classification of acute pancreatitis – 2012: revision of the Atlanta classification and definitions by international consensus. Gut 2012; 62:102–111.
-- <span id="page-8-8"></span>9. Yadav D, Agarwal N, Pitchumoni CS. A critical evaluation of laboratory tests in acute pancreatitis. Am J Gastroenterol 2002; 97:1309–1318.
-- <span id="page-8-9"></span>10. Koutroumpakis E, Slivka A, Furlan A, et al. Management and outcomes of acute pancreatitis over the last decade: a US tertiary-center experience. Pancreatology 2017; 17:32–40.
+In gallstone-induced pancreatitis complicated by acute cholangitis or persistent biliary ductal obstruction, emergency endoscopic retrograde cholangiopancreatography (ERCP) with biliary sphincterotomy should be performed within 24 to 72 hours of admission.
 
-#### <span id="page-8-10"></span>*Management*
+In mild gallstone pancreatitis, definitive cholecystectomy should be performed during the index hospital admission to eliminate the 30% risk of recurrent pancreatitis within 30 days. In severe necrotizing pancreatitis, cholecystectomy is deferred for 4 to 6 weeks until fluid collections and inflammatory retroperitoneal necrosis have organized or resolved.
 
-- 11. Aziz M, Ahmed Z, Weissman S, et al. Lactated Ringer's vs normal saline for acute pancreatitis: an updated systematic review and meta-analysis. Pancreatology 2021; 21:1217–1223.
-- <span id="page-8-11"></span>12. Lee A, Ko C, Buitrago C, et al. Lactated ringers vs normal saline resuscitation for mild acute pancreatitis: a randomized trial. Gastroenterology 2021; 160:955–957.
-- <span id="page-8-12"></span>13. de-Madaria E, Buxbaum JL, Maisonneuve P, et al. Aggressive or moderate fluid resuscitation in acute pancreatitis. N Engl J Med 2022; 387:989–1000.
-- <span id="page-8-13"></span>14. van den Berg FF, Boermeester MA. Update on the management of acute pancreatitis. Curr Opin Crit Care 2023; 29:145–151.
-- <span id="page-8-14"></span>15. Wu LM, Sankaran SJ, Plank LD, et al. Meta-analysis of gut barrier dysfunction in patients with acute pancreatitis. Br J Surg 2014; 101:1644–1656.
-- <span id="page-8-15"></span>16. Al-Omran M, AlBalawi ZH, Tashkandi MF, Al-Ansary LA. Enteral versus parenteral nutrition for acute pancreatitis. Cochrane Database Syst Rev 2010; 1:CD002837.
-- <span id="page-8-16"></span>17. Dutta AK, Goel A, Kirubakaran R, et al. Nasogastric versus nasojejunal feeding for severe acute pancreatitis. Cochrane Database Syst Rev 2020; 3:CD010582.
-- <span id="page-8-17"></span>18. Eatock FC, Chong P, Menezes N, et al. A randomized study of early nasogastric versus nasojejunal feeding in severe acute pancreatitis. Am J Gastroenterol 2005; 100:432–439.
-- <span id="page-8-18"></span>19. Banks PA, Freeman ML. Practice Parameters Committee of the American College of Gastroenterology. Practice guidelines in acute pancreatitis. Am J Gastroenterol 2006; 101:2379–2400.
-- <span id="page-8-19"></span>20. Crockett SD, Wani S, Gardner TB, et al. American Gastroenterological Association Institute guideline on initial management of acute pancreatitis. Gastroenterology 2018; 154:1096–1101.
-- <span id="page-8-20"></span>21. Boxhoorn L, van Dijk SM, van Grinsven J, et al. Immediate versus postponed intervention for infected necrotizing pancreatitis. N Engl J Med 2021; 385:1372–1381.
-- <span id="page-8-21"></span>22. Al-Bahrani AZ, Abid GH, Holt A, et al. Clinical relevance of intra-abdominal hypertension in patients with severe acute pancreatitis. Pancreas 2008; 36:39–43.
-- <span id="page-8-22"></span>23. Thuzar M, Shenoy VV, Malabu UH, et al. Extreme hypertriglyceridemia managed with insulin. J Clin Lipidol 2014; 8:630– 634.
+</div></details>
+</div></details>
 
-#### <span id="page-8-23"></span>*A Final Word*
+<details class="med-details" open><summary>
 
-- 24. National Institute on Alcohol Abuse and Alcoholism. Alcohol use disorder (AUD) in the United States: Age groups and demographic characteristics. Available at [niaa.nih.gov](http://niaa.nih.gov) (Accessed 5/6/2024).
-- <span id="page-8-24"></span>25. Chaudhary F, Albeiruti R, Alqahtani F, et al. Temporal trends and predictors of pancreatitis patients who leave against medical advice: A nationwide analysis. Gastroenterology Res 2020; 13:58–65.
+## A Final Word: Alcohol and Pancreatitis</summary><div class="details-content">
+
+<details class="med-details" open><summary>
+
+### Re-evaluating the Alcohol Association</summary><div class="details-content">
+
+Although alcohol abuse is universally accepted as a prominent etiology of acute pancreatitis, the historical strength of this association arose during an era when the clinical diagnosis depended exclusively on total serum amylase.
+
+The physiological pitfall of total amylase testing is that amylase is synthesized in substantial quantities by the parotid glands, and acute alcohol ingestion directly stimulates salivary amylase secretion. In clinical studies, *salivary hyperamylasemia occurs in 40% of patients with acute alcohol intoxication without any evidence of pancreatic inflammation* (6). It is plausible that salivary enzyme release created a spurious diagnostic link between alcohol and pancreatitis.
+
+#### Epidemiological Reality and Diagnostic Vigilance
+
+Epidemiological surveys reveal that approximately 30 million individuals in the United States suffer from alcohol use disorder (24). Across the nation, total annual hospital admissions for acute pancreatitis number approximately 275,000 (25). Even assuming that 25% of all pancreatitis cases are caused by alcohol (representing approximately 69,000 admissions), fewer than 1% (0.2%) of heavy alcohol consumers develop acute pancreatitis in any given year.
+
+This epidemiological reality holds critical clinical significance: when an ICU patient presenting with acute pancreatitis has an active history of alcohol intake, clinicians frequently assign an alcoholic etiology and terminate further investigative workup.
+
+Premature closure of the diagnostic evaluation can result in missed gallstones, overlooked hypertriglyceridemia, unrecognized medications, or occult ductal neoplasms. A history of alcohol abuse must never truncate a comprehensive etiological search.
+
+</div></details>
+</div></details>

@@ -1,367 +1,371 @@
-# Chapter 35
+# Sodium
 
-# **Sodium**
+> *People say life can't exist without air, but it does under water; in fact, it started in the sea.*  
+> — Richard Feynman
 
-*People say life can't exist without air, but it does under water; in fact, it started in the sea.*
+<details class="med-details" open><summary>
 
-Richard Feynman (*[a](#page-14-0)*)
+## Executive Summary</summary><div class="details-content">
 
-Life originated in a 3.5% salt water solution (i.e., the salinity of the ocean), and humans have retained some of that heritage, since our cells are bathed in a 0.6% salt water solution. The salinity (sodium concentration) of this extracellular bath is highly regulated, because it plays an important role in determining the volume of the intracellular and extracellular fluid compartments.
+### Clinical Insights into Sodium and Water Disorders
 
-This chapter begins by describing the forces that determine the distribution of total body water, and the importance of sodium in determining these forces, and then presents an organized approach to the "dysnatremias" ([1,](#page-14-1)[2\)](#page-14-2); i.e., hypernatremia and hyponatremia.
+- **Disorders of Water, Not Sodium:** Hypernatremia and hyponatremia represent primary derangements of water balance and plasma tonicity, rather than fluctuations in total body sodium content.
+- **Determinant of Effective Tonicity:** Sodium and its accompanying anions account for 98% of effective extracellular osmolality. Urea diffuses freely across cell membranes and acts as an ineffective osmole; severe azotemia produces hyperosmolality without hypertonicity.
+- **Hypernatremia ($\text{Na}^+ > 145\text{ mEq/L}$):** Develops in up to 25% of ICU patients, overwhelmingly acquired iatrogenically during hospitalization.
+  - *Hypovolemic:* Loss of hypotonic fluids (gastric drainage, diarrhea, loop/thiazide diuresis).
+  - *Normovolemic:* Pure free water deficit (diabetes insipidus, inadequate enteral water flushes).
+  - *Hypervolemic:* Exogenous hypertonic sodium gain (sodium bicarbonate boluses, hypertonic saline).
+- **Cerebral Adaptation to Hypertonicity:** Shrunken brain cells generate protective intracellular idiogenic osmolytes within 48 hours. To prevent fatal rebound cerebral edema, the rate of hypernatremia correction must not exceed $\le 0.5\text{ mEq/L/hr}$ ($\le 10\text{–}12\text{ mEq/L}$ in 24 hours).
+- **Pseudohyponatremia:** Spurious artifact caused by expansion of the plasma solid phase during marked hyperproteinemia ($> 12\text{ g/dL}$) or hypertriglyceridemia ($> 1,500\text{ mg/dL}$). Measured sodium by indirect ion-selective electrodes is falsely low, but true aqueous sodium and measured freezing-point osmometer readings remain normal.
+- **Hyperglycemic Pseudodilution:** Transcellular osmotic water shifts reduce measured serum sodium by $2.4\text{ mEq/L}$ for every $100\text{ mg/dL}$ rise in blood glucose above normal: $\text{Corrected } \text{Na}^+ = \text{Measured } \text{Na}^+ + [2.4 \times (\text{Glucose} - 100) / 100]$.
+- **Hyponatremic Encephalopathy:** Symptomatic acute hyponatremia manifests as cerebral edema. Clinical neurological symptoms (headache, vomiting, seizures, coma)—not the absolute serum sodium level—dictate emergent infusion of 3% hypertonic saline ($2\text{ mL/kg}$ or $150\text{ mL}$ boluses).
+- **Osmotic Demyelination Syndrome (ODS):** Overly rapid correction of chronic hyponatremia ($> 8\text{–}10\text{ mEq/L}$ in 24 hours, or overshooting $> 130\text{ mEq/L}$) provokes fatal central pontine and extrapontine myelinolysis. Desmopressin ($2\ \mu\text{g}$ SC every 12 hours) halts spontaneous solute diuresis to avert overcorrection.
+</div></details>
 
-# **OSMOTIC ACTIVITY**
+<details class="med-details" open><summary>
 
-The movement of water between fluid compartments is determined by a property of fluids known as *osmotic activity*, which is a reflection of the *number of solute particles* per unit volume of solvent (3). Osmotic activity is a *colligative property*, and depends only on the number of solute particles in a fluid, and not on the electrical charge, size, or chemical behavior of the solutes. The total osmotic activity of a solution is the summed osmotic activity of all the solute particles in the solution.
+## Biophysics of Osmotic Activity and Plasma Tonicity</summary><div class="details-content">
 
-# **Relative Osmotic Activity**
+<details class="med-details" open><summary>
 
-When two fluid compartments are separated by a membrane that is permeable to solutes and water, the solutes in each fluid compartment will equilibrate across the membrane, and the osmotic activity will be equivalent in both fluid compartments. Since water movement follows solute movement, the volume in both fluid compartments will be equivalent. This is illustrated in the [Figure](#page-1-0) 35.1 (see the panel on the left).
+### Colligative Properties and Fluid Distribution</summary><div class="details-content">
 
-# *Effective Osmotic Activity*
+The distribution of total body water between intracellular and extracellular compartments is governed by osmotic activity. Osmotic activity is a colligative property determined strictly by the number of solute particles per unit volume of solvent, independent of particle mass, valence, or chemical configuration.
 
-When two fluid compartments are separated by a membrane that is not freely permeable to solutes, the solutes will not distribute evenly in the fluid compartments, and the osmotic activity will be different in each compartment. In this situation, water moves from the fluid with the lower osmotic activity (which has a higher water content) to the fluid with the higher osmotic activity (which has a lower water content), as demonstrated in the panel on the right in Figure 35.1. The difference in osmotic activity between the fluid [compartments](#page-1-0) is called the *effective osmotic activity*, and it is the force that drives the movement of water between the fluid compartments. This force is also called the *osmotic pressure*.
+When two compartments are separated by a semipermeable membrane that restricts solute passage, water shifts down its chemical gradient from the compartment of lower osmotic activity to that of higher osmotic activity until equilibrium is established.
 
-The relative osmotic activity between two fluid compartments is expressed as *tonicity*; i.e., if the osmotic activity in the two compartments is equal, the fluids are described as *isotonic* (see the left-side panel in [Figure](#page-1-0) 35.1), and if the osmotic activity differs, the fluid with the higher osmotic activity is described as *hypertonic*, and the fluid with the lower osmotic activity is described as *hypotonic* (see the right-side panel in [Figure](#page-1-0) 35.1).
-
-<span id="page-1-0"></span>![](_page_1_Figure_2.jpeg)
+<span id="fig-35-1"></span>
+![FIGURE 35.1](images/_page_1_Figure_2.jpeg)
 
 **FIGURE 35.1** Illustration of the relationship between osmotic activity and water movement between fluid compartments. See text for explanation.
+</div></details>
 
-# *Summary*
+<details class="med-details" open><summary>
 
-The following statements summarize the relationship between osmotic activity and the transcellular shift of water.
+### Osmolarity, Osmolality, and Tonicity</summary><div class="details-content">
 
-- 1. A change in the effective osmotic activity or *tonicity* of extracellular fluid produces a transcellular water shift.
-  - a. When the extracellular fluid is hypertonic, water moves out of cells.
-  - b. When the extracellular fluid is hypotonic, water moves into cells.
+Osmotic activity is expressed across two related physical scales:
 
-# **Units of Osmotic Activity**
+- **Osmolarity:** Number of milliosmoles of solute per liter of total solution ($\text{mosm/L}$).
+- **Osmolality:** Number of milliosmoles of solute per kilogram of solvent water ($\text{mosm/kg H}_2\text{O}$).
 
-The unit of measurement for osmotic activity is the osmole (osm), which is defined as one gram molecular weight (one mole) of a nondissociable substance, and is equivalent to 6 × 1023 particles (Avogadro's Number). Osmotic activity can be expressed in relation to the volume of water in a solution, or in relation to the volume of the solution (4,5).
+Because plasma is 95% water under normal physiological conditions, plasma osmolarity and osmolality are virtually interchangeable. The physiological reference range for plasma osmolality is $285\text{–}295\text{ mosm/kg H}_2\text{O}$, determined clinically by freezing point depression osmometry.
 
-- 1. Osmotic activity per volume of solution is called *osmolarity*, and is expressed as milliosmoles per liter (mosm/L).
-- 2. Osmotic activity per volume of water is called *osmolality*, and is expressed as milliosmoles per kilogram of H2O (mosm/kg H2O, or mosm/kg).
+#### Mathematical Conversion of Solute Units
 
-Plasma is mostly (95%) water, so the osmotic activity in plasma is typically expressed as osmolality (mosm/kg H2O). However, there is little difference between the osmolality and osmolarity of extracellular fluid, and the two terms are often used interchangeably (5).
+For univalent and multivalent electrolytes expressed in mEq/L:
 
-#### *Conversion Factors*
+$$\frac{\text{mEq/L}}{\text{valence}} \times n = \text{mosm/kg H}_2\text{O} \tag{35.1}$$
 
-The following formulas (where n is the number of nondissociable particles) can be used to convert plasma solute concentrations to units of osmolality:
+#### Conversion for Non-Ionic Crystalloids
 
-1. For solute concentrations expressed in mEq/L:
+For non-ionic crystalloids (e.g., glucose, urea) expressed in mg/dL:
 
-$$\frac{\text{mEq/L}}{\text{valence}} \times n = \text{mosm/kg H}_2\text{O}$$
- (35.1)
+$$\frac{\text{mg/dL} \times 10}{\text{molecular weight}} \times n = \text{mosm/kg H}_2\text{O} \tag{35.2}$$
 
-Thus, for univalent ions like sodium, the plasma concentration in mEq/L is equivalent to the osmotic activity in mosm/kg H2O.
+where $n$ represents the number of particles yielded upon dissociation in aqueous solution.
+</div></details>
 
-1. For solute concentrations expressed in mg/dL:
+<details class="med-details" open><summary>
 
-$$\frac{\text{mg/dL} \times 10}{\text{mol wt}} \times n = \text{mosm/kg H}_2\text{O}$$
- (35.2)
+### Total vs. Effective Plasma Osmolality</summary><div class="details-content">
 
-where mol wt is molecular weight, and the factor 10 is used to convert deciliters (dL) to liters. For example, glucose has a molecular weight of 180, so a plasma glucose concentration of 90 mg/dL is equivalent to (90 × 10/180) × 1 = 5 mosm/kg H2O.
+Total plasma osmolality is calculated from the principal circulating osmoles:
 
-# **Plasma Osmolality**
+$$P_{\text{osm}} = 2 \times [\text{Na}^+] + \frac{\text{Glucose}}{18} + \frac{\text{BUN}}{2.8} \tag{35.3}$$
 
-The plasma osmolality can be measured or calculated.
+where $[\text{Na}^+]$ is in mEq/L, and glucose and blood urea nitrogen (BUN) are in mg/dL. The factor 2 accounts for balancing anions (predominantly chloride and bicarbonate).
 
-### *Measured Plasma Osmolality*
+#### Concept of Effective Tonicity
 
-The standard method for measuring plasma osmolality is the *freezing point depression* method. Solute-free water freezes at 0º C, and this temperature decreases by 1.86° C for each osmole of solute that is added to one kilogram of water. Therefore, the extent of depression of the freezing point of an aqueous solution can be used to determine the osmotic activity of the solution. This method is considered the "gold-standard" for measuring plasma osmolality, and is available in most clinical laboratories. The normal plasma osmolality is 285–295 mosm/kg H2O.
+Urea is an uncharged molecule that rapidly crosses biological membranes via dedicated facilitative urea transporters. Because urea equilibrates freely across cell membranes, it generates no sustained transcellular hydrostatic gradient. Azotemia causes hyperosmolality, but never hypertonicity.
 
-#### *Calculated Plasma Osmolality*
+#### Effective Osmolality Equation
 
-Plasma osmolality can also be calculated using the concentrations of the principal solutes in plasma; i.e., sodium, chloride, glucose, and urea (3); i.e.,
+Effective plasma osmolality (tonicity), which dictates biological water shifts, omits urea:
 
-$$Posm = 2 \times Na + \frac{glucose}{18} + \frac{BUN}{2.8}$$
- (35.3)
+$$\text{Effective } P_{\text{osm}} = 2 \times [\text{Na}^+] + \frac{\text{Glucose}}{18} \tag{35.4}$$
 
-where Posm is the plasma osmolality in mosm/kg H2O, Na is the plasma sodium concentration in mEq/L, glucose and BUN are the plasma glucose and urea concentrations in mg/dL, and the factors 18 and 2.8 are the molecular weights of glucose and urea divided by 10, respectively (which converts their concentrations to mosm/kg H2O). The sodium concentration is doubled to account for the negative ions (mostly chloride) that electrically balance sodium.
+Sodium and its associated anions account for 98% of total effective extracellular tonicity, establishing serum sodium as the master regulator of intracellular hydration.
+</div></details>
+</div></details>
 
-**EXAMPLE:** Using normal plasma concentrations of Na (140 mEq/L), glucose (90 mg/dL), and BUN (14 mg/dL), the plasma osmolality is: (2 × 140) + 90/18 + 14/2.8 = 290 mosm/kg H2O. This is within the range of the measured plasma osmolality (285–295 mosm/kg H2O).
+<details class="med-details" open><summary>
 
-**EFFECTIVE PLASMA OSMOLALITY:** Urea readily crosses cell membranes, so an increase in blood urea nitrogen (BUN) will not increase the effective osmotic activity of plasma. In other words, *azotemia is a hyperosmotic, but not a hypertonic, condition*. Therefore, the calculation of effective plasma osmolality does not include the BUN; i.e.,
+## Hypernatremia: Pathophysiology and Clinical Management</summary><div class="details-content">
 
-<span id="page-3-0"></span>Effective Posm = 
-$$(2 \times Na) + \frac{glucose}{18}$$
- (35.4)
+<details class="med-details" open><summary>
 
-**EXAMPLE:** Using normal plasma concentrations of Na (140 mEq/L) and glucose (90 mg/dL), the effective plasma osmolality is (2 × 140) + 90/18 = 285 mosm/kg H2O, which is very close to the total osmolality (290 mosm/kg H2O).
+### Classification Based on Volume Status</summary><div class="details-content">
 
-### *Spotlight on Sodium*
+Hypernatremia ($[\text{Na}^+] > 145\text{ mEq/L}$) represents a state of hypertonic hyperosmolality. In the ICU, hypernatremia is acquired iatrogenically during hospitalization in over 80% of cases, reflecting inadequate free water prescription. 
 
-If the glucose is removed from [Equation](#page-3-0) 35.4, the calculated Posm is 280 mosm/kg H2O, which is 98% of the calculated Posm that includes glucose (i.e., 285 mosm/kg H2O). This demonstrates the following:
+Etiological evaluation is categorized according to extracellular volume (ECV) status, summarized in Figure 35.2.
 
-- 1. Sodium is responsible for 98% of the effective plasma osmolality.
-- 2. The sodium concentration in extracellular fluid (plasma) is the principal factor that determines the distribution of total body water in the intracellular and extracellular fluid compartments, and hence it is also the principal determinant of the extracellular volume.
+<span id="fig-35-2"></span>
+![FIGURE 35.2](images/_page_5_Figure_4.jpeg)
 
-# **HYPERNATREMIA**
+**FIGURE 35.2** Flow diagram for hypernatremia based on the extracellular volume (ECV). See text for details.
+</div></details>
 
-Hypernatremia (i.e., plasma sodium >145 mEq/L) has been reported in as many as 25% of ICU patients, and *in most cases, it is acquired during the ICU stay* (6). The mechanisms and management of hypernatremia are outlined in [Figure](#page-5-0) 35.2. This approach is based on the extracellular volume (ECV), and this creates three categories of hypernatremia: hypovolemic, normovolemic, and hypervolemic.
+<details class="med-details" open><summary>
 
-# **Hypovolemic Hypernatremia**
+### Hypovolemic Hypernatremia</summary><div class="details-content">
 
-Hypernatremia associated with a low ECV is due to fluid loss that is hypotonic to plasma. The average sodium concentration in fluids that can be lost is shown in [Table](#page-4-0) 35.1 (7–9). Note the following:
+Hypovolemic hypernatremia occurs when hypotonic fluid losses are compounded by impaired water access or suppressed thirst mechanisms (e.g., altered mentation, sedation, mechanical ventilation).
 
-- 1. All the fluids are hypotonic to plasma (i.e., have a sodium concentration <135 mEq/L), so loss of these fluids will in hypernatremia.
-- 2. All the fluids contain sodium, so loss of these fluids will result in sodium depletion as well as water depletion.
+<details class="med-details" open><summary>
 
-Common sources of hypotonic fluid loss in ICU patients include vomiting, diarrhea, and urine loss from diuretics or glycosuria.
+#### <span id="tbl-35-1"></span>TABLE 35.1 Average Sodium Concentration in Select Body Fluids</summary><div class="details-content">
 
-#### *Consequences*
+| Physiological Fluid | Sodium ($\text{mEq/L}$) | Pathological Fluid Loss | Sodium ($\text{mEq/L}$) |
+| :--- | :---: | :--- | :---: |
+| **Normal Gastric Juice** | 60 | **Diuretic-Induced Urine** | 80 |
+| **Normal Stool** | 25 | **Ileostomy Drainage** | 125 |
+| **Normal Urine** | $< 10$ | **Inflammatory Diarrhea** | 75 |
+| **Sweat** | 65 | **Secretory Diarrhea** | 90 |
 
-Hypernatremia increases the osmolality of the extracellular fluid, which draws water out of cells and decreases cell volumes. This effect is most prominent in the brain. However, the shrunken brain cells begin to regain volume after about 9 hours, thanks to the intracellular accumulation of "idiogenic osmolytes", and the cells can return to their normal volumes after just 48 hours (10).
+</div></details>
 
-<span id="page-4-0"></span>
+Because all body secretions listed in Table 35.1 possess a sodium concentration substantially lower than plasma ($< 135\text{ mEq/L}$), unreplaced loss of these fluids depletes both water and sodium, producing hypernatremic dehydration.
 
-| TABLE<br>35.1      | Average<br>Sodium<br>Concentration<br>in<br>Select<br>Fluids |                       |            |
-|--------------------|--------------------------------------------------------------|-----------------------|------------|
-| Normal             | Na (mEq/L)                                                   | Other                 | Na (mEq/L) |
-| Gastric Secretions | 60                                                           | Diuretic Urine        | 80         |
-| Stool              | 25                                                           | Ileostomy Drainage    | 125        |
-| Urine              | <10                                                          | Inflammatory Diarrhea | 75         |
-| Sweat              | 65                                                           | Secretory Diarrhea    | 90         |
+#### Cellular Adaptation and Hypernatremic Encephalopathy
 
-From References 7–9.
+Acute hypertonicity draws water out of neurons, precipitating brain shrinkage, vascular shearing, and subarachnoid or intracerebral hemorrhage.
 
-**HYPERNATREMIC ENCEPHALOPATHY:** The most common complication of hypernatremia is an encephalopathy that varies widely in incidence and severity. It is more likely to appear when the rise in serum sodium is rapid, and can present with lethargy, cognitive impairment, delirium, seizures and even coma (6,11). Cell shrinkage and osmotic demyelination are recognized as the culprits (11).
+Within 48 hours, brain cells adapt to hypertonicity by synthesizing and uptaking intracellular "idiogenic osmolytes" (myoinositol, betaine, taurine, glutamate), restoring neuronal volume. Rapid administration of hypotonic fluids after this adaptation phase drives water into hyperosmolar neurons, precipitating catastrophic cerebral edema and herniation. Correction rates must not exceed $\le 0.5\text{ mEq/L/hr}$ ($\le 10\text{–}12\text{ mEq/L}$ per 24 hours).
+</div></details>
 
-**OTHERS:** Hypernatremia has surprisingly few adverse consequences other than the encephalopathy. There are occasional reports of rhabdomyolysis (12), which often appears along with the encephalopathy (11). Hypertonicity also has negative inotropic effects, but there is no evidence that this results in heart failure. Finally, hypotonic fluid loss does not decrease the blood pressure unless fluid losses are severe, because the loss of hypotonic fluids increases the osmotic pressure in plasma, which draws fluid from the interstitial space into the plasma to help maintain intravascular volume.
+<details class="med-details" open><summary>
 
-#### *Management*
+### Normovolemic Hypernatremia and Diabetes Insipidus</summary><div class="details-content">
 
-Isotonic saline is used to correct hypotension, but not to correct the hypernatremia (because it is
+Normovolemic hypernatremia reflects selective free water depletion without significant sodium deficit. It arises when hypotonic losses are replaced exclusively with isotonic saline, or secondary to diabetes insipidus (DI).
 
-ineffective) (13). The recommended fluid regimens to correct the hypernatremia include the infusion of 5% dextrose in water (D5W), or the addition of water to enteral tube feedings (e.g., 200 mL every 8 hours) (6,13). However, hypotonic fluid loss also results in the loss of sodium, so 0.45% (half-normal) saline seems more appropriate than D5W as a replacement fluid.
+#### Forms of Diabetes Insipidus
 
-**RATE OF CORRECTION:** Aggressive infusion of hypotonic fluids has always been discouraged because of the risk of cerebral edema, which is heightened by the accumulation of osmolytes in shrunken brain cells that helps regain the original cell volume. The optimal correction rate for hypernatremia is not known, but the traditional recommendation has been to limit the rate of correction to ≤0.5 mEq/L/hr [\(2](#page-14-2),14). However, correction rates exceeding 0.5 mEq/L/hr have been used safely, without causing cerebral edema (14).
+- **Central DI:** Deficient neurohypophyseal secretion of arginine vasopressin (ADH) following traumatic brain injury, pituitary surgery, or subarachnoid hemorrhage.
+- **Nephrogenic DI:** Renal tubular unresponsiveness to circulating ADH, provoked by lithium, amphotericin B, aminoglycosides, hypokalemia, or ATN recovery.
+- **Gestational DI:** Accelerated metabolic degradation of endogenous ADH by placental vasopressinase.
 
-# **Normovolemic Hypernatremia**
+#### Diagnosis and Therapeutic Regimens
 
-Hypernatremia in the setting of a normal ECV is usually the result of water loss without significant sodium loss. This condition is common in ICU patients with hypernatremia (15), and occurs when the replacement fluid is hypertonic to the fluid that is lost. (With this scenario, sodium losses are replaced, but a net water deficit remains.) Selective loss of free water is also characteristic of diabetes insipidus.
+The hallmark of DI is inappropriately dilute urine (urine osmolality $< 200\text{ mosm/kg}$) in the face of hypertonic plasma. Fluid restriction fails to concentrate urine, while administration of desmopressin increases urine osmolality by over 50% in central DI, but produces no response in nephrogenic DI.
 
-<span id="page-5-0"></span>![](_page_5_Figure_4.jpeg)
+Central DI is managed with desmopressin ($1\ \mu\text{g}$ SC or $2\ \mu\text{g}$ IV every 12 hours). Nephrogenic DI is managed by discontinuing offending agents and initiating indomethacin ($2\text{ mg/kg/day}$), which inhibits renal prostaglandins that antagonize ADH.
+</div></details>
 
-#### *Diabetes Insipidus*
+<details class="med-details" open><summary>
 
-Diabetes insipidus (DI), is a disorder of renal water conservation, and is characterized by loss of urine that is largely devoid of solute (16,17). The underlying problem in DI is loss of the effect produced by the antidiuretic hormone (ADH), a polypeptide released by the posterior pituitary gland that promotes water reabsorption in the distal renal tubules. Three types of DI are recognized:
+### Hypervolemic Hypernatremia</summary><div class="details-content">
 
-- 1. *Central DI* is characterized by failure of ADH release from the posterior pituitary (16). Common causes include surgical resection of a pituitary tumor, traumatic brain injury, subarachnoid hemorrhage, and autoimmune diseases (16).
-- 2. *Nephrogenic DI* is characterized by impaired renal responsiveness to ADH. Possible causes in critically ill patients include drugs (amphotericin, aminoglycosides, dopamine, lithium, etc.), hypokalemia, and the recovery phase of ATN (17).
-- 3. *Gestational DI* is the result of a vasopressinase enzyme that is produced by the placenta and inactivates arginine vasopressin (ADH) (18). Production of the enzyme increases throughout pregnancy, and the DI usually appears at the end of the second, or in the third, trimester.
+Hypervolemic hypernatremia is exclusively iatrogenic, resulting from administration of hypertonic 8.4% sodium bicarbonate, hypertonic 3% saline, or concentrated nutritional formulas. 
 
-**DIAGNOSIS:** The hallmark of DI is a dilute urine in the face of hypertonic plasma. In central DI, the urine osmolarity is often below 200 mosm/L, whereas in nephrogenic DI, the urine osmolarity is 200–500 mosm/L (19). The diagnosis of DI is based on the response of the urine osmolality to fluid restriction. Failure of the urine osmolarity to increase more than 30 mosm/L in the first few hours of complete fluid restriction will identify a case of DI. The response to vasopressin can then differentiate central from nephrogenic DI; i.e., in central DI, the urine osmolality increases by at least 50% after vasopressin administration, whereas in nephrogenic DI, the urine osmolality is unchanged after vasopressin.
+Management requires loop diuretics (furosemide) to promote natriuresis, combined with 5% dextrose in water (D5W) infusions to replace ongoing urinary free water excretion.
+</div></details>
+</div></details>
 
-**DESMOPRESSIN:** In central DI, renal water retention can be restored with the administration of *desmopressin*, a synthetic analog of vasopressin that lasts longer, and has no vasoconstrictor effects. Desmopressin is available as an oral tablet, an intranasal spray, and a parenteral preparation for subcutaneous or intravenous injection. Only 5% of the drug is absorbed from the GI tract (20), so the oral route is least desirable. The parenteral dose of desmopressin is 1 μg by subcutaneous injection every 12 hours, or 2 μg by IV injection every 12 hours (20).
+<details class="med-details" open><summary>
 
-**NSAIDS:** The approach to nephrogenic DI involves removing any offending drug, but this does not always correct the problem. When this occurs, nonsteroidal anti-inflammatory drugs (NSAIDs) can increase renal responsiveness to ADH (because prostaglandins block the actions of ADH, and NSAIDs inhibit prostaglandin synthesis). Indomethacin (2 mg/kg/day) has been more successful than other NSAIDs in restoring ADH responsiveness (21).
+## Hyponatremia: Pseudohyponatremia and Hyperglycemic Dilution</summary><div class="details-content">
 
-# **Hypervolemic Hypernatremia**
+<details class="med-details" open><summary>
 
-Hypernatremia with a high extracellular volume can be the result of sodium bicarbonate infusions, but it is more frequently associated with excessive infusions of isotonic saline for
+### True vs. Spurious Hyponatremia</summary><div class="details-content">
 
-hypotonic fluid loss.
+Hyponatremia ($[\text{Na}^+] < 135\text{ mEq/L}$) represents the most prevalent electrolyte disorder in clinical practice, affecting 30% to 40% of hospitalized patients. Before formulating a therapeutic plan, pseudohyponatremia and translocational hyponatremia must be excluded.
+</div></details>
 
-### *Management*
+<details class="med-details" open><summary>
 
-In patients with normal renal function, excess sodium and water are excreted rapidly. When renal sodium excretion is impaired, it might be necessary to increase renal sodium excretion with a diuretic (e.g., furosemide). Because the urinary sodium concentration during furosemide diuresis (~80 mEq/L) is less than the plasma sodium concentration, diuresis can aggravate the hypernatremia. Therefore, the diuresis should be combined with infusions of D5W to correct the hypernatremia.
+### Pathophysiology of Pseudohyponatremia</summary><div class="details-content">
 
-# **HYPONATREMIA**
+Normal plasma consists of an aqueous phase (93% of total volume) and a solid phase (7% of total volume, composed of lipids and proteins). Sodium ions reside exclusively in the aqueous phase. Automated clinical analyzers utilizing indirect ion-selective electrodes dilute whole plasma, assuming an invariant 93% aqueous fraction.
 
-Hyponatremia (plasma [Na] < 135 mEq/L) is considered the most common electrolyte abnormality in clinical practice (22), and is found in 30–40% of hospitalized patients (23).
+When extreme hyperproteinemia or severe hypertriglyceridemia expands the solid phase, the instrument pipettes a smaller volume of the aqueous phase, generating a falsely depressed sodium reading despite a completely normal physiological sodium concentration in plasma water.
 
-# **Pseudohyponatremia**
+<details class="med-details" open><summary>
 
-Plasma has an aqueous phase and a solid (nonaqueous) phase. Small electrolytes like sodium are confined to the aqueous phase, while larger molecules like lipids and proteins are located in the solid phase. The automated measurements performed in the clinical laboratory include both phases of plasma (24), and thus the measured plasma sodium could underestimate the actual (aqueous phase) sodium level. However, 95% of the plasma is water (i.e., aqueous phase), so there is normally little difference between the measured and actual sodium concentrations.
+#### <span id="tbl-35-2"></span>TABLE 35.2 Clinical Conditions Associated with Pseudohyponatremia</summary><div class="details-content">
 
-However, a problem arises when there is a marked increase in protein or lipid levels in blood. In this situation, there is an increase in the nonaqueous or solid phase of plasma, which will decrease the measured plasma sodium concentration, while the actual (aqueous phase) sodium concentration is unchanged. This spurious decrease in the measured plasma sodium is called *pseudohyponatremia* (24), and it becomes significant when plasma protein levels reach 12 g/dL (normal range is 5.5–8 g/dL), and triglyceride levels rise to 1,500 mg/dL (normal range is 25– 175 mg/dL). The clinical conditions that can produce [pseudohyponatremia](#page-7-0) are listed in Table 35.2 (24).
+| Mechanism | Clinical Conditions |
+| :--- | :--- |
+| **Severe Hyperproteinemia**<br>*(Total protein $> 12\text{ g/dL}$)* | - Multiple myeloma<br>- Waldenström macroglobulinemia<br>- Monoclonal gammopathies<br>- High-dose intravenous immunoglobulin (IVIG) therapy |
+| **Severe Hypertriglyceridemia**<br>*(Triglycerides $> 1,500\text{ mg/dL}$)* | - Acute hyperlipidemic pancreatitis<br>- Uncontrolled diabetic ketoacidosis<br>- Familial hyperchylomicronemia (types I and V)<br>- Propofol infusion syndrome |
+| **Hypercholesterolemia** | - Primary biliary cholangitis<br>- Severe obstructive jaundice / Lipoprotein X |
 
-<span id="page-7-0"></span>
+</div></details>
 
-| TABLE<br>35.2<br>Clinical<br>Conditions<br>Associated<br>with<br>Pseudohyponatremia |                                                                                                                                  |  |
-|-------------------------------------------------------------------------------------|----------------------------------------------------------------------------------------------------------------------------------|--|
-| Mechanism                                                                           | Conditions                                                                                                                       |  |
-| Hyperproteinemia                                                                    | HIV Disease<br>Immunoglobulin Infusions<br>Monoclonal Gammopathies<br>Multiple Myeloma<br>Waldenström's Macroglobulinemia        |  |
-| Hypertriglyceridemia                                                                | Alcohol Abuse<br>Diabetic Ketoacidosis<br>Hyperlipidemias (types I and V)<br>Pancreatitis<br>Type 2 Diabetes (poorly controlled) |  |
+#### Direct Potentiometry and Clinical Evaluation
 
-| Hypercholesterolemia | Biliary Obstruction       |
-|----------------------|---------------------------|
-|                      | Hepatitis                 |
-|                      | Intrahepatic Cholestasis  |
-|                      | Primary Biliary Cirrhosis |
+Direct potentiometry (point-of-care blood gas analyzers) analyzes undiluted plasma and measures true sodium activity, eliminating pseudohyponatremia. Furthermore, measured freezing point plasma osmolality remains normal ($285\text{–}295\text{ mosm/kg}$) in pseudohyponatremia.
+</div></details>
 
-From Reference 24.
+<details class="med-details" open><summary>
 
-#### *Diagnosis*
+### Hyperglycemic Translocational Hyponatremia</summary><div class="details-content">
 
-Pseudohyponatremia can be uncovered by measuring the plasma osmolality, which will be normal (285–295 mosm/kg H2O) with pseudohyponatremia, and will be reduced (<275 mosm/kg H2O) with true hyponatremia.
+Extracellular glucose is an effective osmole when insulin deficiency or resistance prevents rapid cellular uptake. Marked hyperglycemia draws water from the intracellular compartment into the extracellular space, diluting serum sodium.
 
-### *Hyperglycemia*
+#### The Katz Correction Formula
 
-Hyperglycemia is another potential cause of spurious hyponatremia. When glucose does not readily enter cells, the resultant hyperglycemia draws fluid out of cells. This increases the aqueous phase of plasma, and has a dilutional effect on sodium. For every 100 mg/dL increase in blood glucose, there is a 2.4 mEq/L decrease in the serum sodium concentration (22,25). This is expressed in the following equation:
+Serum sodium concentration falls by approximately $2.4\text{ mEq/L}$ for every $100\text{ mg/dL}$ increment in blood glucose above normal ($100\text{ mg/dL}$):
 
-Corrected [Na] = Measured [Na] + 
-$$\left[2.4 \times \frac{\text{glucose} - 100 \text{ (mg/dL)}}{100 \text{ (mg/dL)}}\right]$$
-(35.5)
+$$\text{Corrected } [\text{Na}^+] = \text{Measured } [\text{Na}^+] + \left[2.4 \times \frac{\text{Glucose (mg/dL)} - 100}{100}\right] \tag{35.5}$$
 
-**EXAMPLE:** If a patient with a serum sodium concentration of 130 mEq/L also has a blood glucose of 600 mg/dL, the corrected serum sodium is 130 + (2.4 × 5) = 142 mEq/L.
+#### Clinical Case Illustration
 
-# *The Approach*
+*Clinical Example:* A patient with diabetic ketoacidosis presents with measured serum $\text{Na}^+ = 130\text{ mEq/L}$ and plasma $\text{glucose} = 600\text{ mg/dL}$:
 
-The evaluation and management of true hyponatremia can be organized around the extracellular volume (ECV), as shown in [Figure](#page-9-0) 35.3. This approach is similar to the one used for hypernatremia, and it has three types of hyponatremia: hypovolemic, normovolemic, and hypervolemic.
+$$\text{Corrected } \text{Na}^+ = 130 + \left[2.4 \times \frac{600 - 100}{100}\right] = 130 + (2.4 \times 5) = 142\text{ mEq/L}$$
 
-<span id="page-9-0"></span>![](_page_9_Figure_0.jpeg)
+The patient actually exhibits hypertonic eunatremia, and insulin administration with fluid hydration will unmask hypernatremia as glucose enters cells.
+</div></details>
+</div></details>
 
-**FIGURE 35.3** Flow diagram for hyponatremia based on the extracellular volume (ECV).
+<details class="med-details" open><summary>
 
-# **Hypovolemic Hyponatremia**
+## Diagnostic Evaluation of True Hyponatremia</summary><div class="details-content">
 
-Hyponatremia with a low ECV is the result of sodium loss in the urine or GI tract, combined with impaired water excretion by the kidneys (26). Water retention is needed to produce the hyponatremia (because loss of hypotonic fluids results in *hyper*natremia), and is the result of the following events: (*a*) the sodium losses result in hypovolemia, which stimulates the reninangiotensin-aldosterone system, (*b*) the released angiotensin stimulates the release of antidiuretic hormone (ADH) from the posterior pituitary gland, and (*c*) ADH promotes water retention by the kidneys.
+<details class="med-details" open><summary>
 
-#### *Etiologies*
+### The Volume-Based Algorithm</summary><div class="details-content">
 
-The clinical conditions that promote hypovolemic hyponatremia are listed in [Figure](#page-9-0) 35.3. The most cited causes are thiazide diuretics, adrenal insufficiency, and cerebral salt wasting.
+True hypotonic hyponatremia is categorized according to extracellular volume status and clinical presentation, as illustrated in Figure 35.3.
 
-**THIAZIDE DIURETICS:** Hypernatremia is reported in about one-third of patients being treated with a thiazide diuretic, and usually appears after 3 weeks of treatment (27). The mechanism for the hyponatremia is complex, and beyond the intent of this chapter.
+<span id="fig-35-3"></span>
+![FIGURE 35.3](images/_page_9_Figure_0.jpeg)
 
-**ADRENAL INSUFFICIENCY:** Primary adrenal insufficiency involves mineralocorticoid deficiency, which promotes renal sodium wasting. The hyponatremia usually appears in the chronic (not acute) form of illness. Secondary adrenal insufficiency (which originates in the hypothalamus or pituitary) is primarily a deficiency of glucocorticoids, and is not associated with hyponatremia.
+**FIGURE 35.3** Flow diagram for hyponatremia based on the extracellular volume (ECV). See text for details.
+</div></details>
 
-**CEREBRAL SALT WASTING:** Cerebral salt wasting is a condition of urinary sodium loss and hyponatremia that is associated with neurologic disorders, especially subarachnoid hemorrhage, traumatic brain injury, CNS infections, Guillain-Barre Syndrome, and neurosurgery (28).
+<details class="med-details" open><summary>
 
-## *Diagnostic Considerations*
+### Hypovolemic Hyponatremia</summary><div class="details-content">
 
-The source of sodium loss (i.e., kidneys or GI tract) is usually apparent, but if not, a spot urine sodium can help to distinguish renal from extrarenal losses; i.e., urine Na+ > 20 mEq/L suggests a renal source of sodium loss, while a urine Na+ < 20 mEq/L suggests an extrarenal site of sodium loss.
+Hypovolemic hyponatremia results from renal or extrarenal sodium depletion accompanied by non-osmotic baroreceptor-mediated ADH release. Arterial underfilling stimulates hypothalamic vasopressin secretion, prioritizing circulatory volume over osmolality and forcing water retention.
 
-# **Normovolemic Hyponatremia**
+#### Spot Urine Sodium Differentiation
 
-Hyponatremia with a normal ECV is the result of water retention with minimal sodium loss. This is usually the result of uncontrolled, "nonosmotic" release of ADH from the pituitary, or excessive water intake.
+- $\text{U}_{\text{Na}} < 20\text{ mEq/L}$: Extrarenal sodium losses (vomiting, diarrhea, third-spacing).
+- $\text{U}_{\text{Na}} > 20\text{ mEq/L}$: Renal sodium wasting (thiazide diuretics, primary adrenal insufficiency, cerebral salt wasting).
 
-# *Etiologies*
+#### Cerebral Salt Wasting (CSW)
 
-This causes of normovolemic hyponatremia include: the syndrome of inappropriate ADH (SIADH), primary polydipsia, physiological stress, and (rarely) [hypothyroidism](#page-9-0) (see Figure 35.3).
+Encountered in neurosurgical patients, particularly following subarachnoid hemorrhage. Characterized by true volume depletion, high urine sodium, and elevated brain natriuretic peptide (BNP). It must be distinguished from SIADH, as fluid restriction in CSW causes cerebral vasospasm and infarction.
+</div></details>
 
-**SIADH:** SIADH is a condition of uncontrolled or nonosmotic release of ADH that is associated with a variety of other conditions, including neoplasms, infections, and drugs. The hallmark of SIADH is the combination of hypotonic plasma, inappropriately concentrated urine (urine osmolality >100 mosm/kg H2O) and an elevated urine sodium (>20 mEq/L) (29). This condition can be difficult to distinguish from cerebral salt wasting, and the only difference may be the ECV (which is decreased with cerebral salt wasting, and normal with SIADH).
+<details class="med-details" open><summary>
 
-**PHYSIOLOGICAL STRESS:** Physiological stress is well known for promoting the release of ACTH from the anterior pituitary, but a lesser known component of the stress response is the release of ADH from the posterior pituitary. (Teleologically, water retention from the actions of ADH should be advantageous during periods of stress, when insensible losses are likely to be high.)
+### Normovolemic Hyponatremia</summary><div class="details-content">
 
-Stress-induced release of ADH would explain the increased risk of hyponatremia in postoperative patients (22), and this should also apply to critically ill patients. The popularity of hypotonic IV fluids like Ringer's lactate adds further to the risk of hyponatremia in hospitalized patients (30). (See Table 10.2 for the osmolarity of intravenous fluids.)
+Normovolemic hyponatremia is characterized by clinically normal extracellular volume, absent edema, and preserved renal function.
 
-**PRIMARY POLYDIPSIA:** Water intoxication (primary polydipsia) is a source of hyponatremia that occurs primarily in patients with developmental or psychiatric disorders (31). Patients with hyponatremia from polydipsia also have impaired free water clearance by the kidneys (32), and both factors may be necessary to produce sustained hyponatremia.
+#### Syndrome of Inappropriate ADH Secretion (SIADH)
 
-Another example of hyponatremia caused by heavy consumption of a dilute fluid is *beer potomania* (33), which is typically found in chronic alcoholics who are poorly nourished and are prone to binge drinking.
+Unregulated, non-osmotic ADH secretion driven by central nervous system disorders, pulmonary infections, small cell lung carcinoma, or drugs (SSRIs, carbamazepine). Diagnosis requires hypotonic plasma ($P_{\text{osm}} < 275\text{ mosm/kg}$), inappropriately concentrated urine ($\text{U}_{\text{osm}} > 100\text{ mosm/kg}$), and elevated spot urine sodium ($\text{U}_{\text{Na}} > 20\text{–}40\text{ mEq/L}$).
 
-**HYPOTHYROIDISM:** Although hypothyroidism is considered a cause of hyponatremia, the evidence for this is not convincing. For example, a retrospective analysis of 8,000 patients with hypothyroidism revealed that 5% of the patients had hyponatremia, but almost all (98%) of these patients had other conditions that could have caused the hyponatremia (34). Despite the difficulty establishing a causal link between hypothyroidism and hyponatremia, a serum TSH assay is recommended in the evaluation of hyponatremia of undetermined etiology (34).
+#### Postoperative and Stress-Induced ADH Release
 
-## *Diagnostic Considerations*
+Severe pain, emotional stress, nausea, and surgical trauma directly stimulate hypothalamic ADH release, rendering postoperative patients exceptionally vulnerable to acute water intoxication when infused with hypotonic crystalloids.
 
-When the cause of normovolemic hyponatremia is unclear, the urine osmolality can help to distinguish between SIADH and primary polydipsia: i.e., in SIADH, the unregulated actions of ADH produce a concentrated urine (urine osmolality 300–500 mosm/kg H2O), whereas water intoxication produces a dilute urine (i.e., urine osmolality <200 mosm/kg H2O).
+#### Primary Polydipsia and Beer Potomania
 
-# **Hypervolemic Hyponatremia**
+Compulsive ingestion of free water or low-solute alcohol overcomes renal diluting capacity. Urine osmolality is maximally suppressed ($< 100\text{ mosm/kg}$).
+</div></details>
 
-Hypervolemic hyponatremia is the result of salt and water retention, with water retention exceeding sodium retention. This condition occurs in advanced heart failure, cirrhosis, and renal failure. Renal failure is associated with a high urine [Na+] (>20 mEq/L), while the urine [Na+] is low (<20 mEq/L) in heart failure and cirrhosis (except when a diuretic is active).
+<details class="med-details" open><summary>
 
-# **MANAGEMENT OF HYPONATREMIA**
+### Hypervolemic Hyponatremia</summary><div class="details-content">
 
-The management of hyponatremia is determined by two factors: the ECV, and the presence or absence of hyponatremic encephalopathy.
+Hypervolemic hyponatremia occurs in congestive heart failure, decompensated liver cirrhosis, and nephrotic syndrome. 
 
-# **Hyponatremic Encephalopathy**
+Diminished effective arterial blood volume triggers avid baroreceptor-mediated ADH and aldosterone secretion. Water retention exceeds sodium retention. Spot urine sodium is typically $< 20\text{ mEq/L}$ (unless loop diuretics are actively acting).
+</div></details>
+</div></details>
 
-Hyponatremia results in a hypotonic extracellular fluid, which then causes fluid to move across the blood-brain barrier and into brain parenchyma. This process culminates in diffuse cerebral edema with an increased intracranial pressure (35), and when this condition produces symptoms, it is called *hyponatremic encephalopathy* (36). This is considered an immediate threat to life, and thus requires prompt action to reduce the cerebral edema with hypertonic saline.
+<details class="med-details" open><summary>
 
-Hyponatremic encephalopathy is more likely appear when the hyponatremia is acute (i.e., develops in less than 48 hours), but there is no correlation between the severity of the hyponatremia and the appearance or severity of the encephalopathy (36). As a result, *the plasma Na+ concentration has no role in the decision about initiating hypertonic saline*.
+## Management of Hyponatremia: Encephalopathy and Osmotic Demyelination</summary><div class="details-content">
 
-#### *Symptoms*
+<details class="med-details" open><summary>
 
-Hyponatremic encephalopathy can present with a wide variety of symptoms, but the earliest symptoms usually include nausea, vomiting, headache, and ataxia, while advanced symptoms can include agitation, confusion, seizures, and coma. Although the early symptoms can be nonspecific, *the presence of any symptom that suggests possible cerebral edema is an indication for rapid correction of the hyponatremia with hypertonic saline*.
+### Hyponatremic Encephalopathy</summary><div class="details-content">
 
-# **Hypertonic (3%) Saline**
+Hypotonicity forces osmotic water entry into astrocytes across the blood-brain barrier, generating cerebral edema and elevating intracranial pressure. Symptoms progress from headache, nausea, and ataxia to stupor, seizures, and fatal uncal herniation.
 
-The treatment of symptomatic hyponatremia with hypertonic saline is summarized in [Table](#page-12-0) 35.3. A 3% NaCL solution (Na+ = 513 mEq/L, osmolarity = 1,026 mosm/L) is given in bolus doses of 2 mL/kg (or 150 mL), which are repeated every few hours until the symptoms resolve. Each bolus dose can increase the sodium concentration by as much as 2 mEq/L, and an increase of 5–6 mEq/L should produce some improvement in symptoms. If there is no improvement at this point, it is possible that hyponatremia is not the cause of the symptoms.
+The urgency of treatment is dictated entirely by neurological symptoms, not by the absolute serum sodium concentration. The presence of any neurological compromise attributable to cerebral edema demands immediate hypertonic saline therapy.
+</div></details>
 
-The 3% NaCL solution can be delivered safely through a peripheral vein (36,37), and treatment continues until the symptoms resolve. However, there are limits placed on the rate and extent of Na correction, as explained next.
+<details class="med-details" open><summary>
 
-# <span id="page-12-0"></span>**TABLE 35.3 Hypertonic Saline for Symptomatic Hyponatremia**
+### Hypertonic 3% Saline Resuscitation Protocol</summary><div class="details-content">
 
-- 1. Use 3% NaCL (Na+ = 153 mEq/L, osmolarity = 1,026 mosm/L).
-- 2. Give IV bolus doses of 2 mL/kg (or 150 mL), which are repeated every few hours until the symptoms resolve. This regimen can be given via peripheral veins.
-- 3. Assess after the serum Na+ has increased by 5 mEq/L if there is no improvement, consider another cause for the symptoms.
-- 4. The following limits are recommended as a preventive measure for osmotic demyelination.
-  - a. The initial increment in serum Na+ should not exceed 5 mEq/L in 2 hrs, or 10 mEq/L in 5 hrs.
-  - b. The daily increment in serum Na+ should not exceed 10 mEq/L on the first day, and 8 mEq/L on subsequent days.
-  - c. The final plasma Na+ should not exceed 130 mEq/L.
+Administration of 3% sodium chloride is summarized in Table 35.3.
 
-From References 22 and 36.
+<details class="med-details" open><summary>
 
-# **Osmotic Demyelination Syndrome**
+#### <span id="tbl-35-3"></span>TABLE 35.3 Hypertonic Saline Protocol for Symptomatic Hyponatremia</summary><div class="details-content">
 
-Correction of the sodium that is too rapid, or overshoots the normal sodium concentration can produce a devastating neurologic disorder caused by osmotic damage to the myelin sheath of brainstem neurons. This *osmotic demyelinating syndrome*, also known as "central pontine myelinolysis", has a biphasic course. The initial presentation includes varying degrees of altered mentation, along with seizures, but this improves, only to be followed at a later time by profound deterioration in overall health, with dysarthria, oculomotor dysfunction, quadriparesis, and even
+| Protocol Parameter | Clinical Recommendation |
+| :--- | :--- |
+| **Solution Specifications** | 3% NaCl ($\text{Na}^+ = 513\text{ mEq/L}$, osmolarity = $1,026\text{ mosm/L}$) |
+| **Bolus Administration** | Administer $2\text{ mL/kg}$ (or a standard $150\text{ mL}$ IV bolus) over 10–20 minutes. Repeat up to twice if severe symptoms persist. |
+| **Vascular Access** | Can be infused safely via a dedicated large peripheral vein during emergency resuscitation. |
+| **Therapeutic Target** | An initial rise of $4\text{–}6\text{ mEq/L}$ reverses acute brain herniation and terminates seizure activity. |
+| **Safety Limits** | - Maximum increment: $\le 5\text{ mEq/L}$ in 2 hours, $\le 10\text{ mEq/L}$ in 5 hours.<br>- Maximum 24-hour correction: $\le 10\text{ mEq/L}$ on day 1, $\le 8\text{ mEq/L}$ on subsequent days.<br>- Absolute initial stopping endpoint: serum $\text{Na}^+ = 130\text{ mEq/L}$. |
 
-locked-in syndrome. (38). Chronic hyponatremia poses a greater risk for this complication than acute (within 48 hrs) hyponatremia.
+</div></details>
+</div></details>
 
-To reduce the risk of osmotic demyelination, the maximum rate of correction for Na+ is limited to 8–10 mEq/L over any 24-hour period, and the end-point of Na+ correction is a serum concentration of 130 mEq/L. (22,36). This end-point is below the normal range, but it provides a buffer against overshooting the end-point.
+<details class="med-details" open><summary>
 
-## *Overcorrection*
+### Pathogenesis of Osmotic Demyelination Syndrome (ODS)</summary><div class="details-content">
 
-Overcorrection of the serum sodium occurs in as many as 25% of cases (39), even when preventive measures are used. The tendency for overcorrection can be attributed to a spontaneous water diuresis that occurs in some patients during treatment with hypertonic saline. This diuresis decreases the extracellular volume, which concentrates the sodium and augments its rate of correction.
+When hyponatremia has persisted for $> 48$ hours (chronic hyponatremia), brain cells have extruded idiogenic osmolytes to preserve normal cell volume. If extracellular sodium is raised too rapidly, hypertonic extracellular fluid draws water out of adapted neurons, inducing severe dehydration, disruption of the blood-brain barrier, and non-inflammatory apoptosis of oligodendrocytes.
 
-The water diuresis is more frequent in hyponatremia caused by drugs (especially thiazides) and by water intoxication. This diuresis can be prevented or terminated by desmopressin.
+This gives rise to *osmotic demyelination syndrome* (central pontine and extrapontine myelinolysis). Clinically, patients demonstrate a biphasic course: initial improvement is followed 2 to 6 days later by dysarthria, dysphagia, horizontal gaze paralysis, spastic quadriparesis, and locked-in syndrome.
+</div></details>
 
-**DESMOPRESSIN:** [Desmopressin](#page-13-0) (a synthetic analog of vasopressin) can be used as shown in Table 35.4 (40,41). It should be started when there is an abrupt increase in urine flow (indicating water diuresis) during corrective therapy with hypertonic saline, and it can be used routinely in cases of hyponatremia that have a high risk of overcorrection (i.e., hyponatremia from adrenal insufficiency, drugs, and primary polydipsia.) Fluid restriction is mandatory during therapy with desmopressin, to prevent the development of severe hyponatremia.
+<details class="med-details" open><summary>
 
-# <span id="page-13-0"></span>**TABLE 35.4 Desmopressin to Prevent or Reverse Overcorrection of Hyponatremia**
+### Prevention and Management of Overcorrection</summary><div class="details-content">
 
-#### *Indications:*
+Overcorrection occurs in up to 25% of treated patients, typically triggered by spontaneous water diuresis when the inciting stimulus (e.g., volume depletion, drug effect) resolves.
 
-- If the increment in serum Na+ exceeds the limits listed in [Table](#page-12-0) 35.3.
-- If there is an abrupt increase in urine output (e.g., >100 mL/hr) during corrective therapy with hypertonic saline
-- As a routine measure in conditions where overcorrection is a risk (see text).
+<details class="med-details" open><summary>
 
-#### *Dose:*
+#### <span id="tbl-35-4"></span>TABLE 35.4 Desmopressin Protocol to Prevent or Reverse Overcorrection</summary><div class="details-content">
 
-• 2 μg by subcutaneous injection every 12 hrs.
+| Parameter | Clinical Protocol Specification |
+| :--- | :--- |
+| **Indications** | - Exceeding recommended hourly or daily sodium correction limits.<br>- Abrupt onset of dilute polyuria (urine output $> 100\text{ mL/hr}$).<br>- High-risk patients (malnutrition, hypokalemia, cirrhosis, severe chronic hyponatremia). |
+| **Dosing** | Desmopressin $2\ \mu\text{g}$ administered subcutaneously or intravenously every 12 hours. |
+| **Mandatory Precautions** | Strict fluid restriction is mandatory during desmopressin administration to prevent precipitous re-dilution. |
 
-#### *Caveats:*
+</div></details>
 
-- Desmopressin is not advised when the hyponatremia is due to unregulated release of ADH.
-- Fluid restriction is mandatory during R<sup>x</sup> with desmopressin.
+#### Interventions for Overcorrection
 
-# **Asymptomatic Hyponatremia**
+If sodium correction exceeds safe boundaries, immediately discontinue active saline infusions, administer desmopressin, and re-infuse free water (D5W) to lower serum sodium back within safe target thresholds.
+</div></details>
 
-Rapid correction of the hyponatremia is not necessary in asymptomatic patients. Instead, the fluid management is based on the ECV, as shown in [Figure](#page-9-0) 35.3.
+<details class="med-details" open><summary>
 
-## *Hypovolemia*
+### Management of Asymptomatic Hyponatremia</summary><div class="details-content">
 
-In cases of hypovolemic hyponatremia, isotonic saline will help to improve blood pressure and tissue perfusion, but the hyponatremia may not show significant improvement until the
+In patients without neurological symptoms, correction must be gradual and directed at volume status:
 
-responsible conditions are treated or eliminated.
+- **Hypovolemic:** Infuse isotonic 0.9% saline to restore effective arterial blood volume, which shuts off non-osmotic ADH secretion.
+- **Normovolemic (SIADH):** Enforce strict fluid restriction (daily intake $500\text{ mL}$ below measured urine output). In refractory cases, oral urea or vasopressin receptor antagonists (*vaptans*: tolvaptan, conivaptan) increase aquaresis.
+- **Hypervolemic:** Combine loop diuretics with dietary sodium and water restriction to manage fluid overload.
+</div></details>
 
-#### *Normovolemia*
+<details class="med-details" open><summary>
 
-The problem in normovolemic hyponatremia is water excess without sodium excess, so fluid restriction is indicated. The usual goal is a daily fluid intake that is 500 mL less than the daily urine output (26). Fluid restriction is notoriously intolerable for patients, but the following drug options available for patients with SIADH.
+### Concluding Principles</summary><div class="details-content">
 
-**DEMECLOCYCLINE:** Demeclocycline is a tetracycline derivative that blocks the effects of ADH in the renal tubules. It is intended for patients with chronic SIADH who do not tolerate fluid restriction, and is given in a dose of 600–1,200 mg daily in divided doses (26). Maximum effect takes several days, and success is variable. Demeclocycline can be nephrotoxic, so monitoring renal function is advised while using the drug.
-
-**THE VAPTANS:** The vaptans are vasopressin antagonists that block the actions of vasopressin (ADH) in the kidneys and elsewhere. There are two drugs in this class: conivaptan and tolvaptan. Conivaptan can be given intravenously, while tolvaptan is an oral medication. Both agents can increase the serum sodium by 6 or 7 mEq/L (42,43). These drugs are expensive and are not currently popular.
-
-#### *Hypervolemia*
-
-Patients with hypervolemic hyponatremia are both salt and water overloaded, with the water overload exceeding the salt overload. Furosemide diuresis could theoretically correct this problem. However, continued activation of the renin-angiotensin-aldosterone system in heart failure and cirrhosis helps to maintain the hyponatremia.
-
-# **A FINAL WORD**
-
-## **What You See is Not What You Get**
-
-The fundamental truth about hypernatremia and hyponatremia is that they are disorders of water balance, not sodium balance. This "sleight of hand" is unique among electrolyte disorders; e.g., hypomagnesemia is a sign of magnesium depletion, but hyponatremia is a sign of water overload (absolute or relative), not sodium depletion. Understanding this basic distinction may help you to navigate through the maze of possibilities when confronting a patient with hypernatremia or hyponatremia.
-
-## *References*
-
-<span id="page-14-0"></span>*a.* Feynman R. *The Unscientific Age*. Lecture at the University of Washington, 1963.
-
-#### *General Reviews*
-
-- <span id="page-14-1"></span>1. Seay NW, Leheich RW, Greenberg A. Diagnosis and management of disorders of body tonicity— hyponatremia and hypernatremia: core curriculum 2020. Am J Kidney Dis 2020; 75:272–286.
-- <span id="page-14-2"></span>2. Sterns RH. Disorders of plasma sodium—causes, consequences, and correction. N Engl J Med 2015; 372:5565.
-
-#### *Osmotic Activity*
+- Dysnatremias are disorders of water balance rather than total body sodium quantity.
+- Therapeutic interventions in hypernatremia and hyponatremia must prioritize brain cell volume preservation, strictly regulating the velocity of tonicity correction to avoid iatrogenic cerebral edema or osmotic demyelination.
+</div></details>
+</div></details>

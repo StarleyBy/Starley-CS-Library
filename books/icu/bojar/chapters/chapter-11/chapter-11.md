@@ -1389,6 +1389,10 @@ Is performed from the ECG or the arterial waveform.
 
 4. Appropriate timing of inflation and deflation is essential. Proper timing should improve stroke volume and reduce LVESV and pressure. Early inflation may decrease stroke volume due to the abrupt increase in LV afterload during late systolic ejection. Late deflation will increase afterload during early ejection and decrease afterload during late ejection. This may increase stroke volume but also increase stroke work.
 5. During a cardiac arrest, ballooning may be synchronized to cardiac contractions using the pressure trigger mode. Without cardiac massage, an internal trigger at 100 inflations/minute should be used.
+
+#### 🎛️ Interactive Waveform Simulator: IABP Timing in 1:2 Assist Mode
+
+<iframe class="iabp-frame" src="assets/interactive/iabp-atlas.html?embed=1&lang=en" style="width:100%; max-width:1000px; height:580px; border:1px solid #1e293b; border-radius:12px; margin:16px auto; display:block;" loading="lazy"></iframe>
 </div></details>
 
 <details class="med-details"><summary>

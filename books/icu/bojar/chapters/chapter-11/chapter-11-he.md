@@ -1389,6 +1389,10 @@ Levosimendan שימושי בשיפור ההמודינמיקה בחולים עם 
 
 4. תזמון מתאים של ניפוח (inflation) וניפוי (deflation) חיוני. תזמון נכון אמור לשפר את נפח הפעימה ולהפחית את ה-LVESV והלחץ. ניפוח מוקדם (early inflation) עלול להפחית את נפח הפעימה בשל העלייה הפתאומית בעומס לאחר של LV במהלך התרוקנות סיסטולית מאוחרת (late systolic ejection). ניפוי מאוחר (late deflation) יגביר את העומס לאחר במהלך התרוקנות מוקדמת ויפחית את העומס לאחר במהלך התרוקנות מאוחרת. זה עלול להגדיל את נפח הפעימה אך גם להגביר את עבודת הפעימה (stroke work).
 5. במהלך דום לב, ניתן לסנכרן ניפוח בלון להתכווצויות לב באמצעות מצב הפעלת לחץ (pressure trigger mode). ללא עיסוי לב, יש להשתמש בהפעלה פנימית (internal trigger) ב-100 ניפוחים/דקה.
+
+#### 🎛️ סימולטור אינטראקטיבי: תזמון IABP במצב 1:2
+
+<iframe class="iabp-frame" src="assets/interactive/iabp-atlas.html?embed=1&lang=en" style="width:100%; max-width:1000px; height:580px; border:1px solid #1e293b; border-radius:12px; margin:16px auto; display:block;" loading="lazy"></iframe>
 </div></details>
 
 <details class="med-details"><summary>

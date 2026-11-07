@@ -1,217 +1,250 @@
-# Chapter 33
+# Metabolic Alkalosis
 
-# **Metabolic Alkalosis**
+> *The first step in the scientific method consists in being curious about the world.*  
+> — Linus Pauling
 
-*The first step in the scientific method consists in being curious about the world.*
+<details class="med-details" open><summary>
 
-Linus Pauling (*[a](#page-9-0)*)
+## Executive Summary</summary><div class="details-content">
 
-Although the spotlight usually falls on metabolic acidosis, the most common acid-base disturbance in hospitalized patients is metabolic *alkalosis* ([1\)](#page-9-1). The prevalence of metabolic alkalosis can be attributed to three factors: (a) common predisposing conditions, (b) the ability of alkalosis to sustain itself, and (c) the tendency for the condition to go unnoticed and untreated.
+### Clinical Insights into Metabolic Alkalosis
 
-This chapter begins with an attempt to simplify the rather complex electrolyte involvement in metabolic alkalosis, and then describes an organized approach to the evaluation and management of metabolic alkalosis. Some comprehensive reviews of the topic are included in the bibliography at the end of the chapter ([2,](#page-9-2)[3\)](#page-9-3).
+- **Prevalence:** Metabolic alkalosis represents the most frequent acid-base disorder encountered in hospitalized and critically ill patients. It is characterized by an elevation in plasma bicarbonate ($[\text{HCO}_3^-] > 30\text{ mEq/L}$) and systemic alkalemia.
+- **The Generation vs. Maintenance Paradox:** While loss of gastric protons or diuretic therapy *generates* the alkalosis, the condition cannot persist unless renal bicarbonate excretion is impaired. The three factors responsible for *maintaining* metabolic alkalosis are hypovolemia (decreased GFR and secondary hyperaldosteronism), chloride depletion, and hypokalemia.
+- **The Role of Pendrin:** Bicarbonate excretion in renal cortical collecting ducts is mediated by pendrin, an apical $\text{Cl}^-/\text{HCO}_3^-$ exchanger. Luminal chloride depletion eliminates the driving gradient for pendrin, halting bicarbonate secretion and locking the alkalosis in place.
+- **Compensatory Hypoventilation:** Alveolar hypoventilation provides physiological respiratory compensation, governed by $\Delta P\text{aCO}_2 = 0.7 \times \Delta[\text{HCO}_3^-]$. Significant hypercapnia ($P\text{aCO}_2 > 46\text{ mmHg}$) occurs only when plasma bicarbonate rises by $\approx 10\text{ mEq/L}$, and worrisome hypercapnia ($> 50\text{ mmHg}$) appears only in severe alkalemia.
+- **Diagnostic Dichotomy:** Measuring spot urine chloride separates etiology into:
+  - *Chloride-Responsive (Urine $\text{Cl}^- < 20\text{ mEq/L}$, low extracellular volume):* Vomiting, nasogastric suction, post-diuretic therapy, and chronic laxative abuse.
+  - *Chloride-Resistant (Urine $\text{Cl}^- > 20\text{ mEq/L}$, expanded extracellular volume):* Primary hyperaldosteronism, exogenous mineralocorticoids, licorice ingestion, and profound potassium depletion.
+- **Volume and Chloride Repletion:** Chloride-responsive alkalosis is corrected with 0.9% sodium chloride. The required volume is calculated directly from the chloride deficit: $\text{Volume (L)} = [0.2 \times \text{Weight (kg)} \times (100 - [\text{Cl}^-])] / 154$.
+- **Refractory Hypokalemia:** Potassium repletion is required to resolve transcellular proton shifts and renal tubular bicarbonate wasting. If hypokalemia proves refractory, concurrent magnesium depletion must be identified and corrected.
+- **Edematous States and Acetazolamide:** In congestive heart failure or cirrhosis with loop diuretic-induced alkalosis, saline infusion is contraindicated. Acetazolamide (250–375 mg IV/PO daily or twice daily) promotes renal bicarbonate and sodium excretion without volume loading.
+- **Dilute Hydrochloric Acid (0.1 N HCl):** Reserved for severe, life-threatening alkalemia ($\text{pH} > 7.55$ or $[\text{HCO}_3^-] > 50\text{ mEq/L}$) unresponsive to conventional therapy. Infuse strictly via a central venous catheter at a rate $\le 0.2\text{ mEq/kg/hr}$.
+</div></details>
 
-## **PATHOGENESIS**
+<details class="med-details" open><summary>
 
-Metabolic alkalosis is defined as an increase in the bicarbonate (HCO<sup>3</sup> ) concentration in venous blood to >30 mEq/L [\(2](#page-9-2)). The generation and maintenance of this condition involves several factors, including the state of the extracellular volume, the activity of aldosterone, the function of the kidneys, and the plasma chloride and potassium concentrations. Each of these factors is explained briefly in this section.
+## Pathogenesis and Bicarbonate Homeostasis</summary><div class="details-content">
 
-## **Bicarbonate Homeostasis**
+### Normal Renal Bicarbonate Handling
 
-Under normal. steady state conditions, the concentration of bicarbonate in extracellular fluid is kept constant by the actions of the kidneys.
+Under physiological steady-state conditions, extracellular bicarbonate concentration is regulated within tight boundaries by renal tubular reabsorption and secretion. Each day, the glomeruli filter 4,000 to 4,500 mEq of bicarbonate, all of which is reclaimed under normal circumstances.
 
-## *Bicarbonate Reabsorption*
+The proximal convoluted tubule reabsorbs approximately 85% to 90% of filtered bicarbonate in tandem with sodium reabsorption. The remaining 10% to 15% is reclaimed in the cortical collecting ducts by specialized type A intercalated cells.
 
-About 4,000–4,500 mEq of bicarbonate (HCO<sup>3</sup> ) is filtered daily in the kidneys ([2\)](#page-9-2), and all of it is reclaimed by the renal tubules. Most (85–90%) of the filtered HCO<sup>3</sup> is reabsorbed in the proximal tubules, which is also the major site for sodium reabsorption. The remaining 10–15%
+<span id="fig-33-1"></span>
+![FIGURE 33.1](images/_page_2_Figure_0.jpeg)
 
-<span id="page-1-0"></span>of the filtered HCO<sup>3</sup> is reabsorbed by specialized cells in the collecting ducts, and the mechanism for this is shown in the middle cell in [Figure](#page-1-0) 33.1. (Note that chloride moves out of the blood in exchange for HCO<sup>3</sup> .) These cells also secrete H+ into the tubular lumen, which is then excreted as ammonium.
+**FIGURE 33.1** Specialized cells in the collecting ducts of the kidneys that are involved in acid-base balance. See text for explanation.
 
-### *Bicarbonate Secretion*
+### Mechanisms of Tubular Transport
 
-There are other specialized cells in the collecting ducts that are involved in HCO<sup>3</sup> secretion via a chloride-bicarbonate exchange protein (called *pendrin*) that is on the luminal surface of the cells (see the lower cell in [Figure](#page-1-0) 33.1). This process is only minimally active under normal conditions, but the pendrin gene is up-regulated in metabolic alkalosis, to help clear the excess HCO<sup>3</sup> ([4\)](#page-9-4).
+As illustrated in Figure 33.1, three distinct cell populations in the collecting ducts govern electrolyte and proton flux:
 
-![](_page_2_Figure_0.jpeg)
+- **Principal Cells:** Reabsorb sodium and secrete potassium via an apical epithelial channel driven by basolateral $\text{Na}^+/\text{K}^+$-ATPase. This process is stimulated by aldosterone.
+- **Type A Intercalated Cells:** Secrete hydrogen ions into the tubular lumen via an apical vacuolar $\text{H}^+$-ATPase pump (forming ammonium) and reabsorb bicarbonate across the basolateral membrane via a chloride-bicarbonate exchanger.
+- **Type B Intercalated Cells:** Secrete bicarbonate directly into the tubular lumen via an apical anion exchange protein termed *pendrin*. Pendrin exchanges luminal chloride for intracellular bicarbonate. Under alkalemic conditions, pendrin expression is upregulated to excrete excess base.
 
-## **Conditions That Promote Metabolic Alkalosis**
+### Factors Promoting and Maintaining Alkalosis
 
-Several conditions promote the production and maintenance of metabolic alkalosis, as briefly summarized here.
+Metabolic alkalosis cannot be sustained by bicarbonate overproduction alone; maintenance requires impaired renal bicarbonate excretion.
 
-## *Loss of Gastric Acid*
+#### Loss of Gastric Secretions
 
-Gastric secretions are rich in hydrogen ions (50–100 mEq/L), chloride (120–160 mEq/L), and to a lesser degree, potassium (10–15 mEq/L) ([5\)](#page-9-5). Loss of H+ in gastric secretions generates an equimolar addition of HCO<sup>3</sup> to the extracellular fluid, which creates a metabolic alkalosis. Loss of chloride and potassium will help to sustain the alkalosis, by mechanisms described later.
+Gastric juice contains 50–100 mEq/L of $\text{H}^+$, 120–160 mEq/L of $\text{Cl}^-$, and 10–15 mEq/L of $\text{K}^+$. For every mole of gastric proton lost via vomiting or nasogastric suction, an equimolar quantity of bicarbonate is added to extracellular fluid by parietal cells. Concomitant loss of chloride and water generates hypovolemia and chloride depletion, preventing the kidneys from clearing the added base.
 
-## *Hypovolemia*
+#### Hypovolemia and Secondary Aldosteronism
 
-Many causes of metabolic alkalosis are associated with a decrease in extracellular (plasma) volume. This condition promotes metabolic alkalosis in two ways. First, there is a decrease in glomerular filtration rate, which results in a decrease in filtered HCO<sup>3</sup> . Secondly, the decrease in renal perfusion stimulates the renin-angiotensin-aldosterone system, and the aldosterone promotes metabolic alkalosis by mechanisms described next. (*Note:* The metabolic alkalosis associated with hypovolemia is often called "contraction alkalosis", but this is a misnomer because it implies that the problem is a decrease in free water rather than an excess of HCO<sup>3</sup> .)
+Extracellular volume contraction decreases glomerular filtration rate, reducing filtered bicarbonate. Concurrently, renal hypoperfusion activates the renin-angiotensin-aldosterone axis. Aldosterone stimulates the apical $\text{H}^+$-ATPase pump in type A intercalated cells, accelerating proton secretion, while sodium reabsorption enhances potassium loss.
 
-### *Aldosterone*
+#### Chloride Depletion
 
-Aldosterone is a mineralocorticoid produced in the adrenal cortex that stimulates a sodiumpotassium exchange pump in the renal collecting ducts (depicted by the uppermost cell in Figure 33.1) to promote Na+ [reabsorption](#page-1-0) and K+ secretion. This can lead to K+ depletion, which promotes metabolic alkalosis by mechanisms described later. Aldosterone also stimulates the membrane ATPase pump responsible for H+ secretion into the renal tubules (see the middle cell in [Figure](#page-1-0) 33.1) ([6\)](#page-9-6).
+Chloride depletion represents the primary maintainer of metabolic alkalosis. Diminished luminal chloride delivery to the collecting duct starves the pendrin exchanger of its exchange partner, completely halting apical bicarbonate secretion. Concurrently, low chloride accelerates proximal bicarbonate reclamation.
 
-## *Chloride Depletion*
+#### Hypokalemia and Diuretics
 
-Chloride depletion plays a major role in promoting metabolic alkalosis by increasing HCO<sup>3</sup> reabsorption and inhibiting HCO<sup>3</sup> secretion in the renal collecting ducts [\(2](#page-9-2)[,3](#page-9-3)). Both effects are mediated by a decrease in luminal chloride concentration. The inhibition of HCO<sup>3</sup> secretion is due to inhibition of the anion exchange protein, pendrin, which is the principal mechanism for the ability of chloride depletion to promote metabolic alkalosis ([7\)](#page-9-7).
+Potassium depletion provokes transcellular ion shifting, driving extracellular $\text{H}^+$ into cells in exchange for exiting $\text{K}^+$. Intracellular acidosis within proximal tubular cells stimulates glutamine metabolism, ammonium synthesis, and bicarbonate generation. Loop and thiazide diuretics provoke massive urinary losses of sodium, chloride, and potassium, combining volume contraction with acute hypochloremia.
+</div></details>
 
-### *Hypokalemia*
+<details class="med-details" open><summary>
 
-Hypokalemia promotes metabolic alkalosis via a transcellular shift of H+ into cells (in exchange for a shift of K+ out of cells). The resulting decrease in intracellular pH in renal tubular cells also promotes HCO<sup>3</sup> reabsorption [\(8](#page-9-8)).
+## Clinical Consequences and Respiratory Compensation</summary><div class="details-content">
 
-#### *Diuretics*
+### Clinical Latency and Symptoms
 
-Thiazide diuretics and "loop" diuretics like furosemide promote metabolic alkalosis via chloride
+Metabolic alkalosis is frequently asymptomatic and clinically silent. Even profound alkalemia is tolerated remarkably well in the absence of severe hypoxia or hypokalemia. Documented cases of extreme metabolic alkalosis (plasma $[\text{HCO}_3^-]$ up to 151 mEq/L from protracted vomiting) have recovered uneventfully with timely fluid and electrolyte repletion.
 
-and K+ depletion. The principal action of these diuretics is to increase sodium loss in the urine, and urinary chloride excretion usually matches sodium excretion, so this can lead to chloride depletion The increased Na+ delivery to the distal tubules also promotes K+ loss via a Na+–K+ exchange pump (see the cell at the top in [Figure](#page-1-0) 33.1).
+Neurological manifestations such as tetany, neuromuscular irritability, paresthesias, and seizures are classic features of acute *respiratory* alkalosis (due to rapid cerebral vasoconstriction and acute shifts in ionized calcium) and are distinctly uncommon in pure metabolic alkalosis.
 
-## **CLINICAL CONSEQUENCES**
+### Compensatory Hypoventilation
 
-Metabolic alkalosis is clinically silent in most patients. Severe alkalosis can be accompanied by neurologic manifestations and hypoventilation, but these are rarely life-threatening. In one remarkable case report, an elderly patient with protracted vomiting and a plasma [HCO<sup>3</sup> ] of 151 mEq/L was hemodynamically stable, and recovered uneventfully after volume and electrolyte replacement ([9\)](#page-9-9).
+The physiological homeostatic response to metabolic alkalosis is alveolar hypoventilation, reducing minute ventilation to elevate arterial $P\text{aCO}_2$.
 
-## **Neurologic Manifestations**
+#### Respiratory Response Equation
 
-The neurologic manifestations attributed to alkalosis include depressed consciousness, generalized seizures, paresthesias, and carpopedal spasms, but these are usually associated with *respiratory alkalosis*, not metabolic alkalosis.
+The quantitative ventilatory relationship is expressed:
 
-## **Hypoventilation**
+$$\Delta P\text{aCO}_2 = 0.7 \times \Delta[\text{HCO}_3^-] \tag{33.1}$$
 
-The ventilatory response to metabolic alkalosis is hypoventilation, with a subsequent rise in arterial PCO<sup>2</sup> . However, this is not a vigorous response, and a considerable rise in plasma HCO<sup>3</sup> may be necessary to produce significant CO<sup>2</sup> retention ([10\)](#page-9-10).
+where $\Delta P\text{aCO}_2$ represents the increase in arterial carbon dioxide tension above 40 mmHg and $\Delta[\text{HCO}_3^-]$ is the elevation of plasma bicarbonate above 24 mEq/L.
 
-The ventilatory response to metabolic alkalosis is described by the following equation ([11\)](#page-9-11):
+<span id="fig-33-2"></span>
+![FIGURE 33.2](images/_page_5_Figure_0.jpeg)
 
-$$\Delta \text{ PaCO}_2 = 0.7 \times \Delta \text{ HCO}_3 \tag{33.1}$$
+**FIGURE 33.2** The relationship between plasma bicarbonate ($\text{HCO}_3^-$) and arterial $P\text{CO}_2$ ($P\text{aCO}_2$) in metabolic alkalosis, as predicted by the equation shown at the top of the graph. Note that the plasma $\text{HCO}_3^-$ must increase almost 10 mEq/L to produce hypercapnia ($P\text{aCO}_2 > 46\text{ mmHg}$), and that worrisome hypercapnia (i.e., $P\text{aCO}_2 > 50\text{ mmHg}$) does not occur until the alkalosis is severe.
 
-where PaCO<sup>2</sup> is the arterial PCO<sup>2</sup> and HCO<sup>3</sup> is the plasma (usually venous) HCO<sup>3</sup> concentration. This equation was used to construct the curve in [Figure](#page-5-0) 33.2 showing the relationship between PaCO<sup>2</sup> and plasma HCO<sup>3</sup> in progressive metabolic alkalosis. Note that hypercapnia (i.e., PaCO<sup>2</sup> > 46 mm Hg) does not occur until the plasma HCO<sup>3</sup> increases almost 10 mEq/L (which represents a 40% increase in plasma HCO<sup>3</sup> ) and that worrisome hypercapnia (i.e., PaCO<sup>2</sup> > 50 mm Hg) does not occur until the metabolic alkalosis is severe.
+#### Clinical Ventilatory Implications
 
-<span id="page-5-0"></span>![](_page_5_Figure_0.jpeg)
+As demonstrated in Figure 33.2, mild-to-moderate metabolic alkalosis produces negligible CO2 retention:
 
-**FIGURE 33.2** The relationship between plasma bicarbonate (HCO<sup>3</sup> ) and arterial PCO<sup>2</sup> (PaCO<sup>2</sup> ) in metabolic alkalosis, as predicted by the equation shown at the top of the graph. Note that the plasma HCO<sup>3</sup> must increase almost 10 mEq/L to produce hypercapnia (PaCO<sup>2</sup> > 46 mm Hg), and that worrisome hypercapnia (i.e., PaCO<sup>2</sup> > 50 mm Hg) does not occur until the alkalosis is severe.
+- Hypercapnia ($P\text{aCO}_2 > 46\text{ mmHg}$) develops only after plasma bicarbonate rises by nearly 10 mEq/L (a 40% increase over normal).
+- Clinically significant hypercapnia ($P\text{aCO}_2 > 50\text{ mmHg}$) requires severe alkalosis ($[\text{HCO}_3^-] \ge 40\text{ mEq/L}$).
 
-## **Oxyhemoglobin Dissociation Curve**
+In spontaneously breathing patients, hypoxemic respiratory drive eventually halts progressive hypoventilation, generally capping $P\text{aCO}_2$ below 55–60 mmHg.
 
-Alkalosis shifts the oxyhemoglobin dissociation curve to the left (Bohr effect), which results in a decreased tendency for hemoglobin to release oxygen into the tissues. When the O<sup>2</sup> extraction from capillary blood is constant, a leftward shift of the oxyhemoglobin dissociation curve results in a decrease in venous PO<sup>2</sup> ([12\)](#page-9-12), which typically indicates a decrease in tissue PO<sup>2</sup> . However, there is no evidence of inadequate tissue oxygenation from this effect.
+### Oxyhemoglobin Dissociation Dynamics
 
-## **EVALUATION**
+Systemic alkalemia shifts the oxyhemoglobin dissociation curve to the left (Bohr effect), increasing hemoglobin's oxygen affinity and impeding oxygen unloading at the tissue capillary level. When tissue oxygen extraction remains constant, this leftward shift lowers mixed venous oxygen tension ($P\text{vO}_2$). However, under normal cardiac output conditions, this rarely produces clinically manifest tissue hypoxia.
+</div></details>
 
-The conditions that promote metabolic alkalosis can be organized according to the state of the extracellular volume, and the urinary chloride concentration, as shown in [Table](#page-5-1) 33.1 [\(2](#page-9-2)[,3](#page-9-3)).
+<details class="med-details" open><summary>
 
-<span id="page-5-1"></span>
+## Diagnostic Evaluation: Urine Chloride Differentiation</summary><div class="details-content">
 
-| TABLE<br>33.1        | Principal<br>Sources<br>of<br>Metabolic<br>Alkalosis |                      |
-|----------------------|------------------------------------------------------|----------------------|
-| Extracellular Volume | Urine Chloride                                       | Conditions           |
-| Low                  | <20 mEq/L                                            | Vomiting, NG Suction |
+### The Central Role of Urinary Chloride
 
-|          |           | Thiazide or Loop Diuretics (after-effect)<br>Laxative Abuse                      |
-|----------|-----------|----------------------------------------------------------------------------------|
-| High     | >20 mEq/L | Primary Hyperaldosteronism<br>Exogenous Mineralocorticoids<br>Licorice Ingestion |
-| Variable | Variable  | K+ Depletion<br>Mg++ Depletion                                                   |
+Evaluation of metabolic alkalosis relies on the assessment of extracellular volume (ECV) status combined with measurement of spot urinary chloride ($\text{U}_{\text{Cl}}$), as detailed in Table 33.1.
 
-## **Low ECV, Low Urine CL**
+<div id="tbl-33-1"></div>
 
-Metabolic alkalosis associated with a low extracellular volume (ECV) and a low urinary chloride concentration (<20 mEq/L) is also called *chloride-sensitive metabolic alkalosis* [\(2](#page-9-2)[,3](#page-9-3)). This is the usual type of metabolic alkalosis in ICU patients, and can be the result of gastric acid loss (from vomiting or nasogastric suction), secondary hyperaldosteronism (from hypovolemia), or excessive use of thiazide or loop diuretics (e.g., furosemide). The diuretic effect must be dissipated for the urine chloride to be low.
+### TABLE 33.1 Principal Sources of Metabolic Alkalosis
 
-### *Laxative Abuse*
+| Extracellular Volume (ECV) | Urinary Chloride ($\text{U}_{\text{Cl}}$) | Clinical Etiologies |
+| :--- | :--- | :--- |
+| **Low (Contracted)** | **$< 20\text{ mEq/L}$**<br>*(Chloride-Responsive)* | - Vomiting and nasogastric suction<br>- Remote loop or thiazide diuretic therapy (after-effect)<br>- Chronic laxative abuse |
+| **High (Expanded)** | **$> 20\text{ mEq/L}$**<br>*(Chloride-Resistant)* | - Primary hyperaldosteronism (Conn syndrome)<br>- Exogenous mineralocorticoid administration<br>- Chronic licorice ingestion |
+| **Variable** | **Variable** | - Severe potassium ($\text{K}^+$) depletion<br>- Severe magnesium ($\text{Mg}^{2+}$) depletion |
 
-Diarrhea usually produces a hyperchloremic metabolic acidosis from bicarbonate losses in stool, but the diarrhea associated with chronic laxative abuse is rich in potassium and chloride (70–90 mEq/L), and typically results in a metabolic alkalosis with a low ECV and a low urinary chloride ([13\)](#page-9-13). The diagnosis can be elusive, because patients often deny laxative abuse.
+### Chloride-Responsive Alkalosis (Low ECV, Low Urine Cl)
 
-## **High ECV, High Urine CL**
+Chloride-responsive metabolic alkalosis is the predominant form encountered in critical care. It is defined by volume depletion, low effective arterial blood volume, and urinary chloride $< 20\text{ mEq/L}$.
 
-Metabolic alkalosis associated with an increased ECV and a high urinary chloride concentration (>20 mEq/L) is also called *chloride-resistant metabolic alkalosis*, and the principal cause is primary hyperaldosteronism. This is an unlikely cause of metabolic alkalosis in the ICU, and is typically the result of aldosterone-producing adrenal adenomas or idiopathic adrenal hyperplasia (14). Analogous conditions include chronic ingestion of licorice, and exogenous mineralocorticoid excess ([2,](#page-9-2)[3\)](#page-9-3).
+Etiologies include active or recent gastric fluid losses (emesis, suction) and post-diuretic states (once diuretic action has subsided). In these patients, restoring extracellular chloride volume with isotonic saline breaks the maintenance cycle and restores renal bicarbonate clearance.
 
-## **Other Causes**
+#### Chronic Laxative Abuse
 
-Hypokalemia and hypomagnesemia can cause a metabolic alkalosis in which the extracellular volume status and urinary chloride concentration are variable [\(3](#page-9-3),15).
+Although acute secretory diarrhea causes hyperchloremic metabolic acidosis from fecal bicarbonate loss, chronic laxative abuse produces watery stool rich in potassium and chloride (70–90 mEq/L). The resulting volume contraction, hypochloremia, and hypokalemia mimic gastric fluid losses with low urinary chloride ($< 20\text{ mEq/L}$).
 
-## **MANAGEMENT**
+### Chloride-Resistant Alkalosis (High ECV, High Urine Cl)
 
-The management of metabolic alkalosis with a low ECV and a low urinary chloride (i.e., chloride-responsive metabolic alkalosis) involves replenishment of chloride and potassium with isotonic saline and potassium chloride.
+Chloride-resistant alkalosis is characterized by systemic volume expansion, hypertension, and urinary chloride $> 20\text{ mEq/L}$. In these cases, mineralocorticoid excess promotes persistent tubular sodium reabsorption and proton/potassium excretion despite volume overload.
 
-## **Isotonic Saline**
+Etiologies include aldosterone-secreting adrenal adenomas, bilateral adrenal hyperplasia, and consumption of real licorice (glycyrrhizic acid inhibits 11-beta-hydroxysteroid dehydrogenase type 2, allowing cortisol to activate mineralocorticoid receptors). Infusion of saline is ineffective and hazardous in this group.
+</div></details>
 
-The volume of isotonic saline needed to correct a metabolic alkalosis can be estimated by first
+<details class="med-details" open><summary>
 
-estimating the chloride (CL–) deficit, as shown below (16,17):
+## Management of Chloride-Responsive Metabolic Alkalosis</summary><div class="details-content">
 
-$$CL^-$$
- deficit (mEq) = 0.2 × wt (kg) × (100 – plasma  $CL^-$ ) (33.2)
+### Volume and Chloride Resuscitation
 
-where wt is lean body weight in kg, and 100 is the desired plasma chloride concentration (in mEq/L). The required volume of isotonic saline (in liters) is then estimated as follows:
+The definitive treatment of chloride-responsive metabolic alkalosis requires replenishing the total body chloride deficit with 0.9% sodium chloride ("normal saline") and replacing potassium deficits.
 
-Volume of isotonic saline (L) = 
-$$CL$$
-- deficit/154 (33.3)
+#### Stepwise Saline Calculation
 
-where 154 is the chloride concentration (in mEq/L) in isotonic saline. This method is summarized in [Table](#page-7-0) 33.2. Rapid saline infusion is not necessary, and a rate of 100 mL/hr above hourly fluid losses is appropriate.
+The required volume of 0.9% sodium chloride is calculated directly from the estimated chloride deficit, as outlined in Table 33.2.
 
-**EXAMPLE:** A 70 kg adult with protracted vomiting has a metabolic alkalosis with a plasma chloride of 80 mEq/L. The chloride deficit in this case is 0.2 × 70 × (100–80) = 280 mEq. The volume of isotonic saline needed to correct this deficit is 280/154 = 1.8 liters.
+<div id="tbl-33-2"></div>
 
-<span id="page-7-0"></span>![](_page_7_Figure_6.jpeg)
+### TABLE 33.2 Saline Infusions for Metabolic Alkalosis
 
-## **Potassium Chloride**
+| Step | Protocol Action | Formula / Dosage |
+| :---: | :--- | :--- |
+| **Step 1** | **Estimate chloride ($\text{Cl}^-$) deficit** | $\text{Cl}^-\text{ deficit (mEq)} = 0.2 \times \text{Weight (kg)} \times (100 - \text{plasma } \text{Cl}^-)$ |
+| **Step 2** | **Determine replacement volume of 0.9% NaCl** | $\text{Volume of } 0.9\%\text{ NaCl (L)} = \frac{\text{Cl}^-\text{ deficit (mEq)}}{154\text{ mEq/L}}$ |
+| **Step 3** | **Rate of replacement** | $100\text{ mL/hr}$ above hourly fluid losses |
 
-Potassium replacement with KCL may be needed in addition to saline infusions. However it important to emphasize that *diuretic-induced hypokalemia can be resistant to potassium replacement if there is concurrent magnesium depletion* (18). Since magnesium depletion is also common during diuretic therapy, the plasma magnesium level should be checked before starting K+ replacement in patients receiving diuretics. (The evaluation and management of magnesium depletion is described in Chapter 37.)
+The deficit formula reflects the extracellular distribution space of chloride ($\approx 20\%$ of lean body weight):
 
-### **Edematous States**
+$$\text{Cl}^-\text{ Deficit (mEq)} = 0.2 \times \text{Weight (kg)} \times (100 - \text{plasma } [\text{Cl}^-]) \tag{33.2}$$
 
-Patients with edema from heart failure, cirrhosis, or cor pulmonale can have a metabolic
+#### Volume Determination Equation
 
-alkalosis from diuretic therapy. In these cases, saline infusion is counterproductive, and K+ replacement is used to correct the alkalosis. These patients can also benefit from acetazolamide, as described next.
+The required volume of isotonic saline (which contains 154 mEq/L of chloride, with a desired target of 100 mEq/L) is:
 
-### *Acetazolamide*
+$$\text{Volume of } 0.9\%\text{ NaCl (L)} = \frac{\text{Cl}^-\text{ Deficit (mEq)}}{154} \tag{33.3}$$
 
-Acetazolamide (Diamox) is a carbonic anhydrase inhibitor that inhibits HCO<sup>3</sup> reabsorption in the proximal tubules. The increase in HCO<sup>3</sup> excretion is accompanied by an increase in Na<sup>+</sup> excretion (as NaHCO<sup>3</sup> ), so acetazolamide also acts as a diuretic, which is advantageous in edematous states associated with a metabolic alkalosis. The recommended dose is 250 to 375 mg IV or PO, once or twice daily (19).
+#### Clinical Case Illustration
 
-## *Hydrochloric Acid Infusion*
+*Clinical Example:* A 70 kg patient with protracted vomiting presents with metabolic alkalosis and a serum chloride of 80 mEq/L:
 
-Severe metabolic alkalosis that is not corrected with K+ replacement and acetazolamide can be treated with an infusion of dilute hydrochloric acid, but this can be risky, and is reserved only for patients with severe alkalosis (plasma HCO<sup>3</sup> > 50 mEq/L or pH > 7.55).
+$$\begin{aligned}
+\text{Cl}^-\text{ Deficit} &= 0.2 \times 70 \times (100 - 80) = 14 \times 20 = 280\text{ mEq} \\
+\text{Volume of } 0.9\%\text{ NaCl} &= \frac{280\text{ mEq}}{154\text{ mEq/L}} = 1.8\text{ Liters}
+\end{aligned}$$
 
-**METHOD:** The dose of HCL is determined by estimating the H+ deficit with the equation below (see also [Table](#page-8-0) 33.3) (19).
+Infuse this volume steadily at $100\text{ mL/hr}$ above ongoing gastrointestinal fluid losses.
 
-$$H^+$$
- Deficit (mEq) =  $0.5 \times \text{wt (kg)} \times \text{(plasma HCO}_3 - 24)$  (33.4)
+### Potassium and Magnesium Correction
 
-where wt is the lean body weight in kg, and 24 is the normal plasma HCO<sup>3</sup> .
+Potassium replacement with intravenous potassium chloride ($\text{KCl}$) is essential to terminate transcellular proton shifting and normalize renal tubular bicarbonate handling. 
 
-<span id="page-8-0"></span>![](_page_8_Figure_8.jpeg)
+Importantly, hypokalemia induced by diuretic therapy is frequently refractory to potassium repletion if concomitant magnesium depletion is present. Magnesium is an essential cofactor for the $\text{Na}^+/\text{K}^+$-ATPase pump and suppresses renal medullary potassium wasting. Serum magnesium must be assessed and normalized in all patients undergoing therapy for metabolic alkalosis.
+</div></details>
 
-The HCL solution is prepared by adding 100 mL of 1 normal (1N) HCL to 900 mL of isotonic saline or sterile water, which makes a 0.1N HCL solution (100 mEq H+/L) The volume of 0.1N HCL (in liters) needed to correct the H+ deficit is determined by the ratio (H+ deficit/100), as shown in [Table](#page-8-0) 33.3. Because HCL solutions are corrosive, they *should be infused through a large, central vein* (20), and *the infusion rate should not exceed 0.2 mEq/kg/hr*
+<details class="med-details" open><summary>
 
-(17). The entire H+ deficit does not have to be replaced; i.e., the HCL infusion can be stopped when the plasma pH falls to acceptable levels (e.g., <7.5).
+## Edematous States and Hydrochloric Acid Therapy</summary><div class="details-content">
 
-**ADVERSE EFFECTS:** The major concern with HCL infusions is the corrosive effect on blood vessels. Extravasation of HCL solutions can produce severe tissue necrosis, even when the solution is infused through a central vein (21).
+### Management in Edematous Patients
 
-## **A FINAL WORD**
+In patients with volume overload (congestive heart failure, hepatic cirrhosis, nephrotic syndrome) who develop metabolic alkalosis from loop diuretic therapy, administering isotonic saline is contraindicated because it exacerbates peripheral edema and pulmonary congestion.
 
-## **Spotlight on Chloride**
+Therapy in edematous states consists of:
 
-Chloride is the second most abundant electrolyte in the extracellular fluid, and has emerged as a major factor in metabolic acid-base disorders, including both metabolic alkalosis (via chloride depletion) and metabolic acidosis (i.e., hyperchloremic metabolic acidosis). It also plays a major role in determining the extracellular volume (which is described in Chapter 35).
+- Aggressive potassium chloride repletion to correct hypokalemia without volume expansion.
+- Administration of carbonic anhydrase inhibitors.
 
-In recognition of its importance in acid-base balance and volume regulation, chloride has been given the title "queen of electrolytes" (22), emphasizing that chloride is much more than an inconsequential partner for sodium in the extracellular fluid.
+#### Acetazolamide Therapy
 
-## *References*
+Acetazolamide (Diamox) selectively inhibits luminal and cytoplasmic carbonic anhydrase in proximal tubular cells, halting the reclamation of filtered bicarbonate. Bicarbonate is excreted in the urine as sodium bicarbonate ($\text{NaHCO}_3$).
 
-<span id="page-9-0"></span>*a.* Pauling L. *General Chemistry*. 3rd ed. New York: Dover Publications, 1970; 13.
+Acetazolamide simultaneously produces mild natriuresis and corrects systemic alkalosis without expanding extracellular fluid volume. The recommended dosing is 250 to 375 mg administered intravenously or orally once or twice daily, titrated against urine pH and serum bicarbonate.
 
-#### *Reviews*
+### Dilute Hydrochloric Acid Infusions
 
-<span id="page-9-1"></span>1. Maehle K, Haug B, Flaatten H, Nielsen EW. Metabolic alkalosis is the most common acid-base disorder in ICU patients. Crit Care 2014; 18:420.
+When metabolic alkalosis is severe ($\text{pH} > 7.55$ or $[\text{HCO}_3^-] > 50\text{ mEq/L}$) and refractory to saline, potassium, and acetazolamide, direct neutralization of circulating base with dilute hydrochloric acid ($\text{HCl}$) can be considered.
 
-#### *Reviews*
+#### Dosing Protocol and Preparation
 
-- <span id="page-9-2"></span>2. Emmett M. Metabolic alkalosis. A brief pathophysiologic review. Clin J Am Soc Nephrol 2020; 15:1848–1856.
-- <span id="page-9-3"></span>3. Vasquez PC, Soleimani M. Metabolic alkalosis pathogenesis, diagnosis and treatment: core curriculum 2022. Am J Kidney Dis 2022; 80:536–551.
+The required dose of hydrochloric acid is determined by calculating the hydrogen ion deficit, detailed in Table 33.3.
 
-#### <span id="page-9-4"></span>*Pathogenesis*
+<div id="tbl-33-3"></div>
 
-- 4. Adler L, Efrati E, Zelikovic I. Molecular mechanisms of epithelial cell-specific expression and regulation of the human anion exchanger (pendrin) gene. Am J Physiol Cell Physiol 2008; 294:C1261–C1276.
-- <span id="page-9-5"></span>5. Gennari FJ, Weise WJ. Acid-base disturbances in gastrointestinal disease. Clin J Am Soc Nephrol 2008; 3:1861–1868.
-- <span id="page-9-6"></span>6. Winter C, Kampik NB, Vedovelli L, et al. Aldosterone stimulates vacuolar H+-ATPase activity in acid-secreting intercalated cells mainly via a protein kinase C-dependent pathway. Am J Physiol Cell Physiol 2011; 1:C1251–C1261.
-- <span id="page-9-7"></span>7. Luke RG, Galla JH. It is chloride depletion alkalosis, not contraction alkalosis. J Am Soc Nephrol 2012; 23:204–207.
-- <span id="page-9-8"></span>8. Rose BD, Post TW. Regulation of acid-base balance. In: *Clinical Physiology of Acid-Base and Electrolyte Disorders*. 5th ed. New York: McGraw-Hill, 2001; 325–371.
+### TABLE 33.3 Hydrochloric Acid Infusions for Severe Metabolic Alkalosis
 
-#### <span id="page-9-9"></span>*Clinical Manifestations*
+| Step | Protocol Action | Formula / Specification |
+| :---: | :--- | :--- |
+| **Step 1** | **Estimate hydrogen ion ($\text{H}^+$) deficit** | $\text{H}^+\text{ deficit (mEq)} = 0.5 \times \text{Weight (kg)} \times (\text{plasma } \text{HCO}_3^- - 24)$ |
+| **Step 2** | **Determine volume of 0.1 N HCl solution** | $\text{Volume of } 0.1\text{ N HCl (L)} = \frac{\text{H}^+\text{ deficit (mEq)}}{100\text{ mEq/L}}$ |
+| **Step 3** | **Infusion rate and vascular access** | Rate $\le 0.2\text{ mEq/kg/hr}$; infuse strictly via dedicated central venous line |
 
-- 9. Giovannini I, Greco F, Chiarla C, et al. Exceptional nonfatal metabolic alkalosis (blood base excess + 48 mEq/L). Intensive Care Med 2005; 31:166–167.
-- <span id="page-9-10"></span>10. Javaheri S, Kazemi H. Metabolic alkalosis and hypoventilation in humans. Am Rev Respir Dis 1987; 136:1011–1016.
-- <span id="page-9-11"></span>11. Adrogue HJ, Madias NE. Secondary responses to altered acid-base status: The rules of engagement. J Am Soc Nephrol 2010; 21:920–923.
-- <span id="page-9-12"></span>12. Nunn JF. *Nunn's Applied Respiratory Physiology*. 4th ed. Oxford: Butterworth-Heinemann Ltd, 1993; 275–276.
+The apparent volume of distribution for protons under severe alkalemia approximates 50% of total body weight:
 
-#### <span id="page-9-13"></span>*Evaluation*
+$$\text{H}^+\text{ Deficit (mEq)} = 0.5 \times \text{Weight (kg)} \times (\text{plasma } [\text{HCO}_3^-] - 24) \tag{33.4}$$
 
-13. Roerig JL, Steffen KJ, Mitchell JE, Zunker C. Laxative abuse. Epidemiology, diagnosis, and management. Drugs 2010; 70:1487–1503.
+To prepare 0.1 N $\text{HCl}$ ($100\text{ mEq } \text{H}^+/\text{L}$), add 100 mL of 1.0 N $\text{HCl}$ to 900 mL of sterile water or 0.9% sodium chloride. The required volume of this solution is $(\text{H}^+\text{ Deficit} / 100)\text{ Liters}$.
+
+#### Administration Hazards and Monitoring
+
+Because unbuffered hydrochloric acid is intensely sclerosing and corrosive:
+
+- Infusion must be delivered exclusively through a centrally placed catheter whose tip is verified in the superior vena cava.
+- The infusion rate must not exceed $0.2\text{ mEq/kg/hr}$.
+- Extravasation causes devastating soft tissue necrosis and mediastinal injury.
+- Infusion should be discontinued once arterial pH drops below 7.50; complete deficit correction is unnecessary.
+
+### Concluding Perspectives: Chloride as the Queen of Electrolytes
+
+Chloride has long been viewed as a passive counter-ion for sodium, yet evidence establishes it as a principal determinant of extracellular volume regulation and metabolic acid-base disorders. Depletion of chloride maintains metabolic alkalosis via pendrin inhibition, while excessive administration drives hyperchloremic non-gap acidosis. In critical care physiology, chloride rightfully earns the title "queen of electrolytes."
+</div></details>

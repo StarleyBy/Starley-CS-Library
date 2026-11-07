@@ -101,7 +101,7 @@ Inflammatory responses encompass a series of host defense and repair mechanisms 
 
 <details class="med-details"><summary>
 
-### Evolutionary Foundations: Innate vs. Adaptive Immunity</summary><div class="details-content">
+### 1.1 Evolutionary Foundations: Innate vs. Adaptive Immunity</summary><div class="details-content">
 
 <details class="med-details"><summary>
 
@@ -127,7 +127,7 @@ On subsequent reencounter with the antigen, the adaptive immune response shows m
 
 <details class="med-details"><summary>
 
-### Cellular Architecture and Molecular Crosstalk</summary><div class="details-content">
+### 1.2 Cellular Architecture and Molecular Crosstalk</summary><div class="details-content">
 
 <details class="med-details"><summary>
 
@@ -183,7 +183,7 @@ A number of stimuli can initiate inflammatory responses in the context of cardio
 
 <details class="med-details"><summary>
 
-### Atherogenic Lipoproteins and Vascular Inflammation</summary><div class="details-content">
+### 2.1 Atherogenic Lipoproteins and Vascular Inflammation</summary><div class="details-content">
 
 <details class="med-details"><summary>
 
@@ -209,7 +209,7 @@ Finally, an intervention that lowers LDL by augmenting activity of the LDL recep
 
 <details class="med-details"><summary>
 
-### Hemodynamic Stress and Oxidative Modification Pathways</summary><div class="details-content">
+### 2.2 Hemodynamic Stress and Oxidative Modification Pathways</summary><div class="details-content">
 
 <details class="med-details"><summary>
 
@@ -235,7 +235,7 @@ Once again, despite considerable preclinical evidence and the results of observa
 
 <details class="med-details"><summary>
 
-### Infectious and Environmental Contributors</summary><div class="details-content">
+### 2.3 Infectious and Environmental Contributors</summary><div class="details-content">
 
 <details class="med-details"><summary>
 
@@ -259,7 +259,7 @@ Considerable recent interest has highlighted the potential of the microbiome as 
 
 <details class="med-details"><summary>
 
-### Tissue Injury and Adiposity as Inflammatory Amplifiers</summary><div class="details-content">
+### 2.4 Tissue Injury and Adiposity as Inflammatory Amplifiers</summary><div class="details-content">
 
 <details class="med-details"><summary>
 
@@ -301,7 +301,7 @@ Exposure to foreign tissues, such as transplanted organs, leads to potent activa
 
 <details class="med-details"><summary>
 
-### Mechanisms of Allograft Rejection</summary><div class="details-content">
+### 3.1 Mechanisms of Allograft Rejection</summary><div class="details-content">
 
 <details class="med-details"><summary>
 
@@ -329,7 +329,7 @@ Endothelial injury caused by these insults initiates a cascade of vascular smoot
 
 <details class="med-details"><summary>
 
-### Clinical Immunosuppressive Pharmacology in Cardiac Transplantation</summary><div class="details-content">
+### 3.2 Clinical Immunosuppressive Pharmacology in Cardiac Transplantation</summary><div class="details-content">
 
 <details class="med-details"><summary>
 
@@ -370,7 +370,7 @@ For reasons that remain unclear, self-antigens can occasionally trigger the immu
 
 <details class="med-details"><summary>
 
-### Viral and Autoimmune Pathogenesis of Myocardial Injury</summary><div class="details-content">
+### 4.1 Viral and Autoimmune Pathogenesis of Myocardial Injury</summary><div class="details-content">
 
 <details class="med-details"><summary>
 
@@ -398,7 +398,7 @@ This primary necrosis results in exposure of cryptic antigens that are recognize
 
 <details class="med-details"><summary>
 
-### Evidence-Based Immunosuppression and Checkpoint Inhibitor Myocarditis</summary><div class="details-content">
+### 4.2 Evidence-Based Immunosuppression and Checkpoint Inhibitor Myocarditis</summary><div class="details-content">
 
 <details class="med-details"><summary>
 
@@ -419,6 +419,10 @@ Clinically, treatment of myocarditis does not routinely use immunosuppression, s
 Recently, the rising use of immune checkpoint inhibitors for the treatment of solid tumors has also given rise to T-cell–mediated myocarditis in < 1% of patients. Despite treatment with high-dose immunosuppressive therapy, almost half of these patients suffer major adverse cardiovascular events including cardiovascular death, cardiogenic shock, cardiac arrest, and hemodynamically significant complete heart block.
 
 The clinical management of immune checkpoint inhibitor myocarditis requires heightened clinical suspicion, urgent diagnostic confirmation with cardiac biomarkers and advanced imaging, and immediate implementation of aggressive immunosuppressive therapy.
+
+<span id="diag-07-01"></span>
+
+### DIAGRAM 7.1: Immune Checkpoint Inhibitor (ICI) Myocarditis: Pathology & Clinical Escalation
 
 <svg viewBox="0 0 1000 680" style="width:100%; max-width:1000px; height:auto; display:block; margin:20px auto; background:#0f172a; border-radius:12px; border:1px solid #1e293b; font-family:system-ui, -apple-system, sans-serif;" xmlns="http://www.w3.org/2000/svg">
   <defs>
@@ -513,7 +517,7 @@ Emerging research has identified additional upstream triggers that interface dir
 
 <details class="med-details"><summary>
 
-### Complement Cascade in Vascular Injury</summary><div class="details-content">
+### 5.1 Complement Cascade in Vascular Injury</summary><div class="details-content">
 
 <details class="med-details"><summary>
 
@@ -529,7 +533,7 @@ Yet, anticomplement strategies have not proven productive in the clinical manage
 
 <details class="med-details"><summary>
 
-### Clonal Hematopoiesis of Indeterminate Potential (CHIP)</summary><div class="details-content">
+### 5.2 Clonal Hematopoiesis of Indeterminate Potential (CHIP)</summary><div class="details-content">
 
 <details class="med-details"><summary>
 
@@ -567,7 +571,7 @@ Many of the triggers to innate immune responses delineated above activate centra
 
 <details class="med-details"><summary>
 
-### Nuclear Factor Kappa B (NF-κB) Signaling Architecture</summary><div class="details-content">
+### 6.1 Nuclear Factor Kappa B (NF-κB) Signaling Architecture</summary><div class="details-content">
 
 <details class="med-details"><summary>
 
@@ -583,7 +587,7 @@ The details of NF-κB activation and signaling have undergone extensive analysis
 
 <details class="med-details"><summary>
 
-### The NLRP3 Inflammasome: Master Sensor of Metabolic Danger</summary><div class="details-content">
+### 6.2 The NLRP3 Inflammasome: Master Sensor of Metabolic Danger</summary><div class="details-content">
 
 <details class="med-details"><summary>
 
@@ -604,6 +608,10 @@ While various types of inflammasomes act as hubs of inflammatory signaling, the 
 #### Therapeutic Inhibition of the NLRP3 Inflammasome Cascade</summary><div class="details-content">
 
 Targeting the inflammasome has given rise to new potential antiinflammatory strategies in development currently. By inhibiting the assembly or activation of this supramolecular hub, pharmacotherapy can selectively blunt the maturation of IL-1β and IL-18 without necessarily disabling other arms of innate immunity.
+
+<span id="diag-07-02"></span>
+
+### DIAGRAM 7.2: The NLRP3 Inflammasome to IL-1β to IL-6 to CRP Inflammatory Axis & Therapeutic Targets
 
 <svg viewBox="0 0 1000 680" style="width:100%; max-width:1000px; height:auto; display:block; margin:20px auto; background:#0f172a; border-radius:12px; border:1px solid #1e293b; font-family:system-ui, -apple-system, sans-serif;" xmlns="http://www.w3.org/2000/svg">
   <defs>
@@ -722,7 +730,7 @@ Targeting the inflammasome has given rise to new potential antiinflammatory stra
 
 <details class="med-details"><summary>
 
-### Kruppel-Like Factors (KLFs) and Statin Pleiotropy</summary><div class="details-content">
+### 6.3 Kruppel-Like Factors (KLFs) and Statin Pleiotropy</summary><div class="details-content">
 
 <details class="med-details"><summary>
 
@@ -746,7 +754,7 @@ Thus, statins can have "pleiotropic" antiinflammatory effects that do not depend
 
 <details class="med-details"><summary>
 
-### Epigenetic Regulation of Vascular Inflammation</summary><div class="details-content">
+### 6.4 Epigenetic Regulation of Vascular Inflammation</summary><div class="details-content">
 
 <details class="med-details"><summary>
 
@@ -780,7 +788,7 @@ The central hubs of inflammatory signaling delineated above influence the expres
 
 <details class="med-details"><summary>
 
-### Leukocyte Recruitment and Vascular Adhesion Cascades</summary><div class="details-content">
+### 7.1 Leukocyte Recruitment and Vascular Adhesion Cascades</summary><div class="details-content">
 
 <details class="med-details"><summary>
 
@@ -822,7 +830,7 @@ Leukocyte adhesion inhibitors have failed to improve ischemia reperfusion injury
 
 <details class="med-details"><summary>
 
-### Modified Lipids, Phospholipases, and Foam Cell Biology</summary><div class="details-content">
+### 7.2 Modified Lipids, Phospholipases, and Foam Cell Biology</summary><div class="details-content">
 
 <details class="med-details"><summary>
 
@@ -848,7 +856,7 @@ Rigorous clinical studies however have not substantiated improvement in cardiova
 
 <details class="med-details"><summary>
 
-### Extracellular Matrix Remodeling and Proteinases</summary><div class="details-content">
+### 7.3 Extracellular Matrix Remodeling and Proteinases</summary><div class="details-content">
 
 <details class="med-details"><summary>
 
@@ -874,7 +882,7 @@ A large literature implicates proteinases including the MMPs and certain catheps
 
 <details class="med-details"><summary>
 
-### Bioactive Lipid Mediators: Prostanoids, Leukotrienes, and Resolvins</summary><div class="details-content">
+### 7.4 Bioactive Lipid Mediators: Prostanoids, Leukotrienes, and Resolvins</summary><div class="details-content">
 
 <details class="med-details"><summary>
 
@@ -910,7 +918,7 @@ Whether achievable concentrations of these proresolving mediators will permit bo
 
 <details class="med-details"><summary>
 
-### Therapeutic Modulation of Adaptive Immunity</summary><div class="details-content">
+### 7.5 Therapeutic Modulation of Adaptive Immunity</summary><div class="details-content">
 
 <details class="med-details"><summary>
 
@@ -944,7 +952,7 @@ Clinical investigation of targeted anti-inflammatory agents in cardiovascular di
 
 <details class="med-details"><summary>
 
-### The CANTOS Trial: Proof of Concept for Targeted Cytokine Inhibition</summary><div class="details-content">
+### 8.1 The CANTOS Trial: Proof of Concept for Targeted Cytokine Inhibition</summary><div class="details-content">
 
 <details class="med-details"><summary>
 
@@ -984,7 +992,7 @@ Although a slight increase in fatal infections occurred in CANTOS, a striking re
 
 <details class="med-details"><summary>
 
-### Alternate Cytokine and Targeted Interventions</summary><div class="details-content">
+### 8.2 Alternate Cytokine and Targeted Interventions</summary><div class="details-content">
 
 <details class="med-details"><summary>
 
@@ -1030,7 +1038,7 @@ The plethora of proinflammatory cytokines, in the context of the success of CANT
 
 <details class="med-details"><summary>
 
-### Non-Targeted Anti-Inflammatory Trials: CIRT and Methotrexate</summary><div class="details-content">
+### 9.1 Non-Targeted Anti-Inflammatory Trials: CIRT and Methotrexate</summary><div class="details-content">
 
 <details class="med-details"><summary>
 
@@ -1046,7 +1054,7 @@ The population enrolled in CIRT did not have baseline elevation in inflammation 
 
 <details class="med-details"><summary>
 
-### The Interleukin-1β to Interleukin-6 Inflammatory Axis as a Therapeutic Frontier</summary><div class="details-content">
+### 9.2 The Interleukin-1β to Interleukin-6 Inflammatory Axis as a Therapeutic Frontier</summary><div class="details-content">
 
 <details class="med-details"><summary>
 
@@ -1086,7 +1094,7 @@ Although one might be concerned about upstream inhibition of IL-1β and IL-18 ma
 
 <details class="med-details"><summary>
 
-### Biomarker-Guided Precision Cardiovascular Medicine</summary><div class="details-content">
+### 9.3 Biomarker-Guided Precision Cardiovascular Medicine</summary><div class="details-content">
 
 <details class="med-details"><summary>
 
@@ -1110,7 +1118,7 @@ Biomarker studies could also validate target engagement. Finally, the use of bio
 
 <details class="med-details"><summary>
 
-### Summary Paradigm of Cardiovascular Immunotherapy</summary><div class="details-content">
+### 9.4 Summary Paradigm of Cardiovascular Immunotherapy</summary><div class="details-content">
 
 <details class="med-details"><summary>
 

@@ -1,493 +1,1001 @@
-# Drugs for Pulmonary Hypertension
+# 11. Drugs for Pulmonary Hypertension
 
-STEPHEN Y. CHAN • MICHAEL V. GENUARDI
+##### Stephen Y. Chan, MD, PhD • Michael V. Genuardi, MD, MS
 
-# Drug Class Overview and Guidelines
+##### Pulmonary arterial hypertension (PAH) represents a rare, devastating, and biologically complex syndrome characterized by progressive obliterative remodeling of the distal precapillary pulmonary arterial tree. This pathological vascular proliferation leads to unrelenting increases in pulmonary vascular resistance (PVR) and pulmonary arterial pressure, ultimately culminating in right ventricular (RV) hypertrophy, RV dilatation, decompensated right heart failure, and premature death.
 
-Pulmonary arterial hypertension (PAH) is a rare, heterogenous family of disease states marked by pathologic remodeling of the pulmonary vascular system, leading to increased pulmonary artery pressure and ultimately right ventricular failure, hypoxia, and death.1 Unlike the majority of pulmonary hypertension in the United States, which is secondary to either chronic lung disease or chronic left ventricular dysfunction,2,3 PAH is thought to be a primary disease of the vasculature itself, triggered by an array of etiologic agents, including connective tissue disease, drugs or toxins, infections, genetic triggers among others, or is idiopathic in approximately 40% of cases.4,5
+##### Historically viewed as a rapidly fatal condition lacking effective therapeutic options, the management of PAH has undergone an extraordinary revolution over the past three decades. The elucidation of three core pathobiological pathways—the nitric oxide (NO) pathway, the endothelin-1 (ET-1) pathway, and the prostacyclin ($\text{PGI}_2$) pathway—has spurred the development of more than 14 regulatory-approved pharmacotherapies spanning four routes of administration. Today, clinical management has evolved from empirical monotherapy to early, aggressive, multi-pathway combination therapy guided by rigorous multiparametric risk stratification.
 
-# Pathobiology of Pulmonary Arterial Hypertension
+<details class="med-details"><summary>
 
-Historically neglected due to its relatively rare prevalence, insights into the pathophysiology of PAH have led to a steady influx therapies for patients over the past two decades. Most of these therapies that primarily work by specific pulmonary vasodilation have been developed based on a now classical view of PAH characterized by a mismatch between vasodilatory and vasoconstrictive molecules in the pulmonary arteriolar tree. An important vasodilator, nitric oxide (NO), has long been identified as a key regulatory molecule in PAH.<sup>6</sup> NO is decreased in the pulmonary artery endothelial cells (PAECs) of diseased patients. A lack of NO triggers both loss of vasorelaxation mediated by cyclic guanosine monophosphate (cGMP) as well as smooth muscle cell proliferation.7,8 Endothelin-1 (ET-1), a vasoconstricting small peptide is a second molecule implicated in PAH pathobiology. ET-1 has been shown to be overexpressed in PAECs of PAH patients.9,10 Prostacyclin, a potent vasodilatory prostanoid, is a third important vasoactive small molecule. Prostacyclin, via cyclic adenosine monophosphate (cAMP), normally vasodilates smooth muscle cells but is decreased in afflicted patients. <sup>11</sup>
+## Executive Summary</summary><div class="details-content">
 
-Most of the mainstays of modern PAH pharmacologic therapy operate via one of the pathways previously discussed. More recently, discoveries in the basic science of the disease are driving interest in new drug classes aimed at targeting the disordered and proliferative aspects of diseased arterioles in PAH. Development of these drugs are in various stages of implementation.
+### Triple Pathobiological Paradigm of Pulmonary Arterial Hypertension
+* **Nitric Oxide (NO) - sGC - cGMP Pathway (Vasodilatory / Anti-proliferative Deficit):** Reduced endothelial NO synthase (eNOS) activity leads to diminished cyclic guanosine monophosphate (cGMP). Restored by phosphodiesterase type-5 (PDE-5) inhibitors (Sildenafil, Tadalafil) and direct soluble guanylate cyclase (sGC) stimulators (Riociguat).
+* **Endothelin-1 Pathway (Vasoconstrictive / Pro-proliferative Excess):** Overexpression of endothelin-1 (ET-1) drives intense vasoconstriction, vascular smooth muscle hypertrophy, adventitial fibrosis, and endothelial cell proliferation via $\text{ET}_A$ and $\text{ET}_B$ receptors. Blocked by endothelin receptor antagonists (ERAs: Bosentan, Ambrisentan, Macitentan).
+* **Prostacyclin ($\text{PGI}_2$) Pathway (Vasodilatory / Anti-thrombotic Deficit):** Subnormal vascular $\text{PGI}_2$ synthesis leads to deficient cyclic adenosine monophosphate (cAMP), loss of vasorelaxation, and in situ thrombosis. Restored by synthetic prostacyclin analogues (Epoprostenol IV, Treprostinil IV/SC/Inhaled/Oral, Iloprost Inhaled) and oral non-prostanoid IP receptor agonists (Selexipag).
 
-# **Updates in the Clinical Classification of PAH**
+### Modern Clinical Practice Mandates
+* **Hemodynamic Diagnostic Criteria (WSPH 6th Symposium):** Precapillary pulmonary hypertension is rigorously defined as a resting mean pulmonary artery pressure ($\text{mPAP}$) $>20\text{ mmHg}$, pulmonary arterial wedge pressure ($\text{PAWP}$) $\le 15\text{ mmHg}$, and pulmonary vascular resistance ($\text{PVR}$) $>3\text{ Wood units (WU)}$ ($>240\text{ dyn}\cdot\text{s}\cdot\text{cm}^{-5}$) on baseline right heart catheterization.
+* **Acute Vasoreactivity Testing:** Indicated in all patients with idiopathic, heritable, or drug-induced PAH. A positive response ($\Delta\text{mPAP} \ge 10\text{ mmHg}$ to an absolute $\text{mPAP} \le 40\text{ mmHg}$ with stable/increased cardiac output) identifies the $<10\%$ of patients who achieve dramatic, long-term survival benefits from high-dose Calcium Channel Blockers (CCBs).
+* **Upfront Dual Oral Combination Therapy:** Standard of care for treatment-naïve patients presenting at low or intermediate risk (WHO FC II or III). The AMBITION trial established that upfront combination of ambrisentan plus tadalafil reduces the risk of clinical failure by 50% compared to pooled monotherapy.
+* **Upfront Triple Therapy with Parenteral Prostacyclin for High Risk:** Treatment-naïve patients presenting at high risk (WHO FC IV, severe RV dysfunction, syncope, cardiac index $<2.0\text{ L/min/m}^2$, right atrial pressure $>14\text{ mmHg}$) mandate immediate initiation of continuous intravenous epoprostenol or subcutaneous treprostinil combined with an ERA and a PDE-5 inhibitor, alongside urgent evaluation for bilateral lung transplantation.
+* **Lethal Drug Interaction Warning:** The combination of Riociguat (sGC stimulator) with PDE-5 inhibitors (Sildenafil, Tadalafil) or nitrates is **ABSOLUTELY CONTRAINDICATED** due to life-threatening, refractory systemic hypotension and syncope.
 
-The World Health Organization (WHO) organized the first World Symposium on Pulmonary Hypertension (WSPH) in 1973. 12 Since that time, pulmonary hypertension has been invariably defined as a mean pulmonary artery pressure (mPAP) ≥25 mmHg. PAH, or WHO group 1 disease, requires not only mPAP >25 mmHg but also the presence of precapillary pulmonary hypertension with pulmonary vascular resistance >3 Wood units in the absence of alternative causes of precapillary disease such as chronic thromboembolic disease, lung disease, or select rare other causes not considered to be group 1 etiologic agents. At the sixth WSPH in 2018, however, the definition of pulmonary hypertension and PAH was changed. It is now recommended that a lower mPAP cutoff of >20 mmHg now be used to define pulmonary hypertension and PAH. 13 This change was made to better reflect the understanding that the typical upper limit of normal for mPAP is lower than the traditional 25 mmHg as endorsed by the older definition 14 and mPAP >20 mmHg is associated with worse clinical outcomes. As of this writing, the American Heart Association and American College of Cardiology PAH guidelines have not been revised to reflect the new WHO-endorsed position.<sup>15</sup> It is also unclear whether this new definition should drive the use of pulmonary vasodilator drugs in this population of formerly "borderline" PAH patients.
+</div></details>
 
-In addition to the change in PAH definition, three new oral agents have become available for treatment of PAH since 2013. Riociguat is a first-in-class soluble guanylate cyclase (sGC) stimulator that was approved in 2013. Riociguat achieves its augmented vasodilation via the NO-cGMP pathway. Later that same year, the United States Food and Drug Administration (FDA) approved an oral form of the prostanoid treprostinil (treprostinil diolamine) for use in PAH patients. Finally, in 2015, selexipag, a nonprostanoid oral prostacyclin (PGI<sub>2</sub>) receptor (IP receptor) agonist, was approved for use to delay disease progression and reduce risk of hospitalization in PAH.
+<details class="med-details"><summary>
 
-# Currently Available/Approved Drug Classes
+## 1. Overview of Pulmonary Arterial Hypertension: Definitions, Classification, and Pathobiology</summary><div class="details-content">
 
-## History and the Modern Era of PAH Therapy
+Pulmonary hypertension (PH) is an overarching hemodynamic state encompassing diverse cardiopulmonary and systemic disorders characterized by abnormal elevation of pulmonary arterial pressure.
 
-"I would comment now upon the clinical picture of pure right ventricular failure. Usually one sees it secondary to failure of the left side, or the case is one of mitral disease with embarrassment of the pulmonary circulation... It is rare in my experience to witness such a pure and rapidly progressive failure of the right ventricle."
+<details class="med-details"><summary>
 
-— Dr. Terence East, London, 1940, describing a series of three young women with rapidly fatal PAH.<sup>16</sup>
+### 1.1 Updated Hemodynamic Definitions and the Sixth World Symposium Consensus</summary><div class="details-content">
 
-PAH was traditionally an invariably progressive and often fatal condition. Although it remains incurable (except by lung transplantation), PAH has become viewed in more recent years a more manageable chronic condition that can be marked by long periods of clinical stability. This is in large part due to the number of agents now available for patients with PAH and the expansion of dedicated PAH comprehensive care centers with expert multidisciplinary teams dedicated to this disease.
+For nearly half a century following the first World Symposium on Pulmonary Hypertension (WSPH) in 1973, pulmonary hypertension was universally defined as a resting mean pulmonary artery pressure ($\text{mPAP}$) $\ge 25\text{ mmHg}$ measured by right heart catheterization (RHC).
 
-The modern era of PAH therapy began in the mid-1990s with the remarkable success of intravenous prostacyclin. In a landmark 1996 study including 81 patients with PAH followed for only 12 weeks, intravenous epoprostenol was associated with a reduction in pulmonary vascular resistance, 6-minute walk test (6MWT) distance, and mortality—100% of epoprostenol patients were alive at study end versus 80% in the control group.17 Prior to the epoprostenol era, registry data of patients with idiopathic PAH showed a 1-year and 5-year survival of 68% and 34%, respectively.18,19 These figures have slowly improved over the years. Over a decade later, results from the Registry to Evaluate Early and Long-term Pulmonary Arterial Hypertension Disease Management (REVEAL Registry) showed that the 1- and 5-year survival for idiopathic PAH patients had improved to 91% and 65%, respectively.20
+* **The Lowered Threshold ($\text{mPAP} > 20\text{ mmHg}$):** In 2018, the Sixth WSPH revised the diagnostic criteria, reducing the threshold for pulmonary hypertension to **$\text{mPAP} > 20\text{ mmHg}$**. Extensive epidemiological and physiological data from healthy individuals established that the normal resting mPAP is $14.0 \pm 3.3\text{ mmHg}$, with an upper limit of normal ($2\text{ SD}$) of $20\text{ mmHg}$. Furthermore, large clinical registries demonstrated that patients with "borderline" mPAP values between 21 and 24 mmHg suffer heightened mortality, accelerated cardiovascular hospitalizations, and elevated risk of progression to overt disease.
+* **Rigorous Tripartite Definition of Precapillary PAH (WHO Group 1):** To prevent misclassifying patients with high cardiac output states or left heart elevation, a definitive diagnosis of PAH strictly mandates:
+  1. Mean pulmonary artery pressure: **$\text{mPAP} > 20\text{ mmHg}$**;
+  2. Pulmonary arterial wedge pressure (PAWP): **$\text{PAWP} \le 15\text{ mmHg}$**;
+  3. Pulmonary vascular resistance: **$\text{PVR} > 3\text{ Wood units}$** ($>240\text{ dyn}\cdot\text{s}\cdot\text{cm}^{-5}$).
 
-## Prostanoids
+</div></details>
 
-The first truly efficacious therapy in PAH, the prostanoid class of medications has now grown to include medications available in four routes of administration: intravenous, subcutaneous, inhaled, and oral.
+<details class="med-details"><summary>
 
-Approved in 1996 on the basis of the randomized trial described previously, epoprostenol is the prototypical example of a vasodilatory agent used in PAH. Available only in intravenous formulation, epoprostenol has two available preparations: Flolan and Veletri, the latter designed to have enhanced room temperature stability.
+### 1.2 Clinical Classification of Pulmonary Hypertension (WHO Groups 1–5)</summary><div class="details-content">
 
-Treprostinil is a synthetic prostanoid that is now available for use intravenously or subcutaneously (Remodulin), via inhalation (Tyvaso), or orally (Orenitram). Like epoprostenol, treprostinil is a potent pulmonary vasodilator. It is distinguished from epoprostenol by its much longer half-life (4 hours versus 2.7 minutes for epoprostenol) and greater flexibility with respect to route of administration
+The World Health Organization (WHO) categorizes pulmonary hypertension into five distinct pathophysiological groups:
 
-Approved in 2004, and only available in inhaled formation, *Iloprost* is the third currently available prostanoid for the treatment of PAH. It is marketed under the trade name Ventavis.
+* **Group 1: Pulmonary Arterial Hypertension (PAH):** Primary vasculopathy of small pulmonary arterioles ($<500\,\mu\text{m}$). Includes Idiopathic PAH (IPAH, ~ 40%), Heritable PAH (HPAH, associated with *BMPR2*, *ALK1*, *ENG*, *SMAD9*, *KCNK3*, *CAV1*, *TBX4* mutations), Drug- and toxin-induced PAH (methamphetamines, dasatinib, anorexigens [aminorex, fenfluramine]), and PAH associated with connective tissue diseases (CTD, especially systemic sclerosis), congenital heart disease with systemic-to-pulmonary shunts, portal hypertension (portopulmonary hypertension), and HIV infection.
+* **Group 2: Pulmonary Hypertension Secondary to Left Heart Disease:** The most prevalent form of PH in clinical practice ($>65\%$). Driven by passive retrogradely transmitted pulmonary venous hypertension from heart failure with preserved ejection fraction (HFpEF), heart failure with reduced ejection fraction (HFrEF), or left-sided valvular disease (mitral or aortic stenosis/regurgitation). Hemodynamically characterized by **$\text{PAWP} > 15\text{ mmHg}$** (postcapillary PH). **PAH-specific targeted vasodilators are NOT approved for Group 2 PH and can cause fatal pulmonary edema.**
+* **Group 3: Pulmonary Hypertension Secondary to Lung Diseases and/or Hypoxia:** Chronic obstructive pulmonary disease (COPD), idiopathic pulmonary fibrosis (IPF), sleep-disordered breathing, and chronic high-altitude exposure. Characterized by precapillary PH with hypoxic pulmonary vasoconstriction and capillary bed destruction.
+* **Group 4: Chronic Thromboembolic Pulmonary Hypertension (CTEPH):** Persistent, organized, fibrotic thromboembolic obstruction of elastic and muscular pulmonary arteries following acute or unrecognized pulmonary embolism. Evaluated with ventilation-perfusion ($\text{V/Q}$) scanning. Curable with pulmonary endarterectomy (PEA) or treatable with balloon pulmonary angioplasty (BPA) and riociguat.
+* **Group 5: Pulmonary Hypertension with Unclear or Multifactorial Mechanisms:** Hematologic disorders (myeloproliferative disorders, chronic hemolytic anemia, splenectomy), systemic disorders (sarcoidosis, pulmonary Langerhans cell histiocytosis), metabolic disorders (glycogen storage diseases, Gaucher disease), and chronic renal failure on hemodialysis.
 
-While not a true prostanoid by molecular structure, *Selexipag* (Uptravi) is an IP receptor antagonist, administered orally, and approved for use since 2015.
+</div></details>
 
-#### **Endothelin Receptor Antagonists (ERAs)**
+<details class="med-details"><summary>
 
-With action against the ET-1 receptor, there are three ERAs currently available for use: *bosentan* (Tracleer), *ambrisentan* (Letaris), and *macitentan* (Opsumit). All are oral agents and have been proven efficacious in improving hemodynamics and symptoms in PAH.
+### 1.3 Pathobiology of the Distal Pulmonary Vasculature in PAH</summary><div class="details-content">
 
-## Phosphodiesterase Type 5 Inhibitors (PDE-5is)
+The hallmark of PAH is progressive concentric luminal narrowing, muscularization of non-muscular precapillary arterioles, in situ microvascular thrombosis, adventitial fibrosis, and the development of pathognomonic **plexiform lesions** (disorganized glomeruloid endothelial and myofibroblastic proliferations).
 
-Orally taken, the PDE-5is vasodilate the pulmonary circulation via augmentation of the cGMP pathway. Two agents are available for use in the US, *sildenafil* (Revatio) and *tadalafil* (Adcirca). Vardenafil has been studied for use in a PAH population but is not approved for use in PAH by the FDA.
+* **The Endothelial-Smooth Muscle Signaling Defect:** Under physiological conditions, healthy pulmonary artery endothelial cells (PAECs) generate vasodilatory, antiproliferative, and antithrombotic mediators (NO and $\text{PGI}_2$) that hold vascular smooth muscle cell (PASMC) tone and growth in check. In PAH, PAECs undergo phenotypic transition, apoptosis-resistance, and hyperproliferation, with severe suppression of eNOS and prostacyclin synthase, accompanied by dramatic overproduction of the potent vasoconstrictor and mitogen endothelin-1.
 
-Closely related to PDE-5is are the sGC stimulators, of which the recently approved oral agent *riociguat* (Adempas) is the only approved agent.
+<span id="fig-11-01"></span>
 
-#### Calcium Channel Blockers (CCBs)
-
-Off-label use of CCBs, particularly *diltiazem* and *niledipine*, and occasionally *amlodipine*, has long had a role in PAH, specifically in those with a positive vasoreactivity study on right heart catheterization. To perform such a study, an operator with experience in PAH would place a pulmonary artery catheter in position, then administer a vasodilator, typically inhaled NO, intravenous epoprostenol, adenosine, or sodium nitroprusside. A drop in mPAP of  $\geq \! 10 \, \text{mmHg}$  to a mPAP of  $\leq \! 40 \, \text{mmHg}$  with stable cardiac output is defined as a positive vasoreactivity test. Approximately 5%–10% of treatment naïve patients will have a positive vasoreactivity test—a figure that may be higher in idiopathic PAH patients.  $^{22-24}$  A 2010 analysis of approximately 2400 registry patients showed that 8.7% took CCBs specifically for PAH, a number that is consistent with the expected prevalence of positive vasoreactivity studies.  $^{25}$ 
-
-## Guidelines
-
-#### Rationale and General Principles
-
-In general, more aggressive therapy, including parental medications, is reserved for patients with more advanced and higher-risk disease. Correctly matching PAH therapy to a patient requires a careful and complete physiologic and historical assessment. Diligent evaluation of PAH patients, both at index presentation and longitudinally, is essential. The most important historical element is the patient's level of functioning. Often referred to as the WHO functional class (FC), it is modeled on the frequently used New York Heart Association functional status.26 Briefly, FC I patients have no functional limitation. FC II patients have a slight impairment in physical activity, where ordinary causes symptoms such as dyspnea, chest pain, fatigue, or presyncope. FC III patients recall symptoms with less than ordinary daily activity, and FC IV patients are either symptomatic at rest, often with signs of overt right heart failure.
-
-Patients with PAH often suffer from delayed diagnosis, meaning it is not unusual for PAH patients to first present with severe disease and advanced symptoms. In one study, a series of retrospective interviews with PAH patients revealed that patients averaged 5.3 general practitioner visits and 3.0 specialist visits prior to being seen in a PAH referral center—a process that took 47 months on average.<sup>27</sup> In REVEAL, 61% of patients were FC III at the time of diagnostic right heart catheterization and 12% suffered from FC IV.<sup>25</sup>
-
-Initial workup of PAH will include detailed history and physical examination to determine the WHO functional class and assess for signs of right ventricular failure, including syncope, ascites, and edema. An electrocardiogram and echocardiogram are included in the initial evaluation of all patients.28 At times, cardiac magnetic resonance imaging (MRI) can be helpful in quantifying the level of right ventricular dysfunction.29–<sup>31</sup> In patients in whom initial evaluation raises concern for PAH, and in patients with established disease but a change in clinical status, a right heart catheterization is required.1,15
-
-### Risk Stratification
-
-The evaluation of the PAH patient should allow for risk stratification. Patients with more significant functional limitation are higher risk. In addition, patients with so-called "sentinel events" such as hospital admission, intensification of PAH therapy, decrease in 6MWT distance by 15%, or worsening WHO FC should be given heightened scrutiny, as these morbidity events have been shown to be predictive of incident mortality.32
-
-The 2015 European Society of Cardiology/European Respiratory Society (ESC/ERS) guidelines proposed a simple low/ moderate/high risk framework based on history, laboratory, and hemodynamic assessment (Table 11.1). Patients in the highest risk category should be considered for aggressive escalation of therapy.
-
-## Patients With Positive Vasoreactivity Studies
-
-Guidelines support vasoreactivity testing during right heart catheterization in select patients with an initial diagnosis of PAH.1,15,33 Contraindications include low blood pressure, reduced cardiac output, a diagnosis of pulmonary vasoocclusive disease, or pulmonary capillary hemangiomatosis (PVOD or PCH), as these patients may not tolerate an acute vasodilator challenge. Patients with FC IV would not be candidates for a trial of CCB even if vasoreactivity test were positive; therefore, it is of questionable utility to proceed with such testing in these patients.
-
-For the 5%–10% of patients who do respond to vasodilator challenge and have FC II or III symptoms, current guidelines suggest a trial of CCB as initial therapy, with early repeat catheterization in 3 months to assess for response. Required doses are typically high; up to 240mg for nifedipine, 20mg for amlodipine, and 720mg for diltiazem. Verapamil is not typically used or recommended for use in this indication, mostly over concern (perhaps based more on experience than data34) that verapamil is more potent negative inotrope than the other CCBs, including diltiazem.
-
-Multiple concerns have been voiced for the use of long-term CCB in the PAH population. Most acutely, there is concern for the lack of direct evidence of benefit in the modern vasodilator therapy era, along with the theoretical risk of worsening inotropy on high-dose CCBs.22,23
-
-## Asymptomatic Patients
-
-Patients without symptoms (WHO FC I) at diagnosis represent a rare clinical scenario. Current guidelines suggest close monitoring for the development of symptoms while withholding active therapy.<sup>33</sup> In such cases, careful examination, history, and functional testing may be required to determine if patients are truly asymptomatic. Occasionally, cardiopulmonary exercise testing, either invasive or noninvasive, may be considered to provide an objective assessment of severity of functional limitation and may be of use in borderline cases.<sup>35</sup>
-
-#### Initial Combination Therapy
-
-From the early 1990s until 2004, all PAH clinical drug trials tested single drug regimens against placebo or alternatives.<sup>36</sup> It was not
-
-**Table 11.1** 
-
-# Low/moderate/high risk assessment framework for patients with pulmonary arterial hypertension
-
-| Risk category est. 1-year mortality                | Low <5%                         | Moderate 5%-10%                                   | High >10%                                  |
-|----------------------------------------------------|---------------------------------|---------------------------------------------------|--------------------------------------------|
-| Clinical signs of right heart failure <sup>a</sup> | Absent                          | Absent                                            | Present                                    |
-| Progression of symptoms                            | Stable symptoms                 | Slow                                              | Rapid                                      |
-| Syncope                                            | Absent                          | Occasional; orthostatic<br>or with heavy exercise | Frequent; especially with minimal activity |
-| Functional class <sup>b</sup>                      | I, II                           | III                                               | IV                                         |
-| 6-minute walk test distance                        | >440 m                          | m                                         | <165 m                                     |
-| CPET                                               |                                 |                                                   |                                            |
-| Peak VO <sub>2</sub>                               | >15 mL/min/kg                   | 11–15 mL/min/kg                                   | <11 mL/kg/min                              |
-| % Predicted                                        | >65% predicted                  | 35%-65% predicted                                 | <35% predicted                             |
-| VE/CO <sub>2</sub> slope                           | <36                             | 36–45                                             | ≥45                                        |
-| BNP level                                          | <50 ng/L                        | ng/L                                       | >300 ng/L                                  |
-| NT-pro BNP level                                   | <300 ng/L                       | 300–1400 ng/L                                     | >1400 ng/L                                 |
-| Imaging                                            | RA area <18 cm <sup>2</sup>     | RA area 18–26 cm <sup>2</sup>                     | RA area >26 cm <sup>2</sup>                |
-|                                                    | No pericardial effusion         | Trivial pericardial effusion                      | Pericardial effusion                       |
-| Hemodynamics                                       | ·                               | •                                                 |                                            |
-| RA pressure                                        | <8mmHg                          | 8–14 mmHg                                         | >14 mmHg                                   |
-| Cardiac index                                      | $\geq$ 2.5 L/min/m <sup>2</sup> | 2.0–2.4 L/min/m <sup>2</sup>                      | <2.0 L/min/m <sup>2</sup>                  |
-| Mixed venous SvO <sub>2</sub>                      | >65%                            | 60%–65%                                           | <60%                                       |
-
-CPET. Cardiopulmonary exercise test: BNP, brain natriuretic peptide: RA, right atrium.
-
-<sup>&</sup>lt;sup>a</sup>Signs of right heart failure include peripheral edema, hepatic congestion, decreased urine output, and ascites.
-
-<sup>&</sup>lt;sup>b</sup>Functional class I: no limitations; II: symptoms with ordinary activity; III: symptoms with less than ordinary activity; IV: symptoms with any activity or at rest.
-
-Adapted from Galiè N, Humbert M, Vachiery JL, et al. 2015 ESC/ERS Guidelines for the diagnosis and treatment of pulmonary hypertension: The Joint Task Force for the Diagnosis and Treatment of Pulmonary Hypertension of the European Society of Cardiology (ESC) and the European Respiratory Society (ERS): Endorsed by: Association for European Paediatric and Congenital Cardiology (AEPC), International Society for Heart and Lung Transplantation (ISHLT). Eur Heart J 2016:37:67–119.
-
-until the BREATHE-2 trial, which compared epoprostenol plus bosentan to epoprostenol plus placebo in patients with WHO FC III or IV, that initial combination therapy was rigorously tested. Although it did not show significant difference in hemodynamics or clinical status, BREATHE-2 was an important first step toward initial combination therapy in treatment naïve individuals, and led the way for the AMBITION trial, published in 2015. Comprised of patients with WHO FC II and III on no current PAH therapy, AMBITION was a three-armed protocol that randomized patients to ambrisentan plus tadalafil combination therapy or to each drug (plus placebo) alone. In contrast to BREATHE-2, AMBITION showed a marked reduction in a combined clinical endpoint of all-cause mortality, PAH hospitalization, and disease progression.
-
-The 2015 ESC/ERS guidelines make no value judgment on starting combination therapy versus monotherapy in treatment naïve patients presenting with FC II or III, <sup>1</sup> citing the possible benefit of combination therapy seen in AMBITION but also the potential for increased drug interactions and side effects with upfront combination therapy. In contrast, the 2019 update to the American College of Chest Physicians (ACCP) guideline now recommends initial combination ambrisentan plus tadalafil for patients with FC II and III, <sup>33</sup> reflecting the advancing acceptance of the overall benefit profile of upfront combination therapy. This represents a change from the 2014 guidelines <sup>39</sup> and is given a grade of weak recommendation with moderate quality of evidence. Tables 11.2<sup>1,40</sup> and 11.3 outline selected regimens for initial combination therapy as supported by current guidelines and expert consensus.
-
-## **Initial Monotherapy**
-
-Starting monotherapy in treatment naïve PAH patients, then adding additional agents sequentially based on patient response and tolerability is the more traditional approach to the management of PAH—albeit a decreasingly popular choice in light of the AMBI-TION trial data. In general, patients presenting with WHO FC II or III symptoms are recommended to begin with oral therapy; parenteral therapy is reserved for WHO functional class IV patients and those with high-risk features (Table 11.4). In the 2019 ACCP guidelines, the same therapy might have several different recommendation grades for a particular WHO FC, as the guidelines' authors may provide a separate recommendation grade for multiple outcomes. For example, there may be two recommendations provided for one particular drug: one for the endpoint of improving 6MWT and one for improving functional class. The summary information in Table 11.4 records the strongest recommendation given for each drug.
-
-#### Strength of recommendation and level of evidence schema in ESC/ERS and ACCP guidelines
-
-#### European Society of Cardiology/European Respiratory Society (ESC/ERS)
-
-|           | STRENGTH OF RECOMMENDATION                                                                                                                                                                                                            |   | LEVEL OF EVIDENCE                                                                                              |  |  |  |
-|-----------|---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|---|----------------------------------------------------------------------------------------------------------------|--|--|--|
-| Class I   | Is recommended. Evidence<br>or general agreement of<br>benefit.                                                                                                                                                                       | A | Data from multiple<br>randomized controlled<br>trials.                                                         |  |  |  |
-| Class IIa | Should be considered.<br>Weight of evidence or<br>opinion is in favor of<br>usefulness.                                                                                                                                               | B | Data from a single<br>randomized controlled<br>trial or from high-quality<br>observational studies.            |  |  |  |
-| Class IIb | May be considered.<br>Usefulness/efficacy is<br>less well established                                                                                                                                                                 | C | Consensus opinion and/or<br>evidence from small<br>studies, registries, and<br>other nonrandomized<br>studies. |  |  |  |
-| Class III | Not recommended. Evidence<br>or agreement of lack of<br>efficacy or harm                                                                                                                                                              |   |                                                                                                                |  |  |  |
-|           | American College of Chest Physicians (ACCP)                                                                                                                                                                                           |   |                                                                                                                |  |  |  |
-| 1A        | Strong recommendation, high-quality evidence: Benefits clearly                                                                                                                                                                        |   | outweigh risks, evidence from multiple randomized trials or                                                    |  |  |  |
-| 1B        | overwhelming evidence from nonrandomized studies.<br>Strong recommendation, moderate quality evidence: Benefits<br>clearly outweigh risks, evidence from randomized trials with<br>limitations or high-quality nonrandomized studies. |   |                                                                                                                |  |  |  |
-| 1C        | Strong recommendation, low-quality evidence: Benefits clearly<br>outweigh risks, evidence from observational studies or case<br>series only.                                                                                          |   |                                                                                                                |  |  |  |
-| 2A        | Weak recommendation, high-quality evidence: Benefits closely<br>balanced with risks, evidence from multiple randomized<br>trials or overwhelming evidence from nonrandomized<br>studies.                                              |   |                                                                                                                |  |  |  |
-| 2B        | Weak recommendation, moderate quality evidence: Benefits<br>with limitations or high-quality nonrandomized studies.                                                                                                                   |   | closely balanced with risks, evidence from randomized trials                                                   |  |  |  |
-| 2C        | Weak recommendation, low-quality evidence: Benefits closely<br>case series only.                                                                                                                                                      |   | balanced with risks, evidence from observational studies or                                                    |  |  |  |
-| UC        | Ungraded, consensus-based statement of recommendation                                                                                                                                                                                 |   |                                                                                                                |  |  |  |
-
-Adapted from Galie` N, Humbert M, Vachiery JL, et al. 2015 ESC/ERS Guidelines for the diagnosis and treatment of pulmonary hypertension: The Joint Task Force for the Diagnosis and Treatment of Pulmonary Hypertension of the European Society of Cardiology (ESC) and the European Respiratory Society (ERS): Endorsed by: Association for European Paediatric and Congenital Cardiology (AEPC), International Society for Heart and Lung Transplantation (ISHLT). Eur Heart J. 2016;37:67–119; and Guyatt G, Gutterman D, Baumann MH, et al. Grading strength of recommendations and quality of evidence in clinical guidelines: Report From an American College of Chest physicians task force. CHEST 2006;129:174–181.
-
-Table 11.3
-
-Selected initial combination therapy for treatment naı¨ve patients with pulmonary arterial hypertension, summary of professional society guidelines
-
-| Therapy                              | WHO<br>FC | ESC/ERS,<br>20151<br>class/level of<br>evidence | ACCP, 2019<br>update33<br>grade |
-|--------------------------------------|-----------|-------------------------------------------------|---------------------------------|
-| Ambrisentan + tadalafil              | II        | 1/B                                             | 2B                              |
-|                                      | III       | 1/B                                             | 2B                              |
-|                                      | IV        | IIb/C                                           | –                               |
-| Other ERA + other PDE-5i             | II        | IIa/C                                           | –                               |
-|                                      | III       | IIa/C                                           | –                               |
-|                                      | IV        | IIb/C                                           | –                               |
-| Bosentan + sildenafil + IV           | III       | IIa/C                                           | –                               |
-| epoprostenol                         | IV        | IIa/C                                           | –                               |
-| Bosentan + IV epoprostenol           | III       | IIa/C                                           | –                               |
-|                                      | IV        | IIa/C                                           | –                               |
-| Inhaled prostanoid + PDE-5i +<br>ERA | IV        | –                                               | UCa                             |
-
-a For patients unable or unwilling to manage parenteral prostanoids.
-
-ACCP, American College of Chest Physicians; ERA, endothelin receptor antagonist; ESC/ERS, European Society of Cardiology/European Respiratory Society; PDE-5i, phosphodiesterase type 5 inhibitor; UC, ungraded consensus-based statement of recommendation; WHO FC, World Health Organization Functional Class.
-
-Several key differences exist among the presently offered expert guidelines. The ACCP currently recommends starting an intravenous or subcutaneous prostanoid (epoprostenol or treprostinil) in patients with FC IV and issue no recommendation for oral agents in this scenario. The ESC/ERS guidelines do issue recommendations for specific oral agents as monotherapy in FC IV; however, these guidelines also make a statement recommending upfront combination therapy that includes an intravenous or subcutaneous prostanoid in such patients.
-
-### Sequential Therapy
-
-For patients already started on initial monotherapy, a common strategy for treatment of PAH consists of short interval reassessment of symptoms and risk (Table 11.1) with consideration of sequential addition of therapies. This has been the approach often taken in the trial literature as well, where novel agents are often tested when added to established medications.
-
-Table 11.4
-
-Selected initial monotherapy for treatment naı¨ve patients with pulmonary arterial hypertension, summary of professional society guidelines
-
-| Therapy            | WHO<br>FC | ESC/ERS, 20151<br>Class/Level of<br>evidence | ACCP, 2019<br>Update33<br>Grade |
-|--------------------|-----------|----------------------------------------------|---------------------------------|
-| Calcium channel    | II        | 1/C                                          | UC                              |
-| blockersa          | III       | 1/C                                          | UC                              |
-| Ambrisentan        | II        | 1/A                                          | 1C                              |
-|                    | III       | 1/A                                          | 1C                              |
-|                    | IV        | IIb/C                                        | –                               |
-| Bosentan           | II        | 1/A                                          | UC                              |
-|                    | III       | 1/A                                          | 1B                              |
-|                    | IV        | IIb/C                                        | –                               |
-| Macitentan         | II        | 1/B                                          | UC                              |
-|                    | III       | 1/B                                          | UC                              |
-|                    | IV        | IIb/C                                        | –                               |
-| Sildenafil         | II        | I/A                                          | 1C                              |
-|                    | III       | I/A                                          | 1C                              |
-|                    | IV        | IIb/C                                        | –                               |
-| Tadalafil          | II        | I/B                                          | UC                              |
-|                    | III       | I/B                                          | UC                              |
-|                    | IV        | IIb/C                                        | –                               |
-| Riociguat          | II        | I/B                                          | UC                              |
-|                    | III       | I/B                                          | UC                              |
-|                    | IV        | IIb/C                                        | –<br>UCb                        |
-| Epoprostenol, IV   | III       | 1A                                           |                                 |
-|                    | IV        | 1A                                           | UC<br>UCb                       |
-| Treprostinil, IV   | III<br>IV | IIa/C<br>IIb/C                               | UC                              |
-| Treprostinil, SC   | III       | I/B                                          | UCb                             |
-|                    | IV        | IIb/C                                        | UC                              |
-| Treprostinil, oral | III       | IIb/B                                        | –                               |
-| Selexipag          | II        | I/B                                          | –                               |
-|                    | III       | I/B                                          | –                               |
-|                    |           |                                              |                                 |
-
-a Only for use in patients with a positive vasoreactivity test
-
-b In patients with WHO FC III symptoms but with rapid progression or other markers of poor prognosis
-
-ACCP, American College of Chest Physicians; ESC/ERS, European Society of Cardiology/European Respiratory Society; IV, intravenous; SC, subcutaneous; UC, ungraded, consensus-based statement of recommendation; WHO FC, World Health Organization Functional Class.
-
-In patients who continue to be symptomatic on stable doses of an ERA or PDE-5i, the addition of inhaled iloprost or inhaled treprostinil is guideline-supported. Riociguat is recommended as an addition to bosentan, ambrisentan, or inhaled prostanoid. Macitentan receives a recommendation as an addition to symptomatic patients on stable doses of a PDE-5i or inhaled prostanoid, and tadalafil as add-on therapy to ambrisentan.
-
-In practice, drugs within a class are often substituted for each other, based on side effect profiles, availability or formulary access, and cost. This is done with the presumption that class effects may be interchangeable to varying degrees, but evidence does exist regarding the specific nature of activity of single drugs independent of drug class as well.
-
-# Mechanisms of Action
-
-A mechanistic overview for important pathways of action for PAH drugs is shown in Fig. 11.1.
-
-### Prostanoids
-
-Prostanoids were first indirectly described in the 1960s upon the discovery of a vasoactive substance that was downregulated by administration of aspirin.<sup>41</sup> Prostanoids were subsequently characterized as a family of 20-carbon eicosanoids (from the Greek είκοσι—"twenty") derived from arachidonic acid via oxygenation by cyclooxygenase (COX). The prostanoid family includes PGI2, thromboxane A2, and the prostaglandins, among other molecules. Most prostanoids share a five-carbon ring base with attached fattyacid derived chains.<sup>42</sup> In the pulmonary hypertension literature, the term "prostanoid" refers almost exclusively to PGI2, or epoprostenol, and a number of synthetic stable PGI2 analogues, including treprostinil and iloprost. PGI2 was discovered in 1976, and within 5 years its use was described in a patient with idiopathic PAH.<sup>42</sup> The potent vasodilatory properties of PGI2 were recognized early on,<sup>43</sup> but a wealth of evidence now exists suggesting that beyond providing vasodilation to improve pulmonary vascular resistance, prostanoids have a wide array of other disease modifying effects.<sup>44</sup>
-
-PGI2 and its analogues bind the IP receptor on the cell surface membrane. Once engaged, the IP receptor couples the G-protein Gs and activates adenylyl cyclase, producing cyclic adenosine monophosphate (cAMP) and leading to relaxation in smooth muscle cells and antithrombosis in platelets.<sup>44</sup> Like PGI2, treprostinil engages the IP receptor, but also demonstrates strong affinity to the EP2 and DP1 cell surface receptors. Ex vivo study indicates that
+#### FIG. 11.1 Cellular Signaling Pathways and Mechanisms of Action for Targeted Pharmacotherapies in Pulmonary Arterial Hypertension
 
 ![](_page_12_Figure_1.jpeg)
 
-Fig. 11.1 Mechanisms of action for currently approved drugs for pulmonary arterial hypertension in the pulmonary artery smooth muscle cell (PASMC) and pulmonary artery endothelial cell (PAEC). Both prostanoids and prostacyclin receptor agonists engage the prostacyclin receptor (IP), which couples with the G-protein Gs to activate adenylyl cyclase (AC), thus converting adenosine triphosphate (ATP) into cyclic adenosine monophosphate (cAMP) and causing vasorelaxation via activated protein kinase A. Moreover, prostanoids may provide proapoptotic effect via upregulation of transcription of the gene Fast. Both the phosphodiesterase type 5 inhibitors (PDE-5is) and soluble guanylyl cyclase (sGC) stimulators enhance vasorelaxation via the nitric oxide-cyclic guanosine monophosphate (NO-cGMP) pathway. Stimulated sGC increases production of cGMP from guanosine triphosphate (GTP), and inhibition of PDE-5i prevents hydrolysis of cGMP to guanosine monophosphate (GMP). The endothelin receptor antagonists (ERAs) oppose the action of endothelin-1 (ET-1) on its receptors, ETA and ETB. Both endothelin receptors have mitogenic and proliferative effects in PASMCs. Additionally, vasoconstriction is promoted via the production of inositol trisphosphate (IP3) from hydrolysis of the phospholipid PIP<sub>2</sub>. In the PAEC, ET<sub>B</sub> is vasodilatory via the NO and prostacyclin (PGI<sub>2</sub>) pathways; however, the net effect of ET<sub>B</sub> activation in the pulmonary vasculature is vasoconstrictive.
+*The three classical therapeutic axes: (1) Nitric oxide (NO) stimulates soluble guanylate cyclase (sGC) to produce cGMP, which is degraded by PDE-5; (2) Endothelin-1 acts on $\text{ET}_A$ and $\text{ET}_B$ receptors to induce smooth muscle contraction and proliferation; (3) Prostacyclin binds IP receptors, activating adenylyl cyclase to synthesize cAMP.*
 
-the latter may have an increased role in dilation of pulmonary veins in addition to arteries; the clinical relevance of this finding is unclear.  $^{45}$  lloprost has also been shown to have action at the EP<sub>4</sub> receptor, an additional pathway of vasodilation.  $^{46}$  Such a finding may be important therapeutically, as there is some evidence that
+<span id="diag-11-01"></span>
 
-patients with PAH have downregulated IP receptors, perhaps reducing their susceptibility to treatment with prostacyclin/epoprostenol.  $^{47}$ 
+### DIAGRAM 11.1 Core Pathobiological Signaling Pathways & Pharmacological Targets in PAH
 
-Beyond vasodilation,  $PGI_2$  also has proapoptotic properties via the IP receptor. This is particularly important given the recent attention given to the "cancer theory" of PAH. *BMPR2*, the most important gene identified in hereditary PAH,  $^{49-51}$  has been implicated in dysregulation and proliferation (antiapoptosis) in diseased pulmonary artery endothelial cells.  $^{52,53}$  Important activities are also held by the growth factors PDGF and VEGF, as well as a shift from oxidative metabolism to glycolysis in processes mirroring cancer pathogenesis.  $^{54,55}$  There is evidence that prostanoids may directly interrupt some of these processes and may enhance apoptosis. Treprostinil, for example, has been shown to reduce PDGF-related proliferative signaling.  $^{56}$ 
+<svg viewBox="0 0 880 580" style="width:100%; max-width:880px; height:auto; display:block; margin:1.5rem auto; background:#0f172a; border-radius:12px; border:1px solid #334155;" xmlns="http://www.w3.org/2000/svg">
+<rect width="880" height="580" rx="12" fill="#0f172a" stroke="#334155" stroke-width="1.5"/>
+<text x="440" y="30" fill="#38bdf8" font-family="system-ui, -apple-system, sans-serif" font-size="14.5" font-weight="700" text-anchor="middle" letter-spacing="1">PULMONARY ARTERIAL HYPERTENSION: PATHWAYS & DRUG TARGETS</text>
+<!-- Pathway 1: NO-cGMP -->
+<rect x="30" y="50" width="820" height="115" rx="8" fill="#1e293b" stroke="#38bdf8" stroke-width="1.2"/>
+<text x="50" y="75" fill="#38bdf8" font-family="system-ui, sans-serif" font-size="13.5" font-weight="700">1. NITRIC OXIDE (NO) PATHWAY</text>
+<text x="50" y="95" fill="#cbd5e1" font-family="system-ui, sans-serif" font-size="11.5">Endothelial NO -> sGC -> cGMP -> Vasodilation & Anti-proliferation</text>
+<text x="50" y="125" fill="#93c5fd" font-family="system-ui, sans-serif" font-size="11" font-weight="600">PDE-5 Inhibitors: Sildenafil, Tadalafil (block cGMP degradation)</text>
+<text x="50" y="145" fill="#fca5a5" font-family="system-ui, sans-serif" font-size="11" font-weight="600">sGC Stimulator: Riociguat (directly activates sGC; NEVER combine with PDE-5i!)</text>
+<!-- Pathway 2: Endothelin -->
+<rect x="30" y="175" width="820" height="115" rx="8" fill="#1e293b" stroke="#f59e0b" stroke-width="1.2"/>
+<text x="50" y="200" fill="#fbbf24" font-family="system-ui, sans-serif" font-size="13.5" font-weight="700">2. ENDOTHELIN-1 (ET-1) PATHWAY</text>
+<text x="50" y="220" fill="#cbd5e1" font-family="system-ui, sans-serif" font-size="11.5">Overexpressed ET-1 -> ETA/ETB -> Vasoconstriction & Hypertrophy</text>
+<text x="50" y="250" fill="#fde68a" font-family="system-ui, sans-serif" font-size="11" font-weight="600">Dual ERAs (ETA + ETB): Bosentan (monthly LFTs), Macitentan (SERAPHIN)</text>
+<text x="50" y="270" fill="#fde68a" font-family="system-ui, sans-serif" font-size="11" font-weight="600">Selective ETA ERA: Ambrisentan (Letairis, once daily, minimal hepatotoxicity)</text>
+<!-- Pathway 3: Prostacyclin -->
+<rect x="30" y="300" width="820" height="135" rx="8" fill="#1e293b" stroke="#10b981" stroke-width="1.2"/>
+<text x="50" y="325" fill="#34d399" font-family="system-ui, sans-serif" font-size="13.5" font-weight="700">3. PROSTACYCLIN (PGI2) PATHWAY</text>
+<text x="50" y="345" fill="#cbd5e1" font-family="system-ui, sans-serif" font-size="11.5">Deficient PGI2 -> IP Receptor -> cAMP -> Vasodilation & Anti-thrombosis</text>
+<text x="50" y="375" fill="#a7f3d0" font-family="system-ui, sans-serif" font-size="11" font-weight="600">IV Epoprostenol (Flolan / Veletri; proven mortality benefit)</text>
+<text x="50" y="395" fill="#a7f3d0" font-family="system-ui, sans-serif" font-size="11" font-weight="600">Treprostinil (SC / IV Remodulin, Inhaled Tyvaso, Oral Orenitram)</text>
+<text x="50" y="415" fill="#a7f3d0" font-family="system-ui, sans-serif" font-size="11" font-weight="600">Inhaled Iloprost (Ventavis) | Oral IP Agonist: Selexipag (Uptravi)</text>
+<!-- Pathway 4: Activin/BMPR2 -->
+<rect x="30" y="445" width="820" height="110" rx="8" fill="#1e293b" stroke="#a855f7" stroke-width="1.2"/>
+<text x="50" y="470" fill="#c084fc" font-family="system-ui, sans-serif" font-size="13.5" font-weight="700">4. ACTIVIN / BMPR2 PATHWAY (Emerging)</text>
+<text x="50" y="492" fill="#cbd5e1" font-family="system-ui, sans-serif" font-size="11.5">Imbalance of pro-proliferative activins vs anti-proliferative BMPR2</text>
+<text x="50" y="525" fill="#e9d5ff" font-family="system-ui, sans-serif" font-size="11" font-weight="600">Sotatercept: Activin receptor type IIA fusion protein; reverses vascular remodeling</text>
+</svg>
 
-While not a prostanoid, selexipag also exerts its effects via the IP receptor. Selexipag is an orally available prodrug of MRE-269, a highly selective IP receptor agonist with a half-life of approximately 8 hours. <sup>56</sup> Unlike epoprostenol, treprostinil, and iloprost, selexipag does not appear to engage prostanoid receptors other than the IP receptor. <sup>44,57,58</sup>
+</div></details>
 
-# **Phosphodiesterase Type 5 Inhibitors**
+</div></details>
 
-Selective PDE-5is leverage the action of endogenous NO in the cells of smooth muscle and other tissues. NO is produced in endothelial cells from L-arginine via NO synthase. <sup>59</sup> A small molecule, NO diffuses into smooth muscle adjacent to endothelial cells where it binds to sGC, stimulating production of cGMP from guanosine triphosphate. cGMP has potent vasodilatory effects by decreasing intracellular calcium concentration, leading to lower smooth muscle tone. It is rapidly hydrolyzed by PDE-5. The two currently approved PDE-5is for the treatment of PAH, sildenafil and tadalafil, both function to selectively inhibit PDE-5, thus augmenting the availability of cGMP and leading to vasorelaxation. <sup>60</sup>
+<details class="med-details"><summary>
 
-PDE-5is can cause a certain degree of nondiscriminate vasodilation in both arterial and venous systems in healthy subjects. <sup>61</sup> However, affinity for the pulmonary circulation has been described in patients with PAH. <sup>62</sup> An early hemodynamic study found, for example, that pulmonary systolic pressures decreased over twice as much as systemic systolic pressures (14 mmHg versus 5.9 mmHg) after 3 months of sildenafil treatment in PAH patients. <sup>63</sup> The underlying reason for this is only partially clear. It has been proposed that atrial natriuretic peptide, found in increased concentration in PAH patients, may act synergistically with the NO-cGMP pathway to selective vasodilate the pulmonary circulation. <sup>64,65</sup>
+## 2. Clinical Risk Stratification and Hemodynamic Assessment</summary><div class="details-content">
 
-Like prostanoids, there is evidence that PDE-5is have important disease-modifying effects outside of vasodilation. One intriguing possibility is that PDE-5is may improve dysfunctional signaling in PAH patients with abnormal bone morphogenetic protein (BMP). Pulmonary artery smooth muscle cells carrying loss-offunction mutations in BMPR2 tend to become proproliferative via decreased and/or altered BMP and SMAD 1/5/8 signalling. In a BMPR2 knockout animal model, sildenafil has been shown to prevent development of PAH and partially restore SMAD signaling.68
+Contemporary management of PAH rejects static staging in favor of dynamic, goal-oriented multiparametric risk stratification. The treatment strategy is tailored not merely to baseline disease severity, but to achieving and sustaining a low-risk status associated with an estimated 1-year mortality of $<5\%$.
 
-Riociguat, the only available sGC stimulator, has a mechanism closely related to PDE-5is, in that it is active directly via the NOcGMP pathway. The original synthesis of riociguat was propelled by the discovery in the 1990s that YC-1, a related compound originally discovered as a synthetic benzylindazole antiplatelet agent, had sGC stimulatory properties. <sup>69,70</sup> Riociguat binds sGC and increases production of cGMP from GTP in a NO-independent manner. Synergism with NO is also possible. In vitro, sGC activity is increased 122-fold by riociguat in the presence of NO, and 73-fold when riociguat acts alone.7
+<details class="med-details"><summary>
 
-# **Endothelin Receptor Antagonists**
+### 2.1 The Multiparametric Risk Assessment Framework (ESC/ERS Guidelines)</summary><div class="details-content">
 
-A potent vasoconstrictor, ET-1 is a 21-amino-acid peptide overexpressed in patients with PAH. ET-1 is produced mainly in endothelial cells—it is not stored and both transcription its mRNA and ET-1 itself have relative short half-lives (10-20 minutes), meaning that ET-1 levels may fluctuate in response to a myriad stimulators.<sup>72</sup> Notable stimuli include hypoxia, ischemia, shear stress. ET-1 has two cellular targets relevant to PAH therapeutics. Endothelin receptor A (ET<sub>A</sub>) is found on the surface of pulmonary artery smooth muscle cells, while endothelin receptor B (ET<sub>B</sub>) is found both on pulmonary artery smooth muscle cells and endothelial cells.<sup>60</sup>
+The European Society of Cardiology / European Respiratory Society (ESC/ERS) guidelines established a comprehensive multidimensional risk matrix classifying patients into Low Risk ($<5\%$ 1-year mortality), Intermediate Risk ($5–10\%$ 1-year mortality), and High Risk ($>10\%$ 1-year mortality).
 
-ET-1 has mitogenic properties via both ET<sub>A</sub> and ET<sub>B</sub>; the overall effect is to increase extracellular matrix proliferation as well as potentiation of growth factors such as TGF-β. On the smooth muscle cell, the binding of ET-1 to both ET<sub>A</sub> and ET<sub>B</sub> activates phospholipase C and promotes vasoconstriction via production of inositol triphosphate, which raises intracellular calcium. The vasoactive effects of ET<sub>B</sub> on endothelial cells are more complex. ET-1 binding endothelial cells may increase NO production, leading to vasorelaxation. However, the vasodilatory properties of ET-1, acting at the ET<sub>B</sub> receptor, appear to be impaired in PAHafflicted patients. <sup>60</sup> In sum, the net effect of ET-1 on the pulmonary circulation is vasoconstriction and cellular proliferation.
+<span id="tab-11-01"></span>
 
-# Differences Among Drugs in Class
+### TABLE 11.1 ESC/ERS Multiparametric Risk Stratification Table in Pulmonary Arterial Hypertension
 
-The full list of currently available PAH-specific drug therapies approved for use in the United States is presented in Table 11.5. Specific and important intraclass differences between agents are discussed later.
+| Determinants of Prognosis | Low Risk (Estimated 1-Year Mortality $<5\%$) | Intermediate Risk (Estimated 1-Year Mortality $5–10\%$) | High Risk (Estimated 1-Year Mortality $>10\%$) |
+| :--- | :--- | :--- | :--- |
+| **Clinical Signs of Right Heart Failure** | Absent | Absent | Present (peripheral edema, ascites, hepatomegaly, elevated JVP) |
+| **Progression of Symptoms** | Stable; no progression | Slow symptom worsening | Rapid, progressive deterioration over weeks |
+| **Syncope** | Absent | Occasional; orthostatic or with heavy exertion | Frequent episodes; occurs with minimal activity or at rest |
+| **WHO Functional Class (FC)** | Class I or Class II | Class III | Class IV |
+| **6-Minute Walk Distance (6MWD)** | $>440\text{ meters}$ | $165\text{ to } 440\text{ meters}$ | $<165\text{ meters}$ |
+| **Cardiopulmonary Exercise Testing (CPET)** | Peak $\text{VO}_2 >15\text{ mL/min/kg}$ ($>65\%$ pred); $\text{VE/VCO}_2 \text{ slope} <36$ | Peak $\text{VO}_2$ 11–15 ($35–65\%$ pred); $\text{VE/VCO}_2 \text{ slope}$ 36–45 | Peak $\text{VO}_2 <11\text{ mL/min/kg}$ ($<35\%$ pred); $\text{VE/VCO}_2 \text{ slope} \ge 45$ |
+| **Biomarkers: BNP / NT-proBNP** | $\text{BNP} <50\text{ ng/L}$; $\text{NT-proBNP} <300\text{ ng/L}$ | $\text{BNP } 50–300\text{ ng/L}$; $\text{NT-proBNP } 300–1400\text{ ng/L}$ | $\text{BNP} >300\text{ ng/L}$; $\text{NT-proBNP} >1400\text{ ng/L}$ |
+| **Imaging: Echocardiography / CMR** | Right atrial (RA) area $<18\text{ cm}^2$; no pericardial effusion | RA area $18–26\text{ cm}^2$; trivial/no effusion | RA area $>26\text{ cm}^2$; pericardial effusion present; severe RV systolic dysfunction |
+| **Right Heart Catheterization (RHC)** | $\text{RAP} <8\text{ mmHg}$; $\text{Cardiac Index (CI)} \ge 2.5\text{ L/min/m}^2$; $\text{SvO}_2 >65\%$ | $\text{RAP } 8–14\text{ mmHg}$; $\text{CI } 2.0–2.4\text{ L/min/m}^2$; $\text{SvO}_2 \text{ 60–65\%}$ | $\text{RAP} >14\text{ mmHg}$; $\text{CI} <2.0\text{ L/min/m}^2$; $\text{SvO}_2 <60\%$ |
 
-## Prostanoids
+*Patients should be formally re-assessed using this multiparametric matrix at 3 to 6 months post-initiation of therapy, with treatment intensified if low-risk status is not achieved.*
 
-With three agents, four routes of administration, and multiple formulations available for epoprostenol, prostanoids may lead to some confusion among patients and providers not accustomed to PAH therapy. Prostanoids are available in oral, intravenous, subcutaneous, and inhaled forms, making it the only class of PAH medications that is available with more than one route of administration. Table 11.617,77–<sup>91</sup> compares pharmacologic profiles of available agents in this class.
+</div></details>
 
-#### Epoprostenol: Flolan Versus Veletri
+<details class="med-details"><summary>
 
-Epoprostenol is available in two formulations, usually referred to by their US trade names, Flolan (GlaxoSmithKline) and Veletri (Actelion).92 Epoprostenol as a PAH therapy was approved in 1995. Formulated with glycine-mannitol excipients, reconstituted Flolan has stability at room temperature for up to 8 hours. This can be extended for up to 24 hours with the use of ice packs; however, the need for refrigeration beyond this time causes some logistical difficulties with administration, especially for patients on home therapy.<sup>93</sup> Veletri, which uses arginine-mannitol excipients at a higher pH, was approved by the FDA in 2008 on the basis of having an identical active ingredient to Flolan. Although rigorous preapproval testing of the new formulation was not required prior to approval, small postmarketing studies have shown equivalence of Flolan and Veletri with respect to tolerability, effect, and bioavailability.94,95
+### 2.2 Acute Vasoreactivity Testing and High-Dose Calcium Channel Blockers</summary><div class="details-content">
 
-#### Epoprostenol Versus Parenteral Treprostinil
+Acute vasoreactivity testing is mandatory at the time of initial diagnostic right heart catheterization in all patients with idiopathic PAH (IPAH), heritable PAH (HPAH), or drug-induced PAH:
 
-The synthetic prostanoid treprostinil has a similar mechanism of action and side effect profile to epoprostenol.<sup>96</sup> Initially formulated as a subcutaneous infusion to reduce risk associated with indwelling central catheters and approved in 2002, treprostinil is additionally distinguished from epoprostenol by its much longer half-life. Since initial approval, an intravenous form has been made available. Reconstituted treprostinil has excellent stability at room temperature and may be stored for up to 14 days once mixed with
+* **Testing Protocol:** Administered using a short-acting, selective pulmonary vasodilator:
+  * Inhaled Nitric Oxide (iNO): $10–20\text{ parts per million (ppm)}$ for 10 minutes (preferred);
+  * Alternative agents: Inhaled iloprost ($2.5–5.0\,\mu\text{g}$) or IV epoprostenol ($2–12\text{ ng/kg/min}$).
+* **Definition of a Positive Acute Vasoreactive Response (Sitbon Criteria):**
+  1. A reduction in mean pulmonary artery pressure ($\text{mPAP}$) of **$\ge 10\text{ mmHg}$**;
+  2. Reaching an absolute $\text{mPAP} \le 40\text{ mmHg}$;
+  3. Preservation or increase in cardiac output (no fall in stroke volume).
+* **Clinical Significance:** Less than $10\%$ of IPAH patients meet these criteria. True vasoreactive responders represent a distinct biological phenotype driven predominantly by intense muscular vasospasm rather than fixed plexiform obliterative remodeling.
+* **Treatment Protocol for Vasoreactive Responders:**
+  * Treated with **high-dose Calcium Channel Blockers (CCBs)**:
+    * *Diltiazem:* Dosed up to 240–720 mg daily (preferred in patients with baseline resting heart rate $>80\text{ bpm}$);
+    * *Nifedipine:* Dosed up to 120–240 mg daily (preferred in patients with baseline heart rate $<80\text{ bpm}$);
+    * *Amlodipine:* Dosed up to 20–30 mg daily.
+  * **CONTRAINDICATION:** Verapamil should be avoided due to potent negative inotropic properties that precipitate acute right heart decompensation.
+* **Prognosis and Follow-Up:** Approximately half of acute responders maintain long-term clinical and hemodynamic responses at 1 year (sustained WHO FC I/II with normalized hemodynamics), enjoying a 5-year survival exceeding 90%. Patients failing to achieve near-normal hemodynamics must immediately transition to targeted PAH therapy.
 
-**Table 11.5** 
+</div></details>
 
-| Drug                                     | US trade<br>name(s)                                                | Route                         | Mechanism of action                                                                           | Notable class-wide side effects                                                                                                                             | High-level evidence                                                                                                                                                                |
-|------------------------------------------|--------------------------------------------------------------------|-------------------------------|-----------------------------------------------------------------------------------------------|-------------------------------------------------------------------------------------------------------------------------------------------------------------|------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
-| Prostanoids                              |                                                                    |                               |                                                                                               |                                                                                                                                                             |                                                                                                                                                                                    |
-| Epoprostenol<br>Iloprost<br>Treprostinil | Flolan,<br>Veletri<br>Ventavis<br>Remodulin<br>Tyvaso<br>Orenitram | IV Inhaled IV SC Inhaled Oral | Stimulation of IP and other prostanoid receptors. Effects vasodilation and antiproliferation. | Nausea, headaches, diarrhea,<br>flushing, hypotension, high-output<br>heart failure, bleeding.<br>Injection site pair and/or infection<br>where applicable. | Barst et al. <sup>17</sup> Olschewki et al. <sup>7</sup> TRUST <sup>78</sup> Simonneau et al. <sup>79</sup> TRIUMPHI <sup>80</sup> FREEDOM-C <sup>81</sup> FREEDOM-C2 <sup>8</sup> |
-| IP receptor ag                           | gonists                                                            |                               |                                                                                               |                                                                                                                                                             |                                                                                                                                                                                    |
-| Selexipag                                | Uptravi                                                            | Oral                          | Direct stimulation of IP receptor.                                                            | Headache, diarrhea, nausea,<br>flushing. Avoid in severe hepatic<br>impairment.                                                                             | GRIPHON <sup>83</sup>                                                                                                                                                              |
+</div></details>
 
-Continued on following page
+<details class="med-details"><summary>
 
-**Table 11.5** 
+## 3. Strategic Evolution: Monotherapy, Upfront Combination, and Sequential Therapy</summary><div class="details-content">
 
-| Drug therapies currently approved for use in pulmonary arterial hypertension (Continued) |                                     |              |                                                                                              |                                                                  |                                                                      |  |  |  |
-|------------------------------------------------------------------------------------------|-------------------------------------|--------------|----------------------------------------------------------------------------------------------|------------------------------------------------------------------|----------------------------------------------------------------------|--|--|--|
-| Drug                                                                                     | US trade<br>name(s)                 | Route        | Mechanism of action                                                                          | Notable class-wide side effects                                  | High-level<br>evidence                                               |  |  |  |
-| Phosphodiest                                                                             | Phosphodiesterase type 5 inhibitors |              |                                                                                              |                                                                  |                                                                      |  |  |  |
-| Sildenafil<br>Tadalafil                                                                  | Revatio<br>Adcirca                  | Oral<br>Oral | Inhibition of PDE-5, leading to increased NO-cGMP pathway activation and vasodilation.       | Hypotension, flushing, diarrhea, priapism                        | SUPER <sup>84</sup><br>PHIRST <sup>85</sup><br>PHIRST2 <sup>86</sup> |  |  |  |
-| Guanylate cyclase stimulators                                                            |                                     |              |                                                                                              |                                                                  |                                                                      |  |  |  |
-| Riociguat                                                                                | Adempas                             | Oral         | Direct stimulation of sGC leading to cGMP production                                         | Headache, dyspepsia, dizziness, nausea, diarrhea, hypotension    | PATENT-1 <sup>87</sup>                                               |  |  |  |
-| Endothelin re                                                                            | Endothelin receptor antagonists     |              |                                                                                              |                                                                  |                                                                      |  |  |  |
-| Bosentan                                                                                 | Tracleer                            | Oral         | ET <sub>A</sub> and ET <sub>B</sub> antagonism, preventing<br>ET-1 mediated vasoconstriction | Hepatotoxicity, anemia, pulmonary edema, peripheral edema, nasal | Channick, <i>et al.</i> <sup>88</sup><br>BREATHE-1 <sup>89</sup>     |  |  |  |
-| Ambrisentan<br>Macitentan                                                                | Letairis<br>Opsumit                 | Oral<br>Oral | and proliferation                                                                            | congestion, sinusitis                                            | ARIES <sup>90</sup><br>SERAPHIN <sup>91</sup>                        |  |  |  |
+The therapeutic paradigm in PAH has undergone a dramatic shift over the last decade, transitioning from watchful waiting and stepwise monotherapy to proactive, aggressive upfront combination therapy targeting multiple cellular pathways simultaneously.
 
-IV, intravenous; PDE-5, phosphodiesterase type 5; NO-cGMP, nitric oxide-cyclic guanosine monophosphate; sGC, soluble guanylate cyclase; SC, subcutaneous.
+<details class="med-details"><summary>
 
-Table 11.6
+### 3.1 The Paradigm Shift: Upfront Dual Combination Therapy and the AMBITION Trial</summary><div class="details-content">
 
-| P<br>t<br>i<br>d<br>i<br>l<br>b<br>l<br>t<br>d<br>d<br>h<br>t<br>i<br>t<br>i<br>g<br>g<br>r<br>o<br>s<br>a<br>n<br>o<br>s<br>:<br>a<br>v<br>a<br>a<br>e<br>a<br>e<br>n<br>s<br>a<br>n<br>r<br>u<br>c<br>a<br>r<br>a<br>c<br>e<br>r<br>s<br>c<br>s |                                                                                        |                                                                                                       |                                                                                                               |                                       |                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                           |                                                                                                                                                                                                                                                                                                                                                                                           |  |  |
-|---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|----------------------------------------------------------------------------------------|-------------------------------------------------------------------------------------------------------|---------------------------------------------------------------------------------------------------------------|---------------------------------------|-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|--|--|
-| D<br>g<br>r<br>u                                                                                                                                                                                                                                  | U<br>S<br>t<br>d<br>r<br>a<br>e<br>n<br>a<br>m<br>e                                    | R<br>t<br>f<br>o<br>u<br>e<br>o<br>d<br>i<br>i<br>t<br>t<br>i<br>a<br>m<br>n<br>s<br>r<br>a<br>o<br>n | T<br>i<br>l<br>d<br>y<br>p<br>c<br>a<br>o<br>s<br>e<br>g<br>r<br>a<br>n<br>e                                  | H<br>l<br>f-<br>l<br>i<br>f<br>a<br>e | C<br>t<br>o<br>m<br>m<br>e<br>n<br>s                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                      | M<br>t<br>b<br>l<br>i<br>e<br>a<br>o<br>s<br>m                                                                                                                                                                                                                                                                                                                                            |  |  |
-| E<br>l<br>t<br>p<br>o<br>p<br>r<br>o<br>s<br>e<br>n<br>o                                                                                                                                                                                          | F<br>l<br>l<br>o<br>a<br>n<br>V<br>l<br>t<br>i<br>e<br>e<br>r                          | I<br>V<br>I<br>V                                                                                      | 2–<br>4<br>0<br>/<br>k<br>/<br>+<br>g<br>g<br>n<br>i<br>m<br>n                                                | 6<br>i<br>m<br>n                      | S<br>b<br>l<br>f<br>8<br>h<br>t<br>t<br>a<br>e<br>o<br>r<br>o<br>u<br>r<br>s<br>a<br>t<br>t<br>r<br>o<br>o<br>m<br>e<br>m<br>p<br>e<br>r<br>a<br>u<br>r<br>e<br>2<br>4–<br>4<br>8<br>h<br>i<br>f<br>o<br>r<br>o<br>u<br>r<br>s<br>f<br>i<br>d<br>t<br>t<br>g<br>r<br>e<br>r<br>e<br>r<br>a<br>e<br>a<br>2–<br>8<br>°C<br>S<br>f<br>8–<br>t<br>b<br>l<br>4<br>a<br>e<br>o<br>r<br>7<br>2<br>h<br>t<br>o<br>r<br>s<br>a<br>r<br>o<br>o<br>m<br>u<br>t<br>t<br>e<br>m<br>p<br>e<br>r<br>a<br>r<br>e<br>o<br>r<br>u<br>8<br>d<br>i<br>f<br>a<br>y<br>s<br>f<br>i<br>d<br>t<br>t<br>g<br>r<br>e<br>r<br>e<br>r<br>a<br>e<br>a<br>2–<br>8<br>°C | S<br>d<br>d<br>t<br>g<br>p<br>o<br>n<br>a<br>n<br>e<br>o<br>u<br>s<br>e<br>r<br>a<br>e<br>s.<br>M<br>b<br>l<br>i<br>i<br>i<br>l<br>t<br>t<br>e<br>a<br>o<br>e<br>s<br>a<br>r<br>e<br>p<br>r<br>m<br>a<br>r<br>y<br>d<br>i<br>i<br>r<br>e<br>c<br>o<br>v<br>e<br>r<br>e<br>n<br>u<br>r<br>n<br>e.                                                                                          |  |  |
-| I<br>l<br>t<br>o<br>p<br>r<br>o<br>s                                                                                                                                                                                                              | V<br>i<br>t<br>e<br>n<br>a<br>v<br>s                                                   | I<br>h<br>l<br>d<br>n<br>a<br>e                                                                       | 2.<br>5–<br>5<br>6<br>9<br>t<br>g<br>;<br>o<br>μ<br>i<br>d<br>i<br>l<br>t<br>m<br>e<br>s<br>a<br>y            | 2<br>0–<br>3<br>0<br>i<br>m<br>n<br>s |                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                           | I<br>i<br>d<br>b<br>β<br>i<br>d<br>i<br>t<br>t<br>t<br>n<br>a<br>c<br>v<br>a<br>e<br>y<br>-o<br>x<br>a<br>o<br>n<br>d<br>d<br>i<br>i<br>t<br>a<br>n<br>e<br>x<br>c<br>r<br>e<br>e<br>n<br>u<br>r<br>n<br>e.                                                                                                                                                                               |  |  |
-| T<br>t<br>i<br>i<br>l<br>r<br>e<br>p<br>r<br>o<br>s<br>n                                                                                                                                                                                          | R<br>d<br>l<br>i<br>e<br>m<br>o<br>u<br>n<br>R<br>d<br>l<br>i<br>e<br>m<br>o<br>n<br>u | I<br>V<br>S<br>C                                                                                      | 2<br>0<br>0<br>1.<br>5–<br>1<br>/<br>g<br>+<br>n<br>k<br>/<br>i<br>g<br>m<br>n                                | 4.<br>5<br>h<br>o<br>u<br>r<br>s      | S<br>C<br>I<br>V<br>d<br>h<br>d<br>a<br>n<br>a<br>v<br>e<br>o<br>s<br>e<br>i<br>l<br>i<br>e<br>q<br>a<br>e<br>n<br>c<br>n<br>u<br>v<br>y<br>l<br>t<br>h<br>t<br>i<br>n<br>o<br>r<br>m<br>a<br>e<br>r<br>a<br>p<br>e<br>c<br>u<br>d<br>g<br>o<br>s<br>e<br>r<br>a<br>n<br>e<br>s                                                                                                                                                                                                                                                                                                                                                           | H<br>t<br>i<br>t<br>b<br>l<br>i<br>i<br>e<br>p<br>a<br>c<br>m<br>e<br>a<br>o<br>s<br>m<br>v<br>a<br>C<br>Y<br>P<br>2<br>C<br>8<br>d<br>t<br>d<br>i<br>a<br>n<br>e<br>c<br>r<br>e<br>e<br>n<br>x<br>i<br>C<br>l<br>r<br>n<br>e.<br>e<br>a<br>r<br>a<br>n<br>c<br>e<br>u<br>i<br>i<br>f<br>i<br>l<br>i<br>i<br>d<br>i<br>g<br>t<br>s<br>n<br>c<br>a<br>n<br>y<br>m<br>p<br>a<br>r<br>e<br>n |  |  |
-|                                                                                                                                                                                                                                                   | O<br>i<br>t<br>r<br>e<br>n<br>r<br>a<br>m<br>T<br>y<br>v<br>a<br>s<br>o                | O<br>l<br>r<br>a<br>I<br>h<br>l<br>d<br>n<br>a<br>e                                                   | 0.<br>2<br>5–<br>1<br>6<br>B<br>I<br>D<br>g<br>m<br>3–<br>9<br>b<br>h<br>Q<br>I<br>D<br>t<br>r<br>e<br>a<br>s | 4.<br>5<br>h<br>o<br>u<br>r<br>s      |                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                           | l<br>i<br>d<br>f<br>i<br>t<br>v<br>e<br>r<br>y<br>s<br>u<br>n<br>c<br>o<br>n.                                                                                                                                                                                                                                                                                                             |  |  |
+Historically, patients were started on single-agent monotherapy and escalated only upon overt clinical deterioration. However, because pulmonary vascular remodeling progresses rapidly and right ventricular failure can develop precipitously, delaying dual pathway blockade proved detrimental.
 
-IV, intravenous; SC, subcutaneous.
+* **The AMBITION Trial (2015):** The definitive trial that established upfront dual combination therapy as the standard of care for treatment-naïve PAH:
+  * *Study Design:* Randomized 500 treatment-naïve patients with WHO FC II or III PAH to upfront combination therapy with ambrisentan (10 mg daily) plus tadalafil (40 mg daily) versus monotherapy with ambrisentan (10 mg) or monotherapy with tadalafil (40 mg).
+  * *Primary Efficacy Endpoint:* Upfront combination therapy produced a **50% relative risk reduction in clinical failure** compared to pooled monotherapy ($\text{HR } 0.50$, $95\%\text{ CI } 0.35–0.72$, $p < 0.001$).
+  * *Secondary Endpoints:* Combination therapy produced a **63% reduction in PAH-related hospitalizations**, greater improvements in 6MWD (median difference $+23\text{ meters}$ over monotherapy), and significantly greater reductions in NT-proBNP.
 
-proper dilutents.<sup>97</sup> At the molecular level, epoprostenol and treprostinil have similar structure and engage similar targets.
+<span id="fig-11-02"></span>
 
-The half-life of treprostinil is approximately 4.5 hours, but the effective half-life may be shorter. Based on bioavailability studies, it appears that subcutaneous and intravenous treprostinil have dosing equivalence through the normal therapeutic range (up to 125 ng/kg/min). There may be some depot effect from subcutaneous administration of treprostinil such that the drug serum concentration takes longer to decline as compared to intravenous administration, but this difference does not appear to be clinically meaningful.
-
-Unlike epoprostenol, which is spontaneously metabolized, treprostinil is extensively cleared by the cytochrome P450 system in the liver. Strong modifiers of CYP2C8 should be used with caution in patients receiving treatment with treprostinil. Intravenous and subcutaneous treprostinil should be dose-reduced in patients with mild to moderate hepatic impairment; no studies have been done in patients with severe hepatic impairment. Patients with liver dysfunction are more vulnerable to toxicity with treprostinil diolamine (oral treprostinil) due to lack of normal first past metabolism. As a result, treprostinil diolamine should be dose-reduced in patients with Child-Pugh A hepatic dysfunction and should be avoided and is contraindicated in Child-Pugh B and C disease.
-
-#### Inhaled Treprostinil Versus Inhaled Iloprost
-
-Inhaled iloprost is designed to be administered in a specially made delivery device. For patients who self-administer iloprost at home, some dexterity is required in order to break the vials storing the medication and pipette the contents into the delivery device, which may need to be done several times per day depending on dosage.  $^{102}$  Inhaled treprostinil is delivered via an ultrasonic pulsed-delivery device that meters out 6  $\mu g$  of drug per inhalation. The device is loaded each morning with treprostinil from an ampule by the patient.  $^{103}$  The longer half-life of treprostinil allows for QID dosing, as compared to up to nine times daily for iloprost.  $^{100}$ 
-
-#### **Phosphodiesterase Type 5 Inhibitors**
-
-Table 11.7 summarizes the important differences between the two available PDE-5is. The primary difference between sildenafil and tadalfil is pharmacokinetics and elimination half-life. Sildelafil is extensively metabolized by the liver, mostly by CYP3A4, and to a lesser extent CYP2C9. <sup>104</sup> Its half-life of 4 hours is substantially short than that of tadalfil (15 hours). Both PDE-5is are metabolized by the liver, predominantly by CYP3A4. While use of both appear safe in
-
-Table 11.7
-
-| i<br>f<br>i<br>i<br>i<br>i<br>i<br>P<br>t<br>l<br>b<br>l<br>h<br>h<br>d<br>t<br>t<br>5<br>h<br>b<br>t<br>r<br>o<br>p<br>e<br>r<br>e<br>s<br>o<br>a<br>v<br>a<br>a<br>e<br>p<br>o<br>s<br>p<br>o<br>e<br>s<br>e<br>r<br>a<br>s<br>e<br>y<br>p<br>e<br>n<br>o<br>r<br>s |                                                     |                                                                                                       |                                                                              |                                       |                                      |                                                                                                                                                                                   |  |  |
-|-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|-----------------------------------------------------|-------------------------------------------------------------------------------------------------------|------------------------------------------------------------------------------|---------------------------------------|--------------------------------------|-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|--|--|
-| D<br>g<br>r<br>u                                                                                                                                                                                                                                                      | U<br>S<br>t<br>d<br>r<br>a<br>e<br>n<br>a<br>m<br>e | R<br>t<br>f<br>o<br>e<br>o<br>u<br>d<br>i<br>i<br>t<br>t<br>i<br>a<br>m<br>n<br>s<br>r<br>a<br>o<br>n | T<br>i<br>l<br>d<br>p<br>c<br>a<br>o<br>s<br>e<br>y<br>g<br>r<br>a<br>n<br>e | H<br>l<br>f-<br>l<br>i<br>f<br>a<br>e | C<br>t<br>o<br>m<br>m<br>e<br>n<br>s | M<br>t<br>b<br>l<br>i<br>e<br>a<br>o<br>s<br>m                                                                                                                                    |  |  |
-| S<br>i<br>l<br>d<br>f<br>i<br>l<br>e<br>n<br>a                                                                                                                                                                                                                        | R<br>i<br>t<br>e<br>v<br>a<br>o                     | a<br>O<br>l<br>r<br>a                                                                                 | 5–<br>2<br>0<br>T<br>I<br>D<br>g<br>m                                        | 4<br>h<br>o<br>u<br>r<br>s            |                                      | C<br>3<br>H<br>t<br>i<br>l<br>l<br>t<br>b<br>l<br>i<br>d<br>b<br>Y<br>P<br>A<br>4,<br>e<br>p<br>a<br>c<br>a<br>y<br>m<br>e<br>a<br>o<br>z<br>e<br>y<br>C<br>Y<br>P<br>2<br>C<br>9 |  |  |
-| T<br>d<br>l<br>f<br>i<br>l<br>a<br>a<br>a                                                                                                                                                                                                                             | A<br>d<br>i<br>r<br>c<br>c<br>a                     | O<br>l<br>r<br>a                                                                                      | 1<br>0–<br>4<br>0<br>d<br>i<br>l<br>g<br>m<br>a<br>y                         | 1<br>5<br>h<br>r<br>o<br>u<br>s       |                                      | H<br>i<br>l<br>l<br>b<br>l<br>i<br>d<br>b<br>C<br>Y<br>P<br>3<br>A<br>4<br>t<br>t<br>e<br>p<br>a<br>c<br>a<br>y<br>m<br>e<br>a<br>o<br>z<br>e<br>y                                |  |  |
-
-aAn injectable form of sildenafil is available for patients on sildenafil therapy who are temporarily unable to take oral medications.
-
-patients with mild or moderate hepatic dysfunction, use in patients with Child-Pugh C liver disease has not been established.<sup>105</sup>
-
-# Endothelin Receptor Antagonists
-
-Key considerations in the use of the three available ERAs are summarized in Table 11.8. Bosentan, the first ERA to market in the United States, is dosed twice daily, with a shorter half-life than either ambrisentan or macitentan. While all three drugs are hepatically metabolized, only bosentan is both a substrate and inducer of the cytochrome P450 system, specifically CYP2C9 and CYP3A4, leading to significant concern for drug-drug interactions.<sup>106</sup> All three drugs should be used with caution in severe hepatic impairment due to metabolism. In addition, bosentan has been associated with risk of true hepatotoxicity, a concern which may or may not be associated with ambrisentan and macitentan. A recent metaanalysis of clinical trials of ERAs supported this unique risk of bosentan, with a risk ratio for abnormal liver function tests of 3.8 [95% CI, 2.4, 5.9] compared to placebo.<sup>107</sup> Monthly monitoring of liver function tests was formerly suggested for all patients on ERAs,15 but currently only applies to bosentan in the US.<sup>1</sup>
-
-Bosentan is a nonselective inhibitor of both ETA and ETB. However, due to the partial vasodilatory effects of ETB, there was considerable interest in finding an ETA-selective ERA, leading to the development and subsequent approval of ambrisentan in 2007.<sup>106</sup> Macitentan, the newest ERA on the market, is a dual (ETA/ETB) antagonist with high-affinity ETA in particular. It was developed with the goal of improved safety in a dual-receptor ERA.<sup>108</sup>
-
-# Data for Use
-
-The modern drug therapy era for PAH began with the demonstration of a mortality benefit for patients treated with epoprostenol in 1996, published via a randomized trial by Barst and colleagues.<sup>17</sup> Since that time, while the prognosis has improved for PAH patients treated with epoprostenol suggesting improvement in overall mortality,<sup>20</sup> no other drug has been proven to offer a definitive mortality benefit for patients across any FC and diagnosis subtype. This may be attributable to improvement in nonpharmacologic management or diminishing returns for each additive therapy. Perhaps most notably, as PAH disease progression has slowed in the current era of drug therapy, it becomes more challenging to power a randomized trial for a mortality endpoint. Since regulatory agencies increasingly have been willing to base approval on surrogate (yet
-
-Table 11.8
-
-| P<br>i<br>f<br>i<br>l<br>b<br>l<br>d<br>h<br>l<br>i<br>i<br>t<br>t<br>t<br>t<br>t<br>g<br>r<br>o<br>p<br>e<br>r<br>e<br>s<br>o<br>a<br>v<br>a<br>a<br>e<br>e<br>n<br>o<br>e<br>n<br>r<br>e<br>c<br>e<br>p<br>o<br>r<br>a<br>n<br>a<br>o<br>n<br>s<br>s |                                                     |                                                                                                       |                                                                              |                                                        |                                                                                                                                                                                                                                                                                                        |                                                                                                                        |  |  |  |
-|--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|-----------------------------------------------------|-------------------------------------------------------------------------------------------------------|------------------------------------------------------------------------------|--------------------------------------------------------|--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|------------------------------------------------------------------------------------------------------------------------|--|--|--|
-| D<br>g<br>r<br>u                                                                                                                                                                                                                                       | S<br>U<br>t<br>d<br>r<br>a<br>e<br>n<br>a<br>m<br>e | f<br>R<br>t<br>o<br>u<br>e<br>o<br>d<br>i<br>i<br>t<br>t<br>i<br>a<br>m<br>n<br>s<br>r<br>a<br>o<br>n | i<br>T<br>l<br>d<br>y<br>p<br>c<br>a<br>o<br>s<br>e<br>g<br>r<br>a<br>n<br>e | H<br>l<br>f-<br>l<br>i<br>f<br>a<br>e                  | C<br>t<br>o<br>m<br>m<br>e<br>n<br>s                                                                                                                                                                                                                                                                   | M<br>t<br>b<br>l<br>i<br>e<br>a<br>o<br>s<br>m                                                                         |  |  |  |
-| B<br>t<br>o<br>s<br>e<br>n<br>a<br>n                                                                                                                                                                                                                   | T<br>l<br>r<br>a<br>c<br>e<br>e<br>r                | O<br>l<br>r<br>a                                                                                      | 6<br>2.<br>5–<br>1<br>2<br>5<br>g<br>m<br>B<br>I<br>D                        | 5<br>h<br>o<br>u<br>r<br>s                             | N<br>l<br>i<br>i<br>f<br>b<br>h<br>E<br>TA<br>t<br>t<br>t<br>t<br>g<br>o<br>n<br>s<br>e<br>e<br>c<br>v<br>e<br>a<br>n<br>a<br>o<br>n<br>s<br>o<br>o<br>f<br>C<br>2<br>C<br>9<br>d<br>E<br>TB<br>I<br>d<br>Y<br>P<br>d<br>a<br>n<br>n<br>u<br>c<br>e<br>r<br>o<br>a<br>n<br>C<br>Y<br>P<br>3<br>A<br>4. | H<br>i<br>t<br>e<br>p<br>a<br>c<br>:<br>C<br>2<br>C<br>9<br>Y<br>P<br>d<br>a<br>n<br>C<br>Y<br>P<br>3<br>A<br>4        |  |  |  |
-| A<br>b<br>i<br>t<br>m<br>r<br>s<br>e<br>n<br>a<br>n                                                                                                                                                                                                    | L<br>i<br>i<br>t<br>e<br>a<br>r<br>s                | O<br>l<br>r<br>a                                                                                      | 5–<br>1<br>0<br>d<br>i<br>l<br>g<br>m<br>a<br>y                              | 1<br>3.<br>6–<br>1<br>6.<br>5<br>h<br>o<br>u<br>r<br>s | S<br>l<br>i<br>E<br>TA<br>i<br>t<br>t<br>t.<br>g<br>e<br>e<br>c<br>v<br>e<br>a<br>n<br>a<br>o<br>n<br>s                                                                                                                                                                                                | H<br>i<br>U<br>G<br>T,<br>t<br>e<br>p<br>a<br>c<br>:<br>C<br>Y<br>P<br>3<br>A<br>4,<br>C<br>Y<br>P<br>2<br>C<br>1<br>9 |  |  |  |
-| M<br>i<br>t<br>t<br>a<br>c<br>e<br>n<br>a<br>n                                                                                                                                                                                                         | O<br>i<br>t<br>p<br>s<br>u<br>m                     | O<br>l<br>r<br>a                                                                                      | 1<br>0<br>d<br>i<br>l<br>g<br>m<br>a<br>y                                    | 1<br>7<br>h<br>o<br>u<br>r<br>s                        | N<br>l<br>i<br>E<br>R<br>A<br>b<br>i<br>h<br>i<br>i<br>f<br>i<br>t<br>t<br>t<br>t<br>g<br>o<br>n<br>s<br>e<br>e<br>c<br>v<br>e<br>u<br>w<br>s<br>n<br>c<br>a<br>n<br>f<br>f<br>i<br>i<br>f<br>E<br>TA<br>E<br>TB<br>t<br>a<br>n<br>y<br>o<br>r<br>>                                                    | H<br>i<br>t<br>e<br>p<br>a<br>c<br>:<br>i<br>i<br>l<br>p<br>r<br>m<br>a<br>r<br>y<br>C<br>Y<br>P<br>3<br>A<br>4        |  |  |  |
-
-ERA, endothelin receptor antagonist; ETA, endothelin receptor A; ETB, endothelin receptor B;
-
-still patient-centered) outcomes such as 6MWT time or worsening of WHO FC, incentives have decreased for drug developers and other investigators to design trials with an endpoint of mortality. Selected discussion of key trials leading to medication approval or clinical practice change are discussed in this section. A summary of high-level evidence is presented in Table 11.5.
-
-# **Combination Therapy**
-
-#### Tadalafil and Ambrisentan
-
-Upfront combination in treatment naïve PAH patients with WHO FC II or III symptoms is now recommended as the first choice by the 2019 ACCP guideline. This recommendation is based largely on the AMBITION trial, published in 2015. In this study, 500 participants with treatment naïve PAH and FC II or III symptoms were randomized, in 2:1:1 ratio, to combination ambrisentan and tadalafil versus each drug as monotherapy. In the combination therapy group, 18% of participants reached a primary endpoint event (a composite of death, hospitalization for worsening PAH, or disease progression) compared to 31% in the pooled monotherapy group (Fig. 11.2).
-
-# **Monotherapy and Sequential Therapy**
-
-#### **Prostanoids**
-
-Barst and colleagues demonstrated the efficacy of intravenous epoprostenol in 81 patients with PAH and WHO FC III or IV symptoms as compared to placebo. After just 12 weeks of epoprostenol therapy, patients randomized to epoprostenol demonstrated improved 6MWT distance, lower mPAP, and lower pulmonary vascular resistance. In addition, there were eight deaths in the control group (20%) and none in the active therapy group. <sup>17</sup>
-
-Continuous subcutaneous treprostinil infusion was demonstrated to be effective by Simonneau and colleagues in 2002. <sup>79</sup> In addition to background therapy (which notably did not include modern ERAs or PDE-5is), infusion of subcutaneous treprostinil lead to improved hemodynamics and 6MWT distance versus placebo in 470 patients with PAH and WHO FC II, III, or IV symptoms.
-
-Treprostinil diolamine (orally administered treprostinil) was tested in the FREEDOM series of trials. In FREEDOM-C and FREEDOM-C2, the addition of treprostinil diolamine to background therapy including ERA and/or PDE-5i did not improve 6MWT, the primary outcome, compared to placebo. However, in the FREEDOM-M investigation of treprostinil diolamine in patients not currently on ERA of PDE-5i therapy, patients assigned to treprostinil showed an
-
-#### *COMBINATION THERAPY VS. POOLED MONOTHERAPY*
+#### FIG. 11.2 Upfront Dual Combination Therapy with Ambrisentan and Tadalafil versus Monotherapy in Treatment-Naïve PAH Patients in the AMBITION Trial
 
 ![](_page_24_Figure_2.jpeg)
 
-#### **No. at Risk**
+*Kaplan-Meier survival curves demonstrate that upfront combination therapy significantly reduced the primary composite endpoint of time to first clinical failure (death, hospitalization for worsening PAH, disease progression, or unsatisfactory clinical response).*
 
-| Combination therapy | 253 | 229 | 186 | 145 | 106 | 71 | 36 | 4 |
-|---------------------|-----|-----|-----|-----|-----|----|----|---|
-| Pooled monotherapy  | 247 | 209 | 155 | 108 | 77  | 49 | 25 | 5 |
+</div></details>
 
-Fig. 11.2 Upfront combination therapy with ambrisentan and tadalafil versus monotherapy in treatment naı¨ve pulmonary arterial hypertension (PAH) patients with functional class II or III symptoms, from the AMBITION trial. In this placebo-controlled, randomized trial, 500 patients with PAH and not previously treated were assigned, in 2:1:1 ratio, to initial combination therapy with 10mg of ambrisentan plus 40mg of tadalafil (combination-therapy group), 10mg of ambrisentan plus placebo, or 40mg of tadalafil plus placebo. Freedom from the primary combined endpoint is shown in the figure for the combination therapy group versus the two monotherapy groups combined. The primary combined endpoint was any of following: death of any cause, hospitalization for worsening PAH, disease progression, or unsatisfactory clinical response, the latter two assessed via functional class and 6-minute walk test distance. (Modified from Galie` N, Barbera` JA, Frost AE, et al. Initial use of ambrisentan plus tadalafil in pulmonary arterial hypertension. N Engl J Med 2015;373:834–844.)
+<details class="med-details"><summary>
 
-increase in 6MWT of 23 meters. Results from the FREEDOM-EV study, quantifying mortality and morbidity outcomes of oral treprostinil on top of initial monotherapy, await formal release.
+### 3.2 Upfront Triple Combination Therapy for High-Risk Patients</summary><div class="details-content">
 
-#### IP Receptor Agonists
+In patients presenting at initial diagnosis with High-Risk features (WHO FC IV, severe RV dysfunction, syncope, hemodynamic collapse), oral therapy alone is insufficient to prevent death:
 
-The novel oral IP receptor agonist selexipag was tested in the multicenter GRIPHON study of patients who were either treatmentnaïve (20% of enrollees) or on stable background therapy of an ERA, PDE-5i, or both.83 This study, conducted in 1156 patients, demonstrated a 40% reduction in a composite endpoint of death or worsening PAH for selexipag versus placebo. The vast majority of patients were WHO FC II or III at enrollment. A slight majority of the study population (56%) had idiopathic PAH.
+* **Triple Upfront Regimen:** Mandates the immediate concurrent initiation of:
+  1. Continuous **Intravenous Epoprostenol** (or subcutaneous treprostinil);
+  2. An Endothelin Receptor Antagonist (ERA: Macitentan or Ambrisentan);
+  3. A PDE-5 Inhibitor (Tadalafil or Sildenafil).
+* **Clinical Outcomes:** Studies from leading pulmonary hypertension centers (e.g., Sitbon et al.) demonstrate that upfront triple combination therapy in severe FC IV PAH produces unprecedented reductions in PVR ($>50\%$), robust reverse remodeling of the right ventricle, and dramatic reductions in 3-year mortality compared to historical cohorts.
 
-# Phosphodiesterase Type 5 Inhibitors
+<span id="tab-11-02"></span>
 
-The safety and efficacy of sildenafil for the treatment of PAH have been long established. In the SUPER trial, published in patients with PAH not currently on vasodilator therapy were randomized to sildenafil, or 80mg three times daily or placebo.<sup>84</sup> After 12 weeks, patients assigned to any of the sildenafil arms had significantly improved 6MWT distance from baseline over placebo (Fig. 11.3). Almost all patients reported FC II or III symptoms at enrollment.
+### TABLE 11.2 Evidence-Based Recommendations for Initial Monotherapy and Upfront Combination Therapy in Treatment-Naïve PAH (ESC/ERS Guidelines)
 
-Tadalafil was tested in the multicenter PHIRST trial, which randomized 405 patients with PAH to tadalafil 2.5,, or 40mg daily or placebo.<sup>85</sup> Patients were either treatment naïve or on stable background therapy with full dose bosentan (125mg twice daily).
+| Drug Class & Specific Agent | WHO Functional Class II | WHO Functional Class III | WHO Functional Class IV | Key Clinical Trial Evidence |
+| :--- | :--- | :--- | :--- | :--- |
+| **Upfront Dual Oral Combination (Ambrisentan + Tadalafil)** | **Class I, Level B** | **Class I, Level B** | **Class IIb, Level C** | AMBITION (2015) — 50% reduction in clinical failure; 63% reduction in hospitalizations |
+| **Upfront Dual Oral Combination (Other ERA + PDE-5i)** | **Class IIa, Level C** | **Class IIa, Level C** | **Class IIb, Level C** | Registry cohorts & mechanistic synergy |
+| **Upfront Triple Combination (IV/SC Prostanoid + ERA + PDE-5i)** | Not indicated | **Class IIa, Level C** | **Class I, Level C** | Multi-center cohorts; rapid PVR unloading in severe RV failure |
+| **Epoprostenol (Continuous IV Infusion)** | Not indicated | **Class IIa, Level B** | **Class I, Level A** | Barst et al. (1996) — ONLY agent with randomized proven mortality reduction |
+| **Treprostinil (Subcutaneous / Intravenous)** | Not indicated | **Class I, Level B** | **Class IIa, Level C** | Large randomized trials; avoids catheter-related bloodstream infections (SC) |
+| **Macitentan (Oral Dual ERA, 10 mg daily)** | **Class I, Level B** | **Class I, Level B** | **Class IIb, Level C** | SERAPHIN (2013) — 45% reduction in long-term morbidity and mortality |
+| **Ambrisentan (Oral $\text{ET}_A$ ERA, 5–10 mg daily)** | **Class I, Level A** | **Class I, Level A** | **Class IIb, Level C** | ARIES-1 & ARIES-2 (2008) — Significant 6MWD gain; minimal hepatotoxicity |
+| **Bosentan (Oral Dual ERA, 62.5–125 mg BID)** | **Class I, Level A** | **Class I, Level A** | **Class IIb, Level C** | BREATHE-1 (2002) — Milestone oral ERA; requires monthly LFT monitoring |
+| **Tadalafil (Oral PDE-5i, 40 mg daily)** | **Class I, Level B** | **Class I, Level B** | **Class IIb, Level C** | PHIRST (2009) — Once-daily dosing; improves 6MWD and delays worsening |
+| **Sildenafil (Oral PDE-5i, 20 mg TID)** | **Class I, Level A** | **Class I, Level A** | **Class IIb, Level C** | SUPER-1 (2005) — Significant 6MWD gain and hemodynamic unloading |
+| **Riociguat (Oral sGC Stimulator, 0.5–2.5 mg TID)** | **Class I, Level B** | **Class I, Level B** | **Class IIb, Level C** | PATENT-1 (2013) — Proven in PAH; CHEST-1 (2013) — Approved for CTEPH |
+| **Selexipag (Oral IP Agonist, 200–1600 $\mu\text{g}$ BID)** | **Class I, Level B** | **Class I, Level B** | **Class IIb, Level C** | GRIPHON (2015) — 40% reduction in morbidity/mortality in mono or combo |
 
+</div></details>
+
+<details class="med-details"><summary>
+
+### 3.3 Sequential Combination Therapy: Escalating Toward Low-Risk Status</summary><div class="details-content">
+
+Patients already established on baseline therapy who fail to achieve or maintain low-risk status at 3- to 6-month follow-up require prompt sequential escalation:
+
+* **Adding Macitentan (SERAPHIN):** In the SERAPHIN trial, adding macitentan 10 mg daily to background sildenafil monotherapy produced a significant 38% reduction in morbidity and mortality.
+* **Adding Selexipag (GRIPHON):** In GRIPHON, adding selexipag to patients already receiving monotherapy or dual combination therapy (ERA + PDE-5i) yielded a consistent **40% reduction in clinical worsening events**.
+* **Adding Inhaled or Oral Prostanoids:** Adding inhaled treprostinil (TRIUMPH) or oral treprostinil (FREEDOM-EV) significantly improves exercise capacity and delays disease progression in patients on dual oral therapy.
+* **Switching PDE-5 Inhibitor to Riociguat (RESPITE Study):** In patients with unsatisfactory response on stable sildenafil or tadalafil, stopping the PDE-5i (with a 24- to 48-hour washout) and initiating riociguat (titrated to 2.5 mg TID) yielded meaningful improvements in 6MWD ($+31\text{ meters}$), NT-proBNP, and PVR without safety penalties.
+
+</div></details>
+
+</div></details>
+
+<details class="med-details"><summary>
+
+## 4. Endothelin Receptor Antagonists (ERAs)</summary><div class="details-content">
+
+Endothelin-1 (ET-1) is a 21-amino-acid bicyclic peptide produced by endothelial cells that acts as one of the most potent endogenous vasoconstrictors and vascular mitogens known. In PAH, plasma ET-1 levels are elevated in direct proportion to hemodynamic severity and mortality.
+
+<details class="med-details"><summary>
+
+### 4.1 Receptor Pharmacology: $\text{ET}_A$ and $\text{ET}_B$ Subtypes</summary><div class="details-content">
+
+ET-1 exerts its cellular actions through two distinct G-protein-coupled receptor subtypes:
+* **$\text{ET}_A$ Receptors:** Located predominantly on pulmonary artery vascular smooth muscle cells (PASMCs). Activation stimulates phospholipase C, increasing intracellular inositol trisphosphate ($\text{IP}_3$) and diacylglycerol (DAG), triggering intracellular calcium mobilization, profound vasoconstriction, smooth muscle hypertrophy, cell proliferation, and adventitial fibrosis.
+* **$\text{ET}_B$ Receptors:**
+  * *Endothelial $\text{ET}_B$ Receptors:* Located on PAECs, mediating vasodilation by stimulating eNOS to release NO and activating prostacyclin synthase to release $\text{PGI}_2$. Furthermore, endothelial $\text{ET}_B$ receptors act as clearance receptors, clearing up to 80% of circulating ET-1 in the pulmonary capillary bed.
+  * *Smooth Muscle $\text{ET}_B$ Receptors:* Located on PASMCs, mediating vasoconstriction and proliferation indistinguishable from $\text{ET}_A$ actions.
+
+</div></details>
+
+<details class="med-details"><summary>
+
+### 4.2 Comparative Pharmacology of Individual Endothelin Receptor Antagonists</summary><div class="details-content">
+
+Three ERAs are currently approved for clinical use in PAH:
+
+<details class="med-details"><summary>
+
+#### 1. Bosentan (Tracleer)</summary><div class="details-content">
+* **Pharmacology:** An orally active, non-selective dual competitive antagonist of both $\text{ET}_A$ and $\text{ET}_B$ receptors ($\text{ET}_A:\text{ET}_B$ selectivity ~ 20:1).
+* **Clinical Trial Evidence:** The pivotal BREATHE-1 trial (213 patients) demonstrated that bosentan significantly improved 6MWD ($+44\text{ meters}$ over placebo), decreased PVR, and prolonged time to clinical worsening.
+* **Dosing Protocol:** Initiated at **62.5 mg orally twice daily** for 4 weeks, then escalated to the target maintenance dose of **125 mg orally twice daily**.
+* **Hepatic Safety & Monitoring Mandate:** Bosentan induces dose-dependent, reversible transaminase elevations ($\text{ALT/AST} > 3\times\text{ULN}$) in approximately **10% of patients**, mediated by inhibition of the canalicular bile salt export pump (BSEP). In the United States, monthly liver function testing (LFTs) is legally required under the FDA Risk Evaluation and Mitigation Strategy (REMS) program.
+* **Drug Interactions:** Bosentan is both a substrate and potent inducer of hepatic CYP2C9 and CYP3A4. Coadministration lowers plasma levels of warfarin, statins, oral contraceptives (rendering hormonal birth control ineffective), and sildenafil.
+
+</div></details>
+
+<details class="med-details"><summary>
+
+#### 2. Ambrisentan (Letairis)</summary><div class="details-content">
+* **Pharmacology:** A propanoic acid derivative that functions as a highly selective competitive antagonist of the $\text{ET}_A$ receptor, exhibiting an $\text{ET}_A:\text{ET}_B$ selectivity ratio of **$>4000:1$**. The biological rationale was to block $\text{ET}_A$-mediated vasoconstriction while preserving endothelial $\text{ET}_B$-mediated NO release and ET-1 clearance.
+* **Clinical Trial Evidence:** In the ARIES-1 and ARIES-2 trials, ambrisentan significantly improved 6MWD, reduced Borg dyspnea index, and delayed clinical worsening.
+* **Dosing Protocol:** Administered as **5 mg orally once daily**, which can be uptitrated to **10 mg orally once daily** if tolerated and clinically warranted.
+* **Safety & Tolerability:** Highly favorable hepatic safety profile: transaminase elevation occurs in $<2\%$ of patients (comparable to placebo). Monthly routine LFT monitoring is no longer mandatory in the US, though baseline and periodic testing remain prudent. Ambrisentan is associated with a higher incidence of peripheral fluid retention (ankle edema in up to 25%) and nasal mucosal congestion. Teratogenic (REMS mandate).
+
+</div></details>
+
+<details class="med-details"><summary>
+
+#### 3. Macitentan (Opsumit)</summary><div class="details-content">
+* **Pharmacology:** A sulfamide-based dual $\text{ET}_A/\text{ET}_B$ receptor antagonist engineered for high lipophilicity, sustained receptor occupancy (slow dissociation kinetics), and superior tissue penetration into the pulmonary arterial wall.
+* **The SERAPHIN Trial (2013):** The landmark trial that revolutionized PAH endpoints:
+  * *Study Design:* 742 patients randomized to macitentan (3 mg or 10 mg once daily) versus placebo. It was the first PAH trial powered for a primary composite endpoint of **morbidity and mortality** over long-term follow-up (median 115 weeks).
+  * *Results:* Macitentan 10 mg once daily produced a statistically and clinically profound **45% relative risk reduction in morbidity and mortality** ($\text{HR } 0.55$, $95\%\text{ CI } 0.39–0.76$, $p < 0.001$).
+  * *Consistent Synergy:* Clinical benefit was identical whether patients were treatment-naïve (ARR 42%) or receiving background PDE-5 inhibitor therapy (ARR 38%).
+* **Dosing Protocol:** **10 mg orally once daily**, taken with or without food.
+* **Safety Profile:** Excellent hepatic safety (transaminase elevation comparable to placebo). Its primary laboratory adverse effect is a dose-dependent reduction in hemoglobin and hematocrit (anemia reported in ~ 13% of patients, requiring baseline and periodic complete blood counts). Teratogenic (REMS program).
+
+</div></details>
+
+<span id="tab-11-08"></span>
+
+### TABLE 11.8 Comparative Clinical Pharmacology of Endothelin Receptor Antagonists (ERAs)
+
+| Pharmacological Parameter | Bosentan (Tracleer) | Ambrisentan (Letairis) | Macitentan (Opsumit) |
+| :--- | :--- | :--- | :--- |
+| **Receptor Selectivity** | Dual $\text{ET}_A / \text{ET}_B$ antagonist ($\approx 20:1$) | Highly selective $\text{ET}_A$ antagonist ($>4000:1$) | Dual $\text{ET}_A / \text{ET}_B$ antagonist with high tissue penetration |
+| **Oral Dosing Regimen** | 62.5 mg BID for 4 weeks, then 125 mg BID | 5 mg once daily, titrate to 10 mg once daily | 10 mg once daily |
+| **Elimination Half-Life** | $\sim 5\text{ hours}$ | $\sim 9–15\text{ hours}$ | $\sim 16\text{ hours}$ (active metabolite ACT-132577: $48\text{ h}$) |
+| **Hepatic Metabolism** | Substrate & potent inducer of CYP2C9 and CYP3A4 | Non-significant CYP involvement; hepatic glucuronidation (UGT1A9, UGT2B7) | Metabolized primarily by CYP3A4 and to minor extent by CYP2C19 |
+| **Hepatotoxicity Hazard** | $\sim 10\%$ risk of $\text{ALT/AST} > 3\times\text{ULN}$; dose-dependent | $<2\%$ (comparable to placebo) | Low ($<3\%$, comparable to placebo) |
+| **Laboratory Monitoring** | Monthly LFTs mandatory under US REMS program | Baseline and periodic LFTs; monthly not mandatory | Baseline and periodic LFTs; complete blood counts (Hb/Hct) |
+| **Distinctive Adverse Reactions** | Hepatotoxicity, flushing, syncope, leg edema | Peripheral fluid retention / edema (17–25%), nasal congestion | Anemia (reduction in Hb $>2\text{ g/dL}$ in 13%), headache, edema |
+| **Teratogenicity & Pregnancy** | STRICTLY CONTRAINDICATED (Category X; REMS) | STRICTLY CONTRAINDICATED (Category X; REMS) | STRICTLY CONTRAINDICATED (Category X; REMS) |
+
+</div></details>
+
+</div></details>
+
+
+<details class="med-details"><summary>
+
+## 5. The Nitric Oxide - cGMP Pathway: PDE-5 Inhibitors & Soluble Guanylyl Cyclase Stimulators</summary><div class="details-content">
+
+The endogenous nitric oxide (NO) cascade represents one of the most vital innate homeostatic mechanisms protecting the pulmonary circulation against pathological vasoconstriction, vascular smooth muscle proliferation, and in situ thrombosis. Impairment of this pathway is an almost universal pathophysiological hallmark of pulmonary arterial hypertension (PAH).
+
+<details class="med-details"><summary>
+
+### 5.1 Physiology of NO-sGC-cGMP Signaling in Pulmonary Vasculature</summary><div class="details-content">
+
+Under physiological conditions, pulmonary vascular endothelial cells synthesize nitric oxide via the enzymatic cleavage of L-arginine by endothelial nitric oxide synthase (eNOS). Once generated, NO—a highly diffusible, short-lived free-radical gas ($t_{1/2} \sim 2–5\text{ seconds}$)—rapidly diffuses across the internal elastic lamina into adjacent pulmonary arterial smooth muscle cells (PASMCs).
+
+Within the smooth muscle cytoplasm, NO binds with high affinity to the prosthetic ferrous heme moiety ($\text{Fe}^{2+}$) of soluble guanylyl cyclase (sGC), inducing a conformational rearrangement that amplifies its catalytic activity by more than 200-fold. Activated sGC converts intracellular guanosine triphosphate (GTP) into cyclic guanosine monophosphate (cGMP).
+
+Elevated intracellular cGMP acts as a second messenger that triggers downstream signaling cascades:
+* **Protein Kinase G (PKG) Activation:** PKG phosphorylates multiple regulatory proteins, leading to:
+  * Dephosphorylation of myosin light chains via activation of myosin light-chain phosphatase (MLCP), inducing rapid smooth muscle relaxation and pulmonary vasodilation.
+  * Influx inhibition through L-type voltage-gated calcium channels ($\text{Ca}_V1.2$) and activation of large-conductance calcium-activated potassium channels ($\text{BK}_{\text{Ca}}$), hyperpolarizing the plasma membrane.
+  * Sequestration of cytosolic $\text{Ca}^{2+}$ into the sarcoplasmic reticulum via phospholamban phosphorylation, activating the sarcoplasmic/endoplasmic reticulum calcium ATPase 2a (SERCA2a).
+* **Anti-Proliferative and Pro-Apoptotic Effects:** PKG signaling downregulates nuclear transcription factors that drive PASMC hypertrophy and proliferation, mitigating distal obliterative remodeling.
+* **Platelet Stabilization:** cGMP inhibits intra-arterial platelet aggregation and leukocyte adherence to damaged endothelium.
+
+The physiological duration and amplitude of cGMP signaling are terminated by its enzymatic hydrolysis into inactive 5'-GMP. In the pulmonary vasculature, this degradation is mediated predominantly by phosphodiesterase type 5 (PDE-5), an enzyme abundantly expressed in high concentrations within pulmonary vascular smooth muscle and hypertrophied right ventricular myocardium.
+
+</div></details>
+
+<details class="med-details"><summary>
+
+### 5.2 Phosphodiesterase Type 5 (PDE-5) Inhibitors: Sildenafil and Tadalafil</summary><div class="details-content">
+
+Competitive inhibition of PDE-5 prevents the enzymatic breakdown of cGMP, thereby augmenting and prolonging endogenous NO-mediated vasorelaxation and anti-remodeling effects. Two oral PDE-5 inhibitors are currently approved for PAH:
+
+<details class="med-details"><summary>
+
+#### 1. Sildenafil (Revatio)</summary><div class="details-content">
+* **Pharmacology & Mechanism:** Sildenafil is a potent, selective competitive inhibitor of PDE-5. By preventing cGMP hydrolysis, it promotes smooth muscle relaxation exclusively in vascular beds where endogenous NO production is active, conferring relative selectivity for the pulmonary over systemic circulation.
+* **Clinical Trial Evidence (SUPER-1 Trial):**
+  * *Design:* In the landmark Sildenafil Use in Pulmonary Arterial Hypertension (SUPER-1) trial, 278 patients with PAH (WHO FC II–IV) were randomized to placebo or oral sildenafil at doses of 20 mg, 40 mg, or 80 mg three times daily (TID) for 12 weeks.
+  * *Functional Capacity:* Sildenafil produced a statistically significant, dose-independent increase in 6-minute walk distance (6MWD): $+45\text{ m}$ (20 mg), $+46\text{ m}$ (40 mg), and $+50\text{ m}$ (80 mg) compared with placebo ($p < 0.001$).
+  * *Hemodynamics:* Mean pulmonary arterial pressure (mPAP) was significantly reduced by $-2.1\text{ to } -4.7\text{ mmHg}$, pulmonary vascular resistance (PVR) decreased markedly, and cardiac index improved.
+  * *Dose-Response Disconnect:* Because higher doses (40 mg and 80 mg TID) demonstrated no incremental clinical benefit over 20 mg TID in the primary endpoint, **20 mg TID** became the universally approved regulatory dose.
+* **Dosing Protocol:**
+  * *Standard Oral Regimen:* **20 mg orally three times daily**, taken approximately 4 to 6 hours apart, with or without meals.
+  * *Intravenous Formulation:* An intravenous form is approved for patients who are temporarily unable to take oral medication (e.g., perioperatively); dosed at **10 mg IV TID** as an intravenous bolus (providing exposure equivalent to 20 mg oral).
+  * *Clinical Dosing Reality:* In routine specialized clinical practice, many refractory patients are off-label uptitrated to 40–80 mg TID, though clinical trial evidence supporting incremental long-term survival from such escalation remains unproven.
+* **Pediatric Boxed Warning (STARTS-2 Trial):** In pediatric PAH trials (STARTS-1 and its extension STARTS-2), high-dose sildenafil was associated with an unexplained increased mortality compared to low-dose treatment. Consequently, the FDA issued a warning discouraging the chronic use of sildenafil in pediatric patients with PAH.
+
+<span id="fig-11-03"></span>
+
+#### FIG. 11.3 Sildenafil Dose-Response in Pulmonary Arterial Hypertension (SUPER-1 Trial)
 ![](_page_25_Figure_5.jpeg)
 
-Fig. 11.3 Change in 6-minute walk test from baseline in patients treated with sildenafil versus placebo from the SUPER trial. In a placebocontrolled randomized clinical trial, 278 patients with pulmonary arterial hypertension (PAH) were randomly assigned 1:1:1:1 to monotherapy with sildenafil, or 80mg three times daily or placebo. Figure shows the change from baseline 6-minute walk test distance at week 12 for each of the four arms. There was significant improvement compared to baseline in all active arms; in contrast, no difference was seen in patients taking placebo. (Modified from Galie` N, Ghofrani HA, Torbicki A, et al. Sildenafil citrate therapy for pulmonary arterial hypertension. N Engl J Med 2005;353:2148–2157.)
+*Change in 6-minute walk test (6MWT) distance from baseline in patients treated with oral sildenafil (20 mg, 40 mg, or 80 mg three times daily) versus placebo in the landmark multicenter SUPER-1 trial. All three active doses demonstrated rapid and sustained improvements in exercise capacity compared to placebo ($p < 0.001$), with no statistically significant incremental benefit observed above 20 mg TID.*
 
-Tadalafil, and 40mg daily (but not 2.5mg) showed efficacy in improving 6MWT distance over placebo. In addition, the high-dose group (40mg daily) showed significantly improved time to clinical worsening over placebo.
+</div></details>
 
-## Soluble Guanyl Cyclase Stimulators
+<details class="med-details"><summary>
 
-The sGC stimulator riociguat was proven efficacious in the 443 patient PATIENT-1 trial.<sup>87</sup> Included patients suffered from PAH and were either taking no background therapy (50% of participants) or were taking stable doses of an ERA and/or a prostanoid (excluding intravenous prostanoid). Participants were randomized to placebo or riociguat, individually adjusted, up to 2.5 or 1.5mg three times daily. After 12 weeks, the mean difference in 6MWT between the 2.5mg riociguat group and placebo was 36 meters. This was accompanied by hemodynamic improvements, including lower pulmonary vascular resistance, lower mPAP, and higher cardiac output in the riociguat group.
+#### 2. Tadalafil (Adcirca)</summary><div class="details-content">
+* **Pharmacology & Structure:** Tadalafil is a structurally distinct PDE-5 inhibitor characterized by a long elimination half-life ($\sim 15–17.5\text{ hours}$), which enables convenient **once-daily oral administration**.
+* **Clinical Trial Evidence (PHIRST-1 Trial):**
+  * *Design:* The Pulmonary Arterial Hypertension and Response to Tadalafil (PHIRST-1) study randomized 405 patients with PAH (treatment-naïve or on background bosentan therapy) to receive placebo or tadalafil at daily oral doses of 2.5 mg, 10 mg, 20 mg, or 40 mg once daily for 16 weeks.
+  * *Efficacy:* Only the **40 mg once-daily dose** demonstrated a statistically significant improvement in exercise capacity, increasing mean 6MWD by $+33\text{ meters}$ overall ($p < 0.001$). In treatment-naïve patients, the 40 mg dose achieved an impressive $+44\text{ meter}$ improvement.
+  * *Secondary Outcomes:* Tadalafil 40 mg significantly prolonged the time to clinical worsening, reduced the incidence of clinical worsening by 68% ($\text{HR } 0.32$, $p = 0.038$), and improved health-related quality of life measures.
+* **Dosing Regimen & Adjustments:**
+  * *Standard Dose:* **40 mg orally once daily** (taken as two 20 mg tablets simultaneously once per day in the morning).
+  * *Renal Impairment:* In mild-to-moderate renal impairment (creatinine clearance $30–50\text{ mL/min}$), initiate at 20 mg once daily, titrating to 40 mg once daily based on individual tolerability. Avoid use in severe renal dysfunction ($\text{CrCl} < 30\text{ mL/min}$) or hemodialysis.
+  * *Hepatic Impairment:* In mild or moderate hepatic impairment (Child-Pugh Class A or B), consider a starting dose of 20 mg once daily. Avoid use in severe hepatic impairment (Child-Pugh Class C).
 
-#### Endothelin Receptor Antagonists
+</div></details>
 
-Bosentan was the first oral vasodilator proven to benefit patients with PAH. Compared to placebo in FC III and IV patients taking no other therapy, it was shown to improve symptoms and increase 6MWT (BREATHE-1).<sup>89</sup> The follow-up study, BREATHE-2, which randomized patients (approximately 75% FC III and 25% FC IV) to epoprostenol versus epoprostenol plus bosentan, did not show a significant difference in outcomes between the two groups.<sup>37</sup>
+</div></details>
 
-Monotherapy with ambrisentan was evaluated in the concurrent ARIES-1 and ARIES-2 studies, each testing several dosing alternatives to placebo in PAH patients with predominantly FC III presentations on no other therapy. Subjective dyspnea, as well as 6MWT distance, improved at the end of the 12-week study period.<sup>90</sup> SERAPHIN was a modern trial of macitentan, the newest ERA, for use as either monotherapy or add-on therapy in PAH.<sup>91</sup> Approximately two-thirds of the 250 patients randomized were taking a PDE-5i at randomization. Macitentan 10mg daily was associated with a 45% reduction in the primary composite endpoint, a combination of death or disease worsening.
+<details class="med-details"><summary>
 
-# Side Effects
+### 5.3 Soluble Guanylyl Cyclase (sGC) Stimulators: Riociguat (Adempas)</summary><div class="details-content">
 
-Almost invariably, PAH therapies are associated with side effects of vasodilation—generally with severity directly related to agent potency. Various class-wide side effects are shown in Table 11.5.
+In advanced PAH, severe endothelial dysfunction leads to profound depletion of endogenous nitric oxide. Under conditions of absolute NO deficiency, the therapeutic efficacy of PDE-5 inhibitors is fundamentally constrained because they rely entirely on an intact upstream NO supply to generate cGMP. Soluble guanylyl cyclase (sGC) stimulators were developed to bypass this critical limitation.
 
-#### **Prostanoids**
+* **Dual Mechanism of Action:**
+  * *Direct Stimulatory Action:* Riociguat directly stimulates sGC by binding to an allosteric regulatory site distinct from the catalytic NO-binding domain. This stimulates catalytic conversion of GTP to cGMP independently of endogenous NO availability.
+  * *Sensitization to Endogenous NO:* Riociguat concurrently stabilizes the active nitrosyl-heme conformation of sGC, allosterically sensitizing the enzyme to whatever residual endogenous NO remains present.
+* **Broad Clinical Indications:**
+  * *Pulmonary Arterial Hypertension (WHO Group 1):* Proven efficacious in the 443-patient pivotal PATENT-1 trial and its long-term extension PATENT-2, improving 6MWD ($+36\text{ m}$), PVR, and time to clinical worsening.
+  * *Chronic Thromboembolic Pulmonary Hypertension (CTEPH, WHO Group 4):* Demonstrated efficacy in the landmark CHEST-1 trial (261 patients), improving 6MWD ($+46\text{ m}$) and PVR ($-226\text{ dyn}\cdot\text{s}\cdot\text{cm}^{-5}$) in patients with **inoperable CTEPH** or persistent/recurrent pulmonary hypertension after pulmonary endarterectomy (PEA). Riociguat remains the only FDA-approved medical pharmacotherapy for CTEPH.
+* **Dosing Protocol & Mandatory Individualized Titration:**
+  * *Starting Dose:* **1.0 mg orally three times daily** (TID), taken approximately 6 to 8 hours apart. For patients susceptible to hypotension, a starting dose of 0.5 mg TID may be considered.
+  * *Dose Titration:* Blood pressure must be assessed prior to every dose escalation. The dose is titrated upward by 0.5 mg TID every 2 weeks, based on systemic systolic blood pressure ($\ge 95\text{ mmHg}$) and absence of symptoms of hypotension, up to a **maximum maintenance dose of 2.5 mg TID**.
+  * *Interruption & Restarting:* If treatment is interrupted for 3 or more days, the drug must be re-initiated at 1.0 mg TID and re-titrated upward according to the standard schedule.
+  * *Smoking Interaction:* Cigarette smoking significantly induces CYP1A1-mediated clearance of riociguat, decreasing systemic exposure by more than 50%. Smokers may require titration up to the maximum 2.5 mg TID dose; if a patient ceases smoking during therapy, dose reduction is mandatory to avoid severe hypotension.
 
-Typical and nearly universal side effects of epoprostenol and treprostinil infusion therapy are jaw pain (trismus), flushing, nausea, and headaches. Frequency can range from over half of patients to nearly 90%. Diffuse body aches, diarrhea, and vomiting can also occur. Side effects are typically dose-related, but they often improve with symptomatic support and time, without necessitating dose decrease. For patients using subcutaneous delivery devices for treprostinil, injection site pain is common occurrence, and can often be managed by rotating the infusion site. Fewer than 10% of patients may have to discontinue therapy due to injection site pain. 79 For patients receiving intravenous medication, central line infections are a serious concern, especially in PAH patients who, if requiring parenteral therapy, likely have little physiologic reserve. In one observational series of patients on long-term epoprostenol, there were 119-line infections, and 70 episodes of sepsis, in 162 over an average of 3 years of follow-up. 110
+#### Absolute Contraindications & Life-Threatening Interactions
+* **Coadministration with PDE-5 Inhibitors (The PATENT-PLUS Trial):** Concomitant use of riociguat with any PDE-5 inhibitor (sildenafil, tadalafil, vardenafil) is **strictly contraindicated**. In the randomized PATENT-PLUS trial, combining riociguat with sildenafil resulted in severe, refractory systemic hypotension, syncope, and adverse events without any hemodynamic or functional benefit.
+* **Mandatory Washout Intervals:**
+  * Discontinue sildenafil at least **24 hours** prior to initiating riociguat.
+  * Discontinue tadalafil at least **48 hours** prior to initiating riociguat.
+  * Discontinue riociguat at least **24 hours** prior to starting a PDE-5 inhibitor.
+* **Coadministration with Organic Nitrates:** Concomitant administration with nitroglycerin, isosorbide dinitrate, or any NO donor is absolutely contraindicated due to catastrophic systemic vasodilation and circulatory collapse.
+* **Pregnancy & Teratogenicity:** Riociguat causes major fetal malformations (REMS program mandate; negative monthly pregnancy tests required in females of reproductive potential).
 
-All prostanoids inhibit platelet function;<sup>41</sup> thus bleeding is a common side effect of their use. This is particularly true of PAH patients on oxygen, among whom epistaxis is a common complaint.
+</div></details>
 
-Unintended hemodynamic consequences can be seen with virtually all PAH therapy. These include hypotension as well as high output heart failure, which may lead to pulmonary edema.
+<details class="med-details"><summary>
 
-#### **IP** receptor agonists
+### 5.4 Comparative Pharmacology of NO-cGMP Pathway Modulators</summary><div class="details-content">
 
-Side effects with selexipag are similar to those for prostanoids: headache, diarrhea, jaw pain, nausea, and myalgia. Hyperthyroidism was more common among patients taking selexipag than placebo in a large clinical trial. The mechanism and implications of such thyroid dysfunction are currently unclear. §3
+Understanding the pharmacokinetic, metabolic, and clinical differences among agents targeting the NO-sGC-cGMP cascade is essential for optimizing individual patient regimens.
 
-# **Phosphodiesterase type 5 inhibitors**
+<span id="tab-11-07"></span>
 
-Class-related side effects of PDE-5is include hypotension, headache, and nausea. In a trial of sildenafil in a population of patients all with connective tissue disease associated PAH, epistaxis was more common (13%) than reported in other populations. <sup>111</sup> Priapism is not a common side effect of PDE-5is when used in PAH; however, a placebo-controlled trial of sildenafil for sickle cell anemia—associated pulmonary hypertension was stopped early due to an increase of adverse events in the active treatment arm, including priapism. <sup>112</sup>
+### TABLE 11.7 Comparative Pharmacology of Modulators of the Nitric Oxide - cGMP Pathway
 
-In clinical trials, riociguat was generally well tolerated. Major adverse events included headache, dyspepsia, dizziness, nausea, and vomiting.87,113,114 Rare cases of drug-related syncope, gastritis, and renal failure have been reported among patients taking riociguat.
+| Pharmacological Parameter | Sildenafil (Revatio) | Tadalafil (Adcirca) | Riociguat (Adempas) |
+| :--- | :--- | :--- | :--- |
+| **Pharmacological Class** | Phosphodiesterase-5 (PDE-5) inhibitor | Phosphodiesterase-5 (PDE-5) inhibitor | Direct Soluble Guanylyl Cyclase (sGC) stimulator |
+| **Target Enzyme / Receptor** | PDE-5 catalytic domain (blocks cGMP breakdown) | PDE-5 catalytic domain (blocks cGMP breakdown) | Soluble Guanylyl Cyclase (direct stimulation + NO sensitization) |
+| **Approved Clinical Indications** | PAH (WHO Group 1, FC II–IV) | PAH (WHO Group 1, FC II–III) | PAH (WHO Group 1) and Inoperable / Recurrent CTEPH (WHO Group 4) |
+| **Standard Dosing Regimen** | 20 mg orally three times daily (TID) | 40 mg orally once daily (QD) | 1.0 mg TID, titrated every 2 weeks by 0.5 mg to max 2.5 mg TID |
+| **Alternative Formulations** | Intravenous solution (10 mg IV bolus TID) | Oral tablets only | Oral tablets only |
+| **Elimination Half-Life ($t_{1/2}$)** | $\sim 4\text{ hours}$ | $\sim 15–17.5\text{ hours}$ | $\sim 7\text{ hours}$ (healthy); $\sim 12\text{ hours}$ (PAH patients) |
+| **Hepatic Metabolism** | Major CYP3A4, minor CYP2C9; active metabolite | Extensively metabolized by CYP3A4 | Multiple pathways: CYP1A1, CYP3A4, CYP2C8, CYP2J2 |
+| **Influence of Smoking** | Minor | None | **Substantial:** CYP1A1 induction reduces drug AUC by $>50\%$ |
+| **Dose Adjustments in Renal Failure** | No dose adjustment required | Titrate from 20 mg QD if CrCl $30–50$; avoid if $\text{CrCl} < 30\text{ mL/min}$ | Titrate with caution; no formal dose adjustment for mild-mod |
+| **Common Adverse Reactions** | Headache (46%), flushing, dyspepsia, epistaxis | Headache (42%), myalgia, back pain, dyspepsia | Headache (28%), dyspepsia, dizziness, peripheral edema, hypotension |
+| **Unique / Serious Risks** | Visual disturbances (cyanopsia), NAION, priapism | Visual disturbances, NAION, myalgias | Serious hemoptysis / pulmonary hemorrhage, syncope |
+| **Absolute Contraindications** | Organic nitrates, riociguat | Organic nitrates, riociguat | Organic nitrates, all PDE-5 inhibitors, pregnancy (REMS) |
 
-# Endothelin Receptor Antagonists
+</div></details>
 
-Common class side effects of ERA therapy include headache and dizziness.<sup>115</sup> Idiosyncratic agent adverse effects, however, include risk of hepatotoxity, thought to be chiefly attributable to bosentan. In a trial of 213 patients randomized to bosentan or placebo, the incidence of abnormal liver function tests >five times the upper limit of normal. This occurred in 3% of participants taking placebo, 4% among patients taking 125mg twice daily, but 14% among participants taking 250mg twice daily.<sup>89</sup> Study drug was discontinued for aminotransferase >eight times the upper limit of normal in 2% of active drug patients and 0% of controls. In the ARIES trials of ambrisentan, no patients on active drug were reported to have serum aminotransferase concentrations greater than three times the upper limit of normal, compared to three patients (2.3%) taking placebo. Macitentan is generally very well tolerated, but headache, nasopharyngitis, and anemia have been seen with higher frequency in participants taking macitentan compared with controls.<sup>91</sup>
+</div></details>
 
-# Drug Interactions
+<details class="med-details"><summary>
 
-# Prostanoids
+## 6. The Prostacyclin Pathway: Prostanoids & Oral IP Receptor Agonists</summary><div class="details-content">
 
-The prostanoids are free of major drug-drug interactions that limit use. In all prostanoids, the antiplatelet and antithrombotic effects might be exacerbated in patients who receive anticoagulation for other indications. There has been some concern for decreased clearance of furosemide in patients administered both epoprostenol and furosemide, but the effect was small, found in only a single study, and may be statistical aberration.116Due to its metabolism by CYP2C8, treprostinil is susceptible to drug interactions by agents that induce (such as rifampin) or inhibit (e.g., gemfibrozil) this enzyme.100
+Prostacyclin ($\text{PGI}_2$) is an endogenous eicosanoid synthesized primarily by vascular endothelial cells through the sequential actions of cyclooxygenase (COX-1/COX-2) and prostacyclin synthase ($\text{PGIS}$). Prostacyclin pathway therapies represent the most potent vasodilatory, anti-proliferative, and anti-thrombotic pharmacological agents available in pulmonary medicine.
 
-# IP Receptor Agonists
+<details class="med-details"><summary>
 
-Like treprostinil, selexipag is extensive metabolized by CYP2C8. Coadministration with strong inhibitors of this enzyme, such as gemfibrozil, is not advised due to the risk of selexipag toxicity. Selexipag undergoes partial metabolism by CYP3A4, but it is not clear that there is a risk of significant drug-to-drug interactions between selexipag and agents that affect this enzyme. <sup>117</sup> Selexipag should not be used concurrently with prostanoids due to shared action site at the IP receptor. <sup>1</sup>
+### 6.1 Pathobiology of Prostacyclin Deficit & Pharmacology of the IP Receptor</summary><div class="details-content">
 
-# **Phosphodiesterase Type 5 Inhibitors**
+In patients with pulmonary arterial hypertension, vascular endothelial expression of prostacyclin synthase is profoundly diminished, while the production of thromboxane $\text{A}_2$ ($\text{TXA}_2$)—a potent vasoconstrictor and platelet activator—is markedly upregulated. This pronounced imbalance ($\text{TXA}_2 \gg \text{PGI}_2$) creates a local biochemical environment that favors unremitting pulmonary vasoconstriction, thrombosis in situ, and medial smooth muscle hypertrophy.
 
-Both sildenafil and tadalafil may cause lowering of systemic blood pressure, and so caution is advised when combining these agents with other antihypertensives. It should be noted, however, that the systemic blood pressure lowering effect of these agents is modest; in a preapproval hemodynamic study of healthy volunteers, administration of a high dose of sildenafil (50 mg three times daily) resulted in a systemic systolic blood pressure decrease of only 6 mmHg. <sup>63</sup> PAH patients with abnormal baseline hemodynamics may respond more dramatically however. Due to shared pathway of action on the NO-cGMP pathway, oral nitrates should never be coadministered with PDE-5is.
+Prostacyclin exerts its biological actions primarily by binding to the prostacyclin (IP) receptor, a seven-transmembrane G-protein-coupled receptor ($\text{G}_s$) located on the surface of PASMCs and circulating platelets:
+* **Adenylyl Cyclase Stimulation:** IP receptor activation stimulates adenylyl cyclase, accelerating the synthesis of cyclic adenosine monophosphate (cAMP) from ATP.
+* **Protein Kinase A (PKA) Activation:** cAMP activates PKA, which phosphorylates downstream targets:
+  * Inhibits myosin light-chain kinase (MLCK), relaxing pulmonary vascular smooth muscle.
+  * Stimulates $\text{K}^+$ efflux through voltage-gated and $\text{K}_{\text{ATP}}$ channels, producing membrane hyperpolarization.
+  * Reduces cytosolic free $\text{Ca}^{2+}$ via SERCA activation and sodium-calcium exchanger extrusion.
+* **Platelet Anti-Aggregatory Effect:** Elevated cAMP within platelets powerfully prevents activation, aggregation, and thrombosis in the microvasculature.
+* **Receptor Desensitization Phenomena:** Chronic continuous exposure to high concentrations of authentic prostanoids leads to phosphorylation-dependent desensitization and internalization of IP receptors. This pharmacodynamic tachyphylaxis explains why patients on parenteral prostanoids frequently require continuous dose uptitration over time to maintain clinical stability.
 
-Sildenafil is metabolized via CYP3A4 and to a lesser extent CYP2C9 and should be avoided in patients taking the antiviral ritonavir and other potent CYP3A4 inhibitors—an important consideration in patients with HIV-associated PAH. II8 A similar interaction is seen with tadalafil, which is also extensively metabolized via CYP3A4.
+</div></details>
 
-Pharmacodynamic studies have suggested that bosentan, an inducer of both CYP3A4 and CYP2C9, may lead to reduced serum levels of sildenafil in patients taking both. <sup>120</sup> Interestingly, this may explain why trials examining dual therapy with sildenafil and bosentan in PAH have been negative. <sup>121,122</sup>
+<details class="med-details"><summary>
 
-## **Soluble Guanylyl Cyclase Stimulators**
+### 6.2 Parenteral Prostanoids: Epoprostenol and Treprostinil</summary><div class="details-content">
 
-The sGC stimulator riociguat acts via the NO-sGC-cGMP pathway and thus should not be coadministered with a PDE-5i. Use of riociguat along with strong CYP and P-glycoprotein/BCRP inhibitors (ketoconazole, itraconazole, ritonavir) may increase riociguat levels and risk of toxicity. 123
+Continuous parenteral prostanoid infusion is the gold-standard foundation of therapy for patients presenting with high-risk, hemodynamically unstable, or WHO Functional Class IV pulmonary arterial hypertension.
 
-## **Endothelin Receptor Antagonists**
+<details class="med-details"><summary>
 
-Bosentan is an inducer of CYP3A4 and CYP2C9, a finding that may have clinical relevance when coadministered with sildenafil, as discussed previously. Unlike bosentan, ambrisentan does not appear to share this risk. <sup>120</sup> However, ambrisentan is metabolized by
+#### 1. Epoprostenol (Flolan Versus Veletri)</summary><div class="details-content">
+* **Historical Grounding & Survival Impact:** Epoprostenol (synthetic prostacyclin) was the first targeted pharmacotherapy approved for PAH (1995). In the landmark randomized clinical trial led by Barst and colleagues (NEJM, 1996), epoprostenol administered via continuous intravenous infusion demonstrated a statistically significant **reduction in mortality** in patients with severe idiopathic PAH compared with conventional therapy alone ($p = 0.003$). It remains the only PAH monotherapy to prospectively demonstrate an upfront mortality benefit.
+* **Pharmacokinetics & Delivery Demands:** Epoprostenol has an extraordinarily short chemical half-life of **3 to 6 minutes** in human plasma, undergoing spontaneous, non-enzymatic hydrolysis at physiological pH into 6-keto-PGF$_{1\alpha}$. Because of this rapid clearance, epoprostenol must be delivered via uninterrupted, continuous intravenous infusion through a permanent central venous tunneled catheter (e.g., Hickman or Broviac catheter) connected to a computerized ambulatory micro-infusion pump (CADD).
+* **Formulation Advances: Flolan vs. Veletri:**
+  * *Flolan (Original Formulation):* Reconstituted with a glycine-mannitol diluent at pH 10.2–10.8. Due to temperature-sensitive chemical instability, reconstituted Flolan is stable at room temperature for only **8 hours**. To maintain stability for a full 24-hour infusion cassette, patients must continuously wear specialized ice packs or cold pouches surrounding the pump reservoir.
+  * *Veletri (Room-Temperature Formulation):* Formulated with L-arginine and sucrose excipients at a higher pH ($\sim 11.5–12.0$). Veletri is stable at room temperature ($25^\circ\text{C}$) for **up to 48 hours** (and up to 24 hours at $30^\circ\text{C}$) without requiring cold packs, greatly simplifying home management and eliminating ice pack-related dosing interruptions.
+* **Dosing & Titration Protocols:**
+  * *Initiation:* Initiated in an intensive care or specialized inpatient monitoring unit at **2 to 4 ng/kg/min**.
+  * *Escalation:* The infusion rate is uptitrated by increments of 1 to 2 ng/kg/min every 15 to 30 minutes during acute monitoring, and subsequently by 1 to 2 ng/kg/min every few days to weeks based on clinical symptoms and prostanoid-related adverse effects.
+  * *Target Maintenance Dose:* Typical therapeutic maintenance doses range between **20 and 40 ng/kg/min** at 1 year, though some advanced patients require escalation above 60 to 100 ng/kg/min over several years due to progressive disease and receptor desensitization.
+* **Catheter-Related Complications & Rebound Phenomenon:**
+  * *Catheter-Related Bloodstream Infections (CRBSI):* Central line sepsis (frequently caused by *Staphylococcus epidermidis*, *Pseudomonas*, or enteric Gram-negative bacilli) represents a life-threatening recurrent hazard.
+  * *Fatal Rebound Vasoconstriction:* Because of its 3-to-6-minute half-life, sudden accidental interruption of an epoprostenol infusion (due to pump malfunction, catheter occlusion, or dislodgement) results in rapid, catastrophic rebound pulmonary vasoconstriction, acute right ventricular failure, and circulatory collapse. Every patient must maintain a backup pump, pre-mixed medication cassettes, and emergency contact protocols.
 
-CYP3A4 and CYP2C19, and concomitant administration with strong inducers or inhibitors of those enzymes is discouraged. Macitentan is also metabolized by CYP3A4, but in vivo pharmacokinetic studies seem to support low risk of drug-to-drug interactions with macitentan.  $^{106,124}\,$ 
+</div></details>
 
-# **Experimental Drugs**
+<details class="med-details"><summary>
 
-Despite the many advances in the understanding of and care for patients with PAH in the years since the first PAH therapies became available. PAH remains a difficult disease to treat—it remains incurable and the field is lacking a complete molecular understanding of disease pathogenesis. 125 Although recently approved drugs, such as oral treprostinil, selexipag, and riociguat, represent exciting new drug formulations and/or oral therapy options, they are all active along established mechanistic and vasodilatory pathways. In fact, not since sildenafil in 2005 has a PAH drug been approved with an entirely new mechanism of action (Fig. 11.4). Additional agents leveraging established therapeutic pathways are currently under development. Ralinepag, a new IP receptor agonist, <sup>126</sup> is currently in phase III clinical trial (ClinicalTrials.gov Identifier: NCT03626688). A phase III randomized trial (NCT01908699) of the addition of the oral prostanoid beraprost-314d to inhaled treprostinil has completed with preliminary reports indicating that it did not meet its primary endpoint; official results are pending. 127
+#### 2. Treprostinil: Subcutaneous and Intravenous (Remodulin)</summary><div class="details-content">
+* **Molecular Engineering & Stability:** Treprostinil is a chemically stable tricyclic prostacyclin analogue. Unlike epoprostenol, treprostinil is chemically stable at physiological pH and ambient room temperature for **up to 14 days** once reconstituted with sterile diluent. Furthermore, treprostinil exhibits a much longer elimination half-life of **approximately 4.5 hours**.
+* **Subcutaneous (SC) Infusion (The Primary Innovation):**
+  * *Elimination of Sepsis Risk:* Remodulin was engineered to be infused subcutaneously via a miniature external micro-infusion pump through a fine subcutaneous catheter placed in the anterior abdominal wall. Continuous SC infusion completely circumvents the need for a permanent indwelling central venous catheter, virtually eliminating the lethal risks of line-related sepsis and air embolism.
+  * *Infusion Site Pain (The Limiting Challenge):* Subcutaneous treprostinil causes severe, localized injection site pain and erythematous induration in **$>85\%$ of patients**. The pain is often described as severe, throbbing, or burning, leading to premature discontinuation in up to 10% of individuals despite multimodal analgesic strategies (topical lidocaine, capsaicin patches, NSAIDs, cold packs, and gabapentinoids).
+* **Intravenous (IV) Infusion:**
+  * For patients who cannot tolerate subcutaneous site pain or require rapid titration, Remodulin can be administered via continuous central intravenous infusion.
+  * Compared with epoprostenol, IV treprostinil carries a reduced frequency of cassette changes (cassettes may last up to 48–72 hours) and has a wider safety buffer: an inadvertent pump interruption does not cause immediate cardiovascular collapse due to the 4.5-hour half-life, allowing time to replace the pump or infusion set safely. However, Gram-negative bacteremia (notably *Enterobacter cloacae*, *Pseudomonas*) has been reported more frequently with IV treprostinil diluent than with alkaline epoprostenol diluents.
+* **Dosing Protocols:**
+  * Initiated at **1.25 ng/kg/min** (or 0.625 ng/kg/min if poorly tolerated) and increased weekly by 1.25 to 2.5 ng/kg/min.
+  * Target maintenance doses typically reach **40 to 80 ng/kg/min** over the first 6 to 12 months.
+  * Hepatic Metabolism: Extensively cleared by hepatic CYP2C8; clearance is significantly compromised in patients with mild-to-moderate hepatic dysfunction, necessitating dose reduction.
 
-Drugs with novel mechanisms of action are under development, as investigators work to transform new insights of pulmonary vascular remodeling and right ventricular dysfunction into the molecular basis of PAH into therapeutic targets. For example, pursuant to the discovery of multiple inflammatory pathways that initiate and sustain PAH pathogenesis, a number of candidate therapeutic agents are currently under evaluation that have antiinflammatory effects. Bardoxolone methyl is an orally available triterpenoid that inhibits inhibitor transcription factor NF-κΒ<sup>130</sup> and is currently undergoing evaluation in patients with connective tissue disease-associated PAH (NCT02657356). Other specific antiinflammatory therapies, including the anti-CD20 inhibitor rituximab, are under study in planned or ongoing early phase trials. In addition to inflammation, BMPR2-related signaling is being targeted for new drug therapy, as are PAH-specific alterations seen in vascular metabolism,  $^{53}$  stiffening, and peroxisome proliferator-activated receptor gamma (PPAR- $\gamma$ ) activity.  $^{131,132}$  Such discoveries hold promise for new therapies under development.  $^{133-135}$  Finally, rapid advances in new genetic associations with PAH will almost certainly lead to new molecular targets.
+</div></details>
 
+</div></details>
+
+<details class="med-details"><summary>
+
+### 6.3 Inhaled Prostanoids: Iloprost (Ventavis) and Treprostinil (Tyvaso)</summary><div class="details-content">
+
+Inhaled delivery delivers prostacyclin analogues directly into the alveolar capillary beds of ventilated lung units, minimizing systemic arterial vasodilation while preserving ventilation-perfusion matching.
+
+<details class="med-details"><summary>
+
+#### 1. Inhaled Iloprost (Ventavis)</summary><div class="details-content">
+* **Pharmacology & Delivery Device:** Iloprost is a synthetic carbacyclin analogue administered exclusively via specialized piezoelectric vibrating-mesh nebulizers (the I-neb AAD or Prodose systems) that synchronize aerosol pulse delivery with the patient's inspiratory effort.
+* **Clinical Trial Evidence (The AIR Trial):** In the European Aerosolized Iloprost Randomized (AIR) study (203 patients), inhaled iloprost significantly improved exercise capacity (6MWD $+36\text{ m}$), improved functional class, and delayed clinical worsening compared with placebo.
+* **Dosing Burden & Limitations:**
+  * *Dose:* Initiated at **2.5 $\mu\text{g}$ per inhalation session**, increasing to **5.0 $\mu\text{g}$ per session** as tolerated.
+  * *High Dosing Frequency:* Because iloprost has an elimination half-life of only **20 to 30 minutes**, pulmonary vasodilation wanes within 60 to 90 minutes after inhalation. Consequently, patients must inhale the medication **6 to 9 times daily** during waking hours (each session taking 4 to 10 minutes).
+  * This rigorous, repetitive administration schedule creates a substantial lifestyle burden, leading to poor long-term compliance and frequent nocturnal hemodynamic lapses.
+  * Common adverse effects include cough, bronchospasm (caution in reactive airway disease), headache, and flushing.
+
+</div></details>
+
+<details class="med-details"><summary>
+
+#### 2. Inhaled Treprostinil (Tyvaso)</summary><div class="details-content">
+* **Pharmacology & Dosing Advantage:** Utilizing an ultrasonic nebulizer system, inhaled treprostinil leverages the longer half-life of treprostinil to allow a convenient **four-times-daily (QID)** dosing regimen administered during waking hours.
+* **Pivotal Trial Evidence:**
+  * *The TRIUMPH Trial (WHO Group 1 PAH):* Evaluated inhaled treprostinil added to background oral therapy (bosentan or sildenafil) in 235 patients, demonstrating a statistically significant improvement in median 6MWD ($+20\text{ m}$, $p = 0.0004$) and quality of life scores.
+  * *The Landmark INCREASE Trial (WHO Group 3 Pulmonary Hypertension):* In 326 patients with pulmonary hypertension associated with interstitial lung disease (PH-ILD), inhaled treprostinil produced a profound improvement in 6MWD ($+31\text{ meters}$ vs. placebo, $p < 0.001$), accompanied by significant reductions in NT-proBNP and clinical worsening. This trial established Tyvaso as the first and only FDA-approved medication for Group 3 PH-ILD.
+* **Dosing Regimen:**
+  * Initiated at **3 breaths (18 $\mu\text{g}$) per treatment session four times daily** (administered during waking hours, ~ 4 hours apart).
+  * Titrated upward by 3 breaths per session every 1 to 2 weeks, targeting a maintenance dose of **9 to 12 breaths (54–72 $\mu\text{g}$) four times daily**.
+  * Adverse effects include throat irritation, cough, headache, dizziness, and mild systemic hypotension.
+
+</div></details>
+
+</div></details>
+
+<details class="med-details"><summary>
+
+### 6.4 Oral Prostacyclin Pathway Agents: Oral Treprostinil and Selexipag</summary><div class="details-content">
+
+Developing orally bioavailable therapies targeting the prostacyclin pathway has represented a paramount objective in pulmonary vascular medicine, overcoming the severe morbidities and technical complexity of parenteral infusions and inhalers.
+
+<details class="med-details"><summary>
+
+#### 1. Oral Treprostinil (Orenitram)</summary><div class="details-content">
+* **Formulation & Mechanism:** Orenitram is an extended-release osmotic tablet core that continuously releases treprostinil over 8 to 12 hours.
+* **Clinical Trial Evidence:**
+  * *FREEDOM-M Trial:* In treatment-naïve patients, oral treprostinil monotherapy improved 6MWD by $+23\text{ meters}$ at week 12.
+  * *FREEDOM-EV Trial (2019):* In 690 patients receiving background oral monotherapy or dual combination therapy, oral treprostinil significantly reduced the risk of clinical worsening events by **26%** ($\text{HR } 0.74$, $p = 0.039$).
+* **Administration & Meal Requirements:**
+  * Food dramatically enhances oral bioavailability: Orenitram **must be taken with food**, preferably high-calorie, high-fat meals.
+  * *Dosing:* Initiated at **0.125 mg three times daily (TID)** or **0.25 mg twice daily (BID)**, uptitrated slowly every 3 to 4 days by 0.125–0.25 mg increments to the maximum tolerated individual maintenance dose (often 3 to 12 mg total daily).
+  * Discontinuation or abrupt interruption is avoided; tablets must be swallowed whole without chewing or crushing.
+
+</div></details>
+
+<details class="med-details"><summary>
+
+#### 2. Selexipag (Uptravi): Selective Oral IP Receptor Agonist</summary><div class="details-content">
+* **Structure & Novel Pharmacology:** Selexipag is a diphenylpyrazine derivative designed as a non-prostanoid, highly selective prostacyclin (IP) receptor agonist.
+  * *Active Metabolite (ACT-333679):* Selexipag is rapidly hydrolyzed in the liver by carboxylesterase 1 (CES1) into its free carboxylic acid metabolite, ACT-333679. This metabolite is **37 times more potent** than parent selexipag at the human IP receptor and possesses a prolonged elimination half-life of **7.9 to 10.3 hours**.
+  * *IP Receptor Selectivity & Minimal Desensitization:* Unlike authentic prostanoids (epoprostenol, treprostinil), which cross-react with other prostanoid receptor subtypes ($\text{EP}_1, \text{EP}_3, \text{DP}_1$), selexipag and ACT-333679 are exquisitely selective for the IP receptor. Furthermore, selexipag demonstrates substantially less receptor desensitization and internalization during chronic exposure.
+* **The Landmark GRIPHON Trial (2015):**
+  * *Trial Scale & Population:* The Prostacyclin (PGI$_2$) Receptor Agonist in Pulmonary Arterial Hypertension (GRIPHON) study enrolled **1,156 patients** with PAH, making it one of the largest randomized morbidity/mortality trials ever conducted in PAH.
+  * *Primary Composite Endpoint:* Selexipag produced a statistically and clinically profound **40% relative risk reduction in morbidity and mortality** compared with placebo ($\text{HR } 0.60$, $95\%\text{ CI } 0.46–0.78$, $p < 0.001$).
+  * *Add-On Efficacy:* The therapeutic benefit was consistently robust across patients receiving background oral monotherapy (ERA or PDE-5i) or **background dual combination therapy** (ERA + PDE-5i), firmly establishing selexipag as the premier oral add-on agent for sequential triple combination therapy.
+* **Individualized Titration Strategy:**
+  * *Starting Dose:* **200 $\mu\text{g}$ orally twice daily** (BID), taken with food.
+  * *Titration:* Increased weekly in increments of 200 $\mu\text{g}$ BID up to the patient's **individual maximum tolerated dose** (ceiling dose of **1600 $\mu\text{g}$ BID**).
+  * If intolerable prostanoid adverse effects arise, reduce the dose by 200 $\mu\text{g}$ BID and maintain that level as the long-term maintenance dose.
+* **Adverse Effect Profile:** Typical prostacyclin-mediated effects: headache (65%), diarrhea (42%), jaw pain (26%), nausea (33%), myalgia, and flushing.
+* **Drug Interactions:** Extensively metabolized by CYP2C8 and CYP3A4. Concomitant administration with strong CYP2C8 inhibitors (e.g., **gemfibrozil**) is **strictly contraindicated** as it dramatically increases selexipag exposure and toxicity.
+
+</div></details>
+
+</div></details>
+
+<details class="med-details"><summary>
+
+### 6.5 Comprehensive Pharmacology of Prostanoids and IP Agonists</summary><div class="details-content">
+
+Reconstructing the entire therapeutic landscape of prostacyclin pathway agents provides a rigorous framework for clinical decision-making across all four administration modalities.
+
+<span id="tab-11-05"></span>
+
+### TABLE 11.5 Regulatory Approvals and High-Level Evidence for Prostacyclin Pathway Therapies
+
+| Agent & Trade Name | Approved Route(s) | Primary Molecular Mechanism | Landmark Pivotal Trials | Notable Clinical Strengths & Limitations |
+| :--- | :--- | :--- | :--- | :--- |
+| **Epoprostenol**<br>(Flolan, Veletri) | Continuous Intravenous (IV) | Synthetic prostacyclin; activates IP, $\text{EP}_2$, $\text{DP}_1$ receptors | Barst et al. 1996 (IPAH survival)<br>Badesch et al. 2000 (SSc-PAH) | **Gold standard in high-risk PAH.** Proven mortality benefit. Demands indwelling central line; risk of CRBSI and fatal rebound upon interruption. |
+| **Treprostinil**<br>(Remodulin) | Continuous Subcutaneous (SC) or Continuous IV | Stable tricyclic prostanoid; IP receptor agonist | Simonneau et al. 2002 (SC)<br>TRUST 2006 (IV)<br>Tapson et al. 2006 | SC eliminates catheter-related sepsis but causes severe infusion site pain in $>85\%$. IV stable for 14 days at room temperature. |
+| **Treprostinil**<br>(Tyvaso) | Ultrasonic Inhalation | Aerosolized prostanoid delivered to alveoli | TRIUMPH 2010 (PAH add-on)<br>INCREASE 2021 (PH-ILD) | Convenient 4-times-daily inhalation. Only approved therapy for Group 3 PH associated with interstitial lung disease. |
+| **Treprostinil**<br>(Orenitram) | Oral Extended-Release Osmotic Tablet | Oral prostacyclin analogue; systemic absorption | FREEDOM-M 2012 (Monotherapy)<br>FREEDOM-EV 2019 (Morbidity/Mortality) | Avoids infusion devices. Must be taken with high-fat meals. Significant GI side effects; modest functional impact. |
+| **Iloprost**<br>(Ventavis) | Inhalation via I-neb / Prodose | Chemically stable carbacyclin analogue; IP agonist | AIR 2002 (Olschewski et al.)<br>STEP 2006 (Add-on to Bosentan) | Rapid pulmonary vasodilation with minimal systemic drop. Requires 6 to 9 inhalations daily; poor long-term compliance. |
+| **Selexipag**<br>(Uptravi) | Oral Tablets (Film-coated) | Non-prostanoid, highly selective oral IP receptor agonist | GRIPHON 2015 (1,156 patients;<br>Morbidity & Mortality) | **Premier oral add-on for sequential triple therapy.** 40% reduction in morbidity/mortality. Minimal receptor desensitization. |
+
+<span id="tab-11-06"></span>
+
+### TABLE 11.6 Comparative Clinical Pharmacology of Prostanoids and Selective IP Receptor Agonists
+
+| Pharmacological Parameter | Epoprostenol (Flolan / Veletri) | Iloprost (Ventavis) | Treprostinil (Remodulin) | Treprostinil (Tyvaso / Orenitram) | Selexipag (Uptravi) |
+| :--- | :--- | :--- | :--- | :--- | :--- |
+| **Route of Administration** | Continuous IV infusion via central line | Inhalation via I-neb vibrating mesh | Continuous SC or Continuous IV | Tyvaso: Inhalation<br>Orenitram: Oral | Oral tablets (twice daily with meals) |
+| **Receptor Selectivity** | Non-selective prostanoid (IP, $\text{EP}_2$, $\text{DP}_1$) | Non-selective prostanoid (IP, $\text{EP}_1$, $\text{EP}_3$) | Non-selective prostanoid (IP, $\text{DP}_1$, $\text{EP}_2$) | Non-selective prostanoid (IP, $\text{DP}_1$, $\text{EP}_2$) | **Highly selective non-prostanoid IP agonist** |
+| **Typical Clinical Dosage** | Start 2–4 ng/kg/min; maintain 20–40+ ng/kg/min | 2.5–5.0 $\mu\text{g}$ per session, 6–9 times daily | Start 1.25 ng/kg/min; maintain 40–80+ ng/kg/min | Tyvaso: 3–12 breaths QID<br>Orenitram: 0.125–16 mg daily | 200 $\mu\text{g}$ BID, titrate weekly to max 1600 $\mu\text{g}$ BID |
+| **Elimination Half-Life ($t_{1/2}$)** | **3 to 6 minutes** (extremely short) | 20 to 30 minutes | $\sim 4.5\text{ hours}$ | Inhaled: $\sim 4\text{ h}$<br>Oral: $\sim 4–6\text{ h}$ | Parent: 1–2.5 h<br>**Active ACT-333679: 8–10 h** |
+| **Metabolism & Elimination** | Spontaneous non-enzymatic chemical hydrolysis | Hepatic $\beta$-oxidation; renal & fecal excretion | Hepatic via CYP2C8 (major) and CYP2C9 | Hepatic via CYP2C8; fecal and urinary excretion | Hepatic CES1 to active metabolite; CYP2C8 & CYP3A4 |
+| **Thermal & Cassette Stability** | Flolan: 8 h at RT (ice pack 24 h)<br>Veletri: 48 h at RT | Single-use ampules (use immediately) | Stable 14 days at room temperature | Inhaled: stable ampules<br>Oral: room temperature | Stable at room temperature |
+| **Catheter / Device Complications** | CRBSI, line sepsis, pump failure, thrombosis | Nebulizer clogging, device malfunction | SC: severe site pain ($>85\%$)<br>IV: line sepsis | Nebulizer maintenance; compliance burden | None (oral tablet) |
+| **Class-Wide Side Effects** | Jaw pain (trismus), diarrhea, flushing, headache, nausea, systemic hypotension, thrombocytopenia, foot pain | Cough, bronchospasm, flushing, headache, throat irritation | Infusion site pain (SC), jaw pain, diarrhea, nausea, headache | Tyvaso: cough, throat pain<br>Orenitram: GI distress, nausea | Headache (65%), diarrhea (42%), jaw pain (26%), nausea, myalgia |
+
+</div></details>
+
+</div></details>
+
+<details class="med-details"><summary>
+
+## 7. General Measures, Supportive Therapies & Special Populations</summary><div class="details-content">
+
+While disease-targeted vasodilators address the underlying pathobiology of pulmonary arteriolar remodeling, comprehensive medical management of PAH necessitates rigorous optimization of supportive pharmacotherapies, lifestyle counseling, and meticulous handling of high-risk clinical scenarios.
+
+<details class="med-details"><summary>
+
+### 7.1 Supportive Medical Therapies: Diuretics, Supplemental Oxygen, Anticoagulation, and Digoxin</summary><div class="details-content">
+
+Supportive medical therapies stabilize right ventricular hemodynamics, prevent secondary pulmonary vasoconstriction, and mitigate symptoms of decompensated right heart failure:
+
+* **Diuretic Therapy for Right Heart Decompensation:**
+  * *Physiological Rationale:* Right ventricular volume overload leads to progressive RV dilatation, tricuspid regurgitation, ventricular interdependence (leftward shifting of the interventricular septum impairing LV diastolic filling), elevated central venous pressure (CVP), and peripheral congestion.
+  * *Pharmacotherapy:* Loop diuretics (furosemide, bumetanide, or torsemide) combined with mineralocorticoid receptor antagonists (spironolactone 25–50 mg daily) represent first-line treatment.
+  * *Hemodynamic Precaution:* Diuresis must be titrated cautiously under close monitoring of renal function and serum electrolytes. Excessive intravascular volume depletion reduces RV preload, triggering a precipitous decline in cardiac output and systemic blood pressure.
+* **Supplemental Oxygen Therapy:**
+  * Alveolar hypoxia is a potent stimulus for acute pulmonary arterial vasoconstriction and chronic vascular remodeling. Supplemental oxygen should be administered continuously to maintain resting, exertional, and nocturnal arterial oxygen saturation **$\text{SpO}_2 \ge 91–92\%$** (or $\text{PaO}_2 \ge 60\text{ mmHg}$).
+* **Oral Anticoagulation:**
+  * *Idiopathic PAH (IPAH):* Historical non-randomized registry data suggested a survival benefit with warfarin anticoagulation (target INR 1.5–2.5), driven by prevention of microvascular thrombosis in situ and sluggish pulmonary flow.
+  * *Connective Tissue Disease (CTD-PAH):* Anticoagulation is **not recommended** in systemic sclerosis or other CTD-PAHs, where registries show no survival benefit and an unacceptable incidence of fatal gastrointestinal and pulmonary hemorrhage (e.g., from gastric antral vascular ectasia [GAVE]).
+  * *Direct Oral Anticoagulants (DOACs):* Currently lack prospective randomized clinical evidence in PAH; warfarin remains the conventional agent when anticoagulation is chosen for IPAH.
+* **Digoxin:**
+  * Digitalis provides mild acute inotropic support for the failing, dilated right ventricle and is particularly valuable for rate control in patients who develop supraventricular tachyarrhythmias (atrial flutter or atrial fibrillation), which are poorly tolerated in PAH.
+
+</div></details>
+
+<details class="med-details"><summary>
+
+### 7.2 Management of Special Clinical Scenarios & Pregnancy</summary><div class="details-content">
+
+Certain physiological states and clinical interventions pose exceptional risks to patients with pulmonary arterial hypertension, demanding specialized multidisciplinary coordination:
+
+* **Pregnancy in PAH (Severe Maternal Mortality Hazard):**
+  * *Maternal Mortality:* Pregnancy is associated with a catastrophic maternal mortality rate historically ranging between **30% and 50%**, predominantly occurring during the third trimester, labor, and the early postpartum period (within 1 to 2 months post-delivery).
+  * *Pathophysiological Mechanism:* The physiological 40–50% increase in circulating blood volume, augmented cardiac output, and profound systemic vasodilation of pregnancy overwhelm the fixed, high-resistance pulmonary vascular bed, triggering acute irreversible right ventricular decompensation.
+  * *Strict Prohibition & Contraception Mandates:* Pregnancy is **strictly contraindicated** in all women with PAH (ESC Class I, Level C). Reliable, highly effective contraception is mandatory:
+    * Progestin-only subdermal implants (Nexplanon) or levonorgestrel intrauterine devices (Mirena) are the preferred methods.
+    * Estrogen-containing oral contraceptives are contraindicated due to unacceptable pro-thrombotic risks.
+    * Barrier methods alone are insufficient. Dual contraception is mandated when taking teratogenic medications under FDA REMS protocols (bosentan, ambrisentan, macitentan, riociguat).
+  * *Management if Pregnancy Occurs:* If pregnancy occurs, early therapeutic termination must be strongly recommended. If the patient decides to proceed despite counseling, immediate transfer to a specialized pulmonary hypertension center is mandatory, transitioning from teratogenic oral agents to continuous intravenous or subcutaneous prostacyclins.
+* **Elective Non-Cardiac Surgery:**
+  * General anesthesia, tracheal intubation, positive-pressure mechanical ventilation, and surgical blood loss represent high-risk precipitants of acute RV failure.
+  * Positive end-expiratory pressure (PEEP) increases RV afterload; systemic anesthetic vasodilators (propofol, volatile agents) induce systemic hypotension, which compromises right coronary artery perfusion, precipitating an RV ischemic spiral.
+  * Surgeries must be performed exclusively in specialized tertiary centers with continuous arterial and central venous monitoring, inotropic and vasopressor support (norepinephrine, vasopressin), and pulmonary vasodilators (inhaled NO, inhaled prostacyclins) immediately available.
+
+</div></details>
+
+</div></details>
+
+<details class="med-details"><summary>
+
+## 8. Chronic Thromboembolic Pulmonary Hypertension (CTEPH, WHO Group 4)</summary><div class="details-content">
+
+Chronic thromboembolic pulmonary hypertension (CTEPH, WHO Group 4) is a unique, life-threatening form of pulmonary hypertension characterized by mechanical obstruction of major pulmonary arterial branches by organized, fibrotic thromboemboli coupled with a secondary microvascular arteriopathy indistinguishable from idiopathic PAH.
+
+<details class="med-details"><summary>
+
+### 8.1 Diagnostic Evaluation and Screening Protocols</summary><div class="details-content">
+
+CTEPH develops in approximately 0.5% to 4% of patients surviving acute pulmonary embolism, although up to 25% of patients with confirmed CTEPH have no documented clinical history of acute deep venous thrombosis or acute pulmonary embolism:
+
+* **Ventilation/Perfusion (V/Q) Lung Scintigraphy (The Screening Gold Standard):**
+  * V/Q scintigraphy remains the mandatory first-line screening modality for all patients undergoing diagnostic evaluation for unexplained pulmonary hypertension.
+  * A normal or very low-probability V/Q scan completely rules out CTEPH with a sensitivity of **$>96–99\%$** and a negative predictive value approaching 100%.
+  * In CTEPH, the classic finding is **one or more mismatched segmental or subsegmental perfusion defects** (absent perfusion with preserved ventilation).
+  * *CT Pulmonary Angiography (CTPA) Caveats:* Modern multi-detector CTPA is essential for anatomic surgical mapping, but it must **never replace the V/Q scan as the primary screening tool**. High-resolution CTPA carries a significantly lower screening sensitivity (down to 50–70% for distal, chronic, web-like obstructions), leading to tragic misdiagnoses of CTEPH as idiopathic PAH if relied upon alone.
+* **Confirmatory Hemodynamic Assessment (Right Heart Catheterization):**
+  * Establishes precapillary pulmonary hypertension: $\text{mPAP} > 20\text{ mmHg}$, $\text{PAWP} \le 15\text{ mmHg}$, and $\text{PVR} \ge 3\text{ Wood units}$.
+* **Catheter Pulmonary Digital Subtraction Angiography (DSA):**
+  * Biplane conventional pulmonary angiography remains the gold standard for defining surgical accessibility, demonstrating characteristic pouch defects, vascular webs, bands, abrupt vessel cutoffs, and irregular vessel caliber narrowing.
+
+</div></details>
+
+<details class="med-details"><summary>
+
+### 8.2 Therapeutic Triad: Pulmonary Endarterectomy, BPA, and Riociguat</summary><div class="details-content">
+
+Unlike pulmonary arterial hypertension (WHO Group 1), which is medically managed and incurable, CTEPH is unique because it represents a **potentially curable form of pulmonary hypertension**:
+
+* **1. Pulmonary Endarterectomy (PEA) — The Definitive Surgical Cure:**
+  * *Surgical Candidacy:* Every patient diagnosed with CTEPH must be evaluated by an experienced multidisciplinary CTEPH surgical team at a high-volume expert center. Surgical resectability is determined by the proximal extent of thromboembolic material (main, lobar, or segmental pulmonary arteries) and the proportionality between PVR and surgical accessibility.
+  * *Surgical Technique:* Performed via median sternotomy utilizing cardiopulmonary bypass (CPB) under **deep hypothermic circulatory arrest (DHCA)** at $18^\circ–20^\circ\text{C}$. True bilateral endarterectomy requires finding the precise cleavage plane within the media of the pulmonary artery and dissecting it circumferentially into subsegmental branches in a bloodless surgical field during intermittent 20-minute periods of circulatory arrest.
+  * *Curative Hemodynamics & Mortality:* In experienced centers, operative mortality is $<2–3\%$. Successful PEA leads to immediate and permanent normalization of pulmonary hemodynamics, resolution of right heart failure, and restoration of normal life expectancy.
+* **2. Balloon Pulmonary Angioplasty (BPA):**
+  * *Interventional Alternative:* For patients deemed medically inoperable due to extreme comorbidities or anatomically inoperable because of inaccessible distal subsegmental disease, BPA provides a percutaneous catheter-based therapeutic option.
+  * *Technique & Outcomes:* Utilizes semi-compliant and non-compliant angioplasty balloons over multiple staged sessions to fracture intraluminal webs and bands, yielding significant reductions in PVR and improved functional capacity.
+* **3. Targeted Medical Therapy: Riociguat:**
+  * In patients with inoperable CTEPH or persistent/recurrent pulmonary hypertension following PEA, medical pharmacotherapy is indicated.
+  * *The Landmark CHEST-1 Trial:* Riociguat (Adempas) demonstrated a $+46\text{ meter}$ improvement in 6MWD and a $-226\text{ dyn}\cdot\text{s}\cdot\text{cm}^{-5}$ reduction in PVR ($p < 0.001$), establishing it as the **first and only FDA-approved medical therapy for CTEPH**.
+  * Off-label use of other PAH therapies (ERAs, subcutaneous treprostinil) is supported by secondary trials, but medical therapy must never be used as a substitute for surgical endarterectomy in operable patients.
+* **Lifelong Full Anticoagulation:**
+  * All patients with CTEPH require permanent, uninterrupted therapeutic anticoagulation to prevent recurrent thromboembolism, typically with vitamin K antagonists (target INR 2.0–3.0) or therapeutic DOACs.
+
+</div></details>
+
+</div></details>
+
+<details class="med-details"><summary>
+
+## 9. Emerging and Experimental Therapies in Pulmonary Arterial Hypertension</summary><div class="details-content">
+
+Current approved vasodilators have achieved remarkable improvements in patient functional status and clinical event-free survival. However, these therapies primarily target vascular tone and secondary smooth muscle hypertrophy without fully reversing the proliferative, obliterative plexiform vascular lesions characteristic of end-stage PAH. Next-generation pharmacotherapies aim to directly halt and reverse structural vascular remodeling.
+
+<details class="med-details"><summary>
+
+### 9.1 Rebalancing Pro- and Anti-Proliferative Signaling: Activin Signaling Inhibitors</summary><div class="details-content">
+
+The most transformative scientific breakthrough in pulmonary vascular biology over the past decade is the recognition that PAH is driven by an imbalance between pro-proliferative activin/growth differentiation factor (GDF) signaling and anti-proliferative bone morphogenetic protein receptor type 2 (BMPR2) signaling:
+
+* **Pathophysiological Foundation:**
+  * Loss-of-function mutations in *BMPR2* (present in 70–80% of heritable PAH and 20% of idiopathic PAH) or epigenetic silencing of BMPR2 impair anti-proliferative, pro-apoptotic signaling in the pulmonary vasculature.
+  * Simultaneously, hyperactivation of activins (Activin A and B) and growth differentiation factors (GDF8, GDF11) signaling through the activin type IIA receptor (ActRIIA) activates downstream Smad2/Smad3 transcription factors, driving unbridled endothelial and smooth muscle proliferation.
+* **Sotatercept (First-in-Class Activin Signaling Inhibitor):**
+  * *Structure & Mechanism:* Sotatercept is a recombinant fusion protein consisting of the extracellular domain of the human ActRIIA receptor linked to the Fc domain of human IgG1. It functions as a biological "ligand trap," sequestering circulating activins and GDFs, thereby suppressing Smad2/Smad3-driven proliferative signaling and re-establishing cellular balance with the BMPR2/Smad1/5/8 pathway.
+  * *The Landmark Phase 3 STELLAR Trial (2023):*
+    * Enrolled 323 patients with PAH who were already receiving stable background dual or triple combination therapy (including parenteral prostanoids in ~ 40%).
+    * Patients randomized to subcutaneous sotatercept (0.7 mg/kg every 3 weeks) achieved an unprecedented mean **$+40.8\text{ meter}$ increase in 6MWD** at week 24 ($p < 0.001$).
+    * PVR plummeted by an extraordinary **$-254.8\text{ dyn}\cdot\text{s}\cdot\text{cm}^{-5}$** ($-32\%$ from baseline).
+    * Reduced the risk of clinical worsening or death by **84%** ($\text{HR } 0.16$, $95\%\text{ CI } 0.08–0.35$, $p < 0.001$).
+  * *Clinical Significance:* Sotatercept represents the first regulatory-approved disease-modifying, anti-proliferative therapy for PAH, inaugurating the fourth therapeutic pathway in pulmonary hypertension management.
+  * *Safety Profile:* Common adverse effects include telangiectasias, elevated hemoglobin/erythrocytosis (requiring regular monitoring of complete blood counts and dose withholding if $\text{Hb} > 18\text{ g/dL}$), and mild epistaxis/gingival bleeding.
+
+</div></details>
+
+<details class="med-details"><summary>
+
+### 9.2 Receptor Tyrosine Kinase Inhibitors and Epigenetic Modulators</summary><div class="details-content">
+
+Several experimental pharmacological strategies targeting pseudo-malignant hyperproliferation and metabolic reprogramming are undergoing active clinical investigation:
+
+* **Receptor Tyrosine Kinase (RTK) Inhibitors:**
+  * *Platelet-Derived Growth Factor (PDGF) Signaling:* Hyperactivation of PDGF receptors ($\text{PDGFR}-\alpha$ and $\text{PDGFR}-\beta$) drives severe smooth muscle migration and vascular occlusion.
+  * *Imatinib (Oral TKI):* Evaluated in the phase 3 IMPRES trial. Although oral imatinib produced substantial improvements in 6MWD and PVR in refractory PAH, its systemic use was marred by high toxicity, including a prohibitive rate of subdural hematomas (associated with concomitant anticoagulation), precluding regulatory approval.
+  * *Inhaled Seralutinib:* A novel, selective, inhaled inhibitor of PDGFR, CSF1R, and c-Kit delivered directly to the pulmonary vasculature via dry-powder inhaler (TORREY trial). By avoiding systemic kinase inhibition, inhaled seralutinib significantly reduces PVR and reverses remodeling without systemic toxicities.
+* **Epigenetic and Metabolic Interventions:**
+  * *Bromodomain and Extra-Terminal Motif (BET) Inhibitors:* Suppress BRD4, which is overexpressed in PAH vascular cells, restoring mitochondrial function and suppressing transcription of anti-apoptotic oncogenes (e.g., survivin, Bcl-2).
+  * *Histone Deacetylase (HDAC) Inhibitors:* Reverse histone hypermethylation and hyperacetylation, suppressing inflammatory cytokine cascades.
+  * *Metabolic Reprogramming (Warburg Effect Modulators):* Dichloroacetate (DCA) inhibits pyruvate dehydrogenase kinase (PDK), shifting cellular metabolism from uncoupled aerobic glycolysis back to mitochondrial glucose oxidation, promoting apoptosis of hyperproliferative vascular cells.
+
+</div></details>
+
+<details class="med-details"><summary>
+
+### 9.3 Chronological Milestones of FDA-Approved PAH Therapies</summary><div class="details-content">
+
+Over the past three decades, the therapeutic armamentarium for PAH has undergone an unprecedented transformation from supportive care alone to 14 distinct targeted pharmacotherapies.
+
+<span id="fig-11-04"></span>
+
+#### FIG. 11.4 Historical Timeline of FDA Approvals for Pulmonary Arterial Hypertension Therapies
 ![](_page_31_Figure_1.jpeg)
 
-Fig. 11.4 Pulmonary arterial hypertension (PAH) drugs by year of approval by the US Food and Drug Administration, with routes of administration. Color represents medication class. Blue: prostanoid; orange: endothelin receptor antagonist; red: phosphodiesterase type 5 inhibitor; green: soluble guanylyl cyclase stimulator; purple: IP receptor agonist. High-dose calcium channel blockers were used off-label prior to approval of epoprostenol in 1995. Epoprostenol GM, epoprostenol with glycine-mannitol excipients (Flolan); Epoprostenol AM, epoprostenol with arginine-mannitol excipients (Veletri); PO, orally; IV, intravenous; SC, subcutaneous; INH, inhaled. (Modified from Perrin S, Chaumais M-C, O'Connell C, et al. New pharmacotherapy options for pulmonary arterial hypertension. Expert Opin Pharmacother. 2015;16:2113–2131.)
+*Chronological sequence of pharmacotherapies approved for the treatment of pulmonary arterial hypertension (PAH) by the US Food and Drug Administration (FDA) between 1995 and the modern era, organized by pharmacological class and administration route: parenteral prostacyclins (epoprostenol, treprostinil), inhaled prostanoids (iloprost, treprostinil), oral endothelin receptor antagonists (bosentan, ambrisentan, macitentan), oral PDE-5 inhibitors (sildenafil, tadalafil), oral soluble guanylyl cyclase stimulators (riociguat), oral IP receptor agonists (selexipag), oral prostanoids (treprostinil extended-release), and novel activin signaling inhibitors (sotatercept).*
 
-# Conclusions
+</div></details>
 
-The prognosis in PAH has been greatly improved in the over two decades since potent pulmonary vasodilatory drugs became available. Yet, PAH continues to present great challenge to patients and clinicians alike, and a clear unmet need still exists for new diseasemodifying therapies. New molecular insights into PAH hold promise for initiating the next generation of vascular remodeling drugs in the care for PAH.
+</div></details>
 
-# References
+<details class="med-details"><summary>
 
-Complete reference list available at [www.expertconsult.com](https://www.expertconsult.com).
+## 10. Adverse Effects, Safety Protocols, and Drug-Drug Interactions</summary><div class="details-content">
+
+All pulmonary vasodilators possess narrow therapeutic windows and characteristic, class-specific adverse effect profiles dictated by their vasodilatory, receptor-mediated, and metabolic characteristics.
+
+<details class="med-details"><summary>
+
+### 10.1 Class-Specific Adverse Reaction Profiles and Monitoring Protocols</summary><div class="details-content">
+
+Managing the adverse effect profile of PAH pharmacotherapies requires proactive patient counseling, vigilant laboratory monitoring, and rapid differentiation between benign vasodilatory symptoms and organ toxicity:
+
+* **Endothelin Receptor Antagonists (ERAs):**
+  * *Hepatotoxicity:* Bosentan produces dose-dependent aminotransferase elevations ($>3\times\text{ULN}$) in ~ 10% of patients. Mandatory monthly liver function testing (AST/ALT/bilirubin) is legally enforced via the FDA REMS program. Ambrisentan and macitentan exhibit low hepatic risk ($<2–3\%$), but baseline and periodic testing remain standard practice.
+  * *Peripheral Edema and Fluid Retention:* Highly prevalent with ambrisentan (up to 25%), driven by altered capillary hydrostatic pressures and renal sodium retention. Treated with dose titration of loop diuretics, not drug discontinuation.
+  * *Hematological Anemia:* Macitentan causes a significant, dose-dependent decrease in hemoglobin ($>2\text{ g/dL}$ drop in 13% of patients). Baseline complete blood counts with periodic reassessment (e.g., at 1, 3, and 6 months) are mandatory.
+  * *Teratogenicity:* Universal across all ERAs. Category X classification; strict dual contraception and monthly negative pregnancy tests in all females of childbearing potential.
+* **Prostanoids and IP Receptor Agonists:**
+  * *Systemic Vasodilatory Sequelae:* Dose-dependent jaw pain (trismus, typically triggered by the first bite of a meal), persistent throbbing tension headaches, flushing, nausea, vomiting, loose stools/diarrhea, and musculoskeletal pain (foot/shin pain). These are not allergic reactions; they represent direct $\text{PGI}_2$ receptor engagement in systemic vascular and smooth muscle beds.
+  * *Platelet Inhibition & Hemorrhage:* Prostanoids downregulate platelet aggregation. Epistaxis, gastrointestinal bleeding, and bleeding at procedural sites occur with increased frequency, especially when combined with anticoagulation.
+  * *Hemodynamic Paradox (High-Output Heart Failure):* Chronic over-titration of high-dose intravenous prostanoids ($>80–100\text{ ng/kg/min}$) can induce profound systemic vasodilation, resulting in excessive high-output cardiac states with renal hypoperfusion.
+* **Phosphodiesterase-5 Inhibitors (PDE-5is):**
+  * Headaches (40–46%), facial flushing, dyspepsia, epistaxis, and nasal congestion.
+  * *Ophthalmic Toxicity:* Non-arteritic anterior ischemic optic neuropathy (NAION) and transient cyanopsia (blue-tinted vision) mediated by cross-inhibition of retinal PDE-6.
+  * *Urological Hazard:* Rare episodes of priapism requiring urgent urological intervention.
+* **Soluble Guanylyl Cyclase Stimulators (Riociguat):**
+  * Systemic arterial hypotension and syncope; dyspepsia, gastroesophageal reflux, headache, and peripheral edema.
+  * *Pulmonary Hemorrhage:* Serious, potentially fatal hemoptysis has been reported in clinical trials; patients presenting with massive hemoptysis require immediate drug cessation.
+
+</div></details>
+
+<details class="med-details"><summary>
+
+### 10.2 Major Pharmacokinetic and Pharmacodynamic Drug Interactions</summary><div class="details-content">
+
+Pharmacokinetic drug-drug interactions involving hepatic cytochrome P450 isoenzymes and transporter systems can precipitate either drug toxicity or treatment failure:
+
+* **Bosentan Metabolic Interactions:**
+  * Bosentan is a potent inducer of hepatic **CYP3A4 and CYP2C9**.
+  * Concomitant administration of bosentan with **sildenafil** reduces sildenafil plasma concentrations by **$>50\%$**, while sildenafil increases bosentan levels by 50%.
+  * Bosentan significantly reduces systemic exposure to oral contraceptives (rendering hormonal birth control completely ineffective), warfarin (mandating frequent INR monitoring), and statins (atorvastatin, simvastatin).
+* **Macitentan Interactions:**
+  * Macitentan is metabolized predominantly by CYP3A4, with minor contributions from CYP2C19.
+  * Strong CYP3A4 inducers (rifampin, carbamazepine, St. John's wort) markedly decrease macitentan exposure and must be avoided.
+  * Strong CYP3A4 inhibitors (ketoconazole, ritonavir) double macitentan exposure; caution and clinical monitoring are indicated.
+* **Selexipag & Treprostinil Interactions (CYP2C8 Pathway):**
+  * Both selexipag and treprostinil are cleared via hepatic CYP2C8.
+  * Coadministration of selexipag with **gemfibrozil** (a potent CYP2C8 inhibitor) increases the exposure (AUC) to selexipag and its active metabolite by **11-fold**, creating severe prostanoid toxicity; **combination is strictly contraindicated**.
+  * Moderate CYP2C8 inhibitors (e.g., deferasirox, teriflunomide) require dose reduction of selexipag to once daily.
+* **PDE-5 Inhibitors & Protease Inhibitors:**
+  * Sildenafil and tadalafil are heavily metabolized by CYP3A4. Coadministration with ritonavir-boosted protease inhibitors dramatically increases PDE-5 inhibitor plasma levels (sildenafil AUC increases up to 11-fold), precipitating severe postural hypotension and syncope. Dosing adjustments or therapeutic substitutions are mandatory.
+
+</div></details>
+
+<details class="med-details"><summary>
+
+### 10.3 Evidence-Based Treatment Algorithm for Pulmonary Arterial Hypertension</summary><div class="details-content">
+
+The modern management of PAH integrates diagnostic confirmation, vasoreactivity testing, multiparametric risk assessment, and proactive multi-pathway combination pharmacotherapy into an evidence-based clinical algorithm.
+
+<span id="diag-11-02"></span>
+
+### DIAGRAM 11.2 Evidence-Based Risk-Stratified Treatment Algorithm for Pulmonary Arterial Hypertension
+<svg viewBox="0 0 880 580" style="width:100%; max-width:880px; height:auto; display:block; margin:1.5rem auto; background:#0f172a; border-radius:12px; border:1px solid #334155;" xmlns="http://www.w3.org/2000/svg">
+<rect width="880" height="580" rx="12" fill="#0f172a" stroke="#334155" stroke-width="1.5"/>
+<text x="440" y="28" fill="#38bdf8" font-family="system-ui, -apple-system, sans-serif" font-size="14.5" font-weight="700" text-anchor="middle" letter-spacing="1">EVIDENCE-BASED RISK-STRATIFIED TREATMENT ALGORITHM FOR PAH</text>
+<!-- Diagnostic Card -->
+<rect x="30" y="45" width="820" height="55" rx="8" fill="#1e293b" stroke="#38bdf8" stroke-width="1.2"/>
+<text x="440" y="68" fill="#38bdf8" font-family="system-ui, sans-serif" font-size="13" font-weight="700" text-anchor="middle">DIAGNOSTIC RIGHT HEART CATHETERIZATION & VASOREACTIVITY TESTING</text>
+<text x="440" y="88" fill="#cbd5e1" font-family="system-ui, sans-serif" font-size="11.5" text-anchor="middle">mPAP > 20 mmHg | PAWP <= 15 mmHg | PVR > 3 Wood Units | Acute Vasoreactivity Test (Inhaled NO)</text>
+<!-- Vasoreactive Response Split -->
+<rect x="30" y="110" width="260" height="110" rx="8" fill="#1e293b" stroke="#10b981" stroke-width="1.2"/>
+<text x="160" y="132" fill="#34d399" font-family="system-ui, sans-serif" font-size="12" font-weight="700" text-anchor="middle">VASOREACTIVE (<10% of IPAH)</text>
+<text x="160" y="155" fill="#cbd5e1" font-family="system-ui, sans-serif" font-size="11" text-anchor="middle">High-Dose Calcium Channel Blockers</text>
+<text x="160" y="175" fill="#a7f3d0" font-family="system-ui, sans-serif" font-size="11" font-weight="600" text-anchor="middle">Diltiazem, Nifedipine, Amlodipine</text>
+<text x="160" y="195" fill="#94a3b8" font-family="system-ui, sans-serif" font-size="10.5" text-anchor="middle">Re-evaluate hemodynamics at 3-6 mo</text>
+<rect x="310" y="110" width="540" height="35" rx="6" fill="#334155" stroke="#64748b" stroke-width="1"/>
+<text x="580" y="132" fill="#f8fafc" font-family="system-ui, sans-serif" font-size="12" font-weight="700" text-anchor="middle">NON-VASOREACTIVE / NON-IPAH: RISK STRATIFICATION</text>
+<!-- Low/Int Risk vs High Risk Columns -->
+<rect x="310" y="155" width="260" height="270" rx="8" fill="#1e293b" stroke="#f59e0b" stroke-width="1.2"/>
+<text x="440" y="180" fill="#fbbf24" font-family="system-ui, sans-serif" font-size="11" font-weight="700" text-anchor="middle">LOW / INTERMEDIATE RISK (1-yr Mortality < 10%)</text>
+<rect x="325" y="195" width="230" height="40" rx="6" fill="#78350f" stroke="#f59e0b" stroke-width="1"/>
+<text x="440" y="218" fill="#fef3c7" font-family="system-ui, sans-serif" font-size="10" font-weight="800" text-anchor="middle">UPFRONT ORAL DUAL COMBINATION THERAPY</text>
+<text x="440" y="260" fill="#cbd5e1" font-family="system-ui, sans-serif" font-size="11" text-anchor="middle">ERA + PDE-5 Inhibitor (Class I-B)</text>
+<text x="440" y="285" fill="#fde68a" font-family="system-ui, sans-serif" font-size="11" font-weight="600" text-anchor="middle">Ambrisentan + Tadalafil (AMBITION Trial)</text>
+<text x="440" y="310" fill="#cbd5e1" font-family="system-ui, sans-serif" font-size="11" text-anchor="middle">or Macitentan + Tadalafil / Sildenafil</text>
+<text x="440" y="360" fill="#94a3b8" font-family="system-ui, sans-serif" font-size="10.5" text-anchor="middle">Goal: Rapidly reduce PVR and reverse RV remodeling</text>
+<rect x="590" y="155" width="260" height="270" rx="8" fill="#1e293b" stroke="#ef4444" stroke-width="1.2"/>
+<text x="720" y="180" fill="#f87171" font-family="system-ui, sans-serif" font-size="11" font-weight="700" text-anchor="middle">HIGH RISK (1-yr Mortality > 10%, WHO FC IV, Syncope)</text>
+<rect x="605" y="195" width="230" height="40" rx="6" fill="#7f1d1d" stroke="#ef4444" stroke-width="1"/>
+<text x="720" y="218" fill="#fee2e2" font-family="system-ui, sans-serif" font-size="10" font-weight="800" text-anchor="middle">UPFRONT TRIPLE COMBINATION THERAPY</text>
+<text x="720" y="260" fill="#cbd5e1" font-family="system-ui, sans-serif" font-size="11" text-anchor="middle">IV / SC Prostacyclin + ERA + PDE-5 Inhibitor</text>
+<text x="720" y="285" fill="#fca5a5" font-family="system-ui, sans-serif" font-size="11" font-weight="600" text-anchor="middle">Continuous IV Epoprostenol (Class I-A, mortality benefit)</text>
+<text x="720" y="325" fill="#cbd5e1" font-family="system-ui, sans-serif" font-size="10.5" text-anchor="middle">Immediate evaluation for bilateral lung transplantation</text>
+<text x="720" y="360" fill="#f87171" font-family="system-ui, sans-serif" font-size="10.5" font-weight="600" text-anchor="middle">Only parenteral prostanoids rescue acute RV failure</text>
+<!-- Re-assessment Bottom Card -->
+<rect x="30" y="440" width="820" height="115" rx="8" fill="#1e293b" stroke="#6366f1" stroke-width="1.2"/>
+<text x="440" y="468" fill="#818cf8" font-family="system-ui, sans-serif" font-size="13" font-weight="700" text-anchor="middle">RE-ASSESSMENT AT 3 TO 6 MONTHS (Treat to Target: Low Risk Status)</text>
+<text x="440" y="500" fill="#cbd5e1" font-family="system-ui, sans-serif" font-size="11.5" text-anchor="middle">If Low Risk achieved: Continue current regimen</text>
+<text x="440" y="525" fill="#fca5a5" font-family="system-ui, sans-serif" font-size="11" font-weight="600" text-anchor="middle">If Intermediate/High Risk: Add Selexipag, switch PDE-5i to Riociguat, add IV/SC Prostanoid, or Lung Transplant</text>
+</svg>
+
+*Standardized evidence-based clinical treatment algorithm for confirmed pulmonary arterial hypertension (PAH, WHO Group 1) in accordance with the 2022 ESC/ERS Guidelines and Sixth World Symposium on Pulmonary Hypertension (WSPH) consensus recommendations. CCB: calcium channel blocker; ERA: endothelin receptor antagonist; PDE-5i: phosphodiesterase-5 inhibitor; IV: intravenous; SC: subcutaneous; sGC: soluble guanylyl cyclase; RHC: right heart catheterization; 6MWD: 6-minute walk distance; NT-proBNP: N-terminal pro-brain natriuretic peptide.*
+
+</div></details>
+
+</div></details>
+
+<details class="med-details"><summary>
+
+## 11. High-Yield Clinical Pearls in Pulmonary Arterial Hypertension</summary><div class="details-content">
+
+Fifty essential, board-relevant, and practice-defining clinical pearls summarizing the essential pharmacological, physiological, and therapeutic principles of pulmonary arterial hypertension.
+
+<details class="med-details"><summary>
+
+### 11.1 Diagnostic Principles and Hemodynamic Evaluation (Pearls 1–10)</summary><div class="details-content">
+
+1. **Precapillary Hemodynamic Definition:** Under the updated WSPH consensus guidelines, pulmonary arterial hypertension is definitively defined by a resting mean pulmonary arterial pressure ($\text{mPAP}$) $> 20\text{ mmHg}$, a normal pulmonary arterial wedge pressure ($\text{PAWP}$) $\le 15\text{ mmHg}$, and an elevated pulmonary vascular resistance ($\text{PVR}$) $\ge 3\text{ Wood units}$ (or $\ge 240\text{ dyn}\cdot\text{s}\cdot\text{cm}^{-5}$) measured via invasively calibrated right heart catheterization.
+2. **Echocardiography Cannot Establish Diagnosis:** Transthoracic echocardiography is an invaluable non-invasive screening tool that estimates pulmonary artery systolic pressure via the peak tricuspid regurgitant velocity jet; however, it **cannot definitively diagnose PAH**. Definitive confirmation and classification mandate direct right heart catheterization.
+3. **Wedge Pressure Measurement Technique:** The PAWP must be measured strictly at **end-expiration** without breath-holding. An erroneously elevated PAWP (over-wedging) falsely categorizes precapillary PAH as post-capillary left heart disease (WHO Group 2), precluding patients from receiving life-saving targeted therapies.
+4. **Fluid Challenge in Occult HFpEF:** In patients presenting with a borderline PAWP ($13–15\text{ mmHg}$) and clinical features of metabolic syndrome, an intravenous rapid fluid challenge ($500\text{ mL}$ normal saline over 5 minutes) unmasks occult heart failure with preserved ejection fraction (HFpEF) if the PAWP rises above $18\text{ mmHg}$.
+5. **The Transpulmonary Gradient:** Calculated as $\text{TPG} = \text{mPAP} - \text{PAWP}$. While historically utilized, the diastolic pulmonary vascular gradient ($\text{DPG} = \text{dPAP} - \text{PAWP}$) and PVR provide superior fidelity in distinguishing isolated post-capillary pulmonary hypertension (IpcPH: $\text{PVR} < 3\text{ WU}$) from combined post- and pre-capillary pulmonary hypertension (CpcPH: $\text{PVR} \ge 3\text{ WU}$).
+6. **Mandatory V/Q Scan Rule:** A ventilation-perfusion (V/Q) lung scan is **mandatory in every single patient** undergoing initial evaluation for unexplained pulmonary hypertension to screen for chronic thromboembolic pulmonary hypertension (CTEPH, WHO Group 4). Relying solely on CT pulmonary angiography misses up to 30–50% of surgically curable distal CTEPH cases.
+7. **Screening in Systemic Sclerosis:** Annual screening with echocardiography, pulmonary function tests (monitoring DLCO/FVC ratio), and NT-proBNP is recommended for all patients with systemic sclerosis (scleroderma), because up to 10–15% will develop aggressive, treatment-refractory PAH.
+8. **Portopulmonary Hypertension Screening:** Every candidate evaluated for orthotopic liver transplantation must undergo echocardiographic screening for portopulmonary hypertension (PoPH). Significant untreated PoPH ($\text{mPAP} > 35\text{ mmHg}$ and $\text{PVR} \ge 3\text{ WU}$) carries an unacceptably high perioperative mortality during liver transplantation ($>50\%$).
+9. **HIV-Associated PAH:** HIV-associated PAH develops independently of CD4 count or viral load and behaves identically to idiopathic PAH; its presence is an indication for standard multi-pathway PAH therapy in addition to antiretroviral therapy (ART).
+10. **Genetic Testing & BMPR2:** Inactivating heterozygous mutations in the bone morphogenetic protein receptor type 2 (*BMPR2*) gene account for 70–80% of heritable PAH (HPAH) and 10–20% of idiopathic cases. *BMPR2* mutation carriers typically present at a significantly younger age with more severe hemodynamics and faster clinical decline.
+
+</div></details>
+
+<details class="med-details"><summary>
+
+### 11.2 Vasoreactivity and Calcium Channel Blocker Therapy (Pearls 11–15)</summary><div class="details-content">
+
+11. **Strict Criteria for Acute Vasoreactivity:** A positive acute vasoreactive response requires a reduction in $\text{mPAP}$ of $\ge 10\text{ mmHg}$ to reach an absolute value $\le 40\text{ mmHg}$, accompanied by a stable or increased cardiac output, during acute challenge with inhaled nitric oxide (10–20 ppm), IV epoprostenol, or IV adenosine.
+12. **Vasoreactivity Testing Indications:** Formal acute vasoreactivity testing is indicated **exclusively in patients with idiopathic PAH, heritable PAH, or drug/toxin-induced PAH**. It is contraindicated or non-informative in connective tissue disease-associated PAH, congenital heart disease, portopulmonary hypertension, or CTEPH.
+13. **Rarity of True Responders:** Less than **10%** of adult patients with idiopathic PAH meet the formal criteria for acute vasoreactivity, and only approximately half of these (~ 5% of all IPAH) demonstrate sustained long-term hemodynamic and functional response to high-dose CCBs at 1 year.
+14. **High Doses Required:** When treating true vasoreactive responders, CCBs must be titrated to unusually high daily doses: diltiazem up to **720–960 mg daily** (preferred if resting heart rate $>80\text{ bpm}$) or amlodipine up to **20 mg daily** / nifedipine up to **120–240 mg daily** (preferred if resting bradycardia).
+15. **Never Use CCBs in Non-Responders:** Empiric prescription of calcium channel blockers to non-vasoreactive PAH patients is **strictly contraindicated**; negative inotropic effects and systemic vasodilation frequently induce acute right ventricular failure, profound hypotension, and cardiovascular collapse.
+
+</div></details>
+
+<details class="med-details"><summary>
+
+### 11.3 Endothelin Receptor Antagonist Therapeutics (Pearls 16–23)</summary><div class="details-content">
+
+16. **Bosentan Hepatotoxicity Monitoring:** Bosentan induces dose-dependent, competitive inhibition of the bile salt export pump (BSEP), leading to intrahepatic accumulation of cytotoxic bile salts and serum transaminase elevations in ~ 10% of patients. Monthly liver function testing is a mandatory legal requirement under the FDA REMS program.
+17. **Ambrisentan Selectivity:** Ambrisentan is a highly selective antagonist of the $\text{ET}_A$ receptor ($>4000:1$ selectivity over $\text{ET}_B$), theoretically sparing the vasodilatory and ET-1-clearing functions of endothelial $\text{ET}_B$ receptors, and carries a negligible incidence of hepatotoxicity ($<2\%$).
+18. **Fluid Retention with Ambrisentan:** Peripheral ankle and leg edema occurs in 15–25% of patients taking ambrisentan. It is driven by altered capillary hydrostatic pressures rather than cardiac decompensation and responds readily to moderate loop diuretic uptitration.
+19. **Macitentan and Long-Term Morbidity:** In the landmark 742-patient SERAPHIN trial, macitentan (10 mg daily) achieved a **45% relative risk reduction** in the primary composite endpoint of morbidity and mortality ($\text{HR } 0.55$, $p < 0.001$).
+20. **Macitentan Anemia Risk:** Macitentan produces a significant, dose-dependent decrease in hemoglobin ($>2\text{ g/dL}$ drop in 13% of patients). Baseline complete blood counts must be obtained, with follow-up monitoring at 1, 3, and 6 months and periodically thereafter.
+21. **Universal ERA Teratogenicity:** All endothelin receptor antagonists (bosentan, ambrisentan, macitentan) are potent human teratogens (FDA Category X). Reliable dual-modality contraception is legally mandatory in females of reproductive potential.
+22. **Bosentan-Oral Contraceptive Interaction:** Bosentan potently induces hepatic CYP3A4, accelerating the metabolic degradation of estrogenic and progestational steroids and rendering oral contraceptive pills ineffective. Barrier methods combined with intrauterine devices or subdermal implants are required.
+23. **Bosentan-Sildenafil Interaction:** Coadministration of bosentan and sildenafil results in a 50% decrease in sildenafil plasma AUC (via CYP3A4 induction by bosentan) and a 50% increase in bosentan AUC. Despite this pharmacokinetic antagonism, the combination remains clinically synergistic.
+
+</div></details>
+
+<details class="med-details"><summary>
+
+### 11.4 The NO-sGC-cGMP Signaling Pathway (Pearls 24–32)</summary><div class="details-content">
+
+24. **Sildenafil Approved Dose Disconnect:** While the regulatory approved dose of sildenafil is **20 mg orally three times daily** (established in the SUPER-1 trial), specialized clinical centers frequently titrate refractory patients off-label up to **40–80 mg TID** to achieve maximal pulmonary vasodilation.
+25. **Tadalafil Once-Daily Convenience:** Tadalafil boasts an elimination half-life of 15–17.5 hours, providing effective 24-hour pulmonary vasodilation with a single daily dose of **40 mg once daily** (taken as two 20 mg tablets simultaneously).
+26. **PDE-5 Inhibitor Ophthalmic Toxicity:** PDE-5 inhibitors cross-inhibit PDE-6 located in retinal photoreceptors. Patients frequently report transient cyanopsia (blue-tinted vision); sudden painless loss of monocular vision warrants emergency evaluation for non-arteritic anterior ischemic optic neuropathy (NAION) and immediate drug cessation.
+27. **Riociguat Dual Mechanism:** Riociguat (Adempas) is a direct soluble guanylyl cyclase (sGC) stimulator that operates via a dual mechanism: directly stimulating sGC independent of endogenous NO availability and sensitizing sGC to residual endogenous NO by stabilizing the nitrosyl-heme complex.
+28. **The Riociguat + PDE-5i Ban (PATENT-PLUS):** Combining riociguat with any PDE-5 inhibitor (sildenafil, tadalafil) or organic nitrate is **strictly and absolutely contraindicated**. The randomized PATENT-PLUS trial proved that this coadministration causes catastrophic systemic hypotension and syncope without any hemodynamic benefit.
+29. **Mandatory Washout Intervals for Riociguat:** Before initiating riociguat, sildenafil must be stopped for at least **24 hours**, and tadalafil must be discontinued for at least **48 hours**. Conversely, riociguat must be discontinued for at least **24 hours** before starting a PDE-5 inhibitor.
+30. **Smoking Clears Riociguat Rapidly:** Cigarette smoking strongly induces hepatic CYP1A1, increasing riociguat clearance and decreasing its circulating plasma exposure by **$>50\%$**. Smokers may require titration up to the maximum dose of 2.5 mg TID; smoking cessation during therapy mandates prompt dose reduction to prevent severe hypotension.
+31. **Riociguat in CTEPH:** Riociguat is the **only pharmacotherapy approved by the US FDA for inoperable CTEPH** or persistent/recurrent CTEPH following surgical pulmonary endarterectomy, demonstrated in the pivotal CHEST-1 trial.
+32. **Pediatric Boxed Warning for Sildenafil:** In the pediatric STARTS-2 extension study, high-dose sildenafil was linked to an increased risk of mortality in children with PAH, leading to an FDA boxed warning discouraging chronic high-dose sildenafil use in pediatric patients.
+
+</div></details>
+
+<details class="med-details"><summary>
+
+### 11.5 Prostacyclin Pathway Analogues and IP Receptor Agonists (Pearls 33–42)</summary><div class="details-content">
+
+33. **Epoprostenol Mortality Benefit:** Continuous intravenous epoprostenol remains the gold standard in pulmonary vascular medicine and the **only therapeutic monotherapy proven to reduce mortality** in a prospective randomized controlled clinical trial in severe idiopathic PAH (Barst et al., 1996).
+34. **Extreme Half-Life of Epoprostenol:** The biological half-life of epoprostenol is a mere **3 to 6 minutes**. Any accidental cessation of the continuous infusion (pump failure, line occlusion, battery depletion) triggers acute rebound pulmonary vasoconstriction, acute right heart failure, and rapid death.
+35. **Veletri Thermal Stability:** Unlike original Flolan, which requires continuous ice packs due to room-temperature degradation after 8 hours, Veletri is chemically buffered with arginine and mannitol, remaining stable at ambient room temperature ($25^\circ\text{C}$) for **up to 48 hours** without cold packs.
+36. **Treprostinil Half-Life Advantage:** Treprostinil has an elimination half-life of approximately **4.5 hours**, affording a critical safety buffer compared to epoprostenol: an interruption in infusion does not trigger immediate circulatory collapse, allowing time for pump replacement.
+37. **Subcutaneous Treprostinil Site Pain:** Continuous subcutaneous treprostinil completely eliminates the lethal risks of central line sepsis and air embolism, but causes severe, localized injection site pain and swelling in **$>85\%$ of patients**, requiring multimodal analgesia (topical lidocaine, capsaicin, gabapentinoids).
+38. **Inhaled Treprostinil in Group 3 PH (INCREASE Trial):** In the landmark INCREASE trial (2021), inhaled treprostinil (Tyvaso) significantly improved 6MWD and reduced disease progression in patients with pulmonary hypertension secondary to interstitial lung disease (PH-ILD), making it the **first and only therapy FDA-approved for Group 3 PH**.
+39. **Inhaled Iloprost Administration Burden:** Because inhaled iloprost has an elimination half-life of only 20–30 minutes, patients must administer **6 to 9 inhalation sessions daily** (every 2 hours while awake), presenting a major obstacle to long-term patient compliance.
+40. **Oral Treprostinil Meal Requirement:** Oral treprostinil (Orenitram) extended-release tablets **must be taken with high-calorie, high-fat meals**; taking the medication on an empty stomach drastically reduces systemic bioavailability and provokes severe gastrointestinal intolerance.
+41. **Selexipag GRIPHON Trial Impact:** In the 1,156-patient GRIPHON study, the selective oral IP receptor agonist selexipag (Uptravi) produced a **40% reduction in morbidity and mortality** ($\text{HR } 0.60$, $p < 0.001$). The clinical benefit was identical in patients already maintained on background dual therapy with an ERA plus a PDE-5i.
+42. **Selexipag-Gemfibrozil Ban:** Coadministration of selexipag with **gemfibrozil** (a potent CYP2C8 inhibitor) increases exposure to selexipag and its active metabolite by **11-fold**, provoking severe, potentially life-threatening prostanoid toxicity; concomitant use is **strictly contraindicated**.
+
+</div></details>
+
+<details class="med-details"><summary>
+
+### 11.6 Combination Therapy, Special Populations, and CTEPH (Pearls 43–50)</summary><div class="details-content">
+
+43. **The AMBITION Standard of Care:** The landmark AMBITION trial established that **upfront dual combination therapy with ambrisentan (10 mg) plus tadalafil (40 mg)** reduces the risk of clinical failure by **50%** compared with pooled monotherapy ($\text{HR } 0.50$, $p < 0.001$) in treatment-naïve patients presenting at intermediate or low risk.
+44. **Upfront Triple Combination for High-Risk Disease:** Patients presenting with high-risk features (WHO FC IV, syncope, rapid progression, $\text{CI} < 2.0\text{ L/min/m}^2$, $\text{RAP} > 14\text{ mmHg}$) must be treated immediately with **upfront triple combination therapy incorporating a continuous parenteral prostanoid** (IV epoprostenol or SC/IV treprostinil) plus an ERA and a PDE-5i.
+45. **Pregnancy is Strictly Prohibited:** Pregnancy carries a catastrophic maternal mortality of **30% to 50%** in women with PAH. Highly effective contraception (progestin implants or intrauterine devices) is mandatory. Estrogen-containing pills are contraindicated due to thrombosis risk. If pregnancy occurs, immediate therapeutic termination must be strongly recommended.
+46. **Elective Non-Cardiac Surgery Peril:** General anesthesia and mechanical positive-pressure ventilation precipitously reduce right ventricular preload while increasing RV afterload. Anesthetic-induced systemic hypotension causes right coronary artery hypoperfusion, initiating an irreversible RV ischemic spiral. Surgery should be performed only in specialized centers.
+47. **Sotatercept Disease-Modifying Breakthrough:** In the phase 3 STELLAR trial (2023), sotatercept—a first-in-class activin signaling inhibitor that sequesters activins and GDFs to restore BMPR2 balance—reduced the risk of clinical worsening or death by **84%** ($\text{HR } 0.16$, $p < 0.001$) on top of background dual or triple therapy, representing the fourth pillar of PAH management.
+48. **Pulmonary Endarterectomy (PEA) Curative Potential:** Chronic thromboembolic pulmonary hypertension (CTEPH) is unique because it is surgically curable. Bilateral pulmonary endarterectomy performed under deep hypothermic circulatory arrest (DHCA) can completely normalize pulmonary pressures and reverse right ventricular failure.
+49. **Balloon Pulmonary Angioplasty (BPA) for Inoperable CTEPH:** For patients with distal, surgically inaccessible chronic thromboembolic disease or significant comorbidities precluding open surgery, staged percutaneous BPA effectively dilates obstructed subsegmental vessels and reduces PVR.
+50. **Treating Toward a Low-Risk Profile:** The therapeutic goal in PAH is not merely symptomatic relief, but achieving and maintaining a **comprehensive low-risk profile** (WHO FC I/II, $6\text{MWD} > 440\text{ m}$, $\text{NT-proBNP} < 300\text{ ng/L}$, $\text{RAP} < 8\text{ mmHg}$, $\text{CI} \ge 2.5\text{ L/min/m}^2$, and $\text{SvO}_2 > 65\%$). Patients failing to attain all low-risk criteria at 3-to-6-month follow-up warrant prompt therapeutic escalation or urgent lung transplant evaluation.
+
+</div></details>
+
+</div></details>

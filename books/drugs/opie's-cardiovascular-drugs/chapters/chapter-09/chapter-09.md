@@ -1,720 +1,1324 @@
-## Antiarrhythmic Drugs
+# 9. Antiarrhythmic Drugs
 
-ATUL VERMA
+##### Atul Verma, MD, FRCPC
 
-## Overview of New Developments
+##### Antiarrhythmic drugs have undergone a major transformation in their clinical conceptualization and practical utilization over the past several decades. While historically viewed as the primary therapeutic modality for virtually all cardiac rhythm disturbances, the modern management of cardiac arrhythmias increasingly balances targeted pharmacotherapy with catheter ablation, implantable device therapy, and aggressive risk-factor modification.
 
-Antiarrhythmic drugs have not changed substantially over the last several decades. Even when newer agents have been developed, the potential for proarrhythmia and increased mortality continue to plague their broader implementation. Recently, novel ion channel targets have been proposed and newer agents are being researched, but even some experimental agents have halted trials in phase II because of unexpected toxicity. Furthermore, as interventional therapies have progressed, such as implantable defibrillators and ablation, the urgency for new pharmacologic antiarrhythmic therapy has decreased. Most guidelines still advocate for antiarrhythmics remaining first-line therapy for both atrial fibrillation (AF) and ventricular tachycardia (VT). Furthermore, historical antiarrhythmics have now found new purpose for the treatment of various inherited arrhythmia disorders. Therefore, it is still important to understand this eclectic group of pharmacotherapies.
+##### The fundamental clinical premise of antiarrhythmic therapy remains dual: the alleviation of debilitating arrhythmic symptoms and the prevention of catastrophic adverse outcomes, including stroke, tachycardia-induced cardiomyopathy, and sudden cardiac death. However, virtually all antiarrhythmic agents possess narrow therapeutic windows and notable proarrhythmic liabilities. Safe and efficacious prescribing demands a rigorous understanding of cardiac electrophysiology, transmembrane ion channel kinetics, autonomic regulation, organ-specific pharmacokinetics, and evidence-based clinical trial outcomes.
 
-## Antiarrhythmic Drugs
+<details class="med-details"><summary>
 
-Antiarrhythmic drugs are used to suppress arrhythmias with the hopes of alleviating significant symptoms or possibly to affect survival. Prophylactic treatment of arrhythmias has been questioned since the publication of the Cardiac Arrhythmia Suppression Trial<sup>1</sup> and by a meta-analysis of nearly patients with acute myocardial infarction (AMI) treated with antiarrhythmic drugs.<sup>2</sup> These studies showed that suppression of ventricular ectopy can actually increase mortality. Therefore, antiarrhythmic drugs should only be used when the suppression of arrhythmia outweighs the adverse effects of the drug. There are very few instances where antiarrhythmic drugs may actually reduce mortality and/or sudden death. β-blockers following myocardial infarction (MI) or in the setting of heart failure reduce mortality.<sup>3</sup> The only antiarrhythmic agent that appears to prevent sudden cardiac death (SCD) is amiodarone, and possibly dofetilide.4,5 Amiodarone acts on multiple ionic channels and is therefore effective against a wide spectrum of arrhythmias. However, even amiodarone is inferior to implantable cardioverter defibrillators (ICDs) for sudden-death prevention in the patients at highest risk.6
+## Executive Summary</summary><div class="details-content">
 
-Classification. There are five established classes of antiarrhythmic action (Table 9.1). The original Vaughan Williams classification with four classes now incorporates ionic mechanisms and receptors as the basis of the more complex Sicilian Gambit system for antiarrhythmic drug classification (Fig. 9.1).<sup>7</sup> Recently, a modernized, expanded classification scheme was developed for which the traditional Vaughan Williams classification remains the basis,
+### Fundamental Electrophysiological Principles
+* **Ion Channel Targets:** Cardiac excitability, conduction, and refractoriness depend on the sequential activation and inactivation of sarcolemmal ion channels. Key targets include voltage-gated fast sodium channels ($I_{\text{Na}}$), transient outward potassium channels ($I_{\text{to}}$), slow inward L-type calcium channels ($I_{\text{Ca-L}}$), delayed rectifier potassium channels ($I_{\text{Kr}}$, $I_{\text{Ks}}$, $I_{\text{Kur}}$), inward rectifier channels ($I_{\text{K1}}$, $I_{\text{K,ACh}}$), and hyperpolarization-activated pacemaker channels ($I_{\text{f}}$).
+* **Classification Frameworks:** Antiarrhythmic agents are categorized using the classical Vaughan Williams framework (Classes I–IV), the Sicilian Gambit receptor-channel matrix, and the modernized Oxford classification incorporating Class 0 (pacemaker current blockers such as ivabradine) and Class ID (late sodium current blockers such as ranolazine).
+* **The CAST Axiom:** The landmark Cardiac Arrhythmia Suppression Trial (CAST) demonstrated that suppressing asymptomatic ventricular ectopy with Class IC agents in patients with ischemic heart disease or reduced left ventricular ejection fraction significantly increased lethal arrhythmic mortality. Consequently, Class IC drugs are strictly contraindicated in structural heart disease.
 
-Table 9.1
+### Key Clinical Drug Classes and Agents
+* **Class IA (Quinidine, Procainamide, Disopyramide):** Intermediate $I_{\text{Na}}$ block with concurrent $I_{\text{Kr}}$ inhibition. Prolongs QRS and QTc. Procainamide is a first-line IV choice for stable pre-excited atrial fibrillation and sustained monomorphic VT. Disopyramide provides negative inotropy useful in obstructive hypertrophic cardiomyopathy.
+* **Class IB (Lidocaine, Mexiletine):** Rapid $I_{\text{Na}}$ binding and dissociation. Selective for ischemic, depolarized, or rapidly firing ventricular tissue. Shortens action potential duration (APD). Ineffective in atrial arrhythmias. IV lidocaine is indicated in acute ischemic VT/VF and cardiac arrest; oral mexiletine serves as maintenance therapy and in LQT3.
+* **Class IC (Flecainide, Propafenone):** Potent $I_{\text{Na}}$ inhibition with slow unbinding kinetics. Causes marked conduction slowing and QRS widening without APD prolongation. Highly effective for rhythm control in paroxysmal AF ("pill-in-the-pocket" approach) in structurally normal hearts. Slowing atrial flutter can lead to 1:1 AV conduction; mandatory co-administration with AV nodal blockers.
+* **Class II (Beta-Blockers):** Inhibit adrenergic stimulation, reduce adenylyl cyclase activity, and suppress pacemaker currents ($I_{\text{f}}$, $I_{\text{Ca-L}}$). Slows sinus rate and AV nodal conduction. Proven mortality benefit in post-MI and heart failure populations. First-line for acute and chronic rate control of AF and supraventricular tachycardias (SVT).
+* **Mixed Class III (Amiodarone, Sotalol, Dronedarone):** Multichannel blockers that prolong repolarization, APD, and ERP. Amiodarone is the most effective agent for AF rhythm control and ventricular arrhythmias, with minimal torsades risk despite QT prolongation, but carries severe organ toxicities (pulmonary fibrosis, thyroid disease, hepatotoxicity). Sotalol carries reverse use-dependence and strict renal-dependent torsades risk. Dronedarone reduces cardiovascular hospitalization in non-permanent AF but is contraindicated in severe heart failure (ANDROMEDA) and permanent AF (PALLAS).
+* **Pure Class III (Ibutilide, Dofetilide, Vernakalant):** Selective $I_{\text{Kr}}$ inhibition. High risk of early afterdepolarizations and Torsades de pointes requiring inpatient telemetry initiation and strict electrolyte normalization. Vernakalant selectively blocks atrial currents ($I_{\text{Kur}}$, $I_{\text{K,ACh}}$) for rapid IV conversion of recent-onset AF.
+* **Class IV (Verapamil, Diltiazem):** Non-dihydropyridine calcium channel blockers that depress slow inward $I_{\text{Ca-L}}$ in SA and AV nodes. First-line rate control in AF and conversion of AVNRT. Strictly contraindicated in HFrEF ($\text{LVEF} < 40\%$) and pre-excited AF (WPW).
+* **Class V & Ancillary (Adenosine, Ivabradine, Magnesium, Digitalis):** Adenosine activates $A_1$ receptors to produce profound transient AV nodal block for SVT termination. Ivabradine selectively blocks $I_{\text{f}}$ to lower heart rate in sinus rhythm with HFrEF or angina. IV magnesium is the treatment of choice for Torsades de pointes. Digoxin provides resting AV nodal rate control via vagotonic action.
 
-| Antiarrhythmic<br>drug<br>classes |                                                                                      |                        |                                                                            |  |
-|-----------------------------------|--------------------------------------------------------------------------------------|------------------------|----------------------------------------------------------------------------|--|
-| Class                             | Channel effects                                                                      | Repolarization<br>time | Drug examples                                                              |  |
-| IA                                | Sodium block effect<br>++                                                            | Prolongs               | Quinidine<br>Disopyramide<br>Procainamide<br>Ajmaline                      |  |
-| IB                                | Sodium block effect<br>+                                                             | Shortens               | Lidocaine<br>Phenytoin<br>Mexiletine                                       |  |
-| IC                                | Sodium block effect<br>+++                                                           | Unchanged              | Flecainide<br>Propafenone                                                  |  |
-| ID                                | Sodium block effect<br>+                                                             | Prolongs               | Ranolazine                                                                 |  |
-| II                                | β-Adrenergic block<br>If, a pacemaker<br>current; indirect<br>Ca++ channel<br>block; | Unchanged              | β-blockers<br>(excluding<br>sotalol that<br>also has class<br>III effects) |  |
-| III                               | Repolarizing K+<br>currents                                                          | Markedly<br>prolongs   | Amiodarone<br>Sotalol<br>Ibutilide<br>Dofetilide<br>Vernakalant            |  |
-| IV                                | AV nodal Ca2+ block                                                                  | Unchanged              | Verapamil<br>Diltiazem                                                     |  |
-| V                                 | + channel<br>K<br>opener<br>(hyperpolarization)                                      | Unchanged              | Adenosine                                                                  |  |
-| Unclassified                      |                                                                                      |                        | Ivabradine                                                                 |  |
+</div></details>
 
-AV, Atrioventricular; +¼ inhibitory effect; ++¼ markedly inhibitory effect; +++¼ major inhibitory effect.
+<details class="med-details"><summary>
 
-#### *CLASSES OF ANTIARRYTHMIC DRUGS*
+## 1. Overview of Electrophysiological Mechanisms and Drug Classifications</summary><div class="details-content">
 
-![](_page_2_Figure_2.jpeg)
+The cellular cardiac action potential represents the coordinated sequence of transmembrane ionic movements across specialized channel proteins in myocytes and pacemaker cells. Understanding these ionic fluxes is essential for rational antiarrhythmic selection and proarrhythmic risk mitigation.
 
-Fig. 9.1 The classical four types of antiarrhythmic agents. Class I agents decrease phase zero of the rapid depolarization of the action potential (rapid sodium channel). Class II agents, β-blocking drugs, have complex actions including inhibition of spontaneous depolarization (phase 4) and indirect closure of calcium channels, which are less likely to be in the "open" state when not phosphorylated by cyclic adenosine monophosphate. Class III agents block the outward potassium channels to prolong the action potential duration and hence refractoriness. Class IV agents, verapamil and diltiazem, and the indirect calcium antagonist, adenosine, all inhibit the inward calcium channel, which is most prominent in nodal tissue, particularly the atrioventricular node. Most antiarrhythmic drugs have more than one action. In the lower panel are shown the major currents on which antiarrhythmics act, according to the Sicilian gambit. Ca-L, long-lasting calcium; I, current; If, inward funny current; Kr, rapid component of repolarizing potassium current; Ks, slow component; Na, sodium; to, transient outward. (Figure © L.H. Opie, 2012.)
+<details class="med-details"><summary>
 
-but the scheme also identifies new potential targets for emerging (or yet to emerge) drugs.<sup>8</sup> A quick reference table is provided summarizing some of the more common antiarrhythmic medications (Table 9.2).
+### 1.1 Ionic Basis of the Cardiac Action Potential</summary><div class="details-content">
 
-## Class IA: Quinidine, Procainamide, Disopyramide, and Ajmaline
+Two fundamental electrophysiological archetypes operate in the human myocardium:
 
-The class IA agents inhibit the fast sodium channel with depression of phase 0 of the action potential and have intermediate kinetics, which is to say that they associate and dissociate from the sodium channels at an intermediate rate (between the rapid IB agents and the slow IC agents). These agents also block repolarizing potassium currents (a mild class III effect), which can prolong action potential duration and result in QT prolongation (Table 9.3). Torsades de pointes is therefore the major adverse effect. These agents can be used for treatment of either ventricular or atrial arrhythmias. With atrial flutters, however, they may slow down the atrial rate sufficiently to allow 1:1 conduction to the ventricle thereby accelerating the ventricular rate substantially (Fig. 9.2). There are no large-scale outcome trials to suggest that quinidine or other class I agents decrease mortality; rather there is indirect evidence that suggests increased mortality.
+<details class="med-details"><summary>
 
-## Quinidine
+#### Fast-Response Action Potential (Ventricular and Atrial Working Myocytes, His-Purkinje System)</summary><div class="details-content">
 
-Historically, quinidine was the first antiarrhythmic drug used. It has been used for the treatment of both ventricular and atrial arrhythmias. It can also be used in the treatment of Brugada syndrome. Today, because of limited availability in some countries as well as its proarrhythmic potential, quinidine is not used as often, although its application to Brugada syndrome has led to a very small resurgence of interest in the drug.
+Working atrial and ventricular myocytes maintain a deeply negative resting membrane potential of approximately $-85$ to $-90\,\text{mV}$, governed predominantly by the inward rectifier potassium current ($I_{\text{K1}}$). The action potential comprises five sequential phases:
 
-Pharmacokinetics. Quinidine is a substrate of the cytochrome P450 enzymes and P-glycoprotein. In particular, it is a strong inhibitor of CYP2D6 (strong), and a less strong inhibitor of CYP3A4 and P-glycoprotein. These affects result in the numerous drug interactions of quinidine.
+* **Phase 0 (Rapid Depolarization):** Rapid opening of voltage-gated cardiac sodium channels ($\text{Na}_V1.5$, encoded by *SCN5A*), generating a massive inward sodium current ($I_{\text{Na}}$). This drives the upstroke velocity ($dV/dt_{\text{max}}$) to $>200\,\text{V/s}$, ensuring rapid, synchronized electrical propagation throughout the ventricular syncytium.
+* **Phase 1 (Early Partial Repolarization):** Transient outward potassium current ($I_{\text{to}}$) activates rapidly at positive potentials, creating a distinctive notch before the plateau.
+* **Phase 2 (Plateau Phase):** Inward current through voltage-dependent L-type calcium channels ($I_{\text{Ca-L}}$, encoded by *CACNA1C*) balances outward delayed rectifier potassium currents. Inward calcium entry during Phase 2 triggers calcium-induced calcium release from the sarcoplasmic reticulum via ryanodine receptor-2 (RyR2), mediating excitation-contraction coupling.
+* **Phase 3 (Rapid Terminal Repolarization):** Inactivation of L-type calcium channels coupled with robust activation of delayed rectifier potassium currents:
+  - Rapid delayed rectifier current ($I_{\text{Kr}}$, mediated by hERG/*KCNH2*).
+  - Slow delayed rectifier current ($I_{\text{Ks}}$, mediated by *KCNQ1* and *KCNE1*).
+  - Inward rectifier current ($I_{\text{K1}}$) completes repolarization to $-90\,\text{mV}$.
+* **Phase 4 (Resting Membrane Potential):** Maintained stable at $-90\,\text{mV}$ by $I_{\text{K1}}$ and the electrogenic sarcolemmal $\text{Na}^+/\text{K}^+$-ATPase pump (3 $\text{Na}^+$ out, 2 $\text{K}^+$ in).
 
-Clinical use. Quinidine is not often used today but can be used for the treatment of both atrial and ventricular arrhythmias. Quinidine has also been shown to be effective in management of ventricular fibrillation (VF) in the setting of Brugada syndrome. Brugada syndrome results from loss-of-function mutations in the SCN5A gene (and others), which code for the sodium channel. This impairs the inward sodium current and results in an unopposed Ito (transient outward potassium current) activity, which can set up
+</div></details>
 
-Table 9.2
+<details class="med-details"><summary>
 
-| Q<br>i<br>k<br>f<br>f<br>t<br>i<br>h<br>t<br>h<br>i<br>d<br>g<br>u<br>c<br>r<br>e<br>e<br>r<br>e<br>n<br>c<br>e<br>o<br>r<br>c<br>o<br>m<br>m<br>o<br>n<br>a<br>n<br>a<br>r<br>r<br>y<br>m<br>c<br>r<br>u<br>s |                                                                                                                                                                                                                                                                                                                                                                                                                                                                 |                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                 |                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                           |                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                             |
-|----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
-| A<br>t<br>g<br>e<br>n                                                                                                                                                                                          | D<br>o<br>s<br>e                                                                                                                                                                                                                                                                                                                                                                                                                                                | P<br>h<br>k<br>i<br>t<br>i<br>d<br>a<br>r<br>m<br>a<br>c<br>o<br>n<br>e<br>c<br>s<br>a<br>n<br>t<br>b<br>l<br>i<br>m<br>e<br>a<br>o<br>s<br>m                                                                                                                                                                                                                                                                                                                                                                                                   | S<br>i<br>d<br>f<br>f<br>t<br>d<br>e<br>e<br>e<br>c<br>s<br>a<br>n<br>t<br>i<br>d<br>i<br>t<br>i<br>c<br>o<br>n<br>r<br>a<br>n<br>c<br>a<br>o<br>n<br>s                                                                                                                                                                                                                                                                                                                                                                                                   | I<br>t<br>t<br>i<br>d<br>n<br>e<br>r<br>a<br>c<br>o<br>n<br>s<br>a<br>n<br>t<br>i<br>p<br>r<br>e<br>c<br>a<br>u<br>o<br>n<br>s                                                                                                                                                                                                                                                                                                                                                                                                              |
-| L<br>i<br>d<br>i<br>o<br>c<br>a<br>n<br>e<br>(<br>l<br>I<br>B<br>)<br>c<br>a<br>s<br>s                                                                                                                         | I<br>V<br>7<br>5–<br>2<br>0<br>0<br>t<br>h<br>2–<br>g<br>m<br>e<br>n<br>;<br>4<br>/<br>i<br>f<br>2<br>4–<br>3<br>0<br>h.<br>g<br>m<br>m<br>n<br>o<br>r<br>(<br>N<br>l<br>)<br>o<br>o<br>r<br>a<br>u<br>s<br>e                                                                                                                                                                                                                                                   | E<br>f<br>f<br>t<br>f<br>i<br>l<br>b<br>l<br>l<br>t<br>g<br>e<br>c<br>o<br>s<br>n<br>e<br>o<br>s<br>a<br>s<br>s<br>u<br>l<br>f<br>i<br>h<br>T1<br>t<br>o<br>n<br>y<br>e<br>w<br>m<br>n,<br>e<br>n<br>/<br>2<br>i<br>l<br>2<br>h.<br>R<br>i<br>d<br>t<br>a<br>p<br>p<br>r<br>o<br>x<br>m<br>a<br>e<br>y<br>a<br>p<br>h<br>i<br>b<br>l<br>i<br>t<br>t<br>e<br>p<br>a<br>c<br>m<br>e<br>a<br>o<br>s<br>m<br>L<br>l<br>1.<br>4–<br>5<br>/<br>L<br>i<br>t<br>g<br>e<br>v<br>e<br>m<br>;<br>o<br>x<br>c<br>μ<br>9<br>/<br>L.<br>g<br>><br>m<br>c<br>m | R<br>d<br>d<br>b<br>h<br>l<br>f<br>i<br>f<br>l<br>i<br>e<br>c<br>e<br>o<br>s<br>e<br>a<br>e<br>r<br>u<br>y<br>v<br>b<br>l<br>d<br>f<br>l<br>l<br>(<br>h<br>k,<br>β<br>o<br>o<br>o<br>w<br>o<br>w<br>s<br>o<br>c<br><br>b<br>l<br>k<br>d<br>i<br>h<br>i<br>o<br>c<br>a<br>e,<br>c<br>r<br>r<br>o<br>s<br>s,<br>i<br>i<br>d<br>i<br>h<br>t<br>t<br>c<br>m<br>e<br>n<br>e,<br>s<br>e<br>v<br>e<br>r<br>e<br>e<br>a<br>r<br>f<br>i<br>l<br>).<br>H<br>i<br>h-<br>d<br>C<br>N<br>S<br>g<br>a<br>u<br>r<br>e<br>o<br>s<br>e<br>f<br>f<br>t<br>e<br>e<br>c<br>s. | β<br>b<br>l<br>k<br>d<br>o<br>c<br>e<br>r<br>s<br>e<br>c<br>r<br>e<br>a<br>s<br>e<br>-<br>h<br>i<br>b<br>l<br>d<br>f<br>l<br>d<br>t<br>e<br>p<br>a<br>c<br>o<br>o<br>o<br>w<br>a<br>n<br>i<br>b<br>l<br>d<br>l<br>l<br>n<br>c<br>r<br>e<br>a<br>s<br>e<br>o<br>o<br>e<br>v<br>e<br>s.<br>C<br>i<br>i<br>d<br>i<br>(<br>d<br>d<br>t<br>m<br>e<br>n<br>e<br>e<br>c<br>r<br>e<br>a<br>s<br>e<br>h<br>i<br>b<br>l<br>i<br>f<br>t<br>t<br>e<br>p<br>a<br>c<br>m<br>e<br>a<br>o<br>s<br>m<br>o<br>l<br>i<br>d<br>i<br>).<br>o<br>c<br>a<br>n<br>e |
-| M<br>i<br>l<br>t<br>i<br>e<br>x<br>e<br>n<br>e<br>(<br>l<br>I<br>B<br>)<br>c<br>a<br>s<br>s                                                                                                                    | aI<br>0<br>0–<br>2<br>0<br>V<br>1<br>5<br>t<br>g<br>m<br>a<br>1<br>2.<br>5<br>/<br>i<br>t<br>h<br>g<br>m<br>m<br>n,<br>e<br>n<br>2<br>/<br>k<br>/<br>h<br>f<br>3.<br>5<br>h,<br>h<br>t<br>g<br>g<br>m<br>o<br>r<br>e<br>n<br>0.<br>5<br>/<br>k<br>/<br>h.<br>g<br>g<br>m<br>O<br>l<br>1<br>0<br>0–<br>4<br>0<br>0<br>g<br>r<br>a<br>m<br>8-<br>h<br>l<br>l<br>d<br>i<br>d<br>g<br>o<br>u<br>r<br>y<br>;<br>o<br>a<br>n<br>o<br>s<br>e<br>4<br>0<br>0<br>g.<br>m | 0–<br>T1<br>1<br>1<br>7<br>h.<br>L<br>l<br>e<br>v<br>e<br>/<br>2<br>1–<br>2<br>/<br>L.<br>g<br>m<br>μ<br>H<br>i<br>b<br>l<br>i<br>t<br>t<br>e<br>p<br>a<br>c<br>m<br>e<br>a<br>o<br>s<br>m<br>,<br>i<br>i<br>b<br>l<br>i<br>t<br>t<br>t<br>n<br>a<br>c<br>v<br>e<br>m<br>e<br>a<br>o<br>e<br>s.                                                                                                                                                                                                                                                 | C<br>S,<br>G<br>f<br>f<br>N<br>I<br>i<br>d<br>t<br>s<br>e<br>e<br>e<br>c<br>s.<br>B<br>d<br>d<br>i<br>h<br>t<br>i<br>r<br>a<br>c<br>a<br>r<br>a,<br>p<br>o<br>e<br>n<br>s<br>o<br>n<br>y<br>y<br>i<br>l<br>l<br>d<br>i<br>g<br>e<br>s<br>p<br>e<br>c<br>a<br>y<br>u<br>r<br>n<br>h<br>t<br>c<br>o<br>e<br>r<br>a<br>p<br>y.                                                                                                                                                                                                                               | E<br>i<br>d<br>n<br>z<br>y<br>m<br>e<br>n<br>u<br>c<br>e<br>r<br>s<br>;<br>d<br>i<br>i<br>d<br>d<br>s<br>o<br>p<br>r<br>a<br>m<br>e<br>a<br>n<br>y<br>β<br>b<br>l<br>k<br>d<br>i<br>o<br>c<br>a<br>e<br>;<br>n<br>c<br>r<br>e<br>a<br>s<br>e<br>s<br>-<br>h<br>h<br>h<br>l<br>l<br>i<br>l<br>l<br>t<br>t<br>e<br>e<br>o<br>p<br>y<br>n<br>e<br>e<br>v<br>e<br>s.                                                                                                                                                                            |
-| P<br>h<br>i<br>t<br>e<br>n<br>y<br>o<br>n<br>(<br>l<br>I<br>B<br>)<br>c<br>a<br>s<br>s                                                                                                                         | I<br>V<br>1<br>0–<br>1<br>5<br>/<br>k<br>1<br>h.<br>g<br>g<br>m<br>o<br>v<br>e<br>r<br>O<br>l<br>1<br>5<br>0<br>0<br>f<br>g<br>g<br>r<br>a<br>m<br>o<br>r<br>;<br>2<br>d<br>t<br>h<br>4<br>0<br>0–<br>6<br>0<br>0<br>g<br>a<br>s<br>e<br>n<br>m<br>y<br>;<br>d<br>i<br>l<br>a<br>y.                                                                                                                                                                             | T1<br>2<br>4<br>h.<br>L<br>l<br>1<br>0–<br>1<br>8<br>e<br>v<br>e<br>/<br>2<br>/<br>L.<br>g<br>m<br>μ<br>H<br>t<br>i<br>t<br>b<br>l<br>i<br>e<br>p<br>a<br>c<br>m<br>e<br>a<br>o<br>s<br>m<br>H<br>i<br>l<br>d<br>i<br>t<br>e<br>p<br>a<br>c<br>o<br>r<br>r<br>e<br>n<br>a<br>s<br>e<br>a<br>s<br>e<br>i<br>d<br>d<br>d<br>r<br>e<br>q<br>u<br>r<br>e<br>s<br>r<br>e<br>u<br>c<br>e<br>o<br>s<br>e<br>s.                                                                                                                                         | H<br>i<br>i<br>t<br>t<br>g<br>y<br>p<br>o<br>e<br>n<br>s<br>o<br>n,<br>v<br>e<br>r<br>o,<br>d<br>t<br>h<br>i<br>l<br>t<br>h<br>g<br>s<br>a<br>r<br>r<br>a,<br>e<br>a<br>r<br>y<br>y,<br>i<br>i<br>i<br>t<br>i<br>t<br>i<br>g<br>g<br>n<br>s,<br>m<br>a<br>c<br>r<br>o<br>c<br>c<br>v<br>y<br>i<br>l<br>l<br>a<br>n<br>e<br>m<br>a,<br>u<br>p<br>u<br>s,<br>p<br>u<br>m<br>o<br>n<br>a<br>r<br>y<br>i<br>f<br>i<br>l<br>t<br>t<br>n<br>r<br>a<br>e<br>s.                                                                                                   | b.<br>H<br>i<br>i<br>d<br>t<br>e<br>p<br>a<br>c<br>e<br>n<br>z<br>y<br>m<br>e<br>n<br>u<br>c<br>e<br>r<br>s                                                                                                                                                                                                                                                                                                                                                                                                                                 |
-| F<br>l<br>i<br>i<br>d<br>e<br>c<br>a<br>n<br>e<br>(<br>l<br>I<br>C<br>)<br>c<br>a<br>s<br>s                                                                                                                    | aI<br>V<br>1–<br>2<br>/<br>k<br>1<br>0<br>i<br>g<br>g<br>m<br>o<br>v<br>e<br>r<br>m<br>n,<br>h<br>0.<br>1<br>5–<br>0.<br>2<br>5<br>/<br>k<br>/<br>h.<br>t<br>g<br>g<br>e<br>n<br>m<br>O<br>l<br>5<br>0–<br>4<br>0<br>0<br>2<br>i<br>t<br>g<br>r<br>a<br>m<br>m<br>e<br>s<br>d<br>i<br>l<br>a<br>y.<br>H<br>i<br>t<br>l<br>i<br>o<br>s<br>p<br>a<br>e.<br>z                                                                                                      | T1<br>1<br>3–<br>1<br>9<br>h.<br>H<br>i<br>2<br>/<br>3<br>t<br>e<br>p<br>a<br>c<br>;<br>/<br>2<br>1<br>/<br>3<br>l<br>i<br>t<br>r<br>e<br>n<br>a<br>e<br>x<br>c<br>r<br>e<br>o<br>n<br>h<br>d.<br>K<br>h<br>t<br>g<br>g<br>u<br>n<br>c<br>a<br>n<br>e<br>e<br>e<br>p<br>r<br>o<br>u<br>l<br>l<br>b<br>l<br>1<br>/<br>L.<br>g<br>e<br>v<br>e<br>e<br>o<br>w<br>m<br>μ                                                                                                                                                                            | Q<br>R<br>S<br>l<br>i<br>t<br>g<br>p<br>r<br>o<br>o<br>n<br>a<br>o<br>n.<br>P<br>h<br>h<br>i<br>t<br>r<br>o<br>a<br>r<br>r<br>y<br>m<br>a.<br>D<br>d<br>L<br>V<br>f<br>i<br>t<br>e<br>p<br>r<br>e<br>s<br>s<br>e<br>u<br>n<br>c<br>o<br>n.<br>C<br>S<br>f<br>f<br>N<br>i<br>d<br>t<br>s<br>e<br>e<br>e<br>c<br>s.<br>I<br>d<br>i<br>i<br>d<br>f<br>n<br>c<br>r<br>e<br>a<br>s<br>e<br>n<br>c<br>e<br>n<br>c<br>e<br>o<br>d<br>t<br>h<br>t<br>i<br>f<br>t.<br>e<br>a<br>p<br>o<br>s<br>n<br>a<br>r<br>c                                                    | M<br>i<br>l<br>l<br>d<br>d<br>d<br>a<br>n<br>y,<br>e<br>s<br>p<br>e<br>c<br>a<br>y<br>a<br>e<br>i<br>h<br>i<br>b<br>i<br>i<br>f<br>d<br>i<br>t<br>t<br>n<br>o<br>n<br>o<br>c<br>o<br>n<br>u<br>c<br>o<br>n<br>d<br>d<br>l<br>i<br>t<br>a<br>n<br>n<br>o<br>a<br>s<br>s<br>u<br>e.                                                                                                                                                                                                                                                           |
+#### Slow-Response Action Potential (Sinoatrial and Atrioventricular Nodal Pacemaker Cells)</summary><div class="details-content">
 
-Table 9.2
+Specialized nodal cells lack significant $I_{\text{K1}}$ and functional fast sodium channels ($I_{\text{Na}}$ is inactivated at less negative resting potentials of $-55$ to $-65\,\text{mV}$):
 
-| Q<br>i<br>k<br>f<br>f<br>t<br>i<br>h<br>t<br>h<br>i<br>d<br>(<br>C<br>i<br>d<br>)<br>t<br>g<br>u<br>c<br>r<br>e<br>e<br>r<br>e<br>n<br>c<br>e<br>o<br>r<br>c<br>o<br>m<br>m<br>o<br>n<br>a<br>n<br>a<br>r<br>r<br>y<br>m<br>c<br>r<br>u<br>s<br>o<br>n<br>n<br>u<br>e |                                                                                                                                                                                                                                                                                                                                             |                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                 |                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                               |                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                        |
-|-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
-| A<br>t<br>g<br>e<br>n                                                                                                                                                                                                                                                 | D<br>o<br>s<br>e                                                                                                                                                                                                                                                                                                                            | P<br>h<br>k<br>i<br>t<br>i<br>d<br>a<br>r<br>m<br>a<br>c<br>o<br>n<br>e<br>c<br>s<br>a<br>n<br>t<br>b<br>l<br>i<br>m<br>e<br>a<br>o<br>s<br>m                                                                                                                                                                                                                                                                                                                                                                   | S<br>i<br>d<br>f<br>f<br>t<br>d<br>e<br>e<br>e<br>c<br>s<br>a<br>n<br>t<br>i<br>d<br>i<br>t<br>i<br>r<br>c<br>o<br>n<br>a<br>n<br>c<br>a<br>o<br>n<br>s                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                       | I<br>t<br>t<br>i<br>d<br>n<br>e<br>r<br>a<br>c<br>o<br>n<br>s<br>a<br>n<br>t<br>i<br>r<br>p<br>e<br>c<br>a<br>u<br>o<br>n<br>s                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                         |
-| P<br>f<br>r<br>o<br>p<br>a<br>e<br>n<br>o<br>n<br>e<br>(<br>l<br>I<br>C<br>)<br>c<br>a<br>s<br>s                                                                                                                                                                      | I<br>V<br>2<br>/<br>k<br>t<br>h<br>2<br>/<br>i<br>g<br>g<br>g<br>m<br>e<br>n<br>m<br>m<br>n.<br>O<br>l<br>1<br>5<br>0–<br>3<br>0<br>0<br>3<br>t<br>i<br>g<br>r<br>a<br>m<br>m<br>e<br>s<br>d<br>i<br>l<br>a<br>y.                                                                                                                           | T1<br>i<br>b<br>l<br>2–<br>1<br>0<br>h,<br>t<br>a<br>r<br>a<br>e<br>p<br>o<br>v<br>u<br>/<br>2<br>3<br>2<br>h<br>i<br>t<br>b<br>l<br>i<br>n<br>n<br>o<br>n<br>m<br>e<br>a<br>o<br>e<br>r<br>s.<br>z<br>L<br>l<br>0.<br>2–<br>3<br>/<br>L.<br>g<br>e<br>v<br>e<br>m<br>μ<br>V<br>i<br>b<br>l<br>h<br>i<br>t<br>a<br>r<br>a<br>e<br>e<br>p<br>a<br>c<br>b<br>l<br>i<br>(<br>P-<br>4<br>5<br>0<br>t<br>m<br>e<br>a<br>o<br>s<br>m<br>d<br>f<br>i<br>i<br>l<br>).<br>e<br>c<br>e<br>n<br>c<br>y<br>s<br>o<br>w<br>s | Q<br>R<br>S<br>l<br>t<br>i<br>M<br>d<br>t<br>g<br>p<br>r<br>o<br>o<br>n<br>a<br>o<br>n.<br>o<br>e<br>s<br>t<br>i<br>i<br>t<br>i<br>f<br>f<br>t.<br>g<br>n<br>e<br>a<br>e<br>n<br>o<br>r<br>o<br>p<br>c<br>e<br>e<br>c<br>v<br>G<br>I<br>i<br>d<br>f<br>f<br>t<br>s<br>e<br>e<br>e<br>c<br>s.<br>P<br>h<br>h<br>i<br>t<br>r<br>o<br>a<br>r<br>r<br>y<br>m<br>a.                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                | D<br>i<br>i<br>l<br>l<br>i<br>d.<br>g<br>o<br>n<br>e<br>e<br>n<br>c<br>r<br>e<br>a<br>s<br>e<br>x<br>v<br>H<br>t<br>i<br>i<br>d<br>e<br>p<br>a<br>c<br>n<br>c<br>e<br>r<br>s.<br>u                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                     |
-| I<br>b<br>i<br>l<br>i<br>d<br>t<br>u<br>e<br>(<br>l<br>I<br>I<br>I<br>)<br>c<br>a<br>s<br>s                                                                                                                                                                           | I<br>V<br>i<br>f<br>i<br>1<br>g<br>n<br>u<br>s<br>o<br>n<br>:<br>m<br>o<br>v<br>e<br>r<br>0<br>6<br>0<br>1<br>i<br>(<br>d<br>k<br>g<br>m<br>n,<br>u<br>n<br>e<br>r<br>:<br>0.<br>1<br>/<br>k<br>).<br>g<br>g<br>m<br>I<br>f<br>d<br>d,<br>f<br>t<br>t<br>n<br>e<br>e<br>e<br>r<br>e<br>p<br>e<br>a<br>a<br>e<br>r<br>1<br>0<br>i<br>m<br>n. | I<br>i<br>i<br>l<br>d<br>i<br>i<br>b<br>i<br>T1<br>t<br>t<br>t<br>i<br>n<br>a<br>s<br>r<br>u<br>o<br>n<br>s<br>/<br>2<br>1.<br>5<br>i<br>t<br>E<br>l<br>i<br>i<br>t<br>i<br>m<br>n<br>u<br>e<br>s.<br>m<br>n<br>a<br>o<br>n<br>T1<br>6<br>h<br>(<br>g<br>g<br>a<br>e<br>r<br>a<br>e<br>s<br>r<br>a<br>n<br>e<br>v<br>/<br>2<br>2–<br>1<br>2<br>h<br>).<br>E<br>f<br>f<br>i<br>i<br>l<br>l<br>i<br>h<br>i<br>t<br>c<br>a<br>c<br>y<br>s<br>u<br>s<br>u<br>a<br>y<br>w<br>n<br>4<br>0<br>i<br>m<br>n.             | N<br>h<br>d<br>h<br>a<br>u<br>s<br>e<br>a,<br>e<br>a<br>a<br>c<br>e,<br>h<br>t<br>i<br>b<br>d<br>l<br>y<br>p<br>o<br>e<br>n<br>s<br>o<br>n,<br>u<br>n<br>e<br>b<br>h<br>b<br>l<br>k,<br>A<br>V<br>d<br>l<br>r<br>a<br>n<br>c<br>o<br>c<br>n<br>o<br>a<br>b<br>l<br>k,<br>b<br>d<br>d<br>i<br>o<br>c<br>r<br>a<br>y<br>c<br>a<br>r<br>a,<br>d<br>d<br>i<br>t<br>t<br>o<br>r<br>s<br>a<br>e<br>s<br>e<br>p<br>o<br>n<br>e<br>s,<br>i<br>d<br>h<br>i<br>t<br>s<br>u<br>s<br>a<br>n<br>e<br>m<br>o<br>n<br>o<br>m<br>o<br>r<br>p<br>c<br>V<br>T,<br>h<br>d<br>i<br>t<br>a<br>c<br>y<br>c<br>a<br>r<br>a,<br>i<br>l<br>l<br>t<br>t<br>t<br>v<br>e<br>n<br>r<br>c<br>u<br>a<br>r<br>e<br>x<br>r<br>a<br>s<br>y<br>s<br>o<br>e<br>s.<br>A<br>i<br>d<br>h<br>t<br>t<br>v<br>o<br>c<br>o<br>n<br>c<br>u<br>r<br>r<br>e<br>n<br>e<br>r<br>a<br>p<br>y<br>i<br>t<br>h<br>l<br>I<br>I<br>I<br>I<br>t<br>g<br>c<br>a<br>s<br>s<br>o<br>r<br>a<br>e<br>n<br>s.<br>w<br>C<br>i<br>t<br>h<br>i<br>d<br>a<br>r<br>e<br>a<br>m<br>o<br>a<br>r<br>o<br>n<br>e<br>o<br>r<br>w<br>l<br>l.<br>C<br>/<br>I<br>i<br>t<br>s<br>o<br>a<br>o<br>:<br>p<br>r<br>e<br>v<br>o<br>u<br>s<br>d<br>d<br>i<br>t<br>t<br>o<br>r<br>s<br>a<br>e<br>s<br>e<br>p<br>o<br>n<br>e<br>s,<br>d<br>d<br>h<br>t<br>t<br>e<br>c<br>o<br>m<br>p<br>e<br>n<br>s<br>a<br>e<br>e<br>a<br>r<br>f<br>i<br>l<br>a<br>u<br>r<br>e. | I<br>i<br>i<br>h<br>C<br>l<br>I<br>A<br>t<br>t<br>t<br>n<br>e<br>r<br>a<br>c<br>o<br>n<br>s<br>w<br>a<br>s<br>s<br>d<br>t<br>h<br>l<br>I<br>I<br>I<br>a<br>n<br>o<br>e<br>r<br>c<br>a<br>s<br>s<br>t<br>i<br>h<br>t<br>h<br>i<br>d<br>g<br>a<br>n<br>a<br>r<br>r<br>m<br>c<br>r<br>s<br>y<br>u<br>h<br>l<br>h<br>Q<br>T<br>t<br>t<br>t<br>g<br>a<br>p<br>r<br>o<br>o<br>n<br>e<br>i<br>l<br>(<br>t<br>g.<br>n<br>e<br>r<br>v<br>a<br>e.<br>i<br>h<br>i<br>t<br>t<br>a<br>n<br>p<br>s<br>y<br>c<br>o<br>c<br>s,<br>i<br>d<br>t<br>t<br>a<br>n<br>e<br>p<br>r<br>e<br>s<br>s<br>a<br>n<br>s,<br>l<br>i<br>d<br>i<br>b<br>i<br>i<br>t<br>t<br>m<br>a<br>c<br>r<br>o<br>e<br>a<br>n<br>o<br>c<br>s,<br>d<br>a<br>n<br>s<br>o<br>m<br>e<br>t<br>i<br>h<br>i<br>t<br>i<br>).<br>C<br>h<br>k<br>a<br>n<br>s<br>a<br>m<br>n<br>e<br>s<br>e<br>c<br>Q<br>T<br>(<br>F<br>i<br>9.<br>4<br>).<br>g.<br>s<br>e<br>e<br>C<br>h<br>k<br>l<br>i<br>d<br>t<br>o<br>r<br>r<br>e<br>c<br>y<br>p<br>o<br>a<br>e<br>m<br>a<br>a<br>n<br>h<br>i<br>g<br>y<br>p<br>o<br>m<br>a<br>n<br>e<br>s<br>e<br>m<br>a. |
-| D<br>f<br>i<br>l<br>i<br>d<br>t<br>o<br>e<br>e<br>(<br>l<br>I<br>I<br>I<br>)<br>c<br>a<br>s<br>s                                                                                                                                                                      | D<br>2<br>5<br>0<br>i<br>d<br>i<br>l<br>t<br>g<br>o<br>s<br>e<br>w<br>c<br>e<br>a<br>y,<br>μ<br>0<br>0<br>i<br>5<br>t<br>i<br>g<br>m<br>a<br>x<br>m<br>u<br>m<br>w<br>c<br>e<br>μ                                                                                                                                                           | O<br>l<br>k<br>l<br>r<br>a<br>p<br>e<br>a<br>p<br>a<br>s<br>m<br>a<br>t<br>t<br>i<br>i<br>c<br>o<br>n<br>c<br>e<br>n<br>r<br>a<br>o<br>n<br>n                                                                                                                                                                                                                                                                                                                                                                   | T<br>d<br>d<br>i<br>i<br>3<br>%<br>f<br>t<br>o<br>r<br>s<br>a<br>e<br>s<br>e<br>p<br>o<br>n<br>e<br>s<br>n<br>o<br>t<br>i<br>t<br>h<br>i<br>h<br>b<br>p<br>a<br>e<br>n<br>s<br>w<br>c<br>c<br>a<br>n<br>e                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                     | I<br>d<br>b<br>l<br>d<br>l<br>l<br>i<br>h<br>t<br>n<br>c<br>r<br>e<br>a<br>s<br>e<br>o<br>o<br>e<br>v<br>e<br>s<br>w<br>k<br>t<br>l<br>e<br>o<br>c<br>o<br>n<br>a<br>z<br>o<br>e,                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                      |
+* **Phase 4 (Spontaneous Diastolic Depolarization):** The hallmark of automaticity. Following maximal diastolic potential, hyperpolarization-activated cyclic nucleotide-gated channels (HCN4) open, generating the inward pacemaker "funny" current ($I_{\text{f}}$), carrying mixed $\text{Na}^+$ and $\text{K}^+$. Concurrently, transient T-type calcium channels ($I_{\text{Ca-T}}$) and the "calcium clock" (local diastolic sub-sarcolemmal calcium releases activating inward $\text{Na}^+/\text{Ca}^{2+}$ exchanger current, $I_{\text{NCX}}$) accelerate diastolic depolarization toward threshold.
+* **Phase 0 (Slow Upstroke):** Mediated entirely by slow inward L-type calcium current ($I_{\text{Ca-L}}$), yielding an upstroke velocity of only $5\text{--}15\,\text{V/s}$.
+* **Phase 3 (Repolarization):** Mediated by outward potassium channels ($I_{\text{Kr}}$, $I_{\text{Ks}}$), terminating spontaneous discharge and returning membrane potential to maximal diastolic potential.
 
-|                                                                                                  | d<br>i<br>l<br>i<br>f<br>l<br>l<br>d<br>a<br>y<br>n<br>o<br>r<br>m<br>a<br>r<br>e<br>n<br>a<br>a<br>n<br>d<br>i<br>f<br>i<br>I<br>f<br>L<br>V<br>t<br>c<br>a<br>r<br>a<br>c<br>u<br>n<br>c<br>o<br>n.<br>d<br>f<br>i<br>2<br>5<br>0<br>i<br>t<br>t<br>g<br>y<br>s<br>u<br>n<br>c<br>o<br>n,<br>w<br>c<br>e<br>μ<br>C<br>Q<br>2–<br>3<br>d<br>i<br>l<br>h<br>k<br>T<br>h<br>a<br>y.<br>e<br>c                                                                                                                                                                                                                                      | 2.<br>5<br>h<br>d<br>d<br>t<br>o<br>u<br>r<br>s<br>a<br>n<br>a<br>s<br>e<br>a<br>y<br>i<br>h<br>i<br>4<br>8<br>h.<br>5<br>0<br>%<br>t<br>t<br>t<br>s<br>a<br>e<br>w<br>n<br>d<br>b<br>k<br>i<br>d<br>t<br>e<br>x<br>c<br>r<br>e<br>e<br>y<br>n<br>e<br>y<br>s<br>h<br>d.<br>g<br>u<br>n<br>c<br>a<br>n<br>e                                                                                                                                                                                                                                                                                                                                                       | d<br>d<br>b<br>i<br>g<br>r<br>e<br>u<br>c<br>e<br>y<br>e<br>n<br>s<br>u<br>r<br>n<br>l<br>K,<br>i<br>d<br>i<br>g<br>n<br>o<br>r<br>m<br>a<br>s<br>e<br>r<br>u<br>m<br>a<br>v<br>o<br>n<br>d<br>f<br>i<br>l<br>i<br>d<br>d<br>i<br>h<br>t<br>t<br>g<br>o<br>e<br>e<br>o<br>r<br>r<br>e<br>u<br>c<br>n<br>e<br>f<br>d<br>i<br>b<br>l<br>l<br>o<br>s<br>e<br>a<br>n<br>o<br>r<br>m<br>a<br>r<br>e<br>n<br>a                                                                                                                                                                       | i<br>l,<br>i<br>i<br>d<br>i<br>t<br>v<br>e<br>r<br>a<br>p<br>a<br>m<br>c<br>m<br>e<br>n<br>e,<br>o<br>r<br>i<br>h<br>i<br>b<br>i<br>f<br>h<br>t<br>t<br>n<br>o<br>r<br>s<br>o<br>c<br>y<br>o<br>c<br>r<br>o<br>m<br>e<br>C<br>Y<br>P<br>3<br>A<br>4,<br>i<br>l<br>d<br>i<br>g<br>n<br>c<br>u<br>n<br>l<br>i<br>d<br>t<br>i<br>b<br>i<br>t<br>i<br>m<br>a<br>c<br>r<br>o<br>e<br>a<br>n<br>o<br>c<br>s,                                                                                                                   |
-|--------------------------------------------------------------------------------------------------|-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
-|                                                                                                  | f<br>t<br>d<br>i<br>f<br>Q<br>T<br>i<br>1<br>5<br>%<br>a<br>e<br>r<br>o<br>s<br>e,<br>c<br>s<br>o<br>r<br>5<br>0<br>0<br>d<br>d<br>I<br>f<br>><br>m<br>s,<br>r<br>e<br>u<br>c<br>e<br>o<br>s<br>e.<br>Q<br>T<br>5<br>0<br>0<br>t<br>><br>c<br>m<br>s,<br>s<br>o<br>p.                                                                                                                                                                                                                                                                                                                                                             |                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                   | f<br>t<br>i<br>b<br>d<br>d<br>i<br>n<br>c<br>o<br>n,<br>r<br>a<br>c<br>a<br>r<br>a,<br>o<br>r<br>u<br>y<br>b<br>l<br>i<br>Q<br>T<br>".<br>a<br>s<br>e-<br>n<br>e<br>A<br>i<br>d<br>i<br>h<br>h<br>d<br>t<br>t<br>g<br>v<br>o<br>w<br>o<br>e<br>r<br>r<br>u<br>s<br>i<br>i<br>Q<br>T.<br>C<br>/<br>I<br>g<br>n<br>c<br>r<br>e<br>a<br>s<br>n<br>:<br>i<br>d<br>t<br>p<br>r<br>e<br>v<br>o<br>u<br>s<br>o<br>r<br>s<br>a<br>e<br>s,<br>i<br>i<br>l<br>t<br>c<br>r<br>e<br>a<br>n<br>n<br>e<br>c<br>e<br>a<br>r<br>a<br>n<br>c<br>e<br>2<br>0<br>L<br>/<br>i<br><<br>m<br>m<br>n. | t<br>i<br>h<br>i<br>b<br>i<br>t<br>h<br>p<br>r<br>o<br>e<br>a<br>s<br>e<br>n<br>o<br>r<br>s<br>s<br>c<br>u<br>i<br>i<br>t<br>a<br>s<br>r<br>o<br>n<br>a<br>v<br>r.<br>O<br>h<br>i<br>t<br>t<br>e<br>r<br>p<br>r<br>e<br>c<br>a<br>u<br>o<br>n<br>s<br>a<br>s<br>i<br>l<br>p<br>r<br>e<br>v<br>o<br>u<br>s<br>y.                                                                                                                                                                                                          |
-| S<br>t<br>l<br>l<br>o<br>a<br>o<br>(<br>l<br>I<br>I<br>I<br>)<br>c<br>a<br>s<br>s                | 8<br>0–<br>6<br>0<br>4<br>d<br>i<br>l<br>g<br>m<br>a<br>y,<br>i<br>l<br>l<br>h<br>i<br>h<br>i<br>t<br>g<br>o<br>c<br>c<br>a<br>s<br>o<br>n<br>a<br>e<br>r<br>n<br>o<br>y<br>w<br>d<br>i<br>i<br>d<br>d<br>d<br>v<br>e<br>o<br>s<br>e<br>s.                                                                                                                                                                                                                                                                                                                                                                                        | 2<br>T1<br>1<br>h.<br>/<br>2<br>N<br>t<br>t<br>b<br>l<br>i<br>d.<br>o<br>m<br>e<br>a<br>o<br>e<br>z<br>H<br>d<br>h<br>i<br>l<br>i<br>R<br>l<br>l<br>y<br>r<br>o<br>p<br>c.<br>e<br>n<br>a<br>o<br>s<br>s.                                                                                                                                                                                                                                                                                                                                                                                                                                                         | M<br>d<br>i<br>l<br>d<br>i<br>y<br>o<br>c<br>a<br>r<br>a<br>e<br>p<br>r<br>e<br>s<br>s<br>o<br>n,<br>i<br>b<br>d<br>d<br>i<br>A<br>V<br>s<br>n<br>s<br>r<br>a<br>c<br>a<br>r<br>a,<br>u<br>y<br>b<br>l<br>k.<br>T<br>d<br>i<br>f<br>o<br>c<br>o<br>r<br>s<br>a<br>e<br>s<br>h<br>k<br>l<br>i<br>y<br>p<br>o<br>a<br>e<br>m<br>c.                                                                                                                                                                                                                                               | f<br>A<br>d<br>d<br>d<br>i<br>k<br>t<br>d<br>i<br>t<br>h<br>e<br>r<br>s<br>o<br>o<br>r<br>s<br>a<br>e<br>s<br>w<br>I<br>A<br>t<br>d<br>i<br>t<br>i<br>g<br>a<br>e<br>n<br>s<br>o<br>r<br>r<br>e<br>c<br>s.<br>u<br>D<br>d<br>i<br>l<br>e<br>c<br>r<br>e<br>a<br>s<br>e<br>o<br>s<br>e<br>n<br>r<br>e<br>n<br>a<br>f<br>i<br>l<br>a<br>u<br>r<br>e.                                                                                                                                                                       |
-| A<br>i<br>d<br>m<br>o<br>a<br>r<br>o<br>n<br>e<br>(<br>l<br>I<br>I<br>I<br>)<br>c<br>a<br>s<br>s | O<br>l<br>l<br>d<br>i<br>d<br>6<br>0<br>0–<br>g<br>r<br>a<br>o<br>a<br>n<br>o<br>s<br>e<br>1<br>2<br>0<br>0<br>d<br>i<br>l<br>g<br>m<br>a<br>y<br>;<br>i<br>5<br>0–<br>4<br>0<br>0<br>t<br>g<br>m<br>a<br>n<br>e<br>n<br>a<br>n<br>c<br>e<br>m<br>0<br>d<br>i<br>l<br>I<br>V<br>1<br>5<br>g<br>a<br>y.<br>m<br>o<br>v<br>e<br>r<br>1<br>0<br>i<br>t<br>h<br>3<br>6<br>0<br>g<br>m<br>n,<br>e<br>n<br>m<br>o<br>e<br>r<br>v<br>6<br>h,<br>t<br>h<br>5<br>4<br>0<br>g<br>e<br>n<br>m<br>o<br>e<br>r<br>v<br>i<br>i<br>2<br>4<br>h,<br>h<br>t<br>g<br>r<br>e<br>m<br>a<br>n<br>n<br>e<br>n<br>0.<br>5<br>/<br>i<br>g<br>m<br>m<br>n. | T1<br>2<br>5–<br>1<br>1<br>0<br>d<br>a<br>y<br>s.<br>/<br>2<br>L<br>l<br>1–<br>2.<br>5<br>/<br>L.<br>g<br>e<br>v<br>e<br>m<br>μ<br>H<br>i<br>b<br>l<br>i<br>t<br>t<br>e<br>p<br>a<br>c<br>m<br>e<br>a<br>o<br>s<br>m<br>L<br>i<br>i<br>d<br>l<br>b<br>l<br>i<br>t<br>h<br>p<br>s<br>o<br>u<br>e<br>w<br>t<br>i<br>d<br>i<br>t<br>i<br>b<br>t<br>i<br>i<br>e<br>e<br>n<br>s<br>e<br>s<br>r<br>o<br>n<br>n<br>x<br>v<br>u<br>b<br>d<br>E<br>t<br>i<br>b<br>k<br>i<br>o<br>c<br>r<br>e<br>o<br>n<br>s<br>n,<br>y.<br>x<br>y<br>b<br>i<br>l<br>i<br>l<br>h<br>l<br>t<br>t,<br>a<br>r<br>y<br>r<br>a<br>c<br>a<br>c<br>r<br>y<br>m<br>a<br>l<br>d<br>g<br>a<br>n<br>s. | C<br>l<br>d<br>d<br>d<br>t<br>o<br>m<br>p<br>e<br>x<br>o<br>s<br>e-<br>e<br>p<br>e<br>n<br>e<br>n<br>i<br>d<br>f<br>f<br>i<br>l<br>d<br>i<br>t<br>g<br>s<br>e<br>e<br>e<br>c<br>s<br>n<br>c<br>u<br>n<br>l<br>f<br>i<br>b<br>i<br>Q<br>T<br>p<br>u<br>m<br>o<br>n<br>a<br>r<br>y<br>r<br>o<br>s<br>s.<br>l<br>t<br>i<br>T<br>d<br>g<br>p<br>r<br>o<br>o<br>n<br>a<br>o<br>n.<br>o<br>r<br>s<br>a<br>e<br>s<br>n<br>c<br>o<br>m<br>m<br>o<br>n.<br>u                                                                                                                            | C<br>l<br>I<br>A<br>t<br>g<br>a<br>s<br>s<br>a<br>e<br>n<br>s<br>d<br>i<br>d<br>t<br>t<br>p<br>r<br>e<br>s<br>p<br>o<br>s<br>e<br>o<br>o<br>r<br>s<br>a<br>e<br>s.<br>β<br>b<br>l<br>k<br>d<br>i<br>t<br>o<br>c<br>e<br>r<br>s<br>p<br>r<br>e<br>s<br>p<br>o<br>s<br>e<br>o<br>-<br>d<br>l<br>d<br>i<br>t<br>n<br>o<br>a<br>e<br>p<br>r<br>e<br>s<br>s<br>o<br>n,<br>y<br>e<br>i<br>b<br>t<br>t<br>t<br>h<br>t<br>i<br>g<br>e<br>e<br>e<br>r<br>e<br>r<br>a<br>p<br>e<br>c<br>v<br>u<br>f<br>f<br>t<br>e<br>e<br>c<br>s. |
+</div></details>
 
-ventricular; SVT, supraventricular tachycardia; T1/2, plasma half-life; VT, ventricular tachycardia; WPW, Wolff-Parkinson-White.
+</div></details>
 
-aNot licensed for intravenous use in the United States.
+<details class="med-details"><summary>
 
-bEnzyme hepatic inducers are barbiturates, phenytoin, and rifampin, which induce hepatic enzymes, thereby decreasing blood levels of the drug.
+### 1.2 Evolution of Antiarrhythmic Drug Classifications</summary><div class="details-content">
 
-Table 9.3
+<details class="med-details"><summary>
 
-Amiodarone
+#### The Vaughan Williams Framework and the Modernized Oxford Scheme</summary><div class="details-content">
 
-#### Effects and side effects of some ventricular antiarrhythmic agents on electrophysiology and hemodynamics Agent SinusnodeSinusrateA-His PR AVblock H-P WPW QRS QT Serioushemodynamic effectsRisk oftorsadesRisk ofmonomorphic VT Lidocaine 0 0 0/# 00 0 #/0 0 0 Toxic doses 0 0 Phenytoin 0 0 "/0 0 Lessens 0 #/0 0 " IV hypotension 0, <sup>+</sup> 0, <sup>+</sup> Flecainide 0/# 0 ### " Avoid ## #A/R " " (via QRS) LV ## 0 +++ Propafenone 0/# 0 ## " Avoid ## #A/R " 0 LV # 0 +++ Sotalol## ## # " Avoid 0 A/R 0 " IV use ++ 0, <sup>+</sup>
+The classic Vaughan Williams classification (1970), later refined by Singh and Vaughan Williams, established four distinct functional classes based on primary electrophysiological actions:
+* **Class I:** Fast sodium channel blockers ($I_{\text{Na}}$) depressing phase 0 upstroke. Subdivided based on kinetics and effect on action potential duration into IA (intermediate kinetics, prolongs APD), IB (rapid kinetics, shortens APD), and IC (slow kinetics, unchanged APD).
+* **Class II:** Beta-adrenoceptor antagonists, blunting adrenergic stimulation of nodal pacemaker currents.
+* **Class III:** Potassium channel blockers, delaying repolarization and prolonging APD and effective refractory period (ERP).
+* **Class IV:** L-type calcium channel blockers, depressing nodal conduction and phase 0 in SA and AV nodes.
 
- # "# # 0/" Avoid 0/# A/R 0 "" IV use +/ 0, <sup>+</sup> A, antegrade; A-His, Atria-His conduction; AV, atrioventricular; H-P, His-Purkinje conduction; IV, intravenous; LV, left ventricular; PR, PR interval; R, retrograde; VT, ventricular tachycardia; WPW, Wolff-Parkinson-White syndrome accessory pathways.
+The **Sicilian Gambit** (1991) expanded this framework into an interactive matrix correlating molecular targets, channels, receptors, and electrophysiological effects ([Fig. 9.1](#fig-09-01)).
 
-#### Sinus Node**AtrioventricularNodeAV nodeblocking rapid inputs Ventricularrate slowed**Left Bundle BranchRight Bundle Branch
+More recently, the **Oxford Modernized Classification** (2018) incorporated newly characterized channel blockers and molecular targets:
+* **Class 0:** Pacemaker current blockers (HCN channel blockers, such as ivabradine acting on $I_{\text{f}}$).
+* **Class ID:** Late sodium current blockers (such as ranolazine and eleclazine acting on $I_{\text{NaL}}$).
+* **Class V:** Purinergic receptor agonists (adenosine acting on $A_1$ receptors and activating $I_{\text{K,ACh}}$).
+* **Class VI:** Gap junction modulators (rotigaptide).
+* **Class VII:** Upstream non-electrophysiological targets (ACE inhibitors, ARBs, statins, SGLT2 inhibitors).
 
-#### Atrial rate very fast Atrial rate slowed by IC drug
+<span id="tab-09-01"></span>
 
-![](_page_8_Figure_3.jpeg)
+### TABLE 9.1 Antiarrhythmic Drug Classes (Vaughan Williams and Modernized Schemes)
 
-AV node has decremental properties that allow it to block conduction to ventricle (2:1. 3:1) when atrial rates are very high
+| Class | Primary Channel / Target Effects | Repolarization Time (APD) | Characteristic Drug Examples |
+|---|---|---|---|
+| **Class 0** | HCN pacemaker channel block ($I_{\text{f}}$) | Unchanged | Ivabradine |
+| **Class IA** | Intermediate $I_{\text{Na}}$ block (++); $I_{\text{to}}$ and $I_{\text{Kr}}$ block (+) | **Prolongs** | Quinidine, Procainamide, Disopyramide, Ajmaline |
+| **Class IB** | Fast $I_{\text{Na}}$ block (+); binds inactivated channels | **Shortens** | Lidocaine, Mexiletine, Phenytoin |
+| **Class IC** | Potent $I_{\text{Na}}$ block (+++); slow dissociation | **Unchanged** | Flecainide, Propafenone |
+| **Class ID** | Late sodium current block ($I_{\text{NaL}}$) (+) | Variable / Normalizes | Ranolazine |
+| **Class II** | Beta-adrenergic receptor blockade; indirect $I_{\text{Ca-L}}$ and $I_{\text{f}}$ block | Unchanged | Metoprolol, Bisoprolol, Atenolol, Esmolol, Nadolol, Carvedilol |
+| **Class III** | Repolarizing potassium currents ($I_{\text{Kr}}$, $I_{\text{Ks}}$, $I_{\text{Kur}}$) | **Markedly prolongs** | Amiodarone, Sotalol, Dronedarone, Dofetilide, Ibutilide, Vernakalant |
+| **Class IV** | L-type calcium channel block ($I_{\text{Ca-L}}$ in SA/AV nodes) | Unchanged | Verapamil, Diltiazem |
+| **Class V** | $A_1$ purinergic agonist; opens $I_{\text{K,ACh}}$ (hyperpolarization) | Unchanged | Adenosine |
 
+*Abbreviations: APD, action potential duration; AV, atrioventricular; HCN, hyperpolarization-activated cyclic nucleotide-gated; SA, sinoatrial; +, mild effect; ++, moderate effect; +++, marked effect.*
+
+<span id="fig-09-01"></span>![](_page_2_Figure_2.jpeg)
+
+**FIGURE 9.1** The classical four types of antiarrhythmic agents and the Sicilian Gambit targets. Class I agents decrease phase zero of rapid depolarization of the action potential (rapid sodium channel). Class II agents, beta-blocking drugs, have complex actions including inhibition of spontaneous diastolic depolarization (phase 4) and indirect closure of calcium channels. Class III agents block outward potassium channels to prolong action potential duration and refractoriness. Class IV agents (verapamil, diltiazem) and adenosine inhibit inward calcium channels and nodal conduction. The lower panel illustrates major transmembrane ionic currents upon which antiarrhythmics act.
+
+<span id="diag-09-01"></span>
+
+### DIAGRAM 9.1 Cardiac Action Potential Ion Currents and Antiarrhythmic Pharmacological Targets
+
+<svg viewBox="0 0 880 570" style="width:100%; max-width:880px; height:auto; display:block; margin:16px auto;" xmlns="http://www.w3.org/2000/svg">
+  <rect width="880" height="570" rx="12" fill="#0f172a" stroke="#334155" stroke-width="1.5"/>
+  <text x="440" y="28" fill="#38bdf8" font-family="system-ui, -apple-system, sans-serif" font-size="13.5" font-weight="700" text-anchor="middle" letter-spacing="0.5">CARDIAC ACTION POTENTIAL CURRENTS & ANTIARRHYTHMIC PHARMACOLOGICAL TARGETS</text>
+  <!-- Left Panel: Ventricular AP -->
+  <rect x="25" y="45" width="405" height="180" rx="8" fill="#1e293b" stroke="#3b82f6" stroke-width="1.2"/>
+  <text x="227" y="65" fill="#93c5fd" font-family="system-ui, sans-serif" font-size="11" font-weight="700" text-anchor="middle">VENTRICULAR ACTION POTENTIAL (FAST RESPONSE)</text>
+  <!-- Curve for Ventricular AP -->
+  <path d="M 50 195 L 85 195 L 95 80 L 115 105 L 205 110 Q 260 115 285 155 L 305 195 L 410 195" fill="none" stroke="#60a5fa" stroke-width="2.5"/>
+  <!-- Annotations on Ventricular curve -->
+  <text x="75" y="140" fill="#f87171" font-family="system-ui, sans-serif" font-size="9" font-weight="700">0</text>
+  <text x="110" y="95" fill="#fb923c" font-family="system-ui, sans-serif" font-size="9" font-weight="700">1</text>
+  <text x="160" y="100" fill="#facc15" font-family="system-ui, sans-serif" font-size="9" font-weight="700">2</text>
+  <text x="290" y="145" fill="#4ade80" font-family="system-ui, sans-serif" font-size="9" font-weight="700">3</text>
+  <text x="350" y="190" fill="#94a3b8" font-family="system-ui, sans-serif" font-size="9" font-weight="700">4</text>
+  <text x="40" y="215" fill="#cbd5e1" font-family="system-ui, sans-serif" font-size="9">Phase 0: Rapid Na+ Influx (INa) | Phase 1: Transient Outward K+ (Ito)</text>
+  <text x="40" y="226" fill="#cbd5e1" font-family="system-ui, sans-serif" font-size="9">Phase 2: Plateau (ICa-L vs IKr / IKs) | Phase 3: Rapid Repolarization (IKr, IKs, IK1)</text>
+  <!-- Right Panel: Nodal AP -->
+  <rect x="450" y="45" width="405" height="180" rx="8" fill="#1e293b" stroke="#10b981" stroke-width="1.2"/>
+  <text x="652" y="65" fill="#6ee7b7" font-family="system-ui, sans-serif" font-size="11" font-weight="700" text-anchor="middle">SA / AV NODAL PACEMAKER (SLOW RESPONSE)</text>
+  <!-- Curve for Nodal AP -->
+  <path d="M 470 195 Q 530 170 560 145 L 590 85 Q 615 145 645 195 Q 705 170 735 145 L 765 85 Q 790 145 820 195" fill="none" stroke="#34d399" stroke-width="2.5"/>
+  <text x="540" y="180" fill="#c084fc" font-family="system-ui, sans-serif" font-size="9" font-weight="700">4 (If)</text>
+  <text x="575" y="115" fill="#facc15" font-family="system-ui, sans-serif" font-size="9" font-weight="700">0 (Ca2+)</text>
+  <text x="630" y="140" fill="#4ade80" font-family="system-ui, sans-serif" font-size="9" font-weight="700">3 (K+)</text>
+  <text x="465" y="215" fill="#cbd5e1" font-family="system-ui, sans-serif" font-size="9">Phase 4: Pacemaker Potential (If Funny Current)</text>
+  <text x="465" y="226" fill="#cbd5e1" font-family="system-ui, sans-serif" font-size="9">Phase 0: Ca2+ Upstroke (ICa-L) | Phase 3: K+ Repolarization (IK)</text>
+  <!-- Pharmacological Classes Grid -->
+  <!-- Class 0 & Class I -->
+  <rect x="25" y="235" width="830" height="98" rx="8" fill="#1e293b" stroke="#38bdf8" stroke-width="1"/>
+  <text x="40" y="252" fill="#38bdf8" font-family="system-ui, sans-serif" font-size="10.5" font-weight="700">Class 0: HCN Pacemaker Channel Blockers</text>
+  <text x="50" y="266" fill="#e2e8f0" font-family="system-ui, sans-serif" font-size="9.5">Ivabradine (Selective If inhibition in SA node; slows HR without inotropic or nodal depression)</text>
+  <text x="40" y="284" fill="#60a5fa" font-family="system-ui, sans-serif" font-size="10.5" font-weight="700">Class I: Voltage-Gated Na+ Channel Blockers (INa)</text>
+  <text x="50" y="297" fill="#e2e8f0" font-family="system-ui, sans-serif" font-size="9">Class IA: Moderate INa block + Ito/IKr block -> Prolongs APD & ERP (Quinidine, Procainamide, Disopyramide)</text>
+  <text x="50" y="310" fill="#e2e8f0" font-family="system-ui, sans-serif" font-size="9">Class IB: Fast INa kinetics, ischemic selective -> Shortens APD (Lidocaine, Mexiletine, Phenytoin)</text>
+  <text x="50" y="323" fill="#e2e8f0" font-family="system-ui, sans-serif" font-size="9">Class IC: Potent INa block, slow dissociation -> Marked QRS widening, unchanged APD (Flecainide, Propafenone) | Class ID: Late Na+ current inhibitor (INaL) -> Reduces Ca2+ overload (Ranolazine)</text>
+  <!-- Class II & Class III -->
+  <rect x="25" y="340" width="830" height="108" rx="8" fill="#1e293b" stroke="#a855f7" stroke-width="1"/>
+  <text x="40" y="358" fill="#c084fc" font-family="system-ui, sans-serif" font-size="10.5" font-weight="700">Class II: Beta-Adrenoceptor Antagonists</text>
+  <text x="50" y="373" fill="#e2e8f0" font-family="system-ui, sans-serif" font-size="9.5">Metoprolol, Bisoprolol, Esmolol, Nadolol, Carvedilol (Inhibits cAMP/PKA -> slows Phase 4 If & ICa-L)</text>
+  <text x="40" y="395" fill="#f472b6" font-family="system-ui, sans-serif" font-size="10.5" font-weight="700">Class III: Potassium Channel Blockers (IKr, IKs, IKur)</text>
+  <text x="50" y="410" fill="#e2e8f0" font-family="system-ui, sans-serif" font-size="9.5">Amiodarone, Sotalol, Dronedarone, Dofetilide, Ibutilide, Vernakalant (Markedly prolongs APD & ERP)</text>
+  <text x="50" y="430" fill="#94a3b8" font-family="system-ui, sans-serif" font-size="9">Reverse use-dependence alert: APD prolongation is magnified at low heart rates -> heightened bradycardia-dependent Torsades de pointes risk!</text>
+  <!-- Class IV & Class V -->
+  <rect x="25" y="455" width="830" height="98" rx="8" fill="#1e293b" stroke="#f59e0b" stroke-width="1"/>
+  <text x="40" y="473" fill="#fbbf24" font-family="system-ui, sans-serif" font-size="10.5" font-weight="700">Class IV: L-Type Calcium Channel Blockers (ICa-L)</text>
+  <text x="50" y="488" fill="#e2e8f0" font-family="system-ui, sans-serif" font-size="9.5">Verapamil, Diltiazem (Cardioselective; slows SA node & AV nodal conduction; negative inotropy)</text>
+  <text x="40" y="510" fill="#34d399" font-family="system-ui, sans-serif" font-size="10.5" font-weight="700">Class V: Purinergic A1 Agonists / Other</text>
+  <text x="50" y="525" fill="#e2e8f0" font-family="system-ui, sans-serif" font-size="9.5">Adenosine (A1 receptor -> Gi -> opens IK,ACh, hyperpolarizes AV node -> transient AV conduction block)</text>
+  <text x="50" y="542" fill="#f87171" font-family="system-ui, sans-serif" font-size="9">CRITICAL WARNING: Never administer AV nodal blocking drugs (Adenosine, BB, CCB, Digoxin) in pre-excited AF (WPW)!</text>
+</svg>
+
+</div></details>
+
+</div></details>
+
+<details class="med-details"><summary>
+
+### 1.3 Master Antiarrhythmic Reference Tables</summary><div class="details-content">
+
+To provide immediate clinical reference for drug dosing, pharmacokinetic profiles, systemic side effects, and electrophysiological impact, Tables 9.2 and 9.3 compile the essential pharmacological parameters of all major agents.
+
+<span id="tab-09-02"></span>
+
+### TABLE 9.2 Quick Reference for Common Antiarrhythmic Drugs
+
+| Drug (Class) | Usual Dosing Regimens | Pharmacokinetics and Metabolism | Adverse Effects and Contraindications | Major Drug Interactions and Precautions |
+|---|---|---|---|---|
+| **Lidocaine** (Class IB) | **IV:** 1.0–1.5 mg/kg bolus (75–100 mg) over 2–3 min; repeat 0.5–0.75 mg/kg every 5–10 min (max 3 mg/kg); then continuous infusion 1–4 mg/min (20–50 mcg/kg/min). | Rapid hepatic deethylation (CYP3A4/1A2). Distribution $t_{1/2}$ 8–10 min; elimination $t_{1/2}$ 1.5–2 h (prolonged to >4–10 h in HF, cirrhosis, shock). Therapeutic level: $1.5\text{--}5.0\,\mu\text{g/mL}$; toxic $>5\,\mu\text{g/mL}$. | CNS toxicity: drowsiness, paresthesias, dysarthria, ataxia, confusion, seizures. Bradycardia and sinus arrest in nodal disease. Hypotension at toxic doses. | Beta-blockers and cimetidine reduce hepatic blood flow, decreasing lidocaine clearance and elevating plasma levels. Hepatic inducers increase clearance. |
+| **Mexiletine** (Class IB) | **Oral:** 150–200 mg TID or 200–300 mg BID with meals (max 1200 mg/day). (IV formulation not available in US; 100–250 mg at 12.5 mg/min). | Bioavailability ~ 90%. $t_{1/2}$ 10–14 h (up to 17 h in HF/renal failure). Extensive hepatic metabolism (CYP2D6, CYP1A2). Therapeutic level: $0.5\text{--}2.0\,\mu\text{g/mL}$. | Severe GI distress (nausea, vomiting, dyspepsia in 30–40%). CNS toxicity: tremor, ataxia, dizziness, nystagmus. Bradycardia and hypotension. | Phenytoin and rifampin induce CYP enzymes, reducing levels. Cimetidine increases levels. Avoid in severe heart failure or post-MI without ICD. |
+| **Phenytoin** (Class IB) | **IV:** 10–15 mg/kg at $\le 50\text{ mg/min}$ (max 1000 mg).<br>**Oral:** Loading 1000 mg divided day 1, then maintenance 300–400 mg daily. | $t_{1/2}$ ~ 24 h. Hepatic metabolism with saturable (zero-order) kinetics. Therapeutic level: $10\text{--}18\,\mu\text{g/mL}$. | IV administration causes acute hypotension, phlebitis, and sinus arrest. Gingival hyperplasia, ataxia, nystagmus, megaloblastic anemia, lupus-like syndrome. | Potent inducer of CYP3A4, CYP2C9, and P-gp, significantly lowering levels of warfarin, CCBs, cyclosporine, and oral contraceptives. |
+| **Flecainide** (Class IC) | **Oral:** 50–100 mg BID, titrating by 50 mg BID every 4 days to max 300–400 mg/day (typical 100–150 mg BID).<br>**IV:** 1.5–2.0 mg/kg over 10 min. | Bioavailability >90%. $t_{1/2}$ 13–19 h. Dual elimination: ~ 60% hepatic (CYP2D6), 30–40% renal unchanged. Therapeutic level: $0.2\text{--}1.0\,\mu\text{g/mL}$. | Proarrhythmia (sustained monomorphic VT) in structural CAD / post-MI (CAST). 1:1 AV conduction in atrial flutter. QRS prolongation. Dizziness, visual blur. | Amiodarone doubles flecainide levels (reduce dose by 50%). Cimetidine and CYP2D6 inhibitors increase levels. Mandatory co-administration with AV nodal blocker. |
+| **Propafenone** (Class IC) | **Oral IR:** 150–300 mg TID.<br>**Oral SR:** 225–425 mg BID.<br>**"Pill-in-pocket":** 450–600 mg single dose.<br>**IV:** 1.5–2.0 mg/kg over 10 min. | Bioavailability 5–50% (saturable first-pass). $t_{1/2}$ 2–10 h in extensive metabolizers (12–32 h in poor CYP2D6 metabolizers). Mild beta-blocking activity. | QRS widening, proarrhythmia (VT/flutter with 1:1 conduction), negative inotropy, bronchospasm, metallic taste, nausea, dizziness. | CYP2D6 inhibitors dramatically elevate levels. Increases digoxin and warfarin levels. Strictly contraindicated in asthma, severe COPD, CAD, and reduced LVEF. |
+| **Ibutilide** (Class III) | **IV infusion:** 1.0 mg (0.01 mg/kg if $<60\text{ kg}$) over 10 min. If arrhythmia persists 10 min post-completion, repeat second identical 1.0 mg dose. | Distribution $t_{1/2}$ ~ 1.5 min; elimination $t_{1/2}$ 2–12 h (mean ~ 6 h). Extensive first-pass metabolism (IV only). Hepatic clearance. | Polymorphic VT / Torsades de pointes in 4–8% (sustained in 2%). AV block, bundle branch block, headache, nausea. Requires continuous ECG monitoring $\ge 4\text{ h}$. | Avoid all QT-prolonging drugs. Correct hypokalemia ($\text{K}^+ > 4.0\text{ mEq/L}$) and hypomagnesemia ($\text{Mg}^{2+} > 2.0\text{ mg/dL}$) prior to administration. |
+| **Dofetilide** (Class III) | **Oral:** 125–500 mcg BID, strictly titrated to estimated CrCl:<br>- $\text{CrCl} > 60\text{ mL/min}$: 500 mcg BID<br>- $\text{CrCl } 40\text{--}60\text{ mL/min}$: 250 mcg BID<br>- $\text{CrCl } 20\text{--}40\text{ mL/min}$: 125 mcg BID<br>- $\text{CrCl} < 20\text{ mL/min}$: Contraindicated. | Bioavailability >90%. Peak plasma concentration 2.5 h. Steady state in 48 h. ~ 50% eliminated renally unchanged via cationic secretion; 50% hepatic (CYP3A4). | Torsades de pointes (1–3%). Requires in-hospital telemetry admission for minimum 3 days (5 doses). Stop if QTc $>500\text{ ms}$ ($>550\text{ ms}$ with BBB). | Absolute contraindication with verapamil, cimetidine, hydrochlorothiazide, itraconazole, ketoconazole, prochlorperazine, trimethoprim, and megestrol. |
+| **Sotalol** (Class III) | **Oral:** 80–160 mg BID (max 320 mg/day, rarely 480 mg/day). Dosed every 24–48 h in renal impairment. (IV formulation 75–150 mg infused over 5 h). | 100% bioavailability. Hydrophilic; 0% protein bound; 0% hepatic metabolism. 100% renal elimination unchanged. $t_{1/2} \approx 12\text{ h}$. | Reverse use-dependence: proarrhythmia (Torsades de pointes, 2–4%) highest at slow rates. Bradycardia, bronchospasm, heart failure exacerbation, fatigue. | Synergistic proarrhythmia with diuretics (hypokalemia) and Class IA/III agents. In-hospital telemetry monitoring required for initiation. |
+| **Amiodarone** (Class III) | **Oral loading:** 800–1600 mg/day in divided doses for 1–2 weeks, then 400–600 mg/day for 2–4 weeks, then maintenance 100–200 mg daily (AF) or 200–400 mg daily (VT).<br>**IV:** 150 mg over 10 min, then 1 mg/min for 6 h (360 mg), then 0.5 mg/min for 18 h (540 mg). Total 24 h ~ 1000 mg. | Lipophilic, massive $V_d \approx 60\text{ L/kg}$. Bioavailability 30–50%. Elimination $t_{1/2}$ 25–110 days (mean ~ 50–58 days). Hepatic CYP3A4 metabolism to active desethylamiodarone. | Pulmonary fibrosis (1–5%, fatal in 10%), thyroid dysfunction (hypo 10–20%, hyper 2–5%), corneal microdeposits (>90%), hepatotoxicity, photosensitivity, blue-gray skin, ataxia. Low torsades risk (<1%). | Potent inhibitor of CYP3A4, CYP2C9, CYP2D6, and P-gp. Doubles digoxin and warfarin levels (decrease doses by 50%). Elevates statin and cyclosporine concentrations. |
+| **Dronedarone** (Class III) | **Oral:** 400 mg BID with morning and evening meals. | Bioavailability 15% (with meals). $t_{1/2}$ 24–30 h. Extensive hepatic CYP3A4 metabolism. Non-iodinated; no thyroid or pulmonary toxicity. | Diarrhea, nausea, asthenia, QTc prolongation, serum creatinine elevation (inhibition of tubular secretion without change in GFR). | Strictly contraindicated in NYHA Class II–IV heart failure or recent decompensation (ANDROMEDA), and in permanent AF (PALLAS). Moderate CYP3A4/2D6/P-gp inhibitor. |
+| **Vernakalant** (Class III) | **IV:** 3.0 mg/kg over 10 min; if AF persists after 15 min, repeat second infusion 2.0 mg/kg over 10 min. | Atrial-selective ($I_{\text{Kur}}$, $I_{\text{K,ACh}}$, late $I_{\text{Na}}$). Elimination $t_{1/2}$ ~ 3 h. Hepatic CYP2D6 metabolism. | Dysgeusia (metallic taste), sneezing, paresthesias, nausea, transient hypotension, bradycardia. Very low risk of ventricular proarrhythmia. | Contraindicated in systolic BP $<100\text{ mmHg}$, ACS within 30 days, severe aortic stenosis, and NYHA III–IV heart failure. |
+| **Verapamil** (Class IV) | **Oral:** 40–120 mg TID/QID (IR) or 120–360 mg once daily (SR).<br>**IV:** 0.075–0.15 mg/kg (5–10 mg) over 2 min; repeat 10 mg after 15–30 min if needed. | Bioavailability 20–35% (extensive first-pass). Elimination $t_{1/2}$ 3–7 h. Hepatic CYP3A4 metabolism. | Negative inotropy: precipitous heart failure decompensation in HFrEF. AV block, severe bradycardia, constipation, peripheral edema. | Fatal VF if given in pre-excited AF (WPW) or wide-complex VT. CYP3A4 and P-gp inhibitor: doubles digoxin levels; elevates dofetilide and dabigatran. |
+| **Diltiazem** (Class IV) | **Oral:** 30–90 mg QID (IR) or 120–360 mg once daily (CD/XR).<br>**IV:** 0.25 mg/kg (usually 15–20 mg) over 2 min; repeat 0.35 mg/kg (25 mg) after 15 min; then continuous infusion 5–15 mg/h. | Bioavailability ~ 40%. Elimination $t_{1/2}$ 3.5–6 h. Hepatic CYP3A4 metabolism to active deacetyl-diltiazem. | Hypotension, bradycardia, AV block, peripheral edema, headache, heart failure exacerbation in low EF. Less negative inotropy than verapamil. | Absolute contraindication in pre-excited AF (WPW), sick sinus syndrome, 2nd/3rd-degree AV block, and severe HFrEF. CYP3A4 inhibitor. |
+| **Adenosine** (Class V) | **IV:** 6 mg rapid bolus over 1–2 s via large vein followed by immediate 20 mL saline flush; if SVT persists after 1–2 min, give 12 mg rapid bolus; can repeat 12 mg once. | Cellular uptake by RBCs and vascular endothelium, followed by rapid deamination. Ultra-short elimination $t_{1/2} < 10\text{ s}$. | Transient facial flushing (18%), dyspnea/chest tightness (12%), transient sinus pause or AV block, bronchospasm, atrial fibrillation (1–12%). | Dipyridamole blocks reuptake: reduce dose to 3 mg (initial). Theophylline/caffeine antagonize $A_1$ receptors: requires higher doses. Strictly contraindicated in asthma. |
+| **Ivabradine** (Class 0) | **Oral:** 5.0 mg BID with meals, titrated to 2.5–7.5 mg BID to achieve resting heart rate 50–60 bpm. | Bioavailability ~ 40%. $t_{1/2}$ ~ 11 h. Hepatic CYP3A4 metabolism. Pure sinus node $I_{\text{f}}$ inhibition; zero negative inotropy. | Phosphenes (luminous visual phenomena, 15%), bradycardia, first-degree AV block, atrial fibrillation. | Contraindicated with strong CYP3A4 inhibitors (azole antifungals, clarithromycin). Avoid in sick sinus syndrome, 3rd-degree AV block, and acute decompensated HF. |
+
+<span id="tab-09-03"></span>
+
+### TABLE 9.3 Electrophysiological and Hemodynamic Effects of Antiarrhythmic Agents
+
+| Agent | Sinus Rate | AH Interval | PR Interval | AV Block Risk | HV Interval | WPW AP Refractoriness | QRS Interval | QTc Interval | Serious Hemodynamic Depressant Effects | Risk of Torsades de Pointes | Risk of Monomorphic VT |
+|---|---|---|---|---|---|---|---|---|---|---|---|
+| **Lidocaine** | 0 | 0 | 0 | 0 / $\uparrow$ | 0 | 0 | 0 | $\downarrow$ / 0 | Negligible (hypotension only at toxic levels) | 0 | 0 |
+| **Phenytoin** | 0 | 0 | 0 / $\downarrow$ | Lessens | 0 | 0 | 0 | $\downarrow$ / 0 | IV hypotension (propylene glycol solvent) | 0 (+) | 0 (+) |
+| **Flecainide** | 0 / $\downarrow$ | 0 | $\uparrow\uparrow\uparrow$ | $\uparrow$ (Avoid in nodal disease) | $\uparrow\uparrow$ | $\uparrow$ (Ant / Retro) | $\uparrow\uparrow$ | $\uparrow$ (via QRS) | Marked LV depression (contraindicated in low EF) | 0 | +++ |
+| **Propafenone** | 0 / $\downarrow$ | 0 | $\uparrow\uparrow$ | $\uparrow$ (Avoid in nodal disease) | $\uparrow\uparrow$ | $\uparrow$ (Ant / Retro) | $\uparrow\uparrow$ | 0 | Moderate LV depression (avoid in HF / CAD) | 0 | +++ |
+| **Sotalol** | $\downarrow\downarrow$ | $\uparrow\uparrow$ | $\uparrow$ | $\uparrow$ (Avoid) | 0 | $\uparrow$ (Ant / Retro) | 0 | $\uparrow\uparrow$ | Bradycardia, hypotension on IV administration | ++ | 0 (+) |
+| **Amiodarone** | $\downarrow\downarrow$ | $\uparrow\uparrow$ | $\uparrow$ | $\uparrow$ (0 / $\uparrow$) | $\uparrow$ / 0 | $\uparrow$ (Ant / Retro) | 0 / $\uparrow$ | $\uparrow\uparrow$ | IV hypotension (polysorbate vehicle); mild chronic inotropic | + (rare, <1%) | 0 (+) |
+| **Ibutilide** | 0 | 0 | 0 | 0 / $\uparrow$ | 0 | 0 | 0 | $\uparrow\uparrow\uparrow$ | None | +++ (4–8%) | 0 (+) |
+| **Dofetilide** | 0 / $\downarrow$ | 0 | 0 | 0 | 0 | 0 | 0 | $\uparrow\uparrow\uparrow$ | None (neutral in heart failure) | +++ (1–3%) | 0 (+) |
+| **Verapamil** | $\downarrow$ | $\uparrow\uparrow\uparrow$ | $\uparrow\uparrow$ | $\uparrow\uparrow\uparrow$ | 0 | Accelerates (WPW+AF) | 0 | 0 | Severe negative inotropy (pulmonary edema in low EF) | 0 | Catastrophic if given for VT |
+| **Diltiazem** | $\downarrow$ | $\uparrow\uparrow\uparrow$ | $\uparrow\uparrow$ | $\uparrow\uparrow\uparrow$ | 0 | Accelerates (WPW+AF) | 0 | 0 | Moderate negative inotropy | 0 | Catastrophic if given for VT |
+| **Adenosine** | $\downarrow\downarrow$ | $\uparrow\uparrow\uparrow$ | $\uparrow\uparrow\uparrow$ | Complete transient block | 0 | 0 | 0 | 0 | Transient peripheral vasodilation and flushing | 0 | 0 |
+
+*Abbreviations: 0, no significant effect; $\uparrow$, mild increase / prolongation; $\uparrow\uparrow$, moderate increase; $\uparrow\uparrow\uparrow$, marked increase; $\downarrow$, decrease; Ant / Retro, prolonged refractory period in both antegrade and retrograde directions; AH, atria-to-His bundle conduction time; HV, His-Purkinje conduction time; LV, left ventricular; VT, ventricular tachycardia; WPW, Wolff-Parkinson-White syndrome accessory pathway; +, low risk; ++, moderate risk; +++, high risk.*
+
+</div></details>
+
+</div></details>
+
+<details class="med-details"><summary>
+
+## 2. Class IA Agents: Quinidine, Procainamide, Disopyramide, and Ajmaline</summary><div class="details-content">
+
+Class IA antiarrhythmic agents exert intermediate-potency voltage-gated sodium channel blockade ($I_{\text{Na}}$) combined with variable degrees of potassium channel inhibition ($I_{\text{Kr}}$ and $I_{\text{to}}$) and anticholinergic (vagolytic) actions.
+
+<details class="med-details"><summary>
+
+### 2.1 Electrophysiological Properties and Mechanisms</summary><div class="details-content">
+
+The hallmarks of Class IA electrophysiology include:
+* **Moderate Sodium Channel Blockade:** Intermediate dissociation kinetics (time constant of recovery $\tau \approx 1\text{--}5\text{ seconds}$), producing moderate depression of Phase 0 upstroke velocity ($dV/dt_{\text{max}}$) and modest conduction slowing across atrial, Purkinje, and ventricular tissues.
+* **Potassium Channel Inhibition and APD Prolongation:** Concomitant inhibition of rapid delayed rectifier current ($I_{\text{Kr}}$) and transient outward current ($I_{\text{to}}$) prolongs Phase 3 repolarization, action potential duration (APD), and effective refractory period (ERP).
+* **Anticholinergic (Vagolytic) Effects:** Disopyramide and quinidine possess prominent antimuscarinic properties that counteract direct nodal slowing, paradoxically accelerating AV nodal conduction and increasing ventricular rates during atrial flutter or AF unless an AV nodal blocking agent is co-administered.
+* **Electrocardiographic Impact:** Moderate widening of the QRS complex ($<25\%$) accompanied by concentration-dependent prolongation of the QT and QTc intervals.
+
+</div></details>
+
+<details class="med-details"><summary>
+
+### 2.2 Quinidine</summary><div class="details-content">
+
+<details class="med-details"><summary>
+
+#### Pharmacokinetics and Metabolism</summary><div class="details-content">
+
+Quinidine is an alkaloid optical isomer of quinine. Following oral administration:
+* Bioavailability is approximately 70% to 80%.
+* Plasma protein binding is high (80% to 90%, binding primarily to alpha-1-acid glycoprotein).
+* Hepatic metabolism accounts for 80% of elimination via CYP3A4, generating active metabolites including 3-hydroxyquinidine, which retains significant electrophysiological activity.
+* Elimination half-life averages 6 to 8 hours (extended in renal or hepatic failure).
+
+</div></details>
+
+<details class="med-details"><summary>
+
+#### Clinical Indications and the Brugada Syndrome Paradigm</summary><div class="details-content">
+
+While broad clinical use has declined due to proarrhythmia and excessive mortality demonstrated in historical meta-analyses, quinidine retains niche life-saving indications:
+* **Brugada Syndrome:** Loss-of-function mutations in *SCN5A* attenuate peak $I_{\text{Na}}$, leading to an unopposed transient outward potassium current ($I_{\text{to}}$) in the right ventricular epicardium. This creates transmural voltage gradients, Phase 2 reentry, and lethal polymorphic VT/VF. Quinidine is a potent inhibitor of $I_{\text{to}}$, restoring the epicardial action potential dome, normalizing Brugada ECG changes, and preventing recurrent VF storm.
+* **Idiopathic Ventricular Fibrillation and Short QT Syndrome:** Effective in preventing Purkinje-triggered VF recurrence and restoring normal QT duration in congenital short QT syndrome (SQTS).
+* **Cardioversion and Rhythm Maintenance in AF:** Historically effective, but obsolete as first-line therapy due to proarrhythmic risk.
+
+</div></details>
+
+<details class="med-details"><summary>
+
+#### Adverse Reactions, Toxicity, and "Quinidine Syncope"</summary><div class="details-content">
+
+* **Torsades de Pointes ("Quinidine Syncope"):** Occurs in 2% to 8% of patients, frequently at therapeutic or sub-therapeutic plasma concentrations ("idiosyncratic" proarrhythmia). Driven by marked early afterdepolarizations (EADs) during exaggerated Phase 3 repolarization ([Fig. 9.3](#fig-09-03), [Fig. 9.5](#fig-09-05)).
+* **Cinchonism:** Dose-dependent syndrome comprising tinnitus, high-frequency hearing loss, visual blurring, headache, nausea, and delirium.
+* **Immunological Reactions:** Immune-mediated thrombocytopenia (hapten-dependent anti-platelet antibodies), hemolytic anemia, and drug-induced lupus erythematosus.
+* **Dose:** Quinidine gluconate intermediate-release: 324 mg orally TID; quinidine sulfate: 200–400 mg orally TID/QID.
+
+</div></details>
+
+</div></details>
+
+<details class="med-details"><summary>
+
+### 2.3 Procainamide</summary><div class="details-content">
+
+<details class="med-details"><summary>
+
+#### Pharmacokinetics and Active Metabolite NAPA</summary><div class="details-content">
+
+Procainamide is metabolized in the liver via hepatic $N$-acetyltransferase (NAT2) to $N$-acetylprocainamide (NAPA):
+* Genetic polymorphism separates individuals into rapid acetylators ($t_{1/2}$ of procainamide 2.5–3 hours; high NAPA levels) and slow acetylators ($t_{1/2}$ 4–5 hours; low NAPA levels).
+* NAPA possesses virtually pure Class III electrophysiological activity (selective $I_{\text{Kr}}$ inhibition) without Class I sodium channel blocking activity. NAPA is cleared 85% by the kidneys; toxic accumulation occurs rapidly in renal impairment, dramatically escalating Torsades de pointes risk.
+* Procainamide therapeutic range: $4\text{--}10\,\mu\text{g/mL}$; NAPA therapeutic range: $10\text{--}20\,\mu\text{g/mL}$; combined procainamide + NAPA $>25\text{--}30\,\mu\text{g/mL}$ carries profound proarrhythmic risk.
+
+</div></details>
+
+<details class="med-details"><summary>
+
+#### Dosing Protocols and Emergency Administration</summary><div class="details-content">
+
+* **IV Loading Regimen:** 10–15 mg/kg administered by slow IV infusion at a controlled rate of 20–50 mg/min (maximum dose 1000 mg over 30–60 minutes). Rapid injection causes precipitous peripheral vasodilation and severe hypotension via ganglionic blockade.
+* **Continuous Maintenance Infusion:** 1–4 mg/min, adjusted for renal function.
+* **Termination Endpoints:** Infusion must be stopped immediately if:
+  1. The arrhythmia is terminated.
+  2. Severe hypotension ensues.
+  3. The QRS complex widens by $>50\%$ over baseline.
+  4. The PR interval prolongs by $>50\%$.
+  5. The maximum loading dose of 1000 mg (or 17 mg/kg) is reached.
+
+</div></details>
+
+<details class="med-details"><summary>
+
+#### Clinical Indications and Toxicity</summary><div class="details-content">
+
+* **Pre-Excited Atrial Fibrillation (WPW + AF):** First-line IV drug of choice in hemodynamically stable patients. Procainamide markedly prolongs the antegrade refractory period of the accessory pathway ([Fig. 9.4](#fig-09-04)), slowing ventricular response and terminating the arrhythmia.
+* **Stable Monomorphic Ventricular Tachycardia:** Highly effective for acute pharmacological termination of stable monomorphic VT without severe heart failure (proven superior to IV amiodarone in the PROCAMIO trial with faster termination and fewer adverse events).
+* **Drug-Induced Lupus Erythematosus (DILE):** Occurs in up to 20% to 30% of patients on chronic therapy ($>6\text{ months}$), marked by arthralgias, fever, serositis, and circulating antinuclear antibodies (anti-histone antibodies in >95%). Renal and CNS involvement is rare. Resolves upon drug cessation. Slow acetylators develop DILE much earlier.
+* **Agranulocytosis:** Potentially fatal bone marrow suppression (incidence ~ 0.5%), requiring routine complete blood counts during chronic therapy.
+
+<span id="fig-09-02"></span>![](_page_8_Figure_3.jpeg)
 ![](_page_8_Figure_5.jpeg)
-
 ![](_page_8_Figure_6.jpeg)
 
-Fig. 9.2 See legend on next page
+**FIGURE 9.2** Decremental conduction properties of the AV node and conversion to 1:1 atrial flutter by Class IC and Class IA agents. The normal AV node possesses decremental conduction that blocks rapid atrial impulses (producing 2:1 or 3:1 AV block during atrial flutter at atrial rates of ~ 300 bpm, yielding ventricular rates of 150 or 100 bpm). Class IC (flecainide, propafenone) and Class IA agents slow the atrial flutter cycle length, reducing atrial rate to ~ 200 bpm. At this slower rate, the AV node can conduct 1:1, precipitating a life-threatening paradoxical acceleration of the ventricular response to 200 bpm. Mandatory co-administration of an AV nodal blocker (beta-blocker or calcium channel blocker) is required.
 
-reentry in ventricular cells. Quinidine can inhibit Ito, thereby reducing the risk of VF in the setting of Brugada.<sup>9</sup>
-
-Dose. For atrial and ventricular arrhythmias, quinidine sulfate intermediate release can be started at 200 mg every 6 hours and cautiously titrated upward. Extended release can be started at 300 mg every 8–12 hours and titrated to effect. The maximum dose is 600 mg every 8–12 hours for the intermediate release formulation. A 267 mg dose of quinidine gluconate is equal to 200 mg of quinidine sulfate. For Brugada, quinidine sulfate can be administered at 500 mg BID or TID. The dose of quinidine should be reduced if the QRS complex widens to 130% of its pretreatment duration, the QTc interval widens to 130% of its pretreatment duration and is >500 milliseconds, P waves disappear, or the patient develops significant tachycardia, symptomatic bradycardia, or hypotension. Quinidine titration should occur in a monitored setting.
-
-Side effects. The major side effect of quinidine is ventricular proarrhythmia and sudden death, in particular torsades de pointes. This often occurs in association with QT prolongation (Fig. 9.3). In the setting of torsades, intravenous (IV) magnesium and alkalization of urine can help to reduce the effects of the quinidine. Gastrointestinal (GI) intolerance, namely nausea and diarrhea, are also common. At high doses, neurological side effects can occur. Heart block at the level of the sinus or AV node can also occur as can hypotension. Skin rash occurs in 5%–10% of patients and hepatotoxicity can also rarely occur.
-
-Drug interactions and combination. Since quinidine inhibits CYP2D6 (strong), CYP3A4 (weak) and P-glycoprotein, drugs metabolized with these enzymes can be affected. Furthermore, any drug that affects the QT interval can also interact with quinidine. The number of culprit drugs interacting with quinidine is too numerous to list here but should always be checked when a patient is put on this drug.
-
-Fig. 9.2, Cont'd Conversion to 1:1 flutter by class IC agents. The atrioventricular (AV) node has decremental properties, which means that as more rapid atrial conduction enters the AV node, it slows conduction to cause AV block (3:1, 2:1), which helps to control (slow) the ventricular response. However, in the absence of an AV nodal blocker, class IC agents can slow the atrial rate sufficiently that the AV node now allows for 1:1 conduction, which can increase the ventricular rate. Class IC agents may also increase conduction velocity through the AV node. The result is a very rapid ventricular rate that can even degenerate to ventricular tachycardia/fibrillation and can be life-threatening. Therefore, administration of an IC agent should always be accompanied by an AV nodal blocker such as a β-blocker.
-
-## *CLASS IA and III AGENTS: TORSADES DE POINTES*
-
-![](_page_10_Figure_2.jpeg)
-
-## CLASS IC AGENTS: WIDE COMPLEX VT
-
+<span id="fig-09-03"></span>![](_page_10_Figure_2.jpeg)
 ![](_page_10_Figure_4.jpeg)
 
-Fig. 9.3 Major proarrhythmic mechanisms. Top: Class IA and class III agents widen the action potential duration and in the presence of an early after-depolarization can give rise to triggered activity known as torsades de pointes. Note major role of QT prolongation. Bottom: Class IC agents have as their major proarrhythmic mechanism a powerful inhibition of the sodium channel, particularly in conduction tissue. Increasing heterogeneity together with unidirectional block sets the stage for reentry circuits and monomorphic wide-complex ventricular tachycardia (VT). ECG, Electrocardiogram. (Figure © L.H. Opie, 2012.)
+**FIGURE 9.3** Major proarrhythmic mechanisms. Top: Class IA and Class III agents prolong action potential duration and QT interval, facilitating early afterdepolarizations (EADs) during Phase 2 or 3, triggering polymorphic ventricular tachycardia (Torsades de pointes). Bottom: Class IC agents markedly slow intraventricular conduction without prolonging APD, causing severe QRS widening, unmasking unidirectional block, and promoting stable, wide-complex reentrant monomorphic VT.
 
-## Procainamide
+<span id="fig-09-04"></span>![](_page_12_Figure_1.jpeg)
 
-Like quinidine, procainamide is useful for the treatment of both atrial and ventricular arrhythmias. While IV procainamide can be maintained as an infusion for medium-term arrhythmia management, and oral forms are available for longer-term, outpatient management, most use of procainamide is for the acute conversion of AF, VT, or preexcited AF.
+**FIGURE 9.4** Exacerbation of pre-excited atrial fibrillation by lone atrioventricular (AV) nodal blockade. In atrial fibrillation with Wolff-Parkinson-White syndrome, rapid fibrillatory impulses conduct simultaneously down the decremental AV node and non-decremental accessory pathway. Administration of AV nodal blocking agents (adenosine, verapamil, diltiazem, beta-blockers, digoxin) selectively blocks the AV node, redirecting all impulses down the accessory pathway. This precipitates accelerated ventricular rates exceeding 300 bpm, rapid degeneration into ventricular fibrillation, and sudden cardiac death. Class IA agents (procainamide) and Class III agents (ibutilide) prolong accessory pathway refractoriness, providing safe acute therapy.
 
-Pharmacokinetics. Procainamide has a very short half-life (2–5.5 hours), which means that oral dosing requires frequent dosing, making long-term compliance challenging. Even sustainedrelease formulas require dosing every 6–12 hours. For the IV preparation, a single bolus dose can be useful for acute termination of AF, VT, preexcited AF, or flutter. Maintenance infusions can be used, but procainamide is acetylated by the liver to N-acetylprocainamide (NAPA), which also has active antiarrhythmic properties. Both procainamide and NAPA can accumulate in patients with renal and/or hepatic dysfunction and, therefore, increase the proarrhythmic potential. Both procainamide and NAPA levels may need to be monitored, which has made maintenance infusions of procainamide unpopular.
+<span id="fig-09-05"></span>![](_page_14_Figure_2.jpeg)
 
-Clinical use. Procainamide can be used for the treatment of both atrial and ventricular arrhythmias. It is particularly useful for acute medical conversion in the emergency department. In the setting of preexcited atrial fibrillation, procainamide can prolong the refractoriness of both the AV node but also the accessory pathway. This avoids the potential for preferential and more rapid conduction through the pathway alone—possibly inducing VF—which can occur with administration of selective AV nodal blockers alone (Fig. 9.4). In regions where other IV sodium blockers are not available (like IV flecainide or ajmaline), IV procainamide is useful for drug testing to evoke the characteristic electrocardiogram (ECG) findings for Brugada syndrome for patients in whom the diagnosis is being considered but whose baseline ECG findings may be equivocal or absent. IV procainamide is also used in electrophysiology studies to evaluate for the presence of latent AV block by observing for prolongation in the HV interval to >100 milliseconds.
+**FIGURE 9.5** Long QT with risk of Torsade de pointes. Concentration-dependent or bradycardia-dependent prolongation of repolarization allows reactivation of L-type calcium channels and $\text{Na}^+/\text{Ca}^{2+}$ exchanger currents, initiating early afterdepolarizations (EADs). When EADs reach threshold, triggered activity initiates polymorphic ventricular tachycardia characterized by twisting of QRS complexes around the isoelectric axis.
 
-Dose. For acute conversion of atrial and ventricular arrhythmias, or for Brugada and His-ventricular interval (HV) testing, IV procainamide should be given at a dose of 10–17 mg/kg at a rate of 20–50 mg/minute. For a typical adult, this usually means a dose of about 1 g IV over 20 minutes. Maintenance infusion can be given at 1–6 mg/minute. For oral preparations, the sustained release can be given at 500–750 mg every 6 hours. Renal impairment requires dose reduction of 25%–50% with creatinine clearance <50 mL/min and 50%–75% with creatinine clearance <10 mL/minute. Hepatic dysfunction also requires dose reduction of 25%–50%.
+</div></details>
 
-Side effects. Like all other antiarrhythmics, procainamide has a risk of proarrhythmia, particularly heart block and QT prolongation. Monitoring for both prolongation in PR interval and QT interval is required. One of the major limitations of procainamide is the development of a drug-induced lupus erythematosus-like
+</div></details>
 
-![](_page_12_Figure_1.jpeg)
+<details class="med-details"><summary>
 
-Fig. 9.4 Exacerbation of preexcited atrial fibrillation by lone atrioventricular (AV) nodal blockade. In atrial fibrillation (AF) that is conducting down both the AV node and an antegrade accessory pathway, the AF will often be wide because of the delta wave due to the preexcitation. The arrhythmia is typically wide and very irregular. Selective AV nodal blockers, like β-blockers and calcium channel blockers, should be avoided. They block the AV node allowing the AF to conduct exclusively through the usually very rapidly conducting pathway. This can dramatically increase the ventricular rate of the arrhythmia and even precipitate ventricular fibrillation, which is lifethreatening. Therefore, in the presence of <sup>a</sup> wide-complex tachycardia (especially if it is irregular), selective AV nodal blocking agents should be avoided. Electrical cardioversion is typically best, but agents that block both the AV node and pathway may also be used, e.g., IV amiodarone, IV procainamide.
+### 2.4 Disopyramide</summary><div class="details-content">
 
-syndrome, which occurs in 20%–30% of patients. Patients will develop a positive antinuclear antibody (ANA) titer and/or symptoms of lupus. Development of either rising titers or symptoms should lead to drug discontinuation. Another important side effect is the development of blood dyscrasias. Agranulocytosis, neutropenia, hypoplastic anemia, and thrombocytopenia can all occur in 0.5%–1% of patients and can be fatal. Weekly blood monitoring is required for the first 3 months and then periodically thereafter. Blood counts may return back to normal within 1 month if the drug is discontinued. Finally, if IV procainamide is administered too quickly (faster than recommended rate), hypotension is a significant risk.
+Disopyramide combines moderate sodium channel blockade with exceptionally potent anticholinergic and negative inotropic properties:
+* **Obstructive Hypertrophic Cardiomyopathy (HOCM):** First-line medical therapy in symptomatic patients with persistent dynamic left ventricular outflow tract (LVOT) gradients despite maximally tolerated beta-blocker therapy. Its profound negative inotropic effect reduces hyperdynamic LV contractility, alleviating systolic anterior motion (SAM) of the mitral valve and decreasing LVOT gradient.
+* **Neurocardiogenic Syncope and Vagally Mediated AF:** Anticholinergic action suppresses excessive vagal efferent tone.
+* **Adverse Effects:** Marked antimuscarinic toxicity including urinary retention (especially in prostatic hyperplasia), dry mouth, blurred vision, acute closed-angle glaucoma exacerbation, and severe constipation. Precipitates acute pulmonary edema in systolic heart failure. Dosed 100–200 mg orally TID/QID (or 150–300 mg CR BID).
 
-Drug interactions and combination. Any drug that affects the QT interval will interact with procainamide and should be avoided (Fig. 9.5).
+</div></details>
 
-## Disopyramide
+<details class="med-details"><summary>
 
-Disopyramide is a class IA drug and was approved for treatment of ventricular and atrial arrhythmias. However, it is not a very potent antiarrhythmic for either the ventricle or atrium. Its main therapeutic property is its profound negative inotropic effect. It can inhibit ventricular contraction by 40%–90% in low to high doses respectively and should therefore be completely avoided in patients with heart failure. The negative inotropy can be useful for patients with hypertrophic obstructive cardiomyopathy, particularly for reduction in outflow gradients. Disopyramide is more effective than both β-blockers and verapamil for outflow tract gradient reduction<sup>10</sup> and is often used prior to consideration of invasive therapy such as septal myectomy or alcohol ablation. Disopyramide may also be helpful for treatment of AF in patients with hypertrophic obstructive cardiomyopathy and does not seem to increase the risk of sudden death.<sup>10</sup> The main side effects are anticholinergic including dry mouth, prostatism, constipation, and urinary retention. Coadministration with pyridostigmine can alleviate the anticholinergic effects without impairing the antiarrhythmic effect.<sup>11</sup> Hypoglycemia can rarely occur. QT prolongation and widening of the QRS can occur.
+### 2.5 Ajmaline</summary><div class="details-content">
 
-## Ajmaline
+Ajmaline is a Class IA rauwolfia alkaloid with rapid, potent sodium channel blocking properties:
+* **Diagnostic Provocation in Brugada Syndrome:** Gold-standard intravenous agent for unmasking concealed type 1 Brugada ECG pattern (coved-type ST-segment elevation $\ge 2\text{ mm}$ followed by a negative T wave in $\ge 1$ right precordial lead $V_1\text{--}V_2$). Administered at 1 mg/kg IV over 5 minutes under continuous 12-lead ECG monitoring; discontinued immediately upon development of type 1 pattern, QRS widening $>30\%$, or ventricular ectopy.
+* **Accessory Pathway Conduction Evaluation:** IV ajmaline selectively blocks accessory pathway conduction with short anterograde refractory periods, identifying low-risk vs high-risk WPW pathways during electrophysiology testing.
 
-Ajmaline is another class IA antiarrhythmic that is not available in all jurisdictions worldwide (used predominantly in Europe). It has a very short half-life and is only used for IV administration. It blocks both sodium ion channels but also the hERG potassium channel. While it can be used for acute treatment of preexcited AF and some ventricular arrhythmias, it is predominantly used
+</div></details>
 
-## *LONG QT WITH RISK OF TORSADE*
+</div></details>
 
-![](_page_14_Figure_2.jpeg)
 
-- *DISOPYRAMIDE QUINIDINE*
-- *IBUTILIDE DOFETILIDE*
-- *SOTALOL (AMIODARONE)*
-- *TRICYCLICS HALOPERIDOL*
-- *ANTIPSYCHOTICS*
-- *PHENOTHIAZINES*
-- *IV ERYTHROMYCIN QUINOLONES (SOME)*
-- *ANTIHISTAMINICS*
-  - *astemizole*
-  - *terfenadine*
-- *KETOCONAZOLE*
-- *Prolonged QTU: Low K+, Mg2+ (THIAZIDES)*
+<details class="med-details"><summary>
 
-Fig. 9.5 Therapeutic agents, including antiarrhythmics that may cause QT prolongation. Hypokalemia causes QTU, not QT, prolongation. Some antiarrhythmic agents act at least in part chiefly by prolonging the action potential duration, such as amiodarone and sotalol. QT prolongation is therefore an integral part of their therapeutic benefit. On the other hand, QT or QTU prolongation, especially in the presence of hypokalemia or hypomagnesemia or when there is cotherapy with one of the other agents prolonging the QT interval, may precipitate torsades de pointes. IV, Intravenous. (Figure © L.H. Opie, 2012.)
+## 3. Class IB Agents: Lidocaine, Mexiletine, and Phenytoin</summary><div class="details-content">
 
-for electrophysiology testing. It is particularly useful for test for Brugada syndrome. In individuals where Brugada is suspected but the baseline ECG is either normal or equivocal, an IV ajmaline challenge may bring out the typical Brugada ECG pattern with ST segment elevation in V1–V3. It can be given as 1 mg/kg administered at 1 mg/sec or over 10 minutes. It can also be used to provoke HV lengthening (>100 milliseconds) to look for latent AV block.
+Class IB antiarrhythmic drugs exhibit fast binding and dissociation kinetics with voltage-gated sodium channels ($I_{\text{Na}}$), selective affinity for inactivated channels in depolarized tissue, and a unique shortening of the cardiac action potential duration (APD).
 
-## Class IB: Lidocaine and Mexilitine
+<details class="med-details"><summary>
 
-As a group, class IB agents inhibit the fast sodium current (typical class I effect; see Fig. 9.1) while shortening the action potential duration (APD) in nondiseased tissue. They also have rapid kinetics, which means they associate and dissociate from the sodium channels rapidly. The former is the more powerful effect, whereas the latter mitigates any QT prolongation. Class IB agents act selectively on diseased or ischemic tissue, where they are thought to promote conduction block, thereby interrupting reentry circuits. They have a particular affinity for binding with inactivated sodium channels with rapid onset-offset kinetics, which may be why such drugs are more selective for sodium channels in ventricular tissue versus atrial tissue. There are also differences in the β subunit of the rapid sodium channels in atrial versus ventricular tissue, which may affect binding of the class IB agents.<sup>12</sup>
+### 3.1 Electrophysiological Actions and Fast Kinetics</summary><div class="details-content">
 
-## Lidocaine
+* **Rapid Kinetics ($\tau_{\text{recovery}} < 500\text{ ms}$):** Class IB drugs bind rapidly during Phase 0 and dissociate almost completely during normal diastolic intervals at physiological heart rates. Consequently, in normal atrial and ventricular tissue at 60–80 bpm, conduction velocity and QRS duration remain entirely unchanged.
+* **Ischemic and Depolarization Selectivity:** Sodium channels cycle through closed (resting), open (activated), and inactivated states. Ischemia, acidosis, and elevated extracellular potassium depolarize resting membrane potential (shifting from $-90\,\text{mV}$ to $-70\text{ to }-60\,\text{mV}$), markedly increasing the fraction of channels in the inactivated state. Class IB agents bind with high affinity to inactivated channels, exerting pronounced, selective conduction block in ischemic, depolarized ventricular myocardium while sparing normal working tissue.
+* **Shortening of Action Potential Duration:** By blocking late or sustained inward sodium current during Phase 2, Class IB drugs accelerate repolarization and shorten APD and effective refractory period (ERP), especially in normal Purkinje fibers.
+* **Absence of Atrial Efficacy:** In atrial myocytes, resting potentials are more negative, action potentials are shorter, and resting channel recovery is rapid. Class IB agents have virtually zero clinical efficacy in atrial fibrillation, atrial flutter, or supraventricular tachycardias.
 
-Lidocaine (Xylocaine, Xylocard) has become a standard IV agent for suppression of serious ventricular arrhythmias associated with AMI, cardiac surgery, or other ventricular storm. Lidocaine acts preferentially on the ischemic myocardium and is more effective in the presence of a high external potassium concentration. Therefore, hypokalemia must be corrected for maximum efficacy (also for other class I agents). This is an IV drug and therefore has no role in the control of chronic recurrent ventricular arrhythmias. The concept of prophylactic lidocaine to prevent VT and VF in AMI has long been outdated and is therefore no longer done.2,13 Lidocaine has no value in treating supraventricular tachyarrhythmias.
+</div></details>
 
-Pharmacokinetics. The bulk of an IV dose of lidocaine is rapidly deethylated by liver microsomes (see Table 9.2). The two critical factors governing lidocaine metabolism and hence its efficacy are liver blood flow (decreased in old age and by heart failure, β-blockade, and cimetidine) and liver microsomal activity (enzyme inducers). Because lidocaine is so rapidly distributed within minutes after an initial IV loading dose, a second loading dose is often required followed by a continuous infusion (Fig. 9.6). Lidocaine metabolites circulate in high concentrations and may contribute to toxic and therapeutic actions. After prolonged infusions, the half-life may be longer (up to 24 hours) because of redistribution from poorly perfused tissues.
+<details class="med-details"><summary>
 
-Clinical use. Lidocaine should not be used for prophylactic treatment of ventricular arrhythmias post-MI. Evidence from more than 20 randomized trials and 4 meta-analyses have shown that lidocaine reduces VF but adversely affects mortality rates, presumably because of bradyarrhythmias and asystole.<sup>2</sup> Lidocaine can be
+### 3.2 Lidocaine</summary><div class="details-content">
 
-## *LIDOCAINE KINETICS*
+<details class="med-details"><summary>
 
-![](_page_16_Figure_2.jpeg)
+#### Pharmacokinetics and Two-Compartment Kinetics</summary><div class="details-content">
 
-Fig. 9.6 Lidocaine kinetics. To achieve and to maintain an adequate blood level of lidocaine requires an initial bolus followed by an infusion. Often, a second bolus is required to get a steady state in addition to the infusion. Heart failure and liver failure delay metabolism of lidocaine which can increase the blood level and the accompanying danger of toxic effects. (Figure © L.H. Opie, 2012.)
+Lidocaine cannot be administered orally due to extensive first-pass hepatic extraction ($E \approx 0.7$, bioavailability $<30\%$). Following intravenous injection:
+* It distributes according to a rapid two-compartment pharmacokinetic model ([Fig. 9.6](#fig-09-06)).
+* Initial distribution half-life ($t_{1/2\alpha}$) is 8 to 10 minutes, reflecting rapid distribution into highly perfused organs (heart, brain, kidneys, liver). A single IV bolus rapidly terminates arrhythmias but levels fall below the therapeutic threshold within 15–20 minutes as the drug redistributes into muscle and adipose tissue.
+* Terminal elimination half-life ($t_{1/2\beta}$) is 1.5 to 2 hours.
+* Metabolism occurs predominantly in the liver via CYP3A4 and CYP1A2 deethylation, generating monoethylglycinexylidide (MEGX) and glycinexylidide (GX). MEGX possesses 80% of lidocaine's antiarrhythmic potency and contributes significantly to CNS toxicity; GX is less potent and excreted renally.
+* In patients with congestive heart failure, cardiogenic shock, or cirrhosis, hepatic blood flow and clearance fall dramatically, prolonging the elimination half-life to 4–10 hours or more. During prolonged infusions ($>24\text{ hours}$), lidocaine clearance decreases due to autoinhibition and progressive accumulation, necessitating infusion rate reductions.
 
-used when tachyarrhythmias or very frequent premature ventricular contractions seriously interfere with hemodynamic status in patients with AMI (especially when already β-blocked). It can also be used to treat sustained ventricular arrhythmias and/or ventricular storm in patients presenting with refractory VT/VF (causing repeated implantable cardioverter defibrillator [ICD] shocks), especially during or after cardiac surgery or in the setting of ischemic cardiomyopathy. However, the efficacy of lidocaine alone is relatively low (15%–20%), but it can also be easily combined with other antiarrhythmic therapy, namely IV amiodarone and βblockade.
+<span id="fig-09-06"></span>![](_page_16_Figure_2.jpeg)
 
-Dose. A constant infusion would take 5–9 hours to achieve therapeutic levels (1.4–5 μg/mL), so standard therapy includes a loading dose of 75–100 mg intravenously, followed after 30 minutes by a second loading dose, or 400 mg intramuscularly. Thereafter lidocaine is infused at 2–4 mg/minute for 24–30 hours, aiming at 3 mg/minute, which prevents VF but may cause serious side effects in approximately 15% of patients, in half of whom the lidocaine dose may have to be reduced. Poor liver blood flow (low cardiac output or β-blockade), liver disease, or cimetidine or halothane therapy calls for halved dosage. The dose should also be decreased for older adult patients in whom toxicity develops more frequently and after 12–24 hours of infusion.
+**FIGURE 9.6** Lidocaine kinetics and multi-dose loading strategy. To achieve and maintain therapeutic blood levels ($1.5\text{--}5.0\,\mu\text{g/mL}$), an initial IV loading bolus must be administered followed immediately by a continuous maintenance infusion. Because a single bolus rapidly redistributes into peripheral tissues (distribution half-life 8–10 minutes), blood levels dip into the sub-therapeutic range ("distribution trough") unless a second smaller bolus is given at 10–15 minutes. In heart failure, distribution volume and clearance are reduced, requiring halved infusion rates to avoid central nervous system toxicity.
 
-Side effects. Lidocaine is generally free of hemodynamic side effects, even in patients with congestive heart failure (CHF), and it seldom impairs nodal function or conduction (Table 9.3). The higher infusion rate of 3–4 mg/minute may result in neurologic toxicity such as drowsiness, numbness, speech disturbances, and dizziness, especially in patients older than 60 years of age. Minor adverse neural reactions can occur in approximately half the patients, even with 2–3 mg/minute of lidocaine. Occasionally there is sinoatrial (SA) arrest, but usually with coadministration of other drugs that potentially depress nodal function.
+</div></details>
 
-Drug interactions and combination. In patients receiving cimetidine, propranolol, or halothane, the hepatic clearance of lidocaine is reduced, and toxicity may occur more readily, so that the dose should be reduced. With hepatic enzyme inducers (barbiturates, phenytoin, and rifampin), the dose needs to be increased. Combination of lidocaine with early β-blockade is generally acceptable, because β-blockade can reduce liver blood flow and can rarely potentiate lidocaine-associated side effects (Tables 9.2, 9.4). Often, however, lidocaine IV is coadministered with IV amiodarone and β-blockade for the treatment of refractory ventricular arrhythmias/ventricular storm.
+<details class="med-details"><summary>
 
-Lidocaine failure for VT and VF. If lidocaine apparently fails, consider other problems, especially concomitant hypokalemia, hypomagnesemia, severe ongoing ischemia, or other reversible underlying factors. There may have been a technical error in dosing—often people forget to bolus twice before starting the infusion. Lidocaine can also be used in combination with IV amiodarone and β-blockade for refractory ventricular arrhythmias. There is very little data comparing lidocaine with amiodarone IV. In a retrospective analysis of AMI patients, 6% developed sustained VT and VF, and of those who survived 3 hours, amiodarone, but not lidocaine, was associated with an increased risk of death.7 However, the worse outcome of amiodarone-treated patients was likely due to selection of sicker patients as opposed to an effect of the drug itself.
+#### Dosing Protocols and Administration Technique</summary><div class="details-content">
 
-Table 9.4
+* **IV Loading Dose:** 1.0 to 1.5 mg/kg IV bolus (typically 75–100 mg) administered over 2 to 3 minutes.
+* **Second Bolus:** If ventricular arrhythmias recur or persist after 10–15 minutes, a repeat bolus of 0.5 to 0.75 mg/kg is administered (maximum cumulative loading dose: 3.0 mg/kg over 1 hour).
+* **Continuous Maintenance Infusion:** 1 to 4 mg/min (20 to 50 mcg/kg/min).
+* **Dose Reductions:** Infusion rates should be halved (1–2 mg/min) in patients with:
+  1. Heart failure or cardiogenic shock (reduced hepatic perfusion).
+  2. Severe hepatic cirrhosis or acute hepatitis.
+  3. Elderly patients ($>70\text{ years}$).
+  4. Infusions continuing beyond 24 hours.
 
-| Interactions            | (kinetic<br>and<br>dynamic)<br>of                                                                                                                                                              | antiarrhythmic<br>drugs                                                                                                                           |
-|-------------------------|------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|---------------------------------------------------------------------------------------------------------------------------------------------------|
-| Drug                    | Interaction with                                                                                                                                                                               | Result                                                                                                                                            |
-| Lidocaine               | β-blockers, cimetidine,<br>halothane, enzyme<br>inducersa                                                                                                                                      | Reduced liver blood flow<br>(increased blood levels)<br>Decreased blood levels                                                                    |
-| Flecainide              | Major kinetic interaction with<br>amiodarone<br>Added negative inotropic<br>effects (β-blockers,<br>quinidine, disopyramide)<br>Added AV conduction<br>depression (quinidine,<br>procainamide) | Increase of blood F levels;<br>half-dose<br>As previously<br>Conduction block                                                                     |
-| Propafenone             | As for flecainide (but<br>amiodarone interaction<br>not reported); digoxin;<br>warfarin                                                                                                        | Enhanced SA, AV, and<br>myocardial depression;<br>digoxin level increased;<br>anticoagulant effect<br>enhanced                                    |
-| Sotalol                 | Diuretics, Class IA agents,<br>amiodarone, tricyclics,<br>phenothiazines (see<br>Fig. 9.4)                                                                                                     | Risk of torsades; avoid<br>hypokalemia                                                                                                            |
-| Amiodarone              | As for sotalol<br>digoxin<br>phenytoin<br>flecainide<br>warfarin                                                                                                                               | Risk of torsades<br>Increased digoxin levels<br>Double interaction, see<br>text<br>Increased flecainide<br>levels<br>Increased warfarin<br>effect |
-| Ibutilide<br>Dofetilide | All agents increasing QT<br>All agents increasing QT<br>Liver interactions with<br>verapamil, cimetidine,<br>ketoconazole,<br>trimethoprim                                                     | Risk of torsades<br>Risk of torsades<br>Increased dofetilide<br>blood level, more risk of<br>torsades                                             |
-| Verapamil<br>Diltiazem  | β-blockers, excess digoxin,<br>myocardial depressants,<br>quinidine                                                                                                                            | Increased myocardial or<br>nodal depression                                                                                                       |
-| Adenosine               | Dipyridamole<br>Methylxanthines (caffeine,<br>theophylline)                                                                                                                                    | Adenosine catabolism<br>inhibited; much<br>increased half-life;<br>reduce A dose<br>Inhibit receptor;<br>decreased drug effects                   |
+</div></details>
 
-AV, Atrioventricular; IV, intravenous; SA, sinoatrial.
+<details class="med-details"><summary>
 
-a Enzyme inducers ¼ hepatic enzyme inducers (i.e., barbiturates, phenytoin, rifampin).
+#### Clinical Indications and Toxicity Profile</summary><div class="details-content">
 
-## Mexiletine (Mexetil)
+* **Acute Myocardial Ischemia and Infarction:** Indicated for acute termination and suppression of recurrent sustained monomorphic VT, polymorphic VT without QT prolongation, and shock-refractory VF/pulseless VT during acute coronary syndromes or cardiac resuscitation (Class IIb in ACLS guidelines, alternative to IV amiodarone).
+* **Cardiac Surgery and Digoxin Toxicity:** Highly effective for ventricular ectopy and VT triggered by cardiopulmonary bypass or digitalis intoxication.
+* **Central Nervous System Toxicity:** The primary dose-limiting toxicity. Minor symptoms occur in up to 50% of patients receiving $>3\text{ mg/min}$: drowsiness, perioral numbness, metallic taste, tinnitus, dizziness, and dysarthria. High-grade toxicity includes confusion, visual hallucinations, ataxia, muscle twitching, generalized tonic-clonic seizures, and respiratory arrest.
+* **Hemodynamic Effects:** Remarkably safe hemodynamically at therapeutic levels ($1.5\text{--}5.0\,\mu\text{g/mL}$); severe negative inotropy, sinus arrest, or AV block occurs only at massive overdoses or when co-administered with severe nodal depressants.
 
-Often considered an "oral form" of lidocaine, mexiletine can be useful for chronic management of ventricular arrhythmias (Table 9.2). It is typically not effective for treatment of acute ventricular arrhythmias (for which IV lidocaine is preferred), but patients on lidocaine can be transferred to oral mexiletine by giving the first dose as soon as the lidocaine infusion is stopped. Mexiletine is not useful for treatment of any atrial arrhythmias. Like lidocaine, the utility of mexiletine is reduced in the setting of hypokalemia and hypomagnesemia, therefore these electrolyte disorders should be corrected while on mexiletine.
+</div></details>
 
-Pharmacokinetics. Mexiletine is predominantly metabolized by CYP1A2 and CYP2D6. Therefore, medications that either inhibit or induce these enzymes can significantly alter the effects of mexiletine (see the "Drug interactions and combinations" section).
+</div></details>
 
-Clinical use. Mexiletine is most commonly used for chronic management of ventricular arrhythmias, especially in patients with cardiomyopathy and recurrent VT/VF. As monotherapy, mexiletine is often not very effective, so it is most commonly combined with oral amiodarone when amiodarone monotherapy has failed. It may be used as an alternative to amiodarone in those patients who have developed amiodarone toxicity. In long QT syndrome type III (LQTS 3), there is a mutation in the SCN5A subunit of the sodium channel that causes a gain in function and delays repolarization, therefore prolonging action potential duration and QT interval. Mexiletine has been used in patients with this subtype of LQTS to block the sodium current and regularize the QT interval and prevent torsades de pointes.
+<details class="med-details"><summary>
 
-Dose. The drug may be started at 100–200 mg PO every 8 hours and can be titrated up in 50–100 mg intervals to a maximum dose of 300 mg every 8 hours. For LQTS 3, for pediatric patients, it is recommended to use 6–8 mg/kg/day in two or three divided doses for 2–3 days, then increase to 2–5 mg/kg/dose every 8–12 hours; continue to increase by 1–2 mg/kg/dose every 2–3 days until desired effect. The maximum daily dose is 15 mg/kg/day or 1200 mg/day whichever is less.
+### 3.3 Mexiletine</summary><div class="details-content">
 
-Side effects. The major dose-limiting side effect of mexiletine is GI intolerance—namely nausea, vomiting, and diarrhea, which can occur in about 30%–40% of patients. Many of these GI intolerances can be mitigated by taking the medication with food or by administering a concomitant proton pump inhibitor antacid. Neurological side effects include dizziness, tremor, ataxia, paresthesia, and blurred vision. These symptoms can occur in 10%–20% of patients. Rare but important side effects include blood dyscrasias such as marked leukopenia or thrombocytopenia. Truncal erythema, facial swelling, and pustules can develop rarely. Particularly in the Japanese, a marked hypersensitivity can occur with fever, rash, eosinophilia, and elevated liver enzymes.
+Mexiletine is an orally active structural analogue of lidocaine with comparable electrophysiological and kinetic properties:
+* **Pharmacokinetics:** Oral bioavailability is 85% to 90%, resistant to first-pass hepatic degradation due to its amine-substituted ether linkage. Elimination half-life averages 10 to 14 hours. Extensively metabolized in the liver (CYP2D6 and CYP1A2).
+* **Clinical Indications:**
+  - Chronic oral suppression of ventricular tachyarrhythmias in patients with ICDs receiving recurrent shocks, typically in combination with amiodarone or sotalol.
+  - Congenital Long QT Syndrome Type 3 (LQT3): *SCN5A* gain-of-function mutations cause defective sodium channel inactivation and persistent late sodium current ($I_{\text{NaL}}$). Mexiletine selectively blocks late $I_{\text{NaL}}$, markedly shortening the QTc interval and preventing lethal Torsades de pointes.
+* **Dosing:** 150 to 200 mg orally TID, or 200 to 300 mg BID with meals to minimize gastrointestinal irritation (maximum dose 1200 mg/day).
+* **Adverse Effects:** Severe upper GI distress (nausea, heartburn, vomiting) in 30% to 40% of patients; fine hand tremor, dizziness, ataxia, and nystagmus.
 
-**Drug interactions and combination.** Drugs that inhibit or induce CYP1A2 and CYP2D6 can significantly alter the effects of mexiletine. In particular, there are several protease inhibitors (used in the treatment of human immunodeficiency viruses [HIV]), which may interact with mexiletine. Interestingly, tobacco, heroin, and cannabis can all lower the levels of mexiletine. Selective serotonin reuptake inhibitors (SSRIs) can decrease metabolism of mexiletine (increasing drug levels) except for sertraline.
+</div></details>
 
-## Phenytoin (Diphenylhydantoin)
+<details class="med-details"><summary>
 
-Phenytoin (Dilantin, Epanutin) is now much less used. It may be effective against the ventricular arrhythmias occurring after congenital heart surgery. Occasionally in patients with epilepsy and arrhythmias a dual antiarrhythmic and antiepileptic action is useful. See Table 9.3 for effects.
+### 3.4 Phenytoin</summary><div class="details-content">
 
-## **Class IC: Flecainide and Propafenone**
+Phenytoin (diphenylhydantoin), primarily an anticonvulsant, possesses distinct Class IB electrophysiological actions:
+* **Unique Actions:** Shortens APD in ventricular tissue while uniquely improving AV nodal conduction depressed by digitalis toxicity.
+* **Indications:** Digitalis-induced ventricular tachyarrhythmias and paroxysmal atrial tachycardia with AV block; refractory ventricular arrhythmias following congenital heart disease surgical repairs.
+* **Dosing and Infusion Safety:** IV loading dose of 10 to 15 mg/kg administered at a rate not exceeding $50\text{ mg/min}$ in normal saline (precipitates in dextrose). Rapid administration causes acute cardiovascular collapse, sinus arrest, and severe hypotension caused by the propylene glycol solvent. Oral maintenance: 300–400 mg daily.
+* **Pharmacokinetics:** Saturable zero-order (Michaelis-Menten) elimination kinetics at therapeutic concentrations ($10\text{--}18\,\mu\text{g/mL}$); small dose increments can produce sudden massive toxicity.
 
-Class IC agents have acquired a particularly bad reputation as a result of the proarrhythmic effects seen in the Cardiac Arrhythmia Suppression Trial (CAST)<sup>1</sup> (flecainide) and the Cardiac Arrest Study Hamburg (CASH) study (propafenone).<sup>13</sup> As such, these drugs should absolutely be avoided in patients with coronary ischemia or structural heart disease (Fig. 9.3). Nonetheless, when carefully chosen, they fulfill a niche not provided by other drugs. As a group they have three major electrophysiologic (EP) effects (Table 9.3). First, they are powerful inhibitors of the fast sodium channel, causing a marked depression of the upstroke of the cardiac action potential, which may also explain their marked inhibitory effect on His-Purkinje conduction with QRS widening. In addition, they may variably prolong the APD by delaying inactivation of the slow sodium channel<sup>14</sup> and inhibition of the rapid repolarizing current  $(I_{Kr})^{15}$  In contrast to other class I agents, the IC's have very slow kinetics and dissociate slowly from the sodium channels during diastole, resulting in increased effect at a more rapid rate—so-called "use-dependence." This characteristic may explain their excellent antiarrhythmic efficacy, especially against supraventricular arrhythmias. However, use-dependence may also contribute to the proarrhythmic activity of these drugs, especially in the diseased myocardium, resulting in incessant VT (Fig. 9.3). Some advocate performing exercise stress testing upon initiation of the drug to look for ORS widening that may not present at rest. If the QRS widens by 25% or more, the drug dose may need to be reduced or discontinued. However, absence of demonstrating use-dependence on exercise stress testing does not preclude the possibility of proarrhythmia from the drug. This class of drugs can also have significant negative chronotropic activity and should be avoided in patients with severe sinus node dysfunction or AV block. However, the drugs do not significantly prolong the QT interval (Table 9.3). Class IC agents are all potent antiarrhythmics used largely in the control of paroxysmal supraventricular tachyarrhythmias, especially AF, and ventricular arrhythmias resistant to other drugs. By inhibiting the ryanodine receptor open state and minimizing prolonged outward calcium movement, they are also effective in the unusual condition of catecholaminergic polymorphic VT.16 Flecainide may also be useful in LQTS 3 characterized by the SCN5A:DeltaKPQ mutation in which the sodium channel repetitively opens prolonging the APD.17
+</div></details>
 
-## Flecainide
+</div></details>
 
-Pharmacokinetics. Flecainide is metabolized by CYP2D6, which is inhibited by the SSRIs, therefore causing a significant interaction. Metabolites of flecainide are excreted mostly in the urine, so patients with impaired renal function need very close monitoring. For pharmacokinetics, side effects, and drug interactions, see Tables 9.2 to 9.4.
+<details class="med-details"><summary>
 
-Clinical use. Indications are paroxysmal supraventricular tachycardia (PSVT) including paroxysmal atrial flutter or fibrillation and Wolff-Parkinson-White (WPW) arrhythmias, and always only in patients without structural heart disease; life-threatening sustained VT in which benefit outweighs proarrhythmic risks; catecholaminergic polymorphic VT, by blocking open RyR2 channels;<sup>16</sup> and LQTS 3 with the SCN5A:DeltaKPQ mutation.<sup>19</sup> Flecainide is especially useful for maintenance of sinus rhythm after cardioversion of AF<sup>20</sup> (Fig. 9.7) and for control of premature ventricular beats in patients with structurally normal hearts. Finally, IV flecainide is used in some jurisdictions (mainly Europe) for drug testing to evoke the typical Brugada ECG changes in patients with normal or equivocal resting ECGs; it can also be used to induce HV prolongation, which could be an indicator of latent AV block. Flecainide is contraindicated in patients with coronary ischemia, structural heart disease, and in patients with right bundle branch block and left anterior hemiblock unless a pacemaker is implanted. It is also contraindicated in the sick sinus syndrome and when the left ventricle is depressed and in the postinfarct state. Specifically, for AF, flecainide IV is superior to IV amiodarone for acute conversion at 8 hours (but not at 24 hours).<sup>21</sup> Oral flecainide is superior to
+## 4. Class IC Agents: Flecainide and Propafenone (and Class ID Ranolazine)</summary><div class="details-content">
 
-## *RECURRENT/PERSISTENT A FIB*
+Class IC antiarrhythmic agents are the most potent inhibitors of the fast inward cardiac sodium channel ($I_{\text{Na}}$), characterized by extraordinarily slow binding and unbinding kinetics, powerful use-dependence, and a distinct lack of effect on repolarization duration.
 
-![](_page_22_Figure_2.jpeg)
+<details class="med-details"><summary>
 
-Fig. 9.7 Algorithm for drug therapy for rate control or rhythm control. The presented algorithm is modified from recommendations of Canadian Cardiovascular Society. A fib, Atrial fibrillation; CAD, coronary artery disease; EF, ejection fraction; HF, heart failure; LV, left ventricular.
+### 4.1 Electrophysiological Profile and Slow Binding Kinetics</summary><div class="details-content">
 
-placebo but similar to sotalol and propafenone for maintenance of sinus rhythm with 65% of patients responding in the short term and 49% in the long term.<sup>22</sup> It is better tolerated than both quinidine and propafenone. The PITAGORA trial demonstrated that flecainide was noninferior to oral amiodarone for maintenance of sinus rhythm in AF patients over 21 months.<sup>23</sup> Amiodarone was better for prevention of longer AF episodes. Propafenone was slightly inferior to both amiodarone and flecainide. Flecainide has also been used orally as pill-in-pocket therapy for acute onset AF.<sup>24</sup> This is particularly useful in patients with rare episodes of paroxysmal AF. The strategy is successful in 84%–94% of episodes and the mean conversion time is 2 hours, although up to 8 hours may be required. Occasionally, atrial flutter with rapid ventricular rate can occur, and therefore it is recommended that the first trial of such therapy be performed in a medically supervised environment (such as an emergency room). There is a boxed warning in the package insert against use of flecainide in chronic sustained AF.
+* **Marked Phase 0 Depression ($dV/dt_{\text{max}}$):** Class IC agents bind avidly to open sodium channels with slow association and exceptionally slow dissociation kinetics ($\tau_{\text{recovery}} > 10\text{ to }30\text{ seconds}$). Consequently, channel blockade accumulates from beat to beat.
+* **Marked Use-Dependence:** Conduction slowing becomes progressively more pronounced as heart rate increases. At rapid tachycardia rates, profound intraventricular conduction slowing produces marked widening of the QRS complex.
+* **Lack of APD Prolongation:** Unlike Class IA and Class III agents, Class IC drugs do not significantly block repolarizing potassium channels ($I_{\text{Kr}}$) and do not prolong action potential duration or QTc. The QT interval widens exclusively in proportion to the widening of the QRS complex.
 
-Dose. For atrial arrhythmias, flecainide is usually started at 50 mg orally BID and increased in 50-mg increments until therapeutic effect or when limited by side effects. The maximum daily dose is 300–400 mg. For ventricular arrhythmias, the dose may be started at 100 mg BID. For the pill in pocket approach, a single dose of 200– 300 mg may be given, usually in conjunction with a fast-acting, lowdose β-blocker (like metoprolol 12.5–25 mg). ECG should be monitored once flecainide is initiated for any QRS prolongation—if the QRS is prolonged >25%, then the dose should be reduced/discontinued. Performance of exercise stress testing prior to drug initiation to rule out coronary disease is reasonable. Stress testing on drug to look for use-dependent QRS prolongation may also be useful but does not preclude proarrhythmic risk. Flecainide should almost always be coadministered with a concomitant AV nodal blocker (β-blocker, nondihydropyridine calcium channel blocker) to avoid increased ventricular conduction as atrial arrhythmias slow (Fig. 9.2). For creatinine clearance <35 mL/min, the dose should be reduced to once daily. IV flecainide is not approved in many jurisdictions but can be dosed as 2 mg/kg (maximum 150 mg) administered over 10 minutes.
+</div></details>
 
-Side effects. The major side effect of flecainide is ventricular proarrhythmia and sudden death. The cardiac proarrhythmic effects of flecainide include aggravation of ventricular arrhythmias and threat of sudden death as in the CAST study (Fig. 9.3).<sup>1</sup> The proarrhythmic effect is related to nonuniform slowing of conduction, and the risk is greatest in patients with prior MI, especially those with significant ventricular ectopy. Patients at risk of AMI are probably also at increased risk. Monitoring the QRS interval is logical but "safe limits" are not established. Furthermore, as shown in the CAST study, late proarrhythmic effects can occur. In patients with preexisting sinus node or atrioventricular (AV) conduction problems, there may be worsening of arrhythmia. Flecainide increases the endocardial pacing threshold and should therefore be used with some caution in pacemaker-dependent patients—particularly if the thresholds are elevated at baseline. Pacing thresholds should be checked at baseline and after 1 week. Atrial proarrhythmia occurs when the drug decreases the atrial rate, which can allow for increased AV nodal conduction and a paradoxical increase in the ventricular rate (Fig. 9.2). This can precipitate VT or VF and could be fatal. This is why class IC agents are always coadministered with an AV blocking drug such as a β-blocker or nondihydropyridine calcium channel blocker (like diltiazem). Digoxin is generally not used, since it is less effective for AV blockade in high catecholamine states. Central nervous system reactions (visual disturbance, dizziness, paresthesias, headache) occur in 1%–3% of patients. Rash can occur in 1% and nausea in 6% of patients.
+<details class="med-details"><summary>
 
-**Drug interactions and combination.** Neurological toxicity is increased when other CYP2D6 inhibitors are used (like older SSRIs paroxetine and sertraline). QT-prolonging drugs should also be avoided (Fig. 9.5). Kinase inhibitors, which can increase the risk of AF, can be used in combination with flecainide but with careful monitoring. See Table 9.4.
+### 4.2 The CAST Trial Paradigm and Contraindications in Structural Heart Disease</summary><div class="details-content">
 
-## **Propafenone**
+The **Cardiac Arrhythmia Suppression Trial (CAST I and II)** represents a foundational watershed in cardiovascular pharmacology:
+* **Hypothesis:** Suppressing asymptomatic or mildly symptomatic premature ventricular complexes (PVCs) after myocardial infarction would prevent sudden cardiac death.
+* **Results:** Post-MI patients with left ventricular dysfunction randomized to encainide, flecainide, or moricizine experienced a **3.6-fold increase in arrhythmic death and cardiac arrest** compared to placebo, despite excellent suppression of PVCs on Holter monitoring.
+* **Mechanism of Proarrhythmia:** In the presence of myocardial scar, ischemia, or patchy fibrosis, marked conduction slowing without refractoriness prolongation creates slow, unexcitable conduction pathways, establishing the ideal substrate for stable reentrant ventricular tachycardia ([Fig. 9.3](#fig-09-03)).
+* **Absolute Contraindication:** Class IC agents are strictly contraindicated in:
+  1. Prior myocardial infarction or documented coronary artery disease.
+  2. Heart failure with reduced ejection fraction (HFrEF) or significant left ventricular hypertrophy ($>14\text{ mm}$ wall thickness).
+  3. Pre-existing bundle branch block or severe intraventricular conduction delay (${\rm QRS} > 120\text{ ms}$).
 
-**Pharmacokinetics.** In keeping with its class IC effects, propafenone blocks the fast-inward sodium channel, has a potent membrane stabilizing activity, and increases PR and QRS intervals without effect on the QT interval (Table 9.3). It also has mild β-blocking and calcium (L-type channel) antagonist properties, especially at higher doses. It is estimated that the β-blockade effect is approximately 1/40th that of propranolol, <sup>25</sup> so the effect is quite weak and does not preclude the possibility of causing increased ventricular rates as the atrial rates are slowed for atrial flutter or AF. Because of its short half-life, the drug requires two to three times daily dosing. Propafenone is primarily metabolized by the liver. Note that in 7% of white patients, the hepatic cytochrome isoenzyme CYP2D6 is genetically absent, so that propafenone breakdown is much slower. Propafenone is also metabolized partially via the p-glycoprotein mechanism. For further pharmacokinetics, drug interactions, and combinations, see Tables 9.2 to 9.4.
+</div></details>
 
-Clinical use. Indications are very similar to flecainide: PSVT including paroxysmal atrial flutter or fibrillation and WPW arrhythmias, and always only in patients without structural heart disease; and life-threatening sustained VT in which benefit outweighs proarrhythmic risks. Like flecainide, propafenone is primarily used for maintenance of sinus rhythm after cardioversion of AF and less commonly for control of premature ventricular beats in patients with structurally normal hearts. Propafenone is contraindicated in patients with coronary ischemia, structural heart disease, and in patients with right bundle branch block and left anterior hemiblock unless a pacemaker is implanted. It is also contraindicated in the sick sinus syndrome and when the left ventricle is depressed and in the postinfarct state. Oral propafenone may be the same as (or slightly inferior to) flecainide in terms of efficacy for maintenance of sinus rhythm in AF patients, but may be less well tolerated.<sup>22,23</sup> Propafenone has also been used orally as pill-in-pocket therapy for acute-onset AF.<sup>25</sup> This is particularly useful in patients with rare episodes, of paroxysmal AF. The strategy is successful in 94% of episodes and the mean conversion time is 113 minutes, although up to 8 hours may be required.<sup>26</sup> Occasionally, atrial flutter with rapid ventricular rate can occur, and therefore it is recommended that the first trial of such therapy be performed in a medically supervised environment (such as an emergency room).
+<details class="med-details"><summary>
 
-Dose. For atrial and ventricular arrhythmias, propafenone is usually started at 150 mg orally BID and increased to 300 mg TID until therapeutic effect or when limited by side effects. The maximum daily dose is 900 mg. Where available, the sustained-release formula can be dosed 225–425 mg BID. For the pill-in-pocket approach, a single dose of 450–600 mg may be given, usually in conjunction with a fast-acting, low-dose β-blocker (like metoprolol 12.5–25 mg). Renal adjustment is not required, but hepatic dysfunction may require decreasing to once or twice daily. ECG should be monitored once propafenone is initiated for any QRS prolongation—if the QRS is prolonged >25%, then the dose should be reduced/discontinued. Performance of exercise stress testing prior to drug initiation to rule out coronary disease is reasonable. Stress testing on drug to look for use-dependent QRS prolongation may also be useful but does not preclude proarrhythmic risk. Propafenone should almost always be coadministered with a concomitant AV nodal blocker (β-blocker, nondihydropyridine calcium channel blocker) to avoid increased ventricular conduction as atrial arrhythmias slow (Fig. 9.2). For creatinine clearance <35 mL/min, the dose should be reduced to once daily.
+### 4.3 Flecainide</summary><div class="details-content">
 
-Side effects. The major side effect of propafenone is ventricular proarrhythmia and sudden death. The cardiac proarrhythmic effects of flecainide include aggravation of ventricular arrhythmias and threat of sudden death as in the CAST study.<sup>1</sup> In patients with preexisting sinus node or AV conduction problems, there may be worsening of arrhythmia. Atrial proarrhythmia occurs when the drug decreases the atrial rate, which can allow for increased AV nodal conduction and a paradoxical increase in the ventricular rate (Fig. 9.2). This can precipitate VT or VF and could be fatal. This is why class IC agents are always coadministered with an AV-blocking drug such as a β-blocker or nondihydropyridine calcium channel blocker (like diltiazem). Digoxin is generally not used, since it is less effective for AV blockade in high catecholamine states. Propafenone often causes a change in taste (bitter or metallic). Central nervous system reactions (fatigue, headache, insomnia, and abnormal dreams) occur in 1%–3% of patients. Rarely, drug-induced lupus erythematosus and agranulocytosis have also occurred (see Procainamide for details). Hepatotoxicity has also been reported. Like flecainide, propafenone can also alter pacing thresholds, although usually not as profoundly.
+<details class="med-details"><summary>
 
-Drug interactions and combination. CYP2D6 inhibitors can profoundly increase propafenone levels. Propafenone can also increase colchicine levels. Because of its mild  $\beta$ -blockade effects, propafenone can potentiate the bradycardia caused by concomitant  $\beta$ -blockers. Propafenone is also metabolized partially via the p-glycoprotein mechanism so it can increase serum levels of edoxaban and dabigatran. These oral anticoagulants should be avoided. QT-prolonging drugs should also be avoided (Fig. 9.5). See Table 9.4.
+#### Pharmacokinetics and Dosing</summary><div class="details-content">
 
-#### **Class ID: Ranolazine**
+* Oral bioavailability exceeds 90%.
+* Peak plasma concentrations occur at 2 to 3 hours; elimination half-life is 13 to 19 hours, allowing twice-daily dosing. Steady state is reached in 3 to 5 days.
+* Dual elimination: approximately 60% metabolized in the liver via CYP2D6 to inactive metabolites; 30% to 40% excreted unchanged by the kidneys.
+* Therapeutic range: $0.2\text{--}1.0\,\mu\text{g/mL}$. Trough levels $>1.0\,\mu\text{g/mL}$ dramatically increase proarrhythmic risk.
+* **Dose:** Initial oral dose is 50 mg BID, increasing in 50-mg increments every 4 to 7 days to 100 mg BID (usual effective dose). Maximum dose is 300 mg/day (or 400 mg/day in exceptional cases under close monitoring).
 
-While there is officially no "class ID" in the Vauhgan Williams classification, ranolazine does not fit into one of the other three class I categories. It inhibits the late inward sodium current ( $I_{Na}$ ) but also inhibits  $I_{Kr}$ , which can cause some QT prolongation. By inhibiting the late sodium current, it inhibits intracellular calcium levels and leads to reduced wall tension and decreased oxygen requirements. It may also stimulate myogenesis. Therefore, this drug has predominantly been used as an antianginal medication. However, ranolazine does have some antiarrhythmic effects. It may promote conversion of AF to sinus, especially during acute coronary syndromes, and may also inhibit ventricular arrhythmias in patients with or without implantable defibrillators. It can be used in patients with heart failure. It is metabolized by CYP3A and inhibits CYP2D6. It should be avoided in patients with severe liver disease.
+</div></details>
 
-## Class II Agents: β-Adrenoceptor Antagonists
+<details class="med-details"><summary>
 
-Whereas class I agents are increasingly suspect from the long-term point of view,  $\beta$ -blockers have an excellent track record. The general arguments for  $\beta$ -blockade include the role of tachycardia in precipitating some arrhythmias, especially those based on triggered activity; the increased sympathetic activity in patients with sustained VT and in patients with AMI; the fundamental role of the second messenger of  $\beta$ -adrenergic activity, cyclic AMP, in the causation of ischemia-related VF; and the associated antihypertensive and antiischemic effects of these drugs. As a result, these drugs have demonstrated clear mortality benefits in patients post-MI $^{28}$  and in patients with heart failure with left ventricular dysfunction.  $^{29}$ 
+#### Clinical Indications and the "Pill-in-the-Pocket" Strategy</summary><div class="details-content">
 
-**Pharmacokinetics.** These agents act on the  $\beta$  receptors.  $\beta$ -1 are found primarily in heart muscle, so inhibition causes decreased heart rate, contractility, and AV node conduction.  $\beta$ -2 are mostly in
+* **Maintenance of Sinus Rhythm in Atrial Fibrillation:** First-line agent in patients with paroxysmal or persistent AF and a structurally normal heart ([Fig. 9.7](#fig-09-07)).
+* **"Pill-in-the-Pocket" Approach (Outpatient Self-Administration):**
+  - Indicated for terminating infrequent, symptomatic episodes of paroxysmal AF in patients with no structural heart disease.
+  - Regimen: Single oral dose of 200 to 300 mg (200 mg if body weight $<70\text{ kg}$; 300 mg if $\ge 70\text{ kg}$).
+  - Safety prerequisite: The first self-administration MUST be performed and observed in an acute hospital or telemetry setting to confirm conversion without proarrhythmia or severe bradycardia.
+  - Mandatory co-therapy: An AV nodal blocking agent (beta-blocker or diltiazem/verapamil) must be ingested at least 30 minutes prior to flecainide.
 
-bronchial and peripheral vascular tissue, so inhibition of these can cause bronchospasm and vasoconstriction. β-3 are found in adipose tissue and the heart and can reduce thermogenesis. Typically, the more β-1 selective agents are better antiarrhythmics with fewer side effects.  $\beta$ -blockers may also inhibit both the  $\alpha$ -1 and  $\alpha$ -2 receptors, which can inhibit smooth muscle contraction in the GI tract and bladder and cause vasodilation ( $\alpha$ -1) but also inhibit platelet activation and cause impotence  $(\alpha-2)$ .  $\beta$ -blockers also inhibit the current  $I_{\rm f}$ , now recognized as an important pacemaker current (Fig. 9.8) that also promotes proarrhythmic depolarization in damaged heart tissue. β-blockers can also inhibit the inward calcium current,  $I_{Cal}$ , which is indirectly inhibited as the level of tissue cyclic adenosine monophosphate (cAMP) falls. Metoprolol and propranolol are predominantly eliminated by the liver, while atenolol and sotalol are mostly eliminated by the kidneys. Bisoprolol is metabolized by a mixture of both kidney and liver and carvedilol is metabolized by liver and excreted in the bile. Cardio-selectivity refers to agents that more selectively inhibit β-1 receptors in the heart. Bisoprolol is the most cardioselective followed by metoprolol and atenolol and nadolol. Propranolol is not as selective. Labetolol and carvediolol have both  $\alpha$  and  $\beta$  blockade properties and therefore may cause some associated vasodilation in addition to the typical β-1 effects. Acebutolol and pindolol have intrinsic sympathomimetic activity (ISA) that can produce some mild β-1 agonism at rest while antagonizing more with activity. Such activity may reduce profound bradycardia at rest, although at higher doses
+<span id="fig-09-07"></span>![](_page_22_Figure_2.jpeg)
 
-## $\beta$ & If EFFECTS ON SA NODE
+**FIGURE 9.7** Algorithm for rate control versus rhythm control in recurrent or persistent atrial fibrillation. For rhythm control, antiarrhythmic drug selection is dictated entirely by underlying structural heart disease: in patients with structurally normal hearts (no CAD, no HF, normal EF), Class IC agents (flecainide, propafenone) or dronedarone/sotalol represent safe first-line options. In coronary artery disease, Class IC agents are strictly contraindicated; sotalol, dronedarone, or amiodarone are utilized. In heart failure with reduced ejection fraction (HFrEF), amiodarone or dofetilide are the only safe choices.
 
-![](_page_27_Figure_3.jpeg)
+</div></details>
 
-Fig. 9.8 Effect of β-blockers on sinoatrial (SA) nodal function. Action potential of SA node, with effect of β-adrenergic stimulation and of inhibition of current  $I_f$ . (Figure © L.H. Opie, 2012.)
+<details class="med-details"><summary>
 
-the ISA effect may be lost. Details on cardioselectivity and ISA are provided. *Esmolol* is a selective  $\beta_1$  antagonist but has a very short half-life (9 minutes) with full recovery from its  $\beta$ -blockade properties at 18 to 30 minutes. Esmolol is quickly metabolized in red blood cells, independently of renal and hepatic function. Because of its short half-life, esmolol can be useful in situations in which there are relative contraindications or concerns about the use of a  $\beta$ -blocker: e.g., patient with arrhythmia and associated chronic obstructive airway disease or decompensated LV dysfunction.
+#### The 1:1 Atrial Flutter Hazard</summary><div class="details-content">
 
-**Indications.** Indications for β-blockade for coronary disease and heart failure are covered elsewhere. For antiarrhythmic therapy, β-blockade is indicated for the following: inappropriate sinus tachycardia; for paroxysmal atrial tachycardia provoked by emotion or exercise; treatment of reentrant atrial arrhythmias, such as AV nodal reentrant or AV reentrant tachycardia (Fig. 9.9); prevention of postoperative atrial fibrillation; rate control for atrial fibrillation/flutter; for exercise-induced ventricular arrhythmias, particularly catecholaminergic VT; ventricular arrhythmias in the structurally normal heart, particularly from the right ventricular outflow tract; and in the hereditary prolonged QT syndrome to prevent torsades de pointes. β-blockers are often used as first-line agents for AF (not postoperative), but they generally have a very mild antiarrhythmic effect in this setting and are generally more useful for rate control when the patient has an AF recurrence. These agents should be avoided in preexcited AF because by blocking the AV node selectively, they can create faster ventricular conduction as the arrhythmia preferentially conducts down the accessory pathway (Fig. 9.4). This may even precipitate ventricular fibrillation.
+A critical proarrhythmic hazard of Class IC therapy is the conversion of atrial fibrillation into slow atrial flutter with paradoxical 1:1 AV conduction ([Fig. 9.2](#fig-09-02)):
+* By slowing atrial conduction, flecainide reduces typical atrial flutter rate from 300 bpm to approximately 200 bpm.
+* At 300 bpm, the normal decremental AV node conducts 2:1, producing a ventricular rate of 150 bpm.
+* At 200 bpm, the flutter rate falls within the 1:1 conduction capability of the AV node, resulting in sudden 1:1 AV conduction and a life-threatening ventricular rate of 200 bpm, accompanied by severe QRS widening (rate-dependent use-dependence) mimicking ventricular tachycardia.
+* **Mandatory Rule:** Flecainide and propafenone must never be prescribed for atrial fibrillation or flutter without concurrent administration of an AV nodal blocking agent (beta-blocker or non-dihydropyridine calcium channel blocker).
 
-β-blockers are also effective as monotherapy in severe recurrent VT not obviously ischemic in origin in patients with cardiomy-opathy with or without implantable defibrillators. β-blocker therapy improved survival in patients with VF or symptomatic VT not treated by specific antirrhythmics in the AVID trial.  $^{30,31}$  They can also reduce implantable defibrillator shocks in patients with recurrent ventricular tachyarrhythmias. β-blockers in combination with amiodarone have a synergistic effect to significantly reduce cardiac mortality.  $^{32}$  β-blockers with amiodarone may be effective in treating episodes of "electrical storm."
+</div></details>
 
-**Dose.** Dosing for β-blockers can be found in Table 9.5. Metoprolol can be given  $6.25{\text -}100\,\text{mg}$  BID. Bisoprolol is given  $1.25{\text -}10\,\text{mg}$  once daily. Nadolol is given  $10{\text -}240\,\text{mg}$  once daily. Propranolol is given  $10{\text -}40\,\text{mg}$  TID or QID. Carvedilol is given  $3.125{\text -}50\,\text{mg}$  BID but is often not used for antiarrhythmic effects. Patients with heart failure on carvedilol who develop ventricular arrhythmias are frequently changed to bisoprolol or another cardioselective
+</div></details>
 
-#### *AV NODAL RE-ENTRY VERSUS WPW*
+<details class="med-details"><summary>
 
-![](_page_29_Figure_2.jpeg)
+### 4.4 Propafenone</summary><div class="details-content">
 
-Fig. 9.9 Atrioventricular (AV) nodal reentry and Wolff-Parkinson-White (WPW) or preexcitation syndrome. The top left panel shows AV nodal reentry without WPW. The common pattern is slow-fast (middle panel), whereas fast-slow conduction (bottom left panel) is uncommon. The slow and fast fibers of the AV node are artificially separated for diagrammatic purposes. The right panel shows WPW with the bypass tract as a white band. During paroxysmal supraventricular tachycardia (PSVT), when anterograde conduction occurs over the AV node and retrograde conduction most commonly through the accessory pathway, the QRS pattern should be normal (orthodromic supraventricular tachycardia [SVT], top right panel). Less commonly, the accessory pathway is used as the anterograde limb and the AV node (or a second accessory pathway) is the retrograde limb (antidromic SVT, bottom right panel). The QRS pattern shows the pattern of full preexcitation. In such preexcited atrial tachycardias, agents that block the AV node may enhance conduction over the accessory pathway to the ventricles (red downward arrows), leading to rapid ventricular rates that predispose to ventricular fibrillation. Sites of action of various classes of antiarrhythmics are indicated. Ado, Adenosine; β-B, β-blocker. (Figure © L.H. Opie, 2012.)
+Propafenone combines potent Class IC sodium channel blockade with distinct secondary pharmacological properties:
+* **Dual Properties:**
+  1. Class IC $I_{\text{Na}}$ blockade with slow dissociation kinetics.
+  2. Weak non-selective beta-adrenergic blockade (approximately 1/40th the potency of propranolol, but clinically significant at therapeutic doses).
+  3. Mild L-type calcium channel antagonism.
+* **Pharmacokinetics and CYP2D6 Polymorphism:** Extensively metabolized by hepatic CYP2D6. In "extensive metabolizers" (90% of population), clearance is rapid ($t_{1/2} \approx 2\text{--}10\text{ hours}$). In "poor metabolizers" (7–10% of Caucasians), clearance is diminished, $t_{1/2}$ extends to 12–32 hours, and plasma concentrations are 2- to 5-fold higher with pronounced beta-blocking effects.
+* **Dosing:** Immediate-release: 150 to 300 mg orally TID. Extended-release (SR): 225 to 425 mg BID. "Pill-in-the-pocket" single dose: 450 to 600 mg.
+* **Adverse Effects & Contraindications:** Metallic or bitter taste, dizziness, visual blurring, bronchospasm, and bradycardia. Strictly contraindicated in asthma, severe COPD, CAD, post-MI, and HFrEF.
 
-Table 9.5
+</div></details>
 
-## Drug loading and maintenance regimens for control of ventricular rate in atrial fibrillation
+<details class="med-details"><summary>
 
-|                     |             | Acute intravenous<br>therapy                    | Chronic oral<br>therapy |
-|---------------------|-------------|-------------------------------------------------|-------------------------|
-| -blockersa<br>β     | Metoprolol  | 2.5–5 mg every 5 min up<br>to 15 mg             | 12.5–100 mg<br>BID      |
-|                     | Propranolol | 0.15 mg/kg (1 mg every<br>2 min)                | 10–60 mg QID            |
-|                     | Esmolol     | 0.5 mg bolus, then<br>0.05–0.2 mg/kg per<br>min | NA                      |
-|                     | Bisoprolol  | NA                                              | 2.5–10 mg/day           |
-|                     | Atenolol    | 5 mg over 5 min, repeat in<br>10 min            | 25–100 mg/<br>day       |
-|                     | Nadolol     | NA                                              | 20–80 mg/day            |
-| Calcium             | Verapamil   | 0.075–0.15 mg/kg over                           | 120–                    |
-| channel<br>blockers |             | 2 min; 0.005 mg/kg per<br>min                   | 480 mg/day              |
-|                     | Diltiazem   | 0.25–0.35 mg/kg                                 | 120–                    |
-|                     |             | followed by 5–15 mg/<br>hour                    | 480 mg/day              |
+### 4.5 Class ID: Ranolazine and Late Sodium Current ($I_{\text{NaL}}$) Inhibition</summary><div class="details-content">
 
-BID, Twice daily; NA, not available; QID, four times daily.
+Ranolazine, originally developed as an antianginal agent, defines Class ID in the modernized Oxford classification:
+* **Mechanism:** Selective inhibition of late sodium current ($I_{\text{NaL}}$), without significant depression of peak $I_{\text{Na}}$. In myocardial ischemia, heart failure, and hypertrophic cardiomyopathy, late $I_{\text{NaL}}$ is pathologically augmented, leading to intracellular sodium accumulation, which reverses the ${\rm Na}^+/{\rm Ca}^{2+}$ exchanger, driving toxic intracellular calcium overload, diastolic dysfunction, and afterdepolarizations (EADs and DADs).
+* **Antiarrhythmic Properties:** Suppresses triggered ventricular arrhythmias, reduces AF recurrence when combined with dronedarone or amiodarone (synergistic effect in the HARMONY trial), and suppresses ventricular ectopy in ischemic heart disease and LQT3. Dosed 500 to 1000 mg orally BID.
 
-β-blocker for improved antiarrhythmic effect. IV metoprolol can be given in 2.5–5 mg IV boluses every 5 minutes until desired effect is reached. IV propranolol can be given as a 1–3 mg bolus until 5 mg is reached and then repeated until the desired effect is reached. IV esmolol is very short acting, and dosing is provided in Table 9.5.
+</div></details>
 
-Side effects. Given the substantial benefit provided by β-blockers for coronary disease and heart failure, relative contraindications should not prevent administration of this therapy. However, main cardiovascular side effects include hypotension, bradycardia (sinus), AV block, and cold extremities. Neurologic side effects are common (2%–10%) with dizziness, fatigue, insomnia, nightmares, and temporary insomnia. Impotence and decreased libido occur in up to 5% of men. Bronchospasm occurs in about 1% of patients. Blurred vision and pruritis can also occur rarely. β-blockers can inhibit sensation of hypoglycemia in diabetics. They should also never be used in patients with pheochromocytoma unless concomitant α-blockade is also on board.
+</div></details>
 
-a Other β-blockers in addition to those listed may also be useful.
+<details class="med-details"><summary>
 
-## Mixed Class III Agents: Amiodarone and Sotalol
+## 5. Class II Agents: Beta-Adrenoceptor Antagonists</summary><div class="details-content">
 
-As the evidence for increased mortality in several patient groups with class I agents mounted, attention shifted to class III agents. Two widely used agents with important class III properties are amiodarone and sotalol. Both amiodarone and sotalol are mixed, not pure, class III agents, a quality that may be of crucial importance. The intrinsic problem with class III agents is that these compounds act by lengthening the APD and must inevitably prolong the QT interval to be effective (Table 9.3). In the presence of hypokalemia, hypomagnesemia, bradycardia, or genetic predisposition, QT prolongation may predispose to torsades de pointes (Fig. 9.3). This may especially occur with agents such as sotalol that simultaneously cause bradycardia and prolong the APD. However, amiodarone and sotalol have additional properties that modify conduction—amiodarone being a significant sodium and calcium channel inhibitor and sotalol a β-blocker. Amiodarone, for example, makes the action potential pattern more uniform throughout the myocardium, thereby opposing EP heterogeneity that underlies some serious ventricular arrhythmias. The incidence of torsades with amiodarone is much lower than expected from its class III effects. Because of their mixed effects, both sotalol and amiodarone have better efficacy than the class I agents. In the ESVEM trial,<sup>33</sup> sotalol was better than six class I antiarrhythmic agents (Table 9.2). Amiodarone, in contrast to class I agents, exerts a favorable effect on a variety of serious arrhythmias both atrial and ventricular.34-40 Yet both agents have significant limitations which prevent their broad application.
+Beta-adrenoceptor antagonists represent the most widely prescribed and safest class of antiarrhythmic agents, uniquely combining electrophysiological efficacy with established reductions in total cardiovascular mortality.
 
-#### Amiodarone
+<details class="med-details"><summary>
 
-Pharmacokinetics. Amiodarone is a unique "wide-spectrum" antiarrhythmic agent, chiefly class III but also with powerful class I activity and ancillary class II and class IV activity. It blocks sodium, calcium, and repolarizing potassium channels. The class III activity means that amiodarone lengthens the effective refractory period by prolonging the APD in all cardiac tissues, including bypass tracts. It also has a powerful class I antiarrhythmic effect inhibiting inactivated sodium channels at high stimulation frequencies (Table 9.2 and 9.3). Its benefits in AF may be explained at least in part by prolongation of the refractory periods of both the left and right superior pulmonary veins,<sup>41</sup> and inhibition of the AV node (see Fig. 9.10). Furthermore, it is "uniquely effective" against AF in experimental atrial remodeling.<sup>42</sup> Amiodarone noncompetitively blocks α- and β-adrenergic receptors (class II effect), and this effect
+### 5.1 Electrophysiological Effects on SA and AV Nodes</summary><div class="details-content">
 
-## *AMIODARONE FOR ATRIAL FIBRILLATION*
+* **Adrenergic Signal Transduction:** Sympathetic stimulation via $\beta_1$ and $\beta_2$ receptors couples to stimulatory $G_s$ proteins, activating adenylyl cyclase to synthesize cyclic adenosine monophosphate (cAMP), which activates protein kinase A (PKA). PKA phosphorylates L-type calcium channels ($I_{\text{Ca-L}}$), ryanodine receptors (RyR2), and phospholamban, accelerating nodal depolarization and intracellular calcium cycling.
+* **Electrophysiological Actions ([Fig. 9.8](#fig-09-08)):**
+  - **Sinoatrial Node:** Depresses Phase 4 spontaneous diastolic depolarization slope by reducing cAMP-mediated activation of the hyperpolarization-activated pacemaker "funny" current ($I_{\text{f}}$) and $I_{\text{Ca-L}}$, decreasing intrinsic sinus automaticity and resting heart rate.
+  - **Atrioventricular Node:** Prolongs AV nodal conduction time (prolongs PR interval and AH interval on intracardiac electrograms) and markedly lengthens the AV nodal effective refractory period.
+  - **Ventricular Myocardium:** Suppresses triggered activity (early and delayed afterdepolarizations) induced by adrenergic surges; elevates ventricular fibrillation threshold in acute ischemia; suppresses delayed afterdepolarizations in catecholaminergic polymorphic VT (CPVT).
 
-![](_page_32_Figure_2.jpeg)
+<span id="fig-09-08"></span>![](_page_27_Figure_3.jpeg)
 
-Fig. 9.10 Amiodarone inhibition of atrial fibrillation. Benefits must be balanced against risks of pulmonary fibrosis, thyroid dysfunction, and other side effects. PV, pulmonary vein. (Figure © L.H. Opie, 2012.)
+**FIGURE 9.8** Effect of beta-blockers on sinoatrial (SA) nodal function and pacemaker currents. Left: Normal action potential of the SA node showing Phase 4 spontaneous diastolic depolarization driven by the inward funny current ($I_{\text{f}}$) and calcium currents. Middle: Beta-adrenergic stimulation increases adenylyl cyclase activity, elevating intracellular cyclic AMP, shifting $I_{\text{f}}$ activation to more positive voltages, steepening Phase 4 slope, and accelerating heart rate. Right: Beta-blockade or direct $I_{\text{f}}$ inhibition (ivabradine) flattens Phase 4 diastolic depolarization slope, shifting firing threshold upward and prolonging cycle length, thereby slowing sinus node rate.
 
-is additive to competitive receptor inhibition by β-blockers.<sup>43</sup> The weak calcium antagonist (class IV) effect might explain bradycardia and AV nodal inhibition and the relatively low incidence of torsades de pointes. Furthermore, there are relatively weak coronary and peripheral vasodilator actions. There are some differences between IV and oral amiodarone because of the extensive first-pass effect of liver metabolism, particularly for the oral drug. IV amiodarone has more class I and nonselective class II effects, while PO amiodarone has more of the class III effect when it is converted to desethylamiodarone.
+</div></details>
 
-The pharmacokinetics of this highly lipid-soluble drug differ markedly from other cardiovascular agents.<sup>43</sup> After variable (30%–50%) and slow GI absorption, amiodarone distributes slowly but very extensive into adipose tissues.<sup>43</sup> Because of this, amiodarone must fill an enormous peripheral-tissue depot to achieve adequate blood and cardiac concentrations, accounting for its slow onset of action. In addition, when oral administration is stopped, most of the drug is in peripheral stores unavailable to elimination systems, causing very slow elimination with a very long half-life, up to 6 months. 44 The onset of action after oral administration is delayed and a steady-state drug effect (amiodaronization) may not be established for several months unless large loading doses are used. Even when given intravenously, its full EP effect is delayed, <sup>45</sup> although major benefit can be achieved within minutes as shown by its effect on shock-resistant VF. 46 Amiodarone is lipid soluble, extensively distributed in the body, and highly concentrated in many tissues, especially in the liver and lungs. It undergoes extensive hepatic metabolism to the pharmacologically active metabolite desethylamiodarone. A correlation between the clinical effects and serum concentrations of the drug or its metabolite has not been clearly shown, although there is a direct relation between the oral dose and the plasma concentration, and between metabolite concentration and some late effects, such as that on the ventricular functional refractory period. The therapeutic range is not well defined but may be between 1 and 2.5 mg/mL, almost all of which (95%) is protein-bound. Higher levels are associated with increased toxicity. 43 Amiodarone is not excreted by the kidneys, but rather by the lachrymal glands, the skin, and the biliary tract. For recurrent AF, amiodarone may be strikingly effective with little risk of side effects. Amiodarone can increase serum creatinine levels by 5%–15% but this is not due to any negative impact on glomerular filtration rate or renal function, but rather decreased tubular excretion of creatinine. This resolves once the drug is discontinued
+<details class="med-details"><summary>
 
-Clinical use. Amiodarone is particularly well suited for both atrial and ventricular arrhythmias. Amiodarone is useful for a variety of ventricular arrhythmias including frequent, symptomatic premature ventricular beats; symptomatic nonsustained VT; sustained VT/VF and/or electrical storm; prevention of ICD shocks due to ventricular or atrial arrhythmias;<sup>49</sup> and primary and secondary prevention of sudden death when an ICD cannot be implanted. In the prophylactic control of life-threatening ventricular tachyarrhythmias (especially post-MI and in association with congestive cardiac failure), or after cardiac surgery,<sup>50</sup> amiodarone has been regarded as one of the most effective agents available.<sup>51</sup>
+### 5.2 Comparative Pharmacology of Specific Beta-Blockers</summary><div class="details-content">
 
-Amiodarone is probably the most effective of the available drugs to prevent recurrences of paroxysmal AF or flutter, <sup>47,48,52,53</sup> and is an entirely reasonable choice for patients especially with structural cardiac disease or CHF where class I agents cannot be used. <sup>54</sup> Even very low doses (100 mg daily) <sup>53</sup> of amiodarone can be effective with relatively fewer toxicities, especially in older, smaller patients. In the CTAF trial, amiodarone was twice as effective in maintaining sinus rhythm when compared to sotalol or propafenone. <sup>48</sup> Over 16 months, 65% of patients with amiodarone
+* **Cardioselective ($\beta_1$-Selective):** Metoprolol, Bisoprolol, Atenolol, Esmolol. Preferentially block cardiac $\beta_1$ receptors with lower risk of peripheral vasoconstriction or bronchospasm at therapeutic doses (cardioselectivity is dose-dependent and lost at higher doses).
+* **Non-Selective ($\beta_1 + \beta_2$):** Propranolol, Nadolol. Nadolol has an exceptionally long elimination half-life ($t_{1/2} \approx 20\text{ to }24\text{ hours}$) and is the guideline-preferred first-line beta-blocker for congenital Long QT Syndrome (LQT1 and LQT2) and CPVT. Propranolol has high lipophilicity and crosses the blood-brain barrier.
+* **Combined $\alpha_1 / \beta$-Blockers:** Carvedilol, Labetalol. Carvedilol provides non-selective beta-blockade, $\alpha_1$-mediated vasodilation, and potent antioxidant effects, with proven mortality reduction in HFrEF.
+* **Ultra-Short Acting:** Esmolol. Hydrolyzed by red blood cell esterases with an elimination half-life of only 9 minutes, allowing rapid IV titration and instantaneous cessation in critically ill patients.
 
-maintained sinus rhythm, although more patients on amiodarone were forced to withdraw from treatment because of side effects compared to the other two drugs (18% over 16 months).
+</div></details>
 
-Generally, IV amiodarone is used for 48 to 96 hours while oral amiodarone is instituted. In the ARREST study, amiodarone was better than placebo (44% versus 34%, P=0.03) in reducing immediate mortality. Similar data were obtained when amiodarone was compared with lidocaine for shock-resistant VF. For the acute conversion of chronic AF, IV amiodarone is not acutely very effective and often is delayed beyond 6 hours, thereby limiting its usefulness. However, by 24 hours, the efficacy of IV amiodarone for acute AF conversion is similar to that of IV class IC agents or IV procainamide.
+<details class="med-details"><summary>
 
-Unlike all of the class I agents and even sotalol, amiodarone can be used in a variety of structural heart disease, including coronary disease, ischemic and nonischemic cardiomyopathy, and heart failure. While amiodarone does not improve mortality in these patients, it also does not seem to increase the risk of mortality and decreases the risk of sudden death as demonstrated by the CAMIAT and EMIAT trials. <sup>34,35</sup>
+### 5.3 Clinical Dosing and Rate Control Protocols in AF</summary><div class="details-content">
 
-Dose. See Tables 9.2, 9.6. When reasonably rapid control of an urgent ventricular arrhythmia is needed, the initial loading regimen is up to 1600 mg daily in two to four divided doses usually given for 7–14 days, which is then reduced to 400–800 mg/day for a further 1–3 weeks. By using a loading dose (about 6–10 g), sustained VT can be controlled after a mean interval of 5 days. Practice varies widely, however, with loading doses of as low as 600 mg daily being used in less urgent settings. Maintenance doses for VT vary. Previously, many patients with ventricular arrhythmias were maintained on 400 mg daily or more, but the risk of side effects is substantial over time. Therefore, even for ventricular arrhythmias, maintenance doses should not typically exceed 200 mg daily unless absolutely required. Maintenance doses of 50–100 mg daily may be quite useful and prevent many unwanted side effects, particularly in smaller, elderly patients. Downward dose adjustment of the maintenance dose should always be attempted if the patient's ventricular arrhythmia is under good control.
+Beta-blockers are the first-line agents for acute and chronic rate control in atrial fibrillation and atrial flutter ([Table 9.5](#tab-09-05)).
 
-For prevention of recurrent AF, one loading regimen used was 600 mg daily for 7–14 days, 400 mg daily for the next 14–21 days, and then 100–200 mg daily thereafter. The target loading dose for atrial arrhythmias may be on the lower end of the 6–10 g target typically used for ventricular arrhythmias and even loads of 4 g may be sufficient. Downward dose adjustment of the maintenance dose should always be tried long term if the atrial arrhythmia is under good control. Maintenance doses for atrial flutter or fibrillation
+<span id="tab-09-05"></span>
 
-Table 9.6
+### TABLE 9.5 Drug Loading and Maintenance Regimens for Ventricular Rate Control in Atrial Fibrillation
 
-Recommended antiarrhythmic drug doses for pharmacologic cardioversion and prevention of recurrences of atrial fibrillation
+| Class | Drug | Acute Intravenous Therapy | Chronic Oral Therapy | Key Clinical Comments |
+|---|---|---|---|---|
+| **Beta-Blockers** | **Metoprolol** | 2.5–5.0 mg IV bolus over 2 min; repeat every 5 min up to 15 mg total. | Tartrate: 25–100 mg PO BID.<br>Succinate: 50–200 mg PO once daily. | Cardioselective ($\beta_1$). First-line for post-MI, CAD, and rate control. |
+| | **Bisoprolol** | Not available IV in US. | 2.5–10 mg PO once daily. | High $\beta_1$-selectivity; once-daily dosing; proven mortality reduction in HFrEF. |
+| | **Atenolol** | 5 mg IV over 5 min; repeat in 10 min if needed (max 10 mg). | 25–100 mg PO once daily. | Hydrophilic, 100% renal clearance. Accumulates in renal impairment. |
+| | **Esmolol** | 500 mcg/kg IV bolus over 1 min; then continuous infusion 50–200 mcg/kg/min. | Not available orally. | Ultra-short acting ($t_{1/2} \approx 9\text{ min}$). Ideal for ICU, post-op, or borderline hemodynamics. |
+| | **Propranolol** | 1.0 mg IV over 2 min; repeat every 2–5 min up to 5 mg total. | 10–40 mg PO TID or QID (or ER 80–160 mg once daily). | Non-selective ($\beta_1/\beta_2$). Lipophilic. Effective in thyroid storm. |
+| | **Nadolol** | Not available IV. | 20–80 mg PO once daily (up to 160–240 mg). | Non-selective. Long $t_{1/2}$ (24 h). Drug of choice for Congenital LQTS and CPVT. |
+| | **Carvedilol** | Not available IV. | 3.125–25 mg PO BID (or CR 10–80 mg once daily). | Combined $\alpha_1/\beta$. Vasodilating; preferred in heart failure with reduced EF. |
+| **Calcium Channel Blockers** | **Verapamil** | 0.075–0.15 mg/kg (5–10 mg) IV over 2 min; repeat 10 mg after 15–30 min if needed. | 40–120 mg PO TID (IR) or 120–360 mg PO once daily (SR). | Non-dihydropyridine. Avoid in HFrEF (${\rm LVEF} < 40\%$) and pre-excited AF (WPW). |
+| | **Diltiazem** | 0.25 mg/kg (usually 15–20 mg) IV over 2 min; repeat 0.35 mg/kg (25 mg) after 15 min; then continuous infusion 5–15 mg/h. | 30–90 mg PO QID (IR) or 120–360 mg PO once daily (CD/XR). | Preferred IV CCB for acute AF rate control in ED/ICU. Avoid in HFrEF and WPW. |
 
-|              |              | IV or oral therapy for<br>rapid conversion             | Chronic oral drug<br>therapy to prevent<br>recurrencea        |
-|--------------|--------------|--------------------------------------------------------|---------------------------------------------------------------|
-| Class<br>IA  | Procainamide | 500–1200 mg IV<br>over 30–60 min                       | 500–750 mg QID                                                |
-| Class<br>IC  | Flecainide   | 1.5–3.0 mg/kg IV<br>over 10 minb<br>;                  |                                                               |
-|              |              | 200–400 mg orally                                      | 50–200 mg BID                                                 |
-|              | Propafenone  | 1.5–2 mg/kg IV<br>over 10–20 minb<br>300–600 mg orally | 150–300 mg TID                                                |
-| Class<br>III | Ibutilide    | 1 mg IV over 10 min,<br>repeat once                    | Not available                                                 |
-|              | Sotalol      |                                                        | 40–160 mg BID                                                 |
-|              | Amiodarone   | 5–7 mg/kg IV over<br>30 min, then 1.2–<br>1.8 g/day    | 400–1200 mg/day for<br>7 days, then taper to<br>50–300 mg/day |
-|              | Dofetilide   | Insufficient data                                      | 125–500<br>μg BID                                             |
+<span id="fig-09-09"></span>![](_page_29_Figure_2.jpeg)
 
-BID, Twice daily; IV, intravenous; QID, four times daily; TID, three times daily.
+**FIGURE 9.9** Dual AV nodal physiology in AV nodal reentrant tachycardia (AVNRT) versus bypass tract reentrant circuit in Wolff-Parkinson-White (WPW) syndrome. Top Left: Typical AVNRT reentrant circuit involving a slow AV nodal pathway (antegrade conduction) and fast AV nodal pathway (retrograde conduction). Class II beta-blockers and Class IV calcium channel blockers slow conduction and prolong refractoriness in the slow pathway, terminating or preventing AVNRT. Top Right & Bottom: Orthodromic AVRT conducts antegrade down the AV node and retrograde up the accessory pathway; antidromic AVRT conducts antegrade down the accessory pathway and retrograde up the AV node.
 
-are generally lower than for ventricular arrhythmias (100–200 mg daily), and even very low doses of 50–100 mg daily may be effective and used in smaller, elderly patients.53,56-58 Amiodarone is also an excellent rate control agent for chronic, persistent AF, and contrary to flecainide and dronedarone, there are no contraindications for use of amiodarone for long-term rate control except for the risk of side effects. There is generally no dose adjustment for renal or hepatic dysfunction.
+</div></details>
 
-IV amiodarone may be used for intractable arrhythmias (Tables 9.2, 9.6). The aim is an infusion over 24 hours. Start with 150 mg/10 minutes, then 360 mg over the 6 next hours, then 540 mg over the remaining time up to a total of 24 hours, to give a total of 1050 mg over 24 hours Boluses may be repeated while the infusion is running if intractable arrhythmia continues. Boluses of amiodarone can cause hypotension, so the 150 mg may be given over a longer period of time (20–30 minutes) to avoid this problem. The maintenance infusion could be maintained at a rate of 0.5 mg/minute instead of reducing it after the initial 6 hours if the
+<details class="med-details"><summary>
 
-a Initiation of oral therapy without loading may also result in conversion.
+### 5.4 Clinical Indications and Safety in Ischemic Heart Disease and Heart Failure</summary><div class="details-content">
 
-b Not available in North America.
+* **Ischemic Heart Disease and Post-MI:** Proven reduction in total mortality, sudden cardiac death, and recurrent infarction by attenuating sympathetic tone, lowering myocardial oxygen consumption, and suppressing ischemic ventricular arrhythmias.
+* **Heart Failure with Reduced Ejection Fraction (HFrEF):** Bisoprolol, carvedilol, and metoprolol succinate reduce all-cause mortality and sudden death by 30% to 35% in stable chronic HFrEF.
+* **Supraventricular Tachycardias:** First-line therapy for AVNRT and orthodromic AVRT ([Fig. 9.9](#fig-09-09)), as well as focal atrial tachycardia.
+* **Contraindications:** Severe cardiogenic shock, acute decompensated heart failure requiring IV inotropes, marked sinus bradycardia ($<45\text{ bpm}$), second- or third-degree AV block without pacemaker, and active severe asthma with wheezing.
 
-arrhythmias continue. For shock-resistant cardiac arrest, the IV dose is 5 mg/kg of estimated body weight, with a further dose of 2.5 mg/kg if the VF persists after a further shock. <sup>54</sup> Once the arrhythmias have come under acute control and a sufficient load has been obtained (6–10 g), transition to oral therapy may be performed. This is typically done by overlapping IV and PO amiodarone for at least 2 days. For intractable ventricular arrhythmias, PO and IV amiodarone may be coadministered for a longer time, since they have different EP effects: IV amiodarone has more class I and non-selective class II effects, while PO amiodarone has more of the class III effect.
+</div></details>
 
-**Side effects.** Contraindications to amiodarone are severe sinus node dysfunction with marked sinus bradycardia or syncope, second- or third-degree heart block, known hypersensitivity, cardiogenic shock, and probably severe chronic lung disease. The most common side effects are sinus bradycardia, especially in older adults, and QT prolongation with, however, a very low incidence of torsades (<0.5%). 43 Serious adverse effects, listed in a thorough review of 92 studies, include optic neuropathy/neuritis (<1%-2%), blue-gray skin discoloration (4%–9%), photosensitivity (25%–75%), hypothyroidism (6%), hyperthyroidism (0.9%–2%), pulmonary toxicity (1%–17%), peripheral neuropathy (0.3% annually), and hepatotoxicity (elevated enzyme levels, 15%–30%; hepatitis and cirrhosis, <3%, 0.6% annually). 42 Recommended preventative actions are baseline and 6-monthly thyroid function tests and liver enzymes and baseline and yearly ECG and chest radiograph with physical examination of skin, eyes, and peripheral nerves if symptoms develop. Corneal microdeposits (>90%) are usually asymptomatic.
+</div></details>
 
-Thyroid side effects. Amiodarone has a complex effect on the metabolism of thyroid hormones because it contains iodine and shares a structural similarity to thyroxin. It can inhibit the peripheral conversion of T4 to T3 with a rise in the serum level of T4 and a small fall in the level of T3. It also has a direct toxic effect on thyroid follicular cells which can result in a destructive thyroiditis. In most patients, thyroid function is not altered by amiodarone. However, in 6%, hypothyroidism may develop during the first year of treatment. Hypothyroidism can easily be managed with oral levothyroxine and rarely requires discontinuation of therapy.<sup>59</sup> Hyperthyroidism is less common, developing only in 0.9%, <sup>45</sup> but has a very poor prognosis. <sup>60</sup> It is much more common in iodinedeficient areas (20% versus 3% in normal iodine areas). 60 Hyperthyroidism may precipitate recurrent ventricular and atrial arrhythmias and should always be excluded if new arrhythmias appear during amiodarone therapy. Amiodarone-induced hyperthyroidism has two types: type I occurs in patients who already have an underlying thyroid problem (Grave's, multinodular goiter), while type II occurs due to a direct destructive thyroiditis. Ultrasound of the thyroid may help distinguish between the two types. Since amiodarone has a long half-life, inhibits peripheral conversion of T4 to T3, and may be used for life-threatening arrhythmias, it does not have to be stopped immediately upon diagnosis of hyperthyroidism. Stopping may actually cause a temporary exacerbation. Treatment may include corticosteroids and methimazole to get acute control followed by radioiodine ablation (if possible) or surgical thyroidectomy. Definitive removal or ablation of the thyroid could allow for safe reintroduction of amiodarone.
 
-Pulmonary side effects. In higher doses, there is an unusual spectrum of toxicity, the most serious being interstitial pneumonitis, potentially leading to pulmonary fibrosis and occurring in 10% to 17% at doses of approximately 400 mg/day. Pulmonary toxicity can be fatal in 10% of those affected. Meta-analysis of double-blind amiodarone trials suggests that there is an absolute risk of 1% of pulmonary toxicity per year, with some fatal cases. Of note, pulmonary toxicity is likely dose-related, and very rarely occurs with low doses of 200 mg daily or less.42,58,61 Preexisting pulmonary disease does not increase the risk of toxicity, but these patients have reduced reserve in case toxicity occurs. Nonproductive cough and dyspnea are the symptoms. White blood cell counts, lactic acid dehydrogenase, and C-reactive protein may all be elevated. Chest x-ray often shows new diffuse or localized opacities. Pulmonary function tests may be an early sign of toxicity when the diffusing capacity for carbon monoxide (DLCO) is reduced by 20% or more. Pulmonary complications usually regress if recognized early and if amiodarone is discontinued. Symptomatic therapy may include steroids with a slow taper. Generally, amiodarone can never be used again.
+<details class="med-details"><summary>
 
-Other extracardiac side effects. Central nervous system side effects like proximal muscle weakness, peripheral neuropathy, and other neural symptoms (headache, ataxia, tremors, impaired memory, dyssomnia, bad dreams) occur with variable incidence. Optic neuropathy is rare but can cause blindness. GI side effects were uncommon in the GESICA study.<sup>62</sup> Yet nausea can occur in 25% of patients with CHF, even at a dose of only 200 mg daily; exclude increased plasma levels of liver function enzymes. These effects usually resolve with dose reduction. Hepatotoxicity with a 25% increase in liver enzymes occurs in 10%–25% of patients. Drug should only be discontinued if the enzymes are elevated more than twofold. Since amiodarone is often used in situations of cardiogenic shock, elevation in liver enzymes may be due to the shock and not due to amiodarone. Liver toxicity appears to be dose related (>150–200 mg daily). Testicular dysfunction may be a side effect, detected by increased gonadotropin levels in patients on long-term amiodarone. Less serious side effects are as follows: Corneal microdeposits develop in nearly all adult patients given prolonged amiodarone. Symptoms and impairment of visual acuity are rare and respond to reduced dosage. Macular degeneration rarely occurs during therapy, without proof of a causal relationship. A photosensitive slate-gray or bluish skin discoloration may develop after prolonged therapy, usually exceeding 18 months. Avoid exposure to sun and use a sunscreen ointment with ultraviolet A (UVA) and UVB protection. The pigmentation regresses slowly on drug withdrawal. Finally, amiodarone may increase both pacing and defibrillation thresholds, and these should be considered and, if necessary, tested when amiodarone is initiated, particularly at higher doses.
+## 6. Mixed Class III Agents: Amiodarone, Sotalol, and Dronedarone</summary><div class="details-content">
 
-Dose-dependency of side effects. A full and comprehensive meta-analysis of the side effects of amiodarone showed that even low doses may not be free of adverse effects.<sup>61</sup> However, thyroid, pulmonary, and hepatic side effects all seem to be dose related with a far smaller incidence occurring at doses 200 mg daily. Duration of therapy is also critical with longer durations associated with higher side effects. Most side effects take months to a year to present. When amiodarone must be withdrawn for toxicity, the plasma concentration falls by 50% within 3 to 10 days, and then the tissue stores deplete slowly, which can take 6 months or more.
+Class III antiarrhythmic agents are characterized by their ability to prolong the cardiac action potential duration (APD) and effective refractory period (ERP) primarily through inhibition of repolarizing potassium currents. The "mixed" Class III agents combine this repolarization delay with substantial auxiliary channel- and receptor-blocking properties.
 
-Drug interactions and combination. See Table 9.4. The most serious interaction is an additive proarrhythmic effect with other drugs prolonging the QT interval (Fig. 9.5), such as class IA antiarrhythmic agents, phenothiazines, tricyclic antidepressants, thiazide diuretics, and sotalol. Amiodarone may increase quinidine and procainamide levels (these combinations are not advised). With phenytoin, there is a double drug interaction. Amiodarone increases phenytoin levels while at the same time phenytoin enhances the conversion of amiodarone to desethylamiodarone. A serious and common interaction is with warfarin. Amiodarone prolongs the prothrombin time and may cause bleeding in patients on warfarin, perhaps by a hepatic interaction; decrease warfarin by about one-third and retest the international normalized ratio (INR) within 3–7 days. Amiodarone increases the plasma digoxin concentration, predisposing to digitalis toxic effects (not arrhythmias because amiodarone protects); decrease digoxin by approximately half and re-measure digoxin levels. Amiodarone, by virtue of its weak β-blocking and calcium antagonist effect, tends to inhibit nodal activity and may therefore interact adversely with β-blocking agents and calcium antagonists. However, the antiarrhythmic efficacy of amiodarone is generally increased by coprescription with β-blocking drugs.63 Amiodarone is metabolized, in part, by the p-glycoprotein mechanism, so drugs dependent on this mechanism may be affected. Colchicine, dabigatran, and edoxaban levels may all be increased, requiring dose reduction or even therapy modification.
+<details class="med-details"><summary>
 
-In cases of severe ventricular arrhythmia/electrical storm, IV amiodarone can be easily combined with IV lidocaine. However, amiodarone may increase lidocaine blood levels, so the maintenance infusion of lidocaine should be titrated to as low as possible to avoid neurologic toxicity.
+### 6.1 Multichannel Electrophysiological Properties</summary><div class="details-content">
 
-## Sotalol
+Unlike pure potassium channel blockers, mixed Class III agents exert electrophysiological actions spanning all four classical Vaughan Williams classes:
+* **Potassium Channel Blockade (Class III Effect):** Inhibits the rapid delayed rectifier current ($I_{\text{Kr}}$), slow delayed rectifier current ($I_{\text{Ks}}$), and inward rectifier current ($I_{\text{K1}}$), markedly prolonging repolarization across atria, ventricles, AV node, and bypass tracts.
+* **Inactivated Sodium Channel Blockade (Class I Effect):** Possesses low-affinity, use-dependent inhibition of voltage-gated sodium channels ($I_{\text{Na}}$), depressing Phase 0 upstroke in rapidly firing or depolarized tissue.
+* **Non-Competitive Antiadrenergic Action (Class II Effect):** Non-competitively antagonizes both alpha- and beta-adrenergic receptors, reducing adenylyl cyclase activation and blunting sympathetic surges.
+* **L-Type Calcium Channel Blockade (Class IV Effect):** Mildly inhibits inward $I_{\text{Ca-L}}$, depressing SA node automaticity and slowing AV nodal conduction.
 
-Phamacokinetics. Sotalol is a racemic mixture of dextro and levo isomers, and these differ in their EP effects. Although these agents have comparable class III activity, the class II activity arises from l-sotalol (Table 9.3).<sup>64</sup> The pure class III investigational agent d-sotalol increased mortality in postinfarct patients with a low ejection fraction (EF) in the SWORD study.<sup>65</sup> This result suggests that the class III activity, perhaps acting through torsades, can detract from the positive β-blocking qualities of the standard dl-sotalol. In practice, class III activity is not evident at low doses (<160 mg/day) of the racemic drug. In humans, class II effects are sinus and AV node depression. Class III effects are prolongation of the action potential in atrial and ventricular tissue and prolonged atrial and ventricular refractory periods, as well as inhibition of conduction along any bypass tract in both directions. APD prolongation with, possibly, enhanced calcium entry may explain why it causes proarrhythmic after-depolarizations and why the negative inotropic effect is less than expected. It is a noncardioselective, water-soluble (hydrophilic), nonprotein-bound agent, excreted solely by the kidneys, with a plasma half-life of 12 hours. Dosing every 12 hours gives trough concentrations half of the peak values. Because sotalol is completely cleared by the kidneys, it must be used with great caution in patients with impaired renal function and avoided in patients with more severe renal impairment. Sotalol demonstrates"reverse use dependence," which means that the prolongation of refractoriness increases at lower heart rates. Antiarrhythmic agents that exhibit reverse use-dependence are more efficacious at preventing a tachyarrhythmia than converting someone into normal sinus rhythm. However, it also means that at low heart rates, class III antiarrhythmic agents may paradoxically be more arrhythmogenic. Ibutilide and dofetilide also show reverse use dependence.
+</div></details>
 
-Clinical use. Because of its combined class II and class III properties, sotalol is active against a wide variety of arrhythmias, including sinus tachycardia, PSVT, WPW arrhythmias with either antegrade or retrograde conduction, recurrence of AF,<sup>48</sup> ischemic ventricular arrhythmias, and recurrent sustained VT or VF. In ventricular arrhythmias, the major outcome study with sotalol was the ESVEM trial<sup>33</sup> in which this drug in a mean dose of approximately 400 mg daily was better at decreasing death and ventricular arrhythmias than any of six class I agents. Unlike the class I agents, sotalol can be given to patients with coronary artery disease and with structural heart disease, although it needs to be used with caution in patients with EF <40% where it may increase the risk of mortality as demonstrated by the SWORD trial.<sup>65</sup> However, sotalol is often used in patients with low EF's and arrhythmias who have ICDs in order to avoid use of amiodarone. The increased risk of torsades or other ventricular arrhythmias is mitigated by the presence of the ICD.
+<details class="med-details"><summary>
 
-Of the wide indications, the major current use is in maintenance of sinus rhythm after cardioversion for AF,<sup>48</sup> for which sotalol is about as effective as flecainide or propafenone, with the advantages that it can be given to patients with structural heart disease, particularly coronary disease and mild degrees of LV dysfunction >40% and can be given without an additional agent to slow AVnodal conduction (Fig. 9.7). However, the efficacy of all three is outclassed by amiodarone.44,47,48 Sotalol is also known to decrease both pacing and defibrillation thresholds and is sometimes used for this purpose in ICD patients with high defibrillation thresholds.
+### 6.2 Amiodarone</summary><div class="details-content">
 
-Dose. See Tables 9.2, 9.6. For patients with a history of AF or atrial flutter or ventricular arrhythmias, the dose is often started at 80 mg BID although doses as small as 40 mg BID can be used in smaller, elderly patients with mild degrees of renal impairment. The dose can be increased to 160 mg BID, although the ECG must be checked within 1 week of initiating therapy to check for QT prolongation (>500 milliseconds). If the QTc is not >500 milliseconds, the dose may be titrated upward until a therapeutic effect is reached. The risk of torsades de pointes is 0.3% at 320 mg/day but goes up to 3.2% at higher doses when used for AF or flutter. Doses of 320 to 480 mg per day may be needed to prevent recurrent VT or VF, especially in patients with ICDs where the risk of proarrhythmia may be offset by the protective presence of the ICD. When given in two divided doses, steady-state plasma concentrations are reached in 2 to 3 days. In patients with renal impairment or in older adults, or when there are risk factors for proarrhythmia, the dose should be reduced, and the dosing interval increased. When the creatinine clearance is >60 mL/min, the dose can be given BID, from 40–60 mL/min it can be given once daily, and when <40 mL/min, the drug is contraindicated.
+<details class="med-details"><summary>
 
-In the United States, the label recommends that the initial treatment in patients with recurrent AF or flutter be performed in hospital with at least 3 days of monitoring while the dose is increased. In other jurisdictions, outpatient initiation of sotalol is the norm.
+#### Pharmacokinetics and Extraordinary Tissue Sequestration</summary><div class="details-content">
 
-Side effects. Side effects are those of β-blockade, including fatigue (20%) (which appears to be more of a problem in younger patients), bradycardia (13%), and dyspnea (5%) which can be due to bronchospasm. Sleep disorders, depression, impotence, and cold extremities also can occur as for other β-blockers. The drug should be avoided in patients with serious conduction defects, including sick sinus syndrome, second- or third-degree AV block (unless there is a pacemaker), in severe bronchospastic disease, and when there are evident risks of proarrhythmia. Torsades occurs in 1%–4% of patients (see previous). Groups at highest risk for torsades are the elderly, females, those on diuretics (prone to hypokalemia), patients with severe LV failure, and those with a dose >320 mg/day.65 The drug is contraindicated in patients with reduced creatinine clearance < 40 mL/minute (renal excretion).
+Amiodarone is a benzofuran derivative containing two iodine atoms, structurally related to thyroxine ($T_4$). Its pharmacokinetic profile is extraordinary:
+* **High Lipophilicity and Massive Volume of Distribution:** The apparent volume of distribution ($V_d$) is approximately 60 L/kg (4000 to 5000 L in an average adult), reflecting vast sequestration in adipose tissue, lungs, liver, spleen, and skin.
+* **Erratic and Slow Oral Absorption:** Bioavailability ranges from 30% to 50%, with peak concentrations delayed 3 to 7 hours after ingestion.
+* **Extremely Long Elimination Half-Life:** Ranges from 25 to 110 days (average 50 to 58 days). Following chronic therapy, therapeutic tissue stores and clinical effects persist for months after drug discontinuation.
+* **Hepatic Metabolism:** Extensively metabolized by CYP3A4 and CYP2C8 to its active primary metabolite, desethylamiodarone (DEA), which possesses similar or greater electrophysiological potency and accumulates to higher concentrations than the parent drug in myocardial and pulmonary tissue.
+* **Elimination:** Excreted almost exclusively via the biliary and fecal routes, with negligible renal elimination. Hemodialysis or peritoneal dialysis does not clear amiodarone.
 
-Drug interactions and combination. See Tables 9.2, 9.4. Cotherapy with class IA drugs, amiodarone, or other drugs prolonging the QT interval should be avoided (Fig. 9.5). In pregnancy, the drug is category B. It is not teratogenic but does cross the placenta and may depress fetal vital functions. Sotalol is also excreted in mother's milk.
+</div></details>
 
-#### Dronedarone
+<details class="med-details"><summary>
 
-Pharmacokinetics. Dronedarone was designed to be amiodarone without the side effects. It is a noniodinated congener of amiodarone and because of the lack of the iodinated molecules, it was expected (and is true) that dronedarone would lack the thyroid toxicity of amiodarone. Like amiodarone, dronedarone is a class III agent that also has class II (β-blocking) and class IV (calcium blocking) effects. The risk of torsades is mitigated by the combined effects. The half-life is also much shorter—only 24 hours compared to 50 days for amiodarone. However, dronedarone is not nearly as potent of an antiarrhythmic as amiodarone. In fact, it may be less effective than even sotalol and the class IC agents, and most of its beneficial effect may be through rate control and its class II effect. Dronedarone can increase serum creatinine levels by 5%–15%, but this is not due to any negative impact on glomerular filtration rate or renal function, but rather decreased tubular excretion of creatinine. This resolves once the drug is discontinued.
+#### Dosing Protocols and Loading Strategies</summary><div class="details-content">
 
-Clinical use. The main use of this drug is for maintenance of sinus rhythm in patients with paroxysmal AF or those with persistent AF after cardioversion (Fig. 9.7). Dronedarone is not nearly as potent an antiarrhythmic as amiodarone and is likely inferior to sotalol and the class IC agents according to data from the DIO-NYSOS trial.<sup>66</sup> Although dronedarone is a potent rate control medication, the PALLAS study suggested an increased risk of mortality in patients with chronic AF using dronedarone strictly for rate control.<sup>67</sup> Dronedarone should also be avoided in heart failure patients or those with an EF <35%–40% because of the ANDROMEDA trial showing increased mortality risk in this patient population.<sup>68</sup> There is no role for dronedarone in the treatment of ventricular arrhythmias.
+To overcome its vast distribution volume and achieve clinical antiarrhythmic efficacy, intensive loading regimens are mandatory:
+* **Oral Loading for Atrial Fibrillation:** 600 to 800 mg daily in divided doses for 1 to 2 weeks (or until a cumulative load of ~ 10 g is achieved), followed by 400 mg daily for 2 to 4 weeks, tapering to a chronic maintenance dose of 100 to 200 mg once daily (the lowest effective dose).
+* **Oral Loading for Ventricular Arrhythmias:** 800 to 1600 mg daily in divided doses for 2 to 3 weeks, tapering to 400 mg daily for 1 month, then maintaining at 200 to 400 mg once daily.
+* **Intravenous Regimen for Urgent Arrhythmias:**
+  - Initial bolus: 150 mg IV infused over 10 minutes (15 mg/min) in 100 mL $D_5W$.
+  - Early maintenance infusion: 1.0 mg/min for 6 hours (360 mg).
+  - Subsequent maintenance infusion: 0.5 mg/min for the remaining 18 hours (540 mg). Total 24-hour IV dose: approximately 1000 mg (1050 mg).
+  - Supplemental boluses: 150 mg IV over 10 minutes for breakthrough episodes of VT/VF (maximum total daily dose 2.2 g).
+  - Pulseless VT/VF Cardiac Arrest: 300 mg rapid IV/IO push diluted in 20–30 mL saline or dextrose; repeat 150 mg IV/IO once if VF/pulseless VT persists.
 
-Dose. There is only one approved dose of dronedarone, which is 400 mg BID orally.
+<span id="tab-09-04"></span>
 
-Side effects. Unlike amiodarone, dronedarone is not associated with an appreciable risk of thyroid dysfunction. Although the risk of pulmonary toxicity is lower than that of amiodarone, it has still been reported and the quantification of the risk is not well known. Liver toxicity has also been reported and usually occurs within 6 months of drug initiation. The risk appears to be lower than that of amiodarone. Torsades de pointes has not been reported with any frequency. The usual class II side effects such as bradycardia and heart block can occur.
+### TABLE 9.4 Kinetic and Dynamic Drug Interactions of Antiarrhythmic Drugs
 
-Drug interactions and combination. Dronedarone significantly increases serum digoxin concentrations and should be used very cautiously in patients taking digitalis.67,68 Digoxin doses may need to be reduced by 50%. Dronedarone is an inhibitor of CYP3A4 and CYP2D6 and should be avoided when combined with other inhibitors of these enzymes (like erythromycin type antibiotics and verapamil). The drug is also cleared by the p-glycoprotein system, and therefore, drugs also cleared by that system will have profound interactions. For example, colchicine, dabigatran, and edoxaban levels may all be significantly increased requiring cessation of these drugs.
+| Antiarrhythmic Drug | Interacting Drugs / Agents | Mechanism and Pharmacological Consequences | Clinical Management and Recommendations |
+|---|---|---|---|
+| **Lidocaine** | Beta-blockers (propranolol, metoprolol), cimetidine | Decreased hepatic blood flow and CYP3A4 inhibition reduce lidocaine clearance by 30–50%, elevating plasma levels and risking neurotoxicity. | Reduce lidocaine infusion rates by 30–50%; monitor closely for CNS signs. |
+| | Hepatic enzyme inducers (phenytoin, phenobarbital, rifampin) | Accelerated CYP3A4/1A2 clearance, reducing lidocaine plasma levels. | May require higher infusion rates to maintain therapeutic levels ($1.5\text{--}5.0\,\mu\text{g/mL}$). |
+| **Flecainide** | Amiodarone | Potent CYP2D6 inhibition elevates flecainide plasma levels by 100% (doubling concentration). | Empirically reduce flecainide dose by 50% upon starting amiodarone; monitor QRS. |
+| | Beta-blockers, CCBs, disopyramide | Additive negative inotropic effects and AV nodal conduction depression. | Monitor for heart failure exacerbation and bradycardia / AV block. |
+| **Propafenone** | CYP2D6 inhibitors (fluoxetine, paroxetine, quinidine) | Markedly elevates propafenone concentrations and exaggerates beta-blocking activity. | Monitor ECG for QRS and PR prolongation; reduce propafenone dose. |
+| | Digoxin, Warfarin | Propafenone increases serum digoxin levels by 30–60% and potentiates warfarin anticoagulation. | Reduce digoxin dose by 25–50%; monitor INR closely. |
+| **Sotalol** | Loop and thiazide diuretics | Diuretic-induced hypokalemia ($\text{K}^+ < 4.0\text{ mEq/L}$) and hypomagnesemia synergistically escalate Torsades de pointes risk. | Maintain serum potassium $\ge 4.0\text{--}4.5\text{ mEq/L}$ and magnesium $\ge 2.0\text{ mg/dL}$. |
+| | Class IA and Class III agents, TCAs, phenothiazines | Additive repolarization delay and extreme QT prolongation. | Concomitant use is strictly contraindicated. |
+| **Amiodarone** | Warfarin | Potent CYP2C9 inhibition impairs S-warfarin clearance, causing precipitous INR elevation and fatal bleeding. | Empirically reduce warfarin dose by 30% to 50% upon initiating amiodarone; monitor INR weekly. |
+| | Digoxin | P-glycoprotein and renal clearance inhibition doubles serum digoxin concentrations. | Reduce digoxin dose by 50% upon starting amiodarone; monitor digoxin trough levels. |
+| | Statins (simvastatin, atorvastatin) | CYP3A4 inhibition elevates statin plasma concentrations, causing rhabdomyolysis. | Limit simvastatin to max 20 mg daily; consider pravastatin or rosuvastatin. |
+| | Direct Oral Anticoagulants (Dabigatran, Edoxaban) | P-glycoprotein inhibition increases DOAC exposure and bleeding risk. | Clinical vigilance; consider DOAC dose reduction per labeling. |
+| **Ibutilide / Dofetilide** | All QT-prolonging drugs (macrolides, fluoroquinolones, antipsychotics, TCAs) | Additive $I_{\text{Kr}}$ blockade dramatically escalates early afterdepolarizations and Torsades de pointes. | Concomitant use is strictly contraindicated. |
+| | Verapamil, cimetidine, ketoconazole, trimethoprim, HCTZ (for Dofetilide) | Block renal tubular cationic secretion or CYP3A4, dramatically elevating dofetilide levels. | Absolute contraindication with dofetilide. |
+| **Verapamil / Diltiazem** | Beta-blockers | Additive negative inotropy, chronotropy, and dromotropy (severe bradycardia, asystole, HF collapse). | Use together with extreme caution; avoid in patients with LV dysfunction. |
+| | Digoxin | Verapamil reduces renal and non-renal digoxin clearance, elevating levels by 50–70%. | Reduce digoxin dose by 50%; monitor levels and ECG. |
+| **Adenosine** | Dipyridamole | Blocks nucleoside transport and adenosine reuptake, potentiating adenosine duration and potency by 4-fold. | Reduce initial adenosine dose to 1–3 mg (75% dose reduction). |
+| | Methylxanthines (caffeine, theophylline, aminophylline) | Competitive antagonism at purinergic $A_1$ receptors prevents adenosine efficacy. | Higher adenosine doses (12–18 mg) or alternative agents required. |
 
-## Pure Class III Agents: Ibutilide, Dofetilide, and Vernakalant
+<span id="fig-09-10"></span>![](_page_32_Figure_2.jpeg)
 
-The effectiveness of class III antiarrhythmic drugs such as amiodarone and sotalol has prompted the development of purer class III agents. Two such drugs, ibutilide and dofetilide, are presently in clinical practice. The efficacy of ibutilide and dofetilide in the acute conversion of atrial flutter is noteworthy because prior to their introduction, other antiarrhythmics have not been found to be efficacious in the acute cardioversion of atrial flutter (AFL) or AF. Ibutilide is primarily used for acute, IV conversion of AF/AFL while dofetilide is for chronic oral therapy (Tables 9.2, 9.6). Both agents are limited by QTc prolongation and the risk of torsades (Table 9.4 and Fig. 9.5). Despite the promising efficacy of dofetilide for AF in a variety of patients with heart failure and depressed EF, its broader implementation has been limited by a requirement for hospitalization for drug initiation.
+**FIGURE 9.10** Amiodarone inhibition of atrial fibrillation and systemic multiorgan toxicities. Top: Amiodarone prolongs atrial and ventricular action potential duration and refractoriness, suppresses triggered activity, and suppresses AF drivers. Bottom: Clinical benefits must be weighed against severe organ toxicities: pulmonary toxicity (alveolitis, interstitial pneumonitis, fibrosis), thyroid dysfunction (hypothyroidism via Wolff-Chaikoff effect in 10–20%; hyperthyroidism via Jod-Basedow or destructive thyroiditis in 2–5%), corneal microdeposits (>90%), hepatic toxicity (transaminitis), photosensitivity, and slate-gray / bluish skin discoloration.
 
-#### Ibutilide
+<span id="tab-09-06"></span>
 
-**Pharmacokinetics.** Ibutilide is a methanesulfonamide derivative, which prolongs repolarization primarily by inhibition of the delayed rectifier potassium current  $(I_{\rm Kr})$ . Ibutilide has no known negative inotropic effects. It is available only as an IV preparation because it undergoes extensive first-pass metabolism when administered orally. The pharmacokinetics of ibutilide are linear and are independent of dose, age, sex, and LV function. Its extracellular distribution is extensive, and its systemic clearance is high. The elimination half-life is variable, 2 to 12 hours (mean of 6), which reflects considerable individual variation. See Table 9.3.
+### TABLE 9.6 Recommended Antiarrhythmic Drug Doses for Pharmacologic Cardioversion and Prevention of Recurrences of Atrial Fibrillation
 
-Clinical use. See Table 9.6. This drug is efficacious in the termination of atrial flutter and, to a lesser extent, AF. 70 It is at least as effective as IV amiodarone for cardioversion of AF. In patients who had persistent AF or atrial flutter, ibutilide had a conversion efficacy of 44% for a single dose and 49% for a second dose.<sup>71</sup> The mean termination time was 27 minutes after the start of the infusion. The efficacy of ibutilide in the cardioversion of atrial flutter is related to an effect on the variability of the cycle length of the tachycardia. 72 Like sotalol, ibutilide exhibits the phenomenon of reverse use dependence in that prolongation of refractoriness becomes less pronounced at higher tachycardia rates. After cardiac surgery, ibutilide has a dose-dependent effect in conversion of atrial arrhythmias with 57% conversion at a dose of 10 mg. 73 lbutilide pretreatment facilitates direct-current (DC) cardioversion of AF but must be followed with 3 to 4 hours of ECG monitoring to exclude torsades. 74
+| Class | Drug | IV or Oral Therapy for Rapid Conversion | Chronic Oral Therapy for Maintenance of Sinus Rhythm | Clinical Selection Criteria & Precautions |
+|---|---|---|---|---|
+| **Class IA** | **Procainamide** | 10–15 mg/kg IV over 30–60 min (20–50 mg/min, max 1000 mg). | 500–1000 mg PO every 4–6 h (rarely used chronic). | First-line in pre-excited AF (WPW). Stop if QRS widens $>50\%$ or BP drops. |
+| **Class IC** | **Flecainide** | 1.5–2.0 mg/kg IV over 10 min (where available); or 200–300 mg PO single dose ("pill-in-the-pocket"). | 50–150 mg PO BID (max 200 mg BID). | Structurally normal hearts only. Strictly contraindicated in CAD, post-MI, or low EF. Mandatory co-administration with AV nodal blocker. |
+| | **Propafenone** | 1.5–2.0 mg/kg IV over 10–20 min; or 450–600 mg PO single dose ("pill-in-the-pocket"). | 150–300 mg PO TID (IR) or 225–425 mg PO BID (SR). | Normal hearts only. Weak beta-blocking activity. Contraindicated in asthma, CAD, and HFrEF. |
+| **Class III** | **Ibutilide** | 1.0 mg IV over 10 min; repeat 1.0 mg once after 10 min if arrhythmia persists (0.01 mg/kg if $<60\text{ kg}$). | Not available orally (IV only). | Highly effective for atrial flutter (~ 70%) and AF (~ 50%). Inpatient ECG monitoring for $\ge 4\text{ hours}$ post-dose. Torsades risk 4–8%. |
+| | **Sotalol** | Ineffective for acute pharmacological cardioversion of AF. | 80–160 mg PO BID (dosed every 24–48 h in renal impairment). | Normal heart or stable CAD. Reverse use-dependence. In-hospital telemetry initiation for $\ge 3\text{ days}$. Contraindicated if $\text{CrCl} < 30\text{ mL/min}$ or $\text{QTc} > 450\text{ ms}$. |
+| | **Amiodarone** | 5–7 mg/kg IV over 30–60 min, then 1.2–1.8 g/day continuous infusion; or oral loading 600–800 mg/day divided. | 100–200 mg PO once daily (after loading ~ 10 g total). | Most effective agent for sinus rhythm maintenance. Drug of choice in HFrEF ($\text{LVEF} < 40\%$) and severe CAD. Low torsades risk (<1%). |
+| | **Dofetilide** | Insufficient data for rapid IV conversion; oral conversion 125–500 mcg BID. | 125–500 mcg PO BID, strictly adjusted to CrCl and QTc. | Safe in HFrEF (DIAMOND). Mandatory 3-day inpatient telemetry initiation. Absolute contraindication with verapamil, HCTZ, cimetidine, ketoconazole. |
+| | **Dronedarone** | Ineffective for rapid acute cardioversion. | 400 mg PO BID with morning and evening meals. | Non-iodinated amiodarone analogue. Safe in CAD; reduces CV hospitalizations (ATHENA). Contraindicated in NYHA II–IV HF (ANDROMEDA) and permanent AF (PALLAS). |
+| | **Vernakalant** | 3.0 mg/kg IV over 10 min; repeat 2.0 mg/kg over 10 min after 15 min if AF persists. | Not available orally (IV only). | Atrial-selective ($I_{\text{Kur}}$, $I_{\text{K,ACh}}$). Rapid conversion of recent-onset AF ($<7\text{ days}$). Minimal ventricular proarrhythmia. Contraindicated in ACS, severe AS, SBP $<100\text{ mmHg}$. |
 
-**Dose.** The recommended dose is 1 mg by IV infusion over 10 minutes. If the arrhythmia is not terminated within 10 minutes, the dose may be repeated. For patients who weigh less than 60 kg, the dose should be 0.01 mg/kg. Pretreatment with IV magnesium (2 g) prior to ibutilide administration can reduce QT prolongation during administration of the drug and may enhance efficacy. See Tables 9.2, 9.6.
+</div></details>
 
-**Side effects.** See Table 9.4. QT- and QT<sub>c</sub>-interval prolongation is a consistent feature in patients treated with Ibutilide (Fig. 9.3). QT prolongation is dose-dependent, maximal at the end of the infusion, and returns to baseline within 2 to 4 hours following infusion. To Torsades de pointes (polymorphic VT with QT prolongation) occurs in approximately 4.3% and may require cardioversion (in almost 2% of patients). Torsades tends to occur during or shortly after the infusion period (within 1 hour). Patients should be continuously monitored for at least 4 hours after the start of the ibutilide infusion. To avoid proarrhythmia, higher doses of ibutilide and rapid infusion are avoided; the drug is not given to
+<details class="med-details"><summary>
 
-those with preexisting QT prolongation (>440 milliseconds); it should be avoided in patients with advanced or unstable heart disease; and the serum K must be greater than 4 mmol/L.
+#### Systemic Toxicities and Surveillance Protocol</summary><div class="details-content">
 
-Drug interactions and combination. Theoretically, other cardiac and noncardiac drugs, which prolong the QT interval, may increase the likelihood of torsades and ibuitilide should be avoided in these patients (Table 9.4 and Fig. 9.5). Interestingly, in one study, prior therapy with sotalol or amiodarone did not appear to provoke torsades.<sup>75</sup>
+Although amiodarone has the highest efficacy for maintaining sinus rhythm and the lowest incidence of Torsades de pointes ($<1\%$) among Class III agents, its chronic clinical utility is heavily restricted by insidious multiorgan toxicities ([Fig. 9.10](#fig-09-10)):
+* **Pulmonary Toxicity:** The most lethal adverse effect, occurring in 1% to 5% of patients (mortality ~ 10% upon diagnosis). Manifests as subacute cough, progressive exertional dyspnea, non-productive cough, and patchy interstitial infiltrates on chest imaging. Driven by direct phospholipidosis and T-cell-mediated hypersensitivity pneumonitis. Requires immediate drug cessation and high-dose corticosteroid therapy (prednisone 40–60 mg daily tapered over months).
+* **Thyroid Dysfunction:** Each 200-mg tablet contains 75 mg of organic iodine, releasing approximately 6 mg of free inorganic iodine daily (normal daily dietary requirement: 0.15 mg):
+  - **Amiodarone-Induced Hypothyroidism (AIH):** Occurs in 10% to 20% of patients, mediated by the Wolff-Chaikoff effect (inability of diseased thyroid tissue to escape iodine-induced organification blockade). Treated with oral levothyroxine without requiring amiodarone cessation.
+  - **Amiodarone-Induced Thyrotoxicosis (AIT):** Occurs in 2% to 5% of patients:
+    - *Type 1 AIT:* Iodine-induced hyperthyroidism in patients with underlying latent multinodular goiter or Graves' disease (Jod-Basedow phenomenon); treated with high-dose thionamides (methimazole) and potassium perchlorate.
+    - *Type 2 AIT:* Destructive chemical thyroiditis causing massive leakage of preformed thyroid hormones in previously normal glands; treated with oral corticosteroids.
+* **Hepatotoxicity:** Asymptomatic 2- to 3-fold transaminase elevations occur in 15% to 30% of patients. True cirrhosis, hepatitis, or acute hepatic failure is rare ($<1\%$).
+* **Ocular Effects:** Corneal microdeposits (keratopathy) occur in $>90\%$ of patients within 6 months, typically asymptomatic or causing mild colored halos around lights at night. Optic neuropathy / neuritis, leading to progressive visual field defects and blindness, is a rare ($<0.5\%$) idiosyncratic reaction mandating immediate drug discontinuation.
+* **Dermatologic Effects:** Photosensitivity with severe sunburns occurs in up to 10% to 20%. Chronic accumulation produces slate-gray or blue-gray facial discoloration ("smurf syndrome").
+* **Recommended Monitoring Schedule:**
+  - Baseline: 12-lead ECG, chest X-ray, pulmonary function tests (with DLCO), liver function tests, thyroid function panel (TSH, free $T_4$).
+  - Every 6 months: 12-lead ECG, TSH, free $T_4$, AST, ALT.
+  - Annually: Chest X-ray, clinical pulmonary examination.
 
-## Dofetilide
+</div></details>
 
-Pharmacokinetics. Like ibutilide, dofetilide (Tikosyn) is a methanesulfonamide drug. Dofetilide prolongs the APD and QTc in a concentration-related manner (Table 9.3). Dofetilide exerts its effect solely by inhibition of the rapid component of the delayed rectifier potassium current IKr. Like ibutilide and sotalol, dofetilide exhibits the phenomenon of reverse use dependence. Antiarrhythmic agents that exhibit reverse use dependence are more efficacious at preventing a tachyarrhythmia than converting someone into normal sinus rhythm. However, it also means that at low heart rates, class III antiarrhythmic agents may paradoxically be more arrhythmogenic. Dofetilide has mild negative chronotropic effects, is devoid of negative inotropic activity, and may be mildly, positively inotropic. Whereas ibutilide is given only intravenously, dofetilide is given only orally. After oral administration, dofetilide is almost completely (92% to 96%) absorbed and mean maximal plasma concentrations are achieved roughly 2.5 hours after administration. Twice-daily administration of oral dofetilide results in steady state within 48 hours. Fifty percent of the drug is excreted through the kidneys unchanged and there are no active metabolites.
+</div></details>
 
-Clinical use. Dofetilide has good efficacy in the cardioversion of AF<sup>76</sup> and is even more effective in the cardioversion of atrial flutter (Table 9.6 and Fig. 9.7). Indications include cardioversion of persistent AF or atrial flutter to normal sinus rhythm in patients in whom cardioversion by electrical means is not appropriate and in whom the duration of the arrhythmic episode is less than 6 months, and maintenance of sinus rhythm (after conversion) in patients with persistent AF or atrial flutter (Fig. 9.7). Because dofetilide can cause ventricular arrhythmias, it should be reserved for patients in whom AF and atrial flutter is highly symptomatic and in whom other antiarrhythmic therapy is not appropriate. In addition, dofetilide may also be active against ventricular arrhythmias although it was not approved for this purpose. Dofetilide decreases the VF threshold in patients undergoing defibrillation testing prior to ICD implantation, and suppresses the inducibility of VT. Dofetilide is as effective as sotalol against inducible VT, with fewer side effects.  $^{77}$  In patients with depressed LV function both with and without a history of MI,  $^{78}$  dofetilide has a neutral effect on mortality. Therefore, like amiodarone, dofetilide may be administered in patients with heart failure, cardiomyopathy with depressed ejection fraction, and coronary disease.
+<details class="med-details"><summary>
 
-**Dose.** See Tables 9.2, 9.6. The dose must be individualized by the calculated creatinine clearance and the  $QT_c$ . Furthermore, patients must be admitted to hospital for a minimum of 3 days for initiation of the drug for continuous ECG monitoring to detect and manage any serious ventricular arrhythmias. Torsades de pointes most commonly occurs within the first 3 days after initiation. For patients with creatinine clearance of >60 mL/min, the dose is started at 500 μg BID. For 40–60 mL/min, the dose is 250 μg BID. For 20–39 mL/min, the dose is 125 μg BID and <20 mL/min use is contraindicated. If the increase in the  $QT_c$  is more than 15%, or if the  $QT_c$  is more than 500 milliseconds, the dose of dofetilide should be reduced. ECG to measure QTc should be performed at baseline and 2–3 hours after each dose.
+### 6.3 Sotalol</summary><div class="details-content">
 
-**Side effects.** The major significant adverse effect is torsades de pointes in 3% of patients. <sup>78</sup> The risk of torsades de pointes can be reduced by normal serum potassium and magnesium levels, and by avoiding the drug (or reducing its dosage according to the manufacturer's algorithm) in patients with abnormal renal function, or with bradycardia, or with baseline QT prolongation (QT<sub>c</sub> should be less than 440 milliseconds). <sup>78</sup> Eighty percent of torsades events occur within the first 3 days of therapy. Headache is the other main side effect occurring in about 10% of patients.
+<details class="med-details"><summary>
 
-**Drug interactions and combination.** See Table 9.4. Drugs that increase levels of dofetilide should not be coadministered. These include ketoconazole and other inhibitors of cytochrome CYP 3A4, including macrolide antibiotics, fluoroquinolone antibiotics, protease inhibitors such as the antiviral agent ritonavir, verapamil, and cimetidine. Coadministration of drugs that prolong QTc should be avoided (see Fig. 9.5). Check for QT<sub>c</sub> prolongation in scenarios prone to hypokalemia, such as with diuretics or chronic diarrhea. Dofetilide may be cautiously given in combination with β-blockers but care must be taken to avoid bradycardia which can increase the risk of torsades. Diltiazem can increase dofetilide levels but can be used cautiously. Verapamil has a significant interaction and should be avoided completely.
+#### Racemic Stereochemistry and the SWORD Trial Tragedy</summary><div class="details-content">
 
-#### Vernakalant
+Clinical sotalol is a 50:50 racemic mixture of $d$- and $l$-stereoisomers:
+* $l$-sotalol possesses potent non-selective beta-blocking (Class II) activity and Class III potassium channel blocking activity.
+* $d$-sotalol possesses identical Class III $I_{\text{Kr}}$ blocking potency with virtually zero beta-adrenoceptor antagonism.
+* **The SWORD Trial (Survival With Oral $d$-Sotalol):** Conducted in post-MI patients with left ventricular systolic dysfunction ($\text{LVEF} \le 40\%$). The trial was stopped prematurely because $d$-sotalol increased total mortality by 65% (relative risk 1.65, $p = 0.006$) driven by fatal arrhythmic deaths from Torsades de pointes. This landmark trial proved that pure Class III repolarization prolongation in ischemic/failing myocardium without protective beta-blockade is highly lethal.
 
- $\mbox{\it Pharmacokinetics.}$  Vernakalant blocks the  $I_{Kr}$  current just like other class III agents, but it is more selective for the ultra-rapid
+</div></details>
 
-IKur current, which is much more selective for the atrium versus ventricular tissue (Figs. 9.1, 9.11). It also blocks another potassium current IKAch, which is also selective for the atrium (Fig. 9.11). The agent also blocks the Ito which is the transient outward potassium current, but the blockade occurs more as the heart rate increases. Therefore, unlike dofetilide, ibutilide, and sotalol, vernakalant does not demonstrate reverse use dependence. In other words, it is most potent when the heart rates are high versus low. Vernakalant also is a weak INa blocker, which is also more potent at higher rates, as with the class IC agents (which show use dependence). However, the INa blockade is relatively weak compared to the potassium channel blockade. QT prolongation is not a major feature of vernakalant in contrast to other class III agents. The drug has a short half-life (3.1 hours) and is metabolized mainly through CYP2D6. It is not protein bound. Because of its very short half-life, it is only administered intravenously for acute termination of atrial arrhythmias.
+<details class="med-details"><summary>
 
-Clinical use. The main use of vernakalant is for acute pharmacologic cardioversion of AF and/or atrial flutter.
+#### Reverse Use-Dependence and In-Hospital Telemetry Initiation</summary><div class="details-content">
 
-Dose. The dose is given as an initial bolus of 3 mg/kg over 10 minutes. If sinus rhythm does not occur after 15 minutes, a second dose of 2 mg/kg over 10 minutes may be given. No more than 5 mg/kg should be given within 24 hours.
+* **Reverse Use-Dependence:** Sotalol's $I_{\text{Kr}}$ blockade is most potent at slow heart rates and progressively weaker at rapid heart rates. This creates a critical therapeutic paradox: the drug is least effective during tachycardia (when rhythm suppression is needed) and most prone to prolonging the QT interval and inducing early afterdepolarizations during bradycardia, pauses, or post-conversion sinus rhythm.
+* **Pharmacokinetics and Excretion:** 100% hydrophilic, 0% plasma protein binding, 0% hepatic metabolism. Excreted entirely unchanged by the kidneys ($t_{1/2} \approx 12\text{ hours}$). Clearance correlates linearly with creatinine clearance.
+* **In-Hospital Initiation Protocol:**
+  - Sotalol initiation requires mandatory in-hospital cardiac telemetry for a minimum of 3 days (5 consecutive doses).
+  - Baseline QTc must be $<450\text{ ms}$; baseline $\text{CrCl}$ must be $>40\text{ mL/min}$ (contraindicated if $\text{CrCl} < 30\text{ mL/min}$).
+  - Measure 12-lead ECG 2 to 4 hours post-dose (at peak plasma concentration).
+  - If QTc exceeds $500\text{ ms}$ (or increases by $>15\%$ or $60\text{ ms}$ over baseline), the dose must be reduced (e.g. from 120 mg BID to 80 mg BID). If QTc remains $>500\text{ ms}$, sotalol must be immediately discontinued.
 
-Side effects. Hypotension may occur with the infusion—if the drop is sudden and/or symptomatic, the infusion should be stopped. Hypotension occurs in 4%–13% of patients. Abnormal taste may occur in about 10%–20% of patients. Sneezing can occur in 10%–15% of patients. The drug should be avoided in patients with a prolonged QT or significant bradycardia or decompensated heart failure.
+</div></details>
 
-Drug interactions and combination. The drug should be avoided in combination with any drug that can prolong the QT interval (Fig. 9.5).
+</div></details>
 
-## Class IV Agents
+<details class="med-details"><summary>
 
-Class IV agents are calcium channel blockers. They have been used extensively in a number of areas including for hypertension, management of angina, and, of course, the management of arrhythmias. The dihydropyridine calcium channel blockers, like nifedipine and amlodipine, have more vascular selectivity and less direct cardiac effects, so they are generally used in the management of hypertension and do not play a major role in arrhythmias. The nondihydropyridine agents, like diltiazem and verapamil, are more cardioselective and are the main agents utilized for arrhythmia management (Table 9.5). While amlodipine has demonstrated neutral safety in patients with heart failure, the nondihydropyridine
+### 6.4 Dronedarone</summary><div class="details-content">
 
-![](_page_47_Figure_1.jpeg)
+Dronedarone is a synthetic benzofuran congener of amiodarone modified by the addition of a methylsulfonyl group and removal of the two iodine moieties:
+* **Rationale:** Developed to eliminate the severe pulmonary, thyroid, and ocular toxicities of amiodarone, with a substantially shorter elimination half-life (24 to 30 hours) and lower lipophilicity.
+* **Clinical Trial Outcomes:**
+  - **ATHENA Trial:** In patients with paroxysmal or persistent AF and cardiovascular risk factors, dronedarone (400 mg PO BID) significantly reduced cardiovascular hospitalizations and cardiovascular mortality (hazard ratio 0.76, $p < 0.001$).
+  - **ANDROMEDA Trial:** In patients with symptomatic NYHA Class II–IV heart failure and reduced ejection fraction, dronedarone doubled all-cause mortality (hazard ratio 2.13, $p = 0.03$) driven by worsening heart failure.
+  - **PALLAS Trial:** In patients with permanent AF, dronedarone doubled cardiovascular death, stroke, and heart failure hospitalizations.
+* **Black Box Contraindications:**
+  1. NYHA Class II–IV heart failure or recent decompensation requiring hospitalization within the past 4 weeks.
+  2. Permanent atrial fibrillation in which normal sinus rhythm is not to be restored.
+* **Serum Creatinine Elevation:** Dronedarone causes a benign, reversible 10% to 15% increase in serum creatinine within 1 to 2 weeks by competitively inhibiting renal tubular cationic transporters (OCT2/MATE1) without altering true glomerular filtration rate (GFR).
 
-**Fig. 9.11 Atrial-selective currents in humans.** Current antiarrhythmics for atrial arrhythmias nonselectively target channels that are present in both atrial and ventricular myocardial cells. The result is that while agents may be very effective in controlling atrial arrhythmias, they also carry the risk of ventricular proarrhythmia (e.g., dofetilide, flecainide). Targeting channels/currents that are present predominantly in atrial tissue offers an opportunity to design atrial-selective antiarrhythmics that may not have the risk of ventricular proarrhythmia. Vernakalant, for example, targets both  $I_{kur}$  and  $I_{kAch}$ , which are both found predominantly in atrial tissue. There are also differences in atrial repolarization between atrial and ventricular tissue that could be exploited.  $I_{Na}$  also differs in atrial and ventricular tissue and if blockade of this channel can occur preferentially in the activated state, such as during atrial fibrillation, it could be an ideal antiarrhythmic agent. I, current;  $C_a$ , calcium;  $K_{Ach}$ , acetylcholine activated inward-rectifying potassium channel (atrial selective);  $K_n$ , rapid component of repolarizing potassium current;  $K_{ur}$  ultra-rapid repolarizing potassium current (atrial selective);  $K_s$ , slow component;  $K_d$  inward rectifier potassium current; TASK, TWIK-related acid sensitive potassium channels; Na, sodium; nSR, normal sinus rhythm;  $t_n$ , transient outward.
+</div></details>
 
-agents should generally be avoided in patients with significant left ventricular dysfunction.
+</div></details>
 
-Pharmacokinetics. Calcium channel blockers mainly affect myocardial cells that are driven by slow action potentials mediated by calcium currents as opposed to cells that have faster action potentials driven by sodium currents. Generally, the SA and AV nodes depend more on calcium currents, so the class IV agents preferentially have their effects on these areas. In the setting of AMI/ ischemia, diseased ventricular myocardium and Purkinje fibers may develop slower action potentials that are more sensitive to calcium channel blockade. Like class I agents, these agents demonstrate use dependence, which means these agents have a more pronounced effect at higher rather than slower heart rates.
+<details class="med-details"><summary>
 
-Clinical use. Because verapamil and diltiazem slow the responses in both the SA and AV nodes, the medications are used mostly for management of supraventricular tachycardias that require the AV node for reentry (AV nodal reentrant tachycardia, AV reentrant tachycardia) or for rate control of atrial arrhythmias like AF, atrial flutter, and atrial tachycardia (Table 9.5). They are also particularly effective for treatment of multifocal atrial tachycardia that occurs in the setting of chronic obstructive lung disease. They can effectively rate control this arrhythmia without worsening bronchospasm, which may occur with β-blockers. Calcium channel blockers can be administered both orally—for chronic management—but also intravenously for acute management. These agents should be avoided in preexcited AF because by blocking the AV node selectively, they can create faster ventricular conduction as the arrhythmia preferentially conducts down the accessory pathway (Fig. 9.4). This may even precipitate ventricular fibrillation.
+## 7. Pure Class III Agents: Ibutilide, Dofetilide, and Vernakalant</summary><div class="details-content">
 
-Class IV agents are considered contraindicated for ventricular arrhythmias because they cause myocardial depression and peripheral vasodilation, which can be fatal when given to patients with VT. Although class IV agents should be avoided in VT patients, there are four notable exceptions: they may be effective for ventricular arrhythmias precipitated by coronary vasospasm; they can be used to treat catecholaminergic VT due to mutations in the ryanodine receptor RyR2; they can suppress frequent PVCs and nonsustained VT in patients with VT and structurally normal hearts (like right ventricular outflow tract VT); and they may be effective in fascicular VTs or Belhassen tachycardia, which is characterized by a right bundle branch block VT with left axis deviation. The latter is sometimes referred to as "verapamil-sensitive VT."
+Pure Class III antiarrhythmic agents exert their primary electrophysiological effect through potent, selective inhibition of repolarizing potassium channels without ancillary beta-blocking, calcium-blocking, or sodium-channel-depressing actions.
 
-Dose. See Table 9.5. Sustained-release verapamil can be given at a starting dose of 120 mg daily and increased in 120 mg increments to 360 mg daily. IV verapamil is not widely available but can be given as a 0.075–0.115 mg/kg bolus over 2 minutes followed by a continuous infusion at 5 mg/hour. Short-acting diltiazem can be given starting at 30 mg QID and increased until a total of 90 mg TID. Long-acting diltiazem is dosed starting at 120–180 mg once daily and increased in increments to 360– 480 mg daily. IV diltiazem is widely available and is bolused at 0.25 mg/kg over 2 minutes (usually 20 mg), which can be repeated after 15 minutes and then a continuous infusion at 5–15 mg/hour.
+<details class="med-details"><summary>
 
-Side effects. The main side effect of the calcium channel blockers is associated hypotension, which occurs, in up to 5% of patients. Heart block and sinus bradycardia can also occur so class IV agents should be avoided in patients with a history of significant bradycardia. Constipation occurs in about 5% and peripheral edema can occur in 5%–15%, although it is usually much less common than with the dihydropyridine agents. Verapamil specifically can cause gingival hyperplasia in about 15% of patients, and dyspepsia is more common compared to other calcium channel blockers.
+### 7.1 Selective IKr Blockade and Proarrhythmia Risk</summary><div class="details-content">
 
-Drug interactions and combination. See Table 9.4. Diltiazem should be avoided in the presence of strong inhibitors of CYP3A4. It can increase dofetilide levels but can be used cautiously. Verapamil has a number of important drug interactions, and administration of this drug should always be cross-checked with other medications. Verapamil inhibits CYP3A4 and can therefore increase the serum levels of many drugs. It also inhibits the pglycoprotein pathway and therefore increases drugs metabolized by this route too. In particular, antiseizure medications, colchicine, dofetilide, dabigatran, edoxaban can all have increased serum levels with verapamil and should generally be avoided.
+* **Mechanism:** Selective blockade of the rapid component of the delayed rectifier potassium current ($I_{\text{Kr}}$), mediated by the hERG (*KCNH2*) channel.
+* **Action Potential Impact:** Exclusively prolongs Phase 3 repolarization, producing homogeneous lengthening of the ventricular action potential duration (APD) and effective refractory period (ERP) without altering Phase 0 upstroke velocity ($dV/dt_{\text{max}}$) or resting membrane potential.
+* **The Proarrhythmic Substrate:** Exaggerated repolarization delay facilitates window calcium influx through L-type calcium channels and ${\rm Na}^+/{\rm Ca}^{2+}$ exchanger activation during Phase 2 and 3, initiating early afterdepolarizations (EADs). If EADs reach threshold, triggered activity initiates polymorphic ventricular tachycardia (Torsades de pointes: [Fig. 9.3](#fig-09-03), [Fig. 9.5](#fig-09-05)).
 
-## Class V Agents: Adenosine
+</div></details>
 
-## Adenosine
+<details class="med-details"><summary>
 
-Pharmacokinetics. Adenosine binds the adenosine receptor (especially A1), which inhibits adenylyl cyclase, reduces intracellular cAMP, and increases potassium influx via the adenosine-sensitive inward rectifier potassium channel. This inhibits the calcium current, which selectively occurs in both SA and AV myocytes (Fig. 9.12). Therefore, adenosine is a profound AV nodal blocker. It has a very short half-life, however, which is less than 10 seconds. It also causes vasodilation, in particular of the coronary arteries, which can cause coronary steal and chest pain. It is why adenosine is sometime used for chemical myocardial stress testing.
+### 7.2 Ibutilide</summary><div class="details-content">
 
-Clinical use. It is a first-line agent for terminating narrow complex PSVTs.<sup>79</sup> By inhibiting the AV node, it can terminate supraventricular tachycardias that are dependent on the AV node,
+<details class="med-details"><summary>
 
-#### ADENOSINE INHIBITION OF AV NODE
+#### Acute Cardioversion Protocol for Atrial Flutter and AF</summary><div class="details-content">
 
-![](_page_50_Figure_2.jpeg)
+* **Dual Electrophysiological Action:** Combines potent $I_{\text{Kr}}$ blockade with activation of a slow inward sodium current, accelerating repolarization delay.
+* **Clinical Efficacy:**
+  - Atrial Flutter: Conversion rates of 60% to 75% within 30 to 90 minutes of infusion (significantly superior to IV amiodarone, flecainide, or sotalol).
+  - Atrial Fibrillation: Conversion rates of 40% to 50% for recent-onset AF ($<90\text{ days}$).
+  - Facilitation of Electrical Cardioversion: Ibutilide significantly lowers transthoracic electrical defibrillation energy thresholds and prevents immediate subacute AF recurrence following electrical shock.
+* **Dosing Protocol ([Table 9.6](#tab-09-06)):**
+  - Patients $\ge 60\text{ kg}$: 1.0 mg IV diluted in 50 mL saline/dextrose infused over 10 minutes.
+  - Patients $<60\text{ kg}$: 0.01 mg/kg IV over 10 minutes.
+  - If the arrhythmia has not terminated within 10 minutes after completion of the first infusion, a second identical dose of 1.0 mg (or 0.01 mg/kg) is administered over 10 minutes.
+  - Stop infusion immediately upon conversion to sinus rhythm or ventricular proarrhythmia.
 
-Fig. 9.12 Adenosine inhibits the atrioventricular (AV) node by effects on ion channels. Adenosine acting on the adenosine 1  $(A_{\mathcal{I}})$  surface receptor opens the adenosine-sensitive potassium channel to hyperpolarize and inhibit the AV node and also indirectly to inhibit calcium channel opening. AC, Adenylate cyclase; AMP, adenosine monophosphate;  $\beta$ ,  $\beta$ -Adrenoreceptor; G, G protein, nonspecific;  $G_{i}$ , inhibitory G protein;  $G_{s}$ , stimulatory G protein. (Figure © L.H. Opie, 2012.)
+</div></details>
 
-such as AV nodal reentrant tachycardia and AV reentrant tachycardia (Fig. 9.9). By causing heart block, it can also be useful for the diagnosis of atrial flutter to bring out the flutter waves that are not obviously seen when the ventricular rate is also rapid. It is also used in the diagnosis of wide-complex tachycardia of uncertain origin. Supraventricular tachycardia with aberrancy may terminate if it is AV node dependent, or block may help bring out underlying flutter waves. Ventricular tachycardia, on the other hand, will not be affected. Since the half-life is so short, there is no adverse hemodynamic compromise as would be caused by the class IV agents. In the electrophysiology lab, adenosine can be administered to bring out subtle or latent preexcitation by blocking conduction through the AV node and forcing it through the antegrade accessory pathway. Adenosine is also used to reveal concealed pulmonary vein
+<details class="med-details"><summary>
 
-conduction in an otherwise "isolated" pulmonary vein as a means of testing the completeness of pulmonary vein isolation for AF ablation.
+#### Safety, Monitoring, and Management of Torsades</summary><div class="details-content">
 
-Dose. Adenosine is given as an initial rapid IV bolus of 6 mg followed by a saline flush to obtain high concentrations in the heart.79 If it does not work within 1 to 2 minutes, a 12-mg bolus is given that may be repeated once. At the appropriate dose, the antiarrhythmic effect occurs as soon as the drug reaches the AV node, usually within 15 to 30 seconds. The initial dose needs to be reduced to 3 mg or less in patients taking verapamil, diltiazem, or β-blockers or dipyridamole, or in older adults at risk of sick sinus syndrome. Boluses of 18–24 mg can be given if heart block, or the desired effect is not noted with the smaller doses.
+* **Torsades de Pointes Incidence:** Occurs in 4% to 8% of treated patients (sustained and requiring DC cardioversion in ~ 2%). Over 90% of proarrhythmic episodes occur within 40 minutes of beginning the infusion.
+* **Mandatory Safety Protocols:**
+  1. Continuous ECG telemetry monitoring with a defibrillator at the bedside for a minimum of 4 hours following completion of the infusion.
+  2. Baseline QTc must be $<440\text{ ms}$.
+  3. Pre-treatment serum potassium must be corrected to $>4.0\text{ mEq/L}$ and serum magnesium to $>2.0\text{ mg/dL}$.
+  4. Prompt treatment of polymorphic VT: Immediate defibrillation/cardioversion if sustained; 1–2 g IV magnesium sulfate bolus over 1–2 minutes.
 
-Side effects. Side effects ascribed to the effect of adenosine on the potassium channel are short lived, such as headache (via vasodilation), chest discomfort, flushing, nausea, and excess sinus or AV nodal inhibition. The precipitation of bronchoconstriction in asthmatic patients is of unknown mechanism and can last for 30 minutes. Transient new arrhythmias can occur at the time of chemical cardioversion. Because of abbreviating effects on atrial and ventricular refractoriness, adenosine may cause a range of proarrhythmic consequences, including atrial and ventricular ectopy, and degeneration of atrial flutter or PSVT into AF. Contraindications are as follows: asthma or history of asthma, second- or third-degree AV block, and sick sinus syndrome.
+</div></details>
 
-Drug interactions and combination. Dipyridamole inhibits the breakdown of adenosine, and therefore the dose of adenosine must be markedly reduced in patients receiving dipyridamole. Methylxanthines (caffeine, theophylline) competitively antagonize the interaction of adenosine with its receptors, so that it becomes less effective. See Table 9.4.
+</div></details>
 
-## Other Agents
+<details class="med-details"><summary>
 
-## Ivabradine
+### 7.3 Dofetilide</summary><div class="details-content">
 
-Phamacokinetics. Ivabradine is a selective inhibitor of the If current, which is a current that modulates the slow depolarization phase of the action potential in the SA node (see Fig. 9.13 for details).
+<details class="med-details"><summary>
 
-Clinical use. The drug was initially studied for the treatment of patients with heart failure and reduced EF with persistently elevated heart rates. The SHIFT trial showed that in patients with an EF <35% and a sinus rate >70 bpm, ivabradine was associated with a significant reduction in the composite of cardiovascular death and heart failure hospitalization.<sup>81</sup> Death was also significantly reduced.
+#### Pure IKr Inhibition and the DIAMOND Trials</summary><div class="details-content">
 
-![](_page_52_Figure_1.jpeg)
+* **Purest Class III Profile:** Dofetilide is a methanesulfonamide that acts solely by blocking $I_{\text{Kr}}$, with zero beta-blockade, zero sodium-channel inhibition, and zero negative inotropy.
+* **DIAMOND-CHF and DIAMOND-MI Trials:** Confirmed that dofetilide had **neutral all-cause mortality** in patients with severe systolic heart failure (NYHA Class III–IV, $\text{LVEF} \le 35\%$) and in post-MI patients with low EF, while successfully restoring and maintaining sinus rhythm and significantly reducing heart failure hospitalizations.
 
-Fig. 9.13 Funny current and blockade by ivabradine. The funny current (If) is a mixed sodium–potassium current that activates during phase IV of the action potential in sinoatrial cells (top panel). At the end of a sinoatrial action potential, the membrane repolarizes and then activates the If, which supplies inward current. This, in turn, is responsible for starting the diastolic depolarization phase, which is then mediated by calcium currents (ICaT and ICaL). The potassium current (IK) then causes repolarization. Ivabradine blocks the If current and therefore delays phase IV depolarization in sinoatrial cells, therefore selectively lowering the sinus rate (bottom panel).
+</div></details>
 
-Because of its selectivity for the SA node, the main arrhythmic application is for inappropriate sinus tachycardia. As it turns out, it is particularly effective for this indication.
+<details class="med-details"><summary>
 
-Dose. Ivabradine is dosed at 5–7.5 mg BID orally
+#### Strict In-Hospital Initiation Protocol and Renal Dosing</summary><div class="details-content">
 
-Side effects. The main adverse reaction is that of bradycardia, which occurs in 5%–10% of patients. There is also a small increase in the risk of AF (5%–8%). Visual scotomata (such as seeing flashing light) can also occur in 3% of patients supposedly due to blocked of hyperpolarization channels in the photoreceptors of the retina. These changes are not permanent and resolve upon discontinuation of the drug.
+Because dofetilide carries a 1% to 3% risk of Torsades de pointes, initiation is strictly regulated by dedicated inpatient risk-mitigation programs:
+* **Mandatory Inpatient Telemetry:** Hospitalization for a minimum of 3 days (5 consecutive doses) with continuous rhythm monitoring and creatinine clearance monitoring.
+* **Dose Stratification by Creatinine Clearance (Cockcroft-Gault):**
+  - $\text{CrCl} > 60\text{ mL/min}$: 500 mcg orally BID.
+  - $\text{CrCl } 40\text{--}60\text{ mL/min}$: 250 mcg orally BID.
+  - $\text{CrCl } 20\text{--}40\text{ mL/min}$: 125 mcg orally BID.
+  - $\text{CrCl} < 20\text{ mL/min}$: **Strictly contraindicated**.
+* **Electrocardiographic Dose Titration:**
+  - Measure 12-lead ECG 2 to 3 hours after each of the first 5 doses.
+  - If baseline QTc is $>440\text{ ms}$ ($>500\text{ ms}$ with bundle branch block): Dofetilide is contraindicated.
+  - If QTc increases by $>15\%$ or exceeds $500\text{ ms}$ ($550\text{ ms}$ with ventricular conduction delay) after any dose:
+    - If taking 500 mcg BID, reduce to 250 mcg BID.
+    - If taking 250 mcg BID, reduce to 125 mcg BID.
+    - If taking 125 mcg BID and QTc exceeds $500\text{ ms}$, dofetilide must be permanently discontinued.
+* **Contraindicated Medications ([Table 9.4](#tab-09-04)):** Co-administration is absolutely contraindicated with verapamil, cimetidine, hydrochlorothiazide, trimethoprim, ketoconazole, itraconazole, prochlorperazine, and megestrol.
 
-Drug interactions and combination. These drugs can potentiate the sinus bradycardia effect of class II or IV agents. While ivabradine can be used in combination with class II and IV agents, it should be done cautiously and only in cases of refractory inappropriate sinus tachycardia. Patients in the SHIFT trial with heart failure were often cotreated with both ivabradine and βblockade.
+</div></details>
 
-## Intravenous magnesium
+</div></details>
 
-IV magnesium weakly blocks the calcium channel and also inhibits both sodium and potassium channels. The relative importance of these mechanisms is unknown. It can be used to slow the ventricular rate in AF but is poor at terminating PSVTs. It may be the agent of choice in torsades de pointes by helping to shorten the QT interval. It has an additional use in refractory VF, which is resistant to combination antiarrhythmic therapy. It is usually given intravenously 1–2 g over 15 minutes. A continuous infusion can be maintained at 0.5–1.0 g/hour. The main side effect is muscle relaxation, particularly in patients with myasthenia gravis and also hypotension.
+<details class="med-details"><summary>
 
-## Inhaled Agents
+### 7.4 Vernakalant</summary><div class="details-content">
 
-Because of the ability to rapidly absorb certain antiarrhythmic compounds through the intranasal or intraoral inhaled routes and obtain therapeutic serum levels quickly, interest has increased over the use of inhaled preparations for acute termination of arrhythmias. Nasally inhaled etripamil, a calcium channel blocker, demonstrated high termination rates of PSVT dependent on the AV node. In one phase II study,<sup>82</sup> termination rates of SVT were between 65%–94% of patients depending on the dose given. Doses of 70–140 mg were associated with the highest conversion rate, but the highest dose had a small risk of hypotension and heart block. Ongoing phase III studies will more fully assess the efficacy and safety of this very promising approach.
+Vernakalant is an advanced multichannel antiarrhythmic designed specifically for rapid pharmacological cardioversion of atrial fibrillation, distinguished by prominent **atrial selectivity** ([Fig. 9.11](#fig-09-11)):
+* **Mechanisms of Atrial Selectivity:**
+  1. Blocks ultrarapid delayed rectifier potassium current ($I_{\text{Kur}}$), which is expressed exclusively in atrial myocytes and absent in ventricular myocardium.
+  2. Blocks acetylcholine-activated inward rectifier potassium current ($I_{\text{K,ACh}}$), also highly atrial-selective.
+  3. Frequency- and voltage-dependent blockade of peak and late sodium currents ($I_{\text{Na}}$), which is maximally pronounced at rapid atrial fibrillation rates (300–500 bpm) and minimal at physiological ventricular rates (60–100 bpm).
+* **Clinical Efficacy:** Intravenous infusion converts recent-onset AF ($<7\text{ days}$) to sinus rhythm in 50% to 60% of patients with a median time to conversion of only 11 minutes (AVRO and ACT trials, superior to IV amiodarone).
+* **Ventricular Safety:** Because $I_{\text{Kur}}$ is absent in the ventricles and ventricular $I_{\text{Kr}}$ blockade is minor, vernakalant does not significantly prolong ventricular action potential duration or QTc, yielding an exceptionally low risk of Torsades de pointes ($<0.1\%$).
+* **Dosing Protocol:** Initial IV infusion of 3.0 mg/kg over 10 minutes. If AF persists after a 15-minute observation period, a second IV infusion of 2.0 mg/kg is given over 10 minutes.
+* **Contraindications:** Systolic BP $<100\text{ mmHg}$, acute coronary syndrome within 30 days, severe aortic stenosis, and NYHA Class III–IV heart failure.
 
-Orally inhaled flecainide is also being assessed in phase II studies for acute conversion of AF. In a randomized study, 30–60 mg inhaled doses are being compared to placebo to assess conversion from AF to sinus rhythm after 240 minutes. The 60-mg dose is actually administered as two separate 30-mg doses in rapid succession to one another. QRS duration appears to be minimal, and the elimination half-life is about 10 hours.83 Further data is being collected on the potential efficacy of this approach for termination of AF episodes.
+<span id="fig-09-11"></span>![](_page_47_Figure_1.jpeg)
 
-## New Developments in Antiarrhythmics
+**FIGURE 9.11** Atrial-selective currents and pharmacological targets in human myocardium. Classical antiarrhythmics nonselectively target ion channels expressed throughout both atria and ventricles, carrying inevitable ventricular proarrhythmic risks (such as Torsades de pointes or ventricular conduction failure). In contrast, atrial-selective agents exploit channel currents present exclusively in human atria: the ultrarapid delayed rectifier potassium current ($I_{\text{Kur}}$) and the acetylcholine-activated inward rectifier current ($I_{\text{K,ACh}}$). Vernakalant selectively inhibits $I_{\text{Kur}}$ and $I_{\text{K,ACh}}$ alongside rate-dependent atrial $I_{\text{Na}}$ blockade, prolonging atrial refractoriness to terminate atrial fibrillation without ventricular APD prolongation or proarrhythmia.
 
-The development of novel antiarrhythmic agents has been very challenging. Recent accomplishments, such as dronedarone, were followed by rapid discovery of increased mortality in heart failure and chronic AF patients leading to significant restriction in the use of these agents.67,68 Many antiarrhythmics have seen their development terminated after initially promising phase I results failed to produce any clinically meaningful results in phase II or beyond (for example, azimilide, celivarone, eleclazine, and tedisamil). Two novel IKur blockers also stopped development after discovery of unforeseen toxicity (such as pulmonary toxicity). Thus, there is a natural reluctance on the part of pharmaceutical companies to actively perform research in this area despite the desperate need for more effective and safer agents. Furthermore, an explosion in nonpharmacologic therapy for arrhythmias, specifically cardiac ablation for both atrial and ventricular arrhythmias, is decreasing the need for long-term antiarrhythmic therapy.
+</div></details>
 
-Having said that, there remain many potential targets for antiarrhythmic drug therapy, many of which are well outlined in the excellent new proposed classification system by Lei et al.<sup>8</sup> The ultra-rapid delayed rectifier current (IKur) and acetylcholineactivated inward rectifier current (IKAch) are both atrial selective and could be exploited for treatment of AF with theoretically few ventricular effects (Fig. 9.11). Vernakalant is the only approved example and is only available in IV form. Several oral preparations have undergone phase I and II evaluation, although many have been abandoned due to lack of efficacy or unforeseen toxicity. The two-pore K current (IK2P) consists of K channels that are regulated by stretch, temperature, and other factors. Blockade of this would be similar to the class III effect and could cause QT prolongation. However, TASK-1 is one such channel and is atrial selective, so it could be exploited for atrial arrhythmias with little ventricular proarrhythmia (Fig. 9.11). TREK-1 is expressed in both atrial and ventricular tissue. These channels may be downregulated in heart failure and therefore, agents targeting these may not be as effective in those patients. The late Na current (INaL) can promote prolonged repolarization and development of early after depolarizations which can be proarrhythmic. Blockage of this current could be antiarrhythmic. Ranolazine blocks this current but is not a potent antiarrhythmic (see drug description). Eclazine was a more selective INaL blocker, but development was stopped because of lack of efficacy. The ryanodine receptor underlies triggered activity in both atrial and ventricular tissue. It is involved in catecholaminergic VT. Dantrolene can inhibit ryanodine receptors and is being examined for potential antiarrhythmic benefit. Small conductance calcium- activated K currents (ISK) also have predominant atrial expression and could prolong atrial effective refractory period. Transient receptor potential channels (TRP) are expressed in the heart and alter calcium influx. Inhibition of these may have direct EP effects but also inhibit fibrosis, which can promote reentry. Promotion of gap junctions via rotigaptide, inhibition of the sodium calcium exchanger (NCX), and ATP-sensitive potassium channel blockade could also reduce the risk of arrhythmogenesis. <sup>84</sup> To date, there are no new therapies that are imminently on the clinical horizon, but hope remains for the future.
+</div></details>
 
-# Antiarrhythmic Choice for Arrhythmias
+<details class="med-details"><summary>
 
-## Supraventricular Tachycardia (AV nodal reentry, AV reentry, atrial tachycardia)
+## 8. Class IV Agents: Non-Dihydropyridine Calcium Channel Blockers (Verapamil and Diltiazem)</summary><div class="details-content">
 
-Acute therapy.
+Class IV antiarrhythmic agents are non-dihydropyridine calcium channel blockers that selectively inhibit the slow inward calcium current ($I_{\text{Ca-L}}$), exerting their primary electrophysiological actions on slow-response nodal tissues (sinoatrial and atrioventricular nodes).
 
-- IV adenosine
-- IV calcium channel blocker (diltiazem, verapamil)
-- IV β-blocker (metoprolol)
+<details class="med-details"><summary>
 
-## Chronic therapy
+### 8.1 L-Type Calcium Current Inhibition in Nodal Tissues</summary><div class="details-content">
 
-- Oral calcium channel blocker (diltiazem, verapamil) (first line)
-- Oral β-blocker (bisoprolol, metoprolol, atenolol) (first line)
-- Oral class IC drugs +  $\beta$ -blocker or calcium channel blocker (second line)
-- Class III agents (last resort)
+* **Cellular Mechanisms:** Block voltage-dependent L-type calcium channels ($\text{Ca}_V1.2$, encoded by *CACNA1C*).
+* **Sinoatrial Node:** In SA nodal pacemaker cells, Phase 0 upstroke is mediated entirely by inward $I_{\text{Ca-L}}$. Class IV agents depress Phase 0 upstroke velocity, reduce Phase 4 spontaneous diastolic depolarization slope, and decrease intrinsic sinus discharge rate, exerting negative chronotropic action.
+* **Atrioventricular Node:** Conduction through the AV node depends critically on $I_{\text{Ca-L}}$. Verapamil and diltiazem prolong AV nodal conduction time (lengthening the PR interval and intracardiac AH interval) and markedly extend the AV nodal functional and effective refractory periods (negative dromotropic action).
+* **Cardioselectivity vs Dihydropyridines:** Dihydropyridine CCBs (nifedipine, amlodipine) exhibit high vascular smooth muscle selectivity and minimal cardiac nodal depression, inducing peripheral vasodilation and reflex sympathetic tachycardia. In contrast, non-dihydropyridines (verapamil, diltiazem) bind directly to the phenylalkylamine and benzothiazepine sites on cardiac $\text{Ca}_V1.2$ channels, providing potent, direct electrophysiological and negative inotropic effects.
 
-Catheter ablation now used as first-line therapy for most SVTs
+</div></details>
 
-## **Atrial Fibrillation**
+<details class="med-details"><summary>
 
-Acute conversion
+### 8.2 Verapamil: Clinical Use, Dosing, and Drug Interactions</summary><div class="details-content">
 
-- IV ibutilide
-- IV vernakalant
-- IV procainamide
-- IV amiodarone (takes longer than above-mentioned agents)
-- Oral "pill in pocket" class IC agent (flecainide, propafenone)— (takes longer than above-mentioned agents)
+* **Acute SVT Termination:** Highly effective for acute termination of paroxysmal AVNRT and orthodromic AVRT by blocking antegrade conduction through the slow or fast AV nodal pathway ([Fig. 9.9](#fig-09-09)). Dosed 0.075 to 0.15 mg/kg IV (usually 5 to 10 mg) over 2 minutes; can repeat 10 mg after 15 to 30 minutes if needed.
+* **Rate Control in AF/Flutter:** Acute and chronic ventricular rate control in atrial fibrillation and flutter in patients with preserved left ventricular systolic function. Oral immediate-release: 40 to 120 mg TID; oral sustained-release (SR): 120 to 360 mg once daily ([Table 9.5](#tab-09-05)).
+* **Idiopathic Left Ventricular Fascicular VT (Belhassen VT):** Verapamil is the specific drug of choice for acute termination and chronic oral prophylaxis of idiopathic left posterior fascicular VT (reentrant VT involving the posterior fascicle and Purkinje arborization with RBBB and left superior axis morphology).
+* **Major Drug Interactions ([Table 9.4](#tab-09-04)):**
+  - Potent inhibitor of CYP3A4 and P-glycoprotein.
+  - Doubles serum digoxin levels (reduce digoxin dose by 50%).
+  - Increases plasma concentrations of dofetilide, dabigatran, edoxaban, colchicine, and statins.
+  - Severe additive myocardial and nodal depression when combined with oral or IV beta-blockers.
 
-Electrical cardioversion can be used as an alternative, particularly when there is hemodynamic instability.
+</div></details>
 
-#### Acute rate control
+<details class="med-details"><summary>
 
-- IV calcium channel blocker (should be normal LV)
-- IV β-blocker
+### 8.3 Diltiazem: Acute and Chronic Rate Control</summary><div class="details-content">
 
-- IV amiodarone
-- IV digoxin (particularly for decompensated heart failure)
+* **Clinical Preference:** Diltiazem is widely preferred over verapamil for acute rate control of atrial fibrillation and atrial flutter in emergency departments and intensive care units due to slightly less negative inotropy and ease of continuous IV titration.
+* **Intravenous Dosing Protocol ([Table 9.5](#tab-09-05)):**
+  - Initial bolus: 0.25 mg/kg IV (typically 15 to 20 mg) administered over 2 minutes.
+  - Second bolus: If rate control is inadequate after 15 minutes, a second bolus of 0.35 mg/kg IV (typically 25 mg) is administered over 2 minutes.
+  - Continuous maintenance infusion: 5 to 15 mg/hour, titrated to achieve target resting heart rate $<100\text{--}110\text{ bpm}$.
+* **Oral Maintenance Dosing:** 30 to 90 mg orally QID (immediate-release) or 120 to 360 mg once daily (extended-release CD/XR formulations).
 
-Chronic maintenance of sinus rhythm
+</div></details>
 
-#### Normal heart function, no coronary disease
+<details class="med-details"><summary>
 
-- Flecainide + β-blocker or calcium channel blocker
-- Propafenone + β-blocker or calcium channel blocker
-- Sotalol
-- Dronedarone
-- Dofetilide, amiodarone (second line agents when others fail)
+### 8.4 Major Contraindications: HFrEF, Pre-Excited AF, and Wide-Complex Tachycardia</summary><div class="details-content">
 
-## Normal heart function, coronary disease
+Administration of non-dihydropyridine CCBs is strictly contraindicated in three critical clinical scenarios:
+1. **Heart Failure with Reduced Ejection Fraction (HFrEF, $\text{LVEF} < 40\%$):** Due to potent negative inotropic properties, verapamil and diltiazem can precipitate acute cardiogenic shock, worsening pulmonary edema, and cardiovascular collapse.
+2. **Pre-Excited Atrial Fibrillation (WPW + AF):** Administration of verapamil or diltiazem selectively blocks the AV node, funnels all fibrillatory impulses down the non-decremental accessory pathway, precipitates ventricular rates $>300\text{ bpm}$, and triggers fatal ventricular fibrillation ([Fig. 9.4](#fig-09-04)).
+3. **Wide-Complex Tachycardia of Unknown Etiology:** Verapamil or diltiazem administered to patients with sustained ventricular tachycardia misdiagnosed as SVT causes rapid hemodynamic collapse, cardiac arrest, and death due to vasodilation combined with severe negative inotropy in ischemic myocardium.
 
-- Sotalol
-- Dronedarone
-- Dofetilide, amiodarone (second line agents when others fail) Hypertrophic cardiomyopathy
-- Dofetilide
-- Amiodarone
-- Sotalol (may be used with caution, especially if patient has ICD)
+</div></details>
 
-Heart failure, left ventricular dysfunction (may be used in selected heart failure/LV dysfunction patients with ICD)
+</div></details>
 
-- Dofetilide
-- Amiodarone
 
-Increasingly catheter ablation is being used to avoid second line antiarrhythmics, like amiodarone, and even being used increasingly in heart failure patients.
+<details class="med-details"><summary>
 
-#### Chronic rate control
+## 9. Class V and Ancillary Antiarrhythmic Agents: Adenosine, Ivabradine, Magnesium, and Digitalis</summary><div class="details-content">
 
-- Oral calcium channel blocker (should be normal LV)
-- Oral β-blocker
-- Combination calcium channel blocker + β-blocker
-- Oral digoxin (not effective as monotherapy, ideal for heart failure)
-- Oral amiodarone (very effective, but limited by side effects)
+Beyond the classical ion-channel blockers, several vital cardiovascular agents act through specialized purinergic receptors, hyperpolarization-activated pacemaker channels, electrolyte modulation, and autonomic vagotonic pathways.
 
-Patients with persistent AF are increasingly being considered for catheter ablation of AF to maintain sinus rhythm as opposed to rate control; it depends on factors such as age, symptoms, left atrial size.
+<details class="med-details"><summary>
 
-## **Preexcited Atrial Fibrillation**
+### 9.1 Adenosine</summary><div class="details-content">
 
-## Acute therapy
+<details class="med-details"><summary>
 
-IV procainamide
+#### Cellular Signaling and AV Nodal Hyperpolarization</summary><div class="details-content">
 
-#### **590 9** — Antiarrhythmic Drugs
+Adenosine is an endogenous purine nucleoside that acts via cell-surface purinergic $A_1$ receptors on sinoatrial and atrioventricular nodal myocytes ([Fig. 9.12](#fig-09-12)):
+* **Inhibitory G-Protein ($G_i$) Activation:** Receptor binding couples to pertussis toxin-sensitive $G_{\alpha i}$ proteins, which:
+  1. Opens inwardly rectifying potassium channels ($I_{\text{K,ACh}}$), triggering rapid potassium efflux and profound resting hyperpolarization of nodal cell membranes.
+  2. Inhibits adenylyl cyclase, lowering intracellular cAMP and counteracting sympathetic phosphorylation of L-type calcium channels ($I_{\text{Ca-L}}$).
+* **Electrophysiological Consequences:** Produces profound, transient slowing of SA nodal automaticity and complete conduction block in the AV node lasting several seconds. It has negligible electrophysiological actions on accessory bypass tracts or ventricular myocardium.
+* **Pharmacokinetics:** Ultra-short plasma half-life of less than 10 seconds, owing to instantaneous cellular uptake by erythrocytes and vascular endothelial cells followed by enzymatic degradation via adenosine deaminase.
 
-IV amiodarone
+<span id="fig-09-12"></span>![](_page_50_Figure_2.jpeg)
 
-Often, electrical cardioversion is required—AVOID selective AV nodal blockers.
+**FIGURE 9.12** Adenosine inhibition of the atrioventricular (AV) node via purinergic $A_1$ receptor signaling. Adenosine binds to cell-surface $A_1$ receptors coupled to inhibitory $G_i$ proteins. This produces two simultaneous ionic events: activation of inward-rectifying potassium channels ($I_{\text{K,ACh}}$), causing cellular hyperpolarization, and inhibition of adenylyl cyclase, decreasing cyclic AMP and suppressing slow inward L-type calcium channels ($I_{\text{Ca-L}}$). This results in transient complete AV nodal conduction block, terminating AV-nodal dependent reentrant tachycardias (AVNRT and AVRT).
 
-## Chronic therapy
+</div></details>
 
-- Catheter ablation is therapy of choice to eliminate the accessory pathway causing preexcitation
-- Oral amiodarone if ablation not desired or cannot be done
+<details class="med-details"><summary>
 
-#### **Atrial Flutter**
+#### Administration Technique and Dosing Adjustments</summary><div class="details-content">
 
-Similar approach as for AF for acute and chronic therapy.
+* **Rapid IV Bolus and Saline Flush:**
+  - Initial dose: 6 mg rapid IV push over 1 to 2 seconds via a large antecubital or central vein.
+  - Immediate flush: Followed instantaneously by a rapid 20-mL normal saline flush (using a two-syringe stopcock or rapid-infusion port) and elevation of the extremity to ensure the bolus reaches the coronary circulation before undergoing enzymatic degradation.
+  - Second dose: If SVT does not terminate within 1 to 2 minutes, administer 12 mg rapid IV push with flush.
+  - Third dose: A second 12-mg bolus may be given if necessary (maximum single dose 12 mg; cumulative typical dose 30 mg).
+* **Dose Reductions (Start at 3 mg):**
+  - Administration via central venous access (central line / PICC).
+  - Cardiac transplant recipients (denervated myocardium displays extreme $A_1$ receptor supersensitivity).
+  - Concomitant dipyridamole therapy (inhibits nucleoside uptake, multiplying adenosine exposure by 4-fold: [Table 9.4](#tab-09-04)).
+* **Dose Escalation:** Patients consuming heavy caffeine or taking methylxanthines (theophylline, aminophylline) require higher doses (12 to 18 mg) due to competitive $A_1$ receptor antagonism.
+* **Adverse Effects:** Transient facial flushing (18%), chest pressure/dyspnea (12%), transient sinus bradycardia/asystole (usually $<5\text{ seconds}$), bronchospasm, and brief induction of atrial fibrillation (1% to 12%). Strictly contraindicated in severe active bronchospastic asthma and pre-excited AF.
 
-However, flutter often more difficult to rate control and ibutilide is drug of choice for acute pharmacologic cardioversion.
+</div></details>
 
-Ablation often used for long-term management of typical atrial flutter, even as first-line treatment.
+</div></details>
 
-## Ventricular Arrhythmias (VT, VF)
+<details class="med-details"><summary>
 
-Acute therapy
+### 9.2 Ivabradine</summary><div class="details-content">
 
-- Electrical cardioversion if hemodynamically unstable
-- IV amiodarone
+Ivabradine defines Class 0 in the modernized Oxford classification as a dedicated pacemaker current inhibitor:
+* **Mechanism of Action ([Fig. 9.13](#fig-09-13)):** Selectively enters and blocks the pore of hyperpolarization-activated cyclic nucleotide-gated channels (HCN4) from the intracellular surface when the channels are open. This selectively inhibits the inward funny current ($I_{\text{f}}$) carrying mixed $\text{Na}^+$ and $\text{K}^+$ in SA nodal pacemaker cells.
+* **Electrophysiological Selectivity:** Purely slows Phase 4 diastolic depolarization slope in the SA node, reducing sinus heart rate in a dose-dependent manner. Unlike beta-blockers and calcium channel blockers, ivabradine has **zero effect on AV nodal conduction**, zero effect on ventricular repolarization (no QT prolongation), and **zero negative inotropic effect** (contractility and stroke volume are fully preserved).
+* **Clinical Indications:**
+  - Stable chronic heart failure (HFrEF, $\text{LVEF} \le 35\%$) in sinus rhythm with resting heart rate $\ge 70\text{ bpm}$ despite guideline-directed maximally tolerated beta-blocker therapy (proven reduction in cardiovascular death and HF hospitalizations in the SHIFT trial).
+  - Chronic stable angina pectoris in patients intolerant of or inadequately controlled with beta-blockers.
+  - Inappropriate sinus tachycardia (IST) and postural orthostatic tachycardia syndrome (POTS).
+* **Dosing:** 5.0 mg orally BID with morning and evening meals, titrated after 2 to 4 weeks to 2.5–7.5 mg BID to achieve target resting HR of 50 to 60 bpm.
+* **Adverse Effects:** Phosphenes (luminous visual phenomena described as enhanced brightness in visual fields, occurring in 15% due to inhibition of retinal HCN channels, benign and reversible), symptomatic bradycardia, and atrial fibrillation. Contraindicated in acute decompensated HF, complete heart block, and sick sinus syndrome.
 
-IV amiodarone can be combined with IV lidocaine for refractory ventricular arrhythmias ("storm")
+<span id="fig-09-13"></span>![](_page_52_Figure_1.jpeg)
 
-- IV lidocaine
-- IV procainamide
+**FIGURE 9.13** Pacemaker "funny" current ($I_{\text{f}}$) and selective blockade by ivabradine. Left: The funny current is a mixed sodium-potassium inward current activated by hyperpolarization at the end of repolarization, driving spontaneous Phase 4 diastolic depolarization in sinoatrial nodal cells. Middle: Ivabradine enters the channel pore from the intracellular side, binding selectively to open HCN4 channels and depressing $I_{\text{f}}$. Right: Flattening of Phase 4 slope prolongs the cycle length between spontaneous action potentials, slowing the sinus heart rate without altering myocardial contractility or AV conduction.
 
-Chronic therapy (in patients with structural heart disease)
+</div></details>
 
-• Oral β-blocker (cardio-selective)
+<details class="med-details"><summary>
 
- $\beta\text{-blocker},$  amiodarone and mexitiline can be combined for refractory ventricular arrhythmias
+### 9.3 Intravenous Magnesium Sulfate in Torsades de Pointes</summary><div class="details-content">
 
-- Amiodarone
-- Mexiletine
-- Sotalol (may be used with caution, especially if patient has ICD)
-- Flecainide (used with extreme caution in patients with ICD, second line)
-- Dofetilide (not approved for this purpose)
+Intravenous magnesium sulfate is the pharmacological treatment of choice for acute suppression of Torsades de pointes:
+* **Mechanism:** Acts as an essential enzymatic cofactor for the sarcolemmal $\text{Na}^+/\text{K}^+$-ATPase pump and functions as a physiological calcium antagonist, blocking inward L-type calcium channels ($I_{\text{Ca-L}}$). By suppressing calcium influx, magnesium suppresses early afterdepolarizations (EADs) and abolishes triggered activity, terminating Torsades de pointes **without necessarily shortening the baseline QT interval**.
+* **Clinical Efficacy:** Highly effective regardless of whether baseline serum magnesium concentrations are normal or reduced.
+* **Dosing Protocol:**
+  - Initial bolus: 1.0 to 2.0 g (8 to 16 mEq) IV diluted in 50 to 100 mL $D_5W$ administered over 1 to 2 minutes.
+  - Repeat bolus: If polymorphic VT recurs, a second 1.0 to 2.0 g bolus can be repeated in 5 to 15 minutes.
+  - Continuous maintenance infusion: 3 to 20 mg/min (0.5 to 1.0 g/hour) for 24 to 48 hours to maintain serum magnesium concentrations between $2.0\text{ and }2.5\text{ mg/dL}$ ($0.8\text{--}1.0\text{ mmol/L}$).
+* **Adjunctive Therapy:** Concurrently re-infuse potassium chloride to maintain serum potassium at the high-normal range of $4.5\text{ to }5.0\text{ mEq/L}$. If pause-dependent Torsades persists, initiate temporary overdrive pacing (90–110 bpm) or isoproterenol infusion.
 
-Increasingly, catheter ablation is being used for recurrent ventricular arrhythmias.
+</div></details>
 
-Chronic therapy (in patients with no structural heart disease)
+<details class="med-details"><summary>
 
-• Oral β-blocker (cardio-selective)
+### 9.4 Digoxin: Inotropy, Vagal Nodal Slowing, and Toxicity</summary><div class="details-content">
 
-- Oral calcium channel blocker (diltiazem, verapamil)
-- β-blocker + calcium channel blocker
-- Flecainide + β-blocker
-- Propafenone + β-blocker
-- Sotalol
-- Amiodarone (second line)
+Digoxin (cardiac glycoside) exerts complex, concentration-dependent neurohormonal, inotropic, and electrophysiological actions:
+* **Mechanism of Action:** Selectively binds and inhibits the sarcolemmal $\text{Na}^+/\text{K}^+$-ATPase pump. This increases intracellular sodium, reducing the forward driving force of the $\text{Na}^+/\text{Ca}^{2+}$ exchanger, resulting in intracellular calcium accumulation in the sarcoplasmic reticulum and augmented inotropy.
+* **Electrophysiological Actions:** Digoxin's antiarrhythmic actions are mediated almost entirely via **central and peripheral vagotonic (parasympathetic) stimulation**:
+  - Increases efferent vagal tone and sensitizes baroreceptors, depressing SA nodal automaticity and slowing AV nodal conduction velocity while prolonging AV nodal effective refractory period.
+  - Critical limitation: Because vagal tone is withdrawn and sympathetic tone surges during physical exertion or acute illness, digoxin is **ineffective as monotherapy for rate control during exercise** in atrial fibrillation.
+* **Narrow Therapeutic Index and Target Serum Levels:**
+  - Recommended target serum trough level: **$0.5\text{ to }0.9\text{ ng/mL}$**.
+  - Serum levels $>1.0\text{--}1.2\text{ ng/mL}$ are associated with increased all-cause mortality without additional clinical or rate-control benefit (DIG trial post-hoc analyses).
+* **Clinical Manifestations of Digitalis Toxicity:**
+  - Ventricular arrhythmias: Frequent PVCs, bigeminy, bidirectional ventricular tachycardia (pathognomonic, alternating frontal axis every beat), polymorphic and monomorphic VT.
+  - Nodal disturbances: Marked sinus bradycardia, sinoatrial exit block, second- and third-degree AV block, accelerated junctional rhythm.
+  - Extracardiac symptoms: Nausea, anorexia, vomiting, visual disturbances (xanthopsia: yellow-green halos around objects), confusion, delirium.
+  - Triggers of toxicity: Hypokalemia (potassium competes with digoxin for the $\text{Na}^+/\text{K}^+$-ATPase pump; hypokalemia enhances digoxin binding), hypomagnesemia, hypercalcemia, and renal failure.
+* **Management of Toxicity:** Immediate discontinuation; normalization of potassium (target $4.5\text{--}5.0\text{ mEq/L}$); IV lidocaine or phenytoin for ventricular arrhythmias; temporary cardiac pacing for severe heart block; and **digoxin-specific Fab antibody fragments (DigiFab)** for life-threatening arrhythmias, severe hyperkalemia ($\text{K}^+ > 5.0\text{--}5.5\text{ mEq/L}$), or massive acute ingestion ($>10\text{ mg}$ in adults).
 
-Many ventricular arrhythmias in structurally normal hearts are quite amenable to catheter ablation, particularly when very high burden, symptomatic, or causing LV dysfunction.
+</div></details>
 
-## **Torsades de pointes**
+</div></details>
 
-## Acute therapy
+<details class="med-details"><summary>
 
-- Withdrawal of inciting drug (if present)
-- IV/oral potassium if hypokalemic
-- IV magnesium
-- IV isoproterenol (raises heart rate, decreases QT interval)
-- Temporary cardiac pacing (raise heart rate, decrease QT interval) Chronic therapy
-- If patient has long QT syndrome, long acting β-blocker—propranolol, nadolol, bisoprolol (metoprolol not as good)
-- For selected LQTS, mexiletine and flecainide may be useful (see sections for each drug)
+## 10. Clinical Decision Framework and Arrhythmia-Specific Therapy</summary><div class="details-content">
 
-## **Summary**
+Antiarrhythmic drug prescribing must always follow a disciplined clinical decision tree structured by hemodynamic stability, surface 12-lead ECG morphology, and underlying structural heart disease ([Diagram 9.2](#diag-09-02)).
 
-- Antiarrhythmic drug classification. These are grouped into at least five classes: class I sodium channel blockers; class II βadrenergic blockers; class III repolarization blockers; class IV those agents that block the calcium current in the AV node; and class V adenosine. Other classes are proposed in more novel classification schemes,<sup>8</sup> which will allow for more novel agents to be included if and when they are developed. Other agents, like ivabradine, do not fit in the traditional Vaughan Williams classes.
-- 2. Usage of antiarrhythmic drugs. Class I agents are not often used because of adverse long-term effects. However, IV lidocaine or procainamide still remain effective for VT; oral agents flecainide and propafenone are useful for AF in the absence of structural heart disease. Class II, the β-blockers, are especially effective in hyperadrenergic states such as chronic heart failure,
+<details class="med-details"><summary>
 
-some repetitive tachycardias, and ischemic arrhythmias. Among class III agents, amiodarone is a powerful antiarrhythmic agent, acting on both supraventricular and ventricular arrhythmias, but potentially quite toxic. Lower dosing regimens are recommended for long-term treatment although toxicity can still occur. Dofetilide is also very useful for AF in both the presence and absence of structural heart disease but the risk of torsades is significant and requires hospitalization for loading. Sotalol is less effective than amiodarone or dofetilide but with less toxicity and moderately lower risk of torsades. Class IV agents are excellent in arresting acute supraventricular tachycardias (adenosine is preferred), treating SVTs chronically, and also reduce ventricular rates in chronic AF (verapamil and diltiazem). Some older agents (like quinidine, mexiletine, and flecainide) have found new purpose for treatment of specific genetic variants of Brugada syndrome, long QT syndrome, and catecholaminergic VT.
+### 10.1 Supraventricular Tachycardias (AVNRT, AVRT, Atrial Tachycardia)</summary><div class="details-content">
 
-3. Current and future trends in arrhythmia therapy. The complexity of the numerous agents available and the ever-increasing problems with side effects and proarrhythmia have promoted a strong trend toward intervention by ablation or devices for most arrhythmias. Inhaled versions of existing therapies may provide novel ways to terminate arrhythmias with potentially fewer side effects. New antiarrhythmic drug investigations have been limited by the discovery of agents with either limited efficacy, similar toxicity to existing agents, or discovery of unanticipated side effects. It remains to be seen whether more novel targets can be exploited successfully for a new generation of antiarrhythmics.
+* **Hemodynamic Triage:**
+  - Unstable (hypotension, angina, pulmonary edema): Immediate synchronized DC cardioversion (50–100 J biphasic).
+  - Stable: Proceed to stepwise medical therapy.
+* **Acute Stepwise Management:**
+  1. **Vagal Maneuvers:** Modified Valsalva maneuver (straining to 40 mmHg for 15 seconds followed immediately by supine repositioning and passive leg raise to 45 degrees for 15 seconds; REVERT trial demonstrated a 43% cardioversion rate vs 17% with standard Valsalva); carotid sinus massage (after auscultation ruling out carotid bruits).
+  2. **Intravenous Adenosine:** 6 mg rapid IV push with 20-mL flush; if unsuccessful, 12 mg; if still unsuccessful, a second 12 mg dose. Terminates $>90\%$ of AVNRT and orthodromic AVRT episodes ([Fig. 9.12](#fig-09-12)).
+  3. **Second-Line IV Agents:** If adenosine fails or is contraindicated (severe asthma), administer IV diltiazem (0.25 mg/kg over 2 min), IV verapamil (5–10 mg over 2 min), or IV beta-blocker (metoprolol 2.5–5 mg IV every 5 min up to 15 mg; esmolol).
+* **Chronic Management and Long-Term Cure:**
+  - **Catheter Ablation:** Class I, first-line definitive recommendation for symptomatic, recurrent AVNRT (slow-pathway radiofrequency ablation, success $>98\%$, AV block risk $<0.5\%$) and AVRT (accessory pathway ablation, success $>95\%$).
+  - Medical maintenance (for patients declining ablation or awaiting procedure): Oral beta-blockers, diltiazem, or verapamil.
 
-## References
+</div></details>
 
-Complete reference list available at [www.expertconsult.com](https://www.expertconsult.com).
+<details class="med-details"><summary>
+
+### 10.2 Atrial Fibrillation: Rate vs. Rhythm Control Strategy</summary><div class="details-content">
+
+The decision between rate control and rhythm control represents the central strategic dilemma in managing atrial fibrillation:
+* **The Trial Evidence (AFFIRM to EAST-AFNET 4):**
+  - Historical trials (AFFIRM, RACE) demonstrated that rate control and rhythm control had equivalent long-term all-cause mortality, establishing rate control as an acceptable first-line strategy.
+  - The landmark **EAST-AFNET 4 Trial (2020):** Demonstrated that **early rhythm control** (initiated within 12 months of AF diagnosis using antiarrhythmic drugs or catheter ablation) significantly reduced a composite of cardiovascular death, stroke, and hospitalization for heart failure or ACS (hazard ratio 0.79, $p = 0.005$) compared to usual care. Early intervention prevents progressive electrical and structural atrial remodeling ("AF begets AF").
+* **Acute Rate Control Strategy ([Table 9.5](#tab-09-05)):**
+  - First-line: IV beta-blocker (metoprolol 2.5–5 mg boluses; esmolol) or IV non-dihydropyridine CCB (diltiazem 0.25 mg/kg; verapamil).
+  - Heart Failure with Reduced Ejection Fraction (HFrEF): Beta-blockers (if stable without acute decompensation) or IV amiodarone (if decompensated, in shock, or intolerant of beta-blockers). Non-dihydropyridine CCBs are strictly contraindicated. Digoxin may be added as adjunctive therapy.
+* **Target Heart Rate:**
+  - Lenient rate control ($<110\text{ bpm}$ resting): Validated by the RACE II trial as safe and non-inferior to strict control in asymptomatic patients with preserved ejection fraction.
+  - Strict rate control ($<80\text{ bpm}$ resting, $<110\text{ bpm}$ during moderate exercise): Indicated if patients remain symptomatic, have tachycardia-induced cardiomyopathy, or worsening heart failure.
+* **Pharmacological Cardioversion & Rhythm Maintenance ([Table 9.6](#tab-09-06)):**
+  - **Structurally Normal Heart / No CAD / No HF:**
+    - Oral/IV Flecainide or Propafenone (including "pill-in-the-pocket" outpatient cardioversion: [Fig. 9.7](#fig-09-07)).
+    - IV Vernakalant or Ibutilide for acute cardioversion.
+    - Oral Dronedarone or Sotalol for maintenance.
+  - **Coronary Artery Disease / Prior MI / Stable Angina:**
+    - Class IC agents are strictly contraindicated (CAST).
+    - First-line maintenance: Sotalol or Dronedarone.
+    - Second-line maintenance: Amiodarone.
+  - **Heart Failure with Reduced Ejection Fraction ($\text{LVEF} < 40\%$):**
+    - Class I drugs, sotalol, dronedarone, and CCBs are strictly contraindicated.
+    - **Amiodarone or Dofetilide are the only safe choices.**
+
+</div></details>
+
+<details class="med-details"><summary>
+
+### 10.3 Pre-Excited Atrial Fibrillation (WPW + AF): Emergency Management</summary><div class="details-content">
+
+Pre-excited atrial fibrillation is a catastrophic medical emergency ([Fig. 9.4](#fig-09-04)):
+* **Pathophysiology:** Impulses from fibrillating atria conduct down an accessory pathway lacking decremental properties. Conduction frequencies can exceed 300 bpm, degenerating instantaneously into ventricular fibrillation and cardiac arrest. The 12-lead ECG shows an irregularly irregular wide-complex tachycardia with polymorphic, bizarre QRS complexes and variable delta waves.
+* **Absolute Contraindications:** **Never administer AV nodal blocking drugs** (Adenosine, Beta-blockers, Verapamil, Diltiazem, Digoxin, or IV Amiodarone). Selectively blocking the AV node redirects all fibrillatory traffic down the accessory pathway, causing catastrophic ventricular rate acceleration and fatal ventricular fibrillation.
+* **Emergency Management:**
+  - **Hemodynamically Unstable:** Immediate synchronized DC electrical cardioversion (100–200 J biphasic).
+  - **Hemodynamically Stable:** Intravenous **Procainamide** (10–15 mg/kg IV over 30–60 minutes at 20–50 mg/min) or intravenous **Ibutilide** (1.0 mg over 10 minutes). Both agents prolong the refractory period of the accessory pathway, terminating the arrhythmia safely.
+  - **Definitive Treatment:** Urgent catheter ablation of the accessory pathway is a Class I recommendation.
+
+</div></details>
+
+<details class="med-details"><summary>
+
+### 10.4 Atrial Flutter: Acute Conversion and CTI Ablation</summary><div class="details-content">
+
+* **Typical vs Atypical Flutter:** Typical atrial flutter involves a macroreentrant circuit within the right atrium constrained by the cavotricuspid isthmus (CTI), producing characteristic negative sawtooth flutter waves in leads II, III, and aVF at a cycle length of ~ 200 ms (atrial rate ~ 300 bpm).
+* **Acute Conversion:** Transthoracic synchronized DC cardioversion (low-energy: 50 J biphasic) is the most effective therapy ($>90\%$ success). If pharmacological cardioversion is chosen, IV **Ibutilide** (1.0 mg over 10 min) converts 60% to 75% of patients.
+* **The 1:1 AV Conduction Hazard:** Class IC agents (flecainide, propafenone) must never be given without an AV nodal blocker due to the danger of slowing flutter from 300 to 200 bpm and precipitating 1:1 AV conduction ([Fig. 9.2](#fig-09-02)).
+* **Definitive Therapy:** Radiofrequency catheter ablation of the cavotricuspid isthmus achieves bidirectional conduction block with a cure rate $>95\%$ and minimal risk, representing the definitive Class I treatment of choice.
+
+</div></details>
+
+<details class="med-details"><summary>
+
+### 10.5 Ventricular Tachyarrhythmias: PVCs, Sustained VT, and Electrical Storm</summary><div class="details-content">
+
+* **Premature Ventricular Complexes (PVCs):**
+  - When to treat: Asymptomatic PVCs in a structurally normal heart require reassurance only. Treatment is indicated for severe symptoms or a high PVC burden ($>10\text{ to }15\%$ of total daily beats on 24-hour Holter), which carries substantial risk of developing reversible PVC-induced cardiomyopathy.
+  - Therapy: First-line beta-blockers or non-dihydropyridine CCBs; catheter ablation of the PVC focus (e.g. right/left ventricular outflow tract, aortic cusps, papillary muscles) has a high success rate ($>85\text{--}90\%$) and is preferred over chronic antiarrhythmic pharmacotherapy.
+* **Sustained Monomorphic VT:**
+  - Stable VT: IV **Procainamide** (10–15 mg/kg over 30–60 min) or IV **Amiodarone** (150 mg over 10 min, then continuous infusion) or IV **Lidocaine** (particularly in acute ischemia).
+  - Unstable VT: Immediate synchronized DC cardioversion.
+  - Secondary prevention: Implantable Cardioverter-Defibrillator (ICD) is indicated for sustained VT in structural heart disease (AVID, MADIT-II), accompanied by catheter ablation and beta-blocker/amiodarone therapy to suppress recurrent shocks.
+* **Electrical Storm Protocol ($\ge 3$ sustained VT/VF episodes or ICD shocks within 24 hours):**
+  1. **Sedation and Sympatholysis:** Deep sedation or intubation with general anesthesia to abolish the massive endogenous sympathetic storm.
+  2. **Aggressive Beta-Blockade:** Intravenous **Propranolol** (1 mg every 2–5 min up to 5 mg) or **Esmolol** infusion is clinically superior to metoprolol in electrical storm due to non-selective $\beta_1/\beta_2$ blockade and central sympatholytic action.
+  3. **Combined Antiarrhythmic Infusion:** Intravenous **Amiodarone** (150 mg bolus, then 1 mg/min for 6 h, 0.5 mg/min) combined synergistically with intravenous **Lidocaine** (1.0–1.5 mg/kg bolus, then 2–4 mg/min).
+  4. **Electrolyte Optimization:** Maintain potassium at $4.5\text{--}5.0\text{ mEq/L}$ and magnesium $>2.0\text{--}2.5\text{ mg/dL}$.
+  5. **Emergency Interventions:** Percutaneous left stellate ganglion block (sympathetic denervation) and emergent catheter ablation of the triggering VT circuits.
+
+</div></details>
+
+<details class="med-details"><summary>
+
+### 10.6 Torsades de Pointes and Long QT Syndrome Management</summary><div class="details-content">
+
+* **Acquired Torsades de Pointes:**
+  - Acute protocol: Immediately discontinue all QT-prolonging medications. Administer **IV Magnesium Sulfate** (1–2 g IV bolus over 1–2 minutes, followed by 0.5–1.0 g/hour infusion). Aggressively replete potassium to $4.5\text{ to }5.0\text{ mEq/L}$.
+  - Overdrive Pacing: If pause-dependent Torsades recurs, initiate temporary transvenous cardiac pacing at 90 to 110 bpm, or titrate an isoproterenol infusion (1 to 10 mcg/min) to accelerate heart rate, shorten the QT interval, and eliminate pause-dependent triggers.
+* **Congenital Long QT Syndrome (LQTS):**
+  - First-line: High-dose non-selective beta-blockers (**Nadolol** 1–2 mg/kg/day or **Propranolol**), highly protective in LQT1 (triggered by exercise/swimming) and LQT2 (triggered by auditory stimuli/emotional stress).
+  - LQT3 (gain-of-function *SCN5A* with nocturnal events): Oral **Mexiletine** (selective late $I_{\text{NaL}}$ blocker) or ranolazine effectively shortens the QTc interval.
+  - High-risk patients (recurrent syncope, QTc $>500\text{ ms}$, prior cardiac arrest): Implantable Cardioverter-Defibrillator (ICD) and Left Cardiac Sympathetic Denervation (LCSD).
+
+<span id="diag-09-02"></span>
+
+### DIAGRAM 9.2 Evidence-Based Tachyarrhythmia Management Decision Tree
+
+<svg viewBox="0 0 880 570" style="width:100%; max-width:880px; height:auto; display:block; margin:16px auto;" xmlns="http://www.w3.org/2000/svg">
+  <rect width="880" height="570" rx="12" fill="#0f172a" stroke="#334155" stroke-width="1.5"/>
+  <text x="440" y="28" fill="#38bdf8" font-family="system-ui, -apple-system, sans-serif" font-size="13.5" font-weight="700" text-anchor="middle" letter-spacing="0.5">CLINICAL DECISION TREE FOR TACHYARRHYTHMIA PHARMACOTHERAPY</text>
+  <!-- Step 1: Initial Assessment -->
+  <rect x="190" y="45" width="500" height="42" rx="8" fill="#1e293b" stroke="#38bdf8" stroke-width="1.2"/>
+  <text x="440" y="63" fill="#f8fafc" font-family="system-ui, sans-serif" font-size="11" font-weight="700" text-anchor="middle">PATIENT EVALUATION: HEMODYNAMICS & 12-LEAD ECG</text>
+  <text x="440" y="78" fill="#94a3b8" font-family="system-ui, sans-serif" font-size="9" text-anchor="middle">Shock, Hypotension, Acute Pulmonary Edema, Ischemic Chest Pain, Altered Mental Status?</text>
+  <!-- Split paths -->
+  <path d="M 315 87 L 315 105 L 140 105 L 140 120" stroke="#ef4444" stroke-width="1.5" fill="none"/>
+  <path d="M 565 87 L 565 105 L 610 105 L 610 120" stroke="#10b981" stroke-width="1.5" fill="none"/>
+  <!-- Unstable Box -->
+  <rect x="25" y="120" width="280" height="60" rx="8" fill="#450a0a" stroke="#ef4444" stroke-width="1.5"/>
+  <text x="165" y="140" fill="#fca5a5" font-family="system-ui, sans-serif" font-size="10.5" font-weight="700" text-anchor="middle">HEMODYNAMICALLY UNSTABLE</text>
+  <text x="165" y="162" fill="#ffffff" font-family="system-ui, sans-serif" font-size="8.5" font-weight="600" text-anchor="middle">IMMEDIATE SYNCHRONIZED DC CARDIOVERSION (or Defibrillation for Pulseless VT/VF)</text>
+  <!-- Stable Box -->
+  <rect x="330" y="120" width="525" height="40" rx="8" fill="#064e3b" stroke="#10b981" stroke-width="1.5"/>
+  <text x="592" y="145" fill="#a7f3d0" font-family="system-ui, sans-serif" font-size="11" font-weight="700" text-anchor="middle">HEMODYNAMICALLY STABLE -> ANALYZE QRS DURATION</text>
+  <!-- Split into Narrow vs Wide -->
+  <path d="M 460 160 L 460 180 L 230 180 L 230 195" stroke="#38bdf8" stroke-width="1.5" fill="none"/>
+  <path d="M 720 160 L 720 180 L 670 180 L 670 195" stroke="#f59e0b" stroke-width="1.5" fill="none"/>
+  <!-- Left: Narrow QRS Branch -->
+  <rect x="25" y="195" width="410" height="355" rx="8" fill="#1e293b" stroke="#38bdf8" stroke-width="1.2"/>
+  <text x="230" y="215" fill="#38bdf8" font-family="system-ui, sans-serif" font-size="10.5" font-weight="700" text-anchor="middle">NARROW QRS (< 120 ms) - SUPRAVENTRICULAR</text>
+  <text x="40" y="238" fill="#93c5fd" font-family="system-ui, sans-serif" font-size="10" font-weight="700">REGULAR (AVNRT / AVRT / AT):</text>
+  <text x="40" y="255" fill="#e2e8f0" font-family="system-ui, sans-serif" font-size="8.8">1. Vagal maneuvers -> 2. IV Adenosine (6 mg -> 12 mg rapid flush)</text>
+  <text x="40" y="268" fill="#e2e8f0" font-family="system-ui, sans-serif" font-size="8.8"> -> 3. IV Beta-blocker or Diltiazem/Verapamil -> Ablation</text>
+  <line x1="40" y1="282" x2="420" y2="282" stroke="#334155" stroke-width="1"/>
+  <text x="40" y="302" fill="#93c5fd" font-family="system-ui, sans-serif" font-size="10" font-weight="700">IRREGULAR (Atrial Fibrillation / Atrial Flutter):</text>
+  <text x="40" y="320" fill="#cbd5e1" font-family="system-ui, sans-serif" font-size="8.8">* Rate Control: IV/Oral Beta-blockers or Diltiazem/Verapamil (IV Amiodarone if severe HFrEF)</text>
+  <text x="40" y="338" fill="#fbbf24" font-family="system-ui, sans-serif" font-size="9" font-weight="600">* Rhythm Control Selection based on Structural Heart Disease:</text>
+  <text x="40" y="356" fill="#86efac" font-family="system-ui, sans-serif" font-size="8.5">  - Normal Heart / No CAD: Flecainide, Propafenone, Vernakalant, Ibutilide</text>
+  <text x="40" y="374" fill="#fde047" font-family="system-ui, sans-serif" font-size="8.5">  - CAD / Prior MI: Sotalol, Dronedarone, Amiodarone (Class IC contraindicated!)</text>
+  <text x="40" y="392" fill="#f87171" font-family="system-ui, sans-serif" font-size="8.5">  - HFrEF (EF < 40%): Amiodarone or Dofetilide ONLY (all Class I & CCBs contraindicated!)</text>
+  <rect x="35" y="420" width="390" height="115" rx="6" fill="#0f172a" stroke="#38bdf8" stroke-width="1"/>
+  <text x="230" y="440" fill="#38bdf8" font-family="system-ui, sans-serif" font-size="9.5" font-weight="700" text-anchor="middle">PILL-IN-THE-POCKET STRATEGY (OUTPATIENT)</text>
+  <text x="45" y="460" fill="#e2e8f0" font-family="system-ui, sans-serif" font-size="8.5">• Indication: Infrequent paroxysmal AF in structurally normal heart</text>
+  <text x="45" y="476" fill="#e2e8f0" font-family="system-ui, sans-serif" font-size="8.5">• Pre-treatment: Beta-blocker or CCB 30 min before Class IC</text>
+  <text x="45" y="492" fill="#e2e8f0" font-family="system-ui, sans-serif" font-size="8.5">• Dose: Flecainide 200-300 mg OR Propafenone 450-600 mg</text>
+  <text x="45" y="508" fill="#fca5a5" font-family="system-ui, sans-serif" font-size="8.5">• Safety: First dose MUST be tested in-hospital under ECG monitoring!</text>
+  <!-- Right: Wide QRS Branch -->
+  <rect x="445" y="195" width="410" height="355" rx="8" fill="#1e293b" stroke="#f59e0b" stroke-width="1.2"/>
+  <text x="650" y="215" fill="#fbbf24" font-family="system-ui, sans-serif" font-size="10.5" font-weight="700" text-anchor="middle">WIDE QRS (>= 120 ms) - VENTRICULAR OR PRE-EXCITED</text>
+  <text x="460" y="238" fill="#f87171" font-family="system-ui, sans-serif" font-size="9.5" font-weight="700">PRE-EXCITED AF (WPW + AF): Irregular, bizarre wide QRS > 200 bpm</text>
+  <text x="460" y="255" fill="#fca5a5" font-family="system-ui, sans-serif" font-size="8.5">-> IV Procainamide or Ibutilide; DC Cardioversion. AVOID Adenosin</text>
+  <text x="460" y="268" fill="#fca5a5" font-family="system-ui, sans-serif" font-size="8.5">e, BB, CCB, Digoxin (VF danger!)</text>
+  <line x1="460" y1="282" x2="840" y2="282" stroke="#334155" stroke-width="1"/>
+  <text x="460" y="302" fill="#60a5fa" font-family="system-ui, sans-serif" font-size="9.5" font-weight="700">REGULAR MONOMORPHIC VT: Assume VT until proven otherwise!</text>
+  <text x="460" y="320" fill="#e2e8f0" font-family="system-ui, sans-serif" font-size="8.5">-> IV Amiodarone (150 mg bolus + infusion), Procainamide (10-15 m</text>
+  <text x="460" y="333" fill="#e2e8f0" font-family="system-ui, sans-serif" font-size="8.5">g/kg), or Lidocaine -> ICD / Ablation</text>
+  <line x1="460" y1="347" x2="840" y2="347" stroke="#334155" stroke-width="1"/>
+  <text x="460" y="367" fill="#f472b6" font-family="system-ui, sans-serif" font-size="9.5" font-weight="700">POLYMORPHIC VT / TORSADES DE POINTES (Prolonged QTc):</text>
+  <text x="460" y="385" fill="#e2e8f0" font-family="system-ui, sans-serif" font-size="8.5">-> IV Magnesium Sulfate 1-2 g bolus; Correct K+ to 4.5-5.0 mEq/L;</text>
+  <text x="460" y="398" fill="#e2e8f0" font-family="system-ui, sans-serif" font-size="8.5"> Overdrive pacing / Isoproterenol; Stop QT drugs</text>
+  <rect x="455" y="420" width="390" height="115" rx="6" fill="#0f172a" stroke="#ef4444" stroke-width="1"/>
+  <text x="650" y="440" fill="#f87171" font-family="system-ui, sans-serif" font-size="9.5" font-weight="700" text-anchor="middle">ELECTRICAL STORM PROTOCOL (>= 3 VT/VF / 24h)</text>
+  <text x="465" y="460" fill="#e2e8f0" font-family="system-ui, sans-serif" font-size="8.5">• Sedation: Deep sedation / intubation (suppresses sympathetic surge)</text>
+  <text x="465" y="476" fill="#e2e8f0" font-family="system-ui, sans-serif" font-size="8.5">• Sympatholysis: IV Propranolol (or Esmolol) preferred over Metoprolol</text>
+  <text x="465" y="492" fill="#e2e8f0" font-family="system-ui, sans-serif" font-size="8.5">• Antiarrhythmics: IV Amiodarone (bolus + infusion) PLUS IV Lidocaine</text>
+  <text x="465" y="508" fill="#fde047" font-family="system-ui, sans-serif" font-size="8.5">• Interventional: Stellate ganglion block / Emergent catheter ablation</text>
+</svg>
+
+</div></details>
+
+</div></details>
+
+<details class="med-details"><summary>
+
+## 11. Key Clinical Electrophysiology Pearls and Executive Takeaways</summary><div class="details-content">
+
+1. **The CAST Axiom:** Suppressing asymptomatic PVCs with Class IC antiarrhythmic agents after myocardial infarction significantly increases mortality. Class IC drugs (flecainide, propafenone) are strictly contraindicated in structural heart disease, previous MI, CAD, and reduced LVEF.
+2. **Reverse Use-Dependence:** Pure Class III potassium channel blockers (sotalol, dofetilide, ibutilide) prolong repolarization and refractoriness most at slow heart rates, rendering them most proarrhythmic (Torsades de pointes) during bradycardia and pauses.
+3. **Use-Dependence:** Class IC agents (flecainide, propafenone) dissociate slowly from sodium channels, causing their conduction-slowing and QRS-widening effects to magnify as heart rate accelerates.
+4. **The 1:1 Flutter Trap:** Slowing the atrial flutter rate from 300 bpm to 200 bpm with Class IC agents allows 1:1 AV nodal conduction, producing catastrophic ventricular rates of 200 bpm with wide QRS complexes. Never prescribe Class IC agents without an AV nodal blocker.
+5. **Pre-Excited AF Danger:** Never administer AV nodal blocking drugs (adenosine, verapamil, diltiazem, beta-blockers, digoxin) in atrial fibrillation with WPW. Prefer IV procainamide, IV ibutilide, or immediate DC cardioversion.
+6. **Wide-Complex Tachycardia Rule:** Always treat a regular wide-complex tachycardia ($\text{QRS} \ge 120\text{ ms}$) as ventricular tachycardia until proven otherwise. Administering IV verapamil for unrecognized VT causes fatal hemodynamic collapse.
+7. **Procainamide in Pre-Excited AF:** Procainamide is the intravenous drug of choice for hemodynamically stable pre-excited AF, prolonging accessory pathway refractoriness.
+8. **PROCAMIO Trial:** In stable sustained monomorphic VT, IV procainamide (10 mg/kg over 20 min) is more effective and causes significantly less major adverse cardiac events and hypotension than IV amiodarone.
+9. **Amiodarone Lipophilicity:** Amiodarone has an immense volume of distribution (~ 60 L/kg) and an average elimination half-life of 50 to 58 days, requiring substantial initial loading doses (~ 10 g total) to achieve tissue saturation.
+10. **Amiodarone Torsades Paradox:** Despite causing prominent QT prolongation ($>500\text{ ms}$), amiodarone causes Torsades de pointes in $<1\%$ of patients due to homogeneous repolarization prolongation and intrinsic beta- and calcium-blocking actions.
+11. **Amiodarone Pulmonary Toxicity:** The most lethal toxicity of amiodarone is interstitial pneumonitis/fibrosis (mortality ~ 10%), requiring immediate drug cessation and systemic corticosteroids.
+12. **Amiodarone-Induced Thyroid Disease:** Hypothyroidism (AIH) occurs in 10% to 20% (Wolff-Chaikoff effect; treat with levothyroxine); hyperthyroidism (AIT) occurs in 2% to 5% (Type 1 Jod-Basedow treated with thionamides; Type 2 destructive thyroiditis treated with steroids).
+13. **Amiodarone Drug Interactions:** Amiodarone doubles serum digoxin and warfarin concentrations; empirically reduce digoxin and warfarin doses by 50% upon starting amiodarone.
+14. **Sotalol Stereochemistry:** Sotalol is a 50:50 racemic mixture; $l$-sotalol has beta-blocking and Class III activity, whereas $d$-sotalol has pure Class III activity.
+15. **SWORD Trial Lesson:** Pure $d$-sotalol in post-MI patients with low EF increased total mortality by 65% due to fatal Torsades de pointes, demonstrating the lethality of unapposed repolarization delay in ischemic myocardium.
+16. **Sotalol Renal Excretion:** Sotalol is 100% eliminated unchanged by the kidneys; dose adjustment is mandatory in renal impairment, and it is contraindicated if $\text{CrCl} < 30\text{ mL/min}$.
+17. **Inpatient Sotalol Telemetry:** Sotalol initiation requires mandatory in-hospital telemetry for at least 3 days (5 doses) with QTc measured at peak levels (2–4 hours post-dose). Stop if QTc exceeds 500 ms.
+18. **Dofetilide Safety in Heart Failure:** In the DIAMOND trials, pure $I_{\text{Kr}}$ blockade with dofetilide had neutral mortality in severe heart failure and post-MI, making it one of the few safe rhythm-control drugs in HFrEF alongside amiodarone.
+19. **Dofetilide Inpatient Initiation:** Dofetilide requires mandatory 3-day inpatient telemetry initiation with dosage strictly calculated by creatinine clearance (500 mcg, 250 mcg, or 125 mcg BID).
+20. **Dofetilide Absolute Contraindications:** Concomitant administration with verapamil, hydrochlorothiazide, cimetidine, trimethoprim, or ketoconazole is strictly contraindicated due to pharmacokinetic inhibition.
+21. **Ibutilide Efficacy in Flutter:** IV ibutilide (1 mg over 10 min) terminates atrial flutter in 60% to 75% of patients, significantly outperforming amiodarone.
+22. **Ibutilide Monitoring Window:** Torsades de pointes occurs in 4% to 8% of ibutilide-treated patients, with $>90\%$ of episodes occurring within 40 minutes; mandatory telemetry for at least 4 hours post-dose.
+23. **Vernakalant Atrial Selectivity:** Vernakalant blocks atrial-specific channels ($I_{\text{Kur}}$ and $I_{\text{K,ACh}}$), terminating recent-onset AF rapidly (median 11 min) with virtually zero ventricular proarrhythmia.
+24. **Dronedarone and Heart Failure:** Dronedarone is strictly contraindicated in symptomatic NYHA Class II–IV heart failure (doubled mortality in ANDROMEDA) and permanent AF (doubled mortality in PALLAS).
+25. **Dronedarone in CAD:** In patients with CAD or vascular risk factors and non-permanent AF, dronedarone reduces cardiovascular hospitalizations and mortality (ATHENA trial).
+26. **Dronedarone Creatinine Effect:** Dronedarone increases serum creatinine by 10% to 15% through inhibition of tubular cation secretion without altering true GFR.
+27. **Lidocaine Ischemic Selectivity:** Lidocaine binds preferentially to inactivated sodium channels in depolarized, ischemic, or acidotic ventricular tissue, explaining its high efficacy in acute MI-related VT/VF.
+28. **Lidocaine Inefficacy in Atria:** Because atrial myocytes have more negative resting potentials and rapid channel recovery, lidocaine is completely ineffective for atrial arrhythmias.
+29. **Lidocaine Two-Compartment Kinetics:** A single IV bolus rapidly redistributes (half-life 8–10 min), causing a transient sub-therapeutic trough unless a continuous infusion and second smaller bolus are given.
+30. **Lidocaine CNS Toxicity:** The earliest signs of lidocaine toxicity are neurological (perioral numbness, tinnitus, metallic taste, drowsiness, speech disturbances), progressing to seizures at levels $>5\,\mu\text{g/mL}$.
+31. **Mexiletine in LQT3:** Mexiletine selectively blocks the augmented late sodium current ($I_{\text{NaL}}$) caused by *SCN5A* mutations in Congenital Long QT Syndrome Type 3, shortening the QT interval.
+32. **Phenytoin in Digitalis Toxicity:** Phenytoin shortens ventricular APD while improving AV nodal conduction depressed by digitalis, making it effective for digitalis-induced arrhythmias.
+33. **Phenytoin Zero-Order Elimination:** Phenytoin exhibits saturable Michaelis-Menten elimination kinetics; small dose increases can cause massive serum level elevations.
+34. **Quinidine and Ito in Brugada:** Quinidine suppresses the transient outward potassium current ($I_{\text{to}}$), eliminating the epicardial notch, restoring the action potential dome, and preventing recurrent VF in Brugada syndrome.
+35. **Quinidine Cinchonism:** Overdose causes cinchonism (tinnitus, high-frequency sensorineural hearing loss, blurred vision, headache, and delirium).
+36. **Disopyramide in HOCM:** Disopyramide's potent negative inotropy reduces left ventricular hypercontractility and systolic anterior motion (SAM), significantly lowering dynamic LVOT gradients in obstructive HCM.
+37. **Disopyramide Anticholinergic Burden:** Severe antimuscarinic side effects include urinary retention, acute glaucoma exacerbation, dry mouth, and severe constipation.
+38. **Ajmaline Provocation Test:** IV ajmaline (1 mg/kg over 5 min) is the diagnostic agent of choice for unmasking concealed Type 1 Brugada ECG patterns.
+39. **Ranolazine Mechanism:** Class ID ranolazine selectively inhibits late sodium current ($I_{\text{NaL}}$), preventing intracellular calcium overload and suppressing early and delayed afterdepolarizations.
+40. **Adenosine Rapid Bolus Technique:** Adenosine has a half-life $<10\text{ seconds}$; it must be given as an ultra-rapid IV push over 1–2 seconds followed instantaneously by a 20-mL saline flush.
+41. **Adenosine Dose Modifiers:** Decrease adenosine dose to 3 mg if given via a central line, in cardiac transplant recipients, or on dipyridamole; increase dose in patients consuming caffeine or theophylline.
+42. **Adenosine Bronchospasm:** Adenosine triggers bronchospasm via mast cell purinergic receptors; it is strictly contraindicated in patients with active asthma or severe bronchospastic COPD.
+43. **Ivabradine Pure HR Reduction:** Ivabradine blocks HCN4 pacemaker channels ($I_{\text{f}}$) in the SA node, reducing heart rate without depressing AV conduction, ventricular repolarization, or myocardial inotropy.
+44. **Ivabradine Visual Phosphenes:** Approximately 15% of patients experience transient luminous visual phenomena (phosphenes) due to inhibition of retinal HCN channels.
+45. **IV Magnesium in Torsades:** IV magnesium sulfate (1–2 g bolus) is the drug of choice for acute Torsades de pointes, suppressing early afterdepolarizations without shortening the baseline QT interval.
+46. **Overdrive Pacing for Torsades:** In pause-dependent Torsades de pointes, temporary cardiac pacing at 90–110 bpm or isoproterenol eliminates pause-dependent triggers and shortens repolarization.
+47. **Digoxin Exercise Inefficacy:** Digoxin slows AV conduction primarily by enhancing vagal parasympathetic tone; because vagal tone is withdrawn during exercise, digoxin fails to control ventricular rate during exertion.
+48. **Digoxin Target Range:** The optimal serum digoxin trough level is $0.5\text{ to }0.9\text{ ng/mL}$; concentrations $>1.0\text{--}1.2\text{ ng/mL}$ increase mortality without therapeutic benefit.
+49. **Electrical Storm Management:** Managing electrical storm ($\ge 3$ VT/VF episodes in 24 h) requires deep sedation, non-selective beta-blockade (IV propranolol or esmolol), combined IV amiodarone plus lidocaine, and urgent sympathetic blockade or ablation.
+50. **AF Cardioversion Anticoagulation:** Unless transesophageal echocardiography confirms absence of left atrial thrombus, therapeutic anticoagulation is mandatory for at least 3 weeks before and at least 4 weeks after cardioversion for all patients with AF duration $\ge 48\text{ hours}$.
+
+</div></details>
