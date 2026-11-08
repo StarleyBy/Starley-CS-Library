@@ -17,7 +17,7 @@
 * **Systemic vascular resistance:** ↓ 30–50% by end of second trimester; nadir in second trimester. BP ↓ 5–10 mm Hg (nadir second trimester).
 * **Labor/delivery:** Cardiac output ↑ 15–25% early labor, 50% active labor, up to 80% immediately postpartum. Autotransfusion from uterus + relief of IVC compression.
 * **Postpartum:** Heart rate ↓ 14% by 48 hours; hemodynamics normalize over 6 months.
-* **Structural adaptations:** LV mass ↑ (reverses by 8–14 weeks postpartum), RV mass ↑ up to 40%, atrial dimensions ↑. Physiologic MR, TR, PR common; AR rare. Pericardial effusions in ~40% (resolve by 6 weeks).
+* **Structural adaptations:** LV mass ↑ (reverses by 8–14 weeks postpartum), RV mass ↑ up to 40%, atrial dimensions ↑. Physiologic MR, TR, PR common; AR rare. Pericardial effusions in ~ 40% (resolve by 6 weeks).
 
 ### Clinical Evaluation and Risk Stratification
 * **Symptoms:** Dyspnea, decreased exercise capacity, edema, palpitations often normal < 20 weeks. Alerting symptoms: angina, resting dyspnea, PND, sustained palpitations, syncope (especially > 20 weeks).
@@ -38,7 +38,7 @@
 
 ### Cardiac Arrhythmias
 * **Prevalence:** SVT most common (24/100,000). AF/AFL in 1.3% of structural heart disease pregnancies; greatest risk second trimester. VT rare (2/100,000).
-* **Management – acute:** Vagal maneuvers → adenosine (safe, short half-life) → IV metoprolol/propranolol → IV procainamide. Avoid amiodarone (fetal hypothyroidism ~17%). Hemodynamic instability → electrical cardioversion.
+* **Management – acute:** Vagal maneuvers → adenosine (safe, short half-life) → IV metoprolol/propranolol → IV procainamide. Avoid amiodarone (fetal hypothyroidism ~ 17%). Hemodynamic instability → electrical cardioversion.
 * **Chronic suppression:** β-blockers (metoprolol, propranolol), digoxin first-line. Add verapamil, sotalol, flecainide, propafenone as needed. Avoid amiodarone, dronedarone, dofetilide.
 * **AF/AFL anticoagulation:** Valvular AF (rheumatic MS) → full anticoagulation. Nonvalvular: risk-stratify as in nonpregnant; low-dose aspirin for lone AF.
 * **Bradyarrhythmias:** Asymptomatic complete heart block can be managed expectantly; pacing if symptoms develop. Pacemakers can be placed with echocardiographic guidance (minimal radiation).
@@ -73,8 +73,8 @@
 * **Preconception:** EF < 40% and/or NYHA III/IV → pregnancy contraindicated.
 * **Peripartum cardiomyopathy (PPCM):** LVEF < 45% presenting last month of gestation to 5 months postpartum. Incidence: 1/2289–4000 (US), 1/1000 (South Africa). Risk factors: advanced age, multiparity, multiple gestation, African American race, smoking, cocaine, β-agonist tocolytics (> 4 weeks), preeclampsia. Mortality 6–10% (15% in African Americans).
 * **Treatment:** Afterload reduction (hydralazine, nitrates), β-blockers, digoxin, diuretics, anticoagulation for LV thrombus. Bromocriptine (anti-prolactin) promising but requires further study. Recovery predictors: normal LV size, LVEF > 30% at diagnosis, no troponin leak, low BNP, non-African American, no LV thrombus, diagnosis postpartum, breastfeeding.
-* **Recurrence risk:** ~20% if complete recovery; ~50% if persistent dysfunction. Future pregnancy contraindicated without recovery.
-* **HCM:** Generally well tolerated (~1% mortality). Increased plasma volume may reduce LVOT obstruction.
+* **Recurrence risk:** ~ 20% if complete recovery; ~ 50% if persistent dysfunction. Future pregnancy contraindicated without recovery.
+* **HCM:** Generally well tolerated (~ 1% mortality). Increased plasma volume may reduce LVOT obstruction.
 
 ### Connective Tissue Disorders
 * **Marfan syndrome:** Pregnancy contraindicated if aortic root > 4.0 cm. Beta-blockers for BP control; ACE inhibitors/ARBs contraindicated. Vaginal delivery with expedited second stage preferred.
@@ -180,7 +180,7 @@ Within 48 hours of delivery, the heart rate falls 14%, followed by an additional
 
 ### Structural Adaptations of the Maternal Heart</summary><div class="details-content">
 
-In response to the hemodynamic demands of pregnancy, the maternal heart undergoes physiologic hypertrophy with an appreciable increase in left ventricular mass that reverses 8 to 14 weeks postpartum. In addition, right ventricular mass can increase up to 40% as measured by cardiac magnetic resonance imaging. Echocardiographic studies have revealed that while left ventricular ejection fraction remains stable, in parallel with the increase in stroke volume, left ventricular cavity dimensions, and wall thickness, aortic size, and atrial dimensions all increase during pregnancy, with return to prepregnancy values in the postpartum period. In addition, an increase in stroke work and decrease in left ventricular longitudinal strain has been observed in the later stages of pregnancy. Increase in annular diameters resulting from chamber enlargement can result in physiologic mitral, tricuspid, and pulmonic regurgitation; the development of aortic insufficiency is rare given only a small (~5%) increase in left ventricular outflow tract diameter. Despite the increase in valvular regurgitation, women rarely are symptomatic from these changes. In addition, pericardial effusions without hemodynamic significance develop in 40% of women and resolve by 6 weeks postpartum.
+In response to the hemodynamic demands of pregnancy, the maternal heart undergoes physiologic hypertrophy with an appreciable increase in left ventricular mass that reverses 8 to 14 weeks postpartum. In addition, right ventricular mass can increase up to 40% as measured by cardiac magnetic resonance imaging. Echocardiographic studies have revealed that while left ventricular ejection fraction remains stable, in parallel with the increase in stroke volume, left ventricular cavity dimensions, and wall thickness, aortic size, and atrial dimensions all increase during pregnancy, with return to prepregnancy values in the postpartum period. In addition, an increase in stroke work and decrease in left ventricular longitudinal strain has been observed in the later stages of pregnancy. Increase in annular diameters resulting from chamber enlargement can result in physiologic mitral, tricuspid, and pulmonic regurgitation; the development of aortic insufficiency is rare given only a small (~ 5%) increase in left ventricular outflow tract diameter. Despite the increase in valvular regurgitation, women rarely are symptomatic from these changes. In addition, pericardial effusions without hemodynamic significance develop in 40% of women and resolve by 6 weeks postpartum.
 
 </div></details>
 
@@ -545,7 +545,7 @@ Outcomes in PPCM are predominantly related to the degree of ventricular dysfunct
 
 #### Hypertrophic Cardiomyopathy</summary><div class="details-content">
 
-Women with HCM commonly tolerate pregnancy well. Maternal mortality is low (~1%) and morbidity is predominantly related to left ventricular outflow tract (LVOT) obstruction and arrhythmia. In fact, the increased plasma volume during pregnancy may lessen the LVOT obstruction. Preconception evaluation includes NYHA assessment, degree of LVOT obstruction, and surveillance for arrhythmias.
+Women with HCM commonly tolerate pregnancy well. Maternal mortality is low (~ 1%) and morbidity is predominantly related to left ventricular outflow tract (LVOT) obstruction and arrhythmia. In fact, the increased plasma volume during pregnancy may lessen the LVOT obstruction. Preconception evaluation includes NYHA assessment, degree of LVOT obstruction, and surveillance for arrhythmias.
 
 </div></details>
 
@@ -644,6 +644,8 @@ Women with cyanotic heart conditions should be counseled to obtain a permanent f
 #### Single Ventricle with Fontan Palliation</summary><div class="details-content">
 
 Pregnancies in women with a single ventricle palliated with a Fontan circulation are associated with high maternal and neonatal risk. There are high rates of miscarriages, with maternal complications such as supraventricular arrhythmias (most common), heart failure, and valve regurgitation. Baseline functional capacity, arrhythmia burden, single ventricular function, and degree of cyanosis are the basic determinants of pregnancy risk. Women with cyanosis, ventricular dysfunction, moderate or more atrioventricular valve regurgitation, or the presence of protein-losing enteropathy should be advised against pregnancy. Pregnancies in women with Fontan physiology have higher rates of miscarriage, heart failure, arrhythmia, and bleeding. Neonatal outcomes include prematurity and small for gestational age neonates. Anticoagulation throughout pregnancy should be considered in the Fontan patient due the higher risk of thrombosis during pregnancy coupled with the inherent hypercoagulable state of the Fontan circulation.
+
+</div></details>
 
 </div></details>
 

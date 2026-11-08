@@ -18,7 +18,7 @@
 * **Definition:** Aggregation of cardiovascular risk factors (central obesity, hypertension, dyslipidemia, insulin resistance). Most widely used definitions: NCEP-ATP III and WHO.
 
 ### Complications of Diabetes
-* **Microvascular:** Nephropathy (40% of patients; microalbuminuria earliest sign; ACE inhibitors/ARBs delay progression); retinopathy (leading cause of blindness in adults; ~50% prevalence).
+* **Microvascular:** Nephropathy (40% of patients; microalbuminuria earliest sign; ACE inhibitors/ARBs delay progression); retinopathy (leading cause of blindness in adults; ~ 50% prevalence).
 * **Macrovascular:** CHD risk 2- to 4-fold higher; diabetic women lose premenopausal protection. Insulin resistance precedes type 2 diabetes by 10–15 years, driving early atherosclerosis.
 * **Acute Coronary Syndromes:** Higher mortality with MI (9.4% vs 5.9% in diabetics vs nondiabetics). Antiplatelet therapy (prasugrel, ticagrelor) shows benefit; DIGAMI-2 emphasizes peri-ischemic glucose control.
 * **Diabetic Cardiomyopathy:** HFpEF characterized by microvascular endothelial dysfunction; diastolic dysfunction common (>50%). HOPE trial supports early ACE inhibition.
@@ -37,7 +37,7 @@
 * **SGLT-2 Inhibitors:** Empagliflozin (EMPA-REG): 14% reduction in MACE, 38% reduction in CV death, 35% reduction in heart failure hospitalization. NNT = 39 to prevent one death at 3 years.
 * **DPP-4 Inhibitors:** Saxagliptin (SAVOR), alogliptin (EXAMINE), sitagliptin (TECOS): neutral for MACE; saxagliptin associated with 27% increase in heart failure hospitalization.
 * **Insulin Therapy:** Basal insulin 0.1–0.2 units/kg/d; titrate to FPG goal. Type 1: 0.5 units/kg/d (50% basal, 50% bolus). Insulin pumps and CGM improve control and reduce hypoglycemia.
-* **Dyslipidemia:** Statins first-line (CARDS: 37% MACE reduction). Ezetimibe (IMPROVE-IT): 14% MACE reduction in diabetics. PCSK-9 inhibitors: ~60% LDL reduction. Fibrates/niacin not shown to add benefit to statins.
+* **Dyslipidemia:** Statins first-line (CARDS: 37% MACE reduction). Ezetimibe (IMPROVE-IT): 14% MACE reduction in diabetics. PCSK-9 inhibitors: ~ 60% LDL reduction. Fibrates/niacin not shown to add benefit to statins.
 * **Hypertension:** Target BP <140/90 mm Hg. ACE inhibitors or ARBs first-line (HOPE: 22% reduction in CV events). Combination RAAS blockade (ONTARGET) not recommended.
 * **Antiplatelet Therapy:** Aspirin 81 mg for men >50 or women >60 with additional risk factor.
 * **Bariatric Surgery:** For BMI ≥35 kg/m² with T2D. STAMPEDE: 38% (gastric bypass) vs 24% (sleeve) vs 5% (medical) achieved HbA1c target at 3 years. SOS: 72% remission at 2 years.
@@ -788,6 +788,8 @@ Investigators from Finland conducted a randomized trial of 522 middle-aged, over
 The Diabetes Prevention Program evaluated more than 3000 nondiabetic subjects with impaired fasting, and postglucose loading plasma glucose levels and showed that when compared to placebo, a lifestyle intervention reduced the incidence of developing diabetes by 58% (95% CI interval, 48%-66% and NNT of 7). Metformin reduced the incidence by 31% (95% CI interval, 17%-43%; NNT of 14). When compared head to head, the intervention group fared better than did the metformin group.
 
 Trials with antidiabetic agents in preventing type 2 diabetes have had limitations: the Diabetes Reduction Assessment with Ramipril and Rosiglitazone Medication (DREAM) trial has randomized 5269 patients with either impaired glucose tolerance or impaired fasting glucose in a factorial design to ramipril and/or rosiglitazone to determine whether such therapy prevents the onset of new type 2 diabetes. Rosiglitazone therapy led to a highly significant reduction in incident diabetes (HR 0.04, 95% CI 0.35-0.46; *P* < .0001); however, the use of rosiglitazone has fallen off because of safety concerns. The Nateglinide and Valsartan in Impaired Glucose Tolerance Outcomes Research (NAVIGATOR) trial, the largest diabetes prevention clinical trial to date, showed a modest reduction of 14% in the development of type 2 diabetes with valsartan but not nateglinide in 9150 subjects who have impaired glucose tolerance and are at high cardiovascular risk.
+
+</div></details>
 
 </div></details>
 

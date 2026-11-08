@@ -7,7 +7,7 @@
 ### Overview and Indications
 * **Electrophysiology Study (EPS):** Minimally invasive procedure using intracardiac catheters to diagnose and treat cardiac arrhythmias. Indicated when noninvasive testing is inconclusive and results will change management. Contraindicated in unstable angina, systemic infection, DVT at access site, or when risks outweigh benefits.
 * **Indications:** Evaluation of bradyarrhythmias, tachyarrhythmias, syncope, and risk stratification for sudden cardiac death. Also for delineating mechanism of narrow- or wide-complex tachycardia prior to ablation.
-* **Complications:** Cardiac perforation (0.2%), vascular access complications (0.4%), thromboembolic events (~0.5%), thrombophlebitis (0.6%), mortality (0.1%) for EPS alone. Higher with ablation procedures.
+* **Complications:** Cardiac perforation (0.2%), vascular access complications (0.4%), thromboembolic events (~ 0.5%), thrombophlebitis (0.6%), mortality (0.1%) for EPS alone. Higher with ablation procedures.
 * **Catheter Positions:** High right atrium, His bundle region, coronary sinus, right ventricular apex. Fluoroscopy and electroanatomic mapping guide placement.
 
 ### Intracardiac Electrograms and Conduction Intervals
@@ -127,7 +127,7 @@ The electrodes at the catheter tips are used to sense and pace cardiac tissue so
 
 ### Complications</summary><div class="details-content">
 
-In the present era, EPS is commonly performed concomitantly with catheter ablation, particularly for supraventricular or ventricular arrhythmias. Complications associated with EPS alone, without catheter ablation, include cardiac perforation (0.2%), vascular access complications (0.4%), thromboembolic events (~0.5%), thrombophlebitis (0.6%), and mortality (0.1%). Nonetheless, patients should not be exposed even to this minimal risk if there is no benefit expected from EPS.
+In the present era, EPS is commonly performed concomitantly with catheter ablation, particularly for supraventricular or ventricular arrhythmias. Complications associated with EPS alone, without catheter ablation, include cardiac perforation (0.2%), vascular access complications (0.4%), thromboembolic events (~ 0.5%), thrombophlebitis (0.6%), and mortality (0.1%). Nonetheless, patients should not be exposed even to this minimal risk if there is no benefit expected from EPS.
 
 </div></details>
 

@@ -91,7 +91,7 @@
       },
       "optionsRu": {
         "A": "В ее возрасте имплантация механического клапана связана с большей продолжительностью жизни по сравнению с имплантацией биологического клапана.",
-        "B": "Из-за необходимости терапии варфарином после операции риск ОНМК (CVA) ниже после имплантации механического клапана.",
+        "B": "Из-за необходимости терапии варфарином после операции риск ОНМК ниже после имплантации механического клапана.",
         "C": "Прогнозируемая смертность при повторной операции по замене митрального клапана аналогична прогнозируемой смертности после первой операции, поэтому в ее возрасте следует предпочесть биологический клапан.",
         "D": "Из-за приема варфарина после операции и более высокой частоты тампонады прогнозируемая 30-дневная смертность выше после имплантации механического клапана."
       },
@@ -200,8 +200,8 @@
         "D": "Posterior leaflet prolapse of the mitral valve is associated with a high rate of recurrent regurgitation after repair, and therefore the valve should be replaced."
       },
       "optionsRu": {
-        "A": "При отсутствии симптомов — конечный систолический размер левого желудочка (LVESD) более 45 мм.",
-        "B": "Конечный диастолический размер левого желудочка (LVEDD) более 55 мм.",
+        "A": "При отсутствии симптомов — конечный систолический размер левого желудочка более 45 мм.",
+        "B": "Конечный диастолический размер левого желудочка более 55 мм.",
         "C": "Одышка при умеренной физической нагрузке при фракции выброса левого желудочка менее 30% с улучшением симптомов после начала медикаментозной терапии сердечной недостаточности.",
         "D": "Пролапс задней створки митрального клапана связан с высокой частотой рецидива недостаточности после пластики, поэтому клапан следует заменить."
       },
@@ -236,7 +236,7 @@
         "D": "A mitral valve area of 1.5 cm² is too small for percutaneous balloon valvuloplasty. It should be explained that valve replacement surgery is the only treatment option."
       },
       "optionsRu": {
-        "A": "Шкала Уилкинса (Wilkins score), равная 4, является противопоказанием к транскатетерной баллонной митральной вальвулопластике.",
+        "A": "Шкала Уилкинса, равная 4, является противопоказанием к транскатетерной баллонной митральной вальвулопластике.",
         "B": "Поскольку у нее также имеется митральная недостаточность средней степени тяжести, выполнение транскатетерной баллонной митральной вальвулопластики противопоказано.",
         "C": "Тромб в левом предсердии не является противопоказанием к транскатетерной баллонной митральной вальвулопластике.",
         "D": "Площадь митрального клапана 1,5 см² слишком мала для транскатетерной баллонной вальвулопластики. Следует разъяснить, что операция по замене клапана является единственной лечебной опцией."
@@ -347,7 +347,7 @@
         "A": "Повреждение структуры, отмеченной буквой A, потребует имплантации кардиостимулятора.",
         "B": "Окклюзия структуры, отмеченной буквой B, вызовет ишемию миокарда и необходимость в аортокоронарном шунтировании.",
         "C": "Перфорация в структуре, отмеченной буквой C, позволяет провести операцию без кардиоплегической остановки сердца.",
-        "D": "Инфекционный эндокардит структуры, отмеченной буквой D, приведет к повреждению синусового (SA) узла."
+        "D": "Инфекционный эндокардит структуры, отмеченной буквой D, приведет к повреждению синусового узла."
       },
       "correctAnswer": "A",
       "explanationEn": "🎯 <b>Correct Answer: Option A: Damage to the structure marked with letter A will require pacemaker implantation.</b><br><br>🔵 <b>Anatomical and Surgical Rationale:</b><br>The image demonstrates the surgical anatomy of the 💠<b>Aortic Root</b>💠. Structure <b>A</b> is positioned at the <b>Membranous Septum</b>, specifically near the commissure between the <b>right coronary cusp (RCC)</b> and the <b>non-coronary cusp (NCC)</b>.<br><br>1️⃣ ⚡ <b>Conduction System Relationship (Option A):</b><br>The ❌<b>Bundle of His</b>❌ penetrates the central fibrous body and runs along the posteroinferior margin of the membranous septum. <br>• 🔪 <b>Surgical Danger:</b> This area is extremely vulnerable during Aortic Valve Replacement (AVR) or VSD repair. Deep sutures in the vicinity of structure A will cause ❌<b>Complete Heart Block</b>❌, making permanent pacemaker implantation mandatory.<br><br>2️⃣ ❌ <b>Why Other Options are Incorrect:</b><br>• 🔸 <b>Option B:</b> While structure B represents a coronary ostium, the exam focuses on the high-yield relationship between the aortic root and the conduction system shown by A.<br>• 🔸 <b>Option C:</b> A perforation in the aortic wall or cusp (C) typically makes <b>antegrade cardioplegia</b> delivery ineffective due to leakage, requiring <b>retrograde</b> delivery or direct ostial cannulation—it does ❌<b>not</b>❌ allow surgery without arrest.<br>• 🔸 <b>Option D:</b> Infective endocarditis of the aortic valve (D) frequently extends to the ❌<b>AV node</b>❌ or bundle of His (causing heart block), but it does not typically affect the <b>SA node</b>, which is located distant from the valve at the SVC-RA junction.<br><br>📚 <b>Key Point:</b><br>On the exam, structure <b>A</b> in the aortic root is always a marker for the <b>Bundle of His</b>. Remember: <b>RCC-NCC commissure = conduction system danger zone.</b>",
@@ -564,7 +564,7 @@
       },
       "optionsRu": {
         "A": "Увеличить концентрацию кислорода на аппарате искусственного кровообращения.",
-        "B": "Увеличить скорость газового потока (sweep gas flow) на аппарате искусственного кровообращения.",
+        "B": "Увеличить скорость газового потока на аппарате искусственного кровообращения.",
         "C": "Увеличить концентрацию кислорода на аппарате искусственного кровообращения и на аппарате ИВЛ.",
         "D": "Увеличить частоту дыхания на аппарате ИВЛ."
       },
@@ -847,7 +847,7 @@
       "optionsRu": {
         "A": "Прекратить введение при снижении уровня тромбоцитов более чем на 40% (или ниже 40%) от исходного предоперационного уровня.",
         "B": "Прекратить введение, если уровень тромбоцитов опускается ниже 80 000 после операции.",
-        "C": "Продолжить введение при отсутствии комплекса IgG-гепарин-4-й пластиночный фактор (PF4).",
+        "C": "Продолжить введение при отсутствии комплекса IgG-гепарин-4-й пластиночный фактор.",
         "D": "При наличии тромбоза не прекращать введение даже при уровне тромбоцитов ниже 200 000."
       },
       "correctAnswer": "B",
@@ -961,7 +961,7 @@
         "A": "В группе SIMA (одиночная внутренняя грудная артерия) было больше инфарктов миокарда (ИМ).",
         "B": "Смертность в группе BIMA (билатеральная внутренняя грудная артерия) была ниже.",
         "C": "Частота осложнений/вмешательств на грудине была в 3 раза выше в группе BIMA.",
-        "D": "Меньше ОНМК/инсультов (CVA) в группе BIMA (большинство OPCAB)."
+        "D": "Меньше ОНМК/инсультов в группе BIMA (большинство OPCAB)."
       },
       "correctAnswer": "C",
       "explanationEn": "🎯 <b>Correct Answer: Option C: Sternal wound complications/treatments were 3 times higher in the BIMA group.</b><br><br>🔵 <b>Detailed Clinical and Trial Rationale:</b><br>The Arterial Revascularization Trial (ART) was a landmark randomized study designed to compare 10‑year survival between patients receiving Bilateral Internal Mammary Artery (BIMA) and Single Internal Mammary Artery (SIMA) grafts.<br><br>1️⃣ 📊 <b>Primary Outcomes (Mortality and MACCE):</b><br>Contrary to previous observational data, the primary intention‑to‑treat (ITT) analysis at 10 years found no significant difference in all‑cause mortality between the groups (BIMA 20.3% vs. SIMA 21.2%; HR 0.96, p=0.62). There was also no significant difference in the composite of death, myocardial infarction (MI), or stroke. This makes Options A and B incorrect.<br><br>2️⃣ ⚠️ <b>Sternal Complications (Option C):</b><br>While survival was similar, the trial identified a significant increase in sternal morbidity associated with BIMA harvesting. The rate of sternal wound reconstruction (major intervention) was 2.0% in the BIMA group versus 0.6% in the SIMA group. This represents a relative risk (RR) of 3.11, or roughly a 3‑fold increase in serious sternal complications requiring treatment. This is the most established and statistically significant adverse finding of the trial.<br><br>3️⃣ ⚖️ <b>Rejection of Option D:</b><br>While the BIMA group had a numerically lower rate of stroke (3.7% vs. 4.9%), this was not statistically significant (HR 0.75, 95% CI 0.53‑1.06). Furthermore, approximately 40% of patients in both groups underwent OPCAB, not a majority specific to BIMA.<br><br>📚 <b>Key Point:</b><br>On the exam, the ART trial is remembered for two things: <b>1. Failing to prove a 10‑year survival benefit for BIMA</b> in the ITT analysis (due to high crossover and radial artery use in the SIMA group) and <b>2. A significant (3x) increase in sternal wound reconstruction risk.</b>",
@@ -1030,7 +1030,7 @@
         "E": "Cardiac Index (CI) ≤ 2.2 L/min/m²"
       },
       "optionsRu": {
-        "A": "Пиковое потребление кислорода (Peak VO2) < 12 мл/кг/мин",
+        "A": "Пиковое потребление кислорода < 12 мл/кг/мин",
         "B": "Пациент, получающий инотропы, без возможности отмены или без переносимости снижения дозы",
         "C": "Давление заклинивания легочных капилляров (PCWP) ≥ 18 мм рт. ст.",
         "D": "Артериальная гипотензия, препятствующая терапии ингибиторами АПФ или бета-блокаторами",
@@ -1179,7 +1179,7 @@
       "optionsRu": {
         "A": "Одинаковая частота умеренной и тяжелой регургитации, несмотря на пластику.",
         "B": "Больше CVA / неврологических осложнений при проведении пластики.",
-        "C": "Хуже конечный систолический объем левого желудочка (LVESVI) при пластике.",
+        "C": "Хуже конечный систолический объем левого желудочка при пластике.",
         "D": "Выше смертность при проведении пластики."
       },
       "correctAnswer": "B",
@@ -1214,11 +1214,11 @@
         "E": "Intercostal muscles"
       },
       "optionsRu": {
-        "A": "Широчайшая мышца спины (Latissimus dorsi)",
-        "B": "Нижняя часть трапециевидной мышцы (Lower trapezius)",
-        "C": "Нижняя часть ромбовидной мышцы (Lower rhomboid)",
-        "D": "Верхняя часть передней зубчатой мышцы (Superior serratus anterior)",
-        "E": "Межреберные мышцы (Intercostal muscles)"
+        "A": "Широчайшая мышца спины",
+        "B": "Нижняя часть трапециевидной мышцы",
+        "C": "Нижняя часть ромбовидной мышцы",
+        "D": "Верхняя часть передней зубчатой мышцы",
+        "E": "Межреберные мышцы"
       },
       "correctAnswer": "D",
       "explanationEn": "🎯 <b>Correct Answer: Option D: Superior serratus anterior.</b><br><br>🔵 <b>Detailed Surgical and Anatomical Rationale:</b><br>The scenario of a pregnant woman with severe mitral stenosis (MS) historically involves a ❌<b>closed mitral valvotomy</b>❌ performed via a left thoracotomy to avoid the risks of <b>cardiopulmonary bypass (CPB)</b> to the fetus. An 💠<b>extended left thoracotomy</b>💠 (essentially a standard posterolateral thoracotomy) requires a significant incision to provide adequate exposure.<br><br>1️⃣ 🔪 <b>Structures Divided in an Extended Thoracotomy:</b><br>According to surgical anatomical principles, a traditional or extended posterolateral incision involves:<br>• 💠<b>Option A (Latissimus dorsi):</b>💠 This large muscle is ❌<b>routinely divided</b>❌ in the direction of the skin incision.<br>• 💠<b>Options B & C (Lower Trapezius and Rhomboids):</b>💠 In an ❌<b>extended</b>❌ incision that reaches posteriorly between the scapula and the spine, the lower fibers of the trapezius and the lower rhomboid muscles are often ❌<b>divided</b>❌ to allow for wide rib spreading.<br>• 💠<b>Option E (Intercostal muscles):</b>💠 These must always be incised to enter the pleural cavity.<br><br>2️⃣ 🛡️ <b>The Spared Structure (Option D):</b><br>The ❌<b>Superior Serratus Anterior</b>❌ originates from the first and second ribs and inserts into the superior angle of the scapula. <br>• 📐 <b>Anatomical Level:</b> Thoracotomies for mitral valve access or aortic coarctation typically enter through the ❌<b>4th or 5th intercostal space</b>❌. <br>• ⚙️ <b>Mechanism:</b> While the middle or lower fibers of the serratus anterior may be divided or mobilized, the ❌<b>superior portion</b>❌ remains well above the surgical field and is ❌<b>NOT injured or divided</b>❌ during this approach.<br><br>📚 <b>Key Point:</b><br>On the exam, anatomical questions regarding thoracotomy incisions often focus on what is NOT divided. Remember that <b>'Superior'</b> structures (like the superior serratus or pectoralis minor) are usually safely above the standard thoracotomy line (4th-5th space). (This specific item is confirmed by official board exam logic).",
@@ -1253,11 +1253,11 @@
         "E": "Anterior thoracotomy"
       },
       "optionsRu": {
-        "A": "Срединная стернотомия (Median sternotomy)",
-        "B": "Частичная верхняя стернотомия (Partial upper sternotomy)",
+        "A": "Срединная стернотомия",
+        "B": "Частичная верхняя стернотомия",
         "C": "Поперечная торакостернотомия («клэмшелл» / Transverse clamshell thoracosternotomy)",
-        "D": "Заднебоковая торакотомия (Posterolateral thoracotomy)",
-        "E": "Передняя торакотомия (Anterior thoracotomy)"
+        "D": "Заднебоковая торакотомия",
+        "E": "Передняя торакотомия"
       },
       "correctAnswer": "A",
       "explanationEn": "🎯 <b>Correct Answer: Option A: Median sternotomy.</b><br><br>🔵 <b>Detailed Surgical and Oncological Rationale:</b><br>The surgical management of 💠<b>bilateral pulmonary metastases</b>💠 (most commonly from colorectal cancer) requires an approach that provides simultaneous access to both hemithoraces while minimizing patient morbidity.<br><br>1️⃣ 📐 <b>The Access Advantage (Option A):</b><br>The specific preferred approach for tumors in both the right upper and left lower lobes is ❌<b>Median Sternotomy</b>❌. <br>• 💠<b>Clinical Utility:</b>💠 Sternotomy allows the surgeon to perform a ❌<b>single-stage operation</b>❌, examining and resecting nodules from both lungs without the need to reposition the patient or perform two separate thoracotomies.<br>• 💠<b>Palpation:</b>💠 In lung metastasectomy, manual palpation is essential to detect small, occult nodules (micrometastases) that are frequently missed by preoperative CT scans. Sternotomy provides excellent access for bilateral palpation.<br><br>2️⃣ ⚖️ <b>Evaluation of Other Approaches:</b><br>• 💠<b>Option C (Clamshell):</b>💠 While a bilateral transverse thoracosternotomy provides ❌<b>enhanced exposure</b>❌ of the apical pleural spaces and is used for bilateral lung transplants, it is significantly more invasive and associated with ❌<b>higher morbidity and postoperative pain</b>❌ compared to a standard sternotomy.<br>• 💠<b>Option D (Posterolateral Thoracotomy):</b>💠 This is the traditional approach for unilateral disease but would require two separate procedures (or a very complex single-stage repositioning) to address bilateral tumors.<br>• 💠<b>Options B & E:</b>💠 Partial or anterior approaches do not provide the complete bilateral hilar and parenchymal exposure required for a thorough oncological metastasectomy.<br><br>📚 <b>Key Point:</b><br>On the exam, remember: <b>Bilateral lung nodules = Median Sternotomy.</b> This approach is the standard for metastasectomy because it allows for a <b>one-stop</b> bilateral manual inspection, which is the gold standard for clearing the lungs of metastatic disease.",
@@ -1288,8 +1288,8 @@
         "B": "Median sternotomy"
       },
       "optionsRu": {
-        "A": "Правосторонняя геми-клэмшелл торакостернотомия (Right hemi-clamshell)",
-        "B": "Срединная стернотомия (Median sternotomy)"
+        "A": "Правосторонняя геми-клэмшелл торакостернотомия",
+        "B": "Срединная стернотомия"
       },
       "correctAnswer": "A",
       "explanationEn": "🎯 <b>Correct Answer: Option A: Right hemi-clamshell thoracosternotomy.</b><br><br>🔵 <b>Detailed Surgical and Anatomical Rationale:</b><br>The surgical management of trauma to the 💠<b>innominate artery</b>💠 or 💠<b>right subclavian artery</b>💠 requires an approach that ensures rapid proximal control at the aortic arch while providing enough lateral exposure to manage distal vessel segments and associated injuries.<br><br>1️⃣ 🔪 <b>The 'Trapdoor' or Hemi-clamshell Approach (Option A):</b><br>• 📐 <b>Composition:</b> A standard median sternotomy can be modified with supraclavicular and anterior thoracotomy extensions—often referred to as a ❌<b>'trapdoor' or hemi-clamshell incision</b>❌. <br>• 💠<b>Clinical Utility:</b>💠 This approach is specifically designed to provide ❌<b>maximal exposure</b>❌ to the distal innominate artery and the proximal-to-mid portions of the right subclavian artery, which are difficult to reach via a midline-only incision. <br>• 📋 <b>Exam Evidence:</b> In the ❌<b>2015 Israeli Board Exam (Stage A) reconstruction</b>❌, the right hemi-clamshell is the specifically keyed answer for management of these injuries.<br><br>2️⃣ ❌ <b>Why Option B (Median Sternotomy) is Incomplete:</b><br>• While 💠<b>median sternotomy</b>💠 is the standard for gaining ❌<b>proximal control</b>❌ at the aortic arch for innominate injuries, it provides ❌<b>limited visualization</b>❌ of the more distal and lateral segments of the right subclavian artery as it passes behind the clavicle. <br>• In trauma cases where the injury involves the right subclavian or the bifurcation of the innominate, the extension into a hemi-clamshell is usually required for a safe and effective repair.<br><br>📚 <b>Key Point:</b><br>On the exam, for <b>Right-sided Great Vessel Trauma</b> (Innominate or Right Subclavian), remember that <b>Median Sternotomy</b> is for proximal control, but the <b>Hemi-clamshell (Trapdoor)</b> is the preferred 'total-exposure' approach.",
@@ -1359,8 +1359,8 @@
         "D": "Check Factor VII levels"
       },
       "optionsRu": {
-        "A": "Проверить время кровотечения (Bleeding Time)",
-        "B": "Подготовить 4 дозы эритроцитарной массы (PRBC) к операции",
+        "A": "Проверить время кровотечения",
+        "B": "Подготовить 4 дозы эритроцитарной массы к операции",
         "C": "Ввести свежезамороженную плазму (СЗП / FFP)",
         "D": "Проверить уровень фактора VII"
       },
@@ -1399,7 +1399,7 @@
         "A": "Инородное тело",
         "B": "Ятрогенная (IATROGENIC / инструментальные процедуры)",
         "C": "Синдром Бурхаве (BOEREHAAVE / спонтанный разрыв)",
-        "D": "Аденокарцинома (ADENO CA)",
+        "D": "Аденокарцинома",
         "E": "Едкие/едкие химические вещества"
       },
       "correctAnswer": "B",
@@ -1510,7 +1510,7 @@
         "B": "Диаметр менее 3 см",
         "C": "Паттерн/характер кальцификации",
         "D": "Туберкулез в детском возрасте",
-        "E": "Время удвоения объема (Doubling time) 150 дней"
+        "E": "Время удвоения объема 150 дней"
       },
       "correctAnswer": "C",
       "explanationEn": "🎯 <b>Correct Answer: Option C: Specific pattern of calcification.</b>\n\n🔵 <b>Detailed Clinical and Radiographic Rationale:</b>\nThe evaluation of a Solitary Pulmonary Nodule (SPN) relies on identifying features that differentiate benign lesions from malignancies. Radiographic appearance, specifically the calcification pattern, is one of the most reliable predictors.\n\n1️⃣ 🔬 <b>Patterns of Calcification (Option C):</b>\nCertain calcification patterns are highly characteristic of benign processes:\n• 💠<b>Diffuse, Central, or Laminated:</b> Usually indicates a prior granulomatous infection (e.g., histoplasmosis or tuberculosis).\n• 💠<b>Popcorn Calcification:</b> The classic hallmark of a hamartoma, which is benign.\n• ⚠️ <b>Contrast:</b> Malignant nodules often lack calcification or exhibit eccentric or stippled patterns, which are considered suspicious.\n\n2️⃣ ⚖️ <b>Rejection of Other Options:</b>\n• ❌ <b>Option A (12 months stability):</b> The standard radiographic criterion for benignity is stability for at least 2 years (24 months). Twelve months is insufficient to rule out a slow-growing malignancy.\n• ❌ <b>Option B (Size):</b> By definition, an SPN is a lesion less than 3 cm. While smaller nodules have a lower statistical probability of malignancy than larger masses (>3 cm), the size itself is not a definitive indicator of benignity.\n• ❌ <b>Option E (Doubling time 150 days):</b> The doubling time of most malignant lung tumors is between 20 and 400 days. A doubling time of 150 days is highly suggestive of a malignant process. Benign lesions typically double in less than 20 days (acute infection) or more than 450-500 days (stable).\n• ❌ <b>Option D (History of TB):</b> While a history of tuberculosis can lead to benign granulomas, it also creates scar tissue that can be a site for future \"scar carcinoma.\" History alone is not a reliable radiographic indicator of the nodule's current status.\n\n📚 <b>Key Point:</b>\nOn the exam, the <b>'Pattern of Calcification'</b> is the most specific radiographic clue for benignity. Remember: <b>Popcorn = Hamartoma (Benign)</b>; <b>Diffuse/Central = Granuloma (Benign)</b>. Any nodule stable for <b>< 2 years</b> or with a doubling time in the <b>20-400 day</b> range must be treated as potentially malignant.",
@@ -1542,7 +1542,7 @@
         "C": "Complete rupture of the main left bronchus"
       },
       "optionsRu": {
-        "A": "Проникающая травма с электромеханической диссоциацией (EMD / PEA)",
+        "A": "Проникающая травма с электромеханической диссоциацией",
         "B": "Пневмоторакс",
         "C": "Полный разрыв левого главного бронха"
       },
@@ -1612,7 +1612,7 @@
         "B": "Интубация дыхательных путей",
         "C": "Фиксация/иммобилизация предмета для предотвращения дальнейшего повреждения",
         "D": "Установка дренажа справа",
-        "E": "Торакотомия в приемном покое (ER)"
+        "E": "Торакотомия в приемном покое"
       },
       "correctAnswer": "B",
       "explanationEn": "🎯 <b>Correct Answer: Option B: Endotracheal intubation.</b><br><br>🔵 <b>Detailed Clinical and Surgical Rationale:</b><br>The management of a patient with an impaled object in the chest follows the standardized Advanced Trauma Life Support (ATLS) sequence, which prioritizes life-saving interventions in the ABCDE order.<br><br>1️⃣ 📋 <b>Airway Priority (Option B):</b><br>• The initial evaluation of suspected cardiac or great vessel injuries must include early stabilization of Airway (A), Breathing (B), and Circulation (C). <br>• Even if the patient is currently conscious, a massive impaled object (like an oar) indicates a high risk of rapid respiratory failure, tension pneumothorax, or the immediate need for emergency surgical exploration. <br>• Endotracheal intubation is among the resuscitative measures that should be performed promptly on admission to the emergency department for patients with significant chest wounds.<br><br>2️⃣ ⚖️ <b>Evaluation of Other Options:</b><br>• Option C (Stabilize object): While securing the object is a valid pre-hospital/paramedic step to prevent further mechanical trauma during transport, in the hospital setting, airway management (A) takes precedence over structural stabilization (C). Furthermore, the rule of trauma is to never remove the object until the patient is in the operating room and the pericardium is ready to be opened.<br>• Option E (ER Thoracotomy): Reserved for patients in extremis (loss of vital signs) or with signs of tamponade leading to arrest. A fully conscious patient should be stabilized and moved to the OR for definitive care.<br>• Option D (Chest tube): Breathing (B) is a priority, but only after the Airway (A) is secured, especially if intubation is required for the upcoming surgery.<br><br>📚 <b>Key Point:</b>\nOn the exam, for any major penetrating trauma, follow the ABC sequence strictly. Airway always comes first. Even if 'securing the object' sounds like standard first aid, Intubation is the correct 'next step' in the clinical resuscitation of a major chest wound patient.",
@@ -1682,10 +1682,10 @@
         "E": "Childhood TGA repair with VSD without pulmonary stenosis"
       },
       "optionsRu": {
-        "A": "Аневризма левого желудочка (LV aneurysm)",
+        "A": "Аневризма левого желудочка",
         "B": "Низкая глобальная фракция выброса левого желудочка (EF)",
-        "C": "Рубец нижней стенки (Inferior wall scar)",
-        "D": "Рубец передней папиллярной мышцы (Anterior papillary muscle scar)",
+        "C": "Рубец нижней стенки",
+        "D": "Рубец передней папиллярной мышцы",
         "E": "Коррекция транспозиции магистральных артерий (TGA) в детстве с ДМЖП без стеноза легочной артерии"
       },
       "correctAnswer": "B",
@@ -1720,7 +1720,7 @@
       },
       "optionsRu": {
         "A": "Фибрилляция предсердий (AF)",
-        "B": "Выраженные симптомы (NYHA III–IV)",
+        "B": "Выраженные симптомы",
         "C": "Субаортальный градиент ЛЖ ≥ 40 мм рт. ст., обусловленный SAM-синдромом",
         "D": "Анамнез необъяснимой остановки сердца / внезапной сердечной смерти"
       },
@@ -1756,7 +1756,7 @@
       "optionsRu": {
         "A": "Рецидивирующая тромбоэмболия легочной артерии (ТЭЛА)",
         "B": "Сам факт выявления дефекта (независимо от размера или сброса)",
-        "C": "Сброс крови слева направо с соотношением легочного и системного кровотока (Qp:Qs) 2.5:1",
+        "C": "Сброс крови слева направо с соотношением легочного и системного кровотока 2.5:1",
         "D": "Полная АВ-блокада"
       },
       "correctAnswer": "C",
@@ -1790,11 +1790,11 @@
         "E": "Tricuspid valve valvotomy"
       },
       "optionsRu": {
-        "A": "Закрытие ДМПП (ASD closure)",
+        "A": "Закрытие ДМПП",
         "B": "Шунт Гленна (Glenn shunt / двунаправленный анастомоз Гленна)",
-        "C": "Операция предсердного переключения (Atrial switch)",
-        "D": "Закрытие ДМЖП (VSD closure)",
-        "E": "Вальвотомия трехстворчатого клапана (Tricuspid valvotomy)"
+        "C": "Операция предсердного переключения",
+        "D": "Закрытие ДМЖП",
+        "E": "Вальвотомия трехстворчатого клапана"
       },
       "correctAnswer": "B",
       "explanationEn": "🎯 <b>Correct Answer: Option B: Glenn shunt (Bidirectional Glenn procedure).</b><br><br>🔵 <b>Detailed Clinical and Pathophysiological Rationale:</b><br>Tricuspid Atresia is a congenital heart defect characterized by the absence of the tricuspid valve, leading to a ❌<b>univentricular connection</b>❌ where the Left Ventricle (LV) must support both systemic and pulmonary circulations.<br><br>1️⃣ ⚙️ <b>The Physiology of Tricuspid Atresia:</b><br>• In this condition, the ❌<b>Right Ventricle (RV) is severely hypoplastic</b>❌ and cannot support a normal biventricular circulation. <br>• Blood from the Right Atrium must pass through an ❌<b>ASD</b>❌ to reach the left side of the heart, and then through a ❌<b>VSD</b>❌ to reach the lungs (in common variants).<br><br>2️⃣ 🛠️ <b>The Surgical Pathway (The Fontan Pathway):</b><br>Because the RV is too small to function as a pump, the management strategy is ❌<b>univentricular palliation</b>❌ (Fontan pathway), which aims to direct venous blood directly to the lungs without passing through a ventricle.<br>• 💠<b>Stage 1:</b>💠 Initial palliation (e.g., BT shunt or PA banding) to regulate pulmonary blood flow.<br>• 💠<b>Stage 2 (Option B):</b>💠 The ❌<b>Bidirectional Glenn procedure (Superior Cavopulmonary Shunt)</b>❌. This involves connecting the Superior Vena Cava (SVC) directly to the Pulmonary Artery. It is a standard, essential intermediate step for patients with tricuspid atresia.<br>• 💠<b>Stage 3:</b>💠 The <b>Fontan procedure</b>, where Inferior Vena Cava (IVC) flow is also directed to the lungs.<br><br>3️⃣ ⚖️ <b>Why Other Options are Incorrect:</b><br>• ❌ <b>Options A & D:</b> Closing the ASD or VSD in the early stages of palliation would be ❌<b>fatal</b>❌. The ASD is mandatory for RA-to-LA flow, and the VSD is often the only route for blood to reach the RV and lungs.<br>• ❌ <b>Option C:</b> Atrial switch is for <b>Transposition of the Great Arteries (TGA)</b> with two viable ventricles, not for single-ventricle physiology.<br>• ❌ <b>Option E:</b> There is no valve to perform a valvotomy on, as the tricuspid valve is <b>atretic/absent</b>.<br><br>📚 <b>Key Point:</b><br>On the exam, for <b>Tricuspid Atresia</b> or any <b>Single Ventricle</b> case, the surgical management always involves the <b>Fontan Pathway</b>. The <b>Glenn Shunt</b> (Stage 2) is the most frequent intermediate surgical step tested.",
@@ -1937,7 +1937,7 @@
         "A": "Хроническая болезнь почек с уровнем креатинина около 2 мг/дл",
         "B": "Легочная гипертензия",
         "C": "Дисфункция правого желудочка с асцитом и периферическими отеками",
-        "D": "Непереносимость / абсолютные противопоказания к терапии варфарином (Coumadin)"
+        "D": "Непереносимость / абсолютные противопоказания к терапии варфарином"
       },
       "correctAnswer": "D",
       "explanationEn": "🎯 <b>Correct Answer: Option D: Patient intolerance / absolute contraindication to Warfarin (Coumadin) anticoagulation.</b><br><br>🔵 <b>Detailed Clinical and Surgical Rationale:</b><br>The successful management of a patient with a durable Left Ventricular Assist Device (LVAD) requires strict adherence to a complex medical regimen, with long-term anticoagulation being the most critical component to prevent catastrophic pump thrombosis or stroke.<br><br>1️⃣ 💊 <b>Mandatory Anticoagulation (Option D):</b><br>All current durable pumps (such as the HeartMate 3) require mandatory anticoagulation to mitigate the high risk of thromboembolic events associated with foreign non-endothelial surfaces. Warfarin (a Vitamin K Antagonist) remains the gold standard for durable MCS devices, as newer oral anticoagulants (NOACs/DOACs) like dabigatran have been shown to be inferior or contraindicated due to higher rates of major bleeding and thromboembolism. Therefore, an absolute contraindication to Warfarin (e.g., active severe bleeding diathesis) is a fundamental contraindication to durable LVAD therapy.<br><br>2️⃣ ⚖️ <b>Evaluation of Other Options:</b><br>• Option A (CKD): While renal dysfunction is a significant risk factor for poor outcomes (as seen in the HeartMate II Risk Score), a creatinine of 2 mg/dL is generally considered manageable. Only patients requiring chronic dialysis are typically excluded from durable MCS.<br>• Option B (PH): Pulmonary hypertension is often not a contraindication; in fact, LVAD implantation is frequently warranted to treat secondary PH by offloading the left atrium and forcing a reduction in pulmonary pressures.<br>• Option C (RV Dysfunction): Severe RV failure (evidenced by ascites and edema) is a major comorbid risk and may necessitate a Biventricular Assist Device (BiVAD) or a Total Artificial Heart, but it does not categorically exclude a patient from mechanical support therapy altogether.<br><br>📚 <b>Key Point:</b><br>On the exam, remember that <b>durable LVAD = mandatory Warfarin.</b> Any patient who cannot be anticoagulated is <b>not</b> a candidate for a permanent pump. Also, distinguish between <b>PH</b> (often an indication) and <b>RV failure</b> (a risk requiring BiVAD), and note that <b>Cr of 2.0</b> is a risk factor, not an absolute barrier.",
@@ -1971,7 +1971,7 @@
       },
       "optionsRu": {
         "A": "Выполнить ЧКВ (стентирование) наиболее значимого стеноза в ходе процедур и затем направить на CABG",
-        "B": "Остановить процедуру на данном этапе и собрать кардиокоманду (Heart Team)",
+        "B": "Остановить процедуру на данном этапе и собрать кардиокоманду",
         "C": "Поскольку у пациента нормальная функция ЛЖ и нет диабета, лучшим выбором является ЧКВ (PCI)",
         "D": "Поскольку имеет место трехсосудистое поражение, наилучшим решением является АКШ (CABG)"
       },
@@ -2006,7 +2006,7 @@
         "D": "Fluid resuscitation to improve peripheral perfusion"
       },
       "optionsRu": {
-        "A": "Установка катетера Свана-Ганца (Swan-Ganz), измерение сердечного выброса и ОПСС, подбор инотропной и вазопрессорной поддержки",
+        "A": "Установка катетера Свана-Ганца, измерение сердечного выброса и ОПСС, подбор инотропной и вазопрессорной поддержки",
         "B": "Установка внутриаортального баллонного контрпульсатора (IABP) и повторная ревизия раны / реэксплорация в операционной",
         "C": "Перевод пациента в кардиоангиографическую лабораторию для экстренной коронарографии и оценки состоятельности шунтов",
         "D": "Инфузионная терапия для улучшения периферической перфузии"
@@ -2111,7 +2111,7 @@
       },
       "optionsRu": {
         "A": "Прямое повреждение диафрагмы",
-        "B": "Повреждение диафрагмального нерва (Phrenic nerve)",
+        "B": "Повреждение диафрагмального нерва",
         "C": "Ателектаз легкого",
         "D": "Обструкция бронха"
       },
@@ -2146,7 +2146,7 @@
       "optionsRu": {
         "A": "Увеличение объема заправки контура искусственного кровообращения",
         "B": "Укорочение длины магистралей и использование ультрафильтрации для поддержания высокого гематокрита",
-        "C": "Введение свежезамороженной плазмы (FFP)"
+        "C": "Введение свежезамороженной плазмы"
       },
       "correctAnswer": "B",
       "explanationEn": "🎯 <b>Correct Answer: Option B: Shortening the tubing circuit length and using ultrafiltration to maintain a high hematocrit.</b>\n\n🔵 <b>Detailed Clinical and Technical Rationale:</b>\nManaging patients who refuse blood products (e.g., Jehovah's Witnesses) requires a ❌<b>multimodal blood conservation strategy</b>❌ designed to minimize hemodilution and maximize the preservation of the patient's own red cell mass.\n\n1️⃣ ⚙️ <b>Minimizing Priming Volume (Option B):</b>\n• The standard 💠<b>cardiopulmonary bypass (CPB)</b>💠 circuit is primed with 1000–1500 mL of crystalloid solution, which causes significant ❌<b>hemodilution</b>❌. \n• Reducing the priming requirement by using ❌<b>shorter tubing lengths</b>❌ and smaller diameter lines is a primary method to avoid transfusion. \n• ❌<b>Miniaturized circuits</b>❌ (mini-circuits) further reduce the prime volume (to <500–800 mL), which helps maintain a higher intraoperative hematocrit and reduces the need for allogeneic blood.\n\n2️⃣ 🔬 <b>Role of Ultrafiltration (Option B):</b>\n• ❌<b>Modified Ultrafiltration (MUF)</b>❌ or hemoconcentration is used to remove excess water and inflammatory mediators at the end of the bypass run. \n• This process increases the concentration of red cells and plasma proteins (hemoconcentration), thereby ❌<b>maintaining a high hematocrit</b>❌ without the need for external blood.\n\n3️⃣ ⚖️ <b>Why Other Options are Incorrect:</b>\n• ❌ <b>Option A:</b> Increasing the priming volume would ❌<b>increase hemodilution</b>❌, dropping the hematocrit further and making a transfusion more likely.\n• ❌ <b>Option C:</b> 💠<b>Fresh Frozen Plasma (FFP)</b>💠 is a ❌<b>blood product</b>❌. For a patient who refuses blood products, administering FFP is a direct violation of their refusal. Additionally, FFP volume expansion actually ❌<b>lowers the hematocrit</b>❌ further by dilution.\n\n📚 <b>Key Point:</b>\nOn the exam, for <b>Jehovah’s Witness</b> or <b>bloodless surgery</b>, look for answers that <b>minimize hemodilution</b>. This includes <b>mini-circuits</b>, <b>shorter tubing</b>, <b>Retrograde Autologous Priming (RAP)</b>, and <b>Ultrafiltration</b>.",
@@ -2322,7 +2322,7 @@
         "D": "Rheumatic"
       },
       "optionsRu": {
-        "A": "Двустворчатый аортальный клапан (BAV)",
+        "A": "Двустворчатый аортальный клапан",
         "B": "Врожденный",
         "C": "Приобретенный / Кальцинирующий дегенеративный",
         "D": "Ревматический"
@@ -2462,9 +2462,9 @@
         "D": "IV Furosemide"
       },
       "optionsRu": {
-        "A": "Гипертонический раствор натрия хлорида (3% NaCl)",
-        "B": "Физиологический раствор (0.9% NaCl)",
-        "C": "Гипотонический раствор (0.45% NaCl)",
+        "A": "Гипертонический раствор натрия хлорида",
+        "B": "Физиологический раствор",
+        "C": "Гипотонический раствор",
         "D": "Фуросемид внутривенно"
       },
       "correctAnswer": "A",
@@ -2571,7 +2571,7 @@
       },
       "optionsRu": {
         "A": "Более низкая частота эндокардита",
-        "B": "Более низкая частота околоклапанной фистулы (paravalvular leak)",
+        "B": "Более низкая частота околоклапанной фистулы",
         "C": "Аналогичная частота повторных операций по замене клапана",
         "D": "Возможность выполнения процедуры Valve-in-Valve TAVI в будущем"
       },
@@ -2677,10 +2677,10 @@
         "D": "Vicryl"
       },
       "optionsRu": {
-        "A": "Шелк (Silk)",
-        "B": "Этибонд (Ethibond)",
-        "C": "Пролен (Prolene)",
-        "D": "Викрил (Vicryl)"
+        "A": "Шелк",
+        "B": "Этибонд",
+        "C": "Пролен",
+        "D": "Викрил"
       },
       "correctAnswer": "D",
       "explanationEn": "🎯 <b>Correct Answer: Option D: Vicryl.</b><br><br>🔵 <b>Detailed Rationale:</b><br>Suture materials in cardiovascular surgery are categorized broadly into absorbable and non-absorbable types.<br><br>1️⃣ 🧵 <b>Absorbable Sutures (Option D):</b><br>• <b>Vicryl</b> (polyglactin 910) is a synthetic, braided, ❌<b>absorbable</b>❌ suture. It is broken down by hydrolysis in tissues, typically losing its tensile strength over a few weeks and completely absorbing within 56 to 70 days. It is often used for approximating soft tissues where permanent support is not required (e.g., subcutaneous layers, muscle reapproximation).<br><br>2️⃣ ⚖️ <b>Evaluation of Other Options (Non-Absorbable Sutures):</b><br>• 💠<b>Option A (Silk):</b>💠 Silk is a braided natural protein suture. Although it degrades very slowly over years in vivo, it is classified as a ❌<b>non-absorbable</b>❌ suture. It is historically used for tying off vessels or securing chest tubes/drains.<br>• 💠<b>Option B (Ethibond):</b>💠 Ethibond is a braided synthetic polyester suture. It is ❌<b>non-absorbable</b>❌ and maintains its tensile strength indefinitely. It is heavily relied upon in cardiac surgery for valve sewing and anchoring patches due to its high strength and durability.<br>• 💠<b>Option C (Prolene):</b>💠 Prolene (polypropylene) is a monofilament synthetic ❌<b>non-absorbable</b>❌ suture. It is the gold standard for creating vascular anastomoses (e.g., coronary bypass grafts, aortic anastomoses) because it slides smoothly through tissues, elicits minimal inflammatory response, and retains its strength permanently.<br><br>📚 <b>Key Point:</b><br>On the exam, knowing the classification of basic surgical materials is essential. <b>Vicryl = Absorbable</b>. <b>Prolene, Ethibond, Silk, Nylon = Non-absorbable</b>.",
@@ -2745,7 +2745,7 @@
       },
       "optionsRu": {
         "A": "Отключить пациента от временного электрокардиостимулятора",
-        "B": "Увеличить чувствительность (Sensitivity) ЭКС (снизить порог чувствительности в мВ)",
+        "B": "Увеличить чувствительность ЭКС (снизить порог чувствительности в мВ)",
         "C": "Ввести нагрузочную дозу амиодарона (Кордарона)"
       },
       "correctAnswer": "B",
@@ -2852,7 +2852,7 @@
       "optionsRu": {
         "A": "Первичный дренаж крови объемом 1200 мл (или > 1500 мл)",
         "B": "Свободный воздух в средостении (пневмомедиастинум)",
-        "C": "Перикардиальный пот на УЗИ (FAST)",
+        "C": "Перикардиальный пот на УЗИ",
         "D": "Внутрибрюшное кровотечение"
       },
       "correctAnswer": "A",
@@ -3377,7 +3377,7 @@
         "B": "локальном действии в месте повреждения ткани путем связывания с обнаженным тканевым фактором и образования небольших количеств тромбина, достаточных для активации тромбоцитов",
         "C": "ингибировании протеаз, что ослабляет многие аспекты воспалительного ответа на искусственное кровообращение",
         "D": "нейтрализации гепарина посредством простого кислотно-основного взаимодействия",
-        "E": "стимуляции высвобождения сверхкрупных мультимеров фактора Виллебранда (vWF) из эндотелиальных клеток, с повышением уровня как vWF, так и фактора VIII"
+        "E": "стимуляции высвобождения сверхкрупных мультимеров фактора Виллебранда из эндотелиальных клеток, с повышением уровня как vWF, так и фактора VIII"
       },
       "correctAnswer": "B",
       "explanationEn": "🎯 <b>Correct Answer: Option B: local action at the site of tissue injury by binding to exposed tissue factor and forming small amounts of thrombin that are sufficient to activate platelets.</b><br><br>🔵 <b>Detailed Pharmacological Rationale:</b><br>Understanding the specific mechanisms of action of various hemostatic agents is crucial in managing severe postoperative bleeding.<br><br>1️⃣ 🩸 <b>Mechanism of Recombinant Factor VIIa (Option B):</b><br>• Recombinant Factor VIIa (rFVIIa) works locally at the site of tissue and vascular wall injury by binding to exposed <b>tissue factor</b>. It also binds to the surface of activated platelets.<br>• This interaction activates factor X, leading to the generation of a small amount of thrombin that is sufficient to activate platelets. The activated platelet surface then forms a template on which rFVIIa mediates further activation of coagulation, resulting in an explosive \"thrombin burst\" and the conversion of fibrinogen to a stable fibrin clot to promote localized hemostasis.<br><br>2️⃣ ⚖️ <b>Evaluation of Other Options:</b><br>• ❌ <b>Option A (Lysine binding/inhibition of fibrinolysis):</b> This describes the mechanism of lysine analogues, such as epsilon-aminocaproic acid and tranexamic acid. They inhibit fibrinolysis by displacing plasminogen from fibrin.<br>• ❌ <b>Option C (Protease inhibition/attenuating inflammation):</b> This describes the action of aprotinin, a serine protease inhibitor that attenuates the inflammatory response to cardiopulmonary bypass but was largely removed from the market due to safety concerns (anaphylaxis and renal failure).<br>• ❌ <b>Option D (Reversal of heparin via acid-base interaction):</b> This is the mechanism of protamine, a highly cationic (basic) polypeptide that reverses the anticoagulant effects of the highly anionic (acidic) heparin through a non-specific acid-base interaction.<br>• ❌ <b>Option E (Release of vWF multimers):</b> This describes the action of desmopressin (DDAVP), which stimulates the release of von Willebrand factor and factor VIII from endothelial cells.<br><br>📚 <b>Key Point:</b><br>On the exam, remember that rFVIIa acts locally at sites of injury by binding to tissue factor and activated platelets, generating a thrombin burst. It is not a systemic antifibrinolytic, protease inhibitor, heparin reversal agent, or DDAVP analogue.",
@@ -3526,7 +3526,7 @@
         "A": "связывания тромбоцитов через рецепторы GPIIb/IIIa со внутренними поверхностями контура искусственного кровообращения",
         "B": "связывания тромбина с тромбомодулином и последующей активации протеина C",
         "C": "гипотермии, приводящей к низкому уровню кининов",
-        "D": "активации тромбоцитов, опосредованной рецептором-1, активируемым протеазой (PAR-1)",
+        "D": "активации тромбоцитов, опосредованной рецептором-1, активируемым протеазой",
         "E": "послеоперационной реинфузии дренажной крови"
       },
       "correctAnswer": "C",
@@ -3565,7 +3565,7 @@
         "B": "открытой установки дренажа левого предсердия, подключенного к венозной (входной) канюле ЭКМО",
         "C": "чрескожной установки дренажа легочной артерии, подключенного к венозной (входной) канюле ЭКМО",
         "D": "замены артериальной (выходной) канюли ЭКМО с бедренной артерии на правую подключичную артерию",
-        "E": "чрескожной установки миниатюрного трансаортального аксиального насоса (Impella) для дренирования левого желудочка"
+        "E": "чрескожной установки миниатюрного трансаортального аксиального насоса для дренирования левого желудочка"
       },
       "correctAnswer": "D",
       "explanationEn": "🎯 <b>Correct Answer: Option D: changing the ECMO outflow cannula from the femoral artery to right subclavian artery.</b><br><br>🔵 <b>Detailed Clinical and Pathophysiological Rationale:</b><br>The clinical scenario describes a classic and dangerous complication of peripheral Veno-Arterial (VA) ECMO: <b>Left Ventricular (LV) Distension</b>.<br><br>1️⃣ ⚙️ <b>Pathophysiology of LV Distension on VA-ECMO:</b><br>• Peripheral VA-ECMO returns blood to the femoral artery, creating continuous retrograde flow in the aorta. This significantly <b>increases LV afterload</b>.<br>• In a patient with severe cardiogenic shock (e.g., post-AMI), the failing LV may not be able to overcome this high afterload. As a result, the aortic valve remains closed, blood pools in the LV, left atrial pressure (PCWP) rises (here, 25 mmHg), and severe pulmonary edema ensues.<br>• Sustained LV distension increases wall stress, exacerbates myocardial ischemia, prevents recovery, and can lead to intraventricular thrombosis.<br><br>2️⃣ 🛠️ <b>Why Option D is the Exception (False Statement):</b><br>• Changing the outflow cannula from the femoral artery to the subclavian artery addresses a completely different problem: <b>Harlequin (North-South) syndrome</b> (differential upper body hypoxia).<br>• Moving the arterial inflow to the upper body <b>does not relieve LV distension or reduce LV preload</b>. The LV is still facing systemic arterial pressure from the ECMO circuit without being vented.<br><br>3️⃣ ⚖️ <b>Why the Other Options ARE Appropriate Treatments:</b><br>To treat LV distension, the left heart must be actively decompressed (vented):<br>• 🔸 <b>Option A (Percutaneous inter-atrial balloon septostomy):</b> Creates a controlled ASD, allowing the distended left atrium to decompress into the right atrium, where the blood is continuously drained by the ECMO venous cannula.<br>• 🔸 <b>Option B & C (LA or PA venting):</b> Placing a vent in the left atrium (surgically) or the pulmonary artery (percutaneously) and connecting it to the ECMO venous drainage system directly lowers LV filling pressures.<br>• 🔸 <b>Option E (Miniature transaortic axial pump - Impella):</b> Inserting an Impella across the aortic valve actively pumps blood out of the distended LV into the aorta, providing excellent direct LV unloading.<br><br>📚 <b>Key Point:</b><br>On the exam, remember that peripheral VA-ECMO unloads the <b>Right Ventricle</b> but significantly increases afterload on the <b>Left Ventricle</b>. If the aortic valve isn't opening and pulmonary edema develops, the LV must be vented (via Impella, atrial septostomy, or surgical LA/PA vent). Changing the arterial cannulation site only corrects upper body hypoxemia (Harlequin syndrome), not LV distension.",

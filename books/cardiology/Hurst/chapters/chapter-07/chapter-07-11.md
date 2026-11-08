@@ -10,7 +10,7 @@
 
 ### Primary PCI vs Fibrinolysis: Outcomes
 * **Meta‑analysis (Keeley, 23 trials, n=7739):** Primary PCI reduces short‑term mortality (5.3% vs 7.4%), reinfarction (2.5% vs 6.8%), stroke (1.0% vs 2.0%), and composite (8.2% vs 14.3%). Benefit maintained long‑term. Intracranial hemorrhage lower with PCI, but access‑site bleeding higher.
-* **TIMI‑3 flow:** Primary PCI achieves >90% vs ~54% with lytics; inverse relationship with mortality.
+* **TIMI‑3 flow:** Primary PCI achieves >90% vs ~ 54% with lytics; inverse relationship with mortality.
 * **SHOCK trial:** Emergency revascularization in cardiogenic shock reduces 6‑month mortality (50% vs 63%), especially in patients <75 years.
 
 ### Systems of Care and Time to Reperfusion

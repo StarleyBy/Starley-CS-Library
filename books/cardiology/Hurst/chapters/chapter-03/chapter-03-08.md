@@ -435,11 +435,11 @@ Perfusion defects are characterized by their type as well as their extent and se
 
 **FIGURE 18–11.** SPECT patterns of perfusion defects associated with myocardial viability and resting regional contractile abnormality. Green represents perfusion defect. The *asterisk* indicates 4- or 24-hours redistribution (Redist). NTG, nitroglycerin; 201Tl, thallium-201.
   
-<span id="fig-18-11"></span>![](ch03-08_page_10_Figure_6.jpeg)
+<span id="fig-18-12"></span>![](ch03-08_page_10_Figure_6.jpeg)
 
 **FIGURE 18–12.** Examples of typical stress perfusion patterns corresponding to normal (*top*) and various single-territory abnormalities. Coronary angiographic findings in these patients were as follows: left anterior descending (LAD) coronary artery, proximal 95% stenosis; diagonal, occluded proximal first diagonal artery; left circumflex coronary artery (LCX), occluded first marginal artery branch; and right coronary artery (RCA), mid-95% stenosis. All patients had no evidence of myocardial infarction and normal single-photon emission computed tomography myocardial perfusion imaging at rest. From left to right, the images represent apical short axis, mid short axis, basal short axis, mid vertical long axis, and mid horizontal long axis. These patients show the typical distributions of perfusion defects associated with the specific coronary arteries involved.
   
-<span id="fig-18-11"></span>![](ch03-08_page_11_Picture_2.jpeg)
+<span id="fig-18-13"></span>![](ch03-08_page_11_Picture_2.jpeg)
 
 **FIGURE 18–13.** Stress single-photon emission computed tomography myocardial perfusion imaging images demonstrating more complex patterns associated with known coronary lesions in patients with normal resting perfusion images and no history of prior myocardial infarction. Septal refers to trapped septal perforator coronary artery (septal) in a patient with critical left anterior descending coronary artery (LAD) stenoses proximal and distal to the septal perforator takeoff and patent LAD internal mammary graft. Left circumflex coronary artery (LCX) plus right coronary artery (RCA) refers to occlusion of proximal LCX and proximal RCA. Left main (LM) refers to subtotal LM coronary artery stenosis.
 
@@ -618,6 +618,8 @@ As with any diagnostic test, quality control is critical to effective clinical a
 ### Assessment of Myocardial Viability</summary><div class="details-content">
 
 Assessment of myocardial viability with the myocardial perfusion tracers applies to segments with contractile dysfunction. Viability is considered present if the degree of uptake at rest, redistribution, or following nitrate-augmented rest injection is normal or nearly normal. Various patterns of viability associated with regional wall motion abnormality in these studies are shown in Fig. 18–11. The presence of normal or near-normal tracer uptake in an abnormally contracting segment predicts improvement in ventricular function with successful revascularization. A dysfunctional segment or region with severely reduced or absent uptake of radioactivity on a viability study is considered to be nonviable. Areas with moderate reduction of counts in these conditions are usually partially viable, and patients in this group have a variable response in terms of improvement after revascularization. When perfusion defects are seen at rest and not after redistribution (with 201Tl) or after separate tracer injection following administration of nitroglycerin, SPECT-MPI is commonly interpreted as showing *resting ischemia* and considered to represent regions of critically reduced blood flow to viable myocardium, generally requiring rapid consideration of revascularization. The use of F-18 fluorodeoxyglucose (FDG) to assess myocardial viability is described in Chapter 19.
+
+</div></details>
 
 </div></details>
 
@@ -1458,6 +1460,8 @@ Although radionuclide imaging of fatty acids has been studied for decades, it is
 ### Molecular Imaging</summary><div class="details-content">
 
 The current explosion of information in cell biology has led to initial formulations of numerous imaging agents with specific molecular targets. Perhaps the greatest future potential of the discipline of nuclear cardiology lies in molecular imaging because of the ability of the radiotracer technique to assess minute tracer concentrations in vivo. SPECT and PET methods are thousands of times more sensitive than ultrasound, magnetic resonance imaging, or CT methods. Although most work has occurred with PET in this regard (Chap. 19), molecular SPECT tracers have also been developed. For example, indium-111 antimyosin antibody is highly specific for myocardial necrosis and has been shown to be useful in the assessment of myocarditis and the necrosis associated with cardiac transplant rejection. The full commercialization of this molecular imaging agent, however, was not pursued. The most promising of the molecular imaging SPECT radiopharmaceuticals has been 99mTc-annexin, an agent that allows imaging of apoptosis by specific binding to the exteriorized phosphatidylserine molecules, normally only found in the inner leaflet of the cell membrane and that become exteriorized during apoptosis. Initial clinical trials with this agent demonstrated high sensitivity for MI. Other clinical settings in which this agent could prove useful as a myocardial imaging agent include myocarditis, transplant rejection, and possibly CHF. Multiple PET radiopharmaceuticals for imaging specific molecular targets are described in Chapter 19.
+
+</div></details>
 
 </div></details>
 

@@ -7,28 +7,28 @@
 ### Definition and Epidemiology
 * **SCD Defined:** Unexpected natural death from cardiac cause within a short time after symptom onset (typically ≤1 hour); most often caused by sustained ventricular tachyarrhythmia (VT/VF). May be first manifestation of cardiac disease.
 * **Epidemiology:** Accounts for 180,000–450,000 deaths annually in the US. Incidence 40–100 per 100,000 persons (varies geographically). Majority male, average age >60 years. Age-adjusted rates declining (>8% over 15 years) but still substantial.
-* **Prognostic Risk:** Cardiac syncope carries highest mortality (~50% at 5 years). HCM, long QT, Brugada, ARVC syncope portends high SCD risk.
+* **Prognostic Risk:** Cardiac syncope carries highest mortality (~ 50% at 5 years). HCM, long QT, Brugada, ARVC syncope portends high SCD risk.
 
 ### Mechanisms
 * **Structural Substrate:** Most SCD occurs in patients with structural heart disease (CHD, cardiomyopathies, valvular, conduction system abnormalities). Structural changes provide substrate for reentry.
 * **Triggering Factors:** Ischemia, hemodynamic changes, autonomic fluctuations, electrolyte abnormalities, proarrhythmic drugs initiate arrhythmias.
-* **Rhythm at Arrest:** VF in ~75%, VT degenerating to VF in ~63% of monitored cases, torsade de pointes ~13%. Bradyarrhythmias less common as initial rhythm.
+* **Rhythm at Arrest:** VF in ~ 75%, VT degenerating to VF in ~ 63% of monitored cases, torsade de pointes ~ 13%. Bradyarrhythmias less common as initial rhythm.
 * **Ischemia Effects:** Acute ischemia → acidosis, K⁺ efflux, Ca²⁺ influx → decreased action potential amplitude, slowed conduction, inhomogeneous refractoriness → reentry. Two peaks of arrhythmogenesis: 2–8 min (phase IA) and 15–45 min (phase IB) after occlusion.
 * **Mechanoelectrical Feedback:** Altered preload/contractility directly affects electrophysiology; myocardial stretch can shorten APD and precipitate arrhythmias; defective ryanodine receptor regulation implicated.
 
 ### Cardiac Diseases Associated with SCD
-* **Ischemic Heart Disease:** Most common substrate (80% of SCD). Severe multivessel CAD in majority; only 37–48% have acute coronary syndrome at cath. Pathologic studies show plaque fissure/hemorrhage/thrombosis in up to 95%, but only ~50% have total occlusion. Coronary anomalies (LCA from right sinus, RCA from left sinus) — exercise-related SCD in young athletes.
+* **Ischemic Heart Disease:** Most common substrate (80% of SCD). Severe multivessel CAD in majority; only 37–48% have acute coronary syndrome at cath. Pathologic studies show plaque fissure/hemorrhage/thrombosis in up to 95%, but only ~ 50% have total occlusion. Coronary anomalies (LCA from right sinus, RCA from left sinus) — exercise-related SCD in young athletes.
 * **Cardiomyopathies:**
-  - **Idiopathic DCM:** ~10% of SCD; annual mortality 10–50%. Syncope is the only clinical predictor specific for SCD. EPS has low yield (<10% inducible sustained VT).
-  - **HCM:** One of most common causes of SCD in young athletes. Annual SCD risk ~1% in unselected populations. Major risk factors: prior arrest, family history SCD, syncope, LV wall thickness ≥30 mm, NSVT, hypotensive BP response to exercise, LVOT gradient ≥30 mm Hg. ICD for ≥1 risk factors (Class IIa).
+  - **Idiopathic DCM:** ~ 10% of SCD; annual mortality 10–50%. Syncope is the only clinical predictor specific for SCD. EPS has low yield (<10% inducible sustained VT).
+  - **HCM:** One of most common causes of SCD in young athletes. Annual SCD risk ~ 1% in unselected populations. Major risk factors: prior arrest, family history SCD, syncope, LV wall thickness ≥30 mm, NSVT, hypotensive BP response to exercise, LVOT gradient ≥30 mm Hg. ICD for ≥1 risk factors (Class IIa).
   - **Hypertensive Cardiomyopathy:** LVH (ECG) associated with 8-fold increased SCD risk. Echo LV mass — RR 1.7 (men), 2.1 (women) per 50-g increment.
   - **ARVC:** Fatty/fibrofatty replacement of RV (and LV); familial in 30–50%. Mutations in desmosomal proteins (plakoglobin, desmoglein-2, etc.). ECG: T-wave inversion V1–V3, epsilon waves, abnormal SAECG. VT with LBBB morphology. ICD primary therapy.
 * **Valvular Heart Disease:**
-  - **Aortic Stenosis:** SCD risk low in asymptomatic; increased post-AVR (~1.8–4% over 7 years). TAVR — 17% require pacemaker; SCD 11% of deaths after 30 days.
+  - **Aortic Stenosis:** SCD risk low in asymptomatic; increased post-AVR (~ 1.8–4% over 7 years). TAVR — 17% require pacemaker; SCD 11% of deaths after 30 days.
   - **MVP:** Controversial; most benign, but MVP + MR + LV dysfunction carries risk. Syncope, family history SCD, significant MR, LV dysfunction, prolonged QT are prognostic indicators.
 * **Inflammatory/Infiltrative:** Myocarditis — 10–44% of young SCD victims. Cardiac sarcoidosis — up to 2/3 die from SCD; ICD reasonable (Class IIa). Chagas disease — most common cause of cardiomyopathy in South America.
 * **Congenital Heart Disease:** Tetralogy of Fallot — QRS ≥180 ms most sensitive predictor of SCD/VT. Transposition (post-Mustard/Senning) — >6% late SCD. Pulmonary hypertension — SCD in 45–60%.
-* **Chronic Kidney Disease:** SCD accounts for ~25% of deaths in ESRD. Rate ~35 per 1,000 person-years (dialysis ~50 per 1,000). Risk elevated 1.7-fold first 12 hours after dialysis, 3-fold prior to dialysis after 72-hour interval. Primary prevention ICDs may offer less benefit in CKD (meta-analysis showed no survival benefit in stage 3 CKD). Secondary prevention ICDs associated with 42% mortality reduction.
+* **Chronic Kidney Disease:** SCD accounts for ~ 25% of deaths in ESRD. Rate ~ 35 per 1,000 person-years (dialysis ~ 50 per 1,000). Risk elevated 1.7-fold first 12 hours after dialysis, 3-fold prior to dialysis after 72-hour interval. Primary prevention ICDs may offer less benefit in CKD (meta-analysis showed no survival benefit in stage 3 CKD). Secondary prevention ICDs associated with 42% mortality reduction.
 
 ### Primary Electrical Abnormalities
 * **Long QT Syndrome:** Mutations in 15 genes (KCNQ1→LQTS1, KCNH1→LQTS2, SCN5A→LQTS3). QTc >500 ms → >50% risk of syncope/arrest/SCD by age 40. Triggers: exercise/swimming (LQTS1), auditory (LQTS2), rest/sleep (LQTS3). β-blockers most effective in LQTS1. ICD for arrest survivors (Class I). Left cardiac sympathetic denervation for refractory symptoms.
@@ -45,7 +45,7 @@
 * **Electrolytes:** Hypokalemia (inverse relationship with VT risk in MI); hypomagnesemia; hypocalcemia.
 
 ### Clinical Presentation and Management
-* **Out-of-Hospital Arrest:** ~75% at home, ~60% witnessed. Bystander CPR doubles survival; compression-only CPR improves outcomes. AEDs improve survival (casino study: 74% survival if shock ≤3 min). Survival varies widely (1.4% NYC vs 29% Seattle).
+* **Out-of-Hospital Arrest:** ~ 75% at home, ~ 60% witnessed. Bystander CPR doubles survival; compression-only CPR improves outcomes. AEDs improve survival (casino study: 74% survival if shock ≤3 min). Survival varies widely (1.4% NYC vs 29% Seattle).
 * **Survival:** VF — 40–60% resuscitated; VT — >85% to admission, >75% to discharge. Bradycardia/EMD — <5% survival.
 * **Post-Arrest Management:** Therapeutic hypothermia (32–34°C, 12–24 h) improves neurologic outcomes (Class I for comatose survivors). Distinguish primary vs secondary arrest (within 48 h of STEMI → prognosis similar to MI without arrhythmia).
 
@@ -79,7 +79,7 @@
 
 ### Role of Surgery
 * **Revascularization:** CASS registry — SCD 5.2% (medical) vs 1.8% (CABG) at 4.6 years. Best in patients with reversible ischemia and no inducible monomorphic VT.
-* **Antiarrhythmia Surgery:** Subendocardial resection + cryoablation for scar-related VT; success ~90% but surgical mortality 10–15% (historical).
+* **Antiarrhythmia Surgery:** Subendocardial resection + cryoablation for scar-related VT; success ~ 90% but surgical mortality 10–15% (historical).
 * **Catheter Ablation:** SMASH-VT: VT ablation reduced ICD therapies. Few patients can be managed without ICD after ablation. Emerging role for outflow tract VT, bundle-branch reentry, idiopathic VT.
 
 </div></details>
@@ -795,11 +795,11 @@ Electrophysiologic study inducibility (as well as nonsustained VT on ambulatory 
 | Julian et al, 1982 | 1456 | + | – | – | – | *d,l*-Sotalol vs placebo | 12 | 7.3% mortality (sotalol) vs 8.9% (placebo), RR 18% | *d,l*-Sotalol may reduce mortality by up to 25%. |
 | SWORD, 1996 | 3121 | + | + | – | – | *d*-Sotalol vs placebo | 5 | 5.0% mortality (sotalol) vs 3.1% (placebo) | Trial terminated because of excess mortality in the treatment group. |
 | **CHF trials (nonischemic or mixed population)** | | | | | | | | | |
-| GESICA, 1994 | 516 | ~1/3 | + | – | – | Amiodarone vs standard therapy | 24 | 33.5% mortality (amiodarone) vs 41.4% (control) | Amiodarone improved survival in symptomatic heart failure. |
-| CHF-STAT, 1995 | 674 | ~2/3 | + | – | – | Amiodarone vs placebo | 45 | 30.6% mortality (amiodarone) vs 29.2% (placebo) | No survival benefit with amiodarone; trend to improved survival in DCM. |
+| GESICA, 1994 | 516 | ~ 1/3 | + | – | – | Amiodarone vs standard therapy | 24 | 33.5% mortality (amiodarone) vs 41.4% (control) | Amiodarone improved survival in symptomatic heart failure. |
+| CHF-STAT, 1995 | 674 | ~ 2/3 | + | – | – | Amiodarone vs placebo | 45 | 30.6% mortality (amiodarone) vs 29.2% (placebo) | No survival benefit with amiodarone; trend to improved survival in DCM. |
 | DEFINITE, 2004 | 458 | – | + | + | + | ICD vs standard therapy | 29 | 7.9% mortality (ICD) vs 14.1% (no ICD) at 2 y: HR 0.65 (0.40-1.06), P = .08 | Statistically significant reduction in SCD from arrhythmia. |
-| COMPANION, 2004 | 1520 | ~1/2 | + | – | – | Med Rx vs CRT-P vs CRT-D | 16 | 1-y mortality 19% (med Rx) vs 15% (CRT-P) vs 12% CRT-P | Mortality a secondary end point. CRT-D vs med Rx, P = 0.003. |
-| SCD-HeFT, 2005 | 2521 | ~1/2 | + | – | – | ICD vs amiodarone vs placebo | 45 | 22% mortality (ICD) vs 28% (amiodarone) and 29% (placebo). HR (ICD vs placebo) 0.77 | Amiodarone of no benefit vs placebo. Single-lead, shock only ICDs used. |
+| COMPANION, 2004 | 1520 | ~ 1/2 | + | – | – | Med Rx vs CRT-P vs CRT-D | 16 | 1-y mortality 19% (med Rx) vs 15% (CRT-P) vs 12% CRT-P | Mortality a secondary end point. CRT-D vs med Rx, P = 0.003. |
+| SCD-HeFT, 2005 | 2521 | ~ 1/2 | + | – | – | ICD vs amiodarone vs placebo | 45 | 22% mortality (ICD) vs 28% (amiodarone) and 29% (placebo). HR (ICD vs placebo) 0.77 | Amiodarone of no benefit vs placebo. Single-lead, shock only ICDs used. |
 
 *Abbreviations:* +, Inclusion criterion; –, not inclusion criterion; CAD, coronary artery disease; CRT-D, cardiac resynchronization therapy defibrillator; CRT-P, cardiac resynchronization therapy pacemaker; CHF, congestive heart failure; DCM, dilated cardiomyopathy; EF, ejection fraction; HR, hazard ratio; ICD, implantable cardioverter-defibrillator; NSVT, nonsustained ventricular tachycardia; PVCs, premature ventricular contractions; RR, risk reduction; SCD, sudden cardiac death; VF, ventricular fibrillation. See text for clinical trial abbreviations.
 

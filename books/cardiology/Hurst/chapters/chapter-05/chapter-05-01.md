@@ -27,13 +27,13 @@
 * **Diagnostic Tests:** Fasting glucose, HbA1c, OGTT, lipid panel (HDL, LDL, triglycerides), blood pressure, BMI, waist circumference, and CRP for inflammation.
 
 ### Prevention and Treatment
-* **Preventive Care:** Annual T2D risk ~5% in obese MetS patients; intensive lifestyle changes can reduce progression (annual regression ~10%). Early intensive intervention is best for atherosclerotic risk reduction.
+* **Preventive Care:** Annual T2D risk ~ 5% in obese MetS patients; intensive lifestyle changes can reduce progression (annual regression ~ 10%). Early intensive intervention is best for atherosclerotic risk reduction.
 * **Lifestyle Intervention:** 30 minutes moderate physical activity 5 days/week; dietary patterns: Mediterranean, New Nordic, DASH, Ornish, or low-carbohydrate (Atkins). Mediterranean diet reduces CVD events by 30% and T2D by 30% over 6 years.
 * **Pharmacologic Intervention:**
-  * Insulin sensitizers: metformin (reduces T2D by 27% in DPP), GLP‑1 analogs (liraglutide), acarbose (reduces T2D by ~38% in MetS), thiazolidinediones (pioglitazone, rosiglitazone), SGLT‑2 inhibitors (empagliflozin reduces CV events).
+  * Insulin sensitizers: metformin (reduces T2D by 27% in DPP), GLP‑1 analogs (liraglutide), acarbose (reduces T2D by ~ 38% in MetS), thiazolidinediones (pioglitazone, rosiglitazone), SGLT‑2 inhibitors (empagliflozin reduces CV events).
   * Weight loss: lorcaserin, phentermine/topiramate, naltrexone/bupropion, orlistat (modest 3–5% weight loss).
   * Hypertension: ACE inhibitors or ARBs first-line, target SBP ≤120 mm Hg.
-  * Dyslipidemia: Statins for LDL <100 mg/dL; PCSK‑9 inhibitors, ezetimibe; colesevelam (lowers LDL by ~18%, improves glycemia); fibrates and n‑3 fatty acids for hypertriglyceridemia when TG >200 mg/dL and HDL <35 mg/dL.
+  * Dyslipidemia: Statins for LDL <100 mg/dL; PCSK‑9 inhibitors, ezetimibe; colesevelam (lowers LDL by ~ 18%, improves glycemia); fibrates and n‑3 fatty acids for hypertriglyceridemia when TG >200 mg/dL and HDL <35 mg/dL.
 * **Procedural Interventions:** Bariatric surgery (RYGB, SG, BPD) more effective than medication for weight loss and metabolic improvement, with T2D remission rates substantially higher than laparoscopic gastric banding. Endoscopic procedures (gastric balloon, duodenal sleeve) also show benefits.
 
 </div></details>

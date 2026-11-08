@@ -21,11 +21,11 @@
 * **Wells Score:** Validated clinical prediction tool. High ≥ 3 points, Moderate 1–2, Low ≤ 0 (D‑dimer and duplex ultrasound guided by score).
 * **Duplex findings:** Noncompressible dilated vein, direct thrombus visualization, altered flow (loss of respiratory variation, absent augmentation).
 * **Risk factors:** Virchow's triad (stasis, endothelial injury, hypercoagulability). Provoked (surgery, trauma, estrogen, malignancy, pregnancy) vs unprovoked (25–50% of VTE). Anatomic: May‑Thurner syndrome (left iliac vein compression by right iliac artery) in 20–24%; thoracic outlet/Paget‑Schroetter in upper extremity.
-* **Thrombophilias:** Factor V Leiden, prothrombin G20210A, antithrombin/protein C/S deficiency in ~30% of VTE patients, but routine testing not recommended (rarely changes management).
+* **Thrombophilias:** Factor V Leiden, prothrombin G20210A, antithrombin/protein C/S deficiency in ~ 30% of VTE patients, but routine testing not recommended (rarely changes management).
 * **Recurrence risk:** Unprovoked VTE – 10% at 1 year, 30% at 8 years.
 
 ### DVT – Treatment and Special Situations
-* **Distal (calf) DVT:** ~15–25% propagate to popliteal vein. Treat with anticoagulation or serial ultrasound surveillance (1–2 weeks) if bleeding risk is high.
+* **Distal (calf) DVT:** ~ 15–25% propagate to popliteal vein. Treat with anticoagulation or serial ultrasound surveillance (1–2 weeks) if bleeding risk is high.
 * **Proximal DVT (popliteal or above):** Anticoagulation ≥ 3 months (provoked) or longer (unprovoked). DOACs are first‑line alternatives to warfarin.
 * **DOACs for VTE:**
   * Dabigatran: 150 mg BID (heparin run‑in required).

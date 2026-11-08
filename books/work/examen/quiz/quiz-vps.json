@@ -526,8 +526,8 @@
         "D": "Presence of hypertension; using the 'root replacement' instead of 'subcoronary' technique."
       },
       "optionsRu": {
-        "A": "Этиология двустворчатого клапана (BAV); использование протезного кольца на аннулус.",
-        "B": "Исходная аортальная недостаточность и дилатация аортального кольца; окутывание (wrap) аутографта в дакроновый протез или перикард.",
+        "A": "Этиология двустворчатого клапана; использование протезного кольца на аннулус.",
+        "B": "Исходная аортальная недостаточность и дилатация аортального кольца; окутывание аутографта в дакроновый протез или перикард.",
         "C": "Возраст > 50 лет; использование субкоронарной техники.",
         "D": "Наличие гипертензии; использование техники замены корня вместо субкоронарной."
       },
@@ -641,9 +641,9 @@
       },
       "optionsRu": {
         "A": "Субаортальный ДМЖП; внутрижелудочковый туннель к аорте.",
-        "B": "Субпульмональный ДМЖП; операция артериального переключения (ASO) и закрытие ДМЖП в сторону неоаорты.",
-        "C": "Двойной (doubly committed) ДМЖП; операция Растелли.",
-        "D": "Несвязанный (non-committed) ДМЖП; паллиативная помощь по пути единственного желудочка."
+        "B": "Субпульмональный ДМЖП; операция артериального переключения и закрытие ДМЖП в сторону неоаорты.",
+        "C": "Двойной ДМЖП; операция Растелли.",
+        "D": "Несвязанный ДМЖП; паллиативная помощь по пути единственного желудочка."
       },
       "correctAnswer": "B",
       "explanationEn": "🎯 <b>Correct answer: B. Subpulmonary VSD; Arterial Switch Operation (ASO) plus VSD closure to the neoaorta.</b><br><br>🔵 <b>Rationale: Anatomy of Taussig-Bing</b><br>The Taussig-Bing anomaly is a specific type of DORV with a <mark style=\"background:#ffff00;color:#000\"><b>subpulmonary VSD</b></mark>. According to <b>Kirklin/Barratt-Boyes (Ch 45, Page 1568)</b>, this directs oxygenated left ventricular blood toward the pulmonary artery, mimicking the physiology of TGA (Transposition of the Great Arteries).<br><br>🟢 <b>Key Findings / Mechanism</b><br>While historical repairs (like the Kawashima) were used, <b>Kirklin (Ch 45)</b> and <b>Key Questions</b> state: <br><i>\"The contemporary operation of choice for Taussig-Bing is the Arterial Switch Operation combined with closure of the VSD to redirect the LV flow to the neoaorta (the former pulmonary valve).\"</i><br><br>🔴 <b>Why Other Options Are Wrong</b><br>• <b>Option A:</b> This describes a simple DORV with subaortic VSD, which only needs a tunnel.<br>• <b>Option C:</b> A doubly committed VSD is easier to tunnel to either vessel and doesn't define Taussig-Bing.<br>• <b>Option D:</b> Non-committed VSDs (far from both valves) are the most difficult to repair and often lead to a Fontan pathway, but this is not Taussig-Bing.<br><br>📚 <b>Key Point</b><br><mark style=\"background:#2ecc71;color:#fff\">Taussig-Bing = Subpulmonary VSD. Treat it like TGA/VSD: ASO + Tunnel to neoaorta.</mark>",
@@ -793,7 +793,7 @@
       },
       "optionsRu": {
         "A": "Для максимизации размера ДМПП с целью улучшения сброса слева направо.",
-        "B": "Чтобы избежать наложения длинной внутрипредсердной заплаты (baffle), которая несет высокий риск повреждения синусового узла и обструкции ВПВ.",
+        "B": "Чтобы избежать наложения длинной внутрипредсердной заплаты, которая несет высокий риск повреждения синусового узла и обструкции ВПВ.",
         "C": "Чтобы позволить использовать синтетический кондуит в позиции ВПВ.",
         "D": "Для облегчения закрытия сопутствующей персистирующей левой ВПВ."
       },
@@ -986,7 +986,7 @@
         "A": "Коронарное шунтирование (АКШ) с использованием правой внутренней грудной артерии.",
         "B": "Хирургическое «раскрытие крыши» (unroofing) интрамурального сегмента коронарной артерии.",
         "C": "Имплантация стента с лекарственным покрытием в проксимальный отдел ПКА.",
-        "D": "Реимплантация ПКА в виде отдельной «площадки» (button) в правильный синус."
+        "D": "Реимплантация ПКА в виде отдельной «площадки» в правильный синус."
       },
       "correctAnswer": "B",
       "explanationEn": "🎯 <b>Correct answer: B. Surgical 'Unroofing' of the intramural coronary segment.</b><br><br>🔵 <b>Rationale: Mechanism of Ischemia</b><br>In this anomaly, the RCA shares a common wall with the aorta. During exercise, the aorta distends, compressing the RCA within its wall (slit-like orifice). <b>Kirklin/Barratt-Boyes (Ch 40, Page 1445)</b> states: <br><i>\"The mechanism of sudden death is related to the <b>intramural course</b> and the acute angle of take-off, leading to exercise-induced compression of the coronary lumen.\"</i><br><br>🟢 <b>Key Findings / Mechanism</b><br>The <b>Atlas of Cardiac Surgical Techniques (Ch 21)</b> emphasizes that the <mark style=\"background:#ffff00;color:#000\"><b>'Unroofing' procedure</b></mark> is the treatment of choice. It involves opening the aorta and excising the common wall between the aorta and the coronary artery until the orifice is moved to the appropriate sinus and is no longer compressed.<br><br>🔴 <b>Why Other Options Are Wrong</b><br>• <b>Option A:</b> CABG is generally avoided in young patients for this condition due to the high risk of competitive flow and graft failure.<br>• <b>Option D:</b> Reimplantation is technically more difficult and often unnecessary if unroofing is possible.<br><br>📚 <b>Key Point</b><br><mark style=\"background:#2ecc71;color:#fff\">For intramural coronary anomalies, the gold standard is the Unroofing procedure to eliminate lateral compression.</mark>",
@@ -1179,7 +1179,7 @@
         "A": "Он полностью исключает риск гиперволемии малого круга кровообращения.",
         "B": "Он поддерживает более высокое диастолическое артериальное давление, тем самым улучшая коронарную перфузию и снижая риск «коронарного обкрадывания».",
         "C": "Он позволяет избежать вентрикулотомии, сохраняя функцию правого желудочка.",
-        "D": "Он обеспечивает более высокую системную сатурацию (SpO2 > 90%)."
+        "D": "Он обеспечивает более высокую системную сатурацию."
       },
       "correctAnswer": "B",
       "explanationEn": "🎯 <b>Correct answer: B. It maintains higher diastolic arterial pressure, thereby improving coronary perfusion and reducing the risk of 'coronary steal'.</b><br><br>🔵 <b>Rationale: Hemodynamic Rationale</b><br>The mBTS (aorta-to-PA) allows continuous runoff of blood from the aorta into the pulmonary arteries during diastole. <b>Kirklin/Barratt-Boyes (Ch 51, Page 1735)</b> states: <br><i>\"The mBTS is associated with <b>diastolic runoff</b> into the pulmonary circulation, which can lower diastolic blood pressure and potentially compromise coronary blood flow, especially in neonates with HLHS.\"</i><br><br>🟢 <b>Key Findings / Mechanism</b><br>The <b>RV-PA conduit (Sano shunt)</b> only delivers blood to the lungs during systole. According to <b>Key Questions in Congenital Cardiac Surgery (Ch 12)</b>, this <mark style=\"background:#ffff00;color:#000\"><b>preserves diastolic pressure</b></mark>, leading to <i>\"more stable hemodynamics and improved coronary perfusion during the interstage period.\"</i><br><br>🔴 <b>Why Other Options Are Wrong</b><br>• <b>Option A:</b> Overcirculation can still occur if the conduit is too large.<br>• <b>Option C:</b> On the contrary, the Sano shunt <b>requires</b> a small ventriculotomy, which is its main disadvantage compared to the mBTS.<br><br>📚 <b>Key Point</b><br><mark style=\"background:#2ecc71;color:#fff\">The Sano shunt is preferred by many to avoid coronary steal and improve stability before the Stage II (Glenn) procedure.</mark>",
@@ -1293,7 +1293,7 @@
       "optionsRu": {
         "A": "Операция Никса (Nicks).",
         "B": "Операция Манукяна (Manouguian).",
-        "C": "Операция Конно — Растана (Konno-Rastan).",
+        "C": "Операция Конно — Растана.",
         "D": "Операция Росса без модификаций."
       },
       "correctAnswer": "C",
@@ -1558,7 +1558,7 @@
       "optionsRu": {
         "A": "Нижняя полая вена (НПВ); застой в печени и асцит.",
         "B": "Верхняя полая вена (ВПВ); отек лица и верхних конечностей (синдром ВПВ).",
-        "C": "Легочный венозный канал (baffle); легочная гипертензия и отек легких.",
+        "C": "Легочный венозный канал; легочная гипертензия и отек легких.",
         "D": "Коронарный синус; ишемия миокарда."
       },
       "correctAnswer": "B",
@@ -1633,9 +1633,9 @@
       },
       "optionsRu": {
         "A": "Простое иссечение обструктивной мембраны.",
-        "B": "Операция Макгуна (McGoon) — расширение одной заплатой некоронарного синуса.",
-        "C": "Операция Брома (Brom) — трехзаплатная реконструкция всех трех синусов.",
-        "D": "Операция Доти (Doty) — расширение в виде перевернутой буквы «Y» некоронарного и правого коронарного синусов."
+        "B": "Операция Макгуна — расширение одной заплатой некоронарного синуса.",
+        "C": "Операция Брома — трехзаплатная реконструкция всех трех синусов.",
+        "D": "Операция Доти — расширение в виде перевернутой буквы «Y» некоронарного и правого коронарного синусов."
       },
       "correctAnswer": "C",
       "explanationEn": "🎯 <b>Correct answer: C. The Brom procedure (three-patch reconstruction of all three sinuses).</b><br><br>🔵 <b>Rationale: Surgical Evolution</b><br>Historically, the <b>McGoon procedure (Option B)</b> was used, but it often left the root asymmetrical. <b>Kirklin/Barratt-Boyes (Ch 36, Page 1365)</b> and <b>Key Questions (Ch 10)</b> note that the <mark style=\"background:#ffff00;color:#000\"><b>Brom technique</b></mark> is superior because it enlarges all three sinuses of Valsalva.<br><br>🟢 <b>Key Findings / Mechanism</b><br><i>\"The Brom procedure involves a three-patch technique... it provides the most <b>anatomic and symmetrical reconstruction</b> of the aortic root and minimizes late aortic valve distortion.\"</i><br><br>🟣 <b>Systemic Context</b><br>Williams syndrome patients often have <b>multilevel disease</b>, including peripheral pulmonary artery stenosis, which must be evaluated during the same workup.<br><br>📚 <b>Key Point</b><br><mark style=\"background:#2ecc71;color:#fff\">Brom procedure = Three patches. It is the modern gold standard for Supravalvular AS.</mark>",
@@ -1748,7 +1748,7 @@
         "A": "Риск актуален только для пациентов в возрасте до 35 лет.",
         "B": "AAOCA чаще считается причиной внезапной смерти у пациентов < 35 лет, однако смерть может наступить в любом возрасте независимо от наличия атеросклероза.",
         "C": "Риск внезапной смерти полностью исчезает после 50 лет.",
-        "D": "Только аномальная левая коронарная артерия (ALCA) связана с внезапной смертью; правая (ARCA) всегда доброкачественна."
+        "D": "Только аномальная левая коронарная артерия связана с внезапной смертью; правая всегда доброкачественна."
       },
       "correctAnswer": "B",
       "explanationEn": "🎯 <b>Correct answer: B. AAOCA is more commonly invoked as the cause of SCD in patients < 35 years old, but death can occur at any age regardless of atherosclerotic disease.</b><br><br>🔵 <b>Rationale: Age and Risk Profile</b><br>According to <b>Kirklin/Barratt-Boyes (5th Ed., Ch 54, Table 54.23 [1])</b>: <br><i>\"AAOCA is more commonly invoked as the cause of SCD in patients < 35 years of age than in patients > 35 years of age, in whom atherosclerotic coronary disease becomes a more prevalent cause. However, death has been attributed to AAOCA in patients of all ages; there does not seem to be an age beyond which the AAOCA may not be relevant...\"</i><br><br>🟢 <b>Key Findings / Mechanism</b><br>While youth and high-intensity exercise are classic triggers, the anatomical arrangement (intramural course, slit-like orifice) remains a physiological threat throughout life.<br><br>📚 <b>Key Point</b><br><mark style=\"background:#2ecc71;color:#fff\">Do not ignore AAOCA in older patients; although atherosclerosis is more common, the anomaly remains a potentially fatal substrate at any age.</mark>",
@@ -1897,7 +1897,7 @@
       },
       "optionsRu": {
         "A": "Она создает систему, которая полностью игнорирует предыдущие клинические определения.",
-        "B": "Она предоставляет систему, которая впервые гармонизирует административную номенклатуру (МКБ) с клинической номенклатурой (IPCCC) в области детской и врожденной кардиологии.",
+        "B": "Она предоставляет систему, которая впервые гармонизирует административную номенклатуру (МКБ) с клинической номенклатурой в области детской и врожденной кардиологии.",
         "C": "Она сокращает количество диагностических кодов ВПС с 73 до 10.",
         "D": "Она требует, чтобы все операции при ВПС выполнялись только в Европейском союзе."
       },
@@ -2390,7 +2390,7 @@
       "optionsRu": {
         "A": "DORV с субаортальным ДМЖП.",
         "B": "DORV с субпульмональным ДМЖП, где легочная артерия тесно связана с дефектом, а аорта расположена более отдаленно.",
-        "C": "DORV с «двойным связанным» (doubly committed) ДМЖП.",
+        "C": "DORV с «двойным связанным» ДМЖП.",
         "D": "DORV с интактной межжелудочковой перегородкой."
       },
       "correctAnswer": "B",
@@ -2879,8 +2879,8 @@
         "D": "Pulmonary Regurgitant Fraction < 20%."
       },
       "optionsRu": {
-        "A": "Индекс конечно-диастолического объема правого желудочка (RVEDVI) > 100 мл/м².",
-        "B": "Индекс конечно-диастолического объема правого желудочка (RVEDVI) > 150–160 мл/м².",
+        "A": "Индекс конечно-диастолического объема правого желудочка > 100 мл/м².",
+        "B": "Индекс конечно-диастолического объема правого желудочка > 150–160 мл/м².",
         "C": "Фракция выброса левого желудочка (LVEF) < 60%.",
         "D": "Фракция легочной регургитации < 20%."
       },
@@ -3216,7 +3216,7 @@
       },
       "optionsRu": {
         "A": "Простое иссечение суженного сегмента с анастомозом «конец-в-конец» (только если поражено < 30% длины).",
-        "B": "Слайд-трахеопластика (Slide Tracheoplasty), которая включает продольное рассечение двух сегментов трахеи и их «скольжение» друг на друга для удвоения просвета.",
+        "B": "Слайд-трахеопластика, которая включает продольное рассечение двух сегментов трахеи и их «скольжение» друг на друга для удвоения просвета.",
         "C": "Установка постоянного металлического стента.",
         "D": "Только баллонная дилатация."
       },
@@ -3328,7 +3328,7 @@
       },
       "optionsRu": {
         "A": "Двусторонние правые предсердия, отсутствие селезенки и общий АВ-канал.",
-        "B": "Двусторонние левые предсердия, множество мелких селезенок и перерыв нижней полой вены (НПВ) с её продолжением в непарную вену (azygos).",
+        "B": "Двусторонние левые предсердия, множество мелких селезенок и перерыв нижней полой вены (НПВ) с её продолжением в непарную вену.",
         "C": "Нормальное сердце при зеркальном расположении органов.",
         "D": "Отсутствие легочной артерии и декстрокардия."
       },
@@ -3783,7 +3783,7 @@
       },
       "optionsRu": {
         "A": "Острая бактериальная пневмония.",
-        "B": "Васкулопатия сердечного аллографта (CAV).",
+        "B": "Васкулопатия сердечного аллографта.",
         "C": "Немедленное хирургическое кровотечение.",
         "D": "Слишком быстрый рост сердца для грудной клетки."
       },
@@ -4418,7 +4418,7 @@
       },
       "optionsRu": {
         "A": "ДМЖП, декстрапозиция аорты и гипертрофия правого желудочка.",
-        "B": "Персистирующая левая верхняя полая вена (ЛВПВ), впадающая в левое предсердие, «бескрыший» (unroofed) венечный синус и ДМПП (обычно в задне-нижней части перегородки).",
+        "B": "Персистирующая левая верхняя полая вена (ЛВПВ), впадающая в левое предсердие, «бескрыший» венечный синус и ДМПП (обычно в задне-нижней части перегородки).",
         "C": "Митральный стеноз, ДМПП и легочная гипертензия.",
         "D": "Двойное отхождение сосудов от правого желудочка с подлегочным ДМЖП."
       },
@@ -4567,10 +4567,10 @@
         "D": "1.0 : 1 (No shunt)"
       },
       "optionsRu": {
-        "A": "1.5 : 1",
-        "B": "2.15 : 1",
-        "C": "3.0 : 1",
-        "D": "1.0 : 1 (Нет шунта)"
+        "A": "1.5: 1",
+        "B": "2.15: 1",
+        "C": "3.0: 1",
+        "D": "1.0: 1 (Нет шунта)"
       },
       "correctAnswer": "B",
       "explanationEn": "🎯 <b>Correct answer: B. 2.15 : 1</b><br><br>🔵 <b>Rationale: The Formula</b><br>According to <b>Key Questions (Ch 1)</b> and <b>Kirklin</b>, the simplified Fick formula for <span style=\"color:#800080\"><b>Qp/Qs</b></span> is: <br><b>Qp/Qs = (SaO2 - MvO2) / (SvO2 - SpO2)</b>.<br><br>🔢 <b>Calculation:</b><br>(98 - 70) / (98 - 85) = 28 / 13 ≈ <b>2.15</b>.<br><br>🟢 <b>Key Findings / Mechanism</b><br>A ratio > 1 means a 'Left-to-Right' shunt. <b>Qp/Qs > 2.0</b> usually indicates a large shunt that requires surgical closure to prevent lung damage.<br><br>📚 <b>Key Point</b><br><mark style=\"background:#2ecc71;color:#fff\">Qp/Qs > 2.0 usually indicates a large shunt that requires surgical closure to prevent lung damage.</mark>",
@@ -4643,7 +4643,7 @@
       },
       "optionsRu": {
         "A": "Толщина стенки левого желудочка.",
-        "B": "Индекс конечно-диастолического объема правого желудочка (RVEDVI) и степень легочной регургитации (PR фракция).",
+        "B": "Индекс конечно-диастолического объема правого желудочка и степень легочной регургитации (PR фракция).",
         "C": "Размер аорты.",
         "D": "Наличие небольшого ДМПП."
       },
@@ -4869,7 +4869,7 @@
       "optionsRu": {
         "A": "Верхний край овальной ямки.",
         "B": "Задне-нижняя стенка между венечным синусом и левым предсердием.",
-        "C": "Вся первичная перегородка (septum primum).",
+        "C": "Вся первичная перегородка.",
         "D": "Клапан венечного синуса (Тебезиев клапан)."
       },
       "correctAnswer": "B",
@@ -5357,7 +5357,7 @@
         "A": "Ребенок защищен материнскими гормонами.",
         "B": "Высокое легочное сосудистое сопротивление (PVR) новорожденных поддерживает давление в легочной артерии на уровне, достаточном для антеградной перфузии левой коронарной артерии в первые недели жизни.",
         "C": "Левый желудочек практически не задействован в первый месяц жизни.",
-        "D": "Фетальный гемоглобин (HbF) переносит в 10 раз больше кислорода, чем взрослый."
+        "D": "Фетальный гемоглобин переносит в 10 раз больше кислорода, чем взрослый."
       },
       "correctAnswer": "B",
       "explanationEn": "🎯 <b>Correct answer: B. High Neonatal PVR maintains PA pressure...</b><br><br>🔵 <b>Rationale: The Steal Mechanism</b><br>According to <b>Kirklin (Ch 35, Page 1339)</b>, the physiology of <span style=\"color:#800080\"><b>ALCAPA</b></span> changes as the baby adapts to the world. At birth, PVR is high (PA pressure = Aortic pressure), so the PA actually feeds the LCA. As PVR <span style=\"color:#e74c3c\"><b>drops</b></span> around 1-2 months, PA pressure becomes low, and blood starts flowing from the high-pressure RCA, through collaterals, and <b>OUT</b> into the PA. This causes a massive 'steal' and MI.<br><br>🟢 <b>Key Findings / Mechanism</b><br>ALCAPA = The 2-month crash. Symptoms start when lung pressure falls.<br><br>📚 <b>Key Point</b><br><mark style=\"background:#2ecc71;color:#fff\">ALCAPA = The 2-month crash. Symptoms start when lung pressure falls.</mark>",
@@ -5469,7 +5469,7 @@
       "optionsRu": {
         "A": "Изолированная атрезия клапана легочной артерии.",
         "B": "Периферический стеноз ветвей легочной артерии, который часто спонтанно улучшается со временем.",
-        "C": "Тотальный аномальный дренаж легочных вен (TAPVC).",
+        "C": "Тотальный аномальный дренаж легочных вен.",
         "D": "Отсутствие левой легочной артерии."
       },
       "correctAnswer": "B",

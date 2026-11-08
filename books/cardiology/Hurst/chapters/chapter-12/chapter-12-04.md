@@ -18,8 +18,8 @@
 
 ### Epidemiology and Risk Factors
 * **Prevalence:** SDB affects ≥20% of older adults. OSA is 2–3× more common in men; differences decrease after menopause. In the US, African Americans have 2–6× higher prevalence than whites. Obesity accounts for 40–60% of SDB cases; 1% BMI increase → 3% AHI increase.
-* **HF and SDB:** 50–75% of HF patients have SDB. CSA/CSR prevalence increases with HF severity (NYHA I: ~30%, NYHA IV: ~70%). In HFpEF, OSA predominates (70–80%). Acute decompensated HF: SDB in 44–97%. Risk factors for CSA in HF: male sex (OR 3.50), atrial fibrillation (OR 4.13), age >60 (OR 2.37), hypocapnia (PaCO₂ <38 mm Hg, OR 4.33).
-* **Mortality:** Wisconsin Sleep Cohort: severe SDB (AHI ≥30) HR 2.7–3.8 for all-cause mortality. Sleep Heart Health Study: SDB associated with increased CVD mortality, strongest in men age 40–70 with AHI ≥30 (HR ~2). Untreated severe OSA: 2.9× fatal and 3.2× nonfatal CV events over 10 years.
+* **HF and SDB:** 50–75% of HF patients have SDB. CSA/CSR prevalence increases with HF severity (NYHA I: ~ 30%, NYHA IV: ~ 70%). In HFpEF, OSA predominates (70–80%). Acute decompensated HF: SDB in 44–97%. Risk factors for CSA in HF: male sex (OR 3.50), atrial fibrillation (OR 4.13), age >60 (OR 2.37), hypocapnia (PaCO₂ <38 mm Hg, OR 4.33).
+* **Mortality:** Wisconsin Sleep Cohort: severe SDB (AHI ≥30) HR 2.7–3.8 for all-cause mortality. Sleep Heart Health Study: SDB associated with increased CVD mortality, strongest in men age 40–70 with AHI ≥30 (HR ~ 2). Untreated severe OSA: 2.9× fatal and 3.2× nonfatal CV events over 10 years.
 
 ### SDB and Cardiovascular Disease
 * **Hypertension:** Dose-response relationship: AHI 0.1–4.9 → OR 1.42 for HTN; AHI 5–14.9 → OR 2.03; AHI ≥15 → OR 2.89 (Wisconsin 4-year follow-up). Nondipping BP pattern common. CPAP reduces BP by 2–3 mm Hg on average; greater effect in resistant HTN (6.5 mm Hg reduction) and with higher baseline AHI. Maximum BP reduction takes 3–6 months.
@@ -27,16 +27,16 @@
 * **Ventricular Arrhythmias:** SDB associated with 3× increased odds of non-sustained VT and 2× odds of complex ventricular ectopy (Sleep Heart Health Study). OSA and CSA are independent risk factors for malignant ventricular arrhythmias requiring ICD therapy in HF patients. Arrhythmia is 18× more likely within 90 seconds of an apnea/hypopnea.
 * **Coronary Artery Disease:** OSA prevalence 40–87% in CAD patients. In CAD patients, SDB increases risk of death, MI, and stroke by 60–70% over 5 years. Untreated severe OSA in men → 2.9× fatal and 3.2× nonfatal CV events over 10 years. In acute coronary syndrome, 55% have moderate-severe SDB. OSA independently predicts MACE (OR 3.4). CPAP reduces nocturnal ischemia and CV events in observational studies; SAVE trial results awaited.
 * **Heart Failure:** OSA independent risk factor for HF development (Sleep Heart Health Study: OR 2.6). CSA/CSR independently associated with worse prognosis in HF, including increased mortality, even with optimal therapy including CRT. In acute decompensated HF, CSA is severe (AHI >30) and predicts readmission and mortality.
-* **Pulmonary Hypertension:** 20–40% of SDB patients have mild-moderate PH (mPAP >20 mm Hg). Severe SDB independently associated with PH, related to hypoxia and diastolic dysfunction. CPAP reduces PAP by ~4–5 mm Hg.
+* **Pulmonary Hypertension:** 20–40% of SDB patients have mild-moderate PH (mPAP >20 mm Hg). Severe SDB independently associated with PH, related to hypoxia and diastolic dysfunction. CPAP reduces PAP by ~ 4–5 mm Hg.
 
 ### Treatment — General Measures
-* **Lifestyle:** Weight loss reduces AHI by ~6 events/hour (meta-analysis). Positional therapy (avoid supine sleep) may help. Avoid alcohol, sedatives, narcotics, muscle relaxants.
+* **Lifestyle:** Weight loss reduces AHI by ~ 6 events/hour (meta-analysis). Positional therapy (avoid supine sleep) may help. Avoid alcohol, sedatives, narcotics, muscle relaxants.
 * **Medical Optimization:** In HF, optimal HF therapy (ACEi/ARB, sacubitril-valsartan, β-blockers, aldosterone antagonists, diuretics) may improve CSA/CSR. Cardiac resynchronization therapy reduces AHI in CSA by mean 13/h (meta-analysis) but has no effect on OSA.
 * **Oral Appliances:** Mandibular advancement devices may improve mild OSA, positional OSA, or in patients without marked obesity.
 * **Surgery:** Bariatric surgery for BMI >35 kg/m² may improve OSA. Upper airway surgery outcomes often suboptimal (<50% achieve 50% AHI reduction).
 
 ### Positive Airway Pressure (PAP) Therapy
-* **CPAP (OSA):** Standard treatment. Stabilizes upper airway. In HF+OSA, CPAP improves LVEF by ~5%, reduces urinary norepinephrine, improves RV function and pulmonary hypertension. One night of CPAP lowers SBP by 10 mm Hg and reduces LVESD. Observational studies show reduced hospitalization/death (HR 2.03 for no CPAP). Guidelines recommend screening and CPAP for OSA in HF.
+* **CPAP (OSA):** Standard treatment. Stabilizes upper airway. In HF+OSA, CPAP improves LVEF by ~ 5%, reduces urinary norepinephrine, improves RV function and pulmonary hypertension. One night of CPAP lowers SBP by 10 mm Hg and reduces LVESD. Observational studies show reduced hospitalization/death (HR 2.03 for no CPAP). Guidelines recommend screening and CPAP for OSA in HF.
 * **CPAP (CSA):** CANPAP trial (n=258) showed no transplant-free survival benefit despite improved AHI, LVEF, and 6‑minute walk. Post hoc analysis suggested survival benefit in those with AHI suppressed to <15/h. CPAP less effective for CSA than ASV.
 * **BiPAP:** Not recommended for CSA; may worsen hyperventilation and low CO₂. Can be used with backup rate but often ineffective.
 * **ASV (Adaptive Servo-Ventilation):** Most effective for controlling CSA/CSR. Provides variable inspiratory support, withdraws during hyperventilation, mandatory breaths during apnea. Improves AHI, LVEF, NYHA class, 6‑minute walk, BNP, catecholamines in small trials.
@@ -45,7 +45,7 @@
 * **ASV in Acute Decompensated HF:** CAT-HF trial terminated early after SERVE-HF results.
 
 ### Oxygen and Other Therapies
-* **Oxygen:** Reduces CSA/CSR severity by ~50%, reduces nocturnal norepinephrine. CHF-HOT trial: oxygen improves AHI and LVEF in severe CSA. Impact on prognosis unknown. Meta-analysis: oxygen reduces desaturations but may prolong apneas/hypopneas.
+* **Oxygen:** Reduces CSA/CSR severity by ~ 50%, reduces nocturnal norepinephrine. CHF-HOT trial: oxygen improves AHI and LVEF in severe CSA. Impact on prognosis unknown. Meta-analysis: oxygen reduces desaturations but may prolong apneas/hypopneas.
 * **CO₂ Therapy:** Reduces AHI but causes hyperventilation and poor sleep quality; not used clinically.
 * **Phrenic Nerve Stimulation:** Implantable device stimulates phrenic nerve when no breath sensed. Uncontrolled study (n=57): AHI reduced by 55% (49.5 to 22.4/h) at 3 months. Adverse events in 26% (lead displacement). Randomized trial (n=151) completed; results awaited. Not powered for mortality/HF hospitalization.
 * **Hypoglossal Nerve Stimulation:** For OSA; uncontrolled study showed 68% AHI reduction at 12 months. CV outcomes unknown.

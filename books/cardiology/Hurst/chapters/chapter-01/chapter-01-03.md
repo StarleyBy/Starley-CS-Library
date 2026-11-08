@@ -40,7 +40,7 @@ Health care value, a key aspiration for the profession, is defined as patients' 
 
 ### Ongoing Quality Initiatives
 * **National registries:** ACC NCDR (CathPCI, ICD, carotid stenting), AHA Get With The Guidelines (HF, stroke), ACTION (ACS), PINNACLE (outpatient), GWTG-Outpatient.
-* **Door-to-Balloon (D2B) Alliance (2006):** goal to increase primary PCI within 90 minutes from ~50% to >75%. Strategies: ED physician activation, single-call cath lab activation, 30-minute team assembly, prehospital ECG activation. Results: median D2B time 96 min (Dec 2005) → 64 min (Sep 2010); 90-minute compliance 44.2% → 91.4%.
+* **Door-to-Balloon (D2B) Alliance (2006):** goal to increase primary PCI within 90 minutes from ~ 50% to >75%. Strategies: ED physician activation, single-call cath lab activation, 30-minute team assembly, prehospital ECG activation. Results: median D2B time 96 min (Dec 2005) → 64 min (Sep 2010); 90-minute compliance 44.2% → 91.4%.
 
 ### Future Directions
 * **Patient-centered quality:** patient-reported health status (Seattle Angina Questionnaire, Kansas City Cardiomyopathy Questionnaire); CAHPS surveys for patient experience.

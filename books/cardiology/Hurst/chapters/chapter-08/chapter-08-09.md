@@ -16,7 +16,7 @@ The 2006 ACC/AHA guidelines for the treatment of valvular heart disease (VHD) we
 
 ### Tricuspid Repair vs Replacement
 * **Repair preferred** when feasible.
-* **10‑year survival** (~60%) similar for bioprostheses and mechanical valves. Bioprostheses: structural deterioration in younger patients. Mechanical valves: thromboembolic/hemorrhagic complications.
+* **10‑year survival** (~ 60%) similar for bioprostheses and mechanical valves. Bioprostheses: structural deterioration in younger patients. Mechanical valves: thromboembolic/hemorrhagic complications.
 
 ### Aortic Stenosis and Mitral Regurgitation
 * **Secondary MR** with AS often improves after AVR but not always.

@@ -10,7 +10,7 @@
 * **Athlete's heart:** Clinical syndrome of cardiac chamber enlargement, hypertrophy, normal or augmented systolic function, commonly with sinus bradycardia, sinus arrhythmia, and systolic flow murmur. Benign physiologic adaptation to systematic training.
 * **Acute training response:** Increased maximal oxygen consumption, cardiac output, stroke volume, systolic BP, decreased peripheral vascular resistance.
 * **Chronic adaptations:** Increased maximal oxygen uptake from augmented stroke volume and cardiac output; increased arteriovenous oxygen difference.
-* **Morphologic changes:** LV chamber enlargement (≥60 mm in ~15% of highly trained athletes); mild increase in LV wall thickness (range 13-15 mm); reversible with deconditioning.
+* **Morphologic changes:** LV chamber enlargement (≥60 mm in ~ 15% of highly trained athletes); mild increase in LV wall thickness (range 13-15 mm); reversible with deconditioning.
 * **LV wall thickness:** >12 mm unusual in athletes; ≥16 mm raises suspicion of HCM. Female athletes rarely have hypertrophy >12 mm.
 * **Cavity size:** LV end-diastolic diameter >70 mm is unusual for athlete's heart; helps distinguish from dilated cardiomyopathy.
 
@@ -21,7 +21,7 @@
 
 ### Sudden Cardiac Death in Athletes
 * **Incidence:** 1-2 per 100,000 athlete-years (age 12-35). Eightfold lower in female athletes.
-* **Athletes <35 years:** Inherited diseases most common — HCM (~1/3 of cases), arrhythmogenic right ventricular cardiomyopathy, congenital coronary anomalies (wrong sinus origin).
+* **Athletes <35 years:** Inherited diseases most common — HCM (~ 1/3 of cases), arrhythmogenic right ventricular cardiomyopathy, congenital coronary anomalies (wrong sinus origin).
 * **Athletes >35 years:** Atherosclerotic coronary artery disease most common.
 * **HCM:** Characteristic asymmetric LV hypertrophy, myocyte disarray, interstitial fibrosis, small-vessel disease. Sudden death from ventricular tachyarrhythmias.
 * **ARVC:** Fibrofatty replacement of RV myocardium. Leading cause in Veneto, Italy (~ 25%); uncommon in US (~ 5%). ECG: T-wave inversion V1-V3, epsilon waves. VT with LBBB morphology during exercise.
@@ -33,7 +33,7 @@
 * **Definition:** Sudden cardiac death from blunt nonpenetrating chest blow in absence of underlying heart disease.
 * **Demographics:** Mean age 14 years; 30% >18 years. Second leading cause of SCD in young athletes.
 * **Sports:** Baseball, softball, ice hockey, football, lacrosse (projectile sports).
-* **Mechanism:** VF triggered by impact over heart during vulnerable phase of repolarisation (10-30 ms window before T-wave peak). Impact velocity ~40 mph most likely to trigger VF.
+* **Mechanism:** VF triggered by impact over heart during vulnerable phase of repolarisation (10-30 ms window before T-wave peak). Impact velocity ~ 40 mph most likely to trigger VF.
 * **Survival:** Increased from <10% to >50% due to rapid defibrillation and public awareness.
 * **Prevention:** Age-appropriate softballs; improved chest protectors (current ones not fully effective); AED availability.
 
@@ -52,8 +52,8 @@
 ### Preparticipation Screening — Key Controversies
 * **Current practice:** US — history + physical (14-point AHA elements); Italy and Israel — ECG + history + physical; Denmark — no systematic screening.
 * **Italian data:** 30-year program in Veneto showed decreased mortality attributed to ECG screening (identifies ARVC endemic to region).
-* **Criticisms:** Data not replicated elsewhere; US/Israel data don't show mortality benefit; event rate low (1-2 per 100,000); false positives (5-20%); false negatives (~30-40%).
-* **Obstacles to universal ECG screening:** ~10 million athletes annually; low event rate; cost-effectiveness; liability; lack of resources; annual repetition needed; cannot identify all at-risk athletes.
+* **Criticisms:** Data not replicated elsewhere; US/Israel data don't show mortality benefit; event rate low (1-2 per 100,000); false positives (5-20%); false negatives (~ 30-40%).
+* **Obstacles to universal ECG screening:** ~ 10 million athletes annually; low event rate; cost-effectiveness; liability; lack of resources; annual repetition needed; cannot identify all at-risk athletes.
 * **AHA position:** Does not support mandatory national ECG screening; does not oppose regional/smaller screening with adequate quality control.
 * **Nonathletes:** Sudden deaths from genetic/congenital heart disease more common in nonathletes than athletes — ethical issue regarding screening only athletes.
 

@@ -8,7 +8,7 @@
 
 ### Definition and Epidemiology
 * **Obesity as a Chronic Disease:** Recognized by AACE (2012) and AMA (2013) as a chronic disease with genetic, environmental, and behavioral determinants. Genetic factors explain 50–60% of individual variation in body weight.
-* **Prevalence:** Global prevalence increased from 28.8% to 36.9% in men and 29.8% to 38.0% in women (1980–2013). In U.S., ~2/3 adults overweight or obese, >1/3 obese, 17% of children obese.
+* **Prevalence:** Global prevalence increased from 28.8% to 36.9% in men and 29.8% to 38.0% in women (1980–2013). In U.S., ~ 2/3 adults overweight or obese, >1/3 obese, 17% of children obese.
 * **Genetics:** >100 susceptibility loci identified; *FTO* and *MC4R* show strongest associations (OR <1.7). Gene-environment interactions determine individual weight response to diet and exercise.
 
 ### Pathophysiology
@@ -17,7 +17,7 @@
 * **Circadian Rhythms and Sleep:** Chronodisruptors (shift work, disturbed eating) affect appetite hormones (insulin, cortisol, ghrelin, leptin, NPY, orexin). Short sleep (<6–9 h/night) and poor sleep hygiene associated with obesity, T2D, CVD, and mortality. Obstructive sleep apnea creates vicious cycle with obesity; ≥10% weight loss improves AHI scores.
 
 ### Relationship Between Obesity and CVD
-* **BMI-Mortality Relationship:** U-shaped or J-shaped; lowest mortality at BMI 22.5–25 kg/m². Each 5 kg/m² above this range associated with ~30% higher mortality (Prospective Studies Collaboration).
+* **BMI-Mortality Relationship:** U-shaped or J-shaped; lowest mortality at BMI 22.5–25 kg/m². Each 5 kg/m² above this range associated with ~ 30% higher mortality (Prospective Studies Collaboration).
 * **Metabolic Health vs. BMI:** MetS is more predictive of CVD outcomes than BMI status (ARIC study). Metabolically healthy obese have lower T2D and CVD risk than lean unhealthy individuals with MetS.
 * **Obesity Paradox:** In CHF, overweight/obesity may be protective (reverse causality from cardiac cachexia, smoking).
 

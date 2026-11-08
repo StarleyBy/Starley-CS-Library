@@ -8,7 +8,7 @@
 
 ### Definition and Epidemiology
 * **Myocarditis definition:** Inflammatory disease of the myocardium diagnosed by histologic, immunologic, and immunohistochemical criteria. ESC requires ≥14 lymphocytes/mm² including CD3+ T lymphocytes ≥7 cells/mm².
-* **Prevalence:** Autopsy series show 0.11% for nonspecific myocarditis, 0.007% for giant cell myocarditis. Standardised autopsy sampling shows 5.1% prevalence. Clinical series estimate ~0.0019% of hospital discharges.
+* **Prevalence:** Autopsy series show 0.11% for nonspecific myocarditis, 0.007% for giant cell myocarditis. Standardised autopsy sampling shows 5.1% prevalence. Clinical series estimate ~ 0.0019% of hospital discharges.
 * **Age and sex:** More common in young men and postmenopausal women. Acute myocarditis more common than acute MI in patients 18-29 years.
 * **Children:** Japanese survey 0.24 cases per 100,000 population; Coxsackie virus accounts for 60%.
 
@@ -20,7 +20,7 @@
 * **Enteroviruses (Coxsackievirus B3):** Most common cause. Enters via CAR receptor. Direct cytotoxicity and viral proteinases cause cell damage. Molecular mimicry may trigger postinfectious autoimmunity.
 * **Parvovirus B19:** Infects myocardial endothelial cells (does not replicate intracellularly). EMB shows T-lymphocyte infiltrates with prominent endothelial cells. Associated with autoimmune diseases via molecular mimicry.
 * **Human herpesviruses:** HHV6, adenovirus, EBV associated with myocarditis in immunocompetent and immunocompromised hosts. HCMV more common in immunocompromised; intranuclear inclusion bodies.
-* **Chronic evolution:** ~30% of DCM may evolve from myocarditis. Predictors of worse outcome: NYHA class III-IV, heart failure, LV dilation/dysfunction, LGE on CMR. ~22-25% of biopsy-proven cases die or undergo transplantation.
+* **Chronic evolution:** ~ 30% of DCM may evolve from myocarditis. Predictors of worse outcome: NYHA class III-IV, heart failure, LV dilation/dysfunction, LGE on CMR. ~ 22-25% of biopsy-proven cases die or undergo transplantation.
 
 ### Treatment of Viral Myocarditis
 * **Immunosuppression:** Not recommended routinely. Benefits mainly in virus-negative, autoimmune forms. TIMIC study showed improved LVEF in virus-negative inflammatory DCM.
@@ -40,7 +40,7 @@
 
 ### Toxic Myocarditis
 * **Direct toxins:** Lithium, arsenic, zinc phosphide.
-* **Drug-induced:** Hypersensitivity syndrome (antibiotics, antiepileptics, allopurinol, sulfonamides). Clozapine — ~3% incidence; fever within ~14 days of initiation; can be fatal.
+* **Drug-induced:** Hypersensitivity syndrome (antibiotics, antiepileptics, allopurinol, sulfonamides). Clozapine — ~ 3% incidence; fever within ~ 14 days of initiation; can be fatal.
 * **Monitoring for clozapine:** CRP and troponin I at baseline, twice weekly for 1 month, weekly for second month, monthly thereafter.
 
 ### Diagnostic Workup
@@ -1007,7 +1007,7 @@ Churg-Strauss syndrome has recently been renamed as EGPA, which is a systemic ne
 | 6. Once EGPA is diagnosed, evaluating possible lung, kidney, heart, GI, and/or peripheral nerve involvement is recommended. | NA |
 | 7. Definition of EGPA remission: The absence of a clinical systemic manifestation (excluding asthma and/or ENT). | NA |
 | 8. Definition of EGPA relapse: The new appearance or recurrence or worsening of clinical EGPA manifestation(s) (excluding asthma and/or ENT) requiring the addition, change, or dose increase of glucocorticoids and/or other immunosuppressants. | NA |
-| 9. Use of glucocorticoids is appropriate to achieve EGPA remission; the dose prescribed should be ~1 mg/kg/d of prednisone for patients with organ- or life-threatening manifestations. | A |
+| 9. Use of glucocorticoids is appropriate to achieve EGPA remission; the dose prescribed should be ~ 1 mg/kg/d of prednisone for patients with organ- or life-threatening manifestations. | A |
 | 10. Patients with life- and/or organ-threatening disease manifestations (ie, heart, GI, central nervous system, severe peripheral neuropathy, severe ocular disease, alveolar hemorrhage, and/or glomerulonephritis) should be treated with a remission-induction regimen combining glucocorticoids and an additional immunosuppressant (eg, cyclophosphamide). | B |
 | 11. Maintenance therapy (with azathioprine or methotrexate) is recommended for patients with life- and/or organ-threatening disease manifestations on a remission-induction therapeutic regimen. | C |
 | 12. Glucocorticoids alone may be suitable for patients without life- and/or organ-threatening disease manifestations; additional immunosuppression can be considered for selected patients for whom the prednisone dose cannot be tapered to 7.5 mg/d after 3-4 months of therapy or patients with recurrent disease. | C |

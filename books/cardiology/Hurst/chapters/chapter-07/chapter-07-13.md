@@ -26,7 +26,7 @@ Great advances have been made in the consideration of coronary revascularization
 * **Clinical Use:** Higher SYNTAX Score predicts worse outcomes after PCI relative to CABG. In SYNTAX trial, patients with SS ≤22 had similar MACCE rates with PCI and CABG; those with SS ≥33 had significantly higher MACCE with PCI (driven by repeat revascularization and MI).
 
 ### Left Main Coronary Artery Disease
-* **Prevalence:** ~4% of patients undergoing coronary interventions.
+* **Prevalence:** ~ 4% of patients undergoing coronary interventions.
 * **PRECOMBAT Trial (5‑year):** PCI with DES vs CABG with LIMA graft – no significant difference in primary composite (all‑cause death, MI, stroke, ischemia‑driven TVR): 17.5% vs 14.3% (HR 1.27; 95% CI 0.84–1.90; P=0.26). However, repeat revascularization was almost double in PCI group (11.4% vs 5.5%; HR 2.11; P=0.012). Patients with triple‑vessel disease or diabetes favored CABG.
 * **EXCEL Trial:** Ongoing landmark trial to define role of PCI in left main disease.
 
@@ -51,7 +51,7 @@ Great advances have been made in the consideration of coronary revascularization
 
 ### Special Considerations for Decision‑Making
 1. **Co‑intervention:** OMT often unbalanced in trials; better adherence may further improve CABG outcomes.
-2. **Newer‑Generation Stents:** Despite reduced stent thrombosis, historical hazard ratio for mortality (~0.70 for CABG vs PCI) has remained constant; newer stents unlikely to close the gap.
+2. **Newer‑Generation Stents:** Despite reduced stent thrombosis, historical hazard ratio for mortality (~ 0.70 for CABG vs PCI) has remained constant; newer stents unlikely to close the gap.
 3. **Multiple Arterial Grafting:** Bilateral internal mammary artery (BIMA) grafting provides long‑term survival benefit over single LIMA (HR 0.78; 95% CI 0.72–0.84; P<0.00001), including diabetic patients, but increases sternal wound infection risk in obese diabetic women.
 4. **Completeness of Revascularization:** Incomplete revascularization with PCI associated with worse outcomes (HR 1.15; 95% CI 1.01–1.30); patients with residual total occlusion or ≥2 vessels incomplete are at highest risk.
 5. **On‑Pump vs Off‑Pump CABG:** No difference in 5‑year survival (UK registry) or 1‑year MACCE (CORONARY trial). Off‑pump may benefit high‑risk patients and women, but operator experience matters.

@@ -11,7 +11,7 @@
 
 ### Structurally Normal Heart — PVCs/NSVT
 * **Prognosis:** PVCs/NSVT in structurally normal hearts have excellent prognosis, no excess SCD risk. Management aimed at symptom relief.
-* **Outflow Tract PVCs/VT:** Most common origin — RVOT (LBBB pattern, inferior axis, tall R in inferior leads). ~25% from other sites: coronary cusps, LV summit, mitral annulus, epicardial venous structures, papillary muscles.
+* **Outflow Tract PVCs/VT:** Most common origin — RVOT (LBBB pattern, inferior axis, tall R in inferior leads). ~ 25% from other sites: coronary cusps, LV summit, mitral annulus, epicardial venous structures, papillary muscles.
 * **PVC-Induced Cardiomyopathy:** LV dysfunction can occur with high PVC burden (≥10–20% of all QRS complexes). Risk factors: higher burden, retrograde VA conduction, PVC QRS duration, interpolation, male gender, epicardial origin. Elimination of PVCs (ablation) improves LVEF in >80%.
 * **Diagnostic Workup:** Echocardiogram (LV function). If RV-origin PVCs with RV dysfunction or multiform PVCs → consider MRI to exclude ARVC/sarcoidosis. Exercise stress testing can assess for CPVT and exercise-induced burden.
 * **Treatment:** Asymptomatic — no therapy unless high burden. Symptomatic — avoid triggers, β-blockers, CCBs (efficacy <50%). Catheter ablation >75% success, curative option.
@@ -28,7 +28,7 @@
 * **ICD Indications:** Clear benefit for secondary prevention (AVID meta-analysis: 50% reduction in arrhythmic death, 25% all-cause). Primary prevention: LVEF ≤35% (post-MI ≥40 days) — MADIT II, SCD-HeFT. LVEF ≤30% + NYHA I — MADIT II. NSVT + LVEF <40% + inducible VT/VF at EPS — MUSTT.
 * **ICD Programming:** Longer detection times, more ATP therapies → reduce inappropriate shocks (MADIT-RIT, PainFREE Rx). Both appropriate and inappropriate shocks increase mortality.
 * **Antiarrhythmic Drugs with ICD:** Amiodarone + β-blocker reduces shocks (OPTIC: 10.3% vs 38.5% β-blocker alone, *P* = .006). Sotalol also effective. Careful with VT slowing below detection zone and DFT changes.
-* **Catheter Ablation:** Adjuvant to ICD. Early intervention may improve outcomes. 1-year freedom from VT ~70% in experienced centers. Essential for VT storm. Superior to antiarrhythmic therapy in reducing ICD therapies. In international collaborative study, freedom from VT associated with improved transplant-free survival.
+* **Catheter Ablation:** Adjuvant to ICD. Early intervention may improve outcomes. 1-year freedom from VT ~ 70% in experienced centers. Essential for VT storm. Superior to antiarrhythmic therapy in reducing ICD therapies. In international collaborative study, freedom from VT associated with improved transplant-free survival.
 * **Substrate Mapping:** Voltage mapping of scar/border zones; late potentials identify critical isthmus. Entrainment mapping if VT tolerated. Combined endocardial-epicardial approach often needed.
 
 ### Nonischemic Cardiomyopathy (NICM)

@@ -21,8 +21,8 @@
 * **ECG:** Even minor ST‑depression (>0.5 mm) confers increased mortality; isolated T‑wave inversion has better prognosis than ST‑depression.
 * **Biomarkers:** Troponin elevation is a strong independent predictor; BNP/NT‑proBNP adds prognostic information (Class IIb).
 * **Noninvasive testing:** Stress testing (exercise or pharmacologic) for low‑intermediate risk patients; high‑risk features (low workload ST‑depression, large perfusion defects, wall motion abnormalities) should prompt angiography.
-* **Coronary angiography:** ~25% each have 1‑, 2‑, 3‑vessel disease; 10% left main; 15% no significant stenosis. Women and those without ECG changes more often have normal vessels; IVUS may reveal eccentric remodeling.
-* **Prognosis:** 6‑month mortality: NSTEMI ~6.2%, UA ~3.6%. Rehospitalization ~20%, revascularization ~15%.
+* **Coronary angiography:** ~ 25% each have 1‑, 2‑, 3‑vessel disease; 10% left main; 15% no significant stenosis. Women and those without ECG changes more often have normal vessels; IVUS may reveal eccentric remodeling.
+* **Prognosis:** 6‑month mortality: NSTEMI ~ 6.2%, UA ~ 3.6%. Rehospitalization ~ 20%, revascularization ~ 15%.
 
 ### Initial Treatment Overview
 * **Goals:** Relieve ischemia, control symptoms, prevent complications (recurrent ischemia, MI, heart failure, death).

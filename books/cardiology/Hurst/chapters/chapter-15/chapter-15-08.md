@@ -14,15 +14,15 @@
   * **Cockcroft-Gault:** [(140 – age) × weight (kg) × 0.85 if female] / (72 × SCr) — adjusted for BSA. Tends to overestimate GFR.
   * **MDRD:** 175 × standardized SCr<sup>–1.154</sup> × age<sup>–0.203</sup> × 1.212 (if Black) × 0.742 (if female). Underestimates at higher GFR.
   * **CKD-EPI:** 141 × min(SCr/κ, 1)<sup>α</sup> × max(SCr/κ, 1)<sup>–1.209</sup> × 0.993<sup>Age</sup> × 1.018 (if female) × 1.159 (if Black). Preferred by KDIGO (2013).
-* **Renal blood flow:** Kidneys < 0.5% body weight, receive ~25% of cardiac output. Myogenic mechanism and tubuloglomerular feedback autoregulate GFR over wide BP range.
+* **Renal blood flow:** Kidneys < 0.5% body weight, receive ~ 25% of cardiac output. Myogenic mechanism and tubuloglomerular feedback autoregulate GFR over wide BP range.
 * **Aging:** eGFR declines with age; senescent kidney more susceptible to injury ([Table 105-1](#table-105-1)). Dose-adjust renally cleared drugs in elderly.
 
 ### Acute Kidney Injury (AKI) in Cardiac Patients
 * **Definition:** RIFLE, KDIGO, AKIN criteria based on SCr ↑ and urine output ↓ ([Table 105-3](#table-105-3)).
 * **AKI in MI/cardiogenic shock/HF:** Occurs in 50% of cardiogenic shock. Venous congestion (↑ CVP) is more important than arterial hypotension. Loop diuretics are cornerstone; ultrafiltration effective but does not improve prognosis. Inotropes may be used but no mortality benefit.
-* **Contrast-induced AKI (CI-AKI):** Occurs in ~10% of interventional procedures, ~20% in AMI. Pathophysiology: vasoconstriction + direct tubular toxicity. Prevention: minimal contrast, iso-osmolar agents in high-risk, IV volume expansion, statins. Avoid ACEIs/ARBs. Hydration guided by LVEDP or urine output is superior.
-* **AKI in TAVR:** ~20% incidence; risk factors: preexisting CKD, hemodynamic instability, transfusions, transapical access, contrast volume, diabetes, age.
-* **AKI in cardiac surgery:** RIFLE risk in 17–49%, injury in ~10%, dialysis in ~2%. Prevention: optimize glucose, withhold ACEIs/ARBs, delay surgery 48h after contrast, minimize bypass time, restrictive transfusion thresholds, goal-directed hemodynamic therapy.
+* **Contrast-induced AKI (CI-AKI):** Occurs in ~ 10% of interventional procedures, ~ 20% in AMI. Pathophysiology: vasoconstriction + direct tubular toxicity. Prevention: minimal contrast, iso-osmolar agents in high-risk, IV volume expansion, statins. Avoid ACEIs/ARBs. Hydration guided by LVEDP or urine output is superior.
+* **AKI in TAVR:** ~ 20% incidence; risk factors: preexisting CKD, hemodynamic instability, transfusions, transapical access, contrast volume, diabetes, age.
+* **AKI in cardiac surgery:** RIFLE risk in 17–49%, injury in ~ 10%, dialysis in ~ 2%. Prevention: optimize glucose, withhold ACEIs/ARBs, delay surgery 48h after contrast, minimize bypass time, restrictive transfusion thresholds, goal-directed hemodynamic therapy.
 * **Drug dosing in AKI:** Metformin held ≥ 48h after contrast. Dose-adjust renally cleared drugs.
 
 ### Chronic Kidney Disease (CKD) and CVD
@@ -31,7 +31,7 @@
 * **CVD mechanisms:**
   * **Autonomic dysfunction:** Sympathetic dominance; reduces HRV, increases BP variability.
   * **Vascular pathology:** Accelerated atherosclerosis, arterial stiffness, calcification.
-  * **Cardiac pathology:** LVH in ~40% (eccentric type), >75% in ESRD; valvular calcification in ~50%; HF in >50% of ESRD (half with preserved EF).
+  * **Cardiac pathology:** LVH in ~ 40% (eccentric type), >75% in ESRD; valvular calcification in ~ 50%; HF in >50% of ESRD (half with preserved EF).
 * **Hypertension management:** BP goal < 140/90 mm Hg (SPRINT suggests < 120 mm Hg may be beneficial). ACEIs/ARBs first-line (especially with proteinuria/diabetes); monitor K⁺ and SCr. Calcium channel blockers and β-blockers second-line.
 * **Hyperlipidemia:** Statin therapy recommended for most CKD patients (CKD is CHD equivalent). KDIGO: statin/ezetimibe for age > 49; statin for age 18–49 with risk factors. Do not use LDL targets. Fibrates not recommended.
 * **Anemia:** Almost universal in late CKD. Target Hb 10–12 g/dL; avoid > 13 g/dL (increased mortality in CHOIR, CREATE, NHCT). Erythropoiesis-stimulating agents with iron supplementation.
@@ -41,8 +41,8 @@
 * **CV disease burden:** > 80% of dialysis patients; leading cause of death. Volume overload, pressure overload, nonhemodynamic factors (atherosclerosis, calcification, oxidative stress, inflammation).
 * **NYHA classification less useful** in dialysis; ADQI classification considers volume status ([Fig. 105-2](#fig-105-2)).
 * **Pericarditis:** Uremic (5–20%) vs dialysis-related. Uremic responds to intensified dialysis; dialysis-related less responsive. Pericardiectomy for constriction.
-* **Infective endocarditis:** Incidence ~20× higher; S. aureus most common (~50%). Mortality 30–50%. TEE preferred for diagnosis.
-* **Arrhythmias/SCD:** Accounts for ~25% of dialysis deaths. Beta-blockers and ACEIs/ARBs recommended. ICDs underutilized but appear beneficial.
+* **Infective endocarditis:** Incidence ~ 20× higher; S. aureus most common (~ 50%). Mortality 30–50%. TEE preferred for diagnosis.
+* **Arrhythmias/SCD:** Accounts for ~ 25% of dialysis deaths. Beta-blockers and ACEIs/ARBs recommended. ICDs underutilized but appear beneficial.
 * **Pre-transplant screening:** CAD screening warranted; noninvasive testing vs angiography debated.
 
 ### Cardiorenal Syndrome Type 2 (CRS-2)
@@ -89,7 +89,7 @@ Hence, renal clearance represents a volume of plasma from which the substance of
 
 #### Glomerular Filtration Rate and Creatinine Clearance</summary><div class="details-content">
 
-Glomerular ultrafiltration is the first step of urine formation. The glomerular filtration barrier restricts the filtration of molecules on the basis of size and molecular charge (ie, the reflection coefficient [σ] for these molecules across the glomerular membrane is ~1). As a consequence, the plasma ultra-filtrate is devoid of cells and has a very low concentration of plasma proteins in healthy individuals. Glomerular filtration is determined by Starling forces (hydrostatic and oncotic pressures) across the glomerular membrane and the ultrafiltration coefficient (Kf):
+Glomerular ultrafiltration is the first step of urine formation. The glomerular filtration barrier restricts the filtration of molecules on the basis of size and molecular charge (ie, the reflection coefficient [σ] for these molecules across the glomerular membrane is ~ 1). As a consequence, the plasma ultra-filtrate is devoid of cells and has a very low concentration of plasma proteins in healthy individuals. Glomerular filtration is determined by Starling forces (hydrostatic and oncotic pressures) across the glomerular membrane and the ultrafiltration coefficient (Kf):
 
 $$K_f \times [(P_{GC} - P_{BS}) - \sigma (\pi_{GC} - \pi_{BS})]$$
 
@@ -315,7 +315,7 @@ Rarely, periprocedural AKI may also be caused by embolization of cholesterol to 
 
 #### Contrast-Induced Acute Kidney Injury: Pathophysiology</summary><div class="details-content">
 
-Currently used iodinated contrast agents are highly water soluble iso-osmolar (~290 mOsm/kg) or low-osmolar (700–850 mOsm/kg) solutions. Higher osmolality increases the risk of vascular symptoms of warmth and pain as well as of AKI. Injection of iodinated contrast causes transient vasodilation followed by vasoconstriction. In the renal vessels, this vasoconstriction can persist for hours, which may result in hypoperfusion of the renal parenchyma, including the renal medulla.
+Currently used iodinated contrast agents are highly water soluble iso-osmolar (~ 290 mOsm/kg) or low-osmolar (700–850 mOsm/kg) solutions. Higher osmolality increases the risk of vascular symptoms of warmth and pain as well as of AKI. Injection of iodinated contrast causes transient vasodilation followed by vasoconstriction. In the renal vessels, this vasoconstriction can persist for hours, which may result in hypoperfusion of the renal parenchyma, including the renal medulla.
 
 Contrast media, excreted in the glomerulus, are readily absorbed by the renal tubuli. The media therefore accumulate in the interstitial space and may cause direct cellular toxicity. Contrast material can reach very high concentrations in the renal medulla, where the osmolality of the interstitium is high. Contrast-mediated tubular cell death leads to sloughing of cellular constituents into the tubular space, which further impedes urine flow and contrast clearance. Hence the iodinated contrast agents cause renal injury as a consequence of both hypoperfusion and direct cytotoxicity.
 
@@ -349,7 +349,7 @@ Diabetes mellitus and preexisting CKD are important risk factors for CI-AKI. The
 
 ### Acute Kidney Injury in Patients Undergoing Transcatheter Aortic Valve Replacement</summary><div class="details-content">
 
-AKI is common (~20%) after transcatheter aortic valve replacement (TAVR) and is associated with increased mortality. Similar to patients who undergo coronary angiography, patients who have TAVR receive periprocedural contrast. Furthermore, transient or sustained hemodynamic derangements are common during and/or after the TAVR procedure. Hence, all the mechanisms leading to AKI that were discussed in the previous sections may play a role in TAVR-related AKI.
+AKI is common (~ 20%) after transcatheter aortic valve replacement (TAVR) and is associated with increased mortality. Similar to patients who undergo coronary angiography, patients who have TAVR receive periprocedural contrast. Furthermore, transient or sustained hemodynamic derangements are common during and/or after the TAVR procedure. Hence, all the mechanisms leading to AKI that were discussed in the previous sections may play a role in TAVR-related AKI.
 
 The most important risk factors for AKI post-TAVR include preexisting CKD, hemodynamic instability and/or the need for circulatory support, blood transfusions, transapical access, amount of contrast used, diabetes, and age.
 
@@ -572,9 +572,9 @@ Importantly, the differential workup must consider that patients with CKD can al
 
 #### Infective Endocarditis</summary><div class="details-content">
 
-Patients undergoing hemodialysis have an age-adjusted incidence of infective endocarditis (IE) almost 20 times higher than the general population. Patients who are dialyzed through tunneled catheters are at particularly high risk. The most common pathogen is *Staphylococcus aureus* (~50%) followed by coagulase-negative staphylococci, enterococci, and *Streptococcus viridans*. The mitral valve is the most commonly involved valve, but ~20% of patients have involvement of more than one valve. Dialysis patients with IE have considerably higher mortality (30%–50%) than nondialysis patients with IE. Mitral valve involvement and septic embolization are poor prognostic factors.
+Patients undergoing hemodialysis have an age-adjusted incidence of infective endocarditis (IE) almost 20 times higher than the general population. Patients who are dialyzed through tunneled catheters are at particularly high risk. The most common pathogen is *Staphylococcus aureus* (~ 50%) followed by coagulase-negative staphylococci, enterococci, and *Streptococcus viridans*. The mitral valve is the most commonly involved valve, but ~ 20% of patients have involvement of more than one valve. Dialysis patients with IE have considerably higher mortality (30%–50%) than nondialysis patients with IE. Mitral valve involvement and septic embolization are poor prognostic factors.
 
-IE should be suspected in all hemodialysis patients with fever and/or bacteremia. Classical symptoms and signs include a new regurgitant murmur, focal neurological deficits, or heart failure symptoms. Transesophageal echocardiography (sensitivity > 90%) is considerably superior to transthoracic echocardiography (sensitivity ~50%) at establishing the diagnosis.
+IE should be suspected in all hemodialysis patients with fever and/or bacteremia. Classical symptoms and signs include a new regurgitant murmur, focal neurological deficits, or heart failure symptoms. Transesophageal echocardiography (sensitivity > 90%) is considerably superior to transthoracic echocardiography (sensitivity ~ 50%) at establishing the diagnosis.
 
 As a general rule, current pathogen-specific treatment guidelines for IE apply to both dialysis and nondialysis patients with a required minimum of 4 to 6 weeks of parenteral therapy. Antimicrobial therapy is typically delivered after the dialysis session due to the difficulty in maintaining long-term peripheral venous access in dialysis patients. Coordination between nephrologists and infectious disease staff to select optimal antibiotic agent and dosing schedule is recommended. Indications for surgery for dialysis patients with IE are similar to those for nondialysis patients, but operative mortality is considerably higher for dialysis patients. Whether dialysis patients who undergo valve replacement should receive mechanical (increased risk of valve thrombosis, requires anticoagulation) or bioprosthetic (accelerated degeneration and calcification in the dialysis patient) valves has not been sufficiently studied. A case-to-case decision based on individual risk factors, suitability for long-term anticoagulant therapy, and life expectancy is recommended.
 
@@ -654,7 +654,7 @@ Management of volume status is particularly challenging in patients with CRS-2. 
 
 The definition of diuretic resistance (DR) is not straightforward and no consensus exists. One approach is to define diuretic efficacy as the change in weight, net fluid balance, or urine output per a defined diuretic dose (eg, 40 mg of intravenous furosemide-equivalent dose). Patients with DR typically have lower GFR than patients without DR, and DR is a predictor of worse outcomes independent of GFR.
 
-Although intimately intertwined, DR and GFR probably represent different aspects of renal function. Whereas GFR is reflective of the clearance of metabolites (renal ultrafiltration), DR may be a better index of volume and electrolyte homeostasis (tubular function). Even at a severely depressed GFR of 20 mL/min, almost 30 L of fluid (~4000 mEq of sodium) is filtered through the glomeruli each day. Volume overload and organ congestion are the main drivers of readmissions and adverse outcomes in CHF. This provides a pathophysiological rationale for the strong independent association between DR and poor outcome.
+Although intimately intertwined, DR and GFR probably represent different aspects of renal function. Whereas GFR is reflective of the clearance of metabolites (renal ultrafiltration), DR may be a better index of volume and electrolyte homeostasis (tubular function). Even at a severely depressed GFR of 20 mL/min, almost 30 L of fluid (~ 4000 mEq of sodium) is filtered through the glomeruli each day. Volume overload and organ congestion are the main drivers of readmissions and adverse outcomes in CHF. This provides a pathophysiological rationale for the strong independent association between DR and poor outcome.
 
 <details class="med-details"><summary>
 
@@ -723,8 +723,8 @@ Interventions used to reduce serum potassium or the effects of hyperkalemia are 
 | Treatment | Administration Route | Onset of Action; Duration of Effect | Mechanism | Comment |
 |-----------|----------------------|-------------------------------------|-----------|---------|
 | Calcium (6.8 mmol) | Intravenous (acute) | 1–3 min; 30–60 min | Stabilizes membrane potential | May normalize ECG. Dose can be repeated. Caution if receiving digoxin. |
-| Hypertonic saline | Intravenous (acute) | 5–10 min; ~2 h | Stabilizes membrane potential | Effective only in patients with concomitant hyponatremia. |
-| Sodium bicarbonate (50–100 mmol) | Intravenous; oral (chronic) | 5–10 min; ~2 h | Redistribution of potassium due to ionic shift (potassium enters and H⁺ "exits" the cells) | Efficacy has been questioned for acute treatment of patients with dialysis. |
+| Hypertonic saline | Intravenous (acute) | 5–10 min; ~ 2 h | Stabilizes membrane potential | Effective only in patients with concomitant hyponatremia. |
+| Sodium bicarbonate (50–100 mmol) | Intravenous; oral (chronic) | 5–10 min; ~ 2 h | Redistribution of potassium due to ionic shift (potassium enters and H⁺ "exits" the cells) | Efficacy has been questioned for acute treatment of patients with dialysis. |
 | β₂-Receptor agonists | Intravenous or nebulized (acute) | 30 min; 2–4 h | Redistribution of potassium into cells | Effect is independent of insulin. Caution if hemodynamically unstable. |
 | Insulin (10 units) | Intravenous (acute) | 30 min; 4–6 h | Redistribution of potassium into cells | Administer 50 g of glucose intravenously to prevent hypoglycemia. |
 | Furosemide (40 mg or higher) | Intravenous (acute); Oral (chronic) | Variable | Excretion secondary to increased solute load to distal tubules | Loop diuretic recommended for acute therapy. Loop or thiazide for chronic therapy. |

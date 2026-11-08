@@ -20,7 +20,7 @@
 ### Cardiac Differentiation
 * **Epicardium:** Originates from the proepicardium (PE). Covers the heart (WT1+, Tbx18+). Undergoes EMT to give rise to epicardial‑derived cells (EPDCs) → fibroblasts, coronary smooth muscle, and (minor) endothelium. Hematopoietic cells also colonize the epicardium.
 * **Cardiomyocyte Proliferation & Maturation:** Proliferation occurs first by progenitor recruitment (FHF/SHF), then by symmetric division of chamber cardiomyocytes. Postnatally, cardiomyocytes switch from hyperplasia to hypertrophy, binucleate (mouse) or endoreplicate (human), and exit the cell cycle.
-* **Adult Cardiomyocyte Renewal:** Limited, but ~50% of human cardiomyocytes are born postnatally (mostly in first years). Proliferation increases transiently after myocardial infarction.
+* **Adult Cardiomyocyte Renewal:** Limited, but ~ 50% of human cardiomyocytes are born postnatally (mostly in first years). Proliferation increases transiently after myocardial infarction.
 * **Conduction System:** SAN (pacemaker, Tbx3+, Nkx2.5‑), AV node, His bundle, Purkinje fibers. Derived from both heart fields; Purkinje fibers arise from trabeculae. Notch signaling and T‑box factors (Tbx2, Tbx3, Tbx5) critical.
 * **Coronary Vasculature:** Sources include sinus venosus (angiogenesis), endocardium (budding), and proepicardium (Scleraxis+ lineage). Coronary arteries connect to the aorta via the outflow tract. Sympathetic innervation guided by coronary veins and smooth muscle cells (artemin, NGF).
 

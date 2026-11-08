@@ -17,7 +17,7 @@
 
 ### Geriatric Syndromes and Their Impact on CVD Management
 * **Multimorbidity** (≥2 chronic conditions) affects over two-thirds of older adults. When CVD coexists with noncardiovascular conditions (e.g., arthritis, chronic kidney disease, COPD, dementia), the risk of geriatric syndromes and adverse outcomes multiplies. Noncardiovascular conditions account for nearly half of readmissions after HF or MI.
-* **Polypharmacy** (≥5 medications) is present in ~40% of community-dwelling older adults. CVD medications are responsible for 25% of preventable adverse drug events. The benefit of adding a new drug must be weighed against risks of drug–drug/drug–disease interactions, reduced adherence, and financial burden. Use of tools like Beers criteria or STOPP/START can reduce inappropriate prescribing.
+* **Polypharmacy** (≥5 medications) is present in ~ 40% of community-dwelling older adults. CVD medications are responsible for 25% of preventable adverse drug events. The benefit of adding a new drug must be weighed against risks of drug–drug/drug–disease interactions, reduced adherence, and financial burden. Use of tools like Beers criteria or STOPP/START can reduce inappropriate prescribing.
 * **Frailty**, characterized by reduced physiologic reserve, affects 21–51% of older adults with CVD (up to 70% in TAVR candidates). Frailty is associated with a 1.9-fold increased risk of HF and predicts poor outcomes after cardiac procedures. A brief mobility test (Timed Up-and-Go ≥12 sec or slow gait speed) can identify frailty; comprehensive geriatric assessment and exercise programs can prevent functional decline.
 * **Cognitive impairment** (dementia in 14% of ≥70-year-olds, mild cognitive impairment in 22%) is more prevalent in CVD patients (35% in CABG, 47% in hospitalized HF). Executive dysfunction impairs medication adherence and disease monitoring, and is a strong risk factor for delirium.
 * **Delirium** occurs in up to 35% of older medical inpatients and 46% after cardiac surgery. Nonpharmacologic preventive interventions are key; no effective pharmacotherapy exists.
@@ -46,7 +46,7 @@
 * **Nonpharmacologic:** Medication adherence is critical; cardiac rehabilitation is underused and should be offered (home-based options for those unable to attend).
 
 ### Heart Failure in the Elderly
-* **Epidemiology:** HF affects ~10% of ≥80‑year‑olds; lifetime risk at age 40 is ~20%, which remains true at age 80. HF is the most common and costly reason for hospitalization in Medicare.
+* **Epidemiology:** HF affects ~ 10% of ≥80‑year‑olds; lifetime risk at age 40 is ~ 20%, which remains true at age 80. HF is the most common and costly reason for hospitalization in Medicare.
 * **Pathophysiology:** Age‑related changes (vascular stiffness, diastolic dysfunction, reduced β‑adrenergic responsiveness) combine with longstanding hypertension, CAD, and valvular disease to erode cardiovascular reserve. Healthy 90‑year‑olds have exercise capacity equivalent to a younger person with NYHA class III HF.
 * **Prevention:** Blood pressure control is key. Breathing exercises and respiratory muscle training may help but lack trials.
 * **Clinical presentation:** Exertional symptoms may be less prominent in sedentary patients; atypical symptoms (anorexia, mental status changes) are common. Physical exam findings are often nonspecific. BNP/NT‑proBNP levels increase with age and comorbidities, reducing diagnostic accuracy.
@@ -65,17 +65,17 @@
   - *CRT*: Benefits similar in octogenarians; improves quality of life.
   - *ICDs*: Prolong life without improving QoL; benefits decline with age due to competing mortality. Shared decision‑making is crucial.
   - *VADs/transplantation*: VADs increasingly used in elderly; transplantation up to age 75 with similar outcomes.
-* **Prognosis and end‑of‑life:** 1‑year mortality ~25%, 5‑year survival 20–25%. Early discussions on goals of care, advance directives, and palliative care are recommended.
+* **Prognosis and end‑of‑life:** 1‑year mortality ~ 25%, 5‑year survival 20–25%. Early discussions on goals of care, advance directives, and palliative care are recommended.
 
 ### Valvular Heart Disease
-* **Aortic stenosis:** Prevalence increases from 0.2% (<60 years) to ~10% (≥80). TAVR has revolutionized treatment for high‑risk/inoperable patients; ~25% do not survive 1 year, and 20–30% do not gain meaningful QoL improvement. Careful patient selection is critical.
+* **Aortic stenosis:** Prevalence increases from 0.2% (<60 years) to ~ 10% (≥80). TAVR has revolutionized treatment for high‑risk/inoperable patients; ~ 25% do not survive 1 year, and 20–30% do not gain meaningful QoL improvement. Careful patient selection is critical.
 * **Mitral regurgitation:** Most mitral surgeries are in the elderly; outcomes favorable when surgery is done before ventricular dilation. Transcatheter mitral repair (MitraClip) offers an option for high‑risk patients.
 * **Other valve disorders:** Aortic insufficiency, mitral stenosis (due to calcification), tricuspid regurgitation, and infective endocarditis are more common in older adults. Management follows general principles but outcomes are worse due to comorbidities.
 
 ### Arrhythmias and Conduction System Disease
 * **Bradyarrhythmias:** Degeneration of sinus node and conduction system leads to sick sinus syndrome, AV block, and need for pacemakers (>75% of pacemakers placed in Medicare population). Reversible causes (medications, thyroid, electrolytes) must be ruled out.
 * **Supraventricular tachyarrhythmias:**
-  - *Atrial fibrillation*: Lifetime risk ~1 in 4; prevalence ~10% after age 80. Presentation may be atypical (fatigue, dyspnea, cognitive change). Rate vs rhythm control: no difference in major outcomes; rhythm control may improve QoL but increases hospitalizations. Anticoagulation: CHA₂DS₂‑VASc ≥2 mandates anticoagulation; new oral anticoagulants are preferred; fall risk is not a valid reason to withhold. Left atrial appendage occlusion devices offer alternatives for those at very high bleeding risk.
+  - *Atrial fibrillation*: Lifetime risk ~ 1 in 4; prevalence ~ 10% after age 80. Presentation may be atypical (fatigue, dyspnea, cognitive change). Rate vs rhythm control: no difference in major outcomes; rhythm control may improve QoL but increases hospitalizations. Anticoagulation: CHA₂DS₂‑VASc ≥2 mandates anticoagulation; new oral anticoagulants are preferred; fall risk is not a valid reason to withhold. Left atrial appendage occlusion devices offer alternatives for those at very high bleeding risk.
   - *Atrial flutter*: Catheter ablation is highly effective; consider in elderly.
 * **Ventricular arrhythmias:** Increase with age, often associated with underlying IHD, cardiomyopathy, or LVH. Management follows standard guidelines.
 
@@ -88,7 +88,7 @@ Elderly patients exhibit age‑related structural and functional changes that in
 
 ## INTRODUCTION</summary><div class="details-content">
 
-Most cardiovascular diseases (CVDs) increase in prevalence and severity with age, and most clinicians provide care for a substantial number of elderly patients with disorders of the heart and vascular system. According to the American Heart Association, nearly 70% of all US adults ≥60 years old and more than 85% of those ≥80 years old have known CVD ([Fig. 65–1](#fig-65-1)). Despite earlier treatment of risk factors and progressive improvements in therapies over the past several decades, heart disease remains the leading cause of death in the Medicare population. Furthermore, more than half of all cardiovascular procedures in the United States are performed in patients age 65 years and older, and the total cost for CVD in this population exceeded $115 billion in 2011. With the progressive aging of our population, these figures will continue to rise. For these reasons, an understanding of the effects of aging on the development of CVD and the utility of cardiovascular therapies in the context of other age-related medical concerns (eg, multimorbidity, polypharmacy, frailty) is critical for reducing risk and improving outcomes in older patients.
+Most cardiovascular diseases (CVDs) increase in prevalence and severity with age, and most clinicians provide care for a substantial number of elderly patients with disorders of the heart and vascular system. According to the American Heart Association, nearly 70% of all US adults ≥60 years old and more than 85% of those ≥80 years old have known CVD ([Fig. 65–1](#fig-65-1)). Despite earlier treatment of risk factors and progressive improvements in therapies over the past several decades, heart disease remains the leading cause of death in the Medicare population. Furthermore, more than half of all cardiovascular procedures in the United States are performed in patients age 65 years and older, and the total cost for CVD in this population exceeded 115 billion USD in 2011. With the progressive aging of our population, these figures will continue to rise. For these reasons, an understanding of the effects of aging on the development of CVD and the utility of cardiovascular therapies in the context of other age-related medical concerns (eg, multimorbidity, polypharmacy, frailty) is critical for reducing risk and improving outcomes in older patients.
 
 <span id="fig-65-1"></span>![](ch10-09_page_1_Figure_2.jpeg)
 
@@ -155,7 +155,7 @@ Autonomic nervous system
 - Decreased heart rate variability
 
 Kidneys
-- Gradual decline in glomerular filtration rate, ~8 mL/min/decade
+- Gradual decline in glomerular filtration rate, ~ 8 mL/min/decade
 - Impaired fluid and electrolyte homeostasis
 
 Lungs

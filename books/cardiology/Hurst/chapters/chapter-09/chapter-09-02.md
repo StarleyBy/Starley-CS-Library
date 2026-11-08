@@ -23,7 +23,7 @@ Specialized ACHD centers have developed in North America and Europe, but there r
 * **Infective Endocarditis:** High-risk groups: prosthetic valves, cyanosis, conduits, previous endocarditis. Prophylaxis for dental procedures with bleeding. Patient education essential (tattoos/piercings pose risk).
 * **Electrophysiologic Problems:** Atrial arrhythmias common (15% adults, >50% with complex CHD). Fontan patients poorly tolerate tachyarrhythmias. SND common after atrial surgery (Mustard/Senning, ASD closure). Ventricular tachycardia after TOF repair; QRS ≥180 ms marker of risk. ICD placement for high-risk patients.
 * **Pregnancy:** Maternal mortality: Eisenmenger syndrome up to 50%; cyanotic CHD (O₂ sat <85%) — only 12% live births. Warfarin teratogenic (first trimester; dose-dependent); heparin alternatives. Vaginal delivery preferred; multidisciplinary management essential.
-* **Genetics:** CHD multifactorial; recurrence risk ~3–6% in offspring. Single-gene defects (AV septal defect) vs polygenic (TOF).
+* **Genetics:** CHD multifactorial; recurrence risk ~ 3–6% in offspring. Single-gene defects (AV septal defect) vs polygenic (TOF).
 * **Imaging:** TTE first-line; TEE for posterior structures; MRI for RV volumes and function; CT for vascular anatomy, coronary evaluation.
 * **Stress Testing:** Reduced exercise capacity in ACHD; worse in Eisenmenger. CPET prognostic; VE/VCO₂ slope predicts death.
 
@@ -664,7 +664,7 @@ Congenitally corrected TGA is characterized by AV and ventriculoarterial discord
 
 #### Natural History</summary><div class="details-content">
 
-In the minority of patients without associated defects, unoperated survival into adulthood is common, and survival into the eighth and ninth decades of life has been reported. Most patients remain undiagnosed until early adulthood. However, these patients have an increased incidence of AV conduction problems and complete heart block with age. Complete heart block may be present from birth (in ~10%) and has been reported to develop in 2% of patients per year. Systemic morphologic RV dysfunction and congestive heart failure occur in more than 50% of patients with associated lesions by the time they are 45 years of age. Ebstein anomaly of the systemic AV valve is common, and regurgitation occurs in over 80% of adults with congenitally corrected TGA. Pulmonary morphologic LV dysfunction occurs less often but may be present in up to 20% of patients. Aortic regurgitation of some degree is present in 25% of adults but seldom requires surgical intervention.
+In the minority of patients without associated defects, unoperated survival into adulthood is common, and survival into the eighth and ninth decades of life has been reported. Most patients remain undiagnosed until early adulthood. However, these patients have an increased incidence of AV conduction problems and complete heart block with age. Complete heart block may be present from birth (in ~ 10%) and has been reported to develop in 2% of patients per year. Systemic morphologic RV dysfunction and congestive heart failure occur in more than 50% of patients with associated lesions by the time they are 45 years of age. Ebstein anomaly of the systemic AV valve is common, and regurgitation occurs in over 80% of adults with congenitally corrected TGA. Pulmonary morphologic LV dysfunction occurs less often but may be present in up to 20% of patients. Aortic regurgitation of some degree is present in 25% of adults but seldom requires surgical intervention.
 
 </div></details>
 

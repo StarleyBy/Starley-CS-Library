@@ -7,13 +7,13 @@
 ## Executive Summary</summary><div class="details-content">
 
 ### Epidemiology and Global Burden
-* **Global Prevalence:** Approximately 1 billion smokers worldwide; ~800 million are male. Prevalence varies widely: Eastern Europe 49%, China 45%, Japan 36%, Western Europe 28%, India 23%, US/Australia/Canada ~18%.
-* **US Trends:** Smoking prevalence declined from ~45% in 1965 to ~18% in 2012, but has plateaued recently. Higher rates among 20–49 years (23.1%) vs >50 years (16.3%). Hispanic men (16%) vs women (8.3%). High school students: 15.7% (2013) vs 36.4% (1997).
-* **Mortality:** 5–6 million deaths/year worldwide; 0.5 million in US. Loss of ~10 years of life expectancy from lifelong smoking; quitting at 30, 40, or 50 years restores 10, 9, and 6 years, respectively.
+* **Global Prevalence:** Approximately 1 billion smokers worldwide; ~ 800 million are male. Prevalence varies widely: Eastern Europe 49%, China 45%, Japan 36%, Western Europe 28%, India 23%, US/Australia/Canada ~ 18%.
+* **US Trends:** Smoking prevalence declined from ~ 45% in 1965 to ~ 18% in 2012, but has plateaued recently. Higher rates among 20–49 years (23.1%) vs >50 years (16.3%). Hispanic men (16%) vs women (8.3%). High school students: 15.7% (2013) vs 36.4% (1997).
+* **Mortality:** 5–6 million deaths/year worldwide; 0.5 million in US. Loss of ~ 10 years of life expectancy from lifelong smoking; quitting at 30, 40, or 50 years restores 10, 9, and 6 years, respectively.
 * **Global Burden of Disease:** Smoking is the second leading contributor to DALYs globally (6.3%). In China, 16.5% of noncommunicable disease deaths attributable to smoking; 840,000 male deaths vs 130,000 female deaths in 2010.
 
 ### Cardiovascular Disease Risk
-* **Relative Risk:** Smoking increases risk of peripheral arterial disease and abdominal aortic aneurysm ~5-fold; ischemic heart disease and stroke ~1.5–2-fold.
+* **Relative Risk:** Smoking increases risk of peripheral arterial disease and abdominal aortic aneurysm ~ 5-fold; ischemic heart disease and stroke ~ 1.5–2-fold.
 * **Relationship with Other Risk Factors:** Smoking causes incremental and independent risk with hypertension and diabetes. Genetic studies identify loci in substantia nigra associated with smoking behavior.
 
 ### Pathogenesis
@@ -38,12 +38,12 @@
 * **Safety Concerns:** Long-term safety studies lacking. Use among high school students tripled (4.5% in 2013 to 13.4% in 2014); potential "gateway" to regular cigarettes; circumvent smoking regulations.
 
 ### Opportunities for Practitioners
-* **Current Rates:** Smoking cessation after PCI ~50% (Olmsted County, 1999–2009); ~60% in SYNTAX trial; <1 in 3 ACS patients remain abstinent post-discharge.
-* **Interventions:** Varenicline associated with 47.3% abstinence vs 32.5% placebo in ACS patients at 6 months. Community-based trials show ~25% cessation with varenicline/nicotine patch at 1 year. Smoking cessation counseling should be offered at every clinical encounter.
+* **Current Rates:** Smoking cessation after PCI ~ 50% (Olmsted County, 1999–2009); ~ 60% in SYNTAX trial; <1 in 3 ACS patients remain abstinent post-discharge.
+* **Interventions:** Varenicline associated with 47.3% abstinence vs 32.5% placebo in ACS patients at 6 months. Community-based trials show ~ 25% cessation with varenicline/nicotine patch at 1 year. Smoking cessation counseling should be offered at every clinical encounter.
 * **Incentives:** Individual-level financial incentives improve cessation success.
 
 ### Policy and Smoking Rates
-* **Taxation:** 50% increase in inflation-adjusted price → ~20% decrease in consumption; more effective in young adults and lower-income groups.
+* **Taxation:** 50% increase in inflation-adjusted price → ~ 20% decrease in consumption; more effective in young adults and lower-income groups.
 * **WHO FCTC:** Framework Convention on Tobacco Control (2004) has progressed in many countries; goal of tobacco-free world by 2040 (<5% prevalence) requires accelerated efforts.
 * **Challenges:** China (40% of global cigarette consumption) has state-owned tobacco monopoly; rapid growth in developing countries; organized smuggling; tobacco industry lobbying (USD50+ billion profits in 2012).
 * **Future Directions:** Comprehensive advertising bans, strengthened regulatory bodies, low-cost scalable interventions (community health workers, mobile health), focus on high-growth markets (Europe, Middle East, Africa).
@@ -118,7 +118,7 @@ About 5 to 6 million yearly deaths worldwide and about 0.5 million in the United
 
 In 1990, smoking was the third-ranked risk factor after childhood malnutrition and indoor pollution from biofuels for loss of disability-adjusted life years (ie, sum of years of life lost and years lived with disability [DALY]). With improvement in nutrition and clean fuel availability, in 2010, it has become the second most common contributor to loss of DALYs 6.3% (95% confidence interval, 6.2–7.7). Smoking is the highest contributor to loss of DALYs in males worldwide and both males and females in many developing countries.
 
-A loss of about a decade of life expectancy is estimated because of smoking throughout adulthood among both men and women in various countries, including the United Kingdom, the United States, Japan, and India ([Fig. 30-6](#fig-30-6)). Importantly, people who have smoked cigarettes since early adulthood but stopped at 30, 40, or 50 years of age gain back 10, 9, and 6 years of life expectancy, respectively. The US societal costs of cigarette smoking per year are around $289 billion; this includes about $151 billion in lost productivity caused by premature deaths and remaining as direct health care costs.
+A loss of about a decade of life expectancy is estimated because of smoking throughout adulthood among both men and women in various countries, including the United Kingdom, the United States, Japan, and India ([Fig. 30-6](#fig-30-6)). Importantly, people who have smoked cigarettes since early adulthood but stopped at 30, 40, or 50 years of age gain back 10, 9, and 6 years of life expectancy, respectively. The US societal costs of cigarette smoking per year are around \$289 billion; this includes about \$151 billion in lost productivity caused by premature deaths and remaining as direct health care costs.
 
 <span id="fig-30-6"></span>![](ch06-01_page_4_Figure_2.jpeg)
 

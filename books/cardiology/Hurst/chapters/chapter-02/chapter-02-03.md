@@ -10,7 +10,7 @@
 * **β<sub>1</sub>‑AR** (60‑80% of cardiac β‑ARs) couples to G<sub>s</sub> → ↑ adenylyl cyclase → ↑ cAMP → ↑ PKA → phosphorylation of phospholamban, L‑type Ca<sup>2+</sup> channel, RyR2, troponin I, MyBP‑C → increased contractility and relaxation. Chronic stimulation causes hypertrophy, apoptosis, and heart failure (β<sub>1</sub>‑AR transgenic mice).
 * **β<sub>2</sub>‑AR** couples sequentially to G<sub>s</sub> and G<sub>i</sub>; also activates MAPK and PI3‑K pathways. Provides antiapoptotic effects via Akt. Overexpression up to 50‑fold is well tolerated; >350‑fold induces pathology.
 * **β<sub>3</sub>‑AR** – potential cardioprotective role in heart failure.
-* **Heart failure desensitization:** ↓ β<sub>1</sub>‑AR density (~50%), ↑ G<sub>i</sub>, ↑ GRK2 activity (βARK1). β‑blockers (carvedilol, metoprolol, bisoprolol) reduce mortality by 35‑60%, reverse remodeling, increase systolic function. Carvedilol superior to metoprolol in COMET trial (17% relative mortality reduction).
+* **Heart failure desensitization:** ↓ β<sub>1</sub>‑AR density (~ 50%), ↑ G<sub>i</sub>, ↑ GRK2 activity (βARK1). β‑blockers (carvedilol, metoprolol, bisoprolol) reduce mortality by 35‑60%, reverse remodeling, increase systolic function. Carvedilol superior to metoprolol in COMET trial (17% relative mortality reduction).
 * **Polymorphisms:** β<sub>1</sub>‑AR Arg389Gly (↓ adenylyl cyclase activity), β<sub>2</sub>‑AR Thr164Ile (↓ binding affinity), α<sub>2c</sub>‑AR 322‑325 deletion (↑ norepinephrine release, ↑ heart failure risk).
 
 ### Excitation–Contraction Coupling

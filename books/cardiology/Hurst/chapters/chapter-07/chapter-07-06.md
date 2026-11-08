@@ -11,8 +11,8 @@
 * **No‑reflow:** Microvascular obstruction after reperfusion, seen as areas not perfused; predicts adverse events.
 
 ### Evolution and Determinants of Infarct Size
-* **Wavefront phenomenon:** Necrosis starts subendocardially and progresses transmurally with time; after 40 min occlusion ~28% of area at risk, after 3 h ~62%, permanent occlusion ~75%.
-* **Collaterals:** Well‑developed collaterals protect against infarction; seen in ~40% of patients.
+* **Wavefront phenomenon:** Necrosis starts subendocardially and progresses transmurally with time; after 40 min occlusion ~ 28% of area at risk, after 3 h ~ 62%, permanent occlusion ~ 75%.
+* **Collaterals:** Well‑developed collaterals protect against infarction; seen in ~ 40% of patients.
 * **Remodeling:** Infarct expansion and ventricular dilatation occur post‑MI, influenced by infarct size, transmurality, and reperfusion. Immune response and MMPs play key roles.
 
 ### Plaque Morphology and Thrombus
@@ -35,7 +35,7 @@
 * **Right ventricular/atrial infarction:** Common in inferior MI; presents with hypotension, clear lungs, raised JVP.
 * **Pericarditis/effusion:** Transmural MI; Dressler syndrome now rare.
 * **Aneurysms:** True (broad neck, fibrous wall) vs false (narrow neck, pericardial wall); true more common anteroapical.
-* **Mural thrombus:** 20% overall, 40% anterior; embolization in ~10%; anticoagulation for up to 6 months.
+* **Mural thrombus:** 20% overall, 40% anterior; embolization in ~ 10%; anticoagulation for up to 6 months.
 
 ### Sudden Coronary Death
 * **Thrombosis frequency:** 20–70%; plaque rupture (65%), erosion (30–35%), calcified nodule (2–5%).
@@ -63,7 +63,7 @@ Sudden occlusion of a major branch of a coronary artery shifts aerobic or mitoch
 
 <span id="fig-37-2"></span>![](ch07-06_page_1_Figure_7.jpeg)
 
-**FIGURE 37‑2** Cardiac energy metabolism during ischemia of moderate severity (~40% of normal blood flow). The *up* and *down arrows* indicate the changes compared with normal conditions. Relative to aerobic conditions, ischemia results in an increase in glycolysis without an increase in the rate of pyruvate oxidation, thus causing lactate to accumulate in the cell. Despite accelerated glycolysis and lactate production, the relatively high rate of residual oxygen consumption is fueled primarily by the oxidation of fatty acids. ADP, adenosine diphosphate; ATP, adenosine triphosphate; Pi, inorganic phosphate. 
+**FIGURE 37‑2** Cardiac energy metabolism during ischemia of moderate severity (~ 40% of normal blood flow). The *up* and *down arrows* indicate the changes compared with normal conditions. Relative to aerobic conditions, ischemia results in an increase in glycolysis without an increase in the rate of pyruvate oxidation, thus causing lactate to accumulate in the cell. Despite accelerated glycolysis and lactate production, the relatively high rate of residual oxygen consumption is fueled primarily by the oxidation of fatty acids. ADP, adenosine diphosphate; ATP, adenosine triphosphate; Pi, inorganic phosphate. 
 
 Electron microscopic alterations result from reversible and irreversible myocardial ischemic injury and are similar across animal species, with some variation in time course. Reversibly injured myocytes are edematous and swollen from the osmotic overload. The cell size is increased with a decrease in the glycogen content. The myocyte fibrils are relaxed and thinned; I‑bands are prominent secondary to noncontracting ischemic myocytes. The nuclei show mild condensation of chromatin at the nucleoplasm. The cell membrane (sarcolemma) is intact, and no breaks can be identified. The mitochondria are swollen, with loss of normal dense mitochondrial granules and incomplete clearing of the mitochondrial matrix but without amorphous or granular flocculent densities ([Fig. 37‑3](#fig-37-3)). Irreversibly injured myocytes contain shrunken nuclei with marked chromatin margination. The two hallmarks of irreversible injury are cell membrane breaks and mitochondrial presence of small osmiophilic amorphous densities. The densities are composed of lipid, denatured proteins, and calcium. The cell membrane breaks are small and are associated with subsarcolemmal blebs of edema fluid (see [Fig. 37‑3B](#fig-37-3)).
 

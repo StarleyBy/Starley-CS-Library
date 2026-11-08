@@ -1668,9 +1668,9 @@
         "D": "Prednisone, Cellcept (Mycophenolate Mofetil), Cyclosporine"
       },
       "optionsRu": {
-        "A": "Преднизон, Циклоспорин, Такролимус (FK-506)",
-        "B": "Преднизон, Имуран (Азатиоприн), Такролимус (FK-506)",
-        "C": "Преднизон, Селлсепт (Микофенолата мофетил), Такролимус (FK-506)",
+        "A": "Преднизон, Циклоспорин, Такролимус",
+        "B": "Преднизон, Имуран (Азатиоприн), Такролимус",
+        "C": "Преднизон, Селлсепт (Микофенолата мофетил), Такролимус",
         "D": "Преднизон, Селлсепт (Микофенолата мофетил), Циклоспорин"
       },
       "correctAnswer": "A",
@@ -1700,7 +1700,7 @@
         "D": "N-terminal probrain natriuretic peptide"
       },
       "optionsRu": {
-        "A": "Максимальное потребление кислорода (VO2 max)",
+        "A": "Максимальное потребление кислорода",
         "B": "Давление заклинивания легочных капилляров",
         "C": "Концентрация норадреналина в плазме",
         "D": "N-концевой пропептид мозгового натрийуретического пептида (NT-proBNP)"
@@ -1864,7 +1864,7 @@
         "A": "Большинство случаев опосредованы антителами против трансплантированного сердца.",
         "B": "Наиболее сильным фактором риска является донорство от молодой женщины (независимо от пола реципиента).",
         "C": "Повреждение, наносимое трансплантированному сердцу, обычно необратимо.",
-        "D": "Вызвано несовместимостью по группе крови (ABO), поэтому сегодня таких случаев почти не бывает."
+        "D": "Вызвано несовместимостью по группе крови, поэтому сегодня таких случаев почти не бывает."
       },
       "correctAnswer": "B",
       "explanationEn": "🔵 <b>Rationale:</b> Acute cellular rejection is the most common type, mediated by T-cells, not antibodies.\n\n🟢 <b>Key facts about acute rejection:</b>\n- <mark style=\"background:#ffff00;color:#000\">Most cases are <b>cellular</b> (T-cell mediated), not antibody-mediated</mark>\n- <mark style=\"background:#ffff00;color:#000\"><b>Strongest risk factor: young female donor</b></mark> (regardless of recipient sex)\n- <span style=\"color:#3498db\">Approximately <b>85% of episodes can be managed</b> with corticosteroids alone</span>\n- <span style=\"color:#e74c3c\">Damage is <b>reversible</b> with treatment, not irreversible</span>\n- <span style=\"color:#e74c3c\">ABO incompatibility causes <b>hyperacute</b> rejection, which is <b>rare</b> due to screening, but not the cause of acute rejection</span>\n\n🔴 <b>Why other options are incorrect:</b>\n- <span style=\"color:#e74c3c\">Option A</span> — most are cellular, not antibody-mediated\n- <span style=\"color:#e74c3c\">Option C</span> — damage is usually reversible\n- <span style=\"color:#e74c3c\">Option D</span> — ABO incompatibility causes hyperacute rejection, not acute rejection\n\n📚 <b>Key Point:</b> <mark style=\"background:#2ecc71;color:#fff\"><b>Young female donor</b> is the strongest risk factor for acute rejection, and most episodes are <b>cellular</b> and <b>reversible</b>.</mark>",
@@ -2299,7 +2299,7 @@
         "A": "Систолический шум.",
         "B": "Фиксированное расщепление второго тона сердца.",
         "C": "Шум трения перикарда.",
-        "D": "Четвертый тон сердца (S4)."
+        "D": "Четвертый тон сердца."
       },
       "correctAnswer": "D",
       "explanationEn": "🔵 <b>Rationale:</b> The patient presents with classic symptoms of an acute coronary syndrome (ACS): chest pain radiating to the jaw, shortness of breath, and significant cardiovascular risk factors (diabetes, hypertension, smoking).\n\n🟢 <b>Fourth heart sound (S4):</b>\n- <span style=\"color:#3498db\">Caused by <b>abnormal ventricular relaxation</b> (reduced compliance)</span>\n- <span style=\"color:#3498db\">Associated with <b>left ventricular hypertrophy</b> (from hypertension) and <b>ongoing myocardial ischemia</b></span>\n- <span style=\"color:#3498db\"><b>Most common</b> physical finding in acute MI</span>\n- <mark style=\"background:#2ecc71;color:#fff\">Audible S4 is expected in this patient</mark>\n\n🔴 <b>Other options:</b>\n- <span style=\"color:#e74c3c\">Systolic murmur</span> — associated with valvular disease, not acute ischemia\n- <span style=\"color:#e74c3c\">Fixed splitting of S2</span> — classic for atrial septal defect\n- <span style=\"color:#e74c3c\">Pericardial friction rub</span> — associated with pericarditis, not acute MI\n\n📚 <b>Key Point:</b> <mark style=\"background:#2ecc71;color:#fff\">An <b>S4</b> is the most common physical finding in acute MI due to reduced ventricular compliance from ischemia and hypertrophy.</mark>",
@@ -3330,7 +3330,7 @@
         "D": "Double-inlet left ventricle"
       },
       "optionsRu": {
-        "A": "Полный аномальный дренаж легочных вен (TAPVC)",
+        "A": "Полный аномальный дренаж легочных вен",
         "B": "Несбалансированный атриовентрикулярный септальный дефект (AVSD)",
         "C": "Трикуспидальная атрезия",
         "D": "Двухвходной левый желудочек"
@@ -3352,37 +3352,37 @@
       ]
     },
     {
-  "id": 104,
-  "questionEn": "<span style=\"color:#9b59b6\">All of the following may prevent successful cavopulmonary connection (Fontan pathway), <b>except</b>:</span>",
-  "questionRu": "<span style=\"color:#9b59b6\">Все следующее может препятствовать успешному кавопульмональному соединению (путь Фонтана), <b>кроме</b>:</span>",
-  "optionsEn": {
-    "A": "Coarctation of the aorta",
-    "B": "Pulmonary vascular resistance of 4 Wood units",
-    "C": "A functional ventricle with right ventricular morphology",
-    "D": "End-diastolic pressure of 10 mmHg in the functional ventricle"
-  },
-  "optionsRu": {
-    "A": "Коарктация аорты",
-    "B": "Легочное сосудистое сопротивление 4 единицы Вуда",
-    "C": "Функциональный желудочек с морфологией правого желудочка",
-    "D": "Конечно-диастолическое давление 10 мм рт.ст. в функциональном желудочке"
-  },
-  "correctAnswer": "D",
-  "explanationEn": "🔵 <b>Rationale:</b> The Fontan pathway depends entirely on passive, non-pulsatile blood flow through the pulmonary vascular bed, requiring minimal resistance and low downstream filling pressures (classic Choussat criteria).\n\n🟢 <b>Barriers to Fontan:</b>\n- <span style=\"color:#e74c3c\">Coarctation of the aorta</span> — systemic outflow tract obstruction causes progressive ventricular hypertrophy, worsening diastolic compliance, and elevated filling pressures\n- <span style=\"color:#e74c3c\">PVR of 4 Wood units (or Wood units·m²)</span> — significantly elevated (ideal threshold is <2, absolute contraindication typically >3-4 Wood units), leading to Fontan circulation failure\n- <span style=\"color:#e74c3c\">RV morphology</span> — systemic right ventricle carries a well-documented long-term risk of dysfunction, atrioventricular valve regurgitation, and failure compared to morphologic left ventricle\n\n🔴 <b>Not a barrier:</b>\n- <mark style=\"background:#2ecc71;color:#fff\"><b>EDP of 10 mmHg</b></mark> — considered <b>acceptable</b> for Fontan completion; the standard cutoff for concern/relative contraindication is >10–12 mmHg\n\n📚 <b>Key Point:</b> <mark style=\"background:#2ecc71;color:#fff\"><b>Ventricular EDP of 10 mmHg</b> is <b>acceptable</b>; elevated PVR, systemic outflow obstruction, and RV morphology represent significant barriers or risk factors for Fontan failure.</mark>",
-  "explanationRu": "🔵 <b>Обоснование:</b> Кровообращение по пути Фонтана полностью зависит от пассивного, бесимпульсного легочного кровотока, что требует минимального сосудистого сопротивления и низкого давления наполнения в нижележащих отделах (классические критерии Choussat).\n\n🟢 <b>Препятствия к операции Фонтена:</b>\n- <span style=\"color:#e74c3c\">Коарктация аорты</span> — обструкция системного пути оттока ведет к прогрессирующей гипертрофии желудочка, снижению диастолической податливости и росту давления наполнения\n- <span style=\"color:#e74c3c\">ЛСС 4 единицы Вуда (или ед. Вуда·м²)</span> — значительно повышено (целевой порог <2, абсолютное противопоказание обычно >3–4 ед. Вуда), что приводит к несостоятельности циркуляции Фонтена\n- <span style=\"color:#e74c3c\">Морфология правого желудочка</span> — системный правый желудочек является доказанным фактором долгосрочного риска дисфункции, недостаточности АВ-клапана и сердечной недостаточности по сравнению с левым желудочком\n\n🔴 <b>Не является препятствием:</b>\n- <mark style=\"background:#2ecc71;color:#fff\"><b>КДД 10 мм рт.ст.</b></mark> — считается <b>приемлемым</b> показателем для наложения анастомоза Фонтена; критический порог тревоги/относительного противопоказания составляет >10–12 мм рт.ст.\n\n📚 <b>Ключевой вывод:</b> <mark style=\"background:#2ecc71;color:#fff\"><b>КДД желудочка 10 мм рт.ст.</b> является <b>приемлемым</b>; повышенное ЛСС, обструкция путей оттока и морфология ПЖ служат существенными препятствиями или факторами риска несостоятельности пути Фонтана.</mark>",
-  "disciplines": [
-    "congenital"
-  ],
-  "topics": [
-    "single_ventricle",
-    "chd_physiology"
-  ],
-  "tags": [
-    "choussat_criteria_for_fontan",
-    "pulmonary_vascular_resistance",
-    "coarctation_of_the_aorta"
-  ]
-},
+      "id": 104,
+      "questionEn": "<span style=\"color:#9b59b6\">All of the following may prevent successful cavopulmonary connection (Fontan pathway), <b>except</b>:</span>",
+      "questionRu": "<span style=\"color:#9b59b6\">Все следующее может препятствовать успешному кавопульмональному соединению (путь Фонтана), <b>кроме</b>:</span>",
+      "optionsEn": {
+        "A": "Coarctation of the aorta",
+        "B": "Pulmonary vascular resistance of 4 Wood units",
+        "C": "A functional ventricle with right ventricular morphology",
+        "D": "End-diastolic pressure of 10 mmHg in the functional ventricle"
+      },
+      "optionsRu": {
+        "A": "Коарктация аорты",
+        "B": "Легочное сосудистое сопротивление 4 единицы Вуда",
+        "C": "Функциональный желудочек с морфологией правого желудочка",
+        "D": "Конечно-диастолическое давление 10 мм рт.ст. в функциональном желудочке"
+      },
+      "correctAnswer": "D",
+      "explanationEn": "🔵 <b>Rationale:</b> The Fontan pathway depends entirely on passive, non-pulsatile blood flow through the pulmonary vascular bed, requiring minimal resistance and low downstream filling pressures (classic Choussat criteria).\n\n🟢 <b>Barriers to Fontan:</b>\n- <span style=\"color:#e74c3c\">Coarctation of the aorta</span> — systemic outflow tract obstruction causes progressive ventricular hypertrophy, worsening diastolic compliance, and elevated filling pressures\n- <span style=\"color:#e74c3c\">PVR of 4 Wood units (or Wood units·m²)</span> — significantly elevated (ideal threshold is <2, absolute contraindication typically >3-4 Wood units), leading to Fontan circulation failure\n- <span style=\"color:#e74c3c\">RV morphology</span> — systemic right ventricle carries a well-documented long-term risk of dysfunction, atrioventricular valve regurgitation, and failure compared to morphologic left ventricle\n\n🔴 <b>Not a barrier:</b>\n- <mark style=\"background:#2ecc71;color:#fff\"><b>EDP of 10 mmHg</b></mark> — considered <b>acceptable</b> for Fontan completion; the standard cutoff for concern/relative contraindication is >10–12 mmHg\n\n📚 <b>Key Point:</b> <mark style=\"background:#2ecc71;color:#fff\"><b>Ventricular EDP of 10 mmHg</b> is <b>acceptable</b>; elevated PVR, systemic outflow obstruction, and RV morphology represent significant barriers or risk factors for Fontan failure.</mark>",
+      "explanationRu": "🔵 <b>Обоснование:</b> Кровообращение по пути Фонтана полностью зависит от пассивного, бесимпульсного легочного кровотока, что требует минимального сосудистого сопротивления и низкого давления наполнения в нижележащих отделах (классические критерии Choussat).\n\n🟢 <b>Препятствия к операции Фонтена:</b>\n- <span style=\"color:#e74c3c\">Коарктация аорты</span> — обструкция системного пути оттока ведет к прогрессирующей гипертрофии желудочка, снижению диастолической податливости и росту давления наполнения\n- <span style=\"color:#e74c3c\">ЛСС 4 единицы Вуда (или ед. Вуда·м²)</span> — значительно повышено (целевой порог <2, абсолютное противопоказание обычно >3–4 ед. Вуда), что приводит к несостоятельности циркуляции Фонтена\n- <span style=\"color:#e74c3c\">Морфология правого желудочка</span> — системный правый желудочек является доказанным фактором долгосрочного риска дисфункции, недостаточности АВ-клапана и сердечной недостаточности по сравнению с левым желудочком\n\n🔴 <b>Не является препятствием:</b>\n- <mark style=\"background:#2ecc71;color:#fff\"><b>КДД 10 мм рт.ст.</b></mark> — считается <b>приемлемым</b> показателем для наложения анастомоза Фонтена; критический порог тревоги/относительного противопоказания составляет >10–12 мм рт.ст.\n\n📚 <b>Ключевой вывод:</b> <mark style=\"background:#2ecc71;color:#fff\"><b>КДД желудочка 10 мм рт.ст.</b> является <b>приемлемым</b>; повышенное ЛСС, обструкция путей оттока и морфология ПЖ служат существенными препятствиями или факторами риска несостоятельности пути Фонтана.</mark>",
+      "disciplines": [
+        "congenital"
+      ],
+      "topics": [
+        "single_ventricle",
+        "chd_physiology"
+      ],
+      "tags": [
+        "choussat_criteria_for_fontan",
+        "pulmonary_vascular_resistance",
+        "coarctation_of_the_aorta"
+      ]
+    },
     {
       "id": 105,
       "questionEn": "A 62-year-old man underwent CABG two weeks ago. He is readmitted with pneumonia. Echocardiography demonstrates worsening left ventricular function, and he is treated with antibiotics and inotropic support. His mental status deteriorates and he becomes stuporous. Vital signs: heart rate: 95 bpm, blood pressure: 100/60 mmHg, oxygen saturation: 94% on 5 L oxygen, CVP: 15 mmHg, Cardiac Index: 2.2 L/min/m². Laboratory values: Na: <span style=\"color:#e74c3c\">119</span> mmol/L, K: 4 mmol/L, creatinine: 1.1 mg/dL, urine Na: 9 mmol/L, urine Osm: 250 mOsm/kg, serum Osm: 270 mOsm/kg. <span style=\"color:#9b59b6\">What is the <b>most appropriate</b> treatment?</span>",
@@ -3459,7 +3459,7 @@
       "optionsRu": {
         "A": "Основной вклад в изгнание правого желудочка вносит межжелудочковая перегородка.",
         "B": "Стенка правого желудочка тоньше, чем у левого желудочка, а его масса составляет четверть массы левого желудочка.",
-        "C": "Конечно-диастолический объем (EDV) правого желудочка меньше, чем у левого желудочка.",
+        "C": "Конечно-диастолический объем правого желудочка меньше, чем у левого желудочка.",
         "D": "Фракция выброса правого желудочка меньше, чем у левого желудочка."
       },
       "correctAnswer": "B",
@@ -4939,10 +4939,10 @@
         "D": "LIMA to LAD (in situ); Radial artery sequential to OM and PDA."
       },
       "optionsRu": {
-        "A": "ВМА к ПМЖВ (in situ); Лучевая артерия к ВТК; ПМА к ПКА (in situ)",
-        "B": "ПМА к ПМЖВ (in situ); ВМА к ВТК (in situ); Лучевая артерия к ПКА",
-        "C": "ВМА к ПМЖВ (in situ); Лучевая артерия Y-образным шунтом от ВМА к ВТК; ПМА",
-        "D": "ВМА к ПМЖВ (in situ); Лучевая артерия последовательно к ВТК и ЗМЖВ."
+        "A": "ВМА к ПМЖВ; Лучевая артерия к ВТК; ПМА к ПКА",
+        "B": "ПМА к ПМЖВ; ВМА к ВТК; Лучевая артерия к ПКА",
+        "C": "ВМА к ПМЖВ; Лучевая артерия Y-образным шунтом от ВМА к ВТК; ПМА",
+        "D": "ВМА к ПМЖВ; Лучевая артерия последовательно к ВТК и ЗМЖВ."
       },
       "correctAnswer": "B",
       "explanationEn": "🎯 <b>Correct answer: Option B</b><br><br>🔵 <b>Why it is correct:</b><br>For a <b>47-year-old patient</b>, achieving the most durable revascularization is paramount. According to <b>Cardiac Surgery in the Adult (Chapter 28)</b> and <b>Kirklin/Barratt-Boyes Cardiac Surgery (5th Ed)</b>, the use of 💠<b>Bilateral Internal Mammary Arteries (BIMA)</b>💠 is the gold standard for young patients to improve long-term survival and reduce the need for repeat interventions. <br><br>1️⃣ <b>The Crossover Configuration:</b> Option B utilizes the 💠<b>RIMA-to-LAD</b>💠 and 💠<b>LIMA-to-OM</b>💠 configuration. In this 'crossover' technique, the RIMA is brought across the midline to the LAD (the most critical vessel), while the LIMA is used for the lateral wall (OM). This setup effectively uses both durable internal mammary arteries in their *in situ* (pedicled) form.<br>2️⃣ <b>Radial Artery to RCA:</b> The RCA is 💠<b>100% occluded</b>💠. As emphasized in the <b>2018 ESC/EACTS Guidelines</b>, arterial grafts like the 💠<b>Radial Artery (RA)</b>💠 are most successful when there is ❌<b>no competitive flow</b>❌ from the native circulation. A 100% occlusion provides the perfect hemodynamic environment for high long-term RA patency.<br><br>❌ <b>Why other options are less optimal:</b><br>🔸 <b>Option D:</b> While a sequential RA graft is efficient, this option only uses ❌<b>one</b>❌ mammary artery (LIMA). For a 47-year-old, the omission of the RIMA is considered suboptimal revascularization.<br>🔸 <b>Option A:</b> Using the 💠<b>RIMA in situ to the RCA</b>💠 is often technically challenging because the RIMA may not have sufficient length to reach the distal RCA/PDA without tension or risk of injury during a potential future re-sternotomy.<br>🔸 <b>Option C:</b> This configuration is incomplete and does not address the revascularization of the right coronary system.<br><br>📚 <b>Board Pearl:</b><br>In 'Total Arterial' questions for young patients, always prioritize the use of 💠<b>BIMA (LIMA + RIMA)</b>💠. The RIMA-to-LAD/LIMA-to-OM crossover is a classic board-approved strategy.",
@@ -5235,7 +5235,7 @@
       },
       "optionsRu": {
         "A": "Введение жидкостей и внутривенных диуретиков.",
-        "B": "Установка катетера Сван-Ганца (SGC) и терапия под его контролем.",
+        "B": "Установка катетера Сван-Ганца и терапия под его контролем.",
         "C": "Начало диализа.",
         "D": "Обследование на предмет органического заболевания почек."
       },
@@ -5629,7 +5629,7 @@
         "D": "Replace the arterial cannula with an ascending aortic cannula."
       },
       "optionsRu": {
-        "A": "Добавить канюлю в верхнюю полую вену (SVC) для дренажа.",
+        "A": "Добавить канюлю в верхнюю полую вену для дренажа.",
         "B": "Втянуть венозную канюлю обратно в правое предсердие (RA).",
         "C": "Заменить венозную канюлю на более крупную.",
         "D": "Заменить артериальную канюлю на канюлю для восходящей аорты."
@@ -5695,8 +5695,8 @@
         "D": "Smoking"
       },
       "optionsRu": {
-        "A": "Двустворчатый аортальный клапан (BAV)",
-        "B": "Артериальная гипертензия (HTN)",
+        "A": "Двустворчатый аортальный клапан",
+        "B": "Артериальная гипертензия",
         "C": "Синдром Марфана",
         "D": "Курение"
       },
@@ -5793,7 +5793,7 @@
       "optionsRu": {
         "A": "Коронарная ангиография",
         "B": "КТ-ангиография",
-        "C": "Установка катетера Сван-Ганца (SGC)",
+        "C": "Установка катетера Сван-Ганца",
         "D": "Чреспищеводная эхокардиография"
       },
       "correctAnswer": "C",
@@ -6189,7 +6189,7 @@
         "D": "Isolated aortic valve involvement is the most common clinical presentation."
       },
       "optionsRu": {
-        "A": "Удлинение времени полуспада давления (pressure half time) находится в прямой зависимости от тяжести патологии клапана.",
+        "A": "Удлинение времени полуспада давления находится в прямой зависимости от тяжести патологии клапана.",
         "B": "Чаще встречается у женщин, в соотношении 8:1 по сравнению с мужчинами.",
         "C": "Обычно приобретается в возрасте 20-30 лет.",
         "D": "Изолированное поражение аортального клапана является наиболее частым клиническим проявлением."
@@ -6258,7 +6258,7 @@
       },
       "optionsRu": {
         "A": "Венечный синус",
-        "B": "Левая главная коронарная артерия (LMCA)",
+        "B": "Левая главная коронарная артерия",
         "C": "Левая огибающая артерия (LCX)",
         "D": "Правая коронарная артерия (RCA)"
       },
@@ -6455,8 +6455,8 @@
       "optionsRu": {
         "A": "Флайт (отрыв) задней створки",
         "B": "Дилатация митрального кольца",
-        "C": "Натяжение (tenting) или апикальное натяжение задней створки митрального клапана",
-        "D": "Натяжение (tenting) или апикальное натяжение передней створки митрального клапана"
+        "C": "Натяжение или апикальное натяжение задней створки митрального клапана",
+        "D": "Натяжение или апикальное натяжение передней створки митрального клапана"
       },
       "correctAnswer": "C",
       "explanationEn": "🎯 <b>Correct answer: Option C: Tented or apically tethered posterior mitral leaflet.</b><br><br>🔵 <b>Detailed Rationale:</b><br>This clinical scenario describes 💠<b>Ischemic Mitral Regurgitation (IMR)</b>💠, a form of secondary (functional) MR that follows a myocardial infarction (MI).<br><br>1️⃣ <b>Anatomical Basis (Inferior MI):</b> Inferior/posterior wall infarctions typically lead to remodeling and displacement of the 💠<b>posteromedial papillary muscle</b>💠. Unlike the anterolateral muscle, the posteromedial muscle usually has a ❌<b>single blood supply</b>❌, making it highly vulnerable to ischemic injury.<br>2️⃣ <b>Mechanism of Restriction (Type IIIb):</b> According to <b>Carpentier's classification</b>, IMR is characterized by 💠<b>Type IIIb</b>💠 dysfunction—restricted leaflet motion during systole. The displaced papillary muscle and remodeled ventricular wall pull the chordae tendineae, causing 💠<b>apical tethering (tenting)</b>💠 of the leaflets.<br>3️⃣ <b>The Jet Direction Rule:</b> <br>• In <b>prolapse/flail</b> (Type II), the jet is directed ❌<b>away</b>❌ from the affected leaflet (e.g., flail posterior leaflet causes an anterior jet).<br>• In <b>restriction/tethering</b> (Type IIIb), the jet is typically directed 💠<b>toward</b>💠 the restricted leaflet.<br>4️⃣ <b>Why Posterior Jet?</b> In inferior MI, the 💠<b>posterior leaflet</b>💠 (specifically segment P3) is the most severely tethered and restricted. This prevents it from reaching the coaptation plane. Consequently, the anterior leaflet appears to 'overshoot' (pseudoprolapse), and the resulting eccentric jet is 💠<b>directed posteriorly</b>💠 along the restricted posterior leaflet.<br><br>🧠 <b>Board Pearl:</b><br>In <b>Ischemic MR</b> (Inferior MI), remember: 💠<b>Restricted Posterior Leaflet = Posteriorly directed jet</b>💠. This is the opposite of degenerative disease, where a <b>prolapsed posterior leaflet</b> creates an <b>anterior jet</b>.",
@@ -7594,8 +7594,8 @@
       "optionsRu": {
         "A": "ВМА к ПМЖВ, вена к ВТК (дистальный анастомоз), проксимальный анастомоз вены, вена к ЗМЖВ (дистальный анастомоз), проксимальный анастомоз вены.",
         "B": "Порядок выполнения анастомозов не имеет значения, если они выполнены хорошо.",
-        "C": "Сначала проксимальный анастомоз, затем вена к ЗМЖВ (PDA), ВМА к ПМЖВ, затем проксимальный анастомоз и вена к ВТК (OM).",
-        "D": "Сначала проксимальный анастомоз, затем вена к ВТК (OM), ВМА к ПМЖВ, затем проксимальный анастомоз и вена к ЗМЖВ (PDA)."
+        "C": "Сначала проксимальный анастомоз, затем вена к ЗМЖВ (PDA), ВМА к ПМЖВ, затем проксимальный анастомоз и вена к ВТК.",
+        "D": "Сначала проксимальный анастомоз, затем вена к ВТК, ВМА к ПМЖВ, затем проксимальный анастомоз и вена к ЗМЖВ (PDA)."
       },
       "correctAnswer": "C",
       "explanationEn": "🎯 <b>Correct answer: Option C: Proximal anastomosis first, then vein to PDA, LIMA to LAD, proximal anastomosis then vein to OM.</b><br><br>🔵 <b>Detailed Rationale:</b><br>The sequence of grafting in 💠<b>Off-Pump Coronary Artery Bypass (OPCAB)</b>💠 is critical for maintaining hemodynamic stability and protecting the myocardium, especially when one vessel provides 💠<b>collateral flow</b>💠 to another territory.<br><br>1️⃣ 🤝 <b>The Collateral Rule:</b> According to <b>Cardiac Surgery in the Adult</b>, when planning OPCAB, the general rule is that the 💠<b>collateralized vessel (the recipient) must be grafted first</b>💠, and the 💠<b>collateralizing vessel (the source) must be grafted last</b>💠. In this patient, the ❌<b>PDA is supplied by collaterals from the LAD</b>❌. If the LAD is grafted first, its temporary occlusion during the anastomosis would not only cause ischemia in the anterior wall but also simultaneously cut off flow to the septum and inferior wall (PDA territory), leading to severe global ischemia and potential hemodynamic collapse.<br>2️⃣ 📈 <b>Proximals First Strategy:</b> Sources note that performing the 💠<b>proximal (aortic) anastomosis first</b>💠 (using a side-clamp or proximal device) is often preferred in OPCAB. This allows for 💠<b>immediate regional perfusion</b>💠 of the target vessel as soon as its distal anastomosis is completed, which provides superior protection when moving to subsequent targets.<br>3️⃣ 🦴 <b>Calcified Aorta:</b> While a calcified aorta makes clamping risky, if OPCAB is being performed with proximal anastomoses, the sequence must still respect the collateral flow. (Note: In a true ❌<b>porcelain aorta</b>❌, an anaortic/no-touch technique using only LIMA and Y-grafts would be the absolute standard to prevent stroke).<br><br>❌ <b>Why other options are incorrect:</b><br>🔸 <b>Option A:</b> Grafts the LAD first. This violates the collateral rule and puts the patient at high risk for inferior wall ischemia during the LAD distal anastomosis.<br>🔸 <b>Option B:</b> Sequence is critical in OPCAB to avoid 'double' ischemia and hemodynamic instability.<br>🔸 <b>Option D:</b> While it suggests a 'proximals first' approach, it typically grafts the lateral wall (OM) before addressing the more critical collateralized inferior territory (PDA).<br><br>📚 <b>Board Pearl:</b><br>On the exam, <span style=\"background-color: #90EE90; color: #000000;\"><b>Collateralized first, Collateralizing last</b></span> is the golden rule for OPCAB sequence. If the LAD supplies the PDA, sew the PDA first.",
@@ -8597,7 +8597,7 @@
       },
       "optionsRu": {
         "A": "Повторная операция по замене клапана.",
-        "B": "TAVI клапан-в-клапан (valve-in-valve).",
+        "B": "TAVI клапан-в-клапан.",
         "C": "Оптимальная медикаментозная терапия.",
         "D": "Медикаментозная терапия для ускорения частоты сердечных сокращений."
       },

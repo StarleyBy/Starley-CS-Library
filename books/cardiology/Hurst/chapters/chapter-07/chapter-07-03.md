@@ -17,14 +17,14 @@
 * **ACS vs. Stable CAD:** In ACS, PCI reduces MI/death without pre-testing. In stable CAD, revascularization trials show no reduction in MI/mortality, even with "ischemia" on testing.
 
 ### Pathophysiology and Severity Thresholds
-* **ACS Pathophysiology:** ~89% of fatal events result from serial subclinical plaque ruptures that heal and progressively narrow to severe stenosis (average 72% DS by OCT-IVUS), with diffuse disease. Only 11% from single occlusive rupture.
-* **Severity Threshold:** Critical stenosis ~80-90% DS reduces resting flow; CFR begins to fall at ~65-70% DS. At severe stenosis, resting flow falls but some CFR remains; protective mechanisms prevent maximal vasodilation to maintain subendocardial perfusion.
-* **Clinical Thresholds:** Angina and ST changes occur at stress perfusion ~0.9 cc/min/g and CFR ~1.7 (PET studies). These thresholds define high-risk ischemia.
+* **ACS Pathophysiology:** ~ 89% of fatal events result from serial subclinical plaque ruptures that heal and progressively narrow to severe stenosis (average 72% DS by OCT-IVUS), with diffuse disease. Only 11% from single occlusive rupture.
+* **Severity Threshold:** Critical stenosis ~ 80-90% DS reduces resting flow; CFR begins to fall at ~ 65-70% DS. At severe stenosis, resting flow falls but some CFR remains; protective mechanisms prevent maximal vasodilation to maintain subendocardial perfusion.
+* **Clinical Thresholds:** Angina and ST changes occur at stress perfusion ~ 0.9 cc/min/g and CFR ~ 1.7 (PET studies). These thresholds define high-risk ischemia.
 
 ### Fractional Flow Reserve (FFR)
 * **FFR Fundamentals:** Ratio of distal to aortic pressure during maximal hyperemia; comparable to relative CFR, but not absolute CFR.
 * **Trial Evidence:** FAME-1: FFR-guided PCI reduced MACE vs. angiogram-guided. FAME-2: FFR-guided PCI showed no net reduction in MI/mortality vs. medical therapy (procedure-related events offset benefit). Meta-analysis suggests benefit threshold at FFR ≤0.67.
-* **Discordances:** FFR discordant with CFR (pressure-flow velocity or PET) in ~40% of cases: high CFR with low FFR (mild focal stenosis, good flow) and low CFR with high FFR (diffuse disease, preserved pressure gradient). FFR also discordant with angiographic DS in 35% of cases.
+* **Discordances:** FFR discordant with CFR (pressure-flow velocity or PET) in ~ 40% of cases: high CFR with low FFR (mild focal stenosis, good flow) and low CFR with high FFR (diffuse disease, preserved pressure gradient). FFR also discordant with angiographic DS in 35% of cases.
 
 ### Quantitative Perfusion and Coronary Flow Capacity
 * **CFR and Stress Perfusion:** CFR reflects global burden; stress perfusion reflects regional severity. Both needed for complete assessment. Integrated coronary flow capacity map combines both, color-coded by severity (red=normal, blue=severe).

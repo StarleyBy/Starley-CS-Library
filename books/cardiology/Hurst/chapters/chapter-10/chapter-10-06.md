@@ -45,7 +45,7 @@
 * **Exercise testing:** May unmask depolarisation abnormalities in gene carriers.
 
 ### Genetics and Family Screening
-* **Genetic yield:** ~60% of probands have identifiable pathogenic mutation. PKP2 most common (45%).
+* **Genetic yield:** ~ 60% of probands have identifiable pathogenic mutation. PKP2 most common (45%).
 * **Compound heterozygosity:** 7%; digenic heterozygosity: 7%.
 * **Family screening:** Cumulative 5-year and 10-year probabilities of developing ACM in first-degree relatives: 7% and 21%. Siblings have 3-fold higher risk than parents/children.
 * **Mutation-negative relatives:** 18% still develop disease.
@@ -54,7 +54,7 @@
 ### Management
 * **ICD implantation:** Class I for prior cardiac arrest, sustained VT, or severe RV/LV dysfunction (RVEF ≤35%, LVEF ≤35%). Estimated major arrhythmic event risk: High-risk >10%/year; Intermediate 1-10%/year; Low <1%/year.
 * **Pharmacologic therapy:** β-blockers for all patients (reduce sympathetic drive). ACEi/ARB/diuretics for heart failure. Amiodarone/sotalol for scar-related reentrant VT.
-* **Catheter ablation:** For VT control in patients with ICD despite antiarrhythmic drugs. Epicardial + endocardial ablation superior. VT-free survival ~71% at >4 years.
+* **Catheter ablation:** For VT control in patients with ICD despite antiarrhythmic drugs. Epicardial + endocardial ablation superior. VT-free survival ~ 71% at >4 years.
 * **Cardiac transplantation:** 2-4% of ACM patients. 1-year survival 94%, 88% at 6-year mean follow-up.
 * **Exercise restriction:** Competitive sports contraindicated for definite, borderline, or possible ACM (except low-intensity class 1A sports). Exercise is a disease modifier.
 

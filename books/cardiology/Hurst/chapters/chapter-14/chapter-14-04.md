@@ -562,6 +562,8 @@ Revascularization is an option for patients with rest pain, tissue loss, or life
 
 </div></details>
 
+</div></details>
+
 <details class="med-details"><summary>
 
 ## ACUTE ARTERIAL OCCLUSION</summary><div class="details-content">
