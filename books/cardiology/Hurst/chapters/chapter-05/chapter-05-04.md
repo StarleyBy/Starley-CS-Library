@@ -20,7 +20,7 @@
 * **Combined Hyperlipidemia:** Elevated cholesterol and triglycerides (e.g., combined LDL and VLDL elevations, dysbetalipoproteinemia).
 
 ### Genetic Hyperlipidemias
-* **Familial Hypercholesterolemia (FH):** LDLR deficiency (autosomal dominant). Heterozygous: LDL-C ~2× normal, premature ASCVD age 30–60, prevalence 1:500. Homozygous: LDL-C ~4× normal, ASCVD in teens, prevalence 1:1,000,000. Tendon xanthomas, xanthelasma, corneal arcus.
+* **Familial Hypercholesterolemia (FH):** LDLR deficiency (autosomal dominant). Heterozygous: LDL-C ~ 2× normal, premature ASCVD age 30–60, prevalence 1:500. Homozygous: LDL-C ~ 4× normal, ASCVD in teens, prevalence 1:1,000,000. Tendon xanthomas, xanthelasma, corneal arcus.
 * **Familial Defective Apo B-100 (FDB):** Mutation in apo B-100 (Arg3500Gln) reduces LDLR binding; prevalence 1:500–1:1000 in Central Europe; less severe than LDLR deficiency.
 * **Autosomal Recessive Hypercholesterolemia (ARH):** Mutation in ARH adaptor protein; severe hypercholesterolemia, xanthomas, premature ASCVD.
 * **Sitosterolemia:** ABCG5/ABCG8 mutations; hyperabsorption of plant sterols; xanthomas; pseudo-homozygous FH.
@@ -52,9 +52,9 @@
 * **Statins:** First-line; reduce LDL-C 25–55%; reduce ASCVD events 25–45%.
 * **Bile Acid Resins:** Lower LDL-C 15–25%; limited by GI side effects.
 * **Ezetimibe:** Reduces LDL-C 15–25%; add-on to statin; IMPROVE-IT showed benefit.
-* **PCSK9 Inhibitors:** Monoclonal antibodies; reduce LDL-C ~60%; approved for high-risk patients.
+* **PCSK9 Inhibitors:** Monoclonal antibodies; reduce LDL-C ~ 60%; approved for high-risk patients.
 * **Mipomersen/Lomitapide:** For homozygous FH; reduce apo B secretion; risk of fatty liver.
-* **Fibrates:** Primarily lower triglycerides; reduce CHD ~25% in hypertriglyceridemic subgroups.
+* **Fibrates:** Primarily lower triglycerides; reduce CHD ~ 25% in hypertriglyceridemic subgroups.
 * **Niacin:** Lowers LDL, triglycerides, raises HDL; but no added benefit with statins; side effects limit use.
 * **CETP Inhibitors:** Failed to show benefit (torcetrapib, dalcetrapib, evacetrapib); anacetrapib still under study.
 * **LDL Apheresis:** Extracorporeal removal; for severe FH; reduces events in observational studies.

@@ -1,367 +1,443 @@
-# Chapter 45
+# Disorders of Consciousness
 
-# **Disorders of Consciousness**
+> *I think, therefore I am.*  
+> — René Descartes (1644)
 
-*I think, therefore I am.*
+The ability to recognize and interact with the surroundings (consciousness) is the *sine qua non* of the human life experience, and loss of this capacity is one of the dominant and dreaded hallmarks of critical illness (1).
 
-René Descartes (1644)
+This chapter presents a structured, pathophysiologic approach to the major disorders of consciousness encountered in the intensive care unit, focusing on altered arousal and awareness, ICU-acquired delirium, alcohol withdrawal syndromes, coma evaluation, and the definitive clinical determination of brain death (1–3).
 
-The ability to recognize and interact with the surroundings (i.e., consciousness) is the *sine qua non* of the life experience, and loss of this ability is one of the dominant (and dreaded) signs of a life-threatening illness. This chapter describes the major disorders of consciousness that you will encounter in the ICU, with emphasis on delirium, coma, and the ultimate disorder of consciousness, brain death.
+<details class="med-details" open><summary>
 
-# **ALTERED CONSCIOUSNESS**
+## Executive Summary</summary><div class="details-content">
 
-Consciousness has two components: arousal and awareness.
+<details class="med-details" open><summary>
 
-- 1. *Arousal* is the ability to experience your surroundings, and is also known as *wakefulness*.
-- 2. *Awareness* is the ability to understand your relationship to your surroundings, and is also known as *responsiveness*.
+### Key Principles and Clinical Recommendations</summary><div class="details-content">
 
-These two components can be used to classify the altered states of consciousness, as indicated in [Table](#page-0-0) 45.1 [\(1](#page-15-0)[–3](#page-15-1)).
+- **Two Dimensions of Consciousness:** Consciousness comprises *arousal* (wakefulness, sustained by the ascending reticular activating system in the brainstem) and *awareness* (cognitive responsiveness, governed by diffuse bilateral cerebral cortical networks and their thalamic connections).
+- **Spectrum of Altered States:** Categorized by arousal and awareness: *anxiety/lethargy* (arousal and awareness intact, attentiveness altered), *locked-in syndrome* (arousal and awareness fully intact, voluntary motor output abolished by ventral pontine injury sparing vertical eye gaze and blinking), *delirium* (acute fluctuating disturbance of attention and cognition), *stupor* (arousable only with vigorous, painful stimuli), *vegetative state* (unresponsive wakefulness with preserved brainstem reflexes but absent awareness), *coma* (complete absence of arousal and awareness), and *brain death* (irreversible cessation of all hemispheric and brainstem functions).
+- **ICU Delirium Phenotypes:** Affects up to 80% of mechanically ventilated patients. Characterized by acute onset, fluctuating course, inattention, and either disorganized thinking or altered level of consciousness (assessed via CAM-ICU). Subdivided into *hyperactive* (agitation, restlessness; 10%–20%), *hypoactive* (lethargy, withdrawal; 50%–60%, highest mortality, frequently missed), and *mixed* (fluctuating between both).
+- **Nonpharmacologic and Pharmacologic Delirium Interventions:** Primary prevention relies on the ABCDEF bundle (spontaneous awakening/breathing trials, pain control, avoiding deep sedation, sleep hygiene, early physical mobilization, and family presence). Routine antipsychotics for delirium prevention or treatment of hypoactive delirium are ineffective. In severe hyperactive agitation risking self-harm, pharmacotherapy encompasses dexmedetomidine (loading dose $1\ \mu\text{g/kg}$ optional over $10\text{ min}$, infusion $0.2\text{–}1.5\ \mu\text{g/kg/hr}$), intravenous haloperidol ($5\text{ mg}$ bolus, double to $10\text{ mg}$ at $15\text{ min}$ if refractory, maintenance $25\%$ of effective dose q6h, avoiding use if corrected $\text{QTc} > 500\text{ ms}$), or intramuscular ziprasidone ($10\text{–}20\text{ mg}$ IM, max $40\text{ mg/day}$).
+- **Alcohol Withdrawal Syndromes:** Abrupt cessation of ethanol in chronic drinkers produces down-regulated GABAergic tone and unchecked NMDA/glutamate neuroexcitation. Manifestations follow a defined timeline: early tremors/anxiety (6–8 hours), withdrawal seizures (6–48 hours, brief generalized tonic-clonic, not responsive to phenytoin), alcoholic hallucinosis (12–48 hours, clear sensorium), and *Delirium Tremens* (DTs; 48–96 hours, hyperactive delirium, profound autonomic instability, hyperthermia, tachycardia, lasting 3–5 days).
+- **Management of Severe Alcohol Withdrawal:** High-dose symptom-triggered intravenous benzodiazepines (e.g., lorazepam $2\text{–}4\text{ mg}$ IV every 5–10 minutes titrated to calm). Avoid prolonged high-dose infusions ($\ge 0.1\text{ mg/kg/hr}$ for $> 48\text{ hours}$) due to propylene glycol toxicity and lactic acidosis. Benzodiazepine-refractory DTs requires intravenous phenobarbital ($260\text{ mg}$ IV boluses) or propofol. Intravenous thiamine ($100\text{–}500\text{ mg}$) must always precede glucose administration to prevent precipitating Wernicke's encephalopathy.
+- **Systematic Coma Bedside Assessment:** Coma requires bilateral cortical destruction or direct injury to the ascending reticular activating system. Bedside evaluation includes: (*a*) motor responses (purposeful localization vs decorticate abnormal flexion indicating hemispheric/diencephalic lesions vs decerebrate extension indicating midbrain/upper pontine damage vs flaccidity), (*b*) pupillary size and light reflexes (metabolic coma yields small reactive pupils; midbrain injury yields mid-position fixed pupils; uncal herniation yields unilateral dilated fixed pupil), (*c*) oculocephalic (doll's eyes) and oculovestibular (cold caloric with $50\text{ mL}$ ice water) reflexes, and (*d*) corneal, gag, and cough reflexes.
+- **Glasgow Coma Scale (GCS):** Standardized 15-point scoring system assessing eye opening (1–4), verbal response (1–5), and motor performance (1–6). In endotracheally intubated patients, the verbal component cannot be tested; by convention, a verbal pseudoscore of 1 is assigned (yielding a maximum GCS of 11).
+- **Brain Death Determination in Adults:** Guided by the Uniform Determination of Death Act. Mandatory prerequisites: neuroimaging evidence of catastrophic irreversible brain injury, $\ge 48\text{ hours}$ post-resuscitation observation period, core body temperature $> 36^\circ\text{C}$ maintained for $\ge 24\text{ hours}$, systolic blood pressure $\ge 100\text{ mmHg}$ or mean arterial pressure $\ge 75\text{ mmHg}$, exclusion of confounding drug effects (waiting $\ge 5$ clearance half-lives), and normal metabolic/endocrine parameters.
+- **Brainstem Reflexes and Apnea Testing:** Brain death requires complete absence of all cranial nerve brainstem reflexes across two examinations separated by $\ge 12\text{ hours}$. The Apnea Test demonstrates absence of spontaneous respirations despite severe respiratory acidosis (pre-oxygenate with $100\%\ \text{O}_2$, deliver $6\text{ L/min}$ tracheal oxygen via catheter, allowing arterial $\text{PaCO}_2$ to rise to $\ge 60\text{ mmHg}$ and $\ge 20\text{ mmHg}$ above baseline, with arterial $\text{pH} < 7.28$). Complex spinal cord reflexes (including Lazarus' sign) originate in the spinal cord and do not invalidate the diagnosis of brain death. Confirmatory testing (catheter 4-vessel angiography, radionuclide cerebral perfusion scintigraphy, or transcranial Doppler) is required only when the clinical exam or apnea test cannot be safely completed.
 
-<span id="page-0-0"></span>
+</div></details>
+</div></details>
 
-| TABLE<br>45.1                          | Altered<br>States<br>of<br>Consciousness                        |                                     |  |  |
-|----------------------------------------|-----------------------------------------------------------------|-------------------------------------|--|--|
-| Can be Awakened and is<br>Aware        | Can be Awakened but is Not<br>Aware                             | Cannot be Awakened and is Not Aware |  |  |
-| Anxiety<br>Lethargy<br>Locked-In State | Delirium<br>Dementia<br>Psychosis<br>Stupor<br>Vegetative State | Coma<br>Brain Death                 |  |  |
+<details class="med-details" open><summary>
 
-## **Altered States of Consciousness**
+## Altered Consciousness and Differential Diagnosis</summary><div class="details-content">
 
-The principal states of altered consciousness are as follows:
+<details class="med-details" open><summary>
 
-- 1. *Anxiety* and *lethargy* are conditions where arousal and awareness are intact, but there is a change in *attentiveness* (i.e., the degree of awareness).
-- 2. A l*ocked-in state* is a condition where arousal and awareness are intact, but there is almost total absence of motor responsiveness. This condition is caused by bilateral injury to the motor pathways in the ventral pons, which disrupts all voluntary movements except up-down ocular movements and eyelid blinking ([3\)](#page-15-1).
-- 3. *Delirium* and *dementia* are conditions where arousal is intact, but awareness is altered. The change in awareness can be fluctuating (with delirium) or permanent (with dementia).
-- 4. *Stupor* is a condition where the subject is difficult to arouse, and is unaware of some or all elements in the environment.
-- 5. A *vegetative state* is a condition where there is some degree of arousal (eyes can open), but there is no awareness. Spontaneous movements and motor responses to deep pain can be present, but the movements are purposeless. After one month, this condition is called a *persistent vegetative state* [\(4](#page-15-2)).
-- 6. *Coma* is the total absence of arousal and awareness (i.e., unarousable unawareness). Like the vegetative state, spontaneous movements and motor responses to deep pain can be present, but the movements are purposeless.
-- 7. *Brain death* is similar to coma in that there is a total absence of arousal and awareness. However, brain death differs from coma in two ways: (*a*) it involves loss of all brainstem function, including cranial nerve responses, and spontaneous respirations and (*b*) it is always irreversible.
+### Components of Consciousness and Altered States</summary><div class="details-content">
 
-<span id="page-2-0"></span>![](_page_2_Figure_0.jpeg)
+Consciousness is physiologically partitioned into two distinct neurological dimensions: arousal and awareness (1,2).
+
+- 1. *Arousal (Wakefulness):* The capacity to open the eyes and sustain wakeful interaction with the environment. Arousal is mediated by the ascending reticular activating system (ARAS), an intricate neuronal network in the brainstem tegmentum projecting to the thalamus and hypothalamus.
+- 2. *Awareness (Responsiveness):* The capacity to perceive, integrate, and interpret internal thoughts and external environmental stimuli. Awareness requires intact, functioning cerebral cortical hemispheres and reciprocal frontoparietal connectivity with subcortical structures.
+
+The intersection of these two functional domains permits a clinical categorization of altered conscious states, presented in Table 45.1 (1–3).
+
+<details class="med-details" open><summary>
+
+#### <span id="tbl-45-1"></span>TABLE 45.1 Altered States of Consciousness</summary><div class="details-content">
+
+| Clinical State | Arousal (Wakefulness) | Awareness (Responsiveness) | Diagnostic Hallmarks and Neuroanatomy |
+| :--- | :---: | :---: | :--- |
+| **Normal Wakefulness** | Present | Present | Fully awake, alert, and oriented to person, place, and time. |
+| **Anxiety / Lethargy** | Present | Present | Arousal and awareness preserved; attentiveness or speed of processing altered. |
+| **Locked-In Syndrome** | Present | Present | Awake and aware, but quadriplegic and anarthric due to bilateral ventral pontine infarction; vertical eye movements and blinking preserved. |
+| **Delirium** | Present | Fluctuating | Acute inattention, disorganized thinking, hallucinations, or fluctuating sleep-wake cycles. |
+| **Dementia** | Present | Impaired | Progressive, irreversible global decline in memory and executive cognitive function. |
+| **Stupor** | Impaired | Impaired | Unresponsive state; can be briefly aroused only by vigorous, continuous tactile or painful stimuli. |
+| **Vegetative State** | Present | Absent | Unresponsive wakefulness; sleep-wake cycles and autonomic functions preserved; no purposeful interaction. |
+| **Coma** | Absent | Absent | State of unarousable unresponsiveness; eyes closed; no sleep-wake cycles; absent voluntary responses. |
+| **Brain Death** | Absent | Absent | Irreversible cessation of all hemispheric and brainstem functions. |
+
+*Adapted from neurological classifications of consciousness (References 1, 2, and 3).*
+
+</div></details>
+</div></details>
+
+<details class="med-details" open><summary>
+
+### Etiologies of Altered Consciousness in the ICU</summary><div class="details-content">
+
+Disturbances in consciousness are extraordinarily common in intensive care units, resulting from structural neuropathology, systemic shock, toxic metabolites, or pharmacologic interventions.
+
+Figure 45.1 illustrates the primary clinical triggers of altered sensorium in critically ill patients.
+
+<span id="fig-45-1"></span>
+![FIGURE 45.1](images/_page_3_Figure_1.jpeg)
 
 **FIGURE 45.1** Common sources of altered consciousness in ICU patients.
 
-# **Predisposing Conditions**
+#### Predisposing Conditions and Pathophysiology
 
-There are an innumerable number of conditions that can alter consciousness, and [Figure](#page-2-0) 45.1 shows a list of the most likely ones in critically ill patients. In a general medical-surgical ICU, the prominent causes of altered consciousness are likely to include the following:
+In a medical-surgical ICU, the principal contributors to altered consciousness include (1):
 
-- 1. Sedation during mechanical ventilation.
-- 2. Clinical shock syndromes.
-- 3. Encephalopathies (ischemic, septic, and metabolic).
-- 4. Drug overdoses or withdrawal.
+- 1. *Iatrogenic Sedation:* Continuous infusions of sedatives and analgesics (propofol, midazolam, dexmedetomidine, opioids) administered during mechanical ventilation.
+- 2. *Circulatory Shock:* Hypoperfusion secondary to cardiogenic, hypovolemic, or septic shock impairing cerebral autoregulation and perfusion pressure.
+- 3. *Diffuse Encephalopathies:* Toxic-metabolic disturbances (uremia, acute hepatic failure, hypercapnia, severe electrolyte shifts) and septic encephalopathy triggered by systemic inflammatory cytokines.
+- 4. *Structural Brain Lesions:* Acute ischemic stroke, intracerebral hemorrhage, traumatic brain injury, and nonconvulsive status epilepticus.
 
-It is worth mentioning that *nonconvulsive seizures* are an often overlooked cause of altered consciousness in ICU patients. (See Chapter 46 for more on this topic.)
+</div></details>
+</div></details>
 
-# **DELIRIUM**
+<details class="med-details" open><summary>
 
-The delirium described in this section is a manifestation of "brain dysfunction", which is one part of the multiorgan dysfunction that plagues critically ill patients. The incidence of this type of delirium is about 25–50%, and it is especially common in elderly and ventilator-dependent patients ([5\)](#page-15-3). The delirium that is associated with alcohol withdrawal is a separate entity, and is described in a later section.
+## Delirium in the Intensive Care Unit</summary><div class="details-content">
 
-## **Clinical Features**
+<details class="med-details" open><summary>
 
-The clinical features of delirium are summarized in [Figure](#page-4-0) 45.2 ([6,](#page-15-4)[7\)](#page-15-5). As indicated, delirium is a state of inattentiveness (i.e., inability to focus) that has a rapid onset or a rapidly fluctuating course (i.e., changes occur within a 24-hour time period), and is accompanied by either disordered thinking (i.e., incoherent or illogical responses) or an altered level of consciousness (hyperactive or lethargic).
+### Clinical Manifestations and Phenotypes</summary><div class="details-content">
 
-Three types of ICU-related delirium are recognized: (*a*) *hyperactive delirium*, where the patient is restless and agitated, (*b*) *hypoactive delirium*, where the patient is lethargic and somnolent; and (*c*) *mixed delirium*, where there are alternating episodes of hyperactive and hypoactive delirium. *Hypoactive delirium is the most common form* ([5\)](#page-15-3), and is often overlooked because of the popular misperception that delirium is a state of severe agitation.
+Delirium is an acute, fluctuating disturbance of attention, awareness, and cognitive processing that occurs in up to 80% of mechanically ventilated ICU patients (4,5).
 
-#### *Predisposing Conditions*
+The cardinal diagnostic criteria of delirium are illustrated in Figure 45.2 (6,7). Delirium is fundamentally characterized by an inability to focus or sustain attention, acute onset or fluctuating temporal course (within 24 hours), and either disorganized thought processes or an altered baseline level of consciousness.
 
-Any condition that is associated with an encephalopathy can be a source of delirium. The major ones in the ICU are sepsis, liver failure, uremia, and the use of sedative-hypnotic drugs [\(5](#page-15-3)).
+<span id="fig-45-2"></span>
+![FIGURE 45.2](images/_page_5_Figure_2.jpeg)
 
-**SEDATION:** The use of heavy and prolonged sedation is considered a risk factor for delirium ([8\)](#page-15-6), and *benzodiazepines are considered the principal sedatives that promote delirium in the ICU* ([9,](#page-15-7)[10\)](#page-15-8). As a result, avoidance of benzodiazepines is considered an important preventive measure for ICU-related delirium ([10\)](#page-15-8).
+**FIGURE 45.2** The clinical features of delirium in critically ill patients.
 
-# **Diagnosis**
+#### Clinical Phenotypes: Hyperactive, Hypoactive, and Mixed
 
-Validated screening tools are considered essential for the detection of delirium ([5\)](#page-15-3), and the *Confusion Assessment Method for the ICU* (CAM-ICU) is probably the most popular of these diagnostic tools ([6,](#page-15-4)[7\)](#page-15-5). A summary of the CAM-ICU method is included in Appendix II at the end of the book.
+Three clinical motoric subtypes of ICU delirium are recognized (5,8):
 
-#### *Delirium versus Dementia*
+- 1. *Hyperactive Delirium:* Characterized by psychomotor agitation, restlessness, emotional lability, hallucinations, and active combativeness (pulling out endotracheal tubes and vascular catheters). Accounts for 10% to 20% of cases.
+- 2. *Hypoactive Delirium:* Characterized by lethargy, psychomotor sluggishness, decreased spontaneous movements, and apathy. It accounts for 50% to 60% of cases, carries the highest risk of hospital mortality, and is frequently missed by bedside staff because the patient appears calm and cooperative (8).
+- 3. *Mixed Delirium:* Patients demonstrate unpredictable transitions between hyperactive agitation and hypoactive stupor over a 24-hour cycle. Accounts for approximately 25% to 30% of ICU presentations.
 
-Delirium and dementia are distinct mental disorders that can be confused because they have overlapping clinical features (i.e., attention deficits and disordered thinking). However, *delirium has two characteristics that distinguish it from dementia: i.e., the acute onset and fluctuating course*.
+</div></details>
 
-## *Psychosis versus Delirium*
+<details class="med-details" open><summary>
 
-Delirium can be difficult to distinguish from psychosis. Over 40% of hospitalized patients with delirium have psychotic symptoms (e.g., visual hallucinations) [\(11](#page-15-9)), and delirium has been given the misnomer of "ICU psychosis" ([12\)](#page-15-10).
+### Diagnostic Approach and Differential Diagnosis</summary><div class="details-content">
 
-### **Management**
+Routine screening with validated bedside instruments is essential for early delirium recognition. The Confusion Assessment Method for the ICU (CAM-ICU) and the Intensive Care Delirium Screening Checklist (ICDSC) are the two recommended screening tools (5,9).
 
-*No drug has proven effective in preventing or correcting ICU-related delirium, and drugs are recommended only to restore calm in severely agitated patients* (which is not treating the underlying delirium) ([5,](#page-15-3)[10\)](#page-15-8). The drugs that can be used for this purpose are included in Table 45.2. [Dexmedetomidine](#page-4-1) is the preferred agent ([10\)](#page-15-8), but can produce troublesome bradycardia and hypotension (see Chapter 6). Haloperidol is a popular agent for hyperactive delirium (see
+The CAM-ICU establishes the diagnosis if Features 1 (acute change or fluctuating course) and 2 (inattention, assessed by letter recognition tasks) are present, in combination with either Feature 3 (altered level of consciousness, Richmond Agitation-Sedation Scale [RASS] other than 0) or Feature 4 (disorganized thinking, illogical questions and commands).
 
-Chapter 6), but has a relatively slow onset of action (which can be a disadvantage in severely agitated patients). Ziprasidone is an atypical antipsychotic agent that can be only be given intramuscularly, but this can be advantageous when intravenous access is problematic in a severely agitated patient ([13\)](#page-15-11).
+#### Delirium versus Dementia and Psychosis
 
-<span id="page-4-0"></span>![](_page_4_Figure_1.jpeg)
+Distinguishing delirium from pre-existing dementia or acute functional psychiatric illness is critical (1):
 
-<span id="page-4-1"></span>**FIGURE 45.2** The clinical features of delirium in critically ill patients.
+- 1. *Delirium vs Dementia:* Delirium has an acute or subacute onset over hours to days, a markedly fluctuating course, prominent inattention, and reversible potential. Dementia exhibits insidious development over months or years, a stable progressive course, intact attention until late stages, and fixed irreversible cognitive deficits.
+- 2. *Delirium vs Functional Psychosis:* Schizophrenia or mania presents with organized delusions and hallucinations in a patient who remains fully alert and attentive. True delirium disrupts baseline attention, alters the sensorium, and features fragmented, fleeting hallucinations.
 
-| Drug            | Recommendations                                                                                                                                                                                                                                                                                                              |
-|-----------------|------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
-| Dexmedetomidine | Dosing: Loading dose (optional) is 1 μg/kg IV over 10 min. followed by an infusion of 0.2–1.5<br>μg/kg/hr.<br>Comment: Can produce bradycardia and hypotension. A withdrawal syndrome (with<br>hyperexcitability) has been reported.                                                                                         |
-| Haloperidol     | Dosing: Start with 5 mg IV as a bolus dose. If no effect after 15 min, double the dose (10 mg<br>IV), or switch to another agent. For maintenance dosing, use 25% of the initial<br>effective dose every 6 hrs.<br>Comment: Has a relatively slow onset of action. Not advised if the corrected QT interval is<br>>500 msec. |
-| Ziprasidone     | Dosing: 10 mg IM every 2 hrs, or 20 mg IM every 4 hrs, to a total daily dose of 40 mg.<br>Comment: The IM route can be useful if IV access is problematic.                                                                                                                                                                   |
+</div></details>
 
-#### *Prevention*
+<details class="med-details" open><summary>
 
-The following interventions are recommended for reducing the risk of ICU-related delirium ([5,](#page-15-3)[10\)](#page-15-8): (*a*) adequate treatment of pain, (*b*) avoiding deep sedation, when possible, (*c*) promoting sleep-awake cycles, (*d*) encouraging family visitation, (*e*) early ambulation, and (*f*) avoiding benzodiazepines. Unfortunately, these interventions have not been successful in critically ill patients [\(14](#page-15-12)).
+### Management and Pharmacotherapy of Delirium</summary><div class="details-content">
 
-# **ALCOHOL WITHDRAWAL**
+Delirium prevention and management mandate an aggressive multimodal, nonpharmacologic approach centered on the ABCDEF bundle (5,10):
 
-Alcohol (ethanol) is a central nervous system depressant that acts by stimulating the neuronal release of gamma-aminobutyric acid (GABA), the major inhibitory neurotransmitter in the mammalian brain ([15\)](#page-15-13). Chronic alcohol intake increases the density of GABA receptors in the brain [\(15](#page-15-13)), and this certainly contributes to the excitatory state that characterizes the alcohol withdrawal syndrome.
+- 1. *A — Assess, Prevent, and Manage Pain:* Utilize validated numeric or behavioral pain scales; prioritize opioid-sparing multimodal analgesia.
+- 2. *B — Both Spontaneous Awakening Trials (SAT) and Spontaneous Breathing Trials (SBT):* Daily interruption of continuous sedatives to assess readiness for extubation.
+- 3. *C — Choice of Analgesia and Sedation:* Target light sedation (RASS 0 to -1); actively minimize or eliminate benzodiazepine infusions.
+- 4. *D — Delirium Assessment and Monitoring:* Screen at least once per nursing shift utilizing CAM-ICU or ICDSC.
+- 5. *E — Early Mobility and Exercise:* Early physical and occupational therapy reduces duration of delirium and ventilator days.
+- 6. *F — Family Engagement and Empowerment:* Liberalize visiting hours, encourage family presence, cognitive reorientation, and maintain day-night sleep cycles.
 
-#### **Clinical Features**
+#### Pharmacotherapy for Severe Agitation
 
-The clinical features of alcohol withdrawal are shown in [Table](#page-6-0) 45.3 ([16\)](#page-15-14). The earliest signs of withdrawal are agitation and tremulousness, which can appear as early as 6 hours after the last drink. This can be followed by generalized seizures. hallucinations (visual, auditory, or tactile), and signs of autonomic hyperactivity (e.g., tachycardia, hypertension). Delirium is a relatively late finding, and is accompanied by increased motor activity. The Clinical Institute Withdrawal Assessment of Alcohol Scale, Revised (CIWA-AR) is the standard method for monitoring the severity of alcohol withdrawal, but it is not recommended for patients with alcohol withdrawal delirium ([17\)](#page-15-15). Instead, the CAM-ICU assessment of delirium (which is included in Appendix II) is recommended for alcohol withdrawal delirium ([17\)](#page-15-15).
+Antipsychotic medications do *not* reduce delirium duration or hospital mortality and should never be administered for routine delirium prevention or for hypoactive delirium (10).
 
-#### *Seizures*
+When severe psychomotor agitation threatens patient safety (e.g., self-extubation, assaultive behavior) and nonpharmacologic interventions fail, pharmacotherapy is indicated as outlined in Table 45.2 (11–13).
 
-Generalized seizures can appear as early as 6–8 hours after the last drink (the risk of seizures peaks at 24 hrs), and they can appear in isolation, without other signs of withdrawal [\(17](#page-15-15)). The recommended treatment is lorazepam (2 mg IV push), which prevents recurrent seizures ([18\)](#page-15-16).
+<details class="med-details" open><summary>
 
-Phenytoin is not recommended for alcohol-withdrawal seizures ([17\)](#page-15-15).
+#### <span id="tbl-45-2"></span>TABLE 45.2 Drugs for Severe Agitation in ICU-Related Delirium</summary><div class="details-content">
 
-#### *Delirium Tremens*
+| Pharmacologic Agent | Recommended Dosing Regimens | Clinical Caveats and Precautions |
+| :--- | :--- | :--- |
+| **Dexmedetomidine** | • **Loading Dose:** $1\ \mu\text{g/kg}$ IV over $10\text{ min}$ (optional; frequently omitted to avoid hypotension).<br>• **Infusion:** $0.2\text{–}1.5\ \mu\text{g/kg/hr}$ continuous IV. | Selective $\alpha_2$-adrenergic agonist; provides conscious sedation without respiratory depression.<br>Adverse effects include sinus bradycardia and arterial hypotension.<br>Rebound agitation and tachycardia reported upon abrupt withdrawal. |
+| **Haloperidol** | • **Initial Bolus:** $5\text{ mg}$ IV push.<br>• **Escalation:** If uncalmed at $15\text{ min}$, double dose ($10\text{ mg}$ IV).<br>• **Maintenance:** $25\%$ of initial effective dose every 6 hours. | High-potency butyrophenone $D_2$-receptor antagonist.<br>Relatively slow onset ($15\text{–}30\text{ min}$).<br>Strictly contraindicated if corrected $\text{QTc} > 500\text{ ms}$ (torsades de pointes risk).<br>Low risk of extrapyramidal symptoms with IV route compared to PO. |
+| **Ziprasidone** | • **Intramuscular Dose:** $10\text{ mg}$ IM every 2 hours, or $20\text{ mg}$ IM every 4 hours.<br>• **Maximum Dose:** Up to $40\text{ mg/day}$ total IM dose. | Atypical second-generation antipsychotic ($5\text{-HT}_2 / D_2$ antagonist).<br>Valuable when intravenous access is lost or problematic in an agitated patient.<br>Carries risk of QTc prolongation and hypotension. |
 
-About 5% of patients develop a severe form of alcohol withdrawal known as *delirium tremens* (DTs) ([16,](#page-15-14)[17\)](#page-15-15), which appears about 2–3 days after the last drink, and is characterized by hyperactive delirium, hallucinations, and signs of autonomic hyperactivity (e.g., fever, tachycardia, hypertension) that can progress to hemodynamic instability. This condition typically lasts 3–5 days [\(16](#page-15-14)), and delirium that persists for longer than 5 days should prompt consideration of another cause of the problem (see later). The hypoactive form of delirium, which is a common presentation of ICU-related delirium, does not occur in alcohol withdrawal delirium.
+*Dosing recommendations adapted from clinical consensus guidelines (References 11, 12, and 13).*
 
-<span id="page-6-0"></span>
+</div></details>
 
-| TABLE<br>45.3<br>Clinical<br>Features<br>of                                                            | Alcohol<br>Withdrawal     |          |  |  |  |
-|--------------------------------------------------------------------------------------------------------|---------------------------|----------|--|--|--|
-| Features                                                                                               | Onset after Last<br>Drink | Duration |  |  |  |
-| Early Withdrawal<br>Anxiety, Nausea, Tremulousness                                                     | 6–8 hrs                   | 1–2 days |  |  |  |
-| Generalized Seizures:<br>One or Two                                                                    | 6–48 hrs                  | 2–3 days |  |  |  |
-| Hallucinations:<br>Visual, Auditory, or Tactile                                                        | 12–48 hrs                 | 1–2 days |  |  |  |
-| Delirium Tremens:<br>Fever, Tachycardia Hypertension, Delirium (Hyperactive), Autonomic<br>Instability | 48–96 hrs                 | 3–5 days |  |  |  |
+##### Antipsychotic Safety and QTc Monitoring
 
-Adapted from Reference 16.
+Antipsychotic drugs should be discontinued as soon as acute agitation abates. Routine electrocardiographic monitoring of the corrected QT interval ($\text{QTc}$) is mandatory before and during haloperidol therapy. If the baseline $\text{QTc}$ exceeds $500\text{ ms}$, or lengthens by $> 60\text{ ms}$ from baseline, haloperidol must be withheld.
 
-# **Management**
+</div></details>
+</div></details>
 
-*The drugs of choice for treating alcohol withdrawal delirium are the benzodiazepines* [\(17](#page-15-15)), which mimic the CNS-depressant effects of alcohol by stimulating GABA receptors in the brain ([15\)](#page-15-13). Large doses of benzodiazepines (e.g., 30–40 mg of IV lorazepam or 150–200 mg of IV diazepam in 3–4 hours) may be required in severe cases [\(17](#page-15-15)).
+<details class="med-details" open><summary>
 
-#### *ICU Management*
+## Alcohol and Substance Withdrawal Syndromes</summary><div class="details-content">
 
-For patients who require ICU-level care, the benzodiazepines should be given intravenously. *Lorazepam* can be given in a dose of 2–4 mg IV every 5–10 minutes until the desired level of calm is achieved. Thereafter, the dose can be reduced to 2–4 mg IV every few hours as needed. Continuous infusions of high-dose lorazepam (i.e., ≥0.1 mg/kg/hr) should not be continued for longer than 48 hours because of the risk of *propylene glycol toxicity* (see Chapter 6). (The same risk occurs with prolonged infusions of diazepam).
+<details class="med-details" open><summary>
 
-It is important to taper benzodiazepines as soon as possible because they are highly lipid soluble and readily accumulate in the brain with continued use, which can delay awakening and prolong the ICU stay. (See Chapter 6 for more on sedation with benzodiazepines.)
+### Clinical Spectrum and Timeline of Withdrawal</summary><div class="details-content">
 
-#### *Benzodiazepine Resistance*
+Ethanol is a central nervous system depressant that exerts its inhibitory effects by enhancing gamma-aminobutyric acid ($\text{GABA}$) transmission at the $\text{GABA}_\text{A}$ receptor complex while simultaneously inhibiting excitatory N-methyl-D-aspartate ($\text{NMDA}$) glutamate receptors (14,15).
 
-Benzodiazepine resistance has been described as uncontrolled alcohol withdrawal despite IV lorazepam doses of 30–40 mg or IV diazepam doses of 150–200 mg in the first 3–4 hours of treatment [\(17](#page-15-15)). In these cases, the following adjunctive medications have been recommended ([17\)](#page-15-15).
+Chronic alcohol consumption leads to homeostatic neuroadaptation: down-regulation of $\text{GABA}_\text{A}$ receptors and up-regulation of $\text{NMDA}$ glutamate receptors. When alcohol intake abruptly ceases, profound uninhibited neuroexcitation emerges, producing the clinical spectrum of withdrawal detailed in Table 45.3 (16,17).
 
-- 1. Propofol is a rapidly-acting, GABAergic sedative that is the preferred adjunct to benzodiazepines for patients who are intubated and receiving mechanical ventilation ([17\)](#page-15-15). The administration of propofol is described in Chapter 6 (see Table 6.6).
-- 2. Phenobarbital is an effective adjunct for benzodiazepines, and can be given in doses of 130– 260 mg IV every 15–20 minutes until the desired effect is achieved [\(19](#page-15-17)). However, barbiturates should be used cautiously, because they can depress respirations and promote hypotension.
-- 3. Dexmedetomidine has been recommended as an adjunct to benzodiazepines [\(17](#page-15-15)), using the dosage recommendations in [Table](#page-4-1) 45.2. However, the clinical experience with this drug in severe alcohol withdrawal has not been encouraging ([20\)](#page-15-18).
+<details class="med-details" open><summary>
 
-## **Other Considerations**
+#### <span id="tbl-45-3"></span>TABLE 45.3 Clinical Features of Alcohol Withdrawal</summary><div class="details-content">
 
-The following conditions can be mistaken for alcohol withdrawal, and should be considered when there is resistance to benzodiazepines.
+| Clinical Syndrome | Cardinal Clinical Features | Onset Following Last Drink | Expected Clinical Duration |
+| :--- | :--- | :---: | :---: |
+| **Early Minor Withdrawal** | Generalized anxiety, insomnia, coarse hand tremor, nausea, vomiting, diaphoresis, palpitations. | 6–8 hours | 1–2 days |
+| **Withdrawal Seizures** | Generalized tonic-clonic convulsions (single or cluster of 2–3 brief episodes); status epilepticus is rare ($< 3\%$). | 6–48 hours | 2–3 days |
+| **Alcoholic Hallucinosis** | Vivid visual, auditory, or tactile hallucinations occurring with a clear sensorium and intact orientation. | 12–48 hours | 1–2 days |
+| **Delirium Tremens (DTs)** | Hyperactive delirium, profound autonomic hyperactivity (fever, sinus tachycardia, hypertension), agitation, diaphoresis. | 48–96 hours | 3–5 days |
 
-#### *Wernicke's Encephalopathy*
+*Adapted from critical care reviews of alcohol withdrawal (References 16 and 17).*
 
-Patients with alcohol use disorder can experience a sudden deterioration in mental status a few days after admission that is the result of acute Wernicke's encephalopathy (from thiamine deficiency) rather than alcohol withdrawal delirium. This occurs when thiamine stores are borderline depleted on admission, and the glucose load from intravenous fluids and feeding regimens utilizes the remaining thiamine (which is used for glucose metabolism) [\(21](#page-15-19)). The presence of nystagmus and oculomotor palsies (e.g., lateral gaze paralysis) can help to identify Wernicke's encephalopathy, but these are infrequent findings.
+</div></details>
 
-Patients with alcohol use disorder are typically given thiamine in a dose of 100 mg daily while in the hospital, but this is an insufficient dose for the treatment of Wernicke's encephalopathy. (See Chapter 48 for more on thiamine deficiency.)
+#### Withdrawal Seizures and Alcoholic Hallucinosis
 
-### *Gabapentin Withdrawal*
+Alcohol withdrawal seizures typically manifest as generalized tonic-clonic convulsions occurring within 6 to 48 hours of abstinence.
 
-Gabapentin is a GABA analog that is used to treat a variety of disorders, including partial seizures, neuropathic pain, migraine and cluster headaches, psychiatric disorders, and alcohol use disorder. Multiple reports have demonstrated that abrupt discontinuation of gabapentin can result in a hyperactive delirium that is indistinguishable from alcohol withdrawal [\(22](#page-15-20)). This usually occurs when the daily dose of gabapentin is 3,000 mg or higher, and the onset can occur from 12 hours to 7 days after the last drug dose. Benzodiazepines are ineffective in controlling the delirium from gabapentin withdrawal, and restarting the gabapentin can have dramatic results (author's experience).
+Seizures are self-limited, usually occurring as a solitary episode or a brief flurry of 2 to 3 seizures. *Anticonvulsants such as phenytoin are completely ineffective for alcohol withdrawal seizures and should never be prescribed* (17). Treatment consists of intravenous benzodiazepines. If status epilepticus develops, alternative etiologies (subdural hematoma, meningitis, toxic ingestion) must be pursued.
 
-# **COMA**
+Alcoholic hallucinosis involves frightening visual or auditory illusions appearing within 12 to 48 hours. Patients remain fully oriented to their environment, distinguishing this entity from delirium tremens.
 
-The patient who is comatose (i.e., unarousable and unaware) is one of the most challenging problems in critical care, as recovery in these patients is never certain.
+#### Delirium Tremens
 
-## **Etiologies**
+Delirium tremens (DTs) represents the most severe, life-threatening manifestation of alcohol withdrawal, developing in approximately 5% of hospitalized alcoholic patients (16,17).
 
-Coma can be the result of any of the following conditions:
+DTs typically begins 48 to 96 hours following the last alcoholic beverage, marked by severe confusion, hyperactive delirium, delusions, and profound autonomic storming (hyperpyrexia, tachycardia $> 120\text{ bpm}$, labile hypertension, and profuse diaphoresis). The mortality of untreated DTs approaches 15% to 20%, driven by cardiovascular collapse, hyperthermia, arrhythmias, and aspiration pneumonia. Symptoms last 3 to 5 days; delirium persisting longer than 5 days warrants investigation for underlying intracranial pathology or occult infection.
 
-- 1. Diffuse anoxic or ischemic brain injury.
-- 2. Supratentorial mass lesion causing transtentorial herniation and brainstem compression.
-- 3. Posterior fossa mass lesion causing direct brainstem compression.
-- 4. Brainstem stroke.
-- 5. Toxic or metabolic encephalopathies (including drug overdose).
-- 6. Nonconvulsive status epilepticus.
-- 7. Apparent coma (i.e., locked-in state, hysterical reaction).
+</div></details>
 
-#### **Bedside Evaluation**
+<details class="med-details" open><summary>
 
-The bedside evaluation of coma should include cranial nerve reflexes, spontaneous eye and body movements, and motor reflexes. The following elements of the evaluation deserve mention.
+### ICU Management of Alcohol Withdrawal</summary><div class="details-content">
 
-#### *Motor Responses*
+Patients with severe alcohol withdrawal or delirium tremens mandate admission to the ICU for continuous airway, hemodynamic, and neurological monitoring.
 
-Spontaneous myoclonus (irregular, jerking movements) can be a nonspecific sign of diffuse cerebral dysfunction, or it can represent seizure activity (myoclonic seizures), while flaccid extremities can indicate diffuse brain injury or injury to the brainstem. A focal motor defect in the extremities (e.g., hemiparesis or asymmetric reflexes) is a sign of a space-occupying lesion or a localized area of brain or spinal cord injury.
+Intravenous benzodiazepines represent the undisputed first-line pharmacotherapy for alcohol withdrawal delirium (17). Benzodiazepines directly stimulate the $\text{GABA}_\text{A}$ receptor, substituting for the absent depressant actions of ethanol and aborting central autonomic hyperreactivity.
 
-**RESPONSE TO PAIN:** A purposeful response to painful stimulation (e.g., limb withdrawal to pain) is not a feature of the comatose state. Instead, the response to pain is either purposeless or absent. The following responses are determined by a specific area of brain injury:
+Symptom-triggered intravenous therapy utilizing validated assessment tools (such as the Clinical Institute Withdrawal Assessment for Alcohol, Revised [CIWA-Ar] or the Minnesota Detoxification Scale) is preferred over rigid scheduled regimens in cooperative patients.
 
-- 1. With injury to the thalamus, painful stimuli provoke flexion of the upper extremities, which is called *decorticate posturing*.
-- 2. With injury to the midbrain and upper pons, the arms and legs extend and pronate in response to pain; this is called *decerebrate posturing*.
-- 3. With injury to the lower brainstem, the extremities remain flaccid during painful stimulation.
+#### Benzodiazepine Resistance and Propylene Glycol Toxicity
 
-#### *Eye Opening*
+In the ICU, intravenous lorazepam or diazepam is titrated rapidly to achieve calm, cooperative somnolence:
 
-Spontaneous eye opening is an indication of arousal, and is not consistent with the diagnosis of coma. Spontaneous eye opening can be associated with awareness (i.e., locked-in state) or lack of awareness (i.e., vegetative state).
+- 1. *Rapid Titration:* Administer lorazepam $2\text{–}4\text{ mg}$ IV every 5 to 10 minutes until agitation is controlled. Severely agitated patients may require massive cumulative doses (e.g., $30\text{–}40\text{ mg}$ of IV lorazepam or $150\text{–}200\text{ mg}$ of IV diazepam within 3 to 4 hours) (17).
+- 2. *Maintenance and Tapering:* Once stabilized, the dose is transitioned to scheduled or PRN boluses. Because benzodiazepines are highly lipophilic, they accumulate in adipose and brain tissue, delaying recovery and prolonging mechanical ventilation. Prompt tapering must commence as withdrawal abates.
+- 3. *Propylene Glycol Toxicity:* Intravenous formulations of lorazepam and diazepam utilize propylene glycol as a vehicle. Continuous infusions of lorazepam exceeding $0.1\text{ mg/kg/hr}$ sustained for $> 48\text{ hours}$ carry a high risk of propylene glycol toxicity, manifesting as hyperosmolality, unexplained high anion gap metabolic acidosis (lactic acidosis), and acute tubular necrosis (see Chapter 6).
 
-#### *Examination of Pupils*
+##### Alternative Agents and Nutritional Support
 
-The conditions that affect pupillary size and light reactivity are shown in [Table](#page-9-0) 45.4 [\(23](#page-15-21)[–25](#page-15-22)).
+In patients with benzodiazepine-refractory DTs (requiring escalating doses without calming):
 
-<span id="page-9-0"></span>
+- 1. *Phenobarbital:* A potent $\text{GABA}_\text{A}$ agonist and $\text{NMDA}$ antagonist. Intravenous boluses of $260\text{ mg}$ IV repeated every 15 to 20 minutes provide predictable, durable sedation with lower delirium rates (17).
+- 2. *Propofol and Dexmedetomidine:* Propofol ($10\text{–}50\ \mu\text{g/kg/min}$) provides rapid $\text{GABA}$ agonism, requiring endotracheal intubation. Dexmedetomidine blunts autonomic storming (tachycardia, hypertension) as an adjunct, but does not prevent withdrawal seizures.
+- 3. *Thiamine and Glucose Administration:* Chronic alcoholism exhausts thiamine stores. *Intravenous thiamine ($100\text{–}500\text{ mg}$ IV) must always be infused prior to or concurrently with glucose-containing solutions* (18). Glucose administration in thiamine-depleted states precipitates acute, irreversible Wernicke's encephalopathy (ataxia, ophthalmoplegia, confusion) and Korsakoff psychosis.
+- 4. *Gabapentin Withdrawal:* Abrupt cessation of high-dose gabapentin mimics alcohol or benzodiazepine withdrawal, presenting with severe tremors, agitation, and diaphoresis, responding to gabapentin reintroduction.
 
-| TABLE<br>45.4<br>Conditions<br>That<br>Affect<br>Pupillary<br>Size<br>and<br>Reactivity |                                                                                                                                               |  |  |  |  |
-|-----------------------------------------------------------------------------------------|-----------------------------------------------------------------------------------------------------------------------------------------------|--|--|--|--|
-| Pupil Size &<br>Reactivity                                                              | Associated Conditions                                                                                                                         |  |  |  |  |
-|                                                                                         | Atropine, anticholinergic toxicity, adrenergic agonists (e.g., dopamine), stimulant drugs (e.g.,<br>amphetamines), or nonconvulsive seizures. |  |  |  |  |
-|                                                                                         | Diffuse brain injury, hypothermia (<28° C), or brainstem compression from an expanding<br>intracranial mass or intracranial hypertension.     |  |  |  |  |
-|                                                                                         | Expanding intracranial mass (e.g., uncal herniation), ocular trauma or surgery, or focal seizure.                                             |  |  |  |  |
-|                                                                                         | Toxic/metabolic encephalopathy, sedative overdose, or neuromuscular blockade.                                                                 |  |  |  |  |
-|                                                                                         | Acute liver failure, postanoxic encephalopathy, or brain death.                                                                               |  |  |  |  |
-|                                                                                         | Horner's Syndrome                                                                                                                             |  |  |  |  |
-|                                                                                         | Opiate overdose, toxic/metabolic encephalopathy, hypercapnia, or pontine injury.                                                              |  |  |  |  |
+</div></details>
+</div></details>
 
-(+) and (-) indicate a reactive and nonreactive pupil, respectively. From References 23–25. Pupillary findings can be summarized as follows:
+<details class="med-details" open><summary>
 
-- 1. Dilated, reactive pupils can be the result of drugs (anticholinergics, CNS stimulants, or adrenergic agonists) or nonconvulsive seizures. Dilated, unreactive pupils can be the result of diffuse brain injury, brainstem compression from an expanding intracranial mass, or increased intracranial pressure.
-- 2. A unilateral, dilated and fixed pupil can be the result of ocular trauma or recent ocular surgery, or can be evidence of third cranial nerve dysfunction from an expanding intracranial mass.
-- 3. Mid-position, reactive pupils can be the result of a metabolic encephalopathy, a sedative overdose, or neuromuscular blocking drugs, while mid-position, unreactive pupils can be a sign of acute liver failure, postanoxic encephalopathy, or brain death.
-- 4. Small, reactive pupils can be the result of a metabolic encephalopathy, while pinpoint pupils can be the result of opioid overdose (pupils reactive) or damage in the pons (pupils unreactive).
+## Clinical Approach to Coma</summary><div class="details-content">
 
-#### *Ocular Motility*
+<details class="med-details" open><summary>
 
-Spontaneous eye movements (conjugate or disconjugate) are a nonspecific sign of a toxic or metabolic encephalopathy ([24\)](#page-15-23), while a fixed gaze preference (one or both eyes) is highly suggestive of a mass lesion or seizure activity.
+### Etiologies and Structural vs Metabolic Coma</summary><div class="details-content">
 
-#### *Ocular Reflexes*
+Coma is defined as a sustained state of deep, unarousable unresponsiveness in which the patient lies with eyes continuously closed and cannot be awakened by verbal or noxious tactile stimuli (1,19).
 
-The ocular reflexes are used to evaluate the functional integrity of the lower brainstem ([24\)](#page-15-23). These reflexes are illustrated in [Figure](#page-10-0) 45.3.
+Consciousness requires either an intact ascending reticular activating system (ARAS) in the brainstem or functional bilateral cerebral cortical hemispheres. Consequently, coma arises from one of three anatomical or functional mechanisms:
 
-<span id="page-10-0"></span>![](_page_10_Picture_4.jpeg)
+- 1. *Structural Supratentorial Lesions:* Expanding hemispheric mass lesions (hematoma, tumor, abscess, massive stroke) causing downward transtentorial herniation and secondary mechanical compression of the diencephalon and midbrain.
+- 2. *Structural Infratentorial Lesions:* Direct destructive or ischemic lesions of the brainstem tegmentum (basilar artery thrombosis, pontine hemorrhage, cerebellar infarction with compression).
+- 3. *Diffuse Metabolic and Toxic Encephalopathies:* Global neuronal failure resulting from anoxia/ischemia (post-cardiac arrest), hypoglycemia, severe hyponatremia, hepatic failure, uremia, hypothermia, sepsis, or sedative overdoses.
+
+</div></details>
+
+<details class="med-details" open><summary>
+
+### Bedside Neurological Examination</summary><div class="details-content">
+
+The rapid bedside evaluation of the comatose patient focuses on motor responses, pupillary size and reactivity, ocular motility, and brainstem cranial nerve reflexes (19–22).
+
+Motor responses to noxious stimuli (nailbed pressure or supraorbital notch compression) provide immediate anatomical localization:
+
+- 1. *Purposeful Motor Response:* The patient localizes to the painful stimulus or crosses the midline to push the examiner's hand away, indicating intact corticospinal pathways.
+- 2. *Decorticate Posturing (Abnormal Flexion):* Characterized by adduction and internal rotation of the upper arms with flexion at the elbows, wrists, and fingers, accompanied by leg extension. Reflects lesions in the cerebral hemispheres, internal capsule, or thalamus, with intact rubrospinal tracts in the midbrain.
+- 3. *Decerebrate Posturing (Abnormal Extension):* Characterized by rigid extension, adduction, and hyperpronation of the upper limbs with extension of the lower limbs and plantar flexion. Indicates severe destructive or compressive lesions of the midbrain or upper pons.
+- 4. *Flaccidity:* Total absence of motor tone and response, signifying profound lower brainstem destruction, catastrophic diffuse anoxia, or neuromuscular blockade.
+
+#### Pupillary Size and Light Reactivity
+
+Pupillary pathways are remarkably resistant to metabolic disturbances; therefore, the presence or absence of pupillary light reflexes is the single most valuable clinical discriminator between metabolic encephalopathy and structural brainstem injury (23).
+
+The clinical implications of various pupillary configurations are detailed in Table 45.4 (23–25).
+
+<details class="med-details" open><summary>
+
+#### <span id="tbl-45-4"></span>TABLE 45.4 Conditions That Affect Pupillary Size and Reactivity</summary><div class="details-content">
+
+| Pupil Size & Reactivity | Visual Icon | Implicated Clinical Conditions and Pathophysiology |
+| :--- | :---: | :--- |
+| **Dilated, Reactive (+)** | ![Dilated (+)](images/pupil_1760.png) | • Atropine and anticholinergic toxicity.<br>• Adrenergic agonists (dopamine, norepinephrine, epinephrine).<br>• Central nervous system stimulants (amphetamines, cocaine).<br>• Nonconvulsive status epilepticus. |
+| **Dilated, Unreactive (-)** | ![Dilated (-)](images/pupil_1762.png) | • Catastrophic diffuse cortical and brainstem death.<br>• Severe hypothermia (core temperature $< 28^\circ\text{C}$).<br>• Midbrain tectal compression from expanding intracranial mass.<br>• Extreme intracranial hypertension. |
+| **Unilateral Dilated, Fixed (-)** | ![Asymmetric](images/pupil_1764.png) | • Expanding supratentorial mass with uncal herniation compressing the ipsilateral oculomotor (CN III) nerve.<br>• Direct ocular trauma or surgical mydriasis.<br>• Focal seizure activity. |
+| **Mid-Position, Reactive (+)** | ![Mid-position (+)](images/pupil_1766.png) | • Toxic-metabolic encephalopathies (uremia, hepatic failure).<br>• Sedative-hypnotic overdose (benzodiazepines, barbiturates).<br>• Therapeutic neuromuscular blockade (pupillary reflex preserved). |
+| **Mid-Position, Unreactive (-)** | ![Mid-position (-)](images/pupil_1768.png) | • Acute fulminant liver failure.<br>• Severe postanoxic encephalopathy.<br>• Brain death (loss of sympathetic and parasympathetic innervation). |
+| **Small, Reactive (+)** | ![Small (+)](images/pupil_1770.png) | • Horner's syndrome (sympathetic chain disruption; associated with ptosis and anhidrosis).<br>• Early diencephalic herniation stage. |
+| **Pinpoint, Nonreactive (-)** | ![Pinpoint (-)](images/pupil_1772.png) | • Acute opioid overdose (intense miosis).<br>• Acute destructive pontine hemorrhage or pontine infarction.<br>• Organophosphate toxicity (cholinergic excess).<br>• Severe hypercapnic encephalopathy. |
+
+*(+) and (-) indicate reactive and nonreactive pupillary light reflexes, respectively. Adapted from neuro-critical care consensus reviews (References 23, 24, and 25).*
+
+</div></details>
+
+#### Ocular Motility and Brainstem Reflexes
+
+Evaluation of ocular position and brainstem ocular motility reflexes confirms functional integrity of the midbrain and pons, as illustrated in Figure 45.3.
+
+<span id="fig-45-3"></span>
+![FIGURE 45.3](images/_page_11_Figure_3.jpeg)
 
 **FIGURE 45.3** The ocular reflexes in the evaluation of coma.
 
-**OCULOCEPHALIC REFLEX:** The oculocephalic reflex is assessed by briskly rotating the head from side-to-side. When the cerebral hemispheres are impaired but the lower brainstem is intact, the eyes will deviate away from the direction of rotation and maintain a forward field of view. When the lower brainstem is damaged (or the patient is awake), the eyes will follow the direction of head rotation. The oculocephalic reflex should *not* be attempted in patients with an unstable cervical spine.
+- 1. *Resting Eye Position:* Conjugate lateral eye deviation directs gaze toward the side of a destructive frontal lobe lesion (the patient "looks at the lesion"), or away from an irritative seizure focus. In contrast, unilateral gaze deviation away from the side of hemiparesis occurs in destructive unilateral pontine lesions.
+- 2. *Oculocephalic Reflex (Doll's Eyes):* Evaluated only after cervical spine trauma is excluded. In a comatose patient with an intact brainstem, rapid passive rotation of the head horizontally to one side induces conjugate contraversive eye movement (the eyes move in the opposite direction of head turning, maintaining straight forward gaze). Complete absence of conjugate movement (eyes remain fixed in orbit like doll's eyes) denotes severe pontine-midbrain injury.
+- 3. *Oculovestibular Reflex (Cold Caloric Testing):* Prior to testing, otoscopic examination must confirm an intact tympanic membrane and unobstructed external auditory canal. The head is elevated $30^\circ$ to place the horizontal semicircular canal vertically. Cold saline ($50\text{ mL}$ of ice-cold water) is infused into the external canal over 30 to 60 seconds. In an unconscious patient with an intact brainstem, tonic conjugate deviation of both eyes toward the irrigated ear occurs within 1 minute. Absence of conjugate deviation denotes pontine injury. Allow 5 minutes before testing the contralateral ear.
+- 4. *Corneal, Gag, and Cough Reflexes:* The corneal reflex (touching the cornea with a cotton wisp to elicit blinking) assesses trigeminal (CN V) afferents and facial (CN VII) efferents. Gag (stimulation of posterior pharynx) and cough (suctioning via endotracheal tube) evaluate glossopharyngeal (CN IX) and vagus (CN X) lower brainstem pathways.
 
-**OCULOVESTIBULAR REFLEX:** The oculovestibular reflex is performed by injecting 50 mL of cold saline in the external auditory canal of each ear (using a 50 mL syringe and a 2-inch soft plastic angiocatheter). Before the test is performed, check to make sure that the tympanic membrane is intact and that nothing is obstructing the ear canal. When brainstem function is intact, both eyes will deviate slowly towards the irrigated ear. This conjugate eye movement is lost when the lower brainstem is damaged. After the test is performed on one side, wait 5 minutes before testing the opposite side.
+</div></details>
 
-#### **The Glascow Coma Score**
+<details class="med-details" open><summary>
 
-The Glasgow Coma Scale, which is shown in [Table](#page-11-0) 45.5, was introduced to evaluate the severity of traumatic brain injuries (26,27), but has since been adopted for use in nontraumatic brain injuries (28). The Scale consists of three components: 1) eye opening, 2) verbal communication, and 3) motor response to verbal or noxious stimulation. The *Glasgow Coma Score* (GCS) is the sum of the three components. A minimum score of 3 indicates total absence of awareness and responsiveness, while a maximum score of 15 is normal.
+### The Glasgow Coma Scale</summary><div class="details-content">
 
-<span id="page-11-0"></span>
+The Glasgow Coma Scale (GCS), detailed in Table 45.5, is the international benchmark for grading level of consciousness and coma depth (26–28).
 
-| TABLE<br>45.5                                                                                                                                                               | The<br>Glasgow<br>Coma<br>Scale<br>and<br>Score |                            |        |
-|-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------|-------------------------------------------------|----------------------------|--------|
-|                                                                                                                                                                             |                                                 |                            | Points |
-| Eye Opening:<br>Spontaneous<br>To speech<br>To pain<br>None                                                                                                                 |                                                 | 4<br>3<br>2<br>1           |        |
-| Verbal Communication:<br>Oriented<br>Confused conversation<br>Inappropriate but recognizable words<br>Incomprehensible sounds<br>None                                       |                                                 | 5<br>4<br>3<br>2<br>1      |        |
-| Motor Response:<br>Obeys commands<br>Localizes to pain<br>Withdraws to pain<br>Abnormal flexion (decorticate response)<br>Abnormal extension (decerebrate response)<br>None |                                                 | 6<br>5<br>4<br>3<br>2<br>1 |        |
-| Glasgow Coma Score (Total of 3 Scales)*                                                                                                                                     |                                                 |                            |        |
+The total GCS score represents the mathematical sum of three behavioral domains: eye opening (scored 1 to 4), best verbal response (scored 1 to 5), and best motor response (scored 1 to 6).
 
-<sup>\*</sup>Worst score is 3 points, and best score is 15 points. With endotracheal intubation, the highest score is 11.
+<details class="med-details" open><summary>
 
-#### *Interpretations*
+#### <span id="tbl-45-5"></span>TABLE 45.5 The Glasgow Coma Scale and Score</summary><div class="details-content">
 
-The GCS is not reliable in patients who are paralyzed, heavily sedated, or hypotensive.
+| Behavioral Assessment Domain | Best Observed Clinical Response | Allocated Points |
+| :--- | :--- | :---: |
+| **Eye Opening Response** | • Spontaneous eye opening<br>• To verbal command or speech<br>• To painful noxious stimulus<br>• None | 4<br>3<br>2<br>1 |
+| **Best Verbal Response** | • Oriented and converses normally<br>• Confused conversation, disoriented<br>• Inappropriate, recognizable words<br>• Incomprehensible sounds / moaning<br>• None | 5<br>4<br>3<br>2<br>1 |
+| **Best Motor Response** | • Obeys motor commands<br>• Localizes to painful noxious stimulus<br>• Flexion withdrawal from pain<br>• Abnormal flexion (decorticate rigidity)<br>• Abnormal extension (decerebrate rigidity)<br>• None (flaccidity) | 6<br>5<br>4<br>3<br>2<br>1 |
+| **Total Glasgow Coma Score\*** | **Sum of Three Behavioral Subscores** | **3 to 15** |
 
-Otherwise, the GCS (best score) can be used as follows:
+*\*Total score ranges from a minimum of 3 (deepest coma / brain death) to a maximum of 15 (normal sensorium). In endotracheally intubated patients, the verbal score cannot be assessed; by convention, a verbal pseudoscore of 1 is assigned, yielding a maximum intubated GCS of 11 (designated as GCS 11T).*  
+*Adapted from References 26, 27, and 28.*
 
-- 1. To define coma (GCS ≤8).
-- 2. To stratify the severity of head injury (mild: GCS = 13–15, moderate: GCS = 9–12, severe: GCS ≤8) (26,27).
-- 3. To identify candidates for intubation; i.e., airway protective reflexes are typically defective at a GCS ≤8, which is used as an indication for endotracheal intubation.
-- 4. As a prognostic marker; e.g., in the initial evaluation of nontraumatic coma, patients with a GCS ≤6 are seven-times more likely to awaken than patients with a GCS ≤5 (27).
+</div></details>
 
-**INTUBATED PATIENTS:** One of the major shortcomings of the Glascow Coma Scale is the inability of evaluate verbal responses in intubated patients. These patients are assigned a verbal "pseudoscore" of 1 (for a maximum GCS of 11).
+#### Clinical Interpretation and Limitations of the GCS
 
-# **BRAIN DEATH**
+Head trauma is stratified by initial GCS into mild (GCS 13–15), moderate (GCS 9–12), and severe (GCS $\le 8$, historically defining coma and mandating endotracheal intubation for airway protection).
 
-The Uniform Determination of Death Act states that "An individual who has sustained either (*a*) irreversible cessation of circulatory and respiratory functions, or (*b*) irreversible cessation of all functions of the entire brain, including the brainstem, is dead" (29). The evaluation of these requirements is the purpose of the brain death determination.
+However, the GCS has critical operational limitations:
 
-Brain death is not a common consequence of the nontraumatic coma that is typically encountered in the ICU. It is most often the result of traumatic brain injury or intracerebral hemorrhage, where increases in intracranial pressure are sufficient to cause complete cessation of cerebral blood flow (30). Suspicion of brain death is often prompted by the absence of pupillary light reflexes, or the lack of spontaneous breathing efforts during mechanical ventilation.
+- 1. *Confounding Factors:* GCS scores are unreliable in patients receiving therapeutic neuromuscular paralysis, deep sedation, or suffering profound shock, hypothermia, or orbital facial trauma.
+- 2. *The Intubated Patient:* In endotracheally intubated patients, verbal performance cannot be assessed. Assigning a pseudoscore of 1 artificially depresses the total score and obscures neurological tracking. The Full Outline of UnResponsiveness (FOUR) score has emerged as an attractive alternative, evaluating Eye, Motor, Brainstem, and Respiration domains without requiring verbal output.
 
-# **Prerequisite Conditions**
+</div></details>
+</div></details>
 
-A checklist for the brain death determination in adults is shown in [Table](#page-13-0) 45.6 (30–32). This checklist begins with conditions that must be satisfied before the brain death determination is performed. The following are some points of interest about the prerequisite conditions.
+<details class="med-details" open><summary>
 
-- 1. Although a systolic pressure ≥100 mm Hg is included as one of the conditions, the mean arterial pressure is the more important physiological pressure, and should be measured if an arterial catheter is in place. Note that the required mean arterial pressure (≥75 mm Hg) is higher than usual target for treating hypotension (≥65 mm Hg). This will help to counteract the effect of increased intracranial pressure to impede cerebral perfusion.
-- 2. The absence of effects from CNS-suppressant drugs can be difficult to determine if sedative drugs were used recently. When blood levels of a sedating drug are not available, waiting 5 half-lives since the last dose is recommended to ensure drug clearance from the bloodstream (although this does not guarantee clearance from the brain) (31).
-- 3. If targeted temperature management was used with a target below 36° C, then a body temperature of >36° C should be maintained for at least 24 hours before the brain death determination (31).
+## Brain Death Determination in Adults</summary><div class="details-content">
 
-When the prerequisite conditions are satisfied, the brain death determination can begin. This includes two assessments that are separated by at least 12 hours. One examiner is considered sufficient (in adults) if the examiner is experienced in the task.
+<details class="med-details" open><summary>
 
-<span id="page-13-0"></span>
+### Legal Definition and Prerequisite Conditions</summary><div class="details-content">
 
-| TABLE<br>45.6<br>Checklist<br>for<br>Brain<br>Death<br>Determination<br>in<br>Adults                                                                                                                                                                                                                                                                                                                                                                                                          |                                 |  |
-|-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|---------------------------------|--|
-| Instructions:<br>The patient can be declared legally dead if Steps 1–4 are cofirmed, or there is a positive<br>confirmatory test.                                                                                                                                                                                                                                                                                                                                                             | Check (√) Item if<br>Confirmed  |  |
-| Step 1: Prerequisites:<br>All of the following conditions should be satisfied prior to the brain death determination.<br>• At least 48 hrs has elapsed since the brain injury.<br>• The systolic pressure is ≥100 mm Hg, or the mean arterial pressure is ≥75 mm Hg.<br>• The body temperature is >36° C (96.8° F).<br>• There is no hypothyroidism or hypoglycemia.<br>• There are no CNS-depressant drug effects.                                                                           |                                 |  |
-| Step 2: Establish the Cause of Coma:<br>The cause of coma is known, and is sufficient to cause irreversible brain death.                                                                                                                                                                                                                                                                                                                                                                      |                                 |  |
-| Step 3: Absence of Brain, and Brainstem, Function:<br>Two examinations are required, separated by at least 12 hrs. A single examiner is sufficient,<br>if adequately trained.<br>A. The patient is comatose (unaware and unresponsive).<br>B. The following brainstem reflexes are absent:<br>• Absent pupillary response to bright light.<br>• Absent corneal reflex.<br>• Absent gag and cough reflexes<br>• Absent oculocephalic reflex<br>• Absent oculovestibular reflexes (bilaterally) | First<br>Second<br>Exam<br>Exam |  |
-| Step 4: Absence of Spontaneous Breathing Efforts:<br>There are no spontaneous breathing efforts when the arterial PCO2<br>is >60 mm Hg, and >20<br>mm Hg above the patient's baseline level.                                                                                                                                                                                                                                                                                                  |                                 |  |
-| Step 5: Confirmatory Tests:<br>Confirmatory tests are indicated only when Steps 1–4 cannot be completed or unequivocally interpreted.<br>Acceptable tests are (1) transcranial Doppler ultrasound, (2) radionuclide cerebral blood flow scan, or (3) 4-vessel<br>catheter angiography.                                                                                                                                                                                                        |                                 |  |
+Under the Uniform Determination of Death Act (UDDA), death is legally established by either: (*a*) irreversible cessation of circulatory and respiratory functions, or (*b*) irreversible cessation of all functions of the entire brain, including the brainstem (29).
 
-Adapted from the clinical practice guideline in Reference 31.
+Brain death in the adult ICU is predominantly the consequence of devastating traumatic brain injury, massive subarachnoid or intracerebral hemorrhage, or severe anoxic-ischemic encephalopathy following cardiac arrest, where overwhelming intracranial hypertension arrests all cerebral microvascular perfusion (30).
 
-#### *Brainstem Reflexes*
+Before initiating the clinical examination for brain death, strict prerequisite criteria must be fulfilled, as outlined in Table 45.6 (30–32).
 
-The brain death determination begins with an evaluation of the reflexes that require a functioning brainstem: i.e., the corneal and pupillary light reflexes, the oculocephalic and oculovestibular reflexes, and the gag and cough reflexes. All these reflexes must be absent to proceed with the evaluation.
+<details class="med-details" open><summary>
 
-# **The Apnea Test**
+#### <span id="tbl-45-6"></span>TABLE 45.6 Checklist for Brain Death Determination in Adults</summary><div class="details-content">
 
-The most convincing evidence of brain death is the absence of spontaneous breathing efforts in the face of an increased arterial PCO<sup>2</sup> (PaCO<sup>2</sup> ). (*Note:* CO<sup>2</sup> is a potent respiratory stimulant: i.e.,
+| Diagnostic Protocol Stage | Required Clinical Benchmark and Verification Protocol | Completed |
+| :--- | :--- | :---: |
+| **Step 1: Baseline Prerequisites** | • Clear neuroimaging demonstration of catastrophic irreversible brain injury.<br>• Minimum observation time of $\ge 48\text{ hours}$ post-cardiac arrest or trauma.<br>• Hemodynamic stability: systolic $\text{BP} \ge 100\text{ mmHg}$ or mean arterial pressure $\ge 75\text{ mmHg}$.<br>• Core body temperature $> 36^\circ\text{C}$ ($> 96.8^\circ\text{F}$) maintained for $\ge 24\text{ hours}$.<br>• Complete exclusion of CNS-depressant drugs (waiting $\ge 5$ half-lives since last dose).<br>• Normal metabolic indices: no profound hypoglycemia, electrolyte crisis, or severe hypothyroidism. | [  ] |
+| **Step 2: Etiology of Coma** | • The exact underlying proximal cause of coma is definitively identified and sufficient to account for irreversible loss of all brain functions. | [  ] |
+| **Step 3: Clinical Brainstem Examination** | Two independent examinations separated by $\ge 12\text{ hours}$ (single qualified examiner sufficient):<br>• Complete coma: total unresponsiveness and lack of awareness.<br>• Bilateral absent pupillary light reflexes (mid-position or dilated, fixed).<br>• Bilateral absent corneal reflexes.<br>• Bilateral absent oculocephalic reflexes.<br>• Bilateral absent oculovestibular reflexes (cold caloric with $50\text{ mL}$ ice water).<br>• Absent gag and cough reflexes (deep endotracheal suctioning). | [  ] |
+| **Step 4: The Apnea Test** | • Spontaneous breathing efforts remain absent during formal apnea testing when arterial $\text{PaCO}_2$ rises to $\ge 60\text{ mmHg}$ and $\ge 20\text{ mmHg}$ above baseline, accompanied by arterial $\text{pH} < 7.28$. | [  ] |
+| **Step 5: Ancillary Confirmatory Testing\*** | • Indicated *only* when Steps 1–4 cannot be safely completed or interpreted (e.g., severe hypoxemia during apnea test, severe facial trauma).<br>• Acceptable tests: (1) 4-vessel conventional catheter cerebral angiography, (2) Radionuclide cerebral blood flow scintigraphy, or (3) Transcranial Doppler ultrasound. | [  ] |
 
-an increase in PaCO<sup>2</sup> of only 1 mm Hg will increase the minute ventilation by 2 L/min (32).) The evaluation of spontaneous breathing efforts is called the *apnea test*, and it proceeds as follows:
+*\*Ancillary testing is not legally mandatory when clinical examination and the apnea test are unambiguously completed.*  
+*Checklist adapted from American Academy of Neurology (AAN) consensus guidelines (References 30, 31, and 32).*
 
-- 1. Prior to the test, the patient is preoxygenated with 100% O<sup>2</sup> , and an arterial blood gas is obtained to establish the baseline PaCO<sup>2</sup> .
-- 2. The patient is then separated from the ventilator and oxygen is insufflated into the endotracheal tube (apneic oxygenation) to help prevent O<sup>2</sup> desaturation during the apneic period.
-- 3. The goal of the apnea test is to allow the PaCO<sup>2</sup> to rise 20 mm Hg above baseline. The PaCO<sup>2</sup> rises about 3 mm Hg per minute during apnea at normal body temperatures (33), so an apnea period of 6–7 minutes should be sufficient for reaching the target PaCO<sup>2</sup> . A repeat arterial blood gas is obtained at the end of the apnea period, and the patient is placed back on the ventilator.
-- 4. If apnea persists despite a rise in PaCO<sup>2</sup> ≥20 mm Hg, the test confirms the diagnosis of brain death.
-- 5. If the second apnea test confirms the diagnosis of brain death, *the time of death is the time that the second blood gas results became available* (31). However, patients are often kept on mechanical ventilation for a short period of time after this, to allow family members to have a final visit with the patient.
+</div></details>
+</div></details>
 
-The apnea test is risky, because O<sup>2</sup> desaturation, hypotension, and serious cardiac arrhythmias can appear during the apnea period (34). If the apnea test cannot be completed, confirmatory testing is required to establish the diagnosis of brain death.
+<details class="med-details" open><summary>
 
-## *Lazarus' Sign*
+### Clinical Examination and the Apnea Test</summary><div class="details-content">
 
-Brain-dead patients can exhibit brief, spontaneous movements of the head, torso, or upper extremities (*Lazarus' Sign*), especially after they are removed from the ventilator (35). These movements are the result of neuronal discharges in the cervical spinal cord, possibly in response to hypoxemia, and they can be a source of angst when they appear after the patient has been pronounced brain dead and is removed from the ventilator.
+When all prerequisite conditions are established, the clinical examination for brain death requires verifying the complete absence of all cerebral and brainstem reflexes on two serial examinations separated by at least 12 hours (31).
 
-#### *Confirmatory Tests*
+All brainstem cranial nerve reflexes must be absent: nonreactive pupils, absent corneal reflexes, absent oculocephalic and oculovestibular responses, and absent pharyngeal gag and tracheobronchial cough reflexes.
 
-The acceptable confirmatory tests are included in [Table](#page-13-0) 45.6. Confirmatory tests that are not considered acceptable include electroencephalography (EEG), auditory and somatosensory evoked potentials, computed tomographic angiography, and magnetic resonance angiography (31).
+#### Technique and Pitfalls of the Apnea Test
 
-# **A FINAL WORD**
+The apnea test provides the ultimate clinical proof of brainstem respiratory center death. Carbon dioxide is the most potent physiological stimulus to the medullary respiratory center. The test must be performed rigorously to avoid severe hypoxemia or cardiovascular collapse (31):
 
-## **Family Care**
+- 1. *Pre-oxygenation Phase:* Adjust baseline mechanical ventilation to achieve normocapnia ($\text{PaCO}_2\ 35\text{–}45\text{ mmHg}$) and pre-oxygenate with $100\%\ \text{FiO}_2$ for at least 10 minutes to wash out nitrogen and ensure arterial $\text{PaO}_2 > 200\text{ mmHg}$.
+- 2. *Disconnection and Insufflation:* Disconnect the mechanical ventilator and insert an oxygen insufflation catheter into the endotracheal tube to the level of the carina, delivering $100\%\ \text{O}_2$ at 6 to $8\text{ L/min}$ (or deliver continuous positive airway pressure [CPAP] with $100\%\ \text{O}_2$).
+- 3. *Apnea Observation:* Observe the patient continuously for 8 to 10 minutes for any spontaneous respiratory effort (chest excursions or abdominal breathing). In complete apnea, $\text{PaCO}_2$ rises at approximately $3\text{ mmHg/min}$.
+- 4. *Confirmatory Blood Gas:* Draw an arterial blood gas after 8 to 10 minutes. *The test is positive (confirming brain death) if respiratory efforts remain completely absent while $\text{PaCO}_2$ reaches $\ge 60\text{ mmHg}$ and is at least $20\text{ mmHg}$ above baseline, with arterial $\text{pH} < 7.28$*.
+- 5. *Premature Termination:* If the patient develops severe hypotension (systolic $\text{BP} < 90\text{ mmHg}$), significant cardiac arrhythmias, or oxygen desaturation ($\text{SpO}_2 < 85\%$), the test must be aborted immediately, the patient reconnected to the ventilator, and an ancillary confirmatory test performed.
 
-In the care of the patient with persistent coma or a persistent vegetative state, spending time with the patient's family and/or close acquaintances to explain what is happening (and what is likely
+##### Spinal Reflexes and Lazarus' Sign
 
-to happen), is as vital as patient care. These people will look to you for guidance in making endof-life decisions, and avoiding *the conspiracy of silence* (36) is one of the greatest services you can perform as a physician.
+Spinal cord reflexes may persist in patients who are brain dead because the spinal cord receives its blood supply from segmental radicular and vertebral arteries, independent of intracranial circulation (31,33).
 
-## *References*
+Spinal responses include triple flexion of the lower extremities, abdominal reflexes, and complex movements of the upper limbs. The most striking is the *Lazarus' sign* (or Lazarus complex), where noxious tactile stimulation or neck flexion elicits bilateral arm elevation, crossed flexion over the chest, or seated postural flexing movements (33). These dramatic movements represent spinal reflex arcs and do *not* reflect brainstem function.
 
-#### *Altered Consciousness*
+##### Ancillary Confirmatory Testing
 
-- <span id="page-15-0"></span>1. Young GB, Wijdicks EFM. Consciousness: its neurologic relevance. Handb Clin Neurol 2008; 90:33–36.
-- <span id="page-15-24"></span>2. Howard RS. Stupor and coma. Handb Clin Neurol 2008; 90:57–78.
-- <span id="page-15-1"></span>3. Leon-Carrion J, van Eeckhout P, Dominguez-Morales Mdel R. The locked-in syndrome: a syndrome looking for a therapy. Brain Inj 2002; 16:555–569.
-- <span id="page-15-2"></span>4. The Multi-Society Task Force on PVS. Medical aspects of the persistent vegetative state (Part 1). N Engl J Med 1994; 330:1499–1508.
+Ancillary confirmatory testing is required only when prerequisites cannot be satisfied (e.g., metabolic or drug confounders), when severe facial trauma prevents eye examination, or when cardiopulmonary instability prevents completion of the apnea test (31).
 
-#### *Delirium*
+Acceptable confirmatory modalities include (31):
 
-- <span id="page-15-3"></span>5. Stollings JL, Kotfis K, Chanques G, et al. Delirium in critical illness: clinical manifestations, outcomes, and management. Intensive Care Med 2021; 47:1089–1103.
-- <span id="page-15-4"></span>6. Ely EW, Inouye SK, Bernard GR, et al. Delirium in mechanically ventilated patients. Validity and reliability of the Confusion Assessment Method for the Intensive Care Unit. JAMA 2001; 286:2703–2710.
-- <span id="page-15-5"></span>7. Ely EW, Margolin R, Francis J, et al. Evaluation of delirium in critically ill patients: Validation of the Confusion Assessment Method for the Intensive Care Unit (CAM-ICU). Crit Care Med 2001; 29:1370–1379.
-- <span id="page-15-6"></span>8. Reade MC, Finfer S. Sedation and delirium in the ICU. N Engl J Med 2014; 370:444–454.
-- <span id="page-15-7"></span>9. Fraser GL, Devlin JW, Worby CP, et al. Benzodiazepine versus nonbenzodiazepine-based sedation for mechanically ventilated, critically ill adults: a systematic review and meta-analysis of randomized trials. Crit Care Med 2013; 41(9 Suppl 1):S30–S38.
-- <span id="page-15-8"></span>10. Devlin JW, Skrobik Y, Gélinas C, et al. Clinical practice guidelines for prevention and management of pain, agitation/sedation, delirium, immobility, and sleep disruption in adult patients in the ICU. Crit Care Med 2018; 46:e825– e873.
-- <span id="page-15-9"></span>11. Webster R, Holroyd S. Prevalence of psychotic symptoms in delirium. Psychosomatics 2000; 41:519–522.
-- <span id="page-15-10"></span>12. McGuire BE, Basten CJ, Ryan CJ, et al. Intensive care unit syndrome: a dangerous misnomer. Arch Intern Med 2000; 160:906–909.
-- <span id="page-15-11"></span>13. Girard TD, Exline MC, Carson SS, et al. Haloperidol and ziprasidone for treatment of delirium in critical illness. N Engl J Med 2018; 379:2506–2516.
-- <span id="page-15-12"></span>14. Bannon L, McGaughey J, Verghis R, et al. The effectiveness of non-pharmacological interventions in reducing the incidence and duration of delirium in critically ill patients: a systematic review and meta-analysis. Intensive Care Med 2019; 45:1–12.
+- 1. *Four-Vessel Conventional Cerebral Angiography:* Demonstrates absence of intracerebral contrast opacification at the base of the skull (carotid siphon and vertebral arteries).
+- 2. *Radionuclide Cerebral Blood Flow Scintigraphy:* Utilizes technetium-99m hexamethylpropyleneamine oxime ($^{99\text{m}}\text{Tc}$-HMPAO) with planar or SPECT imaging, demonstrating complete absence of intracranial tracer uptake (the "empty skull" or "hollow skull" sign).
+- 3. *Transcranial Doppler (TCD) Ultrasonography:* Demonstrates persistent reverberating flow (systolic spikes with early diastolic flow reversal) or complete absence of flow in bilateral middle cerebral and basilar arteries across two evaluations $\ge 30\text{ minutes}$ apart.
 
-#### <span id="page-15-13"></span>*Alcohol Withdrawal*
+*Electroencephalography (EEG) and evoked potentials are no longer considered definitive primary confirmatory tests in modern guidelines due to technical susceptibility to ICU electrical artifacts*.
 
-- 15. Krystal JH, Staley J, Mason G, et al. Gamma-aminobutyric acid type A receptors and alcoholism: intoxication, dependence, vulnerability, and treatment. Arch Gen Psychiatry 2006; 63:957–968.
-- <span id="page-15-14"></span>16. Tetrault JM, O'Connor PG. Substance abuse and withdrawal in the critical care setting. Crit Care Clin 2008; 24:767–788.
-- <span id="page-15-15"></span>17. American Society of Addiction Medicine. The ASAM clinical practice guideline on alcohol withdrawal management. January 23, 2020. Available at [www.asam.org](http://www.asam.org) (Accessed 5/26/2024).
-- <span id="page-15-16"></span>18. D'Onofrio G, Rathlev N, Ulrich A, et al. Lorazepam for the prevention of recurrent seizures related to alcohol. N Engl J Med 1999; 340:915–919.
-- <span id="page-15-17"></span>19. Hoffman RS, Weinhouse GL. Management of moderate and severe alcohol withdrawal syndromes. [www.UpToDate.com](http://www.UpToDate.com) (Accessed on 6/3/2024).
-- <span id="page-15-18"></span>20. Mueller SW, Preslaski CR, Kiser TH, et al. A randomized, double-blind, placebo-controlled dose range study of dexmedetomidine as adjunctive therapy for alcohol withdrawal. Crit Care Med 2014; 42:1131–1139.
-- <span id="page-15-19"></span>21. Attard O, Dietermann JL, Diemunsch P, et al. Wernicke encephalopathy: a complication of parenteral nutrition diagnosed by magnetic resonance imaging. Anesthesiology 2006; 105:847–848.
-- <span id="page-15-20"></span>22. Mersfelder TL, Nichols WH. Gabapentin: abuse, dependence, and withdrawal. Ann Pharmacother 2016; 50:229–233.
+</div></details>
+</div></details>
 
-#### <span id="page-15-21"></span>*Coma*
+<details class="med-details" open><summary>
 
-- 23. Stevens RD, Bhardwaj A. Approach to the comatose patient. Crit Care Med 2006; 34:31–41.
-- <span id="page-15-23"></span>24. Bateman DE. Neurological assessment of coma. J Neurol Neurosurg Psychiatry 2001; 71:i13–17.
-- <span id="page-15-22"></span>25. Wijdicks EFM. Neurologic manifestations of pharmacologic agents commonly used in the intensive care unit. In: *Neurology of critical illness*. Philadelphia: F.A. Davis, Co., 1995:3–17.
+## A Final Word: Family Care and End-of-Life Communication</summary><div class="details-content">
+
+<details class="med-details" open><summary>
+
+### Ethical Communication with Grieving Families</summary><div class="details-content">
+
+The diagnosis of brain death presents an extraordinary psychological crisis for families. Communicating this diagnosis requires compassionate, transparent, and unambiguous terminology (34).
+
+Clinicians should avoid using contradictory phrases such as "keeping the patient alive on life support," which implies that the deceased individual is still living. Instead, physicians should clearly state that the patient has died, and that the mechanical ventilator is providing oxygenation to organs while death has already occurred.
+
+When brain death is confirmed, the medical team has an ethical and legal obligation to notify the regional organ procurement organization (OPO) prior to any discussions regarding organ donation, honoring the potential wishes of the patient and family to provide lifesaving gifts to others (34).
+
+</div></details>
+</div></details>

@@ -10,9 +10,9 @@
 
 ### Aortic Stenosis: Pathophysiology and Clinical Impact
 * **Etiology:** In developed countries, degenerative calcific AS resembles atherosclerosis with lipid‑laden plaques, inflammation, and calcification; risk factors include hyperlipidaemia, hypertension, and metabolic syndrome. Bicuspid aortic valve (1‑2% of population) is the most common congenital cause, with stenosis occurring 1‑2 decades earlier than in trileaflet valves. Rheumatic AS predominates in developing regions.
-* **Natural history:** Asymptomatic phase with low mortality (~1%/year); once symptoms (angina, syncope, heart failure) develop, mortality rises to ~25%/year. Symptoms are the main trigger for intervention.
-* **Pressure overload:** Reduction of aortic valve area (AVA) from 3.0 cm² to 1.0 cm² produces a 25‑mm Hg gradient; further reduction to 0.5 cm² yields ~100‑mm Hg gradient. LV compensates with concentric hypertrophy, but this leads to diastolic dysfunction, reduced coronary reserve, and eventual systolic failure.
-* **Angina:** Occurs in ~35% of patients even with normal coronaries, due to reduced coronary flow reserve (LVH limits increase to only 2‑3‑fold) and increased end‑diastolic pressure impairing subendocardial perfusion.
+* **Natural history:** Asymptomatic phase with low mortality (~ 1%/year); once symptoms (angina, syncope, heart failure) develop, mortality rises to ~ 25%/year. Symptoms are the main trigger for intervention.
+* **Pressure overload:** Reduction of aortic valve area (AVA) from 3.0 cm² to 1.0 cm² produces a 25‑mm Hg gradient; further reduction to 0.5 cm² yields ~ 100‑mm Hg gradient. LV compensates with concentric hypertrophy, but this leads to diastolic dysfunction, reduced coronary reserve, and eventual systolic failure.
+* **Angina:** Occurs in ~ 35% of patients even with normal coronaries, due to reduced coronary flow reserve (LVH limits increase to only 2‑3‑fold) and increased end‑diastolic pressure impairing subendocardial perfusion.
 * **Heart failure:** Reduced LV compliance raises filling pressures → heart failure with preserved EF; long‑standing overload leads to excessive afterload, reduced EF, and decreased contractility (impaired Ca²⁺ handling, apoptosis, cytoskeletal changes).
 * **Syncope:** Almost always exertional; fixed obstruction prevents increase in cardiac output while peripheral vasodilation occurs, causing a fall in blood pressure.
 

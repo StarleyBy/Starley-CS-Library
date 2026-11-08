@@ -562,6 +562,8 @@ ACC, Американский колледж кардиологов; ИАПФ, �
 
 </div></details>
 
+</div></details>
+
 <details class="med-details"><summary>
 
 ## ОСТРАЯ АРТЕРИАЛЬНАЯ ОККЛЮЗИЯ</summary><div class="details-content">

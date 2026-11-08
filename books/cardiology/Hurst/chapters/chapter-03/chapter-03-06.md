@@ -28,9 +28,9 @@
 
 ### Safety
 * **Metallic and electronic devices:** Ferromagnetic objects can become projectiles. MRI‑compatible materials only in the magnet room. All current coronary stents and prosthetic valves are safe and can be imaged immediately. Pacemakers/ICDs traditionally absolute contraindications; newer MRI‑compatible devices available but require strict protocols.
-* **Nephrogenic systemic fibrosis (NSF):** Associated with GBCA use in advanced kidney disease (eGFR < 30 mL/min/m²). Incidence ~1–7% in this population. Avoid GBCA if eGFR < 30 mL/min/m²; caution for eGFR 30–40 mL/min/m². Prompt hemodialysis after test considered for dialysis patients.
+* **Nephrogenic systemic fibrosis (NSF):** Associated with GBCA use in advanced kidney disease (eGFR < 30 mL/min/m²). Incidence ~ 1–7% in this population. Avoid GBCA if eGFR < 30 mL/min/m²; caution for eGFR 30–40 mL/min/m². Prompt hemodialysis after test considered for dialysis patients.
 * **Pregnancy and lactation:** No conclusive evidence of harm, but no solid safety data. CMR not routinely recommended; can be performed if benefits outweigh risks. GBCAs cross the placental barrier; minimal excretion in breast milk (12–24 hour interruption occasionally recommended).
-* **Other:** Magnetic gradients can cause peripheral tingling; loud noise requires ear protection. Claustrophobia precludes ~4% of patients; ~50% of these can undergo test with mild sedation.
+* **Other:** Magnetic gradients can cause peripheral tingling; loud noise requires ear protection. Claustrophobia precludes ~ 4% of patients; ~ 50% of these can undergo test with mild sedation.
 
 ### Ischemic Heart Disease — Stress Testing
 * **Unique capability:** CMR can assess both myocardial perfusion and wall motion in a single test without ionizing radiation. Appropriate for high pretest probability CAD, intermediate pretest probability with uninterpretable ECG or inability to exercise, and abnormal or uncertain exercise ECG.
@@ -38,12 +38,12 @@
 * **Dobutamine stress:** Increasing doses up to 50 μg/kg/min + atropine to achieve 85% of maximum predicted HR. LV divided into 17 segments; wall motion scored 1–4. Ischemia = deterioration of ≥1 segment score. Sensitivity 78–96% for ≥50% stenoses.
 * **Contractile reserve and viability:** Low‑dose dobutamine (7.5–10 μg/kg/min) identifies segments with potential for functional recovery after revascularization. Complementary to LGE; particularly useful when LGE is intermediate (1–50% transmurality).
 * **Vasodilator stress:** Adenosine, dipyridamole, or regadenoson. Stress perfusion + rest perfusion + LGE. Sensitivity and specificity both >90% for flow‑limiting stenoses. High spatial resolution identifies subendocardial defects. Comparable or superior to SPECT; CE‑MARC trial showed higher sensitivity with similar specificity.
-* **Prognosis:** Negative CMR stress test → NPV for nonfatal MI and cardiac death ~98.1%; annualized event rate 1.03%. Abnormal perfusion → ~10‑fold risk of future hard events.
+* **Prognosis:** Negative CMR stress test → NPV for nonfatal MI and cardiac death ~ 98.1%; annualized event rate 1.03%. Abnormal perfusion → ~ 10‑fold risk of future hard events.
 * **Cost‑effectiveness:** CMR‑guided chest pain observation unit pathways reduce initial visit costs and 1‑year costs by reducing unnecessary hospitalizations, catheterizations, and revascularizations.
 
 ### Myocardial Tissue Characterization
 * **LGE in acute MI:** Highly sensitive (99% in multicenter trial). Transmural extent inversely predicts functional recovery.
-* **Remote MI:** Recovery of systolic thickening after revascularization: ~80% if no LGE; <10% if >50% transmural LGE. Low‑dose dobutamine improves prediction in intermediate (1–50%) LGE.
+* **Remote MI:** Recovery of systolic thickening after revascularization: ~ 80% if no LGE; <10% if >50% transmural LGE. Low‑dose dobutamine improves prediction in intermediate (1–50%) LGE.
 * **Microvascular obstruction:** Dark core within bright LGE region; indicates damaged microcirculation with thrombotic debris. Associated with adverse prognosis and poor recovery.
 * **Area at risk and salvage:** T2‑weighted/T2 mapping edema identifies area at risk; LGE identifies necrosis. Salvage = area at risk − necrosis.
 * **Intramyocardial hemorrhage:** Identified by T2*‑weighted imaging (low signal from hemoglobin degradation products). Associated with larger infarct size, reduced LVEF, and adverse LV remodeling.
@@ -51,9 +51,9 @@
 ### Cardiomyopathies
 * **CMR essential for HF evaluation:** Gold standard for LV/RV structure and function. LGE patterns differentiate etiologies. T1 and T2 mapping increasingly useful, particularly in patients with renal dysfunction.
 * **Ischemic cardiomyopathy:** LGE in coronary distribution. Presence of LGE → HR 8.3 for MACE, 10.9 for cardiac mortality. Scar predicts poor CRT response (especially inferolateral lead placement).
-* **Dilated cardiomyopathy:** LGE absent in majority; ~25% have mid‑wall fibrosis (hazard ratio 3.0 for all‑cause mortality, 5.2 for SCD). Hypertrabeculation may be seen but noncompaction amount not independent predictor of MACE beyond LVEF.
+* **Dilated cardiomyopathy:** LGE absent in majority; ~ 25% have mid‑wall fibrosis (hazard ratio 3.0 for all‑cause mortality, 5.2 for SCD). Hypertrabeculation may be seen but noncompaction amount not independent predictor of MACE beyond LVEF.
 * **Myocarditis:** LGE in midwall and subepicardium (classic pattern). T1 and T2 mapping improve diagnosis. Native T1 cutoff 990 ms at 1.5T → sensitivity 90%, specificity 91%. Combination of techniques increases accuracy.
-* **Hypertrophic cardiomyopathy:** LGE in ~67%, especially at RV septal insertion sites. LGE presence → OR 2.9 for cardiac death, 5.7 for HF death. LGE ≥15% of LV mass → 2‑fold increase in SCD risk. Ongoing HCMR study will provide further insight.
+* **Hypertrophic cardiomyopathy:** LGE in ~ 67%, especially at RV septal insertion sites. LGE presence → OR 2.9 for cardiac death, 5.7 for HF death. LGE ≥15% of LV mass → 2‑fold increase in SCD risk. Ongoing HCMR study will provide further insight.
 * **Amyloidosis:** Diffuse subendocardial LGE and abnormal gadolinium kinetics. Native T1 higher than normal and HCM. ECV >0.45 predicts mortality in AL. Transmural LGE pattern predicts death in ATTR. LGE scoring differentiates AL vs ATTR with 87% sensitivity/96% specificity.
 * **Sarcoidosis:** Variable LGE pattern (midwall, epicardial, subendocardial, transmural). LGE presence → HR 31.6 for death, aborted SCD, and appropriate ICD discharge.
 * **Anderson-Fabry disease:** LGE in basal inferolateral wall; native T1 reduced in phenotypic LVH compared to other hypertrophic diseases. T1 reduction may precede LVH.

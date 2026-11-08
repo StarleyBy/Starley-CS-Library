@@ -72,7 +72,7 @@
 
 * **Stenosis Grading:** Most commonly reported as percentage reduction in vessel diameter compared to adjacent unobstructed segment. However, there is ±20% variation between experienced angiographers, especially for 40-70% stenoses. Correspondence between 40-75% diameter narrowing and abnormal physiology is poor.
 
-* **Quantitative Coronary Angiography (QCA):** Automated edge detection or densitometric analysis. Intraobserver variability 40-80%, interobserver variability ~20%. Primarily used for research.
+* **Quantitative Coronary Angiography (QCA):** Automated edge detection or densitometric analysis. Intraobserver variability 40-80%, interobserver variability ~ 20%. Primarily used for research.
 
 * **Intravascular Ultrasound (IVUS):** Provides tomographic cross-sectional images of vessel and lumen. Provides anatomic information including plaque characteristics, lesion length, lumen dimensions. Complementary to angiography and physiology.
 
@@ -112,7 +112,7 @@
 
 ### Hemodynamic Computations
 
-* **Cardiac Output (Fick Principle):** CO = O₂ consumption / (AV O₂ difference × 10). Normal CO ~6.0 L/min. CI = CO/BSA.
+* **Cardiac Output (Fick Principle):** CO = O₂ consumption / (AV O₂ difference × 10). Normal CO ~ 6.0 L/min. CI = CO/BSA.
 
 * **Stroke Volume:** SV = CO/HR. SI = SV/BSA.
 
@@ -2250,5 +2250,7 @@ Derivation: IMR = P<sub>distal to stenosis</sub>/(1/mean transit time hyperemic)
 1. Assessment of intermediate stenosis
 2. Assessment of the microcirculation
 3. Identification of lesion compliance (change of pressure-velocity relationship)
+
+</div></details>
 
 </div></details>

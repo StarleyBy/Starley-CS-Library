@@ -11,7 +11,7 @@
 * **High-Risk Lesions:** Large lipid core, thin fibrous cap, high density of inflammatory cells (especially at shoulders); often mildly stenotic and barely detectable by angiography.
 * **Neovascularization:** Leaky vasa vasorum → red blood cell extravasation → intraplaque cholesterol deposition → increased vulnerability. Optical coherence tomography shows association with fibrous plaque volume.
 * **Inflammation:** Key link between atherosclerosis and thrombosis. Monocyte/macrophages, T cells, mast cells release inflammatory cytokines and MMPs affecting all stages of atherogenesis.
-* **Immune Cells:** Innate immunity (monocytes, dendritic cells, mast cells) and adaptive immunity (CD4+ T cells, Th1, Th17, Treg). T cells constitute ~10% of lesion cells; 70% are CD4+ (mostly proinflammatory Th1).
+* **Immune Cells:** Innate immunity (monocytes, dendritic cells, mast cells) and adaptive immunity (CD4+ T cells, Th1, Th17, Treg). T cells constitute ~ 10% of lesion cells; 70% are CD4+ (mostly proinflammatory Th1).
 * **Inflammation as Therapeutic Target:** CANTOS (canakinumab) and CIRT (low-dose methotrexate) trials testing anti-inflammatory strategies.
 
 ### Platelet Function and Thrombosis

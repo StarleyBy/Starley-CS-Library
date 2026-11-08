@@ -56,8 +56,8 @@
 * **Treatment:** Correct metabolic abnormalities, remove offending agents; standard antiarrhythmics/procedures; ICD not denied if expected survival > 1 year.
 
 ### Thromboembolism
-* **Incidence:** VTE in 5–7% of cancer patients (vs ~ 0.1% general population); cancer patients constitute ~20% of all VTE cases. ~10% of noncancer patients with VTE diagnosed with malignancy within 2 years.
-* **Arterial thrombosis:** Incidence lower than VTE but higher than general population. IL‑2: ~11% thrombotic events. Ponatinib (third‑generation TKI): arterial thrombosis in up to 20%; FDA black box warning.
+* **Incidence:** VTE in 5–7% of cancer patients (vs ~ 0.1% general population); cancer patients constitute ~ 20% of all VTE cases. ~ 10% of noncancer patients with VTE diagnosed with malignancy within 2 years.
+* **Arterial thrombosis:** Incidence lower than VTE but higher than general population. IL‑2: ~ 11% thrombotic events. Ponatinib (third‑generation TKI): arterial thrombosis in up to 20%; FDA black box warning.
 * **Pathophysiology:** Classic Virchow triad – stasis (tumor compression, indwelling catheters), endothelial disruption, hypercoagulability ([Table 101–7](#table-101-7)). Arterial thrombosis: platelet activation ± atherosclerosis.
 * **Clinical manifestations:** Unilateral leg edema (DVT); PE (dyspnea, chest discomfort, tachypnea, hemoptysis, tachycardia, syncope, sudden death). CT angiography for PE; ultrasonography for extremity DVT ([Fig. 101–5](#fig-101-5)).
 * **Treatment:** LMWH preferred over warfarin (more effective, predictable, fewer drug interactions, possible antiproliferative/antiangiogenic effects). UFH alternative. NOACs (dabigatran, rivaroxaban, edoxaban, apixaban): promising, but more data needed in cancer‑associated VTE. IVC filters: for recurrent PE with high bleeding risk. Aspirin: for paraneoplastic thrombocytosis, polycythemia vera.

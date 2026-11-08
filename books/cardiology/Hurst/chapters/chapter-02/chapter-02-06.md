@@ -12,7 +12,7 @@
     * X‑linked recessive (XLR) – dystrophin/emerin DCM; female carriers may have mild disease (non‑random X inactivation).
 * **Mitochondrial DNA (mtDNA):** maternal inheritance. Heteroplasmy determines phenotype – hypertrophic → dilated CMP, plus hearing loss, diabetes, renal failure, stroke (MELAS).
 * **Triplet expansion:** Friedreich ataxia (GAA in *FXN*) – early HCM → fibrosis, iron storage; myotonic dystrophy (CTG in *DMPK*) – conduction disease, DCM.
-* **Multifactorial:** CAD, hypertension, diabetes. GWAS explain ~10% of CAD heritability; risk loci: 9p21, *ADAMTS7*, *ABO*. Family history remains strong risk factor.
+* **Multifactorial:** CAD, hypertension, diabetes. GWAS explain ~ 10% of CAD heritability; risk loci: 9p21, *ADAMTS7*, *ABO*. Family history remains strong risk factor.
 
 ### Clinical Genetics Workup
 * **Deep phenotyping:** ECG, 2D‑echocardiography, Holter, cardiac MRI/CT. Extracardiac traits (skeletal, ocular, cutaneous, neurological, renal, auditory) guide differential diagnosis.
@@ -21,7 +21,7 @@
 * **Prenatal diagnosis:** conventional (amniocentesis) or noninvasive (NIPT) for common trisomies; preimplantation genetic diagnosis for monogenic disorders.
 
 ### Cardiomyopathies (CMPs)
-* Prevalence: HCM ~1:500 young adults (true prevalence ~1:200 including gene carriers). DCM, ARVC ~1:5000.
+* Prevalence: HCM ~ 1:500 young adults (true prevalence ~ 1:200 including gene carriers). DCM, ARVC ~ 1:5000.
 * **Genetic heterogeneity:** >100 genes. Overlap between HCM/DCM/RCM/ARVC (e.g., *MYH7*, *LMNA*, *TTN*).
 * **Key genes:** Sarcomere (*MYH7*, *MYBPC3*, *TNNT2*, *TNNI3*, *TPM1*), Z‑disk (*ACTN2*, *TCAP*), desmosome (*PKP2*, *DSP*, *DSG2*), nuclear envelope (*LMNA*, *EMD*), cytoskeleton (*DMD*, *SGCD*), ion channels (*SCN5A*), mitochondrial.
 * **New MOGE(S) nosology:** Morpho‑functional (HCM, DCM, RCM, ARVC, LVNC) – Organ involvement – Genetic – Etiology – (Stage).
@@ -68,7 +68,7 @@
 * Other HAIDs with cardiac involvement: TRAPS (*TNFRSF1A*), Muckle‑Wells (*NLRP3*), DIRA (*IL1RN*). Important differential for recurrent idiopathic pericarditis/myocarditis.
 
 ### Multifactorial Diseases – Coronary Artery Disease (CAD)
-* **Heritability** of CAD ~40‑50%. GWAS identified >50 loci (9p21 strongest). Explain only ~10% of heritability.
+* **Heritability** of CAD ~ 40‑50%. GWAS identified >50 loci (9p21 strongest). Explain only ~ 10% of heritability.
 * **Family history** risk increases with: affected first‑degree relative(s), premature onset, female relative (higher risk), multiple affected members.
 * **Gene‑environment interactions:** smoking (CYP2B6, CHRNA5), infections, salt taste (genetic), exercise adherence (heritable).
 * **Monogenic CAD** is very rare (*MEF2A* not confirmed, *LRP6*).
@@ -354,7 +354,7 @@ Genotype‑phenotype correlation studies have been performed in several syndromi
 
 #### The Impact of Precise Genetic Diagnosis
 
-In the past 10 years, it has been demonstrated that risk stratification for aortic dissection may vary based on the different subtypes of FTAAD and that preventive surgery should be planned considering both the individual patient and the disease‑specific risk. In addition, the proposed role of TGF‑beta in aneurysmal diseases, and FBN1 mouse models treated with anti‑TGF‑beta antibodies or drugs acting on TGF‑beta opened up the possibility of exploring the effects of angiotensin receptor blockers (ARBs) in patients with MFS. Many clinical trials have recently been concluded and others will conclude in the near future, comparing the role of ARBs with beta‑blockers ([Table 9‑2](#table-9-2)). Based on results achieved to date, patients with Marfan syndrome and aortic root dilation should receive medical therapy, with either beta‑blockers or ARBs or both. Medications seem to be more effective at reduction of aortic root z‑score in younger subjects, which suggests that medical therapy should be prescribed even in the youngest children with early/mild aortic dilation. For patients without aortic dilation, indications for medical treatment are less clear. In patients with severe and/or progressive aortic dilation the combination of a beta‑blocker and angiotensin receptor blocker should be considered, although current trial results are mixed with respect to the efficacy of combination therapy versus monotherapy.
+In the past 10 years, it has been demonstrated that risk stratification for aortic dissection may vary based on the different subtypes of FTAAD and that preventive surgery should be planned considering both the individual patient and the disease‑specific risk. In addition, the proposed role of TGF‑beta in aneurysmal diseases, and FBN1 mouse models treated with anti‑TGF‑beta antibodies or drugs acting on TGF‑beta opened up the possibility of exploring the effects of angiotensin receptor blockers (ARBs) in patients with MFS. Many clinical trials have recently been concluded and others will conclude in the near future, comparing the role of ARBs with beta‑blockers ((Table 9‑2)). Based on results achieved to date, patients with Marfan syndrome and aortic root dilation should receive medical therapy, with either beta‑blockers or ARBs or both. Medications seem to be more effective at reduction of aortic root z‑score in younger subjects, which suggests that medical therapy should be prescribed even in the youngest children with early/mild aortic dilation. For patients without aortic dilation, indications for medical treatment are less clear. In patients with severe and/or progressive aortic dilation the combination of a beta‑blocker and angiotensin receptor blocker should be considered, although current trial results are mixed with respect to the efficacy of combination therapy versus monotherapy.
 
 Independent of the results, the message from these studies is the novel impact of precise diagnosis on the potential development of personalized, disease‑oriented treatment of heritable aneurysmal diseases.
 

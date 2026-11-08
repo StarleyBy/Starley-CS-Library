@@ -5,7 +5,7 @@
 ## Executive Summary</summary><div class="details-content">
 
 ### Epidemiology
-* **STEMI burden:** ~1/3 of acute coronary syndromes; incidence declined from 244 to 162 per 100,000 (1975‑2006), in‑hospital mortality from 18% to 10%. Yet AMI remains a major cause of morbidity, with huge economic cost.
+* **STEMI burden:** ~ 1/3 of acute coronary syndromes; incidence declined from 244 to 162 per 100,000 (1975‑2006), in‑hospital mortality from 18% to 10%. Yet AMI remains a major cause of morbidity, with huge economic cost.
 * **Systems of care:** Prehospital ECG reduces door‑to‑needle/balloon times. Regional STEMI systems (e.g., Mission: Lifeline) coordinate EMS, non‑PCI and PCI‑capable hospitals to achieve FMC‑to‑device times ≤90 min (PCI) or ≤120 min (transfer). Fibrinolysis within 30 min if PCI delayed >120 min.
 
 ### Diagnosis
@@ -48,7 +48,7 @@
 * **Aldosterone antagonists:** Eplerenone for LVEF ≤40% with heart failure or diabetes, if potassium normal.
 * **Statins:** High‑dose atorvastatin initiated early; target LDL <70 mg/dL.
 * **Hemodynamic complications:**
-  * **Cardiogenic shock:** Occurs in ~7%; mortality ~50%. Revascularization (PCI/CABG) is Class I. IABP use now Class IIa (SHOCK II did not show mortality benefit). RV infarction: volume loading, inotropes, avoid nitrates.
+  * **Cardiogenic shock:** Occurs in ~ 7%; mortality ~ 50%. Revascularization (PCI/CABG) is Class I. IABP use now Class IIa (SHOCK II did not show mortality benefit). RV infarction: volume loading, inotropes, avoid nitrates.
   * **Acute mitral regurgitation:** Papillary muscle rupture (posteromedial more common); urgent surgery with CABG.
   * **Ventricular septal rupture:** Surgical repair with CABG; percutaneous closure in select cases.
   * **Free wall rupture:** Sudden tamponade; surgical repair; may present subacutely with pericarditis/pseudoaneurysm.
@@ -62,7 +62,7 @@
 * **Presentation:** Chest pain, dyspnea, ECG changes (often anterior ST elevation then deep T inversion), modest troponin rise with disproportionately high BNP/NT‑proBNP. Preceded by emotional/physical stressor in many.
 * **Diagnosis:** Coronary angiography shows nonobstructive coronary arteries; LV ventriculography shows apical ballooning (or mid, basal, focal variants). CMR shows edema without significant late gadolinium enhancement.
 * **Treatment:** Supportive; avoid inotropes (can worsen LVOT obstruction); β‑blockers and ACE inhibitors; anticoagulation if LV thrombus.
-* **Prognosis:** Not benign; 30‑day mortality ~5‑6%; long‑term mortality higher than previously thought (5.6% per patient‑year), especially if secondary to acute illness.
+* **Prognosis:** Not benign; 30‑day mortality ~ 5‑6%; long‑term mortality higher than previously thought (5.6% per patient‑year), especially if secondary to acute illness.
 
 </div></details>
 
@@ -70,7 +70,7 @@
 
 ## EPIDEMIOLOGY</summary><div class="details-content">
 
-Ischemic heart disease is the leading cause of morbidity and mortality in Western society and is a worldwide epidemic. In 2008, it was estimated that, worldwide, ischemic heart disease was responsible for 12.7% of all deaths (7.25 million total) with low‑income countries now accounting for 80% of all deaths with a falling mortality in high‑income countries. Approximately 1,100,000 Americans suffer from an acute coronary syndrome (ACS) per year, nearly one‑third of which are caused by an acute ST‑segment elevation myocardial infarction (STEMI). The incidence of acute myocardial infarction (AMI) has declined over the past two decades from 244 per 100,000 population in 1975 to 162 per 100,000 population in 2006. The in‑hospital mortality rate also has declined from 18% in 1975 to 10% in 2006. Despite these improvements, AMI continues to be a major public health problem, and it has been estimated that the number of years of life lost because of an AMI is 17.1 years, and the cost to American society (both direct and indirect) is $165.4 billion per year.
+Ischemic heart disease is the leading cause of morbidity and mortality in Western society and is a worldwide epidemic. In 2008, it was estimated that, worldwide, ischemic heart disease was responsible for 12.7% of all deaths (7.25 million total) with low‑income countries now accounting for 80% of all deaths with a falling mortality in high‑income countries. Approximately 1,100,000 Americans suffer from an acute coronary syndrome (ACS) per year, nearly one‑third of which are caused by an acute ST‑segment elevation myocardial infarction (STEMI). The incidence of acute myocardial infarction (AMI) has declined over the past two decades from 244 per 100,000 population in 1975 to 162 per 100,000 population in 2006. The in‑hospital mortality rate also has declined from 18% in 1975 to 10% in 2006. Despite these improvements, AMI continues to be a major public health problem, and it has been estimated that the number of years of life lost because of an AMI is 17.1 years, and the cost to American society (both direct and indirect) is 165.4 billion USD per year.
 
 The management of STEMI patients is complex, multidisciplinary, and involves the following four different stages of care: prehospital care, emergency department, cardiac catheterization laboratory, and coronary care unit. This chapter discusses the diagnosis and management of STEMI patients in each of these four settings. The pathophysiology of disease is discussed in Chap. 37, and the ACSs of unstable angina and non–ST‑segment elevation myocardial infarction are discussed in Chap. 39.
 

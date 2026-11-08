@@ -20,11 +20,11 @@
         "E": "type IV"
       },
       "optionsRu": {
-        "A": "Тип I (type I)",
-        "B": "Тип II (type II)",
-        "C": "Тип IIIa (type IIIa)",
-        "D": "Тип IIIb (type IIIb)",
-        "E": "Тип IV (type IV)"
+        "A": "Тип I",
+        "B": "Тип II",
+        "C": "Тип IIIa",
+        "D": "Тип IIIb",
+        "E": "Тип IV"
       },
       "correctAnswer": "D",
       "explanationEn": "🎯 **Correct Answer: Option D: type IIIb.**\n\n🔵 **Detailed Clinical and Pathophysiological Rationale:**\nAortic dissection is a life-threatening vascular emergency where an intimal tear allows blood to track under systemic pressure into the media of the aortic wall, separating the layers and creating a **false lumen**.\n\nTo describe the anatomical extent of the dissection and guide surgical vs. medical management, clinicians rely on established classification systems, most notably the **DeBakey** and **Stanford** classifications:\n\n1️⃣ **DeBakey Classification System (Michael E. DeBakey, 1965):**\n• **Type I:** The dissection originates in the ascending aorta and propagates distally to involve the aortic arch and a variable length of the descending thoracic and abdominal aorta.\n• **Type II:** The dissection is strictly confined/limited to the ascending aorta (proximal to the brachiocephalic trunk).\n• **Type III:** The dissection originates in the descending thoracic aorta (typically distal to the left subclavian artery takeoff) and propagates distally. Type III is further subcategorized into:\n  • **Type IIIa:** The dissection is limited strictly to the descending thoracic aorta above the diaphragm.\n  • **Type IIIb:** The dissection propagates below the diaphragm to involve the abdominal aorta and often extends further down into the iliac and common femoral arteries.\n\n2️⃣ **Stanford Classification System (Functional):**\n• **Type A:** Any dissection involving the ascending aorta, regardless of the primary site of entry or distal extent (comprises DeBakey Types I and II).\n• **Type B:** Dissections that spare the ascending aorta, typically starting distal to the left subclavian artery (comprises DeBakey Types IIIa and IIIb).\n\n#### 🛠️ Application to the Clinical Case:\n• **Site of Origin:** The CT angiogram reveals that the dissection flap begins **just distal to the left subclavian artery takeoff**. This demonstrates that the ascending aorta and the aortic arch are completely spared, ruling out DeBakey Type I, DeBakey Type II, and Stanford Type A dissections.\n• **Distal Extent:** The dissection propagates all the way into the **abdominal aorta** (evidenced by the left renal artery being supplied by the false lumen) and terminates at the **right common femoral artery**.\n• **Anatomical Diagnosis:** Because the dissection originates distal to the left subclavian artery (Type III) and extends below the diaphragm into the abdominal aorta and iliofemoral system, it meets the strict anatomical criteria for **DeBakey Type IIIb**.\n\n❌ **Why the Other Options Are Incorrect:**\n• 🔸 **Option A (type I):** DeBakey Type I dissections must involve the ascending aorta. Since this patient's dissection begins distal to the left subclavian artery, it is a distal (Stanford B) dissection and cannot be Type I.\n• 🔸 **Option B (type II):** DeBakey Type II dissections are confined exclusively to the ascending aorta. This patient has no ascending aortic involvement.\n• 🔸 **Option C (type IIIa):** DeBakey Type IIIa dissections are confined solely to the thoracic aorta above the diaphragm. This patient's dissection extends below the diaphragm to involve the abdominal aorta (renal artery) and femoral artery.\n• 🔸 **Option E (type IV):** Type IV is not a standard category in the classic DeBakey classification system of aortic dissection (which consists only of Types I, II, and III). In some non-standard surgical classifications, \"Type IV\" has been used to describe dissections confined solely to the abdominal aorta, but this does not apply to a dissection originating in the descending thoracic aorta.\n\n📚 **Board Pearl:**\nOn surgical board exams, pay close attention to **complications of DeBakey Type IIIb / Stanford Type B dissections**:\n1. **Management Principle:** Uncomplicated Stanford Type B (DeBakey III) dissections are managed **medically** with tight blood pressure and heart rate control (using beta-blockers as first-line therapy to reduce shear stress).\n2. **Indication for Intervention:** Invasive intervention—classically **Thoracic Endovascular Aortic Repair (TEVAR)**—is indicated only for **complicated** Stanford Type B dissections.\n3. **Visceral Malperfusion:** This patient has a **complicated Type IIIb dissection** due to **renal malperfusion** (the left renal artery is supplied by the false lumen) and potentially lower extremity ischemia (extension to the common femoral artery). These signs of end-organ malperfusion require urgent intervention (TEVAR to cover the primary entry tear and promote true lumen expansion, or percutaneous fenestration/stenting of the renal artery).\n\n🔥 **Memory Aid / Mnemonic:**\nThink of DeBakey classifications in terms of **\"A-A-D\"** (Ascending, Ascending/Descending, Descending):\n* **DeBakey I** $\\rightarrow$ **A**scending + **D**escending (Starts in ascending, goes all the way down).\n* **DeBakey II** $\\rightarrow$ **A**scending only (Confined to ascending aorta).\n* **DeBakey III** $\\rightarrow$ **D**escending only (Sparing the ascending aorta):\n  * **IIIa** $\\rightarrow$ **a**bove diaphragm.\n  * **IIIb** $\\rightarrow$ **b**elow diaphragm.",
@@ -105,7 +105,7 @@
       "optionsRu": {
         "A": "Двусторонняя ишемия нижних конечностей из-за дистального тромбоза графта",
         "B": "Отсроченный тромбоз межреберных сосудов на уровне T8–L2",
-        "C": "Нарастающая эпидуральная гематома (expanding epidural hematoma)",
+        "C": "Нарастающая эпидуральная гематома",
         "D": "Чрезмерно агрессивный контроль/снижение послеоперационной артериальной гипертензии"
       },
       "correctAnswer": "D",
@@ -142,10 +142,10 @@
         "D": "morphine drip"
       },
       "optionsRu": {
-        "A": "Эпидуральную пломбировку автокровью (epidural blood patch)",
-        "B": "Диуретическую терапию (diuresis)",
+        "A": "Эпидуральную пломбировку автокровью",
+        "B": "Диуретическую терапию",
         "C": "Приподнятое положение головного конца кровати до 45°",
-        "D": "Капельное введение морфина (morphine drip)"
+        "D": "Капельное введение морфина"
       },
       "correctAnswer": "A",
       "explanationEn": "🎯 **Correct Answer: Option A: a blood patch.**\n\n🔵 **Detailed Clinical and Pathophysiological Rationale:**\n• **Post-Dural Puncture Headache (PDPH) / Spinal Headache Pathophysiology:**\n  * Placement of a lumbar cerebrospinal fluid (CSF) drain is a key protective adjunct used to prevent spinal cord ischemia during Crawford Extent I and II thoracoabdominal aortic aneurysm (TAAA) repairs.\n  * Following catheter removal, CSF can continue to leak out of the subarachnoid space through the persistent dural rent into the epidural space.\n  * This continuous leak outpaces CSF production, leading to **intracranial hypotension (low CSF volume and pressure)**.\n  * When the patient assumes an upright position, the loss of the supportive CSF buoyancy cushion allows the brain to sag gravitationally within the cranium, exerting mechanical traction on pain-sensitive meninges, dural sinuses, and cerebral vessels, resulting in a severe, classic **postural (orthostatic) headache**.\n• **Epidural Blood Patch (EBP) Mechanism (Why Option A is Correct):**\n  * An **epidural blood patch (Option A)** is the most effective and definitive treatment for persistent, severe, or debilitating spinal headaches.\n  * Under sterile conditions, a small volume of autologous venous blood (typically 15–20 mL) is harvested from the patient and injected into the epidural space at or adjacent to the prior dural puncture level.\n  * The injected blood quickly spreads and forms a clot over the dural rent, physically sealing the hole and stopping further CSF leakage. Furthermore, the volume expansion in the epidural space exerts a compressive effect, translocating CSF cranially and providing immediate symptomatic relief.\n\n❌ **Why the Other Options Are Incorrect:**\n• 🔸 **Option B (diuresis):** Diuretics (such as furosemide) promote systemic volume depletion and dehydration. This would decrease the production of CSF by the choroid plexus, further reducing intracranial volume and pressure, which severely exacerbates intracranial hypotension and worsens the postural headache.\n• 🔸 **Option C (elevation of the head of his bed to 45°):** Postural headaches are dramatically worsened by upright posture due to gravity-induced traction on the meninges. The initial supportive management for PDPH is strict **horizontal bed rest (flat supine position)**. Elevating the head of the bed to 45° is strongly contraindicated, as it immediately intensifies the headache.\n• 🔸 **Option D (morphine drip):** While severe pain may require analgesics, a continuous intravenous morphine infusion is not a targeted or appropriate therapy for PDPH. It carries substantial risks of respiratory depression, somnolence, and pupillary constriction (which can obscure the clinical neurologic exams vital in post-aortic surgery patients), without addressing the underlying mechanical etiology (the dural leak).\n\n📚 **Board Pearl:**\n* **CSF Drainage Protocol & Complications:** During TAAA repairs, CSF pressure is kept below 10–12 mmHg to maintain an adequate spinal cord perfusion pressure (SCPP = MAP - CSFP).\n* While CSF drainage is highly effective at reducing paraplegia risk, clinicians must remain vigilant for complications, including **post-dural-puncture headaches (the most common, occurring in up to 5% of cases), perispinal hematoma, and catastrophic intracranial hemorrhage** secondary to rapid CSF drainage-induced bridging vein tearing.\n* **Initial Conservative Measures:** Prior to performing an invasive blood patch, conservative therapy can be trialed, consisting of flat bed rest, aggressive oral/IV hydration, oral caffeine (which causes cerebral vasoconstriction), and simple non-opioid analgesics.\n\n🔥 **Memory Aid / Mnemonic:**\nFor post-dural puncture postural headaches, think of **\"P-A-T-C-H\"**:\n* **P** - **P**ostural headache (worse upright, better flat).\n* **A** - **A**void diuresis and head elevation.\n* **T** - **T**raction on the meninges due to low CSF volume.\n* **C** - **C**lot formation via autologous blood injection.\n* **H** - **H**eals the dural hole!",
@@ -181,7 +181,7 @@
       },
       "optionsRu": {
         "A": "Болюсное введение 2 литров 0,9% раствора NaCl",
-        "B": "Введение эсмолола (esmolol) через центральный венозный катетер",
+        "B": "Введение эсмолола через центральный венозный катетер",
         "C": "Экстренная левосторонняя торакотомия в отделении неотложной помощи",
         "D": "Капельное введение норэпинефрина (норадреналина)"
       },
@@ -220,9 +220,9 @@
         "D": "percutaneous arterial cannulation of the femoral artery and percutaneous venous cannulation of the femoral vein"
       },
       "optionsRu": {
-        "A": "Артериальная канюляция подключичной/подмышечной артерии (axillary artery), венозная канюляция правого предсердия",
+        "A": "Артериальная канюляция подключичной/подмышечной артерии, венозная канюляция правого предсердия",
         "B": "Артериальная канюляция проксимальной дуги, венозная канюляция правого предсердия",
-        "C": "Артериальная канюляция истинного просвета восходящей аорты, раздельная венозная канюляция (bicaval)",
+        "C": "Артериальная канюляция истинного просвета восходящей аорты, раздельная венозная канюляция",
         "D": "Чрескожная артериальная канюляция бедренной артерии и чрескожная венозная канюляция бедренной вены"
       },
       "correctAnswer": "A",
@@ -261,9 +261,9 @@
         "E": "use of a flared sinus (Valsalva-type) graft"
       },
       "optionsRu": {
-        "A": "9-месячный период наблюдения за пациентом (9-month patient follow-up)",
+        "A": "9-месячный период наблюдения за пациентом",
         "B": "Антеградная кардиоплегия через канюлю в устьях коронарных артерий",
-        "C": "Имплантация коронарных «пуговиц» (coronary buttons)",
+        "C": "Имплантация коронарных «пуговиц»",
         "D": "Преклоттинг (предварительное пропитывание) графта альбумином",
         "E": "Использование графта с расширенными синусами (тип Valsalva)"
       },
@@ -303,7 +303,7 @@
         "A": "Создать аутологичный тоннель в задней стенке легочной артерии как удлинение ствола левой коронарной артерии",
         "B": "Сформировать анастомоз пуговицы с графтом и следить за изменениями на ЭКГ при отхождении от ИК",
         "C": "Забрать большую подкожную вену и выполнить аортокоронарное шунтирование (АКШ) к огибающей ветви",
-        "D": "Выполнить полную или частичную модификацию по Кабролю (Cabrol modification) с использованием 8-мм синтетического графта"
+        "D": "Выполнить полную или частичную модификацию по Кабролю с использованием 8-мм синтетического графта"
       },
       "correctAnswer": "D",
       "explanationEn": "🎯 **Correct Answer: Option D: Perform a whole or partial Cabrol modification with an 8 mm prosthetic graft.**\n\n🔵 **Detailed Clinical and Pathophysiological Rationale:**\nDuring root reconstruction procedures such as **valve-sparing aortic root replacement (VSRR / David procedure)** or composite graft replacement (Bentall procedure), the coronary ostia must be fully mobilized as individual cuff-like \"buttons\" and reimplanted into the Dacron graft. Adequate mobilization is essential to allow a **tension-free anastomosis**, which prevents mechanical complications such as kinking, stretching, or suture-line tearing.\n\nHowever, in complex settings—such as extreme aortic root enlargement, severe calcification, acute dissection, or reoperations—the left coronary artery (LCA) button may be tightly bound to the surrounding tissues, torn, or simply too distant to reach the main aortic graft without excessive tension.\n\n#### 🛠️ Surgical Management of Button Tension:\n* **Suturing under tension is highly dangerous**; it leads to tearing of the fragile coronary wall, severe hemorrhage, or kinking and subsequent acute myocardial infarction.\n* **The Cabrol-type Coronary Anastomosis (Option D):** First introduced by Christian Cabrol in 1981, this technique utilizes an **8 to 10 mm Dacron interposition graft** sewn in a \"moustache\" configuration to bridge the gap.\n* In a **partial (or single-limb) Cabrol modification**, a short segment of an 8 mm Dacron tube graft is anastomosed directly end-to-end to the mobilized LCA button, and the other end is attached end-to-side to the main aortic graft. This interposition graft provides a completely tension-free, secure pathway to restore physiological coronary blood flow into the left coronary system, preventing catastrophic kinking or suture failure.\n\n❌ **Why the Other Options Are Incorrect:**\n* 🔸 **Option A (Create an autologous tunnel in the back wall of the pulmonary artery):** Creating an autologous tunnel in the PA wall is a highly complex, pediatric-type reconstructive technique (akin to the Takeuchi procedure for an anomalous left coronary artery from the pulmonary artery - ALCAPA). It is completely non-standard in adult root surgery and carries a high risk of tissue friability, pulmonary artery injury, or late stenoses.\n* 🔸 **Option B (Do the button anastomosis under tension and monitor ECG):** This violates a fundamental tenet of cardiovascular surgery. Anastomosing the coronary button under tension guarantees suture-line tearing, catastrophic intraoperative or postoperative bleeding, or immediate coronary kinking/occlusion upon filling the heart. Monitoring for ECG changes does not address the underlying mechanical danger of tissue disruption.\n* 🔸 **Option C (CABG to a circumflex coronary branch):** The left main coronary artery feeds both the **left anterior descending (LAD)** and the **left circumflex (LCx)** arteries. Performing a bypass graft (CABG) strictly to a circumflex branch would leave the massive LAD territory completely unperfused (ischemic), resulting in a massive anterior myocardial infarction and cardiogenic shock. Bypassing the left coronary system is typically reserved as a rescue maneuver if the LCA button is completely unsalvageable, but it must involve bypassing both the LAD and circumflex (or bypassing the left main itself).\n\n📚 **Board Pearl:**\n* **The Modified Cabrol Procedure:** End-to-side reimplantation of coronary buttons into a small 8–10 mm Dacron interposition graft. This is the classic, durable solution for low or immobile coronary buttons.\n* **Saphenous Vein Interposition:** A 3 to 5 cm segment of reversed saphenous vein can be used as a short interposition graft between the coronary button and the main aortic graft (following a gentle S-curve to prevent kinking).\n* **Ligation and Bypass:** If a coronary button is completely unsalvageable (e.g., torn right coronary button), the proximal ostium is ligated, and a standard CABG using a vein graft or internal thoracic artery is performed to the distal vessel.\n\n🔥 **Memory Aid / Mnemonic:**\nRemember coronary button salvage strategies with **\"C-A-B-S\"**:\n* **C** - **C**abrol modification (using an 8 mm Dacron graft to extend the button).\n* **A** - **A**void tension at all costs (tension = tearing & kinking).\n* **B** - **B**ypass distal territory *only* as a rescue step if the button is destroyed.\n* **S** - **S**aphenous vein interposition graft as a flexible alternative.",
@@ -420,7 +420,7 @@
         "E": "perfusing the aortic root at high pressure"
       },
       "optionsRu": {
-        "A": "Оценка проходимости/состояния правой коронарной артерии (assessment of the right coronary artery)",
+        "A": "Оценка проходимости/состояния правой коронарной артерии",
         "B": "Добавление ингибитора фосфодиэстеразы (милринон)",
         "C": "Выполнение кардиоверсии для восстановления синусового ритма",
         "D": "Установка внутриаортального баллонного контрпульсатора (ВАБК)",
@@ -584,10 +584,10 @@
         "E": "sternal wound infection"
       },
       "optionsRu": {
-        "A": "Фибрилляция предсердий (atrial fibrillation)",
+        "A": "Фибрилляция предсердий",
         "B": "Инфекция нижних дыхательных путей (пневмония)",
         "C": "Имплантация постоянного электрокардиостимулятора (ЭКС)",
-        "D": "Почечная недостаточность (renal insufficiency)",
+        "D": "Почечная недостаточность",
         "E": "Инфекция грудинной раны (разобщение/инфекция стернотомной раны)"
       },
       "correctAnswer": "A",
@@ -744,7 +744,7 @@
         "A": "Консультация этического комитета и рассмотрение консервативной терапии, так как пациент продолжит употреблять героин и хирургическое лечение бесполезно",
         "B": "Антибиотикотерапия, снижение постнагрузки, диуретическая терапия, энтеральная нутритивная поддержка и плановая повторная операция при улучшении соматического статуса",
         "C": "Транскатетерное протезирование аортального клапана («клапан-в-клапан» / TAVI valve-in-valve) после 7–10 дней антибиотикотерапии и медикаментозной оптимизации",
-        "D": "Экстренная повторная операция протезирования аортального клапана (redo AVR)",
+        "D": "Экстренная повторная операция протезирования аортального клапана",
         "E": "Антибиотики и экстренная КТ головного мозга — при отсутствии острых инфарктов или кровоизлияния экстренная повторная AVR, а также возможная аннулопластика митрального и трикуспидального клапанов"
       },
       "correctAnswer": "E",
@@ -784,7 +784,7 @@
       "optionsRu": {
         "A": "Непрерывное топическое (местное) охлаждение миокарда",
         "B": "Ишемическое прекондиционирование",
-        "C": "Сохранение кровотока по шунту LIMA во время пережатия аорты (maintaining LIMA flow during cross clamp)",
+        "C": "Сохранение кровотока по шунту LIMA во время пережатия аорты",
         "D": "Управляемая общая системная гипотермия до 25 °C"
       },
       "correctAnswer": "C",
@@ -896,11 +896,11 @@
         "E": "patient age"
       },
       "optionsRu": {
-        "A": "Кальциноз/кальцинированная аорта (calcified aorta)",
-        "B": "Сочетанные хирургические вмешательства (concomitant surgical procedures)",
-        "C": "Низкая фракция выброса (low ejection fraction)",
-        "D": "Открытое хирургическое протезирование в сравнении с TAVI (open surgical replacement vs. TAVI)",
-        "E": "Возраст пациента (patient age)"
+        "A": "Кальциноз/кальцинированная аорта",
+        "B": "Сочетанные хирургические вмешательства",
+        "C": "Низкая фракция выброса",
+        "D": "Открытое хирургическое протезирование в сравнении с TAVI",
+        "E": "Возраст пациента"
       },
       "correctAnswer": "D",
       "explanationEn": "🎯 **Correct Answer: Option D: open surgical replacement (vs. TAVI).**\n\n🔵 **Detailed Clinical and Pathophysiological Rationale:**\nStroke or perioperative central nervous system (CNS) injury is one of the most devastating complications associated with aortic valve replacement (AVR). The pathophysiology of perioperative stroke is multifactorial, primarily driven by atheroembolism (from aortic manipulation or decalcification) and hypoperfusion.\n\n#### 1. Why Option D is Correct (SAVR vs. TAVI Stroke Risks):\n* **Surgical vs. Transcatheter Stroke Rates:** When comparing conventional open surgical aortic valve replacement (SAVR) with transcatheter aortic valve implantation (TAVI/TAVR), large-scale clinical trials (e.g., the PARTNER trials) and comprehensive literature reviews have shown that **open surgical replacement is NOT associated with an increased incidence of stroke compared to TAVI**.\n* **Procedural Embolization Mechanisms in TAVI:** Although TAVI is less invasive and avoids a full median sternotomy, cardiopulmonary bypass (CPB), and aortic cross-clamping, it requires significant retrograde catheter manipulation across a heavily diseased, calcified aortic arch and the native calcific aortic valve. The passage and balloon expansion of the transcatheter delivery system can cause fragment embolization of calcified debris, aortic plaque, or thrombus into the cerebral circulation.\n* **Clinical Trial Evidence:** In early cohorts of high-risk surgical candidates (e.g., PARTNER 1A), TAVI was actually associated with a **nearly twofold increased incidence of stroke or transient ischemic attack (TIA) at 30 days compared with SAVR** (5.5% vs. 2.4%, p=0.04). While newer generation TAVI devices and embolic protection systems have narrowed this gap, open surgical replacement remains at least as safe as, or safer than, TAVI with respect to early neurological events in several patient subsets. Thus, open surgical replacement does not increase stroke risk relative to TAVI.\n\n#### 2. Why the Other Options Are Incorrect (Established Stroke Risk Factors):\n* 🔸 **Option A (calcified aorta):** Atherosclerosis and severe calcification of the ascending aorta or aortic arch are among the strongest independent predictors of perioperative stroke. Manipulating a calcified aorta (for cannulation, cross-clamping, or proximal graft anastomosis) immediately liberates atheroembolic microdebris into the systemic and cerebral circulation, causing multiple focal cerebral infarctions.\n* 🔸 **Option B (concomitant surgical procedures):** Combining AVR with other major cardiac procedures (such as CABG, mitral valve surgery, or aortic root replacement) significantly increases surgical complexity. This results in prolonged cardiopulmonary bypass (CPB) and aortic cross-clamping times, which are directly associated with an exponentially higher incidence of thromboembolic and hypoperfusion-related strokes.\n* 🔸 **Option C (low ejection fraction):** Left ventricular (LV) systolic dysfunction and heart failure are established risk factors for stroke. A low EF is associated with low cardiac output and ventricular blood stasis (promoting microthrombi formation in the left ventricle or left atrial appendage), as well as a compromised cerebral autoreulatory capacity under CPB-induced non-pulsatile flow, making the brain more vulnerable to hypoperfusion.\n* 🔸 **Option E (patient age):** Advanced age is a well-established and highly consistent independent risk factor for stroke in all major risk models (including the STS Adult Cardiac Surgery Database, EuroSCORE, and the Newman neurological risk index). Aging is associated with a higher burden of subclinical cerebrovascular disease, carotid stenosis, aortic atherosclerosis, and decreased cerebral reserve.\n\n📚 **Board Pearl:**\n* **TAVI vs. SAVR Complication Profiles:** On board exams, memorize the trade-offs between TAVI and SAVR shown in major trials:\n  * **TAVI** is associated with higher rates of **major vascular complications, paravalvular leak (PVL), permanent pacemaker implantation (due to AV block), and early stroke (in high-risk cohorts)**.\n  * **SAVR** is associated with higher rates of **major bleeding, new-onset postoperative atrial fibrillation (POAF), and acute kidney injury (AKI)**.\n* **Preoperative Workup for Aortic Calcification:** To minimize stroke risk, a preoperative noncontrast chest CT is indicated if calcification is suspected. During surgery, intraoperative **epiaortic ultrasound** is superior to transesophageal echocardiography (TEE) for identifying safe, plaque-free sites for aortic cannulation and clamping.\n\n🔥 **Memory Aid / Mnemonic:**\nRemember the trade-offs of TAVI vs. SAVR with **\"T-A-V-I\"** and its associated complications:\n* **T** - **T**ears and vascular complications.\n* **A** - **A**nticipate paravalvular leak (**A**ortic regurgitation).\n* **V** - **V**elocity of heart block (**V**entricular pacing/pacemaker need).\n* **I** - **I**ncreased/Equivalent early stroke risk (TAVI does *not* reduce stroke compared to SAVR; open surgery is actually protective or equivalent!).",
@@ -1014,10 +1014,10 @@
         "D": "two-directional aortic annular enlargement"
       },
       "optionsRu": {
-        "A": "Формирование верхушечно-аортального кондуита (apico-aortic conduit) к нисходящей аорте",
-        "B": "Переднее расширение фиброзного кольца аорты (anterior aortic annular enlargement)",
-        "C": "Заднее расширение фиброзного кольца аорты (posterior aortic annular enlargement)",
-        "D": "Двунаправленное (комбинированное) расширение фиброзного кольца аорты (two-directional aortic annular enlargement)"
+        "A": "Формирование верхушечно-аортального кондуита к нисходящей аорте",
+        "B": "Переднее расширение фиброзного кольца аорты",
+        "C": "Заднее расширение фиброзного кольца аорты",
+        "D": "Двунаправленное (комбинированное) расширение фиброзного кольца аорты"
       },
       "correctAnswer": "B",
       "explanationEn": "🎯 **Correct Answer: Option B: anterior aortic annular enlargement.**\n\n🔵 **Detailed Clinical and Pathophysiological Rationale:**\nIn patients undergoing aortic valve replacement (AVR) for severe aortic stenosis, a small native aortic annulus (e.g., matching a 19 mm stented bioprosthesis) poses a significant risk of **patient-prosthesis mismatch (PPM)**. PPM occurs when the effective orifice area (EOA) of the implanted prosthesis is too small relative to the patient's body surface area (BSA), resulting in abnormally high residual transvalvular pressure gradients. An indexed EOA (iEOA) of **0.6 cm²/m²** is classified as **severe PPM** (defined as iEOA < 0.65 cm²/m²).\n\nTo prevent severe PPM and its associated adverse clinical outcomes (reduced survival, persistent left ventricular hypertrophy, and recurrent heart failure), several surgical strategies exist:\n\n#### 1. Why Option B is the Correct Answer (the EXCEPT):\n* **Anatomy and Limitations of Anterior Enlargement:** There is **no simple anterior aortic annular enlargement technique** comparable to posterior techniques.\n* **Konno-Rastan is an Aortoventriculoplasty, Not simple Annular Enlargement:** The anterior aspect of the aortic annulus is in close proximity to the right ventricular outflow tract (RVOT) and the pulmonary valve. Anterior enlargement (the **Konno-Rastan procedure**) requires a vertical incision through the right ventricular infundibulum and the interventricular septum. This is an **aortoventriculoplasty**—a highly invasive, complex pediatric procedure primarily used for complex tunnel-like subaortic stenosis and multilevel left ventricular outflow tract (LVOT) obstruction. Because of its extreme complexity, morbidity, and necessity to reconstruct the RVOT with a patch or conduit, it is **not** a standard or appropriate option for preventing simple patient-prosthesis mismatch in adults undergoing AVR for valvular stenosis.\n\n#### 2. Why the Other Options are Valid Surgical Strategies:\n* 🔸 **Option A (Apico-aortic conduit):** Apical-aortic conduit (or aortic valve bypass) is a highly effective, recognized alternative for high-risk patients with severe aortic stenosis and a small annulus or porcelain aorta. By shunting blood from the left ventricular apex to the descending aorta through a valved conduit, it completely bypasses the stenotic native valve. Because blood flows through both the native LVOT and the conduit, the total EOA is the sum of both pathways, thereby **abolishing the risk of PPM**.\n* 🔸 **Option C (Posterior aortic annular enlargement):** Posterior enlargement techniques (such as the **Nicks** and **Manouguian** procedures, or the modern **Y-incision/Y-AAE** technique) are the **gold standard and most common surgical options** to prevent PPM during AVR. By extending the aortotomy posteriorly into the noncoronary sinus (Nicks) or the left-noncoronary commissure and across the subaortic curtain into the anterior mitral leaflet (Manouguian), the annulus can be safely enlarged by 1 to 2 valve sizes (often increasing the annulus diameter by up to 68%).\n* 🔸 **Option D (Two-directional aortic annular enlargement):** Two-directional aortic annular enlargement is a described surgical technique (originally by Otaki et al. in 1997) that combines **both posterior and anterior enlargement**. It is indicated when posterior enlargement alone is insufficient to accommodate a prosthesis of acceptable size. While complex, it is a documented anatomical technique to enlarge the aortic ring by up to 68% to prevent PPM.\n\n📚 **Board Pearl:**\n* **PPM Severity Thresholds:**\n  * **Mild PPM:** iEOA > 0.85 cm²/m².\n  * **Moderate PPM:** iEOA 0.65 to 0.85 cm²/m².\n  * **Severe PPM:** iEOA < 0.65 cm²/m² (our patient has 0.60 cm²/m², representing severe mismatch).\n* **Nicks vs. Manouguian:**\n  * **Nicks' incision:** Through the noncoronary sinus; enlarges the annulus by ~1 size.\n  * **Manouguian's incision:** Through the left-noncoronary commissure into the anterior mitral leaflet; enlarges the annulus by 2+ sizes but requires patch reconstruction of the roof of the left atrium.\n\n🔥 **Memory Aid / Mnemonic:**\nRemember the options for managing a small aortic root using **\"P-A-S-S\"**:\n* **P** - **P**osterior annular enlargement (Nicks, Manouguian).\n* **A** - **A**pico-aortic conduit.\n* **S** - **S**tentless bioprosthesis (such as Freestyle).\n* **S** - **S**ize-up of mechanical/bioprosthetic valves (e.g., using supra-annular top-hat models).\n*(Note that simple **anterior** annular enlargement is NOT on this list because Konno-Rastan is an aortoventriculoplasty used for complex subvalvular stenosis, not simple PPM).*",
@@ -1051,11 +1051,11 @@
         "E": "recurrent embolism"
       },
       "optionsRu": {
-        "A": "Грибковая инфекция / фунгемия (fungemia)",
-        "B": "Нарушение проводимости / АВ-блокада (heart block)",
-        "C": "Сердечная недостаточность (heart failure)",
-        "D": "Бактериемия MRSA (MRSA bacteremia)",
-        "E": "Рецидивирующие эмболии (recurrent embolism)"
+        "A": "Грибковая инфекция / фунгемия",
+        "B": "Нарушение проводимости / АВ-блокада",
+        "C": "Сердечная недостаточность",
+        "D": "Бактериемия MRSA",
+        "E": "Рецидивирующие эмболии"
       },
       "correctAnswer": "E",
       "explanationEn": "🎯 Correct Answer: Option E: recurrent embolism.\n\n🔵 Detailed Clinical and Pathophysiological Rationale:\nThis clinical scenario describes a 68-year-old patient who presents with prosthetic valve endocarditis (PVE) 4 months after an aortic valve replacement (AVR). His blood cultures are positive for methicillin-resistant Staphylococcus aureus (MRSA), which represents an active and highly aggressive prosthetic valve infection. Under current guidelines (such as the American Association for Thoracic Surgery [AATS], ACC/AHA, and ESC guidelines), surgical intervention during the initial hospitalization is required for specific indications:\n\n1. Why Option E is the Correct Answer (the EXCEPT):\n* Class IIa (Relative) Indication: According to the ACC/AHA and AATS guidelines, recurrent embolism (Option E) in a patient who is otherwise stable on appropriate antimicrobial therapy is a Class IIa (relative) indication, not a Class I (absolute) indication. Specifically, the guidelines state that early surgery is reasonable (Class IIa) for patients with left-sided IE who present with recurrent emboli and persistent vegetations despite appropriate antibiotic therapy. Since Class IIa indicates that the benefit exceeds the risk but is not a mandate, it is classified as a relative/non-absolute indication.\n\n2. Why the Other Options Are Class I (Absolute) Indications:\n* 🔸 Option A (fungemia): Prosthetic valve endocarditis caused by fungi (fungemia) is a Class I (absolute) indication for early surgery. Fungi are extremely difficult to eradicate with medical therapy alone due to biofilm formation, and delayed surgery carries a mortality rate approaching 100%.\n* 🔸 Option B (heart block): The development of a new conduction block (such as complete heart block or bundle branch block) in the setting of aortic valve endocarditis is a Class I (absolute) indication for urgent surgery. Heart block indicates that the infection has extended beyond the valve leaflets into the adjacent central fibrous body and membranous septum, causing a periannular or aortic root abscess that compresses or destroys the bundle of His.\n* 🔸 Option C (heart failure): Valve dysfunction (such as severe prosthetic regurgitation or obstruction) causing congestive heart failure (CHF) or hemodynamic compromise is the most common Class I (absolute) indication for emergency or urgent surgery. Refractory heart failure is associated with rapid progression to multi-organ failure and death unless the mechanical valvular obstruction or leak is repaired surgically.\n* 🔸 Option D (MRSA bacteremia): According to the AATS and ACC/AHA guidelines, left-sided infective endocarditis caused by Staphylococcus aureus (which includes MRSA) is a Class I (absolute) indication for surgery during the initial hospitalization. S. aureus is a highly virulent and aggressive pathogen that causes rapid valvular destruction, perivalvular invasion, and high embolic rates. Medical therapy alone often fails to clear the infection, making early surgical intervention necessary for patient survival.\n\n📚 Board Pearl:\n* Indications for Early Surgery (Class I vs. Class IIa): On board exams, remember that fungal infection, S. aureus (MRSA) left-sided infection, heart block/root abscess, and heart failure are all absolute Class I indications for surgery during the initial hospitalization. In contrast, recurrent embolism with persistent vegetations is a Class IIa (relative) indication.\n* Vegetation Size Prophylaxis: Prophylactic surgery for an isolated large vegetation without embolism is a Class IIb indication if the size is >10 mm, and Class IIa/b if >15 mm.\n\n🔥 Memory Aid / Mnemonic:\nRemember the Class I (absolute) indications for surgery in left-sided IE using \"F-I-S-H\":\n* F - Fungemia / Fungal infection.\n* I - Invasive extension (heart block, root abscess, fistula).\n* S - Staphylococcus aureus (MRSA) infection.\n* H - Heart failure (valve dysfunction causing pulmonary edema/shock).\n(Note that recurrent embolism is NOT in the main F-I-S-H acronym because it is Class IIa, a relative indication!).",
@@ -1092,11 +1092,11 @@
         "E": "transseptal"
       },
       "optionsRu": {
-        "A": "Прямой аортальный доступ через верхнюю частичную стернотомию (direct aortic)",
-        "B": "Доступ через левую подключичную артерию (left subclavian / transsubclavian)",
-        "C": "Забрюшинный кондуит к общей подвздошной артерии (retroperitoneal conduit)",
-        "D": "Трансапикальный доступ (transapical)",
-        "E": "Транссептальный доступ (transseptal)"
+        "A": "Прямой аортальный доступ через верхнюю частичную стернотомию",
+        "B": "Доступ через левую подключичную артерию",
+        "C": "Забрюшинный кондуит к общей подвздошной артерии",
+        "D": "Трансапикальный доступ",
+        "E": "Транссептальный доступ"
       },
       "correctAnswer": "C",
       "explanationEn": "🎯 **Correct Answer: Option C: retroperitoneal conduit to the common iliac artery.**\n\n🔵 **Detailed Clinical and Pathophysiological Rationale:**\nTranscatheter aortic valve implantation (TAVI or TAVR) has revolutionized the treatment of severe calcific aortic stenosis, particularly in patients who are elderly, frail, or at high/prohibitive risk for conventional surgical aortic valve replacement (SAVR).\n\n#### 1. Why Option C is the Correct Answer (the EXCEPT):\n* **Indication for Retroperitoneal Iliac Conduit:** A **retroperitoneal conduit to the common iliac artery (Option C)** is a surgical access technique utilized in **thoracic endovascular aortic repair (TEVAR)** or **endovascular abdominal aortic aneurysm repair (EVAR)**, but **not** as an alternative access for TAVI.\n* **Why it is not used in TAVI:** In TEVAR/EVAR, retroperitoneal exposure with construction of a temporary or permanent 8-10 mm Dacron or PTFE conduit to the common iliac artery is constructed to deliver very large-bore sheaths (typically 18 to 24 Fr) when the patient's common femoral and external iliac arteries are too small, calcified, or tortuous. While this is a standard vascular access strategy in aortic endovascular surgery, it is not used as a clinical alternative access route for TAVI procedures.\n\n#### 2. Why the Other Options are Valid Alternative TAVI Accesses:\n* 🔸 **Option A (direct aortic / transaortic):** Transaortic access via a mini-incision (such as an **upper partial J-sternotomy** or right second intercostal space minithoracotomy) is a highly reliable alternative access for TAVI. The delivery sheath is inserted directly into the ascending aorta, bypassing any peripheral arterial pathology.\n* 🔸 **Option B (left subclavian / transsubclavian):** The trans-subclavian or transaxillary retrograde approach is a well-established, surgery-free alternative for retrograde TAVI when femoral access is prohibited. It provides a direct, relatively straight course into the ascending aorta and aortic valve, with excellent catheter control.\n* 🔸 **Option D (transapical):** The transapical approach, accessed via a left anterolateral minithoracotomy, is one of the earliest and most extensively studied alternative access routes for TAVI. A sheath is inserted directly through the left ventricular apex. While its invasiveness has led to a decline in routine use in favor of other non-thoracic alternatives, it remains a classically recognized TAVI access option.\n* 🔸 **Option E (transseptal):** The **transseptal antegrade approach** was actually the historical delivery route used by Alain Cribier in the first-in-human TAVI procedure in 2002. In this approach, the catheter enters the femoral vein, crosses the interatrial septum via the fossa ovalis into the left atrium, passes through the mitral valve into the left ventricle, and then deploys the valve antegradely across the aortic outflow tract. Although technically demanding and rarely performed today due to the success of retrograde techniques, it remains a valid alternative access route described in contemporary literature for patients with absolutely no other vascular access.\n\n📚 **Board Pearl:**\n* **TAVI Alternative Access Routes:** On cardiothoracic board exams, remember that TAVI can be performed via retrograde or antegrade approaches:\n  * **Retrograde:** Transfemoral (preferred), transaxillary/subclavian, transcarotid, transaortic (direct aortic), and transcaval.\n  * **Antegrade:** Transapical (via left LV apex) and transseptal (via femoral vein, crossing the fossa ovalis).\n* **Complication Profiles:** Transapical TAVI is associated with a higher risk of apical pseudoaneurysm, myocardial tear, and pleural complications. Transaortic access avoids femoral complications but requires entry into the chest and ascending aortic manipulation.\n\n🔥 **Mnemonic / Memory Aid:**\nRemember TAVI access routes with the phrase **\"T-A-V-I   C-A-P-S\"**:\n* **T** - **T**ransfemoral (gold standard retrograde).\n* **A** - **A**ortic (direct transaortic).\n* **V** - **V**ein to **V**alve (**Transseptal** antegrade via venous system).\n* **I** - **I**liac/femoral conduit is **NOT** a TAVI access!\n* **C** - **C**arotid / **C**aval (transcarotid and transcaval).\n* **A** - **A**xillary / Subclavian (left subclavian retrograde).\n* **P** - **P**apilla (**Transapical** via LV apex).",
@@ -1255,8 +1255,8 @@
       "optionsRu": {
         "A": "Компьютерная томография (КТ) головного мозга",
         "B": "Катетеризация полостей сердца / коронарография",
-        "C": "Эхокардиография (Echocardiogram / TTE / TEE)",
-        "D": "КТ-ангиография органов грудной клетки по протоколу ТЭЛА (PE protocol chest CT)"
+        "C": "Эхокардиография",
+        "D": "КТ-ангиография органов грудной клетки по протоколу ТЭЛА"
       },
       "correctAnswer": "C",
       "explanationEn": "🎯 Correct Answer: Option C: echocardiogram.\n\n🔵 Detailed Clinical and Pathophysiological Rationale:\n• Pathophysiology of Delayed Postoperative Cardiac Tamponade:\n  * This patient represents a classic clinical presentation of delayed cardiac tamponade following cardiac surgery.\n  * The Pacing Wire Removal Trigger: Epicardial pacing wires are placed directly onto the epicardium of the atrium or ventricle during cardiac surgery. When temporary pacing wires are removed postoperatively (typically on POD#3 as in this patient), their extraction can cause localized tearing or laceration of the thin-walled right atrium, right ventricle, or adjacent venous structures. This can result in slow, insidious bleeding into the mediastinal or pericardial space.\n  * Accumulation of Blood and Clots: Because the patient's chest tubes had already been removed on POD#2, any bleeding triggered by wire removal on POD#3 cannot drain externally. Instead, it accumulates in the closed mediastinal/pericardial cavity over the subsequent 48 hours, eventually presenting on POD#5.\n  * Hemodynamic and Metabolic Derangements: As the blood/clot volume increases, intrapericardial pressure rises, compressing the thin-walled right atrium and ventricle and impeding diastolic filling. This leads to low cardiac output syndrome (LCOS):\n    1. Tachycardia (HR 110) & Hypotension (BP 90/60): Compensatory mechanisms for severely reduced stroke volume.\n    2. Oliguria (70 mL/shift): Reflects poor renal perfusion secondary to cardiogenic shock and venous congestion.\n    3. Metabolic Acidosis (pH 7.28, BE -5, pCO2 32): Indicates global tissue hypoperfusion, systemic lactic acidosis, and compensatory respiratory hyperventilation (lowering pCO2 to 32).\n    4. Somnolence & Dyspnea: Reflect compromised cerebral and pulmonary perfusion under low cardiac output states.\n\n• Diagnostic Utility of Echocardiography (Why Option C is Correct):\n  * Echocardiography (Transthoracic Echocardiography [TTE] or Transesophageal Echocardiography [TEE]) is the gold standard and most rapid bedside modality for diagnosing postoperative pericardial effusions and cardiac tamponade.\n  * It can immediately identify fluid or localized clot compressing the cardiac chambers (right atrial diastolic collapse, right ventricular diastolic collapse, or left ventricular diastolic collapse).\n  * TEE is highly superior to TTE in the postoperative setting due to poor acoustic windows (up to 60% of postoperative patients have suboptimal TTE windows due to surgical emphysema, dressings, or lung inflation) and its ability to detect localized posterior hematomas compressing the left atrium or left ventricle.\n\n❌ Why the Other Options Are Incorrect:\n• 🔸 Option A (brain CT scan): While the patient has somnolence, this is a systemic sign of global cerebral hypoperfusion due to low cardiac output/cardiogenic shock, not a localized primary neurologic event (like an ischemic or hemorrhagic stroke). Performing a brain CT scan is a distraction that delays life-saving decompression of the heart.\n• 🔸 Option B (cardiac catheterization): Coronary angiography or left heart catheterization is indicated for acute myocardial ischemia or suspected graft failure. However, this patient is in hemodynamically unstable shock from tamponade. Catheterization is highly invasive, carries high procedural risks in an unstable patient, and is not the primary diagnostic test for a mechanical compression pathology.\n• 🔸 Option D (PE protocol chest CT): While pulmonary embolism (PE) can cause dyspnea, tachycardia, and hypotension, the timing (POD#5) is classical for tamponade after pacing wire removal on POD#3. Furthermore, a PE-protocol CT requires the administration of nephrotoxic iodinated contrast, which is highly contraindicated in a patient already in acute renal distress (oliguria of 70 mL/shift) and cardiogenic shock. Most importantly, an echocardiogram can be performed rapidly at the bedside within minutes without transporting an unstable patient.\n\n📚 Board Pearl:\n* Pacing Wire Tamponade: On board exams, the clinical vignette of sudden hemodynamic collapse, oliguria, and somnolence shortly after pacing wire removal (classic POD 4-10 window) is pathognomonic for delayed cardiac tamponade.\n* Echocardiogram vs. CT: Bedside echocardiography is always the first-line and best diagnostic test of choice. In unstable patients or when TTE acoustic windows are poor, TEE is highly sensitive and preferred over chest CT.\n\n🔥 Memory Aid / Mnemonic:\nRemember the triad of risk, presentation, and diagnosis of pacing wire tamponade with \"P-U-L-L\":\n* P - Pacing wires pulled (POD#3) → triggers bleeding.\n* U - Urine output falls and acidosis develops (renal/tissue hypoperfusion).\n* L - Low blood pressure and tachycardia (LCOS / shock).\n* L - Look with Echocardiogram (TTE/TEE) immediately to diagnose and treat!",
@@ -1290,10 +1290,10 @@
         "D": "a pedicled left internal thoracic artery graft alone"
       },
       "optionsRu": {
-        "A": "Двустороннее использование внутренних грудных артерий на единой мышечно-венозной ножке (bilateral pedicled ITA)",
-        "B": "Двустороннее использование скелетированных внутренних грудных артерий (bilateral skeletonized ITA)",
-        "C": "Скелетированный шунт из левой внутренней грудной артерии и шунт из правой желудочно-сальниковой артерии (RGEA)",
-        "D": "Изолированный шунт из левой внутренней грудной артерии на ножке (pedicled LITA)"
+        "A": "Двустороннее использование внутренних грудных артерий на единой мышечно-венозной ножке",
+        "B": "Двустороннее использование скелетированных внутренних грудных артерий",
+        "C": "Скелетированный шунт из левой внутренней грудной артерии и шунт из правой желудочно-сальниковой артерии",
+        "D": "Изолированный шунт из левой внутренней грудной артерии на ножке"
       },
       "correctAnswer": "A",
       "explanationEn": "🎯 Correct Answer: Option A: bilateral pedicled internal thoracic artery grafts.\n\n🔵 Detailed Clinical and Pathophysiological Rationale:\n• Anatomy and Sternal Perfusion:\n  * The sternum receives its primary blood supply from the internal thoracic arteries (ITAs) (also known as internal mammary arteries [IMAs]) via sternal perforating and mediastinal branches.\n  * Harvesting the ITA as a pedicle involves taking the artery along with its accompanying satellite veins, endothoracic fascia, fat, and surrounding muscle. This process significantly disrupts and devascularizes the sternal collateral blood flow.\n  * If bilateral pedicled ITA (BIMA) grafts are harvested, the blood supply to both halves of the sternum is critically compromised, leading to severe sternal ischemia. This ischemic state drastically impairs normal wound healing and bone consolidation.\n\n• Synergistic Impact of Diabetes and Active Smoking:\n  * The patient has two major risk factors that further exacerbate wound-healing complications:\n    1. Diabetes Mellitus: Chronic hyperglycemia leads to microvascular disease, impaired leukocyte chemotaxis, and reduced collagen synthesis, which significantly increases the baseline risk of mediastinitis and deep sternal wound infection (DSWI).\n    2. Active Smoking: Nicotine is a potent vasoconstrictor that reduces peripheral tissue perfusion, while carbon monoxide increases carboxyhemoglobin levels, impairing tissue oxygenation. Smoking is also an established independent risk factor for sternal dehiscence.\n  * When these patient-specific comorbidities are combined with the extensive ischemia from bilateral pedicled ITA harvesting, the risk of developing mediastinitis and DSWI rises exponentially.\n\n• Addressing the Other Choices (Why they carry lower risk):\n  * Option B is incorrect: Skeletonization of the ITA involves carefully dissecting the artery away from its surrounding fascia, veins, and muscle bed. This technique preserves the collateral vascular supply to the sternum, as well as lymphatic drainage. Clinical registries and randomized controlled trials (such as the Arterial Revascularization Trial [ART]) have demonstrated that in high-risk patients (diabetics and obese patients), bilateral skeletonized ITA harvest significantly reduces the risk of DSWI compared to the pedicled technique.\n  * Option C is incorrect: This strategy uses a single skeletonized LITA (which preserves left-sided sternal perfusion) and an extra-thoracic arterial conduit, the right gastroepiploic artery (RGEA). Because only one ITA is used and it is harvested using the skeletonized technique, sternal perfusion is extremely well preserved compared to harvesting both ITAs as a pedicle.\n  * Option D is incorrect: Using a single pedicled LITA graft (usually to the LAD) combined with supplemental saphenous vein grafts (SVGs) represents the standard revascularization strategy. Although harvested as a pedicle, only one side of the sternum is affected. The contralateral right ITA is left completely intact, maintaining sufficient sternal collateral flow to prevent ischemic dehiscence and infection.\n\n📚 Board Pearl:\n* ITA Harvesting Techniques & Sternal Complications: On thoracic surgery board exams, remember that bilateral pedicled ITA grafting (BIMA) carries an unacceptably high risk of deep sternal wound infection (mediastinitis) and sternal dehiscence in diabetic, obese, or active smoking patients.\n* The Power of Skeletonization: Skeletonized harvesting is recommended as a Class I/LOE B indication for patients with a high risk of sternal complications, as it preserves sternal collateral circulation.\n\n🔥 Memory Aid / Mnemonic:\nRemember the risks of sternal infection with the phrase \"P-E-D-I-C-L-E = P-R-O-B-L-E-M\":\n* Pedicled Pairs (Bilateral Pedicled ITAs) severely compromise sternal perfusion.\n* Skeletonization Saves the Sternum!",
@@ -1330,7 +1330,7 @@
         "E": "off-pump PTFE felt external patching around the perimeter of the myocardial perforation"
       },
       "optionsRu": {
-        "A": "Бесшовная / аппликационная пластика биологическим клеем и заплатой из бычьего перикарда (bovine pericardial patch and glue repair) зоны инфаркта свободной стенки ЛЖ и возможное шунтирование ветви тупого края",
+        "A": "Бесшовная / аппликационная пластика биологическим клеем и заплатой из бычьего перикарда зоны инфаркта свободной стенки ЛЖ и возможное шунтирование ветви тупого края",
         "B": "Полное дренирование выпота из перикарда и установка медиастинального дренажа",
         "C": "Иссечение зоны инфаркта и реконструкция заплатой из Dacron® в условиях ИК, а также возможное АКШ ветви тупого края",
         "D": "Ушивание разрыва П-образными швами на прокладках на работающем сердце с использованием стабилизатора верхушки",
@@ -1369,7 +1369,7 @@
         "E": "off-pump PTFE felt external patching around the perimeter of the myocardial perforation"
       },
       "optionsRu": {
-        "A": "Бесшовная / аппликационная пластика биологическим клеем и заплатой из бычьего перикарда (bovine pericardial patch and glue repair) зоны инфаркта свободной стенки ЛЖ и возможное шунтирование ветви тупого края",
+        "A": "Бесшовная / аппликационная пластика биологическим клеем и заплатой из бычьего перикарда зоны инфаркта свободной стенки ЛЖ и возможное шунтирование ветви тупого края",
         "B": "Полное дренирование выпота из перикарда и установка медиастинального дренажа",
         "C": "Иссечение зоны инфаркта и реконструкция заплатой из Dacron® в условиях ИК, а также возможное АКШ ветви тупого края",
         "D": "Ушивание разрыва П-образными швами на прокладках на работающем сердце с использованием стабилизатора верхушки",
@@ -1484,9 +1484,9 @@
       "optionsRu": {
         "A": "Введение коронарного вазодилататора",
         "B": "Замена ВАБК на баллонный катетер большего размера",
-        "C": "Имплантация пассивного устройства для ограничения объема левого желудочка (LV restraint device)",
+        "C": "Имплантация пассивного устройства для ограничения объема левого желудочка",
         "D": "Установка экстракорпорального (паракорпорального) устройства вспоможения левого желудочка с постоянным потоком (LVAD)",
-        "E": "Имплантация интракорпорального LVAD с постоянным потоком в качестве конечной терапии (destination therapy)"
+        "E": "Имплантация интракорпорального LVAD с постоянным потоком в качестве конечной терапии"
       },
       "correctAnswer": "D",
       "explanationEn": "🎯 Correct Answer: Option D: insertion of a paracorporeal continuous-flow left ventricular assist device (LVAD).\n\n🔵 Detailed Clinical and Pathophysiological Rationale:\n• Pathophysiology of Postcardiotomy Cardiogenic Shock (PCCS):\n  * This patient represents a classic case of severe, acute ischemic left ventricular dysfunction (EF 20%) complicating a recent myocardial infarction, undergoing coronary artery bypass grafting (CABG).\n  * Although graft flows are adequate, the patient cannot be weaned from cardiopulmonary bypass (CPB) despite maximal medical support (high-dose inotropes) and intra-aortic balloon pump (IABP) counterpulsation. This is the definition of postcardiotomy cardiogenic shock (PCCS), which occurs in approximately 0.2% to 0.6% of patients undergoing cardiac surgery.\n  * Under these conditions, the myocardium is experiencing severe myocardial stunning (ischemia-reperfusion injury). Because the preoperative viability study confirmed large areas of hibernating myocardium, this contractile dysfunction is highly likely to be reversible once the stunned myocardium recovers over several days to weeks.\n\n• Why a Paracorporeal Continuous-Flow LVAD is the Best Strategy (Option D):\n  * Temporary Mechanical Circulatory Support (MCS): When first-line therapies (inotropes and IABP) fail to allow separation from CPB, the immediate priority is to institute short-term mechanical assistance to restore systemic organ perfusion, prevent multi-organ failure, and unload the left ventricle, which decreases wall tension and oxygen consumption, facilitating metabolic and functional recovery of the stunned myocardium.\n  * Paracorporeal Central Assist Devices: The CentriMag system (or similar paracorporeal/extracorporeal continuous-flow devices) is the ideal choice for postcardiotomy shock. It utilizes central cannulation sites (left atrium or LV apex to ascending aorta) that are already exposed during open-heart surgery via the median sternotomy. This allows rapid, sterile, and non-traumatic institution of high-flow left ventricular assist support (providing flows up to 5–10 L/min).\n  * Preservation of the Right Ventricle: Because the patient's right ventricular (RV) function is good, isolated left ventricular support is highly effective. In contrast to ECMO, an LVAD directly decompresses the left atrium and pulmonary venous circulation, minimizing the risk of pulmonary edema.\n\n• Why the Other Options Are Incorrect:\n  * 🔸 Option A (coronary vasodilator agent): Vasodilators (such as nitroglycerin or calcium channel blockers) are used to treat suspected coronary artery vasospasm. However, the patient's graft flows are already documented as reasonable and patent. Giving high-dose vasodilators in a patient with profound cardiogenic shock would cause catastrophic vasoplegia and systemic hypotension, further compromising coronary perfusion and worsening shock.\n  * 🔸 Option B (larger IABP): The patient is already on full IABP counterpulsation and high-dose inotropes and remains completely dependent on the CPB circuit. Simply up-sizing the balloon catheter will not provide any significant increase in flow or pressure to overcome refractory postcardiotomy shock.\n  * 🔸 Option C (passive LV restraint device): Passive LV restraint devices (such as the CorCap) are designed to wrap around the epicardium in chronic, dilated cardiomyopathy to halt progressive remodeling. They do not provide active circulatory flow or unloading, and have absolutely no role in acute resuscitation or weaning from CPB.\n  * 🔸 Option E (intracorporeal CF-LVAD as destination therapy): Implantation of a durable, permanent, intracorporeal continuous-flow LVAD (like the HeartMate 3) is strongly contraindicated in the acute postcardiotomy setting. Durable devices require extensive pre-implant screening, are incredibly expensive, and are permanent. Most importantly, this patient has highly viable, hibernating myocardium that is expected to recover (bridge to recovery). Emergent durable LVAD insertion under these conditions has extremely poor outcomes, and professional guidelines explicitly state: \"Insertion of a long-term implantable VAD under these circumstances is inadvisable\".\n\n📚 Board Pearl:\n* Weaning Failure on Bypass: For surgical board exams, memorize the therapeutic hierarchy for postcardiotomy shock:\n  1. Pharmacologic Optimization: Preload, afterload (SVR), inotropes (epinephrine/milrinone).\n  2. First-line Mechanical Support: Intra-aortic balloon pump (IABP).\n  3. Short-Term/Temporary MCS: Paracorporeal central VAD (CentriMag) or veno-arterial (VA) ECMO.\n  4. Never emergently implant a durable, long-term intracorporeal VAD (Destination Therapy) as a first-line treatment for postcardiotomy weaning failure.\n\n🔥 Memory Aid / Mnemonic:\nRemember the optimal management of postcardiotomy weaning failure with good RV and viable LV using \"T-E-M-P-O\":\n* T - Temporary support is mandatory to bridge the stunned muscle.\n* E - Evade Emergent implantation of durable/permanent devices (inadvisable!).\n* M - Maximize myocardial rest using paracorporeal central devices (CentriMag).\n* P - Pulmonary congestion is avoided because the LV is directly decompressed.\n* O - Organ perfusion is restored while the Operator waits for the Old hibernating myocardium to wake up!",
@@ -1561,7 +1561,7 @@
       "optionsRu": {
         "A": "Трансфузия тромбоцитарного концентрата сразу после отключения от ИК в дополнение к нейтрализации протамином",
         "B": "Введение фиксированной дозы протамина 1 мг/кг и подтверждение возврата АВК к исходному уровню",
-        "C": "Расчет дозы протамина после ИК на основе измерения концентрации остаточного гепарина (heparin dose-response / residual heparin concentration testing)",
+        "C": "Расчет дозы протамина после ИК на основе измерения концентрации остаточного гепарина",
         "D": "Введение фиксированной дозы протамина (3 мг/кг) после ИК",
         "E": "Введение фиксированной дозы протамина (1 мг/кг) после ИК"
       },
@@ -1753,11 +1753,11 @@
         "E": "prolonged intubation"
       },
       "optionsRu": {
-        "A": "Более высокая частота предсердных аритмий (atrial arrhythmias)",
-        "B": "Более высокая смертность, превышающая ожидаемые показатели (higher than expected mortality rates)",
-        "C": "Более высокая частота повторных интубаций (reintubation)",
-        "D": "Длительная госпитализация (prolonged hospitalization)",
-        "E": "Длительная ИВЛ / интубация (prolonged intubation)"
+        "A": "Более высокая частота предсердных аритмий",
+        "B": "Более высокая смертность, превышающая ожидаемые показатели",
+        "C": "Более высокая частота повторных интубаций",
+        "D": "Длительная госпитализация",
+        "E": "Длительная ИВЛ / интубация"
       },
       "correctAnswer": "A",
       "explanationEn": "🎯 Correct Answer: Option A: higher incidence of atrial arrhythmias.\n\n🔵 Detailed Clinical and Pathophysiological Rationale:\n• Pathophysiology of Phrenic Nerve Injury (PNI) in Cardiac Surgery:\n  * PNI is a well-recognized complication of open-heart surgery, occurring in approximately 10% to 20% of patients.\n  * Mechanism of Injury: The primary cause of PNI is cold injury (frostbite/paresis) of the nerve resulting from the direct application of topical iced saline slush in the pericardial well for myocardial hypothermia. It can also occur due to mechanical stretch or direct thermal/cautery injury during the harvesting of the internal thoracic (mammary) artery (ITA/IMA), especially in the upper mediastinum.\n  * Physiological Consequences: Damage to the phrenic nerve leads to unilateral or bilateral diaphragmatic paresis/paralysis, which manifests radiographically as an elevated hemidiaphragm. Loss of diaphragmatic mobility severely compromises respiratory mechanics, reduces forced expiratory volume (FEV1), increases pulmonary ventilation-perfusion mismatch (shunting), and causes basilar atelectasis.\n\n• Direct Clinical Consequences of PNI (Why Options B, C, D, and E are True):\n  * Prolonged Intubation (Option E): Because of compromised lung mechanics, patients with PNI are much harder to wean from positive-pressure mechanical ventilation, resulting in significantly prolonged postoperative intubation times.\n  * Higher Rates of Reintubation (Option C): Even if successfully extubated initially, these patients are at high risk of progressive respiratory fatigue, hypercapnia, and atelectasis, leading to a much higher-than-normal rate of rescue reintubation.\n  * Prolonged Hospitalization (Option D): The combination of respiratory failure, prolonged ICU stay, and the need for pulmonary rehabilitation or interventions (such as diaphragmatic plication) significantly prolongs the overall hospital stay.\n  * Higher than Expected Mortality Rates (Option B): In patients with preexisting lung disease—specifically Chronic Obstructive Pulmonary Disease (COPD)—PNI acts as a severe second hit, leading to devastating respiratory failure, pulmonary infections, and significantly increased early and midterm mortality.\n\n• Why Atrial Arrhythmias (Option A) is the Correct EXCEPT Choice:\n  * Postoperative atrial fibrillation (AF) and other atrial arrhythmias are incredibly common after cardiac surgery, peaking on postoperative days 2 and 3.\n  * While respiratory distress (hypoxia, hypercapnia) can occasionally trigger or exacerbate arrhythmias, atrial arrhythmias are NOT a direct, established consequence or characteristic outcome of phrenic nerve injury. The primary drivers of postoperative AF are surgical trauma to the atria, pericardial inflammation, elevated sympathetic/catecholamine tone, and electrolyte shifts (such as hypokalemia). There is no clinical or database association between PNI and a higher incidence of atrial arrhythmias.\n\n📚 Board Pearl:\n* Topical Slush & PNI: On cardiothoracic boards, topical iced saline slush in the pericardial well is the classic risk factor for left phrenic nerve paralysis. Utilizing insulation pads, the \"shallow cooling technique,\" or avoiding iced slush reduces the incidence of diaphragmatic paralysis.\n* COPD Risk: While PNI can be asymptomatic in healthy patients, it is highly morbid in COPD patients, leading to prolonged ventilation, a 30-40% reintubation rate, and a significant drop in survival.\n\n🔥 Memory Aid / Mnemonic:\nRemember the respiratory consequences of phrenic nerve injury with \"D-R-I-P\":\n* D - Delayed extubation (prolonged intubation).\n* R - Reintubation rates are significantly higher.\n* I - ICU and hospital stays are prolonged.\n* P - Pulmonary mortality is higher, especially in COPD patients.\n* Note: Arrhythmias are NOT part of this respiratory-driven cascade!",
@@ -1951,7 +1951,7 @@
         "A": "Сердечный индекс (CI) = 1,8 л/(мин·м²)",
         "B": "Повышенное центральное венозное давление (ЦВД / CVP)",
         "C": "Среднее давление заклинивания легочной артерии (PCWP) = 25 мм рт. ст.",
-        "D": "Выраженные зубцы «V» (prominent 'V' waves) на кривой ДЗЛА",
+        "D": "Выраженные зубцы «V» на кривой ДЗЛА",
         "E": "Насыщение кислородом крови в легочной артерии (SvO2) = 80%"
       },
       "correctAnswer": "E",
@@ -2067,7 +2067,7 @@
         "A": "Связывание тромбоцитов через рецепторы GPIIb/IIIa с внутренними поверхностями контура искусственного кровообращения",
         "B": "Связывание тромбина с тромбомодулином и последующая активация протеина C",
         "C": "Гипотермия, приводящая к низкому уровню кининов",
-        "D": "Активация тромбоцитов, опосредованная PAR-1 (protease-activated receptor 1)",
+        "D": "Активация тромбоцитов, опосредованная PAR-1",
         "E": "Послеоперационная реинфузия дренажной (излившейся) крови"
       },
       "correctAnswer": "C",
@@ -2185,9 +2185,9 @@
       "optionsRu": {
         "A": "Введение коронарного вазодилататора",
         "B": "Замена ВАБК на баллонный катетер большего размера",
-        "C": "Имплантация пассивного устройства для ограничения объема левого желудочка (LV restraint device)",
+        "C": "Имплантация пассивного устройства для ограничения объема левого желудочка",
         "D": "Установка экстракорпорального (паракорпорального) устройства вспоможения левого желудочка с постоянным потоком (LVAD)",
-        "E": "Имплантация интракорпорального LVAD с постоянным потоком в качестве конечной терапии (destination therapy)"
+        "E": "Имплантация интракорпорального LVAD с постоянным потоком в качестве конечной терапии"
       },
       "correctAnswer": "D",
       "explanationEn": "🎯 **Correct Answer: Option D: insertion of a paracorporeal continuous-flow left ventricular assist device (LVAD).**\n\n🔵 **Detailed Clinical and Pathophysiological Rationale:**\n• **Pathophysiology of Postcardiotomy Cardiogenic Shock (PCCS):**\n  * This patient represents a classic case of severe, acute-on-chronic ischemic left ventricular dysfunction (EF 20%) complicating a recent myocardial infarction, undergoing coronary artery bypass grafting (CABG).\n  * Although graft flows are adequate and reasonable, the patient cannot be weaned from cardiopulmonary bypass (CPB) despite maximal medical support (high-dose inotropes) and intra-aortic balloon pump (IABP) counterpulsation. This is the definition of **postcardiotomy cardiogenic shock (PCCS)**, which occurs in approximately 0.2% to 0.6% of patients undergoing cardiac surgery.\n  * Under these conditions, the myocardium is experiencing severe **myocardial stunning (ischemia-reperfusion injury)**. Because the preoperative viability study confirmed **large areas of hibernating myocardium**, this contractile dysfunction is highly likely to be **reversible** once the stunned myocardium recovers over several days to weeks.\n\n• **Why a Paracorporeal Continuous-Flow LVAD is the Best Strategy (Option D):**\n  * **Temporary Mechanical Circulatory Support (MCS):** When first-line therapies (inotropes and IABP) fail to allow separation from CPB, the immediate priority is to institute short-term mechanical assistance to restore systemic organ perfusion, prevent multi-organ failure, and unload the left ventricle, which decreases wall tension and oxygen consumption, facilitating metabolic and functional recovery of the stunned myocardium.\n  * **Paracorporeal Central Assist Devices:** The **CentriMag system (or similar paracorporeal/extracorporeal continuous-flow devices)** is the ideal choice for postcardiotomy shock. It utilizes central cannulation sites (left atrium or LV apex to ascending aorta) that are already exposed during open-heart surgery via the median sternotomy. This allows rapid, sterile, and non-traumatic institution of high-flow left ventricular assist support (providing flows up to 5–10 L/min).\n  * **Preservation of the Right Ventricle:** Because the patient's right ventricular (RV) function is good, isolated left ventricular support is highly effective. In contrast to ECMO, an LVAD directly decompresses the left atrium and pulmonary venous circulation, minimizing the risk of pulmonary edema.\n\n• **Why the Other Options Are Incorrect:**\n  * 🔸 **Option A (coronary vasodilator agent):** Vasodilators (such as nitroglycerin or calcium channel blockers) are used to treat suspected coronary artery vasospasm. However, the patient's graft flows are already documented as reasonable and patent. Giving high-dose vasodilators in a patient with profound cardiogenic shock would cause catastrophic vasoplegia and systemic hypotension, further compromising coronary perfusion and worsening shock.\n  * 🔸 **Option B (larger IABP):** The patient is already on full IABP counterpulsation and high-dose inotropes and remains completely dependent on the CPB circuit. Simply up-sizing the balloon catheter will not provide any significant increase in flow or pressure to overcome refractory postcardiotomy shock.\n  * 🔸 **Option C (passive LV restraint device):** Passive LV restraint devices (such as the CorCap) are designed to wrap around the epicardium in chronic, dilated cardiomyopathy to halt progressive remodeling. They do not provide active circulatory flow or unloading, and have absolutely no role in acute resuscitation or weaning from CPB.\n  * 🔸 **Option E (intracorporeal CF-LVAD as destination therapy):** Implantation of a durable, permanent, intracorporeal continuous-flow LVAD (like the HeartMate 3) is **strongly contraindicated** in the acute postcardiotomy setting. Durable devices require extensive pre-implant screening, are incredibly expensive, and are permanent. Most importantly, this patient has highly viable, hibernating myocardium that is expected to recover (bridge to recovery). Emergent durable LVAD insertion under these conditions has extremely poor outcomes, and professional guidelines explicitly state: \"Insertion of a long-term implantable VAD under these circumstances is inadvisable.\"\n\n📚 **Board Pearl:**\n* **Weaning Failure on Bypass:** For surgical board exams, memorize the therapeutic hierarchy for postcardiotomy shock:\n  1. **Pharmacologic Optimization:** Preload, afterload (SVR), inotropes (epinephrine/milrinone).\n  2. **First-line Mechanical Support:** Intra-aortic balloon pump (IABP).\n  3. **Short-Term/Temporary MCS:** Paracorporeal central VAD (CentriMag) or veno-arterial (VA) ECMO.\n  4. *Never* emergently implant a durable, long-term intracorporeal VAD (Destination Therapy) as a first-line treatment for postcardiotomy weaning failure.\n\n🔥 **Memory Aid / Mnemonic:**\nFor postcardiotomy weaning failure with good RV and viable LV, think **\"T-E-M-P-O\"**:\n* **T** - **T**emporary support is mandatory to bridge the stunned muscle.\n* **E** - **E**vade **E**mergent implantation of durable/permanent devices (inadvisable!).\n* **M** - **M**aximize myocardial rest using **paracorporeal central devices** (CentriMag).\n* **P** - **P**ulmonary congestion is avoided because the LV is directly decompressed.\n* **O** - **O**rgan perfusion is restored while the **O**perator waits for the **O**ld hibernating myocardium to wake up!",
@@ -2224,7 +2224,7 @@
       "optionsRu": {
         "A": "Дополнительная антипролиферативная терапия сиролимусом",
         "B": "Моноклональные антитела к CD20 (ритуксимаб)",
-        "C": "Антитимоцитарный глобулин (ATG)",
+        "C": "Антитимоцитарный глобулин",
         "D": "Болюсное введение ингибитора кальциневрина (циклоспорин А, ФК506/такролимус)",
         "E": "Повторная трансплантация сердца"
       },
@@ -2400,7 +2400,7 @@
         "B": "Чрескожная установка устройства Impella 2.5®",
         "C": "Подключение чрескожной вено-артериальной ЭКМО через бедренную артерию и вену",
         "D": "Начало инфузии милринона в дозе 0,5 мкг/(кг·мин) и буметанида",
-        "E": "Подача пациентки в операционную для имплантации LVAD (HeartMate II®)"
+        "E": "Подача пациентки в операционную для имплантации LVAD"
       },
       "correctAnswer": "C",
       "explanationEn": "### 🎯 Correct Answer\n**Option C: Institute percutaneous ECMO through the femoral artery and vein.**\n\n### 🔬 Detailed Clinical and Pathophysiological Rationale\n• **Pathophysiology of Cardiogenic Shock and Allograft Dysfunction:**\n  * This 35-year-old female is 6 months post-orthotopic heart transplantation (OHT) and presents with profound, life-threatening **biventricular failure (cardiogenic shock)** and secondary respiratory failure.\n  * **Left ventricular (LV) failure** is evidenced by a severely reduced ejection fraction (EF 20%), a cardiac index (CI) of 1.6 L/(min*m²), and a highly elevated pulmonary capillary wedge pressure (PCWP = 25 mmHg) resulting in alveolar pulmonary edema on chest radiograph.\n  * **Right ventricular (RV) failure** is evidenced by the echocardiographic description (dilated and poorly contracting RV) and hemodynamics showing an extremely elevated central venous pressure (CVP = 25 mmHg), and a low calculated Right Ventricular Stroke Work Index (RVSWI).\n  * **End-Organ Damage and Tissue Hypoxia:** Profound systemic hypoperfusion has led to renal failure (anuria for 2 hours), severe metabolic lactic acidosis (serum lactate of 6 mmol/L, base excess of -6), and a low mixed venous oxygen saturation (SvO₂ = 40%). Worsening hypoxemia and hypercapnia (pO₂ = 60 mmHg, pCO₂ = 50 mmHg on 80% FiO₂) indicate respiratory failure secondary to cardiogenic pulmonary edema.\n  * **Medical Refractoriness:** The hemodynamic compromise has persisted and worsened despite standard first-line therapies (dobutamine at 5 μg/(kg*min) and epinephrine at 0.05–0.1 μg/(kg*min)). Adding another inotrope (Option D) or increasing the current doses will not provide sufficient forward flow and will only increase myocardial oxygen demand, risk malignant arrhythmias, and fail to stabilize the patient.\n\n• **Why Veno-Arterial (VA) ECMO is the Optimal Strategy (Option C):**\n  * **Rapid Biventricular and Respiratory Support:** Unlike univentricular assist options, veno-arterial (VA) ECMO provides immediate, total **biventricular circulatory support** (restoring systemic and coronary perfusion, unloading the RV, and bypassing both failing ventricles) and concurrent **respiratory support** (via the membrane oxygenator). This resolves the profound metabolic acidosis, tissue hypoxia, and pulmonary edema.\n  * **Ease of Bedside Insertion:** Percutaneous femoral cannulation (venous drainage from the femoral vein/right atrium, arterial return into the femoral artery/descending aorta) can be performed rapidly at the bedside in the ICU under ultrasound/fluoroscopic guidance, avoiding the delays, surgical trauma, and bleeding risks of emergency resternotomy in a highly unstable patient.\n  * **Bridge to Decision/Diagnosis:** VA ECMO stabilizes the patient's hemodynamics and reverses end-organ dysfunction, allowing the clinical team to safely perform diagnostic workups for the underlying cause of graft failure, such as acute cellular or antibody-mediated rejection, coronary allograft vasculopathy (CAV), or cytomegalovirus infection.\n  * **Favorable Outcomes:** Approximately 75% of patients with graft failure can be successfully weaned from rescue veno-arterial ECMO once the underlying rejection or stunning is treated.\n\n• **Why the Other Options Are Incorrect:**\n  * 🔸 **Option A is incorrect:** An **intra-aortic balloon pump (IABP)** is technically easy to place but provides only limited hemodynamic support. It reduces left ventricular afterload and augments coronary perfusion, but it **does not support the failing right ventricle** or address severe respiratory failure/pulmonary edema. It is insufficient to rescue a patient in refractory biventricular shock with multi-organ failure.\n  * 🔸 **Option B is incorrect:** The percutaneous **Impella 2.5** device is a microaxial pump designed solely for **left ventricular unloading** (providing up to 2.5 L/min of flow). It does not provide right ventricular support or respiratory gas exchange. Placing it in this patient would leave her severe RV failure (CVP 25 mmHg) and hypoxemic respiratory failure unaddressed.\n  * 🔸 **Option D is incorrect:** Starting milrinone and a bumetanide infusion is a conservative medical approach. In a patient with a blood pressure of 70/40 mmHg and anuria, **milrinone (a potent systemic vasodilator/inodilator) is contraindicated** as it would worsen systemic vasodilation, precipitate refractory hypotension, and worsen coronary perfusion. Diuretics (bumetanide) are ineffective in the setting of severe cardiogenic shock and established anuria.\n  * 🔸 **Option E is incorrect:** Implantation of a durable, permanent left ventricular assist device (such as the **HeartMate II LVAD**) is **highly inappropriate** in this acute setting. Durable LVADs require median sternotomy, carry an exceptionally high mortality risk in patients with active, unaddressed right ventricular failure (which persists after LVAD alone), and are permanent. Most importantly, since the patient's graft failure is highly likely due to acute rejection or an acute reversible process, durable LVAD is premature and contraindicated before stabilizing the patient with temporary mechanical support and establishing a diagnosis (bridge to decision).\n\n### 📚 Board Pearl\n* **Graft Failure Support Rules:** Temporary VA ECMO is the absolute first-line 'rescue' mechanical support modality for acute biventricular graft failure post-OHT. It stabilizes hemodynamics, relieves pulmonary edema, and acts as a 'bridge to decision' (or 'bridge to recovery' once immunosuppressive therapy is adjusted to treat acute rejection).\n* **The RV Constraint in LVADs:** Never implant an isolated durable LVAD in a patient with severe, established right ventricular dysfunction (CVP = 25 mmHg, dilated and poorly contracting RV on echo), as it invariably precipitates acute, catastrophic RV failure and death.\n\n### 🔥 Mnemonic / Memory Aid\nRemember how to manage post-transplant biventricular crash with **'E-C-M-O'**:\n* **E** - **E**xtraordinary **E**mergency support is needed when double inotropes fail.\n* **C** - **C**heck for **C**omplete biventricular failure (LV EF 20% + RV dilation + CVP 25).\n* **M** - **M**ultiorgan rescue (anuria + lactate 6) requires central flows > 4 L/min.\n* **O** - **O**xygenation and cardiac unloading are both achieved by percutaneous femoral VA ECMO.",
@@ -2602,7 +2602,7 @@
       },
       "optionsRu": {
         "A": "Индекс массы тела (ИМТ / BMI) >30 кг/м²",
-        "B": "Инотропная зависимость (inotrope dependency)",
+        "B": "Инотропная зависимость",
         "C": "Наличие внутриаортальной баллонной контрпульсации (ВАБК / IABP)",
         "D": "Предоперационная интубация / ИВЛ",
         "E": "Легочное сосудистое сопротивление (ЛСС / PVR) >4,3 единиц Вуда"
@@ -2914,7 +2914,7 @@
       "optionsRu": {
         "A": "Экстренное протезирование митрального клапана (ПМК)",
         "B": "Экстренное эндоваскулярное эмболирование микотической аневризмы с последующим ПМК",
-        "C": "Консультация этического комитета и настоятельная рекомендация об отзыве/прекращении жизнеподдерживающего лечения (withdrawal of care)",
+        "C": "Консультация этического комитета и настоятельная рекомендация об отзыве/прекращении жизнеподдерживающего лечения",
         "D": "Установка внутриаортальной баллонной контрпульсации (ВАБК) и выполнение ПМК через 5–7 дней антибиотикотерапии",
         "E": "Отсрочка оперативного лечения на 4–6 недель при условии неврологического восстановления пациента"
       },
@@ -3098,8 +3098,8 @@
       },
       "optionsRu": {
         "A": "Коронарография для исключения окклюзии огибающей артерии",
-        "B": "Выполнение операции Альфиери (Alfieri stitch / edge-to-edge repair)",
-        "C": "Выполнение скользящей пластики (sliding plasty) задней створки",
+        "B": "Выполнение операции Альфиери",
+        "C": "Выполнение скользящей пластики задней створки",
         "D": "Имплантация неохорд из ПТФЭ (PTFE) к задней створке",
         "E": "Протезирование митрального клапана"
       },
@@ -3800,7 +3800,7 @@
       "optionsRu": {
         "A": "ДАК является противопоказанием к клапансохраняющей реконструкции корня аорты.",
         "B": "У данного пациента нет показаний к оперативному вмешательству.",
-        "C": "У пациента наиболее вероятно имеется сращение правой и левой коронарных створок (R-L fusion).",
+        "C": "У пациента наиболее вероятно имеется сращение правой и левой коронарных створок.",
         "D": "Пациент не имеет повышенного риска развития инфекционного эндокардита."
       },
       "correctAnswer": "C",
@@ -3874,7 +3874,7 @@
         "D": "This patient has the most common type of BAV."
       },
       "optionsRu": {
-        "A": "По сравнению со сращением правой и некоронарной створок (R-N fusion), у пациентов со сращением правой и левой створок (R-L fusion) чаще развивается дилатация корня аорты.",
+        "A": "По сравнению со сращением правой и некоронарной створок, у пациентов со сращением правой и левой створок чаще развивается дилатация корня аорты.",
         "B": "Если диаметр аорты увеличивается на 5 миллиметров и более за один год, рекомендуется хирургическое лечение.",
         "C": "Пациент должен проходить динамическую трансторакальную эхокардиографию каждые два года.",
         "D": "У данного пациента наиболее распространенный анатомический тип ДАК."
@@ -4235,7 +4235,7 @@
         "D": "morphine drip"
       },
       "optionsRu": {
-        "A": "Эпидуральную пломбировку аутокровью (epidural blood patch)",
+        "A": "Эпидуральную пломбировку аутокровью",
         "B": "Форсированный диурез",
         "C": "Подъем головного конца кровати до 45°",
         "D": "Непрерывную инфузию морфина"
@@ -4514,7 +4514,7 @@
       "optionsRu": {
         "A": "9-месячный период наблюдения за пациентом",
         "B": "Антеградная кардиоплегия через канюли в устьях коронарных артерий",
-        "C": "Имплантация коронарных «пуговок» (button technique)",
+        "C": "Имплантация коронарных «пуговок»",
         "D": "Преклоттинг (предотвращение порозности) сосудистого протеза альбумином",
         "E": "Использование протеза с искусственными синусами (типа Valsalva)"
       },
@@ -4587,8 +4587,8 @@
         "D": "Postoperative complete heart block is not related to edema or inflammation."
       },
       "optionsRu": {
-        "A": "Полная АВ-блокада, наиболее вероятно, обусловлена глубоким швом в области комиссурального треугольника между некоронарной и правой коронарной створками (NC/RC triangle).",
-        "B": "Полная АВ-блокада у этого пациента, наиболее вероятно, обусловлена швом в области комиссурального треугольника между некоронарной и левой коронарной створками (NC/LC triangle).",
+        "A": "Полная АВ-блокада, наиболее вероятно, обусловлена глубоким швом в области комиссурального треугольника между некоронарной и правой коронарной створками.",
+        "B": "Полная АВ-блокада у этого пациента, наиболее вероятно, обусловлена швом в области комиссурального треугольника между некоронарной и левой коронарной створками.",
         "C": "Пациенты с двустворчатым аортальным клапаном имеют более высокий риск развития полной АВ-блокады после клапансохраняющего протезирования корня аорты.",
         "D": "Послеоперационная полная АВ-блокада не связана с отеком или воспалением."
       },
@@ -4795,7 +4795,7 @@
         "A": "КТ головного мозга",
         "B": "Катетеризация полостей сердца (коронарография)",
         "C": "Эхокардиография",
-        "D": "КТ-ангиография органов грудной клетки по протоколу ТЭЛА (PE protocol)"
+        "D": "КТ-ангиография органов грудной клетки по протоколу ТЭЛА"
       },
       "correctAnswer": "C",
       "explanationEn": "### 🎯 Correct Answer\n**Option C: echocardiogram**\n\n### 🔬 Detailed Clinical and Pathophysiological Rationale\n• **Clinical Presentation of Low Cardiac Output Syndrome (LCOS) and Shock:**\n  * The patient presents with clinical signs of shock and low cardiac output on postoperative day 5 (POD#5) following redo coronary artery bypass grafting (CABG).\n  * These signs include **sinus tachycardia** (110 bpm), **systemic hypotension** (90/60 mmHg), **oliguria** (70 mL/shift, indicating impaired renal perfusion), **somnolence** (reflecting depressed cerebral perfusion), and **metabolic acidemia** (pH 7.28, Base Excess -5) as a result of systemic tissue hypoperfusion and anaerobic metabolism.\n\n• **Suspicion of Postoperative Cardiac Tamponade:**\n  * In any postoperative cardiac surgery patient presenting with acute shock and low cardiac output, **cardiac tamponade** must be at the top of the differential diagnosis, especially after the removal of epicardial pacing wires.\n  * Epicardial pacing wires are placed directly on the myocardium. Their extraction (which occurred on POD#3 in this patient) can tear the epicardium or a small epicardial vessel, causing slow, insidious bleeding into the pericardial space.\n  * Because her chest tubes had already been removed on POD#2, any bleeding into the mediastinum or pericardial space cannot drain and will inevitably accumulate, leading to **delayed cardiac tamponade** by POD#5.\n  * This classically compresses the right-sided heart chambers, compromises diastolic filling, and causes a sudden drop in cardiac output and systemic blood pressure.\n\n• **The Role of Echocardiography as the Diagnostic Test of Choice:**\n  * A **stat transthoracic or transesophageal echocardiogram (TTE/TEE)** is the fastest, safest, and most definitive diagnostic test to evaluate this patient's condition.\n  * Echocardiography can immediately visualize the pericardial space, identify the presence, size, and location of a fluid collection (such as a localized clot or effusion compressing the right atrium or right ventricle), and directly assess global left and right ventricular systolic and diastolic function.\n\n• **Why Other Options are Suboptimal or Incorrect:**\n  * ❌ **Option A is incorrect (Brain CT scan):** Although the patient is somnolent, this is a global symptom of systemic hypoperfusion (cardiogenic shock) rather than a focal neurological deficit indicative of an acute ischemic or hemorrhagic stroke (CVA). A brain CT scan will not explain the hemodynamics of shock, oliguria, or metabolic acidosis.\n  * ❌ **Option B is incorrect (Cardiac catheterization):** While myocardial infarction due to graft occlusion is a potential cause of postoperative shock, there are no acute ST-T wave changes on the EKG or active chest pain described to support emergent coronary angiography. Puncture and transport of an unstable patient with suspected tamponade to the cath lab is highly dangerous.\n  * ❌ **Option D is incorrect (PE protocol chest CT):** Pulmonary embolism (PE) is extremely rare in the early postoperative period after CABG due to the systemic heparinization used during cardiopulmonary bypass. Furthermore, a PE of sufficient size to cause shock and profound hypotension would typically present with specific EKG changes (e.g., right ventricular strain, right bundle branch block, or anterior/inferior T-wave inversions) rather than simple sinus tachycardia. Performing a contrast-enhanced CT requires transporting an unstable, acidotic patient with failing kidneys (oliguria) to the radiology suite, exposing her to nephrotoxic contrast and the risk of cardiac arrest during transport. An echo should always be performed first as it can also rule out signs of massive PE (e.g., right ventricular dilation, McConnell's sign) at the bedside.\n\n### 📚 Board Pearl\n* **Pacing Wire Tamponade Hazard:** The removal of temporary epicardial pacing wires is a well-recognized trigger for delayed cardiac tamponade. If a patient develops unexplained hypotension, tachycardia, or oliguria within hours to days after pacing wire extraction, **always obtain an immediate echocardiogram** to rule out hemopericardium.\n* **Postoperative Tamponade Presentation:** Unlike medical tamponade, postoperative cardiac tamponade is frequently **localized and atypical**. Rather than a free-flowing circumferential effusion with classic right ventricular diastolic collapse, postoperative tamponade often consists of a localized hematoma (frequently behind the left atrium or compressing the right atrium), which may be missed on TTE and require TEE for definitive visualization.\n\n### 🔥 Mnemonic / Memory Aid\nRemember the diagnostic workup for postoperative shock and suspected tamponade with **'E-C-H-O'**:\n* **E** - **E**xclude tamponade first! Especially after pacing wire removal.\n* **C** - **C**ardiac catheterization is avoided without ischemic EKG changes or chest pain.\n* **H** - **H**aste is key, but do not transport an unstable patient for a **H**ead or chest CT.\n* **O** - **O**ptimize diagnostics at the bedside with a stat **O**bjective echocardiogram.",
@@ -4829,10 +4829,10 @@
         "D": "a pedicled left internal thoracic artery graft alone"
       },
       "optionsRu": {
-        "A": "Двусторонняя маммарокоронарная реваскуляризация (BITA) с забором обеих внутренних грудных артерий на мышечно-фасциальной ножке (pedicled)",
-        "B": "Двусторонняя маммарокоронарная реваскуляризация (BITA) со скелетированным забором обеих внутренних грудных артерий (skeletonized)",
+        "A": "Двусторонняя маммарокоронарная реваскуляризация (BITA) с забором обеих внутренних грудных артерий на мышечно-фасциальной ножке",
+        "B": "Двусторонняя маммарокоронарная реваскуляризация (BITA) со скелетированным забором обеих внутренних грудных артерий",
         "C": "Скелетированный графт из левой внутренней грудной артерии в сочетании с графтом из правой желудочно-сальниковой артерии",
-        "D": "Изолированное использование левой внутренней грудной артерии, выделенной на ножке (pedicled)"
+        "D": "Изолированное использование левой внутренней грудной артерии, выделенной на ножке"
       },
       "correctAnswer": "A",
       "explanationEn": "### 🎯 Correct Answer\n**Option A: bilateral pedicled internal thoracic artery grafts**\n\n### 🔬 Detailed Clinical and Pathophysiological Rationale\n• **Anatomy of Sternal Blood Supply and Internal Thoracic Arteries (ITAs):**\n  * The sternum receives its primary blood supply from the **internal thoracic (mammary) arteries (ITAs)**, which run vertically on either side of the sternum along the inner aspect of the anterior chest wall.\n  * Harvesting one or both ITAs for use as coronary artery bypass conduits significantly reduces the collateral blood flow to the sternum, leading to localized bone and soft tissue ischemia.\n  * Decreased sternal perfusion is particularly pronounced when utilizing the **pedicled harvesting technique**. This method involves harvesting the ITA along with its surrounding companion veins, fascia, pleura, and intrathoracic muscle as a thick 'pedicle,' which disrupts virtually all regional collateral connections to the sternal microvasculature.\n\n• **Bilateral vs. Single ITA Harvesting and Wound Infections:**\n  * **Bilateral ITA (BITA) harvesting** (using both the left and right ITAs) results in severe, bilateral devascularization of the sternum. This extensive ischemia dramatically impairs post-sternotomy bone healing and local leukocyte-mediated defenses against bacteria.\n  * Multiple large-scale observational studies and randomized trials, such as the Arterial Revascularization Trial (ART), have demonstrated a significant **two-fold increase in deep sternal wound infection (DSWI) / mediastinitis** with BITA compared to single ITA (SITA) use, especially in patients with high-risk clinical profiles (diabetics, obese patients, and active smokers).\n\n• **Pedicled vs. Skeletonized Harvesting Techniques:**\n  * **Skeletonization** is a meticulous harvesting technique where the ITA is dissected free of its surrounding fascia, companion veins, and lymphatic tissue, isolating only the naked arterial conduit.\n  * Sternal blood flow studies (including CT angiograms of the sternum) have shown that **skeletonization preserves significantly more collateral perfusion to the sternum** than the pedicled technique because the companion veins and adjacent pleural tissue remain untouched, maintaining regional collateral pathways.\n  * A meta-analysis of multiple comparative studies and registries has confirmed that skeletonizing the ITAs significantly reduces the incidence of sternal wound infections and mediastinitis in patients undergoing BITA, down to levels comparable to unilateral SITA harvesting. In diabetic patients particularly, skeletonized BITA harvest is associated with a significantly lower risk of DSWI compared to pedicled BITA harvest.\n\n• **The Clinical Risk Profile of this Patient:**\n  * This 62-year-old patient represents a highly vulnerable candidate because he has two major independent risk factors for wound complications:\n    1. **Diabetes Mellitus:** Impairs microvascular remodeling, collagen synthesis, and neutrophil function.\n    2. **Active Smoking:** Induces tissue hypoxia through carbon monoxide and nicotine-mediated vasoconstriction, further compounding the ischemia caused by ITA harvesting.\n  * For this high-risk patient, employing **bilateral pedicled ITA grafts (Option A)** combines bilateral sternal devascularization with the most destructive harvesting technique, placing him at the **absolute highest risk for deep sternal wound infection and mediastinitis**.\n\n• **Why Other Options carry lower risk:**\n  * ❌ **Option B is incorrect (Bilateral skeletonized ITA grafts):** Meticulous skeletonization of both ITAs preserves collateral sternal perfusion, which mitigates the ischemic insult and significantly reduces the risk of DSWI compared to pedicled BITA grafting, even in high-risk diabetic smokers.\n  * ❌ **Option C is incorrect (Skeletonized LITA + Right gastroepiploic graft):** This strategy utilizes only a single (left) ITA graft harvested in a skeletonized fashion, which maintains excellent blood supply from the intact right ITA to the right side of the sternum. The right gastroepiploic artery (RGEA) graft is harvested from the abdomen and has no impact on sternal blood supply. Therefore, this strategy carries a much lower risk of DSWI. Additionally, the RGEA is anatomically limited in length and is generally reserved for the right coronary artery distribution rather than circumflex targets.\n  * ❌ **Option D is incorrect (Pedicled LITA graft alone):** Although harvested using the more ischemic pedicled technique, this strategy only utilizes a single (unilateral) ITA graft. Sternal perfusion remains preserved from the intact contralateral (right) ITA, resulting in a significantly lower overall rate of DSWI compared to bilateral pedicled grafting.\n\n### 📚 Board Pearl\n* **The Deo Meta-Analysis Rule:** A landmark systematic review and meta-analysis by Deo and colleagues demonstrated that diabetic patients undergoing **skeletonized BITA** harvest had an infection risk similar to single SITA harvest (Odds Ratio 0.9 [0.42 to 2.09]), whereas **pedicled BITA** harvest was associated with a nearly two-fold increased risk of DSWI (OR 1.77 [1.4 to 2.23]).\n* **The ART Trial Conundrum:** The 10-year follow-up of the Arterial Revascularization Trial (ART) showed no significant difference in all-cause mortality between the single-graft and bilateral-graft groups (partly due to high crossover rates), but BITA was associated with a higher rate of sternal wound complications within the first year.\n\n### 🔥 Mnemonic / Memory Aid\nRemember how harvesting techniques and graft numbers affect sternal infection risk with the word **'S-E-V-E-R'**:\n* **S** - **S**keletonization saves sternal blood flow and shields the patient from wound dehiscence.\n* **E** - **E**xtensive bilateral (BITA) harvest doubles the ischemic insult.\n* **V** - **V**ulnerable patients (Diabetics + Smokers) are at the highest risk.\n* **E** - **E**very pedicled harvest destroys vital collateral companion veins.\n* **R** - **R**isk is maximized when you use **bilateral pedicled** grafts.",
@@ -5069,7 +5069,7 @@
         "A": "Экстренное аортокоронарное шунтирование (АКШ)",
         "B": "Внутренняя инфузия гепарина и нитроглицерина в сочетании с пероральным приемом клопидогрела",
         "C": "Многососудистое стентирование",
-        "D": "Полуплановая имплантация LVAD как моста к трансплантации (bridge to transplant)",
+        "D": "Полуплановая имплантация LVAD как моста к трансплантации",
         "E": "Срочная установка внутриаортального баллонного контрпульсатора (ВАБК)"
       },
       "correctAnswer": "B",
@@ -5180,9 +5180,9 @@
       "optionsRu": {
         "A": "Введение коронарных вазодилататоров",
         "B": "Замена баллона ВАБК на баллон большего объема",
-        "C": "Имплантация пассивного устройства ограничения ЛЖ (LV restraint device)",
+        "C": "Имплантация пассивного устройства ограничения ЛЖ",
         "D": "Установка паракорпорального левожелудочкового аппарата вспомогательного кровообращения (LVAD) с непрерывным потоком",
-        "E": "Имплантация интракорпорального непрерывнопоточного LVAD в качестве постоянной терапии (destination therapy)"
+        "E": "Имплантация интракорпорального непрерывнопоточного LVAD в качестве постоянной терапии"
       },
       "correctAnswer": "D",
       "explanationEn": "### 🎯 Correct Answer\n**Option D: insertion of a paracorporeal continuous-flow left ventricular assist device (LVAD)**\n\n### 🔬 Detailed Clinical and Pathophysiological Rationale\n• **Pathophysiology of Postcardiotomy Cardiogenic Shock (PCCS):**\n  * Postcardiotomy shock is a severe and feared complication occurring in 0.2% to 0.6% of patients undergoing cardiac surgery.\n  * In this high-risk patient (72 years old, baseline LVEF of 20%, previous multiple myocardial infarctions, presenting with acute MI), weaning from cardiopulmonary bypass (CPB) is impossible despite maximal pharmacologic support (high-dose inotropes) and physiological assist via an intra-aortic balloon pump (IABP).\n  * **Ruling Out Graft Failures:** Since all graft flows were checked intraoperatively and found to be completely satisfactory, and there are no new ECG ischemic signs, acute mechanical graft failure or microvascular spasm (Option A) is highly unlikely. The chronically ischemic and hibernating myocardium is suffering from profound, transient myocardial stunning after the ischemia-reperfusion insult of CPB.\n  * This profound postcardiotomy myocardial failure mandates the immediate initiation of **temporary/short-to-intermediate term mechanical circulatory support (MCS)** to unload the left ventricle, maintain systemic organ perfusion, correct progressive metabolic derangements, and allow the stunned hibernating myocardium time to recover.\n\n• **Comparing Mechanical Support Choices (Why Option D is Superior to E and others):**\n  * **Paracorporeal Continuous-Flow LVAD (Option D - Correct):** This temporary device (such as the CentriMag, Thoratec pVAD, or similar paracorporeal pump) provides reliable, high-flow left ventricular support (up to 5-10 L/min). It is highly flexible, technically straightforward to implant in the acute operating room setting, and can support the patient for weeks to months if necessary. Because the patient's right ventricular (RV) function is noted to be normal and preserved on the preoperative echocardiogram, isolated LVAD support is physiologically appropriate. Paracorporeal devices allow the surgical team to maintain a temporary-support strategy with the expectation of myocardial recovery over a prolonged period (bridging to decision or recovery).\n  * **Intracorporeal Continuous-Flow LVAD as Destination Therapy (Option E - Incorrect):** An implantable intracorporeal LVAD (such as HeartMate 3) is a durable, permanent device designed for long-term therapy or destination therapy. Implantation of a durable device under acute postcardiotomy shock conditions is **strongly contraindicated** and is associated with prohibitive perioperative mortality. It requires extensive dissection, apical ventricular coring, longer bypass times, and most importantly, is inappropriate because a formal transplantation/destination therapy workup has not been performed, and informed consent for permanent mechanical therapy has not been obtained.\n  * **Other Options:**\n    * ❌ **Option A (Coronary vasodilator agent):** Since graft flows are excellent and coronary spasm is not suspected, giving vasodilators will not resolve the mechanical pump failure and may cause severe vasoplegic hypotension.\n    * ❌ **Option B (Exchange IABP for a larger balloon):** The patient is already on maximal pharmacological support and standard IABP counterpulsation. Up-sizing the balloon will provide negligible hemodynamic improvement and is completely insufficient to treat PCCS.\n    * ❌ **Option C (Passive LV restraint device):** Passive restraint devices (such as the CorCap) are designed to prevent progressive left ventricular remodeling and dilation in chronic stable heart failure. They have no role in the acute resuscitation or management of acute cardiogenic shock.\n\n### 📚 Board Pearl\n* **The S-H-O-C-K Rules of PCCS:** When a patient is unable to separate from CPB despite high-dose inotropes and an IABP, immediate initiation of MCS is indicated. If there is isolated LV dysfunction and intact RV function, a **short-term paracorporeal LVAD** is preferred. If there is biventricular failure or severe respiratory failure, **venoarterial (VA) ECMO** is the simplest and most rapid modality to stabilize the patient at the bedside.\n* **Myocardial Recovery Potential:** Hibernating myocardium has excellent potential for recovery, but the timeline after recirculated bypass surgery can be slow (taking weeks to months). Therefore, an intermediate-term support device (paracorporeal LVAD) that can support the patient for months is highly suitable.\n\n### 🔥 Mnemonic / Memory Aid\nRemember the management of acute postcardiotomy shock with **'S-T-U-N-N-E-D'**:\n* **S** - **S**hort-term paracorporeal support is the immediate goal (avoid durable/intracorporeal devices).\n* **T** - **T**ransplant/destination candidacy cannot be evaluated in the acute OR.\n* **U** - **U**nloaded left ventricle is essential to allow myocardial recovery.\n* **N** - **N**ormal RV function means isolated LVAD support is physiologically sufficient.\n* **N** - **N**o role for passive restraint or simple IABP size exchanges.\n* **E** - **E**xcellent graft flows rule out microvascular or anastomotic failures.\n* **D** - **D**elivered paracorporeal flow supports end-organs while the heart heals.",
@@ -5489,7 +5489,7 @@
         "E": "The operating room should be notified that the patient may require emergent reoperation."
       },
       "optionsRu": {
-        "A": "Следует экстренно (STAT) назначить кардиоспецифические ферменты с контролем каждые 6 часов; если их уровень нарастает, повторная операция или ЧКВ обязательны",
+        "A": "Следует экстренно назначить кардиоспецифические ферменты с контролем каждые 6 часов; если их уровень нарастает, повторная операция или ЧКВ обязательны",
         "B": "Рентгенэндоваскулярная операционная должна быть оповещена о том, что пациенту может потребоваться экстренная коронарография и возможное чрескожное коронарное вмешательство (ЧКВ)",
         "C": "При адекватном уровне артериального давления следует начать внутривенную инфузию нитроглицерина",
         "D": "При развитии гемодинамической нестабильности пациенту следует установить внутриаортальный баллонный контрпульсатор (ВАБК)",
@@ -5803,7 +5803,7 @@
         "A": "связывание тромбоцитов через рецепторы GPIIb/IIIa с внутренними поверхностями контура искусственного кровообращения",
         "B": "связывание тромбина с тромбомодулином и последующая активация протеина C",
         "C": "гипотермия, приводящая к низкому уровню кининов",
-        "D": "активация тромбоцитов, опосредованная рецептором, активируемым протеазой-1 (PAR-1)",
+        "D": "активация тромбоцитов, опосредованная рецептором, активируемым протеазой-1",
         "E": "послеоперационная реинфузия дренажной крови"
       },
       "correctAnswer": "C",
@@ -5921,9 +5921,9 @@
       "optionsRu": {
         "A": "Введение коронарных вазодилататоров",
         "B": "Замена баллона ВАБК на баллон большего объема",
-        "C": "Имплантация пассивного устройства ограничения ЛЖ (LV restraint device)",
+        "C": "Имплантация пассивного устройства ограничения ЛЖ",
         "D": "Установка паракорпорального левожелудочкового аппарата вспомогательного кровообращения (LVAD) с непрерывным потоком",
-        "E": "Имплантация интракорпорального непрерывнопоточного LVAD в качестве постоянной терапии (destination therapy)"
+        "E": "Имплантация интракорпорального непрерывнопоточного LVAD в качестве постоянной терапии"
       },
       "correctAnswer": "D",
       "explanationEn": "### 🎯 Correct Answer\n**Option D: insertion of a paracorporeal continuous-flow left ventricular assist device (LVAD)**\n\n### 🔬 Detailed Clinical and Pathophysiological Rationale\n• **Pathophysiology of Hibernating Myocardium and Myocardial Stunning:**\n  * **Hibernating myocardium** is a state of chronic, persistent left ventricular (LV) systolic dysfunction due to chronically reduced coronary blood flow. It represents an adaptive downregulation of metabolic and contractile function to match the low oxygen delivery, thereby preserving cellular viability.\n  * Revascularization (via CABG) of hibernating myocardium is highly beneficial and typically leads to **significant long-term recovery** of LV ejection fraction, reverse remodeling, and improved survival.\n  * However, this recovery is **not instantaneous**. Revascularized hibernating myocardium is prone to prolonged **postoperative stunning** and may require days, weeks, or even months of adequate perfusion before contractile function begins to return.\n\n• **Postcardiotomy Shock and CPB Weaning Failure:**\n  * In this patient with severe preoperative LV dysfunction (EF 20%), the revascularized hibernating myocardium is acutely stunned in the immediate postcardiotomy period. Despite patent grafts, high-dose inotropes, and preoperative intra-aortic balloon pump (IABP) support, he cannot be successfully weaned from cardiopulmonary bypass (CPB).\n  * This represents **postcardiotomy cardiogenic shock (PCS)**, a life-threatening situation where the native heart is unable to sustain adequate systemic perfusion. In such cases, extending the CPB run or escalating inotropic doses to toxic levels will only increase myocardial oxygen demand, worsen stunning, and lead to irreversible end-organ damage.\n\n• **Strategy of Temporary Mechanical Circulatory Support (MCS):**\n  * The primary goal is to provide **temporary, short-term mechanical circulatory support** to maintain systemic and end-organ perfusion while completely unloading and resting the left ventricle. This decompression reduces wall tension and myocardial oxygen consumption, creating optimal conditions for the stunned, revascularized hibernating myocardium to recover.\n  * A **paracorporeal (temporary) continuous-flow LVAD** (Option D, e.g., CentriMag) or extracorporeal membrane oxygenation (ECMO) provides rapid, high-output systemic flow (up to 4–5 L/min) and is the most appropriate management in this setting as a **'bridge to recovery'** (or 'bridge to decision'). Since the patient's right ventricular (RV) function is noted to be good/preserved, isolated left-sided mechanical support is highly effective.\n\n• **Why Other Options are Incorrect:**\n  * 🔸 **Option A is incorrect:** All graft flows have been checked and are verified to be reasonable. The failure to wean is due to global myocardial stunning of the hibernating segments, not active graft spasm or restricted flow; thus, coronary vasodilators will only cause systemic vasodilation and worsen hypotension.\n  * 🔸 **Option B is incorrect:** An IABP provides modest hemodynamic support (increasing cardiac output by only 0.5 to 1.0 L/min) and works by afterload reduction and diastolic augmentation. If the patient is completely unable to wean from CPB despite maximum IABP support, exchanging the balloon for a slightly larger one is futile as it cannot provide the necessary high-level flow support of a ventricular assist device.\n  * 🔸 **Option C is incorrect:** A passive LV restraint device (such as the CorCap polyester mesh) is used to prevent progressive ventricular dilation in chronic, dilated cardiomyopathy. It has no role in the acute, emergency management of postcardiotomy cardiogenic shock.\n  * 🔸 **Option E is incorrect:** An **intracorporeal, durable (permanent) continuous-flow LVAD** (such as the HeartMate 3) is indicated as **destination therapy** for patients with end-stage, refractory heart failure who are not candidates for transplantation. Placing a durable, long-term implantable device in the acute, emergency setting of postcardiotomy shock directly off CPB is highly contraindicated, associated with prohibitive mortality, and clinically inappropriate given that the patient has a high likelihood of myocardial recovery (viable hibernating myocardium). Standard guidelines specify that 'insertion of a long-term implantable VAD under these circumstances is inadvisable.'\n\n### 📚 Board Pearl\n* **Myocardial Viability and Stunning:** Always remember that hibernating myocardium is viable and *will* recover, but it takes time. When a patient with extensive viable hibernating myocardium cannot wean from CPB after technically successful CABG, the correct path is **temporary mechanical circulatory support (such as a temporary paracorporeal VAD or VA-ECMO) as a bridge to recovery** to allow the stunned myocytes time to restore their contractile apparatus.\n* **Durable LVAD Contraindication:** Never implant a durable intracorporeal VAD as destination therapy in an acute, unstable emergency setting off CPB.\n\n### 🔥 Mnemonic\nRemember the management strategy for failed CPB weaning with hibernating myocardium using **'S-T-U-N-N-E-D'**:\n* **S** - **S**tunning of viable hibernating myocardium is a temporary, reversible process.\n* **T** - **T**emporary paracorporeal support is indicated (CentriMag/ECMO) to allow recovery.\n* **U** - **U**nload the left ventricle completely to reduce oxygen consumption and wall tension.\n* **N** - **N**ever use destination therapy (intracorporeal durable VAD) off CPB in an acute emergency.\n* **N** - **N**o role for coronary vasodilators if graft flows are already reasonable.\n* **E** - **E**valuate RV function first (if RV is good, isolated LVAD support is highly effective).\n* **D** - **D**elivering high-output mechanical flow is necessary (IABP is insufficient).",
@@ -6856,7 +6856,7 @@
       },
       "optionsRu": {
         "A": "«Фолдопластика» (foldoplasty / инвагинация) задней створки с имплантацией полного жесткого опорного кольца",
-        "B": "Имплантация неохорд из политетрафторэтилена (PTFE / Gore-Tex) к задней створке",
+        "B": "Имплантация неохорд из политетрафторэтилена к задней створке",
         "C": "Квадрангулярная (четырехугольная) резекция задней створки и имплантация неполного (полукольца) гибкого опорного кольца",
         "D": "Квадрангулярная резекция и имплантация жесткого уменьшенного (downsized относительно площади передней створки) опорного кольца 28 размера",
         "E": "Триангулярная (треугольная) резекция задней створки и имплантация увеличенного (upsized относительно площади передней створки) полного опорного кольца"
@@ -6932,7 +6932,7 @@
       "optionsRu": {
         "A": "Коронарография для исключения окклюзии огибающей артерии",
         "B": "Выполнение процедуры Альфиери (Alfieri stitch / край-в-край)",
-        "C": "Выполнение скользящей пластики (sliding plasty) задней створки",
+        "C": "Выполнение скользящей пластики задней створки",
         "D": "Имплантация неохорд из PTFE к задней створке",
         "E": "Протезирование митрального клапана"
       },
@@ -7122,9 +7122,9 @@
       },
       "optionsRu": {
         "A": "Диастолическое выравнивание давлений (эквилизация)",
-        "B": "Ранний диастолический провал (dip)",
-        "C": "Выраженный систолический спад X (X descent)",
-        "D": "Быстрый диастолический спад Y (Y descent)"
+        "B": "Ранний диастолический провал",
+        "C": "Выраженный систолический спад X",
+        "D": "Быстрый диастолический спад Y"
       },
       "correctAnswer": "A",
       "explanationEn": "### 🎯 Correct Answer\n**Option A: diastolic equalization**[cite: 2]\n\n### 🔬 Why It Is Correct\n• **Biventricular Waveform Analysis:** The arrows in the simultaneous ventricular pressure tracing point directly to the elevated end-diastolic plateau (the horizontal portion of the classic <span style=\"color:purple\">dip-and-plateau</span> or <span style=\"color:purple\">square root sign</span>)[cite: 2].\n• **Diastolic Pressure Equalization:** In constrictive pericarditis, the heart is encased in an unyielding fibrous/calcified pericardial shell[cite: 2]. Because filling is rigidly constrained, ventricular pressures rapidly rise and equilibrate in mid-to-late diastole: <span style=\"background-color:yellow\">RVEDP and LVEDP become virtually identical (typically differing by <5 mmHg)</span>[cite: 2].\n• **Differentiating from Restrictive Cardiomyopathy (RCM):** While both present with heart failure and dip-and-plateau patterns, <span style=\"color:blue\">in RCM the LVEDP is usually higher than RVEDP by >5 mmHg</span>[cite: 2]. If baseline pressures appear nearly equal, a fluid challenge or pharmacologic maneuver widens the gap, elevating LVEDP significantly above RVEDP in RCM[cite: 2].\n\n### ❌ Why the Other Answers Are Wrong\n• **Option B (an early diastolic dip):** Plausible because a deep dip is clearly visible at the start of diastole due to preserved early rapid ventricular filling[cite: 2]. However, the dip is the lowest nadir preceding the plateau; the arrows specifically indicate the late diastolic plateau where pressures equalize[cite: 2].\n• **Option C (a prominent X descent):** Plausible because prominent x and y descents are classic findings in constrictive physiology and tamponade[cite: 2]. However, the x-descent is an <span style=\"color:blue\">atrial pressure waveform</span> landmark (reflecting atrial relaxation and tricuspid annular descent during systole), not a ventricular tracing landmark[cite: 2]. A prominent x-descent without a y-descent is classic for cardiac tamponade[cite: 2].\n• **Option D (a rapid Y descent):** Plausible because an exaggerated, steep y-descent (<span style=\"color:purple\">Friedreich sign</span>) is a hallmark of constrictive pericarditis[cite: 2]. However, the y-descent corresponds to rapid atrial emptying into the ventricle after atrioventricular valve opening and is observed strictly on <span style=\"color:blue\">atrial (RAP / PCWP) pressure tracings</span>, whereas the presented tracing displays ventricular waveforms[cite: 2].\n\n### 🔪 Surgical Importance\n• **Surgical Curability vs Ineffective Resection:** Accurate distinction between constrictive pericarditis and restrictive cardiomyopathy is vital because <span style=\"color:red\">pericardiectomy provides symptomatic and survival benefit only for constrictive disease</span>; it provides no benefit (and exposes patients to futile surgical morbidity) in restrictive myocardial disease[cite: 2].\n• **Radiation Latency & Pitfall:** Prior chest radiotherapy causes dense epicardial-pericardial adherence and combined constriction-restriction. Up to 18% of patients have normal pericardial thickness on CT, making invasive hemodynamic catheterization mandatory for surgical evaluation.\n\n### 📚 Board Pearl\nOn simultaneous biventricular catheterization, <span style=\"background-color:yellow\">diastolic equalization (RVEDP ≈ LVEDP, difference <5 mmHg)</span> combined with respiratory discordance confirms constrictive pericarditis[cite: 2]. In restrictive cardiomyopathy, LVEDP exceeds RVEDP by ≥5 mmHg, especially after volume challenge[cite: 2].\n\n### 🔥 Memory Aid\n**E-Q-U-A-L** for Constrictive Hemodynamics:\n• **E** — **E**qualization of end-diastolic pressures (RVEDP ≈ LVEDP within 5 mmHg)[cite: 2]\n• **Q** — **Q**uick early dip followed by a rigid plateau (square root sign)[cite: 2]\n• **U** — **U**nyielding pericardium (benefits from radical pericardiectomy)[cite: 2]\n• **A** — **A**trial vs ventricular tracings (X/Y descents are atrial; Dip/Plateau is ventricular)[cite: 2]\n• **L** — **L**VEDP > RVEDP rules constriction out (points toward restriction)[cite: 2]\n\n### 🧠 Exam Strategy\nFirst identify the chamber tracing. This tracing shows ventricular pressure (high peak systolic pressure ~25–30 mmHg RV and ~100–120 mmHg LV), immediately ruling out options C and D which are exclusively atrial waveform parameters. Then verify the timing: the arrows target the late flat phase (equalization plateau), eliminating the early diastolic dip.\n\n### ✅ Take-home Message\nThe arrows mark the late diastolic equalization plateau of the square root sign, proving hemodynamic equalization between RVEDP and LVEDP in constrictive pericarditis[cite: 2].",
@@ -7205,11 +7205,11 @@
         "E": "staphylococcus"
       },
       "optionsRu": {
-        "A": "Криптококк (Cryptococcus)",
-        "B": "Вирус простого герпеса (Herpes simplex virus)",
-        "C": "Микобактерии (Mycobacterium)",
-        "D": "Пневмоциста (Pneumocystis)",
-        "E": "Стафилококк (Staphylococcus)"
+        "A": "Криптококк",
+        "B": "Вирус простого герпеса",
+        "C": "Микобактерии",
+        "D": "Пневмоциста",
+        "E": "Стафилококк"
       },
       "correctAnswer": "C",
       "explanationEn": "### 🎯 Correct Answer\n**Option C: mycobacterium**\n\n### 🔬 Detailed Clinical and Pathophysiological Rationale\n• **Pathophysiology of Pericardial Effusion in HIV Patients:**\n  * Pericardial effusion is a relatively common cardiovascular manifestation of HIV infection. While approximately half of all large pericardial effusions in HIV-positive individuals are classified as idiopathic or related to HIV itself, an identified infectious agent is found in about one-third of cases.\n  * Among these identified infectious etiologies, **Mycobacterium species (principally Mycobacterium tuberculosis)** are by far the most common pathogens. Mycobacterium tuberculosis causes tuberculous pericarditis, which has seen a massive global resurgence mirroring the HIV pandemic due to severe impairment of T-cell mediated immunity.\n  * Tuberculous pericarditis typically progresses through four pathological stages:\n    1. **Fibrinous exudation:** Dense polymorphonuclear infiltration with abundant mycobacteria.\n    2. **Serosanguineous/Serous effusion:** Characterized by a lymphocytic exudate, which corresponds to the clinical presentation of a large, insidious effusion with progressive dyspnea.\n    3. **Absorption of effusion:** Organization of caseating granulomas and pericardial thickening.\n    4. **Constrictive scarring:** Late calcification leading to constrictive pericarditis.\n\n• **Evaluation of Diagnostic Findings:**\n  * The **chest radiograph** (CXR) in a patient with a massive pericardial effusion typically demonstrates a dramatically enlarged, symmetric cardiomegaly with a classic 'water-bottle' or globoid heart shape, without pulmonary vascular congestion.\n  * The **echocardiogram** confirms this finding by showing a large, circumferential echo-free space surrounding the heart (representing fluid accumulation), often with signs of early diastolic right ventricular collapse if cardiac tamponade is developing.\n\n• **Why Other Options are Less Likely:**\n  * 🔸 **Option A (Cryptococcus):** Cryptococcus neoformans can cause opportunistic fungal pericarditis in patients with advanced AIDS (usually with severe CD4 depletion <100 cells/uL) and is often associated with disseminated cryptococcosis or meningitis, but it is far less common than tuberculous pericarditis.\n  * 🔸 **Option B (Herpes simplex virus):** Viral etiologies (such as HSV, CMV, or Coxsackie virus) can cause acute pericarditis and effusions, but they are significantly less common than Mycobacterium species in producing large, chronic, symptomatic effusions in HIV-infected patients.\n  * 🔸 **Option D (Pneumocystis):** While Pneumocystis jirovecii (formerly carinii) is a very common cause of opportunistic diffuse interstitial pneumonia in AIDS patients, it is primarily a parenchymal lung pathogen. Extrapulmonary Pneumocystis infection, particularly involving the pericardium, is extremely rare.\n  * 🔸 **Option E (Staphylococcus):** Staphylococcus aureus is a virulent pathogen that causes acute purulent (suppurative) pericarditis. Purulent pericarditis has a highly fulminant, rapid, and toxic clinical course with high fevers and septic shock, whereas the patient's insidious presentation over several weeks to months is classic for mycobacterial infection.\n\n### 📚 Board Pearl\n* **Pericardial Effusion in HIV:** On board exams, when evaluating an **HIV-positive patient presenting with an insidious, large, or symptomatic pericardial effusion** (globoid heart on chest radiograph and circumferential fluid on echocardiography), **Mycobacterium (tuberculous pericarditis)** must always be considered the **most common infectious cause**. The diagnosis is confirmed by acid-fast bacilli (AFB) smear, culture, or PCR of the pericardial fluid/biopsy.\n\n### 🔥 Mnemonic / Memory Aid\nRemember the clinical features of HIV-related tuberculous pericarditis with **'M-Y-C-O'**:\n* **M** - **M**ycobacterium tuberculosis is the most common infectious pathogen.\n* **Y** - **Y**-descent on atrial pressure tracings is rapid/deep (in the subacute constrictive-effusive phase).\n* **C** - **C**ircumferential effusion on Echocardiography and **C**ardiomegaly ('water-bottle' heart) on CXR.\n* **O** - **O**pportunistic infection closely linked with the global **O**utbreak of HIV.",
@@ -7526,7 +7526,7 @@
         "D": "right pneumonectomy with adjuvant chemotherapy for node-positive disease"
       },
       "optionsRu": {
-        "A": "Эндобронхиальная ультрасонография (EBUS) с биопсией лимфатических узлов",
+        "A": "Эндобронхиальная ультрасонография с биопсией лимфатических узлов",
         "B": "Индукционная химиотерапия с последующей правосторонней пневмонэктомией и лимфаденэктомией",
         "C": "Индукционная химиолучевая терапия с последующей циркулярной (манжеточной / sleeve) резекцией правой верхней доли",
         "D": "Правосторонняя пневмонэктомия с адъювантной химиотерапией при подтвержденном поражении лимфоузлов"
@@ -7736,9 +7736,9 @@
         "D": "terminate operation and treat with definitive chemoradiotherapy"
       },
       "optionsRu": {
-        "A": "Лобэктомия с резекцией грудной стенки единым блоком (en bloc) и резекцией подключичной вены",
+        "A": "Лобэктомия с резекцией грудной стенки единым блоком и резекцией подключичной вены",
         "B": "Прекращение операции и проведение химиотерапии",
-        "C": "Лобэктомия с резекцией грудной стенки единым блоком (en bloc) с сохранением подключичной вены",
+        "C": "Лобэктомия с резекцией грудной стенки единым блоком с сохранением подключичной вены",
         "D": "Прекращение операции и проведение радикальной химиолучевой терапии"
       },
       "correctAnswer": "A",
@@ -7773,7 +7773,7 @@
       "optionsRu": {
         "A": "Синдром Горнера",
         "B": "Инвазия в подключичные сосуды",
-        "C": "Метастазы в медиастинальные лимфатические узлы (N2)",
+        "C": "Метастазы в медиастинальные лимфатические узлы",
         "D": "Инвазия в грудную стенку с вовлечением 1–3 ребер"
       },
       "correctAnswer": "C",
@@ -7808,7 +7808,7 @@
       "optionsRu": {
         "A": "Биопсия под контролем КТ",
         "B": "Краевая (клиновидная) резекция с последующей лобэктомией в случае злокачественности",
-        "C": "Сегментэктомия верхушечного сегмента нижней доли (S6)",
+        "C": "Сегментэктомия верхушечного сегмента нижней доли",
         "D": "Стереотаксическая лучевая терапия тела (SBRT)"
       },
       "correctAnswer": "B",
@@ -8074,7 +8074,7 @@
       "optionsRu": {
         "A": "Повторная операция с целью устранения сброса воздуха, укрытия мышечным лоскутом и/или формирования плеврального тента",
         "B": "Проведение прикроватного талькового плевродеза",
-        "C": "Выписка домой с дренажем, подключенным к клапану Геймлиха (Heimlich valve), и динамическое наблюдение",
+        "C": "Выписка домой с дренажем, подключенным к клапану Геймлиха, и динамическое наблюдение",
         "D": "Установка дополнительного плеврального дренажа и наблюдение в стационаре до прекращения сброса воздуха"
       },
       "correctAnswer": "C",
@@ -8107,10 +8107,10 @@
         "D": "transthoracic washout and stump closure"
       },
       "optionsRu": {
-        "A": "Формирование открытой торакостомы по Элоэссеру (Eloesser flap)",
+        "A": "Формирование открытой торакостомы по Элоэссеру",
         "B": "Продолжение дренирования плевральной полости трубчатым дренажем",
         "C": "Трансстернальное трансперикардиальное ушивание культи бронха",
-        "D": "Трансторакальная санация (lavage/washout) с ревизией и ушиванием культи бронха"
+        "D": "Трансторакальная санация с ревизией и ушиванием культи бронха"
       },
       "correctAnswer": "C",
       "explanationEn": "### 🎯 Correct Answer\n**Option C: trans-sternal closure of the stump**\n\n### 🔬 Detailed Clinical and Pathophysiological Rationale\n• **Pathophysiology of Early Post-Pneumonectomy Bronchopleural Fistula (BPF) and Empyema:**\n  * A postoperative bronchopleural fistula (BPF) with associated post-pneumonectomy empyema (PPE) is a catastrophic, highly morbid complication following pulmonary resection, carrying a mortality rate of up to 25% to 50%.\n  * **Risk Factors:** Predisposing factors in this patient include a **right-sided pneumonectomy** (the right bronchial stump has a larger diameter, is more exposed to mediastinal pressure, and has a less robust vascular supply than the left), advanced age (75 years), and **prior high-dose neoadjuvant chemoradiation (60 gray)**, which causes severe local tissue ischemia, microvascular thrombosis, fibrosis, and impaired mucosal healing.\n  * **Early Presentation:** An early BPF (occurring within the first 14 days, here on POD 10) is typically caused by a complete mechanical failure of the stump suture/staple line. The sudden loss of the fluid level in the right hemithorax on chest radiograph (CXR), clinical hypoxia, and new-onset atrial fibrillation are classic signs of bronchial stump dehiscence leading to massive, contaminated pleural fluid draining into the tracheobronchial tree (contralateral aspiration) and causing a severe systemic inflammatory response.\n  * **First-Line Resuscitation:** Initial emergency management consists of placing the patient with the **operated side down** to prevent fluid from drowning the remaining left lung, followed by flexible bronchoscopy to clear the airway and **tube thoracostomy (chest tube)** to decompress the infected space (which drained 1 liter of foul-smelling, turbid fluid) and initiate culture-directed antibiotics.\n\n• **Why Trans-sternal Closure of the Stump is the Best Management (Option C):**\n  * **The Mediastinal (Clean-Field) Advantage:** The trans-sternal, transpericardial approach (first described by Abruzzini) is performed via a fresh median sternotomy. This allows the surgeon to access and dissect the right mainstem bronchial stump through the **clean, uninfected mediastinal space**, completely avoiding entering or traversing the highly contaminated right empyema cavity.\n  * **Overcoming Radiation and Infection:** Since the patient received 60 Gy of neoadjuvant radiation, the right pleural space and thoracotomy site are highly inflamed, fibrotic, and ischemic. Attempting to repair the stump via the previous thoracotomy (transthoracic washout and stump closure, Option D) in a heavily infected and irradiated pleural cavity carries an extremely high rate of recurrent dehiscence (>70%) due to local tissue friability, lack of healthy blood supply, and active infection.\n  * **Adequate Re-resection and Buttressing:** The trans-sternal approach allows the surgeon to safely dissect the right bronchus directly at the carina, perform a complete re-resection back to healthy, well-perfused tissue, and close the new stump in a clean environment, typically reinforced with an unirradiated vascularized tissue flap (such as pericardium, thymic tissue, or pericardial fat pad).\n\n### ❌ Why the Other Options are Less Appropriate\n* 🔸 **Option A (creation of an Eloesser flap):** While an open-window thoracostomy (Eloesser flap or Clagett window) is a classic treatment for post-pneumonectomy empyema, it is typically reserved for **late-onset BPF** (occurring months to years after surgery with chronic cavity organization) or for patients who are hemodynamically too unstable to tolerate a major operative reconstruction. In an early (POD 10), potentially salvageable BPF where the patient has been safely stabilized with a chest tube, direct anatomical closure of the bronchial stump is the primary goal.\n* 🔸 **Option B (ongoing chest tube drainage as an empyema tube):** Simple, long-term chest tube drainage is highly inadequate for a large, early post-pneumonectomy bronchial stump blow-out. It fails to achieve source control, guarantees persistent severe contamination of the contralateral healthy lung via the fistula, and leads to chronic sepsis and inevitable death.\n* 🔸 **Option D (transthoracic washout and stump closure):** Re-entering the heavily infected, irradiated right chest cavity through the previous thoracotomy to find and close a dehisced bronchial stump is associated with a catastrophic failure rate. The surrounding tissues are necrotic and saturated with purulent fluid, making secure suture placement impossible and leading to rapid recurrent dehiscence. Transthoracic approaches are only favored for very early BPFs (within 48–72 hours) *before* the development of gross empyema and in the absence of high-dose preoperative radiation.\n\n### 📚 Board Pearl\n* **The Trans-sternal Transpericardial Standard:** On thoracic surgery board exams, for any patient with an **early post-pneumonectomy BPF and empyema who has undergone neoadjuvant chemoradiation (especially high-dose, ≥45–60 Gy)**, the most correct and definitive surgical management is **trans-sternal, transpericardial closure of the bronchial stump**. This provides access through a clean, uninfected mediastinum via median sternotomy and avoids the hostile, irradiated, and infected pleural cavity.\n\n### 🔥 Mnemonic / Memory Aid\nRemember the benefits of the trans-sternal approach for post-pneumonectomy BPF using the acronym **«S-T-E-R-N-U-M»**:\n* **S** - **S**ternotomy access: Avoids the infected thoracotomy site and irradiated pleural cavity.\n* **T** - **T**ranspericardial route: Provides direct, safe dissection of the main bronchus at the carina.\n* **E** - **E**mpyema avoidance: Dissection goes entirely through a clean, sterile mediastinal field.\n* **R** - **R**adical re-resection: Allows resection of the diseased stump back to healthy tissue.\n* **N** - **N**eoadjuvant radiation (60 Gy) makes local tissues too fragile for transthoracic repair.\n* **U** - **U**nirradiated tissue coverage (using healthy pericardium or thymic fat pads to cover the new stump).\n* **M** - **M**ortality reduction: Provides the highest success rate of permanent fistula closure in infected cavities.",
@@ -8179,7 +8179,7 @@
         "D": "inhaled steroid use"
       },
       "optionsRu": {
-        "A": "Неполные междолевые щели (incomplete fissures)",
+        "A": "Неполные междолевые щели",
         "B": "Сниженная функция внешнего дыхания",
         "C": "Использование аспирации в послеоперационном периоде",
         "D": "Применение ингаляционных стероидов"
@@ -8322,7 +8322,7 @@
       },
       "optionsRu": {
         "A": "Ушивание надрыва с перемежающейся тампонадой",
-        "B": "Блочное прошивание сшивающим аппаратом корня верхней доли (mass stapling)",
+        "B": "Блочное прошивание сшивающим аппаратом корня верхней доли",
         "C": "Выполнение видеоторакоскопической (VATS) пневмонэктомии слева",
         "D": "Конверсия в открытую операцию (торакотомию)"
       },
@@ -8498,7 +8498,7 @@
       },
       "optionsRu": {
         "A": "Среднее давление в легочной артерии",
-        "B": "ФЖЕЛ (FVC)",
+        "B": "ФЖЕЛ",
         "C": "Искусственная вентиляция легких (интубация/ИВЛ)",
         "D": "Центральное венозное давление (ЦВД)"
       },
@@ -8568,7 +8568,7 @@
       "optionsRu": {
         "A": "Использование искусственного кровообращения (ИК)",
         "B": "Трансфузия 3 доз эритроцитарной массы",
-        "C": "Тяжесть первичной дисфункции трансплантата (PGD)",
+        "C": "Тяжесть первичной дисфункции трансплантата",
         "D": "Потребность в искусственной вентиляции легких через 24 часа после операции"
       },
       "correctAnswer": "C",
@@ -8604,7 +8604,7 @@
         "D": "inhaled corticosteroids"
       },
       "optionsRu": {
-        "A": "Динамическая КТ органов грудной клетки (dynamic expiratory CT scan)",
+        "A": "Динамическая КТ органов грудной клетки",
         "B": "Видеоторакоскопическая (VATS) биопсия легкого",
         "C": "Тест с 6-минутной ходьбой",
         "D": "Ингаляционные глюкокортикостероиды"
@@ -8714,7 +8714,7 @@
       },
       "optionsRu": {
         "A": "Пластика свища через трансторакальный доступ",
-        "B": "Пластика свища биосинтетической обтурационной сеткой-пробкой (mesh plug)",
+        "B": "Пластика свища биосинтетической обтурационной сеткой-пробкой",
         "C": "Установка саморасширяющегося полностью покрытого съемного трахеального стента",
         "D": "Пластика свища через шейный доступ с возможной циркулярной резекцией трахеи"
       },
@@ -9184,7 +9184,7 @@
         "A": "Дренирование плевральной полости и плевродез блеомицином",
         "B": "Видеоторакоскопический (VATS) механический плевродез слева",
         "C": "Повторный чрескожный плевроцентез (пункция)",
-        "D": "Установка туннелированного плеврального катетера (PleurX / IPC)"
+        "D": "Установка туннелированного плеврального катетера"
       },
       "correctAnswer": "D",
       "explanationEn": "### 🎯 Correct Answer\n**Option D: tunneled pleural catheter insertion**\n\n### 🔬 Detailed Clinical and Pathophysiological Rationale\n• **Pathophysiology of Malignant Pleural Effusion (MPE):**\n  * A malignant pleural effusion (MPE) is a common complication of advanced (Stage IIIb/IV) lung cancer. It occurs due to tumor implantation on the pleural surfaces, leading to impaired lymphatic drainage, increased capillary permeability, and excessive fluid production.\n  * This patient has a rapidly reaccumulating, symptomatic MPE (two separate thoracenteses yielding >1.5 L of malignant fluid within 3 weeks). Recurrent therapeutic thoracentesis is not a long-term solution because it carries a high risk of pneumothorax, infection, and patient discomfort, and provides only temporary relief.\n\n• **Why Tunneled Pleural Catheter (IPC) is the Best Next Step (Option D):**\n  * **Outpatient, Minimally Invasive:** An indwelling tunneled pleural catheter (IPC), such as the PleurX device, is placed percutaneously under local anesthesia on an outpatient basis. It allows patients to drain fluid at home using sterile kits, providing rapid and durable symptom relief.\n  * **Freedom from Hospitalization:** IPC insertion avoids the need for inpatient hospitalization, general anesthesia, or surgical intervention (VATS). It is particularly well-suited for patients with trapped lung or those who are not candidates for pleurodesis.\n  * **Spontaneous Pleurodesis:** In approximately 50–60% of patients, continuous drainage via an IPC leads to spontaneous pleurodesis, allowing eventual catheter removal.\n  * **Current Guideline Recommendation:** According to updated American Thoracic Society (ATS), Society of Thoracic Surgeons (STS), and Society of Thoracic Radiology (STR) consensus guidelines, both IPC insertion and talc pleurodesis are the recommended first-line interventions for MPE.\n\n### ❌ Why the Other Options are Less Appropriate\n* 🔸 **Option A (chest tube insertion and bleomycin pleurodesis):** Bleomycin is a sclerosing agent, but it has **significantly lower efficacy (approximately 50–60%)** compared to talc (80–90%) or IPC. Furthermore, chest tube placement requires inpatient hospitalization (typically 2–5 days), is more uncomfortable, and is associated with higher rates of fever, chest pain, and systemic side effects. Bleomycin is no longer a first-line agent.\n* 🔸 **Option B (left VATS mechanical pleurodesis):** While VATS mechanical or talc pleurodesis is an effective technique, it requires general anesthesia, single-lung ventilation, and inpatient hospitalization. It is often reserved for patients with non-expandable lung (trapped lung) or those who fail IPC therapy. Given the patient's ECOG status of 1, an IPC is a less invasive, equally effective, and more cost-effective alternative.\n* 🔸 **Option C (repeat percutaneous thoracentesis):** Repeated therapeutic thoracentesis is not definitive management. It provides only short-term relief (often < 2 weeks), carries an increasing risk of complications (pneumothorax, hemothorax, infection), and significantly impairs the patient's quality of life due to frequent clinic visits.\n\n### 📚 Board Pearl\n* **The IPC vs. Pleurodesis Debate:** On thoracic surgery board exams (SESATS), the gold standard for definitive management of symptomatic recurrent MPE in an ambulatory patient (ECOG 0-1) is **tunneled pleural catheter (IPC) or talc pleurodesis (via small-bore chest tube or VATS)**. Bleomycin is historical and not first-line. Repeated thoracenteses (Option C) are not considered long-term management.\n\n### 🔥 Mnemonic / Memory Aid\nRemember the management of malignant pleural effusion with **\"I-P-C\"**:\n* **I** - **I**ndwelling Pleural Catheter is the first-line, outpatient, definitive treatment.\n* **P** - **P**alliates dyspnea effectively without inpatient hospitalization.\n* **C** - **C**hemical pleurodesis with bleomycin (Option A) is outdated and inferior to talc or IPC.",
@@ -9374,7 +9374,7 @@
       "optionsRu": {
         "A": "Стернотомия, санация/хирургическая обработка средостения и открытое тампонирование",
         "B": "Чрескожное дренирование под лучевым контролем",
-        "C": "Торакоскопическая санация, хирургическая обработка и дренирование (VATS debridement and drainage)",
+        "C": "Торакоскопическая санация, хирургическая обработка и дренирование",
         "D": "Добавление эртапенема для расширения спектра действия на грамотрицательные палочки"
       },
       "correctAnswer": "C",
@@ -9412,7 +9412,7 @@
       "optionsRu": {
         "A": "Хирургическая резекция (удаление опухоли)",
         "B": "МРТ грудного отдела позвоночника",
-        "C": "Сцинтиграфия с 131I-метайодбензилгуанидином (MIBG)",
+        "C": "Сцинтиграфия с 131I-метайодбензилгуанидином",
         "D": "Прием феноксибензамина в течение не менее 2 недель перед резекцией"
       },
       "correctAnswer": "A",
@@ -9447,7 +9447,7 @@
       "optionsRu": {
         "A": "Стернотомия с открытой операцией на аорте и протезированием синтетическим графтом",
         "B": "Ангиография и имплантация аортального стент-графта (TEVAR)",
-        "C": "Торакоскопическая хирургическая биопсия (VATS biopsy)",
+        "C": "Торакоскопическая хирургическая биопсия",
         "D": "Торакотомия с циторедуктивным удалением / дебалкингом образования"
       },
       "correctAnswer": "C",
@@ -9485,7 +9485,7 @@
       "optionsRu": {
         "A": "Киста тимуса (тимическая киста)",
         "B": "Перикардиальная киста",
-        "C": "Энтерогенная киста / киста удвоения передней кишки (foregut duplication cyst)",
+        "C": "Энтерогенная киста / киста удвоения передней кишки",
         "D": "Бронхогенная киста"
       },
       "correctAnswer": "D",
@@ -9665,7 +9665,7 @@
       },
       "optionsRu": {
         "A": "Дренирование плевральной полости, пассивный дренаж по Бюлау и наблюдение",
-        "B": "Установка окисленной целлюлозы (Surgicel) в область межпозвонкового отверстия, люмбальный дренаж и постельный режим",
+        "B": "Установка окисленной целлюлозы в область межпозвонкового отверстия, люмбальный дренаж и постельный режим",
         "C": "Массивное лигирование грудного протока",
         "D": "Ревизия межпозвонкового отверстия, ушивание/пластика твердой мозговой оболочки и укрепление межреберным мышечным лоскутом"
       },
@@ -9771,8 +9771,8 @@
       },
       "optionsRu": {
         "A": "Фундопликация по Ниссену",
-        "B": "Гастрошунтирование по Ру (Roux-en-Y gastric bypass)",
-        "C": "Продольная (рукавная) резекция желудка (sleeve gastrectomy)",
+        "B": "Гастрошунтирование по Ру",
+        "C": "Продольная (рукавная) резекция желудка",
         "D": "Вмешательство для ускорения эвакуации из желудка (дренирующая операция)"
       },
       "correctAnswer": "B",
@@ -9805,7 +9805,7 @@
       },
       "optionsRu": {
         "A": "Эзофагокардиомиотомия (классическая миотомия Геллера)",
-        "B": "Протяженная миотомия пищевода (long esophageal myotomy)",
+        "B": "Протяженная миотомия пищевода",
         "C": "Эзофагэктомия по Айвору Льюису",
         "D": "Пневматическая дилатация"
       },
@@ -9876,7 +9876,7 @@
         "A": "Отменить терапию ИПП и начать пробный курс H2-блокаторов",
         "B": "Увеличить дозу ИПП и выполнить манометрию высокого разрешения",
         "C": "Увеличить дозу ИПП и провести амбулаторную рН-метрию",
-        "D": "Отменить ингибиторы протонной помпы и выполнить амбулаторную pH-импедансометрию (off-therapy)"
+        "D": "Отменить ингибиторы протонной помпы и выполнить амбулаторную pH-импедансометрию"
       },
       "correctAnswer": "D",
       "explanationEn": "In patients with typical symptoms of GERD (heartburn, regurgitation) that are refractory to an adequate trial of high-dose (twice-daily) proton pump inhibitors (PPIs) and who have normal or non-diagnostic findings on upper endoscopy (non-erosive reflux disease vs. functional heartburn vs. hypersensitive esophagus), the gold standard diagnostic step is ambulatory 24-hour pH-impedance monitoring performed off PPI therapy (typically stopped 7 days prior). Testing 'off PPI' objectively confirms or excludes true pathologic acid or non-acid reflux, calculates the DeMeester score and total acid exposure time (AET), and assesses symptom-reflux association, which is essential to establish the diagnosis and guide further management or surgical intervention. Further increasing the PPI dose is not recommended after twice-daily failure.",
@@ -10054,7 +10054,7 @@
       "optionsRu": {
         "A": "Лапароскопическая фундопликация по Ниссену",
         "B": "Эндоскопическая дилатация пищевода и терапия ингибиторами протонной помпы (ИПП)",
-        "C": "Эзофагэктомия с пластикой перемещенным желудком (gastric pull-up)",
+        "C": "Эзофагэктомия с пластикой перемещенным желудком",
         "D": "Лапароскопическая миотомия по Геллеру с частичной (парциальной) фундопликацией"
       },
       "correctAnswer": "B",
@@ -10129,8 +10129,8 @@
       "optionsRu": {
         "A": "Эзофагомиотомия по типу Геллера",
         "B": "Антирефлюксная операция с гастропластикой (удлинением пищевода по Коллису)",
-        "C": "Рукавная резекция желудка (sleeve gastrectomy)",
-        "D": "Гастрошунтирование по Ру (Roux-en-Y gastric bypass)"
+        "C": "Рукавная резекция желудка",
+        "D": "Гастрошунтирование по Ру"
       },
       "correctAnswer": "B",
       "explanationEn": "The endoscopic measurements establish the presence of a 'shortened esophagus' (brachyesophagus) associated with a massive hiatal hernia: the distance from the top of the gastric folds (gastroesophageal junction, GEJ at 25 cm) to the diaphragmatic pinch (39 cm) is 14 cm, demonstrating that the GEJ is markedly displaced intrathoracically and the functional esophageal length is drastically shortened (10 cm from UES at 15 cm to GEJ at 25 cm, well below the normal 20–22 cm). In the setting of true shortened esophagus, standard mobilization alone will not achieve the requisite 2.5–3 cm of tension-free intra-abdominal esophagus, leading to high wrap herniation and failure rates. Therefore, an esophageal lengthening procedure (Collis gastroplasty) combined with an antireflux fundoplication (Collis-Nissen or Collis-Toupet) is the standard surgical approach. The patient is not morbidly obese (BMI 30), so bariatric bypass (Option D) is not primary, and normal manometric motility excludes achalasia/Heller myotomy (Option A).",
@@ -10394,7 +10394,7 @@
       "optionsRu": {
         "A": "Неоадъювантная химиолучевая терапия с последующей эзофагэктомией по Айвору Льюису",
         "B": "Радикальная химиолучевая терапия с последующим динамическим наблюдением",
-        "C": "Неоадъювантная системная химиотерапия (FLOT) и завершающая гастрэктомия (экстирпация культи желудка с резекцией дистального отдела пищевода) с формированием эзофагоеюноанастомоза по Ру",
+        "C": "Неоадъювантная системная химиотерапия и завершающая гастрэктомия (экстирпация культи желудка с резекцией дистального отдела пищевода) с формированием эзофагоеюноанастомоза по Ру",
         "D": "Эзофагэктомия с пластикой толстокишечным трансплантатом и формированием колоеюноанастомоза по Ру"
       },
       "correctAnswer": "C",
@@ -10539,7 +10539,7 @@
         "A": "КТ органов грудной клетки высокого разрешения",
         "B": "Эндоскопическая ультрасонография (ЭндоУЗИ / EUS)",
         "C": "Эндоскопическая резекция слизистой (EMR)",
-        "D": "ПЭТ/КТ с ФДГ (FDG-PET/CT)"
+        "D": "ПЭТ/КТ с ФДГ"
       },
       "correctAnswer": "C",
       "explanationEn": "For a small (10 mm), visible, raised/nodular early lesion arising in Barrett's esophagus with well-differentiated adenocarcinoma, Endoscopic Mucosal Resection (EMR) is both the definitive staging modality (T-staging) and the initial therapeutic step. EUS (Option B) has poor accuracy for distinguishing between mucosal (T1a) and superficial submucosal (T1b) invasion in small flat/nodular early lesions. EMR provides a full-thickness mucosal/submucosal tissue specimen for precise histological evaluation of depth of invasion, differentiation, lymphovascular invasion, and deep resection margins, which dictates whether endoscopic eradication therapy alone is curative or if esophagectomy is needed. High-resolution CT (Option A) and FDG-PET/CT (Option D) have no role in T-staging of superficial early mucosal lesions and are reserved for ruling out distant metastasis in advanced disease.",
@@ -10809,7 +10809,7 @@
       },
       "optionsRu": {
         "A": "Терапия ингибиторами протонной помпы два раза в сутки",
-        "B": "Гастрошунтирование по Ру с формированием малого желудочного резервуара (Roux-en-Y gastric bypass)",
+        "B": "Гастрошунтирование по Ру с формированием малого желудочного резервуара",
         "C": "Ревизия и повторная фундопликация по Ниссену через лапаротомию",
         "D": "Трансторакальная фундопликация по Белси"
       },
@@ -10916,8 +10916,8 @@
         "D": "thoracoscopy and drainage"
       },
       "optionsRu": {
-        "A": "Повторное видеорентгеноскопическое исследование акта глотания (VFSS)",
-        "B": "Эндоскопическая фиброоптическая оценка акта глотания (FEES / Fiberoptic Endoscopic Evaluation of Swallowing)",
+        "A": "Повторное видеорентгеноскопическое исследование акта глотания",
+        "B": "Эндоскопическая фиброоптическая оценка акта глотания",
         "C": "КТ органов грудной клетки с внутривенным контрастированием",
         "D": "Торакоскопия и дренирование плевральной полости"
       },
@@ -11304,7 +11304,7 @@
       },
       "optionsRu": {
         "A": "Резекция только инфицированного нижнего края сетки и ушивание раны на проточных дренажах",
-        "B": "Резекция нижнего края сетки и установка вакуумной повязки (Wound VAC)",
+        "B": "Резекция нижнего края сетки и установка вакуумной повязки",
         "C": "Полное удаление всей синтетической сетки/протеза с установкой биопротезной (биологической) сетки",
         "D": "Полное удаление всей синтетической сетки (протеза) и ушивание раны поверх дренажей"
       },
@@ -11338,7 +11338,7 @@
       },
       "optionsRu": {
         "A": "Электромиография диафрагмального нерва",
-        "B": "Рентгеноскопическая оценка подвижности диафрагмы («sniff test»)",
+        "B": "Рентгеноскопическая оценка подвижности диафрагмы",
         "C": "Ультразвуковое исследование (УЗИ) в М-режиме, выполненное у постели больного",
         "D": "Спирометрия в положении сидя и лежа"
       },
@@ -11407,7 +11407,7 @@
       "optionsRu": {
         "A": "Динамическое наблюдение",
         "B": "Лапароскопическая пластика грыжи пищеводного отверстия диафрагмы с фундопликацией по Ниссену",
-        "C": "Пластика диафрагмальной грыжи с использованием сетчатого имплантата (mesh)",
+        "C": "Пластика диафрагмальной грыжи с использованием сетчатого имплантата",
         "D": "Резекция булл левого легкого видеоторакоскопическим доступом (VATS)"
       },
       "correctAnswer": "C",
@@ -11446,7 +11446,7 @@
       "optionsRu": {
         "A": "Двусторонняя пликация диафрагмы",
         "B": "Ночная ИВЛ через трахеостому",
-        "C": "Имплантация диафрагмального стимулятора (diaphragm pacer / phrenic nerve pacing)",
+        "C": "Имплантация диафрагмального стимулятора",
         "D": "Транстрахеальный кислородный катетер"
       },
       "correctAnswer": "C",
@@ -11480,7 +11480,7 @@
       "optionsRu": {
         "A": "Объема форсированного выдоха за первую секунду (ОФВ1 / FEV1)",
         "B": "Общей емкости легких (ОЕЛ / TLC)",
-        "C": "Показателей одышки / качества жизни (dyspnea score)",
+        "C": "Показателей одышки / качества жизни",
         "D": "Функциональной остаточной емкости легких (ФОЕ / FRC)"
       },
       "correctAnswer": "C",
@@ -11620,7 +11620,7 @@
       "optionsRu": {
         "A": "Гемоторакс",
         "B": "Несостоятельность (разрыв/прорезывание швов) заплаты диафрагмы с развитием диафрагмальной грыжи",
-        "C": "Дислокация / вывих сердца (cardiac herniation)",
+        "C": "Дислокация / вывих сердца",
         "D": "Бронхоплевральный свищ"
       },
       "correctAnswer": "B",

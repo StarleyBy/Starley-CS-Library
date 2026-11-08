@@ -49,12 +49,12 @@ This chapter, in addition to defining the essential components of CR programs, w
 
 ### Core Components of CR Programs
 * **Exercise training:** Individualized prescription based on exercise test (Bruce/Naughton protocols). MET capacity strong predictor of outcomes; 1‑MET increase reduces all‑cause death by 13% and CV events by 15%.
-* **Safety:** Major CV complication rate ~1 per 60,000–80,000 hours of supervised exercise. Cardiac arrest 6× higher than death, highlighting value of resuscitation training.
+* **Safety:** Major CV complication rate ~ 1 per 60,000–80,000 hours of supervised exercise. Cardiac arrest 6× higher than death, highlighting value of resuscitation training.
 * **Behavior change:** Tailored, individualized approach; SMART goals; self‑efficacy; feedback and rewards.
 * **Smoking cessation:** Reduces mortality by up to 9% absolute; may halve long‑term mortality. Nicotine replacement and counseling.
 * **Weight management:** Combined reduced‑energy diet and increased physical activity; aim for 5 kg weight loss (≈10/5 mm Hg BP reduction).
 * **Nutrition:** Mediterranean‑style diet (low saturated/trans fats, high MUFA/PUFA, omega‑3, fiber, fruits/vegetables, low salt). DASH diet lowers BP.
-* **Hypertension control:** Lifestyle (exercise, weight loss, salt reduction, alcohol moderation) plus medications. 5 kg weight loss reduces BP ~10/5 mm Hg.
+* **Hypertension control:** Lifestyle (exercise, weight loss, salt reduction, alcohol moderation) plus medications. 5 kg weight loss reduces BP ~ 10/5 mm Hg.
 * **Psychosocial factors:** Depression, anxiety, social isolation, type D personality – independent risk factors. CR provides screening (BSI‑18, POMS‑SF, SAQ, PAIS‑SR) and interventions (cognitive‑behavioral therapy, mindfulness, social support).
 * **CPR training for relatives:** Essential; up to 75% of cardiac arrests occur at home.
 

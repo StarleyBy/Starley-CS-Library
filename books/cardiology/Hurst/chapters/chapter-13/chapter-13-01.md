@@ -18,7 +18,7 @@
 * **Cavotricuspid Isthmus:** Area between IVC and tricuspid valve; target for typical atrial flutter ablation. Central isthmus preferred to avoid trabeculated ridges laterally and pouch-like septal isthmus medially (avoids AV node and RCA injury).
 * **True Atrial Septum:** Limited to fossa ovalis and its immediate muscular rim. The apparent septum is enlarged by deep fold between caval connections and right pulmonary veins, filled with epicardial fat. Fossa ovalis is patent in 20–25% of hearts (anterosuperior gap). Anterior to fossa is noncoronary aortic cusp — avoid aortic puncture.
 * **Left Atrium Components:** Appendage (highly crenellated, variable shape — chicken wing, windsock, cactus, cauliflower; thrombi form here in AF). Venous component (receives four pulmonary veins; sleeves of atrial myocardium extend into veins, longest on superior veins; triggered activity from sleeves initiates AF). Vestibule (leads to mitral valve).
-* **Pulmonary Veins:** Typically four; right pulmonary veins adjacent to atrial septum; left veins more superior. Muscle sleeves composed of circular, longitudinal, and oblique fibers. Bridging fibers between superior/inferior veins in ~50% of left pairs, ~33% of right pairs.
+* **Pulmonary Veins:** Typically four; right pulmonary veins adjacent to atrial septum; left veins more superior. Muscle sleeves composed of circular, longitudinal, and oblique fibers. Bridging fibers between superior/inferior veins in ~ 50% of left pairs, ~ 33% of right pairs.
 * **Mitral Isthmus:** Region between left inferior pulmonary vein and mitral annulus; zone of slow conduction in atypical left atrial flutter; thick tissue makes transmural ablation difficult.
 * **Coumadin Ridge (Ligament of Marshall):** Muscular ridge separating left superior pulmonary vein (or both left veins) from left atrial appendage; remnant of vein of Marshall, densely innervated.
 
@@ -38,8 +38,8 @@
 * **False Tendons:** Fine muscular strands between septum and papillary muscles/parietal wall; carry distal left bundle branch; implicated in idiopathic left ventricular tachycardia.
 
 ### Coronary Veins
-* **Coronary Sinus:** Drains ~85% of venous return. Ostium 5–15 mm; guarded by thebesian valve (often fenestrated). Muscular sleeve around proximal CS; bundles may connect to left atrial wall — potential accessory pathways.
-* **Great Cardiac Vein:** Continuation of CS; transitions marked by valve of Vieussens (80–90% of hearts) and vein of Marshall. Sharp bend can obstruct catheter passage in ~20%.
+* **Coronary Sinus:** Drains ~ 85% of venous return. Ostium 5–15 mm; guarded by thebesian valve (often fenestrated). Muscular sleeve around proximal CS; bundles may connect to left atrial wall — potential accessory pathways.
+* **Great Cardiac Vein:** Continuation of CS; transitions marked by valve of Vieussens (80–90% of hearts) and vein of Marshall. Sharp bend can obstruct catheter passage in ~ 20%.
 * **Left Ventricular Veins:** Lateral (obtuse marginal) and posterior veins are targets for LV pacing (CRT). Left phrenic nerve often runs close — pacing may cause diaphragmatic stimulation.
 * **Middle Cardiac Vein:** Drains into CS near os; useful for epicardial posteroseptal accessory pathway ablation. Risk of posterior descending artery injury. May have aneurysmal entrance with muscle cuff — potential accessory connection.
 * **Small Cardiac Vein:** Drains right atrium and inferior RV wall; opens near CS os or into middle cardiac vein.
@@ -48,11 +48,11 @@
 ### Cardiac Conduction System
 * **Sinus Node:** Crescent-shaped, mean length 13.5 mm. Located at superior margin of terminal groove, near anterolateral SVC-RA junction. Nodal tissue surrounded by calcium channel activation (slow, decremental conduction like AV node). Borders irregular with interdigitations.
 * **Interatrial Connections:** Bachmann's bundle (prominent bridge across atrial roof, anterosuperior to fossa ovalis) — facilitates interatrial synchrony. Multiple smaller bridges exist (cross Waterston's groove, connect pulmonary vein sleeves to LA). Muscular bridges from LA into CS wall.
-* **Atrioventricular Node:** Compact AV node near apex of triangle of Koch (~5 mm long/wide in adult). Blood supply: AV nodal artery from RCA (80%), LCx (10%), both (10%). Inferior extensions (right and left) run parallel to tricuspid annulus (right) and toward mitral vestibule (left). Right inferior extension reaches mid-level of triangle, sometimes near CS os — target for slow pathway ablation in AVNRT.
+* **Atrioventricular Node:** Compact AV node near apex of triangle of Koch (~ 5 mm long/wide in adult). Blood supply: AV nodal artery from RCA (80%), LCx (10%), both (10%). Inferior extensions (right and left) run parallel to tricuspid annulus (right) and toward mitral vestibule (left). Right inferior extension reaches mid-level of triangle, sometimes near CS os — target for slow pathway ablation in AVNRT.
 * **His-Purkinje System:** Penetrating bundle of His passes through central fibrous body, emerges between membranous septum and crest of ventricular septum. Landmark: immediately inferior to fibrous area between right and noncoronary aortic sinuses. Bifurcates into left (fans out in subendocardium) and right (cordlike, descends in septomarginal trabeculation to moderator band) bundle branches. Ramify into Purkinje network in subendocardium.
 
 ### Fat Pads and Innervation
-* **Intrinsic Cardiac Nervous System:** Atrial network of neural ganglia (ganglionated plexuses). 6–10 collections described; ~50% on atria, ~50% on ventricles. Associated with epicardial fat pads (visual landmarks).
+* **Intrinsic Cardiac Nervous System:** Atrial network of neural ganglia (ganglionated plexuses). 6–10 collections described; ~ 50% on atria, ~ 50% on ventricles. Associated with epicardial fat pads (visual landmarks).
 * **Atrial Fat Pads:** Located in interatrial groove, at cavoatrial junctions, on left atrial wall near venoatrial junctions. Ligament of Marshall densely innervated (parasympathetic and sympathetic).
 * **Ganglion Distribution:** Pauza et al: up to 50% of ganglia on posterior/posterolateral left atrium. Singh et al: largest populations adjacent to sinus and AV nodes. Ganglia within and between plexuses interconnect forming epicardial neural plexus.
 * **Autonomic Influences:** Important in atrial and ventricular arrhythmogenesis. Surgical left stellate ganglionectomy used for refractory ventricular arrhythmia storm.

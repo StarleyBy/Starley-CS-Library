@@ -61,16 +61,16 @@ We provide an overview of trends in CVD starting with its two largest components
 * 2013: 65,000 deaths (95% UI, 48,593-79,435) and 1.9 million DALYs.
 
 ### Endemic CVDs
-* **Chagas disease:** 5‑18 million infected; causes ~550,000 DALYs (2010); 4.2% of DALYs occur outside Latin America. Transmission by *Triatoma infestans*; chronic phase causes heart failure, arrhythmias, thromboembolism.
+* **Chagas disease:** 5‑18 million infected; causes ~ 550,000 DALYs (2010); 4.2% of DALYs occur outside Latin America. Transmission by *Triatoma infestans*; chronic phase causes heart failure, arrhythmias, thromboembolism.
 * **Rheumatic heart disease (RHD):** Affects >34 million people; >345,000 deaths and 10 million DALYs annually. Caused by group A streptococcus; leads to mitral stenosis. Only 11% of surgical interventions occur in low-income countries vs 61% in high-income.
 
 ### Modifiable Risk Factors
 * **Hypertension:** single largest contributor to global disease burden. 2008 age-standardized mean SBP 128.1 mm Hg (males), 124.4 mm Hg (females). Uncontrolled hypertension: 978 million people. SBP decreasing in high-income North America but rising in Oceania, East Africa, South/Southeast Asia.
-* **Obesity:** BMI ≥25 (overweight) and ≥30 (obese). Prevalence higher in developed countries; in developing countries, females have higher rates. Peak obesity in developed countries: ~25% men, 31% women.
+* **Obesity:** BMI ≥25 (overweight) and ≥30 (obese). Prevalence higher in developed countries; in developing countries, females have higher rates. Peak obesity in developed countries: ~ 25% men, 31% women.
 * **Diet:** Low fruit intake accounts for 2.7% of global DALYs; high sodium (>5 g/d) for 2.6%. High sodium burden highest in Central Asia.
 * **Dyslipidemia:** contributes 2.6% of global DALYs; highest burden in Eastern Europe and Central Asia (>7% of DALYs in Russia).
 * **Smoking:** 967 million daily smokers in 2012 (up from 721 million in 1980). Prevalence in males ranges from <10% (some African countries) to >55% (Timor‑Leste, Indonesia). Causes 5.7 million deaths annually.
-* **Diabetes:** Age-standardized prevalence 9.8% (males), 9.2% (females) in 2008; nearly double since 1980. Nearly half of diabetics in China and India (~138 million).
+* **Diabetes:** Age-standardized prevalence 9.8% (males), 9.2% (females) in 2008; nearly double since 1980. Nearly half of diabetics in China and India (~ 138 million).
 * **Air pollution:** Largest environmental health risk; 2.9 million deaths attributed to outdoor pollution + similar number indoor. 11% increase in CVD mortality per 10 μg/m³ rise in PM<sub>2.5</sub>.
 * **Physical inactivity:** contributes 1.8% of global DALYs. Low activity levels common in high-income countries, Eastern Europe, Central Asia, North Africa/Middle East.
 * **Mental illness:** 29.2% global prevalence of any mood, anxiety, or substance use disorder. Depression accounts for an estimated 3% of IHD DALYs assuming causal association.

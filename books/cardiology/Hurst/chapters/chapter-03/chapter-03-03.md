@@ -10,7 +10,7 @@
 * **Myocardial Oxygen Consumption (MVO<sub>2</sub>):** Estimated by the double product (heart rate × systolic blood pressure). Exercise-induced angina typically occurs at a reproducible double product. Higher double product indicates better perfusion and prognosis.
 * **Total Body Oxygen Uptake (VO<sub>2</sub>):** Determined by cardiac output × arteriovenous O<sub>2</sub> difference. Maximal VO<sub>2</sub> (VO<sub>2</sub>max) is the gold standard measure of cardiopulmonary fitness, expressed in METs (1 MET = 3.5 mL O<sub>2</sub>/kg/min).
 * **Cardiovascular Response to Exercise:** Heart rate increases linearly (initial vagal withdrawal, then sympathetic activation). Stroke volume increases up to 50–60% of maximal effort, after which heart rate dominates cardiac output increase. Peripheral vasodilation reduces afterload, so mean arterial pressure rises only moderately despite 5‑fold cardiac output increase.
-* **Arteriovenous O<sub>2</sub> Difference (A-VO<sub>2</sub>):** Widens from ~4–6 mL O<sub>2</sub>/100 mL at rest to 16–18 mL at maximal exercise (~80–85% extraction). Differences in VO<sub>2</sub>max are mainly due to cardiac output, not A-VO<sub>2</sub>.
+* **Arteriovenous O<sub>2</sub> Difference (A-VO<sub>2</sub>):** Widens from ~ 4–6 mL O<sub>2</sub>/100 mL at rest to 16–18 mL at maximal exercise (~ 80–85% extraction). Differences in VO<sub>2</sub>max are mainly due to cardiac output, not A-VO<sub>2</sub>.
 
 ### Test Accuracy & Interpretation
 * **Sensitivity/Specificity:** Meta‑analysis of 147 studies → mean sensitivity 68%, specificity 77% using ≥1 mm horizontal/downsloping ST depression as cut‑point.
@@ -109,7 +109,7 @@ The second principle is one of pathophysiology: considerable interaction takes p
 
 ### Metabolic Equivalents</summary><div class="details-content">
 
-Because exercise testing fundamentally involves the measurement of work, there are several key concepts regarding work. The common biologic measure of total body work is oxygen uptake, which is usually expressed as a rate (making it a measure of power) in liters per minute. The metabolic equivalent of a task (MET) is a term used clinically to express the oxygen requirement of the work rate during an exercise test. One MET is equal to the resting metabolic rate (~3.5 mL of O<sub>2</sub>/kg/min) and a MET value achieved from an exercise test is a multiple of the resting metabolic rate, either estimated from the maximal workload achieved or measured directly by oxygen uptake. It also represents a method of reporting work performed with different stress test protocols.
+Because exercise testing fundamentally involves the measurement of work, there are several key concepts regarding work. The common biologic measure of total body work is oxygen uptake, which is usually expressed as a rate (making it a measure of power) in liters per minute. The metabolic equivalent of a task (MET) is a term used clinically to express the oxygen requirement of the work rate during an exercise test. One MET is equal to the resting metabolic rate (~ 3.5 mL of O<sub>2</sub>/kg/min) and a MET value achieved from an exercise test is a multiple of the resting metabolic rate, either estimated from the maximal workload achieved or measured directly by oxygen uptake. It also represents a method of reporting work performed with different stress test protocols.
 
 </div></details>
 

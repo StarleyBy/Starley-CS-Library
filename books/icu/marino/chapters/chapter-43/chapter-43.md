@@ -1,380 +1,385 @@
-# Chapter 43
+# Thermoregulatory Disorders
 
-# **Thermoregulatory Disorders**
+> *Heat not a furnace for your foe so hot that you singe yourself.*  
+> — William Shakespeare (*Henry VIII*, 1613)*  
+> *\*Shakespeare W. King Henry the Eighth. Act I, Scene 1 (1613).*
 
-*Heat not a furnace for your foe so hot that you singe yourself.*
+The human body is an active metabolic furnace that generates enough thermal energy to raise the core body temperature by $1^\circ\text{C}$ every hour, even in the resting basal state (1).
 
-Shakespeare *Henry VIII*
+Fortunately, the cutaneous envelope of the body acts like an efficient radiator, dissipating excess metabolic heat into the surrounding environment. The operational control of this radiator is governed by an exquisite central thermostat (the hypothalamic preoptic thermoregulatory center), which tightly restricts normal circadian fluctuations in core temperature to within $\pm 0.6^\circ\text{C}$ (2). This chapter describes what occurs when this homeostatic thermostat fails, is pathologically overridden, or is overwhelmed by extreme environmental or pharmacological stresses, driving body temperature to life-threatening extremes.
 
-The human body is a metabolic furnace that generates enough heat to raise the body temperature by 1° C every hour, even at rest ([1\)](#page-12-0). Fortunately, the external surface of the body acts like a radiator, and discharges excess heat into the surrounding environment. The behavior of this radiator is guided by a thermostat (the thermoregulatory system) that limits the daily variation in body temperature to ±0.6° C ([2\)](#page-12-1). This chapter describes what happens when this thermostat fails, and allows the body temperature to rise or fall to life-threatening levels.
+<details class="med-details" open><summary>
 
-## **HEAT-RELATED ILLNESS**
+## Executive Summary</summary><div class="details-content">
 
-## **Hyperthermia vs. Fever**
+<details class="med-details" open><summary>
 
-The distinction between *hyperthermia* and *fever* deserves mention at the outset. Both conditions are characterized by an elevated body temperature, but hyperthermia is the result of a defect in temperature regulation, while fever is the result of a normal thermoregulatory system operating at a higher set point. The elevations in body temperature in this chapter represent hyperthermia, not fever. Because the underlying mechanisms involved in the production of hyperthermia and fever are different, *the antipyretic agents used to treat fever (e.g., acetaminophen) are ineffective in hyperthermia*.
+### Key Principles and Clinical Recommendations</summary><div class="details-content">
 
-## **Response to Thermal Stress**
+- **Hyperthermia vs Fever:** Hyperthermia represents an uncontrolled elevation of body temperature resulting from failed thermoregulation (excessive heat production, impaired dissipation, or exogenous heat load), whereas fever represents regulated elevation mediated by hypothalamic set-point elevation. Antipyretic drugs (acetaminophen, NSAIDs) are completely ineffective in hyperthermia and are contraindicated.
+- **Physics of Thermal Dissipation:** The body relies on convective heat loss (dependent on cutaneous vasodilation and airflow) and evaporative heat loss (requiring sweat vaporization). Vaporization of $1\text{ L}$ of sweat removes $580\text{ kcal}$ of thermal energy. Sweat rates can reach 1 to $2\text{ L/hr}$, releasing $> 1{,}000\text{ kcal/hr}$. Sweat must evaporate from skin; wiping off liquid sweat aborts heat loss.
+- **Heat Exhaustion vs Heat Stroke:** Heat exhaustion is characterized by dehydration, volume depletion, and mild-to-moderate temperature elevation ($38\text{–}39^\circ\text{C}$ or $100.4\text{–}102^\circ\text{F}$) with preserved central nervous system function. Heat stroke is a medical emergency defined by extreme hyperthermia ($\ge 41^\circ\text{C}$ or $\ge 106^\circ\text{F}$), profound neurological dysfunction (delirium, seizures, coma), circulatory shock, and multiorgan failure (rhabdomyolysis, AKI, DIC). Anhidrosis is typical but not mandatory.
+- **Emergency Cooling Protocols:** Goal is rapid core temperature reduction to $38^\circ\text{C}$ ($100.4^\circ\text{F}$). In the field, cold-water immersion or evaporative misting with fans (rate $0.3^\circ\text{C/min}$) is preferred. In hospital, cold packs to groin/axilla/neck, cooling blankets, and cold intravenous saline ($4^\circ\text{C}$) are employed. Shivering must be suppressed (e.g., with intravenous benzodiazepines) as it doubles metabolic heat production.
+- **Malignant Hyperthermia (MH):** A pharmacogenetic disorder of skeletal muscle calcium regulation (RYR1 mutation, 1 in 50,000 adults) triggered by halogenated inhalational anesthetics and succinylcholine. Hallmark triad: abrupt rise in end-tidal $\text{PCO}_2$, progressive masseter and generalized muscle rigidity, and extreme hyperthermia ($\ge 40^\circ\text{C}$). Treatment mandates immediate cessation of triggering agents, hyperventilation with $100\%\ \text{O}_2$, and intravenous dantrolene ($1\text{–}2\text{ mg/kg}$ rapid bolus, repeat to max $10\text{ mg/kg}$, followed by maintenance $1\text{–}2\text{ mg/kg}$ q6h for $\ge 24\text{ hours}$).
+- **Neuroleptic Malignant Syndrome (NMS):** An idiosyncratic reaction occurring in $< 1\%$ of patients receiving dopamine receptor antagonists (haloperidol, phenothiazines, atypical antipsychotics) or withdrawing dopamine agonists. Characterized by gradual onset (over days), "lead-pipe" muscle rigidity, marked CK elevation ($> 1{,}000\text{ U/L}$), hyperthermia, and autonomic instability. First-line therapy: immediate drug discontinuation, supportive hydration, dopamine agonists (oral bromocriptine $10\text{ mg}$ TID), or intravenous dantrolene.
+- **Serotonin Syndrome (SS):** Overstimulation of central and peripheral serotonin receptors triggered by serotonergic combinations (SSRIs, SNRIs, MAOIs, linezolid, fentanyl, MDMA). Triad of motor hyperactivity (hyperreflexia, spontaneous or inducible clonus, ocular clonus), autonomic hyperreactivity (tachycardia, hypertension, diaphoresis, hyperthermia in 60%), and agitation/confusion. Clonus and ocular clonus are pathognomonic, distinguishing SS from NMS. Treatment involves discontinuation of agents, benzodiazepines, and the serotonin antagonist cyproheptadine ($12\text{ mg}$ initial, $2\text{ mg}$ q2h, $8\text{ mg}$ q6h).
+- **Accidental Hypothermia Classification:** Defined as core temperature $< 35^\circ\text{C}$ ($< 95^\circ\text{F}$). Stratified into: *Mild* ($32\text{–}35^\circ\text{C}$ or $90\text{–}95^\circ\text{F}$: shivering, tachycardia, cold diuresis), *Moderate* ($28\text{–}31.9^\circ\text{C}$ or $82\text{–}89.9^\circ\text{F}$: hypoventilation, bradycardia, cessation of shivering $< 30^\circ\text{C}$), *Severe* ($< 28^\circ\text{C}$ or $< 82^\circ\text{F}$: coma, fixed pupils, high risk of VF/asystole), and *Fatal* ($< 24^\circ\text{C}$ or $< 75^\circ\text{F}$).
+- **The "Not Dead Until Warm and Dead" Rule:** Hypothermia is neuroprotective during hypoperfusion and cardiac arrest. Pronouncement of death cannot be made until core temperature is rewarmed to $\ge 32\text{–}35^\circ\text{C}$. The electrocardiographic Osborn (J) wave is an overhyped curiosity without independent prognostic value.
+- **Rewarming and Resuscitation:** Rewarming requires active external warming (forced-air blankets) and active internal warming (heated humidified oxygen at $40\text{–}45^\circ\text{C}$, warmed IV fluids, and venoarterial ECMO for refractory cardiac arrest). Rewarming vasodilation precipitates profound hypotension ("rewarming collapse"), mandating preemptive volume resuscitation with warmed crystalloids.
 
-The maintenance of body temperature in conditions of thermal stress (e.g., hot weather, strenuous exercise) is primarily achieved by enhanced blood flow to the skin (convective heat loss) and the loss of sweat (evaporative heat loss).
+</div></details>
+</div></details>
 
-#### *Convective Heat Loss*
+<details class="med-details" open><summary>
 
-When heat is lost from the skin, it warms the air just above the skin surface, and the increase in
+## Heat-Related Illness</summary><div class="details-content">
 
-surface temperature limits the further loss of body heat by conduction. However, when an air current (e.g., from a fan or gust of wind) is passed across the skin, it displaces the warm layer of air above the skin and replaces it with cooler air, and this process facilitates the continued loss of body heat by conduction. The same effect is produced by increases in blood flow just underneath the skin. The action of currents (air and blood) that promote heat loss is known as *convection*.
+<details class="med-details" open><summary>
 
-#### *Evaporative Heat Loss*
+### Hyperthermia vs Fever and Thermal Physiology</summary><div class="details-content">
 
-The transformation of water from a liquid to a gas requires heat (called the 'latent heat of vaporization'), and the heat required for the evaporation of sweat from the skin is provided by body heat. The evaporation of one liter of sweat from the skin is accompanied by the loss of 580 kilocalories (kcal) of heat from the body [\(3](#page-12-2)). This is about one-quarter of the daily heat production by an average-sized adult at rest. Thermal sweating (as opposed to "nervous sweating") can achieve rates of 1 to 2 liters per hour [\(3](#page-12-2)), which means that over 1,000 kcal of heat can be lost in one hour during profuse sweating. It is important to emphasize that *sweat must evaporate to ensure loss of body heat. Wiping sweat off the skin will not result in heat loss*, so this practice should be discouraged during strenuous exercise.
+The fundamental physiological distinction between *hyperthermia* and *fever* mandates precise clinical differentiation.
 
-## **Syndromes**
+While both conditions manifest as an elevated core body temperature, hyperthermia results from an absolute breakdown in thermoregulatory equilibrium (excessive heat generation, impaired environmental heat dissipation, or overwhelming exogenous thermal load).
 
-Heat-related illnesses are conditions where the thermoregulatory system is no longer able to maintain a constant body temperature in response to thermal stress. There are a number of minor heat-related conditions, such as *heat edema* (dependent soft tissue swelling), *heat cramps* (exercised-induced muscle cramps), and *heat rash* (a papular rash caused by blocked sweat pores) ([4\)](#page-12-3), but the following descriptions are limited to the major heat-related illnesses: *heat exhaustion* and *heat stroke*. The [comparative](#page-1-0) features of these conditions are shown in Table 43.1 ([3–](#page-12-2)[5\)](#page-12-4).
+In contrast, fever represents an intact, fully functioning thermoregulatory system operating around a newly elevated hypothalamic set-point, driven by pyrogenic cytokines (IL-1, IL-6, TNF). Because hyperthermia involves no alteration in hypothalamic set-points, *standard antipyretic pharmacotherapy (e.g., acetaminophen, aspirin, ibuprofen) is completely ineffective and should never be administered*.
 
-<span id="page-1-0"></span>
+#### Mechanisms of Thermal Dissipation
 
-| TABLE<br>43.1<br>Comparative<br>Features<br>of<br>Heat<br>Exhaustion<br>and<br>Heat<br>Stroke |                          |                   |  |  |
-|-----------------------------------------------------------------------------------------------|--------------------------|-------------------|--|--|
-| Feature                                                                                       | Heat Exhaustion          | Heat Stroke       |  |  |
-| Body Temperature                                                                              | 38–39° C or 100.4–102° F | ≥41° C or ≥106° F |  |  |
-| CNS Dysfunction                                                                               | No                       | Yes               |  |  |
-| Sweat Production                                                                              | Yes                      | No                |  |  |
-| Dehydration                                                                                   | Yes                      | Yes               |  |  |
-| Hemodynamic Instability                                                                       | No                       | Yes               |  |  |
-| Multiorgan Involvement                                                                        | No                       | Yes               |  |  |
+Under conditions of thermal stress (high ambient temperature, physical exertion), the body defends homeostatic core temperature through two primary physiological mechanisms:
 
-## **Heat Exhaustion**
+- 1. *Convective Heat Loss:* Cutaneous vasodilation dramatically increases microvascular blood flow to the skin, transferring heat from the core to the periphery. Warm skin transfers heat to the adjacent air layer by conduction; moving air currents (convection from wind or fans) displace this heated boundary layer, permitting continuous thermal transfer.
+- 2. *Evaporative Heat Loss:* The phase change of water from liquid sweat to gaseous vapor requires substantial thermal energy (the latent heat of vaporization). The evaporation of $1\text{ L}$ of sweat consumes approximately $580\text{ kcal}$ of thermal energy from the body (3). Thermal eccrine sweating can attain maximal rates of 1 to $2\text{ L/hr}$ (3), shedding over $1{,}000\text{ kcal}$ of heat per hour during heavy exertion.
 
-Patients with heat exhaustion experience flu-like symptoms that include hyperthermia (usually <38–39° C or 100.4–102° F), muscle cramps, nausea and malaise. The hallmark of this condition is *dehydration without signs of hemodynamic compromise*. The volume loss can be accompanied by hypernatremia (from sweat loss) or hyponatremia (when sweat loss is replaced with water
+*Sweat must evaporate to achieve heat dissipation; actively wiping liquid sweat from the skin eliminates cooling and accelerates hyperthermia*.
 
-intake). Mentation is usually intact.
+</div></details>
 
-The management of heat exhaustion includes volume repletion and other general supportive measures (e.g., placing the subject in an air conditioned room). Active cooling measures are not necessary.
+<details class="med-details" open><summary>
 
-## **Heat Stroke**
+### Heat Exhaustion and Heat Stroke</summary><div class="details-content">
 
-Heat stroke is a life-threatening condition characterized by extreme elevations in body temperature (≥41° C [≥106° F]), severe neurologic dysfunction (e.g., delirium, coma, and seizures), severe volume depletion with hypotension, and multiorgan involvement that includes rhabdomyolysis, acute kidney injury, disseminated intravascular coagulopathy (DIC), and marked elevation in serum transaminases, presumably from "ischemic hepatitis". The inability to produce sweat (anhidrosis) is a typical, but not universal, feature of heat stroke [\(5](#page-12-4)).
+Heat-related illnesses develop when thermal stresses overpower physiological dissipation mechanisms. Minor manifestations encompass heat edema, heat cramps, and heat rash (miliaria rubra) (4).
 
-There are two types of heat stroke: (*a*) *classic heat stroke*, which is related to environmental temperatures, and (*b*) *exertional heat stroke*, which is related to strenuous exercise. Exertional heat stroke tends to be more severe, with a higher incidence of multiorgan dysfunction.
+The two major systemic heat syndromes—*heat exhaustion* and *heat stroke*—exhibit distinct clinical and laboratory profiles, summarized in Table 43.1 (3–5).
 
-#### *Management*
+<details class="med-details" open><summary>
 
-The management of heat stroke includes volume resuscitation and active cooling measures to reduce the body temperature to 38° C (100.4° F).
+#### <span id="tbl-43-1"></span>TABLE 43.1 Comparative Features of Heat Exhaustion and Heat Stroke</summary><div class="details-content">
 
-**EXTERNAL COOLING:** External cooling in the field is best achieved by immersion in cold water or ice water. If these are not available, *evaporative cooling* is effective. This involves spraying the skin with cool water and then fanning the skin to promote evaporation. This method can reduce the body temperature at a rate of 0.3° C (0.6° F) per minute ([6\)](#page-12-5). Evaporative cooling is most effective when the weather is hot and dry (which enhances evaporation from the skin).
+| Clinical Feature | Heat Exhaustion | Heat Stroke |
+| :--- | :---: | :---: |
+| **Core Body Temperature** | $38\text{–}39^\circ\text{C}$ ($100.4\text{–}102^\circ\text{F}$) | $\ge 41^\circ\text{C}$ ($\ge 106^\circ\text{F}$) |
+| **Central Nervous System Dysfunction** | Absent (mentation intact) | Severe (delirium, seizures, coma) |
+| **Active Sweating** | Present (profuse diaphoresis) | Typically absent (anhidrosis)* |
+| **Intravascular Dehydration** | Present | Present (severe hypovolemia) |
+| **Hemodynamic Instability** | Absent | Severe (distributive shock) |
+| **Multiorgan Involvement** | Absent | Severe (AKI, rhabdomyolysis, DIC) |
 
-External cooling in the emergency department is accomplished by placing ice packs in the groin and axilla, and covering the upper thorax and neck with ice ([7\)](#page-12-6). Cooling blankets are then placed over the entire length of the body.
+*\*Anhidrosis is typical of classic heat stroke, but sweating may persist in exertional heat stroke.*  
+*Adapted from References 3, 4, and 5.*
 
-The major drawback of external cooling is the risk of shivering, which is counter-productive because it raises the body temperature.
+</div></details>
 
-**INTERNAL COOLING:** Internal cooling can be achieved with intravenous infusion of cold saline (4° C). Faster cooling has been reported with automated intravascular cooling devices [\(8](#page-12-7)) (i.e., the ones used for targeted temperature management in comatose survivors of cardiac arrest), but this approach requires central venous access, and the impact on outcomes has not been adequately studied.
+#### Clinical Syndrome of Heat Exhaustion
 
-## **Rhabdomyolysis**
+Heat exhaustion presents as a subacute flu-like illness marked by moderate hyperthermia ($38\text{–}39^\circ\text{C}$ or $100.4\text{–}102^\circ\text{F}$), profuse diaphoresis, headache, nausea, and skeletal muscle cramps.
 
-Skeletal muscle injury (rhabdomyolysis) is a common complication of hyperthermia syndromes, including heat stroke and the drug-induced hyperthermia syndromes (described later in the chapter). Disruption of myocytes in skeletal muscle leads to the release of creatine kinase (CK) into the bloodstream, and the measurement of CK levels in plasma is used to determine the presence and severity of rhabdomyolysis. There is no standard plasma CK level for the diagnosis of rhabdomyolysis, but levels that are at least five times normal have been suggested [\(9](#page-12-8)).
+The hallmark is *intravascular volume depletion without hemodynamic collapse or neurological impairment* (5). Electrolyte derangements encompass hypernatremia (from unreplaced hypotonic sweat loss) or hyponatremia (from free-water ingestion).
 
-The adverse consequence of rhabdomyolysis are muscle weakness and acute kidney injury. The latter condition is the result of renal tubular injury from the myoglobin released by disrupted myocytes ([10\)](#page-12-9). The acute kidney injury from rhabdomyolysis is described in Chapter 34, along with the management of rhabdomyolysis.
+Treatment involves passive cooling in an air-conditioned environment, oral or intravenous fluid rehydration, and rest. Active invasive cooling is unnecessary.
 
-## **DRUG-INDUCED HYPERTHERMIA SYNDROMES**
+#### Fulminant Crisis of Heat Stroke
 
-Hyperthermia can also be a drug-related disorder, and three drug-related hyperthermia syndromes are recognized:
+Heat stroke is a medical emergency defined by severe hyperthermia ($\ge 41^\circ\text{C}$ or $\ge 106^\circ\text{F}$), profound neurological dysfunction, circulatory shock, and systemic inflammatory multiorgan failure (5).
 
-- 1. Malignant Hyperthermia
-- 2. Neuroleptic Malignant Syndrome
-- 3. Serotonin Syndrome
+Two clinical forms exist: (*a*) *classic (epidemic) heat stroke*, occurring in sedentary, elderly, or debilitated individuals during prolonged ambient heat waves; and (*b*) *exertional heat stroke*, striking young, healthy athletes or military recruits performing strenuous exertion in hot or humid environments.
 
-Each of these is briefly described in this section.
+Multiorgan injury includes rhabdomyolysis, acute tubular necrosis, disseminated intravascular coagulation (DIC), and severe ischemic hepatitis ("shock liver"). Anhidrosis (cessation of sweating) is characteristic of classic heat stroke, but persistent sweating is observed in up to 50% of exertional cases (5).
 
-## **Malignant Hyperthermia**
+#### Emergency Cooling Modalities
 
-The relevant features of malignant hyperthermia (MH) are summarized in [Table](#page-3-0) 43.2. This condition is a rare inherited disorder with an autosomal dominant pattern that affects about 1 in 50,000 adults [\(11](#page-12-10)). It is characterized by excessive release of calcium from the sarcoplasmic reticulum in skeletal muscle in response to halogenated inhalational anesthetic agents (e.g., halothane, isoflurane) and depolarizing neuromuscular blockers (e.g., succinylcholine) [\(11](#page-12-10)).
+Treatment requires immediate aggressive physical cooling combined with intravascular volume expansion, aiming for a rapid reduction in core temperature to $38^\circ\text{C}$ ($100.4^\circ\text{F}$):
 
-## <span id="page-3-0"></span>**TABLE 43.2 Malignant Hyperthermia**
+- 1. *External Evaporative and Conductive Cooling:* Cold-water or ice-water immersion is the most rapid field method. In hospital, continuous misting with tepid water combined with high-flow fans achieves an evaporative cooling rate of $0.3^\circ\text{C/min}$ ($0.6^\circ\text{F/min}$) (6). Ice packs placed over large vessel beds (axillae, groin, neck) and forced-air cooling blankets provide essential adjunctive cooling (7).
+- 2. *Shivering Suppression:* Shivering is counterproductive because muscular tremor can double metabolic heat production. Intravenous benzodiazepines (e.g., lorazepam or diazepam) should be administered to suppress shivering.
+- 3. *Internal Cooling:* Rapid intravenous infusion of ice-cold ($4^\circ\text{C}$) $0.9\%$ saline provides immediate internal cooling (8). Closed-loop endovascular heat-exchange catheters achieve precise temperature control.
 
-#### *Predisposing Conditions:*
+##### Rhabdomyolysis in Heat Syndromes
 
-A susceptible patient who has received:
+Rhabdomyolysis is a frequent complication of exertional heat stroke and drug-induced hyperthermias, triggered by thermal myocyte necrosis and intracellular calcium overload.
 
-- 1. A halogenated volatile anesthetic agent (e.g., halothane) or
-- 2. A depolarizing neuromuscular blocker (e.g., succinylcholine)
+Massive release of myoglobin and creatine kinase (CK) into circulation causes dark red-brown urine and acute kidney injury from renal vasoconstriction and tubular obstruction (9,10). While no absolute CK diagnostic cutoff exists, plasma CK concentrations exceeding five times ($> 5\times$) the upper limit of normal confirm the diagnosis (9). Treatment relies on aggressive crystalloid volume expansion (see Chapter 34).
 
-#### *Clinical Presentation:*
+</div></details>
+</div></details>
 
-- 1. Muscle rigidity
-- 2. Increase in temp to ≥40° C
-- 3. Altered mentation
-- 4. Autonomic instability
+<details class="med-details" open><summary>
 
-#### *Management:*†
+## Drug-Induced Hyperthermia Syndromes</summary><div class="details-content">
 
-- 1. Dantrolene:
-  - a. 1–2 mg/kg as a rapid IV bolus, and repeat every few minutes until symptoms resolve or the cumulative dose reaches 10 mg/kg.
-  - b. Follow with oral or IV doses of 1–2 mg/kg every 6 hours for at least 24 hrs (to prevent recurrence).
-- 2. Aggressive fluid infusion may be necessary for autonomic instability or rhabdomyolysis.
+Drug-induced hyperthermias represent acute, potentially lethal toxidromes resulting from dysregulated neurotransmitter or receptor signaling. Three distinct syndromes are recognized: Malignant Hyperthermia, Neuroleptic Malignant Syndrome, and Serotonin Syndrome.
 
-<sup>†</sup>Advice for acute management is available on the Malignant Hyperthermia Hotline: 1-800-644-9737. Dantrolene dosing regimen from Reference 13.
+<details class="med-details" open><summary>
 
-### *Clinical Manifestations*
+### Malignant Hyperthermia</summary><div class="details-content">
 
-The first sign of MH may be a sudden and unexpected rise in end-tidal PCO<sup>2</sup> ([11,](#page-12-10)[12\)](#page-12-11), which is a reflection of the increased metabolic rate caused by calcium-induced uncoupling of oxidative phosphorylation. This is followed (within minutes to a few hours) by muscle rigidity, which can begin in the masseter muscle before it becomes generalized. The heat generated by the combination of the hypermetabolism and muscle rigidity results in a marked rise in body temperature (often >40° C or 104° F), which generally occurs later in the presentation [\(12](#page-12-11)).
+Malignant hyperthermia (MH) is a rare, life-threatening pharmacogenetic disorder of skeletal muscle calcium regulation inherited in an autosomal dominant pattern with variable penetrance (11). It affects approximately 1 in 50,000 surgical patients receiving volatile anesthetics or depolarizing muscle relaxants (11).
 
-Neurologic dysfunction is commonplace in MH, with altered mentation (e.g., confusion, delirium, coma) and autonomic instability (e.g., fluctuating blood pressure, tachycardia). Rhabdomyolysis is also common, and can be accompanied by acute kidney injury from myoglobinuria.
+Pathophysiology involves genetic mutations in the skeletal muscle ryanodine receptor gene (*RYR1*) or dihydropyridine receptor gene (*CACNA1S*). Exposure to triggering agents provokes uncontrolled, sustained calcium release from the sarcoplasmic reticulum into the myoplasm.
 
-#### *Management*
+Sustained myoplasmic calcium stimulates continuous actin-myosin cross-bridging, accelerating cellular metabolism, consuming ATP and oxygen, generating massive heat, and precipitating widespread rhabdomyolysis.
 
-The first suspicion of MH should prompt immediate discontinuation of the offending anesthetic agent.
+<details class="med-details" open><summary>
 
-**DANTROLENE:** Specific treatment for the muscle rigidity is available with *dantrolene* sodium, a muscle relaxant that blocks the release of calcium from the sarcoplasmic reticulum. When given early in the course of MH, dantrolene can reduce the mortality rate from ≥70% (in untreated cases) to ≤10% [\(11](#page-12-10)[,12](#page-12-11)). The dosing regimen for dantrolene is shown in [Table](#page-3-0) 43.2 ([13\)](#page-12-12).
+#### <span id="tbl-43-2"></span>TABLE 43.2 Malignant Hyperthermia</summary><div class="details-content">
 
-The most common side effect of dantrolene is muscle weakness, particularly grip strength, which usually resolves in 2 to 4 days after the drug is discontinued [\(13](#page-12-12)). The most troublesome side effect is hepatocellular injury, which is a risk with oral dantrolene, but requires months of treatment [\(13](#page-12-12)).
+| Diagnostic / Therapeutic Domain | Clinical Features and Emergency Protocol |
+| :--- | :--- |
+| **Triggering Agents** | • Halogenated volatile inhalational anesthetics (e.g., halothane, isoflurane, sevoflurane, desflurane).<br>• Depolarizing neuromuscular blocking agents (succinylcholine). |
+| **Clinical Presentation** | • Unexplained rapid rise in end-tidal $\text{PCO}_2$ (earliest sign).<br>• Severe generalized muscle rigidity (frequently beginning with masseter spasm).<br>• Extreme hyperthermia (temperature often $> 40^\circ\text{C}$ or $> 104^\circ\text{F}$).<br>• Autonomic instability (sinus tachycardia, labile blood pressure, cardiac arrhythmias). |
+| **Emergency Management** | • **Immediate Cessation:** Discontinue volatile agents and succinylcholine; hyperventilate with $100\%\ \text{O}_2$.<br>• **Dantrolene Sodium:** Administer $1\text{–}2\text{ mg/kg}$ rapid IV bolus; repeat every few minutes until rigidity abates (cumulative dose up to $10\text{ mg/kg}$).<br>• **Maintenance Therapy:** Follow with $1\text{–}2\text{ mg/kg}$ IV or oral every 6 hours for $\ge 24\text{ hours}$.<br>• **Supportive Care:** Warmed volume resuscitation for rhabdomyolysis and hyperkalemia. |
 
-**OTHER CONCERNS:** Aggressive fluid infusion may be necessary for autonomic instability or rhabdomyolysis. If rhabdomyolysis develops, vigilance for hyperkalemia and acute kidney injury is necessary. Control of the rigidity should reduce the body temperature, and active cooling measures are usually not necessary.
+*MHAUS Emergency Hotline: 1-800-644-9737. Dosing protocol adapted from References 11, 12, and 13.*
 
-*Note:* There is a Malignant Hyperthermia Hotline (1-800-644-9737) that provides advice for the acute management of MH.
+</div></details>
 
-## *Followup*
+#### Clinical Evolution and Emergency Dantrolene
 
-All patients who survive an episode of MH should be given a medical bracelet that identifies their susceptibility to MH. In addition, because MH is a genetic disorder with an autosomal dominant inheritance pattern, immediate family members should be informed of their possible susceptibility to MH. (For testing options, see the website for the Malignant Hyperthermia Association of the United States – [mhaus.org.](http://mhaus.org))
+The earliest clinical indicator of MH is an abrupt, unexplained surge in end-tidal carbon dioxide ($\text{ETCO}_2$) refractory to increased mechanical minute ventilation (11,12). This hypercapnia reflects intense cellular hypermetabolism.
 
-## **Neuroleptic Malignant Syndrome**
+Within minutes, masseter muscle rigidity ("jaws of steel") or generalized skeletal rigidity develops, accompanied by tachypnea, cyanosis, and cardiac arrhythmias. Extreme hyperthermia ($\ge 40^\circ\text{C}$ or $\ge 104^\circ\text{F}$) is a classic finding that typically manifests later as heat generation outstrips vascular dissipation (12).
 
-The neuroleptic malignant syndrome (NMS) is similar to MH in that it is a drug-induced disorder characterized by hyperthermia, muscle rigidity, and altered mentation [\(14](#page-12-13)[,15](#page-12-14)).
+Immediate treatment requires halting the offending anesthetic and administering *dantrolene sodium*, a hydantoin derivative that binds the ryanodine receptor and halts sarcoplasmic calcium release. Early dantrolene administration slashes MH mortality from $> 70\%$ to $< 10\%$ (11,12). The dosing regimen is detailed in Table 43.2 (13).
 
-## *Pathogenesis*
+##### Post-Crisis Care and Genetic Counseling
 
-NMS is the result of a decrease in dopamine-mediated transmission in the basal ganglia and hypothalamic-pituitary axis [\(14](#page-12-13)). As indicated in [Table](#page-5-0) 43.3, NMS can be caused by drugs that inhibit dopaminergic transmission (most cases), or it can be triggered by discontinuing drugs that *facilitate* dopaminergic transmission. The drug most frequently implicated in NMS is *haloperidol* ([14\)](#page-12-13).
+Following recovery, patients must be fitted with medical alert identification, and first-degree relatives should be referred for genetic testing and in vitro contracture testing (IVCT) through the Malignant Hyperthermia Association of the United States (mhaus.org).
 
-<span id="page-5-0"></span>
+</div></details>
 
-| TABLE<br>43.3                                                            | Drugs<br>Associated<br>with<br>Neuroleptic<br>Malignant<br>Syndrome                                                                                                                                   |  |
-|--------------------------------------------------------------------------|-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|--|
-| Drugs that Inhibit Dopaminergic Transmission                             |                                                                                                                                                                                                       |  |
-| Antipsychotic agents:<br>Antiemetic agents:<br>CNS stimulants:<br>Other: | Butyrophenones (e.g., haloperidol), phenothiazines, clozapine, olanzapine, respiradone<br>Metoclopramide, droperidol, prochlorperazine<br>Amphetamines, cocaine<br>Lithium, tricyclic antidepressants |  |
-| Drugs that Facilitate Dopaminergic Transmission†                         |                                                                                                                                                                                                       |  |
-| Dopaminergic drugs:                                                      | Amantidine, bromocriptine, levodopa                                                                                                                                                                   |  |
+<details class="med-details" open><summary>
 
-<sup>†</sup>Discontinuing these drugs can trigger the neuroleptic malignant syndrome.
+### Neuroleptic Malignant Syndrome</summary><div class="details-content">
 
-Despite the association with certain drugs, NMS appears in fewer than 1% of patients treated with high-risk drugs [\(15](#page-12-14)), and there is no relationship between drug doses and the appearance of NMS ([14\)](#page-12-13). It is thus an idiosyncratic reaction, rather than a dose-dependent toxic reaction.
+Neuroleptic malignant syndrome (NMS) is an idiosyncratic, life-threatening neurological toxidrome triggered by pharmacologic disruption of central dopaminergic pathways (14,15).
 
-#### *Clinical Features*
+NMS results from severe blockade of dopamine $D_2$ receptors in the corpus striatum (inducing rigidity) and the hypothalamic thermoregulatory center (inducing hyperthermia and autonomic instability) (14).
 
-Most cases of NMS begin to appear 24 to 72 hours after the initiation of drug therapy, and almost all cases are apparent in the first 2 weeks of drug therapy. The onset is usually gradual, and the initial manifestations are muscle rigidity and agitation or confusion [\(14](#page-12-13)). The increase in body temperature can be delayed for 8 to 10 hours after the onset of muscle rigidity ([16\)](#page-12-15). Autonomic hyperreactivity is also common, and can produce tachycardia and diaphoresis ([15\)](#page-12-14). Severe cases are characterized by *lead-pipe rigidity*, rhabdomyolysis, and depressed consciousness.
+Table 43.3 outlines the medications associated with NMS, encompassing high-potency first-generation antipsychotics, second-generation atypicals, antiemetics, and the abrupt discontinuation of dopaminergic agonists in Parkinson's disease.
 
-Dystonic reactions, which are common complications of neuroleptic agents, can be difficult to distinguish from NMS, especially in the early stage of NMS, when muscle rigidity may be the only manifestation. The plasma level of creatine kinase (CK) can help in this regard, because plasma CK levels are only mildly elevated in dystonic reactions, but are typically higher than 1,000 Units/L in NMS ([17\)](#page-12-16).
+<details class="med-details" open><summary>
 
-#### *Management*
+#### <span id="tbl-43-3"></span>TABLE 43.3 Drugs Associated with Neuroleptic Malignant Syndrome</summary><div class="details-content">
 
-The single most important therapeutic measure is *immediate* removal of the offending drug. If NMS is caused by discontinuation of dopaminergic drugs, the drug should be restarted immediately, with gradual reduction of the drug dosage at a later time. General measures for NMS can include the following [\(15](#page-12-14)):
+| Pharmacological Class | Implicated Therapeutic Agents |
+| :--- | :--- |
+| **Dopamine Receptor Antagonists** | • **Antipsychotics:** Haloperidol, fluphenazine, chlorpromazine, clozapine, olanzapine, risperidone.<br>• **Antiemetics / Prokinetics:** Metoclopramide, droperidol, prochlorperazine, promethazine.<br>• **Other Agents:** Lithium, tricyclic antidepressants, amphetamines, cocaine. |
+| **Dopamine Agonist Withdrawal\*** | • **Parkinsonian Drugs:** Levodopa/carbidopa, amantadine, bromocriptine, pramipexole. |
 
-- 1. Aggressive fluid infusion may be necessary for patients with rhabdomyolysis or hypotension.
-- 2. External cooling may be needed to reduce the body temperature, but control of the muscle
+*\*Abrupt cessation of dopaminergic agonists triggers acute central dopamine depletion, precipitating NMS.*  
+*Adapted from References 14 and 15.*
 
-rigidity usually corrects the problem [\(15](#page-12-14)).
+</div></details>
 
-- 3. Prophylaxis for venous thromboembolism is mandatory, because there is an increased risk of deep vein thrombosis in NMS ([14\)](#page-12-13).
-- 4. Benzodiazepines are often used in patients who are agitated [\(15](#page-12-14)[,17](#page-12-16)).
+#### Clinical Presentation and Course
 
-Management of the muscle rigidity is possible with the following drugs:
+NMS develops in $< 1\%$ of patients receiving neuroleptic therapy, representing an unpredictable idiosyncratic event unlinked to drug dosage or serum levels (14,15). Symptoms typically evolve gradually over 24 to 72 hours, usually within the first 2 weeks of starting or escalating therapy.
 
-**BROMOCRIPTINE:** Bromocriptine mesylate is a dopamine agonist that has been successful in treating NMS when given orally in a dose of 10 mg three times daily ([15\)](#page-12-14). Some improvement in muscle rigidity can be seen within hours after the start of therapy, but the *full response often takes days to develop* [\(18](#page-12-17)). Hypotension and hallucinations are troublesome side effects [\(15](#page-12-14)).
+Cardinal manifestations include generalized "lead-pipe" muscle rigidity, altered mental status (encephalopathy, catatonia, stupor), hyperthermia (often delayed 8 to 10 hours after rigidity onset) (16), and severe autonomic instability (tachycardia, diaphoresis, labile blood pressure).
 
-**DANTROLENE:** Dantrolene (the same muscle relaxant used in the treatment of MH) can be used for severe cases of NMS (when a more rapid response is desirable), although the success in clinical trials has been inconsistent ([15\)](#page-12-14). The optimal dosing regimen is not clearly defined, but one suggested regimen is as follows ([15\)](#page-12-14):
+Severe rhabdomyolysis is characteristic; marked elevation in plasma creatine kinase ($> 1{,}000\text{ U/L}$) distinguishes NMS from acute dystonic extrapyramidal reactions (17).
 
-- 1. Start with IV dantrolene in a bolus dose of 1 mg/kg every 8 hours, until symptoms resolve, or the cumulative dose reaches 10 mg/kg.
-- 2. Follow the initial regimen with oral dantrolene in a daily dose of 50–200 mg given in 3–4 divided doses.
+#### Management Protocol for NMS
 
-Treatment of NMS should continue for about 10 days after clinical resolution because of delayed clearance of many neuroleptics. When depot preparations are implicated, therapy should continue for 2 to 3 weeks after clinical resolution ([14\)](#page-12-13).
+Management begins with the immediate discontinuation of all neuroleptic agents (or re-institution of abruptly withdrawn dopamine agonists) (15):
 
-## **Serotonin Syndrome**
+- 1. *Supportive Resuscitation:* Aggressive crystalloid hydration to treat rhabdomyolysis, active cooling, venous thromboembolism prophylaxis (high risk due to immobility and dehydration), and IV benzodiazepines for agitation (14,17).
+- 2. *Bromocriptine Mesylate:* A centrally acting dopamine $D_2$ agonist administered at $10\text{ mg}$ orally/NG three times daily, reversing striatal hypodopaminergic tone over several days (15,18).
+- 3. *Dantrolene Sodium:* Employed in severe refractory hyperthermia and rigidity at $1\text{ mg/kg}$ IV every 8 hours (cumulative max $10\text{ mg/kg}$), followed by oral dantrolene ($50\text{–}200\text{ mg/day}$) (15).
+- 4. *Duration of Care:* Supportive therapy must continue for at least 10 days post-resolution, extending to 2 to 3 weeks if long-acting depot neuroleptics were involved (14).
 
-Overstimulation of serotonin receptors in the central nervous systems produces a variety of neurologic abnormalities that make up what is known as the *serotonin syndrome* ([19\)](#page-12-18). This syndrome has received much more attention in recent years, thanks to the popularity of serotonin reuptake inhibitors (SSRIs) for the treatment of depression.
+</div></details>
 
-<span id="page-6-0"></span>
+<details class="med-details" open><summary>
 
-| TABLE<br>43.4                 | Drugs<br>that<br>can<br>Produce<br>the<br>Serotonin<br>Syndrome |  |
-|-------------------------------|-----------------------------------------------------------------|--|
-| Mechanism                     | Drugs†                                                          |  |
-| Increased serotonin synthesis | L-tryptophan                                                    |  |
-| Decreased serotonin breakdown | MAO inhibitors (including linezolid), ritonavir                 |  |
-| Increased serotonin release   | Amphetamines, MDMA (ecstasy), cocaine                           |  |
-| Decreased serotonin reuptake  | SSRIs, TCAs, dextromethorphan, meperidine, fentanyl, tramadol   |  |
-| Serotonin receptor agonists   | Lithium, sumitriptan, buspirone, LSD                            |  |
+### Serotonin Syndrome</summary><div class="details-content">
 
-†See Reference 19 for a comprehensive list of drugs. Abbreviations: MAO = monoamine oxidase, MDMA = methylene dioxy-methamphetamine, SSRIs = selective serotonin reuptake inhibitors, TCAs = tricyclic
+Serotonin syndrome (SS) is a potentially fatal toxidrome resulting from excessive agonism of central and peripheral serotonin receptors (particularly $5\text{-HT}_{1\text{A}}$ and $5\text{-HT}_{2\text{A}}$) (19).
 
-antidepressants.
+Its incidence has surged following the widespread clinical prescribing of selective serotonin reuptake inhibitors (SSRIs) and serotonin-norepinephrine reuptake inhibitors (SNRIs).
 
-#### *Pathogenesis*
+A broad array of prescription, over-the-counter, and illicit substances can provoke SS, especially when multiple serotonergic agents with synergistic mechanisms are co-administered, as summarized in Table 43.4 (19,20).
 
-Serotonin is a neurotransmitter that participates in sleep-wakefulness cycles, mood, and thermoregulation. A variety of drugs can enhance serotonin neurotransmission and thereby promote the serotonin syndrome, and a list of these drugs is shown in [Table](#page-6-0) 43.4. Many of these drugs are mood enhancers, including illegal substances like "ecstasy", an amphetamine derivative implicated in life-threatening cases of SS ([20\)](#page-12-19). Note also that fentanyl and linezolid (two drugs used in the care of ICU patients) are capable of causing NMS. The serotonin syndrome occurs most often when two serotonergic drugs are used together.
+<details class="med-details" open><summary>
 
-## *Clinical Manifestations*
+#### <span id="tbl-43-4"></span>TABLE 43.4 Drugs That Can Produce the Serotonin Syndrome</summary><div class="details-content">
 
-The clinical features of serotonin syndrome (SS) can be placed in three categories: motor hyperactivity, adrenergic hyperactivity, and altered mentation. This is shown in [Table](#page-7-0) 43.5, along with the frequency of clinical manifestations in each category [\(21](#page-12-20)). The following points about the clinical presentation of SS deserve mention:
+| Pharmacodynamic Mechanism | Implicated Pharmaceutical and Illicit Agents |
+| :--- | :--- |
+| **Increased Serotonin Synthesis** | L-tryptophan |
+| **Decreased Serotonin Metabolism** | MAO inhibitors (phenelzine, tranylcypromine, linezolid, methylene blue), ritonavir |
+| **Increased Serotonin Release** | Amphetamines, methamphetamine, MDMA (ecstasy), cocaine |
+| **Inhibition of Serotonin Reuptake** | SSRIs (fluoxetine, sertraline), SNRIs, TCAs, dextromethorphan, meperidine, fentanyl, tramadol |
+| **Serotonin Receptor Agonists** | Triptans (sumatriptan), buspirone, lithium, lysergic acid diethylamide (LSD) |
 
-- 1. The clinical features that are most specific for SS are hyperreflexia, myoclonus, and clonus (spontaneous or inducible) ([21,](#page-12-20)22).
-- 2. Although infrequent, *ocular clonus (spontaneous horizontal eye movements) is considered the most reliable clinical finding for the diagnosis of SS* (22).
-- 3. Mild cases of SS are often characterized by hyperreflexia, tachycardia, and agitation. Muscle rigidity appears in more severe cases, and can mask the more specific manifestations of SS (e.g., hyperreflexia).
-- 4. Although hyperthermia is considered one of the hallmarks of SS, elevated body temperatures are reported in only 60% of cases [\(21](#page-12-20)).
-- 5. Rhabdomyolysis is reported in 15% of cases of SS ([21\)](#page-12-20), and usually appears along with muscle rigidity.
+*Adapted from comprehensive toxicological reviews (References 19 and 20).*
 
-<span id="page-7-0"></span>
+</div></details>
 
-| TABLE<br>43.5<br>Clinical | Manifestations<br>of<br>the<br>Serotonin<br>Syndrome                                    |
-|---------------------------|-----------------------------------------------------------------------------------------|
-| Category                  | Manifestations                                                                          |
-| Motor Hyperactivity       |                                                                                         |
-| Adrenergic Hyperactivity  | Increased Temp (60%)<br>Tachycardia (85%)<br>Hyper/hypotension (76%)<br>Mydriasis (34%) |
+#### Clinical Manifestations and Triad
 
-| Altered Mentation | Agitation (56%) |
-|-------------------|-----------------|
-|                   | Confusion (64%) |
-|                   | Coma (11%)      |
+Serotonin syndrome manifests as a clinical triad: neuromuscular hyperactivity, autonomic hyperreactivity, and altered mental status. Table 43.5 displays the frequency of signs across these categories (21).
 
-The frequency of clinical manifestation (in parentheses) are from Reference 21. (\*) Clinical findings that are the most specific for serotonin syndrome.
+<details class="med-details" open><summary>
 
-**SS VERSUS NMS:** Many of the clinical features of SS are similar to NMS: i.e., both are characterized by muscle rigidity, altered mental status, increased body temperature, and adrenergic hyperactivity. The distinguishing features of SS are the hyperreflexia and clonus, but severe cases of SS (where muscle rigidity predominates and can mask the hyperreflexia and clonus) can be difficult to distinguish from NMS [\(15](#page-12-14)). A careful drug history is often helpful, although these two conditions share some of the causative agents.
+#### <span id="tbl-43-5"></span>TABLE 43.5 Clinical Manifestations of the Serotonin Syndrome</summary><div class="details-content">
 
-#### *Management*
+| Clinical Domain | Manifestations and Reported Frequency |
+| :--- | :--- |
+| **Neuromuscular Hyperactivity** | • **Clonus (spontaneous or inducible)\***: 84%<br>• **Hyperreflexia\***: 78%<br>• **Tremor**: 70%<br>• **Muscle Rigidity**: 62%<br>• **Ocular Clonus (spontaneous roving eye movements)\***: Pathognomonic |
+| **Autonomic Hyperreactivity** | • **Sinus Tachycardia**: 85%<br>• **Labile Blood Pressure**: 76%<br>• **Hyperthermia** ($\ge 38^\circ\text{C}$): 60%<br>• **Diaphoresis**: 54%<br>• **Mydriasis**: 34% |
+| **Altered Mental Status** | • **Agitation and Restlessness**: 56%<br>• **Confusion / Encephalopathy**: 64%<br>• **Coma**: 11% |
 
-As in other drug-induced hyperthermia syndromes, removal of the precipitating drug(s) is the single most important therapeutic measure in SS. The general supportive measures in SS are the same as described for NMS. Most cases of SS resolve within days with general supportive care. Severe cases of SS can benefit from a serotonin antagonist like cyproheptadine.
+*\*Pathognomonic neuromuscular findings distinguishing SS from other hyperthermic disorders.*  
+*Data adapted from Reference 21.*
 
-**CYPROHEPTADINE:** Cyproheptadine is a serotonin antagonist that is available for oral administration only, but tablets can be broken up and administered through a nasogastric tube. The initial dose is 12 mg, followed by 2 mg every 2 hrs for persistent symptoms, and the maintenance dose is 8 mg every 6 hours [\(15](#page-12-14)). This drug is sedating, but that can benefit the agitation in SS.
+</div></details>
 
-**PARALYSIS:** Severe rigidity and rhabdomyolysis that does not improve with conventional measures may require neuromuscular paralysis with a nondepolarizing agent (e.g., rocuronium).
+##### Diagnostic Specificity of Clonus
 
-## **HYPOTHERMIA**
+The neuromuscular signs in SS are pronounced in the lower extremities. *Hyperreflexia, inducible clonus, spontaneous clonus, and ocular clonus (rhythmic horizontal oscillations of the eyes) are the most specific diagnostic findings for SS* (21,22).
 
-Hypothermia is defined as a body temperature <35° C (<95° F), and can be either primary (i.e., the result of environmental conditions), secondary (i.e., triggered by illness or trauma), or therapeutic (i.e., targeted temperature management). The focus of this section is primary (environmental) hypothermia.
+While hyperthermia is considered a hallmark, core temperature elevation is recorded in only 60% of cases (21). Rhabdomyolysis occurs in roughly 15% of severe presentations (21).
 
-## **Pathogenesis**
+Distinguishing SS from NMS is critical: SS exhibits rapid onset (within hours), prominent hyperreflexia, and clonus, whereas NMS develops over days with lead-pipe rigidity and hyporeflexia (15).
 
-Physiologically, the human body is better equipped to survive in hot rather than cold environments. The physiological response to cold includes *cutaneous vasoconstriction* (to reduce convective heat loss) and *shivering* (which can double metabolic heat production), but these physiological responses provide protection only in the early stages of hypothermia. Instead, the behavioral responses to cold (e.g., wearing warm clothing or seeking shelter from the cold) play a major role in the adaptation to cold.
+#### Management of Serotonin Syndrome
 
-## **Predisposing Conditions**
+First-line therapy requires immediate discontinuation of all serotonergic agents, accompanied by supportive care:
 
-Environmental hypothermia is most likely to occur in the following situations:
+- 1. *Sedation and Supportive Care:* Intravenous benzodiazepines are the cornerstone of management, alleviating agitation, blunting muscular tremor, and controlling autonomic hyperactivity (15).
+- 2. *Cyproheptadine Pharmacotherapy:* In moderate-to-severe SS, the oral $5\text{-HT}_2$ antagonist *cyproheptadine* is administered via nasogastric tube at an initial dose of $12\text{ mg}$, followed by $2\text{ mg}$ every 2 hours for persistent symptoms, with maintenance at $8\text{ mg}$ every 6 hours (15).
+- 3. *Neuromuscular Paralysis:* Patients with extreme hyperthermia ($\ge 41^\circ\text{C}$) and severe muscle rigidity require immediate endotracheal intubation and neuromuscular paralysis with non-depolarizing agents (e.g., rocuronium) to halt muscular heat production. Succinylcholine is strictly contraindicated due to hyperkalemic cardiac arrest.
 
-- 1. Immersion in cold water (<15° C or <59° F) can be fatal after 30 minutes (23), because heat loss to cold water occurs much more rapidly than heat loss to cold air. This is also why exposure to cold in wet clothing predisposes to hypothermia.
-- 2. Windy conditions promote hypothermia in cold environments, because wind promotes heat loss by convection (as described earlier). This is the basis for the wind-chill index, which describes the combined effect of ambient temperature and wind speed on the temperature at the skin surface (24).
-- 3. Hpothermia is a risk when the behavioral responses to cold are impaired; e.g., by alcohol or drug intoxication.
+</div></details>
+</div></details>
 
-## **Clinical Presentation**
+<details class="med-details" open><summary>
 
-The clinical manifestations in progressive hypothermia are summarized in [Table](#page-9-0) 43.6 (23,25).
+## Accidental Hypothermia</summary><div class="details-content">
 
-<span id="page-9-0"></span>
+Accidental hypothermia is defined as an involuntary drop in core body temperature below $35^\circ\text{C}$ ($< 95^\circ\text{F}$) (23).
 
-| TABLE<br>43.6 |                          | Manifestations<br>of<br>Progressive<br>Hypothermia                                                        |
-|---------------|--------------------------|-----------------------------------------------------------------------------------------------------------|
-| Severity      | Body Temp                | Clinical Manifestations                                                                                   |
-| Mild          | 32–35° C 90–<br>95° F    | Confusion, cold and pale skin, shivering, tachycardia                                                     |
-| Moderate      | 28–31.9° C<br>82–89.9° F | Lethargy, reduced or absent shivering, bradycardia, bradypnea                                             |
-| Severe        | <28° C<br><82° F         | Obtundation or coma, no shivering, dilated and fixed pupils, bradycardia,<br>hypotension, oliguria, edema |
-| Fatal         | <24° C<br><75° F         | Apnea, asystole                                                                                           |
+It is classified as primary (resulting from environmental cold exposure) or secondary (resulting from impaired endogenous thermogenesis due to systemic illness, sepsis, or neuroendocrine failure).
 
-#### *Mild Hypothermia*
+Physiologically, humans are poorly equipped for cold environments. Natural defenses comprise cutaneous vasoconstriction (minimizing convective heat loss) and shivering thermogenesis (which can double resting metabolic rate), but shivering exhausts glycogen stores within hours. Behavioral adaptations (seeking shelter, protective clothing) represent our primary thermal survival mechanisms.
 
-Mild hypothermia is defined as a body temperature of 32–35° C (90–95° F). At this stage, patients are often confused, but they shows signs of adaptation to cold; i.e., the skin is pale and cold from cutaneous vasoconstriction, and shivering is brisk. Tachycardia also predominates at this stage, and the blood pressure can be elevated (26).
+#### Predisposing Conditions for Environmental Hypothermia
 
-## *Moderate Hypothermia*
+Hypothermia emerges rapidly in three clinical scenarios:
 
-Patients with moderate hyperthermia (i.e., 28–31.9° C or 82–89.9° F) are lethargic, and shivering may be present if the body temperature is above 30° C (23). Bradycardia and a decreased respiratory rate (bradypnea) predominate at temperatures below 32° C (26).
+- 1. *Cold-Water Immersion:* Immersion in cold water ($< 15^\circ\text{C}$ or $< 59^\circ\text{F}$) can be fatal within 30 minutes (23). Water thermal conductivity is 25 times greater than air, producing catastrophic convective heat loss. Wet clothing produces similar rapid heat loss.
+- 2. *Wind-Chill Exposure:* High wind velocities strip the warm boundary air layer from the skin, accelerating convective heat loss. The wind-chill index quantifies this combined thermal deficit (24).
+- 3. *Impaired Behavioral Defenses:* Alcohol or drug intoxication blunts thermal sensation, induces cutaneous vasodilation, impairs judgment, and accounts for a large proportion of urban hypothermia cases.
 
-### *Severe Hypothermia*
+<details class="med-details" open><summary>
 
-Patients with severe hypothermia (<28° C or <82° F) are usually obtunded or comatose, and have dilated, fixed pupils. Additional findings include hypotension, severe bradycardia, oliguria, and generalized edema.
+### Staging and Clinical Manifestations</summary><div class="details-content">
 
-Apnea and asystole are expected at body temperatures below 24° C (75° F), but *the diagnosis*
+The physiological and clinical changes across progressive stages of accidental hypothermia are categorized in Table 43.6 (23,25).
 
-*of death cannot be made in the setting of hypothermia* (25,26). The body must be warmed to a normal temperature before the pronouncement of death. (See also the brain death determination in Chapter 45).
+<details class="med-details" open><summary>
 
-## **Diagnostic Evaluation**
+#### <span id="tbl-43-6"></span>TABLE 43.6 Manifestations of Progressive Hypothermia</summary><div class="details-content">
 
-Exposure to a cold environment results in skin temperatures that are lower than interior (core) temperatures, so peripheral temperature measurements (i.e., oral, axillary, temporal artery, and tympanic temperatures) are not appropriate in hypothermic patients (27). Core temperature measurements are advised, using bladder, esophageal, or rectal probes.
+| Clinical Stage | Core Body Temperature | Characteristic Physiological and Neurological Features |
+| :--- | :--- | :--- |
+| **Mild** | $32\text{–}35^\circ\text{C}$ ($90\text{–}95^\circ\text{F}$) | • Vigorous shivering, confusion, apathy, cold and pale skin.<br>• Tachycardia, hypertension, cold-induced diuresis. |
+| **Moderate** | $28\text{–}31.9^\circ\text{C}$ ($82\text{–}89.9^\circ\text{F}$) | • Lethargy, slurred speech, hypoventilation (bradypnea).<br>• Shivering ceases at $< 30^\circ\text{C}$; progressive bradycardia, cardiac dysrhythmias. |
+| **Severe** | $< 28^\circ\text{C}$ ($< 82^\circ\text{F}$) | • Stupor or coma, fixed dilated pupils, areflexia, generalized edema.<br>• Severe hypotension, oliguria, high risk of ventricular fibrillation and asystole. |
+| **Apparent Death** | $< 24^\circ\text{C}$ ($< 75^\circ\text{F}$) | • Unresponsive, apnea, pulseless asystole, profound rigidity.<br>• Reversible state: *"Not dead until warm and dead."* |
 
-#### *Laboratory Evaluation*
+*Adapted from Swiss staging system and critical care reviews (References 23, 25, and 26).*
 
-The following points deserve mention concerning the laboratory evaluation of hypothermic patients:
+</div></details>
 
-- 1. Arterial blood gas measurements (which are performed at 37° C) should be adjusted to the patient's body temperature (26). In moderate-to-severe hypothermia, expect a combined respiratory and metabolic acidosis.
-- 2. Serum electrolytes can reveal hyperkalemia, from potassium release by skeletal muscle, as a result of shivering and/or rhabdomyolysis.
-- 3. Serum creatinine levels can be elevated as a result of rhabdomyolysis, acute renal failure, or *cold diuresis* (caused by diminished renal tubular responsiveness to antidiuretic hormone).
-- 4. A generalized coagulopathy (i.e., thrombocytopenia, and prolongation of the prothrombin time and partial thromboplastin times) is common at temperatures below 34° C (93° F) (26), but may not be evident if the coagulation profile is run at normal body temperatures (28).
+#### Progressive Systemic Deterioration
 
-## *Electrocardiogram*
+In *mild hypothermia* ($32\text{–}35^\circ\text{C}$), the patient is tachypneic and hypertensive, with brisk shivering and cold diuresis (26).
 
-The electrocardiogram in hypothermia can show positive J (Osborn) waves at the junction between the QRS complex and the ST segment (see [Figure](#page-11-0) 43.1), especially in leads II and V6 (26). These *Osborn waves* are not specific for hypothermia, and can occur with hypercalcemia, subarachnoid hemorrhage, cerebral injuries, and myocardial ischemia (29). Despite the attention these waves have received, they are merely a curiosity, and have little or no diagnostic or prognostic value in hypothermia.
+In *moderate hypothermia* ($28\text{–}31.9^\circ\text{C}$), cellular enzymatic activity slows. Shivering completely ceases below $30^\circ\text{C}$, extinguishing internal heat production (23). Progressive bradycardia and bradypnea develop below $32^\circ\text{C}$ (26).
 
-<span id="page-11-0"></span>![](_page_11_Figure_0.jpeg)
+##### Severe Hypothermia and Apparent Death
+
+In *severe hypothermia* ($< 28^\circ\text{C}$), patients become comatose with unreactive dilated pupils, mimicking clinical brain death. Bradycardia is refractory to atropine, and the myocardium becomes exquisitely irritable.
+
+Below $24^\circ\text{C}$ ($< 75^\circ\text{F}$), apnea and asystole supervene. *A diagnosis of death cannot be pronounced in the setting of severe hypothermia* (25,26). The patient must be rewarmed to at least $32\text{–}35^\circ\text{C}$ before pronouncing death or confirming non-survivability.
+
+</div></details>
+
+<details class="med-details" open><summary>
+
+### Diagnostic Evaluation and Electrocardiography</summary><div class="details-content">
+
+Peripheral thermometry (oral, axillary, temporal, tympanic) is grossly inaccurate in hypothermia due to peripheral vasoconstriction (27). Core temperature monitoring with a low-reading esophageal, bladder, or rectal probe is mandatory.
+
+Laboratory investigations require specific interpretations:
+
+- 1. *Arterial Blood Gases:* Standard blood gas analyzers warm blood to $37^\circ\text{C}$. In moderate-to-severe hypothermia, results must be interpreted using temperature-corrected algorithms, which reveal a mixed metabolic and respiratory acidosis (26).
+- 2. *Electrolytes and Renal Indices:* Hyperkalemia emerges from muscular potassium release during shivering and rhabdomyolysis. Serum creatinine rises from acute tubular necrosis or cold diuresis (induced by blunted renal tubular responsiveness to antidiuretic hormone).
+- 3. *Hypothermic Coagulopathy:* Temperatures $< 34^\circ\text{C}$ ($< 93^\circ\text{F}$) inhibit coagulation factor enzymes and platelet activation (26). Routine coagulation profiles run at $37^\circ\text{C}$ in the laboratory will falsely appear normal, obscuring severe clinical coagulopathy (28).
+
+#### Electrocardiographic Changes and Arrhythmias
+
+The pathognomonic electrocardiographic manifestation of hypothermia is the *Osborn (J) wave*, depicted in Figure 43.1. The Osborn wave appears as a positive deflection at the junction of the QRS complex and the ST segment, most prominent in leads II and $\text{V}_6$ (26).
+
+<span id="fig-43-1"></span>
+![FIGURE 43.1](images/_page_11_Figure_0.jpeg)
 
 **FIGURE 43.1** The (overhyped) Osborn wave.
 
-**ARRHYTHMIAS:** The threshold for atrial and ventricular arrhythmias is reduced at temperatures below 32° C (90° F), and there is also a progressive bradycardia at temperatures <32° C that is resistant to atropine. Finally, there is a risk of ventricular fibrillation and asystole at temperatures below 28° C (82.4° F) (26).
+##### Arrhythmogenesis and Clinical Significance
 
-## **Rewarming**
+Despite the historical fascination with Osborn waves, they are merely an electrophysiological curiosity with zero predictive value regarding rhythm stability or mortality (29). Identical waves occur in hypercalcemia, subarachnoid hemorrhage, and myocardial ischemia.
 
-There are several approaches to rewarming, depending on the severity of the hypothermia.
+The true danger in hypothermia is ventricular irritability. The threshold for atrial and ventricular dysrhythmias drops precipitously below $32^\circ\text{C}$ ($< 90^\circ\text{F}$), while ventricular fibrillation and asystole occur readily below $28^\circ\text{C}$ ($< 82.4^\circ\text{F}$) (26). Physical rough handling or aggressive endotracheal suctioning can trigger refractory ventricular fibrillation.
 
-## *External Rewarming*
+</div></details>
 
-External rewarming is adequate for most cases of hypothermia Passive rewarming (e.g., removing wet clothes, covering the patient in blankets) prevents heat loss, and allows the patient's body to rewarm physiologically. Active warming (e.g., with heating pads or automated warming systems) prevents heat loss and accelerates warming.
+<details class="med-details" open><summary>
 
-#### *Internal Rewarming*
+### Rewarming Strategies and Resuscitation</summary><div class="details-content">
 
-Internal rewarming is generally reserved for severe cases of hypothermia where active external warming is ineffective. The following are some relevant points about internal rewarming:
+Rewarming methodology is matched to the depth of hypothermia and hemodynamic stability:
 
-- 1. For intubated patients, heating the inhaled gases to 40–45° C (104–113° F) can raise the core temperature 2.5° C per hour (28).
-- 2. Heated IV fluids prevent further cooling, but they do not promote rewarming (23).
-- 3. Internal rewarming methods that are not recommended include gastric lavage with heated fluid (risk of aspiration), and warmed bladder lavage (ineffective) (23).
-- 4. For hypothermic cardiac arrest, venoarterial ECMO has been used successfully (30).
+- 1. *Passive External Rewarming:* Indicated for mild hypothermia. Wet clothing is removed, and the patient is wrapped in insulating blankets in a warm room ($> 21^\circ\text{C}$), allowing endogenous thermogenesis to rewarm the body at $0.5\text{–}2.0^\circ\text{C/hr}$.
+- 2. *Active External Rewarming:* Indicated for moderate hypothermia. Forced-air warming blankets (e.g., Bair Hugger) and circulating warm-water garments are applied to the trunk. Warming the trunk before the extremities prevents "core temperature afterdrop" (the return of cold, acidotic blood from the limbs to the heart).
+- 3. *Active Internal (Core) Rewarming:* Indicated for severe hypothermia or cardiac instability. Includes heated, humidified inhalation gases ($40\text{–}45^\circ\text{C}$), which can raise core temperature by $2.5^\circ\text{C/hr}$ (28), and intravenous crystalloids warmed to $40\text{–}42^\circ\text{C}$ (23). Gastric and bladder irrigation are ineffective and not recommended.
+- 4. *Extracorporeal Life Support:* For hypothermic cardiac arrest or refractory shock, venoarterial extracorporeal membrane oxygenation (VA-ECMO) or cardiopulmonary bypass (CPB) is the definitive modality, achieving rewarming rates of $6\text{–}9^\circ\text{C/hr}$ with full circulatory support (30).
 
-#### *Volume Resuscitation*
+#### Rewarming Collapse and Volume Management
 
-Patients with moderate-to-severe hypothermia are often volume depleted (from cold diuresis), and the vasodilation that accompanies rewarming promotes hypotension. Therefore, attention to fluid infusion is needed during the rewarming process. However, the infusion of fluids at room temperature (21° C or 70° F) promotes further cooling, so the infused fluids should be heated.
+As the peripheral vasculature rewarms and dilates, dramatic hypovolemia emerges from the combination of cold-induced diuresis and sudden vascular bed expansion.
 
-Patients who are refractory to volume infusion should be considered for venoarterial ECMO, if available.
+This "rewarming collapse" triggers precipitous arterial hypotension. Preemptive volume resuscitation with warmed balanced crystalloids ($40\text{–}42^\circ\text{C}$) is mandatory throughout the rewarming process (23).
 
-## **A FINAL WORD**
+</div></details>
+</div></details>
 
-## **The Adaptable Human**
+<details class="med-details" open><summary>
 
-One of the notable features of heat-related illness and accidental hypothermia is the relatively low number of fatalities. For example, there were an average of 702 deaths yearly in the United States from heat-related illness over the years from 2004 to 2018 (31), compared to 695,000 deaths yearly from heart disease (32), and a 10-year survey in New York City (from 2009 to 2019) showed only 139 deaths from hypothermia, with an annualized death rate of 1.7 per million (33). These relatively small numbers are a testament to the ability of humans to adapt (both physiologically and behaviorally) to environmental extremes.
+## A Final Word: The Adaptable Human</summary><div class="details-content">
 
-## *References*
+<details class="med-details" open><summary>
 
-- <span id="page-12-0"></span>1. Keel CA, Neil E, Joels N. Regulation of body temperature in man. In: *Samson Wright's Applied Physiology,* 13th ed. New York: Oxford University Press, 1982:346.
-- <span id="page-12-1"></span>2. Guyton AC, Hall JE. Body temperature, temperature regulation, and fever. In: *Medical Physiology,* 10th ed. Philadelphia, WB Saunders, 2000:822–833.
+### Human Adaptation to Thermal Extremes</summary><div class="details-content">
 
-#### *Heat-Related Illness*
+One of the most remarkable epidemiological features of heat-related illness and accidental hypothermia is the surprisingly low number of annual fatalities relative to the ubiquity of environmental thermal exposure.
 
-- <span id="page-12-2"></span>3. Khosla R, Guntupalli KK. Heat-related illnesses. Crit Care Clin 1999; 15:251–263.
-- <span id="page-12-3"></span>4. Gauer R, Meyers BK. Heat-related illnesses. Am Fam Physician 2019; 99:482–489.
-- <span id="page-12-4"></span>5. Lugo-Amador NM, Rothenhaus T, Moyer P. Heat-related illness. Emerg Med Clin N Am 2004; 22:315–327.
-- <span id="page-12-5"></span>6. Hadad E, Rav-Acha M, Heled Y, et al. Heat stroke: a review of cooling methods. Sports Med 2004; 34:501–511.
-- <span id="page-12-6"></span>7. Glazer JL. Management of heat stroke and heat exhaustion. Am Fam Physician 2005; 71:2133–2142.
-- <span id="page-12-7"></span>8. Yokobori S, Koido Y, Shishido H, et al. Feasibility and safety of intravascular temperature management for severe heat stroke: A prospective multicenter trial. Crit Care Med 2018; 46:e670–e676.
-- <span id="page-12-8"></span>9. Zimmerman JL, Shen MC. Rhabdomyolysis. Chest 2013; 144:1058–1065.
-- <span id="page-12-9"></span>10. Petejova N, Martinek A. Acute kidney injury due to rhabdomyolysis and renal replacement therapy: a critical review. Crit Care 2014; 18:224.
+In the United States, an average of 702 deaths annually were attributed to heat-related illness between 2004 and 2018 (31), a figure eclipsed by the 695,000 annual fatalities from cardiovascular disease (32). Similarly, a 10-year surveillance study in New York City (2009 to 2019) documented only 139 hypothermia deaths, yielding an annualized mortality rate of merely 1.7 per million residents (33).
 
-#### <span id="page-12-10"></span>*Malignant Hyperthermia*
+These modest mortality figures provide compelling scientific testimony to the extraordinary capacity of the human organism to adapt—both through neuroendocrine physiological mechanisms and behavioral ingenuity—to environmental thermal extremes.
 
-- 11. Rusyniakn DE, Sprague JE. Toxin-induced hyperthermic syndromes. Med Clin N Am 2005; 89:1277–1296.
-- <span id="page-12-11"></span>12. Litman RS, Rosenberg H. Malignant hyperthermia. J Am Med Assoc 2005; 293:2918–2924.
-- <span id="page-12-12"></span>13. Dantrolene monograph. In: *Drug Information Handbook*. 24th ed. Hudson, OH: Lexi-Comp Inc, 2015:537–539.
-
-#### <span id="page-12-13"></span>*Neuroleptic Malignant Syndrome*
-
-- 14. Bhanushali NJ, Tuite PJ. The evaluation and management of patients with neuroleptic malignant syndrome. Neurol Clin N Am 2004; 22:389–411.
-- <span id="page-12-14"></span>15. Tormoehlen LM, Rusyniak DE. Neuroleptic malignant syndrome and serotonin syndrome. Handb Clin Neurol 2018; 157:663–675.
-- <span id="page-12-15"></span>16. Lev R, Clark RF. Neuroleptic malignant syndrome presenting without fever: case report and review of the literature. J Emerg Med 1996; 12:49–55.
-- <span id="page-12-16"></span>17. Khaldarov V. Benzodiazepines for treatment of neuroleptic malignant syndrome. Hosp Physician, 2003 (Sept):51–55.
-- <span id="page-12-17"></span>18. Guze BH, Baxter LR. Neuroleptic malignant syndrome. N Engl J Med 1985; 313:163–166.
-
-#### <span id="page-12-18"></span>*Serotonin Syndrome*
-
-- 19. Boyer EH, Shannon M. The serotonin syndrome. N Engl J Med 2005; 352:1112–1120.
-- <span id="page-12-19"></span>20. Demirkiran M, Jankivic J, Dean JM. Ecstasy intoxication: an overlap between serotonin syndrome and neuroleptic malignant syndrome. Clin Neuropharmacol 1996; 19:157–164.
-- <span id="page-12-20"></span>21. Werneke U, Jamshidi F, Taylor DM, et al. Conundrums in neurology: diagnosing serotonin syndrome—a meta-analysis of
+</div></details>
+</div></details>

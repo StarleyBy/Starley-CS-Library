@@ -69,7 +69,7 @@
 
 ### Durable LVAD Exchange
 * **Indications:** Thrombosis, driveline electrical fault, infection. ENDURANCE trial: pump replacement 10% per patient‑year (HeartMate II) vs 6% per patient‑year (HVAD).
-* **Approach:** Subcostal (HeartMate II) or anterior thoracotomy (centrifugal) — avoids redo sternotomy if outflow graft is free of thrombus/malalignment. Pre‑op CT helpful. Peripheral CPB established; old outflow graft retained. Short‑term survival ~100%, but long‑term outcomes may be diminished due to recurrent thrombosis or reinfection.
+* **Approach:** Subcostal (HeartMate II) or anterior thoracotomy (centrifugal) — avoids redo sternotomy if outflow graft is free of thrombus/malalignment. Pre‑op CT helpful. Peripheral CPB established; old outflow graft retained. Short‑term survival ~ 100%, but long‑term outcomes may be diminished due to recurrent thrombosis or reinfection.
 
 ### Special Populations
 * **Biventricular Heart Failure:** No chronic RVADs except TAH. Post‑LVAD RVF associated with decreased survival. Biventricular support in INTERMACS has 40% mortality at 6 months.
@@ -82,7 +82,7 @@
 * **Adjuvant Therapies:**
   * **Clenbuterol (β₂‑agonist):** In non‑ischemic cardiomyopathy, 73% weaned off device with stable function at 48 months when combined with ACEi/ARB, β‑blocker, MRA.
   * **Cell‑Based Therapy:** Allogeneic mesenchymal stem cells injected at LVAD implant — safe, no allosensitization; improved tolerance to transient speed reduction (weaning).
-  * **Myocardial Recovery:** Only ~3% of LVADs explanted for recovery. Factors: short HF duration, non‑ischemic etiology, younger age. No validated biomarker to predict durable recovery.
+  * **Myocardial Recovery:** Only ~ 3% of LVADs explanted for recovery. Factors: short HF duration, non‑ischemic etiology, younger age. No validated biomarker to predict durable recovery.
 
 </div></details>
 

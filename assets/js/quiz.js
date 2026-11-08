@@ -155,7 +155,8 @@ async function loadAllQuizManifestIndex(forceRefresh = false) {
                             if (mRes.ok) {
                                 const mData = await mRes.json();
                                 let qList = Array.isArray(mData) ? mData : (mData.questions || []);
-                                qList = qList.map((q, idx) => decorateQuestionWithSpecialId(q, idx, manifest.id, manifest.file, ''));
+                                const bookPrefix = manifest.file && manifest.file.includes('/quiz/') ? manifest.file.substring(0, manifest.file.indexOf('/quiz/')) : 'books/work/examen';
+                                qList = qList.map((q, idx) => decorateQuestionWithSpecialId(q, idx, manifest.id, manifest.file, bookPrefix));
                                 state.setQuestionsMap[manifest.id] = qList;
                                 manifest.totalQuestions = qList.length;
                                 manifest.totalQ = qList.length;
@@ -200,6 +201,20 @@ function decorateQuestionWithSpecialId(q, idx, manifestId, setFile, bookPrefix) 
         }
     }
 
+    let derivedBookPath = (bookPrefix || '').trim();
+    if ((!derivedBookPath || derivedBookPath === 'custom' || derivedBookPath === 'favorites') && setFile && setFile.includes('/quiz/')) {
+        derivedBookPath = setFile.substring(0, setFile.indexOf('/quiz/'));
+    }
+    if (!derivedBookPath && q.bookPath) {
+        derivedBookPath = q.bookPath;
+    }
+    if (!derivedBookPath) {
+        derivedBookPath = 'books/work/examen';
+    }
+    if (derivedBookPath.endsWith('/quiz')) {
+        derivedBookPath = derivedBookPath.slice(0, -5);
+    }
+
     const specialId = `${manifestNum}🧠${localId}`;
     return Object.assign({}, q, {
         id: localId,
@@ -207,7 +222,7 @@ function decorateQuestionWithSpecialId(q, idx, manifestId, setFile, bookPrefix) 
         manifestNum: manifestNum,
         manifestId: manifestId || 'set',
         setId: manifestId || 'set',
-        bookPath: bookPrefix || ''
+        bookPath: derivedBookPath
     });
 }
 
@@ -501,7 +516,27 @@ window.getAllQuestionsFromSelectedSets = getAllQuestionsFromSelectedSets;
 function resolveQuizImg(img, bookPath) {
     if (!img) return '';
     if (img.startsWith('http://') || img.startsWith('https://')) return img;
-    const pathStr = bookPath ? `${bookPath}/quiz/images/${img}` : `quiz/images/${img}`;
+
+    let cleanImg = String(img).trim();
+    if (cleanImg.startsWith('./')) cleanImg = cleanImg.slice(2);
+    if (cleanImg.startsWith('/')) cleanImg = cleanImg.slice(1);
+
+    let pathStr = '';
+    if (cleanImg.includes('/') && (cleanImg.startsWith('books/') || cleanImg.startsWith('assets/'))) {
+        pathStr = cleanImg;
+    } else {
+        let bPath = (bookPath || (state && state.bookPath) || '').trim();
+        if (!bPath || bPath === 'custom' || bPath === 'favorites' || bPath === 'general') {
+            bPath = 'books/work/examen';
+        }
+        if (bPath.endsWith('/quiz/images')) {
+            bPath = bPath.slice(0, -12);
+        } else if (bPath.endsWith('/quiz')) {
+            bPath = bPath.slice(0, -5);
+        }
+        pathStr = `${bPath}/quiz/images/${cleanImg}`;
+    }
+
     if (typeof window.getImageUrl === 'function') {
         return window.getImageUrl(pathStr);
     }
@@ -511,14 +546,20 @@ function resolveQuizImg(img, bookPath) {
 
 function getQuestionImages(q) {
     if (!q) return [];
+    let list = [];
     if (q.images && Array.isArray(q.images) && q.images.length > 0) {
-        return q.images;
+        list = q.images;
+    } else if (q.image) {
+        list = Array.isArray(q.image) ? q.image : [q.image];
     }
-    if (q.image) {
-        if (Array.isArray(q.image)) return q.image;
-        return String(q.image).split(',').map(s => s.trim()).filter(Boolean);
-    }
-    return [];
+    const result = [];
+    list.forEach(item => {
+        if (!item) return;
+        String(item).split(',').map(s => s.trim()).filter(Boolean).forEach(img => {
+            if (!result.includes(img)) result.push(img);
+        });
+    });
+    return result;
 }
 
 function getCustomCards() {
@@ -3942,7 +3983,8 @@ function renderQuestion() {
     Object.entries(options).forEach(([letter, text]) => {
         const btn = document.createElement('button');
         btn.className = 'option-btn';
-        btn.innerHTML = `<span class="option-letter">${letter}</span> <span class="option-text">${_markdownToHtml(text)}</span>`;
+        btn.setAttribute('data-letter', letter);
+        btn.innerHTML = `<span class="option-letter" data-letter="${letter}">${letter}</span> <span class="option-text">${_markdownToHtml(text)}</span>`;
         
         if (isAlreadyAnswered) {
             btn.disabled = true;
@@ -4300,15 +4342,21 @@ function showExplanation() {
         expImgCont.appendChild(img);
     };
 
-    if (q.explanationImages && Array.isArray(q.explanationImages)) {
-        q.explanationImages.forEach(img => addImg(img));
-        expImgCont.style.display = 'block';
+    let hasExpImgs = false;
+    const addImgOrig = addImg;
+    const trackedAddImg = (src) => {
+        addImgOrig(src);
+        hasExpImgs = true;
+    };
+
+    if (q.explanationImages && Array.isArray(q.explanationImages) && q.explanationImages.length > 0) {
+        q.explanationImages.forEach(img => {
+            if (img) String(img).split(',').map(s => s.trim()).filter(Boolean).forEach(trackedAddImg);
+        });
     } else if (q.explanationImage) {
-        addImg(q.explanationImage);
-        expImgCont.style.display = 'block';
-    } else {
-        expImgCont.style.display = 'none';
+        String(q.explanationImage).split(',').map(s => s.trim()).filter(Boolean).forEach(trackedAddImg);
     }
+    expImgCont.style.display = hasExpImgs ? 'flex' : 'none';
 
     const rawExp = q['explanation' + lang] || q['explanationEn'] || q.explanation || 'No explanation provided.';
     // Convert newlines to structured elements
@@ -5483,7 +5531,8 @@ function renderIncorrectAnswers() {
             Object.entries(options).forEach(([letter, text]) => {
                 const btn = document.createElement('button');
                 btn.className = 'option-btn';
-                btn.innerHTML = `<span class="option-letter">${letter}</span> <span class="option-text">${_markdownToHtml(text)}</span>`;
+                btn.setAttribute('data-letter', letter);
+                btn.innerHTML = `<span class="option-letter" data-letter="${letter}">${letter}</span> <span class="option-text">${_markdownToHtml(text)}</span>`;
 
                 if (correctChoices.includes(letter)) {
                     btn.classList.add('correct');
@@ -5713,7 +5762,8 @@ function renderAllQuestionsList() {
             Object.entries(options).forEach(([letter, text]) => {
                 const btn = document.createElement('button');
                 btn.className = 'option-btn';
-                btn.innerHTML = `<span class="option-letter">${letter}</span> <span class="option-text">${_markdownToHtml(text)}</span>`;
+                btn.setAttribute('data-letter', letter);
+                btn.innerHTML = `<span class="option-letter" data-letter="${letter}">${letter}</span> <span class="option-text">${_markdownToHtml(text)}</span>`;
                 
                 if (correctChoices.includes(letter)) {
                     btn.classList.add('correct');
@@ -8935,7 +8985,8 @@ window.launchManifestQuiz = async function(manifestId, count) {
             if (res.ok) {
                 const data = await res.json();
                 let rawList = Array.isArray(data) ? data : (data.questions || []);
-                qList = rawList.map((q, idx) => decorateQuestionWithSpecialId(q, idx, mItem.id, mItem.file, ''));
+                const bookPrefix = mItem.file && mItem.file.includes('/quiz/') ? mItem.file.substring(0, mItem.file.indexOf('/quiz/')) : 'books/work/examen';
+                qList = rawList.map((q, idx) => decorateQuestionWithSpecialId(q, idx, mItem.id, mItem.file, bookPrefix));
                 state.setQuestionsMap[mItem.id] = qList;
             }
         } catch (e) {
@@ -9440,7 +9491,8 @@ window.onPlaylistEditorManifestSelected = async function() {
                 if (res.ok) {
                     const data = await res.json();
                     let qList = Array.isArray(data) ? data : (data.questions || []);
-                    qList = qList.map((q, idx) => decorateQuestionWithSpecialId(q, idx, manifestObj.id, manifestObj.file, ''));
+                    const bookPrefix = manifestObj.file && manifestObj.file.includes('/quiz/') ? manifestObj.file.substring(0, manifestObj.file.indexOf('/quiz/')) : 'books/work/examen';
+                    qList = qList.map((q, idx) => decorateQuestionWithSpecialId(q, idx, manifestObj.id, manifestObj.file, bookPrefix));
                     state.setQuestionsMap[manifestId] = qList;
                 }
             } catch (err) {
@@ -10784,7 +10836,7 @@ async function populatePlaylistManagerManifestSelect() {
         const title = isRu ? (regItem.titleRu || m.titleRu || m.title || m.titleEn) : (regItem.titleEn || m.titleEn || m.title || m.titleRu);
         const item = {
             id: m.id,
-            bookPath: m.file ? m.file.substring(0, m.file.lastIndexOf('/')) : '',
+            bookPath: m.file && m.file.includes('/quiz/') ? m.file.substring(0, m.file.indexOf('/quiz/')) : (m.file ? m.file.substring(0, m.file.lastIndexOf('/')) : 'books/work/examen'),
             title: title,
             russian_title: regItem.titleRu || m.titleRu || title,
             label: `№${m.num || regItem.num || ''}. ${title}`,

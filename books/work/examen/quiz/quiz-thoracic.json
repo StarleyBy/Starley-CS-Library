@@ -240,7 +240,7 @@
         "D": "right pneumonectomy with adjuvant chemotherapy for node-positive disease"
       },
       "optionsRu": {
-        "A": "Эндобронхиальная ультрасонография (EBUS) с биопсией лимфатических узлов",
+        "A": "Эндобронхиальная ультрасонография с биопсией лимфатических узлов",
         "B": "Индукционная химиотерапия с последующей правосторонней пневмонэктомией и лимфаденэктомией",
         "C": "Индукционная химиолучевая терапия с последующей циркулярной (манжеточной / sleeve) резекцией правой верхней доли",
         "D": "Правосторонняя пневмонэктомия с адъювантной химиотерапией при подтвержденном поражении лимфоузлов"
@@ -462,9 +462,9 @@
         "D": "terminate operation and treat with definitive chemoradiotherapy"
       },
       "optionsRu": {
-        "A": "Лобэктомия с резекцией грудной стенки единым блоком (en bloc) и резекцией подключичной вены",
+        "A": "Лобэктомия с резекцией грудной стенки единым блоком и резекцией подключичной вены",
         "B": "Прекращение операции и проведение химиотерапии",
-        "C": "Лобэктомия с резекцией грудной стенки единым блоком (en bloc) с сохранением подключичной вены",
+        "C": "Лобэктомия с резекцией грудной стенки единым блоком с сохранением подключичной вены",
         "D": "Прекращение операции и проведение радикальной химиолучевой терапии"
       },
       "correctAnswer": "A",
@@ -501,7 +501,7 @@
       "optionsRu": {
         "A": "Синдром Горнера",
         "B": "Инвазия в подключичные сосуды",
-        "C": "Метастазы в медиастинальные лимфатические узлы (N2)",
+        "C": "Метастазы в медиастинальные лимфатические узлы",
         "D": "Инвазия в грудную стенку с вовлечением 1–3 ребер"
       },
       "correctAnswer": "C",
@@ -538,7 +538,7 @@
       "optionsRu": {
         "A": "Биопсия под контролем КТ",
         "B": "Краевая (клиновидная) резекция с последующей лобэктомией в случае злокачественности",
-        "C": "Сегментэктомия верхушечного сегмента нижней доли (S6)",
+        "C": "Сегментэктомия верхушечного сегмента нижней доли",
         "D": "Стереотаксическая лучевая терапия тела (SBRT)"
       },
       "correctAnswer": "B",
@@ -820,7 +820,7 @@
       "optionsRu": {
         "A": "Повторная операция с целью устранения сброса воздуха, укрытия мышечным лоскутом и/или формирования плеврального тента",
         "B": "Проведение прикроватного талькового плевродеза",
-        "C": "Выписка домой с дренажем, подключенным к клапану Геймлиха (Heimlich valve), и динамическое наблюдение",
+        "C": "Выписка домой с дренажем, подключенным к клапану Геймлиха, и динамическое наблюдение",
         "D": "Установка дополнительного плеврального дренажа и наблюдение в стационаре до прекращения сброса воздуха"
       },
       "correctAnswer": "C",
@@ -855,10 +855,10 @@
         "D": "transthoracic washout and stump closure"
       },
       "optionsRu": {
-        "A": "Формирование открытой торакостомы по Элоэссеру (Eloesser flap)",
+        "A": "Формирование открытой торакостомы по Элоэссеру",
         "B": "Продолжение дренирования плевральной полости трубчатым дренажем",
         "C": "Трансстернальное трансперикардиальное ушивание культи бронха",
-        "D": "Трансторакальная санация (lavage/washout) с ревизией и ушиванием культи бронха"
+        "D": "Трансторакальная санация с ревизией и ушиванием культи бронха"
       },
       "correctAnswer": "C",
       "explanationEn": "### 🎯 Correct Answer\n**Option C: trans-sternal closure of the stump**\n\n### 🔬 Detailed Clinical and Pathophysiological Rationale\n• **Pathophysiology of Early Post-Pneumonectomy Bronchopleural Fistula (BPF) and Empyema:**\n  * A postoperative bronchopleural fistula (BPF) with associated post-pneumonectomy empyema (PPE) is a catastrophic, highly morbid complication following pulmonary resection, carrying a mortality rate of up to 25% to 50%.\n  * **Risk Factors:** Predisposing factors in this patient include a **right-sided pneumonectomy** (the right bronchial stump has a larger diameter, is more exposed to mediastinal pressure, and has a less robust vascular supply than the left), advanced age (75 years), and **prior high-dose neoadjuvant chemoradiation (60 gray)**, which causes severe local tissue ischemia, microvascular thrombosis, fibrosis, and impaired mucosal healing.\n  * **Early Presentation:** An early BPF (occurring within the first 14 days, here on POD 10) is typically caused by a complete mechanical failure of the stump suture/staple line. The sudden loss of the fluid level in the right hemithorax on chest radiograph (CXR), clinical hypoxia, and new-onset atrial fibrillation are classic signs of bronchial stump dehiscence leading to massive, contaminated pleural fluid draining into the tracheobronchial tree (contralateral aspiration) and causing a severe systemic inflammatory response.\n  * **First-Line Resuscitation:** Initial emergency management consists of placing the patient with the **operated side down** to prevent fluid from drowning the remaining left lung, followed by flexible bronchoscopy to clear the airway and **tube thoracostomy (chest tube)** to decompress the infected space (which drained 1 liter of foul-smelling, turbid fluid) and initiate culture-directed antibiotics.\n\n• **Why Trans-sternal Closure of the Stump is the Best Management (Option C):**\n  * **The Mediastinal (Clean-Field) Advantage:** The trans-sternal, transpericardial approach (first described by Abruzzini) is performed via a fresh median sternotomy. This allows the surgeon to access and dissect the right mainstem bronchial stump through the **clean, uninfected mediastinal space**, completely avoiding entering or traversing the highly contaminated right empyema cavity.\n  * **Overcoming Radiation and Infection:** Since the patient received 60 Gy of neoadjuvant radiation, the right pleural space and thoracotomy site are highly inflamed, fibrotic, and ischemic. Attempting to repair the stump via the previous thoracotomy (transthoracic washout and stump closure, Option D) in a heavily infected and irradiated pleural cavity carries an extremely high rate of recurrent dehiscence (>70%) due to local tissue friability, lack of healthy blood supply, and active infection.\n  * **Adequate Re-resection and Buttressing:** The trans-sternal approach allows the surgeon to safely dissect the right bronchus directly at the carina, perform a complete re-resection back to healthy, well-perfused tissue, and close the new stump in a clean environment, typically reinforced with an unirradiated vascularized tissue flap (such as pericardium, thymic tissue, or pericardial fat pad).\n\n### ❌ Why the Other Options are Less Appropriate\n* 🔸 **Option A (creation of an Eloesser flap):** While an open-window thoracostomy (Eloesser flap or Clagett window) is a classic treatment for post-pneumonectomy empyema, it is typically reserved for **late-onset BPF** (occurring months to years after surgery with chronic cavity organization) or for patients who are hemodynamically too unstable to tolerate a major operative reconstruction. In an early (POD 10), potentially salvageable BPF where the patient has been safely stabilized with a chest tube, direct anatomical closure of the bronchial stump is the primary goal.\n* 🔸 **Option B (ongoing chest tube drainage as an empyema tube):** Simple, long-term chest tube drainage is highly inadequate for a large, early post-pneumonectomy bronchial stump blow-out. It fails to achieve source control, guarantees persistent severe contamination of the contralateral healthy lung via the fistula, and leads to chronic sepsis and inevitable death.\n* 🔸 **Option D (transthoracic washout and stump closure):** Re-entering the heavily infected, irradiated right chest cavity through the previous thoracotomy to find and close a dehisced bronchial stump is associated with a catastrophic failure rate. The surrounding tissues are necrotic and saturated with purulent fluid, making secure suture placement impossible and leading to rapid recurrent dehiscence. Transthoracic approaches are only favored for very early BPFs (within 48–72 hours) *before* the development of gross empyema and in the absence of high-dose preoperative radiation.\n\n### 📚 Board Pearl\n* **The Trans-sternal Transpericardial Standard:** On thoracic surgery board exams, for any patient with an **early post-pneumonectomy BPF and empyema who has undergone neoadjuvant chemoradiation (especially high-dose, ≥45–60 Gy)**, the most correct and definitive surgical management is **trans-sternal, transpericardial closure of the bronchial stump**. This provides access through a clean, uninfected mediastinum via median sternotomy and avoids the hostile, irradiated, and infected pleural cavity.\n\n### 🔥 Mnemonic / Memory Aid\nRemember the benefits of the trans-sternal approach for post-pneumonectomy BPF using the acronym **«S-T-E-R-N-U-M»**:\n* **S** - **S**ternotomy access: Avoids the infected thoracotomy site and irradiated pleural cavity.\n* **T** - **T**ranspericardial route: Provides direct, safe dissection of the main bronchus at the carina.\n* **E** - **E**mpyema avoidance: Dissection goes entirely through a clean, sterile mediastinal field.\n* **R** - **R**adical re-resection: Allows resection of the diseased stump back to healthy tissue.\n* **N** - **N**eoadjuvant radiation (60 Gy) makes local tissues too fragile for transthoracic repair.\n* **U** - **U**nirradiated tissue coverage (using healthy pericardium or thymic fat pads to cover the new stump).\n* **M** - **M**ortality reduction: Provides the highest success rate of permanent fistula closure in infected cavities.",
@@ -931,7 +931,7 @@
         "D": "inhaled steroid use"
       },
       "optionsRu": {
-        "A": "Неполные междолевые щели (incomplete fissures)",
+        "A": "Неполные междолевые щели",
         "B": "Сниженная функция внешнего дыхания",
         "C": "Использование аспирации в послеоперационном периоде",
         "D": "Применение ингаляционных стероидов"
@@ -1082,7 +1082,7 @@
       },
       "optionsRu": {
         "A": "Ушивание надрыва с перемежающейся тампонадой",
-        "B": "Блочное прошивание сшивающим аппаратом корня верхней доли (mass stapling)",
+        "B": "Блочное прошивание сшивающим аппаратом корня верхней доли",
         "C": "Выполнение видеоторакоскопической (VATS) пневмонэктомии слева",
         "D": "Конверсия в открытую операцию (торакотомию)"
       },
@@ -1268,7 +1268,7 @@
       },
       "optionsRu": {
         "A": "Среднее давление в легочной артерии",
-        "B": "ФЖЕЛ (FVC)",
+        "B": "ФЖЕЛ",
         "C": "Искусственная вентиляция легких (интубация/ИВЛ)",
         "D": "Центральное венозное давление (ЦВД)"
       },
@@ -1342,7 +1342,7 @@
       "optionsRu": {
         "A": "Использование искусственного кровообращения (ИК)",
         "B": "Трансфузия 3 доз эритроцитарной массы",
-        "C": "Тяжесть первичной дисфункции трансплантата (PGD)",
+        "C": "Тяжесть первичной дисфункции трансплантата",
         "D": "Потребность в искусственной вентиляции легких через 24 часа после операции"
       },
       "correctAnswer": "C",
@@ -1380,7 +1380,7 @@
         "D": "inhaled corticosteroids"
       },
       "optionsRu": {
-        "A": "Динамическая КТ органов грудной клетки (dynamic expiratory CT scan)",
+        "A": "Динамическая КТ органов грудной клетки",
         "B": "Видеоторакоскопическая (VATS) биопсия легкого",
         "C": "Тест с 6-минутной ходьбой",
         "D": "Ингаляционные глюкокортикостероиды"
@@ -1496,7 +1496,7 @@
       },
       "optionsRu": {
         "A": "Пластика свища через трансторакальный доступ",
-        "B": "Пластика свища биосинтетической обтурационной сеткой-пробкой (mesh plug)",
+        "B": "Пластика свища биосинтетической обтурационной сеткой-пробкой",
         "C": "Установка саморасширяющегося полностью покрытого съемного трахеального стента",
         "D": "Пластика свища через шейный доступ с возможной циркулярной резекцией трахеи"
       },
@@ -1992,7 +1992,7 @@
         "A": "Дренирование плевральной полости и плевродез блеомицином",
         "B": "Видеоторакоскопический (VATS) механический плевродез слева",
         "C": "Повторный чрескожный плевроцентез (пункция)",
-        "D": "Установка туннелированного плеврального катетера (PleurX / IPC)"
+        "D": "Установка туннелированного плеврального катетера"
       },
       "correctAnswer": "D",
       "explanationEn": "### 🎯 Correct Answer\n**Option D: tunneled pleural catheter insertion**\n\n### 🔬 Detailed Clinical and Pathophysiological Rationale\n• **Pathophysiology of Malignant Pleural Effusion (MPE):**\n  * A malignant pleural effusion (MPE) is a common complication of advanced (Stage IIIb/IV) lung cancer. It occurs due to tumor implantation on the pleural surfaces, leading to impaired lymphatic drainage, increased capillary permeability, and excessive fluid production.\n  * This patient has a rapidly reaccumulating, symptomatic MPE (two separate thoracenteses yielding >1.5 L of malignant fluid within 3 weeks). Recurrent therapeutic thoracentesis is not a long-term solution because it carries a high risk of pneumothorax, infection, and patient discomfort, and provides only temporary relief.\n\n• **Why Tunneled Pleural Catheter (IPC) is the Best Next Step (Option D):**\n  * **Outpatient, Minimally Invasive:** An indwelling tunneled pleural catheter (IPC), such as the PleurX device, is placed percutaneously under local anesthesia on an outpatient basis. It allows patients to drain fluid at home using sterile kits, providing rapid and durable symptom relief.\n  * **Freedom from Hospitalization:** IPC insertion avoids the need for inpatient hospitalization, general anesthesia, or surgical intervention (VATS). It is particularly well-suited for patients with trapped lung or those who are not candidates for pleurodesis.\n  * **Spontaneous Pleurodesis:** In approximately 50–60% of patients, continuous drainage via an IPC leads to spontaneous pleurodesis, allowing eventual catheter removal.\n  * **Current Guideline Recommendation:** According to updated American Thoracic Society (ATS), Society of Thoracic Surgeons (STS), and Society of Thoracic Radiology (STR) consensus guidelines, both IPC insertion and talc pleurodesis are the recommended first-line interventions for MPE.\n\n### ❌ Why the Other Options are Less Appropriate\n* 🔸 **Option A (chest tube insertion and bleomycin pleurodesis):** Bleomycin is a sclerosing agent, but it has **significantly lower efficacy (approximately 50–60%)** compared to talc (80–90%) or IPC. Furthermore, chest tube placement requires inpatient hospitalization (typically 2–5 days), is more uncomfortable, and is associated with higher rates of fever, chest pain, and systemic side effects. Bleomycin is no longer a first-line agent.\n* 🔸 **Option B (left VATS mechanical pleurodesis):** While VATS mechanical or talc pleurodesis is an effective technique, it requires general anesthesia, single-lung ventilation, and inpatient hospitalization. It is often reserved for patients with non-expandable lung (trapped lung) or those who fail IPC therapy. Given the patient's ECOG status of 1, an IPC is a less invasive, equally effective, and more cost-effective alternative.\n* 🔸 **Option C (repeat percutaneous thoracentesis):** Repeated therapeutic thoracentesis is not definitive management. It provides only short-term relief (often < 2 weeks), carries an increasing risk of complications (pneumothorax, hemothorax, infection), and significantly impairs the patient's quality of life due to frequent clinic visits.\n\n### 📚 Board Pearl\n* **The IPC vs. Pleurodesis Debate:** On thoracic surgery board exams (SESATS), the gold standard for definitive management of symptomatic recurrent MPE in an ambulatory patient (ECOG 0-1) is **tunneled pleural catheter (IPC) or talc pleurodesis (via small-bore chest tube or VATS)**. Bleomycin is historical and not first-line. Repeated thoracenteses (Option C) are not considered long-term management.\n\n### 🔥 Mnemonic / Memory Aid\nRemember the management of malignant pleural effusion with **\"I-P-C\"**:\n* **I** - **I**ndwelling Pleural Catheter is the first-line, outpatient, definitive treatment.\n* **P** - **P**alliates dyspnea effectively without inpatient hospitalization.\n* **C** - **C**hemical pleurodesis with bleomycin (Option A) is outdated and inferior to talc or IPC.",
@@ -2192,7 +2192,7 @@
       "optionsRu": {
         "A": "Стернотомия, санация/хирургическая обработка средостения и открытое тампонирование",
         "B": "Чрескожное дренирование под лучевым контролем",
-        "C": "Торакоскопическая санация, хирургическая обработка и дренирование (VATS debridement and drainage)",
+        "C": "Торакоскопическая санация, хирургическая обработка и дренирование",
         "D": "Добавление эртапенема для расширения спектра действия на грамотрицательные палочки"
       },
       "correctAnswer": "C",
@@ -2232,7 +2232,7 @@
       "optionsRu": {
         "A": "Хирургическая резекция (удаление опухоли)",
         "B": "МРТ грудного отдела позвоночника",
-        "C": "Сцинтиграфия с 131I-метайодбензилгуанидином (MIBG)",
+        "C": "Сцинтиграфия с 131I-метайодбензилгуанидином",
         "D": "Прием феноксибензамина в течение не менее 2 недель перед резекцией"
       },
       "correctAnswer": "A",
@@ -2269,7 +2269,7 @@
       "optionsRu": {
         "A": "Стернотомия с открытой операцией на аорте и протезированием синтетическим графтом",
         "B": "Ангиография и имплантация аортального стент-графта (TEVAR)",
-        "C": "Торакоскопическая хирургическая биопсия (VATS biopsy)",
+        "C": "Торакоскопическая хирургическая биопсия",
         "D": "Торакотомия с циторедуктивным удалением / дебалкингом образования"
       },
       "correctAnswer": "C",
@@ -2309,7 +2309,7 @@
       "optionsRu": {
         "A": "Киста тимуса (тимическая киста)",
         "B": "Перикардиальная киста",
-        "C": "Энтерогенная киста / киста удвоения передней кишки (foregut duplication cyst)",
+        "C": "Энтерогенная киста / киста удвоения передней кишки",
         "D": "Бронхогенная киста"
       },
       "correctAnswer": "D",
@@ -2499,7 +2499,7 @@
       },
       "optionsRu": {
         "A": "Дренирование плевральной полости, пассивный дренаж по Бюлау и наблюдение",
-        "B": "Установка окисленной целлюлозы (Surgicel) в область межпозвонкового отверстия, люмбальный дренаж и постельный режим",
+        "B": "Установка окисленной целлюлозы в область межпозвонкового отверстия, люмбальный дренаж и постельный режим",
         "C": "Массивное лигирование грудного протока",
         "D": "Ревизия межпозвонкового отверстия, ушивание/пластика твердой мозговой оболочки и укрепление межреберным мышечным лоскутом"
       },
@@ -2611,8 +2611,8 @@
       },
       "optionsRu": {
         "A": "Фундопликация по Ниссену",
-        "B": "Гастрошунтирование по Ру (Roux-en-Y gastric bypass)",
-        "C": "Продольная (рукавная) резекция желудка (sleeve gastrectomy)",
+        "B": "Гастрошунтирование по Ру",
+        "C": "Продольная (рукавная) резекция желудка",
         "D": "Вмешательство для ускорения эвакуации из желудка (дренирующая операция)"
       },
       "correctAnswer": "B",
@@ -2647,7 +2647,7 @@
       },
       "optionsRu": {
         "A": "Эзофагокардиомиотомия (классическая миотомия Геллера)",
-        "B": "Протяженная миотомия пищевода (long esophageal myotomy)",
+        "B": "Протяженная миотомия пищевода",
         "C": "Эзофагэктомия по Айвору Льюису",
         "D": "Пневматическая дилатация"
       },
@@ -2722,7 +2722,7 @@
         "A": "Отменить терапию ИПП и начать пробный курс H2-блокаторов",
         "B": "Увеличить дозу ИПП и выполнить манометрию высокого разрешения",
         "C": "Увеличить дозу ИПП и провести амбулаторную рН-метрию",
-        "D": "Отменить ингибиторы протонной помпы и выполнить амбулаторную pH-импедансометрию (off-therapy)"
+        "D": "Отменить ингибиторы протонной помпы и выполнить амбулаторную pH-импедансометрию"
       },
       "correctAnswer": "D",
       "explanationEn": "In patients with typical symptoms of GERD (heartburn, regurgitation) that are refractory to an adequate trial of high-dose (twice-daily) proton pump inhibitors (PPIs) and who have normal or non-diagnostic findings on upper endoscopy (non-erosive reflux disease vs. functional heartburn vs. hypersensitive esophagus), the gold standard diagnostic step is ambulatory 24-hour pH-impedance monitoring performed off PPI therapy (typically stopped 7 days prior). Testing 'off PPI' objectively confirms or excludes true pathologic acid or non-acid reflux, calculates the DeMeester score and total acid exposure time (AET), and assesses symptom-reflux association, which is essential to establish the diagnosis and guide further management or surgical intervention. Further increasing the PPI dose is not recommended after twice-daily failure.",
@@ -2910,7 +2910,7 @@
       "optionsRu": {
         "A": "Лапароскопическая фундопликация по Ниссену",
         "B": "Эндоскопическая дилатация пищевода и терапия ингибиторами протонной помпы (ИПП)",
-        "C": "Эзофагэктомия с пластикой перемещенным желудком (gastric pull-up)",
+        "C": "Эзофагэктомия с пластикой перемещенным желудком",
         "D": "Лапароскопическая миотомия по Геллеру с частичной (парциальной) фундопликацией"
       },
       "correctAnswer": "B",
@@ -2989,8 +2989,8 @@
       "optionsRu": {
         "A": "Эзофагомиотомия по типу Геллера",
         "B": "Антирефлюксная операция с гастропластикой (удлинением пищевода по Коллису)",
-        "C": "Рукавная резекция желудка (sleeve gastrectomy)",
-        "D": "Гастрошунтирование по Ру (Roux-en-Y gastric bypass)"
+        "C": "Рукавная резекция желудка",
+        "D": "Гастрошунтирование по Ру"
       },
       "correctAnswer": "B",
       "explanationEn": "The endoscopic measurements establish the presence of a 'shortened esophagus' (brachyesophagus) associated with a massive hiatal hernia: the distance from the top of the gastric folds (gastroesophageal junction, GEJ at 25 cm) to the diaphragmatic pinch (39 cm) is 14 cm, demonstrating that the GEJ is markedly displaced intrathoracically and the functional esophageal length is drastically shortened (10 cm from UES at 15 cm to GEJ at 25 cm, well below the normal 20–22 cm). In the setting of true shortened esophagus, standard mobilization alone will not achieve the requisite 2.5–3 cm of tension-free intra-abdominal esophagus, leading to high wrap herniation and failure rates. Therefore, an esophageal lengthening procedure (Collis gastroplasty) combined with an antireflux fundoplication (Collis-Nissen or Collis-Toupet) is the standard surgical approach. The patient is not morbidly obese (BMI 30), so bariatric bypass (Option D) is not primary, and normal manometric motility excludes achalasia/Heller myotomy (Option A).",
@@ -3268,7 +3268,7 @@
       "optionsRu": {
         "A": "Неоадъювантная химиолучевая терапия с последующей эзофагэктомией по Айвору Льюису",
         "B": "Радикальная химиолучевая терапия с последующим динамическим наблюдением",
-        "C": "Неоадъювантная системная химиотерапия (FLOT) и завершающая гастрэктомия (экстирпация культи желудка с резекцией дистального отдела пищевода) с формированием эзофагоеюноанастомоза по Ру",
+        "C": "Неоадъювантная системная химиотерапия и завершающая гастрэктомия (экстирпация культи желудка с резекцией дистального отдела пищевода) с формированием эзофагоеюноанастомоза по Ру",
         "D": "Эзофагэктомия с пластикой толстокишечным трансплантатом и формированием колоеюноанастомоза по Ру"
       },
       "correctAnswer": "C",
@@ -3421,7 +3421,7 @@
         "A": "КТ органов грудной клетки высокого разрешения",
         "B": "Эндоскопическая ультрасонография (ЭндоУЗИ / EUS)",
         "C": "Эндоскопическая резекция слизистой (EMR)",
-        "D": "ПЭТ/КТ с ФДГ (FDG-PET/CT)"
+        "D": "ПЭТ/КТ с ФДГ"
       },
       "correctAnswer": "C",
       "explanationEn": "For a small (10 mm), visible, raised/nodular early lesion arising in Barrett's esophagus with well-differentiated adenocarcinoma, Endoscopic Mucosal Resection (EMR) is both the definitive staging modality (T-staging) and the initial therapeutic step. EUS (Option B) has poor accuracy for distinguishing between mucosal (T1a) and superficial submucosal (T1b) invasion in small flat/nodular early lesions. EMR provides a full-thickness mucosal/submucosal tissue specimen for precise histological evaluation of depth of invasion, differentiation, lymphovascular invasion, and deep resection margins, which dictates whether endoscopic eradication therapy alone is curative or if esophagectomy is needed. High-resolution CT (Option A) and FDG-PET/CT (Option D) have no role in T-staging of superficial early mucosal lesions and are reserved for ruling out distant metastasis in advanced disease.",
@@ -3707,7 +3707,7 @@
       },
       "optionsRu": {
         "A": "Терапия ингибиторами протонной помпы два раза в сутки",
-        "B": "Гастрошунтирование по Ру с формированием малого желудочного резервуара (Roux-en-Y gastric bypass)",
+        "B": "Гастрошунтирование по Ру с формированием малого желудочного резервуара",
         "C": "Ревизия и повторная фундопликация по Ниссену через лапаротомию",
         "D": "Трансторакальная фундопликация по Белси"
       },
@@ -3820,8 +3820,8 @@
         "D": "thoracoscopy and drainage"
       },
       "optionsRu": {
-        "A": "Повторное видеорентгеноскопическое исследование акта глотания (VFSS)",
-        "B": "Эндоскопическая фиброоптическая оценка акта глотания (FEES / Fiberoptic Endoscopic Evaluation of Swallowing)",
+        "A": "Повторное видеорентгеноскопическое исследование акта глотания",
+        "B": "Эндоскопическая фиброоптическая оценка акта глотания",
         "C": "КТ органов грудной клетки с внутривенным контрастированием",
         "D": "Торакоскопия и дренирование плевральной полости"
       },
@@ -4230,7 +4230,7 @@
       },
       "optionsRu": {
         "A": "Резекция только инфицированного нижнего края сетки и ушивание раны на проточных дренажах",
-        "B": "Резекция нижнего края сетки и установка вакуумной повязки (Wound VAC)",
+        "B": "Резекция нижнего края сетки и установка вакуумной повязки",
         "C": "Полное удаление всей синтетической сетки/протеза с установкой биопротезной (биологической) сетки",
         "D": "Полное удаление всей синтетической сетки (протеза) и ушивание раны поверх дренажей"
       },
@@ -4266,7 +4266,7 @@
       },
       "optionsRu": {
         "A": "Электромиография диафрагмального нерва",
-        "B": "Рентгеноскопическая оценка подвижности диафрагмы («sniff test»)",
+        "B": "Рентгеноскопическая оценка подвижности диафрагмы",
         "C": "Ультразвуковое исследование (УЗИ) в М-режиме, выполненное у постели больного",
         "D": "Спирометрия в положении сидя и лежа"
       },
@@ -4339,7 +4339,7 @@
       "optionsRu": {
         "A": "Динамическое наблюдение",
         "B": "Лапароскопическая пластика грыжи пищеводного отверстия диафрагмы с фундопликацией по Ниссену",
-        "C": "Пластика диафрагмальной грыжи с использованием сетчатого имплантата (mesh)",
+        "C": "Пластика диафрагмальной грыжи с использованием сетчатого имплантата",
         "D": "Резекция булл левого легкого видеоторакоскопическим доступом (VATS)"
       },
       "correctAnswer": "C",
@@ -4380,7 +4380,7 @@
       "optionsRu": {
         "A": "Двусторонняя пликация диафрагмы",
         "B": "Ночная ИВЛ через трахеостому",
-        "C": "Имплантация диафрагмального стимулятора (diaphragm pacer / phrenic nerve pacing)",
+        "C": "Имплантация диафрагмального стимулятора",
         "D": "Транстрахеальный кислородный катетер"
       },
       "correctAnswer": "C",
@@ -4416,7 +4416,7 @@
       "optionsRu": {
         "A": "Объема форсированного выдоха за первую секунду (ОФВ1 / FEV1)",
         "B": "Общей емкости легких (ОЕЛ / TLC)",
-        "C": "Показателей одышки / качества жизни (dyspnea score)",
+        "C": "Показателей одышки / качества жизни",
         "D": "Функциональной остаточной емкости легких (ФОЕ / FRC)"
       },
       "correctAnswer": "C",
@@ -4564,7 +4564,7 @@
       "optionsRu": {
         "A": "Гемоторакс",
         "B": "Несостоятельность (разрыв/прорезывание швов) заплаты диафрагмы с развитием диафрагмальной грыжи",
-        "C": "Дислокация / вывих сердца (cardiac herniation)",
+        "C": "Дислокация / вывих сердца",
         "D": "Бронхоплевральный свищ"
       },
       "correctAnswer": "B",
@@ -4604,7 +4604,7 @@
       },
       "optionsRu": {
         "A": "Двустороннее дренирование плевральных полостей и установка эпидурального катетера для обезболивания",
-        "B": "Дренирование левой плевральной полости и активная санация/гигиена дыхательных путей (left chest tube and aggressive pulmonary toilet)",
+        "B": "Дренирование левой плевральной полости и активная санация/гигиена дыхательных путей",
         "C": "Двустороннее дренирование плевральных полостей и ВАТС при отделяемом >250 мл/ч в течение 2 часов",
         "D": "Экстренная видеоторакоскопия (ВАТС) левой плевральной полости"
       },
@@ -4645,7 +4645,7 @@
         "A": "Внутривенные болюсы инфузионных растворов и увеличение активной аспирации по дренажу",
         "B": "Начало инфузии вазопрессоров и установка второго дренажа справа",
         "C": "Диагностическая видеоторакоскопия (ВАТС) справа",
-        "D": "Экстренная правосторонняя эксплоративная торакотомия (right exploratory thoracotomy)"
+        "D": "Экстренная правосторонняя эксплоративная торакотомия"
       },
       "correctAnswer": "D",
       "explanationEn": "The correct answer is Option D: right exploratory thoracotomy.\n\n### 🔬 Clinical & Pathophysiological Analysis:\n\n1. **Pathophysiology of Hemorrhagic Shock and Penetrating Thoracic Trauma:**\n   * The patient sustained a penetrating gunshot wound to the right chest with an entry site below the nipple (midclavicular line). This trajectory is highly concerning for injury to major vascular structures (e.g., internal mammary, intercostal, or pulmonary hilar vessels) and parenchymal lung injury. Because the entry is below the nipple, a transdiaphragmatic thoracoabdominal injury must also be highly suspected.\n   * The initial chest tube drained 1000 mL of blood, followed by hourly outputs of 250, 250, and 400 mL over the next 3 hours. This brings the cumulative blood loss from the chest tube to **1900 mL** (1000 mL initial + 900 mL over 3 hours), which represents nearly 40% of an average adult's total circulating volume (Class III/IV hemorrhagic shock).\n\n2. **Absolute Surgical Indications for Exploratory Thoracotomy (Why Option D is Correct):**\n   * In thoracic trauma management, the indications for emergent exploratory thoracotomy in patients with a hemothorax are clearly defined:\n     * **Immediate drainage of >1500 mL** of blood upon chest tube insertion.\n     * **Continued hourly drainage of >200 mL/hr** for 2 to 4 consecutive hours.\n     * **Hemodynamic instability** or clinical deterioration with ongoing bleeding.\n   * The patient meets multiple criteria: he has a high initial output (1000 mL), ongoing bleeding that exceeds the 200 mL/hr threshold for 3 consecutive hours, and critically, the rate of bleeding is **escalating (from 250 to 400 mL in the 3rd hour)**.\n   * Concurrently, the patient is showing signs of class III/IV hemorrhagic shock (increasing tachycardia, hypotension requiring fluid boluses) and respiratory compromise (requiring a non-rebreather mask). This combination of active, massive, accelerating hemorrhage and hemodynamic instability is an absolute indication for **emergent open right exploratory thoracotomy (Option D)** to achieve rapid surgical hemostasis.\n\n3. **Why Other Options are Incorrect:**\n   * **Option A (IV fluid boluses and increased chest tube suction):** Increasing suction will not stop active major arterial bleeding; in fact, it may worsen bleeding by drawing more blood out of the vascular space. Resuscitation alone without mechanical hemostasis will lead to irreversible hemorrhagic shock and death.\n   * **Option B (starting pressors and placement of another right chest tube):** Vasoactive medications (pressors) are contraindicated as first-line therapy for hemorrhagic shock because they increase afterload and myocardial oxygen demand without restoring volume, worsening tissue ischemia. Placing another chest tube does not address the source of the hemorrhage.\n   * **Option C (right VATS exploration):** Video-assisted thoracoscopic surgery (VATS) is highly useful in stable patients (e.g., for evacuating a retained/clotted hemothorax). However, VATS is strictly contraindicated in hemodynamically unstable patients with active, high-volume, accelerating hemorrhage. VATS requires single-lung ventilation (which is poorly tolerated in a shocked patient) and does not allow for rapid, large-scale vascular control or hilar clamping.",
@@ -4685,7 +4685,7 @@
         "A": "Полное парентеральное питание (ППП) и прикроватный плевродез",
         "B": "Полное парентеральное питание (ППП) и продолжение консервативного наблюдения",
         "C": "Ревизия и клипирование в средостении",
-        "D": "Ревизия и лигирование грудного протока (exploration and thoracic duct ligation)"
+        "D": "Ревизия и лигирование грудного протока"
       },
       "correctAnswer": "D",
       "explanationEn": "The correct answer is Option D: exploration and thoracic duct ligation.\n\n### 🔬 Clinical & Pathophysiological Analysis:\n\n1. **Pathophysiology of Postoperative Chylothorax:**\n   * Chylothorax is a rare but potentially life-threatening complication of thoracic surgery, occurring in approximately 0.25% to 1.3% of patients after pulmonary lobectomy and mediastinal lymph node dissection.\n   * It results from the inadvertent injury or division of the thoracic duct or its major lymphatic tributaries during the dissection of mediastinal lymph nodes (especially stations 2R, 4R, 7, and 8 on the right side).\n   * Chyle is rich in lipids (chylomicrons), proteins, immunoglobulins, and T-lymphocytes. Loss of large volumes of chyle (high-output chylothorax) rapidly leads to severe nutritional depletion, dehydration, electrolyte imbalances, and profound cell-mediated immunodeficiency.\n\n2. **Diagnosis of Chyle Leak:**\n   * The diagnosis is confirmed by pleural fluid analysis showing a triglyceride level > 110 mg/dL (1.24 mmol/L). In this patient, the triglyceride level of 150 mg/dL in the milky chest tube fluid is diagnostic of chylothorax.\n\n3. **Failure of Conservative Therapy:**\n   * The initial management of postoperative chylothorax is conservative, aiming to reduce chyle production by decreasing lymphatic flow through the thoracic duct. This is achieved by introducing a low-fat diet enriched with medium-chain triglycerides (MCT). MCTs are absorbed directly into the portal venous system, bypassing the intestinal lymphatics and the thoracic duct.\n   * However, in this patient, despite the transition to an MCT diet, her chest tube output remained extremely high (> 1 L/day) over the subsequent 48 hours.\n   * The standard clinical threshold for surgical intervention in postoperative chylothorax is a high-output leak defined as:\n     1. Drainage > 1,000 mL/day for more than 5 days on conservative therapy.\n     2. Persistent output > 1,000 mL/day for 48 to 72 hours despite strict dietary modification (MCT/TPN).\n     3. Rapidly worsening nutritional status or metabolic/electrolyte derangements.\n   * Since this patient continues to drain > 1 L/day after 48 hours of MCT trial, she has failed conservative management and is at extreme risk of immunologic and nutritional exhaustion. Immediate surgical intervention is indicated.\n\n4. **Definitive Surgical Management (Why Option D is Superior to Option C):**\n   * The definitive, gold-standard surgical treatment for persistent postoperative chylothorax is **exploration and thoracic duct ligation (Option D)**.\n   * This can be performed via video-assisted thoracoscopic surgery (VATS) or open thoracotomy. The thoracic duct is identified and ligated just above the diaphragm (right supra-diaphragmatic mass ligation) using heavy non-absorbable sutures or clips, regardless of the exact site of injury, which is often difficult to localize.\n   * **Why Option C (exploration and placement of clips in the mediastinum) is incorrect:** Simple placement of clips at the suspected site of injury in the dissected mediastinum without formal, mass ligation of the main thoracic duct is associated with a high rate of failure and recurrence due to the presence of numerous collateral lymphatic channels. Ligation of the main thoracic duct (Option D) is the most robust and definitive treatment.\n\n5. **Why Other Options are Incorrect:**\n   * **Option A (TPN and bedside pleurodesis):** Bedside chemical pleurodesis (e.g., using doxycycline or talc) is not recommended as an initial or definitive therapy for a high-output chyle leak (> 1 L/day) because the rapid flow of lymphatic fluid washes away the sclerosing agent, preventing effective pleural symphysis. It also carries a high failure rate and risk of loculated empyema.\n   * **Option B (TPN and continued observation):** Continuing conservative observation with TPN is inappropriate and dangerous in a patient with a persistent leak of > 1 L/day. Prolonging conservative observation beyond 48-72 hours in a high-output leak only delays definitive treatment while worsening the patient's nutritional and immunological status, leading to severe infectious complications.",
@@ -4723,7 +4723,7 @@
       "optionsRu": {
         "A": "Экстубировать в операционной и перевести на неинвазивную вентиляцию легких (НИВЛ)",
         "B": "Подождать 10 минут и повторно ввести реверсивные препараты",
-        "C": "Перевести в отделение реанимации и интенсивной терапии (ОРИТ) и рассмотреть терапию высокими дозами стероидов и/или плазмаферез (transfer to the intensive care unit (ICU) and consider high-dose steroid therapy and/or plasmapheresis)",
+        "C": "Перевести в отделение реанимации и интенсивной терапии (ОРИТ) и рассмотреть терапию высокими дозами стероидов и/или плазмаферез (transfer to the intensive care unit and consider high-dose steroid therapy and/or plasmapheresis)",
         "D": "Перевести в ОРИТ, оставить на ИВЛ на ночь («дыхательный покой») и запланировать sniff-тест для оценки функции диафрагмального нерва"
       },
       "correctAnswer": "D",
@@ -4764,7 +4764,7 @@
       "optionsRu": {
         "A": "Экстренная КТ грудной клетки для оценки кровотечения и планирования хирургической фиксации ребер",
         "B": "Установка дополнительного плеврального дренажа справа и продолжение обезболивающей терапии",
-        "C": "Продолжить поддерживающую респираторную терапию (с интубацией трахеи по показаниям) и адекватное обезболивание переломов ребер (continue supportive respiratory care with intubation as needed and pain control for the rib fractures)",
+        "C": "Продолжить поддерживающую респираторную терапию (с интубацией трахеи по показаниям) и адекватное обезболивание переломов ребер",
         "D": "Запланировать хирургическую фиксацию ребер и возможную нижнюю лобэктомию"
       },
       "correctAnswer": "C",
@@ -4801,7 +4801,7 @@
       },
       "optionsRu": {
         "A": "Запланировать ригидную бронхоскопию и стентирование дыхательных путей",
-        "B": "Запланировать бронхоскопию и правостороннюю торакотомию (plan for bronchoscopy and right thoracotomy)",
+        "B": "Запланировать бронхоскопию и правостороннюю торакотомию",
         "C": "Увеличить силу активной аспирации по обоим плевральным дренажам",
         "D": "Перевести в отделение реанимации и интенсивной терапии для выполнения бронхоскопии"
       },
@@ -4839,7 +4839,7 @@
       },
       "optionsRu": {
         "A": "Диабетическая нефропатия",
-        "B": "Цисплатин-ассоциированная нефротоксичность (cisplatin-associated nephrotoxicity)",
+        "B": "Цисплатин-ассоциированная нефротоксичность",
         "C": "Паранеопластическое поражение клубочков",
         "D": "Поражение почек вследствие синдрома лизиса опухоли"
       },
@@ -4879,7 +4879,7 @@
       "optionsRu": {
         "A": "Стентирование среднедолевого бронха",
         "B": "Антибактериальная терапия по поводу нозокомиальной пневмонии",
-        "C": "Торакотомия и резекция средней доли (средняя лобэктомия) (thoracotomy and right middle lobectomy)",
+        "C": "Торакотомия и резекция средней доли (средняя лобэктомия)",
         "D": "Терапия кортикостероидами и диуретиками для уменьшения отека слизистой оболочки средней доли"
       },
       "correctAnswer": "C",
@@ -4915,7 +4915,7 @@
       },
       "optionsRu": {
         "A": "Установка катетера легочной артерии (катетера Свана–Ганца)",
-        "B": "Эхокардиография с пузырьковой пробой / контрастированием (an echocardiogram with bubble study)",
+        "B": "Эхокардиография с пузырьковой пробой / контрастированием",
         "C": "Повторное исследование функции внешнего дыхания (ФВД / спирометрия)",
         "D": "Фибробронхоскопия в сознании"
       },
@@ -4953,7 +4953,7 @@
       },
       "optionsRu": {
         "A": "Легочная реабилитация",
-        "B": "Рассмотрение вопроса о хирургической редукции объема легких (consideration for lung volume reduction surgery)",
+        "B": "Рассмотрение вопроса о хирургической редукции объема легких",
         "C": "Катетеризация правых отделов сердца",
         "D": "Динамическая КТ с реконструкцией дыхательных путей"
       },
@@ -4991,7 +4991,7 @@
       },
       "optionsRu": {
         "A": "Успокоить пациентку, объяснив, что эти симптомы типичны и со временем пройдут самостоятельно",
-        "B": "Увеличить содержание пищевых волокон (клетчатки) в рационе и исключить продукты с высоким содержанием сахара (increase the fiber content in her diet and avoid high sugar containing foods)",
+        "B": "Увеличить содержание пищевых волокон (клетчатки) в рационе и исключить продукты с высоким содержанием сахара",
         "C": "Начать подкожное введение октреотида по 50 мкг за 5 минут до каждого приема пищи",
         "D": "Восполнить уровень калия пероральным приемом 20 мЭкв калия в сутки"
       },
@@ -5029,7 +5029,7 @@
       },
       "optionsRu": {
         "A": "Повторная установка назогастрального зонда до восстановления голоса и глотания",
-        "B": "Ларингоскопия и аугментационная инъекция в голосовую складку при подтверждении пареза возвратного гортанного нерва (laryngoscopy and vocal cord injection if recurrent nerve paresis is identified)",
+        "B": "Ларингоскопия и аугментационная инъекция в голосовую складку при подтверждении пареза возвратного гортанного нерва",
         "C": "Эмпирическая антибиотикотерапия и наложение трахеостомы",
         "D": "Сохранение режима полного голода (NPO) до успешного прохождения логопедической оценки глотания"
       },
@@ -5071,7 +5071,7 @@
         "A": "Дренирование левой плевральной полости",
         "B": "Открытое протезирование аорты",
         "C": "Хирургическая фиксация переломов",
-        "D": "Эндоваскулярное протезирование аорты (TEVAR / endovascular aortic repair)"
+        "D": "Эндоваскулярное протезирование аорты"
       },
       "correctAnswer": "D",
       "explanationEn": "The correct answer is Option D: endovascular aortic repair.\n\n### 🔬 Clinical & Pathophysiological Analysis:\n\n1. **Diagnosis and Grading of Blunt Thoracic Aortic Injury (BTAI):**\n   * The patient presents with a classic deceleration injury following a high-impact motor vehicle crash.\n   * The chest CT scan reveals an aortic transection (BTAI Grade III, contained pseudoaneurysm) at the typical location—the aortic isthmus, beginning 5 mm distal to the left subclavian artery.\n   * At this site, the relatively mobile aortic arch meets the fixed descending thoracic aorta (anchored by the ligamentum arteriosum), generating extreme shear, torsion, and bending forces during rapid deceleration.\n\n2. **Why TEVAR (Option D) is the Gold Standard Treatment:**\n   * According to the Society for Vascular Surgery (SVS) clinical practice guidelines, thoracic endovascular aortic repair (TEVAR) is the absolute first-line treatment of choice for patients with Grade II–IV blunt thoracic aortic injuries.\n   * Landmark clinical trials and meta-analyses demonstrate that endovascular repair is associated with a dramatic survival advantage compared to open surgical repair (mortality of 9% for TEVAR vs. 19% for open repair).\n   * Furthermore, the risk of catastrophic procedure-related complications, such as spinal cord ischemia (SCI) leading to paraplegia and end-stage renal disease (ESRD), is significantly lower with TEVAR than with open repair (paraplegia: 3% vs. 9% in open repair).\n   * Endovascular stent-grafting successfully seals the transected aortic wall minimally invasively, avoiding a traumatic left thoracotomy, single-lung ventilation, and high-dose systemic heparinization in a polytrauma patient.\n\n3. **Why Alternative Options are Clinically Inappropriate or Hazardous:**\n   * **Option A (Left chest tube placement):** Sticking a chest drain into the left hemithorax of a hemodynamically stable patient with a contained aortic transection is extremely dangerous. The left pleural effusion likely represents a contained mediastinal hematoma or reactive fluid. Releasing the pleural pressure (evacuating the hemothorax) can eliminate the current local tamponade effect holding the tear intact, resulting in sudden, uncontrollable, and fatal free rupture of the aorta.\n   * **Option B (Open aortic replacement):** Open repair via posterolateral thoracotomy carries a much higher risk of mortality (19%), paraplegia (9%), and respiratory/renal failure. It is reserved only for patients with unfavorable vascular anatomy who cannot undergo TEVAR.\n   * **Option C (Surgical fracture fixation):** While the patient has skeletal fractures (ribs, clavicle, femur), stabilizing these fractures cannot be performed before securing the aortic transection. Subjecting an untreated contained aortic rupture to the severe hemodynamic fluctuations, operative blood loss, and patient positioning required for orthopedic surgery is highly likely to trigger a fatal free rupture. The aorta must be secured with TEVAR first, after which orthopedic fixation can be safely accomplished.\n\n### 📚 Board Pearl:\n* **Aortic Stability First, Orthopedics Second:** On cardiac surgery and trauma board exams, an untreated Grade III/IV aortic injury takes absolute priority over orthopedic procedures (unless there is an active, life-threatening abdominal hemorrhage or intracranial lesion, which would take priority over a nonbleeding aorta). The aorta must be secured with **TEVAR (Option D)** first.\n* **Avoid Chest Tubes in Contained Transections:** Never place a chest tube empirically for a left pleural effusion in stable BTAI without verifying if it will release the protective mediastinal tamponade.",
@@ -5111,7 +5111,7 @@
       "optionsRu": {
         "A": "Открытое протезирование нисходящей грудной аорты, декомпрессивная краниэктомия, спленэктомия, открытая репозиция и внутренний остеосинтез бедра",
         "B": "Декомпрессивная краниэктомия, консервативное ведение травмы селезенки, внешняя фиксация бедра и открытое протезирование грудной аорты через 48 часов",
-        "C": "Декомпрессивная краниэктомия, внешняя фиксация бедра, консервативное ведение травмы селезенки и эндоваскулярное протезирование аорты (TEVAR) через 48 часов (decompressive craniectomy, external fixation of femur fracture, medical management of the splenic injury, and endovascular repair of aortic injury after 48 hours)",
+        "C": "Декомпрессивная краниэктомия, внешняя фиксация бедра, консервативное ведение травмы селезенки и эндоваскулярное протезирование аорты (TEVAR) через 48 часов",
         "D": "Декомпрессивная краниэктомия, спленэктомия, открытая репозиция и внутренний остеосинтез бедра, эндоваскулярное протезирование аорты через 48 часов"
       },
       "correctAnswer": "C",
@@ -5152,7 +5152,7 @@
       },
       "optionsRu": {
         "A": "Выполнить интубацию трахеи и начать ИВЛ",
-        "B": "Ввести метиленовый синий (administer methylene blue)",
+        "B": "Ввести метиленовый синий",
         "C": "Ввести налоксон",
         "D": "Выполнить ригидную бронхоскопию"
       },
@@ -5192,7 +5192,7 @@
       },
       "optionsRu": {
         "A": "Химический плевродез через установленный плевральный дренаж",
-        "B": "Правосторонняя торакотомия и лигирование грудного протока единым блоком (right thoracotomy and mass ligation of the thoracic duct)",
+        "B": "Правосторонняя торакотомия и лигирование грудного протока единым блоком",
         "C": "Рентгеноскопия пищевода с барием для исключения несостоятельности анастомоза",
         "D": "Эзофагогастродуоденоскопия и стентирование пищевода"
       },
@@ -5232,7 +5232,7 @@
       },
       "optionsRu": {
         "A": "Хирургическая ревизия (реконструкция) анастомоза",
-        "B": "Антибиотики широкого спектра действия и КТ органов грудной клетки (broad-spectrum antibiotics and a chest CT scan)",
+        "B": "Антибиотики широкого спектра действия и КТ органов грудной клетки",
         "C": "Удаление желудочного трансплантата (стебля) и формирование концевой шейной эзофагостомы",
         "D": "Дренирование плевральной полости (плевральный дренаж)"
       },
@@ -5273,7 +5273,7 @@
         "A": "Видеоторакоскопическая (VATS) ревизия левой плевральной полости",
         "B": "Эзофагогастродуоденоскопия (ЭГДС)",
         "C": "Немедленная экстренная лапаротомия",
-        "D": "Декомпрессия желудка с помощью назогастрального зонда (nasogastric tube decompression)"
+        "D": "Декомпрессия желудка с помощью назогастрального зонда"
       },
       "correctAnswer": "D",
       "explanationEn": "The correct answer is Option D: nasogastric tube decompression.\n\n### 🔬 Clinical and Pathophysiological Analysis:\n\n1. **Pathophysiology of Delayed Traumatic Diaphragmatic Hernia (TDH):**\n   * **Initial Injury and Delayed Presentation:** During a high-speed motor vehicle crash (MVC), a sudden, massive increase in intra-abdominal pressure can cause shearing forces that tear the diaphragm. These injuries are more common on the left side (approx. 80-90% of cases) due to the protective cushioning effect of the liver on the right side. Initially, the injury may be asymptomatic, and a standard chest X-ray (CXR) may appear completely normal or show subtle changes that are easily overlooked during acute trauma resuscitation.\n   * **Herniation and Bowel Obstruction:** Over time, the constant pressure gradient between the positive pressure in the abdominal cavity and the negative pressure in the thoracic cavity causes progressive herniation of abdominal viscera (most commonly the stomach, colon, or small bowel) into the chest. This presents late (typically months to years after the initial insult) with symptoms of intestinal or gastric obstruction, such as colicky abdominal pain, severe nausea, and bilious vomiting.\n\n2. **The Principle of Initial Decompression (Why Option D is Correct):**\n   * Regardless of the eventual operative plan, the **immediate and most critical initial step** in managing a patient presenting with intestinal or gastric obstruction secondary to an incarcerated or herniated viscus is **nasogastric (NG) tube decompression**.\n   * **Preventing Gastric/Intestinal Expansion and Strangulation:** Incarcerated stomach or bowel loops in the chest will rapidly expand with gas and fluid. This expansion increases the pressure within the thoracic cavity (causing mass effect and mediastinal shift, which compromises venous return and respiratory mechanics) and directly compresses the intramural blood vessels of the herniated bowel wall, leading to ischemia, necrosis, gangrene, and perforation.\n   * **NG tube placement** immediately evacuates gastric secretions, swallowed air, and fluid. This reduces the intraluminal pressure of the herniated stomach or bowel, halts the vicious cycle of expanding tension, relieves pulmonary compression, improves venous return, and, most importantly, **minimizes the risk of tissue strangulation and necrosis** before definitive surgery is performed.\n\n3. **Why Alternative Options are Incorrect:**\n   * **Option A (Left VATS exploration of chest):** While minimally invasive thoracoscopy (VATS) or laparoscopy are excellent options for the definitive repair of a delayed diaphragmatic hernia once the patient is stabilized, starting with an operative chest exploration before basic stabilization and GI tract decompression is inappropriate and dangerous. Performing surgery on a highly distended, un-decompressed stomach in the chest increases the risk of accidental intraoperative perforation and aspiration.\n   * **Option B (Esophagogastroduodenoscopy - EGD):** Endoscopy is not indicated as an initial step. It carries a high risk of iatrogenic perforation of the compromised, ischemic, and thinned wall of the herniated stomach. Furthermore, insufflation of air during EGD will catastrophically increase intraluminal pressure, worsening the herniation and compromising respiratory status.\n   * **Option C (Immediate emergency laparotomy):** Immediate emergency surgery is not the very next step. The patient must first be resuscitated, and the gastrointestinal tract must be decompressed with an NG tube (Option D) to stabilize hemodynamics and respiration. Once stabilized, the patient can be taken for definitive repair (via laparotomic, laparoscopic, thoracotomic, or thoracoscopic approaches depending on the presence of adhesions or bowel compromise). Jumping to emergency surgery without pre-operative decompression is a tactical error.",
@@ -5308,7 +5308,7 @@
         "D": "sputum culture"
       },
       "optionsRu": {
-        "A": "Фибробронхоскопия (flexible bronchoscopy)",
+        "A": "Фибробронхоскопия",
         "B": "Эмпирическая антибиотикотерапия",
         "C": "Компьютерная томография органов грудной клетки",
         "D": "Посев мокроты"
@@ -5345,7 +5345,7 @@
         "D": "thoracoscopic exploration"
       },
       "optionsRu": {
-        "A": "Компьютерная томография органов грудной клетки (CT scan of the chest)",
+        "A": "Компьютерная томография органов грудной клетки",
         "B": "Установка дополнительной плевральной дренажной трубки",
         "C": "Внутриплевральная фибринолитическая терапия",
         "D": "Торакоскопическая ревизия (VATS)"
@@ -5387,7 +5387,7 @@
         "D": "bronchoscopy and esophagoscopy"
       },
       "optionsRu": {
-        "A": "КТ с контрастным усилением органов грудной клетки, брюшной полости и малого таза (CT scan with contrast of the chest, abdomen, and pelvis)",
+        "A": "КТ с контрастным усилением органов грудной клетки, брюшной полости и малого таза",
         "B": "Срединная стернотомия",
         "C": "Правосторонняя торакоскопическая ревизия (VATS)",
         "D": "Бронхоскопия и эзофагоскопия"
@@ -5426,7 +5426,7 @@
         "A": "Правосторонняя торакотомия",
         "B": "Эзофагоскопия",
         "C": "Бронхоскопия",
-        "D": "Динамическое наблюдение (close observation)"
+        "D": "Динамическое наблюдение"
       },
       "correctAnswer": "D",
       "explanationEn": "<h3>🎯 Correct Answer</h3><p>The correct answer is <b>D: close observation</b>.</p><br><h3>🔬 <b>Detailed Clinical and Pathophysiological Rationale:</b></h3><p>This patient presented with <b>isolated pneumomediastinum</b> following blunt chest trauma from a high-speed motor vehicle crash with airbag deployment. Critically, the patient is completely <b>asymptomatic</b> (alert, oriented, stable vital signs, normal phonation, no dyspnea, no dysphagia, no subcutaneous emphysema, no hemoptysis).</p><ol><li><b>Pathophysiology of Pneumomediastinum in Blunt Trauma (The Macklin Effect):</b><br>In blunt thoracic trauma, the overwhelming majority (> 95%) of pneumomediastinum cases are caused by the <b>Macklin effect</b>. Blunt impact (or rapid deceleration / airbag strike) causes a sudden surge in intra-alveolar pressure, leading to alveolar rupture. Air escapes into the interstitial space and dissects along the bronchovascular sheaths toward the pulmonary hilum and into the mediastinum. Air can then track into the subcutaneous tissues of the neck or retroperitoneum. Importantly, the Macklin effect is a <i>benign, self-limiting process</i> that resolves spontaneously as the air is reabsorbed over several days.</li><li><b>Low Yield of Invasive Diagnostic Workup in Asymptomatic Patients:</b><br>Historically, any presence of pneumomediastinum prompted mandatory invasive diagnostic testing (bronchoscopy, esophagoscopy, contrast esophagogram) to rule out tracheobronchial tree or esophageal rupture. However, extensive modern trauma registry data and guidelines demonstrate that in <b>hemodynamically stable, asymptomatic patients with isolated pneumomediastinum</b>, the yield of aerodigestive tract injury is virtually 0%.</li><li><b>Indications for Invasive Testing vs. Observation:</b><br>Routine invasive testing is <b>not recommended</b> for asymptomatic isolated blunt pneumomediastinum. Invasive workup (Option B and C) is strictly reserved for patients who exhibit specific red-flag clinical or CT signs:<ul><li><b>Bronchoscopy (Option C):</b> Indicated only if there is massive subcutaneous emphysema, persistent large pneumothorax / air leak despite chest tube, hoarseness, hemoptysis, or CT evidence of tracheobronchial wall disruption.</li><li><b>Esophagoscopy / Esophagogram (Option B):</b> Indicated only if there is severe dysphagia, odynophagia, hematemesis, pleural effusion, or CT evidence of esophageal wall thickening, periesophageal air-fluid collection, or contrast extravasation.</li><li><b>Right Thoracotomy (Option A):</b> Highly invasive and completely inappropriate in a stable, asymptomatic patient with benign blunt pneumomediastinum.</li></ul></li><li><b>Definitive Management (Option D):</b><br>In the absence of clinical signs of aerodigestive injury, the patient should be managed conservatively with <b>close observation</b>, bed rest, analgesia, and serial physical examinations. Repeat imaging is required only if the patient develops new respiratory distress, fever, dysphagia, or subcutaneous emphysema.</li></ol><h3>📚 <b>Board Pearl:</b></h3><p><mark style=\"background:#2ecc71;color:#fff\">For thoracic trauma and critical care board exams, remember: <b>Blunt Trauma + Isolated Pneumomediastinum in an ASYMPTOMATIC Patient = Close Observation (Option D)</b>. The vast majority of cases represent the benign <b>Macklin effect</b> (alveolar rupture with peribronchial air dissection). Routine invasive bronchoscopy or esophagoscopy is unnecessary unless red-flag symptoms (dysphagia, hoarseness, massive air leak, hemoptysis) or CT signs of injury are present.</mark></p><h3>🔥 <b>Mnemonic / Memory Aid:</b></h3><p>Remember the management rule with <b>\"M-A-C-K-L-I-N\"</b>:</p><ul><li><b>M</b> — <b>M</b>acklin effect: alveolar rupture from blunt chest impact (airbag).</li><li><b>A</b> — <b>A</b>symptomatic patients need NO invasive procedures.</li><li><b>C</b> — <b>C</b>lose observation (Option D) is the gold standard conservative strategy.</li><li><b>K</b> — <b>K</b>eep off invasive testing (bronchoscopy/esophagoscopy) unless red flags appear.</li><li><b>L</b> — <b>L</b>ow yield of aerodigestive injury in isolated blunt pneumomediastinum.</li><li><b>I</b> — <b>I</b>solated pneumomediastinum resolves spontaneously as air is reabsorbed.</li><li><b>N</b> — <b>N</b>ormal phonation and no dyspnea confirm absence of airway rupture.</li></ul>",
@@ -5461,7 +5461,7 @@
       },
       "optionsRu": {
         "A": "Эмпирическая антибиотикотерапия",
-        "B": "Фибробронхоскопия (flexible bronchoscopy)",
+        "B": "Фибробронхоскопия",
         "C": "Установка второго плеврального дренажа",
         "D": "Ингаляционная небулайзерная терапия"
       },
@@ -5499,7 +5499,7 @@
       "optionsRu": {
         "A": "Снять ЭКГ и определить уровень тропонина",
         "B": "Выполнить обзорную рентгенографию грудной клетки",
-        "C": "Экстренная реторакотомия (emergent re-thoracotomy)",
+        "C": "Экстренная реторакотомия",
         "D": "Чреспищеводная эхокардиография (ЧП-ЭхоКГ)"
       },
       "correctAnswer": "C",
@@ -5537,7 +5537,7 @@
       },
       "optionsRu": {
         "A": "анатомическая резекция легкого",
-        "B": "рентгенэндоваскулярная эмболизация (radiologic embolization)",
+        "B": "рентгенэндоваскулярная эмболизация",
         "C": "повторная КТ через 3 месяца",
         "D": "краевая (клиновидная) резекция легкого"
       },
@@ -5573,7 +5573,7 @@
       },
       "optionsRu": {
         "A": "эндоскопическая дилатация и стентирование",
-        "B": "эзофагогастрэктомия с удалением сетчатого протеза (esophagogastrectomy and mesh removal)",
+        "B": "эзофагогастрэктомия с удалением сетчатого протеза",
         "C": "первичное ушивание пищевода и удаление сетчатого протеза",
         "D": "повторная фундопликация с удалением сетчатого протеза"
       },
@@ -5611,7 +5611,7 @@
       "optionsRu": {
         "A": "добавление нестероидных противовоспалительных средств (НПВС)",
         "B": "активный диурез и лечебная бронхоскопия",
-        "C": "стабилизация грудной стенки с остеосинтезом ребер пластинами (chest wall stabilization with rib plating)",
+        "C": "стабилизация грудной стенки с остеосинтезом ребер пластинами",
         "D": "трахеостомия и длительное отлучение от аппарата ИВЛ"
       },
       "correctAnswer": "C",
@@ -5648,7 +5648,7 @@
       "optionsRu": {
         "A": "будет обеспечен косметически более совершенный результат по сравнению с открытой операцией Равича",
         "B": "потребуется меньший объем обезболивающих препаратов по сравнению с открытой операцией Равича",
-        "C": "потребуется удаление фиксирующей пластины через срок более 3 лет (require strut removal after more than 3 years)",
+        "C": "потребуется удаление фиксирующей пластины через срок более 3 лет",
         "D": "будет свойственно стойкое прогрессивное улучшение показателей функции внешнего дыхания (ФВД) со временем"
       },
       "correctAnswer": "C",
@@ -5682,7 +5682,7 @@
       },
       "optionsRu": {
         "A": "анатомическая лобэктомия",
-        "B": "трактотомия легкого (pulmonary tractotomy)",
+        "B": "трактотомия легкого",
         "C": "ревизия и устранение повреждений средостения",
         "D": "простое ушивание паренхиматозных раневых отверстий (пневмоноррафия)"
       },
@@ -5720,7 +5720,7 @@
       "optionsRu": {
         "A": "адъювантная полихимиотерапия на основе препаратов платины",
         "B": "адъювантная лучевая терапия на область аппаратного шва",
-        "C": "ежегодный динамический контроль с помощью КТ (annual CT scan surveillance)",
+        "C": "ежегодный динамический контроль с помощью КТ",
         "D": "радикальная лобэктомия с медиастинальной лимфодиссекцией"
       },
       "correctAnswer": "C",
@@ -5761,7 +5761,7 @@
       "optionsRu": {
         "A": "продолжение динамического рентгенологического наблюдения",
         "B": "правосторонняя нижняя лобэктомия с лимфодиссекцией и наблюдение за очагом в ЛВД",
-        "C": "сегментэктомия верхушечного сегмента (S6) правой нижней доли с лимфодиссекцией и наблюдение за очагом в ЛВД (right superior segmentectomy with lymphadenectomy and observation of LUL lesion)",
+        "C": "сегментэктомия верхушечного сегмента правой нижней доли с лимфодиссекцией и наблюдение за очагом в ЛВД",
         "D": "двухэтапная операция: резекция очага в ПНД и левосторонняя верхняя лобэктомия"
       },
       "correctAnswer": "C",
@@ -5798,7 +5798,7 @@
       "optionsRu": {
         "A": "антибиотики широкого спектра действия",
         "B": "дренирование плевральной полости плевральным дренажем",
-        "C": "торакоскопическая биопсия плевры (thoracoscopic pleural biopsy)",
+        "C": "торакоскопическая биопсия плевры",
         "D": "торакотомия с декортикацией легкого"
       },
       "correctAnswer": "C",
@@ -5839,7 +5839,7 @@
       "optionsRu": {
         "A": "прекратить резекцию и направить пациента на радикальную химиолучевую терапию",
         "B": "лобэктомия en-bloc с резекцией вовлеченного участка артерии и первичным линейным швом артерии",
-        "C": "лобэктомия en-bloc с циркулярной резекцией легочной артерии (ангиопластическая / sleeve-резекция) (lobectomy en-bloc with arterial sleeve resection)",
+        "C": "лобэктомия en-bloc с циркулярной резекцией легочной артерии (ангиопластическая / sleeve-резекция)",
         "D": "пневмонэктомия"
       },
       "correctAnswer": "C",
@@ -5873,8 +5873,8 @@
       },
       "optionsRu": {
         "A": "радикальная одновременная химиолучевая терапия",
-        "B": "индукционная (неоадъювантная) химиолучевая терапия с последующей лобэктомией единым блоком с резекцией/реконструкцией подключичной артерии (induction chemoradiotherapy, then lobectomy en bloc with subclavian resection/reconstruction)",
-        "C": "первичная лобэктомия единым блоком с резекцией/реконструкцией подключичной артерии передним доступом Дартевеля (Dartevelle)",
+        "B": "индукционная (неоадъювантная) химиолучевая терапия с последующей лобэктомией единым блоком с резекцией/реконструкцией подключичной артерии",
+        "C": "первичная лобэктомия единым блоком с резекцией/реконструкцией подключичной артерии передним доступом Дартевеля",
         "D": "краевая резекция легкого единым блоком с резекцией/реконструкцией подключичной артерии через заднебоковую торакотомию"
       },
       "correctAnswer": "B",
@@ -5907,7 +5907,7 @@
         "D": "place chest drains into the largest bulla (Monaldi drains)"
       },
       "optionsRu": {
-        "A": "отсоединить эндотрахеальную трубку от аппарата ИВЛ и обеспечить продленный выдох (disconnect the endotracheal tube from the ventilator and allow a long expiration)",
+        "A": "отсоединить эндотрахеальную трубку от аппарата ИВЛ и обеспечить продленный выдох",
         "B": "выполнить экстренную срединную стернотомию и резекцию легкого",
         "C": "установить плевральные дренажи с обеих сторон по поводу двустороннего пневмоторакса",
         "D": "установить дренажи в наибольшие буллы (дренирование по Мональди)"
@@ -5944,7 +5944,7 @@
       "optionsRu": {
         "A": "двусторонняя хирургическая редукция объема легких (LVRS)",
         "B": "установка эндобронхиальных клапанов в апикальные целевые зоны",
-        "C": "обследование и решение вопроса о включении в лист ожидания трансплантации легких (evaluation and possible listing for lung transplantation)",
+        "C": "обследование и решение вопроса о включении в лист ожидания трансплантации легких",
         "D": "дальнейшая оптимизация медикаментозной терапии"
       },
       "correctAnswer": "C",
@@ -5983,7 +5983,7 @@
       "optionsRu": {
         "A": "госпитализация в отделение реанимации и интенсивной терапии для антибиотикотерапии и интубации трахеи",
         "B": "выполнение диагностической фибробронхоскопии у постели больного",
-        "C": "установка правостороннего плеврального дренажа и укладывание пациентки на правый бок (пораженную сторону) (place a right chest tube and position the patient with the right side down)",
+        "C": "установка правостороннего плеврального дренажа и укладывание пациентки на правый бок (пораженную сторону)",
         "D": "экстренный перевод в операционную для реторакотомии и пластики культи бронха"
       },
       "correctAnswer": "C",
@@ -6023,7 +6023,7 @@
         "A": "радикальная одновременная химиолучевая терапия",
         "B": "эзофагэктомия с последующей адъювантной химиолучевой терапией",
         "C": "эзофагэктомия с последующей адъювантной химиотерапией",
-        "D": "индукционная (неоадъювантная) химиолучевая терапия с последующей операцией (induction chemoradiotherapy)"
+        "D": "индукционная (неоадъювантная) химиолучевая терапия с последующей операцией"
       },
       "correctAnswer": "D",
       "explanationEn": "In locally advanced, resectable esophageal adenocarcinoma (clinical T3 or node-positive disease), trimodality therapy with neoadjuvant (induction) chemoradiotherapy followed by surgical resection (Option D) offers the highest overall survival and greatest probability of cure, as established by the landmark CROSS trial. Preoperative multimodal therapy downstages the tumor, maximizes the R0 (microscopically negative margin) resection rate to over 90%, and yields a complete pathological response (pCR) in 25%–30% of adenocarcinomas, boosting 5-year overall survival from ~15%–18% with surgery or chemoradiation alone up to 40%–50%. Although this patient is staged as cN0 on imaging, T3 esophageal tumors harbor occult nodal metastases in up to 50% of cases upon final pathology. Furthermore, poorly controlled hyperglycemia significantly impairs FDG uptake on PET-CT by competitively inhibiting GLUT transporter binding of radiolabeled fluorodeoxyglucose, causing false-negative evaluations in regional nodal stations. Upfront esophagectomy followed by adjuvant chemoradiotherapy or chemotherapy (Options B and C) is associated with higher local recurrence rates, worse systemic tolerance, and inferior survival compared to the neoadjuvant sequence. Definitive chemoradiotherapy alone without resection (Option A) has equivalent survival to surgery alone in squamous cell carcinoma, but in adenocarcinoma it results in high local persistence/recurrence rates and inferior overall survival compared to trimodality treatment.",
@@ -6058,7 +6058,7 @@
         "A": "химиотерапия на основе препаратов платины с одновременной лучевой терапией на область поражения ВДП",
         "B": "правосторонняя верхняя лобэктомия с последующей химио- и лучевой терапией",
         "C": "системная таргетная терапия ингибиторами тирозинкиназы EGFR",
-        "D": "системная терапия пембролизумабом (systemic therapy with pembrolizumab)"
+        "D": "системная терапия пембролизумабом"
       },
       "correctAnswer": "D",
       "explanationEn": "🎯 <b>Correct answer: Option D: systemic therapy with pembrolizumab.</b><br><br>🔵 <b>Detailed Rationale:</b><br>This patient presents with metastatic (Stage IVB, cT2bN2M1c) non-small cell lung cancer (adenocarcinoma) with multiple distant systemic metastases (thoracic spine and right adrenal gland).<br><br>1️⃣ <b>Disseminated Stage IV Disease:</b> In stage IV metastatic disease, primary surgical resection (Option B) is strictly contraindicated as it provides no survival benefit and delays effective systemic therapy.<br>2️⃣ <b>Absence of Actionable Driver Mutations:</b> Systemic targeted therapy with EGFR tyrosine kinase inhibitors (Option C) or ALK inhibitors is indicated exclusively in the presence of sensitizing driver alterations (e.g., EGFR exon 19 deletion or L858R mutation). Molecular testing in this patient is negative for driver alterations.<br>3️⃣ <b>Inapplicability of Chemoradiation:</b> Concurrent chemoradiotherapy (Option A) is the standard of care for unresectable locally advanced Stage III NSCLC, but has no curative or primary role in widely metastatic disease.<br>4️⃣ <b>First-Line Immunotherapy (Option D):</b> According to landmark practice-changing clinical trials (<b>KEYNOTE-024</b> and <b>KEYNOTE-042</b>), first-line monotherapy with the anti-PD-1 immune checkpoint inhibitor 💠<b>pembrolizumab</b>💠 is the standard of care for patients with advanced/metastatic NSCLC without driver mutations whose tumors express high PD-L1 levels (<mark>TPS ≥ 50%</mark>, here <b>75%</b>). Pembrolizumab monotherapy significantly superiorly improves overall survival (OS) and progression-free survival (PFS) compared to double-platinum chemotherapy, while demonstrating a far more favorable safety profile.<br><br>🧠 <b>Board Pearl:</b><br>Metastatic NSCLC (Stage IV) without driver mutations (EGFR/ALK-) + High PD-L1 expression (TPS ≥ 50%) ➡️ First-line treatment of choice: <b>Pembrolizumab monotherapy (Option D)</b>!",
@@ -6092,7 +6092,7 @@
         "D": "venous reconstruction"
       },
       "optionsRu": {
-        "A": "резекция первого ребра (first rib resection)",
+        "A": "резекция первого ребра",
         "B": "длительная антикоагулянтная терапия",
         "C": "установка венозного стента",
         "D": "реконструкция подключичной вены"
@@ -6129,7 +6129,7 @@
       "optionsRu": {
         "A": "адъювантной терапии кризотинибом",
         "B": "адъювантной терапии эрлотинибом",
-        "C": "адъювантной химиотерапии на основе препаратов платины (adjuvant platinum-based chemotherapy)",
+        "C": "адъювантной химиотерапии на основе препаратов платины",
         "D": "комбинации адъювантной платиносодержащей химиотерапии и эрлотиниба"
       },
       "correctAnswer": "C",
@@ -6165,7 +6165,7 @@
         "A": "антибактериальную терапию препаратами широкого спектра действия",
         "B": "катетеризацию центральной вены",
         "C": "обязательную интубацию трахеи и искусственную вентиляцию легких",
-        "D": "адекватное обезболивание и инфузионную терапию (pain management and fluid resuscitation)"
+        "D": "адекватное обезболивание и инфузионную терапию"
       },
       "correctAnswer": "D",
       "explanationEn": "🎯 <b>Correct answer: Option D: pain management and fluid resuscitation.</b><br><br>🔵 <b>Detailed Rationale:</b><br>The clinical presentation and radiographic findings (focal nonsegmental opacification underlying multiple fractured ribs) are classic for blunt thoracic trauma with multiple rib fractures and an underlying pulmonary contusion.<br><br>1️⃣ <b>Multimodal Analgesia and Fluid Resuscitation (Option D):</b> The cornerstone of initial management is multimodal analgesia (e.g., regional techniques like epidural, paravertebral, or erector spinae plane blocks, alongside systemic non-opioid and opioid analgesics) to prevent chest wall splinting, hypoventilation, and secondary atelectasis. This is paired with judicious, balanced fluid resuscitation to restore intravascular volume while avoiding hypervolemic worsening of alveolar edema in the contused lung.<br>2️⃣ <b>Antibiotic Prophylaxis (Option A):</b> Prophylactic broad-spectrum antibiotics are not indicated for blunt pulmonary contusions in the absence of verified infectious pneumonia, as they select for resistant pathogens without reducing infectious complications.<br>3️⃣ <b>Vascular Access (Option B):</b> For initial trauma resuscitation, peripheral large-bore intravenous catheters (e.g., 14G or 16G) are superior to central venous catheterization due to lower flow resistance (Poiseuille's law) and faster insertion without risking iatrogenic pneumothorax.<br>4️⃣ <b>Mechanical Ventilation (Option C):</b> Obligatory endotracheal intubation is inappropriate for an alert, communicating patient with acceptable gas exchange on minimal oxygen supplementation; mechanical ventilation is reserved strictly for progressive respiratory exhaustion or failure refractory to noninvasive methods and adequate pain relief.<br><br>🧠 <b>Board Pearl:</b><br>Blunt chest trauma with rib fractures and pulmonary contusion requires <b>multimodal pain control and balanced fluid resuscitation (Option D)</b> as the initial standard of care.",
@@ -6198,8 +6198,8 @@
       },
       "optionsRu": {
         "A": "КТ органов грудной клетки с внутривенным контрастированием",
-        "B": "двусторонняя переднебоковая торакотомия («clamshell thoracotomy»)",
-        "C": "фибробронхоскопия (flexible bronchoscopy)",
+        "B": "двусторонняя переднебоковая торакотомия",
+        "C": "фибробронхоскопия",
         "D": "установка дополнительного плеврального дренажа справа"
       },
       "correctAnswer": "C",
@@ -6234,7 +6234,7 @@
       "optionsRu": {
         "A": "эндоскопическая резекция слизистой оболочки (EMR) измененного участка",
         "B": "прицельная биопсия бледных участков в пределах патологической слизистой оболочки",
-        "C": "выполнение четырехквадрантной биопсии через каждый сантиметр измененной слизистой оболочки (obtain four-quadrant biopsies every centimeter of abnormal mucosa)",
+        "C": "выполнение четырехквадрантной биопсии через каждый сантиметр измененной слизистой оболочки",
         "D": "браш-биопсия (цитологический соскоб) любых приподнятых участков патологической слизистой оболочки"
       },
       "correctAnswer": "C",
@@ -6269,7 +6269,7 @@
       "optionsRu": {
         "A": "контрольная томография (КТ) через 3 месяца",
         "B": "облучение средостения",
-        "C": "химиотерапия на основе препаратов платины (platinum-based chemotherapy)",
+        "C": "химиотерапия на основе препаратов платины",
         "D": "повторная резекция культи бронха"
       },
       "correctAnswer": "C",
@@ -6303,7 +6303,7 @@
       },
       "optionsRu": {
         "A": "левосторонняя верхняя лобэктомия с медиастинальной лимфаденэктомией",
-        "B": "лингулэктомия (анатомическая сегментэктомия S4–S5) с лимфодиссекцией корня легкого и средостения (lingulectomy with hilar and mediastinal lymphadenectomy)",
+        "B": "лингулэктомия (анатомическая сегментэктомия S4–S5) с лимфодиссекцией корня легкого и средостения",
         "C": "радиочастотная абляция первичной опухоли",
         "D": "краевая (клиновидная) резекция с краем отступа не менее 5 мм"
       },
@@ -6377,7 +6377,7 @@
       },
       "optionsRu": {
         "A": "длинный сегмент пищевода Барретта",
-        "B": "низкий уровень воздействия кислоты на пищевод (low esophageal acid exposure)",
+        "B": "низкий уровень воздействия кислоты на пищевод",
         "C": "умеренно выраженный эзофагит при эндоскопии",
         "D": "наличие грыжи пищеводного отверстия диафрагмы"
       },
@@ -6410,8 +6410,8 @@
         "D": "“waist” effect of the lower esophageal sphincter"
       },
       "optionsRu": {
-        "A": "расположение желудочной жировой подушки (gastric fat pad)",
-        "B": "проксимальная граница складок слизистой оболочки желудка (proximal extent of the gastric rugal folds)",
+        "A": "расположение желудочной жировой подушки",
+        "B": "проксимальная граница складок слизистой оболочки желудка",
         "C": "зона перехода метаплазированного эпителия в желудочный эпителий",
         "D": "эффект «талии» (сужения) нижнего пищеводного сфинктера"
       },
@@ -6444,7 +6444,7 @@
         "D": "surgical decortication"
       },
       "optionsRu": {
-        "A": "антибактериальная терапия (antibiotic therapy)",
+        "A": "антибактериальная терапия",
         "B": "установка плеврального дренажа крупного калибра",
         "C": "формирование открытого торакостомического окна с тампонадой (операция Элоэссера)",
         "D": "хирургическая декортикация легкого"
@@ -6480,7 +6480,7 @@
       },
       "optionsRu": {
         "A": "индукционная терапия с последующей резекцией",
-        "B": "динамическое наблюдение (observation)",
+        "B": "динамическое наблюдение",
         "C": "только хирургическая резекция",
         "D": "трансторакальная пункционная биопсия"
       },
@@ -6516,7 +6516,7 @@
       "optionsRu": {
         "A": "метастаз рака толстой кишки",
         "B": "шваннома",
-        "C": "мелкоклеточный рак легкого (small cell lung carcinoma)",
+        "C": "мелкоклеточный рак легкого",
         "D": "плоскоклеточный рак легкого"
       },
       "correctAnswer": "C",
@@ -6549,7 +6549,7 @@
         "D": "repeat surveillance endoscopy in 3 months"
       },
       "optionsRu": {
-        "A": "эзофагэктомия (esophagectomy)",
+        "A": "эзофагэктомия",
         "B": "радиочастотная абляция оставшейся метаплазированной слизистой оболочки Барретта",
         "C": "повторная более глубокая эндоскопическая резекция слизистой оболочки",
         "D": "повторная контрольная эндоскопия через 3 месяца"
@@ -6587,7 +6587,7 @@
         "A": "только дренирование плевральной полости",
         "B": "интраплевральное введение только ДНКазы",
         "C": "интраплевральное введение стрептокиназы",
-        "D": "комбинированное интраплевральное введение тканевого активатора плазминогена (t-PA) и ДНКазы (intrapleural t-PA combined with DNase)"
+        "D": "комбинированное интраплевральное введение тканевого активатора плазминогена и ДНКазы"
       },
       "correctAnswer": "D",
       "explanationEn": "🎯 <b>Correct answer: Option D: intrapleural t-PA combined with DNase.</b><br><br>🔵 <b>Detailed Rationale:</b><br>The patient presents with a complicated parapneumonic effusion / empyema (loculated fluid, pH < 7.20, positive Gram stain for Gram-negative rods) that is failing standard tube thoracostomy due to dense fibrinous septations and high fluid viscosity.<br><br>1️⃣ <b>Evidence-Based Standard (MIST2 Trial):</b> The landmark MIST2 (Second Multicenter Intrapleural Sepsis Trial) study definitively proved that intrapleural administration of tissue plasminogen activator (t-PA, 10 mg) combined with recombinant human deoxyribonuclease (DNase, 5 mg) twice daily for 3 days significantly improves radiographic pleural fluid clearance, reduces hospital length of stay, and drastically lowers the need for surgical decortication (surgical referral 4% vs 16% for placebo; OR ~0.17).<br>2️⃣ <b>Synergistic Mechanism of Action:</b><br>• <i>t-PA (Fibrinolytic):</i> Cleaves intrapleural fibrin bonds and degrades loculating adhesions/septations.<br>• <i>DNase (Mucolytic):</i> Degrades free extracellular DNA released by lysed leukocytes and bacteria, which is the primary driver of high pus viscosity.<br>3️⃣ <b>Analysis of Incorrect Options:</b><br>• <i>Chest tube drainage alone (Option A):</i> Ineffective for multiloculated, viscous empyemas with persistent drainage failure.<br>• <i>Intrapleural DNase alone (Option B):</i> In MIST2, DNase monotherapy failed to improve drainage and was paradoxically associated with higher surgical referral rates (39% vs 16%).<br>• <i>Intrapleural streptokinase (Option C):</i> Proven ineffective for reducing surgical referrals or improving outcomes in the MIST1 trial.<br><br>🧠 <b>Board Pearl:</b><br>Combined intrapleural t-PA + DNase (Option D) is the non-surgical treatment of choice for complicated parapneumonic effusions/empyema failing chest tube drainage, reducing surgical decortication rates by ~80%.",
@@ -6621,7 +6621,7 @@
       },
       "optionsRu": {
         "A": "контрольная КТ через 3 месяца",
-        "B": "МРТ грудного отдела позвоночника (MRI of the thoracic spine)",
+        "B": "МРТ грудного отдела позвоночника",
         "C": "правосторонняя трансторакальная резекция",
         "D": "стереотаксическая лучевая терапия"
       },
@@ -6661,7 +6661,7 @@
       },
       "optionsRu": {
         "A": "эндоскопическая тонкоигольная аспирационная биопсия (ТАБ) для цитологического исследования",
-        "B": "динамическое наблюдение (observation)",
+        "B": "динамическое наблюдение",
         "C": "торакоскопическая энуклеация",
         "D": "терапия иматинибом"
       },
@@ -6694,9 +6694,9 @@
         "D": "repeat endoscopy in 6 months"
       },
       "optionsRu": {
-        "A": "эндоскопическая подслизистая диссекция (ESD)",
+        "A": "эндоскопическая подслизистая диссекция",
         "B": "эзофагэктомия по типу Айвора Льюиса",
-        "C": "малоинвазивная энуклеация (minimally invasive enucleation)",
+        "C": "малоинвазивная энуклеация",
         "D": "повторная эндоскопия через 6 месяцев"
       },
       "correctAnswer": "C",
@@ -6730,7 +6730,7 @@
       },
       "optionsRu": {
         "A": "бронхоскопия с бронхоальвеолярным лаважем",
-        "B": "эндобронхиальное ультразвуковое исследование с пункционной биопсией (endobronchial ultrasound with biopsy)",
+        "B": "эндобронхиальное ультразвуковое исследование с пункционной биопсией",
         "C": "медиастиноскопия",
         "D": "позитронно-эмиссионная томография (ПЭТ)"
       },
@@ -6765,7 +6765,7 @@
       },
       "optionsRu": {
         "A": "радикальная химиолучевая терапия",
-        "B": "эндоскопическая резекция слизистой оболочки (endoscopic mucosal resection)",
+        "B": "эндоскопическая резекция слизистой оболочки",
         "C": "эзофагэктомия по типу Айвора Льюиса",
         "D": "стереотаксическая лучевая терапия"
       },
@@ -6799,7 +6799,7 @@
         "D": "surgical fundoplication"
       },
       "optionsRu": {
-        "A": "эндоскопическая резекция слизистой оболочки (EMR) узловых образований (endoscopic mucosal resection of the nodules)",
+        "A": "эндоскопическая резекция слизистой оболочки (EMR) узловых образований",
         "B": "радиочастотная абляция слизистой оболочки Барретта",
         "C": "повторная эндоскопия с биопсией через 4 месяца",
         "D": "хирургическая фундопликация"
@@ -6873,9 +6873,9 @@
       },
       "optionsRu": {
         "A": "завершить формирование анастомоза и провести адъювантную химиолучевую терапию",
-        "B": "завершить формирование анастомоза и провести адъювантную лучевую терапию (complete the anastomosis and give adjuvant radiation therapy)",
+        "B": "завершить формирование анастомоза и провести адъювантную лучевую терапию",
         "C": "выполнить Nd:YAG-лазерную коагуляцию положительного края резекции, затем сформировать анастомоз",
-        "D": "выполнить дополнительную резекцию трахеи с мобилизацией корня легкого (hilar release)"
+        "D": "выполнить дополнительную резекцию трахеи с мобилизацией корня легкого"
       },
       "correctAnswer": "B",
       "explanationEn": "🎯 <b>Correct answer: Option B: complete the anastomosis and give adjuvant radiation therapy.</b><br><br>🔵 <b>Detailed Rationale:</b><br>Adenoid cystic carcinoma (ACC) of the airway is characterized by extensive, insidious longitudinal submucosal and perineural infiltration that frequently extends well beyond gross macroscopic margins.<br><br>1️⃣ <b>Anastomotic Tension vs. Microscopic Margins (Option B):</b><br>The maximal safe limit for primary end-to-end tracheal resection and reconstruction in adults is generally around 4 cm (approximately 50% of total tracheal length). Exceeding this threshold exponentially increases anastomotic tension, which is the single greatest risk factor for catastrophic anastomotic ischemia, separation, dehiscence, or tracheoinnominate fistula. Clinical experience demonstrates that accepting an R1 resection (microscopic positive margin) followed by adjuvant external beam radiotherapy achieves excellent long-term local disease control and overall survival rates comparable to R0 resection, avoiding the catastrophic morbidity of anastomotic failure.<br><br>2️⃣ <b>Analysis of Incorrect Options:</b><br>• <i>Adjuvant chemoradiation (Option A):</i> Adding concurrent chemotherapy provides no proven survival benefit because ACC is chemoresistant and lacks standardized adjuvant chemotherapy regimens.<br>• <i>Nd:YAG laser to margin (Option C):</i> Thermal laser injury damages the microvascular submucosal plexus of the remaining cartilaginous ring, predisposing the anastomosis to ischemic necrosis and fatal breakdown.<br>• <i>Additional resection + hilar release (Option D):</i> Hilar release maneuvers primarily mobilize the lower thoracic trachea and carina and provide minimal additional length for high cervical tracheal resections while substantially increasing operative trauma.<br><br>🧠 <b>Board Pearl:</b><br>In tracheal resection for adenoid cystic carcinoma, accepting a microscopic positive margin (R1) followed by adjuvant radiation (Option B) is far safer than pushing resection limits beyond 4 cm, which risks fatal anastomotic dehiscence.",
@@ -6910,7 +6910,7 @@
         "A": "химиотерапия по схеме CHOP (циклофосфамид, доксорубицин, винкристин, преднизолон)",
         "B": "лапаротомия с циторедуктивной резекцией всех макроскопических очагов",
         "C": "лучевая терапия на верхний этаж брюшной полости",
-        "D": "редукция иммуносупрессивной терапии в комбинации с ритуксимабом (reduce immunosuppression and treat with rituximab)"
+        "D": "редукция иммуносупрессивной терапии в комбинации с ритуксимабом"
       },
       "correctAnswer": "D",
       "explanationEn": "This clinical vignette represents post-transplant lymphoproliferative disorder (PTLD). Lung transplant recipients carry the highest incidence of PTLD among solid-organ recipients (3%–8%), with the single greatest risk factor being EBV seromismatch (EBV-negative recipient receiving an EBV-positive allograft, conferring up to a 20-fold increased risk). Unchecked EBV-driven B-cell proliferation occurs due to pharmacologic T-cell suppression. The universal, guideline-directed first step in PTLD management is the reduction of immunosuppression (RIS) to restore host cytotoxic T-lymphocyte surveillance against EBV-infected B-cells, paired with the anti-CD20 monoclonal antibody rituximab (Option D). Rituximab achieves high overall response rates (50%–80%) in CD20-positive disease with substantially lower toxicity and allograft rejection risk than cytotoxic chemotherapy. Systemic CHOP chemotherapy (Option A) is reserved as second-line salvage therapy for disease refractory to rituximab or aggressive CD20-negative / EBV-negative lymphomas. Surgical debulking (Option B) provides no systemic control for this disseminated multicentric lymphoproliferative disorder and is reserved only for acute mechanical complications such as bowel perforation, severe obstruction, or uncontrolled gastrointestinal bleeding. Radiation therapy (Option C) is reserved strictly for localized central nervous system PTLD or palliative focal symptom control.",
@@ -6942,7 +6942,7 @@
         "D": "treat the patient with meropenem and ceftazidime and then list for bilateral lung transplant"
       },
       "optionsRu": {
-        "A": "сообщить пациенту, что он не является кандидатом на трансплантацию легких (inform the patient that they are not a candidate for lung transplantation)",
+        "A": "сообщить пациенту, что он не является кандидатом на трансплантацию легких",
         "B": "включить пациента в лист ожидания двусторонней трансплантации легких",
         "C": "включить пациента в лист ожидания односторонней трансплантации легкого",
         "D": "провести курс антибактериальной терапии меропенемом и цефтазидимом с последующим включением в лист ожидания двусторонней трансплантации легких"
@@ -6978,7 +6978,7 @@
       },
       "optionsRu": {
         "A": "увеличение дозы ингибитора протонной помпы до 2 раз в сутки",
-        "B": "лапароскопическая пластика грыжи пищеводного отверстия диафрагмы с фундопликацией по Тупе (laparoscopic hiatal hernia repair with Toupet fundoplication)",
+        "B": "лапароскопическая пластика грыжи пищеводного отверстия диафрагмы с фундопликацией по Тупе",
         "C": "левосторонняя торакоскопическая пластика грыжи пищеводного отверстия диафрагмы",
         "D": "открытая пластика грыжи пищеводного отверстия диафрагмы с фундопликацией по Ниссену"
       },
@@ -7014,7 +7014,7 @@
       "optionsRu": {
         "A": "4 курса внутривенной полихимиотерапии адриамицином и ифосфамидом",
         "B": "дистанционная лучевая терапия в суммарной очаговой дозе 60 Гр",
-        "C": "правосторонняя гемиламинэктомия в сочетании с правосторонней трансторакальной полной резекцией (right hemi-laminectomy and right transthoracic complete excision)",
+        "C": "правосторонняя гемиламинэктомия в сочетании с правосторонней трансторакальной полной резекцией",
         "D": "изолированная правосторонняя трансторакальная полная резекция"
       },
       "correctAnswer": "C",
@@ -7051,9 +7051,9 @@
         "D": "tumor size"
       },
       "optionsRu": {
-        "A": "удаление единым блоком (en bloc) других вовлеченных органов",
+        "A": "удаление единым блоком других вовлеченных органов",
         "B": "величина (ширина) отрицательного края резекции",
-        "C": "биология опухоли / степень дифференцировки (tumor biology [grade])",
+        "C": "биология опухоли / степень дифференцировки",
         "D": "размер опухоли"
       },
       "correctAnswer": "C",
@@ -7088,7 +7088,7 @@
       "optionsRu": {
         "A": "дренирование жидкости под контролем эндосонографии (ЭУЗИ)",
         "B": "контрольная КТ органов грудной клетки через 6 месяцев",
-        "C": "правосторонняя торакоскопическая полная резекция образования (right thoracoscopic complete resection of the lesion)",
+        "C": "правосторонняя торакоскопическая полная резекция образования",
         "D": "правосторонняя торакоскопическая марсупиализация"
       },
       "correctAnswer": "C",
@@ -7123,7 +7123,7 @@
       "optionsRu": {
         "A": "нарастающая слабость и утомляемость на протяжении последних 9 месяцев",
         "B": "длительно существующие двусторонние боли в пояснице, усиливающиеся по утрам",
-        "C": "впервые возникшая постоянная боль в правой верхней/средней части спины в течение 3 месяцев (new persistent right upper mid back pain for 3 months)",
+        "C": "впервые возникшая постоянная боль в правой верхней/средней части спины в течение 3 месяцев",
         "D": "кровохарканье объемом около трех чайных ложек 2 недели назад"
       },
       "correctAnswer": "C",
@@ -7160,7 +7160,7 @@
         "D": "PET-CT scan"
       },
       "optionsRu": {
-        "A": "бронхоскопия (bronchoscopy)",
+        "A": "бронхоскопия",
         "B": "КТ шеи и органов грудной клетки",
         "C": "МРТ шеи и органов грудной клетки",
         "D": "ПЭТ-КТ сканирование"
@@ -7196,7 +7196,7 @@
       "optionsRu": {
         "A": "дренирование обоих жидкостных скоплений под контролем КТ с сохранением заплаты",
         "B": "удаление заплаты и реконструкция грудной стенки лоскутом большого сальника",
-        "C": "удаление заплаты и закрытие дефекта ранее перемещенным мышечным лоскутом широчайшей мышцы спины (patch removal and tissue coverage with previous latissimus muscle flap)",
+        "C": "удаление заплаты и закрытие дефекта ранее перемещенным мышечным лоскутом широчайшей мышцы спины",
         "D": "удаление заплаты, реконструкция каркаса грудной стенки титановыми пластинами/шинами и укрытие прежним мышечным лоскутом"
       },
       "correctAnswer": "C",
@@ -7232,7 +7232,7 @@
         "A": "висмута субсалицилат",
         "B": "лапароскопическая фундопликация по Ниссену",
         "C": "суспензия сукральфата",
-        "D": "топические (местные) глюкокортикостероиды (topical steroids)"
+        "D": "топические (местные) глюкокортикостероиды"
       },
       "correctAnswer": "D",
       "explanationEn": "The clinical presentation (young adult with intermittent dysphagia/food impaction), characteristic endoscopic appearance (trachealization/concentric rings, longitudinal furrowing, mucosal fragility, and white exudates), and marked esophageal eosinophilia (> 15 eosinophils per high-power field, here > 40/HPF) establish the diagnosis of eosinophilic esophagitis (EoE). First-line pharmacological options for EoE include proton pump inhibitors (PPIs) and swallowed topical corticosteroids (Option D), such as swallowed fluticasone propionate from a metered-dose inhaler or viscous oral budesonide slurry. Topical steroids act locally to suppress allergic mucosal inflammation and reverse remodeling while minimizing systemic corticosteroid toxicity. Laparoscopic Nissen fundoplication (Option B) is an antireflux procedure and has no role in EoE; in fact, performing a tight fundoplication in a patient with an inflamed, poorly compliant esophagus markedly worsens dysphagia. Mucosal-protecting agents such as bismuth subsalicylate (Option A) and sucralfate (Option C) provide no anti-inflammatory or anti-eosinophilic effect and are ineffective.",
@@ -7263,7 +7263,7 @@
         "D": "transhiatal esophagectomy"
       },
       "optionsRu": {
-        "A": "радикальная химиолучевая терапия (definitive chemoradiotherapy)",
+        "A": "радикальная химиолучевая терапия",
         "B": "лучевая терапия с последующей трансторакальной эзофагэктомией",
         "C": "системная паллиативная лекарственная терапия",
         "D": "трансхиатальная эзофагэктомия"
@@ -7300,8 +7300,8 @@
       "optionsRu": {
         "A": "химиотерапия на основе цисплатина",
         "B": "пембролизумаб",
-        "C": "стереотаксическая абляционная лучевая терапия (SABR)",
-        "D": "хирургическая резекция (surgical resection)"
+        "C": "стереотаксическая абляционная лучевая терапия",
+        "D": "хирургическая резекция"
       },
       "correctAnswer": "D",
       "explanationEn": "Pleural recurrence (pleural 'drop' metastasis) is the classic pattern of relapse following resection of thymoma and corresponds to Masaoka stage IVA / ITMIG stage IVa disease. In medically fit patients with isolated, resectable locoregional pleural recurrences and no extrathoracic dissemination, surgical resection (Option D; metastasectomy, pleurectomy, or local diaphragmatic resection) remains the preferred cornerstone of management. Complete microscopic/macroscopic resection (R0) of isolated pleural implants confers excellent long-term survival, with reported 5-year overall survival rates reaching 40%–50% or higher. Stereotactic ablative radiotherapy (SABR; Option C) is reserved for patients medically unfit for redo thoracic surgery or lesions deemed anatomically unresectable. Upfront systemic chemotherapy with cisplatin regimens (Option A) is indicated for unresectable, diffuse pleural spread or symptomatic multiorgan disease, but should not supersede definitive surgical clearance for solitary resectable lesions. Immunotherapy with immune checkpoint inhibitors such as pembrolizumab (Option B) is not standard initial therapy and carries a substantial risk of severe, life-threatening autoimmune and neuromuscular complications (e.g., severe myasthenia gravis flares, myocarditis, myositis) in patients with thymic epithelial tumors.",
@@ -7333,7 +7333,7 @@
         "D": "PA and lateral CXR"
       },
       "optionsRu": {
-        "A": "рентгеноскопия пищевода с пероральным контрастированием (contrast esophagram)",
+        "A": "рентгеноскопия пищевода с пероральным контрастированием",
         "B": "дуплексное сканирование вен нижних конечностей с обеих сторон",
         "C": "исследование кардиоспецифических ферментов (тропонины/КФК-МВ)",
         "D": "рентгенография органов грудной клетки в прямой и боковой проекциях"
@@ -7370,7 +7370,7 @@
       "optionsRu": {
         "A": "антирефлюксная операция с повторной эндоскопией и биопсией через 6 месяцев",
         "B": "эндоскопическая резекция слизистой оболочки (EMR) оставшегося сегмента пищевода Барретта",
-        "C": "радиочастотная абляция оставшегося сегмента пищевода Барретта (radiofrequency ablation of the remaining Barrett's esophagus)",
+        "C": "радиочастотная абляция оставшегося сегмента пищевода Барретта",
         "D": "динамическая контрольная эндоскопия с четырехквадрантной биопсией через 3 месяца"
       },
       "correctAnswer": "C",
@@ -7408,7 +7408,7 @@
         "A": "эндоскопическое клипирование слизистой оболочки",
         "B": "стентирование пищевода",
         "C": "ингибиторы протонной помпы",
-        "D": "рентгеноскопия пищевода с водорастворимым/жидким контрастом (thin contrast esophagram)"
+        "D": "рентгеноскопия пищевода с водорастворимым/жидким контрастом"
       },
       "correctAnswer": "D",
       "explanationEn": "🎯 <b>Correct Answer: Option D: thin contrast esophagram.</b><br><br>🔵 <b>Detailed Clinical and Pathophysiological Analysis:</b><br>The clinical history of post-emetic hematemesis associated with an endoscopic finding of a longitudinal mucosal defect in the distal esophagus is classic for a <b>Mallory-Weiss tear</b>. However, when an esophagogastroduodenoscopy (EGD) documents a mucosal breach accompanied by significant abdominal or epigastric pain in an elderly patient, there is an immediate diagnostic dilemma requiring surgical caution.<br><br>1️⃣ <b>Critical Differential Diagnosis: Mallory-Weiss vs. Contained Boerhaave Syndrome:</b><br>• Mallory-Weiss tears are traditionally confined to partial-thickness mucosal and submucosal layers. Boerhaave syndrome involves full-thickness transmural barogenic rupture.<br>• In up to 10%–15% of transmural ruptures, plain radiographs remain normal in the earliest hours.<br>• Severe abdominal or chest pain following emesis is <i>atypical</i> for an uncomplicated, superficial mucosal tear and raises high clinical suspicion for an occult, micro-contained, or incipient transmural esophageal perforation.<br>• Therefore, before concluding the defect is purely benign, the priority is to definitively exclude a transmural breach by obtaining a <mark>thin/water-soluble contrast esophagram (Gastrografin, followed by thin barium if negative; Option D)</mark> or a dynamic contrast-enhanced chest CT scan.<br><br>2️⃣ <b>Why other options are categorically incorrect:</b><br>• <i>Endoscopic mucosal clipping (Option A):</i> Endoscopic hemoclips or thermal contact coagulation are indicated for active spurting, arterial oozing, or non-bleeding visible vessels (Forrest Ia/Ib/IIa). In this patient, the lesion demonstrates an adherent clot (Forrest IIb) with spontaneous hemostasis; deploying endoscopic clips without excluding a transmural leak risks masking an impending rupture and delaying surgical repair.<br>• <i>Esophageal stenting (Option B):</i> Fully covered self-expanding metal stents (SEMS) represent an aggressive intervention indicated only for proven full-thickness transmural perforations or anastomotic disruptions with gross extravasation, not for an unconfirmed mucosal breach.<br>• <i>Proton pump inhibitor (Option C):</i> Intravenous high-dose PPI therapy is appropriate medical supportive care to promote mucosal healing, but it does not evaluate for an acute, life-threatening mediastinal/pleural leak.<br><br>🧠 <b>Board Pearl:</b><br>Post-emetic esophageal tear (suspected Mallory-Weiss) + Chest or Abdominal Pain ➡️ Uncomplicated Mallory-Weiss does NOT present with severe pain! ➡️ Rule out transmural perforation (Boerhaave syndrome)! ➡️ Test of choice: Thin water-soluble contrast esophagram (Option D)! ➡️ Endoscopic clipping (Option A ❌) is unnecessary for an adherent clot and does not rule out perforation! ➡️ Stenting (Option B ❌) requires radiologic proof of transmural extravasation!<br><br>🔥 <b>Mnemonic Rule «M-A-L-L-O-R-Y»:</b><br>• <b>M</b> — <b>M</b>ucosal tear following forceful emesis.<br>• <b>A</b> — <b>A</b>bdominal/chest pain warns of possible full-thickness rupture.<br>• <b>L</b> — <b>L</b>eak must be definitively excluded.<br>• <b>L</b> — <b>L</b>iquid / thin water-soluble contrast esophagram is standard (<b>Option D</b>).<br>• <b>O</b> — <b>O</b>mit blind stenting without documented transmural extravasation.<br>• <b>R</b> — <b>R</b>efrain from clipping non-bleeding adherent clots.<br>• <b>Y</b> — <b>Y</b>ield to contrast imaging before finalizing benign diagnosis.",
@@ -7444,7 +7444,7 @@
       "optionsRu": {
         "A": "эзофагэктомия с пластикой толстокишечным трансплантатом (колоэзофагопластика)",
         "B": "эзофагэктомия по Айвору Льюису",
-        "C": "трехдоступовая эзофагэктомия по МакКеону (McKeown [three-hole] esophagectomy)",
+        "C": "трехдоступовая эзофагэктомия по МакКеону",
         "D": "контрольная эндоскопия через 3 месяца"
       },
       "correctAnswer": "C",
@@ -7482,7 +7482,7 @@
         "A": "отключающая эзофагостомия и пластика дефекта трахеи",
         "B": "эндоскопическое стентирование пищевода",
         "C": "эндоскопическое закрытие свища путем инъекции фибринового клея",
-        "D": "повторная операция: ушивание свища с интерпозицией васкуляризированного мышечного лоскута (reoperative fistula closure and muscle interposition)"
+        "D": "повторная операция: ушивание свища с интерпозицией васкуляризированного мышечного лоскута"
       },
       "correctAnswer": "D",
       "explanationEn": "Tracheoesophageal or bronchoesophageal fistula (TEF) complicating an intrathoracic anastomotic leak after esophagectomy is a life-threatening surgical emergency resulting in rapid airway soilage, aspiration pneumonia, and mediastinal sepsis. In the setting of a small, focal anastomotic breakdown (< 25% circumference) with an intact, well-vascularized gastric conduit, conduit takedown and cervical diversion (Option A) are not required; radical diversion is indicated only for extensive or transmural conduit necrosis/ischemia. The definitive standard of care is urgent reoperation with primary repair/closure of the tracheal membranous wall defect, targeted revision/closure of the anastomotic defect, and mandatory interposition of viable, well-vascularized vascularized tissue (such as an intercostal muscle flap, latissimus dorsi, pectoralis major, or pedicled omentum) between the airway and the digestive suture lines (Option D). Tissue interposition prevents recurrent cross-contamination and direct suture line erosion. Primary endoluminal esophageal stenting (Option B) is contraindicated in acute anastomotic TEF because the radial outward expansion force of the metallic/silicone stent compresses and erodes against ischemic tracheal tissue, rapidly widening the fistula and airway destruction. Fibrin glue injection (Option C) lacks mechanical integrity in active macrofistulas and provides zero efficacy in adult post-surgical defects.",
@@ -7517,7 +7517,7 @@
         "A": "бронхоскопическое внутриполостное введение амфотерицина B",
         "B": "лобэктомия с укрытием культи бронха мышечным лоскутом",
         "C": "пероральная терапия вориконазолом в течение 6 месяцев",
-        "D": "исследование мокроты на КУБ (микроскопия с окраской), посев и ПЦР на M. tuberculosis (sputum for AFB stains, culture, and M. tuberculosis PCR)"
+        "D": "исследование мокроты на КУБ (микроскопия с окраской), посев и ПЦР на M. tuberculosis"
       },
       "correctAnswer": "D",
       "explanationEn": "The clinical presentation and imaging depict a secondary aspergilloma (mycetoma) colonizing a pre-existing post-tuberculous cavity. While definitive curative treatment for a pulmonary aspergilloma is surgical resection (e.g., lobectomy with vascularized muscle flap coverage of the bronchial stump to prevent bronchopleural fistula; Option B), surgery carries high morbidity (up to 25%) and mortality (up to 8%) due to intense pleural adhesions and neovascularization. Critically, before undertaking elective or planned pulmonary resection, active recurrent or persistent Mycobacterium tuberculosis infection must be definitively excluded (Option D). Operating in the setting of active mycobacterial replication risks catastrophic surgical field contamination, pleural empyema, and post-resectional bronchopleural fistula. Furthermore, systemic antifungal agents (such as oral voriconazole; Option C) or intracavitary instillation of amphotericin B (Option A) fail to achieve adequate penetration into avascular necrotic fungus balls within thick fibrotic cavities and are ineffective for curative clearance.",
@@ -7557,7 +7557,7 @@
         "A": "эмпиема плевры",
         "B": "злокачественная мезотелиома",
         "C": "немелкоклеточный рак легкого",
-        "D": "солитарная фиброзная опухоль (solitary fibrous tumor)"
+        "D": "солитарная фиброзная опухоль"
       },
       "correctAnswer": "D",
       "explanationEn": "The clinical triad of a large, well-circumscribed, pleural-based intrathoracic mass accompanied by severe, symptomatic hypoglycemia (blood glucose 30 mg/dL) represents Doege-Potter syndrome, a rare paraneoplastic endocrinopathy classically pathognomonic for solitary fibrous tumor of the pleura (SFTP, Option D). The severe non-islet cell tumor hypoglycemia (NICTH) is mediated by ectopic hypersecretion of incompletely processed, high-molecular-weight insulin-like growth factor II ('big' IGF-2), which binds insulin and IGF receptors, massively accelerating peripheral tissue glucose consumption while suppressing hepatic gluconeogenesis. SFTPs originate from submesothelial mesenchymal cells, frequently present as smooth, well-demarcated, vascular masses attached by a narrow pedicle, and are benign in up to 80% of cases. Surgical excision (often via simple wedge resection or pedicle transection) is the definitive treatment, resulting in immediate correction of hypoglycemia and excellent long-term event-free survival (> 90% at 10 years). Empyema (Option A) causes fever, leukocytosis, and septic shock rather than paraneoplastic IGF-2 release. Malignant pleural mesothelioma (Option B) typically presents with diffuse, sheet-like nodular pleural thickening, volume loss, and malignant effusion related to asbestos exposure. Primary bronchogenic non-small cell lung cancer (Option C) typically causes paraneoplastic hypercalcemia (PTHrP) or SIADH, not severe refractory hypoglycemia.",
@@ -7594,9 +7594,9 @@
       },
       "optionsRu": {
         "A": "двусторонние плевральные полости, свободные от спаек",
-        "B": "документальное подтверждение сохранности нижних мотонейронов (documenting preservation of the lower motor neurons)",
+        "B": "документальное подтверждение сохранности нижних мотонейронов",
         "C": "исследование проводимости по диафрагмальным нервам, показывающее отсутствие активности",
-        "D": "тест с сопением (sniff test), подтверждающий двусторонний паралич диафрагмы"
+        "D": "тест с сопением, подтверждающий двусторонний паралич диафрагмы"
       },
       "correctAnswer": "B",
       "explanationEn": "Diaphragmatic pacing relies on electrical stimulation of the phrenic nerve to induce diaphragmatic contraction and restore ventilation. For this intervention to be successful, the lower motor neurons—specifically the phrenic motor neuron pool originating from the anterior horns of cervical spinal segments C3, C4, and C5—must be intact (Option B). Patients with high cervical spinal cord injuries above C3 (such as C2) are ideal candidates because their upper motor neuron pathways are interrupted while the lower motor neurons remain preserved. Pleural adhesions (Option A) do not preclude pacing, as leads can be placed via cervical, thoracic, or laparoscopic approaches. Phrenic nerve testing should demonstrate viable neural pathways capable of responding to stimulation rather than an absence of activity (Option C). While diaphragmatic paralysis is present in these ventilator-dependent patients, demonstrating baseline paralysis via a sniff test (Option D) is a clinical feature of the injury rather than the core physiological requirement that dictates candidacy.",
@@ -7628,8 +7628,8 @@
       },
       "optionsRu": {
         "A": "внутриплевральное введение тканевого активатора плазминогена (tPA) и ДНКазы",
-        "B": "установка широкопросветной плевральной дренажной трубки (large-bore chest tube)",
-        "C": "левосторонняя видеоторакоскопическая (VATS) декортикация / санация плевральной полости (left VATS decortication)",
+        "B": "установка широкопросветной плевральной дренажной трубки",
+        "C": "левосторонняя видеоторакоскопическая (VATS) декортикация / санация плевральной полости",
         "D": "длительная антибактериальная терапия"
       },
       "correctAnswer": "C",
@@ -7668,7 +7668,7 @@
       },
       "optionsRu": {
         "A": "двусторонняя видеоторакоскопическая (VATS) симпатэктомия",
-        "B": "КТ органов грудной клетки (chest CT scan)",
+        "B": "КТ органов грудной клетки",
         "C": "биопсия мышцы",
         "D": "определение уровня ангиотензинпревращающего фермента (АПФ) в сыворотке крови"
       },
@@ -7702,10 +7702,10 @@
         "D": "radial"
       },
       "optionsRu": {
-        "A": "переднезадний (anteroposterior)",
-        "B": "циркулярный / периферический (circumferential)",
-        "C": "крестообразный (cruciate)",
-        "D": "радиальный (radial)"
+        "A": "переднезадний",
+        "B": "циркулярный / периферический",
+        "C": "крестообразный",
+        "D": "радиальный"
       },
       "correctAnswer": "B",
       "explanationEn": "When performing a left thoracoabdominal incision for thoracoabdominal aortic aneurysm (TAAA) repair, dividing the diaphragm is necessary to obtain seamless exposure of the distal thoracic and visceral/infrarenal abdominal aorta. The phrenic nerve enters the diaphragm anterior to the central tendon and branches radially into anterior, sternal, anterolateral, posterolateral, and crural motor divisions that course near the border of the central tendon. A circumferential (peripheral) incision (Option B) placed roughly 1–2 cm (and at least 5 cm lateral to the central tendon) from its costal insertion into the chest wall provides the widest possible anatomical exposure of the aorta and retroperitoneum while staying completely peripheral to the arborization of the phrenic neurovascular bundles. This preserves phrenic motor innervation and contractile function, significantly decreasing postoperative respiratory morbidity and prolonged ventilator dependence. In contrast, anteroposterior (Option A) or cruciate (Option C) incisions transect major nerve trunks, causing widespread diaphragmatic paralysis. A radial incision (Option D) extending toward the aortic hiatus/esophagus can risk denervating large posterior/posterolateral segments of the hemidiaphragm and offers inferior visceral exposure compared to circumferential division.",
@@ -7740,7 +7740,7 @@
         "A": "блокаторы H2-гистаминовых рецепторов на ночь",
         "B": "лапароскопическая фундопликация",
         "C": "магнитная аугментация нижнего пищеводного сфинктера (система LINX)",
-        "D": "селективные ингибиторы обратного захвата серотонина (selective serotonin reuptake inhibitor)"
+        "D": "селективные ингибиторы обратного захвата серотонина"
       },
       "correctAnswer": "D",
       "explanationEn": "The objective physiological workup definitively rules out true gastroesophageal reflux disease (GERD): endoscopy shows normal mucosa without erosive esophagitis, high-resolution manometry demonstrates normal peristalsis and sphincter function, and 24-hour pH-impedance monitoring off PPIs reveals completely normal distal esophageal acid exposure (DeMeester score of 8.9, well below the abnormal threshold of 14.72) and normal non-acid reflux. Furthermore, there is no significant temporal correlation between reported symptoms and reflux episodes (symptom correlation is only 35%, below the diagnostic threshold of ≥ 50% for symptom index / ≥ 95% for symptom association probability). An incidental small sliding axial hiatal hernia without objective acid exposure does not constitute pathological GERD. This clinical constellation (chest discomfort exacerbated by anxiety, normal pH testing, lack of symptom correlation, and complete non-response to PPIs) meets Rome IV criteria for a functional esophageal disorder (functional chest pain / functional heartburn) mediated by central visceral hypersensitivity and visceral anxiety. First-line therapy for functional esophageal pain and hypersensitivity consists of neuromodulators, specifically selective serotonin reuptake inhibitors (SSRIs, Option D) or tricyclic antidepressants (TCAs), which modulate esophageal pain processing and reduce central anxiety.",
@@ -7771,10 +7771,10 @@
         "D": "medically-supervised weight loss with Roux-en-Y gastric bypass if BMI remains > 40"
       },
       "optionsRu": {
-        "A": "рукавная резекция желудка (gastric sleeve) с пластикой грыжи пищеводного отверстия диафрагмы",
-        "B": "прием блокаторов H2-гистаминовых рецепторов на ночь с магнитной аугментацией сфинктера (LINX) при снижении ИМТ < 40 кг/м²",
+        "A": "рукавная резекция желудка с пластикой грыжи пищеводного отверстия диафрагмы",
+        "B": "прием блокаторов H2-гистаминовых рецепторов на ночь с магнитной аугментацией сфинктера при снижении ИМТ < 40 кг/м²",
         "C": "лапароскопическая фундопликация по Ниссену с бандажированием желудка",
-        "D": "программа снижения веса под медицинским наблюдением с последующим гастрошунтированием по Ру (Roux-en-Y gastric bypass), если ИМТ останется > 40 кг/м² (medically-supervised weight loss with Roux-en-Y gastric bypass if BMI remains > 40)"
+        "D": "программа снижения веса под медицинским наблюдением с последующим гастрошунтированием по Ру, если ИМТ останется > 40 кг/м²"
       },
       "correctAnswer": "D",
       "explanationEn": "In patients with severe, objective, medically refractory gastroesophageal reflux disease (DeMeester score of 63) and concurrent class III morbid obesity (BMI ≥ 40 kg/m²), the consensus gold standard surgical treatment endorsed by SAGES and ASMBS guidelines is a Roux-en-Y gastric bypass (Option D). RYGB effectively addresses both pathologies by creating a small, low-acid proximal gastric pouch and diverting bile and pancreatic secretions away from the lower esophagus, dramatically reducing gastroesophageal acid and non-acid exposure while delivering durable weight loss and reducing chronically elevated intra-abdominal pressure. Performing standard antireflux repairs (such as Nissen fundoplication or magnetic sphincter augmentation; Options B and C) in patients with BMI greater than 35–40 kg/m² carries an unacceptably high rate of mechanical failure, wrap herniation, and recurrent reflux due to visceral obesity and persistent abdominal pressure. Sleeve gastrectomy (Option A) is strictly contraindicated in patients with severe underlying GERD or large hiatal hernias because transecting the gastric fundus increases intragastric pressure and removes the angle of His, frequently causing severe de novo reflux or worsening pre-existing GERD. A preliminary period of medically supervised lifestyle and weight loss is standard clinical and insurance protocol prior to definitive bariatric bypass.",
@@ -7809,7 +7809,7 @@
         "A": "биопсия резидуального образования",
         "B": "дистанционная лучевая терапия",
         "C": "контрольная КТ через 3 месяца",
-        "D": "хирургическая резекция резидуального образования (resection of the residual mass)"
+        "D": "хирургическая резекция резидуального образования"
       },
       "correctAnswer": "D",
       "explanationEn": "In primary mediastinal non-seminomatous germ cell tumors (NSGCT), induction systemic chemotherapy (e.g., BEP or VIP) is the mandatory initial treatment. Following chemotherapy and normalization of serum tumor markers (AFP and beta-hCG), any radiographically detectable residual mass mandates complete surgical resection (Option D). Histopathologic examination of resected residual mediastinal masses demonstrates mature or immature teratoma in 40%–50% of cases, viable persistent malignant non-seminomatous germ cell cancer in 30%–40%, and necrosis/fibrosis in only 15%–20%. Leaving a residual mass in situ carries a major risk of growing teratoma syndrome, malignant transformation to non-germ cell somatic malignancies (sarcoma, adenocarcinoma), or delayed chemoresistant relapse. Core biopsy (Option A) is inadequate and not recommended because marked tumor heterogeneity causes extreme sampling error, and regardless of biopsy findings, the entire mass requires resection. Active surveillance with repeat CT in 3 months (Option C) is contraindicated given the high likelihood of viable neoplasm. Primary mediastinal NSGCTs are notoriously radioresistant, precluding external beam radiation (Option B).",
@@ -7848,7 +7848,7 @@
         "A": "продолжить искусственную вентиляцию легких с использованием протективных режимов",
         "B": "выполнить трахеостомию и продолжить механическую вентиляцию",
         "C": "подключить пациента к экстракорпоральной мембранной оксигенации (ЭКМО) и продолжить ИВЛ",
-        "D": "подключить пациента к ЭКМО и экстубировать (place the patient on ECMO and extubate)"
+        "D": "подключить пациента к ЭКМО и экстубировать"
       },
       "correctAnswer": "D",
       "explanationEn": "In young patients on the lung transplant waiting list with refractory respiratory failure failing mechanical ventilation (high FiO2 of 100% and PEEP 20 cm H2O), the modern gold-standard bridging strategy is \"awake\" or ambulatory venovenous ECMO with early extubation (Option D). Bridging with invasive mechanical ventilation alone or continuing mechanical ventilation while on ECMO (Option C) carries significantly worse post-transplant outcomes (1-year survival around 50%–52%) due to high sedation requirements, ventilator-induced lung injury (VILI), critical illness myopathy, ventilator-associated pneumonia, and severe physical deconditioning. In contrast, instituting awake VV-ECMO (often using a single, dual-lumen bicaval cannula via the internal jugular vein) and extubating the patient achieves vastly superior 1-year post-transplant survival (up to 72%–80%+, matching non-bridged young cohorts aged 18–40). Extubation eliminates positive pressure barotrauma/volutrauma, allows active participation in physical rehabilitation, preserves diaphragmatic tone and muscle mass, and prevents infectious pulmonary colonization. Continuing mechanical ventilation alone with lung-protective strategies (Option A) is already failing and causes progressive barotrauma. Performing a tracheostomy while maintaining mechanical ventilation (Option B) does not eliminate invasive ventilator dependency or muscle wasting.",
@@ -7880,7 +7880,7 @@
         "D": "smoking"
       },
       "optionsRu": {
-        "A": "пожилой/старческий возраст (advanced age)",
+        "A": "пожилой/старческий возраст",
         "B": "ожирение",
         "C": "гастроэзофагеальная рефлюксная болезнь",
         "D": "курение"
@@ -7916,7 +7916,7 @@
       },
       "optionsRu": {
         "A": "химиотерапия по схеме FOLFOX",
-        "B": "индукционная (неоадъювантная) химиолучевая терапия (induction chemoradiotherapy)",
+        "B": "индукционная (неоадъювантная) химиолучевая терапия",
         "C": "первичное хирургическое лечение (резекция)",
         "D": "таргетная терапия трастузумабом"
       },
@@ -7951,7 +7951,7 @@
       },
       "optionsRu": {
         "A": "3 месяца",
-        "B": "12 месяцев (12 months)",
+        "B": "12 месяцев",
         "C": "3 года",
         "D": "5 лет"
       },
@@ -7985,7 +7985,7 @@
       },
       "optionsRu": {
         "A": "II стадия по Масаока",
-        "B": "T3N0 (T3N0)",
+        "B": "T3N0",
         "C": "тип A по классификации ВОЗ",
         "D": "тип B3 по классификации ВОЗ"
       },
@@ -8019,7 +8019,7 @@
         "D": "surgical resection"
       },
       "optionsRu": {
-        "A": "системная химиотерапия (chemotherapy)",
+        "A": "системная химиотерапия",
         "B": "дистанционная лучевая терапия",
         "C": "медиастиноскопия",
         "D": "первичная хирургическая резекция"
@@ -8060,7 +8060,7 @@
       "optionsRu": {
         "A": "ацикловир",
         "B": "эндоскопическая дилатация",
-        "C": "эзофагэктомия (esophagectomy)",
+        "C": "эзофагэктомия",
         "D": "повторная биопсия"
       },
       "correctAnswer": "C",
@@ -8094,7 +8094,7 @@
       "optionsRu": {
         "A": "вскрытие и дренирование абсцесса у постели больного",
         "B": "хирургическая обработка в операционной с резекцией подлежащего сустава и первичным глухим швом",
-        "C": "хирургическая обработка в операционной с санацией/резекцией пораженного сустава и открытым ведением раны с тампонадой (operative debridement, including the underlying joint with open packing)",
+        "C": "хирургическая обработка в операционной с санацией/резекцией пораженного сустава и открытым ведением раны с тампонадой",
         "D": "хирургическая обработка в операционной с сохранением сустава и установкой вакуумной повязки (VAC)"
       },
       "correctAnswer": "C",
@@ -8131,7 +8131,7 @@
         "D": "RB1"
       },
       "optionsRu": {
-        "A": "KRAS (KRAS)",
+        "A": "KRAS",
         "B": "NOTCH1",
         "C": "PTEN",
         "D": "RB1"
@@ -8167,7 +8167,7 @@
       },
       "optionsRu": {
         "A": "инъекционное употребление наркотиков",
-        "B": "одонтогенная инфекция (odontogenic infection)",
+        "B": "одонтогенная инфекция",
         "C": "паротит",
         "D": "тонзиллярная инфекция"
       },
@@ -8202,7 +8202,7 @@
       },
       "optionsRu": {
         "A": "бактериальная инфекция",
-        "B": "грибковая инфекция (fungal infection)",
+        "B": "грибковая инфекция",
         "C": "метастатический рак",
         "D": "первичная лимфома средостения"
       },
@@ -8242,7 +8242,7 @@
       "optionsRu": {
         "A": "выполнить изолированное аортокоронарное шунтирование правой коронарной артерии",
         "B": "выполнить экстренную катетеризацию левых отделов сердца с возможным стентированием",
-        "C": "перевести пациента в положение Тренделенбурга и увеличить дозировку вазопрессоров (place the patient in Trendelenburg position and increase vasopressors)",
+        "C": "перевести пациента в положение Тренделенбурга и увеличить дозировку вазопрессоров",
         "D": "подключить пациента к вено-артериальной экстракорпоральной мембранной оксигенации (ВА-ЭКМО)"
       },
       "correctAnswer": "C",
@@ -8276,7 +8276,7 @@
       },
       "optionsRu": {
         "A": "баллонная ангиопластика",
-        "B": "эндоваскулярное стентирование (endovascular stent placement)",
+        "B": "эндоваскулярное стентирование",
         "C": "хирургическая реконструкция с использованием политетрафторэтиленового (ПТФЭ) протеза",
         "D": "хирургическая реконструкция аутовенозным трансплантатом"
       },
@@ -8313,7 +8313,7 @@
         "A": "внутриплевральное введение tPA + ДНКазы через установленную дренажную трубку",
         "B": "открытая хирургическая реконструкция подключичных сосудов",
         "C": "повторная КТ через 2 дня",
-        "D": "видеоторакоскопическая (VATS) санация / декортикация (VATS decortication)"
+        "D": "видеоторакоскопическая (VATS) санация / декортикация"
       },
       "correctAnswer": "D",
       "explanationEn": "The patient has a retained post-traumatic hemothorax with significant loculated pleural collections persisting despite an adequately positioned chest tube and decreasing tube output. Post-traumatic retained hemothorax occurs in up to 20% of severe thoracic trauma cases and predisposes to secondary empyema, trapped lung, and prolonged hospitalization. According to trauma guidelines (EAST/AATS), early video-assisted thoracoscopic surgery (VATS) evacuation/decortication (Option D) within 3–7 days is the treatment of choice in hemodynamically stable patients. Intrapleural lytic therapy with tPA + DNase (Option A) is contraindicated in acute trauma due to high systemic and local bleeding risks, particularly in a patient who recently sustained vascular injuries and multiple rib fractures. Operative repair of the subclavian vessels (Option B) is unwarranted given that endovascular stenting was successful with no persistent extravasation. Observation with repeat CT in 2 days (Option C) merely delays definitive clearance, increasing the likelihood of fibrothorax and the need for open thoracotomy.",
@@ -8352,7 +8352,7 @@
       "optionsRu": {
         "A": "установка постоянного плеврального катетера с последующей индукционной терапией дурвалумабом",
         "B": "плевродез с последующей химиотерапией карбоплатином и паклитакселом",
-        "C": "плевродез с последующей таргетной терапией осимертинибом (pleurodesis followed by osimertinib)",
+        "C": "плевродез с последующей таргетной терапией осимертинибом",
         "D": "тотальная плеврэктомия и правосторонняя верхняя лобэктомия"
       },
       "correctAnswer": "C",
@@ -8385,10 +8385,10 @@
         "D": "underlying interstitial lung disease"
       },
       "optionsRu": {
-        "A": "высокий уровень накопления РФП по ПЭТ (SUVmax)",
+        "A": "высокий уровень накопления РФП по ПЭТ",
         "B": "плоскоклеточная гистология",
         "C": "размер опухоли > 2 см",
-        "D": "сопутствующее интерстициальное заболевание легких (underlying interstitial lung disease)"
+        "D": "сопутствующее интерстициальное заболевание легких"
       },
       "correctAnswer": "D",
       "explanationEn": "Pre-existing interstitial lung disease (ILD) / idiopathic pulmonary fibrosis (IPF) is the single strongest clinical predictor of severe adverse events and treatment-related mortality following stereotactic ablative radiotherapy (SABR/SBRT) for early-stage lung cancer (Option D). Patients with underlying ILD have significantly increased vulnerability to radiation injury, with reported rates of symptomatic radiation pneumonitis ranging from 30% to 50% and treatment-related fatal pulmonary toxicity reaching approximately 6%–10% (often triggering acute lethal exacerbations of ILD). While tumor size greater than 2 cm (Option C) affects planning target volume dosimetry, and higher PET SUVmax (Option A) has been correlated with occult nodal metastasis or local recurrence, neither is an independent predictor of severe treatment-limiting toxicity. Tumor histology (Option B; squamous vs. adenocarcinoma) does not impact toxicity profiles following SABR.",
@@ -8424,10 +8424,10 @@
         "D": "papillary"
       },
       "optionsRu": {
-        "A": "ацинарный (acinar)",
-        "B": "лепидический (lepidic)",
-        "C": "микропапиллярный (micropapillary)",
-        "D": "папиллярный (papillary)"
+        "A": "ацинарный",
+        "B": "лепидический",
+        "C": "микропапиллярный",
+        "D": "папиллярный"
       },
       "correctAnswer": "C",
       "explanationEn": "According to the IASLC/ATS/ERS histologic classification of invasive pulmonary adenocarcinoma, high-grade histologic patterns—specifically micropapillary (Option C) and solid subtypes—are independently associated with aggressive biology, high rates of occult lymph node micrometastases, spread through air spaces (STAS), and significantly higher rates of locoregional recurrence and worse overall survival following sublobar (wedge or segmentectomy) resection. For tumors with a significant micropapillary or solid component (even when ≤ 2 cm), standard lobectomy rather than sublobar resection is strongly advised to optimize locoregional control, particularly when margins are less than 1–2 cm. In contrast, lepidic-predominant adenocarcinomas (Option B) are low-grade, non- or minimally invasive lesions with an indolent course and virtually absent nodal metastases, making them prime candidates for sublobar resection. Acinar (Option A) and papillary (Option D) subtypes carry an intermediate risk and prognosis that is significantly better than micropapillary and solid tumors.",
@@ -8463,7 +8463,7 @@
         "D": "wedge resection followed by chemotherapy and radiation"
       },
       "optionsRu": {
-        "A": "инвазивное стадирование средостения (mediastinal staging)",
+        "A": "инвазивное стадирование средостения",
         "B": "правосторонняя верхняя лобэктомия",
         "C": "системная химиотерапия и лучевая терапия",
         "D": "клиновидная (краевая) резекция с последующей химиолучевой терапией"
@@ -8505,7 +8505,7 @@
         "A": "релобэктомия (завершающая лобэктомия)",
         "B": "комплексное молекулярно-генетическое тестирование для назначения адъювантной терапии",
         "C": "лучевая терапия на область аппаратного шва (края резекции)",
-        "D": "плановое динамическое наблюдение / визуализационный контроль (routine surveillance imaging)"
+        "D": "плановое динамическое наблюдение / визуализационный контроль"
       },
       "correctAnswer": "D",
       "explanationEn": "According to the IASLC/ATS/ERS and WHO classifications, this tumor meets all criteria for a minimally invasive adenocarcinoma (MIA): a solitary adenocarcinoma ≤ 3 cm with a predominantly lepidic pattern and an invasive focus measuring ≤ 0.5 cm (here, 0.2 cm). Pathologic T staging in the 8th edition AJCC TNM system is determined exclusively by the size of the invasive component rather than the overall lepidic diameter, classifying this lesion as pT1miN0M0 (Stage IA1). When an MIA is completely excised with negative margins (here, an exceptional 2 cm surgical margin) and negative lymph node sampling, the 5-year disease-free and overall survival rates approach 100%. Therefore, sublobar wedge resection is curative, and completion lobectomy (Option A) provides no oncologic survival advantage while sacrificing functioning lung parenchyma. Adjuvant systemic therapy is not indicated for stage IA1 disease, making routine comprehensive molecular profiling (Option B) non-actionable in this setting. Adjuvant radiotherapy to the staple line (Option C) is contraindicated given wide, clear microscopic margins (R0). Routine surveillance CT imaging (Option D) is the appropriate guideline-concordant standard of care.",
@@ -8542,7 +8542,7 @@
       },
       "optionsRu": {
         "A": "окончательная (радикальная) химиолучевая терапия с ингибитором иммунных контрольных точек",
-        "B": "лобэктомия с последующей адъювантной терапией (lobectomy with adjuvant therapy)",
+        "B": "лобэктомия с последующей адъювантной терапией",
         "C": "лобэктомия с последующим динамическим наблюдением",
         "D": "неоадъювантная химиолучевая терапия"
       },
@@ -8583,7 +8583,7 @@
         "A": "лобэктомия",
         "B": "навигационная бронхоскопия",
         "C": "системная полихимиотерапия",
-        "D": "клиновидная (краевая) резекция (wedge resection)"
+        "D": "клиновидная (краевая) резекция"
       },
       "correctAnswer": "D",
       "explanationEn": "This patient presents with an isolated, enlarging pulmonary metastasis from a previously treated uterine leiomyosarcoma with multiple highly favorable prognostic characteristics: a solitary nodule, a long disease-free interval (3 years), complete control of the primary pelvic tumor, and excellent cardiopulmonary reserve. For isolated pulmonary metastases from soft-tissue sarcomas (particularly leiomyosarcomas), pulmonary metastasectomy provides substantial 5-year survival benefits (30%–50%). The guiding surgical principle of pulmonary metastasectomy is parenchymal preservation with complete microscopic resection (R0); therefore, sublobar wedge resection (Option D), typically via VATS, is the procedure of choice. Formal anatomic lobectomy (Option A) unnecessarily sacrifices functioning lung parenchyma without offering any oncologic survival advantage over wedge resection and restricts options should future metachronous metastases develop. Navigational bronchoscopy (Option B) has a very low diagnostic yield for small (8 mm), subpleural peripheral lesions and is unnecessary prior to therapeutic excision. Upfront systemic chemotherapy (Option C) is ineffective as single-modality therapy because soft-tissue sarcomas have poor chemosensitivity, and tissue confirmation would be required before initiating cytotoxic regimens.",
@@ -8619,7 +8619,7 @@
         "D": "pack the mediastinum then perform a right thoracotomy"
       },
       "optionsRu": {
-        "A": "под бронхоскопическим контролем провести эндотрахеальную трубку в левый главный бронх (bronchoscopically advance the endotracheal tube into left main stem)",
+        "A": "под бронхоскопическим контролем провести эндотрахеальную трубку в левый главный бронх",
         "B": "под бронхоскопическим контролем провести эндотрахеальную трубку в правый главный бронх",
         "C": "затампонировать средостение и выполнить левостороннюю торакотомию",
         "D": "затампонировать средостение и выполнить правостороннюю торакотомию"
@@ -8659,7 +8659,7 @@
         "A": "классическая ахалазия (I тип)",
         "B": "пептическая стриктура пищевода на фоне ГЭРБ",
         "C": "пищевод «щелкунчика» (гипертензивный пищевод)",
-        "D": "ахалазия III типа (спастическая) (type III achalasia)"
+        "D": "ахалазия III типа (спастическая)"
       },
       "correctAnswer": "D",
       "explanationEn": "According to the Chicago Classification of Esophageal Motility Disorders, achalasia requires impaired lower esophageal sphincter (LES) relaxation, defined by an elevated integrated relaxation pressure (IRP greater than 15 mmHg), accompanied by the absence of normal peristalsis. The Chicago Classification stratifies achalasia into three distinct phenotypes based on esophageal body contractility: Type I (classic achalasia; Option A) exhibits 100% failed peristalsis with negligible pressurization; Type II (panesophageal pressurization) features pan-esophageal pressurization panes in ≥ 20% of swallows; and Type III (spastic achalasia; Option D) is defined by absent normal peristalsis with premature, spastic, rapidly propagating or simultaneous contractions (distal latency less than 4.5 seconds) in ≥ 20% of swallows. The HRM tracing illustrates an elevated IRP paired with prominent premature high-amplitude spastic contractility in the distal esophageal smooth muscle segment, diagnostic of type III achalasia. Nutcracker / hypercontractile (jackhammer) esophagus (Option C) features hypercontractile peristalsis (elevated distal contractile integral, DCI greater than 8,000 mmHg·s·cm) but preserves normal LES deglutitive relaxation (normal IRP). A GERD-induced peptic stricture (Option B) is characterized manometrically by a hypotensive LES with normal or weak peristalsis rather than elevated IRP with vigorous spastic waveforms.",
@@ -8694,7 +8694,7 @@
         "D": "operative anastomotic primary repair or revision"
       },
       "optionsRu": {
-        "A": "ревизия раны шеи у постели больного, дренирование и тампонада (bedside neck exploration, drainage, and packing)",
+        "A": "ревизия раны шеи у постели больного, дренирование и тампонада",
         "B": "антибиотики широкого спектра действия",
         "C": "эндоскопическая ревизия анастомоза с установкой стента",
         "D": "повторная операция: первичное ушивание или реконструкция анастомоза"
@@ -8730,7 +8730,7 @@
       },
       "optionsRu": {
         "A": "шейная эзофагостомия с парентеральным питанием",
-        "B": "установка пищеводного стента с формированием энтерального доступа для питания (esophageal stent with enteric feeding access)",
+        "B": "установка пищеводного стента с формированием энтерального доступа для питания",
         "C": "паллиативная эзофагэктомия",
         "D": "установка трахеального стента с формированием энтерального доступа для питания"
       },
@@ -8764,7 +8764,7 @@
         "D": "repeat endoscopy and staging in 3 months"
       },
       "optionsRu": {
-        "A": "резекция и пластика пищевода (спасительная эзофагэктомия) (esophageal resection and reconstruction)",
+        "A": "резекция и пластика пищевода (спасительная эзофагэктомия)",
         "B": "стентирование пищевода",
         "C": "таргетная системная терапия по молекулярным маркерам",
         "D": "повторная эндоскопия и рестадирование через 3 месяца"
@@ -8799,7 +8799,7 @@
         "D": "pyloromyotomy"
       },
       "optionsRu": {
-        "A": "эндоскопическая баллонная дилатация привратника (endoscopic pyloric dilation)",
+        "A": "эндоскопическая баллонная дилатация привратника",
         "B": "хирургическая ревизия желудочного трансплантата",
         "C": "хирургическая пластика / ревизия пищеводного отверстия диафрагмы",
         "D": "открытая пилоромиотомия"
@@ -8833,7 +8833,7 @@
         "D": "systemic chemo/immunotherapy"
       },
       "optionsRu": {
-        "A": "радикальная одновременная химиолучевая терапия с последующей иммунотерапией (definitive chemoradiation with immunotherapy)",
+        "A": "радикальная одновременная химиолучевая терапия с последующей иммунотерапией",
         "B": "индукционная химиолучевая терапия",
         "C": "инвазивное стадирование средостения",
         "D": "системная химио/иммунотерапия"
@@ -8867,7 +8867,7 @@
         "D": "repeat biopsy of the liver metastasis"
       },
       "optionsRu": {
-        "A": "эндоскопическая дилатация и стентирование пищевода (endoscopic dilation and stent placement)",
+        "A": "эндоскопическая дилатация и стентирование пищевода",
         "B": "резекция и пластика пищевода",
         "C": "лапароскопическая подвесная еюностомия для питания",
         "D": "повторная биопсия метастаза в печени"
@@ -8905,7 +8905,7 @@
         "A": "химиотерапия",
         "B": "химиолучевая терапия",
         "C": "завершающая (ре-)пневмонэктомия",
-        "D": "динамический КТ-контроль через 3 месяца (surveillance CT scan in 3 months)"
+        "D": "динамический КТ-контроль через 3 месяца"
       },
       "correctAnswer": "D",
       "explanationEn": "For pulmonary neuroendocrine tumors, including atypical carcinoids, surgical resection with negative microscopic margins (R0) remains the cornerstone of definitive curative therapy. Although atypical carcinoids (characterized by 2–10 mitoses per 2 mm² or focal necrosis) exhibit more aggressive biological behavior and a higher potential for recurrence than typical carcinoids, current consensus guidelines (NCCN, ENETS, NANETS) define an adequate oncologic resection simply as achieving a pathologically negative margin; there is no validated threshold requiring a wider margin distance (such as greater than 5 mm or 1 cm). Because the bronchial stump margin is microscopically clear (R0) and there is no regional lymph node involvement (pN0), morbid completion pneumonectomy (Option C) is unwarranted. Furthermore, prospective data supporting adjuvant systemic chemotherapy (Option A) or adjuvant chemoradiotherapy (Option B) for completely resected stage II (node-negative) bronchopulmonary carcinoids are lacking, and systemic regimens are reserved for unresectable, metastatic, or progressive disease. Therefore, close surveillance imaging (CT scan in 3–6 months; Option D) is the recommended standard of care.",
@@ -8943,7 +8943,7 @@
       "optionsRu": {
         "A": "повторные торакоцентезы по мере возобновления симптомов",
         "B": "торакоскопия с дренированием выпота и химическим плевродезом",
-        "C": "торакоскопия с дренированием выпота и установкой постоянного туннелированного плеврального катетера (thoracoscopy with effusion drainage and indwelling tunneled pleural catheter placement)",
+        "C": "торакоскопия с дренированием выпота и установкой постоянного туннелированного плеврального катетера",
         "D": "торакотомия с дренированием выпота и декортикацией легкого"
       },
       "correctAnswer": "C",
@@ -8981,7 +8981,7 @@
         "D": "surgical fundoplication"
       },
       "optionsRu": {
-        "A": "баллонная дилатация (balloon dilation)",
+        "A": "баллонная дилатация",
         "B": "стентирование пищевода",
         "C": "интрамуральное введение стероидов",
         "D": "хирургическая фундопликация"
@@ -9018,7 +9018,7 @@
         "A": "КТ грудной клетки и брюшной полости",
         "B": "диагностический перитонеальный лаваж",
         "C": "ежедневный серийный рентгенологический контроль ОГК",
-        "D": "хирургическая ревизия (surgical exploration)"
+        "D": "хирургическая ревизия"
       },
       "correctAnswer": "D",
       "explanationEn": "High-energy blunt trauma sufficient to disrupt the pelvic ring causes a precipitous surge in intra-abdominal pressure that frequently leads to diaphragmatic rupture, most commonly on the left side due to congenital posterolateral weaknesses and the protective buffer of the liver on the right. When clinical and radiographic suspicion is high (e.g., persistent hemithorax opacity mimicking an effusion despite an adequately positioned, non-draining chest tube), surgical exploration (Option D) is the gold standard and most definitive method to rule out or confirm and repair diaphragmatic disruption. Non-invasive modalities such as CT imaging (Option A) have reported sensitivity and specificity as low as 60%–70% for blunt diaphragmatic rupture, and a negative scan cannot safely exclude a tear. Diagnostic peritoneal lavage (Option B) is notoriously unreliable for retroperitoneal or isolated diaphragmatic tears without large hemoperitoneum. Serial chest radiographs (Option C) merely delay definitive diagnosis, risking organ incarceration, strangulation, and fatal visceral necrosis. In the acute setting, an abdominal approach (exploratory laparotomy, or laparoscopy in stable patients) is preferred to inspect both the diaphragmatic surfaces and associated intra-abdominal visceral injuries.",
@@ -9052,8 +9052,8 @@
       "optionsRu": {
         "A": "блокаторы кальциевых каналов",
         "B": "лапароскопическая миотомия по Геллеру с неполной фундопликацией",
-        "C": "пероральная эндоскопическая миотомия (POEM)",
-        "D": "пневматическая кардиодилатация (pneumatic dilation)"
+        "C": "пероральная эндоскопическая миотомия",
+        "D": "пневматическая кардиодилатация"
       },
       "correctAnswer": "D",
       "explanationEn": "According to the Chicago Classification and current clinical guidelines (ACG/SAGES), achalasia subtype is a critical predictor of treatment success. Type III (spastic) achalasia is characterized by high-amplitude, premature/spastic contractions within the esophageal body in addition to impaired lower esophageal sphincter (LES) relaxation. Pneumatic balloon dilation (Option D) only disrupts the circular muscle fibers at the gastroesophageal junction/LES and completely fails to treat the extensive proximal and mid-esophageal spastic motility disorder. Randomized and multicenter studies have demonstrated dismal long-term clinical success rates for pneumatic dilation in type III achalasia (often ≤ 30%–40%), frequently accompanied by persistent dysphagia, severe non-cardiac chest pain, and higher perforation risks. Per-oral endoscopic myotomy (POEM; Option C) is considered the preferred first-line therapy for type III achalasia because it allows tailored proximal extension of the myotomy high into the esophageal body to address the spastic segment. Laparoscopic Heller myotomy with partial (Dor/Toupet) fundoplication (Option B) also yields satisfactory outcomes (greater than 80%), although it may be limited in its proximal reach compared to POEM. Calcium channel blockers (Option A) provide transient, mild symptom palliation in non-surgical candidates rather than being a primary definitive intervention associated with procedural failure.",
@@ -9084,10 +9084,10 @@
         "D": "per-oral endoscopic myotomy (POEM)"
       },
       "optionsRu": {
-        "A": "суточная 24-часовая рН-метрия пищевода (24-hour pH probe monitoring)",
-        "B": "анализ на антитела к топоизомеразе I (Scl-70)",
+        "A": "суточная 24-часовая рН-метрия пищевода",
+        "B": "анализ на антитела к топоизомеразе I",
         "C": "лапароскопическая миотомия по Геллеру",
-        "D": "пероральная эндоскопическая миотомия (POEM)"
+        "D": "пероральная эндоскопическая миотомия"
       },
       "correctAnswer": "A",
       "explanationEn": "According to the Chicago Classification of Esophageal Motility Disorders, an essential prerequisite for diagnosing achalasia is impaired deglutitive relaxation of the lower esophageal sphincter (LES), marked by an elevated integrated relaxation pressure (IRP greater than 15 mmHg). In this patient, the IRP is low-normal, ruling out achalasia and esophagogastric junction outflow obstruction (EGJOO). The combination of absent peristalsis (100% failed swallows), a hypotensive LES (low-normal IRP), Raynaud's phenomenon, and chronic reflux symptoms is classic for scleroderma esophagus (systemic sclerosis). Dysphagia in scleroderma is secondary to aperistalsis and lack of primary propulsive motor waves rather than mechanical distal outflow resistance. Because the underlying mechanism of heartburn is severe, pathologically unbuffered gastroesophageal reflux disease (GERD) resulting from the loss of lower esophageal tone, the gold standard diagnostic step to confirm and quantify abnormal distal esophageal acid exposure is 24-hour pH monitoring (Option A). Performing a surgical or endoscopic myotomy (Option C or D) is strictly contraindicated; disrupting what little residual LES sphincter barrier remains would cause catastrophic, intractable reflux, severe ulcerative esophagitis, stricture formation, and potential aspiration. While anti-topoisomerase I (anti-Scl-70) antibodies (Option B) are associated with diffuse systemic sclerosis, they have limited sensitivity (~20%–40% in systemic sclerosis; higher in diffuse, lower in limited/CREST variants) and neither establish nor guide management of the functional esophageal and reflux pathophysiology.",
@@ -9120,7 +9120,7 @@
       "optionsRu": {
         "A": "бронхоскопия и стентирование свища",
         "B": "эзофагогастродуоденоскопия с биопсией",
-        "C": "манометрия высокого разрешения (high-resolution manometry)",
+        "C": "манометрия высокого разрешения",
         "D": "лапароскопическая пластика грыжи ПОД и фундопликация"
       },
       "correctAnswer": "C",
@@ -9157,7 +9157,7 @@
       },
       "optionsRu": {
         "A": "диагностическая КТ органов грудной клетки (с контрастированием)",
-        "B": "низкодозная компьютерная томография (НДКТ) органов грудной клетки (low-dose CT scan of the chest)",
+        "B": "низкодозная компьютерная томография (НДКТ) органов грудной клетки",
         "C": "рентгенография органов грудной клетки в прямой и боковой проекциях",
         "D": "ПЭТ-КТ от основания черепа до середины бедра"
       },
@@ -9191,7 +9191,7 @@
         "D": "high-resolution manometry"
       },
       "optionsRu": {
-        "A": "рентгеноскопия пищевода с барием (barium esophagram)",
+        "A": "рентгеноскопия пищевода с барием",
         "B": "инъекция ботулотоксина",
         "C": "эндоскопическая биопсия пищевода",
         "D": "манометрия высокого разрешения"
@@ -9227,7 +9227,7 @@
       },
       "optionsRu": {
         "A": "выполнение ПЭТ-КТ",
-        "B": "внутривенная инфузия 0,9% физиологического раствора (intravenous hydration with normal saline)",
+        "B": "внутривенная инфузия 0,9% физиологического раствора",
         "C": "правосторонняя верхняя лобэктомия",
         "D": "определение уровня паратиреоидного гормона (ПТГ) в сыворотке крови"
       },
@@ -9267,7 +9267,7 @@
       "optionsRu": {
         "A": "радикальная химиолучевая терапия",
         "B": "индукционная химиолучевая терапия",
-        "C": "инвазивное стадирование средостения (invasive mediastinal staging)",
+        "C": "инвазивное стадирование средостения",
         "D": "лобэктомия с лимфодиссекцией"
       },
       "correctAnswer": "C",
@@ -9304,10 +9304,10 @@
         "D": "Roux-en-Y gastrojejunostomy"
       },
       "optionsRu": {
-        "A": "фундопликация по Белси Марк IV (Belsey Mark IV)",
-        "B": "малоинвазивная магнитная аугментация сфинктера (LINX)",
+        "A": "фундопликация по Белси Марк IV",
+        "B": "малоинвазивная магнитная аугментация сфинктера",
         "C": "повторная фундопликация по Ниссену с наложением гастростомы",
-        "D": "гастрошунтирование с реконструкцией по Ру (Roux-en-Y gastrojejunostomy)"
+        "D": "гастрошунтирование с реконструкцией по Ру"
       },
       "correctAnswer": "D",
       "explanationEn": "In patients with morbid obesity and multiple failed prior antireflux operations (two previous repairs with recurrent herniation, refractory severe erosive esophagitis, and recurrent life-threatening aspiration events), another redo fundoplication (Option C) carries a prohibitive long-term failure rate exceeding 40%–50%. Obesity drastically increases intra-abdominal pressure, predisposing repeat tissue wraps to recurrent hiatal disruption. Roux-en-Y gastric bypass / gastrojejunostomy (Option D) is the gold standard definitive salvage procedure in this setting: it eliminates the acid-secreting reservoir, diverts biliary and pancreatic secretions away from the esophagus, facilitates substantial weight loss to lower intra-abdominal pressure, and provides the most durable, permanent relief from reflux. While a transthoracic Belsey Mark IV repair (Option A) is historically utilized for complex reoperative hiatus surgery, this patient has severe underlying COPD and recurrent aspiration pneumonia, making a thoracotomy poorly tolerated with high cardiopulmonary morbidity. Magnetic sphincter augmentation (LINX; Option B) is contraindicated in the presence of severe erosive esophagitis (LA grade C), large recurrent hiatal hernia defects, and severely altered reoperative anatomy.",
@@ -9339,7 +9339,7 @@
         "D": "wedge resection"
       },
       "optionsRu": {
-        "A": "базальная сегментэктомия (basilar segmentectomy)",
+        "A": "базальная сегментэктомия",
         "B": "нижняя лобэктомия",
         "C": "стереотаксическая лучевая терапия (SBRT)",
         "D": "клиновидная (краевая) резекция"
@@ -9375,7 +9375,7 @@
       },
       "optionsRu": {
         "A": "резекция дистального отдела пищевода",
-        "B": "первичное ушивание и передняя фундопликация по Дору (primary repair and Dor fundoplication)",
+        "B": "первичное ушивание и передняя фундопликация по Дору",
         "C": "первичное ушивание и полная фундопликация по Ниссену",
         "D": "первичное ушивание и задняя парциальная фундопликация по Тупе"
       },
@@ -9411,7 +9411,7 @@
         "D": "polymyositis"
       },
       "optionsRu": {
-        "A": "гранулематоз с полиангиитом (granulomatosis with polyangiitis)",
+        "A": "гранулематоз с полиангиитом",
         "B": "гиперчувствительный пневмонит",
         "C": "лимфангиолейомиоматоз",
         "D": "полимиозит"
@@ -9448,7 +9448,7 @@
         "D": "serial CXRs"
       },
       "optionsRu": {
-        "A": "компьютерная томография органов грудной клетки (CT of the chest)",
+        "A": "компьютерная томография органов грудной клетки",
         "B": "исследование кариотипа",
         "C": "повторное УЗИ органов грудной клетки",
         "D": "серийные рентгенограммы органов грудной клетки"
@@ -9486,9 +9486,9 @@
       },
       "optionsRu": {
         "A": "остеосцинтиграфия (сканирование костей)",
-        "B": "эндобронхиальное ультразвуковое исследование (EBUS)",
+        "B": "эндобронхиальное ультразвуковое исследование",
         "C": "медиастиноскопия",
-        "D": "чрескожная пункционная биопсия надпочечника (percutaneous biopsy of the adrenal gland)"
+        "D": "чрескожная пункционная биопсия надпочечника"
       },
       "correctAnswer": "D",
       "explanationEn": "In the staging evaluation of suspected advanced non-small cell lung cancer (NSCLC), biopsy confirmation of the suspected highest stage site (M1 vs M0) takes clinical precedence over regional nodal staging. The finding of a solitary, FDG-avid adrenal mass may represent either distant metastatic disease (stage IVB / oligometastatic M1b) or a benign, non-functioning adrenal adenoma (which occurs in up to 3%–5% of the general population and frequently demonstrates mild to moderate FDG uptake). Percutaneous image-guided core needle or fine needle biopsy of the adrenal gland (Option D) is the crucial next step to establish the definitive stage: confirming metastasis will spare the patient inappropriate curative-intent pulmonary surgery, whereas ruling out metastasis (benign adenoma) keeps the patient on a radical, potentially resectable pathway. Invasive mediastinal nodal staging via EBUS (Option B) or mediastinoscopy (Option C) is vital for regional N-staging, but establishing whether systemic metastatic disease exists takes precedence; if the adrenal mass proves to be benign, invasive mediastinal staging can be performed subsequently. Radionuclide bone scan (Option A) provides no additional utility because high-resolution whole-body PET/CT has already interrogated the axial and appendicular skeleton with superior diagnostic accuracy.",
@@ -9523,8 +9523,8 @@
       },
       "optionsRu": {
         "A": "рентгеноскопия пищевода и желудка с барием",
-        "B": "КТ органов грудной клетки (CT chest)",
-        "C": "рентгеноскопическая проба с «нюханием» (sniff test)",
+        "B": "КТ органов грудной клетки",
+        "C": "рентгеноскопическая проба с «нюханием»",
         "D": "правосторонняя торакоскопия"
       },
       "correctAnswer": "B",
@@ -9560,7 +9560,7 @@
       },
       "optionsRu": {
         "A": "бронхоскопия",
-        "B": "КТ-ангиография (CT angiogram)",
+        "B": "КТ-ангиография",
         "C": "диагностический перитонеальный лаваж",
         "D": "эзофагоскопия"
       },
@@ -9598,7 +9598,7 @@
       "optionsRu": {
         "A": "парциальная резекция пищевода",
         "B": "установка пищеводного стента",
-        "C": "первичное ушивание пищевода (primary esophageal repair)",
+        "C": "первичное ушивание пищевода",
         "D": "дренирование Т-образной трубкой"
       },
       "correctAnswer": "C",
@@ -9635,8 +9635,8 @@
       "optionsRu": {
         "A": "изониазид, рифампицин и этамбутол",
         "B": "лучевая терапия на область средостения",
-        "C": "глюкокортикостероиды (steroids)",
-        "D": "видеоассистированная медиастинальная лимфаденэктомия (VAMLA)"
+        "C": "глюкокортикостероиды",
+        "D": "видеоассистированная медиастинальная лимфаденэктомия"
       },
       "correctAnswer": "C",
       "explanationEn": "🎯 <b>Correct Answer: Option C: steroids.</b><br><br>🔵 <b>Detailed Clinical and Pathophysiological Analysis:</b><br>This case illustrates the classic diagnostic and therapeutic presentation of <b>pulmonary sarcoidosis (Stage I / early Stage II)</b>.<br><br>1️⃣ <b>Classic Presentation and Histopathologic Confirmation:</b><br>• <b>Epidemiology and symptoms:</b> African-American male (demographic associated with higher incidence and more aggressive course) presenting with progressive exertional dyspnea and persistent, disabling cough.<br>• <b>Radiologic findings:</b> Significant symmetric bilateral hilar adenopathy on chest radiography and CT.<br>• <b>Histopathologic substrate:</b> Endobronchial ultrasound-guided transbronchial needle aspiration (EBUS-TBNA) demonstrates classic <b>non-caseating (non-necrotizing) epithelioid granulomas</b>.<br><br>2️⃣ <b>Indications for Systemic Therapy and Drug Selection (Why Option C is correct):</b><br>• While asymptomatic Stage I sarcoidosis is managed conservatively with watchful waiting (spontaneous remission occurs in 60%–80%), the development of <b>significant, progressive respiratory symptoms (dyspnea, cough)</b> or objective impairment in pulmonary function tests constitutes a clear indication for pharmacotherapy.<br>• <mark>Systemic oral corticosteroids (prednisone 20–40 mg/day; Option C)</mark> remain the undisputed first-line standard of care. They effectively suppress granulomatous inflammation, resolve mediastinal/hilar adenopathy, relieve symptoms, and prevent irreversible pulmonary fibrotic remodeling.<br><br>3️⃣ <b>Why other options are categorically incorrect:</b><br>• <i>Isoniazid, rifampin, and ethambutol (Option A):</i> Antimycobacterial therapy is indicated for Mycobacterium tuberculosis infection, which typically displays <b>caseating (necrotizing) granulomas</b> and positive acid-fast bacilli staining or PCR. Treating non-caseating sarcoidosis with anti-TB regimens is ineffective and inappropriate.<br>• <i>Mediastinal radiation (Option B):</i> Radiation therapy plays an established role in malignant lymphoma or mediastinal germ cell tumors, but has zero therapeutic utility in non-malignant granulomatous inflammatory conditions.<br>• <i>Video-assisted mediastinal lymphadenectomy (VAMLA; Option D):</i> Invasive surgical lymphadenectomy is redundant and harmful, as definitive tissue confirmation has already been safely attained via minimally invasive EBUS-TBNA.<br><br>🧠 <b>Board Pearl:</b><br>Bilateral hilar adenopathy + Non-caseating granulomas on EBUS-TBNA ➡️ Pulmonary sarcoidosis! ➡️ Asymptomatic ➡️ Watchful waiting! ➡️ SYMPTOMATIC (dyspnea, cough) ➡️ Systemic corticosteroids (prednisone — Option C)! ➡️ Anti-TB triple therapy (Option A ❌) is indicated ONLY for CASEATING necrosis! ➡️ Mediastinal radiation (Option B ❌) has no role in sarcoidosis! ➡️ Surgical lymphadenectomy (Option D ❌) is redundant after diagnostic EBUS!<br><br>🔥 <b>Mnemonic Rule «S-T-E-R-O-I-D-S»:</b><br>• <b>S</b> — <b>S</b>ymptoms dictate treatment (dyspnea/cough mandates therapy).<br>• <b>T</b> — <b>T</b>wo-sided (bilateral) hilar adenopathy.<br>• <b>E</b> — <b>E</b>BUS-TBNA confirms non-caseating granulomas.<br>• <b>R</b> — <b>R</b>ule out tuberculosis (absence of caseous necrosis).<br>• <b>O</b> — <b>O</b>ral prednisone is the first-line agent.<br>• <b>I</b> — <b>I</b>mmunosuppression with corticosteroids (<b>Option C</b>).<br>• <b>D</b> — <b>D</b>ecreases granulomatous inflammation.<br>• <b>S</b> — <b>S</b>top fibrosis progression.",
@@ -9671,9 +9671,9 @@
       },
       "optionsRu": {
         "A": "метопролол",
-        "B": "сцинтиграфия с сестамиби (sestamibi scan)",
-        "C": "определение катехоламинов в моче (urine catecholamines)",
-        "D": "видеоассистированная медиастинальная лимфаденэктомия (VAMLA)"
+        "B": "сцинтиграфия с сестамиби",
+        "C": "определение катехоламинов в моче",
+        "D": "видеоассистированная медиастинальная лимфаденэктомия"
       },
       "correctAnswer": "C",
       "explanationEn": "🎯 <b>Correct Answer: Option C: urine catecholamines.</b><br><br>🔵 <b>Detailed Clinical and Pathophysiological Analysis:</b><br>The combination of an intensely enhancing, hypervascular pretracheal/middle mediastinal mass (5 cm) and objective evidence of massive adrenergic overdrive (severe hypertension of 195/100 mmHg and sinus tachycardia of 105 bpm) is classic for a <b>functional extra-adrenal mediastinal paraganglioma</b> (chromaffin tissue pheochromocytoma of the sympathetic trunk or aortopulmonary ganglia).<br><br>1️⃣ <b>Mandatory Initial Biochemical Confirmation (Why Option C is correct):</b><br>• When a catecholamine-secreting neuroendocrine neoplasm is clinically suspected, the mandatory first diagnostic step is biochemical verification of catecholamine hypersecretion.<br>• This is performed via <b>24-hour urinary fractionated metanephrines and catecholamines (or plasma free metanephrines; Option C)</b>.<br><br>2️⃣ <b>Catastrophic Hazard of Beta-Blocker Monotherapy (Why Option A is contraindicated):</b><br>• Administering a beta-blocker (such as metoprolol; Option A) to a patient with an unblocked pheochromocytoma/paraganglioma is <b>strictly contraindicated</b>.<br>• Blocking vasodilatory beta-2 receptors while high levels of circulating catecholamines persist results in <b>unopposed alpha-1 adrenergic receptor stimulation</b> on the peripheral vasculature. This leads to massive systemic vasoconstriction, triggering a <b>lethal hypertensive crisis</b>, acute pulmonary edema, acute left ventricular failure, or hemorrhagic stroke.<br>• <i>Gold standard pharmacology rule:</i> Alpha-adrenergic blockade (phenoxybenzamine or doxazosin) MUST always precede beta-blockade!<br><br>3️⃣ <b>Why other options are categorically incorrect:</b><br>• <i>Sestamibi scan (Option B):</i> Technetium-99m sestamibi scintigraphy is utilized for the localization of parathyroid adenomas in primary hyperparathyroidism. It has no diagnostic specificity for paragangliomas (where 123I-MIBG scintigraphy or 68Ga-DOTATATE PET/CT is the modality of choice).<br>• <i>Video-assisted mediastinal lymphadenectomy / biopsy (VAMLA; Option D):</i> Invasive biopsy or resection of a suspected paraganglioma prior to adequate medical alpha-blockade carries a prohibitive risk of lethal intraoperative adrenergic crisis (hypertensive crisis and malignant arrhythmias) as well as torrential, uncontrollable hemorrhage from this intensely hypervascular tumor.<br><br>🧠 <b>Board Pearl:</b><br>Hypervascular mediastinal mass + Hypertension (195/100) + Tachycardia (105) ➡️ Mediastinal paraganglioma (pheochromocytoma)! ➡️ Step 1: Biochemical confirmation via urine/plasma metanephrines & catecholamines (Option C)! ➡️ Metoprolol (Option A ❌) is CONTRAINDICATED before alpha-blockade due to unopposed alpha-vasoconstriction! ➡️ Sestamibi scan (Option B ❌) is for parathyroid adenomas! ➡️ VAMLA / biopsy (Option D ❌) carries fatal risks of adrenergic storm and hemorrhage!<br><br>🔥 <b>Mnemonic Rule «P-A-R-A»:</b><br>• <b>P</b> — <b>P</b>retracheal hypervascular mass + hypertension = Paraganglioma.<br>• <b>A</b> — <b>A</b>lpha-blockers FIRST, Beta-blockers (Option A ❌) NEVER alone.<br>• <b>R</b> — <b>R</b>esearch urine catecholamines & metanephrines (<b>Option C</b>).<br>• <b>A</b> — <b>A</b>void biopsy (Option D ❌) before biochemical confirmation and alpha-blockade.",
@@ -9714,7 +9714,7 @@
         "A": "усиление терапии ингибиторами протонной помпы",
         "B": "эзофагэктомия по Айвору Льюису",
         "C": "лапароскопическая миотомия по Геллеру",
-        "D": "лапароскопическая парциальная фундопликация (laparoscopic partial fundoplication)"
+        "D": "лапароскопическая парциальная фундопликация"
       },
       "correctAnswer": "D",
       "explanationEn": "🎯 <b>Correct Answer: Option D: laparoscopic partial fundoplication.</b><br><br>🔵 <b>Detailed Clinical and Pathophysiological Analysis:</b><br>This case illustrates a classic late adverse sequela of per-oral endoscopic myotomy (POEM) — the development of a <b>peptic stricture secondary to severe, unbuffered gastroesophageal acid reflux</b>.<br><br>1️⃣ <b>Pathophysiology and Differential Diagnosis:</b><br>• The major drawback of POEM compared to laparoscopic Heller myotomy is the <i>absence of a concomitant antireflux wrap</i>. Disruption of the lower esophageal sphincter (LES) without an antireflux barrier produces severe pathologic GERD in 40%–60% of post-POEM patients.<br>• In this patient, recurrent dysphagia is driven <b>NOT by incomplete myotomy or recurrent achalasia</b>, but by an <b>inflammatory/peptic stricture</b> in the distal esophagus.<br>• <b>Hallmarks of peptic etiology:</b><br>  - Endoscopic LA grade B erosive esophagitis;<br>  - Severe pathologic distal acid exposure (Bravo study DeMeester score = <b>40</b>, normal < 14.7);<br>  - <b>Prompt symptom resolution after balloon dilation:</b> rapid relief following mechanical dilation confirms that the narrowing is an inflammatory/fibrotic stricture rather than persistent functional spastic obstruction.<br><br>2️⃣ <b>Surgical Strategy and Antireflux Repair (Why Option D is correct):</b><br>• In patients with refractory, severe reflux on maximal medical therapy and an aperistaltic esophagus, surgical restoration of an antireflux barrier via <mark>laparoscopic partial fundoplication (Toupet 270° or Dor 180°; Option D)</mark> is the standard of care.<br>• <b>Why a PARTIAL wrap is mandatory:</b> A partial fundoplication restores competence to the gastroesophageal junction while <i>minimizing outflow resistance</i> in an aperistaltic body. A complete 360° Nissen wrap is <b>strictly contraindicated</b> because a non-peristaltic esophagus cannot overcome a total wrap, causing severe post-operative dysphagia.<br><br>3️⃣ <b>Why other options are categorically incorrect:</b><br>• <i>Increasing proton pump inhibitor therapy (Option A):</i> The patient is already experiencing refractory symptoms, active esophagitis, and a DeMeester score of 40 despite maximal PPI therapy, demonstrating medical treatment failure.<br>• <i>Ivor Lewis esophagectomy (Option B):</i> Highly morbid operation indicated only for end-stage megaesophagus (> 6–8 cm diameter, decompensated sigmoid tortuosity). The caliber here is only 4 cm, and the stricture is benign and readily dilatable.<br>• <i>Laparoscopic Heller myotomy (Option C):</i> Performing another myotomy on an already divided LES will worsen reflux and accelerate recurrent peptic stricture formation.<br><br>🧠 <b>Board Pearl:</b><br>Recurrent dysphagia post-POEM + Severe reflux (DeMeester 40) + Response to dilation ➡️ PEPTIC STRICTURE, not achalasia recurrence! ➡️ Surgical standard of care: Laparoscopic PARTIAL fundoplication (Toupet/Dor — Option D)! ➡️ Redo Heller myotomy (Option C ❌) destroys remaining barrier and worsens stricturing! ➡️ 360° Nissen wrap is CONTRAINDICATED in aperistalsis! ➡️ Esophagectomy (Option B ❌) is unindicated for mild 4 cm dilation!<br><br>🔥 <b>Mnemonic Rule «P-O-E-M»:</b><br>• <b>P</b> — <b>P</b>eptic stricture post-POEM requires anti-reflux reconstruction.<br>• <b>O</b> — <b>O</b>vercoming dysmotility requires a PARTIAL wrap, never 360° Nissen.<br>• <b>E</b> — <b>E</b>ffective response to simple balloon dilation confirms fibrotic/peptic etiology.<br>• <b>M</b> — <b>M</b>atch management to laparoscopic partial fundoplication (<b>Option D</b>).",
@@ -9748,10 +9748,10 @@
         "D": "Toupet fundoplication"
       },
       "optionsRu": {
-        "A": "магнитная аугментация сфинктера (LINX)",
-        "B": "гастрошунтирование по Ру (Roux-en-Y gastric bypass)",
-        "C": "рукавная резекция желудка (sleeve gastrectomy)",
-        "D": "фундопликация по Тупе (Toupet fundoplication)"
+        "A": "магнитная аугментация сфинктера",
+        "B": "гастрошунтирование по Ру",
+        "C": "рукавная резекция желудка",
+        "D": "фундопликация по Тупе"
       },
       "correctAnswer": "D",
       "explanationEn": "🎯 <b>Correct Answer: Option D: Toupet fundoplication.</b><br><br>🔵 <b>Detailed Clinical and Pathophysiological Analysis:</b><br>This case addresses the optimal antireflux procedure in a patient presenting with a hiatal hernia, severe medically refractory GERD (DeMeester score = 40, LA grade B esophagitis), and <b>documented ineffective esophageal motility / hypomotility</b> (normal peristalsis in only 50% of swallows, 30% weak contractions).<br><br>1️⃣ <b>Contraindications to Magnetic Sphincter Augmentation (LINX; Option A):</b><br>• Established clinical guidelines from SAGES (Society of American Gastrointestinal and Endoscopic Surgeons) dictate that candidates for magnetic sphincter augmentation (MSA / LINX device) must demonstrate <b>preserved esophageal body peristalsis</b>, defined as <b>at least 70%</b> normal/effective propagating contractions on high-resolution manometry.<br>• Because this patient has only 50% effective contractions (significant hypomotility), MSA (Option A) is <b>strictly contraindicated</b> due to an unacceptably high risk of severe, intractable post-procedure dysphagia and food bolus impaction.<br><br>2️⃣ <b>Why Posterior Partial Fundoplication (Toupet; Option D) is the Gold Standard:</b><br>• Performing a complete 360° Nissen fundoplication in patients with pre-existing body hypomotility results in a high incidence of severe gas-bloat syndrome and post-operative obstructive dysphagia.<br>• <mark>Laparoscopic posterior 270° partial fundoplication (Toupet fundoplication; Option D)</mark> combined with crural repair (cruroplasty) provides robust reflux control while avoiding excessive outflow resistance, thereby <b>preventing post-operative dysphagia</b> in hypomotile esophagi.<br><br>3️⃣ <b>Why other options are suboptimal or contraindicated:</b><br>• <i>Roux-en-Y gastric bypass (Option B):</i> While highly effective for morbid obesity and GERD, it is primarily reserved for patients failing prior antireflux operations or those with BMI ≥ 35–40 kg/m² seeking bariatric intervention as the primary goal. Primary hiatal repair with Toupet fundoplication remains the preferred organ-sparing approach here.<br>• <i>Sleeve gastrectomy (Option C):</i> <b>Strictly contraindicated in GERD and erosive esophagitis!</b> Resection of the gastric fundus increases intraluminal gastric pressure, disrupts the angle of His, and drastically exacerbates reflux.<br><br>🧠 <b>Board Pearl:</b><br>Hiatal hernia + Severe GERD + Esophageal hypomotility (less than 70% normal swallows) ➡️ LINX magnetic sphincter (Option A ❌) is STRICTLY CONTRAINDICATED due to severe dysphagia risk! ➡️ 360° Nissen fundoplication is contraindicated in hypomotility! ➡️ Procedure of choice: Laparoscopic 270° posterior partial Toupet fundoplication (Option D)! ➡️ Sleeve gastrectomy (Option C ❌) is CONTRAINDICATED in GERD (exacerbates acid reflux)!<br><br>🔥 <b>Mnemonic Rule «T-O-U-P-E-T»:</b><br>• <b>T</b> — <b>T</b>wo-hundred seventy degree wrap (270° posterior wrap).<br>• <b>O</b> — <b>O</b>vercomes dysmotility & hypomotility without causing obstruction.<br>• <b>U</b> — <b>U</b>nsuitable for LINX when normal peristalsis is less than 70%.<br>• <b>P</b> — <b>P</b>artial fundoplication (<b>Option D</b>).<br>• <b>E</b> — <b>E</b>sophagitis LA grade B treated effectively.<br>• <b>T</b> — <b>T</b>reatment of choice for hiatal hernia with impaired motility.",
@@ -9787,7 +9787,7 @@
         "A": "выполнить циркулярную резекцию (sleeve-резекцию) дистального отдела главного бронха",
         "B": "установить саморасширяющийся металлический стент",
         "C": "установить дополнительный плевральный дренаж в данную зону",
-        "D": "выполнить первичное ушивание дефекта с укреплением межреберным мышечным лоскутом (primarily repair the defect and buttress with an intercostal flap)"
+        "D": "выполнить первичное ушивание дефекта с укреплением межреберным мышечным лоскутом"
       },
       "correctAnswer": "D",
       "explanationEn": "🎯 <b>Correct Answer: Option D: primarily repair the defect and buttress with an intercostal flap.</b><br><br>🔵 <b>Detailed Clinical and Pathophysiological Analysis:</b><br>This scenario illustrates the intraoperative recognition and surgical management of an iatrogenic tracheobronchial rupture incurred from double-lumen tube (DLT) placement or cuff overinflation, exposed during mediastinal subcarinal lymph node dissection.<br><br>1️⃣ <b>Pathophysiology and Intraoperative Assessment:</b><br>• The membranous portion of the tracheobronchial tree is structurally thin and susceptible to laceration by stylets, excessive tube manipulation, or high cuff inflation pressures.<br>• Subcarinal lymphadenectomy completely skeletonizes and strips the adventitia/mediastinal pleura off the left main bronchus, leaving the membranous wall exposed in the open pleural space.<br>• Direct visualization of the blue DLT cuff through a 1 cm linear tear proves a full-thickness transmural laceration requiring active surgical restoration.<br><br>2️⃣ <b>Primary Repair and Autologous Buttressing (Why Option D is correct):</b><br>• In a fresh, uninfected intraoperative laceration (1 cm) in an exposed pleural cavity, <mark>immediate primary repair buttressed with a vascularized autologous flap (Option D)</mark> is the gold standard.<br>• <b>Technical tenets:</b><br>  - Primary closure using fine, interrupted absorbable sutures (4-0 PDS or Vicryl) while ensuring an airtight seal without luminal narrowing;<br>  - <b>Obligatory buttressing:</b> An <mark>intercostal muscle flap</mark> (or pericardial fat pad / pleural flap) is mobilized and secured over the suture line to reinforce the repair, prevent persistent air leaks, and isolate the healing airway from adjacent pulmonary arterial and aortic branches to eliminate fistula risk.<br><br>3️⃣ <b>Why other options are categorically incorrect:</b><br>• <i>Distal mainstem sleeve resection (Option A):</i> Excessively morbid and unindicated for an acute, clean, simple 1 cm linear laceration with viable margins; sleeve resections are reserved for extensive devitalizing tissue loss or complex ischemic necrosis.<br>• <i>Placement of a self-expanding metal stent (Option B):</i> Endobronchial stenting is contraindicated for fresh operative lacerations; it prevents anatomical tissue apposition, cannot guarantee an airtight seal in a skeletonized mediastinum, and carries high risks of migration and vascular erosion.<br>• <i>Additional chest drain alone (Option C):</i> Conservative tube drainage without operative closure in a skeletonized, stripped bronchus inevitably produces high-volume persistent air leaks, tension physiology, bronchopleural fistula, and devastating mediastinitis.<br><br>🧠 <b>Board Pearl:</b><br>Intraoperative membranous bronchus laceration (1 cm) with visible DLT cuff ➡️ Fresh, clean operative defect! ➡️ Surgical standard of care: Primary suture repair + Vascularized intercostal muscle flap buttress (Option D)! ➡️ Mainstem sleeve resection (Option A ❌) is overtreatment for a simple linear tear! ➡️ Endobronchial stent (Option B ❌) carries severe erosion/migration hazards! ➡️ Conservative drainage alone (Option C ❌) leads to persistent air leak, fistula, and mediastinitis!<br><br>🔥 <b>Mnemonic Rule «R-E-P-A-I-R»:</b><br>• <b>R</b> — <b>R</b>upture of membranous bronchus by DLT cuff.<br>• <b>E</b> — <b>E</b>ndotracheal tube cuff visible = full thickness tear.<br>• <b>P</b> — <b>P</b>rimary suture closure with 4-0 PDS.<br>• <b>A</b> — <b>A</b>utologous intercostal muscle flap buttress (<b>Option D</b>).<br>• <b>I</b> — <b>I</b>solates suture line from pulmonary vessels.<br>• <b>R</b> — <b>R</b>estores bronchial integrity completely.",
@@ -9823,7 +9823,7 @@
         "A": "диуретическая терапия",
         "B": "катетеризация левых отделов сердца",
         "C": "ингаляционный оксид азота",
-        "D": "чреспищеводная эхокардиография (transesophageal echocardiogram)"
+        "D": "чреспищеводная эхокардиография"
       },
       "correctAnswer": "D",
       "explanationEn": "🎯 <b>Correct Answer: Option D: transesophageal echocardiogram.</b><br><br>🔵 <b>Detailed Clinical and Pathophysiological Analysis:</b><br>This clinical scenario demonstrates a catastrophic early surgical emergency following lung transplantation — <b>acute pulmonary venous outflow obstruction</b> (stenosis, torsion, or thrombosis of the left atrial cuff anastomosis).<br><br>1️⃣ <b>Pathophysiology of Unilateral Allograft Pulmonary Edema:</b><br>• The acute onset of copious, frothy secretions emanating <i>exclusively from a single (left) lung</i> within hours of reperfusion, paired with refractory hypoxemia, is pathognomonic for unilateral pulmonary venous compromise rather than systemic hypervolemia.<br>• Etiologies typically involve technical mechanical flaws at the left atrial cuff anastomosis: anastomotic axial twisting/torsion, back-wall suture catch, extrinsic compression, or acute in situ thrombosis.<br>• Mechanical postcapillary venous outflow obstruction sharply elevates downstream pulmonary capillary hydrostatic pressure, precipitating massive alveolar transudation (unilateral flash pulmonary edema).<br><br>2️⃣ <b>Bedside Diagnostic Gold Standard (Why Option D is correct):</b><br>• An urgent bedside <mark>transesophageal echocardiogram (TEE; Option D)</mark> is the undisputed diagnostic investigation of choice.<br>• <b>Diagnostic utility of TEE:</b><br>  - Directly interrogates the left atrial anastomosis and pulmonary venous orifices;<br>  - Uses color flow and pulsed-wave Doppler to detect turbulent flow, elevated peak velocities (> 1.0–1.2 m/s), and elevated transanastomotic pressure gradients (mean gradient > 3–5 mmHg);<br>  - Verifies luminal narrowing, anastomotic kinking, or intraluminal thrombus.<br>• Identification of mechanical obstruction mandates <b>immediate return to the operating room</b> for surgical thrombectomy, untwisting, or anastomotic revision. Delay beyond 4–6 hours inevitably leads to hemorrhagic venous infarction and graft failure.<br><br>3️⃣ <b>Why other options are categorically incorrect:</b><br>• <i>Diuresis (Option A):</i> Loop diuretics address bilateral hydrostatic hypervolemic edema; they fail to relieve mechanical anastomotic obstruction and may cause systemic hypoperfusion.<br>• <i>Left heart catheterization (Option B):</i> Coronary angiography is invasive and introduces dangerous delays; it is unindicated without ischemic ECG changes or regional wall motion abnormalities.<br>• <i>Inhaled nitric oxide (Option C):</i> Inhaled nitric oxide (iNO) is a selective pulmonary arterial vasodilator used for primary graft dysfunction (PGD) and pulmonary hypertension. In the presence of a postcapillary venous block, increasing arterial inflow into the obstructed vascular bed <b>further accelerates hydrostatic capillary flooding and worsens alveolar edema</b>.<br><br>🧠 <b>Board Pearl:</b><br>Unilateral pulmonary edema immediately following lung transplant ➡️ Pathognomonic for PULMONARY VENOUS OBSTRUCTION (atrial cuff twist/thrombosis)! ➡️ Step 1: Urgent bedside TEE (Option D)! ➡️ Confirmed obstruction ➡️ Immediate return to OR for surgical revision! ➡️ Inhaled nitric oxide (Option C ❌) WORSENS hydrostatic edema by increasing arterial inflow against a venous block! ➡️ Diuresis (Option A ❌) does not fix mechanical obstruction! ➡️ Coronary cath (Option B ❌) causes fatal delays!<br><br>🔥 <b>Mnemonic Rule «T-E-E»:</b><br>• <b>T</b> — <b>T</b>ransesophageal echocardiogram is the gold standard bedside test (<b>Option D</b>).<br>• <b>E</b> — <b>E</b>valuate pulmonary venous flow and atrial cuff gradients.<br>• <b>E</b> — <b>E</b>mergent reoperation saves the allograft from hemorrhagic venous infarction.",
@@ -9858,7 +9858,7 @@
       },
       "optionsRu": {
         "A": "ингаляционная индукция анестезии с последующей установкой ларингеальной маски и осмотром гибким бронхоскопом",
-        "B": "ингаляционная индукция анестезии с проведением ригидного бронхоскопа за зону обструкции и последующим введением миорелаксантов (inhalational anesthesia induction followed by passage of rigid bronchoscope beyond obstruction and subsequent paralytic administration)",
+        "B": "ингаляционная индукция анестезии с проведением ригидного бронхоскопа за зону обструкции и последующим введением миорелаксантов",
         "C": "сочетанная внутривенная и ингаляционная индукция с введением миорелаксантов, фиброоптической интубацией трахеи и осмотром гибким бронхоскопом",
         "D": "местная анестезия с последующим осмотром гибким бронхоскопом, введенным через носовые ходы"
       },
@@ -9899,7 +9899,7 @@
       },
       "optionsRu": {
         "A": "диафрагмальная электрокардиостимуляция (пейсинг диафрагмы)",
-        "B": "пликация диафрагмы (diaphragmatic plication)",
+        "B": "пликация диафрагмы",
         "C": "краевая биопсия легкого",
         "D": "легочная реабилитация"
       },
@@ -9935,7 +9935,7 @@
       },
       "optionsRu": {
         "A": "назогастральная декомпрессия и повторная КТ",
-        "B": "трансабдоминальная пластика (repair transabdominally)",
+        "B": "трансабдоминальная пластика",
         "C": "пластика через левостороннюю торакоскопию",
         "D": "пластика через правостороннюю торакотомию"
       },
@@ -9978,7 +9978,7 @@
       "optionsRu": {
         "A": "иммунотерапия в сочетании с лучевой терапией",
         "B": "стереотаксическая лучевая терапия обоих очагов",
-        "C": "хирургическая резекция обоих очагов (surgical resection of both lesions)",
+        "C": "хирургическая резекция обоих очагов",
         "D": "системная химиотерапия третьей линии"
       },
       "correctAnswer": "C",
@@ -10018,7 +10018,7 @@
       },
       "optionsRu": {
         "A": "дополнительная лобэктомия средней доли правого легкого",
-        "B": "химиотерапия на основе препаратов платины (platinum-based chemotherapy)",
+        "B": "химиотерапия на основе препаратов платины",
         "C": "лучевая терапия на зону аппаратного шва средней доли",
         "D": "повторная КТ грудной клетки и брюшной полости через 3 месяца"
       },
@@ -10054,7 +10054,7 @@
         "D": "manometry"
       },
       "optionsRu": {
-        "A": "рентгеноскопия пищевода с барием (barium esophagram)",
+        "A": "рентгеноскопия пищевода с барием",
         "B": "КТ органов грудной клетки с пероральным контрастированием",
         "C": "эзофагогастродуоденоскопия (ЭГДС)",
         "D": "манометрия пищевода"

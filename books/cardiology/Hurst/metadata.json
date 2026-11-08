@@ -11,16 +11,10 @@
     ],
     "magazine": false,
     "quiz": false,
-    "quiz_sets": [
-      {
-        "id": "no",
-        "label": "no",
-        "file": "quiz/no.json"
-      }
-    ],
+    "quiz_sets": [],
     "versions": {
-      "original": false,
-      "russian": false,
+      "original": true,
+      "russian": true,
       "starley": false,
       "hebrew": false
     },

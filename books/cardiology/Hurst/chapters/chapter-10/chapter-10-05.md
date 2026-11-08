@@ -49,7 +49,7 @@
 * **Precursor types:** Abnormal (AL, hereditary ATTR, AApoAI); normal (ATTR wild-type/senile, AANF); normal but abundant (β2-microglobulin).
 
 ### Diagnostic Workup in Cardiac Amyloidosis
-* **Clinical suspicion:** Fatigue, weight loss, HF, nephrotic syndrome, neuropathy, hepatomegaly, macroglossia, purpura, carpal tunnel syndrome, jaw claudication. Age 60-80 years. ATTR wild-type affects ~20% of males >80.
+* **Clinical suspicion:** Fatigue, weight loss, HF, nephrotic syndrome, neuropathy, hepatomegaly, macroglossia, purpura, carpal tunnel syndrome, jaw claudication. Age 60-80 years. ATTR wild-type affects ~ 20% of males >80.
 * **Biochemical testing:** Serum immunofixation/electrophoresis, serum free light chain assay. Negative monoclonal protein excludes AL in 98% but does NOT exclude ATTR.
 * **ECG:** Low QRS voltage in >50% (can be absent in ATTR wild-type). AV block possible.
 * **Echocardiography:** Symmetric LV hypertrophy, biventricular thickening, atrial septum thickening, pericardial effusion, AV valve thickening, granular sparkling echo-reflectance.
@@ -194,7 +194,7 @@ Cardiac catheterization is usually planned on an individual basis (eg, in patien
 | Murmurs/tones (diastole) | Low-pitched S3: 0.12-0.18s after S2, or an S4 | Possible | High-pitched pericardial knock: 0.06-0.12s after S2 | Possible |
 | **Electrocardiogram** | | | | |
 | P wave | High | High | Low | High |
-| QRS voltage | High | | Possible, 25% | Low, possible ~50% |
+| QRS voltage | High | | Possible, 25% | Low, possible ~ 50% |
 | Q wave | Common | Common | No | Possible |
 | LVH | Possible | | No | No |
 | Atrioventricular block | Possible, according to the cause | | No | Possible, 50% |

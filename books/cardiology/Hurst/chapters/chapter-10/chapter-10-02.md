@@ -9,7 +9,7 @@
 ### Definition and Epidemiology
 * **DCM definition:** Chronic heart muscle disease with LV (or biventricular) dilatation and systolic impairment, unexplained by abnormal loading conditions or significant coronary artery disease (ESC/ AHA criteria). LV wall thickness is normal.
 * **Familial vs. nongenetic:** >60% of DCM is familial (genetic), with >100 disease genes identified. Nongenetic (acquired) DCM includes autoimmune, toxic, inflammatory, peripartum, and metabolic forms, often potentially reversible if the cause is removed.
-* **Incidence/prevalence:** Phenotype‑based estimates: ~6.0 per 100,000 person‑years; prevalence ~36.5 per 100,000 (1:2500). These are pre‑genetic era data; new estimates will rise with early diagnosis and family screening.
+* **Incidence/prevalence:** Phenotype‑based estimates: ~ 6.0 per 100,000 person‑years; prevalence ~ 36.5 per 100,000 (1:2500). These are pre‑genetic era data; new estimates will rise with early diagnosis and family screening.
 * **Etiology‑based prevalence:** Most DCM subtypes are rare (<1:2000). Familial DCM (FDCM) burden is dynamic and evolving.
 
 ### Diagnostic Workup and Family Screening
@@ -25,7 +25,7 @@
     - Sarcomere genes (*TTN, MYH7, MYBPC3, TNNT2, TNNI3, MYL2, MYL3*) – 25‑30% of DCM. *TTN* truncating variants reported in 25% of DCM, but 1 in 500 controls carry such variants, so interpretation is cautious.
     - Nuclear envelope genes (*LMNA, EMD, SYNE1, TMPO*) – 7‑10% (LMNA is dominant).
     - Z‑disc genes (*ACTN2, ANKRD1, BAG3, CRYAB, CSRP3, FHL2, LDB3, MYPN, MURC, NEXN, PGM1, VCL*) – <10%.
-    - Intermediate filament (*DES*) – ~1%.
+    - Intermediate filament (*DES*) – ~ 1%.
     - Mitochondrial genes (nuclear and mtDNA) – <5%.
     - Dystrophin defects (*DMD*) – 6‑7% in male series; sarcoglycan complex – <1%.
     - Ion channels (*SCN5A*), *ABCC9*, *CHRM2* – <1%.
@@ -36,7 +36,7 @@
 ### Grouping Genetic DCM by Disease Gene
 * **Dilated cardiolaminopathies (DCM‑LMNA):** DCM with conduction system disease (up to 80%). Conduction defects (PR prolongation, AV block) often precede LV dysfunction. High arrhythmogenic risk (atrial and ventricular arrhythmias, sudden death). ICD implantation recommended (Class IIa, Level B) if LMNA mutation plus risk factors: NSVT, LVEF <45%, male sex, non‑missense mutations.
 * **Dilated cardioemerinopathies (DCM‑EMD):** X‑linked recessive, mimic laminopathies (DCM + conduction disease + myopathy). Caused by *EMD* mutations. Management includes antiarrhythmics, pacing, ICD, transplantation.
-* **Dilated cardiodystrophinopathies (DCM‑DYS):** X‑linked, caused by *DMD* rearrangements (mostly deletions). Present in males with DCM, often elevated CK (>80%). Low arrhythmogenic risk despite severe dysfunction. May show LVNC (~30%, prognostic marker). VAD and transplantation possible.
+* **Dilated cardiodystrophinopathies (DCM‑DYS):** X‑linked, caused by *DMD* rearrangements (mostly deletions). Present in males with DCM, often elevated CK (>80%). Low arrhythmogenic risk despite severe dysfunction. May show LVNC (~ 30%, prognostic marker). VAD and transplantation possible.
 * **Dilated cardiozaspopathies (DCM‑LDB3):** Mutations in *LDB3* (Z‑disc Cypher‑ZASP). Associated with LVNC/hypertrabeculation. The common variant p.(D117N) may be a polymorphism in some populations.
 * **Dilated cardiomyosinopathies (DCM‑MYH7):** MYH7 mutations causing DCM (loss of function) vs HCM (gain of function). Complex interactions with mitochondrial mutations and modifier genes may explain phenotype.
 * **Dilated cardioMITOmyopathies:** Mitochondrial DNA or nuclear genes. Multiorgan syndromes (hearing loss, ptosis, myopathy, renal failure, stroke, diabetes). Phenotype may be HCM evolving to DCM, or primary DCM. Maternal inheritance for mtDNA; Mendelian for nuclear.
@@ -54,7 +54,7 @@
 * **Treatment:** HF medications; biologic therapies (TNF‑α, IL‑6, B‑cell, CTLA4) may be used; precise diagnosis is critical.
 
 ### Rheumatoid Arthritis (RA)
-* **Cardiac manifestations:** DCM (accounts for ~20% mortality), pericarditis (up to 50%, but haemodynamic effusion rare), valve nodules/calcification, accelerated atherosclerosis.
+* **Cardiac manifestations:** DCM (accounts for ~ 20% mortality), pericarditis (up to 50%, but haemodynamic effusion rare), valve nodules/calcification, accelerated atherosclerosis.
 * **HF risk:** RA is an independent risk factor for HF (after adjusting for CAD). Diastolic dysfunction is common, driven by cytokines (TNF‑α, IL‑1, IL‑6). CMR shows lower LV volumes rather than increased mass.
 * **Iatrogenic damage:** Hydroxychloroquine – myelin figures/curvilinear bodies on biopsy, causing hypertrophic‑restrictive or dilated cardiomyopathy. TNF‑I may worsen HF; guidelines recommend caution (only in compensated HF if no alternatives).
 * **Reactive amyloidosis:** AA amyloid in 21‑30% of RA (cardiac in 28%), restrictive phenotype; anti‑TNF may reverse.
@@ -71,7 +71,7 @@
 * **Incidence:** 1:4000 to 1:1000 in Western world; up to 1:300 in Haiti; varies regionally.
 * **Risk factors:** Age >30, multiparity, African American race, obesity, pre‑eclampsia, chronic hypertension.
 * **Aetiological hypotheses:**
-    - Genetic: *TTN* truncating variants found in ~15% of PPCM (similar to DCM), suggesting genetic predisposition.
+    - Genetic: *TTN* truncating variants found in ~ 15% of PPCM (similar to DCM), suggesting genetic predisposition.
     - Haemodynamic: exaggerated response to pregnancy changes (unlikely alone).
     - Viral/inflammatory: unconfirmed; myocarditis does not affect outcome.
     - Selenium deficiency: risk factor in Nigeria.
@@ -83,7 +83,7 @@
 
 ### Alcoholic Heart Disease
 * **Definition:** Heavy alcohol (>80 g/day for ≥5 years) causes DCM (alcoholic cardiomyopathy, A‑CMP). Exclude other causes.
-* **Prevalence:** Among alcoholics, DCM ~0.43% women, 0.25% men.
+* **Prevalence:** Among alcoholics, DCM ~ 0.43% women, 0.25% men.
 * **Mechanisms:** Mitochondrial toxicity, oxidative stress, apoptosis, impaired excitation‑contraction coupling, mitochondrial dysfunction.
 * **Prognosis:** Abstinence or reduction to <80 g/day improves survival and LV function. A‑CMP has better prognosis than idiopathic DCM. Atrial fibrillation, QRS >120 ms, no β‑blocker predict poor outcome.
 
@@ -117,7 +117,7 @@
 * **Clinical relevance:** Patients with genetic DCM may develop cancer; CTRCD can confound diagnosis. Cardiologists must be involved in multidisciplinary care.
 
 ### Prognosis
-* **Overall improvement:** Over past 3 decades, prognosis has improved due to ACEi, ARB, β‑blockers, aldosterone antagonists, CRT, ICD. Annual major event rates dropped to <2 per 100 patient‑years; 8‑year transplant‑free survival ~87%.
+* **Overall improvement:** Over past 3 decades, prognosis has improved due to ACEi, ARB, β‑blockers, aldosterone antagonists, CRT, ICD. Annual major event rates dropped to <2 per 100 patient‑years; 8‑year transplant‑free survival ~ 87%.
 * **Reverse remodelling:** Up to 50% of CRT patients show significant reverse remodelling over 24 months.
 * **Arrhythmic risk:** Even super‑responders remain at risk for VT/VF. Myocardial fibrosis on CMR predicts mortality and SCD. Low LVEF has limited sensitivity/specificity.
 * **Genetics in risk stratification:** LMNA mutations guide ICD decisions (ESC 2015 guidelines incorporate genetics). Future: cause‑specific risk stratification based on genotype.
@@ -1311,6 +1311,8 @@ Overall, cancer therapy related cardiovascular toxicity may affect myocardium fu
 ###### Abbreviations: AV, atrioventricular; LV, left ventricular.
 ###### *Mitoxantrone being an anthracycline derivative, with immunosuppression effects, used in the past for multiple sclerosis is reported as potentially associated with the risk of acute leukemia.
 ###### †Angioedema: rare.
+
+</div></details>
 
 </div></details>
 

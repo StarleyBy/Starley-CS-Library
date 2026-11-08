@@ -10,13 +10,13 @@
 * **Trauma:** Leading cause of death and disability in young people. Thoracic injuries contribute to 20–25% of trauma deaths and 25–50% of remaining deaths (up to 75% of all trauma-related deaths).
 * **Mechanisms:** Penetrating (low-, medium-, high-velocity) or blunt (deceleration, direct precordial blow, abdominal compression).
 * **Penetrating cardiac injury:** Highly lethal (70–80% mortality). Right ventricle most frequently injured (43%), followed by LV (34%), RA (16%), LA (7%).
-* **Blunt cardiac injury:** Involved in up to 20% of motor vehicle collision deaths; ~30,000 cases/year in US. Diagnosis challenging due to lack of clear definition.
+* **Blunt cardiac injury:** Involved in up to 20% of motor vehicle collision deaths; ~ 30,000 cases/year in US. Diagnosis challenging due to lack of clear definition.
 
 ### Penetrating Cardiac Injuries
 * **Pathophysiology:** Hemorrhage and tamponade are primary manifestations. LV injuries more likely to cause overt hemorrhage; stab wounds often present with tamponade (mortality as low as 8% in experienced centers).
 * **Diagnosis:** High index of suspicion – patients with potentially fatal wounds can be stable at presentation. Echocardiography confirms diagnosis; lack of effusion does not exclude injury. Subxiphoid window is diagnostic gold standard short of exploration.
 * **Management:**
-  * Unstable/pulseless → emergency left anterior thoracotomy (may salvage ~20% of isolated penetrating cardiac injuries).
+  * Unstable/pulseless → emergency left anterior thoracotomy (may salvage ~ 20% of isolated penetrating cardiac injuries).
   * Stable → OR, median sternotomy preferred (allows cardiopulmonary bypass if needed).
   * Repair: Pledgeted sutures, finger control. Coronary artery injuries → bypass large vessels, ligate smaller branches.
 * **Injury patterns:** May involve interatrial/interventricular septum, coronary arteries, valves, subvalvular apparatus, conduction system ([Table 104-1](#table-104-1)).
@@ -38,13 +38,13 @@
 
 ### Great Vessel Injury
 * **Penetrating great vessel injury:** Prevalence 0.3–10%; > 90% due to penetrating trauma. High mortality. Emergent repair via left thoracotomy with short cross-clamp times; interposition graft rarely needed. Paraplegia rare even with prolonged clamping.
-* **Aortic rupture (blunt):** Second only to closed head injury as cause of death in blunt trauma (~8000 deaths/year in US). ~20% survive to reach medical care.
+* **Aortic rupture (blunt):** Second only to closed head injury as cause of death in blunt trauma (~ 8000 deaths/year in US). ~ 20% survive to reach medical care.
 * **Mechanism:** Severe deceleration (most commonly MVC). Tears most often at aortic isthmus (ligamentum arteriosum). Innominate/carotid/subclavian avulsion less common.
 * **Diagnosis:** Suspect based on mechanism. Classic CXR findings (widened mediastinum, apical capping, left mainstem bronchus depression) may be absent. CT angiography is now commonly used; aortography is definitive. TEE at bedside for unstable patients.
 * **Management:**
   * Immediate repair via left thoracotomy depending on stability.
   * Delayed repair for multiply injured patients (growing popularity).
-  * Nonoperative management carries ~4% risk of rupture within 1 week.
+  * Nonoperative management carries ~ 4% risk of rupture within 1 week.
   * Endovascular stent grafting: Promising results ([Fig. 104-3](#fig-104-3)). SVS data: 30-day mortality 9.1%, mean operative time 125 minutes. Preferred in elderly or those with severe lung/head injuries.
 
 </div></details>

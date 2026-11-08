@@ -54,7 +54,7 @@
 
 ### Acquired Isolated LVNC
 * **Athletes:** In pre‑participation screening, 8% of asymptomatic athletes fulfil echocardiographic criteria; intensive training may induce reversible hypertrabeculation.
-* **Pregnancy:** Prospective study showed 25% of primigravidas develop increased trabeculations; 9.8% fulfil Jenni criteria. Resolution occurs postpartum in 69% over ~8 months.
+* **Pregnancy:** Prospective study showed 25% of primigravidas develop increased trabeculations; 9.8% fulfil Jenni criteria. Resolution occurs postpartum in 69% over ~ 8 months.
 * **Haematological disorders:** Reported in hereditary spherocytosis, essential thrombocythaemia, β‑thalassaemia (13.3%). Mechanism unknown; possibly related to chronic anaemia/iron overload.
 * **Chronic renal failure:** Case reports; anticoagulation may be initiated after diagnosis.
 * **Bicuspid aortic valve:** 11% of BAV patients meet LVNC criteria – more common in males.

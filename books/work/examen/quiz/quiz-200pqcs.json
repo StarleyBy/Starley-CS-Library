@@ -24,7 +24,7 @@
       "optionsRu": {
         "A": "Каждое ребро имеет головку, сочленяющуюся с остистым отростком одноименного позвонка",
         "B": "Каждое ребро имеет бугорок, который сочленяется с телом позвонка",
-        "C": "Каждое ребро имеет шейку, переходящую в тело и заканчивающуюся передним сочленением (Each rib has a neck that terminates in an anterior articulation)",
+        "C": "Каждое ребро имеет шейку, переходящую в тело и заканчивающуюся передним сочленением",
         "D": "XI–XII ребра имеют двойное переднее сочленение",
         "E": "На верхнем крае каждого ребра проходит реберная борозда, содержащая сосудисто-нервный пучок"
       },
@@ -66,10 +66,10 @@
         "E": "has caval hiatus at T12 level."
       },
       "optionsRu": {
-        "A": "имеет волокна ножек (crural fibers), прикрепляющиеся к ребрам",
+        "A": "имеет волокна ножек, прикрепляющиеся к ребрам",
         "B": "содержит аортальное отверстие на уровне позвонка Th10",
         "C": "содержит пищеводное отверстие, через которое проходят ветви правого диафрагмального нерва",
-        "D": "имеет отверстие Морганьи, через которое проходят верхние надчревные ветви внутренней грудной артерии (has foramen of Morgagni that transmits superior epigastric branches from internal mammary artery)",
+        "D": "имеет отверстие Морганьи, через которое проходят верхние надчревные ветви внутренней грудной артерии",
         "E": "содержит отверстие нижней полой вены на уровне позвонка Th12"
       },
       "correctAnswer": "D",
@@ -112,7 +112,7 @@
         "B": "Лимфоузлы 6-го уровня расположены кзади от дуги аорты",
         "C": "Лимфоузлы 7-го уровня недоступны при стандартной шейной медиастиноскопии",
         "D": "Лимфоузлы 10-го уровня располагаются вдоль легочной связки",
-        "E": "Передняя медиастинотомия/медиастиноскопия обеспечивает доступ к лимфоузлам 5-го и 6-го уровней (Anterior mediastinoscopy provides access to level 5 and 6 nodes)"
+        "E": "Передняя медиастинотомия/медиастиноскопия обеспечивает доступ к лимфоузлам 5-го и 6-го уровней"
       },
       "correctAnswer": "E",
       "explanationEn": "🎯 <b>Correct Answer: Option E: Anterior mediastinoscopy provides access to level 5 and 6 nodes.</b><br><br>🔵 <b>Detailed Thoracic Oncology and Surgical Anatomy Analysis:</b><br>Accurate nodal staging in non-small cell lung cancer (NSCLC) directly defines resectability and dictates whether a patient receives upfront surgical resection versus induction/neoadjuvant chemo-immunotherapy followed by surgery.<br><br>1️⃣ <b>Surgical Windows and Anatomical Limitations (Why Option E is correct):</b><br>• Standard <b>cervical mediastinoscopy</b> introduces a scope into the pretracheal fascia beneath the innominate (brachiocephalic) artery, granting direct access to bilateral upper paratracheal (station 2R/2L), lower paratracheal (station 4R/4L), and subcarinal (station 7) nodes.<br>• However, the aortic arch and great vessels physically shield the anterior and subaortic mediastinum, rendering the <b>subaortic / aortopulmonary window nodes (Station 5)</b> and <b>para-aortic / ascending aorta nodes (Station 6)</b> completely inaccessible via cervical mediastinoscopy.<br>• Biopsy of stations 5 and 6 classically requires an <mark style=\"background:#2ecc71;color:#fff\"><b>anterior mediastinotomy / anterior mediastinoscopy (Chamberlain procedure — Option E)</b></mark>, performed via a left anterior parasternal incision through the bed of the second costal cartilage, or alternatively via left-sided video-assisted thoracoscopic surgery (VATS).<br><br>2️⃣ <b>IASLC Anatomical Rules & Definitions:</b><br>• <i>Nodal Tier Nomenclature:</i> Single-digit numbers (stations 1 through 9) denote <b>mediastinal lymph nodes</b> (ipsilateral metastasis = $N_2$; contralateral metastasis = $N_3$). Double-digit numbers (stations 10 through 14) denote <b>hilar and intrapulmonary lymph nodes</b> (metastasis = $N_1$).<br>• <i>Station 5 (Subaortic / AP Window):</i> Nodes situated laterally to the ligamentum arteriosum, bounded superiorly by the lower border of the aortic arch and inferiorly by the left pulmonary artery.<br>• <i>Station 6 (Para-aortic):</i> Nodes located immediately anterior and lateral to the ascending aorta and aortic arch.<br>• <i>Station 9:</i> Nodes lying within the pulmonary ligament (inferior pulmonary ligament nodes).<br>• <i>Station 10:</i> Nodes adjacent to the mainstem bronchus outside the mediastinal pleura reflection (hilar nodes).<br><br>3️⃣ <b>Why other options are categorically incorrect:</b><br>• <span style=\"color:#e74c3c\"><b>Option A:</b></span> Single-digit stations (1–9) define mediastinal nodes corresponding to <b>N2 or N3</b> stage disease, whereas N1 disease is strictly represented by double-digit stations (10–14).<br>• <span style=\"color:#e74c3c\"><b>Option B:</b></span> Level 6 (para-aortic) nodes sit <b>anterior and lateral</b> to the ascending aorta and aortic arch, not posterior to the arch.<br>• <span style=\"color:#e74c3c\"><b>Option C:</b></span> Level 7 (subcarinal) nodes lie directly beneath the tracheal bifurcation and are <b>routinely biopsied and accessible</b> during cervical mediastinoscopy.<br>• <span style=\"color:#e74c3c\"><b>Option D:</b></span> Level 10 nodes are hilar nodes lying along the main bronchus; nodes situated along the pulmonary ligament are designated as <b>Level 9</b> nodes.",
@@ -153,9 +153,9 @@
         "E": "As compared with lobectomy, a fivefold increase in local recurrence rates after wedge resection was noted."
       },
       "optionsRu": {
-        "A": "Были выявлены статистически значимые различия в частоте послеоперационных осложнений (morbidity) между двумя группами",
+        "A": "Были выявлены статистически значимые различия в частоте послеоперационных осложнений между двумя группами",
         "B": "В группе сублобарной резекции отмечено улучшение долгосрочного сохранения функции внешнего дыхания",
-        "C": "Размер опухоли (даже менее 1 см) не влиял на частоту местного рецидивирования (Tumour size (even if less than 1 cm) did not affect local recurrence rates)",
+        "C": "Размер опухоли (даже менее 1 см) не влиял на частоту местного рецидивирования (Tumour size did not affect local recurrence rates)",
         "D": "Сублобарная резекция ассоциировалась с более низкой частотой местного рецидивирования",
         "E": "По сравнению с лобэктомией частота местных рецидивов после клиновидной резекции увеличилась в 5 раз"
       },
@@ -203,7 +203,7 @@
         "B": "встречается преимущественно у женщин",
         "C": "в экстралобарной форме представляет преобладающий вариант патологии",
         "D": "обычно имеет венозный отток в систему полых вен (системный кровоток)",
-        "E": "в экстралобарной форме покрыта собственной висцеральной плеврой (in an extralobar location has its own visceral pleura)"
+        "E": "в экстралобарной форме покрыта собственной висцеральной плеврой"
       },
       "correctAnswer": "E",
       "explanationEn": "🎯 <b>Correct Answer: Option E: in an extralobar location has its own visceral pleura.</b><br><br>🔵 <b>Detailed Congenital Thoracic Embryology and Surgical Anatomy Analysis:</b><br>Pulmonary sequestration (bronchopulmonary foregut malformation) represents a mass of non-functioning, dysplastic embryonic lung tissue that has no patent anatomical communication with the tracheobronchial tree and receives anomalous systemic arterial blood flow directly from the aorta or its major branches.<br><br>1️⃣ <b>Anatomical Separation of Extralobar Sequestration (Why Option E is correct):</b><br>• Pulmonary sequestrations are classified anatomically into two distinct entities:<br>  - <b>Extralobar Sequestration (ELS, ~25%):</b> Forms as an accessory embryonic lung bud that separates completely from the developing foregut. As a distinct anatomical organ, <mark style=\"background:#2ecc71;color:#fff\"><b>an extralobar sequestration is entirely invested in its own separate, distinct visceral pleura (Option E)</b></mark>, physically separated from the adjacent normal lung parenchyma. It is typically found in the posterior costodiaphragmatic sulcus, between the left lower lobe and the diaphragm, or subdiaphragmatically/retroperitoneally;<br>  - <b>Intralobar Sequestration (ILS, ~75%):</b> Embedded directly within the normal lung parenchyma (most commonly the posterior basal segment of the left lower lobe) and shares the <b>same visceral pleural envelope</b> as the surrounding normal lung.<br><br>2️⃣ <b>Vascular Anatomy and Hemodynamic Pathways:</b><br>• <i>Arterial Supply:</i> In <b>both</b> forms, arterial supply originates from anomalous <b>systemic arteries</b> (descending thoracic aorta in ~75%, abdominal aorta/celiac axis in ~15–20%). These vessels enter the sequestration inferiorly through the <b>inferior pulmonary ligament</b> or across the diaphragm, <i>never through the pulmonary hilum</i>.<br>• <i>Venous Drainage:</i><br>  - <b>Intralobar (ILS, 75%):</b> Drains into the <b>pulmonary veins</b> (into the left atrium, creating a systemic-to-pulmonary, left-to-left shunt);<br>  - <b>Extralobar (ELS, 25%):</b> Drains into the <b>systemic venous circulation</b> via the azygos vein, hemiazygos vein, or inferior vena cava (left-to-right shunt). Thus, systemic venous drainage is the minority configuration.<br><br>3️⃣ <b>Why other options are categorically incorrect:</b><br>• <span style=\"color:#e74c3c\"><b>Option A:</b></span> Feeding arteries arise from the systemic circulation (aorta) and enter via the inferior pulmonary ligament or base of the hemithorax, not through the pulmonary hilum.<br>• <span style=\"color:#e74c3c\"><b>Option B:</b></span> Sequestrations exhibit a clear <b>male predominance</b> (M:F ratio ~3:1 to 4:1 in extralobar sequestration; ~1.5:1 in intralobar sequestration).<br>• <span style=\"color:#e74c3c\"><b>Option C:</b></span> Intralobar sequestration is the dominant pathology, comprising roughly <b>75%</b> of all cases, while extralobar variants account for only ~25%.<br>• <span style=\"color:#e74c3c\"><b>Option D:</b></span> Because ~75% of sequestrations are intralobar, venous return <b>predominantly empties into the pulmonary venous system</b> (to the left atrium), not the systemic venous system.",
@@ -239,7 +239,7 @@
         "E": "Lung development is complete at birth."
       },
       "optionsRu": {
-        "A": "Срединная глоточная борозда развивается в эмбриональную фазу (The median pharyngeal groove develops during embryonic phase)",
+        "A": "Срединная глоточная борозда развивается в эмбриональную фазу",
         "B": "Псевдожелезистая фаза характеризуется закладкой легочных почек",
         "C": "Развитие сосудистого русла легких полностью завершается к 5-й неделе",
         "D": "Развитие респираторных бронхиол и альвеолярных ходов начинается в фазу терминальных мешочков",
@@ -282,7 +282,7 @@
       "optionsRu": {
         "A": "подразделяется на 4 типа",
         "B": "в 90% всех случаев прогрессирует в синдром Педжета — Шрёттера",
-        "C": "наиболее часто встречается у пациентов в возрасте от 20 до 40 лет (is more common in patients 20 to 40 years of age)",
+        "C": "наиболее часто встречается у пациентов в возрасте от 20 до 40 лет",
         "D": "чаще встречается у мужчин, чем у женщин",
         "E": "симптомы провоцируются проведением теста Аллена"
       },
@@ -323,8 +323,8 @@
         "E": "patients in 50% cases have concomitant malignancy."
       },
       "optionsRu": {
-        "A": "поражает мужчин и женщин с одинаковой частотой (affects men and woman with equal frequency)",
-        "B": "у 75% пациентов сопровождается развитием миастении (myasthenia gravis)",
+        "A": "поражает мужчин и женщин с одинаковой частотой",
+        "B": "у 75% пациентов сопровождается развитием миастении",
         "C": "как правило, манифестирует симптомами сдавления центральных дыхательных путей",
         "D": "у 90% пациентов сопровождается истинной эритроцитарной аплазией (чистой красноклеточной аплазией)",
         "E": "у 50% пациентов сочетается с сопутствующими злокачественными новообразованиями"
@@ -369,7 +369,7 @@
       },
       "optionsRu": {
         "A": "Гистопатологически она состоит из переплетающихся пучков мышечной и фиброзной ткани без четко выраженной капсулы",
-        "B": "Около 60% этих опухолей локализуются в дистальной трети пищевода (About 60% of these tumours are located in the distal third of the oesophagus)",
+        "B": "Около 60% этих опухолей локализуются в дистальной трети пищевода",
         "C": "У большинства пациентов с такими опухолями присутствуют клинические симптомы",
         "D": "Лейомиомы пищевода обычно изъязвляются",
         "E": "Лейомиоматоз пищевода иногда ассоциирован с синдромом Картагенера"
@@ -414,8 +414,8 @@
       },
       "optionsRu": {
         "A": "общей объединенной величине эффекта метаанализа",
-        "B": "весу данного исследования в метаанализе (the study's weight in the meta-analysis)",
-        "C": "размеру ромба (diamond)",
+        "B": "весу данного исследования в метаанализе",
+        "C": "размеру ромба",
         "D": "количеству исследований, включенных в метаанализ",
         "E": "продолжительности исследования"
       },
@@ -463,7 +463,7 @@
       "optionsRu": {
         "A": "Радикальные процедуры имеют лучший прогноз.",
         "B": "Существуют убедительные доказательства преимущества в выживаемости при радикальной лучевой терапии гемиторакса по сравнению с наилучшей поддерживающей терапией.",
-        "C": "Согласно исследованию Mesothelioma and Radical Surgery (MARS), пациенты с ЗМП, получавшие плеврэктомию/декортикацию, имели равные или лучшие результаты по сравнению с теми, кто получал экстраплевральную пневмонэктомию.",
+        "C": "Согласно исследованию Mesothelioma and Radical Surgery, пациенты с ЗМП, получавшие плеврэктомию/декортикацию, имели равные или лучшие результаты по сравнению с теми, кто получал экстраплевральную пневмонэктомию.",
         "D": "Химиотерапия у пациентов с ЗМП, назначаемая в виде монотерапии, показала улучшение частоты ответа и выживаемости по сравнению с комбинацией препаратов.",
         "E": "Иммунотерапия показала благоприятные результаты в клинических испытаниях."
       },
@@ -1228,7 +1228,7 @@
       "optionsRu": {
         "A": "энхондрома",
         "B": "хондробластома",
-        "C": "остеохондрома (osteochondroma)",
+        "C": "остеохондрома",
         "D": "хондромиксоидная фиброма",
         "E": "хондросаркома"
       },
@@ -1315,7 +1315,7 @@
       "optionsRu": {
         "A": "АВ-узловая реципрокная тахикардия",
         "B": "Синдром Вольфа-Паркинсона-Уайта",
-        "C": "Пируэтная тахикардия (Torsade de pointes)",
+        "C": "Пируэтная тахикардия",
         "D": "Фибрилляция желудочков",
         "E": "Фибрилляция предсердий с вариабельной блокадой"
       },
@@ -1720,11 +1720,11 @@
         "E": "Endocardial viability ratio (EVR) should increase if the IABP is working optimally."
       },
       "optionsRu": {
-        "A": "Раздувание ВАБК во время диастолы снижает индекс диастолического давления-времени (DPTI).",
-        "B": "Сдувание баллона во время систолы увеличивает индекс напряжения-времени (TTI).",
+        "A": "Раздувание ВАБК во время диастолы снижает индекс диастолического давления-времени.",
+        "B": "Сдувание баллона во время систолы увеличивает индекс напряжения-времени.",
         "C": "Лактат коронарного синуса увеличивается, если ВАБК работает оптимально.",
         "D": "Более короткое диастолическое время обеспечивает большее усиление баллона за единицу времени.",
-        "E": "Коэффициент эндокардиальной жизнеспособности (EVR) должен увеличиваться, если ВАБК работает оптимально."
+        "E": "Коэффициент эндокардиальной жизнеспособности должен увеличиваться, если ВАБК работает оптимально."
       },
       "correctAnswer": "E",
       "explanationEn": "🎯 <b>Correct Answer: Option E: Endocardial viability ratio (EVR) should increase if the IABP is working optimally.</b><br><br>🔵 <b>Detailed Hemodynamic and Myocardial Energetics Analysis:</b><br>Intra-aortic balloon pump (IABP) counterpulsation is designed to optimize left ventricular mechanics by simultaneously manipulating two independent physiological determinants: coronary blood supply and myocardial workload.<br><br>1️⃣ <b>The Bicompartmental Mechanics of Counterpulsation:</b><br>• <b>Diastolic Augmentation (Myocardial Oxygen Supply):</b> Rapid helium inflation of the balloon at the onset of diastole (precisely coincident with the dicrotic notch, signifying aortic valve closure) displaces intra-aortic blood retrogradely into the ascending aorta and root. This elevates mean diastolic perfusion pressure and markedly expands the area under the aortic diastolic pressure curve, designated as the <b>Diastolic Pressure Time Index (DPTI)</b>.<br>• <b>Presystolic Deflation / Afterload Reduction (Myocardial Oxygen Demand):</b> Rapid evacuation of helium immediately prior to ventricular systole (end of diastole / onset of isometric contraction) creates an instantaneous void or 'sinkhole' in the descending thoracic aorta. This reduces aortic end-diastolic pressure by 10 to 15 mmHg, diminishes left ventricular peak systolic wall stress (afterload reduction according to Laplace's law), and shrinks the area under the left ventricular systolic pressure curve, designated as the <b>Tension Time Index (TTI)</b>.<br><br>2️⃣ <b>The Endocardial Viability Ratio (EVR / Buckberg Index) (Why Option E is correct):</b><br>• The supply-to-demand balance of the subendocardium is quantified by the <b>Endocardial Viability Ratio (EVR)</b>:<br>  $$\\text{EVR} = \\frac{\\text{DPTI}}{\\text{TTI}} = \\frac{\\text{Myocardial Oxygen Supply}}{\\text{Myocardial Oxygen Demand}}$$<br>• In the normal heart, EVR is greater than 1.0 (often 1.2 to 1.5). When coronary stenosis or cardiogenic shock ensues, high left ventricular end-diastolic pressure and hypotension depress EVR below 0.7, precipitating critical subendocardial ischemia.<br>• <mark style=\"background:#2ecc71;color:#fff\"><b>When IABP operates optimally (Option E)</b></mark>, DPTI increases (numerator surges) while TTI decreases (denominator drops). Consequently, the <b>EVR substantially increases</b>, restoring subendocardial perfusion and halting ischemic damage.<br><br>3️⃣ <b>Metabolic Proof of Ischemic Reversal:</b><br>• Under ischemic conditions, the myocardium shifts to anaerobic glycolysis, extracting less oxygen and actively producing lactate, which enters the coronary sinus. Successful IABP counterpulsation restores aerobic metabolism, causing myocardial lactate extraction to normalize and <b>coronary sinus lactate concentration to DECREASE</b> (Option C is incorrect).<br><br>4️⃣ <b>Why other options are categorically incorrect:</b><br>• <span style=\"color:#e74c3c\"><b>Option A:</b></span> Diastolic inflation INCREASES (augments) DPTI and coronary driving pressure.<br>• <span style=\"color:#e74c3c\"><b>Option B:</b></span> Presystolic deflation unloads the ventricle, reducing peak wall tension and DECREASING TTI.<br>• <span style=\"color:#e74c3c\"><b>Option D:</b></span> Tachycardia shortens the diastolic phase disproportionately relative to systole. A shorter diastolic time curtails the time available for balloon inflation, severely degrading balloon augmentation and volumetric displacement per cardiac cycle.",
@@ -2076,7 +2076,7 @@
       },
       "optionsRu": {
         "A": "Верхний конец симпатического ствола продолжается в череп через большое затылочное отверстие.",
-        "B": "Верхний шейный ганглий также называется непарным ганглием (ganglion impar).",
+        "B": "Верхний шейный ганглий также называется непарным ганглием.",
         "C": "Нижний шейный ганглий дает начало нижней сердечной ветви.",
         "D": "Средний шейный ганглий часто сливается с нижним шейным ганглием, образуя звездчатый ганглий.",
         "E": "Симпатический ствол блокируется на уровне T2 при блашинг-синдроме (покраснении лица)."
@@ -4585,7 +4585,7 @@
         "E": "insert intra-aortic balloon pump"
       },
       "optionsRu": {
-        "A": "начать инфузию милринона (start on milrinone)",
+        "A": "начать инфузию милринона",
         "B": "начать инфузию добутамина",
         "C": "провести инфузионную терапию (ввести жидкость)",
         "D": "начать инфузию эпинефрина (адреналина)",
@@ -4630,7 +4630,7 @@
       "optionsRu": {
         "A": "имплантировать аппарат вспомогательного кровообращения правого желудочка (RVAD)",
         "B": "установить внутриаортальный баллонный контрпульсатор (ВАБК / IABP)",
-        "C": "ингаляционный оксид азота (nitric oxide)",
+        "C": "ингаляционный оксид азота",
         "D": "повторное аортокоронарное шунтирование",
         "E": "провести дополнительную инфузионную терапию (ввести жидкость)"
       },
@@ -4671,8 +4671,8 @@
         "E": "age of the patient"
       },
       "optionsRu": {
-        "A": "время до начала хирургического вмешательства (the timing of repair)",
-        "B": "риск развития параплегии (risk of paraplegia)",
+        "A": "время до начала хирургического вмешательства",
+        "B": "риск развития параплегии",
         "C": "наличие ишемической болезни сердца",
         "D": "почечная недостаточность",
         "E": "возраст пациента"
@@ -4715,10 +4715,10 @@
         "E": "pack and transfuse blood products"
       },
       "optionsRu": {
-        "A": "немедленное подключение бедренно-бедренного обхода (fem-fem bypass)",
-        "B": "пережатие аорты и ушивание / протезирование (clamp and sew)",
-        "C": "частичный левопредсердно-бедренный обход (left heart bypass)",
-        "D": "установка шунта Готта (Gott shunt)",
+        "A": "немедленное подключение бедренно-бедренного обхода",
+        "B": "пережатие аорты и ушивание / протезирование",
+        "C": "частичный левопредсердно-бедренный обход",
+        "D": "установка шунта Готта",
         "E": "тампонада плевральной полости и трансфузия компонентов крови"
       },
       "correctAnswer": "B",
@@ -4757,10 +4757,10 @@
         "E": "pack and transfuse blood products"
       },
       "optionsRu": {
-        "A": "немедленное подключение бедренно-бедренного обхода (fem-fem bypass)",
-        "B": "пережатие аорты и ушивание / протезирование (clamp and sew)",
-        "C": "частичный левопредсердно-бедренный обход (left heart bypass)",
-        "D": "установка шунта Готта (Gott shunt)",
+        "A": "немедленное подключение бедренно-бедренного обхода",
+        "B": "пережатие аорты и ушивание / протезирование",
+        "C": "частичный левопредсердно-бедренный обход",
+        "D": "установка шунта Готта",
         "E": "тампонада плевральной полости и трансфузия компонентов крови"
       },
       "correctAnswer": "B",
@@ -4802,7 +4802,7 @@
         "A": "1,65 л/мин",
         "B": "4,55 л/мин",
         "C": "5,00 л/мин",
-        "D": "6,25 л/мин (6.25 L/min)",
+        "D": "6,25 л/мин",
         "E": "8,00 л/мин"
       },
       "correctAnswer": "D",
@@ -4844,7 +4844,7 @@
         "A": "75 мл",
         "B": "80 мл",
         "C": "85 мл",
-        "D": "90 мл (90 ml)",
+        "D": "90 мл",
         "E": "95 мл"
       },
       "correctAnswer": "D",
@@ -4885,7 +4885,7 @@
       },
       "optionsRu": {
         "A": "1,5 единиц сопротивления (мм рт. ст./л/мин)",
-        "B": "2,0 единиц сопротивления (мм рт. ст./л/мин) (2.0 resistance units)",
+        "B": "2,0 единиц сопротивления (мм рт. ст./л/мин)",
         "C": "2,5 единиц сопротивления (мм рт. ст./л/мин)",
         "D": "3,0 единиц сопротивления (мм рт. ст./л/мин)",
         "E": "3,5 единиц сопротивления (мм рт. ст./л/мин)"
@@ -4927,7 +4927,7 @@
         "E": "represents the resting volume of the lungs"
       },
       "optionsRu": {
-        "A": "не может быть измерен напрямую с помощью спирометра (cannot be measured directly with a spirometer)",
+        "A": "не может быть измерен напрямую с помощью спирометра",
         "B": "является частью жизненной емкости легких (ЖЕЛ / vital capacity)",
         "C": "является частью резервного объема выдоха (РОвыд / expiratory reserve volume)",
         "D": "представляет собой объем, при котором легкие стремятся расправиться кнаружи",
@@ -5013,11 +5013,11 @@
         "E": "ventilation/perfusion inequality"
       },
       "optionsRu": {
-        "A": "анатомическим сбросом крови справа налево (anatomic right-to-left shunting)",
+        "A": "анатомическим сбросом крови справа налево",
         "B": "нарушением диффузии газов",
         "C": "выраженной гиповентиляцией",
         "D": "нормальным физиологическим ответом",
-        "E": "вентиляционно-перфузионным несоответствием (V/Q mismatch)"
+        "E": "вентиляционно-перфузионным несоответствием"
       },
       "correctAnswer": "A",
       "explanationEn": "🎯 <b>Correct Answer: Option A: anatomic right-to-left shunting.</b><br><br>🔵 <b>Detailed Cardiopulmonary Physiology and The Hyperoxia Test (100% O2 Challenge):</b><br>The administration of 100% inspired oxygen ($\\text{FiO}_2 = 1.0$) is the classic physiological probe used to differentiate true intrapulmonary/intracardiac right-to-left shunt from other primary mechanisms of hypoxemia (V/Q mismatch, diffusion barrier, alveolar hypoventilation).<br><br>1️⃣ <b>The Hyperoxia Equation and Normal Response (Ruling out Option D):</b><br>• Using the <b>Alveolar Gas Equation</b> under sea-level conditions ($P_B = 760\\text{ mmHg}$, $P_{\\text{H}_2\\text{O}} = 47\\text{ mmHg}$, $\\text{PaCO}_2 = 40\\text{ mmHg}$):<br>  $$\\text{P}_A\\text{O}_2 = \\text{FiO}_2 \\times (P_B - P_{\\text{H}_2\\text{O}}) - \\frac{\\text{PaCO}_2}{\\text{R}} = 1.0 \\times (760 - 47) - \\frac{40}{0.8} = 713 - 50 = \\mathbf{663\\text{ mmHg}}$$<br>• In a healthy person with minimal physiological shunt (&lt; 3%–5% from bronchial and thebesian veins), breathing pure oxygen drives arterial $\\text{PaO}_2$ up to <b>&gt; 550–600 mmHg</b>.<br>• A $\\text{PaO}_2$ of merely <b>125 mmHg</b> represents severe, refractory oxygenation impairment.<br><br>2️⃣ <b>The Mechanism of Refractoriness in True Shunt (Why Option A is correct):</b><br>• A true <b>right-to-left shunt ($\\dot{V}/\\dot{Q} = 0$)</b> occurs when venous blood bypasses ventilated alveoli entirely and enters the arterial system completely deoxygenated.<br>  - <i>Anatomic shunt:</i> Intracardiac right-to-left defect (e.g., patent foramen ovale reopened by elevated right atrial pressures post-CPB or pulmonary arteriovenous fistula);<br>  - <i>Physiologic shunt:</i> Massive compressive atelectasis or dense pulmonary consolidation where blood flows past unventilated lung parenchyma.<br>• Because shunted blood never comes into physical contact with ventilated gas, providing 100% oxygen to the remaining ventilated alveoli cannot oxygenate the shunted blood.<br>• Even though hemoglobin in ventilated units is 100% saturated and physically dissolved plasma oxygen increases marginally, mixing with desaturated shunted blood sharply depresses the final mixed arterial $\\text{PaO}_2$, yielding characteristically blunted values like <b>125 mmHg</b>.<br><br>3️⃣ <b>Why Other Causes of Hypoxemia Correct with 100% Oxygen:</b><br>• <b>Ventilation/Perfusion (V/Q) Inequality (Option E):</b> Low $\\dot{V}/\\dot{Q}$ units have reduced ventilation, but they are not zero. Supplying 100% oxygen dramatically raises alveolar $\\text{P}_A\\text{O}_2$ within these sluggish units, saturating their effluent capillary blood and correcting hypoxemia (raising $\\text{PaO}_2$ well above 400–500 mmHg).<br>• <b>Diffusion Abnormality (Option B):</b> Breathing 100% $\\text{O}_2$ creates a massive driving pressure gradient between the alveolus and erythrocyte ($\\sim 600\\text{ mmHg}$ vs $\\sim 60\\text{ mmHg}$ on room air), completely overcoming thickened alveolar-capillary membranes.<br>• <b>Profound Hypoventilation (Option C):</b> Hypoventilation lowers alveolar $\\text{P}_A\\text{O}_2$ because carbon dioxide accumulates. Adding pure $\\text{O}_2$ floods the alveoli, easily raising $\\text{PaO}_2$ into the hundreds despite hypercapnia.",
@@ -5059,7 +5059,7 @@
         "A": "Острая тяжелая аортальная регургитация хорошо переносится пациентами с предшествующей концентрической гипертрофией миокарда",
         "B": "Кардиомегалия служит характерным диагностическим признаком острой аортальной регургитации",
         "C": "Увеличение прямого ударного объема является ведущим компенсаторным механизмом при острой тяжелой регургитации",
-        "D": "При острой тяжелой аортальной регургитации высокое пульсовое давление не наблюдается (In acute severe AR wide pulse pressure is not seen)",
+        "D": "При острой тяжелой аортальной регургитации высокое пульсовое давление не наблюдается",
         "E": "Громкость первого сердечного тона усиливается за счет высокого конечно-диастолического давления в левом желудочке"
       },
       "correctAnswer": "D",
@@ -5101,7 +5101,7 @@
         "A": "Биопротез целесообразно использовать для ПАК у пациентов в возрасте 65 лет и старше при отсутствии факторов риска тромбоэмболии",
         "B": "Биопротез может рассматриваться для ПАК у женщин детородного возраста",
         "C": "Повторное протезирование аортального клапана с использованием гомографта целесообразно у пациентов с активным эндокардитом протезированного клапана",
-        "D": "Механический протез рекомендуется для ПАК у пациентов с уже установленным механическим протезом в митральной или трикуспидальной позиции (A mechanical prosthesis is recommended for AVR in patients with a mechanical valve in the mitral or tricuspid position)",
+        "D": "Механический протез рекомендуется для ПАК у пациентов с уже установленным механическим протезом в митральной или трикуспидальной позиции",
         "E": "Механический протез целесообразно использовать для ПАК у пациентов моложе 65 лет при отсутствии противопоказаний к антикоагулянтной терапии"
       },
       "correctAnswer": "D",
@@ -5141,11 +5141,11 @@
         "E": "Valve area of 1.2 cm2."
       },
       "optionsRu": {
-        "A": "Пиковая скорость струи (jet velocity) 3,5 м/с",
-        "B": "Средний градиент давления (mean gradient) 35 мм рт. ст.",
-        "C": "Индексированная площадь отверстия клапана менее 0,6 см²/м² (Valve area index less than 0.6 cm2 per m2)",
+        "A": "Пиковая скорость струи 3,5 м/с",
+        "B": "Средний градиент давления 35 мм рт. ст.",
+        "C": "Индексированная площадь отверстия клапана менее 0,6 см²/м²",
         "D": "Индексированная площадь отверстия клапана менее 1,6 см²/м²",
-        "E": "Площадь отверстия клапана (AVA) 1,2 см²"
+        "E": "Площадь отверстия клапана 1,2 см²"
       },
       "correctAnswer": "C",
       "explanationEn": "🎯 <b>Correct Answer: Option C: Valve area index less than 0.6 cm2 per m2.</b><br><br>🔵 <b>Detailed Echocardiographic and Hemodynamic Guidelines Analysis:</b><br>According to the standard classification established by the American College of Cardiology / American Heart Association (ACC/AHA) and the European Society of Cardiology / European Association for Cardio-Thoracic Surgery (ESC/EACTS) guidelines on valvular heart disease, severe high-gradient aortic stenosis is defined by multi-parametric concordant cutoffs.<br><br>1️⃣ <b>Standard Hemodynamic Diagnostic Criteria:</b><br>• <b>Peak Jet Velocity (Vmax):</b> ≥ 4.0 m/s;<br>• <b>Mean Transvalvular Gradient (ΔPmean):</b> ≥ 40 mmHg;<br>• <b>Aortic Valve Area (AVA):</b> ≤ 1.0 cm²;<br>• <mark style=\"background:#2ecc71;color:#fff\"><b>Aortic Valve Area Index (AVAi / Valve Area Index): &lt; 0.6 cm²/m² (Option C)</b></mark>.<br><br>2️⃣ <b>The Significance of Indexing to Body Surface Area (Why Option C is correct):</b><br>• The absolute aortic valve area (AVA) does not account for variable body habitus. In patients with unusually small body surface area (BSA &lt; 1.5 m²), an absolute AVA of 0.9 cm² may still provide adequate flow without causing extreme outflow restriction, whereas in large patients (BSA &gt; 2.0 m²), an absolute AVA of 1.1 cm² may cause marked functional obstruction.<br>• Therefore, indexing the valve area to body surface area (AVAi = AVA / BSA) is mandatory. An <mark style=\"background:#2ecc71;color:#fff\"><b>indexed valve area &lt; 0.6 cm²/m²</b></mark> is the universally accepted hallmark of severe aortic stenosis.<br><br>3️⃣ <b>Differential Analysis of Distractor Options:</b><br>• <b>Jet velocity of 3.5 m/s (Option A):</b> Falls within the range of <b>moderate aortic stenosis</b> (defined as Vmax 3.0 to 3.9 m/s).<br>• <b>Mean gradient of 35 mmHg (Option B):</b> Characteristic of <b>moderate aortic stenosis</b> (defined as mean gradient 20 to 39 mmHg; threshold for severe is ≥ 40 mmHg).<br>• <b>Valve area index less than 1.6 cm²/m² (Option D):</b> The normal human indexed aortic valve area is 1.5 to 2.0 cm²/m²; an index &lt; 1.6 cm²/m² is broadly non-specific and normal/borderline, having no discriminatory value for severe disease.<br>• <b>Valve area of 1.2 cm² (Option E):</b> Represents <b>moderate aortic stenosis</b> (defined as AVA 1.0 to 1.5 cm²; severe stenosis requires an AVA ≤ 1.0 cm²).",
@@ -5186,7 +5186,7 @@
         "A": "представляет собой 15-аминокислотный циклический пептид, продуцируемый грибом Tolypocladium inflatum",
         "B": "угнетает популяцию супрессорных T-лимфоцитов",
         "C": "вызывает тотальную (широко распространенную) неселективную иммуносупрессию",
-        "D": "обладает низким терапевтическим индексом (has low therapeutic index)",
+        "D": "обладает низким терапевтическим индексом",
         "E": "улучшил исходы трансплантации сердца за счет снижения частоты нефропатии, индуцированной иммуносупрессией"
       },
       "correctAnswer": "D",
@@ -5230,7 +5230,7 @@
         "B": "частота MACCE была повышена в группе ЧКВ среди пациентов с промежуточным баллом по шкале SYNTAX",
         "C": "частота MACCE была сопоставима между группами у пациентов с высоким баллом по шкале SYNTAX",
         "D": "частота MACCE была повышена в группе АКШ среди пациентов с высоким баллом по шкале SYNTAX",
-        "E": "не было выявлено статистически значимых различий по общей частоте MACCE между группами лечения (No difference in overall MACCE was found between treatment groups)"
+        "E": "не было выявлено статистически значимых различий по общей частоте MACCE между группами лечения"
       },
       "correctAnswer": "E",
       "explanationEn": "🎯 <b>Correct Answer: Option E: No difference in overall MACCE was found between treatment groups.</b><br><br>🔵 <b>Detailed Clinical Trial Analysis and Evidence-Based Revascularization:</b><br>The landmark <b>SYNTAX trial (Synergy between Percutaneous Coronary Intervention with TAXUS and Cardiac Surgery)</b> randomized patients with 3-vessel disease and/or unprotected left main coronary artery (ULMCA) stenosis to undergo either CABG or PCI with first-generation paclitaxel-eluting stents.<br><br>1️⃣ <b>5-Year Left Main Subgroup Analysis (Why Option E is correct):</b><br>• In the prespecified ULMCA cohort (n = 705):<br>  - <mark style=\"background:#2ecc71;color:#fff\"><b>Overall MACCE (Major Adverse Cardiac and Cerebrovascular Events) at 5 years showed no statistically significant difference between PCI and CABG (36.9% vs. 31.0%, HR 1.23, 95% CI 0.95–1.59, P = 0.12) [Option E]</b></mark>.<br>  - <b>All-cause mortality</b> was virtually identical (12.8% for PCI vs. 14.6% for CABG, P = 0.53).<br>  - <b>Cardiac mortality</b> was comparable (8.6% for PCI vs. 7.2% for CABG, P = 0.46).<br>  - <b>Myocardial infarction</b> was comparable (8.2% for PCI vs. 4.8% for CABG, P = 0.10).<br>  - Stroke was higher in the CABG cohort (4.3% vs. 1.5%, P = 0.03), driven by aortic cross-clamping and cardiopulmonary bypass.<br>  - Repeat revascularization was significantly higher in the PCI cohort (26.7% vs. 15.5%, P &lt; 0.001).<br>• <i>Anatomic Stratification by SYNTAX Score:</i><br>  - <b>Low SYNTAX score (0–22):</b> MACCE rates were equivalent between PCI (30.4%) and CABG (36.8%, P = 0.33); mortality was even numerically lower with PCI (7.9% vs. 15.1%).<br>  - <b>Intermediate SYNTAX score (23–32):</b> MACCE rates remained equivalent between PCI (32.7%) and CABG (32.3%, P = 0.88).<br>  - <b>High SYNTAX score (≥ 33):</b> MACCE was significantly higher in the <b>PCI arm</b> compared to CABG (46.5% vs. 29.7%, P = 0.003), driven by excessive repeat revascularization and myocardial infarction in patients with highly complex bifurcation/calcified anatomy undergoing stenting.<br><br>2️⃣ <b>Differential Breakdown of Distractor Options:</b><br>• <b>MACCE increased in CABG in low SYNTAX (Option A):</b> Statistically similar (P = 0.33); not significantly increased.<br>• <b>MACCE increased in PCI in intermediate SYNTAX (Option B):</b> Completely equivalent in the intermediate tier (32.7% vs. 32.3%, P = 0.88).<br>• <b>MACCE similar in high SYNTAX (Option C):</b> False; patients with high scores (≥ 33) had significantly worse outcomes with PCI, establishing CABG as the definitive standard of care in anatomically complex left main disease.<br>• <b>MACCE increased in CABG in high SYNTAX (Option D):</b> Inverted statement; MACCE was significantly increased in the <b>PCI group</b>, whereas CABG demonstrated durable protection.",
@@ -5270,7 +5270,7 @@
       },
       "optionsRu": {
         "A": "госпитальная летальность в специализированных экспертных центрах приближается к 5%",
-        "B": "большинство отдаленных летальных исходов происходит до второго этапа реконструкции (двунаправленного кавопульмонального анастомоза) (Most late deaths occur before the second stage reconstruction)",
+        "B": "большинство отдаленных летальных исходов происходит до второго этапа реконструкции (двунаправленного кавопульмонального анастомоза)",
         "C": "гипоплазия восходящей аорты ассоциирована с повышенным риском летального исхода",
         "D": "годовая выживаемость составляет менее 30%",
         "E": "систолический градиент давления обычно формируется на уровне клапана легочной артерии"
@@ -5312,8 +5312,8 @@
       },
       "optionsRu": {
         "A": "резидуальный градиент давления обусловлен гипоплазией дуги аорты",
-        "B": "синдром снятия зажима (declamping syndrome) вызывает гипоксию вследствие перевязки открытого артериального протока",
-        "C": "пластика лоскутом подключичной артерии (subclavian flap aortoplasty) подходит для детей в возрасте до 10 лет (The subclavian flap technique is best suited for children under the age of 10 years)",
+        "B": "синдром снятия зажима вызывает гипоксию вследствие перевязки открытого артериального протока",
+        "C": "пластика лоскутом подключичной артерии подходит для детей в возрасте до 10 лет",
         "D": "межреберные артерии оптимальнее всего лигировать и пересекать",
         "E": "гипоплазию дистального отдела дуги аорты предпочтительно устранять с помощью модифицированной операции Норвуда"
       },
@@ -5353,7 +5353,7 @@
         "E": "Most coronary arteriovenous fistulae exist as part of a spectrum of complex cardiac anomalies."
       },
       "optionsRu": {
-        "A": "большинство фистул дренируются в правые отделы сердца (Most fistulae open into the right heart)",
+        "A": "большинство фистул дренируются в правые отделы сердца",
         "B": "правая коронарная артерия вовлечена менее чем в 10% случаев",
         "C": "пораженная коронарная артерия обычно имеет аномальное отхождение",
         "D": "фистулы, дренирующиеся в левые отделы сердца, приводят к сбросу крови слева направо",
@@ -5399,7 +5399,7 @@
         "A": "митральная регургитация уменьшается практически у всех пациентов",
         "B": "функция левого желудочка остается сниженной после хирургической коррекции",
         "C": "отсутствие клинических симптомов свидетельствует о проходимости туннеля после операции Такеучи",
-        "D": "лигирование аномальной коронарной артерии увеличивает коронарный кровоток (Ligation of the anomalous coronary artery increases coronary blood flow)",
+        "D": "лигирование аномальной коронарной артерии увеличивает коронарный кровоток",
         "E": "формирование двухкоронарной системы сопровождается операционной летальностью свыше 25%"
       },
       "correctAnswer": "D",
@@ -5443,7 +5443,7 @@
         "B": "шунтирование с использованием обеих внутренних грудных артерий (BIMA)",
         "C": "нестабильная стенокардия",
         "D": "многососудистое поражение коронарного русла",
-        "E": "сниженная сократительная функция желудочка (Impaired ventricular function)"
+        "E": "сниженная сократительная функция желудочка"
       },
       "correctAnswer": "E",
       "explanationEn": "🎯 <b>Correct Answer: Option E: Impaired ventricular function.</b><br><br>🔵 <b>Detailed Long-Term Prognostic Analysis in Coronary Artery Bypass Grafting (CABG):</b><br>Large registry cohorts (such as the STS Adult Cardiac Surgery Database, CASS registry, and Duke Databank for Cardiovascular Disease) clearly distinguish between predictors of early (30-day in-hospital) perioperative mortality and independent determinants of late (5- to 20-year) mortality following surgical myocardial revascularization.<br><br>1️⃣ <b>Impaired Left Ventricular Function as the Primary Driver of Late Mortality (Why Option E is correct):</b><br>• Preoperative <mark style=\"background:#2ecc71;color:#fff\"><b>depressed left ventricular ejection fraction (LVEF &lt; 30%–35%) and clinical heart failure are the most powerful, consistent determinants of late mortality after CABG (Option E)</b></mark>.<br>• While surgical revascularization delivers a profound long-term survival advantage over medical therapy alone in patients with ischemic cardiomyopathy and viable myocardium (as definitively proven in the extended 10-year follow-up of the STICH trial), baseline myocardial scar burden, adverse chamber remodeling, and chronic neurohormonal activation continue to dictate late cardiac death, progressive pump failure, and malignant ventricular arrhythmias.<br><br>2️⃣ <b>Differential Analysis of Distractor Options:</b><br>• <b>Acute Non-Q Wave Infarction (Option A) & Unstable Angina (Option C):</b> Acute coronary syndrome presentations, unstable angina, and recent non-ST-elevation/non-Q-wave infarctions substantially elevate <i>early</i> 30-day hospital operative risk (due to myocardial edema, hemodynamic instability, or emergent operative timing). However, once the patient survives the perioperative period and achieves complete revascularization, these acute presenting syndromes have <b>minimal to no independent impact on late 5- to 10-year survival</b>.<br>• <b>Bilateral Internal Mammary Artery Grafting (Option B):</b> BIMA grafting is a well-established <b>protective factor</b> against late mortality. The biological resistance of internal thoracic arteries to atherosclerosis provides superior 10- to 20-year conduit patency (&gt; 90%–95%), leading to a proven reduction in late myocardial infarction and significantly superior late survival compared to single IMA plus saphenous vein grafts (despite a slight trade-off in deep sternal wound infection risk in diabetic cohorts).<br>• <b>Multivessel Coronary Artery Disease (Option D):</b> Multivessel CAD is the classic clinical indication for CABG. Complete surgical bypass of diseased coronary vessels fundamentally neutralizes the excess mortality of extensive epicardial atherosclerosis; thus, multivessel distribution itself is not an independent driver of late mortality once fully bypassed.",
@@ -5486,7 +5486,7 @@
         "B": "десятилетняя выживаемость при трехсосудистом поражении превышает 75%",
         "C": "стеноз ствола левой коронарной артерии снижает пятилетнюю выживаемость до 80%",
         "D": "выживаемость при изолированном поражении передней межжелудочковой артерии (ПМЖА/LAD) выше, чем при изолированном поражении правой коронарной артерии (ПКА/RCA)",
-        "E": "степень выраженности ишемических изменений при нагрузочной пробе ассоциирована со снижением выживаемости (Degree of positivity on graded exercise testing is associated with lower survival)"
+        "E": "степень выраженности ишемических изменений при нагрузочной пробе ассоциирована со снижением выживаемости"
       },
       "correctAnswer": "E",
       "explanationEn": "🎯 <b>Correct Answer: Option E: Degree of positivity on graded exercise testing is associated with lower survival.</b><br><br>🔵 <b>Detailed Clinical Prognostic & Exercise Physiology Analysis in CAD:</b><br>The natural history and survival prognosis in stable ischemic heart disease (SIHD) are fundamentally dictated by three intertwined factors: the extent of inducible myocardial ischemia, anatomical distribution of atherosclerotic narrowing (number of diseased vessels and proximal LAD/left main involvement), and baseline left ventricular systolic function.<br><br>1️⃣ <b>Prognostic Value of Graded Exercise Testing (Why Option E is correct):</b><br>• Graded exercise stress testing (treadmill test / bicycle ergometry) objectively quantifies functional capacity and the ischemic threshold.<br>• <mark style=\"background:#2ecc71;color:#fff\"><b>A strongly positive exercise test is an established, independent predictor of adverse cardiovascular events and reduced long-term survival (Option E)</b></mark>.<br>• High-risk prognostic features on stress testing—formalized in clinical risk scores such as the Duke Treadmill Score (DTS)—include:<br>  - Early onset of horizontal or downsloping ST-segment depression (within Stage I or II of the Bruce protocol, workloads &lt; 5 METs);<br>  - Marked magnitude of ST depression (&ge; 2 mm) or ST depression persisting &gt; 5 minutes into recovery;<br>  - ST-segment elevation in non-infarct leads (transmural ischemia);<br>  - Exertional systolic hypotension (failure of systolic BP to rise by &ge; 10–30 mmHg or an active drop in BP below baseline), reflecting ischemic acute global LV systolic dysfunction;<br>  - Inducible polymorphic ventricular ectopy or sustained ventricular tachycardia.<br>• In these patients, the annual cardiovascular mortality exceeds 3% to 5%, providing a definitive Class I indication for invasive coronary angiography and surgical revascularization.<br><br>2️⃣ <b>Differential Breakdown of Natural History Benchmarks:</b><br>• <b>Two-Vessel Disease 5-Year Survival (Option A):</b> In classic natural history cohorts (e.g., CASS registry, Veterans Affairs Cooperative Study) managed with medical therapy alone, 5-year survival in two-vessel disease ranges from <b>80% to 88%</b>, falling well short of &gt; 95%.<br>• <b>Three-Vessel Disease 10-Year Survival (Option B):</b> Medically managed three-vessel disease carries substantial cumulative attrition; 10-year survival is approximately <b>50% to 60%</b>, nowhere near &gt; 75%.<br>• <b>Left Main Disease 5-Year Survival (Option C):</b> Hemodynamically significant unprotected left main coronary artery (ULMCA) stenosis puts &gt; 75% of left ventricular myocardium at immediate risk of infarction. Without surgical revascularization, 5-year survival is severely compromised, historically dropping to <b>40% to 50% (at best ~58%)</b>; stating it is 80% grossly underestimates its lethality.<br>• <b>LAD vs. RCA Single-Vessel Survival (Option D):</b> The left anterior descending (LAD) artery supplies 45% to 55% of the left ventricular mass (the anterior wall, apex, and anterior two-thirds of the interventricular septum). In contrast, the right coronary artery (RCA) supplies the inferior wall and right ventricle. Consequently, isolated LAD disease (particularly proximal LAD stenosis) carries a significantly <b>worse prognosis and lower survival</b> compared to isolated RCA disease, directly contradicting Option D.",
@@ -5527,7 +5527,7 @@
       "optionsRu": {
         "A": "пациенты с неревматической этиологией пороков имеют более высокую отдаленную выживаемость",
         "B": "дополнительное выполнение коронарного шунтирования снижает операционную летальность за счет улучшения послеоперационной функции желудочков",
-        "C": "наиболее частой причиной ранней летальности является острая сердечная недостаточность (The most common mode of early death is acute heart failure)",
+        "C": "наиболее частой причиной ранней летальности является острая сердечная недостаточность",
         "D": "отмечается высокая распространенность ранней трикуспидальной регургитации",
         "E": "отдаленная выживаемость при использовании механических протезов ниже, чем при использовании биологических"
       },
@@ -5571,7 +5571,7 @@
         "A": "госпитальная летальность составляет 10–15%",
         "B": "обязательна обширная резекция некротизированного миокарда, включая межжелудочковую перегородку",
         "C": "апикальный ДМЖП предпочтительнее закрывать прямым первичным швом",
-        "D": "до 40% пациентов имеют резидуальный ДМЖП после операции (Up to 40% of patients have a residual VSD after surgery)",
+        "D": "до 40% пациентов имеют резидуальный ДМЖП после операции",
         "E": "наиболее частой причиной летальности после операции является послеоперационное кровотечение"
       },
       "correctAnswer": "D",
@@ -5612,7 +5612,7 @@
       },
       "optionsRu": {
         "A": "средняя выживаемость после появления симптомов составляет 5 лет",
-        "B": "внезапная сердечная смерть развивается менее чем у 1% бессимптомных пациентов в год (Sudden cardiac death occurs in less than 1% of asymptomatic patients per year)",
+        "B": "внезапная сердечная смерть развивается менее чем у 1% бессимптомных пациентов в год",
         "C": "тяжелая систолическая дисфункция левого желудочка развивается, когда масса миокарда ЛЖ превышает 150 г/м²",
         "D": "хроническая сердечная недостаточность чаще всего обусловлена сопутствующей ишемической болезнью сердца",
         "E": "естественное течение аортальной регургитации аналогично течению аортального стеноза"
@@ -5655,7 +5655,7 @@
       "optionsRu": {
         "A": "микотическая аневризма является противопоказанием к раннему оперативному вмешательству",
         "B": "абсцесс головного мозга является наиболее частым неврологическим осложнением",
-        "C": "инфекция, вызванная Staphylococcus aureus, повышает риск неврологических осложнений (Staphylococcus aureus infection increases the risk of neurologic complications)",
+        "C": "инфекция, вызванная Staphylococcus aureus, повышает риск неврологических осложнений",
         "D": "неврологические осложнения увеличивают общую летальность на 50%",
         "E": "размер вегетаций не влияет на риск эмболизации"
       },
@@ -5699,7 +5699,7 @@
         "A": "выраженное развитие коллатералей является обязательным условием формирования аневризмы",
         "B": "аневризмы левого желудочка продолжают бесконечно увеличиваться в размерах",
         "C": "функция правого желудочка сохраняется даже при обширных аневризмах левого желудочка",
-        "D": "дискинезия ассоциирована с неблагоприятным исходом (Dyskinesia is associated with adverse outcome)",
+        "D": "дискинезия ассоциирована с неблагоприятным исходом",
         "E": "размер аневризмы не влияет на выживаемость"
       },
       "correctAnswer": "D",
@@ -5741,7 +5741,7 @@
       "optionsRu": {
         "A": "локальные (фокальные) бронхоэктазы чаще всего обусловлены врожденной патологией",
         "B": "наиболее часто выделяемым потенциально патогенным микроорганизмом является Staphylococcus aureus",
-        "C": "поражение верхних долей на компьютерной томограмме характерно для муковисцидоза (Upper lobe involvement on CT scan is suggestive of cystic fibrosis)",
+        "C": "поражение верхних долей на компьютерной томограмме характерно для муковисцидоза",
         "D": "односторонняя трансплантация легкого является методом выбора для более широкого использования донорских органов",
         "E": "при массивном кровохарканье методом выбора является экстренная хирургическая операция"
       },
@@ -5786,7 +5786,7 @@
         "B": "сосудистая инвазия и окклюзия являются типичным признаком",
         "C": "она разрушает (эрозирует) плечевое сплетение",
         "D": "она обычно диагностируется в младенческом возрасте",
-        "E": "оптимальной тактикой является энуклеация в сочетании с лучевой терапией (It is best managed by enucleation and radiotherapy)"
+        "E": "оптимальной тактикой является энуклеация в сочетании с лучевой терапией"
       },
       "correctAnswer": "E",
       "explanationEn": "🎯 <b>Correct Answer: Option E: It is best managed by enucleation and radiotherapy.</b><br><br>🔵 <b>Detailed Thoracic Oncology & Chest Wall Pathology Analysis:</b><br>Desmoid tumors (also designated as aggressive fibromatosis or musculoaponeurotic fibromatosis) are clonal fibroblastic/myofibroblastic proliferations arising from deep fascial and musculoaponeurotic structures of the chest wall (most frequently the shoulder girdle, pectoralis muscles, or intercostal musculature).<br><br>1️⃣ <b>Biological Behavior and Distractor Analysis (Ruling out Options A, B, C, D):</b><br>• <b>Invasive vs. Compressive Pattern (Options A, B, C):</b> Although desmoids lack a true capsule and exhibit locally infiltrative growth that pushes relentlessly along fascial planes, they do <b>not</b> metastasize and characteristically preserve structural tissue planes. They routinely abut, encase, or displace adjacent neurovascular bundles (e.g., subclavian vessels, brachial plexus) and mediastinal pleural reflections via mass effect, but <b>true microscopic vascular lumen invasion, thrombosis/occlusion, erosion of major neural trunks of the brachial plexus, and direct infiltration of mediastinal viscera are distinctly absent</b>.<br>• <b>Epidemiology and Age (Option D):</b> Desmoid tumors have a distinct peak incidence between the ages of <b>20 and 40 years</b> (predominantly in women of reproductive age and individuals with familial adenomatous polyposis / Gardner syndrome due to <i>APC</i> or $\\beta$-catenin / <i>CTNNB1</i> mutations). They are exceptionally rare in neonates and infancy.<br><br>2️⃣ <b>Management Strategy and Adjuvant Therapy (Why Option E is correct):</b><br>• The traditional cornerstone of curative treatment has been wide local surgical excision achieving microscopically negative margins (R0 resection with full-thickness chest wall reconstruction).<br>• However, in the thoracic outlet and apical chest wall, obtaining 2–4 cm wide negative margins without sacrificing vital neural (brachial plexus) or major vascular structures is often anatomically impossible.<br>• In these challenging anatomic settings, <mark style=\"background:#2ecc71;color:#fff\"><b>marginal excision/enucleation (gross complete resection / R1 margin) combined with adjuvant moderate-dose external-beam radiotherapy (50–60 Gy) provides excellent local tumor control rates exceeding 80%–85% (Option E)</b></mark>, sparing the patient functional mutilation.",
@@ -5825,7 +5825,7 @@
         "E": "Discrepancy in size between proximal and distal oesophagus on barium swallow should be treated with bougienage."
       },
       "optionsRu": {
-        "A": "при изолированной атрезии пищевода оптимальной тактикой является отсроченный первичный анастомоз или пластика (замещение) пищевода (Isolated oesophageal atresia is best managed with delayed primary anastomosis or oesophageal replacement)",
+        "A": "при изолированной атрезии пищевода оптимальной тактикой является отсроченный первичный анастомоз или пластика (замещение) пищевода",
         "B": "стандартным доступом у пациентов с левосторонней дугой аорты является левосторонняя торакотомия",
         "C": "доступ к свищу H-типа следует выполнять через левую плевральную полость",
         "D": "отсроченного первичного анастомоза следует избегать у младенцев с низкой массой тела при рождении",
@@ -5871,8 +5871,8 @@
         "A": "встречаются у женщин чаще, чем у мужчин",
         "B": "инкапсулированного типа наиболее часто прорастают в верхнюю полую вену",
         "C": "протекают бессимптомно в 60% случаев",
-        "D": "имеют пик заболеваемости в возрасте 60–70 лет среди пациентов с миастенией гравис (myasthenia gravis)",
-        "E": "характеризуются 10-летней выживаемостью 55% при полностью резецированной III стадии (have a 55% 10-year survival rate for completely resected stage III)"
+        "D": "имеют пик заболеваемости в возрасте 60–70 лет среди пациентов с миастенией гравис",
+        "E": "характеризуются 10-летней выживаемостью 55% при полностью резецированной III стадии"
       },
       "correctAnswer": "E",
       "explanationEn": "🎯 <b>Correct Answer: Option E: have a 55% 10-year survival rate for completely resected stage III.</b><br><br>🔵 <b>Detailed Thoracic Oncology & Thymoma Staging Analysis:</b><br>Thymomas are the most common primary neoplasms of the anterior (prevascular) mediastinum in adults, arising from thymic epithelial cells. Clinical behavior, surgical resectability, and long-term prognosis are historically codified by the <b>Masaoka-Koga staging system</b>.<br><br>1️⃣ <b>Masaoka-Koga Staging and Long-Term Survival Benchmarks (Why Option E is correct):</b><br>• <b>Stage I:</b> Macroscopically completely encapsulated with no microscopic capsular invasion (10-year survival: ~90%–95%);<br>• <b>Stage II:</b> Microscopic transcapsular invasion into surrounding mediastinal fatty tissue (IIa) or macroscopic adherence into mediastinal pleura/pericardium (IIb) (10-year survival: ~70%–75%);<br>• <mark style=\"background:#2ecc71;color:#fff\"><b>Stage III: Macroscopic invasion into neighboring organs (pericardium, great vessels like SVC/innominate vein, lung, or phrenic nerve). Following complete surgical resection (R0 resection with en bloc vascular/pericardial reconstruction) and adjuvant radiotherapy, the 10-year survival rate is approximately 55% (Option E)</b></mark>;<br>• <b>Stage IVa/b:</b> Pleural or pericardial dissemination (IVa) or lymphogenous/hematogenous distant metastases (IVb) (10-year survival: ~30%–35%).<br><br>2️⃣ <b>Differential Analysis of Distractor Options:</b><br>• <b>Sex Distribution (Option A):</b> Thymomas exhibit an equal sex distribution (male-to-female ratio is <b>1:1</b>). They do not have a female predilection.<br>• <b>Invasion in Capsulated Tumors (Option B):</b> By strict definition, encapsulated thymomas (Masaoka Stage I) do <b>not</b> invade surrounding structures. Vascular invasion into the superior vena cava, innominate veins, or aorta defines an <b>invasive thymoma (Stage III)</b> or high-grade thymic carcinoma, contradicting the premise of a capsulated tumor.<br>• <b>Asymptomatic Rate (Option C):</b> Approximately <b>30% (one-third)</b> of thymomas are asymptomatic and discovered incidentally on screening chest imaging. The remaining 70% present with local compressive symptoms (cough, chest pain, dyspnea, SVC syndrome) or autoimmune paraneoplastic syndromes.<br>• <b>Age Peaks in Myasthenia Gravis (Option D):</b> Approximately 30% to 50% of thymoma patients have autoimmune <b>Myasthenia Gravis (MG)</b> (and 10%–15% of all MG patients harbor a thymoma). In patients with MG-associated thymomas, the demographic peak occurs significantly earlier, typically in the <b>3rd to 4th decades (30 to 40 years)</b>. The older peak between 60 and 70 years is characteristic of non-myasthenic thymomas or thymic carcinomas.",
@@ -5914,8 +5914,8 @@
         "A": "Классический задний доступ Шоу — Полсона обеспечивает прямую визуализацию и безопасную радикальную резекцию всех анатомических структур апертуры грудной клетки",
         "B": "Передний трансцервикальный доступ характеризуется более высокой частотой осложнений и летальности по сравнению с задним доступом Шоу — Полсона",
         "C": "Инвазия в тело позвонка является абсолютным противопоказанием к хирургической резекции опухоли Панкоста",
-        "D": "Трехкомпонентная терапия (trimodality therapy) позволила снизить частоту локальных рецидивов до однозначных цифр (менее 10%)",
-        "E": "Интраоперационная брахитерапия не оказывает влияния на показатели локорегионарного рецидивирования и выживаемости (Loco-regional recurrence or survival rates are not influenced by intraoperative brachytherapy)"
+        "D": "Трехкомпонентная терапия позволила снизить частоту локальных рецидивов до однозначных цифр (менее 10%)",
+        "E": "Интраоперационная брахитерапия не оказывает влияния на показатели локорегионарного рецидивирования и выживаемости"
       },
       "correctAnswer": "E",
       "explanationEn": "🎯 <b>Correct Answer: Option E: Loco-regional recurrence or survival rates are not influenced by intraoperative brachytherapy.</b><br><br>🔵 <b>Detailed Thoracic Surgical Oncology & Pancoast Tumor Analysis:</b><br>Superior sulcus tumors (Pancoast tumors) are non-small cell lung carcinomas located at the extreme pulmonary apex invading the thoracic inlet structures (brachial plexus lower trunk C8/T1, sympathetic stellate ganglion, first three ribs, subclavian vessels, and adjacent vertebral bodies).<br><br>1️⃣ <b>Role of Intraoperative Brachytherapy (Why Option E is correct):</b><br>• Intraoperative brachytherapy (using Iodine-125 seeds or Vicryl mesh carriers placed directly over close, positive, or high-risk apical resection margins) was extensively studied in specialized oncology series.<br>• <mark style=\"background:#2ecc71;color:#fff\"><b>Rigorous clinical trials and prospective registries demonstrate that intraoperative brachytherapy does NOT significantly influence or reduce loco-regional recurrence, nor does it improve overall long-term survival rates (Option E)</b></mark>.<br>• Moreover, brachytherapy seeds in close proximity to the brachial plexus frequently triggered devastating radiation-induced brachial plexopathy and chronic intractable neuropathic pain, leading to its general abandonment in favor of standardized induction chemoradiation.<br><br>2️⃣ <b>Differential Breakdown of Distractor Options:</b><br>• <b>Posterior Shaw-Paulson Approach (Option A):</b> The classic extended posterior thoracotomy (Shaw-Paulson) provides superb exposure of the posterior chest wall, ribs 1–3, sympathetic chain, and T1 nerve root. However, it provides very poor, hazardous exposure to the <b>anterior compartment of the thoracic inlet and subclavian vessels</b>; attempting vascular reconstruction through this access carries extreme risk of uncontrollable hemorrhage.<br>• <b>Anterior Transcervical Approach (Option B):</b> Pioneered by Dartevelle (with modifications by Grunenwald and Masaoka), the anterior transcervical-thoracic approach affords direct, unmatched control over the subclavian artery and vein, phrenic nerve, and anterior chest wall. Multiple comparative series confirm that the anterior approach does <b>not</b> carry higher operative morbidity or mortality compared to the massive muscle-cutting posterior thoracotomy.<br>• <b>Vertebral Body Invasion (Option C):</b> Historically considered unresectable, tumor involvement of a vertebral body is <b>no longer an absolute contraindication</b>. In dedicated thoracic/spine surgery centers, partial or hemi-vertebrectomy (and even complete en bloc spondylectomy) is routinely executed with clear R0 margins and spinal stabilization.<br>• <b>Trimodality Therapy and Recurrence (Option D):</b> The landmark SWOG 9416 / INT-0160 trial established induction concurrent chemoradiation (cisplatin/etoposide + 45 Gy radiation) followed by surgery as standard care. Although it produced high rates of complete pathologic response and boosted 5-year survival to ~45%–55%, local/locoregional failure rates still hover around <b>15% to 25%</b> (not single digits), and distant brain metastasis remains the leading mode of treatment failure.",
@@ -5954,11 +5954,11 @@
         "E": "Stage IVA"
       },
       "optionsRu": {
-        "A": "I стадия (Stage I)",
-        "B": "IIA стадия (Stage IIA)",
-        "C": "IIB стадия (Stage IIB)",
-        "D": "III стадия (Stage III)",
-        "E": "IVA стадия (Stage IVA)"
+        "A": "I стадия",
+        "B": "IIA стадия",
+        "C": "IIB стадия",
+        "D": "III стадия",
+        "E": "IVA стадия"
       },
       "correctAnswer": "C",
       "explanationEn": "🎯 <b>Correct Answer: Option C: Stage IIB.</b><br><br>🔵 <b>Detailed Masaoka-Koga Staging Criteria Breakdown:</b><br>The Masaoka staging system (and its Masaoka-Koga modification adopted by ITMIG) is the gold-standard clinicopathologic staging tool for thymic epithelial neoplasms, dictating surgical completeness, recurrence risk, and the necessity of adjuvant radiotherapy.<br><br>1️⃣ <b>Exact Staging Definitions:</b><br>• <b>Stage I:</b> Macroscopically and microscopically completely encapsulated tumor without any capsular invasion.<br>• <b>Stage II:</b> Separated strictly into microscopic versus macroscopic extension:<br>  - <b>Stage IIA:</b> <i>Microscopic</i> transcapsular invasion into adjacent mediastinal thymic adipose/fatty tissue;<br>  - <mark style=\"background:#2ecc71;color:#fff\"><b>Stage IIB: Macroscopic (gross) invasion into surrounding mediastinal fatty tissue, OR gross adherence to (without breaking through) the mediastinal pleura or pericardium [Option C]</b></mark>.<br>• <b>Stage III:</b> Macroscopic (gross) invasion into adjacent organs (pericardium, great vessels such as the superior vena cava or innominate vein, lung parenchyma, chest wall).<br>• <b>Stage IVA:</b> Pleural or pericardial dissemination (separate metastatic implant nodules).<br>• <b>Stage IVB:</b> Lymphogenous (mediastinal or supraclavicular lymph node) or hematogenous distant metastases.<br><br>2️⃣ <b>Differential Analysis of Options:</b><br>• <b>Stage I (Option A):</b> Excluded because the tumor is not encapsulated, displaying clear capsular breakthrough.<br>• <b>Stage IIA (Option B):</b> Requires that capsular breach is identifiable only microscopically on histology; the prompt explicitly states <i>macroscopic</i> invasion.<br>• <b>Stage III (Option D):</b> Requires gross invasion into surrounding organs (pericardium, great thoracic vessels, or pulmonary lobes), not merely surrounding fatty tissue.<br>• <b>Stage IVA (Option E):</b> Denotes discrete drop metastases/implants onto the pleura or pericardial cavity.",
@@ -5996,7 +5996,7 @@
         "E": "Lipoma"
       },
       "optionsRu": {
-        "A": "недифференцированный (анапластический) рак щитовидной железы (Undifferentiated carcinoma of the thyroid)",
+        "A": "недифференцированный (анапластический) рак щитовидной железы",
         "B": "эктопированная паращитовидная железа",
         "C": "лимфангиома",
         "D": "липосаркома",
@@ -6047,7 +6047,7 @@
         "B": "тимома",
         "C": "лимфома",
         "D": "дупликационная киста передней кишки",
-        "E": "перикардиальная киста (Pericardial cyst)"
+        "E": "перикардиальная киста"
       },
       "correctAnswer": "E",
       "explanationEn": "🎯 <b>Correct Answer: Option E: Pericardial cyst.</b><br><br>🔵 <b>Detailed Thoracic Radiology & Mediastinal Cyst Analysis:</b><br>Pericardial cysts (also referred to as mesothelial cysts, spring-water cysts, or celomic cysts) are uncommon, benign congenital malformations arising from defective coalescence and cavitation of the embryonic ventral parietal celomic lacunae during development of the pericardium.<br><br>1️⃣ <b>Anatomical Predilection and CT Imaging Features (Why Option E is correct):</b><br>• <b>Anatomic Location:</b> <mark style=\"background:#2ecc71;color:#fff\"><b>Approximately 70% to 75% of pericardial cysts arise within the right anterior cardiophrenic angle (Option E)</b></mark>, with approximately 20% to 25% occurring in the left cardiophrenic angle, and less than 5%–8% in uncommon locations such as the upper mediastinum or posterior pericardial recesses.<br>• <b>CT Characteristics:</b> On contrast-enhanced chest CT, a pericardial cyst classically presents as a:<br>  - Sharply marginated, smooth, oval or teardrop-shaped unilocular mass;<br>  - Non-enhancing, imperceptibly thin wall adhering directly to the parietal pericardium and anterior diaphragm;<br>  - Uniform, homogenous <b>water/fluid attenuation (-10 to +20 Hounsfield Units [HU])</b>;<br>  - Complete absence of solid nodular components, internal septations, or direct communication with the pericardial sac (which differentiates a true cyst from a pericardial diverticulum).<br><br>2️⃣ <b>Differential Analysis of Distractor Options:</b><br>• <b>Bronchogenic Cyst (Option A):</b> Bronchogenic cysts are congenital foregut duplications of tracheobronchial origin. Over 80%–85% reside within the <b>middle mediastinum</b> (typically in the subcarinal space, right paratracheal region, or adjacent to the mainstem bronchi). Although cystic, they frequently contain dense proteinaceous mucinous fluid or calcium oxalates, showing high CT attenuation (&gt; 30–50 HU) that can falsely simulate a solid mass.<br>• <b>Foregut Duplication Cyst (Option D):</b> Esophageal and gastroenteric duplication cysts classically locate in the <b>posterior mediastinum</b> (paraesophageal area) or within the muscular wall of the esophagus itself, rather than in the anterior cardiophrenic angle abutting the diaphragm.<br>• <b>Thymoma (Option B) and Lymphoma (Option C):</b> Thymomas and lymphomas are solid anterior mediastinal neoplasms. On CT, they exhibit <b>soft-tissue attenuation (30–60 HU non-contrast)</b> and demonstrate prominent, often heterogeneous contrast enhancement, with lymphomas frequently presenting as lobulated, multinodal confluence encasing great vessels rather than an isolated, benign fluid-density unilocular mass.",
@@ -6091,7 +6091,7 @@
       "optionsRu": {
         "A": "T2",
         "B": "T3",
-        "C": "T4 (T4)",
+        "C": "T4",
         "D": "M1a",
         "E": "M1b"
       },
@@ -6136,7 +6136,7 @@
         "E": "Casoni skin test is the main diagnostic test for pulmonary cystic echinococcosis."
       },
       "optionsRu": {
-        "A": "соотношение поражения легких и печени (легкие:печень) выше у детей, чем у взрослых (The ratio lung:liver involvement is higher in children than in adults)",
+        "A": "соотношение поражения легких и печени (легкие:печень) выше у детей, чем у взрослых",
         "B": "большинство пациентов с эхинококкозом легких имеют выраженную клиническую симптоматику",
         "C": "большинство симптомов эхинококкоза легких обусловлено разрывом кисты",
         "D": "химиотерапия бензимидазолами является основным методом лечения",
@@ -6181,7 +6181,7 @@
       "optionsRu": {
         "A": "инвазивное электрофизиологическое исследование для стратификации риска являлось обязательным критерием включения",
         "B": "пациенты рандомизировались в соотношении 1:1 в группы имплантации дефибриллятора и стандартной медикаментозной терапии",
-        "C": "влияние дефибриллятора на выживаемость было сопоставимым в субанализах, стратифицированных по возрасту, полу, фракции выброса, функциональному классу NYHA и длительности интервала QRS (the effect of defibrillator therapy on survival was similar in subgroup analyses stratified according to age, sex, ejection fraction, New York Heart Association class, and the QRS interval)",
+        "C": "влияние дефибриллятора на выживаемость было сопоставимым в субанализах, стратифицированных по возрасту, полу, фракции выброса, функциональному классу NYHA и длительности интервала QRS",
         "D": "профилактическая имплантация дефибриллятора не оказала влияния на первичную конечную точку общей летальности",
         "E": "профилактическая имплантация дефибриллятора была рекомендована пациентам с перенесенным инфарктом миокарда и фракцией выброса ≥ 30%"
       },
@@ -6226,7 +6226,7 @@
         "B": "тупая травма грудной клетки при отсутствии зарегистрированной сердечной деятельности",
         "C": "объем кровопотери по плевральному дренажу ≤ 500 мл",
         "D": "проникающее ранение грудной клетки с артериальной гипотензией, отвечающей на инфузионную терапию",
-        "E": "остановка кровообращения вследствие проникающего ранения грудной клетки с ранее зарегистрированной сердечной деятельностью (Traumatic arrest secondary to penetrating thoracic injury with previously witnessed cardiac activity)"
+        "E": "остановка кровообращения вследствие проникающего ранения грудной клетки с ранее зарегистрированной сердечной деятельностью"
       },
       "correctAnswer": "E",
       "explanationEn": "🎯 <b>Correct Answer: Option E: Traumatic arrest secondary to penetrating thoracic injury with previously witnessed cardiac activity.</b><br><br>🔵 <b>Detailed Trauma Surgery & Resuscitative Thoracotomy (ERT) Analysis:</b><br>Emergency Department Thoracotomy (EDT / ERT), codified by the Eastern Association for the Surgery of Trauma (EAST) and American College of Surgeons Committee on Trauma (ACS-COT), is a maximal salvage procedure designed to achieve four immediate physiological goals:<br>1. Evacuate pericardial tamponade (longitudinal pericardiotomy anterior to the phrenic nerve);<br>2. Control intrathoracic or intracardiac exsanguinating hemorrhage;<br>3. Cross-clamp the descending thoracic aorta to redistribute limited perfusion pressure to the cerebral and coronary circulations while staunching subdiaphragmatic bleeding;<br>4. Perform open direct internal cardiac compressions and manage air embolism.<br><br>1️⃣ <b>Absolute Indication Profile (Why Option E is correct):</b><br>• The classic, accepted absolute indication for ERT is <mark style=\"background:#2ecc71;color:#fff\"><b>traumatic cardiopulmonary arrest secondary to penetrating thoracic injury with witnessed signs of life (pupillary reactivity, spontaneous breathing, measurable pulse, or organized ECG rhythm/cardiac motion on ultrasound) within 15 minutes of arrival (Option E)</b></mark>.<br>• In this cohort (especially stab wounds with cardiac tamponade), neurologic intact survival rates reach <b>15% to 35%</b>, justifying the emergency bay intervention.<br><br>2️⃣ <b>Differential Analysis of Distractor Options:</b><br>• <b>Blunt Trauma with No Witnessed Cardiac Activity (Option B):</b> Traumatic arrest secondary to blunt mechanism without witnessed signs of life carries an intact neurological survival rate essentially of <b>0% (&lt; 0.5%–1%)</b>. Performing an ERT in this scenario poses unwarranted risks of bloodborne pathogen transmission to healthcare personnel without therapeutic benefit, serving as an absolute contraindication.<br>• <b>Aortic Transection (Option A):</b> Traumatic blunt aortic transection is an urgent or semi-elective condition managed by permissive hypotension, beta-blockade, and definitive repair via <b>Thoracic Endovascular Aortic Repair (TEVAR)</b> or open interposition graft in a fully equipped operating room / hybrid suite, not by an emergent bed-side thoracotomy.<br>• <b>Chest Tube Output &le; 500 mL (Option C):</b> The consensus threshold for urgent surgical exploration via formal operating-room thoracotomy is an initial immediate drain output of <b>&gt; 1500 mL</b> (massive hemothorax) OR persistent drainage &gt; 200 mL/hr for 2 to 4 consecutive hours. An output &le; 500 mL is safely monitored and managed conservatively.<br>• <b>Responsive Hypotension (Option D):</b> A patient with penetrating thoracic trauma whose blood pressure responds to fluid/blood resuscitation is stable enough for immediate, expedited transfer to the <b>main operating theater</b> for formal controlled thoracotomy under full aseptic, sterile, and monitored conditions. ERT in the emergency bay is reserved strictly for arrest or refractory, non-responsive profound shock (systolic BP &lt; 70 mmHg).",
@@ -6265,7 +6265,7 @@
         "E": "Radiologic foregut evaluation"
       },
       "optionsRu": {
-        "A": "суточный амбулаторный рН-мониторинг пищевода (Ambulatory 24-hour pH monitoring)",
+        "A": "суточный амбулаторный рН-мониторинг пищевода",
         "B": "манометрия пищевода",
         "C": "эндоскопическое исследование (ЭГДС)",
         "D": "комбинированная многоканальная внутрипросветная импеданс-рН-метрия",
@@ -6307,7 +6307,7 @@
         "E": "percutaneous thoracic duct embolisation"
       },
       "optionsRu": {
-        "A": "парентеральное питание (внутривенное питание) и дренирование плевральной полости (intravenous alimentation and chest drainage)",
+        "A": "парентеральное питание (внутривенное питание) и дренирование плевральной полости",
         "B": "лапаротомия и резекция грудного лимфатического протока",
         "C": "облучение средостения",
         "D": "пероральный прием этилефрина с последующим формированием плеврокавального шунта",
@@ -6351,9 +6351,9 @@
       "optionsRu": {
         "A": "спаечная кишечная непроходимость",
         "B": "заворот желудка",
-        "C": "рецидивная грыжа (recurrent hernia / herniated fundoplication)",
-        "D": "соскальзывание фундопликационной манжетки (slipped fundoplication)",
-        "E": "слишком тугая фундопликация (tight fundoplication)"
+        "C": "рецидивная грыжа",
+        "D": "соскальзывание фундопликационной манжетки",
+        "E": "слишком тугая фундопликация"
       },
       "correctAnswer": "C",
       "explanationEn": "🎯 <b>Correct Answer: Option C: recurrent hernia.</b><br><br>🔵 <b>Detailed Surgical Pathology & Reoperative Foregut Analysis:</b><br>Laparoscopic Nissen fundoplication (360° total fundoplication) provides durable symptomatic relief in 85%–90% of patients with GERD. However, approximately 5% to 10% experience recurrent reflux, severe dysphagia, or chest pain necessitating re-evaluation and revision surgery.<br><br>1️⃣ <b>Patterns of Anatomical Failure (Why Option C is correct):</b><br>• Multiple high-volume foregut centers (including landmark series by Horgan, Hunter, and Soper) classify post-fundoplication failures into distinct morphological patterns:<br>  - <mark style=\"background:#2ecc71;color:#fff\"><b>Type I: Intrathoracic wrap migration / Recurrent hiatal hernia (Option C)</b></mark> — accounting for <b>35% to 50% of all surgical failures</b>, making it by far the single most common failure pattern.<br>  - <b>Type II: Slipped (or misplaced) fundoplication</b> — wrap migrated down onto the gastric corpus, or wrap inadvertently constructed around the proximal stomach rather than the distal esophagus (~20%–30%).<br>  - <b>Type III: Disrupted wrap</b> — breakdown of sutures between the gastric fundic flaps (&lt; 15%).<br>  - <b>Type IV: Overly tight or excessively long wrap (&gt; 2.5 cm)</b> — producing intractable dysphagia and gas-bloat.<br>  - <b>Type V: Twisted wrap</b> — asymmetric mobilization creating an anatomical obstruction.<br>• Intrathoracic wrap herniation develops because the persistent negative intrathoracic pressure gradient (pulling upward) and positive intra-abdominal pressure (pushing upward during coughing, straining, or vomiting) continuously stress the diaphragmatic crural sutures (cruroplasty). Inadequate crural closure, poor tissue quality, or failure to perform an adequate mediastinal esophageal mobilization to achieve ≥ 2–3 cm of tension-free intra-abdominal esophagus directly lead to crural breakdown and transhiatal wrap migration.<br><br>2️⃣ <b>Differential Analysis of Distractor Options:</b><br>• <b>Slipped Fundoplication (Option D):</b> Often considered the classic textbook failure mechanism, true 'slippage' (where the gastroesophageal junction migrates upward through an intact wrap, or the wrap slides onto the body of the stomach creating an hourglass deformity) is the second most common anatomic failure, but occurs less frequently than transdiaphragmatic herniation of the entire wrap.<br>• <b>Tight Fundoplication (Option E):</b> An overly tight wrap produces persistent, early post-operative dysphagia, but represents an error in technical sizing/calibration (avoided by wrapping over a 54–60 Fr bougie) rather than the most frequent long-term pattern of mechanical reoperation.<br>• <b>Adhesive Small Bowel Obstruction (Option A):</b> Extremely rare after clean, laparoscopic upper gastrointestinal surgery (&lt; 1%) compared to open laparotomy.<br>• <b>Gastric Volvulus (Option B):</b> Can occur acutely in large, neglected paraesophageal hernias, but is rare following a completed fundoplication unless an enormous recurrent hiatal defect develops.",
@@ -6394,7 +6394,7 @@
       "optionsRu": {
         "A": "бронхоскопия с последующей ангиографией и артериальной эмболизацией",
         "B": "продолжение наблюдения в отделении интенсивной терапии еще в течение 48 часов с последующей выпиской домой на антибиотикотерапии при отсутствии рецидива кровотечения",
-        "C": "резекция пораженного участка легкого (resection of the involved area)",
+        "C": "резекция пораженного участка легкого",
         "D": "противогрибковая терапия в течение шести недель",
         "E": "ротационная терапия бактерицидными антибиотиками"
       },
@@ -6436,7 +6436,7 @@
       "optionsRu": {
         "A": "каверностомия",
         "B": "внутривенное введение амфотерицина",
-        "C": "левосторонняя верхняя лобэктомия (left upper lobectomy)",
+        "C": "левосторонняя верхняя лобэктомия",
         "D": "левосторонняя верхняя лобэктомия с единой блок-резекцией грудной стенки",
         "E": "чрескожное дренирование абсцесса"
       },
@@ -6481,7 +6481,7 @@
       },
       "optionsRu": {
         "A": "бронхоскопия",
-        "B": "дренирование плевральной полости (chest drainage)",
+        "B": "дренирование плевральной полости",
         "C": "интубация трахеи и искусственная вентиляция легких",
         "D": "аспирация плевральной жидкости и посев",
         "E": "посев мокроты и назначение антибиотиков"
@@ -6526,8 +6526,8 @@
         "A": "бронходилататоры, дыхательная гимнастика (ЛФК) и стероиды при периодических обострениях",
         "B": "бронхоскопическое дренирование",
         "C": "курс легочной реабилитации",
-        "D": "хирургическое иссечение образования (excision of the lesion / bullectomy)",
-        "E": "дренирование плевральной полости трубчатым дренажем (tube thoracostomy)"
+        "D": "хирургическое иссечение образования",
+        "E": "дренирование плевральной полости трубчатым дренажем"
       },
       "correctAnswer": "D",
       "explanationEn": "🎯 <b>Correct Answer: Option D: excision of the lesion.</b><br><br>🔵 <b>Detailed Pulmonary Pathophysiology, Thoracic Radiology, and Surgical Bullectomy Analysis:</b><br>A giant bulla is defined radiographically and clinically as an air-filled, thin-walled, hyperinflated space within the lung parenchyma occupying <b>more than one-third (≥ 30%–33%) of the involved hemithorax</b>, characteristically compressing the adjacent non-bullous lung tissue.<br><br>1️⃣ <b>Surgical Bullectomy as the Curative Intervention (Why Option D is correct):</b><br>• <b>Mechanical Space-Occupying Effect:</b> In giant bullous emphysema (vanishing lung syndrome), the bulla acts as an ineffective, non-ventilated dead space with poor compliance that fills with trapped gas via a one-way check-valve communication. As it inflates under positive pressure, it crushes and atelectasizes the surrounding preserved, vascularized, functional pulmonary parenchyma, inverts the diaphragm, and shifts the mediastinum.<br>• <mark style=\"background:#2ecc71;color:#fff\"><b>Surgical excision of the lesion (stapled bullectomy via Video-Assisted Thoracoscopic Surgery [VATS] or localized thoracotomy) is the definitive treatment of choice (Option D)</b></mark>.<br>• Decompressing the thoracic cavity immediately eliminates dead space, restores diaphragmatic excursion, and allows the chronically collapsed normal alveolar tissue to re-expand and resume gas exchange, yielding profound, immediate improvements in FEV1, forced vital capacity (FVC), and exercise tolerance.<br><br>2️⃣ <b>Differential Analysis of Distractor Options & Critical Pitfalls:</b><br>• <b>Medical Therapy and Pulmonary Rehabilitation (Options A & C):</b> While bronchodilators, inhaled corticosteroids, and rehabilitation treat generalized underlying COPD/chronic bronchitis, they cannot correct the fixed mechanical compression exerted by a giant space-occupying tension cyst. In the presence of compressed functional tissue, surgery offers definitive functional restoration.<br>• <b>Bronchoscopic Drainage (Option B):</b> Catheter-based or bronchoscopic drainage carries a high risk of producing an uncontrolled internal air leak, severe tension pneumothorax, and secondary purulent bulla colonization/infection.<br>• <b>Tube Thoracostomy (Option E) — Major Board Warning Trap:</b> Inadvertent insertion of an intercostal chest tube into a giant bulla is a classic, catastrophic clinical error caused by misdiagnosing a bulla as a pneumothorax on plain radiographs. Puncturing the thin-walled bulla does <i>not</i> re-expand the lung; instead, it establishes an intractable, large-caliber bronchopleural/bronchocutaneous fistula with persistent massive air leak, tension pneumothorax, and secondary cavity empyema.",
@@ -6572,7 +6572,7 @@
         "A": "ультразвуковое исследование органов брюшной полости",
         "B": "лапароскопия",
         "C": "магнитно-резонансная томография",
-        "D": "пункционная биопсия (needle biopsy)",
+        "D": "пункционная биопсия",
         "E": "хирургическая резекция"
       },
       "correctAnswer": "D",
@@ -6614,7 +6614,7 @@
         "A": "лучевая терапия на область головного мозга и легкого",
         "B": "лучевая терапия на область головного мозга и резекция опухоли легкого",
         "C": "лучевая терапия на область головного мозга и системная химиотерапия",
-        "D": "хирургическая резекция как метастаза в головной мозг, так и первичной опухоли легкого (resection of both the brain metastasis and lung disease)",
+        "D": "хирургическая резекция как метастаза в головной мозг, так и первичной опухоли легкого",
         "E": "хирургическая резекция метастаза в головной мозг и лучевая терапия на область легкого"
       },
       "correctAnswer": "D",
@@ -6658,7 +6658,7 @@
         "B": "динамическое наблюдение до появления симптомов или увеличения образования",
         "C": "чрескожное дренирование",
         "D": "хирургическая резекция",
-        "E": "консервативная терапия альбендазолом (treatment with Albendazole)"
+        "E": "консервативная терапия альбендазолом"
       },
       "correctAnswer": "E",
       "explanationEn": "🎯 <b>Correct Answer: Option E: treatment with Albendazole.</b><br><br>🔵 <b>Detailed Parasitological, Medical, and Thoracic Surgical Management Analysis:</b><br>Pulmonary cystic echinococcosis (hydatid disease caused by <i>Echinococcus granulosus</i>) typically requires surgical intervention when cysts are large, complicated, or symptomatic. However, management algorithms differ fundamentally for small, uncomplicated incidental lesions.<br><br>1️⃣ <b>Indications for Primary Medical Therapy (Why Option E is correct):</b><br>• For <mark style=\"background:#2ecc71;color:#fff\"><b>small (&lt; 3 to 4 cm), solitary, uncomplicated, and completely asymptomatic pulmonary hydatid cysts</b></mark> (supported by positive serology and classic imaging), medical therapy with benzimidazoles—specifically <b>albendazole</b> (400 mg twice daily in extended cycles)—is an established, highly effective first-line non-operative management strategy (Option E).<br>• Albendazole achieves high tissue penetration into the cyst membrane, inhibiting glucose uptake by the parasite, causing degeneration of germinal layers, and prompting gradual cyst involution or complete radiological resolution.<br><br>2️⃣ <b>Critical Safety Warnings and Differential Breakdown of Distractor Options:</b><br>• <b>Needle Biopsy (Option A) & Percutaneous Drainage (Option C) — ABSOLUTE CONTRAINDICATION:</b> Transthoracic needle aspiration/biopsy or percutaneous catheter drainage are <b>strictly contraindicated</b> in suspected hydatid cysts. Puncturing the laminated cyst wall releases highly antigenic hydatid fluid and viable protoscolices into the pleural space or systemic circulation, precipitating <b>catastrophic, life-threatening anaphylactic shock</b> and diffuse secondary seeding (peritoneal or pleural echinococcosis).<br>• <b>Observation (Option B):</b> Simple watchful waiting is clinically inappropriate because viable hydatid cysts inevitably grow (1–5 cm/year), increasing the risk of spontaneous rupture, bronchial erosion, or secondary infection.<br>• <b>Surgical Resection (Option D):</b> While surgical enucleation, cystectomy, and capitonnage remain the gold standard for large (&gt; 4–5 cm), infected, or ruptured cysts causing bronchial compression, subjecting an asymptomatic patient with a tiny 2 cm cyst to upfront surgical thoracotomy/VATS is unnecessarily invasive when medical therapy with albendazole can be successfully utilized first.",
@@ -6696,11 +6696,11 @@
         "E": "thoracoplasty."
       },
       "optionsRu": {
-        "A": "дополнительная (завершающая) пневмонэктомия (completion pneumonectomy)",
-        "B": "декортикация легкого (decortication)",
+        "A": "дополнительная (завершающая) пневмонэктомия",
+        "B": "декортикация легкого",
         "C": "транспозиция мышечного лоскута (миопластика / muscle transposition)",
-        "D": "постоянное дренирование плевральной полости (permanent drainage)",
-        "E": "торакопластика (thoracoplasty)"
+        "D": "постоянное дренирование плевральной полости",
+        "E": "торакопластика"
       },
       "correctAnswer": "C",
       "explanationEn": "🎯 <b>Correct Answer: Option C: muscle transposition.</b><br><br>🔵 <b>Detailed Thoracic Surgical Pathology & Management of Post-Lobectomy Space Infection:</b><br>The clinical scenario describes a classic post-operative complication: chronic infected post-lobectomy space (chronic pleural empyema with a non-collapsing, rigid 'dead space') in a patient without bronchopleural fistula or tumor recurrence.<br><br>1️⃣ <b>Pathophysiology of Rigid Residual Space and Empyema:</b><br>• Following right upper lobectomy, the remaining lower and middle lobes normally expand to fill the thoracic cavity. However, if parenchymal compliance is poor, chronic atelectasis persists, or space infection develops, a sterile or infected residual fluid collection forms.<br>• When this persists for 5 months, a rigid, thick, chronically infected pleural peel forms around the unexpanded lung, preventing spontaneous parenchymal re-expansion.<br><br>2️⃣ <b>Why Muscle Transposition is the Definitive Gold Standard (Why Option C is correct):</b><br>• <mark style=\"background:#2ecc71;color:#fff\"><b>Intrathoracic transposition of vascularized skeletal muscle flaps (such as the latissimus dorsi, serratus anterior, or pectoralis major) is the definitive procedure of choice to eradicate and obliterate persistent infected dead space (Option C)</b></mark>.<br>• Vascularized muscle flaps bring a robust, high-volume blood supply packed with leukocytes, antibiotics, and fibroblasts directly into the infected, poorly vascularized cavity, successfully sterilizing the space and eliminating the residual defect without requiring major organ sacrifice.<br><br>3️⃣ <b>Differential Analysis of Distractor Options:</b><br>• <b>Completion Pneumonectomy (Option A):</b> Indicated for central recurrence or extensive bronchial destruction, not for isolated chronic space empyema without BPF; it carries excessive, unjustified mortality and morbidity.<br>• <b>Decortication (Option B):</b> Pleural decortication involves peeling off the restrictive visceral pleural peel. While effective in early stages (acute/subacute empyema), it is largely ineffective at 5 months because the underlying lung parenchyma is permanently fibrosed and incapable of re-expanding to fill the apical hemithorax.<br>• <b>Permanent Drainage (Option D):</b> Long-term tube thoracostomy / open window thoracostomy (OWT) is merely a temporizing, palliative measure that results in chronic debility and poor quality of life, failing to achieve definitive cure.<br>• <b>Thoracoplasty (Option E):</b> Extrapleural thoracoplasty (resection of multiple ribs to collapse the chest wall inward) causes severe, permanent chest wall deformity, chronic debilitating pain, and respiratory impairment, and has been largely superseded by muscle flap transposition.",
@@ -6743,7 +6743,7 @@
       },
       "optionsRu": {
         "A": "выше своего нормального анатомического положения",
-        "B": "в нормальном анатомическом положении (at the normal position)",
+        "B": "в нормальном анатомическом положении",
         "C": "гипертензивным (с повышеннымдавлением покоя)",
         "D": "гипотензивным (с пониженным давлением покоя)",
         "E": "укороченным"
@@ -6785,7 +6785,7 @@
       "optionsRu": {
         "A": "экстралобарная секвестрация легкого",
         "B": "грыжа щели Бохдалека (грыжа Бохдалека)",
-        "C": "грыжа отверстия Морганьи (hernia through the foramen of Morgagni)",
+        "C": "грыжа отверстия Морганьи",
         "D": "массивный выпот в полости перикарда",
         "E": "перикардиальная киста"
       },
@@ -6831,7 +6831,7 @@
         "A": "верхнего пищеводного сфинктера",
         "B": "шейного отдела пищевода",
         "C": "верхней апертуры грудной клетки",
-        "D": "дуги аорты (aortic arch)",
+        "D": "дуги аорты",
         "E": "нижнего пищеводного сфинктера"
       },
       "correctAnswer": "D",
@@ -6870,7 +6870,7 @@
       },
       "optionsRu": {
         "A": "промежуточный бронх",
-        "B": "трахею (trachea)",
+        "B": "трахею",
         "C": "левый главный бронх",
         "D": "множественные локализации",
         "E": "правый главный бронх"
@@ -6913,7 +6913,7 @@
       "optionsRu": {
         "A": "иммуногистохимическое окрашивание на хромогранин",
         "B": "иммуногистохимическое окрашивание на лей-энкефалин",
-        "C": "локальная инвазия в окружающие структуры во время интраоперационной ревизии (local invasion at time of exploration)",
+        "C": "локальная инвазия в окружающие структуры во время интраоперационной ревизии",
         "D": "метастазы в лимфатические узлы",
         "E": "митотический индекс"
       },
@@ -6954,7 +6954,7 @@
       },
       "optionsRu": {
         "A": "дивертикулэктомия",
-        "B": "дивертикулэктомия в сочетании с эзофагомиотомией (diverticulectomy and oesophagomyotomy)",
+        "B": "дивертикулэктомия в сочетании с эзофагомиотомией",
         "C": "дивертикулопексия",
         "D": "дивертикулопексия и антирефлюксная операция",
         "E": "эзофагомиотомия"
@@ -6999,7 +6999,7 @@
         "B": "общая летальность была достоверно выше в группе хирургической редукции объема легких (LVRS)",
         "C": "через 24 месяца улучшение переносимости физической нагрузки было сопоставимым в группе медикаментозной терапии и группе LVRS",
         "D": "среди пациентов с преимущественным поражением верхних долей и низкой исходной переносимостью физической нагрузки летальность была выше в группе LVRS по сравнению с консервативной терапией",
-        "E": "среди пациентов с локализацией эмфиземы вне верхних долей и высокой переносимостью нагрузки летальность была выше в группе LVRS по сравнению с консервативной терапией (Among patients with non-upper-lobe emphysema and high exercise capacity, mortality was higher in the LVRS group than in the medical-therapy group)"
+        "E": "среди пациентов с локализацией эмфиземы вне верхних долей и высокой переносимостью нагрузки летальность была выше в группе LVRS по сравнению с консервативной терапией"
       },
       "correctAnswer": "E",
       "explanationEn": "🎯 <b>Correct Answer: Option E: Among patients with non-upper-lobe emphysema and high exercise capacity, mortality was higher in the LVRS group than in the medical-therapy group.</b><br><br>🔵 <b>Detailed Clinical Trial Analysis of the National Emphysema Treatment Trial (NETT):</b><br>The landmark NETT study fundamentally transformed modern thoracic surgery and the management of severe heterogeneous emphysema by proving that lung volume reduction surgery (LVRS) is highly beneficial for specific anatomical and functional patient subsets, but dangerous for others.<br><br>1️⃣ <b>Key Findings and Subgroup Stratification (Why Option E is correct):</b><br>• <mark style=\"background:#2ecc71;color:#fff\"><b>Patients with non-upper-lobe (predominantly lower-lobe or diffuse) emphysema combined with high baseline exercise capacity suffered a significantly increased risk of death following LVRS compared to medical therapy alone (risk ratio for death 2.06; P = 0.02) [Option E]</b></mark>. Such patients were designated as a high-risk group in whom LVRS is contraindicated.<br>• Conversely, patients with <b>predominantly upper-lobe emphysema and low baseline exercise capacity</b> achieved a profound, statistically significant survival and functional benefit from LVRS (ruling out Option D).<br><br>2️⃣ <b>Differential Analysis of Distractor Options:</b><br>• <b>Total Patient Enrollment (Option A):</b> The NETT trial randomized a total of <b>1,218 patients</b> across 17 medical centers, not over 3,000.<br>• <b>Overall Mortality (Option B):</b> Overall all-cause mortality across the entire trial cohort showed no significant difference between the LVRS group and the medical therapy group (~0.11 deaths per person-year in both arms; P = 0.90). Benefit was strictly dependent on anatomical subgrouping.<br>• <b>Exercise Capacity at 24 Months (Option C):</b> Improvements in exercise capacity and quality of life were significantly greater and more sustained in the LVRS group compared to medical therapy alone at 24 months (ruling out Option C).",
@@ -7040,7 +7040,7 @@
         "A": "закладывается на двенадцатой неделе эмбрионального развития в виде лимфатических щелей, окруженных мезенхимой около крупных вен",
         "B": "простирается от второго поясничного позвонка до пятого грудного позвонка",
         "C": "проникает в грудную клетку через пищеводное отверстие диафрагмы",
-        "D": "отделен от перикарда синусом (углублением) правой плевральной полости (is separated from the pericardium by a recess of the right pleural cavity)",
+        "D": "отделен от перикарда синусом (углублением) правой плевральной полости",
         "E": "располагается кпереди от диафрагмы, пищевода и перикарда"
       },
       "correctAnswer": "D",
@@ -7080,7 +7080,7 @@
       "optionsRu": {
         "A": "у взрослого человека простирается от уровня четвертого-пятого шейного позвонка до уровня девятого грудного позвонка",
         "B": "имеет 4 анатомических сужения по ходу своего вертикального пути",
-        "C": "пересекается дугой аорты и левым главным бронхом на расстоянии 23 см от резцов у взрослого (is crossed by the aortic arch and left main bronchus at a distance of 23 cm from incisors in an adult)",
+        "C": "пересекается дугой аорты и левым главным бронхом на расстоянии 23 см от резцов у взрослого",
         "D": "в грудной клетке прилежит к полунепарной вене с правой стороны",
         "E": "проходит через левую ножку диафрагмы"
       },
@@ -7118,7 +7118,7 @@
         "E": "right gastric artery"
       },
       "optionsRu": {
-        "A": "левая диафрагмальная артерия (left phrenic artery)",
+        "A": "левая диафрагмальная артерия",
         "B": "правая желудочно-сальниковая артерия",
         "C": "гастродуоденальная артерия",
         "D": "селезеночная артерия",
@@ -7200,11 +7200,11 @@
         "E": "Voluntary muscle activity"
       },
       "optionsRu": {
-        "A": "активность мышц, поднимающих волосы (mm. arrectores pilorum)",
+        "A": "активность мышц, поднимающих волосы",
         "B": "регуляция тонуса (сужение/расширение) кровеносных сосудов",
         "C": "потоотделение",
         "D": "висцеральная рефлекторная активность",
-        "E": "произвольная мышечная активность (voluntary muscle activity)"
+        "E": "произвольная мышечная активность"
       },
       "correctAnswer": "E",
       "explanationEn": "🎯 <b>Correct Answer: Option E: Voluntary muscle activity.</b><br><br>🔵 <b>Detailed Neuroanatomy & Autonomic/Somatic Nervous System Pathways Analysis:</b><br>Injury or transection of the sympathetic trunk in the superior mediastinum (just cranial to T1 or within the upper thoracic chain) interrupts ascending preganglionic sympathetic fibers destined for the superior, middle, and inferior cervical ganglia, classically precipitating ipsilateral Horner's syndrome (ptosis, miosis, and anhidrosis) and regional autonomic deficits.<br><br>1️⃣ <b>Preservation of Somatic Innervation (Why Option E is correct):</b><br>• The sympathetic nervous system constitutes part of the autonomic nervous system, regulating involuntary effector organs, smooth muscle, cardiac muscle, and exocrine/endocrine glands.<br>• Skeletal muscles—responsible for <mark style=\"background:#2ecc71;color:#fff\"><b>voluntary muscle activity</b></mark>—are innervated exclusively by somatic motor efferent nerve fibers originating from the ventral horns of the spinal cord (traveling via spinal nerves and somatic plexuses, rather than the sympathetic chain). Therefore, voluntary motor function and skeletal muscle contraction remain <b>completely intact</b> following sympathetic trunk transection (Option E).<br><br>2️⃣ <b>Loss of Autonomic Functions (Differential Breakdown of Distractor Options):</b><br>• <b>Arrector Pili Muscle Activity (Option A):</b> Pilomotor contractions (goosebumps) are mediated by sympathetic adrenergic fibers, which are lost upon trunk transection.<br>• <b>Vasomotor Control (Option B):</b> Vascular tone (arteriolar constriction and dilation) is critically dependent on sympathetic tone; denervation results in vasodilation and loss of vasomotor reflexes.<br>• <b>Sweat Production (Option C):</b> Sudomotor activity of sweat glands relies on sympathetic cholinergic innervation; transection leads to regional anhidrosis (absence of sweating), a core component of Horner's syndrome.<br>• <b>Visceral Reflex Activity (Option D):</b> Autonomic visceral reflexes within the head, neck, and upper thorax are mediated via sympathetic pathways and become impaired.",
@@ -7321,7 +7321,7 @@
         "E": "20 L/min · mm Hg"
       },
       "optionsRu": {
-        "A": "18 мм рт. ст. · мин/л (18 mm Hg · min/L)",
+        "A": "18 мм рт. ст. · мин/л",
         "B": "20 мм рт. ст. · мин/л",
         "C": "22 мм рт. ст. · мин/л",
         "D": "0.05 л/мин · мм рт. ст.",
@@ -7348,7 +7348,7 @@
         "E": "20 L/min · mm Hg"
       },
       "optionsRu": {
-        "A": "18 мм рт. ст. · мин/л (18 mm Hg · min/L)",
+        "A": "18 мм рт. ст. · мин/л",
         "B": "20 мм рт. ст. · мин/л",
         "C": "22 мм рт. ст. · мин/л",
         "D": "0.05 л/мин · мм рт. ст.",
@@ -7389,7 +7389,7 @@
       },
       "optionsRu": {
         "A": "печень и сердце плода получают кровь с очень высокой сатурацией O₂",
-        "B": "парциальное давление кислорода (PO₂) фетальной крови, покидающей плаценту, немного выше смешанного венозного PO₂ матери (PO₂ of foetal blood leaving the placenta is slightly greater than maternal mixed venous PO₂)",
+        "B": "парциальное давление кислорода фетальной крови, покидающей плаценту, немного выше смешанного венозного PO₂ матери",
         "C": "наличие фетального гемоглобина сдвигает кривую диссоциации оксигемоглобина вправо",
         "D": "овальное окно закрывается во время третьего триместра, если у плода нет дефекта межпредсердной перегородки",
         "E": "основная часть выброса правого желудочка проходит через легкие"
@@ -7433,7 +7433,7 @@
         "B": "усиление моторики кишечника",
         "C": "возможное увеличение уровня триглицеридов",
         "D": "уменьшение стимуляции секреции желудочного сока приеме пищи",
-        "E": "снижение уровня холестерина ЛПНП на 20–25% (Decrease in LDL cholesterol by 20-25%)"
+        "E": "снижение уровня холестерина ЛПНП на 20–25%"
       },
       "correctAnswer": "E",
       "explanationEn": "🎯 <b>Correct Answer: Option E: Decrease in LDL cholesterol by 20-25%.</b><br><br>🔵 <b>Detailed Pharmacology & Pharmacodynamics Analysis of Statins:</b><br>Statins (such as simvastatin, atorvastatin, rosuvastatin) are the foundational pharmacological agents for the prevention and management of atherosclerotic cardiovascular disease.<br><br>1️⃣ <b>Mechanism of Action and Efficacy (Why Option E is correct):</b><br>• Statins act through competitive inhibition of **3-hydroxy-3-methylglutaryl-coenzyme A (HMG-CoA) reductase**, which catalyzes the rate-limiting step in hepatic cholesterol biosynthesis.<br>• The resultant reduction in intracellular hepatic cholesterol triggers a compensatory upregulation of surface **LDL receptors** on hepatocytes, leading to increased clearance of circulating LDL particles from the bloodstream.<br>• Clinical trials and pharmacological profiles confirm that standard-dose simvastatin robustly reduces serum **LDL cholesterol concentrations by 20% to 25%** (higher with maximal doses of potent agents) [Option E].<br><br>2️⃣ <b>Differential Breakdown of Distractor Options:</b><br>• <b>HDL Cholesterol & Triglycerides (Options A & C):</b> Statins produce very modest increases in HDL (5%–10%) and mild reductions in triglycerides, but are not primarily classified for these parameters.<br>• <b>Gastrointestinal Effects (Options B & D):</b> Statins do not affect gastrointestinal motility, gut smooth muscle tone, or meal-stimulated gastric acid secretion.",
@@ -7470,7 +7470,7 @@
         "E": "splenic rupture"
       },
       "optionsRu": {
-        "A": "разрыв (трансекция) аорты (aortic transection)",
+        "A": "разрыв (трансекция) аорты",
         "B": "разрыв левой легочной артерии",
         "C": "диафрагмальная грыжа",
         "D": "разрыв пищевода",
@@ -7606,7 +7606,7 @@
         "E": "higher MI rate for PCI."
       },
       "optionsRu": {
-        "A": "сопоставимую частоту больших неблагоприятных кардиоцеребральных событий (MACCE) при выполнении ЧКВ и АКШ",
+        "A": "сопоставимую частоту больших неблагоприятных кардиоцеребральных событий при выполнении ЧКВ и АКШ",
         "B": "сопоставимую частоту повторных реваскуляризаций при ЧКВ и АКШ",
         "C": "сопоставимую частоту комбинированной конечной точки безопасности, включающей общую смертность, инсульт и инфаркт миокарда (ИМ), при ЧКВ и АКШ (similar composite safety end-point of all-cause death/stroke/myocardial infarction (MI) for PCI vs CABG)",
         "D": "более низкую частоту инсультов в группе ЧКВ",
@@ -7647,7 +7647,7 @@
         "E": "The rates of death from any cause were similar for the PCI and CABG groups."
       },
       "optionsRu": {
-        "A": "первичным оцениваемым показателем была комбинированная конечная точка, включающая смерть от любой причины, нефатальный инфаркт миокарда или нефатальный инсульт (The primary outcome measure was a composite of death from any cause, nonfatal myocardial infarction, or nonfatal stroke)",
+        "A": "первичным оцениваемым показателем была комбинированная конечная точка, включающая смерть от любой причины, нефатальный инфаркт миокарда или нефатальный инсульт",
         "B": "первичный исход наблюдался чаще в группе коронарного шунтирования (АКШ)",
         "C": "пятилетняя частота инсультов была сопоставимой в группах ЧКВ и АКШ",
         "D": "частота инфаркта миокарда была достоверно выше в группе АКШ",
@@ -7691,7 +7691,7 @@
         "A": "в ветви PARTNER-A лучшая ранняя выживаемость наблюдалась в группе традиционного протезирования (AVR)",
         "B": "в ветви PARTNER-A частота сердечно-сосудистой смертности была наибольшей в группе трансапикального TAVR",
         "C": "в ветви PARTNER-B риск смерти при стандартной терапии составлял 90% в год",
-        "D": "в ветви PARTNER-B транскатетерное протезирование бедренным доступом (trans-femoral TAVR) снижало риск смерти до 20% в год (In the PARTNER-B arm trans-femoral TAVR reduced risk of death to 20% per year)",
+        "D": "в ветви PARTNER-B транскатетерное протезирование бедренным доступом снижало риск смерти до 20% в год",
         "E": "в ветви PARTNER-A частота внесердечной смертности была наименьшей в группе AVR"
       },
       "correctAnswer": "D",
@@ -7772,8 +7772,8 @@
         "A": "остром алкалозе",
         "B": "снижении PCO₂",
         "C": "снижении температуры",
-        "D": "снижении уровня 2,3-дифосфоглицерата (DPG)",
-        "E": "физической нагрузке (exercise)"
+        "D": "снижении уровня 2,3-дифосфоглицерата",
+        "E": "физической нагрузке"
       },
       "correctAnswer": "E",
       "explanationEn": "🎯 <b>Correct Answer: Option E: exercise.</b><br><br>🔵 <b>Detailed Respiratory Physiology & Oxyhemoglobin Dynamics Analysis:</b><br>The oxyhemoglobin dissociation curve illustrates the non-linear relationship between the partial pressure of oxygen (PO₂) and hemoglobin saturation, exhibiting a classic sigmoidal shape due to cooperative binding.<br><br>1️⃣ <b>Rightward Shift Mechanisms (Why Option E is correct):</b><br>• A rightward shift of the curve indicates a <b>decreased affinity</b> of hemoglobin for oxygen, which facilitates the unloading of oxygen to metabolically active tissues (the Bohr effect).<br>• Physiologic states such as <mark style=\"background:#2ecc71;color:#fff\"><b>exercise (Option E)</b></mark> increase tissue metabolism, generating heat (increased temperature), carbon dioxide (increased PCO₂ / acidosis), and byproducts that stimulate cellular respiration, thereby shifting the curve to the right.<br>• Other classic factors shifting the curve to the right include: <b>acidosis (decreased pH), elevated PCO₂, increased temperature, and elevated 2,3-diphosphoglycerate (2,3-DPG)</b>.<br><br>2️⃣ <b>Differential Breakdown of Distractor Options (Leftward Shift Factors):</b><br>• <b>Acute Alkalosis (Option A), Decreased PCO₂ (Option B), Decreased Temperature (Option C), and Decreased 2,3-DPG (Option D):</b> All these conditions increase hemoglobin's affinity for oxygen, shifting the dissociation curve to the <i>left</i> (impairing oxygen release in peripheral tissues).",
@@ -7810,7 +7810,7 @@
         "E": "100 mm Hg"
       },
       "optionsRu": {
-        "A": "10 мм рт. ст. (10 mm Hg)",
+        "A": "10 мм рт. ст.",
         "B": "30 мм рт. ст.",
         "C": "50 мм рт. ст.",
         "D": "75 мм рт. ст.",
@@ -7850,7 +7850,7 @@
         "E": "10 PRU"
       },
       "optionsRu": {
-        "A": "1 PRU (1 PRU)",
+        "A": "1 PRU",
         "B": "2 PRU",
         "C": "4 PRU",
         "D": "8 PRU",
@@ -7936,7 +7936,7 @@
         "B": "5-летняя выживаемость выше у пациентов, перенесших пластику митрального клапана при хронической ишемической митральной регургитации, по сравнению с протезированием митрального клапана.",
         "C": "Пересечение хорд увеличивает частоту поздней рецидивирующей митральной регургитации и негативно влияет на послеоперационную функцию левого желудочка.",
         "D": "Конечно-диастолический размер более 45 мм связан с плохим обратным ремоделированием после аортокоронарного шунтирования даже при наличии жизнеспособного миокарда.",
-        "E": "Высота натяжения (tenting height) более 2,5 мм на эхокардиографии является предиктором рецидивирующей регургитации после ушивания."
+        "E": "Высота натяжения более 2,5 мм на эхокардиографии является предиктором рецидивирующей регургитации после ушивания."
       },
       "correctAnswer": "A",
       "explanationEn": "🎯 <b>Correct Answer: Option A: The presence of ischemic mitral regurgitation following myocardial infarction is associated with a 5-year mortality in excess of 60%.</b><br><br>🔵 <b>Detailed Clinical & Surgical Analysis of Ischemic Mitral Regurgitation (IMR):</b><br>Ischemic mitral regurgitation is a ventricular—rather than primary valvular—disease caused by adverse adverse left ventricular remodelling, apical/lateral papillary muscle displacement, and tethering of structurally normal leaflets.<br><br>1️⃣ <b>Natural History and Prognosis (Why Option A is correct):</b><br>• The development of moderate-to-severe IMR after myocardial infarction independently doubles long-term cardiovascular mortality, carrying an ominous prognosis with a <mark style=\"background:#2ecc71;color:#fff\"><b>5-year mortality rate exceeding 60% under medical therapy</b></mark> [Option A].<br><br>2️⃣ <b>Differential Breakdown of Distractor Options:</b><br>• <b>Repair vs. Replacement Survival (Option B):</b> Landmark randomized trials by the Cardiothoracic Surgical Trials Network (CTSN; Acker et al., Goldstein et al.) and registry series demonstrated <b>no significant difference in 2-year and 5-year survival</b> between mitral valve repair (undersized restrictive annuloplasty) and chordal-sparing mitral valve replacement. Furthermore, repair was associated with a high rate of recurrent regurgitation (~30–58% at 2 years), leading to heart failure hospitalizations.<br>• <b>Chordal Cutting Technique (Option C):</b> Cutting secondary (strut) chordae tendineae to the anterior leaflet relieves leaflet tenting and tethering, thereby <i>decreasing</i> (rather than increasing) late recurrent MR without compromising left ventricular systolic performance.<br>• <b>LVEDD Threshold for Reverse Remodeling (Option D):</b> The established echocardiographic cutoff associated with failure of reverse LV remodeling and high recurrence is an LV end-diastolic dimension (LVEDD) <b>> 65 mm</b> (or end-systolic dimension > 51 mm), not 45 mm (45 mm is normal or mildly dilated).<br>• <b>Tenting Height Cutoff (Option E):</b> The classic echocardiographic predictor of repair failure and recurrent MR is a tenting height <b>> 10 mm (or ≥ 11 mm)</b> and tenting area > 2.5 cm² (Option E erroneously lists 2.5 mm).",
@@ -7973,10 +7973,10 @@
         "E": "Repeat revascularisation was significantly higher in off-pump patients at 30 days and at 1 year."
       },
       "optionsRu": {
-        "A": "наблюдалось статистически значимое снижение 30-дневной смертности после АКШ без искусственного кровообращения (off-pump) по сравнению с АКШ с ИК (on-pump)",
+        "A": "наблюдалось статистически значимое снижение 30-дневной смертности после АКШ без искусственного кровообращения по сравнению с АКШ с ИК",
         "B": "наблюдалось значимое увеличение частоты инсультов через 1 год в группе АКШ с ИК по сравнению с группой без ИК",
         "C": "наблюдалось статистически значимое увеличение потребности во внутриаортальной баллонной контрпульсации и заместительной почечной терапии после АКШ с ИК",
-        "D": "при операциях с ИК и без ИК выполнялось сопоставимое среднее количество шунтов (A similar average number of grafts were performed with on- and off-pump surgery)",
+        "D": "при операциях с ИК и без ИК выполнялось сопоставимое среднее количество шунтов",
         "E": "повторная реваскуляризация была достоверно выше у пациентов после операций без ИК через 30 дней и 1 год"
       },
       "correctAnswer": "D",
@@ -8061,7 +8061,7 @@
         "B": "шунтированной правой коронарной артерией с проксимальным стенозом",
         "C": "неполной реваскуляризацией миокарда",
         "D": "нешунтированной (нативной, без гемодинамически значимых стенозов) передней межжелудочковой артерией",
-        "E": "нешунтированной (нативной, интактной) правой коронарной артерией (an ungrafted (normal) right coronary artery)"
+        "E": "нешунтированной (нативной, интактной) правой коронарной артерией (an ungrafted right coronary artery)"
       },
       "correctAnswer": "E",
       "explanationEn": "🎯 <b>Correct Answer: Option E: an ungrafted (normal) right coronary artery.</b><br><br>🔵 <b>Detailed Pathophysiology & Surgical Anatomy of Postoperative Vasospasm:</b><br>Postoperative coronary artery spasm is an acute, life-threatening complication occurring in 0.5% to 1.5% of CABG patients, manifesting with severe transmural ischemia, ST elevations, ventricular arrhythmias, and circulatory collapse.<br><br>1️⃣ <b>Anatomical Susceptibility (Why Option E is correct):</b><br>• Clinical, autopsy, and angiographic series demonstrate that postoperative coronary vasospasm predominantly involves the <b>right coronary artery (RCA)</b>, and specifically occurs with the highest incidence in patients who have a <mark style=\"background:#2ecc71;color:#fff\"><b>normal or minimally diseased dominant RCA that was left ungrafted (Option E)</b></mark>.<br>• Mechanisms contributing to this vulnerability include:<br>  - High density of alpha-adrenergic and serotonergic receptors within the medial smooth muscle layer of the right coronary arterial wall.<br>  - Absence of rigid, calcified atherosclerotic plaques (which physically impede circular vascular constriction).<br>  - Lack of a protective bypass conduit (e.g., venous or arterial graft) to buffer distal coronary flow during native vessel occlusion.<br><br>2️⃣ <b>Differential Breakdown of Distractor Options:</b><br>• <b>Grafted Vessels with Proximal Disease (Options A & B):</b> Heavily calcified or atherosclerotic vessels have rigid, fibrotic walls that cannot easily constrict circumferentially; furthermore, patent bypass grafts maintain downstream myocardial perfusion even if proximal native dynamic constriction occurs.<br>• <b>Incomplete Revascularization (Option C):</b> May cause recurrent exertional angina or demand-ischemia, but it is not the specific anatomic substrate characterized by acute catheterization-proven vasospasm.<br>• <b>Ungrafted LAD (Option D):</b> The left anterior descending artery has a lower propensity for isolated dynamic hyperreactivity compared to the muscular, autonomic-rich right coronary artery.",
@@ -8141,10 +8141,10 @@
       },
       "optionsRu": {
         "A": "FiO₂ до 0,6",
-        "B": "времени вдоха (inspiratory time)",
+        "B": "времени вдоха",
         "C": "положительного давления в конце выдоха (PEEP) до 5 см вод. ст.",
         "D": "частоты дыхания до 10 в минуту",
-        "E": "дыхательного объема до 700 мл (tidal volume to 700 cc)"
+        "E": "дыхательного объема до 700 мл"
       },
       "correctAnswer": "E",
       "explanationEn": "🎯 <b>Correct Answer: Option E: tidal volume to 700 cc.</b><br><br>🔵 <b>Detailed Critical Care & Mechanical Ventilation Physiology Analysis:</b><br>Postoperative mechanical ventilation requires vigilant monitoring of transpulmonary pressures to prevent ventilator-induced lung injury (VILI), which comprises volutrauma (alveolar overdistention) and barotrauma.<br><br>1️⃣ <b>Identification of the Critical Ventilatory Threat (Why Option E is correct):</b><br>• The patient weighs 70 kg and is receiving a tidal volume of 1,000 cc, which equals <b>14.3 cc/kg</b>. This grossly exceeds standard physiological ventilation targets (8–10 cc/kg for routine postoperative cases, or 6–8 cc/kg for protective lung ventilation).<br>• This excessive volume has driven the <b>peak inspiratory pressure (PIP) up to 45 cm H₂O</b> (well above the safe threshold of < 30–35 cm H₂O), posing an imminent danger of tension pneumothorax, pneumomediastinum, and shearing alveolar rupture.<br>• <mark style=\"background:#2ecc71;color:#fff\"><b>The most critical, urgent initial intervention is to lower the tidal volume toward a physiological range, specifically to ~700 cc (~10 cc/kg) [Option E]</b></mark>, which will immediately decompress the airways and decrease peak inspiratory pressure.<br><br>2️⃣ <b>Differential Breakdown of Distractor Options:</b><br>• <b>FiO₂ Reduction to 0.60 (Option A):</b> While weaning FiO₂ from 0.80 is appropriate given a PaO₂ of 160 mm Hg to prevent oxygen toxicity and absorption atelectasis, it does not mitigate the immediate physical threat of alveolar rupture from gross barotrauma/volutrauma.<br>• <b>Inspiratory Time (Option B) & Respiratory Rate (Option D):</b> Minor tweaks to I:E ratio or rate do not rectify the dangerous alveolar hyperdistention driven by a 1,000 cc volume.<br>• <b>PEEP Reduction (Option C):</b> A PEEP of 8 cm H₂O is appropriate to prevent dependent basal atelectasis in the immediate post-sternotomy/post-CPB period.",
@@ -8184,7 +8184,7 @@
       "optionsRu": {
         "A": "отменить реваскуляризацию миокарда и выполнить ангиографию сонных артерий",
         "B": "выполнить операцию на сонной артерии и перенести реваскуляризацию миокарда",
-        "C": "выполнить реваскуляризацию миокарда с последующим динамическим наблюдением с помощью повторных дуплексных ультразвуковых исследований (proceed with myocardial revascularisation and follow up with serial Duplex examinations)",
+        "C": "выполнить реваскуляризацию миокарда с последующим динамическим наблюдением с помощью повторных дуплексных ультразвуковых исследований",
         "D": "выполнить симультанную (одномоментную) реваскуляризацию миокарда и операцию на сонной артерии",
         "E": "выполнить этапное хирургическое лечение сонной артерии и реваскуляризацию миокарда"
       },
@@ -8226,9 +8226,9 @@
       "optionsRu": {
         "A": "эквивалентная частота местных рецидивов по сравнению с лобэктомией",
         "B": "меньшее количество плевральных осложнений при выполнении вмешательства без сшивающего аппарата по сравнению с лобэктомией",
-        "C": "уменьшение утечки воздуха при использовании классической методики тракционного разделения («stripping») по сравнению с лобэктомией",
+        "C": "уменьшение утечки воздуха при использовании классической методики тракционного разделения по сравнению с лобэктомией",
         "D": "снижение летальности по сравнению с пациентами после лобэктомии",
-        "E": "сопоставимые показатели функции внешнего дыхания через один год после операции по сравнению с лобэктомией (similar pulmonary function one year after operation compared to lobectomy)"
+        "E": "сопоставимые показатели функции внешнего дыхания через один год после операции по сравнению с лобэктомией"
       },
       "correctAnswer": "E",
       "explanationEn": "🎯 <b>Correct Answer: Option E: similar pulmonary function one year after operation compared to lobectomy.</b><br><br>🔵 <b>Detailed Clinical Trial & Surgical Evidence Analysis:</b><br>The comparison between anatomical segmentectomy and standard lobectomy has been deeply studied, beginning with the landmark randomized controlled trial conducted by the <b>Lung Cancer Study Group (LCSG 821)</b> (Ginsberg & Rubinstein, Ann Thorac Surg 1995).<br><br>1️⃣ <b>Pulmonary Function Preservation (Why Option E is correct):</b><br>• The foundational rationale for performing sublobar resection (segmentectomy) is the preservation of lung parenchyma in patients with compromised cardiopulmonary reserve.<br>• However, in the classic LCSG randomized trial, postoperative serial spirometry demonstrated that <mark style=\"background:#2ecc71;color:#fff\"><b>at 1 year of follow-up, there was no statistically significant difference in pulmonary function (FEV1 and FVC) between patients undergoing limited resection and those undergoing lobectomy (Option E)</b></mark>.<br>• This counterintuitive finding is attributable to compensatory hyperinflation of the remaining lobes following lobectomy versus altered compliance, scarring, and tethering of the preserved residual segments after segmentectomy.<br><br>2️⃣ <b>Differential Breakdown of Distractor Options:</b><br>• <b>Local Recurrence (Option A):</b> The LCSG trial demonstrated a <b>threefold increase in local recurrence</b> in the limited resection cohort compared to lobectomy (P = 0.008), establishing that segmentectomy did not provide equivalent local oncologic control in this classic cohort.<br>• <b>Pleural Complications & Stripping Technique (Options B & C):</b> Segmentectomy performed via manual blunt stripping along intersegmental planes without mechanical staplers causes raw parenchymal tearing, resulting in <i>increased</i> (rather than decreased) prolonged alveolar air leaks, hematomas, and pleural space complications.<br>• <b>Mortality (Option D):</b> The trial demonstrated a 30% increase in overall death rate and a 50% increase in cancer-related death in the limited resection group, definitively disproving any reduction in mortality.",
@@ -8267,7 +8267,7 @@
       "optionsRu": {
         "A": "частота ранней окклюзии шунтов сопоставима у пациентов, получавших монотерапию или двойную антиагрегантную терапию",
         "B": "монотерапия антиагрегантами связана со статистически значимым увеличением частоты окклюзии артериальных шунтов по сравнению с двойной антиагрегантной терапией",
-        "C": "внутрибольничная или 30-дневная смертность ниже при двойной антиагрегантной терапии по сравнению с монотерапией антиагрегантами (In-hospital or 30-day mortality is lower with dual anti-platelet therapy compared to single anti-platelet therapy alone)",
+        "C": "внутрибольничная или 30-дневная смертность ниже при двойной антиагрегантной терапии по сравнению с монотерапией антиагрегантами",
         "D": "риск стенокардии или периоперационного инфаркта миокарда был ниже при двойной антиагрегантной терапии по сравнению с монотерапией",
         "E": "двойная антиагрегантная терапия связана со статистически значимым увеличением частоты больших кровотечений по сравнению с монотерапией"
       },
@@ -8311,7 +8311,7 @@
         "B": "ангиография выполнялась строго по клиническим показаниям при появлении симптомов",
         "C": "диффузное сужение трансплантата (ангиографический «симптом струны» / string sign) наблюдалось в 30% шунтов из лучевой артерии",
         "D": "через один год частота окклюзии шунтов из лучевой артерии и аутовенозных кондуитов была одинаковой",
-        "E": "в отдаленном периоде частота функциональной окклюзии шунтов была достоверно ниже для лучевых артерий по сравнению с аутовенами (At five years the frequency of functional graft occlusion was lower in radial arteries compared with saphenous vein grafts)"
+        "E": "в отдаленном периоде частота функциональной окклюзии шунтов была достоверно ниже для лучевых артерий по сравнению с аутовенами"
       },
       "correctAnswer": "E",
       "explanationEn": "🎯 <b>Correct Answer: Option E: At five years the frequency of functional graft occlusion was lower in radial arteries compared with saphenous vein grafts.</b><br><br>🔵 <b>Detailed Clinical Trial Analysis of the RAPS Study:</b><br>The Radial Artery Patency Study (RAPS) was a multicenter trial employing an intra-individual randomized design: each patient received a left internal thoracic artery (LITA) to the LAD, while the radial artery (RA) and saphenous vein graft (SVG) were randomly allocated to either the circumflex or the right coronary territory within the same patient.<br><br>1️⃣ <b>Long-Term Functional Patency (Why Option E is correct):</b><br>• On delayed 5-year follow-up coronary angiography, functional graft occlusion (defined as complete structural occlusion or severe diffuse luminal narrowing with >70% stenosis [\"string sign\"]) was <mark style=\"background:#2ecc71;color:#fff\"><b>significantly lower in radial artery grafts than in saphenous vein grafts (12.0% vs. 19.7%; P = 0.03) [Option E]</b></mark>.<br>• Complete anatomical occlusion was also significantly reduced in radial arteries compared with vein grafts (8.9% vs. 18.6%; P = 0.002).<br><br>2️⃣ <b>Differential Breakdown of Distractor Options:</b><br>• <b>Primary Endpoint and Angiography Protocol (Options A & B):</b> The primary endpoint was angiographically determined graft occlusion at 1 year (8–12 months) on <i>mandatory scheduled protocol angiography</i>, not all-cause mortality or symptom-prompted angiography.<br>• <b>String Sign Incidence (Option C):</b> Severe diffuse narrowing (\"string sign\") occurred in only <b>7.0%</b> of radial artery grafts at 1 year, not 30%.<br>• <b>1-Year Patency Rates (Option D):</b> At 1 year, radial artery grafts already demonstrated statistically superior patency with a lower occlusion rate compared with saphenous vein grafts (8.2% vs. 13.6%; P = 0.009), ruling out equivalent rates.",
@@ -8349,7 +8349,7 @@
         "E": "Right recurrent laryngeal nerve is the most consistent content of the retrotracheal space."
       },
       "optionsRu": {
-        "A": "Легочная ткань (легкие) входит в число нормальных анатомических составляющих ретротрахеального пространства (Lungs are a normal content of the retrotracheal space)",
+        "A": "Легочная ткань (легкие) входит в число нормальных анатомических составляющих ретротрахеального пространства",
         "B": "Задняя трахеальная линия формирует заднюю границу ретротрахеального пространства",
         "C": "Задняя трахеальная линия образуется за счет прямого контакта пищевода с задней стенкой трахеи",
         "D": "Наиболее частыми патологическими образованиями ретротрахеального пространства являются опухоли нейрогенного генеза",
@@ -8391,7 +8391,7 @@
       },
       "optionsRu": {
         "A": "составляют 25% всех опухолей и опухолеподобных поражений пищевода",
-        "B": "локализуются в нижнем отделе пищевода приблизительно в 60% случаев (are in the lower part of the oesophagus in approximately 60% of cases)",
+        "B": "локализуются в нижнем отделе пищевода приблизительно в 60% случаев",
         "C": "в большинстве случаев выстланы слизистой оболочкой желудка",
         "D": "при компьютерной томографии обычно представляют собой гетерогенные сферические или трубчатые образования, прилежащие к стенке пищевода",
         "E": "предпочтительнее вести консервативно"
@@ -8432,7 +8432,7 @@
       },
       "optionsRu": {
         "A": "показатели летальности превышают 20%",
-        "B": "полиорганная недостаточность является наиболее частой причиной смерти (Multiple organ failure is the most frequent cause of death)",
+        "B": "полиорганная недостаточность является наиболее частой причиной смерти",
         "C": "повреждение спинного мозга наблюдается у 25% пациентов",
         "D": "время церебральной перфузии демонстрирует сильную корреляцию со смертностью",
         "E": "пятилетняя выживаемость варьирует в диапазоне 85–90%"
@@ -8475,7 +8475,7 @@
       "optionsRu": {
         "A": "первичной конечной точкой исследования являлась проходимость коронарных шунтов",
         "B": "через 6 месяцев наблюдения летальность была достоверно ниже в группе OPCAB",
-        "C": "в обеих группах отмечалось статистически значимое улучшение самооценки качества жизни, связанного со здоровьем (Both groups showed significant improvement in self-assessed health-related quality of life)",
+        "C": "в обеих группах отмечалось статистически значимое улучшение самооценки качества жизни, связанного со здоровьем",
         "D": "в исследование включались и рандомизировались пациенты в возрасте ≥ 80 лет",
         "E": "различий в доле функционирующих (проходимых) шунтов между группами on-pump CABG и OPCAB выявлено не было"
       },
@@ -8517,7 +8517,7 @@
       "optionsRu": {
         "A": "первичной конечной точкой была общая летальность (смертность от всех причин)",
         "B": "в группе off-pump было наложено достоверно меньшее общее число шунтов на одного пациента",
-        "C": "через 30 дней наблюдения статистически значимых различий по комбинированной первичной конечной точке выявлено не было (No significant differences in the composite primary outcome were found at 30-day follow-up)",
+        "C": "через 30 дней наблюдения статистически значимых различий по комбинированной первичной конечной точке выявлено не было",
         "D": "в группе off-pump зарегистрировано меньшее количество инсультов",
         "E": "в группе off-pump зарегистрировано большее количество острых инфарктов миокарда"
       },
@@ -8560,7 +8560,7 @@
         "A": "ассоциирован со статистически значимо более высокой госпитальной летальностью",
         "B": "ассоциирован с более низкой 8-летней выживаемостью",
         "C": "ассоциирован с превосходящей 8-летней выживаемостью",
-        "D": "ассоциирован с сопоставимым снижением индекса массы миокарда левого желудочка (is associated with comparable reduction in left ventricular mass index)",
+        "D": "ассоциирован с сопоставимым снижением индекса массы миокарда левого желудочка",
         "E": "ассоциирован со значительно более выраженным снижением индекса массы миокарда левого желудочка"
       },
       "correctAnswer": "D",
@@ -8602,7 +8602,7 @@
         "B": "интралобарная секвестрация характеризуется наличием собственного отдельного плеврального листка у секвестрированного участка",
         "C": "экстралобарная секвестрация обычно локализуется справа рядом с куполом диафрагмы",
         "D": "экстралобарная секвестрация обычно диагностируется в более зрелом возрасте по сравнению с интралобарной",
-        "E": "множественные питающие артерии обнаруживаются в 15% случаев секвестраций (Multiple supply arteries are found in 15% of sequestrations)"
+        "E": "множественные питающие артерии обнаруживаются в 15% случаев секвестраций"
       },
       "correctAnswer": "E",
       "explanationEn": "Correct Answer: Option E: Multiple supply arteries are found in 15% of sequestrations. Detailed Clinical & Embryological Analysis of Bronchopulmonary Sequestration (BPS): Bronchopulmonary sequestration is defined as a mass of non-functioning primitive lung tissue that lacks normal communication with the tracheobronchial tree and receives its blood supply from anomalous systemic arteries originating directly from the thoracic or abdominal aorta. 1. Arterial Blood Supply Characteristics (Why Option E is correct): In classic surgical series (such as Savic et al.), multiple systemic feeding arteries were identified in approximately 15% of all sequestrations (Option E). The aberrant artery most frequently originates from the upper abdominal aorta (roughly 73%) or descending thoracic aorta (roughly 18%), and occasionally from the celiac trunk, intercostal, or subclavian arteries. Accurate preoperative identification of all feeding vessels via CTA is paramount to avoid catastrophic intraoperative hemorrhage during division of the pulmonary ligament. 2. Differential Breakdown of Distractor Options: Prevalence (Option A): Intralobar sequestration (ILS) is much more common, accounting for approximately 75% of cases, whereas extralobar sequestration (ELS) accounts for only 25%. Pleural Envelope (Option B): In ILS, the sequestered lung tissue is incorporated within the normal visceral pleura of the involved host lobe (typically posterior basal segment of the left lower lobe). Conversely, ELS possesses its own separate visceral pleural covering. Laterality (Option C): Extralobar sequestration is predominantly left-sided (roughly 80-90% of cases), typically situated between the lower lobe and the left hemidiaphragm or within/below the diaphragm, not on the right. Age at Diagnosis (Option D): ELS is typically diagnosed in neonates or early infancy (roughly 60% diagnosed in the first 6 months of life) due to respiratory distress, cyanosis, or coexisting congenital anomalies (such as congenital diaphragmatic hernia in up to 30%). In contrast, ILS is rarely accompanied by other congenital anomalies and is typically diagnosed in older children or young adults presenting with recurrent localized pneumonia.",

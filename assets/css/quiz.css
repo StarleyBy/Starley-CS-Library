@@ -516,24 +516,99 @@ input[type=range]::-webkit-slider-thumb {
     font-weight: 800;
     flex-shrink: 0;
     box-shadow: inset 1px 1px 2px rgba(0,0,0,0.5);
+    transition: all 0.2s ease;
+}
+
+/* Option Letters Distinct Harmonious Palette */
+.option-letter[data-letter="A"],
+.option-btn:nth-child(1) .option-letter {
+    background: rgba(184, 115, 51, 0.18);
+    border: 1px solid rgba(212, 142, 74, 0.45);
+    color: #e6a365;
+}
+
+.option-letter[data-letter="B"],
+.option-btn:nth-child(2) .option-letter {
+    background: rgba(74, 107, 85, 0.22);
+    border: 1px solid rgba(96, 143, 112, 0.45);
+    color: #82c49d;
+}
+
+.option-letter[data-letter="C"],
+.option-btn:nth-child(3) .option-letter {
+    background: rgba(65, 105, 160, 0.20);
+    border: 1px solid rgba(90, 140, 210, 0.45);
+    color: #7faee8;
+}
+
+.option-letter[data-letter="D"],
+.option-btn:nth-child(4) .option-letter {
+    background: rgba(165, 75, 85, 0.20);
+    border: 1px solid rgba(195, 95, 105, 0.45);
+    color: #e58793;
+}
+
+.option-letter[data-letter="E"],
+.option-btn:nth-child(5) .option-letter {
+    background: rgba(125, 85, 160, 0.20);
+    border: 1px solid rgba(155, 110, 200, 0.45);
+    color: #c49ce8;
+}
+
+/* Subtle border tint on button hover corresponding to the letter */
+.option-btn:hover:not(:disabled):has(.option-letter[data-letter="A"]),
+.option-btn:nth-child(1):hover:not(:disabled) {
+    border-color: rgba(212, 142, 74, 0.55);
+}
+.option-btn:hover:not(:disabled):has(.option-letter[data-letter="B"]),
+.option-btn:nth-child(2):hover:not(:disabled) {
+    border-color: rgba(96, 143, 112, 0.55);
+}
+.option-btn:hover:not(:disabled):has(.option-letter[data-letter="C"]),
+.option-btn:nth-child(3):hover:not(:disabled) {
+    border-color: rgba(90, 140, 210, 0.55);
+}
+.option-btn:hover:not(:disabled):has(.option-letter[data-letter="D"]),
+.option-btn:nth-child(4):hover:not(:disabled) {
+    border-color: rgba(195, 95, 105, 0.55);
+}
+.option-btn:hover:not(:disabled):has(.option-letter[data-letter="E"]),
+.option-btn:nth-child(5):hover:not(:disabled) {
+    border-color: rgba(155, 110, 200, 0.55);
 }
 
 /* Option States */
 .option-btn.correct {
-    background: linear-gradient(145deg, #238636, #1b652a);
-    border-color: #3fb950;
-    color: #fff;
+    background: linear-gradient(145deg, #238636, #1b652a) !important;
+    border-color: #3fb950 !important;
+    color: #fff !important;
 }
-.option-btn.correct .option-letter { background: rgba(255,255,255,0.2); color: white; }
+.option-btn.correct .option-letter {
+    background: rgba(255, 255, 255, 0.25) !important;
+    border: 1px solid rgba(255, 255, 255, 0.4) !important;
+    color: #ffffff !important;
+}
+
+.option-btn.wrong {
+    background: linear-gradient(145deg, #da3633, #8e1b19) !important;
+    border-color: #f85149 !important;
+    color: #fff !important;
+}
+.option-btn.wrong .option-letter {
+    background: rgba(255, 255, 255, 0.2) !important;
+    border: 1px solid rgba(255, 255, 255, 0.35) !important;
+    color: #ffffff !important;
+}
 
 .option-btn.selected {
-    border-color: var(--quiz-accent);
-    background: rgba(88, 166, 255, 0.1);
-    box-shadow: 0 0 10px rgba(88, 166, 255, 0.2), var(--shadow-convex);
+    border-color: var(--quiz-accent) !important;
+    background: rgba(88, 166, 255, 0.1) !important;
+    box-shadow: 0 0 10px rgba(88, 166, 255, 0.2), var(--shadow-convex) !important;
 }
 .option-btn.selected .option-letter {
-    background: var(--quiz-accent);
-    color: white;
+    background: var(--quiz-accent) !important;
+    border: 1px solid var(--quiz-accent) !important;
+    color: #ffffff !important;
 }
 
 .quiz-submit-container {

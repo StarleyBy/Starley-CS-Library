@@ -1,387 +1,469 @@
-# Chapter 49
+# Enteral Nutrition
 
-# **Enteral Nutrition**
+> *Forced feeding . . . goes on because the world still believes it can eat itself well.*
+> 
+> — Herbert Shelton
 
-*Forced feeding . . . goes on because the world still believes it can eat itself well.*
+For critically ill patients who are unable to ingest food voluntarily, the preferred route of nutritional support is enteral feeding—the delivery of liquid nutritional formulas directly into the lumen of the stomach or small intestine (1–3). Beyond simply providing energy substrates, enteral nutrition serves as a fundamental infection-control intervention by preserving the structural integrity and barrier function of the intestinal mucosa (1,4,5).
 
-Herbert Shelton (*[a](#page-15-0)*)
+This chapter presents an evidence-based approach to the clinical practice of enteral tube feeding: timing and physiological indications, absolute contraindications, classification of enteral formulas, a pragmatic four-step protocol for designing a feeding regimen, techniques and radiographic verification of feeding tube placement, and the prevention and management of major gastrointestinal and mechanical complications (1–5).
 
-For patients who are unable to eat, the preferred method of nutrition support is the infusion of liquid feeding formulas into the stomach or small bowel. This not only provides energy from nutrient fuels, it also serves as an *infection control measure* by promoting the barrier function of the bowel mucosa (as explained in the next section).
+<details class="med-details" open><summary>
 
-This chapter presents the practical aspects of providing enteral tube feedings: i.e., when to do it and when not to do it, how to do it, what feeding formulas to use, and what complications to watch for. When possible, recommendations are taken from clinical practice guidelines and recent reviews of the topic [\(1](#page-15-1)[–5](#page-15-2)).
+## Executive Summary</summary><div class="details-content">
 
-### **GENERAL CONSIDERATIONS**
+<details class="med-details" open><summary>
 
-### **Infectious Risk**
+### Key Principles and Clinical Recommendations</summary><div class="details-content">
 
-The threat of sepsis and organ injury from the bowel is described in Chapter 4. The primacy of this threat is evident in the description of the bowel as "the motor of multiorgan failure" ([6\)](#page-15-3). The role of enteral tube feedings in mitigating this threat is summarized in the following statements:
+- **The Gut as the Motor of Critical Illness:** The intestinal tract harbors trillions of microorganisms separated from the systemic circulation by a single layer of epithelial cells. Loss of luminal nutrition leads to rapid villous atrophy, degradation of mucosal tight junctions, and impaired production of secretory immunoglobulin A (sIgA), promoting bacterial translocation and systemic inflammation (6–9).
+- **Timing and Trophic Initiation:** In hemodynamically stable patients, enteral feeding should be initiated within 24 to 48 hours of ICU admission (1–3). Early feeding should begin at low, trophic rates ($10\text{–}20\text{ mL/hr}$ or up to $500\text{ kcal/day}$) to preserve gut barrier function while avoiding metabolic overfeeding (1,3). Caloric intake is advanced incrementally toward target levels as acute shock resolves.
+- **Contraindications to Enteral Feeding:** Absolute and temporary contraindications include uncontrolled circulatory shock, escalating vasopressor requirements, suspected or confirmed bowel ischemia, mechanical intestinal obstruction, high-output enterocutaneous fistulas, active upper gastrointestinal bleeding, and abdominal compartment syndrome (3).
+- **Formula Selection:** Standard polymeric formulas ($1.0\text{–}1.2\text{ kcal/mL}$, $35\text{–}56\text{ g protein/L}$) are suitable for most ICU patients. High-density formulas ($1.5\text{–}2.0\text{ kcal/mL}$) are reserved for patients requiring severe fluid restriction (3). Peptide-based elemental formulas (hydrolyzed protein and medium-chain triglycerides) are indicated for severe malabsorption or pancreatic insufficiency.
+- **Immunonutrition Caveats:** Formulas enriched with omega-3 fatty acids (fish oils) may benefit patients with acute respiratory distress syndrome (ARDS) and major surgical trauma (1–3). However, arginine-supplemented formulas should be avoided in severe sepsis and septic shock due to excessive nitric oxide production and worsened vasodilation (3). Enteral glutamine ($0.2\text{–}0.3\text{ g/kg/day}$) is recommended strictly for severe burns and major trauma, whereas high-dose parenteral glutamine in multiorgan failure is contraindicated (3).
+- **Feeding Tube Placement and Verification:** Small-bore, flexible polyurethane tubes (8–10 French) with stylets are preferred for comfort and lower ulceration risk (29). **Portable chest radiography is the mandatory gold standard for confirming tube position prior to initiating feeding** (30). The tube must run vertically down the midline, cross the carina and diaphragm, and terminate in the gastric bubble below the left hemidiaphragm (30). Auscultation of air insufflation ("whoosh test") is notoriously unreliable and dangerous.
+- **Gastric Residual Volume (GRV):** Routine monitoring of GRV is no longer recommended by current international guidelines (3). Enteral feeding should not be withheld for GRV measurements $\lt 500\text{ mL}$ in the absence of vomiting, abdominal distension, or clinical intolerance (3).
+- **Management of Complications:** Prokinetic therapy with intravenous erythromycin ($100\text{–}200\text{ mg}$ every 8 hours for 3 days) is the first-line intervention for gastric dysmotility (3,48). Diarrhea is frequently caused by hyperosmolar liquid medications containing sorbitol ($> 3{,}000\text{ mosm/kg H}_2\text{O}$) rather than the feeding formula itself (53).
 
-- 1. The presence of bulk nutrients in the lumen of the bowel has a trophic effect on the bowel mucosa that preserves the structural integrity of the mucosa [\(7](#page-15-4)). This maintains the barrier function of the bowel mucosa, which protects against invasion from enteric pathogens via *translocation* across the bowel wall [\(8](#page-15-5)).
-- 2. The trophic influence of enteral nutrition also includes immune defenses in the bowel, such as the production of immunoglobulin A (IgA) by monocytes in the bowel wall, which blocks the attachment of pathogens to the bowel mucosa ([9\)](#page-15-6).
-- 3. The trophic effect of enteral nutrition requires nutritional bulk rather than the presence of nutrient fuels (i.e., carbohydrates, proteins and lipids), because the oral administration of
+</div></details>
+</div></details>
 
-parenteral feeding solutions does not produce the effect [\(10](#page-15-7)). However, glutamine is believed to be involved in trophism because it is the principal fuel for enterocytes in the bowel mucosa ([11\)](#page-15-8).
+<details class="med-details" open><summary>
 
-4. The trophic effect of nutritional bulk is lost during periods of bowel rest, which is accompanied by progressive atrophy of the bowel mucosa [\(6](#page-15-3)), along with an increased risk of bacterial invasion from the bowel ([12\)](#page-15-9).
+## General Considerations</summary><div class="details-content">
 
-The sum of these observations indicates that the normal antimicrobial defenses in the bowel are sustained by enteral tube feedings, but not by parenteral nutrition regimens. In this sense, the delivery of enteral tube feedings can be viewed as an infection control measure. This is verified by clinical studies showing *a lower infection rate associated with early institution of enteral tube feedings* (i.e., within 48 hours of admission) ([4\)](#page-15-10).
+<details class="med-details" open><summary>
 
-### **Who and When**
+### The Intestinal Barrier and Sepsis</summary><div class="details-content">
 
-The enteral route is always preferred to the intravenous route for nutrition support, and when oral food intake is not possible, *enteral tube feedings should be started within 48 hours of admission* ([1–](#page-15-1)[4\)](#page-15-10), unless there is a contraindication to enteral nutrition (see next). *The presence of bowel sounds is not required to initiate enteral tube feedings* ([13\)](#page-15-11).
+The human gastrointestinal tract has been characterized as "the motor of multiorgan failure" (6). Within the intestinal lumen resides a vast microbial biomass totaling over $10^{14}$ bacteria. Under physiological conditions, this potentially lethal microbial reservoir is contained by the intestinal mucosal barrier, composed of a continuous monolayer of enterocytes sealed by apical tight junctions (zonula occludens), a protective mucus gel layer, and gut-associated lymphoid tissue (GALT) (6,7).
 
-#### *Contraindications*
+When a patient is maintained on complete bowel rest without enteral intake (e.g., during total parenteral nutrition), this protective barrier rapidly deteriorates (7,8):
 
-The contraindications to enteral tube feedings are listed in [Table](#page-1-0) 49.1. One concern that receives the most attention is the wisdom of enteral tube feedings in patients with circulatory shock who require a vasoconstrictor drug (a vasopressor) for blood pressure support. The current consensus about this concern is summarized below.
+- **Mucosal Villous Atrophy:** Enterocytes derive up to 70% of their daily energy directly from luminal nutrients rather than systemic arterial blood. Deprivation of luminal nutrients results in mucosal hypoplasia, villous flattening, and loss of mucosal surface area within 72 hours (7).
+- **Tight Junction Disruption:** Absence of luminal stimulation alters the expression of claudin and occludin proteins, leading to increased paracellular permeability and systemic translocation of intact bacteria and endotoxins (lipopolysaccharide) into mesenteric lymph nodes and portal circulation (8).
+- **Suppression of Immune Defenses:** GALT contains more than 50% of the body’s total lymphoid cells. Luminal nutrient bulk stimulates B lymphocytes in mucosal Peyer’s patches to secrete dimeric secretory immunoglobulin A (sIgA), which coats the epithelial surface and neutralizes enteric pathogens (9). Bowel rest drastically reduces sIgA secretion, predisposing to mucosal colonization by virulent nosocomial pathogens (9).
 
-- 1. Enteral feeding is not advised in uncontrolled or progressive circulatory shock.
-- 2. Stable or decreasing vasopressor infusions are not a contraindication to enteral nutrition. However, if the infusion rate of norepinephrine is >0.2 μg/kg/min (>14 μg/min in a 70 kg adult), a reduced caloric intake of 10–15 kcal/kg/day (instead of the usual 25 kcal/kg/day) is recommended for the first 7 days, or until the clinical condition improves [\(14](#page-15-12)).
+</div></details>
 
-### <span id="page-1-0"></span>**TABLE 49.1 Contraindications to Enteral Tube Feedings**
+<details class="med-details" open><summary>
 
-- 1. Uncontrolled circulatory shock
-- 2. Bowel ischemia (suspected or proven)
-- 3. Life-threatening, refractory hypoxemia or hypercapnia
-- 4. Active upper GI hemorrhage
-- 5. Bowel obstruction
-- 6. High-output intestinal fistula
-- 7. Abdominal compartment syndrome
-- 8. Gastric residual volume >500 mL in 6 hours
+### Luminal Trophism vs Systemic Feeding</summary><div class="details-content">
 
-From Reference 3.
+The trophic effect of enteral nutrition is mediated by the physical presence of complex bulk nutrients within the intestinal lumen rather than systemic caloric absorption (7,10). Infusion of intravenous hyperalimentation, even when providing 100% of daily caloric needs, fails to prevent gut mucosal atrophy and immune suppression (10).
 
-### **FEEDING FORMULAS**
+Glutamine serves as the primary metabolic fuel for rapidly dividing enterocytes, while short-chain fatty acids (particularly butyrate, produced by bacterial fermentation of dietary fiber) provide the major energy source for colonocytes (11). Consequently, even sub-nutritional "trophic" feeding rates ($10\text{–}20\text{ mL/hr}$) are sufficient to maintain mucosal enzyme activity, preserve villous architecture, and sustain GALT immunocompetence (1,3,10).
 
-There is a multitude of tube feeding formulas (Abbott Laboratories, the leading source of enteral nutrition formulas in the United States, has 92 different products) [\(15](#page-15-13)), but only a small number of formulas are used routinely. The following is a brief description of some characteristic features of feeding formulas. Representative formulas are included in Tables 49.2 and 49.3.
+</div></details>
 
-### **Caloric Density**
+<details class="med-details" open><summary>
 
-Feeding formulas are available with caloric densities of 1, 1.2, 1.5, and 2 kcal/mL. Most tube feeding regimens use formulas with a low caloric density (1 or 1.2 kcal/mL), because higher caloric densities have higher osmolalities, which promotes diarrhea. The higher caloric density formulas (1.5 and 2 kcal/mL) are used when fluid restriction is a priority.
+### Clinical Contraindications</summary><div class="details-content">
 
-<span id="page-2-0"></span>
+Although enteral feeding confers vital clinical benefits, administering nutrients into a non-functional or hypoperfused gastrointestinal tract carries significant hazards (3).
 
-| TABLE<br>49.2 | Representative<br>Tube<br>Feeding<br>Formulas |  |  |  |  |
-|---------------|-----------------------------------------------|--|--|--|--|
-|               |                                               |  |  |  |  |
-|               |                                               |  |  |  |  |
-|               |                                               |  |  |  |  |
-|               |                                               |  |  |  |  |
-|               |                                               |  |  |  |  |
-|               |                                               |  |  |  |  |
-|               |                                               |  |  |  |  |
+Table 49.1 details the established contraindications to enteral tube feeding in critically ill adults (3).
 
-#### *Protein Content*
+<details class="med-details" open><summary>
 
-The protein content in standard feeding formulas varies from 35 to 65 g/L. (The daily protein requirement for an ICU patient is about 1.5 g/kg, which is 100 grams/day for a 70 kg adult.) Protein-enriched formulas are often designated by the suffix HN (for "high nitrogen"), and they provide about 20% more protein than the standard formulas (see Twocal HN in [Table](#page-2-0) 49.2).
+#### <span id="tbl-49-1"></span>TABLE 49.1 Contraindications to Enteral Tube Feedings</summary><div class="details-content">
 
-Most enteral formulas contain intact proteins that are broken down into amino acids in the upper GI tract. These are called *polymeric* formulas. There are also feeding formulas where the protein is already broken down into small peptides (called *semi-elemental* formulas) or individual amino acids (called *elemental* formulas) to facilitate absorption from the bowel. This
+| Absolute and Temporary Contraindications | Clinical Rationale and Pathophysiological Hazards |
+| :--- | :--- |
+| **1. Uncontrolled Circulatory Shock** | Severe systemic hypoperfusion redirects blood flow away from the mesenteric bed; feeding during shock precipitates bowel necrosis. |
+| **2. Suspected or Confirmed Bowel Ischemia** | Infusing nutrients into an ischemic bowel increases metabolic oxygen demand and triggers transmural infarction. |
+| **3. Refractory Hypoxemia or Severe Acidosis** | Life-threatening cardiopulmonary instability impairs splanchnic microvascular perfusion and cellular respiration. |
+| **4. Active Upper GI Hemorrhage** | Massive bleeding obscures feeding tube positioning, increases aspiration risk, and impairs mucosal tolerance. |
+| **5. Mechanical Bowel Obstruction** | Distal lumen obstruction leads to proximal dilation, high intraluminal pressure, perforation, and feculent vomiting. |
+| **6. High-Output Intestinal Fistula** | Feeds delivered proximal to high-output fistulas ($\gt 500\text{ mL/day}$) cannot be absorbed and exacerbate fluid/electrolyte losses. |
+| **7. Abdominal Compartment Syndrome** | Elevated intra-abdominal pressure ($\gt 20\text{ mmHg}$) collapses mesenteric venules, inducing visceral ischemia and feeding intolerance. |
+| **8. Severe Gastric Distension ($\text{GRV} \gt 500\text{ mL}$)** | Massive gastric residual volume accompanied by vomiting or abdominal distension indicates profound gastroparesis. |
 
-also promotes water reabsorption from the bowel, so these formulas can be advantageous in patients with troublesome diarrhea. *Vital 1.0* in [Table](#page-2-0) 49.2 is an elemental formula.
+*Contraindications compiled from ESPEN Guidelines on Clinical Nutrition in the ICU (Reference 3).*
 
-### **Carbohydrate Content**
+</div></details>
 
-Carbohydrates (usually polysaccharides) are the major source of calories in feeding formulas, and they provide up to 70% of the total calories.
+##### Hemodynamic Instability and Vasopressor Titration
 
-#### *Fiber*
+Enteral nutrition should be withheld in patients with decompensated shock, escalating doses of vasopressors (e.g., norepinephrine $\gt 0.3\ \mu\text{g/kg/min}$), or rising arterial lactate levels (3). Once hemodynamic resuscitation is achieved, mean arterial pressure is stabilized, and vasopressor requirements are steady or weaning, low-dose trophic feeding can be safely initiated with close abdominal monitoring (1–3).
 
-The term "fiber" refers to polysaccharides from plants that are not digested by humans. There are two types of fiber: fermentable, and nonfermentable.
+</div></details>
+</div></details>
 
-- 1. *Fermentable fiber* is broken down by gut bacteria to produce short-chain fatty acids (butyrate being the most important) that are the principal fuel source for the cells of the colonic mucosa ([16\)](#page-15-14). These fatty acids also promote the growth of nonpathogenic bowel microbes ([17\)](#page-15-15), which helps to prevent colonization with pathogens. Thus, fermentable fiber promotes the "health" of both the microbiome, and the mucosal barrier in the large bowel.
-- 2. *Nonfermentable fiber* is not broken down by gut bacteria, and the undigestible residue creates an osmotic force that draws water into the lumen of the bowel. This increases the water content of stool to facilitate laxation.
+<details class="med-details" open><summary>
 
-The fiber in liquid feeding formulas is a mixture of fermentable and nonfermentable fiber. The feeding formula with the highest fiber content is *Jevity* (see [Table](#page-2-0) 49.2).
+## Feeding Formulas</summary><div class="details-content">
 
-### **Lipid Content**
+<details class="med-details" open><summary>
 
-Standard feeding formulas contain polyunsaturated fatty acids (PUFAs) from vegetable oils. The lipid content of feeding formulas typically provides about 30% of the total calories.
+### Formula Classification and Composition</summary><div class="details-content">
 
-### *Omega-3 Fatty Acids*
+Commercial enteral formulas are broadly categorized into two structural varieties (15):
 
-PUFAs from vegetable oils can serve as precursors for inflammatory mediators (eicosanoids) that are capable of promoting inflammatory cell injury. This concern has prompted the introduction of feeding formulas that contain PUFAs from fish oils (omega-3 fatty acids), which do not promote inflammation. Some of these feeding formulas are shown in [Table](#page-3-0) 49.3. The use of feeding formulas that influence the inflammatory response is known as *immunonutrition* [\(14](#page-15-12)).
+- **Polymeric Formulas:** Contain intact, whole proteins (casein, whey, soy isolates), complex polysaccharides (maltodextrins, hydrolyzed cornstarch), and long-chain triglycerides (LCTs). They require normal pancreatic enzyme digestion and intestinal brush-border hydrolytic capacity. Polymeric formulas represent the standard first-line choice for $\gt 90\%$ of ICU patients.
+- **Elemental and Semi-Elemental Formulas:** Contain partially hydrolyzed proteins (small peptides) or crystalline free amino acids, simple carbohydrates, and a high proportion of medium-chain triglycerides (MCTs). MCTs are absorbed directly into the portal venous circulation without requiring pancreatic lipase or bile salt micellar solubilization. These formulas are reserved for severe malabsorption, short bowel syndrome, or pancreatic insufficiency.
 
-<span id="page-3-0"></span>**TABLE 49.3 Immune-Modulating Feeding Formulas**
+Table 49.2 presents the nutritional composition of representative enteral formulas commonly utilized in clinical practice.
 
-| Feeding<br>Formula | Calories<br>(kcal/mL) | ω-3 FAs<br>(g/L) | Arginine<br>(g/L) | Antioxidants                  |
-|--------------------|-----------------------|------------------|-------------------|-------------------------------|
-| Impact             | 1.0                   | 1.7              | 13                | Selenium,<br>β-carotene       |
-| Optimental         | 1.0                   | 2.3              | 6                 | Vitamins C & E,<br>β-carotene |
-| Охера              | 1.5                   | 4.6              | 0                 | Vitamins C & E,<br>β-carotene |
+<details class="med-details" open><summary>
 
-Fish oil-enriched feeding formulas should not be used routinely ([3\)](#page-15-16), but there is some evidence of benefit when they are used in patients with acute respiratory distress syndrome (ARDS) (18). Other conditions that might benefit from immunonutrition are major trauma, and major abdominal surgery (19).
+#### <span id="tbl-49-2"></span>TABLE 49.2 Representative Tube Feeding Formulas</summary><div class="details-content">
 
-### **Conditionally Essential Nutrients**
+| Feeding Formula | Caloric Density | Protein Content | Dietary Fiber | Formula Osmolality | Primary Clinical Applications |
+| :--- | :---: | :---: | :---: | :---: | :--- |
+| **Isocal** | $1.0\text{ kcal/mL}$ | $35\text{ g/L}$ | $0\text{ g/L}$ | $324\text{ mosm/kg H}_2\text{O}$ | Standard isotonic formula for baseline enteral initiation. |
+| **Vital 1.0**$^\S$ | $1.0\text{ kcal/mL}$ | $40\text{ g/L}$ | $4\text{ g/L}$ | $411\text{ mosm/kg H}_2\text{O}$ | Elemental peptide-based formula with MCTs for impaired digestion. |
+| **Osmolite 1.2** | $1.2\text{ kcal/mL}$ | $56\text{ g/L}$ | $0\text{ g/L}$ | $360\text{ mosm/kg H}_2\text{O}$ | Standard high-protein, near-isotonic polymeric formula. |
+| **Osmolite 1.5** | $1.5\text{ kcal/mL}$ | $63\text{ g/L}$ | $0\text{ g/L}$ | $525\text{ mosm/kg H}_2\text{O}$ | Calorie-dense formula for volume-restricted medical patients. |
+| **Jevity 1.2** | $1.2\text{ kcal/mL}$ | $56\text{ g/L}$ | $17\text{ g/L}$ | $450\text{ mosm/kg H}_2\text{O}$ | Fiber-supplemented formula to normalize bowel motility. |
+| **Twocal HN** | $2.0\text{ kcal/mL}$ | $84\text{ g/L}$ | $5\text{ g/L}$ | $710\text{ mosm/kg H}_2\text{O}$ | Concentrated high-calorie, high-protein formula for strict restriction. |
 
-Non-essential nutrients can become essential (i.e., require exogenous support) in conditions of increased utilization. Two of these *conditionally essential* nutrients deserve mention.
+$^\S$Elemental formulation containing hydrolyzed proteins and medium-chain triglycerides. Formulations adapted from Abbott Nutrition Product Guide (Reference 15).
 
-#### *Arginine*
+</div></details>
 
-Arginine is a preferred metabolic substrate for injured muscle, and it is also a precursor of nitric oxide (which has a pivotal role in maintenance of peripheral blood flow) (20). Arginine can become depleted in conditions like multisystem trauma, due to increased utilization in skeletal muscle (20). At least 8 enteral feeding formulas contain arginine in concentrations of 8–19 g/L (two of these formulas are included in [Table](#page-3-0) 49.3), although the optimal dose of arginine is not known. Arginine-enriched feedings have a documented benefit (i.e., reduced risk of infection) in the perioperative period for major surgery (21).
+<details class="med-details" open><summary>
 
-**RECOMMENDATION:** Clinical practice guidelines state that arginine-enriched feedings are a "consideration" in patients with traumatic brain injury, and in perioperative patients in the surgical ICU [\(2](#page-15-17)). They should not be used in medical ICU patients, especially those with severe sepsis (because of the risk of hypotension from arginine-initiated production of nitric oxide).
+#### Caloric Density and Osmolality Considerations</summary><div class="details-content">
 
-#### *Glutamine*
+The caloric density of enteral formulas ranges from 1.0 to $2.0\text{ kcal/mL}$. Standard formulas deliver 1.0 or $1.2\text{ kcal/mL}$ and exhibit osmolalities close to normal plasma tonicity ($300\text{–}400\text{ mosm/kg H}_2\text{O}$). These near-isotonic formulas are associated with optimal gastric emptying and the lowest incidence of cramping and osmotic diarrhea.
 
-Glutamine is the most abundant free amino acid in the body, and has several functions that have survival value (22). It is a precursor for glutathione, the major intracellular antioxidant, and is essential for nucleic acid synthesis, and for the production of select neurotransmitters (e.g., gamma aminobutyric acid). Glutamine is also an oxidative fuel for cells with a rapid turnover, like the bowel mucosa. Glutamine stores are rapidly depleted in conditions that promote protein catabolism (e.g., sepsis, major trauma, burn injury), and glutamine depletion has a negative impact on outcomes (23).
+Formulas with higher caloric density ($1.5$ and $2.0\text{ kcal/mL}$) are hypertonic ($525\text{–}710\text{ mosm/kg H}_2\text{O}$). Hypertonicity draws free water into the intestinal lumen via osmotic gradients, which can provoke abdominal distension and watery diarrhea. Concentrated formulas are strictly indicated when fluid restriction is paramount, such as in congestive heart failure, oliguric acute kidney injury, severe acute respiratory distress syndrome, or refractory hyponatremia.
 
-Glutamine is contained in the proteins provided by tube feeding formulas, but additional
+</div></details>
 
-glutamine is recommended in the following conditions ([3\)](#page-15-16)
+<details class="med-details" open><summary>
 
-- 1. For critically ill trauma patients, additional glutamine doses of 0.2–0.3 g/kg/day should be added to the tube feedings for the first 5 days of enteral nutrition.
-- 2. For patients with burns over more that 20% of the body surface area, additional glutamine doses of 0.3–0.5 g/kg/day should be added to the tube feedings for the first 10–15 days of enteral nutrition.
+#### Dietary Fiber in Enteral Nutrition</summary><div class="details-content">
 
-Glutamine supplementation is not recommended in other conditions.
+Dietary fiber consists of non-starch plant polysaccharides that resist digestion by human endogenous enzymes. Fiber is categorized into insoluble fiber (cellulose, lignin), which increases fecal bulk and accelerates transit time, and soluble fiber (pectin, guar gum, inulin), which dissolves in water to form a viscous gel (15).
 
-#### *Carnitine*
+Colonic anaerobic bacteria ferment soluble fiber into short-chain fatty acids (SCFAs), predominantly acetate, propionate, and butyrate. Butyrate serves as the primary respiratory fuel for colonocytes, stimulating sodium and water absorption, enhancing colonic mucosal blood flow, and promoting tight junction repair (11).
 
-Carnitine is necessary for the transport of long-chain fatty acids into mitochondria for fatty acid oxidation (24). Carnitine deficiency can be the result of a genetic disorder, malnutrition, hypercatabolic states, and liver failure, and manifestations include hypoglycemia, and a cardiomyopathy (25). A deficiency state is suggested by plasma carnitine levels below 20 mmol/L.
+Fiber-enriched enteral formulas (such as Jevity 1.2) are clinically advantageous for long-term ICU patients to prevent constipation and reduce diarrhea (15). However, fiber-supplemented formulas should be avoided in patients with severe intestinal dysmotility or those at high risk for non-occlusive bowel ischemia, as fermentable fiber can accumulate and promote cecal distension and bacterial overgrowth.
 
-The recommended daily dose of carnitine is 20–30 mg/kg in adults (26). Feeding formulas that provide supplemental carnitine include *Glucerna, Isocal HN, Jevity, and Peptamen*.
+</div></details>
+</div></details>
 
-### **Overabundance of Feeding Formulas**
+<details class="med-details" open><summary>
 
-Despite the multitude of feeding formulas, there is little evidence that one formula, or one type of formula, produces better outcomes than the others. As a result, there is a limited number of formulas available in each hospital, and you will probably use the same 1 or 2 formulas for most of your patients.
+### Immunonutrition</summary><div class="details-content">
 
-## **CREATING A FEEDING REGIMEN**
+Immunonutrition refers to enteral formulations enriched with specific pharmacological nutrients—principally omega-3 fatty acids, arginine, glutamine, and antioxidants—designed to modulate inflammatory signaling, enhance cell-mediated immunity, and attenuate tissue injury (1–3,18).
 
-This section describes a simple method for creating an enteral feeding regimen. This method is summarized in [Table](#page-5-0) 49.4, and proceeds in four steps.
+Table 49.3 details representative commercial immunonutrition formulas and their key active constituents.
 
-<span id="page-5-0"></span>**TABLE 49.4 Creating an Enteral Feeding Regimen**
+<details class="med-details" open><summary>
 
-#### Step 1a. Determine the resting energy expenditure (REE).
+#### <span id="tbl-49-3"></span>TABLE 49.3 Representative Immunonutrition Formulas</summary><div class="details-content">
 
-Measure the REE with indirect calorimetry (recommended), or estimate the REE as follows:.
+| Feeding Formula | Caloric Density | $\omega\text{-3 Fatty Acids}$ | L-Arginine | Specific Antioxidant Additives |
+| :--- | :---: | :---: | :---: | :--- |
+| **Impact** | $1.0\text{ kcal/mL}$ | $1.7\text{ g/L}$ | $13\text{ g/L}$ | Selenium, $\beta$-carotene, zinc |
+| **Optimental** | $1.0\text{ kcal/mL}$ | $2.3\text{ g/L}$ | $6\text{ g/L}$ | Vitamins C & E, $\beta$-carotene, taurine |
+| **Oxepa** | $1.5\text{ kcal/mL}$ | $4.6\text{ g/L}$ | $0\text{ g/L}$ | Vitamins C & E, $\beta$-carotene, borage oil (GLA) |
 
-REE (kcal/day) = 
-$$25 \times \text{wt (kg)}$$
+$\omega\text{-3 Fatty Acids}$ = Long-chain eicosapentaenoic acid (EPA) and docosahexaenoic acid (DHA) from fish oil sources.
 
-#### Step 1b. Estimate the daily protein requirement:
+</div></details>
 
-Protein (g/day) = 
-$$(1.2-1.6) \times \text{wt (kg)}$$
+<details class="med-details" open><summary>
 
-#### Step 2. Select the feeding formula.
+#### Specific Immunonutrient Modulators</summary><div class="details-content">
 
-If possible, use a feeding formula with a caloric density of 1–1.2 kcal/mL.
+The clinical utility of immunonutrition depends heavily on patient selection and underlying pathology:
 
-#### Step 3. Determine the infusion rate:
+- **Omega-3 Fatty Acids (EPA and DHA):** Fish oil-derived eicosapentaenoic acid (EPA) and docosahexaenoic acid (DHA) compete with arachidonic acid (an omega-6 fatty acid) for incorporation into cell membrane phospholipids (18). Enzymatic metabolism of EPA yields 3-series prostaglandins and 5-series leukotrienes, which are significantly less inflammatory than arachidonic acid-derived 2-series prostaglandins and 4-series leukotrienes. In addition, omega-3 fatty acids generate specialized pro-resolving mediators (resolvins, protectins, maresins) that actively terminate inflammation. Enteral formulas enriched with omega-3 fatty acids (e.g., Oxepa) have shown improvements in oxygenation and ventilator-free days in patients with ARDS, major surgical trauma, and burns (1,18).
+- **L-Arginine:** Arginine is a conditionally essential amino acid during critical illness, serving as the obligate precursor for nitric oxide (NO) synthesis via nitric oxide synthase (NOS) and polyamines required for cellular proliferation and wound healing (18). While beneficial in elective surgical and trauma patients, **arginine supplementation is strictly contraindicated in severe sepsis and septic shock** (2,3). In sepsis, induction of inducible nitric oxide synthase (iNOS) produces massive quantities of NO, exacerbating refractory vasodilation, hypotension, and peroxynitrite-mediated cytotoxicity.
+- **Glutamine:** Glutamine is the primary fuel for rapidly dividing enterocytes, lymphocytes, and macrophages. While enteral glutamine supplementation ($0.2\text{–}0.3\text{ g/kg/day}$) is recommended for major burn injury and multitrauma patients (3), high-dose parenteral glutamine in critically ill patients with multiorgan failure was shown in the REDOXS trial to significantly increase mortality and is contraindicated (3).
 
-a. Feeding volume (mL) 
-$$=$$
-  $\frac{\text{kcal/day required}}{\text{kcal/mL in feeding formula}}$ 
+</div></details>
+</div></details>
+</div></details>
 
-For continuous infusions:
+<details class="med-details" open><summary>
 
-b. Infusion rate (mL/hr) = 
-$$\frac{\text{Feeding volume (ml)}}{24 \text{ (hr)}}$$
+## Creating a Feeding Regimen</summary><div class="details-content">
 
-### Step 4. Adjust the protein intake, if necessary:
+<details class="med-details" open><summary>
 
-a. Determine the projected daily protein intake:
+### The Four-Step Feeding Protocol</summary><div class="details-content">
 
-Protein In (g/day) = Feeding volume (L/day)  $\times$  protein (g/L) in formula
+Designing an individualized enteral feeding regimen follows a standardized, step-by-step clinical methodology (1–3).
 
-b. If the projected intake is less than desired intake, add powdered protein to the feeding solution to correct the discrepancy
+Table 49.4 outlines the four-step protocol for establishing enteral nutritional goals, infusion rates, and protein supplementation.
 
-### **Step 1. Determine the daily energy and protein requirements.**
+<details class="med-details" open><summary>
 
-The very first consideration is the patient's daily requirement for calories and protein. The daily calorie requirement, also called the *resting energy expenditure* (REE) should be measured using *indirect calorimetry*, which is described in Chapter 48. However, if this is not available, the REE can be estimated using the following simple relationship:
+#### <span id="tbl-49-4"></span>TABLE 49.4 Protocol for Creating an Enteral Feeding Regimen</summary><div class="details-content">
 
-REE (kcal/d) = 
-$$25 \times \text{body weight (kg)}$$
- (49.1)
+| Clinical Protocol Steps | Objective and Formulaic Derivations | Actionable Clinical Guidelines |
+| :--- | :--- | :--- |
+| **Step 1a: Determine Daily Energy Needs (REE)** | $\text{REE (kcal/day)} = 25 \times \text{body weight (kg)}$ | Utilize indirect calorimetry if available; use actual weight or adjusted weight for obesity ($\gt 125\%$ IBW). |
+| **Step 1b: Determine Daily Protein Goal** | $\text{Protein Goal (g/day)} = (1.2\text{–}1.6) \times \text{body weight (kg)}$ | Target $1.2\text{–}2.0\text{ g/kg/day}$ in medical ICU patients; up to $2.5\text{ g/kg/day}$ in severe burns or trauma. |
+| **Step 2: Select Enteral Feeding Formula** | Choose formula with caloric density of $1.0\text{–}1.2\text{ kcal/mL}$ | Standard polymeric isotonic formula preferred; use $1.5\text{–}2.0\text{ kcal/mL}$ only if fluid restriction is required. |
+| **Step 3a: Calculate Total Daily Feeding Volume** | $\text{Volume (mL/day)} = \frac{\text{Target Calories (kcal/day)}}{\text{Formula Density (kcal/mL)}}$ | In acute phase (first 3–7 days), target calories should represent $\le 70\%$ of measured or calculated REE. |
+| **Step 3b: Determine Hourly Infusion Rate** | $\text{Infusion Rate (mL/hr)} = \frac{\text{Total Volume (mL/day)}}{24\text{ hours}}$ | Initiate at $20\text{–}30\text{ mL/hr}$; advance by $10\text{–}20\text{ mL/hr}$ every 8–12 hours toward goal rate as tolerated. |
+| **Step 4a: Calculate Projected Protein Delivery** | $\text{Protein Delivered (g/day)} = \text{Volume (L/day)} \times \text{Protein (g/L)}$ | Multiply daily volume in liters by formula protein concentration. |
+| **Step 4b: Adjust for Protein Deficits** | $\text{Deficit} = \text{Protein Goal} - \text{Protein Delivered}$ | Add modular protein powders or liquid packets directly to feeding to bridge the catabolic deficit. |
 
-The actual body weight is used for this determination, although the dry body weight seems more appropriate. If actual body weight exceeds 125% of ideal body weight, then the "adjusted body weight" can be used for the determination (as shown in Equation [48.3]).
+*Protocol synthesized from clinical guidelines and practice standards (References 1–3).*
 
-The recommended daily protein requirements in critically ill patients is 1.2 to 2.0 grams/kg/day [\(1](#page-15-1)[,2](#page-15-17)). (A median value of 1.6 g/kg/day is appropriate.) When the condition stabilizes, a nitrogen balance can be performed to determine if the protein intake is adequate (as described in Chapter 48). However, this is rarely done while patients are in the ICU.
+</div></details>
 
-### **Step 2. Select a feeding formula.**
+<details class="med-details" open><summary>
 
-A standard formula, with 1–1.2 kcal/mL, should be sufficient for most patients. Use formulas with higher caloric densities only if volume restriction is a priority.
+#### Caloric Estimation and Obesity Adjustments</summary><div class="details-content">
 
-### **Step 3. Calculate the desired infusion rate.**
+When indirect calorimetry is unavailable, baseline resting energy expenditure is estimated using the standard weight-based equation (2,3):
 
-A continuous infusion is recommended for enteral tube feeding (instead of bolus feedings). To determine the desired infusion rate, first calculate the volume of the feeding formula that must be infused to meet the daily caloric requirement, as shown in [Table](#page-5-0) 49.4. The infusion rate (mL/hr) is then the volume to be infused over 24 hours, divided by 24.
+$$\text{REE (kcal/day)} = 25 \times \text{body weight (kg)} \qquad (49.1)$$
 
-#### *Propofol Adjustment*
+##### Obese ICU Patients
 
-Propofol is a popular agent for short-term sedation during mechanical ventilation, and is delivered in a lipid emulsion that has a caloric density of 1.1 kcal/mL. The calories provided by propofol infusions should be subtracted from the estimated or measured REE to determine the calories that must be provided by the diet. Since propofol provides 1 kcal/mL, the hourly infusion rate of propofol (mL/hr) is equivalent to the hourly caloric yield (kcal/hr).
+In patients with severe obesity (actual body weight exceeding 125% of ideal body weight), calculating caloric goals using actual weight leads to severe overfeeding. In such individuals, adjusted body weight is calculated as:
 
-### **Step 4. Adjust the protein intake, if necessary.**
+$$\text{Adjusted weight (kg)} = [(\text{actual weight} - \text{ideal weight}) \times 0.25] + \text{ideal weight}$$
 
-The final step in the process is determining if the feeding regimen you just created will satisfy the daily protein requirement (from Step 1b). The projected protein intake is simply the daily feeding volume multiplied by the protein concentration in the feeding formula. If the projected protein intake is less than required, powdered protein can be added to the tube feedings to correct the discrepancy.
+In critically ill obese patients, current ASPEN/SCCM guidelines recommend a "high-protein, hypocaloric" strategy: providing $11\text{–}14\text{ kcal/kg actual weight/day}$ (or $22\text{–}25\text{ kcal/kg ideal weight/day}$) coupled with aggressive protein delivery of $2.0\text{–}2.5\text{ g/kg ideal weight/day}$ (2). This approach mobilizes endogenous adipose stores while preserving vital skeletal muscle mass.
 
-### **The Initial Period**
+</div></details>
 
-The most recent guidelines recommend that *nutrition support should begin at REE levels that are less than the measured or estimated REE* [\(1](#page-15-1)[,3](#page-15-16)). This recommendation is based on the discovery that endogenous nutritional adjustments (e.g., gluconeogenesis) are operative in the early stages of acute illness, and adding full nutrition support to these adjustments results in overfeeding (27). In patients who are malnourished at the outset, aggressive early nutrition also increases the risk of the refeeding syndrome (28).
+<details class="med-details" open><summary>
 
-The following recommendations are from the European guidelines for nutrition support ([3\)](#page-15-16):
+#### Fluid Requirements and Free Water Delivery</summary><div class="details-content">
 
-1. If indirect calorimetry is used to measure REE, then no more than 70% of the REE should be
+Critically ill patients have a baseline daily fluid requirement of approximately $30\text{–}35\text{ mL/kg/day}$ (or $1\text{ mL}$ of water per $1\text{ kcal}$ consumed) to replace insensible and renal losses.
 
-provided for the first 3 days of nutrition support. Thereafter, the REE can be gradually increased to 100% over the remainder of the first week.
+Enteral feeding formulas are not pure water:
 
-2. If predictive equations are used to estimate REE, then no more than 70% of the REE should be provided for the first 7 days of nutrition support.
+- Formulas with $1.0\text{ kcal/mL}$ contain approximately 80% to 85% free water ($800\text{–}850\text{ mL}$ water per liter).
+- Formulas with $1.5\text{ kcal/mL}$ contain approximately 75% free water ($750\text{ mL}$ water per liter).
+- Formulas with $2.0\text{ kcal/mL}$ contain approximately 70% free water ($700\text{ mL}$ water per liter).
 
-### **FEEDING TUBES**
+To satisfy daily hydration needs and prevent hypernatremia, the deficit between formula water content and total fluid requirement must be provided via scheduled free water flushes (typically $100\text{–}200\text{ mL}$ of tap or sterile water flushed through the feeding tube every 4 to 6 hours) (1–3).
 
-Liquid feeding formulas are delivered into the stomach or duodenum using narrow-bore, flexible nasogastric (NG) tubes like the one shown in [Figure](#page-8-0) 49.1. These tubes are typically 8–10 French in diameter, and 20–40 inches (50–100 cm) in length. They are made of polyurethane, and are much more flexible than the polyvinylchloride NG tubes that are used to decompress the stomach. Because of their flexibility, a guidewire or stylet is necessary for placement.
+</div></details>
+</div></details>
+</div></details>
 
-<span id="page-8-0"></span>![](_page_8_Picture_4.jpeg)
+<details class="med-details" open><summary>
+
+## Feeding Tubes</summary><div class="details-content">
+
+<details class="med-details" open><summary>
+
+### Tube Selection and Physical Properties</summary><div class="details-content">
+
+Liquid enteral formulas should be administered through small-bore, flexible nasogastric or nasoenteric feeding tubes rather than large-bore rigid sump tubes (29).
+
+Figure 49.1 shows a typical narrow-bore feeding tube.
+
+<span id="fig-49-1"></span>
+![FIGURE 49.1](images/fig-49-1.jpg)
 
 **FIGURE 49.1** A narrow-bore, flexible feeding tube with a stylet to facilitate tube placement.
 
-### **Feeding Tube Placement**
+Standard feeding tubes are 8 to 10 French in outer diameter and 36 to 42 inches (90 to $110\text{ cm}$) in length, manufactured from biocompatible polyurethane or silicone (29). These pliable materials remain soft at body temperature, minimizing the risk of mucosal ulceration, esophageal strictures, and patient discomfort. Because narrow-bore tubes are excessively flexible and prone to coiling, they are packaged with an internal lubricated guidewire or stylet that provides structural rigidity during transnasal passage (29).
 
-Feeding into the stomach is recommended, unless there is evidence of regurgitation and aspiration of feeding formula into the lungs (see later). The distance required to reach the stomach can be estimated by measuring the distance from the tip of the nose to the earlobe and then to the xiphoid process. This "NEX" distance is typically 50–60 cm (29).
+Large-bore polyvinylchloride Salem sump tubes (14–18 French) are designed specifically for active gastric decompression and gastric lavage. Maintaining Salem sump tubes for prolonged enteral feeding causes patient discomfort, increases the incidence of nasal ala pressure necrosis, and promotes gastroesophageal reflux and sinusitis (29).
 
-The major complication of feeding tube insertion is advancement of the tube into the lungs, which occurs in about 1% of insertions (30). Although a relatively uncommon occurrence, misplaced feeding tubes are a significant source of morbidity and even mortality, especially if there is a delay in detection (31). The problem is that critically ill patients often do not cough or show any signs of distress when a feeding tube enters the lungs (which is especially the case in intubated patients who are heavily sedated), so a portable chest x-ray is required after every insertion to determine if the tube is properly placed. *Feedings should not commence until proper tube placement has been verified*.
+</div></details>
 
-#### *Chest Radiography*
+<details class="med-details" open><summary>
 
-The appearance of a properly placed feeding tube on a portable chest x-ray is shown in Figure 49.2 (31). The tube runs a straight course down the [mediastinum,](#page-10-0) and bisects the angle created by the tracheal bifurcation. This is evidence that the tube is in the esophagus, and not in the lungs. Placement in the stomach is likely if the tip of the tube is below the dome of the left hemidiaphragm. The optimal tip position is about 10 cm below the dome of the hemidiaphragm (32), which is far enough from the gastroesophageal junction to reduce the risk of reflux into the esophagus.
+### Placement Technique and Position Verification</summary><div class="details-content">
 
-#### *The Whoosh Test*
+The insertion length required to reach the stomach is estimated using the classical "NEX" distance: measuring the distance from the tip of the Nose to the Earlobe, and then down to the Xiphoid process (29). This distance typically approximates 50 to $60\text{ cm}$ in adults.
 
-One of the traditional practices for evaluating tube placement is to push air through the feeding tube and listen for a "whoosh" of air with the stethoscope placed in the epigastric region. This is taken as evidence that the tube is in the stomach, but this is not necessarily the case. In fact, the presence of a whoosh sound does not confirm tube placement in the stomach because a jet of air in the lungs can be heard in the epigastrium (32–34). Despite its popularity, *this test can be misleading, and should be abandoned*.
+##### The Danger of Pulmonary Misplacement
 
-<span id="page-10-0"></span>![](_page_10_Figure_0.jpeg)
+The most perilous complication of blind feeding tube insertion is unintended passage into the tracheobronchial tree, which occurs in approximately 1% of blind insertions in hospitalized patients (30). In mechanically ventilated or comatose patients with impaired gag and cough reflexes, feeding tubes can easily slip through the vocal cords and pass alongside the endotracheal tube cuff into the distal bronchi without triggering coughing (30). Infusing enteral formula or water into a misplaced pulmonary tube can cause catastrophic chemical pneumonitis, tension pneumothorax, pulmonary hemorrhage, or death (30).
 
-**FIGURE 49.2** Portable chest x-ray showing the proper placement of a nasogastric feeding tube. Feedings should not commence until proper placement of the tube is verified radiographically. Image from Reference 31.
+Figure 49.2 illustrates the proper radiographic position of a nasogastric feeding tube.
 
-#### *Ultrasound*
+<span id="fig-49-2"></span>
+![FIGURE 49.2](images/fig-49-2.jpg)
 
-Ultrasound imaging has a sensitivity of 96%, and a specificity of 91%, for confirming the placement of feeding tubes in the stomach (35). However, there is uncertainty about the utility of ultrasound for detecting misplaced feeding tubes, and as a result, ultrasound has not replaced chest radiography for evaluating feeding tube placement.
+**FIGURE 49.2** Portable chest x-ray showing the proper placement of a nasogastric feeding tube.
 
-### **Misplaced Feeding Tubes**
+A correctly positioned nasogastric tube exhibits the following radiographic hallmarks (30):
 
-As mentioned earlier, entry of a feeding tube into the airways is usually a covert event, and becomes evident only when the post-procedural chest x-ray looks like the one in [Figure](#page-11-0) 49.3 (36). Note that the tube veers to the right at about the level of the tracheal bifurcation (because it
+- The tube courses straight down the midline within the esophageal lumen in the posterior mediastinum.
+- The tube clearly crosses the carina in the midline without entering either mainstem bronchus.
+- The tube passes below the level of the diaphragm into the left upper quadrant.
+- The radiopaque tip and side ports are clearly visualized lying within the gastric air bubble below the left hemidiaphragm, at least $10\text{ cm}$ distal to the gastroesophageal junction.
 
-is following the course of the right mainstem bronchus), in contrast to the straight course of the feeding tube in [Figure](#page-10-0) 49.2. Because they are narrow-bore tubes that are advanced with a rigid stylet, feeding tubes can be advanced far into the lungs, and can break through into the pleural space to produce a pneumothorax (37).
+Figure 49.3 demonstrates accidental misplacement of a feeding tube into the right lower lobe bronchus.
 
-### *End-Tidal CO<sup>2</sup>*
+<span id="fig-49-3"></span>
+![FIGURE 49.3](images/fig-49-3.jpg)
 
-Early detection of feeding tubes entering the lungs is possible by monitoring the CO<sup>2</sup> in the infusion port of the feeding tube as it is being advanced. The appearance of a CO<sup>2</sup> waveform, or an increase in PCO<sup>2</sup> to 15 mm Hg, is evidence that the feeding tube has entered the lungs (38). The pooled results of 16 studies has shown that end-tidal CO<sup>2</sup> monitoring has a sensitivity of 96% and a specificity of 99% for the detection of feeding tube misplacement in the lungs (39).
+**FIGURE 49.3** Portable chest x-ray showing a feeding tube in the right lung.
 
-<span id="page-11-0"></span>![](_page_11_Picture_3.jpeg)
+##### Flaws of Bedside Clinical Tests
 
-**FIGURE 49.3** Portable chest x-ray showing a feeding tube in the right lung. Image from Reference 36, digitally retouched.
+- **Auscultation ("Whoosh Test"):** Insufflating air with a syringe while auscultating over the epigastrium is completely unreliable. Transmitted sounds from a tube coiled in the pharynx, esophagus, or right pleural space can sound identical to air bubbling in the stomach. Auscultation must never be relied upon to confirm tube placement (30).
+- **Aspirate pH Testing:** A gastric aspirate with $\text{pH} \le 5.0$ suggests gastric placement. However, $\text{pH}$ paper testing is frequently confounded in ICU patients receiving proton pump inhibitors, $\text{H}_2$-receptor antagonists, or continuous enteral feeds (which neutralize gastric acid to $\text{pH} \gt 6.0$).
+- **Radiographic Mandate:** A portable chest and upper abdominal radiograph remains the mandatory gold standard for confirming feeding tube placement prior to instilling any formula, fluid, or medication (30).
 
-End-tidal CO<sup>2</sup> monitoring has one limitation that prevents it from replacing chest radiography: i.e., it does not detect feeding tube misplacement in the esophagus (e.g., from
+</div></details>
 
-coiling). However, the early detection of feeding tube entry into the trachea can help to prevent lung injury, and pneumothoraces.
+<details class="med-details" open><summary>
 
-#### *Gastric vs Duodenal Placement*
+### Gastric vs Post-Pyloric Feeding</summary><div class="details-content">
 
-The consensus recommendation is to infuse the liquid feeding formulas into the stomach rather the proximal duodenum. This recommendation is based on studies showing that *there is no difference in the risk of aspiration with gastric versus duodenal feedings* (40,41), and gastric feedings are much easier to deliver. However, duodenal feeding is a consideration in patients with problematic regurgitation and aspiration of gastric feedings.
+Enteral nutrition can be delivered into the stomach (intragastric) or into the duodenum or jejunum (post-pyloric feeding).
 
-### **COMPLICATIONS OF ENTERAL NUTRITION**
+The stomach represents the natural, physiological reservoir for food. Gastric feeding allows intermittent or bolus delivery, exposes nutrients to bactericidal hydrochloric acid, and triggers normal cephalic-gastric neuroendocrine digestive cascades. Therefore, gastric feeding is recommended as the routine initial route (1–3).
 
-The most cited complications of enteral tube feeding include (*a*) occlusion of the feeding tubes, (*b*) regurgitation and aspiration of the feeding formula, (*c*) diarrhea, and (*d*) inadequate nutrition support from frequent interruptions of the tube feeding.
+Post-pyloric feeding (nasoduodenal or nasojejunal) is specifically indicated in patients with (1–3):
 
-### **Tube Occlusion**
+- Clinically severe gastroparesis failing prokinetic therapy.
+- Recurrent regurgitation or high risk of pulmonary aspiration.
+- Severe acute pancreatitis (jejunal feeding avoids cephalic stimulation of pancreatic exocrine secretion).
+- Upper gastrointestinal anatomical abnormalities, partial gastric outlet obstruction, or recent gastroesophageal surgery.
 
-Narrow bore feeding tubes can become occluded by protein precipitates that form when acidic gastric secretions reflux into the feeding tubes (42). Standard preventive measures include flushing the feeding tubes with 30 mL of water every 4 hours, and using a 10 mL water flush after medications are instilled.
+Small-bowel feeding bypasses the pyloric sphincter and requires continuous volumetric infusion, as the jejunum cannot accommodate large fluid boluses without developing dumping syndrome, cramping, and severe diarrhea.
 
-#### *Restoring Patency*
+</div></details>
+</div></details>
 
-If flow through the feeding tube is sluggish, flushing the tube with warm water can restore flow in 30% of cases (42). If this is ineffective, *pancreatic enzyme* (Viokase) can be used as follows (43):
+<details class="med-details" open><summary>
 
-Regimen: Dissolve 1 tablet of Viokase and 1 tablet of sodium carbonate (324 mg) in 5 mL of water. Inject this mixture into the feeding tube and clamp for 5 minutes. Follow with a warm water flush. This should relieve the obstruction in about 75% of cases (43). If the feeding tube is completely occluded, attempt to pass a flexible wire through the tube to clear the obstruction. If this is unsuccessful, replace the feeding tube without delay.
+## Complications of Enteral Nutrition</summary><div class="details-content">
 
-### **Regurgitation/Aspiration**
+<details class="med-details" open><summary>
 
-The most feared complication of tube feedings is regurgitation and aspiration of the liquid feedings into the lungs. Microaspiration occurs in almost half of critically ill patients (44), and there is usually no observable feeding solution in the airways. The heightened risk of regurgitation/aspiration is the result of impaired gastric motility and reduced or absent lower esophageal sphincter tone (45,46). Monitoring gastric residual volumes has been used to determine the risk of regurgitation/aspiration, but with limited success.
+### Mechanical Complications and Tube Occlusion</summary><div class="details-content">
 
-#### *Gastric Residual Volume*
+Small-bore feeding tubes are prone to luminal occlusion, which occurs in up to 35% of ICU patients (42). Occlusion is primarily driven by physical precipitation of intact proteins when acidic gastric juice ($\text{pH} \lt 4.0$) refluxes into the tube lumen, or when incompatible medications are crushed and instilled with enteral formula (42).
 
-The traditional practice has been to monitor the gastric residual volume (GRV) routinely (e.g., at least once per shift), and interrupt enteral feeding if the GRV exceeds a threshold volume. (This
+Prevention is the most effective strategy: feeding tubes should be flushed with $30\text{ mL}$ of water every 4 hours during continuous feeding, and with $10\text{ mL}$ of water before and after administering each medication (42).
 
-volume varies from hospital to hospital, but is usually 150–250 mL.) However, there is no convincing evidence that this practice reduces the risk of aspiration, or otherwise influences outcomes (46), but it does result in frequent interruptions of enteral nutrition, and is a common cause of inadequate nutrition support ([2\)](#page-15-17).
+##### Restoring Patency
 
-**RECOMMENDATIONS:** The consensus recommendations regarding the GRV are as follows [\(2](#page-15-17)[,3](#page-15-16)):
+If resistance occurs, gentle irrigation with warm water clears up to 30% of occluded tubes (42). If warm water fails, an enzymatic declogging cocktail is effective (43):
 
-- 1. Routine monitoring of GRV is not necessary, but if it is measured (e.g., when aspiration is suspected), a GRV >500 mL in 6 hours is reason to temporarily interrupt the tube feeding.
-- 2. If tube feeding is interrupted, the head of the bed should be elevated to at least 30° above horizontal, and a trial or prokinetic therapy is warranted.
-- 3. If the problem persists when tube feedings are reinstituted, the feeding site should be advanced (i.e., from stomach to duodenum, or from duodenum to jejunum).
+- **Pancreatic Enzyme Protocol:** Crush one tablet of non-enteric-coated pancreatic enzymes (e.g., Viokase) and one tablet of sodium bicarbonate ($324\text{ mg}$) in $5\text{ mL}$ of warm water. Instill the alkaline enzyme mixture into the occluded tube, clamp for 15 to 30 minutes, and then flush with warm water (43).
 
-<span id="page-13-0"></span>
+Acidic carbonated beverages (cola) and meat tenderizers should never be used, as their acidity precipitates formula proteins and worsens luminal obstruction.
 
-| TABLE<br>49.5       | Prokinetic<br>Therapy                                                                                                                                                                                           |
-|---------------------|-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
-| Agent               | Dosing Regimens and Comments                                                                                                                                                                                    |
-| Erythromycin        | Dosing: 100–200 mg IV every 8 hrs for 3 days.<br>Comment: The most effective prokinetic agent, but tachyphylaxis occurs after a few days.<br>Three-day Rx does not affect the resident microbiota.              |
-| Metoclopramide      | Dosing: 10 mg IV every 8 hrs for 3 days.<br>Comment: Less effective than erythromycin, and its efficacy wanes after a few days.                                                                                 |
-| Enteral<br>Naloxone | Dosing: 8 mg via nasogastric tube every 6 hrs.<br>Comment: Blocks opiate receptors in the bowel without antagonizing the analgesic effects of<br>opiates. Used only for gastric dysmotility related to opiates. |
+</div></details>
 
-#### *Prokinetic Therapy*
+<details class="med-details" open><summary>
 
-The prokinetic agents and recommended dosing regimens are shown in [Table](#page-13-0) 49.5. Prokinetic therapy can produce short-term improvement in indices of gastric motility, but the clinical significance of these effects has been difficult to demonstrate (47). The following information deserves emphasis.
+### Pulmonary Aspiration and Gastric Residual Volumes</summary><div class="details-content">
 
-- 1. *Erythromycin* promotes gastric emptying by stimulating motilin receptors in the GI tract (48). It is the most effective prokinetic agent (49), and *is recommended as first-line therapy for gastric dysmotility* ([3\)](#page-15-16). The effectiveness of erythromycin wanes over a few days, so no more than 3 days of therapy is recommended. There is no evidence that 3 days of erythromycin has any influence on the resident microbiota.
-- 2. Metoclopramide promotes gastric emptying by antagonizing the actions of dopamine in the GI tract. It is less effective than erythromycin (49), and is more effective when given in combination with erythromycin (50). Its effectiveness wanes after a few days, and only three days of treatment is recommended ([3\)](#page-15-16).
-- 3. Combined therapy with erythromycin and metoclopramide is more effective than treatment with either drug alone (50). However, both drugs prolong the QT interval, and this must be
+Pulmonary aspiration of gastric contents is the most feared infectious complication of enteral feeding, contributing significantly to ventilator-associated pneumonia (VAP) (3,44).
 
-considered when deciding about combination therapy.
+Key preventive interventions include:
 
-4. For gastric dysmotility related to opiates, direct intragastric administration of the opioid antagonist *naloxone* can selectively block opioid receptors in the bowel and promote gastric emptying without antagonizing the analgesic effects of the opiate (51). The clinical experience with oral naloxone is limited.
+- **Semi-Recumbent Positioning:** Elevating the head of the bed to $30^\circ\text{–}45^\circ$ reduces gastroesophageal reflux and aspiration by utilizing gravity to keep feeds in the gastric antrum (3).
+- **Subglottic Secretion Drainage:** Endotracheal tubes equipped with continuous subglottic suction reduce microaspiration of contaminated oropharyngeal secretions pooling above the cuff.
 
-### **Diarrhea**
+##### The Myth of Gastric Residual Volume (GRV)
 
-Diarrhea is reported in as many as 70% of patients receiving enteral tube feedings (52). The liquid feeding formulas can play a role because they are often [hyperosmotic](#page-2-0) to plasma (see Table 49.2), and thus can pull water into the bowel lumen and promote a watery diarrhea. Other sources of diarrhea are unrelated to the feeding formula, and include antibiotics, *Clostridium difficile* infection, and liquid drug preparations.
+Historically, nurses checked GRV every 4 hours using large syringes, holding feeds if residual volume exceeded $150\text{–}200\text{ mL}$. Large prospective randomized trials (including the REGANE and NUTRIREA-1 studies) demonstrated that routine GRV monitoring does not reduce pneumonia, vomiting, or mortality, but results in frequent unnecessary interruptions of feeding, causing cumulative nutritional deficits (45,46).
 
-#### *Liquid Drug Preparations*
+Current ESPEN and ASPEN/SCCM guidelines recommend abandoning routine GRV measurements (2,3). Enteral feeding should not be stopped for $\text{GRV} \lt 500\text{ mL}$ unless accompanied by nausea, vomiting, or progressive abdominal distension (3).
 
-Liquid preparations are favored for drug delivery through narrow-bore feeding tubes because there is less risk of obstruction. However, liquid preparations have two features that create a risk for diarrhea: i.e., they can be extremely hyperosmolar (≥3,000 mosm/kg H2O), and they often contain sorbitol (to improve palatability), a well-known laxative that draws water into the bowel lumen (53). [Table](#page-14-0) 49.6 includes a list of diarrhea-prone liquid preparations that might be used in ICU patients.
+</div></details>
 
-#### *Management*
+<details class="med-details" open><summary>
 
-The management of diarrhea in the ICU can be challenging because of the multiple potential sources. Tube feeding-related management could include the following: (*a*) choose a feeding formula with a lower osmolality, if possible, (*b*) use an elemental formula that has predigested proteins and lipids, which are easier to move into the bloodstream, and (*c*) avoid the liquid drug preparations in [Table](#page-14-0) 49.6, if possible. Although a fermentable fiber might help (by promoting the health of the mucosa), the fiber-containing feeding formulas are a mixture of fermentable and nonfermentable fiber, which provides no advantage in relieving diarrhea.
+### Prokinetic Pharmacotherapy</summary><div class="details-content">
 
-<span id="page-14-0"></span>
+Delayed gastric emptying (gastroparesis) affects up to 50% of critically ill patients, exacerbated by sepsis, hyperglycemia, intracranial hypertension, and systemic opioid analgesia (47). When feeding intolerance occurs, prokinetic agents stimulate coordinated gastrointestinal motor activity.
 
-| TABLE<br>49.6<br>Liquid<br>Drug                                                                                                               | Preparations<br>that<br>Promote<br>Diarrhea                                                           |  |  |
-|-----------------------------------------------------------------------------------------------------------------------------------------------|-------------------------------------------------------------------------------------------------------|--|--|
-| > 3,000 mosm/kg H2O                                                                                                                           | Contain Sorbitol                                                                                      |  |  |
-| Acetaminophen<br>Dexamathasone<br>Ferrous sulfate<br>Hydroxyzine<br>Metoclopramide<br>Multivitamins<br>Potassium chloride<br>Sodium phosphate | Acetaminophen<br>Cimetidine<br>Isoniazid<br>Lithium<br>Metoclopramide<br>Theophylline<br>Tetracycline |  |  |
+Table 49.5 details the recommended pharmacological regimens for prokinetic therapy in the ICU.
 
-From Reference 53.
+<details class="med-details" open><summary>
 
-### **A FINAL WORD**
+#### <span id="tbl-49-5"></span>TABLE 49.5 Prokinetic Therapy for Gastric Dysmotility</summary><div class="details-content">
 
-#### **Eating as an Antimicrobial Defense Mechanism**
+| Pharmacological Agent | Recommended Dosing Regimen | Mechanism of Action and Clinical Caveats |
+| :--- | :--- | :--- |
+| **Erythromycin** | $100\text{–}200\text{ mg}$ IV every 8 hours for 3 days | **First-line agent:** Acts as a potent motilin receptor agonist (48). Highly effective, but tachyphylaxis occurs after 3 days due to motilin receptor downregulation (49). Short course does not disrupt intestinal microbiota. |
+| **Metoclopramide** | $10\text{ mg}$ IV every 8 hours for 3 days | **Second-line agent:** Antagonizes central/peripheral dopamine ($\text{D}_2$) receptors and stimulates $5\text{-HT}_4$ receptors. Less effective than erythromycin; risk of QT prolongation and extrapyramidal symptoms. |
+| **Enteral Naloxone** | $8\text{ mg}$ via NG tube every 6 hours | **Opioid-specific reversal:** Selectively blocks intestinal $\mu$-opioid receptors with negligible systemic absorption. Reverses opioid-induced gastroparesis and constipation without attenuating systemic analgesia. |
 
-One of the fundamental tenets in critical care is the primacy of the bowel as a source of sepsis, systemic inflammation, and inflammatory organ injury (see Chapter 4). The principal defender in the bowel is the barrier function of the bowel mucosa, which prevents the hordes of enteric pathogens from gaining entry into the body. (Remember that the alimentary canal is outside the body, like the hole in a donut.) And what keeps this mucosal barrier functional is the presence of bulk nutrients in the bowel lumen. The trophic effect of bulk nutrients on the bowel mucosa means that enteral nutrition has a nonnutritive role in protecting against microbial invasion. Stated another way, *eating can be viewed as an antimicrobial defense mechanism*. Interesting concept.
+*Dosing regimens and pharmacology adapted from clinical practice guidelines (References 3,47–49).*
 
-#### *References*
+</div></details>
 
-<span id="page-15-0"></span>*a.* Shelton HM. *Fasting Can Save Your Life*. 2nd ed. Chicago: Natural Hygiene Press, 1981.
+</div></details>
 
-#### *Clinical Practice Guidelines*
+<details class="med-details" open><summary>
 
-- <span id="page-15-1"></span>1. Compher C, Bingham AL, McCall M, et al. Guidelines for the provision of nutrition support therapy in the adult critically ill patient: The American Society for Parenteral and Enteral Nutrition. J Parenter Enteral Nutr 2022; 46:12–41.
-- <span id="page-15-17"></span>2. Taylor BE, McClave SA, Martindale RG, et al. Guidelines for the provision and assessment of nutrition support therapy in the adult critically ill patient: Society of Critical Care Medicine (SCCM) and American Society for Parenteral and Enteral Nutrition (ASPEN). Crit Care Med 2016; 44:390–438.
-- <span id="page-15-16"></span>3. Singer P, Blaser AR, Berger MM, et al. ESPEN guideline on clinical nutrition in the intensive care unit. Clin Nutr 2019; 38:48–79.
-- <span id="page-15-10"></span>4. Blaser AR, Starkopf J, Alhazzani W, et al. Early enteral nutrition in critically ill patients: ESICM clinical practice guidelines. Intensive Care Med 2017; 43:380–398.
+### Diarrhea and Osmotic Medication Loads</summary><div class="details-content">
 
-#### *Reviews*
+Diarrhea affects 30% to 60% of enterally fed patients in the ICU, leading to perianal skin breakdown, wound contamination, dehydration, and electrolyte wasting (51).
 
-<span id="page-15-2"></span>5. Wischmeyer PE. Overcoming challenges to enteral nutrition delivery in critical care. Curr Opin Crit Care 2021; 27:169–176.
+Although the enteral feeding formula is frequently blamed, extensive investigation demonstrates that the formula itself is rarely the primary etiology (51,52).
 
-#### *General Considerations*
+##### Osmotic Effects of Liquid Medications
 
-- <span id="page-15-3"></span>6. Meakins JL, Marshal JC. The gastrointestinal tract: the 'motor' of MOF. Arch Surg 1986; 121:197–201.
-- <span id="page-15-4"></span>7. Alpers DH. Enteral feeding and gut atrophy. Curr Opin Clin Nutr Metab Care 2002; 5:679–683.
-- <span id="page-15-5"></span>8. Wiest R, Rath HC. Gastrointestinal disorders of the critically ill. Bacterial translocation in the gut. Best Pract Res Clin Gastroenterol 2003; 17:397–425.
-- <span id="page-15-6"></span>9. Ohta K, Omura K, Hirano K, et al. The effect of an additive small amount of a low residue diet against total parenteral nutrition-induced gut mucosal barrier. Am J Surg 2003; 185:79–85.
-- <span id="page-15-7"></span>10. Spaeth G, Specian RD, Berg R, Deitch EA. Bulk prevents bacterial translocation induced by the oral administration of total parenteral nutrition solution. J Parenter Ent Nutrit 1990; 14:442–447.
-- <span id="page-15-8"></span>11. Herskowitz K, Souba WW. Intestinal glutamine metabolism during critical illness: a surgical perspective. Nutrition 1990; 6:199–206.
-- <span id="page-15-9"></span>12. Alverdy JC, Moss GS. Total parenteral nutrition promotes bacterial translocation from the gut. Surgery 1988; 104:185–190.
-- <span id="page-15-11"></span>13. McClave SA, Martindale RG, Vanek VW, et al. Guidelines for the provision and assessment of nutrition support therapy in the adult critically ill patient: Society of Critical Care Medicine and American Society for Parenteral and Enteral Nutrition. J Parent Ent Nutr 2009; 33:277–316.
-- <span id="page-15-12"></span>14. Wischmeyer PE, Bear DE, Berger MM, et al. Personalized nutrition therapy in critical care: expert recommendations. Crit Care 2023; 27:261.
+Liquid oral medication formulations are heavily concentrated with hyperosmolar excipients and artificial sweeteners (notably sorbitol, propylene glycol, and polyethylene glycol) to improve palatability and stability (53). Sorbitol is a poorly absorbed polyol that exerts an intense osmotic drawing force in the intestinal lumen, causing severe diarrhea when daily consumption exceeds $10\text{–}20\text{ g}$.
 
-#### <span id="page-15-13"></span>*Enteral Feeding Formulas*
+Table 49.6 lists common liquid drug preparations that promote osmotic diarrhea due to extreme osmolality or high sorbitol content.
 
-- 15. Abbott Nutrition Product Guide. Available at [Abbottnutrition.com](http://Abbottnutrition.com) (Accessed 7/4/2024).
-- <span id="page-15-14"></span>16. Fu X, Liu Z, Zhu C, et al. Nondigestible carbohydrates, butyrate, and butyrate-producing bacteria. Crit Rev Food Sci Nutr 2019; 59(Suppl1):S130–S152.
-- <span id="page-15-15"></span>17. Duncanson K, Williams G, Hoedt EC, et al. Diet-microbiota associations in gastrointestinal research: a systematic review. Gut Microbes 2024; 16:2350785.
+<details class="med-details" open><summary>
+
+#### <span id="tbl-49-6"></span>TABLE 49.6 Liquid Drug Preparations that Promote Diarrhea</summary><div class="details-content">
+
+| Extreme Osmolality ($\gt 3{,}000\text{ mosm/kg H}_2\text{O}$) | High Sorbitol Excipient Content |
+| :--- | :--- |
+| • **Acetaminophen Liquid Solution** ($500\text{ mg/15 mL}$)<br>• **Dexamethasone Oral Solution**<br>• **Ferrous Sulfate Liquid Drops**<br>• **Hydroxyzine Hydrochloride Syrup**<br>• **Metoclopramide Oral Solution**<br>• **Multivitamin Liquid Preparations**<br>• **Potassium Chloride 10% Oral Solution**<br>• **Sodium Phosphate Oral Solution** | • **Acetaminophen Elixir**<br>• **Cimetidine Liquid Solution**<br>• **Isoniazid Syrup**<br>• **Lithium Citrate Syrup**<br>• **Metoclopramide Oral Syrup**<br>• **Theophylline Liquid Elixir**<br>• **Tetracycline Oral Suspension** |
+
+*Liquid medication properties compiled from data by Dickerson RN (Reference 53).*
+
+</div></details>
+
+##### Diagnostic and Management Strategy for Diarrhea
+
+1. **Rule out Infectious Colitis:** Test for *Clostridioides difficile* toxin or PCR before administering any antimotility agents (e.g., loperamide), as antimotility therapy in active colitis can precipitate toxic megacolon.
+2. **Review Medication Profile:** Switch hyperosmolar liquid elixirs to crushed tablets dissolved in warm water, or dilute concentrated liquid elixirs with at least $30\text{–}50\text{ mL}$ of water prior to administration.
+3. **Incorporate Soluble Fiber:** In patients without mechanical obstruction or active bowel ischemia, transition to a soluble fiber-containing formula or add wheat dextrin/guar gum packets to generate colonic SCFAs and firm the stool.
+
+</div></details>
+
+<details class="med-details" open><summary>
+
+### Non-Occlusive Mesenteric Ischemia (NOMI)</summary><div class="details-content">
+
+Non-occlusive mesenteric ischemia (NOMI) is an uncommon but catastrophic complication of enteral tube feeding, carrying a mortality rate exceeding 50% (54).
+
+Digestion and absorption of intraluminal nutrients dramatically increase local oxygen consumption in the small intestinal mucosa. Under normal conditions, postprandial hyperemia mediated by local adenosine and vasodilatory prostaglandins increases mesenteric blood flow to match metabolic demand. In patients with severe circulatory shock, low cardiac output, systemic hypovolemia, or intense $\alpha$-adrenergic vasoconstriction from high-dose vasopressor therapy, mesenteric vessels cannot dilate (54). Infusing enteral nutrients into an underperfused bowel precipitates severe cellular hypoxia, microvascular thrombosis, transmural ischemic necrosis, and bowel perforation (54).
+
+##### Clinical Signs and Prevention
+
+Early warning signs of NOMI include sudden unexplained abdominal distension, severe metabolic acidosis with rising arterial lactate, absent bowel sounds, and abrupt hemodynamic collapse. Enteral nutrition must be stopped immediately if abdominal distension, pain, or escalating vasopressor requirements develop.
+
+</div></details>
+</div></details>
+
+<details class="med-details" open><summary>
+
+## A Final Word</summary><div class="details-content">
+
+<details class="med-details" open><summary>
+
+### Eating as an Antimicrobial Defense Mechanism</summary><div class="details-content">
+
+One of the foundational tenets of modern critical care is the primacy of the gastrointestinal tract as a potent driver of systemic inflammation and multiorgan dysfunction (see Chapter 4).
+
+Topologically, the lumen of the alimentary canal is external to the human body, analogous to the central hole in a doughnut. The sole barrier separating the host from trillions of enteric pathogens is a delicate epithelial monolayer reinforced by mucous secretion and dimeric secretory IgA. The primary physiological stimulus that maintains this mucosal shield is the mechanical presence of complex bulk nutrients in the intestinal lumen.
+
+#### The Non-Nutritive Value of Luminal Nutrients
+
+The profound trophic influence of luminal nutrition demonstrates that enteral feeding possesses a non-nutritive, structural role that actively shields the host against microbial invasion. Viewed from this perspective, eating is not merely an energy-harvesting activity; it represents a primary antimicrobial defense mechanism.
+
+Herbert Shelton captured this delicate balance when observing human attitudes toward artificial nourishment:
+
+> *Forced feeding . . . goes on because the world still believes it can eat itself well.*
+
+In the critical care setting, the art of enteral nutrition lies in providing sufficient luminal nutrients to sustain the mucosal barrier while avoiding the metabolic injury of premature, aggressive caloric overload.
+
+</div></details>
+</div></details>

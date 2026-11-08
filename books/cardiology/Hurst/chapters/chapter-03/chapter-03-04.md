@@ -17,7 +17,7 @@
 * **Central Lines & Pulmonary Artery Catheters:** Confirm tip position – cavoatrial junction for central venous catheters, proximal right pulmonary artery for Swan‑Ganz catheters.
 
 ### Pulmonary Vasculature
-* **Normal (Upright):** Caudal flow pattern (gravity). Lower lobe vessels larger than upper. Right descending pulmonary artery (RDPA): 10–15 mm (men), 9–14 mm (women). Arterial‑bronchial ratio (ABR) lower lobe ~1.34.
+* **Normal (Upright):** Caudal flow pattern (gravity). Lower lobe vessels larger than upper. Right descending pulmonary artery (RDPA): 10–15 mm (men), 9–14 mm (women). Arterial‑bronchial ratio (ABR) lower lobe ~ 1.34.
 * **Increased Pulmonary Blood Flow (PBF):** Left‑to‑right shunts (ASD, VSD) → dilated vessels, normal pressure/pattern (“shunt vascularity”). RDPA >15 mm.
 * **Decreased PBF:** Pulmonic stenosis, ToF, right heart failure → small vessels, radiolucent lungs. RDPA <9 mm.
 * **Cephalization (Redistribution):** Postcapillary PH (MS, LV failure, severe MR) → lower lobe vessels constrict (alveolar hypoxia), upper lobe vessels dilate. Requires *constriction* of lower vessels for diagnosis.
@@ -85,7 +85,7 @@ In the setting of cardiac disease, it is tempting to principally focus on the he
 
 ### Assistive Devices</summary><div class="details-content">
 
-In the setting of cardiac disease, devices that assist or support the monitoring of cardiac function are commonly encountered on the chest radiograph. In the outpatient setting, these devices include pacemakers ([Fig. 14–3](#fig-14-3)), implantable cardioverter-defibrillators (ICDs), and cardiac assist devices ([Fig. 14–4](#fig-14-4)). In addition to these devices, inpatients, particularly those in intensive care, may have central venous ([Fig. 14–5A](#fig-14-5)) and pulmonary arterial catheters (see [Fig. 3–5B](#fig-3-5)) or temporary venous pacemakers. A detailed assessment of the positioning and integrity of these devices is critical to the interpretation of cardiac radiography.
+In the setting of cardiac disease, devices that assist or support the monitoring of cardiac function are commonly encountered on the chest radiograph. In the outpatient setting, these devices include pacemakers ([Fig. 14–3](#fig-14-3)), implantable cardioverter-defibrillators (ICDs), and cardiac assist devices ([Fig. 14–4](#fig-14-4)). In addition to these devices, inpatients, particularly those in intensive care, may have central venous ([Fig. 14–5A](#fig-14-5)) and pulmonary arterial catheters (see [Fig. 14–5B](#fig-14-5)) or temporary venous pacemakers. A detailed assessment of the positioning and integrity of these devices is critical to the interpretation of cardiac radiography.
 
 Pacemakers and ICDs are jointly classified as cardiac electronic implantable devices. The integrity of the leads that conduct and monitor current between a generator and regions of the myocardium is critical to their effective function. Radiography provides an excellent opportunity to evaluate lead integrity and requires both a well-penetrated radiograph and a disciplined search to maximize the likelihood that lead fractures will be recognized.
 

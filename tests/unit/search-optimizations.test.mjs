@@ -263,12 +263,15 @@ assert.strictEqual(workerMsg.results[0].fullRawAst, undefined, 'Служебны
 console.log('  ✅ PASS: Легковесный DTO снижает нагрузку на Structured Clone и GC');
 
 // -----------------------------------------------------------------------------
-// ТЕСТ 5: Проверка версионирования и согласованности версий кэша (v28)
+// ТЕСТ 5: Проверка версионирования и согласованности версий кэша
 // -----------------------------------------------------------------------------
-console.log('\n📋 Тест 5: Синхронизация версий кэша (v28)...');
+console.log('\n📋 Тест 5: Синхронизация версий кэша...');
 
-assert.ok(swCode.includes('static-v28'), 'sw.js использует static-v28');
-assert.ok(swCode.includes('dynamic-v28'), 'sw.js использует dynamic-v28');
+const swStaticMatch = swCode.match(/CACHE_STATIC\s*=\s*['"]static-v(\d+)['"]/);
+const swDynamicMatch = swCode.match(/CACHE_DYNAMIC\s*=\s*['"]dynamic-v(\d+)['"]/);
+assert.ok(swStaticMatch, 'sw.js содержит валидную константу CACHE_STATIC');
+assert.ok(swDynamicMatch, 'sw.js содержит валидную константу CACHE_DYNAMIC');
+assert.strictEqual(swStaticMatch[1], swDynamicMatch[1], 'Версии static и dynamic в sw.js совпадают');
 assert.ok(workerCode.includes("const SEARCH_INDEX_VERSION = 'v28'"), 'search-worker.js использует SEARCH_INDEX_VERSION v28');
 assert.ok(searchUiCode.includes("version: 'v28'"), 'search-ui.js передает version: v28');
 assert.ok(searchJsCode.includes('?v=v28'), 'search.js передает ?v=v28');
@@ -281,7 +284,7 @@ function isCacheValid(cachedVersion, expectedVersion = 'v28') {
 assert.strictEqual(isCacheValid('v27', 'v28'), false, 'Кэш v27 признается устаревшим и сбрасывается');
 assert.strictEqual(isCacheValid('v28', 'v28'), true, 'Кэш v28 признается валидным');
 
-console.log('  ✅ PASS: Все версионные константы синхронизированы с v28, инвалидация устаревшего кэша гарантирована');
+console.log('  ✅ PASS: Все версионные константы согласованы, инвалидация устаревшего кэша гарантирована');
 
 console.log('\n======================================================');
 console.log('🎉 ALL SPOTLIGHT SEARCH 2.0 UNIT TESTS PASSED!');

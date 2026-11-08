@@ -20,7 +20,7 @@
       },
       "optionsRu": {
         "A": "Пункционная торакостомия с последующим дренированием плевральной полости и аспирацией",
-        "B": "Ингаляция 100% кислорода, положение на левом боку и положение Тренделенбурга (100% O2, left lateral decubitus and Trendelenburg positioning)",
+        "B": "Ингаляция 100% кислорода, положение на левом боку и положение Тренделенбурга",
         "C": "Протокол ведения ТЭЛА, гепаринизация и тромболитическая терапия",
         "D": "Активация протокола острого инфаркта миокарда"
       },
@@ -61,7 +61,7 @@
         "D": "administer 0.9 normal saline 1.6 L/day for 2 days"
       },
       "optionsRu": {
-        "A": "Увеличить введение свободной воды до 200 мл каждые 3 часа (increase free water administration to 200 mL every 3 hours)",
+        "A": "Увеличить введение свободной воды до 200 мл каждые 3 часа",
         "B": "Вводить 0,45% раствор NaCl по 1,6 л/сут в течение 2 дней",
         "C": "Вводить раствор Рингера лактат по 1,6 л/сут в течение 2 дней",
         "D": "Вводить 0,9% физиологический раствор NaCl по 1,6 л/сут в течение 2 дней"
@@ -98,7 +98,7 @@
         "D": "salt and free water restriction"
       },
       "optionsRu": {
-        "A": "Внутривенное введение 3% гипертонического раствора NaCl (administer 3% NaCl intravenously)",
+        "A": "Внутривенное введение 3% гипертонического раствора NaCl",
         "B": "Внутривенное введение фуросемида",
         "C": "Внутривенное введение 0,9% изотонического раствора NaCl",
         "D": "Ограничение соли и свободной жидкости"
@@ -141,7 +141,7 @@
       "optionsRu": {
         "A": "Увеличить чувствительность временного ЭКС (increase the temporary pacemaker sensitivity / сделать более чувствительным, снизив порог в мВ)",
         "B": "Установить дополнительный эндокардиальный электрод в ПЖ и проводить стимуляцию в режиме VOO с частотой 80/мин",
-        "C": "Отключить пациента от временного электрокардиостимулятора (disconnect the patient from the temporary pacemaker)",
+        "C": "Отключить пациента от временного электрокардиостимулятора",
         "D": "Ввести амиодарон болюсно и имплантировать постоянный ЭКС"
       },
       "correctAnswer": "C",
@@ -184,8 +184,8 @@
       "optionsRu": {
         "A": "Экстубация трахеи",
         "B": "Установка катетера легочной артерии (катетера Свана–Ганца)",
-        "C": "Временная электрокардиостимуляция (temporary pacing)",
-        "D": "Проведение заместительной почечной терапии (CRRT)"
+        "C": "Временная электрокардиостимуляция",
+        "D": "Проведение заместительной почечной терапии"
       },
       "correctAnswer": "C",
       "explanationEn": "The correct answer is Option C: temporary pacing.\n\n### 🔬 Clinical & Pathophysiological Analysis:\n\n1. **Pathophysiology of Low Cardiac Output Syndrome (LCOS) Post-Double Valve Surgery:**\n   * This patient is in the early post-operative period following combined aortic and mitral valve replacement (AVR + MVR), still intubated and in a state of low cardiac output syndrome (LCOS).\n   * He exhibits profound tissue hypoperfusion and shock, characterized by hypotension (MAP 63 mmHg on 8 µg/min of norepinephrine), a significantly elevated serum lactate (7 mg/dL, indicating tissue hypoxia and anaerobic metabolism), and oliguria (urine output of 25 mL/hr, indicating prerenal kidney hypoperfusion).\n   * The underlying etiology of this low-output state is **severe bradycardia and/or high-degree atrioventricular (AV) conduction block**, which is a highly common complication after double valve replacement due to proximity of the surgical sutures and local tissue edema around the conduction pathways (such as the bundle of His and AV node).\n\n2. **Why Temporary Pacing is the Best Next Step (Option C):**\n   * According to cardiac surgery postoperative care guidelines, the immediate management of a low-output state caused by bradycardia or AV block is to **increase the heart rate to optimize cardiac output**.\n   * Cardiac output is the product of stroke volume (SV) and heart rate (HR): \\(CO = SV \\times HR\\). In the immediate post-operative period, the stroke volume is relatively fixed due to myocardial stunning, compliance changes, and altered loading conditions. Therefore, cardiac output is heavily dependent on heart rate.\n   * Initiating **temporary pacing (Option C)** using the epicardial wires already placed during surgery (atrioventricular sequential [DDD] pacing is preferred to maintain AV synchrony and optimize atrial kick, but ventricular demand [VVI] pacing is also effective) will immediately raise the heart rate, increase the cardiac output, elevate the MAP, allow weaning of vasoactive medications (norepinephrine), restore renal perfusion (correcting oliguria), and resolve lactic acidosis.\n\n3. **Why Other Options are Incorrect:**\n   * **Option A (extubation):** Extubation is strictly contraindicated in a patient who is hemodynamically unstable, on vasoactive support, and in active lactic acidosis. Extubation under these conditions would lead to respiratory distress, hypoxemia, and cardiovascular collapse.\n   * **Option B (insertion of a pulmonary artery catheter):** While a pulmonary artery catheter (Swan-Ganz catheter) can provide valuable diagnostic information regarding pulmonary pressures, cardiac index, and vascular resistance, it is a diagnostic tool and does not treat the primary life-threatening rhythm disturbance. Immediate therapeutic action (temporary pacing) takes absolute priority.\n   * **Option D (continuous renal replacement therapy):** The patient's oliguria is functional and prerenal, directly caused by low systemic perfusion and hypotension. Initiating CRRT is not the first-line therapy, as it does not address the underlying cardiac output problem and would worsen hypotension by withdrawing intravascular volume in a hemodynamically unstable patient. Pacing the heart to restore cardiac output and renal perfusion is the primary treatment.",
@@ -226,9 +226,9 @@
         "D": "anticoagulate with warfarin with an INR goal of 2-3"
       },
       "optionsRu": {
-        "A": "Выполнить иммуноферментный анализ на антитела к комплексу тромбоцитарный фактор 4/гепарин (PF4/heparin IgG)",
+        "A": "Выполнить иммуноферментный анализ на антитела к комплексу тромбоцитарный фактор 4/гепарин",
         "B": "Выполнить биопсию кожи",
-        "C": "Начать антикоагулянтную терапию аргатробаном с целевым уровнем АЧТВ в 1,5 раза выше исходного (anticoagulate with argatroban with a PTT goal 1.5-times baseline PTT)",
+        "C": "Начать антикоагулянтную терапию аргатробаном с целевым уровнем АЧТВ в 1,5 раза выше исходного",
         "D": "Начать антикоагулянтную терапию варфарином с целевым уровнем МНО 2–3"
       },
       "correctAnswer": "C",
@@ -267,7 +267,7 @@
         "D": "bedside transthoracic echocardiogram"
       },
       "optionsRu": {
-        "A": "Прикроватная чреспищеводная эхокардиография (bedside transesophageal echocardiogram)",
+        "A": "Прикроватная чреспищеводная эхокардиография",
         "B": "Компьютерная томография органов грудной клетки",
         "C": "Экстренная передвижная рентгенография органов грудной клетки",
         "D": "Прикроватная трансторакальная эхокардиография"
@@ -306,7 +306,7 @@
         "D": "mild delirium in the ICU"
       },
       "optionsRu": {
-        "A": "Употребление алкоголя в анамнезе более 14 доз/неделю (alcohol intake history > 14 drinks/week)",
+        "A": "Употребление алкоголя в анамнезе более 14 доз/неделю",
         "B": "Отсутствие бессонницы в анамнезе",
         "C": "Легкая депрессия в анамнезе",
         "D": "Легкий делирий в условиях ОРИТ"
@@ -345,7 +345,7 @@
       },
       "optionsRu": {
         "A": "Внутривенное введение 120 мг метилпреднизолона",
-        "B": "Внутривенная терапия антибиотиками широкого спектра действия (broad spectrum IV antibiotics)",
+        "B": "Внутривенная терапия антибиотиками широкого спектра действия",
         "C": "Катетеризация легочной артерии",
         "D": "Электрическая кардиоверсия постоянным током"
       },
@@ -386,7 +386,7 @@
       "optionsRu": {
         "A": "Назначить антибактериальную терапию с перекрытием внутрибольничной пневмонии",
         "B": "Продолжить стандартную послеоперационную терапию и отправить кровь и плевральную жидкость на бакпосев",
-        "C": "Установить дополнительный плевральный дренаж, начать антибиотикотерапию и полностью исключить энтеральный прием (NPO) (place an additional chest tube, start antibiotics, and make the patient NPO)",
+        "C": "Установить дополнительный плевральный дренаж, начать антибиотикотерапию и полностью исключить энтеральный прием (NPO)",
         "D": "Выполнить эзофагогастродуоденоскопию (ЭГДС) и определить тактику в зависимости от тяжести выявленного повреждения"
       },
       "correctAnswer": "C",
@@ -426,7 +426,7 @@
         "A": "Вено-артериальная ЭКМО с канюляцией правого предсердия и восходящей аорты",
         "B": "Вено-артериальная ЭКМО с канюляцией бедренной артерии и бедренной вены",
         "C": "Вено-венозная ЭКМО с канюляцией внутренней яремной вены двухпросветной бикавальной канюлей",
-        "D": "Вено-венозная ЭКМО с канюляцией внутренней яремной вены и бедренной вены (veno-venous ECMO with cannulation of internal jugular vein and femoral vein)"
+        "D": "Вено-венозная ЭКМО с канюляцией внутренней яремной вены и бедренной вены"
       },
       "correctAnswer": "D",
       "explanationEn": "🎯 **Correct answer: Option D: veno-venous ECMO with cannulation of internal jugular vein and femoral vein.**\n\n### 🔬 Clinical & Pathophysiological Analysis:\n\n1. **Pathophysiology of Massive Fecal Aspiration and ARDS:**\n   * The patient experienced a **massive aspiration of fecal material** during abdominal surgery, leading to severe chemical pneumonitis and rapidly progressive **Acute Respiratory Distress Syndrome (ARDS)**, as evidenced by bilateral diffuse airspace opacities (whiteout) on CXR.\n   * She has developed refractory hypoxemia requiring maximal ventilator support (FiO2 1.0, PEEP 15 cmH2O) with extreme positional instability (desaturating to 70% with simple turning) and acute kidney injury (creatinine 3.8 mg/dL, progressive oliguria).\n   * While she is hemodynamically unstable, requiring levophed and vasopressin, this **hypotension is secondary to a combination of severe hypoxia, systemic sepsis, and high intrathoracic pressures** (PEEP of 15 cm H2O) reducing venous return. The primary organ failure is pulmonary; the heart is not in intrinsic cardiogenic shock. Therefore, **Veno-Venous (VV) ECMO** is the correct modality, not V-A ECMO (Options A & B). VV ECMO will restore oxygenation, allow the high ventilator pressures to be reduced (lung-protective ventilation / 'lung rest'), and subsequently resolve the hypoxia-induced and pressure-induced hemodynamic compromise.\n\n2. **Choosing the Cannulation Strategy: Dual-Site vs. Bi-Caval Dual-Lumen (Option D vs. Option C):**\n   * **Flow Rate Requirements in Septic Shock:** In hyperdynamic sepsis/septic shock, cardiac output is extremely high (often >8–10 L/min). To effectively oxygenate the patient and overcome the massive shunt on VV ECMO, pump flow rates must be high (typically at least 60–70% of the patient's cardiac output, i.e., 5.0–6.0 L/min). A **bi-caval dual-lumen cannula** (e.g., Avalon cannula, typically max size 31 Fr) has a physical flow limitation of ~ 4.0–4.5 L/min due to the high resistance of its dual-lumen design. In contrast, **dual-site (femoro-jugular) cannulation** (Option D) using a large femoral drainage cannula (23–25 Fr) and a jugular return cannula (17–21 Fr) can easily achieve and maintain flow rates of over 5.5–6.0 L/min.\n   * **Positional Stability:** The patient \"desaturates to 70% with simple turning,\" demonstrating extreme positional fragility. A bi-caval dual-lumen cannula requires highly precise fluoroscopic or TEE-guided positioning to align the return jet directly toward the tricuspid valve. Any simple turning or movement of the patient in the ICU can cause the cannula to migrate or rotate, leading to **severe recirculation or acute loss of flow**, causing catastrophic desaturation. **Dual-site cannulation (femoral vein and internal jugular vein)** is much more stable, less sensitive to minor shifts during patient turning/positioning, and provides reliable venous drainage.\n   * **Intervention Integration:** High stable flows with dual-site cannulation facilitate the stable integration of **continuous renal replacement therapy (CRRT)** or ultrafiltration into the circuit to manage her severe acute kidney injury and progressive oliguria.",
@@ -467,7 +467,7 @@
       "optionsRu": {
         "A": "Удаление внутриаортального баллонного контрпульсатора (IABP)",
         "B": "Трансфузия тромбоконцентрата (тромбоцитов)",
-        "C": "Продолжить текущую терапию и поддержку в условиях ОРИТ (continue current treatment and ICU support)",
+        "C": "Продолжить текущую терапию и поддержку в условиях ОРИТ",
         "D": "Назначить двойную антиагрегантную терапию (аспирин и клопидогрел)"
       },
       "correctAnswer": "C",
@@ -507,7 +507,7 @@
       "optionsRu": {
         "A": "Изолировать пациентку, продолжить текущую антибактериальную терапию и дождаться результатов анализа на токсин C. diff",
         "B": "Начать внутривенное введение ванкомицина, добавить внутривенный метронидазол и установить ректальную газоотводную трубку",
-        "C": "Начать пероральный прием ванкомицина, добавить внутривенный метронидазол, отменить цефепим и вызвать хирургов на консультацию (start oral vancomycin, add IV metronidazole, discontinue cefepime, and consult surgery)",
+        "C": "Начать пероральный прием ванкомицина, добавить внутривенный метронидазол, отменить цефепим и вызвать хирургов на консультацию",
         "D": "Выполнить экстренную ректосигмоидоскопию"
       },
       "correctAnswer": "C",
@@ -547,7 +547,7 @@
       "optionsRu": {
         "A": "Пероральный прием лоперамида",
         "B": "Внутривенное введение метронидазола",
-        "C": "Пероральный прием ванкомицина (vancomycin, administered orally)",
+        "C": "Пероральный прием ванкомицина",
         "D": "Внутривенное введение тигециклина"
       },
       "correctAnswer": "C",
@@ -583,9 +583,9 @@
         "D": "place a saphenous vein graft to the right coronary artery"
       },
       "optionsRu": {
-        "A": "Установить временный аппарат вспомогательного кровообращения правого желудочка (RVAD) (place temporary RV assist support)",
+        "A": "Установить временный аппарат вспомогательного кровообращения правого желудочка (RVAD)",
         "B": "Перейти на вено-артериальную ЭКМО (ВА-ЭКМО)",
-        "C": "Установить чрескожный правожелудочковый насос Impella™ (Impella RP)",
+        "C": "Установить чрескожный правожелудочковый насос Impella™",
         "D": "Выполнить аутовенозное аортокоронарное шунтирование правой коронарной артерии"
       },
       "correctAnswer": "A",
@@ -664,7 +664,7 @@
         "D": "history of cerebral vascular accident"
       },
       "optionsRu": {
-        "A": "Искусственная вентиляция легких продолжительностью более 48 часов (mechanical ventilation for more than 48 hours)",
+        "A": "Искусственная вентиляция легких продолжительностью более 48 часов",
         "B": "Терапия аспирином",
         "C": "Хронический прием глюкокортикоидов",
         "D": "Анамнез острого нарушения мозгового кровообращения (инсульта)"
@@ -704,8 +704,8 @@
       "optionsRu": {
         "A": "Увеличить FiO2 до 0,9",
         "B": "Увеличить PEEP до 16 см H2O",
-        "C": "Снизить дыхательный объем до 6 мл/кг идеальной массы тела (decrease tidal volume to 6 mL/kg IBW)",
-        "D": "Уменьшить скорость инспираторного потока (flow rate) до 45 л/мин"
+        "C": "Снизить дыхательный объем до 6 мл/кг идеальной массы тела",
+        "D": "Уменьшить скорость инспираторного потока до 45 л/мин"
       },
       "correctAnswer": "C",
       "explanationEn": "The correct answer is Option C: decrease tidal volume to 6 mL/kg IBW.\n\n### 🔬 Detailed Clinical and Pathophysiological Rationale\n• **Pathophysiology of Acute Respiratory Distress Syndrome (ARDS):**\n  * ARDS represents a diffuse, acute inflammatory lung injury characterized by increased microvascular permeability, alveolar-capillary barrier disruption, and interstitial/alveolar edema.\n  * This leads to a severe reduction in lung compliance (\"stiff lungs\"), widespread atelectasis, and a significant intrapulmonary shunt, manifesting as profound ventilation-perfusion (V/Q) mismatch and hypoxemia.\n  * Due to the heterogeneous nature of ARDS, only a small portion of the lungs remains aerated and available for gas exchange (known as the **\"baby lung\" concept**).\n\n• **Lung-Protective Ventilation Strategy (Why Option C is Correct):**\n  * Delivering traditional, large tidal volumes (e.g., 8.5 mL/kg or higher, as currently shown on the screen at 550 mL for this patient) to a patient with ARDS causes severe **volutrauma** (alveolar overdistention) and **barotrauma** (high peak/plateau pressures) in the remaining healthy alveoli. This triggers a localized and systemic inflammatory cascade (**biotrauma**), leading to ventilator-induced lung injury (VILI) and increased mortality.\n  * According to the landmark **ARDSNet ARMA trial** and major surgical guidelines, the gold standard strategy to reduce mortality is **Low Tidal Volume Ventilation (LTVV)**, targeting a volume of **6 mL/kg of Ideal Body Weight (IBW)**.\n  * For this 37-year-old patient, decreasing the tidal volume to 6 mL/kg IBW is the most critical next step to mitigate VILI, preserve alveolar integrity, and improve 60-day survival.\n\n• **Assessment of Current Gas Exchange and Ventilator Settings:**\n  * **Oxygenation Status:** The patient's pO2 is 63 torr (target range for ARDS is 55–80 torr) and SpO2 is 90% (target range is 88–95%) on an FiO2 of 0.50 and PEEP of 8 cm H2O. This indicates that **oxygenation is entirely adequate** and there is absolutely no need to increase FiO2 to 0.9 (Option A) or PEEP to 16 cm H2O (Option B).\n  * **Ventilation Status and Permissive Hypercapnia:** The pH is 7.32 with a pCO2 of 52 torr, representing mild respiratory acidosis. In LTVV protocols, **permissive hypercapnia** (allowing a elevated pCO2 and mild respiratory acidosis down to pH 7.25–7.30) is specifically tolerated and accepted as a safe trade-off to avoid the devastating structural injuries associated with higher tidal volumes.\n\n### ❌ Why Alternative Options are Incorrect/Dangerous:\n* 🔸 **Option A (increase FiO2 to 0.9):** The patient's oxygenation is already within the recommended target range (pO2 55–80 torr, SpO2 88–95%). Raising the FiO2 to 0.9 is unnecessary and exposes the patient to the severe risk of **hyperoxic lung injury (oxygen free-radical toxicity)** and absorption atelectasis, which would worsen ARDS.\n* 🔸 **Option B (increase PEEP to 16 cm H2O):** While PEEP is essential to keep alveoli open, an aggressive increase to 16 cm H2O is not indicated when oxygenation is already adequate on PEEP 8. High PEEP can cause alveolar overdistention, increase dead space, and severely **compromise venous return and cardiac output**, which is particularly dangerous in a patient recovering from recent major cardiac surgery (mitral valve replacement).\n* 🔸 **Option D (decrease flow rate to 45 L/min):** Adjusting the flow rate does not address the fundamental pathological threat of alveolar overdistention from high tidal volume. Decreasing the flow rate would prolong the inspiratory time, potentially causing patient-ventilator dyssynchrony and worsening auto-PEEP (air trapping).",
@@ -743,7 +743,7 @@
       },
       "optionsRu": {
         "A": "Начать ингаляцию оксида азота (iNO)",
-        "B": "Перевести пациентку в прон-позицию (положение на животе) (transition to prone position)",
+        "B": "Перевести пациентку в прон-позицию (положение на животе)",
         "C": "Снизить дыхательный объем до 5 мл/кг идеальной массы тела",
         "D": "Перевести на режим вентиляции с управляемым сбросом давления (APRV)"
       },
@@ -780,7 +780,7 @@
         "D": "administer epinephrine intramuscular"
       },
       "optionsRu": {
-        "A": "Начать вентиляцию с положительным давлением (инвазивную ИВЛ / положительное давление в дыхательных путях) (initiate positive pressure ventilation)",
+        "A": "Начать вентиляцию с положительным давлением (инвазивную ИВЛ / положительное давление в дыхательных путях)",
         "B": "Выполнить экстренный плазмаферез (плазмообмен)",
         "C": "Ввести метилпреднизолон внутривенно",
         "D": "Ввести адреналин (эпинефрин) внутримышечно"
@@ -819,10 +819,10 @@
         "D": "begin daily spontaneous breathing trials on pressure support 5 cm H2O and PEEP 5 cm H2O"
       },
       "optionsRu": {
-        "A": "Перевод на синхронизированную перемежающуюся принудительную вентиляцию (SIMV) с частотой 10/мин и поддержкой давлением (PS) 5 см H2O",
-        "B": "Перевод на вентиляцию с контролем по давлению (PCV) с движущим давлением (driving pressure) 20 см H2O и ежедневным снижением на 5 см H2O",
+        "A": "Перевод на синхронизированную перемежающуюся принудительную вентиляцию с частотой 10/мин и поддержкой давлением (PS) 5 см H2O",
+        "B": "Перевод на вентиляцию с контролем по давлению с движущим давлением 20 см H2O и ежедневным снижением на 5 см H2O",
         "C": "Начало ежедневных попыток на поддержке давлением (PS) начиная с 20 см H2O с ежедневным снижением на 5 см H2O",
-        "D": "Начало ежедневных тестов спонтанного дыхания (SBT) на поддержке давлением (PS) 5 см H2O и PEEP 5 см H2O (begin daily spontaneous breathing trials on pressure support 5 cm H2O and PEEP 5 cm H2O)"
+        "D": "Начало ежедневных тестов спонтанного дыхания на поддержке давлением (PS) 5 см H2O и PEEP 5 см H2O"
       },
       "correctAnswer": "D",
       "explanationEn": "The correct answer is Option D: begin daily spontaneous breathing trials on pressure support 5 cm H2O and PEEP 5 cm H2O.\n\n### 🔬 Detailed Clinical & Pathophysiological Rationale:\n\n1. **Pathophysiology of Ventilator Weaning:**\n   * Weaning from mechanical ventilation involves transitioning a patient from full machine support to independent breathing. Prolonged mechanical ventilation is a source of significant morbidity (diaphragmatic atrophy, ventilator-associated pneumonia, barotrauma) and mortality. Therefore, active and timely weaning is paramount as soon as standard readiness criteria are met.\n   * **Standard Weaning Readiness Criteria (All Met by This Patient):**\n     1. **Resolution of primary disease process:** The patient's hospital-acquired pneumonia is improving.\n     2. **Neurologically intact and alert:** The patient is awake, alert, and can follow commands, indicating sufficient mental status to protect the airway and initiate deep breaths.\n     3. **Adequate gas exchange & mechanics:** pH 7.37 (target 7.35–7.45), pCO2 43 torr (target 35–45), pO2 75 torr (excellent PaO2/FiO2 ratio of 187.5). Plateau pressure is 20 cmH2O (well below the safe threshold of <30 cmH2O), demonstrating preserved lung compliance.\n     4. **Hemodynamic stability:** Presumed stable post-CABG.\n     5. **Minimal secretions:** Lower risk of post-extubation airway compromise or reintubation.\n\n2. **Why Daily Spontaneous Breathing Trials (SBT) (Option D) is the Gold Standard:**\n   * **Superiority over Gradual Step-down Weaning:** Landmark clinical trials and guidelines (such as the ACCP/ATS recommendations and standard cardiac surgery references like *Bojar's 6th Edition* and *Cardiac Surgery in the Adult*) have demonstrated that a strategy of **daily or intermittent Spontaneous Breathing Trials (SBT)** is the most efficient and rapid method to achieve successful extubation.\n   * **Mechanism of SBT:** A brief trial (30 to 120 minutes) of breathing with minimal support (e.g., Pressure Support [PS] of 5 cm H2O and PEEP of 5 cm H2O) is used to simulate the workload of breathing through a normal airway. Low-level pressure support is added to overcome the resistance of the endotracheal tube itself.\n   * **Weaning Speed and Outcomes:** Directly comparing daily SBTs to stepwise rate reduction in SIMV (Option A) or gradual pressure support reduction (Option C) shows that **daily SBTs lead to successful extubation 2 to 3 times earlier**. Gradually stepping down support prolongs ventilator days and induces muscle fatigue due to sustained respiratory workloads under partial assist.\n\n### ❌ Why other options are incorrect:\n* 🔸 **Option A (synchronized intermittent mandatory ventilation - SIMV):** Stepwise weaning by gradually lowering the mandatory rate on SIMV was historically popular but has been shown in large clinical trials to be the **least effective** weaning method. It does not provide diaphragmatic rest during mandatory breaths, leads to patient-ventilator dyssynchrony, and prolongs the duration of mechanical ventilation.\n* 🔸 **Option B (transition to pressure control ventilation - PCV with driving pressure 20):** PCV is a full-support, time-cycled mode used for anesthetized or non-spontaneously breathing patients. Transitioning an alert, cooperative, and improving patient back to a full-support PC mode with stepwise daily reductions is clinically backward, unnecessary, and significantly delays liberation from the ventilator.\n* 🔸 **Option C (stepwise daily reduction of pressure support starting at 20):** Starting at a high PS of 20 cm H2O and decreasing it by 5 cm H2O daily is a slow, old-fashioned weaning method. Like SIMV weaning, this gradual step-down approach significantly prolongs the time to extubation compared to a direct, daily low-pressure SBT. If a patient is ready, they should go straight to an SBT rather than spending days on intermediate levels of pressure support.",
@@ -858,8 +858,8 @@
         "D": "decrease the flow rate to 45 L/min"
       },
       "optionsRu": {
-        "A": "Снизить частоту дыхания до 16 вдохов в минуту (decrease the respiratory rate to 16 breaths per minute)",
-        "B": "Изменить форму инспираторного потока на нисходящую (decelerating)",
+        "A": "Снизить частоту дыхания до 16 вдохов в минуту",
+        "B": "Изменить форму инспираторного потока на нисходящую",
         "C": "Увеличить дыхательный объем до 600 мл",
         "D": "Уменьшить скорость инспираторного потока до 45 л/мин"
       },
@@ -897,10 +897,10 @@
         "D": "early deflation"
       },
       "optionsRu": {
-        "A": "Позднее раздувание баллона (late inflation)",
-        "B": "Раннее раздувание баллона (early inflation)",
-        "C": "Позднее сдувание баллона (late deflation)",
-        "D": "Раннее сдувание баллона (early deflation)"
+        "A": "Позднее раздувание баллона",
+        "B": "Раннее раздувание баллона",
+        "C": "Позднее сдувание баллона",
+        "D": "Раннее сдувание баллона"
       },
       "correctAnswer": "B",
       "explanationEn": "🎯 **Correct Answer: Option B: Early balloon inflation (early inflation).**\n\n### 🔬 **Step-by-Step Clinical Waveform Analysis (IABP 1:2 Assist Mode):**\n\nThe monitor tracing illustrates the patient's arterial pressure waveform during **1:2 counterpulsation assist mode**. In this mode, every other cardiac cycle is balloon-assisted, providing an optimal internal reference to directly compare assisted beats against native unassisted beats.\n\n#### 1. Unassisted Beat Identification (Reference Baseline):\n* **Second complex on the monitor (middle):** Represents the patient's spontaneous, unassisted cardiac cycle.\n* **Native Peak Systolic Pressure:** Reaches **~ 108 mmHg**.\n* **True Dicrotic Notch:** Clearly visible on the downslope at **~ 97 mmHg**. This reflects physiological aortic valve closure and demarcates the end of left ventricular ejection and the onset of diastole.\n\n#### 2. Assisted Beat Morphology (First Complex):\n* Ventricular systole begins from a diastolic baseline of **~ 86 mmHg**.\n* The systolic upstroke rapidly ascends to a first peak of **~ 131 mmHg**.\n* At **~ 127 mmHg**, a sharp, premature notch abruptly appears—representing the instant of gas delivery and rapid balloon inflation.\n* **Pathognomonic Discrepancy:** This inflation take-off occurs at **127 mmHg**, which is markedly higher than the patient's true dicrotic notch (**~ 97 mmHg** on the adjacent unassisted beat)!\n* Consequently, the balloon is inflating prematurely during active left ventricular ejection, **well before the aortic valve has closed**.\n* Balloon inflation generates a second, higher pressure peak (**~ 138 mmHg**), forming a classic bifid/biphasic ('M'-shaped or bisferiens-like) systolic contour.\n\n---\n\n### ⚡ **Diagnostic Hallmarks & Pathophysiology of Early Inflation:**\n1. **Inflation Prior to Dicrotic Notch:** Gas delivery encroaches directly upon ventricular ejection while the aortic valve is fully open.\n2. **Biphasic Systolic Contour:** Peak 1 (~ 131 mmHg) reflects interrupted LV systole; Peak 2 (~ 138 mmHg) reflects early balloon volume displacement.\n3. **Elevated Inflation Take-off:** The inflation notch appears pathologically high on the pressure scale (+30 mmHg above the true dicrotic notch).\n4. **Afterload Paradox (Severe Hemodynamic Hazard):** Instead of systolic unloading, the LV contracts against an occluding aortic balloon:\n   * Explosive increase in left ventricular end-systolic wall tension and myocardial oxygen consumption ($\text{MVO}_2$);\n   * Premature closure of the aortic valve, reducing stroke volume (SV) and cardiac output (CO);\n   * Acute LV volume overload and worsening of mitral regurgitation.\n\n---\n\n### 🎛️ **Interactive IABP Timing Atlas & Waveform Simulator (1:2 Mode):**\n<iframe class=\"iabp-frame\" src=\"assets/interactive/iabp-atlas.html?embed=1&lang=en&show=baseline,early-inf,optimal\" style=\"width:100%; max-width:960px; height:580px; border:1px solid #1e293b; border-radius:12px; margin:16px auto; display:block;\" loading=\"lazy\"></iframe>\n\n---\n\n### 📊 **Differential Diagnosis of IABP Timing Errors:**\n\n* ❌ **Option A (Late inflation):** Inflation occurs delayed after aortic valve closure. Tracing demonstrates a blunted, widened U-shaped dicrotic notch (loss of sharp V-contour) and suboptimal peak diastolic augmentation due to runoff. It does not produce an early systolic notch or a bifid systolic peak.\n* ❌ **Option C (Late deflation):** The balloon remains inflated during the onset of the next ventricular systole. The LV must contract against the inflated balloon. Characterized by elevated balloon aortic end-diastolic pressure ($\\text{BAEDP} \\ge \\text{UAEDP}$), a slurred systolic upstroke, and elevated assisted peak systolic pressure.\n* ❌ **Option D (Early deflation):** The balloon deflates prematurely mid-diastole. Diastolic augmentation drops precipitously to baseline prior to the next systole, completely abolishing both coronary perfusion augmentation and presystolic afterload reduction (vacuum effect).\n\n---\n\n### 💡 **Board Pearl:**\n> **1:2 Assist Timing Rule:** In optimal counterpulsation timing, the inflation take-off point must align horizontally with the true dicrotic notch of the unassisted beat, forming a crisp **V-shape**. When the take-off point appears high on the systolic slope and splits systole into two peaks, it is definitively **Early Inflation**—the most hazardous timing error that requires immediate delay of the inflation trigger!",
@@ -937,7 +937,7 @@
       },
       "optionsRu": {
         "A": "Тромбоэмболии легочной артерии",
-        "B": "Рециркуляции (recirculation)",
+        "B": "Рециркуляции",
         "C": "Тромбообразования в оксигенаторе ЭКМО",
         "D": "Сброса крови справа налево на уровне предсердий"
       },
@@ -980,7 +980,7 @@
         "A": "Использование свежезамороженной плазмы исключительно в сочетании с трансфузией эритроцитарной массы",
         "B": "Определение группы крови и скрининг антител перед назначением компонентов крови",
         "C": "Переливание 2 доз эритроцитарной массы при уровне гемоглобина 7 г/дл",
-        "D": "Ассоциирована со снижением показателей летальности и финансовых затрат (associated with decreased mortality rates and costs)"
+        "D": "Ассоциирована со снижением показателей летальности и финансовых затрат"
       },
       "correctAnswer": "D",
       "explanationEn": "### 🎯 Correct Answer\nThe correct answer is **Option D: associated with decreased mortality rates and costs**.\n\n### 🔬 **Detailed Clinical & Pathophysiological Rationale:**\n*   **Pathophysiology of Allogeneic Blood Transfusions:**\n    *   Surgically transfused packed red blood cells (PRBCs) are not benign. Stored allogeneic blood undergoes significant biochemical and structural changes over time (often referred to as the \"storage lesion\"), which compromises its safety and immediate efficacy:\n        1.  *2,3-DPG Depletion:* Stored PRBCs are deficient in 2,3-diphosphoglycerate (2,3-DPG), causing a leftward shift of the oxyhemoglobin dissociation curve. This results in an increased affinity of hemoglobin for oxygen, rendering the transfused cells initially incapable of effectively releasing oxygen to ischemic tissues.\n        2.  *Reduced Deformability:* Over storage time, RBC membranes lose their flexibility, which increases capillary transit time and can lead to microvascular occlusion and worsening tissue perfusion.\n        3.  *Proinflammatory Cytokines:* Banked blood contains accumulated cytokines and bioactive lipids that are highly immunomodulatory and proinflammatory, potentially initiating or worsening systemic inflammatory response syndrome (SIRS).\n    *   Consequently, clinical studies have established a dose-dependent association between allogeneic blood transfusions and adverse postoperative clinical outcomes, including acute kidney injury (AKI), stroke, myocardial infarction, postoperative infection (e.g., surgical site infection/mediastinitis), pulmonary complications (like TRALI and TACO), longer intensive care unit (ICU) and hospital lengths of stay, as well as increased short- and long-term mortality.\n*   **The Restrictive Transfusion Strategy (Why Option D is Correct):**\n    *   Given the significant risks and public healthcare costs associated with liberal blood product usage, patient blood management (PBM) programs advocate for a **restrictive transfusion strategy**.\n    *   Landmark randomized controlled trials in cardiac surgery (such as the **TRACS** and **TRICS III** trials) as well as the classic **TRICC** trial in general intensive care have conclusively demonstrated that maintaining a lower transfusion trigger (e.g., transfusing only when hemoglobin drops below **7.0–7.5 g/dL** or hematocrit is < 21–24% in stable patients) is **safe, non-inferior to a liberal strategy**, and is **associated with significantly decreased morbidity, mortality rates, and overall healthcare costs** due to a massive reduction in the number of transfused blood units and their related complications.\n\n### ❌ **Why the Other Options are Less Appropriate:**\n*   🔸 **Option A (using fresh frozen plasma only with PRBC transfusion):** There is no physiological or clinical justification for using fresh frozen plasma (FFP) routinely with every PRBC transfusion in a stable patient. FFP should only be administered to correct documented coagulopathies with active bleeding (e.g., INR > 1.5). Prophylactic use of FFP is ineffective, increases the risk of TRALI/TACO, and is strictly avoided.\n*   🔸 **Option B (type and screen for blood products):** \"Type and screen\" is a routine pre-admission laboratory testing protocol to identify a patient's ABO/Rh group and screen for atypical antibodies. It is a standard diagnostic test, not a transfusion strategy or approach to blood product administration.\n*   🔸 **Option C (transfusion of 2 units of PRBCs for hemoglobin of 7 g/dL):** A cornerstone of the restrictive transfusion approach is to **transfuse a single unit of PRBCs at a time** and then clinically re-evaluate the patient's hemodynamic status and tissue oxygenation before considering additional transfusions. Transfusing 2 units empirically for a borderline hemoglobin level is considered a non-restrictive, liberal practice that unnecessarily doubles donor exposure and increases transfusion-related risks.",
@@ -1017,7 +1017,7 @@
       },
       "optionsRu": {
         "A": "Продолжение форсированного диуреза",
-        "B": "Внутривенная инфузия изотонического солевого раствора (isotonic IV solution)",
+        "B": "Внутривенная инфузия изотонического солевого раствора",
         "C": "Гемофильтрация",
         "D": "Внутривенное введение ацетилцистеина"
       },
@@ -1056,7 +1056,7 @@
       "optionsRu": {
         "A": "Начать периферическое парентеральное питание",
         "B": "Начать полное парентеральное питание (ППП / TPN)",
-        "C": "Начать энтеральное питание через назогастральный зонд (start enteral nutrition via nasogastric feeding tube)",
+        "C": "Начать энтеральное питание через назогастральный зонд",
         "D": "Подождать еще 3 дня перед началом нутритивной поддержки"
       },
       "correctAnswer": "C",
@@ -1095,7 +1095,7 @@
       "optionsRu": {
         "A": "Увеличить PEEP на аппарате ИВЛ",
         "B": "Ввести болюс фуросемида",
-        "C": "Установить дренаж (вент) левого желудочка (place a left ventricular vent)",
+        "C": "Установить дренаж (вент) левого желудочка",
         "D": "Выполнить репозицию дренажной канюли ЭКМО"
       },
       "correctAnswer": "C",
@@ -1140,7 +1140,7 @@
       "optionsRu": {
         "A": "Экстренная коронароангиография",
         "B": "Внутривенное введение сульфата магния",
-        "C": "Удаление (подтягивание) катетера легочной артерии (removal of the pulmonary artery catheter)",
+        "C": "Удаление (подтягивание) катетера легочной артерии",
         "D": "Внутривенное введение метопролола"
       },
       "correctAnswer": "C",
@@ -1178,7 +1178,7 @@
         "A": "Синдром системного воспалительного ответа (SIRS)",
         "B": "Злокачественный нейролептический синдром (ЗНС)",
         "C": "Злокачественная гипертермия",
-        "D": "Серотониновый синдром (serotonin syndrome)"
+        "D": "Серотониновый синдром"
       },
       "correctAnswer": "D",
       "explanationEn": "<h3>🎯 Correct Answer</h3><p>The correct answer is <b>D: serotonin syndrome</b>.</p><br><h3>🔬 <b>Detailed Clinical and Pathophysiological Rationale:</b></h3><p>This vignette illustrates a classic and life-threatening drug-drug interaction in the cardiothoracic ICU involving <b>methylene blue</b> and selective serotonin reuptake inhibitors (SSRIs) such as <b>sertraline</b>.</p><ol><li><b>Vasoplegic Syndrome Post-CPB and Methylene Blue Use:</b><br>Following cardiopulmonary bypass (CPB), particularly in operations for constrictive pericarditis or endocarditis, patients may develop profound refractory vasoplegia (high cardiac index > 3.0 L/min/m², low systemic vascular resistance, low MAP). Methylene blue is a potent inhibitor of <b>inducible nitric oxide synthase (iNOS)</b> and <b>soluble guanylate cyclase (sGC)</b>, effectively restoring vascular tone when standard adrenergic vasopressors (norepinephrine, vasopressin) fail.</li><li><b>Mechanism of Drug Interaction (Methylene Blue as a MAOI):</b><br>Methylene blue is structurally a phenothiazine derivative and functions as a potent, reversible <b>monoamine oxidase A (MAO-A) inhibitor</b>. When IV methylene blue is administered to a patient actively taking or recently exposed to serotonin reuptake inhibitors (SSRIs like sertraline, fluoxetine, or SNRIs/tricyclics), MAO-A inhibition blocks the breakdown of central and peripheral serotonin. Concurrently, SSRIs block serotonin reuptake into presynaptic neurons. This dual mechanism leads to a massive, toxic accumulation of serotonin at central 5-HT1A and 5-HT2A receptors, triggering <b>Serotonin Syndrome</b>.</li><li><b>Clinical Presentation of Serotonin Syndrome:</b><br>Serotonin toxicity manifests as a clinical triad:<ul><li><b>Autonomic Instability:</b> Severe hyperpyrexia / hyperthermia (often > 41°C), hypertension, tachycardia, diaphoresis, and uncharacteristic labile blood pressures.</li><li><b>Neuromuscular Excitability:</b> Hyper-reflexia, inducible or spontaneous clonus, ocular clonus, tremor, and rigidity (typically more pronounced in the lower extremities). <b>Hyper-reflexia and clonus</b> are pathognomonic markers that distinguish Serotonin Syndrome from other hyperthermic states.</li><li><b>Altered Mental Status:</b> Agitation, confusion, delirium, or coma.</li></ul></li></ol><h3>❌ <b>Why the Other Options are Incorrect:</b></h3><ul><li>❌ <b>Option A (SIRS):</b> While SIRS can cause fever and vasoplegia, it does not typically produce hyperpyrexia to 41.1°C with neuromuscular hyper-reflexia and hypertension within 4 hours of methylene blue administration.</li><li>❌ <b>Option B (Neuroleptic Malignant Syndrome - NMS):</b> NMS is caused by dopamine receptor antagonists (antipsychotics like haloperidol). It is characterized by severe 'lead-pipe' muscle rigidity, hyporeflexia (or normal reflexes), bradykinesia, and hyperthermia, taking days to weeks to develop, distinct from the rapid onset, hyper-reflexia, and clonus seen in Serotonin Syndrome.</li><li>❌ <b>Option C (Malignant Hyperthermia - MH):</b> MH is triggered by volatile inhalational anesthetics (e.g., isoflurane, sevoflurane) or depolarizing muscle relaxants (succinylcholine) in the operating room. MH causes masseter muscle spasm, severe hypercapnia (rising EtCO2), rhabdomyolysis, and hyperthermia during or immediately after anesthesia, not 4 hours post-methylene blue infusion in the ICU.</li></ul><h3>📚 <b>Board Pearl:</b></h3><p><mark style=\"background:#2ecc71;color:#fff\">For cardiac surgery boards, remember: <b>Methylene Blue is a MAOI</b>. Administering IV methylene blue for vasoplegic syndrome in a patient taking an <b>SSRI (sertraline, fluoxetine)</b> precipitates life-threatening <b>Serotonin Syndrome</b> (hyperpyrexia > 41°C, hyper-reflexia, clonus, hypertension). Always perform a psychiatric medication reconciliation before using methylene blue!</mark></p>",
@@ -1212,7 +1212,7 @@
         "D": "initiation of intravenous immune globulin (IVIG), administration of edrophonium, and cessation of pyridostigmine"
       },
       "optionsRu": {
-        "A": "Начало плазмафереза (плазмообмена), высоких доз глюкокортикоидов и отмена пиридостигмина (initiation of plasma exchange [plasmapheresis], high dose glucocorticoids, and cessation of pyridostigmine)",
+        "A": "Начало плазмафереза (плазмообмена), высоких доз глюкокортикоидов и отмена пиридостигмина",
         "B": "Начало плазмафереза, высоких доз глюкокортикоидов и продолжение приема пиридостигмина",
         "C": "Назначение внутривенного иммуноглобулина (ВВИГ), проведение плазмафереза и введение эдрофония",
         "D": "Назначение внутривенного иммуноглобулина (ВВИГ), введение эдрофония и отмена пиридостигмина"
@@ -1252,9 +1252,9 @@
       },
       "optionsRu": {
         "A": "Экстренная открытая хирургическая эмболэктомия",
-        "B": "Катетер-направленный тромболизис (catheter-directed thrombolysis)",
+        "B": "Катетер-направленный тромболизис",
         "C": "Системная тромболитическая терапия",
-        "D": "Системная терапия гепарином (systemic heparin therapy)"
+        "D": "Системная терапия гепарином"
       },
       "correctAnswer": "D",
       "explanationEn": "<h3>🎯 Correct Answer</h3><p>The correct answer is <b>D: systemic heparin therapy</b>.</p><br><h3>🔬 <b>Detailed Clinical and Pathophysiological Rationale:</b></h3><p>This vignette presents a patient with acute <b>submassive (intermediate-risk) pulmonary embolism (PE)</b>.</p><ol><li><b>Hemodynamic Stratification of Pulmonary Embolism:</b><br>Acute PE is classified into risk categories based on hemodynamic stability and evidence of right ventricular (RV) dysfunction:<ul><li><b>Massive (High-Risk) PE:</b> Defined by <i>hemodynamic instability</i>—persistent hypotension (systolic blood pressure < 90 mmHg, or a drop in SBP ≥ 40 mmHg for > 15 minutes), obstructive cardiogenic shock, or cardiac arrest.</li><li><b>Submassive (Intermediate-Risk) PE:</b> Defined by <i>hemodynamic stability</i> (systolic blood pressure ≥ 90 mmHg, as seen in this patient with BP 100/60 mmHg) combined with evidence of <b>RV dysfunction</b> (RV strain/dilation on CT angiogram or echocardiogram, or elevated cardiac biomarkers like troponin/BNP).</li><li><b>Low-Risk PE:</b> Hemodynamically stable without evidence of RV strain or elevated biomarkers.</li></ul></li><li><b>First-Line Management for Submassive PE (Systemic Heparin Therapy):</b><br>The cornerstone and immediate first-line management for hemodynamically stable submassive PE is <b>parenteral anticoagulation with systemic heparin (unfractionated or low-molecular-weight heparin) [Option D]</b>.<br>Anticoagulation halts thrombus propagation, prevents recurrent embolization, and allows endogenous fibrinolytic mechanisms to gradually dissolve the clot.</li><li><b>Why Routine Systemic Thrombolysis (Option C) is Contraindicated:</b><br>While systemic thrombolytic therapy (e.g., tPA) rapidly dissolves thrombi and reduces pulmonary artery pressures, landmark clinical trials demonstrated that routine systemic fibrinolysis in intermediate-risk PE does <i>not</i> improve overall mortality compared to heparin alone. Furthermore, systemic thrombolysis causes a unacceptably high rate of <b>major bleeding (11.5% vs. 2.4%)</b> and <b>intracranial hemorrhage / hemorrhagic stroke (2.0% vs. 0.2%)</b>. Consequently, guidelines explicitly recommend <b>against</b> routine systemic thrombolysis in normotensive submassive PE. Fibrinolysis is strictly reserved as 'rescue therapy' if the patient develops hemodynamic deterioration (SBP < 90 mmHg) while on anticoagulation.</li><li><b>Why Catheter-Directed Thrombolysis (Option B) is Not First-Line:</b><br>Catheter-directed therapies (CDT or ultrasound-assisted thrombolysis) are emerging modalities that use lower doses of tPA to reduce bleeding risk. However, current guidelines do not recommend CDT over standard systemic heparin as first-line therapy for all stable submassive PE patients. CDT is reserved for select patients who show signs of clinical decompensation or when systemic thrombolysis is contraindicated.</li><li><b>Why Emergent Surgical Embolectomy (Option A) is Incorrect:</b><br>Open surgical embolectomy on cardiopulmonary bypass is indicated for <b>massive PE with hemodynamic collapse</b>, particularly when systemic thrombolysis has failed or is strictly contraindicated (e.g., recent intracranial hemorrhage, major surgery). It is not indicated for a hemodynamically stable patient.</li></ol><h3>📚 <b>Board Pearl:</b></h3><p><mark style=\"background:#2ecc71;color:#fff\">On cardiology and critical care board exams, remember: <b>Normotensive PE + RV Strain (Submassive PE) = Systemic Heparin Therapy (Option D)</b>. Do NOT routinely administer systemic thrombolysis or proceed to invasive interventions in a normotensive patient (BP ≥ 90 mmHg), because trials showed that systemic thrombolysis in submassive PE significantly increases major bleeding and intracranial hemorrhage without improving survival.</mark></p><h3>🔥 <b>Mnemonic / Memory Aid:</b></h3><p>Remember the management strategy with <b>\"S-T-A-B-L-E\"</b>:</p><ul><li><b>S</b> — <b>S</b>ubmassive PE = Normotensive (SBP ≥ 90 mmHg) with RV strain.</li><li><b>T</b> — <b>T</b>herapy of choice is systemic <b>Heparin</b> anticoagulation (Option D).</li><li><b>A</b> — <b>A</b>void routine systemic thrombolysis due to intracranial hemorrhage risk.</li><li><b>B</b> — <b>B</b>lood pressure < 90 mmHg (Massive PE) is required before giving tPA.</li><li><b>L</b> — <b>L</b>ow-dose catheter-directed therapy (Option B) is reserved for decompensating cases.</li><li><b>E</b> — <b>E</b>mbolectomy (Option A) is saved for massive PE with collapse or tPA contraindications.</li></ul>",
@@ -1291,7 +1291,7 @@
       "optionsRu": {
         "A": "Дополнительно раздуть манжету трахеостомической трубки",
         "B": "Удалить трахеостомическую трубку и выполнить оротрахеальную реинтубацию",
-        "C": "Фибробронхоскопия (flexible bronchoscopy)",
+        "C": "Фибробронхоскопия",
         "D": "Заменить трахеостомическую трубку на трубку с удлиненным проксимальным коленом"
       },
       "correctAnswer": "C",
@@ -1328,8 +1328,8 @@
         "D": "the impact of the negative climate due to the high-risk nature of the procedures when compared with other lower-risk surgical teams"
       },
       "optionsRu": {
-        "A": "принципом признания системных факторов ошибок при создании полностью безнаказанной («blame-free») среды",
-        "B": "несоответствием концепции «стерильной кабины» («sterile cockpit») профилю когнитивной нагрузки членов кардиоторакальной бригады (lack of congruence of the “sterile cockpit” approach to the cognitive load on members of the cardiothoracic team)",
+        "A": "принципом признания системных факторов ошибок при создании полностью безнаказанной среды",
+        "B": "несоответствием концепции «стерильной кабины» профилю когнитивной нагрузки членов кардиоторакальной бригады",
         "C": "размытыми (открытыми) границами допустимого поведения для облегчения командной работы",
         "D": "преобладанием негативного климата в связи с высоким риском процедур по сравнению с хирургическими бригадами низкого риска"
       },
@@ -1366,7 +1366,7 @@
       "optionsRu": {
         "A": "предоставление заявителю возможности активно участвовать в расследовании инцидента",
         "B": "акцентирование внимания на механизме восстановления (устранения сбоя) при инциденте типа «near miss»",
-        "C": "обязательное использование таксономий ошибок, отслеживающих причинно-следственную связь от активного отказа к латентной ошибке (require error taxonomies tracing the causal path from active failure to latent error)",
+        "C": "обязательное использование таксономий ошибок, отслеживающих причинно-следственную связь от активного отказа к латентной ошибке",
         "D": "использование формата регистрации инцидентов «near miss», принятого в авиационной индустрии"
       },
       "correctAnswer": "C",
@@ -1401,7 +1401,7 @@
         "D": "synchronized cardioversion"
       },
       "optionsRu": {
-        "A": "внутривенный бета-блокатор (intravenous beta blocker)",
+        "A": "внутривенный бета-блокатор",
         "B": "внутривенный дигоксин",
         "C": "амиодарон перорально",
         "D": "синхронизированная кардиоверсия"
@@ -1444,7 +1444,7 @@
       },
       "optionsRu": {
         "A": "экстренная коронарография",
-        "B": "экстренная реторакотомия / ревизия средостения (emergent mediastinal re-exploration)",
+        "B": "экстренная реторакотомия / ревизия средостения",
         "C": "дренирование левой плевральной полости",
         "D": "введение системного гепарина и КТ-ангиография легких по протоколу ТЭЛА"
       },
@@ -1487,7 +1487,7 @@
         "A": "экстренная коронарография с чрескожным коронарным вмешательством (ЧКВ)",
         "B": "имплантация внутриаортального баллонного контрпульсатора и интенсивная медикаментозная терапия инотропами и вазопрессорами",
         "C": "возобновление ИК для отдыха миокарда на 30 минут с повторной попыткой схождения",
-        "D": "ревизия швов аннулопластического кольца и оценка показаний к аортокоронарному шунтированию (revision of annuloplasty stitches and assess the need for coronary bypass)"
+        "D": "ревизия швов аннулопластического кольца и оценка показаний к аортокоронарному шунтированию"
       },
       "correctAnswer": "D",
       "explanationEn": "🎯 <b>Correct Answer: Option D: revision of annuloplasty stitches and assess the need for coronary bypass.</b><br><br>🔵 <b>Detailed Surgical Anatomy and Pathophysiological Analysis:</b><br>Iatrogenic injury, tethering, kinking, or direct needle transfixion of the <b>left circumflex coronary artery (LCx)</b> is one of the most perilous intraoperative mechanical catastrophes during mitral valve surgery. The LCx traverses the epicardial fat within the left atrioventricular groove, running in extremely close proximity (frequently within 1.5–4.0 mm) to the anterolateral commissure and the lateral segment of the posterior mitral annulus (segment P1).<br><br>1️⃣ <b>The Lethal Hazard of Left-Dominant Coronary Anatomy:</b><br>• In a standard right-dominant circulation (~ 85% of individuals), the LCx terminates as obtuse marginal branches, while the posterior descending artery (PDA) arises from the right coronary artery (RCA).<br>• In a <mark style=\"background:#ffff00;color:#000\"><b>left-dominant coronary circulation</b></mark> (~ 10%–12% of individuals), the LCx is exceptionally large, wrapping entirely around the posterior atrioventricular groove to give rise to the posterior descending and posterolateral arteries. Consequently, the LCx supplies <b>100% of the inferolateral, inferior, and posterior basilar ventricular myocardium</b>.<br>• When anchoring sutures for the annuloplasty ring (or partial band) are placed along the anterolateral commissure or P1/P2 junction, a deep suture pass can inadvertently encircle, snare, or compress the main LCx trunk.<br>• <i>Clinical Presentation:</i> Acute profound transmural ischemia manifests the moment the aortic cross-clamp is removed and cardiopulmonary bypass is weaned: marked inferior ST-segment elevations (leads II, III, aVF), new severe regional inferolateral hypokinesis/akinesis on TEE, low cardiac output, and refractory systemic hypotension ($81/50$ mmHg).<br><br>2️⃣ <b>Immediate Operating Room Strategy (Why Option D is correct):</b><br>• Because the chest is already wide open, the heart exposed, and cannulae in situ, the correct algorithm is immediate full re-institution of cardiopulmonary bypass and prompt mechanical action:<br>  1. Re-cross-clamp the aorta, administer arrest/cardioplegia, reopen the left atriotomy, and systematically <mark style=\"background:#2ecc71;color:#fff\"><b>cut and revise the suspicious lateral annuloplasty sutures (Option D)</b></mark>;<br>  2. If the artery was directly transfixed, lacerated, or thrombosis has supervened, perform immediate emergency <b>coronary artery bypass grafting (CABG)</b> to the obtuse marginal / circumflex system (using a saphenous vein graft from the ascending aorta).<br><br>3️⃣ <b>Why other options are categorically incorrect:</b><br>• <span style=\"color:#e74c3c\"><b>Emergent coronary angiogram with PCI (Option A):</b></span> Transporting an unstable, cannulated post-bypass patient across the hospital to the cardiac catheterization laboratory is dangerously inappropriate. Furthermore, balloon angioplasty and stenting cannot overcome a rigid, full-thickness surgical ligature or transmural suture strangling the external epicardial lumen of the vessel.<br>• <span style=\"color:#e74c3c\"><b>Insert intra-aortic balloon pump and resuscitate (Option B):</b></span> Medical management and mechanical counterpulsation cannot restore blood flow across an absolute mechanical coronary occlusion. Relying on pharmacotherapy guarantees massive, irreversible transmural myocardial infarction and cardiogenic shock.<br>• <span style=\"color:#e74c3c\"><b>Re-institute CPB to rest the heart for 30 minutes (Option C):</b></span> Passive resting on bypass without addressing the underlying physical mechanical obstruction will not restore distal coronary perfusion and simply prolongs ischemic injury and bypass coagulopathy.<br><br>🧠 <b>Board Pearl:</b><br>Mitral Valve Repair/Annuloplasty + <b>Left Dominant Circulation</b> ➡️ Weaning from CPB with <b>Inferior ST elevation + Inferior wall akinesis + Hypotension</b> ➡️ Diagnostic culprit: <b>Iatrogenic Left Circumflex (LCx) suture entrapment</b>! ➡️ Action: <b>Re-institute CPB immediately + Revise/cut lateral annuloplasty sutures ± perform emergency CABG to OM/LCx (Option D)</b>! ➡️ Never send to cath lab for PCI (Option A ❌) — an external surgical suture cannot be stented open!<br><br>🔥 <b>Mnemonic Rule «C-I-R-C-L-E»:</b><br>• <b>C</b> — <b>C</b>ircumflex artery runs millimeters from the anterolateral mitral annulus.<br>• <b>I</b> — <b>I</b>nferior ST elevation on ECG signals complete LCx occlusion.<br>• <b>R</b> — <b>R</b>evision of suspicious lateral annuloplasty sutures is the immediate priority (<b>Option D</b>).<br>• <b>C</b> — <b>C</b>ABG to the obtuse marginal branches if releasing sutures fails to restore flow.<br>• <b>L</b> — <b>L</b>eft dominance places the entire inferior wall at the mercy of the LCx.<br>• <b>E</b> — <b>E</b>xternal suture ligature cannot be treated with endovascular stents (Option A ❌).",
@@ -1527,7 +1527,7 @@
         "A": "инфузия амиодарона с последующей кардиоверсией разрядом 200 Дж",
         "B": "антиагрегантная терапия аспирином и клопидогрелом с последующей кардиоверсией через 2 недели",
         "C": "кардиоверсия в течение 24 часов с последующей антикоагуляцией гепарином",
-        "D": "инфузия гепарина с переходом на варфарин («bridge-терапия») и кардиоверсия под контролем чреспищеводной эхокардиографии (heparin drip bridge to warfarin and transesophageal-guided cardioversion)"
+        "D": "инфузия гепарина с переходом на варфарин («bridge-терапия») и кардиоверсия под контролем чреспищеводной эхокардиографии"
       },
       "correctAnswer": "D",
       "explanationEn": "🎯 <b>Correct Answer: Option D: heparin drip bridge to warfarin and transesophageal-guided cardioversion.</b><br><br>🔵 <b>Detailed Clinical and Thromboembolic Risk Stratification:</b><br>Postoperative atrial fibrillation (POAF) persisting beyond 48 hours introduces significant risks of left atrial appendage (LAA) stasis and thrombus formation. Once an episode of atrial fibrillation exceeds the <b>48-hour threshold</b>, the paradigm of acute rhythm conversion dramatically changes: thromboembolic prevention supersedes immediate restoration of sinus rhythm.<br><br>1️⃣ <b>Stroke Risk Assessment and the 48-Hour Threshold:</b><br>• This patient presents with multiple substantial risk factors for cardioembolic stroke:<br>  - Prior transient ischemic attack (TIA) / stroke: <b>2 points</b>;<br>  - Female sex: <b>1 point</b>;<br>  - Age ≥ 65 years: <b>1 point</b>;<br>  - Vascular disease (CABG / coronary disease): <b>1 point</b>.<br>• Her calculated score is <mark style=\"background:#ffff00;color:#000\"><b>CHA₂DS₂-VASc = 5</b></mark>, placing her in the highest category for thromboembolic stroke (annual stroke risk $> 6.7\\%$ without therapeutic anticoagulation).<br>• Because her atrial fibrillation has persisted for <mark style=\"background:#ffff00;color:#000\"><b>over 72 hours</b></mark>, any unshielded conversion to sinus rhythm (whether via pharmacologic agents such as amiodarone or direct electrical cardioversion) will restore mechanical atrial kick and forceful LAA contractions. If a thrombus has organized within the fibrillating appendage, it will be ejected directly into the aorta, causing a devastating embolic cerebrovascular accident.<br><br>2️⃣ <b>The TEE-Guided Cardioversion Pathway (Why Option D is correct):</b><br>• Per STS, ACC/AHA, and ESC clinical guidelines, there are two safe approaches to cardioverting AF present for $>48$ hours:<br>  1. <i>Conventional Strategy:</i> Therapeutic oral anticoagulation for at least 3 consecutive weeks prior to cardioversion, followed by 4 weeks of post-cardioversion anticoagulation;<br>  2. <i>Accelerated TEE-Guided Strategy:</i> Initiate systemic anticoagulation immediately (IV unfractionated heparin infusion bridged to warfarin, or therapeutic DOAC) and perform a <mark style=\"background:#2ecc71;color:#fff\"><b>transesophageal echocardiogram (TEE) to definitively rule out intra-atrial and LAA thrombus (Option D)</b></mark>. If TEE excludes thrombus, synchronized electrical or pharmacologic cardioversion can be performed safely without waiting weeks, followed by maintenance systemic anticoagulation for at least 4 weeks.<br><br>3️⃣ <b>Why other options are categorically incorrect:</b><br>• <span style=\"color:#e74c3c\"><b>Amiodarone infusion, followed by cardioversion with 200 J (Option A):</b></span> Performing cardioversion without prior exclusion of intracardiac thrombi via TEE or prior therapeutic anticoagulation in a patient with AF present for $>72$ hours and a prior TIA carries an unacceptably high risk of acute embolic stroke.<br>• <span style=\"color:#e74c3c\"><b>Anticoagulation with aspirin and clopidogrel, then cardioversion (Option B):</b></span> Antiplatelet agents (aspirin, clopidogrel) are completely ineffective and contraindicated for stroke prevention in atrial fibrillation compared to therapeutic systemic anticoagulants (heparin, warfarin, DOACs). Furthermore, waiting only 2 weeks on antiplatelets provides zero protection against LAA thrombi.<br>• <span style=\"color:#e74c3c\"><b>Cardioversion within 24 hours, followed by anticoagulation with heparin (Option C):</b></span> Postponing systemic anticoagulation until *after* the cardioversion procedure is backwards and hazardous. Atrial stunning following cardioversion persists for hours to weeks, creating peak thrombogenic conditions immediately post-shock.<br><br>🧠 <b>Board Pearl:</b><br>Post-CABG AF persisting >48–72 hours + Prior TIA (CHA₂DS₂-VASc ≥ 4–5) ➡️ <b>NEVER attempt unshielded cardioversion (Option A ❌, Option C ❌)</b>! ➡️ Restoring sinus rhythm will dislodge LAA thrombi! ➡️ Strategy of choice: <mark style=\"background:#2ecc71;color:#fff\"><b>Systemic Anticoagulation (Heparin bridge to Warfarin) + TEE-guided Cardioversion (Option D)</b></mark>! ➡️ Aspirin + Plavix (Option B ❌) is useless for AF thromboembolism prevention!<br><br>🔥 <b>Mnemonic Rule «S-T-R-O-K-E»:</b><br>• <b>S</b> — <b>S</b>eventy-two hours of AF creates an imminent risk of LAA clot formation.<br>• <b>T</b> — <b>T</b>EE is mandatory before cardioversion to rule out intra-atrial thrombus (<b>Option D</b>).<br>• <b>R</b> — <b>R</b>apid rhythm conversion without imaging risks fatal cerebral embolization.<br>• <b>O</b> — <b>O</b>ral antiplatelets (Option B ❌) do not protect against cardiogenic thrombi.<br>• <b>K</b> — <b>K</b>eep heparin infusion running to achieve immediate therapeutic anticoagulation.<br>• <b>E</b> — <b>E</b>lectrical shock without prior TEE (Option A ❌) is medical negligence in AF >48 hrs.",
@@ -1566,7 +1566,7 @@
         "A": "эндоскопическая установка покрытого стента в пищевод",
         "B": "рентгеноскопия пищевода с водорастворимым контрастом (гастрографином) или барием",
         "C": "повторная КТ с внутривенным контрастированием через 24 часа",
-        "D": "экстренное хирургическое вмешательство (urgent surgical repair)"
+        "D": "экстренное хирургическое вмешательство"
       },
       "correctAnswer": "D",
       "explanationEn": "🎯 <b>Correct Answer: Option D: urgent surgical repair.</b><br><br>🔵 <b>Detailed Clinical, Anatomical, and Surgical Pathophysiology:</b><br>The combination of retrosternal/epigastric chest pain, vomiting, and acute multifocal neurological deficits (left hemiparesis, numbness, transient visual scotomas) occurring <b>2 to 6 weeks following catheter ablation (radiofrequency or cryoballoon)</b> for atrial fibrillation is the hallmark clinical presentation of an <b>atrio-esophageal fistula (AEF)</b>.<br><br>1️⃣ <b>Anatomical Vulnerability and Mechanism of Injury:</b><br>• The anterior esophageal wall lies in direct, intimate contact with the posterior wall of the left atrium, separated only by a thin fibrofatty tissue layer (often <mark style=\"background:#ffff00;color:#000\"><b>only 2 to 4 mm thick</b></mark>) and the oblique pericardial sinus.<br>• Energy transmission during pulmonary vein isolation can induce transmural coagulation necrosis of the thin posterior atrial wall and ischemic thermal ulceration of the adjacent anterior esophageal mucosa.<br>• Over a 2- to 4-week latency window, enzymatic digestion and bacterial transudation erode the necrotic tissue bridge, establishing a direct, high-pressure communication between the non-sterile, air-filled esophageal lumen and the systemic left atrial chamber.<br>• <i>Genesis of Neurological Symptoms:</i> Every act of swallowing, coughing, or esophageal peristalsis pushes unsterile intraluminal air and septic particulate microthrombi directly into the pulmonary venous atrium. These are immediately pumped into the systemic circulation, causing <b>diffuse cerebral and coronary air/septic microembolization</b>.<br><br>2️⃣ <b>The Lethal Hazard of Endoscopy and Oral Contrast (Strict Contraindications):</b><br>• <span style=\"color:#e74c3c\"><b>Gastrograffin/barium esophagram (Option B)</b></span> and <b>esophagogastroduodenoscopy (EGD)</b> are <mark style=\"background:#e74c3c;color:#fff\"><b>ABSOLUTELY CONTRAINDICATED</b></mark> in suspected AEF!<br>• Positive-pressure pneumatic air insufflation during endoscopy or swallowing radiopaque contrast forces massive, catastrophic volumes of gas directly across the fistula into the left atrium and left ventricle, provoking immediate total cerebral air embolization, stroke, or fatal cardiac arrest.<br>• Endoscopic manipulation also risks mechanical disruption of fragile, thrombotic sealing, triggering exsanguinating hematemesis.<br><br>3️⃣ <b>Definitive Life-Saving Surgical Intervention (Why Option D is correct):</b><br>• As soon as AEF is suspected or identified on CT (which typically demonstrates pneumomediastinum, air within the left atrium, or thickened tissue planes between the esophagus and posterior LA), the patient must be placed on strict NPO, started on broad-spectrum intravenous antibiotics, and taken immediately for <mark style=\"background:#2ecc71;color:#fff\"><b>urgent surgical repair on cardiopulmonary bypass (Option D)</b></mark>.<br>• <i>Surgical Approach:</i> Typically involves median sternotomy with CPB (allowing de-airing, direct inspection, debridement, and primary or patch repair of the left atrial defect using autologous/bovine pericardium), combined with right thoracotomy or laparotomy for esophageal diversion/stent/patching with an intercostal muscle flap or vascularized omental flap interposed between the cardiac and esophageal repair lines.<br>• <span style=\"color:#e74c3c\"><b>Endoscopic stent placement (Option A):</b></span> Esophageal covered stenting without open cardiac repair is associated with an abysmal mortality rate (>60%–80%) and high procedural failure, as it does not control the high-pressure cardiac side of the fistula and endoscopy itself carries extreme air embolism risk.<br>• <span style=\"color:#e74c3c\"><b>Repeat CT with contrast in 24 hours (Option C):</b></span> A watchful-waiting approach is fatal; mortality exceeds 80% without immediate surgical intervention.<br><br>🧠 <b>Board Pearl:</b><br>Post-AF ablation (2–6 weeks) + Chest pain/fever + <b>Acute neurological signs (arm weakness, visual defects)</b> ➡️ <b>Atrio-Esophageal Fistula (AEF) until proven otherwise</b>! ➡️ Neurological deficits = Air and septic emboli from esophagus into the left atrium! ➡️ <mark style=\"background:#e74c3c;color:#fff\"><b>NEVER perform EGD or Barium Swallow (Option B ❌)</b></mark> ➔ air insufflation causes massive fatal cerebral air embolus! ➡️ Definitive treatment: <b>Immediate broad-spectrum antibiotics + Urgent Surgical Repair on CPB with tissue flap interposition (Option D)</b>!<br><br>🔥 <b>Mnemonic Rule «F-I-S-T-U-L-A»:</b><br>• <b>F</b> — <b>F</b>our weeks post-ablation is the peak presentation window.<br>• <b>I</b> — <b>I</b>nsufflation of air (EGD / Esophagram — Option B ❌) is strictly contraindicated and fatal.<br>• <b>S</b> — <b>S</b>troke / neurological deficits arise from direct air and septic emboli entering the LA.<br>• <b>T</b> — <b>T</b>horacotomy/sternotomy with surgical patch repair + omental/muscle flap interposition.<br>• <b>U</b> — <b>U</b>rgent surgical repair (<b>Option D</b>) is the only therapy that achieves survival.<br>• <b>L</b> — <b>L</b>ack of efficacy of esophageal stents (Option A ❌): mortality exceeds 70%–80%.<br>• <b>A</b> — <b>A</b>ir seen in the mediastinum or LA on CT confirms the diagnosis.",
@@ -1603,7 +1603,7 @@
         "D": "transfuse 1 unit of pRBCs"
       },
       "optionsRu": {
-        "A": "введение 2 л раствора Рингера лактата и альбумина (administer 2 L lactated ringers and albumin)",
+        "A": "введение 2 л раствора Рингера лактата и альбумина",
         "B": "назначение гидрокортизона 200 мг/сут",
         "C": "начало инфузии вазопрессина в дозе 0,03 Ед/мин",
         "D": "трансфузия 1 дозы эритроцитарной массы"
@@ -1680,10 +1680,10 @@
         "D": "ultrasound duplex"
       },
       "optionsRu": {
-        "A": "лодыжечно-плечевой индекс (ankle brachial index)",
+        "A": "лодыжечно-плечевой индекс",
         "B": "КТ-венография",
-        "C": "ультразвуковое картирование большой подкожной вены (saphenous vein mapping)",
-        "D": "дуплексное ультразвуковое сканирование вен (ultrasound duplex)"
+        "C": "ультразвуковое картирование большой подкожной вены",
+        "D": "дуплексное ультразвуковое сканирование вен"
       },
       "correctAnswer": "D",
       "explanationEn": "🎯 <b>Correct Answer: Option D: ultrasound duplex.</b><br><br>🔵 <b>Detailed Clinical and Preoperative Vascular Risk Assessment:</b><br>Patients scheduled for surgical coronary revascularization (CABG) who present with bilateral lower-extremity swelling, advanced multimorbidity (diabetes, morbid obesity, COPD), and an established past history of deep venous thrombosis (DVT) represent an extraordinarily high-risk cohort for active, asymptomatic, or recurrent deep venous thromboembolism (VTE).<br><br>1️⃣ <b>Venous Duplex Ultrasound as the Modality of Choice (Why Option D is correct):</b><br>• The presence of bilateral 2+ pedal edema in an obese patient with a remote history of DVT mandates rule-out of active deep venous thrombosis prior to surgery.<br>• Unrecognized DVT prior to median sternotomy and cardiopulmonary bypass carries disastrous consequences: mechanical intraoperative compression or systemic vascular shifts can precipitate massive, fatal perioperative pulmonary embolism (PE), and manipulating or harvesting lower-extremity vessels in an actively thrombosed limb exacerbates systemic embolization and severe phlegmasia.<br>• <mark style=\"background:#2ecc71;color:#fff\"><b>Complete lower extremity venous ultrasound duplex (Option D)</b></mark> is the definitive, non-invasive gold standard test. Combining B-mode compression ultrasonography with spectral and color Doppler evaluates vein compressibility, intraluminal echoes, and respiratory phasicity from the iliofemoral down through the popliteal and calf veins with >95% sensitivity and specificity, without exposing the patient to radiation or nephrotoxic agents.<br><br>2️⃣ <b>Why other options are categorically incorrect:</b><br>• <span style=\"color:#e74c3c\"><b>Ankle brachial index (Option A):</b></span> ABI evaluates macrovascular arterial occlusive disease, not the venous architecture. Furthermore, in long-standing uncontrolled diabetes with end-stage renal insufficiency, medial arterial calcification (Mönckeberg sclerosis) renders tibial arteries non-compressible, producing falsely elevated, unreliable ABI readings (>1.3–1.4).<br>• <span style=\"color:#e74c3c\"><b>CT venography (Option B):</b></span> CT venography requires a large bolus of iodinated intravascular contrast medium. In a patient with baseline chronic renal insufficiency and diabetic nephropathy, this poses a catastrophic risk of contrast-induced acute kidney injury (CI-AKI), accelerating the need for dialysis.<br>• <span style=\"color:#e74c3c\"><b>Saphenous vein mapping (Option C):</b></span> Dedicated vein mapping measures the anatomical diameter, depth, and wall course of the superficial greater and lesser saphenous veins exclusively to judge their conduit usability. Standard mapping protocols do not rigorously evaluate the deep venous system (femoral, deep femoral, popliteal veins) for occlusive or non-occlusive thrombi.<br><br>🧠 <b>Board Pearl:</b><br>Pre-CABG evaluation + Pedal edema + History of DVT ➡️ Mandatory test: <mark style=\"background:#2ecc71;color:#fff\"><b>Venous Duplex Ultrasound (Option D)</b></mark> to rule out active DVT before surgery! ➡️ Unrecognized DVT leads to fatal perioperative pulmonary embolism! ➡️ Avoid CT venography (Option B ❌) due to contrast nephrotoxicity in chronic renal disease! ➡️ ABI (Option A ❌) is an arterial test and distorted by diabetic medial calcinosis!<br><br>🔥 <b>Mnemonic Rule «D-U-P-L-E-X»:</b><br>• <b>D</b> — <b>D</b>VT history + new edema requires rigorous duplex imaging (<b>Option D</b>).<br>• <b>U</b> — <b>U</b>ltrasound avoids nephrotoxic contrast in chronic renal failure.<br>• <b>P</b> — <b>P</b>reoperative diagnosis prevents fatal on-table pulmonary embolism.<br>• <b>L</b> — <b>L</b>ack of deep system evaluation in superficial saphenous mapping (Option C ❌).<br>• <b>E</b> — <b>E</b>xclude contrast CT venography (Option B ❌) to preserve renal function.<br>• <b>X</b> — <b>X</b>-out ABI (Option A ❌): it tests arteries, not veins, and is falsely elevated in diabetes.",
@@ -1717,7 +1717,7 @@
         "D": "VATS decortication"
       },
       "optionsRu": {
-        "A": "антибиотики широкого спектра действия (broad-spectrum antibiotics)",
+        "A": "антибиотики широкого спектра действия",
         "B": "бронхоальвеолярный лаваж при бронхоскопии",
         "C": "инфузия норадреналина",
         "D": "видеоторакоскопическая (VATS) декортикация плевры"
@@ -1762,7 +1762,7 @@
       "optionsRu": {
         "A": "проточно-промывное дренирование раны по закрытой системе",
         "B": "немедленная пластика перемещенными пекторальными лоскутами",
-        "C": "вакуум-терапия раны (NPWT) с отсроченным закрытием (negative pressure wound therapy with delayed closure)",
+        "C": "вакуум-терапия раны с отсроченным закрытием",
         "D": "остеосинтез грудины титановыми пластинами"
       },
       "correctAnswer": "C",
@@ -1801,7 +1801,7 @@
         "A": "важности подписанного бланка согласия с перечислением всех возможных рисков процедуры",
         "B": "важности устного согласия пациента на проведение необходимой процедуры",
         "C": "принципе присутствия независимого свидетеля при получении согласия",
-        "D": "праве на самоопределение и этическом принципе автономии пациента (right to self-determination and the ethical principal of patient autonomy)"
+        "D": "праве на самоопределение и этическом принципе автономии пациента"
       },
       "correctAnswer": "D",
       "explanationEn": "🎯 <b>Correct Answer: Option D: right to self-determination and the ethical principal of patient autonomy.</b><br><br>🔵 <b>Detailed Bioethical and Medicolegal Analysis:</b><br>In modern surgical practice, informed consent has evolved from historical paternalism (where the surgeon unilaterally dictated therapy based solely on beneficence) into a robust shared decision-making partnership centered on <b>respect for patient autonomy</b>.<br><br>1️⃣ <b>Philosophical and Legal Foundations (Why Option D is correct):</b><br>• The doctrine of informed consent is grounded in the bioethical principle of <b>autonomy</b> and the constitutional legal right to <b>bodily integrity and self-determination</b> (famously articulated by Justice Benjamin Cardozo in <i>Schloendorff v. Society of New York Hospital</i>: <i>\"Every human being of adult years and sound mind has a right to determine what shall be done with his own body...\"</i>).<br>• True informed consent is an <mark style=\"background:#2ecc71;color:#fff\"><b>educational and communicative process</b></mark>, not an administrative signature. It requires that a decision-capable patient:<br>  1. Understands the clinical nature and severity of the disease;<br>  2. Appreciates the rationale, expected benefits, and material risks of the proposed surgical intervention;<br>  3. Understands viable non-surgical alternatives (including medical therapy or comfort care) and the natural history of untreated disease;<br>  4. Voluntarily exercises their <mark style=\"background:#2ecc71;color:#fff\"><b>right to self-determination (Option D)</b></mark> free of coercion.<br><br>2️⃣ <b>Why other options are categorically incorrect:</b><br>• <span style=\"color:#e74c3c\"><b>Importance of a signed consent form (Option A):</b></span> The paper consent document is merely a written, legal record documenting that a discussion occurred; it does not substitute for the communication process itself and is not the underlying ethical principle.<br>• <span style=\"color:#e74c3c\"><b>Patient agreeing verbally (Option B):</b></span> Mere verbal acquiescence without thorough information exchange and comprehension does not constitute true \"informed\" consent, nor is simple agreement the foundational ethical root.<br>• <span style=\"color:#e74c3c\"><b>Having a non-biased witness (Option C):</b></span> The presence of a witness (or interpreter) is an administrative or procedural safeguard used in special scenarios (e.g., non-English speakers, telephone consents), not the core ethical pillar of the doctrine.<br><br>🧠 <b>Board Pearl:</b><br>Informed Consent ➡️ Bioethical bedrock: <mark style=\"background:#2ecc71;color:#fff\"><b>Patient Autonomy & Right to Self-Determination (Option D)</b></mark>! ➡️ It is a bidirectional <b>communication process</b>, NOT simply a signature on paper (Option A ❌)! ➡️ Requires capacity, disclosure of material risks/alternatives, comprehension, and voluntary choice without coercion!<br><br>🔥 <b>Mnemonic Rule «A-U-T-O-N-O-M-Y»:</b><br>• <b>A</b> — <b>A</b>utonomy is the primary ethical pillar governing consent (<b>Option D</b>).<br>• <b>U</b> — <b>U</b>nderstanding the disease, risks, and benefits is essential.<br>• <b>T</b> — <b>T</b>rue shared decision-making replaces historical surgical paternalism.<br>• <b>O</b> — <b>O</b>ptions and non-surgical alternatives must always be presented.<br>• <b>N</b> — <b>N</b>ot merely a signed hospital paper form (Option A ❌).<br>• <b>O</b> — <b>O</b>utside coercion invalidates the patient's agreement.<br>• <b>M</b> — <b>M</b>edicolegal foundation rests on Cardozo’s right to self-determination.<br>• <b>Y</b> — <b>Y</b>ields personalized choices aligned with the patient's values.",
@@ -1834,8 +1834,8 @@
       },
       "optionsRu": {
         "A": "предоставить больнице возможность выявить конкретное лицо, совершившее ошибку, и применить дисциплинарные меры",
-        "B": "найти причинный фактор нежелательного события и направить отчет в Объединенную комиссию (The Joint Commission)",
-        "C": "сфокусироваться на внедрении устойчивых системных действий и решений для повышения безопасности (focus on implementing sustainable systems-based actions to improve safety)",
+        "B": "найти причинный фактор нежелательного события и направить отчет в Объединенную комиссию",
+        "C": "сфокусироваться на внедрении устойчивых системных действий и решений для повышения безопасности",
         "D": "использовать диаграммы причинно-следственных связей для выявления первопричины нежелательного события"
       },
       "correctAnswer": "C",
@@ -1869,7 +1869,7 @@
       },
       "optionsRu": {
         "A": "введение гидрокарбоната натрия",
-        "B": "увеличение PEEP (ПДКВ) до 8 см вод. ст. (increase PEEP to 8 cmH2O)",
+        "B": "увеличение PEEP (ПДКВ) до 8 см вод. ст.",
         "C": "увеличение частоты дыхания до 16 вдохов/мин",
         "D": "увеличение давления поддержки (PS) до 20 см вод. ст."
       },
@@ -1904,10 +1904,10 @@
         "D": "ventilator-associated pneumonia"
       },
       "optionsRu": {
-        "A": "катетер-ассоциированная инфекция мочевыводящих путей (CAUTI) (catheter-associated urinary tract infection)",
-        "B": "катетер-ассоциированная инфекция кровотока (CLABSI)",
-        "C": "инфекция области хирургического вмешательства (SSI)",
-        "D": "вентилятор-ассоциированная пневмония (VAP)"
+        "A": "катетер-ассоциированная инфекция мочевыводящих путей",
+        "B": "катетер-ассоциированная инфекция кровотока",
+        "C": "инфекция области хирургического вмешательства",
+        "D": "вентилятор-ассоциированная пневмония"
       },
       "correctAnswer": "A",
       "explanationEn": "🎯 <b>Correct Answer: Option A: catheter-associated urinary tract infection.</b><br><br>🔵 <b>Detailed Clinical and Epidemiological Analysis of Postoperative Fever:</b><br>Evaluating fever on postoperative day 10 in an elderly, frail patient following cardiac surgery requires a structured systematic evaluation across the classic \"5 Ws\" of postoperative fever (Wind, Water, Wound, Walking, Wonder drugs) alongside healthcare-associated infection (HAI) surveillance criteria.<br><br>1️⃣ <b>Epidemiology and Pathophysiology of CAUTI (Why Option A is correct):</b><br>• Catheter-associated urinary tract infections (CAUTIs) represent the most frequent healthcare-associated infection worldwide according to CDC / NHSN surveillance data, accounting for up to 30%–40% of all nosocomial infections in hospitalized patients.<br>• Approximately 75% to 80% of hospital-acquired UTIs occur directly following urinary tract instrumentation or prolonged indwelling Foley catheter placement.<br>• <i>Clinical Risk Multipliers:</i> Advanced age (80 years), prolonged ICU stay, male bladder outlet obstruction, and <b>instrumentation with a replacement Foley catheter</b> for acute urinary retention exponentially increase risk. Urethral re-catheterization disrupts the protective mucosal barrier and introduces extraluminal and intraluminal bacterial biofilm (most commonly <i>E. coli</i>, <i>Enterococcus faecalis</i>, <i>Klebsiella pneumoniae</i>, or <i>Pseudomonas aeruginosa</i>), causing bacterial colonization and ascending infection.<br>• Given the rising leukocytosis, subfebrile temperature, and active instrumentation of the bladder, <mark style=\"background:#2ecc71;color:#fff\"><b>catheter-associated urinary tract infection (Option A)</b></mark> is the most probable diagnosis.<br><br>2️⃣ <b>Systematic Exclusion of Other Nosocomial Sources:</b><br>• <span style=\"color:#e74c3c\"><b>Central line-associated blood stream infection / CLABSI (Option B):</b></span> The patient's central venous access was discontinued 7 full days prior (on POD 3). Acute primary bacteremia from CLABSI typically presents while the line is in situ or within 48 hours of removal, making an unseeded dormant CLABSI emerging a week later highly improbable.<br>• <span style=\"color:#e74c3c\"><b>Surgical site infection / SSI (Option C):</b></span> Physical examination explicitly confirms that the sternal and peripheral incisions are clean, dry, and devoid of local cellulitis, induration, warmth, erythema, or purulent drainage.<br>• <span style=\"color:#e74c3c\"><b>Ventilator-associated pneumonia / VAP (Option D):</b></span> Excluded by the complete absence of respiratory symptoms (no cough, sputum, or dyspnea) and an objectively normal chest radiograph without focal consolidation, air bronchograms, or infiltrates.<br><br>🧠 <b>Board Pearl:</b><br>Late post-op fever (POD 5–10) + Rising WBC + Clear CXR + Clean/dry sternal wound + Central line removed a week ago ➡️ Leading suspect: <mark style=\"background:#2ecc71;color:#fff\"><b>Catheter-Associated UTI (CAUTI — Option A)</b></mark>! ➡️ Re-instrumentation/replacement of a Foley catheter is the single greatest risk factor for nosocomial bacteriuria! ➡️ Order urinalysis, urine culture, and promptly remove/exchange the catheter as clinically indicated!<br><br>🔥 <b>Mnemonic Rule «W-A-T-E-R»:</b><br>• <b>W</b> — <b>W</b>ater represents the urinary tract as the classical source of post-op day 3–10 fever.<br>• <b>A</b> — <b>A</b>ntiquated central line (removed 7 days ago) rules out active CLABSI (Option B ❌).<br>• <b>T</b> — <b>T</b>he chest radiograph is clear, excluding nosocomial pneumonia/VAP (Option D ❌).<br>• <b>E</b> — <b>E</b>xtraluminal biofilm from Foley re-insertion introduces CAUTI (<b>Option A</b>).<br>• <b>R</b> — <b>R</b>epaired incisions are clean and dry, ruling out deep surgical site infection (Option C ❌).",
@@ -1941,8 +1941,8 @@
       "optionsRu": {
         "A": "двусторонняя ревизия шеи с эзофагоскопией",
         "B": "дренирование средостения через шейный доступ и срединную стернотомию",
-        "C": "дренирование средостения только через шейный разрез (mediastinotomy)",
-        "D": "дренирование средостения через шейный доступ с установкой билатеральных плевральных дренажей (mediastinal drainage via a cervical incision with bilateral chest tube placement)"
+        "C": "дренирование средостения только через шейный разрез",
+        "D": "дренирование средостения через шейный доступ с установкой билатеральных плевральных дренажей"
       },
       "correctAnswer": "D",
       "explanationEn": "🎯 <b>Correct Answer: Option D: mediastinal drainage via a cervical incision with bilateral chest tube placement.</b><br><br>🔵 <b>Detailed Anatomical and Surgical Pathophysiology Analysis:</b><br>Descending necrotizing mediastinitis (DNM) is one of the most lethal infectious emergencies encountered in thoracic surgery (historical mortality exceeding 30%–40%). It arises as a direct consequence of odontogenic, peritonsillar, or retropharyngeal infections that breach the deep cervical fascial barriers and track downward into the mediastinum under the influence of gravity, negative intrathoracic respiratory pressures, and gas-producing anaerobic tissue necrosis.<br><br>1️⃣ <b>Deep Cervical Fascial Spaces and the \"Danger Space\":</b><br>• The pathway of spread is determined by cervical fascial anatomy:<br>  - <b>Retropharyngeal Space:</b> Lies between the buccopharyngeal fascia and the alar layer of the deep cervical fascia. It terminates at the level of the carina / T4 vertebra.<br>  - <b>\"Danger Space\" (Space 4):</b> Located immediately posterior to the alar fascia and anterior to the prevertebral fascia, extending continuously from the base of the skull directly through the posterior mediastinum all the way down to the level of the diaphragm.<br>  - Infections originating in the peritonsillar space breach the parapharyngeal compartment, enter the danger space, and cascade unimpeded into the <b>posterior and inferior mediastinum (Type IIb DNM per Endo's classification)</b>.<br>• Once within the posterior mediastinum, rapid accumulation of polymicrobial necrotic phlegmon and fluid generates intense tension that ruptures through the thin mediastinal pleura bilaterally, causing <b>bilateral secondary empyema and compressive atelectasis</b> (reflected by diminished bilateral breath sounds and respiratory failure).<br><br>2️⃣ <b>Principles of Surgical Source Control (Why Option D is correct):</b><br>• The cornerstone of survival in extensive DNM is wide, radical surgical drainage combining cervical exploration with comprehensive intrathoracic decompression:<br>  - <b>Cervical Approach:</b> A transverse collar cervicotomy or lateral cervicotomy is mandatory to open and debride the retropharyngeal and parapharyngeal source spaces;<br>  - <b>Thoracic Drainage:</b> Because the infection has tracked into the posterior mediastinum and ruptured into the pleural cavities bilaterally, an isolated neck incision cannot evacuate dependent posterior intrathoracic fluid or re-expand the lungs. Combining cervical decompression with <mark style=\"background:#2ecc71;color:#fff\"><b>bilateral chest tube placement (Option D)</b></mark> (or staged VATS/thoracotomy) ensures immediate dependent evacuation of infected pleural effusions, re-expansion of collapsed pulmonary parenchyma, and continuous posterior mediastinal irrigation.<br><br>3️⃣ <b>Why other options are categorically incorrect:</b><br>• <span style=\"color:#e74c3c\"><b>Mediastinal drainage via a cervical and sternotomy approach (Option B):</b></span> Median sternotomy provides excellent visualization of the <i>anterior mediastinum</i> and pericardium, but it provides exceptionally poor, dangerous, and hindered access to the <i>posterior mediastinum</i> (which is obscured behind the heart, great vessels, and trachea). Attempting to drain a posterior descending phlegmon via sternotomy risks catastrophic vascular laceration and fails to evacuate bilateral pleural empyemas.<br>• <span style=\"color:#e74c3c\"><b>Mediastinal drainage via a cervical incision alone (Option C):</b></span> Cervical mediastinotomy alone is adequate strictly for Endo Type I DNM (infection localized superiorly above the carina/T4 level). For Type IIb DNM extending down to the diaphragm with pleural effusion, isolated neck drainage carries a prohibitive mortality rate approaching 80% due to persistent unevacuated intrathoracic sepsis.<br>• <span style=\"color:#e74c3c\"><b>Bilateral neck exploration with esophagoscopy (Option A):</b></span> The primary etiology is an oropharyngeal tonsillar phlegmon, not a transmural esophageal tear (Boerhaave syndrome). Performing invasive esophagoscopy provides zero therapeutic value, risks iatrogenic mucosal perforation in an inflamed pharynx, and completely fails to drain the mediastinum.<br><br>🧠 <b>Board Pearl:</b><br>Descending Necrotizing Mediastinitis (DNM) post-tonsillar abscess extending below T4 + Pleural involvement ➡️ Hallmark pathway: <b>\"Danger Space\" (between alar and prevertebral fascia) ➔ Posterior Mediastinum</b>! ➡️ Surgical requirement: <mark style=\"background:#2ecc71;color:#fff\"><b>Cervical incision + Bilateral Thoracic / Pleural Drainage (Option D)</b></mark>! ➡️ Isolated cervical drainage (Option C ❌) fails once infection drops below the carina! ➡️ Median sternotomy (Option B ❌) is the WRONG thoracic approach because it cannot access the posterior mediastinum!<br><br>🔥 <b>Mnemonic Rule «D-A-N-G-E-R»:</b><br>• <b>D</b> — <b>D</b>escending infection tracks along the deep \"Danger Space\" behind the alar fascia.<br>• <b>A</b> — <b>A</b>dequate source control requires combined neck and thoracic drainage (<b>Option D</b>).<br>• <b>N</b> — <b>N</b>eck-only drainage (Option C ❌) is completely insufficient for sub-carinal spread.<br>• <b>G</b> — <b>G</b>as and purulent fluid readily breach the thin mediastinal pleura into both hemithoraces.<br>• <b>E</b> — <b>E</b>sophagoscopy (Option A ❌) is contraindicated and irrelevant for tonsillar phlegmon.<br>• <b>R</b> — <b>R</b>adical sternotomy (Option B ❌) cannot access the posterior mediastinum.",
@@ -1982,7 +1982,7 @@
       "optionsRu": {
         "A": "хирургическая обработка (некрэктомия) полости некроза легкого",
         "B": "санация плевральной полости и декортикация легкого",
-        "C": "нижняя лобэктомия справа (right lower lobectomy)",
+        "C": "нижняя лобэктомия справа",
         "D": "широкое дренирование плевральной полости плевральными трубками"
       },
       "correctAnswer": "C",
@@ -2026,7 +2026,7 @@
         "A": "7-дневный курс антибиотикотерапии, активной против грамположительных микроорганизмов",
         "B": "экстренная эксплоративная торакотомия справа",
         "C": "интраплевральное введение тромболитиков через плевральный дренаж",
-        "D": "хирургическое дренирование (санация) правой плевральной полости в течение ближайших 24–48 часов (surgical drainage of right pleural space in the next 24–48 hours)"
+        "D": "хирургическое дренирование (санация) правой плевральной полости в течение ближайших 24–48 часов"
       },
       "correctAnswer": "D",
       "explanationEn": "🎯 <b>Correct Answer: Option D: surgical drainage of right pleural space in the next 24–48 hours.</b><br><br>🔵 <b>Detailed Trauma Surgery and Critical Care Pathophysiological Analysis:</b><br>Retained traumatic hemothorax is defined as residual clotted or loculated blood persisting in the pleural cavity after tube thoracostomy (typically >300–500 mL on CT imaging or occupying >1/3 of the hemithorax). In blunt thoracic trauma, large-volume blood collections in the pleural space rapidly undergo clotting and fibrin deposition, creating an ideal, protein-rich culture medium.<br><br>1️⃣ <b>Complications of Retained Hemothorax and Natural History:</b><br>• If left undrained, a retained hemothorax carries severe clinical morbidity:<br>  - <b>Post-Traumatic Empyema:</b> Superinfection occurs in <b>25% to 33%</b> of patients with retained clotted blood (predominantly by <i>Staphylococcus aureus</i>, <i>Streptococcus</i> spp., and Gram-negative bacilli) via skin tract migration around chest tubes or transient bacteremia;<br>  - <b>Fibrothorax and Trapped Lung:</b> Fibroblast ingrowth and collagen organization of the visceral pleural peel begin within days, permanently imprisoning the lung parenchyma in a restrictive fibrous envelope.<br>• Attempting to place a second (or third) chest tube into organized, jelly-like thrombus rarely evacuates solid clots and only multiplies cutaneous entry tracts for ascending bacterial infection.<br><br>2️⃣ <b>Optimal Timing of Early VATS Intervention (Why Option D is correct):</b><br>• The Eastern Association for the Surgery of Trauma (EAST) and American Association for the Surgery of Trauma (AAST) practice management guidelines establish that <mark style=\"background:#2ecc71;color:#fff\"><b>early video-assisted thoracoscopic surgery (VATS) drainage within 24 to 48 hours (Option D)</b></mark> represents the gold-standard treatment of choice.<br>• <i>The \"Window of Opportunity\":</i> In the first 2 to 4 days, clotted blood remains gelatinous, non-adherent, and easily suctioned/debrided with minimal blood loss. Delaying beyond 4–7 days allows dense, vascularized pleural peel formation, drastically escalating the conversion rate from minimally invasive VATS to open thoracotomy, prolonging mechanical ventilation, and increasing ICU length of stay.<br><br>3️⃣ <b>Why other options are categorically incorrect:</b><br>• <span style=\"color:#e74c3c\"><b>Emergent right exploratory thoracotomy (Option B):</b></span> Immediate \"stat\" thoracotomy is indicated strictly for massive active ongoing hemorrhage (initial tube output $>1,500$ mL, persistent loss $>200$ mL/hr for 2–4 consecutive hours) or acute refractory hemorrhagic shock. This patient is hemodynamically stable, has only drained 750 mL total, and has no evidence of ongoing arterial bleeding.<br>• <span style=\"color:#e74c3c\"><b>7-day course of antibiotics covering gram-positive organisms (Option A):</b></span> Prolonged empiric antibiotic therapy in the presence of an undrained, macroscopic hematoma does not penetrate dense thrombus, fails to prevent empyema, and actively selects for multidrug-resistant nosocomial pathogens. Tube thoracostomy guidelines explicitly advise against extending prophylactic antibiotics beyond 24 hours.<br>• <span style=\"color:#e74c3c\"><b>Instill intrapleural thrombolytic therapy via chest tube (Option C):</b></span> Intrapleural fibrinolytics (tPA/DNase) can lyse parapneumonic empyemas, but in acute blunt trauma with rib fractures and pulmonary contusions, intrapleural thrombolysis carries a dangerous risk of dislodging hemostatic clots and precipitating life-threatening rebound intrapleural hemorrhage. Moreover, VATS achieves superior clot clearance and lower conversion rates compared to bedside lytic instillation.<br><br>🧠 <b>Board Pearl:</b><br>Retained clotted hemothorax after tube thoracostomy in a stable trauma patient ➡️ Optimal gold standard: <mark style=\"background:#2ecc71;color:#fff\"><b>Early VATS pleural evacuation within 24–48 hours (Option D)</b></mark>! ➡️ Prevents empyema (25%–33% risk) and restrictive fibrothorax! ➡️ Stat exploratory thoracotomy (Option B ❌) is reserved only for active massive bleeding (>1,500 mL or >200 mL/hr) or shock! ➡️ Do NOT give prolonged antibiotics (Option A ❌): they cannot sterilize solid clots!<br><br>🔥 <b>Mnemonic Rule «C-L-O-T-S»:</b><br>• <b>C</b> — <b>C</b>hest tube placement cannot evacuate gelatinous, organized blood.<br>• <b>L</b> — <b>L</b>ate delay beyond 4 days turns soft clot into an irreversible, rigid fibrous peel.<br>• <b>O</b> — <b>O</b>ptimal early VATS drainage within 24–48 hours (<b>Option D</b>) prevents fibrothorax.<br>• <b>T</b> — <b>T</b>horacotomy (Option B ❌) is indicated only for active exsanguination or shock.<br>• <b>S</b> — <b>S</b>terility cannot be achieved with antibiotics alone (Option A ❌) without source evacuation.",
@@ -2065,7 +2065,7 @@
       },
       "optionsRu": {
         "A": "эзофагоскопия, кортикостероиды и дренирование левой плевральной полости",
-        "B": "лапаротомия, левосторонняя торакотомия и эзофагэктомия с формированием концевой шейной эзофагостомы (laparotomy, left thoracotomy, and esophagectomy with cervical fistula)",
+        "B": "лапаротомия, левосторонняя торакотомия и эзофагэктомия с формированием концевой шейной эзофагостомы",
         "C": "лапаротомия, трансхиатальная эзофагэктомия и шейная эзофагостома",
         "D": "левосторонняя торакотомия, эзофагэктомия и шейная эзофагостома"
       },
@@ -2110,7 +2110,7 @@
         "A": "КТ-ангиография легочных артерий",
         "B": "увеличение PEEP (ПДКВ) до 14 см вод. ст.",
         "C": "внутривенный ингибитор фосфодиэстеразы",
-        "D": "трансторакальная эхокардиография (transthoracic echocardiogram)"
+        "D": "трансторакальная эхокардиография"
       },
       "correctAnswer": "D",
       "explanationEn": "🎯 <b>Correct Answer: Option D: transthoracic echocardiogram.</b><br><br>🔵 <b>Detailed Hemodynamic, Structural, and Respiratory Pathophysiology:</b><br>The defining clue in this clinical presentation is the surgical exposure used during mitral valve replacement: the <b>trans-septal approach</b> (Guiraudon or Dubost technique, traversing the right atriotomy and incising across the fossa ovalis / interatrial septum to expose an otherwise deep or small left atrium).<br><br>1️⃣ <b>Mechanisms of Refractory Hypoxemia Post-Trans-septal Incision:</b><br>• Closure of the interatrial septum (whether primary suture or patch) is prone to suture line dehiscence, stitch tear-through in friable, aged tissue (83-year-old), or incomplete coaptation, producing an <b>iatrogenic interatrial communication (residual atrial septal defect, ASD)</b>.<br>• In this patient, baseline pulmonary hypertension and right ventricular afterload remain substantially elevated ($PAP = 58/32$ mmHg, $CVP = 14$ mmHg).<br>• When right atrial pressure matches or exceeds left atrial pressure (especially during positive-pressure ventilation or right ventricular diastolic dysfunction), deoxygenated systemic venous blood from the right atrium shunts directly into the left atrium across the dehisced interatrial septum (<mark style=\"background:#ffff00;color:#000\"><b>pathologic intracardiac right-to-left shunt</b></mark>).<br>• <i>The Refractory Hypoxemia Phenomenon:</i> Pure right-to-left intracardiac shunting bypasses alveolar ventilation entirely. Consequently, arterial oxygenation is notoriously unresponsive to escalating mechanical ventilation or high inspired oxygen fractions ($FiO_2 = 0.70$ yielding a $PaO_2$ of only 65 mmHg, mimicking ARDS).<br><br>2️⃣ <b>Echocardiography as the Immediate Modality of Choice (Why Option D is correct):</b><br>• Rapid bedside <mark style=\"background:#2ecc71;color:#fff\"><b>transthoracic echocardiography (TTE) with an agitated saline contrast study (\"bubble study\") and color Doppler interrogation (Option D)</b></mark> is the mandatory, non-invasive first-line examination:<br>  1. Verifies immediate opacification of the left heart chambers within 1 to 3 cardiac cycles following peripheral IV microbubble injection, proving right-to-left interatrial shunting;<br>  2. Evaluates the anatomical site of the interatrial septal tear / dehiscence;<br>  3. Rules out catastrophic prosthetic valve dysfunction (e.g., paravalvular leak, stuck mechanical leaflet, or patient-prosthesis mismatch) and assesses dynamic right/left ventricular systolic performance and chamber pressures.<br><br>3️⃣ <b>Why other options are categorically incorrect and hazardous:</b><br>• <span style=\"color:#e74c3c\"><b>Increase the PEEP to 14 cmH2O (Option B):</b></span> <i>This is a critical clinical trap!</i> In intrapulmonary right-to-left shunt (such as atelectasis), raising PEEP improves oxygenation. However, in an <b>intracardiac right-to-left shunt</b> across a dehisced ASD, increasing positive end-expiratory pressure increases intrathoracic pressure, compresses pulmonary capillaries, raises pulmonary vascular resistance (PVR), and elevates right atrial pressure. This directly amplifies the right-to-left pressure gradient across the interatrial septum, massively augmenting the volume of deoxygenated blood diverted into the systemic circulation and paradoxically precipitating catastrophic arterial desaturation and cardiovascular collapse.<br>• <span style=\"color:#e74c3c\"><b>CT pulmonary angiography (Option A):</b></span> Rushing an acutely hypoxemic, ventilator-dependent patient on epinephrine infusion out of the ICU to the CT suite introduces substantial procedural risk and nephrotoxic contrast exposure without first excluding common post-cardiotomy mechanical structural complications bedside.<br>• <span style=\"color:#e74c3c\"><b>Intravenous phosphodiesterase inhibitor (Option C):</b></span> While milrinone reduces pulmonary vascular resistance, administering it empirically in an unstable patient without an anatomical diagnosis risks profound peripheral vasodilation, systemic arterial hypotension, and increased requirement for vasopressor support.",
@@ -2148,7 +2148,7 @@
         "A": "блокаторы кальциевых каналов",
         "B": "добутамин",
         "C": "нитраты",
-        "D": "силденафил (sildenafil)"
+        "D": "силденафил"
       },
       "correctAnswer": "D",
       "explanationEn": "🎯 <b>Correct Answer: Option D: sildenafil.</b><br><br>🔵 <b>Detailed Molecular and Clinical Pharmacophysiology:</b><br>Severe, long-standing mitral stenosis frequently causes secondary pre- and post-capillary pulmonary arterial hypertension (PH) with medial hypertrophy and intimal proliferation of pulmonary arterioles. Following valve replacement, mechanical left ventricular filling is relieved, but reactive pulmonary vascular resistance (PVR) often remains profoundly elevated (post-bypass pulmonary arterial pressure $78/40$ mmHg), precipitating acute right ventricular (RV) failure upon weaning from cardiopulmonary bypass (CPB).<br><br>1️⃣ <b>Mechanism of Inhaled Nitric Oxide (iNO) and the Lethal \"Rebound\" Phenomenon:</b><br>• Inhaled nitric oxide (iNO) diffuses selectively across ventilated alveoli into pulmonary vascular smooth muscle cells, activating <b>soluble guanylyl cyclase (sGC)</b>, which converts GTP to <b>cyclic guanosine monophosphate (cGMP)</b>. Intracellular cGMP activates protein kinase G (PKG), lowering intracellular calcium and inducing potent pulmonary vasodilation without causing systemic hypotension.<br>• <i>The Withdrawal Hazard:</i> Prolonged exogenous iNO administration induces negative-feedback downregulation of endogenous endothelial nitric oxide synthase (eNOS) and upregulates phosphodiesterase type 5 (PDE-5).<br>• If iNO is abruptly tapered or stopped, rapid enzymatic hydrolysis of residual cGMP by PDE-5 triggers <mark style=\"background:#ffff00;color:#000\"><b>severe rebound pulmonary arterial hypertension</b></mark>, acute RV dilation, hemodynamic collapse, and refractory hypoxemia.<br><br>2️⃣ <b>The Pharmacological Bridge with Sildenafil (Why Option D is correct):</b><br>• <mark style=\"background:#2ecc71;color:#fff\"><b>Sildenafil (Option D)</b></mark> is a potent, selective inhibitor of <b>phosphodiesterase type 5 (PDE-5)</b>, the primary enzyme responsible for the degradation of cGMP in pulmonary vascular smooth muscle.<br>• By selectively blocking PDE-5, sildenafil sustains high intracellular concentrations of cGMP even as exogenous NO delivery is systematically reduced.<br>• Administering sildenafil (either enterally via nasogastric tube or intravenously) prior to and during the tapering of iNO effectively prevents the rebound vasoconstrictive surge, stabilizes pulmonary arterial pressures, preserves RV ejection, and significantly accelerates successful weaning from iNO in post-cardiotomy critical care.<br><br>3️⃣ <b>Why other options are categorically incorrect:</b><br>• <span style=\"color:#e74c3c\"><b>Calcium channel blockers (Option A):</b></span> Dihydropyridines or non-dihydropyridines (e.g., nicardipine, diltiazem) cause non-selective systemic arterial vasodilation and carry negative inotropic effects. In acute post-cardiotomy RV strain, CCBs precipitate severe systemic arterial hypotension, impair right coronary artery perfusion, worsen ventilation-perfusion mismatch, and fail to prevent cGMP breakdown.<br>• <span style=\"color:#e74c3c\"><b>Dobutamine (Option B):</b></span> Dobutamine is a synthetic catecholamine with predominant $\\beta_1$- and mild $\\beta_2$-adrenergic agonist activity. While it augments RV inotropy, it markedly increases myocardial oxygen consumption ($MVO_2$), provokes atrial and ventricular tachyarrhythmias, and does not target the nitric oxide / cGMP signaling cascade required to blunt iNO withdrawal.<br>• <span style=\"color:#e74c3c\"><b>Nitrates (Option C):</b></span> Intravenous nitroglycerin acts primarily as a systemic and capacitance venodilator. It drastically reduces systemic vascular resistance (SVR) and RV preload without selective pulmonary vasodilation, resulting in systemic hypotension and cardiovascular compromise without targeted pulmonary protection.<br><br>🧠 <b>Board Pearl:</b><br>Weaning from Inhaled Nitric Oxide (iNO) in Pulmonary Hypertension ➡️ Major threat: <b>Rebound Pulmonary Hypertension</b> due to eNOS downregulation and rapid cGMP breakdown! ➡️ Pharmacologic agent of choice: <mark style=\"background:#2ecc71;color:#fff\"><b>Sildenafil (PDE-5 inhibitor) (Option D)</b></mark>! ➡️ Sildenafil halts cGMP degradation, creating a smooth transition off iNO! ➡️ Avoid calcium channel blockers (Option A ❌) and nitrates (Option C ❌) due to systemic hypotension and lack of pulmonary selectivity!<br><br>🔥 <b>Mnemonic Rule «C-G-M-P»:</b><br>• <b>C</b> — <b>C</b>yclic GMP mediates the vasodilatory action of nitric oxide in pulmonary vessels.<br>• <b>G</b> — <b>G</b>ive sildenafil before tapering iNO to prevent rebound pulmonary vasoconstriction (<b>Option D</b>).<br>• <b>M</b> — <b>M</b>ilrinone targets PDE-3 (cAMP); sildenafil specifically inhibits PDE-5 (cGMP).<br>• <b>P</b> — <b>P</b>DE-5 inhibition sustains vasodilation and shields the vulnerable right ventricle.",
@@ -2183,7 +2183,7 @@
         "D": "the Skill, Rule and Knowledge (S-R-K)-based classification, described by Rasmussen as the execution of performance by a team with a common goal"
       },
       "optionsRu": {
-        "A": "постоянной фиксацией на риске возможных сбоев (preoccupation with failure), нежеланием упрощать происходящее (reluctance to simplify) и пониманием системных последствий любых изменений (awareness of system impact) (a preoccupation with failure, a reluctance to simplify, and an awareness of how any change may impact the entire system)",
+        "A": "постоянной фиксацией на риске возможных сбоев, нежеланием упрощать происходящее и пониманием системных последствий любых изменений",
         "B": "классической пирамидой безопасности Хайнриха, отражающей иерархическую структуру кардиоторакальной хирургической бригады",
         "C": "тремя теориями причин инцидентов: 1) с ростом сложности задач возрастает вероятность ошибки; 2) крупные катастрофы вырастают из мелких сбоев; 3) большинство отказов связано с организационными проблемами",
         "D": "классификацией Расмуссена (навыки, правила, знания — S-R-K) как исполнением задач командой с единой целью"
@@ -2221,7 +2221,7 @@
       "optionsRu": {
         "A": "длительность искусственного кровообращения < 2,5 часов",
         "B": "креатинин сыворотки > 1,8 мг/дл",
-        "C": "сахарный диабет (diabetes mellitus)",
+        "C": "сахарный диабет",
         "D": "артериальная гипертензия"
       },
       "correctAnswer": "C",
@@ -2257,7 +2257,7 @@
       },
       "optionsRu": {
         "A": "введение витамина С, тиамина и кортикостероидов (протокол Марсика)",
-        "B": "начало инфузии норадреналина (initiate norepinephrine)",
+        "B": "начало инфузии норадреналина",
         "C": "установка катетера легочной артерии (катетера Свана-Ганца)",
         "D": "трансфузия 2 доз эритроцитарной массы"
       },
@@ -2300,10 +2300,10 @@
         "D": "veno-arterial ECMO"
       },
       "optionsRu": {
-        "A": "раздельная вентиляция легких (independent lung ventilation)",
-        "B": "ингаляционный оксид азота (inhaled nitric oxide)",
-        "C": "прон-позиция (prone positioning)",
-        "D": "вено-артериальная ЭКМО (veno-arterial ECMO)"
+        "A": "раздельная вентиляция легких",
+        "B": "ингаляционный оксид азота",
+        "C": "прон-позиция",
+        "D": "вено-артериальная ЭКМО"
       },
       "correctAnswer": "C",
       "explanationEn": "🎯 <b>Correct Answer: Option C: prone positioning.</b><br><br>🔵 <b>Detailed Critical Care Pathophysiology and Ventilatory Strategy:</b><br>This patient suffers from severe blunt thoracic trauma resulting in massive parenchymal lung contusions, intrapulmonary hemorrhage, and microvascular alveolar-capillary disruption, precipitating hyperacute, <b>severe Acute Respiratory Distress Syndrome (ARDS)</b> per the Berlin definition.<br><br>1️⃣ <b>Assessment of Severity and Ventilatory Failure:</b><br>• The patient is receiving low-tidal-volume lung-protective ventilation ($V_t = 6$ mL/kg predicted body weight) on 100% inspired oxygen ($FiO_2 = 1.0$) and a PEEP of 10 cmH₂O.<br>• Calculating the oxygenation index:<br>  $$\\frac{PaO_2}{FiO_2} = \\frac{50}{1.0} = 50\\text{ mmHg}$$<br>• A $\\text{P/F}$ ratio of <mark style=\"background:#ffff00;color:#000\"><b>50 mmHg</b></mark> represents extreme, life-threatening ARDS (severe ARDS cutoff is $<100$ mmHg) driven by massive intrapulmonary shunt ($Q_s/Q_t > 30\\%–40\\%$) through heavily contused, consolidated, and collapsed lung tissue.<br>• Because upward titration of PEEP failed to recruit alveoli or improve oxygen tension, continuing to escalate airway pressures risks severe barotrauma/volutrauma and hemodynamic collapse from compromised venous return.<br><br>2️⃣ <b>Prone Positioning as the Proven Survival Intervention (Why Option C is correct):</b><br>• Per the landmark <b>PROSEVA trial</b> and international ARDS guidelines, in patients with severe ARDS exhibiting a $\\text{P/F} < 150$ mmHg refractory to standard lung-protective ventilation, <mark style=\"background:#2ecc71;color:#fff\"><b>prone positioning for at least 16 consecutive hours daily (Option C)</b></mark> significantly slashes 28-day and 90-day all-cause mortality (from 32.8% down to 16.0%, $p < 0.001$).<br>• <i>Physiological Mechanisms of Prone Positioning:</i><br>  - <b>Alleviation of Cardiac and Abdominal Compressive Vectors:</b> In the supine position, the heart and ventral mediastinal structures physically compress adjacent dependent dorsal lung regions. In the prone position, the heart rests anteriorly on the sternum, immediately relieving gravitational atelectasis of the massive dorsal lower lobes;<br>  - <b>Homogenization of Transpulmonary Pressure Gradients:</b> The dorsal-to-ventral pleural pressure gradient becomes markedly uniform, facilitating recruitment of previously collapsed dorsal alveoli while preventing ventral hyperinflation;<br>  - <b>Optimization of Ventilation/Perfusion ($V/Q$) Matching:</b> Pulmonary blood flow remains preferentially distributed to dorsal lung segments regardless of body posture; turning prone matches regional alveolar ventilation to pre-existing dependent perfusion, drastically mitigating right-to-left intrapulmonary shunt.<br><br>3️⃣ <b>Why other options are categorically incorrect:</b><br>• <span style=\"color:#e74c3c\"><b>Inhaled nitric oxide / iNO (Option B):</b></span> Inhaled pulmonary vasodilators selectively redirect perfusion toward ventilated alveolar units, temporarily increasing $PaO_2$. However, multiple systematic reviews and randomized controlled trials have conclusively proven that iNO <i>does not improve survival, reduce mortality, or shorten duration of mechanical ventilation</i> in ARDS. It is strictly a transient bridge, not a mortality-reducing cornerstone like proning.<br>• <span style=\"color:#e74c3c\"><b>Veno-arterial ECMO (Option D):</b></span> VA-ECMO provides biventricular circulatory support and is indicated for refractory cardiogenic shock or combined cardiopulmonary collapse. This patient has completely normal systemic cardiac pump performance ($BP = 110/80$ mmHg, preserved ventricular function). Subjecting him to arterial cannulation with VA-ECMO exposes him to catastrophic complications (differential hypoxemia / \"Harlequin syndrome\", stroke, peripheral limb ischemia, and major systemic hemorrhage in the presence of a liver laceration). If mechanical proning maneuvers fail, the appropriate rescue configuration is <i>veno-venous (VV) ECMO</i>, not VA-ECMO.<br>• <span style=\"color:#e74c3c\"><b>Independent lung ventilation (Option A):</b></span> Synchronous or asynchronous independent lung ventilation via a double-lumen endotracheal tube is technically cumbersome, fraught with tracheobronchial displacement, and indicated primarily for catastrophic unilateral bronchopleural fistulas, severe unilateral air-trapping/bullae, or massive unilateral hemorrhage—not for diffuse post-traumatic ARDS.",
@@ -2337,7 +2337,7 @@
         "D": "seroquel"
       },
       "optionsRu": {
-        "A": "дексмедетомидин (dexmedetomidine)",
+        "A": "дексмедетомидин",
         "B": "галоперидол",
         "C": "лоразепам",
         "D": "сероквель (кветиапин)"
@@ -2375,7 +2375,7 @@
       },
       "optionsRu": {
         "A": "начать терапию аргатробаном",
-        "B": "продолжить текущее ведение (continue current management)",
+        "B": "продолжить текущее ведение",
         "C": "отменить эноксапарин",
         "D": "выполнить трансфузию тромбоконцентрата"
       },
@@ -2412,8 +2412,8 @@
       },
       "optionsRu": {
         "A": "вентиляция с двухуровневым положительным давлением и сбросом давления (APRV)",
-        "B": "ранняя нейромышечная блокада (миоплегия) (neuromuscular blockade)",
-        "C": "маневры рекрутирования альвеол (recruitment maneuvers)",
+        "B": "ранняя нейромышечная блокада (миоплегия)",
+        "C": "маневры рекрутирования альвеол",
         "D": "снижение дыхательного объема до 4 мл/кг"
       },
       "correctAnswer": "B",
@@ -2449,10 +2449,10 @@
         "D": "methicillin-susceptible Staphylococcus aureus"
       },
       "optionsRu": {
-        "A": "коагулазонегативные стафилококки (coagulase-negative staphylococci)",
-        "B": "грамотрицательные палочки (gram-negative bacilli)",
-        "C": "метициллин-резистентный золотистый стафилококк (MRSA)",
-        "D": "метициллин-чувствительный золотистый стафилококк (MSSA) (methicillin-susceptible Staphylococcus aureus)"
+        "A": "коагулазонегативные стафилококки",
+        "B": "грамотрицательные палочки",
+        "C": "метициллин-резистентный золотистый стафилококк",
+        "D": "метициллин-чувствительный золотистый стафилококк"
       },
       "correctAnswer": "D",
       "explanationEn": "🎯 <b>Correct Answer: Option D: methicillin-susceptible Staphylococcus aureus.</b><br><br>🔵 <b>Detailed Epidemiological and Microbiological Analysis:</b><br>Deep sternal wound infections (DSWI) and acute post-sternotomy mediastinitis occur in 0.5% to 2.0% of patients undergoing cardiac surgical procedures via median sternotomy. The vast majority of early infections presenting within the standard surgical site infection (SSI) surveillance window (<30 days from index surgery) are monomicrobial and driven by cutaneous Gram-positive cocci.<br><br>1️⃣ <b>Microbiological Spectrum of Early (<30 Days) Post-Sternotomy Mediastinitis:</b><br>• Across major cardiothoracic surgical registries and published landmark multicenter cohorts (including data synthesized in <i>Bojar's Manual of Perioperative Care in Adult Cardiac Surgery</i> and the STS database):<br>  - <mark style=\"background:#2ecc71;color:#fff\"><b>Methicillin-susceptible Staphylococcus aureus (MSSA — Option D)</b></mark> is the single most prevalent isolated pathogen, responsible for approximately <b>40% to 45%</b> of all acute post-sternotomy deep wound infections.<br>  - <b>Gram-negative bacilli (Option B)</b> (e.g., <i>Pseudomonas aeruginosa</i>, <i>Klebsiella pneumoniae</i>, <i>Enterobacter cloacae</i>, <i>Serratia marcescens</i>, and <i>Escherichia coli</i>) account for roughly <b>15% to 17%</b> of cases, often enriched in patients with prolonged mechanical ventilation, open chest management, or chronic renal failure.<br>  - <b>Methicillin-resistant Staphylococcus aureus (MRSA — Option C)</b> constitutes approximately <b>15% to 16%</b> of cases, primarily clustered in institutional outbreaks, patients with pre-existing MRSA colonization, or prolonged preoperative hospitalizations.<br>  - <b>Coagulase-negative staphylococci / CoNS (Option A)</b> (principally <i>Staphylococcus epidermidis</i>) account for roughly <b>12% to 14%</b> of acute infections.<br>• <i>Clinical Implication:</i> Initial empiric antimicrobial therapy must incorporate MRSA coverage (e.g., intravenous vancomycin) plus broad Gram-negative coverage (e.g., cefepime or piperacillin-tazobactam). However, once microbiological cultures confirm MSSA, therapy is immediately de-escalated to an anti-staphylococcal beta-lactam (such as cefazolin or oxacillin/nafcillin), which achieves significantly superior tissue bactericidal activity and lower clinical failure rates compared to vancomycin.<br><br>2️⃣ <b>Why other options are categorically incorrect:</b><br>• <span style=\"color:#e74c3c\"><b>Coagulase-negative staphylococci (Option A):</b></span> CoNS (such as <i>S. epidermidis</i> and <i>S. hominis</i>) produce abundant extracellular polysaccharide slime (biofilm) and classically predominate in indolent, subacute, or late-onset (>30 to 90 days) prosthetic valve endocarditis, vascular graft infections, or delayed sternal non-unions, but they account for only ~ 13% of early, acute (<30 days) fulminant mediastinitis.<br>• <span style=\"color:#e74c3c\"><b>Gram-negative bacilli (Option B):</b></span> Gram-negative rods represent the second most frequent cohort at ~ 17%, clearly surpassed by the ~ 45% prevalence of MSSA.<br>• <span style=\"color:#e74c3c\"><b>Methicillin-resistant Staphylococcus aureus / MRSA (Option C):</b></span> Despite its virulence and prominence in infection control protocols, MRSA accounts for only ~ 16% of isolates, representing roughly one-third the incidence of MSSA.<br><br>🧠 <b>Board Pearl:</b><br>Acute post-sternotomy infection / mediastinitis (<30 days) ➡️ <b>#1 Isolated Pathogen: <mark style=\"background:#2ecc71;color:#fff\">MSSA (~ 45% — Option D)</mark></b>! ➡️ Gram-negatives (~ 17%), MRSA (~ 16%), CoNS (~ 13%)! ➡️ Start empiric Vancomycin + Cefepime, but <b>immediately de-escalate to Cefazolin or Cloxacillin/Oxacillin upon MSSA confirmation</b> (beta-lactams are superior to vancomycin for MSSA)!<br><br>🔥 <b>Мнемоническое правило «M-S-S-A-4-5»:</b><br>• <b>M</b> — <b>M</b>SSA causes almost half (~ 45%) of all acute post-sternotomy wound infections (<b>Option D</b>).<br>• <b>S</b> — <b>S</b>. epidermidis / CoNS (Option A ❌) accounts for only ~ 13% (dominates late biofilm cases).<br>• <b>S</b> — <b>S</b>tart with vancomycin empirically, then switch to cefazolin/oxacillin.<br>• <b>A</b> — <b>A</b>void keeping vancomycin when MSSA is identified (beta-lactams kill MSSA faster).<br>• <b>4-5</b> — <b>45%</b> MSSA > 17% Gram-negative (Option B ❌) > 16% MRSA (Option C ❌).",
@@ -2489,7 +2489,7 @@
         "A": "эзофагоскопия со стентированием пищевода",
         "B": "установка дополнительного дренажа в правую плевральную полость",
         "C": "интраплевральная фибринолитическая терапия",
-        "D": "правосторонняя торакотомия (right thoracotomy)"
+        "D": "правосторонняя торакотомия"
       },
       "correctAnswer": "D",
       "explanationEn": "🎯 <b>Correct Answer: Option D: right thoracotomy.</b><br><br>🔵 <b>Detailed Trauma Surgery and Critical Care Pathophysiological Analysis:</b><br>This case represents a catastrophic, delayed diagnosis of a <b>penetrating thoracic esophageal injury (blast cavity and shearing from a high-energy missile)</b> presented on post-injury day 4. Extravasation of gastric enzymes, digestive contents, saliva, and mixed oral/enteric bacterial flora directly into the mediastinum and pleural cavity leads to full-thickness chemical necrosis, severe anaerobic putrid empyema (manifested by the foul-smelling, dark greenish-black drainage), and refractory distributive septic shock.<br><br>1️⃣ <b>Anatomy of Esophageal Exposure and Surgical Approach:</b><br>• The middle and upper thoracic esophagus lies immediately adjacent to the right mediastinal pleura and anterior to the vertebral column, coursing to the right of the aortic arch. Consequently, missile injuries to the mid-thoracic esophagus decompress predominantly into the <b>right hemithorax</b>.<br>• An <mark style=\"background:#2ecc71;color:#fff\"><b>urgent right posterolateral thoracotomy (Option D)</b></mark> is the mandatory, gold-standard surgical approach because it provides direct, unobstructed access to the entire mid-to-lower thoracic esophagus, azygos vein, and posterior mediastinum.<br><br>2️⃣ <b>Principles of Source Control in Delayed (>24 Hours) Esophageal Perforation:</b><br>• By post-injury day 4, the mediastinum and right hemithorax are encased in organized fibrinopurulent loculations, microabscesses, and dense fibrinous peel. Survival hinges entirely on <b>radical, open surgical debridement (source control)</b>:<br>  1. <b>Extensive Pleural Decortication:</b> Evacuation of all particulate digestive debris and loculated empyema to allow total re-expansion of the right lung;<br>  2. <b>Wide Mediastinal Pleurotomy:</b> Unroofing the posterior mediastinum from the thoracic inlet down to the diaphragmatic hiatus to eliminate trapped, putrid tissue collections;<br>  3. <b>Management of the Esophageal Defect:</b> Direct inspection under open visualization. In delayed gunshot wounds, tissue blast injury creates ragged, necrotic, friable muscular edges. Options include: primary two-layer repair with wide mechanical reinforcement using a well-vascularized tissue pedicle (e.g., intercostal muscle flap, pedicled latissimus dorsi flap, or diaphragm patch); creation of a controlled, wide-bore T-tube esophagocutaneous fistula; or total esophageal exclusion/diversion with cervical esophagostomy if the thoracic esophagus is largely destroyed.<br><br>3️⃣ <b>Why other options are categorically incorrect:</b><br>• <span style=\"color:#e74c3c\"><b>Esophagoscopy with stenting (Option A):</b></span> Endoscopic placement of a self-expanding covered metal stent (SEMS) is appropriate only in selected, acute (<24 hours), clean, iatrogenic instrumental perforations in stable patients with minimal extraluminal soiling. In a day 4 ballistic injury with extensive cavitation, a stent cannot achieve an adequate seal against shredded, necrotic walls, risks distal migration, and—critically—<b>does not debride the putrid, locked empyema and mediastinitis</b> fueling the patient's lethal sepsis.<br>• <span style=\"color:#e74c3c\"><b>Inserting another right chest tube (Option B):</b></span> A bedside chest tube cannot evacuate dense, fibrinous coagula, food particles, and necrotic debris, nor can it inspect or repair the blast hole in the esophagus. Relying on closed percutaneous drainage in severe mediastinal sepsis carries a mortality approaching 100%.<br>• <span style=\"color:#e74c3c\"><b>Intrapleural lytic therapy (Option C):</b></span> Instilling intrapleural tPA/DNase is strictly contraindicated in the presence of an active, ongoing gastrointestinal visceral tract rupture. Fibrinolytics will dissolve protective fibrin barriers, massively escalating mediastinal contamination and risking catastrophic arrosion hemorrhage from intercostal or bronchovascular vessels.<br><br>🧠 <b>Board Pearl:</b><br>Penetrating Gunshot Wound to the Chest + Greenish-Black Drain Output on Day 4 ➡️ <b>Delayed penetrating esophageal injury with putrid empyema and necrotizing mediastinitis</b>! ➡️ Mandatory lifesaving step: <mark style=\"background:#2ecc71;color:#fff\"><b>Urgent Right Thoracotomy (Option D)</b></mark>! ➡️ Provides wide mediastinal unroofing, decortication, and definitive defect management (muscle flap buttress, T-tube drainage, or exclusion)! ➡️ Endoscopic stenting (Option A ❌) is contraindicated in contaminated ballistic injuries! ➡️ Intrapleural fibrinolytics (Option C ❌) are strictly forbidden in active GI leaks!<br><br>🔥 <b>Mnemonic Rule «B-U-L-L-E-T»:</b><br>• <b>B</b> — <b>B</b>allistic gunshot wounds produce large blast cavities with surrounding devitalized tissue.<br>• <b>U</b> — <b>U</b>rgent right thoracotomy is the sole method to debride and decorticate (<b>Option D</b>).<br>• <b>L</b> — <b>L</b>eakage of greenish-black fluid confirms active GI-pleural communication.<br>• <b>L</b> — <b>L</b>ytic enzymes (Option C ❌) are lethal in unclosed GI perforations.<br>• <b>E</b> — <b>E</b>ndoscopic stenting (Option A ❌) fails to cleanse the contaminated pleural space.<br>• <b>T</b> — <b>T</b>ube thoracostomy (Option B ❌) cannot clear organized necrotic phlegmon.",
@@ -2530,7 +2530,7 @@
       "optionsRu": {
         "A": "увеличивать дыхательный объем до достижения картины хорошей вентиляции легких на рентгенограмме",
         "B": "поддерживать PaCO2 в пределах нормальных физиологических значений",
-        "C": "поддерживать PaO2 ≥ 55 мм рт. ст. (maintain PaO2 ≥ 55 mmHg)",
+        "C": "поддерживать PaO2 ≥ 55 мм рт. ст.",
         "D": "поддерживать pH в диапазоне 7,35–7,45"
       },
       "correctAnswer": "C",
@@ -2563,7 +2563,7 @@
         "D": "intravenous sodium bicarbonate"
       },
       "optionsRu": {
-        "A": "увеличение фракции вдыхаемого кислорода (FiO2) (increasing FiO2 concentration)",
+        "A": "увеличение фракции вдыхаемого кислорода (FiO2)",
         "B": "увеличение частоты дыхания и/или дыхательного объема",
         "C": "ингаляция оксида азота и альбутерола (сальбутамола)",
         "D": "внутривенное введение гидрокарбоната натрия"
@@ -2602,7 +2602,7 @@
       "optionsRu": {
         "A": "инфузия добутамина",
         "B": "увеличение фракции кислорода (FiO2)",
-        "C": "ингаляционный оксид азота (inhaled nitric oxide)",
+        "C": "ингаляционный оксид азота",
         "D": "инфузия ингибитора фосфодиэстеразы (милринон)"
       },
       "correctAnswer": "C",
@@ -2674,7 +2674,7 @@
       },
       "optionsRu": {
         "A": "диуретическая терапия с целью достижения отрицательного гидробаланса",
-        "B": "применение стратегии протективной вентиляции легких (implement protective lung ventilation strategies)",
+        "B": "применение стратегии протективной вентиляции легких",
         "C": "назначение антибиотиков широкого спектра действия",
         "D": "поддержание целевого уровня PaCO2 менее 40 мм рт. ст."
       },
@@ -2712,7 +2712,7 @@
       "optionsRu": {
         "A": "отменить ванкомицин и цефепим в момент экстубации трахеи",
         "B": "отменить ванкомицин и цефепим при снижении лейкоцитов < 10 000/мкл",
-        "C": "отменить ванкомицин и продолжить курс цефепима в течение 7 дней (stop vancomycin and continue cefepime for 7 days)",
+        "C": "отменить ванкомицин и продолжить курс цефепима в течение 7 дней",
         "D": "отменить ванкомицин, а цефепим отменить после полного разрешения инфильтрата на рентгенограмме"
       },
       "correctAnswer": "C",
@@ -2748,7 +2748,7 @@
         "D": "resect dehiscence with primary re-anastomosis and omental flap"
       },
       "optionsRu": {
-        "A": "разобщение анастомоза с формированием шейной эзофагостомы и низведением жизнеспособного желудка в брюшную полость (divert esophagostomy and return viable stomach to abdomen)",
+        "A": "разобщение анастомоза с формированием шейной эзофагостомы и низведением жизнеспособного желудка в брюшную полость",
         "B": "ушивание зоны несостоятельности с широким дренированием средостения",
         "C": "установка покрытого пищеводного стента и правосторонняя торакоскопическая санация с дренированием",
         "D": "резекция зоны несостоятельности с формированием повторного первичного анастомоза и укрытием сальниковым лоскутом"
@@ -2788,7 +2788,7 @@
         "A": "снижением возможности получения адъювантной терапии",
         "B": "повышением летальности при повторном эпизоде пневмонии",
         "C": "повышением риска развития локального рецидива опухоли",
-        "D": "снижением ее общей выживаемости (reducing her overall survival)"
+        "D": "снижением ее общей выживаемости"
       },
       "correctAnswer": "D",
       "explanationEn": "🎯 <b>Correct Answer: Option D: reducing her overall survival.</b><br><br>🔵 <b>Detailed Oncologic and Immunopathological Analysis:</b><br>Postoperative pulmonary complications—predominantly nosocomial pneumonia—occur in 15% to 35% of patients following transthoracic esophagectomy. Beyond prolonging ICU stay and increasing perioperative mortality, major infectious complications exert a profound, independent negative effect on <b>long-term oncologic outcomes</b>.<br><br>1️⃣ <b>Clinical Evidence from Landmark Oncology Trials:</b><br>• In large prospective multicenter surgical oncology trials, notably the landmark <b>Japan Clinical Oncology Group (JCOG-9907)</b> study and secondary registry analyses, the occurrence of post-esophagectomy pneumonia was proven to be an <b>independent prognostic hazard</b>:<br>  - Pneumonia independently portends a statistically significant reduction in <mark style=\"background:#2ecc71;color:#fff\"><b>overall survival (OS) (Option D)</b></mark> (hazard ratio [HR] typically ranging from <b>1.60 to 1.82</b>);<br>  - Patients who develop major infectious complications exhibit a steep drop in 3-year and 5-year overall and disease-free survival curves, even after complete curative-intent R0 resection.<br><br>2️⃣ <b>Immunological and Molecular Mechanisms:</b><br>• <i>Systemic Cytokine Surge & Immunoparalysis:</i> Severe bacterial pneumonia triggers an uncontrolled release of pro-inflammatory cytokines ($\\text{TNF}-\\alpha$, $\\text{IL}-1\\beta$, $\\text{IL}-6$, $\\text{IL}-8$), followed by a profound compensatory anti-inflammatory response syndrome (CARS). This leads to apoptosis and exhaustion of cytotoxic $\\text{CD8}^+$ T-lymphocytes and natural killer (NK) cells.<br>• <i>Micrometastatic Awakening:</i> Depletion of host cell-mediated antitumor immunosurveillance provides a permissive systemic microenvironment that promotes the survival and rapid proliferation of dormant circulating tumor cells (CTCs) and occult micrometastases, resulting in distant metastatic relapse.<br>• <i>Pro-Angiogenic Signaling:</i> Systemic inflammation stimulates the vascular endothelial growth factor (VEGF) pathway and facilitates extracellular matrix remodeling, enhancing occult tumor extravasation.<br><br>3️⃣ <b>Why other options are categorically incorrect:</b><br>• <span style=\"color:#e74c3c\"><b>Decreasing the opportunity to receive adjuvant therapies (Option A):</b></span> In locally advanced esophageal squamous cell carcinoma, standard evidence-based treatment (such as the CROSS or JCOG protocols) relies fundamentally on <b>neoadjuvant (induction) chemoradiotherapy</b>. Following definitive R0 surgical resection, adjuvant chemotherapy or radiotherapy is not routinely indicated; hence, missing adjuvant therapy does not account for the survival penalty.<br>• <span style=\"color:#e74c3c\"><b>Increasing the mortality from another pneumonia (Option B):</b></span> While baseline pulmonary reserve may be moderately altered, late mortality in cured post-esophagectomy cancer patients is driven primarily by systemic neoplastic recurrence, not by fatal recurrence of a future benign pneumonia.<br>• <span style=\"color:#e74c3c\"><b>Increasing the risk of a local recurrence (Option C):</b></span> Local anastomotic recurrence is dictated by primary tumor margins, microscopic radicality (R0 vs. R1/R2), and the quality of lymphadenectomy. The systemic immunosuppressive cascade driven by sepsis promotes diffuse haematogenous metastatic dissemination and poor overall survival, rather than isolated mechanical failure at the local anastomotic site.<br><br>🧠 <b>Board Pearl:</b><br>Post-esophagectomy Infectious Complications (Pneumonia) ➡️ <b>Long-Term Outcome:</b> Independently and significantly <mark style=\"background:#2ecc71;color:#fff\"><b>reduces OVERALL SURVIVAL (OS) (Option D)</b></mark> (demonstrated in JCOG-9907 trial data, HR ~ 1.8)! ➡️ Driven by a systemic cytokine storm ($\\text{IL}-6$, $\\text{TNF}-\\alpha$), severe T-cell/NK-cell exhaustion, and rapid outgrowth of occult micrometastases! ➡️ Adjuvant therapy (Option A ❌) is not routine after induction + R0 resection!<br><br>🔥 <b>Mnemonic Rule «O-S-C-E-L-L»:</b><br>• <b>O</b> — <b>O</b>verall <b>S</b>urvival is significantly reduced by post-op pneumonia (<b>Option D</b>).<br>• <b>S</b> — <b>S</b>ystemic cytokine storm impairs host antitumor defenses.<br>• <b>C</b> — <b>C</b>ell-mediated immunity (CD8+ T-cells and NK cells) is suppressed by severe infection.<br>• <b>E</b> — <b>E</b>xtravasation of circulating tumor cells is accelerated.<br>• <b>L</b> — <b>L</b>ocal recurrence alone (Option C ❌) is not the driver: dissemination is distant and systemic.<br>• <b>L</b> — <b>L</b>ong-term follow-up in JCOG-9907 confirmed this survival decrement.",
@@ -2826,7 +2826,7 @@
         "A": "внутривенный цефазолин за 30 минут до индукции в наркоз",
         "B": "пероральный прием цефазолина и метронидазола вечером накануне операции",
         "C": "пероральный прием цефазолина за день до операции (3 дозы)",
-        "D": "интраназальное применение мази мупироцина 2 раза в сутки в течение 5 дней до операции (topical nasal mupirocin twice daily for 5 days prior to surgery)"
+        "D": "интраназальное применение мази мупироцина 2 раза в сутки в течение 5 дней до операции"
       },
       "correctAnswer": "D",
       "explanationEn": "🎯 <b>Correct Answer: Option D: topical nasal mupirocin twice daily for 5 days prior to surgery.</b><br><br>🔵 <b>Detailed Surgical Infection and Preventative Evidence-Based Analysis:</b><br>Deep sternal wound infections (DSWI) and post-sternotomy mediastinitis occur in 0.5% to 2% of patients undergoing coronary artery bypass grafting (CABG) and carry devastating mortality rates (up to 15%–25%). Nasal carriage of <i>Staphylococcus aureus</i> (both methicillin-susceptible [MSSA] and methicillin-resistant [MRSA]) is present in 20% to 30% of the general population and constitutes the single most powerful endogenous reservoir for surgical site infections (SSIs) in cardiac surgery via manual and airborne transmission to the sternotomy wound.<br><br>1️⃣ <b>Preoperative Decolonization Bundles and STS Guidelines (Why Option D is correct):</b><br>• The <i>Society of Thoracic Surgeons (STS) Practice Guidelines for Antibiotic Prophylaxis in Cardiac Surgery</i> explicitly recommend targeted or universal preoperative nasal screening and topical eradication protocols.<br>• Applying <mark style=\"background:#2ecc71;color:#fff\"><b>topical nasal mupirocin 2% ointment twice daily for 5 consecutive days prior to surgery (Option D)</b></mark>, paired with whole-body chlorhexidine gluconate (CHG) antiseptic showering/bathing, eradicates anterior nares staphylococcal carriage in >90% of patients.<br>• Multiple prospective randomized trials and meta-analyses have conclusively proven that this 5-day bundle reduces postoperative <i>S. aureus</i> deep sternal wound infections and bacteremia by approximately <b>50% to 60%</b>.<br><br>2️⃣ <b>Why other options are categorically incorrect:</b><br>• <span style=\"color:#e74c3c\"><b>Intravenous cefazolin 30 minutes prior to induction of anesthesia (Option A):</b></span> Intravenous cefazolin is indeed the standard first-line systemic parenteral prophylactic antibiotic for cardiac surgery. However, international guidelines (STS, WHO, CDC) specifically mandate timing prophylaxis relative to <b>skin incision (administered within 60 minutes prior to surgical cut)</b>, rather than tied to induction of anesthesia. More importantly, this question asks for the regimen indicated during the <i>outpatient preparatory workup</i> phase, whereas IV cefazolin is an intraoperative intervention.<br>• <span style=\"color:#e74c3c\"><b>Oral cefazolin options (Option B & Option C):</b></span> Cefazolin is strictly a parenteral drug; no oral formulation of cefazolin exists (first-generation oral cephalosporins are cephalexin or cefadroxil). Furthermore, routine oral antibiotic regimens given the day or night before clean cardiac surgery are unproven, contraindicated, induce significant dysbiosis, and select for multi-drug resistant hospital organisms without reducing SSIs.<br><br>🧠 <b>Board Pearl:</b><br>Preoperative Cardiac Surgical Site Infection (SSI) Prevention ➡️ Endogenous reservoir #1: <b>Anterior nares colonization of S. aureus</b> (MSSA/MRSA)! ➡️ Guideline-directed outpatient decolonization: <mark style=\"background:#2ecc71;color:#fff\"><b>Topical nasal mupirocin 2% ointment BID for 5 days preoperatively (Option D)</b></mark> + Chlorhexidine bathing! ➡️ Parenteral Cefazolin (Option A ❌) is given strictly within 60 minutes of <b>skin incision</b>, not induction! ➡️ Oral preoperative antibiotics (Options B & C ❌) are contraindicated, and cefazolin has NO oral form!<br><br>🔥 <b>Mnemonic Rule «N-A-S-A-L»:</b><br>• <b>N</b> — <b>N</b>ares: anterior nares are the primary colonization site for staphylococci.<br>• <b>A</b> — <b>A</b>pply mupirocin ointment twice daily for 5 days pre-op (<b>Option D</b>).<br>• <b>S</b> — <b>S</b>kin incision (not induction) is the timing anchor for IV cefazolin (Option A ❌).<br>• <b>A</b> — <b>A</b>void oral antibiotics (Options B & C ❌): no oral cefazolin exists.<br>• <b>L</b> — <b>L</b>owers deep sternal wound infections by more than 50%.",
@@ -2863,7 +2863,7 @@
         "A": "сброс воздуха по дренажу",
         "B": "фибрилляция предсердий",
         "C": "некупированный болевой синдром",
-        "D": "послеоперационная инфекция (postoperative infection)"
+        "D": "послеоперационная инфекция"
       },
       "correctAnswer": "D",
       "explanationEn": "🎯 <b>Correct Answer: Option D: postoperative infection.</b><br><br>🔵 <b>Detailed Epidemiological and Quality-Metric Clinical Analysis:</b><br>Unplanned 30-day readmission following pulmonary resection (lobectomy or segmentectomy) occurs in <b>7% to 12%</b> of patients and serves as a cardinal quality metric in thoracic surgical oncology and hospital reimbursement benchmarking (e.g., CMS Hospital Readmissions Reduction Program).<br><br>1️⃣ <b>Etiological Distribution of 30-Day Readmissions (Why Option D is correct):</b><br>• Large-scale analyses of multi-institutional registries, specifically the <b>Society of Thoracic Surgeons (STS) General Thoracic Surgery Database</b> and the American College of Surgeons NSQIP, systematically identify <mark style=\"background:#2ecc71;color:#fff\"><b>postoperative infections (Option D)</b></mark> as the undisputed <b>leading cause of unplanned hospital readmission</b> (accounting for <b>35% to 50%</b> of all re-admissions).<br>• <i>Breakdown of Infectious Complications:</i><br>  - <b>Pneumonia (Bronchopneumonia / Aspiration):</b> Accounts for the vast majority. In an 86-year-old patient, blunted cough reflexes, chest wall splinting, microaspiration, and atelectasis during the transitional home period rapidly precipitate invasive lower respiratory tract infection requiring IV antibiotics and oxygen supplementation;<br>  - <b>Pleural Space Infections (Empyema):</b> Delayed infected collections or fluid superinfections in the post-resection space;<br>  - <b>Surgical Site Infections (SSI):</b> Thoracotomy/port-site cellulitis or abscesses.<br><br>2️⃣ <b>Why other options are categorically incorrect:</b><br>• <span style=\"color:#e74c3c\"><b>Air leak (Option A):</b></span> Prolonged alveolar air leak (lasting >5 days) is the most frequent <i>in-hospital</i> complication delaying primary discharge. However, standard thoracic surgical protocol dictates that patients are not discharged with an active substantial air leak unless explicitly transitioned to a dedicated ambulatory flutter valve. Consequently, acute air leak rarely triggers a sudden, unplanned post-discharge inpatient readmission.<br>• <span style=\"color:#e74c3c\"><b>Atrial fibrillation (Option B):</b></span> Postoperative atrial fibrillation is the most common cardiac complication following pulmonary resection (occurring in 15%–25% of elderly patients). However, the physiological incidence of arrhythmia strictly peaks on <b>postoperative days 2 to 3</b> while the patient is still hospitalized. It is detected, medically stabilized (rate/rhythm control), and managed prior to discharge on day 4.<br>• <span style=\"color:#e74c3c\"><b>Lack of pain control (Option C):</b></span> Poor analgesia is a frequent reason for outpatient triage telephone calls or emergency room evaluations. However, emergency department physician assessment and medication reconciliation (oral multimodal analgesia adjustment) typically allow safe outpatient discharge rather than requiring formal acute inpatient re-hospitalization.",
@@ -2897,10 +2897,10 @@
         "D": "idarucizumab"
       },
       "optionsRu": {
-        "A": "4-факторного концентрата протромбинового комплекса (4-factor prothrombin complex concentrate)",
+        "A": "4-факторного концентрата протромбинового комплекса",
         "B": "свежезамороженной плазмы (20 мл/кг)",
         "C": "свежезамороженной плазмы и внутривенного витамина K",
-        "D": "идаруцизумаба (idarucizumab)"
+        "D": "идаруцизумаба"
       },
       "correctAnswer": "A",
       "explanationEn": "🎯 <b>Correct Answer: Option A: 4-factor prothrombin complex concentrate.</b><br><br>🔵 <b>Detailed Hemostatic and Trauma Critical Care Analysis:</b><br>This patient presents with life-threatening thoracic trauma, penetrating hemothorax, and hemorrhagic shock complicated by severe iatrogenic coagulopathy from vitamin K antagonist therapy (warfarin) with an elevated INR of 3.5. In severe active bleeding, standard guidelines from the American College of Chest Physicians (CHEST), the American Society of Anesthesiologists (ASA), and international trauma societies mandate rapid, immediate reversal of vitamin K antagonism.<br><br>1️⃣ <b>Pharmacological Superiority of 4-Factor PCC (Why Option A is correct):</b><br>• <mark style=\"background:#2ecc71;color:#fff\"><b>4-factor prothrombin complex concentrate (4F-PCC — Option A)</b></mark> contains virally inactivated, concentrated non-activated human vitamin K-dependent coagulation factors: <b>Factor II (prothrombin), Factor VII, Factor IX, and Factor X</b>, along with regulatory anticoagulant proteins C and S.<br>• <i>Speed of Reversal:</i> 4F-PCC normalizes the INR to baseline within <b>15 to 30 minutes</b> of infusion initiation, whereas fresh frozen plasma (FFP) requires prolonged infusions over 12 to 24 hours to achieve comparable factor levels.<br>• <i>Volume and Osmotic Load:</i> The infusion volume of 4F-PCC is miniscule (approximately <b>80 to 100 mL</b> administered over 10–15 minutes). In contrast, therapeutic FFP requires massive fluid volumes ($20\\text{ mL/kg} \\approx 1.5\\text{ to }2.0\\text{ L}$), carrying lethal hazards of Transfusion-Associated Circulatory Overload (TACO) and Transfusion-Related Acute Lung Injury (TRALI).<br>• <i>Operational Agility:</i> 4F-PCC is stored as a lyophilized room-temperature powder, requires no ABO blood typing or thawing delay (saving 45–60 minutes of trauma bay delay), and achieves swift surgical hemostasis.<br>• <i>Adjunctive Sustained Protection:</i> Intravenous vitamin K (5–10 mg slow IV) should be co-administered to stimulate endogenous hepatic factor synthesis, because the terminal half-life of exogenous Factor VII in PCC is short (~ 6 hours).<br><br>2️⃣ <b>Why other options are categorically incorrect:</b><br>• <span style=\"color:#e74c3c\"><b>Fresh frozen plasma options (Option B & Option C):</b></span> Fresh frozen plasma requires blood bank ABO group verification and 30 to 45 minutes of laboratory water-bath thawing. Delivering 20 mL/kg takes hours, frequently fails to fully correct an INR above 3.0, and directly triggers pulmonary edema and worsened gas exchange in a damaged lung. International trauma guidelines reserve FFP exclusively for clinical environments where 4F-PCC is physically unavailable.<br>• <span style=\"color:#e74c3c\"><b>Idarucizumab (Option D):</b></span> Idarucizumab is a humanized monoclonal antibody Fab fragment engineered strictly for the targeted reversal of <b>dabigatran</b> (a direct oral thrombin inhibitor). It binds dabigatran with 350-fold higher affinity than thrombin, but exhibits zero affinity or pharmacological activity against vitamin K antagonists, Factor II, VII, IX, or X.",
@@ -2935,7 +2935,7 @@
       },
       "optionsRu": {
         "A": "дуплексное сканирование вен нижних конечностей с обеих сторон",
-        "B": "системная антикоагулянтная терапия (systemic anticoagulation)",
+        "B": "системная антикоагулянтная терапия",
         "C": "тромболитическая терапия",
         "D": "вентиляционно-перфузионная сцинтиграфия легких"
       },
@@ -2974,7 +2974,7 @@
         "A": "прикроватная эзофагогастродуоденоскопия (ЭГДС)",
         "B": "прикроватная фибробронхоскопия",
         "C": "установка назогастрального зонда",
-        "D": "дренирование правой плевральной полости (установка плеврального дренажа) (right chest tube placement)"
+        "D": "дренирование правой плевральной полости (установка плеврального дренажа)"
       },
       "correctAnswer": "D",
       "explanationEn": "🎯 <b>Correct Answer: Option D: right chest tube placement.</b><br><br>🔵 <b>Detailed Critical Care and Surgical Pathophysiological Analysis:</b><br>This patient exhibits a catastrophic presentation of an acute intrathoracic anastomotic leak following an Ivor Lewis esophagogastrectomy. The appearance of bilious output confirms gross transmural disruption of the esophagogastric anastomosis, allowing digestive secretions, bile, and gastric contents to escape into the mediastinum and the right pleural cavity.<br><br>1️⃣ <b>Pathophysiology of Tension Hydrothorax and Obstructive Shock:</b><br>• The small-caliber closed-suction Jackson-Pratt drain is overwhelmed or occluded by fibrinous and particulate debris, leading to rapid massive fluid accumulation in the right hemithorax.<br>• Chest radiography reveals complete opacification of the right hemithorax with acute contralateral (leftward) shift of the mediastinum and trachea.<br>• This intense intrapleural hypertension produces true <b>tension hydrothorax / tension empyema</b>, culminating in acute <b>obstructive shock</b>:<br>  1. Direct mechanical angulation and compression of the superior and inferior vena cava;<br>  2. Near-total collapse of right atrial filling and critical reduction in right ventricular preload;<br>  3. Severe drop in left ventricular stroke volume, precipitating tachycardia (120 bpm) and arterial hypotension (85/55 mmHg).<br>• The single most urgent and life-saving priority is immediate decompression via a large-bore <mark style=\"background:#2ecc71;color:#fff\"><b>right chest tube placement (tube thoracostomy — Option D)</b></mark>. This promptly evacuates pressurized bile and purulent effusion, shifts the mediastinum back to the midline, restores systemic venous return, and provides mandatory source control.<br><br>2️⃣ <b>Why other options are categorically incorrect:</b><br>• <span style=\"color:#e74c3c\"><b>Nasogastric tube placement (Option C):</b></span> Blind insertion of a nasogastric tube following recent esophagectomy is <b>strictly contraindicated</b>. In fresh or leaking anastomoses, blind passage carries an unacceptably high risk of penetrating the delicate suture/staple line, driving the tube directly into the mediastinum, or perforating the ischemic gastric conduit wall.<br>• <span style=\"color:#e74c3c\"><b>Bedside esophagogastroduodenoscopy (Option A):</b></span> Upper endoscopy is a crucial diagnostic and therapeutic modality for evaluating conduit viability and defect size. However, undertaking endoscopy and insuflating air into a patient with untreated tension hydrothorax and obstructive shock will catastrophically exacerbate mediastinal air/fluid tension and trigger lethal cardiac arrest. Decompression of the pleural space must precede endoscopy.<br>• <span style=\"color:#e74c3c\"><b>Bedside flexible bronchoscopy (Option B):</b></span> While bronchoscopy is valuable for clearing tracheobronchial aspirate, aspiration pneumonitis is not the primary driver of this patient's cardiovascular collapse; the immediate lethal threat is mechanical vena cava compression from the tension pleural effusion.",
@@ -3009,7 +3009,7 @@
       "optionsRu": {
         "A": "дренирование под контролем КТ",
         "B": "инстилляция фибринолитиков через функционирующий плевральный дренаж",
-        "C": "повторная торакоскопия с санацией, дренированием и декортикацией легкого (redo thoracoscopy with drainage and decortication)",
+        "C": "повторная торакоскопия с санацией, дренированием и декортикацией легкого",
         "D": "установка дренажа под контролем УЗИ с инстилляцией фибринолитиков"
       },
       "correctAnswer": "C",
@@ -3046,7 +3046,7 @@
       "optionsRu": {
         "A": "прикроватная ограниченная торакотомия с биопсией",
         "B": "трансторакальная трепан-биопсия под контролем КТ",
-        "C": "фибробронхоскопия с бронхоальвеолярным лаважем и браш-биопсией (flexible bronchoscopy with bronchial lavage and brushings)",
+        "C": "фибробронхоскопия с бронхоальвеолярным лаважем и браш-биопсией",
         "D": "видеоторакоскопическая (VATS) краевая резекция/биопсия легкого слева"
       },
       "correctAnswer": "C",
@@ -3084,7 +3084,7 @@
       "optionsRu": {
         "A": "бронхоскопическая установка стента",
         "B": "электрическая кардиоверсия",
-        "C": "дренирование левой плевральной полости (left chest tube placement)",
+        "C": "дренирование левой плевральной полости",
         "D": "вено-венозная экстракорпоральная мембранная оксигенация (ВВ-ЭКМО)"
       },
       "correctAnswer": "C",
@@ -3120,7 +3120,7 @@
       "optionsRu": {
         "A": "внутриполостное введение флуконазола",
         "B": "внутривенная инфузия амфотерицина B",
-        "C": "внутривенное введение бензилпенициллина (пенициллина G) (intravenous penicillin G)",
+        "C": "внутривенное введение бензилпенициллина (пенициллина G)",
         "D": "лобэктомия средней доли правого легкого"
       },
       "correctAnswer": "C",
@@ -3162,7 +3162,7 @@
       "optionsRu": {
         "A": "начать инфузию адреналина 0,03 мкг/кг/мин",
         "B": "начать инфузию фенилэфрина (мезатона) 20 мкг/мин",
-        "C": "болюсное введение 1 л кристаллоидного раствора (give fluid bolus of 1 L crystalloid solution)",
+        "C": "болюсное введение 1 л кристаллоидного раствора",
         "D": "выполнить чреспищеводную эхокардиограмму (ЧП-ЭхоКГ)"
       },
       "correctAnswer": "C",
@@ -3204,7 +3204,7 @@
       "optionsRu": {
         "A": "болюсное введение аденозина",
         "B": "электрическая кардиоверсия",
-        "C": "контроль частоты сердечных сокращений метопрололом (rate control with metoprolol)",
+        "C": "контроль частоты сердечных сокращений метопрололом",
         "D": "контроль ритма амиодароном"
       },
       "correctAnswer": "C",
@@ -3247,7 +3247,7 @@
       "optionsRu": {
         "A": "КТ органов грудной клетки с пероральным контрастированием",
         "B": "болюсная инфузия кристаллоидных растворов",
-        "C": "внутривенное введение антибиотиков широкого спектра действия (intravenous broad-spectrum antibiotics)",
+        "C": "внутривенное введение антибиотиков широкого спектра действия",
         "D": "внутривенное введение гидрокортизона"
       },
       "correctAnswer": "C",
@@ -3287,7 +3287,7 @@
         "D": "transesophageal echocardiogram"
       },
       "optionsRu": {
-        "A": "экстренная коронароангиография (emergent coronary arteriography)",
+        "A": "экстренная коронароангиография",
         "B": "экстренная повторная операция (решунтирование)",
         "C": "внутривенная инфузия нитроглицерина 50 мкг/мин",
         "D": "чреспищеводная эхокардиография (ЧП-ЭхоКГ)"
@@ -3333,7 +3333,7 @@
         "A": "болюсное введение 1 л кристаллоидного раствора",
         "B": "инициация временной механической поддержки правого желудочка (RVAD)",
         "C": "установка внутриаортального баллонного контрпульсатора (ВАБК)",
-        "D": "ингаляционное введение простациклина 50 нг/кг/мин (start inhaled prostacyclin 50 ng/kg/min)"
+        "D": "ингаляционное введение простациклина 50 нг/кг/мин"
       },
       "correctAnswer": "D",
       "explanationEn": "🎯 <b>Correct Answer: Option D: start inhaled prostacyclin 50 ng/kg/min.</b><br><br>🔵 <b>Detailed Transplant Critical Care and Right Ventricular Pathophysiology:</b><br>Acute right ventricular (RV) failure of the donor allograft occurs in 20% to 30% of orthotopic heart transplants and represents a leading cause of early post-transplant mortality. The fundamental mechanism is afterload mismatch: a normal, unconditioned donor right ventricle (accustomed to low pulmonary vascular resistance [PVR] in a healthy donor) is suddenly confronted with the recipient's pre-existing, chronic secondary pulmonary hypertension.<br><br>1️⃣ <b>Hemodynamic Profile of Acute Donor RV Failure:</b><br>• <i>Preload / RV Filling:</i> Markedly elevated central venous pressure ($CVP = 18\\text{ mmHg}$);<br>• <i>Afterload:</i> Severe pulmonary arterial hypertension ($PAP = 50/30\\text{ mmHg}$, mean $PAP \\approx 37\\text{ mmHg}$);<br>• <i>Left Heart Underfilling:</i> Low-normal pulmonary capillary wedge pressure ($PCWP = 10\\text{ mmHg}$) and low left ventricular preload due to RV failure to transmit forward stroke volume;<br>• <i>Output:</i> Critically depressed cardiac index ($CI = 1.7\\text{ L/min/m}^2$) and systemic hypotension ($100/60\\text{ mmHg}$ despite norepinephrine).<br><br>2️⃣ <b>Selective Pulmonary Vasodilation (Why Option D is correct):</b><br>• The patient is already receiving maximum recommended systemic inodilator therapy with milrinone ($0.5\\text{ mcg/kg/min}$), a phosphodiesterase-3 (PDE3) inhibitor.<br>• Further up-titration of systemic vasodilators is prohibited by systemic hypotension.<br>• <mark style=\"background:#2ecc71;color:#fff\"><b>Inhaled prostacyclin (epoprostenol / iloprost — Option D)</b></mark> (or inhaled nitric oxide [iNO]) is the undisputed therapy of choice:<br>  - Delivered directly into the ventilated alveoli, binding vascular smooth muscle prostanoid Gs-protein-coupled receptors to stimulate adenylate cyclase and increase intracellular cAMP;<br>  - Selectively vasodilates the pulmonary microvasculature, sharply lowering pulmonary vascular resistance and RV afterload;<br>  - Because it is rapidly cleared/inactivated in the systemic circulation, it does not induce systemic arteriolar dilation or worsen systemic blood pressure;<br>  - Relieves RV dilatation, corrects ventricular interdependence, and augments LV filling and cardiac output.<br><br>3️⃣ <b>Why other options are categorically incorrect:</b><br>• <span style=\"color:#e74c3c\"><b>Administer 1 L crystalloid fluid bolus (Option A):</b></span> Fluid loading is <b>strictly contraindicated and potentially fatal</b>. The RV is operating at the far descending limb of the Frank-Starling curve with severe volume overload ($CVP = 18\\text{ mmHg}$). Further volume loading causes acute RV chamber overdistension, functional tricuspid annular dilation, and severe \"ventricular interdependence\": the distended RV pushes the interventricular septum into the LV cavity, compressing the LV, worsening diastolic filling, and triggering cardiac arrest.<br>• <span style=\"color:#e74c3c\"><b>Place an intra-aortic balloon pump (Option C):</b></span> IABP selectively unloads the left ventricle and augments coronary diastolic perfusion. It provides zero afterload reduction for the right ventricle and is ineffective for isolated acute RV failure.<br>• <span style=\"color:#e74c3c\"><b>Initiate temporary right ventricular mechanical support (Option B):</b></span> While mechanical circulatory support (RVAD or peripheral VA-ECMO) is the ultimate salvage therapy for refractory RV failure, non-invasive pharmacological selective pulmonary vasodilation must always be initiated first before committing the patient to surgical device cannulation.",
@@ -3375,7 +3375,7 @@
       },
       "optionsRu": {
         "A": "болюсное введение гидрокортизона 100 мг в/в",
-        "B": "введение метиленового синего 2 мг/кг (give methylene blue 2 mg/kg)",
+        "B": "введение метиленового синего 2 мг/кг",
         "C": "увеличение дозы вазопрессина до 0,08 ЕД/мин",
         "D": "начать инфузию допамина 10 мкг/кг/мин"
       },
@@ -3417,10 +3417,10 @@
         "D": "resternotomy"
       },
       "optionsRu": {
-        "A": "двусторонняя пункционная декомпрессия плевральных полостей (needle thoracostomy)",
+        "A": "двусторонняя пункционная декомпрессия плевральных полостей",
         "B": "инициация кардиостимуляции в режиме DOO",
         "C": "имплантация устройства вспомогательного кровообращения желудочка (VAD)",
-        "D": "экстренная рестернотомия (resternotomy)"
+        "D": "экстренная рестернотомия"
       },
       "correctAnswer": "D",
       "explanationEn": "🎯 <b>Correct Answer: Option D: resternotomy.</b><br><br>🔵 <b>Detailed Cardiac Arrest Resuscitation and CALS Protocol Analysis:</b><br>Sudden pulseless electrical activity (PEA) or asystole occurring in the early postoperative window (within 4 to 24 hours) after sternotomy represents a distinctive clinical catastrophe in cardiac surgery. Unlike general medical ward arrests dominated by hypoxia, acid-base derangements, or pulmonary thromboembolism, postoperative PEA in a previously warm, perfused cardiac surgical patient is overwhelming presumed to stem from <b>acute cardiac tamponade, massive concealed surgical hemorrhage, or acute tension pneumothorax</b>.<br><br>1️⃣ <b>The CALS Algorithm and The 5-Minute Resternotomy Rule (Why Option D is correct):</b><br>• The <b>Society of Thoracic Surgeons (STS) Guidelines</b> and the <b>European Association for Cardio-Thoracic Surgery (EACTS) Cardiac Advanced Life Support (CALS)</b> protocol establish an explicit departure from standard ACLS guidelines:<br>  - Standard closed-chest compressions generate inadequate cardiac output, risk tearing fresh internal mammary artery / saphenous vein grafts, and induce sternal wire dehiscence;<br>  - High-dose intravenous epinephrine boluses ($1\\text{ mg}$) are avoided in early cardiac surgical arrest because they provoke severe malignant hypertension, violent surgical hemorrhage, and fatal ventricular arrhythmias upon return of spontaneous circulation;<br>  - The definitive resuscitation intervention of choice is <mark style=\"background:#2ecc71;color:#fff\"><b>emergent bedside resternotomy within 5 minutes (Option D)</b></mark>.<br>• <i>The Hazard of Clotted Chest Drains:</i> Minimal drain output immediately preceding cardiovascular collapse does <b>not</b> rule out cardiac tamponade. On the contrary, rapid cessation of tube drainage in cardiac ICU patients frequently denotes acute fibrinous clotting and mechanical tube occlusion, trapping expanding hematomas behind the posterior pericardium and left atrium, culminating in acute chamber collapse.<br>• Bedside reopening of the sternotomy immediately relieves intrapericardial hypertension, decompresses tamponade, restores venous filling, evacuates compressive hematomas, exposes the bleeding source for surgical control, and permits immediate direct internal cardiac massage.<br><br>2️⃣ <b>Why other options are categorically incorrect:</b><br>• <span style=\"color:#e74c3c\"><b>Initiate pacing on DOO mode (Option B):</b></span> DOO is an asynchronous pacing mode that ignores intrinsic sensing and paces both atria and ventricles. The ECG monitor explicitly displays an intact, intrinsic sinus rhythm in the 90s; the heart possesses normal electrical depolarization, but mechanical stroke volume has collapsed to zero due to extrinsic compression. Pacemaker capture cannot generate cardiac output when chambers are compressed by tamponade.<br>• <span style=\"color:#e74c3c\"><b>Bilateral needle thoracostomy (Option A):</b></span> While tension pneumothorax is on the differential of obstructive shock, acute concealed tamponade is statistically far more prevalent in the post-sternotomy ICU setting. Furthermore, needle thoracostomy fails to relieve pericardial tamponade and does not provide anatomical access to perform direct cardiac compressions or arrest control.<br>• <span style=\"color:#e74c3c\"><b>Place ventricular support device (Option C):</b></span> Committing a patient in active cardiac arrest to surgical ventricular assist device (VAD) implantation or emergency peripheral VA-ECMO without first decompressing acute tamponade violates fundamental resuscitation triage. Evacuating pericardial hematoma via resternotomy promptly restores spontaneous circulation in the majority of post-cardiotomy PEA events.",
@@ -3458,10 +3458,10 @@
         "D": "transition to comfort measures in maintaining the decision of the health care agent"
       },
       "optionsRu": {
-        "A": "выполнить волю дочери, поскольку она является законным лицом, принимающим решения, как ближайший родственник (next of kin)",
+        "A": "выполнить волю дочери, поскольку она является законным лицом, принимающим решения, как ближайший родственник",
         "B": "сохранить текущий объем интенсивной терапии без ее эскалации, так как состояние пациента не является бесперспективным",
-        "C": "перевести на паллиативную терапию, поскольку клиническая ситуация подпадает под определение бесперспективной медицинской помощи (futile care)",
-        "D": "перевести на паллиативную терапию, выполняя законное решение назначенного медицинского поверенного (transition to comfort measures in maintaining the decision of the health care agent)"
+        "C": "перевести на паллиативную терапию, поскольку клиническая ситуация подпадает под определение бесперспективной медицинской помощи",
+        "D": "перевести на паллиативную терапию, выполняя законное решение назначенного медицинского поверенного"
       },
       "correctAnswer": "D",
       "explanationEn": "🎯 <b>Correct Answer: Option D: transition to comfort measures in maintaining the decision of the health care agent.</b><br><br>🔵 <b>Detailed Bioethical and Medico-Legal Critical Care Analysis:</b><br>In clinical bioethics and health jurisprudence, managing incapacitated patients with multi-organ failure revolves around preserving patient autonomy through established legal surrogate hierarchies.<br><br>1️⃣ <b>The Hierarchy of Surrogate Decision-Making:</b><br>• The standard legal and ethical framework designates a clear tier of authority:<br>  1. <i>Directed Decision-Making:</i> Competent oral statements or formal Living Wills / Advance Directives executed by the patient;<br>  2. <i>Delegated Decision-Making:</i> Formally designated Healthcare Proxy / Durable Power of Attorney for Healthcare (DPOA-HC / Healthcare Agent);<br>  3. <i>Devolved Decision-Making (Statutory Default Surrogates / Next-of-Kin):</i> Family members in legally prioritized order (Spouse $\\rightarrow$ Adult Children $\\rightarrow$ Parents $\\rightarrow$ Adult Siblings);<br>  4. <i>Displaced Decision-Making:</i> Court-appointed legal guardian;<br>  5. <i>Deferred Decision-Making:</i> Attending physician / institutional ethics consultation.<br><br>2️⃣ <b>Superiority of the Appointed Agent over Next-of-Kin (Why Option D is correct):</b><br>• An officially appointed Healthcare Agent (<mark style=\"background:#2ecc71;color:#fff\"><b>Durable Power of Attorney for Healthcare — Option D</b></mark>) holds unequivocal, legally binding precedence over biological family members and statutory next-of-kin, including adult children.<br>• The patient deliberately and autonomously designated his friend to represent his values, and the friend is directly enforcing documented autonomous instructions prohibiting invasive life-prolonging measures in futile clinical states.<br>• Under the ethical doctrine of <i>Substituted Judgment</i>, the medical team is legally and ethically bound to honor the decisions of the designated agent.<br><br>3️⃣ <b>Why other options are categorically incorrect:</b><br>• <span style=\"color:#e74c3c\"><b>Honor the daughter's wishes (Option A):</b></span> Next-of-kin statutory priority applies only when the patient has <i>not</i> designated an official healthcare proxy. The biological relationship of the adult daughter does not supersede the formal, legally executed proxy document.<br>• <span style=\"color:#e74c3c\"><b>Transition to comfort measures based solely on medical futility (Option C):</b></span> Unilateral declaration of physiological or medical futility by physicians is ethically problematic and legally fraught when contested. The decision to limit life support derives directly from respecting patient autonomy through the authorized proxy, rather than paternalistic physician fiat.<br>• <span style=\"color:#e74c3c\"><b>Maintain current level of care without escalation (Option B):</b></span> Freezing treatment at the current level ignores the explicit legal directive of the authorized healthcare agent, violating the patient's right of self-determination.",
@@ -3499,7 +3499,7 @@
         "D": "gabapentin and lidocaine"
       },
       "optionsRu": {
-        "A": "парацетамол (ацетаминофен) и кетамин (acetaminophen and ketamine)",
+        "A": "парацетамол (ацетаминофен) и кетамин",
         "B": "клонидин и лидокаин",
         "C": "габапентин и кетамин",
         "D": "габапентин и лидокаин"
@@ -3545,7 +3545,7 @@
         "A": "пожилой возраст, сахарный диабет (СД), ХОБЛ и предоперационный прием ингибиторов АПФ",
         "B": "пожилой возраст, СД, ХОБЛ и предоперационный прием селективных ингибиторов обратного захвата серотонина (СИОЗС)",
         "C": "молодой возраст, высокий социально-экономический статус, застойная сердечная недостаточность (СН) и предоперационный прием СИОЗС",
-        "D": "молодой возраст, низкий социально-экономический статус, застойная сердечная недостаточность (СН) и предоперационный прием ингибиторов АПФ (young age, low socioeconomic status, CHF, and preoperative use of ACE inhibitors)"
+        "D": "молодой возраст, низкий социально-экономический статус, застойная сердечная недостаточность (СН) и предоперационный прием ингибиторов АПФ"
       },
       "correctAnswer": "D",
       "explanationEn": "🎯 <b>Correct Answer: Option D: young age, low socioeconomic status, CHF, and preoperative use of ACE inhibitors.</b><br><br>🔵 <b>Detailed Epidemiological and Quality-Metric Clinical Analysis:</b><br>Persistent postoperative opioid use (defined as receiving refills or filling opioid prescriptions $>90\\text{ days}$ following surgical discharge among previously opioid-naive individuals) is one of the most critical iatrogenic complications in modern surgical oncology, developing in <b>3% to 14%</b> of post-thoracic resection patients.<br><br>1️⃣ <b>Epidemiological Profile and Validated Predictors (Why Option D is correct):</b><br>• Large-scale database studies, specifically from the <b>Society of Thoracic Surgeons (STS) General Thoracic Surgery Database</b>, the ACS-NSQIP registry, and Medicare/Truven analytics, have identified distinct multivariable determinants of persistent narcotic dependence:<br>  - <b>Demographic and Social Determinants:</b> In sharp contrast to clinical intuition, <mark style=\"background:#2ecc71;color:#fff\"><b>younger age</b></mark> (rather than advanced age) is a powerful, consistent independent predictor of long-term dependence, driven by lower baseline pain thresholds, heightened neuroplasticity, and altered dopaminergic reward pathways. Similarly, <mark style=\"background:#2ecc71;color:#fff\"><b>lower socioeconomic status</b></mark> (low median income, Medicaid insurance, limited education) strongly correlates with opioid persistence due to limited access to comprehensive outpatient multimodal physical and psychological therapy;<br>  - <b>Comorbid Illness Burden:</b> <mark style=\"background:#2ecc71;color:#fff\"><b>Congestive heart failure (CHF)</b></mark>, chronic obstructive pulmonary disease (COPD), diabetes mellitus, and chronic liver/kidney disease are independently associated with prolonged opioid requirements, reflecting generalized physiological frailty, prolonged convalescence, and blunted functional recovery;<br>  - <b>Pharmacotherapy Associations:</b> In addition to preoperative psychiatric medications (SSRIs, benzodiazepines), multivariable regression models identify chronic preoperative use of <mark style=\"background:#2ecc71;color:#fff\"><b>ACE inhibitors</b></mark> as a statistically robust pharmacological predictor for protracted opioid consumption, representing a surrogate for vascular stiffness, cardiovascular disease burden, and complex metabolic syndrome.<br><br>2️⃣ <b>Why other options are categorically incorrect:</b><br>• <span style=\"color:#e74c3c\"><b>Options A & B:</b></span> Both incorrectly list <i>\"old age\"</i>. While elderly patients are at heightened risk for respiratory depression and acute opioid-induced delirium, multiple multi-institutional registry trials systematically demonstrate that <b>younger patients</b> have a substantially higher odds ratio for persistent long-term opioid use and behavioral addiction.<br>• <span style=\"color:#e74c3c\"><b>Option C:</b></span> Incorrectly cites <i>\"high socioeconomic status\"</i>. Higher income brackets and commercial insurance coverage are protective factors that significantly reduce the rate of prolonged post-discharge narcotic reliance compared to economically disadvantaged cohorts.",
@@ -3584,7 +3584,7 @@
         "D": "ibuprofen and lidocaine"
       },
       "optionsRu": {
-        "A": "парацетамол (ацетаминофен) и аспирин (acetaminophen and aspirin)",
+        "A": "парацетамол (ацетаминофен) и аспирин",
         "B": "парацетамол (ацетаминофен) и габапентин",
         "C": "габапентин и ибупрофен",
         "D": "ибупрофен и лидокаин"
@@ -3628,9 +3628,9 @@
       },
       "optionsRu": {
         "A": "вентиляция со сбросом давления в дыхательных путях (APRV)",
-        "B": "высокочастотная осцилляторная вентиляция (HFOV)",
-        "C": "высокий уровень положительного давления в конце выдоха (high PEEP)",
-        "D": "вентиляция с низким дыхательным объемом (low tidal volume ventilation)"
+        "B": "высокочастотная осцилляторная вентиляция",
+        "C": "высокий уровень положительного давления в конце выдоха",
+        "D": "вентиляция с низким дыхательным объемом"
       },
       "correctAnswer": "D",
       "explanationEn": "🎯 <b>Correct Answer: Option D: low tidal volume ventilation.</b><br><br>🔵 <b>Detailed Pulmonary Critical Care and Mechanical Ventilation Analysis:</b><br>Macro-aspiration of acidic gastric contents triggers intense chemical pneumonitis (Mendelson syndrome) and acute neutrophilic alveolar capillaritis, serving as a classic direct pulmonary cause of <b>Acute Respiratory Distress Syndrome (ARDS)</b> under the Berlin Definition.<br><br>1️⃣ <b>The Landmark ARMA Trial (ARDSNet) Evidence (Why Option D is correct):</b><br>• The seminal multicenter randomized controlled <b>ARMA trial</b> conducted by the National Heart, Lung, and Blood Institute (NHLBI) ARDS Clinical Trials Network evaluated traditional ventilation ($12\\text{ mL/kg}$ of predicted body weight [PBW]) versus a lung-protective strategy utilizing <mark style=\"background:#2ecc71;color:#fff\"><b>low tidal volume ventilation (Option D)</b></mark>.<br>• The lung-protective protocol targeted:<br>  - Tidal volume ($V_T$) of <b>$6\\text{ mL/kg}$ of predicted body weight (PBW)</b> (calculated based on biological sex and height, never actual total body weight);<br>  - Inspiratory plateau pressure ($P_{plat}$) <b>$\\le 30\\text{ cmH}_2\\text{O}$</b>.<br>• Low tidal volume ventilation produced a <b>statistically significant 22% relative reduction in 28-day all-cause mortality</b> ($31.0\\%$ vs. $39.8\\%$, $p = 0.007$) alongside significantly increased ventilator-free days ($12$ vs. $10$ days, $p = 0.007$).<br>• <i>Mechanism of Protection:</i> Protects heterogeneously aerated \"baby lungs\" from cyclic end-inspiratory alveolar overdistension (volutrauma) and prevents inflammatory mediator wash-out into the systemic circulation (biotrauma).<br><br>2️⃣ <b>Why other options are categorically incorrect:</b><br>• <span style=\"color:#e74c3c\"><b>High frequency oscillatory ventilation (HFOV — Option B):</b></span> Two definitive large-scale randomized trials—<b>OSCILLATE</b> and <b>OSCAR</b>—demonstrated that HFOV confers zero survival benefit in ARDS. In fact, the OSCILLATE trial was terminated prematurely because HFOV significantly increased in-hospital mortality and vasopressor requirements compared with standard lung-protective ventilation.<br>• <span style=\"color:#e74c3c\"><b>High PEEP (Option C):</b></span> Meta-analyses (including ALVEOLI, LOVS, and EXPRESS) show that while high PEEP may trend toward reduced mortality in selected severe ARDS ($PaO_2/FiO_2 < 100$), unselected high PEEP strategies across all ARDS severities do not significantly lower overall mortality. Furthermore, aggressive lung recruitment maneuvers with high PEEP titration in the <b>ART trial</b> demonstrated significantly increased 28-day mortality and cardiac arrest.<br>• <span style=\"color:#e74c3c\"><b>Airway pressure release ventilation (APRV — Option A):</b></span> APRV applies continuous positive airway pressure with intermittent brief releases, improving alveolar recruitment and oxygenation while permitting spontaneous breathing. However, large randomized trials have failed to show a definitive independent all-cause mortality reduction compared to low tidal volume volume-assist/control ventilation.",
@@ -3670,8 +3670,8 @@
         "D": "increase tidal volume to 10 mL/kg"
       },
       "optionsRu": {
-        "A": "перевести на высокочастотную осцилляторную вентиляцию (HFOV)",
-        "B": "продолжить вентиляцию с текущими параметрами (continue the current ventilator settings)",
+        "A": "перевести на высокочастотную осцилляторную вентиляцию",
+        "B": "продолжить вентиляцию с текущими параметрами",
         "C": "увеличить уровень PEEP",
         "D": "увеличить дыхательный объем до 10 мл/кг"
       },
@@ -3710,9 +3710,9 @@
         "D": "increase the ventilator rate"
       },
       "optionsRu": {
-        "A": "уменьшить частоту дыхания на аппарате ИВЛ (decrease the ventilator rate)",
-        "B": "увеличить внешнее ПДКВ (extrinsic PEEP)",
-        "C": "увеличить соотношение вдоха к выдоху (I:E ratio)",
+        "A": "уменьшить частоту дыхания на аппарате ИВЛ",
+        "B": "увеличить внешнее ПДКВ",
+        "C": "увеличить соотношение вдоха к выдоху",
         "D": "увеличить частоту дыхания на аппарате ИВЛ"
       },
       "correctAnswer": "A",
@@ -3752,10 +3752,10 @@
         "D": "nasal intermittent positive pressure ventilation"
       },
       "optionsRu": {
-        "A": "двухуровневая неинвазивная вентиляция легких с положительным давлением (BiPAP / bilevel positive airway pressure)",
+        "A": "двухуровневая неинвазивная вентиляция легких с положительным давлением",
         "B": "создание непрерывного положительного давления в дыхательных путях (CPAP)",
         "C": "высокопоточная оксигенотерапия через назальные канюли (HFNC)",
-        "D": "назальная перемежающаяся вентиляция под положительным давлением (NIPPV)"
+        "D": "назальная перемежающаяся вентиляция под положительным давлением"
       },
       "correctAnswer": "A",
       "explanationEn": "🎯 <b>Correct Answer: Option A: bilevel positive airway pressure.</b><br><br>🔵 <b>Detailed Clinical and Critical Care Mechanical Ventilation Analysis:</b><br>This patient presents with life-threatening acute-on-chronic hypercapnic respiratory failure and uncompensated respiratory acidemia ($pH = 7.19$, $pCO_2 = 66\\text{ mmHg}$) during an acute exacerbation of severe COPD. In addition, the clinical context includes two vital boundary parameters: an explicit \"Do Not Intubate\" (DNI) advance directive, and a successfully evacuated pneumothorax with an in situ functioning chest tube.<br><br>1️⃣ <b>Gold Standard Efficacy of BiPAP in COPD Acidemia (Why Option A is correct):</b><br>• International pulmonary and critical care guidelines (GOLD, ATS/ERS, CHEST) establish non-invasive positive pressure ventilation (NPPV / NIV), specifically <mark style=\"background:#2ecc71;color:#fff\"><b>bilevel positive airway pressure (BiPAP — Option A)</b></mark>, as the undisputed, Grade 1A standard-of-care intervention for acute hypercapnic respiratory acidemia ($pH < 7.35$, $pCO_2 > 45\\text{ mmHg}$).<br>• BiPAP functions through two discrete pressure settings:<br>  - <i>Inspiratory Positive Airway Pressure (IPAP):</i> Provides inspiratory pressure support to augment tidal volume, mechanically unloads the diaphragm and accessory muscles, increases alveolar minute ventilation, and actively clears retained carbon dioxide, driving rapid normalization of arterial $pH$;<br>  - <i>Expiratory Positive Airway Pressure (EPAP):</i> Acts as extrinsic PEEP to splint dynamic small airway collapse on exhalation, overcome the inspiratory threshold work imposed by intrinsic PEEP (auto-PEEP), and optimize functional residual capacity.<br>• In randomized clinical trials, early implementation of BiPAP in COPD exacerbations reduces the need for endotracheal intubation by >60% and directly decreases hospital mortality by >50%. Because this patient has an explicit DNI directive, BiPAP serves as the ceiling of medical life-support.<br><br>2️⃣ <b>The Nuance of Pneumothorax and Non-Invasive Ventilation:</b><br>• An <i>untreated, undrained pneumothorax</i> is an absolute contraindication to initiating positive pressure ventilation (invasive or non-invasive) because positive pressure risks tension pneumothorax conversion.<br>• However, in this clinical vignette, the pneumothorax is <b>fully decompressed with an active tube thoracostomy</b> in place and verified lung re-expansion. Having an open, patent chest drain provides a safe pressure-release safety valve, completely eliminating the hazard of tension accumulation and permitting the safe initiation of BiPAP.<br><br>3️⃣ <b>Why other options are categorically incorrect:</b><br>• <span style=\"color:#e74c3c\"><b>Continuous positive airway pressure (CPAP — Option B):</b></span> CPAP delivers a single fixed baseline pressure across both phases of the respiratory cycle without providing inspiratory pressure assistance. CPAP does not increase tidal volume or minute ventilation and adds resistive work against exhalation; it is indicated for cardiogenic pulmonary edema or obstructive sleep apnea, but is ineffective for acute ventilatory muscle exhaustion and severe hypercapnia.<br>• <span style=\"color:#e74c3c\"><b>High flow oxygen nasal cannula (HFNC — Option C):</b></span> Although HFNC flushes anatomical dead space and improves oxygenation, it cannot provide meaningful inspiratory pressure support to assist failing ventilatory pumps in deep acidemia ($pH = 7.19$). Furthermore, delivering uncalibrated high oxygen concentrations without ventilatory assistance blunts peripheral chemoreceptor hypoxic drive, triggering catastrophic hypoventilation and fatal CO2 narcosis.<br>• <span style=\"color:#e74c3c\"><b>Nasal intermittent positive pressure ventilation (NIPPV — Option D):</b></span> NIPPV delivered via specialized nasal interfaces without full oronasal seals is utilized primarily in neonatology and pediatric respiratory distress syndrome (e.g., respiratory distress syndrome of prematurity), rather than acute acidemic adult COPD crises.",
@@ -3795,7 +3795,7 @@
       "optionsRu": {
         "A": "инфузия добутамина",
         "B": "ингаляционный простациклин",
-        "C": "оптимизация параметров ИВЛ (optimize ventilator settings)",
+        "C": "оптимизация параметров ИВЛ",
         "D": "системная тромболитическая терапия"
       },
       "correctAnswer": "C",
@@ -3838,8 +3838,8 @@
       "optionsRu": {
         "A": "диуретическая терапия фуросемидом",
         "B": "интубация трахеи и перевод на ИВЛ",
-        "C": "высокопоточная оксигенотерапия через носовые канюли (nasal high-flow oxygen therapy)",
-        "D": "неинвазивная вентиляция легких с положительным давлением (NIPPV)"
+        "C": "высокопоточная оксигенотерапия через носовые канюли",
+        "D": "неинвазивная вентиляция легких с положительным давлением"
       },
       "correctAnswer": "C",
       "explanationEn": "🎯 <b>Correct Answer: Option C: nasal high-flow oxygen therapy.</b><br><br>🔵 <b>Detailed Thoracic Surgical Critical Care and Pathophysiological Analysis:</b><br>On postoperative day 3 following transhiatal esophagectomy with gastric pull-up reconstruction, this patient presents with severe hypoxemic respiratory failure ($PaO_2 = 51\\text{ mmHg}$, $SpO_2 = 88\\%$ on $6\\text{ L/min}$ nasal cannula) and hydrostatic pulmonary capillary engorgement triggered by aggressive fluid overload ($>5\\text{ L}$ crystalloids).<br><br>1️⃣ <b>Absolute Contraindication to Positive Pressure Ventilation (Why Option D is dangerous):</b><br>• In thoracic and upper gastrointestinal surgery, <b>non-invasive positive pressure ventilation (NIPPV / BiPAP / CPAP — Option D) is strictly contraindicated</b> in the early post-esophagectomy window.<br>• Non-invasive face or nasal masks deliver pressurized gas into the oropharynx, readily exceeding lower esophageal sphincter closing pressures and forcing gas directly down into the freshly transposed intrathoracic/cervical <b>gastric conduit</b>.<br>• Acute aerodynamic distension of the gastric conduit dramatically increases intramural wall tension (Laplace's Law), stretches fragile surgical suture/staple lines, impairs microvascular mucosal perfusion, and causes catastrophic <b>anastomotic disruption, mediastinitis, and sepsis</b>.<br><br>2️⃣ <b>Efficacy and Safety of Nasal High-Flow Oxygen (Why Option C is correct):</b><br>• <mark style=\"background:#2ecc71;color:#fff\"><b>High-flow nasal cannula (HFNC) oxygen therapy (Option C)</b></mark> represents the premier evidence-based modality for post-esophagectomy acute hypoxemic failure:<br>  - Delivers warmed, fully humidified gas mixtures with titrated $FiO_2$ up to $1.0$ at flow rates up to $60\\text{ L/min}$;<br>  - Rapidly washes out expired anatomical dead space, reducing work of breathing and improving alveolar ventilation;<br>  - Generates a low-level dynamic pharyngeal end-expiratory pressure (approx. $2\\text{ to }5\\text{ cmH}_2\\text{O}$ with the mouth closed) that is sufficient to recruit dependent atelectatic alveoli and correct severe ventilation-perfusion mismatch without forcing pressurized gas into the esophagus or risking conduit distension.<br><br>3️⃣ <b>Why other options are categorically incorrect:</b><br>• <span style=\"color:#e74c3c\"><b>Diuresis with furosemide (Option A):</b></span> While loop diuretics are pathophysiologically indicated to address systemic hypervolemia and mobilize third-spaced fluid, diuretic onset is delayed and volume excretion requires hours. Immediate rescue oxygenation via HFNC is the mandatory first-line intervention to avert critical hypoxic cardiac arrest.<br>• <span style=\"color:#e74c3c\"><b>Intubate and mechanically ventilate (Option B):</b></span> Invasive mechanical ventilation is associated with substantial morbidity in morbidly obese, post-esophagectomy patients (ventilator-associated pneumonia, barotrauma, ICU deconditioning). Given that the patient is fully oriented ($pH = 7.38$, $PaCO_2 = 39\\text{ mmHg}$), a trial of non-invasive HFNC should precede invasive re-intubation.",
@@ -3881,8 +3881,8 @@
         "D": "switch propofol to dexmedetomidine infusion"
       },
       "optionsRu": {
-        "A": "прекратить инфузию пропофола и перевести на вентиляцию с поддержкой давлением (PSV)",
-        "B": "прекратить седацию и начать пробу спонтанного дыхания (discontinue sedation and initiate a spontaneous breathing trial)",
+        "A": "прекратить инфузию пропофола и перевести на вентиляцию с поддержкой давлением",
+        "B": "прекратить седацию и начать пробу спонтанного дыхания",
         "C": "медленно снижать седацию и параметры респираторной поддержки по мере переносимости",
         "D": "заменить инфузию пропофола на дексмедетомидин"
       },
@@ -3925,7 +3925,7 @@
         "A": "ингаляционные бета-агонисты и глюкокортикостероиды",
         "B": "внутривенная терапия антибиотиками широкого спектра действия",
         "C": "установка стента в правый главный бронх",
-        "D": "хирургическая репозиция средостения с заполнением полости солевыми имплантатами/протезами (surgical mediastinal repositioning with saline-filled prostheses)"
+        "D": "хирургическая репозиция средостения с заполнением полости солевыми имплантатами/протезами"
       },
       "correctAnswer": "D",
       "explanationEn": "🎯 <b>Correct Answer: Option D: surgical mediastinal repositioning with saline-filled prostheses.</b><br><br>🔵 <b>Detailed Thoracic Surgical and Pathophysiological Analysis:</b><br>This patient presents with the classic triad of <b>postpneumonectomy syndrome (PPS)</b>: progressive exertional dyspnea, inspiratory central airway stridor, and recurrent episodes of post-obstructive pneumonias occurring months to years following an anatomical pneumonectomy.<br><br>1️⃣ <b>Anatomy and Biomechanics of Postpneumonectomy Syndrome:</b><br>• PPS is an uncommon but potentially fatal mechanical complication resulting from extreme fibrothorax contraction and negative intrapleural pressures within the empty post-pneumonectomy hemithorax.<br>• While more frequent following right pneumonectomy (where the heart and mediastinum rotate clockwise into the right hemithorax, bowing the left main bronchus under the aortic arch), it also occurs after left-sided resections:<br>  - In left-sided PPS, marked counter-clockwise rotation and leftward-posterior displacement of the mediastinum causes extrinsic compression of the distal trachea and remaining right mainstem bronchus between the anteriorly pulled thoracic vertebrae and the descending thoracic aorta or pulmonary artery.<br>  - Dynamic airway compression creates critical luminal stenosis, severe inspiratory stridor, retention of tracheobronchial secretions, and recurrent pneumonias in the solitary remaining lung.<br><br>2️⃣ <b>Surgical Realignment and Cavity Filling (Why Option D is correct):</b><br>• <mark style=\"background:#2ecc71;color:#fff\"><b>Surgical mediastinal repositioning with saline-filled prostheses / tissue expanders (Option D)</b></mark> is the definitive, gold-standard corrective procedure:<br>  - The post-pneumonectomy space is re-entered via thoracotomy;<br>  - Dense mediastinal adhesions are divided to extensively mobilize the displaced heart, great vessels, and compressed central airways back into their normal anatomical midline axis, promptly decompressing the airway lumen;<br>  - Multiple non-absorbable silicone prostheses (tissue expanders filled with isotonic saline and antibiotics) are implanted into the empty hemithorax. This permanent space-occupying scaffold prevents recurrent mediastinal shift and provides lasting resolution of tracheobronchial obstruction.<br><br>3️⃣ <b>Why other options are categorically incorrect:</b><br>• <span style=\"color:#e74c3c\"><b>Placement of a right bronchial airway stent (Option C):</b></span> Endobronchial stenting is only considered a temporary, hazardous bridge in non-operative candidates. Deploying a rigid or self-expanding metal stent into an airway under heavy extrinsic dynamic compression carries an exceedingly high complication rate (>50%), including stent migration, distal mucociliary impaction, bronchial wall necrosis, and fatal aortobronchial or bronchovascular fistula formation due to chronic pulsatile erosion.<br>• <span style=\"color:#e74c3c\"><b>Inhaled beta-agonist and steroids (Option A):</b></span> Inhaled bronchodilators target small-airway smooth muscle bronchospasm; they have zero therapeutic efficacy against fixed extrinsic bony and vascular compression of central conducting airways.<br>• <span style=\"color:#e74c3c\"><b>Intravenous broad-spectrum antibiotics (Option B):</b></span> The patient is currently afebrile, normotensive, and has no systemic leukocytosis or active sepsis; empiric systemic antimicrobial therapy does not address the underlying mechanical anatomical obstruction.",
@@ -3968,10 +3968,10 @@
         "D": "increase pressure support"
       },
       "optionsRu": {
-        "A": "бронхоскопия с забором материала на бактериологический посев (bronchoscopy with cultures)",
+        "A": "бронхоскопия с забором материала на бактериологический посев",
         "B": "КТ органов грудной клетки",
         "C": "эмпирическая антибиотикотерапия широкого спектра действия",
-        "D": "увеличение давления поддержки (pressure support)"
+        "D": "увеличение давления поддержки"
       },
       "correctAnswer": "A",
       "explanationEn": "🎯 <b>Correct Answer: Option A: bronchoscopy with cultures.</b><br><br>🔵 <b>Detailed Clinical Microbiological and Thoracic Critical Care Analysis:</b><br>This patient manifests the classic diagnostic constellation of severe hospital-acquired pneumonia (HAP) / early ventilator-associated pneumonia (VAP) following anatomical pulmonary resection: acute hypoxemic respiratory failure culminating in mechanical ventilation, high-grade fever ($101.9^\\circ\\text{F} / 38.8^\\circ\\text{C}$), copious purulent secretions, profound leukocytosis ($19,000/\\mu\\text{L}$), and a dense right lower lobe consolidation on thoracic radiography.<br><br>1️⃣ <b>Microbiological Diagnostic Stewardship under IDSA/ATS Guidelines (Why Option A is correct):</b><br>• The clinical practice guidelines by the <b>Infectious Diseases Society of America (IDSA) and the American Thoracic Society (ATS)</b> establish an explicit sequence of care for intubated patients with suspected pneumonia:<br>  - Lower respiratory tract samples for quantitative or semiquantitative bacterial cultures must be secured <b>immediately PRIOR to initiating or altering antimicrobial therapy</b>, provided that this diagnostic acquisition does not cause unreasonable delay in antimicrobial delivery;<br>  - <mark style=\"background:#2ecc71;color:#fff\"><b>Fiberoptic bronchoscopy with bronchoalveolar lavage (BAL) or protected specimen brush (PSB) (Option A)</b></mark> represents the premier diagnostic standard in the post-resection setting;<br>  - Direct bronchoscopy visualizes the surgical stump (excluding early bronchial dehiscence or occult ischemic necrosis), inspects the bronchial tree for retained mucus plugging, and retrieves deep, uncontaminated alveolar secretions from the affected segment;<br>  - Administering antibiotics prior to sampling rapidly sterilizes fastidious pathogens within minutes to hours, yielding false-negative cultures, obscuring multi-drug resistant (MDR) nosocomial pathogens (such as <i>Pseudomonas aeruginosa</i>, <i>Acinetobacter</i>, or MRSA), and permanently preventing evidence-based antimicrobial de-escalation.<br><br>2️⃣ <b>Why other options are categorically incorrect:</b><br>• <span style=\"color:#e74c3c\"><b>Empiric broad-spectrum antibiotics (Option C):</b></span> While prompt empiric antimicrobial administration is crucial, initiating antibiotics immediately <i>before</i> obtaining respiratory specimens commits an error in microbiological stewardship, compromising culture yields. The definitive protocolized step in an intubated patient is to perform the bronchoscopic sampling first, immediately followed by the antibiotic infusion.<br>• <span style=\"color:#e74c3c\"><b>Chest CT (Option B):</b></span> While CT imaging can assess middle lobe torsion or pulmonary gangrene, the plain chest radiograph already confirms an unambiguous lobar consolidation. Transporting an unstable, intubated patient to the radiology suite delays urgent diagnostic bronchoscopy and definitive therapy without changing initial management.<br>• <span style=\"color:#e74c3c\"><b>Increase pressure support (Option D):</b></span> Increasing inspiratory pressure support modifies respiratory mechanics, but fails to diagnose or treat the underlying infectious process that caused acute respiratory decompensation.",
@@ -4011,8 +4011,8 @@
       },
       "optionsRu": {
         "A": "ИМТ > 25 кг/м²",
-        "B": "выполнение АКШ в условиях искусственного кровообращения (on-pump)",
-        "C": "хроническое заболевание легких (chronic lung disease)",
+        "B": "выполнение АКШ в условиях искусственного кровообращения",
+        "C": "хроническое заболевание легких",
         "D": "мужской пол"
       },
       "correctAnswer": "C",
@@ -4053,7 +4053,7 @@
         "D": "sternotomy for CABG"
       },
       "optionsRu": {
-        "A": "ХОБЛ (COPD)",
+        "A": "ХОБЛ",
         "B": "высокий социально-экономический статус",
         "C": "периоперационная доза опиоидов",
         "D": "стернотомия при АКШ"
@@ -4096,7 +4096,7 @@
       },
       "optionsRu": {
         "A": "коронароангиография",
-        "B": "КТ-ангиография органов грудной клетки (CT angiogram)",
+        "B": "КТ-ангиография органов грудной клетки",
         "C": "катетеризация правых отделов сердца и легочной артерии",
         "D": "чреспищеводная эхокардиография (ЧП-ЭхоКГ)"
       },
@@ -4139,7 +4139,7 @@
       "optionsRu": {
         "A": "парацетамол (ацетаминофен)",
         "B": "высокие дозы метилпреднизолона",
-        "C": "кетамин (ketamine)",
+        "C": "кетамин",
         "D": "лидокаин"
       },
       "correctAnswer": "C",

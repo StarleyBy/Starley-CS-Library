@@ -8,7 +8,7 @@
 
 ### Definition and Epidemiology
 * **HCM definition:** Left ventricular hypertrophy (wall thickness ≥15 mm in adults, or >2 SD above mean in children) in the absence of abnormal loading conditions (severe hypertension, valve disease) sufficient to cause the phenotype.
-* **Prevalence:** ~1 in 500 adults. Slightly higher in males. No significant ethnic or geographical differences. Hypertrophy typically develops during rapid somatic growth but can appear at any age.
+* **Prevalence:** ~ 1 in 500 adults. Slightly higher in males. No significant ethnic or geographical differences. Hypertrophy typically develops during rapid somatic growth but can appear at any age.
 * **Genetic vs. nongenetic:** 50-60% are autosomal dominant sarcomeric gene mutations. 5% have metabolic/storage disorders, neuromuscular diseases, or syndromes. 25-30% remain unexplained.
 * **Phenocopies:** Anderson-Fabry disease, glycogen storage diseases (PRKAG2, Danon), mitochondrial disorders, amyloidosis (TTR, AL), RASopathies (Noonan, LEOPARD), Friedreich ataxia, desminopathies.
 
@@ -33,7 +33,7 @@
 
 ### Clinical Presentation
 * **Often asymptomatic:** Diagnosed by abnormal ECG, murmur, or screening.
-* **Symptoms:** Dyspnoea (LVOTO + MR + diastolic dysfunction); angina (small vessel disease, supply-demand mismatch, abnormal flow reserve); syncope (~20% – LVOTO, reflex vasodilation, arrhythmia).
+* **Symptoms:** Dyspnoea (LVOTO + MR + diastolic dysfunction); angina (small vessel disease, supply-demand mismatch, abnormal flow reserve); syncope (~ 20% – LVOTO, reflex vasodilation, arrhythmia).
 * **Elderly:** Sigmoid septum, hypertension, AF (25-30%), coronary disease, aortic stenosis, mitral annular calcification. Amyloidosis is important differential.
 
 ### Physical Examination
@@ -43,7 +43,7 @@
 * **Dynamic manoeuvres:** Decrease preload (Valsalva, standing) → increase murmur. Squat → decrease murmur. Amyl nitrite → increase murmur.
 
 ### Diagnostic Testing
-* **ECG:** Abnormal in ~95%. Repolarisation abnormalities, LVH voltage, left-axis deviation (30%), pathological Q waves (25-30%). Apical HCM: giant T-wave inversions in precordial/inferolateral leads. Pre-excitation and AV block suggest specific aetiologies.
+* **ECG:** Abnormal in ~ 95%. Repolarisation abnormalities, LVH voltage, left-axis deviation (30%), pathological Q waves (25-30%). Apical HCM: giant T-wave inversions in precordial/inferolateral leads. Pre-excitation and AV block suggest specific aetiologies.
 * **Echocardiography:** Diagnostic basis – wall thickness ≥15 mm. Patterns: asymmetric septal, apical, concentric, sigmoid septum. LVOTO: dagger-shaped CW Doppler, ≥30 mm Hg at rest/provocation, ≥50 mm Hg is haemodynamically significant. SAM of mitral valve. Diastolic dysfunction: left atrial enlargement, transmitral and tissue Doppler. Systolic dysfunction: reduced longitudinal strain (tissue Doppler, speckle tracking) even with normal EF.
 * **CMR:** High-resolution imaging, identifies apical aneurysms, RV hypertrophy, fibrosis (LGE), crypts, papillary muscle abnormalities. LGE predicts heart failure mortality.
 * **Cardiac catheterisation:** Not routine. Brockenbrough phenomenon (post-PVC gradient increase, aortic pulse pressure decrease) indicates dynamic obstruction. Left ventriculography: small cavity, spade-like configuration in apical variant.
@@ -287,7 +287,7 @@ Dynamic auscultation should be performed to differentiate the murmur of HCM from
 
 ### Electrocardiography</summary><div class="details-content">
 
-The electrocardiogram (ECG) is abnormal in the majority (~95%) of HCM patients. The most frequent ECG alterations are repolarization abnormalities (eg, ST‑segment depression and/or T‑wave inversion). A left‑axis deviation is present in up to 30% of patients. Abnormal Q waves, simulating myocardial infarction, are seen in 25% to 30% of patients ([Fig. 59–10](#fig-59-10)). Varying prevalences of 35% to 70% are reported for increased QRS voltage. The ECG in patients with predominantly apical LV hypertrophy may show a distinctive pattern of diffuse symmetric and deep T‑wave inversions across the precordium or the inferolateral leads ([Fig. 59–11](#fig-59-11)). Some ECG abnormalities, including pre‑excitation and atrioventricular (AV) block, may suggest specific etiologies, as summarized in [Table 59–1](#table-59-1).
+The electrocardiogram (ECG) is abnormal in the majority (~ 95%) of HCM patients. The most frequent ECG alterations are repolarization abnormalities (eg, ST‑segment depression and/or T‑wave inversion). A left‑axis deviation is present in up to 30% of patients. Abnormal Q waves, simulating myocardial infarction, are seen in 25% to 30% of patients ([Fig. 59–10](#fig-59-10)). Varying prevalences of 35% to 70% are reported for increased QRS voltage. The ECG in patients with predominantly apical LV hypertrophy may show a distinctive pattern of diffuse symmetric and deep T‑wave inversions across the precordium or the inferolateral leads ([Fig. 59–11](#fig-59-11)). Some ECG abnormalities, including pre‑excitation and atrioventricular (AV) block, may suggest specific etiologies, as summarized in [Table 59–1](#table-59-1).
 
 <span id="fig-59-10"></span>![](ch10-03_page_7_Figure_2.jpeg)
 

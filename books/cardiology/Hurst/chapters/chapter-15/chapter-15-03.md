@@ -17,11 +17,11 @@ This chapter aims to familiarize the cardiovascular specialist with the clinical
 * **Cardiac:** Pericarditis in up to 24%; rare tamponade. Treat with corticosteroids, methotrexate; TNFα inhibitors and IL-1 antagonists for refractory cases.
 
 ### Systemic Lupus Erythematosus (SLE)
-* **Prevalence:** ~1 in 2000; peak age 15–40; more common in Hispanics/African Americans.
+* **Prevalence:** ~ 1 in 2000; peak age 15–40; more common in Hispanics/African Americans.
 * **Pericarditis:** Most common cardiovascular manifestation (up to 42% effusion on echo; 20–30% acute pericarditis). Treat with NSAIDs or prednisone 40–60 mg/d.
 * **Valvular disease:** Libman‑Sacks endocarditis (noninfectious verrucous vegetations) – mitral > aortic. Valvular thickening in > 50% by TEE; low embolic risk. No routine antibiotic prophylaxis.
 * **Myocarditis:** Suspect with new arrhythmia, fever, dyspnea, chest pain; treat with high‑dose prednisone 3–6 months.
-* **Conduction disease:** Neonatal lupus – anti‑Ro/La antibodies cause congenital heart block (≤ 5% of pregnancies, recurrence ~20%); first‑/second‑degree block may respond to dexamethasone; third‑degree irreversible.
+* **Conduction disease:** Neonatal lupus – anti‑Ro/La antibodies cause congenital heart block (≤ 5% of pregnancies, recurrence ~ 20%); first‑/second‑degree block may respond to dexamethasone; third‑degree irreversible.
 * **CAD:** Women 35–44 have 50× higher MI risk; SLE is independent CVD risk factor.
 * **Drug‑induced lupus:** Procainamide, quinidine, hydralazine, isoniazid, minocycline, phenytoin; anti‑histone antibodies; resolves with drug discontinuation and short prednisone.
 
@@ -30,14 +30,14 @@ This chapter aims to familiarize the cardiovascular specialist with the clinical
 * **Cardiac:** Valvular disease (Libman‑Sacks‑like); asymptomatic thickening → aspirin 81 mg; vegetations/emboli → anticoagulation (INR 2–3). Intracardiac thrombi, cardiomyopathy, PAH also reported.
 
 ### Dermatomyositis (DM) and Polymyositis (PM)
-* **Cardiac:** Pericarditis, conduction abnormalities, HF, myocarditis. Cardiac MRI detects subclinical disease in ~50%. Coronary vasculitis may cause MI.
+* **Cardiac:** Pericarditis, conduction abnormalities, HF, myocarditis. Cardiac MRI detects subclinical disease in ~ 50%. Coronary vasculitis may cause MI.
 * **Treatment:** High‑dose corticosteroids (1 mg/kg for months), methotrexate/azathioprine; IVIG for refractory cases. Rule out statin‑induced myopathy.
 
 ### Systemic Sclerosis
-* **Pericardial disease:** Autopsy incidence ~50%; symptomatic pericarditis ~16% diffuse, ~30% limited. Effusions usually benign; treat with NSAIDs if renal function normal.
+* **Pericardial disease:** Autopsy incidence ~ 50%; symptomatic pericarditis ~ 16% diffuse, ~ 30% limited. Effusions usually benign; treat with NSAIDs if renal function normal.
 * **Myocardial disease:** LV diastolic dysfunction common (23 of 77 vs 1 of 45 controls; P < .001); systolic dysfunction less common. PAH is major cause of morbidity/mortality.
 * **Arrhythmias:** PVCs most common; atrial fibrillation/flutter in 20–30%; non‑sustained VT 7–13%; sudden death 5–21%. Conduction disturbances 25–75%.
-* **PAH:** Precapillary PH (PCWP ≤ 15 mm Hg). Limited cutaneous form most common. Untreated 2‑year survival ~40%. Treat with prostacyclin analogues, endothelin receptor antagonists, PDE‑5 inhibitors, selexipag, riociguat. Lung transplantation possible but outcomes controversial.
+* **PAH:** Precapillary PH (PCWP ≤ 15 mm Hg). Limited cutaneous form most common. Untreated 2‑year survival ~ 40%. Treat with prostacyclin analogues, endothelin receptor antagonists, PDE‑5 inhibitors, selexipag, riociguat. Lung transplantation possible but outcomes controversial.
 
 ### Seronegative Spondyloarthropathies
 * **Features:** Spinal/sacroiliac involvement, enthesitis, HLA‑B27 (90% in ankylosing spondylitis).
@@ -49,14 +49,14 @@ This chapter aims to familiarize the cardiovascular specialist with the clinical
 * **Kawasaki disease:** Children 6 months–8 years; coronary arteritis/aneurysms (giant > 8 mm worst prognosis). IVIg 2 g/kg + aspirin 80–100 mg/kg/d reduces aneurysms.
 * **Wegener granulomatosis:** Upper/lower respiratory, kidneys; C‑ANCA (PR3) most common. Cardiac: cardiomyopathy, pericarditis, coronary arteritis (6%). Treat with corticosteroids + cyclophosphamide or methotrexate.
 * **Churg‑Strauss syndrome:** Asthma, eosinophilia, pulmonary infiltrates. Cardiac involvement in 60%; most common cause of death. Treat with corticosteroids; cyclophosphamide for severe.
-* **Polyarteritis nodosa:** Medium‑vessel vasculitis; spares lungs. Cardiac: HF, angina, MI, pericarditis (~10%). Treat with corticosteroids ± cyclophosphamide.
+* **Polyarteritis nodosa:** Medium‑vessel vasculitis; spares lungs. Cardiac: HF, angina, MI, pericarditis (~ 10%). Treat with corticosteroids ± cyclophosphamide.
 * **Behçet disease:** Oral/genital ulcers, uveitis; vasculitis all vessel sizes; aneurysms, venous thrombosis. Treat with corticosteroids, methotrexate/azathioprine; anticoagulation for recurrent thrombosis.
 
 ### Heritable Connective Tissue Diseases
 * **Marfan syndrome:** FBN1 mutation; aortic root dilation/dissection, MVP. Beta‑blockers and losartan slow aortic enlargement. Prophylactic surgery at aortic diameter ≥ 5.0 cm (or ≥ 4.5 cm with risk factors). Avoid pregnancy if root > 40 mm.
 * **Loeys‑Dietz syndrome:** TGF‑βR mutations; hypertelorism, bifid uvula/cleft palate, aggressive aortic aneurysms. Surgery at internal diameter > 4.2 cm (TEE) or external > 4.4–4.6 cm (CT/MRI), or rapid expansion (> 0.5 cm/yr).
 * **Ehlers‑Danlos syndrome (vascular type):** COL3A1 mutation; diffuse aneurysms, spontaneous rupture. 80% develop life‑threatening complications by age 40.
-* **Familial thoracic aortic aneurysms:** ~20% of thoracic aortic aneurysms; ACTA2 most common mutation. TGFBR2 mutation → dissection at < 5.0 cm; repair at ≥ 4.2 cm (internal diameter).
+* **Familial thoracic aortic aneurysms:** ~ 20% of thoracic aortic aneurysms; ACTA2 most common mutation. TGFBR2 mutation → dissection at < 5.0 cm; repair at ≥ 4.2 cm (internal diameter).
 * **Pseudoxanthoma elasticum:** ABCC6 mutation; calcification of elastic fibers; angina, claudication, GI bleeding.
 * **Osteogenesis imperfecta:** COL1A1/COL1A2 mutations; aortic regurgitation, root dilation/dissection, MR. Surgery problematic due to tissue friability.
 
@@ -244,7 +244,7 @@ Pericardial disease in systemic sclerosis is usually benign. On the basis of aut
 
 #### Myocardial Disease</summary><div class="details-content">
 
-Although interstitial lung disease (ILD) and PAH are the most common cardiopulmonary conditions that result in increased morbidity and mortality, other cardiac complications may occur. In one study, echocardiographic findings were analyzed over more than 5 years from 77 unselected patients with systemic sclerosis and compared with those from 45 normal subjects matched for age and sex. At baseline, left ventricular (LV) systolic function was normal in both patients and controls, whereas LV diastolic function was found to be more prevalent in the patients compared with the controls (23 vs 1; *P* < .001). By the end of the follow-up period (~2–8 years), LV systolic dysfunction had developed in one patient, and diastolic dysfunction was documented in another six patients. Moreover, in the group with systemic sclerosis, diastolic dysfunction, left atrial dimension, and LV wall thickness significantly progressed over the course of the observation period. The change in LV diastolic function was independent of other factors including LV hypertrophy, systemic hypertension, age, and duration of disease, all of which could potentially affect LV relaxation. These results confirm that LV diastolic dysfunction is a frequent manifestation of systemic sclerosis. Although diastolic dysfunction is common in this disease, it is rarely severe. When severe, diastolic dysfunction may worsen PAH.
+Although interstitial lung disease (ILD) and PAH are the most common cardiopulmonary conditions that result in increased morbidity and mortality, other cardiac complications may occur. In one study, echocardiographic findings were analyzed over more than 5 years from 77 unselected patients with systemic sclerosis and compared with those from 45 normal subjects matched for age and sex. At baseline, left ventricular (LV) systolic function was normal in both patients and controls, whereas LV diastolic function was found to be more prevalent in the patients compared with the controls (23 vs 1; *P* < .001). By the end of the follow-up period (~ 2–8 years), LV systolic dysfunction had developed in one patient, and diastolic dysfunction was documented in another six patients. Moreover, in the group with systemic sclerosis, diastolic dysfunction, left atrial dimension, and LV wall thickness significantly progressed over the course of the observation period. The change in LV diastolic function was independent of other factors including LV hypertrophy, systemic hypertension, age, and duration of disease, all of which could potentially affect LV relaxation. These results confirm that LV diastolic dysfunction is a frequent manifestation of systemic sclerosis. Although diastolic dysfunction is common in this disease, it is rarely severe. When severe, diastolic dysfunction may worsen PAH.
 
 </div></details>
 

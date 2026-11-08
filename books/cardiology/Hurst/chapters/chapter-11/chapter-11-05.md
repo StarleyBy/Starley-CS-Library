@@ -8,7 +8,7 @@
 
 ### History and Overview
 * **Early history:** Carrel and Guthrie (1905) performed heterotopic heart transplantation in dogs. Mann and coworkers (1933) described the first canine working model and recognized allograft rejection as a "biologic factor." Lower and Shumway (1960) performed orthotopic heart transplants in dogs using cardiopulmonary bypass and topical hypothermia — their technique became the basis for human transplantation.
-* **Human transplantation:** First human heart transplant by Barnard in South Africa (December 1967); first US transplant by Shumway at Stanford (January 1968). Initial enthusiasm waned due to poor survival from rejection and infection. Cyclosporine-based immunosuppression (1980) revived the field. Currently, ~4000 heart transplants performed annually worldwide; ~6 million Americans have HF, ~300,000 with end-stage disease potentially eligible.
+* **Human transplantation:** First human heart transplant by Barnard in South Africa (December 1967); first US transplant by Shumway at Stanford (January 1968). Initial enthusiasm waned due to poor survival from rejection and infection. Cyclosporine-based immunosuppression (1980) revived the field. Currently, ~ 4000 heart transplants performed annually worldwide; ~ 6 million Americans have HF, ~ 300,000 with end-stage disease potentially eligible.
 
 ### Recipient Selection and Management
 * **Indications:** Severe functional limitations (NYHA IIIb-IV, LVEF <35%, peak VO₂ ≤12-14 mL/kg/min); refractory angina; intractable ventricular arrhythmias ("VT storm").
@@ -35,11 +35,11 @@
 * **Medication effects:** Digoxin ineffective for rate control (no vagal tone); atropine ineffective; β-blockers cause exaggerated fatigue; vasodilators do not cause reflex tachycardia (no baroreceptor reflex).
 
 ### Post-Transplant Outcomes
-* **Survival:** 1-year survival now ~90% (vs 70% in 1980s); conditional half-life 14 years. Stable annual mortality ~3-4%. Risk factors for 1-year mortality: temporary circulatory support, congenital cardiomyopathy, prior transplant, pretransplant ventilation/dialysis. Risk factors for 5-10 year mortality: rejection in first year, dialysis/infection, lack of combination immunosuppression.
-* **Quality of life:** ~75% report normal or near-normal lifestyle. Long-term symptoms: fatigue, sexual dysfunction, memory problems, bruising, cramps. ~50% of working-age recipients employed at 5 years.
+* **Survival:** 1-year survival now ~ 90% (vs 70% in 1980s); conditional half-life 14 years. Stable annual mortality ~ 3-4%. Risk factors for 1-year mortality: temporary circulatory support, congenital cardiomyopathy, prior transplant, pretransplant ventilation/dialysis. Risk factors for 5-10 year mortality: rejection in first year, dialysis/infection, lack of combination immunosuppression.
+* **Quality of life:** ~ 75% report normal or near-normal lifestyle. Long-term symptoms: fatigue, sexual dysfunction, memory problems, bruising, cramps. ~ 50% of working-age recipients employed at 5 years.
 
 ### Postoperative Management: Immunosuppression
-* **Induction therapy (~50% of programs):** Antithymocyte globulin (ATGAM, thymoglobulin) or IL-2 receptor antagonists (daclizumab). Reduces early rejection; may increase infection risk.
+* **Induction therapy (~ 50% of programs):** Antithymocyte globulin (ATGAM, thymoglobulin) or IL-2 receptor antagonists (daclizumab). Reduces early rejection; may increase infection risk.
 * **Maintenance (triple-drug therapy):** Calcineurin inhibitor (cyclosporine or tacrolimus) + antimetabolite (MMF or azathioprine) + corticosteroids (tapered over 6-12 months). Tacrolimus preferred (lower rejection rates); more diabetes, less hypertension/dyslipidemia. MMF preferred over azathioprine (reduced mortality and rejection). Proliferation signal inhibitors (sirolimus, everolimus) reduce CAV progression; used for renal sparing, rejection, CAV, malignancy.
 * **Drug interactions:** Calcineurin inhibitors and PSIs metabolized by CYP3A4. Inducers (rifampin, phenytoin, St. John's wort) decrease levels. Inhibitors (calcium channel blockers, azole antifungals, macrolides, amiodarone) increase levels. Statins (lovastatin, simvastatin, atorvastatin) have increased concentrations — pravastatin preferred.
 
@@ -563,7 +563,7 @@ Although dual- and triple-drug therapy are the most commonly used strategies for
 | Cyclosporine | 3-6 mg/kg/d in two divided doses titrated to keep therapeutic 12-h trough levels<sup>a</sup> | Renal dysfunction; Hypertension; Dyslipidemia; Hypokalemia and hypomagnesemia; Hyperuricemia; Neurotoxicity (encephalopathy, seizures, tremors, neuropathy); Gingival hyperplasia; Hirsutism |
 | Tacrolimus | 0.02-0.04 mg/kg/d in two divided doses titrated to keep therapeutic 12-h trough levels | Renal dysfunction; Hypertension; Hyperglycemia and diabetes mellitus; Dyslipidemia; Hyperkalemia; Hypomagnesemia; Neurotoxicity (tremors, headaches) |
 | **Antimetabolite agents** | | |
-| Azathioprine | 1.0-3.5 mg/kg/d, titrated to keep WBC ~3000K | Bone marrow suppression; Hepatitis (rare); Pancreatitis; Malignancy |
+| Azathioprine | 1.0-3.5 mg/kg/d, titrated to keep WBC ~ 3000K | Bone marrow suppression; Hepatitis (rare); Pancreatitis; Malignancy |
 | Mycophenolate mofetil | 2000-3000 mg/d in two divided doses titrated to tolerance | GI disturbances (nausea, diarrhea); Leukopenia |
 | **Proliferation signal inhibitors** | | |
 | Sirolimus | 0.5-2 mg daily titrated to keep therapeutic 24-h trough levels | Oral ulcerations; Hypercholesterolemia and hypertriglyceridemia; Poor wound healing; Lower extremity edema; Pleural and pericardial effusions; Pulmonary toxicities (interstitial pneumonitis, alveolar hemorrhage); Bone marrow suppression (leukopenia, anemia, and thrombocytopenia); Potentiation of calcineurin inhibitor–mediated nephrotoxicity |

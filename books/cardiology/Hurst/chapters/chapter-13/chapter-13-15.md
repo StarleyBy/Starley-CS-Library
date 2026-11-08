@@ -6,9 +6,9 @@
 
 ### Definitions and Epidemiology
 * **Cardiac Arrest:** Cessation of cardiac mechanical activity, confirmed by absence of signs of circulation. Sudden cardiac death — unexpected death without obvious noncardiac cause within 1 hour (witnessed) or 24 hours (unwitnessed).
-* **Out‑of‑Hospital Cardiac Arrest (OHCA):** ~326,000 EMS‑assessed annually in the US. 60% treated by EMS. Median age 66 years. Bystander‑witnessed in 38.7%, EMS‑witnessed in 10.9%, unwitnessed in 50.4%.
+* **Out‑of‑Hospital Cardiac Arrest (OHCA):** ~ 326,000 EMS‑assessed annually in the US. 60% treated by EMS. Median age 66 years. Bystander‑witnessed in 38.7%, EMS‑witnessed in 10.9%, unwitnessed in 50.4%.
 * **Initial Rhythm:** 23% have VF/VT (shockable). Survival to discharge: 10.6% overall, 8.3% with good neurologic function. For bystander‑witnessed shockable arrest, survival 33.0%. 69.5% occur at home/residence.
-* **In‑Hospital Cardiac Arrest (IHCA):** ~209,000 treated annually in US. Survival to discharge 25.5% (GWTG‑Resuscitation, 2014). UK National Audit: 18.4% overall; 49% for shockable, 10.5% for nonshockable.
+* **In‑Hospital Cardiac Arrest (IHCA):** ~ 209,000 treated annually in US. Survival to discharge 25.5% (GWTG‑Resuscitation, 2014). UK National Audit: 18.4% overall; 49% for shockable, 10.5% for nonshockable.
 
 ### 2015 AHA Guidelines — Basic Life Support
 * **Systems of Care:** Differentiates OHCA (community‑based, lay rescuer, PAD) from IHCA (hospital surveillance, rapid response teams).

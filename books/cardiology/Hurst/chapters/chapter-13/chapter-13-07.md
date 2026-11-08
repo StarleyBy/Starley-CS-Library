@@ -6,9 +6,9 @@
 
 ### Overview and Epidemiology
 * **Supraventricular Tachycardias (SVTs):** Arrhythmias originating from or incorporating supraventricular tissue. Paroxysmal SVT (PSVT) is rapid, regular tachycardia with abrupt onset/termination.
-* **AV Nodal Reentrant Tachycardia (AVNRT):** Most common PSVT (~66%), occurs in ~10% of general population. Usual onset after 40 years; women affected 2:1. Rare before age 5.
-* **AV Reentrant Tachycardia (AVRT):** Second most common (~33% of PSVT), involves accessory pathways (APs). Wolff-Parkinson-White (WPW) syndrome = preexcitation + tachyarrhythmias. AP prevalence 0.15–0.25% (higher in first-degree relatives).
-* **Atrial Tachycardia:** ~5% of PSVT; arises from atrial tissue or great cardiac veins. Incessant forms can cause tachycardia-induced cardiomyopathy (reversible after elimination).
+* **AV Nodal Reentrant Tachycardia (AVNRT):** Most common PSVT (~ 66%), occurs in ~ 10% of general population. Usual onset after 40 years; women affected 2:1. Rare before age 5.
+* **AV Reentrant Tachycardia (AVRT):** Second most common (~ 33% of PSVT), involves accessory pathways (APs). Wolff-Parkinson-White (WPW) syndrome = preexcitation + tachyarrhythmias. AP prevalence 0.15–0.25% (higher in first-degree relatives).
+* **Atrial Tachycardia:** ~ 5% of PSVT; arises from atrial tissue or great cardiac veins. Incessant forms can cause tachycardia-induced cardiomyopathy (reversible after elimination).
 
 ### AVNRT — Pathophysiology
 * **Dual AV Node Physiology:** Fast pathway (short conduction, long refractory) and slow pathway (slow conduction, short refractory). Reentry requires unidirectional block and path length ≥ wavelength.
@@ -19,11 +19,11 @@
 
 ### AVNRT — Management
 * **Acute:** Vagal maneuvers (Valsalva, carotid massage) — first-line. Adenosine (6 mg → 12 mg IV bolus) — nearly 100% effective, rapid onset, short half-life. Verapamil, β-blockers, or DC cardioversion (10–50 J) if refractory. Avoid adenosine in asthma; caution in WPW (may induce AF with rapid AP conduction).
-* **Chronic:** Catheter ablation is Class I therapy — >95% success, ~0.5–1% risk of AV block. **Posterior approach** (slow pathway ablation near CS ostium) preferred; junctional rhythm during RF indicates success. Cryoablation alternative (lower heart block risk but lower efficacy). Medical therapy (β-blockers, CCBs, flecainide, propafenone, sotalol) for patients declining ablation.
+* **Chronic:** Catheter ablation is Class I therapy — >95% success, ~ 0.5–1% risk of AV block. **Posterior approach** (slow pathway ablation near CS ostium) preferred; junctional rhythm during RF indicates success. Cryoablation alternative (lower heart block risk but lower efficacy). Medical therapy (β-blockers, CCBs, flecainide, propafenone, sotalol) for patients declining ablation.
 * **Management Strategy:** Individualized based on symptom frequency/severity. Catheter ablation first-line for symptomatic patients. "Pill-in-the-pocket" for infrequent, well-tolerated episodes.
 
 ### AVRT and WPW — Pathophysiology
-* **Accessory Pathways:** Anomalous extranodal connections along AV groove. Manifest (antegrade conduction → delta wave) vs concealed (retrograde only). ~8% have decremental conduction; Mahaim fibers (right-sided, decremental).
+* **Accessory Pathways:** Anomalous extranodal connections along AV groove. Manifest (antegrade conduction → delta wave) vs concealed (retrograde only). ~ 8% have decremental conduction; Mahaim fibers (right-sided, decremental).
 * **Orthodromic AVRT:** Antegrade AV node → ventricle → retrograde AP → atrium. Narrow QRS; P wave after QRS (ST segment/T wave); eccentric retrograde atrial activation identifies AP location.
 * **Antidromic AVRT:** Antegrade AP → ventricle → retrograde AV node → atrium. Wide, fully preexcited QRS; rare (5–10% of WPW).
 * **Atrial Fibrillation in WPW:** One-third of WPW patients have AF. Rapid AP conduction → ventricular rates >300 bpm → risk of VF. AP refractory period <250 ms indicates high risk.

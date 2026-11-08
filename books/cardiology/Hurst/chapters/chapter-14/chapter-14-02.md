@@ -5,22 +5,22 @@
 ## Executive Summary</summary><div class="details-content">
 
 ### Brain and Cerebrovascular Complications of Heart Disease
-* **Cardiogenic Embolism:** Accounts for ~20% of ischemic strokes. Cardiac sources: arrhythmias (especially AF), wall/chamber abnormalities (LV thrombus, cardiomyopathy), valve disorders, cardiac tumors, aortic arch disease. AF increases stroke risk 5-fold; LV thrombus complicates anterior MI with EF <40%.
+* **Cardiogenic Embolism:** Accounts for ~ 20% of ischemic strokes. Cardiac sources: arrhythmias (especially AF), wall/chamber abnormalities (LV thrombus, cardiomyopathy), valve disorders, cardiac tumors, aortic arch disease. AF increases stroke risk 5-fold; LV thrombus complicates anterior MI with EF <40%.
 * **Diagnostic Approach:** CT/MRI show superficial wedge-shaped infarcts, multiple vascular territories, hemorrhagic infarction. TEE superior to TTE for aortic plaques, atrial septal aneurysms, PFO. TCD detects microemboli (HITS). D-dimer (99% sensitive for acute dissection) is useful but nonspecific.
-* **Stroke Prevention in AF:** Warfarin (INR 2.0–3.0) reduces stroke risk by ~64–86%. NOACs (dabigatran, rivaroxaban, apixaban, edoxaban) are at least as effective with lower ICH risk; approved for nonvalvular AF. CHOOSING agent depends on renal function, cost, compliance, patient preference.
+* **Stroke Prevention in AF:** Warfarin (INR 2.0–3.0) reduces stroke risk by ~ 64–86%. NOACs (dabigatran, rivaroxaban, apixaban, edoxaban) are at least as effective with lower ICH risk; approved for nonvalvular AF. CHOOSING agent depends on renal function, cost, compliance, patient preference.
 * **Other Cardiac Causes:** LV thrombus — warfarin for 3 months (target INR 2.0–3.0). Timing of anticoagulation after embolic stroke is controversial; delay 48 hours for large infarcts; heparin bolus avoid.
-* **Paradoxical Embolism:** PFO present in ~30% of adults. Five criteria suggest causal PFO (DVT risk, hypercoagulability, Valsalva at onset, PE, no other cause). RoPE score estimates PFO-attributable fraction. RESPECT trial: PFO closure reduced cryptogenic stroke recurrence (54% RRR in as-treated analysis). Routine incidental PFO closure during cardiac surgery not recommended.
+* **Paradoxical Embolism:** PFO present in ~ 30% of adults. Five criteria suggest causal PFO (DVT risk, hypercoagulability, Valsalva at onset, PE, no other cause). RoPE score estimates PFO-attributable fraction. RESPECT trial: PFO closure reduced cryptogenic stroke recurrence (54% RRR in as-treated analysis). Routine incidental PFO closure during cardiac surgery not recommended.
 * **Brain Hypoperfusion:** Watershed infarcts (ACA-MCA, MCA-PCA), hippocampus, basal ganglia. Clinical syndromes: persistent vegetative state, "man in a barrel" (arm weakness), Balint syndrome, Korsakoff amnesia. Prognosis — absence of pain response at 24 hours predicts poor outcome. Treatment largely supportive; therapeutic hypothermia improves neurologic recovery.
 * **Drug Effects:** Digoxin — visual hallucinations, confusion. Quinidine — delirium, seizures, tinnitus. Lidocaine — sedation, twitching, seizures. Amiodarone — ataxia, tremor, paresthesias, Parkinsonism. Cardiac encephalopathy — decreased alertness, asterixis in CHF.
 
 ### Neurologic Complications of Endovascular Cardiac Procedures and Cardiac Surgery
-* **Cardiac Catheterization:** Stroke risk ~0.1–0.4%; mechanisms — catheter tip thromboembolism, plaque/cholesterol embolism, air embolism, hypotension.
-* **Coronary Angioplasty/Stenting:** Stroke rate ~0–4%; abciximab may increase hemorrhagic stroke risk.
+* **Cardiac Catheterization:** Stroke risk ~ 0.1–0.4%; mechanisms — catheter tip thromboembolism, plaque/cholesterol embolism, air embolism, hypotension.
+* **Coronary Angioplasty/Stenting:** Stroke rate ~ 0–4%; abciximab may increase hemorrhagic stroke risk.
 * **Electrophysiology/Cardioversion:** Stroke risk <2%; anticoagulation reduces risk.
 * **LAA Closure:** PROTECT AF — LAA closure noninferior (and later superior) to warfarin for stroke prevention.
-* **TAVR:** Silent cerebral infarcts in 90% (DWI); symptomatic stroke ~4–15% at 1 year. Embolic protection devices under investigation.
-* **CABG:** Stroke risk varies by procedure (isolated CABG ~3.8%; CABG + valve ~7.4%). Off-pump vs on-pump controversial; no-touch aorta technique reduces stroke. Most strokes are embolic, not hemodynamic; macroemboli from aortic plaque manipulation.
-* **Postoperative Encephalopathy:** Incidence ~3–11%; causes — microemboli (SCADs), hypoperfusion, drugs (haloperidol, narcotics, sedatives). Minimize sedatives; haloperidol delays stroke recovery in animals.
+* **TAVR:** Silent cerebral infarcts in 90% (DWI); symptomatic stroke ~ 4–15% at 1 year. Embolic protection devices under investigation.
+* **CABG:** Stroke risk varies by procedure (isolated CABG ~ 3.8%; CABG + valve ~ 7.4%). Off-pump vs on-pump controversial; no-touch aorta technique reduces stroke. Most strokes are embolic, not hemodynamic; macroemboli from aortic plaque manipulation.
+* **Postoperative Encephalopathy:** Incidence ~ 3–11%; causes — microemboli (SCADs), hypoperfusion, drugs (haloperidol, narcotics, sedatives). Minimize sedatives; haloperidol delays stroke recovery in animals.
 * **Peripheral Nerve Complications:** Brachial plexopathy (most common — sternal retraction/arm positioning), ulnar, peroneal, saphenous nerve injuries, phrenic/recurrent laryngeal palsy.
 
 ### Cardiac Effects of Brain Lesions
@@ -677,7 +677,7 @@ Short term, 2-4 wk. Usually given by intravenous infusion, keeping APTT between 
 For prophylaxis of deep vein occlusion in patients immobilized by stroke (unless contraindicated; see Chap. 84).
 
 **Warfarin**
-Usually overlapped with heparin; keeping prothrombin time around INR of 2.0-3.0 (~1.3-1.5 × control).
+Usually overlapped with heparin; keeping prothrombin time around INR of 2.0-3.0 (~ 1.3-1.5 × control).
 1. Long term (> 3 mo)
    a. Patients with cardiogenic cerebral embolization and rheumatic heart disease, atrial fibrillation with large atria or prior cerebral embolism, prosthetic valves, and some hypercoagulable states.
    b. Patients with severe stenosis of the ICA origin, ICA siphon, MCA stem, vertebral artery, and basilar artery. Used until studies show artery has been occluded for at least 3 wk.

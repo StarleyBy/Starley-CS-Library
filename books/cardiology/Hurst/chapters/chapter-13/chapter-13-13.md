@@ -7,7 +7,7 @@
 ### Definition and Epidemiology
 * **Syncope Defined:** Sudden, transient loss of consciousness and postural tone caused by global cerebral hypoperfusion, with spontaneous and complete recovery. Must be distinguished from seizures, psychogenic events, hypoglycemia, and trauma.
 * **Epidemiology:** Framingham data — 3.0% in men, 3.5% in women; incidence rises with age. Accounts for 3–5% of ED visits and 1–6% of urgent admissions. 1–2 million patients evaluated annually in the US.
-* **Prognosis:** Cardiac syncope carries highest mortality (~50% at 5 years, ~30% in first year). Noncardiac syncope ~30% at 5 years, <10% in first year. Unexplained syncope ~6–10% at 3 years, ~24% at 5 years. Syncope is an ominous sign in HCM, long QT, Brugada, ARVC.
+* **Prognosis:** Cardiac syncope carries highest mortality (~ 50% at 5 years, ~ 30% in first year). Noncardiac syncope ~ 30% at 5 years, <10% in first year. Unexplained syncope ~ 6–10% at 3 years, ~ 24% at 5 years. Syncope is an ominous sign in HCM, long QT, Brugada, ARVC.
 
 ### Causes of Syncope
 * **Cardiovascular (Obstructive):** Aortic stenosis (exertional syncope suggests severe obstruction), HCM (syncope portends SCD risk), mitral stenosis (usually with tachycardia), prosthetic valve malfunction, atrial myxoma, pulmonary embolism/hypertension, tetralogy of Fallot (exertional hypoxia), cardiac tamponade.
@@ -29,8 +29,8 @@
   - **Echocardiogram:** Structural heart disease, LVEF, valves, HCM.
   - **Stress testing:** Exertional arrhythmias, ischemia.
   - **Ambulatory ECG:** Holter (low yield in unselected); event recorders for infrequent episodes; implantable loop recorder (ILR) for very infrequent (weeks–months) — diagnostic in up to 2/3 of unexplained syncope; cost-effective strategy.
-  - **Electrophysiologic Study (EPS):** For high-risk patients (structural heart disease, suspicious arrhythmia, recurrent syncope). Yield ~3% in normal hearts; useful for bundle branch block/bifascicular block. Ventricular tachycardia most common finding in CAD.
-  - **Tilt-Table Testing:** For neurocardiogenic syncope and POTS. Sensitivity 20–74%, specificity ~90% (lower with pharmacologic provocation). Reproducibility 80–90% for positive, 30–90% for negative. Abnormal responses: classic neurocardiogenic (vasovagal or vasodepressor), dysautonomic (delayed orthostatic), postural tachycardia, cerebral syncope (vasoconstriction without systemic hypotension), psychogenic.
+  - **Electrophysiologic Study (EPS):** For high-risk patients (structural heart disease, suspicious arrhythmia, recurrent syncope). Yield ~ 3% in normal hearts; useful for bundle branch block/bifascicular block. Ventricular tachycardia most common finding in CAD.
+  - **Tilt-Table Testing:** For neurocardiogenic syncope and POTS. Sensitivity 20–74%, specificity ~ 90% (lower with pharmacologic provocation). Reproducibility 80–90% for positive, 30–90% for negative. Abnormal responses: classic neurocardiogenic (vasovagal or vasodepressor), dysautonomic (delayed orthostatic), postural tachycardia, cerebral syncope (vasoconstriction without systemic hypotension), psychogenic.
   - **Microvolt T-Wave Alternans:** Strong negative predictive value for VT; evolving role.
 
 ### Treatment

@@ -7,7 +7,7 @@ Genetic factors play a significant role in almost all cardiovascular disorders. 
 ## Executive Summary</summary><div class="details-content">
 
 ### The Human Genome and Genetic Transmission
-* **Nuclear Genome:** 3.2 billion base pairs, distributed among 22 autosomal chromosome pairs and 2 sex chromosomes (XX, XY). Contains ~20,000 protein-coding genes plus noncoding RNAs (microRNAs, lncRNAs). Only ~1% of genome codes for proteins.
+* **Nuclear Genome:** 3.2 billion base pairs, distributed among 22 autosomal chromosome pairs and 2 sex chromosomes (XX, XY). Contains ~ 20,000 protein-coding genes plus noncoding RNAs (microRNAs, lncRNAs). Only ~ 1% of genome codes for proteins.
 * **Mitochondrial Genome (mtDNA):** Circular DNA, 16,700 nucleotides, 37 genes (13 protein-coding, 2 rRNAs, 22 tRNAs). Maternal inheritance only.
 * **Gene Structure:** 5′ regulatory region, exons (coding), introns (intervening), 3′ untranslated region. Alternative splicing generates multiple mRNA isoforms.
 * **Alleles:** Each individual has two copies of each gene (alleles) — homozygous (identical) or heterozygous (different).
@@ -54,8 +54,8 @@ Genetic factors play a significant role in almost all cardiovascular disorders. 
 * **Prevalence:** 1 in 500; autosomal dominant.
 * **Diagnosis:** Unexplained LV hypertrophy (≥13 mm) without hypertension/valvular disease. Asymmetric septal hypertrophy in 2/3; apical variant.
 * **Pathology:** Myocyte disarray (>20% of ventricle), hypertrophy, interstitial fibrosis.
-* **Clinical:** Variable — asymptomatic to heart failure. LVOT obstruction in ~25%. Arrhythmias (AF, VT). SCD risk in young athletes.
-* **Causal Genes:** Sarcomere proteins — MYH7 (25%), MYBPC3 (25%), TNNT2 (3–5%), TNNI3 (3–5%), TPM1, ACTC, TTN, MYL2, MYL3. Total ~60% identified.
+* **Clinical:** Variable — asymptomatic to heart failure. LVOT obstruction in ~ 25%. Arrhythmias (AF, VT). SCD risk in young athletes.
+* **Causal Genes:** Sarcomere proteins — MYH7 (25%), MYBPC3 (25%), TNNT2 (3–5%), TNNI3 (3–5%), TPM1, ACTC, TTN, MYL2, MYL3. Total ~ 60% identified.
 * **Genotype-Phenotype:** Mutation-specific variability; modifier genes (ACE, FHL1) influence severity.
 * **Phenocopies (mimics):** Fabry disease (GLA; α-galactosidase deficiency), PRKAG2 (glycogen storage), LAMP2 (Danon), Friedreich ataxia (FRDA), Noonan, mitochondrial disorders, Pompe.
 * **Treatment:** Beta-blockers, calcium channel blockers; septal myectomy/alcohol ablation for LVOT obstruction. No disease-modifying therapy yet; diltiazem, ACE inhibitors, statins under investigation.
@@ -64,7 +64,7 @@ Genetic factors play a significant role in almost all cardiovascular disorders. 
 * **Prevalence:** 40 per 100,000; autosomal dominant most common.
 * **Diagnosis:** LVEF <45%, LVEDD >2.7 cm/m².
 * **Clinical:** Heart failure, arrhythmias, SCD. 50% have familial history.
-* **Causal Genes:** TTN (titin) most common (~25%); MYH7, ACTC, TNNT2, TNNI3, TPM1 (sarcomere), SGCD, DMD (cytoskeletal), LMNA (nuclear envelope; DCM + conduction defect), SCN5A (ion channel; arrhythmogenic DCM), DES (desmin; desminopathy), RBM20 (RNA splicing).
+* **Causal Genes:** TTN (titin) most common (~ 25%); MYH7, ACTC, TNNT2, TNNI3, TPM1 (sarcomere), SGCD, DMD (cytoskeletal), LMNA (nuclear envelope; DCM + conduction defect), SCN5A (ion channel; arrhythmogenic DCM), DES (desmin; desminopathy), RBM20 (RNA splicing).
 * **Genotype-Phenotype:** LMNA mutations → DCM + conduction defects + atrial arrhythmias + SCD. Desmin mutations → DCM + skeletal myopathy. Dystrophin mutations → DCM ± skeletal involvement.
 
 ### Arrhythmogenic Cardiomyopathy (ARVC)
@@ -155,7 +155,7 @@ Genetic factors play a significant role in almost all cardiovascular disorders. 
 
 ### The Human Genome</summary><div class="details-content">
 
-A genome is the complete set of the genetic material of each cell or individual: the nuclear and the mitochondrial genomes. The nuclear genome is composed of 3.2 billion base pairs. There are four types of nucleotides in each genome, two of which are purine (adenine, guanine) and two are pyrimidine (cytosine, thymine). The nuclear genome is distributed among 22 pairs of double-stranded autosomal chromosomes and two sex chromosomes (XX in females and XY in males). The sizes of chromosomes vary, with chromosome 1 being the largest at ~250 million base pairs and chromosome 21 the smallest at 48 million base pairs. The nuclear genome contains approximately 20,000 protein-coding genes. A gene has a 5′ transcriptional regulatory region, exons (which contain the protein coding sequence), introns (which are the intervening regions between exons), and the 3′ untranslated region ([Fig. 55–1](#fig-55-1)). The nuclear genome also contains several thousands of non–protein-coding genes that get transcribed into noncoding ribonucleic acids (RNAs) including microRNAs and long-noncoding RNAs. About 1% of the genome, which is approximately 300 million base pairs, code for the proteins. More than 50% of the human nuclear genome is composed of repetitive deoxyribonucleic acid (DNA) elements. The functions of the repetitive elements and noncoding regions of the nuclear genome are largely unknown.
+A genome is the complete set of the genetic material of each cell or individual: the nuclear and the mitochondrial genomes. The nuclear genome is composed of 3.2 billion base pairs. There are four types of nucleotides in each genome, two of which are purine (adenine, guanine) and two are pyrimidine (cytosine, thymine). The nuclear genome is distributed among 22 pairs of double-stranded autosomal chromosomes and two sex chromosomes (XX in females and XY in males). The sizes of chromosomes vary, with chromosome 1 being the largest at ~ 250 million base pairs and chromosome 21 the smallest at 48 million base pairs. The nuclear genome contains approximately 20,000 protein-coding genes. A gene has a 5′ transcriptional regulatory region, exons (which contain the protein coding sequence), introns (which are the intervening regions between exons), and the 3′ untranslated region ([Fig. 55–1](#fig-55-1)). The nuclear genome also contains several thousands of non–protein-coding genes that get transcribed into noncoding ribonucleic acids (RNAs) including microRNAs and long-noncoding RNAs. About 1% of the genome, which is approximately 300 million base pairs, code for the proteins. More than 50% of the human nuclear genome is composed of repetitive deoxyribonucleic acid (DNA) elements. The functions of the repetitive elements and noncoding regions of the nuclear genome are largely unknown.
 
 Transcription of the nuclear genome is pervasive, as the vast majority of the nuclear genome is transcribed into RNA. The primary transcripts of genes are spliced to exclude introns and produce the messenger RNAs (mRNAs). Splicing of each primary transcript is not uniform and often multiple splice variants are generated with one being the predominant isoform. Each unit of three bases, referred to as a *codon*, encodes a specific amino acid. There are 61 amino acid codons and 3 stop codons in the nuclear genome. Thus, each amino acid has multiple codons.
 
@@ -697,16 +697,16 @@ The pioneering works of Christine and Jonathan Seidman have led to elucidation o
 | Gene | Symbol | Frequency | Predominant Mutations |
 |---|---|---|---|
 | **Genes Coding for Thick-Filament Proteins** | | | |
-| β-Myosin heavy chain | MYH7 | ~25% | Missenses |
-| Myosin binding protein-C | MYBPC3 | ~25% | Splice-junction and insertion/deletion |
+| β-Myosin heavy chain | MYH7 | ~ 25% | Missenses |
+| Myosin binding protein-C | MYBPC3 | ~ 25% | Splice-junction and insertion/deletion |
 | α-Myosin heavy chain | MYH6 | Rare | Missense and rearrangement mutations (association) |
 | Essential myosin light chain | MYL3 | <3% | Missenses |
 | Regulatory myosin light chain | MYL2 | <3% | Missense and 1 truncation |
 | Muscle ring protein 1 (MuRF1) | TRIM63 | <1% | Missense and stop codon |
 | **Genes Coding for Thin-Filament Proteins** | | | |
 | Cardiac α-actin | ACTC | <3% | Missense mutations |
-| Cardiac troponin T | TNNT2 | ~3–5% | Missenses |
-| Cardiac troponin I | TNNI3 | ~3–5% | Missense and deletion |
+| Cardiac troponin T | TNNT2 | ~ 3–5% | Missenses |
+| Cardiac troponin I | TNNI3 | ~ 3–5% | Missense and deletion |
 | Cardiac troponin C | TNNC1 | Rare | Missense mutations (association) |
 | α-Tropomyosin | TPM1 | <3% | Missenses |
 | **Pan-Sarcomere** | | | |
@@ -871,8 +871,8 @@ Finally, mutations in RNA-binding motif protein 20 (RBM20), which regulates RNA 
 | Gene | Symbol | Prevalence/Phenotype |
 |---|---|---|
 | **Sarcomere Filaments** | | |
-| Titin | TTN | The most common gene, ~25% of DCM cases, Also causes HCM |
-| β-Myosin heavy chain | MYH7 | ~5%, Also causes HCM |
+| Titin | TTN | The most common gene, ~ 25% of DCM cases, Also causes HCM |
+| β-Myosin heavy chain | MYH7 | ~ 5%, Also causes HCM |
 | Cardiac α-actin | ACTC | Also causes HCM |
 | Cardiac troponin T | TNNT2 | Also causes HCM |
 | Cardiac troponin I | TNNI3 | Also causes HCM |
@@ -884,7 +884,7 @@ Finally, mutations in RNA-binding motif protein 20 (RBM20), which regulates RNA 
 | δ-Sarcoglycan | SGCD | |
 | Dystrophin | DMD | Muscular dystrophy |
 | Cysteine and glycine rich protein 3 | CSRP3 | |
-| Ankyrin repeat domain 1 | ANKRD1 | ~1% |
+| Ankyrin repeat domain 1 | ANKRD1 | ~ 1% |
 | **Intermediary Filaments** | | |
 | Desmin | DES | Also causes RCM |
 | αB-crystallin | CRYAB | Desminopathy |
@@ -970,10 +970,10 @@ Mutations in *TMEM43* encoding transmembrane protein 43 are considered rare caus
 
 | | Gene Symbol | Protein | Prevalence |
 |---|---|---|---|
-| Classic intercalated disk proteins | PKP2 | Plakophilin 2 | ~25% |
-| | DSP | Desmoplakin | ~10% |
-| | DSG2 | Desmoglein 2 | ~10% |
-| | DSC2 | Desmocollin 2 | ~10% |
+| Classic intercalated disk proteins | PKP2 | Plakophilin 2 | ~ 25% |
+| | DSP | Desmoplakin | ~ 10% |
+| | DSG2 | Desmoglein 2 | ~ 10% |
+| | DSC2 | Desmocollin 2 | ~ 10% |
 | | JUP | Plakoglobin | <5% |
 | | CTNNA3? | αT-Catenin | <5% |
 | Nuclear membrane | TMEM43 | Transmembrane protein 43 | <5% |
@@ -1537,7 +1537,7 @@ Familial WPW syndrome is a rare syndrome with autosomal dominant mode of inherit
 
 ## GENETIC BASIS OF CORONARY ARTERY DISEASE</summary><div class="details-content">
 
-The results of modifying lifestyle and drug intervention have documented the importance and the effect of both primary and secondary prevention in common polygenic disorders such as coronary artery disease (CAD) and related traits. Drug therapy alone has been shown repeatedly in multiple clinical trials to decrease the incidence of clinical events from CAD by at least 30% to 40%. Despite the reduction, cardiovascular disease remains the number one cause of death for both men and women in the United States. Continued health care burden of CAD mandates new approaches to diagnosis and treatment of patient with CAD, including addressing the genetic basis of this complex phenotype. It is estimated that at least 50% of susceptibility for CAD is the result of a genetic component. Furthermore, most of risk factors such as hypertension, hypercholesterolemia, and obesity have an inherent significant genetic component. Identification of the genes that predispose to CAD and related traits may be necessary for comprehensive prevention of these traits and CAD. Secondly, elucidation of the molecular pathways through which these genes mediate their effects should provide targets for development of new therapies. This is best exemplified by the case of *PCSK9*, which was discovered through genetic linkage analysis in a family with autosomal dominant hypercholesterolemia. The discovery led within a period of ~10 years to development of monoclonal antibodies that target the PCSK9 protein and lower plasma LDL-C levels markedly.
+The results of modifying lifestyle and drug intervention have documented the importance and the effect of both primary and secondary prevention in common polygenic disorders such as coronary artery disease (CAD) and related traits. Drug therapy alone has been shown repeatedly in multiple clinical trials to decrease the incidence of clinical events from CAD by at least 30% to 40%. Despite the reduction, cardiovascular disease remains the number one cause of death for both men and women in the United States. Continued health care burden of CAD mandates new approaches to diagnosis and treatment of patient with CAD, including addressing the genetic basis of this complex phenotype. It is estimated that at least 50% of susceptibility for CAD is the result of a genetic component. Furthermore, most of risk factors such as hypertension, hypercholesterolemia, and obesity have an inherent significant genetic component. Identification of the genes that predispose to CAD and related traits may be necessary for comprehensive prevention of these traits and CAD. Secondly, elucidation of the molecular pathways through which these genes mediate their effects should provide targets for development of new therapies. This is best exemplified by the case of *PCSK9*, which was discovered through genetic linkage analysis in a family with autosomal dominant hypercholesterolemia. The discovery led within a period of ~ 10 years to development of monoclonal antibodies that target the PCSK9 protein and lower plasma LDL-C levels markedly.
 
 <details class="med-details"><summary>
 

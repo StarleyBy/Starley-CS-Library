@@ -154,7 +154,7 @@ Carditis is the single most important component of the disease in determining pr
   
 ![](ch08-01_page_3_Figure_2.jpeg)
 
-<span id="fig-46-2"></span>**FIGURE 46–3.** Hematoxylin and eosin staining of the heart and vasculature suggests connective tissue involvement in rheumatic fever.
+<span id="fig-46-3"></span>**FIGURE 46–3.** Hematoxylin and eosin staining of the heart and vasculature suggests connective tissue involvement in rheumatic fever.
 
 Atrioventricular conduction delay, resulting in a prolonged PR interval, is an important and helpful diagnostic clue. Recent data strongly substantiates the importance of subclinical carditis based on Doppler echocardiography. Hence, echocardiographic evaluation for all patients with suspicion of ARF is recommended in the 2015 Jones criteria, and both clinical and subclinical carditis fulfil a major criterion, even in the absence of classical auscultatory findings. Subclinical carditis of the mitral or aortic valves requires all four criteria to be met in order to fulfil the major criterion. Additional morphologic features may also be present.
 

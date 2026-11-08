@@ -1,232 +1,405 @@
-# Chapter 53
+# Nonpharmaceutical Poisons
 
-# **Nonpharmaceutical Poisons**
+> *It is astonishing with how little reading a doctor can practice medicine, but it is not astonishing how badly he may do it.*
+> 
+> — Sir William Osler (1849–1919)
 
-*It is astonishing with how little reading a doctor can practice medicine, but it is not astonishing how badly he may do it.*
+Nonpharmaceutical toxic exposures represent uncommon but frequently catastrophic presentations to the intensive care unit (1–3). Unlike predictable pharmaceutical overdoses, nonpharmaceutical intoxications—including carbon monoxide, cyanide, and the toxic alcohols (methanol and ethylene glycol)—are often occult, lack diagnostic physical hallmarks, and produce severe, rapid cellular metabolic failure (1–4, 12, 19).
 
-Sir William Osler (*[a](#page-10-0)*)
+Because early diagnostic delays carry devastating morbidity and high mortality, intensive care clinicians must recognize the distinctive pathophysiological derangements, clinical toxidromes, and targeted antidotal protocols associated with these lethal environmental and chemical poisons (1–4, 12, 19).
 
-This chapter describes the toxic syndromes produced by exposure to nonpharmaceutical poisons, including carbon monoxide, cyanide, and the toxic alcohols (methanol and ethylene glycol). They are less common than the drug overdoses presented in the last chapter, but they can be lethal if not recognized.
+<details class="med-details" open><summary>
 
-## **CARBON MONOXIDE**
+## Executive Summary</summary><div class="details-content">
 
-Carbon monoxide (CO) is produced by the incomplete combustion of organic (carbon-based) matter, and is one oxidation reaction shy of carbon dioxide (2CO + O<sup>2</sup> → 2 CO<sup>2</sup> ). The principal source of CO poisoning is smoke inhalation from house fires, poorly functioning heating systems, and the exhaust from automobile engines [\(1](#page-10-1)) (*Note:* The mandate for catalytic converters in automobiles, which converts CO to CO<sup>2</sup> , has reduced CO emissions by more than 95%.)
+<details class="med-details" open><summary>
 
-### **Pathophysiology**
+### Key Principles and Clinical Recommendations</summary><div class="details-content">
 
-Carbon monoxide binds to the heme moieties in hemoglobin (at the same site that binds oxygen) to produce *carboxyhemoglobin* (COHb). The affinity of CO for binding to hemoglobin is over 200 times greater than the affinity of O<sup>2</sup> , and CO pressures of only 0.4 mm Hg can fully saturate hemoglobin ([2\)](#page-10-2). The effects of COHb on systemic oxygenation are demonstrated by the oxyhemoglobin dissociation curves in [Figure](#page-1-0) 53.1 [\(1](#page-10-1)). The curves in this graph show the relationship between oxygen tension (PO<sup>2</sup> ) and the oxygen content in blood when hemoglobin is normal (upper curve), and when COHb makes up 50% of the hemoglobin molecules (lower curve) ([3\)](#page-10-3). The arterial O<sup>2</sup> content (point A) decreases in proportion to the increase in COHb, reflecting the ability of CO to block O<sup>2</sup> binding to hemoglobin. The venous point (point V) on both curves was identified by assuming a normal arteriovenous O<sup>2</sup> content difference (CaO<sup>2</sup> –
+- **Carbon Monoxide (CO) Poisoning:** Carbon monoxide binds to hemoglobin with an affinity over 200-fold higher than oxygen, forming carboxyhemoglobin (COHb), shifting the oxyhemoglobin dissociation curve to the left, and directly inhibiting myoglobin and cytochrome $c$ oxidase (1–3). Standard dual-wavelength pulse oximeters cannot distinguish COHb from oxyhemoglobin, falsely displaying normal oxygen saturations ($\text{SpO}_2 \ge 98\%$) in fatal poisoning (1, 3). Accurate diagnosis requires multi-wavelength CO-oximetry. First-line therapy is high-concentration normobaric oxygen ($100\%\ \text{O}_2$), which shortens COHb half-life from 320 to 80 minutes; hyperbaric oxygen (HBO at $2.5\text{–}3.0\text{ ATA}$) is indicated for loss of consciousness, ischemic ECG changes, severe neurological deficits, or pregnancy with $\text{COHb} > 15\%$ (1, 5, 7, 9).
+- **Cyanide Poisoning in Smoke Inhalation:** Inhaled cyanide (liberated during combustion of synthetic polymers, polyurethane, wool, and silk) binds to ferric iron ($\text{Fe}^{3+}$) in mitochondrial cytochrome $c$ oxidase (Complex IV), abruptly arresting oxidative ATP synthesis (12, 13). Tissues are unable to extract delivered oxygen, producing marked histotoxic hypoxia characterized by profound lactic acidosis ($\text{lactate} > 8\text{–}10\text{ mmol/L}$) in the presence of an abnormally elevated central venous oxygen saturation ($\text{ScvO}_2 > 90\%$) (12). Hydroxocobalamin ($5\text{ g}$ IV over 15 minutes; repeat $5\text{ g}$ for cardiac arrest or refractory shock) is the preferred antidote of choice, binding cyanide to form non-toxic cyanocobalamin (vitamin $\text{B}_{12}$) (12, 15). Sodium thiosulfate ($12.5\text{ g}$ IV) donates sulfur to accelerate rhodanese-mediated conversion to thiocyanate (14, 18). Nitrites are strictly contraindicated in fire victims due to compounding methemoglobinemic hypoxia (12).
+- **Toxic Alcohols (Ethylene Glycol & Methanol):** Ingestion produces early inebriation without an ethanol breath odor, followed by a profound high-anion-gap metabolic acidosis and an elevated osmolal gap ($> 10\text{ mOsm/kg}$) (19). Both alcohols are metabolized by hepatic alcohol dehydrogenase (ADH) into lethal organic acids: ethylene glycol yields glycolic and oxalic acids, causing acute tubular necrosis and calcium oxalate monohydrate crystalluria; methanol yields formaldehyde and formic acid, causing retinal edema, blindness, and bilateral putaminal necrosis (19–22).
+- **Antidotal Blockade and Hemodialysis:** Fomepizole ($15\text{ mg/kg}$ IV loading dose, then $10\text{ mg/kg}$ every 12 hours) potently and competitively inhibits ADH, halting the production of toxic metabolites (19). Metabolic cofactors accelerate alternative non-toxic clearance: thiamine ($100\text{ mg}$ IV) and pyridoxine ($50\text{ mg}$ IV) for ethylene glycol; folinic acid (leucovorin $1\text{ mg/kg}$ IV) for methanol (19, 21). Immediate emergent hemodialysis is mandatory for severe acidemia ($\text{pH} \lt 7.10$), visual impairment, acute kidney injury, or toxic alcohol concentrations $> 50\text{ mg/dL}$ (19, 20).
 
-CvO<sup>2</sup> = 5 mL/dL) for both curves. The venous PO<sup>2</sup> (PvO<sup>2</sup> ) is a close approximation of tissue PO<sup>2</sup> , and it is much lower when COHb is present. This provides indirect evidence that CO poisoning impairs tissue oxygenation.
+</div></details>
+</div></details>
 
-#### *Other Effects*
+<details class="med-details" open><summary>
 
-The affinity of CO for heme results in inhibition of other heme-containing proteins, such as myoglobin (which is responsible for O<sup>2</sup> storage in skeletal muscle) and cytochrome oxidase (which is responsible for the oxidative production of ATP in mitochondria) ([3\)](#page-10-3). Both effects promote a switch to anaerobic metabolism. CO also activates neutrophils ([4\)](#page-10-4), which promotes oxidative tissue injury from reactive oxygen species. (See Chapter 17, and Figure 17.1, for the production of reactive oxygen species during neutrophil activation.) These effects may play an important role in CO poisoning, because *there is a poor correlation between COHb levels and the clinical severity of CO poisoning* [\(4](#page-10-4),5).
+## Carbon Monoxide Poisoning</summary><div class="details-content">
 
-<span id="page-1-0"></span>![](_page_1_Figure_3.jpeg)
+Carbon monoxide (CO) is an odorless, colorless, non-irritating toxic gas generated by the incomplete combustion of organic, carbon-containing material ($2\text{CO} + \text{O}_2 \rightarrow 2\text{CO}_2$) (1).
 
-**FIGURE 53.1** Influence of 50% carboxyhemoglobin on the oxyhemoglobin dissociation curve (using O<sup>2</sup> content instead of % hemoglobin saturation on the vertical axis). A = arterial blood, V = venous blood. The venous PO<sup>2</sup> (PvO<sup>2</sup> ) is a reflection of tissue PO, and is decreased by the carbon monoxide effect on hemoglobin. Curves adapted from Reference 1.
+In the United States, carbon monoxide poisoning is the leading cause of accidental and intentional poisoning deaths, responsible for over $50{,}000$ emergency department encounters and $1{,}000$ to $2{,}000$ fatalities annually (1, 5). The primary clinical sources include structural fire smoke inhalation, faulty residential heating appliances, enclosed gasoline-powered generators, and motor vehicle exhaust (1, 5). Mandated catalytic converters have reduced automotive exhaust CO emissions by $> 95\%$, shifting the modern etiology toward house fires and alternative heating equipment (1).
 
-### **Clinical Features**
+<details class="med-details" open><summary>
 
-The following statements summarize the clinical manifestations of CO poisoning, which are variable and nonspecific [\(1](#page-10-1)).
+### Pathophysiology and Oxygen Transport Derangements</summary><div class="details-content">
 
-- 1. Headache (usually frontal) and dizziness are the most common early complaints [\(1](#page-10-1)), and may be accompanied by drowsiness, nausea, and vomiting. As CO exposure increases, ataxia appears, along with agitation and changes in mentation (usually confusion and delirium).
-- 2. Severe cases of CO poisoning are characterized by obtundation or coma, generalized seizures, respiratory failure, often from the acute respiratory distress syndrome, hemodynamic instability, and lactic acidosis.
-- 3. A cherry-red skin color is classically described in CO poisoning (due to COHb being a brighter shade of red than oxyhemoglobin), but this is a rare occurrence (5).
+Inhaled carbon monoxide diffuses rapidly across the alveolar-capillary membrane and binds reversibly to the divalent iron ($\text{Fe}^{2+}$) in hemoglobin heme moieties at the exact binding sites reserved for molecular oxygen (1, 2).
 
-#### *Delayed Neurologic Sequelae*
+The affinity of adult hemoglobin for carbon monoxide is 200 to 250 times greater than its affinity for oxygen (2). Consequently, inspiring air containing a minuscule CO partial pressure of only $0.4\text{ mm Hg}$ ($0.05\%$ or $500\text{ ppm}$) is sufficient to displace oxygen and bind 50% of circulating hemoglobin as carboxyhemoglobin (COHb) (2).
 
-Symptoms of acute CO poisoning can be followed (in one to four weeks) by a neuropsychiatric syndrome that includes mental deterioration (e.g., impaired judgment, memory loss, cognitive defects), and parkinsonism ([1,](#page-10-1)6). The culprit in the delayed neurologic response is unclear, because the correlation with COHb levels has been difficult to establish ([1\)](#page-10-1).
+The deleterious impact of carboxyhemoglobin on systemic oxygen delivery is twofold, as illustrated by the oxyhemoglobin dissociation curves in Figure 53.1 (1, 3):
+1. **Reduction in Oxygen Content:** By occupying oxygen-binding sites, CO reduces the total oxygen-carrying capacity of blood in direct linear proportion to the percentage of COHb (point A on Figure 53.1) (1, 3).
+2. **Leftward Curve Shift (The Haldane Effect):** The binding of CO to one of the four heme tetramers increases the oxygen affinity of the remaining three heme moieties. This prevents physiological oxygen unloading at the tissue level, shifting the oxyhemoglobin dissociation curve dramatically to the left and transforming its normal sigmoid profile into an exaggerated hyperbolic curve (Figure 53.1) (1, 3).
 
-### **Diagnosis**
+As a result of this impaired offloading, venous and tissue oxygen tensions ($\text{PvO}_2$ and $\text{PtO}_2$, point V on Figure 53.1) plummet to dangerously hypoxic levels despite identical arterial-venous oxygen content differences ($\text{CaO}_2 - \text{CvO}_2 = 5\text{ mL/dL}$) (1, 3).
 
-The diagnosis of CO poisoning is not possible based on signs and symptoms alone, and requires evidence of an elevated COHb level in blood.
+<span id="fig-53-1"></span>
+![FIGURE 53.1](images/fig-53-1.jpg)
 
-### *Carboxyhemoglobin*
+**FIGURE 53.1** Influence of 50% carboxyhemoglobin on the oxyhemoglobin dissociation curve (plotting blood $\text{O}_2$ content on the vertical axis against $\text{PO}_2$). A = arterial blood, V = venous blood. The presence of COHb depresses arterial $\text{O}_2$ content and shifts the curve to the left, causing venous and tissue $\text{PO}_2$ ($\text{PvO}_2$) to plunge from normal ($40\text{ mm Hg}$) to severely hypoxic levels ($15\text{ mm Hg}$). Curves adapted from Reference 1.
 
-The measurement of hemoglobin in its different forms (oxygenated and deoxygenated hemoglobin, methemoglobin, and carboxyhemoglobin) is based on the light absorbing properties of each form. This method is known as *oximetry*, and is described in detail in Chapter 7. The following statements summarize the use of oximetry to measure COHb levels in blood.
+<details class="med-details" open><summary>
 
-- 1. *Pulse oximetry is NOT reliable for the detection of COHb*. Pulse oximeters use 2 wavelengths of light to measure oxygenated and deoxygenated hemoglobin in blood. Light absorbance at one of the wavelengths (660 nm) is very similar for oxygenated hemoglobin and COHb (see Figure 7.1), so *COHb is measured as oxygenated hemoglobin (HbO<sup>2</sup> ) by pulse oximeters, which results in spuriously high readings for HbO<sup>2</sup>* (7).
-- 2. The measurement of COHb requires an 8-wavelength oximeter (known as a CO-oximeter) that is available in most clinical laboratories. This device measures the relative abundance of all forms of hemoglobin in blood, and the abundance of each form is expressed as a percentage of the total hemoglobin in blood.
+#### Cellular Toxicity and Neutrophil Activation</summary><div class="details-content">
 
-COHb levels are negligible (<1%) in healthy nonsmokers, but smokers have COHb levels of 3–5% or even higher (5). Therefore, the threshold for elevated COHb levels is 3–4% for nonsmokers, and 10% for smokers (5).
+Systemic carbon monoxide toxicity extends far beyond simple hemoglobin binding (3, 4). Approximately 10% to 15% of absorbed CO distributes into extravascular tissues, binding with high affinity to other heme-containing proteins:
+- **Myoglobin:** CO binds skeletal and myocardial myoglobin with an affinity 40-fold greater than oxygen, causing direct myocardial depression, left ventricular systolic dysfunction, and dysrhythmias (3, 10).
+- **Cytochrome $c$ Oxidase:** CO binds to the iron-copper center of mitochondrial cytochrome $c$ oxidase (Complex IV), arresting mitochondrial electron transport and oxidative phosphorylation, and driving immediate cellular conversion to anaerobic metabolism (3, 4).
+- **Neutrophil Activation and Lipid Peroxidation:** CO exposure triggers the release of nitric oxide from vascular endothelial cells, which forms reactive nitrogen species and activates circulating neutrophils (4). Activated neutrophils adhere to cerebral microvasculature, degranulate, and release myeloperoxidase, precipitating profound lipid peroxidation of myelin basic protein in the brain (4, 5).
 
-### **Management**
+Because of these pervasive extravascular toxicities, *serum carboxyhemoglobin concentrations correlate poorly with clinical severity and long-term neurological outcome* (4, 5).
 
-The treatment for CO poisoning is inhalation of 100% oxygen. The elimination half-life of COHb is 320 minutes while breathing room air, and 74 minutes while breathing 100% oxygen (5), so *less than 1½ hours of breathing 100% oxygen should reduce COHb levels to normal*. To achieve this, high-flow, heated and humidified nasal O<sup>2</sup> , which delivers O<sup>2</sup> at rates up to 40 L/min, seems the best option to ensure 100% O<sup>2</sup> inhalation. (High-flow nasal O<sup>2</sup> is described in Chapter 25, and is depicted in Figure 25.5.)
+</div></details>
+</div></details>
 
-#### *Hyperbaric Oxygen*
+<details class="med-details" open><summary>
 
-Hyperbaric oxygen has been studied for the treatment of CO poisoning since the 1970s, and there is some evidence that it might reduce the risk of delayed neuropsychiatric sequelae (8). However, the sum of the entire experience with hyperbaric O<sup>2</sup> shows no convincing evidence that it is superior to "normobaric" O<sup>2</sup> therapy for CO poisoning (7,9).
+### Clinical Manifestations and Diagnostic Pitfalls</summary><div class="details-content">
 
-#### *Cardiac Concerns*
+The clinical manifestations of acute CO poisoning are nonspecific, frequently leading to misdiagnosis as a viral syndrome, gastroenteritis, migraine, or acute psychiatric disturbance (1, 5). Organs with the highest metabolic oxygen consumption—the brain and heart—are exquisitely vulnerable (1, 10).
 
-Myocardial injury has been reported in close to 40% of patients with moderate to severe CO poisoning, and is a poor prognostic finding (10). Therefore, an ECG and cardiac biomarkers are recommended for all patients with moderate or severe CO poisoning (7).
+<details class="med-details" open><summary>
 
-#### *Cyanide Poisoning*
+#### Clinical Presentation Spectrum</summary><div class="details-content">
 
-House fires generate hydrogen cyanide gas as well as carbon monoxide, and empiric treatment for cyanide poisoning is recommended for smoke inhalation victims who are hemodynamically unstable, or have a serum lactate level ≥10 mmol/L (5). This treatment is described in the next section.
+- **Mild-to-Moderate Intoxication:** Frontal throbbing headache (the most frequent early symptom), lightheadedness, nausea, vomiting, generalized weakness, and visual blurring (1, 5).
+- **Severe Acute Poisoning:** Confusion, syncope, generalized tonic-clonic seizures, focal neurological deficits, obtundation, coma, noncardiogenic pulmonary edema, and refractory shock (1, 5). Myocardial injury occurs in up to 35% of moderate-to-severe intoxications, manifesting as troponin elevation, ischemic ST-segment shifts, or ventricular arrhythmias, and independently confers a 3-fold increase in long-term all-cause mortality (10). Classical "cherry-red" skin coloration is an insensitive, postmortem finding that is rarely present in living patients.
+- **Delayed Neurological Sequelae (DNS):** Occurs in 10% to 30% of patients following apparent complete recovery from an acute poisoning (6). Following a symptom-free lucid interval of 2 to 40 days, patients develop insidious or sudden cognitive deterioration, memory loss, parkinsonism, psychosis, urinary incontinence, and choreoathetosis, driven by ongoing demyelination of the cerebral white matter and basal ganglia necrosis (6, 8).
 
-## **CYANIDE POISONING**
+</div></details>
 
-Cyanide is a lethal toxin with a nefarious history. The Nazis used hydrogen cyanide gas (Zyklon-B) for mass murder in the 1940's, and in 1978, cyanide-laced fruit drinks were used for the mass murder of more than 900 adults and children in Jonestown, Guyana (11). The principal sources of cyanide poisoning include inhalation of hydrogen cyanide gas during domestic fires (12), and oral ingestion of potassium or sodium cyanide, which is converted to hydrogen cyanide by gastric acidity (13). There is also an iatrogenic source of cyanide poisoning from vasodilator infusions with *sodium nitroprusside* (14), which should never be overlooked.
+<details class="med-details" open><summary>
 
-<span id="page-4-0"></span>![](_page_4_Figure_0.jpeg)
+#### Pulse Oximetry Failure and CO-Oximetry</summary><div class="details-content">
 
-**FIGURE 53.2** The actions of cyanide to inhibit cytochrome oxidase, and the clearance of cyanide by hydroxocobalamin and thiocyanate. See text for further explanation.
+The most treacherous diagnostic pitfall in carbon monoxide poisoning is complete reliance on standard non-invasive pulse oximetry ($\text{SpO}_2$) (1, 5).
 
-#### **Pathogenesis**
+Standard bedside pulse oximeters measure light absorbance at only two optical wavelengths: $660\text{ nm}$ (red) and $940\text{ nm}$ (infrared) (1). Carboxyhemoglobin absorbs light at $660\text{ nm}$ with an extinction coefficient virtually identical to that of oxyhemoglobin. As a consequence, conventional pulse oximeters falsely misinterpret carboxyhemoglobin as oxyhemoglobin, displaying a reassuringly normal saturation ($\text{SpO}_2 \ge 98\%$) even in patients dying from lethal CO concentrations (1, 5). Similarly, routine blood gas analysis measures dissolved oxygen tension ($\text{PaO}_2$) and *calculates* oxygen saturation from an internal nomogram assuming normal hemoglobin, yielding a falsely normal calculated saturation (1).
 
-Cyanide ions have a high affinity for metalloproteins, including the oxidized iron (Fe3+) in cytochrome oxidase and methemoglobin. Cytochrome oxidase is the last enzyme system in the electron-transport chain within mitochondria, where the electrons collected during ATP production are used to reduce oxygen to water (see [Figure](#page-4-0) 53.2). Cyanide-induced inhibition of cytochrome oxidase thus halts the process of oxidative energy production in mitochondria. This impedes the uptake of pyruvate into mitochondria, and subsequently increases the production of lactic acid. The accumulation of lactate in plasma produces *a progressive metabolic (lactic) acidosis,* which *is a hallmark of cyanide poisoning*. The defect in cellular energy production is often fatal if not corrected.
+Accurate diagnosis mandates direct measurement of carboxyhemoglobin using a multi-wavelength *CO-oximeter* (employing 8 or more distinct optical absorption wavelengths) on an arterial or venous whole-blood sample (1, 5):
+- **Normal Reference Levels:** Non-smokers exhibit baseline $\text{COHb} \lt 2\text{–}3\%$; chronic cigarette smokers tolerate baseline levels between 5% and 10% (1, 5).
+- **Toxic Thresholds:** Levels $> 10\text{–}15\%$ confirm abnormal exposure in non-smokers, while levels $> 25\%$ indicate severe poisoning (1, 5). However, because oxygen administration initiated by first responders accelerates CO clearance during transit, a normal or low COHb level drawn hours after exposure does *not* rule out severe prior poisoning (1, 5).
 
-### **Clinical Features**
+</div></details>
+</div></details>
 
-Early signs of cyanide poisoning include agitation, tachycardia, hypertension, and tachypnea, representing the compensatory stage of metabolic acidosis. This often progresses to loss of consciousness, bradycardia, hypotension, and cardiac arrest. Plasma lactate levels are typically very high (>10 mmol/L), and venous blood can look "arterialized" (and have a high PO<sup>2</sup> ) because of the marked decrease in tissue O<sup>2</sup> utilization (13). Progression is rapid after smoke inhalation, and the time from onset of symptoms to cardiac arrest can be less than 5 minutes (12). Progression can be much slower after the oral ingestion of cyanide, and clinical manifestations can take several minutes or even hours to appear (13).
+<details class="med-details" open><summary>
 
-#### *Diagnosis*
+### Treatment: Normobaric vs Hyperbaric Oxygen</summary><div class="details-content">
 
-Cyanide poisoning is a clinical diagnosis. Whole blood cyanide levels can be used for documentation, but results are not immediately available, and cyanide antidotes must be given quickly for optimal results. The clinical diagnosis of cyanide poisoning is particularly challenging in victims of smoke inhalation, because many of the clinical features of cyanide poisoning are indistinguishable from carbon monoxide (CO) poisoning. Cyanide poisoning should be suspected if smoke inhalation is associated with hemodynamic instability, or a plasma lactate >10 mmol/L (5). However, there may not be not enough time to wait for a lactate level after smoke inhalation.
+The immediate definitive therapy for carbon monoxide poisoning is the administration of high-concentration oxygen (1, 5). Molecular oxygen competitively displaces carbon monoxide from hemoglobin and intracellular heme-proteins according to the law of mass action (1, 2).
 
-#### *Treatment*
+<details class="med-details" open><summary>
 
-There are three antidotes for cyanide poisoning, which are included in [Table](#page-5-0) 53.1. Unfortunately, the most effective antidotes must be given intravenously, which can cause dangerous delays in treatment (especially for smoke inhalation victims).
+#### Elimination Kinetics and Normobaric Therapy</summary><div class="details-content">
 
-<span id="page-5-0"></span>
+Oxygen accelerates CO elimination kinetics (1, 5):
+- **Room Air ($21\%\ \text{O}_2$ at $1\text{ ATA}$):** The elimination half-life ($t_{1/2}$) of carboxyhemoglobin is 320 minutes (approximately 5.5 hours) (1, 5).
+- **Normobaric $100\%\ \text{O}_2$ ($1\text{ ATA}$):** Delivered via a tight-fitting non-rebreather mask with reservoir bag or endotracheal tube, the elimination half-life is shortened to 70 to 80 minutes (1, 5).
+- **Hyperbaric Oxygen ($100\%\ \text{O}_2$ at $2.5\text{–}3.0\text{ ATA}$):** Delivered in a specialized hyperbaric chamber, the elimination half-life of COHb is reduced to 20 to 25 minutes (1, 5, 9). In addition, hyperbaric oxygen forces dissolved oxygen into plasma ($> 6\text{ mL/dL}$ at $3\text{ ATA}$), sufficient to meet baseline resting tissue oxygen demands completely independent of hemoglobin transport (1, 9). Furthermore, hyperbaric oxygen restores mitochondrial cytochrome oxidase activity and prevents $\beta_2$-integrin-mediated neutrophil adherence, arresting cerebral vascular lipid peroxidation (5, 9).
 
-| TABLE<br>53.1            | Antidotes<br>for<br>Cyanide<br>Poisoning                                                                                                                                                                                              |
-|--------------------------|---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
-| Antidote                 | Dosing Regimens and Comments                                                                                                                                                                                                          |
-| Hydroxocobalamin         | Dosing: 5 grams infused IV over 15 minutes. Give 10 grams for cardiac arrest.<br>Comment: The antidote of choice for cyanide poisoning. May cause reddish color in urine<br>for a few days.                                           |
-| Sodium<br>Thiosulfate    | Dosing: 12.5 grams in 50 mL sterile water, by IV injection.<br>Comment: Used in combination with hydroxocobalamin. Do not use in patients with renal<br>failure.                                                                      |
-| Amyl Nitrite<br>Inhalant | Dosing: Inhale for 15 sec. then rest for 15 sec, and repeat if needed. Use a new ampule<br>(0.3 mL) every 3 minutes.<br>Comment: Used only for temporary relief when IV access not available. Contraindicated in<br>smoke inhalation. |
+</div></details>
 
-From References 12, 15, and 18.
+<details class="med-details" open><summary>
 
-#### *Hydroxocobalamin*
+#### Indications for Hyperbaric Oxygen Therapy (HBO)</summary><div class="details-content">
 
-The antidote of choice for cyanide poisoning is *hydroxocobalamin*, a cobalt-containing precursor of vitamin B<sup>12</sup> that combines with cyanide to form cyanocobalamin, which is then excreted in the urine (see [Figure](#page-4-0) 53.2). The recommended dose is *5 grams, given as an IV infusion over 15 minutes* (15). A second dose of 5 grams is recommended for life-threatening cases. Hydroxocobalamin is generally considered to be safe, although it can cause a transient rise in blood pressure. It can also produce a reddish color in urine and other body fluids for a few days (16).
+Although consensus regarding the prevention of delayed neurological sequelae remains debated in Cochrane meta-analyses (8, 9), major clinical policies (ACEP, Undersea and Hyperbaric Medical Society) recommend hyperbaric oxygen therapy within 24 hours of exposure for patients meeting any of the following criteria (5, 7):
+1. Documented loss of consciousness or syncope;
+2. Coma, seizures, or persistent altered mental status;
+3. Focal neurological deficits;
+4. Objective evidence of acute myocardial ischemia (ischemic ECG changes, elevated cardiac troponin, or hemodynamic instability) (10);
+5. Severe metabolic acidosis ($\text{pH} \lt 7.20$ or base deficit $> 10\text{ mEq/L}$);
+6. Carboxyhemoglobin concentration $\ge 25\%$ (or $\ge 15\%$ in pregnant women, because fetal hemoglobin binds CO with greater avidity and fetal tissue elimination is prolonged) (5, 7).
 
-#### *Sodium Thiosulfate*
+When hyperbaric facilities are unavailable or transfer is contraindicated by hemodynamic instability, continuous normobaric $100\%\ \text{O}_2$ must be maintained until the patient is completely asymptomatic and the measured COHb concentration is confirmed $< 3\text{–}5\%$ (1, 5).
 
-Sodium thiosulfate (S2O<sup>3</sup> ) converts cyanide to thiocyanate (SCN) by the following *transulfuration reaction*:
+</div></details>
+</div></details>
+</div></details>
 
-$$S_2O_3 + CN \rightarrow SCN + SO_3$$
- (53.1)
+<details class="med-details" open><summary>
 
-Thiocyanate is then cleared by the kidneys. Thiosulfate can be used in combination with hydroxocobalamin (17), and the recommended dose is *12.5 grams IV* (diluted in 50 mL sterile water) (18). However, thiosulfate is not recommended in patients with renal failure because *thiocyanate is a neurotoxin that can accumulate in renal failure and cause an acute psychosis* (14),
+## Cyanide Poisoning</summary><div class="details-content">
 
-#### *Nitrites*
+Cyanide is one of the most rapidly lethal poisons known to human medicine, historically infamous as an agent of mass execution, chemical warfare, and suicidal ingestion (11, 12).
 
-Nitrites enhance cyanide clearance by promoting the formation of methemoglobin (Hb-Fe3+), which combines with cyanide to form cyanmethemoglobin: i.e.,
+In modern critical care, however, the overwhelming majority of cyanide exposures occur in victims of *structural fire smoke inhalation* (12, 13). Combustion of ubiquitous synthetic nitrogen-containing household materials—such as polyurethane foams (insulation, mattresses), polyacrylonitrile, plastics, wool, and silk—liberates massive concentrations of hydrogen cyanide gas ($\text{HCN}$) into enclosed fire environments (12). Additional clinical sources include industrial electroplating accidents, chemical synthesis, and prolonged or high-dose intravenous sodium nitroprusside infusions in patients with renal failure (12, 14).
 
-$$Hb-Fe^{3+} + CN \rightarrow Hb-Fe^{2+} - CN$$
- (53.2)
+<details class="med-details" open><summary>
 
-The hemoglobin-bound cyanide is eventually cleared by reacting with thiosulfate, which should be used in combination with nitrites. Unfortunately, nitrites have undesirable side effects, and *are contraindicated in smoke inhalation* (because methemoglobin promotes tissue hypoxia) (12). The only role for nitrites in cyanide poisoning is the use of inhaled amyl nitrite as a temporary measure when IV access is not available.
+### Cellular Mechanism: Cytochrome Oxidase Inhibition</summary><div class="details-content">
 
-#### *Cyanide Antidote Kits*
+Cyanide is a potent cellular asphyxiant that arrests aerobic cellular respiration (12, 13).
 
-There are two kits available for cyanide poisoning, but neither kit has all the antidotes.
+Following inhalation or ingestion, cyanide ions ($\text{CN}^-$) distribute rapidly into tissues and bind with profound avidity to the ferric iron ($\text{Fe}^{3+}$) moiety in the oxidized heme $a_3$ cofactor of *cytochrome $c$ oxidase* (Complex IV of the mitochondrial electron transport chain), as illustrated in Figure 53.2 (12, 13). By freezing cytochrome $a_3$ in its trivalent state, cyanide halts the terminal transfer of electrons to molecular oxygen; mitochondrial oxidative phosphorylation ceases instantly (12, 13).
 
-- 1. The Cyanokit® (14) contains 5 grams of hydroxocobalamin as a powder, but has no diluent for IV administration, and has no repeat dose of hydroxocobalamin (14). There is also no thiosulfate or amyl nitrite in this kit.
-- 2. The Cyanide Antidote Kit (18) contains 2 vials of sodium thiosulfate for injection: each vial contains 12.5 grams of sodium thiosulfate in 50 mL of sterile water. The kit also contains 12 ampules of 0.3 mL amyl nitrite for inhalation. Each inhalation should be for 15 sec, alternating with 15 sec of rest, and continued as long as needed. A new ampule should be used every 3 minutes.
+<details class="med-details" open><summary>
 
-It certainly would be advantageous if all the cyanide antidotes were available in a single kit.
+#### Histotoxic Hypoxia and Lactic Acidosis</summary><div class="details-content">
 
-## **TOXIC ALCOHOLS**
+Because the cellular machinery is rendered completely incapable of utilizing oxygen—a state termed *histotoxic hypoxia*—cells undergo an immediate, catastrophic collapse of ATP synthesis and shift entirely to anaerobic glycolysis (12, 13). Massive excess quantities of lactic acid are generated and poured into the bloodstream.
 
-Ethylene glycol and methanol are common components of household, automotive, and industrial products, and they both produce toxic syndromes that are characterized by a metabolic acidosis. They are called *toxic alcohols* (19), but this is a misnomer, because it implies that ethanol is nontoxic.
+Crucially, because tissue oxygen extraction is paralyzed, arterial blood traverses systemic capillaries without delivering oxygen; as a consequence, systemic venous blood remains fully oxygenated (12). This pathophysiology generates the classic, pathognomonic finding of cyanide toxicity: *profound lactic acidosis in the presence of an abnormally elevated central venous oxygen saturation ($\text{ScvO}_2 > 90\%$) and a narrowed arteriovenous oxygen content difference* (12, 13).
 
-### **Ethylene Glycol**
+<span id="fig-53-2"></span>
+![FIGURE 53.2](images/fig-53-2.jpg)
 
-Ethylene glycol is the main ingredient in many automotive antifreeze and deicer products. It has a sweet, agreeable taste, which makes it a popular method of attempted suicide.
+**FIGURE 53.2** The cellular actions of cyanide and antidotal clearance by hydroxocobalamin. Cyanide binds to the ferric iron ($\text{Fe}^{3+}$) of mitochondrial cytochrome $c$ oxidase, halting electron transfer and arresting ATP synthesis. Hydroxocobalamin binds cyanide with greater affinity than cytochrome oxidase, forming non-toxic cyanocobalamin, which is excreted renally. Adapted from Reference 12.
 
-#### *Pathogenesis*
+</div></details>
+</div></details>
 
-Ethylene glycol is readily absorbed from the GI tract, and 80% of the ingested dose is metabolized in the liver. The metabolism of ethylene glycol involves the formation of a series of acids, with the participation of alcohol dehydrogenase and lactate dehydrogenase enzymes, *ending with the formation of oxalic acid* (see [Figure](#page-7-0) 53.3) (19). Each of the intermediate reactions involves the conversion of NAD to NADH, which promotes the conversion of pyruvate to lactate. As a result, serum lactate levels are also elevated in ethylene glycol poisoning (12). Each of the acid intermediates in ethylene glycol metabolism is a strong acid that readily dissociates, and can contribute to a metabolic acidosis. The oxalic acid also combines with calcium to form insoluble calcium oxalate crystals that precipitate in several tissues, and are particularly prominent in the renal tubules. These crystals are a source of renal tubular injury, and are visible on urine microscopy.
+<details class="med-details" open><summary>
 
-<span id="page-7-0"></span>![](_page_7_Figure_1.jpeg)
+### Clinical Presentation in Fire Victims</summary><div class="details-content">
 
-**FIGURE 53.3** The metabolism of ethylene glycol and methanol in the liver. AD = alcohol dehydrogenase, LDH = lactate dehydrogenase, FMP = fomepizole.
+Cyanide poisoning develops with terrifying rapidity: inhalation of high concentrations of $\text{HCN}$ gas precipitates convulsions, coma, respiratory arrest, and cardiovascular collapse within seconds to minutes (12, 13).
 
-#### *Clinical Features*
+In enclosed-space fire victims, acute cyanide toxicity must be aggressively suspected in any patient presenting with (12):
+- Visible soot in the mouth, pharynx, or sputum;
+- Altered mental status, confusion, seizures, or coma;
+- Refractory arterial hypotension and shock;
+- Severe, unexplained lactic acidosis (serum lactate $> 8\text{–}10\text{ mmol/L}$) (12, 13).
 
-Early signs of ethylene glycol intoxication include nausea, vomiting, and apparent inebriation (altered mental status, slurred speech, and ataxia). Because ethylene glycol is odorless, there is no odor of alcohol on the breath. Severe cases are accompanied by depressed consciousness, coma, generalized seizures, renal failure, pulmonary edema, and cardiovascular collapse (19). Renal failure can be a late finding (24 hours after ingestion).
+In smoke inhalation victims, a plasma lactate concentration $\ge 10\text{ mmol/L}$ exhibits a sensitivity of 87% and specificity of 94% for clinically significant cyanide toxicity (12). Because definitive whole-blood cyanide assays require specialized reference laboratories and take days to report, *the diagnosis of cyanide poisoning is strictly clinical, and antidotal therapy must be initiated empirically without waiting for laboratory confirmation* (12, 13).
 
-Laboratory studies show a metabolic acidosis with an elevated anion gap (due to glycolic
+</div></details>
 
-acid and oxalic acid) and an elevated osmolal gap (See the latter part of Chapter 31 for a description of the osmolal gap.) Serum lactate levels can be elevated, and this can be misleading, as the high anion-gap metabolic acidosis may be mistakenly attributed to the elevated lactate levels.
+<details class="med-details" open><summary>
 
-Plasma assays are available for ethylene glycol and glycolic acid, but neither is readily available, and decisions about acute management are based on clinical judgment. However, plasma levels of ethylene glycol and glycolic acid should be obtained for confirmatory purposes. Plasma levels of ethylene glycol that are above 20 mg/dL are considered toxic (19), but plasma glycolic acid levels are more predictive of the severity of disease, and levels above 8 mmol/L have been proposed as an indication for hemodialysis (20).
+### Antidotal Pharmacology and Kits</summary><div class="details-content">
 
-**CRYSTALLURIA:** Calcium oxalate crystals can be visualized in the urine in about 50% of cases of ethylene glycol poisoning (21). The presence of calcium oxalate crystals is not specific for ethylene glycol poisoning, but the shape of the crystals is more specific; i.e., thin, monohydrate crystals, like the ones shown in [Figure](#page-8-0) 53.4, are more characteristic of ethylene glycol poisoning than the box-shaped dihydrate crystals (21). Most hospital laboratories do not routinely inspect urine for crystals, so make sure to request a search for crystals when a urine sample is sent to the laboratory.
+Definitive antidotal management requires immediate clearance of cyanide from mitochondrial cytochrome oxidase (12, 15). Table 53.1 summarizes the pharmacological characteristics of available cyanide antidotes.
 
-<span id="page-8-0"></span>![](_page_8_Picture_3.jpeg)
+<details class="med-details" open><summary>
 
-**FIGURE 53.4** Microscopic appearance of calcium oxalate monohydrate crystals. The presence of these thin, needle-shaped crystals in the urine is highly suggestive of ethylene glycol poisoning.
+#### <span id="tbl-53-1"></span>TABLE 53.1 Antidotes for Cyanide Poisoning</summary><div class="details-content">
 
-#### *Treatment*
+| Antidotal Agent | Clinical Dosing Regimens | Mechanism of Action and Clinical Comments |
+| :--- | :--- | :--- |
+| **Hydroxocobalamin** | • $5\text{ g}$ IV infused continuously over $15\text{ minutes}$.<br>• Repeat second $5\text{ g}$ dose (up to $10\text{ g}$ total) for cardiac arrest or refractory shock. | **Antidote of choice in ICU and smoke inhalation.** Cobalt ion binds cyanide to form cyanocobalamin (vitamin $\text{B}_{12}$), excreted in urine. Causes transient hypertension and chromaturia. |
+| **Sodium Thiosulfate** | • $12.5\text{ g}$ IV ($50\text{ mL}$ of a $25\%$ solution) administered over $10\text{ minutes}$. | Donates sulfur to mitochondrial rhodanese enzyme, forming non-toxic thiocyanate. Slower onset; avoid in severe renal failure. |
+| **Amyl Nitrite Inhalant** | • Crush 1 ampule ($0.3\text{ mL}$) and inhale for $15\text{ seconds}$ per minute; replace every $3\text{ minutes}$. | Oxidizes hemoglobin to methemoglobin ($\text{Fe}^{3+}$), which binds cyanide. **Strictly contraindicated in smoke inhalation.** |
 
-The management of ethylene glycol poisoning involves measures to alter the metabolism of ethylene glycol, along with hemodialysis, if necessary.
+*Data and recommendations compiled from European Consensus Guidelines and package inserts (References 12,15,18).*
 
-**FOMEPIZOLE:** Fomepizole inhibits alcohol dehydrogenase, the enzyme involved in the initial step of ethylene glycol metabolism (see [Figure](#page-7-0) 53.3). The recommended dosing regimen for both
+</div></details>
 
-ethylene glycol and methanol poisoning is shown in [Table](#page-9-0) 53.2 (19). The best results are obtained if therapy begins within 4 hours of ingestion. Fomepizole should be continued until the toxic alcohol levels in plasma have fallen to <20 mg/dL, and the metabolic acidosis has resolved.
+<details class="med-details" open><summary>
 
-#### <span id="page-9-0"></span>**TABLE 53.2 Dosing Regimen for Fomepizole**
+#### Antidote Protocols: Hydroxocobalamin and Thiosulfate</summary><div class="details-content">
 
-- 1. Start with an IV loading dose of 15 mg/kg.
-- 2. Follow with a dose of 10 mg/kg IV every 12 hrs for 4 doses.
-- 3. If the toxic alcohol level is >20 mg/dL after 4 doses, increase the dose to 15 mg/kg IV every 12 hours, and continue until the following end-points are reached:
-  - a. the toxic alcohol level is <20 mg/dL,
-  - b. the plasma pH is normal,
-  - c. the patient is asymptomatic.
-- 4. If more than one hemodialysis session is required, change the dose to 15 mg/kg IV every 4 hrs, until dialysis is no longer necessary.
+- **Hydroxocobalamin (Cyanokit):** Hydroxocobalamin is a synthetic cobalt-containing precursor of vitamin $\text{B}_{12}$ and represents the first-line antidote of choice worldwide (Figure 53.2) (12, 15). The central cobalt atom binds cyanide with an affinity exceeding that of cytochrome oxidase, forming non-toxic cyanocobalamin, which is eliminated in the urine (15). Hydroxocobalamin does not impair oxygen delivery and is completely safe in smoke inhalation victims with concurrent carboxyhemoglobinemia (12, 15). The standard adult dose is $5\text{ g}$ IV infused over 15 minutes, with a second $5\text{ g}$ infusion reserved for cardiac arrest or persistent vasoplegia (15). Adverse effects include benign, intense red-purple discoloration of the skin and urine (chromaturia lasting several days), transient hypertension from nitric oxide scavenging, and optical interference with laboratory analyzers and continuous hemodialysis machines (15, 16).
+- **Sodium Thiosulfate:** Sodium thiosulfate accelerates the endogenous transulfuration pathway: the mitochondrial enzyme rhodanese uses thiosulfate as a sulfur donor to convert cyanide into thiocyanate ($\text{SCN}^-$), which is excreted in the urine (14, 18). Because the enzymatic reaction is rate-limited, onset of action is relatively slow; thiosulfate is therefore administered synergistically following hydroxocobalamin (17, 18). In patients with severe renal failure, thiosulfate must be used with caution, as accumulating thiocyanate produces toxic psychosis and hyperreflexia (14).
+- **The Danger of Nitrites in Fire Victims:** Amyl nitrite inhalants and intravenous sodium nitrite induce intentional methemoglobinemia ($\text{Fe}^{3+}$), which sequesters cyanide as cyanmethemoglobin (12, 18). However, generating $20\%\text{–}30\%$ methemoglobin in a fire victim who already suffers from $20\%\text{–}40\%$ carboxyhemoglobinemia causes catastrophic, fatal arterial hypoxemia (12). *Nitrites are strictly contraindicated in smoke inhalation victims* (12).
 
-From Reference 19.
+</div></details>
+</div></details>
+</div></details>
 
-**HEMODIALYSIS:** The clearance of ethylene glycol and all its metabolites is enhanced by hemodialysis. The indications for immediate hemodialysis include severe acidemia (pH <7.1), and evidence of significant end-organ damage (e.g., coma, seizures, and renal insufficiency) (19). Multiple courses of hemodialysis may be necessary, and fomepizole dosing should be adjusted, as indicated in [Table](#page-9-0) 53.2.
+<details class="med-details" open><summary>
 
-**ADJUNCTS:** Thiamine (100 mg IV daily) and pyridoxine (100 mg IV daily) are recommended to divert glyoxylic acid to the formation of non-toxic metabolites (see [Figure](#page-7-0) 53.3).
+## Toxic Alcohols</summary><div class="details-content">
 
-#### **Methanol**
+The term *toxic alcohols* refers clinically to ethylene glycol, methanol, and diethylene glycol (19). Although ethanol itself is intoxicating, ethylene glycol and methanol produce distinct, life-threatening metabolic toxidromes characterized by catastrophic organic acidosis, severe target-organ destruction, and high mortality (19, 21).
 
-Methanol (also known as *wood alcohol* because it was first distilled from wood) is a common ingredient in shellac, varnish, paint remover or thinner, windshield washer fluid, and solid cooking fuel (e.g., Sterno® products).
+<details class="med-details" open><summary>
 
-#### *Pathogenesis*
+### Ethylene Glycol Intoxication</summary><div class="details-content">
 
-Like ethylene glycol, methanol is readily absorbed from the upper GI tract, and is metabolized by alcohol dehydrogenase in the liver. The *principal metabolite is formic acid*, a strong acid that readily dissociates and produces a metabolic acidosis with a high anion gap (19). Formic acid is also a mitochondrial toxin that inhibits cytochrome oxidase and blocks oxidative energy production. Tissues that are particularly susceptible to damage are the retina, optic nerve, and basal ganglia. In one study, hypodense lesions in the basal ganglia were present on CT scan in 64% of patients with methanol poisoning (22). Methanol metabolism promotes the conversion of pyruvate to lactate in the same manner described for ethylene glycol metabolism, and lactate production is increased further by the toxic effects of formic acid.
+Ethylene glycol is a sweet-tasting, viscous, odorless liquid utilized extensively in automotive antifreeze, engine coolants, deicing solutions, and industrial solvents (19). Its sweet flavor and accessible household packaging make it a frequent agent of accidental ingestion in children and intentional suicidal consumption in adults (19).
 
-#### *Clinical Features*
+<details class="med-details" open><summary>
 
-Early manifestations (within 6 hours of ingestion) include signs of apparent inebriation without
+#### Metabolism and Crystal Formation</summary><div class="details-content">
 
-the odor of ethanol (as in ethylene glycol intoxication). Later signs (6–24 hours after ingestion) include visual disturbances (e.g., scotoma, blurred vision, complete blindness), depressed consciousness, coma, and generalized seizures (21). Examination of the retina can reveal papilledema and generalized retinal edema. The visual disturbances are characteristic of methanol poisoning, and are not a feature of ethylene glycol poisoning.
+Ethylene glycol is rapidly absorbed from the gastrointestinal tract and undergoes extensive hepatic metabolism (approximately 80% of an ingested dose) (19).
 
-Laboratory studies show a metabolic acidosis, high anion gap, and high osmolal gap, similar to ethylene glycol poisoning. However, there is no crystalluria in methanol poisoning. A plasma assay for methanol is available, and a level above 20 mg/dL is considered toxic. However, the results of the plasma assay are not immediately available, and are not used in the decision to initiate therapy.
+The parent ethylene glycol molecule itself is relatively non-toxic, causing only mild sedation and inebriation (19). Severe toxicity is mediated entirely by toxic acid metabolites generated by sequential hepatic oxidation (Figure 53.3) (19, 20):
+1. **Alcohol Dehydrogenase (ADH):** Oxidizes ethylene glycol to glycoaldehyde (the rate-limiting step).
+2. **Aldehyde Dehydrogenase:** Rapidly oxidizes glycoaldehyde into *glycolic acid* (Figure 53.3). Glycolic acid is a strong organic acid that dissociates completely at physiological $\text{pH}$, representing the primary driver of the severe high-anion-gap metabolic acidosis (19, 20).
+3. **Lactate Dehydrogenase and Glycolic Acid Oxidase:** Convert glycolic acid into glyoxylic acid, which is subsequently oxidized into *oxalic acid* (oxalate) (Figure 53.3) (19).
 
-#### *Treatment*
+Oxalic acid binds with high affinity to circulating and tissue calcium ions, precipitating as insoluble *calcium oxalate monohydrate crystals* within the cerebral microvasculature, myocardium, and renal tubules (19, 20). Within the kidneys, calcium oxalate precipitation causes acute mechanical tubular obstruction, intense cytotoxic tubular necrosis, and acute oliguric renal failure (Figure 53.4) (19).
 
-Treatment for methanol poisoning is the same as described for ethylene glycol poisoning, except for the following: (a) visual impairment is an indication for dialysis in methanol poisoning and (b) folinic acid is used as adjunctive therapy in methanol poisoning, instead of thiamine and pyridoxine.
+<span id="fig-53-3"></span>
+![FIGURE 53.3](images/fig-53-3.jpg)
 
-**FOLINIC ACID:** Folinic acid (leucovorin) can convert formic acid to non-toxic metabolites. The recommended dose is 1 mg/kg IV, up to 50 mg, at 4-hour intervals (21). Folic acid should be used if folinic acid is unavailable.
+**FIGURE 53.3** The hepatic metabolism of ethylene glycol and methanol. Alcohol dehydrogenase (ADH) represents the common rate-limiting enzyme. Fomepizole competitively inhibits ADH, preventing the formation of toxic organic acids (glycolic acid, oxalic acid, and formic acid). Adapted from Reference 19.
 
-### **A FINAL WORD**
+<span id="fig-53-4"></span>
+![FIGURE 53.4](images/fig-53-4.jpg)
 
-The following points in this chapter deserve emphasis:
+**FIGURE 53.4** Calcium oxalate monohydrate crystals in urine sediment from a patient with ethylene glycol poisoning. The spindle-, needle-, and dumbbell-shaped crystals are pathognomonic for severe ethylene glycol ingestion. Photomicrograph from Reference 19.
 
-- 1. Carbon monoxide poisoning can be missed if you rely on pulse oximetry readings to detect O<sup>2</sup> desaturation. Detection of elevated carboxyhemoglobin levels requires an 8-wavelength COoximeter, which is in most clinical laboratories.
-- 2. A victim of smoke inhalation who has a severe lactic acidosis or hemodynamic instability should be treated empirically for cyanide poisoning.
-- 3. Methanol and ethylene glycol poisoning should be considered in any patient who presents with a high-anion-gap metabolic acidosis of unclear etiology.
-- 4. If ethylene glycol poisoning is a consideration, inspection of the urine for calcium oxalate monohydrate crystals can provide confirmatory evidence.
+</div></details>
 
-#### *References*
+<details class="med-details" open><summary>
 
-<span id="page-10-0"></span>*a.* Bean WB, ed. S*ir William Osler: Aphorisms From His Bedside Teachings and Writings.* New York: Henry Schuman, Inc., 1950.
+#### Clinical Features: The Three Stages</summary><div class="details-content">
 
-#### *Carbon Monoxide*
+Historically, acute ethylene glycol intoxication progresses through three distinct, overlapping clinical stages (19, 21):
+- **Stage 1: Neurological Stage (0.5 to 12 Hours Post-Ingestion):** Patients appear intoxicated, exhibiting slurred speech, ataxia, confusion, and nystagmus, but noticeably *lack the breath odor of ethanol* (19). In severe ingestions, generalized seizures, stupor, and coma emerge. An elevated osmolal gap is demonstrable early.
+- **Stage 2: Cardiopulmonary Stage (12 to 24 Hours Post-Ingestion):** As glycolic acid accumulates, a profound high-anion-gap metabolic acidosis develops, accompanied by compensatory Kussmaul respirations (tachypnea and hyperpnea) (19). Patients exhibit sinus tachycardia, severe arterial hypotension, congestive cardiac dysfunction, and noncardiogenic pulmonary edema (19, 21).
+- **Stage 3: Renal Stage (24 to 72 Hours Post-Ingestion):** Flank pain, costovertebral tenderness, oliguria, and acute anuric kidney injury develop, driven by calcium oxalate crystal deposition and acute tubular necrosis (19). Urinalysis demonstrates calcium oxalate monohydrate (needle- or dumbbell-shaped) and dihydrate (envelope-shaped) crystals (Figure 53.4) (19).
 
-- <span id="page-10-1"></span>1. U.S. Department of Heath and Human Services: Agency for Toxic Substances and Disease Registry. Toxicological profile for carbon monoxide. Available at [atsdr.cdc.gov/ToxProfiles/tp201.pdf](http://atsdr.cdc.gov/ToxProfiles/tp201.pdf) (Accessed 7/22/2024).
-- <span id="page-10-2"></span>2. Guyton AC, Hall JE. *Medical Physiology*, 10th ed. Philadelphia: W.B. Saunders, Co, 2000:470.
-- <span id="page-10-3"></span>3. Chenoweth JA, Albertson TE, Greer MR. Carbon Monoxide Poisoning. Crit Care Clin 2021; 37:657–672.
-- <span id="page-10-4"></span>4. Guzman JA. Carbon monoxide poisoning. Crit Care Clin 2012; 28:537–548.
+</div></details>
+</div></details>
+
+<details class="med-details" open><summary>
+
+### Methanol Poisoning</summary><div class="details-content">
+
+Methanol (methyl alcohol, wood alcohol) is an industrial solvent found in windshield washer fluids, paint removers, solid cooking fuels (Sterno), and adulterated bootleg alcoholic beverages (19).
+
+<details class="med-details" open><summary>
+
+#### Metabolism to Formic Acid and Ocular Toxicity</summary><div class="details-content">
+
+Like ethylene glycol, pure methanol produces only mild central inebriation. Its catastrophic clinical toxicity stems from its hepatic biotransformation (Figure 53.3) (19, 21).
+
+Alcohol dehydrogenase slowly oxidizes methanol into formaldehyde (the rate-limiting step), which is almost instantly converted by formaldehyde dehydrogenase into *formic acid* (formate) (Figure 53.3) (19). Formic acid dissociates into hydrogen ions and formate, producing a devastating high-anion-gap metabolic acidosis (19, 21).
+
+Formate is a potent mitochondrial toxin that binds and inhibits cytochrome $c$ oxidase, producing histotoxic hypoxia in tissue beds with vulnerable microcirculations (19, 21):
+- **Ocular Retinal Toxicity:** Formate accumulates selectively in the retina and optic nerve. It causes optic disc hyperemia, severe retinal edema, and axonal destruction, manifesting clinically as visual blurring, visual field deficits, photophobia, "standing in a blinding snowstorm" visual hallucinations, and irreversible blindness (19, 21).
+- **Basal Ganglia Necrosis:** Formate causes selective necrosis and hemorrhage within the bilateral lenticular nuclei, specifically the *putamen* (22). Brain CT or MRI demonstrates bilateral putaminal necrosis, which can leave survivors with permanent parkinsonian extrapyramidal movement disorders (22).
+
+</div></details>
+
+<details class="med-details" open><summary>
+
+#### Clinical Presentation and Laboratory Markers</summary><div class="details-content">
+
+Because the oxidation of methanol to formate is relatively slow, a characteristic asymptomatic or mildly inebriated latent window of 12 to 24 hours (up to 36 hours if ethanol was co-ingested) typically precedes severe toxicity (19, 21).
+
+Following this latent period, patients develop severe headache, vertigo, abdominal pain, acute pancreatitis, Kussmaul hyperventilation, visual failure, obtundation, coma, and refractory circulatory collapse (19, 21). Laboratory evaluation reveals a massive high-anion-gap metabolic acidosis with serum lactate and formate accumulation (19, 21).
+
+</div></details>
+</div></details>
+
+<details class="med-details" open><summary>
+
+### Diagnostic Evaluation: Osmolal and Anion Gaps</summary><div class="details-content">
+
+Evaluating suspected toxic alcohol poisoning requires immediate simultaneous calculation of the serum *osmolal gap* and the *serum anion gap* (19, 21).
+
+<details class="med-details" open><summary>
+
+#### Osmolal Gap Calculation and Formula</summary><div class="details-content">
+
+Serum osmolality is calculated using the standard clinical equation:
+
+$$\text{Calculated Osmolality (mOsm/kg)} = 2[\text{Na}^+] + \frac{[\text{Glucose (mg/dL)}]}{18} + \frac{[\text{BUN (mg/dL)}]}{2.8} \qquad (53.1)$$
+$$\text{Osmolal Gap} = \text{Measured Osmolality (via Freezing Point Depression)} - \text{Calculated Osmolality}$$
+
+</div></details>
+
+<details class="med-details" open><summary>
+
+#### Reciprocal Dynamic Kinetics of the Gaps</summary><div class="details-content">
+
+In healthy individuals, the normal osmolal gap is $\le 10\text{ mOsm/kg}$ (19). An elevated osmolal gap ($> 10\text{ mOsm/kg}$) demonstrates the presence of unmeasured low-molecular-weight solutes (such as methanol, ethylene glycol, or isopropanol) (19, 21).
+
+The diagnostic relationship between the osmolal gap and the anion gap follows a dynamic, reciprocal curve over time (19):
+- **Early Post-Ingestion:** The parent alcohol is present in high concentrations, generating a massive *osmolal gap* with a normal anion gap and normal acid-base status (19).
+- **Late Post-Ingestion:** As alcohol dehydrogenase oxidizes the parent alcohol into organic acids, the osmolal gap steadily declines toward normal while the *high-anion-gap metabolic acidosis* widens progressively (19, 20).
+
+*Crucial clinical rule:* A normal osmolal gap in a patient presenting late does *not* rule out lethal toxic alcohol exposure, because the parent alcohol may have already been completely metabolized into toxic organic acids (19).
+
+</div></details>
+</div></details>
+
+<details class="med-details" open><summary>
+
+### Treatment Protocols: Fomepizole, Cofactors, and Hemodialysis</summary><div class="details-content">
+
+Therapy for toxic alcohol poisoning rests on three therapeutic pillars: (*a*) inhibiting alcohol dehydrogenase to halt toxic metabolite generation; (*b*) administering metabolic cofactors to promote alternative non-toxic clearance; and (*c*) emergent hemodialysis to clear both parent alcohols and toxic acids (19, 21).
+
+Table 53.2 outlines the clinical dosing protocol for the premier competitive ADH antagonist, fomepizole.
+
+<details class="med-details" open><summary>
+
+#### <span id="tbl-53-2"></span>TABLE 53.2 Dosing Regimen for Fomepizole</summary><div class="details-content">
+
+| Dosing Phase | Fomepizole Dosage and Schedule | Target Endpoints and Dosing Adjustments |
+| :--- | :--- | :--- |
+| **1. Loading Dose** | $15\text{ mg/kg}$ IV infused over $30\text{ minutes}$ | Rapid, complete saturation of alcohol dehydrogenase. |
+| **2. Initial Maintenance** | $10\text{ mg/kg}$ IV every $12\text{ hours}$ for 4 doses | Sustained enzymatic blockade during toxic alcohol elimination. |
+| **3. Extended Maintenance** | Increase to $15\text{ mg/kg}$ IV every $12\text{ hours}$ after 48 hours | Overcomes fomepizole auto-induction of hepatic CYP450 metabolism. |
+| **4. Dialysis Schedule** | $15\text{ mg/kg}$ IV every $4\text{ hours}$ during hemodialysis | Compensates for extracorporeal dialytic clearance of fomepizole. |
+
+##### Treatment Stopping Endpoints
+Continue fomepizole until all three clinical criteria are satisfied:
+1. Serum toxic alcohol concentration $< 20\text{ mg/dL}$ ($< 3.2\text{ mmol/L}$ for ethylene glycol; $< 6.2\text{ mmol/L}$ for methanol);
+2. Arterial $\text{pH}$ and serum bicarbonate have normalized;
+3. Patient is clinically asymptomatic with normal anion gap.
+
+*Dosing protocol from Reference 19.*
+
+</div></details>
+
+<details class="med-details" open><summary>
+
+#### Alcohol Dehydrogenase Blockade and Metabolic Cofactors</summary><div class="details-content">
+
+Fomepizole (4-methylpyrazole) is the antidote of choice: it exhibits an affinity for alcohol dehydrogenase that is 8,000 times greater than that of ethanol (19). It produces immediate, complete blockade of ADH without inducing central nervous system depression or hypoglycemia (19). If fomepizole is unavailable, an intravenous ethanol infusion can be titrated to achieve a target blood ethanol concentration of 100 to $150\text{ mg/dL}$ ($21.7\text{–}32.6\text{ mmol/L}$) to competitively saturate ADH (19, 21).
+
+Adjunctive cofactor therapy accelerates non-toxic clearance pathways:
+- **Ethylene Glycol Cofactors:** Intravenous thiamine ($100\text{ mg}$ IV every 6 hours) and pyridoxine (vitamin $\text{B}_6$, $50\text{ mg}$ IV every 6 hours) serve as obligate coenzymes that shunt toxic glyoxylic acid into non-toxic $\alpha$-hydroxy-$\beta$-ketoadipate and glycine, respectively, preventing oxalic acid generation (19).
+- **Methanol Cofactors:** Intravenous folinic acid (leucovorin, $1\text{ mg/kg}$ up to $50\text{ mg}$ IV every 4 hours) or folic acid activates tetrahydrofolate-dependent enzymes, accelerating the oxidation of toxic formic acid into non-toxic carbon dioxide and water (19, 21).
+
+</div></details>
+
+<details class="med-details" open><summary>
+
+#### Indications for Emergent Hemodialysis</summary><div class="details-content">
+
+Intermittent hemodialysis provides rapid extracorporeal clearance of both the parent alcohols and their low-molecular-weight toxic organic acid metabolites (19, 20).
+
+Immediate emergent hemodialysis is indicated in the presence of (19, 20):
+1. Severe refractory acidemia ($\text{pH} \lt 7.10$ or base deficit $> 15\text{ mEq/L}$);
+2. Significant visual impairment or retinal changes in methanol poisoning;
+3. Acute oliguric kidney injury or fluid overload in ethylene glycol poisoning;
+4. Serum toxic alcohol concentration $\ge 50\text{ mg/dL}$ (or $\ge 20\text{ mg/dL}$ with concurrent renal failure or worsening acidosis) (19, 20);
+5. Hemodynamic instability or persistent clinical deterioration despite fomepizole and supportive therapy.
+
+</div></details>
+</div></details>
+</div></details>
+
+<details class="med-details" open><summary>
+
+## A Final Word: Critical Takeaways</summary><div class="details-content">
+
+<details class="med-details" open><summary>
+
+### Diagnostic Vigilance in Occult Toxicities</summary><div class="details-content">
+
+Clinical management of nonpharmaceutical poisonings in the intensive care unit centers on four uncompromising diagnostic and therapeutic imperatives:
+1. **Pulse Oximetry Blindness in CO Exposure:** A normal oxygen saturation ($\text{SpO}_2 \ge 98\%$) on a standard bedside pulse oximeter never excludes life-threatening carbon monoxide poisoning; multi-wavelength CO-oximetry is mandatory whenever CO exposure is clinically suspected (1, 5).
+2. **Empirical Antidotal Therapy in Smoke Inhalation:** Enclosed-space fire victims presenting with severe unexplained lactic acidosis ($\text{lactate} \ge 10\text{ mmol/L}$) or shock should receive immediate empirical intravenous hydroxocobalamin for cyanide poisoning without delaying for laboratory confirmation (12, 15).
+3. **High-Anion-Gap Acidosis Without Clear Etiology:** Ethylene glycol and methanol poisoning must be actively investigated in any patient presenting with an unexplained high-anion-gap metabolic acidosis; an elevated osmolal gap is demonstrable early, but may normalize late as the parent alcohol is converted into toxic organic acids (19, 21).
+4. **Bedside Urinalysis in Ethylene Glycol Poisoning:** Immediate microscopic examination of fresh urine sediment for needle- or dumbbell-shaped calcium oxalate monohydrate crystals provides rapid, definitive confirmation of ethylene glycol ingestion hours before toxicology results are returned (19).
+
+As Sir William Osler astutely noted more than a century ago:
+
+> *It is astonishing with how little reading a doctor can practice medicine, but it is not astonishing how badly he may do it.*
+
+In nonpharmaceutical toxicology, survival depends not on clinical intuition, but on an exact understanding of cellular mechanisms and immediate, decisive antidotal intervention.
+
+</div></details>
+</div></details>

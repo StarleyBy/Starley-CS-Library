@@ -7,7 +7,7 @@
 ## Executive Summary</summary><div class="details-content">
 
 ### Mitral Valve Anatomy
-* **Mitral annulus:** Fibromuscular ring divided into anterior (fibrous, continuous with fibrous trigones and aortic-mitral curtain) and posterior (more prone to dilation) segments. Normal saddle shape; circumference decreases by ~20% during systole.
+* **Mitral annulus:** Fibromuscular ring divided into anterior (fibrous, continuous with fibrous trigones and aortic-mitral curtain) and posterior (more prone to dilation) segments. Normal saddle shape; circumference decreases by ~ 20% during systole.
 * **Anterior leaflet:** Taller, shorter base, attaches to one-third of annular circumference. Forms part of LVOT through aorto-mitral curtain continuity.
 * **Posterior leaflet:** Broader base, shorter height, extends along remaining two-thirds of annulus. Segmented into scallops (P1, P2, P3). Surface areas similar to anterior leaflet despite different shapes.
 * **Chordae tendinae:** Primary/marginal (prevent prolapse), secondary/body (ventricular-annular continuity), tertiary/basal (base attachment). Primary chordae insert every 3-5 mm along leaflet margins.
@@ -57,16 +57,16 @@
 
 ### Mitral Valve Repair — A Subspecialty
 * **Superiority of repair:** Lower perioperative risk, improved LV function preservation, better event-free survival, fewer valve-related complications (thromboembolism, anticoagulant haemorrhage, endocarditis).
-* **Elderly patients:** Repair superior to replacement even in octogenarians. 30-day mortality: <65 years ~1%; 65-80 years ~2%; >80 years ~4%. Repair rates increasing but still underutilised.
+* **Elderly patients:** Repair superior to replacement even in octogenarians. 30-day mortality: <65 years ~ 1%; 65-80 years ~ 2%; >80 years ~ 4%. Repair rates increasing but still underutilised.
 * **Volume-outcome relationship:** Surgeon volume strongest predictor of repair rate. High-volume centres achieve >95% repair rates. Low-volume surgeons have repair rates <30%.
 * **Repair techniques:** Posterior leaflet prolapse (70% of cases) — triangular resection + leaflet resuspension. Annuloplasty (complete ring or posterior band) always required. Anterior/bileaflet prolapse more complex, repair rates lower but still >95% in reference centres.
-* **Durability:** Freedom from moderate or greater MR ~90% at 10 years in reference centres. Recurrence ~1%/year up to 20 years. Bileaflet/anterior prolapse have slightly lower durability (75-85% at 5 years).
+* **Durability:** Freedom from moderate or greater MR ~ 90% at 10 years in reference centres. Recurrence ~ 1%/year up to 20 years. Bileaflet/anterior prolapse have slightly lower durability (75-85% at 5 years).
 * **Surgical access:** Median sternotomy (gold standard), minimally invasive (right thoracotomy, robotic) in selected high-volume centres. Repair rates and durability must not be compromised for cosmetic benefit.
 
 ### Concomitant Tricuspid Valve Repair
 * **Functional TR:** Common in left-sided valve disease. Controversy regarding prophylactic repair.
 * **Indications for TV repair:** Moderate or greater TR; annular dilation ≥40 mm (or ≥21 mm/m²); leaflet coaptation mismatch; presence of AF, pulmonary hypertension, RV/LV dysfunction.
-* **Outcome:** Concomitant TV repair does not significantly increase morbidity/mortality. Reoperation for TR carries ~15% mortality.
+* **Outcome:** Concomitant TV repair does not significantly increase morbidity/mortality. Reoperation for TR carries ~ 15% mortality.
 
 ### Percutaneous Approaches
 * **MitraClip:** Only FDA-approved device for inoperable primary MR. Transeptal clip of both leaflets. Reduces MR from severe to moderate. 5-year follow-up shows persistent reduction and symptomatic improvement.

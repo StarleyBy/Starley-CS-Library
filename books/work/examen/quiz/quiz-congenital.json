@@ -21,7 +21,7 @@
       "optionsRu": {
         "A": "Повышение систолического давления в легочной артерии",
         "B": "Степень гипертрофии правого желудочка",
-        "C": "Функциональный класс по NYHA (NYHA functional class)",
+        "C": "Функциональный класс по NYHA",
         "D": "Среднее давление в правом предсердии"
       },
       "correctAnswer": "C",
@@ -58,7 +58,7 @@
       "optionsRu": {
         "A": "Продолжить консервативную терапию до достижения возраста 1 года",
         "B": "Эндоваскулярное окклюдерное закрытие ДМПП",
-        "C": "Хирургическое закрытие ДМПП в настоящее время (surgical ASD closure at this time)",
+        "C": "Хирургическое закрытие ДМПП в настоящее время",
         "D": "Двустороннее суживание (бандирование) легочных артерий"
       },
       "correctAnswer": "C",
@@ -93,7 +93,7 @@
       },
       "optionsRu": {
         "A": "Полная атриовентрикулярная блокада",
-        "B": "Постперикардиотомный синдром (post-pericardiotomy syndrome)",
+        "B": "Постперикардиотомный синдром",
         "C": "Резидуальный межпредсердный сброс",
         "D": "Обструкция верхней полой вены"
       },
@@ -164,7 +164,7 @@
       "optionsRu": {
         "A": "Верхнего края перимембранозного дефекта",
         "B": "Нижнего края мышечного приточного дефекта",
-        "C": "Мышечной перемычки (muscle bar)",
+        "C": "Мышечной перемычки",
         "D": "Гребня мышечной части межжелудочковой перегородки"
       },
       "correctAnswer": "C",
@@ -725,9 +725,9 @@
         "D": "prosthetic tube graft interposition"
       },
       "optionsRu": {
-        "A": "Анастомоз «конец-в-конец» (end-to-end anastomosis)",
-        "B": "Аортопластика дакроновой заплатой (Dacron patch aortoplasty)",
-        "C": "Истмопластика лоскутом левой подключичной артерии по Вальдхаузену (subclavian flap)",
+        "A": "Анастомоз «конец-в-конец»",
+        "B": "Аортопластика дакроновой заплатой",
+        "C": "Истмопластика лоскутом левой подключичной артерии по Вальдхаузену",
         "D": "Протезирование трубчатым синтетическим графтом"
       },
       "correctAnswer": "A",
@@ -761,7 +761,7 @@
       },
       "optionsRu": {
         "A": "Методика выполнения анастомоза",
-        "B": "Центральная температура тела пациента (core temperature)",
+        "B": "Центральная температура тела пациента",
         "C": "Предоперационный градиент давления",
         "D": "Систолическое артериальное давление"
       },
@@ -1046,7 +1046,7 @@
       },
       "optionsRu": {
         "A": "Экстренная баллонная дилатация клапана легочной артерии",
-        "B": "Экстренная конусная реконструкция (cone reconstruction) трикуспидального клапана",
+        "B": "Экстренная конусная реконструкция трикуспидального клапана",
         "C": "Двустороннее бандирование легочных артерий",
         "D": "Вено-артериальная экстракорпоральная мембранная оксигенация (ВА-ЭКМО)"
       },
@@ -1155,7 +1155,7 @@
       "optionsRu": {
         "A": "Рассечение разделяющей перемычки между отверстиями и ушивание расщепа",
         "B": "Закрытие дополнительного отверстия заплатой",
-        "C": "Изолированное прецизионное ушивание расщепа (closure of the cleft)",
+        "C": "Изолированное прецизионное ушивание расщепа",
         "D": "Протезирование левого АВ-клапана механическим протезом"
       },
       "correctAnswer": "C",
@@ -1361,10 +1361,10 @@
         "D": "bidirectional Glenn procedure (hemi-Mustard / hemi-Fontan pathway)"
       },
       "optionsRu": {
-        "A": "Первичная операция артериального переключения с процедурой Сеннинга (double switch) на данном этапе",
+        "A": "Первичная операция артериального переключения с процедурой Сеннинга на данном этапе",
         "B": "Протезирование системного (трикуспидального) клапана механическим протезом",
         "C": "Бандирование легочной артерии для тренировки морфологически левого желудочка",
-        "D": "Двунаправленный кавопульмональный анастомоз Гленна (hemi-Mustard pathway)"
+        "D": "Двунаправленный кавопульмональный анастомоз Гленна"
       },
       "correctAnswer": "C",
       "explanationEn": "### 📌 **Correct Answer:**\n\n**Option C: pulmonary artery banding to retrain the left ventricle**.\n\n---\n\n### 🔬 **Detailed Clinical and Pathophysiological Rationale:**\n\n#### **1. Pathophysiology of ccTGA {S, L, L} and the \"Unprepared\" Left Ventricle:**\n* **🩺 Clinical Profile:** A 6-month-old infant with congenitally corrected transposition of the great arteries (ccTGA / l-TGA {S, L, L}) and an intact ventricular septum (IVS). Echocardiography shows progressive systemic tricuspid valve regurgitation and systemic right ventricular dysfunction.\n* **🧱 Cardiac Geometry and Hemodynamics in ccTGA:**\n  1. In ccTGA, there is double discordance: atrioventricular and ventriculoarterial. As a result, the **morphological right ventricle (RV)** and tricuspid valve work in the systemic circulation (pumping blood into the aorta under high pressure), while the **morphological left ventricle (LV)** pumps blood into the pulmonary artery (under low pulmonary pressures).\n  2. **Systemic RV Dysfunction:** The morphological RV is not designed for lifelong systemic afterload. Over time, it develops hypertrophy, TV annular dilation, progressive systemic AV valve regurgitation, and RV systolic failure.\n  3. **The \"Unprepared\" LV Problem (*Deconditioned LV*):** In patients with IVS, the morphological LV has pumped blood into the low-resistance pulmonary circulation since birth. As a result, the LV myocardium remains thin, non-hypertrophied, and \"deconditioned.\"\n\n#### **2. Staged Anatomical Repair Strategy (Why Option C is Correct):**\n* **🚨 Concept of LV Retraining:**\n  1. **Danger of Immediate Double Switch (Option A ❌):** Radical anatomical repair (*Double Switch* = atrial switch [Senning/Mustard] + arterial switch [Jatene]) returns the LV to the systemic circulation. However, if performed immediately, the thin \"deconditioned\" LV cannot handle systemic pressures, leading to fatal acute LV failure on the table.\n  2. **Pulmonary Artery Banding (Option C):** The first stage is **pulmonary artery banding (PAB)** (sometimes combined with a systemic-to-pulmonary shunt if hypoxia occurs). Banding artificially increases LV afterload, stimulating working hypertrophy of the LV myocardium.\n  3. **Criteria for Double Switch Readiness:** Over 6–12 months of increased load, LV myocardial mass increases, the LV/RV pressure ratio reaches **≥ 0.75–0.85**, and LV mass index exceeds **50 g/m²**. Once these criteria are met, the staged Double Switch is performed with high survival and full biventricular physiology restoration.\n\n---\n\n### ❌ **Why Other Options are Contraindicated or Incorrect:**\n\n* ❌ **Option A (Primary arterial switch and Senning procedure at this time):**\n  * **Fatal!** Performing primary Double Switch in a 6-month-old with IVS without prior LV retraining will cause acute, irreversible LV failure and death.\n* ❌ **Option B (Systemic [tricuspid] valve replacement with a mechanical prosthesis):**\n  * **Palliative with poor prognosis!** Isolated TV replacement leaves the dysfunctional RV in the systemic circuit. In infants, TV replacement carries high mortality, risk of AV block, thrombosis, and does not halt systemic ventricular failure progression.\n* ❌ **Option D (Bidirectional Glenn procedure [hemi-Mustard pathway]):**\n  * The Glenn/hemi-Mustard procedure is indicated for 1.5-ventricle or single-ventricle palliation. In ccTGA with two adequate ventricles, the priority is biventricular anatomical repair (Double Switch after LV retraining).\n\n---\n\n### 🎓 **Board Pearl:**\n> **\"ccTGA + IVS + 'Deconditioned' LV (operating at low PA pressure) ➡️ Primary Double Switch (Option A ❌) is FATAL due to acute LV failure! ➡️ Initial preparation step for anatomical repair: Pulmonary Artery Banding (PAB — Option C) to retrain the LV! ➡️ After LV hypertrophy is achieved (6–12 months) — safe Double Switch!\"**\n> On pediatric cardiac surgery board exams, remember these rules:\n> 1. In ccTGA with IVS, the LV is \"deconditioned\" due to low PA pressure.\n> 2. **PA banding (Option C)** increases afterload and induces LV hypertrophy (*LV retraining*).\n> 3. Readiness for Double Switch is determined by LV pressure ≥ 75–85% of systemic pressure.\n\n---\n\n### 🔥 **Mnemonic: \"R-E-T-R-A-I-N\"**\n* **R** — **R**etrain the LV before Double Switch.\n* **E** — **E**levate LV afterload with pulmonary artery banding (**Option C**).\n* **T** — **T**wo-stage approach is the only safe strategy.\n* **R** — **R**ecommendation: first PAB, later Double Switch.\n* **A** — **A**cute LV failure occurs with primary Double Switch (Option A ❌).\n* **I** — **I**ndices for readiness: LV/RV pressure ratio ≥ 0.75–0.85.\n* **N** — **N**o isolated TV replacement (Option B) — it leaves the RV in systemic circulation.",
@@ -1762,7 +1762,7 @@
         "A": "ограничение физической активности под тщательным динамическим наблюдением",
         "B": "аортокоронарное шунтирование",
         "C": "медикаментозная терапия бета-адреноблокаторами",
-        "D": "анруфинг (раскрытие интрамурального сегмента) аномальной коронарной артерии (unroofing of the AAOCA)"
+        "D": "анруфинг (раскрытие интрамурального сегмента) аномальной коронарной артерии"
       },
       "correctAnswer": "D",
       "explanationEn": "🎯 <b>Correct Answer: Option D: unroofing of the AAOCA.</b><br><br>🔵 <b>Detailed Clinical and Pathophysiological Analysis:</b><br>This case illustrates the highest-risk subtype of congenital coronary anomalies: <b>anomalous aortic origin of a coronary artery (AAOCA)</b>, specifically the anomalous left coronary artery originating from the right sinus of Valsalva (AALCA) with an interarterial and intramural course in a symptomatic adolescent.<br><br>1️⃣ <b>Mechanisms of Exertional Ischemia and Sudden Cardiac Death (SCD):</b><br>• An anomalous left main coronary artery originating from the opposite (right) sinus of Valsalva and traveling between the aorta and pulmonary artery is the anatomical variant most strongly associated with exercise-induced fatal ventricular arrhythmias and sudden death in adolescents and young competitive athletes.<br>• <b>Multifactorial dynamic ischemia during exercise:</b><br>  - <i>Slit-like / flap-like orifice:</i> The origin has a narrowed, tangential take-off that pinches closed when aortic root diastolic pressure rises;<br>  - <i>Acute-angle angulation:</i> Causes kinking at the aortic emergence;<br>  - <i>Intramural compression:</i> The proximal segment travels within the aortic tunica media. During physical exertion, expanding aortic root diameter and elevated systolic wall tension compress this shared-wall intramural tunnel, causing acute dynamic coronary hypoperfusion and myocardial ischemia.<br><br>2️⃣ <b>Class I Surgical Recommendation & The Unroofing Technique (Why Option D is correct):</b><br>• ACC/AHA, STS, and EACTS congenital heart disease guidelines establish a <b>Class I recommendation for surgical repair in ALL patients with symptomatic AALCA</b> (exertional chest pain, syncope, or documented ischemia).<br>• <mark>Coronary unroofing (unroofing of the AAOCA; Option D)</mark> is the undisputed procedural gold standard.<br>• <b>Operative details:</b> Through an aortotomy, the shared intraluminal tissue ridge (\"roof\") between the aortic lumen and the intramural coronary vessel is sharply excised and tacked with fine running sutures. This relocates the functional coronary orifice into its anatomically correct left sinus of Valsalva, completely relieves intramural mechanical compression, widens the luminal caliber, and preserves native coronary tissue without requiring coronary reimplantation or grafting.<br><br>3️⃣ <b>Why other options are categorically incorrect:</b><br>• <i>Coronary artery bypass grafting (CABG; Option B):</i> Strictly contraindicated as a primary strategy in young patients with AAOCA. Because native baseline coronary flow is unobstructed at rest, massive competitive native flow causes accelerated graft thrombosis, early bypass atrophy, and anastomotic fibrointimal hyperplasia.<br>• <i>Medical therapy with beta-blockers (Option C) & Activity restriction alone (Option A):</i> Conservative or pharmacologic therapies do not eliminate the static slit-like narrowing or dynamic systolic mechanical compression of the intramural tunnel. In a symptomatic 15-year-old with AALCA, non-operative management carries an unacceptable, persistent risk of fatal exertional collapse.<br><br>🧠 <b>Board Pearl:</b><br>Symptomatic Anomalous Left Coronary Artery from the Right Sinus (AALCA) ➡️ Highest risk of sudden cardiac death in young athletes! ➡️ Class I guideline indication for surgical repair! ➡️ Gold standard operation: Surgical UNROOFING of the intramural segment (Option D)! ➡️ Unroofing eliminates the shared wall and creates a wide neo-orifice in the left sinus! ➡️ CABG (Option B ❌) is contraindicated due to competitive flow graft failure! ➡️ Beta-blockers (Option C ❌) and activity restriction (Option A ❌) do not prevent sudden cardiac death in symptomatic AALCA!<br><br>🔥 <b>Mnemonic Rule «U-N-R-O-O-F»:</b><br>• <b>U</b> — <b>U</b>nroofing is the primary operation of choice (<b>Option D</b>).<br>• <b>N</b> — <b>N</b>eo-orifice created in the anatomically correct left sinus.<br>• <b>R</b> — <b>R</b>elieves aortic medial compression of the intramural tunnel.<br>• <b>O</b> — <b>O</b>pposite sinus origin of left main carries the highest SCD risk.<br>• <b>O</b> — <b>O</b>mit bypass grafting due to competitive flow occlusion.<br>• <b>F</b> — <b>F</b>atal arrhythmias prevented by surgical unroofing.",
@@ -1794,7 +1794,7 @@
       "optionsRu": {
         "A": "лигирование аномальной коронарной артерии в сочетании с пластикой митрального клапана",
         "B": "включение в лист ожидания трансплантации сердца",
-        "C": "реимплантация аномальной коронарной артерии в восходящую аорту (re-implant the anomalous coronary artery into the ascending aorta)",
+        "C": "реимплантация аномальной коронарной артерии в восходящую аорту",
         "D": "инотропная поддержка и динамический мониторинг функции левого желудочка"
       },
       "correctAnswer": "C",
@@ -1833,7 +1833,7 @@
         "A": "цианоз",
         "B": "низкий сердечный выброс",
         "C": "легочная артериальная гипертензия",
-        "D": "объемная перегрузка правого желудочка (right ventricular volume overload)"
+        "D": "объемная перегрузка правого желудочка"
       },
       "correctAnswer": "D",
       "explanationEn": "🎯 <b>Correct Answer: Option D: right ventricular volume overload.</b><br><br>🔵 <b>Detailed Clinical and Pathophysiological Analysis:</b><br>The combination of exertional fatigue in a 10-year-old child with normal intracardiac valves and an intact interatrial septum, alongside angiographic/CT documentation of anomalous pulmonary venous drainage, is classic for <b>Partial Anomalous Pulmonary Venous Connection (PAPVC / PAPVR)</b>.<br><br>1️⃣ <b>Anatomy and Shunt Hemodynamics in PAPVC:</b><br>• In PAPVC, one or more (but not all) pulmonary veins fail to connect to the left atrium and instead drain anomalously into the right atrium directly or via systemic venous tributaries (most commonly the superior vena cava [SVC], innominate vein, inferior vena cava [Scimitar syndrome], or coronary sinus).<br>• Although frequently associated with a sinus venosus atrial septal defect (SV-ASD), PAPVC can occur in isolation with an intact atrial septum.<br>• This abnormal anatomical arrangement establishes an obligatory, continuous <b>left-to-right pretricuspid shunt</b>, as fully oxygenated blood returning from the involved lung segment recirculates directly back into the systemic venous system.<br><br>2️⃣ <b>Primary Physiologic Consequence (Why Option D is correct):</b><br>• The recirculating pulmonary venous volume adds directly to systemic venous return, leading to right atrial enlargement, increased diastolic filling, and persistent <mark>right ventricular volume overload (Option D)</mark> with right ventricular eccentric dilation.<br>• Elevated pulmonary blood flow ($Q_p/Q_s > 1.5$) triggers right-sided volume loading long before irreversible vascular remodeling or clinical symptoms manifest.<br><br>3️⃣ <b>Why other options are categorically incorrect:</b><br>• <i>Cyanosis (Option A):</i> Cyanosis requires a right-to-left shunt or total intracardiac mixing with systemic arterial desaturation (such as Total Anomalous Pulmonary Venous Connection [TAPVC] or advanced Eisenmenger syndrome). In uncomplicated PAPVC, blood flows exclusively left-to-right, maintaining normal systemic arterial oxygen saturation.<br>• <i>Low cardiac output (Option B):</i> Isolated PAPVC in childhood rarely compromises systemic stroke volume; left ventricular filling and systemic cardiac output remain well compensated via Frank-Starling autoregulatory mechanisms.<br>• <i>Pulmonary artery hypertension (Option C):</i> While irreversible pulmonary vascular obstructive disease and pulmonary arterial hypertension can eventually develop in uncorrected adults after decades of chronic high-volume pulmonary run-off, it is a delayed late complication. Right ventricular volume overload is the immediate, primary, and universal pathophysiological manifestation.<br><br>🧠 <b>Board Pearl:</b><br>Intact septa + PAPVC on CT/Angio ➡️ Obligatory left-to-right shunt ➡️ Hallmark hemodynamic finding: <b>Right ventricular volume overload & dilation (Option D)</b>! ➡️ Cyanosis (Option A ❌) is absent because there is no right-to-left shunting (characteristic of TAPVC)! ➡️ Pulmonary arterial hypertension (Option C ❌) is a late, secondary adult sequela, not the primary lesion! ➡️ Low cardiac output (Option B ❌) does not occur in isolated pediatric PAPVC!<br><br>🔥 <b>Mnemonic Rule «P-A-P-V-C»:</b><br>• <b>P</b> — <b>P</b>artial anomalous drainage of pulmonary veins.<br>• <b>A</b> — <b>A</b>trial/venous level left-to-right shunt.<br>• <b>P</b> — <b>P</b>ulmonary venous blood returns to systemic veins / right atrium.<br>• <b>V</b> — <b>V</b>olume overload of the right ventricle is the cardinal abnormality (<b>Option D</b>).<br>• <b>C</b> — <b>C</b>yanosis is absent with intact systemic saturation.",
@@ -1870,7 +1870,7 @@
       },
       "optionsRu": {
         "A": "аортопексия",
-        "B": "пересечение артериальной связки (division of the ligamentum arteriosum)",
+        "B": "пересечение артериальной связки",
         "C": "суспензия безымянной (плечеголовной) артерии",
         "D": "трахеопексия"
       },
@@ -1911,7 +1911,7 @@
       "optionsRu": {
         "A": "канюляция ПВВП и НПВ в сочетании с дренированием ЛВВП коронарным отсосом",
         "B": "канюляция ПВВП и НПВ с лигированием ЛВВП",
-        "C": "раздельная канюляция ПВВП, НПВ и ЛВВП (cannulation of the RSVC, IVC, and LSVC)",
+        "C": "раздельная канюляция ПВВП, НПВ и ЛВВП",
         "D": "одновенозная канюляция с использованием глубокой гипотермической остановки кровообращения"
       },
       "correctAnswer": "C",
@@ -1944,7 +1944,7 @@
         "D": "pulmonary artery sling repair"
       },
       "optionsRu": {
-        "A": "бронхоскопия (bronchoscopy)",
+        "A": "бронхоскопия",
         "B": "катетеризация полостей сердца",
         "C": "МРТ сердца",
         "D": "хирургическая коррекция слинга легочной артерии"
@@ -1980,7 +1980,7 @@
       "optionsRu": {
         "A": "катетеризация полостей сердца для расчета Qp:Qs",
         "B": "эндоваскулярное закрытие ДМЖП окклюдером",
-        "C": "динамическое наблюдение и контрольная эхокардиография (observation and echocardiographic follow-up)",
+        "C": "динамическое наблюдение и контрольная эхокардиография",
         "D": "хирургическое закрытие ДМЖП"
       },
       "correctAnswer": "C",
@@ -2015,7 +2015,7 @@
       "optionsRu": {
         "A": "баллонная ангиопластика с эндоваскулярным закрытием ДМЖП окклюдерами",
         "B": "пластика коарктации аорты и одномоментное закрытие ДМЖП",
-        "C": "пластика коарктации аорты и суживание (бандирование) легочной артерии (coarctation repair and pulmonary artery band)",
+        "C": "пластика коарктации аорты и суживание (бандирование) легочной артерии",
         "D": "транскатетерное стентирование зоны коарктации аорты"
       },
       "correctAnswer": "C",
@@ -2049,7 +2049,7 @@
         "D": "repair of complete AVSD and ligation of the PDA"
       },
       "optionsRu": {
-        "A": "катетеризация полостей сердца для оценки операбельности (cardiac catheterization to determine operability)",
+        "A": "катетеризация полостей сердца для оценки операбельности",
         "B": "эндоваскулярное закрытие ОАП окклюдером",
         "C": "суживание (бандирование) легочной артерии и лигирование ОАП",
         "D": "радикальная коррекция полного АВК и лигирование ОАП"
@@ -2086,7 +2086,7 @@
         "D": "reduced right ventricular compliance"
       },
       "optionsRu": {
-        "A": "повышение легочного сосудистого сопротивления (elevated pulmonary vascular resistance)",
+        "A": "повышение легочного сосудистого сопротивления",
         "B": "артериовенозные мальформации легких",
         "C": "десатурация крови в легочных венах",
         "D": "снижение комплаентности правого желудочка"
@@ -2122,7 +2122,7 @@
         "D": "secundum atrial septal defect with pulmonary valve stenosis"
       },
       "optionsRu": {
-        "A": "дефект межпредсердной перегородки типа коронарного синуса с персистирующей левой верхней полой веной (coronary sinus atrial septal defect with left superior caval vein)",
+        "A": "дефект межпредсердной перегородки типа коронарного синуса с персистирующей левой верхней полой веной",
         "B": "дефект венозного синуса нижнего типа с частичным аномальным дренажем легочных вен",
         "C": "первичный дефект межпредсердной перегородки с регургитацией на левом атриовентрикулярном клапане",
         "D": "вторичный дефект межпредсердной перегородки со стенозом клапана легочной артерии"
@@ -2157,7 +2157,7 @@
       },
       "optionsRu": {
         "A": "увеличение притока крови к правым отделам сердца",
-        "B": "направление оксигенированной крови из пупочной вены в левое предсердие (direct umbilical vein blood to the left atrium)",
+        "B": "направление оксигенированной крови из пупочной вены в левое предсердие",
         "C": "ограничение возврата легочных вен в правое предсердие",
         "D": "предотвращение правожелудочковой сердечной недостаточности"
       },
@@ -2195,7 +2195,7 @@
       "optionsRu": {
         "A": "спиртовая абляция септальных ветвей",
         "B": "имплантация автоматического кардиовертера-дефибриллятора",
-        "C": "терапия бета-адреноблокаторами (beta-blockade)",
+        "C": "терапия бета-адреноблокаторами",
         "D": "септальная миэктомия"
       },
       "correctAnswer": "C",
@@ -2230,7 +2230,7 @@
       },
       "optionsRu": {
         "A": "аденозин",
-        "B": "амиодарон (amiodarone)",
+        "B": "амиодарон",
         "C": "эсмолол",
         "D": "лидокаин"
       },
@@ -2303,7 +2303,7 @@
         "D": "right bundle branch block after repair of tetralogy of Fallot"
       },
       "optionsRu": {
-        "A": "хронической стимуляции правого желудочка по поводу полной атриовентрикулярной блокады (chronic right ventricular pacing for complete heart block)",
+        "A": "хронической стимуляции правого желудочка по поводу полной атриовентрикулярной блокады",
         "B": "идиопатической дилатационной кардиомиопатии",
         "C": "блокаде левой ножки пучка Гиса после резекции подаортального стеноза",
         "D": "блокаде правой ножки пучка Гиса после радикальной коррекции тетрады Фалло"
@@ -2339,7 +2339,7 @@
       },
       "optionsRu": {
         "A": "баллонная дилатация надклапанного стеноза аорты и легочной артерии",
-        "B": "КТ-ангиография аорты и коронарных артерий (CT evaluation of the aorta and coronary arteries)",
+        "B": "КТ-ангиография аорты и коронарных артерий",
         "C": "пероральная гипотензивная терапия",
         "D": "заплатная пластика (аугментация) восходящей аорты и ветвей легочной артерии"
       },
@@ -2375,9 +2375,9 @@
         "D": "VSD closure"
       },
       "optionsRu": {
-        "A": "повторная эхокардиография через 6 месяцев (repeat echocardiogram in 6 months)",
-        "B": "операция Сеннинга и артериальное переключение (Senning and arterial switch operation)",
-        "C": "операция Сеннинга и операция Растелли (Senning and Rastelli operation)",
+        "A": "повторная эхокардиография через 6 месяцев",
+        "B": "операция Сеннинга и артериальное переключение",
+        "C": "операция Сеннинга и операция Растелли",
         "D": "изолированное закрытие ДМЖП"
       },
       "correctAnswer": "A",
@@ -2411,7 +2411,7 @@
       },
       "optionsRu": {
         "A": "конверсия операции Фонтена с процедурой Мейз (Лабиринт)",
-        "B": "включение в лист ожидания трансплантации сердца (listing for heart transplant)",
+        "B": "включение в лист ожидания трансплантации сердца",
         "C": "чрескожное создание фенестрации в контуре Фонтена",
         "D": "транскатетерная абляция с имплантацией электрокардиостимулятора"
       },
@@ -2446,7 +2446,7 @@
       },
       "optionsRu": {
         "A": "ежегодное контрольное нагрузочное тестирование",
-        "B": "ежегодный динамический контроль МРТ сердца (annual surveillance MRI)",
+        "B": "ежегодный динамический контроль МРТ сердца",
         "C": "хирургическая замена кондуита",
         "D": "чрескожная (эндоваскулярная) имплантация клапана легочной артерии"
       },
@@ -2482,7 +2482,7 @@
       },
       "optionsRu": {
         "A": "протезирование корня гомографтом",
-        "B": "иссечение створки и аннулопластика (leaflet excision and annuloplasty)",
+        "B": "иссечение створки и аннулопластика",
         "C": "удлинение (аугментация) створки",
         "D": "операция Росса"
       },
@@ -2521,7 +2521,7 @@
       },
       "optionsRu": {
         "A": "асинхронная кардиоверсия",
-        "B": "катетеризация сердца и катетерная абляция (cardiac catheterization and ablation)",
+        "B": "катетеризация сердца и катетерная абляция",
         "C": "имплантация постоянного электрокардиостимулятора",
         "D": "пластика трехстворчатого клапана с интраоперационной хирургической абляцией"
       },
@@ -2564,7 +2564,7 @@
       "optionsRu": {
         "A": "пластика аортального клапана",
         "B": "протезирование аортального клапана",
-        "C": "заплатное закрытие фистулы (patch closure of fistula)",
+        "C": "заплатное закрытие фистулы",
         "D": "закрытие дефекта межжелудочковой перегородки заплатой"
       },
       "correctAnswer": "C",
@@ -2600,7 +2600,7 @@
         "D": "pulmonary insufficiency"
       },
       "optionsRu": {
-        "A": "компрессия дыхательных путей (airway compromise)",
+        "A": "компрессия дыхательных путей",
         "B": "врожденная блокада сердца",
         "C": "сердечная недостаточность",
         "D": "недостаточность клапана легочной артерии"
@@ -2675,7 +2675,7 @@
       "optionsRu": {
         "A": "терапия бета-адреноблокаторами с контрольной эхокардиографией через 3-6 месяцев",
         "B": "протезирование митрального клапана",
-        "C": "хирургическая резекция надклапанного митрального кольца (surgical resection of supravalvar mitral ring)",
+        "C": "хирургическая резекция надклапанного митрального кольца",
         "D": "транскатетерная баллонная митральная вальвулопластика"
       },
       "correctAnswer": "C",
@@ -2713,7 +2713,7 @@
         "A": "рубцовые изменения предсердия после предшествующей пластики ДМПП",
         "B": "пароксизмальное трепетание предсердий",
         "C": "легочная гипертензия с детского возраста",
-        "D": "нераспознанный частичный аномальный дренаж легочных вен (unrepaired partial anomalous pulmonary venous return)"
+        "D": "нераспознанный частичный аномальный дренаж легочных вен"
       },
       "correctAnswer": "D",
       "explanationEn": "🎯 <b>Correct Answer: Option D: unrepaired partial anomalous pulmonary venous return.</b><br><br>🔵 <b>Detailed Clinical and Pathophysiological Analysis:</b><br>The clinical vignette presents a 42-year-old woman presenting with new-onset atrial flutter and persistent dilatation of the right atrium (RA) and right ventricle (RV) decades after successful surgical closure of an atrial septal defect (ASD) in early childhood.<br><br>1️⃣ <b>Pathoanatomy of Missed PAPVR:</b><br>• Partial anomalous pulmonary venous return (PAPVR)—most frequently involving the right upper or middle pulmonary vein draining anomalously into the superior vena cava (SVC) or right atrium—coexists with interatrial communications in up to 10%–15% of cases (particularly sinus venosus defects and superior secundum ASDs).<br>• During surgical repair performed via a limited cosmetic approach (such as a right anterior inframammary minithoracotomy), visualization of high-lying or posterior pulmonary venous insertions is restricted. An anomalous vein draining high into the cavoatrial junction can be easily overlooked if not identified on preoperative imaging.<br>• Echocardiography confirms a well-seated, intact interatrial patch without residual shunt, ruling out patch dehiscence or a residual secundum defect.<br><br>2️⃣ <b>Mechanisms Linking Shunt, Dilation, and Arrhythmia (Why Option D is correct):</b><br>• An <mark>unrepaired partial anomalous pulmonary venous return (Option D)</mark> maintains a persistent, uncorrected left-to-right extracardiac shunt.<br>• Decades of continued volume overload drive progressive eccentric right atrial and right ventricular enlargement.<br>• Chronic stretch of the right atrial free wall induces electrical uncoupling, localized conduction slowing, and interstitial fibrosis, providing the perfect electrophysiologic substrate for macro-reentrant circuits (atrial flutter and intra-atrial reentrant tachycardia [IART]).<br><br>3️⃣ <b>Why other options are categorically incorrect:</b><br>• <i>Atrial scarring from prior ASD repair (Option A):</i> Atriotomy scars and patch suture lines serve as an anatomical barrier for incisional re-entrant atrial flutter. However, a surgical scar is purely an electrophysiologic substrate; it does not generate chronic volumetric hemodynamic overload and cannot explain persistent RA and RV enlargement in the absence of a volume shunt.<br>• <i>Paroxysmal atrial flutter (Option B):</i> Merely names the clinical arrhythmia rather than identifying the underlying structural or hemodynamic etiology driving the biventricular/biatrial asymmetry.<br>• <i>Pulmonary hypertension from childhood (Option C):</i> Repairing an uncomplicated ASD at age 6 normalizes pulmonary pressures and prevents early-onset irreversible pulmonary vascular disease. Severe pre-capillary pulmonary hypertension would typically cause RV pressure hypertrophy rather than isolated right heart volume dilatation without residual intracardiac shunts.<br><br>🧠 <b>Board Pearl:</b><br>Prior ASD repair + NO residual shunt + Persistent RA/RV dilation + New atrial flutter/tachyarrhythmia ➡️ High clinical suspicion for <b>Unrepaired Partial Anomalous Pulmonary Venous Return (PAPVR; Option D)</b>! ➡️ Missed anomalous right pulmonary vein maintains an active left-to-right volume shunt! ➡️ Chronic atrial stretch generates macro-reentrant atrial flutter! ➡️ Surgical scar (Option A ❌) explains reentry, but NEVER accounts for ongoing RV volumetric enlargement! ➡️ Next diagnostic step: Cardiac MRI or CT angiography to map pulmonary venous drainage!<br><br>🔥 <b>Mnemonic Rule «P-A-P-V-R»:</b><br>• <b>P</b> — <b>P</b>artial anomalous drainage overlooked during limited right thoracotomy.<br>• <b>A</b> — <b>A</b>trial and RV volume overload persist despite intact interatrial patch.<br>• <b>P</b> — <b>P</b>ersistent left-to-right shunt promotes progressive cavity dilation.<br>• <b>V</b> — <b>V</b>olumetric stretch generates the electrophysiologic substrate for flutter.<br>• <b>R</b> — <b>R</b>ight heart enlargement + late arrhythmia = diagnose unrepaired PAPVR (<b>Option D</b>).",
@@ -2750,7 +2750,7 @@
         "A": "фибрилляция предсердий",
         "B": "частичный аномальный дренаж легочных вен как анатомическая находка",
         "C": "открытое овальное окно",
-        "D": "соотношение легочного и системного кровотока Qp:Qs 1,8:1 (Qp:Qs of 1.8:1)"
+        "D": "соотношение легочного и системного кровотока Qp:Qs 1,8:1"
       },
       "correctAnswer": "D",
       "explanationEn": "🎯 <b>Correct Answer: Option D: Qp:Qs of 1.8:1.</b><br><br>🔵 <b>Detailed Clinical and Pathophysiological Analysis:</b><br>In adult patients presenting with pre-tricuspid systemic-to-pulmonary shunts—including partial anomalous pulmonary venous connection (PAPVC / PAPVR) and interatrial communications—clinical management decisions are strictly governed by evidence of hemodynamic significance rather than incidental anatomical findings alone.<br><br>1️⃣ <b>Guideline-Directed Indications for Surgical Repair:</b><br>• According to the ACC/AHA (2018) and ESC (2020) Adult Congenital Heart Disease (ACHD) guidelines, surgical repair of PAPVC/ASD is a <b>Class I indication</b> when there is objective evidence of right ventricular volume overload (dilated right atrium and right ventricle) driven by a <mark>significant left-to-right shunt defined as $Q_p:Q_s \\\\ge 1.5:1$ (here $Q_p:Q_s = 1.8:1$; Option D)</mark>, provided pulmonary vascular resistance remains $< 3 - 5$ Wood units.<br>• Surgical intervention (such as Warden procedure or intra-caval baffle rerouting) is intended to eliminate volume overcirculation, halt progressive eccentric right heart remodeling, and forestall irreversible pulmonary arterial hypertension.<br><br>2️⃣ <b>Why other options are categorically incorrect:</b><br>• <i>Partial anomalous pulmonary vein as an isolated finding (Option B):</i> The mere anatomical presence of an anomalous single pulmonary vein (which drains only ~15%–20% of pulmonary venous return) is not an absolute indication for open surgery. If the shunt is trivial ($Q_p:Q_s < 1.5:1$) with normal right heart chamber dimensions, conservative management is standard.<br>• <i>Patent foramen ovale (Option C):</i> A PFO is a normal anatomical variant present in ~25% of the general adult population. In the absence of a large atrial septal defect, a PFO does not produce right-sided chamber dilation and does not justify surgical repair.<br>• <i>Atrial fibrillation (Option A):</i> New-onset atrial fibrillation is a clinical sequela reflecting chronic right atrial volume stretch, interstitial fibrosis, and electrophysiologic remodeling. While it prompts diagnostic workup and should be addressed concomitantly at the time of surgery (e.g., surgical cryoablation / modified Maze), the arrhythmia itself does not serve as the fundamental hemodynamic criterion for defect closure.<br><br>🧠 <b>Board Pearl:</b><br>Adult with PAPVC / ASD + Right heart dilation + Atrial fibrillation ➡️ The definitive indication for surgical closure: <b>Significant left-to-right shunt with $Q_p:Q_s \\\\ge 1.5:1$ (here 1.8:1; Option D)</b>! ➡️ Isolated anatomic PAPVC without volumetric significance ($Q_p:Q_s < 1.5:1$) is managed conservatively! ➡️ PFO (Option C ❌) is an incidental finding! ➡️ Atrial fibrillation (Option A ❌) is a consequence of chamber stretch, not the primary hemodynamic indication for surgery!<br><br>🔥 <b>Mnemonic Rule «S-H-U-N-T»:</b><br>• <b>S</b> — <b>S</b>hunt ratio $\\\\ge 1.5:1$ represents the formal threshold for surgical repair.<br>• <b>H</b> — <b>H</b>emodynamics ($Q_p:Q_s = 1.8:1$), not mere anatomy, dictate intervention (<b>Option D</b>).<br>• <b>U</b> — <b>U</b>ncomplicated isolated PFO requires no operative closure.<br>• <b>N</b> — <b>N</b>ew atrial fibrillation prompts investigation of underlying volume overload.<br>• <b>T</b> — <b>T</b>horacotomy/sternotomy reroutes the anomalous vein to the left atrium.",
@@ -2783,7 +2783,7 @@
         "D": "plication of left hemidiaphragm"
       },
       "optionsRu": {
-        "A": "бронхоскопия (bronchoscopy)",
+        "A": "бронхоскопия",
         "B": "катетеризация полостей сердца",
         "C": "декортикация левого гемиторакса",
         "D": "пликация левого купола диафрагмы"
@@ -2822,7 +2822,7 @@
         "D": "psychomotor skills development for intensivists and nurses"
       },
       "optionsRu": {
-        "A": "тренинги по эффективной коммуникации для всей мультидисциплинарной команды ОРИТ (communication coaching for the entire ICU team)",
+        "A": "тренинги по эффективной коммуникации для всей мультидисциплинарной команды ОРИТ",
         "B": "выявление отдельных членов команды с недостаточным уровнем подготовки",
         "C": "совершенствование мануальных/технических навыков реаниматологов",
         "D": "развитие психомоторных навыков у реаниматологов и среднего медицинского персонала"
@@ -2858,7 +2858,7 @@
       "optionsRu": {
         "A": "снижение постнагрузки и повторная эхокардиография через 3 месяца",
         "B": "МРТ сердца с расчетом Qp/Qs",
-        "C": "хирургическое закрытие ДМЖП (surgical closure of the VSD)",
+        "C": "хирургическое закрытие ДМЖП",
         "D": "транскатетерное закрытие ДМЖП окклюдером"
       },
       "correctAnswer": "C",
@@ -2891,7 +2891,7 @@
       },
       "optionsRu": {
         "A": "оценка коллатерального кровотока с помощью МРТ сердца",
-        "B": "контроль артериальной гипертензии со стентированием в третьем триместре (hypertension control with stent placement in the third trimester)",
+        "B": "контроль артериальной гипертензии со стентированием в третьем триместре",
         "C": "хирургическая коррекция резидуальной коарктации",
         "D": "транскатетерная баллонная ангиопластика после родоразрешения"
       },
@@ -2928,7 +2928,7 @@
       },
       "optionsRu": {
         "A": "подключить частичный бедренно-артериально-венозный обход (ИК)",
-        "B": "установить временный обходной шунт Готта (Gott shunt) от поперечной дуги к нисходящей аорте",
+        "B": "установить временный обходной шунт Готта от поперечной дуги к нисходящей аорте",
         "C": "продолжить выполнение полной хирургической коррекции коарктации",
         "D": "начать инфузию вазоактивных препаратов с титрацией давления в лучевой артерии до <120 мм рт. ст."
       },
@@ -2963,7 +2963,7 @@
       "optionsRu": {
         "A": "баллонная ангиопластика коарктации с динамическим ультразвуковым контролем",
         "B": "стентирование артериального протока с отсроченной коррекцией коарктации в возрасте 3–6 месяцев",
-        "C": "левосторонняя торакотомия с резекцией коарктации и формированием расширенного анастомоза «конец-в-конец» (left thoracotomy with resection and extended end-to-end anastomosis)",
+        "C": "левосторонняя торакотомия с резекцией коарктации и формированием расширенного анастомоза «конец-в-конец»",
         "D": "срединная стернотомия для заплатной пластики дуги аорты и коарктации"
       },
       "correctAnswer": "C",
@@ -2998,7 +2998,7 @@
         "A": "фуросемид",
         "B": "перитонеальный диализ",
         "C": "вазопрессин",
-        "D": "инфузионная терапия / восполнение объема циркулирующей крови (volume replacement)"
+        "D": "инфузионная терапия / восполнение объема циркулирующей крови"
       },
       "correctAnswer": "D",
       "explanationEn": "🎯 <b>Correct Answer: Option D: volume replacement.</b><br><br>🔵 <b>Detailed Clinical, Pathophysiological, and Mathematical Derivation:</b><br>The clinical scenario presents acute oliguria ($< 0.5$ mL/kg/h for $\\\\ge 6$ hours) on postoperative day 2 following an arterial switch operation (ASO) in a term infant. In this clinical setting, determining whether acute kidney injury (AKI) is secondary to prerenal hypoperfusion (intravascular volume depletion) or intrinsic parenchymal injury (acute tubular necrosis [ATN]) is paramount.<br><br>1️⃣ <b>Mathematical Calculation of Diagnostic Indices:</b><br>• <b>Fractional Excretion of Sodium ($\\text{FE}_{\\text{Na}}$):</b><br><br>$$\\text{FE}_{\\text{Na}} = \\frac{U_{\\text{Na}} \\times P_{\\text{Cr}}}{P_{\\text{Na}} \\times U_{\\text{Cr}}} \\times 100\\\\%$$<br><br>$$\\text{FE}_{\\text{Na}} = \\frac{260 \\times 0.3}{140 \\times 200} \\times 100\\\\% = \\frac{78}{28000} \\times 100\\\\% = 0.2786\\\\% \\\\approx 0.28\\\\%$$<br><br>• <b>Urine-to-Plasma Creatinine Ratio ($U_{\\text{Cr}} / P_{\\text{Cr}}$):</b><br>$$200 / 0.3 = 666.7$$<br>(Values $> 40$ in full-term neonates reflect intact, concentrated tubular reabsorption).<br>• <b>Renal Failure Index (RFI):</b><br>$$\\text{RFI} = \\frac{U_{\\text{Na}}}{U_{\\text{Cr}} / P_{\\text{Cr}}} = \\frac{260}{666.7} = 0.39$$<br>(Values $< 1.0$ confirm prerenal physiology).<br><br>2️⃣ <b>Pathophysiological Interpretation:</b><br>• An $\\text{FE}_{\\text{Na}}$ of <b>$0.28\\\\%$ ($< 1.0\\\\%$)</b> is a reliable discriminator confirming <b>prerenal azotemia</b>. Despite the elevated absolute urinary sodium concentration, the enormous concentration gradient achieved by the tubules ($U/P\\\\;\\text{Cr} \\\\approx 667$) proves that the tubular epithelial machinery is fully intact, extracting water and retaining effective circulating volume.<br>• Echocardiography confirms normal biventricular performance and unobstructed great vessel outflow, ruling out low cardiac output syndrome (LCOS), neoaortic/pulmonary stenosis, or coronary transfer ischemia.<br>• The root cause of the decreased glomerular filtration rate (GFR) and oliguria is isolated intravascular hypovolemia (e.g., third-spacing, capillary leak, or inadequate post-bypass fluid resuscitation).<br>• Therefore, the direct and definitive treatment is <mark>volume replacement (Option D)</mark> with isotonic crystalloid boluses (10–20 mL/kg) or 5% albumin.<br><br>3️⃣ <b>Why other options are categorically incorrect:</b><br>• <i>Furosemide (Option A):</i> Administering loop diuretics in hypovolemic prerenal azotemia will acutely worsen intravascular volume depletion, reduce renal cortical perfusion pressure, and rapidly convert fully reversible prerenal hypoperfusion into ischemic acute tubular necrosis.<br>• <i>Peritoneal dialysis (Option B):</i> Dialysis is reserved for refractory acute kidney failure complicated by hyperkalemia, severe refractory metabolic acidosis, or anuric fluid overload unresponsive to medical therapy.<br>• <i>Vasopressin (Option C):</i> Increases systemic vascular resistance and stimulates V2-receptor mediated water retention without expanding intravascular volume, worsening systemic hypoperfusion in an already volume-depleted neonate.<br><br>🧠 <b>Board Pearl:</b><br>Post-cardiac surgery oliguria in neonate ➡️ Always calculate Fractional Excretion of Sodium ($\\text{FE}_{\\text{Na}}$)! ➡️ Formula: <b>$(U_{\\text{Na}} \\times P_{\\text{Cr}}) / (P_{\\text{Na}} \\times U_{\\text{Cr}}) \\times 100\\\\%$</b>! ➡️ Calculation: $(260 \\times 0.3) / (140 \\times 200) \\times 100\\\\% = 0.28\\\\%$ ($< 1.0\\\\%$) ➡️ Intact tubular reabsorption with $U/P\\\\;\\text{Cr} = 667$ ($> 40$) ➡️ Diagnosis: <b>Prerenal Azotemia / Hypovolemia</b>! ➡️ Treatment of choice: <b>Volume replacement (Option D)</b>! ➡️ Furosemide (Option A ❌) in prerenal hypovolemia precipitates acute tubular necrosis!<br><br>🔥 <b>Mnemonic Rule «F-E-N-A»:</b><br>• <b>F</b> — <b>F</b>ractional Excretion of Sodium $< 1.0\\\\%$ ($0.28\\\\%$ here) confirms prerenal azotemia.<br>• <b>E</b> — <b>E</b>xtraordinary urine-to-plasma creatinine ratio ($667 > 40$) demonstrates intact tubular function.<br>• <b>N</b> — <b>N</b>ever administer loop diuretics (Option A ❌) to a hypovolemic patient.<br>• <b>A</b> — <b>A</b>dequate Volume Replacement is the first-line corrective therapy (<b>Option D</b>).",
@@ -3033,7 +3033,7 @@
         "A": "наложение двунаправленного кавапульмонального анастомоза Гленна",
         "B": "начало ингаляции оксида азота",
         "C": "лигирование вертикальной вены",
-        "D": "ревизия и коррекция наложения заплаты (revise the patch closure)"
+        "D": "ревизия и коррекция наложения заплаты"
       },
       "correctAnswer": "D",
       "explanationEn": "🎯 <b>Correct Answer: Option D: revise the patch closure.</b><br><br>🔵 <b>Detailed Clinical and Pathophysiological Analysis:</b><br>The clinical scenario illustrates an acute, life-threatening technical complication encountered immediately following separation from cardiopulmonary bypass (CPB) during surgical repair of an interatrial communication (specifically, an inferior vena cava [IVC] type sinus venosus defect or low inferior-rim deficient secundum ASD).<br><br>1️⃣ <b>Pathophysiology and Anatomical Mechanism of Hypoxemia:</b><br>• The patient develops profound systemic arterial cyanosis ($S_aO_2 = 86\\\\%$ despite an $FiO_2$ of $1.0$).<br>• The pulmonary parenchyma is fully recruited and adequately ventilated, and a direct blood gas sample drawn from the right upper pulmonary vein demonstrates complete alveolar oxygenation ($100\\\\%$ saturation). This conclusively excludes intrapulmonary shunting, atelectasis, ventilation-perfusion mismatch, and alveolar diffusion impairment.<br>• <i>The Diagnostic Hallmark:</i> Injection of agitated saline into the femoral venous catheter—which drains directly via the iliac system into the <b>inferior vena cava</b>—results in immediate, dense echocardiographic bubble opacification of the <b>left atrium</b>.<br>• This proves a catastrophic intraoperative technical error: the inferior margin of the interatrial patch was inadvertently sutured to the <b>Eustachian valve</b> (or the inferior lip of the IVC orifice) rather than the true inferior limbus of the atrial septum. Consequently, the entire systemic venous return from the lower body ($~65\\\\% - 70\\\\%$ of total cardiac output in children) is partitioned and baffled directly into the systemic left atrium, creating a massive, obligate right-to-left anatomical shunt.<br><br>2️⃣ <b>Management Strategy (Why Option D is correct):</b><br>• This is an acute mechanical surgical error that cannot be temporized or medically managed.<br>• The immediate and mandatory action is to re-cannulate the aorta and bicaval system, resume cardiopulmonary bypass, re-arrest the heart or perform fibrillatory arrest, and <mark>revise the patch closure (Option D)</mark>.<br>• The inferior suture line must be completely dismantled and taken down, the true junction between the IVC and the morphologic right atrium identified, and the patch re-anchored to correctly route all inferior caval blood into the tricuspid valve/right ventricle.<br><br>3️⃣ <b>Why other options are categorically incorrect:</b><br>• <i>Add a bidirectional Glenn shunt (Option A):</i> The Glenn anastomosis diverts superior vena caval (SVC) flow to the pulmonary arteries in single-ventricle palliation; it does not correct the misdirected IVC flow and is contraindicated in a biventricular circulation.<br>• <i>Initiate inhaled nitric oxide (Option B):</i> iNO selectively dilates the pulmonary vascular bed to treat pulmonary hypertension; it has zero efficacy for an extracardiac/iatrogenic anatomic diversion of systemic venous return into the left heart.<br>• <i>Ligate the vertical vein (Option C):</i> Vertical vein ligation is a standard operative step in the repair of supracardiac Total Anomalous Pulmonary Venous Connection (TAPVC). In this patient, pulmonary veins are already returning normally ($100\\\\%$ oxygenated), and there is no anomalous vertical collector.<br><br>🧠 <b>Board Pearl:</b><br>Post-ASD repair hypoxemia ($S_aO_2 < 90\\\\%$ on $100\\\\%$ $O_2$) + Normal pulmonary vein saturation ($100\\\\%$) + Femoral line bubbles in Left Atrium ➡️ <b>Inadvertent diversion of IVC to the Left Atrium</b>! ➡️ Suture line was mistakenly sewn to the Eustachian valve! ➡️ Immediate next step: <b>Back on bypass and revise the patch closure (Option D)</b>! ➡️ Inhaled NO (Option B ❌) or Glenn shunt (Option A ❌) will not correct a mechanical baffling error!<br><br>🔥 <b>Мнемоническое правило «I-V-C-B-A-F-F-L-E»:</b><br>• <b>I</b> — <b>I</b>nadvertent diversion of the inferior vena cava into the left atrium.<br>• <b>V</b> — <b>V</b>igorous desaturation ($86\\\\%$ on $FiO_2\\\\;1.0$) despite $100\\\\%$ pulmonary venous $pO_2$.<br>• <b>C</b> — <b>C</b>ontrast (bubbles) from femoral catheter directly fills the systemic left atrium.<br>• <b>B</b> — <b>B</b>ack on cardiopulmonary bypass immediately.<br>• <b>A</b> — <b>A</b>lways identify the Eustachian valve versus the true atrial septum.<br>• <b>F</b> — <b>F</b>emoral venous return must drain into the right heart.<br>• <b>F</b> — <b>F</b>ailure to recognize leads to severe chronic hypoxemia and cyanosis.<br>• <b>L</b> — <b>L</b>igation of vertical vein (Option C ❌) is unindicated for IVC mistunneling.<br>• <b>E</b> — <b>E</b>xplore and Revise the patch closure without delay (<b>Option D</b>).",
@@ -3069,7 +3069,7 @@
       "optionsRu": {
         "A": "эскалация инотропной поддержки",
         "B": "подключение ЭКМО",
-        "C": "ревизия коронарного анастомоза (revise coronary anastomosis)",
+        "C": "ревизия коронарного анастомоза",
         "D": "начать инфузию нитроглицерина"
       },
       "correctAnswer": "C",
@@ -3103,8 +3103,8 @@
         "D": "perform patch closure of the septal defect with pulmonary vein re-implantation"
       },
       "optionsRu": {
-        "A": "внутрипредсердное туннелирование (baffling) легочных вен к септальному дефекту",
-        "B": "выполнение операции Уордена (Warden procedure)",
+        "A": "внутрипредсердное туннелирование легочных вен к септальному дефекту",
+        "B": "выполнение операции Уордена",
         "C": "эндоваскулярное закрытие септального дефекта окклюдером в рентгеноперационной",
         "D": "закрытие септального дефекта заплатой с реимплантацией легочных вен"
       },
@@ -3143,7 +3143,7 @@
         "D": "VSD closure and resection of subpulmonary conus"
       },
       "optionsRu": {
-        "A": "операция артериального переключения с закрытием дефекта межжелудочковой перегородки (arterial switch and ventricular septal defect closure)",
+        "A": "операция артериального переключения с закрытием дефекта межжелудочковой перегородки",
         "B": "отложить оперативное лечение на более поздний грудной возраст",
         "C": "суживание (бандирование) ствола легочной артерии",
         "D": "закрытие ДМЖП с резекцией подлегочного конуса"
@@ -3179,8 +3179,8 @@
       },
       "optionsRu": {
         "A": "расщеплению (расщелине) левого атриовентрикулярного (митрального) клапана",
-        "B": "гребню межжелудочковой перегородки (crest of the ventricular septum)",
-        "C": "пограничному гребню (crista terminalis)",
+        "B": "гребню межжелудочковой перегородки",
+        "C": "пограничному гребню",
         "D": "евстахиевой заслонке (заслонке нижней полой вены)"
       },
       "correctAnswer": "B",
@@ -3220,7 +3220,7 @@
       "optionsRu": {
         "A": "назначить ингаляционный оксид азота",
         "B": "увеличить дозу простагландина",
-        "C": "назначить диуретики (initiate diuretics)",
+        "C": "назначить диуретики",
         "D": "выполнить баллонную атриосептостомию"
       },
       "correctAnswer": "C",
@@ -3254,9 +3254,9 @@
         "D": "place an Alfieri stitch"
       },
       "optionsRu": {
-        "A": "ушить расщепление (клейфт) до уровня прикрепления хорд (close the cleft to the level of chordal insertion)",
+        "A": "ушить расщепление (клейфт) до уровня прикрепления хорд",
         "B": "фенестрировать заплату межпредсердной перегородки",
-        "C": "выполнить аннулопластику по Де Вега (DeVega annuloplasty)",
+        "C": "выполнить аннулопластику по Де Вега",
         "D": "наложить шов Альфиери (край-в-край)"
       },
       "correctAnswer": "A",
@@ -3288,7 +3288,7 @@
         "D": "secundum atrial septal defect with bidirectional shunting"
       },
       "optionsRu": {
-        "A": "инфундибулярной обструкцией выводного тракта правого желудочка (infundibular right ventricular outflow tract obstruction)",
+        "A": "инфундибулярной обструкцией выводного тракта правого желудочка",
         "B": "перимембранозным дефектом межжелудочковой перегородки с двунаправленным сбросом",
         "C": "клапанным стенозом легочной артерии",
         "D": "вторичным дефектом межпредсердной перегородки с двунаправленным сбросом"
@@ -3329,7 +3329,7 @@
       },
       "optionsRu": {
         "A": "коарктация дуги аорты",
-        "B": "гипоплазия легочного клапана (pulmonary valve hypoplasia)",
+        "B": "гипоплазия легочного клапана",
         "C": "обструкция выводного тракта правого желудочка",
         "D": "гипоплазия трехстворчатого клапана"
       },
@@ -3363,10 +3363,10 @@
         "D": "transmembrane pressure"
       },
       "optionsRu": {
-        "A": "скорости объемного кровотока (blood flow rate)",
+        "A": "скорости объемного кровотока",
         "B": "концентрации электролитов",
         "C": "размера пор и длины мембраны",
-        "D": "трансмембранного давления (transmembrane pressure)"
+        "D": "трансмембранного давления"
       },
       "correctAnswer": "D",
       "explanationEn": "🎯 <b>Correct Answer: Option D: transmembrane pressure.</b><br><br>🔵 <b>Detailed Biophysical and Hemodynamic Derivation:</b><br>Ultrafiltration (conventional ultrafiltration [CUF], zero-balance ultrafiltration [ZBUF], or modified ultrafiltration [MUF]) during and immediately following cardiopulmonary bypass (CPB) operates through <b>convective mass transport (bulk fluid flow)</b> across a semipermeable, microporous hollow-fiber capillary membrane.<br><br>1️⃣ <b>The Driving Force of Convective Transport (Why Option D is correct):</b><br>• Solute-solvent transfer across an ultrafiltration membrane does not depend on chemical concentration gradients; instead, it is driven strictly by bulk fluid movement secondary to a <b>hydrostatic pressure gradient</b> known as the <b>transmembrane pressure (TMP) (Option D)</b>.<br><br>• <b>Starling's Law of Ultrafiltration:</b><br>The filtration rate of effluent ($Q_f$) across the semipermeable hollow-fiber membrane is governed by the Starling equation for transcapillary/membrane fluid exchange:<br><br>$$Q_f = K_f \\times (\\text{TMP} - \\sigma \\cdot \\Delta\\pi)$$<br><br>where:<br>• $Q_f$ = effluent ultrafiltration rate (UFR, mL/min);<br>• $K_f$ = ultrafiltration coefficient / membrane hydraulic permeability (membrane surface area $\\times$ hydraulic conductance, mL/h/mmHg);<br>• $\\text{TMP}$ = transmembrane hydrostatic pressure gradient (mmHg);<br>• $\\sigma$ = Staverman reflection coefficient for plasma proteins ($\\sigma \\approx 1.0$ for pore cutoffs of 20,000–50,000 Da: albumin and globulins are retained);<br>• $\\Delta\\pi = \\pi_{\\text{plasma}} - \\pi_{\\text{filtrate}}$ = opposing oncotic pressure gradient ($\\approx 15\\text{--}25\\text{ mmHg}$, as filtrate is virtually protein-free: $\\pi_{\\text{filtrate}} \\approx 0$).<br><br>• <b>Formula for Transmembrane Pressure (TMP):</b><br>TMP is calculated as the mean hydrostatic pressure within the blood path minus the pressure within the filtrate/effluent compartment:<br><br>$$\\text{TMP} = \\frac{P_{\\text{in}} + P_{\\text{out}}}{2} - P_{\\text{filtrate}}$$<br><br>where:<br>• $P_{\\text{in}}$ = hydrostatic pressure at the hemoconcentrator blood inlet (arterial line);<br>• $P_{\\text{out}}$ = hydrostatic pressure at the blood outlet (venous return line);<br>• $P_{\\text{filtrate}}$ = hydrostatic pressure in the effluent/filtrate compartment (atmospheric or subatmospheric when regulated suction is applied).<br><br>• <b>Clinical Takeaway:</b><br>Because $\\text{TMP}$ ($150\\text{--}300\\text{ mmHg}$) substantially exceeds opposing oncotic pressure $\\Delta\\pi$ ($15\\text{--}20\\text{ mmHg}$), and manufacturer membrane characteristics ($K_f$) are fixed, effluent extraction rate is directly proportional to TMP:<br><br>$$Q_f \\approx K_f \\times \\text{TMP}$$<br><br>In practice, the perfusionist regulates the rate of ultrafiltrate extraction predominantly by manipulating TMP—either by restricting the downstream blood return line (raising positive intracapillary hydrostatic pressure) or by applying regulated vacuum/suction to the effluent port (rendering $P_{\\text{filtrate}}$ subatmospheric).<br><br>2️⃣ <b>Why other options are categorically incorrect:</b><br>• <i>Electrolyte concentration (Option B):</i> Electrolyte concentration gradients drive solute clearance via <b>diffusion</b> (governed by Fick's law of diffusion) during hemodialysis, which requires a countercurrent dialysate bath. In ultrafiltration, no dialysate is utilized; electrolytes and small non-protein-bound solutes are dragged passively across the pores along with plasma water at identical concentrations (sieving coefficient $S \\approx 1.0$), making electrolyte gradients completely non-contributory.<br>• <i>Blood flow rate (Option A):</i> Increasing blood flow rate through the hemoconcentrator sweeps away the concentrated boundary layer (polarization layer) of cellular and protein elements adhering to the inner surface of the hollow fibers, thereby maintaining membrane patency. However, flow rate itself does not push fluid across the semipermeable barrier; filtration quickly plateaus if TMP is held constant.<br>• <i>Membrane pore size and length (Option C):</i> Membrane structural characteristics (pore cutoff, typically 20,000–50,000 Daltons, and fiber surface area) determine the sieving coefficient and maximum filtration coefficient ($K_f$). Once a specific hemoconcentrator cartridge is primed and integrated into the circuit, these physical manufacturing dimensions are fixed variables, leaving TMP as the primary dynamic determinant of effluent rate.<br><br>🧠 <b>Board Pearl:</b><br>Hemoconcentration / Ultrafiltration on CPB (CUF/MUF) ➡️ Transport mechanism: <b>Convection</b> (bulk fluid flow), NOT diffusion! ➡️ Primary determinant of effluent filtration rate: <b>Transmembrane Pressure (TMP; Option D)</b>! ➡️ $\\text{TMP} = [(P_{\\text{in}} + P_{\\text{out}}) / 2] - P_{\\text{filtrate}}$! ➡️ Diffusion along electrolyte gradients (Option B ❌) applies to hemodialysis, not ultrafiltration! ➡️ Blood flow rate (Option A ❌) prevents boundary layer plugging but does not drive fluid filtration!<br><br>🔥 <b>Mnemonic Rule «P-R-E-S-S»:</b><br>• <b>P</b> — <b>P</b>ressure: gradient across the membrane (TMP) is the primary driver (<b>Option D</b>).<br>• <b>R</b> — <b>R</b>ate of effluent follows Starling hydrostatic convection: $Q_f \\approx K_f \\times \\text{TMP}$.<br>• <b>E</b> — <b>E</b>lectrolyte gradients (Option B ❌) drive dialysis, not ultrafiltration.<br>• <b>S</b> — <b>S</b>ieving coefficient $S \\approx 1.0$ for small solutes (urea, creatinine, free water).<br>• <b>S</b> — <b>S</b>uction on the effluent port or downstream resistance directly boosts TMP.",
@@ -3401,7 +3401,7 @@
       "optionsRu": {
         "A": "постнагрузочная зависимость производительности контура",
         "B": "подсос воздуха из резервуара низкого объема",
-        "C": "образование микроэмболов при окклюзии приточной линии (microemboli with inflow line occlusion)",
+        "C": "образование микроэмболов при окклюзии приточной линии",
         "D": "ретроградный сброс крови при остановке насоса"
       },
       "correctAnswer": "C",
@@ -3436,7 +3436,7 @@
         "A": "суточное мониторирование ЭКГ по Холтеру",
         "B": "повторная МРТ сердца через 1 год",
         "C": "хирургическое протезирование клапана легочной артерии",
-        "D": "транскатетерное протезирование клапана легочной артерии (transcatheter pulmonary valve replacement)"
+        "D": "транскатетерное протезирование клапана легочной артерии"
       },
       "correctAnswer": "D",
       "explanationEn": "🎯 <b>Correct Answer: Option D: transcatheter pulmonary valve replacement.</b><br><br>🔵 <b>Detailed Clinical and Pathophysiological Analysis:</b><br>In adult congenital heart disease (ACHD) survivors of tetralogy of Fallot (TOF) repair with transannular patching, chronic free (severe) pulmonary regurgitation (PR) leads to insidious eccentric right ventricular (RV) remodeling, progressive chamber dilatation, secondary tricuspid regurgitation, ventricular arrhythmias, and ultimately irreversible RV systolic failure.<br><br>1️⃣ <b>Guideline-Directed Indications for Pulmonary Valve Replacement (PVR):</b><br>• According to the ACC/AHA (2018) and ESC (2020) ACHD guidelines, PVR carries a <b>Class I indication</b> in the presence of severe PR accompanied by: (1) objective or subjective <b>symptoms attributable to RV dysfunction/volume overload</b> (e.g., documented decline in exercise tolerance/endurance), OR (2) in asymptomatic patients meeting volumetric MRI thresholds (<mark style=\"background:#ffff00;color:#000\"><b>RVEDVi ≥ 150–160 mL/m²</b></mark> or RVESVi ≥ 80 mL/m²), or developing progressive tricuspid regurgitation, sustained arrhythmias, or QRS widening ≥ 180 ms.<br>• Because this 28-year-old athlete reports new functional decline (decreased endurance during sports), the presence of symptoms directly unlocks the <b>Class I indication</b>, rendering watchful waiting obsolete even though his indexed RVEDV (145 mL/m²) has not yet crossed the asymptomatic threshold of 150 mL/m².<br><br>2️⃣ <b>Interventional Modality of Choice: Transcatheter vs. Surgical (Why Option D is correct):</b><br>• <mark style=\"background:#2ecc71;color:#fff\"><b>Transcatheter Pulmonary Valve Replacement (TPVR — Option D)</b></mark> is the modern standard of care when anatomical criteria are met.<br>• <i>Anatomic Suitability:</i> The native/patched RVOT diameter measures <b>28 mm</b>. This dimension falls within the landing zone diameter for contemporary self-expanding transcatheter heart valves designed specifically for large native/patched non-conduit RVOTs (e.g., Medtronic Harmony TPV up to 32 mm, Venus P-valve, and Alterra adaptive prestent).<br>• <i>Lack of Concomitant Surgical Targets:</i> The patient has no severe tricuspid regurgitation requiring tricuspid annuloplasty, no residual VSD patch leak, and no branch pulmonary artery stenosis requiring surgical arterioplasty. Transcatheter replacement avoids the substantial morbidity, blood transfusion, and prolonged recovery of a redo median sternotomy and cardiopulmonary bypass.<br><br>3️⃣ <b>Why other options are categorically incorrect:</b><br>• <span style=\"color:#e74c3c\"><b>Repeat MRI in 1 year (Option B):</b></span> Expectant conservative surveillance is contraindicated once a patient becomes symptomatic with severe PR; delaying intervention risks irreversible RV myocardial fibrosis and worsening subclinical systolic dysfunction.<br>• <span style=\"color:#e74c3c\"><b>Surgical pulmonary valve replacement (Option C):</b></span> Open surgical PVR (SPVR) via resternotomy is reserved for patients whose RVOT anatomy is unsuitable for transcatheter devices (e.g., extreme RVOT aneurysm > 36–38 mm, extrinsic coronary compression risk on balloon sizing) or those requiring concomitant surgical procedures.<br>• <span style=\"color:#e74c3c\"><b>Holter monitor evaluation (Option A):</b></span> Isolated PACs and a narrow QRS (<mark style=\"background:#ffff00;color:#000\"><b>110 ms &lt; 180 ms</b></mark>) indicate that the patient is at low immediate risk for malignant ventricular arrhythmias. Holter monitoring does not address the mechanical hemodynamic etiology of the patient's exertional fatigue.<br><br>🧠 <b>Board Pearl:</b><br>Repaired TOF + Free Pulmonary Regurgitation + Decreased Exercise Endurance ➡️ <b>Symptomatic Severe PR = Class I Indication for PVR</b>! ➡️ Check RVOT diameter: <b>28 mm</b> ➡️ Perfect landing zone for modern self-expanding transcatheter valves! ➡️ Strategy of choice: <mark style=\"background:#2ecc71;color:#fff\"><b>Transcatheter Pulmonary Valve Replacement (TPVR — Option D)</b></mark>! ➡️ Redo sternotomy with surgical PVR (Option C ❌) is unnecessarily morbid in isolated 28 mm anatomy! ➡️ Deferring for 1 year (Option B ❌) is inappropriate in symptomatic patients!<br><br>🔥 <b>Mnemonic Rule «V-A-L-V-E»:</b><br>• <b>V</b> — <b>V</b>olume overload symptoms (decreased stamina) trigger Class I PVR indication.<br>• <b>A</b> — <b>A</b>natomy check: RVOT 28 mm fits self-expanding transcatheter valves.<br>• <b>L</b> — <b>L</b>ess invasive: TPVR avoids the risks of repeat sternotomy and bypass (<b>Option D</b>).<br>• <b>V</b> — <b>V</b>oid waiting 1 year (Option B ❌): symptoms mandate immediate correction.<br>• <b>E</b> — <b>E</b>CG shows narrow QRS (110 ms < 180 ms): primary problem is hemodynamic, not arrhythmic (Option A ❌).",
@@ -3473,7 +3473,7 @@
       "optionsRu": {
         "A": "летальность при хирургической коррекции выше в периоде новорожденности",
         "B": "хирургическая коррекция, вероятнее всего, потребуется в возрасте 4–6 месяцев",
-        "C": "вероятно спонтанное закрытие дефекта (spontaneous closure of the defect is likely)",
+        "C": "вероятно спонтанное закрытие дефекта",
         "D": "вероятность закрытия этого дефекта ниже, чем при мышечном дефекте"
       },
       "correctAnswer": "C",
@@ -3508,7 +3508,7 @@
       "optionsRu": {
         "A": "аортопексию",
         "B": "сегментарную резекцию трахеи",
-        "C": "скользящую трахеопластику (slide tracheoplasty)",
+        "C": "скользящую трахеопластику",
         "D": "стентирование трахеи"
       },
       "correctAnswer": "C",
@@ -3545,7 +3545,7 @@
       },
       "optionsRu": {
         "A": "бивентрикулярная перикардэктомия из торакотомического доступа",
-        "B": "тотальная перикардэктомия через срединную стернотомию (complete pericardiectomy via median sternotomy)",
+        "B": "тотальная перикардэктомия через срединную стернотомию",
         "C": "чрескожное дренирование в сочетании с терапией стероидами",
         "D": "формирование субксифоидного перикардиального окна"
       },
@@ -3583,9 +3583,9 @@
       },
       "optionsRu": {
         "A": "циторедуктивное удаление (дебалкинг) опухолей сердца",
-        "B": "терапию ингибиторами мишени рапамицина у млекопитающих (mTOR)",
+        "B": "терапию ингибиторами мишени рапамицина у млекопитающих",
         "C": "имплантацию дефибриллятора",
-        "D": "повторную эхокардиографию каждые 1–3 года (repeat echocardiogram every 1 – 3 years)"
+        "D": "повторную эхокардиографию каждые 1–3 года"
       },
       "correctAnswer": "D",
       "explanationEn": "🎯 <b>Correct Answer: Option D: repeat echocardiogram every 1 – 3 years.</b><br><br>🔵 <b>Detailed Clinical and Pathophysiological Analysis:</b><br>Cardiac rhabdomyomas represent the most prevalent primary pediatric cardiac neoplasms, functioning as a pathognomonic diagnostic criterion for <b>tuberous sclerosis complex (TSC)</b> (identified in upwards of 70%–80% of affected infants). Histologically, they are benign hamartomas composed of enlarged, glycogen-laden myocytes (\"spider cells\") resulting from pathogenic mutations in the <i>TSC1</i> (hamartin) or <i>TSC2</i> (tuberin) genes, which cause constitutive, uncontrolled hyperactivation of the intracellular mTOR cascade.<br><br>1️⃣ <b>Natural History and the Inherent Drive for Involution:</b><br>• The natural history of cardiac rhabdomyomas is extraordinarily unique: they display an overwhelming propensity for <b>spontaneous, progressive regression</b> throughout early childhood.<br>• Intrauterine proliferation is stimulated primarily by transplacental maternal estrogens. Following parturition, the abrupt cessation of maternal estrogen exposure and loss of fetal growth signals trigger widespread, spontaneous apoptosis and fatty involution of the tumor cells.<br>• Complete or near-complete resolution occurs spontaneously in >80% of cases by 3 to 6 years of age without any therapeutic intervention.<br><br>2️⃣ <b>Clinical Practice Guidelines and Non-Invasive Surveillance (Why Option D is correct):</b><br>• The International Tuberous Sclerosis Complex Consensus Guidelines and pediatric cardiology society recommendations mandate serial non-invasive assessment in all asymptomatic patients.<br>• In the absence of hemodynamic inflow or outflow tract compromise, congestive heart failure, or refractory arrhythmias, the guideline-directed management is <mark style=\"background:#2ecc71;color:#fff\"><b>serial echocardiography every 1 to 3 years (Option D)</b></mark> until spontaneous regression is fully documented.<br><br>3️⃣ <b>Why other options are categorically incorrect:</b><br>• <span style=\"color:#e74c3c\"><b>Debulking of cardiac tumors (Option A):</b></span> Open-heart surgical debulking carries high cardiopulmonary bypass and myocardial morbidity. Resection is reserved strictly as an emergency salvage measure for neonates presenting with critical, refractory mechanical intracardiac outflow/inflow obstruction or intractable ventricular tachyarrhythmias unresponsive to pharmacological antiarrhythmics.<br>• <span style=\"color:#e74c3c\"><b>mTOR inhibitor therapy (Option B):</b></span> Medical therapy with oral mTOR inhibitors (everolimus, sirolimus) successfully accelerates rhabdomyoma shrinkage in complex subtotal intracardiac obstruction as a bridge to surgery or to avoid resection. However, mTOR inhibitors carry significant toxicity (profound immunosuppression, interstitial pneumonitis, metabolic dysregulation, severe opportunistic infections, and dyslipidemia), precluding their routine use in asymptomatic neonates whose tumors will regress spontaneously.<br>• <span style=\"color:#e74c3c\"><b>Placement of a defibrillator (Option C):</b></span> Prophylactic implantable cardioverter-defibrillator (ICD) implantation is entirely unindicated in an asymptomatic 2-week-old neonate. Most conduction disturbances associated with rhabdomyomas (e.g., WPW pre-excitation or transient ventricular ectopy) resolve spontaneously as the tumors regress.<br><br>🧠 <b>Board Pearl:</b><br>Neonate with Tuberous Sclerosis + Multiple ventricular masses ➡️ <b>Cardiac Rhabdomyomas</b>! ➡️ Unique natural history: <b>Spontaneous apoptosis and complete regression</b> after maternal estrogen withdrawal! ➡️ Asymptomatic management: <mark style=\"background:#2ecc71;color:#fff\"><b>Serial surveillance echocardiography every 1–3 years (Option D)</b></mark>! ➡️ Surgical debulking (Option A ❌) is strictly reserved for critical hemodynamic outflow tract obstruction! ➡️ mTOR inhibitors like everolimus (Option B ❌) are reserved only for symptomatic, hemodynamically obstructive tumors due to systemic toxicities!<br><br>🔥 <b>Mnemonic Rule «R-E-G-R-E-S-S»:</b><br>• <b>R</b> — <b>R</b>habdomyomas are the most common cardiac tumor in Tuberous Sclerosis.<br>• <b>E</b> — <b>E</b>strogen withdrawal postnatally prompts cellular apoptosis and shrinkage.<br>• <b>G</b> — <b>G</b>uidelines recommend serial surveillance echocardiograms every 1–3 years (<b>Option D</b>).<br>• <b>R</b> — <b>R</b>esection / Debulking (Option A ❌) is avoided unless severe mechanical obstruction is present.<br>• <b>E</b> — <b>E</b>verolimus / mTOR inhibitors (Option B ❌) are reserved for symptomatic, unresectable cases.<br>• <b>S</b> — <b>S</b>pontaneous regression occurs in >80% of children by age 3–6.<br>• <b>S</b> — <b>S</b>pare invasive procedures (ICD, surgery) in stable neonates.",
@@ -3622,7 +3622,7 @@
         "D": "thromboembolic event to the posterior circulation"
       },
       "optionsRu": {
-        "A": "гипоперфузия базальных ганглиев (basal ganglia hypoperfusion)",
+        "A": "гипоперфузия базальных ганглиев",
         "B": "высокое лигирование коллатеральных артерий",
         "C": "парадоксальная реакция на седативные препараты",
         "D": "тромбоэмболическое поражение вертебробазилярного бассейна"
@@ -3660,7 +3660,7 @@
       },
       "optionsRu": {
         "A": "верхушечная левая вентрикулотомия",
-        "B": "верхушечная правая вентрикулотомия (apical right ventriculotomy)",
+        "B": "верхушечная правая вентрикулотомия",
         "C": "инфундибулотомия правого желудочка",
         "D": "трансатриальный доступ с пересечением модераторного тяжа"
       },
@@ -3696,7 +3696,7 @@
         "A": "разрез выводного отдела правого желудочка (инфундибулотомия)",
         "B": "трансаортальный доступ",
         "C": "транслегочный доступ",
-        "D": "инцизия (разрез/отсечение) створки трикуспидального клапана (tricuspid valve incision)"
+        "D": "инцизия (разрез/отсечение) створки трикуспидального клапана"
       },
       "correctAnswer": "D",
       "explanationEn": "🎯 <b>Correct Answer: Option D: tricuspid valve incision.</b><br><br>🔵 <b>Detailed Surgical and Pathophysiological Analysis:</b><br>The standard gold-standard approach for the repair of isolated perimembranous ventricular septal defects (pmVSD) is via a right atriotomy through the tricuspid valve orifice (transatrial/transtricuspid). This approach avoids any ventriculotomy, preserving right ventricular systolic mechanics and geometry.<br><br>1️⃣ <b>Anatomical Obstacles to Transatrial Visualization:</b><br>• In approximately 20% to 30% of infants, gentle retraction of the tricuspid leaflets through the anteroseptal commissure fails to provide adequate exposure of all VSD margins.<br>• Common impediments include bulky overlapping septal leaflet tissue, aneurysmal transformation of the membranous septum, or short, dense secondary chordae tendineae anchoring the tricuspid leaflets tightly to the muscular ventricular septum.<br>• Attempting to place anchoring patch sutures blindly beneath obscured leaflets carries an unacceptably high risk of:<br>  1. Direct impalement or traction injury to the penetrating bundle of His along the posteroinferior margin, causing permanent complete heart block;<br>  2. Inadequate rim clearance, resulting in significant residual left-to-right shunting;<br>  3. Inadvertent chordal trapping, precipitating severe postoperative tricuspid regurgitation.<br><br>2️⃣ <b>Tricuspid Valve Detachment (TVD) / Incision as the Technique of Choice (Why Option D is correct):</b><br>• When retraction is insufficient, <mark style=\"background:#2ecc71;color:#fff\"><b>tricuspid valve incision or detachment (TVD — Option D)</b></mark> is the established, safe maneuver of choice.<br>• <i>Technical Variants:</i> This is performed either by a temporary circular incision detaching the hinge line of the septal leaflet (and optionally part of the anterior leaflet) 1–2 mm away from the tricuspid annulus, or by a localized radial leaflet incision into an avascular zone.<br>• Detaching the leaflet flips the tricuspid tissue away, converting a restricted, tangential visual field into an unobstructed, perpendicular, line-of-sight view of the entire VSD perimeter and the crucial triangle of Koch.<br>• Once the patch is secured, the leaflet is meticulously re-approximated to the annulus with a running fine monofilament suture (e.g., 6-0 or 7-0 polypropylene). Decades of clinical registry data confirm that temporary TVD provides superior exposure without increasing the incidence of permanent heart block or late tricuspid regurgitation.<br><br>3️⃣ <b>Why other options are categorically incorrect:</b><br>• <span style=\"color:#e74c3c\"><b>Infundibular incision (Option A):</b></span> An incision into the anterior right ventricular outflow tract (infundibulotomy) damages the RV myocardium, creates late regional dyskinesia/fibrous scar, carries long-term risks of ventricular tachyarrhythmias, and still provides poor tangential visualization of the posteroinferior margin of a perimembranous defect.<br>• <span style=\"color:#e74c3c\"><b>Transaortic approach (Option B):</b></span> Approaching a pmVSD from an aortotomy provides an oblique, steep-angle view through the aortic valve. It increases the risk of iatrogenic injury to the aortic valve leaflets (aortic insufficiency) and provides inadequate control of the posteroinferior crest where the conduction tissue runs.<br>• <span style=\"color:#e74c3c\"><b>Transpulmonary approach (Option C):</b></span> A transpulmonary approach looks down the right ventricular outflow tract toward the conal septum. It is effective for subarterial (supracristal) defects, but cannot visualize the deep posteroinferior and inlet boundaries of a perimembranous VSD.<br><br>🧠 <b>Board Pearl:</b><br>Transatrial repair of perimembranous VSD + Inadequate visualization through the anteroseptal commissure ➡️ Technique of choice: <mark style=\"background:#2ecc71;color:#fff\"><b>Tricuspid Valve Detachment / Incision (TVD — Option D)</b></mark>! ➡️ Temporarily detach the septal/anterior leaflet 1–2 mm from the annulus ➡️ Unmasks the entire defect border and the conduction axis (triangle of Koch)! ➡️ Re-suspension with fine polypropylene yields excellent valve competency with NO increase in late tricuspid regurgitation or heart block! ➡️ Never resort to an infundibulotomy (Option A ❌) for simple exposure!<br><br>🔥 <b>Mnemonic Rule «D-E-T-A-C-H»:</b><br>• <b>D</b> — <b>D</b>etachment of the tricuspid leaflet provides complete exposure (<b>Option D</b>).<br>• <b>E</b> — <b>E</b>xposes the posteroinferior rim and protects the bundle of His.<br>• <b>T</b> — <b>T</b>ransaortic (Option B ❌) and Transpulmonary (Option C ❌) provide inadequate views of pmVSDs.<br>• <b>A</b> — <b>A</b>nnular rim margin (1–2 mm) is preserved for secure leaflet reattachment.<br>• <b>C</b> — <b>C</b>ompetence of the tricuspid valve is fully preserved long-term.<br>• <b>H</b> — <b>H</b>eart block and residual leaks are drastically minimized.",
@@ -3727,7 +3727,7 @@
         "D": "trabecular muscular VSD"
       },
       "optionsRu": {
-        "A": "атриовентрикулярный септальный дефект (atrioventricular septal defect)",
+        "A": "атриовентрикулярный септальный дефект",
         "B": "перимембранозный ДМЖП",
         "C": "тетрада Фалло",
         "D": "трабекулярный мышечный ДМЖП"
@@ -3760,7 +3760,7 @@
         "D": "transannular patch with systemic-to-pulmonary shunt"
       },
       "optionsRu": {
-        "A": "коронарная ангиография (coronary angiography)",
+        "A": "коронарная ангиография",
         "B": "обследование для трансплантации сердца",
         "C": "чрескожная баллонная дилатация легочного клапана",
         "D": "пластика выводного тракта трансаннулярной заплатой с наложением системно-легочного шунта"
@@ -3796,7 +3796,7 @@
       },
       "optionsRu": {
         "A": "операция артериального переключения",
-        "B": "баллонная атриосептостомия (balloon atrial septostomy)",
+        "B": "баллонная атриосептостомия",
         "C": "системно-легочный анастомоз (шунт)",
         "D": "вено-артериальное ЭКМО через сосуды шеи"
       },
@@ -3833,7 +3833,7 @@
       "optionsRu": {
         "A": "операция артериального переключения с подлегочной резекцией",
         "B": "операция Дамуса–Кей–Стенсела (Damus-Kaye-Stansel) с кондуитом из правого желудочка в легочную артерию",
-        "C": "операция Никайдо с кондуитом из правого желудочка в легочную артерию (Nikaidoh procedure with RV-to-PA conduit)",
+        "C": "операция Никайдо с кондуитом из правого желудочка в легочную артерию",
         "D": "операция Сеннинга с подлегочной резекцией"
       },
       "correctAnswer": "C",
@@ -3868,7 +3868,7 @@
       },
       "optionsRu": {
         "A": "снижением межэтапной летальности",
-        "B": "улучшением выживаемости без трансплантации в возрасте 1 года (improved transplant-free survival at one year of age)",
+        "B": "улучшением выживаемости без трансплантации в возрасте 1 года",
         "C": "повышением госпитальной летальности при 1-м этапе паллиации",
         "D": "снижением потребности в повторных вмешательствах на легочных артериях"
       },
@@ -3938,7 +3938,7 @@
         "D": "give heparin bolus"
       },
       "optionsRu": {
-        "A": "назначить ингаляционный оксид азота (administer nitric oxide)",
+        "A": "назначить ингаляционный оксид азота",
         "B": "ввести вазопрессин",
         "C": "конвертировать в центральный аортолегочный анастомоз",
         "D": "ввести болюс гепарина"
@@ -3978,7 +3978,7 @@
         "A": "ввести инфузионный объем и препараты кальция",
         "B": "начать инфузию альфа-адреномиметиков",
         "C": "ввести нагрузочную дозу противосудорожного препарата",
-        "D": "возобновить искусственное кровообращение и повысить перфузионное давление (resume CPB and raise perfusion pressure)"
+        "D": "возобновить искусственное кровообращение и повысить перфузионное давление"
       },
       "correctAnswer": "D",
       "explanationEn": "🎯 <b>Correct Answer: Option D: resume CPB and raise perfusion pressure.</b><br><br>🔵 <b>Detailed Clinical and Pathophysiological Analysis:</b><br>The sudden, catastrophic clinical triad occurring immediately post-weaning from cardiopulmonary bypass (CPB) before protamine reversal—profound systemic hypotension, inferior ST-segment elevation (leads II and III), transient high-intensity transient signals (HITS) on transcranial Doppler, and a precipitous collapse in cerebral oximetry (<mark style=\"background:#ffff00;color:#000\"><b>rSO2 dropping from 70% to 35%</b></mark>)—is the classic presentation of <b>massive systemic (coronary and cerebral) air embolism</b>.<br><br>1️⃣ <b>Anatomy and Mechanics of Systemic Air Embolization:</b><br>• Residual air trapped in the pulmonary veins, left atrial appendage, or left ventricular trabeculae can dislodge once vigorous ventricular ejection is re-established.<br>• Because the patient lies supine, buoyant microbubbles rise to the most anterior aspect of the aortic root, preferentially entering the anteriorly positioned <b>right coronary artery (RCA) ostium</b>. This creates microvascular mechanical air-lock in the RCA territory, manifesting as acute right ventricular ischemia/failure, severe hypotension, and inferior ST elevations (leads II, III, and aVF).<br>• Simultaneously, microbubbles ejecting into the aortic arch ascend into the brachiocephalic arteries, producing microembolic chugging on transcranial Doppler, microvascular occlusion of cerebral capillary beds, and acute cerebral hypoperfusion.<br><br>2️⃣ <b>Emergency Management Protocol (Why Option D is correct):</b><br>• Because the cannulas remain in situ and full heparinization is intact, the immediate, lifesaving intervention is to <mark style=\"background:#2ecc71;color:#fff\"><b>resume cardiopulmonary bypass and raise perfusion pressure (Option D)</b></mark>.<br>• <i>Mechanical Ventricular Decompression:</i> Restarting CPB immediately offloads the acutely ischemic right and left ventricles, interrupting the downward spiral of low cardiac output and subendocardial infarction.<br>• <i>Forced Microvascular Resorption:</i> Deliberately escalating pump flow and administering vasoconstrictors on bypass to generate an <b>elevated mean arterial perfusion pressure (MAP 60–80 mmHg in an infant)</b> mechanically overcomes capillary surface tension, compressing the gaseous bubbles (Boyle's law) and forcing microvascular gas emboli through coronary and cerebral capillary networks into the venous system.<br>• <i>Neuroprotective Hypothermia and Hyperoxia:</i> Re-cooling to moderate hypothermia (28°C–32°C) suppresses cerebral metabolic demand ($CMRO_2$) and increases gas solubility (Henry's law) in circulating plasma water, accelerating bubble re-absorption.<br><br>3️⃣ <b>Why other options are categorically incorrect:</b><br>• <span style=\"color:#e74c3c\"><b>Administer volume and calcium (Option A):</b></span> Infusing volume into an acutely ischemic, distended right ventricle exacerbates wall tension, worsens tricuspid regurgitation, and does not relieve mechanical capillary gas lock.<br>• <span style=\"color:#e74c3c\"><b>Infuse alpha-agonists alone off-bypass (Option B):</b></span> Giving peripheral vasoconstrictors without the support of the heart-lung machine increases left ventricular afterload against an already failing, air-locked myocardium, accelerating cardiovascular collapse.<br>• <span style=\"color:#e74c3c\"><b>Load with anticonvulsant agent (Option C):</b></span> While neuroprotective adjuncts may be considered later if clinical seizures manifest, antiepileptics provide zero relief for ongoing acute cerebral ischemia or cardiogenic shock.<br><br>🧠 <b>Board Pearl:</b><br>Post-weaning from CPB + Acute ST elevation (leads II/III) + TCD microemboli + Cerebral NIRS drop (70% ➔ 35%) ➡️ <b>Systemic Air Embolism (RCA + Cerebral)</b>! ➡️ Cannulas are still in and heparin is active ➡️ First-line lifesaving action: <mark style=\"background:#2ecc71;color:#fff\"><b>Resume CPB and raise perfusion pressure (Option D)</b></mark>! ➡️ Mechanically flushes gas bubbles through capillary beds, decompresses ischemic ventricles, and permits therapeutic hypothermia/hyperoxia! ➡️ Giving volume/pressors off-bypass (Options A & B ❌) fails to clear microvascular vapor-lock!<br><br>🔥 <b>Mnemonic Rule «A-I-R-P-U-M-P»:</b><br>• <b>A</b> — <b>A</b>ir embolism selectively targets the anteriorly situated RCA and head vessels.<br>• <b>I</b> — <b>I</b>nferior ST elevation (II, III) and cerebral NIRS desaturation confirm dual ischemia.<br>• <b>R</b> — <b>R</b>esume cardiopulmonary bypass immediately (<b>Option D</b>).<br>• <b>P</b> — <b>P</b>erfusion pressure must be elevated to push air bubbles through capillary beds.<br>• <b>U</b> — <b>U</b>nload the ventricles to halt ischemic myocardial distension.<br>• <b>M</b> — <b>M</b>oderate hypothermia increases blood gas solubility to dissolve bubbles.<br>• <b>P</b> — <b>P</b>rotamine must be withheld until full hemodynamic stability is restored.",
@@ -4011,7 +4011,7 @@
         "D": "repair the ostium primum defect with partial closure of left-sided cleft"
       },
       "optionsRu": {
-        "A": "поиск других уровней обструкции левых отделов сердца (evaluation for other levels of left-sided obstruction)",
+        "A": "поиск других уровней обструкции левых отделов сердца",
         "B": "назначение деконгестивной терапии с отсрочкой операции до возраста 1 года",
         "C": "суживание ствола легочной артерии (бэндинг) с отсроченной радикальной коррекцией",
         "D": "закрытие первичного ДМПП с частичным ушиванием расщепления (расщелины) левой створки"
@@ -4046,7 +4046,7 @@
       },
       "optionsRu": {
         "A": "сохранение проходимости вертикальной вены",
-        "B": "выполнение бесшовной (атриоперикардиальной) пластики (perform sutureless [atriopericardial] repair)",
+        "B": "выполнение бесшовной (атриоперикардиальной) пластики",
         "C": "использование рассасывающегося шовного материала для формирования анастомоза",
         "D": "использование трансатриального (биатриального) доступа"
       },
@@ -4079,7 +4079,7 @@
         "D": "use of transcatheter ductal occlusion device"
       },
       "optionsRu": {
-        "A": "имплантация аортального стент-графта (aortic stent grafting)",
+        "A": "имплантация аортального стент-графта",
         "B": "пересечение протока в условиях искусственного кровообращения через стернотомию",
         "C": "перевязка протока из левосторонней торакотомии",
         "D": "использование транскатетерного окклюдера протока"
@@ -4117,10 +4117,10 @@
         "D": "valve-sparing root replacement"
       },
       "optionsRu": {
-        "A": "ежегодное динамическое наблюдение с выполнением МРТ (annual surveillance MRI)",
+        "A": "ежегодное динамическое наблюдение с выполнением МРТ",
         "B": "протезирование корня аорты клапансодержащим кондуитом по Бенталлу",
-        "C": "экстравазальное окутывание (wrap) корня аорты дакроновым протезом",
-        "D": "клапансохраняющее протезирование корня аорты (valve-sparing root replacement)"
+        "C": "экстравазальное окутывание корня аорты дакроновым протезом",
+        "D": "клапансохраняющее протезирование корня аорты"
       },
       "correctAnswer": "A",
       "explanationEn": "🎯 <b>Correct Answer: Option A: annual surveillance MRI.</b><br><br>🔵 <b>Detailed Clinical and Long-Term Hemodynamic Analysis:</b><br>Late neo-aortic root dilation and secondary neo-aortic valve insufficiency (AR) represent well-documented sequelae following the arterial switch operation (ASO), occurring with the highest frequency in patients repaired for double-outlet right ventricle (DORV) with subpulmonary VSD (Taussig-Bing anomaly), d-TGA with VSD, or those with prior pulmonary artery banding. This dilation is driven by intrinsic structural differences in the native pulmonary root (thinner media, reduced elastin content relative to a native aorta) subjected chronically to systemic arterial pressures.<br><br>1️⃣ <b>Natural History and Rarity of Acute Aortic Dissection:</b><br>• In hereditary connective tissue aortopathies (e.g., Marfan or Loeys-Dietz syndrome), an aortic root dimension of 5.6 cm mandates urgent prophylactic root replacement due to high dissection risk.<br>• In stark contrast, <b>acute Type A aortic dissection or rupture is extraordinarily rare</b> in post-ASO adult congenital cohorts, even with sinus dimensions exceeding 5.0–5.5 cm.<br>• <i>Protective Post-Surgical Architecture:</i> The dense fibrous scar sheath encasing the root, the circumferential neo-aortic anastomotic suture line, and the scar tissue around the reimplanted coronary buttons create an autologous external support \"girdle\" that prevents catastrophic aortic wall delamination and acute dissection.<br><br>2️⃣ <b>Indication Thresholds for Surgical Intervention (Why Option A is correct):</b><br>• According to the ACC/AHA (2018) and ESC (2020) Adult Congenital Heart Disease (ACHD) guidelines, surgical intervention for neo-aortic root dilation is primarily driven by <b>the severity of neo-aortic regurgitation and progressive left ventricular remodeling</b>, rather than an isolated root diameter threshold alone.<br>• Reoperation is indicated when: (1) neo-aortic regurgitation is severe, (2) symptoms develop, or (3) left ventricular end-systolic dimension (LVESD) exceeds 50 mm (or >25 mm/m²) and/or LVEF drops below 50%.<br>• This patient is <b>entirely asymptomatic</b>, his neo-aortic regurgitation is only <b>mild</b>, LV systolic function is preserved (<mark style=\"background:#ffff00;color:#000\"><b>LVEF = 55%</b></mark>), and the LVESD is <mark style=\"background:#ffff00;color:#000\"><b>44 mm</b></mark> (&lt; 50 mm). Therefore, prophylactic surgery carries greater perioperative morbidity (redo sternotomy, coronary button re-mobilization) than the near-zero risk of acute dissection.<br>• The standard of care is conservative management with <mark style=\"background:#2ecc71;color:#fff\"><b>annual surveillance cardiac MRI (Option A)</b></mark> to monitor the rate of root expansion, regurgitant fraction, and left ventricular volumes.<br><br>3️⃣ <b>Why other options are categorically incorrect:</b><br>• <span style=\"color:#e74c3c\"><b>Bentall aortic root replacement (Option B):</b></span> Unnecessarily sacrifices a functional native neo-aortic valve that only has mild regurgitation and commits an 18-year-old patient to lifelong anticoagulation (mechanical valve) or early structural valve degeneration (bioprosthesis), accompanied by significant risks during coronary re-reimplantation.<br>• <span style=\"color:#e74c3c\"><b>Valve-sparing root replacement (Option D):</b></span> While technically feasible in specialized centers when intervention is genuinely indicated, preemptive valve-sparing reimplantation (David procedure) or remodeling (Yacoub) is unwarranted in an asymptomatic patient without severe regurgitation or progressive LV dilation, given the extreme technical complexity of re-dissecting relocated coronary arteries embedded in dense post-ASO scar tissue.<br>• <span style=\"color:#e74c3c\"><b>Dacron external wrap of the root (Option C):</b></span> External wrapping/girdling without cardiopulmonary bypass is an unproven, non-standard approach in post-ASO neo-aortic dilation; it carries substantial risks of extrinsic coronary compression and erosion without addressing intrinsic annular mechanics.<br><br>🧠 <b>Board Pearl:</b><br>Post-ASO / Taussig-Bing anomaly + Neo-aortic root dilation (even &gt; 5.0–5.5 cm) + Mild AR + Preserved LV function (LVEF &gt; 50%, LVESD &lt; 50 mm) + Asymptomatic ➡️ <b>Annual surveillance cardiac MRI (Option A)</b>! ➡️ Post-ASO roots have dense post-surgical adventitial scar tissue: <b>Type A dissection is exceedingly rare</b>! ➡️ Indications for reoperation are driven by <b>severe aortic regurgitation and LV dilation</b>, NOT isolated root size alone! ➡️ Prophylactic Bentall (Option B ❌) or valve-sparing root replacement (Option D ❌) is premature and carries high redo-coronary reoperation risks!<br><br>🔥 <b>Mnemonic Rule «W-A-T-C-H»:</b><br>• <b>W</b> — <b>W</b>ait and monitor: acute dissection is exceedingly rare after ASO due to surgical fibrosis.<br>• <b>A</b> — <b>A</b>nnual cardiac MRI is the recommended surveillance modality (<b>Option A</b>).<br>• <b>T</b> — <b>T</b>hreshold for reoperation requires severe regurgitation or LVESD > 50 mm.<br>• <b>C</b> — <b>C</b>oronary buttons embedded in dense scar make redo root replacement high-risk.<br>• <b>H</b> — <b>H</b>eart function is preserved (LVEF 55%, LVESD 44 mm), ruling out immediate surgery.",
@@ -4154,7 +4154,7 @@
         "D": "re-entrant atrial tachyarrhythmias"
       },
       "optionsRu": {
-        "A": "степень регургитации на общем АВ-клапане (degree of common AV valve regurgitation)",
+        "A": "степень регургитации на общем АВ-клапане",
         "B": "синдром гетеротаксии с аспленией",
         "C": "прогрессирующая дисфункция правого желудочка",
         "D": "реципрокные предсердные тахиаритмии"
@@ -4188,7 +4188,7 @@
         "D": "subaortic membrane causing stenosis is frequently encountered"
       },
       "optionsRu": {
-        "A": "коронарные артерии могут иметь анатомические аномалии (coronary arteries may have anomalies)",
+        "A": "коронарные артерии могут иметь анатомические аномалии",
         "B": "аортальное кольцо обычно сужено и требует расширения",
         "C": "легочная артерия при первичной неонатальной коррекции перемещается кпереди от аорты",
         "D": "часто встречается подклапанная мембрана, вызывающая субаортальный стеноз"
@@ -4224,7 +4224,7 @@
       },
       "optionsRu": {
         "A": "диаметр восходящей аорты 1,5 мм",
-        "B": "интактная (закрытая) межпредсердная перегородка (intact atrial septum)",
+        "B": "интактная (закрытая) межпредсердная перегородка",
         "C": "рестриктивный открытый артериальный проток",
         "D": "тяжелая трикуспидальная недостаточность"
       },
@@ -4258,7 +4258,7 @@
         "D": "percutaneous ASD device closure"
       },
       "optionsRu": {
-        "A": "туннелирование (внутрипредсердный baffle) ЛВВП по крыше левого предсердия в правое предсердие с закрытием ДМПП (baffle LSVC across the left atrial roof to the right atrium with ASD closure)",
+        "A": "туннелирование (внутрипредсердный baffle) ЛВВП по крыше левого предсердия в правое предсердие с закрытием ДМПП",
         "B": "диагностическая катетеризация правых и левых отделов сердца",
         "C": "лигирование ЛВВП",
         "D": "чрескожное закрытие ДМПП окклюдером"
@@ -4296,7 +4296,7 @@
         "A": "имплантировать полужесткое опорное полукольцо (аннулопластику)",
         "B": "имплантировать искусственные хорды к передней створке",
         "C": "выполнить протезирование митрального клапана механическим протезом",
-        "D": "завершить искусственное кровообращение (terminate cardiopulmonary bypass)"
+        "D": "завершить искусственное кровообращение"
       },
       "correctAnswer": "D",
       "explanationEn": "🎯 <b>Correct Answer: Option D: terminate cardiopulmonary bypass.</b><br><br>🔵 <b>Detailed Clinical and Surgical Decision-Making Analysis:</b><br>Congenital mitral stenosis (CMS) in toddlers is an intrinsically complex, multi-level pathology involving thickened leaflets, restricted interchordal spaces, fused papillary muscles (e.g., parachute mitral valve), or supravalvar rings. The primary goal of reconstructive surgery in young pediatric patients is fundamentally <b>palliative rather than curative</b>: converting critical, life-threatening inflow obstruction with pulmonary hypertension into a stable, well-tolerated hemodynamic state to preserve the native valve and delay or avoid mitral valve replacement (MVR).<br><br>1️⃣ <b>Hemodynamic Assessment of Post-Repair Adequacy (Why Option D is correct):</b><br>• The patient presented with critical stenosis (mean gradient <mark style=\"background:#ffff00;color:#000\"><b>18 mmHg</b></mark>) driving severe pulmonary arterial and right heart hypertension.<br>• Following reconstruction (commissurotomy, papillary splitting, interchordal fenestration), intraoperative transesophageal echocardiography (TEE) demonstrates that the critical gradient is relieved to only <b>mild residual stenosis</b>, balanced against <b>moderate central mitral regurgitation</b>.<br>• <i>The Gold Standard Benchmark:</i> Left atrial pressure (LAP) directly measures backward pulmonary venous congestion. An LAP of <mark style=\"background:#2ecc71;color:#fff\"><b>12 mmHg</b></mark> (normal target $\\\\le 12 - 15$ mmHg) in the setting of modest inotropic support proves that net left ventricular filling is unobstructed, forward cardiac output is well maintained, and acute pulmonary venous hypertension has been successfully abolished.<br>• In an 11 kg child, trading severe, lethal stenosis for mild stenosis and moderate, non-progressive regurgitation with normal left atrial filling pressures is considered an <b>ideal, triumphant surgical result</b>. The correct management is to accept this functional compromise and <mark style=\"background:#2ecc71;color:#fff\"><b>terminate cardiopulmonary bypass (Option D)</b></mark>.<br><br>2️⃣ <b>The Prohibitive Risks of Valve Replacement in Early Childhood:</b><br>• <span style=\"color:#e74c3c\"><b>Replace with a mechanical valve (Option C):</b></span> Mitral valve replacement in an 11 kg toddler carries formidable early and late morbidity (>10%–20% operative mortality). A rigid prosthetic ring in a small fibrous annulus risks complete atrioventricular block, left circumflex coronary artery compression, and severe patient-prosthesis mismatch. Furthermore, managing therapeutic systemic anticoagulation with vitamin K antagonists in active toddlers leads to devastating hemorrhagic or catastrophic valve thrombosis events, alongside guaranteed serial re-replacements as somatic growth occurs.<br><br>3️⃣ <b>Why Other Re-Repair Options are Detrimental:</b><br>• <span style=\"color:#e74c3c\"><b>Place a partial annuloplasty ring (Option A):</b></span> Implantation of a ring reduces annular circumference. In a valve that already carries mild residual stenosis, plicating or constricting the annulus will critically diminish effective orifice area (EOA), converting mild stenosis back into severe, fatal transmitral obstruction.<br>• <span style=\"color:#e74c3c\"><b>Place artificial chordae to the anterior leaflet (Option B):</b></span> Neochordae implantation (e.g., PTFE sutures) is indicated exclusively to correct unsupported leaflet segment prolapse or flail. Intraoperative TEE explicitly noted that the regurgitant jet is central and there is <b>no leaflet prolapse</b>. Shortening or adding chordae would restrict anterior leaflet excursion and worsen stenosis.<br><br>🧠 <b>Board Pearl:</b><br>Pediatric Congenital Mitral Valve Repair ➡️ Complete anatomic normalization is virtually unachievable! ➡️ Goal: <b>Relieve critical stenosis while preserving the native valve</b>! ➡️ Result: Mild residual stenosis + Moderate MR + Left Atrial Pressure ≤ 12–15 mmHg on modest inotropes ➡️ <b>Accept the repair and terminate CPB (Option D)</b>! ➡️ Annuloplasty rings (Option A ❌) induce re-stenosis! ➡️ Mechanical MVR in toddlers (Option C ❌) carries catastrophic anticoagulation, growth mismatch, and reoperation risks!<br><br>🔥 <b>Mnemonic Rule «L-E-A-V-E»:</b><br>• <b>L</b> — <b>L</b>AP of 12 mmHg indicates well-decompressed pulmonary veins.<br>• <b>E</b> — <b>E</b>xcellent functional compromise: mild stenosis + moderate regurgitation.<br>• <b>A</b> — <b>A</b>nnuloplasty ring (Option A ❌) will narrow the orifice and cause severe re-stenosis.<br>• <b>V</b> — <b>V</b>alve replacement (Option C ❌) in toddlers carries catastrophic lifetime morbidity.<br>• <b>E</b> — <b>E</b>xit cardiopulmonary bypass and preserve the native valve (<b>Option D</b>).",
@@ -4331,7 +4331,7 @@
         "A": "перегрузка левого желудочка давлением и объемом",
         "B": "перегрузка правого желудочка давлением и объемом",
         "C": "перегрузка левого желудочка давлением и перегрузка правого желудочка объемом",
-        "D": "перегрузка правого желудочка давлением и перегрузка левого желудочка объемом (pressure load of the right ventricle and volume load of the left ventricle)"
+        "D": "перегрузка правого желудочка давлением и перегрузка левого желудочка объемом"
       },
       "correctAnswer": "D",
       "explanationEn": "🎯 <b>Correct Answer: Option D: pressure load of the right ventricle and volume load of the left ventricle.</b><br><br>🔵 <b>Detailed Biophysical and Hemodynamic Circuit Analysis:</b><br>In a large patent ductus arteriosus (PDA), the persistent vascular channel connects the high-pressure descending thoracic aorta (immediately distal to the left subclavian artery) to the roof of the main pulmonary artery bifurcation. The hemodynamic consequences on the ventricular chambers are governed by the anatomical level of the shunt, which is <b>extracardiac and post-pulmonary valve</b>.<br><br>1️⃣ <b>Right Ventricle: Isolated Pressure Overload (Why RV gets Pressure, NOT Volume):</b><br>• The right ventricle pumps into the pulmonary trunk through the competent pulmonary valve.<br>• Because the ductus is large, systemic aortic arterial pressures are transmitted downstream directly into the pulmonary arterial tree, producing hyperkinetic pulmonary arterial hypertension.<br>• During systole, the right ventricle ejects against this transmission of high systemic afterload, leading directly to <mark style=\"background:#2ecc71;color:#fff\"><b>right ventricular pressure overload (Option D)</b></mark>.<br>• <i>Preload considerations:</i> The right ventricle receives only normal systemic venous return from the superior and inferior venae cavae via the right atrium. <b>None of the recirculating left-to-right shunted ductal blood ever enters the right ventricle</b>, completely sparing the RV from volume overload.<br><br>2️⃣ <b>Left Ventricle: Isolated Volume Overload (Why LV gets Volume, NOT Pressure):</b><br>• Blood shunting left-to-right across the ductus enters the pulmonary arteries, traverses the pulmonary microcirculation, and drains via the four pulmonary veins into the left atrium.<br>• The left atrium and left ventricle must accommodate the entire volume of this recirculating pulmonary runoff <i>in addition to</i> the normal systemic venous return: $Q_{LV} = Q_s + Q_{shunt} = Q_p$.<br>• This marked increase in end-diastolic filling leads to eccentric hypertrophy and <mark style=\"background:#2ecc71;color:#fff\"><b>left ventricular volume overload (Option D)</b></mark>.<br>• <i>Afterload considerations:</i> The left ventricle ejects into the systemic arterial tree. Because of the large low-resistance runoff through the ductus into the pulmonary bed, systemic diastolic blood pressure is actually depressed (wide pulse pressure, diastolic runoff/steal), meaning the left ventricle does not face elevated afterload/pressure overload.<br><br>3️⃣ <b>Why other options are categorically incorrect:</b><br>• <span style=\"color:#e74c3c\"><b>Pressure and volume load of the left ventricle (Option A):</b></span> The LV experiences profound volume load, but normal or reduced systolic pressure afterload; pressure load on the LV occurs in aortic coarctation or aortic stenosis, not PDA.<br>• <span style=\"color:#e74c3c\"><b>Pressure and volume load of the right ventricle (Option B):</b></span> The RV handles afterload elevation (pressure), but normal systemic venous return (no volume overload). Volume overload of the RV occurs in atrial septal defects (ASD) or anomalous pulmonary venous return, where shunted blood enters the right heart chambers.<br>• <span style=\"color:#e74c3c\"><b>Pressure load of LV and volume load of RV (Option C):</b></span> Exactly reverses both pathophysiological loading states.<br><br>🧠 <b>Board Pearl:</b><br>Large Left-to-Right Patent Ductus Arteriosus (PDA) Hemodynamics: ➡️ Shunt is <b>distal to the pulmonary valve</b>! ➡️ Shunted blood bypasses the RV completely: <b>RV handles normal volume, but elevated PA afterload ➔ RV PRESSURE OVERLOAD</b>! ➡️ Shunted blood returns via pulmonary veins to the left heart: <b>LV handles systemic output + pulmonary shunt ➔ LV VOLUME OVERLOAD (Option D)</b>! ➡️ Contrast with ASD: ASD produces <b>RV volume overload</b>!<br><br>🔥 <b>Mnemonic Rule «P-D-A»:</b><br>• <b>P</b> — <b>P</b>ressure load falls directly on the Right Ventricle (elevated PA afterload).<br>• <b>D</b> — <b>D</b>iastolic runoff returns to the Left Atrium and Left Ventricle.<br>• <b>A</b> — <b>A</b>ccumulated volume overload stretches the Left Ventricle (<b>Option D</b>).",
@@ -4367,7 +4367,7 @@
         "A": "баллонная атриосептостомия",
         "B": "ингаляция оксида азота",
         "C": "инфузия простагландина E1",
-        "D": "экстренная хирургическая коррекция (urgent surgical repair)"
+        "D": "экстренная хирургическая коррекция"
       },
       "correctAnswer": "D",
       "explanationEn": "🎯 <b>Correct Answer: Option D: urgent surgical repair.</b><br><br>🔵 <b>Detailed Clinical and Surgical Pathophysiology:</b><br>This neonate exhibits the classic presentation of <b>severely obstructed infracardiac total anomalous pulmonary venous connection (TAPVC / Darling Type III)</b>. In this anatomy, the pulmonary veins join into a retrocardiac common confluence that drains caudally via a descending vertical vein traversing the esophageal hiatus of the diaphragm to connect into the portal venous system, ductus venosus, or inferior vena cava.<br><br>1️⃣ <b>Mechanisms of Obstruction and Hemodynamic Catastrophe:</b><br>• The vertical vein is subjected to severe extrinsic compression at the diaphragmatic hiatus, compounded by high downstream resistance across the hepatic sinusoidal capillary beds and constriction of the ductus venosus.<br>• Echocardiographic Doppler demonstrates a pathological continuous velocity of <mark style=\"background:#ffff00;color:#000\"><b>2.6 m/s</b></mark> at the diaphragm, corresponding to a peak pressure gradient of $4 \\times (2.6)^2 \\\\approx 27$ mmHg.<br>• <i>Clinical Hallmarks:</i> Pulmonary venous pressure surges to suprasystemic levels, triggering intense hemorrhagic alveolar flash pulmonary edema. A classic diagnostic triad is observed: (1) severe, refractory cyanosis, (2) rapid metabolic lactic acidosis, and (3) a <b>normal or small cardiac silhouette with diffuse reticulogranular pulmonary venous congestion</b> (\"ground glass\" appearance mimicking respiratory distress syndrome).<br>• Obstructed TAPVC is a hyperacute mechanical condition that is <b>entirely refractory to medical stabilization</b>. The sole definitive, lifesaving therapy is immediate transfer to the operating room for <mark style=\"background:#2ecc71;color:#fff\"><b>urgent surgical repair on cardiopulmonary bypass (Option D)</b></mark> to create a wide, non-restrictive anastomosis between the pulmonary venous confluence and the posterior left atrium (or sutureless atriopericardial repair) and divide the vertical vein.<br><br>2️⃣ <b>Why Other Options are Detrimental or Ineffective:</b><br>• <span style=\"color:#e74c3c\"><b>Inhaled nitric oxide (Option B):</b></span> Inhaled NO is a potent precapillary pulmonary arteriolar vasodilator. Selectively lowering arteriolar resistance while a fixed mechanical post-capillary outflow obstruction persists floods the pulmonary capillary bed with blood, precipitating torrential transudation into the alveoli, worsening pulmonary edema, and accelerating asphyxiation.<br>• <span style=\"color:#e74c3c\"><b>Prostaglandin infusion (Option C):</b></span> PGE1 maintains ductal patency, driving additional blood from the RV into the pulmonary arterial circulation. Increasing pulmonary blood flow in the setting of an unyielding venous roadblock aggravates pulmonary capillary congestion without resolving systemic perfusion.<br>• <span style=\"color:#e74c3c\"><b>Balloon atrial septostomy (Option A):</b></span> Indicated only when an interatrial communication is restrictive (as in d-TGA or HLHS). Echocardiography clearly demonstrates that the ASD is already <b>unrestrictive with right-to-left flow</b>. The barrier to oxygenation is post-capillary pulmonary venous obstruction, not atrial mixing.<br><br>🧠 <b>Board Pearl:</b><br>Neonate + Cyanosis + Metabolic Acidosis + CXR: Small heart with congested lungs + Doppler velocity > 2.0 m/s across diaphragm ➡️ <b>Obstructed Infracardiac TAPVC</b>! ➡️ True surgical emergency: <mark style=\"background:#2ecc71;color:#fff\"><b>Urgent Surgical Repair (Option D)</b></mark>! ➡️ Do NOT give iNO (Option B ❌) or PGE1 (Option C ❌) — vasodilating the precapillary bed against a downstream mechanical block causes catastrophic, fatal alveolar flooding! ➡️ Septostomy (Option A ❌) is unneeded when the ASD is already unrestrictive!<br><br>🔥 <b>Mnemonic Rule «O-U-T-F-L-O-W»:</b><br>• <b>O</b> — <b>O</b>bstructed infracardiac vertical vein creates a fixed post-capillary roadblock.<br>• <b>U</b> — <b>U</b>rgent surgical confluence-to-LA repair is the ONLY definitive cure (<b>Option D</b>).<br>• <b>T</b> — <b>T</b>wo point six (2.6) m/s confirms high-gradient mechanical stenosis across the diaphragm.<br>• <b>F</b> — <b>F</b>lash pulmonary edema with a deceptively small cardiac silhouette on CXR.<br>• <b>L</b> — <b>L</b>ethal effects from iNO (Option B ❌): floods capillaries against an obstructed exit.<br>• <b>O</b> — <b>O</b>verlook prostaglandins (Option C ❌): ductal flow cannot bypass venous block.<br>• <b>W</b> — <b>W</b>ide unrestrictive ASD is already present, ruling out septostomy (Option A ❌).",
@@ -4401,7 +4401,7 @@
         "A": "подключение ЭКМО и включение в лист ожидания трансплантации сердца",
         "B": "экстренная катетеризация сердца и эмболизация",
         "C": "включение в лист ожидания трансплантации сердца после катетеризации",
-        "D": "вентиляция с высоким ПДКВ (PEEP) и бронхоскопия с активной санацией дыхательных путей (ventilate with high PEEP and bronchoscopy with aggressive airway clearance)"
+        "D": "вентиляция с высоким ПДКВ (PEEP) и бронхоскопия с активной санацией дыхательных путей"
       },
       "correctAnswer": "D",
       "explanationEn": "🎯 <b>Correct Answer: Option D: ventilate with high PEEP and bronchoscopy with aggressive airway clearance.</b><br><br>🔵 <b>Detailed Clinical and Pathophysiological Analysis:</b><br>In adult patients with single-ventricle Fontan palliation (particularly in systemic right ventricles following hypoplastic left heart syndrome), non-pulsatile, passive pulmonary circulation and chronic low cardiac output drive the progressive development of extensive <b>systemic-to-pulmonary collateral arteries (aortopulmonary and intercostal/bronchial collaterals)</b>. These thin-walled, high-pressure neo-vascular networks arborize directly around the tracheobronchial tree.<br><br>1️⃣ <b>Mechanisms of Acute Hemoptysis and Asphyxiation:</b><br>• An intercurrent lower respiratory tract infection induces acute localized airway inflammation, persistent coughing, and shearing barotrauma, triggering acute rupture of these fragile, high-pressure collateral vessels directly into the bronchial lumen.<br>• <i>The Immediate Lethal Mechanism:</i> In acute massive hemoptysis, <b>patients die from acute asphyxia and bronchial blood clot suffocation, NOT from exsanguinating hypovolemic shock</b>. Aspirated blood floods dependent bronchioles, organizes into dense cast-like plugs, and abruptly abolishes alveolar gas exchange, leading to acute hypoxemia, alveolar derecruitment, and secondary cardiogenic arrest.<br><br>2️⃣ <b>Resuscitation Protocol Beyond Endotracheal Intubation (Why Option D is correct):</b><br>• Once the airway is secured with an endotracheal tube, the immediate priority is restoring alveolar ventilation and clearing blood clot obstruction:<br>  1. <mark style=\"background:#2ecc71;color:#fff\"><b>High Positive End-Expiratory Pressure (PEEP):</b></mark> Mechanically generates continuous intrabronchial hydrostatic pressure, acting as an internal biological pneumatic tamponade against bleeding submucosal arterioles and microvascular surfaces while stenting open collapsing fluid-filled alveoli.<br>  2. <mark style=\"background:#2ecc71;color:#fff\"><b>Urgent bronchoscopy with aggressive airway clearance (Option D):</b></mark> Rigid or flexible bronchoscopy allows targeted suctioning of obstructive blood clots, isolation of the bleeding pulmonary segment (e.g., using a bronchial blocker), topical administration of cold saline or pro-hemostatics (dilute epinephrine, tranexamic acid), and clearance of the non-bleeding lung to preserve gas exchange.<br><br>3️⃣ <b>Why other options are categorically incorrect:</b><br>• <span style=\"color:#e74c3c\"><b>Emergent cardiac catheterization and embolization (Option B):</b></span> While transcatheter coil or plug embolization is the definitive treatment for persistent, significant aortopulmonary collaterals, transporting an unstable, profoundly hypoxemic patient with clot-occluded airways to the catheterization laboratory is premature and fatal. Hemostasis in the cath lab requires a stable airway; selective diagnostic angiography during acute bleeding is notoriously non-localizing without bronchial clearance.<br>• <span style=\"color:#e74c3c\"><b>ECMO and list for heart transplantation (Option A) & List for transplant after catheterization (Option C):</b></span> Mechanical circulatory support (ECMO) and heart transplantation evaluations address long-term systemic RV failure. Initiating ECMO in an acutely bleeding lung with systemic heparinization will trigger catastrophic, fatal intra-alveolar hemorrhage without relieving the immediate luminal clot obstruction.",
@@ -4434,7 +4434,7 @@
         "D": "exaggerated x-descent secondary to pericardial tamponade"
       },
       "optionsRu": {
-        "A": "пушечную волну «a» (cannon A wave) вследствие утраты атриовентрикулярной синхронии",
+        "A": "пушечную волну «a» вследствие утраты атриовентрикулярной синхронии",
         "B": "доминантную волну «a» как признак стеноза трикуспидального клапана",
         "C": "доминантную волну «v» как признак недостаточности трикуспидального клапана",
         "D": "углубленный x-спад вследствие тампонады перикарда"
@@ -4474,7 +4474,7 @@
         "D": "ventricular assist device"
       },
       "optionsRu": {
-        "A": "включения в лист ожидания ABO-несовместимой трансплантации (ABO-incompatible transplant listing)",
+        "A": "включения в лист ожидания ABO-несовместимой трансплантации",
         "B": "протокола десенсибилизирующей терапии антителами",
         "C": "ЭКМО",
         "D": "имплантации аппарата вспомогательного кровообращения (VAD)"
@@ -4510,7 +4510,7 @@
         "D": "return to bypass, rest the heart, and re-attempt weaning"
       },
       "optionsRu": {
-        "A": "имплантация временного устройства вспомогательного кровообращения левого желудочка (LVAD) (insert a temporary left ventricular assist device)",
+        "A": "имплантация временного устройства вспомогательного кровообращения левого желудочка (LVAD)",
         "B": "подключение экстракорпоральной мембранной оксигенации (ЭКМО)",
         "C": "установка внутриаортального баллонного контрпульсатора",
         "D": "возврат на искусственное кровообращение для отдыха миокарда с повторной попыткой отлучения"

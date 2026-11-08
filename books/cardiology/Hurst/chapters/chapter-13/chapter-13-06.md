@@ -53,7 +53,7 @@
 ### Cardioversion
 * **Direct Current:** Biphasic waveform, 120–200 J. Anticoagulation: AF >48h requires 3–4 weeks of therapeutic INR or TEE‑guided approach (heparin + TEE to exclude LAA thrombus, then cardioversion). Post‑cardioversion anticoagulation for ≥4 weeks due to atrial stunning.
 * **Pharmacologic:** Flecainide, propafenone (recent‑onset), dofetilide, ibutilide (IV, 3.6% torsade risk), amiodarone (delayed onset). Ibutilide more effective than procainamide (51% vs 21%). Vernakalant (IV, available in Europe, not US).
-* **Post‑op AF:** Occurs in ~1/3 after cardiac surgery; β‑blockers reduce risk; rate vs rhythm control shows no difference in AF‑free status at 60 days; most patients do not need long‑term AAD.
+* **Post‑op AF:** Occurs in ~ 1/3 after cardiac surgery; β‑blockers reduce risk; rate vs rhythm control shows no difference in AF‑free status at 60 days; most patients do not need long‑term AAD.
 
 ### Catheter and Surgical Ablation
 * **Pulmonary Vein Isolation:** Cornerstone for paroxysmal AF; limited efficacy in persistent AF. Success: single procedure 54% (paroxysmal), 42% (persistent); multiple procedures 80%.
@@ -66,7 +66,7 @@
 ### Atrial Flutter
 * **Typical (Cavotricuspid Isthmus‑Dependent):** Counterclockwise (negative flutter waves in II, III, aVF; upright in V₁) and clockwise (positive flutter waves inferior leads). Circuit: up septum, down free wall, across cavotricuspid isthmus.
 * **Atypical:** Left atrial flutter (mitral annulus, pulmonary veins, scar); postsurgical (Mustard, Senning, Fontan); double‑wave; lower/upper loop reentry.
-* **Management:** Rate control difficult (regular atrial rate → less concealed conduction → 2:1 block often recurs). Rhythm control preferred. Anticoagulation same as AF (stroke risk similar). Catheter ablation ~90% success — first‑line therapy for many. AF frequently emerges after flutter ablation (long‑term follow‑up).
+* **Management:** Rate control difficult (regular atrial rate → less concealed conduction → 2:1 block often recurs). Rhythm control preferred. Anticoagulation same as AF (stroke risk similar). Catheter ablation ~ 90% success — first‑line therapy for many. AF frequently emerges after flutter ablation (long‑term follow‑up).
 * **Class IC Caution:** Slowing atrial flutter rate can allow 1:1 AV conduction → very fast ventricular rates → VT/VF; must combine with AV node blocker.
 
 </div></details>

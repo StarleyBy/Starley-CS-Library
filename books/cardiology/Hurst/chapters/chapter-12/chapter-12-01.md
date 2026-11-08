@@ -8,14 +8,14 @@
 * **Pulmonary Hypertension (PH):** Hemodynamic abnormality defined as mean pulmonary arterial pressure (PAP) ≥ 25 mm Hg at rest measured by right heart catheterization. Characterized by increased right ventricular (RV) afterload and work.
 * **Pulmonary Arterial Hypertension (PAH):** PH with normal left-sided filling pressure (PCWP < 15 mm Hg) and increased PVR (> 3 Wood units). Subclassified as idiopathic (IPAH), heritable (HPAH), drug-induced, or associated with connective tissue disease, HIV, portal hypertension, congenital heart disease, or schistosomiasis.
 * **Pulmonary Venous Hypertension:** PH resulting from left heart disease (LV dysfunction, mitral valve disease); PCWP > 15 mm Hg. Mixed pulmonary vasculopathy: PCWP > 15 mm Hg with increased PVR.
-* **Normal Hemodynamics:** At sea level, PAP ~20/12 mm Hg (mean ~15 mm Hg), cardiac output 5–6 L/min, PVR ~1.7 Wood units. Pulmonary circulation accommodates 4‑fold increase in flow with minimal pressure rise due to recruitment and distensibility.
-* **PVR Calculation:** PVR = (P<sub>PA</sub> − P<sub>LA</sub>) / Q. Normal ~1.7 Wood units (multiply by 80 for dyne·s/cm⁵). PCWP used as surrogate for LA pressure.
+* **Normal Hemodynamics:** At sea level, PAP ~ 20/12 mm Hg (mean ~ 15 mm Hg), cardiac output 5–6 L/min, PVR ~ 1.7 Wood units. Pulmonary circulation accommodates 4‑fold increase in flow with minimal pressure rise due to recruitment and distensibility.
+* **PVR Calculation:** PVR = (P<sub>PA</sub> − P<sub>LA</sub>) / Q. Normal ~ 1.7 Wood units (multiply by 80 for dyne·s/cm⁵). PCWP used as surrogate for LA pressure.
 
 ### Classification and Epidemiology
 * **WHO Classification (Nice 2012):** Five groups — (1) PAH, (2) PH due to left heart disease, (3) PH due to lung disease/hypoxia, (4) chronic thromboembolic PH (CTEPH), (5) PH with unclear/multifactorial mechanisms. Replaces outdated "primary" and "secondary" terminology.
-* **Epidemiology:** Most common cause is lung disease (COPD). IPAH incidence 1–2 per million/year; prevalence ~0.1–0.2% at autopsy. PAH in systemic sclerosis: 8–12%. Eisenmenger syndrome: up to 32% of congenital heart disease patients may develop pulmonary vascular disease.
+* **Epidemiology:** Most common cause is lung disease (COPD). IPAH incidence 1–2 per million/year; prevalence ~ 0.1–0.2% at autopsy. PAH in systemic sclerosis: 8–12%. Eisenmenger syndrome: up to 32% of congenital heart disease patients may develop pulmonary vascular disease.
 * **Risk Factors:** Definite — aminorex, fenfluramine, dexfenfluramine, toxic rapeseed oil. Likely — amphetamines, L-tryptophan, methamphetamines. Possible — cocaine, phenylpropanolamine, St. John's wort, chemotherapeutic agents, SSRIs.
-* **Genetics:** HPAH accounts for ~15% of IPAH cases; autosomal dominant with incomplete penetrance. Mutations in BMPR2 (75% of HPAH), ALK-1, endoglin (in hereditary hemorrhagic telangiectasia). BMPR2 mutations also in 25% of sporadic IPAH. Carrier lifetime risk 10–20%, implicating gene-environment interactions.
+* **Genetics:** HPAH accounts for ~ 15% of IPAH cases; autosomal dominant with incomplete penetrance. Mutations in BMPR2 (75% of HPAH), ALK-1, endoglin (in hereditary hemorrhagic telangiectasia). BMPR2 mutations also in 25% of sporadic IPAH. Carrier lifetime risk 10–20%, implicating gene-environment interactions.
 
 ### Evaluation of Suspected PH
 * **Gold Standard:** Right heart catheterization — directly measures RA, RV, PA pressures, PCWP, cardiac output, and allows acute vasodilator testing.
@@ -29,7 +29,7 @@
 * **Left Heart Disease:** Most common cause — LV failure (systolic or diastolic) and mitral/aortic valve disease. PCWP elevation → reflex PA vasoconstriction → intimal/medial changes in veins and arteries. Heart failure with preserved ejection fraction (HFpEF) now >50% of cases; PAH therapies not recommended (ongoing trials).
 * **Congenital Heart Disease:** Eisenmenger syndrome — advanced pulmonary vascular disease from untreated left-to-right shunts. Post-tricuspid shunts (VSD, PDA) have higher vasculopathy risk. Comorbidities: erythrocytosis, hyperviscosity, bleeding diathesis, arrhythmias, stroke, renal/hepatic dysfunction, infections, skeletal disease. ERA and PDE‑5 inhibitors show promise; repair may be possible with perioperative targeted therapy.
 * **Connective Tissue Disease:** Most commonly SLE, scleroderma (limited/diffuse), and mixed connective tissue disease. Histopathology identical to IPAH. Female predominance, Raynaud phenomenon frequent. Anticoagulants and vasodilators have modest success; immunosuppressives if active vasculitis.
-* **Thromboembolic Disease:** Small vessel thrombosis in situ (indistinguishable from IPAH except by biopsy); intermediate artery occlusion (most common, from peripheral venous emboli); chronic proximal thromboembolism (surgically treatable). CTEPH: organized clots in major pulmonary arteries; V/Q scan shows segmental defects; pulmonary thromboendarterectomy via median sternotomy with deep hypothermic circulatory arrest — mortality ~5%, dramatic hemodynamic improvement.
+* **Thromboembolic Disease:** Small vessel thrombosis in situ (indistinguishable from IPAH except by biopsy); intermediate artery occlusion (most common, from peripheral venous emboli); chronic proximal thromboembolism (surgically treatable). CTEPH: organized clots in major pulmonary arteries; V/Q scan shows segmental defects; pulmonary thromboendarterectomy via median sternotomy with deep hypothermic circulatory arrest — mortality ~ 5%, dramatic hemodynamic improvement.
 * **Respiratory Disease:** COPD most common cause of cor pulmonale. Mechanisms: hypoxic vasoconstriction, vascular remodeling, loss of vascular bed. Therapy: supplemental oxygen (≥18 h/d, maintain PO₂ ≥60 mm Hg) — safest and most effective; vasodilators may worsen V/Q mismatch. Sleep apnea: CPAP improves oxygenation. Interstitial fibrosis: oxygen, immunosuppression, lung transplantation.
 
 ### Pulmonary Arterial Hypertension — Pathobiology and Clinical Features
@@ -40,7 +40,7 @@
 
 ### Diagnostic Evaluation and Vasoreactivity Testing
 * **Workup:** Exclude other causes via history, PFTs, serology (ANA, HIV), liver function, V/Q scan, echocardiography, right heart catheterization.
-* **Acute Vasoreactivity Testing:** Inhaled NO or IV epoprostenol during catheterization. Positive response: ≥10 mm Hg decrease in mPAP to <40 mm Hg with normal/increased CO. Only ~10% of IPAH patients are responders; rare in other PAH groups.
+* **Acute Vasoreactivity Testing:** Inhaled NO or IV epoprostenol during catheterization. Positive response: ≥10 mm Hg decrease in mPAP to <40 mm Hg with normal/increased CO. Only ~ 10% of IPAH patients are responders; rare in other PAH groups.
 * **Incidental PH:** Echo finding of elevated RVSP in asymptomatic patients — confirm with catheterization. Definition: mPAP ≥25 mm Hg; but RVSP >35–40 mm Hg may be normal in elderly/obese. Mild PH: RVSP 36–50 mm Hg or TRV 2.8–3.4 m/s; clinical significance unclear.
 
 ### Treatment of PAH — General Measures
@@ -54,7 +54,7 @@
   * **Treprostinil:** SC, IV, inhaled (4×/day), oral — longer half-life, FDA approved.
   * **Iloprost (inhaled):** 6–9×/day; approved for PAH.
 * **Endothelin Receptor Antagonists:**
-  * **Bosentan (dual ETA/ETB):** Oral twice daily; improves exercise and delays clinical worsening; monitor LFTs monthly (~5% transaminitis).
+  * **Bosentan (dual ETA/ETB):** Oral twice daily; improves exercise and delays clinical worsening; monitor LFTs monthly (~ 5% transaminitis).
   * **Ambrisentan (selective ETA):** Once daily; lower hepatic toxicity risk; FDA approved.
   * **Macitentan (dual):** Once daily; FDA approved; reduced morbidity/mortality in SERAPHIN trial.
 * **NO/cGMP Pathway:**
@@ -67,8 +67,8 @@
 
 ### Interventional and Surgical Therapy
 * **Atrial Septostomy:** For refractory RV failure/syncope; decompresses RV, improves systemic output. Creates right-to-left shunt → worsens hypoxemia; size carefully monitored.
-* **Lung Transplantation:** Single or double lung (heart-lung rarely needed). Operative mortality 15–30%; 1‑year survival 61–83%, 5‑year 38–49%, 10‑year ~25%. Timing critical; refer when failing medical therapy.
-* **Pulmonary Thromboendarterectomy:** For CTEPH with proximal clots; mortality ~5% in experienced centers; requires median sternotomy, deep hypothermic circulatory arrest. Lifelong anticoagulation post-op.
+* **Lung Transplantation:** Single or double lung (heart-lung rarely needed). Operative mortality 15–30%; 1‑year survival 61–83%, 5‑year 38–49%, 10‑year ~ 25%. Timing critical; refer when failing medical therapy.
+* **Pulmonary Thromboendarterectomy:** For CTEPH with proximal clots; mortality ~ 5% in experienced centers; requires median sternotomy, deep hypothermic circulatory arrest. Lifelong anticoagulation post-op.
 
 ### Disease Severity and Prognosis
 * **Prognostic Factors:** WHO FC, 6‑minute walk distance (<320 m poor), peak VO₂ (<10.4 mL/kg/min poor), BNP (>180 pg/mL), pericardial effusion (any size), RAP (>20 mm Hg), CI (<1.8 L/min/m²), PVR (>24 Wood units). No single factor sufficient; use multiple parameters.
@@ -173,7 +173,7 @@ Autonomic innervation of the pulmonary vascular tree plays a lesser role in modu
 
 #### TABLE 74–2: Values for Normal Pulmonary Circulation at Sea Level and High Altitude</summary><div class="details-content">
 
-| | Sea Level | Altitude (~15,000 ft) |
+| | Sea Level | Altitude (~ 15,000 ft) |
 |---------------------------------------------------------------------------|-----------|-----------------------|
 | Pulmonary arterial pressure (P<sub>PA</sub>), mm Hg | 20/12, 15 | 38/14, 25 |
 | Cardiac output (Q), L/min | 6 | 6 |

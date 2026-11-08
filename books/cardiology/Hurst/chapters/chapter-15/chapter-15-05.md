@@ -7,13 +7,13 @@
 ## Executive Summary</summary><div class="details-content">
 
 ### Epidemiology
-* **Global burden:** 35 million living with HIV/AIDS; 2 million new infections, 1.2 million AIDS-related deaths (2014). Global prevalence 0.8%. Sub-Saharan Africa carries ~2/3 of global burden.
+* **Global burden:** 35 million living with HIV/AIDS; 2 million new infections, 1.2 million AIDS-related deaths (2014). Global prevalence 0.8%. Sub-Saharan Africa carries ~ 2/3 of global burden.
 * **Transmission:** Sexual (heterosexual, MSM), parenteral (IVDU, blood products, occupational), vertical (mother-to-child). Heterosexual transmission now dominant in US/Europe.
 * **CDC Classification:** Category A (asymptomatic), B (symptomatic, non-AIDS-defining), C (AIDS-defining illnesses). Pericardial effusion and cardiomyopathy (CM) more common in Category C.
 
 ### Natural History and Biology
 * **HIV-1:** Single-stranded RNA retrovirus; targets CD4+ lymphocytes via gp120-CD4 binding. Progressive CD4+ depletion leads to opportunistic infections and malignancies.
-* **Viral dynamics:** Primary infection → peak viremia > 1 million copies/mL at 4–8 weeks, CD4+ falls to 300–400 cells/mm³. Without HAART, median survival ~10 years. HAART eliminates detectable viremia, transforming HIV into chronic disease.
+* **Viral dynamics:** Primary infection → peak viremia > 1 million copies/mL at 4–8 weeks, CD4+ falls to 300–400 cells/mm³. Without HAART, median survival ~ 10 years. HAART eliminates detectable viremia, transforming HIV into chronic disease.
 * **HAART regimens:** Typically 2 NRTIs + 1–2 PIs; newer regimens include integrase inhibitors and CYP3A inhibitors. Success of HAART has increased age-related illnesses (HANA – HIV-associated non-AIDS illnesses).
 
 ### Cardiovascular Assessment

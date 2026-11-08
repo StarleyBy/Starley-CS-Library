@@ -50,10 +50,10 @@
         "D": "Increased end diastolic pressure"
       },
       "optionsRu": {
-        "A": "Снижение систолического ударного объема (decreased systolic stroke volume)",
-        "B": "Снижение конечно-диастолического давления (decreased end diastolic pressure)",
-        "C": "Увеличение объема крови в систолу (increased blood volume in systole)",
-        "D": "Повышение конечно-диастолического давления (increased end diastolic pressure)"
+        "A": "Снижение систолического ударного объема",
+        "B": "Снижение конечно-диастолического давления",
+        "C": "Увеличение объема крови в систолу",
+        "D": "Повышение конечно-диастолического давления"
       },
       "correctAnswer": "D",
       "explanationEn": "🎯 <b>Correct answer: Option D: Increased end diastolic pressure.</b><br><br>🔵 <b>Detailed Rationale:</b><br>In severe acute aortic regurgitation (AR), the left ventricle (LV) is suddenly confronted with a massive volume of blood returning from the aorta during diastole. Unlike chronic AR, the ventricle has not had time to undergo compensatory remodeling (eccentric hypertrophy and increased compliance).<br><br>1️⃣ 📈 <b>Pressure Dynamics (Option D):</b> The ventricle is unable to dilate acutely to handle the sudden increase in regurgitant volume, which increases the LV end‐diastolic volume (LVEDV) and pressure (LVEDP), resulting in acute LV failure, cardiogenic shock, and pulmonary edema.<br>2️⃣ ⚠️ <b>Compliance and Tolerance:</b> Sudden volume overload in acute AR is poorly tolerated by the normally sized LV and this leads to a rapid rise in LV diastolic pressure and pulmonary edema. Because the LV is stiff and non-compliant, even a small increase in volume causes a disproportionately high spike in pressure.<br>3️⃣ 🛑 <b>Hemodynamic Consequences:</b> The rise in LVEDP is so extreme and rapid that it often exceeds the left atrial pressure in late diastole. This causes early closure of the mitral valve, which serves as a protective mechanism for the lungs but confirms the severity of the diastolic pressure overload.<br>4️⃣ ❌ <b>Evaluating Other Options:</b><br>• Option A: While <i>forward</i> (effective) stroke volume is reduced, the total <i>systolic</i> stroke volume (the amount ejected into the aorta) actually increases initially as the heart attempts to compensate via the Frank‑Starling mechanism.<br>• Option C: Blood volume increases during diastole (filling phase), not systole (emptying phase).<br><br>🧠 <b>Board Pearl:</b><br>On the exam, the hallmark of Acute AR is <span style=\"color: #00FF00;\"><b>High LVEDP + Normal LV size + Pulmonary Edema</b></span>. In Chronic AR, you see <span style=\"color: #00FF00;\"><b>Normal LVEDP + Massive LV Dilation + Wide Pulse Pressure</b></span>.",
@@ -152,8 +152,8 @@
       "optionsRu": {
         "A": "Увеличить output (выходной ток) до 20 мА.",
         "B": "Изменить режим на VOO.",
-        "C": "Уменьшить чувствительность (sensitivity) до 1 мВ.",
-        "D": "Увеличить чувствительность (sensitivity) до 12 мВ."
+        "C": "Уменьшить чувствительность до 1 мВ.",
+        "D": "Увеличить чувствительность до 12 мВ."
       },
       "correctAnswer": "C",
       "explanationEn": "🎯 <b>Correct answer: C. Decrease sensitivity to 1mV.</b><br><br>🔵 <b>Analysis of the Rhythm Strip</b><br>The monitor image shows **Ventricular Fibrillation (VF)** triggered by a pacemaker spike falling exactly on the T-wave of the patient's native rhythm. This is a classic example of the <b>R-on-T phenomenon</b>. Ventricular undersensing in critically ill patients can result in pacing during the vulnerable period, which can precipitate VT or fibrillation.<br><br>🔴 <b>The Problem: Undersensing</b><br>The pacemaker is in <b>VVI mode</b> (demand pacing). In this mode, the pacer should sense the patient's own electrical activity and <i>inhibit</i> its spike. Since the pacemaker fired a spike during the patient's own beat, it failed to \"see\" (sense) the R-wave. This is called <b>undersensing</b>.<br><br>🟣 <b>Pacemaker Parameter Logic</b><br>The sensitivity setting (measured in **mV**) is an electrical <b>threshold</b>. <br>• To make the pacemaker **more sensitive** (so it can detect smaller or native signals), you must **decrease the mV value** (lower the threshold).<br>• To make it **less sensitive**, you increase the mV value.<br>In this case, the pacemaker set at 6mV missed the native signal. To fix this, you must lower the threshold to <b>1mV</b> to ensure the pacer detects the patient's own rhythm and stays inhibited.<br><br>🟠 <b>Why the Other Answers Are Wrong</b><br>• <b>Option A</b>: Increasing the output (mA) increases the power of the spike but does not fix the <i>timing</i> or sensing problem.<br>• <b>Option B</b>: **VOO mode** is asynchronous pacing with <i>no sensing</i> at all. This would permanently cause R-on-T spikes and is extremely dangerous.<br>• <b>Option D</b>: Increasing the setting to 12mV would make the pacemaker even <i>less</i> sensitive, worsening the undersensing and the risk of further lethal arrhythmias.<br><br>🚨 <b>Clinical pearl</b><br>Always verify that the pacemaker is appropriately sensing the patient’s rhythm, as inappropriate sensing (undersensing) may trigger malignant ventricular arrhythmias.<br><br>✅ <b>Take-home message</b><br>In a patient with R-on-T spikes triggering VF, the underlying cause is undersensing. The solution is to <b>increase the device's sensitivity by lowering the mV threshold</b>.",
@@ -184,7 +184,7 @@
       },
       "optionsRu": {
         "A": "Охлаждение до снижения показателей NIRS вдвое по сравнению с исходным значением, затем DHCA.",
-        "B": "Охлаждение до уплощения волн (изоэлектрической линии) на ЭЭГ (EEG), затем DHCA.",
+        "B": "Охлаждение до уплощения волн (изоэлектрической линии) на ЭЭГ, затем DHCA.",
         "C": "Системное охлаждение до 15 градусов Цельсия, затем DHCA.",
         "D": "Системное охлаждение в течение 60 минут перед DHCA."
       },
@@ -220,7 +220,7 @@
       "optionsRu": {
         "A": "Обычно существует анатомическое сообщение между двумя структурами, отмеченными на изображениях А и В.",
         "B": "Анатомическая структура, указанная стрелкой на изображении А, обычно дренируется в левое предсердие.",
-        "C": "Также имеется небольшая плечеголовная вена (innominate vein), которую необходимо пережать во время искусственного кровообращения для предотвращения внутричерепной гипертензии.",
+        "C": "Также имеется небольшая плечеголовная вена, которую необходимо пережать во время искусственного кровообращения для предотвращения внутричерепной гипертензии.",
         "D": "Анатомическая структура, представленная на изображении А, встречается примерно у 40% населения в общей популяции."
       },
       "correctAnswer": "A",
@@ -254,9 +254,9 @@
       },
       "optionsRu": {
         "A": "При 5-летнем наблюдении АКШ (CABG) статистически значимо ассоциировалось с более высокой смертностью.",
-        "B": "При 5-летнем наблюдении ЧКВ (PCI) статистически значимо ассоциировалось с большей частотой инфаркта миокарда (Myocardial infarction).",
+        "B": "При 5-летнем наблюдении ЧКВ (PCI) статистически значимо ассоциировалось с большей частотой инфаркта миокарда.",
         "C": "При 5-летнем наблюдении ЧКВ (PCI) статистически значимо ассоциировалось с более высокой смертностью.",
-        "D": "При 5-летнем наблюдении АКШ (CABG) статистически значимо ассоциировалось с большей частотой инфаркта миокарда (Myocardial infarction)."
+        "D": "При 5-летнем наблюдении АКШ (CABG) статистически значимо ассоциировалось с большей частотой инфаркта миокарда."
       },
       "correctAnswer": "C",
       "explanationEn": "🎯 <b>Correct answer: C. At 5 years of follow-up, PCI was significantly associated with higher mortality.</b><br><br>🔵 <b>EXCEL Trial Findings (5-Year Results)</b><br>The EXCEL trial compared <b>CABG</b> to <b>PCI</b> with everolimus-eluting stents in 1905 patients with Left Main disease of low-to-intermediate complexity. The results published in <i>NEJM</i> at 5 years reported:<br>• <b>Primary Composite Endpoint</b> (Death, Stroke, or MI): There was <b>no significant difference</b> between PCI and CABG (22.0% vs. 19.2%; P = 0.13).<br>• <b>All-Cause Mortality (Death)</b>: Death from any cause occurred <mark style=\"background-color: #FFFF00\"><b>significantly more frequently in the PCI group</b></mark> than in the CABG group (13.0% vs. 9.9%; difference, 3.1 percentage points; 95% CI, 0.2 to 6.1).<br>• <b>Myocardial Infarction (MI)</b>: The total incidence of MI was <b>not significantly different</b> between the groups at 5 years (10.6% for PCI vs. 9.1% for CABG; difference, 1.4; 95% CI, -1.3 to 4.2).<br><br>🔴 <b>Why other options are wrong</b><br>🔸 <b>Option A</b>: Incorrect, as mortality was higher with <i>PCI</i>, not CABG.<br>🔸 <b>Options B and D</b>: While individual types of MI varied (PCI had fewer periprocedural MIs but more spontaneous MIs during follow-up), the <b>overall incidence of MI at 5 years was not statistically different</b> between the two groups.<br><br>🚨 <b>Clinical pearl</b><br>The EXCEL trial's mortality finding caused significant controversy. While the trial met its non-inferiority goal for the <i>composite</i> endpoint, the higher numerical and statistical rate of death in the PCI arm led some surgical societies (like EACTS) to reconsider their support for the joint guidelines.<br><br>✅ <b>Take-home message</b><br>In the 5-year follow-up of the EXCEL trial, although the primary endpoint was similar between groups, <b>all-cause mortality was significantly higher in patients treated with PCI</b>.",
@@ -348,7 +348,7 @@
         "D": "Limitation of physical activity."
       },
       "optionsRu": {
-        "A": "Устранение интрамурального сегмента (Unroofing of AAOCA).",
+        "A": "Устранение интрамурального сегмента.",
         "B": "Лечение бета-блокаторами.",
         "C": "Операция АКШ (CABG).",
         "D": "Ограничение физической активности."
@@ -445,7 +445,7 @@
         "D": "Surgical scar from interatrial septum defect closure."
       },
       "optionsRu": {
-        "A": "Наличие нереконструированного частичного аномального дренажа легочных вен (unrepaired partial anomalous pulmonary vein return).",
+        "A": "Наличие нереконструированного частичного аномального дренажа легочных вен.",
         "B": "Легочная гипертензия с детства.",
         "C": "Пароксизмальное трепетание предсердий.",
         "D": "Послеоперационный рубец от зашивания дефекта межпредсердной перегородки."
@@ -512,8 +512,8 @@
         "D": "Left vocal cord paralysis"
       },
       "optionsRu": {
-        "A": "Хилоторакс (chylothorax)",
-        "B": "Пневмоторакс (pneumothorax)",
+        "A": "Хилоторакс",
+        "B": "Пневмоторакс",
         "C": "Паралич левого купола диафрагмы",
         "D": "Паралич левой голосовой связки"
       },
@@ -576,9 +576,9 @@
         "D": "Fever."
       },
       "optionsRu": {
-        "A": "Иммунологические феномены — гломерулонефрит, узелки Ослера (OSLER NODES), пятна Рота (ROTH SPOTS).",
+        "A": "Иммунологические феномены — гломерулонефрит, узелки Ослера, пятна Рота.",
         "B": "Положительные посевы крови с ростом организма, заведомо вызывающего эндокардит, минимум в двух культурах.",
-        "C": "Сосудистые феномены — артериальные эмболы, микотическая аневризма, внутричерепное кровоизлияние, пятна Жаневе (JANEWAY).",
+        "C": "Сосудистые феномены — артериальные эмболы, микотическая аневризма, внутричерепное кровоизлияние, пятна Жаневе.",
         "D": "Лихорадка."
       },
       "correctAnswer": "B",
@@ -641,7 +641,7 @@
         "D": "Cooling to 20 degrees Celsius."
       },
       "optionsRu": {
-        "A": "Введение канюли в ВПВ (SVC) для ретроградной церебральной перфузии.",
+        "A": "Введение канюли в ВПВ для ретроградной церебральной перфузии.",
         "B": "Увеличение скорости селективного потока до 1 литра в минуту.",
         "C": "Установка дополнительной канюли в левую сонную артерию.",
         "D": "Охлаждение до 20 градусов Цельсия."
@@ -675,7 +675,7 @@
         "D": "Bypass surgery and mitral valve repair with a rigid annuloplasty ring."
       },
       "optionsRu": {
-        "A": "Чрескожное вмешательство (ЧКВ / PCI) для открытия ствола левой коронарной артерии (Left main) и в дальнейшем MITRAL CLIP во время госпитализации.",
+        "A": "Чрескожное вмешательство (ЧКВ / PCI) для открытия ствола левой коронарной артерии и в дальнейшем MITRAL CLIP во время госпитализации.",
         "B": "Чрескожное вмешательство с баллонной ангиопластикой LEFT MAIN, АКШ (коронарное шунтирование) и протезирование митрального клапана биологическим протезом.",
         "C": "АКШ (коронарное шунтирование) и протезирование митрального клапана биологическим протезом.",
         "D": "АКШ (коронарное шунтирование) и пластика митрального клапана жестким аннулопластическим кольцом."
@@ -746,7 +746,7 @@
         "A": "Функциональный класс по NYHA.",
         "B": "Возраст пациента на момент трансплантации сердца и легких.",
         "C": "Гипертрофия правого желудочка.",
-        "D": "Лечение вазодилататорами легочных артерий (pulmonary vasodilators)."
+        "D": "Лечение вазодилататорами легочных артерий."
       },
       "correctAnswer": "A",
       "explanationEn": "🎯 <b>Correct answer: A. Functional class - NYHA.</b><br><br>🔵 <b>Analysis of Predictors in Eisenmenger Syndrome</b><br>Eisenmenger syndrome is the end-stage of congenital heart disease with a left-to-right shunt, leading to irreversible pulmonary arterial hypertension (PAH) and shunt reversal (cyanosis). The time course of deterioration in this condition is generally slow, but <b>poor functional status</b> is explicitly identified as an <b>important predictor of mortality</b>. Functional status is clinically quantified using the <b>NYHA (New York Heart Association)</b> classification.<br><br>🔴 <b>Why Option A is Correct</b><br>Poor functional status is an important predictor of mortality, as are serologic evidence of low systemic organ perfusion, worsening hypoxemia, and LV systemic dysfunction. Among the given options, the NYHA functional class is the most direct measure of this status and is widely recognized as a key prognostic marker in adult congenital heart disease (ACHD) and PAH.<br><br>❌ <b>Why other options are wrong</b><br>• <b>Option B (Age at transplant)</b>: While age is a factor in many survival models, the primary survival benefit and timing for transplantation in Eisenmenger patients are based on functional decline rather than a specific age threshold.<br>• <b>Option C (RV Hypertrophy)</b>: RV hypertrophy is a pathophysiological consequence of PAH in Eisenmenger syndrome, and while right heart failure is an inevitable mode of death, hypertrophy itself is not listed as the <i>strongest</i> predictor of mortality.<br>• <b>Option D (Pulmonary Vasodilators)</b>: Treatment with vasodilators is a <i>therapeutic intervention</i> aimed at improving survival and functional class; while it reflects the severity of the disease, the medication itself is not a predictor of mortality, whereas the <i>response</i> or the patient's baseline <i>functional class</i> is.<br><br>🚨 <b>Clinical pearl</b><br>Eisenmenger patients often have a more favorable survival compared to patients with idiopathic PAH, but once they reach NYHA class III or IV, their prognosis worsens significantly, making functional assessment crucial for transplant referral.<br><br>✅ <b>Take-home message</b><br>In patients with Eisenmenger syndrome, <b>NYHA functional class</b> is the most important clinical predictor of mortality and guides the timing for advanced interventions like heart-lung transplantation.",
@@ -776,10 +776,10 @@
         "D": "The patient has PSEUDOSEVERE LOW GRADIENT AS, and therefore there is no place for intervention."
       },
       "optionsRu": {
-        "A": "У пациентки истинный аортальный стеноз с низким градиентом (TRUE LOW GRADIENT AS), и, несмотря на повышенный хирургический риск, показано вмешательство.",
-        "B": "У пациентки парадоксальный аортальный стеноз с низким градиентом (PARADOXICAL LOW GRADIENT AS), и поэтому проведение операции не показано.",
-        "C": "У пациентки вообще нет тяжелого аортального стеноза (SEVERE AS), и поэтому она не соответствует критериям для вмешательства.",
-        "D": "У пациентки псевдотяжелый аортальный стеноз с низким градиентом (PSEUDOSEVERE LOW GRADIENT AS), и поэтому проведение вмешательства не показано."
+        "A": "У пациентки истинный аортальный стеноз с низким градиентом, и, несмотря на повышенный хирургический риск, показано вмешательство.",
+        "B": "У пациентки парадоксальный аортальный стеноз с низким градиентом, и поэтому проведение операции не показано.",
+        "C": "У пациентки вообще нет тяжелого аортального стеноза, и поэтому она не соответствует критериям для вмешательства.",
+        "D": "У пациентки псевдотяжелый аортальный стеноз с низким градиентом, и поэтому проведение вмешательства не показано."
       },
       "correctAnswer": "A",
       "explanationEn": "🎯 <b>Correct answer: A. The patient has TRUE LOW GRADIENT AS, and despite the increased surgical risk, intervention is indicated.</b><br><br>🔵 <b>Initial Findings: Low-Flow Low-Gradient (LFLG) AS</b><br>The patient presents with discordant echocardiographic findings: an AVA < 1.0 cm² (suggestive of severe AS) but a mean gradient < 40 mmHg (suggestive of moderate AS). This pattern typically defines Stage D2 (symptomatic severe AS with reduced EF) or a low-flow state.<br><br>🔴 <b>Interpreting the Dobutamine Stress Echo (DSE)</b><br>The purpose of DSE in this setting is to differentiate between True Severe AS and Pseudo-severe AS.<br>• <b>True Severe AS</b>: If dobutamine increases flow and the mean gradient rises to ≥40 mmHg while the AVA remains ≤1.0 cm², the stenosis is fixed and hemodynamically significant.<br>• <b>Pseudo-severe AS</b>: If the AVA increases to >1.0 cm² and the gradient remains low, the valve only appeared stenotic because the heart was too weak to open it fully.<br>Since this patient's gradient rose from 30 to 45 mmHg, the diagnosis of <mark style=\"background-color: #FFFF00\"><b>True Low-Gradient AS</b> is confirmed</mark>.<br><br>🟣 <b>Clinical Benefit vs. Risk</b><br>While patients with LGAS are a high-risk population with higher operative mortality, they experience a significant survival benefit from valve replacement (SAVR or TAVR) compared to medical management alone. Surgery is indicated because it improves the poor natural history of untreated AS.<br><br>❌ <b>Why other options are wrong</b><br>• <b>Option B (Paradoxical)</b>: Paradoxical LGAS (Stage D3) occurs with normal EF and a small, hypertrophied LV.<br>• <b>Option C (Not severe)</b>: The rise in gradient to 45 mmHg explicitly meets the criteria for severe AS under stress.<br>• <b>Option D (Pseudosevere)</b>: This is ruled out because the gradient rose above the 40 mmHg threshold, indicating a fixed mechanical obstruction.<br><br>✅ <b>Take-home message</b><br>A mean gradient increase to ≥40 mmHg during DSE confirms True Severe AS. Despite higher surgical risks in this cohort, intervention is the recommended treatment to improve survival.",
@@ -949,10 +949,10 @@
         "D": "DOUBLE INLET LEFT VENTRICLE"
       },
       "optionsRu": {
-        "A": "Тотальный аномальный дренаж легочных вен (TAPVC / TAPVR)",
-        "B": "Несбалансированный АВ-канал (UNBALANCED AVSD)",
-        "C": "Атрезия трикуспидального клапана (TRICUSPID ATRESIA)",
-        "D": "Двойной приток левого желудочка (DOUBLED INLET LEFT VENTRICLE)"
+        "A": "Тотальный аномальный дренаж легочных вен",
+        "B": "Несбалансированный АВ-канал",
+        "C": "Атрезия трикуспидального клапана",
+        "D": "Двойной приток левого желудочка"
       },
       "correctAnswer": "A",
       "explanationEn": "🎯 <b>Correct answer: Option A: TOTAL ANOMALOUS PULMONARY VENOUS CONNECTION (TAPVC).</b><br><br>🔵 <b>Detailed Rationale:</b><br>The ❌<b>Fontan procedure</b>❌ and its staged modifications (Glenn, Hemi-Fontan) are specifically designed for 💠<b>functional single ventricle</b>💠 physiology, where the heart cannot support a two-ventricle circulation.<br><br>1️⃣ 🏆 <b>Lesions Suitable for Fontan (Options B, C, D):</b> According to Kirklin 5th Ed, the Fontan pathway is the definitive treatment for conditions that result in univentricular physiology:<br>• 💠<b>Tricuspid Atresia (Option C):</b>💠 The classic lesion for which Fontan and Baudet originally developed the procedure.<br>• 💠<b>Double Inlet Left Ventricle (Option D):</b>💠 A major category of univentricular AV connection requiring Fontan palliation.<br>• 💠<b>Unbalanced AVSD (Option B):</b>💠 This lesion features severe ventricular size discrepancy where one ventricle is too small to support systemic or pulmonary circulation, necessitating a single-ventricle Fontan strategy.<br>2️⃣ ⚖️ <b>The Exception - TAPVC (Option A):</b> Isolated ❌<b>Total Anomalous Pulmonary Venous Connection (TAPVC)</b>❌ is fundamentally a 💠<b>biventricular defect</b>💠. In this condition, both ventricles are typically well-formed, but the pulmonary veins drain abnormally to the right heart. According to Kirklin, the standard surgical treatment is a 💠<b>biventricular repair</b>💠 (anastomosing the pulmonary venous confluence back to the left atrium), not a single-ventricle Fontan pathway. While TAPVC can be associated with single-ventricle syndromes (like heterotaxy), TAPVC itself is not a lesion destined for the Fontan repair by definition.<br>3️⃣ 📜 <b>Official Context:</b> The June 2022 Israeli Board Exam confirms Option A as the correct answer for the child *not* suitable for a Fontan stage repair.<br><br>🧠 <b>Board Pearl:</b><br>On the exam, to distinguish between <b>Fontan vs. Biventricular</b>, ask: \"Do we have two working pumps?\" For <span style=\"color: #00FF00;\"><b>Tricuspid Atresia, DILV, and HLHS</b></span>, the answer is No (Fontan). For <span style=\"background-color: #FFFF00; color: #000000;\"><b>TAPVC</b></span>, the answer is Yes (Biventricular Fix).",
@@ -1050,7 +1050,7 @@
         "A": "Кровоток в правой коронарной артерии относительно постоянный на протяжении всего сердечного цикла",
         "B": "Субэндокардиальная зона получает кровоснабжение в основном непосредственно во время систолы за счет сокращения левого желудочка",
         "C": "Субэпикардиальная зона получает кровоснабжение только во время систолы",
-        "D": "В левой коронарной системе кровоток является фазным (Phasic), при этом основной компонент приходится на систолу"
+        "D": "В левой коронарной системе кровоток является фазным, при этом основной компонент приходится на систолу"
       },
       "correctAnswer": "A",
       "explanationEn": "🎯 <b>Correct answer: Option A: Blood flow in the right coronary artery is relatively constant throughout the cardiac cycle.</b><br><br>🔵 <b>Detailed Rationale:</b><br>Coronary blood flow is governed by the relationship between aortic pressure and intramyocardial resistance, which varies significantly between the left and right sides of the heart.<br><br>1️⃣ 🩺 <b>Right Coronary Flow (Option A):</b> Blood flow in the ❌<b>right coronary artery (RCA)</b>❌ is 💠<b>relatively constant</b>💠 during the cardiac cycle. This constancy is due to the ❌<b>lower intramural pressures</b>❌ generated by the right ventricle (a low-pressure pump) and the 💠<b>near absence of extravascular compressive forces</b>💠 compared to the left ventricle.<br>2️⃣ 📉 <b>Left Coronary Flow (Option D):</b> In the left system, flow is ❌<b>phasic</b>❌. However, contrary to Option D, the 💠<b>main component occurs during diastole</b>💠. During systole, the high pressure generated by the left ventricle compresses intramyocardial vessels, causing a massive ❌<b>drop in flow</b>❌ (as shown in the Wiggers diagram).<br>3️⃣ 🩸 <b>Subendocardial Perfusion (Option B):</b> The subendocardium is ❌<b>hypoperfused during systole</b>❌ because intramyocardial tension at this depth equals or exceeds intracavitary pressure. It receives blood supply 💠<b>almost exclusively during diastole</b>💠.<br>4️⃣ 🛡️ <b>Subepicardial Perfusion (Option C):</b> The subepicardium is less affected by systolic compression. This zone is perfused during ❌<b>both systole and diastole</b>❌, not just systole.<br><br>🧠 <b>Board Pearl:</b><br>On the exam, remember: <span style=\"color: #00FF00;\"><b>LV = Diastolic Pump</b></span> (it only feeds itself when relaxed) and <span style=\"color: #00FF00;\"><b>RV = Continuous Pump</b></span> (it feeds itself all the time). This is why the RCA is more resistant to occlusion during tachycardia (which shortens diastole) than the LCA. (Confirmed by June 2022 Israeli Board Exam, Q139).",
@@ -1081,10 +1081,10 @@
         "D": "Loeys-Dietz syndrome"
       },
       "optionsRu": {
-        "A": "Синдром Клайнфельтера (Kleinfelter syndrome)",
-        "B": "Синдром Такаясу (Takayasu syndrome)",
-        "C": "Синдром Марфана (Marfan's syndrome)",
-        "D": "Синдром Лоеса-Дитца (Loeys-Dietz syndrome)"
+        "A": "Синдром Клайнфельтера",
+        "B": "Синдром Такаясу",
+        "C": "Синдром Марфана",
+        "D": "Синдром Лоеса-Дитца"
       },
       "correctAnswer": "B",
       "explanationEn": "🎯 <b>Correct answer: B. Takayasu syndrome</b><br><br>🔵 <b>Pathophysiology and Imaging Analysis</b><br><b>Takayasu Arteritis</b> is a chronic, granulomatous <span style=\"color: red;\"><b>inflammatory vasculitis</b></span> that primarily affects the aorta and its major branches. While it is classically known for causing stenotic (narrowing) lesions, <b>aneurysmal dilation</b> occurs in up to 25% of patients. In this patient, the 3D CT reconstruction demonstrates <b>Type V Takayasu Arteritis</b>, which involves the entire aorta, including the root and ascending portion. The key radiological feature distinguishing this from genetic syndromes is the <mark style=\"background-color: #FFFF00\"><b>diffuse mural thickening</b></mark> of the aortic wall and the <span style=\"color: red;\"><b>irregularity/narrowing at the origins of the arch vessels</b></span> (brachiocephalic and carotid arteries), which are hallmark signs of inflammatory aortitis.<br><br>🔴 <b>Why other options are incorrect</b><br>• <b>Option C (Marfan's)</b>: Characterized by <span style=\"color: blue;\">annuloaortic ectasia</span> with a very <b>thin</b>, degenerated aortic wall and a classic \"pear-shape.\" It typically does not involve the ostial narrowing of arch vessels seen in this image.<br>• <b>Option D (Loeys-Dietz)</b>: While it causes aggressive root aneurysms, its radiological signature is <span style=\"color: blue;\"><b>generalized arterial tortuosity</b></span> (corkscrew-like vessels), which is not the primary finding here.<br>• <b>Option A (Kleinfelter)</b>: This is a chromosomal abnormality (47,XXY). Its cardiovascular manifestations are primarily <mark style=\"background-color: #ADD8E6\"><b>venous thromboembolic events (VTE)</b></mark>, such as deep vein thrombosis and pulmonary embolism, as well as an increased risk of <b>mitral valve prolapse</b> and <b>metabolic syndrome</b>. It is <b>not</b> typically associated with aortic root aneurysms.<br><br>🚨 <b>Clinical significance</b><br>In a middle-aged patient with root dilation and dyspnea (likely from secondary <b>aortic insufficiency</b>), the presence of branch vessel irregularity on CT should immediately point toward an inflammatory etiology like Takayasu syndrome.<br><br>✅ <b>Take-home message</b><br>An aortic root aneurysm accompanied by mural thickening and arch vessel involvement is pathognomonic for <b>Takayasu Arteritis</b>.",
@@ -1116,7 +1116,7 @@
       "optionsRu": {
         "A": "Основной вклад в изгнание правого желудочка вносит межжелудочковая перегородка.",
         "B": "Стенка правого желудочка тоньше, чем у левого желудочка, а его масса составляет четверть массы левого желудочка.",
-        "C": "Конечно-диастолический объем (EDV) правого желудочка меньше, чем у левого желудочка.",
+        "C": "Конечно-диастолический объем правого желудочка меньше, чем у левого желудочка.",
         "D": "Фракция выброса правого желудочка меньше, чем у левого желудочка."
       },
       "correctAnswer": "B",
@@ -1148,8 +1148,8 @@
       "optionsRu": {
         "A": "Образование тромбов обусловлено активацией тромбоцитов комплексом HITT (ГИТТ) и активацией каскада свертывания крови.",
         "B": "Внутриартериальное и венозное тромбообразование обусловлено преципитатами гепарина и тромбоцитов.",
-        "C": "Подозрение на HITT должно возникать только у пациентов с уровнем тромбоцитов (PLT) ниже 100 000.",
-        "D": "Между тестом высвобождения серотонина (serotonin release test) и ИФА (ELISA) нет разницы для диагностики."
+        "C": "Подозрение на HITT должно возникать только у пациентов с уровнем тромбоцитов ниже 100 000.",
+        "D": "Между тестом высвобождения серотонина и ИФА нет разницы для диагностики."
       },
       "correctAnswer": "A",
       "explanationEn": "🎯 <b>Correct answer: A. Clot formation stems from platelet activation by the HITT Complex and activation of the coagulation cascade mechanism.</b><br><br>🔵 <b>Pathophysiology of HITT</b><br>Heparin-induced thrombocytopenia and thrombosis (HITT) is an immune-mediated prothrombotic condition. The process begins when heparin binds to <b>platelet factor 4 (PF4)</b>, forming an antigenic <b>H-PF4 complex</b>. IgG antibodies are then produced against this complex. The resulting <b>HIT immune complexes</b> bind to the <mark style=\"background-color: #FFFF00\"><b>FcγRIIa receptors on platelets</b></mark>, causing massive <b>platelet activation</b>.<br><br>🔴 <b>The Link to the Coagulation Cascade</b><br>Activated platelets release procoagulant microparticles and proteins (such as factor V and fibrinogen) from their granules. This release, combined with endothelial cell damage and tissue factor expression, <mark style=\"background-color: #FFFF00\"><b>activates the coagulation cascade</b></mark>, leading to robust <b>thrombin generation</b>. This excessive thrombin is what ultimately drives the formation of arterial and venous clots, confirming Option A as the correct physiological description.<br><br>❌ <b>Why the Other Answers Are Wrong</b><br>🔸 <b>Option B</b>: Incorrect. HITT is not a simple mechanical \"precipitation\" (settling out of solution) of heparin and platelets. It is a complex, active biological response involving antibodies, cellular receptors, and enzymatic cascades.<br>🔸 <b>Option C</b>: Incorrect. Clinical suspicion of HIT/HITT is based on the <b>relative drop</b> in platelet count rather than an absolute threshold. A fall of >50% from baseline (even if the count remains above 100,000/μL) is the primary diagnostic trigger.<br>🔸 <b>Option D</b>: Incorrect. There is a critical difference: <b>ELISA</b> is highly sensitive but has lower specificity (detecting non-pathogenic antibodies), whereas the <b>Serotonin Release Assay (SRA)</b> is a functional assay with <span style=\"color: green;\">high specificity</span>, confirming the diagnosis by showing that the antibodies actually activate platelets in vitro.<br><br>🚨 <b>Clinical significance</b><br>HITT is a \"prothrombotic storm.\" Unlike most types of thrombocytopenia which cause bleeding, HITT's main danger is <b>catastrophic thrombosis</b>. Therefore, platelet transfusions are generally contraindicated as they \"add fuel to the fire\" by providing more PF4.<br><br>✅ <b>Take-home message</b><br>HITT is driven by <b>IgG-mediated platelet activation</b> which subsequently triggers the <b>coagulation cascade</b>, resulting in systemic thrombin generation and widespread thrombosis.",
@@ -1315,10 +1315,10 @@
         "D": "Innominate (brachiocephalic) artery cannulation."
       },
       "optionsRu": {
-        "A": "Канюляция правой подмышечной артерии (right axillary).",
-        "B": "Канюляция восходящей аорты (ascending).",
-        "C": "Канюляция бедренной артерии (femoral).",
-        "D": "Канюляция плечеголовного ствола (innominate)."
+        "A": "Канюляция правой подмышечной артерии.",
+        "B": "Канюляция восходящей аорты.",
+        "C": "Канюляция бедренной артерии.",
+        "D": "Канюляция плечеголовного ствола."
       },
       "correctAnswer": "B",
       "explanationEn": "🎯 **Correct answer: B. Ascending aorta cannulation.**\n\n🔵 **Technical Requirement for Central Cannulation**\nIn the surgical repair of **acute Type A aortic dissection**, the most critical goal of arterial cannulation is to ensure that oxygenated blood is delivered into the **true lumen**. When a surgeon chooses **direct (central) ascending aortic cannulation** in a dissected aorta, it **strictly requires guidance by transesophageal echocardiography (TEE)**.\n\n🔴 **The Role of TEE**\nBecause the ascending aorta is already delaminated, blindly inserting a cannula could lead to perfusion of the **false lumen**, which can cause catastrophic malperfusion, retrograde extension of the dissection, or aortic rupture. TEE is essential to:\n1. **Identify the true lumen** with certainty.\n2. **Verify correct wire placement** using the Seldinger technique.\n3. **Confirm adequate flow** in the true lumen immediately after starting cardiopulmonary bypass.\n\n❌ **Why the Other Answers Are Wrong**\n• **Option A (Right Axillary)**: While commonly used and often monitored via TEE, axillary cannulation is typically performed under direct vision or via a side-graft (\"chimney\"). It does not \"strictly require\" TEE to locate the lumen in the same way central aortic cannulation does.\n• **Option C (Femoral)**: Historically the site of choice. TEE is often used to monitor retrograde flow or assist in positioning venous catheters, but the arterial cannulation itself is a peripheral procedure performed via cutdown or direct vision, not dependent on TEE for initial lumen access.\n• **Option D (Innominate)**: Similar to the axillary artery, this is usually performed via a graft or direct cannulation under direct vision, rather than being guided by intra-aortic ultrasound imaging.\n\n📚 **Board Pearl**\nIn exams, when **central aortic cannulation** is mentioned in the context of **dissection**, the phrase **\"over a wire under TEE guidance\"** is the hallmark of the technique (also known as the modified Seldinger or \"UVa\" technique).\n\n✅ **Take-home message**\nDirect cannulation of a dissected ascending aorta is only safe when **TEE** is used to confirm that the cannula is positioned within the **true lumen**.",
@@ -1383,9 +1383,9 @@
       },
       "optionsRu": {
         "A": "Назначение терапии диуретиками.",
-        "B": "Перикардэктомия (Pericardiectomy).",
-        "C": "Медиастиноскопия (Mediastinoscopy).",
-        "D": "Биопсия перикарда (Pericardial biopsy)."
+        "B": "Перикардэктомия.",
+        "C": "Медиастиноскопия.",
+        "D": "Биопсия перикарда."
       },
       "correctAnswer": "B",
       "explanationEn": "🎯 Correct answer: B. Pericardiectomy.\n\n🔵 Definitive Diagnosis\nThe CT scan reveals a pathognomonic finding for chronic constrictive pericarditis: a thick, circumferential ring of calcification surrounding the heart (often referred to as a \"porcelain heart\"). In the clinical setting of progressive fatigue, dyspnea, and peripheral edema, this radiological evidence confirms that the pericardium has become a rigid shell, preventing normal diastolic filling.\n\n🔴 The Surgical \"Next Step\"\nWhile diuretics (Option A) can provide temporary symptomatic relief by reducing volume overload, they do not address the underlying mechanical pathology. Pericardiectomy is the only definitive treatment for symptomatic constrictive pericarditis. Once the diagnosis is clearly established by CT imaging and clinical symptoms, the prioritized 'next step' in a surgical context is proceeding to the definitive operation to remove the restrictive calcified shell.\n\n❌ Why other options are wrong\n• Option A (Diuretics): These are palliative and used for stabilization, but they are not the definitive 'next step' once a clear mechanical indication for surgery is found on CT.\n• Option C (Mediastinoscopy): This is an extracardiac procedure for lymph node assessment and is irrelevant to pericardial disease.\n• Option D (Pericardial biopsy): Biopsy is indicated for effusions or thickening of unknown etiology. In this case, the dense calcification on CT is diagnostic of chronic constriction, making a biopsy unnecessary and potentially hazardous.\n\n✅ Take-home message\nIn a patient with symptomatic calcific constrictive pericarditis, the definitive management is pericardiectomy to restore normal cardiac hemodynamics.",
@@ -1415,8 +1415,8 @@
       },
       "optionsRu": {
         "A": "PCO2 в артериальной крови определяется уровнем бикарбоната в крови",
-        "B": "PCO2 в артериальной крови определяется скоростью газового потока (Gas flow rate)",
-        "C": "PO2 в артериальной крови определяется скоростью газового потока (Gas flow rate)",
+        "B": "PCO2 в артериальной крови определяется скоростью газового потока",
+        "C": "PO2 в артериальной крови определяется скоростью газового потока",
         "D": "Скорость элиминации CO2 при ИК составляет 200 см³/мин при скорости потока от 1 до 7 л/мин"
       },
       "correctAnswer": "B",
@@ -1444,10 +1444,10 @@
         "D": "improved safety of warmer core temperatures"
       },
       "optionsRu": {
-        "A": "Сниженная сложность операции (reduced complexity of the surgery)",
-        "B": "Удаление детрита и воздуха из мозгового кровообращения (removal of debris and air from cerebral circulation)",
-        "C": "Улучшенная доставка питательных веществ и кислорода в головной мозг (improved delivery of nutrients and oxygen to the brain)",
-        "D": "Повышенная безопасность при более высоких значениях температуры тела (improved safety of warmer core temperatures)"
+        "A": "Сниженная сложность операции",
+        "B": "Удаление детрита и воздуха из мозгового кровообращения",
+        "C": "Улучшенная доставка питательных веществ и кислорода в головной мозг",
+        "D": "Повышенная безопасность при более высоких значениях температуры тела"
       },
       "correctAnswer": "B",
       "explanationEn": "🎯 <b>Correct answer: B. removal of debris and air from cerebral circulation</b><br><br>🔵 <b>The Mechanism of RCP</b><br>Retrograde cerebral perfusion (RCP) involves the infusion of oxygenated, cold blood into the <b>superior vena cava (SVC)</b>, which then flows backward through the jugular veins into the cerebral circulation. According to the sources, a primary and unique advantage of this technique is its ability to <mark style=\"background-color: #FFFF00\"><b>flush embolic material</b></mark> (both gaseous and particulate) and <b>atherosclerotic debris</b> out of the brachiocephalic vessels and away from the brain.<br><br>🔴 <b>Comparison with Antegrade Selective Perfusion (ACP)</b><br>• <b>Nutrient Delivery:</b> Unlike ACP, which provides physiologic flow and adequate oxygen/metabolic support, RCP is generally <span style=\"color: red;\"><b>not effective in providing nutrients</b></span> to the brain; its primary neuroprotective role is maintaining cerebral hypothermia.<br>• <b>Safety and Temperature:</b> ACP allows the surgeon to perform arch reconstruction at <span style=\"color: green;\"><b>moderate or mild hypothermia</b></span> (21–34°C) because it guarantees cerebral perfusion. In contrast, RCP is typically carried out during <b>deep or profound hypothermia</b> (<20°C) to ensure metabolic suppression.<br><br>❌ <b>Why other options are wrong</b><br>• <b>Option A:</b> While RCP is technically simpler to set up than dual-cannulation ACP, the <i>primary surgical and physiological advantage</i> cited in clinical textbooks is the embolic flush.<br>• <b>Option C:</b> This describes an advantage of <b>ACP</b>, which provides significantly better capillary blood flow and metabolic support.<br>• <b>Option D:</b> This is also an advantage of <b>ACP</b>; RCP requires deeper cooling because its ability to provide oxygen is limited.<br><br>✅ <b>Take-home message</b><br>While ACP is the contemporary gold standard for metabolic protection, <b>RCP</b> remains a valuable adjunct due to its ability to <b>flush debris and air</b> from the cerebral circulation, potentially reducing the risk of embolic stroke during arch reconstruction.",
@@ -1477,10 +1477,10 @@
         "D": "LATE DIASTOLE"
       },
       "optionsRu": {
-        "A": "Середина систолы (MID SYSTOLE)",
-        "B": "Конец систолы (LATE SYSTOLE)",
-        "C": "Середина диастолы (MID DIASTOLE)",
-        "D": "Конец диастолы (LATE DIASTOLE)"
+        "A": "Середина систолы",
+        "B": "Конец систолы",
+        "C": "Середина диастолы",
+        "D": "Конец диастолы"
       },
       "correctAnswer": "A",
       "explanationEn": "🎯 <b>Correct answer: A. MID SYSTOLE</b><br><br>🔵 <b>Physiological Dynamics of the Mitral Annulus</b><br>According to the sources, specifically <i>Cardiac Surgery in the Adult</i>, the mitral valve area (referring to the <b>annular area</b>) is not a static measurement but varies significantly throughout the cardiac cycle. The annulus is a dynamic structure composed of both fibrous and muscular tissue.<br><br>🔴 <b>Timing of Minimal Area</b><br>The source states that the annular area varies by 20% to 40% during the cardiac cycle. The specific timing of these changes is as follows:<br>• <b>Maximal Area:</b> Occurs in <span style=\"color: blue;\"><b>late diastole</b></span>.<br>• <b>Decrease:</b> One-half to two-thirds of the total decrease occurs during atrial contraction (presystole).<br>• <b>Minimal Area:</b> The source explicitly confirms that <mark style=\"background-color: #FFFF00\"><b>\"Annular area decreases further... to a minimum in early to midsystole\"</b></mark>.<br><br>🟣 <b>Mechanisms</b><br>This reduction in area is driven by both left atrial and left ventricular contraction, size, and pressure changes. During <span style=\"color: red;\"><b>mid-systole</b></span>, the posterolateral muscular portion of the annulus contracts, which asymmetrically reduces the orifice area and supports leaflet coaptation against high ventricular pressures.<br><br>❌ <b>Why other options are incorrect</b><br>• <b>Option B (Late Systole):</b> Annular size actually <b>increases</b> beginning in late systole and continues through isovolumic relaxation.<br>• <b>Option C (Mid Diastole):</b> During this phase, the valve is open for ventricular filling, and the annular dimensions are expanding toward their maximum.<br>• <b>Option D (Late Diastole):</b> This is the phase of <b>maximal</b>, not minimal, annular area.<br><br>✅ <b>Take-home message</b><br>The dynamic contraction of the mitral annulus reaches its <b>minimum area during early to mid-systole</b> to facilitate optimal leaflet coaptation.",
@@ -1547,7 +1547,7 @@
       "optionsRu": {
         "A": "Тромболитическая терапия.",
         "B": "Повторная операция по замене протеза клапана.",
-        "C": "Внутривенное введение гепарина и двойная антиагрегантная терапия (dual antiplatelet).",
+        "C": "Внутривенное введение гепарина и двойная антиагрегантная терапия.",
         "D": "Внутривенное введение гепарина с переходом на пожизненный прием кумадина (варфарина)."
       },
       "correctAnswer": "D",
@@ -1613,7 +1613,7 @@
       },
       "optionsRu": {
         "A": "Эндокардит протеза аортального клапана.",
-        "B": "Расслоение аорты типа А (type A).",
+        "B": "Расслоение аорты типа А.",
         "C": "Двусторонняя эмпиема.",
         "D": "Инфицированная ложная аневризма (ложная аневризма с инфекцией)."
       },
@@ -1739,7 +1739,7 @@
         "D": "Lower incidence of the need for defibrillation."
       },
       "optionsRu": {
-        "A": "Более низкая частота инфаркта миокарда в периоперационном периоде (PERIOPERATIVE MI).",
+        "A": "Более низкая частота инфаркта миокарда в периоперационном периоде.",
         "B": "Более низкая частота назначения компонентов крови в периоперационном периоде.",
         "C": "Более низкая частота послеоперационной фибрилляции предсердий.",
         "D": "Более низкая частота необходимости в дефибрилляции."
@@ -1771,10 +1771,10 @@
         "D": "ROOT REPLACEMENT AND MECHANICAL AVR surgery."
       },
       "optionsRu": {
-        "A": "Операция с сохранением клапана по методу ремоделирования корня аорты (VALVE SPARING ROOT REMODELING - YACOUB).",
-        "B": "Операция с сохранением клапана по методу реимплантации (VALVE SPARING ROOT REPLACEMENT REIMPLANTATION - DAVID).",
+        "A": "Операция с сохранением клапана по методу ремоделирования корня аорты.",
+        "B": "Операция с сохранением клапана по методу реимплантации.",
         "C": "Операция Росса (ROSS).",
-        "D": "Протезирование корня и механическое протезирование аортального клапана (ROOT REPLACEMENT AND MECHANICAL AVR)."
+        "D": "Протезирование корня и механическое протезирование аортального клапана."
       },
       "correctAnswer": "B",
       "explanationEn": "🎯 <b>Correct answer: B. VALVE SPARING ROOT REPLACEMENT REIMPLANTATION - DAVID surgery.</b><br><br>🔵 <b>Indications for Early Intervention</b><br>In patients with Marfan Syndrome (MFS), the standard threshold for elective aortic root replacement is typically 5.0 cm, or 4.5 cm if high-risk features are present. This 16-year-old patient has two major risk factors that push the recommendation for <b>earlier surgical intervention</b> (even at 4.2 cm):<br>1. <b>Family History:</b> His father died of aortic dissection at a young age (35), which is a critical risk factor.<br>2. <b>Rapid Growth:</b> The aortic sinus increased from 3.8 cm to 4.2 cm in one year (4 mm/year increase). Guidelines suggest intervention if growth exceeds 5 mm/year in adults.<br><br>🔴 <b>Choice of Surgical Technique</b><br>According to the primary source <i>Kirklin/Barratt-Boyes</i>, when a valve-sparing operation is planned for a patient with a connective tissue disorder like Marfan Syndrome:<br>• <b>Reimplantation (David) vs. Remodeling (Yacoub):</b> Reimplantation is <mark style=\"background-color: #FFFF00\"><b>preferable to remodeling</b></mark> because it provides better stabilization of the aortic annulus. The source explicitly states that the <b>reimplantation or David technique is the most durable</b> in this population and is associated with a <b>lower need for reoperation</b> compared to the remodeling (Yacoub) technique.<br><br>❌ <b>Why other options are incorrect</b><br>• <b>Option A (Yacoub):</b> In Marfan patients, the aortic annulus tends to dilate over time. The remodeling technique does not address the annulus, leading to a high rate of late aortic insufficiency and reoperation.<br>• <b>Option C (Ross):</b> Marfan syndrome is a <span style=\"color: red;\"><b>contraindication</b></span> for the Ross procedure because the pulmonary autograft is also made of the patient's genetically weak tissue and will likely dilate and fail.<br>• <b>Option D (Mechanical AVR):</b> While a Bentall procedure (Option D) was the historical gold standard, <b>valve-sparing surgery (David)</b> is the preferred modern choice for young patients to avoid lifelong anticoagulation, provided the leaflets are morphologically suitable.<br><br>✅ <b>Take-home message</b><br>For a Marfan patient with a significant family history and rapid aortic growth, <b>valve-sparing root reimplantation (David procedure)</b> is the most appropriate and durable surgical recommendation.",
@@ -1841,8 +1841,8 @@
         "D": "Returning the patient for re-exploration in the operating room."
       },
       "optionsRu": {
-        "A": "Введение гексакапрона — транексамовой кислоты (TRANEXAMIC ACID).",
-        "B": "Введение двух единиц плазмы (FFP).",
+        "A": "Введение гексакапрона — транексамовой кислоты.",
+        "B": "Введение двух единиц плазмы.",
         "C": "Исследование профиля свертываемости — PT/PTT, TEG.",
         "D": "Возврат пациентки на повторную ревизию в операционную."
       },
@@ -1947,7 +1947,7 @@
       "optionsRu": {
         "A": "Срочная операция по замене нисходящей аорты.",
         "B": "Установка дренажной трубки слева и ИВЛ с высоким PEEP.",
-        "C": "Глубокая седация и продолжение ИВЛ в связи с ушибом легкого (pulmonary contusion).",
+        "C": "Глубокая седация и продолжение ИВЛ в связи с ушибом легкого.",
         "D": "Имплантация стент-графта TEVAR в грудную аорту."
       },
       "correctAnswer": "D",
@@ -1982,7 +1982,7 @@
         "A": "НОАК (NOAC) в течение 3 месяцев.",
         "B": "Аспирин пожизненно.",
         "C": "Кумадин (варфарин) в течение 3 месяцев.",
-        "D": "Двойная антиагрегантная терапия (DAPT) пожизненно."
+        "D": "Двойная антиагрегантная терапия пожизненно."
       },
       "correctAnswer": "C",
       "explanationEn": "🎯 <b>Correct answer: C. Coumadin for 3 months.</b><br><br>🔵 <b>Anticoagulation for Bioprosthetic Valves</b><br>Following the surgical replacement of a heart valve with a biological (tissue) prosthesis, the risk of <b>thromboembolism</b> is highest during the first <b>3 to 6 months</b> before the prosthetic material has become fully endothelialized. According to the sources, specifically the summary tables in surgical references, bioprosthetic valves in the mitral or tricuspid position require a period of formal anticoagulation.<br><br>🔴 <b>Rationale for the Tricuspid Position</b><br>The tricuspid valve operates in a <b>low-pressure, low-flow environment</b> compared to the left-sided valves, which theoretically increases the risk of <b>thrombus formation</b> on the prosthesis until healing is complete. The 2014 and 2020 ACC/AHA guidelines recommend anticoagulation with a <b>Vitamin K Antagonist (VKA/Coumadin)</b> with a target INR of 2.5 for the first <b>3 months</b> after bioprosthetic valve replacement in the mitral or tricuspid position.<br><br>❌ <b>Why other options are incorrect</b><br>• <b>Option A (NOAC):</b> The use of Non-Vitamin K Antagonist Oral Anticoagulants (NOACs) is currently <b>not recommended</b> for the initial management of prosthetic valves; they are often considered a Class III (harmful) recommendation in the immediate postoperative period for valve replacement.<br>• <b>Option B (Aspirin):</b> While aspirin is often used <b>indefinitely after the first 3 months</b> (if the patient is in sinus rhythm), it is not considered sufficient as the <i>initial</i> sole therapy for right-sided bioprostheses in many guidelines.<br>• <b>Option D (DAPT):</b> Dual Antiplatelet Therapy is standard for stents and sometimes TAVR, but not for surgical bioprosthetic tricuspid valves.<br><br>✅ <b>Take-home message</b><br>For a <b>surgical bioprosthetic tricuspid valve</b>, the standard recommendation to prevent early thrombosis is <b>Vitamin K Antagonist (Coumadin) therapy for 3 months</b>.",
@@ -2014,8 +2014,8 @@
         "D": "Clinical presentation occurs in about 50% of patients with cardiac metastases, with the presentation usually being pericardial effusion or tamponade."
       },
       "optionsRu": {
-        "A": "Среди первичных опухолей меланома (Melanoma) наиболее часто дает метастазы в сердце.",
-        "B": "Метастатическое распространение бронхогенного рака (Bronchogenic Carcinoma) в сердце обычно является гематогенным и в конечном итоге происходит через коронарные артерии.",
+        "A": "Среди первичных опухолей меланома наиболее часто дает метастазы в сердце.",
+        "B": "Метастатическое распространение бронхогенного рака в сердце обычно является гематогенным и в конечном итоге происходит через коронарные артерии.",
         "C": "Метастазы в сердце обычно единичные, а широкая диссеминация встречается редко.",
         "D": "Клинические проявления наблюдаются примерно у 50% пациентов с метастазами в сердце, причем проявление обычно представляет собой перикардиальный выпот или тампонаду."
       },
@@ -2048,9 +2048,9 @@
         "D": "Transition to LVAD."
       },
       "optionsRu": {
-        "A": "Артериальная канюляция дуги аорты и дренирование левого желудочка (lv vent).",
+        "A": "Артериальная канюляция дуги аорты и дренирование левого желудочка.",
         "B": "Добавление канюли в бедренную вену.",
-        "C": "Баллонная предсердная септостомия (Balloon atrial septostomy).",
+        "C": "Баллонная предсердная септостомия.",
         "D": "Переход на LVAD."
       },
       "correctAnswer": "C",
@@ -2115,8 +2115,8 @@
       "optionsRu": {
         "A": "Операция выполняется через стернотомию, с ИК (CPB), умеренной гипотермией и двусторонней эндартерэктомией.",
         "B": "Операция выполняется через стернотомию, ИК (CPB), глубокое охлаждение с периодами DHCA (глубокой гипотермической остановки кровообращения) и двусторонней эндартерэктомией.",
-        "C": "Операцию можно выполнить как этапную процедуру (Staged Procedure) через правую и левую торакотомию, тем самым снижая риск.",
-        "D": "Эндартерэктомия выполняется в плоскости адвентиции (adventia), что позволяет полностью удалить атеросклеротическую бляшку и тромбы."
+        "C": "Операцию можно выполнить как этапную процедуру через правую и левую торакотомию, тем самым снижая риск.",
+        "D": "Эндартерэктомия выполняется в плоскости адвентиции, что позволяет полностью удалить атеросклеротическую бляшку и тромбы."
       },
       "correctAnswer": "B",
       "explanationEn": "🎯 <b>Correct answer: Option B: The operation is performed via sternotomy, CPB, deep cooling with periods of DHCA, and bilateral endarterectomy.</b><br><br>🔵 <b>Detailed Rationale:</b><br>Pulmonary thromboendarterectomy (PTE/PEA) is the definitive surgical treatment for chronic thromboembolic pulmonary hypertension (CTEPH). The surgical technique has been standardized primarily by the UCSD group.<br><br>1️⃣ 🛠️ <b>Standard Approach (Option B):</b> The established standard is a median sternotomy to allow access to both pulmonary arteries. The procedure requires cardiopulmonary bypass (CPB) and deep hypothermia (typically 18°C–20°C) with periods of Deep Hypothermic Circulatory Arrest (DHCA) to provide a completely bloodless field. Each period of arrest is usually limited to 20 minutes.<br>2️⃣ ❌ <b>Why Option A is incorrect:</b> While sternotomy and bilateral endarterectomy are correct, moderate hypothermia is insufficient for PEA. Without complete circulatory arrest, bronchial collateral flow (which is massively increased in CTEPH) would obscure the surgical field and prevent safe, distal dissection.<br>3️⃣ ❌ <b>Why Option C is incorrect:</b> Historically, unilateral approaches via thoracotomy were attempted, but the unilateral approach ignores the disease on the contralateral side, and the dissection of the lung in the pleural space via a thoracotomy incision can be extremely bloody due to extensive collaterals.<br>4️⃣ ❌ <b>Why Option D is incorrect:</b> The plane of dissection is a critical exam fact. The plane of dissection in PEA is within the media of the pulmonary artery. Dissecting in the plane of the adventitia is extremely dangerous as it would likely lead to fatal vessel perforation.<br><br>🧠 <b>Board Pearl:</b><br>On the exam, for CTEPH/PEA, remember: Sternotomy + DHCA + Bilateral + Medial Plane. The most common early postoperative complication is Reperfusion Pulmonary Edema, and the most common cause of death is Persistent/Residual Pulmonary Hypertension.",
@@ -2214,7 +2214,7 @@
         "D": "Balloon dilation of the stenotic valve"
       },
       "optionsRu": {
-        "A": "Выполнение МРТ сердца (cardiac MRI)",
+        "A": "Выполнение МРТ сердца",
         "B": "Катетеризация правых отделов сердца",
         "C": "Чреспищеводная эхокардиография (ЧП-ЭхоКГ)",
         "D": "Баллонная дилатация суженного клапана"
@@ -2552,10 +2552,10 @@
         "D": "MEDICAL THERAPY"
       },
       "optionsRu": {
-        "A": "Баллонная вальвулопластика (BALLOON VALVULOPLASTY)",
+        "A": "Баллонная вальвулопластика",
         "B": "Транскатетерная имплантация аортального клапана (TAVI)",
-        "C": "Стресс-ЭхоКГ с добутамином (DOBUTAMINE STRESS ECHO)",
-        "D": "Медикаментозное лечение (MEDICAL THERAPY)"
+        "C": "Стресс-ЭхоКГ с добутамином",
+        "D": "Медикаментозное лечение"
       },
       "correctAnswer": "C",
       "explanationEn": "🎯 <b>Correct answer: Option C: DOBUTAMINE STRESS ECHO.</b>\n\n🔵 <b>Detailed Rationale:</b>\nThe clinical scenario describes an elderly patient with severe left ventricular (LV) dysfunction (EF 30%) and symptoms of heart failure. In the context of aortic stenosis (AS), this presentation is characteristic of ❌<b>Low-Flow, Low-Gradient Aortic Stenosis (LFLG AS)</b>❌. This occurs when the weak ventricle cannot generate a high pressure gradient across the valve, even if the stenosis is severe.\n\n1️⃣ 📋 <b>Diagnostic Dilemma:</b> Dobutamine‐stress echocardiography is sometimes necessary in the assessment of low‐gradient aortic stenosis with depressed LV function to differentiate between 'true' fixed aortic stenosis and 'pseudo‐stenosis'. In pseudo-stenosis, the valve area appears small only because the ventricle's stroke volume is too low to fully push the leaflets open.\n2️⃣ 🛠️ <b>Next Recommended Step:</b> The management algorithm for severe AS explicitly states that when there is a discordance (e.g., AVA < 1.0 cm² but Mean Gradient < 40 mmHg) in a patient with low EF, DSE (Dobutamine Stress Echocardiography) is the next mandatory step. This test evaluates: \n• Contractile Reserve: Does the EF increase by >20%?\n• True Severity: Does the valve area remain small as the gradient rises?\n3️⃣ ❌ <b>Why TAVI (Option B) is not the *first* recommendation:</b> While TAVI is the likely definitive treatment for this high-risk 87-year-old (post-CABG, multiple comorbidities), the diagnosis of true severe AS must be confirmed before proceeding with an intervention. Fixation of a 'pseudo-stenotic' valve will not benefit the patient if the primary issue is underlying cardiomyopathy.\n4️⃣ ❌ <b>Other Options:</b> Balloon Valvuloplasty (Option A) is typically a palliative bridge. Medical therapy (Option D) is insufficient for true symptomatic severe AS but might be the only option if DSE shows no contractile reserve and the prognosis is poor.\n\n🧠 <b>Board Pearl:</b>\nOn the exam, if you see <b>Low EF + Low Gradient + Small Valve Area</b>, the answer for the 'next step' or 'recommendation' is <span style=\"color: #00FF00;\"><b>DSE (Dobutamine Stress Echo)</b></span>. You must prove the valve is the problem before you fix it.",
@@ -2694,7 +2694,7 @@
         "A": "Оставление аортотомического разреза незашитым",
         "B": "Поддержание сердца максимально пустым от крови",
         "C": "Искусственная вентиляция легких (раздувание легких)",
-        "D": "Остановка внутрисердечного дренажа (INTRACARDIAC VENT), введенного через правую верхнюю легочную вену (RIGHT SUPERIOR PULMONARY VEIN)"
+        "D": "Остановка внутрисердечного дренажа, введенного через правую верхнюю легочную вену"
       },
       "correctAnswer": "B",
       "explanationEn": "🎯 <b>Correct answer: Option B: Keeping the heart empty of blood as much as possible (This is NOT an accepted measure).</b>\n\n🔵 <b>Detailed Rationale:</b>\nDe-airing is a critical phase of any open-heart procedure to prevent systemic air embolism. The fundamental physical principle of de-airing is the displacement of air by volume (blood or saline).\n\n1️⃣ 🩸 <b>The Need for Filling (Option B - Incorrect practice):</b> To remove air, the heart chambers must be filled with fluid. The heart is filled with fluid (blood or electrolyte solution) before closing to minimize air entrapment. Keeping the heart empty would leave the chambers full of air, making it impossible to clear. Immediately prior to tying the suture of the aortotomy, the heart is allowed to fill; the influx of blood should expel most air.\n2️⃣ 🫁 <b>The Role of Ventilation (Option C - Accepted):</b> The anesthesiologist gently inflates the lungs to remove air from the pulmonary veins into the left atrium. This is a standard maneuver listed in all major texts.\n3️⃣ 🕳️ <b>The Aortotomy as an Exit (Option A - Accepted):</b> Air is lighter than blood and collects in the highest point. In AVR, the partially open aortotomy serves as the primary exit for this air. Blood influx should expel most air out of the partially open aortotomy before the final suture is tied.\n4️⃣ 🛑 <b>Stopping the Vent (Option D - Accepted):</b> To allow the heart to fill and the air to be pushed out, active suction on vents must be paused. The vent in the superior pulmonary vein is stopped during this phase to allow the heart to fill.\n\n🧠 <b>Board Pearl:</b>\nOn the exam, remember: Volume is the enemy of air. You cannot de-air an empty heart. The standard sequence is: Fill the heart → Inflate lungs → Shake the heart → Vent through Aorta/Root.",
@@ -2858,10 +2858,10 @@
         "D": "Pressure overload"
       },
       "optionsRu": {
-        "A": "Уменьшение ударного объема (decreased stroke volume)",
-        "B": "Увеличение конечно-систолического объема (Increased systolic blood volume)",
-        "C": "Увеличение конечно-диастолического давления (Increased end diastolic pressure)",
-        "D": "Перегрузка давлением (Pressure overload)"
+        "A": "Уменьшение ударного объема",
+        "B": "Увеличение конечно-систолического объема",
+        "C": "Увеличение конечно-диастолического давления",
+        "D": "Перегрузка давлением"
       },
       "correctAnswer": "C",
       "explanationEn": "🎯 <b>Correct answer: Option C: Increased end diastolic pressure.</b>\n\n🔵 <b>Detailed Rationale:</b>\nAcute aortic regurgitation (AR) is a sudden volume overload on a left ventricle (LV) that has not had time to adapt. This leads to distinct physiological changes compared to chronic AR.\n\n1️⃣ 📈 <b>Pressure Dynamics (Option C):</b> In acute AR, the ventricle is unable to dilate acutely to handle the sudden increase in regurgitant volume, which increases the LV end-diastolic volume (LVEDV) and pressure (LVEDP). This is a hallmark of the acute response.\n2️⃣ ⚠️ <b>Compliance and Tolerance:</b> The sudden volume overload is poorly tolerated by the normally sized LV, leading to a rapid rise in LV diastolic pressure and pulmonary edema. Because the LV is relatively non-compliant in the acute setting, even a small increase in volume causes a disproportionately high spike in pressure.\n3️⃣ ❌ <b>Evaluating Other Options:</b>\n• Option A: While effective forward stroke volume decreases, the total stroke volume actually increases via the Frank-Starling mechanism as the heart tries to compensate. So it's not the defining response.\n• Option B: Blood volume increases during diastole (filling), leading to the pressure spike, not primarily in systole.\n• Option D: AR is fundamentally a volume overload condition, not a pressure overload (which is characteristic of aortic stenosis).\n\n🧠 <b>Board Pearl:</b>\nOn the exam, the defining triad for <b>Acute AR</b> is <span style=\"color: #00FF00;\"><b>High LVEDP + Normal LV size + Pulmonary Edema</b></span>. The LV simply isn't 'stretchy' enough yet to handle the extra blood, so pressure shoots up instantly.",
@@ -2960,7 +2960,7 @@
         "A": "Когда биологический клапан имплантируется молодому пациенту.",
         "B": "Повышенный градиент на клапане во время нагрузочной пробы.",
         "C": "Повышенный градиент на клапане после имплантации.",
-        "D": "Когда ИНДЕКСИРОВАННАЯ ЭФФЕКТИВНАЯ ПЛОЩАДЬ ОТВЕРСТИЯ (INDEXED EFFECTIVE ORIFICE AREA) меньше 0.85 см²/м²."
+        "D": "Когда ИНДЕКСИРОВАННАЯ ЭФФЕКТИВНАЯ ПЛОЩАДЬ ОТВЕРСТИЯ меньше 0.85 см²/м²."
       },
       "correctAnswer": "A",
       "explanationEn": "🎯 <b>Correct answer: Option A: When a biological valve is implanted in a young patient.</b><br><br>🔵 <b>Detailed Rationale:</b><br>Patient-Prosthesis Mismatch (PPM) is a hemodynamic concept where the effective size of an implanted valve is insufficient to meet the physiological flow requirements of the patient. It is defined by physical measurements and flow dynamics, not by the age of the patient or the material of the valve.<br><br>1️⃣ 📋 <b>Defining PPM (Options B, C, D):</b> The term PPM has been used to describe excessive transvalvular gradient postimplantation (Option C), increased transvalvular gradient with exercise (Option B), indexed EOA (Option D), and various combinations of these variables. Rahimtoola originally defined it as a condition where the valve area is less than that of the patient's normal native valve.<br>2️⃣ 📏 <b>The Hemodynamic Threshold (Option D):</b> PPM occurs at an iEOA of ≤0.85 cm²/m². This value is the standard clinical threshold for identifying mismatch.<br>3️⃣ ❌ <b>Why Option A is the Correct (Non-fitting) Choice:</b> Choosing a biological valve for a young patient (Option A) is a clinical management issue related to Structural Valve Degeneration (SVD) and the trade-off between reoperation risk and anticoagulation, rather than the definition of mismatch. A biological valve can be perfectly matched in size to a young patient (no PPM), but it will still be prone to accelerated calcification and failure due to the patient's age.<br><br>🧠 <b>Board Pearl:</b><br>On the exam, remember that <b>PPM</b> is about <span style=\"color: #00FF00;\"><b>Physics (Size and Gradient)</b></span>, while <b>Biological Valves in Youth</b> is about <span style=\"color: #00FF00;\"><b>Durability (SVD)</b></span>. They are independent concepts.",
@@ -2991,10 +2991,10 @@
         "D": "LATE INFLATION"
       },
       "optionsRu": {
-        "A": "ПОЗДНЕЕ СДУВАНИЕ (LATE DEFLATION)",
-        "B": "РАННЕЕ СДУВАНИЕ (EARLY DEFLATION)",
-        "C": "РАННЕЕ НАДУВАНИЕ (EARLY INFLATION)",
-        "D": "ПОЗДНЕЕ НАДУВАНИЕ (LATE INFLATION)"
+        "A": "ПОЗДНЕЕ СДУВАНИЕ",
+        "B": "РАННЕЕ СДУВАНИЕ",
+        "C": "РАННЕЕ НАДУВАНИЕ",
+        "D": "ПОЗДНЕЕ НАДУВАНИЕ"
       },
       "correctAnswer": "C",
       "explanationEn": "🎯 <b>Correct answer: Option C: EARLY INFLATION.</b>\n\n🔵 <b>Detailed Rationale:</b>\nEarly inflation occurs when the intra-aortic balloon expands before the aortic valve has closed (i.e., during late systole). This is a dangerous timing error because the heart is forced to eject blood against an inflating balloon.\n\n1️⃣ 📊 <b>Waveform Analysis:</b> In the provided image, the inflation begins too high on the descending limb of the systolic wave. In a normal waveform, there is a clear drop to the dicrotic notch (closure of the aortic valve) before the sharp rise of the balloon. Here, the balloon rise effectively obscures or replaces the dicrotic notch, starting while the pressure is still significantly elevated from the systolic phase.\n2️⃣ 📉 <b>Hemodynamic Consequences:</b> Early inflation causes an abrupt increase in LV afterload during late systolic ejection. This increases myocardial oxygen demand and can decrease stroke volume because the LV is fighting the mechanical obstruction of the expanding balloon.\n3️⃣ ⚠️ <b>Distinguishing from Late Inflation:</b> While late inflation shows a lower augmentation peak (which is also seen here), its defining feature is a wide, U‑shaped dip after a visible dicrotic notch. In early inflation, the rise happens so prematurely that the dicrotic notch cannot be clearly identified on the assisted beat because the balloon is already 'taking over' the pressure curve during late systole.\n\n🧠 <b>Board Pearl:</b>\nOn the exam, the marker for Early Inflation is that inflation occurs BEFORE the dicrotic notch. This is the most harmful timing error because it increases afterload.",
@@ -3067,7 +3067,7 @@
         "A": "Частота возникновения составляет от 1% до 4% со смертностью около 50%.",
         "B": "Скелетизация внутренних грудных артерий снижает частоту инфекций у пациентов, перенесших использование BIMA, до менее чем 1%.",
         "C": "Использование Dermabond на рану в конце операции неэффективно для профилактики инфекций.",
-        "D": "Использование Бактробана (Bactroban) до и после операции и строгий контроль сахарного диабета являются наиболее эффективными мерами."
+        "D": "Использование Бактробана до и после операции и строгий контроль сахарного диабета являются наиболее эффективными мерами."
       },
       "correctAnswer": "D",
       "explanationEn": "🎯 <b>Correct answer: Option D: The use of Bactroban before and after surgery and strict glycemic control are among the most effective measures.</b>\n\n🔵 <b>Detailed Rationale:</b>\nDeep sternal wound infection (DSWI) is a severe complication in cardiac surgery. Multimodal prevention strategies have been established as the most effective way to reduce its incidence.\n\n1️⃣ 💊 <b>Proven Preventive Measures (Option D):</b> Proven methods to reduce postoperative wound complications include prophylactic intranasal application of mupirocin (Bactroban) and tight glycemic control. These measures are considered essential in minimizing this problem.\n2️⃣ 📉 <b>Incidence and Mortality (Option A):</b> While the incidence is often quoted between 1–4%, the mortality rate is typically reported between 10–25%, not 50%. A mortality rate of 50% is generally associated with septicemia, not localized DSWI.\n3️⃣ 🔪 <b>Skeletonization (Option B):</b> While skeletonization significantly reduces the risk of infection in patients receiving bilateral internal mammary arteries (BIMA), the literature notes that even with this technique, infection rates are around 1.16% to 1.48% or 1.7%, rather than consistently staying below 1% for all BIMA patients.\n4️⃣ 🛡️ <b>Wound Adhesives (Option C):</b> The use of topical adhesives (Dermabond) over subcuticular sutures is a standard practice to seal the wound and help prevent infection, making this statement incorrect.\n\n🧠 <b>Board Pearl:</b>\nOn the exam, the management of DSWI is all about the 'prevention bundle'. Nasal Mupirocin (Bactroban) and Strict Glycemic Control (Glucose <180) are the high‑yield, 'correct' answers for effective prevention.",
@@ -3135,7 +3135,7 @@
       "optionsRu": {
         "A": "Использование двух артерий (независимо от того, каких именно артерий) превосходит использование одной артерии в отношении 10-летней смертности.",
         "B": "Использование двух внутренних грудных артерий было статистически значимо связано с большим количеством стернальных инфекций при 10-летнем периоде наблюдения.",
-        "C": "Использование двух внутренних грудных артерий (Bilateral Internal Thoracic Artery) превосходит использование одной внутренней грудной артерии в отношении 10-летней смертности.",
+        "C": "Использование двух внутренних грудных артерий превосходит использование одной внутренней грудной артерии в отношении 10-летней смертности.",
         "D": "Использование одной внутренней грудной артерии предпочтительнее, так как оно связано с более короткой госпитализацией по сравнению с двумя внутренними грудными артериями."
       },
       "correctAnswer": "A",
@@ -3269,7 +3269,7 @@
       "optionsRu": {
         "A": "Добавление адреналина к терапии норадреналином.",
         "B": "Предсердная электрокардиостимуляция (пейсинг).",
-        "C": "Установка катетера Свана-Ганца (Swann Ganz) для измерения сердечного выброса.",
+        "C": "Установка катетера Свана-Ганца для измерения сердечного выброса.",
         "D": "Внутривенное введение фуросемида."
       },
       "correctAnswer": "B",
@@ -3334,7 +3334,7 @@
       "optionsRu": {
         "A": "Продвижение артериальной канюли глубже в аорту.",
         "B": "Увеличение скорости потока искусственного кровообращения до 1 л/кг/мин.",
-        "C": "Репозиция (изменение положения) канюли в верхней полой вене (SVC).",
+        "C": "Репозиция (изменение положения) канюли в верхней полой вене.",
         "D": "Системное охлаждение на АИК до 28 градусов."
       },
       "correctAnswer": "C",
@@ -3435,10 +3435,10 @@
         "D": "Dabigatran (Pradaxa)"
       },
       "optionsRu": {
-        "A": "Apixaban (Eliquis)",
-        "B": "Rivaroxaban (Xarelto)",
-        "C": "Edoxaban (Lixiana)",
-        "D": "Dabigatran (Pradaxa)"
+        "A": "Apixaban",
+        "B": "Rivaroxaban",
+        "C": "Edoxaban",
+        "D": "Dabigatran"
       },
       "correctAnswer": "D",
       "explanationEn": "🎯 <b>Correct answer: Option D: Dabigatran (Pradaxa).</b>\n\n🔵 <b>Detailed Rationale:</b>\nThe Non-Vitamin K Antagonist Oral Anticoagulants (NOACs), also called Direct Oral Anticoagulants (DOACs), are divided into two classes based on their mechanism: direct thrombin (Factor IIa) inhibitors and direct Factor Xa inhibitors.\n\n- <b>Dabigatran</b> is a <b>direct thrombin inhibitor</b>. It blocks the activity of thrombin, the final enzyme in the coagulation cascade that converts fibrinogen to fibrin. It is the only oral agent in this class among the listed options.\n- <b>Apixaban</b>, <b>Rivaroxaban</b>, and <b>Edoxaban</b> are all <b>direct Factor Xa inhibitors</b>. They act upstream by inhibiting Factor Xa, which prevents the conversion of prothrombin to thrombin.\n\nA simple way to remember: most Factor Xa inhibitors contain the letters \"xa\" in their generic name (Apixaban, Rivaroxaban, Edoxaban). Dabigatran is the outlier as the only oral direct thrombin inhibitor.\n\n🧠 <b>Board Pearl:</b>\nWhen distinguishing DOACs, remember that Dabigatran is a direct thrombin inhibitor, while the others are Factor Xa inhibitors. Also, Dabigatran has a specific reversal agent (idarucizumab), whereas the others have andexanet alfa (for Xa inhibitors).",
@@ -3533,7 +3533,7 @@
         "D": "Repeated debridements and long-term VAC therapy"
       },
       "optionsRu": {
-        "A": "Лечение с помощью VAC-системы с хирургическими обработками и последующим перемещением мышечного лоскута (myocutaneous flap)",
+        "A": "Лечение с помощью VAC-системы с хирургическими обработками и последующим перемещением мышечного лоскута",
         "B": "Повторная ранняя операция — повторное закрытие кости и мягких тканей над ней",
         "C": "Повторные промывания раны и вторичное закрытие через несколько недель",
         "D": "Повторные хирургические обработки и длительная VAC-терапия"
@@ -3569,7 +3569,7 @@
       "optionsRu": {
         "A": "Эмболия воздухом, попавшим во время операции",
         "B": "Эмболия атеросклеротическими бляшками из сонных артерий",
-        "C": "Внутрисердечные эмболы (Intracardiac emboli)",
+        "C": "Внутрисердечные эмболы",
         "D": "Эмболия из аорты"
       },
       "correctAnswer": "D",
@@ -3603,7 +3603,7 @@
         "A": "Хирургическое протезирование корня аорты, восходящей аорты и дуги",
         "B": "Хирургическое протезирование корня аорты и восходящей аорты",
         "C": "Медикаментозное лечение бета-блокаторами",
-        "D": "Медикаментозное лечение БРА (ARB)"
+        "D": "Медикаментозное лечение БРА"
       },
       "correctAnswer": "D",
       "explanationEn": "🎯 <b>Correct answer: Option D: Medical therapy with ARBs.</b>\n\n🔵 <b>Detailed Rationale:</b>\nThe patient has Marfan syndrome with an aortic root diameter of 46 mm (4.6 cm). According to current guidelines (AHA/ACC 2022, ESC 2021, and surgical textbooks), prophylactic aortic root replacement in asymptomatic Marfan patients is recommended when the root diameter reaches <b>≥ 5.0 cm (50 mm)</b> or when there are high‑risk features (family history of early dissection, rapid growth >0.5 cm/year, or pregnancy). At 4.6 cm without additional risk factors, the patient is not yet a candidate for surgery.\n\n1️⃣ <b>Why surgery is not indicated (Options A & B):</b> The threshold for intervention is 5.0 cm. This patient's 4.6 cm root falls below the cutoff, so surgical replacement of the root or ascending aorta would be premature and carries unnecessary morbidity.\n\n2️⃣ <b>Why ARBs are preferred (Option D) over beta‑blockers (Option C):</b> Both beta‑blockers and ARBs are Class I recommendations for slowing aortic root dilation in Marfan syndrome. However, in recent board‑exam context, ARBs (e.g., losartan) are often emphasised as the targeted therapy because they specifically inhibit the <b>TGF‑β signaling pathway</b>, which is hyperactive in Marfan and drives aortic wall degradation. Large trials (e.g., AIMS) have shown that ARBs effectively reduce the rate of root dilation, making them a preferred initial agent in many modern protocols.\n\n❌ <b>Why other options are incorrect:</b>\n• Options A & B: Surgery is not yet indicated because the diameter is < 5.0 cm.\n• Option C: While beta‑blockers are effective, ARBs are considered the more specific and modern choice in the context of this exam key.\n\n🧠 <b>Board Pearl:</b>\nOn the exam, <b>Marfan + aortic root < 5.0 cm</b> means <span style=\"color: #00FF00;\"><b>medical therapy</b></span>. Among the drug options, <span style=\"background-color: #FFFF00; color: #000000;\"><b>ARBs (losartan)</b></span> are the favoured answer because of their anti‑TGF‑β effect. Remember: surgery is reserved for ≥ 5.0 cm (or lower if high‑risk features are present).",
@@ -3635,9 +3635,9 @@
         "D": "Aortic root replacement according to Bentall"
       },
       "optionsRu": {
-        "A": "Операция Якуба (Remodeling aortic sparing - Yacoub)",
+        "A": "Операция Якуба",
         "B": "Протезирование корня аорты по Кабролю (Cabrol)",
-        "C": "Операция Дэвида (Reimplantation valve sparing - David)",
+        "C": "Операция Дэвида",
         "D": "Протезирование корня аорты по Бенталлу (Bentall)"
       },
       "correctAnswer": "B",
@@ -3707,7 +3707,7 @@
         "D": "An end-diastolic pressure of 18 mmHg in the atrium connected to the functional ventricle"
       },
       "optionsRu": {
-        "A": "Легочное сосудистое сопротивление 4 единицы Вуда (Wood units)",
+        "A": "Легочное сосудистое сопротивление 4 единицы Вуда",
         "B": "Функционально единственный желудочек со морфологией правого желудочка",
         "C": "Коарктация аорты",
         "D": "Конечно-диастолическое давление 18 мм рт. ст. в предсердии, связанном с функциональным желудочком"
@@ -3902,8 +3902,8 @@
         "D": "Venous cannulation of IVC, RSVC, and suction to the LSVC"
       },
       "optionsRu": {
-        "A": "Венозная канюляция IVC, LSCV (LSVC), RSVC",
-        "B": "Двухступенчатая (dual-stage) венозная канюляция с глубоким охлаждением и DHCA",
+        "A": "Венозная канюляция IVC, LSCV, RSVC",
+        "B": "Двухступенчатая венозная канюляция с глубоким охлаждением и DHCA",
         "C": "Венозная канюляция IVC, RSVC и перевязка (лигирование) LSVC",
         "D": "Венозная канюляция IVC, RSVC и дренирование (отсос) из LSVC"
       },
@@ -4077,7 +4077,7 @@
         "D": "Involvement of the aortic valve alone is the most common clinical presentation."
       },
       "optionsRu": {
-        "A": "Удлинение времени полуспада давления (pressure half-time) прямо пропорционально тяжести патологии клапана.",
+        "A": "Удлинение времени полуспада давления прямо пропорционально тяжести патологии клапана.",
         "B": "Она чаще встречается у женщин в соотношении 8:1 по сравнению с мужчинами.",
         "C": "Обычно она является приобретенной в возрасте 20-30 лет.",
         "D": "Изолированное поражение только аортального клапана является наиболее частым клиническим проявлением."
@@ -4111,8 +4111,8 @@
         "D": "Strict INR control."
       },
       "optionsRu": {
-        "A": "Уменьшение конечного систолического размера левого желудочка (LVESD).",
-        "B": "Уменьшение конечного диастолического размера левого желудочка (LVEDD).",
+        "A": "Уменьшение конечного систолического размера левого желудочка.",
+        "B": "Уменьшение конечного диастолического размера левого желудочка.",
         "C": "Снижение систолического давления в легочной артерии (sPAP).",
         "D": "Тщательный контроль INR (МНО)."
       },
@@ -4180,10 +4180,10 @@
         "D": "Protection using deep systemic hypothermia and circulatory arrest for aortic valve replacement."
       },
       "optionsRu": {
-        "A": "Защита с помощью только теплой ретроградной кардиоплегии без пережатия аорты (cross-clamp) с фибрилляторным арестом.",
+        "A": "Защита с помощью только теплой ретроградной кардиоплегии без пережатия аорты с фибрилляторным арестом.",
         "B": "Защита с помощью антеградной и ретроградной кардиоплегии для предотвращения «stone heart».",
         "C": "Защита миокарда как при изолированном шунтировании, без значения температуры и маршрута введения.",
-        "D": "Защита с помощью глубокой системной гипотермии и остановки кровообращения (circulatory arrest) для замены аортального клапана."
+        "D": "Защита с помощью глубокой системной гипотермии и остановки кровообращения для замены аортального клапана."
       },
       "correctAnswer": "B",
       "explanationEn": "🎯 Correct answer: Option B: Protection using combined anterograde and retrograde cardioplegia to prevent 'stone heart'.\n\nThe patient presents a high-risk scenario for myocardial injury: severe aortic stenosis combined with three-vessel coronary artery disease and concentric left ventricular hypertrophy. This triad significantly complicates myocardial protection during the cross-clamp period.\n\n1️⃣ The Danger of 'Stone Heart': Patients with severe AS and massive LVH are at risk for 'stone heart' — an extreme, irreversible ischemic contracture of the ventricle. This occurs because the thick-walled, hypertrophied muscle has very high oxygen demands and is highly susceptible to subendocardial ischemia during arrest.\n\n2️⃣ Combined Protection Strategy: Modern myocardial preservation strategies have eliminated this feared complication through the liberal use of antegrade and retrograde delivery techniques. In patients with concomitant CAD, antegrade cardioplegia alone may not reach areas distal to coronary obstructions, while retrograde delivery alone often provides suboptimal protection to the right ventricle and certain LV territories.\n\n3️⃣ Integrated Approach: For combined CABG and valve procedures, textbooks recommend initial antegrade induction to achieve rapid diastolic arrest, followed by frequent retrograde reinfusions and direct ostial doses to ensure uniform cooling and metabolic support of the hypertrophied mass.\n\n❌ Why Other Options are Incorrect:\n• Option A: Aortotomy for AVR requires a cross-clamp; fibrillatory arrest without a clamp is not feasible for open-heart valve surgery.\n• Option C: In the presence of severe LVH and CAD, the route and temperature of cardioplegia are critical to prevent infarction.\n• Option D: DHCA is reserved for aortic arch surgery and is not a standard technique for routine AVR/CABG.\n\nBoard Pearl: For AS + LVH + CAD, the answer is always integrated (Antegrade + Retrograde) protection. The historical term 'stone heart' is the classic board-trigger for why this combined approach is mandatory in hypertrophied hearts.",
@@ -4284,7 +4284,7 @@
         "A": "Поддержание показателей систолического артериального давления в районе 140-150.",
         "B": "Поддержание уровня гемоглобина выше 12 в ходе операции.",
         "C": "Системное охлаждение пациента до 32 градусов.",
-        "D": "Поддержание давления спинномозговой жидкости (CSF) в районе 12-15 мм рт. ст."
+        "D": "Поддержание давления спинномозговой жидкости в районе 12-15 мм рт. ст."
       },
       "correctAnswer": "D",
       "explanationEn": "🎯 <b>Correct Answer: Option D: Maintaining cerebrospinal fluid (CSF) pressure around 12-15 mmHg.</b>\n\n🔵 <b>Detailed Clinical and Physiological Rationale:</b>\nThe prevention of spinal cord ischemia during complex aortic procedures (TAAA repair and TEVAR) is a cornerstone of modern vascular and cardiac surgery. According to the official answer key for the June 2023 Israeli Board Exam, the management of Cerebrospinal Fluid (CSF) pressure is considered the most effective specific measure in this context.\n\nThe fundamental principle of spinal cord protection is maximizing the <b>Spinal Cord Perfusion Pressure (SCPP)</b>. Physiologically, the spinal cord is encased in a rigid bony canal. Any increase in the pressure of the fluid surrounding it (CSF) directly opposes the blood pressure coming into the cord.\n• <b>Formula: SCPP = Mean Arterial Pressure (MAP) − Cerebrospinal Fluid Pressure (CSFP)</b>\n• Lowering the CSFP is a direct and mechanically efficient way to increase the pressure gradient across the spinal microcirculation without forcing the heart to maintain dangerously high systemic pressures.\n\nCSF drainage is supported by high-level clinical evidence. A landmark prospective randomized trial (Coselli et al.) involving patients undergoing Type I and Type II TAAA repairs showed that the rate of paraplegia/paraparesis was <b>2.6% in the CSF drainage group</b> compared to <b>13% in the control group</b>. This statistically significant reduction makes CSF management one of the few Class I recommendations for spinal cord protection during these surgeries.\n\nWhile many protocols aim for a CSFP < 10 mmHg, the target of 12-15 mmHg is clinically significant because it serves as the threshold to initiate active drainage or as the safety 'holding' pressure to prevent intracranial hypotension and subsequent subdural hematoma (a major risk of over-drainage). Maintaining the pressure in this range ensures a significant drop from the high pressures often seen when the aorta is clamped, thereby preserving SCPP while minimizing complications.\n\n❌ <b>Why Other Options Are Less Effective:</b>\n• <b>Option A:</b> Although permissive hypertension (maintaining high MAP) is vital, it is often considered a secondary or adjunctive strategy because it can increase surgical bleeding and strain the left ventricle. CSF drainage is the primary specific neuroprotective maneuver.\n• <b>Option B:</b> Adequate oxygen delivery is necessary, but raising hemoglobin to 12 does not address the primary issue of perfusion pressure. A hematocrit of >30% (Hb ~10) is usually sufficient.\n• <b>Option C:</b> Mild systemic hypothermia is part of the multimodal protocol to reduce metabolic demand, but it is less effective than active pressure management in preventing acute ischemic injury during the critical phases of the procedure.\n\n📚 <b>Board Pearl:</b>\nOn the exam, when asked for the <b>'most effective'</b> action for spinal protection in TAAA/TEVAR, the answer is always <b>CSF Drainage</b>. It is the only measure with strong Randomized Controlled Trial evidence showing a drastic reduction in paraplegia rates.",
@@ -4314,7 +4314,7 @@
         "D": "TAVR was associated with a lower incidence of atrial fibrillation."
       },
       "optionsRu": {
-        "A": "TAVR ассоциировался с бóльшим количеством умеренной/тяжелой парапротезной утечки (paravalvular leak).",
+        "A": "TAVR ассоциировался с бóльшим количеством умеренной/тяжелой парапротезной утечки.",
         "B": "TAVR ассоциировался с бóльшим количеством острой почечной недостаточности 2/3 стадии.",
         "C": "TAVR ассоциировался с бóльшей частотой имплантации постоянного электрокардиостимулятора.",
         "D": "TAVR ассоциировался с меньшей частотой развития фибрилляции предсердий."
@@ -4351,7 +4351,7 @@
         "A": "Операция может быть проведена через 72 часа на основании теста функции тромбоцитов.",
         "B": "Сроки проведения операции не имеют значения.",
         "C": "Необходимо провести немедленную операцию ввиду угрожающей анатомии.",
-        "D": "Следует подождать минимум неделю ввиду терапии ДАТТ (DAPT)."
+        "D": "Следует подождать минимум неделю ввиду терапии ДАТТ."
       },
       "correctAnswer": "A",
       "explanationEn": "🎯 <b>Correct Answer: Option A: Surgery can be performed after 72 hours based on a platelet function test.</b><br><br>🔵 <b>Comprehensive Clinical Rationale:</b><br>This case involves a 💠<b>diabetic patient</b>💠 with an 💠<b>anterior STEMI</b>💠 and high-risk coronary anatomy (multivessel or Left Main disease often seen in these board questions), who is now <b>stable</b> following successful culprit-vessel PTCA and IABP support. The core challenge is balancing the <span style=\"color: red;\"><b>risk of recurrent ischemia</b></span> from threatening anatomy against the <span style=\"color: red;\"><b>risk of life-threatening surgical bleeding</b></span> due to Dual Antiplatelet Therapy (DAPT).<br><br>1️⃣ 💊 <b>Pharmacological Background:</b><br>The patient received <b>Aspirin</b> and <b>Plavix (Clopidogrel)</b>. Clopidogrel is an irreversible P2Y12 inhibitor. <br>• According to ESC 2018 Guidelines and Bojar 6th Ed, the standard recommended wait time for <b>elective</b> surgery after Clopidogrel is <b>5 days</b> to allow for platelet turnover.<br>• However, in ❌<b>urgent cases</b>❌ where waiting 5 days is clinically risky, a shorter interval is necessary.<br><br>2️⃣ 📉 <b>Platelet Function Testing (PFT) – The Key 'Bridge' (Option A):</b><br>According to Bojar 6th Ed (Chapter 1, Page 13), for patients with <span style=\"color: purple;\"><b>critical/threatening anatomy</b></span>, surgery should ideally be performed as soon as the antiplatelet effect dissipates. <br>• 🧪 <b>The Rule of 72 Hours:</b> Bojar specifies that ❌<b>'Use of platelet testing is invaluable in assessing when the risk of bleeding has lessened'</b>❌.<br>• Many protocols and board standards (including the Israeli Board Exam Key) accept <b>72 hours (3 days)</b> as a safe window to perform CABG in urgent patients, provided that a 💠<b>Platelet Function Test</b>💠 (e.g., Multiplate or VerifyNow) confirms adequate recovery of platelet activity. If PFT shows low inhibition, the surgeon can proceed with a significantly reduced risk of microvascular bleeding.<br><br>3️⃣ ⚖️ <b>Why Other Options are Incorrect:</b><br>• ❌ <b>Option C (Immediate):</b> Immediate/Emergency surgery is indicated only for <mark style=\"background-color: yellow;\"><b>refractory ischemia</b></mark>, cardiogenic shock, or mechanical complications when PCI is not feasible. Since this patient is <b>stable</b> after PTCA and IABP, going immediately would cause massive bleeding without a clear hemodynamic necessity.<br>• ❌ <b>Option D (One Week):</b> Waiting 7 days is the historical standard for full platelet recovery, but it is ❌<b>dangerously long</b>❌ for a patient with 'threatening anatomy' supported by an IABP. Modern guidelines prioritize earlier intervention using PFT.<br>• ❌ <b>Option B:</b> Timing is <b>critical</b> in cardiac surgery to optimize survival and minimize morbidity.<br><br>🧠 <b>Board Pearl:</b><br><mark style=\"background-color: #e2f0d9;\">On the exam, the 'Magic Answer' for timing CABG in a <b>Stable but High-Risk</b> patient on Plavix is <b>72 hours + Platelet Function Testing</b>. It represents the best compromise between ischemic risk and bleeding risk.</mark>",
@@ -4452,9 +4452,9 @@
       },
       "optionsRu": {
         "A": "Если наложить глубокие швы под комиссурой между левой коронарной и некоронарной створками, существует риск повреждения пучка Гиса.",
-        "B": "AV-узел (AV-NODE) расположен в верхушке треугольника Коха, ближайшей к коронарному синусу.",
-        "C": "При операции по устранению аномального дренажа левой легочной вены в верхнюю полую вену (ANOMALOUS DRAINAGE OF LEFT PULMONARY VEIN TO SUPERIOR CAVAL VEIN) существует опасность повреждения синусового узла (sinus node).",
-        "D": "Когда хирург ушивает перимембранозный дефект межжелудочковой перегородки (perimembranous VSD) через правое предсердие, проводящая система находится на левых краях дефекта."
+        "B": "AV-узел расположен в верхушке треугольника Коха, ближайшей к коронарному синусу.",
+        "C": "При операции по устранению аномального дренажа левой легочной вены в верхнюю полую вену существует опасность повреждения синусового узла.",
+        "D": "Когда хирург ушивает перимембранозный дефект межжелудочковой перегородки через правое предсердие, проводящая система находится на левых краях дефекта."
       },
       "correctAnswer": "B",
       "explanationEn": "🎯 <b>Correct Answer: Option B: The AV-NODE is located at the apex of the triangle of Koch closest to the coronary sinus.</b><br><br>🔵 <b>Detailed Clinical and Anatomical Analysis:</b><br>After re-evaluating the official answer key for the **June 2023 Israeli Board Exam (Question 133, Answer ב)** and correlating it with surgical anatomy textbooks, Option B is identified as the correct statement. This question tests the precise localization of the conduction system within surgical landmarks.<br><br>1️⃣ 📐 <b>Anatomy of the Triangle of Koch and AV Node (Option B):</b><br>The 💠<b>Triangle of Koch</b>💠 is the primary surgical landmark for the AV node. Its boundaries are:<br>• The ❌<b>base</b>❌: The orifice of the coronary sinus (CS).<br>• The ❌<b>superior boundary</b>❌: The tendon of Todaro.<br>• The ❌<b>inferior boundary</b>❌: The septal annulus of the tricuspid valve.<br>• According to surgical anatomy textbooks, the 💠<b>AV Node</b>💠 is located at the ❌<b>apex</b>❌ of this triangle, which is the point where the tendon of Todaro and the tricuspid annulus meet. <br>• <b>Rationale for 'Closest to CS':</b> In the context of the entire specialized conduction system (AV Node + Bundle of His), the <mark style=\"background-color: yellow;\"><b>AV Node is the most posterior structure</b></mark> and thus the part of the conduction system physically <span style=\"color: blue;\"><b>closest to the coronary sinus</b></span>. The bundle of His is more anterior as it penetrates the central fibrous body.<br><br>2️⃣ ❌ <b>Why Option D is Incorrect (The Technicality of 'Margin'):</b><br>While it is a well-known fact that the conduction system in a perimembranous VSD is **left-sided**, Option D contains a technical inaccuracy. <br>• According to surgical references, the bundle of His is located on the ❌<b>left ventricular aspect</b>❌ of the septum, but it is typically <span style=\"color: red;\"><b>separated from the actual margin/edge of the defect by a few millimeters of muscle</b></span>. Therefore, saying it is 'on the margin' is surgically imprecise compared to the anatomical definition of the AV node's location in Option B.<br><br>3️⃣ ⚖️ <b>Rejection of Other Options:</b><br>• ❌ <b>Option A:</b> The bundle of His is located below the junction of the 💠<b>Right (R) and Non-coronary (N)</b>💠 cusps. Sutures beneath the ❌<b>Left (L) and Non-coronary (N)</b>❌ commissure primarily risk injury to the mitral valve or left atrium.<br>• ❌ <b>Option C:</b> The <span style=\"color: purple;\"><b>Sinus Node</b></span> is located at the ❌<b>Right</b>❌ cavoatrial junction. Anomalous drainage of the **Left** pulmonary vein usually involves the innominate vein or a persistent LSVC. Repairing a *Left* PV anomaly is anatomically distant from the standard position of the Sinus Node compared to *Right* PV anomalies (Sinus Venosus defects).<br><br>📚 <b>Board Pearl:</b><br><mark style=\"background-color: #e2f0d9;\">On the exam, the <b>Triangle of Koch</b> is the 'Holy Grail' of conduction anatomy. Remember: <b>Apex = AV Node</b>. Even though the CS is the base, the node is the conduction structure <b>closest to the CS orifice</b>. (Confirmed by June 2023 Israeli Board Exam Key, Q133).</mark>",
@@ -4486,7 +4486,7 @@
       },
       "optionsRu": {
         "A": "У пациента с болью в груди — один год.",
-        "B": "У пациента с обмороком (syncope) — 5 лет.",
+        "B": "У пациента с обмороком — 5 лет.",
         "C": "У пациента с признаками сердечной недостаточности — два года.",
         "D": "Нет корреляции между конкретными симптомами и продолжительностью жизни."
       },
@@ -4521,7 +4521,7 @@
         "A": "Внутривенное введение жидкостей, голодание (NPO), посевы крови и мокроты.",
         "B": "Выполнение срочной эндоскопии (ЭГДС).",
         "C": "Установка дополнительного плеврального дренажа слева, начало антибиотикотерапии.",
-        "D": "Начало эмпирического лечения и антибактериального покрытия для нозокомиальной инфекции (nosocomial infection)."
+        "D": "Начало эмпирического лечения и антибактериального покрытия для нозокомиальной инфекции."
       },
       "correctAnswer": "B",
       "explanationEn": "🎯 <b>Correct Answer: Option B: Performance of urgent endoscopy.</b><br><br>🔵 <b>Comprehensive Clinical and Surgical Analysis:</b><br>This scenario describes a life-threatening postoperative complication that requires rapid diagnostic confirmation. The patient is a 75-year-old male on 💠<b>Postoperative Day 2 (POD 2)</b>💠 following a successful 💠<b>Mitral Valve Repair (MVR)</b>💠. The sequence of events—sudden high fever, respiratory distress requiring re-intubation, and specific imaging findings—strongly points to an <b>esophageal perforation</b>.<br><br>1️⃣ 🩺 <b>The TEE Connection (The Iatrogenic Cause):</b><br>According to surgical references, the use of **Transesophageal Echocardiography (TEE)** is ❌<b>mandatory and continuous</b>❌ during mitral valve repair to assess the adequacy of the repair before and after weaning from cardiopulmonary bypass. <br>• In elderly patients (75 years old), the esophagus is more vulnerable to injury from the TEE probe due to factors like ❌<b>esophageal diverticula</b>❌, ❌<b>friable mucosa</b>❌, or ❌<b>cervical osteophytes</b>❌.<br>• An iatrogenic esophageal tear can occur during probe insertion or manipulation, but symptoms often remain masked until the patient starts 💠<b>oral intake</b>💠.<br><br>2️⃣ 🧪 <b>Pathognomonic Signs in the Prompt:</b><br>• 💠<b>Trigger:</b>💠 The patient was doing well until he ❌<b>'started drinking and eating'</b>❌. This is the classic trigger for esophageal contents to leak into the mediastinum and pleural space.<br>• 💠<b>CXR Findings:</b>💠 The presence of ❌<b>'air behind the heart'</b>❌ (pneumomediastinum) is a classic radiographic sign of esophageal rupture. This represents air escaping from the GI tract into the mediastinal planes.<br>• 💠<b>Drain Output:</b>💠 The ❌<b>'cloudy fluid'</b>❌ in the pleural drain is highly suspicious for either a chemical effusion from gastric juices or an early <b>empyema</b> caused by food/saliva entering the pleural space via an <b>esophagopleural fistula</b>.<br><br>3️⃣ 📋 <b>The Role of Urgent Endoscopy (Option B):</b><br>When esophageal perforation is suspected post-cardiac surgery, 💠<b>Urgent Endoscopy (EGD)</b>💠 or a Gastrografin swallow study is the gold standard for confirmation. <br>• 💠<b>Direct Visualization:</b>💠 EGD allows the surgeon to locate the exact site and size of the tear, which determines whether the patient needs 💠<b>immediate surgical repair</b>💠, stenting, or conservative management (if small and contained).<br>• Delaying the diagnosis by focusing on secondary measures (Options A, C, D) increases the risk of ❌<b>fulminant mediastinitis</b>❌ and mortality, which exceeds 30% if treatment is delayed beyond 24 hours.<br><br>4️⃣ ❌ <b>Why Other Options are Incorrect:</b><br>• 🔸 <b>Option D:</b> 💠<b>Nosocomial Infection (Pneumonia)</b>💠 is common after surgery, but pneumonia does ❌<b>NOT</b>❌ cause air behind the heart or a sudden cloudy drain output triggered specifically by eating/drinking.<br>• 🔸 <b>Option C:</b> While an additional chest tube and antibiotics are necessary 💠<b>supportive treatments</b>💠 for a pleural effusion/mediastinitis, they do not diagnose or address the ❌<b>underlying anatomical hole</b>❌ in the esophagus.<br>• 🔸 <b>Option A:</b> Fasting (NPO) and fluids are essential components of management once the diagnosis is suspected, but they are ❌<b>passive</b>❌ and do not provide the urgent diagnostic confirmation required in a re-intubated, septic patient.<br><br>📚 <b>Board Pearl:</b><br><mark style=\"background-color: #e2f0d9;\">On the exam, if a <b>Mitral Repair</b> patient develops <b>Fever + SOB + Hypoxia</b> immediately after <b>starting to eat/drink</b>, and the CXR shows <b>pneumomediastinum (air behind heart)</b>, stop thinking about pneumonia. The diagnosis is <b>TEE-induced esophageal perforation</b>. The answer is always <b>Urgent Endoscopy</b> or Contrast Swallow.</mark>",
@@ -4587,7 +4587,7 @@
         "D": "Replace the aortic valve with a CLASS 1 indication."
       },
       "optionsRu": {
-        "A": "Не заменять клапан, за исключением случаев наличия симптомов, указывающих на тяжелый аортальный стеноз (SEVERE AS).",
+        "A": "Не заменять клапан, за исключением случаев наличия симптомов, указывающих на тяжелый аортальный стеноз.",
         "B": "В любом случае нет показаний для вмешательства на клапане, так как стеноз должен быть тяжелым для хирургического вмешательства.",
         "C": "Заменить аортальный клапан с показанием CLASS 2A.",
         "D": "Заменить аортальный клапан с показанием CLASS 1."
@@ -4726,7 +4726,7 @@
       },
       "optionsRu": {
         "A": "Венечный синус",
-        "B": "Левая главная коронарная артерия (LMCA)",
+        "B": "Левая главная коронарная артерия",
         "C": "Левая огибающая артерия (LCX)",
         "D": "Правая коронарная артерия (RCA)"
       },
@@ -4859,7 +4859,7 @@
         "D": "Perform coronary angiography now"
       },
       "optionsRu": {
-        "A": "Оперативное вмешательство с целью тромбэмболэктомии из легочной артерии (Pulmonary Embolectomy)",
+        "A": "Оперативное вмешательство с целью тромбэмболэктомии из легочной артерии",
         "B": "Подключение к VA-ECMO в приемном отделении",
         "C": "Выполнение КТ-ангиографии органов грудной клетки для диагностики",
         "D": "Выполнение коронарографии в настоящее время"
@@ -4893,7 +4893,7 @@
         "D": "Use of a solution with an excessively low potassium concentration in the cardioplegia"
       },
       "optionsRu": {
-        "A": "Катетер кардиоплегии был введен дальше правой коронарной вены (Right Coronary Vein)",
+        "A": "Катетер кардиоплегии был введен дальше правой коронарной вены",
         "B": "Недостаточное охлаждение кардиоплегического раствора",
         "C": "Это ожидаемая находка, поскольку в конце большинства операций AVR наблюдается снижение функции правого желудочка",
         "D": "Использование раствора со слишком низкой концентрацией калия в кардиоплегии"

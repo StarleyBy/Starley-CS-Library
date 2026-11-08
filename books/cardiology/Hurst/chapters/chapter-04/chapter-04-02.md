@@ -12,7 +12,7 @@
 
 ### Classification of Hypertension
 * **JNC 7 Classification:** Normal BP <120/80 mm Hg; Prehypertension 120–139/80–89 mm Hg; Stage 1 140–159/90–99 mm Hg; Stage 2 ≥160/≥100 mm Hg. European classification similar with Grade 1, 2, 3 hypertension.
-* **Primary (Essential) Hypertension:** Accounts for ~95% of cases; no obvious secondary cause. Overweight/obesity may account for 65–75% of risk.
+* **Primary (Essential) Hypertension:** Accounts for ~ 95% of cases; no obvious secondary cause. Overweight/obesity may account for 65–75% of risk.
 
 ### Basic Concepts of Circulatory Control
 * **Cardiac Output (CO) = Total Tissue Blood Flow:** CO is determined by venous return (sum of tissue flows), not just cardiac pumping. Tissue blood flow is autoregulated to meet metabolic needs.
@@ -21,7 +21,7 @@
 
 ### Renal Mechanisms & Salt Sensitivity
 * **Renal Abnormalities Causing Hypertension:** Increased preglomerular resistance (salt-insensitive if homogeneous, salt-sensitive if patchy), decreased glomerular capillary filtration coefficient (K<sub>f</sub>), nephron loss, and increased tubular Na⁺ reabsorption.
-* **Salt Sensitivity:** A quantitative trait; >50% of hypertensives and ~25% of normotensives are salt sensitive. Associated with older age, black race, diabetes, CKD, and reduced RAAS responsiveness. Salt sensitivity predicts target organ injury and mortality.
+* **Salt Sensitivity:** A quantitative trait; >50% of hypertensives and ~ 25% of normotensives are salt sensitive. Associated with older age, black race, diabetes, CKD, and reduced RAAS responsiveness. Salt sensitivity predicts target organ injury and mortality.
 
 ### Neurohumoral & Immune Mechanisms
 * **Sympathetic Nervous System (SNS):** Renal sympathetic overactivity promotes Na⁺ retention and renin release. Renal denervation lowers BP in experimental models and some patients.
@@ -711,7 +711,7 @@ Renovascular hypertension may be unilateral or bilateral and may result in homog
 
 In the one-kidney, one-clip model of Goldblatt hypertension and in patients with stenosis of a single remaining kidney, there is a fairly homogeneous reduction in perfusion of all nephrons, leading to an elevation of BP that is proportional to the severity of the stenosis. In experimental one-kidney, one-clip Goldblatt hypertension, BP increases rapidly after clipping the renal artery and remains stable as long as the stenosis does not worsen. Moreover, the BP returns to normal when the stenosis is removed.
 
-Renal artery constriction, if severe enough to reduce renal perfusion pressure below the range of autoregulation (~70 mm Hg), initially decreases renal blood flow, GFR, and sodium excretion while increasing renin secretion. However, if the stenosis is not too severe, sodium excretion returns to normal, and if sodium intake is normal and adequate volume is available, renin secretion also returns to nearly normal in the established phase of hypertension. At this point, the hypertension is stable and most indices of renal function are relatively normal, including pressure distal to the stenosis.
+Renal artery constriction, if severe enough to reduce renal perfusion pressure below the range of autoregulation (~ 70 mm Hg), initially decreases renal blood flow, GFR, and sodium excretion while increasing renin secretion. However, if the stenosis is not too severe, sodium excretion returns to normal, and if sodium intake is normal and adequate volume is available, renin secretion also returns to nearly normal in the established phase of hypertension. At this point, the hypertension is stable and most indices of renal function are relatively normal, including pressure distal to the stenosis.
 
 Increased Ang II accounts for most of the rapid increase in BP after stenosis of the renal artery. However, even after blocking the RAAS, BP still increases (although more slowly) until renal perfusion pressure returns to nearly normal. This increase in renal perfusion pressure, at the expense of systemic arterial hypertension, permits normal excretion of sodium and water to be maintained. As long as sodium intake is normal, activation of the RAAS serves mainly to increase the rate at which BP is elevated. In the established phase of hypertension, blockade of the RAAS causes only small reductions in BP, similar to the decreases observed in normal subjects after Ang II blockade.
 

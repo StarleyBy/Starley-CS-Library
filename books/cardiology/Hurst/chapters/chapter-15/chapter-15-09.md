@@ -46,7 +46,7 @@
   * **Blood pressure:** Aerobic and resistive training lower SBP by 3–4 mm Hg, DBP by 2–3 mm Hg.
   * **Diabetes:** Exercise + diet lowers new diabetes incidence by 42%; superior to metformin.
   * **Lipids:** LDL ↓ 5.0%, triglycerides ↓ 3.7%, HDL ↑ 4.6% (meta‑analysis). Diet + exercise most effective.
-  * **Weight:** Exercise alone yields modest weight loss (~3 kg men, 1.4 kg women); diet + exercise ~ 8.5 kg. Exercise crucial for weight maintenance (higher activity maintains 54% of loss vs 27%).
+  * **Weight:** Exercise alone yields modest weight loss (~ 3 kg men, 1.4 kg women); diet + exercise ~ 8.5 kg. Exercise crucial for weight maintenance (higher activity maintains 54% of loss vs 27%).
 * **Other effects:**
   * **CAD progression:** Intensive diet + exercise slows progression (59% vs 74%) and promotes regression (19% vs 0%) at 6 years.
   * **Systemic inflammation:** Exercise reduces HS‑CRP and inflammatory cytokines.
