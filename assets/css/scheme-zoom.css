@@ -1,25 +1,115 @@
-/* Scheme Zoom Overlay Styles */
-.scheme-zoom-wrapper {
+/* ══════════════════════════════════════════════════════
+   SchemeZoom Lightbox
+   SVG масштабируется через CSS transform: scale() без will-change.
+   Это гарантирует векторный рендер текста/линий при любом зуме.
+   ══════════════════════════════════════════════════════ */
+
+/* Оверлей */
+.scheme-lightbox {
     position: fixed;
     inset: 0;
-    background: rgba(0,0,0,.85);
+    z-index: 12000;
+    display: none;
+    flex-direction: column;
+    background: transparent;
+}
+
+/* Тёмный фон */
+.scheme-lb-backdrop {
+    position: fixed;
+    inset: 0;
+    background: rgba(0, 0, 0, 0.88);
+    z-index: 0;
+}
+
+/* Тулбар сверху */
+.scheme-lb-toolbar {
+    position: relative;
+    z-index: 2;
     display: flex;
     align-items: center;
-    justify-content: center;
-    z-index: 12000; /* above all UI */
-    cursor: zoom-out;
-    overflow: auto; /* allow scrolling when zoomed larger */
+    justify-content: space-between;
+    padding: 8px 16px;
+    background: rgba(20, 20, 20, 0.95);
+    border-bottom: 1px solid rgba(255, 255, 255, 0.1);
+    flex-shrink: 0;
 }
-.scheme-zoom-wrapper svg {
-    /* Remove max size limits to allow arbitrary scaling */
-    max-width: none;
-    max-height: none;
-    width: auto;
-    height: auto;
-    animation: fadeIn 0.2s ease-out;
+
+.scheme-lb-title {
+    color: rgba(255, 255, 255, 0.75);
+    font-size: 13px;
+    font-weight: 500;
+    display: flex;
+    align-items: center;
+    gap: 6px;
 }
-@keyframes fadeIn {
+
+.scheme-lb-actions {
+    display: flex;
+    gap: 4px;
+}
+
+.scheme-lb-btn {
+    background: rgba(255, 255, 255, 0.08);
+    border: 1px solid rgba(255, 255, 255, 0.15);
+    border-radius: 6px;
+    color: rgba(255, 255, 255, 0.85);
+    cursor: pointer;
+    font-size: 14px;
+    padding: 6px 10px;
+    transition: background 0.15s, color 0.15s;
+    line-height: 1;
+}
+
+.scheme-lb-btn:hover {
+    background: rgba(255, 255, 255, 0.18);
+    color: #fff;
+}
+
+.scheme-lb-close {
+    background: rgba(220, 50, 50, 0.2);
+    border-color: rgba(220, 50, 50, 0.4);
+}
+
+.scheme-lb-close:hover {
+    background: rgba(220, 50, 50, 0.6);
+}
+
+/* Холст: position:relative + overflow:hidden.
+   SVG внутри — position:absolute top:0 left:0.
+   Это позволяет translate/scale работать с правильной точкой отсчёта. */
+.scheme-lb-canvas {
+    position: relative;
+    z-index: 1;
+    flex: 1;
+    overflow: hidden;
+    cursor: grab;
+    user-select: none;
+}
+
+.scheme-lb-canvas:active {
+    cursor: grabbing;
+}
+
+/* SVG внутри canvas.
+   ВАЖНО: нет will-change и нет translateZ/translate3d на SVG.
+   Без will-change браузер НЕ создаёт GPU-слой и НЕ растеризует SVG.
+   Вектор рендерится заново на каждом кадре → чёткость при любом зуме. */
+.scheme-lb-svg {
+    display: block;
+    position: absolute;
+    top: 0;
+    left: 0;
+    transform-origin: 0 0;
+    /* Директивы качества SVG */
+    shape-rendering: geometricPrecision;
+    text-rendering: optimizeLegibility;
+    image-rendering: auto;
+    /* Анимация появления */
+    animation: schemeLbFadeIn 0.18s ease-out;
+}
+
+@keyframes schemeLbFadeIn {
     from { opacity: 0; }
     to   { opacity: 1; }
 }
-
