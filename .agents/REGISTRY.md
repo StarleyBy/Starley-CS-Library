@@ -23,6 +23,7 @@
 | L34 | Деплой и CI | local | 1.0 | `.agents/skills/deploy-ci/SKILL.md` | Workflow публикации GitHub Pages: порядок шагов, проверки перед публикацией (preflight), индекс, R2, очистка, разбор упавшей сборки | `.github/workflows/*`, `tools/preflight.mjs` |
 | L24 | Кодер | local | 1.1 | `.agents/skills/coder/SKILL.md` | Код приложения, поиск, Service Worker, тесты | `tests/run-all.mjs`, `tests/unit/` |
 | L35 | Интеракционист | local | 1.0 | `.agents/skills/interactive-engineer/SKILL.md` | Разработка и интеграция интерактивных схем, симуляторов, врезка HTML в главы и квизы, реестр интерактивных схем | `data/interactive/interactive-index.json`, `tools/list-interactive.mjs`, `sw.js` |
+| L36 | Критик-перфекционист | local | 1.0 | `.agents/skills/critic/SKILL.md` | Сквозная продуктовая ревизия: UI/UX, веб-дизайн, чистый Vanilla JS, архитектура, edge cases, PWA, входной челлендж планов, Quality Gate перед сдачей, ежедневный аудит | Все модули приложения, тесты, `tools/preflight.mjs`, `tools/check-sw-shell.mjs` |
 
 ID соответствуют каталогу из плана агентов (L — локальные, G — глобальные).
 
@@ -37,6 +38,7 @@ ID соответствуют каталогу из плана агентов (L
 
 | Дата | Что изменено |
 |---|---|
+| 2026-11-08 | Добавлен агент «Критик-перфекционист» (L36, v1.0, `.agents/skills/critic/SKILL.md`) — ведущий ревизор качества, UI/UX эстет, Senior Architect/Coder/QA и тренд-скаут. Встроены 4 шлюза: входная экспертиза планов задач, обязательный выходной контроль (Quality Gate) перед сдачей владельцу, ежедневный аудит по расписанию и прямой аудит по запросу. Введён четырёхцветный протокол замечаний и процедура арбитража споров на суд владельца-кардиохирурга |
 | 2026-11-06 | Добавлен агент «Интеракционист» (L35, v1.0, `.agents/skills/interactive-engineer/SKILL.md`) — разработка автономных интерактивных схем (HTML5/SVG/Vanilla JS), симуляторов и атласов (`assets/interactive/`), ведение реестра `data/interactive/interactive-index.json`, внедрение во фреймах в главы (`#### 🎛️ ...`) и квизы. Создан инструмент `tools/list-interactive.mjs` (--validate вшит в `preflight.mjs`) |
 | 2026-11-04 | Добавлен агент «Схематист» (L08, v1.0, `.agents/skills/schematist/SKILL.md`) — синтез клинических схем, деревьев решений, алгоритмов и ведение книги-атласа `books/summary/algorithms/`. Создан атлас алгоритмов, сгенерирована обложка `cover.jpg` |
 | 2026-11-03 | Добавлен агент «Адъютант» (L00, v1.0, `.agents/skills/adjutant/SKILL.md`) — персональный секретарь и координатор задач. Введён единый стандарт обязательных бейджей ролей в ответах чата. Поддержаны шорткоды быстрого переключения агентов (`/adjutant`, `/editor`, `/coder`, `/preflight` и др.). В живой базе Supabase применён триггер защиты ролей, регистрация закрыта (OFF) |
