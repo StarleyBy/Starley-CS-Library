@@ -319,7 +319,10 @@ const ALL_MANIFESTS_REGISTRY = [
     { num: 15, id: 'quiz-aortic-valve', icon: '❤️', titleRu: 'Cohn: Патология аортального клапана', titleEn: 'Cohn: Aortic Valve Disease Quiz', totalQ: 100, file: 'books/cardiac-surgery/cohn/quiz/quiz-aortic-valve.json' },
     { num: 16, id: 'quiz-eu-valve', icon: '🇪🇺', titleRu: 'ESC/EACTS 2025: Пороки сердца', titleEn: '2025 ESC/EACTS Valvular Heart Disease', totalQ: 100, file: 'books/guidelines/guide/quiz/quiz-eu-valve.json' },
     { num: 17, id: 'quiz-valve-disease-management', icon: '🩺', titleRu: 'Ведение пороков клапанов', titleEn: 'Valvular Disease Management', totalQ: 100, file: 'books/guidelines/guide/quiz/quiz-valve-disease-management.json' },
-    { num: 18, id: 'quiz-chapter-01', icon: '📘', titleRu: 'Bojar: ОРИТ в кардиохирургии', titleEn: 'Bojar: Adult Cardiac Surgical ICU', totalQ: 100, file: 'books/icu/bojar/quiz/quiz-chapter-01.json' }
+    { num: 18, id: 'quiz-chapter-01', icon: '📘', titleRu: 'Bojar: ОРИТ в кардиохирургии', titleEn: 'Bojar: Adult Cardiac Surgical ICU', totalQ: 100, file: 'books/icu/bojar/quiz/quiz-chapter-01.json' },
+    { num: 19, id: 'quiz-seats4', icon: '📚', titleRu: 'SESATS Кардиоторакальная хирургия (Часть 4)', titleEn: 'SESATS Part 4', totalQ: 60, file: 'books/work/examen/quiz/quiz-seats4.json' },
+    { num: 20, id: 'quiz-cardiac-mcq', icon: '🫀', titleRu: 'Тесты по кардиохирургии (MCQ)', titleEn: 'Cardiac Surgery MCQs', totalQ: 156, file: 'books/work/examen/quiz/quiz-cardiac-mcq.json' },
+    { num: 21, id: 'quiz-raja-sba', icon: '📖', titleRu: 'SBA в кардиоторакальной хирургии (Шахзад Раджа)', titleEn: 'SBA in Cardiothoracic Surgery (Shahzad Raja)', totalQ: 303, file: 'books/work/examen/quiz/quiz-raja-sba.json' }
 ];
 window.ALL_MANIFESTS_REGISTRY = ALL_MANIFESTS_REGISTRY;
 

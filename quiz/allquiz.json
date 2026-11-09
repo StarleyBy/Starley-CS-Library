@@ -1,8 +1,8 @@
 {
   "meta": {
-    "totalManifests": 18,
-    "totalQuestions": 2949,
-    "updatedAt": "2026-09-23T12:43:41.008Z"
+    "totalManifests": 21,
+    "totalQuestions": 3468,
+    "updatedAt": "2026-11-09T18:51:39.183700+00:00"
   },
   "quizzes": [
     {
@@ -130,6 +130,27 @@
       "title": "Management of Adult Cardiac Surgical Disease",
       "file": "books/icu/bojar/quiz/quiz-chapter-01.json",
       "totalQuestions": 100
+    },
+    {
+      "num": 19,
+      "id": "quiz-seats4",
+      "title": "seats 4",
+      "file": "books/work/examen/quiz/quiz-seats4.json",
+      "totalQuestions": 60
+    },
+    {
+      "num": 20,
+      "id": "quiz-cardiac-mcq",
+      "title": "cardiac_surgery_mcq",
+      "file": "books/work/examen/quiz/quiz-cardiac-mcq.json",
+      "totalQuestions": 156
+    },
+    {
+      "num": 21,
+      "id": "quiz-raja-sba",
+      "title": "sba_cardiothoracic_surgery",
+      "file": "books/work/examen/quiz/quiz-raja-sba.json",
+      "totalQuestions": 303
     }
   ]
 }

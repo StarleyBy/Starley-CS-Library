@@ -86,6 +86,16 @@
         "id": "200pqcs",
         "label": "💛200 PRACTICE QUESTIONS IN CARDIOTHORACIC SURGERY💛",
         "file": "quiz/quiz-200pqcs.json"
+      },
+      {
+        "id": "cardiac-mcq",
+        "label": "🫀Cardiac Surgery MCQs (156)🩺",
+        "file": "quiz/quiz-cardiac-mcq.json"
+      },
+      {
+        "id": "raja-sba",
+        "label": "🫀SBA in Cardiothoracic Surgery (Shahzad Raja, 303)📚",
+        "file": "quiz/quiz-raja-sba.json"
       }
     ],
     "versions": {
