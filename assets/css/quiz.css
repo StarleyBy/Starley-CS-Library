@@ -653,6 +653,8 @@ input[type=range]::-webkit-slider-thumb {
     padding: 22px;
     box-shadow: var(--shadow-premium);
     animation: explanation-slide 0.5s cubic-bezier(0.23, 1, 0.32, 1);
+    max-width: 100%;
+    overflow-wrap: break-word;
 }
 
 .exp-header {
@@ -670,19 +672,28 @@ input[type=range]::-webkit-slider-thumb {
     line-height: 1.6;
     color: var(--quiz-text);
     margin-bottom: 22px;
+    overflow-wrap: break-word;
+    word-break: break-word;
 }
 
 /* Typography inside explanation content */
-.exp-content h3 {
+.exp-content h3,
+.exp-content h4 {
     margin: 18px 0 8px 0;
     font-size: 1.15rem;
     font-weight: 700;
     color: var(--quiz-accent);
     display: flex;
+    flex-wrap: wrap;
     align-items: center;
     gap: 8px;
+    overflow-wrap: break-word;
 }
-.exp-content h3:first-child {
+.exp-content h4 {
+    font-size: 1.05rem;
+}
+.exp-content h3:first-child,
+.exp-content h4:first-child {
     margin-top: 0;
 }
 .exp-content p {

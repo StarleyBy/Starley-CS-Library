@@ -1040,15 +1040,55 @@ function _markdownToHtml(txt) {
         const cls = isTable ? 'quiz-table-link' : 'quiz-ext-link';
         return `<a href="${url}" class="${cls}"${targetAttr}>${label}</a>`;
     });
+    // Convert list markers (* or - at start of line) to bullets so they don't collide with italics
+    html = html.replace(/^([ \t]*)[*+-][ \t]+/gm, '$1• ');
     // Convert **bold** to <strong>
     html = html.replace(/\*\*(.+?)\*\*/g, '<strong>$1</strong>');
     // Convert *italic* to <em>
-    html = html.replace(/\*(.+?)\*/g, '<em>$1</em>');
+    html = html.replace(/\*([^\*\r\n]+?)\*/g, '<em>$1</em>');
     // Convert ### and #### headers
     html = html.replace(/^###\s+(.+)$/gm, '<h3>$1</h3>');
     html = html.replace(/^####\s+(.+)$/gm, '<h4>$1</h4>');
     // Convert newlines to <br> (skip right after headings)
-    return html.replace(/<\/h[34]>\r?\n/gi, '</h$1>').replace(/\n/g, '<br>');
+    return html.replace(/<\/h([34])>\r?\n/gi, '</h$1>').replace(/\n/g, '<br>');
+}
+
+function formatExplanation(rawExp) {
+    if (!rawExp) return '';
+    // Normalize headings: ensure a blank line after ### or #### if followed by non-empty content
+    const normalized = rawExp.replace(/^(#{3,4}\s+[^\r\n]+)\r?\n(?!\r?\n)/gm, '$1\n\n');
+    return normalized.split('\n\n')
+        .map(p => {
+            const trimmed = p.trim();
+            if (!trimmed) return '';
+            if (trimmed.startsWith('### ')) {
+                const newlineIdx = trimmed.indexOf('\n');
+                if (newlineIdx !== -1) {
+                    const header = trimmed.slice(4, newlineIdx).trim();
+                    const rest = trimmed.slice(newlineIdx + 1).trim();
+                    return `<h3>${_markdownToHtml(header)}</h3>` + (rest ? `<p>${_markdownToHtml(rest)}</p>` : '');
+                }
+                return `<h3>${_markdownToHtml(trimmed.slice(4))}</h3>`;
+            }
+            if (trimmed.startsWith('#### ')) {
+                const newlineIdx = trimmed.indexOf('\n');
+                if (newlineIdx !== -1) {
+                    const header = trimmed.slice(5, newlineIdx).trim();
+                    const rest = trimmed.slice(newlineIdx + 1).trim();
+                    return `<h4>${_markdownToHtml(header)}</h4>` + (rest ? `<p>${_markdownToHtml(rest)}</p>` : '');
+                }
+                return `<h4>${_markdownToHtml(trimmed.slice(5))}</h4>`;
+            }
+            if (trimmed === '---') {
+                return '<hr>';
+            }
+            if (trimmed.startsWith('<iframe') && trimmed.endsWith('</iframe>')) {
+                return trimmed;
+            }
+            return `<p>${_markdownToHtml(trimmed)}</p>`;
+        })
+        .filter(Boolean)
+        .join('');
 }
 
 // Auto-resize embedded interactive iframes (e.g. IABP Atlas)
@@ -2723,7 +2763,7 @@ window.reRenderActiveQuestionInLanguage = function() {
         const rawExp = q['explanation' + lang] || q['explanationEn'] || q.explanation || 'No explanation provided.';
         const expText = document.getElementById('exp-text');
         if (expText) {
-            expText.innerHTML = _markdownToHtml(rawExp);
+            expText.innerHTML = formatExplanation(rawExp);
             if (typeof renderLatexInElement === 'function') renderLatexInElement(expText);
         }
 
@@ -4359,27 +4399,7 @@ function showExplanation() {
     expImgCont.style.display = hasExpImgs ? 'flex' : 'none';
 
     const rawExp = q['explanation' + lang] || q['explanationEn'] || q.explanation || 'No explanation provided.';
-    // Convert newlines to structured elements
-    const formattedExp = rawExp.split('\n\n')
-        .map(p => {
-            const trimmed = p.trim();
-            if (!trimmed) return '';
-            if (trimmed.startsWith('### ')) {
-                return `<h3>${_markdownToHtml(trimmed.slice(4))}</h3>`;
-            }
-            if (trimmed.startsWith('#### ')) {
-                return `<h4>${_markdownToHtml(trimmed.slice(5))}</h4>`;
-            }
-            if (trimmed === '---') {
-                return '<hr>';
-            }
-            if (trimmed.startsWith('<iframe') && trimmed.endsWith('</iframe>')) {
-                return trimmed;
-            }
-            return `<p>${_markdownToHtml(trimmed)}</p>`;
-        })
-        .filter(Boolean)
-        .join('');
+    const formattedExp = formatExplanation(rawExp);
     
     const expTextEl = document.getElementById('exp-text');
     expTextEl.innerHTML = formattedExp;
@@ -5587,10 +5607,7 @@ function renderIncorrectAnswers() {
         const expTextDiv = document.createElement('div');
         expTextDiv.className = 'exp-content';
         const rawExp = q['explanation' + state.settings.lang] || q['explanationEn'] || q.explanation || 'No explanation provided.';
-        const formattedExp = rawExp.split('\n\n')
-            .map(p => `<p>${_markdownToHtml(p.trim())}</p>`)
-            .join('');
-        expTextDiv.innerHTML = formattedExp;
+        expTextDiv.innerHTML = formatExplanation(rawExp);
         expBox.appendChild(expTextDiv);
 
         // Exp actions (Reader link)
@@ -5816,10 +5833,7 @@ function renderAllQuestionsList() {
         const expTextDiv = document.createElement('div');
         expTextDiv.className = 'exp-content';
         const rawExp = q['explanation' + lang] || q['explanationEn'] || q.explanation || 'No explanation provided.';
-        const formattedExp = rawExp.split('\n\n')
-            .map(p => `<p>${_markdownToHtml(p.trim())}</p>`)
-            .join('');
-        expTextDiv.innerHTML = formattedExp;
+        expTextDiv.innerHTML = formatExplanation(rawExp);
         expBox.appendChild(expTextDiv);
         
         // Exp actions (Reader link)

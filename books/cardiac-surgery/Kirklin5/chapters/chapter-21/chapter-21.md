@@ -48,7 +48,7 @@
 * **De-airing critical:** TEE monitoring; aortic needle vent; adenosine prior to clamp removal to maximize subendocardial arteriolar dilation; esmolol for sinus tachycardia.
 
 ### Immunosuppressive Modalities
-* **Induction therapy:** Basiliximab (IL-2 receptor blocker) or antithymocyte globulin (targets T-cell antigens) — used in ~50% of programs.
+* **Induction therapy:** Basiliximab (IL-2 receptor blocker) or antithymocyte globulin (targets T-cell antigens) — used in ~ 50% of programs.
 * **Maintenance therapy (triple-drug):** Calcineurin inhibitor (tacrolimus or cyclosporine) + antiproliferative agent (mycophenolate mofetil, azathioprine, sirolimus, or everolimus) + corticosteroids (methylprednisolone/prednisone).
 * **Tacrolimus vs cyclosporine:** Tacrolimus has greater immunosuppressive effect and toxicity; major side effect — diabetes; less gingival hyperplasia and hirsutism than cyclosporine.
 * **Mycophenolate mofetil (MMF):** Superior to azathioprine — 45% reduction in first-year mortality; fewer rejection episodes; more opportunistic infections (herpes simplex/zoster).
@@ -57,17 +57,17 @@
 * **Infection prophylaxis:** Trimethoprim-sulfamethoxazole for *Pneumocystis jirovecii* (universal); valganciclovir 900 mg daily for 3-6 months for CMV prophylaxis (D+/R-, D+/R+, D-/R+).
 
 ### Clinical Outcomes — Adults
-* **Survival:** 1-year ~91%; 5-year ~70%; 10-year ~50%; 15-year ~30%. Median survival 11 years (14 years for patients alive at 1 year).
+* **Survival:** 1-year ~ 91%; 5-year ~ 70%; 10-year ~ 50%; 15-year ~ 30%. Median survival 11 years (14 years for patients alive at 1 year).
 * **Modes of death (first year):** Early graft failure, infection, rejection, multiorgan failure account for >70% of deaths.
 * **Recipient risk factors:** ECMO support (HR 2.38), CHD diagnosis (HR 1.74), TAH (HR 1.73), retransplantation (HR 1.72), restrictive cardiomyopathy (HR 1.48), VAD support (HR 1.24), older donor/recipient age, higher BMI, longer ischemic time, higher PRA, higher PVR.
 * **Donor risk factors:** Age >50 years (increased CAV at 5 years, RR 1.67); left ventricular dysfunction (risk proportional to severity); left ventricular hypertrophy (wall thickness <1.4 cm acceptable per 2020 ISHLT guidelines); cocaine use (acceptable if normal function and no LVH).
-* **Ischemic time:** Not important until exceeds ~240 minutes; risk increased considerably with 5-6 hours.
+* **Ischemic time:** Not important until exceeds ~ 240 minutes; risk increased considerably with 5-6 hours.
 * **Late mortality risk factors:** Allograft vasculopathy, lymphoma, other non-skin malignancy, reduced EF, greater number of rejections, rejection with hemodynamic compromise, greater number of infections, higher serum cholesterol.
 
 ### Primary Graft Dysfunction (PGD)
-* **Incidence:** 5%-15% (2%-30% depending on definition). Moderate PGD (EF <0.40, CVP >16, PCWP >20, low CO despite inotropes) — 30-day mortality ~6%. Severe PGD (<4% of transplants) — mortality approaching 50%.
+* **Incidence:** 5%-15% (2%-30% depending on definition). Moderate PGD (EF <0.40, CVP >16, PCWP >20, low CO despite inotropes) — 30-day mortality ~ 6%. Severe PGD (<4% of transplants) — mortality approaching 50%.
 * **Management:** Continue CPB, IABP insertion, inhaled nitric oxide for pulmonary hypertension, ECMO if persistent. Early ECMO in OR associated with reduced mortality.
-* **Vasoplegia syndrome:** Low SVR with normal graft function; incidence >30% (moderate-severe ~25%); risk factors: prior continuous-flow LVAD, older age, chronic renal disease, prolonged CPB; not associated with increased early mortality.
+* **Vasoplegia syndrome:** Low SVR with normal graft function; incidence >30% (moderate-severe ~ 25%); risk factors: prior continuous-flow LVAD, older age, chronic renal disease, prolonged CPB; not associated with increased early mortality.
 
 ### Rejection
 * **Acute Cellular Rejection (ACR):** T-cell mediated with lymphocyte infiltration and myocyte damage. Most episodes within first 6 months. ISHLT grading: 0R (none), 1R (mild), 2R (moderate — two or more foci with myocyte damage), 3R (severe — diffuse with multifocal myocyte damage).
@@ -76,7 +76,7 @@
 * **Treatment of ACR/AMR:** High-dose IV corticosteroids first-line. For hemodynamic compromise — add antithymocyte globulin, plasmapheresis, IVIG, rituximab, eculizumab. Asymptomatic 1R usually no treatment; 2R >1 year posttransplant may not require treatment.
 
 ### Infection
-* **Incidence:** ~40% of recipients have ≥1 infection requiring IV antibiotics/hospitalization in first year. Overall mortality from infection <5%.
+* **Incidence:** ~ 40% of recipients have ≥1 infection requiring IV antibiotics/hospitalization in first year. Overall mortality from infection <5%.
 * **Temporal pattern:** Bacterial infections predominate first month (pneumonia 35%, UTI 25%, sternal wound 5%). Viral infections predominate thereafter (CMV 40%-80% seroprevalence).
 * **CMV:** D+/R- highest risk. Prophylaxis: valganciclovir 900 mg daily for 3-6 months (some programs extend to 1 year for D+/R-). CMV associated with accelerated CAV and rejection.
 * **Fungal:** *Candida* most common (first month, nosocomial). *Aspergillus* (pulmonary), *Cryptococcus* (CNS). Invasive fungal infection mortality >30%.
@@ -84,11 +84,11 @@
 
 ### Malignancy
 * **Cumulative incidence:** 16% at 5 years, 28% at 10 years posttransplant.
-* **Posttransplant Lymphoproliferative Disorder (PTLD):** ~20% of posttransplant solid organ tumors. Strong link with EBV. Risk highest in first year. Risk factors: EBV-seronegative recipient with EBV-seropositive donor (25-30x increased risk). Treatment: reduce immunosuppression first-line.
+* **Posttransplant Lymphoproliferative Disorder (PTLD):** ~ 20% of posttransplant solid organ tumors. Strong link with EBV. Risk highest in first year. Risk factors: EBV-seronegative recipient with EBV-seropositive donor (25-30x increased risk). Treatment: reduce immunosuppression first-line.
 * **Skin cancer, lung cancer, prostate cancer most common in adults; lymphoma less common.
 
 ### Cardiac Allograft Vasculopathy (CAV)
-* **Prevalence:** ~50% of surviving patients by 10 years posttransplant.
+* **Prevalence:** ~ 50% of surviving patients by 10 years posttransplant.
 * **ISHLT grading:** CAV0 (no detectable lesion); CAV1 (mild — LM <50%, primary vessel <70%); CAV2 (moderate — LM <50% with single primary vessel ≥70%); CAV3 (severe — LM ≥50% or two or more primary vessels ≥70% or CAV1/CAV2 with allograft dysfunction).
 * **Pathophysiology:** Diffuse concentric intimal thickening, affects epicardial and microvascular coronary arteries. Contributions from: ischemia-reperfusion injury, immunologic responses (DSA, especially MHC class II), CMV infection, traditional risk factors (hypertension, hyperlipidemia, diabetes, older donor age).
 * **Management:** Statins (routine, improve survival). mTOR inhibitors (everolimus, sirolimus) delay CAV progression. PCSK9 inhibitors as adjuncts.
@@ -110,18 +110,18 @@
 * **Exercise capacity:** Reduced but most recipients engage in essentially all physical activities after proper training.
 
 ### Pediatric Cardiac Transplantation
-* **Diagnoses:** Cardiomyopathy (~75% dilated, 12% restrictive, 7% hypertrophic); CHD (>50% of infant transplants). For failing Fontan: protein-losing enteropathy (40%) or plastic bronchitis, systolic dysfunction (30%), hepatomegaly (65%) with ascites (35%).
-* **Waitlist outcomes:** 1-year survival improved from ~70% (early 2000s) to >80% (2019-2020). Waitlist mortality risk factors: weight <10 kg (OR 2.7), CHD (OR 2.4), blood type O (OR 2.2), ECMO (OR 1.5), mechanical ventilation (OR 1.8), renal dysfunction (OR 1.6).
+* **Diagnoses:** Cardiomyopathy (~ 75% dilated, 12% restrictive, 7% hypertrophic); CHD (>50% of infant transplants). For failing Fontan: protein-losing enteropathy (40%) or plastic bronchitis, systolic dysfunction (30%), hepatomegaly (65%) with ascites (35%).
+* **Waitlist outcomes:** 1-year survival improved from ~ 70% (early 2000s) to >80% (2019-2020). Waitlist mortality risk factors: weight <10 kg (OR 2.7), CHD (OR 2.4), blood type O (OR 2.2), ECMO (OR 1.5), mechanical ventilation (OR 1.8), renal dysfunction (OR 1.6).
 * **Survival by era (pediatric):** 1-year survival 92% (2012-2017). Age-stratified 1-year survival: <1 year 89%, 1-10 years 92%, 11-17 years 94%. Infants have superior late survival (median 25 years) — likely related to immune system immaturity.
-* **CHD vs cardiomyopathy:** CHD patients have ~2x risk of early mortality (1-year survival 88% vs 95%).
-* **Single ventricle:** Waitlist mortality high before/after stage 1 palliation (~40% if cannot transplant within 3-6 months). Posttransplant survival similar to biventricular malformations.
+* **CHD vs cardiomyopathy:** CHD patients have ~ 2x risk of early mortality (1-year survival 88% vs 95%).
+* **Single ventricle:** Waitlist mortality high before/after stage 1 palliation (~ 40% if cannot transplant within 3-6 months). Posttransplant survival similar to biventricular malformations.
 * **Failing Fontan:** 1- and 5-year posttransplant survival 89% and 74%. Risk factors: renal dysfunction (HR 5.4), transplant within 1 year of Fontan (HR 2.8), decompensated heart failure (HR 2.5). Improved from 77% to 89% 1-year survival comparing eras 1993-2006 vs 2007-2014.
 * **HLHS primary transplantation:** Superior long-term survival (including waitlist mortality) vs Norwood palliation (65% vs 40% at 15 years, P=.002). Primary transplant superior to secondary transplantation after initial palliation (74% vs 48% at 9 years, P=.002).
 * **ABO-incompatible transplantation:** Possible in infants <4-6 months due to absence of natural isohemagglutinins (anti-A/B antibodies develop as cross-reaction to *E. coli* carbohydrate epitopes). Now routine in patients <2 years. Time to transplant significantly reduced, especially for blood group O recipients. Posttransplant survival similar to ABO-compatible transplants.
 
 ### Heart-Lung Transplantation
 * **Indications:** Eisenmenger syndrome with uncorrected intracardiac defect; uncorrectable CHD with pulmonary artery atresia/hypoplasia; severe combined cardiopulmonary disease; severe heart failure with secondary pulmonary hypertension unresponsive to vasodilators.
-* **Survival:** 1-year ~80%, 10-year 30%-40%. Conditional median survival after 1 year: HLT 10.0 years vs DLT 9.7 years vs isolated heart 13.0 years.
+* **Survival:** 1-year ~ 80%, 10-year 30%-40%. Conditional median survival after 1 year: HLT 10.0 years vs DLT 9.7 years vs isolated heart 13.0 years.
 * **Rejection:** Cardiac allograft rejection less common than isolated heart transplants (CAV at 5 years: 30% after HT vs 9% after HLT). Lung rejection similar to isolated lung transplantation.
 
 </div></details>
@@ -142,31 +142,67 @@ Cardiac transplantation is a therapeutic procedure whereby the heart of a suitab
 
 ### Historical Note</summary><div class="details-content">
 
+<details class="med-details"><summary>
+
+#### Early Experimental Stage: Carrel, Mann, Williamson</summary><div class="details-content">
+
 Carrel and Guthrie first reported successful heterotopic cardiac transplantation in dogs in 1905. Limited work was done until in 1933 Mann and colleagues at Mayo Clinic reported successful transplantation of the heart into the neck of dogs. This work led to no clinical application because of lack of understanding of immunologic features of organ transplantation.
 
 A somewhat similar history characterized development of renal transplantation. In 1908, after earlier having perfected the method for blood vessel anastomoses, Carrel reported transplantation of kidneys into experimental animals. Little was done in the years after these reports, and the next work on the subject was in two reports from Dederer working in Mann's laboratory at Mayo Clinic in 1918 and 1920. His experiments were not successful, but Williamson later commented that Dederer's short-term success in two members of the same litter of puppies "seems very suggestive that there are biological phenomena which may be instrumental in the failures that have so frequently been attributed to mechanical difficulties." In 1926, Williamson reported further studies on renal transplantation. He noted that autologous kidney transplants functioned satisfactorily for months, but renal allografts functioned for only days. Although Williamson described the histologic condition of failed renal allografts as representing a form of glomerular nephritis, he also concluded that "the failure of homogeneous kidney transplants seems attributable to a biological incompatibility between the donor and recipient." He went on to state that "the value of kidney transplantation as a clinical measure is questionable with our present knowledge, although under proper conditions it might be worthy of serious consideration." Work continued in Mann's laboratory, but even by 1934, Wu and Mann had not increased the understanding of failure of the transplanted kidney.
 
 Twenty-two years then elapsed before the report of successful transplantation of the human kidney between identical twins. In the interim, the work of Medawar during World War II revolutionized the understanding of transplantation. Although antigens and antibodies were to some extent understood, at least to the point that they were involved in various types of infectious disease, Medawar was the first to develop concepts of immunology applicable to transplantation. His work was a result of the British government's research program early in World War II directed toward devising new methods of skin coverage for children extensively burned by the bombings of the Battle of Britain in 1939. His first paper in 1944 described his classic experiments with skin transplants in rabbits. He found that reaction of the rabbit to transplantation of skin from another rabbit was very different from the benign reaction to transplantation of its own skin from one site to another, just as Williamson and others had found in the case of the kidney. Medawar determined that the skin transplant from another rabbit developed a cellular infiltrate that destroyed the transplant in 7 to 10 days. Medawar termed this process *rejection*, and it is the analog of cellularly mediated acute rejection of cardiac transplantation as occurs today. In the same paper, he also described second-set rejection, which occurred when later a second transplant of skin was made to the same rabbit from the same donor rabbit. This second skin graft was destroyed in 5 to 6 days, more rapidly than in first-set rejection. Medawar deduced that preformed antibodies were responsible for second-set rejection, which may be somewhat analogous to humorally mediated hyperacute rejection occurring rarely after cardiac transplantation.
 
-In this and a second classic paper, Medawar developed a number of fundamental concepts. He confirmed his deduction that rejection under some circumstances was mediated by cells (lymphocytes) and in others by humoral antibodies. He recognized that the observed phenomena were the result of enormous genetic diversity among individuals. He hypothesized that second-set rejection implied immunologic recollection of past events. Methods for preventing rejection soon began to be discussed and studied, and Medawar suggested in the early 1950s that the recently discovered corticosteroids may help prevent rejection. However, techniques of immunosuppression developed slowly, and in the interim, at Peter Bent Brigham Hospital in Boston in 1955, Merrill and colleagues performed the first successful human kidney transplant. Based on immunologic concepts developed by Medawar, they chose identical twins for this procedure. This successful case had been preceded at Brigham Hospital by extensive investigations and some clinical renal transplantation between genetically diverse individuals, with poor success. This work was summarized by Hume and colleagues in 1955.
+</div></details>
+
+<details class="med-details"><summary>
+
+#### Biological Basis of Allograft Rejection: Medawar's Concept</summary><div class="details-content">
+
+In this and a second classic paper, Medawar developed a number of fundamental concepts. He confirmed his deduction that rejection under some circumstances was mediated by cells (lymphocytes) and in others by humoral antibodies. He recognized that the observed phenomena were the result of enormous genetic diversity among individuals. He hypothesized that second-set rejection implied immunologic recollection of past events. Methods for preventing rejection soon began to be discussed and studied, and Medawar suggested in the early 1950's that the recently discovered corticosteroids may help prevent rejection. However, techniques of immunosuppression developed slowly, and in the interim, at Peter Bent Brigham Hospital in Boston in 1955, Merrill and colleagues performed the first successful human kidney transplant. Based on immunologic concepts developed by Medawar, they chose identical twins for this procedure. This successful case had been preceded at Brigham Hospital by extensive investigations and some clinical renal transplantation between genetically diverse individuals, with poor success. This work was summarized by Hume and colleagues in 1955.
 
 In 1960, Merrill and colleagues reported successful transplantation with mild immunosuppression between nonidentical twins. It was not until 1962 that Murray and colleagues were able to report successful "kidney transplantation in modified recipients," and in this experience are reported the beginnings of modern immunosuppressive therapy. Calne and Murray showed experimentally in 1961 that azathioprine prolonged the survival of kidney transplant recipients. Subsequently, intensive study has considerably improved immunosuppression techniques, including development of cyclosporine and other agents.
 
-When Shumway completed his training during the late 1950s at the University of Minnesota in the early era of cardiac surgery, he went to Stanford University and began developing an experimental program in cardiac transplantation. Lower and Shumway first reported successful experimental orthotopic cardiac transplantation in 1960, just at the time when renal transplantation was becoming established. This work was confirmed by Kondo and colleagues, who also achieved prolonged survival.
+</div></details>
+
+<details class="med-details"><summary>
+
+#### Development of Orthotopic Technique at Stanford: Lower and Shumway</summary><div class="details-content">
+
+When Shumway completed his training during the late 1950's at the University of Minnesota in the early era of cardiac surgery, he went to Stanford University and began developing an experimental program in cardiac transplantation. Lower and Shumway first reported successful experimental orthotopic cardiac transplantation in 1960, just at the time when renal transplantation was becoming established. This work was confirmed by Kondo and colleagues, who also achieved prolonged survival.
 
 In 1964, Hardy and colleagues performed the first heart transplant into a human, using a chimpanzee heart. Hardy's team had pursued laboratory investigations in cardiac transplantation for the previous 8 years. They had planned to use a human donor, but the selected recipient (a 68-year-old man in shock from end-stage ischemic cardiomyopathy with respiratory failure, obtundation, and a freshly amputated gangrenous leg) was too close to death to await a donor. Thus, Hardy and his team elected to use a chimpanzee donor (as a *xenotransplant*, a graft from an individual of a different species than the recipient), based on studies of chimpanzee renal transplants in humans. The xenotransplanted heart contracted well on cardiopulmonary bypass (CPB) but was apparently too small to support the circulation unassisted. The patient died approximately 1.5 hours after discontinuation of CPB.
 
+</div></details>
+
+<details class="med-details"><summary>
+
+#### First Clinical Allotransplantations: Barnard and Stanford Program</summary><div class="details-content">
+
 The first human-to-human heart transplant (allograft) was performed in Cape Town, South Africa, by Christiaan Barnard on December 3, 1967. The recipient was Louis Washkansky, a 53-year-old ex-boxer with end-stage ischemic cardiomyopathy. Three days after the Cape Town operation, Adrian Kantrowitz performed the second human heart transplant in Brooklyn. The recipient was an 18-day-old neonate with Ebstein anomaly, refractory heart failure, and previous aortopulmonary shunt for severe cyanosis. The patient received the heart of an anencephalic infant but died 5 hours later of cardiac failure and refractory acidosis. On January 2, 1968, Barnard performed the third human heart transplant on Philip Blaiberg, a 46-year-old dental surgeon with refractory heart failure, severe coronary artery disease, and a large left ventricular aneurysm. He became the first long-term survivor, living for 18 months. Norman Shumway performed the fourth heart transplant 4 days later, and this patient died 2 weeks later. After this, other heart transplants followed rapidly in a number of institutions. By the end of 1968, cardiac transplantation had been performed in 102 patients in 50 different institutions in 17 countries. The results were generally poor, with 60% mortality by the eighth postoperative day and a mean survival of only 29 days.
 
-Although cardiac transplantation was then started in yet more centers around the world, few patients were more than short-term survivors. This resulted in reduced clinical use, so by the early 1970s, cardiac transplantation had largely disappeared from clinical practice. An exception to this was the program at Stanford, where clinical and experimental transplantation continued at a steady pace and generated a continuous stream of new information. The report of Caves and colleagues describing a method of transvenous endomyocardial biopsy (EMB) was an important clinical advance because it allowed monitoring cardiac allograft rejection on a serial basis. As a result, in about 1980, cardiac transplantation began to reappear as a viable therapeutic modality. Another major reason for its greater success was the knowledge of immunosuppression that came from research and experience with renal transplantation.
+Although cardiac transplantation was then started in yet more centers around the world, few patients were more than short-term survivors. This resulted in reduced clinical use, so by the early 1970's, cardiac transplantation had largely disappeared from clinical practice. An exception to this was the program at Stanford, where clinical and experimental transplantation continued at a steady pace and generated a continuous stream of new information. The report of Caves and colleagues describing a method of transvenous endomyocardial biopsy (EMB) was an important clinical advance because it allowed monitoring cardiac allograft rejection on a serial basis. As a result, in about 1980, cardiac transplantation began to reappear as a viable therapeutic modality. Another major reason for its greater success was the knowledge of immunosuppression that came from research and experience with renal transplantation.
+
+</div></details>
+
+<details class="med-details"><summary>
+
+#### The Cyclosporine Era and Distant Heart Procurement</summary><div class="details-content">
 
 Cyclosporine, introduced for immunosuppression in 1981, accelerated the evolution of cardiac transplantation from the experimental phase to a clinically useful treatment modality for patients with advanced heart failure. Cyclosporine is a fungal metabolite first isolated from *Tolypocladium inflatum Gams* in 1972. Its marked immunosuppressive properties were discovered by Borel in 1972.
 
 Distant heart procurement programs also increased activity and improved success in cardiac transplantation. Watson and colleagues in 1977 showed the feasibility of such programs, and he and Thomas reported good clinical results using distant donors.
 
+</div></details>
+
+<details class="med-details"><summary>
+
+#### Heterotopic Transplantation and Modern Worldwide Volumes</summary><div class="details-content">
+
 Heterotopic heart transplantation, in which the heart is placed in a nonanatomic position (as opposed to the orthotopic or normal anatomic position) was first performed clinically in 1974 in South Africa, and it was used exclusively in Cape Town for many years. Heterotopic transplantation gained modest clinical application in the 1980s for situations of marked recipient pulmonary hypertension so that the native right ventricle could continue to support the right side of the circulation after transplantation; for use of a small donor heart in a larger recipient; and as support of a dysfunctional donor heart (due to a long ischemic time) by the native heart until donor heart recovery occurred. However, the midterm survival was clearly inferior to orthotopic heart transplantation, and this technique is no longer utilized.
 
 Annually, more than 6000 heart transplants are performed worldwide. The overall transplant rate was stable until 2016, when it began to rise steadily, reaching 106.2 transplants per 100 patient-years in 2021, the highest rate in the previous 10 years. A new record for heart transplants was achieved in 2021. A total of 31,238 life-saving heart transplants were carried out in hospitals across the United States in the last 10 years.
+
+</div></details>
 
 </div></details>
 
@@ -202,29 +238,29 @@ The actual process by which an antigen receptor identifies a bound peptide as "n
 
 #### Major Histocompatibility Complex Molecules</summary><div class="details-content">
 
-The proteins primarily involved in the immune response to organ transplantation are called *major histocompatibility complex* (MHC) antigens. T lymphocytes recognize only antigenic peptides contained within the MHC-binding groove on the surfaces of antigen-presenting cells. In each species, MHC antigens have unique names. Human MHC antigens are termed *human leukocyte antigens* (HLA). The MHC consists of a group of genes on the short arm of chromosome 6 that code for a number of proteins expressed on the cell surface (Fig. 21.1). These genes are polymorphic in that individuals vary in the exact nucleotide sequence of the genes and therefore the specific amino acid sequence of the protein products. Therefore, for any individual MHC gene, there are likely to be multiple variations (also called *alleles*) of that gene distributed within a population of individuals.
+The proteins primarily involved in the immune response to organ transplantation are called *major histocompatibility complex* (MHC) antigens. T lymphocytes recognize only antigenic peptides contained within the MHC-binding groove on the surfaces of antigen-presenting cells. In each species, MHC antigens have unique names. Human MHC antigens are termed *human leukocyte antigens* (HLA). The MHC consists of a group of genes on the short arm of chromosome 6 that code for a number of proteins expressed on the cell surface ([Fig. 21.1](#fig-21-01)). These genes are polymorphic in that individuals vary in the exact nucleotide sequence of the genes and therefore the specific amino acid sequence of the protein products. Therefore, for any individual MHC gene, there are likely to be multiple variations (also called *alleles*) of that gene distributed within a population of individuals.
 
-![](_page_4_Figure_12.jpeg)
+<span id="fig-21-01"></span>![](_page_4_Figure_12.jpeg)
 
-**FIGURE 21.1** Simplified map of human major histocompatibility complex, class I (E, H, G, and F), II, and III. The A, B, C, and DR genes are most often routinely typed at transplant centers. Genes for tumor necrosis factor (TNF) and complement components can be found in the class III region. (From George JF. Immunology in relation to cardiac transplantation. In: Kirklin JK, Young JB, McGiffin DC, eds. *Heart Transplantation*. 2002:14.)
+**FIGURE 21.1** Simplified map of human major histocompatibility complex, class I (E, H, G, and F), II, and III. The A, B, C, and DR genes are most often routinely typed at transplant centers. Genes for tumor necrosis factor (TNF) and complement components can be found in the class III region.
 
 In the context of transplantation, it is important to differentiate between donor and recipient MHC molecules. *Donor MHC* molecules are a source of antigen in that they are ingested by the recipient antigen-presenting cells and processed into peptides that are subsequently loaded into recipient MHC molecules for presentation to recipient T cells. The more extensive the difference in amino acid sequence between donor and recipient MHC molecules, the more likely it is that the donor MHC molecule will be broken into peptides that are recognized as nonself. In the special case of direct antigen presentation (see "T Lymphocytes" in later text), intact donor class II MHC molecules on donor antigen-presenting cells or donor endothelial cells within the transplanted heart may play an important role in T-cell activation.
 
 The functions of MHC molecules are closely related to their three-dimensional structure and high degree of polymorphism. Within their three-dimensional structure, there is a distinct groove formed by two α helices that lie on top of a β-pleated sheet. This groove represents the domain in which peptides are processed when they are presented to a T cell by an antigen-presenting cell. A T cell will respond only to an antigenic peptide contained in the MHC peptide-binding groove of an antigen-presenting cell. The polymorphism of the MHC molecule lies in and around the protein-binding groove, creating differences among individuals by different side grooves that may project into and out of the MHC groove for processed peptides. The MHC complex proteins are broadly subdivided into groups called class I and class II. Class I and class II proteins are most commonly considered in the context of transplantation and have similar overall three-dimensional shapes.
 
-The human MHC class I molecules routinely typed for solid organ transplantation are called A, B, and C. Class I molecules are expressed on the surface of virtually all nucleated cells, although with varying levels of expression. The highest surface density is found on lymphocytes, with lower expression on fibroblasts, muscle cells, and endothelial cells. However, certain cytokines such as interferon (IFN)-γ can increase the level of MHC expression on these other cells. This inducibility of MHC molecules likely plays an important role in initiating and perpetuating a rejection episode. As inflammatory mediators are released during a rejection episode, it is likely the level of MHC expression on donor vascular endothelial cells and muscle cells increases further, augmenting the antigenic stimulation. MHC class I molecules consist of two polypeptide chains: a larger highly polymorphic α chain coded by a gene in the MHC complex on chromosome 6, and a smaller nonpolymorphic β chain called β<sub>2</sub>-microglobulin that is coded by a gene on chromosome 15 (Fig. 21.2). The α<sub>1</sub> and α<sub>2</sub> domains form a peptide-binding region in which they interact three-dimensionally to form a platform of eight strands forming a β-pleated sheet flanked by two long α-helical regions forming the floor and walls of the peptide-binding groove.
+The human MHC class I molecules routinely typed for solid organ transplantation are called A, B, and C. Class I molecules are expressed on the surface of virtually all nucleated cells, although with varying levels of expression. The highest surface density is found on lymphocytes, with lower expression on fibroblasts, muscle cells, and endothelial cells. However, certain cytokines such as interferon (IFN)-γ can increase the level of MHC expression on these other cells. This inducibility of MHC molecules likely plays an important role in initiating and perpetuating a rejection episode. As inflammatory mediators are released during a rejection episode, it is likely the level of MHC expression on donor vascular endothelial cells and muscle cells increases further, augmenting the antigenic stimulation. MHC class I molecules consist of two polypeptide chains: a larger highly polymorphic α chain coded by a gene in the MHC complex on chromosome 6, and a smaller nonpolymorphic β chain called β<sub>2</sub>-microglobulin that is coded by a gene on chromosome 15 ([Fig. 21.2](#fig-21-02)). The α<sub>1</sub> and α<sub>2</sub> domains form a peptide-binding region in which they interact three-dimensionally to form a platform of eight strands forming a β-pleated sheet flanked by two long α-helical regions forming the floor and walls of the peptide-binding groove.
 
-![](_page_5_Picture_2.jpeg)
+<span id="fig-21-02"></span>![](_page_5_Picture_2.jpeg)
 
-**FIGURE 21.2** Schematic of a MHC class I molecule. It consists of two polypeptide chains. The α chain has three immunoglobulin-like domains designated α<sub>1</sub>, α<sub>2</sub>, and α<sub>3</sub>. The α<sub>3</sub> domain also serves as the binding site for the CD8 molecule. The α chain has an α-helical transmembrane portion that connects to signal transduction machinery in cell interior. Noncovalently linked to the α chain is β<sub>2</sub>-microglobulin; this is required for expression of the MHC molecule on the cell surface. *S–S*, Disulfide bonds. (From George JF. Immunology in relation to cardiac transplantation. In: Kirklin JK, Young JB, McGiffin DC, eds. *Heart Transplantation*. 2002:14.)
+**FIGURE 21.2** Schematic of a MHC class I molecule. It consists of two polypeptide chains. The α chain has three immunoglobulin-like domains designated α<sub>1</sub>, α<sub>2</sub>, and α<sub>3</sub>. The α<sub>3</sub> domain also serves as the binding site for the CD8 molecule. The α chain has an α-helical transmembrane portion that connects to signal transduction machinery in cell interior. Noncovalently linked to the α chain is β<sub>2</sub>-microglobulin; this is required for expression of the MHC molecule on the cell surface. *S–S*, Disulfide bonds.
 
 Within this region, peptide fragments of eight or nine amino acids are present in the peptide-binding groove. The α<sub>3</sub> domain is highly constant among class I MHC molecules, and the interaction between the α<sub>3</sub> domain and that of β<sub>2</sub>-microglobulin helps maintain the correct confirmation of the MHC molecule for cell-surface stability. The α<sub>3</sub> domain interacts with the CD8 molecule on the surface of T cells, which generally restricts the recognition of antigens displayed in the groove of class I HLA molecules to CD8+ T cells.
 
-The primary class II molecules related to solid organ transplantation are called *HLA-DR*, *HLA-DP*, and *HLA-DQ*. These molecules are composed of an α chain and a β chain, each of which contains two domains designated α<sub>1</sub> and α<sub>2</sub> and β<sub>1</sub> and β<sub>2</sub>, expressed as transmembrane proteins (Fig. 21.3). The α<sub>1</sub> and β<sub>1</sub> domains form the structure of the antigenic peptide-binding groove. The β<sub>2</sub> domain interacts with CD4 molecules, which generally restricts the presentation of antigen in the groove of class II MHC molecules to CD4<sup>+</sup> T cells. It is clinically important to include HLA typing as: HLA-A, B, C, DRB1, DQA1, DQB1, DPA1, and DPB1.
+The primary class II molecules related to solid organ transplantation are called *HLA-DR*, *HLA-DP*, and *HLA-DQ*. These molecules are composed of an α chain and a β chain, each of which contains two domains designated α<sub>1</sub> and α<sub>2</sub> and β<sub>1</sub> and β<sub>2</sub>, expressed as transmembrane proteins ([Fig. 21.3](#fig-21-03)). The α<sub>1</sub> and β<sub>1</sub> domains form the structure of the antigenic peptide-binding groove. The β<sub>2</sub> domain interacts with CD4 molecules, which generally restricts the presentation of antigen in the groove of class II MHC molecules to CD4<sup>+</sup> T cells. It is clinically important to include HLA typing as: HLA-A, B, C, DRB1, DQA1, DQB1, DPA1, and DPB1.
 
-![](_page_5_Picture_8.jpeg)
+<span id="fig-21-03"></span>![](_page_5_Picture_8.jpeg)
 
-**FIGURE 21.3** Schematic of a MHC class II molecule composed of an α and β chain, each with two immunoglobulin-like domains designated α<sub>1</sub>, α<sub>2</sub>, and β<sub>1</sub>, β<sub>2</sub>, respectively. Majority of polymorphism in MHC class II molecules is in the β chain. The α chain is nearly invariant. *S–S*, Disulfide bonds. (From George JF. Immunology in relation to cardiac transplantation. In: Kirklin JK, Young JB, McGiffin DC, eds. *Heart Transplantation*. 2002:14.)
+**FIGURE 21.3** Schematic of a MHC class II molecule composed of an α and β chain, each with two immunoglobulin-like domains designated α<sub>1</sub>, α<sub>2</sub>, and β<sub>1</sub>, β<sub>2</sub>, respectively. Majority of polymorphism in MHC class II molecules is in the β chain. The α chain is nearly invariant. *S–S*, Disulfide bonds.
 
 </div></details>
 
@@ -232,17 +268,17 @@ The primary class II molecules related to solid organ transplantation are called
 
 #### Antigen Processing</summary><div class="details-content">
 
-Two basic pathways exist for the processing of antigen that subsequently is displayed on the cell surface in the peptide-binding groove of an MHC molecule. The *exogenous pathway* involves proteins originating from outside the cell that present with MHC class II molecules (Fig. 21.4). This pathway is the principal vehicle for processing and presenting alloantigens following organ transplantation. It is initiated when the antigen binds to the surface of the antigen-presenting cell, which then internalizes the protein via receptor-mediated endocytosis or phagocytosis. Once the peptide (which may be either MHC class I or II) is loaded into the binding groove of the class II molecule, it is transported to the cell surface for presentation to T cells. Any protein from the donor organ can serve as an antigen.
+Two basic pathways exist for the processing of antigen that subsequently is displayed on the cell surface in the peptide-binding groove of an MHC molecule. The *exogenous pathway* involves proteins originating from outside the cell that present with MHC class II molecules ([Fig. 21.4](#fig-21-04)). This pathway is the principal vehicle for processing and presenting alloantigens following organ transplantation. It is initiated when the antigen binds to the surface of the antigen-presenting cell, which then internalizes the protein via receptor-mediated endocytosis or phagocytosis. Once the peptide (which may be either MHC class I or II) is loaded into the binding groove of the class II molecule, it is transported to the cell surface for presentation to T cells. Any protein from the donor organ can serve as an antigen.
 
-![](_page_6_Picture_2.jpeg)
+<span id="fig-21-04"></span>![](_page_6_Picture_2.jpeg)
 
-**FIGURE 21.4** Major MHC class II molecule synthesis and processing of exogenous antigens. An exogenous antigen can be phagocytized or endocytosed (either receptor-mediated endocytosis or pinocytosis) by an antigen-presenting cell. Once internalized, the antigen is degraded into a series of acidic compartments (including lysosomes) to produce peptides that are 13 to 18 amino acids long, which can then be situated in the peptide-binding groove of a class II MHC molecule. At the same time, newly synthesized class II molecules are assembled and associated with the invariant chain in the endoplasmic reticulum. When the complex enters the endosomal compartment, the invariant chain is degraded, leaving a fragment called *class II-associated invariant chain peptide* (CLIP) that occupies the peptide-binding groove of the class II molecule. The class II-like molecule HLA-DM catalyzes release of CLIP and loading of the antigenic peptide into the peptide-binding groove of the class II molecule. (From George JF. Immunology in relation to cardiac transplantation. In: Kirklin JK, Young JB, McGiffin DC, eds. *Heart Transplantation*. 2002:14.)
+**FIGURE 21.4** Major MHC class II molecule synthesis and processing of exogenous antigens. An exogenous antigen can be phagocytized or endocytosed (either receptor-mediated endocytosis or pinocytosis) by an antigen-presenting cell. Once internalized, the antigen is degraded into a series of acidic compartments (including lysosomes) to produce peptides that are 13 to 18 amino acids long, which can then be situated in the peptide-binding groove of a class II MHC molecule. At the same time, newly synthesized class II molecules are assembled and associated with the invariant chain in the endoplasmic reticulum. When the complex enters the endosomal compartment, the invariant chain is degraded, leaving a fragment called *class II-associated invariant chain peptide* (CLIP) that occupies the peptide-binding groove of the class II molecule. The class II-like molecule HLA-DM catalyzes release of CLIP and loading of the antigenic peptide into the peptide-binding groove of the class II molecule.
 
-The *endogenous pathway* involves proteins that originate inside the cell, in which proteins complex with MHC class I molecules and are presented to T cells (Fig. 21.5). This pathway appears to have a minor role in transplant rejection, and theoretically any cell (not just antigen-presenting cells) can use it in the presentation of internal peptides on MHC class I molecules. This pathway is typically used in the body's defense against intracellular pathogens, such as viruses whose proteins can be degraded and presented on the cell surface, resulting in the cell's destruction by cytotoxic CD8<sup>+</sup> T cells.
+The *endogenous pathway* involves proteins that originate inside the cell, in which proteins complex with MHC class I molecules and are presented to T cells ([Fig. 21.5](#fig-21-05)). This pathway appears to have a minor role in transplant rejection, and theoretically any cell (not just antigen-presenting cells) can use it in the presentation of internal peptides on MHC class I molecules. This pathway is typically used in the body's defense against intracellular pathogens, such as viruses whose proteins can be degraded and presented on the cell surface, resulting in the cell's destruction by cytotoxic CD8<sup>+</sup> T cells.
 
-![](_page_6_Picture_4.jpeg)
+<span id="fig-21-05"></span>![](_page_6_Picture_4.jpeg)
 
-**FIGURE 21.5** Synthesis of MHC class I molecules and processing of endogenous antigens. Class I molecules are assembled in the endoplasmic reticulum with calnexin, a membrane-bound protein. β<sub>2</sub> Microglobulin is then substituted for calnexin, and the class I molecule binds to the transporter associated with antigen processing (TAP). Proteins in the cytoplasm are degraded to peptides by proteasomes. Peptides are transported into the lumen of the endoplasmic reticulum by the TAP, and a peptide is loaded into the peptide-binding groove of the class I molecule. Molecule is then released from the TAP and exported to the cell surface via the Golgi complex. (From George JF. Immunology in relation to cardiac transplantation. In: Kirklin JK, Young JB, McGiffin DC, eds. *Heart Transplantation*. 2002:14.)
+**FIGURE 21.5** Synthesis of MHC class I molecules and processing of endogenous antigens. Class I molecules are assembled in the endoplasmic reticulum with calnexin, a membrane-bound protein. β<sub>2</sub> Microglobulin is then substituted for calnexin, and the class I molecule binds to the transporter associated with antigen processing (TAP). Proteins in the cytoplasm are degraded to peptides by proteasomes. Peptides are transported into the lumen of the endoplasmic reticulum by the TAP, and a peptide is loaded into the peptide-binding groove of the class I molecule. Molecule is then released from the TAP and exported to the cell surface via the Golgi complex.
 
 </div></details>
 
@@ -250,37 +286,43 @@ The *endogenous pathway* involves proteins that originate inside the cell, in wh
 
 #### T Lymphocytes</summary><div class="details-content">
 
-T lymphocytes represent the most important component of the immune response to transplanted organs (Box 21.1). They are defined by presence of a CD3 molecule (part of the T-cell antigen receptor) on their surface and generally with either CD4 or CD8 surface molecules. The two basic subtypes of T lymphocytes are T helper (T<sub>H</sub>) cells and cytotoxic T cells. The T<sub>H</sub> lymphocyte expresses CD4 molecules on its surface and functions primarily to detect nonself antigens by means of its T-cell receptors. When activated, it can also recruit other cells (CD8+ T cells, other CD4+ T cells, B cells, phagocytes, neutrophils, and other inflammatory cells) into the immune response (Table 21.1).
+T lymphocytes represent the most important component of the immune response to transplanted organs ([Box 21.1](#box-21-01)). They are defined by presence of a CD3 molecule (part of the T-cell antigen receptor) on their surface and generally with either CD4 or CD8 surface molecules. The two basic subtypes of T lymphocytes are T helper (T<sub>H</sub>) cells and cytotoxic T cells. The T<sub>H</sub> lymphocyte expresses CD4 molecules on its surface and functions primarily to detect nonself antigens by means of its T-cell receptors. When activated, it can also recruit other cells (CD8+ T cells, other CD4+ T cells, B cells, phagocytes, neutrophils, and other inflammatory cells) into the immune response ([Table 21.1](#table-21-01)).
 
-##### • BOX 21.1 T-Cell Facts
+<details class="med-details"><summary>
 
-- The thymus is required for T-cell development.
-- When mature, all T cells express CD3 surface molecules.
-- Peripheral T cells express CD4 or CD8 molecules but not both.
+#### <span id="box-21-01"></span>BOX 21.1: T-Cell Facts</summary><div class="details-content">
+
+- Thymus is required for T-cell development.
+- Once mature, all T cells express CD3 surface molecules.
+- Peripheral T cells express either CD4 or CD8 molecules, but not both.
 - CD4 and CD8 surface markers identify T-cell populations with different immunologic capabilities.
-- T cells regulate antiviral and antifungal cellular immune responses.
-- T cells regulate activation and differentiation of B cells and switching of antibody secretion from IgM to other classes.
+- T cells regulate antiviral and antifungal cell-mediated immune responses.
+- T cells regulate B-cell activation and differentiation and switching of antibody secretion from IgM to other classes.
 
-From George JF. Immunology in relation to cardiac transplantation. In: Kirklin JK, Young JB, McGiffin DC, eds. *Heart Transplantation*. 2002:14.
+</div></details>
 
-**TABLE 21.1 T-Cell Types and Properties**
+<details class="med-details"><summary>
 
-| Property | CD4<sup>+</sup> (Helper) | CD8<sup>+</sup> (Cytotoxic) |
-|----------|--------------------------|----------------------------|
-| Specificity | Recognize antigen in association with class II MHC molecules expressed on antigen-presenting cells | Recognize antigen in association with class I MHC molecules |
-| Function | Undergo activation by antigen-presenting cells and proliferate; Facilitate activation, proliferation, and differentiation of cytotoxic T cells; Provide "help" for activating and differentiating B cells, and regulate antibody class switching; Regulate inflammation by secretion of cytokines | Can kill virus-infected cells and cells expressing nonself antigens |
-| Proportion of peripheral T-cell population | Two-thirds | One-third |
-| Subtypes | T<sub>H</sub>1 and T<sub>H</sub>2, possibly others | Types 1 and 2 |
+#### <span id="table-21-01"></span>TABLE 21.1: T-Cell Types and Properties</summary><div class="details-content">
 
-*MHC*, Major histocompatibility complex. From George JF. Immunology in relation to cardiac transplantation. In: Kirklin JK, Young JB, McGiffin DC, eds. *Heart Transplantation*. 2002:14.
+| Property | CD4⁺ (Helper) | CD8⁺ (Cytotoxic) |
+|:---|:---|:---|
+| **Specificity** | Recognize antigen in association with class II MHC molecules expressed on antigen-presenting cells | Recognize antigen in association with class I MHC molecules |
+| **Function** | Undergo activation by antigen-presenting cells and proliferate; facilitate activation, proliferation, and differentiation of cytotoxic T cells; provide "help" for B-cell activation and differentiation and regulate antibody class switching; regulate inflammation by secretion of cytokines | Can kill virus-infected cells and allograft cells expressing nonself antigens |
+| **Proportion of peripheral T-cell population** | Two-thirds (~ 65%) | One-third (~ 35%) |
+| **Subtypes** | T<sub>H</sub>1, T<sub>H</sub>2, T<sub>H</sub>17, T<sub>reg</sub> | Cytotoxic type 1 and type 2 (Tc1, Tc2) |
+
+###### MHC, Major histocompatibility complex.
+
+</div></details>
 
 Cytotoxic T lymphocytes differ from T<sub>H</sub> cells in that they express CD8 molecules on their surface. The cytotoxic T lymphocyte functions primarily as an effector cell that kills target cells (cells that express nonself antigens in the groove of a class I MHC molecule), and under special circumstances may suppress other cells (prevent their activation). The T-cell receptor allows the T lymphocyte to detect the presence of a nonself antigen by providing the capability of binding to antigen and MHC molecules in a specific manner. This receptor allows detection of nonself MHC antigens in the transplanted heart. Each T-lymphocyte clone has a T-cell receptor that is unique with respect to the receptors of other T-cell clones and has a unique T-cell genetic sequence. The pool of unique T cells constitutes the *T-cell repertoire*, which includes more than 10<sup>12</sup> unique T-cell receptors in a given individual.
 
-![](_page_7_Picture_13.jpeg)
+<span id="fig-21-06"></span>![](_page_7_Picture_13.jpeg)
 
-**FIGURE 21.6** Schematic of T-cell receptor (TCR). The TCR is a multichain complex consisting of a heterodimer that, in the majority of T cells, consists of an α and β chain, each of which has immunoglobulin-like domains, as indicated by the loops held together by disulfide *(S-S)* bonds. These chains constitute the portion of the molecule that binds the antigen–major histocompatibility complex on the surface of an antigen-presenting cell. The α and β chains are noncovalently linked to the CD3 complex, which consists of chains called γ, δ, and ε. The two additional chains can be either of two pairs composed of two ζ chains, or of a ζ chain and a η chain. The CD3 complex transmits a signal through the plasma membrane *(shaded in gray)* into the interior of the cell. (From George JF. Immunology in relation to cardiac transplantation. In: Kirklin JK, Young JB, McGiffin DC, eds. *Heart Transplantation*. 2002:14.)
+**FIGURE 21.6** Schematic of T-cell receptor (TCR). The TCR is a multichain complex consisting of a heterodimer that, in the majority of T cells, consists of an α and β chain, each of which has immunoglobulin-like domains, as indicated by the loops held together by disulfide *(S-S)* bonds. These chains constitute the portion of the molecule that binds the antigen–major histocompatibility complex on the surface of an antigen-presenting cell. The α and β chains are noncovalently linked to the CD3 complex, which consists of chains called γ, δ, and ε. The two additional chains can be either of two pairs composed of two ζ chains, or of a ζ chain and a η chain. The CD3 complex transmits a signal through the plasma membrane *(shaded in gray)* into the interior of the cell.
 
-The portion of the T-cell receptor that interacts with the antigenic peptide–MHC complex is a heterodimer of two covalently linked polypeptide chains designated α and β (Fig. 21.6). The α and β chains each have a variable region (V-region) that contains a highly variable amino acid sequence. The α and β chains are associated with membrane-bound proteins called the *CD3 complex*. It is required for expression of T-cell receptor on the cell surface and is responsible for transduction of a membrane signal when the T-cell receptor complex interacts with antigen. Ability of a lymphocyte to respond to the presence of a specific antigen is termed *recognition*.
+The portion of the T-cell receptor that interacts with the antigenic peptide–MHC complex is a heterodimer of two covalently linked polypeptide chains designated α and β ([Fig. 21.6](#fig-21-06)). The α and β chains each have a variable region (V-region) that contains a highly variable amino acid sequence. The α and β chains are associated with membrane-bound proteins called the *CD3 complex*. It is required for expression of T-cell receptor on the cell surface and is responsible for transduction of a membrane signal when the T-cell receptor complex interacts with antigen. Ability of a lymphocyte to respond to the presence of a specific antigen is termed *recognition*.
 
 T cells recognize antigen only in the presence of self-MHC. T<sub>H</sub> cells, which initiate the cellular response to transplant antigens, respond to antigen that is associated with an MHC complex on the cell surface through a process called *antigen presentation*. This process is limited to certain cell types called *antigen-presenting cells*. A presenting antigen must first be internalized within the antigen-presenting cell, broken down into 7 to 13 amino acid polypeptides, which are physically associated with MHC molecules, and exported to the cell surface as a complex. T<sub>H</sub> cells respond only to those cells that express class II molecules on their surface. Cytotoxic T cells (CD8<sup>+</sup>) respond to cells that have class I MHC molecules on their surface.
 
@@ -290,17 +332,19 @@ T cells recognize antigen only in the presence of self-MHC. T<sub>H</sub> cells,
 
 #### Antigen-Presenting Cells</summary><div class="details-content">
 
-Because cytotoxic T cells recognize antigens only on the surface of other cells that have class I MHC surface molecules, a functionally distinct class of cells has been identified that presents antigen to T lymphocytes. These antigen-presenting cells process antigens by breaking them down into individual peptides, inserting the peptides into the MHC molecule, and transporting them to the cell surface (Box 21.2). Cells that function as antigen-presenting cells are dendritic cells, macrophages, and B cells. Dendritic cells are the most efficient antigen-presenting cells because they have a large surface area, increasing the probability of contact with T lymphocytes. Dendritic cells are present throughout most lymphoid and nonlymphoid tissues and possess a high density of surface MHC class II molecules. Antigen-presenting cells also provide a *second signal* that is necessary for T-cell activation, which is the binding of another molecule on the surface of the T cell in addition to the binding of the T-cell receptor by an antigen-MHC complex. This process is called co-stimulation which confirms alloantigen recognition and leads to cytotoxic T-cell proliferation.
+Because cytotoxic T cells recognize antigens only on the surface of other cells that have class I MHC surface molecules, a functionally distinct class of cells has been identified that presents antigen to T lymphocytes. These antigen-presenting cells process antigens by breaking them down into individual peptides, inserting the peptides into the MHC molecule, and transporting them to the cell surface ([Box 21.2](#box-21-02)). Cells that function as antigen-presenting cells are dendritic cells, macrophages, and B cells. Dendritic cells are the most efficient antigen-presenting cells because they have a large surface area, increasing the probability of contact with T lymphocytes. Dendritic cells are present throughout most lymphoid and nonlymphoid tissues and possess a high density of surface MHC class II molecules. Antigen-presenting cells also provide a *second signal* that is necessary for T-cell activation, which is the binding of another molecule on the surface of the T cell in addition to the binding of the T-cell receptor by an antigen-MHC complex. This process is called co-stimulation which confirms alloantigen recognition and leads to cytotoxic T-cell proliferation.
 
-##### • BOX 21.2 Antigen-Presenting Cells
+<details class="med-details"><summary>
 
-- Derived from bone marrow
-- Process peptides and present antigen to T cells
-- Transport foreign antigens to lymph nodes for interaction with T cells
-- Express adhesion molecules that facilitate T-cell receptor binding to the peptide/major histocompatibility complex
-- Provide co-stimulatory "second signals" to activate the T cell
+#### <span id="box-21-02"></span>BOX 21.2: Antigen-Presenting Cells</summary><div class="details-content">
 
-From George JF. Immunology in relation to cardiac transplantation. In: Kirklin JK, Young JB, McGiffin DC, eds. *Heart Transplantation*. 2002:14.
+- Originate in bone marrow.
+- Process peptides and present antigen to T cells.
+- Transport foreign antigens to lymph nodes for interaction with T cells.
+- Express adhesion molecules that facilitate T-cell receptor binding to peptide/major histocompatibility complex.
+- Provide costimulatory "second signals" for T-cell activation.
+
+</div></details>
 
 </div></details>
 
@@ -308,11 +352,11 @@ From George JF. Immunology in relation to cardiac transplantation. In: Kirklin J
 
 #### B Lymphocytes</summary><div class="details-content">
 
-B lymphocytes arise from bone marrow and do not express CD4 or CD8 molecules on their surface. They use surface immunoglobulins rather than T-cell receptors for detecting antigen, and the end-product of B-cell activation is differentiation into antibody-secreting *plasma cells* and *memory B cells* (B cells capable of generating an immune response when there is subsequent exposure to the same antigen). Immunoglobulins (antibodies) are produced by B cells that have differentiated into plasma cells. They consist of four polypeptide chains in two pairs, each consisting of a heavy chain and a shorter light chain (Fig. 21.7). The end of the molecule is called a *variable region* because the genes that code for the heavy and light chains are composed of segments that join together imprecisely. The other end of the heavy chain, called the *constant region*, contains sites for biologically important activity such as complement activation. The heavy chain constant regions form the basis for classifying immunoglobulins into isotypes IgG, IgA, IgM, IgD, and IgE.
+B lymphocytes arise from bone marrow and do not express CD4 or CD8 molecules on their surface. They use surface immunoglobulins rather than T-cell receptors for detecting antigen, and the end-product of B-cell activation is differentiation into antibody-secreting *plasma cells* and *memory B cells* (B cells capable of generating an immune response when there is subsequent exposure to the same antigen). Immunoglobulins (antibodies) are produced by B cells that have differentiated into plasma cells. They consist of four polypeptide chains in two pairs, each consisting of a heavy chain and a shorter light chain ([Fig. 21.7](#fig-21-07)). The end of the molecule is called a *variable region* because the genes that code for the heavy and light chains are composed of segments that join together imprecisely. The other end of the heavy chain, called the *constant region*, contains sites for biologically important activity such as complement activation. The heavy chain constant regions form the basis for classifying immunoglobulins into isotypes IgG, IgA, IgM, IgD, and IgE.
 
-![](_page_8_Picture_9.jpeg)
+<span id="fig-21-07"></span>![](_page_8_Picture_9.jpeg)
 
-**FIGURE 21.7** Schematic of structure of an immunoglobulin molecule. An individual antibody molecule consists of two heavy and two light chains. Each heavy and light chain combines to form a single antigen-binding region for a total of two antigenic binding sites. Both chains contain a series of sequence motifs about 100 amino acids long that can fold into globular forms called *immunoglobulin domains*. The two constant region domains in each heavy chain that are farthest from the variable domains constitute the Fc receptor and complement-binding portions of the molecule. Variable domains constitute the antigen-binding site. (From George JF. Immunology in relation to cardiac transplantation. In: Kirklin JK, Young JB, McGiffin DC, eds. *Heart Transplantation*. 2002:14.)
+**FIGURE 21.7** Schematic of structure of an immunoglobulin molecule. An individual antibody molecule consists of two heavy and two light chains. Each heavy and light chain combines to form a single antigen-binding region for a total of two antigenic binding sites. Both chains contain a series of sequence motifs about 100 amino acids long that can fold into globular forms called *immunoglobulin domains*. The two constant region domains in each heavy chain that are farthest from the variable domains constitute the Fc receptor and complement-binding portions of the molecule. Variable domains constitute the antigen-binding site.
 
 </div></details>
 
@@ -328,7 +372,31 @@ Natural killer (NK) cells are structurally similar to T and B lymphocytes but ar
 
 #### Cytokines</summary><div class="details-content">
 
-Soluble molecules called *cytokines* play an important role in the immune response by stimulating secretion of proteins that alter the behavior or property of cells and facilitate recruitment of immunologic cells from distant locations. Unlike hormones, cytokines generally act locally and are not usually found in circulation in large quantities because of their short half-life. Although numerous cytokines have been identified that have diverse biological actions (Table 21.2), cytokines in transplantation are particularly important in mediating inflammatory processes and regulating T-cell responses. Cytokine production is one of the hallmarks of T-cell activation. Prominent cytokines in the immunologic response to transplantation include interleukin (IL)-2, IL-6, tumor necrosis factor (TNF), and IFN-γ.
+Soluble molecules called *cytokines* play an important role in the immune response by stimulating secretion of proteins that alter the behavior or property of cells and facilitate recruitment of immunologic cells from distant locations. Unlike hormones, cytokines generally act locally and are not usually found in circulation in large quantities because of their short half-life. Although numerous cytokines have been identified that have diverse biological actions ([Table 21.2](#table-21-02)), cytokines in transplantation are particularly important in mediating inflammatory processes and regulating T-cell responses. Cytokine production is one of the hallmarks of T-cell activation. Prominent cytokines in the immunologic response to transplantation include interleukin (IL)-2, IL-6, tumor necrosis factor (TNF), and IFN-γ.
+
+<details class="med-details"><summary>
+
+#### <span id="table-21-02"></span>TABLE 21.2: Important Cytokines in Transplant Immunology</summary><div class="details-content">
+
+| Cytokine | Source | Relevant Functional Activities |
+|:---|:---|:---|
+| **IL-1** | Monocytes, macrophages, endothelium, mesangial cells, fibroblasts, keratinocytes, most nucleated cells in response to injury | Inflammation, migration of neutrophils and macrophages, T-cell proliferation, up-regulation of IL-2R, B-cell differentiation |
+| **IL-2** | Activated T cells, NK cells | Activation, growth, and differentiation of activated T cells and thymocytes; increased NK activity; B-cell differentiation and proliferation |
+| **IL-4** | Activated T cells, mast cells | Cofactor in B-cell activation, growth, and differentiation; immunoglobulin class switching; activation, growth, and differentiation of T cells, especially cytotoxic T cells; proliferation of mast cell lines; inhibition of IL-2 action on B cells and NK cells |
+| **IL-5** | Activated T cells, mast cells, eosinophils | Growth and differentiation of eosinophils |
+| **IL-6** | Probably most nucleated cells | B-cell proliferation and antibody secretion; T-cell activation, growth, and differentiation; induction of acute-phase proteins |
+| **IL-7** | Bone marrow stromal cells, thymus | Stimulation of T- and B-cell precursors; T-cell maturation in thymus; proliferation of mature T cells; activation of NK cells |
+| **IL-8 and other chemokines** | Activated T cells, monocytes, endothelial cells, hepatocytes, fibroblasts, epithelial cells, chondrocytes, keratinocytes, neutrophils | Neutrophil activation, migration, and adhesion to activated endothelium; inflammation |
+| **IL-10** | Activated T cells, B cells, monocytes, macrophages, mast cell lines, keratinocytes | Inhibition of synthesis of cytokines (mainly IFN-γ) by T<sub>H</sub>1 cells through inhibition of macrophage IL-12 synthesis |
+| **IL-12** | Activated macrophages, activated B cells, dendritic cells, keratinocytes | Induction of IFN-γ production by NK cells; essential for T<sub>H</sub>1 cell differentiation and proliferation |
+| **IL-13** | Activated T cells | Inhibition of production of inflammatory cytokines |
+| **IL-17** | Activated T cells, mast cells | Facilitate activation of inflammatory cells |
+| **IL-23** | Antigen-presenting cells | Promotes survival and expansion of a distinct subpopulation of T cells (T<sub>H</sub>17 cells) that secrete IL-17 |
+| **IFN-γ** | Activated T cells, NK cells | Activates macrophages and monocytes; induces MHC class I and class II; increases NK activity; inhibits T<sub>H</sub>2 cell proliferation; inhibits IL-4-induced B-cell activation |
+
+###### IFN, interferon; IL, interleukin; NK, natural killer; T<sub>H</sub>, T helper.
+
+</div></details>
 
 |                                             | Source                                                                                                                                                               | Relevant Functional Activities                                                                                         |
 |---------------------------------------------|----------------------------------------------------------------------------------------------------------------------------------------------------------------------|-------------------------------------------------------------------------------------------------------------------------|
@@ -365,19 +433,21 @@ Adhesion molecules are proteins formed within cells and secreted into the enviro
 
 #### Activation of Immune System Following Cardiac Transplantation</summary><div class="details-content">
 
-The inciting event is placing the donor heart into the recipient and perfusing it with native blood elements following aortic clamp removal. Within minutes, large quantities of donor cells, protein (some of which is soluble MHC molecules), and cellular fragments are carried to the spleen and lymph nodes, which are highly efficient in filtering antigen and trapping antigen within resident antigen-presenting cells. These cells enter the paracortex of the lymph node, which is populated by T cells, macrophages, and dendritic cells. If the T cells have a receptor capable of binding to MHC molecules containing a particular peptide, they will be activated, after which they interact with B cells, inducing the initial stages of B-cell activation. In addition, donor antigen-presenting cells migrate from the heart and encounter T cells as they circulate through the lymphoid tissues. Donor antigen-presenting cells also line the endothelial surfaces of the donor heart vasculature. Donor alloantigens containing foreign MHC complex molecules can be presented to the recipient T cells in two ways: directly and indirectly (Table 21.3). Direct recognition of donor antigens by T lymphocytes involves direct engagement between the recipient T-cell receptor and the donor antigen-presenting cell (also called *passenger lymphocytes*). Even though these antigen-presenting cells are nonself, the structural similarities are sufficient to allow binding with either helper or cytotoxic T lymphocytes, because both MHC class I and II molecules will be expressed. In this method of donor antigen presentation, the specific antigen presented in the groove of the complex is often unimportant because the donor antigen-presenting cell will be identified as nonself.
+The inciting event is placing the donor heart into the recipient and perfusing it with native blood elements following aortic clamp removal. Within minutes, large quantities of donor cells, protein (some of which is soluble MHC molecules), and cellular fragments are carried to the spleen and lymph nodes, which are highly efficient in filtering antigen and trapping antigen within resident antigen-presenting cells. These cells enter the paracortex of the lymph node, which is populated by T cells, macrophages, and dendritic cells. If the T cells have a receptor capable of binding to MHC molecules containing a particular peptide, they will be activated, after which they interact with B cells, inducing the initial stages of B-cell activation. In addition, donor antigen-presenting cells migrate from the heart and encounter T cells as they circulate through the lymphoid tissues. Donor antigen-presenting cells also line the endothelial surfaces of the donor heart vasculature. Donor alloantigens containing foreign MHC complex molecules can be presented to the recipient T cells in two ways: directly and indirectly ([Table 21.3](#table-21-03)). Direct recognition of donor antigens by T lymphocytes involves direct engagement between the recipient T-cell receptor and the donor antigen-presenting cell (also called *passenger lymphocytes*). Even though these antigen-presenting cells are nonself, the structural similarities are sufficient to allow binding with either helper or cytotoxic T lymphocytes, because both MHC class I and II molecules will be expressed. In this method of donor antigen presentation, the specific antigen presented in the groove of the complex is often unimportant because the donor antigen-presenting cell will be identified as nonself.
 
 When shed MHC molecules from the donor organ are processed and presented by recipient antigen-presenting cells to recipient T cells, the process is termed *indirect allorecognition*. The exogenous pathway of processing and presenting alloantigens is generally operative in the indirect allorecognition process. The presentation of donor antigen to T lymphocytes results in T-cell activation.
 
-**TABLE 21.3 Characteristics of Responses to Alloantigens Presented via Direct and Indirect Pathways**
+<details class="med-details"><summary>
 
-| | Direct | Indirect |
-|---|---|---|
-| Antigen processing required | No | Yes |
-| Proportion of primary T-cell responders | 1%-5% | 1/10,000 |
-| Source of antigen-presenting cells | Donor | Recipient only unless there is a class II match between donor and recipient |
+#### <span id="table-21-03"></span>TABLE 21.3: Characteristics of Responses to Alloantigens Presented via Direct and Indirect Pathways</summary><div class="details-content">
 
-Data from George JF. Immunology in relation to cardiac transplantation. In: Kirklin JK, Young JB, McGiffin DC, eds. *Heart Transplantation*. 2002:14.
+| Parameter | Direct Pathway | Indirect Pathway |
+|:---|:---|:---|
+| **Antigen processing required** | No | Yes |
+| **Proportion of primary responder T cells** | 1% – 5% | ~ 1 / 10,000 |
+| **Source of antigen-presenting cells** | Donor (allograft "passenger" leukocytes / dendritic cells) | Recipient only (recipient APCs processing shed donor MHC) |
+
+</div></details>
 
 T-cell activation occurs in concert with changes in the expression of various cell surface molecules, secretion of soluble factors, and a change in cell morphology. Once activated, the T<sub>H</sub> cell clone proliferates and releases cytokines that expand the immune response.
 
@@ -411,147 +481,145 @@ Cytotoxic T lymphocytes (CD8<sup>+</sup>) that are specific for graft antigens p
 
 #### Recipient Evaluation and Selection</summary><div class="details-content">
 
-*General Considerations.* The general approach to patients referred for possible cardiac transplantation is listed in Box 21.3. If patients were selected primarily on the basis of highest expected posttransplant survival and quality of life at 1, 5, and 10 years, transplantation would be recommended for less ill patients whose survival is acceptable with medical or nontransplant surgical therapy. Alternatively, if transplantation were reserved only for patients closest to death from end-stage heart disease, the associated noncardiac organ dysfunction would drastically reduce patient and graft survival, compromising effective use of organs. Thus, some balance must be achieved between survival benefit to the recipient and maximal use of donor organs (in terms of organ survival).
+*General Considerations.* The general approach to patients referred for possible cardiac transplantation is listed in [Box 21.3](#box-21-03). If patients were selected primarily on the basis of highest expected posttransplant survival and quality of life at 1, 5, and 10 years, transplantation would be recommended for less ill patients whose survival is acceptable with medical or nontransplant surgical therapy. Alternatively, if transplantation were reserved only for patients closest to death from end-stage heart disease, the associated noncardiac organ dysfunction would drastically reduce patient and graft survival, compromising effective use of organs. Thus, some balance must be achieved between survival benefit to the recipient and maximal use of donor organs (in terms of organ survival).
 
-##### • BOX 21.3 Approach to Potential Candidate for Heart Transplantation
+<details class="med-details"><summary>
 
-- Address potentially reversible causes and components of heart failure
-- Evaluate severity of heart failure and functional capacity
-- Tailor medical therapy to improve symptoms and reduce mortality
-- Assess risks of deterioration or sudden death
-- Identify indications for transplantation
-- Exclude contraindications to transplantation
-- If heart transplantation is recommended, continue heart failure management with periodic reevaluation
+#### <span id="box-21-03"></span>BOX 21.3: Approach to Potential Candidate for Heart Transplantation</summary><div class="details-content">
 
-From Kirklin JK, Young JB, McGiffin DC. Recipient Evaluation and Selection. In: Kirklin JK, Young JB, McGiffin DC, eds. *Heart Transplantation*. Philadelphia: Churchill Livingstone; 2002:199.
+- Consider potentially reversible causes and components of heart failure.
+- Evaluate severity of heart failure and functional capacity.
+- Optimize medical therapy to improve symptoms and reduce mortality.
+- Assess risks of clinical deterioration or sudden death.
+- Determine indications for transplantation.
+- Exclude contraindications to transplantation.
+- If cardiac transplantation is recommended, continue heart failure management with periodic reassessment.
+
+</div></details>
 
 Because of ongoing controversies, experts in the field have periodically convened to promote standardization of selection criteria. There is general consensus that the prognosis for survival and quality of life of patients with New York Heart Association (NYHA) class IV heart failure symptoms who do not improve with medical or surgical therapy are sufficiently poor that transplant should be considered. The major dilemma in decision making involves patients who are converted from class IV to class III/II by appropriate medical therapy. The decision-making process for this large group of patients is critically important because (1) the available supply of organs is inadequate to provide even a small fraction with transplantation; (2) allocation of a donor heart to a patient with a relatively better prognosis would deprive a more seriously ill patient with a short life expectancy (but preserved noncardiac organ function) the opportunity for transplantation at a time when their benefit would still be maximal; and (3) cardiac transplantation is not curative, is associated with its own chronic morbidity and survival limitation, and should therefore not be offered to patients with intermediate- or long-term survival approaching that of transplantation.
 
-Identifying factors that predict mortality in ambulatory patients with advanced heart failure has been hampered by the complexity and variability of the heart failure syndrome, evolving nature of medical treatment for heart failure, retrospective nature of most studies, infrequent application of appropriate multivariable analysis, and almost uniform lack of patient-specific predictive models. Nevertheless, numerous risk factors have been identified (but poorly quantified) that are associated with adverse outcome in ambulatory patients with advanced heart failure (Box 21.4). Despite many clinical studies of heart failure, few variables *consistently* predict duration of survival (or freedom from rapid deterioration) in advanced heart failure patients undergoing transplant.
+Identifying factors that predict mortality in ambulatory patients with advanced heart failure has been hampered by the complexity and variability of the heart failure syndrome, evolving nature of medical treatment for heart failure, retrospective nature of most studies, infrequent application of appropriate multivariable analysis, and almost uniform lack of patient-specific predictive models. Nevertheless, numerous risk factors have been identified (but poorly quantified) that are associated with adverse outcome in ambulatory patients with advanced heart failure ([Box 21.4](#box-21-04)). Despite many clinical studies of heart failure, few variables *consistently* predict duration of survival (or freedom from rapid deterioration) in advanced heart failure patients undergoing transplant.
 
-##### • BOX 21.4 Factors Associated with Increased Mortality in Heart Failure Patients
+<details class="med-details"><summary>
 
-**Clinical**
-- Heart disease etiology
-- Heart disease duration
-- History of syncope
+#### <span id="box-21-04"></span>BOX 21.4: Factors Associated with Increased Mortality in Heart Failure Patients</summary><div class="details-content">
 
-**Hemodynamic**
-- Lower left ventricular ejection fraction
-- Lower right ventricular ejection fraction
-- Higher pulmonary capillary wedge pressure
-- Higher right atrial pressure
-- Lower cardiac index
-- Inotropic support required
+##### Clinical Factors
+- Etiology of cardiac disease;
+- Duration of heart failure symptoms;
+- History of syncope.
 
-**Functional Capacity**
-- Higher New York Heart Association functional class
-- Lower oxygen consumption at peak exercise
-- Shorter distance covered during 6-minute walk
+##### Hemodynamic Markers
+- Lower left ventricular ejection fraction (LVEF);
+- Lower right ventricular ejection fraction (RVEF);
+- Higher pulmonary capillary wedge pressure (PCWP);
+- Higher right atrial pressure (RAP);
+- Lower cardiac index;
+- Requirement for continuous inotropic support.
 
-**Neurohumoral/Metabolic**
-- Elevated plasma norepinephrine
-- Elevated plasma renin activity
-- Elevated atrial natriuretic peptide
-- Leukocytosis
-- Lower serum sodium
+##### Functional Capacity
+- Higher New York Heart Association (NYHA) functional class;
+- Low peak oxygen consumption (VO₂ max < 14 mL/kg/min);
+- Reduced 6-minute walk distance.
 
-**Ventricular Arrhythmias**
+##### Electrophysiologic Disturbances
+- Ventricular tachyarrhythmias (non-sustained or sustained VT);
+- Left bundle branch block (QRS prolongation);
+- Reduced heart rate variability.
 
-**Noncardiac organ system function**
-- Renal dysfunction
-- Elevated hepatic enzymes
+##### Laboratory / Neurohormonal Markers
+- Marked hyponatremia (serum sodium < 130 mEq/L);
+- Elevated natriuretic peptides (BNP / NT-proBNP);
+- Renal dysfunction (elevated serum creatinine, decreased eGFR);
+- Elevated serum troponin;
+- Neurohormonal activation (high plasma norepinephrine, renin, endothelin-1).
 
-Data from Kirklin JK, Young JB, McGiffin DC. Medical and Nontransplant Surgical Therapy of Heart Failure. In: Kirklin JK, Young JB, McGiffin DC, eds. *Heart Transplantation*. Philadelphia: Churchill Livingstone;2002:139-172.
+</div></details>
 
-Noncardiac comorbidity may adversely affect longevity or quality of life after transplantation, independent of, or as a complex interaction with graft function (Box 21.5). Of particular interest is the effect of chronic immunosuppression on natural history of these comorbid conditions. For many such conditions, there is a paucity of secure information upon which to base rational decisions about so-called relative contraindications, owing to the small numbers of patients available for analysis and reluctance to allocate a limited resource to those whose comorbid conditions constitute a major part of their disease complex. The general and specific contraindications to heart transplantation are listed in Box 21.6.
+Noncardiac comorbidity may adversely affect longevity or quality of life after transplantation, independent of, or as a complex interaction with graft function ([Box 21.5](#box-21-05)). Of particular interest is the effect of chronic immunosuppression on natural history of these comorbid conditions. For many such conditions, there is a paucity of secure information upon which to base rational decisions about so-called relative contraindications, owing to the small numbers of patients available for analysis and reluctance to allocate a limited resource to those whose comorbid conditions constitute a major part of their disease complex. The general and specific contraindications to heart transplantation are listed in [Box 21.6](#box-21-06).
 
-##### • BOX 21.5 Patient Characteristics Associated with Increased Morbidity and Mortality after Cardiac Transplantation
+<details class="med-details"><summary>
 
-- Pulmonary hypertension (>6 Wood units not responsive to vasodilators or not decreasing to <3 to 4 Wood units, pulmonary artery systolic pressure >70 mmHg, transpulmonary gradient >15 mmHg)
-- Infection, active, untreated:
-  HIV positive
-- End-organ disease, irreversible:
-  Hepatic
-  Renal
-  Pulmonary (FEV1 <1.5 L/sec)
-- Pulmonary infarction, recent
-- Age >70 years
-- Diabetes mellitus with end-organ damage (without end-organ damage also increases risk)
-- Peripheral arterial disease or cerebrovascular disease (risk related to severity)
-- Gastrointestinal disease:
-  Chronic active hepatitis
-  Diverticulitis, recent
-  Peptic ulcer disease with active bleeding
-- BMI >35
-- Malignancy based in oncology report
-- Osteoporosis
-- Psychiatric disorder:
-  Affective or schizophrenic
-  Personality disorder, including medical noncompliance
-- Substance abuse:
-  Tobacco
-  Alcohol
-  Controlled drug
-- Lack of social support
+#### <span id="box-21-05"></span>BOX 21.5: Patient Characteristics Associated with Increased Morbidity and Mortality after Cardiac Transplantation</summary><div class="details-content">
 
-*FEV1*, Forced expiratory volume in 1 second; *HIV*, human immunodeficiency virus. Modified from Renlund DG, Taylor DO. Cardiac transplantation. In: Topol EJ, ed. *Textbook of Cardiovascular Medicine*. 2nd ed. Philadelphia: Lippincott Williams & Wilkins; 2002.
+- **Pulmonary Hypertension:**
+  - Pulmonary vascular resistance > 6 Wood units unresponsive to vasodilators or not decreasing to < 3–4 Wood units;
+  - Pulmonary artery systolic pressure > 70 mmHg;
+  - Transpulmonary gradient > 15 mmHg.
+- **Infection (Active, Untreated):**
+  - HIV positive.
+- **Irreversible End-Organ Disease:**
+  - Hepatic;
+  - Renal;
+  - Pulmonary (FEV₁ < 1.5 L/sec).
+- **Recent Pulmonary Infarction.**
+- **Age > 70 years.**
+- **Diabetes Mellitus with End-Organ Damage** (without end-organ damage also confers increased risk).
+- **Peripheral Arterial or Cerebrovascular Disease** (risk related to severity).
+- **Gastrointestinal Disease:**
+  - Chronic active hepatitis;
+  - Recent diverticulitis;
+  - Peptic ulcer disease with active bleeding.
+- **Obesity:** BMI > 35 kg/m².
+- **Malignancy** (based on oncologist evaluation).
+- **Severe Osteoporosis.**
+- **Psychiatric Disorders:**
+  - Affective or schizophrenic disorders;
+  - Personality disorder, including pattern of medical noncompliance.
+- **Substance Abuse:**
+  - Tobacco;
+  - Alcohol;
+  - Controlled substances/illicit drugs.
+- **Lack of Social or Family Support.**
 
-##### • BOX 21.6 Contraindications to Cardiac Transplantation
+###### FEV₁, forced expiratory volume in 1 second; HIV, human immunodeficiency virus; BMI, body mass index.
 
-**General Contraindications**
+</div></details>
 
-Presence of any noncardiac condition that would itself shorten life expectancy or increase risk of death from rejection or complications of immunosuppression
+<details class="med-details"><summary>
 
-**Specific Contraindications**
+#### <span id="box-21-06"></span>BOX 21.6: Contraindications to Cardiac Transplantation</summary><div class="details-content">
 
-Older age (>about 70 years)
-Active infection
-HIV positive
-Active peptic ulcer disease
-Chronic active hepatitis<sup>c</sup>
-Recent diverticulitis
-Diabetes mellitus with end-organ damage
-Severe peripheral arterial or cerebrovascular disease
-Neoplasm: Based on oncologist report
-BMI >35
-eGFR <30 mL
-Bilirubin >3 mg/dL when not due to reversible hepatic congestion, transaminases >2 × normal
-Severe pulmonary dysfunction with FVC and FEV<sub>1</sub> less than about 40% of predicted, especially with intrinsic lung disease
-Pulmonary artery systolic pressure >60 mmHg, mean transpulmonary gradient >15 Wood units
-Acute pulmonary thromboembolism
-Severe osteoporosis
-Smoking within last 6 months
-High risk of life-threatening noncompliance:
-  Inability to make strong commitment to transplantation
-  Cognitive impairment severe enough to limit comprehension of medical
-  History of marked depression or emotional instability
-  Psychiatric instability severe enough to jeopardize incentive for adherence to medical regimen
-  Recurring alcohol or drug abuse
-  Failure to establish stable address or telephone number
-  Previous demonstration of repeated noncompliance with medical therapy or
-  Lack of independent family or social support system
+##### General Contraindications
+* Presence of any noncardiac condition that would itself shorten life expectancy or increase the risk of death from rejection or complications of immunosuppression.
 
-<sup>a</sup>May be relative or absolute, depending on severity or program philosophy.
-<sup>b</sup>May be suitable for cardiac transplantation if inotropic support and hemodynamic management produce a creatinine level <2 mg d/L and creatinine clearance >50 mL/min. Transplantation may also be advisable as combined heart-kidney transplant.
-<sup>c</sup>Requires liver biopsy to exclude cirrhosis or other intrinsic liver disease.
-*FEV<sub>1</sub>*, Forced expiratory volume in 1 second; *FVC*, forced vital capacity.
+##### Specific Contraindications
+* **Older age:** age greater than ~ 70 years.<sup>a</sup>
+* **Active infection:** systemic or uncontrolled active infection.
+* **HIV positive** (except within rigorous approved institutional research protocols).
+* **Active peptic ulcer disease.**
+* **Chronic active hepatitis.**<sup>c</sup>
+* **Recent diverticulitis.**
+* **Diabetes mellitus with end-organ damage** (nephropathy, proliferative retinopathy, neuropathy).
+* **Severe peripheral arterial or cerebrovascular disease.**
+* **Neoplasm:** active or recent malignancy based on oncologist consultation.
+* **Morbid obesity:** body mass index (BMI) > 35 kg/m².
+* **Severe renal dysfunction:** estimated GFR < 30 mL/min.<sup>b</sup>
+* **Severe hepatic dysfunction:** serum bilirubin > 3 mg/dL when not due to reversible hepatic congestion, transaminases > 2 × normal.
+* **Severe pulmonary dysfunction:** FVC and FEV₁ less than ~ 40% of predicted, especially with intrinsic/interstitial lung disease.
+* **Irreversible pulmonary hypertension:** pulmonary artery systolic pressure > 60 mmHg, mean transpulmonary gradient > 15 mmHg (or Rp > 5–6 Wood units refractory to vasodilator challenge).
+* **Acute pulmonary thromboembolism.**
+* **Severe osteoporosis.**
+* **Smoking** within the preceding 6 months.
+* **High risk of life-threatening noncompliance:**
+  - Inability to make strong personal commitment to transplantation;
+  - Cognitive impairment severe enough to limit comprehension of medical regimen;
+  - History of marked depression or emotional instability;
+  - Psychiatric instability severe enough to jeopardize incentive for adherence to lifelong regimen;
+  - Recurring alcohol or substance abuse;
+  - Failure to establish stable address or contact telephone number;
+  - Previous demonstration of repeated noncompliance with medical therapy or follow-up;
+  - Lack of independent family or social support system.
 
-*Age.* In the absence of other life-limiting noncardiac conditions, the appropriate upper age limit becomes an ethical rather than medical decision. In properly selected patients, recipients older than age 65 years have a survival similar to younger patients. Nonetheless, some programs limit heart transplantation to patients younger than age 70. Older patients may be selected if their noncardiac organ systems are normal, their cognitive function is totally intact, they have a strong will to live, their family support system is well developed, and they have the potential for good quality of life if normal cardiac function is restored. A few programs have addressed this issue by allocating only older donor hearts (>50 years) to elderly recipients.
+---
 
-*Pulmonary Vascular Resistance.* The critical feature of elevated pulmonary vascular resistance (Rp) is pulmonary systolic pressure at completion of CPB during the transplant operation. The donor right ventricle generally poorly tolerates a systolic afterload of more than about 50 mmHg, and overt right ventricular dysfunction usually occurs above a pressure of 55 to 60 mmHg, potentially resulting in acute right ventricular failure and death.
+###### <sup>a</sup> May be relative or absolute, depending on severity or program philosophy.
+###### <sup>b</sup> May be suitable for cardiac transplantation if inotropic support and hemodynamic management produce a creatinine level < 2 mg/dL and creatinine clearance > 50 mL/min. Transplantation may also be advisable as combined heart–kidney transplant (sHK).
+###### <sup>c</sup> Requires liver biopsy to exclude cirrhosis or other intrinsic liver disease.
+###### FEV₁, forced expiratory volume in 1 second; FVC, forced vital capacity; GFR, glomerular filtration rate.
 
-Tolerance of the donor right ventricle to elevated afterload conditions (secondary to increased Rp) is partly a function of donor right ventricular reserves, ischemic/reperfusion injury, and possibly donor/recipient size ratio.
-
-The majority of adult patients with advanced heart failure secondary to ischemic or dilated cardiomyopathy have a reactive component of elevated Rp that is directly responsive to left atrial (or pulmonary capillary wedge) pressure. When elevated Rp is primarily reactive, it falls rapidly after transplantation. If the donor heart left atrial pressure is normal, pulmonary artery systolic pressure, transpulmonary gradient, and Rp return to near-normal levels within 1 week of transplant, with little further change during the coming year. It is generally recognized that operative risk progressively increases as Rp rises. Other risk factors interact with Rp to create a higher or lower risk for a given level of resistance. In general terms, an Rp greater than about 5 Wood units (WU) or a transpulmonary gradient (mean pulmonary artery pressure minus pulmonary capillary wedge pressure) above 14 mmHg that is unresponsive to pulmonary vasodilators and inotropic agents (used to test reversibility of pulmonary vascular hypertension) is a major contraindication to orthotopic cardiac transplantation. To define the reactive component of any elevation of pulmonary resistance, a standard part of the cardiac transplant evaluation is right heart catheterization to document cardiac and pulmonary pressures (and Rp). If Rp is elevated, a sustained favorable hemodynamic response (Rp < about 4 WU) to pulmonary vasodilator therapy (e.g., milrinone, prostaglandin E<sub>1</sub>, nitroprusside, nitroglycerin, nitric oxide) suggests a suitable risk for cardiac transplantation. When Rp remains elevated and medical therapy (sometimes over days to several weeks on continuous intravenous [IV] infusions) fails to reduce pulmonary artery systolic pressure below about 60 mmHg, secure conclusions about pulmonary reactivity cannot be made. In that instance, implanting a left ventricular assist device (LVAD) may be warranted to force reduction of left atrial pressure and promote reversal of the reactive component.
-
-*Renal Dysfunction.* Many studies have shown that preexisting renal dysfunction is a major risk factor for mortality after cardiac transplantation. A creatinine clearance of less than 30 mL/min portends a worse prognosis in adults following cardiac transplantation. Besides applying predictors of creatinine clearance or glomerular filtration rate (GFR) to confirm the presence and severity of kidney dysfunction, it is essential to develop further data from a clinical assessment of the patient to evaluate for chronic kidney disease (CKD). Based on current data, CKD is described as GFR <60 mL/min/1.73 m<sup>2</sup> on at least two occasions 90 days apart. Not all patients will have these criteria for CKD. Therefore, a history of renal disease or risk factors for kidney disease, such as diabetes or hypertension, will be helpful for diagnosis of CKD. Kidney ultrasound is another option to evaluate kidney size asymmetry, shrinkage or cortical thinning as an indication for CKD. In special cases, a kidney biopsy may be a valuable option.
-
-Simultaneous heart-kidney transplantation (sHK) has demonstrated the successful transplantation of patients with end-stage heart disease and concurrent kidney disease. Studies have suggested that kidney transplant assessment by a transplant nephrologist should be performed for sHK when the GFR is <45 mL/min/1.73 m². Patients with GFR <30 mL/min/1.73 m² may be considered for sHK. The Heart/Kidney Workgroup has suggested that patients with GFR of 30 to 44 mL/min/1.73 m<sup>2</sup> with strong CKD criteria such as small kidney size or proteinuria >0.5 g/day that is persistent may also be considered for sHK.
-
-*Infection.* Presence of active infection in the transplant candidate is a traditional absolute contraindication to cardiac transplantation if the infection is life threatening and not readily reversible with antibiotic therapy. Clearly, transplantation would be ill advised in the presence of an important pneumonia, central nervous system (CNS) infection, intraabdominal sepsis, or active bloodstream septicemia, because the likelihood of these infectious conditions progressing to a life-threatening state following the immunosuppression of transplantation would be high. However, certain infections, such as mediastinitis following implantation of a ventricular assist device, driveline infections, or in some cases, partially treated endocarditis, are consistent with good outcome following cardiac transplantation, albeit at a higher risk of posttransplant mediastinal infection and fatality.
-
-*Prior Malignancy.* All patients should be screened appropriately for malignancies by a chest radiograph, mammogram, prostate-specific antigen, abdominal ultrasound, and complete physical examination. A history of malignancy increases the risk of a subsequent fatal malignancy following cardiac transplantation. However, if there is no evidence of residual, recurrent, or metastatic disease for a sufficient period to consider the malignancy cured, cardiac transplantation should be considered. Although the suitable period differs among malignancies, in general, the decision for transplant in patients with malignancies is based on consultant oncologist report. Patients with cardiac neoplasms may undergo successful transplantation if there is no evidence of metastases or extension of the cancer beyond the surgical resection areas necessary for transplantation (see Chapter 17). This is, however, a contentious subject because malignant cardiac neoplasms can metastasize during the waiting period for organ allocation. Squamous cell or basal cell carcinoma of the skin represents a curable condition with a low probability of metastasis if completely excised. Thus, this malignancy, if completely excised, does not require an extended wait prior to cardiac transplantation.
+</div></details>
 
 </div></details>
 
@@ -559,19 +627,49 @@ Simultaneous heart-kidney transplantation (sHK) has demonstrated the successful 
 
 #### Donor Evaluation and Allocation</summary><div class="details-content">
 
+<details class="med-details"><summary>
+
+##### Donor Eligibility Criteria and Cardiac Screening</summary><div class="details-content">
+
 *General Considerations.* The donor becomes available when brain death has occurred, and criteria enumerated by the Ad Hoc Committee of the Harvard Medical School are generally used. The donor must be completely unresponsive, without reflexes or movements of breathing. Two flat electroencephalograms obtained 24 hours apart are sometimes required. Once a potential donor has been identified, other criteria apply. The donor should be younger than about age 60 years (although occasionally hearts from older donors are used for elderly recipients) and without documented prior myocardial infarction. Coronary angiography is recommended in all potential donors older than age 40 years or have risk factors for premature atherosclerotic heart disease such as diabetes or smoking history. The heart is generally not used for transplantation if there is significant arteriosclerotic coronary obstruction. There should have been no prolonged episodes of profound hypotension or cardiac arrest after injury, because poor donor heart function after transplantation is likely to follow such an event. However, echocardiography often allows the heart to be used if ventricular performance is good. Important ventricular arrhythmias usually eliminate a donor.
 
 Two-dimensional transthoracic or, occasionally, transesophageal echocardiography (TEE) is performed to evaluate cardiac morphology, ventricular performance, and cardiac valve function. The heart should have good contraction and be free of valvar heart disease. Severe left ventricular hypertrophy and cardiac contusion with wall motion abnormality disqualify the donor. Minor cardiac malformations such as patent foramen ovale or a small ventricular septal defect may be repaired and the heart used. Any evidence of sepsis must be sought, and if found, the heart is rejected. Hearts from donors who are positive for human immunodeficiency virus (HIV) are generally not used; however, the world's first HIV-positive to HIV-positive heart transplant was successfully performed at Montefiore Hospital in the Bronx on July 26, 2022. Active malignancy in the donor disqualifies use of the heart for transplantation except in cases of primary malignant brain tumor.
 
+</div></details>
+
+<details class="med-details"><summary>
+
+##### Size Matching and Predicted Heart Mass (PHM)</summary><div class="details-content">
+
 Death resulting from carbon monoxide poisoning, with a carboxyhemoglobin level greater than 20%, eliminates the donor heart from use. There should not be a great disparity between size of donor and recipient, although donor hearts from males of about 75 kg or greater are usually suitable for larger recipients up to about 110 kg. According to a large single center study, there is no increased risk of death at 1 year if donors are undersized for weight, height, body mass index (BMI), or body surface area (BSA) if the predicted heart mass (PHM) is suitable. PHM is the optimal donor-recipient size match metric for prediction of mortality after heart transplantation. It was reported that a high number of donor offers turned down for donor size were above the threshold of size match by PHM identified. Consequently, the use of PHM could improve donor heart utilization and posttransplant survival.
 
+</div></details>
+
+<details class="med-details"><summary>
+
+##### Clinical Monitoring and Donor Management Protocol</summary><div class="details-content">
+
 Findings on physical examination relative to the donor heart should be normal, and a 12-lead electrocardiogram is examined to exclude the possibility of preexisting Q-wave abnormalities and conduction defects. Nonspecific ST- and T-wave changes may be caused by head injury, hypothermia, and vasopressor agent, and do not per se contraindicate use of the heart. If there is any suggestion of hypotension or cardiac injury, serum cardiac enzymes are obtained and should be normal or at most mildly elevated. Once this screening has been performed and the heart found acceptable, managing the donor becomes the priority. Hypothermia and diabetes insipidus are frequent physiologic results of brain death and make careful attention to volume replacement essential, but excessive crystalloid infusion can produce right ventricular distension and lung damage from extravascular water. Active warming may be required to counteract hypothermia. The decision to use a specific donor is based in part on the feasibility of keeping cardiac ischemic time to less than about 6 hours, because prolonged ischemic time is a risk factor for acute graft dysfunction. However, recent innovations in donor heart preservation are challenging this requirement (see later section on "Donor Heart Preservation").
+
+</div></details>
+
+<details class="med-details"><summary>
+
+##### Brain Death Pathophysiology and Contraction Band Necrosis</summary><div class="details-content">
 
 *Effect of Brain Death on Myocardial Function.* The effect of brain death on the myocardium has been of considerable interest for two important reasons: (1) there is a low but important prevalence of primary graft failure (PGF) following cardiac transplantation, and (2) many potential donor hearts are not used because of donor heart dysfunction. Successful strategies to improve dysfunctional donor hearts would increase the number of hearts available for transplantation.
 
 Myocardial injury by catecholamine infusion and stress stimulation of the nervous system are central to understanding donor heart dysfunction. Epinephrine infusion can cause cardiac hypertrophy, and experimental catecholamine infusion produces a characteristic histologic appearance of myofibrillar degeneration, also known as *contraction band necrosis*. Its histologic features are distinct from coagulation necrosis, the predominant histologic pattern seen in acute myocardial infarction. In coagulation necrosis, myocardial cells die without obvious contraction bands, calcification appears late, and a predominant polymorphonuclear cell response occurs. Coagulation necrosis is not seen histologically for many hours or even days after the onset of the infarction. In contrast, myofibrillar degeneration is histologically detectable early after onset, and the myofibers die in a hypercontracted state with obvious contraction bands. This lesion can also be seen in humans when the mode of death involves considerable stress, such as physical assault in which death occurred from the assault but not from life-threatening injuries. This suggests an association between catecholamine release and myofibrillar degeneration. Experimental intracerebral and subarachnoid hemorrhages can also produce these myocardial lesions.
 
+</div></details>
+
+<details class="med-details"><summary>
+
+##### Catecholamine Storm and Myocardial Injury</summary><div class="details-content">
+
 Brain death is frequently accompanied by massive release of endogenous catecholamines. In animal models, blood epinephrine and norepinephrine levels may increase 100- to 500-fold within 10 seconds of experimental brain injury, with a correlation between magnitude of catecholamine release and severity of injury. In humans, catecholamine levels after brain death have been highly variable, likely related to individual variability in neurohumoral response and the mechanism and rapidity of the catastrophic intracranial event. In Novitsky's baboon model, rapid increase in intracranial pressure was accompanied by marked increases in mean arterial, pulmonary wedge, and central venous pressure within 15 minutes, and by a three to sevenfold increase in blood norepinephrine and epinephrine levels. A relationship between noradrenaline levels and increases in the plasma level of creatine kinase (CK)-MB has been demonstrated after acute head injury in humans. The physiologic response to this post–brain death catecholamine storm may result from the interplay between coronary vasoconstriction and reperfusion in association with oxygen-derived free-radical generation. Oxidation products of catecholamines may induce myocardial injury, probably resulting from peroxidation of membrane phospholipids. Catecholamine storm may also induce myocardial injury by oxygen-derived free radicals generated by reperfusion of myocardium that has been rendered ischemic by severe coronary vasoconstriction.
+
+</div></details>
 
 </div></details>
 
@@ -579,15 +677,27 @@ Brain death is frequently accompanied by massive release of endogenous catechola
 
 #### Donor Allocation</summary><div class="details-content">
 
+<details class="med-details"><summary>
+
+##### Ethical Allocation Principles: Equity and Utility</summary><div class="details-content">
+
 Cardiac transplantation should be reserved for those patients most likely to benefit in terms of both life expectancy and quality of life. When allocating a scarce resource such as a donor heart, a balance must be achieved between appropriate use of the resource to maximize graft survival and maximizing patient survival in those with the poorest expected outcome with other available therapies.
 
 The stated goals of organ allocation embrace two basic concepts: *fairness* and *utility*. The concept of fairness is complex, but basically states that all patients with end-stage heart disease of equivalent severity have an equal chance of obtaining a heart transplant. Unfortunately, quantifying the probability of death for various patient subsets is currently not possible, and specific criteria for listing are not uniform among institutions.
 
 The concept of utility must also be considered in judging any allocation algorithm. This concept embodies the notion that a precious resource like transplant organs should be used to maximally extend life. Inherent is the notion that transplantation should only be offered to patients for whom transplantation would substantially and importantly improve survival over other therapeutic options. Thus, if the likely duration of survival is importantly reduced by the presence of major noncardiac organ dysfunction or comorbidities (which would either be unaffected or worsened by therapies required following transplantation), then the utility of transplantation would be unfavorable.
 
+</div></details>
+
+<details class="med-details"><summary>
+
+##### National Allocation Algorithms and UNOS System</summary><div class="details-content">
+
 Based on these concepts, national organ procurement agencies establish algorithms for selecting recipients when an organ donor is identified. In the United States, this agency is the United Network for Organ Sharing (UNOS), which includes committees of transplant experts who work together to establish the rules for organ allocation.
 
 The current allocation system in the United States gives strong priority to those patients whose heart failure is severe enough to require continuous inotropic therapy or temporary mechanical circulatory support (MCS). Priority for continuous inotropes or temporary MCS is currently given over that of transplant candidates supported with durable MCS. Because of poor survival in higher-risk subsets and paucity of available organs, current indications for cardiac retransplantation are generally limited to (1) chronic severe cardiac allograft vasculopathy with symptoms or signs of ischemia or heart failure or asymptomatic moderate or severe left ventricular dysfunction, and (2) chronic graft dysfunction with symptoms of progressive heart failure in the absence of active rejection.
+
+</div></details>
 
 </div></details>
 
@@ -661,13 +771,13 @@ With the current precision of flow cytometry technology in identifying circulati
 
 Most donors donate multiple organs including the heart. Therefore, the donor is prepared from neck to midthigh. Preferably, a central venous line and an arterial catheter are placed because marked hypotension may occur while mobilizing the abdominal organs. A long midline incision is made from jugular notch to pubis. Volume replacement continues as needed because considerable bleeding from incisions is frequent as a result of the donor's vasodilated state. After median sternotomy, a self-retaining retractor is inserted. While other organ procurement teams proceed, the pericardium is opened and usual stay sutures applied. The heart is examined for evidence of cardiac injury, congenital anomalies, coronary arteriosclerosis, or other acquired heart disease. The ascending aorta is dissected and mobilized as far as the brachiocephalic takeoff. The superior vena cava (SVC) is completely mobilized, including any pericardial reflection onto it. A purse-string suture is placed on the ascending aorta for cardioplegia infusion.
 
-When cardiectomy is ready to begin, 200 units/kg of heparin are given, and the cardioplegia needle is inserted into the ascending aorta and secured. In this setting, the cardioplegic solution is infused by gravity. Several intracellular- or extracellular-type solutions provide effective preservation, and other continuous perfusion methods are now available. If a central line is in place, it is withdrawn. The SVC is clamped and later divided as far distally as possible. The right or left superior pulmonary vein (or left atrium above the entrance of the left pulmonary veins if lung procurement is planned) is partially divided to permit escape of blood from the heart (Fig. 21.8A). If lungs are also being harvested, the left atrium is incised for egress of pulmonary preservation solution, and later a cuff of left atrium is left around the right and left pulmonary veins for the lung allografts. The inferior vena cava (IVC) is divided, leaving part of it with the liver. After several cardiac ejections to completely empty the heart, the aorta is occluded just proximal to the brachiocephalic artery. Infusion of the cardioplegic solution is begun. Cardioplegic infusion pressure is monitored digitally while 1 to 2 L of solution is infused. Ice-cold saline or slush solution is poured into the pericardium.
+When cardiectomy is ready to begin, 200 units/kg of heparin are given, and the cardioplegia needle is inserted into the ascending aorta and secured. In this setting, the cardioplegic solution is infused by gravity. Several intracellular- or extracellular-type solutions provide effective preservation, and other continuous perfusion methods are now available. If a central line is in place, it is withdrawn. The SVC is clamped and later divided as far distally as possible. The right or left superior pulmonary vein (or left atrium above the entrance of the left pulmonary veins if lung procurement is planned) is partially divided to permit escape of blood from the heart ([Fig. 21.8](#fig-21-08)A). If lungs are also being harvested, the left atrium is incised for egress of pulmonary preservation solution, and later a cuff of left atrium is left around the right and left pulmonary veins for the lung allografts. The inferior vena cava (IVC) is divided, leaving part of it with the liver. After several cardiac ejections to completely empty the heart, the aorta is occluded just proximal to the brachiocephalic artery. Infusion of the cardioplegic solution is begun. Cardioplegic infusion pressure is monitored digitally while 1 to 2 L of solution is infused. Ice-cold saline or slush solution is poured into the pericardium.
 
-![](_page_16_Picture_2.jpeg)
+<span id="fig-21-08"></span>![](_page_16_Picture_2.jpeg)
 
 **FIGURE 21.8** Donor cardiectomy for orthotopic cardiac transplantation. (A), Inferior vena cava is divided at its junction with right atrium. Most of the intrapericardial inferior vena cava is left behind attached to the liver, because nearly all these operations are for multiorgan procurement. Right pulmonary vein is incised to vent the left heart. (When lungs are being harvested, left atrioventricular groove is generously incised to provide egress of the pulmonary preservation solution). Aorta is occluded when the heart empties. Cold cardioplegic solution is administered through the catheter to the aortic root to achieve total electromechanical arrest. (B), Heart is retracted superiorly, exposing pulmonary veins and left pulmonary artery. These are divided. (C), Aorta, superior vena cava, and right pulmonary artery are divided at or above the pericardial reflection for maximal length on recipient great arteries. All that remains to be divided is connective tissue behind the left atrium at pericardial reflection. The heart is taken from the body and aorta and pulmonary trunk separated, atrial septum checked for defect, and cardiac valves and cardiac chambers inspected. It is packed in saline solution in triple sterile bags for transport.
 
-Coronary sinus effluent is allowed to escape into the pericardial sac through the open IVC. Cardiectomy proceeds by dividing the right pulmonary veins at the pericardial reflection. The heart is retracted superiorly and to the right to expose the left pulmonary veins, which are divided at the pericardial reflection. The left pulmonary artery is divided at the pericardial reflection (Fig. 21.8B). Downward traction alongside the aorta and pulmonary trunk exposes the maximal length of these vessels. The aorta is divided distal to the origin of the brachiocephalic artery (Fig. 21.8C). The right pulmonary artery is divided. All that remains to be divided is connective tissue behind the left atrium at the pericardial reflection and lymphatic tissue, which lies between the left atrium and the tracheal bifurcation.
+Coronary sinus effluent is allowed to escape into the pericardial sac through the open IVC. Cardiectomy proceeds by dividing the right pulmonary veins at the pericardial reflection. The heart is retracted superiorly and to the right to expose the left pulmonary veins, which are divided at the pericardial reflection. The left pulmonary artery is divided at the pericardial reflection ([Fig. 21.8](#fig-21-08)B). Downward traction alongside the aorta and pulmonary trunk exposes the maximal length of these vessels. The aorta is divided distal to the origin of the brachiocephalic artery ([Fig. 21.8](#fig-21-08)C). The right pulmonary artery is divided. All that remains to be divided is connective tissue behind the left atrium at the pericardial reflection and lymphatic tissue, which lies between the left atrium and the tracheal bifurcation.
 
 The heart is removed from the body and immersed in cold preservation solution. A few minutes are spent to trim the heart and prepare it for implantation, although trimming of the heart is often left to the implanting surgeon. The right pulmonary veins are joined by incision as are left pulmonary veins. The left atrium is opened posteriorly between the pulmonary veins to provide maximum length for the left atrial suture line. The aorta is separated from the pulmonary trunk. The pulmonary trunk is opened at its bifurcation to preserve maximum circumference that may be needed to match a dilated recipient vessel. The cardiac chambers are thoroughly irrigated with cold isotonic solution and inspected to ensure absence of debris or anatomic anomalies. The organ is placed in triple sterile plastic bags filled with preservation solution and transferred to an ice chest or commercial hypothermic storage container for transport.
 
@@ -703,13 +813,13 @@ The second method of DCD heart procurement, termed Normothermic Regional Perfusi
 
 When arrival of the donor heart is imminent, CPB is established with separate caval cannulation. Additional time is allotted if extensive dissection is necessary. The aorta is clamped and the caval tapes secured. The right atrium is incised just above the level of the entrance of the IVC, anterior to the sulcus terminalis. The incision is carried around to the IVC, leaving the cava below the cut surface of the right atrium. The interatrial septum is incised and carried superiorly until it meets the roof of the left atrium. The left atrial incision is then carried leftward, leaving a generous cuff of left atrium above the entrance of the left pulmonary veins. A cardiotomy sump is placed into the left atrium when the interatrial septum is incised, and the great arteries are divided proximally to expose the underlying left atrium. These arteries are accurately dissected free from one another to facilitate great vessel anastomoses.
 
-The donor heart is removed from the ice chest or organ preservation machine, and fluid from the inner bag is cultured. The roof of the left atrium is dissected free from the posterior aspect of the right and left pulmonary artery segments. The aorta is dissected from the pulmonary trunk, which is then divided just proximal to its bifurcation unless additional pulmonary artery is necessary for reconstruction. A cuff of left atrium is created by incising through the pulmonary vein orifices (Fig. 21.9A). The right atrium is prepared by incising through the inferior vena caval orifice and extending the incision toward the base of the right atrial appendage approximately equidistant from the sulcus terminalis and the atrioventricular groove (Fig. 21.9B).
+The donor heart is removed from the ice chest or organ preservation machine, and fluid from the inner bag is cultured. The roof of the left atrium is dissected free from the posterior aspect of the right and left pulmonary artery segments. The aorta is dissected from the pulmonary trunk, which is then divided just proximal to its bifurcation unless additional pulmonary artery is necessary for reconstruction. A cuff of left atrium is created by incising through the pulmonary vein orifices ([Fig. 21.9](#fig-21-09)A). The right atrium is prepared by incising through the inferior vena caval orifice and extending the incision toward the base of the right atrial appendage approximately equidistant from the sulcus terminalis and the atrioventricular groove ([Fig. 21.9](#fig-21-09)B).
 
-![](_page_19_Picture_6.jpeg)
+<span id="fig-21-09"></span>![](_page_19_Picture_6.jpeg)
 
 **FIGURE 21.9** Orthotopic cardiac transplantation, biatrial technique. (A), Creating donor heart left atrial cuff by incising through pulmonary vein orifices. (B), Creating donor heart right atrial cuff. Incision begins at orifice of inferior vena cava and extends toward right atrial appendage approximately halfway between sulcus terminalis and atrioventricular groove. (C), Left atrial anastomosis is commenced.
 
-During implantation, perfusate temperature is generally 28°C, with intermittent topical cooling using 4°C saline ice slush. Usually, no additional cardioplegic solution is infused. The left atrial anastomosis is constructed first using continuous 3-0 polypropylene suture (Fig. 21.9C). When constructing it, the first few stitches are placed "at a distance" before lowering the donor heart into the pericardial space. The remainder of the entire left atrial anastomosis is constructed in an everting fashion to provide endothelium-to-endothelium apposition, thereby reducing the chance of thrombus formation along the suture line. Construction of the far-leftward portion of the anastomosis along the left pulmonary veins is often facilitated by retracting the donor ascending aorta inferiorly with a traction suture. The right atrial anastomosis is also constructed with continuous 3-0 polypropylene suture. In the area over the interatrial septum, the suture lines are partially overlapping (Fig. 21.9D). Each chamber is filled with cold saline before securing the suture lines.
+During implantation, perfusate temperature is generally 28°C, with intermittent topical cooling using 4°C saline ice slush. Usually, no additional cardioplegic solution is infused. The left atrial anastomosis is constructed first using continuous 3-0 polypropylene suture ([Fig. 21.9](#fig-21-09)C). When constructing it, the first few stitches are placed "at a distance" before lowering the donor heart into the pericardial space. The remainder of the entire left atrial anastomosis is constructed in an everting fashion to provide endothelium-to-endothelium apposition, thereby reducing the chance of thrombus formation along the suture line. Construction of the far-leftward portion of the anastomosis along the left pulmonary veins is often facilitated by retracting the donor ascending aorta inferiorly with a traction suture. The right atrial anastomosis is also constructed with continuous 3-0 polypropylene suture. In the area over the interatrial septum, the suture lines are partially overlapping ([Fig. 21.9](#fig-21-09)D). Each chamber is filled with cold saline before securing the suture lines.
 
 ![](_page_20_Picture_2.jpeg)
 
@@ -719,7 +829,7 @@ The aortic anastomosis is constructed with continuous 4-0 polypropylene suture a
 
 This is a critical period during the operation because the donor heart is being reperfused after a prolonged period of global ischemia. It is useful to infuse one or two ampules of adenosine just prior to aortic clamp removal to facilitate maximal dilation of the subendocardial arterioles during early reperfusion. In most instances, the donor heart will begin rhythmic contractions within 1 to 3 minutes of clamp removal. If ventricular fibrillation or tachycardia occurs, the heart should be promptly defibrillated. An esmolol hydrochloride infusion is initiated temporarily if marked sinus tachycardia or frequent ventricular arrhythmias occur during early reperfusion. Esmolol is particularly useful in this setting because it reduces myocardial oxygen consumption when the heart is recovering from the period of ischemia, and its duration of action is very short; thus, its effects will have dissipated before discontinuation of CPB.
 
-When a gentle sinus rhythm is established, preparations are made for the pulmonary artery anastomosis. (Some surgeons prefer to complete this anastomosis before removing the aortic clamp.) The pulmonary artery segments are cut to an appropriate length and the anastomosis constructed, usually with 4-0 or 5-0 polypropylene suture (Fig. 21.9E).
+When a gentle sinus rhythm is established, preparations are made for the pulmonary artery anastomosis. (Some surgeons prefer to complete this anastomosis before removing the aortic clamp.) The pulmonary artery segments are cut to an appropriate length and the anastomosis constructed, usually with 4-0 or 5-0 polypropylene suture ([Fig. 21.9](#fig-21-09)E).
 
 The remainder of the operation is conducted as usual during rewarming, and CPB is gradually discontinued after thoroughly de-airing the heart through the aortic needle vent while examining it for residual air with TEE. Immediately before and after discontinuing CPB, the function of each ventricle is assessed with TEE, and appropriate interventions made if necessary to improve function.
 
@@ -727,15 +837,17 @@ The remainder of the operation is conducted as usual during rewarming, and CPB i
 
 General conduct of the operation is the same as for the biatrial technique. Following aortic clamping, caval tapes are secured, and an incision made in the left atrium anterior to the right pulmonary veins as for mitral valve surgery. The incision is extended under the IVC and superiorly to the level of the right pulmonary artery. A cardiotomy sump is placed into the left atrium, and a generous cuff of right atrium adjacent to the IVC opening is retained. Within the right atrium, this cuff usually involves an incision through or immediately inferior to the coronary sinus orifice. With the cautery on a low setting, pericardial attachments are freed up from the IVC cuff, and this area is separated from the cut edge of the left atrium to facilitate implanting the donor heart.
 
-Similarly, a cuff of right atrium adjacent to the entrance of the SVC is created, and its attachments to the underlying pulmonary trunk are divided to facilitate ease of later anastomosis. Commonly, implantable cardioverter-defibrillator leads are present in the recipient heart and are frequently densely adherent to the interior surface of the SVC. These should be freed up, mobilized, pulled as far as possible into the surgical field, and divided. This allows them to retract back into the upper SVC (where adhesions to the leads are uncommon) for ease of later extraction through the defibrillator pocket. The great arteries are divided proximally, and the remainder of the incisions along the inferior, superior, and left lateral aspects of the left atrium are as for the biatrial technique. A cuff of left atrium should be preserved above the entrance of the left pulmonary veins (Fig. 21.10A).
+Similarly, a cuff of right atrium adjacent to the entrance of the SVC is created, and its attachments to the underlying pulmonary trunk are divided to facilitate ease of later anastomosis. Commonly, implantable cardioverter-defibrillator leads are present in the recipient heart and are frequently densely adherent to the interior surface of the SVC. These should be freed up, mobilized, pulled as far as possible into the surgical field, and divided. This allows them to retract back into the upper SVC (where adhesions to the leads are uncommon) for ease of later extraction through the defibrillator pocket. The great arteries are divided proximally, and the remainder of the incisions along the inferior, superior, and left lateral aspects of the left atrium are as for the biatrial technique. A cuff of left atrium should be preserved above the entrance of the left pulmonary veins ([Fig. 21.10](#fig-21-10)A).
 
-Implantation begins with the left atrial anastomosis, which starts inferiorly, moving toward the left pulmonary veins (Fig. 21.10B). Whenever possible, an everting suture technique should be used to promote direct endothelial apposition and avoid potential thrombus formation that might be more likely with an inverting anastomosis. When the suture line approaches the left atrial appendage in the donor heart, the geometry should be briefly reevaluated to ensure that the donor SVC will lie appropriately for the SVC anastomosis. If the recipient's left atrium seems considerably larger than the donor's, the base of the donor's left atrial appendage can be incised slightly to lengthen it. When this suture line reaches the area of the right pulmonary veins, it is generally completed with the second arm of a 3-0 polypropylene suture. The left atrium is filled with cold saline solution and the suture line secured. Throughout implantation, cold saline slush is applied to the donor heart to minimize the tendency for metabolic activity. The IVC anastomosis is constructed next, usually with 4-0 polypropylene suture. If the donor heart is considerably smaller than the recipient heart, it is particularly important to retain a sizeable cuff of right atrium near the IVC to prevent tension on that anastomosis.
+Implantation begins with the left atrial anastomosis, which starts inferiorly, moving toward the left pulmonary veins ([Fig. 21.10](#fig-21-10)B). Whenever possible, an everting suture technique should be used to promote direct endothelial apposition and avoid potential thrombus formation that might be more likely with an inverting anastomosis. When the suture line approaches the left atrial appendage in the donor heart, the geometry should be briefly reevaluated to ensure that the donor SVC will lie appropriately for the SVC anastomosis. If the recipient's left atrium seems considerably larger than the donor's, the base of the donor's left atrial appendage can be incised slightly to lengthen it. When this suture line reaches the area of the right pulmonary veins, it is generally completed with the second arm of a 3-0 polypropylene suture. The left atrium is filled with cold saline solution and the suture line secured. Throughout implantation, cold saline slush is applied to the donor heart to minimize the tendency for metabolic activity. The IVC anastomosis is constructed next, usually with 4-0 polypropylene suture. If the donor heart is considerably smaller than the recipient heart, it is particularly important to retain a sizeable cuff of right atrium near the IVC to prevent tension on that anastomosis.
 
-Although various strategies have been used for the remainder of the anastomoses, we recommend proceeding with the aortic anastomosis next, after appropriately trimming lengths of donor and recipient aorta to allow nice geometric reconstruction of the new ascending aorta. Using continuous 4-0 polypropylene suture, a standard end-to-end anastomosis is constructed (Fig. 21.10C). A double suture line technique, in which the first line is a continuous everting mattress suture followed by a simple running suture, is particularly hemostatic. Before securing the suture line, air is evacuated from the heart by vigorous expansion of the lungs, and the suture line is secured.
+Although various strategies have been used for the remainder of the anastomoses, we recommend proceeding with the aortic anastomosis next, after appropriately trimming lengths of donor and recipient aorta to allow nice geometric reconstruction of the new ascending aorta. Using continuous 4-0 polypropylene suture, a standard end-to-end anastomosis is constructed ([Fig. 21.10](#fig-21-10)C). A double suture line technique, in which the first line is a continuous everting mattress suture followed by a simple running suture, is particularly hemostatic. Before securing the suture line, air is evacuated from the heart by vigorous expansion of the lungs, and the suture line is secured.
 
 During rewarming, after a stable sinus rhythm has been established, the SVC anastomosis is constructed with continuous 5-0 polypropylene suture. It is important to avoid excessive redundancy in creating the new SVC, because any kinking of the caval pathway can result in a venous pressure gradient. The pulmonary end-to-end anastomosis is constructed as in the biatrial technique.
 
-![](_page_21_Picture_2.jpeg)
+<span id="fig-21-10"></span>![](_page_21_Picture_2.jpeg)
+
+**FIGURE 21.10** Orthotopic cardiac transplantation, bicaval technique. (A), Right atrium is divided to create superior and inferior vena caval cuffs. Great vessels are divided as in biatrial method. (B), Commencement of left atrial anastomosis. (C), Completion of bicaval transplant technique, showing inferior vena caval, superior vena caval, aortic, and pulmonary trunk anastomoses.
 
 </div></details>
 
@@ -787,14 +899,36 @@ Immunosuppressive modalities in transplantation are designed to reduce intensity
 
 Three situations require specific combinations of immunosuppressive therapies: (1) *initial* high-dose immunosuppression (known as induction therapy) to facilitate graft acceptance, minimize the chance of early rejection, and potentially favor induction of tolerance; (2) *maintenance* therapy for chronic acceptance of the allograft; and (3) *augmented* immunosuppression to reverse episodes of acute rejection. Specific immunotherapeutic modalities are being evaluated to prevent or reverse chronic rejection in the form of allograft vasculopathy.
 
-The immune response to transplantation is highly dependent on T-cell activation and proliferation. The cellular events of T-cell activation are of great importance because many current immunosuppressive drugs target specific intracellular pathways of T-cell activation. A summary of modalities that interfere with specific phases of the allograft-induced immune response is given in Table 21.4.
+The immune response to transplantation is highly dependent on T-cell activation and proliferation. The cellular events of T-cell activation are of great importance because many current immunosuppressive drugs target specific intracellular pathways of T-cell activation. A summary of modalities that interfere with specific phases of the allograft-induced immune response is given in [Table 21.4](#table-21-04).
+
+<details class="med-details"><summary>
+
+#### <span id="table-21-04"></span>TABLE 21.4: Actions and Dosing of Immunosuppressive Modalities</summary><div class="details-content">
+
+| Drug | Trade Name(s) | Pharmacology | Adjustment for Renal/Hepatic Dysfunction | Dosing (Oral / IV) | Monitoring and Clinical Comments |
+|:---|:---|:---|:---|:---|:---|
+| **Prednisone / Prednisolone / Methylprednisolone** | Deltasone, Medrol, Solu-Medrol | Corticosteroids; processed in the liver, metabolites excreted in urine. Prednisone/prednisolone 4–5× potency of hydrocortisone | Consider prednisolone if hepatic dysfunction; no renal adjustment | **Intra/Post-op:** Solu-Medrol 5–10 mg/kg pre/intra-op, then 5–7 mg/kg in 3 divided doses over 24 h; rapid taper from 1 to 0.3 mg/kg/day at 3–6 mo, 0.1 mg/kg/day at 6 mo.<br>**Rejection:** Prednisone 1–3 mg/kg/day PO for 3–7 days or Solu-Medrol 3–10 mg/kg/day IV | Clinical response monitoring. No routine serum level monitoring. Taper to lowest effective dose |
+| **Azathioprine** | Imuran | Converted in liver to 6-mercaptopurine; inactivated by xanthine oxidase or TPMT | Decrease doses for renal dysfunction; lower dose range for hepatic dysfunction | **1–2 mg/kg/day PO or IV** (rarely > 3 mg/kg). IV and PO doses are equivalent | Monitor WBC; decrease dose if WBC < 3000–4000/μL. Major drug interaction with allopurinol (requires 75% dose reduction). TPMT polymorphisms may increase toxicity |
+| **Mycophenolate mofetil (MMF)** | CellCept | Hydrolyzed to mycophenolic acid (MPA), inhibiting IMPDH (de novo purine synthesis) | Dose ≤ 1000 mg BID in severe renal impairment | **500–1500 mg PO/IV BID** (standard 1000 mg BID). IV and PO doses are equivalent | MPA trough levels: target 2.5–5.0 μg/mL. Cyclosporine decreases MPA exposure; tacrolimus does not. Increased risk of CMV/herpes infections |
+| **Mycophenolate sodium** | Myfortic | Enteric-coated MPA; reversible inhibitor of IMPDH | No specific adjustment required | **720 mg PO BID** (1440 mg total daily dose) on empty stomach (1 h before or 2 h after meals) | Equimolar to MMF 1000 mg BID. Enteric coating designed to reduce upper GI symptoms |
+| **Tacrolimus** | Prograf | Macrolide calcineurin inhibitor; binds FKBP-12; metabolized by hepatic CYP3A4 and p-GP | Follow levels closely in hepatic dysfunction; no routine dose reduction in renal dysfunction (nephrotoxic) | **Oral:** 0.05–0.1 mg/kg/day in 2 divided doses.<br>**IV:** 0.01–0.02 mg/kg/day as continuous infusion or 2 divided doses | Target whole-blood trough: 10–15 ng/mL early post-op; 5–10 ng/mL by 1 year. CYP3A4 inhibitors (azole antifungals, diltiazem) increase levels; inducers (rifampin, phenytoin) decrease levels. Diabetogenic; less hirsutism/gingival hyperplasia than CSA |
+| **Cyclosporine** | Neoral, Sandimmune | Cyclic peptide calcineurin inhibitor; binds cyclophilin; metabolized by CYP3A4 and p-GP | Dose adjusted by trough/peak levels; reduce dose in progressive nephrotoxicity | **Oral:** 4–8 mg/kg/day in 2 divided doses.<br>**IV:** 1–3 mg/kg/day as continuous infusion (1/3 of oral dose) | Target trough (C0): 250–350 ng/mL early, 100–200 ng/mL late. 2-hour post-dose (C2) monitoring (target 800–1200 ng/mL early). Nephrotoxicity, hypertension, hirsutism, gingival hyperplasia |
+| **Sirolimus** | Rapamune | mTOR inhibitor; binds FKBP-12 blocking IL-2 signaling; CYP3A4 and p-GP substrate | Reduce maintenance dose by ~ 33% in hepatic impairment | **Oral:** 2 mg/day once daily (may be preceded by 6 mg loading dose) | Target whole-blood trough: 4–15 ng/mL. Co-administration with cyclosporine increases CSA levels up to 100%; dose 4 hours apart. Impairs wound healing; do not start until surgical wounds healed |
+| **Everolimus** | Zortress, Certican | Proliferation signal inhibitor (mTOR); CYP3A4 and p-GP substrate | Reduce maintenance dose by ~ 33% in hepatic impairment | **Oral:** 0.75 mg PO BID | Target trough: 3–8 ng/mL. Early renal insufficiency when combined with standard-dose CSA; reduced-dose CSA is recommended |
+| **Antithymocyte globulin (Rabbit / Equine)** | Thymoglobulin, ATGAM | Polyclonal cytolytic anti-lymphocyte antibodies; elimination via protein degradation and antibody clearance | No adjustment required | **Thymoglobulin:** 1.5 mg/kg/day IV over 6–8 h for 3–7 days.<br>**ATGAM:** 10–15 mg/kg/day IV over 6–8 h for 5–14 days | Premedication required (corticosteroids, acetaminophen, antihistamines) to prevent cytokine release. ATGAM requires skin testing. Monitor CD3 counts (target CD3 < 50 cells/μL or < 10% baseline). Risk of serum sickness, CMV reactivation, PTLD |
+| **Alemtuzumab** | Campath | Humanized anti-CD52 monoclonal antibody; profound depletion of T and B cells | No adjustment required | **30 mg IV** over 2 h single intraoperative dose | Premedication required. Monitor total lymphocyte counts. Prolonged lymphopenia (up to 12–18 months); rigorous infection surveillance |
+| **Basiliximab** | Simulect | Chimeric monoclonal antibody binding IL-2 receptor α chain (CD25) | No adjustment required | **20 mg IV** on Day 0 (within 2 h before surgery) and Day 4 post-op | Non-depleting. CD3 counts do not decrease. Saturates IL-2R for 30–45 days. Well tolerated; hypersensitivity rare |
+
+###### BID, twice daily; CSA, cyclosporine; CYP, cytochrome P450; FKBP, FK506 binding protein; GI, gastrointestinal; IL-2, interleukin-2; IMPDH, inosine monophosphate dehydrogenase; IV, intravenous; MMF, mycophenolate mofetil; MPA, mycophenolic acid; mTOR, mechanistic target of rapamycin; p-GP, p-glycoprotein; PTLD, posttransplant lymphoproliferative disorder; PO, orally; TPMT, thiopurine methyltransferase; WBC, white blood cells.
+
+</div></details>
 
 *Induction Therapy.* Approximately half of all heart transplant programs use induction therapy. Although there is considerable variability among institutions, the general strategy involves induction therapy followed by maintenance therapy with initial "triple-drug" immunosuppression followed by gradual tapering or withdrawal of the steroid component. Induction therapy generally includes one of two approaches:
 
 - 1. Basiliximab, which blocks IL-2 receptors
 - 2. Antithymocyte globulin, which targets the T-cell antigens
 
-*Maintenance Immunosuppression.* Maintenance immunosuppression generally includes immunosuppressive agents from three general classes, comprising the triple-drug strategy (see Table 21.4):
+*Maintenance Immunosuppression.* Maintenance immunosuppression generally includes immunosuppressive agents from three general classes, comprising the triple-drug strategy (see [Table 21.4](#table-21-04)):
 
 - 1. Tacrolimus and cyclosporine interfere with calcium-mediated signaling via calcineurin, which blocks production and release of IL-2, which is essential for proliferation of cytotoxic T<sub>H</sub> cells.
 - 2. Mycophenolate mofetil, azathioprine, sirolimus, and everolimus are often referred to as *antiproliferative agents* because of their basic action of interfering with T-cell proliferation.
@@ -804,7 +938,7 @@ The immune response to transplantation is highly dependent on T-cell activation 
 
 ##### Adrenocortical Steroids</summary><div class="details-content">
 
-Corticosteroids are generally administered intraoperatively before cardiac transplantation and constitute a portion of the maintenance strategy. Some centers continue at least low-dose prednisone therapy indefinitely, but an effective alternative strategy is to rapidly reduce and withdraw steroids in the early postoperative period. A summary of the important features and dosing of corticosteroids is found in Table 21.4.
+Corticosteroids are generally administered intraoperatively before cardiac transplantation and constitute a portion of the maintenance strategy. Some centers continue at least low-dose prednisone therapy indefinitely, but an effective alternative strategy is to rapidly reduce and withdraw steroids in the early postoperative period. A summary of the important features and dosing of corticosteroids is found in [Table 21.4](#table-21-04).
 
 </div></details>
 
@@ -812,9 +946,24 @@ Corticosteroids are generally administered intraoperatively before cardiac trans
 
 ##### Cyclosporine</summary><div class="details-content">
 
-Viability of heart transplantation as a therapeutic option for end-stage heart disease was directly linked to clinical availability of cyclosporine (CYA) in 1979. Clinical features and dosing of cyclosporine are summarized in Table 21.4. Animal studies suggest that cyclosporine may be most effective when given before the antigenic challenge, a situation perhaps related to lower serum lymphokine concentration before onset of rejection. Absorption of cyclosporine is somewhat variable, but peak blood levels are achieved by about 3.5 hours. Bioavailability of the oral solution at steady state is about 30%. Approximately 90% of circulating cyclosporine is protein bound, and half-life is about 20 hours. Cyclosporine is eliminated primarily by the liver, with only about 6% by the kidneys. Cyclosporine is metabolized in the intestine and liver by the cytochrome P450 enzyme system. Drugs which induce activity of the cytochrome P450 enzymes will decrease cyclosporine blood levels, and those that compete for metabolism by this enzyme system will increase cyclosporine levels.
+Viability of heart transplantation as a therapeutic option for end-stage heart disease was directly linked to clinical availability of cyclosporine (CYA) in 1979. Clinical features and dosing of cyclosporine are summarized in [Table 21.4](#table-21-04). Animal studies suggest that cyclosporine may be most effective when given before the antigenic challenge, a situation perhaps related to lower serum lymphokine concentration before onset of rejection. Absorption of cyclosporine is somewhat variable, but peak blood levels are achieved by about 3.5 hours. Bioavailability of the oral solution at steady state is about 30%. Approximately 90% of circulating cyclosporine is protein bound, and half-life is about 20 hours. Cyclosporine is eliminated primarily by the liver, with only about 6% by the kidneys. Cyclosporine is metabolized in the intestine and liver by the cytochrome P450 enzyme system. Drugs which induce activity of the cytochrome P450 enzymes will decrease cyclosporine blood levels, and those that compete for metabolism by this enzyme system will increase cyclosporine levels.
 
-Renal toxicity, the major toxicity of cyclosporine, occurs in 25% to 38% of patients, manifested in the acute phase by oliguria and elevated blood urea nitrogen and creatinine levels. These effects are largely initiated by renal arteriolar vasoconstriction, which occurs mainly at the level of the preglomerular arterioles. The intrarenal renin-angiotensin system may contribute to both nephrotoxic and hypertensive effects of cyclosporine, because cyclosporine stimulates renin synthesis and release from renal juxtaglomerular cells and afferent arteriolar vessel wall. Chronic cyclosporine nephrotoxicity is characterized by patchy glomerular sclerosis with interstitial fibrosis and thickening of capillary basement membranes. Once chronic renal damage has occurred, it is usually unresponsive to a decrease in cyclosporine dosage or drug withdrawal. Common drugs that increase nephrotoxicity of cyclosporine are listed in Table 21.5. Less severe adverse side effects include reversible hepatotoxicity, fluid retention, hirsutism (20%-45%), gum hypertrophy (9%-16%), hypertension (53%), tremor (20%-50%), and rarely, late development of lymphoma (although this may result from over immunosuppression with multiple agents).
+Renal toxicity, the major toxicity of cyclosporine, occurs in 25% to 38% of patients, manifested in the acute phase by oliguria and elevated blood urea nitrogen and creatinine levels. These effects are largely initiated by renal arteriolar vasoconstriction, which occurs mainly at the level of the preglomerular arterioles. The intrarenal renin-angiotensin system may contribute to both nephrotoxic and hypertensive effects of cyclosporine, because cyclosporine stimulates renin synthesis and release from renal juxtaglomerular cells and afferent arteriolar vessel wall. Chronic cyclosporine nephrotoxicity is characterized by patchy glomerular sclerosis with interstitial fibrosis and thickening of capillary basement membranes. Once chronic renal damage has occurred, it is usually unresponsive to a decrease in cyclosporine dosage or drug withdrawal. Common drugs that increase nephrotoxicity of cyclosporine are listed in [Table 21.5](#table-21-05).
+
+<details class="med-details"><summary>
+
+#### <span id="table-21-05"></span>TABLE 21.5: Drugs That Increase Cyclosporine Nephrotoxicity</summary><div class="details-content">
+
+| Mechanism | Drug |
+|:---|:---|
+| **Renal vasoconstriction and/or renal tubular injury** | Amphotericin, Aminoglycosides |
+| **Inhibition of cyclooxygenase** (decreased renal prostaglandin synthesis and renal vasodilation; potentiation of cyclosporine-induced renal blood flow reduction) | Nonsteroidal anti-inflammatory drugs (NSAIDs) |
+| **Inhibition of tubular creatinine secretion** (potentiates cyclosporine effect on serum creatinine) | Trimethoprim / sulfamethoxazole |
+| **Other mechanisms** | Radiocontrast agents, Melphalan, Sirolimus |
+
+###### CSA, cyclosporine; NSAID, nonsteroidal anti-inflammatory drug.
+
+</div></details> Less severe adverse side effects include reversible hepatotoxicity, fluid retention, hirsutism (20%-45%), gum hypertrophy (9%-16%), hypertension (53%), tremor (20%-50%), and rarely, late development of lymphoma (although this may result from over immunosuppression with multiple agents).
 
 </div></details>
 
@@ -822,7 +971,7 @@ Renal toxicity, the major toxicity of cyclosporine, occurs in 25% to 38% of pati
 
 ##### Tacrolimus</summary><div class="details-content">
 
-Tacrolimus (initially called *FK506*) was first isolated in 1984 from the bacteria *Streptomyces tsukubaensis*. It was first used clinically in 1989 as replacement therapy for cyclosporine in liver transplantation. Tacrolimus (TAC) is a macrolide compound unrelated to cyclosporine and with different binding sites. However, their basic immunosuppressive effects are similar. Tacrolimus gains its immunosuppressive effect by binding to a protein called *FKBP-12*, and it is the FKBP-12–tacrolimus complex that blocks calcineurin. In general, both the immunosuppressive effects and toxicity of tacrolimus exceed that of cyclosporine, possibly related to its binding affinity to FKBP, which is much greater than the binding affinity of cyclosporine to cyclophilin, the binding protein for cyclosporine. A major side effect of tacrolimus that differs from cyclosporine is its marked tendency to induce diabetes. Unlike cyclosporine, gingival hyperplasia and hirsutism are rare with tacrolimus. Clinical features and dosing of tacrolimus are listed in Table 21.4.
+Tacrolimus (initially called *FK506*) was first isolated in 1984 from the bacteria *Streptomyces tsukubaensis*. It was first used clinically in 1989 as replacement therapy for cyclosporine in liver transplantation. Tacrolimus (TAC) is a macrolide compound unrelated to cyclosporine and with different binding sites. However, their basic immunosuppressive effects are similar. Tacrolimus gains its immunosuppressive effect by binding to a protein called *FKBP-12*, and it is the FKBP-12–tacrolimus complex that blocks calcineurin. In general, both the immunosuppressive effects and toxicity of tacrolimus exceed that of cyclosporine, possibly related to its binding affinity to FKBP, which is much greater than the binding affinity of cyclosporine to cyclophilin, the binding protein for cyclosporine. A major side effect of tacrolimus that differs from cyclosporine is its marked tendency to induce diabetes. Unlike cyclosporine, gingival hyperplasia and hirsutism are rare with tacrolimus. Clinical features and dosing of tacrolimus are listed in [Table 21.4](#table-21-04).
 
 </div></details>
 
@@ -830,7 +979,7 @@ Tacrolimus (initially called *FK506*) was first isolated in 1984 from the bacter
 
 ##### Azathioprine</summary><div class="details-content">
 
-Azathioprine (AZA) was thought to be only of historical interest when cyclosporine became available, but it was soon shown that triple-drug therapy was advantageous. Azathioprine again became part of the immunosuppression protocol along with cyclosporine and adrenocortical steroids. It is an imidazole derivative of 6-mercaptopurine. Mycophenolate mofetil has largely replaced azathioprine as the antiproliferative component of triple-drug immunosuppression. Clinical features and dosing of azathioprine are listed in Table 21.4.
+Azathioprine (AZA) was thought to be only of historical interest when cyclosporine became available, but it was soon shown that triple-drug therapy was advantageous. Azathioprine again became part of the immunosuppression protocol along with cyclosporine and adrenocortical steroids. It is an imidazole derivative of 6-mercaptopurine. Mycophenolate mofetil has largely replaced azathioprine as the antiproliferative component of triple-drug immunosuppression. Clinical features and dosing of azathioprine are listed in [Table 21.4](#table-21-04).
 
 </div></details>
 
@@ -838,7 +987,7 @@ Azathioprine (AZA) was thought to be only of historical interest when cyclospori
 
 ##### Mycophenolate Mofetil</summary><div class="details-content">
 
-Mycophenolate mofetil (MMF) is an immunosuppressive agent with proven efficacy in the prevention of rejection in renal transplant recipients. Clinical studies in heart transplantation have demonstrated efficacy in patients with refractory rejection. Mycophenolic acid, the immunologically active metabolite of mycophenolate mofetil, potently inhibits guanine synthesis, a critical enzyme in de novo synthesis of purines, by producing reversible noncompetitive inhibition of inosine monophosphate dehydrogenase. Blockade of this pathway for de novo DNA synthesis is unique to human lymphocytes, because most human cells can also synthesize purines for DNA through an alternative salvage purine pathway. Thus, human lymphocytes are uniquely susceptible to the action of MMF. MMF has greater antiproliferative potency than azathioprine and has a potentially favorable effect on preventing allograft vasculopathy. Its clinical features and dosing are summarized in Table 21.4.
+Mycophenolate mofetil (MMF) is an immunosuppressive agent with proven efficacy in the prevention of rejection in renal transplant recipients. Clinical studies in heart transplantation have demonstrated efficacy in patients with refractory rejection. Mycophenolic acid, the immunologically active metabolite of mycophenolate mofetil, potently inhibits guanine synthesis, a critical enzyme in de novo synthesis of purines, by producing reversible noncompetitive inhibition of inosine monophosphate dehydrogenase. Blockade of this pathway for de novo DNA synthesis is unique to human lymphocytes, because most human cells can also synthesize purines for DNA through an alternative salvage purine pathway. Thus, human lymphocytes are uniquely susceptible to the action of MMF. MMF has greater antiproliferative potency than azathioprine and has a potentially favorable effect on preventing allograft vasculopathy. Its clinical features and dosing are summarized in [Table 21.4](#table-21-04).
 
 The result of a large multicenter randomized trial has shown that MMF is effective in improving survival and preventing rejection episodes in heart transplant patients. As an immunosuppressant, MMF does not significantly increase infection rates or cause other side effects in patients. Specific findings in the multicenter study showed a 45% reduction in first-year mortality in MMF treated patients compared with azathioprine treated patients, both in combination with cyclosporine and corticosteroids. The MMF group also showed a reduction in the number of patients with any treated rejection, which included rejection requiring antithymocyte globulin and the post hoc endpoints of rejection grade 3A and rejection with hemodynamic compromise. Side effects seemed to be tolerable (with more diarrhea and mild hemoptysis in the MMF group but more leukopenia in the azathioprine group). There was no increase in malignancy in patients treated with MMF. The MMF group showed more opportunistic infections, which included herpes simplex and herpes zoster. There was a benefit of MMF over azathioprine on the post hoc endpoint of coronary artery lumen area at 1 year using intravascular ultrasound. It has been demonstrated that application of MMF instead of azathioprine probably can reduce mortality and rejection in the first year after heart transplantation.
 
@@ -848,7 +997,7 @@ The result of a large multicenter randomized trial has shown that MMF is effecti
 
 ##### Sirolimus</summary><div class="details-content">
 
-Sirolimus (SRL) is a natural product of the actinomycete *Streptomyces hygroscopicus*, first isolated from a soil sample collected on Easter Island in 1965. Sirolimus is a macrolide antibiotic with a structure similar to tacrolimus but with a different mechanism of action. It belongs to a class of immunosuppressive agents called *target of rapamycin* (TOR) inhibitors. TOR is a cytoplasmic enzyme that plays a critical role in converting signals from the T-cell surface to the cell nucleus for stimulation of growth and proliferation of lymphocytes. TOR appears to play an important role in both cellular and humoral effector functions. Like cyclosporine and tacrolimus, sirolimus is a prodrug that binds to an immunophilin to exert its immunologic effects. In contrast to cyclosporine and tacrolimus, sirolimus inhibits neither calcineurin phosphates nor production of T-cell cytokines. Instead, it inhibits cell proliferation stimulated by growth factors. The net effect is selective blockade of cytokine signal-mediated cell division and proliferation with arrest of the cell cycle in the G<sub>1</sub> phase. Thus, sirolimus acts synergistically with cyclosporine and tacrolimus. Sirolimus can be combined with cyclosporine or tacrolimus in place of azathioprine or MMF. In the presence of important renal dysfunction, it may be substituted for either cyclosporine or tacrolimus and used in combination with steroids and MMF, although risk of rejection is likely increased with this combination. Caution should be observed in administering sirolimus in the first few weeks after transplantation because it may importantly impair wound healing and exacerbates nephrotoxicity. Its clinical features and toxicity are summarized in Table 21.4.
+Sirolimus (SRL) is a natural product of the actinomycete *Streptomyces hygroscopicus*, first isolated from a soil sample collected on Easter Island in 1965. Sirolimus is a macrolide antibiotic with a structure similar to tacrolimus but with a different mechanism of action. It belongs to a class of immunosuppressive agents called *target of rapamycin* (TOR) inhibitors. TOR is a cytoplasmic enzyme that plays a critical role in converting signals from the T-cell surface to the cell nucleus for stimulation of growth and proliferation of lymphocytes. TOR appears to play an important role in both cellular and humoral effector functions. Like cyclosporine and tacrolimus, sirolimus is a prodrug that binds to an immunophilin to exert its immunologic effects. In contrast to cyclosporine and tacrolimus, sirolimus inhibits neither calcineurin phosphates nor production of T-cell cytokines. Instead, it inhibits cell proliferation stimulated by growth factors. The net effect is selective blockade of cytokine signal-mediated cell division and proliferation with arrest of the cell cycle in the G<sub>1</sub> phase. Thus, sirolimus acts synergistically with cyclosporine and tacrolimus. Sirolimus can be combined with cyclosporine or tacrolimus in place of azathioprine or MMF. In the presence of important renal dysfunction, it may be substituted for either cyclosporine or tacrolimus and used in combination with steroids and MMF, although risk of rejection is likely increased with this combination. Caution should be observed in administering sirolimus in the first few weeks after transplantation because it may importantly impair wound healing and exacerbates nephrotoxicity. Its clinical features and toxicity are summarized in [Table 21.4](#table-21-04).
 
 A target sirolimus level in combination with cyclosporine and sirolimus in combination with tacrolimus was employed in earlier studies in de novo heart transplant recipients to show the immunosuppressive efficacy of sirolimus in combination with a calcineurin inhibitor (CNI). Two studies—one in cardiac transplant recipients with chronic renal failure using sirolimus and the other, a retrospective, observational study of patients switched to CNI-free immunosuppression at least 3 months after transplant—found comparable immunosuppressive efficacy compared with CNI-based regimens. There was no difference in the frequencies of antibody mediated rejection (AMR) or curable cellular rejection between the groups, and sirolimus was linked to considerably decreased all-cause mortality.
 
@@ -872,7 +1021,7 @@ The SCHEDULE study showed that initiation with everolimus and early elimination 
 
 ##### Antithymocyte Globulin</summary><div class="details-content">
 
-Antithymocyte globulin is a polyclonal anti-lymphocyte preparation containing variable amounts of specific antibodies directed against T-cell molecules. Antibodies with activity directed against HLA class I and II antigens as well as adhesion molecules (CD11a/C18) have been identified. Antithymocyte globulin is used clinically either as prophylactic induction therapy during the first 5 to 7 days after transplantation or as an immunosuppressive modality to treat recurrent or persistent rejection. In the presence of early renal dysfunction (particularly with serum creatinine in excess of 2 mg/dL), antithymocyte globulin can be substituted for the CNI until renal function stabilizes, which is usually within 5 days of transplant. The associated profound lymphopenia that results predisposes immunosuppressed patients to viral infections, particularly cytomegalovirus (CMV). Therefore, prophylactic valganciclovir should be administered following a course of antithymocyte globulin therapy. The current available commercial preparation in the United States is a rabbit antithymocyte globulin (Thymoglobulin). The reconstituted preparation contains 5 mg of Thymoglobulin, of which greater than 90% is rabbit gamma immune globulin. The standard dose of 1.5 mg/kg/day is infused through a central venous catheter over 4 to 6 hours and administered for 5 to 7 days. Clinical features and dosing of antithymocyte globulin are summarized in Table 21.4.
+Antithymocyte globulin is a polyclonal anti-lymphocyte preparation containing variable amounts of specific antibodies directed against T-cell molecules. Antibodies with activity directed against HLA class I and II antigens as well as adhesion molecules (CD11a/C18) have been identified. Antithymocyte globulin is used clinically either as prophylactic induction therapy during the first 5 to 7 days after transplantation or as an immunosuppressive modality to treat recurrent or persistent rejection. In the presence of early renal dysfunction (particularly with serum creatinine in excess of 2 mg/dL), antithymocyte globulin can be substituted for the CNI until renal function stabilizes, which is usually within 5 days of transplant. The associated profound lymphopenia that results predisposes immunosuppressed patients to viral infections, particularly cytomegalovirus (CMV). Therefore, prophylactic valganciclovir should be administered following a course of antithymocyte globulin therapy. The current available commercial preparation in the United States is a rabbit antithymocyte globulin (Thymoglobulin). The reconstituted preparation contains 5 mg of Thymoglobulin, of which greater than 90% is rabbit gamma immune globulin. The standard dose of 1.5 mg/kg/day is infused through a central venous catheter over 4 to 6 hours and administered for 5 to 7 days. Clinical features and dosing of antithymocyte globulin are summarized in [Table 21.4](#table-21-04).
 
 </div></details>
 
@@ -880,7 +1029,7 @@ Antithymocyte globulin is a polyclonal anti-lymphocyte preparation containing va
 
 ##### Anti-CD25 (Basiliximab)</summary><div class="details-content">
 
-Basiliximab is humanized IgG1 monoclonal antibodies that bind specifically to the α chain of the high-affinity IL-2 receptor on activated T lymphocytes. These antibodies compete with the cytokine IL-2 for occupancy of the IL-2 receptor. Secretion of IL-2 by an activated T cell serves to recruit other T cells by stimulation and clonal expansion of a specific T-cell population. These anti–IL-2 receptor monoclonal antibodies are designed to be used with a calcineurin blocking agent (cyclosporine or tacrolimus) to decrease the amount of IL-2 that would be available for any unblocked IL-2 receptors. Clinical features and dosing of anti-CD25 monoclonal antibodies are presented in Table 21.4.
+Basiliximab is humanized IgG1 monoclonal antibodies that bind specifically to the α chain of the high-affinity IL-2 receptor on activated T lymphocytes. These antibodies compete with the cytokine IL-2 for occupancy of the IL-2 receptor. Secretion of IL-2 by an activated T cell serves to recruit other T cells by stimulation and clonal expansion of a specific T-cell population. These anti–IL-2 receptor monoclonal antibodies are designed to be used with a calcineurin blocking agent (cyclosporine or tacrolimus) to decrease the amount of IL-2 that would be available for any unblocked IL-2 receptors. Clinical features and dosing of anti-CD25 monoclonal antibodies are presented in [Table 21.4](#table-21-04).
 
 </div></details>
 
@@ -906,19 +1055,19 @@ Whereas plasmapheresis is a passive process in which immunoglobulins pass throug
 
 ##### Photopheresis</summary><div class="details-content">
 
-Photopheresis is an immunomodulatory therapy based on leukapheresis. It involves drawing blood, separating the whole blood by centrifugation, and returning the red cells and plasma to the patient. Leukocytes are treated with 8-methoxypsoralen, a photosensitizing agent, and exposed to ultraviolet light in the photoactivation chamber. These treated leukocytes are then returned to the patient (Fig. 21.11).
+Photopheresis is an immunomodulatory therapy based on leukapheresis. It involves drawing blood, separating the whole blood by centrifugation, and returning the red cells and plasma to the patient. Leukocytes are treated with 8-methoxypsoralen, a photosensitizing agent, and exposed to ultraviolet light in the photoactivation chamber. These treated leukocytes are then returned to the patient ([Fig. 21.11](#fig-21-11)).
 
-![](_page_27_Figure_10.jpeg)
+<span id="fig-21-11"></span>![](_page_27_Figure_10.jpeg)
 
 **FIGURE 21.11** Process of photopheresis. *8-MOP*, 8-methoxypsoralen; *UVA*, ultraviolet light.
 
 The mechanism of action of photopheresis has not been clearly delineated, but available evidence suggests that photopheresis induces apoptosis of leukocytes that, when reinfused into the patient, are phagocytized by dendritic cells in the circulation and in lymphoid tissue. The photoactivation process induces cross-linking of DNA, which is known to induce apoptosis of lymphocytes, monocytes, macrophages, and B cells. Recent data suggest that virtually all cells become apoptotic following extracorporeal photopheresis, even terminally differentiated and slowly proliferating or nonproliferating cells such as antigen-presenting cells. Studies of extracorporeal photopheresis in a mouse heart transplant study by George and colleagues suggest that photopheresis alters the composition of recipient T lymphocytes toward a greater preponderance of T-regulatory cells, which promote down-regulation of graft-infiltrating T cells. In the mouse model, the majority of photopheresis-treated cells are phagocytized in the spleen and liver within 24 hours. Extracorporeal photopheresis reduces the infiltration of graft-specific T cells without affecting the frequency of graft-reactive T cells in the peripheral lymph nodes. Thus, based on these studies, extracorporeal photopheresis appears to alter the composition of recipient T cells toward a greater preponderance of T-regulatory cells, down-regulating a greater proportion of graft-infiltrating T cells.
 
-A clinical study of photopheresis indicated that among patients at high risk for rejection, risk of hemodynamically compromising (potentially fatal) rejection or rejection death was substantially reduced following photopheresis therapy (Fig. 21.12). These studies have generated the hypothesis that the apoptotic cells undergo phagocytosis by antigen-presenting cells. The phagocytized apoptotic cell fragments induce antigen-presenting cells to activate T-regulatory cells, which in turn induce downregulation of T-effector cells against the allograft. The result is an increase in the proportion of natural regulatory T cells in the cardiac allograft.
+A clinical study of photopheresis indicated that among patients at high risk for rejection, risk of hemodynamically compromising (potentially fatal) rejection or rejection death was substantially reduced following photopheresis therapy ([Fig. 21.12](#fig-21-12)). These studies have generated the hypothesis that the apoptotic cells undergo phagocytosis by antigen-presenting cells. The phagocytized apoptotic cell fragments induce antigen-presenting cells to activate T-regulatory cells, which in turn induce downregulation of T-effector cells against the allograft. The result is an increase in the proportion of natural regulatory T cells in the cardiac allograft.
 
-![](_page_28_Figure_2.jpeg)
+<span id="fig-21-12"></span>![](_page_28_Figure_2.jpeg)
 
-**FIGURE 21.12** Photopheresis benefit among 36 patients receiving photopheresis of 343 patients undergoing transplantation at University of Alabama at Birmingham (UAB) between 1990 and 2003. Vertical axis represents hemodynamically compromising *(HC)* rejections or rejection-related death per 100 patients · year<sup>–1</sup>. The upper curve ("Pre-photo risk") represents the hazard function for this event among high-risk patients for rejection prior to photopheresis. The next lower curve ("Post-photo risk") represents the hazard function for this group of patients following photopheresis. The lowest curve represents risk of HC rejection or rejection death among patients at low risk for rejection. *photo*, photopheresis (From Kirklin JK, Brown RN, Huang ST, et al. Rejection with hemodynamic compromise: objective evidence for efficacy of photopheresis. *J Heart Lung Transplant*. 2006;25:283-288.)
+**FIGURE 21.12** Photopheresis benefit among 36 patients receiving photopheresis of 343 patients undergoing transplantation at University of Alabama at Birmingham (UAB) between 1990 and 2003. Vertical axis represents hemodynamically compromising *(HC)* rejections or rejection-related death per 100 patients · year<sup>–1</sup>. The upper curve ("Pre-photo risk") represents the hazard function for this event among high-risk patients for rejection prior to photopheresis. The next lower curve ("Post-photo risk") represents the hazard function for this group of patients following photopheresis. The lowest curve represents risk of HC rejection or rejection death among patients at low risk for rejection. *photo*, photopheresis
 
 </div></details>
 
@@ -928,65 +1077,53 @@ A clinical study of photopheresis indicated that among patients at high risk for
 
 #### Infection Prophylaxis</summary><div class="details-content">
 
-Antimicrobial prophylaxis after heart transplantation is an integral part of infection prevention, and the benefit has clearly outweighed the disadvantages (toxicity and antimicrobial resistance). A recommended antimicrobial prophylaxis for solid organ transplantation is outlined in Table 21.6. Prevention of infection by active immunization is recommended for specific conditions, using killed vaccine only.
+Antimicrobial prophylaxis after heart transplantation is an integral part of infection prevention, and the benefit has clearly outweighed the disadvantages (toxicity and antimicrobial resistance). A recommended antimicrobial prophylaxis for solid organ transplantation is outlined in [Table 21.6](#table-21-06). Prevention of infection by active immunization is recommended for specific conditions, using killed vaccine only.
 
 *Antibacterial Prophylaxis.* Although other organisms, such as gram-negatives and Candida spp., are often seen, coagulase-negative Staphylococci and S. aureus (methicillin sensitive and methicillin resistant) cause surgery site infections most frequently in heart transplant recipients. A first-generation cephalosporin with or without vancomycin is frequently utilized for cardiac surgical operations and transplantation due to the dearth of data explicitly addressing perioperative bacterial prevention for heart transplantation. Patients with device-related infections (such as LVAD infection or infection/colonization of an extracorporeal membrane oxygenator [ECMO] support circuit) should receive perioperative prophylaxis that targets the involved microorganisms with a duration based on the severity of the infection. Antibacterial prophylaxis should be used in accordance with the clinical situation when the chest is open.
 
 *Antiviral Prophylaxis.* Data on the utility of antiviral prophylaxis for Epstein-Barr virus (EBV) are inconclusive. Antiviral medication can postpone the emergence of EBV viremia, but standard antiviral prophylaxis is debatable, therefore proactive monitoring of D+/R- recipients may be an option.
 
-CMV is one of the most common infections after transplantation and continues to cause significant morbidity and mortality. Current guidelines recommend 3 to 6 months of posttransplant prophylaxis with 900 mg daily of valganciclovir in heart transplant recipients for recipients that are considered high risk for CMV infection, D+/R-, D+/R+, D-/R+ status (Table 21.7).
+CMV is one of the most common infections after transplantation and continues to cause significant morbidity and mortality. Current guidelines recommend 3 to 6 months of posttransplant prophylaxis with 900 mg daily of valganciclovir in heart transplant recipients for recipients that are considered high risk for CMV infection, D+/R-, D+/R+, D-/R+ status ([Table 21.7](#table-21-07)).
 
 *Antifungal Prophylaxis.* The use of standard anti-Candida prophylaxis in heart transplant recipients with a low prevalence of invasive candidiasis after transplant is not well supported by the available data. Airway colonization with Aspergillus spp., reoperation, posttransplant hemodialysis, need for ECMO, CMV disease, the presence of Aspergillus spores in the ICU where heart transplant recipients are housed, and the development of invasive aspergillosis in any patient with the heart transplant program 2 months before or after the date of heart transplantation are risk factors for aspergillosis after transplantation.
 
 Targeted antifungal prophylaxis may be taken into consideration in patients who have these risk factors, while the ideal time frame is unknown. The chance of contracting *Pneumocystis jiroveci* (PJP) infection is greatest in the first 6 months following transplantation, although certain risk factors, including the protracted use of high-dose corticosteroids (CS), may increase this risk. Between 1.6% to 6.9% of solid organ transplant recipients who live in endemic areas get coccidioidomycosis. Azole prophylaxis lowers the risk of posttransplant coccidioidomycosis, albeit the majority of infections happen within the first year of transplantation. Donor-derived *Coccidioides* infection has been documented.
 
-**TABLE 21.6 Prophylaxis of Infections in Solid Organ Transplantation**
+<details class="med-details"><summary>
 
-#### Prophylaxis of Infections in Solid Organ Transplantation
+#### <span id="table-21-06"></span>TABLE 21.6: Prophylaxis of Infections in Solid Organ Transplantation</summary><div class="details-content">
 
-Risk of infection is high
+| Phase / Domain | Strategy and Clinical Guidelines |
+|:---|:---|
+| **Infection Risk Assessment** | Solid organ transplant recipients are at high risk for developing opportunistic infections; net clinical risk is governed by the interaction between epidemiological exposures and the patient's net state of immunosuppression. |
+| **Pretransplant Evaluation** | Detailed immunization history, geographic/travel history, and prior exposures; screening for latent tuberculosis (PPD/IGRA, chest radiography), serologic screening (CMV, EBV, HSV, VZV, HIV, hepatitis B and C, syphilis, toxoplasmosis), and administration of indicated killed vaccines prior to transplant. |
+| **Pretransplant Infection Eradication** | Active infections must be fully treated prior to immunosuppression; surgical intervention indicated for recurrent sources (dental foci, hardware infections). |
+| **Peritransplant Antibacterial Prophylaxis** | Targeted surgical prophylaxis covering staphylococcal and gram-negative pathogens; extended coverage while the chest remains open; tailored pathogen-directed regimens for colonized LVADs or ECMO circuits. |
+| **Pneumocystis Prophylaxis (*P. jirovecii*)** | Trimethoprim-sulfamethoxazole (TMP-SMX) administered universally to all non-allergic recipients (single-strength 480 mg daily or double-strength 960 mg 3 times weekly for 6–12 months); confers simultaneous protection against *Listeria monocytogenes* and *Toxoplasma gondii*. |
+| **Antifungal Prophylaxis** | Targeted prophylaxis in high-risk patients (*Aspergillus*, *Candida*); hospital HEPA filtration and targeted voriconazole / echinocandins for high-risk environmental or colonized cohorts. |
+| **Cytomegalovirus (CMV) Prophylaxis** | Valganciclovir (900 mg daily PO adjusted for renal function) for 3 to 6 months in high-risk cohorts (D+/R-, D+/R+, D-/R+); alternatively, preemptive surveillance with serial quantitative PCR and prompt treatment upon viral load detection. |
+| **HSV and VZV Prophylaxis** | Acyclovir, valacyclovir, or valganciclovir during the first 3–6 months posttransplant and during augmented immunosuppression for acute rejection episodes. |
+| **EBV Surveillance** | Routine serial quantitative blood PCR monitoring in high-risk patients (all pediatric recipients, D+/R- serodiscordant pairs) to detect early viral reactivation. |
+| **Posttransplant Vaccination** | Administer only inactivated / recombinant vaccines (influenza, pneumococcus, hepatitis B); live-attenuated vaccines are strictly contraindicated. |
 
-Solid organ transplant recipients are at "high risk" for developing infection; individual risk is determined by a relationship between the epidemiologic exposures of the individual and the patient's "net state of immunosuppression."
+###### TMP-SMX, Trimethoprim-sulfamethoxazole; CMV, Cytomegalovirus; EBV, Epstein-Barr virus; HSV, Herpes simplex virus; VZV, Varicella-zoster virus; PCR, Polymerase chain reaction.
 
-Pretransplant evaluation
+</div></details>
 
-Before transplantation, it is important to establish the patient's immunization history, travel history, and prior infectious exposures to design an appropriate preventative strategy. Evaluation typically focuses on laboratory testing for past infectious exposures, screening for latent tuberculosis, reviewing microbiologic records, and administering vaccines when appropriate.
+<details class="med-details"><summary>
 
-Identification of infection prior to transplant
+#### <span id="table-21-07"></span>TABLE 21.7: Recommendations for the Prevention of Cytomegalovirus in Heart Transplant Recipients</summary><div class="details-content">
 
-Because infections are more difficult to treat following transplantation when patients are immunosuppressed, any active infection identified prior to transplantation should be treated when possible. Surgical or other procedures may also be warranted for those with recurrent infections or anatomic predispositions to infections.
+| Serostatus (Donor / Recipient) | Risk Level | Recommended Prevention Strategy |
+|:---|:---|:---|
+| **D⁺ / R⁻** | High Risk | Valganciclovir 900 mg PO daily for at least 6 months (dose-adjusted for renal clearance); routine PCR monitoring for breakthrough viremia or upon prophylaxis completion. |
+| **D⁺ / R⁺** | Intermediate Risk | Valganciclovir 900 mg PO daily for 3 to 6 months or preemptive surveillance with weekly/biweekly quantitative PCR for the first 3–6 months. |
+| **D⁻ / R⁺** | Intermediate Risk | Valganciclovir 900 mg PO daily for 3 to 6 months or preemptive quantitative PCR surveillance and treatment upon viral reactivation. |
+| **D⁻ / R⁻** | Low Risk | CMV-negative or leukocyte-depleted blood products; routine valganciclovir is not required; oral acyclovir for herpes simplex virus (HSV) prophylaxis. |
 
-Peritransplant prophylaxis
+###### Note: Valganciclovir dosing requires meticulous adjustment for estimated glomerular filtration rate (eGFR).
 
-At the time of transplantation, solid organ transplant recipients are vulnerable to infectious complications of the surgical procedure, most commonly bacterial and fungal infections. Peritransplantation prophylaxis is typically tailored according to the organ transplanted and may need to be further individualized based on the recipient's unique risks.
-
-Posttransplant prophylaxis: Trimethoprim-sulfamethoxazole (TMP-SMX) is given universally to all transplant recipients who do not have sulfa allergies for the prevention of Pneumocystis pneumonia. TMP-SMX also protects against *Listeria monocytogenes*, *Toxoplasma gondii*, and other potential pathogens, although efficacy against pathogens other than Pneumocystis varies with dose.
-
-- Pneumocystis prophylaxis
-- Antifungal and antiviral prophylaxis is individualized (targeted) to patients considered at the greatest risk. In programs with a high incidence of infection due to *Aspergillus*, *Histoplasma*, or *Candida* species, both epidemiologic protection (e.g., high-efficiency particulate air filtered air supply within the hospital) and antifungal prophylaxis (as appropriate to the isolates) may be utilized.
-- Antifungal and antiviral prophylaxis
-- Universal prophylaxis with valganciclovir or ganciclovir is typically given to patients at greatest risk for cytomegalovirus (CMV) reactivation (e.g., seropositive recipients and those with seropositive donors). The duration of therapy often depends on the type of organ transplanted, the risk status of the patient, and individual institutional practice. Some transplant centers prefer to use a preemptive approach (e.g., routine CMV viral load monitoring within initiation of treatment when reactivation becomes evident)
-- CMV prophylaxis
-- for specific patient populations. Patients who are not receiving CMV prophylaxis should receive prophylaxis against herpes simplex virus and varicella-zoster virus
-- Herpes simplex virus and varicella-zoster virus prophylaxis
-- during the first 3 to 6 months after transplantation and during periods of intensification of immunosuppression for treatment of rejection. Because there is no effective antiviral prophylactic therapy for Epstein-Barr virus (EBV) reactivation, high-risk patients (e.g., all children and EBV-seronegative recipients who receive organs from seropositive donors) should be monitored for reactivation at
-- Screening for EBV reactivation
-- Vaccination
-- Vaccination remains the primary method for preventing influenza (inactivated influenza vaccine), pneumococcal, and hepatitis B infections. Live vaccines should generally be avoided in immunosuppressed hosts. For patients with known hepatitis B infections, preventive treatment options are available.
-
-routine intervals and evaluated for evidence of posttransplant lymphoproliferative disease if reactivation occurs.
-
-**TABLE 21.7 Recommendations for the Prevention of Cytomegalovirus in Heart Transplant Recipients**
-
-| Group | Recommendations |
-|-------|-----------------|
-| D+/R- | Ganciclovir 5 mg/kg IV daily or valganciclovir 900 mg PO daily* for 3-6 months |
-| | Preemptive therapy generally not preferred but is an alternative option |
-| | Some HT centers will add CMV immune globulin for high-risk patients |
-| R+ | Ganciclovir 5 mg/kg IV daily or valganciclovir 900 mg PO daily* for 3 months |
-| | Preemptive therapy is an alternative to universal antiviral prophylaxis |
-
-*Some programs will continue valganciclovir for D+/R- mismatch for 1 year. ISHLT2022
+</div></details>
 
 </div></details>
 
@@ -1000,31 +1137,31 @@ routine intervals and evaluated for evidence of posttransplant lymphoproliferati
 
 #### Survival</summary><div class="details-content">
 
-Survival at 1 year has gradually improved over the past several decades and currently approaches 91%. Risk of death is greatest during the first 3 months after operation. After 1 year, there is a constant mortality of about 4% per year. Survival at 5 years is approximately 70%, at 10 years 50%, and at 15 years 30% (Fig. 21.13). Median survival is 11 years. For patients alive at 1 year, median survival approaches 14 years. The most dramatic improvement in survival after heart transplantation over the past 25 years has been during the first 3 to 6 months. Despite the obvious importance of long-term survival to patients and their families, survival at 1 year has been a benchmark for comparison of institutions for survival outcomes.
+Survival at 1 year has gradually improved over the past several decades and currently approaches 91%. Risk of death is greatest during the first 3 months after operation. After 1 year, there is a constant mortality of about 4% per year. Survival at 5 years is approximately 70%, at 10 years 50%, and at 15 years 30% ([Fig. 21.13](#fig-21-13)). Median survival is 11 years. For patients alive at 1 year, median survival approaches 14 years. The most dramatic improvement in survival after heart transplantation over the past 25 years has been during the first 3 to 6 months. Despite the obvious importance of long-term survival to patients and their families, survival at 1 year has been a benchmark for comparison of institutions for survival outcomes.
 
-![](_page_29_Figure_32.jpeg)
+<span id="fig-21-13"></span>![](_page_29_Figure_32.jpeg)
 
-**FIGURE 21.13** Adult heart transplant survival by era. International Society for Heart and Lung Transplantation registry. (Reproduced with permission from Khush KK, Potena L, Cherikh WS, et al. The International Thoracic Organ Transplant Registry of the International Society for Heart and Lung Transplantation: 37th adult heart transplantation report-2020; focus on deceased donor characteristics. *J Heart Lung Transplant.* 2020;39(10):1003-1015.)
+**FIGURE 21.13** Adult heart transplant survival by era. International Society for Heart and Lung Transplantation registry.:1003-1015.)
 
 The risk of cardiac transplantation decreased during the 1980s following introduction of cyclosporine and adoption of protocols that included triple-drug therapy. Further improvement in early and late survival after cardiac transplantation in recent eras has been attributed to more precise immunosuppression agents and regimens, less severe graft coronary disease, statin drugs, and better understanding of infection complications, with greater choice of antibiotic and antiviral agents.
 
-*Modes of Death.* Mode of death during the first year and thereafter differs considerably and therefore merits separate discussion. During the first 12 months after transplant, early graft failure, infection, rejection, and multiorgan failure account for more than 70% of deaths (Fig. 21.14).
+*Modes of Death.* Mode of death during the first year and thereafter differs considerably and therefore merits separate discussion. During the first 12 months after transplant, early graft failure, infection, rejection, and multiorgan failure account for more than 70% of deaths ([Fig. 21.14](#fig-21-14)).
 
-![](_page_30_Figure_11.jpeg)
+<span id="fig-21-14"></span>![](_page_30_Figure_11.jpeg)
 
-**FIGURE 21.14** Proportion of deaths from each identified cause at specified time periods after heart transplantation. International Society for Heart and Lung Transplantation registry. *CAV*, cardiac allograft vasculopathy; *CMV*, cytomegalovirus; *PTLD*, post-transplant lymphoproliferative disease. (Reproduced with permission from Khush KK, Potena L, Cherikh WS, et al. The International Thoracic Organ Transplant Registry of the International Society for Heart and Lung Transplantation: 37th adult heart transplantation report-2020; focus on deceased donor characteristics. *J Heart Lung Transplant*. 2020;39(10):1003-1015.)
+**FIGURE 21.14** Proportion of deaths from each identified cause at specified time periods after heart transplantation. International Society for Heart and Lung Transplantation registry. *CAV*, cardiac allograft vasculopathy; *CMV*, cytomegalovirus; *PTLD*, post-transplant lymphoproliferative disease.:1003-1015.)
 
 *Recipient Risk Factors for Death*
 
 **General Risk Factors.** Among adult transplant recipients, multiple conditions or factors have been identified that are associated with increased risk of mortality during the first posttransplant year (see Figs. 21.15 and 21.16, and Tables 21.8 and 21.9).
 
-![](_page_31_Figure_2.jpeg)
+<span id="fig-21-15"></span>![](_page_31_Figure_2.jpeg)
 
-**FIGURE 21.15** Adult heart transplants survival by recipient sex. International Society for Heart and Lung Transplantation registry. (Reproduced with permission from Khush KK, Potena L, Cherikh WS, et al. The International Thoracic Organ Transplant Registry of the International Society for Heart and Lung Transplantation: 37th adult heart transplantation report-2020; focus on deceased donor characteristics. *J Heart Lung Transplant*. 2020;39(10):1003-1015.)
+**FIGURE 21.15** Adult heart transplants survival by recipient sex. International Society for Heart and Lung Transplantation registry.:1003-1015.)
 
-![](_page_31_Figure_4.jpeg)
+<span id="fig-21-16"></span>![](_page_31_Figure_4.jpeg)
 
-**FIGURE 21.16** Adult Heart Transplants survival stratified by recipient age. International Society for Heart and Lung Transplantation registry. (Reproduced with permission from Khush KK, Potena L, Cherikh WS, et al. The International Thoracic Organ Transplant Registry of the International Society for Heart and Lung Transplantation: 37th adult heart transplantation report-2020; focus on deceased donor characteristics. *J Heart Lung Transplant*. 2020;39(10):1003-1015.)
+**FIGURE 21.16** Adult Heart Transplants survival stratified by recipient age. International Society for Heart and Lung Transplantation registry.:1003-1015.)
 
 **Histocompatibility and Other Patient-Donor Interactions.** Basic immunologic incompatibility between humans is a clear overall risk factor for premature death after cardiac transplantation. Survival after cardiac transplantation is highest among patients with a negative flow cytometry crossmatch to both HLA class I (T- and B-cell) antigens and HLA class II (B-cell) antigens. Risk of death appears to be less when the blood type of the recipient and donor is identical, but the effect is a weak one. There is evidence that donor and recipient gender do not affect outcomes, but when there is donor-recipient size mismatch (e.g., smaller female donor into larger male recipient), 1-year survival may be adversely affected. Improvement in survival that occurred when triple-drug immunosuppression began (≈1983) supports the idea that the immunologic response is a dominant determinant of outcomes.
 
@@ -1034,55 +1171,40 @@ The risk of cardiac transplantation decreased during the 1980s following introdu
 
 **Donor Risk Factors.** A number of donor characteristics are associated with increased risk following heart transplantation. Generally, these factors tend to demonstrate cumulative or additive risk so that use of a donor organ with multiple risk factors (i.e. "stacking of risk factors") is associated with worse outcome than utilizing a donor organ with fewer or no risk factors. Utilizing a donor heart with reduced left ventricular function may have only a minor risk on posttransplant outcomes, however, when utilized in the setting of an older donor, prolonged ischemic time, and older recipient, significantly more risk is encountered. Matching unfavorable donor characteristics with favorable recipient characteristics can frequently mitigate donor risks factors. For example, selecting an older donor in a circumstance associated with a very short ischemic time and younger recipient could mitigate the risk of use of the older donor heart organ.
 
-**TABLE 21.8 General Risk Factors for 1-Year Mortality**
+<details class="med-details"><summary>
 
-| Risk Factor | | Relative Risk<sup>3</sup> | *P*-Value |
-|-------------|---|--------------------------|------------|
-| • | ECMO | 2.38 | <.01 |
-| • | Diagnosis CHD<sup>1</sup> | 1.74 | <.01 |
-| • | TAH<sup>2</sup> | 1.73 | <.01 |
-| • | Re-Tx<sup>1</sup> | 1.72 | <.01 |
-| • | RCM<sup>1</sup> | 1.48 | <.01 |
-| • | VAD<sup>2</sup> | 1.24 | <.01 |
-| • | VCM<sup>1</sup> | 1.31 | .02 |
-| • | Prior cardiac surgery | 1.20 | <.01 |
-| • | ICM | 1.12 | .01 |
-| • | Earlier Tx era | 0.82 | <.01 |
-| • | Older donor age | | <.05 |
-| • | Older recipient age | | <.05 |
-| • | Higher recipient BMI | | <.05 |
-| • | Longer donor ischemic time | | <.05 |
-| • | Reduced donor heart systolic function | | <.05 |
-| • | Worse recipient liver function | | <.05 |
-| • | Worse kidney function | | <.05 |
-| • | Greater donor/recipient predicted heart size mismatch | | <.05 |
-| • | Higher PRA | | <.05 |
-| • | Higher PVR, mean PAP | | <.05 |
-| • | Lower center transplant volume | | <.05 |
+#### <span id="table-21-08"></span>TABLE 21.8: General Risk Factors for 1-Year Mortality</summary><div class="details-content">
 
-<sup>1</sup>Compared to nonischemic cardiomyopathy.
-<sup>2</sup>Compared to no device.
-<sup>3</sup>Applicable for categorical variables.
-*ECMO*, extracorporeal membrane oxygenator; *CHD*, congenital heart disease; *TAH*, total artificial heart; *Tx*, transplant; *RCM*, restrictive cardiomyopathy; *VAD*, ventricular assist device; *VCM*, valvar cardiomyopathy; *ICM*, ischemic cardiomyopathy; *BMI*, body mass index; *PRA*, panel reactive antibody; *PVR*, pulmonary vascular resistance; *PAP*, pulmonary artery pressure
+| Factor Category | Incremental Risk Factors for Mortality |
+|:---|:---|
+| **Recipient Characteristics** | Advanced age (> 65–70 years); female recipient sex; diabetes mellitus with end-organ complications; renal insufficiency (elevated serum creatinine, pretransplant dialysis); hepatic dysfunction (total bilirubin > 2.5–3 mg/dL); cachexia or morbid obesity (BMI > 35 kg/m²); severe pulmonary hypertension (PVR > 4–5 Wood units, TPG > 15 mmHg); prior cardiac surgery (previous median sternotomy); temporary MCS status (ECMO, acute temporary VAD); mechanical ventilation at transplant; active systemic infection. |
+| **Donor Characteristics** | Advanced donor age (> 50–55 years); female donor to male recipient; marked donor left ventricular hypertrophy (wall thickness > 13–14 mm); donor cardiac arrest or prolonged CPR; high-dose inotropic support prior to procurement; pre-existing coronary artery disease. |
+| **Procedural / Ischemic Factors** | Prolonged allograft ischemic time (> 4 hours); donor-recipient size mismatch (donor predicted heart mass < 75–80% of recipient, particularly with elevated PVR); urgent transplant status (UNOS Status 1–2); massive intraoperative blood transfusion requirement. |
 
-**TABLE 21.9 Posttransplant Incremental Risk Factors for All-Cause Mortality after 1 Year**
+###### BMI, Body mass index; PVR, Pulmonary vascular resistance; TPG, Transpulmonary gradient; ECMO, Extracorporeal membrane oxygenation; MCS, Mechanical circulatory support.
 
-- Allograft vasculopathy
-- Lymphoma
-- Other non-skin malignancy
-- Reduced ejection fraction
-- Greater number of rejections
-- Rejection with hemodynamic compromise
-- Rejection, closer to 1-year mark
-- Infection, closer to 1-year mark
-- Greater number of infections
-- Higher serum cholesterol
+</div></details>
 
-**Age.** Donor age is an important risk factor influencing the outcomes associated with heart transplantation (Fig. 21.17). Older donor hearts, typically above 50 years of age, present challenges that can impact transplant outcomes. Age-related changes in the cardiovascular system, such as increased prevalence of coronary artery disease, myocardial fibrosis, increased susceptibility to ischemic injury and reduced myocardial contractility, may compromise the function of the donated heart. These age-associated structural and functional alterations can increase posttransplant complications including PGD, early graft failure, a higher risk of acute rejection, and higher incidence of cardiac allograft vasculopathy at 5 years (RR 1.67). Careful evaluation of the older donor organ including coronary angiogram and echocardiogram is necessary to exclude contributing risk factors. Selective use of older donors is associated with satisfactory posttransplant outcomes and increasing the donor pool of heart organs.
+<details class="med-details"><summary>
 
-![](_page_32_Figure_2.jpeg)
+#### <span id="table-21-09"></span>TABLE 21.9: Posttransplant Incremental Risk Factors for All-Cause Mortality after 1 Year</summary><div class="details-content">
 
-**FIGURE 21.17** Adult heart transplants survival by donor age. International Society for Heart and Lung Transplantation Registry. (Reproduced with permission from Khush KK, Potena L, Cherikh WS, et al. The International Thoracic Organ Transplant Registry of the International Society for Heart and Lung Transplantation: 37th adult heart transplantation report-2020; focus on deceased donor characteristics. *J Heart Lung Transplant*. 2020;39(10):1003-1015.)
+| Pathological Domain | Clinical Manifestations and Prognostic Impact |
+|:---|:---|
+| **Cardiac Allograft Vasculopathy (CAV)** | Angiographic or intravascular ultrasound-confirmed CAV (ISHLT CAV 2–3) represents the primary determinant of late graft failure. |
+| **Chronic Kidney Disease (CKD)** | Cumulative calcineurin inhibitor nephrotoxicity, progressive loss of eGFR, and requirement for maintenance renal replacement therapy. |
+| **Posttransplant De Novo Malignancy** | Posttransplant lymphoproliferative disorders (PTLD), cutaneous malignancies (squamous cell, basal cell, melanoma), and solid organ carcinomas. |
+| **Late or Recurrent Rejection Episodes** | Severe acute cellular rejection (ISHLT ACR ≥ 2R) or antibody-mediated rejection (AMR) occurring > 1 year after transplantation. |
+| **Late Opportunistic Infections** | Invasive fungal diseases, CMV end-organ disease, and atypical bacterial infections driven by sustained cumulative immunosuppression. |
+| **Cardiovascular Metabolic Morbidities** | Refractory systemic hypertension, posttransplant diabetes mellitus, and accelerated dyslipidemia. |
+
+</div></details>
+
+**Age.** Donor age is an important risk factor influencing the outcomes associated with heart transplantation ([Fig. 21.17](#fig-21-17)). Older donor hearts, typically above 50 years of age, present challenges that can impact transplant outcomes. Age-related changes in the cardiovascular system, such as increased prevalence of coronary artery disease, myocardial fibrosis, increased susceptibility to ischemic injury and reduced myocardial contractility, may compromise the function of the donated heart. These age-associated structural and functional alterations can increase posttransplant complications including PGD, early graft failure, a higher risk of acute rejection, and higher incidence of cardiac allograft vasculopathy at 5 years (RR 1.67). Careful evaluation of the older donor organ including coronary angiogram and echocardiogram is necessary to exclude contributing risk factors. Selective use of older donors is associated with satisfactory posttransplant outcomes and increasing the donor pool of heart organs.
+
+<span id="fig-21-17"></span>![](_page_32_Figure_2.jpeg)
+
+**FIGURE 21.17** Adult heart transplants survival by donor age. International Society for Heart and Lung Transplantation Registry.:1003-1015.)
 
 **Left Ventricular Dysfunction.** Approximately 20% of donor hearts are discarded exclusively due to the presence of left ventricular dysfunction. Left ventricular dysfunction of the donor heart organ is associated with greater risk following heart transplantation, and the risk is proportional to the degree and etiology of the left ventricular dysfunction. Reversibility of left ventricular dysfunction in a donor heart, both before and following transplantation, largely depends on the underlying causes and the extent of injury to the donor heart. Brain death can contribute to left ventricular dysfunction in the donor organ that can improve prior to procurement with proper donor management or can additionally improve following procurement and transplantation. Identifying circumstances where reversibility of poor donor heart function is likely is key to mitigating the risk of left ventricular dysfunction in the donor organ. Although some data suggest that the risk of utilizing donors with left ventricular dysfunction is low, few hearts with significantly impaired left ventricular dysfunction are utilized for transplantation, and hearts with left ventricular dysfunction accepted for transplantation are likely a selected group of donors with other favorable features such as younger donor age and lack of medical comorbidities.
 
@@ -1104,9 +1226,9 @@ The TransMedics Organ Care System (OCS)™ system has undergone a number of clin
 
 In addition to normothermic ex vivo perfusion, platforms for cardiac preservation employing hypothermic oxygenated perfusion have also been evaluated in the clinical setting. Recently a nonrandomized, single-arm, multicenter investigation of hypothermic oxygenated perfusion using the XVIVO Heart Preservation System on donor hearts with a projected preservation time of 6 to 8 hours on 30-day recipient survival and allograft function posttransplant was conducted. Each center completed one or two short preservation time followed by long preservation time cases. PGD was classified as occurring in the first 24 hours after transplantation or secondary (SGD) occurring at any time with a clearly defined cause. Trial survival was compared with a comparator group based on data from the International Society for Heart and Lung Transplantation registry. A total of 7 short and 29 long preservation time donor hearts were placed on the XVIVO system. The mean preservation time for the long preservation time cases was 414 minutes, the longest being 8 hours and 47 minutes. There was 100% survival at 30 days. One long preservation time recipient developed PGD, and one developed SGD. One short preservation time patient developed SGD. Thirty-day survival was superior to the ISHLT comparator group despite substantially longer preservation times in the trial patients.
 
-*Risk Factors for Late Mortality.* When assessing the risk of mortality during the first year following transplantation, most studies have examined recipient variables that can be identified before the transplant procedure. However, late mortality is also affected to a major extent by events occurring after transplantation (see Table 21.9). Thus, each patient carries a unique risk profile going into the transplant operation, but additional events related to rejection, infection, graft function, and other issues heavily influence after the first year.
+*Risk Factors for Late Mortality.* When assessing the risk of mortality during the first year following transplantation, most studies have examined recipient variables that can be identified before the transplant procedure. However, late mortality is also affected to a major extent by events occurring after transplantation (see [Table 21.9](#table-21-09)). Thus, each patient carries a unique risk profile going into the transplant operation, but additional events related to rejection, infection, graft function, and other issues heavily influence after the first year.
 
-When specific causes of death are considered (see Fig. 21.14), the risk factor profile changes somewhat for each cause of death. Cause-specific risk factors provide an opportunity for tailoring immunosuppression as well as risk factor modification to lower the risk of death from specific causes during long-term patient follow-up.
+When specific causes of death are considered (see [Fig. 21.14](#fig-21-14)), the risk factor profile changes somewhat for each cause of death. Cause-specific risk factors provide an opportunity for tailoring immunosuppression as well as risk factor modification to lower the risk of death from specific causes during long-term patient follow-up.
 
 </div></details>
 
@@ -1138,13 +1260,13 @@ PGD must be clearly distinguished from isolated *vasoplegia syndrome* after hear
 
 The frequency of rejection episodes tends to decrease with increasing time from transplantation, related in part to the acquired state of partial unresponsiveness achieved with current maintenance immunosuppression (Figs. 21.18 and 21.19). Up to 25% of patients have one or more identified rejection episodes within the first year. Although treatment modalities for acute rejection have greatly improved in recent years, rejection continues to be an important cause of early and midterm mortality, particularly if accompanied by hemodynamic compromise.
 
-![](_page_35_Figure_2.jpeg)
+<span id="fig-21-18"></span>![](_page_35_Figure_2.jpeg)
 
-**FIGURE 21.18** Incidence of acute rejection by 1-year posttransplant among adult heart transplant recipients by age, 2015-2016. The bars indicate the percentage of patients with rejection. International Society for Heart and Lung Transplantation registry. (Reproduced with permission from Khush KK, Potena L, Cherikh WS, et al. The International Thoracic Organ Transplant Registry of the International Society for Heart and Lung Transplantation: 37th adult heart transplantation report-2020; focus on deceased donor characteristics. *J Heart Lung Transplant*. 2020;39(10): 1003-1015.)
+**FIGURE 21.18** Incidence of acute rejection by 1-year posttransplant among adult heart transplant recipients by age, 2015-2016. The bars indicate the percentage of patients with rejection. International Society for Heart and Lung Transplantation registry.: 1003-1015.)
 
-![](_page_35_Figure_4.jpeg)
+<span id="fig-21-19"></span>![](_page_35_Figure_4.jpeg)
 
-**FIGURE 21.19** Incidence of acute rejection by 1-year posttransplant among adult heart transplant recipients by induction status, 2015-2016. International Society for Heart and Lung Transplantation registry. *RA*, receptor antagonist; *TCD*, T-cell depletion. (Reproduced with permission from Khush KK, Potena L, Cherikh WS, et al. The International Thoracic Organ Transplant Registry of the International Society for Heart and Lung Transplantation: 37th adult heart transplantation report-2020; focus on deceased donor characteristics. *J Heart Lung Transplant*. 2020; 39(10):1003-1015.)
+**FIGURE 21.19** Incidence of acute rejection by 1-year posttransplant among adult heart transplant recipients by induction status, 2015-2016. International Society for Heart and Lung Transplantation registry. *RA*, receptor antagonist; *TCD*, T-cell depletion.:1003-1015.)
 
 <details class="med-details"><summary>
 
@@ -1162,20 +1284,22 @@ ACR, the most prevalent kind of rejection after heart transplantation, is charac
 
 Histologically, ACR is a mononuclear inflammatory response, predominantly lymphocytic, directed against the cardiac allograft. Usually both ventricles are equally involved, and thus sampling of the right ventricular septum is usually representative of histologic changes occurring elsewhere in the heart. The key identifying histologic feature of cellular rejection of sufficient severity (moderate) to warrant augmentation of immunosuppression is the presence of myocyte damage.
 
-The majority of ACR episodes start within the first 6 months after transplant. ACR incidence by age and induction status is seen in Figs. 21.18 and 21.19. EMB is used to diagnose ACR; Billingham created the first standardized grading scale in 1990, which was later updated in 2004 to take into account the reporting of AMR. The most recent ACR grading system, which divides rejection into mild (1R), moderate (2R), and severe (3R) grades, has enabled reporting to be standardized, but there is still room for interpretational variation and pathologists' disagreements, especially for higher rejection grades (Table 21.10). A number of risk factors have been identified for ACR: younger age of recipients, female gender (donors and recipients), higher number of HLA mismatches, and black recipients. More frequent rejections and CMV infection during the first year predispose to later rejection. The development of acute rejection requiring treatment leads to a higher incidence of CAV and mortality.
+The majority of ACR episodes start within the first 6 months after transplant. ACR incidence by age and induction status is seen in Figs. 21.18 and 21.19. EMB is used to diagnose ACR; Billingham created the first standardized grading scale in 1990, which was later updated in 2004 to take into account the reporting of AMR. The most recent ACR grading system, which divides rejection into mild (1R), moderate (2R), and severe (3R) grades, has enabled reporting to be standardized, but there is still room for interpretational variation and pathologists' disagreements, especially for higher rejection grades ([Table 21.10](#table-21-10)). A number of risk factors have been identified for ACR: younger age of recipients, female gender (donors and recipients), higher number of HLA mismatches, and black recipients. More frequent rejections and CMV infection during the first year predispose to later rejection. The development of acute rejection requiring treatment leads to a higher incidence of CAV and mortality.
 
-**TABLE 21.10 ISHLT Standardized Cardiac Biopsy Grading: Acute Cellular Rejection**
+<details class="med-details"><summary>
 
-| 2004 | | 1990 | |
-|------|--|------|--|
-| Grade 0 R<sup>a</sup> | No Rejection | Grade 0 | No Rejection |
-| Grade 1 R, mild | Interstitial and/or perivascular infiltrate with up to 1 focus of myocyte damage | Grade 1, mild<br>A-Focal<br>B-Diffuse | Focal perivascular and/or interstitial infiltrate without myocyte damage<br>Diffuse infiltrate without myocyte damage |
-| Grade 2 R, moderate | Two or more foci of infiltrate with associated myocyte damage | Grade 2, moderate (focal) | One focus of infiltrate with associated myocyte damage |
-| Grade 3 R, severe | Diffuse infiltrate with multifocal myocyte damage ± edema ± hemorrhage ± vasculitis | Grade 3, moderate<br>A-Focal<br>B-Diffuse | Multifocal infiltrate with myocyte damage<br>Diffuse infiltrate with myocyte damage |
-| | | Grade 4, severe | Diffuse, polymorphous infiltrate with extensive myocyte damage ± edema ± hemorrhage ± vasculitis |
+#### <span id="table-21-10"></span>TABLE 21.10: 2004 ISHLT Standardized Cardiac Biopsy Grading: Acute Cellular Rejection</summary><div class="details-content">
 
-<sup>a</sup>Where *R* denotes revised grade to avoid confusion with 1990 scheme. *ISHLT*, International Society for Heart and Lung Transplantation.
-Data from Stewart S, Winters GL, Fishbein MC, et al. Revision of the 1990 working formulation for the standardization of nomenclature in the diagnosis of heart rejection. *J Heart Lung Transplant.* 2005;24:1710-1720.
+| 2004 Grade | 1990 Grade | Histopathological Definition |
+|:---|:---|:---|
+| **Grade 0R** | 0 | None (no inflammatory infiltrates or myocyte damage). |
+| **Grade 1R (Mild)** | 1A, 1B, 2 | Interstitial and/or perivascular infiltrates with up to 1 focus of myocyte damage, or diffuse infiltrates without myocyte necrosis. |
+| **Grade 2R (Moderate)** | 3A | Two or more separate foci of inflammatory infiltrate with associated myocyte damage. |
+| **Grade 3R (Severe)** | 3B, 4 | Diffuse infiltrate with extensive myocyte damage, multifocal necrosis, edema, interstitial hemorrhage, and vasculitis. |
+
+###### ISHLT, International Society for Heart and Lung Transplantation; ACR, Acute cellular rejection.
+
+</div></details>
 
 </div></details>
 
@@ -1189,25 +1313,27 @@ A consensus report on the identification and categorization of AMR in pathologic
 
 Histologic AMR (ISHLT grading scale) is classified into three levels of severity based on immunologic and histopathologic criteria: pAMR1(H+) or pAMR1(I+), pAMR2, and pAMR3.
 
-The criteria for reporting the AMR grades are listed in Table 21.11.
+The criteria for reporting the AMR grades are listed in [Table 21.11](#table-21-11).
 
 AMR is frequently found in heart transplant patients without donor-specific antibodies (DSA), indicating a role for *non-HLA antibodies* in allograft damage. Concurrently with AMR and allograft vasculopathy, antibodies specific to vimentin, MHC class I polypeptide sequence chain A (MICA), angiotensin II type 1 receptor (AT1R), perlecan (LG3), and endothelial cell (EC) have been found.
 
 Non-HLA antibodies have not yet been firmly linked to a cause for graft dysfunction. Few clinical investigations have demonstrated an independent involvement for non-HLA antibodies in rejection lesions and transplant outcomes. Hence, the only conclusion we can draw at this time is that these non-HLA antibodies act as indicators for current or historical cardiac allograft injury.
 
-**TABLE 21.11 ISHLT Grading Scale for Acute Antibody-Mediated Rejection**
+<details class="med-details"><summary>
 
-#### ISHLT Grading Scale for Acute Antibody-Mediated Rejection
+#### <span id="table-21-11"></span>TABLE 21.11: 2013 ISHLT Grading Scale for Pathologic Antibody-Mediated Rejection (pAMR)</summary><div class="details-content">
 
-- pAMR 0—negative for pathologic AMR: histopathologic and immunopathologic studies are both negative
-- pAMR 1 (H+)—histopathologic AMR alone: histopathologic findings present and immunopathologic findings negative
-- pAMR 1 (I+)—immunopathologic AMR alone: histopathologic findings negative and immunopathologic findings positive; that is, CD68<sup>+</sup> and/or C4d<sup>+</sup> for IHC and C4d<sup>+</sup> with or without C3d<sup>+</sup> for IF
-- pAMR 2—pathologic AMR: histopathologic and immunopathologic findings are both present
-- pAMR 3—severe pathologic AMR: interstitial hemorrhage, capillary fragmentation, mixed inflammatory infiltrates, endothelial cell pyknosis, and/or karyorrhexis and marked edema and immunopathologic findings are present
+| pAMR Grade | Classification | Histopathologic and Immunopathologic Criteria |
+|:---|:---|:---|
+| **pAMR 0** | Negative for AMR | Both histopathologic and immunopathologic findings are negative. |
+| **pAMR 1 (H⁺)** | Histopathologic AMR only | Histopathologic features present (capillary macrophage accumulation, endothelial swelling); immunopathologic findings negative. |
+| **pAMR 1 (I⁺)** | Immunopathologic AMR only | Histopathologic features negative; immunopathologic findings positive (capillary C4d and/or C3d deposition by IF or IHC). |
+| **pAMR 2** | Pathologic AMR | Both histopathologic and immunopathologic criteria are positive. |
+| **pAMR 3** | Severe AMR | Diffuse capillary immunopathology with severe endothelial disruption, interstitial hemorrhage, capillary thrombosis, and/or myocyte necrosis. |
 
-#### ISHLT2022
+###### pAMR, Pathologic antibody-mediated rejection; IF, Immunofluorescence; IHC, Immunohistochemistry.
 
-*AMR,* antibody mediated rejection; *IF,* immunofluorescence; *IHC,* immunohistochemistry; *pAMR,* pathology Antibody Mediated Rejection.
+</div></details>
 
 </div></details>
 
@@ -1225,7 +1351,7 @@ Non-HLA antibodies have not yet been firmly linked to a cause for graft dysfunct
 
 Fewer biopsies were performed on patients who were monitored with GEP every follow-up person-year. This study and others have led to the inclusion of GEP in the ISHLT 2010 guidelines for the treatment of heart transplant patients. A limitation of GEP is that it was developed and validated only for ACR but not AMR.
 
-**Donor-Derived Cell-Free DNA.** As the donor heart has its own DNA (separate from the recipient), peripheral blood can be used to isolate donor-derived cell-free DNA (dd-cfDNA) to detect graft injury/rejection. In a study by Deshpande and colleagues, it was found that dd-cfDNA had strong correlations with clinical rejection and, more critically, that serial measurements of dd-cfDNA may predict clinically relevant outcomes in patients who had undergone treatment for rejection. In a multicenter, prospective cohort study, the researchers showed that, immediately posttransplant, there was a marked elevation of dd-cfDNA, with a progressive decrease occurring within 2 to 3 weeks. This level of dd-cfDNA became the baseline level for stable patients without rejection. An AUC of 0.9 was obtained when dd-cfDNA performance was evaluated against the EMB. The positive predictive value (PPV) of dd-cfDNA was about 20%, although many of the false positives were associated with graft dysfunction rather than rejection that had been demonstrated by a biopsy or occurred about 33 months earlier. Eighty-one percent of all surveillance endomyocardial biopsies might be safely avoided if dd-cfDNA was used as a rejection screening tool. The use of dd-cfDNA has the limitation of not differentiating between AMR and ACR.
+**Donor-Derived Cell-Free DNA.** As the donor heart has its own DNA (separate from the recipient), peripheral blood can be used to isolate donor-derived cell-free DNA (dd-cfDNA) to detect graft injury/rejection. In a study by Deshpande and colleagues, it was found that dd-cfDNA had strong correlations with clinical rejection and, more critically, that serial measurements of dd-cfDNA may predict clinically relevant outcomes in patients who had undergone treatment for rejection. In a multicenter, prospective cohort study, the researchers showed that, immediately posttransplant, there was a marked elevation of dd-cfDNA, with a progressive decrease occurring within 2 to 3 weeks. This level of dd-cfDNA became the baseline level for stable patients without rejection. An AUC of 0.9 was obtained when dd-cfDNA performance was evaluated against the EMB. The positive predictive value (PPV) of dd-cfDNA was about 20%, although many of the false positives were associated with graft dysfunction rather than rejection that had been demonstrated by a biopsy or occurred about 33 months earlier. 81% of all surveillance endomyocardial biopsies might be safely avoided if dd-cfDNA was used as a rejection screening tool. The use of dd-cfDNA has the limitation of not differentiating between AMR and ACR.
 
 **T-Cell Immune Monitoring Assay.** T-cell immune monitoring (TCIM) uses measured T-cell activity to gauge how well a patient's immune system is functioning. Due to the small sample size of published cohort studies and the inconsistent findings, the practical applicability of TCIM in heart transplantation has been controversial. In a larger patient study, however, TCIM testing was able to predict the likelihood of infection in heart transplant recipients, but there was no conclusive link between high IM scores and the chance of rejection. TCIM may be most beneficial when monitoring serial levels, may help ensure adherence to immunosuppressive therapy, and appears to help prevent over-immunosuppression.
 
@@ -1247,68 +1373,43 @@ The treatment of ACR and AMR vary from program to program. The mainstay of rejec
 
 The most dangerous rejection situation (other than hyperacute rejection) occurs when either ACR or AMR is accompanied by hemodynamic compromise. This is often first detected by acute reduction in systolic function by echocardiography, often before symptoms of low cardiac output are present. In that setting, it may be considered unsafe, with vulnerable cardiac function, to proceed with an EMB to differentiate ACR from AMR or mixed. Activated cytokines, as part of the rejection process, can induce acute graft dysfunction. In this setting, in addition to inotropic support, consideration should be given to early plasmapheresis, an effective therapy for decreasing circulating anti-graft antibodies and removing activated cytokines. Early plasmapheresis is often effective in rapidly reversing mild or moderate left ventricular dysfunction.
 
-**TABLE 21.12 International Society for Heart and Lung Transplantation Recommendations for Treatment of Different Forms of Acute Cellular Rejection**
+<details class="med-details"><summary>
 
-#### Recommendations for Treatment of Symptomatic Acute Cellular Rejection
+#### <span id="table-21-12"></span>TABLE 21.12: ISHLT Recommendations for Treatment of Acute Cellular Rejection</summary><div class="details-content">
 
-- An EMB should be performed as early as possible if there is suspicion of symptomatic acute heart allograft rejection.
-- The HT recipient with symptomatic acute cellular rejection should be hospitalized. Patients with hemodynamic compromise (hypotension, low cardiac output, or marked elevation of pulmonary capillary wedge pressure) should be treated in the ICU, or an intermediate-care unit with the ability to perform continuous hemodynamic monitoring and administer inotropes.
-- High-dose IV CS should be first-line therapy for symptomatic acute cellular rejection irrespective of ISHLT EMB grade (1R, 2R or 3R).
-- Cytolytic immunosuppressive therapy with antithymocyte antibodies should be administered in addition to IV CS if hemodynamic compromise is present, and especially if there is no clinical improvement within 12 to 24 hours of IV CS administration.
-- IV inotropes and vasopressors should be used as necessary to maintain adequate CO and systemic blood pressure until recovery of heart allograft function occurs.
-- Antimicrobial prophylaxis against opportunistic infections should be administered when high-dose CS and/or cytolytic therapy are used for the treatment of rejection.
-- Appropriate adjustments of maintenance immunosuppressive therapy should be made to decrease the risk of recurrent rejection. These can include ascertainment of compliance with current therapy, increase in the dose of current immunosuppressive agent(s), addition of new agent(s) or conversion to different agent(s).
-- Follow-up EMB should be performed 2 to 4 weeks after initiation of therapy for acute cellular rejection, unless there is a compelling indication for earlier histologic evaluation.
-- In a patient with low-grade acute cellular rejection and hemodynamic compromise, the possibility of AMR (see AMR section) and/or CAV should also be entertained.
-- IL-2 receptor blockers should not be used to reverse acute cellular rejection.
+##### Symptomatic or Hemodynamically Compromising ACR
+- Perform urgent endomyocardial biopsy (EMB) to confirm histopathology.
+- Immediate hospital admission to ICU; continuous hemodynamic monitoring and inotropic or mechanical circulatory support (IABP, ECMO) if in shock.
+- Intravenous methylprednisolone pulse therapy: 500 to 1000 mg IV daily for 3 days.
+- In steroid-resistant cases or severe rejection (ACR 3R): cytolytic therapy with rabbit antithymocyte globulin (rATG 1.5 mg/kg/day for 5–7 days).
+- Optimize baseline immunosuppressive regimen (switch cyclosporine to tacrolimus, increase trough targets).
 
-#### Recommendations for the Treatment of Asymptomatic Acute Cellular Rejection
+##### Asymptomatic ACR
+- **Grade 1R:** No antirejection therapy warranted; repeat follow-up biopsy in 1 to 2 weeks.
+- **Grade 2R:** Oral prednisone pulse (1 mg/kg/day for 3–5 days with taper) or IV methylprednisolone in high-risk patients (early posttransplant < 3 months, depressed LVEF).
+- **Grade 3R:** Immediate intravenous corticosteroid pulse therapy and mandatory follow-up biopsy.
 
-- Severe acute cellular rejection (ISHLT 3R) diagnosed by surveillance EMB should be treated even in the absence of symptoms or evidence of heart allograft dysfunction.
-- High dose IV CS should be given for asymptomatic severe (ISHLT 3R) acute cellular rejection.
-- Asymptomatic moderate acute cellular rejection (ISHLT 2R) can be treated with either IV or oral CS.
-- Adjustment of maintenance immunosuppressive therapy should be done in patients with asymptomatic moderate (ISHLT 2R) or severe (ISHLT 3R) acute cellular rejection. This can include an increase of the dose of current medications, addition of an agent or conversion to a different maintenance regimen.
-- Cytolytic immunosuppressive therapy can be considered if there is no histological resolution of rejection on the follow-up EMB.
-- Antimicrobial prophylaxis against opportunistic infections should be administered when high-dose CS and/or cytolytic therapy are used for treatment of rejection.
-- The performance of a follow-up EMB should be considered 2 to 4 weeks after initiation of therapy of asymptomatic moderate or severe acute cellular rejection.
-- Asymptomatic moderate cellular rejection (ISHLT 2R) occurring later than 12 months after HT may not require treatment, but maintenance doses of immunosuppressive agents should be adjusted to ensure levels are within the recommended therapeutic range, and conversion to a different immunosuppressive maintenance regimen should be considered. Close surveillance (clinical, echocardiographic, and follow-up EMB) is strongly suggested if no treatment is administered in this setting.
-- Asymptomatic mild cellular rejection (ISHLT 1R) does not require treatment in most cases, but maintenance doses of immunosuppressive agents should be adjusted to ensure levels are within the recommended therapeutic range.
+</div></details>
 
-#### Recommendations for Treatment of Recurrent or Resistant Acute Cellular Rejection
+<details class="med-details"><summary>
 
-- For recurrent or CS-resistant acute cellular rejection, cytolytic immunosuppressive therapy with antithymocyte antibodies should be considered.
-- Maintenance immunosuppression should be reevaluated in patients with recurrent/resistant HT rejection (see earlier).
-- Frequent surveillance of heart allograft function (e.g., by echocardiography) is recommended in patients with recurrent/resistant rejection, even if persistently asymptomatic.
-- Recurrent or resistant acute cellular rejection that occurs after treatment with CS and cytolytic immunosuppressive therapy and optimization of the patient's maintenance immunosuppressive regimen can be treated with photopheresis or total lymphoid irradiation.
-- Evaluation of EMB specimens for concomitant AMR (see the Recommendations for Treatment of Antibody Mediated Rejection) and determination of the presence of anti-HLA antibodies in the HT recipient's serum is recommended.
+#### <span id="table-21-13"></span>TABLE 21.13: ISHLT Recommendations for Treatment of Hyperacute and Acute Antibody-Mediated Rejection</summary><div class="details-content">
 
-ISHLT 2022
+##### Hyperacute Rejection (Intraoperative)
+- Immediate multi-target therapy initiated in the operating room:
+  1. Mechanical circulatory support (VAD, central ECMO) to unload the failing myocardium;
+  2. High-dose intravenous corticosteroids (methylprednisolone 1000 mg IV);
+  3. Immediate plasmapheresis (plasma exchange to remove circulating donor-specific antibodies);
+  4. Intravenous immune globulin (IVIG 1–2 g/kg);
+  5. Anti-CD20 monoclonal antibody (rituximab 375 mg/m²);
+  6. Terminal complement C5 inhibitor (eculizumab);
+  7. Cytolytic therapy (antithymocyte globulin).
 
-*AMR,* antibody-mediated rejection; *CS,* cyclosporine; *EMB,* endomyocardial biopsy; *HT,* heart transplantation; *HLA,* human leukocyte antigen; *ISHLT,* International Society of Heart and Lung Transplantation; *IV,* intravenous.
+##### Acute Antibody-Mediated Rejection (AMR)
+- **Symptomatic or Hemodynamically Compromised AMR:** Multimodal rescue therapy comprising therapeutic plasma exchange (4–6 sessions), replacement with IVIG, rituximab, high-dose methylprednisolone, and escalation of maintenance CNI.
+- **Asymptomatic pAMR 1 with Normal Graft Function and Negative DSA:** Conservative observation without antibody removal, close serial echocardiographic follow-up and DSA surveillance.
 
-**TABLE 21.13 International Society for Heart and Lung Transplantation Recommendations for Treatment of Hyperacute and Acute Antibody Mediated Rejection**
-
-#### Recommendations for the Treatment of Hyperacute Rejection
-
-- Treatment for hyperacute rejection should be initiated as soon as the diagnosis is made, preferably when the HT recipient is still in the operating room. Treatments that should be considered include: (1) MCS; (2) high dose IV CS; (3) plasmapheresis; (4) IVIG; (5) Rituximab; (6) cytolytic immunosuppressive therapy; (7) Eculizumab; (8) IV CNI (CYA, TAC) with increased target levels and metabolic cycle inhibitors (MMF); (9) IV inotropes and vasopressors; (10) heparin.
-- Placement of MCS may be considered as a bridge to retransplantation. Urgent retransplantation may be considered and is associated with increased mortality. Existing DSA epitopes should be avoided on the retransplant organ.
-
-#### Recommendations for Treatment of Acute Antibody Mediated Rejection
-
-- The following treatments can be used to disrupt the immune-mediated injury of the heart allograft in AMR: (1) high-dose IV CS; (2) cytolytic immunosuppressive therapy; (3) Rituximab; (4) Bortezomib or carfilzomib; (5) Eculizumab.
-- Intensify the maintenance regimen, possibly including conversion from CYA to TAC, or from AZA to MMF, replacement of the AZA/MMF with a mTORi, increasing target trough levels, and/or addition of low dose CS and additional immunologic monitoring is recommended.
-- The following treatments may be used to remove circulating anti-HLA antibodies or decrease their reactivity: (1) plasmapheresis; (2) immune apheresis (immunoadsorption); (3) IV Ig.
-- The following treatments are used to maintain adequate cardiac output and systemic blood pressure: (1) IV inotropes and vasopressors; (2) MCS.
-- When AMR is suspected EMB examination should include AMR pathology assessment and classification according to the ISHLT grading consensus.
-- When AMR is suspected recipient serum should be evaluated for the presence, quantity and specificity of anti-donor (HLA) antibodies. Serum samples should be drawn prior to initiation of therapy to avoid assay interference from therapeutic agents.
-- Follow-up EMB should be performed 1 to 4 weeks after initiation of therapy and include immunohistochemistry examination.
-- Adjustment of maintenance immunosuppressive therapy may be considered. This can include increase in the dose of current immunosuppressive agent(s), and/or conversion to a different maintenance regimen including conversion from CYA to TAC, or from AZA to MMF or mTORi or MMF to mTORi.
-- Systemic anticoagulation may decrease intravascular thrombosis in the heart allograft.
-- Emergent MCS may be considered as a bridge to retransplantation if the earlier discussed measures do not restore acceptable heart allograft function. Emergent retransplantation following acute rejection is associated with unfavorable outcomes.
-
-Peled Y, Ducharme A, Kittleson M, et al. International Society for Heart and Lung Transplantation Guidelines for the Evaluation and Care of Cardiac Transplant Candidates-2024. *J Heart Lung Transplant*. 2024;43(10):1529-1628.e54.
-
-*AZA,* azathioprine; *CNI,* calcineurin inhibitor; *CYA,* cyclosporine; *DSA,* donor-specific antibodies; *IVIG,* intravenous immunoglobulin; *MCS,* mechanical circulatory support, *MMF,* mycophenolate mofetil; *TAC,* tacrolimus; *TOR,* target of rapamycin.
+</div></details>
 
 <details class="med-details"><summary>
 
@@ -1371,11 +1472,11 @@ Peled Y, Ducharme A, Kittleson M, et al. International Society for Heart and Lun
 
 #### Infection</summary><div class="details-content">
 
-*The Immunocompromised Host.* The requirement for long-term immunosuppressive therapy and the resultant immunocompromised host predisposes heart transplant recipients to unusual organisms that may induce aggressive and sometimes fatal infections (Fig. 21.20). A broad range of organisms may be involved, including the usual pathogens, organisms that are not usually a cause of infection except in immunocompromised hosts, and endogenous and donor-transmitted organisms. A proactive policy to detect infection is necessary because of the frequent blunting of usual infection signs and symptoms secondary to blunting of the normal inflammatory response by immunosuppressive medications. Infectious complications are closely linked to other posttransplant adverse events, such as malignancy (EBV), allograft vasculopathy (CMV), and acute rejection.
+*The Immunocompromised Host.* The requirement for long-term immunosuppressive therapy and the resultant immunocompromised host predisposes heart transplant recipients to unusual organisms that may induce aggressive and sometimes fatal infections ([Fig. 21.20](#fig-21-20)). A broad range of organisms may be involved, including the usual pathogens, organisms that are not usually a cause of infection except in immunocompromised hosts, and endogenous and donor-transmitted organisms. A proactive policy to detect infection is necessary because of the frequent blunting of usual infection signs and symptoms secondary to blunting of the normal inflammatory response by immunosuppressive medications. Infectious complications are closely linked to other posttransplant adverse events, such as malignancy (EBV), allograft vasculopathy (CMV), and acute rejection.
 
-![](_page_39_Figure_19.jpeg)
+<span id="fig-21-20"></span>![](_page_39_Figure_19.jpeg)
 
-**FIGURE 21.20** Hazard function (instantaneous risk over time) for first infection of each major category of infectious agent. *TCRD*, Transplant Cardiologists Research Database. (From Miller LW, Naftel DC, Bourge RC, et al. Infection after heart transplantation: a multiinstitutional study. Cardiac Transplant Research Database Group. *J Heart Lung Transplant*. 1994; 13:381-393.)
+**FIGURE 21.20** Hazard function (instantaneous risk over time) for first infection of each major category of infectious agent. *TCRD*, Transplant Cardiologists Research Database.
 
 HIV, HCV, or HBV transmission through organ transplantation is an uncommon occurrence, but it has serious and even deadly repercussions for those who are infected. These uncommon, unanticipated occurrences were brought on by a failure of donor infection laboratory detection, most frequently due to recent donor infection before antibodies and/or virus are found in the bloodstream (also called the window period for virus detection).
 
@@ -1383,7 +1484,7 @@ The US PHS has released guidelines since 1994 and updated them in 2013 and 2020 
 
 Due to the frequent blunting of typical infection signs and symptoms brought on by immunosuppressive medication's suppression of the normal inflammatory response, a proactive approach to detect infection is required. Other posttransplant adverse outcomes including malignancy (EBV), allograft vasculopathy (CMV), and acute rejection are also intimately related to infectious problems.
 
-*Risk Factors, Prevalence, and Evaluation.* Approximately 40% of recipients suffer one or more infections requiring IV antibiotics, hospitalization, or both during the first year after transplantation. In the current era, most infections are successfully treated, with an overall mortality from infection of less than 5% during the first year. The time course differs for various categories of infectious agents, with bacterial infections predominating during the first month and viral infections predominating thereafter (see Fig. 21.20). Bacterial and viral infection each account for about 40% of infections during the first year, whereas only about 5% are fungal or protozoal. The periods of greatest risk for bacterial, viral, protozoal, and fungal infections have particular relevance in terms of diagnostic procedures and expectant therapy. Because of the tendency for febrile responses to be attenuated in the early phase of infectious diseases by corticosteroids (frequently part of maintenance immunosuppression), even low-grade fevers should precipitate thorough investigation for infectious etiologies.
+*Risk Factors, Prevalence, and Evaluation.* Approximately 40% of recipients suffer one or more infections requiring IV antibiotics, hospitalization, or both during the first year after transplantation. In the current era, most infections are successfully treated, with an overall mortality from infection of less than 5% during the first year. The time course differs for various categories of infectious agents, with bacterial infections predominating during the first month and viral infections predominating thereafter (see [Fig. 21.20](#fig-21-20)). Bacterial and viral infection each account for about 40% of infections during the first year, whereas only about 5% are fungal or protozoal. The periods of greatest risk for bacterial, viral, protozoal, and fungal infections have particular relevance in terms of diagnostic procedures and expectant therapy. Because of the tendency for febrile responses to be attenuated in the early phase of infectious diseases by corticosteroids (frequently part of maintenance immunosuppression), even low-grade fevers should precipitate thorough investigation for infectious etiologies.
 
 Lung and urinary tract are the most common sites of infection during the first year, accounting for about 35% and 25% of infections, respectively. Despite the prevalence of certain disease types or locations, unusual organisms, locations, and modes of presentation must always be considered in the immunocompromised patient. Initial investigation should include a careful and thorough history and physical examination, chest radiogram, complete blood cell count, and bacterial, fungal, and viral blood cultures. Other cultures should be directed by the initial evaluation. Any new or worsening pulmonary infiltrate should prompt early bronchoscopy with bronchoalveolar lavage and transbronchial biopsy. *Pneumocystis carinii* and CMV are the most common nonbacterial pathogens detected on bronchoalveolar lavage. If biopsy and lavage do not produce a likely etiologic organism, open lung biopsy should be considered. Fever during the first posttransplant month should also prompt thorough evaluation of the sternotomy wound, including computed tomographic scanning. The risk of sternal infection is increased with use of a ventricular assist device as bridge-to-transplant therapy.
 
@@ -1405,7 +1506,7 @@ Given this, the ISHLT criteria state that hearts from donors with severe infecti
 
 CMV is the predominant viral pathogen causing disease in the first 3 months after cardiac transplantation. Prevalence of a positive CMV serology ranges from 40% to 80% in transplant recipients prior to transplantation. Risk factors for development of posttransplant CMV infection include use of a heart from a donor positive for CMV serology when transplanted into a CMV-negative recipient, and use of induction therapy with monoclonal antibodies or antithymocyte globulin. Risk of CMV transmission is reduced by using leukocyte filters when transfusing blood and by using prophylactic valganciclovir for the first several months after transplantation.
 
-CMV infection can affect multiple organs, resulting in many clinical presentations, including a symptomatic rise in antibody titer, a systemic febrile illness with malaise and lethargy, identification of CMV antigenemia in an asymptomatic patient, or localized disease in a specific organ. The most common site for localized disease is the lung (usually with pulmonary infiltrate, shortness of breath, and hypoxemia), followed by the gastrointestinal tract (fever, diarrhea, ulceration, and occasionally major gastrointestinal bleeding). Hepatic involvement manifests as hepatitis. Ophthalmic involvement may result in chorioretinitis with possible subsequent blindness. CMV infection is associated with accelerated rates of allograft vasculopathy and rejection. Any CMV infection should be considered life threatening and requires specific aggressive therapy. The therapy of choice for preserving renal function and reducing bone marrow suppression is valganciclovir. Recommendations for the prevention of CMV in heart transplant recipients are shown in Table 21.7; EBV is discussed later in this section under "Malignancy." Parvovirus infection requires special mention because of its association with bone marrow depression and development of pancytopenia in children. Parvovirus may result in fifth disease, with a typical blotchy maculopapular rash and mild systemic symptoms. The diagnosis may be confirmed by use of polymerase chain reaction studies of the parvovirus gene in circulating lymphocytes or bone marrow tissue. Treatment with hyperimmune globulin is usually effective.
+CMV infection can affect multiple organs, resulting in many clinical presentations, including a symptomatic rise in antibody titer, a systemic febrile illness with malaise and lethargy, identification of CMV antigenemia in an asymptomatic patient, or localized disease in a specific organ. The most common site for localized disease is the lung (usually with pulmonary infiltrate, shortness of breath, and hypoxemia), followed by the gastrointestinal tract (fever, diarrhea, ulceration, and occasionally major gastrointestinal bleeding). Hepatic involvement manifests as hepatitis. Ophthalmic involvement may result in chorioretinitis with possible subsequent blindness. CMV infection is associated with accelerated rates of allograft vasculopathy and rejection. Any CMV infection should be considered life threatening and requires specific aggressive therapy. The therapy of choice for preserving renal function and reducing bone marrow suppression is valganciclovir. Recommendations for the prevention of CMV in heart transplant recipients are shown in [Table 21.7](#table-21-07); EBV is discussed later in this section under "Malignancy." Parvovirus infection requires special mention because of its association with bone marrow depression and development of pancytopenia in children. Parvovirus may result in fifth disease, with a typical blotchy maculopapular rash and mild systemic symptoms. The diagnosis may be confirmed by use of polymerase chain reaction studies of the parvovirus gene in circulating lymphocytes or bone marrow tissue. Treatment with hyperimmune globulin is usually effective.
 
 </div></details>
 
@@ -1443,25 +1544,27 @@ In immunocompromised heart transplant recipients, *T. gondii* is a prevalent int
 
 #### Malignancy</summary><div class="details-content">
 
-Malignancy following heart transplantation continues to be a major cause of morbidity and mortality. CAV, graft failure, and malignancy are the main factors that prevent long-term survival after heart transplantation. Neoplastic disorders arise from three major causes: preexisting malignancies, transmission of malignancy from donor to recipient, and de novo malignancy arising after transplantation. Long-term malignancy risk is increased by the use of prolonged immunosuppression following transplant to prevent allograft rejection. According to data from the ISHLT registry, persons with heart transplants have a cumulative frequency of malignancies of 16% in 5-year survivors and 28% in 10-year survivors. In the setting of chronic immunosuppression, risk of fatal malignancy gradually increases over subsequent years, likely related to chronic impairment of immune surveillance. Skin cancer, lung cancer, and prostate cancer are the most prevalent posttransplant malignancies in adults; lymphoma is less common. The general time-related risk for various malignancies is depicted in Fig. 21.21. Animal studies suggest CNI may promote cancer through increased production of transforming growth factor (TGF) beta. Posttransplant lymphoproliferative disorder, Kaposi's sarcoma, skin cancer, lung cancer, and anogenital cancer are common cancers after heart transplants.
+Malignancy following heart transplantation continues to be a major cause of morbidity and mortality. CAV, graft failure, and malignancy are the main factors that prevent long-term survival after heart transplantation. Neoplastic disorders arise from three major causes: preexisting malignancies, transmission of malignancy from donor to recipient, and de novo malignancy arising after transplantation. Long-term malignancy risk is increased by the use of prolonged immunosuppression following transplant to prevent allograft rejection. According to data from the ISHLT registry, persons with heart transplants have a cumulative frequency of malignancies of 16% in 5-year survivors and 28% in 10-year survivors. In the setting of chronic immunosuppression, risk of fatal malignancy gradually increases over subsequent years, likely related to chronic impairment of immune surveillance. Skin cancer, lung cancer, and prostate cancer are the most prevalent posttransplant malignancies in adults; lymphoma is less common. The general time-related risk for various malignancies is depicted in [Fig. 21.21](#fig-21-21). Animal studies suggest CNI may promote cancer through increased production of transforming growth factor (TGF) beta. Posttransplant lymphoproliferative disorder, Kaposi's sarcoma, skin cancer, lung cancer, and anogenital cancer are common cancers after heart transplants.
 
-![](_page_41_Figure_10.jpeg)
+<span id="fig-21-21"></span>![](_page_41_Figure_10.jpeg)
 
-**FIGURE 21.21** Malignancy after heart transplantation for various malignancies. Upper curves represent parametric estimates of freedom from malignancies; lower curves are corresponding hazard functions. *CTRD*, Cardiac Transplant Research Database; *PTLD*, posttransplant lymphoproliferative disorder. (From DiSalvo TG, Naftel DC, Kasper ED, et al. The differing hazard of lymphoma versus other malignancies in the current era (abstract). *J Heart Lung Transplant*. 1998;17:70.)
+**FIGURE 21.21** Malignancy after heart transplantation for various malignancies. Upper curves represent parametric estimates of freedom from malignancies; lower curves are corresponding hazard functions. *CTRD*, Cardiac Transplant Research Database; *PTLD*, posttransplant lymphoproliferative disorder.. *J Heart Lung Transplant*. 1998;17:70.)
 
 *Posttransplant lymphoproliferative disorder (PTLD)* requires separate discussion because of its unique relationship to organ transplantation. A diverse set of lymphoproliferative diseases is represented by PTLD, which accounts for approximately 20% of posttransplant solid organ tumors compared to <5% in nontransplant individuals. PTLD typically originates from EBV infection of the recipient's B lymphocytes. EBV may originate from the transplanted organ (an EBV serology–positive donor), through blood transfusions or community contacts, or through replication of latent EBV in a recipient in the presence of chronic immunosuppression. When B cells are infected with EBV, EBV DNA is incorporated into the cellular genome, which lowers the apoptosis rate and promotes cell proliferation. In the appropriate clinical setting, an EBV DNA load is predictive of PTLD. However, recent studies indicate that as many as 50% of PTLD cases among solid organ transplant recipients do not have a clear association with EBV infection.
 
-The abnormal EBV-specific susceptibility induced by immunosuppression allows the increased burden of EBV to infect recipient B cells and induce their transformation into expanding B-cell clones, which can become neoplastic. A number of risk factors have been identified for development of PTLD (Box 21.7). PTLD is most common during the first year after transplantation (see Fig. 21.21), with >80% of cases occurring in the first year. Among heart transplant recipients, risk of a pretransplant EBV-seronegative patient developing PTLD (particularly with an EBV-seropositive donor) is 25 to 30 times greater than in patients who are seropositive prior to transplantation.
+The abnormal EBV-specific susceptibility induced by immunosuppression allows the increased burden of EBV to infect recipient B cells and induce their transformation into expanding B-cell clones, which can become neoplastic. A number of risk factors have been identified for development of PTLD ([Box 21.7](#box-21-07)). PTLD is most common during the first year after transplantation (see [Fig. 21.21](#fig-21-21)), with >80% of cases occurring in the first year. Among heart transplant recipients, risk of a pretransplant EBV-seronegative patient developing PTLD (particularly with an EBV-seropositive donor) is 25 to 30 times greater than in patients who are seropositive prior to transplantation.
 
-##### • BOX 21.7 Risk Factors for Posttransplant Lymphoproliferative Disease
+<details class="med-details"><summary>
 
-- Strong link with Epstein-Barr virus infection
-- Type of organ grafted (heart and heart-lung recipients at greater risk than renal or liver recipients)
-- Chronic antigenic stimulation
-- Increased intensity of immunosuppression
-- Cytomegalovirus infection
+#### <span id="box-21-07"></span>BOX 21.7: Risk Factors for Posttransplant Lymphoproliferative Disease</summary><div class="details-content">
 
-From Preiksaitis JK, Cockfield SM. Epstein-Barr virus and lymphoproliferative disorders after transplantation. In: Bowden RA, Ljungman P, Paya CV, eds. *Transplant Infections.* Philadelphia: Lippincott-Raven; 1998:245-263.
+- Strong association with Epstein-Barr virus (EBV) infection, particularly in EBV-seronegative recipients receiving an organ from an EBV-seropositive donor;
+- Transplanted organ type (heart and heart-lung recipients have higher risk than kidney or liver recipients);
+- Chronic alloantigenic stimulation;
+- Increased cumulative intensity of immunosuppression (particularly cytolytic induction therapy with antithymocyte globulin or OKT3);
+- Cytomegalovirus (CMV) co-infection.
+
+</div></details>
 
 Various histological classifications of lesions in PTLD have been published and include a disease spectrum ranging from plasmacytic hypoplasia (preservation of lymph node architecture and usually a benign course) at one end to monoclonal non-Hodgkin lymphoma, with clearly malignant implications, at the other. Diagnosis of PTLD requires tissue biopsy, with sufficient tissue to allow assessment of cell type, clonality, biological studies, and architectural background. Identification of EBV infection is present in >90% of polymorphic histology but only about 50% of monomorphic histology. Clinical presentation of PTLD is widely variable, ranging from an infectious mononucleosis–like illness to specific symptoms related to the organ system involved. Symptomatic lymphadenopathy is a common presentation. PTLD involving the gastrointestinal tract may result in necrosis, bleeding, proliferation, and obstruction. CNS involvement can be either a localized disease or a result of dissemination of systemic PTLD. Pulmonary involvement frequently manifests as multiple nodules.
 
@@ -1481,86 +1584,74 @@ Compared to the general population, transplant patients have about twofold highe
 
 #### Allograft Coronary Artery Disease</summary><div class="details-content">
 
-Cardiac Allograft Vasculopathy (CAV), known as chronic allograft rejection, remains a main cause of morbidity and mortality after heart transplant. About 50% of surviving patients have evidence of CAV by 10 years posttransplant (Fig. 21.22). An ISHLT grading scale for CAV has been published (Box 21.8). The epicardial coronary arteries of patients with CAV are hypothesized to have longitudinal, concentric intimal thickening. It most likely also affects the coronary microvasculature. CAV formation may be influenced by native coronary artery disease mechanisms. CAV is often a diffuse process, although it can also show signs of localized stenosis and native coronary artery disease. Contributions from atherosclerotic pathways, ischemia-reperfusion injury, immunologic responses, and certain infections can be seen in the pathophysiology and molecular foundation of CAV.
+Cardiac Allograft Vasculopathy (CAV), known as chronic allograft rejection, remains a main cause of morbidity and mortality after heart transplant. About 50% of surviving patients have evidence of CAV by 10 years posttransplant ([Fig. 21.22](#fig-21-22)). An ISHLT grading scale for CAV has been published ([Box 21.8](#box-21-08)). The epicardial coronary arteries of patients with CAV are hypothesized to have longitudinal, concentric intimal thickening. It most likely also affects the coronary microvasculature. CAV formation may be influenced by native coronary artery disease mechanisms. CAV is often a diffuse process, although it can also show signs of localized stenosis and native coronary artery disease. Contributions from atherosclerotic pathways, ischemia-reperfusion injury, immunologic responses, and certain infections can be seen in the pathophysiology and molecular foundation of CAV.
 
-![](_page_43_Figure_2.jpeg)
+<span id="fig-21-22"></span>![](_page_43_Figure_2.jpeg)
 
-**FIGURE 21.22** Freedom from Cardiac Allograft Vasculopathy by Era. International Society for Heart and Lung Transplantation registry. *CAV*, Cardiac allograft vasculopathy. (Reproduced with permission from Khush KK, Potena L, Cherikh WS, et al. The International Thoracic Organ Transplant Registry of the International Society for Heart and Lung Transplantation: 37th adult heart transplantation report-2020; focus on deceased donor characteristics. *J Heart Lung Transplant*. 2020;39(10):1003-1015.)
+**FIGURE 21.22** Freedom from Cardiac Allograft Vasculopathy by Era. International Society for Heart and Lung Transplantation registry. *CAV*, Cardiac allograft vasculopathy.:1003-1015.)
 
 Atherosclerotic mechanisms and conventional risk factors for coronary atherosclerosis are examples of non-immune mechanisms. Following a heart transplant, hypertension, hyperlipidemia, renal failure, and glucose intolerance (diabetes) are common risk factors for coronary atherosclerosis. CAV development has been linked to older donor ages. One study found that typical cardiac risk factors were more common among donors over the age of 50. At the 5- and 10-year follow-ups in this trial, the risk of CAV was greater. Physiologic changes at the donor level caused by the process of brain death, cardiac arrest of the donor heart, the process of organ procurement, and ischemia-reperfusion at the moment of organ implantation are only a few examples of tissue damage that may happen during the heart transplant procedure and potentially contribute to an endothelial milieu favoring CAV development.
 
 The innate and adaptive immune systems both likely have a role in the formation of CAV. When recipient antigen-presenting cells internalize and process donor-soluble HLA following heart implantation, this can result in indirect allorecognition. T-cell stimulation may result from the presentation of certain donor antigens. Dendritic cell maturation may be accelerated by heat shock proteins, which can be recognized by toll-like receptors. CAV and antibody-mediated rejection are both correlated with complement deposition, namely C3d deposition. T- and B-cell activation, the release of proinflammatory cytokines, and a state of vascular inflammation are all outcomes of alloimmune interactions. Because this is a crucial point of contact and communication between the recipient blood and the transplanted graft, endothelial cells that line transplanted coronary arteries may be the main antigenic trigger for the beginning and progression of CAV.
 
-DSAs can form against the transplanted graft, especially following episodes of cellular and/or antibody-mediated rejection. Poor outcomes following heart transplantation are linked to DSA, especially to MHC type II antigens, which are related with CAV. Non-HLA antibodies, many of which are expressed on endothelial cells, are also probably implicated in the formation of CAV in addition to DSA. Anti-angiotensin II type I receptor, anti-MHC class I chain-related A and B, adhesion and trafficking receptors, and non-HLA antibodies are all linked to CAV. In addition, cytokine signaling and the formation of CAV may be affected by inflammatory modulators. Infections, such as CMV, may also influence the development of CAV. Significant risk factors for development of CAV are listed at Table 21.14. The long-term management of patients after a heart transplant depends on the detection and treatment of CAV. A number of other cardiovascular risk factors are crucial to long-term management (Box 21.9).
+DSAs can form against the transplanted graft, especially following episodes of cellular and/or antibody-mediated rejection. Poor outcomes following heart transplantation are linked to DSA, especially to MHC type II antigens, which are related with CAV. Non-HLA antibodies, many of which are expressed on endothelial cells, are also probably implicated in the formation of CAV in addition to DSA. Anti-angiotensin II type I receptor, anti-MHC class I chain-related A and B, adhesion and trafficking receptors, and non-HLA antibodies are all linked to CAV. In addition, cytokine signaling and the formation of CAV may be affected by inflammatory modulators. Infections, such as CMV, may also influence the development of CAV. Significant risk factors for development of CAV are listed at [Table 21.14](#table-21-14). The long-term management of patients after a heart transplant depends on the detection and treatment of CAV. A number of other cardiovascular risk factors are crucial to long-term management ([Box 21.9](#box-21-09)).
 
-##### • BOX 21.8 Recommended Nomenclature for Cardiac Allograft Vasculopathy
+<details class="med-details"><summary>
 
-#### Recommended Nomenclature for Cardiac Allograft Vasculopathy
+#### <span id="box-21-08"></span>BOX 21.8: Recommended Nomenclature for Cardiac Allograft Vasculopathy</summary><div class="details-content">
 
-- ISHLT CAV0 (Not significant): No detectable angiographic lesion
-- ISHLT CAV1 (Mild): Angiographic left main (LM) <50%, or primary vessel with maximum lesion of <70%, or any branch stenosis <70% (including diffuse narrowing) without allograft dysfunction
-- ISHLT CAV2 (Moderate): Angiographic LM <50%; a single primary vessel ≥70%, or isolated branch stenosis ≥70% in branches of 2 systems, without allograft dysfunction
-- ISHLT CAV3 (Severe): Angiographic LM ≥50%, or two or more primary vessels ≥70% stenosis, or isolated branch stenosis ≥70% in all 3 systems; or ISHLT CAV1 or CAV2 with allograft dysfunction (defined as LVEF ≤45% usually in the presence of regional wall motion abnormalities) or evidence of significant restrictive physiology (which is common but not specific; see text for definitions)
+##### ISHLT CAV Classification
+- **ISHLT CAV0 (Not significant):** No detectable angiographic lesion.
+- **ISHLT CAV1 (Mild):** Angiographic left main (LM) < 50%, or primary vessel with maximum lesion < 70%, or any branch stenosis < 70% (including diffuse narrowing) without allograft dysfunction.
+- **ISHLT CAV2 (Moderate):** Angiographic LM < 50%; a single primary vessel ≥ 70%, or isolated branch stenosis ≥ 70% in branches of 2 systems, without allograft dysfunction.
+- **ISHLT CAV3 (Severe):** Angiographic LM ≥ 50%, or two or more primary vessels with ≥ 70% stenosis, or isolated branch stenosis ≥ 70% in all 3 systems; or ISHLT CAV1 or CAV2 with allograft dysfunction (defined as LVEF ≤ 45% usually in the presence of regional wall motion abnormalities) or evidence of significant restrictive physiology.
 
-#### Definitions
+##### Definitions
+- **a) "Primary Vessel":** Proximal and middle 33% of the left anterior descending artery, left circumflex artery, ramus intermedius, and dominant or codominant right coronary artery with posterior descending and posterolateral branches.
+- **b) "Secondary Branch Vessel":** Distal 33% of primary vessels or any segment within large septal perforators, diagonals, and obtuse marginal branches, or any portion of a non-dominant right coronary artery.
+- **c) "Restrictive Allograft Physiology":** Symptomatic heart failure with echocardiographic E to A velocity ratio > 2 (> 1.5 in children), shortened isovolumetric relaxation time (< 60 ms), shortened deceleration time (< 150 ms), or restrictive hemodynamic values (right atrial pressure > 12 mmHg, PCWP > 25 mmHg).
 
-- a) A "Primary Vessel" denotes the proximal and Middle 33% of the left anterior descending artery, the left circumflex, the ramus and the dominant or co-dominant right coronary artery with the posterior descending and posterolateral branches.
-- b) A "Secondary Branch Vessel" includes the distal 33% of the primary vessels or any segment within a large septal perforator, diagonals and obtuse marginal branches or any portion of a non-dominant right coronary artery.
-- c) Restrictive cardiac allograft physiology is defined as symptomatic heart failure with echocardiographic E to A velocity ratio >2 (>1.5 in children), shortened isovolumetric relaxation time (<60 msec), shortened deceleration time (<150 msec), or restrictive hemodynamic values (right atrial pressure >12 mmHg, pulmonary capillary wedge pressure (PCWP) >25 mmHg)
+</div></details>
 
-Peled Y, Ducharme A, Kittleson M, et al. International Society for Heart and Lung Transplantation Guidelines for the Evaluation and Care of Cardiac Transplant Candidates-2024. *J Heart Lung Transplant*. 2024;43(10):1529-1628.e54.
+<details class="med-details"><summary>
 
-**TABLE 21.14 Risk Factors for Allograft Vasculopathy**
+#### <span id="table-21-14"></span>TABLE 21.14: Risk Factors for Cardiac Allograft Vasculopathy (CAV)</summary><div class="details-content">
 
-#### Recipient
+| Category | Specific Risk Factors |
+|:---|:---|
+| **Recipient Factors** | Older recipient age; male sex; Black race; ischemic etiology of pretransplant heart failure; posttransplant diabetes mellitus; systemic hypertension; hyperlipidemia (elevated LDL); obesity; tobacco history; persistent donor-specific antibodies (DSA, especially to HLA class II). |
+| **Donor Factors** | Advanced donor age (> 40–50 years); male donor; donor history of hypertension or smoking; pre-existing coronary artery disease on donor angiography; donor death from traumatic brain injury or intracranial hemorrhage (intense catecholamine surge). |
+| **Immunologic & Infectious Factors** | Frequency and severity of acute cellular rejection episodes within the first 6 months; antibody-mediated rejection (AMR); cytomegalovirus (CMV) infection or reactivation; prolonged graft ischemic time (> 4 hours); endothelial ischemia-reperfusion injury. |
 
-- Older age
-- Black race
+</div></details>
 
-#### Donor
+<details class="med-details"><summary>
 
-- Older age
-- Male
+#### <span id="box-21-09"></span>BOX 21.9: Management of Cardiovascular Risk After Heart Transplantation</summary><div class="details-content">
 
-#### Rejections
+##### Diabetes Mellitus
+- Prevention, early detection, and prompt therapy of posttransplant diabetes mellitus are essential components of long-term care.
+- Periodic screening with fasting blood glucose, oral glucose tolerance test, and HbA1c should be performed at least annually.
+- Corticosteroid-sparing protocols and reduced calcineurin inhibitor troughs should be pursued when appropriate to prevent or mitigate diabetes.
+- Early endocrine consultation is recommended upon detection of impaired glucose tolerance or diabetes.
 
-- Number of episodes in first 6 months
+##### Hypertension
+- Antihypertensive therapy in heart transplant recipients targets the same rigorous thresholds established for high-risk cardiovascular cohorts.
+- Lifestyle modifications (dietary sodium restriction, weight management, aerobic exercise) are combined with pharmacotherapy.
+- Dihydropyridine calcium channel blockers and ACE inhibitors / ARBs represent first-line agents, providing potential vascular protection against CAV.
+- Thiazide diuretics are particularly effective in reversing calcineurin inhibitor-mediated volume retention and renal vasoconstriction.
+- Successful steroid withdrawal substantially facilitates blood pressure control.
 
-##### • BOX 21.9 Management of Cardiovascular Risk After Heart Transplantation
+##### Hyperlipidemia
+- Fasting lipid profile should be monitored every 6 to 12 months.
+- Target LDL cholesterol is < 100 mg/dL (< 2.5 mmol/L).
+- Routine statin (HMG-CoA reductase inhibitor) therapy is indicated in almost all heart transplant recipients to reduce CAV and improve survival, using low starting doses to avoid rhabdomyolysis from CYP3A4 competition with cyclosporine.
+- Ezetimibe and PCSK9 inhibitors represent effective adjuncts in statin-intolerant patients or refractory dyslipidemia.
 
-#### Management of Cardiovascular Risk After Heart Transplantation Diabetes
+##### Aspirin Therapy
+- Low-dose aspirin (75–100 mg/day) is recommended for long-term prophylaxis against thrombotic complications and CAV progression in the absence of bleeding contraindications.
 
-- Prevention, early detection, and appropriate therapy of diabetes should be considered as an important component of patient care after HT.
-- Patients should be periodically screened for diabetes after HT by measuring fasting plasma glucose levels or with an oral glucose tolerance test (more sensitive screening test for prediabetic state) and HbA1c determination, as appropriate. The frequency of screening will depend on risk factors and immunosuppressive therapy.
-- Therapies for short-term perioperative and long-term chronic glycemic control in HT recipients should be based on contemporary guidelines.
-- HT recipients with diabetes should be counseled regarding weight control, diet/nutrition, and exercise; and annual screening should be performed for diabetic complications (ophthalmology, podiatry, peripheral vascular disease, etc.).
-- Pre-HT risk factors should be assessed and diabetogenic immunosuppressive medications should be minimized whenever possible in HT recipients.
-- CS-sparing regimens and decreased CNI doses should be used as appropriate to prevent diabetes in HT recipients.
-- Hypertension should be managed aggressively in HT recipients. Annual measurements of lipids levels should be performed according to ADA recommendations.
-- An endocrinology consultation may be considered when a pre-diabetic state or diabetes is diagnosed in a HT recipient.
-
-#### Hypertension
-
-- Anti-hypertensive therapy in HT recipients has benefits similar to those in the general population, therefore hypertension after HT should be treated to achieve the same goals recommended for the general population.
-- Treatment of hypertension in HT recipients should include recommendations for lifestyle modifications including weight loss, low sodium diet, and exercise in addition to drug therapy. ACEi and calcium channel blockers may be preferred as first line therapy in patients with diabetes and as a CAV prevention strategy, while hydrochlorothiazide could be considered to specifically counteract CNI-induced hypertension.
-- Modification of risk factors such as diabetes and hyperlipidemia are appropriate as adjunctive treatment for hypertension in HT recipients.
-- Appropriate adjustment of immunosuppressive therapy, especially CS weaning, may be helpful in management of hypertension in HT recipients.
-- Hypertension is common in both adults and children after HT and can be assessed with ambulatory blood pressure monitoring.
-- Calcium channel blockers should be considered the antihypertensive drug of choice when optimal blood pressure control cannot be achieved with ACEi/ARB, or when these drugs are contraindicated in HT recipients.
-
-#### Hyperlipidemia
-
-- Biannual measurements of lipid levels should be performed in adult heart transplant recipients.
-- It is reasonable to target LDL levels below 100 mg/dL (2.5 mmol/L) in heart transplant recipients, but there must be close monitoring for potential interactions between lipid lowering therapies and immunosuppressive agents.
-- Proprotein convertase subtilisin-kexin type 9 (PCSK9) inhibitors and ezetimibe can be considered as adjuncts to statin therapy in heart transplant recipients with uncontrolled hyperlipidemia, or as primary therapy in those with statin intolerance. (Experience in pediatrics is limited to ≥12 years for PCSK9 and ≥10 years for ezetimibe.)
-
-#### Aspirin
-
-- It is reasonable to consider routine use of aspirin early after heart transplant for prevention of CAV.
-
-Peled Y, Ducharme A, Kittleson M, et al. International Society for Heart and Lung Transplantation Guidelines for the Evaluation and Care of Cardiac Transplant Candidates-2024. *J Heart Lung Transplant*. 2024;43(10):1529-1628.e54
-
-*ACEI,* angiotensin converting enzyme inhibitor; *ADA,* American Diabetes Association; *ARB,* angiotensin receptor blocker; *HT,* heart transplant; *LDL,* low density lipoprotein.
+</div></details>
 
 </div></details>
 
@@ -1604,7 +1695,7 @@ In nontransplant patient populations, ezetimibe can result in moderate drops in 
 
 #### Cardiac Retransplantation</summary><div class="details-content">
 
-Currently, 2% to 3% of transplants reported to the ISHLT registries over the past 10 years involve heart retransplantation. Retransplantation has repeatedly been identified as a risk factor for worse allograft survival compared to primary transplantation for dilated cardiomyopathy. Risk factors for death include early retransplantation (within 6 months of primary transplant) and retransplantation for acute rejection or early allograft failure. The incidence of infection and rejection is similar following primary transplant and retransplantation. While several focused analyses have shown that comparatively worse survival after retransplantation is primarily related to the selection of retransplant candidates with multiple comorbidities, this is especially true in the case of retransplantation for PGF, where the results are poor (see earlier section on "Primary Graft Dysfunction"). Retransplantation is now a well-established treatment for a subset of CAV patients, with results that are comparable to those of original transplantation. However, with the use of numerous therapies to halt the progression of CAV, such as the use of PSIs, drug-eluting stents, and statin therapy, the prognosis of individuals with CAV has improved over time. A recent review showed that medical therapy of patients with CAV can often offer equivalent outcomes to retransplantation. Currently, retransplantation for CAV is generally restricted to patients with severe CAV (ISHLT CAV 3) (see Box 21.8) or CAV combined with systolic dysfunction. Retransplantation is not advised as salvage therapy for severe PGD or acute rejection with severe hemodynamic compromise.
+Currently, 2% to 3% of transplants reported to the ISHLT registries over the past 10 years involve heart retransplantation. Retransplantation has repeatedly been identified as a risk factor for worse allograft survival compared to primary transplantation for dilated cardiomyopathy. Risk factors for death include early retransplantation (within 6 months of primary transplant) and retransplantation for acute rejection or early allograft failure. The incidence of infection and rejection is similar following primary transplant and retransplantation. While several focused analyses have shown that comparatively worse survival after retransplantation is primarily related to the selection of retransplant candidates with multiple comorbidities, this is especially true in the case of retransplantation for PGF, where the results are poor (see earlier section on "Primary Graft Dysfunction"). Retransplantation is now a well-established treatment for a subset of CAV patients, with results that are comparable to those of original transplantation. However, with the use of numerous therapies to halt the progression of CAV, such as the use of PSIs, drug-eluting stents, and statin therapy, the prognosis of individuals with CAV has improved over time. A recent review showed that medical therapy of patients with CAV can often offer equivalent outcomes to retransplantation. Currently, retransplantation for CAV is generally restricted to patients with severe CAV (ISHLT CAV 3) (see [Box 21.8](#box-21-08)) or CAV combined with systolic dysfunction. Retransplantation is not advised as salvage therapy for severe PGD or acute rejection with severe hemodynamic compromise.
 
 Throughout the heart transplant evaluation process, retransplantation should be discussed with juvenile heart transplant candidates and/or their parents. As part of a systematic plan to transition to adult heart transplant care safely, discussion and teaching on retransplantation should take place throughout the follow-up care of all pediatric recipients in a manner that is developmentally appropriate. Patients' and parents' fear, parents' preference for not discussing tough medical information with their children, and patients' and parents' poor recollection of previously communicated prognostic information are all obstacles to open prognostic conversation. Notwithstanding these obstacles, the majority of teenagers and young adults want to be involved in choosing their own end-of-life care, before or after receiving a transplant. All prospective heart transplant candidates should be aware that risk factors specific to the patient, such as antirejection therapy adherence, renal and hepatic function, diabetes mellitus, rejection history, and the presence of anti-HLA antibodies, will be evaluated during the evaluation for retransplantation.
 
@@ -1628,18 +1719,22 @@ Efferent innervation mediates sympathetic and parasympathetic nervous system on 
 
 In general, the first month following transplant is when maintenance immunosuppression is most severe. Infection and rejection risk are at their peak at this time, and outpatient follow-up is at its most rigorous. To help patients with drug administration, medication adherence, and transportation to numerous clinic visits, one or two caregivers are typically needed. Immunosuppressive drug target trough concentrations gradually decrease over time. Renal function and cardiac function are commonly evaluated during follow-up because decline in heart function may be asymptomatic. Prednisone and two immunosuppressants are frequently used in treatment plans. Patients may be able to gradually reduce their dosage of prednisone if they are able to avoid rejection, maintain normal left ventricular systolic function, and do not develop DSA. During cardiac rehabilitation following surgery, a patient's functional status frequently becomes better.
 
-Cardiac transplantation produces prompt and sustained improvement in the health status and perception of general well-being among most patients with advanced heart failure. The effect of cardiac transplantation on quality of life during the first 5 years has been examined in all four of its major domains (Table 21.15).
+Cardiac transplantation produces prompt and sustained improvement in the health status and perception of general well-being among most patients with advanced heart failure. The effect of cardiac transplantation on quality of life during the first 5 years has been examined in all four of its major domains ([Table 21.15](#table-21-15)).
 
-**TABLE 21.15 Impact of Heart Transplantation on Quality of Life During First 5 years**
+<details class="med-details"><summary>
 
-| Domain | Variables | Improved | No Change or Worse |
-|--------|-----------|----------|---------------------|
-| Physical/mental status | Functional class, Symptoms of disease, Exercise capacity, Cognitive function, Sleep patterns | • • • • | • |
-| Functional ability | Activities of daily living, Domestic function, Energy, Employment, Financial stability, Sexual function, Life satisfaction, Perceived quality of life, Self esteem | • • • • • • | • • • |
-| Psychological well-being | Depression/hostility, Ability to cope with illness, Anxiety, Body image, Stress, Family relationships | • • • • | • |
-| Social interactions | Marital/partner relations, Substance abuse | • • | |
+#### <span id="table-21-15"></span>TABLE 21.15: Impact of Heart Transplantation on Quality of Life During First 5 Years</summary><div class="details-content">
 
-From White-Williams C. Quality of Life After Heart Transplantation. In: Kirklin JK, Young JB, McGiffin DC, eds. *Heart Transplantation*. Philadelphia: Churchill Livingstone; 2002:706.
+| Quality of Life Domain | Specific Evaluated Parameters | 1-Year Impact | 5-Year Impact |
+|:---|:---|:---:|:---:|
+| **Physical / Somatic Status** | NYHA functional class, disease symptoms, exercise tolerance, cognitive function, sleep patterns | Substantial improvement (••••) | Sustained benefit (•••) |
+| **Functional Capacity** | Activities of daily living, domestic functioning, vitality, employment re-entry, sexual function, perceived independence | Marked improvement (••••••) | Sustained moderate benefit (••••) |
+| **Psychological Well-Being** | Relief of anxiety/depression, coping with illness, body image, stress reduction, family dynamics | Marked improvement (••••) | Moderate benefit (••) |
+| **Social Interactions** | Marital and family relations, social reintegration, recreational activities | Moderate improvement (••) | Stable benefit (••) |
+
+###### Legend: Number of bullets (•) reflects relative magnitude of improvement on standardized HRQoL instruments.
+
+</div></details>
 
 </div></details>
 
@@ -1647,21 +1742,20 @@ From White-Williams C. Quality of Life After Heart Transplantation. In: Kirklin 
 
 ### Indications for Adult Cardiac Transplantation</summary><div class="details-content">
 
-In the final analysis, cardiac transplantation is advisable if the expected survival, quality of life, and functional outcomes are superior to other therapeutic options for advanced heart failure. The generally accepted indications for adult cardiac transplantation are listed in Box 21.10.
+In the final analysis, cardiac transplantation is advisable if the expected survival, quality of life, and functional outcomes are superior to other therapeutic options for advanced heart failure. The generally accepted indications for adult cardiac transplantation are listed in [Box 21.10](#box-21-10).
 
-##### • BOX 21.10 Indications for Adult Cardiac Transplantation
+<details class="med-details"><summary>
 
-- 1. Heart failure (refractory low cardiac output state) requiring continuous inotropic support
-- 2. NYHA classes III-IV with marked, progressive functional limitation despite optimal medical therapy and poor 12-month prognosis (peak VO₂ <14 mL/kg/min or serial decrease, clinically unstable)
-- 3. Recurrent or rapidly progressive heart failure unresponsive to optimal medical therapy
-- 4. Severe hypertrophic or restrictive cardiomyopathy, NYHA class IV symptoms
-- 5. Refractory angina pectoris despite optimal medical therapy (beta-blocker, calcium blocker, nitrates) not amenable to coronary revascularization or transmyocardial laser revascularization because of diffuse distal disease, or severe LV dysfunction. Objective documentation of myocardial ischemia within the first two stages of a standard Bruce exercise protocol
-- 6. Recurrent life-threatening ventricular arrhythmia refractory to medical treatment or insertion of ICD (frequent firings or prolonged electromechanical dissociation after cardioversion)
-- 7. Cardiac tumors, unresectable with low probability of metastasis
+#### <span id="box-21-10"></span>BOX 21.10: Indications for Adult Cardiac Transplantation</summary><div class="details-content">
 
-*IABP,* Intraaortic balloon pump; *ICD,* implantable cardioverter-defibrillator; *LV,* left ventricular; *NYHA,* New York Heart Association; *TAH,* total artificial heart; *VAD,* ventricular assist device; peak VO₂, maximal oxygen consumption.
+- **1. Cardiogenic shock and refractory heart failure:** Low cardiac output state requiring continuous intravenous inotropic therapy or mechanical circulatory support (VAD, ECMO).
+- **2. Severe functional limitation:** NYHA functional class III–IV symptoms with marked, progressive exercise limitation despite guideline-directed medical therapy and device optimization, with poor 1-year prognosis (peak VO₂ < 14 mL/kg/min or < 50% predicted).
+- **3. Recurrent or rapidly progressive heart failure:** Frequent hospitalizations for decompensated heart failure refractory to optimal outpatient medical regimens.
+- **4. Severe hypertrophic or restrictive cardiomyopathy:** Persistent NYHA class IV symptoms refractory to medical or surgical alternatives.
+- **5. Refractory angina:** Severe debilitating myocardial ischemia not amenable to conventional coronary artery bypass grafting or percutaneous coronary intervention.
+- **6. Recurrent life-threatening ventricular tachyarrhythmias:** Refractory ventricular tachycardia or fibrillation unresponsive to antiarrhythmic medications, catheter ablation, and implantable cardioverter-defibrillator (ICD) therapies.
 
-Modified from Renlund DG, Taylor DO. Cardiac transplantation. In: Topol EJ, ed. *Textbook of Cardiovascular Medicine.* 2nd ed. Philadelphia: Lippincott Williams & Wilkins; 2002.
+</div></details>
 
 </div></details>
 
@@ -1737,15 +1831,15 @@ The details of donor evaluation and selection are covered in detail in "Donor Ev
 
 ### Waitlist Outcomes</summary><div class="details-content">
 
-Pediatric patients listed for heart transplantation receive organs according to a priority algorithm established within each country or region. In the United States, the algorithm is established by UNOS. Waitlist mortality has progressively declined over the past 3 decades, both for cardiomyopathy (Fig. 21.23) and CHD (Fig. 21.24). Survival at 1 year has improved from about 70% in the early 2000s to >80% between 2020 and 2019. The largest improvement has occurred in the highest priority patients.
+Pediatric patients listed for heart transplantation receive organs according to a priority algorithm established within each country or region. In the United States, the algorithm is established by UNOS. Waitlist mortality has progressively declined over the past 3 decades, both for cardiomyopathy ([Fig. 21.23](#fig-21-23)) and CHD ([Fig. 21.24](#fig-21-24)). Survival at 1 year has improved from about 70% in the early 2000s to >80% between 2020 and 2019. The largest improvement has occurred in the highest priority patients.
 
-![](_page_49_Figure_2.jpeg)
+<span id="fig-21-23"></span>![](_page_49_Figure_2.jpeg)
 
-**FIGURE 21.23** Waitlist survival for pediatric cardiomyopathy patients, stratified by era. PHTS 1993–2020; n=4252. (From Richmond ME, Conway J, Kirklin JK, et al. Three decades of collaboration through the Pediatric Heart Transplant Society Registry: a journey through registry data with a highlight on children with single ventricle anatomy. *Pediatr Transplant*. 2024;28:e14615.)
+**FIGURE 21.23** Waitlist survival for pediatric cardiomyopathy patients, stratified by era. PHTS 1993–2020; n=4252.
 
-![](_page_49_Figure_4.jpeg)
+<span id="fig-21-24"></span>![](_page_49_Figure_4.jpeg)
 
-**FIGURE 21.24** Waitlist survival for pediatric congenital heart disease patients, stratified by era. PHTS 1993–2020; n=5125. (From Richmond ME, Conway J, Kirklin JK, et al. Three decades of collaboration through the Pediatric Heart Transplant Society Registry: a journey through registry data with a highlight on children with single ventricle anatomy. *Pediatr Transplant*. 2024;28:e14615.)
+**FIGURE 21.24** Waitlist survival for pediatric congenital heart disease patients, stratified by era. PHTS 1993–2020; n=5125.
 
 <details class="med-details"><summary>
 
@@ -1761,11 +1855,11 @@ Patients with CHD are known to be at increased risk for mortality on the waitlis
 
 #### Functional Single Ventricle</summary><div class="details-content">
 
-Stage of palliation in patients with single ventricle affects likelihood of death while awaiting transplantation (Fig. 21.25). Patients (usually infants) before or after stage 1 palliation have a high waitlist mortality, approaching 40% if transplant cannot be performed within 3 to 6 months.
+Stage of palliation in patients with single ventricle affects likelihood of death while awaiting transplantation ([Fig. 21.25](#fig-21-25)). Patients (usually infants) before or after stage 1 palliation have a high waitlist mortality, approaching 40% if transplant cannot be performed within 3 to 6 months.
 
-![](_page_49_Figure_10.jpeg)
+<span id="fig-21-25"></span>![](_page_49_Figure_10.jpeg)
 
-**FIGURE 21.25** Survival after listing for single ventricle patients, stratified by stage of palliation. PHTS 2010–2020; n=1937. (From Richmond ME, Conway J, Kirklin JK, et al. Three decades of collaboration through the Pediatric Heart Transplant Society Registry: a journey through registry data with a highlight on children with single ventricle anatomy. *Pediatr Transplant*. 2024;28:e14615.)
+**FIGURE 21.25** Survival after listing for single ventricle patients, stratified by stage of palliation. PHTS 2010–2020; n=1937.
 
 </div></details>
 
@@ -1845,27 +1939,27 @@ In patients with a malposed ascending aorta or transposed great arteries, the as
 
 #### Anomalies of Systemic Venous Return</summary><div class="details-content">
 
-*Left Superior Vena Cava.* When the left SVC drains to the coronary sinus, the simplest approach is to leave it attached to the atrium and preserve the course and connection of the coronary sinus to the right atrium at cardiectomy (Fig. 21.26). If a biatrial transplant is selected, care must be taken to avoid narrowing the coronary sinus by the left atrial anastomosis. In the presence of a diminutive or absent right-sided SVC, this method of reconstruction may prevent EMB via the left SVC because of the sharp angulation required for the bioptome to access the right ventricular septum.
+*Left Superior Vena Cava.* When the left SVC drains to the coronary sinus, the simplest approach is to leave it attached to the atrium and preserve the course and connection of the coronary sinus to the right atrium at cardiectomy ([Fig. 21.26](#fig-21-26)). If a biatrial transplant is selected, care must be taken to avoid narrowing the coronary sinus by the left atrial anastomosis. In the presence of a diminutive or absent right-sided SVC, this method of reconstruction may prevent EMB via the left SVC because of the sharp angulation required for the bioptome to access the right ventricular septum.
 
-![](_page_51_Picture_2.jpeg)
+<span id="fig-21-26"></span>![](_page_51_Picture_2.jpeg)
 
 **FIGURE 21.26** Appearance of left superior vena cava draining into coronary sinus following cardiectomy for cardiac transplantation. (Courtesy Pedro J. del Nido, MD, Boston, Mass.; del Nido PJ, Bailey LL, Kirklin JK. *Surgical Techniques in Pediatric Heart Transplantation*. In: Canter CE, Kirklin JK, eds. *Pediatric Heart Transplantation*. Philadelphia: Elsevier: 2007:83-102.)
 
-If the left SVC empties directly into the upper corner of the left atrium, and if there is a communicating vein to the right SVC, consideration should be given to ligating it at its entry into the left atrium. However, in general it is advisable to preserve all avenues of venous drainage. To maximize surgical options during implantation, the maximal length of donor SVC and brachiocephalic vein should be harvested. An extracardiac reconstruction can be accomplished by anastomosing the donor brachiocephalic vein to the cut end of the recipient left SVC, followed by a direct right SVC anastomosis to donor right SVC (Fig. 21.27).
+If the left SVC empties directly into the upper corner of the left atrium, and if there is a communicating vein to the right SVC, consideration should be given to ligating it at its entry into the left atrium. However, in general it is advisable to preserve all avenues of venous drainage. To maximize surgical options during implantation, the maximal length of donor SVC and brachiocephalic vein should be harvested. An extracardiac reconstruction can be accomplished by anastomosing the donor brachiocephalic vein to the cut end of the recipient left SVC, followed by a direct right SVC anastomosis to donor right SVC ([Fig. 21.27](#fig-21-27)).
 
-![](_page_51_Picture_4.jpeg)
+<span id="fig-21-27"></span>![](_page_51_Picture_4.jpeg)
 
-**FIGURE 21.27** Transplant reconstruction in a recipient with previous second-stage Norwood reconstruction and bilateral superior venae cavae (see Fig. 21.26). (Courtesy Leonard L. Bailey, MD, Loma Linda, Calif.; del Nido PJ, Bailey LL, Kirklin JK. *Surgical Techniques in Pediatric Heart Transplantation*. In: Canter CE, Kirklin JK, eds. *Pediatric Heart Transplantation*. Philadelphia: Elsevier: 2007:83-102.)
+**FIGURE 21.27** Transplant reconstruction in a recipient with previous second-stage Norwood reconstruction and bilateral superior venae cavae (see [Fig. 21.26](#fig-21-26)). (Courtesy Leonard L. Bailey, MD, Loma Linda, Calif.; del Nido PJ, Bailey LL, Kirklin JK. *Surgical Techniques in Pediatric Heart Transplantation*. In: Canter CE, Kirklin JK, eds. *Pediatric Heart Transplantation*. Philadelphia: Elsevier: 2007:83-102.)
 
-Alternatively, an intracardiac pathway can be constructed using the recipient's left atrial appendage or PTFE to redirect drainage from the left SVC to the right atrium. The biatrial implantation technique is then employed, in which the left atrial and right atrial septal anastomoses deviate slightly leftward at the opening of the left SVC tunnel into the new right atrium. This technique may be less prone to kinking and thrombosis than the extracardiac reconstruction (Fig. 21.28).
+Alternatively, an intracardiac pathway can be constructed using the recipient's left atrial appendage or PTFE to redirect drainage from the left SVC to the right atrium. The biatrial implantation technique is then employed, in which the left atrial and right atrial septal anastomoses deviate slightly leftward at the opening of the left SVC tunnel into the new right atrium. This technique may be less prone to kinking and thrombosis than the extracardiac reconstruction ([Fig. 21.28](#fig-21-28)).
 
-![](_page_51_Picture_7.jpeg)
+<span id="fig-21-28"></span>![](_page_51_Picture_7.jpeg)
 
 **FIGURE 21.28** Tunnel repair of left superior vena cava into right atrium in preparation for orthotopic cardiac transplantation (see text for details). (Courtesy Pedro J. del Nido, MD, Boston, Mass.; del Nido PJ, Bailey LL, Kirklin JK. *Surgical Techniques in Pediatric Heart Transplantation*. In: Canter CE, Kirklin JK, eds. *Pediatric Heart Transplantation*. Philadelphia: Elsevier: 2007:83-102.)
 
-*Anomalies of Inferior Vena Caval Drainage.* Anomalies of systemic venous drainage are common. Separate drainage of the hepatic veins to the left atrium requires creating a baffle within the left atrium to divert left hepatic drainage back to the right atrium (Fig. 21.29). The baffle must be positioned in a manner that avoids pulmonary venous obstruction. PTFE or pericardium is convenient for constructing this tunnel. A bicaval or biatrial implantation technique can then be used (see Section I).
+*Anomalies of Inferior Vena Caval Drainage.* Anomalies of systemic venous drainage are common. Separate drainage of the hepatic veins to the left atrium requires creating a baffle within the left atrium to divert left hepatic drainage back to the right atrium ([Fig. 21.29](#fig-21-29)). The baffle must be positioned in a manner that avoids pulmonary venous obstruction. PTFE or pericardium is convenient for constructing this tunnel. A bicaval or biatrial implantation technique can then be used (see Section I).
 
-![](_page_51_Picture_9.jpeg)
+<span id="fig-21-29"></span>![](_page_51_Picture_9.jpeg)
 
 **FIGURE 21.29** Reconstruction of hepatic veins entering the left atrium to allow orthotopic heart transplantation (see text for details). (Courtesy Pedro J. del Nido, MD, Boston, Mass.; del Nido PJ, Bailey LL, Kirklin JK. *Surgical Techniques in Pediatric Heart Transplantation*. In: Canter CE, Kirklin JK, eds. *Pediatric Heart Transplantation*. Philadelphia: Elsevier: 2007:83-102.)
 
@@ -1905,9 +1999,9 @@ Situs inversus is a unique surgical challenge because of the need to reroute sys
 
 The simplest method uses a bicaval technique in which the pulmonary vein orifices and the posterior aspect of the left atrium are isolated as a single unit with a circumferential cuff of left atrium, just as in a standard bicaval technique. Incisions in the left-sided right atrium are planned such that autologous right atrial tissue can be used to construct a partial tube from the left-sided opening of the IVC rightward along the diaphragm to provide a connection with the donor IVC opening within the right atrium.
 
-In the presence of a normal brachiocephalic vein, a long segment of donor SVC and brachiocephalic vein is harvested to allow a right-sided anastomosis from donor SVC to the underside of the recipient brachiocephalic vein. Alternatively, the donor SVC and brachiocephalic vein can be anastomosed directly to the mobilized recipient left SVC (Fig. 21.30).
+In the presence of a normal brachiocephalic vein, a long segment of donor SVC and brachiocephalic vein is harvested to allow a right-sided anastomosis from donor SVC to the underside of the recipient brachiocephalic vein. Alternatively, the donor SVC and brachiocephalic vein can be anastomosed directly to the mobilized recipient left SVC ([Fig. 21.30](#fig-21-30)).
 
-![](_page_52_Figure_14.jpeg)
+<span id="fig-21-30"></span>![](_page_52_Figure_14.jpeg)
 
 **FIGURE 21.30** Final appearance of implantation of a situs solitus donor heart into a situs inversus recipient. Ascending aortic anastomosis is shortened, allowing superior venous drainage system to be draped over the great arteries. *BV*, Brachiocephalic vein; *LIVC*, left inferior vena cava; *LSVC*, left superior vena cava; *SVC*, superior vena cava. (Courtesy Leonard L. Bailey, MD, Loma Linda, Calif.; del Nido PJ, Bailey LL, Kirklin JK. *Surgical Techniques in Pediatric Heart Transplantation*. In: Canter CE, Kirklin JK, eds. *Pediatric Heart Transplantation*. Philadelphia: Elsevier: 2007:83-102.)
 
@@ -1915,9 +2009,9 @@ The general sequence of operation is transection of the SVC, including a small r
 
 Implantation involves a standard left atrial anastomosis followed by the IVC anastomosis between the constructed tube and the donor IVC orifice. The donor and recipient aorta are then trimmed appropriately to provide a tension-free anastomosis, after which de-airing and de-clamping are carried out as usual. The SVC reconstruction and pulmonary artery anastomosis (with an incision extended onto the left pulmonary artery as needed) are performed while rewarming.
 
-Alternatively, a biatrial technique can be used by removing all interatrial septum and reconstructing the septum as described earlier in this section under "Complex Combinations of Anomalous Systemic and Pulmonary Venous Drainage." Autologous tissues can also be used to create internal baffles to achieve the same result (Fig. 21.31).
+Alternatively, a biatrial technique can be used by removing all interatrial septum and reconstructing the septum as described earlier in this section under "Complex Combinations of Anomalous Systemic and Pulmonary Venous Drainage." Autologous tissues can also be used to create internal baffles to achieve the same result ([Fig. 21.31](#fig-21-31)).
 
-![](_page_53_Figure_14.jpeg)
+<span id="fig-21-31"></span>![](_page_53_Figure_14.jpeg)
 
 **FIGURE 21.31** Reconstruction of systemic and pulmonary venous pathways in situs inversus in preparation for cardiac transplantation (see text for details). (Courtesy Pedro J. del Nido, MD, Boston, Mass.; del Nido PJ, Bailey LL, Kirklin JK. *Surgical Techniques in Pediatric Heart Transplantation*. In: Canter CE, Kirklin JK, eds. *Pediatric Heart Transplantation*. Philadelphia: Elsevier: 2007:83-102.)
 
@@ -1931,9 +2025,9 @@ Distortion or hypoplasia of the central pulmonary arteries must be repaired at t
 
 Management of aortopulmonary collaterals during CPB requires special planning. Because these collaterals markedly increase pulmonary venous return during bypass, they can complicate the conduct of the transplant procedure and produce important volume overload and distension of the new graft during reperfusion. In addition, excessive pulmonary blood flow may initiate pulmonary dysfunction, pulmonary hypertension, and right ventricular dysfunction. For these reasons, coiling these vessels in the catheterization laboratory immediately prior to transplantation is preferable whenever possible. Alternatively, ligation of collaterals at transplantation may be accomplished by dividing the posterior pericardium following cardiectomy (see "Managing Sources of Pulmonary Blood Flow on Cardiopulmonary Bypass" in Chapter 35).
 
-When the pulmonary trunk requires replacement, it is advisable to perform this reconstruction before the aortic or SVC anastomosis (Fig. 21.32). After the left atrial connection is completed, the donor pulmonary arteries are connected to the recipient's pulmonary arteries, after which the aortic and cavocaval or right atrial anastomoses are completed.
+When the pulmonary trunk requires replacement, it is advisable to perform this reconstruction before the aortic or SVC anastomosis ([Fig. 21.32](#fig-21-32)). After the left atrial connection is completed, the donor pulmonary arteries are connected to the recipient's pulmonary arteries, after which the aortic and cavocaval or right atrial anastomoses are completed.
 
-![](_page_54_Picture_2.jpeg)
+<span id="fig-21-32"></span>![](_page_54_Picture_2.jpeg)
 
 **FIGURE 21.32** Cardiac transplantation in absence of pulmonary trunk. (A) Appearance after recipient cardiectomy in a patient with discontinuous central pulmonary arteries. (B) Donor central pulmonary arteries are used in the transplant reconstruction (see text). (Courtesy Pedro J. del Nido, MD, Boston, Mass.; del Nido PJ, Bailey LL, Kirklin JK. *Surgical Techniques in Pediatric Heart Transplantation*. In: Canter CE, Kirklin JK, eds. *Pediatric Heart Transplantation*. Philadelphia: Elsevier: 2007:83-102.)
 
@@ -1953,9 +2047,9 @@ In the presence of residual coarctation, reconstruction optimally involves resec
 
 #### Hypoplastic Left Heart Syndrome</summary><div class="details-content">
 
-Patients presenting with hypoplastic left heart physiology without prior palliation may have a spectrum of anomalies. Common to all, however, is hypoplasia of the left ventricle and ascending aorta (Fig. 21.33). The aortic arch is also small in most cases, and there may be associated coarctation of the aorta. The right ventricle and pulmonary trunk are usually large, and the ductus arteriosus continues to the descending aorta. It must be identified relative to the left pulmonary artery. The right atrium may be enlarged from high pressure and flow through a patent foramen ovale. The SVC and IVC usually connect normally.
+Patients presenting with hypoplastic left heart physiology without prior palliation may have a spectrum of anomalies. Common to all, however, is hypoplasia of the left ventricle and ascending aorta ([Fig. 21.33](#fig-21-33)). The aortic arch is also small in most cases, and there may be associated coarctation of the aorta. The right ventricle and pulmonary trunk are usually large, and the ductus arteriosus continues to the descending aorta. It must be identified relative to the left pulmonary artery. The right atrium may be enlarged from high pressure and flow through a patent foramen ovale. The SVC and IVC usually connect normally.
 
-![](_page_54_Figure_4.jpeg)
+<span id="fig-21-33"></span>![](_page_54_Figure_4.jpeg)
 
 **FIGURE 21.33** Orthotopic cardiac transplantation, hypoplastic left heart physiology. (A) Common to the spectrum of hypoplastic left hearts is hypoplasia of left ventricle and ascending aorta. Ductus arteriosus continues to descending thoracic aorta. Pulmonary trunk is usually large. (B) Cardiectomy proceeds in classic fashion, retaining most of right and left atria of recipient to allow standard large atrial anastomoses, because these patients are all infants. Ascending aorta is excised and aortic arch opened along its inferior wall into descending thoracic aorta. Ductus arteriosus is divided and its pulmonary end oversewn. (C) Left and right atria are anastomosed in biatrial rather than bicaval fashion to permit better growth of anastomoses. Pulmonary trunk is anastomosed in end-to-end fashion. Ascending aorta and arch of donor are used to enlarge hypoplastic structures of recipient. The arterial and venous cannulation sites are not shown to improve clarity.
 
@@ -1997,49 +2091,49 @@ The hospital length of stay following pediatric heart transplantation averages a
 
 #### Immunosuppression</summary><div class="details-content">
 
-Baseline immunosuppression in pediatric patients mirrors that in adults, with a common strategy of steroid-free maintenance. Tacrolimus is the standard calcineurin inhibitor (Box 21.11). The use of induction therapy is highly variable among institutions. Overall, induction therapy with anti-lymphocyte antibody treatment (about 50%) or interleukin-2 receptor antagonist (about 25%) is standard practice, while about 25% of patients receive no induction.
+Baseline immunosuppression in pediatric patients mirrors that in adults, with a common strategy of steroid-free maintenance. Tacrolimus is the standard calcineurin inhibitor ([Box 21.11](#box-21-11)). The use of induction therapy is highly variable among institutions. Overall, induction therapy with anti-lymphocyte antibody treatment (about 50%) or interleukin-2 receptor antagonist (about 25%) is standard practice, while about 25% of patients receive no induction.
 
-##### • BOX 21.11 Dosage of Immunosuppression Agents in Pediatric Patients
+<details class="med-details"><summary>
 
-**Corticosteroids**
+#### <span id="box-21-11"></span>BOX 21.11: Dosage of Immunosuppression Agents in Pediatric Patients</summary><div class="details-content">
 
-For neonates and small infants (<7 kg), generally 100 mg methylprednisolone IV daily for 3 days. For older infants and children, methylprednisolone 15 mg·kg<sup>–1</sup> IV daily × 3 or prednisolone 2-4 mg·kg<sup>–1</sup> daily PO × 3 with or without a subsequent taper
+##### Corticosteroids
+- **Neonates and small infants (< 7 kg):** Methylprednisolone 100 mg IV daily for 3 days.
+- **Older infants and children:** Methylprednisolone 15 mg/kg IV daily × 3 days, or prednisolone 2–4 mg/kg daily PO × 3 days with or without subsequent taper.
 
-**Cyclosporine**
+##### Cyclosporine
+- Initial oral dose: ~ 0.3 mg/kg/day twice daily.
+- If renal function is stable, gradually increase to oral dose of ~ 1 mg/kg/day in 3 divided doses.
+- If renal function remains normal, rapidly titrate over 3–4 days to achieve target trough levels (C0 / C2).
 
-Initial oral dose of about 0.3 mg·kg<sup>–1</sup>·day<sup>–1</sup> twice daily. If renal function stable, gradually increase to oral dose of about 1 mg·kg<sup>–1</sup>·day<sup>–1</sup> in 3 divided doses. If renal function remains normal, rapidly increase over 3-4 days to achieve target trough levels
+##### Tacrolimus
+- 0.05 to 0.15 mg/kg/day PO or sublingual in two divided doses.
+- Once stable renal function is verified after initial 1–2 days, dosage is rapidly adjusted to target blood levels with close surveillance of renal function.
 
-**Tacrolimus**
+##### Azathioprine
+- 2 to 2.5 mg/kg/day PO.
+- Dose reduced as necessary to maintain white blood cell count ≥ 3000/µL.
 
-0.05 to 0.15 mg·kg<sup>–1</sup>·day<sup>–1</sup> PO or sublingual in two divided doses. Once stable renal function is verified after initial 1-2 days of therapy, dosage can be rapidly increased to attain target level (with continued surveillance of renal function)
+##### Mycophenolate Mofetil (MMF)
+- Begin at 5 mg/kg IV or twice daily PO, progressively increasing to a target dose of 20–23 mg/kg twice daily if tolerated gastrointestinally.
+- IV dose is bioequivalent to oral dose.
 
-**Azathioprine**
+##### Cyclophosphamide
+- 1 to 1.5 mg/kg/day. Dose adjusted to maintain white blood cell count ≥ 3000/µL.
 
-2 to 2.5 mg·kg<sup>–1</sup>·day<sup>–1</sup>. Dose reduced as necessary to maintain the white blood cell count of 3000 per mL or greater
+##### Methotrexate
+- 5 to 10 mg/m²/week in 3 every-12-hour doses.
 
-**Mycophenolate Mofetil**
+##### Sirolimus
+- Loading dose: 3 mg/m², followed by maintenance dose: 1 mg/m²/day.
 
-Begin at 5 mg·kg<sup>–1</sup> IV or twice daily PO and progressively increase to a target dose of 20-23 mg·kg<sup>–1</sup> twice daily if tolerated (gastrointestinal symptoms). When administered IV, dose is equivalent to the oral dose
+##### Antithymocyte Globulin (ATG)
+- Specific dosing, premedications, and hypersensitivity testing depend on specific preparation (rabbit vs equine ATG).
 
-**Cyclophosphamide**
+##### Anti-CD25 Monoclonal Antibodies
+- **Basiliximab:** 10–12 mg IV doses based on patient size using Day 0 and Day 4 schedule.
 
-1 to 1.5 mg·kg<sup>–1</sup>·day<sup>–1</sup>. Dose reduced as necessary to maintain the white blood cell count of 3000 per mL or greater
-
-**Methotrexate**
-
-5 to 10 mg·m<sup>–2</sup>·week<sup>–1</sup> in 3 every-12-hour doses
-
-**Sirolimus**
-
-Loading dose: 3 mg·m<sup>–2</sup> followed by Maintenance dose: 1 mg·m<sup>–2</sup>·day<sup>–1</sup>
-
-**Antithymocyte Globulin**
-
-Specifics regarding dosage, premedications, and hypersensitivity testing vary according to specific antithymocyte preparation
-
-**Anti-CD25 Monoclonal Antibodies**
-
-Basiliximab: Administer 12-mg doses using the same schedule as in adults
+</div></details>
 
 </div></details>
 
@@ -2057,24 +2151,24 @@ In recent years, the technology to examine donor-specific cell-free DNA (cfDNA) 
 
 #### Infection Prophylaxis</summary><div class="details-content">
 
-Prevention of infection by active immunization is recommended for specific conditions, using killed vaccine only. Recommended childhood immunizations are given in Table 21.16.
+Prevention of infection by active immunization is recommended for specific conditions, using killed vaccine only. Recommended childhood immunizations are given in [Table 21.16](#table-21-16).
 
-**TABLE 21.16 Immunizations for Heart and Heart-Lung Transplant Recipients**
+<details class="med-details"><summary>
 
-| Vaccine | Before | After | Comments |
-|---------|--------|-------|----------|
-| Tetanus/diphtheria | + | + | Revaccination every 10 years after primary series and booster |
-| Hepatitis B | + | +/– | Immunogenicity of HBV vaccine only 5% to 15% in organ transplant recipients |
-| Hepatitis A | + | +/– | Especially indicated for liver transplants and international travelers |
-| *Haemophilus influenzae* type B | + | + | Especially indicated for children younger than 6 years |
-| Pneumococcus (multivalent) | + | + | Indication after transplant is not established |
-| Influenza A and B | +/– | + | Seasonal vaccination |
-| Varicella zoster virus (attenuated live) | + | – | Only for seronegative patients; posttransplant use not approved |
-| Measles-mumps-rubella (live attenuated) | + | Contraindicated | Primary pediatric series |
-| Oral polio vaccine | + | Contraindicated | Primary pediatric series |
-| Inactivated polio vaccine | – | + | Indicated for unvaccinated posttransplant patients |
+#### <span id="table-21-16"></span>TABLE 21.16: Immunizations for Heart and Heart-Lung Transplant Recipients</summary><div class="details-content">
 
-Data from Chinnock RE, Pearce FB. Pediatric Heart Transplantation. In: Kirklin JK, Young JB, McGiffin DC, eds. *Heart Transplantation*. Philadelphia: Churchill Livingstone; 2002:743-744.
+| Vaccine | Pretransplant | Posttransplant | Clinical Comments |
+|:---|:---:|:---:|:---|
+| **Tetanus / Diphtheria (Td/Tdap)** | Recommended (+) | Recommended (+) | Booster every 10 years following completion of primary series. |
+| **Hepatitis B (HBV)** | Recommended (+) | Optional (+/–) | Vaccine immunogenicity is only 5% to 15% in immunosuppressed organ recipients; monitor anti-HBs titers. |
+| **Hepatitis A (HAV)** | Recommended (+) | Optional (+/–) | Indicated for travelers to endemic regions and chronic liver disease. |
+| ***Haemophilus influenzae* type b (Hib)** | Recommended (+) | Recommended (+) | Indicated particularly for pediatric recipients younger than 6 years. |
+| **Pneumococcal (PCV13 / PPSV23)** | Recommended (+) | Recommended (+) | Conjugate PCV13 followed by polysaccharide PPSV23 at least 8 weeks later. |
+| **Influenza A and B (Inactivated)** | Recommended (+) | Recommended (+) | Annual seasonal vaccination using killed/inactivated preparation only. |
+| **Varicella-Zoster (Live attenuated)** | Recommended (+) | **Contraindicated (–)** | Only for seronegative candidates prior to transplant; strictly contraindicated posttransplant. |
+| **Measles, Mumps, Rubella (MMR, Live)** | Recommended (+) | **Contraindicated (–)** | Complete primary pediatric series at least 4 weeks prior to transplantation; contraindicated posttransplant. |
+
+</div></details>
 
 </div></details>
 
@@ -2088,47 +2182,47 @@ Data from Chinnock RE, Pearce FB. Pediatric Heart Transplantation. In: Kirklin J
 
 #### Survival</summary><div class="details-content">
 
-*Survival by Era.* Among pediatric patients, survival has progressively improved over the past 3 decades, with an overall 1-year pediatric heart transplant survival of 92% during the period from 2012 through 2017 (Fig. 21.34). The improvement by era is evident for both cardiomyopathy (Fig. 21.35) and CHD (Fig. 21.36). Survival at 1 year is age-related. Based on the 2021 analysis from the International Heart and Lung Transplant Registry, 1-year survival was 89% among infants <1 year, 92% among children age 1 to 10 years, and 94% among adolescents 11 to 17 years. Survival is the same as in adult transplant recipients once the patient reaches about 11 years of age. Of note, although early risk is somewhat greater for infants undergoing cardiac transplantation, the longer-term survival (beyond about 10 years) is highest among infant transplant recipients (Fig. 21.37).
+*Survival by Era.* Among pediatric patients, survival has progressively improved over the past 3 decades, with an overall 1-year pediatric heart transplant survival of 92% during the period from 2012 through 2017 ([Fig. 21.34](#fig-21-34)). The improvement by era is evident for both cardiomyopathy ([Fig. 21.35](#fig-21-35)) and CHD ([Fig. 21.36](#fig-21-36)). Survival at 1 year is age-related. Based on the 2021 analysis from the International Heart and Lung Transplant Registry, 1-year survival was 89% among infants <1 year, 92% among children age 1 to 10 years, and 94% among adolescents 11 to 17 years. Survival is the same as in adult transplant recipients once the patient reaches about 11 years of age. Of note, although early risk is somewhat greater for infants undergoing cardiac transplantation, the longer-term survival (beyond about 10 years) is highest among infant transplant recipients ([Fig. 21.37](#fig-21-37)).
 
-![](_page_57_Figure_3.jpeg)
+<span id="fig-21-34"></span>![](_page_57_Figure_3.jpeg)
 
-**FIGURE 21.34** Survival after pediatric heart transplantation, stratified by era. Shaded areas indicate the 70% CL. (From Richmond ME, Conway J, Kirklin JK, et al. Three decades of collaboration through the Pediatric Heart Transplant Society Registry: a journey through registry data with a highlight on children with single ventricle anatomy. *Pediatr Transplant*. 2024;28:e14615.)
+**FIGURE 21.34** Survival after pediatric heart transplantation, stratified by era. Shaded areas indicate the 70% CL.
 
-![](_page_57_Figure_8.jpeg)
+<span id="fig-21-35"></span>![](_page_57_Figure_8.jpeg)
 
-**FIGURE 21.35** Survival after pediatric heart transplantation for cardiomyopathy, stratified by era. Shaded areas indicate the 70% CL. (From Richmond ME, Conway J, Kirklin JK, et al. Three decades of collaboration through the Pediatric Heart Transplant Society Registry: a journey through registry data with a highlight on children with single ventricle anatomy. *Pediatr Transplant*. 2024;28:e14615.)
+**FIGURE 21.35** Survival after pediatric heart transplantation for cardiomyopathy, stratified by era. Shaded areas indicate the 70% CL.
 
-![](_page_58_Figure_2.jpeg)
+<span id="fig-21-36"></span>![](_page_58_Figure_2.jpeg)
 
-**FIGURE 21.36** Survival after pediatric heart transplantation for congenital heart disease (HD), stratified by era. Shaded areas indicate the 70% CL. (From Richmond ME, Conway J, Kirklin JK, et al. Three decades of collaboration through the Pediatric Heart Transplant Society Registry: a journey through registry data with a highlight on children with single ventricle anatomy. *Pediatr Transplant*. 2024;28:e14615.)
+**FIGURE 21.36** Survival after pediatric heart transplantation for congenital heart disease (HD), stratified by era. Shaded areas indicate the 70% CL.
 
-![](_page_58_Figure_5.jpeg)
+<span id="fig-21-37"></span>![](_page_58_Figure_5.jpeg)
 
-**FIGURE 21.37** Survival after pediatric heart transplantation, stratified by age. Shaded areas indicate the 70% CL. PHTS, Pediatric Heart Transplant Society. (From unpublished data, PHTS.)
+**FIGURE 21.37** Survival after pediatric heart transplantation, stratified by age. Shaded areas indicate the 70% CL. PHTS, Pediatric Heart Transplant Society.
 
 *General Risk Factors.* A multivariable analysis of the ISHLT registry identified significant risk factors for mortality at 1 year: diagnosis of CHD, younger age (especially below 1 year), prior heart transplant, ECMO support at transplant, ventilator support, prior cardiac surgery, donor cause of death stroke versus trauma, female sex, decreased renal function, elevated serum bilirubin, higher PRA, longer donor heart ischemic time (especially >5 hours), and center transplant volume (<20 pediatric heart transplants in prior 3 years) (Figs. 21.38 through 21.42). Patients with CHD have approximately twice the risk of early mortality compared with cardiomyopathy patients; the 1-year survival by diagnosis in the era 2012 to 2017 was 95% for cardiomyopathy and 88% for CHD. Risk of early death appears to increase considerably and progressively with age less than about 1 year.
 
-![](_page_58_Figure_8.jpeg)
+<span id="fig-21-38"></span>![](_page_58_Figure_8.jpeg)
 
-**FIGURE 21.38** Categorical risk factors for mortality in the first year after pediatric heart transplantation with 95% CL. January 2000–June 2017; n=9376. *CVA*, cerebrovascular accident; *DCM*, dilated cardiomyopathy; *MCS*, mechanical circulatory support; *ECMO*, extracorporeal membrane oxygenator; *ReTx*, retransplant; *CHD*, congenital heart disease; *HR*, hazard ratio; *LCL*, lower confidence limit; *UCL*, upper confidence interval. (From Singh TP, Cherikh WS, Hsich E, et al The International Thoracic Organ Transplant Registry of the International Society for Heart and Lung Transplantation: twenty-fourth pediatric heart transplantation report - 2021; focus on recipient characteristics. *J Heart Lung Transplant*. 2021;40(10):1050-1059.)
+**FIGURE 21.38** Categorical risk factors for mortality in the first year after pediatric heart transplantation with 95% CL. January 2000–June 2017; n=9376. *CVA*, cerebrovascular accident; *DCM*, dilated cardiomyopathy; *MCS*, mechanical circulatory support; *ECMO*, extracorporeal membrane oxygenator; *ReTx*, retransplant; *CHD*, congenital heart disease; *HR*, hazard ratio; *LCL*, lower confidence limit; *UCL*, upper confidence interval.:1050-1059.)
 
-![](_page_59_Figure_2.jpeg)
+<span id="fig-21-39"></span>![](_page_59_Figure_2.jpeg)
 
-**FIGURE 21.39** Multivariable hazard ratio plot for 1-year mortality after pediatric heart transplantation, with 95% confidence intervals, by recipient age (January 2000–June 2017; n=9376). (From Singh TP, Cherikh WS, Hsich E, et al. The International Thoracic Organ Transplant Registry of the International Society for Heart and Lung Transplantation: twenty-fourth pediatric heart transplantation report - 2021; focus on recipient characteristics. *J Heart Lung Transplant*. 2021;40(10):1050-1059.)
+**FIGURE 21.39** Multivariable hazard ratio plot for 1-year mortality after pediatric heart transplantation, with 95% confidence intervals, by recipient age (January 2000–June 2017; n=9376).:1050-1059.)
 
 ![](_page_59_Figure_4.jpeg)
 
-![](_page_59_Figure_5.jpeg)
+<span id="fig-21-40"></span>![](_page_59_Figure_5.jpeg)
 
-**FIGURE 21.40** Multivariable hazard ratio plot for 1 year mortality after pediatric heart transplantation, with 95% confidence limits, by recipient (A) glomerular filtration rate (GFR) and (B) bilirubin (January 2000–June 2017). GFR was estimated using the modified Schwartz formula. (From Singh TP, Cherikh WS, Hsich E, et al. The International Thoracic Organ Transplant Registry of the International Society for Heart and Lung Transplantation: twenty-fourth pediatric heart transplantation report - 2021; focus on recipient characteristics. *J Heart Lung Transplant*. 2021;40(10):1050-1059.)
+**FIGURE 21.40** Multivariable hazard ratio plot for 1 year mortality after pediatric heart transplantation, with 95% confidence limits, by recipient (A) glomerular filtration rate (GFR) and (B) bilirubin (January 2000–June 2017). GFR was estimated using the modified Schwartz formula.:1050-1059.)
 
-![](_page_59_Figure_8.jpeg)
+<span id="fig-21-41"></span>![](_page_59_Figure_8.jpeg)
 
-**FIGURE 21.41** Multivariable hazard ratio plot for 1-year mortality with 95% confidence limits by ischemic time (January 2000–June 2017; n=9376). (From Singh TP, Cherikh WS, Hsich E, et al. The International Thoracic Organ Transplant Registry of the International Society for Heart and Lung Transplantation: twenty-fourth pediatric heart transplantation report - 2021; focus on recipient characteristics. *J Heart Lung Transplant*. 2021;40(10):1050-1059.)
+**FIGURE 21.41** Multivariable hazard ratio plot for 1-year mortality with 95% confidence limits by ischemic time (January 2000–June 2017; n=9376).:1050-1059.)
 
-![](_page_59_Figure_10.jpeg)
+<span id="fig-21-42"></span>![](_page_59_Figure_10.jpeg)
 
-**FIGURE 21.42** Multivariable hazard ratio plot for 1-year mortality with 95% confidence limits, by center volume in the prior 3 years (January 2000–June 2017; n=9376). (From Singh TP, Cherikh WS, Hsich E, et al. The International Thoracic Organ Transplant Registry of the International Society for Heart and Lung Transplantation: twenty-fourth pediatric heart transplantation report - 2021; focus on recipient characteristics. *J Heart Lung Transplant*. 2021;40(10):1050-1059.)
+**FIGURE 21.42** Multivariable hazard ratio plot for 1-year mortality with 95% confidence limits, by center volume in the prior 3 years (January 2000–June 2017; n=9376).:1050-1059.)
 
 An analysis of a linkage between UNOS and the Pediatric Health Information System, a national administrative database, examined outcomes in 1517 patients transplanted with CHD, two-thirds of whom had single ventricle palliation. Risk factors by multivariable Cox proportional hazards model (all P < .05) for patients with CHD included ECMO at transplant (HR 2.3), ABO blood group incompatibility (HR 1.6), black race (HR 1.4), and liver dysfunction (HR 1.3).
 
@@ -2144,49 +2238,49 @@ Patients who undergo heart transplantation with *active myocarditis* are known t
 
 *Donor Risk Factors.* The general risk factors identified in adults are applicable in children, with some refinements. A history of cardiopulmonary resuscitation (CPR), once considered a major risk factor, should not preclude heart transplantation. However, prolonged CPR (the duration has not been defined) or CPR followed by the need for high-dose inotropic support mitigate against safe transplantation. In pediatric donors, the need for inotropic support to support the circulation has not been associated with an increased risk of posttransplant graft dysfunction as long as function by echocardiographic assessment remains normal. However, the dosage or number of inotropes or vasopressors that are consistent with normal graft function remain unquantified, and caution is appropriate with multiple high dose inotropes that cannot be weaned prior to harvest. As in adults, abnormalities on electrocardiogram or troponin levels have not been predictive of graft dysfunction. The role of continuous warm or cold perfusion strategies has not been studied in pediatric donors. However, anecdotal cases support extensive study of this approach to expand the donor pool, including several cases of DCD using ex vivo perfusion.
 
-*Risk Factors for Midterm and Late Mortality.* Midterm and late survival, among patients alive at 1 year, are also affected by specific factors at the time of transplant. Risk factors (all P < .01) for subsequent mortality within 5 years include retransplantation (HR 2.0), prior nontransplant cardiac surgery (HR 1.5), female recipient (HR 1.3), older and younger age (Fig. 21.43), and higher PRA at transplant. Among patients who survive the first posttransplant year, late survival is clearly superior in those transplanted during the first year of life (Fig. 21.44). The same trend toward improved late survival among infants is seen in the more recent data from PHTS (see Fig. 21.37). When considering late survival, infants have superior survival compared to other age groups, with a median survival of 25 years. The particularly favorable long-term survival among infants likely relates to relative immaturity of their immune system at the time of transplant.
+*Risk Factors for Midterm and Late Mortality.* Midterm and late survival, among patients alive at 1 year, are also affected by specific factors at the time of transplant. Risk factors (all P < .01) for subsequent mortality within 5 years include retransplantation (HR 2.0), prior nontransplant cardiac surgery (HR 1.5), female recipient (HR 1.3), older and younger age ([Fig. 21.43](#fig-21-43)), and higher PRA at transplant. Among patients who survive the first posttransplant year, late survival is clearly superior in those transplanted during the first year of life ([Fig. 21.44](#fig-21-44)). The same trend toward improved late survival among infants is seen in the more recent data from PHTS (see [Fig. 21.37](#fig-21-37)). When considering late survival, infants have superior survival compared to other age groups, with a median survival of 25 years. The particularly favorable long-term survival among infants likely relates to relative immaturity of their immune system at the time of transplant.
 
-![](_page_60_Figure_2.jpeg)
+<span id="fig-21-43"></span>![](_page_60_Figure_2.jpeg)
 
-**FIGURE 21.43** Multivariable hazard ratio plot for 5-year mortality conditional upon survival to 1 year, with 95% confidence limits, by recipient age (January 1996–June 2013; n=7,022). (From Singh TP, Cherikh WS, Hsich E, et al. The International Thoracic Organ Transplant Registry of the International Society for Heart and Lung Transplantation: twenty-fourth pediatric heart transplantation report - 2021; focus on recipient characteristics. *J Heart Lung Transplant*. 2021;40(10):1050-1059.)
+**FIGURE 21.43** Multivariable hazard ratio plot for 5-year mortality conditional upon survival to 1 year, with 95% confidence limits, by recipient age (January 1996–June 2013; n=7,022).:1050-1059.)
 
-![](_page_60_Figure_4.jpeg)
+<span id="fig-21-44"></span>![](_page_60_Figure_4.jpeg)
 
-**FIGURE 21.44** Survival after pediatric transplants performed between January 1982 and June 2006, stratified by age and conditional on surviving the first year. (From Kirk R, Edwards LB, Aurora P, et al. Registry of the International Society for Heart and Lung Transplantation: eleventh official pediatric heart transplantation report—2008. *J Heart Lung Transplant*. 2008;27:970-977.)
+**FIGURE 21.44** Survival after pediatric transplants performed between January 1982 and June 2006, stratified by age and conditional on surviving the first year.
 
-*Failing Fontan.* Historically, pediatric patients undergoing cardiac transplantation after a previous Fontan procedure have been considered at higher risk for mortality. However, recent analyses indicate similar survival to those with other forms of CHD (Fig. 21.45). Analysis of a national US database in 2022 reported 89% and 74% 1- and 5-year posttransplant survival in the failing Fontan population, respectively. Among Fontan patients, the risk factors for mortality (all P < .05) were renal dysfunction (HR 5.4), transplant within 1 year of Fontan (Fig. 21.46) (HR 2.8), and decompensated heart failure (HR 2.5). A multicenter study from PHTS found a significant improvement in posttransplant 1-year survival among Fontan patients comparing the eras of 1993-2006 and 2007-2014, in which 1-year survival improved from 77% to 89% (P=.02). In a separate contemporary analysis from the PHTS, including over 500 post-Fontan transplants, risk factors for posttransplant mortality among Fontan patients included worse liver and/or renal function (reflected in a high Model for End-Stage Liver Disease Xi score) (P=.02), history of protein-losing enteropathy (HR 2.1), and VAD at transplant (HR 3.4). However, another multiinstitutional study did not find an increased risk of posttransplant mortality among Fontan patients with plastic bronchitis, a more localized manifestation of protein-losing enteropathy. Requiring mechanical ventilation at transplant also appears to increase risk. Both protein-losing enteropathy and plastic bronchitis usually resolve posttransplant.
+*Failing Fontan.* Historically, pediatric patients undergoing cardiac transplantation after a previous Fontan procedure have been considered at higher risk for mortality. However, recent analyses indicate similar survival to those with other forms of CHD ([Fig. 21.45](#fig-21-45)). Analysis of a national US database in 2022 reported 89% and 74% 1- and 5-year posttransplant survival in the failing Fontan population, respectively. Among Fontan patients, the risk factors for mortality (all P < .05) were renal dysfunction (HR 5.4), transplant within 1 year of Fontan ([Fig. 21.46](#fig-21-46)) (HR 2.8), and decompensated heart failure (HR 2.5). A multicenter study from PHTS found a significant improvement in posttransplant 1-year survival among Fontan patients comparing the eras of 1993-2006 and 2007-2014, in which 1-year survival improved from 77% to 89% (P=.02). In a separate contemporary analysis from the PHTS, including over 500 post-Fontan transplants, risk factors for posttransplant mortality among Fontan patients included worse liver and/or renal function (reflected in a high Model for End-Stage Liver Disease Xi score) (P=.02), history of protein-losing enteropathy (HR 2.1), and VAD at transplant (HR 3.4). However, another multiinstitutional study did not find an increased risk of posttransplant mortality among Fontan patients with plastic bronchitis, a more localized manifestation of protein-losing enteropathy. Requiring mechanical ventilation at transplant also appears to increase risk. Both protein-losing enteropathy and plastic bronchitis usually resolve posttransplant.
 
-![](_page_60_Figure_8.jpeg)
+<span id="fig-21-45"></span>![](_page_60_Figure_8.jpeg)
 
-**FIGURE 21.45** Kaplan-Meier analysis demonstrating similar posttransplant survival for patients of all ventricular strategies and stages of palliation with congenital heart disease undergoing transplantation. (From Riggs KW, Broderick JT, Price N, Chin C, Zafar F, Morales DLS. Transplantation for congenital heart disease: focus on the impact of functionally univentricular versus biventricular circulation. *World J Pediatr Congenit Heart Surg*. 2021;12(3):352-359.)
+**FIGURE 21.45** Kaplan-Meier analysis demonstrating similar posttransplant survival for patients of all ventricular strategies and stages of palliation with congenital heart disease undergoing transplantation.:352-359.)
 
-![](_page_60_Figure_10.jpeg)
+<span id="fig-21-46"></span>![](_page_60_Figure_10.jpeg)
 
-**FIGURE 21.46** Kaplan-Meier analysis demonstrating superior posttransplant survival for Fontan patients undergoing heart transplantation more than 1 year after their Fontan completion. *Tx* indicates transplant; *Yr*, year. (From Riggs KW, Broderick JT, Price N, Chin C, Zafar F, Morales DLS. Transplantation for congenital heart disease: focus on the impact of functionally univentricular versus biventricular circulation. *World J Pediatr Congenit Heart Surg*. 2021;12(3):352-359.)
+**FIGURE 21.46** Kaplan-Meier analysis demonstrating superior posttransplant survival for Fontan patients undergoing heart transplantation more than 1 year after their Fontan completion. *Tx* indicates transplant; *Yr*, year.:352-359.)
 
-*Functional Single Ventricle.* The results of heart transplantation in single ventricle physiology patients were compared with transplants for other CHD in a report from the Australia/New Zealand Registry, and no significant differences were found in early or late outcome. However, the median age of transplant was only 17 in this cohort. Equivalent posttransplant survival between single and biventricular malformations was also reported from PHTS in a younger patient population (Fig. 21.47). Furthermore, similar survival is achieved with transplantation at each stage of palliation. Of note, early mortality is somewhat higher following heart transplantation at or before stage 1 palliation, but infants undergoing transplantation as primary therapy demonstrate superior late survival by about 10 years (Fig. 21.48).
+*Functional Single Ventricle.* The results of heart transplantation in single ventricle physiology patients were compared with transplants for other CHD in a report from the Australia/New Zealand Registry, and no significant differences were found in early or late outcome. However, the median age of transplant was only 17 in this cohort. Equivalent posttransplant survival between single and biventricular malformations was also reported from PHTS in a younger patient population ([Fig. 21.47](#fig-21-47)). Furthermore, similar survival is achieved with transplantation at each stage of palliation. Of note, early mortality is somewhat higher following heart transplantation at or before stage 1 palliation, but infants undergoing transplantation as primary therapy demonstrate superior late survival by about 10 years ([Fig. 21.48](#fig-21-48)).
 
-![](_page_61_Figure_2.jpeg)
+<span id="fig-21-47"></span>![](_page_61_Figure_2.jpeg)
 
-**FIGURE 21.47** Survival after cardiac transplantation for congenital heart disease, stratified by 1 vs. 2 ventricles. PHTS 1993–2020; n=3497. *CHD*, congenital heart disease. (From Richmond ME, Conway J, Kirklin JK, et al. Three decades of collaboration through the Pediatric Heart Transplant Society Registry: a journey through registry data with a highlight on children with single ventricle anatomy. *Pediatr Transplant*. 2024;28:e14615.)
+**FIGURE 21.47** Survival after cardiac transplantation for congenital heart disease, stratified by 1 vs. 2 ventricles. PHTS 1993–2020; n=3497. *CHD*, congenital heart disease.
 
 ![](_page_61_Figure_7.jpeg)
 
-![](_page_61_Figure_8.jpeg)
+<span id="fig-21-48"></span>![](_page_61_Figure_8.jpeg)
 
-**FIGURE 21.48** Survival after cardiac transplantation for single ventricle (SV), stratified by stage of palliation. PHTS 1993–2020; n=2146. (From Richmond ME, Conway J, Kirklin JK, et al. Three decades of collaboration through the Pediatric Heart Transplant Society Registry: a journey through registry data with a highlight on children with single ventricle anatomy. *Pediatr Transplant*. 2024;28:e14615.)
+**FIGURE 21.48** Survival after cardiac transplantation for single ventricle (SV), stratified by stage of palliation. PHTS 1993–2020; n=2146.
 
-*Hypoplastic Left Heart Syndrome.* Within the domain of functional single ventricle, hypoplastic left heart syndrome (HLHS) poses special challenges. The poor outcomes with any therapy for HLHS in the early 1980s provided the major opportunity to explore heart transplantation as primary therapy. The early excellent outcomes achieved at Loma Linda and elsewhere with primary heart transplantation were accompanied by the challenges of inadequate donor heart availability and long waiting times in often unstable patients despite prostaglandins. After the pioneering advancements in surgical palliation of HLHS by Norwood, the outcomes of first stage palliation were widely adopted by pediatric centers, with a progressive reduction in application of primary transplantation as definitive therapy (Fig. 21.49). By the end of the first decade of 2000, primary transplantation was reserved for those HLHS patients with either severe atrioventricular valve regurgitation or moderate or worse ventricular dysfunction.
+*Hypoplastic Left Heart Syndrome.* Within the domain of functional single ventricle, hypoplastic left heart syndrome (HLHS) poses special challenges. The poor outcomes with any therapy for HLHS in the early 1980s provided the major opportunity to explore heart transplantation as primary therapy. The early excellent outcomes achieved at Loma Linda and elsewhere with primary heart transplantation were accompanied by the challenges of inadequate donor heart availability and long waiting times in often unstable patients despite prostaglandins. After the pioneering advancements in surgical palliation of HLHS by Norwood, the outcomes of first stage palliation were widely adopted by pediatric centers, with a progressive reduction in application of primary transplantation as definitive therapy ([Fig. 21.49](#fig-21-49)). By the end of the first decade of 2000, primary transplantation was reserved for those HLHS patients with either severe atrioventricular valve regurgitation or moderate or worse ventricular dysfunction.
 
-![](_page_61_Figure_10.jpeg)
+<span id="fig-21-49"></span>![](_page_61_Figure_10.jpeg)
 
-**FIGURE 21.49** Primary diagnosis for pediatric heart transplantation, US, 1993-2006. *HLHS*, hypoplastic left heart syndrome. (From unpublished data, Pediatric Heart Transplant Society, 2008.)
+**FIGURE 21.49** Primary diagnosis for pediatric heart transplantation, US, 1993-2006. *HLHS*, hypoplastic left heart syndrome.
 
-Despite this evolution in practice, the long-term outcomes for primary transplantation for HLHS remain excellent. In a multicenter study from the Congenital Heart Surgeons' Society, patients receiving primary heart transplantation for aortic atresia between 1994 and 2000 had superior long-term survival (including waitlist mortality) compared to surgical palliation with the Norwood procedure (65% vs. 40% at 15 years; P = .002). Long-term survival after primary transplantation was superior to secondary transplantation after initial surgical palliation (74% vs. 48% at 9 years, P = .002). Primary transplant patients had a better functional outcome and equivalent quality of life compared to aortic atresia patients in the Fontan pathway. Multiinstitutional data indicate that posttransplant survival among patients with HLHS is currently similar to other forms of single ventricle (Fig. 21.50).
+Despite this evolution in practice, the long-term outcomes for primary transplantation for HLHS remain excellent. In a multicenter study from the Congenital Heart Surgeons' Society, patients receiving primary heart transplantation for aortic atresia between 1994 and 2000 had superior long-term survival (including waitlist mortality) compared to surgical palliation with the Norwood procedure (65% vs. 40% at 15 years; P = .002). Long-term survival after primary transplantation was superior to secondary transplantation after initial surgical palliation (74% vs. 48% at 9 years, P = .002). Primary transplant patients had a better functional outcome and equivalent quality of life compared to aortic atresia patients in the Fontan pathway. Multiinstitutional data indicate that posttransplant survival among patients with HLHS is currently similar to other forms of single ventricle ([Fig. 21.50](#fig-21-50)).
 
-![](_page_62_Figure_2.jpeg)
+<span id="fig-21-50"></span>![](_page_62_Figure_2.jpeg)
 
-**FIGURE 21.50** Kaplan-Meier analysis demonstrating similar posttransplant survival of the three most common single ventricle diagnoses undergoing transplantation. *HLHS*, hypoplastic left heart syndrome; *Tricusp*, tricuspid; *V*, ventricle; *Yr*, year. (From Richmond ME, Conway J, Kirklin JK, et al. Three decades of collaboration through the Pediatric Heart Transplant Society Registry: a journey through registry data with a highlight on children with single ventricle anatomy. *Pediatr Transplant*. 2024;28:e14615.)
+**FIGURE 21.50** Kaplan-Meier analysis demonstrating similar posttransplant survival of the three most common single ventricle diagnoses undergoing transplantation. *HLHS*, hypoplastic left heart syndrome; *Tricusp*, tricuspid; *V*, ventricle; *Yr*, year.
 
 *Heterotaxy Syndrome.* Among patients with CHD, heterotaxy presents multiple challenges with transplantation. About 70% of heterotaxy patients undergoing heart transplantation have single ventricle physiology. An analysis from PHTS identified heterotaxy syndrome as an independent risk factor for mortality among patients with CHD, both early and later following heart transplantation. The early incremental risk has been neutralized in the most recent era. Within the heterotaxy cohort, single ventricle physiology did not confer an added risk posttransplant.
 
@@ -2270,25 +2364,28 @@ More than 80% of cardiac conditions leading to cardiac transplantation in the pe
 
 The congenital cardiac malformations considered for cardiac transplantation range from unrepaired complex disease in the newborn to repaired or palliated CHD with ventricular dysfunction in the adult. Cardiac transplantation is currently not recommended as routine primary therapy for any congenital cardiac malformation, but severe coronary anomalies, cardiac valve regurgitation, or ventricular dysfunction can favor primary transplantation or referral after initial palliation in selected infants with complex CHD, particularly among patients with functional single ventricle. In the current era, 50% of pediatric patients listed for heart transplantation have a history of prior cardiac surgery.
 
-Among infants with hypoplastic left heart syndrome, referral for cardiac transplantation should be considered when right ventricular dysfunction or tricuspid regurgitation, or both, are severe either prior to or following initial surgical palliation. In older children and adolescents, failure of staged single-ventricle palliation is the most common form of CHD referred for cardiac transplantation (Table 21.17). Patients with moderate to severe atrioventricular valve regurgitation or systemic ventricular dysfunction prior to the second stage (bidirectional Glenn) are at greatest risk for failure to achieve successful Fontan and can be considered for cardiac transplantation.
+Among infants with hypoplastic left heart syndrome, referral for cardiac transplantation should be considered when right ventricular dysfunction or tricuspid regurgitation, or both, are severe either prior to or following initial surgical palliation. In older children and adolescents, failure of staged single-ventricle palliation is the most common form of CHD referred for cardiac transplantation ([Table 21.17](#table-21-17)). Patients with moderate to severe atrioventricular valve regurgitation or systemic ventricular dysfunction prior to the second stage (bidirectional Glenn) are at greatest risk for failure to achieve successful Fontan and can be considered for cardiac transplantation.
 
-**TABLE 21.17 Distribution of Anatomic Diagnoses in Children Older Than Age 6 Months and Adults Undergoing Transplantation for Congenital Heart Disease in the Pediatric Heart Transplant Study and Cardiac Transplant Research Databases**
+<details class="med-details"><summary>
 
-| Diagnosis | n | % of 488 Patients |
-|-----------|----|--------------------|
-| Single ventricle | 176 | 36 |
-| Dextrotransposition of the great arteries | 58 | 12 |
-| Right ventricular outflow tract lesions | 49 | 10 |
-| Ventricular/atrial septal defect | 38 | 8 |
-| Left ventricular outflow tract lesions | 38 | 8 |
-| Levotransposition of the great arteries | 39 | 8 |
-| Complete atrioventricular canal | 37 | 8 |
-| Other | 53 | 11 |
-| Total | 488 | 100 |
+#### <span id="table-21-17"></span>TABLE 21.17: Distribution of Anatomic Diagnoses in Children Older Than Age 6 Months and Adults Undergoing Transplantation for Congenital Heart Disease</summary><div class="details-content">
 
-Data from Chen JM, Davies RR, Mital SR, et al. Trends and outcomes in transplantation for complex congenital heart disease: 1984 to 2004. *Ann Thorac Surg.* 2004;78:1352-1361.
+| Anatomic Diagnosis | Number (n) | Percentage (% of 488 Patients) |
+|:---|:---:|:---:|
+| **Single Ventricle Anomalies** | 176 | 36% |
+| **D-Transposition of the Great Arteries** | 58 | 12% |
+| **Right Ventricular Outflow Tract Lesions (Tetralogy of Fallot, PA)** | 49 | 10% |
+| **L-Transposition of the Great Arteries** | 39 | 8% |
+| **Ventricular / Atrial Septal Defects (VSD / ASD)** | 38 | 8% |
+| **Left Ventricular Outflow Tract Lesions (Aortic Stenosis, Coarctation)** | 38 | 8% |
+| **Complete Atrioventricular Canal Defect (CAVC)** | 37 | 8% |
+| **Other Complex Anomalies** | 53 | 11% |
 
-The relatively small number of pediatric patients who are referred for cardiac transplantation, and the variety of conditions that can progress to cardiac failure, have limited the ability to generate specific guidelines for transplant referrals (Box 21.12). Recent consensus guidelines from the American Heart Association include the following recommendations for patients with cardiomyopathies or previously repaired CHD (these guidelines do not address functional single ventricle):
+###### Data from combined Pediatric Heart Transplant Study (PHTS) and Cardiac Transplant Research Database (CTRD).
+
+</div></details>
+
+The relatively small number of pediatric patients who are referred for cardiac transplantation, and the variety of conditions that can progress to cardiac failure, have limited the ability to generate specific guidelines for transplant referrals ([Box 21.12](#box-21-12)). Recent consensus guidelines from the American Heart Association include the following recommendations for patients with cardiomyopathies or previously repaired CHD (these guidelines do not address functional single ventricle):
 
 - A need for ongoing IV inotropic or MCS for poor ventricular function and low cardiac output
 - Progressive deterioration of ventricular function or functional status despite optimal medical care with digitalis, diuretics, ACE inhibitors, and β-blockade
@@ -2298,19 +2395,22 @@ The relatively small number of pediatric patients who are referred for cardiac t
 - Growth failure secondary to severe heart failure unresponsive to conventional medical treatment
 - Unacceptably poor quality of life secondary to heart failure
 
-##### • BOX 21.12 Guidelines for Pediatric Cardiac Transplant Referral
+<details class="med-details"><summary>
 
-- Complex congenital cardiac anomaly with progressive heart failure not amenable to conventional repair or palliation
-- Infants, children, and adolescents: progressive deterioration in left ventricular ejection fraction or functional status despite optimal medical therapy, failure to grow secondary to advanced heart failure symptoms, or a progressive rise in pulmonary vascular resistance that would be expected to preclude transplantation at a later date
-- Progressive deterioration in functional status or presence of certain high-risk conditions following the Fontan procedure
+#### <span id="box-21-12"></span>BOX 21.12: Guidelines for Pediatric Cardiac Transplant Referral</summary><div class="details-content">
 
-Noncardiac contraindications to transplantation in CHD are similar to those for transplantation in acquired cardiac disease (see Section I). Certain situations specific to pediatric patients contraindicate cardiac transplantation, as recommended by the American Heart Association Council on Cardiovascular Disease in the Young:
-- Heart transplantation for pediatric heart disease is not efficacious when heart disease is associated with severe irreversible disease in other organ systems, or when it is part of a severe irreversible multisystemic disease process. Multiorgan transplantation may be considered.
-- Orthotopic heart transplantation for pediatric heart disease is not efficacious when heart disease is associated with severe irreversible fixed elevation of pulmonary vascular resistance.
-- Heart transplantation is not feasible in the presence of severe hypoplasia of the central pulmonary arteries or pulmonary veins.
-- The limited supply of pediatric donors, especially infant donors, makes heart transplantation not a feasible standard therapy for any specific congenital heart lesion.
+##### Referral Recommendations
+- **Complex Congenital Heart Disease (CHD):** Progressive heart failure not amenable to conventional surgical repair or palliation.
+- **Infants, Children, and Adolescents:** Progressive decline in systemic ventricular ejection fraction or functional status despite optimal medical therapy; failure to thrive secondary to severe heart failure; or progressive rise in pulmonary vascular resistance (PVR) that would eventually preclude orthotopic transplantation.
+- **Failing Fontan Physiology:** Progressive functional decline, protein-losing enteropathy, plastic bronchitis, or severe systemic ventricular/atrioventricular valve dysfunction following Fontan completion.
 
-Modified from Renlund DG, Taylor DO. Cardiac transplantation. In: Topol EJ, ed. *Textbook of Cardiovascular Medicine.* 2nd ed. Philadelphia: Lippincott Williams & Wilkins; 2002.
+##### Pediatric Contraindications
+- Heart disease associated with severe irreversible end-organ disease of other systems, or forming part of a fatal multisystem disorder (multiorgan transplantation may be evaluated).
+- Severe irreversible, fixed elevation of pulmonary vascular resistance (> 6–8 Wood units·m² refractory to vasodilators).
+- Severe diffuse hypoplasia of central pulmonary arteries or pulmonary veins precluding surgical reconstruction.
+- Extreme scarcity of infant donors precludes cardiac transplantation as a universal default strategy for all high-risk CHD presentations.
+
+</div></details>
 
 </div></details>
 
@@ -2400,11 +2500,11 @@ Preoperative preparation for heart-lung transplantation is the same as for ortho
 
 CPB is established, the aorta clamped, and a standard cardiectomy performed as for bicaval orthotopic cardiac transplantation (see "Orthotopic Cardiac Transplantation" under "Technique of Operation" in Section I). If pulmonary venous return is excessive, appropriate reduction of perfusate temperature to profound hypothermic levels is instituted to allow intermittent low-flow perfusion to facilitate dissection and avoid excessive blood loss (see Section IV of Chapter 2). Otherwise, perfusate temperature is generally 28°C.
 
-Beginning on the left side, an incision is made in the pericardium just anterior to the pulmonary veins as far below the phrenic nerve as possible. In the absence of dense adhesions, a pedicle of pericardium containing the phrenic nerve is developed inferiorly almost to the diaphragm and superiorly just to the level of the left pulmonary artery to avoid damaging the phrenic nerve. The left atrium is divided posteriorly in its midportion, and a cuff of left atrium along with the left pulmonary veins is dissected free and passed under the pericardial pedicle (Fig. 21.51A). The left pulmonary artery is dissected circumferentially proximal to its branches and divided. The lower lobe of the left lung is reflected superiorly, and the inferior pulmonary ligament is divided with cautery. The posterior pulmonary attachments are divided, and the lung is mobilized away from the vagus nerve. The left mainstem bronchus is isolated by dividing lymphatic tissue with cautery and hemoclips, and the bronchus is stapled and divided. The left lung is passed off the surgical field.
+Beginning on the left side, an incision is made in the pericardium just anterior to the pulmonary veins as far below the phrenic nerve as possible. In the absence of dense adhesions, a pedicle of pericardium containing the phrenic nerve is developed inferiorly almost to the diaphragm and superiorly just to the level of the left pulmonary artery to avoid damaging the phrenic nerve. The left atrium is divided posteriorly in its midportion, and a cuff of left atrium along with the left pulmonary veins is dissected free and passed under the pericardial pedicle ([Fig. 21.51](#fig-21-51)A). The left pulmonary artery is dissected circumferentially proximal to its branches and divided. The lower lobe of the left lung is reflected superiorly, and the inferior pulmonary ligament is divided with cautery. The posterior pulmonary attachments are divided, and the lung is mobilized away from the vagus nerve. The left mainstem bronchus is isolated by dividing lymphatic tissue with cautery and hemoclips, and the bronchus is stapled and divided. The left lung is passed off the surgical field.
 
-Similarly, the pericardium on the right side is dissected immediately above the pulmonary vein, and the pericardial pedicle is mobilized. The inferior pulmonary ligament is mobilized, right pulmonary artery dissected circumferentially and divided, and posterior pulmonary attachments divided. The lung is gently freed from the area of the vagus nerve without cautery, and the right mainstem bronchus is isolated, stapled, and divided. After removing both lungs, stumps of right and left pulmonary arteries are mobilized and the pulmonary trunk excised, leaving a generous cuff around the area of ligamentum arteriosum and left recurrent laryngeal nerve. The bronchial stumps are mobilized to the level of the carina with careful hemostasis of bronchial arteries (Fig. 21.51B). Complete hemostasis is critical to achieve throughout the pleural space and mediastinum before implanting the heart-lung block.
+Similarly, the pericardium on the right side is dissected immediately above the pulmonary vein, and the pericardial pedicle is mobilized. The inferior pulmonary ligament is mobilized, right pulmonary artery dissected circumferentially and divided, and posterior pulmonary attachments divided. The lung is gently freed from the area of the vagus nerve without cautery, and the right mainstem bronchus is isolated, stapled, and divided. After removing both lungs, stumps of right and left pulmonary arteries are mobilized and the pulmonary trunk excised, leaving a generous cuff around the area of ligamentum arteriosum and left recurrent laryngeal nerve. The bronchial stumps are mobilized to the level of the carina with careful hemostasis of bronchial arteries ([Fig. 21.51](#fig-21-51)B). Complete hemostasis is critical to achieve throughout the pleural space and mediastinum before implanting the heart-lung block.
 
-![](_page_67_Picture_2.jpeg)
+<span id="fig-21-51"></span>![](_page_67_Picture_2.jpeg)
 
 **FIGURE 21.51** (A) The left atrial cuff containing the pulmonary veins is passed under the pericardial pedicle containing the phrenic nerve. (B) Appearance after removal of the heart and both lungs. The pericardial pedicles containing the phrenic nerves are visible on each side. The bronchial stumps are at the level of the carina, and the stumps of the right and left pulmonary arteries are exposed. The pulmonary trunk has been excised. (C) The tracheal anastomosis is being constructed. The pericardium is being closed around the trachea. (Redrawn from Reitz BA. Combined heart and lung transplantation. In: Sabiston DC, Spencer FC, eds. *Surgery of the Chest*. 5th ed. Philadelphia: WB Saunders; 1990: 1998-2007.)
 
@@ -2416,7 +2516,7 @@ Similarly, the pericardium on the right side is dissected immediately above the 
 
 The heart-lung block is prepared on a back table by dividing the donor trachea approximately 2 cm above the carina. It is important to leave the membranous portion slightly longer than the cartilaginous portion, because it tends to retract slightly after division. The anatomic position of each lung is beneath the pericardial pedicle on each side, but in the presence of dense adhesions from prior operation, both lungs can safely be placed anterior to the phrenic nerves, which avoids additional dissection. In that instance, the pulmonary veins are divided outside the pericardium leaving the intrapericardial pulmonary veins and posterior left atrial wall intact. This may, however, require additional mobilization of tissue anterior to the phrenic nerves to allow the lungs to sit nicely in each pleural space.
 
-The tracheal anastomosis is facilitated by placing silk stay sutures on the donor trachea after dividing it just above the carina. It is important to avoid any additional dissection superior to the point of division to preserve all possible blood supply to the tracheal anastomosis. The anastomosis is constructed with continuous 3-0 polypropylene sutures in adults and 4-0 polypropylene sutures in children (Fig. 21.51C). An air-tight anastomosis must be achieved without necrosis of the membranous portion and without turning excessive amounts of tissue into the tracheal lumen. The pericardium is wrapped around the trachea and sutured to the thick lymphatic tissue anterior to the suture line. Gentle inflation of the lung while immersing the tracheal anastomosis in saline allows validation of an air-tight suture line. During implantation of the heart-lung block, the organs are covered with ice slush to maintain topical hypothermia.
+The tracheal anastomosis is facilitated by placing silk stay sutures on the donor trachea after dividing it just above the carina. It is important to avoid any additional dissection superior to the point of division to preserve all possible blood supply to the tracheal anastomosis. The anastomosis is constructed with continuous 3-0 polypropylene sutures in adults and 4-0 polypropylene sutures in children ([Fig. 21.51](#fig-21-51)C). An air-tight anastomosis must be achieved without necrosis of the membranous portion and without turning excessive amounts of tissue into the tracheal lumen. The pericardium is wrapped around the trachea and sutured to the thick lymphatic tissue anterior to the suture line. Gentle inflation of the lung while immersing the tracheal anastomosis in saline allows validation of an air-tight suture line. During implantation of the heart-lung block, the organs are covered with ice slush to maintain topical hypothermia.
 
 The inferior and superior vena caval and aortic anastomoses are constructed, as in the bicaval orthotopic heart transplant technique (see "Orthotopic Cardiac Transplantation" under "Technique of Operation" in Section I). During rewarming, after suture lines are completed, the lungs are gently ventilated, and CPB is discontinued as usual. Nitric oxide is used in the presence of any reperfusion-induced pulmonary hypertension.
 
@@ -2430,7 +2530,7 @@ The inferior and superior vena caval and aortic anastomoses are constructed, as 
 
 Posttransplant management is similar to that for heart transplantation, except for additional protocols to enhance pulmonary graft function. Fiberoptic bronchoscopy is routinely performed in the operating room at the end of the procedure to clear any secretions and examine the tracheal anastomosis. It should be performed again just prior to extubation and as indicated thereafter. Because of potential ischemia-reperfusion injury and lymphatic disruption, a reimplantation response—evidenced by pulmonary perihilar haziness on chest radiograph and increased oxygen requirement—is common 2 to 5 days following heart-lung transplantation. Diuresis and fluid restriction is the primary therapy. When this process persists for 1 week or more, acute rejection should be considered, with transbronchial biopsy assessment of suspected rejection.
 
-Current immunosuppression protocols for heart-lung transplantation are similar to those for isolated heart transplantation with the exception of the steroid protocol (see Table 21.4). Although unproven, higher-dose prednisone is considered deleterious to tracheal healing, and oral prednisone is initiated at a dose of about 0.4 mg per kg/day with a rapid taper. Surveillance for and management of lung rejection includes the same protocols that have been established for isolated single and double lung transplantation.
+Current immunosuppression protocols for heart-lung transplantation are similar to those for isolated heart transplantation with the exception of the steroid protocol (see [Table 21.4](#table-21-04)). Although unproven, higher-dose prednisone is considered deleterious to tracheal healing, and oral prednisone is initiated at a dose of about 0.4 mg per kg/day with a rapid taper. Surveillance for and management of lung rejection includes the same protocols that have been established for isolated single and double lung transplantation.
 
 </div></details>
 
