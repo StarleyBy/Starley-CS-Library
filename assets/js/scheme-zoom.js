@@ -64,6 +64,7 @@ const SchemeZoom = {
 
     // position:absolute + transform-origin:0 0 → математика зума к курсору точна.
     // max-width/height только на этапе замера — потом снимаются.
+    clone.classList.remove('scheme-svg'); // не должен перехватываться делегированным обработчиком
     clone.classList.add('scheme-lb-svg');
     clone.style.cssText = `
       display: block;
@@ -215,9 +216,12 @@ const SchemeZoom = {
     const canvas = lb.querySelector('.scheme-lb-canvas');
 
     // ── мышь: перетаскивание ──
+    let _dragged = false; // флаг: была ли реальная протяжка мышью
+
     canvas.addEventListener('mousedown', e => {
       if (!this.active || e.button !== 0) return;
       e.preventDefault();
+      _dragged = false;
       const s = this.active;
       s.isDragging = true;
       s.startX = e.clientX - s.translateX;
@@ -225,12 +229,22 @@ const SchemeZoom = {
     });
     window.addEventListener('mousemove', e => {
       if (!this.active || !this.active.isDragging) return;
+      _dragged = true;
       this.active.translateX = e.clientX - this.active.startX;
       this.active.translateY = e.clientY - this.active.startY;
       this._applyTransform();
     });
     window.addEventListener('mouseup', () => {
       if (this.active) this.active.isDragging = false;
+    });
+
+    // После drag клик не должен закрывать лайтбокс или открывать схему заново
+    canvas.addEventListener('click', e => {
+      if (_dragged) {
+        e.stopPropagation();
+        e.preventDefault();
+        _dragged = false;
+      }
     });
 
     // ── колесо мыши ──

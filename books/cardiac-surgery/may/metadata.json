@@ -1,0 +1,63 @@
+[
+  {
+    "title": "Pediatric Heart Surgery: A Ready Reference for Professionals, Fourth Edition",
+    "russian_title": "Детская кардиохирургия: практическое руководство для специалистов, 4-е издание",
+    "cover_image": "cover.jpg",
+    "category": [
+      "cardiac-surgery"
+    ],
+    "authors": [
+      "L. Eliot May, PA-C",
+      "S. Bert Litwin, MD",
+      "James S. Tweddell, MD",
+      "Robert D. B. Jaquiss, MD",
+      "Michael E. Mitchell, MD"
+    ],
+    "magazine": false,
+    "quiz": false,
+    "versions": {
+      "original": true,
+      "russian": true,
+      "starley": false,
+      "hebrew": false
+    },
+    "chapters": [
+      {
+        "file": "chapter-01.md",
+        "title": "1. Septal Defects and Left-to-Right Shunts",
+        "russian": "1. Септальные дефекты и лево-правые шунты"
+      },
+      {
+        "file": "chapter-02.md",
+        "title": "2. LVOT Obstruction and Aortic Anomalies",
+        "russian": "2. Обструкция путей оттока ЛЖ и патология аорты"
+      },
+      {
+        "file": "chapter-03.md",
+        "title": "3. RVOT Obstruction and Pulmonary Vasculature",
+        "russian": "3. Обструкция путей оттока ПЖ и легочные артерии"
+      },
+      {
+        "file": "chapter-04.md",
+        "title": "4. Transposition and Conotruncal Malformations",
+        "russian": "4. Транспозиция магистральных сосудов и конотрункулярные пороки"
+      },
+      {
+        "file": "chapter-05.md",
+        "title": "5. Single Ventricle and Staged Palliation",
+        "russian": "5. Единственный желудочек сердца и этапная паллиация"
+      },
+      {
+        "file": "chapter-06.md",
+        "title": "6. Venous, Coronary and Tricuspid Anomalies",
+        "russian": "6. Аномалии вен, коронарных артерий и трехстворчатого клапана"
+      },
+      {
+        "file": "chapter-07.md",
+        "title": "7. Cardiopulmonary Bypass and Mechanical Support",
+        "russian": "7. Искусственное кровообращение и механическая поддержка"
+      }
+    ]
+  }
+]
+

@@ -1,5 +1,5 @@
 {
-  "generated": "2026-11-03T11:25:46.580Z",
+  "generated": "2026-11-08T23:00:26.377Z",
   "categories": {
     "quiz": {
       "title": "Quiz Questions",
@@ -49,10 +49,6 @@
       "title": "Guidelines",
       "icon": "📋"
     },
-    "interactive": {
-      "title": "Interactive Schemes & Simulators",
-      "icon": "🎛️"
-    },
     "work": {
       "title": "Service",
       "icon": "🛠️"
@@ -61,6 +57,11 @@
   "books": {
     "books/summary/mysummary": {
       "title": "Executive Summaries: Cardiac Surgery in the Adult",
+      "category": "summary",
+      "author": ""
+    },
+    "books/summary/algorithms": {
+      "title": "algorithms",
       "category": "summary",
       "author": ""
     },
@@ -111,6 +112,11 @@
     },
     "books/cardiac-surgery/Key-questions-in-cardiac-surgery": {
       "title": "Key Questions in Cardiac Surgery",
+      "category": "cardiac_surgery",
+      "author": ""
+    },
+    "books/cardiac-surgery/may": {
+      "title": "may",
       "category": "cardiac_surgery",
       "author": ""
     },
