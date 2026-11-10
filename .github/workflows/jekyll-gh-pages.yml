@@ -12,7 +12,7 @@ permissions:
 
 concurrency:
   group: "pages"
-  cancel-in-progress: false
+  cancel-in-progress: true
 
 jobs:
   build:
@@ -47,6 +47,9 @@ jobs:
       - name: Clean dev-only files before upload
         run: rm -rf node_modules plans combain scratch tools tests scripts supabase .agents AGENTS.md Master_prompt.md SEARCH_GUIDE.md package.json package-lock.json .env.example
 
+      - name: Setup Pages
+        uses: actions/configure-pages@v5
+
       - name: Upload artifact
         uses: actions/upload-pages-artifact@v3
         with:
@@ -61,4 +64,4 @@ jobs:
     steps:
       - name: Deploy to GitHub Pages
         id: deployment
-        uses: actions/deploy-pages@v5
+        uses: actions/deploy-pages@v4

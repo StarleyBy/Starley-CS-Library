@@ -44,6 +44,15 @@ window.getImageUrl = function (relativePath) {
     return (isGitHub ? rawBase : (typeof BASE_URL !== 'undefined' ? BASE_URL : './')) + cleanPath;
 };
 
+window.getRawGithubUrl = function (relativePath) {
+    if (!relativePath) return '';
+    let cleanPath = String(relativePath).trim();
+    if (cleanPath.startsWith('./')) cleanPath = cleanPath.slice(2);
+    if (cleanPath.startsWith('/')) cleanPath = cleanPath.slice(1);
+    const fullPath = cleanPath.startsWith('books/') ? cleanPath : `books/${cleanPath}`;
+    return `https://raw.githubusercontent.com/StarleyBy/Starley-CS-Library/main/${fullPath}`;
+};
+
 // Auto-redirect from file:// protocol to local HTTP server if localhost:8080 is running
 if (typeof window !== 'undefined' && window.location.protocol === 'file:') {
     try {

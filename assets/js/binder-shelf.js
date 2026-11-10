@@ -216,6 +216,7 @@
                     const meta = book.data || {};
                     const coverRel = meta.cover_image ? `${book.path}/${meta.cover_image}` : '';
                     const localCoverFallback = coverRel ? `${window.BASE_URL || './'}${coverRel}` : 'assets/img/book-placeholder.png';
+                    const rawCoverFallback = coverRel ? (typeof window.getRawGithubUrl === 'function' ? window.getRawGithubUrl(coverRel) : `https://raw.githubusercontent.com/StarleyBy/Starley-CS-Library/main/${coverRel.startsWith('books/') ? coverRel : 'books/' + coverRel}`) : '';
                     const coverImg = coverRel 
                         ? (typeof window.getImageUrl === 'function' ? window.getImageUrl(coverRel) : localCoverFallback) 
                         : 'assets/img/book-placeholder.png';
@@ -231,8 +232,8 @@
 
                     return `
                         <div class="binder-book-card ${isActive ? 'active' : ''}" data-book-path="${book.path}">
-                            <img src="${coverImg}" data-fallback="${localCoverFallback}" alt="${meta.title}" class="binder-book-cover"
-                                 onerror="if (this.dataset.fallback && this.src !== this.dataset.fallback) { this.src = this.dataset.fallback; } else { this.onerror=null; this.src='assets/img/book-placeholder.png'; }" />
+                            <img src="${coverImg}" data-fallback="${localCoverFallback}" data-raw="${rawCoverFallback}" alt="${meta.title}" class="binder-book-cover"
+                                 onerror="if (this.dataset.fallback && this.src !== this.dataset.fallback) { this.src = this.dataset.fallback; } else if (this.dataset.raw && this.src !== this.dataset.raw) { this.src = this.dataset.raw; } else { this.onerror=null; this.src='assets/img/book-placeholder.png'; }" />
                             <div class="binder-book-info">
                                 <h4 class="binder-book-title">${meta.title || 'Untitled'}</h4>
                                 <p class="binder-book-authors">${authors}</p>
