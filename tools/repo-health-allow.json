@@ -5,6 +5,11 @@
       "file": "assets/js/quiz.js",
       "acknowledged": true,
       "reason": "решение владельца от 2026-10-26: токен Telegram-бота отзовут позже, владелец считает, что в чате бота нет важного и секретного"
+    },
+    {
+      "code": "G002",
+      "file": "books/cardiac-surgery/may",
+      "reason": "Синхронизация иллюстраций May с Cloudflare R2 через CI workflow"
     }
   ]
 }
