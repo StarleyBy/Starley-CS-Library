@@ -589,7 +589,9 @@ function handleQuizImgError(imgEl) {
     if (!imgEl) return;
     if (imgEl.dataset && imgEl.dataset.fallback && !imgEl.dataset.triedFallback) {
         imgEl.dataset.triedFallback = 'true';
-        imgEl.src = imgEl.dataset.fallback;
+        const fallbackUrl = imgEl.dataset.fallback;
+        const separator = fallbackUrl.includes('?') ? '&' : '?';
+        imgEl.src = `${fallbackUrl}${separator}v=${Date.now()}`;
         return;
     }
     imgEl.onerror = null;

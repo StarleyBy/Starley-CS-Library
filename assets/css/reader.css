@@ -243,10 +243,11 @@
     gap: 0.05rem;
   }
   .header-btn, .nav-link {
-    padding: 0.2rem;
+    padding: 6px;
     font-size: 0.9rem;
-    min-width: 24px;
-    height: 24px;
+    min-width: 32px;
+    min-height: 32px;
+    height: auto;
   }
   .nav-link .nav-text {
     display: none;
@@ -1210,9 +1211,10 @@ body:not(.night-mode) .luminous-orange, body:not(.night-mode) .content .luminous
   .reader-header { font-size: 16px; overflow: visible; }
   /* Compact buttons — fit all 5 in 100% width comfortably */
   .header-btn, .nav-link {
-    padding: 0.3rem 0.4rem;
+    padding: 8px;
     font-size: 1.1rem;
-    min-width: 28px;
+    min-width: 36px;
+    min-height: 36px;
     gap: 0;
   }
   

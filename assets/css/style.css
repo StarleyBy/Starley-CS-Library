@@ -23,10 +23,13 @@ body {
 }
 
 header {
-    background: var(--primary-color);
+    background: rgba(15, 23, 42, 0.88);
+    -webkit-backdrop-filter: blur(20px) saturate(180%);
+    backdrop-filter: blur(20px) saturate(180%);
     color: white;
     padding: 0.8rem 2rem;
-    box-shadow: 0 4px 14px rgba(0,0,0,0.3);
+    box-shadow: 0 1px 0 rgba(255,255,255,0.06);
+    border-bottom: 1px solid rgba(255,255,255,0.08);
     display: flex;
     justify-content: space-between;
     align-items: center;
@@ -36,6 +39,7 @@ header {
     right: 0;
     width: 100%;
     z-index: 10000;
+    transition: background 0.3s ease;
 }
 
 header h1 {
@@ -255,32 +259,7 @@ footer {
         white-space: nowrap;
     }
     
-    header nav {
-        display: flex;
-        align-items: center;
-        gap: 4px;
-        overflow-x: auto;
-        white-space: nowrap;
-        padding: 2px 0;
-        max-width: 100%;
-        -webkit-overflow-scrolling: touch;
-        scrollbar-width: none;
-    }
-
-    header nav::-webkit-scrollbar {
-        display: none;
-    }
-
-    header nav a {
-        display: inline-flex;
-        align-items: center;
-        margin: 0;
-        padding: 4px 8px;
-        font-size: 0.8rem;
-        background: rgba(255, 255, 255, 0.08);
-        border-radius: 14px;
-        white-space: nowrap;
-    }
+    /* Mobile nav handled by hamburger menu — see end of file */
 
     .neon-info {
         padding: 6px 6px 8px;
@@ -1466,32 +1445,7 @@ a[data-back="true"]:active {
         white-space: nowrap !important;
     }
     
-    header nav {
-        display: flex !important;
-        align-items: center !important;
-        gap: 4px !important;
-        overflow-x: auto !important;
-        white-space: nowrap !important;
-        padding: 2px 0 !important;
-        max-width: calc(100% - 130px) !important;
-        -webkit-overflow-scrolling: touch !important;
-        scrollbar-width: none !important;
-    }
-
-    header nav::-webkit-scrollbar {
-        display: none !important;
-    }
-
-    header nav a {
-        display: inline-flex !important;
-        align-items: center !important;
-        margin: 0 !important;
-        padding: 5px 9px !important;
-        font-size: 0.78rem !important;
-        background: rgba(255, 255, 255, 0.1) !important;
-        border-radius: 14px !important;
-        white-space: nowrap !important;
-    }
+    /* Mobile nav handled by hamburger menu — see end of file */
 
     .recents-section {
         padding: 15px;
@@ -1513,4 +1467,127 @@ h1 .luminous-red, h1 .luminous-purple, h1 .luminous-yellow, h1 .luminous-orange,
 .content h1 span {
     display: inline !important;
     white-space: normal !important;
+}
+
+
+/* ============================================
+   HAMBURGER MENU & FULL-SCREEN NAV OVERLAY
+   Apple-inspired mobile navigation
+   ============================================ */
+
+/* Hamburger button — hidden on desktop */
+.nav-hamburger {
+    display: none;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    gap: 6px;
+    width: 44px;
+    height: 44px;
+    padding: 0;
+    background: none;
+    border: none;
+    cursor: pointer;
+    z-index: 10001;
+    -webkit-tap-highlight-color: transparent;
+    flex-shrink: 0;
+}
+
+.hamburger-line {
+    display: block;
+    width: 20px;
+    height: 2px;
+    background: white;
+    border-radius: 2px;
+    transition: transform 0.35s cubic-bezier(0.4, 0, 0.2, 1),
+                opacity 0.25s ease;
+    transform-origin: center;
+}
+
+/* X animation when open */
+body.nav-open .hamburger-line:first-child {
+    transform: translateY(4px) rotate(45deg);
+}
+body.nav-open .hamburger-line:last-child {
+    transform: translateY(-4px) rotate(-45deg);
+}
+
+/* Nav overlay — hidden by default */
+.nav-overlay {
+    display: none;
+    position: fixed;
+    inset: 0;
+    z-index: 9999;
+    background: rgba(15, 23, 42, 0.92);
+    -webkit-backdrop-filter: blur(24px) saturate(180%);
+    backdrop-filter: blur(24px) saturate(180%);
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    gap: 4px;
+    padding: 80px 24px 40px;
+    overflow-y: auto;
+}
+
+.nav-overlay a {
+    display: block;
+    width: 100%;
+    max-width: 340px;
+    padding: 16px 24px;
+    color: white;
+    text-decoration: none;
+    font-size: 1.25rem;
+    font-weight: 500;
+    border-radius: 16px;
+    text-align: center;
+    transition: background 0.25s ease, transform 0.25s ease;
+    opacity: 0;
+    transform: translateY(12px);
+}
+
+.nav-overlay a:hover,
+.nav-overlay a:focus-visible {
+    background: rgba(255, 255, 255, 0.1);
+    transform: scale(1.02);
+    outline: none;
+}
+
+.nav-overlay a:active {
+    transform: scale(0.98);
+    background: rgba(255, 255, 255, 0.15);
+}
+
+/* Stagger-fade animation for overlay links */
+body.nav-open .nav-overlay a {
+    opacity: 1;
+    transform: translateY(0);
+}
+body.nav-open .nav-overlay a:nth-child(1) { transition-delay: 0.04s; }
+body.nav-open .nav-overlay a:nth-child(2) { transition-delay: 0.08s; }
+body.nav-open .nav-overlay a:nth-child(3) { transition-delay: 0.12s; }
+body.nav-open .nav-overlay a:nth-child(4) { transition-delay: 0.16s; }
+body.nav-open .nav-overlay a:nth-child(5) { transition-delay: 0.2s; }
+body.nav-open .nav-overlay a:nth-child(6) { transition-delay: 0.24s; }
+body.nav-open .nav-overlay a:nth-child(7) { transition-delay: 0.28s; }
+body.nav-open .nav-overlay a:nth-child(8) { transition-delay: 0.32s; }
+body.nav-open .nav-overlay a:nth-child(9) { transition-delay: 0.36s; }
+
+/* Prevent body scroll when menu open */
+body.nav-open {
+    overflow: hidden;
+}
+
+/* ---- Mobile: show hamburger, hide inline nav, show overlay ---- */
+@media (max-width: 768px) {
+    .nav-hamburger {
+        display: flex;
+    }
+
+    header nav#main-nav {
+        display: none !important;
+    }
+
+    body.nav-open .nav-overlay {
+        display: flex;
+    }
 }

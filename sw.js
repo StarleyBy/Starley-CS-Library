@@ -11,8 +11,8 @@ if (self.location.hostname === 'localhost' || self.location.hostname === '127.0.
   });
 } else {
 
-const CACHE_STATIC = 'static-v31';
-const CACHE_DYNAMIC = 'dynamic-v31';
+const CACHE_STATIC = 'static-v32';
+const CACHE_DYNAMIC = 'dynamic-v32';
 
 const APP_SHELL = [
   './',

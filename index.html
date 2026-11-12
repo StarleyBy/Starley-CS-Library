@@ -10,21 +10,25 @@
     <link rel="stylesheet" href="assets/css/guideline-tables.css?v=1.0">
     <link rel="manifest" href="./manifest.json">
     <meta name="theme-color" content="#0f172a">
-    <meta name="viewport" content="width=device-width, initial-scale=1">
 </head>
 <body>
     <header>
         <h1>📚 Medical library</h1>
-        <nav>
+        <nav id="main-nav">
             <a href="index.html">📚 Library</a>
             <a href="highlights.html">🔖 Highlights</a>
             <a href="search/search.html">🔍 Search</a>
             <a href="quiz.html">🧠 Quiz</a>
+            <a href="magazine.html">📰 Magazine</a>
             <a href="javascript:void(0)" onclick="if(window.GuidelineTables)window.GuidelineTables.open();else window.location.hash='#guidelines'">📋 Guidelines</a>
             <a href="editor.html" data-role="admin">✏️ Editor</a>
             <a href="manifest-editor.html" data-role="admin">🛠️ Manifest</a>
             <a href="guideline-editor.html" data-role="admin">🎛️ Tables Editor</a>
         </nav>
+        <button id="nav-hamburger" class="nav-hamburger" aria-label="Open menu" aria-expanded="false">
+            <span class="hamburger-line"></span>
+            <span class="hamburger-line"></span>
+        </button>
 
         <button id="installBtn" style="display:none;">📲 Install application</button>
 
@@ -41,6 +45,18 @@ installBtn.onclick = () => deferredPrompt.prompt();
 </script>
         
     </header>
+
+    <div id="nav-overlay" class="nav-overlay" aria-hidden="true">
+        <a href="index.html">📚 Library</a>
+        <a href="highlights.html">🔖 Highlights</a>
+        <a href="search/search.html">🔍 Search</a>
+        <a href="quiz.html">🧠 Quiz</a>
+        <a href="magazine.html">📰 Magazine</a>
+        <a href="javascript:void(0)" id="nav-overlay-guidelines">📋 Guidelines</a>
+        <a href="editor.html" data-role="admin">✏️ Editor</a>
+        <a href="manifest-editor.html" data-role="admin">🛠️ Manifest</a>
+        <a href="guideline-editor.html" data-role="admin">🎛️ Tables Editor</a>
+    </div>
 
     <main>
         <div class="view-mode-container">
@@ -81,5 +97,51 @@ if ('serviceWorker' in navigator) {
 </script>
     <script data-goatcounter="https://cs-library.goatcounter.com/count"
         async src="//gc.zgo.at/count.js"></script>
+    <script>
+/* Hamburger navigation toggle */
+(function() {
+    var hamburger = document.getElementById('nav-hamburger');
+    var overlay = document.getElementById('nav-overlay');
+    var guidelinesLink = document.getElementById('nav-overlay-guidelines');
+
+    if (!hamburger || !overlay) return;
+
+    function toggleMenu() {
+        var isOpen = document.body.classList.toggle('nav-open');
+        hamburger.setAttribute('aria-expanded', isOpen);
+        overlay.setAttribute('aria-hidden', !isOpen);
+    }
+
+    function closeMenu() {
+        document.body.classList.remove('nav-open');
+        hamburger.setAttribute('aria-expanded', 'false');
+        overlay.setAttribute('aria-hidden', 'true');
+    }
+
+    hamburger.addEventListener('click', toggleMenu);
+
+    // Close on overlay link click
+    overlay.querySelectorAll('a').forEach(function(a) {
+        a.addEventListener('click', closeMenu);
+    });
+
+    // Guidelines link handler
+    if (guidelinesLink) {
+        guidelinesLink.addEventListener('click', function(e) {
+            e.preventDefault();
+            closeMenu();
+            if (window.GuidelineTables) window.GuidelineTables.open();
+            else window.location.hash = '#guidelines';
+        });
+    }
+
+    // Close on Escape
+    document.addEventListener('keydown', function(e) {
+        if (e.key === 'Escape' && document.body.classList.contains('nav-open')) {
+            closeMenu();
+        }
+    });
+})();
+</script>
 </body>
 </html>
