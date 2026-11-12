@@ -10,7 +10,7 @@
       "James K. Kirklin, MD, Hartzell V. Schaff, MD, Eugene H. Blackstone, MD, Christo I. Tchervenkov, MD, CM, FRCSC, Francis D. Pagani, MD, PhD"
     ],
     "magazine": false,
-    "quiz": false,
+    "quiz": true,
     "versions": {
       "original": true,
       "russian": true,
@@ -294,6 +294,13 @@
         "russian": "55. Хирургия врожденных пороков сердца в условиях ограниченных ресурсов"
       }
     ],
-    "appendices": []
+    "appendices": [],
+    "quiz_sets": [
+      {
+        "id": "quiz-kirklin5",
+        "label": "Kirklin/Barratt-Boyes Cardiac Surgery (5th ed.) — Master Exam (150 Questions)",
+        "file": "quiz/quiz-kirklin5.json"
+      }
+    ]
   }
 ]

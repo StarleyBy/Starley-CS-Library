@@ -99,6 +99,20 @@ const MediaInspector = {
     }
 
     lightboxImg.src = imgSrc;
+    if (imgEl && typeof imgEl === 'object' && imgEl.dataset && imgEl.dataset.fallback) {
+      lightboxImg.dataset.fallback = imgEl.dataset.fallback;
+    } else {
+      delete lightboxImg.dataset.fallback;
+    }
+    lightboxImg.onerror = function() {
+      if (this.dataset.fallback && !this.dataset.triedFallback) {
+        this.dataset.triedFallback = 'true';
+        this.src = this.dataset.fallback;
+        return;
+      }
+      this.onerror = null;
+      this.src = 'assets/img/book-placeholder.png';
+    };
     lightboxImg.alt = imgAlt;
     lightboxCaptionBottom.innerHTML = captionHTML || imgAlt || (isRu ? 'Изображение' : 'Image');
     

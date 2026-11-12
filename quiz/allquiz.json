@@ -1,8 +1,8 @@
 {
   "meta": {
-    "totalManifests": 21,
-    "totalQuestions": 3468,
-    "updatedAt": "2026-11-09T18:51:39.183700+00:00"
+    "totalManifests": 22,
+    "totalQuestions": 3618,
+    "updatedAt": "2026-11-12T07:18:26.543Z"
   },
   "quizzes": [
     {
@@ -151,6 +151,13 @@
       "title": "sba_cardiothoracic_surgery",
       "file": "books/work/examen/quiz/quiz-raja-sba.json",
       "totalQuestions": 303
+    },
+    {
+      "num": 22,
+      "id": "quiz-kirklin5",
+      "title": "Kirklin/Barratt-Boyes Cardiac Surgery (5th ed.)",
+      "file": "books/cardiac-surgery/Kirklin5/quiz/quiz-kirklin5.json",
+      "totalQuestions": 150
     }
   ]
 }

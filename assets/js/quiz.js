@@ -322,7 +322,8 @@ const ALL_MANIFESTS_REGISTRY = [
     { num: 18, id: 'quiz-chapter-01', icon: '📘', titleRu: 'Bojar: ОРИТ в кардиохирургии', titleEn: 'Bojar: Adult Cardiac Surgical ICU', totalQ: 100, file: 'books/icu/bojar/quiz/quiz-chapter-01.json' },
     { num: 19, id: 'quiz-seats4', icon: '📚', titleRu: 'SESATS Кардиоторакальная хирургия (Часть 4)', titleEn: 'SESATS Part 4', totalQ: 60, file: 'books/work/examen/quiz/quiz-seats4.json' },
     { num: 20, id: 'quiz-cardiac-mcq', icon: '🫀', titleRu: 'Тесты по кардиохирургии (MCQ)', titleEn: 'Cardiac Surgery MCQs', totalQ: 156, file: 'books/work/examen/quiz/quiz-cardiac-mcq.json' },
-    { num: 21, id: 'quiz-raja-sba', icon: '📖', titleRu: 'SBA в кардиоторакальной хирургии (Шахзад Раджа)', titleEn: 'SBA in Cardiothoracic Surgery (Shahzad Raja)', totalQ: 303, file: 'books/work/examen/quiz/quiz-raja-sba.json' }
+    { num: 21, id: 'quiz-raja-sba', icon: '📖', titleRu: 'SBA в кардиоторакальной хирургии (Шахзад Раджа)', titleEn: 'SBA in Cardiothoracic Surgery (Shahzad Raja)', totalQ: 303, file: 'books/work/examen/quiz/quiz-raja-sba.json' },
+    { num: 22, id: 'quiz-kirklin5', icon: '🏛️', titleRu: 'Кардиохирургия по Кирклину (5-е изд.)', titleEn: 'Kirklin/Barratt-Boyes Cardiac Surgery (5th ed.)', totalQ: 150, file: 'books/cardiac-surgery/Kirklin5/quiz/quiz-kirklin5.json' }
 ];
 window.ALL_MANIFESTS_REGISTRY = ALL_MANIFESTS_REGISTRY;
 
@@ -529,6 +530,8 @@ function resolveQuizImg(img, bookPath) {
         pathStr = cleanImg;
     } else {
         let bPath = (bookPath || (state && state.bookPath) || '').trim();
+        if (bPath.startsWith('./')) bPath = bPath.slice(2);
+        if (bPath.startsWith('/')) bPath = bPath.slice(1);
         if (!bPath || bPath === 'custom' || bPath === 'favorites' || bPath === 'general') {
             bPath = 'books/work/examen';
         }
@@ -536,6 +539,8 @@ function resolveQuizImg(img, bookPath) {
             bPath = bPath.slice(0, -12);
         } else if (bPath.endsWith('/quiz')) {
             bPath = bPath.slice(0, -5);
+        } else if (bPath.endsWith('/')) {
+            bPath = bPath.slice(0, -1);
         }
         pathStr = `${bPath}/quiz/images/${cleanImg}`;
     }
@@ -546,6 +551,51 @@ function resolveQuizImg(img, bookPath) {
     const rootPath = (typeof BASE_URL !== 'undefined') ? BASE_URL : './';
     return `${rootPath}${pathStr}`;
 }
+
+function resolveQuizLocalPath(img, bookPath) {
+    if (!img) return '';
+    if (img.startsWith('http://') || img.startsWith('https://')) return img;
+
+    let cleanImg = String(img).trim();
+    if (cleanImg.startsWith('./')) cleanImg = cleanImg.slice(2);
+    if (cleanImg.startsWith('/')) cleanImg = cleanImg.slice(1);
+
+    let pathStr = '';
+    if (cleanImg.includes('/') && (cleanImg.startsWith('books/') || cleanImg.startsWith('assets/'))) {
+        pathStr = cleanImg;
+    } else {
+        let bPath = (bookPath || (state && state.bookPath) || '').trim();
+        if (bPath.startsWith('./')) bPath = bPath.slice(2);
+        if (bPath.startsWith('/')) bPath = bPath.slice(1);
+        if (!bPath || bPath === 'custom' || bPath === 'favorites' || bPath === 'general') {
+            bPath = 'books/work/examen';
+        }
+        if (bPath.endsWith('/quiz/images')) {
+            bPath = bPath.slice(0, -12);
+        } else if (bPath.endsWith('/quiz')) {
+            bPath = bPath.slice(0, -5);
+        } else if (bPath.endsWith('/')) {
+            bPath = bPath.slice(0, -1);
+        }
+        pathStr = `${bPath}/quiz/images/${cleanImg}`;
+    }
+
+    const rootPath = (typeof BASE_URL !== 'undefined') ? BASE_URL : './';
+    return `${rootPath}${pathStr}`;
+}
+window.resolveQuizLocalPath = resolveQuizLocalPath;
+
+function handleQuizImgError(imgEl) {
+    if (!imgEl) return;
+    if (imgEl.dataset && imgEl.dataset.fallback && !imgEl.dataset.triedFallback) {
+        imgEl.dataset.triedFallback = 'true';
+        imgEl.src = imgEl.dataset.fallback;
+        return;
+    }
+    imgEl.onerror = null;
+    imgEl.src = 'assets/img/book-placeholder.png';
+}
+window.handleQuizImgError = handleQuizImgError;
 
 function getQuestionImages(q) {
     if (!q) return [];
@@ -1036,6 +1086,8 @@ function _markdownToHtml(txt) {
                   .replace(/<svg[\s\S]*?<\/svg>/gi, match => match.replace(/\r?\n\s*/g, ' '))
                   .replace(/<iframe[\s\S]*?<\/iframe>/gi, match => match.replace(/\r?\n\s*/g, ' '))
                   .replace(/\$\$[\s\S]*?\$\$/g, match => match.replace(/\r?\n\s*/g, ' '));
+    // Strip newlines between adjacent closing and opening tags in HTML blocks to avoid unwanted <br>
+    html = html.replace(/(<\/?[a-z0-9_-]+[^>]*>)\r?\n\s*(<\/?[a-z0-9_-]+)/gi, '$1 $2');
     // Convert [text](url) markdown links
     html = html.replace(/\[([^\]]+)\]\(([^)]+)\)/g, (match, label, url) => {
         const isTable = url.startsWith('#/tables/') || url.includes('#/tables/') || url.startsWith('#guidelines');
@@ -1087,6 +1139,10 @@ function formatExplanation(rawExp) {
             }
             if (trimmed.startsWith('<iframe') && trimmed.endsWith('</iframe>')) {
                 return trimmed;
+            }
+            // Protect block HTML elements from being wrapped in <p>...</p>
+            if (/^<(div|svg|table|ul|ol|h[1-6]|p|figure|blockquote)[\s>]/i.test(trimmed)) {
+                return _markdownToHtml(trimmed);
             }
             return `<p>${_markdownToHtml(trimmed)}</p>`;
         })
@@ -1320,7 +1376,7 @@ async function updateWeakSpotRadar() {
                     questions = data.questions || [];
                     questions.forEach(q => {
                         q.bookPath = set.bookPath;
-                        q.meta = data.meta;
+                        q.meta = (q.meta && q.meta.chapter) ? Object.assign({}, data.meta, q.meta) : (q.chapterId ? Object.assign({}, data.meta, { chapter: [q.chapterId] }) : data.meta);
                     });
                     state.setQuestionsMap[cacheKey] = questions;
                 } catch (err) {
@@ -1733,7 +1789,7 @@ async function updateSliderForSelectedSets() {
             
             data.questions.forEach(q => {
                 q.bookPath = set.bookPath;
-                q.meta = data.meta;
+                q.meta = (q.meta && q.meta.chapter) ? Object.assign({}, data.meta, q.meta) : (q.chapterId ? Object.assign({}, data.meta, { chapter: [q.chapterId] }) : data.meta);
             });
             
             state.setQuestionsMap[cacheKey] = data.questions;
@@ -3581,7 +3637,7 @@ async function startQuiz() {
                             q.bookPath = set.bookPath;
                             q.setId = set.setId;
                             q.manifestId = manifestId;
-                            q.meta = data.meta;
+                            q.meta = (q.meta && q.meta.chapter) ? Object.assign({}, data.meta, q.meta) : (q.chapterId ? Object.assign({}, data.meta, { chapter: [q.chapterId] }) : data.meta);
                             if (!q.id) {
                                 q.id = `${manifestId}_q${idx + 1}`;
                             }
@@ -4008,7 +4064,8 @@ function renderQuestion() {
         const bookPath = q.bookPath || state.bookPath;
         imgCont.innerHTML = qImgs.map(img => {
             const imgSrc = resolveQuizImg(img, bookPath);
-            return `<img src="${imgSrc}" class="quiz-q-image" onclick="window.openQuizImageInspector(this)" onerror="this.onerror=null; this.src='assets/img/book-placeholder.png';" title="${lang === 'Ru' ? 'Нажмите для увеличения и настройки контраста' : 'Click to inspect, zoom and adjust contrast'}">`;
+            const localSrc = resolveQuizLocalPath(img, bookPath);
+            return `<img src="${imgSrc}" data-fallback="${localSrc}" class="quiz-q-image" onclick="window.openQuizImageInspector(this)" onerror="window.handleQuizImgError(this)" title="${lang === 'Ru' ? 'Нажмите для увеличения и настройки контраста' : 'Click to inspect, zoom and adjust contrast'}">`;
         }).join('');
         imgCont.style.display = 'flex';
     } else {
@@ -4376,11 +4433,13 @@ function showExplanation() {
     // Helper to add an image
     const addImg = (src) => {
         const imgSrc = resolveQuizImg(src, bookPath);
+        const localSrc = resolveQuizLocalPath(src, bookPath);
         const img = document.createElement('img');
         img.src = imgSrc;
+        img.dataset.fallback = localSrc;
         img.className = 'quiz-q-image';
         img.title = lang === 'Ru' ? 'Нажмите для увеличения и настройки контраста' : 'Click to inspect, zoom and adjust contrast';
-        img.onerror = () => { img.onerror = null; img.src = 'assets/img/book-placeholder.png'; };
+        img.onerror = function() { window.handleQuizImgError(this); };
         img.onclick = () => window.openQuizImageInspector(img);
         expImgCont.appendChild(img);
     };
@@ -4409,7 +4468,7 @@ function showExplanation() {
     renderLatexInElement(expTextEl);
     expBox.style.display = 'block';
     
-    const metaChapters = (q.meta && q.meta.chapter) || [];
+    const metaChapters = (q.meta && q.meta.chapter) || (q.chapterId ? [q.chapterId] : []);
     const chapterList = Array.isArray(metaChapters) ? metaChapters : (metaChapters ? [metaChapters] : []);
     const picker = document.getElementById('exp-chapter-select');
     const pickerGrid = document.getElementById('exp-chapter-list');
@@ -5531,7 +5590,8 @@ function renderIncorrectAnswers() {
             const bookPath = q.bookPath || state.bookPath;
             imgCont.innerHTML = qImgs.map(img => {
                 const imgSrc = resolveQuizImg(img, bookPath);
-                return `<img src="${imgSrc}" class="quiz-q-image" onclick="window.openQuizImageInspector(this)" onerror="this.onerror=null; this.src='assets/img/book-placeholder.png';" title="${isRu ? 'Нажмите для увеличения и настройки контраста' : 'Click to inspect, zoom and adjust contrast'}">`;
+                const localSrc = resolveQuizLocalPath(img, bookPath);
+                return `<img src="${imgSrc}" data-fallback="${localSrc}" class="quiz-q-image" onclick="window.openQuizImageInspector(this)" onerror="window.handleQuizImgError(this)" title="${isRu ? 'Нажмите для увеличения и настройки контраста' : 'Click to inspect, zoom and adjust contrast'}">`;
             }).join('');
             itemDiv.appendChild(imgCont);
         }
@@ -5585,11 +5645,13 @@ function renderIncorrectAnswers() {
         const bookPath = q.bookPath || state.bookPath;
         const addImg = (src) => {
             const imgSrc = resolveQuizImg(src, bookPath);
+            const localSrc = resolveQuizLocalPath(src, bookPath);
             const img = document.createElement('img');
             img.src = imgSrc;
+            img.dataset.fallback = localSrc;
             img.className = 'quiz-q-image';
             img.title = isRu ? 'Нажмите для увеличения и настройки контраста' : 'Click to inspect, zoom and adjust contrast';
-            img.onerror = () => { img.onerror = null; img.src = 'assets/img/book-placeholder.png'; };
+            img.onerror = function() { window.handleQuizImgError(this); };
             img.onclick = () => window.openQuizImageInspector(img);
             expImgCont.appendChild(img);
         };
@@ -5617,7 +5679,7 @@ function renderIncorrectAnswers() {
         const expActions = document.createElement('div');
         expActions.className = 'exp-actions';
 
-        const metaChapters = (q.meta && q.meta.chapter) || [];
+        const metaChapters = (q.meta && q.meta.chapter) || (q.chapterId ? [q.chapterId] : []);
         const chapterList = Array.isArray(metaChapters) ? metaChapters : (metaChapters ? [metaChapters] : []);
 
         if (chapterList.length > 1) {
@@ -5759,7 +5821,8 @@ function renderAllQuestionsList() {
             const bookPath = q.bookPath || state.bookPath;
             imgCont.innerHTML = qImgs.map(img => {
                 const imgSrc = resolveQuizImg(img, bookPath);
-                return `<img src="${imgSrc}" class="quiz-q-image" onclick="window.openQuizImageInspector(this)" onerror="this.onerror=null; this.src='assets/img/book-placeholder.png';" title="${isRu ? 'Нажмите для увеличения и настройки контраста' : 'Click to inspect, zoom and adjust contrast'}">`;
+                const localSrc = resolveQuizLocalPath(img, bookPath);
+                return `<img src="${imgSrc}" data-fallback="${localSrc}" class="quiz-q-image" onclick="window.openQuizImageInspector(this)" onerror="window.handleQuizImgError(this)" title="${isRu ? 'Нажмите для увеличения и настройки контраста' : 'Click to inspect, zoom and adjust contrast'}">`;
             }).join('');
             detailsDiv.appendChild(imgCont);
         }
@@ -5811,11 +5874,13 @@ function renderAllQuestionsList() {
         const bookPath = q.bookPath || state.bookPath;
         const addImg = (src) => {
             const imgSrc = resolveQuizImg(src, bookPath);
+            const localSrc = resolveQuizLocalPath(src, bookPath);
             const img = document.createElement('img');
             img.src = imgSrc;
+            img.dataset.fallback = localSrc;
             img.className = 'quiz-q-image';
             img.title = isRu ? 'Нажмите для увеличения и настройки контраста' : 'Click to inspect, zoom and adjust contrast';
-            img.onerror = () => { img.onerror = null; img.src = 'assets/img/book-placeholder.png'; };
+            img.onerror = function() { window.handleQuizImgError(this); };
             img.onclick = () => window.openQuizImageInspector(img);
             expImgCont.appendChild(img);
         };
@@ -5843,7 +5908,7 @@ function renderAllQuestionsList() {
         const expActions = document.createElement('div');
         expActions.className = 'exp-actions';
         
-        const metaChapters = (q.meta && q.meta.chapter) || [];
+        const metaChapters = (q.meta && q.meta.chapter) || (q.chapterId ? [q.chapterId] : []);
         const chapterList = Array.isArray(metaChapters) ? metaChapters : (metaChapters ? [metaChapters] : []);
         
         if (chapterList.length > 1) {
@@ -5938,7 +6003,7 @@ async function _initializeSearchIndex() {
                         
                         questions.forEach(q => {
                             q.bookPath = book.bookPath;
-                            q.meta = quizData.meta;
+                            q.meta = (q.meta && q.meta.chapter) ? Object.assign({}, quizData.meta, q.meta) : (q.chapterId ? Object.assign({}, quizData.meta, { chapter: [q.chapterId] }) : quizData.meta);
                         });
                         
                         state.setQuestionsMap[cacheKey] = questions;
@@ -9030,6 +9095,7 @@ window.launchManifestQuiz = async function(manifestId, count) {
         title: mItem.titleEn,
         russian_title: mItem.titleRu
     };
+    state.bookPath = mItem.file && mItem.file.includes('/quiz/') ? mItem.file.substring(0, mItem.file.indexOf('/quiz/')) : 'books/work/examen';
 
     switchScreen('screen-question');
     renderQuestion();
@@ -9091,6 +9157,7 @@ window.launchManifestErrorsQuiz = async function(manifestId) {
         title: `${mItem.titleEn} (Error Workout)`,
         russian_title: `${mItem.titleRu} (Работа над ошибками)`
     };
+    state.bookPath = mItem.file && mItem.file.includes('/quiz/') ? mItem.file.substring(0, mItem.file.indexOf('/quiz/')) : 'books/work/examen';
 
     switchScreen('screen-question');
     renderQuestion();

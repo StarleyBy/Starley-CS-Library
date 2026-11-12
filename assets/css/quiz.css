@@ -4220,3 +4220,17 @@ body.quiz-lib-open {
         font-size: 0.78rem;
     }
 }
+
+
+/* ═══ Phase 1: Question header actions — scrollable on mobile (no overflow) ═══ */
+@media (max-width: 600px) {
+    .question-header-actions {
+        overflow-x: auto;
+        flex-wrap: nowrap;
+        -webkit-overflow-scrolling: touch;
+        scrollbar-width: none;
+    }
+    .question-header-actions::-webkit-scrollbar {
+        display: none;
+    }
+}
