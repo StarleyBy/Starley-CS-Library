@@ -391,6 +391,9 @@
                                     const meta = (metaArr && metaArr[0]) ? metaArr[0] : {};
                                     let cover = meta.cover_image || '';
                                     const localCover = cover ? `${rawBase}${bookPath}/${cover}` : `${rawBase}${bookPath}/cover.jpg`;
+                                    const rawCover = typeof window.getRawGithubUrl === 'function'
+                                        ? window.getRawGithubUrl(`${bookPath}/${cover || 'cover.jpg'}`)
+                                        : `https://raw.githubusercontent.com/StarleyBy/Starley-CS-Library/main/${bookPath}/${cover || 'cover.jpg'}`;
                                     if (typeof window.getImageUrl === 'function') {
                                         cover = window.getImageUrl(`${bookPath}/${cover || 'cover.jpg'}`);
                                     } else if (cover && !cover.startsWith('http') && !cover.startsWith('/')) {
@@ -404,7 +407,8 @@
                                         discipline: cat.title || '',
                                         author: meta.author || '',
                                         cover_image: cover || 'assets/img/book-placeholder.png',
-                                        local_cover: localCover
+                                        local_cover: localCover,
+                                        raw_cover: rawCover
                                     });
                                 } catch (err) {
                                     categoryBooks.push({
@@ -502,7 +506,7 @@
                         html += `
                             <div class="qb-book-tile" data-book-path="${this.escapeHtml(book.path)}" data-book-title="${this.escapeHtml(displayTitle)}">
                                 <div class="qb-tile-cover-wrapper">
-                                    <img src="${this.escapeHtml(cover)}" data-fallback="${this.escapeHtml(book.local_cover || 'assets/img/book-placeholder.png')}" alt="cover" class="qb-tile-cover" onerror="if (this.dataset.fallback && this.src !== this.dataset.fallback) { this.src = this.dataset.fallback; } else { this.onerror=null; this.src='assets/img/book-placeholder.png'; }">
+                                    <img src="${this.escapeHtml(cover)}" data-fallback="${this.escapeHtml(book.local_cover || 'assets/img/book-placeholder.png')}" data-raw="${this.escapeHtml(book.raw_cover || '')}" alt="cover" class="qb-tile-cover" onerror="if (this.dataset.fallback && this.src !== this.dataset.fallback) { this.src = this.dataset.fallback; } else if (this.dataset.raw && this.src !== this.dataset.raw) { this.src = this.dataset.raw; } else { this.onerror=null; this.src='assets/img/book-placeholder.png'; }">
                                     <div class="qb-tile-hover-overlay"><i class="fas fa-plus"></i> Open</div>
                                 </div>
                                 <div class="qb-tile-info">

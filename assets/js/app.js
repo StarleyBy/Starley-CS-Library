@@ -356,6 +356,7 @@ function renderBookCard(bookPath, bookMeta, visibility = 'all') {
     const coverRel = coverImage ? `${bookPath}/${coverImage}` : '';
     const coverImagePath = coverRel ? (typeof window.getImageUrl === 'function' ? window.getImageUrl(coverRel) : `${IMAGES_BASE_URL}${coverRel}`) : 'assets/img/book-placeholder.png';
     const localCoverFallback = coverRel ? `${typeof BASE_URL !== 'undefined' ? BASE_URL : './'}${coverRel}` : 'assets/img/book-placeholder.png';
+    const rawCoverFallback = coverRel ? (typeof window.getRawGithubUrl === 'function' ? window.getRawGithubUrl(coverRel) : `https://raw.githubusercontent.com/StarleyBy/Starley-CS-Library/main/${coverRel.startsWith('books/') ? coverRel : 'books/' + coverRel}`) : '';
     const firstChapter = bookMeta.chapters && bookMeta.chapters.length > 0 ? bookMeta.chapters[0].file.replace('.md', '') : 'chapter-01';
     const neonColor = generateNeonColor(bookMeta.title);
     const escapedTitle = bookMeta.title.replace(/"/g, '&quot;');
@@ -389,8 +390,8 @@ function renderBookCard(bookPath, bookMeta, visibility = 'all') {
              data-visibility="${visibility}">
             <div class="book-cover-wrapper">
                 ${badgesHtml}
-                <img src="${coverImagePath}" data-fallback="${localCoverFallback}" alt="${bookMeta.title}" class="book-cover-img"
-                     onerror="if (this.dataset.fallback && this.src !== this.dataset.fallback) { this.src = this.dataset.fallback; } else { this.onerror=null; this.src='assets/img/book-placeholder.png'; this.classList.add('cover-fallback'); }" />
+                <img src="${coverImagePath}" data-fallback="${localCoverFallback}" data-raw="${rawCoverFallback}" alt="${bookMeta.title}" class="book-cover-img"
+                     onerror="if (this.dataset.fallback && this.src !== this.dataset.fallback) { this.src = this.dataset.fallback; } else if (this.dataset.raw && this.src !== this.dataset.raw) { this.src = this.dataset.raw; } else { this.onerror=null; this.src='assets/img/book-placeholder.png'; this.classList.add('cover-fallback'); }" />
                 <div class="fav-btn ${isFav ? 'active' : ''}" data-path="${bookPath}">❤</div>
             </div>
             <div class="neon-info" style="color: ${neonColor};">

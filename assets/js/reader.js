@@ -488,11 +488,15 @@ async function loadChapter(bookPath, chapterId, edition) {
             area.querySelectorAll('img').forEach(img => {
                 const rawSrc = img.getAttribute('src');
                 let localFallback = '';
+                let rawFallback = '';
                 if (rawSrc) {
                     const r2Prefix = window.R2_MEDIA_BASE_URL ? window.R2_MEDIA_BASE_URL.replace(/\/$/, '') : '';
                     const fileName = rawSrc.split('?')[0].split('#')[0].split('/').pop();
                     const relativePath = `${bookPath}/chapters/${imagesFolder}/images/${fileName}`;
                     localFallback = (typeof BASE_URL !== 'undefined' ? BASE_URL : './') + relativePath;
+                    rawFallback = typeof window.getRawGithubUrl === 'function'
+                        ? window.getRawGithubUrl(relativePath)
+                        : `https://raw.githubusercontent.com/StarleyBy/Starley-CS-Library/main/${relativePath}`;
                     if (!r2Prefix || !rawSrc.startsWith(r2Prefix)) {
                         if (typeof window.getImageUrl === 'function') {
                             img.src = window.getImageUrl(relativePath);
@@ -502,6 +506,10 @@ async function loadChapter(bookPath, chapterId, edition) {
                 img.onerror = function() {
                     if (localFallback && this.src !== localFallback) {
                         this.src = localFallback;
+                        return;
+                    }
+                    if (rawFallback && this.src !== rawFallback) {
+                        this.src = rawFallback;
                         return;
                     }
                     this.onerror = null;

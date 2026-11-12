@@ -8,6 +8,7 @@ books/**/*.jpeg
 books/**/*.png
 books/**/*.webp
 books/**/*.gif
+!books/cardiac-surgery/may/**
 
 # Генерируемый поисковый индекс: собирается при публикации (workflow) и локально командой npm run build:search
 search/search-index.json
