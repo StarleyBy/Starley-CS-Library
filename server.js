@@ -44,6 +44,7 @@ const server = http.createServer((req, res) => {
 
   const parsedUrl = new URL(req.url, `http://${req.headers.host || 'localhost'}`);
   const pathname = decodeURIComponent(parsedUrl.pathname);
+  console.log(`[Req] ${req.method} ${pathname}`);
 
   // 1. API Endpoint: Save User Data to quiz/user_data_456755.json
   if (pathname === '/api/save-user-data' && req.method === 'POST') {

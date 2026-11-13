@@ -5,7 +5,11 @@ let BASE_URL = './';
 var RAW_CONTENT_BASE_URL = './';
 window.RAW_CONTENT_BASE_URL = './';
 
-if (window.location.hostname === 'localhost' || window.location.hostname === '127.0.0.1') {
+const isLocalDev = typeof window !== 'undefined' && 
+    (window.location.hostname === 'localhost' || window.location.hostname === '127.0.0.1');
+window.isLocalDev = isLocalDev;
+
+if (isLocalDev) {
     // Local development
     BASE_URL = './';
 } else if (window.location.hostname.includes('github.io')) {
@@ -18,8 +22,9 @@ if (window.location.hostname === 'localhost' || window.location.hostname === '12
 
 // Cloudflare R2 Media CDN URL
 // If set to empty string '', images are served locally from relative paths.
-// When configured (e.g. 'https://pub-xxx.r2.dev'), images load from Cloudflare R2 CDN.
-window.R2_MEDIA_BASE_URL = 'https://pub-605e081f469a43f5a38ba5dd98d4ff8f.r2.dev';
+// In local development, default to empty string so freshly edited local disk media is tested immediately.
+// On production (GitHub Pages etc.), images load from Cloudflare R2 CDN.
+window.R2_MEDIA_BASE_URL = isLocalDev ? '' : 'https://pub-605e081f469a43f5a38ba5dd98d4ff8f.r2.dev';
 
 window.getImageUrl = function (relativePath) {
     if (!relativePath) return 'assets/img/book-placeholder.png';
@@ -41,7 +46,9 @@ window.getImageUrl = function (relativePath) {
     }
     const isGitHub = typeof window !== 'undefined' && window.location.hostname.includes('github.io');
     const rawBase = typeof RAW_CONTENT_BASE_URL !== 'undefined' ? RAW_CONTENT_BASE_URL : './';
-    return (isGitHub ? rawBase : (typeof BASE_URL !== 'undefined' ? BASE_URL : './')) + cleanPath;
+    const finalBase = (isGitHub ? rawBase : (typeof BASE_URL !== 'undefined' ? BASE_URL : './'));
+    const cacheBuster = isLocalDev ? `?v=${Date.now()}` : '';
+    return finalBase + cleanPath + cacheBuster;
 };
 
 window.getRawGithubUrl = function (relativePath) {

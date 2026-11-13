@@ -548,7 +548,13 @@ function resolveQuizImg(img, bookPath) {
     if (typeof window.getImageUrl === 'function') {
         return window.getImageUrl(pathStr);
     }
+    const isLocal = typeof window !== 'undefined' && 
+        (window.location.hostname === 'localhost' || window.location.hostname === '127.0.0.1');
+
     const rootPath = (typeof BASE_URL !== 'undefined') ? BASE_URL : './';
+    if (isLocal) {
+        return `${rootPath}${pathStr}?v=${Date.now()}`;
+    }
     return `${rootPath}${pathStr}`;
 }
 
@@ -578,6 +584,16 @@ function resolveQuizLocalPath(img, bookPath) {
             bPath = bPath.slice(0, -1);
         }
         pathStr = `${bPath}/quiz/images/${cleanImg}`;
+    }
+
+    const isLocal = typeof window !== 'undefined' && 
+        (window.location.hostname === 'localhost' || window.location.hostname === '127.0.0.1');
+
+    if (isLocal) {
+        // In local development, if local file fails (404), fallback to Cloudflare R2 CDN
+        const r2Base = 'https://pub-605e081f469a43f5a38ba5dd98d4ff8f.r2.dev/';
+        const fullPath = pathStr.startsWith('books/') ? pathStr : `books/${pathStr}`;
+        return `${r2Base}${fullPath}`;
     }
 
     const rootPath = (typeof BASE_URL !== 'undefined') ? BASE_URL : './';
