@@ -1,0 +1,71 @@
+[
+  {
+    "title": "Carpentier's Reconstructive Valve Surgery: From Valve Analysis to Valve Reconstruction",
+    "russian_title": "Реконструктивная хирургия клапанов сердца по Карпантье: от анализа клапана к реконструкции",
+    "cover_image": "cover.jpg",
+    "category": [
+      "cardiac surgery"
+    ],
+    "authors": [
+      "Alain Carpentier, MD, PhD",
+      "David H. Adams, MD",
+      "Farzan Filsoufi, MD"
+    ],
+    "magazine": false,
+    "quiz": false,
+    "versions": {
+      "original": true,
+      "russian": true,
+      "starley": false,
+      "hebrew": false
+    },
+    "chapters": [
+      {
+        "file": "chapter-01.md",
+        "title": "1. Introduction",
+        "russian": "1. Введение"
+      },
+      {
+        "file": "chapter-02.md",
+        "title": "2. Valve Analysis: “The Functional Classification”",
+        "russian": "2. Анализ клапана: «Функциональная классификация»"
+      },
+      {
+        "file": "chapter-03.md",
+        "title": "3. Perioperative Management",
+        "russian": "3. Периоперационное ведение пациентов"
+      },
+      {
+        "file": "chapter-04.md",
+        "title": "4. Operative Management",
+        "russian": "4. Хирургическое обеспечение операций"
+      },
+      {
+        "file": "chapter-05.md",
+        "title": "5. Surgical Anatomy and Physiology",
+        "russian": "5. Хирургическая анатомия и физиология"
+      },
+      {
+        "file": "chapter-06.md",
+        "title": "6. Pathophysiology, Preoperative Valve Analysis, and Surgical Indications",
+        "russian": "6. Патофизиология, предоперационный анализ клапана и хирургические показания"
+      },
+      {
+        "file": "chapter-07.md",
+        "title": "7. Valve Exposure, Intraoperative Valve Analysis, and Reconstruction",
+        "russian": "7. Доступ к клапану, интраоперационный анализ и реконструкция"
+      },
+      {
+        "file": "chapter-08.md",
+        "title": "8. Techniques in Type I Dysfunction",
+        "russian": "8. Методики при дисфункции I типа"
+      },
+      {
+        "file": "chapter-09.md",
+        "title": "9. Extensive Annular Calcification and Abscesses",
+        "russian": "9. Выраженный кальциноз кольца и абсцессы"
+      }
+    ],
+    "appendices": []
+  }
+]

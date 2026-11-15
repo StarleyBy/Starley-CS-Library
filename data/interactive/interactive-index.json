@@ -42,6 +42,12 @@
         "manifest": "books/work/examen/quiz/quiz-seats2.json",
         "questionId": 169,
         "defaultParams": "embed=1&lang=ru&show=baseline,early-inf,optimal"
+      },
+      {
+        "type": "quiz",
+        "manifest": "books/work/examen/quiz/quiz-2020.json",
+        "questionId": 127,
+        "defaultParams": "embed=1&lang=ru&show=baseline,early-inf,optimal"
       }
     ]
   }
