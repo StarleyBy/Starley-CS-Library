@@ -104,3 +104,352 @@ Comprehensive decision algorithm for neuromonitoring and intraoperative manageme
 - Kirklin/Barratt-Boyes Cardiac Surgery (5th ed., Ch. 2)
 - Cohn: Cardiac Surgery in the Adult (5th ed., Ch. 15)
 - Operative Cardiac Surgery (Spray, 6th ed., Ch. 3)
+
+
+## Section 3. Valvular Surgery: Mitral Valve Reconstruction
+
+### 3.1 Mitral Valve Reconstruction: Carpentier's Pathophysiological Triad & Functional Approach Algorithm
+
+Comprehensive surgical and clinical decision algorithm based strictly on Alain Carpentier's landmark textbook *“Carpentier's Reconstructive Valve Surgery: From Valve Analysis to Valve Reconstruction”* (Alain Carpentier, David H. Adams, Farzan Filsoufi; Chapters 2, 5, 7, 8, 9, 10).
+
+#### Graphic Algorithm
+<svg class="scheme-svg" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1160 1040" style="width:100%; max-width:1160px; height:auto; display:block; margin:16px auto; font-family:-apple-system,BlinkMacSystemFont,'Segoe UI',Roboto,Helvetica,Arial,sans-serif; background:#ffffff; border:1px solid #cbd5e1; border-radius:12px; box-shadow:0 4px 16px rgba(15,23,42,0.08);">
+  <defs>
+    <filter id="card-sh-mvr-en" x="-3%" y="-2%" width="106%" height="106%">
+      <feDropShadow dx="0" dy="2" stdDeviation="3" flood-opacity="0.06"/>
+    </filter>
+    <linearGradient id="hdr-grad-mvr-en" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" stop-color="#0f172a"/>
+      <stop offset="100%" stop-color="#1e293b"/>
+    </linearGradient>
+  </defs>
+
+  <!-- HEADER -->
+  <rect x="0" y="0" width="1160" height="66" rx="12" fill="url(#hdr-grad-mvr-en)"/>
+  <rect x="0" y="46" width="1160" height="20" fill="#0f172a"/>
+  <text x="580" y="27" text-anchor="middle" fill="#f8fafc" font-size="16" font-weight="700" letter-spacing="0.4">CARPENTIER’S MITRAL VALVE RECONSTRUCTION: SYSTEMATIC FUNCTIONAL ALGORITHM</text>
+  <text x="580" y="49" text-anchor="middle" fill="#94a3b8" font-size="11.5" font-weight="500">Alain Carpentier's Reconstructive Valve Surgery (Ch. 2, 7, 8, 10) • Pathophysiological Triad • "One Lesion, One Technique"</text>
+
+  <!-- SECTION I TITLE -->
+  <rect x="20" y="78" width="1120" height="24" rx="4" fill="#e2e8f0"/>
+  <text x="32" y="94" fill="#1e293b" font-size="11.5" font-weight="700" letter-spacing="0.3">I. INTRAOPERATIVE VALVE ANALYSIS &amp; THE GUIDING THREAD (FIL D'ARIANE)</text>
+
+  <!-- CARD 1: Exposure -->
+  <g transform="translate(20, 110)" filter="url(#card-sh-mvr-en)">
+    <rect width="265" height="135" rx="8" fill="#f8fafc" stroke="#3b82f6" stroke-width="1.4"/>
+    <rect width="265" height="26" rx="8" fill="#dbeafe"/>
+    <rect y="16" width="265" height="10" fill="#dbeafe"/>
+    <text x="12" y="18" fill="#1e40af" font-size="11" font-weight="700">1. Exposure &amp; Access</text>
+    <text x="12" y="42" fill="#334155" font-size="10.5">• <tspan font-weight="700">Interatrial Groove Approach:</tspan> dissection</text>
+    <text x="12" y="56" fill="#334155" font-size="10">  along Waterston's groove to fossa ovalis</text>
+    <text x="12" y="72" fill="#334155" font-size="10.5">• <tspan font-weight="700">Incision Extensions:</tspan> 1 cm from SVC and</text>
+    <text x="12" y="86" fill="#334155" font-size="10">  between right inferior PV and IVC</text>
+    <text x="12" y="102" fill="#334155" font-size="10.5">• <tspan font-weight="700">Sternal Retraction:</tspan> self-retaining upper,</text>
+    <text x="12" y="116" fill="#334155" font-size="10">  lower, and lateral blades; LA vent in place</text>
+  </g>
+
+  <!-- CARD 2: Reference Point P1 -->
+  <g transform="translate(305, 110)" filter="url(#card-sh-mvr-en)">
+    <rect width="265" height="135" rx="8" fill="#f8fafc" stroke="#0284c7" stroke-width="1.4"/>
+    <rect width="265" height="26" rx="8" fill="#e0f2fe"/>
+    <rect y="16" width="265" height="10" fill="#e0f2fe"/>
+    <text x="12" y="18" fill="#0369a1" font-size="11" font-weight="700">2. Reference Point: P1 Segment</text>
+    <text x="12" y="42" fill="#334155" font-size="10.5">• <tspan font-weight="700">P1 as Primary Reference:</tspan> least likely</text>
+    <text x="12" y="56" fill="#334155" font-size="10">  segment to exhibit abnormal leaflet motion</text>
+    <text x="12" y="72" fill="#334155" font-size="10.5">• <tspan font-weight="700">Dual Nerve Hook Traction Test:</tspan></text>
+    <text x="12" y="86" fill="#334155" font-size="10">  verify free edge does NOT override annulus</text>
+    <text x="12" y="100" fill="#334155" font-size="10">  and is not restricted by short chordae</text>
+    <text x="12" y="116" fill="#0369a1" font-size="10" font-weight="600">If P1 diseased: choose another normal segment</text>
+  </g>
+
+  <!-- CARD 3: Clockwise Segmental Analysis -->
+  <g transform="translate(590, 110)" filter="url(#card-sh-mvr-en)">
+    <rect width="265" height="135" rx="8" fill="#f8fafc" stroke="#059669" stroke-width="1.4"/>
+    <rect width="265" height="26" rx="8" fill="#d1fae5"/>
+    <rect y="16" width="265" height="10" fill="#d1fae5"/>
+    <text x="12" y="18" fill="#065f46" font-size="11" font-weight="700">3. Clockwise Analysis ("Fil d'Ariane")</text>
+    <text x="12" y="42" fill="#334155" font-size="10.5">• <tspan font-weight="700">Sequential Clockwise Progression:</tspan></text>
+    <text x="12" y="56" fill="#065f46" font-size="10" font-weight="600">  P1 &rarr; P2 &rarr; P3 &rarr; AC &rarr; A3 &rarr; A2 &rarr; A1 &rarr; PC</text>
+    <text x="12" y="72" fill="#334155" font-size="10.5">• <tspan font-weight="700">Tissue Motion Interrogation:</tspan> each leaflet</text>
+    <text x="12" y="86" fill="#334155" font-size="10">  segment compared directly against P1 height</text>
+    <text x="12" y="102" fill="#334155" font-size="10.5">• <tspan font-weight="700">Jet Lesion Identification:</tspan> jet lesion in LA</text>
+    <text x="12" y="116" fill="#334155" font-size="10">  sits opposite prolapse or adjacent to restriction</text>
+  </g>
+
+  <!-- CARD 4: Annulus & Subvalvular -->
+  <g transform="translate(875, 110)" filter="url(#card-sh-mvr-en)">
+    <rect width="265" height="135" rx="8" fill="#f8fafc" stroke="#d97706" stroke-width="1.4"/>
+    <rect width="265" height="26" rx="8" fill="#fef3c7"/>
+    <rect y="16" width="265" height="10" fill="#fef3c7"/>
+    <text x="12" y="18" fill="#92400e" font-size="11" font-weight="700">4. Annulus &amp; Subvalvular Apparatus</text>
+    <text x="12" y="42" fill="#334155" font-size="10.5">• <tspan font-weight="700">Annulus Evaluation:</tspan> dilatation severity,</text>
+    <text x="12" y="56" fill="#334155" font-size="10">  asymmetry, and calcific bars/abscesses</text>
+    <text x="12" y="72" fill="#334155" font-size="10.5">• <tspan font-weight="700">Papillary Muscle Exposure:</tspan> traction</text>
+    <text x="12" y="86" fill="#334155" font-size="10">  on anterior chordae + retractor in P3</text>
+    <text x="12" y="102" fill="#334155" font-size="10.5">• <tspan font-weight="700">Muscle Clamping:</tspan> Rezzano forceps &amp; clamp</text>
+    <text x="12" y="116" fill="#334155" font-size="10">  lateral to fibers, avoiding muscle base</text>
+  </g>
+
+  <!-- SECTION II TITLE -->
+  <rect x="20" y="255" width="1120" height="24" rx="4" fill="#e2e8f0"/>
+  <text x="32" y="271" fill="#1e293b" font-size="11.5" font-weight="700" letter-spacing="0.3">II. CARPENTIER’S FUNCTIONAL CLASSIFICATION (RELATIVE TO ANNULAR PLANE)</text>
+
+  <!-- COL 1: TYPE I -->
+  <g transform="translate(20, 287)" filter="url(#card-sh-mvr-en)">
+    <rect width="265" height="145" rx="8" fill="#f0fdf4" stroke="#16a34a" stroke-width="1.4"/>
+    <rect width="265" height="26" rx="8" fill="#dcfce7"/>
+    <rect y="16" width="265" height="10" fill="#dcfce7"/>
+    <text x="12" y="18" fill="#14532d" font-size="11" font-weight="700">TYPE I: Normal Leaflet Motion</text>
+    <text x="12" y="42" fill="#14532d" font-size="10" font-weight="700">FREE EDGE POSITION IN SYSTOLE:</text>
+    <text x="12" y="56" fill="#334155" font-size="10">• Free edge remains at the annular plane level</text>
+    <text x="12" y="70" fill="#334155" font-size="10">• Leaflet excursion amplitude is normal</text>
+    <line x1="10" y1="78" x2="255" y2="78" stroke="#bbf7d0" stroke-width="1"/>
+    <text x="12" y="94" fill="#15803d" font-size="10" font-weight="700">MORPHOLOGICAL LESIONS:</text>
+    <text x="12" y="108" fill="#334155" font-size="9.8">• <tspan font-weight="600">Annular dilatation</tspan> (loss of coaptation)</text>
+    <text x="12" y="122" fill="#334155" font-size="9.8">• <tspan font-weight="600">Leaflet perforation or tear</tspan> (endocarditis)</text>
+    <text x="12" y="136" fill="#166534" font-size="9.5" font-weight="600">Hemodynamics: pure central regurgitation (MR)</text>
+  </g>
+
+  <!-- COL 2: TYPE II -->
+  <g transform="translate(305, 287)" filter="url(#card-sh-mvr-en)">
+    <rect width="265" height="145" rx="8" fill="#fefce8" stroke="#ca8a04" stroke-width="1.4"/>
+    <rect width="265" height="26" rx="8" fill="#fef08a"/>
+    <rect y="16" width="265" height="10" fill="#fef08a"/>
+    <text x="12" y="18" fill="#854d0e" font-size="11" font-weight="700">TYPE II: Excess Motion (Prolapse)</text>
+    <text x="12" y="42" fill="#713f12" font-size="10" font-weight="700">FREE EDGE POSITION IN SYSTOLE:</text>
+    <text x="12" y="56" fill="#334155" font-size="10">• Free edge <tspan font-weight="700" fill="#b45309">overrides annular plane</tspan> into LA</text>
+    <text x="12" y="70" fill="#334155" font-size="9.8">• <tspan font-weight="600">Differential:</tspan> distinguish from Barlow billowing!</text>
+    <line x1="10" y1="78" x2="255" y2="78" stroke="#fde047" stroke-width="1"/>
+    <text x="12" y="94" fill="#854d0e" font-size="10" font-weight="700">MORPHOLOGICAL LESIONS:</text>
+    <text x="12" y="108" fill="#334155" font-size="9.8">• <tspan font-weight="600">Chordal rupture</tspan> (flail) or chordal elongation</text>
+    <text x="12" y="122" fill="#334155" font-size="9.8">• <tspan font-weight="600">Papillary muscle rupture</tspan> or elongation</text>
+    <text x="12" y="136" fill="#854d0e" font-size="9.5" font-weight="600">Hemodynamics: eccentric regurgitation (MR)</text>
+  </g>
+
+  <!-- COL 3: TYPE IIIa -->
+  <g transform="translate(590, 287)" filter="url(#card-sh-mvr-en)">
+    <rect width="265" height="145" rx="8" fill="#fff1f2" stroke="#e11d48" stroke-width="1.4"/>
+    <rect width="265" height="26" rx="8" fill="#ffe4e6"/>
+    <rect y="16" width="265" height="10" fill="#ffe4e6"/>
+    <text x="12" y="18" fill="#be123c" font-size="11" font-weight="700">TYPE IIIa: Restricted Opening</text>
+    <text x="12" y="42" fill="#881337" font-size="10" font-weight="700">FREE EDGE POSITION IN DIASTOLE:</text>
+    <text x="12" y="56" fill="#334155" font-size="10">• Restricted excursion <tspan font-weight="700" fill="#be123c">during diastole</tspan> (&plusmn; systole)</text>
+    <text x="12" y="70" fill="#334155" font-size="10">• Commissural fusion and leaflet stiffening</text>
+    <line x1="10" y1="78" x2="255" y2="78" stroke="#fecdd3" stroke-width="1"/>
+    <text x="12" y="94" fill="#9f1239" font-size="10" font-weight="700">ETIOLOGY &amp; LESIONS:</text>
+    <text x="12" y="108" fill="#334155" font-size="9.8">• <tspan font-weight="600">Rheumatic disease</tspan>, fibrosis, calcification</text>
+    <text x="12" y="122" fill="#334155" font-size="9.8">• Chordal fusion, thickening, and retraction</text>
+    <text x="12" y="136" fill="#9f1239" font-size="9.5" font-weight="600">Hemodynamics: stenosis (MS) or mixed MS/MR</text>
+  </g>
+
+  <!-- COL 4: TYPE IIIb -->
+  <g transform="translate(875, 287)" filter="url(#card-sh-mvr-en)">
+    <rect width="265" height="145" rx="8" fill="#f5f3ff" stroke="#7c3aed" stroke-width="1.4"/>
+    <rect width="265" height="26" rx="8" fill="#ddd6fe"/>
+    <rect y="16" width="265" height="10" fill="#ddd6fe"/>
+    <text x="12" y="18" fill="#5b21b6" font-size="11" font-weight="700">TYPE IIIb: Restricted Closure</text>
+    <text x="12" y="42" fill="#4c1d95" font-size="10" font-weight="700">FREE EDGE POSITION IN SYSTOLE:</text>
+    <text x="12" y="56" fill="#334155" font-size="10">• Free edge <tspan font-weight="700" fill="#7c3aed">below annular plane in systole</tspan></text>
+    <text x="12" y="70" fill="#334155" font-size="10">• Apical and lateral tethering / tenting</text>
+    <line x1="10" y1="78" x2="255" y2="78" stroke="#c4b5fd" stroke-width="1"/>
+    <text x="12" y="94" fill="#6d28d9" font-size="10" font-weight="700">ETIOLOGY &amp; LESIONS:</text>
+    <text x="12" y="108" fill="#334155" font-size="9.8">• <tspan font-weight="600">Ischemic cardiomyopathy</tspan>, dilated LV</text>
+    <text x="12" y="122" fill="#334155" font-size="9.8">• Displaced posterior papillary muscle (P2/P3)</text>
+    <text x="12" y="136" fill="#5b21b6" font-size="9.5" font-weight="600">Hemodynamics: functional regurgitation (IMR)</text>
+  </g>
+
+  <!-- SECTION III TITLE -->
+  <rect x="20" y="442" width="1120" height="24" rx="4" fill="#e2e8f0"/>
+  <text x="32" y="458" fill="#1e293b" font-size="11.5" font-weight="700" letter-spacing="0.3">III. THE "ONE LESION, ONE TECHNIQUE" RECONSTRUCTIVE ARSENAL</text>
+
+  <!-- COL 1: TECHNIQUES TYPE I -->
+  <g transform="translate(20, 474)" filter="url(#card-sh-mvr-en)">
+    <rect width="265" height="285" rx="8" fill="#ffffff" stroke="#16a34a" stroke-width="1.3"/>
+    <rect width="265" height="26" rx="8" fill="#dcfce7"/>
+    <rect y="16" width="265" height="10" fill="#dcfce7"/>
+    <text x="12" y="18" fill="#14532d" font-size="10.8" font-weight="700">Type I Surgical Techniques</text>
+    <text x="12" y="42" fill="#166534" font-size="10" font-weight="700">1. ANNULAR DILATATION:</text>
+    <text x="12" y="56" fill="#334155" font-size="9.6">• <tspan font-weight="600" fill="#15803d">Remodeling Ring Annuloplasty</tspan></text>
+    <text x="12" y="69" fill="#334155" font-size="9.3">  Carpentier-Edwards Physio or Classic ring</text>
+    <text x="12" y="83" fill="#334155" font-size="9.3">• <tspan font-weight="600">The 2 Golden Relationships:</tspan></text>
+    <text x="12" y="96" fill="#334155" font-size="9">  S(anterior leaflet) = S(posterior leaflet)</text>
+    <text x="12" y="109" fill="#334155" font-size="9">  S(anterior leaflet) = Systolic Orifice Area</text>
+    <text x="12" y="123" fill="#334155" font-size="9.3">• Sizing based on intercommissural distance</text>
+    <text x="12" y="136" fill="#334155" font-size="9.3">  and healthy anterior leaflet surface area</text>
+    <line x1="10" y1="147" x2="255" y2="147" stroke="#e2e8f0" stroke-width="1"/>
+    <text x="12" y="165" fill="#166534" font-size="10" font-weight="700">2. LEAFLET PERFORATION / TEAR:</text>
+    <text x="12" y="181" fill="#334155" font-size="9.6">• Small perforation (&lt; 5 mm):</text>
+    <text x="12" y="195" fill="#334155" font-size="9.3">  Direct primary suture (interrupted Prolene)</text>
+    <text x="12" y="211" fill="#334155" font-size="9.6">• Extensive tissue defect:</text>
+    <text x="12" y="225" fill="#334155" font-size="9.3">  Glutaraldehyde-treated <tspan font-weight="600">autologous</tspan></text>
+    <text x="12" y="238" fill="#334155" font-size="9.3">  <tspan font-weight="600">pericardial patch</tspan> with continuous 5-0 suture</text>
+    <rect x="8" y="250" width="249" height="26" rx="4" fill="#f0fdf4" stroke="#16a34a"/>
+    <text x="132" y="267" text-anchor="middle" fill="#14532d" font-size="9.5" font-weight="700">Remodeling ring mandatory in all cases!</text>
+  </g>
+
+  <!-- COL 2: TECHNIQUES TYPE II - POSTERIOR -->
+  <g transform="translate(305, 474)" filter="url(#card-sh-mvr-en)">
+    <rect width="265" height="285" rx="8" fill="#ffffff" stroke="#ca8a04" stroke-width="1.3"/>
+    <rect width="265" height="26" rx="8" fill="#fef08a"/>
+    <rect y="16" width="265" height="10" fill="#fef08a"/>
+    <text x="12" y="18" fill="#854d0e" font-size="10.8" font-weight="700">Type II: Posterior Leaflet Prolapse</text>
+    <text x="12" y="42" fill="#854d0e" font-size="10" font-weight="700">1. RESECTION TECHNIQUES:</text>
+    <text x="12" y="56" fill="#334155" font-size="9.6">• <tspan font-weight="600" fill="#854d0e">Quadrangular Resection</tspan> (P2 prolapse):</text>
+    <text x="12" y="69" fill="#334155" font-size="9.3">  excision of flail/elongated middle scallop</text>
+    <text x="12" y="83" fill="#334155" font-size="9.6">• <tspan font-weight="600">Annular Plication:</tspan> pledgetted suture</text>
+    <text x="12" y="96" fill="#334155" font-size="9.3">  approximating resected leaflet margins</text>
+    <text x="12" y="110" fill="#334155" font-size="9.6">• <tspan font-weight="600">Triangular Resection:</tspan> limited P1/P3 prolapse</text>
+    <line x1="10" y1="121" x2="255" y2="121" stroke="#e2e8f0" stroke-width="1"/>
+    <text x="12" y="137" fill="#854d0e" font-size="10" font-weight="700">2. EXCESS TISSUE &amp; SAM AVOIDANCE:</text>
+    <text x="12" y="152" fill="#334155" font-size="9.5">• Normal posterior leaflet height: <tspan font-weight="600">10–15 mm</tspan></text>
+    <text x="12" y="166" fill="#b91c1c" font-size="9.5" font-weight="600">• Height &gt; 20 mm &rarr; HIGH RISK OF SAM!</text>
+    <text x="12" y="180" fill="#334155" font-size="9.3">• <tspan font-weight="700" fill="#854d0e">Sliding Plasty (Carpentier):</tspan> incising leaflet</text>
+    <text x="12" y="193" fill="#334155" font-size="9">  from annulus, trimming height, and lateral</text>
+    <text x="12" y="205" fill="#334155" font-size="9">  sliding to reduce posterior height to 12–15 mm</text>
+    <text x="12" y="221" fill="#334155" font-size="9.5">• <tspan font-weight="600">Folding Plasty:</tspan> inverting margin into LV</text>
+    <rect x="8" y="250" width="249" height="26" rx="4" fill="#fefce8" stroke="#ca8a04"/>
+    <text x="132" y="267" text-anchor="middle" fill="#854d0e" font-size="9.5" font-weight="700">Always stabilize with a Physio Ring</text>
+  </g>
+
+  <!-- COL 3: TECHNIQUES TYPE II - ANTERIOR -->
+  <g transform="translate(590, 474)" filter="url(#card-sh-mvr-en)">
+    <rect width="265" height="285" rx="8" fill="#ffffff" stroke="#d97706" stroke-width="1.3"/>
+    <rect width="265" height="26" rx="8" fill="#fef3c7"/>
+    <rect y="16" width="265" height="10" fill="#fef3c7"/>
+    <text x="12" y="18" fill="#92400e" font-size="10.8" font-weight="700">Type II: Anterior Leaflet Prolapse</text>
+    <text x="12" y="42" fill="#92400e" font-size="10" font-weight="700">1. LIMITED PROLAPSE (&lt; 1/4 MARGIN):</text>
+    <text x="12" y="56" fill="#334155" font-size="9.5">• <tspan font-weight="600">Triangular Resection:</tspan> <tspan font-weight="700" fill="#b91c1c">&le; 10% surface area!</tspan></text>
+    <text x="12" y="69" fill="#334155" font-size="9.2">• <tspan font-weight="600">4-mm Rule:</tspan> unsupported margin &le; 4 mm</text>
+    <text x="12" y="82" fill="#334155" font-size="9.2">• Secondary chordae fixation to free margin</text>
+    <line x1="10" y1="92" x2="255" y2="92" stroke="#e2e8f0" stroke-width="1"/>
+    <text x="12" y="108" fill="#92400e" font-size="10" font-weight="700">2. EXTENSIVE PROLAPSE (CHORDAL RUPTURE):</text>
+    <text x="12" y="122" fill="#334155" font-size="9.5">• <tspan font-weight="600" fill="#b45309">Chordal Transposition:</tspan> transfer intact secondary</text>
+    <text x="12" y="135" fill="#334155" font-size="9.2">  anterior or posterior leaflet chordae to free margin</text>
+    <text x="12" y="148" fill="#334155" font-size="9.5">• <tspan font-weight="600" fill="#b45309">Artificial Chordae (PTFE / Gore-Tex):</tspan> 4-0/5-0,</text>
+    <text x="12" y="161" fill="#334155" font-size="9">  calibrated strictly against P1 reference point</text>
+    <line x1="10" y1="172" x2="255" y2="172" stroke="#e2e8f0" stroke-width="1"/>
+    <text x="12" y="188" fill="#92400e" font-size="10" font-weight="700">3. CHORDAL / PAPILLARY ELONGATION:</text>
+    <text x="12" y="202" fill="#334155" font-size="9.3">• Elongation &le; 10 mm: papillary muscle sliding plasty</text>
+    <text x="12" y="215" fill="#334155" font-size="9.3">• Elongation &ge; 10 mm: chordal burial into trench</text>
+    <text x="12" y="228" fill="#334155" font-size="9.3">• <tspan font-weight="600">Papillary muscle rupture:</tspan> reimplantation into</text>
+    <text x="12" y="241" fill="#334155" font-size="9">  myocardial trench with pledgetted mattress sutures</text>
+    <rect x="8" y="250" width="249" height="26" rx="4" fill="#fef3c7" stroke="#d97706"/>
+    <text x="132" y="267" text-anchor="middle" fill="#92400e" font-size="9.5" font-weight="700">Strict prevention of anterior SAM</text>
+  </g>
+
+  <!-- COL 4: TECHNIQUES TYPE IIIa & IIIb -->
+  <g transform="translate(875, 474)" filter="url(#card-sh-mvr-en)">
+    <rect width="265" height="285" rx="8" fill="#ffffff" stroke="#7c3aed" stroke-width="1.3"/>
+    <rect width="265" height="26" rx="8" fill="#ddd6fe"/>
+    <rect y="16" width="265" height="10" fill="#ddd6fe"/>
+    <text x="12" y="18" fill="#5b21b6" font-size="10.8" font-weight="700">Types IIIa &amp; IIIb: Restricted Motion</text>
+    <text x="12" y="42" fill="#be123c" font-size="10" font-weight="700">1. TYPE IIIa (RHEUMATIC / FIBROTIC):</text>
+    <text x="12" y="56" fill="#334155" font-size="9.5">• <tspan font-weight="600">Commissurotomy:</tspan> precise incisional division</text>
+    <text x="12" y="69" fill="#334155" font-size="9.2">  of fused commissures to the true fibrous annulus</text>
+    <text x="12" y="83" fill="#334155" font-size="9.5">• <tspan font-weight="600">Chordal Fenestration:</tspan> longitudinal splitting</text>
+    <text x="12" y="96" fill="#334155" font-size="9.2">• <tspan font-weight="600">Leaflet Shaving &amp; Decalcification</tspan></text>
+    <text x="12" y="109" fill="#334155" font-size="9.2">• <tspan font-weight="600">Ring:</tspan> Carpentier-Edwards Classic rigid ring</text>
+    <line x1="10" y1="121" x2="255" y2="121" stroke="#e2e8f0" stroke-width="1"/>
+    <text x="12" y="137" fill="#6d28d9" font-size="10" font-weight="700">2. TYPE IIIb (ISCHEMIC / IMR):</text>
+    <text x="12" y="152" fill="#334155" font-size="9.5">• <tspan font-weight="700" fill="#6d28d9">Carpentier-McCarthy-Adams IMR Ring:</tspan></text>
+    <text x="12" y="166" fill="#334155" font-size="9.2">  rigid titanium, asymmetric P2/P3 contour,</text>
+    <text x="12" y="179" fill="#334155" font-size="9.2">  reduced anteroposterior diameter</text>
+    <text x="12" y="193" fill="#334155" font-size="9.5">• <tspan font-weight="600">Undersizing:</tspan> reduce by 1–2 sizes to enforce</text>
+    <text x="12" y="206" fill="#334155" font-size="9.2">  systolic leaflet coaptation across tethered gap</text>
+    <text x="12" y="220" fill="#334155" font-size="9.5">• <tspan font-weight="600">Secondary Chordal Cutting:</tspan> relieves tenting</text>
+    <text x="12" y="233" fill="#334155" font-size="9">  and abolishes anterior leaflet seagull deformity</text>
+    <rect x="8" y="250" width="249" height="26" rx="4" fill="#f5f3ff" stroke="#7c3aed"/>
+    <text x="132" y="267" text-anchor="middle" fill="#5b21b6" font-size="9.5" font-weight="700">Goal: restore coaptation depth &gt; 8 mm</text>
+  </g>
+
+  <!-- SECTION IV TITLE -->
+  <rect x="20" y="769" width="1120" height="24" rx="4" fill="#e2e8f0"/>
+  <text x="32" y="785" fill="#1e293b" font-size="11.5" font-weight="700" letter-spacing="0.3">IV. CARPENTIER’S 3 RECONSTRUCTIVE DOGMAS &amp; QUALITY CONTROL</text>
+
+  <!-- BOTTOM CARD 1: 3 DOGMAS -->
+  <g transform="translate(20, 801)" filter="url(#card-sh-mvr-en)">
+    <rect width="360" height="220" rx="8" fill="#f8fafc" stroke="#0f172a" stroke-width="1.4"/>
+    <rect width="360" height="26" rx="8" fill="#0f172a"/>
+    <text x="14" y="18" fill="#f8fafc" font-size="11" font-weight="700">The 3 Reconstructive Dogmas</text>
+    <text x="14" y="44" fill="#0f172a" font-size="10.5" font-weight="700">1. PRESERVE OR RESTORE NORMAL MOTION:</text>
+    <text x="14" y="58" fill="#334155" font-size="10">  Eliminate prolapse or restriction on every segment;</text>
+    <text x="14" y="72" fill="#334155" font-size="10">  maintain tissue pliability without scarring.</text>
+    <text x="14" y="94" fill="#0f172a" font-size="10.5" font-weight="700">2. CREATE A LARGE SURFACE OF COAPTATION:</text>
+    <text x="14" y="108" fill="#334155" font-size="10">  Coaptation height &ge; 5–8 mm; closure line positioned</text>
+    <text x="14" y="122" fill="#334155" font-size="10">  strictly in the posterior third of the valve orifice.</text>
+    <text x="14" y="144" fill="#0f172a" font-size="10.5" font-weight="700">3. REMODEL AND STABILIZE THE ANNULUS:</text>
+    <text x="14" y="158" fill="#334155" font-size="10">  Prosthetic ring prevents late redilatation, restores</text>
+    <text x="14" y="172" fill="#334155" font-size="10">  systolic geometry, and offloads suture stress.</text>
+    <rect x="12" y="184" width="336" height="26" rx="4" fill="#e2e8f0"/>
+    <text x="180" y="201" text-anchor="middle" fill="#0f172a" font-size="9.5" font-weight="700">Core Goal: Restore function rather than anatomy</text>
+  </g>
+
+  <!-- BOTTOM CARD 2: RING SIZING -->
+  <g transform="translate(400, 801)" filter="url(#card-sh-mvr-en)">
+    <rect width="360" height="220" rx="8" fill="#f8fafc" stroke="#0284c7" stroke-width="1.4"/>
+    <rect width="360" height="26" rx="8" fill="#0284c7"/>
+    <text x="14" y="18" fill="#ffffff" font-size="11" font-weight="700">Ring Sizing &amp; Model Selection</text>
+    <text x="14" y="44" fill="#0369a1" font-size="10.5" font-weight="700">ANATOMICAL REFERENCE: THE ANTERIOR LEAFLET</text>
+    <text x="14" y="60" fill="#334155" font-size="10">• <tspan font-weight="700">True Commissural Landmark Sutures:</tspan> placed at</text>
+    <text x="14" y="74" fill="#334155" font-size="10">  commissures verified by fanlike chordal insertions</text>
+    <text x="14" y="90" fill="#334155" font-size="10">• <tspan font-weight="700">Dedicated Sizers:</tspan> measure intercommissural distance</text>
+    <text x="14" y="104" fill="#334155" font-size="10">  and match healthy anterior leaflet surface area</text>
+    <text x="14" y="122" fill="#0369a1" font-size="10.5" font-weight="700">RING SELECTION FRAMEWORK:</text>
+    <text x="14" y="138" fill="#334155" font-size="10">• <tspan font-weight="700" fill="#0284c7">Physio Ring:</tspan> Degenerative disease (Barlow, FED);</text>
+    <text x="14" y="152" fill="#334155" font-size="9.6">  preserves 3D saddle shape and A-P flexibility</text>
+    <text x="14" y="168" fill="#334155" font-size="10">• <tspan font-weight="700" fill="#0284c7">Classic Ring:</tspan> Rheumatic disease (rigid titanium)</text>
+    <text x="14" y="184" fill="#334155" font-size="10">• <tspan font-weight="700" fill="#0284c7">IMR Ring:</tspan> Ischemic regurgitation (asymmetric tethering)</text>
+    <text x="14" y="202" fill="#b91c1c" font-size="9.5" font-weight="600">! Never size a ring based on the dilated annulus !</text>
+  </g>
+
+  <!-- BOTTOM CARD 3: SALINE TEST & SAM -->
+  <g transform="translate(780, 801)" filter="url(#card-sh-mvr-en)">
+    <rect width="360" height="220" rx="8" fill="#f8fafc" stroke="#16a34a" stroke-width="1.4"/>
+    <rect width="360" height="26" rx="8" fill="#15803d"/>
+    <text x="14" y="18" fill="#ffffff" font-size="11" font-weight="700">Saline Pressurization &amp; SAM Prevention</text>
+    <text x="14" y="44" fill="#166534" font-size="10.5" font-weight="700">INTRAOPERATIVE PRESSURIZATION TEST:</text>
+    <text x="14" y="60" fill="#334155" font-size="10">• Inject 250 mL cold saline into LV via bulb syringe</text>
+    <text x="14" y="74" fill="#334155" font-size="10">  under continuous aortic root vent drainage</text>
+    <text x="14" y="90" fill="#334155" font-size="10">• <tspan font-weight="700" fill="#15803d">Triad of a Successful Repair:</tspan></text>
+    <text x="14" y="104" fill="#334155" font-size="9.8">  1. Symmetrical coaptation line in posterior third</text>
+    <text x="14" y="118" fill="#334155" font-size="9.8">  2. Coaptation height &ge; 5–8 mm across all scallops</text>
+    <text x="14" y="132" fill="#334155" font-size="9.8">  3. Zero residual regurgitation or edge mismatch</text>
+    <text x="14" y="152" fill="#b91c1c" font-size="10.5" font-weight="700">SAM (SYSTOLIC ANTERIOR MOTION) PREVENTION:</text>
+    <text x="14" y="168" fill="#334155" font-size="9.8">• <tspan font-weight="600">SAM Risk Factors:</tspan> posterior leaflet height &gt; 20 mm,</text>
+    <text x="14" y="182" fill="#334155" font-size="9.5">  undersized ring, septal bulge, hyperdynamic LV</text>
+    <text x="14" y="198" fill="#334155" font-size="9.8">• <tspan font-weight="700" fill="#b91c1c">Preventive Technique:</tspan> Sliding Plasty height reduction</text>
+  </g>
+</svg>
+
+#### Key Algorithm Principles
+
+1. **Carpentier's Pathophysiological Triad:**
+   - **Etiology** (the underlying cause: rheumatic, Barlow's disease, fibroelastic deficiency, ischemia, bacterial endocarditis) dictates medical therapy and long-term prognosis.
+   - **Lesions** (the structural alterations affecting annulus, leaflets, chordae, or papillary muscles) govern the selection of specific surgical techniques (*“one lesion, one technique”*).
+   - **Dysfunction** (the disturbance in leaflet motion relative to the annular plane) directs the overall reconstructive strategy.
+
+2. **Intraoperative Functional Analysis & The "Fil d'Ariane":**
+   - After interatrial groove exposure and installation of the dedicated self-retaining sternal retractor with upper, lower, and lateral blades, the surgeon systematically inspects the left atrium for jet lesions, endocardial thickening, and calcification.
+   - **The Reference Point Method:** Segment P1 is rarely affected by abnormal leaflet motion. Using 2 nerve hooks, P1 is interrogated to confirm normal motion (free margin remains at or slightly below the annular plane and is not tethered). P1 then serves as the guiding reference point (*Fil d'Ariane*) against which all remaining segments are sequentially compared in a clockwise direction (P1 $\rightarrow$ P2 $\rightarrow$ P3 $\rightarrow$ Anterior Commissure $\rightarrow$ A3 $\rightarrow$ A2 $\rightarrow$ A1 $\rightarrow$ Posterior Commissure).
+
+3. **The Functional Classification:**
+   - **Type I (Normal Leaflet Motion):** The free margin remains at the level of the annular plane during systole. Regurgitation results from annular dilatation (loss of coaptation) or leaflet perforation/tear (infective endocarditis).
+   - **Type II (Excess Leaflet Motion / Prolapse):** The free margin overrides the plane of the annulus during systole into the left atrium. Caused by chordal rupture (*flail*), chordal elongation, or papillary muscle rupture/elongation. Must be differentiated from leaflet billowing in Barlow's disease, where excess leaflet tissue expands into the atrium while the free margin remains below the annular plane.
+   - **Type IIIa (Restricted Leaflet Motion in Opening):** Diastolic restriction of leaflet excursion caused by leaflet thickening, commissural fusion, and chordal retraction/fusion (rheumatic heart disease). Results in stenosis or mixed stenosis and regurgitation.
+   - **Type IIIb (Restricted Leaflet Motion in Closure):** Systolic restriction of leaflet excursion caused by ischemic displacement of papillary muscles and left ventricular dilatation (apical and lateral tethering/tenting of P2/P3). Results in ischemic mitral regurgitation.
+
+4. **The "One Lesion, One Technique" Reconstructive Arsenal:**
+   - **Type I:** Remodeling ring annuloplasty (Carpentier-Edwards Physio or Classic ring) sized strictly according to the intercommissural distance and healthy anterior leaflet area, based on the **2 Golden Relationships** ($S_{\text{anterior}} = S_{\text{posterior}}$ and $S_{\text{anterior}} = \text{Systolic Orifice Area}$). Leaflet perforations are closed by direct primary suture ($< 5$ mm) or glutaraldehyde-fixed autologous pericardial patch with continuous 5-0 suture, always supported by a remodeling ring.
+   - **Type II (Posterior Leaflet):** Quadrangular resection of the prolapsing middle scallop (P2) combined with annular plication. When posterior leaflet height exceeds 20 mm, a **sliding plasty** (Carpentier) is mandatory to reduce leaflet height to 12–15 mm and eliminate the risk of systolic anterior motion (SAM).
+   - **Type II (Anterior Leaflet):** Limited prolapse ($< 1/4$ margin) is treated with triangular resection ($\le 10\%$ surface area rule, $\le 4$ mm unsupported edge rule) or secondary chordae fixation. Extensive prolapse is treated with chordal transposition (from posterior leaflet or secondary anterior chordae) or artificial PTFE (Gore-Tex) neochordae calibrated to the P1 reference point. Chordal elongation is treated by papillary muscle sliding plasty ($\le 10$ mm) or chordal trench burial ($\ge 10$ mm). Complete papillary muscle rupture is treated by reimplantation into a ventricular myocardial trench with pledgetted sutures.
+   - **Type IIIa:** Commissurotomy to the true annulus, longitudinal chordal fenestration, leaflet shaving, decalcification, and Carpentier-Edwards Classic rigid ring annuloplasty.
+   - **Type IIIb:** Asymmetric remodeling annuloplasty using the Carpentier-McCarthy-Adams IMR ring undersized by 1–2 sizes to overcome P2/P3 tenting, supplemented by secondary chordal cutting (*seagull sign abolition*) in severe tethering.
+
+5. **The 3 Reconstructive Dogmas & Saline Testing:**
+   - 1) Restore or preserve normal leaflet motion across all scallops; 2) Create a large surface of coaptation ($\ge 5-8$ mm height); 3) Remodel and permanently stabilize the annulus with a prosthetic ring.
+   - Quality verification: pressurized injection of 250 mL cold saline into the left ventricle via bulb syringe under continuous aortic root venting confirms a symmetric coaptation line located in the posterior third of the orifice, coaptation depth of 5–8 mm, and complete absence of residual regurgitation or SAM.
+
+#### Guidelines and Evidence Base
+- Carpentier A., Adams D.H., Filsoufi F. *Carpentier's Reconstructive Valve Surgery: From Valve Analysis to Valve Reconstruction*. Saunders / Elsevier, 2010. Chapters 2, 5, 7, 8, 9, 10.
+- [📋 ESC / EACTS Guidelines on the Management of Valvular Heart Disease](#/tables/guide.vhd)
+- [Carpentier's Reconstructive Valve Surgery (Full Book Text)](file:///d:/IT%20sandbox/Starley-CS-Library/books/cardiac-surgery/carpentier/)

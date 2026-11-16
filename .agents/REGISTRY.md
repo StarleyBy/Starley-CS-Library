@@ -24,6 +24,7 @@
 | L24 | Кодер | local | 1.1 | `.agents/skills/coder/SKILL.md` | Код приложения, поиск, Service Worker, тесты | `tests/run-all.mjs`, `tests/unit/` |
 | L35 | Интеракционист | local | 1.0 | `.agents/skills/interactive-engineer/SKILL.md` | Разработка и интеграция интерактивных схем, симуляторов, врезка HTML в главы и квизы, реестр интерактивных схем | `data/interactive/interactive-index.json`, `tools/list-interactive.mjs`, `sw.js` |
 | L36 | Критик-перфекционист | local | 1.0 | `.agents/skills/critic/SKILL.md` | Сквозная продуктовая ревизия: UI/UX, веб-дизайн, чистый Vanilla JS, архитектура, edge cases, PWA, входной челлендж планов, Quality Gate перед сдачей, ежедневный аудит | Все модули приложения, тесты, `tools/preflight.mjs`, `tools/check-sw-shell.mjs` |
+| L37 | Дизайнер | local | 1.0 | `.agents/skills/designer/SKILL.md` | Внешняя графика и прототипирование: обложки книг (Canva), векторные алгоритмы (Figma), интерактивные прототипы (Lovable) | Figma, Canva, Lovable MCP, `.agents/skills/designer/SKILL.md` |
 
 ID соответствуют каталогу из плана агентов (L — локальные, G — глобальные).
 
@@ -38,6 +39,7 @@ ID соответствуют каталогу из плана агентов (L
 
 | Дата | Что изменено |
 |---|---|
+| 2026-11-16 | Добавлен агент «Дизайнер» (L37, v1.0, `.agents/skills/designer/SKILL.md`) — арт-директор и мастер внешней графики/прототипирования: интеграция Canva (обложки cover.jpg, Clinical Pearls), Figma/FigJam (векторные алгоритмы для атласа схем, UI/UX макеты, SVG/CSS) и Lovable (прототипы интерактивных калькуляторов и симуляторов для компиляции в чистый Vanilla JS) |
 | 2026-11-08 | Добавлен агент «Критик-перфекционист» (L36, v1.0, `.agents/skills/critic/SKILL.md`) — ведущий ревизор качества, UI/UX эстет, Senior Architect/Coder/QA и тренд-скаут. Встроены 4 шлюза: входная экспертиза планов задач, обязательный выходной контроль (Quality Gate) перед сдачей владельцу, ежедневный аудит по расписанию и прямой аудит по запросу. Введён четырёхцветный протокол замечаний и процедура арбитража споров на суд владельца-кардиохирурга |
 | 2026-11-06 | Добавлен агент «Интеракционист» (L35, v1.0, `.agents/skills/interactive-engineer/SKILL.md`) — разработка автономных интерактивных схем (HTML5/SVG/Vanilla JS), симуляторов и атласов (`assets/interactive/`), ведение реестра `data/interactive/interactive-index.json`, внедрение во фреймах в главы (`#### 🎛️ ...`) и квизы. Создан инструмент `tools/list-interactive.mjs` (--validate вшит в `preflight.mjs`) |
 | 2026-11-04 | Добавлен агент «Схематист» (L08, v1.0, `.agents/skills/schematist/SKILL.md`) — синтез клинических схем, деревьев решений, алгоритмов и ведение книги-атласа `books/summary/algorithms/`. Создан атлас алгоритмов, сгенерирована обложка `cover.jpg` |

@@ -64,6 +64,91 @@
         "file": "chapter-09.md",
         "title": "9. Extensive Annular Calcification and Abscesses",
         "russian": "9. Выраженный кальциноз кольца и абсцессы"
+      },
+      {
+        "file": "chapter-10.md",
+        "title": "10. Techniques in Type II Anterior Leaflet Prolapse",
+        "russian": "10. Методики при дисфункции II типа: пролапс передней створки"
+      },
+      {
+        "file": "chapter-11.md",
+        "title": "11. Techniques in Type II Posterior Leaflet Prolapse",
+        "russian": "11. Методики при дисфункции II типа: пролапс задней створки"
+      },
+      {
+        "file": "chapter-12.md",
+        "title": "12. Techniques in Type II Commissural and Bileaflet Prolapse",
+        "russian": "12. Методики при дисфункции II типа: комиссуральный и двухстворчатый пролапс"
+      },
+      {
+        "file": "chapter-13.md",
+        "title": "13. Techniques in Type IIIa: Diastolic Restricted Leaflet Motion",
+        "russian": "13. Методики при дисфункции IIIa типа: диастолическое ограничение подвижности створок"
+      },
+      {
+        "file": "chapter-14.md",
+        "title": "14. Techniques in Type IIIb: Systolic Restricted Leaflet Motion",
+        "russian": "14. Методики при дисфункции IIIb типа: систолическое ограничение подвижности створок"
+      },
+      {
+        "file": "chapter-15.md",
+        "title": "15. Techniques in Systolic Anterior Leaflet Motion (SAM)",
+        "russian": "15. Методики при систолическом смещении передней створки (SAM-синдром)"
+      },
+      {
+        "file": "chapter-16.md",
+        "title": "16. Adjunct Left Atrial Procedures",
+        "russian": "16. Дополнительные вмешательства на левом предсердии"
+      },
+      {
+        "file": "chapter-17.md",
+        "title": "17. Surgical Anatomy and Physiology",
+        "russian": "17. Хирургическая анатомия и физиология"
+      },
+      {
+        "file": "chapter-18.md",
+        "title": "18. Pathophysiology, Valve Analysis, and Surgical Indications",
+        "russian": "18. Патофизиология, анализ клапана и хирургические показания"
+      },
+      {
+        "file": "chapter-19.md",
+        "title": "19. Reconstructive Techniques",
+        "russian": "19. Методики реконструкции"
+      },
+      {
+        "file": "chapter-20.md",
+        "title": "20. Surgical Anatomy and Physiology",
+        "russian": "20. Хирургическая анатомия и физиология"
+      },
+      {
+        "file": "chapter-21.md",
+        "title": "21. Pathophysiology, Valve Analysis, and Surgical Indications",
+        "russian": "21. Патофизиология, анализ клапана и хирургические показания"
+      },
+      {
+        "file": "chapter-22.md",
+        "title": "22. Reconstructive Techniques",
+        "russian": "22. Методики реконструкции"
+      },
+      {
+        "file": "chapter-23.md",
+        "title": "23. Mitral Valve Malformations",
+        "russian": "23. Врожденные аномалии митрального клапана"
+      },
+      {
+        "file": "chapter-24.md",
+        "title": "24. Tricuspid Valve Malformations: Ebstein's Anomaly",
+        "russian": "24. Аномалии трикуспидального клапана: аномалия Эбштейна"
+      },
+      {
+        "file": "chapter-25.md",
+        "title": "25. Rheumatic Valvular Disease",
+        "russian": "25. Ревматические пороки клапанов"
+      },
+      {
+        "file": "chapter-26.md",
+        "title": "26. Degenerative Mitral Valve Disease: Barlow's Disease and Fibroelastic Deficiency",
+        "russian": "26. Дегенеративные заболевания митрального клапана: болезнь Барлоу и фиброэластическая недостаточность"
       }
     ],
     "appendices": []

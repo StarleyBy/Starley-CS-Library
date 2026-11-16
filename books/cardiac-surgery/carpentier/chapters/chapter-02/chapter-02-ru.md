@@ -345,3 +345,336 @@
 </div></details>
 
 </div></details>
+
+<details class="med-details"><summary>
+
+## КЛИНИЧЕСКИЙ АЛГОРИТМ ГЛАВЫ</summary><div class="details-content">
+
+### Функциональный алгоритм реконструкции митрального клапана по Карпантье
+
+На основе фундаментальных принципов настоящей главы, а также глав 5, 7, 8 и 10, сформирован систематизированный пошаговый алгоритм клапанного анализа и выбора хирургических методик:
+
+<svg class="scheme-svg" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1160 1040" style="width:100%; max-width:1160px; height:auto; display:block; margin:16px auto; font-family:-apple-system,BlinkMacSystemFont,'Segoe UI',Roboto,Helvetica,Arial,sans-serif; background:#ffffff; border:1px solid #cbd5e1; border-radius:12px; box-shadow:0 4px 16px rgba(15,23,42,0.08);">
+  <defs>
+    <filter id="card-shadow-mvr-ch2" x="-3%" y="-2%" width="106%" height="106%">
+      <feDropShadow dx="0" dy="2" stdDeviation="3" flood-opacity="0.06"/>
+    </filter>
+    <linearGradient id="hdr-grad-mvr-ch2" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" stop-color="#0f172a"/>
+      <stop offset="100%" stop-color="#1e293b"/>
+    </linearGradient>
+  </defs>
+
+  <!-- HEADER -->
+  <rect x="0" y="0" width="1160" height="66" rx="12" fill="url(#hdr-grad-mvr-ch2)"/>
+  <rect x="0" y="46" width="1160" height="20" fill="#0f172a"/>
+  <text x="580" y="27" text-anchor="middle" fill="#f8fafc" font-size="16" font-weight="700" letter-spacing="0.4">РЕКОНСТРУКЦИЯ МИТРАЛЬНОГО КЛАПАНА: СИСТЕМНЫЙ ФУНКЦИОНАЛЬНЫЙ АЛГОРИТМ КАРПАНТЬЕ</text>
+  <text x="580" y="49" text-anchor="middle" fill="#94a3b8" font-size="11.5" font-weight="500">Alain Carpentier's Reconstructive Valve Surgery (Ch. 2, 7, 8, 10) • Патофизиологическая триада • Принцип «Одно повреждение — одна методика»</text>
+
+  <!-- SECTION I TITLE -->
+  <rect x="20" y="78" width="1120" height="24" rx="4" fill="#e2e8f0"/>
+  <text x="32" y="94" fill="#1e293b" font-size="11.5" font-weight="700" letter-spacing="0.3">I. ИНТРАОПЕРАЦИОННЫЙ АНАЛИЗ И «НИТЬ АРИАДНЫ» (FIL D'ARIANE)</text>
+
+  <!-- CARD 1: Доступ и экспозиция -->
+  <g transform="translate(20, 110)" filter="url(#card-shadow-mvr-ch2)">
+    <rect width="265" height="135" rx="8" fill="#f8fafc" stroke="#3b82f6" stroke-width="1.4"/>
+    <rect width="265" height="26" rx="8" fill="#dbeafe"/>
+    <rect y="16" width="265" height="10" fill="#dbeafe"/>
+    <text x="12" y="18" fill="#1e40af" font-size="11" font-weight="700">1. Доступ и экспозиция клапана</text>
+    <text x="12" y="42" fill="#334155" font-size="10.5">• <tspan font-weight="700">Межпредсердный доступ:</tspan> борозда</text>
+    <text x="12" y="56" fill="#334155" font-size="10">  Ватерстоуна-Сондергарда к fossa ovalis</text>
+    <text x="12" y="72" fill="#334155" font-size="10.5">• <tspan font-weight="700">Расширение разреза:</tspan> 1 см от ВПВ</text>
+    <text x="12" y="86" fill="#334155" font-size="10">  и между правой нижней ЛВ и НПВ</text>
+    <text x="12" y="102" fill="#334155" font-size="10.5">• <tspan font-weight="700">Реечный ранорасширитель:</tspan> верхнее,</text>
+    <text x="12" y="116" fill="#334155" font-size="10">  нижнее и боковое зеркала (ЛП-дренаж)</text>
+  </g>
+
+  <!-- CARD 2: Метод точки отсчета -->
+  <g transform="translate(305, 110)" filter="url(#card-shadow-mvr-ch2)">
+    <rect width="265" height="135" rx="8" fill="#f8fafc" stroke="#0284c7" stroke-width="1.4"/>
+    <rect width="265" height="26" rx="8" fill="#e0f2fe"/>
+    <rect y="16" width="265" height="10" fill="#e0f2fe"/>
+    <text x="12" y="18" fill="#0369a1" font-size="11" font-weight="700">2. Точка отсчета: Сегмент P1</text>
+    <text x="12" y="42" fill="#334155" font-size="10.5">• <tspan font-weight="700">P1 — эталонный сегмент:</tspan> наиболее</text>
+    <text x="12" y="56" fill="#334155" font-size="10">  редко поражается патологией движения</text>
+    <text x="12" y="72" fill="#334155" font-size="10.5">• <tspan font-weight="700">Тест тракции 2 нервными крючками:</tspan></text>
+    <text x="12" y="86" fill="#334155" font-size="10">  подтвердить: край P1 НЕ выходит за кольцо</text>
+    <text x="12" y="100" fill="#334155" font-size="10">  и не подтянут короткими хордами (tethered)</text>
+    <text x="12" y="116" fill="#0369a1" font-size="10" font-weight="600">Если P1 поражен: выбрать иной интактный</text>
+  </g>
+
+  <!-- CARD 3: Пошаговый анализ створок -->
+  <g transform="translate(590, 110)" filter="url(#card-shadow-mvr-ch2)">
+    <rect width="265" height="135" rx="8" fill="#f8fafc" stroke="#059669" stroke-width="1.4"/>
+    <rect width="265" height="26" rx="8" fill="#d1fae5"/>
+    <rect y="16" width="265" height="10" fill="#d1fae5"/>
+    <text x="12" y="18" fill="#065f46" font-size="11" font-weight="700">3. Анализ по сегментам (Fil d'Ariane)</text>
+    <text x="12" y="42" fill="#334155" font-size="10.5">• <tspan font-weight="700">Ход по часовой стрелке:</tspan></text>
+    <text x="12" y="56" fill="#065f46" font-size="10" font-weight="600">  P1 &rarr; P2 &rarr; P3 &rarr; ПК &rarr; A3 &rarr; A2 &rarr; A1 &rarr; ЗК</text>
+    <text x="12" y="72" fill="#334155" font-size="10.5">• <tspan font-weight="700">Оценка подвижности ткани:</tspan> каждый</text>
+    <text x="12" y="86" fill="#334155" font-size="10">  сегмент сравнивается по высоте с P1</text>
+    <text x="12" y="102" fill="#334155" font-size="10.5">• <tspan font-weight="700">Осмотр жетовых повреждений:</tspan> jet lesion</text>
+    <text x="12" y="116" fill="#334155" font-size="10">  напротив пролапса или со стороны рестрикции</text>
+  </g>
+
+  <!-- CARD 4: Подклапанный аппарат -->
+  <g transform="translate(875, 110)" filter="url(#card-shadow-mvr-ch2)">
+    <rect width="265" height="135" rx="8" fill="#f8fafc" stroke="#d97706" stroke-width="1.4"/>
+    <rect width="265" height="26" rx="8" fill="#fef3c7"/>
+    <rect y="16" width="265" height="10" fill="#fef3c7"/>
+    <text x="12" y="18" fill="#92400e" font-size="11" font-weight="700">4. Кольцо и подклапанный аппарат</text>
+    <text x="12" y="42" fill="#334155" font-size="10.5">• <tspan font-weight="700">Анализ фиброзного кольца:</tspan> дилатация,</text>
+    <text x="12" y="56" fill="#334155" font-size="10">  симметрия деформации, кальциноз</text>
+    <text x="12" y="72" fill="#334155" font-size="10.5">• <tspan font-weight="700">Экспозиция папиллярных мышц:</tspan></text>
+    <text x="12" y="86" fill="#334155" font-size="10">  тракция хорд передней створки + крючок в P3</text>
+    <text x="12" y="102" fill="#334155" font-size="10.5">• <tspan font-weight="700">Зажим папиллярных мышц:</tspan> щипцы Rezzano</text>
+    <text x="12" y="116" fill="#334155" font-size="10">  латеральнее волокон, без сдавления основания</text>
+  </g>
+
+  <!-- SECTION II TITLE -->
+  <rect x="20" y="255" width="1120" height="24" rx="4" fill="#e2e8f0"/>
+  <text x="32" y="271" fill="#1e293b" font-size="11.5" font-weight="700" letter-spacing="0.3">II. ФУНКЦИОНАЛЬНАЯ КЛАССИФИКАЦИЯ КАРПАНТЬЕ (ОТНОСИТЕЛЬНО ПЛОСКОСТИ КОЛЬЦА)</text>
+
+  <!-- COL 1: TYPE I -->
+  <g transform="translate(20, 287)" filter="url(#card-shadow-mvr-ch2)">
+    <rect width="265" height="145" rx="8" fill="#f0fdf4" stroke="#16a34a" stroke-width="1.4"/>
+    <rect width="265" height="26" rx="8" fill="#dcfce7"/>
+    <rect y="16" width="265" height="10" fill="#dcfce7"/>
+    <text x="12" y="18" fill="#14532d" font-size="11" font-weight="700">ТИП I: Нормальная подвижность</text>
+    <text x="12" y="42" fill="#14532d" font-size="10" font-weight="700">ПОЛОЖЕНИЕ СВОБОДНОГО КРАЯ:</text>
+    <text x="12" y="56" fill="#334155" font-size="10">• Свободный край на уровне плоскости кольца</text>
+    <text x="12" y="70" fill="#334155" font-size="10">• Амплитуда движения створок нормальная</text>
+    <line x1="10" y1="78" x2="255" y2="78" stroke="#bbf7d0" stroke-width="1"/>
+    <text x="12" y="94" fill="#15803d" font-size="10" font-weight="700">МОРФОЛОГИЧЕСКИЕ ПОВРЕЖДЕНИЯ:</text>
+    <text x="12" y="108" fill="#334155" font-size="9.8">• <tspan font-weight="600">Дилатация кольца</tspan> (потеря коаптации)</text>
+    <text x="12" y="122" fill="#334155" font-size="9.8">• <tspan font-weight="600">Перфорация / разрыв створки</tspan> (эндокардит)</text>
+    <text x="12" y="136" fill="#166534" font-size="9.5" font-weight="600">Гемодинамика: чистая регургитация (MR)</text>
+  </g>
+
+  <!-- COL 2: TYPE II -->
+  <g transform="translate(305, 287)" filter="url(#card-shadow-mvr-ch2)">
+    <rect width="265" height="145" rx="8" fill="#fefce8" stroke="#ca8a04" stroke-width="1.4"/>
+    <rect width="265" height="26" rx="8" fill="#fef08a"/>
+    <rect y="16" width="265" height="10" fill="#fef08a"/>
+    <text x="12" y="18" fill="#854d0e" font-size="11" font-weight="700">ТИП II: Избыточная (Пролапс)</text>
+    <text x="12" y="42" fill="#713f12" font-size="10" font-weight="700">ПОЛОЖЕНИЕ СВОБОДНОГО КРАЯ:</text>
+    <text x="12" y="56" fill="#334155" font-size="10">• Свободный край <tspan font-weight="700" fill="#b45309">выше плоскости кольца</tspan></text>
+    <text x="12" y="70" fill="#334155" font-size="9.8">• <tspan font-weight="600">Диагностика:</tspan> отличить от billowing Барлоу!</text>
+    <line x1="10" y1="78" x2="255" y2="78" stroke="#fde047" stroke-width="1"/>
+    <text x="12" y="94" fill="#854d0e" font-size="10" font-weight="700">МОРФОЛОГИЧЕСКИЕ ПОВРЕЖДЕНИЯ:</text>
+    <text x="12" y="108" fill="#334155" font-size="9.8">• <tspan font-weight="600">Разрыв хорд</tspan> (flail) / удлинение хорд</text>
+    <text x="12" y="122" fill="#334155" font-size="9.8">• <tspan font-weight="600">Разрыв / элонгация папиллярных мышц</tspan></text>
+    <text x="12" y="136" fill="#854d0e" font-size="9.5" font-weight="600">Гемодинамика: эксцентрическая регургитация</text>
+  </g>
+
+  <!-- COL 3: TYPE IIIa -->
+  <g transform="translate(590, 287)" filter="url(#card-shadow-mvr-ch2)">
+    <rect width="265" height="145" rx="8" fill="#fff1f2" stroke="#e11d48" stroke-width="1.4"/>
+    <rect width="265" height="26" rx="8" fill="#ffe4e6"/>
+    <rect y="16" width="265" height="10" fill="#ffe4e6"/>
+    <text x="12" y="18" fill="#be123c" font-size="11" font-weight="700">ТИП IIIa: Рестрикция открытия</text>
+    <text x="12" y="42" fill="#881337" font-size="10" font-weight="700">ПОЛОЖЕНИЕ СВОБОДНОГО КРАЯ:</text>
+    <text x="12" y="56" fill="#334155" font-size="10">• Ограничение экскурсии <tspan font-weight="700" fill="#be123c">в диастолу</tspan> (&plusmn; систолу)</text>
+    <text x="12" y="70" fill="#334155" font-size="10">• Сращение комиссур, утолщение ткани</text>
+    <line x1="10" y1="78" x2="255" y2="78" stroke="#fecdd3" stroke-width="1"/>
+    <text x="12" y="94" fill="#9f1239" font-size="10" font-weight="700">ЭТИОЛОГИЯ И ПОВРЕЖДЕНИЯ:</text>
+    <text x="12" y="108" fill="#334155" font-size="9.8">• <tspan font-weight="600">Ревматизм</tspan>, фиброз, кальциноз створок</text>
+    <text x="12" y="122" fill="#334155" font-size="9.8">• Слияние, укорочение и утолщение хорд</text>
+    <text x="12" y="136" fill="#9f1239" font-size="9.5" font-weight="600">Гемодинамика: стеноз (MS) или сочетанный</text>
+  </g>
+
+  <!-- COL 4: TYPE IIIb -->
+  <g transform="translate(875, 287)" filter="url(#card-shadow-mvr-ch2)">
+    <rect width="265" height="145" rx="8" fill="#f5f3ff" stroke="#7c3aed" stroke-width="1.4"/>
+    <rect width="265" height="26" rx="8" fill="#ddd6fe"/>
+    <rect y="16" width="265" height="10" fill="#ddd6fe"/>
+    <text x="12" y="18" fill="#5b21b6" font-size="11" font-weight="700">ТИП IIIb: Рестрикция закрытия</text>
+    <text x="12" y="42" fill="#4c1d95" font-size="10" font-weight="700">ПОЛОЖЕНИЕ СВОБОДНОГО КРАЯ:</text>
+    <text x="12" y="56" fill="#334155" font-size="10">• Свободный край <tspan font-weight="700" fill="#7c3aed">ниже кольца в систолу</tspan></text>
+    <text x="12" y="70" fill="#334155" font-size="10">• Апикальное и латеральное натяжение (tenting)</text>
+    <line x1="10" y1="78" x2="255" y2="78" stroke="#c4b5fd" stroke-width="1"/>
+    <text x="12" y="94" fill="#6d28d9" font-size="10" font-weight="700">ЭТИОЛОГИЯ И ПОВРЕЖДЕНИЯ:</text>
+    <text x="12" y="108" fill="#334155" font-size="9.8">• <tspan font-weight="600">Ишемическая КМП</tspan>, постинфарктное ЛЖ</text>
+    <text x="12" y="122" fill="#334155" font-size="9.8">• Смещение задней папиллярной мышцы (P2/P3)</text>
+    <text x="12" y="136" fill="#5b21b6" font-size="9.5" font-weight="600">Гемодинамика: вторичная регургитация (IMR)</text>
+  </g>
+
+  <!-- SECTION III TITLE -->
+  <rect x="20" y="442" width="1120" height="24" rx="4" fill="#e2e8f0"/>
+  <text x="32" y="458" fill="#1e293b" font-size="11.5" font-weight="700" letter-spacing="0.3">III. ПРИНЦИП «ОДНО ПОВРЕЖДЕНИЕ — ОДНА МЕТОДИКА» (RECONSTRUCTIVE ARSENAL)</text>
+
+  <!-- COL 1: TECHNIQUES TYPE I -->
+  <g transform="translate(20, 474)" filter="url(#card-shadow-mvr-ch2)">
+    <rect width="265" height="285" rx="8" fill="#ffffff" stroke="#16a34a" stroke-width="1.3"/>
+    <rect width="265" height="26" rx="8" fill="#dcfce7"/>
+    <rect y="16" width="265" height="10" fill="#dcfce7"/>
+    <text x="12" y="18" fill="#14532d" font-size="10.8" font-weight="700">Методики: Дисфункция I типа</text>
+    <text x="12" y="42" fill="#166534" font-size="10" font-weight="700">1. ДИЛАТАЦИЯ КОЛЬЦА:</text>
+    <text x="12" y="56" fill="#334155" font-size="9.6">• <tspan font-weight="600" fill="#15803d">Аннулопластика опорным кольцом</tspan></text>
+    <text x="12" y="69" fill="#334155" font-size="9.3">  Carpentier-Edwards Physio или Classic</text>
+    <text x="12" y="83" fill="#334155" font-size="9.3">• <tspan font-weight="600">Золотые соотношения Карпантье:</tspan></text>
+    <text x="12" y="96" fill="#334155" font-size="9">  S(передняя створка) = S(задняя створка)</text>
+    <text x="12" y="109" fill="#334155" font-size="9">  S(передняя створка) = Площадь отверстия</text>
+    <text x="12" y="123" fill="#334155" font-size="9.3">• Калибровка по межкомиссуральному</text>
+    <text x="12" y="136" fill="#334155" font-size="9.3">  расстоянию и высоте передней створки</text>
+    <line x1="10" y1="147" x2="255" y2="147" stroke="#e2e8f0" stroke-width="1"/>
+    <text x="12" y="165" fill="#166534" font-size="10" font-weight="700">2. ДЕФЕКТ / ПЕРФОРАЦИЯ СТВОРКИ:</text>
+    <text x="12" y="181" fill="#334155" font-size="9.6">• Малая перфорация (&lt; 5 мм):</text>
+    <text x="12" y="195" fill="#334155" font-size="9.3">  Прямой узловой шов (Prolene)</text>
+    <text x="12" y="211" fill="#334155" font-size="9.6">• Обширный дефект тканевой субстанции:</text>
+    <text x="12" y="225" fill="#334155" font-size="9.3">  Заплата из глутаральдегид-фиксированного</text>
+    <text x="12" y="238" fill="#334155" font-size="9.3">  <tspan font-weight="600">аутоперикарда</tspan> непрерывным швом 5-0</text>
+    <rect x="8" y="250" width="249" height="26" rx="4" fill="#f0fdf4" stroke="#16a34a"/>
+    <text x="132" y="267" text-anchor="middle" fill="#14532d" font-size="9.5" font-weight="700">Опорное кольцо обязательно всегда!</text>
+  </g>
+
+  <!-- COL 2: TECHNIQUES TYPE II - POSTERIOR -->
+  <g transform="translate(305, 474)" filter="url(#card-shadow-mvr-ch2)">
+    <rect width="265" height="285" rx="8" fill="#ffffff" stroke="#ca8a04" stroke-width="1.3"/>
+    <rect width="265" height="26" rx="8" fill="#fef08a"/>
+    <rect y="16" width="265" height="10" fill="#fef08a"/>
+    <text x="12" y="18" fill="#854d0e" font-size="10.8" font-weight="700">Тип II: Пролапс задней створки</text>
+    <text x="12" y="42" fill="#854d0e" font-size="10" font-weight="700">1. РЕЗЕКЦИОННЫЕ МЕТОДИКИ:</text>
+    <text x="12" y="56" fill="#334155" font-size="9.6">• <tspan font-weight="600" fill="#854d0e">Квадрангулярная резекция</tspan> (P2 prolapse):</text>
+    <text x="12" y="69" fill="#334155" font-size="9.3">  иссечение пролабирующего сегмента</text>
+    <text x="12" y="83" fill="#334155" font-size="9.6">• <tspan font-weight="600">Пликация кольца:</tspan> шов на прокладках</text>
+    <text x="12" y="96" fill="#334155" font-size="9.3">  для сближения краев резекции</text>
+    <text x="12" y="110" fill="#334155" font-size="9.6">• <tspan font-weight="600">Треугольная резекция:</tspan> малый пролапс P1/P3</text>
+    <line x1="10" y1="121" x2="255" y2="121" stroke="#e2e8f0" stroke-width="1"/>
+    <text x="12" y="137" fill="#854d0e" font-size="10" font-weight="700">2. ВЫСОКАЯ СТВОРКА &amp; ПРОФИЛАКТИКА SAM:</text>
+    <text x="12" y="152" fill="#334155" font-size="9.5">• Норма высоты задней створки: <tspan font-weight="600">10–15 мм</tspan></text>
+    <text x="12" y="166" fill="#b91c1c" font-size="9.5" font-weight="600">• Если высота &gt; 20 мм &rarr; ВЫСОКИЙ РИСК SAM!</text>
+    <text x="12" y="180" fill="#334155" font-size="9.3">• <tspan font-weight="700" fill="#854d0e">Скользящая пластика (Sliding Plasty):</tspan></text>
+    <text x="12" y="193" fill="#334155" font-size="9">  отсечение остатков створки от кольца,</text>
+    <text x="12" y="205" fill="#334155" font-size="9">  редукция высоты и боковое скольжение</text>
+    <text x="12" y="221" fill="#334155" font-size="9.5">• <tspan font-weight="600">Складчатая пластика (Folding Plasty):</tspan></text>
+    <text x="12" y="235" fill="#334155" font-size="9">  подворачивание свободного края вниз</text>
+    <rect x="8" y="250" width="249" height="26" rx="4" fill="#fefce8" stroke="#ca8a04"/>
+    <text x="132" y="267" text-anchor="middle" fill="#854d0e" font-size="9.5" font-weight="700">Ремоделирующее кольцо Physio обязательно</text>
+  </g>
+
+  <!-- COL 3: TECHNIQUES TYPE II - ANTERIOR -->
+  <g transform="translate(590, 474)" filter="url(#card-shadow-mvr-ch2)">
+    <rect width="265" height="285" rx="8" fill="#ffffff" stroke="#d97706" stroke-width="1.3"/>
+    <rect width="265" height="26" rx="8" fill="#fef3c7"/>
+    <rect y="16" width="265" height="10" fill="#fef3c7"/>
+    <text x="12" y="18" fill="#92400e" font-size="10.8" font-weight="700">Тип II: Пролапс передней створки</text>
+    <text x="12" y="42" fill="#92400e" font-size="10" font-weight="700">1. ОГРАНИЧЕННЫЙ ПРОЛАПС (&lt; 1/4 ДЛИНЫ):</text>
+    <text x="12" y="56" fill="#334155" font-size="9.5">• <tspan font-weight="600">Треугольная резекция:</tspan> <tspan font-weight="700" fill="#b91c1c">&le; 10% площади!</tspan></text>
+    <text x="12" y="69" fill="#334155" font-size="9.2">• <tspan font-weight="600">Правило 4 мм:</tspan> свободный край без хорд &le; 4 мм</text>
+    <text x="12" y="82" fill="#334155" font-size="9.2">• Фиксация края к вторичным хордам</text>
+    <line x1="10" y1="92" x2="255" y2="92" stroke="#e2e8f0" stroke-width="1"/>
+    <text x="12" y="108" fill="#92400e" font-size="10" font-weight="700">2. ОБШИРНЫЙ ПРОЛАПС (РАЗРЫВ ХОРД):</text>
+    <text x="12" y="122" fill="#334155" font-size="9.5">• <tspan font-weight="600" fill="#b45309">Транспозиция хорд:</tspan> перемещение интактных</text>
+    <text x="12" y="135" fill="#334155" font-size="9.2">  вторичных хорд передней или хорд задней створки</text>
+    <text x="12" y="148" fill="#334155" font-size="9.5">• <tspan font-weight="600" fill="#b45309">Неохорды (PTFE / Gore-Tex):</tspan> шов 4-0/5-0,</text>
+    <text x="12" y="161" fill="#334155" font-size="9">  калибровка длины строго по сегменту P1</text>
+    <line x1="10" y1="172" x2="255" y2="172" stroke="#e2e8f0" stroke-width="1"/>
+    <text x="12" y="188" fill="#92400e" font-size="10" font-weight="700">3. УДЛИНЕНИЕ ХОРД И МЫШЦ:</text>
+    <text x="12" y="202" fill="#334155" font-size="9.3">• Удлинение &le; 10 мм: скользящая пластика мышцы</text>
+    <text x="12" y="215" fill="#334155" font-size="9.3">• Удлинение &ge; 10 мм: погружение в мышечный желоб</text>
+    <text x="12" y="228" fill="#334155" font-size="9.3">• <tspan font-weight="600">Разрыв папиллярной мышцы:</tspan> реимплантация</text>
+    <text x="12" y="241" fill="#334155" font-size="9">  головки в миокардиальный карман на тефлоне</text>
+    <rect x="8" y="250" width="249" height="26" rx="4" fill="#fef3c7" stroke="#d97706"/>
+    <text x="132" y="267" text-anchor="middle" fill="#92400e" font-size="9.5" font-weight="700">Передняя створка: жесткий контроль SAM</text>
+  </g>
+
+  <!-- COL 4: TECHNIQUES TYPE IIIa & IIIb -->
+  <g transform="translate(875, 474)" filter="url(#card-shadow-mvr-ch2)">
+    <rect width="265" height="285" rx="8" fill="#ffffff" stroke="#7c3aed" stroke-width="1.3"/>
+    <rect width="265" height="26" rx="8" fill="#ddd6fe"/>
+    <rect y="16" width="265" height="10" fill="#ddd6fe"/>
+    <text x="12" y="18" fill="#5b21b6" font-size="10.8" font-weight="700">Тип IIIa и IIIb: Рестрикция</text>
+    <text x="12" y="42" fill="#be123c" font-size="10" font-weight="700">1. ТИП IIIa (РЕВМАТИЗМ / ФИБРОЗ):</text>
+    <text x="12" y="56" fill="#334155" font-size="9.5">• <tspan font-weight="600">Комиссуротомия:</tspan> разделение сросшихся</text>
+    <text x="12" y="69" fill="#334155" font-size="9.2">  комиссур до истинного фиброзного кольца</text>
+    <text x="12" y="83" fill="#334155" font-size="9.5">• <tspan font-weight="600">Фенестрация хорд:</tspan> иссечение спаянных хорд</text>
+    <text x="12" y="96" fill="#334155" font-size="9.2">• <tspan font-weight="600">Шейвинг створок &amp; декальцинация</tspan></text>
+    <text x="12" y="109" fill="#334155" font-size="9.2">• <tspan font-weight="600">Кольцо:</tspan> ригидное Carpentier-Edwards Classic</text>
+    <line x1="10" y1="121" x2="255" y2="121" stroke="#e2e8f0" stroke-width="1"/>
+    <text x="12" y="137" fill="#6d28d9" font-size="10" font-weight="700">2. ТИП IIIb (ИШЕМИЧЕСКАЯ / IMR):</text>
+    <text x="12" y="152" fill="#334155" font-size="9.5">• <tspan font-weight="700" fill="#6d28d9">Кольцо Carpentier-McCarthy-Adams IMR:</tspan></text>
+    <text x="12" y="166" fill="#334155" font-size="9.2">  ригидный титан, асимметричный контур P2/P3,</text>
+    <text x="12" y="179" fill="#334155" font-size="9.2">  уменьшенный передне-задний размер</text>
+    <text x="12" y="193" fill="#334155" font-size="9.5">• <tspan font-weight="600">Undersizing:</tspan> уменьшение на 1–2 размера</text>
+    <text x="12" y="206" fill="#334155" font-size="9.2">  для принудительного сведения створок</text>
+    <text x="12" y="220" fill="#334155" font-size="9.5">• <tspan font-weight="600">Пересечение вторичных хорд (chordal cutting):</tspan></text>
+    <text x="12" y="233" fill="#334155" font-size="9">  устранение эффекта паруса («seagull sign»)</text>
+    <rect x="8" y="250" width="249" height="26" rx="4" fill="#f5f3ff" stroke="#7c3aed"/>
+    <text x="132" y="267" text-anchor="middle" fill="#5b21b6" font-size="9.5" font-weight="700">Цель: глубина коаптации &gt; 8 мм</text>
+  </g>
+
+  <!-- SECTION IV TITLE -->
+  <rect x="20" y="769" width="1120" height="24" rx="4" fill="#e2e8f0"/>
+  <text x="32" y="785" fill="#1e293b" font-size="11.5" font-weight="700" letter-spacing="0.3">IV. 3 ДОГМЫ КАРПАНТЬЕ И ИНТРАОПЕРАЦИОННЫЙ КОНТРОЛЬ КАЧЕСТВА</text>
+
+  <!-- BOTTOM CARD 1: 3 ДОГМЫ -->
+  <g transform="translate(20, 801)" filter="url(#card-shadow-mvr-ch2)">
+    <rect width="360" height="220" rx="8" fill="#f8fafc" stroke="#0f172a" stroke-width="1.4"/>
+    <rect width="360" height="26" rx="8" fill="#0f172a"/>
+    <text x="14" y="18" fill="#f8fafc" font-size="11" font-weight="700">3 Догмы реконструкции Карпантье</text>
+    <text x="14" y="44" fill="#0f172a" font-size="10.5" font-weight="700">1. ВОССТАНОВЛЕНИЕ ПОДВИЖНОСТИ СТВОРОК:</text>
+    <text x="14" y="58" fill="#334155" font-size="10">  Устранение пролапса или рестрикции на каждом</text>
+    <text x="14" y="72" fill="#334155" font-size="10">  сегменте; сохранение эластичности ткани.</text>
+    <text x="14" y="94" fill="#0f172a" font-size="10.5" font-weight="700">2. СОЗДАНИЕ ШИРОКОЙ ПОВЕРХНОСТИ КОАПТАЦИИ:</text>
+    <text x="14" y="108" fill="#334155" font-size="10">  Высота коаптации &ge; 5–8 мм; смыкание створок</text>
+    <text x="14" y="122" fill="#334155" font-size="10">  строго в задней трети отверстия клапана.</text>
+    <text x="14" y="144" fill="#0f172a" font-size="10.5" font-weight="700">3. РЕМОДЕЛИРОВАНИЕ И СТАБИЛИЗАЦИЯ КОЛЬЦА:</text>
+    <text x="14" y="158" fill="#334155" font-size="10">  Протезное опорное кольцо предотвращает позднюю</text>
+    <text x="14" y="172" fill="#334155" font-size="10">  редилатацию и снимает систолический стресс со швов.</text>
+    <rect x="12" y="184" width="336" height="26" rx="4" fill="#e2e8f0"/>
+    <text x="180" y="201" text-anchor="middle" fill="#0f172a" font-size="9.5" font-weight="700">Цель: восстановить функцию, а не нормальную анатомию</text>
+  </g>
+
+  <!-- BOTTOM CARD 2: КАЛИБРОВКА КОЛЬЦА -->
+  <g transform="translate(400, 801)" filter="url(#card-shadow-mvr-ch2)">
+    <rect width="360" height="220" rx="8" fill="#f8fafc" stroke="#0284c7" stroke-width="1.4"/>
+    <rect width="265" height="26" rx="8" fill="#0284c7"/>
+    <rect width="360" height="26" rx="8" fill="#0284c7"/>
+    <text x="14" y="18" fill="#ffffff" font-size="11" font-weight="700">Калибровка и выбор кольца Карпантье</text>
+    <text x="14" y="44" fill="#0369a1" font-size="10.5" font-weight="700">АНАТОМИЧЕСКИЙ ОРИЕНТИР — ПЕРЕДНЯЯ СТВОРКА:</text>
+    <text x="14" y="60" fill="#334155" font-size="10">• <tspan font-weight="700">Швы-метки истинных комиссур:</tspan> ориентир по</text>
+    <text x="14" y="74" fill="#334155" font-size="10">  веерообразным комиссуральным хордам</text>
+    <text x="14" y="90" fill="#334155" font-size="10">• <tspan font-weight="700">Шаблоны-калибраторы (Sizers):</tspan> измерение</text>
+    <text x="14" y="104" fill="#334155" font-size="10">  межкомиссурального расстояния и площади створки</text>
+    <text x="14" y="122" fill="#0369a1" font-size="10.5" font-weight="700">ВЫБОР МОДЕЛИ ОПОРНОГО КОЛЬЦА:</text>
+    <text x="14" y="138" fill="#334155" font-size="10">• <tspan font-weight="700" fill="#0284c7">Physio Ring:</tspan> дегенеративная болезнь (Барлоу, FED);</text>
+    <text x="14" y="152" fill="#334155" font-size="9.6">  сохраняет 3D седловидную форму и физиологию</text>
+    <text x="14" y="168" fill="#334155" font-size="10">• <tspan font-weight="700" fill="#0284c7">Classic Ring:</tspan> ревматическая болезнь (жесткий титан)</text>
+    <text x="14" y="184" fill="#334155" font-size="10">• <tspan font-weight="700" fill="#0284c7">IMR Ring:</tspan> ишемическая регургитация (асимметрия P2/P3)</text>
+    <text x="14" y="202" fill="#b91c1c" font-size="9.5" font-weight="600">! Никогда не выбирать размер по дилатированному кольцу !</text>
+  </g>
+
+  <!-- BOTTOM CARD 3: ГИДРАВЛИЧЕСКАЯ ПРОБА И SAM -->
+  <g transform="translate(780, 801)" filter="url(#card-shadow-mvr-ch2)">
+    <rect width="360" height="220" rx="8" fill="#f8fafc" stroke="#16a34a" stroke-width="1.4"/>
+    <rect width="360" height="26" rx="8" fill="#15803d"/>
+    <text x="14" y="18" fill="#ffffff" font-size="11" font-weight="700">Гидравлическая проба и профилактика SAM</text>
+    <text x="14" y="44" fill="#166534" font-size="10.5" font-weight="700">ГИДРАВЛИЧЕСКАЯ ПРОБА (SALINE TEST):</text>
+    <text x="14" y="60" fill="#334155" font-size="10">• Нагнетание 250 мл физраствора в ЛЖ шприцем-грушей</text>
+    <text x="14" y="74" fill="#334155" font-size="10">  при открытом дренаже восходящей аорты</text>
+    <text x="14" y="90" fill="#334155" font-size="10">• <tspan font-weight="700" fill="#15803d">Критерии идеальной пластики:</tspan></text>
+    <text x="14" y="104" fill="#334155" font-size="9.8">  1. Симметричная линия коаптации в задней трети</text>
+    <text x="14" y="118" fill="#334155" font-size="9.8">  2. Высота коаптации 5–8 мм без остаточных струй</text>
+    <text x="14" y="132" fill="#334155" font-size="9.8">  3. Свободный край передней створки строго расправлен</text>
+    <text x="14" y="152" fill="#b91c1c" font-size="10.5" font-weight="700">ПРЕДОТВРАЩЕНИЕ SAM (SYSTOLIC ANTERIOR MOTION):</text>
+    <text x="14" y="168" fill="#334155" font-size="9.8">• <tspan font-weight="600">Факторы риска SAM:</tspan> высота задней створки &gt; 20 мм,</text>
+    <text x="14" y="182" fill="#334155" font-size="9.5">  малое кольцо, гипертрофия МЖП, гиповолемия</text>
+    <text x="14" y="198" fill="#334155" font-size="9.8">• <tspan font-weight="700" fill="#b91c1c">Профилактика:</tspan> редукция высоты (Sliding Plasty)</text>
+  </g>
+</svg>
+
+* **[Открыть этот раздел в Атласе клинических алгоритмов](reader.html?book=books/summary/algorithms&chapter=chapter-02&edition=russian)**
+
+#### Краткая сводка этапов функционального подхода:
+1. **Патофизиологическая триада:** Этиология $\rightarrow$ Повреждения $\rightarrow$ Дисфункция (оценка кинетики створок относительно плоскости кольца).
+2. **Интраоперационный анализ («Нить Ариадны»):** Тракционный тест сегмента P1 двумя нервными крючками как неизменной точки отсчета; пошаговая ревизия по часовой стрелке всех сегментов (P1 $\rightarrow$ P2 $\rightarrow$ P3 $\rightarrow$ ПК $\rightarrow$ A3 $\rightarrow$ A2 $\rightarrow$ A1 $\rightarrow$ ЗК).
+3. **Принцип «Одно повреждение — одна методика»:**
+   - *Тип I (нормальная подвижность):* Аннулопластика кольцом Carpentier-Edwards Physio / Classic (калибровка по передней створке; правила $S_{ant} = S_{post}$ и $S_{ant} = \text{Orifice}$) + пластика дефекта аутоперикардом.
+   - *Тип II (пролапс задней створки):* Квадрангулярная резекция $\pm$ пликация кольца $\pm$ скользящая пластика (Sliding Plasty при высоте створки $> 20$ мм для исключения SAM).
+   - *Тип II (пролапс передней створки):* Треугольная резекция ($\le 10\%$ площади, правило 4 мм), транспозиция хорд или неохорды PTFE (Gore-Tex) по ориентиру P1.
+   - *Тип IIIa (ограничение в диастолу):* Комиссуротомия, фенестрация хорд, ригидное кольцо Classic.
+   - *Тип IIIb (ограничение в систолу):* Асимметричное ригидное кольцо Carpentier-McCarthy-Adams IMR (undersizing на 1–2 размера) $\pm$ пересечение вторичных хорд.
+4. **Контроль качества (гидравлическая проба):** Нагнетание 250 мл физраствора шприцем-грушей в ЛЖ $\rightarrow$ верификация: высота коаптации $\ge 5-8$ мм, линия смыкания в задней трети, отсутствие регургитации и SAM.
+
+</div></details>

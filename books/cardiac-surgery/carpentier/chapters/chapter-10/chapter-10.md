@@ -40,7 +40,7 @@
 
 Normal mitral valve function implies that the free edge of the leaflets remains at the same level and 5 to 10 mm below the plane of the orifice during systole to ensure proper leaflet coaptation and valve competency.
 
-Leaflet prolapse (or functional type II) is a valve dysfunction in which the free edge of a leaflet overrides the plane of the mitral orifice during systole. The differential diagnoses of leaflet prolapse are illustrated in Figure 10-1.
+Leaflet prolapse (or functional type II) is a valve dysfunction in which the free edge of a leaflet overrides the plane of the mitral orifice during systole. The differential diagnoses of leaflet prolapse are illustrated in [Figure 10-1](#fig-10-01).
 
 <span id="fig-10-01"></span>![](_page_103_Figure_10-1.jpeg)
 
@@ -220,6 +220,8 @@ A non-elongated reference chorda is pulled upward by a nerve hook or a 2-0 tract
 
 This suture is passed once again to achieve a figure-of-eight fixation and then tied, leaving two ends of equal length ([Fig. 10-10](#fig-10-10), c). Pledgets are used only if the tip of the papillary muscle is muscular rather than fibrous.
 
+#### Leaflet Margin Fixation and Knot Tying
+
 Adjusting the length of PTFE chordae is achieved by comparative measurements using the "reference point method." One end of the PTFE suture is passed through the free edge of the prolapsed area ([Fig. 10-10](#fig-10-10), d). Using the non-elongated chorda as a reference, a mark is made on the artificial chordae at the appropriate level. Another alternative is to use the graduated hook ([Fig. 10-10](#fig-10-10), e).
 
 The other end of the PTFE suture is then passed 3 mm from the insertion site of the first end, through the free edge of the prolapsed area, taking care not to cross native chordae to avoid chordae abrasion ([Fig. 10-10](#fig-10-10), f). The two ends of the artificial chordae are passed through the free edge of the leaflet once again so that the knot can be tied on the ventricular aspect of the leaflet. The knot should be tied with at least 8 to 10 throws to prevent knot slippage.
@@ -324,6 +326,8 @@ The technique itself may be regarded "à juste titre" as difficult. However, som
 The papillary muscle is exposed using the papillary muscle clamp ([Fig. 10-15](#fig-10-15), a). Using a knife or angled scissors, a transverse wedge resection is performed 2 mm below the attachment of the chordae on the papillary muscle ([Fig. 10-15](#fig-10-15), b). The height of the wedge resection does not need to be greater than half the degree of prolapse (inset) because of the compression achieved by the large vertical bites used to reconstruct the papillary muscle.
 
 To preserve a bridge of muscular tissue that ensures vascularization of the chordae attachment, this resection involves about two thirds of the thickness of the papillary muscle. The two sides of the trench are approximated using three to four nonpledgetted 4-0 monofilament sutures with semicircular needles ([Fig. 10-15](#fig-10-15), c).
+
+#### Suture Placement and Verification
 
 The lower end of the suture is passed vertically within the body of the papillary muscle, taking a large bite (≠1 cm) of subendocardial tissue superficial enough (3 to 4 mm thickness) to avoid injury to the vessels, which occupy the center of the papillary muscle ([Fig. 10-15](#fig-10-15), d). The upper end of each suture is passed through the fibrous tip of the papillary muscle at a 1 to 2 mm distance from the chordae attachment to avoid chordae injury. Sutures are tied gently ([Fig. 10-15](#fig-10-15), e).
 

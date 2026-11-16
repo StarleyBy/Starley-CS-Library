@@ -7,7 +7,15 @@ if (self.location.hostname === 'localhost' || self.location.hostname === '127.0.
     );
   });
   self.addEventListener('fetch', event => {
-    event.respondWith(fetch(event.request));
+    event.respondWith(
+      fetch(event.request).catch(err => {
+        return new Response('Network error or resource not found', {
+          status: 404,
+          statusText: 'Not Found',
+          headers: { 'Content-Type': 'text/plain' }
+        });
+      })
+    );
   });
 } else {
 
