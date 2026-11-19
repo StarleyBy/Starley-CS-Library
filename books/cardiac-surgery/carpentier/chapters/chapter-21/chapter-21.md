@@ -28,7 +28,10 @@ Comprehensive assessment combines qualitative color Doppler parameters (jet widt
 #### Principles of Pathophysiological Distinction
 The same systemic and degenerative diseases that affect the atrioventricular (mitral and tricuspid) valves may also affect the aortic valve. According to the pathophysiological triad ([Table 21-1](#table-21-01)), a clear distinction should be made between etiology, lesions, and dysfunctions.
 
-<span id="table-21-01"></span>
+<details class="med-details"><summary>
+
+#### <span id="table-21-01"></span>TABLE 21-1: Pathophysiological Triad</summary><div class="details-content">
+
 | Table 21-1. Pathophysiological Triad |
 | :--- |
 | **Etiology** — The cause of the disease |
@@ -37,12 +40,18 @@ The same systemic and degenerative diseases that affect the atrioventricular (mi
 | ↓ |
 | **Dysfunctions** — Result from the lesions |
 
+###### Pathophysiological triad of the aortic valve.
+
+</div></details>
 Etiologic determination is essential to assess the feasibility of durable valve reconstruction, establish the long-term prognosis, and prescribe appropriate postoperative medical therapy.
 
 #### Primary Versus Secondary Aortic Valve Pathologies
 Aortic valve diseases involve either the leaflets themselves (primary valve diseases) or the leaflets' supporting aortic root structures (secondary valve diseases), as outlined in [Table 21-2](#table-21-02).
 
-<span id="table-21-02"></span>
+<details class="med-details"><summary>
+
+#### <span id="table-21-02"></span>TABLE 21-2: Etiology of Aortic Valve Diseases</summary><div class="details-content">
+
 | Table 21-2. Etiology of Aortic Valve Diseases |
 | :--- |
 | **Primary Aortic Valve Diseases** |
@@ -58,6 +67,9 @@ Aortic valve diseases involve either the leaflets themselves (primary valve dise
 | • Aortic root and ascending aortic aneurysm |
 | • Aortic dissection (Type A) |
 
+###### Etiology of aortic valve diseases.
+
+</div></details>
 #### Predominant Etiologic Patterns and Epidemiology
 The three most common etiologies encountered in clinical practice ([Figure 21-1](#fig-21-01)) are bicuspid valve malformation (a), rheumatic valvular disease (b), and calcified degenerative aortic valvular disease (c).
 
@@ -76,7 +88,10 @@ Besides the characteristic gross lesions recognized during direct surgical inspe
 #### Distribution of Structural Lesions
 Any of the etiologic entities previously categorized can produce one or several structural lesions affecting one or multiple anatomical components of the aortic root and valve apparatus ([Table 21-3](#table-21-03)).
 
-<span id="table-21-03"></span>
+<details class="med-details"><summary>
+
+#### <span id="table-21-03"></span>TABLE 21-3: Aortic Valve Lesions</summary><div class="details-content">
+
 | Table 21-3. Aortic Valve Lesions |
 | :--- |
 | **Annulus** |
@@ -99,6 +114,9 @@ Any of the etiologic entities previously categorized can produce one or several 
 | • Intimal tear and dissection |
 | • Calcification |
 
+###### Anatomical lesions of the aortic valve apparatus.
+
+</div></details>
 Aortic root lesions may also be associated with concomitant mitral and tricuspid valve lesions. These multi-valvular lesions should be systematically investigated during the operation using intraoperative transesophageal echocardiography and verified by direct surgical inspection upon cardioplegic arrest.
 
 </div></details>
@@ -112,7 +130,10 @@ The functional approach by echocardiography provides precise, real-time physiolo
 
 Aortic valve regurgitation is classified according to the amplitude of leaflet motion and the diastolic position of the free edge of each leaflet in relation to the aortic annular plane, which serves as the constant reference landmark. Three fundamental types of aortic valve dysfunction are recognized ([Table 21-4](#table-21-04)).
 
-<span id="table-21-04"></span>
+<details class="med-details"><summary>
+
+#### <span id="table-21-04"></span>TABLE 21-4: Carpentier's Functional Classification of Aortic Valve Regurgitation</summary><div class="details-content">
+
 | Table 21-4. Carpentier's Functional Classification of Aortic Valve Regurgitation |
 | :--- |
 | **Type I: Normal Leaflet Motion** |
@@ -123,6 +144,9 @@ Aortic valve regurgitation is classified according to the amplitude of leaflet m
 | • **Type IIIa:** Restricted leaflet opening and closure (systolic and diastolic restriction) |
 | • **Type IIIb:** Restricted leaflet closure only (diastolic tethering) |
 
+###### Carpentier's functional classification of aortic regurgitation.
+
+</div></details>
 #### Type I Dysfunction: Normal Leaflet Motion
 In Type I aortic valve regurgitation, the course of the leaflets between systole and diastole has a normal amplitude, and the free edge of the leaflets during diastole is well positioned above the annular plane ([Figure 21-2](#fig-21-02)).
 
@@ -146,7 +170,10 @@ Valvular stenosis presents with varying degrees of hemodynamic severity dependin
 #### Correlation Between Dysfunctions and Underlying Lesions
 The functional classification applies individually to each of the three aortic leaflets, which can be affected differently in terms of both motion and severity. This allows the echocardiographer and the surgeon to localize the dysfunction and pair it with its causative anatomical lesion ([Table 21-5](#table-21-05)).
 
-<span id="table-21-05"></span>
+<details class="med-details"><summary>
+
+#### <span id="table-21-05"></span>TABLE 21-5: Valve Dysfunctions and Corresponding Anatomical Lesions</summary><div class="details-content">
+
 | Table 21-5. Valve Dysfunctions and Corresponding Anatomical Lesions |  |
 | :--- | :--- |
 | **Valve Dysfunction** | **Corresponding Anatomical Lesions** |
@@ -154,6 +181,10 @@ The functional classification applies individually to each of the three aortic l
 | **Type II:** Leaflet prolapse | Leaflet rupture or distension; Commissural detachment |
 | **Type IIIa:** Restricted leaflet closure and opening | Leaflet thickening; Commissural fusion; Calcification |
 | **Type IIIb:** Restricted leaflet closure only | Sinotubular junction dilatation (leaflet tethering) |
+
+###### Aortic valve dysfunctions and corresponding lesions.
+
+</div></details>
 
 </div></details>
 
@@ -169,7 +200,10 @@ As an obligate consequence of diastolic regurgitant flow, the end-diastolic volu
 #### Qualitative and Quantitative Grading of Regurgitation
 Echocardiographic color Doppler study allows precise qualitative and quantitative evaluation of the severity of valvular regurgitation ([Table 21-6](#table-21-06)).
 
-<span id="table-21-06"></span>
+<details class="med-details"><summary>
+
+#### <span id="table-21-06"></span>TABLE 21-6: Grading of Aortic Regurgitation (Modified from Douglas et al.)</summary><div class="details-content">
+
 | Table 21-6. Grading of Aortic Regurgitation (Modified from Douglas et al.) | Mild | Moderate | Severe |
 | :--- | :--- | :--- | :--- |
 | **Qualitative Parameters** |  |  |  |
@@ -180,6 +214,10 @@ Echocardiographic color Doppler study allows precise qualitative and quantitativ
 | Regurgitant fraction (%) | <30% | 30%–49% | ≥50% |
 | Regurgitant orifice area (cm²) | <0.20 | 0.20–0.29 | ≥0.30 |
 
+###### Echocardiographic grading of aortic regurgitation (Douglas et al.).
+
+</div></details>
+
 Qualitative assessment utilizes the relative width of the color Doppler jet across the left ventricular outflow tract (LVOT) and the vena contracta width. Quantitative parameters—regurgitant volume, regurgitant fraction, and effective regurgitant orifice area—provide rigorous confirmation of hemodynamic impact and dictate the timing of operative intervention.
 
 #### Pathophysiology of Aortic Stenosis
@@ -188,12 +226,19 @@ Aortic valve stenosis produces a mechanical barrier to left ventricular ejection
 #### Hemodynamic Quantification of Stenosis Severity
 The severity of aortic valve stenosis is determined by transvalvular pressure gradients measured with continuous-wave Doppler ultrasound using the simplified Bernoulli equation. Both instantaneous peak and mean transvalvular gradients are recorded. In minimally symptomatic or borderline cases, hemodynamic evaluation during exercise testing provides valuable functional insight. Aortic jet velocity and the calculated aortic valve area (determined via the continuity equation) complete the hemodynamic evaluation ([Table 21-7](#table-21-07)).
 
-<span id="table-21-07"></span>
+<details class="med-details"><summary>
+
+#### <span id="table-21-07"></span>TABLE 21-7: Grading of Aortic Stenosis (Modified from Zoghbi et al.)</summary><div class="details-content">
+
 | Table 21-7. Grading of Aortic Stenosis (Modified from Zoghbi et al.) | Mild | Moderate | Severe |
 | :--- | :--- | :--- | :--- |
 | Jet velocity (m/sec) | <3.0 | 3.0–4.0 | >4.0 |
 | Mean transvalvular gradient (mmHg) | <25 | 25–40 | >40 |
 | Effective aortic valve area (cm²) | >1.5 | 1.0–1.5 | <1.0 |
+
+###### Hemodynamic grading of aortic stenosis (Zoghbi et al.).
+
+</div></details>
 
 </div></details>
 

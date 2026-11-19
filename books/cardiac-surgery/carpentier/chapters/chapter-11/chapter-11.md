@@ -50,7 +50,9 @@ Resection of a portion of excess leaflet tissue is preferable in posterior leafl
 
 Several techniques of reconstruction can be used depending upon the extent and mechanism of the leaflet prolapse ([Table 11-1](#table-11-01)).
 
-<span id="table-11-01"></span>
+<details class="med-details"><summary>
+
+#### <span id="table-11-01"></span>TABLE 11-1: Reconstructive Techniques in Posterior Leaflet Prolapse</summary><div class="details-content">
 
 | Lesion / Anatomy | Limited Prolapse (<1/3 Free Margin) | Extensive Prolapse (>1/3 Free Margin) | Extensive Prolapse (1 Entire Segment) |
 | :--- | :--- | :--- | :--- |
@@ -58,7 +60,9 @@ Several techniques of reconstruction can be used depending upon the extent and m
 | **Alternative: Chordae Rupture** | Chordae transposition or replacement | Chordae transposition or replacement | Composite technique |
 | **Alternative: Chordae Elongation** | Chordae shortening | Chordae shortening | Composite technique |
 
-**TABLE 11-1** Reconstructive Techniques in Posterior Leaflet Prolapse.
+###### Reconstructive techniques in posterior leaflet prolapse.
+
+</div></details>
 
 </div></details>
 

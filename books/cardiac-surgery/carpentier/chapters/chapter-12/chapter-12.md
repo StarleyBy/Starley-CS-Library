@@ -63,7 +63,9 @@ The commissure is an important component of the mitral valve, the reconstruction
 
 The choice between surgical options is governed by the extent of tissue involvement and the primary subvalvular mechanism ([Table 12-1](#table-12-01)).
 
-<span id="table-12-01"></span>
+<details class="med-details"><summary>
+
+#### <span id="table-12-01"></span>TABLE 12-1: Reconstructive Techniques in Commissural Prolapse</summary><div class="details-content">
 
 | Extent of Prolapse | Due to Chordae Rupture | Due to Chordae Elongation |
 | :--- | :--- | :--- |
@@ -71,7 +73,9 @@ The choice between surgical options is governed by the extent of tissue involvem
 | **Extensive Prolapse (>5 mm)** | Quadrangular leaflet resection | Papillary muscle sliding |
 | **Alternative Techniques** | Chordae transposition or replacement | Papillary muscle shortening |
 
-**TABLE 12-1** Reconstructive Techniques in Commissural Prolapse.
+###### Reconstructive techniques in commissural prolapse.
+
+</div></details>
 
 </div></details>
 

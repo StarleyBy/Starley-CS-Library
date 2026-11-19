@@ -140,14 +140,18 @@ In the 1970s, based on the principle that valvular regurgitation in this acute p
 
 Our current treatment and prophylactic protocol is described in [Table 25-1](#table-25-01). After rheumatic valve surgery, 1 month of corticosteroid therapy and prolonged prophylactic treatment with penicillin are indicated. Although long-term durability of valve reconstruction during the acute phase of rheumatic disease is less predictable, we still recommend valve reconstruction rather than valve replacement in this young population.
 
-<span id="table-25-01"></span>
+<details class="med-details"><summary>
 
-**Table 25-1. Recommended Antibiotic Treatment and Prophylaxis in Rheumatic Fever**
+#### <span id="table-25-01"></span>TABLE 25-1: Recommended Antibiotic Treatment and Prophylaxis in Rheumatic Fever</summary><div class="details-content">
 
 | Clinical Phase | Therapeutic Regimen |
 |---|---|
 | **Acute Phase** | 1. **Penicillin G:** 0.6 to 1.8 million units IM depending on age and weight, or erythromycin if penicillin allergy: 40 mg/kg/day (maximum 1 g)<br>2. **Prednisone:** 2 mg/kg/day for first two weeks followed by 1 mg/kg/day monitored by the creatinine serum level |
 | **Prophylaxis** | • **Penicillin G:** Children—0.6 million units IM once a month; Adults—1.2 million units IM once a month<br>• **Erythromycin** (if penicillin allergy): 250 mg per os twice a day |
+
+###### Recommended antibiotic treatment and prophylaxis in rheumatic fever.
+
+</div></details>
 
 > **Surgical Rule:** Valvular surgery is not contraindicated in patients with an active rheumatic inflammatory process not responding to medical therapy.
 
@@ -173,14 +177,18 @@ In patients with mitral valve regurgitation, medical treatment has a limited and
 
 Growing emphasis has been placed in recent years on the significant advantage of operating on asymptomatic patients to prevent the onset of complications. The timing of surgery is strongly influenced by the likelihood of valve reconstruction. The likelihood of a reconstructive operation depends upon the severity of valvular lesions and the surgeon's experience ([Table 25-2](#table-25-02)). This emphasizes the importance of a precise valve analysis by an experienced team.
 
-<span id="table-25-02"></span>
+<details class="med-details"><summary>
 
-**Table 25-2. Feasibility of Valve Reconstruction in Type IIIa Rheumatic Valvular Disease**
+#### <span id="table-25-02"></span>TABLE 25-2: Feasibility of Valve Reconstruction in Type IIIa Rheumatic Valvular Disease</summary><div class="details-content">
 
 | Leaflet Characteristics | Minimal Subvalvular Lesions | Severe Subvalvular Lesions and/or Calcifications |
 |---|---|---|
 | **Pliable Leaflets** | Reconstruction feasible | Probably not feasible |
 | **Rigid Leaflets** | Probably feasible | Not feasible |
+
+###### Feasibility of valve reconstruction in Type IIIa rheumatic disease.
+
+</div></details>
 
 > **Indications for Early Surgery:** An early operation in asymptomatic patients is indicated only when reconstructive valve surgery is proven feasible by the surgeon.
 
@@ -250,9 +258,9 @@ In this series, 951 patients surgically treated between 1970 and 1994 were follo
 
 Functional classification based on leaflet motion showed that 7% of the patients were type I (normal leaflet motion), 33% type II (leaflet prolapse), 36% type IIIa (diastolic restricted leaflet motion), and 24% type II/III, i.e., prolapse of the anterior leaflet associated with restricted leaflet motion of the posterior leaflet. Surgical techniques used are listed in [Table 25-3](#table-25-03).
 
-<span id="table-25-03"></span>
+<details class="med-details"><summary>
 
-**Table 25-3. Reconstructive Techniques in a Series of 951 Patients with Rheumatic Mitral Valve Diseases (From Chauvaud et al.)**
+#### <span id="table-25-03"></span>TABLE 25-3: Reconstructive Techniques in Rheumatic Mitral Valve Diseases</summary><div class="details-content">
 
 | Reconstructive Techniques | Number ($N$) | Percentage (%) |
 |---|---|---|
@@ -263,6 +271,10 @@ Functional classification based on leaflet motion showed that 7% of the patients
 | **Commissurotomy** | 373 | 39% |
 | **Pericardial extension** | 65 | 7.5% |
 | **Resection of localized calcification** | 43 | 5% |
+
+###### Reconstructive techniques in a series of 951 patients (Chauvaud et al.).
+
+</div></details>
 
 #### European Study Outcomes and Reoperation Rates
 
@@ -297,76 +309,76 @@ Operative mortality was 1.1%. Actuarial freedom from reoperation at 7 years was 
 
 #### Congenital Malformations Mimicking Rheumatic Disease
 
-**Dr. Farzan Filsoufi:** What are the most common congenital malformations that mimic rheumatic valve disease?
+**FF:** What are the most common congenital malformations that mimic rheumatic valve disease?
 
-**Prof. Alain Carpentier:** Papillary muscle commissure fusion may mimic rheumatic valve disease because one or two commissures may be completely fused. However, it can be differentiated from rheumatic valve disease because the fusion is not caused by inflammation but by the close relationship between the papillary muscle and the commissure.
+**AC:** Papillary muscle commissure fusion may mimic rheumatic valve disease because one or two commissures may be completely fused. However, it can be differentiated from rheumatic valve disease because the fusion is not caused by inflammation but by the close relationship between the papillary muscle and the commissure.
 
 #### Differentiating Degenerative and Rheumatic Calcification
 
-**Dr. David H. Adams:** Many surgeons classify patients with mitral valve disease and leaflet calcification as having rheumatic disease. Can you differentiate degenerative leaflet calcification from true rheumatic disease?
+**DA:** Many surgeons classify patients with mitral valve disease and leaflet calcification as having rheumatic disease. Can you differentiate degenerative leaflet calcification from true rheumatic disease?
 
-**Prof. Alain Carpentier:** Calcification is not a specific process but a secondary process that can occur in any long-lasting mitral valve disease. The area of calcification is influenced by the etiology. In rheumatic valve disease, the process of calcification begins at the commissures and extends to the leaflet tissue. By contrast, in degenerative valve disease, the calcification involves primarily the annulus with extension to the base of the leaflet, the basal chordae, and occasionally the tip of one or two papillary muscles. In addition, specific lesions observed intraoperatively help differentiate these diseases.
+**AC:** Calcification is not a specific process but a secondary process that can occur in any long-lasting mitral valve disease. The area of calcification is influenced by the etiology. In rheumatic valve disease, the process of calcification begins at the commissures and extends to the leaflet tissue. By contrast, in degenerative valve disease, the calcification involves primarily the annulus with extension to the base of the leaflet, the basal chordae, and occasionally the tip of one or two papillary muscles. In addition, specific lesions observed intraoperatively help differentiate these diseases.
 
 #### Surgical Timing in Acute Rheumatic Carditis
 
-**Dr. Farzan Filsoufi:** In the past, patients in the acute phase of rheumatic fever were treated medically. Surgery was delayed until the acute inflammatory process subsided. Did the introduction of valve reconstruction change this policy?
+**FF:** In the past, patients in the acute phase of rheumatic fever were treated medically. Surgery was delayed until the acute inflammatory process subsided. Did the introduction of valve reconstruction change this policy?
 
-**Prof. Alain Carpentier:** About 40 years ago, a young Algerian child with acute rheumatic fever and mitral regurgitation was presented to me by Prof. Jean Lenègre, the renowned French cardiologist. This child had been treated with extensive antiinflammatory drugs and antibiotics for 2 months with no significant recession of the inflammatory symptoms and was in refractory pulmonary edema. Surgery was performed as an emergency life-saving procedure. A large ring annuloplasty and decortication of the pericardium were performed. The immediate postoperative recovery was uneventful and the patient had no further symptoms of rheumatic carditis. Over the years, we operated on 36 patients during the acute phase of rheumatic carditis with similar success.
+**AC:** About 40 years ago, a young Algerian child with acute rheumatic fever and mitral regurgitation was presented to me by Prof. Jean Lenègre, the renowned French cardiologist. This child had been treated with extensive antiinflammatory drugs and antibiotics for 2 months with no significant recession of the inflammatory symptoms and was in refractory pulmonary edema. Surgery was performed as an emergency life-saving procedure. A large ring annuloplasty and decortication of the pericardium were performed. The immediate postoperative recovery was uneventful and the patient had no further symptoms of rheumatic carditis. Over the years, we operated on 36 patients during the acute phase of rheumatic carditis with similar success.
 
 This experience changed our point of view and we demonstrated that surgery was not contraindicated during this period. Because of the severity of the hemodynamic condition, we decided to proceed with a valve operation. The valve could be repaired, and after the surgery we were surprised to observe that the spectacular hemodynamic improvement was associated with a rapid resolution of the inflammatory syndrome. This was an important observation that showed the influence of hemodynamic conditions on the evolution of the inflammatory process, a finding confirmed by several authors. These findings led to the recommendation of performing valve surgery in the acute phase of the disease if significant improvement has not occurred using medical therapy.
 
 #### Indications for Closed Surgical Commissurotomy
 
-**Dr. David H. Adams:** Are there any situations in which closed surgical commissurotomy is indicated?
+**DA:** Are there any situations in which closed surgical commissurotomy is indicated?
 
-**Prof. Alain Carpentier:** Balloon dilatation is as efficient as a closed surgical commissurotomy. However, it is an expensive procedure because of the cost of disposable balloons; therefore a closed commissurotomy with a mechanical dilator still has a role in developing countries.
+**AC:** Balloon dilatation is as efficient as a closed surgical commissurotomy. However, it is an expensive procedure because of the cost of disposable balloons; therefore a closed commissurotomy with a mechanical dilator still has a role in developing countries.
 
 #### Acceptable Postoperative Echocardiographic Gradient
 
-**Dr. Farzan Filsoufi:** In the normal size adult, what is the maximum mean gradient you would accept on echocardiography after mitral valve reconstruction?
+**FF:** In the normal size adult, what is the maximum mean gradient you would accept on echocardiography after mitral valve reconstruction?
 
-**Prof. Alain Carpentier:** This is a difficult issue because of the variability of this parameter, depending upon loading condition, heart rate, and cardiac output. After surgery under more normal physiological conditions, we commonly observe a reduction of the transmitral gradient. Intraoperatively, the size of the implanted ring is an important consideration as much as the pliability of the leaflet tissue. I am not very concerned with a mean gradient less than 8 mm Hg in a patient with pliable tissue and a ring equal to or greater than 30 mm in females and 32 mm in males as opposed to the same gradient in a patient who has a smaller ring and thickened leaflets.
+**AC:** This is a difficult issue because of the variability of this parameter, depending upon loading condition, heart rate, and cardiac output. After surgery under more normal physiological conditions, we commonly observe a reduction of the transmitral gradient. Intraoperatively, the size of the implanted ring is an important consideration as much as the pliability of the leaflet tissue. I am not very concerned with a mean gradient less than 8 mm Hg in a patient with pliable tissue and a ring equal to or greater than 30 mm in females and 32 mm in males as opposed to the same gradient in a patient who has a smaller ring and thickened leaflets.
 
 #### Role of Artificial Chordae in Rheumatic Disease
 
-**Dr. David H. Adams:** Are there any indications to use artificial chordae replacement in rheumatic valve disease?
+**DA:** Are there any indications to use artificial chordae replacement in rheumatic valve disease?
 
-**Prof. Alain Carpentier:** In patients with thickened marginal and secondary chordae, it may be useful to extensively resect these chordae for optimal leaflet mobilization; this may require supporting the free edge with artificial chordae. However, if valvular lesions are too advanced, it is often preferable to proceed with valve replacement surgery.
+**AC:** In patients with thickened marginal and secondary chordae, it may be useful to extensively resect these chordae for optimal leaflet mobilization; this may require supporting the free edge with artificial chordae. However, if valvular lesions are too advanced, it is often preferable to proceed with valve replacement surgery.
 
 #### Leaflet Patch Extension and Ring Sizing
 
-**Dr. David H. Adams:** Leaflet patch extension increases the height of the anterior leaflet more than the intercommissural distance. How does it affect ring selection strategy?
+**DA:** Leaflet patch extension increases the height of the anterior leaflet more than the intercommissural distance. How does it affect ring selection strategy?
 
-**Prof. Alain Carpentier:** This depends upon whether the leaflet is enlarged transversally or vertically. The size of the ring should be based upon the size of the enlarged leaflet, which is measured with sizers. Care should be taken to carefully measure the new intercommissural distance and the new anterior leaflet height to decide whether a Classic ring is preferred, because the extremities of this type of ring can be bent to conform to the new configuration of the anterior leaflet. If the posterior leaflet has been enlarged, the total amount of leaflet tissue is a more important parameter affecting ring selection than the intercommissural distance. After injection of saline into the ventricular cavity, the sizers are used to measure the total amount of leaflet tissue closing the orifice.
+**AC:** This depends upon whether the leaflet is enlarged transversally or vertically. The size of the ring should be based upon the size of the enlarged leaflet, which is measured with sizers. Care should be taken to carefully measure the new intercommissural distance and the new anterior leaflet height to decide whether a Classic ring is preferred, because the extremities of this type of ring can be bent to conform to the new configuration of the anterior leaflet. If the posterior leaflet has been enlarged, the total amount of leaflet tissue is a more important parameter affecting ring selection than the intercommissural distance. After injection of saline into the ventricular cavity, the sizers are used to measure the total amount of leaflet tissue closing the orifice.
 
 #### Target Dimensions for Posterior Leaflet Extension
 
-**Dr. David H. Adams:** How much leaflet extension should we target on the posterior leaflet?
+**DA:** How much leaflet extension should we target on the posterior leaflet?
 
-**Prof. Alain Carpentier:** To avoid a curtain effect, which obstructs the mitral valve orifice, extension of the posterior leaflet should not be too long or extensive. The reconstructed height of the posterior leaflet should be less than 20 mm and the transverse length of the patch should be limited.
+**AC:** To avoid a curtain effect, which obstructs the mitral valve orifice, extension of the posterior leaflet should not be too long or extensive. The reconstructed height of the posterior leaflet should be less than 20 mm and the transverse length of the patch should be limited.
 
 #### Assessment of Leaflet Peeling
 
-**Dr. Farzan Filsoufi:** What is your opinion about leaflet peeling, which consists of the en bloc removal of the fibrotic process covering the leaflet?
+**FF:** What is your opinion about leaflet peeling, which consists of the en bloc removal of the fibrotic process covering the leaflet?
 
-**Prof. Alain Carpentier:** It is an interesting approach widely used by Prof. Kumar in India. I tried it several times in Africa and Southeast Asia. You can effectively peel the belly of the anterior leaflet, but the peeling is less complete in the coaptation zone and the posterior leaflet because of the indentations. The main concern is the recurrence of valve fibrosis.
+**AC:** It is an interesting approach widely used by Prof. Kumar in India. I tried it several times in Africa and Southeast Asia. You can effectively peel the belly of the anterior leaflet, but the peeling is less complete in the coaptation zone and the posterior leaflet because of the indentations. The main concern is the recurrence of valve fibrosis.
 
 #### Freedom from Reoperation vs. Echocardiographic Criteria
 
-**Dr. David H. Adams:** Your use of freedom from reoperation as a criterion to evaluate the success of reconstructive valve surgery has been criticized as being rather crude when compared to echocardiography findings. What is your response?
+**DA:** Your use of freedom from reoperation as a criterion to evaluate the success of reconstructive valve surgery has been criticized as being rather crude when compared to echocardiography findings. What is your response?
 
-**Prof. Alain Carpentier:** My response is that freedom from reoperation is a more objective criterion. Provided that the follow-up is complete, the need for reoperation is a definite endpoint whereas echocardiographic findings are subjective and examiner dependent. An echocardiographic follow-up is ideal but may be difficult to obtain and a serious limitation in developing countries.
+**AC:** My response is that freedom from reoperation is a more objective criterion. Provided that the follow-up is complete, the need for reoperation is a definite endpoint whereas echocardiographic findings are subjective and examiner dependent. An echocardiographic follow-up is ideal but may be difficult to obtain and a serious limitation in developing countries.
 
 #### Cohort Size in Early Decades of Surgical Experience
 
-**Dr. David H. Adams:** Another comment regarding your reports on long-term results has been that your studies involved a relatively small number of patients during the first two decades of data collection.
+**DA:** Another comment regarding your reports on long-term results has been that your studies involved a relatively small number of patients during the first two decades of data collection.
 
-**Prof. Alain Carpentier:** The primary reason is that in the first decade I performed surgery on a limited number of patients. This number grew rapidly as my experience increased and complementary techniques developed during the second decade. A second reason for the limited number of patients is the fact that we could not obtain accurate data from patients returning to Africa, so we excluded all patients coming from this continent. As a result, the follow-up was more complete but the number of patients was more limited. Our current follow-up in Asia confirms our original observation.
+**AC:** The primary reason is that in the first decade I performed surgery on a limited number of patients. This number grew rapidly as my experience increased and complementary techniques developed during the second decade. A second reason for the limited number of patients is the fact that we could not obtain accurate data from patients returning to Africa, so we excluded all patients coming from this continent. As a result, the follow-up was more complete but the number of patients was more limited. Our current follow-up in Asia confirms our original observation.
 
 #### Public Health Strategy in Developing Countries
 
-**Dr. Farzan Filsoufi:** What health policy decisions are required to decrease the prevalence of rheumatic diseases in developing countries?
+**FF:** What health policy decisions are required to decrease the prevalence of rheumatic diseases in developing countries?
 
-**Prof. Alain Carpentier:** In the past century, rheumatic valve disease has been nearly eradicated in developed countries. There is no reason that the same result cannot be achieved in this century for the rest of the world. Resources must be directed at improving living conditions and providing greater access to health care and widespread antibiotic coverage for all children.
+**AC:** In the past century, rheumatic valve disease has been nearly eradicated in developed countries. There is no reason that the same result cannot be achieved in this century for the rest of the world. Resources must be directed at improving living conditions and providing greater access to health care and widespread antibiotic coverage for all children.
 
 </div></details>

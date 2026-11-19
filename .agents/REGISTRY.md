@@ -7,9 +7,9 @@
 
 | ID | Агент | scope | Версия | Файл | Зона ответственности | Опирается на |
 |---|---|---|---|---|---|---|
-| L00 | Адъютант | local | 1.0 | `.agents/skills/adjutant/SKILL.md` | Персональный секретарь: оркестрация, декомпозиция задач, делегирование агентам, сводный отчёт | Все агенты и инструменты |
-| L01 | Редактор | local | 1.2 | `.agents/skills/editor/SKILL.md` | Главы и статьи (EN/RU), медиа глав, `metadata.json`, `library.json` | `search/generate-search-index.js` |
-| L05 | Валидатор глав | local | 1.0 | `.agents/skills/chapter-validator/SKILL.md` | Независимая приёмка глав: структура, якоря, паритет EN/RU, сверка чисел, регистрация | `tools/validate-chapters.mjs`, `tools/chapters-baseline.json` |
+| L00 | Адъютант | local | 1.1 | `.agents/skills/adjutant/SKILL.md` | Персональный секретарь: оркестрация, декомпозиция задач, делегирование агентам, сводный отчёт | Все агенты и инструменты |
+| L01 | Редактор | local | 1.3 | `.agents/skills/editor/SKILL.md` | Главы и статьи (EN/RU), медиа глав, `metadata.json`, `library.json` | `search/generate-search-index.js` |
+| L05 | Валидатор глав | local | 1.1 | `.agents/skills/chapter-validator/SKILL.md` | Независимая приёмка глав: структура, якоря, паритет EN/RU, сверка чисел, регистрация | `tools/validate-chapters.mjs`, `tools/chapters-baseline.json` |
 | L06 | Каталогизатор | local | 1.0 | `.agents/skills/catalogist/SKILL.md` | Каталог: `library.json`, `metadata.json` книг, записи глав, флаги `versions`, каркас новой книги | `tools/validate-library.mjs`, `tools/library-baseline.json` |
 | L13 | Гайдлайнер | local | 1.1 | `.agents/skills/guideliner/SKILL.md` | Таблицы гайдлайнов в `data/guidelines/` | `schema/`, `tools/validate-tables.mjs`, `tools/build-tables-index.mjs` |
 | L17 | Квиз-Мастер | local | 1.0 | `.agents/skills/quiz-master/SKILL.md` | Манифесты квиза из сборников: вопросы EN/RU, пояснения, таксономия (из существующих id), картинки, раскладка по тематическим квизам, реестры | `tools/validate-quiz.mjs`, `quiz/quiz-taxonomy.json` |
@@ -23,7 +23,7 @@
 | L34 | Деплой и CI | local | 1.0 | `.agents/skills/deploy-ci/SKILL.md` | Workflow публикации GitHub Pages: порядок шагов, проверки перед публикацией (preflight), индекс, R2, очистка, разбор упавшей сборки | `.github/workflows/*`, `tools/preflight.mjs` |
 | L24 | Кодер | local | 1.1 | `.agents/skills/coder/SKILL.md` | Код приложения, поиск, Service Worker, тесты | `tests/run-all.mjs`, `tests/unit/` |
 | L35 | Интеракционист | local | 1.0 | `.agents/skills/interactive-engineer/SKILL.md` | Разработка и интеграция интерактивных схем, симуляторов, врезка HTML в главы и квизы, реестр интерактивных схем | `data/interactive/interactive-index.json`, `tools/list-interactive.mjs`, `sw.js` |
-| L36 | Критик-перфекционист | local | 1.0 | `.agents/skills/critic/SKILL.md` | Сквозная продуктовая ревизия: UI/UX, веб-дизайн, чистый Vanilla JS, архитектура, edge cases, PWA, входной челлендж планов, Quality Gate перед сдачей, ежедневный аудит | Все модули приложения, тесты, `tools/preflight.mjs`, `tools/check-sw-shell.mjs` |
+| L36 | Критик-перфекционист | local | 1.1 | `.agents/skills/critic/SKILL.md` | Сквозная продуктовая ревизия: UI/UX, веб-дизайн, чистый Vanilla JS, архитектура, edge cases, PWA, входной челлендж планов, Quality Gate перед сдачей, ежедневный аудит | Все модули приложения, тесты, `tools/preflight.mjs`, `tools/check-sw-shell.mjs` |
 | L37 | Дизайнер | local | 1.0 | `.agents/skills/designer/SKILL.md` | Внешняя графика и прототипирование: обложки книг (Canva), векторные алгоритмы (Figma), интерактивные прототипы (Lovable) | Figma, Canva, Lovable MCP, `.agents/skills/designer/SKILL.md` |
 
 ID соответствуют каталогу из плана агентов (L — локальные, G — глобальные).
@@ -39,6 +39,7 @@ ID соответствуют каталогу из плана агентов (L
 
 | Дата | Что изменено |
 |---|---|
+| 2026-11-19 | Архитектурная реформа контроля качества (Anti-Hallucination & Red Team Protocol): в `AGENTS.md` (разд. 4.3–4.4), `skills/editor` (v1.3), `skills/chapter-validator` (v1.1), `skills/critic` (v1.1) и `skills/adjutant` (v1.1) внедрён строжайший запрет синтетических/вымышленных разделов и подписей к рисункам. Введена модель состязательного контроля Red Team («проверяющий как непримиримый оппонент/аудитор»), принцип Zero Trust к самоотчётам авторов и обязательная двухконтурная проверка: Контур 1 (синтаксический линтер) + Контур 2 (смысловой Ground-Truth контроль с постраничной сверкой структуры, рисунков и таблиц по исходному PDF книги). Критику дано право безусловного вето (🔴 RED) на любую главу с галлюцинациями. |
 | 2026-11-16 | Добавлен агент «Дизайнер» (L37, v1.0, `.agents/skills/designer/SKILL.md`) — арт-директор и мастер внешней графики/прототипирования: интеграция Canva (обложки cover.jpg, Clinical Pearls), Figma/FigJam (векторные алгоритмы для атласа схем, UI/UX макеты, SVG/CSS) и Lovable (прототипы интерактивных калькуляторов и симуляторов для компиляции в чистый Vanilla JS) |
 | 2026-11-08 | Добавлен агент «Критик-перфекционист» (L36, v1.0, `.agents/skills/critic/SKILL.md`) — ведущий ревизор качества, UI/UX эстет, Senior Architect/Coder/QA и тренд-скаут. Встроены 4 шлюза: входная экспертиза планов задач, обязательный выходной контроль (Quality Gate) перед сдачей владельцу, ежедневный аудит по расписанию и прямой аудит по запросу. Введён четырёхцветный протокол замечаний и процедура арбитража споров на суд владельца-кардиохирурга |
 | 2026-11-06 | Добавлен агент «Интеракционист» (L35, v1.0, `.agents/skills/interactive-engineer/SKILL.md`) — разработка автономных интерактивных схем (HTML5/SVG/Vanilla JS), симуляторов и атласов (`assets/interactive/`), ведение реестра `data/interactive/interactive-index.json`, внедрение во фреймах в главы (`#### 🎛️ ...`) и квизы. Создан инструмент `tools/list-interactive.mjs` (--validate вшит в `preflight.mjs`) |

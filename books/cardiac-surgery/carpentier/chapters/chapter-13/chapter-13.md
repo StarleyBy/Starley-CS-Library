@@ -165,14 +165,18 @@ Two key features have a direct impact on this decision: (1) the surface area and
 
 The decision to proceed with repair versus replacement in Type IIIa dysfunction is structured by the anatomical matrix of leaflet pliability versus subvalvular compromise ([Table 13-1](#table-13-01)).
 
-<span id="table-13-01"></span>
+<details class="med-details"><summary>
+
+#### <span id="table-13-01"></span>TABLE 13-1: Feasibility of Valve Reconstruction in Diastolic Restricted Leaflet Motion</summary><div class="details-content">
 
 | Leaflet Pathology / Morphology | Minimal Subvalvular Lesions | Severe Subvalvular Lesions and Calcifications |
 | :--- | :--- | :--- |
 | **Pliable and Large Leaflets** | Repair feasible | Probably not feasible |
 | **Poorly Pliable Leaflets** | Probably feasible (with leaflet extension) | Not feasible |
 
-**TABLE 13-1** Feasibility of Valve Reconstruction in Diastolic Restricted Leaflet Motion.
+###### Feasibility of valve reconstruction in diastolic restricted leaflet motion.
+
+</div></details>
 
 #### Anatomical Components of Type IIIa Regurgitation
 

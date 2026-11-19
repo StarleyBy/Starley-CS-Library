@@ -503,6 +503,8 @@ async function loadChapter(bookPath, chapterId, edition) {
                         }
                     }
                 }
+                if (localFallback) img.dataset.fallback = localFallback;
+                if (rawFallback) img.dataset.raw = rawFallback;
                 img.onerror = function() {
                     if (localFallback && this.src !== localFallback) {
                         this.src = localFallback;

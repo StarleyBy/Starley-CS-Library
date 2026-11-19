@@ -28,8 +28,10 @@ Even moderate TR negatively impacts long-term survival. During left-sided surger
 #### The Pathophysiological Triad
 The pathophysiological triad introduced for the mitral valve (Chapter 6) is also relevant to the other valves, including the tricuspid valve. It provides an accurate description of the valve pathophysiology by a clear separation between etiology, lesions, and dysfunctions ([Table 18-1](#table-18-01)).
 
-<span id="table-18-01"></span>
-#### Table 18-1: Pathophysiological Triad
+<details class="med-details"><summary>
+
+#### <span id="table-18-01"></span>TABLE 18-1: Pathophysiological Triad</summary><div class="details-content">
+
 | Component | Clinical Significance |
 | :--- | :--- |
 | **Etiology** | The cause of the disease |
@@ -38,15 +40,25 @@ The pathophysiological triad introduced for the mitral valve (Chapter 6) is also
 | ↓ | |
 | **Dysfunctions** | Result from the lesions |
 
+###### Pathophysiological Triad.
+
+</div></details>
+
 #### Classification of Etiological Groups
 Tricuspid valve diseases are primarily divided into two etiological groups: functional and organic. The term "functional" tricuspid regurgitation (TR) is used with many different nosologic interpretations that require clarification ([Table 18-2](#table-18-02)).
 
-<span id="table-18-02"></span>
-#### Table 18-2: Characteristics of Functional and Organic Tricuspid Regurgitation
+<details class="med-details"><summary>
+
+#### <span id="table-18-02"></span>TABLE 18-2: Characteristics of Functional and Organic Tricuspid Regurgitation</summary><div class="details-content">
+
 | Functional TR | Organic TR |
 | :--- | :--- |
 | • No organic lesions | • Valvular or myocardial lesions |
 | • TR potentially reversible | • TR non reversible |
+
+###### Characteristics of Functional and Organic Tricuspid Regurgitation.
+
+</div></details>
 
 Since the qualifier "functional" is the opposite of organic, the most logical definition would be to use "functional tricuspid regurgitation" in the absence of well-identified valvular or myocardial lesions. The advantage of this nosologic distinction is emphasized by the fact that organic tricuspid regurgitation is irreversible whereas functional regurgitation is potentially reversible.
 
@@ -60,13 +72,19 @@ The most important characteristic of functional tricuspid regurgitation is its v
 #### Spectrum of Organic Tricuspid Valve Diseases
 Organic tricuspid valve regurgitation mainly results from primary involvement of the tricuspid valve by a variety of diseases ([Table 18-3](#table-18-03)). Rheumatic valvular disease is prevalent in developing countries whereas degenerative valvular diseases and bacterial endocarditis are more common in Western countries ([Fig. 18-1](#fig-18-01)).
 
-<span id="table-18-03"></span>
-#### Table 18-3: Etiology of "Organic" Tricuspid Valvular Diseases
+<details class="med-details"><summary>
+
+#### <span id="table-18-03"></span>TABLE 18-3: Etiology of "Organic" Tricuspid Valvular Diseases</summary><div class="details-content">
+
 | Category | Specific Etiology |
 | :--- | :--- |
 | **Primary valve diseases** | • Congenital malformations<br>• Inflammatory diseases:<br>&nbsp;&nbsp;1. Rheumatic<br>&nbsp;&nbsp;2. Lupus erythematosus<br>• Degenerative diseases:<br>&nbsp;&nbsp;1. Barlow disease<br>&nbsp;&nbsp;2. Marfan disease<br>&nbsp;&nbsp;3. Fibroelastic deficiency<br>• Bacterial endocarditis*<br>• Trauma<br>• Valvular tumors<br>• Carcinoid valve<br>• Radiation therapy |
 | **Secondary to myocardial diseases** | • Ischemic cardiomyopathy<br>• Dilated cardiomyopathy<br>• Endomyocardial fibrosis<br>• Myocardial tumors<br>• Cardiac transplantation |
 | **Other causes** | • Permanent pacemaker or defibrillator lead<br>• Right ventricular sternal adhesions<br>• Medication induced |
+
+###### Etiology of "Organic" Tricuspid Valvular Diseases.
+
+</div></details>
 
 *\*Bacterial endocarditis may be a primary valve disease or may complicate the course of a pre-existing valve disease.*
 
@@ -92,8 +110,10 @@ Although often difficult, the etiological diagnosis is important because it dete
 #### Topographical Distribution of Valvular Lesions
 Whatever the etiology, a disease can cause multiple lesions that may affect the different components of the valve ([Table 18-4](#table-18-04)). Annular dilatation is the most common cause of tricuspid regurgitation. A 20% increase in annular diameter creates a lack of leaflet coaptation and therefore a regurgitation.
 
-<span id="table-18-04"></span>
-#### Table 18-4: Tricuspid Valve Lesions
+<details class="med-details"><summary>
+
+#### <span id="table-18-04"></span>TABLE 18-4: Tricuspid Valve Lesions</summary><div class="details-content">
+
 | Anatomical Component | Pathological Lesions |
 | :--- | :--- |
 | **Annulus** | Dilatation, Abscess |
@@ -102,6 +122,10 @@ Whatever the etiology, a disease can cause multiple lesions that may affect the 
 | **Chordae** | Rupture, Elongation, Thickening, Shortening, Fusion |
 | **Papillary muscles** | Rupture, Elongation |
 | **Ventricle** | Infarction, Fibrosis, Dilatation |
+
+###### Tricuspid Valve Lesions.
+
+</div></details>
 
 #### Echocardiographic Assessment of Annular Dimensions
 A diameter of 40 mm in four-chamber view or 70 mm in transgastric view indicates significant annular dilatation.
@@ -141,13 +165,19 @@ Echocardiography provides important information on the type and degree of dysfun
 #### Principles of Functional Valve Assessment
 The classic separation between valve regurgitation, valve stenosis, and combined valve regurgitation and stenosis is insufficient to assess the feasibility of tricuspid valve reconstruction. Echocardiography and a functional approach assessing leaflet mobility provide more accurate information to the surgeon, who actually determines during the surgery whether or not valve reconstruction is feasible ([Table 18-5](#table-18-05)).
 
-<span id="table-18-05"></span>
-#### Table 18-5: Carpentier's Functional Classification
+<details class="med-details"><summary>
+
+#### <span id="table-18-05"></span>TABLE 18-5: Carpentier's Functional Classification</summary><div class="details-content">
+
 | Type I | Type II |
 | :--- | :--- |
 | **Normal leaflet motion** | **Leaflet prolapse (excess leaflet motion)** |
 | **Type IIIa** | **Type IIIb** |
 | **Restricted leaflet motion (diastolic)** | **Restricted leaflet motion (systolic)** |
+
+###### Carpentier's Functional Classification.
+
+</div></details>
 
 #### Tricuspid Valve Regurgitation Categories
 Based on leaflet motion, three types of valve dysfunction are described depending on whether leaflet motion is normal (type I), excessive (type II), or restricted (type III) ([Fig. 18-4](#fig-18-04)).
@@ -175,18 +205,26 @@ In type III tricuspid regurgitation, leaflet motion is limited either during dia
 #### Tricuspid Valve Stenosis
 Tricuspid valve stenosis results from severe restricted leaflet motion due to commissural fusion, leaflet thickening, chordae fusion, and, more rarely, associated calcification. The severity of involvement of these different structures should be assessed first preoperatively and then intraoperatively to determine the feasibility of valve reconstruction which depends upon leaflet pliability and subvalvular structure involvement ([Table 18-6](#table-18-06)).
 
-<span id="table-18-06"></span>
-#### Table 18-6: Feasibility of Valve Reconstruction in Tricuspid Stenosis
+<details class="med-details"><summary>
+
+#### <span id="table-18-06"></span>TABLE 18-6: Feasibility of Valve Reconstruction in Tricuspid Stenosis</summary><div class="details-content">
+
 | Leaflet Status | Minimal Subvalvular Lesions | Severe Subvalvular Lesions |
 | :--- | :--- | :--- |
 | **Pliable leaflets** | Feasible | Probably not feasible |
 | **Rigid leaflets** | Probably feasible | Not feasible |
 
+###### Feasibility of Valve Reconstruction in Tricuspid Stenosis.
+
+</div></details>
+
 #### Correlation of Dysfunctions and Lesions
 [Table 18-7](#table-18-07) summarizes the relationship between tricuspid valve dysfunctions and corresponding pathological lesions.
 
-<span id="table-18-07"></span>
-#### Table 18-7: Valve Dysfunctions and Corresponding Lesions
+<details class="med-details"><summary>
+
+#### <span id="table-18-07"></span>TABLE 18-7: Valve Dysfunctions and Corresponding Lesions</summary><div class="details-content">
+
 | Valve Dysfunctions | Lesions |
 | :--- | :--- |
 | **Type I: Valve dysfunction with normal leaflet motion** | • Annular dilatation and deformation<br>• Leaflet perforation |
@@ -194,6 +232,10 @@ Tricuspid valve stenosis results from severe restricted leaflet motion due to co
 | **Type III: Restricted leaflet motion** | |
 | &nbsp;&nbsp;*IIIa) Diastolic* | • Leaflet thickening and retraction<br>• Commissure fusion<br>• Chordae thickening<br>• Chordae fusion<br>• Calcification |
 | &nbsp;&nbsp;*IIIb) Systolic* | • Ventricular aneurysm<br>• Ventricular fibrous plaque<br>• Ventricular dilatation<br>• Leaflet entrapment |
+
+###### Valve Dysfunctions and Corresponding Lesions.
+
+</div></details>
 
 </div></details>
 
@@ -204,8 +246,10 @@ Tricuspid valve stenosis results from severe restricted leaflet motion due to co
 #### Echocardiographic Grading of Regurgitation
 The precise evaluation of the hemodynamic consequences of tricuspid regurgitation is problematic because of the variability of preload, afterload, and ventricular function, which often renders this evaluation difficult. Quantitative measurements of tricuspid regurgitation by echocardiography are performed using the vena contracta width, proximal isovelocity surface area (PISA), jet area, and flow reversal in the hepatic veins ([Table 18-8](#table-18-08)).
 
-<span id="table-18-08"></span>
-#### Table 18-8: Grading of Tricuspid Valve Regurgitation
+<details class="med-details"><summary>
+
+#### <span id="table-18-08"></span>TABLE 18-8: Grading of Tricuspid Valve Regurgitation</summary><div class="details-content">
+
 | Parameter | Mild | Moderate | Severe |
 | :--- | :--- | :--- | :--- |
 | **RV / RA / IVC size** | Normal | Normal or dilated | Dilated |
@@ -213,6 +257,10 @@ The precise evaluation of the hemodynamic consequences of tricuspid regurgitatio
 | **VC width (cm)** | Not defined | Not defined, but < 0.7 | > 0.7 |
 | **PISA radius (cm)** | ≤ 0.5 | 0.6–0.9 | > 0.9 |
 | **Hepatic vein flow** | Systolic dominance | Systolic blunting | Systolic reversal |
+
+###### Grading of Tricuspid Valve Regurgitation.
+
+</div></details>
 
 *RV: right ventricle; RA: right atrium; IVC: inferior vena cava; VC: vena contracta; PISA: proximal isovelocity surface area. (Modified from American Society of Echocardiography report.)*
 
@@ -236,8 +284,10 @@ Moderate to severe functional tricuspid regurgitation should therefore be correc
 
 The amount of valvular tissue is assessed by measuring the anteroposterior leaflet surface area, which is then compared to the orifice area to determine whether annuloplasty is recommended (see Fig. 19-5).
 
-<span id="table-18-09"></span>
-#### Table 18-9: Decision-Making Process by Intraoperative Inspection
+<details class="med-details"><summary>
+
+#### <span id="table-18-09"></span>TABLE 18-9: Decision-Making Process by Intraoperative Inspection</summary><div class="details-content">
+
 | Stage / Finding | Assessment / Measurement | Surgical Action |
 | :--- | :--- | :--- |
 | **Intraoperative inspection** | **Organic lesions present** | **Valve reconstruction** |
@@ -246,6 +296,10 @@ The amount of valvular tissue is assessed by measuring the anteroposterior leafl
 | &nbsp;&nbsp;↳ Step 2 | Measure surface area of leaflet tissue attached to anterior papillary muscle | Compare leaflet tissue area to orifice area |
 | &nbsp;&nbsp;↳ Outcome A | Leaflet tissue area ≥ orifice area (e.g., 32 / 32) | **No correction** |
 | &nbsp;&nbsp;↳ Outcome B | Leaflet tissue area < orifice area (e.g., 30 / 32) | **Valve reconstruction (Remodeling annuloplasty)** |
+
+###### Decision-Making Process by Intraoperative Inspection.
+
+</div></details>
 
 #### Surgical Indications in Tricuspid Stenosis
 Tricuspid valve stenosis, usually accompanied by involvement of the left-sided valve, also requires valvular surgery when associated with a severely dilated right atrium, supraventricular arrhythmia, and/or clinical signs of peripheral congestion.

@@ -48,9 +48,9 @@ Degenerative valvular diseases are the main cause of mitral valve regurgitation 
 
 Over the past four decades, advanced histopathological, genetic, and echocardiographic investigations have distinguished several types of degenerative valvular diseases that can be separated into three main categories: Barlow's disease, fibroelastic deficiency, and Marfan's syndrome ([Table 26-1](#table-26-01)).
 
-<span id="table-26-01"></span>
+<details class="med-details"><summary>
 
-**Table 26-1. Characteristics of Degenerative Valvular Diseases (From Carpentier A. et al.)**
+#### <span id="table-26-01"></span>TABLE 26-1: Characteristics of Degenerative Valvular Diseases</summary><div class="details-content">
 
 | Feature / Characteristic | Barlow's Disease | Marfan's Syndrome | Fibroelastic Deficiency |
 |---|---|---|---|
@@ -66,6 +66,10 @@ Over the past four decades, advanced histopathological, genetic, and echocardiog
 | **Mucopolysaccharides** | ↑↑↑ | ↑ | ↓↓ |
 | **Collagen Content** | ↓↓ | ↓ | ↓↓ |
 | **Elastic Fibers** | ↓↓ | Fragmentation (++) | ↓ |
+
+###### Characteristics of degenerative valvular diseases. (From Carpentier A. et al.)
+
+</div></details>
 
 <details class="med-details"><summary>
 
@@ -276,84 +280,84 @@ When properly executed according to functional principles, mitral valve reconstr
 
 #### Differentiating Barlow's Disease from Fibroelastic Deficiency
 
-**Dr. David H. Adams:** What specific findings help differentiate Barlow's valve from fibroelastic deficiency?
+**DA:** What specific findings help differentiate Barlow's valve from fibroelastic deficiency?
 
-**Prof. Alain Carpentier:** There are clinical and morphological characteristics that distinguish these two malformations. Clinical characteristics of Barlow's valve are the presence of click syndrome, the young age of the patient at the time of diagnosis, and the long-lasting and well-tolerated progression of the disease. Morphological characteristics of Barlow's valve are billowing leaflets caused by excess leaflet tissue and myxoid degeneration predominant in the ventricular portion of the leaflets.
+**AC:** There are clinical and morphological characteristics that distinguish these two malformations. Clinical characteristics of Barlow's valve are the presence of click syndrome, the young age of the patient at the time of diagnosis, and the long-lasting and well-tolerated progression of the disease. Morphological characteristics of Barlow's valve are billowing leaflets caused by excess leaflet tissue and myxoid degeneration predominant in the ventricular portion of the leaflets.
 
 By contrast, in fibroelastic deficiency, patients are older, the onset of symptoms is sudden due to chordal rupture, and the leaflets are thin and transparent without excess tissue.
 
 #### Meaning of "Myxomatous Valve"
 
-**Dr. David H. Adams:** Is the term "myxomatous valve" a synonym of Barlow's valve?
+**DA:** Is the term "myxomatous valve" a synonym of Barlow's valve?
 
-**Prof. Alain Carpentier:** Myxoid degeneration is a distinguishing feature of Barlow's valve and is predominant in the ventricular portion of the leaflets. However, myxoid degeneration can also be observed in fibroelastic deficiency, but only in areas of prolapse as a secondary lesion resulting from the long-lasting dysfunction. Therefore, the term "myxomatous valve" is a descriptive histological term, not an etiological synonym for Barlow's disease.
+**AC:** Myxoid degeneration is a distinguishing feature of Barlow's valve and is predominant in the ventricular portion of the leaflets. However, myxoid degeneration can also be observed in fibroelastic deficiency, but only in areas of prolapse as a secondary lesion resulting from the long-lasting dysfunction. Therefore, the term "myxomatous valve" is a descriptive histological term, not an etiological synonym for Barlow's disease.
 
 #### Diagnostic Identification of "Forme Fruste" Barlow's Disease
 
-**Dr. David H. Adams:** As a surgeon, how do you practically differentiate a "forme fruste"* Barlow's disease from fibroelastic deficiency on the basis of valve analysis?
+**DA:** As a surgeon, how do you practically differentiate a "forme fruste"* Barlow's disease from fibroelastic deficiency on the basis of valve analysis?
 
-**Prof. Alain Carpentier:** A practical mean of differentiation is to use the measurement of the anterior leaflet. If this measurement indicates that a ring smaller than 36 mm should be selected to correct the regurgitation, the diagnosis of Barlow's disease can be ruled out. If the selected ring is 36 mm or larger, the etiology is Barlow's disease.
+**AC:** A practical mean of differentiation is to use the measurement of the anterior leaflet. If this measurement indicates that a ring smaller than 36 mm should be selected to correct the regurgitation, the diagnosis of Barlow's disease can be ruled out. If the selected ring is 36 mm or larger, the etiology is Barlow's disease.
 
 #### Morphological Role of Posterior Leaflet Indentations
 
-**Dr. David H. Adams:** Are deep indentations segmenting the posterior leaflet a characteristic of the valve deformity evident in Barlow's disease?
+**DA:** Are deep indentations segmenting the posterior leaflet a characteristic of the valve deformity evident in Barlow's disease?
 
-**Prof. Alain Carpentier:** Indentations of the posterior leaflet are normal structures that facilitate the opening of the valve. They may be larger than normal in patients with Barlow's disease because of excess tissue and excess tension on the edge of the indentation, but they are usually smaller as a result of myxoid tissue proliferation, fibrosis, and, more rarely, calcification.
+**AC:** Indentations of the posterior leaflet are normal structures that facilitate the opening of the valve. They may be larger than normal in patients with Barlow's disease because of excess tissue and excess tension on the edge of the indentation, but they are usually smaller as a result of myxoid tissue proliferation, fibrosis, and, more rarely, calcification.
 
 #### Anterior Papillary Muscle Fibrosis and Calcification
 
-**Dr. Farzan Filsoufi:** What is your explanation for the greater tendency of the anterior papillary muscle to fibrose and calcify in Barlow's disease?
+**FF:** What is your explanation for the greater tendency of the anterior papillary muscle to fibrose and calcify in Barlow's disease?
 
-**Prof. Alain Carpentier:** Your observation is correct but the exact explanation is still obscure. My hypothesis is that any tissue or cells exposed to prolonged mechanical or biological injury may exhibit a disregulation of cellular phosphocalcium metabolism, a cause of calcification. In the case you mention, shear stress plays the major role.
+**AC:** Your observation is correct but the exact explanation is still obscure. My hypothesis is that any tissue or cells exposed to prolonged mechanical or biological injury may exhibit a disregulation of cellular phosphocalcium metabolism, a cause of calcification. In the case you mention, shear stress plays the major role.
 
 The position of the head of the anterior papillary muscle is close to the left ventricular outflow tract and therefore is exposed to more turbulent flow and to higher shear stress. Increased tension on the subvalvular apparatus as a result of excess tissue contributes to the process of calcification involving the two papillary muscles.
 
 #### Rationale for Repairing Billowing Leaflets
 
-**Dr. Farzan Filsoufi:** What led you to first recommend repair of not only leaflet prolapse but also leaflet billowing in Barlow's valve?
+**FF:** What led you to first recommend repair of not only leaflet prolapse but also leaflet billowing in Barlow's valve?
 
-**Prof. Alain Carpentier:** I always pay great attention to mathematical considerations in valve reconstruction. According to the well-known Laplace's law, the tension on the leaflet tissue and chordae is proportional to the radius of a spherical structure. To minimize the risk of recurrent mitral regurgitation, it therefore seemed logical to reduce the exaggerated curvature of both leaflets by repositioning their free margins low in the ventricle. This can be ideally achieved by papillary muscle shortening.
+**AC:** I always pay great attention to mathematical considerations in valve reconstruction. According to the well-known Laplace's law, the tension on the leaflet tissue and chordae is proportional to the radius of a spherical structure. To minimize the risk of recurrent mitral regurgitation, it therefore seemed logical to reduce the exaggerated curvature of both leaflets by repositioning their free margins low in the ventricle. This can be ideally achieved by papillary muscle shortening.
 
 #### Anterior Leaflet Billowing and Surgical Options
 
-**Dr. David H. Adams:** I have observed that anterior leaflet billowing is often corrected by posterior leaflet sliding plasty and annuloplasty. Do you believe papillary muscle sliding plasty or shortening is always necessary?
+**DA:** I have observed that anterior leaflet billowing is often corrected by posterior leaflet sliding plasty and annuloplasty. Do you believe papillary muscle sliding plasty or shortening is always necessary?
 
-**Prof. Alain Carpentier:** It depends upon the degree of billowing and the position of the free edge of the anterior leaflet during systole. A moderate billowing can effectively be minimized by a posterior leaflet sliding plasty. In more severe cases, either a papillary muscle sliding or a shortening plasty is necessary to correct leaflet billowing, thus achieving a large surface of coaptation, a condition for long-term durability.
+**AC:** It depends upon the degree of billowing and the position of the free edge of the anterior leaflet during systole. A moderate billowing can effectively be minimized by a posterior leaflet sliding plasty. In more severe cases, either a papillary muscle sliding or a shortening plasty is necessary to correct leaflet billowing, thus achieving a large surface of coaptation, a condition for long-term durability.
 
 #### Posterior Leaflet Management in Isolated Anterior Prolapse
 
-**Dr. Farzan Filsoufi:** In patients with Barlow's disease and isolated anterior leaflet prolapse, does the posterior leaflet require repair?
+**FF:** In patients with Barlow's disease and isolated anterior leaflet prolapse, does the posterior leaflet require repair?
 
-**Prof. Alain Carpentier:** Considering that the posterior leaflet is always billowing in Barlow's disease, I think the posterior leaflet needs correction, first to prevent SAM and second to reduce leaflet and chordae tension as I just pointed out.
+**AC:** Considering that the posterior leaflet is always billowing in Barlow's disease, I think the posterior leaflet needs correction, first to prevent SAM and second to reduce leaflet and chordae tension as I just pointed out.
 
 #### Reconstructive Strategy in Marfan's Disease
 
-**Dr. Farzan Filsoufi:** Do you advise valve reconstruction in a patient with Marfan's disease who has mild to moderate mitral regurgitation and is undergoing an aortic procedure?
+**FF:** Do you advise valve reconstruction in a patient with Marfan's disease who has mild to moderate mitral regurgitation and is undergoing an aortic procedure?
 
-**Prof. Alain Carpentier:** Patients with Marfan's disease often have surgery at a young age so that all valve dysfunction, even mild to moderate, should be treated during the same procedure to avoid addressing the mitral problem at a later stage. A valve reconstruction is the operation of choice in this situation.
+**AC:** Patients with Marfan's disease often have surgery at a young age so that all valve dysfunction, even mild to moderate, should be treated during the same procedure to avoid addressing the mitral problem at a later stage. A valve reconstruction is the operation of choice in this situation.
 
 #### Annuloplasty Strategy in Dilated Ventricles
 
-**Dr. David H. Adams:** Tell me about your annuloplasty strategy in a late referred degenerative patient with a severely dilated left ventricle, particularly with associated type II and type IIIb dysfunction.
+**DA:** Tell me about your annuloplasty strategy in a late referred degenerative patient with a severely dilated left ventricle, particularly with associated type II and type IIIb dysfunction.
 
-**Prof. Alain Carpentier:** In this rare circumstance, the prolapse should be treated first so as to position the free edges of both leaflets at the same level in the ventricle. Then the type IIIb dysfunction is addressed by using a downsized ring annuloplasty, selecting a ring one to two sizes smaller than would require measurement of the anterior leaflet.
+**AC:** In this rare circumstance, the prolapse should be treated first so as to position the free edges of both leaflets at the same level in the ventricle. Then the type IIIb dysfunction is addressed by using a downsized ring annuloplasty, selecting a ring one to two sizes smaller than would require measurement of the anterior leaflet.
 
 #### Reconstructive Benefit in Left Ventricular Dysfunction
 
-**Dr. Farzan Filsoufi:** The potential benefit of valve reconstruction over replacement in patients with degenerative valve disease and left ventricular dysfunction has been discussed. What is your opinion?
+**FF:** The potential benefit of valve reconstruction over replacement in patients with degenerative valve disease and left ventricular dysfunction has been discussed. What is your opinion?
 
-**Prof. Alain Carpentier:** Valve reconstruction is preferable for two reasons: First, it preserves the whole valvular apparatus, a condition for improved ventricular function. Second, the native valve is an active opening valve as opposed to a prosthesis; therefore the hemodynamics across the valve are improved with reduced blood stasis and reduced risk of thromboembolism.
+**AC:** Valve reconstruction is preferable for two reasons: First, it preserves the whole valvular apparatus, a condition for improved ventricular function. Second, the native valve is an active opening valve as opposed to a prosthesis; therefore the hemodynamics across the valve are improved with reduced blood stasis and reduced risk of thromboembolism.
 
 #### Strategy for Extensive Annular Calcification
 
-**Dr. David H. Adams:** A common finding in Barlow's disease is a quasi-prolapse of the commissural area including A3, PC, and P3. In this setting, I usually favor the magic suture technique. What is your preferred strategy?
+**DA:** A common finding in Barlow's disease is a quasi-prolapse of the commissural area including A3, PC, and P3. In this setting, I usually favor the magic suture technique. What is your preferred strategy?
 
-**Prof. Alain Carpentier:** The magic suture technique is a reasonable alternative provided there is not a significant excess of commissural tissue. If this is the case, however, it is preferable to perform a sliding plasty of the commissural papillary muscle, which effectively corrects both the prolapse and the billowing while preserving optimal commissural leaflet mobility.
+**AC:** The magic suture technique is a reasonable alternative provided there is not a significant excess of commissural tissue. If this is the case, however, it is preferable to perform a sliding plasty of the commissural papillary muscle, which effectively corrects both the prolapse and the billowing while preserving optimal commissural leaflet mobility.
 
 #### Nomenclature: Disease vs. Syndrome
 
-**Dr. Farzan Filsoufi:** Why do you prefer the term disease instead of syndrome to qualify Barlow's and Marfan's diseases?
+**FF:** Why do you prefer the term disease instead of syndrome to qualify Barlow's and Marfan's diseases?
 
-**Prof. Alain Carpentier:** The term syndrome was used in the early clinical era before other tools such as echocardiography, advanced histopathology, and genetics became available. Today the diagnosis of these conditions mainly relies on these investigation tools, which permit identification of a disease. Therefore the term disease seems to me to be more appropriate.
+**AC:** The term syndrome was used in the early clinical era before other tools such as echocardiography, advanced histopathology, and genetics became available. Today the diagnosis of these conditions mainly relies on these investigation tools, which permit identification of a disease. Therefore the term disease seems to me to be more appropriate.
 
 </div></details>

@@ -93,13 +93,18 @@ The concentric reduction of the tricuspid valve orifice during systole results f
 
 **FIGURE 17-4** Cyclic dynamics and 3D deformation of the tricuspid annulus: circular diastolic geometry (a) transitioning into an elliptical, concentrically reduced systolic wave form with axial torsion (b).
 
-<span id="table-17-01"></span>
-#### Table 17-1: Measurements of the Tricuspid Annulus
+<details class="med-details"><summary>
+
+#### <span id="table-17-01"></span>TABLE 17-1: Measurements of the Tricuspid Annulus</summary><div class="details-content">
 
 | Parameter | Diastolic Value | Systolic Value | Dynamics / Percent Change |
 |:---|:---|:---|:---|
 | **Orifice Area** | $7.1 \pm 1.3\text{ cm}^2$ | $5 \pm 1\text{ cm}^2$ | $20\text{--}30\%$ systolic reduction |
 | **Circumference** | $9.3 \pm 0.9\text{ cm}$ | — | $13 \pm 1\%$ systolic reduction |
+
+###### Measurements of the Tricuspid Annulus.
+
+</div></details>
 
 #### Critical Anatomical Structures at Risk
 
@@ -131,8 +136,9 @@ The anterior leaflet has a semicircular shape with an average height of 25 mm. T
 
 **FIGURE 17-6** Anatomy and proportions of the three tricuspid leaflets: large semicircular anterior leaflet, scalloped posterior leaflet, and relatively immobile septal leaflet.
 
-<span id="table-17-02"></span>
-#### Table 17-2: Measurements of the Three Leaflets and Commissures
+<details class="med-details"><summary>
+
+#### <span id="table-17-02"></span>TABLE 17-2: Measurements of the Three Leaflets and Commissures</summary><div class="details-content">
 
 | Component | Insertion Length (mm) | Height (mm) | Functional Characteristics |
 |:---|:---|:---|:---|
@@ -142,6 +148,10 @@ The anterior leaflet has a semicircular shape with an average height of 25 mm. T
 | **Posterior Leaflet** | 37.8 | — | Scalloped, multiple indentations |
 | **Posteroseptal Commissure** | 17.3 | — | Supported by posterior papillary complex |
 | **Septal Leaflet** | 35.9 | — | Attached to septum, least mobile |
+
+###### Measurements of the Three Leaflets and Commissures.
+
+</div></details>
 
 #### Dual Role of the Subvalvular Mechanism
 

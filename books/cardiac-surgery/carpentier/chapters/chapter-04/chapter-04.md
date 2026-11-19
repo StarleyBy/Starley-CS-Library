@@ -316,9 +316,9 @@ De-airing is executed in three successive, coordinated stages ([Fig. 4-11](#fig-
 
 </div></details>
 
-### TABLE 4-1: De-airing Procedures
+<details class="med-details"><summary>
 
-<span id="table-04-01"></span>
+#### <span id="table-04-01"></span>TABLE 4-1: De-airing Procedures</summary><div class="details-content">
 
 | Operative Step / Parameter | 1. Passive Retrograde | 2. Passive Antegrade | 3. Active Antegrade |
 | :--- | :--- | :--- | :--- |
@@ -329,6 +329,10 @@ De-airing is executed in three successive, coordinated stages ([Fig. 4-11](#fig-
 | **Venous Tapes (Snares)** | Open (Released) | Open (Released) | Open (Released) |
 | **Heart Filling** | Filled | Filled | Partially filled |
 | **Pulmonary Ventilation** | On (Lungs inflated) | On (Active) | On (Active) |
+
+###### Three-step systematic de-airing protocol parameters.
+
+</div></details>
 
 </div></details>
 

@@ -110,6 +110,17 @@ try {
   assert(false, `Ошибка unit-тестирования Cloud Sync & Auth: ${e.message}`);
 }
 
+// 8. Проверка медиа-инспектора и зумирования схем (media-inspector & scheme-zoom)
+console.log('\n📋 8. Проверка медиа-инспектора и зумирования схем...');
+try {
+  const mediaOutput = execSync('node tests/unit/media-inspector.test.mjs', { cwd: root, encoding: 'utf8' });
+  assert(mediaOutput.includes('ALL MEDIA INSPECTOR UNIT TESTS PASSED'), 'Unit-тесты MediaInspector успешно пройдены');
+  const schemeOutput = execSync('node tests/unit/scheme-zoom.test.js', { cwd: root, encoding: 'utf8' });
+  assert(schemeOutput.includes('Все проверки SchemeZoom пройдены'), 'Unit-тесты SchemeZoom успешно пройдены');
+} catch (e) {
+  assert(false, `Ошибка unit-тестирования MediaInspector/SchemeZoom: ${e.message}`);
+}
+
 console.log(`\n======================================================`);
 console.log(`Итог: Всего проверок: ${totalTests} | Пройдено: ${passedTests} | Провалено: ${failedTests}`);
 console.log(`======================================================\n`);

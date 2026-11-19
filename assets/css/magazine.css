@@ -32,13 +32,16 @@ body.magazine-mode {
 /* Header */
 .magazine-header {
     height: var(--mag-header-h);
-    background: rgba(20, 20, 20, 0.9);
-    border-bottom: 1px solid #333;
+    background: rgba(20, 20, 20, 0.85);
+    -webkit-backdrop-filter: blur(20px) saturate(180%);
+    backdrop-filter: blur(20px) saturate(180%);
+    border-bottom: 1px solid rgba(255, 255, 255, 0.08);
     display: flex;
     align-items: center;
     padding: 0 20px;
     gap: 20px;
     z-index: 100;
+    transition: background 0.3s ease;
 }
 
 .mag-btn {

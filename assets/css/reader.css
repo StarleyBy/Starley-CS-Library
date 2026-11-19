@@ -198,11 +198,14 @@
   left: 0;
   width: 100%;
   height: var(--header-height);
-  background: #fff;
-  border-bottom: 1px solid var(--border-color);
-  box-shadow: 0 2px 5px rgba(0,0,0,0.05);
+  background: rgba(255, 255, 255, 0.82);
+  -webkit-backdrop-filter: blur(20px) saturate(180%);
+  backdrop-filter: blur(20px) saturate(180%);
+  border-bottom: 1px solid rgba(0, 0, 0, 0.08);
+  box-shadow: 0 1px 0 rgba(0,0,0,0.04);
   z-index: 1000;
   overflow: visible;
+  transition: background 0.3s ease;
 }
 
 .header-content {
@@ -2008,7 +2011,9 @@ body.sepia-mode {
   color: #3b2f1e !important;
 }
 body.sepia-mode .reader-header {
-  background: #ede8df !important;
+  background: rgba(237, 232, 223, 0.85) !important;
+  -webkit-backdrop-filter: blur(20px) saturate(180%) !important;
+  backdrop-filter: blur(20px) saturate(180%) !important;
   border-color: #d4c9b5 !important;
 }
 body.sepia-mode .sidebar {
@@ -2305,7 +2310,9 @@ body.night-mode {
 }
 
 body.night-mode .reader-header {
-  background: #16213e !important;
+  background: rgba(22, 33, 62, 0.88) !important;
+  -webkit-backdrop-filter: blur(20px) saturate(180%) !important;
+  backdrop-filter: blur(20px) saturate(180%) !important;
   border-color: #0f3460 !important;
 }
 

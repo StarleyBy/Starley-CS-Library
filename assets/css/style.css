@@ -27,12 +27,14 @@ header {
     -webkit-backdrop-filter: blur(20px) saturate(180%);
     backdrop-filter: blur(20px) saturate(180%);
     color: white;
-    padding: 0.8rem 2rem;
+    padding: 0 1.25rem;
+    height: 48px;
     box-shadow: 0 1px 0 rgba(255,255,255,0.06);
     border-bottom: 1px solid rgba(255,255,255,0.08);
     display: flex;
     justify-content: space-between;
     align-items: center;
+    flex-wrap: nowrap;
     position: fixed;
     top: 0;
     left: 0;
@@ -44,20 +46,35 @@ header {
 
 header h1 {
     margin: 0;
-    font-size: 1.5rem;
+    font-size: 1.15rem;
+    white-space: nowrap;
+    flex-shrink: 0;
+}
+
+header nav {
+    display: flex;
+    align-items: center;
+    gap: 2px;
+    flex-wrap: nowrap;
+    overflow: hidden;
 }
 
 header nav a {
-    color: white;
+    color: rgba(255, 255, 255, 0.85);
     text-decoration: none;
-    margin-left: 1.5rem;
-    padding: 0.5rem 1rem;
-    border-radius: 4px;
-    transition: background 0.3s;
+    margin: 0;
+    padding: 6px 12px;
+    border-radius: 20px;
+    font-size: 0.82rem;
+    font-weight: 500;
+    white-space: nowrap;
+    transition: background 0.2s ease, color 0.2s ease;
+    letter-spacing: -0.01em;
 }
 
 header nav a:hover {
     background: rgba(255,255,255,0.1);
+    color: white;
 }
 
 main {

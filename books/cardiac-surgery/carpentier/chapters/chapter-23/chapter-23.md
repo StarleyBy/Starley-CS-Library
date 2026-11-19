@@ -47,7 +47,10 @@ Congenital mitral valve regurgitation frequently results in repeated lower respi
 
 Surgery should be delayed as late as feasible to allow the implantation of an annuloplasty ring of near-normal size ([Table 23-1](#table-23-01)). In practice, repeated episodes of cardiac failure, progressive left ventricular enlargement, or pulmonary artery hypertension dictate the timing of operative intervention.
 
-<span id="table-23-01"></span>
+<details class="med-details"><summary>
+
+#### <span id="table-23-01"></span>TABLE 23-1: Normal Mitral Annular Size by Body Surface Area</summary><div class="details-content">
+
 | Table 23-1. Normal Mitral Annular Size by Body Surface Area |  |
 | :--- | :--- |
 | **Body Surface Area (Square Meters)** | **Annular Diameter (Millimeters)** |
@@ -68,6 +71,10 @@ Surgery should be delayed as late as feasible to allow the implantation of an an
 | 1.80 | 23.8 |
 | 2.00 | 24.2 |
 
+###### Modified from Rowlatt UF, et al. Approximate standard deviations: 1.9 mm for BSA < 0.3 m², and 1.6 mm for BSA > 0.3 m².
+
+</div></details>
+
 *Modified from Rowlatt UF, et al. Approximate standard deviations: 1.9 mm for body surface area < 0.3 m², and 1.6 mm for body surface area > 0.3 m².*
 
 </div></details>
@@ -83,7 +90,10 @@ The diagnosis of the precise type of malformation is difficult because of the nu
 
 These diagnostic modalities facilitate accurate identification of the malformation ([Table 23-2](#table-23-02)) and guide the systematic functional approach to surgical valve reconstruction.
 
-<span id="table-23-02"></span>
+<details class="med-details"><summary>
+
+#### <span id="table-23-02"></span>TABLE 23-2: Functional Classification of Congenital Mitral Valve Malformations</summary><div class="details-content">
+
 | Table 23-2. Functional Classification: Congenital Malformations |
 | :--- |
 | **Type I — Normal Leaflet Motion** |
@@ -103,6 +113,9 @@ These diagnostic modalities facilitate accurate identification of the malformati
 | • Hammock valve (muscular arcade) |
 | • Papillary muscle agenesis or severe hypoplasia |
 
+###### Carpentier's functional classification of congenital mitral valve malformations.
+
+</div></details>
 Echocardiography is also critical to quantify the severity of valvular stenosis or regurgitation, measure the annular dimensions against nomograms of normal size, and evaluate ventricular chamber volumes and systolic function. Associated cardiovascular lesions must be systematically cataloged.
 
 #### Type I: Normal Leaflet Motion
@@ -234,7 +247,10 @@ In hammock valves, muscular bridges obstructing the subvalvular inflow are divid
 #### Concomitant Cardiovascular Malformations
 Associated cardiovascular anomalies are extremely frequent in patients with congenital mitral valve malformations. In our clinical series of 145 surgically managed children, associated anomalies were identified in the vast majority of cases ([Table 23-3](#table-23-03)).
 
-<span id="table-23-03"></span>
+<details class="med-details"><summary>
+
+#### <span id="table-23-03"></span>TABLE 23-3: Lesions Associated with Congenital Mitral Valve Malformations (N = 145)</summary><div class="details-content">
+
 | Table 23-3. Lesions Associated with Mitral Valve Malformation (N = 145) |  |
 | :--- | :--- |
 | **Associated Lesion** | **Number of Patients** |
@@ -252,6 +268,10 @@ Associated cardiovascular anomalies are extremely frequent in patients with cong
 | Pulmonary artery stenosis | 1 |
 | Transposition of the great arteries | 1 |
 
+###### Associated cardiovascular anomalies in a surgical series of 145 patients (Chauvaud et al.).
+
+</div></details>
+
 *From Chauvaud et al.* All associated cardiovascular anomalies must be systematically identified and corrected concurrently during the primary mitral valve intervention.
 
 #### Early Surgical Series (1970–1991)
@@ -266,7 +286,10 @@ In a subsequent detailed study of 145 children younger than 12 years (mean age 5
 
 The distribution of functional types and anatomical malformations in this cohort is detailed in [Table 23-4](#table-23-04).
 
-<span id="table-23-04"></span>
+<details class="med-details"><summary>
+
+#### <span id="table-23-04"></span>TABLE 23-4: Functional Classification and Mitral Valve Anomalies (N = 145)</summary><div class="details-content">
+
 | Table 23-4. Functional Classification and Mitral Valve Anomalies (N = 145) | Number (N) | Percentage (%) |
 | :--- | :--- | :--- |
 | **Type I — Normal Leaflet Motion** | **31** | **21.4%** |
@@ -285,6 +308,10 @@ The distribution of functional types and anatomical malformations in this cohort
 | 1. Parachute valve | 5 | 3.4% |
 | 2. Hammock valve | 12 | 8.2% |
 | 3. Papillary muscle hypoplasia | 3 | 2.0% |
+
+###### Distribution of functional types and anatomical anomalies in 145 children (Chauvaud et al.).
+
+</div></details>
 
 *From Chauvaud et al.*
 

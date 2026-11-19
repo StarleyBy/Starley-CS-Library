@@ -55,13 +55,19 @@ The sino-tubular junction is a small ridge of transverse collagen and elastic bu
 #### Asymmetry and Dimensions of the Sinuses of Valsalva
 The sinuses of Valsalva are three dilatations of the aortic wall named according to the origin of the coronary arteries: right coronary, left coronary, and non-coronary sinuses. The three sinuses of Valsalva are unequal in size ([Table 20-1](#table-20-01)).
 
-<span id="table-20-01"></span>
-#### Table 20-1: Dimensions of Sinuses of Valsalva
+<details class="med-details"><summary>
+
+#### <span id="table-20-01"></span>TABLE 20-1: Dimensions of Sinuses of Valsalva</summary><div class="details-content">
+
 | Sinus | Intercommissural Distance (mm) | Height of Sinuses (mm) |
 | :--- | :--- | :--- |
 | **Right coronary sinus** | 18.8 (1.8)* | 19.4 (1.9)* |
 | **Non-coronary sinus** | 17.4 (1.9)* | 17.7 (1.7)* |
 | **Left coronary sinus** | 15.2 (1.8)* | 17.4 (1.4)* |
+
+###### Dimensions of Sinuses of Valsalva.
+
+</div></details>
 
 *\*Measured in mm, standard deviation in parenthesis. (From Berdajs D, et al.)*
 

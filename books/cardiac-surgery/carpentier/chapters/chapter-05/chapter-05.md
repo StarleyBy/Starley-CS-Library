@@ -15,22 +15,24 @@
 
 ### The Mitral Annulus and Surrounding Hazards
 * **Anatomical Nature:** The annulus fibrosus is not a continuous rigid ring ([Fig. 5-3](#fig-05-03)). It exists primarily as a discontinuous fibrous band along the posterior leaflet attachment. At the anterior leaflet, the annulus is absent; the leaflet is continuous with the fibrous aorto-mitral curtain between the left and right fibrous trigones.
-* **Dynamic Geometry:** During systole, the normal annulus undergoes a $26 \pm 3\%$ reduction in orifice area and a $13 \pm 3\%$ reduction in circumference ([Table 5-1](#table-05-01)), acting as an active sphincter that deepens into a 3D saddle shape ([Fig. 5-4](#fig-05-04)).
-* **Critical Danger Zones ([Fig. 5-5](#fig-05-05)):**
+* **Dynamic Geometry:** During systole, the normal annulus undergoes a $26 \pm 3\%$ reduction in orifice area and a $13 \pm 3\%$ reduction in circumference ([Table 5-1](#table-05-01)), acting as an active sphincter that deepens into a 3D saddle shape ([Fig. 5-4](#fig-05-04), [Fig. 5-5](#fig-05-05)).
+* **Critical Danger Zones ([Fig. 5-6](#fig-05-06)):**
   * *Circumflex Coronary Artery:* Runs within the left atrioventricular groove, closely approaching the annulus ($< 5\text{ mm}$) at the anterolateral commissure and the P1 scallop.
   * *Coronary Sinus:* Courses superiorly along the posterior atrioventricular groove (5 mm above the annulus), vulnerable during deep suture placement in P2–P3.
   * *Bundle of His and AV Node:* Situated in the central fibrous body adjacent to the posteromedial trigone and medial commissure; deeply placed sutures here risk complete heart block.
   * *Aortic Valve Noncoronary & Left Coronary Cusps:* Lie in direct fibrous continuity with the anterior leaflet; deep sutures through the aorto-mitral curtain risk cusp perforation or distortion.
 
 ### Leaflet Architecture and Sizing Principles
-* **Scallop Segmentation ([Fig. 5-6](#fig-05-06)):**
-  * *Posterior Leaflet:* Quadrate shape with 3 anatomical scallops separated by clefts/indentations: P1 (anterolateral), P2 (central, largest), and P3 (posteromedial). P2 height averages $14 \pm 0.9\text{ mm}$ ([Table 5-2](#table-05-02)).
-  * *Anterior Leaflet:* Triangular, smooth, and robust with an insertion length of $32 \pm 1.3\text{ mm}$ and midline height of $23 \pm 0.9\text{ mm}$. Subdivided conceptually into three segments (A1, A2, A3) mirroring the posterior scallops.
-* **Surface of Coaptation:** Effective competence requires a broad coaptation height of $8 \pm 1.1\text{ mm}$ between the anterior leaflet and P2 ([Fig. 5-7](#fig-05-07), [Fig. 5-8](#fig-05-08)). This apposition functions as the "keystone of an arch," distributing closing systolic pressure and relieving tension on the chordae tendineae.
-* **Zonal Anatomy:**
-  * *Anterior Leaflet ([Fig. 5-9](#fig-05-09)):* Divided into a basal (translucent) zone and a distal rough zone (zone of coaptation).
-  * *Posterior Leaflet ([Fig. 5-10](#fig-05-10)):* Divided into a basal zone, an intermediary (clear) zone, and a rough marginal zone.
-  * *Commissural Areas ([Fig. 5-11](#fig-05-11)):* Specialized 5 to 8 mm distinct segments between anterior and posterior leaflets supported by fan-shaped commissural chordae.
+* **Leaflet Dimensions & Proportions ([Fig. 5-7](#fig-05-07), [Table 5-2](#table-05-02)):**
+  * *Insertion Proportions:* The anterior leaflet occupies approximately one third of the annular circumference, whereas the posterior leaflet and commissural tissue occupy the remaining two thirds.
+  * *Surface Areas:* Although differing markedly in shape, both leaflets share an equivalent surface area.
+* **Anterior Leaflet Morphology ([Fig. 5-8](#fig-05-08)):** Trapezoidal shape with an insertion length of $32 \pm 1.3\text{ mm}$ and midline height of $23 \pm 0.9\text{ mm}$. Zonal architecture consists of a smooth basal translucent zone and a distal coaptation rough zone.
+* **Scallop Segmentation ([Fig. 5-9](#fig-05-09)):**
+  * *Posterior Leaflet:* Quadrate shape with 3 anatomical scallops separated by clefts/indentations: P1 (anterolateral), P2 (central, largest), and P3 (posteromedial). P2 height averages $14 \pm 0.9\text{ mm}$.
+  * *Anterior Leaflet:* Subdivided conceptually into three segments (A1, A2, A3) mirroring the posterior scallops.
+* **Commissural Areas & Coaptation Line ([Fig. 5-10](#fig-05-10), [Fig. 5-11](#fig-05-11)):**
+  * *Commissural Anatomy:* Distinct 5 to 8 mm segments supported by fan-shaped chordae and dedicated papillary muscle tips.
+  * *Coaptation Geometry:* Effective competence requires a broad coaptation height of $8 \pm 1.1\text{ mm}$ between the anterior leaflet and P2, acting as the "keystone of an arch" to relieve chordal tension.
 
 ### The Subvalvular Tension Apparatus
 * **Papillary Muscles ([Fig. 5-12](#fig-05-12)):**
@@ -95,17 +97,15 @@ The anterior attachment is bounded at each extremity by two dense fibrous struct
 
 #### Dynamic Geometry and Saddle Shape</summary><div class="details-content">
 
-During cardiac contraction, the mitral annulus undergoes dynamic 3D conformational changes ([Fig. 5-4](#fig-05-04)). In diastole, the annulus relaxes into a relatively planar, circular configuration to maximize diastolic inflow. In systole, active annular contraction reduces the orifice area by $26 \pm 3\%$ and circumference by $13 \pm 3\%$ ([Table 5-1](#table-05-01)).
-
-Concurrently, the annulus accentuates its non-planar 3D "saddle" shape. The anterior segment elevates toward the left atrium, the fibrous trigones descend toward the ventricular apex, and the posterior segment curves downward, significantly decreasing mechanical stress on the leaflet tissue and chordae.
+During cardiac contraction, the mitral annulus undergoes dynamic conformational changes throughout the cardiac cycle ([Fig. 5-4](#fig-05-04)). In diastole, the annulus relaxes into a relatively planar, circular configuration to maximize diastolic inflow. In systole, active annular contraction reduces the orifice area by $26 \pm 3\%$ and circumference by $13 \pm 3\%$ ([Table 5-1](#table-05-01)), adopting a kidney-shaped configuration where the septolateral diameter is significantly smaller than the transverse diameter.
 
 <span id="fig-05-04"></span>![](_page_29_Figure_5-4.jpeg)
 
-**FIGURE 5-4** 3D dynamic saddle-shaped geometry of the mitral annulus during systole (accentuated saddle configuration with apical descent of trigones) and diastole (flattened, dilated configuration).
+**FIGURE 5-4** Variations in annular shape during the cardiac cycle: (a) circular geometry during diastole; (b) kidney-shaped configuration during systole with significant reduction in the anteroposterior diameter.
 
-### TABLE 5-1: Dimensions of Mitral Valve Orifice (from Ormiston)
+<details class="med-details"><summary>
 
-<span id="table-05-01"></span>
+#### <span id="table-05-01"></span>TABLE 5-1: Dimensions of Mitral Valve Orifice (from Ormiston)</summary><div class="details-content">
 
 | Parameter | Echo Measurements of the Atrio-valvular Junction (Annulus) | Corrected Orifice Area for Body Surface Area |
 | :--- | :--- | :--- |
@@ -115,6 +115,16 @@ Concurrently, the annulus accentuates its non-planar 3D "saddle" shape. The ante
 | **Circumference (Maximum)** | $93 \pm 9\text{ mm}$ | — |
 | **% Reduction of Circumference** | $13 \pm 3\%$ | — |
 
+###### Dimensions of mitral valve orifice and annular reduction (Ormiston).
+
+</div></details>
+
+Instead of having a planar configuration, the annulus exhibits a pronounced three-dimensional saddle-shaped configuration ([Fig. 5-5](#fig-05-05)). The two lowest points are located at the fibrous trigones, and the two highest points are located at the midpoints of the anterior and posterior annuli. The midpoint of the anterior annulus is higher than that of the posterior annulus, creating an angle of $120^\circ$ between the aortic and mitral valve planes. This dynamic 3D architecture markedly decreases mechanical stress on the leaflet tissue and chordae tendineae during peak systole.
+
+<span id="fig-05-05"></span>![](_page_30_Figure_5-5.jpeg)
+
+**FIGURE 5-5** Three-dimensional saddle-shaped configuration of the mitral annulus: the lowest points are located at the fibrous trigones and the highest points at the midpoints of the anterior and posterior annuli (with an angle of 120° between the aortic and mitral valve planes); bottom schematic illustrates the annular contour.
+
 </div></details>
 
 </div></details>
@@ -123,16 +133,16 @@ Concurrently, the annulus accentuates its non-planar 3D "saddle" shape. The ante
 
 ### Surrounding Structures and Surgical Hazards</summary><div class="details-content">
 
-Four vital anatomical structures surround the mitral annulus and represent significant operative hazards during annular dissection and prosthetic ring placement ([Fig. 5-5](#fig-05-05)):
+Four vital anatomical structures surround the mitral annulus and represent significant operative hazards during annular dissection and prosthetic ring placement ([Fig. 5-6](#fig-05-06)):
 
-<span id="fig-05-05"></span>![](_page_30_Figure_5-5.jpeg)
-
-**FIGURE 5-5** Critical anatomical relationships and surgical hazard zones surrounding the mitral annulus: (a) circumflex coronary artery in the atrioventricular groove; (b) coronary sinus; (c) atrioventricular node and bundle of His near the posteromedial trigone; (d) aortic valve noncoronary and left coronary cusps.
-
-1. **The Circumflex Coronary Artery:** Traverses the left atrioventricular groove. It runs within 3 to 5 mm of the annulus adjacent to the anterolateral commissure and the anterior portion of the posterior leaflet (P1 scallop). Deep suture placement in this sector can entrap, kinking, or lacerate the artery, causing acute lateral myocardial infarction.
+1. **The Circumflex Coronary Artery:** Traverses the left atrioventricular groove. It runs within 3 to 4 mm of the annulus adjacent to the anterolateral commissure and the anterior portion of the posterior leaflet (P1 scallop). Deep suture placement in this sector can entrap, kink, or lacerate the artery, causing acute lateral myocardial infarction.
 2. **The Coronary Sinus:** Runs along the epicardial aspect of the posterior atrioventricular groove approximately 5 mm superior to the annulus. Deeply placed sutures in the P2 and P3 sectors risk tearing the sinus, leading to severe concealed mediastinal hemorrhage.
 3. **The Bundle of His:** Penetrates the central fibrous body adjacent to the posteromedial fibrous trigone and medial commissure. Sutures placed too deeply through the medial fibrous trigone or posterior commissural tissue risk injuring the conduction system and producing complete heart block.
-4. **The Aortic Valve:** The noncoronary and left coronary aortic cusps are separated from the anterior mitral leaflet only by the thin aorto-mitral curtain. Suture bites placed deeply along the anterior annulus can pierce or distort the aortic cusps, creating acute postoperative aortic insufficiency.
+4. **The Aortic Valve:** The noncoronary and left coronary aortic cusps are separated from the anterior mitral leaflet only by the thin aorto-mitral curtain. Suture bites placed deeply along the anterior annulus can pierce or distort the aortic cusps, creating acute postoperative aortic insufficiency. Although slight anatomical variations exist, the nadir of these cusps is 6 to 10 mm away from the anterior mitral annulus, which represents a safe zone provided the needle is properly oriented toward the ventricle.
+
+<span id="fig-05-06"></span>![](_page_31_Figure_5-6.jpeg)
+
+**FIGURE 5-6** Four anatomical structures close to the mitral annulus at risk during surgery: circumflex artery, coronary sinus, bundle of His, and the noncoronary and left coronary aortic cusps. Top inset: anatomical variations in the relationship of the aortic valve cusps to the anterior mitral annulus.
 
 </div></details>
 
@@ -142,19 +152,17 @@ Four vital anatomical structures surround the mitral annulus and represent signi
 
 <details class="med-details"><summary>
 
-#### Scallop Segmentation and Dimensions</summary><div class="details-content">
+#### Leaflet Dimensions and Annular Insertion Proportions</summary><div class="details-content">
 
-The mitral valve possesses two distinct leaflets: the anterior (aortic) leaflet and the posterior (mural) leaflet ([Fig. 5-6](#fig-05-06)). Although leaflet tissue is anatomically continuous around the orifice, functional clefts and indentations divide the valve into distinct segments.
+The mitral valve comprises two distinct leaflets—anterior and posterior—separated by two commissures. These leaflets constitute the opening and closing units of the valve. Optimal closure requires precise fitting between the leaflet surface area and the mitral orifice area.
 
-The posterior leaflet is partitioned by two regular indentations into three anatomical scallops: the anterolateral scallop (P1), the central scallop (P2), and the posteromedial scallop (P3). The anterior leaflet presents a continuous, non-indented surface but is conceptually divided into three corresponding zones (A1, A2, A3) matching the posterior scallops ([Table 5-2](#table-05-02)).
+Although the anterior and posterior leaflets have different sizes and shapes ([Table 5-2](#table-05-02)), with the anterior leaflet more extended vertically and the posterior leaflet more extended transversally, they have a similar surface area.
 
-<span id="fig-05-06"></span>![](_page_31_Figure_5-6.jpeg)
+The basal insertion of the anterior leaflet occupies approximately one third of the circumference of the mitral valve ([Fig. 5-7](#fig-05-07)). The remaining two thirds of the circumference attaches to the posterior leaflet and the commissural tissue. The anterior leaflet is primarily related to the left ventricular outflow tract via the aorto-mitral curtain, whereas the posterior leaflet is related to the muscular parietal base of the left ventricle.
 
-**FIGURE 5-6** Carpentier's segmental classification of the mitral leaflets: posterior leaflet scallops P1 (anterolateral), P2 (middle), and P3 (posteromedial); corresponding anterior leaflet functional segments A1, A2, and A3.
+<details class="med-details"><summary>
 
-### TABLE 5-2: Dimensions of Leaflets (from Carpentier)
-
-<span id="table-05-02"></span>
+#### <span id="table-05-02"></span>TABLE 5-2: Dimensions of Leaflets (from Carpentier)</summary><div class="details-content">
 
 | Dimension | Anterolateral Commissure | Anterior Leaflet | Posteromedial Commissure | Posterior Leaflet |
 | :--- | :--- | :--- | :--- | :--- |
@@ -162,46 +170,63 @@ The posterior leaflet is partitioned by two regular indentations into three anat
 | **Height (mm)** | $8 \pm 1$ | $23 \pm 0.9$ | $8 \pm 1$ | P1: $9 \pm 1$<br>P2: $14 \pm 0.9$<br>P3: $10 \pm 1.2$ |
 | **Coaptation Zone Height (mm)** | $4 \pm 0.5$ | $8 \pm 1.1$ | $4 \pm 0.6$ | P2: $8 \pm 0.9$ |
 
+###### Mitral valve leaflet dimensions (Carpentier).
+
+</div></details>
+
+<span id="fig-05-07"></span>![](_page_32_Figure_5-7.jpeg)
+
+**FIGURE 5-7** Relative proportions of leaflet insertion along the mitral annulus: the anterior leaflet occupies approximately one third of the circumference, whereas the posterior leaflet and commissural tissue occupy the remaining two thirds. Inset: cross-sectional schematic of the coaptation line.
+
 </div></details>
 
 <details class="med-details"><summary>
 
-#### Surface of Coaptation and Zonal Architecture</summary><div class="details-content">
+#### Anterior Leaflet Morphology and Zonal Architecture</summary><div class="details-content">
 
-Valvular competence requires more than simple edge-to-edge contact: it depends on an extensive coaptation surface area ([Fig. 5-7](#fig-05-07)). The height of coaptation averages $8 \pm 1.1\text{ mm}$ between the anterior leaflet and P2.
+The anterior leaflet, also called the aortic leaflet, has a characteristic trapezoidal shape ([Fig. 5-8](#fig-05-08)). Its base, which measures $32 \pm 1.3\text{ mm}$, is inserted on the aorto-mitral curtain and the adjacent fibrous trigones. The free edge presents with a slightly convex curvature. At the midline, the height of the anterior leaflet is $23 \pm 0.9\text{ mm}$.
 
-This broad surface of coaptation acts as the keystone of an architectural arch. Intraventricular systolic pressure forces the coapting surfaces tightly against one another, bearing the primary mechanical load and shielding the delicate chordae tendineae from excessive tensile stress ([Fig. 5-8](#fig-05-08)).
-
-<span id="fig-05-07"></span>![](_page_32_Figure_5-7.jpeg)
-
-**FIGURE 5-7** Geometry of the coaptation zone: extensive surface of coaptation ($8\text{ mm}$ height) between the rough zones of the anterior and posterior leaflets during ventricular systole.
+From base to free margin, the anterior leaflet presents two distinct morphological zones: the atrial zone is smooth, pliable, and translucent, whereas the distal coaptation zone is thicker, rough, and corrugated, receiving the chordal insertions that support coaptation.
 
 <span id="fig-05-08"></span>![](_page_32_Figure_5-8.jpeg)
 
-**FIGURE 5-8** Leaflet motion and coaptation during diastole (full opening) and systole (stable rough-zone apposition).
+**FIGURE 5-8** Morphology and zonal architecture of the anterior leaflet: smooth translucent atrial zone and thicker coaptation zone receiving chordal support; inset illustrates diastolic inflow and systolic outflow orientation.
 
-The anterior leaflet displays two distinct morphological zones from base to free margin ([Fig. 5-9](#fig-05-09)): a smooth, pliable, translucent basal zone (body) and a thicker, rough distal zone that participates in coaptation and receives the insertion of the secondary and marginal chordae.
+</div></details>
+
+<details class="med-details"><summary>
+
+#### Posterior Leaflet Scallop Segmentation (Carpentier's Classification)</summary><div class="details-content">
+
+The posterior leaflet is inserted on approximately two thirds of the annulus, along the crest of the left ventricular muscular wall. As a result of this configuration, maximum stress during systole is concentrated at the midline of the posterior leaflet.
+
+The indentations of the posterior leaflet are normal anatomical structures that divide the leaflet into three scallops, designated P1 (anterolateral), P2 (middle), and P3 (posteromedial), to facilitate valve analysis ([Fig. 5-9](#fig-05-09)). By convention, the corresponding areas of the anterior leaflet are designated A1, A2, and A3, and the commissures are designated AC (anterolateral) and PC (posteromedial). P2 is normally the largest and highest scallop ($14 \pm 0.9\text{ mm}$).
 
 <span id="fig-05-09"></span>![](_page_33_Figure_5-9.jpeg)
 
-**FIGURE 5-9** Zonal architecture of the anterior leaflet: smooth basal zone and distal rough zone receiving chordal insertions.
+**FIGURE 5-9** Carpentier's segmental classification of the mitral leaflets: posterior leaflet scallops P1 (anterolateral), P2 (middle), and P3 (posteromedial); corresponding anterior leaflet functional segments A1, A2, and A3; and commissures AC and PC.
 
-The posterior leaflet displays three distinct structural zones ([Fig. 5-10](#fig-05-10)): a narrow basal zone attached to the atrioventricular junction, an intermediary clear zone, and a corrugated marginal rough zone providing the coaptation surface.
+</div></details>
+
+<details class="med-details"><summary>
+
+#### Commissures and Line of Coaptation</summary><div class="details-content">
+
+The commissures are functional entities consisting of two distinct structures: the commissural leaflet and the commissural chordae ([Fig. 5-10](#fig-05-10)). The commissural leaflet is a small, triangular segment of leaflet tissue attached to the annulus, with its free edge supported by one or two characteristic fan-like chordae.
 
 <span id="fig-05-10"></span>![](_page_33_Figure_5-10.jpeg)
 
-**FIGURE 5-10** Zonal architecture of the posterior leaflet: basal zone, clear intermediary zone, and marginal rough zone.
+**FIGURE 5-10** Commissural anatomy: identification of the anterolateral and posteromedial commissures; inset demonstrates nerve hook retraction displaying the triangular commissural leaflet supported by characteristic fan-like chordae.
 
-The commissures are distinct segments measuring 5 to 8 mm in width that separate the anterior and posterior leaflets ([Fig. 5-11](#fig-05-11)). They are identified by their underlying fan-shaped commissural chordae and specific commissural papillary muscle tips.
+A commissure is a functional Y-shaped entity that provides continuous tissue transition between the anterior and posterior leaflets and allows them to coapt securely at their junction. During systole, the leaflets coapt along an extensive surface ($8 \pm 1.1\text{ mm}$ height) acting as the keystone of an arch. The line of coaptation lies parallel to the posterior annulus, approximately 15 mm from the anterior atrioventricular junction and 5 to 6 mm from the posterior annulus ([Fig. 5-11](#fig-05-11)). The line of coaptation is far from the left ventricular outflow tract and separates the orifice into anterior (75%) and posterior (25%) areas.
 
 <span id="fig-05-11"></span>![](_page_34_Figure_5-11.jpeg)
 
-**FIGURE 5-11** Commissural anatomy: anterolateral and posteromedial commissures characterized by specialized fan-shaped commissural chordae.
+**FIGURE 5-11** Morphological boundaries and coaptation relations of the leaflets: unfolded view displaying the anterior leaflet, commissural leaflet, and posterior leaflet with their respective atrial and coaptation zones.
 
 </div></details>
 
 </div></details>
-
 <details class="med-details"><summary>
 
 ### The Subvalvular Apparatus</summary><div class="details-content">
@@ -246,9 +271,9 @@ The chordae tendineae extend from the fibrous tips of the papillary muscles to i
 
 **FIGURE 5-15** Comprehensive spatial architecture of the chordal apparatus: anterior leaflet stay chordae, paracommissural chordae, cleft chordae, and basal posterior chordae.
 
-### TABLE 5-3: Chordae Measurements in Normal Hearts (from Carpentier)
+<details class="med-details"><summary>
 
-<span id="table-05-03"></span>
+#### <span id="table-05-03"></span>TABLE 5-3: Chordae Measurements in Normal Hearts (from Carpentier)</summary><div class="details-content">
 
 | Anatomical Location / Chorda Type | Chordae Length (mm) |
 | :--- | :--- |
@@ -264,6 +289,10 @@ The chordae tendineae extend from the fibrous tips of the papillary muscles to i
 | **Commissures** | |
 | • Anterolateral commissural chordae | $13 \pm 0.2\text{ mm}$ |
 | • Posteromedial commissural chordae | $15 \pm 0.1\text{ mm}$ |
+
+###### Chordae tendineae measurements in normal hearts (Carpentier).
+
+</div></details>
 
 </div></details>
 

@@ -1,20 +1,103 @@
 <!DOCTYPE html>
-<html>
+<html lang="en">
 <head>
   <meta charset="UTF-8">
-  <title>Offline</title>
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Offline — Medical Library</title>
   <style>
+    * { margin: 0; padding: 0; box-sizing: border-box; }
+
     body {
-      font-family: sans-serif;
-      background: #0f172a;
-      color: white;
+      font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, Helvetica, Arial, sans-serif;
+      min-height: 100vh;
+      display: flex;
+      flex-direction: column;
+      align-items: center;
+      justify-content: center;
+      background: linear-gradient(135deg, #0f172a 0%, #1e293b 50%, #0f172a 100%);
+      background-size: 400% 400%;
+      animation: gradientShift 8s ease infinite;
+      color: #f1f5f9;
       text-align: center;
-      padding: 50px;
+      padding: 24px;
+      overflow: hidden;
+    }
+
+    @keyframes gradientShift {
+      0%, 100% { background-position: 0% 50%; }
+      50% { background-position: 100% 50%; }
+    }
+
+    .offline-icon {
+      font-size: 4rem;
+      margin-bottom: 24px;
+      opacity: 0.9;
+      animation: pulse 2s ease-in-out infinite;
+    }
+
+    @keyframes pulse {
+      0%, 100% { transform: scale(1); opacity: 0.9; }
+      50% { transform: scale(1.05); opacity: 1; }
+    }
+
+    h1 {
+      font-size: 1.75rem;
+      font-weight: 700;
+      margin-bottom: 12px;
+      letter-spacing: -0.02em;
+    }
+
+    p {
+      font-size: 1.05rem;
+      color: #94a3b8;
+      margin-bottom: 32px;
+      max-width: 400px;
+      line-height: 1.6;
+    }
+
+    .retry-btn {
+      display: inline-flex;
+      align-items: center;
+      gap: 8px;
+      padding: 14px 32px;
+      font-size: 1rem;
+      font-weight: 600;
+      color: white;
+      background: rgba(59, 130, 246, 0.2);
+      border: 1px solid rgba(59, 130, 246, 0.4);
+      border-radius: 12px;
+      cursor: pointer;
+      transition: all 0.25s ease;
+      -webkit-tap-highlight-color: transparent;
+      min-height: 48px;
+    }
+
+    .retry-btn:hover {
+      background: rgba(59, 130, 246, 0.35);
+      border-color: rgba(59, 130, 246, 0.6);
+      transform: scale(1.03);
+    }
+
+    .retry-btn:active {
+      transform: scale(0.97);
+    }
+
+    .brand {
+      position: absolute;
+      bottom: 24px;
+      font-size: 0.8rem;
+      color: #475569;
+      letter-spacing: 0.05em;
     }
   </style>
 </head>
 <body>
-  <h1>No internet</h1>
-  <p>Try to open later</p>
+  <div class="offline-icon">📡</div>
+  <h1>You're Offline</h1>
+  <p>No internet connection. Previously visited pages are still available from cache.</p>
+  <button class="retry-btn" onclick="location.reload()">
+    🔄 Try Again
+  </button>
+  <div class="brand">Starley Medical Library</div>
 </body>
 </html>

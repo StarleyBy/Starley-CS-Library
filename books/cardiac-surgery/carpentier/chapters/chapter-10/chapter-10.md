@@ -58,13 +58,18 @@ Several surgical techniques have been developed to correct anterior leaflet prol
 
 The "one lesion one technique principle" facilitates the choice between the different technical options. Correct identification of the lesions is therefore the first step in the process of valve reconstruction.
 
-<span id="table-10-01"></span>
-**TABLE 10-1** Reconstructive Techniques in Anterior Leaflet Prolapse
+<details class="med-details"><summary>
+
+#### <span id="table-10-01"></span>TABLE 10-1: Reconstructive Techniques in Anterior Leaflet Prolapse</summary><div class="details-content">
 
 | Anatomic Conditions | Limited Prolapse (<1/4 of length) | Extensive Prolapse: Due to Chordae Rupture (Anterior secondary chordae available) | Extensive Prolapse: Due to Chordae Rupture (No anterior secondary chordae available) | Extensive Prolapse: Due to Chordae Elongation (≤10 mm) | Extensive Prolapse: Due to Chordae Elongation (≥10 mm) |
 | :--- | :--- | :--- | :--- | :--- | :--- |
 | **Techniques** | Leaflet triangular resection | Anterior secondary chordae transposition | Posterior leaflet chordae transposition | Papillary muscle sliding | Chordae shortening or replacement |
 | **Alternative Techniques** | Leaflet fixation on secondary chordae | Chordae replacement | Chordae replacement | Papillary muscle shortening | Papillary muscle shortening |
+
+###### Reconstructive Techniques in Anterior Leaflet Prolapse.
+
+</div></details>
 
 </div></details>
 
@@ -250,13 +255,18 @@ Three techniques—papillary muscle sliding plasty, chordae shortening, and papi
 
 We tend to avoid the use of artificial chordae in chordae elongation because the unequal length, resistance, and elasticity among chordae may create unequal tension and suboptimal geometry.
 
-<span id="table-10-02"></span>
-**TABLE 10-2** Reconstructive Techniques in Chordae Elongation
+<details class="med-details"><summary>
+
+#### <span id="table-10-02"></span>TABLE 10-2: Reconstructive Techniques in Chordae Elongation</summary><div class="details-content">
 
 | Chordae Elongation | Elongation ≤10 mm | Elongation ≥10 mm |
 | :--- | :--- | :--- |
 | **Techniques** | Papillary muscle sliding plasty | Chordae shortening |
 | **Alternative Techniques** | Papillary muscle shortening | Leaflet triangular resection, chordae transposition, artificial chordae |
+
+###### Reconstructive Techniques in Chordae Elongation.
+
+</div></details>
 
 <details class="med-details"><summary>
 
@@ -351,13 +361,18 @@ The technique to be used depends upon the type of lesions observed ([Table 10-3]
 
 **FIGURE 10-16** Types of papillary muscle lesions: complete rupture of papillary muscle trunk (top); rupture of a papillary muscle head (middle); elongation of papillary muscle with fibrotic changes (bottom).
 
-<span id="table-10-03"></span>
-**TABLE 10-3** Reconstructive Techniques in Extensive Prolapse Resulting from Papillary Muscle Involvement
+<details class="med-details"><summary>
+
+#### <span id="table-10-03"></span>TABLE 10-3: Reconstructive Techniques in Extensive Prolapse Resulting from Papillary Muscle Involvement</summary><div class="details-content">
 
 | Anatomic Lesions | Papillary Muscle Rupture | Papillary Muscle Head Rupture | Papillary Muscle Elongation |
 | :--- | :--- | :--- | :--- |
 | **Techniques** | Papillary muscle reimplantation | Head reimplantation | Papillary muscle shortening |
 | **Alternative Techniques** | Valve replacement | Artificial chordae | Papillary muscle plication |
+
+###### Reconstructive Techniques in Extensive Prolapse Resulting from Papillary Muscle Involvement.
+
+</div></details>
 
 <details class="med-details"><summary>
 

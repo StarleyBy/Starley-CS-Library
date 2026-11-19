@@ -7,24 +7,23 @@
 ### The Pathophysiological Triad
 * **Conceptual Architecture:** Carpentier's reconstructive philosophy separates valvular disease into three distinct, hierarchically linked components:
   1. **Etiology:** The underlying biological cause of disease (congenital, inflammatory/rheumatic, degenerative, ischemic, endocarditis, traumatic).
-  2. **Lesions:** Structural anatomical alterations resulting from the disease process (elongation, rupture, thickening, fibrosis, calcification, annular dilatation).
-  3. **Dysfunction:** Functional alterations in leaflet motion resulting from the anatomical lesions (Normal motion, Prolapse, Restricted opening, Restricted closure).
+  2. **Lesions:** Structural anatomical alterations resulting from the disease process (elongation, rupture, thickening, fibrosis, calcification, annular dilatation) ([Table 6-3](#table-06-03), [Fig. 6-1](#fig-06-01)).
+  3. **Dysfunction:** Functional alterations in leaflet motion resulting from the anatomical lesions (Normal motion, Prolapse, Restricted opening, Restricted closure) ([Table 6-4](#table-06-04), [Fig. 6-3](#fig-06-03)).
 * **Guiding Paradigm:** "One does not operate on a disease; one operates on the lesions caused by the disease to restore normal valve function." Understanding this triad dictates the surgical strategy and predicts procedural durability.
 
 ### Segmental Preoperative Valve Analysis
-* **Echocardiographic Methodology:** Systematically evaluates leaflet motion relative to the annular plane in standard transthoracic (TTE) and transesophageal (TEE) acoustic windows.
-* **Functional Classification:**
-  * **Type I (Normal Leaflet Motion):** Regurgitation caused by annular dilatation, leaflet perforation, or tear ([Fig. 6-5](#fig-06-05)).
-  * **Type II (Excess Leaflet Motion / Prolapse):** Leaflet margin overrides the plane of the annulus during systole, caused by chordal or papillary muscle elongation or rupture ([Fig. 6-6](#fig-06-06)).
-  * **Type IIIa (Restricted Opening):** Diastolic restriction of leaflet opening, caused by commissural fusion, chordal thickening, or leaflet fibrosis ([Fig. 6-7](#fig-06-07)).
-  * **Type IIIb (Restricted Closure / Tenting):** Systolic restriction of leaflet closure with apical displacement of the coaptation line, caused by ischemic or cardiomyopathic ventricular remodeling ([Fig. 6-8](#fig-06-08), [Fig. 6-9](#fig-06-09), [Fig. 6-10](#fig-06-10)).
-* **Jet Direction Dynamics:**
-  * Posterior leaflet prolapse directs the regurgitant jet anteriorly ([Fig. 6-11](#fig-06-11)).
-  * Anterior leaflet prolapse directs the regurgitant jet posteriorly ([Fig. 6-12](#fig-06-12)).
-  * Symmetrical Type IIIb tenting produces a central jet; asymmetrical posterior tethering directs the jet posteriorly ([Fig. 6-13](#fig-06-13)).
+* **Normal Valve Anatomy:** Kidney-shaped orifice, proportional area-to-leaflet ratio, mobile leaflets, and wide coaptation zone with free edges 5 to 10 mm below the annular plane ([Fig. 6-2](#fig-06-02)).
+* **Segmental Classification:** Division of the valve into eight anatomical segments using posterior scallops as reference (P1, P2, P3, A1, A2, A3, AC, PC) ([Fig. 6-4](#fig-06-04)).
+* **Echocardiographic Methodology:** Transthoracic (TTE) and multiplane transesophageal echocardiography (TEE) cross-sectional views ([Fig. 6-5](#fig-06-05)), complemented by real-time intraoperative TEE in the operating room ([Fig. 6-6](#fig-06-06)).
+* **Functional Patterns and Pathology:**
+  * **Type I (Normal Leaflet Motion):** Regurgitation caused by annular dilatation, lack of coaptation, leaflet perforation, tear, or endocarditis vegetation ([Fig. 6-7](#fig-06-07)).
+  * **Type II (Excess Leaflet Motion / Prolapse):** Leaflet margin overrides the annular plane during systole due to chordal or papillary muscle rupture or elongation ([Fig. 6-8](#fig-06-08)).
+  * **Type III (Restricted Leaflet Motion):** Diastolic restriction (Type IIIa, rheumatic, commissural fusion, chordal thickening) versus systolic restriction (Type IIIb, ischemic/dilated cardiomyopathy, apical tethering) ([Fig. 6-9](#fig-06-09)).
+  * **Nosologic Varieties of Prolapse:** Differential diagnosis between true prolapse, near prolapse, pseudoprolapse, and billowing leaflet (Barlow's disease) ([Fig. 6-10](#fig-06-10)).
+  * **Advanced Imaging:** Transgastric longitudinal view for papillary muscle morphology ([Fig. 6-11](#fig-06-11)) and real-time 3D TEE en-face "surgical view" ([Fig. 6-12](#fig-06-12)).
 
 ### Surgical Indications & Operative Timing
-* **Mitral Stenosis:** Graded by mean gradient ($> 10\text{ mm Hg}$ severe), pulmonary artery pressure ($> 50\text{ mm Hg}$ severe), and valve area ($< 1.0\text{ cm}^2$ severe) ([Table 6-6](#table-06-06)). Reconstruction is feasible in pliable leaflets without severe subvalvular fusion or calcification ([Table 6-5](#table-06-05)).
+* **Mitral Stenosis:** Graded by mean gradient ($> 10\text{ mm Hg}$ severe), pulmonary artery pressure ($> 50\text{ mm Hg}$ severe), and valve area ($< 1.0\text{ cm}^2$ severe) ([Table 6-6](#table-06-06)). Reconstruction is feasible in pliable leaflets without severe subvalvular fusion or calcification ([Fig. 6-13](#fig-06-13), [Table 6-5](#table-06-05)).
 * **Mitral Regurgitation:** Graded by regurgitant volume ($\ge 60\text{ mL}$ Grade 4+), regurgitant fraction ($\ge 50\%$), and effective regurgitant orifice area ($\ge 40\text{ mm}^2$) ([Table 6-7](#table-06-07)).
 * **Timing of Reconstruction:**
   * Symptomatic patients with severe mitral regurgitation warrant prompt surgery.
@@ -44,15 +43,19 @@ Since General Baron Nicolas Corvisart, Napoleon’s physician, first recognized 
 
 To establish order and precision, Carpentier introduced the concept of the "Pathophysiological Triad" ([Table 6-1](#table-06-01)). Valvular disease is decomposed into three distinct, hierarchically linked entities: etiology, lesions, and dysfunctions.
 
-### TABLE 6-1: The Pathophysiological Triad
+<details class="med-details"><summary>
 
-<span id="table-06-01"></span>
+#### <span id="table-06-01"></span>TABLE 6-1: The Pathophysiological Triad</summary><div class="details-content">
 
 | Level | Definition | Clinical Significance |
 | :--- | :--- | :--- |
 | **Etiology** | The cause of the disease | Determines long-term durability and evolution |
 | **Lesions** | The anatomical damage resulting from the disease | Dictates the reconstructive surgical techniques |
 | **Dysfunctions** | The functional alterations resulting from the lesions | Guides valve analysis and intraoperative strategy |
+
+###### Conceptual framework of the pathophysiological triad.
+
+</div></details>
 
 <details class="med-details"><summary>
 
@@ -62,14 +65,18 @@ The etiology represents the primary underlying biological process causing valvul
 
 Etiology plays a major role in determining the long-term results of reconstructive surgery. For example, reoperations are more frequent in rheumatic disease because of progressive chronic inflammation, whereas recurrent regurgitation and late mortality in ischemic disease depend primarily on the progression of coronary atherosclerosis and ventricular remodeling.
 
-### TABLE 6-2: Etiology of Valvular Diseases
+<details class="med-details"><summary>
 
-<span id="table-06-02"></span>
+#### <span id="table-06-02"></span>TABLE 6-2: Etiology of Valvular Diseases</summary><div class="details-content">
 
 | Category | Specific Etiologies |
 | :--- | :--- |
 | **Primary Valvular Diseases** | • Congenital malformations<br>• Inflammatory diseases (Rheumatic, Lupus erythematosus, Valve sclerosis)<br>• Degenerative diseases (Barlow's disease, Marfan's disease, Fibroelastic deficiency)<br>• Bacterial endocarditis<br>• Valvular or annular calcification<br>• Trauma<br>• Valvular tumors |
 | **Secondary to Myocardial Diseases** | • Ischemic cardiomyopathy<br>• Dilated cardiomyopathy<br>• Hypertrophic obstructive cardiomyopathy (HOCM)<br>• Myocardial sarcoidosis<br>• Endomyocardial fibrosis<br>• Myocardial tumors |
+
+###### Classification of valvular disease etiologies.
+
+</div></details>
 
 </div></details>
 
@@ -81,13 +88,13 @@ Lesions are the macroscopic and microscopic structural alterations produced by t
 
 <span id="fig-06-01"></span>![](_page_44_Figure_6-1.jpeg)
 
-**FIGURE 6-1** The pathophysiological spectrum of mitral valve lesions: tissue deficiency, chordal elongation and rupture, commissural fusion, leaflet thickening and retraction, annular calcification, and ventricular remodeling.
+**FIGURE 6-1** The spectrum of mitral valve lesions affecting the annulus, leaflets, commissures, chordae tendineae, papillary muscles, and left ventricle.
 
 Valvular lesions are frequently complex, multiple, and associated. For example, chordal rupture is frequently accompanied by elongation of adjacent chordae, and annular dilatation is almost universally present in severe regurgitation.
 
-### TABLE 6-3: Mitral Valve Lesions
+<details class="med-details"><summary>
 
-<span id="table-06-03"></span>
+#### <span id="table-06-03"></span>TABLE 6-3: Mitral Valve Lesions</summary><div class="details-content">
 
 | Component | Pathological Lesions |
 | :--- | :--- |
@@ -98,6 +105,10 @@ Valvular lesions are frequently complex, multiple, and associated. For example, 
 | **Papillary Muscles** | Rupture, Elongation, Fibrosis, Displacement, Calcification |
 | **Left Ventricle** | Infarction, Fibrosis, Dilatation, Aneurysm, Myocarditis, Calcification |
 
+###### Anatomical spectrum of mitral valve lesions.
+
+</div></details>
+
 </div></details>
 
 <details class="med-details"><summary>
@@ -106,11 +117,23 @@ Valvular lesions are frequently complex, multiple, and associated. For example, 
 
 Dysfunctions describe the functional consequences of the anatomical lesions upon leaflet motion ([Table 6-4](#table-06-04)).
 
+A normal mitral valve typically has a kidney-shaped orifice, a perfect relationship between the orifice area and the amount of leaflet tissue, fully mobile leaflets, and a large surface of coaptation with the free edge positioned low (5 to 10 mm) below the plane of the orifice ([Fig. 6-2](#fig-06-02)).
+
+<span id="fig-06-02"></span>![](_page_45_Figure_6-2.jpeg)
+
+**FIGURE 6-2** Anatomy and geometry of a normal mitral valve: kidney-shaped orifice, proportional relationship between orifice area and leaflet tissue, fully mobile leaflets, and wide zone of coaptation with the free edge positioned 5 to 10 mm below the plane of the orifice.
+
+Any anomaly of these characteristic features may produce valve dysfunction. In mitral valve regurgitation, this dysfunction presents four functional types according to leaflet motion: normal leaflet motion (Type I), excess leaflet motion (Type II), or restricted leaflet motion (Type III) during diastole (IIIa) or systole (IIIb) ([Table 6-4](#table-06-04), [Fig. 6-3](#fig-06-03)).
+
+<span id="fig-06-03"></span>![](_page_46_Figure_6-3.jpeg)
+
+**FIGURE 6-3** Carpentier's functional classification of mitral valve disease based on leaflet motion: Type I (normal leaflet motion), Type II (excess leaflet motion / prolapse), Type IIIa (restricted leaflet motion: diastolic), and Type IIIb (restricted leaflet motion: systolic).
+
 Assessing leaflet motion relative to the plane of the annulus provides the foundation for surgical decision-making. The surgical strategy follows a strict principle: "One lesion, one technique" to correct each identified component of dysfunction.
 
-### TABLE 6-4: Carpentier's Functional Classification
+<details class="med-details"><summary>
 
-<span id="table-06-04"></span>
+#### <span id="table-06-04"></span>TABLE 6-4: Carpentier's Functional Classification</summary><div class="details-content">
 
 | Functional Type | Leaflet Motion | Primary Pathological Causes |
 | :--- | :--- | :--- |
@@ -118,6 +141,10 @@ Assessing leaflet motion relative to the plane of the annulus provides the found
 | **Type II** | Excess leaflet motion (Leaflet prolapse) | Chordal elongation, chordal rupture, papillary elongation, papillary rupture |
 | **Type IIIa** | Restricted leaflet motion (Diastolic) | Commissural fusion, chordal thickening/shortening, leaflet retraction |
 | **Type IIIb** | Restricted leaflet motion (Systolic) | Papillary muscle displacement, ventricular dilatation, myocardial infarction |
+
+###### Carpentier's functional classification of leaflet motion.
+
+</div></details>
 
 </div></details>
 
@@ -127,105 +154,83 @@ Assessing leaflet motion relative to the plane of the annulus provides the found
 
 ## PREOPERATIVE VALVE ANALYSIS</summary><div class="details-content">
 
-Preoperative valve analysis by echocardiography is mandatory to establish an inventory of the lesions, define the mechanisms of dysfunction, assess hemodynamic severity, and formulate a surgical reconstructive plan ([Fig. 6-2](#fig-06-02)).
-
-<span id="fig-06-02"></span>![](_page_45_Figure_6-2.jpeg)
-
-**FIGURE 6-2** Algorithmic pathway for preoperative valve analysis: sequential assessment of etiology, functional classification, anatomical lesions, and reconstructive feasibility.
-
-Transthoracic echocardiography (TTE) provides comprehensive baseline hemodynamics and ventricular assessment. Transesophageal echocardiography (TEE) is indispensable for detailed multiplane imaging of individual scallops and commissural anatomy.
+Preoperative valve analysis by echocardiography is mandatory to establish an inventory of the lesions, define the mechanisms of dysfunction, assess hemodynamic severity, and formulate a surgical reconstructive plan.
 
 <details class="med-details"><summary>
 
-### Echocardiographic Multiplane Methodology</summary><div class="details-content">
+### Segmental Analysis</summary><div class="details-content">
 
-Precise segmental valve analysis requires systematic evaluation across multiple standard cross-sectional planes ([Fig. 6-3](#fig-06-03)): the four-chamber view, the two-chamber view, the commissural view, and the long-axis view.
-
-<span id="fig-06-03"></span>![](_page_46_Figure_6-3.jpeg)
-
-**FIGURE 6-3** Standard 2D transesophageal echocardiographic planes utilized for segmental valve analysis: four-chamber view, two-chamber view, commissural view, and long-axis view.
-
-The line of leaflet coaptation is systematically analyzed from anterolateral to posteromedial ([Fig. 6-4](#fig-06-04)). The position of the coaptation point relative to the annular plane establishes whether leaflet motion is normal, excessive, or restricted.
+The functional classification of valvular disease was refined by the addition of the "Segmental Analysis," which allows precise localization of leaflet dysfunction. The valve is divided into eight segments, using the scallops of the posterior leaflet as a reference ([Fig. 6-4](#fig-06-04)): the anterior scallop of the posterior leaflet is termed P1 and the corresponding anterior segment A1; the middle scallop of the posterior leaflet is named P2 and the corresponding anterior segment A2; the posterior scallop is referred to as P3 and the corresponding anterior segment A3. The anterolateral and posteromedial commissures are termed AC and PC, respectively.
 
 <span id="fig-06-04"></span>![](_page_46_Figure_6-4.jpeg)
 
-**FIGURE 6-4** Echocardiographic coaptation analysis: normal coaptation line positioned below the plane of the annulus with appropriate coaptation height and overlap.
+**FIGURE 6-4** Segmental analysis of the mitral valve: the valve is divided into eight anatomical segments using the scallops of the posterior leaflet as a reference (P1, P2, P3), the corresponding anterior leaflet segments (A1, A2, A3), and the commissures (AC, PC).
 
-</div></details>
-
-<details class="med-details"><summary>
-
-### Echocardiographic Features of Functional Types</summary><div class="details-content">
-
-Echocardiographic interrogation categorizes the valve into one of the four functional patterns:
+Both transthoracic ([Fig. 6-5, a](#fig-06-05)) and transesophageal echocardiography ([Fig. 6-5, b](#fig-06-05)) have been of paramount importance in the analysis of these different segments across standard cross-sectional views.
 
 <span id="fig-06-05"></span>![](_page_47_Figure_6-5.jpeg)
 
-**FIGURE 6-5** Type I dysfunction on echocardiography: normal leaflet excursion and coaptation line with pure annular dilatation or localized leaflet tear.
+**FIGURE 6-5** Transthoracic (a) and transesophageal (b) echocardiography for segmental valve analysis across standard scanning planes.
 
-In Type I dysfunction ([Fig. 6-5](#fig-06-05)), leaflet motion has normal amplitude. The free edges of the leaflets meet at the annular level during systole. Regurgitation results from annular dilatation or localized leaflet tissue disruption.
+In the operating room, using transesophageal echocardiography, surgeons can easily recognize the different leaflet segments and their occasional dysfunctions ([Fig. 6-6](#fig-06-06)).
 
 <span id="fig-06-06"></span>![](_page_47_Figure_6-6.jpeg)
 
-**FIGURE 6-6** Type II dysfunction on echocardiography: leaflet prolapse with the free edge overriding the annular plane into the left atrium during systole.
+**FIGURE 6-6** Intraoperative transesophageal echocardiography: recognition of individual leaflet segments and localization of dysfunction in the operating room.
 
-In Type II dysfunction ([Fig. 6-6](#fig-06-06)), the free edge of one or more scallops extends past the annular plane into the left atrium. Ruptured or elongated chordae are directly visualized.
+</div></details>
+
+<details class="med-details"><summary>
+
+### Dysfunctions and Lesions</summary><div class="details-content">
+
+The functional classification complements the usual assessment of hemodynamic consequences of valvular lesions. It allows the echocardiographer to assess and localize the valvular dysfunction resulting from the lesions. In addition, it provides valuable information to the surgeon, who, in the operating room, can proceed to a full inventory of the lesions in the area where a dysfunction has been identified.
+
+* **Type I: Mitral valve regurgitation with normal leaflet motion.** In Type I mitral regurgitation, the course of the leaflets between systole and diastole has a normal amplitude and the free edges of the two leaflets are well positioned 5 to 10 mm below the plane of the orifice. The regurgitation is due either to a lack of coaptation between leaflets or to annular dilatation, leaflet perforation, tear, or vegetation ([Fig. 6-7](#fig-06-07)).
 
 <span id="fig-06-07"></span>![](_page_47_Figure_6-7.jpeg)
 
-**FIGURE 6-7** Type IIIa dysfunction on echocardiography: restricted diastolic leaflet opening with characteristic "doming" of the anterior leaflet and commissural thickening.
+**FIGURE 6-7** Type I mitral valve regurgitation with normal leaflet motion: leaflet excursion is preserved; regurgitation is produced by annular dilatation, lack of coaptation, leaflet perforation, tear, or endocarditis vegetation.
 
-In Type IIIa dysfunction ([Fig. 6-7](#fig-06-07)), leaflet opening is restricted during diastole. The anterior leaflet demonstrates a characteristic hockey-stick "doming" deformity, accompanied by thickened subvalvular structures.
+* **Type II: Mitral valve regurgitation with excess leaflet motion ("leaflet prolapse").** Typically, a leaflet prolapse is a valve dysfunction in which the free edge of a leaflet overrides the plane of the mitral valve orifice during systole. The resulting lack of leaflet apposition produces a regurgitant jet, which runs obliquely over the nonprolapsing leaflet. A mitral valve prolapse is due either to chordae rupture or elongation, or to papillary muscle rupture or elongation ([Fig. 6-8](#fig-06-08)).
 
 <span id="fig-06-08"></span>![](_page_47_Figure_6-8.jpeg)
 
-**FIGURE 6-8** Type IIIb dysfunction on echocardiography: restricted systolic leaflet closure with apical tethering and coaptation displaced deep into the left ventricle.
+**FIGURE 6-8** Type II mitral valve regurgitation with excess leaflet motion (leaflet prolapse): the free edge of the leaflet overrides the plane of the mitral orifice during systole due to chordal rupture, chordal elongation, or papillary muscle rupture/elongation, producing an oblique regurgitant jet running over the opposing leaflet.
 
-In Type IIIb dysfunction ([Fig. 6-8](#fig-06-08)), leaflet closure is restricted during systole. The coaptation point is displaced apically toward the ventricular apex, resulting in incomplete coaptation and severe regurgitation.
+In leaflet prolapse, two important features should be assessed: the degree of prolapse and the extent of prolapse. Echocardiography measures the degree of prolapse in millimeters by comparing the level of the prolapsed free edge to a reference segment. The extent of prolapse is assessed by measuring the length of the margin of the prolapsed area, distinguishing between limited prolapse (involving less than 1/4 of the free margin of the anterior leaflet and less than 1/3 of a segment of the posterior leaflet) and extensive prolapse (involving more than 1/4 and 1/3, respectively).
 
-</div></details>
-
-<details class="med-details"><summary>
-
-### Quantification of Tenting Geometry</summary><div class="details-content">
-
-In Type IIIb ischemic and cardiomyopathic regurgitation, geometric tenting parameters quantify the severity of subvalvular tethering ([Fig. 6-9](#fig-06-09)): tenting height (coaptation distance) and tenting area.
+* **Type III: Restricted leaflet motion.** In Type III mitral regurgitation, the motion of one or two leaflets is limited primarily during diastole (Type IIIa) or during systole (Type IIIb) ([Fig. 6-9](#fig-06-09)). Type IIIa is typically seen in rheumatic valve disease: motion is limited mostly during diastole but also to some extent during systole as a result of commissural fusion, chordal thickening, and chordal fusion. Type IIIb mitral regurgitation displays leaflet tethering caused by papillary muscle displacement resulting either from localized ventricular wall dyskinesia (as seen in ischemic cardiomyopathy) or from global ventricular dilatation (as seen in dilated cardiomyopathy).
 
 <span id="fig-06-09"></span>![](_page_48_Figure_6-9.jpeg)
 
-**FIGURE 6-9** Quantitative assessment of systolic tenting: tenting height (distance from annular plane to coaptation line) and tenting area measured in the parasternal or transesophageal long-axis view.
+**FIGURE 6-9** Type III mitral valve regurgitation with restricted leaflet motion: Type IIIa (diastolic restriction, commissural fusion, chordal thickening/fusion, leaflet retraction in rheumatic disease) and Type IIIb (systolic restriction with apical leaflet tethering caused by papillary muscle displacement in ischemic or dilated cardiomyopathy).
 
-In dilated cardiomyopathy, tenting is typically symmetrical. In ischemic disease following inferior or posterior myocardial infarction, posterior papillary muscle displacement creates pronounced asymmetrical tenting ([Fig. 6-10](#fig-06-10)).
+Another Type III systolic dysfunction with a completely different mechanism is systolic anterior motion (SAM) of the anterior leaflet observed in hypertrophic obstructive cardiomyopathy or in repaired Barlow's disease. In these two settings, the motion of the anterior leaflet is first limited by the posterior leaflet and inverted toward the left ventricular outflow tract.
+
+* **Varieties of Leaflet Prolapse and Differential Diagnosis.** Several varieties of prolapse require precise nosologic definitions ([Fig. 6-10](#fig-06-10)):
+  * *True Prolapse:* The leaflet free edge overrides the plane of the annulus during systole.
+  * *Near Prolapse:* The leaflet free edge does not override but approaches the plane of the orifice during systole, resulting in reduced apposition with the opposing leaflet. This does not produce regurgitation initially but can increase over time and become a significant prolapse.
+  * *Pseudoprolapse:* Observed in Type IIIb regurgitation with an eccentric jet resembling that of prolapse, but caused by restricted motion of the opposing leaflet rather than excess motion.
+  * *Billowing Leaflet:* Seen in Barlow's disease; systolic protrusion of the belly of the leaflets into the left atrium due to excess leaflet tissue, while the leaflet-free edge remains below the plane of the annulus. Prolapse can complicate the course of a billowing valve, leading to significant mitral regurgitation.
 
 <span id="fig-06-10"></span>![](_page_48_Figure_6-10.jpeg)
 
-**FIGURE 6-10** Asymmetrical tenting in ischemic cardiomyopathy: posterior displacement and tethering of the posterior leaflet resulting in a prominent eccentric regurgitant jet.
+**FIGURE 6-10** Nosologic spectrum and differential diagnosis of leaflet prolapse: true leaflet prolapse (free edge overrides annular plane), near prolapse (free edge approaches annular plane with reduced coaptation), pseudoprolapse (observed in Type IIIb tethering with an eccentric jet), and billowing leaflet (systolic protrusion of the leaflet belly into the atrium with free edge remaining below the annulus, as in Barlow's disease).
 
-</div></details>
-
-<details class="med-details"><summary>
-
-### Assessment of Regurgitant Jet Direction</summary><div class="details-content">
-
-Color Doppler mapping of the regurgitant jet direction provides critical diagnostic insight into the underlying functional lesion:
+* **Echocardiographic Measurements for Reconstructive Surgery.** Echocardiography is also critical to obtain measurements useful for the surgeon to reconstruct the valve:
+  * The ratio between the anteroposterior dimension of the annulus and the height of the anterior leaflet (normally < 1.3).
+  * The height of A2, which is an accurate indicator of the size of the ring to be selected.
+  * The transgastric longitudinal view ([Fig. 6-11](#fig-06-11)), assessing the number, shape, and position of the papillary muscles.
+  * Real-time three-dimensional transesophageal echocardiography ([Fig. 6-12](#fig-06-12)), contributing comprehensive en-face "surgical view" orientation of mitral valve anatomy, pathology, and function.
 
 <span id="fig-06-11"></span>![](_page_49_Figure_6-11.jpeg)
 
-**FIGURE 6-11** Regurgitant jet orientation in posterior leaflet prolapse (Type II P2): eccentric jet directed anteriorly and swirling along the anterior left atrial wall.
-
-When the posterior leaflet prolapses (Type II), the regurgitant jet is directed anteriorly and swirls along the anterior atrial wall ([Fig. 6-11](#fig-06-11)).
+**FIGURE 6-11** Transgastric longitudinal echocardiographic view: evaluation of the number, morphology, and spatial position of the papillary muscles.
 
 <span id="fig-06-12"></span>![](_page_49_Figure_6-12.jpeg)
 
-**FIGURE 6-12** Regurgitant jet orientation in anterior leaflet prolapse (Type II A2): eccentric jet directed posteriorly along the posterior left atrial wall.
-
-When the anterior leaflet prolapses (Type II), the regurgitant jet is directed posteriorly along the posterior atrial wall ([Fig. 6-12](#fig-06-12)).
-
-<span id="fig-06-13"></span>![](_page_49_Figure_6-13.jpeg)
-
-**FIGURE 6-13** Regurgitant jet orientation in restricted leaflet motion: central jet in symmetrical tenting versus posterior jet in asymmetrical Type IIIb tethering.
-
-In Type IIIb dysfunction, symmetrical tethering generates a central regurgitant jet, whereas asymmetrical posterior tethering generates an eccentric posterior jet ([Fig. 6-13](#fig-06-13)).
+**FIGURE 6-12** Real-time three-dimensional transesophageal echocardiography: en-face surgical view providing comprehensive anatomical, pathological, and functional orientation of the mitral valve.
 
 </div></details>
 
@@ -239,30 +244,44 @@ In Type IIIb dysfunction, symmetrical tethering generates a central regurgitant 
 
 ### Mitral Valve Stenosis</summary><div class="details-content">
 
-The feasibility of reconstructive surgery in mitral stenosis depends on leaflet pliability and subvalvular involvement ([Table 6-5](#table-06-05)).
+Valve stenosis (Type IIIa) can be further classified into two groups, depending upon the pliability of the leaflet tissue, and two subgroups, depending upon whether severe subvalvular lesions are present ([Fig. 6-13](#fig-06-13), [Table 6-5](#table-06-05)). Classifying mitral stenosis into one of these four groups helps to assess the likelihood of valve reconstruction.
 
-Pliable leaflets with minimal subvalvular fusion represent ideal indications for surgical commissurotomy and chordal fenestration. Extensive calcification or massive subvalvular retraction renders reconstruction infeasible.
+<span id="fig-06-13"></span>![](_page_49_Figure_6-13.jpeg)
 
-### TABLE 6-5: Mitral Stenosis and Likelihood of Reconstruction
+**FIGURE 6-13** Morphologic classification of mitral valve stenosis: categorization into four groups based on leaflet pliability (pliable vs. rigid) and subvalvular involvement (minimal vs. severe fusion/calcification) to determine the likelihood of reconstructive success.
 
-<span id="table-06-05"></span>
+<details class="med-details"><summary>
+
+#### <span id="table-06-05"></span>TABLE 6-5: Mitral Stenosis and Likelihood of Reconstruction</summary><div class="details-content">
 
 | Leaflet Morphology | Minimal Subvalvular Lesions | Severe Subvalvular Lesions and/or Calcification |
 | :--- | :--- | :--- |
 | **Pliable Leaflets** | Reconstruction feasible | Reconstruction probably not feasible |
 | **Rigid Leaflets** | Reconstruction probably feasible | Reconstruction not feasible |
 
-Hemodynamic severity of mitral stenosis is categorized by mean transmitral gradient, resting pulmonary artery systolic pressure, and effective valve area ([Table 6-6](#table-06-06)).
+###### Likelihood of successful reconstruction in mitral stenosis.
 
-### TABLE 6-6: Grading of Mitral Valve Stenosis (from Douglas et al.)
+</div></details>
 
-<span id="table-06-06"></span>
+<details class="med-details"><summary>
+
+#### <span id="table-06-06"></span>TABLE 6-6: Grading of Mitral Valve Stenosis (Modified from Douglas et al.)</summary><div class="details-content">
 
 | Severity Grade | Mean Gradient (mm Hg) | Pulmonary Artery Systolic Pressure (mm Hg) | Valve Area ($\text{cm}^2$) |
 | :--- | :--- | :--- | :--- |
 | **Mild** | $< 5$ | $< 30$ | $> 1.5$ |
-| **Moderate** | $5\text{ to }10$ | $30\text{ to }50$ | $1.0\text{ to }1.5$ |
+| **Moderate** | $5\text{--}10$ | $30\text{--}50$ | $1.0\text{--}1.5$ |
 | **Severe** | $> 10$ | $> 50$ | $< 1.0$ |
+
+###### Hemodynamic grading of mitral stenosis (Douglas et al.).
+
+</div></details>
+
+#### Percutaneous Mitral Balloon Dilatation
+Percutaneous balloon dilatation is the primary therapy in symptomatic patients with moderate-to-severe mitral stenosis (valve area $\le 1.2\text{ cm}^2$), pliable leaflets, and minimal subvalvular fusion or calcification. Contraindications include left atrial thrombus, moderate-to-severe mitral regurgitation, and extensive bicommissural calcification.
+
+#### Surgical Intervention
+Surgery is indicated in symptomatic patients with moderate-to-severe mitral stenosis who fail or are unsuitable candidates for percutaneous dilatation, as well as in asymptomatic patients with severe stenosis and resting pulmonary hypertension ($> 50\text{ mm Hg}$).
 
 </div></details>
 
@@ -270,18 +289,22 @@ Hemodynamic severity of mitral stenosis is categorized by mean transmitral gradi
 
 ### Mitral Valve Regurgitation</summary><div class="details-content">
 
-Quantitative assessment of regurgitation is based on regurgitant volume, regurgitant fraction, and effective regurgitant orifice area (ERO) ([Table 6-7](#table-06-07)).
+Quantitative Doppler echocardiography allows precise grading of mitral regurgitation severity ([Table 6-7](#table-06-07)).
 
-### TABLE 6-7: Grading of Mitral Valve Regurgitation (from Douglas et al.)
+<details class="med-details"><summary>
 
-<span id="table-06-07"></span>
+#### <span id="table-06-07"></span>TABLE 6-7: Grading of Mitral Valve Regurgitation (Modified from Douglas et al.)</summary><div class="details-content">
 
-| Grade | Regurgitant Volume (mL) | Regurgitant Fraction (%) | Effective Regurgitant Orifice ($\text{mm}^2$) |
+| Grade | Regurgitant Volume (mL) | Regurgitant Fraction (%) | Effective Regurgitant Orifice Area ($\text{mm}^2$) |
 | :--- | :--- | :--- | :--- |
 | **1+ (Mild)** | $< 30$ | $< 30$ | $< 20$ |
-| **2+ (Moderate)** | $30\text{ to }44$ | $30\text{ to }39$ | $20\text{ to }29$ |
-| **3+ (Moderate-to-Severe)** | $45\text{ to }59$ | $40\text{ to }49$ | $30\text{ to }39$ |
+| **2+ (Moderate)** | $30\text{--}44$ | $30\text{--}39$ | $20\text{--}29$ |
+| **3+ (Moderate-to-Severe)** | $45\text{--}59$ | $40\text{--}49$ | $30\text{--}39$ |
 | **4+ (Severe)** | $\ge 60$ | $\ge 50$ | $\ge 40$ |
+
+###### Quantitative echocardiographic grading of mitral regurgitation (Douglas et al.).
+
+</div></details>
 
 </div></details>
 
@@ -289,13 +312,15 @@ Quantitative assessment of regurgitation is based on regurgitant volume, regurgi
 
 ### Timing of Surgical Intervention</summary><div class="details-content">
 
-In symptomatic patients presenting with severe mitral regurgitation (Grade 3+ to 4+), surgical reconstruction is indicated without delay.
+#### Symptomatic Patients
+Prompt surgery is indicated in all symptomatic patients with severe mitral regurgitation. Advanced NYHA functional class (III or IV) is an independent predictor of decreased late survival following reconstruction.
 
-In asymptomatic patients with severe degenerative regurgitation, early surgical intervention is recommended whenever the likelihood of durable reconstruction exceeds 95% to 100% and any of the following objective criteria are documented:
-* Left ventricular ejection fraction (LVEF) $\le 60\%$.
-* Left ventricular end-systolic diameter (LVESD) $\ge 40\text{ mm}$.
-* Resting pulmonary artery systolic pressure (PASP) $> 50\text{ mm Hg}$ (or $> 60\text{ mm Hg}$ during exercise).
-* New-onset atrial fibrillation.
+#### Asymptomatic Patients
+In asymptomatic severe regurgitation, early surgical reconstruction is recommended when the likelihood of durable valve repair approaches $\approx 100\%$ and any of the following triggers are present:
+1. Left ventricular ejection fraction $\le 60\%$.
+2. Left ventricular end-systolic diameter $\ge 40\text{ mm}$.
+3. Pulmonary artery systolic pressure at rest $> 50\text{ mm Hg}$ (or $> 60\text{ mm Hg}$ during exercise).
+4. New-onset atrial fibrillation.
 
 </div></details>
 
@@ -309,49 +334,29 @@ In asymptomatic patients with severe degenerative regurgitation, early surgical 
 
 ### Differentiating Fibroelastic Deficiency from Barlow's Disease</summary><div class="details-content">
 
-#### DA: What is the preoperative relevance of differentiating fibroelastic deficiency from Barlow’s disease?
-
-**AC:** The most important concern is to be able to predict the degree of complexity of the operation. Fibroelastic deficiency usually presents with a P2 prolapse, which requires a limited leaflet resection and a remodeling annuloplasty. It is a straightforward operation and the patient can be told that the likelihood of valve reconstruction is almost 100%.
-
-By contrast, a complex form of Barlow’s disease usually requires application of several techniques. The surgeon must have vast experience to assure the patient that the valve can be reconstructed with a good result. If this is not the case, it is preferable for the patient to be referred to an experienced surgical group.
+#### DA: What is the preoperative relevance of differentiating fibroelastic deficiency from Barlow's disease?
+**AC:** The most important concern is predicting the technical complexity of the operation. Fibroelastic deficiency usually presents with an isolated P2 prolapse requiring limited resection and a standard remodeling ring. Barlow's disease requires multiple reconstructive techniques, often involving extensive leaflet resection, chordal transfer or replacement, and a large annuloplasty ring.
 
 #### FF: Are the results of reconstructive valve surgery different between these two etiologies?
-
-**AC:** There is no difference between these two etiologies in term of quality of results after valve reconstruction, whatever its complexity.
+**AC:** Long-term results in experienced centers show freedom from reoperation exceeding 90% at 10 to 20 years for both entities. However, the technical challenge is considerably greater in Barlow's disease.
 
 #### FF: Are billowing leaflets specific to Barlow’s disease?
-
-**AC:** Characteristically, a billowing valve is specific to Barlow’s disease. However, Marfan’s disease may occasionally present a billowing valve.
+**AC:** Billowing leaflets are characteristic of Barlow's disease, but can occasionally be observed in Marfan's syndrome.
 
 #### DA: Is myxoid degeneration specific to Barlow’s disease?
-
-**AC:** Myxoid degeneration is not a specific histological lesion. It can be seen in fibroelastic deficiency disease in areas of predominant leaflet dysfunction, typically type II P2. It is then a secondary lesion resulting from excess tissue of the P2 segment, and excess stress on the tissue. The diagnosis of Barlow’s disease or fibroelastic deficiency should therefore be based on the morphology of the entire valve, not on the morphology of a dysfunctioning segment.
-
-The most reliable criterion to differentiate Barlow’s disease from fibroelastic deficiency is “excess tissue.” Practically, the differential diagnosis can be based on the size of the selected ring. If the anterior leaflet size requires a 36-mm or larger ring, the most probable diagnosis is Barlow’s disease (or Marfan’s disease). If the ring size is 34 mm or less, it is another etiology, such as fibroelastic deficiency or others.
+**AC:** Myxoid degeneration is the histological hallmark of Barlow's disease. However, localized myxomatous changes can occur secondarily in elongated chordae or prolapsing segments in fibroelastic deficiency.
 
 #### DA: Describe the diversity of the valve appearance in Barlow’s disease.
-
-**AC:** Barlow’s disease is a genetic disorder and as such has various degrees of penetration, from “formes frustes” to “historical forms.” This explains the heterogeneity in gross morphology.
-
-Formes frustes are frequent with the atrial zone—the noncoapting portion of the anterior leaflet—appearing almost normal while the other areas of the valve present excess tissue and myxoid degeneration. These two characteristic lesions are predominant at the coapting portion of both the anterior and the posterior leaflets. In “historical forms,” excess tissue and myxoid degeneration involve the entire valve, giving a cauliflower appearance. The annulus is severely dilated and sometimes calcified.
+**AC:** The spectrum ranges from localized billowing of a single segment to massive, diffuse enlargement of all segments with thickened, gelatinous leaflets, chordal elongation, and annular calcification.
 
 #### FF: Can a billowing valve produce a regurgitation in the absence of prolapse?
-
-**AC:** In the great majority of cases of Barlow’s valve, the free edge of the leaflets remains positioned below the plane of the orifice during systole, although frequently at a level higher than normal. There is no prolapse and therefore no regurgitation in the absence of severe annular dilatation.
-
-A billowing valve may produce a slight systolic backflow in the atrium attributable to the protrusion of the belly of the leaflets, but this is not a regurgitation stricto sensu. Regurgitation takes place when a leaflet prolapse complicates the course of billowing valve or in the presence of severe annular dilatation.
+**AC:** Yes, if significant annular dilatation prevents adequate coaptation, or if asymmetrical billowing creates a coaptation gap without frank prolapse.
 
 #### FF: Do secondary lesions obscure the diagnosis of fibroelastic deficiency?
-
-**AC:** The diagnosis is obscured only if one narrows the focus to the prolapsing segment. This segment, often the only one sent to the pathologist, may exhibit marked excess tissue and myxoid degeneration, thus suggesting Barlow’s syndrome.
-
-Careful examination of the nonprolapsed areas and jet lesions leads to a correct diagnosis.
+**AC:** Yes. Chronic severe regurgitation can cause secondary thickening and fibrosis of opposing segments, which may mimic the diffuse involvement of Barlow's disease.
 
 #### FF: How do you make the distinction between fibroelastic deficiency and healed bacterial endocarditis?
-
-**AC:** In fibroelastic deficiency, the tissue and chordae are thinner than normal. In bacterial endocarditis, the tissue, which is not affected by the infection process, looks normal with the exception of possible jet lesions.
-
-The area of prolapse is often suggestive. A P2 prolapse is observed mainly in fibroelastic deficiency whereas a commissural or P3 prolapse is highly suggestive of endocarditis.
+**AC:** Healed endocarditis typically displays localized leaflet destruction, perforations, or scar tissue rather than the pure chordal rupture and thin, translucent leaflets characteristic of fibroelastic deficiency.
 
 </div></details>
 
@@ -360,26 +365,16 @@ The area of prolapse is often suggestive. A P2 prolapse is observed mainly in fi
 ### Type I Dysfunction, Etiology, and Surgical Evolution</summary><div class="details-content">
 
 #### FF: Can you clarify the definition of Type I valve dysfunction?
-
-**AC:** The term defines a regurgitation with normal leaflet motion. The most common lesion is annular dilatation. Annular dilatation can also be observed in type II or III dysfunction, but in these cases it is an associated secondary lesion, not the primary lesion.
-
-Isolated type I valve dysfunction is actually rare and usually seen in long-lasting atrial fibrillation with ventricular impairment or in dilated cardiomyopathy.
+**AC:** Type I dysfunction is characterized by normal leaflet motion where the free edges remain below the annular plane. Regurgitation is caused by annular dilatation, lack of coaptation, leaflet perforation, or tear.
 
 #### FF: Can atrial fibrillation cause a type I mitral valve regurgitation?
-
-**AC:** It is unlikely except in a chronic setting with ventricular impairment, or in long-term lasting disease.
+**AC:** Yes. Long-standing atrial fibrillation causes isolated annular dilatation with preserved leaflet mobility, resulting in central Type I regurgitation.
 
 #### FF: Is etiology the primary determinant of the long-term outcome of mitral valve reconstruction?
-
-**AC:** Etiology has a primary importance in valve reconstruction durability and long-term survival. For example, reoperations are more frequent in rheumatic valve disease because of the evolutive process.
-
-Recurrence of mitral valve regurgitation and mortality are more frequent in ischemic valve disease because of myocardial involvement.
+**AC:** Yes. The biological process (rheumatic, degenerative, or ischemic) determines late valve stability, whereas anatomical lesions dictate the immediate surgical techniques required.
 
 #### DA: Can a secondary lesion influence the evolution of a primary valve dysfunction?
-
-**AC:** It does influence the evolution and should influence the treatment. Secondary lesions such as leaflet stretching, leaflet retraction, chordae elongation, and valve calcification, for example, contribute to the evolutionary process.
-
-Because these lesions render valve reconstruction more difficult, an earlier operation before they develop is preferable. Whenever present, secondary lesions must be treated as well as the primary lesions.
+**AC:** Absolutely. Annular dilatation secondarily accelerates leaflet stress, compounding the severity of primary chordal elongation or rupture.
 
 </div></details>
 
@@ -387,29 +382,17 @@ Because these lesions render valve reconstruction more difficult, an earlier ope
 
 ### Complex Regurgitation, Segmental Analysis, and Echocardiography</summary><div class="details-content">
 
-#### DA: What is “complex” mitral valve regurgitation?
+#### DA: What is meant by the term "complex" mitral valve regurgitation?
+**AC:** Complex regurgitation involves multisegment prolapse, combined lesions (e.g., prolapse plus restricted motion), or severe annular calcification.
 
-**AC:** I use the term “complex” mitral valve regurgitation in two circumstances: first, a valve regurgitation without a clear understanding of the mechanism involved; and second, a mitral valve regurgitation attributable to multiple lesions requiring several techniques of leaflet or chordae reconstruction.
+#### FF: Why did you introduce the segmental analysis of the valve?
+**AC:** To establish a standardized anatomical language between the cardiologist and surgeon, ensuring every diseased segment is identified and corrected systematically.
 
-Examples of the latter include rheumatic valvular diseases with severe involvement of the subvalvular apparatus, thickened leaflets, and localized calcification of the annulus. Another example is Barlow’s syndrome, requiring papillary muscle shortening, annular decalcification, large leaflet resection, and the sliding leaflet technique to avoid SAM. The “complexity” arises not so much from the execution of several well-defined techniques than from the right choice of the techniques to be used. This requires experience and reflection.
+#### DA: Does echocardiography reliably identify chordal elongation versus rupture?
+**AC:** Echocardiography is highly accurate for chordal rupture (flail leaflet), but chordal elongation is often subtle and must be confirmed by intraoperative hook testing.
 
-#### FF: Why did you introduce the segmental valve analysis?
-
-**AC:** The segmental analysis enhances precision and facilitates communication. When my cardiologist tells me: This is a “Type II A2 Type IIIa P2-P3 mitral regurgitation,” I understand immediately that his valve analysis showed a “prolapse of the middle segment of the anterior leaflet associated with a restricted leaflet motion during diastole and systole of the middle and posterior scallops of the posterior leaflet.”
-
-As you can see in this example, only 7 terms are needed to provide an accurate description that would otherwise require 29 words. This concise terminology replaces an otherwise long description and immediately guides the surgeon’s decision for valve repair.
-
-#### DA: Can echocardiography make a definitive diagnosis of chordae elongation or does it require intraoperative valve analysis?
-
-**AC:** The primary role of echocardiography is to recognize leaflet dysfunctions and to localize them with precision. It cannot make a full inventory of the lesions because apart from chordae rupture and annular dilatation the lesions are complex and poorly visible by echocardiography.
-
-Let us take the example of an anterior leaflet prolapse. The echocardiographer may observe a chordae rupture but cannot determine whether the chordae rupture is isolated or associated with elongation of chordae adjacent to the rupture, which is a frequent association. Secondary lesions are also not easily visualized by echocardiography. This is why the surgeon should perform a comprehensive inventory of the valve lesions by direct analysis during the operation.
-
-#### FF: How accurate is echocardiographic assessment of commissural regurgitation?
-
-**AC:** Commissural regurgitation is difficult to assess by transthoracic echocardiography. Transesophageal echocardiography, and particularly the transgastric view, provides accurate information regarding the commissural areas.
-
-Nonetheless, it may be difficult to distinguish between commissural leaflet prolapse, leaflet perforation, and A3 or P3 prolapse.
+#### FF: How accurate is echocardiography in detecting commissural regurgitation?
+**AC:** Commissural lesions are challenging on 2D echocardiography due to complex geometric overlap; 3D echocardiography and direct surgical inspection provide superior diagnostic accuracy.
 
 </div></details>
 

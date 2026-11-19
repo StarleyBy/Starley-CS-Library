@@ -63,13 +63,18 @@ Recognition of these risk factors during preoperative valve analysis allows the 
 
 **FIGURE 15-2** Anatomical risk factors for SAM: excess leaflet tissue (a) and an undersized annuloplasty ring (b) as primary prerequisites; combined with secondary anatomical triggers including narrow aorto-mitral angle, hyperkinetic small left ventricle, and septal bulging.
 
-<span id="table-15-01"></span>
-#### Table 15-1: Risk Factors for Systolic Anterior Motion
+<details class="med-details"><summary>
+
+#### <span id="table-15-01"></span>TABLE 15-1: Risk Factors for Systolic Anterior Motion</summary><div class="details-content">
 
 | Risk Factor Category | Anatomical Substrate | Clinical Significance |
 |:---|:---|:---|
 | **Major Risk Factors** | Excess valvular tissue (posterior leaflet height > 20 mm)<br>Undersized annuloplasty ring | Primary prerequisite (*sine qua non*); anterior displacement of coaptation line into LVOT |
 | **Minor Risk Factors** | Narrow aorto-mitral angle<br>Hyperkinetic small left ventricle<br>Septum bulging (sigmoid septum)<br>Abnormal configuration of anterior leaflet | Hemodynamic and geometrical accelerators of subaortic flow triggering Venturi suction |
+
+###### Risk Factors for Systolic Anterior Motion.
+
+</div></details>
 
 </div></details>
 

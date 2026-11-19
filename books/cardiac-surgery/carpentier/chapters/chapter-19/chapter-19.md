@@ -51,13 +51,19 @@ Type I regurgitation due to annular dilatation is best treated by annular remode
 
 Carpentier-Edwards Classic and 3D rings and sizers are available in sizes 26 to 36 mm ([Table 19-1](#table-19-01)). The relative flexibility of the ring allows its adaptation to the three-dimensional configuration and complex motion of the annulus.
 
-<span id="table-19-01"></span>
-#### Table 19-1: Tricuspid Ring Dimensions
+<details class="med-details"><summary>
+
+#### <span id="table-19-01"></span>TABLE 19-1: Tricuspid Ring Dimensions</summary><div class="details-content">
+
 | Ring Size (mm) | 26 | 28 | 30 | 32 | 34 | 36 |
 | :--- | :--- | :--- | :--- | :--- | :--- | :--- |
 | **External transverse diameter (mm)** | 31.2 | 33.2 | 35.2 | 37.2 | 39.2 | 41.2 |
 | **Internal transverse diameter (mm)** | 24.3 | 26.3 | 28.3 | 30.3 | 32.3 | 34.3 |
 | **Orifice area (mm²)** | 310 | 364 | 423 | 486 | 553 | 626 |
+
+###### Tricuspid Ring Dimensions.
+
+</div></details>
 
 #### Ring Selection and Leaflet Sizing Technique
 The size of the prosthetic ring is chosen according to the surface area of the anterior leaflet or, more practically, the surface area of the leaflet tissue that can be unfurled by exerting gentle traction on the anterior papillary muscle ([Fig. 19-3](#fig-19-03)).
