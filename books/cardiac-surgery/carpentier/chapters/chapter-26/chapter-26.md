@@ -97,8 +97,9 @@ Patients are usually asymptomatic for long periods of time. Nonspecific symptoms
 
 Echocardiography is the essential tool for the anatomical determination of Barlow's disease ([Fig. 26-1](#fig-26-01)).
 
-<span id="fig-26-01"></span>![Figure 26-1. Echocardiographic features of Barlow's disease: severe annular dilatation, bileaflet billowing protruding into the left atrium during systole, and multijet mitral regurgitation.](images/_page_268_Figure_26-1.jpeg)
-*Figure 26-1. Echocardiographic features of Barlow's disease: severe annular dilatation, bileaflet billowing protruding into the left atrium during systole, and multijet mitral regurgitation.*
+<span id="fig-26-01"></span>![](images/_page_268_Figure_26-1.jpeg)
+
+**FIGURE 26-1**
 
 The most characteristic echocardiographic feature of Barlow's valve is a severe dilatation of the mitral valve annulus associated with extensive and irregular billowing of both anterior and posterior leaflets into the left atrium during systole ([Fig. 26-1](#fig-26-01)). The leaflets are thickened and redundant, displaying increased echogenicity.
 
@@ -110,8 +111,11 @@ The annulus is severely dilatated and circular ([Fig. 26-2](#fig-26-02)). Excess
 
 The excess tissue is such that the total surface area of the leaflets is usually two to three times greater than the normal surface area, with predominant involvement of the posterior leaflet (c). The anterior leaflet typically measures 38 to 40 mm in transverse diameter and 30 mm or more in height.
 
-<span id="fig-26-02"></span>![Figure 26-2. Pathological hallmarks of Barlow's mitral valve: (a, b) cauliflower appearance with massive billowing and excess tissue; (c) diffuse thickening and expansion of posterior leaflet; (d) distended, thickened, and fused indentations; (e) chaotic chordal anchorage forming a trabeculated mesh with small pockets of billowing tissue.](images/_page_269_Figure_26-2.jpeg)
-*Figure 26-2. Pathological hallmarks of Barlow's mitral valve: (a, b) cauliflower appearance with massive billowing and excess tissue; (c) diffuse thickening and expansion of posterior leaflet; (d) distended, thickened, and fused indentations; (e) chaotic chordal anchorage forming a trabeculated mesh with small pockets of billowing tissue.*
+<span id="fig-26-02"></span>![](images/_page_269_Figure_26-2.jpeg)
+
+**FIGURE 26-2**
+
+##### Annular and Subvalvular Morphological Alterations
 
 The increased tension on the excess leaflet tissue (a consequence of Laplace's law) may produce severe lesions at the attachment of the leaflet to the annulus on both ventricular and atrial sides. On the ventricular side, the posterior leaflet attachment to the crest of the ventricular wall is displaced outward, forming the "cul-de-sac"* previously described. On the atrial side, the atrio-valvular junction may be disrupted with tiny cracks (a, arrows) often filled with platelet aggregates that eventually become calcified.
 
@@ -135,8 +139,9 @@ The goal of reconstructive surgery in Barlow's disease is to correct both leafle
 * **Subvalvular Apparatus Reconstruction:** Fused, shortened, or calcified papillary muscles are mobilized and managed by sliding or shortening techniques (Chapter 10). Elongated or ruptured chordae are addressed by chordal transfer or PTFE artificial chordae.
 * **Prosthetic Remodeling Annuloplasty:** The annulus, involved in the degenerative process, must be stabilized using a prosthetic ring (Physio ring). Ring sizing must be strictly based on the surface area of the anterior leaflet. Sizing below 32–34 mm should generally be avoided in Barlow's disease to eliminate the risk of SAM and postoperative mitral stenosis.
 
-<span id="fig-26-03"></span>![Figure 26-3. Reconstructive surgical technique in Barlow's disease: resection of redundant tissue, posterior leaflet sliding plasty, and remodeling annuloplasty with a large prosthetic ring.](images/_page_270_Figure_26-3.jpeg)
-*Figure 26-3. Reconstructive surgical technique in Barlow's disease: resection of redundant tissue, posterior leaflet sliding plasty, and remodeling annuloplasty with a large prosthetic ring.*
+<span id="fig-26-03"></span>![](images/_page_270_Figure_26-3.jpeg)
+
+**FIGURE 26-3**
 
 #### Reconstructive Variations: Severe Bileaflet Billowing
 
@@ -156,8 +161,9 @@ Marfan's syndrome is an inherited connective tissue disorder caused by mutations
 
 Cardiovascular manifestations are the major cause of morbidity and mortality. They include aortic root dilatation, aortic dissection, and mitral valve disease. Mitral valve involvement is present in up to 80% of patients with Marfan's syndrome and represents the primary cause of cardiac morbidity in children and adolescents.
 
-<span id="fig-26-04"></span>![Figure 26-4. Valvular pathology in Marfan's disease: thin, translucent, transparent leaflets with severe annular dilatation and elongated, attenuated chordae tendineae.](images/_page_272_Figure_26-4.jpeg)
-*Figure 26-4. Valvular pathology in Marfan's disease: thin, translucent, transparent leaflets with severe annular dilatation and elongated, attenuated chordae tendineae.*
+<span id="fig-26-04"></span>![](images/_page_272_Figure_26-4.jpeg)
+
+**FIGURE 26-4**
 
 #### Morphology and Surgical Strategy
 
@@ -197,8 +203,9 @@ Fibroelastic deficiency is the second most common cause of degenerative mitral v
 
 The clinical onset is typically acute or subacute, characterized by sudden chordal rupture leading to massive mitral valve regurgitation and acute pulmonary edema. The interval between diagnosis and surgical intervention is short (<5 years), directly opposite to the long-standing clinical course of Barlow's disease ([Table 26-1](#table-26-01)).
 
-<span id="fig-26-05"></span>![Figure 26-5. Pathological features of fibroelastic deficiency: thin, translucent leaflets with deficiency of connective tissue components, normal or mildly dilated annulus, and localized prolapse.](images/_page_274_Figure_26-5.jpeg)
-*Figure 26-5. Pathological features of fibroelastic deficiency: thin, translucent leaflets with deficiency of connective tissue components, normal or mildly dilated annulus, and localized prolapse.*
+<span id="fig-26-05"></span>![](images/_page_274_Figure_26-5.jpeg)
+
+**FIGURE 26-5**
 
 #### Pathology and Valvular Characteristics
 
@@ -206,8 +213,9 @@ The hallmark of fibroelastic deficiency is a deficiency of collagen and elastic 
 
 The leaflets are thin, smooth, and transparent throughout the entire valve, except for the prolapsing scallop, which may display localized secondary thickening due to mechanical stress. The annulus is normal in size or only mildly dilated.
 
-<span id="fig-26-06"></span>![Figure 26-6. Rupture of chordae tendineae in fibroelastic deficiency: (a, b) ruptured marginal chordae producing flail P2 segment; (c, d) thin, elongated adjacent chordae without diffuse leaflet thickening.](images/_page_274_Figure_26-6.jpeg)
-*Figure 26-6. Rupture of chordae tendineae in fibroelastic deficiency: (a, b) ruptured marginal chordae producing flail P2 segment; (c, d) thin, elongated adjacent chordae without diffuse leaflet thickening.*
+<span id="fig-26-06"></span>![](images/_page_274_Figure_26-6.jpeg)
+
+**FIGURE 26-6**
 
 The primary lesion is rupture of one or several chordae tendineae, most commonly involving the middle scallop of the posterior leaflet (P2) ([Fig. 26-6](#fig-26-06)). Less frequently, chordal rupture involves the anterior leaflet or the commissural areas.
 
@@ -217,8 +225,9 @@ The primary lesion is rupture of one or several chordae tendineae, most commonly
 
 The surgical repair of fibroelastic deficiency is straightforward and standardized (see Chapter 11). In most instances, it requires only a limited triangular or quadrangular resection of the flail P2 segment with preservation of adjacent indentations ([Fig. 26-7](#fig-26-07)).
 
-<span id="fig-26-07"></span>![Figure 26-7. Surgical repair of fibroelastic deficiency: limited resection of the prolapsing P2 segment, annular plication, and remodeling prosthetic ring annuloplasty.](images/_page_275_Figure_26-7.jpeg)
-*Figure 26-7. Surgical repair of fibroelastic deficiency: limited resection of the prolapsing P2 segment, annular plication, and remodeling prosthetic ring annuloplasty.*
+<span id="fig-26-07"></span>![](images/_page_275_Figure_26-7.jpeg)
+
+**FIGURE 26-7**
 
 #### Annular Reconstruction and Sizing Strategy
 
@@ -240,8 +249,9 @@ In anterior leaflet prolapse, secondary chordal transposition from the anterior 
 
 Long-term results from more than 20 years of reconstructive techniques in degenerative valvular diseases have been analyzed in 162 consecutive patients with Barlow's disease or fibroelastic deficiency who underwent surgery between 1970 and 1984 at Hôpital Broussais in Paris. Patient age varied between 22 and 77 years (mean 56 ± 10 years). Sixty percent of the patients were in NYHA class III or IV, and 45% had atrial fibrillation. More than 33% had anterior or bileaflet prolapse.
 
-<span id="fig-26-08"></span>![Figure 26-8. Long-term actuarial freedom from reoperation following reconstructive surgery in degenerative mitral valve disease: posterior leaflet alone (n = 93), anterior leaflet alone (n = 28), and both leaflets (n = 31) (From Braunberger E. et al.).](images/_page_275_Figure_26-8.jpeg)
-*Figure 26-8. Long-term actuarial freedom from reoperation following reconstructive surgery in degenerative mitral valve disease: posterior leaflet alone (n = 93), anterior leaflet alone (n = 28), and both leaflets (n = 31) (From Braunberger E. et al.).*
+<span id="fig-26-08"></span>![](images/_page_275_Figure_26-8.jpeg)
+
+**FIGURE 26-8**
 
 #### Survival and Freedom from Reoperation
 
@@ -276,9 +286,11 @@ When properly executed according to functional principles, mitral valve reconstr
 
 <details class="med-details"><summary>
 
-## DISCUSSION</summary><div class="details-content">
+## CLINICAL DISCUSSION</summary><div class="details-content">
 
-#### Differentiating Barlow's Disease from Fibroelastic Deficiency
+<details class="med-details"><summary>
+
+### Differentiating Barlow's Disease from Fibroelastic Deficiency (DA & AC)</summary><div class="details-content">
 
 **DA:** What specific findings help differentiate Barlow's valve from fibroelastic deficiency?
 
@@ -286,25 +298,41 @@ When properly executed according to functional principles, mitral valve reconstr
 
 By contrast, in fibroelastic deficiency, patients are older, the onset of symptoms is sudden due to chordal rupture, and the leaflets are thin and transparent without excess tissue.
 
-#### Meaning of "Myxomatous Valve"
+</div></details>
+
+<details class="med-details"><summary>
+
+### Meaning of "Myxomatous Valve" (DA & AC)</summary><div class="details-content">
 
 **DA:** Is the term "myxomatous valve" a synonym of Barlow's valve?
 
 **AC:** Myxoid degeneration is a distinguishing feature of Barlow's valve and is predominant in the ventricular portion of the leaflets. However, myxoid degeneration can also be observed in fibroelastic deficiency, but only in areas of prolapse as a secondary lesion resulting from the long-lasting dysfunction. Therefore, the term "myxomatous valve" is a descriptive histological term, not an etiological synonym for Barlow's disease.
 
-#### Diagnostic Identification of "Forme Fruste" Barlow's Disease
+</div></details>
+
+<details class="med-details"><summary>
+
+### Diagnostic Identification of "Forme Fruste" Barlow's Disease (DA & AC)</summary><div class="details-content">
 
 **DA:** As a surgeon, how do you practically differentiate a "forme fruste"* Barlow's disease from fibroelastic deficiency on the basis of valve analysis?
 
 **AC:** A practical mean of differentiation is to use the measurement of the anterior leaflet. If this measurement indicates that a ring smaller than 36 mm should be selected to correct the regurgitation, the diagnosis of Barlow's disease can be ruled out. If the selected ring is 36 mm or larger, the etiology is Barlow's disease.
 
-#### Morphological Role of Posterior Leaflet Indentations
+</div></details>
+
+<details class="med-details"><summary>
+
+### Morphological Role of Posterior Leaflet Indentations (DA & AC)</summary><div class="details-content">
 
 **DA:** Are deep indentations segmenting the posterior leaflet a characteristic of the valve deformity evident in Barlow's disease?
 
 **AC:** Indentations of the posterior leaflet are normal structures that facilitate the opening of the valve. They may be larger than normal in patients with Barlow's disease because of excess tissue and excess tension on the edge of the indentation, but they are usually smaller as a result of myxoid tissue proliferation, fibrosis, and, more rarely, calcification.
 
-#### Anterior Papillary Muscle Fibrosis and Calcification
+</div></details>
+
+<details class="med-details"><summary>
+
+### Anterior Papillary Muscle Fibrosis and Calcification (FF & AC)</summary><div class="details-content">
 
 **FF:** What is your explanation for the greater tendency of the anterior papillary muscle to fibrose and calcify in Barlow's disease?
 
@@ -312,52 +340,86 @@ By contrast, in fibroelastic deficiency, patients are older, the onset of sympto
 
 The position of the head of the anterior papillary muscle is close to the left ventricular outflow tract and therefore is exposed to more turbulent flow and to higher shear stress. Increased tension on the subvalvular apparatus as a result of excess tissue contributes to the process of calcification involving the two papillary muscles.
 
-#### Rationale for Repairing Billowing Leaflets
+</div></details>
+
+<details class="med-details"><summary>
+
+### Rationale for Repairing Billowing Leaflets (FF & AC)</summary><div class="details-content">
 
 **FF:** What led you to first recommend repair of not only leaflet prolapse but also leaflet billowing in Barlow's valve?
 
 **AC:** I always pay great attention to mathematical considerations in valve reconstruction. According to the well-known Laplace's law, the tension on the leaflet tissue and chordae is proportional to the radius of a spherical structure. To minimize the risk of recurrent mitral regurgitation, it therefore seemed logical to reduce the exaggerated curvature of both leaflets by repositioning their free margins low in the ventricle. This can be ideally achieved by papillary muscle shortening.
 
-#### Anterior Leaflet Billowing and Surgical Options
+</div></details>
+
+<details class="med-details"><summary>
+
+### Anterior Leaflet Billowing and Surgical Options (DA & AC)</summary><div class="details-content">
 
 **DA:** I have observed that anterior leaflet billowing is often corrected by posterior leaflet sliding plasty and annuloplasty. Do you believe papillary muscle sliding plasty or shortening is always necessary?
 
 **AC:** It depends upon the degree of billowing and the position of the free edge of the anterior leaflet during systole. A moderate billowing can effectively be minimized by a posterior leaflet sliding plasty. In more severe cases, either a papillary muscle sliding or a shortening plasty is necessary to correct leaflet billowing, thus achieving a large surface of coaptation, a condition for long-term durability.
 
-#### Posterior Leaflet Management in Isolated Anterior Prolapse
+</div></details>
+
+<details class="med-details"><summary>
+
+### Posterior Leaflet Management in Isolated Anterior Prolapse (FF & AC)</summary><div class="details-content">
 
 **FF:** In patients with Barlow's disease and isolated anterior leaflet prolapse, does the posterior leaflet require repair?
 
 **AC:** Considering that the posterior leaflet is always billowing in Barlow's disease, I think the posterior leaflet needs correction, first to prevent SAM and second to reduce leaflet and chordae tension as I just pointed out.
 
-#### Reconstructive Strategy in Marfan's Disease
+</div></details>
+
+<details class="med-details"><summary>
+
+### Reconstructive Strategy in Marfan's Disease (FF & AC)</summary><div class="details-content">
 
 **FF:** Do you advise valve reconstruction in a patient with Marfan's disease who has mild to moderate mitral regurgitation and is undergoing an aortic procedure?
 
 **AC:** Patients with Marfan's disease often have surgery at a young age so that all valve dysfunction, even mild to moderate, should be treated during the same procedure to avoid addressing the mitral problem at a later stage. A valve reconstruction is the operation of choice in this situation.
 
-#### Annuloplasty Strategy in Dilated Ventricles
+</div></details>
+
+<details class="med-details"><summary>
+
+### Annuloplasty Strategy in Dilated Ventricles (DA & AC)</summary><div class="details-content">
 
 **DA:** Tell me about your annuloplasty strategy in a late referred degenerative patient with a severely dilated left ventricle, particularly with associated type II and type IIIb dysfunction.
 
 **AC:** In this rare circumstance, the prolapse should be treated first so as to position the free edges of both leaflets at the same level in the ventricle. Then the type IIIb dysfunction is addressed by using a downsized ring annuloplasty, selecting a ring one to two sizes smaller than would require measurement of the anterior leaflet.
 
-#### Reconstructive Benefit in Left Ventricular Dysfunction
+</div></details>
+
+<details class="med-details"><summary>
+
+### Reconstructive Benefit in Left Ventricular Dysfunction (FF & AC)</summary><div class="details-content">
 
 **FF:** The potential benefit of valve reconstruction over replacement in patients with degenerative valve disease and left ventricular dysfunction has been discussed. What is your opinion?
 
 **AC:** Valve reconstruction is preferable for two reasons: First, it preserves the whole valvular apparatus, a condition for improved ventricular function. Second, the native valve is an active opening valve as opposed to a prosthesis; therefore the hemodynamics across the valve are improved with reduced blood stasis and reduced risk of thromboembolism.
 
-#### Strategy for Extensive Annular Calcification
+</div></details>
+
+<details class="med-details"><summary>
+
+### Strategy for Extensive Annular Calcification (DA & AC)</summary><div class="details-content">
 
 **DA:** A common finding in Barlow's disease is a quasi-prolapse of the commissural area including A3, PC, and P3. In this setting, I usually favor the magic suture technique. What is your preferred strategy?
 
 **AC:** The magic suture technique is a reasonable alternative provided there is not a significant excess of commissural tissue. If this is the case, however, it is preferable to perform a sliding plasty of the commissural papillary muscle, which effectively corrects both the prolapse and the billowing while preserving optimal commissural leaflet mobility.
 
-#### Nomenclature: Disease vs. Syndrome
+</div></details>
+
+<details class="med-details"><summary>
+
+### Nomenclature: Disease vs. Syndrome (FF & AC)</summary><div class="details-content">
 
 **FF:** Why do you prefer the term disease instead of syndrome to qualify Barlow's and Marfan's diseases?
 
 **AC:** The term syndrome was used in the early clinical era before other tools such as echocardiography, advanced histopathology, and genetics became available. Today the diagnosis of these conditions mainly relies on these investigation tools, which permit identification of a disease. Therefore the term disease seems to me to be more appropriate.
+
+</div></details>
 
 </div></details>

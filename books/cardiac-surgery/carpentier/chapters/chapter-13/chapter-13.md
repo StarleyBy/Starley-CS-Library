@@ -1,4 +1,4 @@
-# 13. Techniques in Type IIIa: Diastolic Restricted Leaflet Motion
+# Chapter 13. Techniques in Type IIIa: Diastolic Restricted Leaflet Motion
 
 <details class="med-details"><summary>
 
@@ -65,7 +65,7 @@ The fusion of the commissures generates turbulence, the main cause of platelet-f
 
 <span id="fig-13-01"></span>![](_page_143_Figure_13-1.jpeg)
 
-**FIGURE 13-1** Three grades of commissural fusion in rheumatic mitral valve stenosis: Grade I partial fusion with preserved commissural chordae (left); Grade II complete fusion with visible delineation between leaflets (center); Grade III complete fusion with total obliteration of anatomical delineation (right).
+**FIGURE 13-1**
 
 #### Annular Morphology in Mitral Stenosis
 
@@ -79,7 +79,7 @@ Occasionally the annulus is dilated, with the anteroposterior diameter equal to 
 
 <span id="fig-13-02"></span>![](_page_144_Figure_13-2.jpeg)
 
-**FIGURE 13-2** Annular geometry in mitral valve stenosis: normal kidney-shaped annulus where commissurotomy relieves stenosis without regurgitation (a, b); dilated circular annulus where commissurotomy unmasks or exacerbates severe regurgitation requiring prosthetic ring stabilization (c, d).
+**FIGURE 13-2**
 
 #### Commissural Fusion: Commissurotomy
 
@@ -103,7 +103,7 @@ Whenever possible, the splitting of chordae or papillary muscle is completed by 
 
 <span id="fig-13-03"></span>![](_page_145_Figure_13-3.jpeg)
 
-**FIGURE 13-3** Surgical technique of open commissurotomy: identification of commissural furrow under chordal traction (a); incising leaflet tissue beginning 5 mm from annulus (b); exposing underlying commissural chordae (c); completing incision leaving chordal support on both margins (d); splitting papillary muscle to admit cardiotomy sucker (e); chordal and papillary fenestration excising triangular fibrous wedges to prevent refusion (f, g).
+**FIGURE 13-3**
 
 #### Subvalvular Lesions: Chordae Resection and Fenestration
 
@@ -127,7 +127,7 @@ Fused marginal chordae participating in the subvalvular obstruction are not cut,
 
 <span id="fig-13-04"></span>![](_page_146_Figure_13-4.jpeg)
 
-**FIGURE 13-4** Subvalvular chordal management: mobilization of subvalvular apparatus via secondary chordae resection and marginal chordae fenestration (a); nerve hook isolation of secondary chordae (b); division of chordal origin at papillary muscle and insertion at leaflet base (inset).
+**FIGURE 13-4**
 
 #### Annular Deformation: Ring Annuloplasty
 
@@ -147,7 +147,7 @@ Rings smaller size than 30 mm in females and 32 mm in males should be avoided. I
 
 <span id="fig-13-05"></span>![](_page_147_Figure_13-5.jpeg)
 
-**FIGURE 13-5** Annuloplasty indications in mitral stenosis: normal annular shape maintaining competency post-commissurotomy (a, b, c); dilated annulus progressing to severe regurgitation following relief of stenosis (d, e); mandatory stabilization with remodeling annuloplasty ring (f).
+**FIGURE 13-5**
 
 </div></details>
 
@@ -188,7 +188,7 @@ In most instances the free edge of A2 near the midline is deprived of chordal su
 
 <span id="fig-13-06"></span>![](_page_148_Figure_13-6.jpeg)
 
-**FIGURE 13-6** Pathological anatomy of Type IIIa regurgitation: annular dilatation, commissural fusion, leaflet thickening, and chordal fusion (a, b); associated minor prolapse of A2 caused by distension and posterolateral displacement of paramedial chordae depriving midline margin of support (c).
+**FIGURE 13-6**
 
 #### Leaflet-Restricted Motion: Leaflet Mobilization
 
@@ -214,7 +214,7 @@ Precise chordal re-anchoring restores uniform edge tension across the entire coa
 
 <span id="fig-13-07"></span>![](_page_149_Figure_13-7.jpeg)
 
-**FIGURE 13-7** Correction of associated A2 prolapse: posterior displacement of paramedial chordae (a) treated by free margin tacking with 5-0 sutures (b) and localized wedge resection of fibrotic tissue (c); lateral displacement of paramedial chordae (d) managed by detachment (e) and medial transposition to free edge (f).
+**FIGURE 13-7**
 
 #### Leaflet Thickening, Retraction, and Calcification: Leaflet Extension
 
@@ -242,7 +242,7 @@ The use of locked bites on the leaflet side is helpful to avoid the purse-string
 
 <span id="fig-13-08"></span>![](_page_150_Figure_13-8.jpeg)
 
-**FIGURE 13-8** Pericardial patch extension of posterior leaflet: transverse incision 5 mm from annulus (a); exposure and resection of subvalvular secondary chordae (b); tailoring of glutaraldehyde-treated semilunar pericardial patch with 2-mm seam allowance (c); continuous suture fixation with 4-0 to annulus and 5-0 locked suture to leaflet edge, restoring 15 to 20 mm posterior leaflet height (d); selection and implantation of prosthetic ring one size larger than anterior leaflet sizer (e, f).
+**FIGURE 13-8**
 
 #### Pericardial Patch Extension of the Anterior Leaflet
 
@@ -254,7 +254,7 @@ In case of localized leaflet calcification (c), a resection of the calcified are
 
 <span id="fig-13-09"></span>![](_page_151_Figure_13-9.jpeg)
 
-**FIGURE 13-9** Pericardial patch extension of anterior leaflet: vertical incision for asymmetric transverse restriction (a); transverse incision for symmetric longitudinal restriction (b); localized decalcification with patch reconstruction (c); annuloplasty ring selection matched to expanded anterior leaflet dimensions (d, e).
+**FIGURE 13-9**
 
 </div></details>
 
@@ -278,7 +278,7 @@ The optimal ring sizes are 32 to 34 mm in males, 30 to 32 mm in females, and 28 
 
 <span id="fig-13-10"></span>![](_page_152_Figure_13-10.jpeg)
 
-**FIGURE 13-10** Annuloplasty ring sizing principles in Type IIIa: posterior leaflet augmentation permitting selection of a ring one size larger than anterior leaflet template (a, b); anterior leaflet patch enlargement requiring ring matched to expanded total anterior area (c, d).
+**FIGURE 13-10**
 
 </div></details>
 
@@ -294,7 +294,7 @@ If the leaflet easily opens, the pliability is judged satisfactory. If the leafl
 
 <span id="fig-13-11"></span>![](_page_152_Figure_13-11.jpeg)
 
-**FIGURE 13-11** Intraoperative saline testing of leaflet pliability: pressurized saline jet testing anterior leaflet opening mobility (a); failure of opening indicating severe persistent tissue rigidity predisposing to valve replacement (b).
+**FIGURE 13-11**
 
 #### Analysis of Residual Leak Patterns
 
@@ -319,54 +319,78 @@ It is preferably corrected by secondary chordae transposition (inset 2) or by se
 
 <span id="fig-13-12"></span>![](_page_153_Figure_13-12.jpeg)
 
-**FIGURE 13-12** Troubleshooting residual leaks: commissural leak (a) corrected by chordal hitching (inset 1) or magic stitch (inset 2); indentation leak (b) repaired by direct closure (inset 1) or triangular pericardial patch (inset 2); unmasked A2 prolapse (c) diagnosed by level comparison (inset 1) and treated by chordal transposition or replacement (inset 2).
+**FIGURE 13-12**
 
 </div></details>
 
 <details class="med-details"><summary>
 
-## DISCUSSION</summary><div class="details-content">
+## CLINICAL DISCUSSION</summary><div class="details-content">
 
-#### Management of Commissural Calcification
+<details class="med-details"><summary>
+
+### Management of Commissural Calcification (FF & AC)</summary><div class="details-content">
 
 **FF: What is your repair strategy when calcifications involve the commissural area?**
-> **AC:** Localized and superficial platelet and calcium deposits in the commissure do not preclude a commissurotomy. However, extensive and deep calcium formation in the commissural area is a contraindication to valve reconstruction. Attempts to decalcify these lesions have been associated with disappointing results in my experience. Because of the deep penetration of calcium within the leaflet tissue, residual regurgitation is frequent and progressive. The repair does not last as long as a bioprosthetic valve replacement, the alternative nonthrombogenic valve operation.
+**AC:** Localized and superficial platelet and calcium deposits in the commissure do not preclude a commissurotomy. However, extensive and deep calcium formation in the commissural area is a contraindication to valve reconstruction. Attempts to decalcify these lesions have been associated with disappointing results in my experience. Because of the deep penetration of calcium within the leaflet tissue, residual regurgitation is frequent and progressive. The repair does not last as long as a bioprosthetic valve replacement, the alternative nonthrombogenic valve operation.
 
 **FF: If a commissurotomy appears to be placed in the wrong direction, what do you do?**
-> **AC:** From time to time, after full leaflet mobilization it is possible to observe that the new commissure is not ideally placed. In this condition, it is preferable to redo a commissurotomy in the right location and to close the first incision with interrupted sutures.
+**AC:** From time to time, after full leaflet mobilization it is possible to observe that the new commissure is not ideally placed. In this condition, it is preferable to redo a commissurotomy in the right location and to close the first incision with interrupted sutures.
 
-#### Subvalvular Management and Papillary Splitting
+</div></details>
+
+<details class="med-details"><summary>
+
+### Subvalvular Management and Papillary Splitting (DA & AC)</summary><div class="details-content">
 
 **DA: Do you routinely resect all secondary chordae in type IIIa dysfunction?**
-> **AC:** I resect those that are thickened, shortened, or fused; this includes most of the chordae in rheumatic valvular disease.
+**AC:** I resect those that are thickened, shortened, or fused; this includes most of the chordae in rheumatic valvular disease.
 
 **FF: When splitting a papillary muscle to release a subvalvular stenosis, you often leave more papillary muscle tissue on the anterior leaflet side than on the posterior leaflet side. What is the rationale?**
-> **AC:** This takes into consideration the fact that the load on the anterior leaflet is significantly greater than that on the posterior leaflet. If the papillary muscle does not seem to be large enough, it can be split into two halves of equal thickness.
+**AC:** This takes into consideration the fact that the load on the anterior leaflet is significantly greater than that on the posterior leaflet. If the papillary muscle does not seem to be large enough, it can be split into two halves of equal thickness.
 
-#### Leaflet Extension Mechanics and SAM Prevention
+</div></details>
+
+<details class="med-details"><summary>
+
+### Leaflet Extension Mechanics and SAM Prevention (FF & AC)</summary><div class="details-content">
 
 **FF: Is there a risk of systolic anterior motion (SAM) after posterior leaflet patch extension?**
-> **AC:** I have never seen an SAM after posterior leaflet patch extension in rheumatic valvular disease; this is probably due to the fact the height of the anterior leaflet is reduced by the rheumatic process and the leaflet tissue is less pliable. The height of the expanded posterior leaflet can be larger than the normal 15 mm but should not exceed 20 mm.
+**AC:** I have never seen an SAM after posterior leaflet patch extension in rheumatic valvular disease; this is probably due to the fact the height of the anterior leaflet is reduced by the rheumatic process and the leaflet tissue is less pliable. The height of the expanded posterior leaflet can be larger than the normal 15 mm but should not exceed 20 mm.
 
 **DA: What is the most common cause of suboptimal early results in type IIIa dysfunction?**
-> **AC:** The most common cause is postrepair valve stenosis, which is facilitated by two factors: the first is the residual rigidity of the leaflet tissue despite leaflet mobilization; the other is a ring size that is too small. Since our impact on residual rigidity is limited, one should maximize the orifice area by selecting a ring as large as possible and by generous use of leaflet extension.
+**AC:** The most common cause is postrepair valve stenosis, which is facilitated by two factors: the first is the residual rigidity of the leaflet tissue despite leaflet mobilization; the other is a ring size that is too small. Since our impact on residual rigidity is limited, one should maximize the orifice area by selecting a ring as large as possible and by generous use of leaflet extension.
 
 **FF: What maximum height of patch extension do you recommend?**
-> **AC:** The total height of the extended leaflet should not exceed 20 mm. It is wrong to believe that a larger patch will enhance the mobility of the leaflet. It is exactly the contrary. A patch that is too large may produce a redundant immobile posterior leaflet that partially obstructs the valvular orifice.
+**AC:** The total height of the extended leaflet should not exceed 20 mm. It is wrong to believe that a larger patch will enhance the mobility of the leaflet. It is exactly the contrary. A patch that is too large may produce a redundant immobile posterior leaflet that partially obstructs the valvular orifice.
 
-#### Prosthetic Ring Selection: Classic vs. Physio
+</div></details>
+
+<details class="med-details"><summary>
+
+### Prosthetic Ring Selection: Classic vs. Physio (DA & AC)</summary><div class="details-content">
 
 **DA: What are the specific indications of the Classic versus Physio ring in type IIIa dysfunction?**
-> **AC:** The respective selection is based on the morphology and measurement of the anterior leaflet. Often in rheumatic disease, the height of the anterior leaflet is slightly reduced compared to normal. In this case, the Classic ring would be preferred because it has been specifically designed to accommodate this feature. In most instances, however, a normal relationship is found between the height and the transverse dimension of the anterior leaflet. In this circumstance, a Physio ring is preferred.
+**AC:** The respective selection is based on the morphology and measurement of the anterior leaflet. Often in rheumatic disease, the height of the anterior leaflet is slightly reduced compared to normal. In this case, the Classic ring would be preferred because it has been specifically designed to accommodate this feature. In most instances, however, a normal relationship is found between the height and the transverse dimension of the anterior leaflet. In this circumstance, a Physio ring is preferred.
 
-#### Management of Postrepair Residual Regurgitation
+</div></details>
+
+<details class="med-details"><summary>
+
+### Management of Postrepair Residual Regurgitation (FF & AC)</summary><div class="details-content">
 
 **FF: Does the age of the patient impact your approach to treat postrepair residual mitral regurgitation in the setting of type IIIa dysfunction?**
-> **AC:** In general, a residual regurgitation should lead to an intraoperative analysis. In most instances, one of the simple additional procedures described in this chapter solves the regurgitation. If this cannot be achieved, the question arises whether it would be preferable to immediately replace the valve. My clinical experience has shown that a mild residual regurgitation can be tolerated for a long time whenever a ring has been implanted to remodel and stabilize the annulus. In contrast, a moderate residual regurgitation has the tendency to get worse. It is therefore preferable to replace the valve. The age of the patient does not influence this decision.
+**AC:** In general, a residual regurgitation should lead to an intraoperative analysis. In most instances, one of the simple additional procedures described in this chapter solves the regurgitation. If this cannot be achieved, the question arises whether it would be preferable to immediately replace the valve. My clinical experience has shown that a mild residual regurgitation can be tolerated for a long time whenever a ring has been implanted to remodel and stabilize the annulus. In contrast, a moderate residual regurgitation has the tendency to get worse. It is therefore preferable to replace the valve. The age of the patient does not influence this decision.
 
-#### Etiology and Disease Evolutivity
+</div></details>
+
+<details class="med-details"><summary>
+
+### Etiology and Disease Evolutivity (DA & AC)</summary><div class="details-content">
 
 **DA: Does the etiology of the valvular disease--such as rheumatic, lupus, or irradiation--alter your approach in type IIIa dysfunction?**
-> **AC:** The etiology certainly influences the indications. For each etiology, two important factors should be considered: the severity of the lesions and the evolutivity of the disease. By "evolutivity," I mean the pace of the progression of the disease as determined by a careful assessment of the evolution at regular intervals. In the settings of acute rheumatic valvular disease, lupus, or irradiation, the valvular lesions and their evolutivity may suggest valve replacement as the first choice. However, I have used valve reconstruction to successfully treat patients with favorable lesions, in particular preserved mobility of the anterior leaflet. The evolutivity of the disease under appropriate medical treatment is the key factor in the decision making for the choice of the surgical procedure. If the evolutivity is well controlled by medical treatment and the lesions favorable, I tend to reconstruct the valve, particularly in young patients. Otherwise, I replace it. In all instances, I take the patient's opinion as my first consideration, because of the increased risk of long-term reoperation versus anticoagulation in these settings.
+**AC:** The etiology certainly influences the indications. For each etiology, two important factors should be considered: the severity of the lesions and the evolutivity of the disease. By "evolutivity," I mean the pace of the progression of the disease as determined by a careful assessment of the evolution at regular intervals. In the settings of acute rheumatic valvular disease, lupus, or irradiation, the valvular lesions and their evolutivity may suggest valve replacement as the first choice. However, I have used valve reconstruction to successfully treat patients with favorable lesions, in particular preserved mobility of the anterior leaflet. The evolutivity of the disease under appropriate medical treatment is the key factor in the decision making for the choice of the surgical procedure. If the evolutivity is well controlled by medical treatment and the lesions favorable, I tend to reconstruct the valve, particularly in young patients. Otherwise, I replace it. In all instances, I take the patient's opinion as my first consideration, because of the increased risk of long-term reoperation versus anticoagulation in these settings.
+
+</div></details>
 
 </div></details>

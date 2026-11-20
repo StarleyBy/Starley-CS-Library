@@ -1,4 +1,4 @@
-# 17. Surgical Anatomy and Physiology
+# Chapter 17. Surgical Anatomy and Physiology
 
 <details class="med-details"><summary>
 
@@ -41,7 +41,7 @@ The Eustachian valve guards the inferior vena caval orifice, while the Thebesian
 
 <span id="fig-17-01"></span>![](_page_175_Figure_17-1.jpeg)
 
-**FIGURE 17-1** Surgical anatomy of the right atrium and tricuspid valve: curved posterior caval groove, smooth interatrial septum, triangle of Koch, and trabeculated anterior wall with right atrial appendage.
+**FIGURE 17-1**
 
 #### The Atrio-Valvular Boundary and Surgical Exposure
 
@@ -61,7 +61,7 @@ The annulus is a heterogeneous, almost virtual structure composed of intermixed 
 
 <span id="fig-17-02"></span>![](_page_176_Figure_17-2.jpeg)
 
-**FIGURE 17-2** Surgical dissection of the tricuspid valve junction: transition from atrial endocardium to tricuspid annular tissue along the anterior, posterior, and septal segments (panels a–e).
+**FIGURE 17-2**
 
 </div></details>
 
@@ -79,7 +79,7 @@ The lowest position corresponds to the posterior segment and posteroseptal commi
 
 <span id="fig-17-03"></span>![](_page_176_Figure_17-3.jpeg)
 
-**FIGURE 17-3** Non-planar "wave form" configuration of the tricuspid annulus: 3D saddle/wave architecture showing elevated anterior-septal peak and depressed posterior segment.
+**FIGURE 17-3**
 
 #### Cyclic Annular Dynamics and Measurements
 
@@ -91,7 +91,7 @@ The concentric reduction of the tricuspid valve orifice during systole results f
 
 <span id="fig-17-04"></span>![](_page_177_Figure_17-4.jpeg)
 
-**FIGURE 17-4** Cyclic dynamics and 3D deformation of the tricuspid annulus: circular diastolic geometry (a) transitioning into an elliptical, concentrically reduced systolic wave form with axial torsion (b).
+**FIGURE 17-4**
 
 <details class="med-details"><summary>
 
@@ -116,7 +116,7 @@ Sutures placed along the anterior and posterior segments must remain superficial
 
 <span id="fig-17-05"></span>![](_page_178_Figure_17-5.jpeg)
 
-**FIGURE 17-5** Anatomical structures at risk during tricuspid valve surgery: adjacent non-coronary sinus of Valsalva and aortic root (1), atrioventricular conduction bundle of His in the apex of Koch's triangle (2), and right coronary artery in the AV groove (3).
+**FIGURE 17-5**
 
 </div></details>
 
@@ -134,7 +134,7 @@ The anterior leaflet has a semicircular shape with an average height of 25 mm. T
 
 <span id="fig-17-06"></span>![](_page_179_Figure_17-6.jpeg)
 
-**FIGURE 17-6** Anatomy and proportions of the three tricuspid leaflets: large semicircular anterior leaflet, scalloped posterior leaflet, and relatively immobile septal leaflet.
+**FIGURE 17-6**
 
 <details class="med-details"><summary>
 
@@ -163,7 +163,7 @@ During systole, the papillary muscles contract, pulling the leaflets towards the
 
 <span id="fig-17-07"></span>![](_page_179_Figure_17-7.jpeg)
 
-**FIGURE 17-7** Dual functional mechanism of the tricuspid subvalvular apparatus: prevention of systolic leaflet prolapse and active diastolic opening ("active opening valve") via papillary muscle contraction.
+**FIGURE 17-7**
 
 #### Chordae Tendineae Classification and Papillary Muscle Anatomy
 
@@ -175,11 +175,11 @@ The anterior papillary muscle is the largest and most constant, while the poster
 
 <span id="fig-17-08"></span>![](_page_180_Figure_17-8.jpeg)
 
-**FIGURE 17-8** Classification of tricuspid chordae tendineae: primary marginal chordae (1), secondary intermediate/strut chordae (2), and tertiary basal chordae arising directly from ventricular trabeculae (3).
+**FIGURE 17-8**
 
 <span id="fig-17-09"></span>![](_page_180_Figure_17-9.jpeg)
 
-**FIGURE 17-9** Papillary muscle distribution in the right ventricle: dominant anterior papillary muscle, variable posterior papillary complex, and septal papillary muscles (papillary muscle of Lancisi).
+**FIGURE 17-9**
 
 </div></details>
 
@@ -205,56 +205,63 @@ At the level of the coronary sinus, annuloplasty sutures should be transitioned 
 
 <span id="fig-17-10"></span>![](_page_181_Figure_17-10.jpeg)
 
-**FIGURE 17-10** Surgical boundaries of the triangle of Koch and conduction axis: tendon of Todaro (superior), septal annulus (inferior), and coronary sinus ostium (base), meeting at the membranous septum where the bundle of His penetrates the ventricular septum.
+**FIGURE 17-10**
 
 </div></details>
 
 <details class="med-details"><summary>
 
-## DISCUSSION</summary><div class="details-content">
+## CLINICAL DISCUSSION</summary><div class="details-content">
 
-#### The Aortic Segment and Aortic Root Relationships
+<details class="med-details"><summary>
 
-> **FF:** What is the significance of the aortic segment that you identified?
->
-> **AC:** I believe it is useful to direct the attention of cardiac surgeons to the proximity of this segment with the aortic root because it has important practical implications. Only a few millimeters of fibrous tissue separate the aortic segment of the tricuspid annulus from the aortic root, particularly in the elderly. Therefore improper orientation of a suture could result in aortic sinus or leaflet injury. If this occurs, the aortic valve should be inspected through an aortotomy to recognize and repair the lesion.
+### The Aortic Segment and Aortic Root Relationships (FF & AC)</summary><div class="details-content">
 
-> **FF:** Does the pathology of the aortic root affect the geometry or structure of the tricuspid valve?
->
-> **AC:** It certainly does in two pathological processes: (1) aneurysms of the aortic root and (2) bacterial endocarditis of the aortic valve with annular abscess involving the area between the right coronary cusp and the non-coronary cusp.
+**FF:** What is the significance of the aortic segment that you identified?
+**AC:** I believe it is useful to direct the attention of cardiac surgeons to the proximity of this segment with the aortic root because it has important practical implications. Only a few millimeters of fibrous tissue separate the aortic segment of the tricuspid annulus from the aortic root, particularly in the elderly. Therefore improper orientation of a suture could result in aortic sinus or leaflet injury. If this occurs, the aortic valve should be inspected through an aortotomy to recognize and repair the lesion.
 
-#### Tricuspid Dimensions and the "Wave Form" Annulus
+**FF:** Does the pathology of the aortic root affect the geometry or structure of the tricuspid valve?
+**AC:** It certainly does in two pathological processes: (1) aneurysms of the aortic root and (2) bacterial endocarditis of the aortic valve with annular abscess involving the area between the right coronary cusp and the non-coronary cusp.
 
-> **DA:** Is there a "normal size" for the tricuspid valve?
->
-> **AC:** The size of the tricuspid orifice is related to the body surface area and therefore varies from patient to patient. More important is the "normal" relationship between the size of the tricuspid orifice and the surface area of the leaflet tissue. This relationship is altered in pathological conditions either by a dilated annulus or by leaflet tissue shrinkage and should be restored by remodeling annuloplasty. The size of the selected ring should be based on the surface area of the leaflet tissue and not arbitrarily be the same in all patients.
+</div></details>
 
-> **FF:** Does the tricuspid annulus have a saddle shape like the mitral annulus?
->
-> **AC:** Numerous studies in my laboratory have shown that the tricuspid annulus should be defined not only by its shape but also by its dynamics. The dynamics of the tricuspid annulus are more complex than those of the mitral valve. The tricuspid annulus combines three types of motion: (1) circumferential, with successive contraction and dilatation of the orifice; (2) segmental, with four different segments following a different pattern of motion; and (3) axial, with torsion of the annulus along the anteroposterior axis of the orifice. The resulting geometry of the annulus is not a saddle shape but a complex and constant changing segmental movement evoking that of waves. Thus the term "wave form" seems more appropriate than saddle shape for the tricuspid valve.
+<details class="med-details"><summary>
 
-#### Asymmetrical Dynamics and the Anteroseptal Commissure
+### Tricuspid Dimensions and the "Wave Form" Annulus (DA & AC)</summary><div class="details-content">
 
-> **FF:** How do you explain the complex asymmetrical motion of the tricuspid annulus as opposed to that of the mitral valve?
->
-> **AC:** The fundamental difference between the two valves is the fact that the tricuspid annulus is attached to a single fibrous trigone while the mitral valve annulus is attached symmetrically to both fibrous trigones. Most of the circumference of the tricuspid annular attachment is muscular as opposed to the posterior two-thirds circumference of the mitral annulus. This explains the more complex and asymmetrical pattern of annular contraction of the tricuspid valve, with the posterior trigone serving as the "point d'ancrage," that is, the fixation point of the tricuspid annulus.
+**DA:** Is there a "normal size" for the tricuspid valve?
+**AC:** The size of the tricuspid orifice is related to the body surface area and therefore varies from patient to patient. More important is the "normal" relationship between the size of the tricuspid orifice and the surface area of the leaflet tissue. This relationship is altered in pathological conditions either by a dilated annulus or by leaflet tissue shrinkage and should be restored by remodeling annuloplasty. The size of the selected ring should be based on the surface area of the leaflet tissue and not arbitrarily be the same in all patients.
 
-> **DA:** Can you further clarify the functional anatomy of the anteroseptal commissure?
->
-> **AC:** Observing a beating heart either in the laboratory or during open-heart surgery permits visualization during the cardiac cycle of torsion of the tricuspid orifice along its anteroposterior axis, which crosses the anteroseptal commissure. The resulting complex motion of this commissure is influenced by the surrounding anatomical structures: the posteromedial trigone is resistant and plays the role of a hinge, the membranous septum is a weak structure, and the septal annulus is the less mobile annular segment. The tricuspid Physio ring has been designed to follow these 3D deformations.
+**FF:** Does the tricuspid annulus have a saddle shape like the mitral annulus?
+**AC:** Numerous studies in my laboratory have shown that the tricuspid annulus should be defined not only by its shape but also by its dynamics. The dynamics of the tricuspid annulus are more complex than those of the mitral valve. The tricuspid annulus combines three types of motion: (1) circumferential, with successive contraction and dilatation of the orifice; (2) segmental, with four different segments following a different pattern of motion; and (3) axial, with torsion of the annulus along the anteroposterior axis of the orifice. The resulting geometry of the annulus is not a saddle shape but a complex and constant changing segmental movement evoking that of waves. Thus the term "wave form" seems more appropriate than saddle shape for the tricuspid valve.
 
-#### Commissural Leaflets, Papillary Digits, and Conduction Variations
+</div></details>
 
-> **DA:** What is the implication of tricuspid commissural leaflets?
->
-> **AC:** Commissural leaflets are always present with a variable amount of tissue. They may be small and difficult to identify but there is always some leaflet tissue to achieve a connection between two adjacent leaflets so that the coaptation zone never reaches the annulus. A practical implication is that a commissurotomy should never be extended to the annulus.
+<details class="med-details"><summary>
 
-> **FF:** What are the differences between the mitral and tricuspid valves regarding the attachment of the papillary muscles on the ventricle?
->
-> **AC:** The ventricular attachment of the papillary muscles of the tricuspid valve frequently presents several digits, which are parts of the complex muscular bands of the right ventricle. These finger-like structures are not as strong as those found in the attachment of the papillary muscles of the mitral valve, explaining the higher frequency of tricuspid valve papillary muscle detachment following blunt chest trauma.
+### Asymmetrical Dynamics and the Anteroseptal Commissure (FF & AC)</summary><div class="details-content">
 
-> **DA:** Can you describe the variations of the conduction system?
->
-> **AC:** In normal hearts, the main variation is the relationship between the bundle of His and the membranous septum. The bundle may perforate or surround caudally the membranous septum. Multiple variations result from abnormal accessory pathways and/or abnormal anatomy of the interventricular septum, particularly the various types of atrioventricular canal defects.
+**FF:** How do you explain the complex asymmetrical motion of the tricuspid annulus as opposed to that of the mitral valve?
+**AC:** The fundamental difference between the two valves is the fact that the tricuspid annulus is attached to a single fibrous trigone while the mitral valve annulus is attached symmetrically to both fibrous trigones. Most of the circumference of the tricuspid annular attachment is muscular as opposed to the posterior two-thirds circumference of the mitral annulus. This explains the more complex and asymmetrical pattern of annular contraction of the tricuspid valve, with the posterior trigone serving as the "point d'ancrage," that is, the fixation point of the tricuspid annulus.
+
+**DA:** Can you further clarify the functional anatomy of the anteroseptal commissure?
+**AC:** Observing a beating heart either in the laboratory or during open-heart surgery permits visualization during the cardiac cycle of torsion of the tricuspid orifice along its anteroposterior axis, which crosses the anteroseptal commissure. The resulting complex motion of this commissure is influenced by the surrounding anatomical structures: the posteromedial trigone is resistant and plays the role of a hinge, the membranous septum is a weak structure, and the septal annulus is the less mobile annular segment. The tricuspid Physio ring has been designed to follow these 3D deformations.
+
+</div></details>
+
+<details class="med-details"><summary>
+
+### Commissural Leaflets, Papillary Digits, and Conduction Variations (DA & AC)</summary><div class="details-content">
+
+**DA:** What is the implication of tricuspid commissural leaflets?
+**AC:** Commissural leaflets are always present with a variable amount of tissue. They may be small and difficult to identify but there is always some leaflet tissue to achieve a connection between two adjacent leaflets so that the coaptation zone never reaches the annulus. A practical implication is that a commissurotomy should never be extended to the annulus.
+
+**FF:** What are the differences between the mitral and tricuspid valves regarding the attachment of the papillary muscles on the ventricle?
+**AC:** The ventricular attachment of the papillary muscles of the tricuspid valve frequently presents several digits, which are parts of the complex muscular bands of the right ventricle. These finger-like structures are not as strong as those found in the attachment of the papillary muscles of the mitral valve, explaining the higher frequency of tricuspid valve papillary muscle detachment following blunt chest trauma.
+
+**DA:** Can you describe the variations of the conduction system?
+**AC:** In normal hearts, the main variation is the relationship between the bundle of His and the membranous septum. The bundle may perforate or surround caudally the membranous septum. Multiple variations result from abnormal accessory pathways and/or abnormal anatomy of the interventricular septum, particularly the various types of atrioventricular canal defects.
+
+</div></details>
 
 </div></details>

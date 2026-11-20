@@ -1,4 +1,4 @@
-# 2. Valve Analysis: “The Functional Classification”
+# Chapter 2. Valve Analysis: “The Functional Classification”
 
 <details class="med-details"><summary>
 
@@ -44,7 +44,7 @@ The challenge is to establish a precise diagnosis to recommend the most appropri
 
 <span id="fig-02-01"></span>![](_page_5_Figure_2-1.jpeg)
 
-**FIGURE 2-1** The four cardiac valves during the cardiac cycle: pulmonary valve, aortic valve, mitral valve, and tricuspid valve during diastole (ventricular filling) and systole (ventricular ejection).
+**FIGURE 2-1**
 
 <details class="med-details"><summary>
 
@@ -198,7 +198,7 @@ Types I and II valve dysfunctions result in valve regurgitation, whereas Type II
 
 <span id="fig-02-02"></span>![](_page_8_Figure_2-2.jpeg)
 
-**FIGURE 2-2** Carpentier’s functional classification of valvular dysfunctions for the mitral and aortic valves: Type I (normal leaflet motion), Type II (leaflet prolapse / excess motion), Type IIIa (restricted leaflet opening), and Type IIIb (restricted leaflet closure).
+**FIGURE 2-2**
 
 Assessing the type of dysfunction in valvular disease is important because it helps surgeons identify the lesions causing the dysfunction ([Table 2-6](#table-02-06)).
 
@@ -230,11 +230,11 @@ The functional classification is the foundation of valve analysis. It serves as 
 
 <details class="med-details"><summary>
 
-## CLINICAL DISCUSSION AND SURGICAL DIALOGUE</summary><div class="details-content">
+## CLINICAL DISCUSSION</summary><div class="details-content">
 
 <details class="med-details"><summary>
 
-### The Clinical Role of the Triad</summary><div class="details-content">
+### The Clinical Role of the Triad (DA & AC)</summary><div class="details-content">
 
 **Dr. David H. Adams (DA):** You emphasized the importance of differentiating etiology, lesion, and dysfunction. Many reports in the literature fail to make such a distinction, leading to confusion. Can you further clarify the role of this triad?
 
@@ -250,7 +250,7 @@ A comprehensive description of mitral valve regurgitation, for example, would be
 
 <details class="med-details"><summary>
 
-#### Annular Plane as the Fundamental Reference</summary><div class="details-content">
+#### Annular Plane as the Fundamental Reference (FF & AC)</summary><div class="details-content">
 
 **Dr. Farzan Filsoufi (FF):** What led you to the concept of the functional approach before the era of routine echocardiography?
 
@@ -260,7 +260,7 @@ A comprehensive description of mitral valve regurgitation, for example, would be
 
 <details class="med-details"><summary>
 
-#### Universal Reference Across All Valves</summary><div class="details-content">
+#### Universal Reference Across All Valves (DA & AC)</summary><div class="details-content">
 
 **DA:** The annular plane is fundamental to assess mitral valve dysfunction. Is the same true for the aortic and the tricuspid valves?
 
@@ -272,7 +272,7 @@ A comprehensive description of mitral valve regurgitation, for example, would be
 
 <details class="med-details"><summary>
 
-### Functional Approach vs. Anatomical Approach</summary><div class="details-content">
+### Functional Approach vs. Anatomical Approach (DA & AC)</summary><div class="details-content">
 
 **DA:** How does the "functional classification" help guide surgical strategy?
 
@@ -284,7 +284,7 @@ Let us take the example of a leaflet prolapse caused by chordae rupture: an anat
 
 <details class="med-details"><summary>
 
-### Excess Tissue, Billowing, and Prolapse</summary><div class="details-content">
+### Excess Tissue, Billowing, and Prolapse (DA & AC)</summary><div class="details-content">
 
 **DA:** Can excess tissue cause a valve dysfunction in the absence of other lesions?
 
@@ -294,7 +294,7 @@ Let us take the example of a leaflet prolapse caused by chordae rupture: an anat
 
 <details class="med-details"><summary>
 
-### The Fallacy of Hybrid Dysfunctions</summary><div class="details-content">
+### The Fallacy of Hybrid Dysfunctions (FF & AC)</summary><div class="details-content">
 
 **FF:** Some surgeons describe an anterior leaflet prolapse with annular dilatation as "Type I-Type II dysfunction." Can you make a comment?
 
@@ -306,7 +306,7 @@ The correct description they should use in the example you have provided would b
 
 <details class="med-details"><summary>
 
-### Terminology: Prolapse vs. Flail</summary><div class="details-content">
+### Terminology: Prolapse vs. Flail (DA & AC)</summary><div class="details-content">
 
 **DA:** Some people use the term "flail" instead of prolapse. Why do you prefer prolapse?
 
@@ -322,7 +322,7 @@ If you want to express the degree of prolapse, it is better to measure it in mil
 
 <details class="med-details"><summary>
 
-#### Association of Different Functional Types</summary><div class="details-content">
+#### Association of Different Functional Types (FF & AC)</summary><div class="details-content">
 
 **FF:** What about possible associations of different functional types?
 
@@ -332,7 +332,7 @@ If you want to express the degree of prolapse, it is better to measure it in mil
 
 <details class="med-details"><summary>
 
-#### Surgical Pitfalls and the Peril of Haste</summary><div class="details-content">
+#### Surgical Pitfalls and the Peril of Haste (FF & AC)</summary><div class="details-content">
 
 **FF:** What is the most frequent mistake you have observed while watching others perform valve reconstruction? Are there any other pitfalls?
 

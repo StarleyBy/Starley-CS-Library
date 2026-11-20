@@ -133,7 +133,16 @@ for (const bookRel of bookDirs) {
     const folder = parent ? path.join(chdir, parent.file.replace(/\.md$/, '')) : path.join(chdir, stem);
     let found = path.join(folder, file);
     let flat = false;
-    if (!fs.existsSync(found)) { const alt = path.join(chdir, file); if (fs.existsSync(alt)) { found = alt; flat = true; } else { add(metaRel, 'error', 'C011', `Нет файла главы: ${rel(path.join(folder, file))}`); continue; } }
+    if (!fs.existsSync(found)) {
+      const ownFolder = path.join(chdir, stem, file);
+      if (fs.existsSync(ownFolder)) {
+        found = ownFolder;
+      } else {
+        const alt = path.join(chdir, file);
+        if (fs.existsSync(alt)) { found = alt; flat = true; }
+        else { add(metaRel, 'error', 'C011', `Нет файла главы: ${rel(path.join(folder, file))}`); continue; }
+      }
+    }
     existing++;
     const dirOf = path.dirname(found);
     if (fs.existsSync(path.join(dirOf, stem + '-ru.md'))) ruHave++; else ruMissing++;

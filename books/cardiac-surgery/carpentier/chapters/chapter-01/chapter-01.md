@@ -1,4 +1,4 @@
-# 1. Introduction
+# Chapter 1. Introduction
 
 <details class="med-details"><summary>
 
@@ -65,7 +65,7 @@ However, it was not until 1984 that the first comparative analysis of four diffe
 
 <span id="fig-01-01"></span>![](_page_3_Figure_1-1.jpeg)
 
-**FIGURE 1-1** Actuarial comparative evaluation of 4 concomitant series of 100 patients undergoing surgery for mitral valve regurgitation using either valve reconstruction or valve replacement. Curves demonstrate actuarial freedom from valve-related death (panel a), procedure-related morbidity and mortality (panel b), thromboembolism (panel c), and reoperation (panel d).
+**FIGURE 1-1**
 
 </div></details>
 

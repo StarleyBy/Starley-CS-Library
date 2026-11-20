@@ -1,4 +1,4 @@
-# 4. Operative Management
+# Chapter 4. Operative Management
 
 <details class="med-details"><summary>
 
@@ -88,7 +88,7 @@ Nerve hooks are critical instruments for systematic valve analysis, allowing the
 
 <span id="fig-04-01"></span>![](_page_15_Figure_4-1.jpeg)
 
-**FIGURE 4-1** Specialized surgical instrumentation for reconstructive valve surgery: (a) atraumatic aortic retractors, (b) sternal retractor with self-retaining atrial blades, (c) nerve hooks for valve analysis, (d) atraumatic gripping forceps, (e) papillary muscle clamp, (f) long needle holder with large jaws, (g) surgical scissors.
+**FIGURE 4-1**
 
 Suture material requires special consideration:
 * **Annuloplasty Ring Implantation:** Braided 4-0 sutures are recommended. A $3/8$ curvature needle rather than a semicircular needle is strongly recommended to ensure large, deep tissue bites through the fibrous annulus, thereby preventing ring dehiscence.
@@ -112,13 +112,13 @@ In this era of less invasive surgery, the conventional 20-cm skin incision is no
 
 <span id="fig-04-02"></span>![](_page_16_Figure_4-2.jpeg)
 
-**FIGURE 4-2** Median sternotomy approach: cosmetic 8- to 10-cm skin incision providing complete sternotomy exposure compared with the historical 20-cm incision (inset).
+**FIGURE 4-2**
 
 Proper positioning of the sternal retractor is obtained by ensuring that the midpoint between the two central anchoring mechanisms is aligned with the right atrial appendage ([Fig. 4-3](#fig-04-03)). Faulty cephalad or caudal placement impairs exposure of the interatrial groove and left atrium.
 
 <span id="fig-04-03"></span>![](_page_16_Figure_4-3.jpeg)
 
-**FIGURE 4-3** Sternal retractor positioning: optimal position requires alignment of the retractor midpoint with the right atrial appendage (left); cephalad or caudal malposition impairs valve visualization (center and right).
+**FIGURE 4-3**
 
 </div></details>
 
@@ -134,7 +134,7 @@ Before sterile draping, an external defibrillator is placed for subsequent cardi
 
 <span id="fig-04-04"></span>![](_page_17_Figure_4-4.jpeg)
 
-**FIGURE 4-4** Right anterolateral thoracotomy approach: fourth intercostal space incision with 30-degree left lateral tilt of the patient.
+**FIGURE 4-4**
 
 > [!NOTE]
 > **CLINICAL HIGHLIGHT: LESS INVASIVE SURGERY**
@@ -156,11 +156,11 @@ Ministernotomy may be used both for aortic and for mitral or tricuspid valve sur
 
 <span id="fig-04-05"></span>![](_page_17_Figure_4-5.jpeg)
 
-**FIGURE 4-5** Upper ministernotomy: skin incision extending from the sternal notch to the third or fourth right intercostal space, primarily utilized for aortic valve procedures.
+**FIGURE 4-5**
 
 <span id="fig-04-06"></span>![](_page_17_Figure_4-6.jpeg)
 
-**FIGURE 4-6** Lower ministernotomy: skin incision extending from the xyphoid process to the second right intercostal space, utilized for mitral and tricuspid valve procedures.
+**FIGURE 4-6**
 
 Access to the mitral valve is achieved through the interatrial groove or through the atrial septum. Cannulation of the ascending aorta is possible, particularly when using an upper ministernotomy. Peripheral arterial cannulation is advisable if access to the ascending aorta is limited or severe aortic calcifications are present. Venous cannulation is performed either percutaneously (via right femoral and internal jugular veins) or directly through the right atrium. Vacuum-assisted drainage is essential to ensure adequate venous return.
 
@@ -168,7 +168,7 @@ Right lateral minithoracotomy ([Fig. 4-7](#fig-04-07)) was the approach used to 
 
 <span id="fig-04-07"></span>![](_page_18_Figure_4-7.jpeg)
 
-**FIGURE 4-7** Right lateral minithoracotomy: 5-cm skin incision with a port placed in the fourth intercostal space for video-assisted or robotic mitral valve reconstruction.
+**FIGURE 4-7**
 
 In all minimally invasive procedures, three mandatory safety rules must be followed:
 1. Placement of external defibrillator adhesive pads before surgical draping.
@@ -227,7 +227,7 @@ Epiaortic ultrasound examination of the ascending aorta is recommended to rule o
 
 <span id="fig-04-08"></span>![](_page_19_Figure_4-8.jpeg)
 
-**FIGURE 4-8** Operative setup for cardiopulmonary bypass and myocardial protection: ascending aortic cannulation, bicaval cannulation with snared caval tapes, antegrade cardioplegia line, retrograde coronary sinus cardioplegia line, aortic root suction line, myocardial temperature probe, and carbon dioxide ($CO_2$) delivery line.
+**FIGURE 4-8**
 
 Myocardial protection is best achieved by cold blood cardioplegia. Warm blood cardioplegia, widely used in coronary artery bypass grafting, is not recommended in reconstructive valve surgery because the operative cross-clamp time frequently extends beyond 2 hours.
 
@@ -235,7 +235,7 @@ The aorta is cross-clamped with care. Intermittent antegrade cold blood cardiopl
 
 <span id="fig-04-09"></span>![](_page_19_Figure_4-9.jpeg)
 
-**FIGURE 4-9** Dual-purpose aortic root cannulation system: (a) aortic root needle, (b) cardioplegia delivery line, (c) aortic root suction and de-airing line.
+**FIGURE 4-9**
 
 Myocardial preservation is supplemented by tepid systemic hypothermia between 28° and 30°C and topical hypothermia with iced saline slush. Direct continuous monitoring of myocardial septal temperature is recommended, maintaining septal temperature strictly below 15°C. In the absence of continuous temperature monitoring, cold blood cardioplegia must be redosed every 20 minutes in an antegrade or retrograde fashion.
 
@@ -253,7 +253,7 @@ A transmitral cannula is placed through the mitral valve orifice into the left v
 
 <span id="fig-04-10"></span>![](_page_20_Figure_4-10.jpeg)
 
-**FIGURE 4-10** Left atrial closure: temporary transmitral ventricular venting cannula keeping the mitral valve leaflets incompetent to facilitate retrograde de-airing, surrounded by a closing mattress suture.
+**FIGURE 4-10**
 
 During left atrial closure, five major technical pitfalls must be avoided:
 * **Right Pulmonary Artery Entrapment:** The right pulmonary artery can be inadvertently caught by sutures placed at the superior aspect of the atriotomy. This complication is prevented by dissecting and separating the artery from the roof of the atrium.
@@ -274,7 +274,7 @@ The comprehensive method developed by Carpentier provides complete de-airing of 
 
 <span id="fig-04-11"></span>![](_page_21_Figure_4-11.jpeg)
 
-**FIGURE 4-11** Three-step systematic de-airing protocol: (1) passive retrograde de-airing through left atrial opening (a) and brief low ventricular suction (b); (2) passive antegrade de-airing through the aortic root suction line; (3) active antegrade de-airing through the aortic root suction line with the heart beating.
+**FIGURE 4-11**
 
 De-airing is executed in three successive, coordinated stages ([Fig. 4-11](#fig-04-11)):
 
@@ -370,7 +370,7 @@ Comprehensive post-bypass TEE is mandatory to verify complete de-airing, evaluat
 
 <details class="med-details"><summary>
 
-### Minimally Invasive & Robotic Surgery: Scope and Limitations</summary><div class="details-content">
+### Minimally Invasive & Robotic Surgery: Scope and Limitations (DA & AC)</summary><div class="details-content">
 
 #### DA: You have pioneered mini-invasive and robotic surgery. What role should they play today in the context of reconstructive valve surgery?
 
@@ -394,7 +394,7 @@ In fact, the most important contribution of less invasive surgery is that the co
 
 <details class="med-details"><summary>
 
-### Air Embolism Prevention and Management</summary><div class="details-content">
+### Air Embolism Prevention and Management (FF & AC)</summary><div class="details-content">
 
 #### FF: Why have you always emphasized air embolism as a major cause of complication in patients undergoing valvular surgery?
 
@@ -412,7 +412,7 @@ The key responsibility of the surgeon is to prevent air embolism by systematical
 
 <details class="med-details"><summary>
 
-### Surgical Approach Indications: Redo, Beating Heart & Transseptal</summary><div class="details-content">
+### Surgical Approach Indications: Redo, Beating Heart & Transseptal (FF & AC)</summary><div class="details-content">
 
 #### DA: When do you use a right thoracotomy in the setting of a redo operation?
 
@@ -442,7 +442,7 @@ I still occasionally use a transseptal approach in redo operations with unusuall
 
 <details class="med-details"><summary>
 
-### Technical Complications: Exposure, Left Atrial Tear, and Peripheral Vessels</summary><div class="details-content">
+### Technical Complications: Exposure, Left Atrial Tear, and Peripheral Vessels (FF & AC)</summary><div class="details-content">
 
 #### FF: If suboptimal exposure is obtained after the left atrial approach you described, what can be done to improve it?
 
@@ -480,7 +480,7 @@ When these complications occur, they are often diagnosed because of the difficul
 
 <details class="med-details"><summary>
 
-### Residual Regurgitation & Future Transcatheter Valve Technologies</summary><div class="details-content">
+### Residual Regurgitation & Future Transcatheter Valve Technologies (DA & AC)</summary><div class="details-content">
 
 #### DA: Do you have a different strategy for residual regurgitation depending on the reconstructed valve?
 

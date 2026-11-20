@@ -1,4 +1,4 @@
-# 20. Surgical Anatomy and Physiology
+# Chapter 20. Surgical Anatomy and Physiology
 
 <details class="med-details"><summary>
 
@@ -228,46 +228,78 @@ During early isovolumetric contraction, the aortic annulus undergoes downward di
 
 <details class="med-details"><summary>
 
-## DISCUSSION</summary><div class="details-content">
+## CLINICAL DISCUSSION</summary><div class="details-content">
 
-#### Comparative Anatomy Across Species
-> **DA:** To develop the first valvular bioprostheses, you extensively studied the aortic valves of pigs and calves. Compared to these two species, how different is the anatomy of the human aortic valve?
->
-> **AC:** There are more anatomical similarities between the aortic valve of these three species than between their respective body morphology! The main difference is that in animals the muscular interventricular septum extends to the right coronary leaflet and forms a ridge of muscular tissue supporting that leaflet. The second difference is the presence of bone formation in the fibrous skeleton of the heart, particularly in calves. These anatomical differences significantly complicated the mounting of porcine valvular bioprostheses into a stent. For this reason, among others, I adopted the pericardial tissue at a later stage.
+<details class="med-details"><summary>
 
-#### Annular to Sinotubular Junction Ratios
-> **FF:** Several studies have reported different ratios between annular and sino-tubular junction circumferences. Could you comment on that?
->
-> **AC:** Several authors, including Tirone David and Raymond Cartier, have shown that this ratio varies according to age. In young people, the annular circumference is about 10% larger than the sino-tubular circumference, and the ratio is less than 1. In the elderly, the sino-tubular junction tends to dilate and its circumference becomes equal to or larger than the annular circumference, with the ratio approximating or exceeding 1.
+### Comparative Anatomy Across Species (DA & AC)</summary><div class="details-content">
 
-#### Functional Impact of Sinotubular Dilatation
-> **DA:** What is the functional relationship between the sino-tubular junction and the crown of the commissures?
->
-> **AC:** The tips of the commissures are attached to the sino-tubular junction. In supravalvular stenosis, the sino-tubular junction is hypertrophied, making it difficult to expose the commissures and the coronary ostia without creating regurgitation. By contrast, a dilatation of the sino-tubular junction displaces the commissures outward, causing type IIIb valve dysfunction with aortic regurgitation.
+**DA:** To develop the first valvular bioprostheses, you extensively studied the aortic valves of pigs and calves. Compared to these two species, how different is the anatomy of the human aortic valve?
+**AC:** There are more anatomical similarities between the aortic valve of these three species than between their respective body morphology! The main difference is that in animals the muscular interventricular septum extends to the right coronary leaflet and forms a ridge of muscular tissue supporting that leaflet. The second difference is the presence of bone formation in the fibrous skeleton of the heart, particularly in calves. These anatomical differences significantly complicated the mounting of porcine valvular bioprostheses into a stent. For this reason, among others, I adopted the pericardial tissue at a later stage.
 
-#### Structural Nature of the Lunulae
-> **DA:** Are lunulae distinct structures or simply a designation of the coaptation zones?
->
-> **AC:** They are distinct structures with a crescent shape extending from the commissures to the nodulus of Arantius. The extreme thinness of the lunulae facilitates leaflet closure and compensates for the small surface of coaptation. The leaflet tissue is sometimes perforated near the commissures.
+</div></details>
 
-#### Significance of Commissural Fenestrations
-> **FF:** Do these fenestrations cause any valve dysfunction?
->
-> **AC:** They usually do not leak because they are opposed by the adjacent leaflet or positioned above the line of coaptation.
+<details class="med-details"><summary>
 
-#### Biomechanical Role of Subcommissural Triangles
-> **FF:** What is the role of the subcommissural triangles?
->
-> **AC:** The subcommissural triangular structures provide optimal elasticity to the aortic annulus. As such, they play a significant role in absorbing the stress and organizing the flow pattern through the outflow tract and the aortic valve.
+### Annular to Sinotubular Junction Ratios (FF & AC)</summary><div class="details-content">
 
-#### Rationale for Creating Pseudosinuses
-> **FF:** What is your opinion about the creation of pseudosinuses in aortic root reconstruction or in conduits used for root replacement?
->
-> **AC:** Leonardo da Vinci showed that the sinuses of Valsalva play a major role in the closure of the aortic leaflets and the organization of flow during both systole and diastole. It is therefore appropriate to create sinuses in aortic root reconstruction or valve conduits.
+**FF:** Several studies have reported different ratios between annular and sino-tubular junction circumferences. Could you comment on that?
+**AC:** Several authors, including Tirone David and Raymond Cartier, have shown that this ratio varies according to age. In young people, the annular circumference is about 10% larger than the sino-tubular circumference, and the ratio is less than 1. In the elderly, the sino-tubular junction tends to dilate and its circumference becomes equal to or larger than the annular circumference, with the ratio approximating or exceeding 1.
 
-#### Systolic Translation of the Aortic Annulus
-> **DA:** What is the significance of the downward displacement of the aortic annulus during systole?
->
-> **AC:** The downward displacement of the aortic annulus during systole most probably results from the isovolumetric contraction of the ventricle in early systole. It initiates the opening of the aortic valve.
+</div></details>
+
+<details class="med-details"><summary>
+
+### Functional Impact of Sinotubular Dilatation (DA & AC)</summary><div class="details-content">
+
+**DA:** What is the functional relationship between the sino-tubular junction and the crown of the commissures?
+**AC:** The tips of the commissures are attached to the sino-tubular junction. In supravalvular stenosis, the sino-tubular junction is hypertrophied, making it difficult to expose the commissures and the coronary ostia without creating regurgitation. By contrast, a dilatation of the sino-tubular junction displaces the commissures outward, causing type IIIb valve dysfunction with aortic regurgitation.
+
+</div></details>
+
+<details class="med-details"><summary>
+
+### Structural Nature of the Lunulae (DA & AC)</summary><div class="details-content">
+
+**DA:** Are lunulae distinct structures or simply a designation of the coaptation zones?
+**AC:** They are distinct structures with a crescent shape extending from the commissures to the nodulus of Arantius. The extreme thinness of the lunulae facilitates leaflet closure and compensates for the small surface of coaptation. The leaflet tissue is sometimes perforated near the commissures.
+
+</div></details>
+
+<details class="med-details"><summary>
+
+### Significance of Commissural Fenestrations (FF & AC)</summary><div class="details-content">
+
+**FF:** Do these fenestrations cause any valve dysfunction?
+**AC:** They usually do not leak because they are opposed by the adjacent leaflet or positioned above the line of coaptation.
+
+</div></details>
+
+<details class="med-details"><summary>
+
+### Biomechanical Role of Subcommissural Triangles (FF & AC)</summary><div class="details-content">
+
+**FF:** What is the role of the subcommissural triangles?
+**AC:** The subcommissural triangular structures provide optimal elasticity to the aortic annulus. As such, they play a significant role in absorbing the stress and organizing the flow pattern through the outflow tract and the aortic valve.
+
+</div></details>
+
+<details class="med-details"><summary>
+
+### Rationale for Creating Pseudosinuses (FF & AC)</summary><div class="details-content">
+
+**FF:** What is your opinion about the creation of pseudosinuses in aortic root reconstruction or in conduits used for root replacement?
+**AC:** Leonardo da Vinci showed that the sinuses of Valsalva play a major role in the closure of the aortic leaflets and the organization of flow during both systole and diastole. It is therefore appropriate to create sinuses in aortic root reconstruction or valve conduits.
+
+</div></details>
+
+<details class="med-details"><summary>
+
+### Systolic Translation of the Aortic Annulus (DA & AC)</summary><div class="details-content">
+
+**DA:** What is the significance of the downward displacement of the aortic annulus during systole?
+**AC:** The downward displacement of the aortic annulus during systole most probably results from the isovolumetric contraction of the ventricle in early systole. It initiates the opening of the aortic valve.
+
+</div></details>
 
 </div></details>

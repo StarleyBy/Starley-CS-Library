@@ -1487,8 +1487,11 @@ function _populateChapterPicker() {
         const currentEdition = params.get('edition') || 'original';
         allChapters.forEach(ch => {
             const chId = ch.file.replace('.md', ''), isActive = (chId === _currentChapterId), hasSubs = ch.subchapters && ch.subchapters.length > 0;
+            const isChildActive = hasSubs && ch.subchapters.some(sub => sub.file.replace('.md', '') === _currentChapterId);
+            const isSectionActive = isActive || isChildActive;
             const btn = document.createElement('button');
-            btn.className = 'chapter-picker-item' + (isActive && !hasSubs ? ' active' : '') + (hasSubs ? ' has-subchapters' : '');
+            btn.className = 'chapter-picker-item' + (isActive && !hasSubs ? ' active' : '') + (hasSubs ? ' has-subchapters' : '') + (isChildActive ? ' expanded' : '');
+            btn.dataset.chapterId = chId;
             const displayTitle = (currentEdition === 'russian' && ch.russian) ? ch.russian : ch.title;
             btn.innerHTML = displayTitle;
             btn.addEventListener('click', (e) => {
@@ -1498,10 +1501,16 @@ function _populateChapterPicker() {
             });
             list.appendChild(btn);
             if (hasSubs) {
-                const subDiv = document.createElement('div'); subDiv.className = 'subchapter-picker'; subDiv.style.display = isActive ? 'block' : 'none';
+                const subDiv = document.createElement('div');
+                subDiv.className = 'subchapter-picker';
+                subDiv.dataset.parentId = chId;
+                subDiv.style.display = isSectionActive ? 'block' : 'none';
                 ch.subchapters.forEach(sub => {
                     const subId = sub.file.replace('.md', ''), isSubActive = (subId === _currentChapterId);
-                    const subBtn = document.createElement('button'); subBtn.className = 'chapter-picker-item subchapter' + (isSubActive ? ' active' : '');
+                    const subBtn = document.createElement('button');
+                    subBtn.className = 'chapter-picker-item subchapter' + (isSubActive ? ' active' : '');
+                    subBtn.dataset.chapterId = subId;
+                    subBtn.dataset.parentId = chId;
                     const displaySubTitle = (currentEdition === 'russian' && sub.russian) ? sub.russian : sub.title;
                     subBtn.innerHTML = '↳ ' + displaySubTitle;
                     subBtn.addEventListener('click', (e) => { e.stopPropagation(); _closeMenu(); if (typeof updateUrl === 'function') updateUrl(bookPath, subId, params.get('edition')||'original'); });

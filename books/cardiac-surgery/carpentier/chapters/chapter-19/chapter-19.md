@@ -1,4 +1,4 @@
-# 19. Reconstructive Techniques
+# Chapter 19. Reconstructive Techniques
 
 <details class="med-details"><summary>
 
@@ -278,81 +278,141 @@ The superiority of remodeling annuloplasty and valve reconstructive procedures h
 
 <details class="med-details"><summary>
 
-## DISCUSSION</summary><div class="details-content">
+## CLINICAL DISCUSSION</summary><div class="details-content">
 
-#### Advantages of Right Circular Atriotomy
-> **DA:** What are the potential advantages of a circular atriotomy compared to the conventional atriotomy parallel to the atrioventricular groove?
->
-> **AC:** The circular atriotomy’s low incision aims at preserving the atrial conduction tissue with the goal of minimizing the risk of supraventricular arrhythmia. It also provides optimal exposure because of more direct access to the tricuspid valve. In addition, the upper curvature of the atriotomy is ideal for holding a self-retaining retractor blade.
+<details class="med-details"><summary>
 
-#### Evolution of Tricuspid Sizing Techniques
-> **FF:** In the past, you have recommended measurement of the surface area of the anterior leaflet of the tricuspid valve for ring selection. More recently, however, you have recommended measuring parts of the surface area of both the anterior and posterior leaflets. Can you comment on this?
->
-> **AC:** The measurement of the entire surface area of the anterior leaflet requires its complete unfurling, which is difficult because of the dual attachment of this leaflet to the anterior and conal papillary muscles. I found that exerting traction on the head of the anterior papillary muscle and measuring the surface area of the exposed leaflet tissue, which corresponds to a large portion of the anterior leaflet and a small portion of the posterior leaflet, provides an equivalent measurement with a much easier technique.
+### Advantages of Right Circular Atriotomy (DA & AC)</summary><div class="details-content">
 
-#### Critique of Palliative Suture Annuloplasties
-> **FF:** Are there any circumstances in which you recommend the use of a palliative technique such as de Vega repair?
->
-> **AC:** The de Vega annuloplasty is a narrowing, not a remodeling, annuloplasty, which explains why it led to suboptimal long-term results. Considering the unpredictability of the progression of annular dilatation, I usually recommend the use of a prosthetic ring. In children, I perform a commissuroplasty at the anteroposterior and posteroseptal commissures to avoid a ring.
+**DA:** What are the potential advantages of a circular atriotomy compared to the conventional atriotomy parallel to the atrioventricular groove?
+**AC:** The circular atriotomy’s low incision aims at preserving the atrial conduction tissue with the goal of minimizing the risk of supraventricular arrhythmia. It also provides optimal exposure because of more direct access to the tricuspid valve. In addition, the upper curvature of the atriotomy is ideal for holding a self-retaining retractor blade.
 
-#### Rationale for Ring Downsizing
-> **DA:** Do you ever downsize the ring?
->
-> **AC:** The fundamental principle of remodeling annuloplasty is remodeling, not narrowing, the annulus according to the surface area of the leaflet tissue. The one exception is type IIIb tricuspid regurgitation, in which some degree of downsizing (one or two ring sizes, depending upon the degree of ventricular dilatation) is necessary to compensate leaflet tethering.
+</div></details>
 
-#### Indications for Surgical Correction
-> **DA:** You recommend a very liberal approach for the correction of moderate functional tricuspid regurgitation. Are there any clinical or intraoperative scenarios where you do not correct a tricuspid regurgitation?
->
-> **AC:** My answer may be surprising because I recommend that any documented tricuspid regurgitation should be corrected whatever the degree of regurgitation, including mild regurgitation in patients with pulmonary hypertension, right ventricular dysfunction, or right atrial dilatation.
+<details class="med-details"><summary>
 
-#### Rationale for Three-Dimensional Flexible Rings
-> **FF:** You recommend a 3D ring for the tricuspid valve to match the shape of the tricuspid annulus. What is the rationale behind this recommendation?
->
-> **AC:** The tricuspid annulus is a fragile structure, particularly at the attachment of the septal leaflet. In addition, it is subject to complex deformations during the cardiac cycle. An ideal ring structure should be flexible enough to follow the morphological changes rather than imposing a predetermined shape to the annulus.
+### Evolution of Tricuspid Sizing Techniques (FF & AC)</summary><div class="details-content">
 
-#### Valvular Tissue vs Orifice Area Concept
-> **DA:** How do you define the relationship between the amount of valvular tissue and the orifice area?
->
-> **AC:** By measuring the surface area of valvular tissue using sizers, you determine the theoretical size of the annulus, just like measuring the surface area of a door gives you the size of the frame supporting the door. This theoretical size is the size of the ring to be selected. An orifice that can hold a sizer that is two sizes larger should be repaired.
+**FF:** In the past, you have recommended measurement of the surface area of the anterior leaflet of the tricuspid valve for ring selection. More recently, however, you have recommended measuring parts of the surface area of both the anterior and posterior leaflets. Can you comment on this?
+**AC:** The measurement of the entire surface area of the anterior leaflet requires its complete unfurling, which is difficult because of the dual attachment of this leaflet to the anterior and conal papillary muscles. I found that exerting traction on the head of the anterior papillary muscle and measuring the surface area of the exposed leaflet tissue, which corresponds to a large portion of the anterior leaflet and a small portion of the posterior leaflet, provides an equivalent measurement with a much easier technique.
 
-#### Dreyfus Criterion and Annular Prophylaxis
-> **FF:** Do you believe mild tricuspid annular dilatation without regurgitation is a sufficient criterion to perform an annuloplasty on patients undergoing mitral valve surgery?
->
-> **AC:** We all have seen patients who developed late tricuspid regurgitation despite a successful mitral valve reconstruction and the absence of tricuspid regurgitation at the time of mitral valve surgery. To address this dilemma, Dreyfus has suggested that significant annular dilatation of the tricuspid valve without regurgitation should benefit from a remodeling annuloplasty. I fully adhere to this concept, which implies systematic measurement of the tricuspid orifice and available leaflet tissue in mitral valve surgery.
+</div></details>
 
-#### Bicuspidization Technique of Kay
-> **DA:** Do you ever use the bicuspidization technique described by Dr. Kay?
->
-> **AC:** The bicuspidization of the tricuspid valve is a palliative technique that plicates the posterior segment of the annulus and the corresponding posterior leaflet. This leaflet is therefore excluded from valve function. The plicated leaflet tissue becomes fibrotic and may become calcified in the long term. I no longer use this now outdated technique.
+<details class="med-details"><summary>
 
-#### Choice of Prosthesis in Re-Replacement
-> **FF:** Does the presence of a mechanical valve on the left side impact your choice of prosthesis when the tricuspid valve needs to be replaced?
->
-> **AC:** The technique of leaflet extension with glutaraldehyde-treated autologous pericardium usually avoids the need for tricuspid valve replacement.
+### Critique of Palliative Suture Annuloplasties (FF & AC)</summary><div class="details-content">
 
-#### Valve Choice in Extensive Endocarditis
-> **FF:** Yes, but if you are forced to replace the valve because of extensive endocarditis, for example, what would you do?
->
-> **AC:** I would implant a bioprosthesis because of the high risk of thrombus formation with a mechanical valve in the tricuspid position. This is a personal preference.
+**FF:** Are there any circumstances in which you recommend the use of a palliative technique such as de Vega repair?
+**AC:** The de Vega annuloplasty is a narrowing, not a remodeling, annuloplasty, which explains why it led to suboptimal long-term results. Considering the unpredictability of the progression of annular dilatation, I usually recommend the use of a prosthetic ring. In children, I perform a commissuroplasty at the anteroposterior and posteroseptal commissures to avoid a ring.
 
-#### Management of Atrioventricular Conduction Block
-> **DA:** Following a tricuspid annuloplasty, does the onset of a third-degree atrioventricular block require any particular response?
->
-> **AC:** Most of the AV blocks following a tricuspid annuloplasty are multifactorial, related to cardioplegia, topical cooling, and/or tissue distension by retractors. Most of them resolve within a week. Therefore they do not require a second look provided that the surgeon is confident that the suture placement respected the area of the bundle of His.
+</div></details>
 
-#### Asymptomatic Severe Tricuspid Regurgitation
-> **DA:** Is there a role for surgery in patients with isolated asymptomatic severe tricuspid regurgitation?
->
-> **AC:** There are circumstances where a tricuspid regurgitation occurs as an isolated valve disease, such as bacterial endocarditis, trauma, chronic pulmonary hypertension, right ventricular infarction, and pacemaker implantation. Although in these circumstances the tricuspid valve regurgitation may be tolerated for a long period, surgery is indicated as soon as increasing volume or dimension of right cardiac chambers occurs. Clinical signs of right-sided heart failure significantly increase the risk of operative mortality.
+<details class="med-details"><summary>
 
-#### Residual Mild Regurgitation Post-Annuloplasty
-> **DA:** Following tricuspid annuloplasty, some patients present with residual mild regurgitation. What is the explanation?
->
-> **AC:** The most common cause of this condition is transient right ventricular dilatation and dysfunction, which usually resolves or remains stable. Whenever the regurgitation is permanent, a potential explanation is a type IIIb regurgitation that has not been corrected by adequate downsizing.
+### Rationale for Ring Downsizing (DA & AC)</summary><div class="details-content">
 
-#### Prophylactic Annuloplasty in Heart Transplantation
-> **FF:** What is your opinion about systematic tricuspid annuloplasty at the time of cardiac transplantation?
->
-> **AC:** A randomized study has shown that systematic annuloplasty was associated with preserved tricuspid valve function in patients with cardiac transplantation. The absence of postoperative tricuspid regurgitation facilitates the medical management of this high-risk group of patients. This is particularly important if the recipient has increased pulmonary artery pressure.
+**DA:** Do you ever downsize the ring?
+**AC:** The fundamental principle of remodeling annuloplasty is remodeling, not narrowing, the annulus according to the surface area of the leaflet tissue. The one exception is type IIIb tricuspid regurgitation, in which some degree of downsizing (one or two ring sizes, depending upon the degree of ventricular dilatation) is necessary to compensate leaflet tethering.
+
+</div></details>
+
+<details class="med-details"><summary>
+
+### Indications for Surgical Correction (DA & AC)</summary><div class="details-content">
+
+**DA:** You recommend a very liberal approach for the correction of moderate functional tricuspid regurgitation. Are there any clinical or intraoperative scenarios where you do not correct a tricuspid regurgitation?
+**AC:** My answer may be surprising because I recommend that any documented tricuspid regurgitation should be corrected whatever the degree of regurgitation, including mild regurgitation in patients with pulmonary hypertension, right ventricular dysfunction, or right atrial dilatation.
+
+</div></details>
+
+<details class="med-details"><summary>
+
+### Rationale for Three-Dimensional Flexible Rings (FF & AC)</summary><div class="details-content">
+
+**FF:** You recommend a 3D ring for the tricuspid valve to match the shape of the tricuspid annulus. What is the rationale behind this recommendation?
+**AC:** The tricuspid annulus is a fragile structure, particularly at the attachment of the septal leaflet. In addition, it is subject to complex deformations during the cardiac cycle. An ideal ring structure should be flexible enough to follow the morphological changes rather than imposing a predetermined shape to the annulus.
+
+</div></details>
+
+<details class="med-details"><summary>
+
+### Valvular Tissue vs Orifice Area Concept (DA & AC)</summary><div class="details-content">
+
+**DA:** How do you define the relationship between the amount of valvular tissue and the orifice area?
+**AC:** By measuring the surface area of valvular tissue using sizers, you determine the theoretical size of the annulus, just like measuring the surface area of a door gives you the size of the frame supporting the door. This theoretical size is the size of the ring to be selected. An orifice that can hold a sizer that is two sizes larger should be repaired.
+
+</div></details>
+
+<details class="med-details"><summary>
+
+### Dreyfus Criterion and Annular Prophylaxis (FF & AC)</summary><div class="details-content">
+
+**FF:** Do you believe mild tricuspid annular dilatation without regurgitation is a sufficient criterion to perform an annuloplasty on patients undergoing mitral valve surgery?
+**AC:** We all have seen patients who developed late tricuspid regurgitation despite a successful mitral valve reconstruction and the absence of tricuspid regurgitation at the time of mitral valve surgery. To address this dilemma, Dreyfus has suggested that significant annular dilatation of the tricuspid valve without regurgitation should benefit from a remodeling annuloplasty. I fully adhere to this concept, which implies systematic measurement of the tricuspid orifice and available leaflet tissue in mitral valve surgery.
+
+</div></details>
+
+<details class="med-details"><summary>
+
+### Bicuspidization Technique of Kay (DA & AC)</summary><div class="details-content">
+
+**DA:** Do you ever use the bicuspidization technique described by Dr. Kay?
+**AC:** The bicuspidization of the tricuspid valve is a palliative technique that plicates the posterior segment of the annulus and the corresponding posterior leaflet. This leaflet is therefore excluded from valve function. The plicated leaflet tissue becomes fibrotic and may become calcified in the long term. I no longer use this now outdated technique.
+
+</div></details>
+
+<details class="med-details"><summary>
+
+### Choice of Prosthesis in Re-Replacement (FF & AC)</summary><div class="details-content">
+
+**FF:** Does the presence of a mechanical valve on the left side impact your choice of prosthesis when the tricuspid valve needs to be replaced?
+**AC:** The technique of leaflet extension with glutaraldehyde-treated autologous pericardium usually avoids the need for tricuspid valve replacement.
+
+</div></details>
+
+<details class="med-details"><summary>
+
+### Valve Choice in Extensive Endocarditis (FF & AC)</summary><div class="details-content">
+
+**FF:** Yes, but if you are forced to replace the valve because of extensive endocarditis, for example, what would you do?
+**AC:** I would implant a bioprosthesis because of the high risk of thrombus formation with a mechanical valve in the tricuspid position. This is a personal preference.
+
+</div></details>
+
+<details class="med-details"><summary>
+
+### Management of Atrioventricular Conduction Block (DA & AC)</summary><div class="details-content">
+
+**DA:** Following a tricuspid annuloplasty, does the onset of a third-degree atrioventricular block require any particular response?
+**AC:** Most of the AV blocks following a tricuspid annuloplasty are multifactorial, related to cardioplegia, topical cooling, and/or tissue distension by retractors. Most of them resolve within a week. Therefore they do not require a second look provided that the surgeon is confident that the suture placement respected the area of the bundle of His.
+
+</div></details>
+
+<details class="med-details"><summary>
+
+### Asymptomatic Severe Tricuspid Regurgitation (DA & AC)</summary><div class="details-content">
+
+**DA:** Is there a role for surgery in patients with isolated asymptomatic severe tricuspid regurgitation?
+**AC:** There are circumstances where a tricuspid regurgitation occurs as an isolated valve disease, such as bacterial endocarditis, trauma, chronic pulmonary hypertension, right ventricular infarction, and pacemaker implantation. Although in these circumstances the tricuspid valve regurgitation may be tolerated for a long period, surgery is indicated as soon as increasing volume or dimension of right cardiac chambers occurs. Clinical signs of right-sided heart failure significantly increase the risk of operative mortality.
+
+</div></details>
+
+<details class="med-details"><summary>
+
+### Residual Mild Regurgitation Post-Annuloplasty (DA & AC)</summary><div class="details-content">
+
+**DA:** Following tricuspid annuloplasty, some patients present with residual mild regurgitation. What is the explanation?
+**AC:** The most common cause of this condition is transient right ventricular dilatation and dysfunction, which usually resolves or remains stable. Whenever the regurgitation is permanent, a potential explanation is a type IIIb regurgitation that has not been corrected by adequate downsizing.
+
+</div></details>
+
+<details class="med-details"><summary>
+
+### Prophylactic Annuloplasty in Heart Transplantation (FF & AC)</summary><div class="details-content">
+
+**FF:** What is your opinion about systematic tricuspid annuloplasty at the time of cardiac transplantation?
+**AC:** A randomized study has shown that systematic annuloplasty was associated with preserved tricuspid valve function in patients with cardiac transplantation. The absence of postoperative tricuspid regurgitation facilitates the medical management of this high-risk group of patients. This is particularly important if the recipient has increased pulmonary artery pressure.
+
+</div></details>
 
 </div></details>

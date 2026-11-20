@@ -1,4 +1,4 @@
-# 15. Techniques in Systolic Anterior Leaflet Motion (SAM)
+# Chapter 15. Techniques in Systolic Anterior Leaflet Motion (SAM)
 
 <details class="med-details"><summary>
 
@@ -49,7 +49,7 @@ This geometric disproportion between the amount of functional valvular tissue an
 
 <span id="fig-15-01"></span>![](_page_157_Figure_15-1.jpeg)
 
-**FIGURE 15-1** Pathophysiology of Systolic Anterior Motion (SAM): excess leaflet height and an anteriorly displaced coaptation line projecting the anterior leaflet into the left ventricular outflow tract during systole, producing subaortic obstruction and secondary regurgitation.
+**FIGURE 15-1**
 
 #### Anatomical Risk Stratification
 
@@ -61,7 +61,7 @@ Recognition of these risk factors during preoperative valve analysis allows the 
 
 <span id="fig-15-02"></span>![](_page_158_Figure_15-2.jpeg)
 
-**FIGURE 15-2** Anatomical risk factors for SAM: excess leaflet tissue (a) and an undersized annuloplasty ring (b) as primary prerequisites; combined with secondary anatomical triggers including narrow aorto-mitral angle, hyperkinetic small left ventricle, and septal bulging.
+**FIGURE 15-2**
 
 <details class="med-details"><summary>
 
@@ -92,7 +92,7 @@ This high-velocity flow creates a low-pressure zone that sucks the free edge of 
 
 <span id="fig-15-03"></span>![](_page_159_Figure_15-3.jpeg)
 
-**FIGURE 15-3** Hemodynamic mechanism of SAM: anterior displacement of the coaptation point positioning the slack distal portion of the anterior leaflet into the high-velocity subaortic flow stream, triggering Venturi suction and drag forces.
+**FIGURE 15-3**
 
 #### Intraoperative Transesophageal Echocardiography
 
@@ -104,7 +104,7 @@ Because the anterior leaflet cannot coapt fully with the posterior leaflet, inco
 
 <span id="fig-15-04"></span>![](_page_159_Figure_15-4.jpeg)
 
-**FIGURE 15-4** Intraoperative transesophageal echocardiography of postrepair SAM: midesophageal long-axis view demonstrating systolic obstruction of the left ventricular outflow tract by the anterior mitral leaflet with severe turbulence.
+**FIGURE 15-4**
 
 #### Dynamic Nature and Medical Optimization
 
@@ -116,7 +116,7 @@ Medical therapy consisting of volume administration, beta-blockade, and avoidanc
 
 <span id="fig-15-05"></span>![](_page_160_Figure_15-5.jpeg)
 
-**FIGURE 15-5** Echocardiographic presentation and dynamic medical management of SAM: peak systolic gradient across the left ventricular outflow tract (a) with posteriorly directed eccentric regurgitant jet (b); complete hemodynamic resolution following cessation of inotropes and aggressive volume loading (c–f).
+**FIGURE 15-5**
 
 </div></details>
 
@@ -150,7 +150,7 @@ The posterior incision of the leaflet tissue should leave a leaflet remnant heig
 
 <span id="fig-15-06"></span>![](_page_161_Figure_15-6.jpeg)
 
-**FIGURE 15-6** Surgical rescue techniques for postrepair SAM with ring in situ: basal ovoid resection of excess posterior leaflet tissue leaving 3 to 4 mm rim for closure (a, b, c); ring exchange for a larger size in severe undersizing (d); targeted anterior leaflet height reduction or adaptation for anterior leaflet redundancy (e, f).
+**FIGURE 15-6**
 
 #### Ring Upsizing and Anterior Leaflet Management
 
@@ -170,7 +170,7 @@ Continuous 5-0 monofilament suture restores leaflet integrity without distorting
 
 <span id="fig-15-08"></span>![](_page_163_Figure_15-8.jpeg)
 
-**FIGURE 15-8** Surgical technique of posterior leaflet height reduction: transverse basal ovoid excision of redundant intermediate tissue with maintenance of annular ring fixation and reconstruction by continuous suture, restoring posterior leaflet height to <= 20 mm.
+**FIGURE 15-8**
 
 #### Anterior Leaflet Height Reduction Technique
 
@@ -182,7 +182,7 @@ Reconstruction with fine monofilament sutures restores optimal leaflet tension w
 
 <span id="fig-15-09"></span>![](_page_163_Figure_15-9.jpeg)
 
-**FIGURE 15-9** Technique of anterior leaflet height reduction: selective transverse resection or tailored plication of the anterior leaflet body preserving marginal chordal attachments in rare cases of isolated anterior redundancy.
+**FIGURE 15-9**
 
 </div></details>
 
@@ -200,7 +200,7 @@ Most of these patients had Barlow's disease with extensive bileaflet prolapse an
 
 <span id="fig-15-07"></span>![](_page_162_Figure_15-7.jpeg)
 
-**FIGURE 15-7** Postoperative echocardiographic confirmation following SAM correction: widely patent left ventricular outflow tract without accelerated flow velocities and restored planar leaflet coaptation.
+**FIGURE 15-7**
 
 #### Echocardiographic Confirmation of Success
 
@@ -214,50 +214,62 @@ Long-term follow-up confirmed stable valve competence without late outflow tract
 
 <details class="med-details"><summary>
 
-## DISCUSSION</summary><div class="details-content">
+## CLINICAL DISCUSSION</summary><div class="details-content">
 
-#### Functional Classification and Nature of SAM
+<details class="med-details"><summary>
 
-> **FF:** Using the functional classification, what type of dysfunction is SAM?
->
-> **AC:** Excess posterior leaflet tissue in SAM limits the full deployment of the anterior leaflet, leaving the free edge below the plane of the orifice. The primary mechanism is therefore a type III dysfunction, in other words a restricted anterior leaflet motion. The systolic anterior motion of the distal part of the anterior leaflet is not a prolapse since its displacement is oriented toward the left outflow tract, not toward the mitral valve orifice. In addition, the free edge of this valve remains below the plane of the mitral valve annulus.
+### Functional Classification and Nature of SAM (FF & AC)</summary><div class="details-content">
 
-#### Management of Undersized Rings and Edge-to-Edge Repair
+**FF:** Using the functional classification, what type of dysfunction is SAM?
+**AC:** Excess posterior leaflet tissue in SAM limits the full deployment of the anterior leaflet, leaving the free edge below the plane of the orifice. The primary mechanism is therefore a type III dysfunction, in other words a restricted anterior leaflet motion. The systolic anterior motion of the distal part of the anterior leaflet is not a prolapse since its displacement is oriented toward the left outflow tract, not toward the mitral valve orifice. In addition, the free edge of this valve remains below the plane of the mitral valve annulus.
 
-> **FF:** In the presence of SAM caused by a ring that is too small, can the removal of the ring be a sufficient maneuver for the correction of this dysfunction?
->
-> **AC:** It does correct SAM but increases the risk of regurgitation because the diseased annulus is no longer remodeled and supported. It is therefore necessary to replace the ring with a properly sized ring and to verify that the height of the posterior leaflet is less than or equal to 20 mm. If both of these conditions are followed, SAM should be eliminated and the mitral valve regurgitation durably corrected.
+</div></details>
 
-> **FF:** Edge-to-edge repair has been used as a rescue procedure to correct SAM after valve repair. Can you comment on this?
->
-> **AC:** The results using this approach as a rescue procedure have been generally disappointing. Another alternative proposed by Vanermen is posterior leaflet displacement in the ventricle with a short artificial chordae. A more tested and reliable rescue procedure for SAM is a transverse ovoid resection of a segment of either the posterior or the anterior leaflet followed by restoration of leaflet continuity. This can be easily achieved with the prosthetic ring in place.
+<details class="med-details"><summary>
 
-#### Stepwise Algorithm for Postrepair SAM
+### Management of Undersized Rings and Edge-to-Edge Repair (FF & AC)</summary><div class="details-content">
 
-> **DA:** Can you describe an algorithm to address the problem of SAM after valve reconstruction?
->
-> **AC:** Four immediate actions should be undertaken:
-> 1. Stop inotropic medications.
-> 2. Fill the heart to achieve a maximum diastolic atrial pressure of 18 mm Hg whenever the preoperative left ventricular function is preserved, and up to 22 mm Hg if the patient presents with a significant preoperative left ventricular dysfunction.
-> 3. Ensure atrioventricular synchrony.
-> 4. Analyze by echocardiography the mechanism involved; assess the height of the posterior leaflet and the amount of tissue of the anterior leaflet and its relation to the size of the ring.
+**FF:** In the presence of SAM caused by a ring that is too small, can the removal of the ring be a sufficient maneuver for the correction of this dysfunction?
+**AC:** It does correct SAM but increases the risk of regurgitation because the diseased annulus is no longer remodeled and supported. It is therefore necessary to replace the ring with a properly sized ring and to verify that the height of the posterior leaflet is less than or equal to 20 mm. If both of these conditions are followed, SAM should be eliminated and the mitral valve regurgitation durably corrected.
 
-#### Three Post-Optimization Scenarios
+**FF:** Edge-to-edge repair has been used as a rescue procedure to correct SAM after valve repair. Can you comment on this?
+**AC:** The results using this approach as a rescue procedure have been generally disappointing. Another alternative proposed by Vanermen is posterior leaflet displacement in the ventricle with a short artificial chordae. A more tested and reliable rescue procedure for SAM is a transverse ovoid resection of a segment of either the posterior or the anterior leaflet followed by restoration of leaflet continuity. This can be easily achieved with the prosthetic ring in place.
 
-> **AC:** Following these steps, three scenarios are possible:
->
-> In the first scenario (disappearance of both SAM and mitral regurgitation and normalization of the ventriculo-aortic systolic gradient), no further surgical intervention is required and the patient may benefit from beta-blockers postoperatively.
->
-> In the second scenario (persistence of SAM with minimal residual mitral regurgitation and significant reduction of the ventriculo-aortic gradient), the same conservative attitude may be used on the basis that in most cases outflow tract remodeling takes place in the follow-up period, leading to a spontaneous resolution of SAM. Because of the unpredictability of this progression and our current understanding of the mechanisms involved, I prefer not to leave an imperfect result if the exact mechanism has been clearly identified, particularly excess height of the posterior leaflet or too small ring size. In these cases, as in the third scenario (persistence of SAM with residual regurgitation and increased gradients), a second corrective operation should be carried out, which is usually fast and simple since it consists of posterior leaflet or anterior leaflet height reduction by an ovoid resection, or more rarely replacement with a larger ring.
+</div></details>
 
-#### Operating Room Observation Time and Sliding Plasty Comparison
+<details class="med-details"><summary>
 
-> **DA:** How long should we wait in the operating room in the first or second scenario?
->
-> **AC:** Once the actions described in the previous answer have been undertaken, the resolution of SAM is generally rapid, in less than 30 minutes. If resolution occurs or remains partial after this period, in the absence of residual regurgitation and a gradient over 20 to 30 mm Hg, the patient can be transferred to the intensive care unit for continuous monitoring. A complete resolution of SAM is usually confirmed during short-term or longer follow-up.
+### Stepwise Algorithm for Postrepair SAM (DA & AC)</summary><div class="details-content">
 
-> **DA:** Describe the difference between posterior leaflet height reduction and sliding leaflet plasty.
->
-> **AC:** Both techniques aim at preventing systolic anterior leaflet motion by removing a certain amount of excess tissue at the base of the posterior leaflet. Posterior leaflet height reduction is achieved by removing an ovoid piece of excess leaflet tissue near the base of the posterior leaflet without leaflet detachment from the annulus. A sliding leaflet plasty, by definition, implies an advancement of residual leaflet segments along the annulus, often following triangular leaflet resection to reduce leaflet height.
+**DA:** Can you describe an algorithm to address the problem of SAM after valve reconstruction?
+**AC:** Four immediate actions should be undertaken:
+1. Stop inotropic medications.
+2. Fill the heart to achieve a maximum diastolic atrial pressure of 18 mm Hg whenever the preoperative left ventricular function is preserved, and up to 22 mm Hg if the patient presents with a significant preoperative left ventricular dysfunction.
+3. Ensure atrioventricular synchrony.
+4. Analyze by echocardiography the mechanism involved; assess the height of the posterior leaflet and the amount of tissue of the anterior leaflet and its relation to the size of the ring.
+
+</div></details>
+
+<details class="med-details"><summary>
+
+### Three Post-Optimization Scenarios (DA & AC)</summary><div class="details-content">
+
+**AC:** Following these steps, three scenarios are possible:
+In the first scenario (disappearance of both SAM and mitral regurgitation and normalization of the ventriculo-aortic systolic gradient), no further surgical intervention is required and the patient may benefit from beta-blockers postoperatively.
+In the second scenario (persistence of SAM with minimal residual mitral regurgitation and significant reduction of the ventriculo-aortic gradient), the same conservative attitude may be used on the basis that in most cases outflow tract remodeling takes place in the follow-up period, leading to a spontaneous resolution of SAM. Because of the unpredictability of this progression and our current understanding of the mechanisms involved, I prefer not to leave an imperfect result if the exact mechanism has been clearly identified, particularly excess height of the posterior leaflet or too small ring size. In these cases, as in the third scenario (persistence of SAM with residual regurgitation and increased gradients), a second corrective operation should be carried out, which is usually fast and simple since it consists of posterior leaflet or anterior leaflet height reduction by an ovoid resection, or more rarely replacement with a larger ring.
+
+</div></details>
+
+<details class="med-details"><summary>
+
+### Operating Room Observation Time and Sliding Plasty Comparison (DA & AC)</summary><div class="details-content">
+
+**DA:** How long should we wait in the operating room in the first or second scenario?
+**AC:** Once the actions described in the previous answer have been undertaken, the resolution of SAM is generally rapid, in less than 30 minutes. If resolution occurs or remains partial after this period, in the absence of residual regurgitation and a gradient over 20 to 30 mm Hg, the patient can be transferred to the intensive care unit for continuous monitoring. A complete resolution of SAM is usually confirmed during short-term or longer follow-up.
+
+**DA:** Describe the difference between posterior leaflet height reduction and sliding leaflet plasty.
+**AC:** Both techniques aim at preventing systolic anterior leaflet motion by removing a certain amount of excess tissue at the base of the posterior leaflet. Posterior leaflet height reduction is achieved by removing an ovoid piece of excess leaflet tissue near the base of the posterior leaflet without leaflet detachment from the annulus. A sliding leaflet plasty, by definition, implies an advancement of residual leaflet segments along the annulus, often following triangular leaflet resection to reduce leaflet height.
+
+</div></details>
 
 </div></details>

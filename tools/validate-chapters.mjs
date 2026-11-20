@@ -280,7 +280,7 @@ function checkFile(file) {
     if (RE_DOLLAR_MONEY.test(bare)) add('warning', 'W032', L.n, 'Знак $ у числа вне формулы: заменить на USD');
 
     // подряд идущие обычные абзацы
-    const isStructural = t === '' || /^(#{1,6}\s|[-*+]\s|\d+[.)]\s|\||>|<details|<\/div>|<span|!\[|<div|<\/details>|<figure|<\/figure>|<figcaption|<img|\*\*(FIGURE|TABLE|РИСУНОК|ТАБЛИЦА)\b)/i.test(t)
+    const isStructural = t === '' || /^(#{1,6}\s|[-*+]\s|\d+[.)]\s|\||>|<details|<\/div>|<span|!\[|<div|<\/details>|<figure|<\/figure>|<figcaption|<img|\*\*(FIGURE|TABLE|РИСУНОК|ТАБЛИЦА)(?:\b|\s|\*))/iu.test(t)
       || /^<?\/?(details|summary|div)/i.test(t);
     if (t === '') continue;
     if (isStructural) { consecutiveParas = 0; paraReported = false; continue; }

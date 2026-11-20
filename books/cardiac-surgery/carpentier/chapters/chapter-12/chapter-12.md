@@ -1,4 +1,4 @@
-# 12. Techniques in Type II Commissural and Bileaflet Prolapse
+# Chapter 12. Techniques in Type II Commissural and Bileaflet Prolapse
 
 <details class="med-details"><summary>
 
@@ -57,7 +57,7 @@ The commissure is an important component of the mitral valve, the reconstruction
 
 <span id="fig-12-01"></span>![](_page_135_Figure_12-1.jpeg)
 
-**FIGURE 12-1** Anatomical classification of commissural prolapse: limited commissural prolapse measuring $\le 5$ mm of leaflet margin (a); extensive commissural prolapse involving the commissural scallop and adjacent paracommissural segments (b).
+**FIGURE 12-1**
 
 #### Reconstructive Decision Matrix
 
@@ -99,7 +99,7 @@ In patients with a billowing commissure and prolapse caused by chordae elongatio
 
 <span id="fig-12-02"></span>![](_page_136_Figure_12-2.jpeg)
 
-**FIGURE 12-2** Limited commissural prolapse reconstruction: traction on stay sutures defining the resection triangle with height exceeding base (a); approximation of edges with interrupted 5-0 monofilament sutures with ventricular knots (b); alternative triangular leaflet resection removing pathological tissue (inset).
+**FIGURE 12-2**
 
 </div></details>
 
@@ -127,7 +127,7 @@ The goal of the "magic stitch" is to restore a normal 5-mm bridge of commissural
 
 <span id="fig-12-03"></span>![](_page_137_Figure_12-3.jpeg)
 
-**FIGURE 12-3** Extensive prolapse at the posterior commissure (gap 5 to 10 mm): quadrangular resection of ruptured area with 2-mm clear margins (a); annular plication with 2-0 mattress suture (b); approximation of leaflet remnants (c); placement of the magic stitch to create a functional coaptation surface (d); reinforcement with adjacent secondary chordae (e); completion with remodeling annuloplasty ring (f).
+**FIGURE 12-3**
 
 #### Posterior Commissure Reconstruction (Gap >10 mm)
 
@@ -147,7 +147,7 @@ A remodeling ring annuloplasty is used in all cases to reinforce the commissural
 
 <span id="fig-12-04"></span>![](_page_138_Figure_12-4.jpeg)
 
-**FIGURE 12-4** Sliding leaflet technique for extensive commissural prolapse (gap >10 mm): detachment of P3 and adjacent A3 from annulus (a, b); selective triangular resection of distended anterior leaflet edge and placement of annular compression sutures (b, c); advancement and fixation of remnants to annulus under sliding traction (d, e, f); placement of magic stitches restoring coaptation while preserving an open commissure (g, h); implantation of remodeling annuloplasty ring (i).
+**FIGURE 12-4**
 
 #### Technical Considerations at the Anterior Commissure
 
@@ -171,7 +171,7 @@ The choice between these two techniques depends upon the anatomy of the papillar
 
 <span id="fig-12-05"></span>![](_page_139_Figure_12-5.jpeg)
 
-**FIGURE 12-5** Extensive commissural prolapse resulting from chordae elongation in Barlow's disease: commissural prolapse with elongated chordae (a); correction by papillary muscle sliding plasty (b); alternative correction by papillary muscle shortening within a myocardial trench (c).
+**FIGURE 12-5**
 
 </div></details>
 
@@ -214,60 +214,84 @@ Bileaflet prolapse is almost always amenable to valve reconstruction provided th
 
 <span id="fig-12-06"></span>![](_page_140_Figure_12-6.jpeg)
 
-**FIGURE 12-6** Bileaflet prolapse reconstruction: severe bileaflet prolapse in Barlow's disease (a); coordinated subvalvular papillary muscle shortening correcting anterior, posterior, and commissural components simultaneously (b); restoration of posterior leaflet continuity and remodeling ring annuloplasty (c).
+**FIGURE 12-6**
 
 </div></details>
 
 <details class="med-details"><summary>
 
-## DISCUSSION</summary><div class="details-content">
+## CLINICAL DISCUSSION</summary><div class="details-content">
 
-#### Diagnostic Precision and Imaging Modalities
+<details class="med-details"><summary>
+
+### Diagnostic Precision and Imaging Modalities (FF & AC)</summary><div class="details-content">
 
 **FF: How precise is echocardiographic assessment of commissural regurgitation?**
-> **AC:** Commissural regurgitation is difficult to recognize by transthoracic echocardiography. Transesophageal echocardiography, particularly the transgastric view, provides more accurate information relating to the commissural areas. Nonetheless, it may be difficult to distinguish between commissural leaflet prolapse and leaflet perforation. This may be a dysfunction where three-dimensional echo could play a significant role in the diagnosis.
+**AC:** Commissural regurgitation is difficult to recognize by transthoracic echocardiography. Transesophageal echocardiography, particularly the transgastric view, provides more accurate information relating to the commissural areas. Nonetheless, it may be difficult to distinguish between commissural leaflet prolapse and leaflet perforation. This may be a dysfunction where three-dimensional echo could play a significant role in the diagnosis.
 
-#### Selection Criteria: Annular Plication vs. Sliding Plasty
+</div></details>
+
+<details class="med-details"><summary>
+
+### Selection Criteria: Annular Plication vs. Sliding Plasty (FF & AC)</summary><div class="details-content">
 
 **FF: Can you summarize the main indications for annular plication or leaflet sliding plasty following commissural leaflet resection?**
-> **AC:** Following the resection, if the gap measures 10 mm or less, an annular plication is preferred because of its simplicity and efficacy. If the gap measures more than 10 mm, particularly at the anterior commissure, a sliding plasty is preferred to avoid a large plication and possible injury to the circumflex artery.
+**AC:** Following the resection, if the gap measures 10 mm or less, an annular plication is preferred because of its simplicity and efficacy. If the gap measures more than 10 mm, particularly at the anterior commissure, a sliding plasty is preferred to avoid a large plication and possible injury to the circumflex artery.
 
 **DA: A Barlow's valve has a large orifice area. Do you agree that a limited commissural prolapse can be treated by two or three sutures advancing the commissure medially without compromising valve function?**
-> **AC:** Although it is not an optimal solution because it compromises normal commissural function, it may be a valuable adjunct, particularly in a complex Barlow's valve with secondary lesions.
+**AC:** Although it is not an optimal solution because it compromises normal commissural function, it may be a valuable adjunct, particularly in a complex Barlow's valve with secondary lesions.
 
-#### Annuloplasty Indications in Commissural Prolapse
+</div></details>
+
+<details class="med-details"><summary>
+
+### Annuloplasty Indications in Commissural Prolapse (FF & AC)</summary><div class="details-content">
 
 **FF: Is a prosthetic ring mandatory whenever you have carried out a limited commissural leaflet resection with annular plication?**
-> **AC:** A ring is theoretically not necessary because this technique effectively corrects the regurgitation, but the etiology should be considered. In acute bacterial endocarditis, it is usually not necessary to use a ring because the annulus is not dilated. By contrast, in chronic endocarditis or degenerative valvular disease, the disease process involves not only the commissural segment but also the entire annulus with a potential for secondary dilatation. In this case, it is preferable to ensure the long-term stability of the annulus with a remodeling annuloplasty ring.
+**AC:** A ring is theoretically not necessary because this technique effectively corrects the regurgitation, but the etiology should be considered. In acute bacterial endocarditis, it is usually not necessary to use a ring because the annulus is not dilated. By contrast, in chronic endocarditis or degenerative valvular disease, the disease process involves not only the commissural segment but also the entire annulus with a potential for secondary dilatation. In this case, it is preferable to ensure the long-term stability of the annulus with a remodeling annuloplasty ring.
 
 **DA: Does your operative strategy differ for commissural prolapse caused by Barlow's disease as opposed to that caused by fibroelastic deficiency?**
-> **AC:** In fibroelastic deficiency, the usual lesion causing a commissural prolapse is the rupture of one or two chordae. The techniques used are either a limited leaflet resection with restoration of the commissure or a simple chordae transfer or replacement. In Barlow's syndrome, the commissural prolapse is generally due to chordae elongation and is associated with a commissural tissue billowing. The technique of choice is preferably a papillary muscle sliding plasty or a papillary muscle shortening plasty. Both techniques have the advantage of correcting not only the prolapse but also the billowing while preserving the commissural function.
+**AC:** In fibroelastic deficiency, the usual lesion causing a commissural prolapse is the rupture of one or two chordae. The techniques used are either a limited leaflet resection with restoration of the commissure or a simple chordae transfer or replacement. In Barlow's syndrome, the commissural prolapse is generally due to chordae elongation and is associated with a commissural tissue billowing. The technique of choice is preferably a papillary muscle sliding plasty or a papillary muscle shortening plasty. Both techniques have the advantage of correcting not only the prolapse but also the billowing while preserving the commissural function.
 
-#### Functional Principles of Commissural Reconstruction
+</div></details>
+
+<details class="med-details"><summary>
+
+### Functional Principles of Commissural Reconstruction (FF & AC)</summary><div class="details-content">
 
 **FF: Clarify the advantage of the magic suture technique over commissural closure in commissural prolapse.**
-> **AC:** The magic stitch reconstructs the actual commissure by restoring a deeper surface of coaptation and therefore a functional structure. By contrast, closing the commissure excludes a part of the valve from normal function. Restoring the function of the commissure rather than closing it is important to preserve full leaflet motion, which in turn prevents turbulence, fibrous retraction, and occasional future commissural calcification.
+**AC:** The magic stitch reconstructs the actual commissure by restoring a deeper surface of coaptation and therefore a functional structure. By contrast, closing the commissure excludes a part of the valve from normal function. Restoring the function of the commissure rather than closing it is important to preserve full leaflet motion, which in turn prevents turbulence, fibrous retraction, and occasional future commissural calcification.
 
 **DA: Is there a scenario where you would consider a Wooler-Reed type asymmetrical annuloplasty?**
-> **AC:** This technique was useful in the past in the absence of a better alternative. Today, it should be regarded as a palliative technique. It overnarrows the orifice, does not support the entire annulus, and excludes the commissural area from normal function, leading to secondary lesions like those seen in the early years of cardiac surgery. I believe this technique has no indications for use today.
+**AC:** This technique was useful in the past in the absence of a better alternative. Today, it should be regarded as a palliative technique. It overnarrows the orifice, does not support the entire annulus, and excludes the commissural area from normal function, leading to secondary lesions like those seen in the early years of cardiac surgery. I believe this technique has no indications for use today.
 
-#### Management of Large Commissural Leaflets and Bileaflet Interactions
+</div></details>
+
+<details class="med-details"><summary>
+
+### Management of Large Commissural Leaflets and Bileaflet Interactions (DA & AC)</summary><div class="details-content">
 
 **DA: Describe your technique for treating prolapse of a well-developed commissural leaflet.**
-> **AC:** This condition is generally observed in Barlow's syndrome with a prolapse resulting from chordae elongation. The corresponding commissural papillary muscle is usually easily identified. The preferred technique is to proceed to a sliding plasty or shortening plasty of the papillary muscle as opposed to resection. In the scenario of commissural leaflet prolapse associated with a hypoplastic adjacent posterior leaflet segment, the commissural leaflet can be used to extend the surface area of the hypoplastic segment by suturing them together.
+**AC:** This condition is generally observed in Barlow's syndrome with a prolapse resulting from chordae elongation. The corresponding commissural papillary muscle is usually easily identified. The preferred technique is to proceed to a sliding plasty or shortening plasty of the papillary muscle as opposed to resection. In the scenario of commissural leaflet prolapse associated with a hypoplastic adjacent posterior leaflet segment, the commissural leaflet can be used to extend the surface area of the hypoplastic segment by suturing them together.
 
 **DA: In bileaflet prolapse, why specifically does a posterior leaflet repair also correct a minimal anterior leaflet prolapse?**
-> **AC:** More precisely, it does increase the surface of coaptation but it does not correct the discrepancy between the levels of the free edges of two opposing leaflets. As long as the height of the surface of coaptation is greater than 5 mm, a few millimeters discrepancy is acceptable. If not, it is advisable to correct this discrepancy, which requires a rather simple technique: either a small triangular resection or a chordae transfer or replacement on the anterior leaflet.
+**AC:** More precisely, it does increase the surface of coaptation but it does not correct the discrepancy between the levels of the free edges of two opposing leaflets. As long as the height of the surface of coaptation is greater than 5 mm, a few millimeters discrepancy is acceptable. If not, it is advisable to correct this discrepancy, which requires a rather simple technique: either a small triangular resection or a chordae transfer or replacement on the anterior leaflet.
 
-#### Durability Factors and Long-Term Mechanisms of Failure
+</div></details>
+
+<details class="med-details"><summary>
+
+### Durability Factors and Long-Term Mechanisms of Failure (DA & AC)</summary><div class="details-content">
 
 **DA: In type II dysfunction, why is a posterior leaflet reconstruction regarded as more durable than an anterior leaflet reconstruction?**
-> **AC:** In a sailboat, the great sail and the spinnaker wear faster than the jibs because they have a larger surface area. Similar to the great sail, the anterior leaflet of the mitral valve has more tissue than the posterior leaflet segments, which can be compared to three jibs. Therefore significantly more tension is exerted on the anterior leaflet. A restored large surface of leaflet coaptation minimizes this tension.
+**AC:** In a sailboat, the great sail and the spinnaker wear faster than the jibs because they have a larger surface area. Similar to the great sail, the anterior leaflet of the mitral valve has more tissue than the posterior leaflet segments, which can be compared to three jibs. Therefore significantly more tension is exerted on the anterior leaflet. A restored large surface of leaflet coaptation minimizes this tension.
 
 **FF: What is the most common mechanism of late recurrent prolapse after valve reconstruction?**
-> **AC:** The most frequent disease-related mechanisms are the onset of bacterial endocarditis with chordae rupture or a continuous degenerative process resulting in chordae elongation or rupture. Ensuring a large surface of coaptation and remodeling the annulus with a ring minimize the latter risk. The most common technique-related mechanism is chordae abrasion by suture material placed in contact with native chordae at the level of a papillary muscle. Another possibility is chordae abrasion by artificial chordae crossing the route of native chordae. Avoiding suture misplacement minimizes these risks.
+**AC:** The most frequent disease-related mechanisms are the onset of bacterial endocarditis with chordae rupture or a continuous degenerative process resulting in chordae elongation or rupture. Ensuring a large surface of coaptation and remodeling the annulus with a ring minimize the latter risk. The most common technique-related mechanism is chordae abrasion by suture material placed in contact with native chordae at the level of a papillary muscle. Another possibility is chordae abrasion by artificial chordae crossing the route of native chordae. Avoiding suture misplacement minimizes these risks.
 
 **FF: Why is bileaflet prolapse associated with a higher rate of reoperation?**
-> **AC:** As far as reconstructive valve surgery techniques are concerned, the overall rate of reoperation is very low: 0.4% per patient per year in degenerative valve disease over a period of follow-up extending up to 25 years. However, we did find a rate difference between bileaflet prolapse and posterior leaflet prolapse, with freedom from reoperation at 20 years of 82% and 97%, respectively. Nevertheless, 82% of patients not requiring reoperation is a very reasonable statistic, especially considering that our patient population includes more than 30 years of evolutive surgical techniques. Since the early years of cardiac surgery, great progress has been made that may further improve this statistic. Particularly important in this regard have been intraoperative echocardiography guidance, a more rigorous correction of minor prolapse, and disease-specific rings. All three of these measures contribute to providing a larger surface of coaptation, which minimizes the increased risk of failure in bileaflet prolapse.
+**AC:** As far as reconstructive valve surgery techniques are concerned, the overall rate of reoperation is very low: 0.4% per patient per year in degenerative valve disease over a period of follow-up extending up to 25 years. However, we did find a rate difference between bileaflet prolapse and posterior leaflet prolapse, with freedom from reoperation at 20 years of 82% and 97%, respectively. Nevertheless, 82% of patients not requiring reoperation is a very reasonable statistic, especially considering that our patient population includes more than 30 years of evolutive surgical techniques. Since the early years of cardiac surgery, great progress has been made that may further improve this statistic. Particularly important in this regard have been intraoperative echocardiography guidance, a more rigorous correction of minor prolapse, and disease-specific rings. All three of these measures contribute to providing a larger surface of coaptation, which minimizes the increased risk of failure in bileaflet prolapse.
+
+</div></details>
 
 </div></details>

@@ -1,4 +1,4 @@
-# 16. Adjunct Left Atrial Procedures
+# Chapter 16. Adjunct Left Atrial Procedures
 
 <details class="med-details"><summary>
 
@@ -41,7 +41,7 @@ In degenerative valvular disease, atrial thrombus formation can be observed in e
 
 <span id="fig-16-01"></span>![](_page_167_Figure_16-1.jpeg)
 
-**FIGURE 16-1** Left atrial thrombus patterns in mitral valve disease: localized organized thrombus in the left atrial appendage (a); extensive parietal thrombus covering the posterior and lateral walls of the enlarged left atrium (b).
+**FIGURE 16-1**
 
 #### Left Atrial Appendage Thrombus and Closure Techniques
 
@@ -61,7 +61,7 @@ Whenever an irregular surface with or without ulcerations or spots of calcificat
 
 <span id="fig-16-02"></span>![](_page_168_Figure_16-2.jpeg)
 
-**FIGURE 16-2** Surgical thromboendocardiectomy and pericardial reconstruction: en bloc excision of mural thrombus and ulcerated endocardium (a); reconstruction and lining of the denuded atrial wall with a treated autologous pericardial patch (b).
+**FIGURE 16-2**
 
 </div></details>
 
@@ -79,7 +79,7 @@ This condition, often termed "porcelain atrium," is observed primarily in advanc
 
 <span id="fig-16-03"></span>![](_page_168_Figure_16-3.jpeg)
 
-**FIGURE 16-3** Massive left atrial calcification ("porcelain atrium"): lateral chest radiograph showing dense, circumferential calcification of the left atrial wall sparing the mitral and pulmonary vein orifices.
+**FIGURE 16-3**
 
 #### Surgical Strategy and Calcium Dissection Technique
 
@@ -105,7 +105,7 @@ A variety of surgical reduction techniques have been described to restore lamina
 
 <span id="fig-16-04"></span>![](_page_169_Figure_16-4.jpeg)
 
-**FIGURE 16-4** Left atrial volume reduction techniques for giant left atrium: helicoidal plication along the posterior wall between the pulmonary veins and mitral annulus (a); "H-plication" with superior and inferior horizontal tiers connected by a vertical transverse bridge (b).
+**FIGURE 16-4**
 
 #### Helicoidal Plication and H-Plication Methods
 
@@ -139,7 +139,7 @@ The lesion set we prefer isolates the pulmonary veins (a) with a connecting lesi
 
 <span id="fig-16-05"></span>![](_page_169_Figure_16-5.jpeg)
 
-**FIGURE 16-5** Surgical ablation lesion sets for atrial fibrillation (Cox-Maze IV modification): left atrial lesion set comprising bilateral pulmonary vein isolation (a), mitral isthmus line to P3 annulus (b), and left atrial appendage isolation line (c); extended biatrial lesions including intercaval line (d), right atrial appendage to anterior tricuspid annulus (e), tricuspid commissural line (f), and coronary sinus isthmus lesion (g).
+**FIGURE 16-5**
 
 #### Biatrial Lesions and Clinical Outcomes
 
@@ -153,53 +153,60 @@ Following this strategy, we have documented an 80 percent rate of normal sinus r
 
 <details class="med-details"><summary>
 
-## DISCUSSION</summary><div class="details-content">
+## CLINICAL DISCUSSION</summary><div class="details-content">
 
-#### Atrial Wall Calcification and Anticoagulation
+<details class="med-details"><summary>
 
-> **DA:** What are the most common causes of atrial wall calcification?
->
-> **AC:** The two conditions in which atrial calcification is observed are rheumatic valve disease and dialysis-dependent renal failure. In rheumatic patients, atrial calcification usually follows thrombus formation, which occurs frequently in patients with long-lasting atrial fibrillation and enlarged left atrium in the absence of anticoagulation treatment. In renal failure, calcification usually results from altered phosphocalcium metabolism.
+### Atrial Wall Calcification and Anticoagulation (DA & AC)</summary><div class="details-content">
 
-> **FF:** In a patient in whom an atrial thrombus has been completely removed and the left atrial appendage has been closed while the valve has been effectively treated by reconstructive valve surgery, do you recommend the discontinuation of long-term anticoagulation?
->
-> **AC:** The patient should be committed to anticoagulation at least for the first year. Then, anticoagulation can be discontinued under the following conditions: the patient remains in sinus rhythm with no thrombus at echo; there is no residual valve regurgitation or stenosis; and the patient has subnormal left atrial size and good ventricular function. This recommendation is particularly relevant in patients at risk for bleeding. However, even in these cases treatment with aspirin should be prescribed.
+**DA:** What are the most common causes of atrial wall calcification?
+**AC:** The two conditions in which atrial calcification is observed are rheumatic valve disease and dialysis-dependent renal failure. In rheumatic patients, atrial calcification usually follows thrombus formation, which occurs frequently in patients with long-lasting atrial fibrillation and enlarged left atrium in the absence of anticoagulation treatment. In renal failure, calcification usually results from altered phosphocalcium metabolism.
 
-#### Patient Selection for the Maze Procedure
+**FF:** In a patient in whom an atrial thrombus has been completely removed and the left atrial appendage has been closed while the valve has been effectively treated by reconstructive valve surgery, do you recommend the discontinuation of long-term anticoagulation?
+**AC:** The patient should be committed to anticoagulation at least for the first year. Then, anticoagulation can be discontinued under the following conditions: the patient remains in sinus rhythm with no thrombus at echo; there is no residual valve regurgitation or stenosis; and the patient has subnormal left atrial size and good ventricular function. This recommendation is particularly relevant in patients at risk for bleeding. However, even in these cases treatment with aspirin should be prescribed.
 
-> **DA:** Are there any circumstances in which you would not perform a Maze procedure in patients with chronic atrial fibrillation undergoing mitral valve reconstruction?
->
-> **AC:** The duration of atrial fibrillation is not a contraindication to a Maze procedure. In fact, many patients can be converted to sinus rhythm after many years of atrial fibrillation. Rather than the duration of atrial fibrillation, the conditions of the left atrium should be considered. Patients with a giant, fibrotic, and calcified left atrium are unlikely to be converted to sinus rhythm. In these circumstances, I do not perform a Maze procedure.
+</div></details>
 
-> **FF:** Do you always prefer a biatrial Maze procedure? Are there any circumstances where a left-sided Maze procedure is sufficient?
->
-> **AC:** A left-sided Maze procedure may be sufficient in patients with paroxysmal atrial fibrillation and is associated with a success rate of approximately 80 percent. A biatrial Maze procedure is recommended in patients with persistent or chronic atrial fibrillation as well as in patients with a history of atrial flutter.
+<details class="med-details"><summary>
 
-> **FF:** Should a Maze procedure be considered in patients receiving a mechanical mitral valve?
->
-> **AC:** Despite the absence of well-documented data for this patient group, knowing that the risk of thromboembolism is increased in patients with atrial fibrillation, it is reasonable to perform a Maze operation in patients receiving a mechanical valve.
+### Patient Selection for the Maze Procedure (DA & AC)</summary><div class="details-content">
 
-#### Transmitral Venting and De-Airing Protocol
+**DA:** Are there any circumstances in which you would not perform a Maze procedure in patients with chronic atrial fibrillation undergoing mitral valve reconstruction?
+**AC:** The duration of atrial fibrillation is not a contraindication to a Maze procedure. In fact, many patients can be converted to sinus rhythm after many years of atrial fibrillation. Rather than the duration of atrial fibrillation, the conditions of the left atrium should be considered. Patients with a giant, fibrotic, and calcified left atrium are unlikely to be converted to sinus rhythm. In these circumstances, I do not perform a Maze procedure.
 
-> **FF:** For many years, you have recommended the placement of a transmitral left ventricular tube through the atriotomy at the time of closure. Are there any circumstances in which you would not use a ventricular vent?
->
-> **AC:** I routinely use a transmitral tube in all open left-heart procedures to keep the mitral valve incompetent, allowing retrograde passive de-airing through the left atriotomy as the first step of the de-airing process. In addition, in patients with severe ventricular dysfunction the tube allows passive decompression of the left ventricle so that the surgeon is not obligated to vent it actively, a cause of penetration of air through the left atrium.
+**FF:** Do you always prefer a biatrial Maze procedure? Are there any circumstances where a left-sided Maze procedure is sufficient?
+**AC:** A left-sided Maze procedure may be sufficient in patients with paroxysmal atrial fibrillation and is associated with a success rate of approximately 80 percent. A biatrial Maze procedure is recommended in patients with persistent or chronic atrial fibrillation as well as in patients with a history of atrial flutter.
 
-> **FF:** You have always emphasized de-airing cardiac chambers while the aortic cross-clamp is still in place. Can you explain your rationale?
->
-> **AC:** I have often been surprised by the low incidence of neurological events in our center compared to what has been reported commonly in the literature. Because of the aging of the population, embolization from calcification involving the ascending aorta has been incriminated as the primary cause of this event. I believe that many neurological events and early right ventricular failure are due to air embolization to the head vessels and the right coronary artery. The incidence of these complications can effectively be reduced by the triphase approach I described in this chapter. The systematic use of intraoperative transesophageal echocardiography is instrumental to verify the completeness of the de-airing, which may take a prolonged time in some patients.
+**FF:** Should a Maze procedure be considered in patients receiving a mechanical mitral valve?
+**AC:** Despite the absence of well-documented data for this patient group, knowing that the risk of thromboembolism is increased in patients with atrial fibrillation, it is reasonable to perform a Maze operation in patients receiving a mechanical valve.
 
-#### Prevention of Retraction Injuries and Postoperative Anticoagulation
+</div></details>
 
-> **DA:** Describe the possible injuries that can occur from the retraction of the left atrial wall with blades during surgery.
->
-> **AC:** A systematic inspection of the atrial endothelium and wall should be undertaken before left atrial closure in order to detect the following possible injuries:
-> 1. Endothelial tear;
-> 2. Perforation of the interatrial septum;
-> 3. Injury of the conduction tissue that can become evident on postoperative electrocardiogram.
+<details class="med-details"><summary>
 
-> **FF:** What is your current postoperative anticoagulant regimen following a Maze procedure?
->
-> **AC:** I remain precautious and in the absence of contraindications give the patients anticoagulants for 6 months regardless of the postoperative rhythm.
+### Transmitral Venting and De-Airing Protocol (FF & AC)</summary><div class="details-content">
+
+**FF:** For many years, you have recommended the placement of a transmitral left ventricular tube through the atriotomy at the time of closure. Are there any circumstances in which you would not use a ventricular vent?
+**AC:** I routinely use a transmitral tube in all open left-heart procedures to keep the mitral valve incompetent, allowing retrograde passive de-airing through the left atriotomy as the first step of the de-airing process. In addition, in patients with severe ventricular dysfunction the tube allows passive decompression of the left ventricle so that the surgeon is not obligated to vent it actively, a cause of penetration of air through the left atrium.
+
+**FF:** You have always emphasized de-airing cardiac chambers while the aortic cross-clamp is still in place. Can you explain your rationale?
+**AC:** I have often been surprised by the low incidence of neurological events in our center compared to what has been reported commonly in the literature. Because of the aging of the population, embolization from calcification involving the ascending aorta has been incriminated as the primary cause of this event. I believe that many neurological events and early right ventricular failure are due to air embolization to the head vessels and the right coronary artery. The incidence of these complications can effectively be reduced by the triphase approach I described in this chapter. The systematic use of intraoperative transesophageal echocardiography is instrumental to verify the completeness of the de-airing, which may take a prolonged time in some patients.
+
+</div></details>
+
+<details class="med-details"><summary>
+
+### Prevention of Retraction Injuries and Postoperative Anticoagulation (DA & AC)</summary><div class="details-content">
+
+**DA:** Describe the possible injuries that can occur from the retraction of the left atrial wall with blades during surgery.
+**AC:** A systematic inspection of the atrial endothelium and wall should be undertaken before left atrial closure in order to detect the following possible injuries:
+1. Endothelial tear;
+2. Perforation of the interatrial septum;
+3. Injury of the conduction tissue that can become evident on postoperative electrocardiogram.
+
+**FF:** What is your current postoperative anticoagulant regimen following a Maze procedure?
+**AC:** I remain precautious and in the absence of contraindications give the patients anticoagulants for 6 months regardless of the postoperative rhythm.
+
+</div></details>
 
 </div></details>

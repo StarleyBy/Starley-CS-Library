@@ -1,4 +1,4 @@
-# 14. Techniques in Type IIIb: Systolic Restricted Leaflet Motion
+# Chapter 14. Techniques in Type IIIb: Systolic Restricted Leaflet Motion
 
 <details class="med-details"><summary>
 
@@ -56,11 +56,11 @@ Leaflet tethering may also create a differential tension on the secondary chorda
 
 <span id="fig-14-01"></span>![](_page_157_Figure_14-1.jpeg)
 
-**FIGURE 14-1** Pathophysiology of Type IIIb systolic restricted leaflet motion: segmental ventricular dilatation with asymmetrical tethering and displaced posteromedial papillary muscle (a); global ventricular dilatation with symmetrical apical tethering of both leaflets (b).
+**FIGURE 14-1**
 
 <span id="fig-14-02"></span>![](_page_158_Figure_14-2.jpeg)
 
-**FIGURE 14-2** Valvular consequences of asymmetrical tethering: asymmetrical annular dilatation predominantly involving P2, P3, and posteromedial commissure (a); differential chordal tension on anterior leaflet secondary chordae producing the characteristic "effet de mouette" (seagull sign) deformity on echocardiography (b).
+**FIGURE 14-2**
 
 </div></details>
 
@@ -82,7 +82,7 @@ The selection of the ring depends upon whether the annular dilatation is symmetr
 
 <span id="fig-14-03"></span>![](_page_158_Figure_14-3.jpeg)
 
-**FIGURE 14-3** Annuloplasty ring sizing principles in Type IIIb dysfunction: measurement of the anterior leaflet intercommissural distance and surface area serving as the baseline for sizing both asymmetric and symmetric remodeling rings.
+**FIGURE 14-3**
 
 #### Asymmetric Remodeling with the IMR Ring
 
@@ -106,7 +106,7 @@ Second, the middle of the anterior segment of the ring corresponds to the middle
 
 <span id="fig-14-04"></span>![](_page_159_Figure_14-4.jpeg)
 
-**FIGURE 14-4** Surgical technique of remodeling ring annuloplasty in ischemic mitral regurgitation: asymmetrical suture spacing along the posterior annulus to achieve selective downsizing of P2, P3, and posteromedial segments (a, b); proper alignment and orientation of prosthetic ring ensuring central coaptation (c, d).
+**FIGURE 14-4**
 
 </div></details>
 
@@ -128,7 +128,7 @@ Aggressive downsizing is necessary to restore leaflet coaptation. A ring size tw
 
 <span id="fig-14-05"></span>![](_page_160_Figure_14-5.jpeg)
 
-**FIGURE 14-5** Symmetrical annular remodeling in global ventricular dilatation (dilated cardiomyopathy): aggressive downsizing with a rigid Classic or semi-rigid Physio ring downsized two sizes relative to anterior leaflet measurement to restore leaflet coaptation.
+**FIGURE 14-5**
 
 #### Morphology of the Reconstructed Valve
 
@@ -138,7 +138,7 @@ As a consequence, the surface of coaptation is positioned well below the plane o
 
 <span id="fig-14-06"></span>![](_page_160_Figure_14-6.jpeg)
 
-**FIGURE 14-6** Reconstructed valve morphology in severe ventricular tethering: low-lying coaptation plane situated deep below the annular level with persistent apical tenting, maintaining valvular competency following aggressive annular downsizing (a, b).
+**FIGURE 14-6**
 
 </div></details>
 
@@ -166,7 +166,7 @@ This maneuver selectively releases the strut chordal tension that bows the body 
 
 <span id="fig-14-07"></span>![](_page_161_Figure_14-7.jpeg)
 
-**FIGURE 14-7** Adjunct surgical techniques for Type IIIb dysfunction: autologous pericardial patch extension of the posterior leaflet to compensate for severe leaflet tethering (a); selective resection of tethered secondary chordae to relieve the "effet de mouette" and restore anterior leaflet mobility (b).
+**FIGURE 14-7**
 
 #### Ventricular Resection and Papillary Muscle Reimplantation
 
@@ -190,58 +190,69 @@ A global external compression by a restraining device has been proposed. This te
 
 <span id="fig-14-08"></span>![](_page_162_Figure_14-8.jpeg)
 
-**FIGURE 14-8** Ventricular aneurysmectomy with papillary muscle reimplantation: detachment of displaced papillary muscle with a fibrous cuff during aneurysm resection (a); linear ventricular reconstruction over Teflon felts preserving >= 60 ml/m2 cavity volume and reimplantation of papillary muscle into suture line (b); completion with remodeling ring annuloplasty (c).
+**FIGURE 14-8**
 
 </div></details>
 
 <details class="med-details"><summary>
 
-## DISCUSSION</summary><div class="details-content">
+## CLINICAL DISCUSSION</summary><div class="details-content">
 
-#### Surface of Coaptation and Suture Technique
+<details class="med-details"><summary>
 
-> **DA:** What is an acceptable surface of coaptation following repair of a type IIIb dysfunction?
->
-> **AC:** The minimal length of leaflet coaptation is 3 mm; with this length the competency of the valve is ensured even though the edges of the two opposing leaflet segments are displaced into the ventricle.
+### Surface of Coaptation and Suture Technique (DA & AC)</summary><div class="details-content">
 
-> **DA:** Do you ever use pledgetted sutures to secure the ring in ischemic mitral regurgitation?
->
-> **AC:** Everting pledgetted mattress sutures would further reduce the mobility and surface area of the posterior leaflet. Simple sutures, closely spaced, are preferred.
+**DA:** What is an acceptable surface of coaptation following repair of a type IIIb dysfunction?
+**AC:** The minimal length of leaflet coaptation is 3 mm; with this length the competency of the valve is ensured even though the edges of the two opposing leaflet segments are displaced into the ventricle.
 
-#### Indications for the IMR Ring and Anterior Infarction
+**DA:** Do you ever use pledgetted sutures to secure the ring in ischemic mitral regurgitation?
+**AC:** Everting pledgetted mattress sutures would further reduce the mobility and surface area of the posterior leaflet. Simple sutures, closely spaced, are preferred.
 
-> **FF:** Is the IMR ring indicated in anteroseptal myocardial infarction with anterior papillary muscle displacement?
->
-> **AC:** The Ischemic regurgitation ring was designed for asymmetrical posterior leaflet tethering. In the presence of anterior papillary muscle displacement, a Classic or Physio ring downsized one or two sizes is preferred.
+</div></details>
 
-#### Role of Leaflet Extension and Residual Regurgitation
+<details class="med-details"><summary>
 
-> **DA:** Is there a role for posterior leaflet extension in type IIIb reconstruction?
->
-> **AC:** This technique is appealing because it creates an improved leaflet curvature, which compensates for the posterior displacement of the coaptation line. However, an undersized remodeling annuloplasty ring almost always restores an adequate surface of coaptation. Consequently, leaflet extension is rarely indicated.
+### Indications for the IMR Ring and Anterior Infarction (FF & AC)</summary><div class="details-content">
 
-> **FF:** Following reconstruction with the IMR ring, how would you handle residual commissural regurgitation?
->
-> **AC:** A residual commissural regurgitation may occur if the ring has not been properly selected or positioned. In these cases, it should be reselected and reimplanted. In another setting, the regurgitation is due to excess traction on one or two commissural chordae. This can be improved by resecting these chordae. This maneuver does not necessarily produce a leaflet prolapse. If it does, a magic suture, with or without chordae transfer, corrects the prolapse.
+**FF:** Is the IMR ring indicated in anteroseptal myocardial infarction with anterior papillary muscle displacement?
+**AC:** The Ischemic regurgitation ring was designed for asymmetrical posterior leaflet tethering. In the presence of anterior papillary muscle displacement, a Classic or Physio ring downsized one or two sizes is preferred.
 
-#### Algorithm for Recurrent Regurgitation and Dor Procedure
+</div></details>
 
-> **FF:** What is your operation algorithm for recurrent regurgitation after type IIIb reconstruction?
->
-> **AC:** Recurrent regurgitation requires a careful analysis of the mechanisms involved. Adequate undersizing and proper ring orientation should be confirmed or otherwise corrected. Ring dehiscence should be corrected by ring reimplantation, and chordae rupture should be rectified by chordae transfer or replacement. The most frequent mechanism, however, is the progression of the dilatation of the ventricle. In selected cases, a Jatene-Dor operation with reimplantation of the displaced papillary muscle may be indicated. In most instances, particularly in dilated cardiomyopathy, a chordae-sparing valve replacement is a more reasonable alternative.
+<details class="med-details"><summary>
 
-> **DA:** How do you examine and then reconstruct a mitral valve in a patient undergoing a Jatene-Dor procedure?
->
-> **AC:** In most patients requiring a Jatene-Dor procedure, the mitral valve is not regurgitant. In the presence of significant mitral regurgitation, a remodeling ring annuloplasty should be performed. Whenever the posterior papillary muscle is involved within the aneurysm, a papillary muscle repositioning can be carried out together with the Jatene-Dor procedure. I have carried out this operation successfully using the technique described in this chapter.
+### Role of Leaflet Extension and Residual Regurgitation (DA & AC)</summary><div class="details-content">
 
-#### Ventricular Annuloplasty and Relocation Procedures
+**DA:** Is there a role for posterior leaflet extension in type IIIb reconstruction?
+**AC:** This technique is appealing because it creates an improved leaflet curvature, which compensates for the posterior displacement of the coaptation line. However, an undersized remodeling annuloplasty ring almost always restores an adequate surface of coaptation. Consequently, leaflet extension is rarely indicated.
 
-> **DA:** Can you perform a reliable annuloplasty from a ventricular approach during a Jatene-Dor procedure?
->
-> **AC:** In this setting, the annular dilatation is usually too severe and extensive to obtain an optimal result by a narrowing annuloplasty or a plication of the commissure. Therefore in most cases, I recommend a direct left atrial approach to the valve and a remodeling annuloplasty, which provides a more reliable result. Some cases, however, that present with localized and moderate dilatation can be corrected by using two or three large compression sutures. This requires resection of the secondary chordae to facilitate access to the annulus.
+**FF:** Following reconstruction with the IMR ring, how would you handle residual commissural regurgitation?
+**AC:** A residual commissural regurgitation may occur if the ring has not been properly selected or positioned. In these cases, it should be reselected and reimplanted. In another setting, the regurgitation is due to excess traction on one or two commissural chordae. This can be improved by resecting these chordae. This maneuver does not necessarily produce a leaflet prolapse. If it does, a magic suture, with or without chordae transfer, corrects the prolapse.
 
-> **DA:** What is your opinion about papillary muscle repositioning procedures in type IIIb dysfunction?
->
-> **AC:** Several techniques have been described to relocate the displaced papillary muscle. Results beyond those that are short term are lacking at this time. In my opinion, external compression forcing papillary muscle repositioning holds the most promise.
+</div></details>
+
+<details class="med-details"><summary>
+
+### Algorithm for Recurrent Regurgitation and Dor Procedure (FF & AC)</summary><div class="details-content">
+
+**FF:** What is your operation algorithm for recurrent regurgitation after type IIIb reconstruction?
+**AC:** Recurrent regurgitation requires a careful analysis of the mechanisms involved. Adequate undersizing and proper ring orientation should be confirmed or otherwise corrected. Ring dehiscence should be corrected by ring reimplantation, and chordae rupture should be rectified by chordae transfer or replacement. The most frequent mechanism, however, is the progression of the dilatation of the ventricle. In selected cases, a Jatene-Dor operation with reimplantation of the displaced papillary muscle may be indicated. In most instances, particularly in dilated cardiomyopathy, a chordae-sparing valve replacement is a more reasonable alternative.
+
+**DA:** How do you examine and then reconstruct a mitral valve in a patient undergoing a Jatene-Dor procedure?
+**AC:** In most patients requiring a Jatene-Dor procedure, the mitral valve is not regurgitant. In the presence of significant mitral regurgitation, a remodeling ring annuloplasty should be performed. Whenever the posterior papillary muscle is involved within the aneurysm, a papillary muscle repositioning can be carried out together with the Jatene-Dor procedure. I have carried out this operation successfully using the technique described in this chapter.
+
+</div></details>
+
+<details class="med-details"><summary>
+
+### Ventricular Annuloplasty and Relocation Procedures (DA & AC)</summary><div class="details-content">
+
+**DA:** Can you perform a reliable annuloplasty from a ventricular approach during a Jatene-Dor procedure?
+**AC:** In this setting, the annular dilatation is usually too severe and extensive to obtain an optimal result by a narrowing annuloplasty or a plication of the commissure. Therefore in most cases, I recommend a direct left atrial approach to the valve and a remodeling annuloplasty, which provides a more reliable result. Some cases, however, that present with localized and moderate dilatation can be corrected by using two or three large compression sutures. This requires resection of the secondary chordae to facilitate access to the annulus.
+
+**DA:** What is your opinion about papillary muscle repositioning procedures in type IIIb dysfunction?
+**AC:** Several techniques have been described to relocate the displaced papillary muscle. Results beyond those that are short term are lacking at this time. In my opinion, external compression forcing papillary muscle repositioning holds the most promise.
+
+</div></details>
 
 </div></details>

@@ -1830,6 +1830,455 @@ body.night-mode .subchapter-picker .chapter-picker-item::before {
     color: #666;
 }
 
+/* ==========================================================================  
+   SECTION COLOR PALETTES (CARPENTIER & MULTI-SECTION TEXTBOOKS)
+   ========================================================================== */
+
+/* --- SECTION I: Fundamentals (Slate-Blue / Холодный стальной) --- */
+.chapter-item.has-subchapters[data-chapter-id="section-01"] {
+    border-left: 3px solid #64748b;
+    background: linear-gradient(to right, rgba(100, 116, 139, 0.08), transparent);
+}
+.chapter-item.has-subchapters[data-chapter-id="section-01"] .chapter-toggle {
+    background: rgba(100, 116, 139, 0.15);
+    color: #475569;
+}
+.chapter-item.subchapter[data-parent-id="section-01"]:hover {
+    background: rgba(100, 116, 139, 0.08);
+    border-left-color: #64748b;
+}
+.chapter-item.subchapter[data-parent-id="section-01"]:hover::before {
+    background: #64748b;
+}
+.chapter-item.subchapter[data-parent-id="section-01"].active {
+    background: linear-gradient(to right, rgba(100, 116, 139, 0.14), transparent);
+    color: #334155;
+    font-weight: 600;
+    border-left-color: #64748b;
+}
+.chapter-item.subchapter[data-parent-id="section-01"].active::before {
+    background: #64748b;
+    box-shadow: 0 0 0 3px rgba(100, 116, 139, 0.25);
+}
+.chapter-picker-item.has-subchapters[data-chapter-id="section-01"] {
+    border-left: 3px solid #64748b;
+}
+.chapter-picker-item.has-subchapters[data-chapter-id="section-01"]::after {
+    color: #64748b;
+}
+.subchapter-picker[data-parent-id="section-01"] {
+    border-left-color: rgba(100, 116, 139, 0.4);
+}
+.subchapter-picker[data-parent-id="section-01"] .chapter-picker-item::before {
+    color: #64748b;
+}
+.subchapter-picker[data-parent-id="section-01"] .chapter-picker-item.active {
+    background: rgba(100, 116, 139, 0.12);
+    color: #334155;
+}
+
+/* --- SECTION II: Mitral Valve Reconstruction (Carmine / Deep Arterial Red) --- */
+.chapter-item.has-subchapters[data-chapter-id="section-02"] {
+    border-left: 3px solid #e11d48;
+    background: linear-gradient(to right, rgba(225, 29, 72, 0.07), transparent);
+}
+.chapter-item.has-subchapters[data-chapter-id="section-02"] .chapter-toggle {
+    background: rgba(225, 29, 72, 0.14);
+    color: #be123c;
+}
+.chapter-item.subchapter[data-parent-id="section-02"]:hover {
+    background: rgba(225, 29, 72, 0.07);
+    border-left-color: #e11d48;
+}
+.chapter-item.subchapter[data-parent-id="section-02"]:hover::before {
+    background: #e11d48;
+}
+.chapter-item.subchapter[data-parent-id="section-02"].active {
+    background: linear-gradient(to right, rgba(225, 29, 72, 0.13), transparent);
+    color: #be123c;
+    font-weight: 600;
+    border-left-color: #e11d48;
+}
+.chapter-item.subchapter[data-parent-id="section-02"].active::before {
+    background: #e11d48;
+    box-shadow: 0 0 0 3px rgba(225, 29, 72, 0.25);
+}
+.chapter-picker-item.has-subchapters[data-chapter-id="section-02"] {
+    border-left: 3px solid #e11d48;
+}
+.chapter-picker-item.has-subchapters[data-chapter-id="section-02"]::after {
+    color: #e11d48;
+}
+.subchapter-picker[data-parent-id="section-02"] {
+    border-left-color: rgba(225, 29, 72, 0.4);
+}
+.subchapter-picker[data-parent-id="section-02"] .chapter-picker-item::before {
+    color: #e11d48;
+}
+.subchapter-picker[data-parent-id="section-02"] .chapter-picker-item.active {
+    background: rgba(225, 29, 72, 0.12);
+    color: #be123c;
+}
+
+/* --- SECTION III: Tricuspid Valve Reconstruction (Venous Cyan-Blue) --- */
+.chapter-item.has-subchapters[data-chapter-id="section-03"] {
+    border-left: 3px solid #0284c7;
+    background: linear-gradient(to right, rgba(2, 132, 199, 0.07), transparent);
+}
+.chapter-item.has-subchapters[data-chapter-id="section-03"] .chapter-toggle {
+    background: rgba(2, 132, 199, 0.14);
+    color: #0369a1;
+}
+.chapter-item.subchapter[data-parent-id="section-03"]:hover {
+    background: rgba(2, 132, 199, 0.07);
+    border-left-color: #0284c7;
+}
+.chapter-item.subchapter[data-parent-id="section-03"]:hover::before {
+    background: #0284c7;
+}
+.chapter-item.subchapter[data-parent-id="section-03"].active {
+    background: linear-gradient(to right, rgba(2, 132, 199, 0.13), transparent);
+    color: #0369a1;
+    font-weight: 600;
+    border-left-color: #0284c7;
+}
+.chapter-item.subchapter[data-parent-id="section-03"].active::before {
+    background: #0284c7;
+    box-shadow: 0 0 0 3px rgba(2, 132, 199, 0.25);
+}
+.chapter-picker-item.has-subchapters[data-chapter-id="section-03"] {
+    border-left: 3px solid #0284c7;
+}
+.chapter-picker-item.has-subchapters[data-chapter-id="section-03"]::after {
+    color: #0284c7;
+}
+.subchapter-picker[data-parent-id="section-03"] {
+    border-left-color: rgba(2, 132, 199, 0.4);
+}
+.subchapter-picker[data-parent-id="section-03"] .chapter-picker-item::before {
+    color: #0284c7;
+}
+.subchapter-picker[data-parent-id="section-03"] .chapter-picker-item.active {
+    background: rgba(2, 132, 199, 0.12);
+    color: #0369a1;
+}
+
+/* --- SECTION IV: Aortic Valve Reconstruction (Noble Golden Amber) --- */
+.chapter-item.has-subchapters[data-chapter-id="section-04"] {
+    border-left: 3px solid #d97706;
+    background: linear-gradient(to right, rgba(217, 119, 6, 0.08), transparent);
+}
+.chapter-item.has-subchapters[data-chapter-id="section-04"] .chapter-toggle {
+    background: rgba(217, 119, 6, 0.15);
+    color: #b45309;
+}
+.chapter-item.subchapter[data-parent-id="section-04"]:hover {
+    background: rgba(217, 119, 6, 0.08);
+    border-left-color: #d97706;
+}
+.chapter-item.subchapter[data-parent-id="section-04"]:hover::before {
+    background: #d97706;
+}
+.chapter-item.subchapter[data-parent-id="section-04"].active {
+    background: linear-gradient(to right, rgba(217, 119, 6, 0.14), transparent);
+    color: #b45309;
+    font-weight: 600;
+    border-left-color: #d97706;
+}
+.chapter-item.subchapter[data-parent-id="section-04"].active::before {
+    background: #d97706;
+    box-shadow: 0 0 0 3px rgba(217, 119, 6, 0.25);
+}
+.chapter-picker-item.has-subchapters[data-chapter-id="section-04"] {
+    border-left: 3px solid #d97706;
+}
+.chapter-picker-item.has-subchapters[data-chapter-id="section-04"]::after {
+    color: #d97706;
+}
+.subchapter-picker[data-parent-id="section-04"] {
+    border-left-color: rgba(217, 119, 6, 0.4);
+}
+.subchapter-picker[data-parent-id="section-04"] .chapter-picker-item::before {
+    color: #d97706;
+}
+.subchapter-picker[data-parent-id="section-04"] .chapter-picker-item.active {
+    background: rgba(217, 119, 6, 0.12);
+    color: #b45309;
+}
+
+/* --- SECTION V: Disease-Specific Approach (Forest Emerald) --- */
+.chapter-item.has-subchapters[data-chapter-id="section-05"] {
+    border-left: 3px solid #059669;
+    background: linear-gradient(to right, rgba(5, 150, 105, 0.07), transparent);
+}
+.chapter-item.has-subchapters[data-chapter-id="section-05"] .chapter-toggle {
+    background: rgba(5, 150, 105, 0.14);
+    color: #047857;
+}
+.chapter-item.subchapter[data-parent-id="section-05"]:hover {
+    background: rgba(5, 150, 105, 0.07);
+    border-left-color: #059669;
+}
+.chapter-item.subchapter[data-parent-id="section-05"]:hover::before {
+    background: #059669;
+}
+.chapter-item.subchapter[data-parent-id="section-05"].active {
+    background: linear-gradient(to right, rgba(5, 150, 105, 0.13), transparent);
+    color: #047857;
+    font-weight: 600;
+    border-left-color: #059669;
+}
+.chapter-item.subchapter[data-parent-id="section-05"].active::before {
+    background: #059669;
+    box-shadow: 0 0 0 3px rgba(5, 150, 105, 0.25);
+}
+.chapter-picker-item.has-subchapters[data-chapter-id="section-05"] {
+    border-left: 3px solid #059669;
+}
+.chapter-picker-item.has-subchapters[data-chapter-id="section-05"]::after {
+    color: #059669;
+}
+.subchapter-picker[data-parent-id="section-05"] {
+    border-left-color: rgba(5, 150, 105, 0.4);
+}
+.subchapter-picker[data-parent-id="section-05"] .chapter-picker-item::before {
+    color: #059669;
+}
+.subchapter-picker[data-parent-id="section-05"] .chapter-picker-item.active {
+    background: rgba(5, 150, 105, 0.12);
+    color: #047857;
+}
+
+/* --- SECTION VI: Transfer of Knowledge (Royal Violet / Lavender) --- */
+.chapter-item.has-subchapters[data-chapter-id="section-06"] {
+    border-left: 3px solid #7c3aed;
+    background: linear-gradient(to right, rgba(124, 58, 237, 0.07), transparent);
+}
+.chapter-item.has-subchapters[data-chapter-id="section-06"] .chapter-toggle {
+    background: rgba(124, 58, 237, 0.14);
+    color: #6d28d9;
+}
+.chapter-item.subchapter[data-parent-id="section-06"]:hover {
+    background: rgba(124, 58, 237, 0.07);
+    border-left-color: #7c3aed;
+}
+.chapter-item.subchapter[data-parent-id="section-06"]:hover::before {
+    background: #7c3aed;
+}
+.chapter-item.subchapter[data-parent-id="section-06"].active {
+    background: linear-gradient(to right, rgba(124, 58, 237, 0.13), transparent);
+    color: #6d28d9;
+    font-weight: 600;
+    border-left-color: #7c3aed;
+}
+.chapter-item.subchapter[data-parent-id="section-06"].active::before {
+    background: #7c3aed;
+    box-shadow: 0 0 0 3px rgba(124, 58, 237, 0.25);
+}
+.chapter-picker-item.has-subchapters[data-chapter-id="section-06"] {
+    border-left: 3px solid #7c3aed;
+}
+.chapter-picker-item.has-subchapters[data-chapter-id="section-06"]::after {
+    color: #7c3aed;
+}
+.subchapter-picker[data-parent-id="section-06"] {
+    border-left-color: rgba(124, 58, 237, 0.4);
+}
+.subchapter-picker[data-parent-id="section-06"] .chapter-picker-item::before {
+    color: #7c3aed;
+}
+.subchapter-picker[data-parent-id="section-06"] .chapter-picker-item.active {
+    background: rgba(124, 58, 237, 0.12);
+    color: #6d28d9;
+}
+
+/* --- Night Mode Section Palette Overrides --- */
+body.night-mode .chapter-item.has-subchapters[data-chapter-id="section-01"] {
+    border-left-color: #94a3b8;
+    background: linear-gradient(to right, rgba(148, 163, 184, 0.12), transparent);
+}
+body.night-mode .chapter-item.has-subchapters[data-chapter-id="section-01"] .chapter-toggle {
+    background: rgba(148, 163, 184, 0.2);
+    color: #cbd5e1;
+}
+body.night-mode .chapter-item.subchapter[data-parent-id="section-01"].active {
+    border-left-color: #94a3b8;
+    color: #cbd5e1;
+    background: linear-gradient(to right, rgba(148, 163, 184, 0.15), transparent);
+}
+body.night-mode .chapter-item.subchapter[data-parent-id="section-01"].active::before {
+    background: #94a3b8;
+    box-shadow: 0 0 0 3px rgba(148, 163, 184, 0.2);
+}
+body.night-mode .chapter-picker-item.has-subchapters[data-chapter-id="section-01"] {
+    border-left-color: #94a3b8;
+}
+body.night-mode .chapter-picker-item.has-subchapters[data-chapter-id="section-01"]::after {
+    color: #94a3b8;
+}
+body.night-mode .subchapter-picker[data-parent-id="section-01"] {
+    border-left-color: #475569;
+}
+body.night-mode .subchapter-picker[data-parent-id="section-01"] .chapter-picker-item.active {
+    background: rgba(148, 163, 184, 0.15);
+    color: #cbd5e1;
+}
+
+body.night-mode .chapter-item.has-subchapters[data-chapter-id="section-02"] {
+    border-left-color: #fb7185;
+    background: linear-gradient(to right, rgba(251, 113, 133, 0.12), transparent);
+}
+body.night-mode .chapter-item.has-subchapters[data-chapter-id="section-02"] .chapter-toggle {
+    background: rgba(251, 113, 133, 0.2);
+    color: #fda4af;
+}
+body.night-mode .chapter-item.subchapter[data-parent-id="section-02"].active {
+    border-left-color: #fb7185;
+    color: #fda4af;
+    background: linear-gradient(to right, rgba(251, 113, 133, 0.15), transparent);
+}
+body.night-mode .chapter-item.subchapter[data-parent-id="section-02"].active::before {
+    background: #fb7185;
+    box-shadow: 0 0 0 3px rgba(251, 113, 133, 0.2);
+}
+body.night-mode .chapter-picker-item.has-subchapters[data-chapter-id="section-02"] {
+    border-left-color: #fb7185;
+}
+body.night-mode .chapter-picker-item.has-subchapters[data-chapter-id="section-02"]::after {
+    color: #fb7185;
+}
+body.night-mode .subchapter-picker[data-parent-id="section-02"] {
+    border-left-color: #881337;
+}
+body.night-mode .subchapter-picker[data-parent-id="section-02"] .chapter-picker-item.active {
+    background: rgba(251, 113, 133, 0.15);
+    color: #fda4af;
+}
+
+body.night-mode .chapter-item.has-subchapters[data-chapter-id="section-03"] {
+    border-left-color: #38bdf8;
+    background: linear-gradient(to right, rgba(56, 189, 248, 0.12), transparent);
+}
+body.night-mode .chapter-item.has-subchapters[data-chapter-id="section-03"] .chapter-toggle {
+    background: rgba(56, 189, 248, 0.2);
+    color: #7dd3fc;
+}
+body.night-mode .chapter-item.subchapter[data-parent-id="section-03"].active {
+    border-left-color: #38bdf8;
+    color: #7dd3fc;
+    background: linear-gradient(to right, rgba(56, 189, 248, 0.15), transparent);
+}
+body.night-mode .chapter-item.subchapter[data-parent-id="section-03"].active::before {
+    background: #38bdf8;
+    box-shadow: 0 0 0 3px rgba(56, 189, 248, 0.2);
+}
+body.night-mode .chapter-picker-item.has-subchapters[data-chapter-id="section-03"] {
+    border-left-color: #38bdf8;
+}
+body.night-mode .chapter-picker-item.has-subchapters[data-chapter-id="section-03"]::after {
+    color: #38bdf8;
+}
+body.night-mode .subchapter-picker[data-parent-id="section-03"] {
+    border-left-color: #0369a1;
+}
+body.night-mode .subchapter-picker[data-parent-id="section-03"] .chapter-picker-item.active {
+    background: rgba(56, 189, 248, 0.15);
+    color: #7dd3fc;
+}
+
+body.night-mode .chapter-item.has-subchapters[data-chapter-id="section-04"] {
+    border-left-color: #fbbf24;
+    background: linear-gradient(to right, rgba(251, 191, 36, 0.12), transparent);
+}
+body.night-mode .chapter-item.has-subchapters[data-chapter-id="section-04"] .chapter-toggle {
+    background: rgba(251, 191, 36, 0.2);
+    color: #fde68a;
+}
+body.night-mode .chapter-item.subchapter[data-parent-id="section-04"].active {
+    border-left-color: #fbbf24;
+    color: #fde68a;
+    background: linear-gradient(to right, rgba(251, 191, 36, 0.15), transparent);
+}
+body.night-mode .chapter-item.subchapter[data-parent-id="section-04"].active::before {
+    background: #fbbf24;
+    box-shadow: 0 0 0 3px rgba(251, 191, 36, 0.2);
+}
+body.night-mode .chapter-picker-item.has-subchapters[data-chapter-id="section-04"] {
+    border-left-color: #fbbf24;
+}
+body.night-mode .chapter-picker-item.has-subchapters[data-chapter-id="section-04"]::after {
+    color: #fbbf24;
+}
+body.night-mode .subchapter-picker[data-parent-id="section-04"] {
+    border-left-color: #78350f;
+}
+body.night-mode .subchapter-picker[data-parent-id="section-04"] .chapter-picker-item.active {
+    background: rgba(251, 191, 36, 0.15);
+    color: #fde68a;
+}
+
+body.night-mode .chapter-item.has-subchapters[data-chapter-id="section-05"] {
+    border-left-color: #34d399;
+    background: linear-gradient(to right, rgba(52, 211, 153, 0.12), transparent);
+}
+body.night-mode .chapter-item.has-subchapters[data-chapter-id="section-05"] .chapter-toggle {
+    background: rgba(52, 211, 153, 0.2);
+    color: #6ee7b7;
+}
+body.night-mode .chapter-item.subchapter[data-parent-id="section-05"].active {
+    border-left-color: #34d399;
+    color: #6ee7b7;
+    background: linear-gradient(to right, rgba(52, 211, 153, 0.15), transparent);
+}
+body.night-mode .chapter-item.subchapter[data-parent-id="section-05"].active::before {
+    background: #34d399;
+    box-shadow: 0 0 0 3px rgba(52, 211, 153, 0.2);
+}
+body.night-mode .chapter-picker-item.has-subchapters[data-chapter-id="section-05"] {
+    border-left-color: #34d399;
+}
+body.night-mode .chapter-picker-item.has-subchapters[data-chapter-id="section-05"]::after {
+    color: #34d399;
+}
+body.night-mode .subchapter-picker[data-parent-id="section-05"] {
+    border-left-color: #064e3b;
+}
+body.night-mode .subchapter-picker[data-parent-id="section-05"] .chapter-picker-item.active {
+    background: rgba(52, 211, 153, 0.15);
+    color: #6ee7b7;
+}
+
+body.night-mode .chapter-item.has-subchapters[data-chapter-id="section-06"] {
+    border-left-color: #a78bfa;
+    background: linear-gradient(to right, rgba(167, 139, 250, 0.12), transparent);
+}
+body.night-mode .chapter-item.has-subchapters[data-chapter-id="section-06"] .chapter-toggle {
+    background: rgba(167, 139, 250, 0.2);
+    color: #c4b5fd;
+}
+body.night-mode .chapter-item.subchapter[data-parent-id="section-06"].active {
+    border-left-color: #a78bfa;
+    color: #c4b5fd;
+    background: linear-gradient(to right, rgba(167, 139, 250, 0.15), transparent);
+}
+body.night-mode .chapter-item.subchapter[data-parent-id="section-06"].active::before {
+    background: #a78bfa;
+    box-shadow: 0 0 0 3px rgba(167, 139, 250, 0.2);
+}
+body.night-mode .chapter-picker-item.has-subchapters[data-chapter-id="section-06"] {
+    border-left-color: #a78bfa;
+}
+body.night-mode .chapter-picker-item.has-subchapters[data-chapter-id="section-06"]::after {
+    color: #a78bfa;
+}
+body.night-mode .subchapter-picker[data-parent-id="section-06"] {
+    border-left-color: #4c1d95;
+}
+body.night-mode .subchapter-picker[data-parent-id="section-06"] .chapter-picker-item.active {
+    background: rgba(167, 139, 250, 0.15);
+    color: #c4b5fd;
+}
+
 body.night-mode #chapter-picker,
 body.night-mode #edition-picker {
   background: #1e2a3a;

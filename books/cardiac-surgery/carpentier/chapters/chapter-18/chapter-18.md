@@ -1,4 +1,4 @@
-# 18. Pathophysiology, Valve Analysis, and Surgical Indications
+# Chapter 18. Pathophysiology, Valve Analysis, and Surgical Indications
 
 <details class="med-details"><summary>
 
@@ -308,46 +308,78 @@ Tricuspid valve stenosis, usually accompanied by involvement of the left-sided v
 
 <details class="med-details"><summary>
 
-## DISCUSSION</summary><div class="details-content">
+## CLINICAL DISCUSSION</summary><div class="details-content">
 
-#### Diagnostic Reliability of Echocardiography
-> **FF:** In your daily practice, how reliable is echocardiography for determining the mechanism of tricuspid regurgitation?
->
-> **AC:** Compared to the mitral valve, echocardiography of the tricuspid valve does not provide information that is as accurate and detailed. However, significant valvular dysfunctions can be easily identified.
+<details class="med-details"><summary>
 
-#### Pathological Features of Barlow's Disease
-> **DA:** What are the characteristics of Barlow's syndrome affecting the tricuspid valve?
->
-> **AC:** The tricuspid valve in this condition presents the same characteristic features as seen in the mitral valve: excess tissue, leaflet billowing, and severe dilatation of the annulus. However, compared to the mitral valve, myxoid degeneration is less pronounced and valve regurgitation is by far less frequent because of the lower ventricular pressure.
+### Diagnostic Reliability of Echocardiography (FF & AC)</summary><div class="details-content">
 
-#### Concept of Reversibility in Functional Disease
-> **FF:** Why have you been reluctant to use the term "functional tricuspid regurgitation" in patients with annular dilatation in the presence of mitral valve disease?
->
-> **AC:** I am not reluctant to use the term "functional regurgitation" in patients presenting with annular dilatation provided that there are good reasons to believe that the regurgitation is reversible after mitral valve reconstruction. The problem is that, in many instances, the reversibility is difficult to predict; this unpredictability is due to the fact that, as pointed out by René Leriche, long-lasting functional disturbances can lead to organic lesions. It would be particularly important to predict potential reversibility of a tricuspid regurgitation, but this is not possible today with enough reliability. In the near future, we may be able to identify predictors of reversibility or irreversibility of regurgitation. This distinction will have important practical consequences than functional versus organic.
+**FF:** In your daily practice, how reliable is echocardiography for determining the mechanism of tricuspid regurgitation?
+**AC:** Compared to the mitral valve, echocardiography of the tricuspid valve does not provide information that is as accurate and detailed. However, significant valvular dysfunctions can be easily identified.
 
-#### Risk Factors for Regurgitation Progression
-> **FF:** In your experience, have you been able to identify risk factors for the progression of tricuspid valve regurgitation despite the correction of mitral regurgitation?
->
-> **AC:** Left or right ventricular dysfunction and dilatation, persistent pulmonary hypertension, long-lasting atrial fibrillation, and a severely dilated left atrium can be considered risk factors for progression of tricuspid regurgitation, but again unpredictability is the main characteristic of the progression of functional tricuspid valve regurgitation.
+</div></details>
 
-#### Post-Transplantation Tricuspid Regurgitation
-> **DA:** Elaborate on the mechanisms of tricuspid regurgitation following cardiac transplantation.
->
-> **AC:** Several factors can be responsible for tricuspid regurgitation in this setting, including the following: pulmonary hypertension, donor-recipient atrial dysynchrony, standard versus bicaval technique of transplantation, atrial enlargement, and biopsy-induced chordae rupture.
+<details class="med-details"><summary>
 
-#### Management in Elderly Patients
-> **FF:** Mild to moderate degrees of tricuspid regurgitation are common findings in elderly patients with no pulmonary hypertension who are referred for aortic or coronary bypass surgery. Does this valvular dysfunction need to be addressed at the time of surgery?
->
-> **AC:** In elderly patients with reasonably good right ventricular function and no dilatation of the right cardiac chambers, a mild to moderate tricuspid regurgitation can be left untreated in the absence of organic lesions.
+### Pathological Features of Barlow's Disease (DA & AC)</summary><div class="details-content">
 
-#### Indications for Direct Intraoperative Inspection
-> **DA:** In the absence of documented tricuspid valve regurgitation, or significant annular dilatation as assessed by echo, would you systematically inspect the valve at the time of mitral valve surgery?
->
-> **AC:** I systematically inspect this valve in patients with pulmonary hypertension or a dilated right atrium. I believe this is necessary because echocardiography performed on an anesthetized patient is not always reliable.
+**DA:** What are the characteristics of Barlow's syndrome affecting the tricuspid valve?
+**AC:** The tricuspid valve in this condition presents the same characteristic features as seen in the mitral valve: excess tissue, leaflet billowing, and severe dilatation of the annulus. However, compared to the mitral valve, myxoid degeneration is less pronounced and valve regurgitation is by far less frequent because of the lower ventricular pressure.
 
-#### Thresholds for Concomitant Annuloplasty
-> **FF:** In patients with left-sided valvular disease and functional tricuspid regurgitation, what are your criteria to perform an associated tricuspid annuloplasty?
->
-> **AC:** Patients with greater than mild functional tricuspid regurgitation should undergo systematic remodeling annuloplasty. For those with less than mild regurgitation or intermittent regurgitation, several elements should be taken into consideration such as left ventricular dysfunction, pulmonary hypertension, and right ventricular enlargement, which are predictors of progression of tricuspid regurgitation despite the correction of left-sided valve disease. In the absence of these risk factors, the size of the annulus is also relevant. Patients with an annular dilatation beyond one size greater than the amount of valvular tissue should be considered for remodeling annuloplasty.
+</div></details>
+
+<details class="med-details"><summary>
+
+### Concept of Reversibility in Functional Disease (FF & AC)</summary><div class="details-content">
+
+**FF:** Why have you been reluctant to use the term "functional tricuspid regurgitation" in patients with annular dilatation in the presence of mitral valve disease?
+**AC:** I am not reluctant to use the term "functional regurgitation" in patients presenting with annular dilatation provided that there are good reasons to believe that the regurgitation is reversible after mitral valve reconstruction. The problem is that, in many instances, the reversibility is difficult to predict; this unpredictability is due to the fact that, as pointed out by René Leriche, long-lasting functional disturbances can lead to organic lesions. It would be particularly important to predict potential reversibility of a tricuspid regurgitation, but this is not possible today with enough reliability. In the near future, we may be able to identify predictors of reversibility or irreversibility of regurgitation. This distinction will have important practical consequences than functional versus organic.
+
+</div></details>
+
+<details class="med-details"><summary>
+
+### Risk Factors for Regurgitation Progression (FF & AC)</summary><div class="details-content">
+
+**FF:** In your experience, have you been able to identify risk factors for the progression of tricuspid valve regurgitation despite the correction of mitral regurgitation?
+**AC:** Left or right ventricular dysfunction and dilatation, persistent pulmonary hypertension, long-lasting atrial fibrillation, and a severely dilated left atrium can be considered risk factors for progression of tricuspid regurgitation, but again unpredictability is the main characteristic of the progression of functional tricuspid valve regurgitation.
+
+</div></details>
+
+<details class="med-details"><summary>
+
+### Post-Transplantation Tricuspid Regurgitation (DA & AC)</summary><div class="details-content">
+
+**DA:** Elaborate on the mechanisms of tricuspid regurgitation following cardiac transplantation.
+**AC:** Several factors can be responsible for tricuspid regurgitation in this setting, including the following: pulmonary hypertension, donor-recipient atrial dysynchrony, standard versus bicaval technique of transplantation, atrial enlargement, and biopsy-induced chordae rupture.
+
+</div></details>
+
+<details class="med-details"><summary>
+
+### Management in Elderly Patients (FF & AC)</summary><div class="details-content">
+
+**FF:** Mild to moderate degrees of tricuspid regurgitation are common findings in elderly patients with no pulmonary hypertension who are referred for aortic or coronary bypass surgery. Does this valvular dysfunction need to be addressed at the time of surgery?
+**AC:** In elderly patients with reasonably good right ventricular function and no dilatation of the right cardiac chambers, a mild to moderate tricuspid regurgitation can be left untreated in the absence of organic lesions.
+
+</div></details>
+
+<details class="med-details"><summary>
+
+### Indications for Direct Intraoperative Inspection (DA & AC)</summary><div class="details-content">
+
+**DA:** In the absence of documented tricuspid valve regurgitation, or significant annular dilatation as assessed by echo, would you systematically inspect the valve at the time of mitral valve surgery?
+**AC:** I systematically inspect this valve in patients with pulmonary hypertension or a dilated right atrium. I believe this is necessary because echocardiography performed on an anesthetized patient is not always reliable.
+
+</div></details>
+
+<details class="med-details"><summary>
+
+### Thresholds for Concomitant Annuloplasty (FF & AC)</summary><div class="details-content">
+
+**FF:** In patients with left-sided valvular disease and functional tricuspid regurgitation, what are your criteria to perform an associated tricuspid annuloplasty?
+**AC:** Patients with greater than mild functional tricuspid regurgitation should undergo systematic remodeling annuloplasty. For those with less than mild regurgitation or intermittent regurgitation, several elements should be taken into consideration such as left ventricular dysfunction, pulmonary hypertension, and right ventricular enlargement, which are predictors of progression of tricuspid regurgitation despite the correction of left-sided valve disease. In the absence of these risk factors, the size of the annulus is also relevant. Patients with an annular dilatation beyond one size greater than the amount of valvular tissue should be considered for remodeling annuloplasty.
+
+</div></details>
 
 </div></details>

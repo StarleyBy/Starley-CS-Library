@@ -1,4 +1,4 @@
-# 8. Techniques in Type I Dysfunction
+# Chapter 8. Techniques in Type I Dysfunction
 
 <details class="med-details"><summary>
 
@@ -58,7 +58,7 @@ Recurrent mitral valve regurgitation or stenosis was frequent as a result of dys
 
 <span id="fig-08-01"></span>![](_page_72_Figure_8-1.jpeg)
 
-**FIGURE 8-1** Historical techniques of annular constriction (suture annuloplasty, fabric bands, and posterior leaflet plication) constricting the mitral orifice arbitrarily to 2 finger breadths.
+**FIGURE 8-1**
 
 #### The Concept of Annular Remodeling
 To overcome these limitations, Carpentier introduced in 1968 the concept of "annular remodeling" using a prosthetic ring, which completely changed the philosophy of reconstructive valve surgery.
@@ -82,7 +82,7 @@ The anteroposterior diameter is approximately 3/4 of the transverse diameter ([F
 
 <span id="fig-08-02"></span>![](_page_73_Figure_8-2.jpeg)
 
-**FIGURE 8-2** Normal geometrical relationships of the mitral valve in systole: (a) Surface area of the anterior leaflet equals surface area of the posterior leaflet; (b) Surface area of the anterior leaflet equals the systolic orifice area; (c) Kidney-shaped systolic configuration with an anteroposterior to transverse diameter ratio of 3/4 ($A:T = 3:4$).
+**FIGURE 8-2**
 
 #### The 2 Foundational Principles
 The 2 golden relationships governing mitral valve reconstruction are:
@@ -101,7 +101,7 @@ These relationships imply that the surface area of the anterior leaflet should b
 
 <span id="fig-08-03"></span>![](_page_74_Figure_8-3.jpeg)
 
-**FIGURE 8-3** Disease-specific remodeling prosthetic rings: (a) Carpentier-Edwards Classic ring (rigid titanium); (b) Carpentier-Edwards Physio ring (semirigid Elgiloy/Mylar); (c) Carpentier-McCarthy-Adams IMR ring (rigid asymmetrical titanium).
+**FIGURE 8-3**
 
 <details class="med-details"><summary>
 
@@ -170,7 +170,7 @@ The measurement of the base of the anterior leaflet requires placement of 2 land
 
 <span id="fig-08-04"></span>![](_page_75_Figure_8-4.jpeg)
 
-**FIGURE 8-4** Identification of the commissures and placement of landmark sutures: (a) Anatomic commissural landmarks; (b) Difficult identification due to fibrosis; (c) Fanlike commissural chordae; (d) Visual extension of leaflet margins; (e) Chordal traction creating a commissural furrow.
+**FIGURE 8-4**
 
 #### Maneuvers for Difficult Commissural Identification
 Whenever the commissures are difficult to identify because of tissue thickening or jet lesions ([Fig. 8-4](#fig-08-04), b), 1 of the following maneuvers may be helpful:
@@ -185,7 +185,7 @@ Each sizer presents 2 notches, which should be positioned to match the commissur
 
 <span id="fig-08-05"></span>![](_page_75_Figure_8-5.jpeg)
 
-**FIGURE 8-5** Measurement of the intercommissural distance using dedicated sizers with notches matching the landmark commissural sutures: (a) Sizer too small; (b) Sizer too large; (c) Sizer fits perfectly.
+**FIGURE 8-5**
 
 #### Anterior Leaflet Height Assessment
 Many imperfect results following valve repair are due to improper sizing of the anterior leaflet and inadequate ring selection.
@@ -194,13 +194,13 @@ The measurement of the height of the anterior leaflet is then carried out. The l
 
 <span id="fig-08-06"></span>![](_page_76_Figure_8-6.jpeg)
 
-**FIGURE 8-6** Unfurling the anterior leaflet by vertical downward traction on the marginal chordae using two nerve hooks to assess leaflet height.
+**FIGURE 8-6**
 
 The sizer selected from the measurement of the intercommissural distance is positioned to cover the entire surface area of the stretched anterior leaflet ([Fig. 8-7](#fig-08-07)).
 
 <span id="fig-08-07"></span>![](_page_76_Figure_8-7.jpeg)
 
-**FIGURE 8-7** Verification of anterior leaflet surface area and height using a right-angle clamp and dedicated sizer: (a) Good correlation (>90% of cases); (b) Discrepancy with excessive height (Barlow's disease); (c) Discrepancy with deficient height (fibroelastic deficiency or rheumatic disease).
+**FIGURE 8-7**
 
 3 situations can be observed:
 * In more than 90% of the cases, a good correlation is found between the intercommissural distance and the height of the anterior leaflet, as demonstrated by the free edge of the anterior leaflet not extending more than 2 mm beyond the inferior edge of the sizer ([Fig. 8-7](#fig-08-07), a). In this case, the ring number is selected according to the sizer, and the type of ring according to the pathological process: a Classic ring when dealing with a rheumatic valvular disease, a Physio ring in degenerative valve disease, an IMR ring in ischemic valve disease. In the case of discrepancy between 2 sizes, 1 should choose the larger size, except in patients with type IIIb dysfunction.
@@ -224,7 +224,7 @@ Systematic measurement of the height of all posterior leaflet segments should al
 
 <span id="fig-08-08"></span>![](_page_77_Figure_8-8.jpeg)
 
-**FIGURE 8-8** Measurement of the posterior leaflet height by unfurling the tissue with chordal traction; heights $\ge 20\text{ mm}$ warrant reduction to prevent SAM.
+**FIGURE 8-8**
 
 </div></details>
 
@@ -242,7 +242,7 @@ Proper placement of the sutures first requires correct identification of the mit
 
 <span id="fig-08-09"></span>![](_page_78_Figure_8-9.jpeg)
 
-**FIGURE 8-9** Identification of the mitral annulus at the atrio-valvular junction (hinge line) using nerve hook traction to elevate leaflet tissue.
+**FIGURE 8-9**
 
 <details class="med-details"><summary>
 
@@ -257,7 +257,7 @@ Placing sutures within the anterior annulus should respect the following guideli
 
 <span id="fig-08-10"></span>![](_page_78_Figure_8-10.jpeg)
 
-**FIGURE 8-10** Guidelines for suture placement in the anterior annulus: (a) Needle entrance 1 mm outside hinge with exit 1 to 2 mm on the atrial side; (b) Danger of catching aortic cusps with deep fibrous skeleton bites; (c) Traction applied perpendicularly to the annular plane; (d) Recommended 3 to 4 mm mattress width.
+**FIGURE 8-10**
 
 #### Anterior Annulus Sutures
 During suture placement the position of the needle in the needle holder, the position of the surgeon’s arm, and the motion of the surgeon’s wrist vary according to the different segments of the annulus.
@@ -266,19 +266,19 @@ For sutures at the base of the anterior leaflet, a backhand position with a hori
 
 <span id="fig-08-12"></span>![](_page_80_Figure_8-12.jpeg)
 
-**FIGURE 8-12** Body mechanics and needle holder positioning for anterior annular sutures: surgeon's arm in abduction, elbow extended, wrist pronated, needle holder held vertically away from the surgeon.
+**FIGURE 8-12**
 
 Approximately 4 to 5 horizontal mattress sutures are placed through the base of the anterior leaflet and adjacent commissural leaflets. The width of each mattress suture is guided by the curvature of the 3/8 needle. It must be no smaller than 8 mm to avoid pulling the suture through the annulus, and no larger than 1 cm to prevent distortion of the anterior leaflet ([Fig. 8-13](#fig-08-13), a). The interval between the mattress sutures should not exceed 2 mm. Care should be taken to avoid placing 2 adjacent sutures through the same hole as this may increase the size of the hole and create a periprosthetic leak ([Fig. 8-13](#fig-08-13), b).
 
 <span id="fig-08-13"></span>![](_page_80_Figure_8-13.jpeg)
 
-**FIGURE 8-13** Dimensions of mattress sutures on the anterior annulus: width 8 mm to 1 cm with suture interval $\le 2\text{ mm}$ (a); avoidance of entering adjacent sutures into the same needle hole to prevent periprosthetic leak (b).
+**FIGURE 8-13**
 
 If a Classic ring is selected, the first 2 sutures should be placed on each side of the midline of the anterior leaflet attachment ([Fig. 8-14](#fig-08-14)).
 
 <span id="fig-08-14"></span>![](_page_81_Figure_8-14.jpeg)
 
-**FIGURE 8-14** Placement of the first two mattress sutures on each side of the midline of the anterior leaflet attachment when using a Classic ring.
+**FIGURE 8-14**
 
 #### Posterior Annulus Sutures
 Placing sutures within the posterior annulus should follow the same recommendations just described, the only difference being that slightly deeper bites should be taken to reach the annulus ([Fig. 8-11](#fig-08-11)).
@@ -287,20 +287,20 @@ At this level, the needle should penetrate the atrio-valvular junction 2 mm outs
 
 <span id="fig-08-11"></span>![](_page_79_Figure_8-11.jpeg)
 
-**FIGURE 8-11** Suture placement within the posterior annulus: (a) Needle penetrates atrio-valvular junction 2 mm outside the hinge and returns 2 mm outside the hinge; (b) 10° needle angle relative to hinge to avoid catching secondary chordae; (c) Needle tip directed 2 mm outside the prosthetic ring.
+**FIGURE 8-11**
 
 For placement of mattress sutures around the posterior annular segment, the leaflet tissue is grasped transversally using a Rezzano forceps to expose the hinge ([Fig. 8-15](#fig-08-15)). A backhand position is preferred, progressing from the posteromedial to the anterolateral commissure. The elbow is folded, the wrist is in extension, and the hand is pronated. The needle holder is slightly oblique and close to the surgeon.
 
 <span id="fig-08-15"></span>![](_page_81_Figure_8-15.jpeg)
 
-**FIGURE 8-15** Placement of mattress sutures around the posterior annular segment: leaflet tissue grasped transversally with Rezzano forceps; surgeon elbow folded, wrist in extension, hand pronated, needle holder oblique and close.
+**FIGURE 8-15**
 
 #### Commissural Sutures
 For mattress sutures of the posterior commissural area, sutures are placed using a forehand position and oriented downwards ([Fig. 8-16](#fig-08-16)). In some cases, the placement of the suture near the posterior commissure is difficult because of the posteromedial trigone. In this case, it may be necessary to use a backhand position with the needle oriented upwards.
 
 <span id="fig-08-16"></span>![](_page_82_Figure_8-16.jpeg)
 
-**FIGURE 8-16** Mattress sutures of the posterior commissural area placed using a forehand position oriented downwards.
+**FIGURE 8-16**
 
 For sutures of the anterior commissural area, forehand sutures are also preferred ([Fig. 8-17](#fig-08-17), a). At this level, it is critical to respect the rule of orienting the needle towards the ventricular cavity so as to avoid the circumflex artery and the aortic leaflets ([Fig. 8-17](#fig-08-17), inset).
 
@@ -308,7 +308,7 @@ The anterolateral trigone often makes it difficult to place the sutures at this 
 
 <span id="fig-08-17"></span>![](_page_82_Figure_8-17.jpeg)
 
-**FIGURE 8-17** Sutures of the anterior commissural area: (a) Forehand suture oriented towards the ventricular cavity avoiding the circumflex artery and aortic leaflets (inset); (b) The *«manœuvre magique»* exerting traction on the adjacent posterior suture to stretch the commissure and expose the anterolateral trigone.
+**FIGURE 8-17**
 
 [Fig. 8-18](#fig-08-18) summarizes the commonly used needle maneuvers. The annulus is schematically represented by a rectangle (inset):
 * For the 2 horizontal sides, backhand sutures are used.
@@ -318,7 +318,7 @@ For left-handed surgeons the same rules apply, the difference being that the hor
 
 <span id="fig-08-18"></span>![](_page_83_Figure_8-18.jpeg)
 
-**FIGURE 8-18** Summary of surgical needle holder positions and needle maneuvers around the entire circumferential perimeter of the mitral annulus (schematized as a rectangle).
+**FIGURE 8-18**
 
 </div></details>
 
@@ -330,7 +330,7 @@ Before placing the sutures through the sewing band of the ring, it is essential 
 
 <span id="fig-08-19"></span>![](_page_84_Figure_8-19.jpeg)
 
-**FIGURE 8-19** Identification of the 4 reference landmarks (midline of anterior leaflet, midline of posterior leaflet, 2 commissures) before placing sutures through the sewing ring band.
+**FIGURE 8-19**
 
 When using the Classic ring, 2 mattress sutures should be placed on each side of the midline ([Fig. 8-19](#fig-08-19), inset).
 
@@ -338,7 +338,7 @@ When using a Physio ring, sutures should penetrate the sewing band inside the gr
 
 <span id="fig-08-20"></span>![](_page_85_Figure_8-20.jpeg)
 
-**FIGURE 8-20** Passing sutures through the ring sewing band: inside the green suture line for Physio ring to avoid the metallic core (inset a); around the green circumferential marker for Classic and Ischemic rings (inset b).
+**FIGURE 8-20**
 
 The 2 commissural sutures are passed through the selected ring at the exact corresponding positions. This is an essential precaution to avoid a malposition of the ring and therefore a distortion of the annulus.
 
@@ -349,7 +349,7 @@ On the contrary, since the dilated posterior annulus must be reduced, the distan
 
 <span id="fig-08-21"></span>![](_page_86_Figure_8-21.jpeg)
 
-**FIGURE 8-21** Distribution of sutures through the sewing band: parallel disposition on the anterior segment; convergent disposition on the posterior segment to achieve uniform annular reduction.
+**FIGURE 8-21**
 
 </div></details>
 
@@ -365,7 +365,7 @@ With the aorta still clamped and a light suction established through the aortic 
 
 <span id="fig-08-22"></span>![](_page_87_Figure_8-22.jpeg)
 
-**FIGURE 8-22** Intraoperative saline testing using a 250-ml bulb syringe while venting the aortic root to remove air and verify valve competence and coaptation geometry.
+**FIGURE 8-22**
 
 <details class="med-details"><summary>
 
@@ -379,7 +379,7 @@ Also unsatisfactory would be an asymmetrical line of closure, even in the absenc
 
 <span id="fig-08-23"></span>![](_page_88_Figure_8-23.jpeg)
 
-**FIGURE 8-23** Assessment of the coaptation line on saline testing: (a) Symmetrical posterior closure line (optimal); (b) Anteriorly displaced closure line ($<3:1$) with risk of SAM; (c) Asymmetrical closure line from persistent prolapse; (d) Asymmetrical closure line from restricted leaflet motion.
+**FIGURE 8-23**
 
 #### Distinguishing Prolapse from Restriction
 The distinction between these 2 mechanisms can be made by assessing the level of the free edge of the opposing leaflets:
@@ -399,7 +399,7 @@ Once the anomaly has been identified, the ring may be pulled up if necessary to 
 
 <span id="fig-08-24"></span>![](_page_89_Figure_8-24.jpeg)
 
-**FIGURE 8-24** Secondary corrective maneuvers following saline testing: (a) Ovoid resection for excess posterior leaflet tissue; (b) Secondary chordal section for anterior leaflet tethering; (c) Triangular resection or chordal transfer for residual prolapse.
+**FIGURE 8-24**
 
 Secondary leaks identified during testing are treated according to their cause ([Fig. 8-24 cont'd](#fig-08-24-cont)):
 * A local ring dehiscence with a periprosthetic leak is repaired by an additional mattress suture ([Fig. 8-24 cont'd](#fig-08-24-cont), d).
@@ -408,13 +408,13 @@ Secondary leaks identified during testing are treated according to their cause (
 
 <span id="fig-08-24-cont"></span>![](_page_90_Figure_8-24_cont.jpeg)
 
-**FIGURE 8-24 (Cont'd)** Additional corrective maneuvers: (d) Additional mattress suture for local ring dehiscence; (e) Commissural stitch for minor commissural leak; (f) Ring downsizing for persistent central leak from oversizing.
+**FIGURE 8-24 (Cont'd)**
 
 Once the result is verified, the sutures are tied. The 2 commissural sutures are tied first, then the posterior annular sutures, and finally the anterior annular sutures ([Fig. 8-25](#fig-08-25)).
 
 <span id="fig-08-25"></span>![](_page_90_Figure_8-25.jpeg)
 
-**FIGURE 8-25** Sequential knot tying: commissural sutures first, followed by posterior sutures, and finally anterior sutures.
+**FIGURE 8-25**
 
 </div></details>
 
@@ -497,7 +497,7 @@ Like sailing boats, reconstructive valve surgery needs to be understood before b
 
 <span id="fig-08-26"></span>![](_page_92_Figure_8-26.jpeg)
 
-**FIGURE 8-26** The sailboat metaphor illustrating the components of reconstructive valve surgery: the leaflet corresponds to the sail, the annulus to the mast and boom, and the chordae tendineae to the rigging (sheets and halyards).
+**FIGURE 8-26**
 
 </div></details>
 

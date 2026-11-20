@@ -1,4 +1,4 @@
-# 10. Techniques in Type II Anterior Leaflet Prolapse
+# Chapter 10. Techniques in Type II Anterior Leaflet Prolapse
 
 <details class="med-details"><summary>
 
@@ -44,7 +44,7 @@ Leaflet prolapse (or functional type II) is a valve dysfunction in which the fre
 
 <span id="fig-10-01"></span>![](_page_103_Figure_10-1.jpeg)
 
-**FIGURE 10-1** Differential diagnoses of leaflet prolapse: normal coaptation (left); leaflet billowing in Barlow’s disease in which the free edge remains below the plane of the mitral annulus (center); and leaflet prolapse in which the free edge overrides the plane of the mitral orifice during systole (right).
+**FIGURE 10-1**
 
 #### Etiological Spectrum and Clinical Distinctions
 
@@ -81,7 +81,7 @@ A limited prolapse, defined as a prolapse involving less than one fourth of the 
 
 <span id="fig-10-02"></span>![](_page_104_Figure_10-2.jpeg)
 
-**FIGURE 10-2** Limited anterior leaflet prolapse involving less than one fourth of the free margin (a). Identification of limits using adjacent non-elongated chordae with nerve hooks or 2-0 stay sutures (b).
+**FIGURE 10-2**
 
 <details class="med-details"><summary>
 
@@ -95,7 +95,7 @@ The limits of the prolapsed area are identified by the adjacent non-elongated ch
 
 <span id="fig-10-03"></span>![](_page_104_Figure_10-3.jpeg)
 
-**FIGURE 10-3** Triangular resection of the anterior leaflet: (a) Convex incisions with curved scissors; (b) Interrupted sutures with knots tied on the ventricular side; (c) Additional noninverted 5-0 suture at the free margin.
+**FIGURE 10-3**
 
 > **Surgical Principle: Surface Area Limit**
 > Anterior leaflet resection should not involve more than 10% of the leaflet surface area.
@@ -116,7 +116,7 @@ The ventricular side of the prolapsed segment is explored to identify strong sec
 
 <span id="fig-10-04"></span>![](_page_105_Figure_10-4.jpeg)
 
-**FIGURE 10-4** Leaflet fixation on secondary chordae: (a, b) Identification of thick secondary chordae; (c, d) Placing interrupted mattress sutures through secondary chorda and leaflet edge; (e) Completed repair; (f, g, h) Alternative horizontal mattress suture technique with knots positioned under the leaflet.
+**FIGURE 10-4**
 
 An alternative technique ([Fig. 10-4](#fig-10-04), f) that provides a larger surface of contact consists of passing horizontal mattress sutures through the secondary chorda and the leaflet tissue ([Fig. 10-4](#fig-10-04), g), ensuring that the knot is positioned under the leaflet ([Fig. 10-4](#fig-10-04), h).
 
@@ -144,7 +144,7 @@ Long-term experience (up to 25 years) has shown the excellent durability of this
 
 <span id="fig-10-05"></span>![](_page_106_Figure_10-5.jpeg)
 
-**FIGURE 10-5** Anterior leaflet secondary chordae transposition: (a) Exploration of secondary chordae on ventricular surface; (b) Detachment of selected secondary chordae 1 to 2 mm from leaflet attachment; (c) Transposition to the free edge.
+**FIGURE 10-5**
 
 The technique is safe and effective under the following three conditions:
 1. Chordae attached to the papillary muscle situated underneath the prolapse are selected (avoid crossing the midline of the orifice);
@@ -155,7 +155,7 @@ The technique is as follows: the ventricular side of the prolapsed area is explo
 
 <span id="fig-10-06"></span>![](_page_106_Figure_10-6.jpeg)
 
-**FIGURE 10-6** Secondary chordae transposition technique: (a) Detached chordae brought to free edge; (b) Comparative measurement against adjacent non-elongated reference chordae; (c) Marking the level of the free margin with a surgical marker.
+**FIGURE 10-6**
 
 The length of each transposed chorda is adjusted using adjacent non-elongated chordae (reference point method) ([Fig. 10-6](#fig-10-06), b). At the free margin of the reference chordae, a mark is placed using a surgical marker ([Fig. 10-6](#fig-10-06), c).
 
@@ -163,7 +163,7 @@ A 5-0 monofilament suture is placed through the whole thickness of the chorda at
 
 <span id="fig-10-06-cont"></span>![](_page_107_Figure_10-6_cont.jpeg)
 
-**FIGURE 10-6, cont’d** Fixation of transposed chordae: (d) Placing a 5-0 monofilament suture through the marked level of the chorda; (e, f) Double figure-of-eight suture configuration; (g) Tying the knot underneath the free edge.
+**FIGURE 10-6 (Cont'd)**
 
 The upper end of this suture is then placed twice again in the same manner, thus forming a double figure-of-eight ([Fig. 10-6 cont'd](#fig-10-06-cont), e, f). The knot is ideally positioned underneath the leaflet free edge ([Fig. 10-6 cont'd](#fig-10-06-cont), g). Interrupted 5-0 sutures may be used instead of the double figure-of-eight configuration.
 
@@ -174,7 +174,7 @@ Whenever the number of anterior leaflet secondary chordae available is insuffici
 
 <span id="fig-10-07"></span>![](_page_107_Figure_10-7.jpeg)
 
-**FIGURE 10-7** Combined repair when available secondary chordae are insufficient: (a, b) Limited triangular resection; (c) Concomitant chordae transposition or artificial chordae.
+**FIGURE 10-7**
 
 </div></details>
 
@@ -188,7 +188,7 @@ As time passed and experience grew, it was found that a narrow strip of posterio
 
 <span id="fig-10-08"></span>![](_page_108_Figure_10-8.jpeg)
 
-**FIGURE 10-8** Classic posterior leaflet chordae transposition: (a-e) Transposition of a quadrangular posterior leaflet segment with marginal chordae to the anterior leaflet; (f) Annular plication to restore posterior leaflet continuity.
+**FIGURE 10-8**
 
 The current simplified technique is the following ([Fig. 10-9](#fig-10-09)):
 1. The segment of the posterior leaflet facing the prolapsed area of the anterior leaflet is identified (a).
@@ -199,7 +199,7 @@ The current simplified technique is the following ([Fig. 10-9](#fig-10-09)):
 
 <span id="fig-10-09"></span>![](_page_109_Figure_10-9.jpeg)
 
-**FIGURE 10-9** Modern simplified posterior leaflet strip transposition: (a) Mobilizing a 3 mm wide marginal strip of posterior leaflet; (b) Splitting the papillary muscle head towards the anterior leaflet; (c) Suturing the strip to the anterior leaflet free edge; (d, e, f) Reconstructing the posterior leaflet without tissue resection.
+**FIGURE 10-9**
 
 </div></details>
 
@@ -213,7 +213,7 @@ Although the use of living tissue is always preferable to artificial substitutes
 
 <span id="fig-10-10"></span>![](_page_110_Figure_10-10.jpeg)
 
-**FIGURE 10-10** Artificial chordae implantation and length adjustment: (a) Prolapsed segment lacking native chordae; (b) Traction on reference chorda; (c) Anchoring 5-0 double-armed PTFE suture into the papillary muscle fibrous cuff; (d) Passing suture through free edge; (e) Comparative length measurement using a graduated hook; (f) Completing knot placement without crossing native chordae.
+**FIGURE 10-10**
 
 The main difficulty using artificial chordae is the adjustment of the length between the tip of the papillary muscle and the leaflet edge. Not only is the adjustment difficult but also the sliding characteristics of the polytetrafluoroethylene thread make it difficult to tie the knots. This difficulty explains why so many techniques have been proposed.
 
@@ -237,7 +237,7 @@ Another alternative is the premeasured loops technique described by Patrick Peri
 
 <span id="fig-10-11"></span>![](_page_111_Figure_10-11.jpeg)
 
-**FIGURE 10-11** Premeasured Gore-Tex loops technique: loops of PTFE suture anchored on a single pledget for attachment to the papillary muscle.
+**FIGURE 10-11**
 
 The pledget with 2, 3, or 4 loops is anchored into the fibrous tip of the papillary muscle with a pledgetted mattress suture. Each loop is then secured to the free edge of the prolapsed leaflet segment with an interrupted 5-0 suture.
 
@@ -282,7 +282,7 @@ The technique is as follows:
 
 <span id="fig-10-12"></span>![](_page_112_Figure_10-12.jpeg)
 
-**FIGURE 10-12** Papillary muscle sliding plasty: (a, b) Longitudinal split separating the elongated head; (c) Downward displacement to match reference level; (d) Fixation with pledgetted 4-0 mattress sutures.
+**FIGURE 10-12**
 
 #### Sliding Plasty to Adjacent Papillary Muscle
 
@@ -290,7 +290,7 @@ Whenever the papillary muscle is too thin to be split, the sliding plasty can be
 
 <span id="fig-10-13"></span>![](_page_113_Figure_10-13.jpeg)
 
-**FIGURE 10-13** Sliding plasty to adjacent papillary muscle: (a) Positioning suture passed through the fibrous tip and adjacent supporting papillary muscle body; (b) Side-to-side approximation with interrupted 4-0 monofilament sutures.
+**FIGURE 10-13**
 
 A 4-0 monofilament suture is passed through the fibrous tip of the elongated papillary muscle and through the body of the adjacent supporting papillary muscle at the calculated level ([Fig. 10-13](#fig-10-13), a).
 
@@ -306,7 +306,7 @@ Chordae shortening ([Fig. 10-14](#fig-10-14)) is indicated for severe, ≥10 mm 
 
 <span id="fig-10-14"></span>![](_page_114_Figure_10-14.jpeg)
 
-**FIGURE 10-14** Technique of chordae shortening: (a) Exposure with papillary muscle clamp; (b) Longitudinal incision 2 mm below chordal insertion; (c) Creation of a 10 to 15 mm trench; (d) Mattress suture around chordae; (e) Burial into trench; (f, g) Transverse closure sutures; (h) Prevention of chordal abrasion.
+**FIGURE 10-14**
 
 The technique requires strict adherence to the following technical steps:
 - The technique requires a bulky type I or II papillary muscle and adequate papillary muscle exposure ([Fig. 10-14](#fig-10-14), a).
@@ -331,7 +331,7 @@ The technique itself may be regarded "à juste titre" as difficult. However, som
 
 <span id="fig-10-15"></span>![](_page_115_Figure_10-15.jpeg)
 
-**FIGURE 10-15** Papillary muscle shortening: (a) Exposure using papillary muscle clamp; (b) Transverse wedge resection 2 mm below chordal attachment; (c) Resection depth of two thirds of thickness preserving vascular bridge; (d) Vertical deep mattress sutures; (e) Gentle tying and approximation.
+**FIGURE 10-15**
 
 The papillary muscle is exposed using the papillary muscle clamp ([Fig. 10-15](#fig-10-15), a). Using a knife or angled scissors, a transverse wedge resection is performed 2 mm below the attachment of the chordae on the papillary muscle ([Fig. 10-15](#fig-10-15), b). The height of the wedge resection does not need to be greater than half the degree of prolapse (inset) because of the compression achieved by the large vertical bites used to reconstruct the papillary muscle.
 
@@ -359,7 +359,7 @@ The technique to be used depends upon the type of lesions observed ([Table 10-3]
 
 <span id="fig-10-16"></span>![](_page_116_Figure_10-16.jpeg)
 
-**FIGURE 10-16** Types of papillary muscle lesions: complete rupture of papillary muscle trunk (top); rupture of a papillary muscle head (middle); elongation of papillary muscle with fibrotic changes (bottom).
+**FIGURE 10-16**
 
 <details class="med-details"><summary>
 
@@ -384,7 +384,7 @@ The ruptured papillary muscle head is trimmed of all necrotic tissue, leaving a 
 
 <span id="fig-10-17"></span>![](_page_117_Figure_10-17.jpeg)
 
-**FIGURE 10-17** Papillary muscle reimplantation technique: (a) Release of entangled detached head; (b) Trimming necrotic tissue leaving a 4 to 5 mm fibrous cuff; (c) Positioning against ventricular wall; (d) Creating a 1 cm vertical trench; (e, f) Anchoring mattress sutures; (g) Transverse closing sutures avoiding chordal contact.
+**FIGURE 10-17**
 
 Five millimeters above the point of contact, a 1 cm long, 5 mm deep vertical trench is created in the ventricular wall with a sharp blade ([Fig. 10-17](#fig-10-17), d). Two 4-0 mattress sutures are passed first through the fibrous cuff and then through the edges of the trench as deep as possible ([Fig. 10-17](#fig-10-17), e). Traction on these sutures secures the fibrous cuff within the trench. The sutures are then tied ([Fig. 10-17](#fig-10-17), f).
 
@@ -412,7 +412,7 @@ Leaflet prolapse in this setting is due to a partial rupture or necrosis of one 
 
 <span id="fig-10-18"></span>![](_page_118_Figure_10-18.jpeg)
 
-**FIGURE 10-18** Papillary muscle elongation repair: (a, b) Resection of excess length and reconstitution of continuity; (c, d) Papillary muscle plication with mattress sutures.
+**FIGURE 10-18**
 
 A technique similar to the one just described for papillary muscle rupture can be used; however, the difference is that the base of the papillary muscle is preserved and buried into the trench.
 
@@ -431,49 +431,140 @@ Whatever the etiologies, reconstructive techniques using native tissues have bee
 
 <details class="med-details"><summary>
 
-## DISCUSSION</summary><div class="details-content">
+## CLINICAL DISCUSSION</summary><div class="details-content">
 
-**FF: Should a minimal prolapse of the anterior leaflet be corrected?**
-> **AC:** One of the three fundamental principles of reconstructive valve surgery is to preserve or restore normal leaflet motion. A minimal prolapse, therefore, should always be corrected. If uncorrected, this lesion could lead to residual regurgitation, which could jeopardize the long-term durability of the repair.
+<details class="med-details"><summary>
 
-**DA: In anterior leaflet prolapse, how many triangular resections can be performed?**
-> **AC:** One, two, or rarely three small triangular resections can be performed on the anterior leaflet. However, the total surface area resected should not exceed 10% of the anterior leaflet surface area. If more tissue resection is needed, alternative techniques such as chordae transposition or chordae replacement should be used.
+### Minimal Anterior Leaflet Prolapse Correction (FF & AC)</summary><div class="details-content">
 
-**FF: If an inadvertent leaflet perforation occurs during chordae transposition, how should it be managed?**
-> **AC:** This depends upon the size of the defect and the quality of the leaflet tissue. A small perforation (<2 mm) can be closed with a 5-0 or 6-0 monofilament suture. If the defect is larger or the tissue is fragile, a small autologous pericardial patch treated with glutaraldehyde should be used to close the defect.
+**FF:** Should a minimal prolapse of the anterior leaflet be corrected?
 
-**FF: Should artificial chordae be used as a primary technique in all cases of chordae rupture?**
-> **AC:** I personally believe that the techniques of small triangular resection and native secondary chordae transposition should remain the first choice whenever feasible because they utilize native living tissue and are technically very reproducible. However, artificial chordae are an excellent alternative and are indispensable in extensive prolapse when native secondary chordae are not available.
+**AC:** One of the three fundamental principles of reconstructive valve surgery is to preserve or restore normal leaflet motion. A minimal prolapse, therefore, should always be corrected. If uncorrected, this lesion could lead to residual regurgitation, which could jeopardize the long-term durability of the repair.
 
-**DA: What are the potential advantages of native chordae over artificial chordae?**
-> **AC:** I have nothing against the use of artificial chordae now that long-term reports have shown acceptable results up to 10 to 15 years. I prefer native chordae whenever available for the following reasons:
+</div></details>
+
+<details class="med-details"><summary>
+
+### Limits of Triangular Resection on Anterior Leaflet (DA & AC)</summary><div class="details-content">
+
+**DA:** In anterior leaflet prolapse, how many triangular resections can be performed?
+
+**AC:** One, two, or rarely three small triangular resections can be performed on the anterior leaflet. However, the total surface area resected should not exceed 10% of the anterior leaflet surface area. If more tissue resection is needed, alternative techniques such as chordae transposition or chordae replacement should be used.
+
+</div></details>
+
+<details class="med-details"><summary>
+
+### Management of Inadvertent Leaflet Perforation (FF & AC)</summary><div class="details-content">
+
+**FF:** If an inadvertent leaflet perforation occurs during chordae transposition, how should it be managed?
+
+**AC:** This depends upon the size of the defect and the quality of the leaflet tissue. A small perforation (<2 mm) can be closed with a 5-0 or 6-0 monofilament suture. If the defect is larger or the tissue is fragile, a small autologous pericardial patch treated with glutaraldehyde should be used to close the defect.
+
+</div></details>
+
+<details class="med-details"><summary>
+
+### Native vs. Artificial Chordae as Primary Technique (FF & AC)</summary><div class="details-content">
+
+**FF:** Should artificial chordae be used as a primary technique in all cases of chordae rupture?
+
+**AC:** I personally believe that the techniques of small triangular resection and native secondary chordae transposition should remain the first choice whenever feasible because they utilize native living tissue and are technically very reproducible. However, artificial chordae are an excellent alternative and are indispensable in extensive prolapse when native secondary chordae are not available.
+
+</div></details>
+
+<details class="med-details"><summary>
+
+### Advantages of Native over Artificial Chordae (DA & AC)</summary><div class="details-content">
+
+**DA:** What are the potential advantages of native chordae over artificial chordae?
+
+**AC:** I have nothing against the use of artificial chordae now that long-term reports have shown acceptable results up to 10 to 15 years. I prefer native chordae whenever available for the following reasons:
 > 1. Native chordae are living tissue resistant to infection;
 > 2. Their physical characteristics of elasticity and pliability are physiological;
 > 3. Adjustment of length using the reference point method is natural;
 > 4. We have documented durability extending over 20 to 25 years.
 
-**FF: When are artificial chordae necessary?**
-> **AC:** Artificial chordae use is necessary in extensive prolapse when secondary chordae are absent, thin, or ruptured, or when previous endocarditis has destroyed the subvalvular apparatus. They are also useful when the anterior leaflet prolapse involves a large segment (such as the entire A2 or the commissural areas).
+</div></details>
 
-**FF: What is your opinion about the use of artificial chordae in chordae elongation?**
-> **AC:** In my opinion, artificial chordae do not provide an optimal solution in chordae elongation because the coexistence of native elongated chordae and synthetic chordae creates disparities in elasticity and compliance. Techniques that preserve and shorten native structures—such as papillary muscle sliding plasty or papillary muscle shortening—provide a more uniform distribution of stress.
+<details class="med-details"><summary>
 
-**FF: Are the results of chordae shortening reliable?**
-> **AC:** In our more than 20 years of experience extensively using this technique, we achieved durable results in the majority of patients. However, late ruptures were observed in some series. Based on what I have learned from my own experience, I believe the cause of these ruptures was chordae abrasion by sutures placed in direct contact with the chordae. This complication can be avoided by properly placing sutures away from the chordae, and using a pericardial pledget in contact with the buried chordae. Nevertheless, papillary muscle sliding plasty or papillary muscle shortening are preferred today, particularly in degenerative valvular disease.
+### Indications for Artificial Chordae (FF & AC)</summary><div class="details-content">
 
-**DA: Although your papillary muscle shortening technique is attractive since it shortens all the elongated chordae at once, the closure of the wedge resection raises some concern regarding possible dehiscence.**
-> **AC:** I have used this technique in hundreds of patients for more than 20 years. It is reliable and safe; otherwise, I would no longer use it. The closure of the wedge resection is secure enough to resist the systolic tension for several reasons: first, large bites are passed through the subendocardial layer, which is surprisingly strong; second, these sutures are vertical, nonpledgetted, and superficial enough to preserve the vascular network of the papillary muscle; third, fibrin effectively glues the edges of the trench once the circulation is restored; fourth, a remodeling annuloplasty ring is systematically used, which increases the surface of leaflet coaptation and therefore significantly reduces the tension on the chordae and papillary muscles.
+**FF:** When are artificial chordae necessary?
 
-**FF: Have you ever experienced papillary muscle dehiscence following this technique?**
-> **AC:** I remember one case in which the sutures cut through when I tied them. The papillary muscle had two heads that I tried to shorten. It was not a good indication. The valve had to be replaced. This was 1 case in more than 300. As you can see, it is a reliable technique. I must admit that it is a difficult technique, probably the most difficult of all the techniques I have developed, but the difficulty can be overcome by training on cadaver or pig hearts before applying it in clinical practice.
+**AC:** Artificial chordae use is necessary in extensive prolapse when secondary chordae are absent, thin, or ruptured, or when previous endocarditis has destroyed the subvalvular apparatus. They are also useful when the anterior leaflet prolapse involves a large segment (such as the entire A2 or the commissural areas).
 
-**DA: Describe your operative sequence for anterior leaflet prolapse caused by chordae rupture with excess posterior leaflet tissue.**
-> **AC:** Although the primary dysfunction is anterior leaflet prolapse, one should begin by first addressing the excess posterior leaflet tissue by using leaflet resection. This provides optimal access to the subvalvular apparatus and allows identification of posterior leaflet chordae suitable for chordae transposition. The second step is to correct the anterior leaflet prolapse by chordae transposition from either the posterior leaflet or the anterior leaflet, or both. The third step is to reconstruct the posterior leaflet, after which a ring is implanted.
+</div></details>
 
-**DA: What are the criteria for valve reconstruction in papillary muscle rupture?**
-> **AC:** The possibility of valve reconstruction depends upon the cause, the timing, and the type of rupture. In the setting of acute myocardial infarction, complete papillary muscle rupture is more rarely observed today than in the past because of earlier and more effective revascularization strategy. In this setting, a valve replacement is usually preferable. Partial rupture is seen more frequently but usually several weeks or months after myocardial infarction because the clinical picture is more favorable. At this stage, the myocardial infarction has already sustained a fibrotic transformation so that a valve reconstruction is generally feasible. In traumatic papillary muscle rupture, all effort should be attempted to save the valve using papillary muscle reimplantation either to the muscular wall or to an adjacent nonruptured papillary muscle. Artificial chordae can also be utilized. In all the cases, even if the annulus is not distended, the use of a prosthetic ring is advisable to reduce the load on the reconstructed papillary muscle.
+<details class="med-details"><summary>
 
-**DA: Why is recurrent prolapse relatively uncommon considering the genetic component of most degenerative valve diseases?**
-> **AC:** I believe there are two reasons for this. First, the principle of restoring a large surface of coaptation reduces the load on leaflet tissue and chordae. Second, the remodeling annuloplasty provides a harmonious and symmetrical distribution of stress on the different leaflet segments, thus stabilizing the valve reconstruction. In combination, these factors balance the genetic predisposition for progressive degeneration.
+### Artificial Chordae in Chordal Elongation (FF & AC)</summary><div class="details-content">
+
+**FF:** What is your opinion about the use of artificial chordae in chordae elongation?
+
+**AC:** In my opinion, artificial chordae do not provide an optimal solution in chordae elongation because the coexistence of native elongated chordae and synthetic chordae creates disparities in elasticity and compliance. Techniques that preserve and shorten native structures—such as papillary muscle sliding plasty or papillary muscle shortening—provide a more uniform distribution of stress.
+
+</div></details>
+
+<details class="med-details"><summary>
+
+### Reliability of Chordal Shortening (FF & AC)</summary><div class="details-content">
+
+**FF:** Are the results of chordae shortening reliable?
+
+**AC:** In our more than 20 years of experience extensively using this technique, we achieved durable results in the majority of patients. However, late ruptures were observed in some series. Based on what I have learned from my own experience, I believe the cause of these ruptures was chordae abrasion by sutures placed in direct contact with the chordae. This complication can be avoided by properly placing sutures away from the chordae, and using a pericardial pledget in contact with the buried chordae. Nevertheless, papillary muscle sliding plasty or papillary muscle shortening are preferred today, particularly in degenerative valvular disease.
+
+</div></details>
+
+<details class="med-details"><summary>
+
+### Safety of Papillary Muscle Shortening (DA & AC)</summary><div class="details-content">
+
+**DA:** Although your papillary muscle shortening technique is attractive since it shortens all the elongated chordae at once, the closure of the wedge resection raises some concern regarding possible dehiscence.
+
+**AC:** I have used this technique in hundreds of patients for more than 20 years. It is reliable and safe; otherwise, I would no longer use it. The closure of the wedge resection is secure enough to resist the systolic tension for several reasons: first, large bites are passed through the subendocardial layer, which is surprisingly strong; second, these sutures are vertical, nonpledgetted, and superficial enough to preserve the vascular network of the papillary muscle; third, fibrin effectively glues the edges of the trench once the circulation is restored; fourth, a remodeling annuloplasty ring is systematically used, which increases the surface of leaflet coaptation and therefore significantly reduces the tension on the chordae and papillary muscles.
+
+</div></details>
+
+<details class="med-details"><summary>
+
+### Risk of Papillary Muscle Dehiscence (FF & AC)</summary><div class="details-content">
+
+**FF:** Have you ever experienced papillary muscle dehiscence following this technique?
+
+**AC:** I remember one case in which the sutures cut through when I tied them. The papillary muscle had two heads that I tried to shorten. It was not a good indication. The valve had to be replaced. This was 1 case in more than 300. As you can see, it is a reliable technique. I must admit that it is a difficult technique, probably the most difficult of all the techniques I have developed, but the difficulty can be overcome by training on cadaver or pig hearts before applying it in clinical practice.
+
+</div></details>
+
+<details class="med-details"><summary>
+
+### Operative Sequence in Complex Anterior Prolapse (DA & AC)</summary><div class="details-content">
+
+**DA:** Describe your operative sequence for anterior leaflet prolapse caused by chordae rupture with excess posterior leaflet tissue.
+
+**AC:** Although the primary dysfunction is anterior leaflet prolapse, one should begin by first addressing the excess posterior leaflet tissue by using leaflet resection. This provides optimal access to the subvalvular apparatus and allows identification of posterior leaflet chordae suitable for chordae transposition. The second step is to correct the anterior leaflet prolapse by chordae transposition from either the posterior leaflet or the anterior leaflet, or both. The third step is to reconstruct the posterior leaflet, after which a ring is implanted.
+
+</div></details>
+
+<details class="med-details"><summary>
+
+### Criteria for Valve Reconstruction in Papillary Rupture (DA & AC)</summary><div class="details-content">
+
+**DA:** What are the criteria for valve reconstruction in papillary muscle rupture?
+
+**AC:** The possibility of valve reconstruction depends upon the cause, the timing, and the type of rupture. In the setting of acute myocardial infarction, complete papillary muscle rupture is more rarely observed today than in the past because of earlier and more effective revascularization strategy. In this setting, a valve replacement is usually preferable. Partial rupture is seen more frequently but usually several weeks or months after myocardial infarction because the clinical picture is more favorable. At this stage, the myocardial infarction has already sustained a fibrotic transformation so that a valve reconstruction is generally feasible. In traumatic papillary muscle rupture, all effort should be attempted to save the valve using papillary muscle reimplantation either to the muscular wall or to an adjacent nonruptured papillary muscle. Artificial chordae can also be utilized. In all the cases, even if the annulus is not distended, the use of a prosthetic ring is advisable to reduce the load on the reconstructed papillary muscle.
+
+</div></details>
+
+<details class="med-details"><summary>
+
+### Determinants of Low Recurrence in Degenerative Prolapse (DA & AC)</summary><div class="details-content">
+
+**DA:** Why is recurrent prolapse relatively uncommon considering the genetic component of most degenerative valve diseases?
+
+**AC:** I believe there are two reasons for this. First, the principle of restoring a large surface of coaptation reduces the load on leaflet tissue and chordae. Second, the remodeling annuloplasty provides a harmonious and symmetrical distribution of stress on the different leaflet segments, thus stabilizing the valve reconstruction. In combination, these factors balance the genetic predisposition for progressive degeneration.
+
+</div></details>
 
 </div></details>

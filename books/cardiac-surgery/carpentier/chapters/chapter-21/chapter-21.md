@@ -1,4 +1,4 @@
-# 21. Pathophysiology, Valve Analysis, and Surgical Indications
+# Chapter 21. Pathophysiology, Valve Analysis, and Surgical Indications
 
 <details class="med-details"><summary>
 
@@ -73,7 +73,9 @@ Aortic valve diseases involve either the leaflets themselves (primary valve dise
 #### Predominant Etiologic Patterns and Epidemiology
 The three most common etiologies encountered in clinical practice ([Figure 21-1](#fig-21-01)) are bicuspid valve malformation (a), rheumatic valvular disease (b), and calcified degenerative aortic valvular disease (c).
 
-<span id="fig-21-01"></span>![Figure 21-1. The three most common etiologies of aortic valve disease: (a) congenital bicuspid valve malformation, (b) rheumatic valvular disease with commissural fusion and retraction, and (c) calcified degenerative aortic valvular disease.](images/_page_217_Figure_21-1.jpeg)
+<span id="fig-21-01"></span>![](images/_page_217_Figure_21-1.jpeg)
+
+**FIGURE 21-1**
 
 In developing countries, rheumatic valvular disease remains the predominant etiology, whereas in developed countries, degenerative valve sclerosis leading to calcific aortic stenosis is observed with increasing frequency because of the aging of the population.
 
@@ -150,7 +152,9 @@ Aortic valve regurgitation is classified according to the amplitude of leaflet m
 #### Type I Dysfunction: Normal Leaflet Motion
 In Type I aortic valve regurgitation, the course of the leaflets between systole and diastole has a normal amplitude, and the free edge of the leaflets during diastole is well positioned above the annular plane ([Figure 21-2](#fig-21-02)).
 
-<span id="fig-21-02"></span>![Figure 21-2. Type I aortic valve regurgitation with normal leaflet motion. The amplitude of leaflet excursion is physiological, and the free edge is positioned above the annular plane during diastole; regurgitation results from central coaptation deficit due to annular dilatation, leaflet perforation, or infective vegetations.](images/_page_218_Figure_21-2.jpeg)
+<span id="fig-21-02"></span>![](images/_page_218_Figure_21-2.jpeg)
+
+**FIGURE 21-2**
 
 The regurgitation in Type I dysfunction results primarily from a central lack of coaptation between the leaflets, which is the direct consequence of aortic annular dilatation. Type I regurgitation may also result from localized leaflet tissue destruction, such as tears, perforations, or infective vegetations.
 
@@ -268,23 +272,43 @@ Severe calcific aortic valve stenosis in adult patients requires definitive valv
 
 <details class="med-details"><summary>
 
-## DISCUSSION</summary><div class="details-content">
+## CLINICAL DISCUSSION</summary><div class="details-content">
 
-#### FF: What are your respective indications for aortic valve reconstruction, biological valve replacement, or mechanical valve replacement in young patients?
+<details class="med-details"><summary>
+
+### What are your respective indications for aortic valve reconstruction, biological valve replacement, or mechanical valve replacement in young patients? (FF & AC)</summary><div class="details-content">
+
 **AC:** Three factors should be taken into consideration: the type of lesion, the patient's socioeconomic condition, and the patient's personal preference.
 
 As far as lesions are concerned, congenital malformations and aortic root disease with pliable leaflets can benefit from a valve repair or a valve-sparing operation. In rheumatic valvular disease, knowing that an aortic valve reconstruction has limited durability, better alternatives are the Ross operation or a prosthetic valve replacement. Whenever the patient requires or favors a nonthrombogenic valve substitute, a new-generation valvular bioprosthesis may be considered.
 
-#### FF: Can an aneurysm of a sinus of Valsalva produce aortic valve regurgitation?
+</div></details>
+
+<details class="med-details"><summary>
+
+### Can an aneurysm of a sinus of Valsalva produce aortic valve regurgitation? (FF & AC)</summary><div class="details-content">
+
 **AC:** An aneurysm of a sinus of Valsalva may develop without aortic valve regurgitation until the intercommissural distance or the sinotubular circumference dilates to such a point that a lack of apposition of the free edge is produced.
 
-#### FF: What are the possible causes of pressure gradients at the different levels of the left ventricular outflow tract?
+</div></details>
+
+<details class="med-details"><summary>
+
+### What are the possible causes of pressure gradients at the different levels of the left ventricular outflow tract? (FF & AC)</summary><div class="details-content">
+
 **AC:** There are multiple causes depending on the anatomical level of the aortic root:
 - At the left ventricular outflow tract level, one may encounter an infra-annular fibrous ring, asymmetric septal hypertrophy, excess mitral valve tissue, or systolic anterior motion (SAM) of the anterior mitral leaflet.
 - At the leaflet level, pressure gradients result from extensive calcification or leaflet fibrous retraction and thickening.
 - At the supravalvular level, the most common cause is congenital supravalvular stenosis.
 
-#### DA: In what circumstances do you favor a bio-Bentall procedure to a valve-sparing procedure?
+</div></details>
+
+<details class="med-details"><summary>
+
+### In what circumstances do you favor a bio-Bentall procedure to a valve-sparing procedure? (DA & AC)</summary><div class="details-content">
+
 **AC:** I recommend the bio-Bentall procedure in the following two circumstances: for elderly patients and for patients with severely depressed left ventricular function. In bicuspid valves, the appropriate role of the valve-sparing procedure remains to be determined.
+
+</div></details>
 
 </div></details>

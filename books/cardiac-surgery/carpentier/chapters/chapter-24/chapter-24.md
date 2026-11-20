@@ -1,4 +1,4 @@
-# 24. Tricuspid Valve Malformations: Ebstein's Anomaly
+# Chapter 24. Tricuspid Valve Malformations: Ebstein's Anomaly
 
 <details class="med-details"><summary>
 
@@ -59,7 +59,9 @@ Ebstein's anomaly has three characteristic features ([Fig. 24-1](#fig-24-01)):
 2. **Atrialized Right Ventricle:** An atrialized portion of the right ventricle above the attachment of the displaced posterior and septal leaflets (inlet portion) (c).
 3. **Right Ventricular Malformation:** A malformation of the right ventricle, which is markedly reduced in size beyond the tricuspid valve, does not have an inlet chamber, and may present with different degrees of reduced contractility.
 
-<span id="fig-24-01"></span>![Figure 24-1. Surgical anatomy of Ebstein's anomaly: downward displacement of the septal and posterior leaflets, sail-like anterior leaflet, and atrialized right ventricular chamber.](images/_page_247_Figure_24-1.jpeg)
+<span id="fig-24-01"></span>![](images/_page_247_Figure_24-1.jpeg)
+
+**FIGURE 24-1**
 
 #### Carpentier's Anatomical Classification
 
@@ -70,9 +72,13 @@ Depending on the severity of the anatomical lesions, four types of Ebstein's ano
 * **Type C:** The posterior and septal leaflets are markedly displaced downward and may be severely hypoplastic and adherent to the ventricle ([Fig. 24-3](#fig-24-03)). The atrialized chamber is very large, with a thin, noncontractile wall and branches of the right coronary artery flowing on its epicardial surface. The functional right ventricle is very small with a severely reduced contractility (a). The anterior leaflet, which may be partially muscular, has restricted motion resulting from interchordal space obliteration and has fibrous and/or muscular bands that attach the ventricular aspect of the valve to the ventricular wall (b). The posterolateral and anteroseptal commissures are well delineated. The communication between the atrialized chamber and the functional right ventricle may be restrictive and often displays a severe prolapse of its anterior edge. The left ventricle is small because of the paradoxical motion of the ventricular septum.
 * **Type D:** This anomaly is also named "Tricuspid sac" because the leaflets form a continuous sac of fibrous tissue partially adherent to the right ventricle except in the infundibular area. Communication between the fibrous sac and the infundibulum of the ventricle is achieved by a restrictive hole. The ventricular wall, to which the fibrous sac is adherent, is thin and poorly contractile. The only functional part of the right ventricle is the infundibulum.
 
-<span id="fig-24-02"></span>![Figure 24-2. Carpentier's anatomical classification of Ebstein's anomaly: Type A, Type B, Type C, and Type D.](images/_page_248_Figure_24-2.jpeg)
+<span id="fig-24-02"></span>![](images/_page_248_Figure_24-2.jpeg)
 
-<span id="fig-24-03"></span>![Figure 24-3. Type C Ebstein's anomaly: severe downward displacement, restricted anterior leaflet mobility, and reduced functional right ventricle.](images/_page_249_Figure_24-3.jpeg)
+**FIGURE 24-2**
+
+<span id="fig-24-03"></span>![](images/_page_249_Figure_24-3.jpeg)
+
+**FIGURE 24-3**
 
 <details class="med-details"><summary>
 
@@ -104,7 +110,9 @@ The hemodynamic consequence of Ebstein's malformation is predominantly tricuspid
 
 Tricuspid valve dysfunction in association with reduced right ventricular volume and opposing atrial contraction (i.e., diastolic in the atrium and systolic in the atrialized chamber) increase the pressure in the right atrium.
 
-<span id="fig-24-04"></span>![Figure 24-4. Pathophysiology of Ebstein's anomaly: tricuspid regurgitation, reduced right ventricular volume, opposing atrialized chamber contraction, and right-to-left shunt.](images/_page_249_Figure_24-4.jpeg)
+<span id="fig-24-04"></span>![](images/_page_249_Figure_24-4.jpeg)
+
+**FIGURE 24-4**
 
 #### Shunting and Arrhythmogenesis
 
@@ -142,7 +150,9 @@ Congestive heart failure occurs from poor right ventricular contractility and ap
 
 Both chest X-ray and computed tomography (CT) scan show a typical globular aspect of the cardiac silhouette resulting from severe dilatation of the right atrium and the atrialized chamber ([Fig. 24-5](#fig-24-05)).
 
-<span id="fig-24-05"></span>![Figure 24-5. Preoperative chest radiography of Ebstein's anomaly: marked cardiomegaly with characteristic globular cardiac silhouette.](images/_page_250_Figure_24-5.jpeg)
+<span id="fig-24-05"></span>![](images/_page_250_Figure_24-5.jpeg)
+
+**FIGURE 24-5**
 
 Two-dimensional echocardiography and transesophageal echocardiography allow assessment of the level of attachment of the leaflets, the number and position of papillary muscles, and the motion of the anterior leaflet, all of which aid in the determination of the type of malformation and the expected difficulty of the valvular reconstruction.
 
@@ -152,7 +162,9 @@ Echocardiography also helps identify associated congenital anomalies, the most f
 
 Cardiac magnetic resonance imaging (MRI) clearly shows the large atrialized chamber with the small right ventricle and reduced size of the left ventricle ([Fig. 24-6](#fig-24-06)).
 
-<span id="fig-24-06"></span>![Figure 24-6. Magnetic resonance imaging of Ebstein's anomaly: (a) axial four-chamber view showing massive atrialized chamber and compressed LV; (b) short-axis view of the small functional right ventricle.](images/_page_250_Figure_24-6.jpeg)
+<span id="fig-24-06"></span>![](images/_page_250_Figure_24-6.jpeg)
+
+**FIGURE 24-6**
 
 MRI provides accurate volumetric evaluation of the functional right ventricular cavity and quantifies the paradoxical septal shift compressing the left ventricular chamber.
 
@@ -201,9 +213,13 @@ The steps of the procedure are depicted in [Fig. 24-7](#fig-24-07) and [Fig. 24-
 * **Leaflet Rotation and Reattachment:** The mobilized anterior leaflet is rotated clockwise along the true tricuspid annulus to cover the valve orifice. The posterior leaflet is reattached adjacent to the anterior leaflet.
 * **Ring Annuloplasty:** A Carpentier-Edwards prosthetic tricuspid ring or a flexible ring is implanted to stabilize the annulus and remodel its orifice. In infants and young children, a biodegradable ring or suture annuloplasty is utilized to allow future somatic growth.
 
-<span id="fig-24-07"></span>![Figure 24-7. Carpentier's reconstructive technique: (a) surgical exposure and detachment of anterior and posterior leaflets; (b) division of tethering bands; (c) longitudinal plication of the atrialized chamber.](images/_page_251_Figure_24-7.jpeg)
+<span id="fig-24-07"></span>![](images/_page_251_Figure_24-7.jpeg)
 
-<span id="fig-24-07-cont"></span>![Figure 24-7 (continued). Carpentier's reconstructive technique: (d) exclusion of atrialized chamber; (e) clockwise rotation of mobilized leaflets; (f) prosthetic ring annuloplasty and closure of atrial septal defect.](images/_page_252_Figure_24-7_cont.jpeg)
+**FIGURE 24-7**
+
+<span id="fig-24-07-cont"></span>![](images/_page_252_Figure_24-7_cont.jpeg)
+
+**FIGURE 24-7**
 
 #### Surgical Technique in Type A Anomaly
 
@@ -213,7 +229,9 @@ Type A Ebstein's anomaly has a well-developed anterior leaflet and moderate down
 2. Limited longitudinal plication of the small atrialized chamber.
 3. Prosthetic ring annuloplasty with an appropriately sized ring ([Table 24-2](#table-24-02)).
 
-<span id="fig-24-08"></span>![Figure 24-8. Surgical repair in Type A Ebstein's anomaly: commissurotomy, limited longitudinal plication, and ring annuloplasty.](images/_page_253_Figure_24-8.jpeg)
+<span id="fig-24-08"></span>![](images/_page_253_Figure_24-8.jpeg)
+
+**FIGURE 24-8**
 
 <details class="med-details"><summary>
 
@@ -260,15 +278,21 @@ From 1980 to 2002, 191 patients were treated using this reconstructive approach 
 
 Actuarial survival at 20 years was 82 ± 5% ([Fig. 24-9](#fig-24-09)). 84% of surviving patients were in NYHA functional class I or II ([Fig. 24-10](#fig-24-10)). Only 7% had a grade 3+ residual tricuspid valve regurgitation, which was usually well tolerated when an adjunct bidirectional cavopulmonary shunt was performed.
 
-<span id="fig-24-09"></span>![Figure 24-9. Long-term actuarial survival following reconstructive surgery for Ebstein's anomaly (82 ± 5% at 20 years).](images/_page_254_Figure_24-9.jpeg)
+<span id="fig-24-09"></span>![](images/_page_254_Figure_24-9.jpeg)
 
-<span id="fig-24-10"></span>![Figure 24-10. Functional NYHA class distribution before and after surgical reconstruction for Ebstein's anomaly (84% in Class I or II postoperatively).](images/_page_254_Figure_24-10.jpeg)
+**FIGURE 24-9**
+
+<span id="fig-24-10"></span>![](images/_page_254_Figure_24-10.jpeg)
+
+**FIGURE 24-10**
 
 #### Reoperation and Conduction Complications
 
 Reoperations occurred in 8% ($n = 16$) of patients, resulting in an actuarial rate of freedom from reoperation of 88.6% at both 10 and 20 years ([Fig. 24-11](#fig-24-11)).
 
-<span id="fig-24-11"></span>![Figure 24-11. Actuarial freedom from reoperation following reconstructive surgery for Ebstein's anomaly (88.6% at 20 years).](images/_page_255_Figure_24-11.jpeg)
+<span id="fig-24-11"></span>![](images/_page_255_Figure_24-11.jpeg)
+
+**FIGURE 24-11**
 
 The incidence of complete atrioventricular block requiring pacemaker implantation was 5%. Echocardiography demonstrated significant postoperative reduction in right atrial dimensions and progressive remodeling of the functional right ventricle.
 
@@ -276,72 +300,116 @@ The incidence of complete atrioventricular block requiring pacemaker implantatio
 
 <details class="med-details"><summary>
 
-## DISCUSSION</summary><div class="details-content">
+## CLINICAL DISCUSSION</summary><div class="details-content">
 
-#### Surgical Experience and Historical Evolution
+<details class="med-details"><summary>
+
+### Surgical Experience and Historical Evolution (FF & AC)</summary><div class="details-content">
 
 **FF:** Ebstein's anomaly is so rare that most surgeons have very limited experience. Can you tell us about your personal experience and surgical evolution?
 
 **AC:** In the 1970's I contributed to cooperative programs with several surgical teams in various medical institutions in Europe. Ebstein's anomaly was one of the numerous complex valve diseases for which I was asked to operate. In the early days I was puzzled by the results of the classic technique, which was associated with significant hospital mortality and variable long-term outcome. Looking critically at these patients, I recognized that right ventricular function had a major impact on the outcome of these patients. Furthermore, it seemed to me that transverse plication of the atrialized chamber had a deleterious effect on patient outcome by reducing the volume of the remaining right ventricle. I thought that an ideal operation should not only restore good tricuspid valve function but also reestablish normal geometry of the right ventricle.
 
-#### Indications in Asymptomatic Patients
+</div></details>
+
+<details class="med-details"><summary>
+
+### Indications in Asymptomatic Patients (DA & AC)</summary><div class="details-content">
 
 **DA:** Do you recommend an early operation in asymptomatic patients?
 
 **AC:** The main issue with this malformation is the fact that patients with advanced forms of the disease present with signs of severe right ventricular dysfunction at the time of operation, which increases the hospital mortality and negatively impacts long-term survival. I am strongly in favor of early operations in asymptomatic patients, but only under the condition that the surgeon has the expertise to perform a valve reconstruction rather than a valve replacement.
 
-#### Diagnostic Thresholds and MRI Volumetry
+</div></details>
+
+<details class="med-details"><summary>
+
+### Diagnostic Thresholds and MRI Volumetry (FF & AC)</summary><div class="details-content">
 
 **FF:** In asymptomatic patients, do you use any diagnostic criteria, such as the degree of cardiomegaly, to indicate the operation?
 
 **AC:** Echo and MRI are important components of the workup of these patients. In the presence of a cardiothoracic ratio of 65% or more and/or a reduction of right ventricular volume of 30% or more on MRI, I recommend an operation even in the absence of symptoms.
 
-#### Right Coronary Artery Protection
+</div></details>
+
+<details class="med-details"><summary>
+
+### Right Coronary Artery Protection (DA & AC)</summary><div class="details-content">
 
 **DA:** Can you further elaborate on the risk of right coronary artery injury during the longitudinal plication of the atrialized chamber?
 
 **AC:** I have not seen a case of coronary artery kinking so far, and the risk appears more theoretical than real. The branches of the right coronary artery, however, can be damaged during longitudinal plication of the atrialized chamber. For this reason, the plication is performed from the inside of the cavity, and sutures are placed carefully to avoid deep bites that could compromise the coronary vessels on the epicardial surface.
 
-#### Bidirectional Cavopulmonary Shunt Indication
+</div></details>
+
+<details class="med-details"><summary>
+
+### Bidirectional Cavopulmonary Shunt Indication (FF & AC)</summary><div class="details-content">
 
 **FF:** Bidirectional cavo-pulmonary shunt is a useful adjunct in patients with right ventricular dysfunction. Do you have any quantitative data with respect to right ventricular function, such as ejection fraction on MRI, to further stratify patients who may benefit from this associated procedure?
 
 **AC:** Since MRI and echocardiography provide limited quantitative information, several other preoperative elements are used to determine patients who would benefit from a shunt, such as type D malformation, severity of regurgitation, pulmonary artery pressures, volume and contractility of the remaining right ventricle. Intraoperatively, the difficulty of weaning the patient from cardiopulmonary bypass is the most common indication for performing a shunt.
 
-#### Tricuspid Annuloplasty Ring Sizing
+</div></details>
+
+<details class="med-details"><summary>
+
+### Tricuspid Annuloplasty Ring Sizing (FF & AC)</summary><div class="details-content">
 
 **FF:** Do you use a ring annuloplasty in all patients?
 
 **AC:** In all patients except in young children, it is preferable to use a ring to stabilize the repair long term. In most instances, 32- to 34-mm rings can be used, which are large enough to avoid transvalvular gradients.
 
-#### Papillary Muscle Reimplantation
+</div></details>
+
+<details class="med-details"><summary>
+
+### Papillary Muscle Reimplantation (FF & AC)</summary><div class="details-content">
 
 **FF:** How often have you used a papillary muscle reimplantation as an adjunct technique?
 
 **AC:** I have used papillary muscle reimplantation in only five or six cases to correct severe anterior leaflet prolapse or tethering. I found this adjunct technique more reliable than the use of artificial chordae because of the variable distension of the right ventricle.
 
-#### Surgical Ablation of Accessory Pathways
+</div></details>
+
+<details class="med-details"><summary>
+
+### Surgical Ablation of Accessory Pathways (DA & AC)</summary><div class="details-content">
 
 **DA:** Can you elaborate on the effect of the reconstructive procedure on cardiac arrhythmia?
 
 **AC:** Because of the detachment of the anterior and posterior leaflets, the accessory conduction pathways located in the tricuspid annulus are severed; this explains why supraventricular arrhythmias are eliminated in more than 50% of patients.
 
-#### Permissible Degree of Residual Regurgitation
+</div></details>
+
+<details class="med-details"><summary>
+
+### Permissible Degree of Residual Regurgitation (FF & AC)</summary><div class="details-content">
 
 **FF:** What degree of residual tricuspid regurgitation do you accept following the reconstruction?
 
 **AC:** Some degree of residual tricuspid regurgitation is frequently observed in types C and D, which does not compromise the overall functional benefit usually observed after the reconstructive operation. The intraoperative evaluation by echocardiography of residual regurgitation should not be the only criteria. Intraoperative evaluation by the surgeon is critical to assess how the anterior and reattached posterior leaflets cover the orifice area. Filling the ventricle with saline after cross-clamping the pulmonary artery is also useful to diagnose a significant residual prolapse or tethering of the leaflets. In the presence of an adequate amount of leaflet tissue, mild to moderate residual regurgitation is acceptable in types C and D.
 
-#### Hemodynamic Protocol for Weaning from Bypass
+</div></details>
+
+<details class="med-details"><summary>
+
+### Hemodynamic Protocol for Weaning from Bypass (DA & AC)</summary><div class="details-content">
 
 **DA:** Can you provide some details regarding your protocol to wean these patients from cardiopulmonary bypass, particularly those with severe right ventricular dysfunction?
 
 **AC:** The protocol for weaning the patient from cardiopulmonary bypass is extremely important. A common mistake is filling the heart to reach a normal systolic arterial pressure of around 100 mm Hg. On the contrary, the heart should be kept underfilled with a mean arterial pressure of 60 to 70 mm Hg, which is often sufficient to maintain a good urine output. The filling of the heart should be very progressive. If the patient does not tolerate ventricular filling, inotropic agents can be administered at moderate dosage. If hemodynamics and urine output remain suboptimal, an intraaortic balloon pump should be inserted, particularly in patients with compromised left ventricular function. Finally, a cavo-pulmonary shunt should be strongly considered, mostly for patients with type D Ebstein's anomaly.
 
-#### Reconstructive Preservation vs Valve Replacement
+</div></details>
+
+<details class="med-details"><summary>
+
+### Reconstructive Preservation vs Valve Replacement (DA & AC)</summary><div class="details-content">
 
 **DA:** Do you think patients with type D Ebstein's anomaly should undergo primary valve replacement rather than a reconstructive procedure that may be associated with significant degrees of residual tricuspid regurgitation?
 
 **AC:** Contrary to other groups, valve replacement has been rarely used in our group, although I recognize that it is a valuable method to solve the problem of regurgitation. Valve replacement is associated with potential valve-related complications that I consider more deleterious than some degrees of residual regurgitation. In practice, valve replacement is performed in redo operations and in a few selected cases of type D Ebstein's anomaly. The total incidence of valve replacement has been less than 5% in our experience.
+
+</div></details>
 
 </div></details>

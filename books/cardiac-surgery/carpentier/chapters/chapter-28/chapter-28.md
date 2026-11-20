@@ -73,8 +73,9 @@ The diagnosis of endocarditis is more difficult in the setting of valve regurgit
 
 Echocardiography is an essential tool to confirm the diagnosis ([Fig. 28-1](#fig-28-01)). In addition to occasional native valve pathology, characteristic lesions such as vegetations, abscesses (a), leaflet perforations, or extensive chordae rupture (b) can be observed.
 
-<span id="fig-28-01"></span>![Figure 28-1. Echocardiographic hallmarks of infective endocarditis: (a) large mobile vegetation and subannular abscess cavity protruding at the leaflet base; (b) leaflet perforation and extensive flail posterior leaflet resulting from acute chordae rupture.](images/_page_286_Figure_28-1.jpeg)
-*Figure 28-1. Echocardiographic hallmarks of infective endocarditis: (a) large mobile vegetation and subannular abscess cavity protruding at the leaflet base; (b) leaflet perforation and extensive flail posterior leaflet resulting from acute chordae rupture.*
+<span id="fig-28-01"></span>![](images/_page_286_Figure_28-1.jpeg)
+
+**FIGURE 28-1**
 
 In the setting of healed endocarditis, the diagnosis is more difficult because the lesions are less characteristic. Vegetations and abscesses are typically replaced by leaflet thickening, scattered calcifications, and leaflet adhesions to the ventricular wall or to the papillary muscles. The diagnosis of healed endocarditis, however, is likely in the presence of commissural prolapse caused by chordae rupture.
 
@@ -132,8 +133,9 @@ Vegetations vary in size and rate of growth. Highly virulent organisms such as H
 
 Several types of lesions can be observed in mitral valve endocarditis ([Fig. 28-2](#fig-28-02)), such as vegetations and leaflet perforation (a), leaflet and annular abscess (b), and chordae rupture (c). Vegetations are commonly localized on the atrial side of the leaflets.
 
-<span id="fig-28-02"></span>![Figure 28-2. Intraoperative pathology in mitral valve endocarditis: (a) destructive leaflet perforation with surrounding fibrinoid vegetations; (b) localized leaflet and invasive annular abscess cavity; (c) extensive chordae rupture causing type II leaflet prolapse.](images/_page_287_Figure_28-2.jpeg)
-*Figure 28-2. Intraoperative pathology in mitral valve endocarditis: (a) destructive leaflet perforation with surrounding fibrinoid vegetations; (b) localized leaflet and invasive annular abscess cavity; (c) extensive chordae rupture causing type II leaflet prolapse.*
+<span id="fig-28-02"></span>![](images/_page_287_Figure_28-2.jpeg)
+
+**FIGURE 28-2**
 
 Valvular abscesses are typically seen within the body of a leaflet, most often the anterior leaflet. A leaflet abscess may form a true aneurysm, which is followed by leaflet perforation as the final stage in its evolution. A valvular abscess can also extend to the annulus and/or the aorto-mitral curtain, leading to anterior leaflet partial detachment. Annular abscess is the most deleterious lesion in mitral valve bacterial endocarditis since it can cause a false aneurysm of the left atrio-ventricular junction.
 
@@ -283,90 +285,146 @@ Since this publication, our more extensive experience and other publications hav
 
 <details class="med-details"><summary>
 
-## DISCUSSION</summary><div class="details-content">
+## CLINICAL DISCUSSION</summary><div class="details-content">
 
-#### Routine Head CT Scan in Endocarditis
+<details class="med-details"><summary>
+
+### Routine Head CT Scan in Endocarditis (DA & AC)</summary><div class="details-content">
 
 **DA:** Should a head CT scan be systematically performed in all patients with endocarditis?
 
 **AC:** A CT scan is mandatory in the presence of clinical neurological manifestations. Because of the existence of silent stroke, I also order a CT scan in patients presenting with vegetations.
 
-#### Timing of Surgery Following Neurological Events
+</div></details>
+
+<details class="med-details"><summary>
+
+### Timing of Surgery Following Neurological Events (FF & AC)</summary><div class="details-content">
 
 **FF:** What is the optimal timing of surgery following a neurological event?
 
 **AC:** Three main factors have to be considered: (1) the type of neurological event—ischemic versus hemorrhagic; (2) the hemodynamic conditions; (3) the size and mobility of the vegetations. If there is an emergent indication for surgery (such as hemodynamic compromise resistant to medical therapy), the surgery should not be postponed. If the patient remains stable, the surgery should be postponed for at least 14 days in the setting of hemorrhagic stroke and 7 days in the presence of ischemic stroke. In the latter situation, recent data suggest that surgery can be performed safely after 48 hours. Finally, if the vegetation responsible is large and mobile, increasing the risk of recurrent embolization, early intervention is recommended.
 
-#### Decision-Making Based on Vegetation Characteristics
+</div></details>
+
+<details class="med-details"><summary>
+
+### Decision-Making Based on Vegetation Characteristics (FF & AC)</summary><div class="details-content">
 
 **FF:** How important are the size, the shape, and the mobility of vegetations in your decision-making process to intervene early?
 
 **AC:** It is generally accepted that vegetations larger than 10 mm and mobile with prior episodes of embolization should be considered for early intervention. On the other hand, in the absence of episodes of embolization, the risk becomes minimal beyond 2 or 3 weeks, and medical treatment can be prolonged with the expectation that the vegetation will resolve.
 
-#### Management of Endocarditis in Moderate Mitral Stenosis
+</div></details>
+
+<details class="med-details"><summary>
+
+### Management of Endocarditis in Moderate Mitral Stenosis (FF & AC)</summary><div class="details-content">
 
 **FF:** Would you consider operating on an asymptomatic patient with moderate rheumatic mitral valve stenosis and endocarditis that has been effectively treated medically?
 
 **AC:** If the mitral valve stenosis is not severe enough to require surgical repair, I would treat the patient medically for at least 3 months. In the case of recurrence, valve surgery should be indicated even in moderate stenosis.
 
-#### Repair vs. Replacement in Cured Endocarditis
+</div></details>
+
+<details class="med-details"><summary>
+
+### Repair vs. Replacement in Cured Endocarditis (FF & AC)</summary><div class="details-content">
 
 **FF:** Would you consider valve replacement or valve reconstruction in the previous patient?
 
 **AC:** Valve reconstruction is preferable because it is more resistant to infection than a valvular prosthesis.
 
-#### Definition and Clinical Significance of "Kissing Lesions"
+</div></details>
+
+<details class="med-details"><summary>
+
+### Definition and Clinical Significance of "Kissing Lesions" (FF & AC)</summary><div class="details-content">
 
 **FF:** Can you precisely define a "kissing lesion"?
 
 **AC:** A kissing lesion is an infective process of the mitral valve that usually involves the anterior leaflet secondary to a perforation or a vegetation of the nearby aortic valve. More rarely a lesion of the belly of the anterior mitral leaflet contaminates the aortic leaflets. Any infective lesion of one of these valves should lead the surgeon to systematically explore the other valve.
 
-#### Surgical Exploration of Aortic Valve in Mitral Endocarditis
+</div></details>
+
+<details class="med-details"><summary>
+
+### Surgical Exploration of Aortic Valve in Mitral Endocarditis (DA & AC)</summary><div class="details-content">
 
 **DA:** With the availability of transesophageal echocardiography, should the aortic valve be surgically inspected systematically in the setting of mitral endocarditis?
 
 **AC:** Whenever there are extensive lesions of bacterial endocarditis of the mitral valve, it is preferable to inspect the aortic valve even in the absence of any lesion or aortic regurgitation. On several occasions, I have found tiny vegetations on the ventricular aspect of one or two aortic leaflets that I could easily remove by shaving and then sterilizing the site of implantation by local application of Betadine or glutaraldehyde.
 
-#### Surgical Strategy in Double-Valve Endocarditis
+</div></details>
+
+<details class="med-details"><summary>
+
+### Surgical Strategy in Double-Valve Endocarditis (DA & AC)</summary><div class="details-content">
 
 **DA:** In the setting of double valve endocarditis, if the aortic valve is replaced should the surgeon try to replace the mitral valve?
 
 **AC:** Long-term survival is superior with single valve replacement as compared to double valve replacement. Therefore the mitral valve should be reconstructed, not replaced, whenever feasible.
 
-#### Late Endocarditis with Previous Ring Annuloplasty
+</div></details>
+
+<details class="med-details"><summary>
+
+### Late Endocarditis with Previous Ring Annuloplasty (FF & AC)</summary><div class="details-content">
 
 **FF:** In a patient with a previous ring annuloplasty who develops a late endocarditis limited to the leaflet tissue while the prosthetic ring appears well endothelialized, what is your attitude regarding the ring?
 
 **AC:** The ring should be systematically removed and replaced. The endocardial covering should be carefully excised, the valve lesions should be corrected, and a new ring should be implanted, placing sutures slightly outside of the groove left by the previous ring.
 
-#### Limits of Leaflet Tissue Resection
+</div></details>
+
+<details class="med-details"><summary>
+
+### Limits of Leaflet Tissue Resection (DA & AC)</summary><div class="details-content">
 
 **DA:** Is there a limitation in the amount of leaflet tissue you can remove without compromising a valvular reconstruction in patients with mitral valve bacterial endocarditis?
 
 **AC:** There is very little limitation in the amount of anterior leaflet tissue you can remove and replace by pericardial patching. On several occasions I had the opportunity to replace almost the entire anterior leaflet, taking advantage that the free edge of the leaflet and the supporting marginal chordae could be spared intact. As far as the mural leaflet is concerned, a resection of more than 40% of the total surface area would compromise the result.
 
-#### Indications for Remodeling Annuloplasty
+</div></details>
+
+<details class="med-details"><summary>
+
+### Indications for Remodeling Annuloplasty (FF & AC)</summary><div class="details-content">
 
 **FF:** Should a remodeling annuloplasty be performed in every patient?
 
 **AC:** A remodeling annuloplasty should be performed only whenever necessary—that is, whenever the annulus is dilated and deformed. In the case of quadrangular resection and annular plication, one may have the temptation of not using a ring because the annulus has resumed a normal size. This is an acceptable attitude in bacterial endocarditis if the annulus is not affected by the disease process nor severely dilated. In contrast, in bacterial endocarditis complicating the course of degenerative or rheumatic valvular diseases, the original pathological process also involves the annulus and makes reinforcement of the annulus by a remodeling annuloplasty preferable.
 
-#### Pericardial vs. Prosthetic Ring Annuloplasty
+</div></details>
+
+<details class="med-details"><summary>
+
+### Pericardial vs. Prosthetic Ring Annuloplasty (FF & AC)</summary><div class="details-content">
 
 **FF:** Is there a role for pericardial annuloplasty?
 
 **AC:** It has been said that a pericardial annuloplasty is more resistant to recurrent infection than a prosthetic ring. However, in our experience the use of a prosthetic ring has been associated with a minimal risk of recurrent infection provided that all infected tissues have been carefully excised. Thus I believe there is no reason for forgoing the use of a remodeling annuloplasty ring that can provide optimal reconstruction.
 
-#### Safety of Prosthetic Rings in Acute Endocarditis
+</div></details>
+
+<details class="med-details"><summary>
+
+### Safety of Prosthetic Rings in Acute Endocarditis (DA & AC)</summary><div class="details-content">
 
 **DA:** Some surgeons hesitate to use prosthetic ring annuloplasty because of concerns about recurrent infection. What is your impression of this practice?
 
 **AC:** If the infection process does not involve the annulus, a prosthetic ring can be used safely when indicated. If the infection extends to the annulus, all infected lesions must be excised. The excised tissue is replaced by pericardium, and a prosthetic ring is inserted if necessary. In a series of more than 100 patients with acute endocarditis treated conservatively using a ring, I have seen only 2 cases of recurrent infection, which occurred several years after the initial surgery.
 
-#### Local Chemical Sterilization with Glutaraldehyde
+</div></details>
+
+<details class="med-details"><summary>
+
+### Local Chemical Sterilization with Glutaraldehyde (FF & AC)</summary><div class="details-content">
 
 **FF:** You mention that whenever localized lesion can be excised without creating leaflet perforation, you sterilize the valve by local application of glutaraldehyde.
 
 **AC:** This technique allows to preserve the valve. I have not seen a recurrent infection due to this technique.
+
+</div></details>
 
 </div></details>

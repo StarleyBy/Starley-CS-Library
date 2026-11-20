@@ -1,4 +1,4 @@
-# 11. Techniques in Type II Posterior Leaflet Prolapse
+# Chapter 11. Techniques in Type II Posterior Leaflet Prolapse
 
 <details class="med-details"><summary>
 
@@ -84,7 +84,7 @@ A triangular leaflet resection ([Fig. 11-1](#fig-11-01)) avoids this drawback. I
 
 <span id="fig-11-01"></span>![](_page_124_Figure_11-1.jpeg)
 
-**FIGURE 11-1** Triangular leaflet resection: historical McGoon's plication (a, inset); anatomical assessment of prolapse margin $B \le A/3$ (b); placement of 2-0 stay sutures around normal boundary chordae and definition of triangle height $H > B$ (c); convex resection of diseased leaflet segment (d); restoration of leaflet continuity with interrupted sutures (e, f); placement of inverted sutures with ventricular knots (g); nerve hook testing for residual defects (h); closure of adjacent opened indentations (i).
+**FIGURE 11-1**
 
 #### Surgical Technique of Triangular Resection
 
@@ -102,7 +102,7 @@ Once the leaflet continuity has been restored, the adjacent indentations are car
 
 <span id="fig-11-02"></span>![](_page_125_Figure_11-2.jpeg)
 
-**FIGURE 11-2** Extensive prolapse of posterior leaflet: extensive prolapse involving $>1/3$ of free margin (a); adverse consequence of large triangular resection producing excessive free edge tension, restricted motion, and separation of adjacent indentations (b); quadrangular resection with annular plication restoring normal tension and alignment (c); symmetrical and asymmetrical quadrangular resection patterns (d).
+**FIGURE 11-2**
 
 #### Chordal Transposition, Replacement, and Shortening
 
@@ -140,7 +140,7 @@ Quadrangular resection of the prolapsed area with annular plication is used only
 
 <span id="fig-11-03"></span>![](_page_126_Figure_11-3.jpeg)
 
-**FIGURE 11-3** Quadrangular resection with annular plication: identification of boundary normal chordae and trapezoidal resection keeping functional indentations (a); resection of restrictive secondary chordae near edges (b); measurement of remnant height (<20 mm) and gap (<20 mm) (c); annular plication with 2-0 mattress suture (d, e); placement of figure-of-eight plicating suture (f); approximation inspection and additional annular bite if required (g); restoration of leaflet continuity with 5-0 sutures (h); nerve hook inspection and correction of residual gaps (i, inset).
+**FIGURE 11-3**
 
 #### Step-by-Step Surgical Execution
 
@@ -168,7 +168,7 @@ Each detached remnant is reattached to the annulus while exerting gentle tractio
 
 <span id="fig-11-04"></span>![](_page_127_Figure_11-4.jpeg)
 
-**FIGURE 11-4** Quadrangular resection with leaflet height adjustment: asymmetric remnant height >20 mm (a); bilateral remnant excess height (b); basal horizontal triangular resection reducing remnant height to 15 mm (c); reattachment of remnants to annulus with gentle sliding traction to close the gap prior to annuloplasty (d).
+**FIGURE 11-4**
 
 </div></details>
 
@@ -184,7 +184,7 @@ The sliding leaflet technique is rarely used only in very extensive posterior le
 
 <span id="fig-11-05"></span>![](_page_128_Figure_11-5.jpeg)
 
-**FIGURE 11-5** Sliding leaflet technique (detachment and compression sutures): broad resection gap $\ge 20$ mm (a); bilateral leaflet detachment along annulus equal to half gap length (b, c); resection of basal and secondary chordae near edges to mobilize remnants (d); placement of 2-0 braided compression sutures passing through annulus to ventricular side (e); return bite from ventricular side to atrium (f).
+**FIGURE 11-5**
 
 #### Detachment of Leaflet Remnants and Chordal Release
 
@@ -204,7 +204,7 @@ Taking advantage of the large exposure of the mitral annulus, additional mattres
 
 <span id="fig-11-05-cont"></span>![](_page_129_Figure_11-5_cont.jpeg)
 
-**FIGURE 11-5 (cont'd)** Sliding leaflet technique (compression and ring sutures): placement of 3 to 4 compression sutures with larger bites beyond resection gap (g); pulling sutures to compress annulus without plication (h); tying compression sutures and placing additional ring mattress sutures (i).
+**FIGURE 11-5 (Cont'd)**
 
 #### Leaflet Remnant Height Reduction
 
@@ -216,7 +216,7 @@ The height of each remnant may not be identical, so the resection should be adap
 
 <span id="fig-11-06"></span>![](_page_129_Figure_11-6.jpeg)
 
-**FIGURE 11-6** Leaflet remnant height reduction: measurement of remnant height exceeding 20 mm (inset a); basal horizontal triangular resection tailored to restore optimal remnant height of 10 to 15 mm to prevent systolic anterior motion (inset b).
+**FIGURE 11-6**
 
 #### Remnant Fixation to the Annulus
 
@@ -234,7 +234,7 @@ The suture line is checked with a nerve hook to detect any residual defect. Leaf
 
 <span id="fig-11-07"></span>![](_page_130_Figure_11-7.jpeg)
 
-**FIGURE 11-7** Remnant fixation to the annulus: securing leaflet remnants to annulus with continuous 4-0 suture passing through annulus and remnant base (a, inset); exerting sliding traction to advance tissue toward the gap, restoring continuity, and completing ring annuloplasty (b, c, d).
+**FIGURE 11-7**
 
 #### Alternative Annular Fixation Technique
 
@@ -244,7 +244,7 @@ This modality has the advantage of further reducing the height of the posterior 
 
 <span id="fig-11-08"></span>![](_page_131_Figure_11-8.jpeg)
 
-**FIGURE 11-8** Alternative technique for leaflet remnant fixation: passing annular mattress sutures with pledgets through the base of leaflet remnants directly into the sewing band of the prosthetic ring, compressing excess height and seating the ring above the repair line (inset).
+**FIGURE 11-8**
 
 </div></details>
 
@@ -280,7 +280,7 @@ If the prolapse persists, it should be treated by an additional chordae transpos
 
 <span id="fig-11-09"></span>![](_page_132_Figure_11-9.jpeg)
 
-**FIGURE 11-9** Multiple segment prolapse and surgical options: classic isolated P2 prolapse (a); multi-segment prolapse involving P2 and P3 (b); limited triangular resections for moderate multi-segment excess tissue (c); prohibition of excessive resection >40% total surface area (d); composite repair combining resection of dominant segment with sliding plasty and chordal transposition/replacement for adjacent segment (e).
+**FIGURE 11-9**
 
 </div></details>
 
@@ -298,101 +298,138 @@ A tailored surgical strategy ensures maximal restoration of valve competence, pr
 
 <details class="med-details"><summary>
 
-## DISCUSSION</summary><div class="details-content">
+## CLINICAL DISCUSSION</summary><div class="details-content">
 
-#### Technical and Conceptual Evolution
+<details class="med-details"><summary>
+
+### Technical and Conceptual Evolution (FF & AC)</summary><div class="details-content">
 
 **FF: Do you see any evolution in the use of the different techniques of valve reconstruction during the last decade?**
-> **AC:** Two aspects should be considered: the evolution of the techniques and the evolution of the indications. As far as the techniques are concerned, the basic principles of valve reconstruction have been validated by most surgeons. Some think they could "simplify" this surgery by not resecting pathological tissues, by not remodelling the annulus, and/or by artefacts limiting the motion of the leaflets. These palliative techniques may be appealing for a surgeon, but they are not as reliable as reconstructive techniques because they don't respect the three basic principles of valve reconstruction.
-> 
-> By contrast, a true technical advance has been the introduction of mini invasive reconstructive valve surgery. Even if they don't use the optimal port access techniques, many surgeons today limit the skin incision and sternal retraction to half the distances used in the past. This has been associated with reduced pain, reduced bleeding, and reduced sternal and respiratory complications.
+**AC:** Two aspects should be considered: the evolution of the techniques and the evolution of the indications. As far as the techniques are concerned, the basic principles of valve reconstruction have been validated by most surgeons. Some think they could "simplify" this surgery by not resecting pathological tissues, by not remodelling the annulus, and/or by artefacts limiting the motion of the leaflets. These palliative techniques may be appealing for a surgeon, but they are not as reliable as reconstructive techniques because they don't respect the three basic principles of valve reconstruction.
+By contrast, a true technical advance has been the introduction of mini invasive reconstructive valve surgery. Even if they don't use the optimal port access techniques, many surgeons today limit the skin incision and sternal retraction to half the distances used in the past. This has been associated with reduced pain, reduced bleeding, and reduced sternal and respiratory complications.
 
-#### Evolution of Surgical Indications
+</div></details>
+
+<details class="med-details"><summary>
+
+### Evolution of Surgical Indications (FF & AC)</summary><div class="details-content">
 
 **FF: What about the evolution in the indications?**
-> **AC:** We should rather call it a revolution in which both the surgeons and cardiologists have participated; the surgeon by adopting true reconstructive techniques and reporting excellent long-term results for up to 25 years, and the cardiologists by dramatically changing their surgical indications to the point of referring asymptomatic patients.
-> 
-> One or two decades ago, most of the patients referred to surgery were in NYHA functional class III or IV. Due to a long-lasting evolution, the advanced lesions required complex techniques and large leaflet resection.
-> 
-> Today, patients are referred much earlier with less evolving lesions so that a great proportion of the patients with fibroelastic deficiency and posterior leaflet prolapse can be treated by more limited leaflet resection or even chordae transposition with no resection whenever there is no significant excess tissue.
+**AC:** We should rather call it a revolution in which both the surgeons and cardiologists have participated; the surgeon by adopting true reconstructive techniques and reporting excellent long-term results for up to 25 years, and the cardiologists by dramatically changing their surgical indications to the point of referring asymptomatic patients.
+One or two decades ago, most of the patients referred to surgery were in NYHA functional class III or IV. Due to a long-lasting evolution, the advanced lesions required complex techniques and large leaflet resection.
+Today, patients are referred much earlier with less evolving lesions so that a great proportion of the patients with fibroelastic deficiency and posterior leaflet prolapse can be treated by more limited leaflet resection or even chordae transposition with no resection whenever there is no significant excess tissue.
 
-#### Management of Leaflet Height and SAM Prevention
+</div></details>
+
+<details class="med-details"><summary>
+
+### Management of Leaflet Height and SAM Prevention (DA & AC)</summary><div class="details-content">
 
 **DA: Does correction of excess height of the posterior leaflet always require a sliding leaflet technique?**
-> **AC:** Many people think it does. But this depends on the amount of excess leaflet tissue and the geometry of the leaflet segments involved.
-> 
-> Whenever only the height of a leaflet segment is increased, height reduction can be achieved by the simple technique of ovoid transverse resection at the base of the leaflet segment.
-> 
-> Whenever a large amount of excess tissue is present and requires a large quadrangular resection, a sliding leaflet technique is mandatory with reduction to 20 mm of the height of the leaflet remnants.
+**AC:** Many people think it does. But this depends on the amount of excess leaflet tissue and the geometry of the leaflet segments involved.
+Whenever only the height of a leaflet segment is increased, height reduction can be achieved by the simple technique of ovoid transverse resection at the base of the leaflet segment.
+Whenever a large amount of excess tissue is present and requires a large quadrangular resection, a sliding leaflet technique is mandatory with reduction to 20 mm of the height of the leaflet remnants.
 
-#### Management of Resection Gaps and Remnant Alignment
+</div></details>
+
+<details class="med-details"><summary>
+
+### Management of Resection Gaps and Remnant Alignment (DA & AC)</summary><div class="details-content">
 
 **DA: After quadrangular leaflet resection, some surgeons advise rotation of the free edge of the remnants to cover the gap created by the resection. What is your opinion?**
-> **AC:** You can do it for a small gap, but when dealing with a larger gap this technique distorts the geometry of the leaflet remnants, leading to excess tension on the leaflet free edge and enlargement of the adjacent indentations.
-> 
-> An asymmetrical or symmetrical sliding leaflet plasty is preferable because it avoids these drawbacks.
+**AC:** You can do it for a small gap, but when dealing with a larger gap this technique distorts the geometry of the leaflet remnants, leading to excess tension on the leaflet free edge and enlargement of the adjacent indentations.
+An asymmetrical or symmetrical sliding leaflet plasty is preferable because it avoids these drawbacks.
 
-#### Biomechanical Effects of Leaflet Sliding
+</div></details>
+
+<details class="med-details"><summary>
+
+### Biomechanical Effects of Leaflet Sliding (FF & AC)</summary><div class="details-content">
 
 **FF: Does the sliding of a leaflet segment--P1 for example--correct a moderate degree of prolapse of this particular segment?**
-> **AC:** The sliding displaces chordae laterally. As a result of their new oblique orientation more tension is applied on the leaflet edge. The sliding may therefore correct a moderate degree of prolapse.
+**AC:** The sliding displaces chordae laterally. As a result of their new oblique orientation more tension is applied on the leaflet edge. The sliding may therefore correct a moderate degree of prolapse.
 
-#### Annular Remodeling and Echocardiographic Leaflet Motion
+</div></details>
+
+<details class="med-details"><summary>
+
+### Annular Remodeling and Echocardiographic Leaflet Motion (FF & AC)</summary><div class="details-content">
 
 **FF: After remodeling annuloplasty, a restricted posterior leaflet motion is frequently observed on echo with the posterior leaflet poorly moving, only serving as a buttress against which the anterior leaflet coapts. Can you comment on that?**
-> **AC:** Two mechanisms can be evoked to explain this frequently observed finding. The first is the pronounced reverse remodeling of the base of the heart due to the systolic remodeling of the annulus by the ring. This increases the distance between the leaflet-free edge and the papillary muscle, leading to a certain degree of leaflet tethering. This tethering often disappears after a few months once the ventricular remodeling has taken place.
-> 
-> The second mechanism is the absence of functional posterior leaflet indentations because either they are fused or have been resected or sutured. For this reason, I insist on limiting the extent of leaflet resection, preserving one or two indentations of the posterior leaflet as they contribute to wider valve opening.
-> 
-> Finally, I like to emphasize that this is an echocardiographic finding without significant clinical relevance as shown by our 92% freedom from reoperation at 20 years in degenerative valvular disease.
+**AC:** Two mechanisms can be evoked to explain this frequently observed finding. The first is the pronounced reverse remodeling of the base of the heart due to the systolic remodeling of the annulus by the ring. This increases the distance between the leaflet-free edge and the papillary muscle, leading to a certain degree of leaflet tethering. This tethering often disappears after a few months once the ventricular remodeling has taken place.
+The second mechanism is the absence of functional posterior leaflet indentations because either they are fused or have been resected or sutured. For this reason, I insist on limiting the extent of leaflet resection, preserving one or two indentations of the posterior leaflet as they contribute to wider valve opening.
+Finally, I like to emphasize that this is an echocardiographic finding without significant clinical relevance as shown by our 92% freedom from reoperation at 20 years in degenerative valvular disease.
 
-#### "One Lesion, One Technique" vs. Universal Approaches
+</div></details>
+
+<details class="med-details"><summary>
+
+### "One Lesion, One Technique" vs. Universal Approaches (DA & AC)</summary><div class="details-content">
 
 **DA: The concept of "one lesion one technique" you developed during the past three decades has been challenged recently by the concept of "all lesions one technique," namely the edge-to-edge suture technique or Gore-Tex chordae without true annuloplasty.**
-> **AC:** It is a natural tendency of man to look for panacea, I mean, to search for a universal solution to address several problems. Another trend is to favour simple techniques because they are less demanding.
-> 
-> I like simple solutions too, and I frequently use limited leaflet resection, chordae transfer, and no ring whenever this is possible. But, given the diversity and the complexity of many valvular lesions, it is just not realistic to think that they can all be treated durably with a simple technique, particularly if you want to broaden your indications and to give the benefit of valve reconstruction to more complex cases.
+**AC:** It is a natural tendency of man to look for panacea, I mean, to search for a universal solution to address several problems. Another trend is to favour simple techniques because they are less demanding.
+I like simple solutions too, and I frequently use limited leaflet resection, chordae transfer, and no ring whenever this is possible. But, given the diversity and the complexity of many valvular lesions, it is just not realistic to think that they can all be treated durably with a simple technique, particularly if you want to broaden your indications and to give the benefit of valve reconstruction to more complex cases.
 
-#### Evaluation of the Edge-to-Edge Technique
+</div></details>
+
+<details class="med-details"><summary>
+
+### Evaluation of the Edge-to-Edge Technique (DA & AC)</summary><div class="details-content">
 
 **DA: What do you think about the edge-to-edge suture technique?**
-> **AC:** This technique was originally described and used in the early time of valve surgery by Lillehei and Nichols in 1960. It was abandoned some years later because of unreliable and suboptimal results. I refer to it as a palliative and not a reconstructive technique because it does not respect the fundamental principle of preserving or restoring full leaflet mobility.
-> 
-> In addition, it does not make sense to me to increase the load on a non-prolapsed leaflet, the substance of which is affected by the same degenerative process. When your mule is tired, you don't put an additional sack of wheat on its back. Do you?
+**AC:** This technique was originally described and used in the early time of valve surgery by Lillehei and Nichols in 1960. It was abandoned some years later because of unreliable and suboptimal results. I refer to it as a palliative and not a reconstructive technique because it does not respect the fundamental principle of preserving or restoring full leaflet mobility.
+In addition, it does not make sense to me to increase the load on a non-prolapsed leaflet, the substance of which is affected by the same degenerative process. When your mule is tired, you don't put an additional sack of wheat on its back. Do you?
 
-#### Long-Term Risks of Edge-to-Edge Repair
+</div></details>
+
+<details class="med-details"><summary>
+
+### Long-Term Risks of Edge-to-Edge Repair (FF & AC)</summary><div class="details-content">
 
 **FF: What else?**
-> **AC:** Another potential disadvantage of the edge-to-edge suture technique, in my opinion, is that, more often than said, it is a "no-return technique." Whenever the result is not satisfactory, it makes it difficult, and often impossible after some time, to carry on a genuine redo reconstructive valve operation because the edge-to-edge suture produces tight adhesions between the two leaflets, which are difficult to separate.
-> 
-> In addition, flow turbulence produced by the narrower orifices is a likely trigger of leaflet fibrosis and calcification as we learned from the palliative techniques of commissure plication used in the past.
-> 
-> The natural history of rheumatic valvular disease with fused commissures teaches the same lesson. These experiences warn us that the most probable long-term fate of an edge-to-edge repair is valve replacement.
+**AC:** Another potential disadvantage of the edge-to-edge suture technique, in my opinion, is that, more often than said, it is a "no-return technique." Whenever the result is not satisfactory, it makes it difficult, and often impossible after some time, to carry on a genuine redo reconstructive valve operation because the edge-to-edge suture produces tight adhesions between the two leaflets, which are difficult to separate.
+In addition, flow turbulence produced by the narrower orifices is a likely trigger of leaflet fibrosis and calcification as we learned from the palliative techniques of commissure plication used in the past.
+The natural history of rheumatic valvular disease with fused commissures teaches the same lesson. These experiences warn us that the most probable long-term fate of an edge-to-edge repair is valve replacement.
 
-#### Artificial Chordae vs. Leaflet Resection
+</div></details>
+
+<details class="med-details"><summary>
+
+### Artificial Chordae vs. Leaflet Resection (FF & AC)</summary><div class="details-content">
 
 **FF: What do you think about the use of artificial chordae without leaflet resection to treat posterior leaflet prolapse?**
-> **AC:** Your question raises two different issues: first, leaflet resection; second, the use of artificial chordae. Correction of leaflet prolapse without a resection is a valuable technique in the early phase of mitral valve regurgitation before the prolapse has generated leaflet tissue proliferation and secondary lesions. At a later stage when significant excess tissue has developed, a partial resection is a preferable technique.
-> 
-> The rationale is based on the Laplace's law, which states that the larger a spheric surface the greater the surface tension. Finite element studies have validated this in the setting of excess mitral valvular tissue. Leaving a large amount of excess leaflet tissue may have a negative impact that results from increased tension on the leaflets, the chordae, and the annulus.
-> 
-> Removal of excess tissue by limited triangular or quadrangular leaflet resections is such a simple, logical, and well-proven durable procedure that I am surprised that some surgeons are reluctant to use it. Now, with regards to the use of artificial chordae to correct the prolapse, I use it from time to time, but the alternative technique of chordae transposition whenever feasible is simpler, less hazardous, and more physiological. It has been validated by many surgeons with very long-term follow-up.
+**AC:** Your question raises two different issues: first, leaflet resection; second, the use of artificial chordae. Correction of leaflet prolapse without a resection is a valuable technique in the early phase of mitral valve regurgitation before the prolapse has generated leaflet tissue proliferation and secondary lesions. At a later stage when significant excess tissue has developed, a partial resection is a preferable technique.
+The rationale is based on the Laplace's law, which states that the larger a spheric surface the greater the surface tension. Finite element studies have validated this in the setting of excess mitral valvular tissue. Leaving a large amount of excess leaflet tissue may have a negative impact that results from increased tension on the leaflets, the chordae, and the annulus.
+Removal of excess tissue by limited triangular or quadrangular leaflet resections is such a simple, logical, and well-proven durable procedure that I am surprised that some surgeons are reluctant to use it. Now, with regards to the use of artificial chordae to correct the prolapse, I use it from time to time, but the alternative technique of chordae transposition whenever feasible is simpler, less hazardous, and more physiological. It has been validated by many surgeons with very long-term follow-up.
 
-#### Clinical Impact of Retained Excess Tissue
+</div></details>
+
+<details class="med-details"><summary>
+
+### Clinical Impact of Retained Excess Tissue (FF & AC)</summary><div class="details-content">
 
 **FF: When excess tissue is left in place, does it impair valvular function in the long term?**
-> **AC:** This depends on the amount of excess pathological tissue kept in place. The more pathological tissue, the higher the risk of further leaflet distension or fibrous retraction.
+**AC:** This depends on the amount of excess pathological tissue kept in place. The more pathological tissue, the higher the risk of further leaflet distension or fibrous retraction.
 
-#### Multi-Segment Prolapse Strategy
+</div></details>
+
+<details class="med-details"><summary>
+
+### Multi-Segment Prolapse Strategy (FF & AC)</summary><div class="details-content">
 
 **FF: What is your strategy whenever the prolapse involves multiple segments of the posterior leaflet?**
-> **AC:** The most severe lesions should be resected. Segments with acceptable mobility should be preserved and corrected by chordae shortening, chordae transposition or artificial chordae in order to save as much tissue as possible.
+**AC:** The most severe lesions should be resected. Segments with acceptable mobility should be preserved and corrected by chordae shortening, chordae transposition or artificial chordae in order to save as much tissue as possible.
 
-#### Evaluation Criteria for Emerging Techniques
+</div></details>
+
+<details class="med-details"><summary>
+
+### Evaluation Criteria for Emerging Techniques (FF & AC)</summary><div class="details-content">
 
 **FF: Generally speaking, what place should be given to new reconstructive techniques and new rings that are seen to proliferate today?**
-> **AC:** The place they deserve. I see three conditions. First, they should address an unsolved problem; second, they should be scientifically tested by studies with patient consent; third they should prove to be equal to or superior to current reconstructive techniques.
-> 
-> Remember that the gold standard in symptomatic patients with degenerative valvular disease is a 92% freedom from reoperation at 20 years. Any new technique should challenge these results.
+**AC:** The place they deserve. I see three conditions. First, they should address an unsolved problem; second, they should be scientifically tested by studies with patient consent; third they should prove to be equal to or superior to current reconstructive techniques.
+Remember that the gold standard in symptomatic patients with degenerative valvular disease is a 92% freedom from reoperation at 20 years. Any new technique should challenge these results.
+
+</div></details>
 
 </div></details>

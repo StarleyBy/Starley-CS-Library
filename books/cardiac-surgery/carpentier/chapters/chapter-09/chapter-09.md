@@ -1,4 +1,4 @@
-# 9. Extensive Annular Calcification and Abscesses
+# Chapter 9. Extensive Annular Calcification and Abscesses
 
 <details class="med-details"><summary>
 
@@ -44,7 +44,7 @@ The calcium bar may extend deeply into the ventricular myocardium, creating a hi
 
 <span id="fig-09-01"></span>![](_page_94_Figure_9-1.jpeg)
 
-**FIGURE 9-1** Types of annular calcification: (a) Localized bar of calcium involving the posterior annulus; (b) Circumferential calcium bar.
+**FIGURE 9-1**
 
 </div></details>
 
@@ -60,7 +60,7 @@ The dissection is performed by developing a circumferential plane from 1 extremi
 
 <span id="fig-09-02"></span>![](_page_95_Figure_9-2.jpeg)
 
-**FIGURE 9-2** Technique of annular decalcification: (a) Incision of the endocardium along the atrial and ventricular borders; (b) En bloc mobilization and removal of the calcium bar preserving the capsular sheath.
+**FIGURE 9-2**
 
 </div></details>
 
@@ -84,7 +84,7 @@ Curettes should be used with extreme caution because they may tear the fragile v
 
 <span id="fig-09-03"></span>![](_page_96_Figure_9-3.jpeg)
 
-**FIGURE 9-3** Surgical debridement of annular abscess: (a) Exposure of the abscess cavity within the annulus; (b) Sharp excision of necrotic and infected tissue with scissors until healthy margins are reached.
+**FIGURE 9-3**
 
 </div></details>
 
@@ -108,7 +108,7 @@ Nonpledgetted, vertical figure-of-eight mattress 2-0 braided sutures are placed 
 
 <span id="fig-09-04a"></span>![](_page_96_Figure_9-4.jpeg)
 
-**FIGURE 9-4** Conventional annular reconstruction: (a) Bed of resection after en bloc decalcification; (b) Exposure of the atrial edge and ventricular myocardium; (c) Initial placement of vertical figure-of-eight mattress sutures.
+**FIGURE 9-4**
 
 #### Suturing and Leaflet Reattachment
 Each suture is first passed into the ventricular edge and then into the atrial edge ([Fig. 9-4b](#fig-09-04b), d).
@@ -119,11 +119,11 @@ The detached leaflet is then reattached to the newly reconstructed annulus using
 
 <span id="fig-09-04b"></span>![](_page_97_Figure_9-4_cont1.jpeg)
 
-**FIGURE 9-4 (Cont'd 1)** Restoration of atrioventricular continuity: (d) Passage of figure-of-eight sutures through ventricular and atrial edges; (e) Tying of sutures to approximate tissues without tension.
+**FIGURE 9-4 (Cont'd 1)**
 
 <span id="fig-09-04c"></span>![](_page_98_Figure_9-4_cont2.jpeg)
 
-**FIGURE 9-4 (Cont'd 2)** Leaflet reattachment: (f) Positioning the detached leaflet over the reconstructed annulus; (g, h) Suture fixation of the leaflet margin to the newly formed fibrous ridge.
+**FIGURE 9-4 (Cont'd 2)**
 
 #### Ring Fixation and Stabilization
 The reconstruction is completed by prosthetic ring annuloplasty ([Fig. 9-4d](#fig-09-04d), i, j).
@@ -132,7 +132,7 @@ The prosthetic ring relieves all tension from the reconstructed annulus and the 
 
 <span id="fig-09-04d"></span>![](_page_99_Figure_9-4_cont3.jpeg)
 
-**FIGURE 9-4 (Cont'd 3)** Completion of reconstruction: (i) Passage of annuloplasty ring sutures through the reconstructed annulus; (j) Final seated prosthetic ring stabilizing the repair.
+**FIGURE 9-4 (Cont'd 3)**
 
 </div></details>
 
@@ -148,7 +148,7 @@ The atrial edge is dissected from surrounding tissue to mobilize an atrial flap 
 
 <span id="fig-09-05"></span>![](_page_100_Figure_9-5.jpeg)
 
-**FIGURE 9-5** The sliding atrium technique: (a) Deep myocardial defect without fibrous coverage; (b) Extensive mobilization of the left atrial wall; (c) Advancing the atrial flap into the ventricular groove; (d) Suture fixation of the atrial flap to the ventricular myocardium; (e) Leaflet reattachment and ring implantation.
+**FIGURE 9-5**
 
 #### Atrial Flap Fixation
 Figure-of-eight mattress 2-0 braided sutures are placed between the deep ventricular myocardium and the mobilized atrial flap ([Fig. 9-5](#fig-09-05), c, d).
@@ -171,7 +171,7 @@ An autologous pericardial patch (treated with glutaraldehyde) is trimmed to fit 
 
 <span id="fig-09-06"></span>![](_page_101_Figure_9-6.jpeg)
 
-**FIGURE 9-6** Annular reconstruction using autologous pericardium: (a) Extensive defect of the anterior annulus; (b) Tailoring and suture anchoring of the pericardial patch; (c) Leaflet reattachment and prosthetic ring fixation.
+**FIGURE 9-6**
 
 #### Complex Aortic Root Involvement
 Associated aortic valve involvement requires a combined technique of valve replacement and annular reconstruction.

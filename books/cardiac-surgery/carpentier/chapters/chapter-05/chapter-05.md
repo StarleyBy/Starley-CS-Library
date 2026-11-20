@@ -1,4 +1,4 @@
-# 5. Surgical Anatomy and Physiology
+# Chapter 5. Surgical Anatomy and Physiology
 
 <details class="med-details"><summary>
 
@@ -61,13 +61,13 @@ The anatomy of heart valves is traditionally described with respect to transvers
 
 <span id="fig-05-01"></span>![](_page_27_Figure_5-1.jpeg)
 
-**FIGURE 5-1** Anatomical sections versus the surgeon's operative view of the cardiac valves: classic transverse anatomical section viewed from the base of the heart (left) compared with the surgeon's intraoperative perspective through a left atriotomy (right).
+**FIGURE 5-1**
 
 With the left atrium widely exposed through the interatrial groove, three distinct anatomical structures can be observed successively from the atrium toward the ventricle ([Fig. 5-2](#fig-05-02)): the atrio-valvular junction, the leaflets, and the subvalvular apparatus.
 
 <span id="fig-05-02"></span>![](_page_28_Figure_5-2.jpeg)
 
-**FIGURE 5-2** Surgeon's operative view of the mitral valve: exposure through a left atriotomy demonstrating the atrio-valvular junction, the anterior and posterior leaflets, the commissures, and the underlying subvalvular apparatus.
+**FIGURE 5-2**
 
 The atrio-valvular junction corresponds to the hinge line of the leaflets. It is visualized as a distinct white line separating the pink, trabeculated atrial myocardium from the smooth, translucent leaflet tissue. The junction is located 1 to 2 mm from the fibrous core of the annulus and represents the primary surgical landmark for suture placement.
 
@@ -87,7 +87,7 @@ At the attachment of the anterior leaflet, a true fibrous annulus does not exist
 
 <span id="fig-05-03"></span>![](_page_29_Figure_5-3.jpeg)
 
-**FIGURE 5-3** Architecture of the mitral annulus: (a) fibrous, muscular, and fibro-elastic components along the posterior atrioventricular junction; (b) fibrous aorto-mitral curtain extending between the anterolateral and posteromedial fibrous trigones.
+**FIGURE 5-3**
 
 The anterior attachment is bounded at each extremity by two dense fibrous structures: the anterolateral fibrous trigone and the posteromedial fibrous trigone. These trigones represent the strongest anchoring structures of the base of the heart and remain stable during the cardiac cycle.
 
@@ -101,7 +101,7 @@ During cardiac contraction, the mitral annulus undergoes dynamic conformational 
 
 <span id="fig-05-04"></span>![](_page_29_Figure_5-4.jpeg)
 
-**FIGURE 5-4** Variations in annular shape during the cardiac cycle: (a) circular geometry during diastole; (b) kidney-shaped configuration during systole with significant reduction in the anteroposterior diameter.
+**FIGURE 5-4**
 
 <details class="med-details"><summary>
 
@@ -123,7 +123,7 @@ Instead of having a planar configuration, the annulus exhibits a pronounced thre
 
 <span id="fig-05-05"></span>![](_page_30_Figure_5-5.jpeg)
 
-**FIGURE 5-5** Three-dimensional saddle-shaped configuration of the mitral annulus: the lowest points are located at the fibrous trigones and the highest points at the midpoints of the anterior and posterior annuli (with an angle of 120° between the aortic and mitral valve planes); bottom schematic illustrates the annular contour.
+**FIGURE 5-5**
 
 </div></details>
 
@@ -142,7 +142,7 @@ Four vital anatomical structures surround the mitral annulus and represent signi
 
 <span id="fig-05-06"></span>![](_page_31_Figure_5-6.jpeg)
 
-**FIGURE 5-6** Four anatomical structures close to the mitral annulus at risk during surgery: circumflex artery, coronary sinus, bundle of His, and the noncoronary and left coronary aortic cusps. Top inset: anatomical variations in the relationship of the aortic valve cusps to the anterior mitral annulus.
+**FIGURE 5-6**
 
 </div></details>
 
@@ -176,7 +176,7 @@ The basal insertion of the anterior leaflet occupies approximately one third of 
 
 <span id="fig-05-07"></span>![](_page_32_Figure_5-7.jpeg)
 
-**FIGURE 5-7** Relative proportions of leaflet insertion along the mitral annulus: the anterior leaflet occupies approximately one third of the circumference, whereas the posterior leaflet and commissural tissue occupy the remaining two thirds. Inset: cross-sectional schematic of the coaptation line.
+**FIGURE 5-7**
 
 </div></details>
 
@@ -190,7 +190,7 @@ From base to free margin, the anterior leaflet presents two distinct morphologic
 
 <span id="fig-05-08"></span>![](_page_32_Figure_5-8.jpeg)
 
-**FIGURE 5-8** Morphology and zonal architecture of the anterior leaflet: smooth translucent atrial zone and thicker coaptation zone receiving chordal support; inset illustrates diastolic inflow and systolic outflow orientation.
+**FIGURE 5-8**
 
 </div></details>
 
@@ -204,7 +204,7 @@ The indentations of the posterior leaflet are normal anatomical structures that 
 
 <span id="fig-05-09"></span>![](_page_33_Figure_5-9.jpeg)
 
-**FIGURE 5-9** Carpentier's segmental classification of the mitral leaflets: posterior leaflet scallops P1 (anterolateral), P2 (middle), and P3 (posteromedial); corresponding anterior leaflet functional segments A1, A2, and A3; and commissures AC and PC.
+**FIGURE 5-9**
 
 </div></details>
 
@@ -216,13 +216,13 @@ The commissures are functional entities consisting of two distinct structures: t
 
 <span id="fig-05-10"></span>![](_page_33_Figure_5-10.jpeg)
 
-**FIGURE 5-10** Commissural anatomy: identification of the anterolateral and posteromedial commissures; inset demonstrates nerve hook retraction displaying the triangular commissural leaflet supported by characteristic fan-like chordae.
+**FIGURE 5-10**
 
 A commissure is a functional Y-shaped entity that provides continuous tissue transition between the anterior and posterior leaflets and allows them to coapt securely at their junction. During systole, the leaflets coapt along an extensive surface ($8 \pm 1.1\text{ mm}$ height) acting as the keystone of an arch. The line of coaptation lies parallel to the posterior annulus, approximately 15 mm from the anterior atrioventricular junction and 5 to 6 mm from the posterior annulus ([Fig. 5-11](#fig-05-11)). The line of coaptation is far from the left ventricular outflow tract and separates the orifice into anterior (75%) and posterior (25%) areas.
 
 <span id="fig-05-11"></span>![](_page_34_Figure_5-11.jpeg)
 
-**FIGURE 5-11** Morphological boundaries and coaptation relations of the leaflets: unfolded view displaying the anterior leaflet, commissural leaflet, and posterior leaflet with their respective atrial and coaptation zones.
+**FIGURE 5-11**
 
 </div></details>
 
@@ -241,7 +241,7 @@ Several distinct morphological types of papillary muscles are observed: Type I (
 
 <span id="fig-05-12"></span>![](_page_35_Figure_5-12.jpeg)
 
-**FIGURE 5-12** Morphological types of papillary muscles: (a) spatial orientation of the anterolateral and posteromedial papillary muscles; (b) anatomical variations: Type I (single head), Type II (multiple heads), Type III (slender), Type IV (arch-shaped); (c) apical and lateral wall implantation.
+**FIGURE 5-12**
 
 The vascularization of the papillary muscles is markedly asymmetric ([Fig. 5-13](#fig-05-13)). The anterolateral papillary muscle receives a robust, dual arterial supply from the left anterior descending (LAD) and circumflex marginal arteries.
 
@@ -249,7 +249,7 @@ Conversely, the posteromedial papillary muscle receives a single, terminal blood
 
 <span id="fig-05-13"></span>![](_page_36_Figure_5-13.jpeg)
 
-**FIGURE 5-13** Papillary muscle arterial vascularization: dual blood supply to the anterolateral papillary muscle (LAD + circumflex) versus single terminal supply to the posteromedial papillary muscle (RCA or circumflex).
+**FIGURE 5-13**
 
 </div></details>
 
@@ -261,7 +261,7 @@ The chordae tendineae extend from the fibrous tips of the papillary muscles to i
 
 <span id="fig-05-14"></span>![](_page_36_Figure_5-14.jpeg)
 
-**FIGURE 5-14** Three categories of chordae tendineae: (1) marginal (primary) chordae; (2) intermediary (secondary) chordae; (3) basal (tertiary) chordae.
+**FIGURE 5-14**
 
 * **Marginal (Primary) Chordae:** Insert directly on the free margin of the leaflets. Their primary mechanical function is to prevent marginal leaflet eversion and prolapse into the left atrium during systole.
 * **Intermediary (Secondary) Chordae:** Insert at the junction between the clear zone and the rough zone. These thick, robust cords bear the bulk of systolic closing pressure and maintain optimal ventricular geometry.
@@ -269,7 +269,7 @@ The chordae tendineae extend from the fibrous tips of the papillary muscles to i
 
 <span id="fig-05-15"></span>![](_page_37_Figure_5-15.jpeg)
 
-**FIGURE 5-15** Comprehensive spatial architecture of the chordal apparatus: anterior leaflet stay chordae, paracommissural chordae, cleft chordae, and basal posterior chordae.
+**FIGURE 5-15**
 
 <details class="med-details"><summary>
 
@@ -314,7 +314,7 @@ In early diastole, rapid ventricular untwisting and expansion generate an active
 
 <span id="fig-05-16"></span>![](_page_38_Figure_5-16.jpeg)
 
-**FIGURE 5-16** Diastolic transmitral fluid dynamics: (a) early rapid inflow and leaflet opening; (b) mid-diastolic vortex formation behind the anterior leaflet; (c) late diastolic atrial contraction kick.
+**FIGURE 5-16**
 
 As inflow encounters the apical myocardium, it curves along the posterior and lateral walls, generating an organized, energetic intraventricular vortex. This vortex circulates behind the anterior leaflet, pushing it gently toward the midline. This hydrodynamic cushioning pre-positions the leaflets in semi-apposition prior to the onset of ventricular systole.
 
@@ -330,7 +330,7 @@ Simultaneously, active annular sphincter contraction reduces the orifice area by
 
 <span id="fig-05-17"></span>![](_page_38_Figure_5-17.jpeg)
 
-**FIGURE 5-17** Systolic leaflet coaptation and ventricular ejection: stable rough-zone coaptation, annular reduction, and redirection of blood flow into the aortic vestibule.
+**FIGURE 5-17**
 
 The anterior leaflet serves a vital dual aerodynamic role: while its rough zone provides the coaptation barrier preventing regurgitation, its smooth basal body forms the posterior boundary of the left ventricular outflow tract (LVOT), smoothly channeling the ejected stroke volume into the aortic root without turbulence.
 
@@ -344,7 +344,7 @@ The anterior leaflet serves a vital dual aerodynamic role: while its rough zone 
 
 <details class="med-details"><summary>
 
-### The Mitral Annulus: Concept, Contraction, and Saddle Geometry</summary><div class="details-content">
+### The Mitral Annulus: Concept, Contraction, and Saddle Geometry (FF & AC)</summary><div class="details-content">
 
 #### DA: What is the significance of the annulus in the context of the “atrio-valvular” junction?
 
@@ -380,7 +380,7 @@ The “Physio ring” and the “Ischemic ring” have a preestablished saddle s
 
 <details class="med-details"><summary>
 
-### Leaflet Architecture, Coaptation, and Vascularization</summary><div class="details-content">
+### Leaflet Architecture, Coaptation, and Vascularization (FF & AC)</summary><div class="details-content">
 
 #### DA: Is the shape of the anterior leaflet similar in different patients or are there significant variations, which should be taken into consideration during valve reconstruction?
 
@@ -408,7 +408,7 @@ This minute vascularization most probably does not play a significant role in th
 
 <details class="med-details"><summary>
 
-### Nomenclature: Diameters and Chordal Classification</summary><div class="details-content">
+### Nomenclature: Diameters and Chordal Classification (DA & AC)</summary><div class="details-content">
 
 #### DA: Why do you prefer the term “transverse diameter” instead of the term “commissure-to-commissure diameter,” which is often used in the medical literature?
 
@@ -424,7 +424,7 @@ The term “secondary chordae” is often used by others, and also by myself, to
 
 <details class="med-details"><summary>
 
-### The Subvalvular Apparatus and Left Ventricular Function</summary><div class="details-content">
+### The Subvalvular Apparatus and Left Ventricular Function (FF & AC)</summary><div class="details-content">
 
 #### FF: What is the role of the secondary chordae in left ventricular function?
 
@@ -444,7 +444,7 @@ They are also important for reducing the risk of myocardial rupture after valve 
 
 <details class="med-details"><summary>
 
-### Papillary Muscle Mechanics, Perfusion, and Morphology</summary><div class="details-content">
+### Papillary Muscle Mechanics, Perfusion, and Morphology (FF & AC)</summary><div class="details-content">
 
 #### FF: Can you elaborate on the vascularization of the papillary muscles?
 

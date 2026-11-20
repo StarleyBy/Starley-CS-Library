@@ -1,4 +1,4 @@
-# 3. Perioperative Management
+# Chapter 3. Perioperative Management
 
 <details class="med-details"><summary>
 
@@ -178,11 +178,11 @@ The operative mortality in patients with rheumatic or degenerative valvular dise
 
 <details class="med-details"><summary>
 
-## CLINICAL DISCUSSION AND SURGICAL DIALOGUE</summary><div class="details-content">
+## CLINICAL DISCUSSION</summary><div class="details-content">
 
 <details class="med-details"><summary>
 
-### Standard Diagnostic Workup and Coronary Angiography</summary><div class="details-content">
+### Standard Diagnostic Workup and Coronary Angiography (DA & AC)</summary><div class="details-content">
 
 **Dr. David H. Adams (DA):** What is the standard workup for an otherwise healthy 45-year-old patient undergoing an operation for degenerative valve disease?
 
@@ -192,7 +192,7 @@ The operative mortality in patients with rheumatic or degenerative valvular dise
 
 <details class="med-details"><summary>
 
-### Role of Preoperative vs. Intraoperative TEE</summary><div class="details-content">
+### Role of Preoperative vs. Intraoperative TEE (FF & AC)</summary><div class="details-content">
 
 **Dr. Farzan Filsoufi (FF):** Do you request a preoperative transesophageal echocardiography?
 
@@ -204,7 +204,7 @@ Post-bypass transesophageal echocardiography assesses the quality of valve recon
 
 <details class="med-details"><summary>
 
-### Role of Ventriculography in Valvular Assessment</summary><div class="details-content">
+### Role of Ventriculography in Valvular Assessment (DA & AC)</summary><div class="details-content">
 
 **DA:** Does ventriculography have any role in assessing mitral valve regurgitation?
 
@@ -214,7 +214,7 @@ Post-bypass transesophageal echocardiography assesses the quality of valve recon
 
 <details class="med-details"><summary>
 
-### The "Pop-Off" Concept and Afterload Management</summary><div class="details-content">
+### The "Pop-Off" Concept and Afterload Management (DA & AC)</summary><div class="details-content">
 
 **DA:** Tell us the history of the "pop-off" concept of mitral valve regurgitation in the setting of severe mitral valve dysfunction.
 
@@ -224,7 +224,7 @@ Post-bypass transesophageal echocardiography assesses the quality of valve recon
 
 <details class="med-details"><summary>
 
-### Hybrid Procedures and Revascularization</summary><div class="details-content">
+### Hybrid Procedures and Revascularization (FF & AC)</summary><div class="details-content">
 
 **FF:** In patients with coronary artery disease undergoing a valve operation, what is the role of hybrid procedures?
 
@@ -234,7 +234,7 @@ Post-bypass transesophageal echocardiography assesses the quality of valve recon
 
 <details class="med-details"><summary>
 
-### Indications for Preoperative Intra-Aortic Balloon Counterpulsation</summary><div class="details-content">
+### Indications for Preoperative Intra-Aortic Balloon Counterpulsation (FF & AC)</summary><div class="details-content">
 
 **FF:** When do you recommend the preoperative insertion of an intra-aortic balloon pump in patients with severely depressed ventricular function undergoing mitral valve surgery?
 
@@ -244,7 +244,7 @@ Post-bypass transesophageal echocardiography assesses the quality of valve recon
 
 <details class="med-details"><summary>
 
-### Rationale for Two Months of Warfarin Anticoagulation</summary><div class="details-content">
+### Rationale for Two Months of Warfarin Anticoagulation (DA & AC)</summary><div class="details-content">
 
 **DA:** Do you recommend anticoagulation with warfarin following valve reconstruction?
 
@@ -254,7 +254,7 @@ Post-bypass transesophageal echocardiography assesses the quality of valve recon
 
 <details class="med-details"><summary>
 
-### The Aspirin Alternative: Indications and Pediatric Exception</summary><div class="details-content">
+### The Aspirin Alternative: Indications and Pediatric Exception (FF & AC)</summary><div class="details-content">
 
 **FF:** Several centers recommend aspirin therapy alone following valve reconstruction in patients with no history of atrial fibrillation. What is your opinion?
 
@@ -264,7 +264,7 @@ Post-bypass transesophageal echocardiography assesses the quality of valve recon
 
 <details class="med-details"><summary>
 
-### Optimal Timing of Cardioversion</summary><div class="details-content">
+### Optimal Timing of Cardioversion (DA & AC)</summary><div class="details-content">
 
 **DA:** What is the optimal timing of cardioversion in patients with new-onset or recurrent atrial fibrillation following mitral valve repair?
 

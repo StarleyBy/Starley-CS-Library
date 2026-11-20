@@ -103,17 +103,18 @@ function renderChapterList(bookMeta, bookPath, chapterId, edition) {
             console.log(`[DEBUG] No russian title found for ${id}`);
         }
 
+        const isExpanded = isActive; // Авто-раскрытие если активна
+
         // Главная глава
-        html += `<div class="chapter-item ${isActive && !hasSubchapters ? 'active' : ''} ${hasSubchapters ? 'has-subchapters' : ''}" data-chapter-id="${id}">`;
+        html += `<div class="chapter-item ${isActive && !hasSubchapters ? 'active' : ''} ${hasSubchapters ? 'has-subchapters' : ''} ${isExpanded && hasSubchapters ? 'expanded' : ''}" data-chapter-id="${id}">`;
         if (hasSubchapters) {
-            html += `<span class="chapter-toggle">▶</span>`;
+            html += `<span class="chapter-toggle">${isExpanded ? '▼' : '▶'}</span>`;
         }
         html += `${title}</div>`;
 
         // Подглавы (если есть)
         if (hasSubchapters) {
-            const isExpanded = isActive; // Авто-раскрытие если активна
-            html += `<div class="subchapter-list ${isExpanded ? 'expanded' : ''}">`;
+            html += `<div class="subchapter-list ${isExpanded ? 'expanded' : ''}" data-parent-id="${id}">`;
             ch.subchapters.forEach(sub => {
                 const subId = sub.file.replace('.md', '');
                 const isSubActive = subId === chapterId;
@@ -133,6 +134,31 @@ function renderChapterList(bookMeta, bookPath, chapterId, edition) {
 
     list.innerHTML = html;
 
+    // Секционные цветовые акценты (Carpentier и многосекционные издания)
+    const sectionColors = {
+        'section-01': '#64748b',
+        'section-02': '#e11d48',
+        'section-03': '#0284c7',
+        'section-04': '#d97706',
+        'section-05': '#059669',
+        'section-06': '#7c3aed'
+    };
+    let activeSecId = null;
+    for (const ch of allChapters) {
+        const id = ch.file.replace('.md', '');
+        if (id === chapterId) { activeSecId = id; break; }
+        if (ch.subchapters && ch.subchapters.some(s => s.file.replace('.md', '') === chapterId)) {
+            activeSecId = id;
+            break;
+        }
+    }
+    document.body.dataset.activeSection = activeSecId || '';
+    const stripe = document.getElementById('discipline-accent-stripe');
+    if (stripe && activeSecId && sectionColors[activeSecId]) {
+        stripe.style.backgroundColor = sectionColors[activeSecId];
+        stripe.style.display = 'block';
+    }
+
     // Обработчики кликов для главных глав
     list.querySelectorAll('.chapter-item:not(.subchapter)').forEach(item => {
         item.addEventListener('click', () => {
@@ -142,8 +168,10 @@ function renderChapterList(bookMeta, bookPath, chapterId, edition) {
                 const subList = item.nextElementSibling;
                 if (subList && subList.classList.contains('subchapter-list')) {
                     subList.classList.toggle('expanded');
-                    item.querySelector('.chapter-toggle').textContent = 
-                        subList.classList.contains('expanded') ? '▼' : '▶';
+                    const isExp = subList.classList.contains('expanded');
+                    item.classList.toggle('expanded', isExp);
+                    const toggleSpan = item.querySelector('.chapter-toggle');
+                    if (toggleSpan) toggleSpan.textContent = isExp ? '▼' : '▶';
                 }
             } else {
                 // Переход к главе

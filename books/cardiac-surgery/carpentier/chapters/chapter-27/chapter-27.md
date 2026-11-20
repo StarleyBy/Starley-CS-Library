@@ -43,8 +43,9 @@ Extensive calcification of the mitral valve annulus is a pathological entity tha
 
 Mitral annular calcification can be observed in two different circumstances depending upon the presence or absence of a preexisting primary valve pathology. Annular calcification without preexisting mitral disease is seen most frequently in the elderly and in patients with systemic hypertension or metabolic disorders (e.g., diabetes, hyperparathyroidism, chronic renal failure). These patients are usually asymptomatic with the exception of rare cases of significant mitral valve stenosis. In most instances the diagnosis is made by x-ray, echocardiography ([Fig. 27-1](#fig-27-01), a), or cardiac catheterization ([Fig. 27-1](#fig-27-01), b) during a systematic clinical examination.
 
-<span id="fig-27-01"></span>![Figure 27-1. Diagnostic imaging of mitral annular calcification: (a) echocardiography demonstrating dense posterior annular acoustic shadow and leaflet excursion; (b) fluoroscopy/cardiac catheterization showing characteristic radiopaque semilunar calcification of the posterior annulus.](images/_page_279_Figure_27-1.jpeg)
-*Figure 27-1. Diagnostic imaging of mitral annular calcification: (a) echocardiography demonstrating dense posterior annular acoustic shadow and leaflet excursion; (b) fluoroscopy/cardiac catheterization showing characteristic radiopaque semilunar calcification of the posterior annulus.*
+<span id="fig-27-01"></span>![](images/_page_279_Figure_27-1.jpeg)
+
+**FIGURE 27-1**
 
 #### Extent and Fibrous Sheath Encapsulation
 
@@ -52,8 +53,9 @@ Annular calcification may also develop in situations of a preexisting mitral val
 
 The calcification process typically involves the posterior annulus with variable degrees of extension ([Fig. 27-2](#fig-27-02)). The calcification process is limited to the annulus in most patients (a) but may extend to the leaflet tissue, the ventricular myocardium, and/or the papillary muscles (b). Calcium formation is encapsulated into a fibrous sheath distinct from the surrounding tissues except in areas of myocardial infiltration. In most instances the annular calcium formation can be removed en bloc by dissecting the fibrous sheath from the surrounding tissues.
 
-<span id="fig-27-02"></span>![Figure 27-2. Pathomorphological spectrum of mitral annular calcification: (a) semilunar calcified bar localized strictly within the posterior annulus encapsulated in a fibrous sheath, with radial fissures/cracks at the base of leaflets with excess tissue; (b) extensive calcification infiltrating into adjacent ventricular myocardium and papillary muscles.](images/_page_280_Figure_27-2.jpeg)
-*Figure 27-2. Pathomorphological spectrum of mitral annular calcification: (a) semilunar calcified bar localized strictly within the posterior annulus encapsulated in a fibrous sheath, with radial fissures/cracks at the base of leaflets with excess tissue; (b) extensive calcification infiltrating into adjacent ventricular myocardium and papillary muscles.*
+<span id="fig-27-02"></span>![](images/_page_280_Figure_27-2.jpeg)
+
+**FIGURE 27-2**
 
 #### Biomechanical Mechanisms and Annular Fissures
 
@@ -100,8 +102,9 @@ In the typical setting of calcification of the posterior annulus, the base of th
 
 The tip of the blade should be oriented such that the surrounding tissue is separated from the calcium bar. Preserving the fibrous sheath encapsulating the calcium bar allows an en bloc resection without calcium fragmentation ([Fig. 27-3](#fig-27-03)). The dissection is performed by developing a circumferential plane from one extremity of the calcium bar towards the other until the entire length of the block is removed.
 
-<span id="fig-27-03"></span>![Figure 27-3. Surgical technique of en bloc annular decalcification: sharp circumferential dissection of the fibrous sheath surrounding the calcified bar, detachment of the posterior leaflet base, and removal of the intact calcium block while safeguarding the underlying circumflex artery and coronary sinus within the atrioventricular adipose tissue.](images/_page_281_Figure_27-3.jpeg)
-*Figure 27-3. Surgical technique of en bloc annular decalcification: sharp circumferential dissection of the fibrous sheath surrounding the calcified bar, detachment of the posterior leaflet base, and removal of the intact calcium block while safeguarding the underlying circumflex artery and coronary sinus within the atrioventricular adipose tissue.*
+<span id="fig-27-03"></span>![](images/_page_281_Figure_27-3.jpeg)
+
+**FIGURE 27-3**
 
 #### Protection of Circumflex Artery and Coronary Sinus
 
@@ -173,78 +176,126 @@ The results are quite remarkable in the setting of such a complex and high-risk 
 
 <details class="med-details"><summary>
 
-## DISCUSSION</summary><div class="details-content">
+## CLINICAL DISCUSSION</summary><div class="details-content">
 
-#### Pathological Differences from Calcific Aortic Stenosis
+<details class="med-details"><summary>
+
+### Pathological Differences from Calcific Aortic Stenosis (DA & AC)</summary><div class="details-content">
 
 **DA:** Why does the annular calcification process in Barlow's valve remain limited to the annulus as opposed to what is seen in degenerative aortic valve stenosis?
 
 **AC:** The reason may be the significant difference in the pathology and the stress applied to these two different valves. In Barlow's valve, the calcification process results from the weakness of the leaflet hinge and the increased tension caused by excess leaflet tissue. The calcium formation tends to concentrate at this point and turbulence plays a minor role. On the contrary, in aortic valve stenosis the primary lesion is valve sclerosis or a bicuspid valve malformation. Turbulence also plays a major role and the stress is predominantly located on the leaflet tissue.
 
-#### Primary Calcification vs. Calcification in Barlow's Disease
+</div></details>
+
+<details class="med-details"><summary>
+
+### Primary Calcification vs. Calcification in Barlow's Disease (DA & AC)</summary><div class="details-content">
 
 **DA:** Is the mechanism involved in primary mitral valve annular calcification similar to that of annular calcification seen in Barlow's valve?
 
 **AC:** Both conditions have in common the fact that the calcification process complicates the course of a degenerative annular disease. The difference is that in primary mitral valve annular calcification advanced age contributes to the degenerative process whereas in Barlow's valve the primary cause is excess tissue and annular fissures.
 
-#### Low Incidence of Intertrigonal Annular Calcification
+</div></details>
+
+<details class="med-details"><summary>
+
+### Low Incidence of Intertrigonal Annular Calcification (FF & AC)</summary><div class="details-content">
 
 **FF:** What is your hypothesis to explain the rarity of mitral calcification in the intertrigonal portion of the annulus?
 
 **AC:** It is not rare but less frequent. I can only make some postulations. During systole the blood ejected towards the aorta progresses without significant obstruction along the anterior leaflet and the intertrigonal area. As a result, there is little stress in this area. By contrast, at the level of the posterior annulus the jet of blood, directed toward the posterior leaflet, is constrained by this leaflet, which forms a natural obstacle. In this cul de sac, maximum stress is applied on the posterior annulus, explaining the greater tendency to calcify. But again, this is pure speculation on my part.
 
-#### Critique of Alternative Surgical Techniques
+</div></details>
+
+<details class="med-details"><summary>
+
+### Critique of Alternative Surgical Techniques (FF & AC)</summary><div class="details-content">
 
 **FF:** Other alternatives than your technique of annular decalcification and reconstruction have been proposed. Can you comment on these alternatives?
 
 **AC:** These alternatives include partial decalcification and annular plication, or calcium debridement and annular reconstruction with pericardial or Teflon felt bands. Partial decalcification may be carried out in the area of leaflet resection but the corresponding plication, which is necessary to restore leaflet continuity, is rendered difficult by the rigidity of the adjacent annulus. As far as annular decalcification is concerned, an en bloc resection is preferable to fragmentation using rongeurs. Finally, annular reconstruction techniques using Teflon felt or pericardial bands are not easier to perform than the technique I described. My technique also has the advantages of using vascularized tissues and providing optimal healing conditions.
 
-#### Pledgetted Ventricular Sutures in Limited Calcification
+</div></details>
+
+<details class="med-details"><summary>
+
+### Pledgetted Ventricular Sutures in Limited Calcification (DA & AC)</summary><div class="details-content">
 
 **DA:** In selected cases of limited calcification, I place pledgetted sutures around the calcium bar from the ventricular side and select a slightly large annuloplasty ring. Can you comment on this technique?
 
 **AC:** It is an interesting alternative in very elderly patients. Care must be taken not to catch secondary chordae with the sutures.
 
-#### Management of Annular Fissures at Leaflet Hinges
+</div></details>
+
+<details class="med-details"><summary>
+
+### Management of Annular Fissures at Leaflet Hinges (DA & AC)</summary><div class="details-content">
 
 **DA:** If there are fissures at the attachment of the leaflets, do you recommend resection?
 
 **AC:** Fissures are the first stage of a progressive process leading to annular calcification, so it is preferable to resect the corresponding area of the annulus and adjacent leaflet tissue. These lesions usually occur in Barlow's disease with excess posterior leaflet tissue requiring detachment of the leaflet anyway.
 
-#### Deep Ventricular Infiltration and Reconstruction Strategy
+</div></details>
+
+<details class="med-details"><summary>
+
+### Deep Ventricular Infiltration and Reconstruction Strategy (FF & AC)</summary><div class="details-content">
 
 **FF:** Do you ever reject performing decalcification when calcium formation extends to the ventricular wall?
 
 **AC:** This is a difficult situation. If the extension is limited as in most instances, one can decalcify the annulus and cover the exposed myocardium using an atrial sliding plasty, which is my preferred technique. If the calcification is more extensive or deeply penetrates the myocardial wall, it is preferable to leave the calcium formation intact or to cover it with a patch of pericardium in case of calcium fragmentation by the sutures. Valve replacement may be necessary. Prosthetic sewing extension may be necessary.
 
-#### Conservative Alternatives for Non-Aggressive Surgeons
+</div></details>
+
+<details class="med-details"><summary>
+
+### Conservative Alternatives for Non-Aggressive Surgeons (FF & AC)</summary><div class="details-content">
 
 **FF:** Do you propose other surgical alternatives, even if less optimal, to surgeons who do not feel comfortable performing annular decalcification?
 
 **AC:** An alternative I have used in elderly patients is a large leaflet extension without annuloplasty.
 
-#### Giant Aseptic Annular Abscess with Toothpaste-Like Calcification
+</div></details>
+
+<details class="med-details"><summary>
+
+### Giant Aseptic Annular Abscess with Toothpaste-Like Calcification (DA & AC)</summary><div class="details-content">
 
 **DA:** How do you manage a giant aseptic annular abscess with toothpaste-like calcium?
 
 **AC:** These giant aseptic abscesses are usually in the center of the calcium formation and encapsulated by fibrous tissue. After having carefully suctioned and removed the liquefied debris, you may be left with two options: (1) en bloc excision of the remaining calcium formation can be carried out as described previously or (2) the cavity can be closed with a large pericardial patch sutured to the fibrous edge of the cavity. Then valve replacement is performed using large bites placed through the fibrous edge and the pericardial tissue.
 
-#### Avoiding Pledgets in Figure-of-Eight Mattress Sutures
+</div></details>
+
+<details class="med-details"><summary>
+
+### Avoiding Pledgets in Figure-of-Eight Mattress Sutures (FF & AC)</summary><div class="details-content">
 
 **FF:** Could you explain why you do not recommend the use of pledgets when using figure-of-eight mattress sutures?
 
 **AC:** This is a matter of personal preference and surgical experience. I have observed that pledgets may produce ischemia of the myocardium as a result of their orientation parallel to the annulus and perpendicular to the vessels vascularizing the subannular region. By contrast, the orientation of the figure-of-eight sutures is parallel to these vessels and perpendicular to the annulus. The sutures are therefore nonischemic and more resistant than pledgets.
 
-#### Concomitant Severe Calcific Aortic Stenosis and Moderate MR
+</div></details>
+
+<details class="med-details"><summary>
+
+### Concomitant Severe Calcific Aortic Stenosis and Moderate MR (FF & AC)</summary><div class="details-content">
 
 **FF:** A significant number of elderly patients with severe calcified aortic stenosis also present with extensive mitral annular calcification and a moderate degree of regurgitation. During an aortic valve replacement, when do you intervene on the mitral valve and what procedure do you employ?
 
 **AC:** In this particular situation not all associated mitral regurgitation should be corrected. The relief of the aortic valve stenosis by valve replacement often leads to a significant reduction of mitral valve regurgitation. For this reason and because of the difficulty in handling these lesions, it is preferable not to address the mitral valve in most instances.
 
-#### Severe Mitral Regurgitation in Concomitant Calcific Aortic Stenosis
+</div></details>
+
+<details class="med-details"><summary>
+
+### Severe Mitral Regurgitation in Concomitant Calcific Aortic Stenosis (FF & AC)</summary><div class="details-content">
 
 **FF:** For the same situation as described in the preceding question, how would you address patients with severe mitral regurgitation?
 
 **AC:** This is such a challenging condition that a pragmatic attitude should be adopted. I usually decalcify the posterior annulus and select a Classic ring of appropriate size, the shape of which is modified to comply with the geometry of the calcified aorto-mitral curtain. Two very large bites are passed through the calcium formation on each side of the midline of the attachment of the anterior leaflet. These two large bites are enough to secure the two bended extremities of the ring.
+
+</div></details>
 
 </div></details>

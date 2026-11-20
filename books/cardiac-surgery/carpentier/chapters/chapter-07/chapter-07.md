@@ -1,4 +1,4 @@
-# 7. Valve Exposure, Intraoperative Valve Analysis, and Reconstruction
+# Chapter 7. Valve Exposure, Intraoperative Valve Analysis, and Reconstruction
 
 <details class="med-details"><summary>
 
@@ -44,7 +44,7 @@ The incision is extended superiorly to 1 cm from the superior vena cava, and inf
 
 <span id="fig-07-01"></span>![](_page_64_Figure_7-1.jpeg)
 
-**FIGURE 7-1** Interatrial approach to the mitral valve: (a) Dissection of the interatrial groove and division of the 2 atria up to the fossa ovalis; (b) Incision of the roof of the left atrium after cardioplegic arrest; (c, d) Superior and inferior extensions of the atriotomy; (e, insets) A 1-cm vertical right atrial and transverse septal extension perpendicular to the atrial incision replacing the biatrial incision.
+**FIGURE 7-1**
 
 </div></details>
 
@@ -58,7 +58,7 @@ The lower blade is then positioned by pushing its curvature upwards with the lef
 
 <span id="fig-07-02"></span>![](_page_65_Figure_7-2.jpeg)
 
-**FIGURE 7-2** Exposure of the left atrium using the self-retaining sternal retractor with upper, lower, and lateral blades.
+**FIGURE 7-2**
 
 #### Adjunct Maneuvers for Suboptimal Exposure
 If exposure of the mitral valve remains suboptimal, several additional maneuvers may be useful:
@@ -83,7 +83,7 @@ After a craniocaudal (longitudinal) right atriotomy (a), the septum is incised t
 
 <span id="fig-07-03"></span>![](_page_66_Figure_7-3.jpeg)
 
-**FIGURE 7-3** Transseptal approach to the mitral valve: (a) Longitudinal right atriotomy; (b) Septal incision through the fossa ovalis toward the space between the coronary sinus and inferior vena cava; (c) Traction mattress sutures on the septal edge; (d) Exposure with retracting blades and inspection of jet lesions.
+**FIGURE 7-3**
 
 </div></details>
 
@@ -119,7 +119,7 @@ The normal leaflet motion of P1 should be confirmed, however, by pulling its fre
 
 <span id="fig-07-04"></span>![](_page_67_Figure_7-4.jpeg)
 
-**FIGURE 7-4** Valve analysis of all leaflet segments carried out in an organized manner using 2 nerve hooks with P1 as a "reference point" in most instances.
+**FIGURE 7-4**
 
 #### Sequential Segment Comparison
 Using another hook, the remaining valvular segments are examined in a sequential manner and compared to P1 to determine whether they are prolapsed or restricted.
@@ -142,7 +142,7 @@ Exposure of the posterior papillary muscle is more difficult and requires placem
 
 <span id="fig-07-05"></span>![](_page_68_Figure_7-5.jpeg)
 
-**FIGURE 7-5** Surgical exposure of the subvalvular apparatus and posterior papillary muscle using chordal traction sutures, atraumatic retractors, Rezzano forceps, and papillary muscle clamp across fibrous bands (inset).
+**FIGURE 7-5**
 
 #### Papillary Muscle Clamping
 A papillary muscle clamp is used to further expose the papillary muscle. The clamp is placed laterally to the papillary muscle across the fibrous bands, carefully avoiding its base ([Fig. 7-5](#fig-07-05), inset).
@@ -164,7 +164,7 @@ The ultimate aim of valve reconstruction is to restore durable normal valve func
 
 <span id="fig-07-06"></span>![](_page_69_Figure_7-6.jpeg)
 
-**FIGURE 7-6** The 3 fundamental principles of valve reconstruction: 1. Preserve or restore normal leaflet motion; 2. Create a large surface of coaptation; 3. Remodel and stabilize the annulus.
+**FIGURE 7-6**
 
 #### Implementation Strategy
 Restoring normal valve function may imply the resection of pathological tissues (such as calcification) or excess tissue whenever necessary.
