@@ -1,0 +1,917 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width,initial-scale=1,viewport-fit=cover">
+<title>Morphological Differential Comparator: Barlow's Disease vs Fibroelastic Deficiency</title>
+<style>
+:root {
+  --bg: #0b0f17;
+  --card: #0f172a;
+  --card-hover: #1e293b;
+  --ln: #1e293b;
+  --ln2: #334155;
+  --tx: #e2e8f0;
+  --mu: #94a3b8;
+  --ac: #e11d48;
+  --ac-subtle: rgba(225, 29, 72, 0.15);
+  --blue: #38bdf8;
+  --green: #34d399;
+  --amber: #fbbf24;
+  --purple: #a78bfa;
+  --rose: #f43f5e;
+  --fed: #0284c7;
+  --barlow: #e11d48;
+  --forma: #d97706;
+  --marfan: #8b5cf6;
+}
+* { box-sizing: border-box; }
+body {
+  margin: 0;
+  padding: max(10px, env(safe-area-inset-top)) 10px max(10px, env(safe-area-inset-bottom));
+  background: var(--bg);
+  color: var(--tx);
+  font: 14px/1.45 -apple-system, BlinkMacSystemFont, "SF Pro Text", system-ui, "Segoe UI", Roboto, sans-serif;
+  -webkit-text-size-adjust: 100%;
+}
+[data-theme="oled"] { --bg: #000; --card: #0a0a0c; --ln: #1c1c1e; --ln2: #2c2c2e; }
+[data-theme="light"] {
+  --bg: #f8fafc;
+  --card: #ffffff;
+  --card-hover: #f1f5f9;
+  --ln: #e2e8f0;
+  --ln2: #cbd5e1;
+  --tx: #0f172a;
+  --mu: #64748b;
+  --ac: #be123c;
+  --ac-subtle: rgba(190, 18, 60, 0.1);
+  --blue: #0284c7;
+  --green: #059669;
+  --amber: #d97706;
+  --purple: #7c3aed;
+  --fed: #0284c7;
+  --barlow: #be123c;
+  --forma: #b45309;
+  --marfan: #6d28d9;
+}
+.w { max-width: 1100px; margin: 0 auto; display: grid; gap: 12px; }
+.card { background: var(--card); border: 1px solid var(--ln); border-radius: 16px; padding: 14px; }
+h1 { font-size: 18px; margin: 0; font-weight: 700; display: flex; align-items: center; gap: 8px; }
+.sub { color: var(--mu); font-size: 12px; margin: 3px 0 0; }
+.bar { display: flex; flex-wrap: wrap; gap: 10px; align-items: center; justify-content: space-between; }
+.btns { display: flex; flex-wrap: wrap; gap: 6px; }
+button {
+  font: inherit;
+  font-size: 12px;
+  color: var(--tx);
+  background: var(--ln);
+  border: 1px solid var(--ln2);
+  border-radius: 999px;
+  padding: 6px 14px;
+  cursor: pointer;
+  min-height: 36px;
+  transition: all 0.2s ease;
+  user-select: none;
+  display: inline-flex;
+  align-items: center;
+  gap: 5px;
+}
+@media(pointer: coarse) { button { min-height: 44px; } }
+button:hover { background: var(--card-hover); border-color: var(--mu); }
+button.active { border-color: var(--ac); color: var(--ac); background: var(--ac-subtle); font-weight: 600; }
+
+/* Entity Selection Grid */
+.entity-grid {
+  display: grid;
+  grid-template-columns: repeat(auto-fit, minmax(220px, 1fr));
+  gap: 8px;
+  margin-top: 10px;
+}
+.entity-btn {
+  text-align: left;
+  border-radius: 12px;
+  padding: 10px 14px;
+  border: 2px solid var(--ln);
+  background: var(--bg);
+  cursor: pointer;
+  transition: all 0.2s ease;
+}
+.entity-btn:hover { border-color: var(--mu); background: var(--card-hover); }
+.entity-btn.active { border-color: var(--ac); background: var(--ac-subtle); }
+.eb-tag { font-size: 10px; font-weight: 800; text-transform: uppercase; padding: 2px 6px; border-radius: 4px; display: inline-block; margin-bottom: 4px; }
+.eb-title { font-size: 13px; font-weight: 700; display: block; }
+.eb-desc { font-size: 11px; color: var(--mu); display: block; margin-top: 2px; }
+
+/* Slider Section */
+.slider-container {
+  display: flex;
+  align-items: center;
+  gap: 12px;
+  padding: 10px 14px;
+  background: var(--bg);
+  border: 1px solid var(--ln);
+  border-radius: 12px;
+  margin-top: 8px;
+}
+.slider-container input[type="range"] {
+  flex: 1;
+  accent-color: var(--ac);
+  cursor: pointer;
+}
+.slider-label {
+  font-size: 11px;
+  font-weight: 700;
+  text-transform: uppercase;
+  color: var(--mu);
+  min-width: 130px;
+}
+
+/* Visualization Dual Grid */
+.vis-grid {
+  display: grid;
+  grid-template-columns: 1fr 1fr;
+  gap: 12px;
+  margin-top: 10px;
+}
+@media (max-width: 800px) {
+  .vis-grid { grid-template-columns: 1fr; }
+}
+.stage-card {
+  background: rgba(0,0,0,0.15);
+  border: 1px solid var(--ln);
+  border-radius: 12px;
+  padding: 12px;
+  position: relative;
+  overflow: hidden;
+}
+.stage-title {
+  font-size: 12px;
+  font-weight: 700;
+  text-transform: uppercase;
+  letter-spacing: 0.5px;
+  margin-bottom: 8px;
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+}
+svg.stage {
+  display: block;
+  width: 100%;
+  height: auto;
+  user-select: none;
+}
+
+/* Comparison Table */
+.comp-table-wrap {
+  overflow-x: auto;
+  margin-top: 10px;
+  border-radius: 12px;
+  border: 1px solid var(--ln);
+}
+table.comp-table {
+  width: 100%;
+  border-collapse: collapse;
+  font-size: 12px;
+  line-height: 1.4;
+  text-align: left;
+}
+table.comp-table th {
+  background: var(--bg);
+  padding: 10px 12px;
+  color: var(--mu);
+  font-size: 11px;
+  text-transform: uppercase;
+  letter-spacing: 0.5px;
+  border-bottom: 2px solid var(--ln2);
+}
+table.comp-table td {
+  padding: 9px 12px;
+  border-bottom: 1px solid var(--ln);
+  vertical-align: top;
+}
+table.comp-table tr.highlight-row {
+  background: var(--ac-subtle);
+  font-weight: 600;
+}
+.risk-badge {
+  display: inline-block;
+  padding: 2px 8px;
+  border-radius: 999px;
+  font-size: 10px;
+  font-weight: 800;
+  text-transform: uppercase;
+}
+.rb-low { background: rgba(52, 211, 153, 0.2); color: var(--green); border: 1px solid var(--green); }
+.rb-mod { background: rgba(251, 191, 36, 0.2); color: var(--amber); border: 1px solid var(--amber); }
+.rb-high { background: rgba(239, 68, 68, 0.25); color: var(--rose); border: 1px solid var(--rose); }
+
+/* Strategy Box */
+.strat-header {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  margin-bottom: 8px;
+}
+.strat-title {
+  font-size: 13px;
+  font-weight: 700;
+  text-transform: uppercase;
+  color: var(--blue);
+  display: flex;
+  align-items: center;
+  gap: 6px;
+}
+
+body.embed .nm { display: none !important; }
+body.embed { padding: 4px; }
+body.embed .card { border: none; padding: 6px; background: transparent; }
+</style>
+</head>
+<body>
+<div class="w">
+  <!-- Header (Hidden in embed mode) -->
+  <div class="card nm">
+    <div class="bar">
+      <div>
+        <h1 id="txt-title">🔬 Дифференциальный морфологический компаратор: Болезнь Барлоу vs FED</h1>
+        <div class="sub" id="txt-sub">Спектр дегенеративной патологии митрального клапана по Алену Карпантье: морфология, SAM и хирургическая тактика</div>
+      </div>
+      <div class="btns">
+        <button id="btn-lang" title="Switch Language">English</button>
+        <button id="btn-theme" title="Switch Theme">🌗 Тема</button>
+      </div>
+    </div>
+  </div>
+
+  <!-- Entity Selector Buttons -->
+  <div class="card">
+    <div style="font-size:11px;text-transform:uppercase;color:var(--mu);font-weight:700;" id="txt-select-prompt">Выберите нозологическую форму:</div>
+    <div class="entity-grid" id="entity-selector">
+      <div class="entity-btn active" data-entity="fed" style="border-color:var(--fed);">
+        <span class="eb-tag" style="background:var(--fed);color:#fff;">FED</span>
+        <span class="eb-title" id="eb-fed-title">Фиброэластическая недостаточность</span>
+        <span class="eb-desc" id="eb-fed-desc">Пожилой возраст (>60), дефицит ткани, тонкие прозрачные створки, изолированный отрыв хорды P2</span>
+      </div>
+      <div class="entity-btn" data-entity="forma" style="border-color:var(--forma);">
+        <span class="eb-tag" style="background:var(--forma);color:#fff;">Forma Frusta</span>
+        <span class="eb-title" id="eb-forma-title">Стертая форма («Forma Frusta»)</span>
+        <span class="eb-desc" id="eb-forma-desc">Средний возраст (45–60), умеренное локальное утолщение, нормальное или слегка расширенное кольцо</span>
+      </div>
+      <div class="entity-btn" data-entity="barlow" style="border-color:var(--barlow);">
+        <span class="eb-tag" style="background:var(--barlow);color:#fff;">Barlow's</span>
+        <span class="eb-title" id="eb-barlow-title">Болезнь Барлоу</span>
+        <span class="eb-desc" id="eb-barlow-desc">Молодой возраст (<50), избыток ткани («цветная капуста»), билефлетный пролапс, кольцо >36 мм, MAC, высокий риск SAM</span>
+      </div>
+      <div class="entity-btn" data-entity="marfan" style="border-color:var(--marfan);">
+        <span class="eb-tag" style="background:var(--marfan);color:#fff;">Marfan</span>
+        <span class="eb-title" id="eb-marfan-title">Синдром Марфана</span>
+        <span class="eb-desc" id="eb-marfan-desc">Мутация FBN1, тонкие растянутые створки гигантской площади, дилатация корня аорты</span>
+      </div>
+    </div>
+
+    <!-- Degenerative Continuum Slider -->
+    <div class="slider-container">
+      <span class="slider-label" id="txt-slider-label">Степень миксоматоза:</span>
+      <input type="range" id="morph-slider" min="0" max="100" value="0" step="1">
+      <span style="font-size:12px;font-weight:800;color:var(--ac);min-width:120px;text-align:right;" id="slider-val">0% (FED)</span>
+    </div>
+  </div>
+
+  <!-- Dual SVG Stages (Longitudinal Cross-Section & Surgical En-Face) -->
+  <div class="vis-grid">
+    <!-- Stage 1: Cross-Section Anatomy (P2 - A2 Coaptation & Height) -->
+    <div class="stage-card">
+      <div class="stage-title">
+        <span id="txt-stage1-title">Сагиттальный профиль (P2 – A2) и риск SAM</span>
+        <span id="badge-p2-height" style="font-size:11px;font-weight:800;color:var(--green);background:rgba(52,211,153,0.15);padding:2px 8px;border-radius:6px;">Высота P2: 12 мм</span>
+      </div>
+      <svg class="stage" id="svg-cross" viewBox="0 0 500 400">
+        <defs>
+          <linearGradient id="grad-lv" x1="0" y1="0" x2="1" y2="1">
+            <stop offset="0%" stop-color="#0f172a" stop-opacity="0.9"/>
+            <stop offset="100%" stop-color="#020617" stop-opacity="0.95"/>
+          </linearGradient>
+          <filter id="glow-calc">
+            <feGaussianBlur stdDeviation="2" result="blur"/>
+            <feComposite in="SourceGraphic" in2="blur" operator="over"/>
+          </filter>
+        </defs>
+
+        <!-- Left Ventricle & Atrium Walls -->
+        <path d="M 60,80 L 100,160 C 90,260 140,360 250,380 C 360,360 410,260 400,160 L 440,80" fill="url(#grad-lv)" stroke="#334155" stroke-width="3"/>
+        <text id="txt-lv-cavity" x="250" y="340" fill="#475569" font-size="12" font-weight="700" text-anchor="middle">Полость левого желудочка (ЛЖ)</text>
+
+        <!-- Left Ventricular Outflow Tract (LVOT) & Aorta on the Left -->
+        <path d="M 60,80 L 120,60 L 140,150" fill="none" stroke="#475569" stroke-width="4"/>
+        <text id="txt-lvot-ao" x="80" y="50" fill="#94a3b8" font-size="11" font-weight="700">ВТЛЖ / Аорта</text>
+
+        <!-- Annulus Hinges -->
+        <!-- Anterior Annulus (Aorto-mitral curtain) -->
+        <circle cx="140" cy="150" r="7" fill="#64748b"/>
+        <text id="lbl-ant-annulus" x="140" y="135" fill="#94a3b8" font-size="10" font-weight="600" text-anchor="middle">Переднее кольцо</text>
+
+        <!-- Posterior Annulus (Dynamic position based on slider) -->
+        <circle id="circ-post-annulus" cx="380" cy="150" r="7" fill="#64748b"/>
+        <text id="lbl-post-annulus" x="380" y="135" fill="#94a3b8" font-size="10" font-weight="600" text-anchor="middle">Заднее кольцо</text>
+
+        <!-- Annular Calcification (MAC) Deposit Group (Visible in Barlow) -->
+        <g id="grp-mac" style="display:none;" filter="url(#glow-calc)">
+          <path d="M 365,145 Q 380,140 395,148 Q 385,165 370,160 Z" fill="#fef08a" stroke="#ca8a04" stroke-width="2"/>
+          <text id="txt-mac-label" x="395" y="178" fill="#eab308" font-size="10" font-weight="800">Кальциноз кольца (MAC)</text>
+        </g>
+
+        <!-- Mitral Leaflets (Cross-Section Dynamic Paths) -->
+        <!-- Anterior Leaflet (A2) -->
+        <path id="path-a2" d="M 140,150 Q 180,200 240,215" fill="none" stroke="var(--blue)" stroke-width="4" stroke-linecap="round"/>
+        <text x="175" y="185" fill="var(--blue)" font-size="11" font-weight="800">A2</text>
+
+        <!-- Posterior Leaflet (P2) - Thickened & Billowing in Barlow -->
+        <path id="path-p2" d="M 380,150 Q 320,180 240,215" fill="none" stroke="var(--barlow)" stroke-width="4" stroke-linecap="round"/>
+        <text id="txt-p2-label" x="315" y="185" fill="var(--barlow)" font-size="12" font-weight="800">P2</text>
+
+        <!-- Coaptation Line Marker -->
+        <circle id="coapt-point" cx="240" cy="215" r="5" fill="#ffffff"/>
+
+        <!-- Chordae Tendineae to Papillary Muscles -->
+        <ellipse cx="200" cy="300" rx="14" ry="24" fill="#334155" stroke="#475569"/>
+        <ellipse cx="300" cy="300" rx="14" ry="24" fill="#334155" stroke="#475569"/>
+
+        <!-- Anterior Chords -->
+        <line x1="240" y1="215" x2="200" y2="290" stroke="#64748b" stroke-width="2"/>
+
+        <!-- Posterior Chords (Dynamic: Ruptured in FED, Elongated/Thickened in Barlow) -->
+        <g id="grp-post-chords">
+          <line id="chorda-p1" x1="250" y1="215" x2="290" y2="260" stroke="#ef4444" stroke-width="2" stroke-dasharray="4 2"/>
+          <line id="chorda-p2" x1="290" y1="270" x2="300" y2="290" stroke="#ef4444" stroke-width="2"/>
+          <circle cx="290" cy="265" r="3" fill="#ef4444"/>
+          <text id="txt-rupture-flag" x="305" y="265" fill="#ef4444" font-size="10" font-weight="800">Отрыв хорды</text>
+        </g>
+
+        <!-- SAM Risk Indicator Vector (Toward LVOT) -->
+        <g id="grp-sam-vector" style="display:none;">
+          <line x1="240" y1="215" x2="160" y2="170" stroke="#f43f5e" stroke-width="3" stroke-dasharray="4 2"/>
+          <text id="txt-sam-vector" x="170" y="235" fill="#f43f5e" font-size="11" font-weight="800">⚠️ Вектор смещения SAM в ВТЛЖ</text>
+        </g>
+      </svg>
+    </div>
+
+    <!-- Stage 2: En-Face Valve Morphology (Surgical View) -->
+    <div class="stage-card">
+      <div class="stage-title">
+        <span id="txt-stage2-title">Вид En-Face (Хирургическая картина)</span>
+        <span id="badge-annulus-size" style="font-size:11px;font-weight:800;color:var(--blue);background:rgba(2,132,199,0.15);padding:2px 8px;border-radius:6px;">Кольцо: 30 мм</span>
+      </div>
+      <svg class="stage" id="svg-enface" viewBox="0 0 500 400">
+        <!-- Annulus Shape (En-Face) -->
+        <path id="enface-annulus" d="M 120,200 C 120,110 380,110 380,200 C 380,290 120,290 120,200 Z" fill="#131c2e" stroke="#475569" stroke-width="4"/>
+
+        <!-- Leaflet Surfaces -->
+        <!-- Anterior Leaflet (Top) -->
+        <path id="enface-ant" d="M 140,160 C 180,130 320,130 360,160 C 340,200 160,200 140,160 Z" fill="rgba(2, 132, 199, 0.4)" stroke="#0284c7" stroke-width="2"/>
+        <text id="txt-enface-ant" x="250" y="170" fill="#e0f2fe" font-size="12" font-weight="800" text-anchor="middle">Передняя створка (A1 - A2 - A3)</text>
+
+        <!-- Posterior Leaflet Scallops (P1, P2, P3) -->
+        <!-- P1 Scallop -->
+        <path id="enface-p1" d="M 140,160 C 160,200 180,200 185,200 C 180,230 150,230 130,210 Z" fill="rgba(225, 29, 72, 0.4)" stroke="#e11d48" stroke-width="1.5"/>
+        <text x="155" y="215" fill="#fecdd3" font-size="10" font-weight="800">P1</text>
+
+        <!-- P2 Scallop (Prolapsing & Billowing) -->
+        <path id="enface-p2" d="M 185,200 C 220,200 280,200 315,200 C 320,250 180,250 185,200 Z" fill="rgba(225, 29, 72, 0.6)" stroke="#f43f5e" stroke-width="2.5"/>
+        <text x="250" y="235" fill="#ffffff" font-size="13" font-weight="800" text-anchor="middle">P2</text>
+
+        <!-- P3 Scallop -->
+        <path id="enface-p3" d="M 315,200 C 320,200 340,200 360,160 C 370,210 340,230 315,200 Z" fill="rgba(225, 29, 72, 0.4)" stroke="#e11d48" stroke-width="1.5"/>
+        <text x="345" y="215" fill="#fecdd3" font-size="10" font-weight="800">P3</text>
+
+        <!-- Indentation Clefts -->
+        <line x1="185" y1="200" x2="180" y2="250" stroke="#0f172a" stroke-width="3"/>
+        <line x1="315" y1="200" x2="320" y2="250" stroke="#0f172a" stroke-width="3"/>
+
+        <!-- Prolapse Zone Overlay Flag -->
+        <circle id="enface-prolapse-dot" cx="250" cy="205" r="8" fill="#ef4444" opacity="0.8"/>
+        <text id="enface-prolapse-text" x="250" y="280" fill="#ef4444" font-size="11" font-weight="800" text-anchor="middle"></text>
+      </svg>
+    </div>
+  </div>
+
+  <!-- Comparative Morphology Matrix (Carpentier Table 26-1) -->
+  <div class="card">
+    <div style="font-size:12px;font-weight:700;text-transform:uppercase;color:var(--mu);margin-bottom:6px;" id="txt-table-title">
+      📋 Дифференциальная морфологическая таблица (по А. Карпантье)
+    </div>
+    <div class="comp-table-wrap">
+      <table class="comp-table">
+        <thead>
+          <tr>
+            <th id="th-param">Параметр</th>
+            <th style="color:var(--fed);" id="th-fed">Фиброэластическая недостаточность (FED)</th>
+            <th style="color:var(--forma);" id="th-forma">Стертая форма («Forma Frusta»)</th>
+            <th style="color:var(--barlow);" id="th-barlow">Болезнь Барлоу</th>
+            <th style="color:var(--marfan);" id="th-marfan">Синдром Марфана</th>
+          </tr>
+        </thead>
+        <tbody id="table-body">
+          <!-- Dynamically populated to guarantee 100% pure translations -->
+        </tbody>
+      </table>
+    </div>
+  </div>
+
+  <!-- Strategy Selector & Philosophical Dogma (Respect vs Resect) -->
+  <div class="card">
+    <div class="strat-header">
+      <div class="strat-title">
+        <span id="txt-dogma-title">⚖️ Хирургическая философия: «Respect rather than Resect» против классической резекции Карпантье</span>
+      </div>
+      <div class="btns">
+        <button id="btn-resect" class="active">✂️ Resect & Slide (Карпантье)</button>
+        <button id="btn-respect">🪢 Respect / Неохорды (Перье)</button>
+      </div>
+    </div>
+    <div id="txt-strat-desc" style="font-size:12px;line-height:1.5;"></div>
+  </div>
+</div>
+
+<script>
+(function() {
+  let currentLang = 'ru';
+  let currentEntity = 'fed';
+  let currentStrategy = 'resect';
+
+  const entityData = {
+    fed: {
+      slider: 0,
+      p2HeightRu: "Высота P2: 12 мм (Норма)",
+      p2HeightEn: "P2 Height: 12 mm (Normal)",
+      p2Color: "var(--green)",
+      annulusSizeRu: "Кольцо: 30–32 мм",
+      annulusSizeEn: "Ring: 30–32 mm",
+      postAnnulusX: 380,
+      p2Path: "M 380,150 Q 320,180 240,215",
+      p2Thickness: 4,
+      p2Stroke: "var(--fed)",
+      showMac: false,
+      rupture: true,
+      showSam: false,
+      samRisk: "low"
+    },
+    forma: {
+      slider: 35,
+      p2HeightRu: "Высота P2: 16 мм (Умеренная)",
+      p2HeightEn: "P2 Height: 16 mm (Moderate)",
+      p2Color: "var(--amber)",
+      annulusSizeRu: "Кольцо: 32–34 мм",
+      annulusSizeEn: "Ring: 32–34 mm",
+      postAnnulusX: 395,
+      p2Path: "M 395,150 Q 330,165 240,215",
+      p2Thickness: 6,
+      p2Stroke: "var(--forma)",
+      showMac: false,
+      rupture: true,
+      showSam: false,
+      samRisk: "mod"
+    },
+    barlow: {
+      slider: 80,
+      p2HeightRu: "Высота P2: 24 мм (Критический избыток!)",
+      p2HeightEn: "P2 Height: 24 mm (Critical excess!)",
+      p2Color: "var(--rose)",
+      annulusSizeRu: "Кольцо: 36–40 мм (Гигантское)",
+      annulusSizeEn: "Ring: 36–40 mm (Giant)",
+      postAnnulusX: 420,
+      p2Path: "M 420,150 C 370,110 300,140 215,205",
+      p2Thickness: 9,
+      p2Stroke: "var(--barlow)",
+      showMac: true,
+      rupture: false,
+      showSam: true,
+      samRisk: "high"
+    },
+    marfan: {
+      slider: 100,
+      p2HeightRu: "Высота P2: 20 мм (Растянута)",
+      p2HeightEn: "P2 Height: 20 mm (Stretched)",
+      p2Color: "var(--purple)",
+      annulusSizeRu: "Кольцо: 38–42 мм",
+      annulusSizeEn: "Ring: 38–42 mm",
+      postAnnulusX: 430,
+      p2Path: "M 430,150 Q 340,165 230,210",
+      p2Thickness: 4,
+      p2Stroke: "var(--marfan)",
+      showMac: false,
+      rupture: false,
+      showSam: false,
+      samRisk: "mod"
+    }
+  };
+
+  const dict = {
+    ru: {
+      title: "🔬 Дифференциальный морфологический компаратор: Болезнь Барлоу vs FED",
+      sub: "Спектр дегенеративной патологии митрального клапана по Алену Карпантье: морфология, SAM и хирургическая тактика",
+      langBtn: "Английский",
+      themeBtn: "🌗 Тема",
+      selectPrompt: "Выберите нозологическую форму:",
+      ebFedTitle: "Фиброэластическая недостаточность",
+      ebFedDesc: "Пожилой возраст (>60), дефицит ткани, тонкие прозрачные створки, изолированный отрыв хорды P2",
+      ebFormaTitle: "Стертая форма («Forma Frusta»)",
+      ebFormaDesc: "Средний возраст (45–60), умеренное локальное утолщение, нормальное или слегка расширенное кольцо",
+      ebBarlowTitle: "Болезнь Барлоу",
+      ebBarlowDesc: "Молодой возраст (<50), избыток ткани («цветная капуста»), билефлетный пролапс, кольцо >36 мм, MAC, высокий риск SAM",
+      ebMarfanTitle: "Синдром Марфана",
+      ebMarfanDesc: "Мутация FBN1, тонкие растянутые створки гигантской площади, дилатация корня аорты",
+      sliderLabel: "Степень миксоматоза:",
+      stage1Title: "Сагиттальный профиль (P2 – A2) и риск SAM",
+      stage2Title: "Вид сверху (Хирургическая картина)",
+      tableTitle: "📋 Дифференциальная морфологическая таблица (по А. Карпантье)",
+      dogmaTitle: "⚖️ Хирургическая философия: «Сохранять, а не иссекать» против классической резекции Карпантье",
+      btnResect: "✂️ Резекция и скользящая пластика (Карпантье)",
+      btnRespect: "🪢 Сохранение ткани / Неохорды (Перье)",
+      lvCavity: "Полость левого желудочка (ЛЖ)",
+      lvotAo: "ВТЛЖ / Аорта",
+      antAnnulus: "Переднее кольцо",
+      postAnnulus: "Заднее кольцо",
+      macLabel: "Кальциноз кольца (MAC)",
+      ruptureFlag: "Отрыв хорды",
+      samVector: "⚠️ Вектор смещения SAM в ВТЛЖ",
+      enfaceAnt: "Передняя створка (A1 - A2 - A3)",
+      resectText: "<strong>Классическая концепция Алена Карпантье (Resection & Sliding Plasty):</strong><br>При болезни Барлоу с высотой P2 >15–20 мм и избыточной площадью ткани сохранение всей высоты створки неизбежно приведет к смещению линии коаптации вперед в выводной тракт ЛЖ с развитием тяжелого SAM-синдрома. Поэтому <em>резекция ткани и скользящая пластика (sliding plasty)</em> для уменьшения высоты створки до 10–14 мм являются обязательным залогом безопасности!",
+      respectText: "<strong>Концепция Патрика Перье («Respect rather than Resect»):</strong><br>Использование искусственных неохорд из PTFE (Gore-Tex CV-4/5) позволяет сохранить целостность свободного края створки без резекции. Это идеальная тактика для <em>фиброэластической недостаточности (FED)</em>, где ткань истончена и дефицитна, и резекция несет риск деформации или рестрикции. Однако при тяжелой болезни Барлоу с высокими створками «Respect» без уменьшения высоты створки сопряжен с высоким риском SAM!",
+      enfaceProlapse: {
+        fed: "Пролапс P2 (Одиночный отрыв хорды, тонкие створки)",
+        forma: "Локальный пролапс P2 с умеренным утолщением",
+        barlow: "Избыток ткани («Цветная капуста»), глубокие расщелины",
+        marfan: "Растянутые полупрозрачные створки большой площади"
+      },
+      tableHeaders: {
+        param: "Параметр",
+        fed: "Фиброэластическая недостаточность (FED)",
+        forma: "Стертая форма («Forma Frusta»)",
+        barlow: "Болезнь Барлоу",
+        marfan: "Синдром Марфана"
+      },
+      tableRows: [
+        {
+          name: "Возраст манифестации",
+          fed: "> 60 лет (пожилые пациенты)",
+          forma: "45–60 лет (зрелый возраст)",
+          barlow: "< 50 лет (молодые, женщины > мужчины)",
+          marfan: "15–35 лет (юношеский / молодой)"
+        },
+        {
+          name: "Анамнез и клиника",
+          fed: "Короткий (< 5 лет), острый отек легких при отрыве хорды",
+          forma: "Умеренный (5–10 лет), постепенная одышка",
+          barlow: "Длительный (>10–20 лет), мезосистолический клик, шумы",
+          marfan: "Системные признаки (эктопия хрусталика, скелетные аномалии)"
+        },
+        {
+          name: "Ткань створок",
+          fed: "Тонкая, прозрачная, атрофичная; дефицит ткани",
+          forma: "Умеренное локальное утолщение без диффузного избытка",
+          barlow: "Массивный избыток ткани, купола, утолщение («цветная капуста»)",
+          marfan: "Тонкая, полупрозрачная, экстремально растянутая ткань"
+        },
+        {
+          name: "Высота фестона P2",
+          fed: "10–14 мм (норма)",
+          forma: "14–18 мм (умеренно увеличена)",
+          barlow: "<strong>> 20–25 мм</strong> (критический избыток высоты)",
+          marfan: "16–22 мм (вытянута в длину)"
+        },
+        {
+          name: "Размер фиброзного кольца",
+          fed: "Нормальное или слегка расширено (28–32 мм)",
+          forma: "Умеренно расширено (32–34 мм)",
+          barlow: "<strong>Резко расширено (> 36–40 мм)</strong>, круглое",
+          marfan: "Гигантское расширение (> 38–42 мм)"
+        },
+        {
+          name: "Кальциноз кольца (MAC)",
+          fed: "Редок, обычно отсутствует",
+          forma: "Локальный точечный",
+          barlow: "<strong>Частый, массивный казеозный кальциноз</strong>",
+          marfan: "Отсутствует"
+        },
+        {
+          name: "Риск развития SAM",
+          fed: "<span class='risk-badge rb-low'>Низкий (< 2%)</span>",
+          forma: "<span class='risk-badge rb-mod'>Умеренный (5–8%)</span>",
+          barlow: "<span class='risk-badge rb-high'>Очень высокий (> 20%)</span>",
+          marfan: "<span class='risk-badge rb-mod'>Умеренный (8–12%)</span>"
+        },
+        {
+          name: "Хирургическая тактика",
+          fed: "Минимальная резекция или неохорды PTFE («Respect»), кольцо 30–32 мм",
+          forma: "Ограниченная треугольная резекция, кольцо 32–34 мм",
+          barlow: "Агрессивная резекция + <strong>Sliding Plasty</strong> (снижение высоты P2 <15 мм), кольцо 36–40 мм",
+          marfan: "Неохорды PTFE, стабилизация кольца, контроль корня аорты"
+        }
+      ]
+    },
+    en: {
+      title: "🔬 Morphological Differential Comparator: Barlow's Disease vs FED",
+      sub: "Alain Carpentier's spectrum of degenerative mitral valve disease: morphology, SAM mechanics, and surgical strategy",
+      langBtn: "Russian",
+      themeBtn: "🌗 Theme",
+      selectPrompt: "Select Pathological Entity:",
+      ebFedTitle: "Fibroelastic Deficiency (FED)",
+      ebFedDesc: "Elderly (>60), tissue deficiency, thin transparent leaflets, isolated P2 chordal rupture",
+      ebFormaTitle: "Forma Frusta",
+      ebFormaDesc: "Middle-aged (45–60), moderate localized thickening, normal to mildly dilated annulus",
+      ebBarlowTitle: "Barlow's Disease",
+      ebBarlowDesc: "Young (<50), voluminous tissue excess ('cauliflower'), bileaflet prolapse, ring >36 mm, MAC, high SAM risk",
+      ebMarfanTitle: "Marfan Syndrome",
+      ebMarfanDesc: "FBN1 mutation, thin extremely stretched leaflets of huge area, aortic root ectasia",
+      sliderLabel: "Myxoid Degeneration:",
+      stage1Title: "Sagittal Cross-Section (P2 – A2) & SAM Risk",
+      stage2Title: "En-Face View (Surgical Appearance)",
+      tableTitle: "📋 Differential Morphological Matrix (Alain Carpentier)",
+      dogmaTitle: "⚖️ Surgical Philosophy: «Respect rather than Resect» vs Classic Carpentier Resection",
+      btnResect: "✂️ Resect & Slide (Carpentier)",
+      btnRespect: "🪢 Respect / Neo-chordae (Perier)",
+      lvCavity: "Left Ventricular Cavity (LV)",
+      lvotAo: "LVOT / Aorta",
+      antAnnulus: "Ant. Annulus",
+      postAnnulus: "Post. Annulus",
+      macLabel: "Annular Calcification (MAC)",
+      ruptureFlag: "Chordal Rupture",
+      samVector: "⚠️ SAM Displacement Vector into LVOT",
+      enfaceAnt: "Anterior Leaflet (A1 - A2 - A3)",
+      resectText: "<strong>Alain Carpentier's Classic Dogma (Resection & Sliding Plasty):</strong><br>In Barlow's disease with posterior leaflet height >15–20 mm and redundant tissue, preserving full leaflet height invariably pushes the coaptation line anteriorly into the LVOT, triggering severe SAM. Thus, <em>leaflet resection with sliding plasty</em> to reduce P2 height below 10–14 mm is mandatory for patient safety!",
+      respectText: "<strong>Patrick Perier's Dogma («Respect rather than Resect»):</strong><br>Implantation of PTFE neo-chordae (Gore-Tex CV-4/5) restores coaptation without tissue resection. This is the ideal philosophy in <em>fibroelastic deficiency (FED)</em> where leaflet tissue is deficient and thin. However, in florid Barlow's disease with towering posterior leaflets, non-resectional approaches carry an elevated risk of postoperative SAM!",
+      enfaceProlapse: {
+        fed: "P2 Prolapse (Isolated chordal rupture, thin leaflets)",
+        forma: "Localized P2 prolapse with moderate thickening",
+        barlow: "Tissue excess ('cauliflower'), deep clefts, billowing",
+        marfan: "Elongated translucent leaflets of huge surface area"
+      },
+      tableHeaders: {
+        param: "Parameter",
+        fed: "Fibroelastic Deficiency (FED)",
+        forma: "Forma Frusta",
+        barlow: "Barlow's Disease",
+        marfan: "Marfan Syndrome"
+      },
+      tableRows: [
+        {
+          name: "Age of Presentation",
+          fed: "> 60 years (elderly patients)",
+          forma: "45–60 years (middle-aged)",
+          barlow: "< 50 years (young patients, females > males)",
+          marfan: "15–35 years (adolescent / young)"
+        },
+        {
+          name: "Clinical History",
+          fed: "Short (< 5 yrs), acute pulmonary edema from chordal snap",
+          forma: "Moderate (5–10 yrs), progressive exertional dyspnea",
+          barlow: "Long (>10–20 yrs), midsystolic click and late murmur",
+          marfan: "Systemic hallmarks (ectopia lentis, skeletal signs)"
+        },
+        {
+          name: "Leaflet Tissue",
+          fed: "Thin, transparent, attenuated; true tissue deficiency",
+          forma: "Moderate localized thickening without generalized excess",
+          barlow: "Voluminous excess tissue, billowing, hooding ('cauliflower')",
+          marfan: "Thin, translucent, extremely stretched tissue"
+        },
+        {
+          name: "P2 Scallop Height",
+          fed: "10–14 mm (normal)",
+          forma: "14–18 mm (moderately increased)",
+          barlow: "<strong>> 20–25 mm</strong> (critical tissue excess)",
+          marfan: "16–22 mm (stretched longitudinally)"
+        },
+        {
+          name: "Annular Dimension",
+          fed: "Normal or mildly dilated (28–32 mm)",
+          forma: "Moderately dilated (32–34 mm)",
+          barlow: "<strong>Severely dilated (> 36–40 mm)</strong>, circular",
+          marfan: "Giant dilatation (> 38–42 mm)"
+        },
+        {
+          name: "Annular Calcification (MAC)",
+          fed: "Rare or absent",
+          forma: "Focal / punctate",
+          barlow: "<strong>Frequent, extensive caseous calcification</strong>",
+          marfan: "Absent"
+        },
+        {
+          name: "Risk of Postoperative SAM",
+          fed: "<span class='risk-badge rb-low'>Low (< 2%)</span>",
+          forma: "<span class='risk-badge rb-mod'>Moderate (5–8%)</span>",
+          barlow: "<span class='risk-badge rb-high'>Very high (> 20%)</span>",
+          marfan: "<span class='risk-badge rb-mod'>Moderate (8–12%)</span>"
+        },
+        {
+          name: "Surgical Strategy",
+          fed: "Minimal resection or PTFE neo-chordae ('Respect'), ring 30–32 mm",
+          forma: "Limited triangular resection, ring 32–34 mm",
+          barlow: "Extensive resection + <strong>Sliding Plasty</strong> (reduce P2 <15 mm), ring 36–40 mm",
+          marfan: "PTFE neo-chordae, annuloplasty ring, root monitoring"
+        }
+      ]
+    }
+  };
+
+  function getDict() { return dict[currentLang]; }
+
+  function postHeight() {
+    const h = Math.max(document.body.scrollHeight, document.documentElement.scrollHeight);
+    if (window.parent && window.parent.postMessage) {
+      window.parent.postMessage({ interactiveHeight: h, id: 'barlow-fed-comparator' }, '*');
+    }
+  }
+
+  function applyLanguage() {
+    const d = getDict();
+    document.getElementById('txt-title').textContent = d.title;
+    document.getElementById('txt-sub').textContent = d.sub;
+    document.getElementById('btn-lang').textContent = d.langBtn;
+    document.getElementById('btn-theme').textContent = d.themeBtn;
+    document.getElementById('txt-select-prompt').textContent = d.selectPrompt;
+    document.getElementById('eb-fed-title').textContent = d.ebFedTitle;
+    document.getElementById('eb-fed-desc').textContent = d.ebFedDesc;
+    document.getElementById('eb-forma-title').textContent = d.ebFormaTitle;
+    document.getElementById('eb-forma-desc').textContent = d.ebFormaDesc;
+    document.getElementById('eb-barlow-title').textContent = d.ebBarlowTitle;
+    document.getElementById('eb-barlow-desc').textContent = d.ebBarlowDesc;
+    document.getElementById('eb-marfan-title').textContent = d.ebMarfanTitle;
+    document.getElementById('eb-marfan-desc').textContent = d.ebMarfanDesc;
+    document.getElementById('txt-slider-label').textContent = d.sliderLabel;
+    document.getElementById('txt-stage1-title').textContent = d.stage1Title;
+    document.getElementById('txt-stage2-title').textContent = d.stage2Title;
+    document.getElementById('txt-table-title').textContent = d.tableTitle;
+    document.getElementById('txt-dogma-title').textContent = d.dogmaTitle;
+    document.getElementById('btn-resect').textContent = d.btnResect;
+    document.getElementById('btn-respect').textContent = d.btnRespect;
+
+    // SVG Static Labels
+    document.getElementById('txt-lv-cavity').textContent = d.lvCavity;
+    document.getElementById('txt-lvot-ao').textContent = d.lvotAo;
+    document.getElementById('lbl-ant-annulus').textContent = d.antAnnulus;
+    document.getElementById('lbl-post-annulus').textContent = d.postAnnulus;
+    document.getElementById('txt-mac-label').textContent = d.macLabel;
+    document.getElementById('txt-rupture-flag').textContent = d.ruptureFlag;
+    document.getElementById('txt-sam-vector').textContent = d.samVector;
+    document.getElementById('txt-enface-ant').textContent = d.enfaceAnt;
+
+    // Populate Table
+    const ths = d.tableHeaders;
+    document.getElementById('th-param').textContent = ths.param;
+    document.getElementById('th-fed').textContent = ths.fed;
+    document.getElementById('th-forma').textContent = ths.forma;
+    document.getElementById('th-barlow').textContent = ths.barlow;
+    document.getElementById('th-marfan').textContent = ths.marfan;
+
+    const tbody = document.getElementById('table-body');
+    tbody.innerHTML = d.tableRows.map(r => `
+      <tr>
+        <td style="font-weight:700;">${r.name}</td>
+        <td>${r.fed}</td>
+        <td>${r.forma}</td>
+        <td>${r.barlow}</td>
+        <td>${r.marfan}</td>
+      </tr>
+    `).join('');
+
+    updateDogmaText(currentStrategy);
+    selectEntity(currentEntity);
+  }
+
+  function updateDogmaText(mode) {
+    currentStrategy = mode;
+    const d = getDict();
+    document.getElementById('txt-strat-desc').innerHTML = mode === 'resect' ? d.resectText : d.respectText;
+  }
+
+  function selectEntity(key) {
+    currentEntity = key;
+    const data = entityData[key];
+    const d = getDict();
+
+    // Buttons
+    document.querySelectorAll('.entity-btn').forEach(btn => {
+      if (btn.getAttribute('data-entity') === key) btn.classList.add('active');
+      else btn.classList.remove('active');
+    });
+
+    // Slider
+    document.getElementById('morph-slider').value = data.slider;
+    document.getElementById('slider-val').textContent = `${data.slider}% (${key.toUpperCase()})`;
+
+    // Badges
+    const badgeP2 = document.getElementById('badge-p2-height');
+    badgeP2.textContent = currentLang === 'ru' ? data.p2HeightRu : data.p2HeightEn;
+    badgeP2.style.color = data.p2Color;
+
+    const badgeAnn = document.getElementById('badge-annulus-size');
+    badgeAnn.textContent = currentLang === 'ru' ? data.annulusSizeRu : data.annulusSizeEn;
+
+    // Cross-Section SVG Updates
+    document.getElementById('circ-post-annulus').setAttribute('cx', data.postAnnulusX);
+    document.getElementById('lbl-post-annulus').setAttribute('x', data.postAnnulusX);
+
+    const pathP2 = document.getElementById('path-p2');
+    pathP2.setAttribute('d', data.p2Path);
+    pathP2.setAttribute('stroke', data.p2Stroke);
+    pathP2.setAttribute('stroke-width', data.p2Thickness);
+
+    document.getElementById('grp-mac').style.display = data.showMac ? 'block' : 'none';
+    document.getElementById('grp-sam-vector').style.display = data.showSam ? 'block' : 'none';
+
+    // Chords
+    const grpPostChords = document.getElementById('grp-post-chords');
+    grpPostChords.style.display = data.rupture ? 'block' : 'none';
+
+    // En-Face SVG Updates
+    const enfaceP2 = document.getElementById('enface-p2');
+    const prolapseText = document.getElementById('enface-prolapse-text');
+    if (key === 'barlow') {
+      enfaceP2.setAttribute('d', 'M 165,190 C 220,180 280,180 335,190 C 350,280 150,280 165,190 Z');
+      enfaceP2.setAttribute('stroke-width', '4');
+      prolapseText.textContent = d.enfaceProlapse.barlow;
+      prolapseText.setAttribute('fill', 'var(--barlow)');
+    } else if (key === 'forma') {
+      enfaceP2.setAttribute('d', 'M 180,195 C 220,195 280,195 320,195 C 325,260 175,260 180,195 Z');
+      enfaceP2.setAttribute('stroke-width', '3');
+      prolapseText.textContent = d.enfaceProlapse.forma;
+      prolapseText.setAttribute('fill', 'var(--forma)');
+    } else if (key === 'marfan') {
+      enfaceP2.setAttribute('d', 'M 185,200 C 220,200 280,200 315,200 C 320,270 180,270 185,200 Z');
+      enfaceP2.setAttribute('stroke-width', '2');
+      prolapseText.textContent = d.enfaceProlapse.marfan;
+      prolapseText.setAttribute('fill', 'var(--marfan)');
+    } else {
+      // FED
+      enfaceP2.setAttribute('d', 'M 185,200 C 220,200 280,200 315,200 C 320,250 180,250 185,200 Z');
+      enfaceP2.setAttribute('stroke-width', '2.5');
+      prolapseText.textContent = d.enfaceProlapse.fed;
+      prolapseText.setAttribute('fill', '#ef4444');
+    }
+
+    postHeight();
+  }
+
+  // Bind Entity Buttons
+  document.querySelectorAll('.entity-btn').forEach(btn => {
+    btn.addEventListener('click', function() {
+      selectEntity(this.getAttribute('data-entity'));
+    });
+  });
+
+  // Bind Slider
+  document.getElementById('morph-slider').addEventListener('input', function() {
+    const val = parseInt(this.value, 10);
+    if (val < 25) selectEntity('fed');
+    else if (val < 65) selectEntity('forma');
+    else if (val < 90) selectEntity('barlow');
+    else selectEntity('marfan');
+  });
+
+  // Strategy Buttons
+  document.getElementById('btn-resect').addEventListener('click', function() {
+    this.classList.add('active');
+    document.getElementById('btn-respect').classList.remove('active');
+    updateDogmaText('resect');
+    postHeight();
+  });
+  document.getElementById('btn-respect').addEventListener('click', function() {
+    this.classList.add('active');
+    document.getElementById('btn-resect').classList.remove('active');
+    updateDogmaText('respect');
+    postHeight();
+  });
+
+  // Language & Theme
+  document.getElementById('btn-lang').addEventListener('click', function() {
+    currentLang = currentLang === 'ru' ? 'en' : 'ru';
+    applyLanguage();
+  });
+
+  document.getElementById('btn-theme').addEventListener('click', function() {
+    const html = document.documentElement;
+    const cur = html.getAttribute('data-theme') || 'dark';
+    const next = cur === 'dark' ? 'light' : cur === 'light' ? 'oled' : 'dark';
+    html.setAttribute('data-theme', next);
+  });
+
+  // Check URL params
+  const urlParams = new URLSearchParams(window.location.search);
+  if (urlParams.get('lang') === 'en') currentLang = 'en';
+  if (urlParams.get('embed') === '1') document.body.classList.add('embed');
+  if (urlParams.get('entity')) currentEntity = urlParams.get('entity');
+
+  // Init
+  applyLanguage();
+
+  window.addEventListener('load', () => {
+    postHeight();
+    if (window.ResizeObserver) {
+      new ResizeObserver(postHeight).observe(document.body);
+    }
+  });
+})();
+</script>
+</body>
+</html>

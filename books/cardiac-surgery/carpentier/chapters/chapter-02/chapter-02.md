@@ -224,6 +224,14 @@ The functional classification complements the classical assessment of the hemody
 
 The functional classification is the foundation of valve analysis. It serves as a guideline to achieve a successful valve reconstruction.
 
+<details class="med-details"><summary>
+
+#### 🎛️ Carpentier Functional Classification Atlas & Simulator</summary><div class="details-content">
+
+<iframe src="../../../../assets/interactive/carpentier-functional-atlas.html?embed=1&lang=en" style="width:100%;border:none;min-height:650px;border-radius:12px;display:block;background:transparent;" loading="lazy"></iframe>
+
+</div></details>
+
 </div></details>
 
 </div></details>

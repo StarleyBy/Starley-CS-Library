@@ -1,0 +1,1151 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width,initial-scale=1,viewport-fit=cover">
+<title>Interactive Mitral Segmental Map & Surgical Danger Zones</title>
+<style>
+:root {
+  --bg: #0b0f17;
+  --card: #0f172a;
+  --card-hover: #1e293b;
+  --ln: #1e293b;
+  --ln2: #334155;
+  --tx: #e2e8f0;
+  --mu: #94a3b8;
+  --ac: #e11d48; /* Mitral arterial carmine */
+  --ac-subtle: rgba(225, 29, 72, 0.15);
+  --blue: #38bdf8;
+  --green: #34d399;
+  --amber: #fbbf24;
+  --purple: #a78bfa;
+  --rose: #f43f5e;
+  --seg-p: #f43f5e;
+  --seg-a: #0ea5e9;
+  --seg-c: #10b981;
+  --danger-lcx: #ef4444;
+  --danger-his: #eab308;
+  --danger-cs: #3b82f6;
+  --danger-ao: #ec4899;
+}
+* { box-sizing: border-box; }
+body {
+  margin: 0;
+  padding: max(10px, env(safe-area-inset-top)) 10px max(10px, env(safe-area-inset-bottom));
+  background: var(--bg);
+  color: var(--tx);
+  font: 14px/1.45 -apple-system, BlinkMacSystemFont, "SF Pro Text", system-ui, "Segoe UI", Roboto, sans-serif;
+  -webkit-text-size-adjust: 100%;
+}
+[data-theme="oled"] { --bg: #000; --card: #0a0a0c; --ln: #1c1c1e; --ln2: #2c2c2e; }
+[data-theme="light"] {
+  --bg: #f8fafc;
+  --card: #ffffff;
+  --card-hover: #f1f5f9;
+  --ln: #e2e8f0;
+  --ln2: #cbd5e1;
+  --tx: #0f172a;
+  --mu: #64748b;
+  --ac: #be123c;
+  --ac-subtle: rgba(190, 18, 60, 0.1);
+  --blue: #0284c7;
+  --green: #059669;
+  --amber: #d97706;
+  --purple: #7c3aed;
+  --seg-p: #e11d48;
+  --seg-a: #0284c7;
+  --seg-c: #059669;
+  --danger-lcx: #dc2626;
+  --danger-his: #ca8a04;
+  --danger-cs: #2563eb;
+  --danger-ao: #db2777;
+}
+.w { max-width: 1100px; margin: 0 auto; display: grid; gap: 12px; }
+.card { background: var(--card); border: 1px solid var(--ln); border-radius: 16px; padding: 14px; }
+h1 { font-size: 18px; margin: 0; font-weight: 700; display: flex; align-items: center; gap: 8px; }
+.sub { color: var(--mu); font-size: 12px; margin: 3px 0 0; }
+.bar { display: flex; flex-wrap: wrap; gap: 10px; align-items: center; justify-content: space-between; }
+.btns { display: flex; flex-wrap: wrap; gap: 6px; }
+button {
+  font: inherit;
+  font-size: 12px;
+  color: var(--tx);
+  background: var(--ln);
+  border: 1px solid var(--ln2);
+  border-radius: 999px;
+  padding: 6px 12px;
+  cursor: pointer;
+  min-height: 34px;
+  transition: all 0.2s ease;
+  user-select: none;
+  display: inline-flex;
+  align-items: center;
+  gap: 5px;
+}
+@media(pointer: coarse) { button { min-height: 42px; } }
+button:hover { background: var(--card-hover); border-color: var(--mu); }
+button.active { border-color: var(--ac); color: var(--ac); background: var(--ac-subtle); font-weight: 600; }
+button.danger-active { border-color: var(--danger-lcx); color: var(--danger-lcx); background: rgba(239, 68, 68, 0.15); font-weight: 600; }
+
+/* Grid Layout for Views */
+.views-grid {
+  display: grid;
+  grid-template-columns: 1.25fr 0.85fr;
+  gap: 12px;
+}
+@media (max-width: 860px) {
+  .views-grid { grid-template-columns: 1fr; }
+}
+
+.stage-card {
+  background: rgba(0,0,0,0.15);
+  border: 1px solid var(--ln);
+  border-radius: 12px;
+  padding: 10px;
+  position: relative;
+  overflow: hidden;
+}
+.stage-title {
+  font-size: 12px;
+  font-weight: 700;
+  text-transform: uppercase;
+  letter-spacing: 0.5px;
+  margin-bottom: 8px;
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+}
+svg.stage {
+  display: block;
+  width: 100%;
+  height: auto;
+  user-select: none;
+}
+
+/* Segments Selector Bars */
+.selector-wrap {
+  display: flex;
+  flex-direction: column;
+  gap: 8px;
+  margin-top: 10px;
+}
+.seg-row {
+  display: flex;
+  flex-wrap: wrap;
+  align-items: center;
+  gap: 6px;
+}
+.seg-group-label {
+  font-size: 11px;
+  font-weight: 700;
+  text-transform: uppercase;
+  color: var(--mu);
+  min-width: 120px;
+}
+.seg-btn {
+  padding: 6px 12px;
+  font-weight: 700;
+  border-radius: 8px;
+  min-height: 32px;
+}
+.seg-btn-comm {
+  border-style: dashed;
+}
+
+/* Info Grid */
+.info-grid {
+  display: grid;
+  grid-template-columns: repeat(auto-fit, minmax(260px, 1fr));
+  gap: 10px;
+  margin-top: 10px;
+}
+.info-block {
+  background: var(--bg);
+  border: 1px solid var(--ln);
+  border-radius: 12px;
+  padding: 10px 12px;
+}
+.info-block h4 {
+  margin: 0 0 6px;
+  font-size: 11px;
+  text-transform: uppercase;
+  letter-spacing: 0.5px;
+  color: var(--mu);
+  display: flex;
+  align-items: center;
+  gap: 6px;
+}
+.info-block p, .info-block ul {
+  margin: 0;
+  font-size: 12px;
+  line-height: 1.45;
+  padding-left: 0;
+}
+
+/* Hazard Badges */
+.hazard-pill {
+  display: inline-block;
+  padding: 2px 7px;
+  border-radius: 999px;
+  font-size: 10px;
+  font-weight: 700;
+  text-transform: uppercase;
+  margin-right: 4px;
+}
+.hp-lcx { background: rgba(239, 68, 68, 0.2); color: var(--danger-lcx); border: 1px solid var(--danger-lcx); }
+.hp-his { background: rgba(234, 179, 8, 0.2); color: var(--danger-his); border: 1px solid var(--danger-his); }
+.hp-cs { background: rgba(59, 130, 246, 0.2); color: var(--danger-cs); border: 1px solid var(--danger-cs); }
+.hp-ao { background: rgba(236, 72, 153, 0.2); color: var(--danger-ao); border: 1px solid var(--danger-ao); }
+
+/* SVG Interactive Styles */
+.svg-seg {
+  cursor: pointer;
+  transition: all 0.25s ease;
+}
+.svg-seg:hover {
+  filter: brightness(1.25);
+}
+.svg-seg.selected {
+  stroke-width: 3.5px;
+  stroke: #ffffff !important;
+  filter: drop-shadow(0 0 8px rgba(255,255,255,0.7));
+}
+
+.comm-junction-node {
+  cursor: pointer;
+  transition: all 0.25s ease;
+}
+.comm-junction-node:hover {
+  transform: scale(1.15);
+}
+.comm-junction-node.selected circle {
+  stroke: #ffffff;
+  stroke-width: 3px;
+  filter: drop-shadow(0 0 10px #10b981);
+}
+
+.danger-zone {
+  transition: opacity 0.3s ease;
+}
+
+body.embed .nm { display: none !important; }
+body.embed { padding: 4px; }
+body.embed .card { border: none; padding: 6px; background: transparent; }
+</style>
+</head>
+<body>
+<div class="w">
+  <!-- Header (Hidden in embed mode) -->
+  <div class="card nm">
+    <div class="bar">
+      <div>
+        <h1 id="txt-title">🗺️ Интерактивная сегментарная карта митрального клапана</h1>
+        <div class="sub" id="txt-sub">Анатомия Карпантье (A1–A3, P1–P3), комиссуральные углы (AC, PC), сопоставление с ЧПЭхоКГ и зоны хирургического риска</div>
+      </div>
+      <div class="btns">
+        <button id="btn-lang" title="Switch Language">English</button>
+        <button id="btn-theme" title="Switch Theme">🌗 Тема</button>
+      </div>
+    </div>
+  </div>
+
+  <!-- Interactive Controls & Toggles -->
+  <div class="card">
+    <div class="bar">
+      <div class="btns">
+        <button id="btn-danger" class="active danger-active">⚠️ <span id="txt-danger-toggle">Зоны риска (Вкл)</span></button>
+        <button id="btn-fil" class="">🧵 <span id="txt-fil-toggle">«Нить Ариадны» (Тест P1)</span></button>
+      </div>
+      <div class="btns" id="tee-views-bar">
+        <span style="font-size:11px;color:var(--mu);align-self:center;" id="txt-tee-label">Срез ЧПЭхоКГ:</span>
+        <button class="active" data-tee="4ch" id="btn-tee-4ch">0° (4-камерный)</button>
+        <button data-tee="2ch" id="btn-tee-2ch">60° (2-камерный)</button>
+        <button data-tee="lax" id="btn-tee-lax">120° (Long-Axis)</button>
+        <button data-tee="tg" id="btn-tee-tg">ТГ (SAX)</button>
+      </div>
+    </div>
+
+    <!-- Segment & Commissure Selector Rows -->
+    <div class="selector-wrap">
+      <!-- Row 1: Mitral Leaflet Scallops (A1-A3, P1-P3) -->
+      <div class="seg-row">
+        <span class="seg-group-label" id="lbl-leaflets-group">Створки (сегменты):</span>
+        <div class="btns">
+          <button class="seg-btn" data-seg="A1" style="border-color:var(--seg-a);">A1</button>
+          <button class="seg-btn" data-seg="A2" style="border-color:var(--seg-a);">A2</button>
+          <button class="seg-btn" data-seg="A3" style="border-color:var(--seg-a);">A3</button>
+          <button class="seg-btn active" data-seg="P1" style="border-color:var(--seg-p);">P1</button>
+          <button class="seg-btn" data-seg="P2" style="border-color:var(--seg-p);">P2</button>
+          <button class="seg-btn" data-seg="P3" style="border-color:var(--seg-p);">P3</button>
+        </div>
+      </div>
+
+      <!-- Row 2: Commissural Junction Angles (AC, PC) -->
+      <div class="seg-row">
+        <span class="seg-group-label" id="lbl-comm-group">Углы соединения (комиссуры):</span>
+        <div class="btns">
+          <button class="seg-btn seg-btn-comm" data-seg="AC" style="border-color:var(--seg-c);color:var(--green);" id="btn-seg-ac">📐 AC (Передне-латеральный угол)</button>
+          <button class="seg-btn seg-btn-comm" data-seg="PC" style="border-color:var(--seg-c);color:var(--green);" id="btn-seg-pc">📐 PC (Задне-медиальный угол)</button>
+        </div>
+      </div>
+    </div>
+  </div>
+
+  <!-- Dual Views Grid -->
+  <div class="views-grid">
+    <!-- View 1: Surgical En-Face View -->
+    <div class="stage-card">
+      <div class="stage-title">
+        <span id="txt-v1-title">Хирургический вид (En-Face через левое предсердие)</span>
+        <span style="font-size:10px;color:var(--mu);" id="txt-v1-orient">Вверху: Передняя створка | Внизу: Задняя створка</span>
+      </div>
+      <svg class="stage" id="svg-surgical" viewBox="0 0 540 440">
+        <defs>
+          <filter id="glow-seg" x="-20%" y="-20%" width="140%" height="140%">
+            <feGaussianBlur stdDeviation="3" result="blur" />
+            <feComposite in="SourceGraphic" in2="blur" operator="over" />
+          </filter>
+          <linearGradient id="grad-ant" x1="0" y1="0" x2="0" y2="1">
+            <stop offset="0%" stop-color="#0284c7" stop-opacity="0.75"/>
+            <stop offset="100%" stop-color="#0369a1" stop-opacity="0.95"/>
+          </linearGradient>
+          <linearGradient id="grad-post" x1="0" y1="0" x2="0" y2="1">
+            <stop offset="0%" stop-color="#be123c" stop-opacity="0.75"/>
+            <stop offset="100%" stop-color="#9f1239" stop-opacity="0.95"/>
+          </linearGradient>
+        </defs>
+
+        <!-- Left Atrial Wall & Outer Sulcus -->
+        <ellipse cx="270" cy="225" rx="225" ry="165" fill="#1e1b2e" stroke="#332c4a" stroke-width="2" opacity="0.4"/>
+        <path d="M 90,210 C 90,95 450,95 450,210 C 450,335 90,335 90,210 Z" fill="#131c2e" stroke="#22334f" stroke-width="4"/>
+
+        <!-- SURGICAL DANGER ZONES LAYER -->
+        <g id="danger-layer">
+          <!-- 1. Circumflex Artery (LCx) - Anterolateral to P1 and AC -->
+          <g id="dz-lcx" class="danger-zone">
+            <path d="M 120,110 C 70,140 55,200 65,260 C 75,310 110,360 160,390" fill="none" stroke="var(--danger-lcx)" stroke-width="9" stroke-linecap="round" stroke-dasharray="8 4" opacity="0.85"/>
+            <circle cx="80" cy="180" r="14" fill="var(--danger-lcx)" opacity="0.25"/>
+            <circle cx="80" cy="180" r="6" fill="var(--danger-lcx)"/>
+            <text id="txt-dz-lcx" x="45" y="150" fill="var(--danger-lcx)" font-size="11" font-weight="700">Огибающая артерия (LCx &lt; 3–4 мм)</text>
+          </g>
+
+          <!-- 2. AV Node & Bundle of His - Posteromedial Trigone -->
+          <g id="dz-his" class="danger-zone">
+            <path d="M 420,135 C 445,155 455,185 460,215" fill="none" stroke="var(--danger-his)" stroke-width="6" stroke-linecap="round" opacity="0.8"/>
+            <circle cx="438" cy="165" r="15" fill="var(--danger-his)" opacity="0.3"/>
+            <circle cx="438" cy="165" r="7" fill="var(--danger-his)"/>
+            <text id="txt-dz-his" x="420" y="150" fill="var(--danger-his)" font-size="11" font-weight="700">АВ-узел / Пучок Гиса</text>
+          </g>
+
+          <!-- 3. Coronary Sinus - Along Posterior Annulus P2/P3 -->
+          <g id="dz-cs" class="danger-zone">
+            <path d="M 180,385 C 270,410 360,395 435,320" fill="none" stroke="var(--danger-cs)" stroke-width="8" stroke-linecap="round" opacity="0.75"/>
+            <text id="txt-dz-cs" x="280" y="420" fill="var(--danger-cs)" font-size="11" font-weight="700" text-anchor="middle">Венечный синус (5–10 мм)</text>
+          </g>
+
+          <!-- 4. Aortic Valve Cusps (Aorto-mitral curtain) -->
+          <g id="dz-ao" class="danger-zone">
+            <path d="M 190,105 C 230,60 310,60 350,105" fill="none" stroke="var(--danger-ao)" stroke-width="5" stroke-linecap="round" opacity="0.8"/>
+            <ellipse cx="270" cy="72" rx="42" ry="22" fill="none" stroke="var(--danger-ao)" stroke-width="2" stroke-dasharray="4 3"/>
+            <text id="txt-dz-ao" x="270" y="55" fill="var(--danger-ao)" font-size="11" font-weight="700" text-anchor="middle">Аортальный клапан (LCC / NCC)</text>
+          </g>
+        </g>
+
+        <!-- FIBROUS TRIGONES -->
+        <circle cx="165" cy="125" r="8" fill="#cbd5e1" stroke="#475569" stroke-width="2"/>
+        <text id="txt-trig-left" x="145" y="112" fill="#94a3b8" font-size="10" font-weight="600">Левый тригон</text>
+        <circle cx="375" cy="125" r="8" fill="#cbd5e1" stroke="#475569" stroke-width="2"/>
+        <text id="txt-trig-right" x="390" y="112" fill="#94a3b8" font-size="10" font-weight="600">Правый тригон</text>
+
+        <!-- ANNULUS BASELINE RING -->
+        <path d="M 110,210 C 110,120 430,120 430,210 C 430,315 110,315 110,210 Z" fill="none" stroke="#475569" stroke-width="4" stroke-dasharray="6 3"/>
+
+        <!-- ================= TRUE ANATOMY: 2 CONTINUOUS LEAFLETS MEETING AT COMMISSURAL ANGLES ================= -->
+        
+        <!-- ANTERIOR LEAFLET (Continuous from lateral junction 110,210 to medial junction 430,210) -->
+        <!-- Segment A1: From Anterolateral Angle (110,210) to A1/A2 boundary -->
+        <path id="svg-seg-A1" class="svg-seg" d="M 110,210 C 115,160 160,128 225,120 C 228,155 230,185 230,210 C 180,212 135,212 110,210 Z" fill="url(#grad-ant)" stroke="#0ea5e9" stroke-width="1.5"/>
+        <text x="175" y="165" fill="#ffffff" font-size="12" font-weight="800" pointer-events="none">A1</text>
+
+        <!-- Segment A2: Broad central trapezoid -->
+        <path id="svg-seg-A2" class="svg-seg" d="M 225,120 C 255,118 285,118 315,120 C 312,155 310,185 310,210 C 285,212 255,212 230,210 C 230,185 228,155 225,120 Z" fill="url(#grad-ant)" stroke="#0ea5e9" stroke-width="1.5"/>
+        <text x="263" y="165" fill="#ffffff" font-size="13" font-weight="800" pointer-events="none">A2</text>
+
+        <!-- Segment A3: From A2/A3 boundary to Posteromedial Angle (430,210) -->
+        <path id="svg-seg-A3" class="svg-seg" d="M 315,120 C 380,128 425,160 430,210 C 405,212 360,212 310,210 C 310,185 312,155 315,120 Z" fill="url(#grad-ant)" stroke="#0ea5e9" stroke-width="1.5"/>
+        <text x="350" y="165" fill="#ffffff" font-size="12" font-weight="800" pointer-events="none">A3</text>
+
+        <!-- POSTERIOR LEAFLET (Continuous from lateral junction 110,210 to medial junction 430,210 with 3 scallops) -->
+        <!-- Scallop P1: From lateral angle (110,210) to P1/P2 cleft -->
+        <path id="svg-seg-P1" class="svg-seg selected" d="M 110,210 C 135,212 165,212 185,210 C 188,245 180,275 160,295 C 130,270 115,240 110,210 Z" fill="url(#grad-post)" stroke="#f43f5e" stroke-width="1.5"/>
+        <text x="145" y="255" fill="#ffffff" font-size="12" font-weight="800" pointer-events="none">P1</text>
+
+        <!-- Scallop P2: Large central scallop -->
+        <path id="svg-seg-P2" class="svg-seg" d="M 185,210 C 230,214 310,214 355,210 C 362,255 345,295 310,312 C 270,320 230,320 190,312 C 165,295 180,250 185,210 Z" fill="url(#grad-post)" stroke="#f43f5e" stroke-width="1.5"/>
+        <text x="263" y="270" fill="#ffffff" font-size="14" font-weight="800" pointer-events="none">P2</text>
+
+        <!-- Scallop P3: From P2/P3 cleft to medial angle (430,210) -->
+        <path id="svg-seg-P3" class="svg-seg" d="M 355,210 C 375,212 405,212 430,210 C 425,240 410,270 380,295 C 360,275 352,245 355,210 Z" fill="url(#grad-post)" stroke="#f43f5e" stroke-width="1.5"/>
+        <text x="382" y="255" fill="#ffffff" font-size="12" font-weight="800" pointer-events="none">P3</text>
+
+        <!-- Indentation Clefts between posterior scallops -->
+        <line x1="185" y1="210" x2="175" y2="305" stroke="#0f172a" stroke-width="3"/>
+        <line x1="355" y1="210" x2="365" y2="305" stroke="#0f172a" stroke-width="3"/>
+
+        <!-- Coaptation Line (Runs uninterrupted from AC corner to PC corner) -->
+        <path d="M 110,210 C 185,214 355,214 430,210" fill="none" stroke="#f8fafc" stroke-width="2.5" stroke-dasharray="3 2" opacity="0.75"/>
+
+        <!-- ================= COMMISSURAL JUNCTION NODES (ANGLES OF COAPTATION) ================= -->
+        <!-- Anterolateral Commissural Junction (AC) - Corner where A1 and P1 meet -->
+        <g id="comm-node-AC" class="comm-junction-node" transform="translate(110, 210)">
+          <!-- Fan-shaped commissural chordae indicator -->
+          <path id="comm-fan-AC" d="M 0,0 L -18,-14 M 0,0 L -22,0 M 0,0 L -18,14" stroke="#10b981" stroke-width="2.5" opacity="0.6"/>
+          <!-- Junction Angle Node Diamond & Circle -->
+          <polygon points="0,-10 10,0 0,10 -10,0" fill="#047857" stroke="#10b981" stroke-width="2"/>
+          <circle cx="0" cy="0" r="5" fill="#34d399"/>
+          <text x="-16" y="-14" fill="#34d399" font-size="11" font-weight="800">AC</text>
+        </g>
+
+        <!-- Posteromedial Commissural Junction (PC) - Corner where A3 and P3 meet -->
+        <g id="comm-node-PC" class="comm-junction-node" transform="translate(430, 210)">
+          <!-- Fan-shaped commissural chordae indicator -->
+          <path id="comm-fan-PC" d="M 0,0 L 18,-14 M 0,0 L 22,0 M 0,0 L 18,14" stroke="#10b981" stroke-width="2.5" opacity="0.6"/>
+          <!-- Junction Angle Node Diamond & Circle -->
+          <polygon points="0,-10 10,0 0,10 -10,0" fill="#047857" stroke="#10b981" stroke-width="2"/>
+          <circle cx="0" cy="0" r="5" fill="#34d399"/>
+          <text x="12" y="-14" fill="#34d399" font-size="11" font-weight="800">PC</text>
+        </g>
+
+        <!-- Orientation Compass Cross -->
+        <g transform="translate(485, 50)" opacity="0.75">
+          <circle cx="0" cy="0" r="22" fill="#1e293b" stroke="#475569" stroke-width="1.5"/>
+          <text id="txt-comp-ant" x="0" y="-8" fill="#e2e8f0" font-size="9" font-weight="700" text-anchor="middle">АНТ</text>
+          <text id="txt-comp-post" x="0" y="16" fill="#e2e8f0" font-size="9" font-weight="700" text-anchor="middle">ПОСТ</text>
+          <text id="txt-comp-l" x="-14" y="3" fill="#e2e8f0" font-size="8" font-weight="700" text-anchor="middle">Л</text>
+          <text id="txt-comp-m" x="14" y="3" fill="#e2e8f0" font-size="8" font-weight="700" text-anchor="middle">М</text>
+        </g>
+      </svg>
+    </div>
+
+    <!-- View 2: Multiplane TEE Cross-Section -->
+    <div class="stage-card">
+      <div class="stage-title">
+        <span id="txt-v2-title">ЧПЭхоКГ Срез (TEE Multiplane)</span>
+        <span style="font-size:11px;font-weight:700;color:var(--blue);" id="txt-tee-angle">0° ME 4-CHAMBER</span>
+      </div>
+      <svg class="stage" id="svg-tee" viewBox="0 0 400 440">
+        <defs>
+          <radialGradient id="grad-us" cx="50%" cy="5%" r="90%">
+            <stop offset="0%" stop-color="#0284c7" stop-opacity="0.25"/>
+            <stop offset="70%" stop-color="#0f172a" stop-opacity="0.8"/>
+            <stop offset="100%" stop-color="#000000" stop-opacity="0.95"/>
+          </radialGradient>
+        </defs>
+
+        <!-- Sector Backdrop -->
+        <path d="M 200,20 L 30,390 A 240,240 0 0,0 370,390 Z" fill="url(#grad-us)" stroke="#334155" stroke-width="1.5"/>
+
+        <!-- Depth grid arcs -->
+        <path d="M 120,180 A 100,100 0 0,0 280,180" fill="none" stroke="#334155" stroke-dasharray="3 3"/>
+        <path d="M 75,280 A 180,180 0 0,0 325,280" fill="none" stroke="#334155" stroke-dasharray="3 3"/>
+        <text id="txt-tee-depth" x="340" y="280" fill="#64748b" font-size="9">10 см</text>
+
+        <!-- Dynamic TEE Anatomical Structures Group -->
+        <g id="tee-content">
+          <!-- Populated by JavaScript -->
+        </g>
+      </svg>
+    </div>
+  </div>
+
+  <!-- Detailed Clinical & Surgical Information Card -->
+  <div class="card" id="info-card">
+    <div class="bar">
+      <h3 style="margin:0;font-size:15px;display:flex;align-items:center;gap:8px;">
+        <span id="info-seg-badge" style="background:var(--seg-p);color:#fff;padding:2px 8px;border-radius:6px;font-size:12px;font-weight:800;">P1</span>
+        <span id="info-seg-name">Сегмент P1 (Передне-латеральный фестон задней створки)</span>
+      </h3>
+      <span id="info-ref-pill" style="display:none;background:rgba(52,211,153,0.2);color:var(--green);border:1px solid var(--green);padding:2px 8px;border-radius:999px;font-size:11px;font-weight:700;">⭐ Референсный сегмент Карпантье («Нить Ариадны»)</span>
+    </div>
+
+    <!-- Educational Clarification Pill for Commissures -->
+    <div id="comm-clarify-banner" style="display:none;background:rgba(16,185,129,0.12);border:1px solid var(--green);border-radius:8px;padding:8px 12px;margin-top:8px;font-size:12px;color:var(--tx);">
+      <strong id="txt-comm-banner-title">📐 Важное анатомическое примечание:</strong>
+      <span id="txt-comm-banner-body">Комиссура — это не створка и не часть створки, а анатомический угол (стык), в котором соединяются передняя и задняя створки у фиброзного кольца (подобно углу рта, где соединяются губы). Опирается на веерообразные комиссуральные хорды.</span>
+    </div>
+
+    <div class="info-grid">
+      <!-- Box 1: Anatomy & Morphology -->
+      <div class="info-block">
+        <h4 id="lbl-info-anat">📐 Анатомия и размеры</h4>
+        <p id="txt-info-anat"></p>
+      </div>
+
+      <!-- Box 2: Pathology Frequency -->
+      <div class="info-block">
+        <h4 id="lbl-info-path">📊 Частота и типичная патология</h4>
+        <p id="txt-info-path"></p>
+      </div>
+
+      <!-- Box 3: Surgical Repair Techniques -->
+      <div class="info-block">
+        <h4 id="lbl-info-tech">🛠️ Хирургические техники</h4>
+        <p id="txt-info-tech"></p>
+      </div>
+
+      <!-- Box 4: Danger Zones & Hazards -->
+      <div class="info-block">
+        <h4 id="lbl-info-danger">⚠️ Анатомические зоны риска</h4>
+        <div id="txt-info-danger"></div>
+      </div>
+    </div>
+  </div>
+</div>
+
+<script>
+(function() {
+  let currentLang = 'ru';
+  let currentSeg = 'P1';
+  let dangerVisible = true;
+  let filMode = false;
+  let currentTee = '4ch';
+
+  const dict = {
+    ru: {
+      title: "🗺️ Интерактивная сегментарная карта митрального клапана",
+      sub: "Анатомия Карпантье (A1–A3, P1–P3), комиссуральные углы (AC, PC), сопоставление с ЧПЭхоКГ и зоны хирургического риска",
+      langBtn: "Английский",
+      themeBtn: "🌗 Тема",
+      dangerToggleOn: "Зоны риска (Вкл)",
+      dangerToggleOff: "Зоны риска (Выкл)",
+      filToggle: "«Нить Ариадны» (Тест P1)",
+      teeLabel: "Срез ЧПЭхоКГ:",
+      btnTee4ch: "0° (4-камерный)",
+      btnTee2ch: "60° (2-камерный)",
+      btnTeeLax: "120° (Длинная ось)",
+      btnTeeTg: "ТГ (Короткая ось)",
+      lblLeafletsGroup: "Створки (сегменты):",
+      lblCommGroup: "Углы соединения (комиссуры):",
+      btnSegAc: "📐 AC (Передне-латеральный угол)",
+      btnSegPc: "📐 PC (Задне-медиальный угол)",
+      v1Title: "Хирургический вид (Вид сверху через левое предсердие)",
+      v1Orient: "Вверху: Передняя створка | Внизу: Задняя створка",
+      v2Title: "Срез ЧПЭхоКГ (Мультипланарная ЧПЭхоКГ)",
+      teeDepth: "10 см",
+      trigLeft: "Левый тригон",
+      trigRight: "Правый тригон",
+      dzLcx: "Огибающая артерия (LCx < 3–4 мм)",
+      dzHis: "АВ-узел / Пучок Гиса",
+      dzCs: "Венечный синус (5–10 мм)",
+      dzAo: "Аортальный клапан (LCC / NCC)",
+      compAnt: "АНТ",
+      compPost: "ПОСТ",
+      compL: "Л",
+      compM: "М",
+      lblAnat: "📐 Анатомия и размеры",
+      lblPath: "📊 Частота и типичная патология",
+      lblTech: "🛠️ Хирургические техники",
+      lblDanger: "⚠️ Анатомические зоны риска",
+      refPill: "⭐ Референсный сегмент Карпантье («Нить Ариадны»)",
+      commBannerTitle: "📐 Важное анатомическое примечание:",
+      commBannerBody: "Комиссура — это не створка и не часть створки, а анатомический угол (стык), в котором соединяются передняя и задняя створки у фиброзного кольца (подобно углу рта, где смыкаются губы). Опирается на веерообразные комиссуральные хорды от верхушки сосочковой мышцы.",
+      filAlert: "🧵 Правило «Нити Ариадны» (Ален Карпантье):\n\nСегмент P1 почти всегда интактен (<5% пролапса). Проверьте его нервным крючком — в норме его край не выходит за плоскость кольца. Используйте высоту смыкания P1 как эталон для оценки всех остальных створок!",
+      teeTerms: {
+        la: "Левое предсердие (ЛП)",
+        lv: "Левый желудочек (ЛЖ)",
+        septum: "МЖП (Перегородка)",
+        ao: "Аорта (Ao)",
+        myo: "Миокард ЛЖ",
+        antScallops: "A1 - A2 - A3 (Передняя)",
+        postScallops: "P1 - P2 - P3 (Задняя)"
+      },
+      teeAngles: {
+        '4ch': '0° СЭ 4-камерная позиция',
+        '2ch': '60° СЭ 2-камерная / комиссуральная позиция',
+        'lax': '120° СЭ длинная ось (ВТЛЖ)',
+        'tg': 'ТГ трансгастральный базальный срез («рыбий рот»)'
+      },
+      segments: {
+        P1: {
+          name: "Сегмент P1 (Передне-латеральный фестон задней створки)",
+          badgeBg: "var(--seg-p)",
+          isRef: true,
+          isComm: false,
+          anat: "Высота 10–12 мм. Расположен латерально, прилежит к переднелатеральному комиссуральному стыку (AC). Фиксирован к фиброзному кольцу и поддерживается хордами переднелатеральной сосочковой мышцы.",
+          path: "Изолированный пролапс редок (< 5%). В подавляющем большинстве случаев сохраняет нормальную подвижность, поэтому служит главным РЕФЕРЕНСНЫМ ориентиром («Нитью Ариадны») при оценке остальных сегментов.",
+          tech: "Ограниченная треугольная резекция, скользящая пластика (sliding plasty) для репозиции, неохорды PTFE, комиссуральная аннулопластика.",
+          danger: "<span class='hazard-pill hp-lcx'>Огибающая артерия (LCx)</span> Проходит в левой АВ-борозде на расстоянии менее 2–4 мм от кольца P1/AC! Риск лигирования или перегиба (кинкинга) артерии глубоким аннулопластическим швом с инфарктом боковой стенки."
+        },
+        P2: {
+          name: "Сегмент P2 (Центральный фестон задней створки)",
+          badgeBg: "var(--seg-p)",
+          isRef: false,
+          isComm: false,
+          anat: "Наиболее крупный фестон задней створки: ширина 15–25 мм, высота в норме 10–14 мм (критично: при высоте >15–20 мм резко возрастает риск SAM!). Свободный край тонкий, округлый.",
+          path: "Самая частая локализация патологии в кардиохирургии (>70% всех пролапсов при FED и болезни Барлоу). Отрыв хорд I порядка вызывает острый систолический пролапс со струёй регургитации, направленной КВНУТРИ и КЗАДИ.",
+          tech: "Классическая квадриангулярная (четырехугольная) или треугольная резекция, скользящая пластика основания створки (sliding plasty), складчатая пластика (folding plasty), неохорды PTFE (Gore-Tex CV-4/5).",
+          danger: "<span class='hazard-pill hp-cs'>Венечный синус (CS)</span> Проходит по задней поверхности борозды на 5–10 мм выше кольца. Слишком глубокие вертикальные швы в P2/P3 могут проколоть или обтурировать синус с гематомой или кровотечением."
+        },
+        P3: {
+          name: "Сегмент P3 (Задне-медиальный фестон задней створки)",
+          badgeBg: "var(--seg-p)",
+          isRef: false,
+          isComm: false,
+          anat: "Высота 8–11 мм. Расположен медиально, вблизи заднемедиального комиссурального стыка (PC) и правого фиброзного тригона. Поддерживается заднемедиальной сосочковой мышцей.",
+          path: "Пролапс встречается в 10–15% случаев дегенеративной болезни. Часто вовлекается в систолическое ограничение подвижности (Тип IIIb) при задне-базальном инфаркте миокарда (ишемическая митральная недостаточность).",
+          tech: "Треугольная резекция, пликация кольца, перенос хорд, закрытие расщелины P2–P3. При ишемическом тентинге — рестриктивная аннулопластика кольцом малого размера или рассечение вторичных хорд.",
+          danger: "<span class='hazard-pill hp-his'>АВ-узел и пучок Гиса</span> Правый фиброзный треугольник прилежит непосредственно к центральному фиброзному телу и пучку Гиса. Глубокие швы в медиальной части P3/PC приводят к полной АВ-блокаде!"
+        },
+        A1: {
+          name: "Сегмент A1 (Передне-латеральный сегмент передней створки)",
+          badgeBg: "var(--seg-a)",
+          isRef: false,
+          isComm: false,
+          anat: "Латеральная треть передней створки. Прикрепляется к аорто-митральному занавесу вблизи левого фиброзного тригона и комиссурального стыка AC. Высота 18–22 мм.",
+          path: "Пролапс A1 встречается в 5–8% случаев. Часто сочетается с пролапсом P1 при обширном миксоматозе (болезнь Барлоу) или инфекционном эндокардите.",
+          tech: "Транспозиция хорд со вторичных на свободный край, имплантация искусственных неохорд из PTFE, частичная резекция (edge-to-edge / шов Альфиери к P1).",
+          danger: "<span class='hazard-pill hp-lcx'>Огибающая артерия (LCx)</span> и <span class='hazard-pill hp-ao'>Левая створка аортального клапана</span>. Вблизи угла AC шов должен захватывать только плотную фиброзную ткань без глубокого ухода в латеральное предсердное устье."
+        },
+        A2: {
+          name: "Сегмент A2 (Центральный сегмент передней створки)",
+          badgeBg: "var(--seg-a)",
+          isRef: false,
+          isComm: false,
+          anat: "Центральный сектор передней створки, высота 20–24 мм. Имеет две зоны: гладкую базальную зону (clear zone) и дистальную шероховатую зону смыкания (rough zone) шириной 8–10 мм. Непосредственное продолжение аорто-митрального контакта.",
+          path: "Пролапс A2 встречается в 15–20% дегенеративных пороков. Регургитирующая струя направлена РЕЗКО КЗАДИ (вдоль задней створки в полость ЛП). При ревматизме — куполообразное диастолическое выбухание (doming, Тип IIIa).",
+          tech: "Резекция передней створки не рекомендуется! Золотой стандарт — имплантация неохорд из PTFE (Gore-Tex CV-4), хордальная транспозиция с P2 на A2, шов Альфиери («edge-to-edge»).",
+          danger: "<span class='hazard-pill hp-ao'>Створки аортального клапана (LCC и NCC)</span> Базальное прикрепление A2 — это аорто-митральный занавес. Сквозные швы могут захватить или перфорировать створки аортального клапана с развитием тяжелой аортальной недостаточности!"
+        },
+        A3: {
+          name: "Сегмент A3 (Задне-медиальный сегмент передней створки)",
+          badgeBg: "var(--seg-a)",
+          isRef: false,
+          isComm: false,
+          anat: "Медиальная треть передней створки, прилежащая к заднемедиальному комиссуральному стыку (PC) и правому фиброзному тригону. Высота 18–21 мм.",
+          path: "Пролапс встречается редко (3–5%). Часто поражается инфекционным эндокардитом с абсцессом митрально-аортального контакта или вторичным ревматическим укорочением хорд.",
+          tech: "Неохорды PTFE, комиссуральная пластика, пликация свободного края, заплаточная пластика аутооколосердечной сумкой (перикардом) при перфорации.",
+          danger: "<span class='hazard-pill hp-his'>Проводящая система (АВ-узел / пучок Гиса)</span> и <span class='hazard-pill hp-ao'>Некоронарная створка аорты (NCC)</span>. Зона максимальной осторожности: швы накладываются строго параллельно фиброзному кольцу поверхностно."
+        },
+        AC: {
+          name: "Передне-латеральный комиссуральный угол (AC)",
+          badgeBg: "var(--seg-c)",
+          isRef: false,
+          isComm: true,
+          anat: "Анатомический угол смыкания и соединения передней (A1) и задней (P1) створок у кольца. Не является створкой! Зона поддерживается специализированными веерообразными комиссуральными хордами от верхушки переднелатеральной сосочковой мышцы.",
+          path: "Ревматическое комиссуральное слияние (fusion), приводящее к митральному стенозу; отрыв веерообразных хорд с косой струей регургитации.",
+          tech: "Комиссуротомия при стенозе; комиссуральная аннулопластика («волшебный шов» / magic stitch по Карпантье), пликация угла смыкания.",
+          danger: "<span class='hazard-pill hp-lcx'>Огибающая артерия (LCx)</span> Дистанция от угла AC до ствола LCx составляет всего 1.5–3.5 мм! Глубокий шов в этой зоне строго противопоказан."
+        },
+        PC: {
+          name: "Задне-медиальный комиссуральный угол (PC)",
+          badgeBg: "var(--seg-c)",
+          isRef: false,
+          isComm: true,
+          anat: "Анатомический угол смыкания и соединения передней (A3) и задней (P3) створок у правого фиброзного треугольника. Не является створкой! Поддерживается веерообразными хордами заднемедиальной мышцы.",
+          path: "Ревматическое слияние, кальциноз угла, дегенеративный пролапс комиссуральной зоны с эксцентрической струей к передней стенке ЛП.",
+          tech: "Комиссуротомия, комиссуральная пликация, сближение краев створок у угла, стабилизация полужестким кольцом.",
+          danger: "<span class='hazard-pill hp-his'>АВ-узел и пучок Гиса</span> Проходят в 2–4 мм кнутри от правого фиброзного тригона в центральном фиброзном теле. Глубокий шов в углу PC влечет 100% риск постоянного кардиостимулятора!"
+        }
+      }
+    },
+    en: {
+      title: "🗺️ Interactive Mitral Segmental Map & Surgical Danger Zones",
+      sub: "Carpentier Anatomy (A1–A3, P1–P3), Commissural Angles (AC, PC), Multiplane TEE Correlation, and Danger Zones",
+      langBtn: "Russian",
+      themeBtn: "🌗 Theme",
+      dangerToggleOn: "Danger Zones (On)",
+      dangerToggleOff: "Danger Zones (Off)",
+      filToggle: "«Fil d'Ariane» (P1 Test)",
+      teeLabel: "TEE Slice:",
+      btnTee4ch: "0° (4-Chamber)",
+      btnTee2ch: "60° (2-Chamber)",
+      btnTeeLax: "120° (Long-Axis)",
+      btnTeeTg: "TG (SAX)",
+      lblLeafletsGroup: "Leaflets (Segments):",
+      lblCommGroup: "Junction Angles (Commissures):",
+      btnSegAc: "📐 AC (Anterolateral Angle)",
+      btnSegPc: "📐 PC (Posteromedial Angle)",
+      v1Title: "Surgical View (Left Atrial En-Face Exposure)",
+      v1Orient: "Top: Anterior Leaflet | Bottom: Posterior Leaflet",
+      v2Title: "TEE Multiplane Cross-Section",
+      teeDepth: "10 cm",
+      trigLeft: "Left Trigone",
+      trigRight: "Right Trigone",
+      dzLcx: "Circumflex Artery (LCx < 3–4 mm)",
+      dzHis: "AV Node / Bundle of His",
+      dzCs: "Coronary Sinus (5–10 mm)",
+      dzAo: "Aortic Valve (LCC / NCC)",
+      compAnt: "ANT",
+      compPost: "POST",
+      compL: "L",
+      compM: "M",
+      lblAnat: "📐 Anatomy & Dimensions",
+      lblPath: "📊 Incidence & Typical Pathology",
+      lblTech: "🛠️ Reconstructive Techniques",
+      lblDanger: "⚠️ Surgical Danger Zones",
+      refPill: "⭐ Carpentier Reference Segment («Fil d'Ariane»)",
+      commBannerTitle: "📐 Crucial Anatomical Concept:",
+      commBannerBody: "The commissure is NOT a leaflet or part of a leaflet. It is the anatomical junction angle (corner) where the anterior and posterior leaflets meet at the annulus (analogous to the corner of the mouth connecting the lips). It is supported by dedicated fan-shaped chordae from the papillary muscle apex.",
+      filAlert: "🧵 Alain Carpentier's «Fil d'Ariane» Rule:\n\nScallop P1 is rarely involved in prolapse (<5%). Palpate it with a nerve hook — its free edge must not override the annular plane. Use P1's coaptation plane as the gold-standard reference to gauge all other scallops!",
+      teeTerms: {
+        la: "Left Atrium (LA)",
+        lv: "Left Ventricle (LV)",
+        septum: "Septum (IVS)",
+        ao: "Aorta (Ao)",
+        myo: "LV Myocardium",
+        antScallops: "A1 - A2 - A3 (Anterior)",
+        postScallops: "P1 - P2 - P3 (Posterior)"
+      },
+      teeAngles: {
+        '4ch': '0° ME 4-Chamber View',
+        '2ch': '60° ME 2-Chamber / Commissural View',
+        'lax': '120° ME Long-Axis View (LVOT)',
+        'tg': 'TG Transgastric Basal SAX ("Fish-Mouth")'
+      },
+      segments: {
+        P1: {
+          name: "Segment P1 (Anterolateral Posterior Scallop)",
+          badgeBg: "var(--seg-p)",
+          isRef: true,
+          isComm: false,
+          anat: "Height 10–12 mm. Located laterally, adjacent to anterolateral commissural angle (AC). Firmly supported by fibrous annulus and anterolateral papillary muscle chordae.",
+          path: "Isolated prolapse is rare (< 5%). Almost invariably retains normal mobility, serving as Carpentier's primary reference landmark ('Fil d'Ariane') to interrogate all other scallops.",
+          tech: "Limited triangular resection, sliding plasty for height reduction, PTFE neo-chordae, commissural annuloplasty.",
+          danger: "<span class='hazard-pill hp-lcx'>Circumflex Artery (LCx)</span> Courses in the left AV groove < 2–4 mm from P1/AC annulus! Suture placement here risks arterial ligation/kinking and lateral LV infarction."
+        },
+        P2: {
+          name: "Segment P2 (Central Posterior Scallop)",
+          badgeBg: "var(--seg-p)",
+          isRef: false,
+          isComm: false,
+          anat: "Largest scallop: width 15–25 mm, normal height 10–14 mm (critical: height >15–20 mm dramatically elevates risk of SAM!). Thin, curved free edge.",
+          path: "Most frequent surgical pathology (>70% of all prolapses in FED and Barlow). Primary chordal rupture creates acute systolic prolapse with anteriorly directed regurgitant jet.",
+          tech: "Classic quadrangular or triangular resection, sliding leaflet plasty, folding plasty, PTFE neo-chordae (Gore-Tex CV-4/5), remodeling ring annuloplasty.",
+          danger: "<span class='hazard-pill hp-cs'>Coronary Sinus (CS)</span> Courses along the posterior AV groove 5–10 mm superior to the annulus. Deep vertical sutures in P2/P3 risk laceration, hematoma, or thrombosis."
+        },
+        P3: {
+          name: "Segment P3 (Posteromedial Posterior Scallop)",
+          badgeBg: "var(--seg-p)",
+          isRef: false,
+          isComm: false,
+          anat: "Height 8–11 mm. Located medially near posteromedial commissural angle (PC) and right fibrous trigone. Supported by posteromedial papillary muscle.",
+          path: "Involved in 10–15% of degenerative cases. Frequently affected by ischemic tethering (Type IIIb) after inferior/posterior myocardial infarction.",
+          tech: "Triangular resection, annular plication, chordal transfer, cleft closure. In ischemic mitral regurgitation: restrictive ring annuloplasty or secondary chordal cutting.",
+          danger: "<span class='hazard-pill hp-his'>AV Node & Bundle of His</span> The right fibrous trigone is intimately adjacent to the central fibrous body and conduction bundle. Deep sutures in medial P3/PC cause complete heart block!"
+        },
+        A1: {
+          name: "Segment A1 (Anterolateral Anterior Segment)",
+          badgeBg: "var(--seg-a)",
+          isRef: false,
+          isComm: false,
+          anat: "Lateral third of anterior leaflet. Anchored to aorto-mitral curtain near left fibrous trigone and AC angle. Height 18–22 mm. Chordae arise from anterolateral papillary muscle.",
+          path: "Prolapse in 5–8% of cases, often accompanying P1 prolapse in extensive Barlow's disease or infective endocarditis.",
+          tech: "Chordal transposition from secondary to primary margins, PTFE neo-chordae, partial resection (edge-to-edge Alfieri stitch with P1).",
+          danger: "<span class='hazard-pill hp-lcx'>Circumflex Artery (LCx)</span> and <span class='hazard-pill hp-ao'>Aortic Left Coronary Cusp</span>. Annular sutures near AC must engage fibrous tissue only, avoiding deep lateral bites."
+        },
+        A2: {
+          name: "Segment A2 (Central Anterior Segment)",
+          badgeBg: "var(--seg-a)",
+          isRef: false,
+          isComm: false,
+          anat: "Central sector of anterior leaflet, height 20–24 mm. Features smooth clear zone and 8–10 mm rough coaptation zone. Direct fibrous continuation with aorto-mitral curtain.",
+          path: "Prolapse in 15–20% of degenerative disease. Regurgitant jet is directed sharply POSTERIORLY. In rheumatic disease: diastolic doming (hockey-stick deformity, Type IIIa).",
+          tech: "Resection of anterior leaflet is discouraged! Gold standard: PTFE neo-chordae (Gore-Tex CV-4), chordal transposition from P2, Alfieri edge-to-edge repair.",
+          danger: "<span class='hazard-pill hp-ao'>Aortic Valve Cusps (LCC & NCC)</span> Deep through-and-through sutures in the aorto-mitral curtain can pierce or tether aortic cusps, causing acute aortic regurgitation!"
+        },
+        A3: {
+          name: "Segment A3 (Posteromedial Anterior Segment)",
+          badgeBg: "var(--seg-a)",
+          isRef: false,
+          isComm: false,
+          anat: "Medial third of anterior leaflet near posteromedial commissural angle (PC) and right fibrous trigone. Height 18–21 mm.",
+          path: "Prolapse is uncommon (3–5%). Frequently damaged by endocarditis with root abscess or rheumatic chordal fusion.",
+          tech: "PTFE neo-chordae, commissural repair, margin plication, autologous pericardial patch augmentation for perforations.",
+          danger: "<span class='hazard-pill hp-his'>Conduction System (AV Node/His)</span> and <span class='hazard-pill hp-ao'>Non-Coronary Aortic Cusp</span>. High-danger zone: sutures must be placed strictly parallel and superficial to the fibrous skeleton."
+        },
+        AC: {
+          name: "Anterolateral Commissural Angle (AC)",
+          badgeBg: "var(--seg-c)",
+          isRef: false,
+          isComm: true,
+          anat: "Anatomical junction angle where the anterior (A1) and posterior (P1) leaflets converge at the fibrous annulus. Not a leaflet! Supported by dedicated fan-shaped chordae from anterolateral papillary muscle tip.",
+          path: "Rheumatic commissural fusion in mitral stenosis; commissural prolapse following rupture of fan-shaped chordae with oblique jet.",
+          tech: "Commissurotomy for stenosis; Carpentier 'magic stitch' (commissural annuloplasty), commissural plication.",
+          danger: "<span class='hazard-pill hp-lcx'>Circumflex Artery (LCx)</span> Suture distance to arterial lumen is only 1.5–3.5 mm! Never place deep muscular bites in this trigone area."
+        },
+        PC: {
+          name: "Posteromedial Commissural Angle (PC)",
+          badgeBg: "var(--seg-c)",
+          isRef: false,
+          isComm: true,
+          anat: "Anatomical junction angle where the anterior (A3) and posterior (P3) leaflets converge near the right fibrous trigone. Not a leaflet! Supported by fan-shaped chordae of posteromedial muscle.",
+          path: "Rheumatic fusion, heavy commissural calcification, degenerative prolapse with eccentric jet directed anteriorly.",
+          tech: "Commissurotomy, commissural plication, edge adaptation, ring anchoring.",
+          danger: "<span class='hazard-pill hp-his'>AV Node & Bundle of His</span> Courses 2–4 mm medial to right fibrous trigone in central fibrous body. Deep suture guarantees permanent pacemaker dependency."
+        }
+      }
+    }
+  };
+
+  // TEE Slice Configurations
+  const teeConfigs = {
+    '4ch': {
+      angle: '0° ME 4-CHAMBER',
+      activeSegs: ['A2', 'P2'],
+      render: function() {
+        const t = dict[currentLang].teeTerms;
+        return `
+          <!-- Left Atrium (Top) -->
+          <path d="M 120,70 Q 200,40 280,70 L 280,180 L 120,180 Z" fill="#1e1b4b" opacity="0.3"/>
+          <text x="200" y="110" fill="#94a3b8" font-size="11" text-anchor="middle">${t.la}</text>
+          
+          <!-- Interatrial Septum -->
+          <line x1="280" y1="50" x2="280" y2="180" stroke="#475569" stroke-width="3"/>
+          
+          <!-- Mitral Annulus -->
+          <ellipse cx="200" cy="190" rx="95" ry="12" fill="none" stroke="#64748b" stroke-width="3" stroke-dasharray="4 2"/>
+
+          <!-- Leaflets in 4-Chamber (A2 on left, P2 on right in standard US screen orientation) -->
+          <!-- A2 Leaflet -->
+          <path id="tee-A2" class="svg-seg ${currentSeg==='A2'?'selected':''}" d="M 125,190 Q 155,210 185,230" fill="none" stroke="var(--seg-a)" stroke-width="${currentSeg==='A2'?7:4}" stroke-linecap="round"/>
+          <text x="145" y="225" fill="var(--seg-a)" font-size="12" font-weight="800">A2</text>
+
+          <!-- P2 Leaflet -->
+          <path id="tee-P2" class="svg-seg ${currentSeg==='P2'?'selected':''}" d="M 275,190 Q 240,210 200,230" fill="none" stroke="var(--seg-p)" stroke-width="${currentSeg==='P2'?7:4}" stroke-linecap="round"/>
+          <text x="245" y="225" fill="var(--seg-p)" font-size="12" font-weight="800">P2</text>
+
+          <!-- Coaptation point -->
+          <circle cx="192" cy="230" r="4" fill="#ffffff"/>
+
+          <!-- Chordae & Papillary Muscles -->
+          <line x1="185" y1="230" x2="160" y2="300" stroke="#64748b" stroke-width="1.5"/>
+          <line x1="200" y1="230" x2="240" y2="300" stroke="#64748b" stroke-width="1.5"/>
+          <ellipse cx="155" cy="315" rx="14" ry="25" fill="#334155" stroke="#475569"/>
+          <ellipse cx="245" cy="315" rx="14" ry="25" fill="#334155" stroke="#475569"/>
+
+          <!-- Left Ventricle (Bottom) -->
+          <path d="M 110,195 C 100,280 140,360 200,380 C 260,360 300,280 290,195" fill="none" stroke="#475569" stroke-width="3"/>
+          <text x="200" y="350" fill="#94a3b8" font-size="12" font-weight="700" text-anchor="middle">${t.lv}</text>
+        `;
+      }
+    },
+    '2ch': {
+      angle: '60° ME 2-CHAMBER / COMMISSURAL',
+      activeSegs: ['P3', 'A2', 'P1'],
+      render: function() {
+        const t = dict[currentLang].teeTerms;
+        return `
+          <text x="200" y="90" fill="#94a3b8" font-size="11" text-anchor="middle">${t.la}</text>
+          <ellipse cx="200" cy="190" rx="110" ry="12" fill="none" stroke="#64748b" stroke-width="3" stroke-dasharray="4 2"/>
+
+          <!-- P3 Leaflet -->
+          <path id="tee-P3" class="svg-seg ${currentSeg==='P3'?'selected':''}" d="M 105,190 Q 130,205 145,225" fill="none" stroke="var(--seg-p)" stroke-width="${currentSeg==='P3'?7:4}" stroke-linecap="round"/>
+          <text x="115" y="225" fill="var(--seg-p)" font-size="12" font-weight="800">P3</text>
+
+          <!-- A2 Leaflet (Broad in center) -->
+          <path id="tee-A2" class="svg-seg ${currentSeg==='A2'?'selected':''}" d="M 148,225 Q 200,235 250,225" fill="none" stroke="var(--seg-a)" stroke-width="${currentSeg==='A2'?7:4}" stroke-linecap="round"/>
+          <text x="200" y="245" fill="var(--seg-a)" font-size="13" font-weight="800" text-anchor="middle">A2</text>
+
+          <!-- P1 Leaflet -->
+          <path id="tee-P1" class="svg-seg ${currentSeg==='P1'?'selected':''}" d="M 295,190 Q 275,205 253,225" fill="none" stroke="var(--seg-p)" stroke-width="${currentSeg==='P1'?7:4}" stroke-linecap="round"/>
+          <text x="280" y="225" fill="var(--seg-p)" font-size="12" font-weight="800">P1</text>
+
+          <!-- Subvalvular -->
+          <line x1="145" y1="225" x2="160" y2="300" stroke="#64748b" stroke-width="1.5"/>
+          <line x1="253" y1="225" x2="240" y2="300" stroke="#64748b" stroke-width="1.5"/>
+          <ellipse cx="160" cy="315" rx="14" ry="25" fill="#334155" stroke="#475569"/>
+          <ellipse cx="240" cy="315" rx="14" ry="25" fill="#334155" stroke="#475569"/>
+
+          <path d="M 95,195 C 85,280 130,360 200,380 C 270,360 315,280 305,195" fill="none" stroke="#475569" stroke-width="3"/>
+          <text x="200" y="350" fill="#94a3b8" font-size="12" font-weight="700" text-anchor="middle">${t.lv}</text>
+        `;
+      }
+    },
+    'lax': {
+      angle: '120° ME LONG-AXIS (LVOT)',
+      activeSegs: ['A2', 'P2'],
+      render: function() {
+        const t = dict[currentLang].teeTerms;
+        return `
+          <text x="220" y="80" fill="#94a3b8" font-size="11" text-anchor="middle">${t.la}</text>
+          
+          <!-- Aortic Root / LVOT (Left/Anterior) -->
+          <path d="M 70,210 L 70,120 L 130,105 L 140,185" fill="#312e81" opacity="0.3" stroke="#4338ca" stroke-width="2"/>
+          <text x="95" y="150" fill="#a5b4fc" font-size="11" font-weight="700" text-anchor="middle">${t.ao}</text>
+
+          <!-- Aortic Valve leaflets -->
+          <line x1="90" y1="165" x2="110" y2="155" stroke="#fbbf24" stroke-width="3"/>
+          <line x1="125" y1="165" x2="110" y2="155" stroke="#fbbf24" stroke-width="3"/>
+
+          <!-- Aorto-Mitral Curtain -->
+          <line x1="140" y1="185" x2="160" y2="200" stroke="#e2e8f0" stroke-width="4"/>
+
+          <!-- A2 Leaflet (Continuity with Ao) -->
+          <path id="tee-A2" class="svg-seg ${currentSeg==='A2'?'selected':''}" d="M 160,200 Q 185,225 210,240" fill="none" stroke="var(--seg-a)" stroke-width="${currentSeg==='A2'?7:4}" stroke-linecap="round"/>
+          <text x="175" y="240" fill="var(--seg-a)" font-size="13" font-weight="800">A2</text>
+
+          <!-- P2 Leaflet (Posterior wall hinge) -->
+          <path id="tee-P2" class="svg-seg ${currentSeg==='P2'?'selected':''}" d="M 285,200 Q 250,225 215,240" fill="none" stroke="var(--seg-p)" stroke-width="${currentSeg==='P2'?7:4}" stroke-linecap="round"/>
+          <text x="260" y="235" fill="var(--seg-p)" font-size="13" font-weight="800">P2</text>
+
+          <!-- Interventricular Septum (Anterior) -->
+          <path d="M 68,210 C 65,280 120,360 190,380" fill="none" stroke="#64748b" stroke-width="5"/>
+          <text x="95" y="270" fill="#94a3b8" font-size="10" font-weight="600">${t.septum}</text>
+
+          <!-- Posterior Wall LV -->
+          <path d="M 290,200 C 295,280 250,360 190,380" fill="none" stroke="#64748b" stroke-width="4"/>
+          <text x="200" y="350" fill="#94a3b8" font-size="12" font-weight="700" text-anchor="middle">${t.lv}</text>
+        `;
+      }
+    },
+    'tg': {
+      angle: 'TRANSGASTRIC BASAL SAX ("Fish-Mouth")',
+      activeSegs: ['A1','A2','A3','P1','P2','P3'],
+      render: function() {
+        const t = dict[currentLang].teeTerms;
+        return `
+          <!-- LV Cross section circle -->
+          <circle cx="200" cy="220" rx="140" ry="130" fill="none" stroke="#475569" stroke-width="6"/>
+          
+          <!-- Mitral Orifice "Smile" -->
+          <path d="M 120,200 C 120,160 280,160 280,200 C 280,245 120,245 120,200 Z" fill="#0f172a" stroke="#64748b" stroke-width="2"/>
+          
+          <!-- Anterior Leaflet (Top) -->
+          <path d="M 130,195 C 160,175 240,175 270,195" fill="none" stroke="var(--seg-a)" stroke-width="4"/>
+          <text x="200" y="175" fill="var(--seg-a)" font-size="11" font-weight="800" text-anchor="middle">${t.antScallops}</text>
+
+          <!-- Posterior Leaflet (Bottom) -->
+          <path d="M 130,205 C 160,230 240,230 270,205" fill="none" stroke="var(--seg-p)" stroke-width="4"/>
+          <text x="200" y="240" fill="var(--seg-p)" font-size="11" font-weight="800" text-anchor="middle">${t.postScallops}</text>
+
+          <!-- Papillary muscles in TG SAX -->
+          <circle cx="110" cy="260" r="16" fill="#334155" stroke="#0ea5e9" stroke-width="2"/>
+          <text x="110" y="264" fill="#ffffff" font-size="9" font-weight="700" text-anchor="middle">AL</text>
+          
+          <circle cx="280" cy="260" r="16" fill="#334155" stroke="#f43f5e" stroke-width="2"/>
+          <text x="280" y="264" fill="#ffffff" font-size="9" font-weight="700" text-anchor="middle">PM</text>
+
+          <text x="200" y="320" fill="#94a3b8" font-size="11" font-weight="700" text-anchor="middle">${t.myo}</text>
+        `;
+      }
+    }
+  };
+
+  function getDict() { return dict[currentLang]; }
+
+  function postHeight() {
+    const h = Math.max(document.body.scrollHeight, document.documentElement.scrollHeight);
+    if (window.parent && window.parent.postMessage) {
+      window.parent.postMessage({ interactiveHeight: h, id: 'carpentier-segmental-map' }, '*');
+    }
+  }
+
+  function applyLanguage() {
+    const d = getDict();
+    document.getElementById('txt-title').textContent = d.title;
+    document.getElementById('txt-sub').textContent = d.sub;
+    document.getElementById('btn-lang').textContent = d.langBtn;
+    document.getElementById('btn-theme').textContent = d.themeBtn;
+    document.getElementById('txt-danger-toggle').textContent = dangerVisible ? d.dangerToggleOn : d.dangerToggleOff;
+    document.getElementById('txt-fil-toggle').textContent = d.filToggle;
+    document.getElementById('txt-tee-label').textContent = d.teeLabel;
+
+    document.getElementById('btn-tee-4ch').textContent = d.btnTee4ch;
+    document.getElementById('btn-tee-2ch').textContent = d.btnTee2ch;
+    document.getElementById('btn-tee-lax').textContent = d.btnTeeLax;
+    document.getElementById('btn-tee-tg').textContent = d.btnTeeTg;
+
+    document.getElementById('lbl-leaflets-group').textContent = d.lblLeafletsGroup;
+    document.getElementById('lbl-comm-group').textContent = d.lblCommGroup;
+    document.getElementById('btn-seg-ac').textContent = d.btnSegAc;
+    document.getElementById('btn-seg-pc').textContent = d.btnSegPc;
+
+    document.getElementById('txt-v1-title').textContent = d.v1Title;
+    document.getElementById('txt-v1-orient').textContent = d.v1Orient;
+    document.getElementById('txt-v2-title').textContent = d.v2Title;
+    document.getElementById('txt-tee-depth').textContent = d.teeDepth;
+
+    document.getElementById('txt-trig-left').textContent = d.trigLeft;
+    document.getElementById('txt-trig-right').textContent = d.trigRight;
+    document.getElementById('txt-dz-lcx').textContent = d.dzLcx;
+    document.getElementById('txt-dz-his').textContent = d.dzHis;
+    document.getElementById('txt-dz-cs').textContent = d.dzCs;
+    document.getElementById('txt-dz-ao').textContent = d.dzAo;
+
+    document.getElementById('txt-comp-ant').textContent = d.compAnt;
+    document.getElementById('txt-comp-post').textContent = d.compPost;
+    document.getElementById('txt-comp-l').textContent = d.compL;
+    document.getElementById('txt-comp-m').textContent = d.compM;
+
+    document.getElementById('lbl-info-anat').textContent = d.lblAnat;
+    document.getElementById('lbl-info-path').textContent = d.lblPath;
+    document.getElementById('lbl-info-tech').textContent = d.lblTech;
+    document.getElementById('lbl-info-danger').textContent = d.lblDanger;
+    document.getElementById('info-ref-pill').textContent = d.refPill;
+
+    document.getElementById('txt-comm-banner-title').textContent = d.commBannerTitle;
+    document.getElementById('txt-comm-banner-body').textContent = d.commBannerBody;
+
+    renderInfo();
+    renderTEE();
+  }
+
+  function renderInfo() {
+    const d = getDict();
+    const s = d.segments[currentSeg];
+    if (!s) return;
+
+    document.getElementById('info-seg-badge').textContent = currentSeg;
+    document.getElementById('info-seg-badge').style.background = s.badgeBg;
+    document.getElementById('info-seg-name').textContent = s.name;
+    document.getElementById('info-ref-pill').style.display = s.isRef ? 'inline-block' : 'none';
+    document.getElementById('comm-clarify-banner').style.display = s.isComm ? 'block' : 'none';
+
+    document.getElementById('txt-info-anat').textContent = s.anat;
+    document.getElementById('txt-info-path').textContent = s.path;
+    document.getElementById('txt-info-tech').textContent = s.tech;
+    document.getElementById('txt-info-danger').innerHTML = s.danger;
+  }
+
+  function renderTEE() {
+    const cfg = teeConfigs[currentTee];
+    document.getElementById('txt-tee-angle').textContent = dict[currentLang].teeAngles[currentTee];
+    document.getElementById('tee-content').innerHTML = cfg.render();
+
+    // Attach click events on TEE svg elements if applicable
+    cfg.activeSegs.forEach(segKey => {
+      const el = document.getElementById('tee-' + segKey);
+      if (el) {
+        el.addEventListener('click', () => selectSegment(segKey));
+      }
+    });
+  }
+
+  function selectSegment(seg) {
+    currentSeg = seg;
+
+    // Reset surgical view highlights
+    document.querySelectorAll('#svg-surgical .svg-seg').forEach(el => el.classList.remove('selected'));
+    document.querySelectorAll('.comm-junction-node').forEach(el => el.classList.remove('selected'));
+
+    if (seg === 'AC') {
+      const acNode = document.getElementById('comm-node-AC');
+      if (acNode) acNode.classList.add('selected');
+    } else if (seg === 'PC') {
+      const pcNode = document.getElementById('comm-node-PC');
+      if (pcNode) pcNode.classList.add('selected');
+    } else {
+      const selectedSurgical = document.getElementById('svg-seg-' + seg);
+      if (selectedSurgical) selectedSurgical.classList.add('selected');
+    }
+
+    // Update segment buttons
+    document.querySelectorAll('.seg-btn').forEach(btn => {
+      if (btn.getAttribute('data-seg') === seg) {
+        btn.classList.add('active');
+      } else {
+        btn.classList.remove('active');
+      }
+    });
+
+    renderInfo();
+    renderTEE();
+    postHeight();
+  }
+
+  // Bind Segment Buttons
+  document.querySelectorAll('.seg-btn').forEach(btn => {
+    btn.addEventListener('click', function() {
+      selectSegment(this.getAttribute('data-seg'));
+    });
+  });
+
+  // Bind Surgical SVG Elements (Leaflets)
+  document.querySelectorAll('#svg-surgical .svg-seg').forEach(el => {
+    el.addEventListener('click', function() {
+      const segId = this.id.replace('svg-seg-', '');
+      selectSegment(segId);
+    });
+  });
+
+  // Bind Surgical SVG Commissure Nodes
+  const acNode = document.getElementById('comm-node-AC');
+  if (acNode) acNode.addEventListener('click', () => selectSegment('AC'));
+  const pcNode = document.getElementById('comm-node-PC');
+  if (pcNode) pcNode.addEventListener('click', () => selectSegment('PC'));
+
+  // Bind TEE Slice Buttons
+  document.querySelectorAll('#tee-views-bar button').forEach(btn => {
+    btn.addEventListener('click', function() {
+      document.querySelectorAll('#tee-views-bar button').forEach(b => b.classList.remove('active'));
+      this.classList.add('active');
+      currentTee = this.getAttribute('data-tee');
+      renderTEE();
+      postHeight();
+    });
+  });
+
+  // Toggle Danger Zones
+  const btnDanger = document.getElementById('btn-danger');
+  btnDanger.addEventListener('click', function() {
+    dangerVisible = !dangerVisible;
+    const layer = document.getElementById('danger-layer');
+    if (dangerVisible) {
+      layer.style.display = 'block';
+      this.classList.add('danger-active');
+    } else {
+      layer.style.display = 'none';
+      this.classList.remove('danger-active');
+    }
+    const d = getDict();
+    document.getElementById('txt-danger-toggle').textContent = dangerVisible ? d.dangerToggleOn : d.dangerToggleOff;
+    postHeight();
+  });
+
+  // Toggle Fil d'Ariane Mode
+  const btnFil = document.getElementById('btn-fil');
+  btnFil.addEventListener('click', function() {
+    filMode = !filMode;
+    if (filMode) {
+      this.classList.add('active');
+      selectSegment('P1');
+      alert(getDict().filAlert);
+    } else {
+      this.classList.remove('active');
+    }
+  });
+
+  // Language & Theme
+  document.getElementById('btn-lang').addEventListener('click', function() {
+    currentLang = currentLang === 'ru' ? 'en' : 'ru';
+    applyLanguage();
+  });
+
+  document.getElementById('btn-theme').addEventListener('click', function() {
+    const html = document.documentElement;
+    const cur = html.getAttribute('data-theme') || 'dark';
+    const next = cur === 'dark' ? 'light' : cur === 'light' ? 'oled' : 'dark';
+    html.setAttribute('data-theme', next);
+  });
+
+  // Check URL params
+  const urlParams = new URLSearchParams(window.location.search);
+  if (urlParams.get('lang') === 'en') currentLang = 'en';
+  if (urlParams.get('embed') === '1') document.body.classList.add('embed');
+  if (urlParams.get('seg')) currentSeg = urlParams.get('seg');
+  if (urlParams.get('tee')) currentTee = urlParams.get('tee');
+
+  // Init
+  applyLanguage();
+  selectSegment(currentSeg);
+
+  window.addEventListener('load', () => {
+    postHeight();
+    if (window.ResizeObserver) {
+      new ResizeObserver(postHeight).observe(document.body);
+    }
+  });
+})();
+</script>
+</body>
+</html>

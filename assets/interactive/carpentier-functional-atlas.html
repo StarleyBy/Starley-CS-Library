@@ -1,0 +1,799 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width,initial-scale=1,viewport-fit=cover">
+<title>Carpentier Functional Classification Atlas & Simulator</title>
+<style>
+:root {
+  --bg: #0b0f17;
+  --card: #0f172a;
+  --card-hover: #1e293b;
+  --ln: #1e293b;
+  --ln2: #334155;
+  --tx: #e2e8f0;
+  --mu: #94a3b8;
+  --ac: #e11d48; /* Mitral arterial carmine */
+  --ac-subtle: rgba(225, 29, 72, 0.15);
+  --blue: #38bdf8;
+  --green: #34d399;
+  --amber: #fbbf24;
+  --purple: #a78bfa;
+}
+* { box-sizing: border-box; }
+body {
+  margin: 0;
+  padding: max(10px, env(safe-area-inset-top)) 10px max(10px, env(safe-area-inset-bottom));
+  background: var(--bg);
+  color: var(--tx);
+  font: 14px/1.45 -apple-system, BlinkMacSystemFont, "SF Pro Text", system-ui, "Segoe UI", Roboto, sans-serif;
+  -webkit-text-size-adjust: 100%;
+}
+[data-theme="oled"] { --bg: #000; --card: #0a0a0c; --ln: #1c1c1e; --ln2: #2c2c2e; }
+[data-theme="light"] {
+  --bg: #f8fafc;
+  --card: #ffffff;
+  --card-hover: #f1f5f9;
+  --ln: #e2e8f0;
+  --ln2: #cbd5e1;
+  --tx: #0f172a;
+  --mu: #64748b;
+  --ac: #be123c;
+  --ac-subtle: rgba(190, 18, 60, 0.1);
+  --blue: #0284c7;
+  --green: #059669;
+  --amber: #d97706;
+  --purple: #7c3aed;
+}
+.w { max-width: 1100px; margin: 0 auto; display: grid; gap: 12px; }
+.card { background: var(--card); border: 1px solid var(--ln); border-radius: 16px; padding: 14px; }
+h1 { font-size: 18px; margin: 0; font-weight: 700; display: flex; align-items: center; gap: 8px; }
+.sub { color: var(--mu); font-size: 12px; margin: 3px 0 0; }
+.bar { display: flex; flex-wrap: wrap; gap: 10px; align-items: center; justify-content: space-between; }
+.btns { display: flex; flex-wrap: wrap; gap: 6px; }
+button {
+  font: inherit;
+  font-size: 12px;
+  color: var(--tx);
+  background: var(--ln);
+  border: 1px solid var(--ln2);
+  border-radius: 999px;
+  padding: 7px 14px;
+  cursor: pointer;
+  min-height: 36px;
+  transition: all 0.2s ease;
+  user-select: none;
+}
+@media(pointer: coarse) { button { min-height: 44px; } }
+button:hover { background: var(--card-hover); border-color: var(--mu); }
+button.active { border-color: var(--ac); color: var(--ac); background: var(--ac-subtle); font-weight: 600; }
+.type-selector { display: flex; flex-wrap: wrap; gap: 6px; }
+.type-btn { flex: 1 1 calc(33.333% - 6px); min-width: 140px; text-align: left; padding: 8px 12px; border-radius: 12px; }
+@media (max-width: 700px) { .type-btn { flex: 1 1 100%; } }
+.type-btn .tb-badge { font-size: 10px; font-weight: 700; text-transform: uppercase; padding: 2px 6px; border-radius: 4px; display: inline-block; margin-bottom: 2px; }
+.type-btn .tb-title { font-size: 12px; font-weight: 600; display: block; }
+.type-btn .tb-desc { font-size: 11px; color: var(--mu); display: block; line-height: 1.25; margin-top: 2px; }
+
+/* SVG Stage */
+.stage-container { position: relative; overflow: hidden; border-radius: 12px; background: rgba(0,0,0,0.15); border: 1px solid var(--ln); }
+svg.stage { display: block; width: 100%; height: auto; min-height: 380px; max-height: 460px; }
+
+/* Info Grid */
+.info-grid { display: grid; grid-template-columns: repeat(auto-fit, minmax(240px, 1fr)); gap: 10px; margin-top: 10px; }
+.info-block { background: var(--bg); border: 1px solid var(--ln); border-radius: 12px; padding: 10px 12px; }
+.info-block h4 { margin: 0 0 6px; font-size: 11px; text-transform: uppercase; letter-spacing: 0.5px; color: var(--mu); display: flex; align-items: center; gap: 6px; }
+.info-block p { margin: 0; font-size: 12px; line-height: 1.45; }
+
+/* Badges & Pills */
+.pill-red { background: rgba(225,29,72,0.15); color: var(--ac); border: 1px solid var(--ac); }
+.pill-blue { background: rgba(56,189,248,0.15); color: var(--blue); border: 1px solid var(--blue); }
+.pill-green { background: rgba(52,211,153,0.15); color: var(--green); border: 1px solid var(--green); }
+.pill-amber { background: rgba(251,191,36,0.15); color: var(--amber); border: 1px solid var(--amber); }
+.pill-purple { background: rgba(167,139,250,0.15); color: var(--purple); border: 1px solid var(--purple); }
+.tag-pill { display: inline-block; padding: 2px 7px; border-radius: 999px; font-size: 10px; font-weight: 700; margin-right: 4px; }
+
+.legend { display: flex; flex-wrap: wrap; gap: 12px; font-size: 11px; color: var(--mu); }
+.legend-item { display: inline-flex; align-items: center; gap: 5px; }
+.legend-dot { width: 8px; height: 8px; border-radius: 50%; }
+
+body.embed .nm { display: none !important; }
+body.embed { padding: 4px; }
+body.embed .card { border: none; padding: 6px; background: transparent; }
+</style>
+</head>
+<body>
+<div class="w">
+  <!-- Header (Hidden in embed mode) -->
+  <header class="card nm">
+    <div class="bar">
+      <div>
+        <h1 id="app-title">🎛️ Атлас функциональной классификации Карпантье</h1>
+        <div class="sub" id="app-sub">Интерактивный симулятор подвижности створок, векторов регургитации и хирургической триады</div>
+      </div>
+      <div class="btns">
+        <button id="btn-quiz" title="Quiz Mode">🎓 Режим самопроверки</button>
+        <button id="btn-theme" title="Switch Theme">🌓 Тема</button>
+        <button id="btn-lang" title="Switch Language">English</button>
+      </div>
+    </div>
+  </header>
+
+  <!-- Type Selector Grid -->
+  <section class="card" aria-label="Carpentier Classification Selector">
+    <div class="type-selector" id="type-selector"></div>
+  </section>
+
+  <!-- Interactive Valve Simulator (Cross-Section & Cardiac Cycle) -->
+  <section class="card">
+    <div class="bar" style="margin-bottom: 8px;">
+      <div class="btns">
+        <button id="phase-systole" class="active">Систола (Смыкание)</button>
+        <button id="phase-diastole">Диастола (Открытие)</button>
+        <button id="phase-anim">▶ Пульсация</button>
+      </div>
+      <div class="legend nm">
+        <span class="legend-item"><span class="legend-dot" style="background:#ef4444"></span> <span id="leg-annular">Плоскость кольца</span></span>
+        <span class="legend-item"><span class="legend-dot" style="background:#38bdf8"></span> <span id="leg-coapt">Зона коаптации</span></span>
+        <span class="legend-item"><span class="legend-dot" style="background:#fbbf24"></span> <span id="leg-jet">Струя регургитации</span></span>
+        <span class="legend-item"><span class="legend-dot" style="background:#a78bfa"></span> <span id="leg-subvalv">Подклапанный аппарат</span></span>
+      </div>
+    </div>
+    <div class="stage-container">
+      <svg id="valve-stage" class="stage" viewBox="0 0 800 480" role="img"></svg>
+    </div>
+    
+    <!-- Pathology & Triad Details -->
+    <div class="info-grid" id="info-grid"></div>
+  </section>
+
+  <!-- Quiz Overlay / Modal if active -->
+  <section class="card" id="quiz-card" style="display:none;"></section>
+
+  <footer class="card nm" style="font-size:11px;color:var(--mu);text-align:center;" id="footer-text">
+    Создано на основе Alain Carpentier, David H. Adams, Farzan Filsoufi. <em>Reconstructive Valve Surgery</em>. Библиотека Starley CS Library.
+  </footer>
+</div>
+
+<script>
+(function() {
+  // --- I18N DATA ---
+  const I18N = {
+    ru: {
+      title: "Атлас функциональной классификации Карпантье",
+      sub: "Интерактивный симулятор подвижности створок, векторов регургитации и хирургической триады",
+      quizBtn: "🎓 Режим самопроверки",
+      themeBtn: "🌓 Тема",
+      langBtn: "Английский",
+      systole: "Систола (Смыкание)",
+      diastole: "Диастола (Открытие)",
+      playCycle: "▶ Пульсация",
+      stopCycle: "⏸ Пауза",
+      legAnnular: "Плоскость кольца",
+      legCoapt: "Зона коаптации",
+      legJet: "Струя регургитации",
+      legSubvalv: "Подклапанный аппарат",
+      footer: "Создано на основе Alain Carpentier, David H. Adams, Farzan Filsoufi. <em>Reconstructive Valve Surgery</em>. Библиотека Starley CS Library.",
+      svgAnnularPlane: "ПЛОСКОСТЬ КОЛЬЦА (0 мм)",
+      svgAntPap: "Передняя папиллярная мышца",
+      svgPostPap: "Задняя папиллярная мышца",
+      svgAntLeaflet: "A (Передняя створка)",
+      svgPostLeaflet: "P (Задняя створка)",
+      svgPerforation: "Перфорация",
+      svgCoaptation: "Коаптация (8–10 мм)",
+      svgTenting: "Глубина тентинга > 10 мм",
+      svgP2Prolapse: "Пролапс P2 (Выше плоскости кольца)",
+      svgA2Prolapse: "Пролапс A2 (Выше кольца)",
+      headings: {
+        pathophys: "Патофизиология и створки",
+        echo: "Эхокардиография и струя",
+        triad: "Хирургическая триада Карпантье",
+        technique: "Реконструктивная методика",
+        ring: "Опорное кольцо"
+      },
+      types: {
+        normal: {
+          badge: "Норма",
+          title: "Нормальный клапан",
+          desc: "Подвижность створок в норме",
+          details: "Свободный край створок в систолу располагается строго на 5–10 мм ниже плоскости фиброзного кольца. Полноценная зона коаптации (длина смыкания 8–10 мм). Регургитация отсутствует.",
+          echo: "Коаптация на достаточной глубине (>8 мм), отсутствие струй на ЦДК, нормальная геометрия и соотношение створок.",
+          technique: "Вмешательство не требуется. Контрольный эталон для реконструктивных манипуляций.",
+          ring: "Не требуется."
+        },
+        type1_annular: {
+          badge: "Тип I",
+          title: "Дилатация кольца (IA)",
+          desc: "Нормальная подвижность створок",
+          details: "Свободный край створок сохраняет нормальное положение ниже плоскости кольца, но дилатация фиброзного кольца (вдоль задней створки) уменьшает площадь соприкосновения, вызывая регургитацию.",
+          echo: "Симметричный дефицит коаптации, центральная струя регургитации, увеличение передне-заднего размера кольца > 35 мм.",
+          technique: "Редукционная аннулопластика опорным кольцом (remodeling annuloplasty). Цель: уменьшить передне-задний размер кольца и восстановить глубину коаптации.",
+          ring: "Полужесткое или жесткое кольцо Carpentier-Edwards Physio / Classic (размер 28–34 мм)."
+        },
+        type1_perforation: {
+          badge: "Тип I",
+          title: "Перфорация / Cleft (IB)",
+          desc: "Дефект ткани створки",
+          details: "Подвижность створок сохранена, но имеется анатомический дефект: перфорация вследствие перенесенного инфекционного эндокардита или врожденное расщепление (cleft).",
+          echo: "Струя регургитации проходит непосредственно через тело створки при сохранной коаптации остального свободного края.",
+          technique: "Закрытие перфорации ауторасширенным заплатой из перикарда, обработанного глутаральдегидом, либо прямой шов расщепления (cleft closure) + стабилизирующее кольцо.",
+          ring: "Аннулопластическое кольцо для снятия натяжения с линии швов."
+        },
+        type2_p2: {
+          badge: "Тип II",
+          title: "Пролапс задней створки (P2)",
+          desc: "Избыточная подвижность (FED / Barlow)",
+          details: "Свободный край сегмента P2 в систолу выходит за пределы плоскости кольца в полость левого предсердия вследствие удлинения или разрыва сухожильных хорд.",
+          echo: "Свободный край P2 выше плоскости кольца, струя регургитации резко эксцентрична и направлена КПЕРЕДИ (вдоль передней створки к корню аорты).",
+          technique: "Классика Карпантье: квадриангулярная или треугольная резекция сегмента P2 со скользящей пластикой (sliding plasty) для профилактики SAM-синдрома, либо имплантация неохорд Gore-Tex (CV-4/5).",
+          ring: "Обязательная имплантация опорного кольца (Physio II / Classic) для укрепления заднего полукольца."
+        },
+        type2_a2: {
+          badge: "Тип II",
+          title: "Пролапс передней створки (A2)",
+          desc: "Избыточная подвижность",
+          details: "Свободный край передней створки (сегмент A2) в систолу выгибается в левое предсердие из-за разрыва или вытяжения главных (primary) хорд.",
+          echo: "Превышение плоскости кольца створкой A2, струя регургитации эксцентрична и направлена КЗАДИ (вдоль задней створки в полость ЛП).",
+          technique: "Имплантация искусственных хорд из Gore-Tex (CV-4 / CV-5), либо перемещение хорд (chordal transfer) с интактной задней створки на переднюю.",
+          ring: "Моделирующее кольцо Carpentier-Edwards Physio для стабилизации основания передней створки."
+        },
+        type3a: {
+          badge: "Тип IIIa",
+          title: "Диастолическое ограничение",
+          desc: "Ревматический фиброз / стеноз",
+          details: "Ограничение движения створок преимущественно в диастолу. Створки ригидны, утолщены, комиссуры и хорды 2-го порядка сращены между собой, подклапанный аппарат укорочен.",
+          echo: "Диастолическое куполообразное выбухание («купол» / doming) передней створки, «замурованная» неподвижная задняя створка, повышение трансмитрального градиента давления.",
+          technique: "Комиссуротомия, фенестрация и продольное разделение сросшихся подклапанных хорд (chordal fenestration), истончение створок (shaving), аугментация заплатой из аутоперикарда.",
+          ring: "Классическое кольцо Карпантье (Classic) — позволяет адаптировать жесткую геометрию деформированного устья."
+        },
+        type3b: {
+          badge: "Тип IIIb",
+          title: "Систолическое ограничение",
+          desc: "Ишемический / ДКМП тентинг",
+          details: "Ограничение подвижности створок в систолу вследствие натяжения (tethering). Апикально-латеральное смещение папиллярных мышц при постинфарктном ремоделировании ЛЖ втягивает створки внутрь желудочка.",
+          echo: "Шатровая деформация смыкания (tenting): высота тентинга > 10 мм, площадь тентинга > 2.5 см². Струя направлена асимметрично в сторону задней створки.",
+          technique: "Рестриктивная аннулопластика кольцом уменьшенного на 1–2 размера диаметра (undersized rigid annuloplasty: Physio II / Classic), пликация/репозиция папиллярных мышц, рассечение вторичных хорд (strut chords cut).",
+          ring: "Жесткое асимметричное кольцо уменьшенного размера (Carpentier-Edwards Classic / Physio II) для форсированного сближения створок."
+        }
+      }
+    },
+    en: {
+      title: "Carpentier Functional Classification Atlas",
+      sub: "Interactive simulator of leaflet motion dynamics, regurgitant jets, and reconstructive triads",
+      quizBtn: "🎓 Quiz Mode",
+      themeBtn: "🌓 Theme",
+      langBtn: "Russian",
+      systole: "Systole (Closure)",
+      diastole: "Diastole (Opening)",
+      playCycle: "▶ Heartbeat",
+      stopCycle: "⏸ Pause",
+      legAnnular: "Annular Plane",
+      legCoapt: "Coaptation Zone",
+      legJet: "Regurgitant Jet",
+      legSubvalv: "Subvalvular Apparatus",
+      footer: "Based on Alain Carpentier, David H. Adams, Farzan Filsoufi. <em>Reconstructive Valve Surgery</em>. Starley CS Library.",
+      svgAnnularPlane: "ANNULAR PLANE (0 mm)",
+      svgAntPap: "Anterior Papillary Muscle",
+      svgPostPap: "Posterior Papillary Muscle",
+      svgAntLeaflet: "A (Anterior Leaflet)",
+      svgPostLeaflet: "P (Posterior Leaflet)",
+      svgPerforation: "Leaflet Perforation",
+      svgCoaptation: "Coaptation (8–10 mm)",
+      svgTenting: "Tenting Depth > 10 mm",
+      svgP2Prolapse: "P2 Prolapse (Overrides Annulus)",
+      svgA2Prolapse: "A2 Prolapse (> 0 mm)",
+      headings: {
+        pathophys: "Pathophysiology & Leaflets",
+        echo: "Echocardiography & Jet Dynamics",
+        triad: "Carpentier Reconstructive Triad",
+        technique: "Surgical Technique",
+        ring: "Prosthetic Ring Selection"
+      },
+      types: {
+        normal: {
+          badge: "Normal",
+          title: "Normal Valve",
+          desc: "Normal leaflet motion",
+          details: "In systole, the free edge of the leaflets lies strictly 5 to 10 mm below the plane of the annulus. Generous coaptation zone (surface length 8–10 mm). Valve is fully continent.",
+          echo: "Deep symmetric coaptation line, no regurgitant flow on color Doppler, harmonious leaflet geometry.",
+          technique: "No intervention needed. Represents the anatomical benchmark for all reconstructive procedures.",
+          ring: "None."
+        },
+        type1_annular: {
+          badge: "Type I",
+          title: "Annular Dilatation (IA)",
+          desc: "Normal leaflet motion",
+          details: "Leaflet motion remains strictly normal below the annular plane. Isolated dilatation of the mitral annulus (predominantly along the posterior segment) diminishes leaflet overlap, producing regurgitation.",
+          echo: "Symmetric coaptation deficit, strictly central regurgitant jet, enlarged anteroposterior annular diameter > 35 mm.",
+          technique: "Remodeling annuloplasty with a prosthetic ring. Goal: decrease the transverse and anteroposterior diameters to restore adequate surface of coaptation.",
+          ring: "Carpentier-Edwards Physio or Classic rigid/semi-rigid ring (size 28–34 mm)."
+        },
+        type1_perforation: {
+          badge: "Type I",
+          title: "Perforation / Cleft (IB)",
+          desc: "Leaflet tissue defect",
+          details: "Normal leaflet excursion, but an anatomical defect is present: tissue perforation from healed infective endocarditis or congenital cleft.",
+          echo: "Jet passes directly through the belly or body of the leaflet while the remaining free edge demonstrates normal coaptation.",
+          technique: "Pericardial patch repair with glutaraldehyde-treated autologous pericardium, or direct cleft approximation with interrupted non-absorbable sutures + ring annuloplasty.",
+          ring: "Annuloplasty ring to take tension off the suture line."
+        },
+        type2_p2: {
+          badge: "Type II",
+          title: "Posterior Leaflet Prolapse (P2)",
+          desc: "Excess motion (FED / Barlow)",
+          details: "The free edge of the posterior leaflet overrides the plane of the annulus into the left atrium during systole, caused by elongated or ruptured chordae tendineae.",
+          echo: "P2 segment overrides the annular plane. The regurgitant jet is markedly eccentric and directed ANTERIORLY along the anterior leaflet toward the aortic root.",
+          technique: "Carpentier classic quadrangular or triangular resection of P2 with sliding leaflet plasty (to reduce posterior leaflet height and prevent SAM), or Gore-Tex neo-chordae (CV-4/CV-5).",
+          ring: "Mandatory prosthetic ring annuloplasty (Physio II or Classic) to reshape the orifice and support the repair."
+        },
+        type2_a2: {
+          badge: "Type II",
+          title: "Anterior Leaflet Prolapse (A2)",
+          desc: "Excess motion",
+          details: "The free edge of the anterior leaflet (A2 segment) overrides the annular plane into the atrium during systole due to chordal elongation or rupture.",
+          echo: "A2 free margin in the left atrium. The regurgitant jet is markedly eccentric and directed POSTERIORLY along the posterior leaflet into the left atrial cavity.",
+          technique: "Implantation of Gore-Tex artificial chordae (CV-4 or CV-5), or chordal transfer from the intact posterior leaflet to the prolapsing anterior leaflet.",
+          ring: "Remodeling prosthetic ring (Carpentier-Edwards Physio) to restore intercommissural geometry."
+        },
+        type3a: {
+          badge: "Type IIIa",
+          title: "Diastolic Restriction",
+          desc: "Rheumatic fibrosis / stenosis",
+          details: "Leaflet motion is restricted predominantly during diastole. Leaflets are fibrotic, retracted, with commissural fusion, chordal thickening, and fused subvalvular interspaces.",
+          echo: "Diastolic doming of the anterior leaflet, rigid immobile posterior leaflet ('frozen'), elevated transmitral mean gradient.",
+          technique: "Commissurotomy, fenestration and separation of fused secondary chordae, leaflet peeling/shaving, and patch extension of the retracted posterior leaflet.",
+          ring: "Carpentier-Edwards Classic ring (conforms to rigid fibrous remodeling)."
+        },
+        type3b: {
+          badge: "Type IIIb",
+          title: "Systolic Restriction",
+          desc: "Ischemic / DCM tethering",
+          details: "Leaflet motion is restricted during systole due to apical and lateral displacement of the papillary muscles resulting from myocardial infarction or dilated cardiomyopathy (tethering).",
+          echo: "Tenting geometry with coaptation depth > 10 mm and tenting area > 2.5 cm². Markedly eccentric jet directed toward the restricted posterior leaflet.",
+          technique: "Restrictive annuloplasty with an undersized rigid ring (downsized by 1–2 sizes to enforce coaptation), papillary muscle relocation/imbrication, and cutting of second-order strut chordae.",
+          ring: "Undersized rigid ring (Carpentier-Edwards Classic or Physio II) downsized to 26–28 mm."
+        }
+      }
+    }
+  };
+
+  // State
+  let currentLang = 'ru';
+  let currentType = 'normal';
+  let currentPhase = 'systole'; // 'systole' | 'diastole'
+  let animTimer = null;
+
+  // DOM Elements
+  const stage = document.getElementById('valve-stage');
+  const typeSelector = document.getElementById('type-selector');
+  const infoGrid = document.getElementById('info-grid');
+
+  function getDict() {
+    return I18N[currentLang];
+  }
+
+  // Render Category Selectors
+  function renderSelectors() {
+    const d = getDict();
+    typeSelector.innerHTML = '';
+    const keys = Object.keys(d.types);
+
+    const pillColors = {
+      normal: 'pill-green',
+      type1_annular: 'pill-blue',
+      type1_perforation: 'pill-blue',
+      type2_p2: 'pill-red',
+      type2_a2: 'pill-red',
+      type3a: 'pill-amber',
+      type3b: 'pill-purple'
+    };
+
+    keys.forEach(key => {
+      const item = d.types[key];
+      const btn = document.createElement('button');
+      btn.className = `type-btn ${key === currentType ? 'active' : ''}`;
+      btn.setAttribute('data-key', key);
+      btn.innerHTML = `
+        <span class="tb-badge tag-pill ${pillColors[key]}">${item.badge}</span>
+        <span class="tb-title">${item.title}</span>
+        <span class="tb-desc">${item.desc}</span>
+      `;
+      btn.addEventListener('click', () => {
+        currentType = key;
+        document.querySelectorAll('.type-btn').forEach(b => b.classList.remove('active'));
+        btn.classList.add('active');
+        renderSVG();
+        renderInfo();
+        postHeight();
+      });
+      typeSelector.appendChild(btn);
+    });
+  }
+
+  // Render SVG Mitral Valve
+  function renderSVG() {
+    const d = getDict();
+    const isSys = (currentPhase === 'systole');
+    
+    // Annular points (Left = Anterior side, Right = Posterior side)
+    const ax1 = 200, ay = 140; // Anterior Annulus
+    const px1 = 600, py = 140; // Posterior Annulus
+    const midX = (ax1 + px1) / 2;
+
+    // Papillary Muscles Base
+    const papAnt = { x: 260, y: 390 };
+    const papPost = { x: 540, y: 390 };
+
+    // Leaflet tip dynamics
+    let antTip = { x: 380, y: 220 };
+    let postTip = { x: 420, y: 220 };
+    let jetPath = null;
+
+    if (!isSys) {
+      // Diastole (Open)
+      antTip = { x: 300, y: 320 };
+      postTip = { x: 500, y: 300 };
+      if (currentType === 'type3a') {
+        antTip = { x: 340, y: 240 }; // "Doming" restricted opening
+        postTip = { x: 460, y: 210 }; // Fixed retracted posterior leaflet
+      }
+    } else {
+      // Systole (Closed / Pathologies)
+      switch (currentType) {
+        case 'normal':
+          antTip = { x: 400, y: 195 }; // Good coaptation below annulus (ay = 140)
+          postTip = { x: 405, y: 195 };
+          break;
+
+        case 'type1_annular':
+          antTip = { x: 360, y: 180 };
+          postTip = { x: 440, y: 180 };
+          jetPath = "M 360,180 L 440,180 L 415,20 L 385,20 Z"; // Central regurgitant jet
+          break;
+
+        case 'type1_perforation':
+          antTip = { x: 395, y: 190 };
+          postTip = { x: 405, y: 190 };
+          jetPath = "M 315,150 L 335,150 L 330,30 L 320,30 Z"; // Jet through anterior leaflet hole
+          break;
+
+        case 'type2_p2':
+          antTip = { x: 390, y: 185 };
+          postTip = { x: 430, y: 110 }; // Posterior overrides the annular plane (110 < 140)!
+          jetPath = "M 390,170 L 430,120 L 290,20 L 250,30 Z"; // Jet directed ANTERIORLY along anterior leaflet
+          break;
+
+        case 'type2_a2':
+          antTip = { x: 370, y: 105 }; // Anterior overrides the annular plane (105 < 140)!
+          postTip = { x: 410, y: 185 };
+          jetPath = "M 370,115 L 410,175 L 530,30 L 480,20 Z"; // Jet directed POSTERIORLY
+          break;
+
+        case 'type3a': // Rheumatic
+          antTip = { x: 380, y: 200 };
+          postTip = { x: 430, y: 175 }; // Rigid, thickened
+          jetPath = "M 380,200 L 430,175 L 410,25 L 395,25 Z";
+          break;
+
+        case 'type3b': // Ischemic tethering
+          antTip = { x: 370, y: 250 }; // Deep tenting toward apex
+          postTip = { x: 440, y: 235 };
+          jetPath = "M 380,245 L 435,230 L 480,30 L 440,30 Z"; // Asymmetric posterior jet
+          break;
+      }
+    }
+
+    // Leaflet Bezier Curves
+    let antCurve = `M ${ax1},${ay} Q ${(ax1 + antTip.x)/2 - 20},${(ay + antTip.y)/2} ${antTip.x},${antTip.y}`;
+    let postCurve = `M ${px1},${py} Q ${(px1 + postTip.x)/2 + 20},${(py + postTip.y)/2} ${postTip.x},${postTip.y}`;
+
+    if (currentType === 'type3a' && !isSys) {
+      // Classic anterior hockey-stick "doming"
+      antCurve = `M ${ax1},${ay} C 260,260 320,290 ${antTip.x},${antTip.y}`;
+      postCurve = `M ${px1},${py} Q 560,140 ${postTip.x},${postTip.y}`; // Retracted rigid
+    }
+
+    let svgHtml = `
+      <!-- Background Grid & Anatomy -->
+      <defs>
+        <linearGradient id="jetGrad" x1="0" y1="1" x2="0" y2="0">
+          <stop offset="0%" stop-color="#fbbf24" stop-opacity="0.85"/>
+          <stop offset="60%" stop-color="#f59e0b" stop-opacity="0.5"/>
+          <stop offset="100%" stop-color="#ef4444" stop-opacity="0"/>
+        </linearGradient>
+        <linearGradient id="myoGrad" x1="0" y1="0" x2="0" y2="1">
+          <stop offset="0%" stop-color="#334155" stop-opacity="0.7"/>
+          <stop offset="100%" stop-color="#0f172a" stop-opacity="0.9"/>
+        </linearGradient>
+      </defs>
+
+      <!-- Left Ventricle Wall Silhouette -->
+      <path d="M 160,120 C 130,260 170,430 400,470 C 630,430 670,260 640,120 Z" fill="none" stroke="#1e293b" stroke-width="2.5" stroke-dasharray="4 4" />
+
+      <!-- Left Atrium Outline -->
+      <path d="M 180,120 C 170,40 280,10 400,10 C 520,10 630,40 620,120" fill="none" stroke="#1e293b" stroke-width="2" />
+
+      <!-- Annular Plane (Reference Baseline) -->
+      <line x1="120" y1="${ay}" x2="680" y2="${py}" stroke="#e11d48" stroke-width="2" stroke-dasharray="6 4" opacity="0.8" />
+      <text x="125" y="${ay - 8}" fill="#e11d48" font-size="11" font-weight="600">${d.svgAnnularPlane}</text>
+
+      <!-- Papillary Muscles -->
+      <!-- Anterior Papillary -->
+      <path d="M 230,440 L ${papAnt.x - 15},${papAnt.y} C ${papAnt.x},${papAnt.y - 12} ${papAnt.x + 18},${papAnt.y - 10} ${papAnt.x + 22},${papAnt.y} L 285,445 Z" fill="url(#myoGrad)" stroke="#475569" stroke-width="2"/>
+      <text x="${papAnt.x - 40}" y="${papAnt.y + 28}" fill="#94a3b8" font-size="10">${d.svgAntPap}</text>
+
+      <!-- Posterior Papillary -->
+      <path d="M 515,445 L ${papPost.x - 22},${papPost.y} C ${papPost.x - 18},${papPost.y - 10} ${papPost.x},${papPost.y - 12} ${papPost.x + 15},${papPost.y} L 570,440 Z" fill="url(#myoGrad)" stroke="#475569" stroke-width="2"/>
+      <text x="${papPost.x - 35}" y="${papPost.y + 28}" fill="#94a3b8" font-size="10">${d.svgPostPap}</text>
+
+      <!-- Regurgitant Jet (if Systole & Leak) -->
+      ${jetPath ? `<path d="${jetPath}" fill="url(#jetGrad)" opacity="0.9">
+                     <animate attributeName="opacity" values="0.75;0.95;0.75" dur="1.2s" repeatCount="indefinite"/>
+                   </path>` : ''}
+
+      <!-- Chordae Tendineae (Primary & Secondary) -->
+      <g stroke="#a78bfa" stroke-width="1.6" opacity="0.85">
+        <line x1="${papAnt.x}" y1="${papAnt.y}" x2="${antTip.x - 15}" y2="${antTip.y - 10}" />
+        <line x1="${papAnt.x + 10}" y1="${papAnt.y}" x2="${antTip.x}" y2="${antTip.y}" />
+        
+        <line x1="${papPost.x}" y1="${papPost.y}" x2="${postTip.x + 10}" y2="${postTip.y - 10}" />
+        <line x1="${papPost.x - 10}" y1="${papPost.y}" x2="${postTip.x}" y2="${postTip.y}" />
+
+        <line x1="${papAnt.x + 12}" y1="${papAnt.y}" x2="${(antTip.x + postTip.x)/2}" y2="${(antTip.y + postTip.y)/2}" stroke-dasharray="2 2" stroke-width="1.2" />
+        <line x1="${papPost.x - 12}" y1="${papPost.y}" x2="${(antTip.x + postTip.x)/2}" y2="${(antTip.y + postTip.y)/2}" stroke-dasharray="2 2" stroke-width="1.2" />
+      </g>
+
+      <!-- Anterior Leaflet Body -->
+      <path d="${antCurve}" fill="none" stroke="#38bdf8" stroke-width="6" stroke-linecap="round"/>
+      <text x="${ax1 - 10}" y="${ay - 12}" fill="#38bdf8" font-size="12" font-weight="bold">${d.svgAntLeaflet}</text>
+
+      <!-- Posterior Leaflet Body -->
+      <path d="${postCurve}" fill="none" stroke="#e2e8f0" stroke-width="5" stroke-linecap="round"/>
+      <text x="${px1 - 20}" y="${py - 12}" fill="#e2e8f0" font-size="12" font-weight="bold">${d.svgPostLeaflet}</text>
+
+      <!-- Fibrous Annulus Trigones (Hinges) -->
+      <circle cx="${ax1}" cy="${ay}" r="7" fill="#be123c" stroke="#ffffff" stroke-width="1.5"/>
+      <circle cx="${px1}" cy="${py}" r="7" fill="#be123c" stroke="#ffffff" stroke-width="1.5"/>
+
+      <!-- Perforation Hole Indicator (Type IB) -->
+      ${currentType === 'type1_perforation' ? `
+        <ellipse cx="320" cy="150" rx="8" ry="5" fill="#f59e0b" stroke="#ffffff" stroke-width="1.5"/>
+        <text x="270" y="145" fill="#fbbf24" font-size="11" font-weight="bold">${d.svgPerforation}</text>
+      ` : ''}
+
+      <!-- Coaptation Line Marker (Systole) -->
+      ${isSys && currentType === 'normal' ? `
+        <rect x="390" y="172" width="28" height="16" rx="4" fill="rgba(52,211,153,0.25)" stroke="#34d399" stroke-width="1.5"/>
+        <text x="345" y="212" fill="#34d399" font-size="11" font-weight="600">${d.svgCoaptation}</text>
+      ` : ''}
+
+      <!-- Tethering Depth Indicator (Type IIIb) -->
+      ${currentType === 'type3b' ? `
+        <line x1="${midX}" y1="${ay}" x2="${midX}" y2="245" stroke="#fbbf24" stroke-width="1.5" stroke-dasharray="3 3"/>
+        <text x="${midX + 8}" y="195" fill="#fbbf24" font-size="11" font-weight="600">${d.svgTenting}</text>
+      ` : ''}
+
+      <!-- Prolapse Indicator (Type II) -->
+      ${currentType === 'type2_p2' ? `
+        <circle cx="${postTip.x}" cy="${postTip.y}" r="6" fill="#e11d48">
+          <animate attributeName="r" values="6;9;6" dur="1s" repeatCount="indefinite"/>
+        </circle>
+        <text x="${postTip.x + 12}" y="${postTip.y + 4}" fill="#e11d48" font-size="11" font-weight="bold">${d.svgP2Prolapse}</text>
+      ` : ''}
+
+      ${currentType === 'type2_a2' ? `
+        <circle cx="${antTip.x}" cy="${antTip.y}" r="6" fill="#e11d48">
+          <animate attributeName="r" values="6;9;6" dur="1s" repeatCount="indefinite"/>
+        </circle>
+        <text x="${antTip.x - 170}" y="${antTip.y + 4}" fill="#e11d48" font-size="11" font-weight="bold">${d.svgA2Prolapse}</text>
+      ` : ''}
+    `;
+
+    stage.innerHTML = svgHtml;
+  }
+
+  // Render Information Grid
+  function renderInfo() {
+    const d = getDict();
+    const item = d.types[currentType];
+    const h = d.headings;
+
+    infoGrid.innerHTML = `
+      <div class="info-block" style="border-left: 3px solid var(--blue);">
+        <h4><span style="color:var(--blue)">●</span> ${h.pathophys}</h4>
+        <p>${item.details}</p>
+      </div>
+
+      <div class="info-block" style="border-left: 3px solid var(--amber);">
+        <h4><span style="color:var(--amber)">●</span> ${h.echo}</h4>
+        <p>${item.echo}</p>
+      </div>
+
+      <div class="info-block" style="border-left: 3px solid var(--ac);">
+        <h4><span style="color:var(--ac)">●</span> ${h.technique}</h4>
+        <p><strong>${h.triad}:</strong> ${item.technique}</p>
+        <p style="margin-top:6px;"><strong>${h.ring}:</strong> <span class="tag-pill pill-red">${item.ring}</span></p>
+      </div>
+    `;
+  }
+
+  // Height communication with parent reader iframe
+  function postHeight() {
+    const h = Math.ceil(document.documentElement.scrollHeight || document.body.scrollHeight || 650);
+    window.parent.postMessage({ carpentierAtlasHeight: h, interactiveHeight: h, id: 'carpentier-functional-atlas' }, '*');
+  }
+
+  // Phase Buttons
+  document.getElementById('phase-systole').addEventListener('click', function() {
+    stopAnim();
+    currentPhase = 'systole';
+    updatePhaseBtns();
+    renderSVG();
+  });
+  document.getElementById('phase-diastole').addEventListener('click', function() {
+    stopAnim();
+    currentPhase = 'diastole';
+    updatePhaseBtns();
+    renderSVG();
+  });
+  const playBtn = document.getElementById('phase-anim');
+  playBtn.addEventListener('click', function() {
+    if (animTimer) {
+      stopAnim();
+    } else {
+      startAnim();
+    }
+  });
+
+  function updatePhaseBtns() {
+    document.getElementById('phase-systole').classList.toggle('active', currentPhase === 'systole');
+    document.getElementById('phase-diastole').classList.toggle('active', currentPhase === 'diastole');
+  }
+
+  function startAnim() {
+    playBtn.textContent = getDict().stopCycle;
+    playBtn.classList.add('active');
+    animTimer = setInterval(() => {
+      currentPhase = (currentPhase === 'systole') ? 'diastole' : 'systole';
+      updatePhaseBtns();
+      renderSVG();
+    }, 1400);
+  }
+
+  function stopAnim() {
+    if (animTimer) clearInterval(animTimer);
+    animTimer = null;
+    playBtn.textContent = getDict().playCycle;
+    playBtn.classList.remove('active');
+  }
+
+  // Language & Theme Toggle
+  document.getElementById('btn-lang').addEventListener('click', function() {
+    currentLang = (currentLang === 'ru') ? 'en' : 'ru';
+    applyLanguage();
+  });
+
+  function applyLanguage() {
+    const d = getDict();
+    document.getElementById('app-title').textContent = '🎛️ ' + d.title;
+    document.getElementById('app-sub').textContent = d.sub;
+    document.getElementById('btn-quiz').textContent = d.quizBtn;
+    document.getElementById('btn-lang').textContent = d.langBtn;
+    document.getElementById('phase-systole').textContent = d.systole;
+    document.getElementById('phase-diastole').textContent = d.diastole;
+    document.getElementById('leg-annular').textContent = d.legAnnular;
+    document.getElementById('leg-coapt').textContent = d.legCoapt;
+    document.getElementById('leg-jet').textContent = d.legJet;
+    document.getElementById('leg-subvalv').textContent = d.legSubvalv;
+    document.getElementById('footer-text').innerHTML = d.footer;
+
+    if (!animTimer) playBtn.textContent = d.playCycle;
+    else playBtn.textContent = d.stopCycle;
+
+    renderSelectors();
+    renderSVG();
+    renderInfo();
+    postHeight();
+  }
+
+  document.getElementById('btn-theme').addEventListener('click', function() {
+    const cur = document.body.getAttribute('data-theme') || 'dark';
+    const next = (cur === 'dark') ? 'light' : (cur === 'light' ? 'oled' : 'dark');
+    document.body.setAttribute('data-theme', next);
+  });
+
+  // Quiz Mode
+  const quizBtn = document.getElementById('btn-quiz');
+  const quizCard = document.getElementById('quiz-card');
+  let quizActive = false;
+
+  quizBtn.addEventListener('click', function() {
+    quizActive = !quizActive;
+    quizBtn.classList.toggle('active', quizActive);
+    if (quizActive) {
+      startQuiz();
+    } else {
+      quizCard.style.display = 'none';
+      postHeight();
+    }
+  });
+
+  function startQuiz() {
+    quizCard.style.display = 'block';
+    const d = getDict();
+    const testCases = [
+      {
+        qRu: "На ЭхоКГ выявлена выраженная митральная регургитация с резко эксцентрической струей, направленной КЗАДИ в левое предсердие. Какой порок по Карпантье наиболее вероятен?",
+        qEn: "Echocardiography reveals severe mitral regurgitation with a jet directed markedly POSTERIORLY into the left atrium. Which Carpentier mechanism is present?",
+        correct: "type2_a2",
+        ansRu: "Тип II (Пролапс передней створки A2)",
+        ansEn: "Type II (Anterior leaflet prolapse A2)"
+      },
+      {
+        qRu: "У пациента с нижнебазальным инфарктом миокарда высота тентинга створок в систолу составляет 12 мм, струя эксцентрична кзади. Каков тип дисфункции?",
+        qEn: "In a patient post-inferior myocardial infarction, systolic tenting height is 12 mm with an eccentric jet toward the posterior leaflet. What is the mechanism?",
+        correct: "type3b",
+        ansRu: "Тип IIIb (Систолическое ограничение / Tethering)",
+        ansEn: "Type IIIb (Systolic restricted motion / Tethering)"
+      },
+      {
+        qRu: "В диастолу передняя створка совершает куполообразное движение («купол»), задняя створка ригидна и неподвижна, комиссуры спаяны. Каков тип по Карпантье?",
+        qEn: "During diastole, the anterior leaflet exhibits doming while the posterior leaflet is rigid and fixed, with fused commissures. What is the Carpentier classification?",
+        correct: "type3a",
+        ansRu: "Тип IIIa (Диастолическое ограничение / Ревматизм)",
+        ansEn: "Type IIIa (Diastolic restriction / Rheumatic)"
+      }
+    ];
+
+    const pick = testCases[Math.floor(Math.random() * testCases.length)];
+    const qText = (currentLang === 'ru') ? pick.qRu : pick.qEn;
+
+    quizCard.innerHTML = `
+      <div style="font-weight:700;font-size:13px;margin-bottom:8px;">🎯 ${qText}</div>
+      <div class="btns" id="quiz-opts"></div>
+      <div id="quiz-res" style="margin-top:8px;font-size:12px;font-weight:600;"></div>
+    `;
+
+    const optsContainer = document.getElementById('quiz-opts');
+    const allKeys = ['type1_annular', 'type2_p2', 'type2_a2', 'type3a', 'type3b'];
+    allKeys.forEach(k => {
+      const b = document.createElement('button');
+      b.textContent = d.types[k].title;
+      b.addEventListener('click', function() {
+        const resDiv = document.getElementById('quiz-res');
+        if (k === pick.correct) {
+          resDiv.innerHTML = `<span style="color:var(--green)">✅ ${currentLang==='ru'?'Абсолютно верно!':'Correct!'}</span> — ${d.types[k].technique}`;
+          currentType = k;
+          renderSelectors();
+          renderSVG();
+          renderInfo();
+        } else {
+          resDiv.innerHTML = `<span style="color:var(--ac)">❌ ${currentLang==='ru'?'Неверно. Попробуйте еще раз.':'Incorrect. Try again.'}</span>`;
+        }
+        postHeight();
+      });
+      optsContainer.appendChild(b);
+    });
+    postHeight();
+  }
+
+  // Check URL params
+  const urlParams = new URLSearchParams(window.location.search);
+  if (urlParams.get('lang') === 'en') currentLang = 'en';
+  if (urlParams.get('embed') === '1') document.body.classList.add('embed');
+  if (urlParams.get('type') && I18N.ru.types[urlParams.get('type')]) {
+    currentType = urlParams.get('type');
+  }
+
+  // Init
+  applyLanguage();
+
+  window.addEventListener('load', () => {
+    postHeight();
+    if (window.ResizeObserver) {
+      new ResizeObserver(postHeight).observe(document.body);
+    }
+  });
+})();
+</script>
+</body>
+</html>

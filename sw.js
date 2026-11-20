@@ -19,130 +19,134 @@ if (self.location.hostname === 'localhost' || self.location.hostname === '127.0.
   });
 } else {
 
-const CACHE_STATIC = 'static-v35';
-const CACHE_DYNAMIC = 'dynamic-v35';
+  const CACHE_STATIC = 'static-v36';
+  const CACHE_DYNAMIC = 'dynamic-v36';
 
-const APP_SHELL = [
-  './',
-  './index.html',
-  './offline.html',
-  './manifest.json',
-  './quiz.html',
-  './reader.html',
-  './highlights.html',
-  './search/index.html',
-  './search/search.html',
-  './assets/css/styles.css',
-  './assets/css/reader.css',
-  './assets/js/reader.js',
-  './assets/js/taxonomy-data.js',
-  './assets/js/taxonomy-bridge.js',
-  './quiz/taxonomy-summary.json',
-  './assets/css/binder.css',
-  './assets/js/binder-shelf.js',
-  './assets/css/quiz.css',
-  './assets/js/quiz.js',
-  './assets/css/toc-hud.css',
-  './assets/js/toc-hud.js',
-  './assets/css/highlighter.css',
-  './assets/js/db.js',
-  './assets/js/highlighter-engine.js',
-  './assets/js/highlighter-toolbar.js',
-  './assets/js/highlights-page.js',
-  './assets/js/exporter.js',
-  './assets/css/overlay-tools.css',
-  './assets/js/overlay-tools.js',
-  './assets/css/guideline-tables.css',
-  './assets/js/guideline-tables.js',
-  './guideline-editor.html',
-  './data/guidelines/guidelines.json',
-  './data/guidelines/tables-index.json',
-  './search/search-worker.js',
-  './search/thesaurus.json',
-  './search/search-ui.js',
-  './search/search.css',
-  './assets/js/supabase-api.js',
-  './assets/js/sync-queue.js',
-  './assets/css/style.css',
-  './assets/css/auth.css',
-  './assets/css/media-inspector.css',
-  './assets/js/config.js',
-  './assets/js/auth.js',
-  './assets/js/app.js',
-  './assets/js/media-inspector.js',
-  './assets/js/quiz-i18n.js',
-  './assets/js/settings.js',
-  './assets/js/radial-menu.js',
-  './assets/js/tab-manager.js',
-  './assets/js/navigation.js',
-  './assets/interactive/iabp-atlas.html'
-];
+  const APP_SHELL = [
+    './',
+    './index.html',
+    './offline.html',
+    './manifest.json',
+    './quiz.html',
+    './reader.html',
+    './highlights.html',
+    './search/index.html',
+    './search/search.html',
+    './assets/css/styles.css',
+    './assets/css/reader.css',
+    './assets/js/reader.js',
+    './assets/js/taxonomy-data.js',
+    './assets/js/taxonomy-bridge.js',
+    './quiz/taxonomy-summary.json',
+    './assets/css/binder.css',
+    './assets/js/binder-shelf.js',
+    './assets/css/quiz.css',
+    './assets/js/quiz.js',
+    './assets/css/toc-hud.css',
+    './assets/js/toc-hud.js',
+    './assets/css/highlighter.css',
+    './assets/js/db.js',
+    './assets/js/highlighter-engine.js',
+    './assets/js/highlighter-toolbar.js',
+    './assets/js/highlights-page.js',
+    './assets/js/exporter.js',
+    './assets/css/overlay-tools.css',
+    './assets/js/overlay-tools.js',
+    './assets/css/guideline-tables.css',
+    './assets/js/guideline-tables.js',
+    './guideline-editor.html',
+    './data/guidelines/guidelines.json',
+    './data/guidelines/tables-index.json',
+    './search/search-worker.js',
+    './search/thesaurus.json',
+    './search/search-ui.js',
+    './search/search.css',
+    './assets/js/supabase-api.js',
+    './assets/js/sync-queue.js',
+    './assets/css/style.css',
+    './assets/css/auth.css',
+    './assets/css/media-inspector.css',
+    './assets/js/config.js',
+    './assets/js/auth.js',
+    './assets/js/app.js',
+    './assets/js/media-inspector.js',
+    './assets/js/quiz-i18n.js',
+    './assets/js/settings.js',
+    './assets/js/radial-menu.js',
+    './assets/js/tab-manager.js',
+    './assets/js/navigation.js',
+    './assets/interactive/iabp-atlas.html',
+    './assets/interactive/carpentier-functional-atlas.html',
+    './assets/interactive/carpentier-segmental-map.html',
+    './assets/interactive/barlow-fed-comparator.html',
+    './assets/interactive/sam-prevention-simulator.html'
+  ];
 
-// Установка
-self.addEventListener('install', event => {
-  event.waitUntil(
-    caches.open(CACHE_STATIC).then(cache => cache.addAll(APP_SHELL))
-  );
-  self.skipWaiting();
-});
+  // Установка
+  self.addEventListener('install', event => {
+    event.waitUntil(
+      caches.open(CACHE_STATIC).then(cache => cache.addAll(APP_SHELL))
+    );
+    self.skipWaiting();
+  });
 
-// Активация
-self.addEventListener('activate', event => {
-  event.waitUntil(
-    caches.keys().then(keys =>
-      Promise.all(
-        keys
-          .filter(key => key !== CACHE_STATIC && key !== CACHE_DYNAMIC)
-          .map(key => caches.delete(key))
-      )
-    ).then(() => self.clients.claim())
-  );
-});
+  // Активация
+  self.addEventListener('activate', event => {
+    event.waitUntil(
+      caches.keys().then(keys =>
+        Promise.all(
+          keys
+            .filter(key => key !== CACHE_STATIC && key !== CACHE_DYNAMIC)
+            .map(key => caches.delete(key))
+        )
+      ).then(() => self.clients.claim())
+    );
+  });
 
-// Fetch стратегия
-self.addEventListener('fetch', event => {
-  const req = event.request;
+  // Fetch стратегия
+  self.addEventListener('fetch', event => {
+    const req = event.request;
 
-  if (req.method !== 'GET') return;
+    if (req.method !== 'GET') return;
 
-  // 📚 PDF и документы → cache first
-  if (req.url.includes('.pdf')) {
-    event.respondWith(
-      caches.match(req).then(cached => {
-        return cached || fetch(req).then(res => {
-          return caches.open(CACHE_DYNAMIC).then(cache => {
-            cache.put(req, res.clone());
-            return res;
+    // 📚 PDF и документы → cache first
+    if (req.url.includes('.pdf')) {
+      event.respondWith(
+        caches.match(req).then(cached => {
+          return cached || fetch(req).then(res => {
+            return caches.open(CACHE_DYNAMIC).then(cache => {
+              cache.put(req, res.clone());
+              return res;
+            });
           });
-        });
+        })
+      );
+      return;
+    }
+
+    // 🌐 JS & HTML → network first (with cache fallback)
+    if (req.url.includes('.js') || req.headers.get('accept')?.includes('text/html')) {
+      event.respondWith(
+        fetch(req)
+          .then(res => {
+            const clone = res.clone();
+            caches.open(CACHE_DYNAMIC).then(cache => cache.put(req, clone));
+            return res;
+          })
+          .catch(() => {
+            return caches.match(req).then(res => {
+              return res || caches.match('./offline.html');
+            });
+          })
+      );
+      return;
+    }
+
+    // 📦 Остальное → cache fallback
+    event.respondWith(
+      caches.match(req).then(res => {
+        return res || fetch(req);
       })
     );
-    return;
-  }
-
-  // 🌐 JS & HTML → network first (with cache fallback)
-  if (req.url.includes('.js') || req.headers.get('accept')?.includes('text/html')) {
-    event.respondWith(
-      fetch(req)
-        .then(res => {
-          const clone = res.clone();
-          caches.open(CACHE_DYNAMIC).then(cache => cache.put(req, clone));
-          return res;
-        })
-        .catch(() => {
-          return caches.match(req).then(res => {
-            return res || caches.match('./offline.html');
-          });
-        })
-    );
-    return;
-  }
-
-  // 📦 Остальное → cache fallback
-  event.respondWith(
-    caches.match(req).then(res => {
-      return res || fetch(req);
-    })
-  );
-});
-}
+  });
+}

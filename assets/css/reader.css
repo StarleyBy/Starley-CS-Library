@@ -1835,8 +1835,10 @@ body.night-mode .subchapter-picker .chapter-picker-item::before {
    ========================================================================== */
 
 /* --- SECTION I: Fundamentals (Slate-Blue / Холодный стальной) --- */
-.chapter-item.has-subchapters[data-chapter-id="section-01"] {
+.chapter-item.has-subchapters[data-chapter-id="section-01"],
+.chapter-picker-item.has-subchapters[data-chapter-id="section-01"] {
     border-left: 3px solid #64748b;
+    color: #475569;
     background: linear-gradient(to right, rgba(100, 116, 139, 0.08), transparent);
 }
 .chapter-item.has-subchapters[data-chapter-id="section-01"] .chapter-toggle {
@@ -1860,9 +1862,6 @@ body.night-mode .subchapter-picker .chapter-picker-item::before {
     background: #64748b;
     box-shadow: 0 0 0 3px rgba(100, 116, 139, 0.25);
 }
-.chapter-picker-item.has-subchapters[data-chapter-id="section-01"] {
-    border-left: 3px solid #64748b;
-}
 .chapter-picker-item.has-subchapters[data-chapter-id="section-01"]::after {
     color: #64748b;
 }
@@ -1878,8 +1877,10 @@ body.night-mode .subchapter-picker .chapter-picker-item::before {
 }
 
 /* --- SECTION II: Mitral Valve Reconstruction (Carmine / Deep Arterial Red) --- */
-.chapter-item.has-subchapters[data-chapter-id="section-02"] {
+.chapter-item.has-subchapters[data-chapter-id="section-02"],
+.chapter-picker-item.has-subchapters[data-chapter-id="section-02"] {
     border-left: 3px solid #e11d48;
+    color: #be123c;
     background: linear-gradient(to right, rgba(225, 29, 72, 0.07), transparent);
 }
 .chapter-item.has-subchapters[data-chapter-id="section-02"] .chapter-toggle {
@@ -1903,9 +1904,6 @@ body.night-mode .subchapter-picker .chapter-picker-item::before {
     background: #e11d48;
     box-shadow: 0 0 0 3px rgba(225, 29, 72, 0.25);
 }
-.chapter-picker-item.has-subchapters[data-chapter-id="section-02"] {
-    border-left: 3px solid #e11d48;
-}
 .chapter-picker-item.has-subchapters[data-chapter-id="section-02"]::after {
     color: #e11d48;
 }
@@ -1921,8 +1919,10 @@ body.night-mode .subchapter-picker .chapter-picker-item::before {
 }
 
 /* --- SECTION III: Tricuspid Valve Reconstruction (Venous Cyan-Blue) --- */
-.chapter-item.has-subchapters[data-chapter-id="section-03"] {
+.chapter-item.has-subchapters[data-chapter-id="section-03"],
+.chapter-picker-item.has-subchapters[data-chapter-id="section-03"] {
     border-left: 3px solid #0284c7;
+    color: #0369a1;
     background: linear-gradient(to right, rgba(2, 132, 199, 0.07), transparent);
 }
 .chapter-item.has-subchapters[data-chapter-id="section-03"] .chapter-toggle {
@@ -1946,9 +1946,6 @@ body.night-mode .subchapter-picker .chapter-picker-item::before {
     background: #0284c7;
     box-shadow: 0 0 0 3px rgba(2, 132, 199, 0.25);
 }
-.chapter-picker-item.has-subchapters[data-chapter-id="section-03"] {
-    border-left: 3px solid #0284c7;
-}
 .chapter-picker-item.has-subchapters[data-chapter-id="section-03"]::after {
     color: #0284c7;
 }
@@ -1964,8 +1961,10 @@ body.night-mode .subchapter-picker .chapter-picker-item::before {
 }
 
 /* --- SECTION IV: Aortic Valve Reconstruction (Noble Golden Amber) --- */
-.chapter-item.has-subchapters[data-chapter-id="section-04"] {
+.chapter-item.has-subchapters[data-chapter-id="section-04"],
+.chapter-picker-item.has-subchapters[data-chapter-id="section-04"] {
     border-left: 3px solid #d97706;
+    color: #b45309;
     background: linear-gradient(to right, rgba(217, 119, 6, 0.08), transparent);
 }
 .chapter-item.has-subchapters[data-chapter-id="section-04"] .chapter-toggle {
@@ -1989,9 +1988,6 @@ body.night-mode .subchapter-picker .chapter-picker-item::before {
     background: #d97706;
     box-shadow: 0 0 0 3px rgba(217, 119, 6, 0.25);
 }
-.chapter-picker-item.has-subchapters[data-chapter-id="section-04"] {
-    border-left: 3px solid #d97706;
-}
 .chapter-picker-item.has-subchapters[data-chapter-id="section-04"]::after {
     color: #d97706;
 }
@@ -2007,8 +2003,10 @@ body.night-mode .subchapter-picker .chapter-picker-item::before {
 }
 
 /* --- SECTION V: Disease-Specific Approach (Forest Emerald) --- */
-.chapter-item.has-subchapters[data-chapter-id="section-05"] {
+.chapter-item.has-subchapters[data-chapter-id="section-05"],
+.chapter-picker-item.has-subchapters[data-chapter-id="section-05"] {
     border-left: 3px solid #059669;
+    color: #047857;
     background: linear-gradient(to right, rgba(5, 150, 105, 0.07), transparent);
 }
 .chapter-item.has-subchapters[data-chapter-id="section-05"] .chapter-toggle {
@@ -2032,9 +2030,6 @@ body.night-mode .subchapter-picker .chapter-picker-item::before {
     background: #059669;
     box-shadow: 0 0 0 3px rgba(5, 150, 105, 0.25);
 }
-.chapter-picker-item.has-subchapters[data-chapter-id="section-05"] {
-    border-left: 3px solid #059669;
-}
 .chapter-picker-item.has-subchapters[data-chapter-id="section-05"]::after {
     color: #059669;
 }
@@ -2050,8 +2045,10 @@ body.night-mode .subchapter-picker .chapter-picker-item::before {
 }
 
 /* --- SECTION VI: Transfer of Knowledge (Royal Violet / Lavender) --- */
-.chapter-item.has-subchapters[data-chapter-id="section-06"] {
+.chapter-item.has-subchapters[data-chapter-id="section-06"],
+.chapter-picker-item.has-subchapters[data-chapter-id="section-06"] {
     border-left: 3px solid #7c3aed;
+    color: #6d28d9;
     background: linear-gradient(to right, rgba(124, 58, 237, 0.07), transparent);
 }
 .chapter-item.has-subchapters[data-chapter-id="section-06"] .chapter-toggle {
@@ -2075,9 +2072,6 @@ body.night-mode .subchapter-picker .chapter-picker-item::before {
     background: #7c3aed;
     box-shadow: 0 0 0 3px rgba(124, 58, 237, 0.25);
 }
-.chapter-picker-item.has-subchapters[data-chapter-id="section-06"] {
-    border-left: 3px solid #7c3aed;
-}
 .chapter-picker-item.has-subchapters[data-chapter-id="section-06"]::after {
     color: #7c3aed;
 }
@@ -2093,8 +2087,10 @@ body.night-mode .subchapter-picker .chapter-picker-item::before {
 }
 
 /* --- Night Mode Section Palette Overrides --- */
-body.night-mode .chapter-item.has-subchapters[data-chapter-id="section-01"] {
+body.night-mode .chapter-item.has-subchapters[data-chapter-id="section-01"],
+body.night-mode .chapter-picker-item.has-subchapters[data-chapter-id="section-01"] {
     border-left-color: #94a3b8;
+    color: #cbd5e1;
     background: linear-gradient(to right, rgba(148, 163, 184, 0.12), transparent);
 }
 body.night-mode .chapter-item.has-subchapters[data-chapter-id="section-01"] .chapter-toggle {
@@ -2110,9 +2106,6 @@ body.night-mode .chapter-item.subchapter[data-parent-id="section-01"].active::be
     background: #94a3b8;
     box-shadow: 0 0 0 3px rgba(148, 163, 184, 0.2);
 }
-body.night-mode .chapter-picker-item.has-subchapters[data-chapter-id="section-01"] {
-    border-left-color: #94a3b8;
-}
 body.night-mode .chapter-picker-item.has-subchapters[data-chapter-id="section-01"]::after {
     color: #94a3b8;
 }
@@ -2124,8 +2117,10 @@ body.night-mode .subchapter-picker[data-parent-id="section-01"] .chapter-picker-
     color: #cbd5e1;
 }
 
-body.night-mode .chapter-item.has-subchapters[data-chapter-id="section-02"] {
+body.night-mode .chapter-item.has-subchapters[data-chapter-id="section-02"],
+body.night-mode .chapter-picker-item.has-subchapters[data-chapter-id="section-02"] {
     border-left-color: #fb7185;
+    color: #fda4af;
     background: linear-gradient(to right, rgba(251, 113, 133, 0.12), transparent);
 }
 body.night-mode .chapter-item.has-subchapters[data-chapter-id="section-02"] .chapter-toggle {
@@ -2141,9 +2136,6 @@ body.night-mode .chapter-item.subchapter[data-parent-id="section-02"].active::be
     background: #fb7185;
     box-shadow: 0 0 0 3px rgba(251, 113, 133, 0.2);
 }
-body.night-mode .chapter-picker-item.has-subchapters[data-chapter-id="section-02"] {
-    border-left-color: #fb7185;
-}
 body.night-mode .chapter-picker-item.has-subchapters[data-chapter-id="section-02"]::after {
     color: #fb7185;
 }
@@ -2155,8 +2147,10 @@ body.night-mode .subchapter-picker[data-parent-id="section-02"] .chapter-picker-
     color: #fda4af;
 }
 
-body.night-mode .chapter-item.has-subchapters[data-chapter-id="section-03"] {
+body.night-mode .chapter-item.has-subchapters[data-chapter-id="section-03"],
+body.night-mode .chapter-picker-item.has-subchapters[data-chapter-id="section-03"] {
     border-left-color: #38bdf8;
+    color: #7dd3fc;
     background: linear-gradient(to right, rgba(56, 189, 248, 0.12), transparent);
 }
 body.night-mode .chapter-item.has-subchapters[data-chapter-id="section-03"] .chapter-toggle {
@@ -2172,9 +2166,6 @@ body.night-mode .chapter-item.subchapter[data-parent-id="section-03"].active::be
     background: #38bdf8;
     box-shadow: 0 0 0 3px rgba(56, 189, 248, 0.2);
 }
-body.night-mode .chapter-picker-item.has-subchapters[data-chapter-id="section-03"] {
-    border-left-color: #38bdf8;
-}
 body.night-mode .chapter-picker-item.has-subchapters[data-chapter-id="section-03"]::after {
     color: #38bdf8;
 }
@@ -2186,8 +2177,10 @@ body.night-mode .subchapter-picker[data-parent-id="section-03"] .chapter-picker-
     color: #7dd3fc;
 }
 
-body.night-mode .chapter-item.has-subchapters[data-chapter-id="section-04"] {
+body.night-mode .chapter-item.has-subchapters[data-chapter-id="section-04"],
+body.night-mode .chapter-picker-item.has-subchapters[data-chapter-id="section-04"] {
     border-left-color: #fbbf24;
+    color: #fde68a;
     background: linear-gradient(to right, rgba(251, 191, 36, 0.12), transparent);
 }
 body.night-mode .chapter-item.has-subchapters[data-chapter-id="section-04"] .chapter-toggle {
@@ -2203,9 +2196,6 @@ body.night-mode .chapter-item.subchapter[data-parent-id="section-04"].active::be
     background: #fbbf24;
     box-shadow: 0 0 0 3px rgba(251, 191, 36, 0.2);
 }
-body.night-mode .chapter-picker-item.has-subchapters[data-chapter-id="section-04"] {
-    border-left-color: #fbbf24;
-}
 body.night-mode .chapter-picker-item.has-subchapters[data-chapter-id="section-04"]::after {
     color: #fbbf24;
 }
@@ -2217,8 +2207,10 @@ body.night-mode .subchapter-picker[data-parent-id="section-04"] .chapter-picker-
     color: #fde68a;
 }
 
-body.night-mode .chapter-item.has-subchapters[data-chapter-id="section-05"] {
+body.night-mode .chapter-item.has-subchapters[data-chapter-id="section-05"],
+body.night-mode .chapter-picker-item.has-subchapters[data-chapter-id="section-05"] {
     border-left-color: #34d399;
+    color: #6ee7b7;
     background: linear-gradient(to right, rgba(52, 211, 153, 0.12), transparent);
 }
 body.night-mode .chapter-item.has-subchapters[data-chapter-id="section-05"] .chapter-toggle {
@@ -2234,9 +2226,6 @@ body.night-mode .chapter-item.subchapter[data-parent-id="section-05"].active::be
     background: #34d399;
     box-shadow: 0 0 0 3px rgba(52, 211, 153, 0.2);
 }
-body.night-mode .chapter-picker-item.has-subchapters[data-chapter-id="section-05"] {
-    border-left-color: #34d399;
-}
 body.night-mode .chapter-picker-item.has-subchapters[data-chapter-id="section-05"]::after {
     color: #34d399;
 }
@@ -2248,8 +2237,10 @@ body.night-mode .subchapter-picker[data-parent-id="section-05"] .chapter-picker-
     color: #6ee7b7;
 }
 
-body.night-mode .chapter-item.has-subchapters[data-chapter-id="section-06"] {
+body.night-mode .chapter-item.has-subchapters[data-chapter-id="section-06"],
+body.night-mode .chapter-picker-item.has-subchapters[data-chapter-id="section-06"] {
     border-left-color: #a78bfa;
+    color: #c4b5fd;
     background: linear-gradient(to right, rgba(167, 139, 250, 0.12), transparent);
 }
 body.night-mode .chapter-item.has-subchapters[data-chapter-id="section-06"] .chapter-toggle {
@@ -2265,9 +2256,6 @@ body.night-mode .chapter-item.subchapter[data-parent-id="section-06"].active::be
     background: #a78bfa;
     box-shadow: 0 0 0 3px rgba(167, 139, 250, 0.2);
 }
-body.night-mode .chapter-picker-item.has-subchapters[data-chapter-id="section-06"] {
-    border-left-color: #a78bfa;
-}
 body.night-mode .chapter-picker-item.has-subchapters[data-chapter-id="section-06"]::after {
     color: #a78bfa;
 }
@@ -2277,6 +2265,1182 @@ body.night-mode .subchapter-picker[data-parent-id="section-06"] {
 body.night-mode .subchapter-picker[data-parent-id="section-06"] .chapter-picker-item.active {
     background: rgba(167, 139, 250, 0.15);
     color: #c4b5fd;
+}
+
+/* ==========================================================================  
+   SECTION COLOR PALETTES — HURST CARDIOLOGY (16-SECTION ARCHITECTURE)
+   ========================================================================== */
+
+/* --- SECTION 1: Cardiovascular Disease: Past, Present, and Future (Slate-Blue) --- */
+body[data-book="hurst"] .chapter-item.has-subchapters[data-chapter-id="chapter-01"],
+body[data-book="hurst"] .chapter-picker-item.has-subchapters[data-chapter-id="chapter-01"] {
+    border-left: 3px solid #475569;
+    color: #334155;
+    background: linear-gradient(to right, rgba(71, 85, 105, 0.08), transparent);
+}
+body[data-book="hurst"] .chapter-item.has-subchapters[data-chapter-id="chapter-01"] .chapter-toggle {
+    background: rgba(71, 85, 105, 0.15);
+    color: #334155;
+}
+body[data-book="hurst"] .chapter-item.subchapter[data-parent-id="chapter-01"]:hover {
+    background: rgba(71, 85, 105, 0.08);
+    border-left-color: #475569;
+}
+body[data-book="hurst"] .chapter-item.subchapter[data-parent-id="chapter-01"]:hover::before {
+    background: #475569;
+}
+body[data-book="hurst"] .chapter-item.subchapter[data-parent-id="chapter-01"].active {
+    background: linear-gradient(to right, rgba(71, 85, 105, 0.14), transparent);
+    color: #1e293b;
+    font-weight: 600;
+    border-left-color: #475569;
+}
+body[data-book="hurst"] .chapter-item.subchapter[data-parent-id="chapter-01"].active::before {
+    background: #475569;
+    box-shadow: 0 0 0 3px rgba(71, 85, 105, 0.25);
+}
+body[data-book="hurst"] .chapter-picker-item.has-subchapters[data-chapter-id="chapter-01"]::after {
+    color: #475569;
+}
+body[data-book="hurst"] .subchapter-picker[data-parent-id="chapter-01"] {
+    border-left-color: rgba(71, 85, 105, 0.4);
+}
+body[data-book="hurst"] .subchapter-picker[data-parent-id="chapter-01"] .chapter-picker-item::before {
+    color: #475569;
+}
+body[data-book="hurst"] .subchapter-picker[data-parent-id="chapter-01"] .chapter-picker-item.active {
+    background: rgba(71, 85, 105, 0.12);
+    color: #1e293b;
+}
+
+/* --- SECTION 2: Foundations of Cardiovascular Medicine (Indigo / Cobalt) --- */
+body[data-book="hurst"] .chapter-item.has-subchapters[data-chapter-id="chapter-02"],
+body[data-book="hurst"] .chapter-picker-item.has-subchapters[data-chapter-id="chapter-02"] {
+    border-left: 3px solid #4338ca;
+    color: #3730a3;
+    background: linear-gradient(to right, rgba(67, 56, 202, 0.08), transparent);
+}
+body[data-book="hurst"] .chapter-item.has-subchapters[data-chapter-id="chapter-02"] .chapter-toggle {
+    background: rgba(67, 56, 202, 0.15);
+    color: #3730a3;
+}
+body[data-book="hurst"] .chapter-item.subchapter[data-parent-id="chapter-02"]:hover {
+    background: rgba(67, 56, 202, 0.08);
+    border-left-color: #4338ca;
+}
+body[data-book="hurst"] .chapter-item.subchapter[data-parent-id="chapter-02"]:hover::before {
+    background: #4338ca;
+}
+body[data-book="hurst"] .chapter-item.subchapter[data-parent-id="chapter-02"].active {
+    background: linear-gradient(to right, rgba(67, 56, 202, 0.14), transparent);
+    color: #312e81;
+    font-weight: 600;
+    border-left-color: #4338ca;
+}
+body[data-book="hurst"] .chapter-item.subchapter[data-parent-id="chapter-02"].active::before {
+    background: #4338ca;
+    box-shadow: 0 0 0 3px rgba(67, 56, 202, 0.25);
+}
+body[data-book="hurst"] .chapter-picker-item.has-subchapters[data-chapter-id="chapter-02"]::after {
+    color: #4338ca;
+}
+body[data-book="hurst"] .subchapter-picker[data-parent-id="chapter-02"] {
+    border-left-color: rgba(67, 56, 202, 0.4);
+}
+body[data-book="hurst"] .subchapter-picker[data-parent-id="chapter-02"] .chapter-picker-item::before {
+    color: #4338ca;
+}
+body[data-book="hurst"] .subchapter-picker[data-parent-id="chapter-02"] .chapter-picker-item.active {
+    background: rgba(67, 56, 202, 0.12);
+    color: #312e81;
+}
+
+/* --- SECTION 3: Evaluation of the Patient (Cyan / Deep Teal) --- */
+body[data-book="hurst"] .chapter-item.has-subchapters[data-chapter-id="chapter-03"],
+body[data-book="hurst"] .chapter-picker-item.has-subchapters[data-chapter-id="chapter-03"] {
+    border-left: 3px solid #0891b2;
+    color: #0e7490;
+    background: linear-gradient(to right, rgba(8, 145, 178, 0.08), transparent);
+}
+body[data-book="hurst"] .chapter-item.has-subchapters[data-chapter-id="chapter-03"] .chapter-toggle {
+    background: rgba(8, 145, 178, 0.15);
+    color: #0e7490;
+}
+body[data-book="hurst"] .chapter-item.subchapter[data-parent-id="chapter-03"]:hover {
+    background: rgba(8, 145, 178, 0.08);
+    border-left-color: #0891b2;
+}
+body[data-book="hurst"] .chapter-item.subchapter[data-parent-id="chapter-03"]:hover::before {
+    background: #0891b2;
+}
+body[data-book="hurst"] .chapter-item.subchapter[data-parent-id="chapter-03"].active {
+    background: linear-gradient(to right, rgba(8, 145, 178, 0.14), transparent);
+    color: #155e75;
+    font-weight: 600;
+    border-left-color: #0891b2;
+}
+body[data-book="hurst"] .chapter-item.subchapter[data-parent-id="chapter-03"].active::before {
+    background: #0891b2;
+    box-shadow: 0 0 0 3px rgba(8, 145, 178, 0.25);
+}
+body[data-book="hurst"] .chapter-picker-item.has-subchapters[data-chapter-id="chapter-03"]::after {
+    color: #0891b2;
+}
+body[data-book="hurst"] .subchapter-picker[data-parent-id="chapter-03"] {
+    border-left-color: rgba(8, 145, 178, 0.4);
+}
+body[data-book="hurst"] .subchapter-picker[data-parent-id="chapter-03"] .chapter-picker-item::before {
+    color: #0891b2;
+}
+body[data-book="hurst"] .subchapter-picker[data-parent-id="chapter-03"] .chapter-picker-item.active {
+    background: rgba(8, 145, 178, 0.12);
+    color: #155e75;
+}
+
+/* --- SECTION 4: Systemic Arterial Hypertension (Crimson Red) --- */
+body[data-book="hurst"] .chapter-item.has-subchapters[data-chapter-id="chapter-04"],
+body[data-book="hurst"] .chapter-picker-item.has-subchapters[data-chapter-id="chapter-04"] {
+    border-left: 3px solid #dc2626;
+    color: #b91c1c;
+    background: linear-gradient(to right, rgba(220, 38, 38, 0.08), transparent);
+}
+body[data-book="hurst"] .chapter-item.has-subchapters[data-chapter-id="chapter-04"] .chapter-toggle {
+    background: rgba(220, 38, 38, 0.15);
+    color: #b91c1c;
+}
+body[data-book="hurst"] .chapter-item.subchapter[data-parent-id="chapter-04"]:hover {
+    background: rgba(220, 38, 38, 0.08);
+    border-left-color: #dc2626;
+}
+body[data-book="hurst"] .chapter-item.subchapter[data-parent-id="chapter-04"]:hover::before {
+    background: #dc2626;
+}
+body[data-book="hurst"] .chapter-item.subchapter[data-parent-id="chapter-04"].active {
+    background: linear-gradient(to right, rgba(220, 38, 38, 0.14), transparent);
+    color: #991b1b;
+    font-weight: 600;
+    border-left-color: #dc2626;
+}
+body[data-book="hurst"] .chapter-item.subchapter[data-parent-id="chapter-04"].active::before {
+    background: #dc2626;
+    box-shadow: 0 0 0 3px rgba(220, 38, 38, 0.25);
+}
+body[data-book="hurst"] .chapter-picker-item.has-subchapters[data-chapter-id="chapter-04"]::after {
+    color: #dc2626;
+}
+body[data-book="hurst"] .subchapter-picker[data-parent-id="chapter-04"] {
+    border-left-color: rgba(220, 38, 38, 0.4);
+}
+body[data-book="hurst"] .subchapter-picker[data-parent-id="chapter-04"] .chapter-picker-item::before {
+    color: #dc2626;
+}
+body[data-book="hurst"] .subchapter-picker[data-parent-id="chapter-04"] .chapter-picker-item.active {
+    background: rgba(220, 38, 38, 0.12);
+    color: #991b1b;
+}
+
+/* --- SECTION 5: Metabolic Disorders and Cardiovascular Disease (Golden Amber) --- */
+body[data-book="hurst"] .chapter-item.has-subchapters[data-chapter-id="chapter-05"],
+body[data-book="hurst"] .chapter-picker-item.has-subchapters[data-chapter-id="chapter-05"] {
+    border-left: 3px solid #d97706;
+    color: #b45309;
+    background: linear-gradient(to right, rgba(217, 119, 6, 0.08), transparent);
+}
+body[data-book="hurst"] .chapter-item.has-subchapters[data-chapter-id="chapter-05"] .chapter-toggle {
+    background: rgba(217, 119, 6, 0.15);
+    color: #b45309;
+}
+body[data-book="hurst"] .chapter-item.subchapter[data-parent-id="chapter-05"]:hover {
+    background: rgba(217, 119, 6, 0.08);
+    border-left-color: #d97706;
+}
+body[data-book="hurst"] .chapter-item.subchapter[data-parent-id="chapter-05"]:hover::before {
+    background: #d97706;
+}
+body[data-book="hurst"] .chapter-item.subchapter[data-parent-id="chapter-05"].active {
+    background: linear-gradient(to right, rgba(217, 119, 6, 0.14), transparent);
+    color: #92400e;
+    font-weight: 600;
+    border-left-color: #d97706;
+}
+body[data-book="hurst"] .chapter-item.subchapter[data-parent-id="chapter-05"].active::before {
+    background: #d97706;
+    box-shadow: 0 0 0 3px rgba(217, 119, 6, 0.25);
+}
+body[data-book="hurst"] .chapter-picker-item.has-subchapters[data-chapter-id="chapter-05"]::after {
+    color: #d97706;
+}
+body[data-book="hurst"] .subchapter-picker[data-parent-id="chapter-05"] {
+    border-left-color: rgba(217, 119, 6, 0.4);
+}
+body[data-book="hurst"] .subchapter-picker[data-parent-id="chapter-05"] .chapter-picker-item::before {
+    color: #d97706;
+}
+body[data-book="hurst"] .subchapter-picker[data-parent-id="chapter-05"] .chapter-picker-item.active {
+    background: rgba(217, 119, 6, 0.12);
+    color: #92400e;
+}
+
+/* --- SECTION 6: Cigarette Smoking and Cardiovascular Diseases (Warm Stone) --- */
+body[data-book="hurst"] .chapter-item.has-subchapters[data-chapter-id="chapter-06"],
+body[data-book="hurst"] .chapter-picker-item.has-subchapters[data-chapter-id="chapter-06"] {
+    border-left: 3px solid #78716c;
+    color: #57534e;
+    background: linear-gradient(to right, rgba(120, 113, 108, 0.08), transparent);
+}
+body[data-book="hurst"] .chapter-item.has-subchapters[data-chapter-id="chapter-06"] .chapter-toggle {
+    background: rgba(120, 113, 108, 0.15);
+    color: #57534e;
+}
+body[data-book="hurst"] .chapter-item.subchapter[data-parent-id="chapter-06"]:hover {
+    background: rgba(120, 113, 108, 0.08);
+    border-left-color: #78716c;
+}
+body[data-book="hurst"] .chapter-item.subchapter[data-parent-id="chapter-06"]:hover::before {
+    background: #78716c;
+}
+body[data-book="hurst"] .chapter-item.subchapter[data-parent-id="chapter-06"].active {
+    background: linear-gradient(to right, rgba(120, 113, 108, 0.14), transparent);
+    color: #44403c;
+    font-weight: 600;
+    border-left-color: #78716c;
+}
+body[data-book="hurst"] .chapter-item.subchapter[data-parent-id="chapter-06"].active::before {
+    background: #78716c;
+    box-shadow: 0 0 0 3px rgba(120, 113, 108, 0.25);
+}
+body[data-book="hurst"] .chapter-picker-item.has-subchapters[data-chapter-id="chapter-06"]::after {
+    color: #78716c;
+}
+body[data-book="hurst"] .subchapter-picker[data-parent-id="chapter-06"] {
+    border-left-color: rgba(120, 113, 108, 0.4);
+}
+body[data-book="hurst"] .subchapter-picker[data-parent-id="chapter-06"] .chapter-picker-item::before {
+    color: #78716c;
+}
+body[data-book="hurst"] .subchapter-picker[data-parent-id="chapter-06"] .chapter-picker-item.active {
+    background: rgba(120, 113, 108, 0.12);
+    color: #44403c;
+}
+
+/* --- SECTION 7: Atherosclerosis and Coronary Heart Disease (Ruby Rose) --- */
+body[data-book="hurst"] .chapter-item.has-subchapters[data-chapter-id="chapter-07"],
+body[data-book="hurst"] .chapter-picker-item.has-subchapters[data-chapter-id="chapter-07"] {
+    border-left: 3px solid #e11d48;
+    color: #be123c;
+    background: linear-gradient(to right, rgba(225, 29, 72, 0.08), transparent);
+}
+body[data-book="hurst"] .chapter-item.has-subchapters[data-chapter-id="chapter-07"] .chapter-toggle {
+    background: rgba(225, 29, 72, 0.15);
+    color: #be123c;
+}
+body[data-book="hurst"] .chapter-item.subchapter[data-parent-id="chapter-07"]:hover {
+    background: rgba(225, 29, 72, 0.08);
+    border-left-color: #e11d48;
+}
+body[data-book="hurst"] .chapter-item.subchapter[data-parent-id="chapter-07"]:hover::before {
+    background: #e11d48;
+}
+body[data-book="hurst"] .chapter-item.subchapter[data-parent-id="chapter-07"].active {
+    background: linear-gradient(to right, rgba(225, 29, 72, 0.14), transparent);
+    color: #9f1239;
+    font-weight: 600;
+    border-left-color: #e11d48;
+}
+body[data-book="hurst"] .chapter-item.subchapter[data-parent-id="chapter-07"].active::before {
+    background: #e11d48;
+    box-shadow: 0 0 0 3px rgba(225, 29, 72, 0.25);
+}
+body[data-book="hurst"] .chapter-picker-item.has-subchapters[data-chapter-id="chapter-07"]::after {
+    color: #e11d48;
+}
+body[data-book="hurst"] .subchapter-picker[data-parent-id="chapter-07"] {
+    border-left-color: rgba(225, 29, 72, 0.4);
+}
+body[data-book="hurst"] .subchapter-picker[data-parent-id="chapter-07"] .chapter-picker-item::before {
+    color: #e11d48;
+}
+body[data-book="hurst"] .subchapter-picker[data-parent-id="chapter-07"] .chapter-picker-item.active {
+    background: rgba(225, 29, 72, 0.12);
+    color: #9f1239;
+}
+
+/* --- SECTION 8: Valvular Heart Disease (Royal Violet) --- */
+body[data-book="hurst"] .chapter-item.has-subchapters[data-chapter-id="chapter-08"],
+body[data-book="hurst"] .chapter-picker-item.has-subchapters[data-chapter-id="chapter-08"] {
+    border-left: 3px solid #7c3aed;
+    color: #6d28d9;
+    background: linear-gradient(to right, rgba(124, 58, 237, 0.08), transparent);
+}
+body[data-book="hurst"] .chapter-item.has-subchapters[data-chapter-id="chapter-08"] .chapter-toggle {
+    background: rgba(124, 58, 237, 0.15);
+    color: #6d28d9;
+}
+body[data-book="hurst"] .chapter-item.subchapter[data-parent-id="chapter-08"]:hover {
+    background: rgba(124, 58, 237, 0.08);
+    border-left-color: #7c3aed;
+}
+body[data-book="hurst"] .chapter-item.subchapter[data-parent-id="chapter-08"]:hover::before {
+    background: #7c3aed;
+}
+body[data-book="hurst"] .chapter-item.subchapter[data-parent-id="chapter-08"].active {
+    background: linear-gradient(to right, rgba(124, 58, 237, 0.14), transparent);
+    color: #5b21b6;
+    font-weight: 600;
+    border-left-color: #7c3aed;
+}
+body[data-book="hurst"] .chapter-item.subchapter[data-parent-id="chapter-08"].active::before {
+    background: #7c3aed;
+    box-shadow: 0 0 0 3px rgba(124, 58, 237, 0.25);
+}
+body[data-book="hurst"] .chapter-picker-item.has-subchapters[data-chapter-id="chapter-08"]::after {
+    color: #7c3aed;
+}
+body[data-book="hurst"] .subchapter-picker[data-parent-id="chapter-08"] {
+    border-left-color: rgba(124, 58, 237, 0.4);
+}
+body[data-book="hurst"] .subchapter-picker[data-parent-id="chapter-08"] .chapter-picker-item::before {
+    color: #7c3aed;
+}
+body[data-book="hurst"] .subchapter-picker[data-parent-id="chapter-08"] .chapter-picker-item.active {
+    background: rgba(124, 58, 237, 0.12);
+    color: #5b21b6;
+}
+
+/* --- SECTION 9: Congenital Heart Disease (Azure Blue) --- */
+body[data-book="hurst"] .chapter-item.has-subchapters[data-chapter-id="chapter-09"],
+body[data-book="hurst"] .chapter-picker-item.has-subchapters[data-chapter-id="chapter-09"] {
+    border-left: 3px solid #0284c7;
+    color: #0369a1;
+    background: linear-gradient(to right, rgba(2, 132, 199, 0.08), transparent);
+}
+body[data-book="hurst"] .chapter-item.has-subchapters[data-chapter-id="chapter-09"] .chapter-toggle {
+    background: rgba(2, 132, 199, 0.15);
+    color: #0369a1;
+}
+body[data-book="hurst"] .chapter-item.subchapter[data-parent-id="chapter-09"]:hover {
+    background: rgba(2, 132, 199, 0.08);
+    border-left-color: #0284c7;
+}
+body[data-book="hurst"] .chapter-item.subchapter[data-parent-id="chapter-09"]:hover::before {
+    background: #0284c7;
+}
+body[data-book="hurst"] .chapter-item.subchapter[data-parent-id="chapter-09"].active {
+    background: linear-gradient(to right, rgba(2, 132, 199, 0.14), transparent);
+    color: #075985;
+    font-weight: 600;
+    border-left-color: #0284c7;
+}
+body[data-book="hurst"] .chapter-item.subchapter[data-parent-id="chapter-09"].active::before {
+    background: #0284c7;
+    box-shadow: 0 0 0 3px rgba(2, 132, 199, 0.25);
+}
+body[data-book="hurst"] .chapter-picker-item.has-subchapters[data-chapter-id="chapter-09"]::after {
+    color: #0284c7;
+}
+body[data-book="hurst"] .subchapter-picker[data-parent-id="chapter-09"] {
+    border-left-color: rgba(2, 132, 199, 0.4);
+}
+body[data-book="hurst"] .subchapter-picker[data-parent-id="chapter-09"] .chapter-picker-item::before {
+    color: #0284c7;
+}
+body[data-book="hurst"] .subchapter-picker[data-parent-id="chapter-09"] .chapter-picker-item.active {
+    background: rgba(2, 132, 199, 0.12);
+    color: #075985;
+}
+
+/* --- SECTION 10: Myocardial, Pericardial, and Endocardial Diseases (Emerald) --- */
+body[data-book="hurst"] .chapter-item.has-subchapters[data-chapter-id="chapter-10"],
+body[data-book="hurst"] .chapter-picker-item.has-subchapters[data-chapter-id="chapter-10"] {
+    border-left: 3px solid #059669;
+    color: #047857;
+    background: linear-gradient(to right, rgba(5, 150, 105, 0.08), transparent);
+}
+body[data-book="hurst"] .chapter-item.has-subchapters[data-chapter-id="chapter-10"] .chapter-toggle {
+    background: rgba(5, 150, 105, 0.15);
+    color: #047857;
+}
+body[data-book="hurst"] .chapter-item.subchapter[data-parent-id="chapter-10"]:hover {
+    background: rgba(5, 150, 105, 0.08);
+    border-left-color: #059669;
+}
+body[data-book="hurst"] .chapter-item.subchapter[data-parent-id="chapter-10"]:hover::before {
+    background: #059669;
+}
+body[data-book="hurst"] .chapter-item.subchapter[data-parent-id="chapter-10"].active {
+    background: linear-gradient(to right, rgba(5, 150, 105, 0.14), transparent);
+    color: #065f46;
+    font-weight: 600;
+    border-left-color: #059669;
+}
+body[data-book="hurst"] .chapter-item.subchapter[data-parent-id="chapter-10"].active::before {
+    background: #059669;
+    box-shadow: 0 0 0 3px rgba(5, 150, 105, 0.25);
+}
+body[data-book="hurst"] .chapter-picker-item.has-subchapters[data-chapter-id="chapter-10"]::after {
+    color: #059669;
+}
+body[data-book="hurst"] .subchapter-picker[data-parent-id="chapter-10"] {
+    border-left-color: rgba(5, 150, 105, 0.4);
+}
+body[data-book="hurst"] .subchapter-picker[data-parent-id="chapter-10"] .chapter-picker-item::before {
+    color: #059669;
+}
+body[data-book="hurst"] .subchapter-picker[data-parent-id="chapter-10"] .chapter-picker-item.active {
+    background: rgba(5, 150, 105, 0.12);
+    color: #065f46;
+}
+
+/* --- SECTION 11: Heart Failure (Burnt Orange) --- */
+body[data-book="hurst"] .chapter-item.has-subchapters[data-chapter-id="chapter-11"],
+body[data-book="hurst"] .chapter-picker-item.has-subchapters[data-chapter-id="chapter-11"] {
+    border-left: 3px solid #ea580c;
+    color: #c2410c;
+    background: linear-gradient(to right, rgba(234, 88, 12, 0.08), transparent);
+}
+body[data-book="hurst"] .chapter-item.has-subchapters[data-chapter-id="chapter-11"] .chapter-toggle {
+    background: rgba(234, 88, 12, 0.15);
+    color: #c2410c;
+}
+body[data-book="hurst"] .chapter-item.subchapter[data-parent-id="chapter-11"]:hover {
+    background: rgba(234, 88, 12, 0.08);
+    border-left-color: #ea580c;
+}
+body[data-book="hurst"] .chapter-item.subchapter[data-parent-id="chapter-11"]:hover::before {
+    background: #ea580c;
+}
+body[data-book="hurst"] .chapter-item.subchapter[data-parent-id="chapter-11"].active {
+    background: linear-gradient(to right, rgba(234, 88, 12, 0.14), transparent);
+    color: #9a3412;
+    font-weight: 600;
+    border-left-color: #ea580c;
+}
+body[data-book="hurst"] .chapter-item.subchapter[data-parent-id="chapter-11"].active::before {
+    background: #ea580c;
+    box-shadow: 0 0 0 3px rgba(234, 88, 12, 0.25);
+}
+body[data-book="hurst"] .chapter-picker-item.has-subchapters[data-chapter-id="chapter-11"]::after {
+    color: #ea580c;
+}
+body[data-book="hurst"] .subchapter-picker[data-parent-id="chapter-11"] {
+    border-left-color: rgba(234, 88, 12, 0.4);
+}
+body[data-book="hurst"] .subchapter-picker[data-parent-id="chapter-11"] .chapter-picker-item::before {
+    color: #ea580c;
+}
+body[data-book="hurst"] .subchapter-picker[data-parent-id="chapter-11"] .chapter-picker-item.active {
+    background: rgba(234, 88, 12, 0.12);
+    color: #9a3412;
+}
+
+/* --- SECTION 12: Cardiopulmonary Disease (Teal / Sea Green) --- */
+body[data-book="hurst"] .chapter-item.has-subchapters[data-chapter-id="chapter-12"],
+body[data-book="hurst"] .chapter-picker-item.has-subchapters[data-chapter-id="chapter-12"] {
+    border-left: 3px solid #0d9488;
+    color: #0f766e;
+    background: linear-gradient(to right, rgba(13, 148, 136, 0.08), transparent);
+}
+body[data-book="hurst"] .chapter-item.has-subchapters[data-chapter-id="chapter-12"] .chapter-toggle {
+    background: rgba(13, 148, 136, 0.15);
+    color: #0f766e;
+}
+body[data-book="hurst"] .chapter-item.subchapter[data-parent-id="chapter-12"]:hover {
+    background: rgba(13, 148, 136, 0.08);
+    border-left-color: #0d9488;
+}
+body[data-book="hurst"] .chapter-item.subchapter[data-parent-id="chapter-12"]:hover::before {
+    background: #0d9488;
+}
+body[data-book="hurst"] .chapter-item.subchapter[data-parent-id="chapter-12"].active {
+    background: linear-gradient(to right, rgba(13, 148, 136, 0.14), transparent);
+    color: #115e59;
+    font-weight: 600;
+    border-left-color: #0d9488;
+}
+body[data-book="hurst"] .chapter-item.subchapter[data-parent-id="chapter-12"].active::before {
+    background: #0d9488;
+    box-shadow: 0 0 0 3px rgba(13, 148, 136, 0.25);
+}
+body[data-book="hurst"] .chapter-picker-item.has-subchapters[data-chapter-id="chapter-12"]::after {
+    color: #0d9488;
+}
+body[data-book="hurst"] .subchapter-picker[data-parent-id="chapter-12"] {
+    border-left-color: rgba(13, 148, 136, 0.4);
+}
+body[data-book="hurst"] .subchapter-picker[data-parent-id="chapter-12"] .chapter-picker-item::before {
+    color: #0d9488;
+}
+body[data-book="hurst"] .subchapter-picker[data-parent-id="chapter-12"] .chapter-picker-item.active {
+    background: rgba(13, 148, 136, 0.12);
+    color: #115e59;
+}
+
+/* --- SECTION 13: Rhythm and Conduction Disorders (Electric Fuchsia) --- */
+body[data-book="hurst"] .chapter-item.has-subchapters[data-chapter-id="chapter-13"],
+body[data-book="hurst"] .chapter-picker-item.has-subchapters[data-chapter-id="chapter-13"] {
+    border-left: 3px solid #c026d3;
+    color: #a21caf;
+    background: linear-gradient(to right, rgba(192, 38, 211, 0.08), transparent);
+}
+body[data-book="hurst"] .chapter-item.has-subchapters[data-chapter-id="chapter-13"] .chapter-toggle {
+    background: rgba(192, 38, 211, 0.15);
+    color: #a21caf;
+}
+body[data-book="hurst"] .chapter-item.subchapter[data-parent-id="chapter-13"]:hover {
+    background: rgba(192, 38, 211, 0.08);
+    border-left-color: #c026d3;
+}
+body[data-book="hurst"] .chapter-item.subchapter[data-parent-id="chapter-13"]:hover::before {
+    background: #c026d3;
+}
+body[data-book="hurst"] .chapter-item.subchapter[data-parent-id="chapter-13"].active {
+    background: linear-gradient(to right, rgba(192, 38, 211, 0.14), transparent);
+    color: #86198f;
+    font-weight: 600;
+    border-left-color: #c026d3;
+}
+body[data-book="hurst"] .chapter-item.subchapter[data-parent-id="chapter-13"].active::before {
+    background: #c026d3;
+    box-shadow: 0 0 0 3px rgba(192, 38, 211, 0.25);
+}
+body[data-book="hurst"] .chapter-picker-item.has-subchapters[data-chapter-id="chapter-13"]::after {
+    color: #c026d3;
+}
+body[data-book="hurst"] .subchapter-picker[data-parent-id="chapter-13"] {
+    border-left-color: rgba(192, 38, 211, 0.4);
+}
+body[data-book="hurst"] .subchapter-picker[data-parent-id="chapter-13"] .chapter-picker-item::before {
+    color: #c026d3;
+}
+body[data-book="hurst"] .subchapter-picker[data-parent-id="chapter-13"] .chapter-picker-item.active {
+    background: rgba(192, 38, 211, 0.12);
+    color: #86198f;
+}
+
+/* --- SECTION 14: Diseases of the Great Vessels and Peripheral Vessels (Burgundy Wine) --- */
+body[data-book="hurst"] .chapter-item.has-subchapters[data-chapter-id="chapter-14"],
+body[data-book="hurst"] .chapter-picker-item.has-subchapters[data-chapter-id="chapter-14"] {
+    border-left: 3px solid #9f1239;
+    color: #881337;
+    background: linear-gradient(to right, rgba(159, 18, 57, 0.08), transparent);
+}
+body[data-book="hurst"] .chapter-item.has-subchapters[data-chapter-id="chapter-14"] .chapter-toggle {
+    background: rgba(159, 18, 57, 0.15);
+    color: #881337;
+}
+body[data-book="hurst"] .chapter-item.subchapter[data-parent-id="chapter-14"]:hover {
+    background: rgba(159, 18, 57, 0.08);
+    border-left-color: #9f1239;
+}
+body[data-book="hurst"] .chapter-item.subchapter[data-parent-id="chapter-14"]:hover::before {
+    background: #9f1239;
+}
+body[data-book="hurst"] .chapter-item.subchapter[data-parent-id="chapter-14"].active {
+    background: linear-gradient(to right, rgba(159, 18, 57, 0.14), transparent);
+    color: #700c28;
+    font-weight: 600;
+    border-left-color: #9f1239;
+}
+body[data-book="hurst"] .chapter-item.subchapter[data-parent-id="chapter-14"].active::before {
+    background: #9f1239;
+    box-shadow: 0 0 0 3px rgba(159, 18, 57, 0.25);
+}
+body[data-book="hurst"] .chapter-picker-item.has-subchapters[data-chapter-id="chapter-14"]::after {
+    color: #9f1239;
+}
+body[data-book="hurst"] .subchapter-picker[data-parent-id="chapter-14"] {
+    border-left-color: rgba(159, 18, 57, 0.4);
+}
+body[data-book="hurst"] .subchapter-picker[data-parent-id="chapter-14"] .chapter-picker-item::before {
+    color: #9f1239;
+}
+body[data-book="hurst"] .subchapter-picker[data-parent-id="chapter-14"] .chapter-picker-item.active {
+    background: rgba(159, 18, 57, 0.12);
+    color: #700c28;
+}
+
+/* --- SECTION 15: Miscellaneous Conditions and Cardiovascular Disease (Bronze Olive) --- */
+body[data-book="hurst"] .chapter-item.has-subchapters[data-chapter-id="chapter-15"],
+body[data-book="hurst"] .chapter-picker-item.has-subchapters[data-chapter-id="chapter-15"] {
+    border-left: 3px solid #65a30d;
+    color: #4d7c0f;
+    background: linear-gradient(to right, rgba(101, 163, 13, 0.08), transparent);
+}
+body[data-book="hurst"] .chapter-item.has-subchapters[data-chapter-id="chapter-15"] .chapter-toggle {
+    background: rgba(101, 163, 13, 0.15);
+    color: #4d7c0f;
+}
+body[data-book="hurst"] .chapter-item.subchapter[data-parent-id="chapter-15"]:hover {
+    background: rgba(101, 163, 13, 0.08);
+    border-left-color: #65a30d;
+}
+body[data-book="hurst"] .chapter-item.subchapter[data-parent-id="chapter-15"]:hover::before {
+    background: #65a30d;
+}
+body[data-book="hurst"] .chapter-item.subchapter[data-parent-id="chapter-15"].active {
+    background: linear-gradient(to right, rgba(101, 163, 13, 0.14), transparent);
+    color: #3f6212;
+    font-weight: 600;
+    border-left-color: #65a30d;
+}
+body[data-book="hurst"] .chapter-item.subchapter[data-parent-id="chapter-15"].active::before {
+    background: #65a30d;
+    box-shadow: 0 0 0 3px rgba(101, 163, 13, 0.25);
+}
+body[data-book="hurst"] .chapter-picker-item.has-subchapters[data-chapter-id="chapter-15"]::after {
+    color: #65a30d;
+}
+body[data-book="hurst"] .subchapter-picker[data-parent-id="chapter-15"] {
+    border-left-color: rgba(101, 163, 13, 0.4);
+}
+body[data-book="hurst"] .subchapter-picker[data-parent-id="chapter-15"] .chapter-picker-item::before {
+    color: #65a30d;
+}
+body[data-book="hurst"] .subchapter-picker[data-parent-id="chapter-15"] .chapter-picker-item.active {
+    background: rgba(101, 163, 13, 0.12);
+    color: #3f6212;
+}
+
+/* --- SECTION 16: Populations and Social Determinants of CVD (Royal Blue) --- */
+body[data-book="hurst"] .chapter-item.has-subchapters[data-chapter-id="chapter-16"],
+body[data-book="hurst"] .chapter-picker-item.has-subchapters[data-chapter-id="chapter-16"] {
+    border-left: 3px solid #2563eb;
+    color: #1d4ed8;
+    background: linear-gradient(to right, rgba(37, 99, 235, 0.08), transparent);
+}
+body[data-book="hurst"] .chapter-item.has-subchapters[data-chapter-id="chapter-16"] .chapter-toggle {
+    background: rgba(37, 99, 235, 0.15);
+    color: #1d4ed8;
+}
+body[data-book="hurst"] .chapter-item.subchapter[data-parent-id="chapter-16"]:hover {
+    background: rgba(37, 99, 235, 0.08);
+    border-left-color: #2563eb;
+}
+body[data-book="hurst"] .chapter-item.subchapter[data-parent-id="chapter-16"]:hover::before {
+    background: #2563eb;
+}
+body[data-book="hurst"] .chapter-item.subchapter[data-parent-id="chapter-16"].active {
+    background: linear-gradient(to right, rgba(37, 99, 235, 0.14), transparent);
+    color: #1e40af;
+    font-weight: 600;
+    border-left-color: #2563eb;
+}
+body[data-book="hurst"] .chapter-item.subchapter[data-parent-id="chapter-16"].active::before {
+    background: #2563eb;
+    box-shadow: 0 0 0 3px rgba(37, 99, 235, 0.25);
+}
+body[data-book="hurst"] .chapter-picker-item.has-subchapters[data-chapter-id="chapter-16"]::after {
+    color: #2563eb;
+}
+body[data-book="hurst"] .subchapter-picker[data-parent-id="chapter-16"] {
+    border-left-color: rgba(37, 99, 235, 0.4);
+}
+body[data-book="hurst"] .subchapter-picker[data-parent-id="chapter-16"] .chapter-picker-item::before {
+    color: #2563eb;
+}
+body[data-book="hurst"] .subchapter-picker[data-parent-id="chapter-16"] .chapter-picker-item.active {
+    background: rgba(37, 99, 235, 0.12);
+    color: #1e40af;
+}
+
+/* ==========================================================================  
+   HURST CARDIOLOGY — NIGHT MODE SECTION PALETTE
+   ========================================================================== */
+
+/* Section 1 Night Mode */
+body.night-mode[data-book="hurst"] .chapter-item.has-subchapters[data-chapter-id="chapter-01"],
+body.night-mode[data-book="hurst"] .chapter-picker-item.has-subchapters[data-chapter-id="chapter-01"] {
+    border-left-color: #94a3b8;
+    color: #cbd5e1;
+    background: linear-gradient(to right, rgba(148, 163, 184, 0.12), transparent);
+}
+body.night-mode[data-book="hurst"] .chapter-item.has-subchapters[data-chapter-id="chapter-01"] .chapter-toggle {
+    background: rgba(148, 163, 184, 0.2);
+    color: #cbd5e1;
+}
+body.night-mode[data-book="hurst"] .chapter-item.subchapter[data-parent-id="chapter-01"].active {
+    border-left-color: #94a3b8;
+    color: #cbd5e1;
+    background: linear-gradient(to right, rgba(148, 163, 184, 0.15), transparent);
+}
+body.night-mode[data-book="hurst"] .chapter-item.subchapter[data-parent-id="chapter-01"].active::before {
+    background: #94a3b8;
+    box-shadow: 0 0 0 3px rgba(148, 163, 184, 0.2);
+}
+body.night-mode[data-book="hurst"] .chapter-picker-item.has-subchapters[data-chapter-id="chapter-01"]::after {
+    color: #94a3b8;
+}
+body.night-mode[data-book="hurst"] .subchapter-picker[data-parent-id="chapter-01"] {
+    border-left-color: #475569;
+}
+body.night-mode[data-book="hurst"] .subchapter-picker[data-parent-id="chapter-01"] .chapter-picker-item.active {
+    background: rgba(148, 163, 184, 0.15);
+    color: #cbd5e1;
+}
+
+/* Section 2 Night Mode */
+body.night-mode[data-book="hurst"] .chapter-item.has-subchapters[data-chapter-id="chapter-02"],
+body.night-mode[data-book="hurst"] .chapter-picker-item.has-subchapters[data-chapter-id="chapter-02"] {
+    border-left-color: #818cf8;
+    color: #c7d2fe;
+    background: linear-gradient(to right, rgba(129, 140, 248, 0.12), transparent);
+}
+body.night-mode[data-book="hurst"] .chapter-item.has-subchapters[data-chapter-id="chapter-02"] .chapter-toggle {
+    background: rgba(129, 140, 248, 0.2);
+    color: #c7d2fe;
+}
+body.night-mode[data-book="hurst"] .chapter-item.subchapter[data-parent-id="chapter-02"].active {
+    border-left-color: #818cf8;
+    color: #c7d2fe;
+    background: linear-gradient(to right, rgba(129, 140, 248, 0.15), transparent);
+}
+body.night-mode[data-book="hurst"] .chapter-item.subchapter[data-parent-id="chapter-02"].active::before {
+    background: #818cf8;
+    box-shadow: 0 0 0 3px rgba(129, 140, 248, 0.2);
+}
+body.night-mode[data-book="hurst"] .chapter-picker-item.has-subchapters[data-chapter-id="chapter-02"]::after {
+    color: #818cf8;
+}
+body.night-mode[data-book="hurst"] .subchapter-picker[data-parent-id="chapter-02"] {
+    border-left-color: #3730a3;
+}
+body.night-mode[data-book="hurst"] .subchapter-picker[data-parent-id="chapter-02"] .chapter-picker-item.active {
+    background: rgba(129, 140, 248, 0.15);
+    color: #c7d2fe;
+}
+
+/* Section 3 Night Mode */
+body.night-mode[data-book="hurst"] .chapter-item.has-subchapters[data-chapter-id="chapter-03"],
+body.night-mode[data-book="hurst"] .chapter-picker-item.has-subchapters[data-chapter-id="chapter-03"] {
+    border-left-color: #38bdf8;
+    color: #bae6fd;
+    background: linear-gradient(to right, rgba(56, 189, 248, 0.12), transparent);
+}
+body.night-mode[data-book="hurst"] .chapter-item.has-subchapters[data-chapter-id="chapter-03"] .chapter-toggle {
+    background: rgba(56, 189, 248, 0.2);
+    color: #bae6fd;
+}
+body.night-mode[data-book="hurst"] .chapter-item.subchapter[data-parent-id="chapter-03"].active {
+    border-left-color: #38bdf8;
+    color: #bae6fd;
+    background: linear-gradient(to right, rgba(56, 189, 248, 0.15), transparent);
+}
+body.night-mode[data-book="hurst"] .chapter-item.subchapter[data-parent-id="chapter-03"].active::before {
+    background: #38bdf8;
+    box-shadow: 0 0 0 3px rgba(56, 189, 248, 0.2);
+}
+body.night-mode[data-book="hurst"] .chapter-picker-item.has-subchapters[data-chapter-id="chapter-03"]::after {
+    color: #38bdf8;
+}
+body.night-mode[data-book="hurst"] .subchapter-picker[data-parent-id="chapter-03"] {
+    border-left-color: #0e7490;
+}
+body.night-mode[data-book="hurst"] .subchapter-picker[data-parent-id="chapter-03"] .chapter-picker-item.active {
+    background: rgba(56, 189, 248, 0.15);
+    color: #bae6fd;
+}
+
+/* Section 4 Night Mode */
+body.night-mode[data-book="hurst"] .chapter-item.has-subchapters[data-chapter-id="chapter-04"],
+body.night-mode[data-book="hurst"] .chapter-picker-item.has-subchapters[data-chapter-id="chapter-04"] {
+    border-left-color: #f87171;
+    color: #fca5a5;
+    background: linear-gradient(to right, rgba(248, 113, 113, 0.12), transparent);
+}
+body.night-mode[data-book="hurst"] .chapter-item.has-subchapters[data-chapter-id="chapter-04"] .chapter-toggle {
+    background: rgba(248, 113, 113, 0.2);
+    color: #fca5a5;
+}
+body.night-mode[data-book="hurst"] .chapter-item.subchapter[data-parent-id="chapter-04"].active {
+    border-left-color: #f87171;
+    color: #fca5a5;
+    background: linear-gradient(to right, rgba(248, 113, 113, 0.15), transparent);
+}
+body.night-mode[data-book="hurst"] .chapter-item.subchapter[data-parent-id="chapter-04"].active::before {
+    background: #f87171;
+    box-shadow: 0 0 0 3px rgba(248, 113, 113, 0.2);
+}
+body.night-mode[data-book="hurst"] .chapter-picker-item.has-subchapters[data-chapter-id="chapter-04"]::after {
+    color: #f87171;
+}
+body.night-mode[data-book="hurst"] .subchapter-picker[data-parent-id="chapter-04"] {
+    border-left-color: #991b1b;
+}
+body.night-mode[data-book="hurst"] .subchapter-picker[data-parent-id="chapter-04"] .chapter-picker-item.active {
+    background: rgba(248, 113, 113, 0.15);
+    color: #fca5a5;
+}
+
+/* Section 5 Night Mode */
+body.night-mode[data-book="hurst"] .chapter-item.has-subchapters[data-chapter-id="chapter-05"],
+body.night-mode[data-book="hurst"] .chapter-picker-item.has-subchapters[data-chapter-id="chapter-05"] {
+    border-left-color: #fbbf24;
+    color: #fde68a;
+    background: linear-gradient(to right, rgba(251, 191, 36, 0.12), transparent);
+}
+body.night-mode[data-book="hurst"] .chapter-item.has-subchapters[data-chapter-id="chapter-05"] .chapter-toggle {
+    background: rgba(251, 191, 36, 0.2);
+    color: #fde68a;
+}
+body.night-mode[data-book="hurst"] .chapter-item.subchapter[data-parent-id="chapter-05"].active {
+    border-left-color: #fbbf24;
+    color: #fde68a;
+    background: linear-gradient(to right, rgba(251, 191, 36, 0.15), transparent);
+}
+body.night-mode[data-book="hurst"] .chapter-item.subchapter[data-parent-id="chapter-05"].active::before {
+    background: #fbbf24;
+    box-shadow: 0 0 0 3px rgba(251, 191, 36, 0.2);
+}
+body.night-mode[data-book="hurst"] .chapter-picker-item.has-subchapters[data-chapter-id="chapter-05"]::after {
+    color: #fbbf24;
+}
+body.night-mode[data-book="hurst"] .subchapter-picker[data-parent-id="chapter-05"] {
+    border-left-color: #78350f;
+}
+body.night-mode[data-book="hurst"] .subchapter-picker[data-parent-id="chapter-05"] .chapter-picker-item.active {
+    background: rgba(251, 191, 36, 0.15);
+    color: #fde68a;
+}
+
+/* Section 6 Night Mode */
+body.night-mode[data-book="hurst"] .chapter-item.has-subchapters[data-chapter-id="chapter-06"],
+body.night-mode[data-book="hurst"] .chapter-picker-item.has-subchapters[data-chapter-id="chapter-06"] {
+    border-left-color: #a8a29e;
+    color: #d6d3d1;
+    background: linear-gradient(to right, rgba(168, 162, 158, 0.12), transparent);
+}
+body.night-mode[data-book="hurst"] .chapter-item.has-subchapters[data-chapter-id="chapter-06"] .chapter-toggle {
+    background: rgba(168, 162, 158, 0.2);
+    color: #d6d3d1;
+}
+body.night-mode[data-book="hurst"] .chapter-item.subchapter[data-parent-id="chapter-06"].active {
+    border-left-color: #a8a29e;
+    color: #d6d3d1;
+    background: linear-gradient(to right, rgba(168, 162, 158, 0.15), transparent);
+}
+body.night-mode[data-book="hurst"] .chapter-item.subchapter[data-parent-id="chapter-06"].active::before {
+    background: #a8a29e;
+    box-shadow: 0 0 0 3px rgba(168, 162, 158, 0.2);
+}
+body.night-mode[data-book="hurst"] .chapter-picker-item.has-subchapters[data-chapter-id="chapter-06"]::after {
+    color: #a8a29e;
+}
+body.night-mode[data-book="hurst"] .subchapter-picker[data-parent-id="chapter-06"] {
+    border-left-color: #44403c;
+}
+body.night-mode[data-book="hurst"] .subchapter-picker[data-parent-id="chapter-06"] .chapter-picker-item.active {
+    background: rgba(168, 162, 158, 0.15);
+    color: #d6d3d1;
+}
+
+/* Section 7 Night Mode */
+body.night-mode[data-book="hurst"] .chapter-item.has-subchapters[data-chapter-id="chapter-07"],
+body.night-mode[data-book="hurst"] .chapter-picker-item.has-subchapters[data-chapter-id="chapter-07"] {
+    border-left-color: #fb7185;
+    color: #fda4af;
+    background: linear-gradient(to right, rgba(251, 113, 133, 0.12), transparent);
+}
+body.night-mode[data-book="hurst"] .chapter-item.has-subchapters[data-chapter-id="chapter-07"] .chapter-toggle {
+    background: rgba(251, 113, 133, 0.2);
+    color: #fda4af;
+}
+body.night-mode[data-book="hurst"] .chapter-item.subchapter[data-parent-id="chapter-07"].active {
+    border-left-color: #fb7185;
+    color: #fda4af;
+    background: linear-gradient(to right, rgba(251, 113, 133, 0.15), transparent);
+}
+body.night-mode[data-book="hurst"] .chapter-item.subchapter[data-parent-id="chapter-07"].active::before {
+    background: #fb7185;
+    box-shadow: 0 0 0 3px rgba(251, 113, 133, 0.2);
+}
+body.night-mode[data-book="hurst"] .chapter-picker-item.has-subchapters[data-chapter-id="chapter-07"]::after {
+    color: #fb7185;
+}
+body.night-mode[data-book="hurst"] .subchapter-picker[data-parent-id="chapter-07"] {
+    border-left-color: #881337;
+}
+body.night-mode[data-book="hurst"] .subchapter-picker[data-parent-id="chapter-07"] .chapter-picker-item.active {
+    background: rgba(251, 113, 133, 0.15);
+    color: #fda4af;
+}
+
+/* Section 8 Night Mode */
+body.night-mode[data-book="hurst"] .chapter-item.has-subchapters[data-chapter-id="chapter-08"],
+body.night-mode[data-book="hurst"] .chapter-picker-item.has-subchapters[data-chapter-id="chapter-08"] {
+    border-left-color: #a78bfa;
+    color: #c4b5fd;
+    background: linear-gradient(to right, rgba(167, 139, 250, 0.12), transparent);
+}
+body.night-mode[data-book="hurst"] .chapter-item.has-subchapters[data-chapter-id="chapter-08"] .chapter-toggle {
+    background: rgba(167, 139, 250, 0.2);
+    color: #c4b5fd;
+}
+body.night-mode[data-book="hurst"] .chapter-item.subchapter[data-parent-id="chapter-08"].active {
+    border-left-color: #a78bfa;
+    color: #c4b5fd;
+    background: linear-gradient(to right, rgba(167, 139, 250, 0.15), transparent);
+}
+body.night-mode[data-book="hurst"] .chapter-item.subchapter[data-parent-id="chapter-08"].active::before {
+    background: #a78bfa;
+    box-shadow: 0 0 0 3px rgba(167, 139, 250, 0.2);
+}
+body.night-mode[data-book="hurst"] .chapter-picker-item.has-subchapters[data-chapter-id="chapter-08"]::after {
+    color: #a78bfa;
+}
+body.night-mode[data-book="hurst"] .subchapter-picker[data-parent-id="chapter-08"] {
+    border-left-color: #4c1d95;
+}
+body.night-mode[data-book="hurst"] .subchapter-picker[data-parent-id="chapter-08"] .chapter-picker-item.active {
+    background: rgba(167, 139, 250, 0.15);
+    color: #c4b5fd;
+}
+
+/* Section 9 Night Mode */
+body.night-mode[data-book="hurst"] .chapter-item.has-subchapters[data-chapter-id="chapter-09"],
+body.night-mode[data-book="hurst"] .chapter-picker-item.has-subchapters[data-chapter-id="chapter-09"] {
+    border-left-color: #38bdf8;
+    color: #7dd3fc;
+    background: linear-gradient(to right, rgba(56, 189, 248, 0.12), transparent);
+}
+body.night-mode[data-book="hurst"] .chapter-item.has-subchapters[data-chapter-id="chapter-09"] .chapter-toggle {
+    background: rgba(56, 189, 248, 0.2);
+    color: #7dd3fc;
+}
+body.night-mode[data-book="hurst"] .chapter-item.subchapter[data-parent-id="chapter-09"].active {
+    border-left-color: #38bdf8;
+    color: #7dd3fc;
+    background: linear-gradient(to right, rgba(56, 189, 248, 0.15), transparent);
+}
+body.night-mode[data-book="hurst"] .chapter-item.subchapter[data-parent-id="chapter-09"].active::before {
+    background: #38bdf8;
+    box-shadow: 0 0 0 3px rgba(56, 189, 248, 0.2);
+}
+body.night-mode[data-book="hurst"] .chapter-picker-item.has-subchapters[data-chapter-id="chapter-09"]::after {
+    color: #38bdf8;
+}
+body.night-mode[data-book="hurst"] .subchapter-picker[data-parent-id="chapter-09"] {
+    border-left-color: #0369a1;
+}
+body.night-mode[data-book="hurst"] .subchapter-picker[data-parent-id="chapter-09"] .chapter-picker-item.active {
+    background: rgba(56, 189, 248, 0.15);
+    color: #7dd3fc;
+}
+
+/* Section 10 Night Mode */
+body.night-mode[data-book="hurst"] .chapter-item.has-subchapters[data-chapter-id="chapter-10"],
+body.night-mode[data-book="hurst"] .chapter-picker-item.has-subchapters[data-chapter-id="chapter-10"] {
+    border-left-color: #34d399;
+    color: #a7f3d0;
+    background: linear-gradient(to right, rgba(52, 211, 153, 0.12), transparent);
+}
+body.night-mode[data-book="hurst"] .chapter-item.has-subchapters[data-chapter-id="chapter-10"] .chapter-toggle {
+    background: rgba(52, 211, 153, 0.2);
+    color: #a7f3d0;
+}
+body.night-mode[data-book="hurst"] .chapter-item.subchapter[data-parent-id="chapter-10"].active {
+    border-left-color: #34d399;
+    color: #a7f3d0;
+    background: linear-gradient(to right, rgba(52, 211, 153, 0.15), transparent);
+}
+body.night-mode[data-book="hurst"] .chapter-item.subchapter[data-parent-id="chapter-10"].active::before {
+    background: #34d399;
+    box-shadow: 0 0 0 3px rgba(52, 211, 153, 0.2);
+}
+body.night-mode[data-book="hurst"] .chapter-picker-item.has-subchapters[data-chapter-id="chapter-10"]::after {
+    color: #34d399;
+}
+body.night-mode[data-book="hurst"] .subchapter-picker[data-parent-id="chapter-10"] {
+    border-left-color: #064e3b;
+}
+body.night-mode[data-book="hurst"] .subchapter-picker[data-parent-id="chapter-10"] .chapter-picker-item.active {
+    background: rgba(52, 211, 153, 0.15);
+    color: #a7f3d0;
+}
+
+/* Section 11 Night Mode */
+body.night-mode[data-book="hurst"] .chapter-item.has-subchapters[data-chapter-id="chapter-11"],
+body.night-mode[data-book="hurst"] .chapter-picker-item.has-subchapters[data-chapter-id="chapter-11"] {
+    border-left-color: #fb923c;
+    color: #fed7aa;
+    background: linear-gradient(to right, rgba(251, 146, 60, 0.12), transparent);
+}
+body.night-mode[data-book="hurst"] .chapter-item.has-subchapters[data-chapter-id="chapter-11"] .chapter-toggle {
+    background: rgba(251, 146, 60, 0.2);
+    color: #fed7aa;
+}
+body.night-mode[data-book="hurst"] .chapter-item.subchapter[data-parent-id="chapter-11"].active {
+    border-left-color: #fb923c;
+    color: #fed7aa;
+    background: linear-gradient(to right, rgba(251, 146, 60, 0.15), transparent);
+}
+body.night-mode[data-book="hurst"] .chapter-item.subchapter[data-parent-id="chapter-11"].active::before {
+    background: #fb923c;
+    box-shadow: 0 0 0 3px rgba(251, 146, 60, 0.2);
+}
+body.night-mode[data-book="hurst"] .chapter-picker-item.has-subchapters[data-chapter-id="chapter-11"]::after {
+    color: #fb923c;
+}
+body.night-mode[data-book="hurst"] .subchapter-picker[data-parent-id="chapter-11"] {
+    border-left-color: #7c2d12;
+}
+body.night-mode[data-book="hurst"] .subchapter-picker[data-parent-id="chapter-11"] .chapter-picker-item.active {
+    background: rgba(251, 146, 60, 0.15);
+    color: #fed7aa;
+}
+
+/* Section 12 Night Mode */
+body.night-mode[data-book="hurst"] .chapter-item.has-subchapters[data-chapter-id="chapter-12"],
+body.night-mode[data-book="hurst"] .chapter-picker-item.has-subchapters[data-chapter-id="chapter-12"] {
+    border-left-color: #2dd4bf;
+    color: #99f6e4;
+    background: linear-gradient(to right, rgba(45, 212, 191, 0.12), transparent);
+}
+body.night-mode[data-book="hurst"] .chapter-item.has-subchapters[data-chapter-id="chapter-12"] .chapter-toggle {
+    background: rgba(45, 212, 191, 0.2);
+    color: #99f6e4;
+}
+body.night-mode[data-book="hurst"] .chapter-item.subchapter[data-parent-id="chapter-12"].active {
+    border-left-color: #2dd4bf;
+    color: #99f6e4;
+    background: linear-gradient(to right, rgba(45, 212, 191, 0.15), transparent);
+}
+body.night-mode[data-book="hurst"] .chapter-item.subchapter[data-parent-id="chapter-12"].active::before {
+    background: #2dd4bf;
+    box-shadow: 0 0 0 3px rgba(45, 212, 191, 0.2);
+}
+body.night-mode[data-book="hurst"] .chapter-picker-item.has-subchapters[data-chapter-id="chapter-12"]::after {
+    color: #2dd4bf;
+}
+body.night-mode[data-book="hurst"] .subchapter-picker[data-parent-id="chapter-12"] {
+    border-left-color: #134e4a;
+}
+body.night-mode[data-book="hurst"] .subchapter-picker[data-parent-id="chapter-12"] .chapter-picker-item.active {
+    background: rgba(45, 212, 191, 0.15);
+    color: #99f6e4;
+}
+
+/* Section 13 Night Mode */
+body.night-mode[data-book="hurst"] .chapter-item.has-subchapters[data-chapter-id="chapter-13"],
+body.night-mode[data-book="hurst"] .chapter-picker-item.has-subchapters[data-chapter-id="chapter-13"] {
+    border-left-color: #e879f9;
+    color: #f5d0fe;
+    background: linear-gradient(to right, rgba(232, 121, 249, 0.12), transparent);
+}
+body.night-mode[data-book="hurst"] .chapter-item.has-subchapters[data-chapter-id="chapter-13"] .chapter-toggle {
+    background: rgba(232, 121, 249, 0.2);
+    color: #f5d0fe;
+}
+body.night-mode[data-book="hurst"] .chapter-item.subchapter[data-parent-id="chapter-13"].active {
+    border-left-color: #e879f9;
+    color: #f5d0fe;
+    background: linear-gradient(to right, rgba(232, 121, 249, 0.15), transparent);
+}
+body.night-mode[data-book="hurst"] .chapter-item.subchapter[data-parent-id="chapter-13"].active::before {
+    background: #e879f9;
+    box-shadow: 0 0 0 3px rgba(232, 121, 249, 0.2);
+}
+body.night-mode[data-book="hurst"] .chapter-picker-item.has-subchapters[data-chapter-id="chapter-13"]::after {
+    color: #e879f9;
+}
+body.night-mode[data-book="hurst"] .subchapter-picker[data-parent-id="chapter-13"] {
+    border-left-color: #701a75;
+}
+body.night-mode[data-book="hurst"] .subchapter-picker[data-parent-id="chapter-13"] .chapter-picker-item.active {
+    background: rgba(232, 121, 249, 0.15);
+    color: #f5d0fe;
+}
+
+/* Section 14 Night Mode */
+body.night-mode[data-book="hurst"] .chapter-item.has-subchapters[data-chapter-id="chapter-14"],
+body.night-mode[data-book="hurst"] .chapter-picker-item.has-subchapters[data-chapter-id="chapter-14"] {
+    border-left-color: #fb7185;
+    color: #fecdd3;
+    background: linear-gradient(to right, rgba(251, 113, 133, 0.12), transparent);
+}
+body.night-mode[data-book="hurst"] .chapter-item.has-subchapters[data-chapter-id="chapter-14"] .chapter-toggle {
+    background: rgba(251, 113, 133, 0.2);
+    color: #fecdd3;
+}
+body.night-mode[data-book="hurst"] .chapter-item.subchapter[data-parent-id="chapter-14"].active {
+    border-left-color: #fb7185;
+    color: #fecdd3;
+    background: linear-gradient(to right, rgba(251, 113, 133, 0.15), transparent);
+}
+body.night-mode[data-book="hurst"] .chapter-item.subchapter[data-parent-id="chapter-14"].active::before {
+    background: #fb7185;
+    box-shadow: 0 0 0 3px rgba(251, 113, 133, 0.2);
+}
+body.night-mode[data-book="hurst"] .chapter-picker-item.has-subchapters[data-chapter-id="chapter-14"]::after {
+    color: #fb7185;
+}
+body.night-mode[data-book="hurst"] .subchapter-picker[data-parent-id="chapter-14"] {
+    border-left-color: #4c0519;
+}
+body.night-mode[data-book="hurst"] .subchapter-picker[data-parent-id="chapter-14"] .chapter-picker-item.active {
+    background: rgba(251, 113, 133, 0.15);
+    color: #fecdd3;
+}
+
+/* Section 15 Night Mode */
+body.night-mode[data-book="hurst"] .chapter-item.has-subchapters[data-chapter-id="chapter-15"],
+body.night-mode[data-book="hurst"] .chapter-picker-item.has-subchapters[data-chapter-id="chapter-15"] {
+    border-left-color: #a3e635;
+    color: #d9f99d;
+    background: linear-gradient(to right, rgba(163, 230, 53, 0.12), transparent);
+}
+body.night-mode[data-book="hurst"] .chapter-item.has-subchapters[data-chapter-id="chapter-15"] .chapter-toggle {
+    background: rgba(163, 230, 53, 0.2);
+    color: #d9f99d;
+}
+body.night-mode[data-book="hurst"] .chapter-item.subchapter[data-parent-id="chapter-15"].active {
+    border-left-color: #a3e635;
+    color: #d9f99d;
+    background: linear-gradient(to right, rgba(163, 230, 53, 0.15), transparent);
+}
+body.night-mode[data-book="hurst"] .chapter-item.subchapter[data-parent-id="chapter-15"].active::before {
+    background: #a3e635;
+    box-shadow: 0 0 0 3px rgba(163, 230, 53, 0.2);
+}
+body.night-mode[data-book="hurst"] .chapter-picker-item.has-subchapters[data-chapter-id="chapter-15"]::after {
+    color: #a3e635;
+}
+body.night-mode[data-book="hurst"] .subchapter-picker[data-parent-id="chapter-15"] {
+    border-left-color: #365314;
+}
+body.night-mode[data-book="hurst"] .subchapter-picker[data-parent-id="chapter-15"] .chapter-picker-item.active {
+    background: rgba(163, 230, 53, 0.15);
+    color: #d9f99d;
+}
+
+/* Section 16 Night Mode */
+body.night-mode[data-book="hurst"] .chapter-item.has-subchapters[data-chapter-id="chapter-16"],
+body.night-mode[data-book="hurst"] .chapter-picker-item.has-subchapters[data-chapter-id="chapter-16"] {
+    border-left-color: #60a5fa;
+    color: #bfdbfe;
+    background: linear-gradient(to right, rgba(96, 165, 250, 0.12), transparent);
+}
+body.night-mode[data-book="hurst"] .chapter-item.has-subchapters[data-chapter-id="chapter-16"] .chapter-toggle {
+    background: rgba(96, 165, 250, 0.2);
+    color: #bfdbfe;
+}
+body.night-mode[data-book="hurst"] .chapter-item.subchapter[data-parent-id="chapter-16"].active {
+    border-left-color: #60a5fa;
+    color: #bfdbfe;
+    background: linear-gradient(to right, rgba(96, 165, 250, 0.15), transparent);
+}
+body.night-mode[data-book="hurst"] .chapter-item.subchapter[data-parent-id="chapter-16"].active::before {
+    background: #60a5fa;
+    box-shadow: 0 0 0 3px rgba(96, 165, 250, 0.2);
+}
+body.night-mode[data-book="hurst"] .chapter-picker-item.has-subchapters[data-chapter-id="chapter-16"]::after {
+    color: #60a5fa;
+}
+body.night-mode[data-book="hurst"] .subchapter-picker[data-parent-id="chapter-16"] {
+    border-left-color: #1e3a8a;
+}
+body.night-mode[data-book="hurst"] .subchapter-picker[data-parent-id="chapter-16"] .chapter-picker-item.active {
+    background: rgba(96, 165, 250, 0.15);
+    color: #bfdbfe;
 }
 
 body.night-mode #chapter-picker,

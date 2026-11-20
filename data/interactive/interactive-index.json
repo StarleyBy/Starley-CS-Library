@@ -50,5 +50,164 @@
         "defaultParams": "embed=1&lang=ru&show=baseline,early-inf,optimal"
       }
     ]
+  },
+  {
+    "id": "carpentier-functional-atlas",
+    "titleRu": "Атлас и симулятор функциональной классификации Карпантье",
+    "titleEn": "Carpentier Functional Classification Atlas & Simulator",
+    "descriptionRu": "Интерактивный симулятор подвижности створок митрального клапана, векторов регургитирующих струй на цветном Допплере и хирургической триады Карпантье: норма, Тип I (дилатация кольца, перфорация/cleft), Тип II (пролапс P2, пролапс A2), Тип IIIa (диастолическое ревматическое ограничение), Тип IIIb (систолический ишемический тентинг); сердечный цикл, выбор опорного кольца и тест самопроверки.",
+    "descriptionEn": "Interactive simulator of mitral leaflet motion dynamics, color Doppler regurgitant jet vectors, and Carpentier's reconstructive triad: normal valve, Type I (annular dilatation, cleft/perforation), Type II (P2 prolapse, A2 prolapse), Type IIIa (diastolic rheumatic restriction), Type IIIb (systolic ischemic tethering); cardiac cycle animation, prosthetic ring selection, and spot-the-mechanism quiz.",
+    "path": "assets/interactive/carpentier-functional-atlas.html",
+    "badge": "🎛️",
+    "category": "cardiac_surgery",
+    "tags": [
+      "mitral_valve",
+      "carpentier_classification",
+      "valve_repair",
+      "annuloplasty",
+      "prolapse",
+      "tethering"
+    ],
+    "sources": [
+      "Carpentier A, Adams DH, Filsoufi F. Reconstructive Valve Surgery, Ch. 2, 6, 8-15"
+    ],
+    "embeddings": [
+      {
+        "type": "chapter",
+        "book": "books/cardiac-surgery/carpentier",
+        "chapter": "chapter-02",
+        "section": "The Functional Classification",
+        "titleRu": "Атлас функциональной классификации Карпантье",
+        "titleEn": "Carpentier Functional Classification Atlas"
+      },
+      {
+        "type": "chapter",
+        "book": "books/cardiac-surgery/carpentier",
+        "chapter": "chapter-06",
+        "section": "Preoperative Valve Analysis",
+        "titleRu": "Атлас функциональной классификации Карпантье",
+        "titleEn": "Carpentier Functional Classification Atlas"
+      }
+    ]
+  },
+  {
+    "id": "carpentier-segmental-map",
+    "titleRu": "Интерактивная сегментарная карта митрального клапана и зоны хирургического риска",
+    "titleEn": "Interactive Mitral Segmental Map & Surgical Danger Zones",
+    "descriptionRu": "Интерактивная 8-сегментная анатомическая карта митрального клапана по Карпантье (A1–A3, P1–P3, AC, PC): сопоставление хирургического вида en-face (доступ через левое предсердие) и многоплоскостной чреспищеводной эхокардиографии (ЧПЭхоКГ 0°, 60°, 120°); анатомические зоны риска (огибающая артерия, АВ-узел/пучок Гиса, венечный синус, аортальные створки); хирургические техники реконструкции для каждого сегмента.",
+    "descriptionEn": "Interactive Carpentier 8-segment mitral valve map (A1, A2, A3, P1, P2, P3, AC, PC): correlation of surgical en-face view (left atrial exposure) with multiplane TEE views (0° 4-chamber, 60° 2-chamber/commissural, 120° long-axis); critical surgical danger zones (circumflex artery, AV node / bundle of His, coronary sinus, aortic cusps); segment-specific repair techniques.",
+    "path": "assets/interactive/carpentier-segmental-map.html",
+    "badge": "🎛️",
+    "category": "cardiac_surgery",
+    "tags": [
+      "mitral_valve",
+      "segmental_anatomy",
+      "carpentier_scallops",
+      "danger_zones",
+      "circumflex_artery",
+      "bundle_of_his",
+      "tee"
+    ],
+    "sources": [
+      "Carpentier A, Adams DH, Filsoufi F. Reconstructive Valve Surgery, Ch. 5, 7"
+    ],
+    "embeddings": [
+      {
+        "type": "chapter",
+        "book": "books/cardiac-surgery/carpentier",
+        "chapter": "chapter-05",
+        "section": "Surgeon's View of the Mitral Valve",
+        "titleRu": "Интерактивная сегментарная карта митрального клапана",
+        "titleEn": "Interactive Mitral Segmental Map"
+      },
+      {
+        "type": "chapter",
+        "book": "books/cardiac-surgery/carpentier",
+        "chapter": "chapter-07",
+        "section": "Systematic Intraoperative Valve Analysis",
+        "titleRu": "Интерактивная сегментарная карта митрального клапана",
+        "titleEn": "Interactive Mitral Segmental Map"
+      }
+    ]
+  },
+  {
+    "id": "barlow-fed-comparator",
+    "titleRu": "Дифференциальный морфологический компаратор: Болезнь Барлоу vs FED",
+    "titleEn": "Morphological Differential Comparator: Barlow's Disease vs Fibroelastic Deficiency",
+    "descriptionRu": "Интерактивное дифференциальное сравнение дегенеративной патологии митрального клапана (FED, Forma Frusta, болезнь Барлоу, синдром Марфана): возраст, объём и толщина ткани створок, состояние хорд, диаметр фиброзного кольца и кальциноз (MAC); риск SAM; хирургическая стратегия: «Respect rather than Resect» (неохорды PTFE) против классической резекции со скользящей пластикой (sliding plasty) и аннулопластикой ремоделирующим кольцом.",
+    "descriptionEn": "Interactive differential comparison of degenerative mitral valve disease spectrum (FED, Forma Frusta, Barlow's Disease, Marfan Syndrome): patient demographics, leaflet tissue volume and thickness, chordal pathology, annular dilation, calcification (MAC); SAM risk prediction; surgical strategy: 'Respect rather than Resect' (PTFE neo-chordae) vs classic resection with sliding leaflet plasty and remodeling ring annuloplasty.",
+    "path": "assets/interactive/barlow-fed-comparator.html",
+    "badge": "🎛️",
+    "category": "cardiac_surgery",
+    "tags": [
+      "degenerative_mitral",
+      "barlow_disease",
+      "fibroelastic_deficiency",
+      "fed",
+      "sam_risk",
+      "sliding_plasty",
+      "respect_vs_resect"
+    ],
+    "sources": [
+      "Carpentier A, Adams DH, Filsoufi F. Reconstructive Valve Surgery, Ch. 10, 26"
+    ],
+    "embeddings": [
+      {
+        "type": "chapter",
+        "book": "books/cardiac-surgery/carpentier",
+        "chapter": "chapter-26",
+        "section": "Pathological and Clinical Dichotomy: Barlow vs. Fibroelastic Deficiency",
+        "titleRu": "Дифференциальный морфологический компаратор: Болезнь Барлоу vs FED",
+        "titleEn": "Morphological Differential Comparator: Barlow's vs FED"
+      },
+      {
+        "type": "chapter",
+        "book": "books/cardiac-surgery/carpentier",
+        "chapter": "chapter-10",
+        "section": "Functional Definition and Differential Diagnosis",
+        "titleRu": "Дифференциальный морфологический компаратор: Болезнь Барлоу vs FED",
+        "titleEn": "Morphological Differential Comparator: Barlow's vs FED"
+      }
+    ]
+  },
+  {
+    "id": "sam-prevention-simulator",
+    "titleRu": "Симулятор механизмов и хирургической профилактики SAM",
+    "titleEn": "SAM Mechanisms & Surgical Prevention Simulator",
+    "descriptionRu": "Интерактивная биомеханическая модель геометрии выводного тракта левого желудочка (LVOT) и митрального аппарата: влияние высоты задней створки (>15 мм порог риска), отношения передней к задней створке, расстояния C-Sept, гипертрофии МЖП и размера кольца на возникновение SAM и градиента в LVOT; моделирование хирургических маневров профилактики (скользящая пластика posterior leaflet sliding plasty, складчатая пластика folding plasty, выбор размера и формы кольца, укорочение/трансфер хорд); протокол медикаментозного купирования.",
+    "descriptionEn": "Interactive biomechanical simulator of LVOT geometry and mitral valve coaptation: impact of posterior leaflet height (>15 mm threshold), anterior-to-posterior height ratio, C-Sept distance, basal septal hypertrophy, and ring sizing on SAM and LVOT obstruction; modeling of surgical prevention maneuvers (posterior leaflet sliding plasty, folding plasty, chordal transfer, ring sizing/geometry); pharmacological rescue protocol.",
+    "path": "assets/interactive/sam-prevention-simulator.html",
+    "badge": "🎛️",
+    "category": "cardiac_surgery",
+    "tags": [
+      "sam",
+      "systolic_anterior_motion",
+      "lvot_obstruction",
+      "sliding_plasty",
+      "carpentier_15mm_rule",
+      "mitral_repair",
+      "c_sept"
+    ],
+    "sources": [
+      "Carpentier A, Adams DH, Filsoufi F. Reconstructive Valve Surgery, Ch. 15, 31"
+    ],
+    "embeddings": [
+      {
+        "type": "chapter",
+        "book": "books/cardiac-surgery/carpentier",
+        "chapter": "chapter-15",
+        "section": "Anatomical Risk Stratification",
+        "titleRu": "Симулятор механизмов и хирургической профилактики SAM",
+        "titleEn": "SAM Mechanisms & Surgical Prevention Simulator"
+      },
+      {
+        "type": "chapter",
+        "book": "books/cardiac-surgery/carpentier",
+        "chapter": "chapter-31",
+        "section": "Septal Bulging and Mitral Geometry",
+        "titleRu": "Симулятор механизмов и хирургической профилактики SAM",
+        "titleEn": "SAM Mechanisms & Surgical Prevention Simulator"
+      }
+    ]
   }
 ]

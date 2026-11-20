@@ -73,6 +73,14 @@
 
 <details class="med-details"><summary>
 
+#### 🎛️ Дифференциальный морфологический компаратор: Болезнь Барлоу vs FED</summary><div class="details-content">
+
+<iframe src="../../../../assets/interactive/barlow-fed-comparator.html?embed=1&lang=ru" style="width:100%;min-height:580px;border:none;border-radius:12px;overflow:hidden;" loading="lazy"></iframe>
+
+</div></details>
+
+<details class="med-details"><summary>
+
 ## БОЛЕЗНЬ БАРЛОУ</summary><div class="details-content">
 
 #### История открытия и терминология

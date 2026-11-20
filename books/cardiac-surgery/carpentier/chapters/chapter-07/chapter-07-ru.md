@@ -121,6 +121,14 @@
 
 **РИСУНОК 7-4**
 
+<details class="med-details"><summary>
+
+#### 🎛️ Интерактивная сегментарная карта митрального клапана: анализ «Нить Ариадны»</summary><div class="details-content">
+
+<iframe src="../../../../assets/interactive/carpentier-segmental-map.html?embed=1&lang=ru" style="width:100%;min-height:560px;border:none;border-radius:12px;overflow:hidden;" loading="lazy"></iframe>
+
+</div></details>
+
 #### Последовательное сопоставление сегментов
 С помощью второго крючка остальные клапанные сегменты исследуются последовательно и сравниваются с сегментом P1 для определения их пролапса или рестрикции.
 

@@ -121,6 +121,14 @@ The normal leaflet motion of P1 should be confirmed, however, by pulling its fre
 
 **FIGURE 7-4**
 
+<details class="med-details"><summary>
+
+#### 🎛️ Interactive Mitral Segmental Map: The "Fil d'Ariane" Analysis</summary><div class="details-content">
+
+<iframe src="../../../../assets/interactive/carpentier-segmental-map.html?embed=1&lang=en" style="width:100%;min-height:560px;border:none;border-radius:12px;overflow:hidden;" loading="lazy"></iframe>
+
+</div></details>
+
 #### Sequential Segment Comparison
 Using another hook, the remaining valvular segments are examined in a sequential manner and compared to P1 to determine whether they are prolapsed or restricted.
 

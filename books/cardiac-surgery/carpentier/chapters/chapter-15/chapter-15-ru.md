@@ -76,6 +76,14 @@
 
 </div></details>
 
+<details class="med-details"><summary>
+
+#### 🎛️ Симулятор механизмов и хирургической профилактики SAM</summary><div class="details-content">
+
+<iframe src="../../../../assets/interactive/sam-prevention-simulator.html?embed=1&lang=ru" style="width:100%;min-height:600px;border:none;border-radius:12px;overflow:hidden;" loading="lazy"></iframe>
+
+</div></details>
+
 </div></details>
 
 <details class="med-details"><summary>

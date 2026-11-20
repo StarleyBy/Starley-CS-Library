@@ -62,11 +62,12 @@ description: Агент «Каталогизатор» следит за сог�
 |---|---|
 | `{ "file": "chapter-05.md" }` | `chapters/chapter-05/chapter-05.md` (допустим запасной вариант `chapters/chapter-05.md`) |
 | Подглава `chapter-05-02.md` внутри `subchapters` | `chapters/chapter-05/chapter-05-02.md` (папка родителя) |
+| Секции (Модель Харста / Hurst Model) | Родитель — `section-XX.md` в `chapters/section-XX/`, а подглавы — полноценные главы `chapter-YY.md` в собственных папках `chapters/chapter-YY/` (валидатор `validate-library` автоматически ищет файл в `chapters/chapter-YY/chapter-YY.md`) |
 | Приложение `chapter-Appendix 1.md` | `chapters/chapter-Appendix 1/chapter-Appendix 1.md` |
 | Переводы | рядом с основным файлом: `<имя>-ru.md`, `<имя>-he.md` |
 | Рисунки главы | `chapters/chapter-05/images/` (в git не хранятся) |
 
-Номер в `title` (`"31. Acid-Base Analysis"`) должен совпадать с номером в имени файла (`chapter-31.md`); у подглав — `"5.2 …"` и `chapter-05-02.md`.
+Номер в `title` (`"31. Acid-Base Analysis"`) должен совпадать с номером в имени файла (`chapter-31.md`); у подглав — `"5.2 …"` и `chapter-05-02.md`. Для секций допустимы эмодзи-маркеры направлений (`🔵 SECTION I`, `🔴 SECTION II` и т. д.).
 
 ---
 

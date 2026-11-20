@@ -224,6 +224,14 @@
 
 Функциональная классификация служит незыблемым фундаментом анализа клапана и путеводной нитью для достижения стабильного успеха реконструктивной операции.
 
+<details class="med-details"><summary>
+
+#### 🎛️ Атлас функциональной классификации Карпантье</summary><div class="details-content">
+
+<iframe src="../../../../assets/interactive/carpentier-functional-atlas.html?embed=1&lang=ru" style="width:100%;border:none;min-height:650px;border-radius:12px;display:block;background:transparent;" loading="lazy"></iframe>
+
+</div></details>
+
 </div></details>
 
 </div></details>

@@ -52,6 +52,14 @@ Anterior leaflet prolapse is commonly seen in degenerative valve disease, bacter
 
 Anterior leaflet prolapse should be differentiated from the billowing leaflets seen in Barlow’s valve, in which the free edge of the leaflets remains below the plane of the mitral annulus. However, a leaflet prolapse may complicate the course of this disease.
 
+<details class="med-details"><summary>
+
+#### 🎛️ Morphological Differential Comparator: Barlow's Disease vs Fibroelastic Deficiency</summary><div class="details-content">
+
+<iframe src="../../../../assets/interactive/barlow-fed-comparator.html?embed=1&lang=en" style="width:100%;min-height:580px;border:none;border-radius:12px;overflow:hidden;" loading="lazy"></iframe>
+
+</div></details>
+
 #### Technical Selection Framework
 
 Several surgical techniques have been developed to correct anterior leaflet prolapse. The choice of the appropriate technique depends upon the anatomical conditions: the extent of the prolapse (the length and number of leaflet segments involved); the degree of prolapse (the degree of overriding); and, most importantly, the lesions producing the prolapse (chordae or papillary muscle rupture or elongation).

@@ -146,6 +146,14 @@ Assessing leaflet motion relative to the plane of the annulus provides the found
 
 </div></details>
 
+<details class="med-details"><summary>
+
+#### 🎛️ Carpentier Functional Classification Atlas & Simulator</summary><div class="details-content">
+
+<iframe src="../../../../assets/interactive/carpentier-functional-atlas.html?embed=1&lang=en" style="width:100%;border:none;min-height:650px;border-radius:12px;display:block;background:transparent;" loading="lazy"></iframe>
+
+</div></details>
+
 </div></details>
 
 </div></details>

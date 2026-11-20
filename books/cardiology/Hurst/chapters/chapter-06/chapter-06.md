@@ -2,5 +2,5 @@
 
 ## Contents
 
-- 6.1. 30. Epidemiology of Smoking and Pathophysiology of Cardiovascular Damage
-- 6.2. 31. Preventing and Mitigating Smoking-Related Heart Disease
+- 30. Epidemiology of Smoking and Pathophysiology of Cardiovascular Damage
+- 31. Preventing and Mitigating Smoking-Related Heart Disease

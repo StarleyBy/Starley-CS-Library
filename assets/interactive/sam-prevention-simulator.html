@@ -1,0 +1,873 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width,initial-scale=1,viewport-fit=cover">
+<title>SAM Mechanisms & Surgical Prevention Simulator</title>
+<style>
+:root {
+  --bg: #0b0f17;
+  --card: #0f172a;
+  --card-hover: #1e293b;
+  --ln: #1e293b;
+  --ln2: #334155;
+  --tx: #e2e8f0;
+  --mu: #94a3b8;
+  --ac: #e11d48;
+  --ac-subtle: rgba(225, 29, 72, 0.15);
+  --blue: #38bdf8;
+  --green: #34d399;
+  --amber: #fbbf24;
+  --purple: #a78bfa;
+  --rose: #f43f5e;
+  --lvot: #38bdf8;
+}
+* { box-sizing: border-box; }
+body {
+  margin: 0;
+  padding: max(10px, env(safe-area-inset-top)) 10px max(10px, env(safe-area-inset-bottom));
+  background: var(--bg);
+  color: var(--tx);
+  font: 14px/1.45 -apple-system, BlinkMacSystemFont, "SF Pro Text", system-ui, "Segoe UI", Roboto, sans-serif;
+  -webkit-text-size-adjust: 100%;
+}
+[data-theme="oled"] { --bg: #000; --card: #0a0a0c; --ln: #1c1c1e; --ln2: #2c2c2e; }
+[data-theme="light"] {
+  --bg: #f8fafc;
+  --card: #ffffff;
+  --card-hover: #f1f5f9;
+  --ln: #e2e8f0;
+  --ln2: #cbd5e1;
+  --tx: #0f172a;
+  --mu: #64748b;
+  --ac: #be123c;
+  --ac-subtle: rgba(190, 18, 60, 0.1);
+  --blue: #0284c7;
+  --green: #059669;
+  --amber: #d97706;
+  --purple: #7c3aed;
+  --rose: #e11d48;
+  --lvot: #0284c7;
+}
+.w { max-width: 1100px; margin: 0 auto; display: grid; gap: 12px; }
+.card { background: var(--card); border: 1px solid var(--ln); border-radius: 16px; padding: 14px; }
+h1 { font-size: 18px; margin: 0; font-weight: 700; display: flex; align-items: center; gap: 8px; }
+.sub { color: var(--mu); font-size: 12px; margin: 3px 0 0; }
+.bar { display: flex; flex-wrap: wrap; gap: 10px; align-items: center; justify-content: space-between; }
+.btns { display: flex; flex-wrap: wrap; gap: 6px; }
+button {
+  font: inherit;
+  font-size: 12px;
+  color: var(--tx);
+  background: var(--ln);
+  border: 1px solid var(--ln2);
+  border-radius: 999px;
+  padding: 6px 14px;
+  cursor: pointer;
+  min-height: 36px;
+  transition: all 0.2s ease;
+  user-select: none;
+  display: inline-flex;
+  align-items: center;
+  gap: 5px;
+}
+@media(pointer: coarse) { button { min-height: 44px; } }
+button:hover { background: var(--card-hover); border-color: var(--mu); }
+button.active { border-color: var(--ac); color: var(--ac); background: var(--ac-subtle); font-weight: 600; }
+button.action-btn { border-color: var(--green); color: var(--green); background: rgba(52, 211, 153, 0.15); font-weight: 700; }
+button.action-btn:hover { background: rgba(52, 211, 153, 0.25); }
+
+/* Preset Scenarios */
+.scenario-grid {
+  display: grid;
+  grid-template-columns: repeat(auto-fit, minmax(210px, 1fr));
+  gap: 8px;
+  margin-top: 8px;
+}
+.scenario-btn {
+  text-align: left;
+  border-radius: 12px;
+  padding: 8px 12px;
+  border: 1px solid var(--ln);
+  background: var(--bg);
+  cursor: pointer;
+  transition: all 0.2s ease;
+}
+.scenario-btn:hover { border-color: var(--mu); background: var(--card-hover); }
+.scenario-btn.active { border-color: var(--ac); background: var(--ac-subtle); font-weight: 600; }
+.sb-title { font-size: 12px; font-weight: 700; display: block; }
+.sb-desc { font-size: 11px; color: var(--mu); display: block; margin-top: 2px; }
+
+/* Simulator Layout */
+.sim-grid {
+  display: grid;
+  grid-template-columns: 1.3fr 0.9fr;
+  gap: 12px;
+  margin-top: 10px;
+}
+@media (max-width: 860px) {
+  .sim-grid { grid-template-columns: 1fr; }
+}
+
+.stage-card {
+  background: rgba(0,0,0,0.15);
+  border: 1px solid var(--ln);
+  border-radius: 12px;
+  padding: 12px;
+  position: relative;
+  overflow: hidden;
+}
+.stage-title {
+  font-size: 12px;
+  font-weight: 700;
+  text-transform: uppercase;
+  letter-spacing: 0.5px;
+  margin-bottom: 8px;
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+}
+svg.stage {
+  display: block;
+  width: 100%;
+  height: auto;
+  user-select: none;
+}
+
+/* Control Sliders Panel */
+.controls-panel {
+  display: flex;
+  flex-direction: column;
+  gap: 10px;
+}
+.control-group {
+  background: var(--bg);
+  border: 1px solid var(--ln);
+  border-radius: 12px;
+  padding: 10px 12px;
+}
+.control-header {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  font-size: 11px;
+  font-weight: 700;
+  text-transform: uppercase;
+  color: var(--mu);
+  margin-bottom: 6px;
+}
+.control-val {
+  font-size: 13px;
+  font-weight: 800;
+  color: var(--tx);
+}
+input[type="range"] {
+  width: 100%;
+  accent-color: var(--ac);
+  cursor: pointer;
+}
+
+/* Status & Telemetry HUD */
+.hud-grid {
+  display: grid;
+  grid-template-columns: repeat(3, 1fr);
+  gap: 8px;
+  margin-top: 10px;
+}
+.hud-box {
+  background: var(--bg);
+  border: 1px solid var(--ln);
+  border-radius: 12px;
+  padding: 10px;
+  text-align: center;
+}
+.hud-label {
+  font-size: 10px;
+  text-transform: uppercase;
+  font-weight: 700;
+  color: var(--mu);
+  margin-bottom: 4px;
+}
+.hud-val {
+  font-size: 16px;
+  font-weight: 800;
+}
+.val-good { color: var(--green); }
+.val-warn { color: var(--amber); }
+.val-crit { color: var(--rose); }
+
+/* Surgical Action Deck */
+.deck-card {
+  background: var(--bg);
+  border: 1px solid var(--ln);
+  border-radius: 12px;
+  padding: 12px 14px;
+  margin-top: 10px;
+}
+.deck-title {
+  font-size: 12px;
+  font-weight: 700;
+  text-transform: uppercase;
+  color: var(--blue);
+  margin-bottom: 8px;
+  display: flex;
+  align-items: center;
+  gap: 6px;
+}
+
+body.embed .nm { display: none !important; }
+body.embed { padding: 4px; }
+body.embed .card { border: none; padding: 6px; background: transparent; }
+</style>
+</head>
+<body>
+<div class="w">
+  <!-- Header (Hidden in embed mode) -->
+  <div class="card nm">
+    <div class="bar">
+      <div>
+        <h1 id="txt-title">🎛️ Симулятор механизмов и хирургической профилактики SAM</h1>
+        <div class="sub" id="txt-sub">Биомеханика выводного тракта ЛЖ, правило 15 мм Алена Карпантье, sliding plasty и протокол купирования</div>
+      </div>
+      <div class="btns">
+        <button id="btn-lang" title="Switch Language">English</button>
+        <button id="btn-theme" title="Switch Theme">🌗 Тема</button>
+      </div>
+    </div>
+  </div>
+
+  <!-- Presets Bar -->
+  <div class="card">
+    <div style="font-size:11px;text-transform:uppercase;color:var(--mu);font-weight:700;" id="txt-presets-label">Клинические сценарии:</div>
+    <div class="scenario-grid">
+      <div class="scenario-btn active" data-preset="normal">
+        <span class="sb-title" id="sb-norm-title">✅ Нормальная реконструкция</span>
+        <span class="sb-desc" id="sb-norm-desc">Hp 12 мм, кольцо 32 мм, нет SAM, градиент 4 мм рт. ст.</span>
+      </div>
+      <div class="scenario-btn" data-preset="severe-sam">
+        <span class="sb-title" id="sb-sam-title">⚠️ Тяжелый ятрогенный SAM</span>
+        <span class="sb-desc" id="sb-sam-desc">Болезнь Барлоу, Hp 22 мм + кольцо 28 мм, градиент >75 мм рт. ст.</span>
+      </div>
+      <div class="scenario-btn" data-preset="sliding">
+        <span class="sb-title" id="sb-slide-title">🛠️ Профилактика: Sliding Plasty</span>
+        <span class="sb-desc" id="sb-slide-desc">Карпантье: резекция + снижение Hp до 12 мм, кольцо 34 мм</span>
+      </div>
+      <div class="scenario-btn" data-preset="hocm">
+        <span class="sb-title" id="sb-hocm-title">⚡ ГОКМП (Септальный балдж)</span>
+        <span class="sb-desc" id="sb-hocm-desc">МЖП 22 мм, узкий аорто-митральный угол, динамический SAM</span>
+      </div>
+    </div>
+  </div>
+
+  <!-- Simulator Main Grid -->
+  <div class="sim-grid">
+    <!-- SVG Graphic Stage (Parasternal Long-Axis LVOT / Mitral View) -->
+    <div class="stage-card">
+      <div class="stage-title">
+        <span id="txt-stage-title">Биомеханика ВТЛЖ и зона коаптации (Систола)</span>
+        <span id="badge-sam-status" class="val-good" style="font-weight:800;font-size:11px;">✅ SAM: НЕТ (Норма)</span>
+      </div>
+      <svg class="stage" id="svg-sam" viewBox="0 0 540 430">
+        <defs>
+          <linearGradient id="grad-blood" x1="0" y1="0" x2="1" y2="1">
+            <stop offset="0%" stop-color="#0f172a" stop-opacity="0.9"/>
+            <stop offset="100%" stop-color="#020617" stop-opacity="0.95"/>
+          </linearGradient>
+          <linearGradient id="jet-gradient" x1="0" y1="1" x2="1" y2="0">
+            <stop offset="0%" stop-color="#0284c7" stop-opacity="0.8"/>
+            <stop offset="50%" stop-color="#eab308" stop-opacity="0.9"/>
+            <stop offset="100%" stop-color="#ef4444" stop-opacity="0.95"/>
+          </linearGradient>
+        </defs>
+
+        <!-- Left Ventricle & Atrium Cavity Outline -->
+        <path d="M 60,60 L 110,130 C 100,240 140,360 270,390 C 400,360 450,240 430,130 L 480,60" fill="url(#grad-blood)" stroke="#334155" stroke-width="3"/>
+        <text id="txt-lv-cavity" x="270" y="360" fill="#475569" font-size="12" font-weight="700" text-anchor="middle">Левый желудочек (ЛЖ)</text>
+
+        <!-- Aorta & LVOT Channel on Left -->
+        <path d="M 60,60 L 140,40 L 160,130" fill="none" stroke="#475569" stroke-width="4"/>
+        <text id="txt-lvot-ao" x="95" y="40" fill="#94a3b8" font-size="11" font-weight="700">Аорта / ВТЛЖ</text>
+
+        <!-- Interventricular Septum (Anterior wall of LVOT with dynamic bulge) -->
+        <path id="path-septum" d="M 60,60 C 90,130 95,200 120,280 C 140,340 200,380 270,390" fill="none" stroke="#64748b" stroke-width="12" stroke-linecap="round"/>
+        <text id="lbl-septum" x="80" y="180" fill="#cbd5e1" font-size="10" font-weight="700">МЖП (Перегородка)</text>
+
+        <!-- High-Velocity Ejection Stream Arrows in LVOT -->
+        <g id="grp-flow-arrows" opacity="0.6">
+          <path d="M 180,240 Q 150,170 120,90" fill="none" stroke="var(--blue)" stroke-width="3" stroke-dasharray="6 3"/>
+          <path d="M 210,250 Q 180,170 140,85" fill="none" stroke="var(--blue)" stroke-width="3" stroke-dasharray="6 3"/>
+        </g>
+
+        <!-- Dynamic High-Velocity Turbulence Jet in Severe SAM -->
+        <path id="path-turb-jet" d="M 150,180 Q 130,120 120,70" fill="none" stroke="url(#jet-gradient)" stroke-width="8" stroke-linecap="round" opacity="0"/>
+
+        <!-- Annulus Hinges -->
+        <!-- Anterior Annulus Hinge -->
+        <circle cx="160" cy="130" r="7" fill="#64748b"/>
+        <text id="lbl-ant-ring" x="160" y="115" fill="#94a3b8" font-size="9" font-weight="600" text-anchor="middle">Переднее кольцо</text>
+
+        <!-- Posterior Annulus Hinge (Dynamic X position according to ring size) -->
+        <circle id="circ-post-ring" cx="400" cy="130" r="7" fill="#64748b"/>
+        <text id="lbl-post-ring" x="400" y="115" fill="#94a3b8" font-size="9" font-weight="600" text-anchor="middle">Заднее кольцо</text>
+
+        <!-- Coaptation-to-Septum Distance (C-Sept) Measurement Line -->
+        <g id="grp-c-sept">
+          <line id="line-c-sept" x1="115" y1="190" x2="260" y2="190" stroke="#fbbf24" stroke-width="2" stroke-dasharray="3 3"/>
+          <circle id="dot-c-sept-start" cx="115" cy="190" r="3" fill="#fbbf24"/>
+          <circle id="dot-c-sept-end" cx="260" cy="190" r="3" fill="#fbbf24"/>
+          <text id="txt-c-sept-val" x="180" y="182" fill="#fbbf24" font-size="10" font-weight="800" text-anchor="middle">C-Sept: 27 мм</text>
+        </g>
+
+        <!-- Mitral Leaflets (Dynamic SVG Curves) -->
+        <!-- Anterior Leaflet (A2) -->
+        <path id="path-a2-sim" d="M 160,130 Q 200,170 260,190" fill="none" stroke="var(--blue)" stroke-width="4.5" stroke-linecap="round"/>
+        <text x="195" y="150" fill="var(--blue)" font-size="11" font-weight="800">A2</text>
+
+        <!-- Slack Distal Tip of Anterior Leaflet (Bending into LVOT during SAM!) -->
+        <path id="path-a2-tip" d="M 260,190 Q 260,190 260,190" fill="none" stroke="var(--rose)" stroke-width="4.5" stroke-linecap="round"/>
+
+        <!-- Posterior Leaflet (P2) -->
+        <path id="path-p2-sim" d="M 400,130 Q 330,165 260,190" fill="none" stroke="var(--ac)" stroke-width="4.5" stroke-linecap="round"/>
+        <text id="txt-p2-sim" x="340" y="155" fill="var(--ac)" font-size="11" font-weight="800">P2</text>
+
+        <!-- Coaptation Landmark Point -->
+        <circle id="coapt-dot" cx="260" cy="190" r="6" fill="#ffffff" stroke="#e11d48" stroke-width="2"/>
+
+        <!-- Venturi Suction Force Visual Vector in SAM -->
+        <g id="grp-venturi" opacity="0">
+          <line x1="260" y1="190" x2="160" y2="150" stroke="#f43f5e" stroke-width="3" stroke-dasharray="4 2"/>
+          <text id="txt-venturi-force" x="210" y="215" fill="#f43f5e" font-size="11" font-weight="800">⚡ Сила увлечения Вентури</text>
+        </g>
+
+        <!-- Secondary Eccentric Mitral Regurgitation Jet (Posterolateral in SAM) -->
+        <g id="grp-mr-jet" opacity="0">
+          <path d="M 260,185 Q 360,120 440,80" fill="none" stroke="#ef4444" stroke-width="6" stroke-linecap="round" opacity="0.8"/>
+          <text id="txt-mr-jet" x="350" y="90" fill="#ef4444" font-size="10" font-weight="800">Струя МР (Эксцентрическая)</text>
+        </g>
+
+        <!-- Papillary Muscles & Chordae -->
+        <ellipse cx="230" cy="300" rx="14" ry="24" fill="#334155" stroke="#475569"/>
+        <ellipse cx="330" cy="300" rx="14" ry="24" fill="#334155" stroke="#475569"/>
+        <line x1="260" y1="190" x2="230" y2="290" stroke="#64748b" stroke-width="1.5"/>
+        <line x1="265" y1="190" x2="330" y2="290" stroke="#64748b" stroke-width="1.5"/>
+      </svg>
+    </div>
+
+    <!-- Controls Panel -->
+    <div class="controls-panel">
+      <!-- Slider 1: Posterior Leaflet Height (Hp) -->
+      <div class="control-group">
+        <div class="control-header">
+          <span id="lbl-hp">Высота задней створки (Hp):</span>
+          <span class="control-val" id="val-hp" style="color:var(--green);">12 мм (Безопасно)</span>
+        </div>
+        <input type="range" id="slider-hp" min="8" max="25" value="12" step="1">
+        <div style="font-size:10px;color:var(--mu);margin-top:2px;" id="txt-hp-rule">Правило Карпантье: при Hp >15 мм риск SAM возрастает экспоненциально!</div>
+      </div>
+
+      <!-- Slider 2: Ring Size -->
+      <div class="control-group">
+        <div class="control-header">
+          <span id="lbl-ring">Размер опорного кольца:</span>
+          <span class="control-val" id="val-ring">32 мм</span>
+        </div>
+        <input type="range" id="slider-ring" min="26" max="38" value="32" step="2">
+        <div style="font-size:10px;color:var(--mu);margin-top:2px;" id="txt-ring-hint">Недоразмеренное кольцо (<30 мм) смещает коаптацию вперед в LVOT.</div>
+      </div>
+
+      <!-- Slider 3: Basal Septal Thickness (Bulge) -->
+      <div class="control-group">
+        <div class="control-header">
+          <span id="lbl-sept">Толщина базальной МЖП:</span>
+          <span class="control-val" id="val-sept">11 мм (Норма)</span>
+        </div>
+        <input type="range" id="slider-sept" min="9" max="24" value="11" step="1">
+        <div style="font-size:10px;color:var(--mu);margin-top:2px;" id="txt-sept-hint">Септальный балдж сужает LVOT и ускоряет систолический поток.</div>
+      </div>
+
+      <!-- Slider 4: Hemodynamic / Inotrope State -->
+      <div class="control-group">
+        <div class="control-header">
+          <span id="lbl-hemo">Гемодинамический статус:</span>
+          <span class="control-val" id="val-hemo">Нормоволемия</span>
+        </div>
+        <input type="range" id="slider-hemo" min="0" max="2" value="1" step="1">
+        <div style="font-size:10px;color:var(--mu);margin-top:2px;" id="txt-hemo-hint">0: Гиповолемия / Инотропы | 1: Нормоволемия | 2: Волемическая нагрузка / Бета-блокаторы</div>
+      </div>
+    </div>
+  </div>
+
+  <!-- Telemetry & Diagnostic HUD -->
+  <div class="hud-grid">
+    <div class="hud-box">
+      <div class="hud-label" id="hud-lbl-csept">Расстояние C-Sept</div>
+      <div class="hud-val val-good" id="hud-csept">27 мм</div>
+      <div style="font-size:10px;color:var(--mu);" id="hud-sub-csept">Норма > 25 мм</div>
+    </div>
+    <div class="hud-box">
+      <div class="hud-label" id="hud-lbl-grad">Градиент в ВТЛЖ (ΔP)</div>
+      <div class="hud-val val-good" id="hud-grad">4 мм рт. ст.</div>
+      <div style="font-size:10px;color:var(--mu);" id="hud-sub-grad">Обструкция: отсутствует</div>
+    </div>
+    <div class="hud-box">
+      <div class="hud-label" id="hud-lbl-risk">Риск обструкции и SAM</div>
+      <div class="hud-val val-good" id="hud-risk">Минимальный (&lt; 2%)</div>
+      <div style="font-size:10px;color:var(--mu);" id="hud-sub-risk">Оптимальная геометрия</div>
+    </div>
+  </div>
+
+  <!-- Surgical Action Deck & Rescue Maneuvers -->
+  <div class="deck-card">
+    <div class="bar">
+      <div class="deck-title">
+        <span id="txt-deck-title">🛠️ Хирургические и фармакологические маневры купирования SAM</span>
+      </div>
+      <div class="btns">
+        <button id="btn-do-sliding" class="action-btn">✂️ Выполнить Sliding Plasty</button>
+        <button id="btn-do-upsize" class="action-btn">💍 Увеличить кольцо (+2 размера)</button>
+        <button id="btn-do-pharma" class="action-btn">💊 Протокол: Отмена инотропов + Нагрузка</button>
+        <button id="btn-do-reset">🔄 Сброс</button>
+      </div>
+    </div>
+    <div id="txt-deck-explain" style="font-size:12px;color:var(--tx);margin-top:8px;line-height:1.5;"></div>
+  </div>
+</div>
+
+<script>
+(function() {
+  let currentLang = 'ru';
+
+  // State Variables
+  let hp = 12; // Posterior Leaflet Height (mm)
+  let ringSize = 32; // Annuloplasty ring size (mm)
+  let septThickness = 11; // Septal thickness (mm)
+  let hemoState = 1; // 0: Hypovolemic/Inotropes, 1: Euvolemic, 2: Volume-loaded/Beta-blockers
+
+  const dict = {
+    ru: {
+      title: "🎛️ Симулятор механизмов и хирургической профилактики SAM",
+      sub: "Биомеханика выводного тракта ЛЖ, правило 15 мм Алена Карпантье, sliding plasty и протокол купирования",
+      langBtn: "Английский",
+      themeBtn: "🌗 Тема",
+      presetsLabel: "Клинические сценарии:",
+      sbNormTitle: "✅ Нормальная реконструкция",
+      sbNormDesc: "Hp 12 мм, кольцо 32 мм, нет SAM, градиент 4 мм рт. ст.",
+      sbSamTitle: "⚠️ Тяжелый ятрогенный SAM",
+      sbSamDesc: "Болезнь Барлоу, Hp 22 мм + кольцо 28 мм, градиент >75 мм рт. ст.",
+      sbSlideTitle: "🛠️ Профилактика: Sliding Plasty",
+      sbSlideDesc: "Карпантье: резекция + снижение Hp до 12 мм, кольцо 34 мм",
+      sbHocmTitle: "⚡ ГОКМП (Септальный балдж)",
+      sbHocmDesc: "МЖП 22 мм, узкий аорто-митральный угол, динамический SAM",
+      stageTitle: "Биомеханика ВТЛЖ и зона коаптации (Систола)",
+      lvCavity: "Левый желудочек (ЛЖ)",
+      lvotAo: "Аорта / ВТЛЖ",
+      septum: "МЖП (Перегородка)",
+      antRing: "Переднее кольцо",
+      postRing: "Заднее кольцо",
+      venturiForce: "⚡ Сила увлечения Вентури",
+      mrJet: "Струя МР (Эксцентрическая)",
+      lblHp: "Высота задней створки (Hp):",
+      txtHpRule: "Правило Карпантье: при Hp >15 мм риск SAM возрастает экспоненциально!",
+      lblRing: "Размер опорного кольца:",
+      txtRingHint: "Недоразмеренное кольцо (<30 мм) смещает коаптацию вперед в ВТЛЖ.",
+      lblSept: "Толщина базальной МЖП:",
+      txtSeptHint: "Септальный балдж сужает ВТЛЖ и ускоряет систолический поток.",
+      lblHemo: "Гемодинамический статус:",
+      txtHemoHint: "0: Гиповолемия / Инотропы | 1: Нормоволемия | 2: Волемическая нагрузка / Бета-блокаторы",
+      hudCsept: "Расстояние C-Sept",
+      hudSubCsept: "Норма > 25 мм",
+      hudGrad: "Градиент в ВТЛЖ (ΔP)",
+      hudRisk: "Риск обструкции и SAM",
+      deckTitle: "🛠️ Хирургические и фармакологические маневры купирования SAM",
+      btnSliding: "✂️ Выполнить скользящую пластику (Sliding Plasty)",
+      btnUpsize: "💍 Увеличить кольцо (+2 размера)",
+      btnPharma: "💊 Протокол: Отмена инотропов + Нагрузка",
+      btnReset: "🔄 Сброс",
+      unitMm: "мм",
+      unitMmhg: "мм рт. ст.",
+      statusNoSam: "✅ SAM: НЕТ (Норма)",
+      statusSamDetected: "⚠️ СИНДРОМ SAM (ОБСТРУКЦИЯ!)",
+      obsNone: "Обструкция: отсутствует",
+      obsMod: "Умеренный градиент",
+      obsSev: "ТЯЖЕЛАЯ ОБСТРУКЦИЯ!",
+      riskMin: "Минимальный (< 2%)",
+      riskCrit: "КРИТИЧЕСКИЙ (> 80%)",
+      riskElev: "Повышенный (15–30%)",
+      riskSubMin: "Оптимальная коаптация",
+      riskSubCrit: "Ятрогенный SAM + Регургитация",
+      riskSubElev: "Пограничная геометрия",
+      hpSafe: "Безопасно",
+      hpBorder: "Погранично!",
+      hpCrit: "ОПАСНО: SAM!",
+      septNorm: "Норма",
+      septHyp: "Гипертрофия",
+      hemoStates: ['0: Гиповолемия / Инотропы', '1: Нормоволемия', '2: Волемическая нагрузка / Бета-блокаторы'],
+      explainDefault: "<strong>Анатомический принцип «Sine Qua Non» по Карпантье:</strong> Сочетание избытка высоты задней створки (>15 мм) и недоразмеренного кольца выдвигает точку смыкания вперед в скоростной поток ВТЛЖ. Применяйте скользящую пластику (sliding plasty) для снижения высоты P2 до 10–12 мм и адекватный размер кольца!",
+      explainSliding: "✅ <strong>Выполнена скользящая пластика (Sliding Plasty):</strong> Высота задней створки уменьшена с критического уровня до безопасных 12 мм! Точка коаптации сместилась кзади, расстояние C-Sept увеличилось >26 мм, эффект Вентури ликвидирован, градиент в ВТЛЖ нормализовался.",
+      explainUpsize: "✅ <strong>Кольцо увеличено на 2 размера:</strong> Увеличение диаметра кольца отодвинуло заднюю створку от перегородки, расширило митральное отверстие и предотвратило переднее смещение зоны смыкания.",
+      explainPharma: "✅ <strong>Фармакологический протокол купирования на операционном столе:</strong> 1) Полная отмена инотропов (добутамин); 2) Объемная нагрузка (ЦВД/ДЗЛА 18–22 мм рт. ст.) для расправления полости ЛЖ; 3) Введение бета-блокаторов (эсмолол) для урежения ритма и увеличения времени диастолического наполнения."
+    },
+    en: {
+      title: "🎛️ SAM Mechanisms & Surgical Prevention Simulator",
+      sub: "LVOT biomechanics, Alain Carpentier's 15 mm rule, sliding plasty, and intraoperative rescue protocol",
+      langBtn: "Russian",
+      themeBtn: "🌗 Theme",
+      presetsLabel: "Clinical Scenarios:",
+      sbNormTitle: "✅ Optimal Valve Reconstruction",
+      sbNormDesc: "Hp 12 mm, ring 32 mm, zero SAM, LVOT gradient 4 mmHg",
+      sbSamTitle: "⚠️ Severe Iatrogenic SAM",
+      sbSamDesc: "Barlow's, Hp 22 mm + ring 28 mm, gradient >75 mmHg",
+      sbSlideTitle: "🛠️ Prevention: Sliding Plasty",
+      sbSlideDesc: "Carpentier: resection + Hp reduced to 12 mm, ring 34 mm",
+      sbHocmTitle: "⚡ HOCM (Septal Bulge)",
+      sbHocmDesc: "Septum 22 mm, narrow aorto-mitral angle, dynamic SAM",
+      stageTitle: "LVOT Biomechanics & Coaptation Geometry (Systole)",
+      lvCavity: "Left Ventricle (LV)",
+      lvotAo: "Aorta / LVOT",
+      septum: "Septum (IVS)",
+      antRing: "Ant. Ring",
+      postRing: "Post. Ring",
+      venturiForce: "⚡ Venturi Suction Force",
+      mrJet: "MR Jet (Eccentric)",
+      lblHp: "Posterior Leaflet Height (Hp):",
+      txtHpRule: "Carpentier's Rule: When Hp exceeds 15 mm, SAM risk escalates exponentially!",
+      lblRing: "Annuloplasty Ring Size:",
+      txtRingHint: "Undersized ring (<30 mm) displaces coaptation anteriorly into LVOT.",
+      lblSept: "Basal Septal Thickness:",
+      txtSeptHint: "Septal bulge narrows the LVOT and accelerates ejection velocity.",
+      lblHemo: "Hemodynamic Status:",
+      txtHemoHint: "0: Hypovolemia / Inotropes | 1: Normal | 2: Volume Loading / Beta-blockers",
+      hudCsept: "C-Sept Distance",
+      hudSubCsept: "Normal > 25 mm",
+      hudGrad: "LVOT Gradient (ΔP)",
+      hudRisk: "Obstruction & SAM Risk",
+      deckTitle: "🛠️ Surgical & Pharmacological SAM Management Deck",
+      btnSliding: "✂️ Apply Sliding Leaflet Plasty",
+      btnUpsize: "💍 Upsize Ring (+2 sizes)",
+      btnPharma: "💊 Protocol: Stop Inotropes + Volume Load",
+      btnReset: "🔄 Reset",
+      unitMm: "mm",
+      unitMmhg: "mmHg",
+      statusNoSam: "✅ SAM: ABSENT (Normal)",
+      statusSamDetected: "⚠️ SAM DETECTED (OBSTRUCTION!)",
+      obsNone: "No obstruction",
+      obsMod: "Moderate gradient",
+      obsSev: "SEVERE OBSTRUCTION!",
+      riskMin: "Minimal (< 2%)",
+      riskCrit: "CRITICAL (> 80%)",
+      riskElev: "Elevated (15–30%)",
+      riskSubMin: "Optimal coaptation",
+      riskSubCrit: "Iatrogenic SAM + MR",
+      riskSubElev: "Borderline geometry",
+      hpSafe: "Safe",
+      hpBorder: "Borderline!",
+      hpCrit: "CRITICAL SAM!",
+      septNorm: "Normal",
+      septHyp: "Hypertrophy",
+      hemoStates: ['0: Hypovolemia / Inotropes', '1: Euvolemic', '2: Volume Loaded / BB'],
+      explainDefault: "<strong>Carpentier's 'Sine Qua Non' Principle:</strong> Coexistence of excess posterior leaflet height (>15 mm) and an undersized annuloplasty ring pushes coaptation forward into the high-velocity LVOT stream. Employ sliding plasty to reduce P2 height to 10–12 mm and avoid undersizing!",
+      explainSliding: "✅ <strong>Sliding Leaflet Plasty Executed:</strong> Posterior leaflet height successfully reduced from dangerous levels down to 12 mm! Coaptation line shifted posteriorly, C-Sept distance expanded >26 mm, Venturi drag abolished, LVOT gradient normalized.",
+      explainUpsize: "✅ <strong>Ring Upsized by +2 Sizes:</strong> Upsizing the prosthetic ring moves the posterior hinge backward, expanding the mitral orifice and preventing anterior coaptation displacement.",
+      explainPharma: "✅ <strong>Operating Table Rescue Protocol:</strong> 1) Discontinue all inotropic infusions (dobutamine/epinephrine); 2) Aggressive volume loading (atrial filling pressure 18–22 mmHg) to expand cavity volume; 3) Beta-blockade (esmolol) to slow heart rate and extend filling time."
+    }
+  };
+
+  function getDict() { return dict[currentLang]; }
+
+  function postHeight() {
+    const h = Math.max(document.body.scrollHeight, document.documentElement.scrollHeight);
+    if (window.parent && window.parent.postMessage) {
+      window.parent.postMessage({ interactiveHeight: h, id: 'sam-prevention-simulator' }, '*');
+    }
+  }
+
+  function applyLanguage() {
+    const d = getDict();
+    document.getElementById('txt-title').textContent = d.title;
+    document.getElementById('txt-sub').textContent = d.sub;
+    document.getElementById('btn-lang').textContent = d.langBtn;
+    document.getElementById('btn-theme').textContent = d.themeBtn;
+    document.getElementById('txt-presets-label').textContent = d.presetsLabel;
+    document.getElementById('sb-norm-title').textContent = d.sbNormTitle;
+    document.getElementById('sb-norm-desc').textContent = d.sbNormDesc;
+    document.getElementById('sb-sam-title').textContent = d.sbSamTitle;
+    document.getElementById('sb-sam-desc').textContent = d.sbSamDesc;
+    document.getElementById('sb-slide-title').textContent = d.sbSlideTitle;
+    document.getElementById('sb-slide-desc').textContent = d.sbSlideDesc;
+    document.getElementById('sb-hocm-title').textContent = d.sbHocmTitle;
+    document.getElementById('sb-hocm-desc').textContent = d.sbHocmDesc;
+    document.getElementById('txt-stage-title').textContent = d.stageTitle;
+
+    document.getElementById('txt-lv-cavity').textContent = d.lvCavity;
+    document.getElementById('txt-lvot-ao').textContent = d.lvotAo;
+    document.getElementById('lbl-septum').textContent = d.septum;
+    document.getElementById('lbl-ant-ring').textContent = d.antRing;
+    document.getElementById('lbl-post-ring').textContent = d.postRing;
+    document.getElementById('txt-venturi-force').textContent = d.venturiForce;
+    document.getElementById('txt-mr-jet').textContent = d.mrJet;
+
+    document.getElementById('lbl-hp').textContent = d.lblHp;
+    document.getElementById('txt-hp-rule').textContent = d.txtHpRule;
+    document.getElementById('lbl-ring').textContent = d.lblRing;
+    document.getElementById('txt-ring-hint').textContent = d.txtRingHint;
+    document.getElementById('lbl-sept').textContent = d.lblSept;
+    document.getElementById('txt-sept-hint').textContent = d.txtSeptHint;
+    document.getElementById('lbl-hemo').textContent = d.lblHemo;
+    document.getElementById('txt-hemo-hint').textContent = d.txtHemoHint;
+    document.getElementById('hud-lbl-csept').textContent = d.hudCsept;
+    document.getElementById('hud-sub-csept').textContent = d.hudSubCsept;
+    document.getElementById('hud-lbl-grad').textContent = d.hudGrad;
+    document.getElementById('hud-lbl-risk').textContent = d.hudRisk;
+    document.getElementById('txt-deck-title').textContent = d.deckTitle;
+    document.getElementById('btn-do-sliding').textContent = d.btnSliding;
+    document.getElementById('btn-do-upsize').textContent = d.btnUpsize;
+    document.getElementById('btn-do-pharma').textContent = d.btnPharma;
+    document.getElementById('btn-do-reset').textContent = d.btnReset;
+    document.getElementById('txt-deck-explain').innerHTML = d.explainDefault;
+    updateSimulation();
+  }
+
+  function updateSimulation() {
+    const d = getDict();
+
+    // Sliders Readout
+    const valHpEl = document.getElementById('val-hp');
+    if (hp <= 14) {
+      valHpEl.textContent = `${hp} ${d.unitMm} (${d.hpSafe})`;
+      valHpEl.style.color = "var(--green)";
+    } else if (hp <= 18) {
+      valHpEl.textContent = `${hp} ${d.unitMm} (${d.hpBorder})`;
+      valHpEl.style.color = "var(--amber)";
+    } else {
+      valHpEl.textContent = `${hp} ${d.unitMm} (${d.hpCrit})`;
+      valHpEl.style.color = "var(--rose)";
+    }
+
+    document.getElementById('val-ring').textContent = `${ringSize} ${d.unitMm}`;
+
+    const valSeptEl = document.getElementById('val-sept');
+    valSeptEl.textContent = `${septThickness} ${d.unitMm} (${septThickness >= 16 ? d.septHyp : d.septNorm})`;
+    valSeptEl.style.color = septThickness >= 16 ? "var(--amber)" : "var(--tx)";
+
+    document.getElementById('val-hemo').textContent = d.hemoStates[hemoState];
+
+    // Mathematical Modeling of Geometry:
+    let cSept = 28 - (hp - 12) * 0.85 - (34 - ringSize) * 0.55 - (septThickness - 10) * 0.7 + (hemoState - 1) * 2.5;
+    cSept = Math.max(8, Math.round(cSept * 10) / 10);
+
+    const isSam = (hp >= 16 && cSept < 22) || cSept < 18;
+
+    let gradient = 3;
+    if (cSept < 15) {
+      gradient = Math.round(50 + (15 - cSept) * 4.5 + (hemoState === 0 ? 20 : hemoState === 2 ? -15 : 0));
+    } else if (cSept < 22) {
+      gradient = Math.round(15 + (22 - cSept) * 4 + (hemoState === 0 ? 10 : hemoState === 2 ? -8 : 0));
+    } else {
+      gradient = Math.round(3 + (28 - Math.min(28, cSept)) * 0.8);
+    }
+    gradient = Math.max(2, gradient);
+
+    // Update Telemetry HUD
+    const hudCseptEl = document.getElementById('hud-csept');
+    hudCseptEl.textContent = `${cSept} ${d.unitMm}`;
+    hudCseptEl.className = 'hud-val ' + (cSept >= 24 ? 'val-good' : cSept >= 18 ? 'val-warn' : 'val-crit');
+
+    const hudGradEl = document.getElementById('hud-grad');
+    hudGradEl.textContent = `${gradient} ${d.unitMmhg}`;
+    hudGradEl.className = 'hud-val ' + (gradient < 15 ? 'val-good' : gradient < 40 ? 'val-warn' : 'val-crit');
+
+    const hudSubGrad = document.getElementById('hud-sub-grad');
+    hudSubGrad.textContent = gradient < 15 ? d.obsNone : gradient < 40 ? d.obsMod : d.obsSev;
+
+    const hudRiskEl = document.getElementById('hud-risk');
+    const hudSubRisk = document.getElementById('hud-sub-risk');
+    if (!isSam && gradient < 15) {
+      hudRiskEl.textContent = d.riskMin;
+      hudRiskEl.className = 'hud-val val-good';
+      hudSubRisk.textContent = d.riskSubMin;
+    } else if (isSam && gradient >= 40) {
+      hudRiskEl.textContent = d.riskCrit;
+      hudRiskEl.className = 'hud-val val-crit';
+      hudSubRisk.textContent = d.riskSubCrit;
+    } else {
+      hudRiskEl.textContent = d.riskElev;
+      hudRiskEl.className = 'hud-val val-warn';
+      hudSubRisk.textContent = d.riskSubElev;
+    }
+
+    const badgeSam = document.getElementById('badge-sam-status');
+    if (isSam) {
+      badgeSam.textContent = d.statusSamDetected;
+      badgeSam.className = 'val-crit';
+    } else {
+      badgeSam.textContent = d.statusNoSam;
+      badgeSam.className = 'val-good';
+    }
+
+    // SVG Rendering Updates:
+    const septBulgeX = 95 + (septThickness - 10) * 2.2;
+    document.getElementById('path-septum').setAttribute('d', `M 60,60 C ${septBulgeX},130 ${septBulgeX},190 120,280 C 140,340 200,380 270,390`);
+    document.getElementById('dot-c-sept-start').setAttribute('cx', septBulgeX + 15);
+
+    const postRingX = 360 + (ringSize - 26) * 4;
+    document.getElementById('circ-post-ring').setAttribute('cx', postRingX);
+    document.getElementById('lbl-post-ring').setAttribute('x', postRingX);
+
+    const coaptX = (septBulgeX + 15) + (cSept * 5.2);
+    const coaptY = 190;
+    document.getElementById('coapt-dot').setAttribute('cx', coaptX);
+    document.getElementById('coapt-dot').setAttribute('cy', coaptY);
+
+    const lineCsept = document.getElementById('line-c-sept');
+    lineCsept.setAttribute('x1', septBulgeX + 15);
+    lineCsept.setAttribute('x2', coaptX);
+    document.getElementById('dot-c-sept-end').setAttribute('cx', coaptX);
+    document.getElementById('txt-c-sept-val').setAttribute('x', ((septBulgeX + 15) + coaptX) / 2);
+    document.getElementById('txt-c-sept-val').textContent = `C-Sept: ${cSept} ${d.unitMm}`;
+
+    document.getElementById('path-a2-sim').setAttribute('d', `M 160,130 Q ${(160+coaptX)/2 - 5},165 ${coaptX},190`);
+
+    const pathA2Tip = document.getElementById('path-a2-tip');
+    if (isSam) {
+      const tipX = coaptX - 35;
+      const tipY = 150;
+      pathA2Tip.setAttribute('d', `M ${coaptX},190 Q ${coaptX - 15},165 ${tipX},${tipY}`);
+      document.getElementById('grp-venturi').style.opacity = '1';
+      document.getElementById('grp-mr-jet').style.opacity = '1';
+      document.getElementById('path-turb-jet').style.opacity = '0.9';
+    } else {
+      pathA2Tip.setAttribute('d', `M ${coaptX},190 Q ${coaptX},190 ${coaptX},190`);
+      document.getElementById('grp-venturi').style.opacity = '0';
+      document.getElementById('grp-mr-jet').style.opacity = '0';
+      document.getElementById('path-turb-jet').style.opacity = '0';
+    }
+
+    const p2ArchY = 140 - (hp - 12) * 2.5;
+    document.getElementById('path-p2-sim').setAttribute('d', `M ${postRingX},130 Q ${(postRingX+coaptX)/2},${p2ArchY} ${coaptX},190`);
+    document.getElementById('txt-p2-sim').setAttribute('x', (postRingX+coaptX)/2);
+
+    postHeight();
+  }
+
+  // Bind Sliders
+  document.getElementById('slider-hp').addEventListener('input', function() {
+    hp = parseInt(this.value, 10);
+    updateSimulation();
+  });
+  document.getElementById('slider-ring').addEventListener('input', function() {
+    ringSize = parseInt(this.value, 10);
+    updateSimulation();
+  });
+  document.getElementById('slider-sept').addEventListener('input', function() {
+    septThickness = parseInt(this.value, 10);
+    updateSimulation();
+  });
+  document.getElementById('slider-hemo').addEventListener('input', function() {
+    hemoState = parseInt(this.value, 10);
+    updateSimulation();
+  });
+
+  // Action Buttons
+  document.getElementById('btn-do-sliding').addEventListener('click', function() {
+    hp = 12;
+    document.getElementById('slider-hp').value = 12;
+    document.getElementById('txt-deck-explain').innerHTML = getDict().explainSliding;
+    updateSimulation();
+  });
+
+  document.getElementById('btn-do-upsize').addEventListener('click', function() {
+    ringSize = Math.min(38, ringSize + 4);
+    document.getElementById('slider-ring').value = ringSize;
+    document.getElementById('txt-deck-explain').innerHTML = getDict().explainUpsize;
+    updateSimulation();
+  });
+
+  document.getElementById('btn-do-pharma').addEventListener('click', function() {
+    hemoState = 2; // Volume loading & beta blockade
+    document.getElementById('slider-hemo').value = 2;
+    document.getElementById('txt-deck-explain').innerHTML = getDict().explainPharma;
+    updateSimulation();
+  });
+
+  document.getElementById('btn-do-reset').addEventListener('click', function() {
+    setPreset('normal');
+    document.getElementById('txt-deck-explain').innerHTML = getDict().explainDefault;
+  });
+
+  // Presets
+  function setPreset(name) {
+    document.querySelectorAll('.scenario-btn').forEach(b => {
+      if (b.getAttribute('data-preset') === name) b.classList.add('active');
+      else b.classList.remove('active');
+    });
+
+    if (name === 'normal') {
+      hp = 12;
+      ringSize = 32;
+      septThickness = 11;
+      hemoState = 1;
+    } else if (name === 'severe-sam') {
+      hp = 22;
+      ringSize = 28;
+      septThickness = 14;
+      hemoState = 0;
+    } else if (name === 'sliding') {
+      hp = 12;
+      ringSize = 34;
+      septThickness = 14;
+      hemoState = 1;
+      document.getElementById('txt-deck-explain').innerHTML = getDict().explainSliding;
+    } else if (name === 'hocm') {
+      hp = 17;
+      ringSize = 30;
+      septThickness = 22;
+      hemoState = 0;
+    }
+
+    document.getElementById('slider-hp').value = hp;
+    document.getElementById('slider-ring').value = ringSize;
+    document.getElementById('slider-sept').value = septThickness;
+    document.getElementById('slider-hemo').value = hemoState;
+
+    updateSimulation();
+  }
+
+  document.querySelectorAll('.scenario-btn').forEach(btn => {
+    btn.addEventListener('click', function() {
+      setPreset(this.getAttribute('data-preset'));
+    });
+  });
+
+  // Language & Theme
+  document.getElementById('btn-lang').addEventListener('click', function() {
+    currentLang = currentLang === 'ru' ? 'en' : 'ru';
+    applyLanguage();
+  });
+
+  document.getElementById('btn-theme').addEventListener('click', function() {
+    const html = document.documentElement;
+    const cur = html.getAttribute('data-theme') || 'dark';
+    const next = cur === 'dark' ? 'light' : cur === 'light' ? 'oled' : 'dark';
+    html.setAttribute('data-theme', next);
+  });
+
+  // Check URL params
+  const urlParams = new URLSearchParams(window.location.search);
+  if (urlParams.get('lang') === 'en') currentLang = 'en';
+  if (urlParams.get('embed') === '1') document.body.classList.add('embed');
+  if (urlParams.get('preset')) setPreset(urlParams.get('preset'));
+
+  // Init
+  applyLanguage();
+  updateSimulation();
+
+  window.addEventListener('load', () => {
+    postHeight();
+    if (window.ResizeObserver) {
+      new ResizeObserver(postHeight).observe(document.body);
+    }
+  });
+})();
+</script>
+</body>
+</html>

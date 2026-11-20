@@ -93,6 +93,14 @@ The mechanism of obstruction is illustrated in [Figure 31-2](#fig-31-02). As a r
 
 <details class="med-details"><summary>
 
+#### 🎛️ SAM Mechanisms & Surgical Prevention Simulator</summary><div class="details-content">
+
+<iframe src="../../../../assets/interactive/sam-prevention-simulator.html?embed=1&lang=en" style="width:100%;min-height:600px;border:none;border-radius:12px;overflow:hidden;" loading="lazy"></iframe>
+
+</div></details>
+
+<details class="med-details"><summary>
+
 #### <span id="table-31-01"></span>TABLE 31-1: Characteristic Features of Hypertrophic Obstructive Cardiomyopathy</summary><div class="details-content">
 
 | Anatomical and Functional Characteristics | Clinical and Pathophysiological Relevance |

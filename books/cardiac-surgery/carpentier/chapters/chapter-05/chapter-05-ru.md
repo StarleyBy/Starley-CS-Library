@@ -144,6 +144,14 @@
 
 **РИСУНОК 5-6**
 
+<details class="med-details"><summary>
+
+#### 🎛️ Интерактивная сегментарная карта митрального клапана и зоны хирургического риска</summary><div class="details-content">
+
+<iframe src="../../../../assets/interactive/carpentier-segmental-map.html?embed=1&lang=ru" style="width:100%;min-height:560px;border:none;border-radius:12px;overflow:hidden;" loading="lazy"></iframe>
+
+</div></details>
+
 </div></details>
 
 <details class="med-details"><summary>

@@ -144,6 +144,14 @@ Four vital anatomical structures surround the mitral annulus and represent signi
 
 **FIGURE 5-6**
 
+<details class="med-details"><summary>
+
+#### 🎛️ Interactive Mitral Segmental Map & Surgical Danger Zones</summary><div class="details-content">
+
+<iframe src="../../../../assets/interactive/carpentier-segmental-map.html?embed=1&lang=en" style="width:100%;min-height:560px;border:none;border-radius:12px;overflow:hidden;" loading="lazy"></iframe>
+
+</div></details>
+
 </div></details>
 
 <details class="med-details"><summary>

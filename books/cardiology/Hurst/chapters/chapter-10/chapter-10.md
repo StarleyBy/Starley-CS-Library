@@ -2,14 +2,14 @@
 
 ## Contents
 
-- 10.1. 57.Classification of Cardiomyopathies
-- 10.2. 58. Dilated Cardiomyopathy
-- 10.3. 59. Hypertrophic Cardiomyopathies
-- 10.4. 60. Left Ventricular Noncompaction
-- 10.5. 61. Restrictive Heart Diseases
-- 10.6. 62. Arrhythmogenic Cardiomyopathy
-- 10.7. 63. Myocarditis
-- 10.8. 64. The Athlete and the Cardiovascular System
-- 10.9. 65. Cardiovascular Disease in the Elderly: Pathophysiology and ClinicalImplications
-- 10.10. 66. Pericardial Diseases
-- 10.11. 67. Infective Endocarditis
+- 57. Classification of Cardiomyopathies
+- 58. Dilated Cardiomyopathy
+- 59. Hypertrophic Cardiomyopathies
+- 60. Left Ventricular Noncompaction
+- 61. Restrictive Heart Diseases
+- 62. Arrhythmogenic Cardiomyopathy
+- 63. Myocarditis
+- 64. The Athlete and the Cardiovascular System
+- 65. Cardiovascular Disease in the Elderly: Pathophysiology and ClinicalImplications
+- 66. Pericardial Diseases
+- 67. Infective Endocarditis

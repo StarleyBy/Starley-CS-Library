@@ -73,6 +73,14 @@ Over the past four decades, advanced histopathological, genetic, and echocardiog
 
 <details class="med-details"><summary>
 
+#### 🎛️ Morphological Differential Comparator: Barlow's Disease vs Fibroelastic Deficiency</summary><div class="details-content">
+
+<iframe src="../../../../assets/interactive/barlow-fed-comparator.html?embed=1&lang=en" style="width:100%;min-height:580px;border:none;border-radius:12px;overflow:hidden;" loading="lazy"></iframe>
+
+</div></details>
+
+<details class="med-details"><summary>
+
 ## BARLOW'S DISEASE</summary><div class="details-content">
 
 #### History and Terminology

@@ -1480,6 +1480,8 @@ function _populateChapterPicker() {
     if (!list) return;
     list.innerHTML = '';
     const params = new URLSearchParams(window.location.search), bookPath = params.get('book');
+    const bookKey = (bookPath || '').split('/').pop().toLowerCase();
+    if (bookKey) document.body.dataset.book = bookKey;
     const rawBase = (typeof RAW_CONTENT_BASE_URL !== 'undefined') ? RAW_CONTENT_BASE_URL : (typeof BASE_URL !== 'undefined' ? BASE_URL : './');
     const metadataUrl = `${window.location.hostname.includes('github.io') ? rawBase : (typeof BASE_URL !== 'undefined' ? BASE_URL : './')}${bookPath}/metadata.json?v=${Date.now()}`;
     fetch(metadataUrl).then(r => r.json()).then(data => {
@@ -1512,7 +1514,7 @@ function _populateChapterPicker() {
                     subBtn.dataset.chapterId = subId;
                     subBtn.dataset.parentId = chId;
                     const displaySubTitle = (currentEdition === 'russian' && sub.russian) ? sub.russian : sub.title;
-                    subBtn.innerHTML = '↳ ' + displaySubTitle;
+                    subBtn.innerHTML = displaySubTitle;
                     subBtn.addEventListener('click', (e) => { e.stopPropagation(); _closeMenu(); if (typeof updateUrl === 'function') updateUrl(bookPath, subId, params.get('edition')||'original'); });
                     subDiv.appendChild(subBtn);
                 });

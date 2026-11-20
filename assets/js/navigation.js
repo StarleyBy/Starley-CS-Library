@@ -38,6 +38,9 @@ async function initReader(bookPath, chapterId, edition) {
         const bookMeta = data[0];
         console.log(`[DEBUG] initReader: metadata loaded:`, bookMeta);
 
+        const bookKey = (bookPath || '').split('/').pop().toLowerCase();
+        if (bookKey) document.body.dataset.book = bookKey;
+
         const titleToUse = (edition === 'russian' && bookMeta.russian_title) ? bookMeta.russian_title : bookMeta.title;
         document.getElementById('book-title').textContent = titleToUse;
 
@@ -126,7 +129,7 @@ function renderChapterList(bookMeta, bookPath, chapterId, edition) {
                 }
                 
                 html += `<div class="chapter-item subchapter ${isSubActive ? 'active' : ''}" data-chapter-id="${subId}" data-parent-id="${id}">`;
-                html += `↳ ${subTitle}</div>`;
+                html += `${subTitle}</div>`;
             });
             html += `</div>`;
         }
@@ -134,22 +137,45 @@ function renderChapterList(bookMeta, bookPath, chapterId, edition) {
 
     list.innerHTML = html;
 
-    // Секционные цветовые акценты (Carpentier и многосекционные издания)
+    // Секционные цветовые акценты (Carpentier, Hurst и многосекционные издания)
     const sectionColors = {
+        // Carpentier (6 sections)
         'section-01': '#64748b',
         'section-02': '#e11d48',
         'section-03': '#0284c7',
         'section-04': '#d97706',
         'section-05': '#059669',
-        'section-06': '#7c3aed'
+        'section-06': '#7c3aed',
+        // Hurst Cardiology (16 sections)
+        'chapter-01': '#475569',
+        'chapter-02': '#4338ca',
+        'chapter-03': '#0891b2',
+        'chapter-04': '#dc2626',
+        'chapter-05': '#d97706',
+        'chapter-06': '#78716c',
+        'chapter-07': '#e11d48',
+        'chapter-08': '#7c3aed',
+        'chapter-09': '#0284c7',
+        'chapter-10': '#059669',
+        'chapter-11': '#ea580c',
+        'chapter-12': '#0d9488',
+        'chapter-13': '#c026d3',
+        'chapter-14': '#9f1239',
+        'chapter-15': '#65a30d',
+        'chapter-16': '#2563eb'
     };
+    const bookKey = (bookPath || '').split('/').pop().toLowerCase();
+    document.body.dataset.book = bookKey;
+    const isMultiSection = allChapters.some(ch => ch.subchapters && ch.subchapters.length > 0);
     let activeSecId = null;
-    for (const ch of allChapters) {
-        const id = ch.file.replace('.md', '');
-        if (id === chapterId) { activeSecId = id; break; }
-        if (ch.subchapters && ch.subchapters.some(s => s.file.replace('.md', '') === chapterId)) {
-            activeSecId = id;
-            break;
+    if (isMultiSection) {
+        for (const ch of allChapters) {
+            const id = ch.file.replace('.md', '');
+            if (id === chapterId) { activeSecId = id; break; }
+            if (ch.subchapters && ch.subchapters.some(s => s.file.replace('.md', '') === chapterId)) {
+                activeSecId = id;
+                break;
+            }
         }
     }
     document.body.dataset.activeSection = activeSecId || '';
